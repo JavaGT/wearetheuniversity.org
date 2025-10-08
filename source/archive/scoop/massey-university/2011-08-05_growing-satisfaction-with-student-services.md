@@ -1,9 +1,12 @@
 ---
 slug: growing-satisfaction-with-student-services
-title: "Growing satisfaction with student services"
-date: 2011-08-05
-source-url: https://www.scoop.co.nz/stories/ED1108/S00042/growing-satisfaction-with-student-services.htm
+title: Growing satisfaction with student services
+date: 2011-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00042/growing-satisfaction-with-student-services.htm
 author: massey-university
+permalink: /archive/2011/08/05/growing-satisfaction-with-student-services/index.html
+layout: layout.njk
 ---
 Growing satisfaction with student services
 ==========================================

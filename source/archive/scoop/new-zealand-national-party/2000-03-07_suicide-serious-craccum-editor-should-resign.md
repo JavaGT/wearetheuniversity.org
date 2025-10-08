@@ -1,9 +1,12 @@
 ---
 slug: suicide-serious-craccum-editor-should-resign
-title: "Suicide serious, Craccum editor should resign"
-date: 2000-03-07
-source-url: https://www.scoop.co.nz/stories/PA0003/S00095/suicide-serious-craccum-editor-should-resign.htm
+title: Suicide serious, Craccum editor should resign
+date: 2000-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00095/suicide-serious-craccum-editor-should-resign.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/07/suicide-serious-craccum-editor-should-resign/index.html
+layout: layout.njk
 ---
 Suicide serious, Craccum editor should resign
 =============================================

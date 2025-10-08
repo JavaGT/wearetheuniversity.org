@@ -1,9 +1,13 @@
 ---
 slug: new-senior-role-at-victoria-for-leading-scientist
-title: "New senior role at Victoria for leading scientist"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/ED1411/S00032/new-senior-role-at-victoria-for-leading-scientist.htm
+title: New senior role at Victoria for leading scientist
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00032/new-senior-role-at-victoria-for-leading-scientist.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/06/new-senior-role-at-victoria-for-leading-scientist/index.html
+layout: layout.njk
 ---
 New senior role at Victoria for leading scientist
 =================================================

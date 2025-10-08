@@ -1,9 +1,12 @@
 ---
 slug: treatment-outcomes-for-leukaemias
-title: "Treatment Outcomes For Leukaemias"
-date: 2005-03-08
-source-url: https://www.scoop.co.nz/stories/GE0503/S00031/treatment-outcomes-for-leukaemias.htm
+title: Treatment Outcomes For Leukaemias
+date: 2005-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0503/S00031/treatment-outcomes-for-leukaemias.htm
 author: university-of-otago
+permalink: /archive/2005/03/08/treatment-outcomes-for-leukaemias/index.html
+layout: layout.njk
 ---
 Treatment Outcomes For Leukaemias
 =================================

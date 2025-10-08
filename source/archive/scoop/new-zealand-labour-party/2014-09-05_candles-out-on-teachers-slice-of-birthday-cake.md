@@ -1,9 +1,12 @@
 ---
 slug: candles-out-on-teachers-slice-of-birthday-cake
-title: "Candles out on teachers’ slice of birthday cake"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/PA1409/S00084/candles-out-on-teachers-slice-of-birthday-cake.htm
+title: Candles out on teachers’ slice of birthday cake
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00084/candles-out-on-teachers-slice-of-birthday-cake.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/05/candles-out-on-teachers-slice-of-birthday-cake/index.html
+layout: layout.njk
 ---
 Candles out on teachers’ slice of birthday cake
 ===============================================

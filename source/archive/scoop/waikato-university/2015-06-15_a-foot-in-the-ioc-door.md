@@ -1,9 +1,11 @@
 ---
 slug: a-foot-in-the-ioc-door
-title: "A foot in the IOC door"
-date: 2015-06-15
+title: A foot in the IOC door
+date: 2015-06-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1506/S00068/a-foot-in-the-ioc-door.htm
 author: waikato-university
+permalink: /archive/2015/06/15/a-foot-in-the-ioc-door/index.html
+layout: layout.njk
 ---
 A foot in the IOC door
 ======================

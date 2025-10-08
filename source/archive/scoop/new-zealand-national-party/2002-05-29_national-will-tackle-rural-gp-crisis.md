@@ -1,9 +1,12 @@
 ---
 slug: national-will-tackle-rural-gp-crisis
-title: "National Will Tackle Rural GP Crisis"
-date: 2002-05-29
-source-url: https://www.scoop.co.nz/stories/PA0205/S00663/national-will-tackle-rural-gp-crisis.htm
+title: National Will Tackle Rural GP Crisis
+date: 2002-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00663/national-will-tackle-rural-gp-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/29/national-will-tackle-rural-gp-crisis/index.html
+layout: layout.njk
 ---
 National Will Tackle Rural GP Crisis
 ====================================

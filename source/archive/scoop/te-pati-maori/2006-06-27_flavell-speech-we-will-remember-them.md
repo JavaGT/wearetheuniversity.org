@@ -1,9 +1,12 @@
 ---
 slug: flavell-speech-we-will-remember-them
-title: "Flavell Speech: We will remember them"
-date: 2006-06-27
-source-url: https://www.scoop.co.nz/stories/PA0606/S00538/flavell-speech-we-will-remember-them.htm
+title: 'Flavell Speech: We will remember them'
+date: 2006-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00538/flavell-speech-we-will-remember-them.htm
 author: te-pati-maori
+permalink: /archive/2006/06/27/flavell-speech-we-will-remember-them/index.html
+layout: layout.njk
 ---
 Flavell Speech: We will remember them
 =====================================

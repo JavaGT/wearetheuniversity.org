@@ -1,9 +1,11 @@
 ---
 slug: keeping-it-in-the-family
-title: "Keeping it in the family"
-date: 2014-03-04
+title: Keeping it in the family
+date: 2014-03-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1403/S00013/keeping-it-in-the-family.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/04/keeping-it-in-the-family/index.html
+layout: layout.njk
 ---
 Keeping it in the family
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: students-and-staff-save-film-at-vic
-title: "Students and Staff Save Film at Vic"
-date: 2008-05-06
-source-url: https://www.scoop.co.nz/stories/ED0805/S00017/students-and-staff-save-film-at-vic.htm
+title: Students and Staff Save Film at Vic
+date: 2008-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00017/students-and-staff-save-film-at-vic.htm
 author: vuwsa
+permalink: /archive/2008/05/06/students-and-staff-save-film-at-vic/index.html
+layout: layout.njk
 ---
 Students and Staff Save Film at Vic
 ===================================

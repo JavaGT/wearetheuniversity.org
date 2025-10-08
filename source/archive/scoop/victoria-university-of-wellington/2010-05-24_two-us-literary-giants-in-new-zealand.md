@@ -1,9 +1,12 @@
 ---
 slug: two-us-literary-giants-in-new-zealand
-title: "Two US literary giants in New Zealand"
-date: 2010-05-24
-source-url: https://www.scoop.co.nz/stories/CU1005/S00249/two-us-literary-giants-in-new-zealand.htm
+title: Two US literary giants in New Zealand
+date: 2010-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1005/S00249/two-us-literary-giants-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/24/two-us-literary-giants-in-new-zealand/index.html
+layout: layout.njk
 ---
 Two US literary giants in New Zealand
 =====================================

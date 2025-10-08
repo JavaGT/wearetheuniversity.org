@@ -1,9 +1,12 @@
 ---
 slug: uc-forestry-academic-wins-international-award
-title: "UC Forestry academic wins international award"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/ED1605/S00069/uc-forestry-academic-wins-international-award.htm
+title: UC Forestry academic wins international award
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00069/uc-forestry-academic-wins-international-award.htm
 author: university-of-canterbury
+permalink: /archive/2016/05/17/uc-forestry-academic-wins-international-award/index.html
+layout: layout.njk
 ---
 UC Forestry academic wins international award
 =============================================

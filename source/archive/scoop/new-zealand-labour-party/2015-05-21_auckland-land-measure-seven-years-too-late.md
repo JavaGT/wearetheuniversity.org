@@ -1,9 +1,12 @@
 ---
 slug: auckland-land-measure-seven-years-too-late
-title: "Auckland land measure seven years too late"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00306/auckland-land-measure-seven-years-too-late.htm
+title: Auckland land measure seven years too late
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00306/auckland-land-measure-seven-years-too-late.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/21/auckland-land-measure-seven-years-too-late/index.html
+layout: layout.njk
 ---
 Auckland land measure seven years too late
 ==========================================

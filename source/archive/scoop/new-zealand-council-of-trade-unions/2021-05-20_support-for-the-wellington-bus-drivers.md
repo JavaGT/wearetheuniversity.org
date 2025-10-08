@@ -1,9 +1,12 @@
 ---
 slug: support-for-the-wellington-bus-drivers
-title: "Support For The Wellington Bus Drivers"
-date: 2021-05-20
-source-url: https://www.scoop.co.nz/stories/AK2105/S00391/support-for-the-wellington-bus-drivers.htm
+title: Support For The Wellington Bus Drivers
+date: 2021-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2105/S00391/support-for-the-wellington-bus-drivers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2021/05/20/support-for-the-wellington-bus-drivers/index.html
+layout: layout.njk
 ---
 Support For The Wellington Bus Drivers
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-first-selects-jerry-ho-for-maungakiekie
-title: "NZ First Selects Jerry Ho for Maungakiekie"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/PO1109/S00341/nz-first-selects-jerry-ho-for-maungakiekie.htm
+title: NZ First Selects Jerry Ho for Maungakiekie
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00341/nz-first-selects-jerry-ho-for-maungakiekie.htm
 author: new-zealand-first-party
+permalink: /archive/2011/09/23/nz-first-selects-jerry-ho-for-maungakiekie/index.html
+layout: layout.njk
 ---
 NZ First Selects Jerry Ho for Maungakiekie
 ==========================================

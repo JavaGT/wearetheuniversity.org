@@ -1,9 +1,12 @@
 ---
 slug: prebble-why-energy-regulation-wont-work
-title: "Prebble: Why Energy Regulation Won't Work"
-date: 1999-06-18
-source-url: https://www.scoop.co.nz/stories/PA9906/S00125/prebble-why-energy-regulation-wont-work.htm
+title: 'Prebble: Why Energy Regulation Won''t Work'
+date: 1999-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00125/prebble-why-energy-regulation-wont-work.htm
 author: act-new-zealand
+permalink: /archive/1999/06/18/prebble-why-energy-regulation-wont-work/index.html
+layout: layout.njk
 ---
 Prebble: Why Energy Regulation Won't Work
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-university-staff-email-hikoi-to-parliament
-title: "Māori University Staff Email Hikoi to Parliament"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/ED0610/S00077/maori-university-staff-email-hikoi-to-parliament.htm
+title: Māori University Staff Email Hikoi to Parliament
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00077/maori-university-staff-email-hikoi-to-parliament.htm
 author: association-of-university-staff
+permalink: /archive/2006/10/19/m/index.html
+layout: layout.njk
 ---
 Māori University Staff Email Hikoi to Parliament
 ================================================

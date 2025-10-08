@@ -1,9 +1,13 @@
 ---
 slug: the-project-digital-disruption-2014-aut-university
-title: "The Project: Digital Disruption 2014: AUT University"
-date: 2014-03-11
-source-url: https://www.scoop.co.nz/stories/ED1403/S00053/the-project-digital-disruption-2014-aut-university.htm
+title: 'The Project: Digital Disruption 2014: AUT University'
+date: 2014-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00053/the-project-digital-disruption-2014-aut-university.htm
 author: aut-university
+permalink: >-
+  /archive/2014/03/11/the-project-digital-disruption-2014-aut-university/index.html
+layout: layout.njk
 ---
 The Project: Digital Disruption 2014: AUT University
 ====================================================

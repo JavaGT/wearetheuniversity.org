@@ -1,9 +1,13 @@
 ---
 slug: labours-talk-on-trade-training-is-rank-hypocrisy
-title: "Labour's talk on trade training is rank hypocrisy"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/PA0507/S00621/labours-talk-on-trade-training-is-rank-hypocrisy.htm
+title: Labour's talk on trade training is rank hypocrisy
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00621/labours-talk-on-trade-training-is-rank-hypocrisy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/07/28/labours-talk-on-trade-training-is-rank-hypocrisy/index.html
+layout: layout.njk
 ---
 Labour's talk on trade training is rank hypocrisy
 =================================================

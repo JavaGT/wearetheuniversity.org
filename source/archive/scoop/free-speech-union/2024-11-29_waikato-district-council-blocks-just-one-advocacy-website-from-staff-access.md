@@ -1,9 +1,15 @@
 ---
 slug: waikato-district-council-blocks-just-one-advocacy-website-from-staff-access
-title: "Waikato District Council Blocks – Just One – Advocacy Website From Staff Access"
-date: 2024-11-29
-source-url: https://www.scoop.co.nz/stories/AK2411/S00852/waikato-district-council-blocks-just-one-advocacy-website-from-staff-access.htm
+title: >-
+  Waikato District Council Blocks – Just One – Advocacy Website From Staff
+  Access
+date: 2024-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2411/S00852/waikato-district-council-blocks-just-one-advocacy-website-from-staff-access.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/11/29/waikato-district-council-blocks-just-one-advocacy-website-from-staff-access/index.html
+layout: layout.njk
 ---
 Waikato District Council Blocks – Just One – Advocacy Website From Staff Access
 ===============================================================================

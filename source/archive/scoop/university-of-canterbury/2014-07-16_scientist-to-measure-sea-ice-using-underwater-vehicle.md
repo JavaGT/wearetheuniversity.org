@@ -1,9 +1,13 @@
 ---
 slug: scientist-to-measure-sea-ice-using-underwater-vehicle
-title: "Scientist to measure sea ice using underwater vehicle"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/SC1407/S00038/scientist-to-measure-sea-ice-using-underwater-vehicle.htm
+title: Scientist to measure sea ice using underwater vehicle
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00038/scientist-to-measure-sea-ice-using-underwater-vehicle.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/16/scientist-to-measure-sea-ice-using-underwater-vehicle/index.html
+layout: layout.njk
 ---
 Scientist to measure sea ice using underwater vehicle
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-remains-among-the-top-3%-of-universities-in-the-world
-title: "UC remains among the top 3% of universities in the world"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/ED1309/S00056/uc-remains-among-the-top-3-of-universities-in-the-world.htm
+title: UC remains among the top 3% of universities in the world
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00056/uc-remains-among-the-top-3-of-universities-in-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/10/uc-remains-among-the-top-3/index.html
+layout: layout.njk
 ---
 UC remains among the top 3% of universities in the world
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: cullen-should-listen-to-auckland-students
-title: "Cullen Should Listen To Auckland Students"
-date: 2004-04-30
-source-url: https://www.scoop.co.nz/stories/PA0404/S00487/cullen-should-listen-to-auckland-students.htm
+title: Cullen Should Listen To Auckland Students
+date: 2004-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00487/cullen-should-listen-to-auckland-students.htm
 author: act-new-zealand
+permalink: /archive/2004/04/30/cullen-should-listen-to-auckland-students/index.html
+layout: layout.njk
 ---
 Cullen Should Listen To Auckland Students
 =========================================

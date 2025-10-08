@@ -1,9 +1,13 @@
 ---
 slug: national-favouring-migrants-ahead-of-young-kiwis
-title: "National Favouring Migrants Ahead of Young Kiwis"
-date: 2017-04-26
-source-url: https://www.scoop.co.nz/stories/PA1704/S00312/national-favouring-migrants-ahead-of-young-kiwis.htm
+title: National Favouring Migrants Ahead of Young Kiwis
+date: 2017-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00312/national-favouring-migrants-ahead-of-young-kiwis.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/26/national-favouring-migrants-ahead-of-young-kiwis/index.html
+layout: layout.njk
 ---
 National Favouring Migrants Ahead of Young Kiwis
 ================================================

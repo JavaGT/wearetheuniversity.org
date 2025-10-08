@@ -1,9 +1,12 @@
 ---
 slug: reversing-the-decline-in-speakers-of-te-reo-māori
-title: "Reversing the decline in speakers of te reo Māori"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/ED1207/S00098/reversing-the-decline-in-speakers-of-te-reo-maori.htm
+title: Reversing the decline in speakers of te reo Māori
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00098/reversing-the-decline-in-speakers-of-te-reo-maori.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/07/26/reversing-the-decline-in-speakers-of-te-reo-m/index.html
+layout: layout.njk
 ---
 Reversing the decline in speakers of te reo Māori
 =================================================

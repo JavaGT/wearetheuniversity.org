@@ -1,9 +1,13 @@
 ---
 slug: global-spot-for-sexual-and-gender-rights-champion
-title: "Global spot for sexual and gender rights champion"
-date: 2015-12-14
-source-url: https://www.scoop.co.nz/stories/ED1512/S00062/global-spot-for-sexual-and-gender-rights-champion.htm
+title: Global spot for sexual and gender rights champion
+date: 2015-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00062/global-spot-for-sexual-and-gender-rights-champion.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/14/global-spot-for-sexual-and-gender-rights-champion/index.html
+layout: layout.njk
 ---
 Global spot for sexual and gender rights champion
 =================================================

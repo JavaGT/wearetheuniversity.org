@@ -1,9 +1,12 @@
 ---
 slug: strikes-and-hodgson-lead-to-longer-waits
-title: "Strikes and Hodgson lead to longer waits"
-date: 2006-06-12
-source-url: https://www.scoop.co.nz/stories/PA0606/S00171/strikes-and-hodgson-lead-to-longer-waits.htm
+title: Strikes and Hodgson lead to longer waits
+date: 2006-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00171/strikes-and-hodgson-lead-to-longer-waits.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/12/strikes-and-hodgson-lead-to-longer-waits/index.html
+layout: layout.njk
 ---
 Strikes and Hodgson lead to longer waits
 ========================================

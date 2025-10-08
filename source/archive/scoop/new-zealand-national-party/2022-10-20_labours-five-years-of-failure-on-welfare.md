@@ -1,9 +1,12 @@
 ---
 slug: labours-five-years-of-failure-on-welfare
-title: "Labour’s Five Years Of Failure On Welfare"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/PA2210/S00144/labours-five-years-of-failure-on-welfare.htm
+title: Labour’s Five Years Of Failure On Welfare
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00144/labours-five-years-of-failure-on-welfare.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/20/labours-five-years-of-failure-on-welfare/index.html
+layout: layout.njk
 ---
 Labour’s Five Years Of Failure On Welfare
 =========================================

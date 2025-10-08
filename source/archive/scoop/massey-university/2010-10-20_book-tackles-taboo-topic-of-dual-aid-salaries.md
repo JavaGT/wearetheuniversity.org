@@ -1,9 +1,12 @@
 ---
 slug: book-tackles-taboo-topic-of-dual-aid-salaries
-title: "Book tackles taboo topic of dual aid salaries"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/ED1010/S00074/book-tackles-taboo-topic-of-dual-aid-salaries.htm
+title: Book tackles taboo topic of dual aid salaries
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00074/book-tackles-taboo-topic-of-dual-aid-salaries.htm
 author: massey-university
+permalink: /archive/2010/10/20/book-tackles-taboo-topic-of-dual-aid-salaries/index.html
+layout: layout.njk
 ---
 Book tackles taboo topic of dual aid salaries
 =============================================

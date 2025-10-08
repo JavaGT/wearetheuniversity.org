@@ -1,9 +1,12 @@
 ---
 slug: many-new-mps-likely-from-nationals-list
-title: "Many new MPs likely from National’s list"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00719/many-new-mps-likely-from-nationals-list.htm
+title: Many new MPs likely from National’s list
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00719/many-new-mps-likely-from-nationals-list.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/30/many-new-mps-likely-from-nationals-list/index.html
+layout: layout.njk
 ---
 Many new MPs likely from National’s list
 ========================================

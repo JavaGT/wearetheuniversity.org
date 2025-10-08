@@ -1,9 +1,13 @@
 ---
 slug: noodle-city-party-to-beat-8-billion-dollar-blues
-title: "Noodle City Party to Beat 8 Billion Dollar Blues"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/ED0509/S00048/noodle-city-party-to-beat-8-billion-dollar-blues.htm
+title: Noodle City Party to Beat 8 Billion Dollar Blues
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00048/noodle-city-party-to-beat-8-billion-dollar-blues.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2005/09/14/noodle-city-party-to-beat-8-billion-dollar-blues/index.html
+layout: layout.njk
 ---
 Noodle City Party to Beat 8 Billion Dollar Blues
 ================================================

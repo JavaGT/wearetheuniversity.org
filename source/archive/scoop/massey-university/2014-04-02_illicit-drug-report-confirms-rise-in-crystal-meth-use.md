@@ -1,9 +1,13 @@
 ---
 slug: illicit-drug-report-confirms-rise-in-crystal-meth-use
-title: "Illicit drug report confirms rise in crystal meth use"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/ED1404/S00010/illicit-drug-report-confirms-rise-in-crystal-meth-use.htm
+title: Illicit drug report confirms rise in crystal meth use
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00010/illicit-drug-report-confirms-rise-in-crystal-meth-use.htm
 author: massey-university
+permalink: >-
+  /archive/2014/04/02/illicit-drug-report-confirms-rise-in-crystal-meth-use/index.html
+layout: layout.njk
 ---
 Illicit drug report confirms rise in crystal meth use
 =====================================================

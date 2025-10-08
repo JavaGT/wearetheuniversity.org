@@ -1,9 +1,12 @@
 ---
 slug: top-us-lecture-billing-for-massey-mathematician
-title: "Top US lecture billing for Massey mathematician"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/ED0909/S00099/top-us-lecture-billing-for-massey-mathematician.htm
+title: Top US lecture billing for Massey mathematician
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00099/top-us-lecture-billing-for-massey-mathematician.htm
 author: massey-university
+permalink: /archive/2009/09/24/top-us-lecture-billing-for-massey-mathematician/index.html
+layout: layout.njk
 ---
 Top US lecture billing for Massey mathematician
 ===============================================

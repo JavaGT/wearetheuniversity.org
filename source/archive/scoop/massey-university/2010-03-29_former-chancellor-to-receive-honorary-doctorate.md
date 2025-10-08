@@ -1,9 +1,12 @@
 ---
 slug: former-chancellor-to-receive-honorary-doctorate
-title: "Former Chancellor to receive honorary doctorate"
-date: 2010-03-29
-source-url: https://www.scoop.co.nz/stories/ED1003/S00142/former-chancellor-to-receive-honorary-doctorate.htm
+title: Former Chancellor to receive honorary doctorate
+date: 2010-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00142/former-chancellor-to-receive-honorary-doctorate.htm
 author: massey-university
+permalink: /archive/2010/03/29/former-chancellor-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Former Chancellor to receive honorary doctorate
 ===============================================

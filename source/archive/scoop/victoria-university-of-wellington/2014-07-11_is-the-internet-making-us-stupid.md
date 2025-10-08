@@ -1,9 +1,12 @@
 ---
 slug: is-the-internet-making-us-stupid
-title: "Is the internet making us stupid?"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/ED1407/S00066/is-the-internet-making-us-stupid.htm
+title: Is the internet making us stupid?
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00066/is-the-internet-making-us-stupid.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/11/is-the-internet-making-us-stupid/index.html
+layout: layout.njk
 ---
 Is the internet making us stupid?
 =================================

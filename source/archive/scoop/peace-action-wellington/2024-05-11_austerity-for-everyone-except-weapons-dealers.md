@@ -1,9 +1,12 @@
 ---
 slug: austerity-for-everyone-except-weapons-dealers
-title: "Austerity For Everyone Except Weapons Dealers"
-date: 2024-05-11
-source-url: https://www.scoop.co.nz/stories/PO2405/S00050/austerity-for-everyone-except-weapons-dealers.htm
+title: Austerity For Everyone Except Weapons Dealers
+date: 2024-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2405/S00050/austerity-for-everyone-except-weapons-dealers.htm
 author: peace-action-wellington
+permalink: /archive/2024/05/11/austerity-for-everyone-except-weapons-dealers/index.html
+layout: layout.njk
 ---
 Austerity For Everyone Except Weapons Dealers
 =============================================

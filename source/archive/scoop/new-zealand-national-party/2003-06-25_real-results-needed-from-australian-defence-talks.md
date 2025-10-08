@@ -1,9 +1,13 @@
 ---
 slug: real-results-needed-from-australian-defence-talks
-title: "Real results needed from Australian defence talks"
-date: 2003-06-25
-source-url: https://www.scoop.co.nz/stories/PA0306/S00460/real-results-needed-from-australian-defence-talks.htm
+title: Real results needed from Australian defence talks
+date: 2003-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00460/real-results-needed-from-australian-defence-talks.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/06/25/real-results-needed-from-australian-defence-talks/index.html
+layout: layout.njk
 ---
 Real results needed from Australian defence talks
 =================================================

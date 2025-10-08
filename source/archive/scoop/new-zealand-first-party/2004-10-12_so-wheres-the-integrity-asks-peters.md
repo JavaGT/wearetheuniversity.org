@@ -1,9 +1,12 @@
 ---
 slug: so-wheres-the-integrity-asks-peters
-title: "So Where's The Integrity? Asks Peters"
-date: 2004-10-12
-source-url: https://www.scoop.co.nz/stories/PA0410/S00204/so-wheres-the-integrity-asks-peters.htm
+title: So Where's The Integrity? Asks Peters
+date: 2004-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00204/so-wheres-the-integrity-asks-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2004/10/12/so-wheres-the-integrity-asks-peters/index.html
+layout: layout.njk
 ---
 So Where's The Integrity? Asks Peters
 =====================================

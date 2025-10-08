@@ -1,9 +1,13 @@
 ---
 slug: turia-launch-of-revamped-ngati-rangi-strategic-plan
-title: "Turia: Launch of Revamped Ngati Rangi Strategic Plan"
-date: 2014-03-25
-source-url: https://www.scoop.co.nz/stories/PA1403/S00481/turia-launch-of-revamped-ngati-rangi-strategic-plan.htm
+title: 'Turia: Launch of Revamped Ngati Rangi Strategic Plan'
+date: 2014-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00481/turia-launch-of-revamped-ngati-rangi-strategic-plan.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/03/25/turia-launch-of-revamped-ngati-rangi-strategic-plan/index.html
+layout: layout.njk
 ---
 Turia: Launch of Revamped Ngati Rangi Strategic Plan
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: eating-disorder-services-still-being-neglected
-title: "Eating disorder services still being neglected"
-date: 2007-08-17
-source-url: https://www.scoop.co.nz/stories/PA0708/S00304/eating-disorder-services-still-being-neglected.htm
+title: Eating disorder services still being neglected
+date: 2007-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00304/eating-disorder-services-still-being-neglected.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/17/eating-disorder-services-still-being-neglected/index.html
+layout: layout.njk
 ---
 Eating disorder services still being neglected
 ==============================================

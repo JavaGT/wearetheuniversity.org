@@ -1,9 +1,12 @@
 ---
 slug: lost-students-hunted-not-if-theyre-troubled
-title: "'Lost' students hunted - not if they're troubled"
-date: 2008-02-14
-source-url: https://www.scoop.co.nz/stories/PA0802/S00208/lost-students-hunted-not-if-theyre-troubled.htm
+title: '''Lost'' students hunted - not if they''re troubled'
+date: 2008-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00208/lost-students-hunted-not-if-theyre-troubled.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/14/lost-students-hunted-not-if-theyre-troubled/index.html
+layout: layout.njk
 ---
 'Lost' students hunted - not if they're troubled
 ================================================

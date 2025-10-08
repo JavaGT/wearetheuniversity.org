@@ -1,9 +1,12 @@
 ---
 slug: major-marsden-funding-for-otago-researchers
-title: "Major Marsden funding for Otago researchers"
-date: 2016-11-03
-source-url: https://www.scoop.co.nz/stories/ED1611/S00013/major-marsden-funding-for-otago-researchers.htm
+title: Major Marsden funding for Otago researchers
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00013/major-marsden-funding-for-otago-researchers.htm
 author: university-of-otago
+permalink: /archive/2016/11/03/major-marsden-funding-for-otago-researchers/index.html
+layout: layout.njk
 ---
 Major Marsden funding for Otago researchers
 ===========================================

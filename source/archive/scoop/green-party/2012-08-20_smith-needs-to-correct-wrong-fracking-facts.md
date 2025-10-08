@@ -1,9 +1,12 @@
 ---
 slug: smith-needs-to-correct-wrong-fracking-facts
-title: "Smith needs to correct wrong fracking facts"
-date: 2012-08-20
-source-url: https://www.scoop.co.nz/stories/PA1208/S00275/smith-needs-to-correct-wrong-fracking-facts.htm
+title: Smith needs to correct wrong fracking facts
+date: 2012-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00275/smith-needs-to-correct-wrong-fracking-facts.htm
 author: green-party
+permalink: /archive/2012/08/20/smith-needs-to-correct-wrong-fracking-facts/index.html
+layout: layout.njk
 ---
 Smith needs to correct wrong fracking facts
 ===========================================

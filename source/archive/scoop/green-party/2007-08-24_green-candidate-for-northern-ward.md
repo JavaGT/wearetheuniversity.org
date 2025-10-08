@@ -1,9 +1,12 @@
 ---
 slug: green-candidate-for-northern-ward
-title: "Green candidate for Northern Ward"
-date: 2007-08-24
-source-url: https://www.scoop.co.nz/stories/AK0708/S00279/green-candidate-for-northern-ward.htm
+title: Green candidate for Northern Ward
+date: 2007-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0708/S00279/green-candidate-for-northern-ward.htm
 author: green-party
+permalink: /archive/2007/08/24/green-candidate-for-northern-ward/index.html
+layout: layout.njk
 ---
 Green candidate for Northern Ward
 =================================

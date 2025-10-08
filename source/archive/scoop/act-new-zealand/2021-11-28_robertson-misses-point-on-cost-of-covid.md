@@ -1,9 +1,12 @@
 ---
 slug: robertson-misses-point-on-cost-of-covid
-title: "Robertson Misses Point On Cost Of COVID"
-date: 2021-11-28
-source-url: https://www.scoop.co.nz/stories/PA2111/S00302/robertson-misses-point-on-cost-of-covid.htm
+title: Robertson Misses Point On Cost Of COVID
+date: 2021-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00302/robertson-misses-point-on-cost-of-covid.htm
 author: act-new-zealand
+permalink: /archive/2021/11/28/robertson-misses-point-on-cost-of-covid/index.html
+layout: layout.njk
 ---
 Robertson Misses Point On Cost Of COVID
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-select-committee-told-of-need-to-end-tobacco
-title: "Maori Select Committee told of need to end tobacco"
-date: 2010-05-19
-source-url: https://www.scoop.co.nz/stories/GE1005/S00095/maori-select-committee-told-of-need-to-end-tobacco.htm
+title: Maori Select Committee told of need to end tobacco
+date: 2010-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1005/S00095/maori-select-committee-told-of-need-to-end-tobacco.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/05/19/maori-select-committee-told-of-need-to-end-tobacco/index.html
+layout: layout.njk
 ---
 Maori Select Committee told of need to end tobacco
 ==================================================

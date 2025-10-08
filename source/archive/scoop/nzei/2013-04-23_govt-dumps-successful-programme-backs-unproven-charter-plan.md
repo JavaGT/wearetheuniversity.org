@@ -1,9 +1,13 @@
 ---
 slug: govt-dumps-successful-programme-backs-unproven-charter-plan
-title: "Govt dumps successful programme, backs unproven charter plan"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/ED1304/S00140/govt-dumps-successful-programme-backs-unproven-charter-plan.htm
+title: Govt dumps successful programme, backs unproven charter plan
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00140/govt-dumps-successful-programme-backs-unproven-charter-plan.htm
 author: nzei
+permalink: >-
+  /archive/2013/04/23/govt-dumps-successful-programme-backs-unproven-charter-plan/index.html
+layout: layout.njk
 ---
 Govt dumps successful programme, backs unproven charter plan
 ============================================================

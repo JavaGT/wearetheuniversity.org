@@ -1,9 +1,12 @@
 ---
 slug: men-could-become-`mothers-uc-gender-expert-says
-title: "Men could become `mothers’, UC gender expert says"
-date: 2013-11-10
-source-url: https://www.scoop.co.nz/stories/AK1311/S00267/men-could-become-mothers-uc-gender-expert-says.htm
+title: Men could become `mothers’, UC gender expert says
+date: 2013-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00267/men-could-become-mothers-uc-gender-expert-says.htm
 author: university-of-canterbury
+permalink: /archive/2013/11/10/men-could-become-/index.html
+layout: layout.njk
 ---
 Men could become \`mothers’, UC gender expert says
 ==================================================

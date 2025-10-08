@@ -1,9 +1,13 @@
 ---
 slug: lack-of-jobs-give-students-chance-to-study-more-eat-less
-title: "Lack of Jobs Give Students Chance to Study More, Eat Less"
-date: 2013-08-07
-source-url: https://www.scoop.co.nz/stories/PO1308/S00105/lack-of-jobs-give-students-chance-to-study-more-eat-less.htm
+title: Lack of Jobs Give Students Chance to Study More, Eat Less
+date: 2013-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00105/lack-of-jobs-give-students-chance-to-study-more-eat-less.htm
 author: ousa
+permalink: >-
+  /archive/2013/08/07/lack-of-jobs-give-students-chance-to-study-more-eat-less/index.html
+layout: layout.njk
 ---
 Lack of Jobs Give Students Chance to Study More, Eat Less
 =========================================================

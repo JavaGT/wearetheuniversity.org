@@ -1,9 +1,12 @@
 ---
 slug: 10000-more-kiwis-without-a-job-in-a-year
-title: "10,000 more Kiwis without a job in a year"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/PA1508/S00062/10000-more-kiwis-without-a-job-in-a-year.htm
+title: 10,000 more Kiwis without a job in a year
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00062/10000-more-kiwis-without-a-job-in-a-year.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/05/10000-more-kiwis-without-a-job-in-a-year/index.html
+layout: layout.njk
 ---
 10,000 more Kiwis without a job in a year
 =========================================

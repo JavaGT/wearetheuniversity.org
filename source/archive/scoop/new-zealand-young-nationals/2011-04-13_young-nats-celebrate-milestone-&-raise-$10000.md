@@ -1,9 +1,12 @@
 ---
 slug: young-nats-celebrate-milestone-&-raise-$10000
-title: "Young Nats celebrate milestone & raise $10,000"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/PO1104/S00185/young-nats-celebrate-milestone-raise-10000.htm
+title: Young Nats celebrate milestone & raise $10,000
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00185/young-nats-celebrate-milestone-raise-10000.htm
 author: new-zealand-young-nationals
+permalink: /archive/2011/04/13/young-nats-celebrate-milestone-/index.html
+layout: layout.njk
 ---
 Young Nats celebrate milestone & raise $10,000
 ==============================================

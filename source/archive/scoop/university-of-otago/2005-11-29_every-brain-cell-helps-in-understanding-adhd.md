@@ -1,9 +1,12 @@
 ---
 slug: every-brain-cell-helps-in-understanding-adhd
-title: "Every brain cell helps in understanding ADHD"
-date: 2005-11-29
-source-url: https://www.scoop.co.nz/stories/SC0511/S00061/every-brain-cell-helps-in-understanding-adhd.htm
+title: Every brain cell helps in understanding ADHD
+date: 2005-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0511/S00061/every-brain-cell-helps-in-understanding-adhd.htm
 author: university-of-otago
+permalink: /archive/2005/11/29/every-brain-cell-helps-in-understanding-adhd/index.html
+layout: layout.njk
 ---
 Every brain cell helps in understanding ADHD
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-must-front-on-$860m-fiscal-cost-of-income-insurance
-title: "Labour Must Front On $860M Fiscal Cost Of Income Insurance"
-date: 2023-09-23
-source-url: https://www.scoop.co.nz/stories/PO2309/S00199/labour-must-front-on-860m-fiscal-cost-of-income-insurance.htm
+title: Labour Must Front On $860M Fiscal Cost Of Income Insurance
+date: 2023-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00199/labour-must-front-on-860m-fiscal-cost-of-income-insurance.htm
 author: new-zealand-national-party
+permalink: /archive/2023/09/23/labour-must-front-on-/index.html
+layout: layout.njk
 ---
 Labour Must Front On $860M Fiscal Cost Of Income Insurance
 ==========================================================

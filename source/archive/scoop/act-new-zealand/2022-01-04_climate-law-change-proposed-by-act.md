@@ -1,9 +1,12 @@
 ---
 slug: climate-law-change-proposed-by-act
-title: "Climate Law Change Proposed By ACT"
-date: 2022-01-04
-source-url: https://www.scoop.co.nz/stories/PA2201/S00007/climate-law-change-proposed-by-act.htm
+title: Climate Law Change Proposed By ACT
+date: 2022-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00007/climate-law-change-proposed-by-act.htm
 author: act-new-zealand
+permalink: /archive/2022/01/04/climate-law-change-proposed-by-act/index.html
+layout: layout.njk
 ---
 Climate Law Change Proposed By ACT
 ==================================

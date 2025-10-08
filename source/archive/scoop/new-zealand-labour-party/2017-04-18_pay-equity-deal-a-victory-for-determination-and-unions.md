@@ -1,9 +1,13 @@
 ---
 slug: pay-equity-deal-a-victory-for-determination-and-unions
-title: "Pay equity deal a victory for determination and unions"
-date: 2017-04-18
-source-url: https://www.scoop.co.nz/stories/PA1704/S00201/pay-equity-deal-a-victory-for-determination-and-unions.htm
+title: Pay equity deal a victory for determination and unions
+date: 2017-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00201/pay-equity-deal-a-victory-for-determination-and-unions.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/18/pay-equity-deal-a-victory-for-determination-and-unions/index.html
+layout: layout.njk
 ---
 Pay equity deal a victory for determination and unions
 ======================================================

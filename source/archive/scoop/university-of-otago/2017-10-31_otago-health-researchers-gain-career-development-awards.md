@@ -1,9 +1,13 @@
 ---
 slug: otago-health-researchers-gain-career-development-awards
-title: "Otago health researchers gain career development awards"
-date: 2017-10-31
-source-url: https://www.scoop.co.nz/stories/SC1710/S00075/otago-health-researchers-gain-career-development-awards.htm
+title: Otago health researchers gain career development awards
+date: 2017-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00075/otago-health-researchers-gain-career-development-awards.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/31/otago-health-researchers-gain-career-development-awards/index.html
+layout: layout.njk
 ---
 Otago health researchers gain career development awards
 =======================================================

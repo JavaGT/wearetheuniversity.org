@@ -1,9 +1,13 @@
 ---
 slug: greater-need-to-encourage-more-walking-and-cycling-to-school
-title: "Greater need to encourage more walking and cycling to school"
-date: 2013-01-27
-source-url: https://www.scoop.co.nz/stories/ED1301/S00087/greater-need-to-encourage-more-walking-and-cycling-to-school.htm
+title: Greater need to encourage more walking and cycling to school
+date: 2013-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00087/greater-need-to-encourage-more-walking-and-cycling-to-school.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/27/greater-need-to-encourage-more-walking-and-cycling-to-school/index.html
+layout: layout.njk
 ---
 Greater need to encourage more walking and cycling to school
 ============================================================

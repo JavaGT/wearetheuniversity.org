@@ -1,9 +1,12 @@
 ---
 slug: whos-more-important-teachers-or-bureaucrats
-title: "Who's More Important - Teachers Or Bureaucrats?"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/PA0409/S00221/whos-more-important-teachers-or-bureaucrats.htm
+title: Who's More Important - Teachers Or Bureaucrats?
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00221/whos-more-important-teachers-or-bureaucrats.htm
 author: act-new-zealand
+permalink: /archive/2004/09/10/whos-more-important-teachers-or-bureaucrats/index.html
+layout: layout.njk
 ---
 Who's More Important - Teachers Or Bureaucrats?
 ===============================================

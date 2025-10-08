@@ -1,9 +1,12 @@
 ---
 slug: solving-timeout-issues-for-mobile-phones
-title: "Solving timeout issues for mobile phones"
-date: 2006-08-30
-source-url: https://www.scoop.co.nz/stories/ED0608/S00092/solving-timeout-issues-for-mobile-phones.htm
+title: Solving timeout issues for mobile phones
+date: 2006-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00092/solving-timeout-issues-for-mobile-phones.htm
 author: aut-university
+permalink: /archive/2006/08/30/solving-timeout-issues-for-mobile-phones/index.html
+layout: layout.njk
 ---
 Solving timeout issues for mobile phones
 ========================================

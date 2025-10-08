@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-launches-jubilee-scholarships
-title: "Waikato University launches Jubilee scholarships"
-date: 2014-04-28
-source-url: https://www.scoop.co.nz/stories/ED1404/S00083/waikato-university-launches-jubilee-scholarships.htm
+title: Waikato University launches Jubilee scholarships
+date: 2014-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00083/waikato-university-launches-jubilee-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/28/waikato-university-launches-jubilee-scholarships/index.html
+layout: layout.njk
 ---
 Waikato University launches Jubilee scholarships
 ================================================

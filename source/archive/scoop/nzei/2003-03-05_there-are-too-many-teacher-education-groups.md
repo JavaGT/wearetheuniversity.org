@@ -1,9 +1,12 @@
 ---
 slug: there-are-too-many-teacher-education-groups
-title: "There Are Too Many Teacher Education Groups"
-date: 2003-03-05
-source-url: https://www.scoop.co.nz/stories/ED0303/S00009/there-are-too-many-teacher-education-groups.htm
+title: There Are Too Many Teacher Education Groups
+date: 2003-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00009/there-are-too-many-teacher-education-groups.htm
 author: nzei
+permalink: /archive/2003/03/05/there-are-too-many-teacher-education-groups/index.html
+layout: layout.njk
 ---
 There Are Too Many Teacher Education Groups
 ===========================================

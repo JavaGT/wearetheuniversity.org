@@ -1,9 +1,11 @@
 ---
 slug: don-brash-visits-wananga
-title: "Don Brash visits wananga"
-date: 2005-09-13
+title: Don Brash visits wananga
+date: 2005-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00334/don-brash-visits-wananga.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/13/don-brash-visits-wananga/index.html
+layout: layout.njk
 ---
 Don Brash visits wananga
 ========================

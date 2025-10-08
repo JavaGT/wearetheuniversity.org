@@ -1,9 +1,12 @@
 ---
 slug: sick-leave-a-$1-billion-election-bribe
-title: "Sick Leave A $1 Billion Election Bribe"
-date: 2020-12-01
-source-url: https://www.scoop.co.nz/stories/PA2012/S00009/sick-leave-a-1-billion-election-bribe.htm
+title: Sick Leave A $1 Billion Election Bribe
+date: 2020-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00009/sick-leave-a-1-billion-election-bribe.htm
 author: act-new-zealand
+permalink: /archive/2020/12/01/sick-leave-a-/index.html
+layout: layout.njk
 ---
 Sick Leave A $1 Billion Election Bribe
 ======================================

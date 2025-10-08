@@ -1,9 +1,13 @@
 ---
 slug: cabinet-action-needed-on-threat-to-auckland-water
-title: "Cabinet action needed on threat to Auckland water"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/PA0807/S00100/cabinet-action-needed-on-threat-to-auckland-water.htm
+title: Cabinet action needed on threat to Auckland water
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00100/cabinet-action-needed-on-threat-to-auckland-water.htm
 author: green-party
+permalink: >-
+  /archive/2008/07/03/cabinet-action-needed-on-threat-to-auckland-water/index.html
+layout: layout.njk
 ---
 Cabinet action needed on threat to Auckland water
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: some-issues-in-the-current-tax-debate-roger-kerr
-title: "Some Issues in the Current Tax Debate - Roger Kerr"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/BU0509/S00090/some-issues-in-the-current-tax-debate-roger-kerr.htm
+title: Some Issues in the Current Tax Debate - Roger Kerr
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0509/S00090/some-issues-in-the-current-tax-debate-roger-kerr.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2005/09/08/some-issues-in-the-current-tax-debate-roger-kerr/index.html
+layout: layout.njk
 ---
 Some Issues in the Current Tax Debate - Roger Kerr
 ==================================================

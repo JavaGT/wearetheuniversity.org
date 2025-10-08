@@ -1,9 +1,12 @@
 ---
 slug: ratification-of-education-sector-settlements
-title: "Ratification of Education Sector Settlements"
-date: 2008-03-03
-source-url: https://www.scoop.co.nz/stories/ED0803/S00001/ratification-of-education-sector-settlements.htm
+title: Ratification of Education Sector Settlements
+date: 2008-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00001/ratification-of-education-sector-settlements.htm
 author: nzei
+permalink: /archive/2008/03/03/ratification-of-education-sector-settlements/index.html
+layout: layout.njk
 ---
 Ratification of Education Sector Settlements
 ============================================

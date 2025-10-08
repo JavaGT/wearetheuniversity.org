@@ -1,9 +1,12 @@
 ---
 slug: clark-must-come-clean-on-mallards-future
-title: "Clark must come clean on Mallard’s future"
-date: 2005-08-05
-source-url: https://www.scoop.co.nz/stories/PA0508/S00157/clark-must-come-clean-on-mallards-future.htm
+title: Clark must come clean on Mallard’s future
+date: 2005-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00157/clark-must-come-clean-on-mallards-future.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/05/clark-must-come-clean-on-mallards-future/index.html
+layout: layout.njk
 ---
 Clark must come clean on Mallard’s future
 =========================================

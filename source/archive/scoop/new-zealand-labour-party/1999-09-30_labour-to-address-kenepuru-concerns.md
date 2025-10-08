@@ -1,9 +1,12 @@
 ---
 slug: labour-to-address-kenepuru-concerns
-title: "Labour to address Kenepuru concerns"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00678/labour-to-address-kenepuru-concerns.htm
+title: Labour to address Kenepuru concerns
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00678/labour-to-address-kenepuru-concerns.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/30/labour-to-address-kenepuru-concerns/index.html
+layout: layout.njk
 ---
 Labour to address Kenepuru concerns
 ===================================

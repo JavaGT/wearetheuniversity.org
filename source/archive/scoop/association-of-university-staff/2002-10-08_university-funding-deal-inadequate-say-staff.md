@@ -1,9 +1,12 @@
 ---
 slug: university-funding-deal-inadequate-say-staff
-title: "University funding deal inadequate say staff"
-date: 2002-10-08
-source-url: https://www.scoop.co.nz/stories/ED0210/S00021/university-funding-deal-inadequate-say-staff.htm
+title: University funding deal inadequate say staff
+date: 2002-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00021/university-funding-deal-inadequate-say-staff.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/08/university-funding-deal-inadequate-say-staff/index.html
+layout: layout.njk
 ---
 University funding deal inadequate say staff
 ============================================

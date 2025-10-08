@@ -1,9 +1,12 @@
 ---
 slug: uc-announces-multi-million-dollar-research
-title: "UC announces multi-million dollar research"
-date: 2009-12-15
-source-url: https://www.scoop.co.nz/stories/SC0912/S00034/uc-announces-multi-million-dollar-research.htm
+title: UC announces multi-million dollar research
+date: 2009-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0912/S00034/uc-announces-multi-million-dollar-research.htm
 author: university-of-canterbury
+permalink: /archive/2009/12/15/uc-announces-multi-million-dollar-research/index.html
+layout: layout.njk
 ---
 UC announces multi-million dollar research
 ==========================================

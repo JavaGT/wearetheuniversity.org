@@ -1,9 +1,12 @@
 ---
 slug: māori-party-embraces-its-first-asian-candidate
-title: "Māori Party embraces its first Asian candidate"
-date: 2017-07-10
-source-url: https://www.scoop.co.nz/stories/PO1707/S00132/maori-party-embraces-its-first-asian-candidate.htm
+title: Māori Party embraces its first Asian candidate
+date: 2017-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00132/maori-party-embraces-its-first-asian-candidate.htm
 author: te-pati-maori
+permalink: /archive/2017/07/10/m/index.html
+layout: layout.njk
 ---
 Māori Party embraces its first Asian candidate
 ==============================================

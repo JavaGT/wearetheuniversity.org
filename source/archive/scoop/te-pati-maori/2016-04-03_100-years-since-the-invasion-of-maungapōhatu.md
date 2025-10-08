@@ -1,9 +1,12 @@
 ---
 slug: 100-years-since-the-invasion-of-maungapōhatu
-title: "100 years since the invasion of Maungapōhatu"
-date: 2016-04-03
-source-url: https://www.scoop.co.nz/stories/PA1604/S00025/100-years-since-the-invasion-of-maungapohatu.htm
+title: 100 years since the invasion of Maungapōhatu
+date: 2016-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00025/100-years-since-the-invasion-of-maungapohatu.htm
 author: te-pati-maori
+permalink: /archive/2016/04/03/100-years-since-the-invasion-of-maungap/index.html
+layout: layout.njk
 ---
 100 years since the invasion of Maungapōhatu
 ============================================

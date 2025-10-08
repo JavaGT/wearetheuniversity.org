@@ -1,9 +1,12 @@
 ---
 slug: govt-should-come-clean-on-reforms
-title: "Govt Should Come Clean on Reforms"
-date: 1999-07-15
-source-url: https://www.scoop.co.nz/stories/ED9907/S00012/govt-should-come-clean-on-reforms.htm
+title: Govt Should Come Clean on Reforms
+date: 1999-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9907/S00012/govt-should-come-clean-on-reforms.htm
 author: victoria-university-students-association
+permalink: /archive/1999/07/15/govt-should-come-clean-on-reforms/index.html
+layout: layout.njk
 ---
 Govt Should Come Clean on Reforms
 =================================

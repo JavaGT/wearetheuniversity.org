@@ -1,9 +1,12 @@
 ---
 slug: keys-credibility-death-by-a-thousand-tax-cuts
-title: "Key’s credibility - death by a thousand tax cuts"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/PA1409/S00167/keys-credibility-death-by-a-thousand-tax-cuts.htm
+title: Key’s credibility - death by a thousand tax cuts
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00167/keys-credibility-death-by-a-thousand-tax-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/11/keys-credibility-death-by-a-thousand-tax-cuts/index.html
+layout: layout.njk
 ---
 Key’s credibility - death by a thousand tax cuts
 ================================================

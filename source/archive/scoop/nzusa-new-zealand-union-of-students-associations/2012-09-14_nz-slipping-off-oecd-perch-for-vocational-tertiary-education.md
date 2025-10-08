@@ -1,9 +1,13 @@
 ---
 slug: nz-slipping-off-oecd-perch-for-vocational-tertiary-education
-title: "NZ slipping off OECD perch for vocational tertiary education"
-date: 2012-09-14
-source-url: https://www.scoop.co.nz/stories/ED1209/S00108/nz-slipping-off-oecd-perch-for-vocational-tertiary-education.htm
+title: NZ slipping off OECD perch for vocational tertiary education
+date: 2012-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00108/nz-slipping-off-oecd-perch-for-vocational-tertiary-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/09/14/nz-slipping-off-oecd-perch-for-vocational-tertiary-education/index.html
+layout: layout.njk
 ---
 NZ slipping off OECD perch for vocational tertiary education
 ============================================================

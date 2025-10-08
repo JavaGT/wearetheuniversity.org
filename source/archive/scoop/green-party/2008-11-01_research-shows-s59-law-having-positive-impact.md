@@ -1,9 +1,12 @@
 ---
 slug: research-shows-s59-law-having-positive-impact
-title: "Research shows s59 law having positive impact"
-date: 2008-11-01
-source-url: https://www.scoop.co.nz/stories/PA0811/S00003/research-shows-s59-law-having-positive-impact.htm
+title: Research shows s59 law having positive impact
+date: 2008-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00003/research-shows-s59-law-having-positive-impact.htm
 author: green-party
+permalink: /archive/2008/11/01/research-shows-s59-law-having-positive-impact/index.html
+layout: layout.njk
 ---
 Research shows s59 law having positive impact
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: tips-for-good-mental-health-in-aftermath-of-disaster
-title: "Tips for good mental health in aftermath of disaster"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/GE1210/S00054/tips-for-good-mental-health-in-aftermath-of-disaster.htm
+title: Tips for good mental health in aftermath of disaster
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00054/tips-for-good-mental-health-in-aftermath-of-disaster.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/09/tips-for-good-mental-health-in-aftermath-of-disaster/index.html
+layout: layout.njk
 ---
 Tips for good mental health in aftermath of disaster
 ====================================================

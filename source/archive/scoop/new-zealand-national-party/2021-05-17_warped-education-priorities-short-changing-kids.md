@@ -1,9 +1,12 @@
 ---
 slug: warped-education-priorities-short-changing-kids
-title: "Warped Education Priorities Short-changing Kids"
-date: 2021-05-17
-source-url: https://www.scoop.co.nz/stories/PA2105/S00137/warped-education-priorities-short-changing-kids.htm
+title: Warped Education Priorities Short-changing Kids
+date: 2021-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00137/warped-education-priorities-short-changing-kids.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/17/warped-education-priorities-short-changing-kids/index.html
+layout: layout.njk
 ---
 Warped Education Priorities Short-changing Kids
 ===============================================

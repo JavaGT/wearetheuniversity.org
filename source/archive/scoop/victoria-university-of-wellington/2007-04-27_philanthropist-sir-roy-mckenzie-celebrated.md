@@ -1,9 +1,12 @@
 ---
 slug: philanthropist-sir-roy-mckenzie-celebrated
-title: "Philanthropist Sir Roy McKenzie  celebrated"
-date: 2007-04-27
-source-url: https://www.scoop.co.nz/stories/PO0704/S00339/philanthropist-sir-roy-mckenzie-celebrated.htm
+title: Philanthropist Sir Roy McKenzie  celebrated
+date: 2007-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00339/philanthropist-sir-roy-mckenzie-celebrated.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/27/philanthropist-sir-roy-mckenzie-celebrated/index.html
+layout: layout.njk
 ---
 Philanthropist Sir Roy McKenzie celebrated
 ==========================================

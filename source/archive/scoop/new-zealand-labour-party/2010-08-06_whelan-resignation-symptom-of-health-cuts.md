@@ -1,9 +1,12 @@
 ---
 slug: whelan-resignation-symptom-of-health-cuts
-title: "Whelan resignation symptom of health cuts"
-date: 2010-08-06
-source-url: https://www.scoop.co.nz/stories/PA1008/S00109/whelan-resignation-symptom-of-health-cuts.htm
+title: Whelan resignation symptom of health cuts
+date: 2010-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00109/whelan-resignation-symptom-of-health-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/06/whelan-resignation-symptom-of-health-cuts/index.html
+layout: layout.njk
 ---
 Whelan resignation symptom of health cuts
 =========================================

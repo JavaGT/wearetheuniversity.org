@@ -1,9 +1,12 @@
 ---
 slug: bishop-backs-fairer-fares-for-tertiary-students
-title: "Bishop backs fairer fares for tertiary students"
-date: 2017-03-20
-source-url: https://www.scoop.co.nz/stories/PA1703/S00316/bishop-backs-fairer-fares-for-tertiary-students.htm
+title: Bishop backs fairer fares for tertiary students
+date: 2017-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00316/bishop-backs-fairer-fares-for-tertiary-students.htm
 author: new-zealand-national-party
+permalink: /archive/2017/03/20/bishop-backs-fairer-fares-for-tertiary-students/index.html
+layout: layout.njk
 ---
 Bishop backs fairer fares for tertiary students
 ===============================================

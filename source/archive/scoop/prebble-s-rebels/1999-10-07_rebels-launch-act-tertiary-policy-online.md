@@ -1,9 +1,12 @@
 ---
 slug: rebels-launch-act-tertiary-policy-online
-title: "Rebels Launch ACT Tertiary Policy Online"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PO9910/S00024/rebels-launch-act-tertiary-policy-online.htm
+title: Rebels Launch ACT Tertiary Policy Online
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00024/rebels-launch-act-tertiary-policy-online.htm
 author: prebble-s-rebels
+permalink: /archive/1999/10/07/rebels-launch-act-tertiary-policy-online/index.html
+layout: layout.njk
 ---
 Rebels Launch ACT Tertiary Policy Online
 ========================================

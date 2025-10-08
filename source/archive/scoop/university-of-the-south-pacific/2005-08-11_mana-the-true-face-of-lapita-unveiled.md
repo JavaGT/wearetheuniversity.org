@@ -1,9 +1,12 @@
 ---
 slug: mana-the-true-face-of-lapita-unveiled
-title: "\"Mana\"- the true face of Lapita unveiled"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/WO0508/S00117/mana-the-true-face-of-lapita-unveiled.htm
+title: '"Mana"- the true face of Lapita unveiled'
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0508/S00117/mana-the-true-face-of-lapita-unveiled.htm
 author: university-of-the-south-pacific
+permalink: /archive/2005/08/11/mana-the-true-face-of-lapita-unveiled/index.html
+layout: layout.njk
 ---
 "Mana"- the true face of Lapita unveiled
 ========================================

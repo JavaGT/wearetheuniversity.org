@@ -1,9 +1,12 @@
 ---
 slug: universities-welcome-$35-million-grant
-title: "Universities welcome $35 million grant"
-date: 2001-08-07
-source-url: https://www.scoop.co.nz/stories/ED0108/S00027/universities-welcome-35-million-grant.htm
+title: Universities welcome $35 million grant
+date: 2001-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00027/universities-welcome-35-million-grant.htm
 author: massey-university
+permalink: /archive/2001/08/07/universities-welcome-/index.html
+layout: layout.njk
 ---
 Universities welcome $35 million grant
 ======================================

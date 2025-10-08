@@ -1,9 +1,13 @@
 ---
 slug: definitive-history-of-new-zealand-in-wwi-planned
-title: "'Definitive' history of New Zealand in WWI planned"
-date: 2011-07-12
-source-url: https://www.scoop.co.nz/stories/AK1107/S00328/definitive-history-of-new-zealand-in-wwi-planned.htm
+title: '''Definitive'' history of New Zealand in WWI planned'
+date: 2011-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1107/S00328/definitive-history-of-new-zealand-in-wwi-planned.htm
 author: massey-university
+permalink: >-
+  /archive/2011/07/12/definitive-history-of-new-zealand-in-wwi-planned/index.html
+layout: layout.njk
 ---
 'Definitive' history of New Zealand in WWI planned
 ==================================================

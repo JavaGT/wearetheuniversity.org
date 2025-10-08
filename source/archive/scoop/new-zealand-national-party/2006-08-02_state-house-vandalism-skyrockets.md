@@ -1,9 +1,12 @@
 ---
 slug: state-house-vandalism-skyrockets
-title: "State house vandalism skyrockets"
-date: 2006-08-02
-source-url: https://www.scoop.co.nz/stories/PA0608/S00019/state-house-vandalism-skyrockets.htm
+title: State house vandalism skyrockets
+date: 2006-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00019/state-house-vandalism-skyrockets.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/02/state-house-vandalism-skyrockets/index.html
+layout: layout.njk
 ---
 State house vandalism skyrockets
 ================================

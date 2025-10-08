@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-increase-no-relief-for-many-kiwis
-title: "Minimum wage increase no relief for many Kiwis"
-date: 2017-01-24
-source-url: https://www.scoop.co.nz/stories/PA1701/S00084/minimum-wage-increase-no-relief-for-many-kiwis.htm
+title: Minimum wage increase no relief for many Kiwis
+date: 2017-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00084/minimum-wage-increase-no-relief-for-many-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/01/24/minimum-wage-increase-no-relief-for-many-kiwis/index.html
+layout: layout.njk
 ---
 Minimum wage increase no relief for many Kiwis
 ==============================================

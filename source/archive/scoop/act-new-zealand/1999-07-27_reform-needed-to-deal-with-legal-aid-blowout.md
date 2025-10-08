@@ -1,9 +1,12 @@
 ---
 slug: reform-needed-to-deal-with-legal-aid-blowout
-title: "Reform Needed To Deal With Legal Aid Blowout"
-date: 1999-07-27
-source-url: https://www.scoop.co.nz/stories/PA9907/S00505/reform-needed-to-deal-with-legal-aid-blowout.htm
+title: Reform Needed To Deal With Legal Aid Blowout
+date: 1999-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00505/reform-needed-to-deal-with-legal-aid-blowout.htm
 author: act-new-zealand
+permalink: /archive/1999/07/27/reform-needed-to-deal-with-legal-aid-blowout/index.html
+layout: layout.njk
 ---
 Reform Needed To Deal With Legal Aid Blowout
 ============================================

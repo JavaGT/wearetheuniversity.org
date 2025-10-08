@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-return-to-campus-loan-processing
-title: "Greens Call For Return To Campus Loan Processing"
-date: 2000-02-15
-source-url: https://www.scoop.co.nz/stories/PA0002/S00176/greens-call-for-return-to-campus-loan-processing.htm
+title: Greens Call For Return To Campus Loan Processing
+date: 2000-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00176/greens-call-for-return-to-campus-loan-processing.htm
 author: green-party
+permalink: >-
+  /archive/2000/02/15/greens-call-for-return-to-campus-loan-processing/index.html
+layout: layout.njk
 ---
 Greens Call For Return To Campus Loan Processing
 ================================================

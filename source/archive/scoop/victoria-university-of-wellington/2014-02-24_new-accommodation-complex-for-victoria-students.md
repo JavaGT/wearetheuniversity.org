@@ -1,9 +1,12 @@
 ---
 slug: new-accommodation-complex-for-victoria-students
-title: "New accommodation complex for Victoria students"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/ED1402/S00109/new-accommodation-complex-for-victoria-students.htm
+title: New accommodation complex for Victoria students
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00109/new-accommodation-complex-for-victoria-students.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/02/24/new-accommodation-complex-for-victoria-students/index.html
+layout: layout.njk
 ---
 New accommodation complex for Victoria students
 ===============================================

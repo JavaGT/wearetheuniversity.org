@@ -1,9 +1,13 @@
 ---
 slug: blair-cameron-selected-as-nationals-candidate-in-nelson
-title: "Blair Cameron selected as National’s candidate in Nelson"
-date: 2023-02-18
-source-url: https://www.scoop.co.nz/stories/PO2302/S00097/blair-cameron-selected-as-nationals-candidate-in-nelson.htm
+title: Blair Cameron selected as National’s candidate in Nelson
+date: 2023-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00097/blair-cameron-selected-as-nationals-candidate-in-nelson.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/18/blair-cameron-selected-as-nationals-candidate-in-nelson/index.html
+layout: layout.njk
 ---
 Blair Cameron selected as National’s candidate in Nelson
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: report-no-accountability-for-ncea-exams
-title: "Report: No accountability for NCEA exams"
-date: 2005-08-11
-source-url: https://www.scoop.co.nz/stories/PA0508/S00292/report-no-accountability-for-ncea-exams.htm
+title: 'Report: No accountability for NCEA exams'
+date: 2005-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00292/report-no-accountability-for-ncea-exams.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/11/report-no-accountability-for-ncea-exams/index.html
+layout: layout.njk
 ---
 Report: No accountability for NCEA exams
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-battalion-scholarship-for-tangi-researcher
-title: "Māori Battalion scholarship for tangi researcher"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/ED1003/S00091/maori-battalion-scholarship-for-tangi-researcher.htm
+title: Māori Battalion scholarship for tangi researcher
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00091/maori-battalion-scholarship-for-tangi-researcher.htm
 author: university-of-waikato
+permalink: /archive/2010/03/22/m/index.html
+layout: layout.njk
 ---
 Māori Battalion scholarship for tangi researcher
 ================================================

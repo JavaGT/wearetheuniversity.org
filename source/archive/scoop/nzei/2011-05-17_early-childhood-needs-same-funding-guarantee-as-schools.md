@@ -1,9 +1,13 @@
 ---
 slug: early-childhood-needs-same-funding-guarantee-as-schools
-title: "Early Childhood Needs Same Funding Guarantee as Schools"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/ED1105/S00066/early-childhood-needs-same-funding-guarantee-as-schools.htm
+title: Early Childhood Needs Same Funding Guarantee as Schools
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00066/early-childhood-needs-same-funding-guarantee-as-schools.htm
 author: nzei
+permalink: >-
+  /archive/2011/05/17/early-childhood-needs-same-funding-guarantee-as-schools/index.html
+layout: layout.njk
 ---
 Early Childhood Needs Same Funding Guarantee as Schools
 =======================================================

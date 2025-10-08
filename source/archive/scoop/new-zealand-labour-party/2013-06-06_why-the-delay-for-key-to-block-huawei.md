@@ -1,9 +1,12 @@
 ---
 slug: why-the-delay-for-key-to-block-huawei
-title: "Why the Delay For Key to Block Huawei?"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/PA1306/S00076/why-the-delay-for-key-to-block-huawei.htm
+title: Why the Delay For Key to Block Huawei?
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00076/why-the-delay-for-key-to-block-huawei.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/06/why-the-delay-for-key-to-block-huawei/index.html
+layout: layout.njk
 ---
 Why the Delay For Key to Block Huawei?
 ======================================

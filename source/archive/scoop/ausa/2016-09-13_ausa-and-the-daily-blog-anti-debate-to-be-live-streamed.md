@@ -1,9 +1,13 @@
 ---
 slug: ausa-and-the-daily-blog-anti-debate-to-be-live-streamed
-title: "AUSA and The Daily Blog ‘Anti-Debate’ to be live streamed"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/AK1609/S00389/ausa-and-the-daily-blog-anti-debate-to-be-live-streamed.htm
+title: AUSA and The Daily Blog ‘Anti-Debate’ to be live streamed
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00389/ausa-and-the-daily-blog-anti-debate-to-be-live-streamed.htm
 author: ausa
+permalink: >-
+  /archive/2016/09/13/ausa-and-the-daily-blog-anti-debate-to-be-live-streamed/index.html
+layout: layout.njk
 ---
 AUSA and The Daily Blog ‘Anti-Debate’ to be live streamed
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: $5-million-education-rort-exposed
-title: "$5 million education rort exposed"
-date: 2006-06-02
-source-url: https://www.scoop.co.nz/stories/PA0606/S00017/5-million-education-rort-exposed.htm
+title: $5 million education rort exposed
+date: 2006-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00017/5-million-education-rort-exposed.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/02/5-million-education-rort-exposed/index.html
+layout: layout.njk
 ---
 $5 million education rort exposed
 =================================

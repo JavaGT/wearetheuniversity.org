@@ -1,9 +1,12 @@
 ---
 slug: a-proud-scots-history-in-new-zealand
-title: "A proud Scots history in New Zealand"
-date: 2006-05-19
-source-url: https://www.scoop.co.nz/stories/ED0605/S00072/a-proud-scots-history-in-new-zealand.htm
+title: A proud Scots history in New Zealand
+date: 2006-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00072/a-proud-scots-history-in-new-zealand.htm
 author: aut-university
+permalink: /archive/2006/05/19/a-proud-scots-history-in-new-zealand/index.html
+layout: layout.njk
 ---
 A proud Scots history in New Zealand
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: ethnic-differences-in-drug-and-alcohol-use-in-nz
-title: "Ethnic differences in drug and alcohol use in NZ"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/ED0711/S00016/ethnic-differences-in-drug-and-alcohol-use-in-nz.htm
+title: Ethnic differences in drug and alcohol use in NZ
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00016/ethnic-differences-in-drug-and-alcohol-use-in-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/11/05/ethnic-differences-in-drug-and-alcohol-use-in-nz/index.html
+layout: layout.njk
 ---
 Ethnic differences in drug and alcohol use in NZ
 ================================================

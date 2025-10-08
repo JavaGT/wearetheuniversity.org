@@ -1,9 +1,12 @@
 ---
 slug: cost-of-tax-compliance-higher-than-expected
-title: "Cost of tax compliance higher than expected"
-date: 2014-11-29
-source-url: https://www.scoop.co.nz/stories/ED1411/S00186/cost-of-tax-compliance-higher-than-expected.htm
+title: Cost of tax compliance higher than expected
+date: 2014-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00186/cost-of-tax-compliance-higher-than-expected.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/29/cost-of-tax-compliance-higher-than-expected/index.html
+layout: layout.njk
 ---
 Cost of tax compliance higher than expected
 ===========================================

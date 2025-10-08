@@ -1,9 +1,12 @@
 ---
 slug: government-moratorium-on-universities-welcomed
-title: "Government moratorium on universities welcomed"
-date: 2000-05-16
-source-url: https://www.scoop.co.nz/stories/ED0005/S00025/government-moratorium-on-universities-welcomed.htm
+title: Government moratorium on universities welcomed
+date: 2000-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00025/government-moratorium-on-universities-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2000/05/16/government-moratorium-on-universities-welcomed/index.html
+layout: layout.njk
 ---
 Government moratorium on universities welcomed
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-talking-drivel-on-saliva
-title: "Government Talking Drivel On Saliva"
-date: 2021-10-12
-source-url: https://www.scoop.co.nz/stories/PA2110/S00112/government-talking-drivel-on-saliva.htm
+title: Government Talking Drivel On Saliva
+date: 2021-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00112/government-talking-drivel-on-saliva.htm
 author: act-new-zealand
+permalink: /archive/2021/10/12/government-talking-drivel-on-saliva/index.html
+layout: layout.njk
 ---
 Government Talking Drivel On Saliva
 ===================================

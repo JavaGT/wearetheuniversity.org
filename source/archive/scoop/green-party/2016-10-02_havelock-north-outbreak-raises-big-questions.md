@@ -1,9 +1,12 @@
 ---
 slug: havelock-north-outbreak-raises-big-questions
-title: "Havelock North outbreak raises big questions"
-date: 2016-10-02
-source-url: https://www.scoop.co.nz/stories/PA1610/S00010/havelock-north-outbreak-raises-big-questions.htm
+title: Havelock North outbreak raises big questions
+date: 2016-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00010/havelock-north-outbreak-raises-big-questions.htm
 author: green-party
+permalink: /archive/2016/10/02/havelock-north-outbreak-raises-big-questions/index.html
+layout: layout.njk
 ---
 Havelock North outbreak raises big questions
 ============================================

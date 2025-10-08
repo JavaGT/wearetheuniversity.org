@@ -1,9 +1,13 @@
 ---
 slug: education-minister-fails-needs-of-the-northshore
-title: "Education Minister Fails Needs Of The Northshore"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/PA0312/S00115/education-minister-fails-needs-of-the-northshore.htm
+title: Education Minister Fails Needs Of The Northshore
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00115/education-minister-fails-needs-of-the-northshore.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2003/12/04/education-minister-fails-needs-of-the-northshore/index.html
+layout: layout.njk
 ---
 Education Minister Fails Needs Of The Northshore
 ================================================

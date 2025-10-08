@@ -1,9 +1,11 @@
 ---
 slug: pansy-speak-shanghai-express
-title: "Pansy Speak: Shanghai Express"
-date: 2006-12-01
+title: 'Pansy Speak: Shanghai Express'
+date: 2006-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0612/S00009/pansy-speak-shanghai-express.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/01/pansy-speak-shanghai-express/index.html
+layout: layout.njk
 ---
 Pansy Speak: Shanghai Express
 =============================

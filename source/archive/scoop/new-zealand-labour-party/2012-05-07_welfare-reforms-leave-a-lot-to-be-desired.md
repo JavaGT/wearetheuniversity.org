@@ -1,9 +1,12 @@
 ---
 slug: welfare-reforms-leave-a-lot-to-be-desired
-title: "Welfare reforms leave a lot to be desired"
-date: 2012-05-07
-source-url: https://www.scoop.co.nz/stories/PA1205/S00111/welfare-reforms-leave-a-lot-to-be-desired.htm
+title: Welfare reforms leave a lot to be desired
+date: 2012-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00111/welfare-reforms-leave-a-lot-to-be-desired.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/07/welfare-reforms-leave-a-lot-to-be-desired/index.html
+layout: layout.njk
 ---
 Welfare reforms leave a lot to be desired
 =========================================

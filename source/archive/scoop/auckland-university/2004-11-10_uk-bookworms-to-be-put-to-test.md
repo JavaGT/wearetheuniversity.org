@@ -1,9 +1,12 @@
 ---
 slug: uk-bookworms-to-be-put-to-test
-title: "UK bookworms to be put to test"
-date: 2004-11-10
-source-url: https://www.scoop.co.nz/stories/ED0411/S00035/uk-bookworms-to-be-put-to-test.htm
+title: UK bookworms to be put to test
+date: 2004-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00035/uk-bookworms-to-be-put-to-test.htm
 author: auckland-university
+permalink: /archive/2004/11/10/uk-bookworms-to-be-put-to-test/index.html
+layout: layout.njk
 ---
 UK bookworms to be put to test
 ==============================

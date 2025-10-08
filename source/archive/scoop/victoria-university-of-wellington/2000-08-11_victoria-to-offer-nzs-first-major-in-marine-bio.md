@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-offer-nzs-first-major-in-marine-bio
-title: "Victoria to offer NZ’s first major in marine bio"
-date: 2000-08-11
-source-url: https://www.scoop.co.nz/stories/ED0008/S00024/victoria-to-offer-nzs-first-major-in-marine-bio.htm
+title: Victoria to offer NZ’s first major in marine bio
+date: 2000-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00024/victoria-to-offer-nzs-first-major-in-marine-bio.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/08/11/victoria-to-offer-nzs-first-major-in-marine-bio/index.html
+layout: layout.njk
 ---
 Victoria to offer NZ’s first major in marine bio
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: yet-more-evidence-of-the-chaos-around-standards
-title: "Yet More Evidence of the Chaos Around Standards"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/ED1010/S00085/yet-more-evidence-of-the-chaos-around-standards.htm
+title: Yet More Evidence of the Chaos Around Standards
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00085/yet-more-evidence-of-the-chaos-around-standards.htm
 author: nzei
+permalink: /archive/2010/10/21/yet-more-evidence-of-the-chaos-around-standards/index.html
+layout: layout.njk
 ---
 Yet More Evidence of the Chaos Around Standards
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: act-caucus-retreat-in-dunedin
-title: "ACT Caucus Retreat In Dunedin"
-date: 2001-06-06
-source-url: https://www.scoop.co.nz/stories/PA0106/S00064/act-caucus-retreat-in-dunedin.htm
+title: ACT Caucus Retreat In Dunedin
+date: 2001-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00064/act-caucus-retreat-in-dunedin.htm
 author: act-new-zealand
+permalink: /archive/2001/06/06/act-caucus-retreat-in-dunedin/index.html
+layout: layout.njk
 ---
 ACT Caucus Retreat In Dunedin
 =============================

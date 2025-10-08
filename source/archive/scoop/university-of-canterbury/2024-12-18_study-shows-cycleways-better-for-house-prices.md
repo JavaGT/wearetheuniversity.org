@@ -1,9 +1,12 @@
 ---
 slug: study-shows-cycleways-better-for-house-prices
-title: "Study Shows Cycleways Better For House Prices"
-date: 2024-12-18
-source-url: https://www.scoop.co.nz/stories/BU2412/S00365/study-shows-cycleways-better-for-house-prices.htm
+title: Study Shows Cycleways Better For House Prices
+date: 2024-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2412/S00365/study-shows-cycleways-better-for-house-prices.htm
 author: university-of-canterbury
+permalink: /archive/2024/12/18/study-shows-cycleways-better-for-house-prices/index.html
+layout: layout.njk
 ---
 Study Shows Cycleways Better For House Prices
 =============================================

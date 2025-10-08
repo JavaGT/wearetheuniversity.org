@@ -1,9 +1,13 @@
 ---
 slug: trex-heading-to-new-zealand-to-test-christchurchs-soils
-title: "TRex heading to New Zealand to test Christchurch’s soils"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/AK1302/S00132/trex-heading-to-new-zealand-to-test-christchurchs-soils.htm
+title: TRex heading to New Zealand to test Christchurch’s soils
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1302/S00132/trex-heading-to-new-zealand-to-test-christchurchs-soils.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/07/trex-heading-to-new-zealand-to-test-christchurchs-soils/index.html
+layout: layout.njk
 ---
 TRex heading to New Zealand to test Christchurch’s soils
 ========================================================

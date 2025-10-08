@@ -1,9 +1,13 @@
 ---
 slug: treasure-trove-of-nz-classics-make-up-new-ebook-library
-title: "Treasure trove of NZ classics make up new ebook library"
-date: 2013-11-15
-source-url: https://www.scoop.co.nz/stories/CU1311/S00331/treasure-trove-of-nz-classics-make-up-new-ebook-library.htm
+title: Treasure trove of NZ classics make up new ebook library
+date: 2013-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00331/treasure-trove-of-nz-classics-make-up-new-ebook-library.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2013/11/15/treasure-trove-of-nz-classics-make-up-new-ebook-library/index.html
+layout: layout.njk
 ---
 Treasure trove of NZ classics make up new ebook library
 =======================================================

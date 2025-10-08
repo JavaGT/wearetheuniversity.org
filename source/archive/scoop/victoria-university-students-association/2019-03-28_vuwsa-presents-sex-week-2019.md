@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-presents-sex-week-2019
-title: "VUWSA presents Sex Week 2019"
-date: 2019-03-28
+title: VUWSA presents Sex Week 2019
+date: 2019-03-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1903/S00058/vuwsa-presents-sex-week-2019.htm
 author: victoria-university-students-association
+permalink: /archive/2019/03/28/vuwsa-presents-sex-week-2019/index.html
+layout: layout.njk
 ---
 VUWSA presents Sex Week 2019
 ============================

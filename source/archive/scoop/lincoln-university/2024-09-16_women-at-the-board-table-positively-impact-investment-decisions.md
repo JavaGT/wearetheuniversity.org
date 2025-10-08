@@ -1,9 +1,13 @@
 ---
 slug: women-at-the-board-table-positively-impact-investment-decisions
-title: "Women At The Board Table Positively Impact Investment Decisions"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/BU2409/S00211/women-at-the-board-table-positively-impact-investment-decisions.htm
+title: Women At The Board Table Positively Impact Investment Decisions
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2409/S00211/women-at-the-board-table-positively-impact-investment-decisions.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/09/16/women-at-the-board-table-positively-impact-investment-decisions/index.html
+layout: layout.njk
 ---
 Women At The Board Table Positively Impact Investment Decisions
 ===============================================================

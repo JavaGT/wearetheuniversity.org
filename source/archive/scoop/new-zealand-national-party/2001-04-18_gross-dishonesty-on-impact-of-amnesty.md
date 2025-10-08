@@ -1,9 +1,12 @@
 ---
 slug: gross-dishonesty-on-impact-of-amnesty
-title: "Gross dishonesty on impact of amnesty"
-date: 2001-04-18
-source-url: https://www.scoop.co.nz/stories/PA0104/S00250/gross-dishonesty-on-impact-of-amnesty.htm
+title: Gross dishonesty on impact of amnesty
+date: 2001-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00250/gross-dishonesty-on-impact-of-amnesty.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/18/gross-dishonesty-on-impact-of-amnesty/index.html
+layout: layout.njk
 ---
 Gross dishonesty on impact of amnesty
 =====================================

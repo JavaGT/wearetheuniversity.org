@@ -1,9 +1,13 @@
 ---
 slug: nurses-often-cyberbullied-by-patients-and-families
-title: "Nurses Often Cyberbullied by Patients And Families"
-date: 2017-11-29
-source-url: https://www.scoop.co.nz/stories/GE1711/S00118/nurses-often-cyberbullied-by-patients-and-families.htm
+title: Nurses Often Cyberbullied by Patients And Families
+date: 2017-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1711/S00118/nurses-often-cyberbullied-by-patients-and-families.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/29/nurses-often-cyberbullied-by-patients-and-families/index.html
+layout: layout.njk
 ---
 Nurses Often Cyberbullied by Patients And Families
 ==================================================

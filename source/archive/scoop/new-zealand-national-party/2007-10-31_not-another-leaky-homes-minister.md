@@ -1,9 +1,12 @@
 ---
 slug: not-another-leaky-homes-minister
-title: "Not another leaky homes Minister"
-date: 2007-10-31
-source-url: https://www.scoop.co.nz/stories/PA0710/S00587/not-another-leaky-homes-minister.htm
+title: Not another leaky homes Minister
+date: 2007-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00587/not-another-leaky-homes-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/31/not-another-leaky-homes-minister/index.html
+layout: layout.njk
 ---
 Not another leaky homes Minister
 ================================

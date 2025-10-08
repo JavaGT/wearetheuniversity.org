@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-oppose-unrestrained-fee-hikes
-title: "Auckland students oppose unrestrained fee hikes"
-date: 2007-10-03
-source-url: https://www.scoop.co.nz/stories/PO0710/S00039/auckland-students-oppose-unrestrained-fee-hikes.htm
+title: Auckland students oppose unrestrained fee hikes
+date: 2007-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00039/auckland-students-oppose-unrestrained-fee-hikes.htm
 author: auckland-university-students-association
+permalink: /archive/2007/10/03/auckland-students-oppose-unrestrained-fee-hikes/index.html
+layout: layout.njk
 ---
 Auckland students oppose unrestrained fee hikes
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: harawira-insolvency-bill
-title: "Harawira: Insolvency Bill"
-date: 2006-10-27
+title: 'Harawira: Insolvency Bill'
+date: 2006-10-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00514/harawira-insolvency-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/10/27/harawira-insolvency-bill/index.html
+layout: layout.njk
 ---
 Harawira: Insolvency Bill
 =========================

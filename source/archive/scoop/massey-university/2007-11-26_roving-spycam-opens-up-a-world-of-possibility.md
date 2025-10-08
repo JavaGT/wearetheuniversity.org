@@ -1,9 +1,12 @@
 ---
 slug: roving-spycam-opens-up-a-world-of-possibility
-title: "Roving spycam opens up a world of possibility"
-date: 2007-11-26
-source-url: https://www.scoop.co.nz/stories/SC0711/S00069/roving-spycam-opens-up-a-world-of-possibility.htm
+title: Roving spycam opens up a world of possibility
+date: 2007-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00069/roving-spycam-opens-up-a-world-of-possibility.htm
 author: massey-university
+permalink: /archive/2007/11/26/roving-spycam-opens-up-a-world-of-possibility/index.html
+layout: layout.njk
 ---
 Roving spycam opens up a world of possibility
 =============================================

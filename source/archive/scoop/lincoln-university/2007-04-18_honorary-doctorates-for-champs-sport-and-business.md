@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorates-for-champs-sport-and-business
-title: "Honorary doctorates for champs sport and business"
-date: 2007-04-18
-source-url: https://www.scoop.co.nz/stories/ED0704/S00055/honorary-doctorates-for-champs-sport-and-business.htm
+title: Honorary doctorates for champs sport and business
+date: 2007-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00055/honorary-doctorates-for-champs-sport-and-business.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/04/18/honorary-doctorates-for-champs-sport-and-business/index.html
+layout: layout.njk
 ---
 Honorary doctorates for champs sport and business
 =================================================

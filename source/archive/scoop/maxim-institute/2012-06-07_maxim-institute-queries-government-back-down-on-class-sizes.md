@@ -1,9 +1,13 @@
 ---
 slug: maxim-institute-queries-government-back-down-on-class-sizes
-title: "Maxim Institute Queries Government Back-Down on Class Sizes"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PO1206/S00084/maxim-institute-queries-government-back-down-on-class-sizes.htm
+title: Maxim Institute Queries Government Back-Down on Class Sizes
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00084/maxim-institute-queries-government-back-down-on-class-sizes.htm
 author: maxim-institute
+permalink: >-
+  /archive/2012/06/07/maxim-institute-queries-government-back-down-on-class-sizes/index.html
+layout: layout.njk
 ---
 Maxim Institute Queries Government Back-Down on Class Sizes
 ===========================================================

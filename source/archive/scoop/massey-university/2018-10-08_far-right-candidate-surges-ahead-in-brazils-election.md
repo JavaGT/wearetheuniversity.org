@@ -1,9 +1,13 @@
 ---
 slug: far-right-candidate-surges-ahead-in-brazils-election
-title: "Far right candidate surges ahead in Brazil’s election"
-date: 2018-10-08
-source-url: https://www.scoop.co.nz/stories/WO1810/S00050/far-right-candidate-surges-ahead-in-brazils-election.htm
+title: Far right candidate surges ahead in Brazil’s election
+date: 2018-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1810/S00050/far-right-candidate-surges-ahead-in-brazils-election.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/08/far-right-candidate-surges-ahead-in-brazils-election/index.html
+layout: layout.njk
 ---
 Far right candidate surges ahead in Brazil’s election
 =====================================================

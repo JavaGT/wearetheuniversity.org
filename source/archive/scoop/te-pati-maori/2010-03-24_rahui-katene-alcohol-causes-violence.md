@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-alcohol-causes-violence
-title: "Rahui Katene: Alcohol Causes Violence"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00359/rahui-katene-alcohol-causes-violence.htm
+title: 'Rahui Katene: Alcohol Causes Violence'
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00359/rahui-katene-alcohol-causes-violence.htm
 author: te-pati-maori
+permalink: /archive/2010/03/24/rahui-katene-alcohol-causes-violence/index.html
+layout: layout.njk
 ---
 Rahui Katene: Alcohol Causes Violence
 =====================================

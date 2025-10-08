@@ -1,9 +1,13 @@
 ---
 slug: notice-of-motion-appointment-of-assistant-speaker
-title: "Notice of Motion: Appointment of Assistant Speaker"
-date: 2008-03-04
-source-url: https://www.scoop.co.nz/stories/PA0803/S00043/notice-of-motion-appointment-of-assistant-speaker.htm
+title: 'Notice of Motion: Appointment of Assistant Speaker'
+date: 2008-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00043/notice-of-motion-appointment-of-assistant-speaker.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/03/04/notice-of-motion-appointment-of-assistant-speaker/index.html
+layout: layout.njk
 ---
 Notice of Motion: Appointment of Assistant Speaker
 ==================================================

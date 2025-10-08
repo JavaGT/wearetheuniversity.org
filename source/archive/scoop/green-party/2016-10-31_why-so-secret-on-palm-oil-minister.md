@@ -1,9 +1,12 @@
 ---
 slug: why-so-secret-on-palm-oil-minister
-title: "Why so secret on palm oil, Minister?"
-date: 2016-10-31
-source-url: https://www.scoop.co.nz/stories/PA1610/S00447/why-so-secret-on-palm-oil-minister.htm
+title: Why so secret on palm oil, Minister?
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00447/why-so-secret-on-palm-oil-minister.htm
 author: green-party
+permalink: /archive/2016/10/31/why-so-secret-on-palm-oil-minister/index.html
+layout: layout.njk
 ---
 Why so secret on palm oil, Minister?
 ====================================

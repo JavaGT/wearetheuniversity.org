@@ -1,9 +1,13 @@
 ---
 slug: hodgsons-medical-council-veto-a-blow-to-democracy
-title: "Hodgson's Medical Council veto a blow to democracy"
-date: 2006-07-26
-source-url: https://www.scoop.co.nz/stories/PA0607/S00424/hodgsons-medical-council-veto-a-blow-to-democracy.htm
+title: Hodgson's Medical Council veto a blow to democracy
+date: 2006-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00424/hodgsons-medical-council-veto-a-blow-to-democracy.htm
 author: green-party
+permalink: >-
+  /archive/2006/07/26/hodgsons-medical-council-veto-a-blow-to-democracy/index.html
+layout: layout.njk
 ---
 Hodgson's Medical Council veto a blow to democracy
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: delivering-science-in-a-pizza-box
-title: "Delivering science in a pizza box"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/SC1310/S00045/delivering-science-in-a-pizza-box.htm
+title: Delivering science in a pizza box
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00045/delivering-science-in-a-pizza-box.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/18/delivering-science-in-a-pizza-box/index.html
+layout: layout.njk
 ---
 Delivering science in a pizza box
 =================================

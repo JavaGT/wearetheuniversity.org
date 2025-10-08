@@ -1,9 +1,13 @@
 ---
 slug: new-study-reinforces-timely-need-for-pneumococcal-vaccine-switch
-title: "New Study Reinforces Timely Need For Pneumococcal Vaccine Switch"
-date: 2023-05-10
-source-url: https://www.scoop.co.nz/stories/GE2305/S00024/new-study-reinforces-timely-need-for-pneumococcal-vaccine-switch.htm
+title: New Study Reinforces Timely Need For Pneumococcal Vaccine Switch
+date: 2023-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2305/S00024/new-study-reinforces-timely-need-for-pneumococcal-vaccine-switch.htm
 author: university-of-otago
+permalink: >-
+  /archive/2023/05/10/new-study-reinforces-timely-need-for-pneumococcal-vaccine-switch/index.html
+layout: layout.njk
 ---
 New Study Reinforces Timely Need For Pneumococcal Vaccine Switch
 ================================================================

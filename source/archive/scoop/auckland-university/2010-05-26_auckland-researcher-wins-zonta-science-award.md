@@ -1,9 +1,12 @@
 ---
 slug: auckland-researcher-wins-zonta-science-award
-title: "Auckland researcher wins Zonta Science Award"
-date: 2010-05-26
-source-url: https://www.scoop.co.nz/stories/SC1005/S00062/auckland-researcher-wins-zonta-science-award.htm
+title: Auckland researcher wins Zonta Science Award
+date: 2010-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1005/S00062/auckland-researcher-wins-zonta-science-award.htm
 author: auckland-university
+permalink: /archive/2010/05/26/auckland-researcher-wins-zonta-science-award/index.html
+layout: layout.njk
 ---
 Auckland researcher wins Zonta Science Award
 ============================================

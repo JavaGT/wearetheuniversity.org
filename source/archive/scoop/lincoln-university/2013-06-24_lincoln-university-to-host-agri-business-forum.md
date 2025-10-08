@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-to-host-agri-business-forum
-title: "Lincoln University to host agri-business forum"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/ED1306/S00126/lincoln-university-to-host-agri-business-forum.htm
+title: Lincoln University to host agri-business forum
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00126/lincoln-university-to-host-agri-business-forum.htm
 author: lincoln-university
+permalink: /archive/2013/06/24/lincoln-university-to-host-agri-business-forum/index.html
+layout: layout.njk
 ---
 Lincoln University to host agri-business forum
 ==============================================

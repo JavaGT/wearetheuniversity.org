@@ -1,9 +1,12 @@
 ---
 slug: ages-of-charcoal-launches-public-lecture-series
-title: "Ages of charcoal launches public lecture series"
-date: 2010-08-02
-source-url: https://www.scoop.co.nz/stories/ED1008/S00001/ages-of-charcoal-launches-public-lecture-series.htm
+title: Ages of charcoal launches public lecture series
+date: 2010-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00001/ages-of-charcoal-launches-public-lecture-series.htm
 author: massey-university
+permalink: /archive/2010/08/02/ages-of-charcoal-launches-public-lecture-series/index.html
+layout: layout.njk
 ---
 Ages of charcoal launches public lecture series
 ===============================================

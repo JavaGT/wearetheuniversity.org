@@ -1,9 +1,11 @@
 ---
 slug: potential-in-e-pipelines
-title: "Potential in e-pipelines"
-date: 2003-07-24
+title: Potential in e-pipelines
+date: 2003-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0307/S00061/potential-in-e-pipelines.htm
 author: waikato-university
+permalink: /archive/2003/07/24/potential-in-e-pipelines/index.html
+layout: layout.njk
 ---
 Potential in e-pipelines
 ========================

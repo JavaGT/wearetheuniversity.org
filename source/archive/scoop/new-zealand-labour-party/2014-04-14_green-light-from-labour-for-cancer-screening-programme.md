@@ -1,9 +1,13 @@
 ---
 slug: green-light-from-labour-for-cancer-screening-programme
-title: "Green light from Labour for cancer screening programme"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PA1404/S00233/green-light-from-labour-for-cancer-screening-programme.htm
+title: Green light from Labour for cancer screening programme
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00233/green-light-from-labour-for-cancer-screening-programme.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/14/green-light-from-labour-for-cancer-screening-programme/index.html
+layout: layout.njk
 ---
 Green light from Labour for cancer screening programme
 ======================================================

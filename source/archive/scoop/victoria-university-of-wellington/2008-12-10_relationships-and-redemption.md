@@ -1,9 +1,11 @@
 ---
 slug: relationships-and-redemption
-title: "Relationships And Redemption"
-date: 2008-12-10
+title: Relationships And Redemption
+date: 2008-12-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0812/S00119/relationships-and-redemption.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/12/10/relationships-and-redemption/index.html
+layout: layout.njk
 ---
 Relationships And Redemption
 ============================

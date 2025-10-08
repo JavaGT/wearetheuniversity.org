@@ -1,8 +1,12 @@
 ---
 slug: two-rhodes-scholars-for-the-university-of-auckland
-title: "Two Rhodes scholars for the University of Auckland"
-date: 2015-12-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/two-rhodes-scholars-for-the-university-of-auckland.html
+title: Two Rhodes scholars for the University of Auckland
+date: 2015-12-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/two-rhodes-scholars-for-the-university-of-auckland.html
+permalink: >-
+  /archive/2015/12/21/two-rhodes-scholars-for-the-university-of-auckland/index.html
+layout: layout.njk
 ---
 Two Rhodes scholars for the University of Auckland
 ==================================================

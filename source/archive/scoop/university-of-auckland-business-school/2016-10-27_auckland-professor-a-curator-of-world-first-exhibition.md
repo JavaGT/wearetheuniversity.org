@@ -1,9 +1,13 @@
 ---
 slug: auckland-professor-a-curator-of-world-first-exhibition
-title: "Auckland professor a curator of world-first exhibition"
-date: 2016-10-27
-source-url: https://www.scoop.co.nz/stories/CU1610/S00363/auckland-professor-a-curator-of-world-first-exhibition.htm
+title: Auckland professor a curator of world-first exhibition
+date: 2016-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00363/auckland-professor-a-curator-of-world-first-exhibition.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2016/10/27/auckland-professor-a-curator-of-world-first-exhibition/index.html
+layout: layout.njk
 ---
 Auckland professor a curator of world-first exhibition
 ======================================================

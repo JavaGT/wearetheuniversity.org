@@ -1,9 +1,13 @@
 ---
 slug: creative-storytelling-breaks-silence-of-dementia
-title: "Creative storytelling breaks silence of dementia"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/ED1511/S00008/creative-storytelling-breaks-silence-of-dementia.htm
+title: Creative storytelling breaks silence of dementia
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00008/creative-storytelling-breaks-silence-of-dementia.htm
 author: massey-university
+permalink: >-
+  /archive/2015/11/02/creative-storytelling-breaks-silence-of-dementia/index.html
+layout: layout.njk
 ---
 Creative storytelling breaks silence of dementia
 ================================================

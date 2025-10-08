@@ -1,9 +1,12 @@
 ---
 slug: accountants-investigate-association-finances
-title: "Accountants investigate association finances"
-date: 2002-12-05
-source-url: https://www.scoop.co.nz/stories/ED0212/S00011/accountants-investigate-association-finances.htm
+title: Accountants investigate association finances
+date: 2002-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00011/accountants-investigate-association-finances.htm
 author: massey-university-students-association
+permalink: /archive/2002/12/05/accountants-investigate-association-finances/index.html
+layout: layout.njk
 ---
 Accountants investigate association finances
 ============================================

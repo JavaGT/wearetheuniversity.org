@@ -1,9 +1,12 @@
 ---
 slug: brownlee-must-extend-red-zone-deadline
-title: "Brownlee must extend red zone deadline"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/PA1303/S00479/brownlee-must-extend-red-zone-deadline.htm
+title: Brownlee must extend red zone deadline
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00479/brownlee-must-extend-red-zone-deadline.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/27/brownlee-must-extend-red-zone-deadline/index.html
+layout: layout.njk
 ---
 Brownlee must extend red zone deadline
 ======================================

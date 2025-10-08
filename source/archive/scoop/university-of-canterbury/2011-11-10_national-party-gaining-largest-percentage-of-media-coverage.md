@@ -1,9 +1,13 @@
 ---
 slug: national-party-gaining-largest-percentage-of-media-coverage
-title: "National Party gaining largest percentage of media coverage"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/PO1111/S00265/national-party-gaining-largest-percentage-of-media-coverage.htm
+title: National Party gaining largest percentage of media coverage
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00265/national-party-gaining-largest-percentage-of-media-coverage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/11/10/national-party-gaining-largest-percentage-of-media-coverage/index.html
+layout: layout.njk
 ---
 National Party gaining largest percentage of media coverage
 ===========================================================

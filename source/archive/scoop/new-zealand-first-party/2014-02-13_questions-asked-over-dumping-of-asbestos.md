@@ -1,9 +1,12 @@
 ---
 slug: questions-asked-over-dumping-of-asbestos
-title: "Questions Asked Over Dumping of Asbestos"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/PA1402/S00156/questions-asked-over-dumping-of-asbestos.htm
+title: Questions Asked Over Dumping of Asbestos
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00156/questions-asked-over-dumping-of-asbestos.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/13/questions-asked-over-dumping-of-asbestos/index.html
+layout: layout.njk
 ---
 Questions Asked Over Dumping of Asbestos
 ========================================

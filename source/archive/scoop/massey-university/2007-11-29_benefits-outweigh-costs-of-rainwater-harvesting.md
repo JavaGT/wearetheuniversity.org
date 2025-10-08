@@ -1,9 +1,12 @@
 ---
 slug: benefits-outweigh-costs-of-rainwater-harvesting
-title: "Benefits outweigh costs of rainwater harvesting"
-date: 2007-11-29
-source-url: https://www.scoop.co.nz/stories/ED0711/S00120/benefits-outweigh-costs-of-rainwater-harvesting.htm
+title: Benefits outweigh costs of rainwater harvesting
+date: 2007-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00120/benefits-outweigh-costs-of-rainwater-harvesting.htm
 author: massey-university
+permalink: /archive/2007/11/29/benefits-outweigh-costs-of-rainwater-harvesting/index.html
+layout: layout.njk
 ---
 Benefits outweigh costs of rainwater harvesting
 ===============================================

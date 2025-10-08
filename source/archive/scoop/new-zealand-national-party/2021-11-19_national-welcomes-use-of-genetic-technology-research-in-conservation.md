@@ -1,9 +1,13 @@
 ---
 slug: national-welcomes-use-of-genetic-technology-research-in-conservation
-title: "National Welcomes Use Of Genetic Technology Research In Conservation"
-date: 2021-11-19
-source-url: https://www.scoop.co.nz/stories/PA2111/S00230/national-welcomes-use-of-genetic-technology-research-in-conservation.htm
+title: National Welcomes Use Of Genetic Technology Research In Conservation
+date: 2021-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00230/national-welcomes-use-of-genetic-technology-research-in-conservation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/19/national-welcomes-use-of-genetic-technology-research-in-conservation/index.html
+layout: layout.njk
 ---
 National Welcomes Use Of Genetic Technology Research In Conservation
 ====================================================================

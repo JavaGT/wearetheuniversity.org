@@ -1,9 +1,13 @@
 ---
 slug: government-disingenuous-on-public-service-frontline-claims
-title: "Government disingenuous on public service frontline claims"
-date: 2011-03-30
-source-url: https://www.scoop.co.nz/stories/PO1103/S00301/government-disingenuous-on-public-service-frontline-claims.htm
+title: Government disingenuous on public service frontline claims
+date: 2011-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1103/S00301/government-disingenuous-on-public-service-frontline-claims.htm
 author: nzei
+permalink: >-
+  /archive/2011/03/30/government-disingenuous-on-public-service-frontline-claims/index.html
+layout: layout.njk
 ---
 Government disingenuous on public service frontline claims
 ==========================================================

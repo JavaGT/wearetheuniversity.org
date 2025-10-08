@@ -1,9 +1,13 @@
 ---
 slug: heart-foundations-tick-label-gets-a-tick-of-its-own
-title: "Heart Foundation’s Tick label gets a tick of its own"
-date: 2016-07-05
-source-url: https://www.scoop.co.nz/stories/GE1607/S00018/heart-foundations-tick-label-gets-a-tick-of-its-own.htm
+title: Heart Foundation’s Tick label gets a tick of its own
+date: 2016-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00018/heart-foundations-tick-label-gets-a-tick-of-its-own.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/05/heart-foundations-tick-label-gets-a-tick-of-its-own/index.html
+layout: layout.njk
 ---
 Heart Foundation’s Tick label gets a tick of its own
 ====================================================

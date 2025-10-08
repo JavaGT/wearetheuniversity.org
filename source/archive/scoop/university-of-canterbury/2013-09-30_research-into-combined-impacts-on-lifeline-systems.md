@@ -1,9 +1,13 @@
 ---
 slug: research-into-combined-impacts-on-lifeline-systems
-title: "Research into combined impacts on lifeline systems"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/SC1309/S00079/research-into-combined-impacts-on-lifeline-systems.htm
+title: Research into combined impacts on lifeline systems
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00079/research-into-combined-impacts-on-lifeline-systems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/30/research-into-combined-impacts-on-lifeline-systems/index.html
+layout: layout.njk
 ---
 Research into combined impacts on lifeline systems
 ==================================================

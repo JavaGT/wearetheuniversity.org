@@ -1,9 +1,12 @@
 ---
 slug: 20-years-of-mäori-achievement-at-massey-university
-title: "20 years of Mäori achievement at Massey University"
-date: 2008-05-13
-source-url: https://www.scoop.co.nz/stories/ED0805/S00040/20-years-of-maori-achievement-at-massey-university.htm
+title: 20 years of Mäori achievement at Massey University
+date: 2008-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00040/20-years-of-maori-achievement-at-massey-university.htm
 author: massey-university
+permalink: /archive/2008/05/13/20-years-of-m/index.html
+layout: layout.njk
 ---
 20 years of Mäori achievement at Massey University
 ==================================================

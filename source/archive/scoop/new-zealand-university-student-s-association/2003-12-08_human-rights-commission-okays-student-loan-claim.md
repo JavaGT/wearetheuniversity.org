@@ -1,9 +1,13 @@
 ---
 slug: human-rights-commission-okays-student-loan-claim
-title: "Human Rights Commission Okays Student Loan Claim"
-date: 2003-12-08
-source-url: https://www.scoop.co.nz/stories/ED0312/S00035/human-rights-commission-okays-student-loan-claim.htm
+title: Human Rights Commission Okays Student Loan Claim
+date: 2003-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00035/human-rights-commission-okays-student-loan-claim.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2003/12/08/human-rights-commission-okays-student-loan-claim/index.html
+layout: layout.njk
 ---
 Human Rights Commission Okays Student Loan Claim
 ================================================

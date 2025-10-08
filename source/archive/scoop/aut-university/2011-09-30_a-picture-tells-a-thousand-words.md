@@ -1,9 +1,12 @@
 ---
 slug: a-picture-tells-a-thousand-words
-title: "A picture tells a thousand words"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00148/a-picture-tells-a-thousand-words.htm
+title: A picture tells a thousand words
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00148/a-picture-tells-a-thousand-words.htm
 author: aut-university
+permalink: /archive/2011/09/30/a-picture-tells-a-thousand-words/index.html
+layout: layout.njk
 ---
 A picture tells a thousand words
 ================================

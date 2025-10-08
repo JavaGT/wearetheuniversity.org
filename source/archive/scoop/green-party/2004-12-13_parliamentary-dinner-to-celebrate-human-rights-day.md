@@ -1,9 +1,13 @@
 ---
 slug: parliamentary-dinner-to-celebrate-human-rights-day
-title: "Parliamentary Dinner To Celebrate Human Rights Day"
-date: 2004-12-13
-source-url: https://www.scoop.co.nz/stories/PA0412/S00312/parliamentary-dinner-to-celebrate-human-rights-day.htm
+title: Parliamentary Dinner To Celebrate Human Rights Day
+date: 2004-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00312/parliamentary-dinner-to-celebrate-human-rights-day.htm
 author: green-party
+permalink: >-
+  /archive/2004/12/13/parliamentary-dinner-to-celebrate-human-rights-day/index.html
+layout: layout.njk
 ---
 Parliamentary Dinner To Celebrate Human Rights Day
 ==================================================

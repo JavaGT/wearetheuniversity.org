@@ -1,9 +1,13 @@
 ---
 slug: smokefree-report-to-influence-the-next-generation
-title: "Smokefree Report To Influence The Next Generation"
-date: 2010-05-09
-source-url: https://www.scoop.co.nz/stories/PA1005/S00145/smokefree-report-to-influence-the-next-generation.htm
+title: Smokefree Report To Influence The Next Generation
+date: 2010-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00145/smokefree-report-to-influence-the-next-generation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/05/09/smokefree-report-to-influence-the-next-generation/index.html
+layout: layout.njk
 ---
 Smokefree Report To Influence The Next Generation
 =================================================

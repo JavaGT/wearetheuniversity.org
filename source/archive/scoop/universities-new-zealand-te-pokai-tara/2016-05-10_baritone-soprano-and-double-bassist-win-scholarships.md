@@ -1,9 +1,13 @@
 ---
 slug: baritone-soprano-and-double-bassist-win-scholarships
-title: "Baritone, Soprano and Double bassist win Scholarships"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/CU1605/S00112/baritone-soprano-and-double-bassist-win-scholarships.htm
+title: Baritone, Soprano and Double bassist win Scholarships
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00112/baritone-soprano-and-double-bassist-win-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/05/10/baritone-soprano-and-double-bassist-win-scholarships/index.html
+layout: layout.njk
 ---
 Baritone, Soprano and Double bassist win Scholarships
 =====================================================

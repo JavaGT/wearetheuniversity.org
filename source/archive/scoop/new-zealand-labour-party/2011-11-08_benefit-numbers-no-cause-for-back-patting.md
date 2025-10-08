@@ -1,9 +1,12 @@
 ---
 slug: benefit-numbers-no-cause-for-back-patting
-title: "Benefit numbers no cause for back patting"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/PA1111/S00161/benefit-numbers-no-cause-for-back-patting.htm
+title: Benefit numbers no cause for back patting
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00161/benefit-numbers-no-cause-for-back-patting.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/08/benefit-numbers-no-cause-for-back-patting/index.html
+layout: layout.njk
 ---
 Benefit numbers no cause for back patting
 =========================================

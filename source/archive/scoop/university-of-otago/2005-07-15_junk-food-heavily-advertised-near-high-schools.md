@@ -1,9 +1,12 @@
 ---
 slug: junk-food-heavily-advertised-near-high-schools
-title: "Junk food heavily advertised near high schools"
-date: 2005-07-15
-source-url: https://www.scoop.co.nz/stories/ED0507/S00053/junk-food-heavily-advertised-near-high-schools.htm
+title: Junk food heavily advertised near high schools
+date: 2005-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00053/junk-food-heavily-advertised-near-high-schools.htm
 author: university-of-otago
+permalink: /archive/2005/07/15/junk-food-heavily-advertised-near-high-schools/index.html
+layout: layout.njk
 ---
 Junk food heavily advertised near high schools
 ==============================================

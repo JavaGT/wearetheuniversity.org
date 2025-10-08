@@ -1,9 +1,12 @@
 ---
 slug: flax-a-winner-on-the-worlds-technology-stage
-title: "FLAX a winner on the world’s technology stage"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/ED1410/S00160/flax-a-winner-on-the-worlds-technology-stage.htm
+title: FLAX a winner on the world’s technology stage
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00160/flax-a-winner-on-the-worlds-technology-stage.htm
 author: university-of-waikato
+permalink: /archive/2014/10/29/flax-a-winner-on-the-worlds-technology-stage/index.html
+layout: layout.njk
 ---
 FLAX a winner on the world’s technology stage
 =============================================

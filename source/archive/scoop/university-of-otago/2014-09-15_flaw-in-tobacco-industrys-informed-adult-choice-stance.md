@@ -1,9 +1,13 @@
 ---
 slug: flaw-in-tobacco-industrys-informed-adult-choice-stance
-title: "Flaw in tobacco industry’s \"informed adult choice\" stance"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/GE1409/S00077/flaw-in-tobacco-industrys-informed-adult-choice-stance.htm
+title: Flaw in tobacco industry’s "informed adult choice" stance
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00077/flaw-in-tobacco-industrys-informed-adult-choice-stance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/15/flaw-in-tobacco-industrys-informed-adult-choice-stance/index.html
+layout: layout.njk
 ---
 Flaw in tobacco industry’s “informed adult choice” stance
 =========================================================

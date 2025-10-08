@@ -1,9 +1,13 @@
 ---
 slug: monitoring-for-congenital-zika-syndrome-to-start-in-nz
-title: "Monitoring for Congenital Zika Syndrome to start in NZ"
-date: 2016-07-29
-source-url: https://www.scoop.co.nz/stories/GE1607/S00103/monitoring-for-congenital-zika-syndrome-to-start-in-nz.htm
+title: Monitoring for Congenital Zika Syndrome to start in NZ
+date: 2016-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1607/S00103/monitoring-for-congenital-zika-syndrome-to-start-in-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/29/monitoring-for-congenital-zika-syndrome-to-start-in-nz/index.html
+layout: layout.njk
 ---
 Monitoring for Congenital Zika Syndrome to start in NZ
 ======================================================

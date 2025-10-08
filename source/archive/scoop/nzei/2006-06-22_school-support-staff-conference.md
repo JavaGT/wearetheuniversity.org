@@ -1,9 +1,12 @@
 ---
 slug: school-support-staff-conference
-title: "School Support Staff Conference"
-date: 2006-06-22
-source-url: https://www.scoop.co.nz/stories/ED0606/S00051/school-support-staff-conference.htm
+title: School Support Staff Conference
+date: 2006-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00051/school-support-staff-conference.htm
 author: nzei
+permalink: /archive/2006/06/22/school-support-staff-conference/index.html
+layout: layout.njk
 ---
 School Support Staff Conference
 ===============================

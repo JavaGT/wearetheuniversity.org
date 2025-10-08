@@ -1,9 +1,12 @@
 ---
 slug: architects-of-the-future-display-their-work
-title: "Architects of the future display their work"
-date: 2007-11-06
-source-url: https://www.scoop.co.nz/stories/ED0711/S00029/architects-of-the-future-display-their-work.htm
+title: Architects of the future display their work
+date: 2007-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00029/architects-of-the-future-display-their-work.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/06/architects-of-the-future-display-their-work/index.html
+layout: layout.njk
 ---
 Architects of the future display their work
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: cats-and-lilies-a-toxic-mix
-title: "Cats and lilies a toxic mix"
-date: 2012-04-05
+title: Cats and lilies a toxic mix
+date: 2012-04-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1204/S00009/cats-and-lilies-a-toxic-mix.htm
 author: massey-university
+permalink: /archive/2012/04/05/cats-and-lilies-a-toxic-mix/index.html
+layout: layout.njk
 ---
 Cats and lilies a toxic mix
 ===========================

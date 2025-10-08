@@ -1,9 +1,12 @@
 ---
 slug: students-rewarded-for-academic-excellence
-title: "Students rewarded for academic excellence"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/ED0807/S00068/students-rewarded-for-academic-excellence.htm
+title: Students rewarded for academic excellence
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00068/students-rewarded-for-academic-excellence.htm
 author: massey-university
+permalink: /archive/2008/07/21/students-rewarded-for-academic-excellence/index.html
+layout: layout.njk
 ---
 Students rewarded for academic excellence
 =========================================

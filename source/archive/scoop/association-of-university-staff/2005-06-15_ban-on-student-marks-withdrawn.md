@@ -1,9 +1,12 @@
 ---
 slug: ban-on-student-marks-withdrawn
-title: "Ban on student marks withdrawn"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/ED0506/S00039/ban-on-student-marks-withdrawn.htm
+title: Ban on student marks withdrawn
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00039/ban-on-student-marks-withdrawn.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/15/ban-on-student-marks-withdrawn/index.html
+layout: layout.njk
 ---
 Ban on student marks withdrawn
 ==============================

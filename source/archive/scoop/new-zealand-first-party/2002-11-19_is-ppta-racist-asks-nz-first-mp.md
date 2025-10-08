@@ -1,9 +1,12 @@
 ---
 slug: is-ppta-racist-asks-nz-first-mp
-title: "\"Is PPTA Racist?\" - Asks NZ First MP"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/PA0211/S00437/is-ppta-racist-asks-nz-first-mp.htm
+title: '"Is PPTA Racist?" - Asks NZ First MP'
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00437/is-ppta-racist-asks-nz-first-mp.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/19/is-ppta-racist-asks-nz-first-mp/index.html
+layout: layout.njk
 ---
 "Is PPTA Racist?" - Asks NZ First MP
 ====================================

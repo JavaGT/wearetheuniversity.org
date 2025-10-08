@@ -1,9 +1,12 @@
 ---
 slug: smart-refrigeration-key-to-quality-meat-exports
-title: "Smart refrigeration key to quality meat exports"
-date: 2012-08-30
-source-url: https://www.scoop.co.nz/stories/SC1208/S00079/smart-refrigeration-key-to-quality-meat-exports.htm
+title: Smart refrigeration key to quality meat exports
+date: 2012-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1208/S00079/smart-refrigeration-key-to-quality-meat-exports.htm
 author: university-of-waikato
+permalink: /archive/2012/08/30/smart-refrigeration-key-to-quality-meat-exports/index.html
+layout: layout.njk
 ---
 Smart refrigeration key to quality meat exports
 ===============================================

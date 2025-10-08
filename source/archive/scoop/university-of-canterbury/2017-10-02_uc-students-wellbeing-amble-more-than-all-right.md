@@ -1,9 +1,12 @@
 ---
 slug: uc-students-wellbeing-amble-more-than-all-right
-title: "UC students’ wellbeing Amble more than All Right"
-date: 2017-10-02
-source-url: https://www.scoop.co.nz/stories/AK1710/S00020/uc-students-wellbeing-amble-more-than-all-right.htm
+title: UC students’ wellbeing Amble more than All Right
+date: 2017-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1710/S00020/uc-students-wellbeing-amble-more-than-all-right.htm
 author: university-of-canterbury
+permalink: /archive/2017/10/02/uc-students-wellbeing-amble-more-than-all-right/index.html
+layout: layout.njk
 ---
 UC students’ wellbeing Amble more than All Right
 ================================================

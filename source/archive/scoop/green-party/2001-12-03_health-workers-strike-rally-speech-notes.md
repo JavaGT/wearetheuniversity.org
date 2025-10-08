@@ -1,9 +1,12 @@
 ---
 slug: health-workers-strike-rally-speech-notes
-title: "Health Workers Strike Rally Speech Notes"
-date: 2001-12-03
-source-url: https://www.scoop.co.nz/stories/PA0112/S00026/health-workers-strike-rally-speech-notes.htm
+title: Health Workers Strike Rally Speech Notes
+date: 2001-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00026/health-workers-strike-rally-speech-notes.htm
 author: green-party
+permalink: /archive/2001/12/03/health-workers-strike-rally-speech-notes/index.html
+layout: layout.njk
 ---
 Health Workers Strike Rally Speech Notes
 ========================================

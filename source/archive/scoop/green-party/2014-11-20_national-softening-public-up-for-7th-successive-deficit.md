@@ -1,9 +1,13 @@
 ---
 slug: national-softening-public-up-for-7th-successive-deficit
-title: "National softening public up for 7th successive deficit"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/PA1411/S00248/national-softening-public-up-for-7th-successive-deficit.htm
+title: National softening public up for 7th successive deficit
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00248/national-softening-public-up-for-7th-successive-deficit.htm
 author: green-party
+permalink: >-
+  /archive/2014/11/20/national-softening-public-up-for-7th-successive-deficit/index.html
+layout: layout.njk
 ---
 National softening public up for 7th successive deficit
 =======================================================

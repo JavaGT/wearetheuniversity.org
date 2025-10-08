@@ -1,9 +1,12 @@
 ---
 slug: victoria-researchers-gain-funding-boost
-title: "Victoria researchers gain funding boost"
-date: 2006-09-07
-source-url: https://www.scoop.co.nz/stories/ED0609/S00025/victoria-researchers-gain-funding-boost.htm
+title: Victoria researchers gain funding boost
+date: 2006-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00025/victoria-researchers-gain-funding-boost.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/07/victoria-researchers-gain-funding-boost/index.html
+layout: layout.njk
 ---
 Victoria researchers gain funding boost
 =======================================

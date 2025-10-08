@@ -1,9 +1,13 @@
 ---
 slug: asb-showgrounds-liquidation-shows-up-governments-brittle-covid-response
-title: "ASB Showgrounds Liquidation Shows Up Government's Brittle COVID Response"
-date: 2021-06-23
-source-url: https://www.scoop.co.nz/stories/PA2106/S00179/asb-showgrounds-liquidation-shows-up-governments-brittle-covid-response.htm
+title: ASB Showgrounds Liquidation Shows Up Government's Brittle COVID Response
+date: 2021-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00179/asb-showgrounds-liquidation-shows-up-governments-brittle-covid-response.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/06/23/asb-showgrounds-liquidation-shows-up-governments-brittle-covid-response/index.html
+layout: layout.njk
 ---
 ASB Showgrounds Liquidation Shows Up Government's Brittle COVID Response
 ========================================================================

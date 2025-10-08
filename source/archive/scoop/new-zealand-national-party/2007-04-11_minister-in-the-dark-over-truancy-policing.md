@@ -1,9 +1,12 @@
 ---
 slug: minister-in-the-dark-over-truancy-policing
-title: "Minister in the dark over truancy policing"
-date: 2007-04-11
-source-url: https://www.scoop.co.nz/stories/PA0704/S00174/minister-in-the-dark-over-truancy-policing.htm
+title: Minister in the dark over truancy policing
+date: 2007-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00174/minister-in-the-dark-over-truancy-policing.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/11/minister-in-the-dark-over-truancy-policing/index.html
+layout: layout.njk
 ---
 Minister in the dark over truancy policing
 ==========================================

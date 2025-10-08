@@ -1,9 +1,12 @@
 ---
 slug: best-brains-awarded-postgraduate-scholarships
-title: "‘Best Brains’ Awarded Postgraduate Scholarships"
-date: 2020-05-29
-source-url: https://www.scoop.co.nz/stories/ED2005/S00069/best-brains-awarded-postgraduate-scholarships.htm
+title: ‘Best Brains’ Awarded Postgraduate Scholarships
+date: 2020-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00069/best-brains-awarded-postgraduate-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2020/05/29/best-brains-awarded-postgraduate-scholarships/index.html
+layout: layout.njk
 ---
 ‘Best Brains’ Awarded Postgraduate Scholarships
 ===============================================

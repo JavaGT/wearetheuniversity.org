@@ -1,9 +1,12 @@
 ---
 slug: cultural-night-raises-over-$4000-for-hospice
-title: "Cultural Night Raises over $4000 for Hospice"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/CU1208/S00432/cultural-night-raises-over-4000-for-hospice.htm
+title: Cultural Night Raises over $4000 for Hospice
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00432/cultural-night-raises-over-4000-for-hospice.htm
 author: ousa
+permalink: /archive/2012/08/24/cultural-night-raises-over-/index.html
+layout: layout.njk
 ---
 Cultural Night Raises over $4000 for Hospice
 ============================================

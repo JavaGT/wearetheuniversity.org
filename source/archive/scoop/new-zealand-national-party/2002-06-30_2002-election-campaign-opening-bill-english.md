@@ -1,9 +1,12 @@
 ---
 slug: 2002-election-campaign-opening-bill-english
-title: "2002 Election Campaign Opening  - Bill English"
-date: 2002-06-30
-source-url: https://www.scoop.co.nz/stories/PA0206/S00558/2002-election-campaign-opening-bill-english.htm
+title: 2002 Election Campaign Opening  - Bill English
+date: 2002-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00558/2002-election-campaign-opening-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/30/2002-election-campaign-opening-bill-english/index.html
+layout: layout.njk
 ---
 2002 Election Campaign Opening - Bill English
 =============================================

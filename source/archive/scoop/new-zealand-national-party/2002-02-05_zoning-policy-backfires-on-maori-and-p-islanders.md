@@ -1,9 +1,13 @@
 ---
 slug: zoning-policy-backfires-on-maori-and-p-islanders
-title: "Zoning policy backfires on Maori and P. Islanders"
-date: 2002-02-05
-source-url: https://www.scoop.co.nz/stories/PA0202/S00038/zoning-policy-backfires-on-maori-and-p-islanders.htm
+title: Zoning policy backfires on Maori and P. Islanders
+date: 2002-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00038/zoning-policy-backfires-on-maori-and-p-islanders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/02/05/zoning-policy-backfires-on-maori-and-p-islanders/index.html
+layout: layout.njk
 ---
 Zoning policy backfires on Maori and P. Islanders
 =================================================

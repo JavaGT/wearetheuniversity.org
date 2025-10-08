@@ -1,9 +1,12 @@
 ---
 slug: organic-gardens-for-urban-school-kids
-title: "Organic gardens for urban school-kids"
-date: 2001-05-18
-source-url: https://www.scoop.co.nz/stories/PA0105/S00373/organic-gardens-for-urban-school-kids.htm
+title: Organic gardens for urban school-kids
+date: 2001-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00373/organic-gardens-for-urban-school-kids.htm
 author: green-party
+permalink: /archive/2001/05/18/organic-gardens-for-urban-school-kids/index.html
+layout: layout.njk
 ---
 Organic gardens for urban school-kids
 =====================================

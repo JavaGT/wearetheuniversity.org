@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-providing-power-for-those-in-need
-title: "Canterbury students providing power for those in need"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/ED1407/S00047/canterbury-students-providing-power-for-those-in-need.htm
+title: Canterbury students providing power for those in need
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00047/canterbury-students-providing-power-for-those-in-need.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/08/canterbury-students-providing-power-for-those-in-need/index.html
+layout: layout.njk
 ---
 Canterbury students providing power for those in need
 =====================================================

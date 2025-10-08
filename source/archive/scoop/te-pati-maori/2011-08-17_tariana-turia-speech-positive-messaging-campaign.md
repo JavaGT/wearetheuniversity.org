@@ -1,9 +1,13 @@
 ---
 slug: tariana-turia-speech-positive-messaging-campaign
-title: "Tariana Turia Speech: Positive Messaging Campaign"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/PA1108/S00333/tariana-turia-speech-positive-messaging-campaign.htm
+title: 'Tariana Turia Speech: Positive Messaging Campaign'
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00333/tariana-turia-speech-positive-messaging-campaign.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/08/17/tariana-turia-speech-positive-messaging-campaign/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech: Positive Messaging Campaign
 =================================================

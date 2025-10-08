@@ -1,9 +1,12 @@
 ---
 slug: youth-unemployment-rise-worries-students
-title: "Youth Unemployment Rise worries Students"
-date: 2015-11-04
-source-url: https://www.scoop.co.nz/stories/ED1511/S00021/youth-unemployment-rise-worries-students.htm
+title: Youth Unemployment Rise worries Students
+date: 2015-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00021/youth-unemployment-rise-worries-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/11/04/youth-unemployment-rise-worries-students/index.html
+layout: layout.njk
 ---
 Youth Unemployment Rise worries Students
 ========================================

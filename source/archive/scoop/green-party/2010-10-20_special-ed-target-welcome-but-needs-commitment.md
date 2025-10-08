@@ -1,9 +1,12 @@
 ---
 slug: special-ed-target-welcome-but-needs-commitment
-title: "Special ed target welcome but needs commitment"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00355/special-ed-target-welcome-but-needs-commitment.htm
+title: Special ed target welcome but needs commitment
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00355/special-ed-target-welcome-but-needs-commitment.htm
 author: green-party
+permalink: /archive/2010/10/20/special-ed-target-welcome-but-needs-commitment/index.html
+layout: layout.njk
 ---
 Special ed target welcome but needs commitment
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: victorian-politicians-show-real-courage
-title: "Victorian Politicians Show Real Courage"
-date: 2017-11-22
-source-url: https://www.scoop.co.nz/stories/PA1711/S00134/victorian-politicians-show-real-courage.htm
+title: Victorian Politicians Show Real Courage
+date: 2017-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00134/victorian-politicians-show-real-courage.htm
 author: act-new-zealand
+permalink: /archive/2017/11/22/victorian-politicians-show-real-courage/index.html
+layout: layout.njk
 ---
 Victorian Politicians Show Real Courage
 =======================================

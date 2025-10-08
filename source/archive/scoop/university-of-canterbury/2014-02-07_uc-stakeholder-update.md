@@ -1,9 +1,11 @@
 ---
 slug: uc-stakeholder-update
-title: "UC Stakeholder Update"
-date: 2014-02-07
+title: UC Stakeholder Update
+date: 2014-02-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1402/S00019/uc-stakeholder-update.htm
 author: university-of-canterbury
+permalink: /archive/2014/02/07/uc-stakeholder-update/index.html
+layout: layout.njk
 ---
 UC Stakeholder Update
 =====================

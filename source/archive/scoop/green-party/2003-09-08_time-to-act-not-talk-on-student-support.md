@@ -1,9 +1,12 @@
 ---
 slug: time-to-act-not-talk-on-student-support
-title: "Time to act, not talk on student support"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/PA0309/S00132/time-to-act-not-talk-on-student-support.htm
+title: Time to act, not talk on student support
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00132/time-to-act-not-talk-on-student-support.htm
 author: green-party
+permalink: /archive/2003/09/08/time-to-act-not-talk-on-student-support/index.html
+layout: layout.njk
 ---
 Time to act, not talk on student support
 ========================================

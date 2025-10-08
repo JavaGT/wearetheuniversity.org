@@ -1,9 +1,12 @@
 ---
 slug: no-honour-or-profit-in-thai-trade-deal
-title: "No honour or profit in Thai trade deal"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/PA0306/S00277/no-honour-or-profit-in-thai-trade-deal.htm
+title: No honour or profit in Thai trade deal
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00277/no-honour-or-profit-in-thai-trade-deal.htm
 author: green-party
+permalink: /archive/2003/06/16/no-honour-or-profit-in-thai-trade-deal/index.html
+layout: layout.njk
 ---
 No honour or profit in Thai trade deal
 ======================================

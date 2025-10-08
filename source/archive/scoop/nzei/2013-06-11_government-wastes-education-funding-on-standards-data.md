@@ -1,9 +1,13 @@
 ---
 slug: government-wastes-education-funding-on-standards-data
-title: "Government wastes education funding on Standards data"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/ED1306/S00052/government-wastes-education-funding-on-standards-data.htm
+title: Government wastes education funding on Standards data
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00052/government-wastes-education-funding-on-standards-data.htm
 author: nzei
+permalink: >-
+  /archive/2013/06/11/government-wastes-education-funding-on-standards-data/index.html
+layout: layout.njk
 ---
 Government wastes education funding on Standards data
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: no-surprise-in-unaffordable-housing-market-survey
-title: "No surprise in unaffordable housing market survey"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/ED1301/S00053/no-surprise-in-unaffordable-housing-market-survey.htm
+title: No surprise in unaffordable housing market survey
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00053/no-surprise-in-unaffordable-housing-market-survey.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/22/no-surprise-in-unaffordable-housing-market-survey/index.html
+layout: layout.njk
 ---
 No surprise in unaffordable housing market survey
 =================================================

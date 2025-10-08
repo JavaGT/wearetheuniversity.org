@@ -1,9 +1,12 @@
 ---
 slug: home-treatment-of-pneumonia-effective
-title: "Home Treatment Of Pneumonia Effective"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/GE0509/S00055/home-treatment-of-pneumonia-effective.htm
+title: Home Treatment Of Pneumonia Effective
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0509/S00055/home-treatment-of-pneumonia-effective.htm
 author: university-of-otago
+permalink: /archive/2005/09/12/home-treatment-of-pneumonia-effective/index.html
+layout: layout.njk
 ---
 Home Treatment Of Pneumonia Effective
 =====================================

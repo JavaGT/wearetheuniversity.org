@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-updatevol-5-no-40-31-october-2002
-title: "AUS Tertiary UpdateVol.5  No.40 , 31 October 2002"
-date: 2002-10-31
-source-url: https://www.scoop.co.nz/stories/ED0210/S00063/aus-tertiary-updatevol5-no40-31-october-2002.htm
+title: AUS Tertiary UpdateVol.5  No.40 , 31 October 2002
+date: 2002-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00063/aus-tertiary-updatevol5-no40-31-october-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/31/aus-tertiary-updatevol-5-no-40-31-october-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary UpdateVol.5 No.40 , 31 October 2002
 ================================================

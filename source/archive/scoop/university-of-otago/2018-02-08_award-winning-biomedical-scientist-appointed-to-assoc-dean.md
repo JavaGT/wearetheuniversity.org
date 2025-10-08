@@ -1,9 +1,13 @@
 ---
 slug: award-winning-biomedical-scientist-appointed-to-assoc-dean
-title: "Award winning Biomedical Scientist appointed to Assoc Dean"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/ED1802/S00019/award-winning-biomedical-scientist-appointed-to-assoc-dean.htm
+title: Award winning Biomedical Scientist appointed to Assoc Dean
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1802/S00019/award-winning-biomedical-scientist-appointed-to-assoc-dean.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/08/award-winning-biomedical-scientist-appointed-to-assoc-dean/index.html
+layout: layout.njk
 ---
 Award winning Biomedical Scientist appointed to Assoc Dean
 ==========================================================

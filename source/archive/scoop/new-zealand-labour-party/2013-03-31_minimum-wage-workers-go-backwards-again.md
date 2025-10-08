@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-workers-go-backwards-again
-title: "Minimum wage workers go backwards again"
-date: 2013-03-31
-source-url: https://www.scoop.co.nz/stories/AK1303/S00748/minimum-wage-workers-go-backwards-again.htm
+title: Minimum wage workers go backwards again
+date: 2013-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1303/S00748/minimum-wage-workers-go-backwards-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/31/minimum-wage-workers-go-backwards-again/index.html
+layout: layout.njk
 ---
 Minimum wage workers go backwards again
 =======================================

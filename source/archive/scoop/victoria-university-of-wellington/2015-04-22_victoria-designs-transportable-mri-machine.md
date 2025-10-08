@@ -1,9 +1,12 @@
 ---
 slug: victoria-designs-transportable-mri-machine
-title: "Victoria designs transportable MRI machine"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/GE1504/S00099/victoria-designs-transportable-mri-machine.htm
+title: Victoria designs transportable MRI machine
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00099/victoria-designs-transportable-mri-machine.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/04/22/victoria-designs-transportable-mri-machine/index.html
+layout: layout.njk
 ---
 Victoria designs transportable MRI machine
 ==========================================

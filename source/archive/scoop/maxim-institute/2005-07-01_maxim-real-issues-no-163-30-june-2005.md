@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-163-30-june-2005
-title: "Maxim Real Issues No. 163,   30 JUNE 2005"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/PO0507/S00004/maxim-real-issues-no-163-30-june-2005.htm
+title: Maxim Real Issues No. 163,   30 JUNE 2005
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00004/maxim-real-issues-no-163-30-june-2005.htm
 author: maxim-institute
+permalink: /archive/2005/07/01/maxim-real-issues-no-163-30-june-2005/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 163, 30 JUNE 2005
 =======================================

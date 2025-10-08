@@ -1,9 +1,11 @@
 ---
 slug: students-take-the-test
-title: "Students take the test"
-date: 2013-03-18
+title: Students take the test
+date: 2013-03-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1303/S00125/students-take-the-test.htm
 author: otago-university-students-association
+permalink: /archive/2013/03/18/students-take-the-test/index.html
+layout: layout.njk
 ---
 Students take the test
 ======================

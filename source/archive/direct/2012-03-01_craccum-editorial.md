@@ -1,10 +1,13 @@
 ---
 title: Craccum Editorial
 slug: craccum-editorial
-date: 2012-03-01
-source: https://web.archive.org/web/20130210055716/http://craccum.ausa.auckland.ac.nz/?p=151
+date: 2012-03-01T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130210055716/http://craccum.ausa.auckland.ac.nz/?p=151
 author: Thomas Dykes
 author-slug: thomas-dykes
+permalink: /archive/2012/03/01/craccum-editorial/index.html
+layout: layout.njk
 ---
 
 You asked for it and now you’ve got it. Welcome to the new Craccum.

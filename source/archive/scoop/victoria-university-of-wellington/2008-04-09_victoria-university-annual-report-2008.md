@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-annual-report-2008
-title: "Victoria University Annual Report, 2008"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/ED0804/S00024/victoria-university-annual-report-2008.htm
+title: Victoria University Annual Report, 2008
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00024/victoria-university-annual-report-2008.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/09/victoria-university-annual-report-2008/index.html
+layout: layout.njk
 ---
 Victoria University Annual Report, 2008
 =======================================

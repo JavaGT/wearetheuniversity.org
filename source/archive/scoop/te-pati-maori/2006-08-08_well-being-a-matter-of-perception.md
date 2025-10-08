@@ -1,9 +1,12 @@
 ---
 slug: well-being-a-matter-of-perception
-title: "Well-being a Matter of Perception"
-date: 2006-08-08
-source-url: https://www.scoop.co.nz/stories/PA0608/S00135/well-being-a-matter-of-perception.htm
+title: Well-being a Matter of Perception
+date: 2006-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00135/well-being-a-matter-of-perception.htm
 author: te-pati-maori
+permalink: /archive/2006/08/08/well-being-a-matter-of-perception/index.html
+layout: layout.njk
 ---
 Well-being a Matter of Perception
 =================================

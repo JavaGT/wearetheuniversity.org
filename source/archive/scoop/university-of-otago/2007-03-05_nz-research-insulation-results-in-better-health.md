@@ -1,9 +1,12 @@
 ---
 slug: nz-research-insulation-results-in-better-health
-title: "NZ Research: Insulation Results in Better Health"
-date: 2007-03-05
-source-url: https://www.scoop.co.nz/stories/GE0703/S00011/nz-research-insulation-results-in-better-health.htm
+title: 'NZ Research: Insulation Results in Better Health'
+date: 2007-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00011/nz-research-insulation-results-in-better-health.htm
 author: university-of-otago
+permalink: /archive/2007/03/05/nz-research-insulation-results-in-better-health/index.html
+layout: layout.njk
 ---
 NZ Research: Insulation Results in Better Health
 ================================================

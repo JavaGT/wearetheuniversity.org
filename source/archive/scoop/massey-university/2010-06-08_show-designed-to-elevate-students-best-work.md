@@ -1,9 +1,12 @@
 ---
 slug: show-designed-to-elevate-students-best-work
-title: "Show designed to elevate students' best work"
-date: 2010-06-08
-source-url: https://www.scoop.co.nz/stories/ED1006/S00031/show-designed-to-elevate-students-best-work.htm
+title: Show designed to elevate students' best work
+date: 2010-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00031/show-designed-to-elevate-students-best-work.htm
 author: massey-university
+permalink: /archive/2010/06/08/show-designed-to-elevate-students-best-work/index.html
+layout: layout.njk
 ---
 Show designed to elevate students' best work
 ============================================

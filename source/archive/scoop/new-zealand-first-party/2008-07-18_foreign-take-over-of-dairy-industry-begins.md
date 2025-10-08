@@ -1,9 +1,12 @@
 ---
 slug: foreign-take-over-of-dairy-industry-begins
-title: "Foreign Take-Over Of Dairy Industry Begins"
-date: 2008-07-18
-source-url: https://www.scoop.co.nz/stories/PA0807/S00331/foreign-take-over-of-dairy-industry-begins.htm
+title: Foreign Take-Over Of Dairy Industry Begins
+date: 2008-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00331/foreign-take-over-of-dairy-industry-begins.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/18/foreign-take-over-of-dairy-industry-begins/index.html
+layout: layout.njk
 ---
 Foreign Take-Over Of Dairy Industry Begins
 ==========================================

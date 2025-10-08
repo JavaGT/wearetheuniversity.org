@@ -1,9 +1,13 @@
 ---
 slug: government-should-stop-joking-about-homelessness
-title: "Government should stop joking about homelessness"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/PA1606/S00130/government-should-stop-joking-about-homelessness.htm
+title: Government should stop joking about homelessness
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00130/government-should-stop-joking-about-homelessness.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/07/government-should-stop-joking-about-homelessness/index.html
+layout: layout.njk
 ---
 Government should stop joking about homelessness
 ================================================

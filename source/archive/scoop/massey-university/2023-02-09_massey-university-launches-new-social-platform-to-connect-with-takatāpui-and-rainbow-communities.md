@@ -1,9 +1,16 @@
 ---
-slug: massey-university-launches-new-social-platform-to-connect-with-takatāpui-and-rainbow-communities
-title: "Massey University Launches New Social Platform To Connect With Takatāpui And Rainbow Communities"
-date: 2023-02-09
-source-url: https://www.scoop.co.nz/stories/ED2302/S00013/massey-university-launches-new-social-platform-to-connect-with-takatapui-and-rainbow-communities.htm
+slug: >-
+  massey-university-launches-new-social-platform-to-connect-with-takatāpui-and-rainbow-communities
+title: >-
+  Massey University Launches New Social Platform To Connect With Takatāpui And
+  Rainbow Communities
+date: 2023-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2302/S00013/massey-university-launches-new-social-platform-to-connect-with-takatapui-and-rainbow-communities.htm
 author: massey-university
+permalink: >-
+  /archive/2023/02/09/massey-university-launches-new-social-platform-to-connect-with-takat/index.html
+layout: layout.njk
 ---
 Massey University Launches New Social Platform To Connect With Takatāpui And Rainbow Communities
 ================================================================================================

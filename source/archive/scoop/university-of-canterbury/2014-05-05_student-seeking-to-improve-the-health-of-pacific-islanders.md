@@ -1,9 +1,13 @@
 ---
 slug: student-seeking-to-improve-the-health-of-pacific-islanders
-title: "Student seeking to improve the health of Pacific islanders"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/SC1405/S00012/student-seeking-to-improve-the-health-of-pacific-islanders.htm
+title: Student seeking to improve the health of Pacific islanders
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00012/student-seeking-to-improve-the-health-of-pacific-islanders.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/05/student-seeking-to-improve-the-health-of-pacific-islanders/index.html
+layout: layout.njk
 ---
 Student seeking to improve the health of Pacific islanders
 ==========================================================

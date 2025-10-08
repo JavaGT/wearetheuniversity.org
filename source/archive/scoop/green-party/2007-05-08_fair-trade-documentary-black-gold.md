@@ -1,9 +1,12 @@
 ---
 slug: fair-trade-documentary-black-gold
-title: "Fair Trade Documentary Black Gold"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/PO0705/S00127/fair-trade-documentary-black-gold.htm
+title: Fair Trade Documentary Black Gold
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00127/fair-trade-documentary-black-gold.htm
 author: green-party
+permalink: /archive/2007/05/08/fair-trade-documentary-black-gold/index.html
+layout: layout.njk
 ---
 Fair Trade Documentary Black Gold
 =================================

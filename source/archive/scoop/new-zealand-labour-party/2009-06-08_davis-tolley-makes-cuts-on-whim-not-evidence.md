@@ -1,9 +1,12 @@
 ---
 slug: davis-tolley-makes-cuts-on-whim-not-evidence
-title: "Davis: Tolley makes cuts on whim, not evidence"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/PA0906/S00089/davis-tolley-makes-cuts-on-whim-not-evidence.htm
+title: 'Davis: Tolley makes cuts on whim, not evidence'
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00089/davis-tolley-makes-cuts-on-whim-not-evidence.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/08/davis-tolley-makes-cuts-on-whim-not-evidence/index.html
+layout: layout.njk
 ---
 Davis: Tolley makes cuts on whim, not evidence
 ==============================================

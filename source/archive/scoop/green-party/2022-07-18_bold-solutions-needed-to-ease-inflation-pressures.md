@@ -1,9 +1,13 @@
 ---
 slug: bold-solutions-needed-to-ease-inflation-pressures
-title: "Bold Solutions Needed To Ease Inflation Pressures"
-date: 2022-07-18
-source-url: https://www.scoop.co.nz/stories/PA2207/S00119/bold-solutions-needed-to-ease-inflation-pressures.htm
+title: Bold Solutions Needed To Ease Inflation Pressures
+date: 2022-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00119/bold-solutions-needed-to-ease-inflation-pressures.htm
 author: green-party
+permalink: >-
+  /archive/2022/07/18/bold-solutions-needed-to-ease-inflation-pressures/index.html
+layout: layout.njk
 ---
 Bold Solutions Needed To Ease Inflation Pressures
 =================================================

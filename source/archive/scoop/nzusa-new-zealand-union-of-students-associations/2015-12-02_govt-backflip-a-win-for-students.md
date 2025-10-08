@@ -1,9 +1,12 @@
 ---
 slug: govt-backflip-a-win-for-students
-title: "Govt backflip a win for students"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/PO1512/S00022/govt-backflip-a-win-for-students.htm
+title: Govt backflip a win for students
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00022/govt-backflip-a-win-for-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/12/02/govt-backflip-a-win-for-students/index.html
+layout: layout.njk
 ---
 Govt backflip a win for students
 ================================

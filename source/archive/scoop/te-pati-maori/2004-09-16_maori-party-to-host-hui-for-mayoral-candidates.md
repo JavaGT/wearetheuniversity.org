@@ -1,9 +1,12 @@
 ---
 slug: maori-party-to-host-hui-for-mayoral-candidates
-title: "Maori Party to host Hui for mayoral candidates"
-date: 2004-09-16
-source-url: https://www.scoop.co.nz/stories/AK0409/S00171/maori-party-to-host-hui-for-mayoral-candidates.htm
+title: Maori Party to host Hui for mayoral candidates
+date: 2004-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0409/S00171/maori-party-to-host-hui-for-mayoral-candidates.htm
 author: te-pati-maori
+permalink: /archive/2004/09/16/maori-party-to-host-hui-for-mayoral-candidates/index.html
+layout: layout.njk
 ---
 Maori Party to host Hui for mayoral candidates
 ==============================================

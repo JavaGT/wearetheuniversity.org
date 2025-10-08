@@ -1,9 +1,12 @@
 ---
 slug: labour-+-goff-=-billions-of-dollars-more-debt
-title: "Labour + Goff = billions of dollars more debt"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PO1111/S00127/labour-goff-billions-of-dollars-more-debt.htm
+title: Labour + Goff = billions of dollars more debt
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00127/labour-goff-billions-of-dollars-more-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/04/labour-/index.html
+layout: layout.njk
 ---
 Labour + Goff = billions of dollars more debt
 =============================================

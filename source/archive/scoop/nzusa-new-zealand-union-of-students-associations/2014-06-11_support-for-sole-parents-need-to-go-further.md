@@ -1,9 +1,12 @@
 ---
 slug: support-for-sole-parents-need-to-go-further
-title: "Support for sole parents need to go further"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PO1406/S00147/support-for-sole-parents-need-to-go-further.htm
+title: Support for sole parents need to go further
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00147/support-for-sole-parents-need-to-go-further.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/06/11/support-for-sole-parents-need-to-go-further/index.html
+layout: layout.njk
 ---
 Support for sole parents need to go further
 ===========================================

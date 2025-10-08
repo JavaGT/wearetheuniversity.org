@@ -1,9 +1,12 @@
 ---
 slug: labours-election-2002-pledge-card
-title: "Labour's Election 2002 Pledge Card"
-date: 2002-06-30
-source-url: https://www.scoop.co.nz/stories/PA0206/S00556/labours-election-2002-pledge-card.htm
+title: Labour's Election 2002 Pledge Card
+date: 2002-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00556/labours-election-2002-pledge-card.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/06/30/labours-election-2002-pledge-card/index.html
+layout: layout.njk
 ---
 Labour's Election 2002 Pledge Card
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: significant-disruption-signalled-for-primary-schools
-title: "‘Significant disruption’ signalled for primary schools"
-date: 2019-04-08
-source-url: https://www.scoop.co.nz/stories/PA1904/S00065/significant-disruption-signalled-for-primary-schools.htm
+title: ‘Significant disruption’ signalled for primary schools
+date: 2019-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00065/significant-disruption-signalled-for-primary-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/08/significant-disruption-signalled-for-primary-schools/index.html
+layout: layout.njk
 ---
 ‘Significant disruption’ signalled for primary schools
 ======================================================

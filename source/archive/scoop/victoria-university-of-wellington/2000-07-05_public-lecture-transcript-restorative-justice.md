@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-transcript-restorative-justice
-title: "Public lecture transcript: restorative justice"
-date: 2000-07-05
-source-url: https://www.scoop.co.nz/stories/GE0007/S00014/public-lecture-transcript-restorative-justice.htm
+title: 'Public lecture transcript: restorative justice'
+date: 2000-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0007/S00014/public-lecture-transcript-restorative-justice.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/05/public-lecture-transcript-restorative-justice/index.html
+layout: layout.njk
 ---
 Public lecture transcript: restorative justice
 ==============================================

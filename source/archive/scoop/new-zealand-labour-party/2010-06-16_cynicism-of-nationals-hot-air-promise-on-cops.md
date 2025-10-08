@@ -1,9 +1,12 @@
 ---
 slug: cynicism-of-nationals-hot-air-promise-on-cops
-title: "Cynicism of National’s ‘hot air’ promise on cops"
-date: 2010-06-16
-source-url: https://www.scoop.co.nz/stories/PA1006/S00250/cynicism-of-nationals-hot-air-promise-on-cops.htm
+title: Cynicism of National’s ‘hot air’ promise on cops
+date: 2010-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00250/cynicism-of-nationals-hot-air-promise-on-cops.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/16/cynicism-of-nationals-hot-air-promise-on-cops/index.html
+layout: layout.njk
 ---
 Cynicism of National’s ‘hot air’ promise on cops
 ================================================

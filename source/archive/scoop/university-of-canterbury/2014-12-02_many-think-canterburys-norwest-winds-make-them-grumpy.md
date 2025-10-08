@@ -1,9 +1,13 @@
 ---
 slug: many-think-canterburys-norwest-winds-make-them-grumpy
-title: "Many think Canterbury’s nor’west winds make them grumpy"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/ED1412/S00013/many-think-canterburys-norwest-winds-make-them-grumpy.htm
+title: Many think Canterbury’s nor’west winds make them grumpy
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00013/many-think-canterburys-norwest-winds-make-them-grumpy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/02/many-think-canterburys-norwest-winds-make-them-grumpy/index.html
+layout: layout.njk
 ---
 Many think Canterbury’s nor’west winds make them grumpy
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-must-answer-for-kahukura-fiasco
-title: "Minister Must Answer For Kahukura Fiasco"
-date: 2003-01-16
-source-url: https://www.scoop.co.nz/stories/PA0301/S00097/minister-must-answer-for-kahukura-fiasco.htm
+title: Minister Must Answer For Kahukura Fiasco
+date: 2003-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00097/minister-must-answer-for-kahukura-fiasco.htm
 author: act-new-zealand
+permalink: /archive/2003/01/16/minister-must-answer-for-kahukura-fiasco/index.html
+layout: layout.njk
 ---
 Minister Must Answer For Kahukura Fiasco
 ========================================

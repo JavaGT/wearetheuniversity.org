@@ -1,9 +1,11 @@
 ---
 slug: top-nz-young-poets-announced
-title: "Top NZ Young Poets Announced"
-date: 2006-07-18
+title: Top NZ Young Poets Announced
+date: 2006-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0607/S00150/top-nz-young-poets-announced.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/18/top-nz-young-poets-announced/index.html
+layout: layout.njk
 ---
 Top NZ Young Poets Announced
 ============================

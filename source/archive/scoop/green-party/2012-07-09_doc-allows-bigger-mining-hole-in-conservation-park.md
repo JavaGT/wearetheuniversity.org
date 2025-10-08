@@ -1,9 +1,13 @@
 ---
 slug: doc-allows-bigger-mining-hole-in-conservation-park
-title: "DOC allows bigger mining hole in Conservation Park"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/PA1207/S00107/doc-allows-bigger-mining-hole-in-conservation-park.htm
+title: DOC allows bigger mining hole in Conservation Park
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00107/doc-allows-bigger-mining-hole-in-conservation-park.htm
 author: green-party
+permalink: >-
+  /archive/2012/07/09/doc-allows-bigger-mining-hole-in-conservation-park/index.html
+layout: layout.njk
 ---
 DOC allows bigger mining hole in Conservation Park
 ==================================================

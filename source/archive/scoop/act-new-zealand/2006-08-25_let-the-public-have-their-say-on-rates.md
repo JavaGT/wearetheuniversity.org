@@ -1,9 +1,12 @@
 ---
 slug: let-the-public-have-their-say-on-rates
-title: "Let The Public Have Their Say On Rates"
-date: 2006-08-25
-source-url: https://www.scoop.co.nz/stories/PA0608/S00443/let-the-public-have-their-say-on-rates.htm
+title: Let The Public Have Their Say On Rates
+date: 2006-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00443/let-the-public-have-their-say-on-rates.htm
 author: act-new-zealand
+permalink: /archive/2006/08/25/let-the-public-have-their-say-on-rates/index.html
+layout: layout.njk
 ---
 Let The Public Have Their Say On Rates
 ======================================

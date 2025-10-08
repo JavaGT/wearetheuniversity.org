@@ -1,9 +1,13 @@
 ---
 slug: how-long-will-the-government-tolerate-failing-charter-school
-title: "How long will the Government tolerate failing charter school"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/PO1412/S00044/how-long-will-the-government-tolerate-failing-charter-school.htm
+title: How long will the Government tolerate failing charter school
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00044/how-long-will-the-government-tolerate-failing-charter-school.htm
 author: nzei
+permalink: >-
+  /archive/2014/12/03/how-long-will-the-government-tolerate-failing-charter-school/index.html
+layout: layout.njk
 ---
 How long will the Government tolerate failing charter school
 ============================================================

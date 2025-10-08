@@ -1,9 +1,12 @@
 ---
 slug: sharples-comments-no-substitute-for-processes
-title: "Sharples’ comments no substitute for processes"
-date: 2009-07-13
-source-url: https://www.scoop.co.nz/stories/ED0907/S00051/sharples-comments-no-substitute-for-processes.htm
+title: Sharples’ comments no substitute for processes
+date: 2009-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00051/sharples-comments-no-substitute-for-processes.htm
 author: salient
+permalink: /archive/2009/07/13/sharples-comments-no-substitute-for-processes/index.html
+layout: layout.njk
 ---
 Sharples’ comments no substitute for processes
 ==============================================

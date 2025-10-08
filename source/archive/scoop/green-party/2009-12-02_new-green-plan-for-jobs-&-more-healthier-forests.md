@@ -1,9 +1,12 @@
 ---
 slug: new-green-plan-for-jobs-&-more-healthier-forests
-title: "New Green plan for jobs & more, healthier forests"
-date: 2009-12-02
-source-url: https://www.scoop.co.nz/stories/PA0912/S00022/new-green-plan-for-jobs-more-healthier-forests.htm
+title: New Green plan for jobs & more, healthier forests
+date: 2009-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00022/new-green-plan-for-jobs-more-healthier-forests.htm
 author: green-party
+permalink: /archive/2009/12/02/new-green-plan-for-jobs-/index.html
+layout: layout.njk
 ---
 New Green plan for jobs & more, healthier forests
 =================================================

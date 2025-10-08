@@ -1,9 +1,12 @@
 ---
 slug: spotlight-on-wool-quality-at-lincoln-university
-title: "Spotlight on wool quality at Lincoln University"
-date: 2008-03-06
-source-url: https://www.scoop.co.nz/stories/BU0803/S00107/spotlight-on-wool-quality-at-lincoln-university.htm
+title: Spotlight on wool quality at Lincoln University
+date: 2008-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0803/S00107/spotlight-on-wool-quality-at-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2008/03/06/spotlight-on-wool-quality-at-lincoln-university/index.html
+layout: layout.njk
 ---
 Spotlight on wool quality at Lincoln University
 ===============================================

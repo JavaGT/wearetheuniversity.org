@@ -1,9 +1,12 @@
 ---
 slug: booking-system-report-highlights-problems
-title: "Booking system report highlights problems"
-date: 1999-10-27
-source-url: https://www.scoop.co.nz/stories/PA9910/S00629/booking-system-report-highlights-problems.htm
+title: Booking system report highlights problems
+date: 1999-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00629/booking-system-report-highlights-problems.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/27/booking-system-report-highlights-problems/index.html
+layout: layout.njk
 ---
 Booking system report highlights problems
 =========================================

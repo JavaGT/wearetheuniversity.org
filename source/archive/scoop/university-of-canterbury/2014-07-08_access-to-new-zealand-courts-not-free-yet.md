@@ -1,9 +1,12 @@
 ---
 slug: access-to-new-zealand-courts-not-free-yet
-title: "Access to New Zealand courts not free yet"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/ED1407/S00049/access-to-new-zealand-courts-not-free-yet.htm
+title: Access to New Zealand courts not free yet
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00049/access-to-new-zealand-courts-not-free-yet.htm
 author: university-of-canterbury
+permalink: /archive/2014/07/08/access-to-new-zealand-courts-not-free-yet/index.html
+layout: layout.njk
 ---
 Access to New Zealand courts not free yet
 =========================================

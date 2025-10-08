@@ -1,9 +1,13 @@
 ---
 slug: major-funding-for-university-of-otago-health-research
-title: "Major funding for University of Otago health research"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/GE1206/S00029/major-funding-for-university-of-otago-health-research.htm
+title: Major funding for University of Otago health research
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00029/major-funding-for-university-of-otago-health-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/07/major-funding-for-university-of-otago-health-research/index.html
+layout: layout.njk
 ---
 Major funding for University of Otago health research
 =====================================================

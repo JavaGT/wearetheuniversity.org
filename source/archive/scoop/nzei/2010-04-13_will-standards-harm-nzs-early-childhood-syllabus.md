@@ -1,9 +1,13 @@
 ---
 slug: will-standards-harm-nzs-early-childhood-syllabus
-title: "Will Standards Harm NZ's Early Childhood Syllabus"
-date: 2010-04-13
-source-url: https://www.scoop.co.nz/stories/ED1004/S00021/will-standards-harm-nzs-early-childhood-syllabus.htm
+title: Will Standards Harm NZ's Early Childhood Syllabus
+date: 2010-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00021/will-standards-harm-nzs-early-childhood-syllabus.htm
 author: nzei
+permalink: >-
+  /archive/2010/04/13/will-standards-harm-nzs-early-childhood-syllabus/index.html
+layout: layout.njk
 ---
 Will Standards Harm NZ's Early Childhood Syllabus
 =================================================

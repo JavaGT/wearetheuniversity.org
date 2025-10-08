@@ -1,9 +1,12 @@
 ---
 slug: literacy-scheme-an-admission-of-failure
-title: "Literacy scheme an admission of failure"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/PA0403/S00491/literacy-scheme-an-admission-of-failure.htm
+title: Literacy scheme an admission of failure
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00491/literacy-scheme-an-admission-of-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/23/literacy-scheme-an-admission-of-failure/index.html
+layout: layout.njk
 ---
 Literacy scheme an admission of failure
 =======================================

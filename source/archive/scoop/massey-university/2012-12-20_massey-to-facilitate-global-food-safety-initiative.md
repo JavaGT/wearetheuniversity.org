@@ -1,9 +1,13 @@
 ---
 slug: massey-to-facilitate-global-food-safety-initiative
-title: "Massey to facilitate global food safety initiative"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/ED1212/S00128/massey-to-facilitate-global-food-safety-initiative.htm
+title: Massey to facilitate global food safety initiative
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00128/massey-to-facilitate-global-food-safety-initiative.htm
 author: massey-university
+permalink: >-
+  /archive/2012/12/20/massey-to-facilitate-global-food-safety-initiative/index.html
+layout: layout.njk
 ---
 Massey to facilitate global food safety initiative
 ==================================================

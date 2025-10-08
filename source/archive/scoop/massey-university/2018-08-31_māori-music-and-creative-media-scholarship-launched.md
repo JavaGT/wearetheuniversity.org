@@ -1,9 +1,12 @@
 ---
 slug: māori-music-and-creative-media-scholarship-launched
-title: "Māori music and creative media scholarship launched"
-date: 2018-08-31
-source-url: https://www.scoop.co.nz/stories/ED1808/S00079/maori-music-and-creative-media-scholarship-launched.htm
+title: Māori music and creative media scholarship launched
+date: 2018-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00079/maori-music-and-creative-media-scholarship-launched.htm
 author: massey-university
+permalink: /archive/2018/08/31/m/index.html
+layout: layout.njk
 ---
 Māori music and creative media scholarship launched
 ===================================================

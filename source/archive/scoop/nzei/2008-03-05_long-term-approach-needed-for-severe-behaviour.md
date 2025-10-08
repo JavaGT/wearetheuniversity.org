@@ -1,9 +1,12 @@
 ---
 slug: long-term-approach-needed-for-severe-behaviour
-title: "Long-Term Approach Needed for Severe Behaviour"
-date: 2008-03-05
-source-url: https://www.scoop.co.nz/stories/ED0803/S00009/long-term-approach-needed-for-severe-behaviour.htm
+title: Long-Term Approach Needed for Severe Behaviour
+date: 2008-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00009/long-term-approach-needed-for-severe-behaviour.htm
 author: nzei
+permalink: /archive/2008/03/05/long-term-approach-needed-for-severe-behaviour/index.html
+layout: layout.njk
 ---
 Long-Term Approach Needed for Severe Behaviour
 ==============================================

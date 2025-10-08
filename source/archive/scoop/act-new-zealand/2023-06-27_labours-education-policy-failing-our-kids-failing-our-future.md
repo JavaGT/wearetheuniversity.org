@@ -1,9 +1,13 @@
 ---
 slug: labours-education-policy-failing-our-kids-failing-our-future
-title: "Labour’s Education Policy Failing Our Kids, Failing Our Future"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/PA2306/S00179/labours-education-policy-failing-our-kids-failing-our-future.htm
+title: Labour’s Education Policy Failing Our Kids, Failing Our Future
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00179/labours-education-policy-failing-our-kids-failing-our-future.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/27/labours-education-policy-failing-our-kids-failing-our-future/index.html
+layout: layout.njk
 ---
 Labour’s Education Policy Failing Our Kids, Failing Our Future
 ==============================================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-158-26-may-2005
-title: "Maxim Real Issues: No. 158,   26 MAY 2005"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/PO0505/S00285/maxim-real-issues-no-158-26-may-2005.htm
+title: 'Maxim Real Issues: No. 158,   26 MAY 2005'
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00285/maxim-real-issues-no-158-26-may-2005.htm
 author: maxim-institute
+permalink: /archive/2005/05/27/maxim-real-issues-no-158-26-may-2005/index.html
+layout: layout.njk
 ---
 Maxim Real Issues: No. 158, 26 MAY 2005
 =======================================

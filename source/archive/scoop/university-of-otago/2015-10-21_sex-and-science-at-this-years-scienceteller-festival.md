@@ -1,9 +1,13 @@
 ---
 slug: sex-and-science-at-this-years-scienceteller-festival
-title: "Sex and Science at this year’s ScienceTeller Festival"
-date: 2015-10-21
-source-url: https://www.scoop.co.nz/stories/ED1510/S00107/sex-and-science-at-this-years-scienceteller-festival.htm
+title: Sex and Science at this year’s ScienceTeller Festival
+date: 2015-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00107/sex-and-science-at-this-years-scienceteller-festival.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/10/21/sex-and-science-at-this-years-scienceteller-festival/index.html
+layout: layout.njk
 ---
 Sex and Science at this year’s ScienceTeller Festival
 =====================================================

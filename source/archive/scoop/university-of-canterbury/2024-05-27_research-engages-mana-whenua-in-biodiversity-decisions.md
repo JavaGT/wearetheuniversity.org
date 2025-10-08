@@ -1,9 +1,13 @@
 ---
 slug: research-engages-mana-whenua-in-biodiversity-decisions
-title: "Research Engages Mana Whenua In Biodiversity Decisions"
-date: 2024-05-27
-source-url: https://www.scoop.co.nz/stories/SC2405/S00079/research-engages-mana-whenua-in-biodiversity-decisions.htm
+title: Research Engages Mana Whenua In Biodiversity Decisions
+date: 2024-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00079/research-engages-mana-whenua-in-biodiversity-decisions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/27/research-engages-mana-whenua-in-biodiversity-decisions/index.html
+layout: layout.njk
 ---
 Research Engages Mana Whenua In Biodiversity Decisions
 ======================================================

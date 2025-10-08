@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-to-attend-world-economic-forum
-title: "Cosgrove To Attend World Economic Forum"
-date: 2003-01-21
-source-url: https://www.scoop.co.nz/stories/PA0301/S00146/cosgrove-to-attend-world-economic-forum.htm
+title: Cosgrove To Attend World Economic Forum
+date: 2003-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00146/cosgrove-to-attend-world-economic-forum.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/01/21/cosgrove-to-attend-world-economic-forum/index.html
+layout: layout.njk
 ---
 Cosgrove To Attend World Economic Forum
 =======================================

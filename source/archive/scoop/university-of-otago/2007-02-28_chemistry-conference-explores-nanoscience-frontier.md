@@ -1,9 +1,13 @@
 ---
 slug: chemistry-conference-explores-nanoscience-frontier
-title: "Chemistry Conference Explores Nanoscience Frontier"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/SC0702/S00064/chemistry-conference-explores-nanoscience-frontier.htm
+title: Chemistry Conference Explores Nanoscience Frontier
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00064/chemistry-conference-explores-nanoscience-frontier.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/02/28/chemistry-conference-explores-nanoscience-frontier/index.html
+layout: layout.njk
 ---
 Chemistry Conference Explores Nanoscience Frontier
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: visiting-academic-to-give-lecture-on-the-it-service-desk
-title: "Visiting academic to give lecture on the IT service desk"
-date: 2014-04-30
-source-url: https://www.scoop.co.nz/stories/ED1404/S00093/visiting-academic-to-give-lecture-on-the-it-service-desk.htm
+title: Visiting academic to give lecture on the IT service desk
+date: 2014-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00093/visiting-academic-to-give-lecture-on-the-it-service-desk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/30/visiting-academic-to-give-lecture-on-the-it-service-desk/index.html
+layout: layout.njk
 ---
 Visiting academic to give lecture on the IT service desk
 ========================================================

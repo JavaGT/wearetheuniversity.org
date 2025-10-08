@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-1-august-2005
-title: "ACT's The Letter 1 August 2005"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PA0508/S00019/acts-the-letter-1-august-2005.htm
+title: ACT's The Letter 1 August 2005
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00019/acts-the-letter-1-august-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/08/01/acts-the-letter-1-august-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter 1 August 2005
 ==============================

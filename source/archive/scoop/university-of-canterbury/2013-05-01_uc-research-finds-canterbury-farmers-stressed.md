@@ -1,9 +1,12 @@
 ---
 slug: uc-research-finds-canterbury-farmers-stressed
-title: "UC Research Finds Canterbury Farmers Stressed"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/GE1305/S00004/uc-research-finds-canterbury-farmers-stressed.htm
+title: UC Research Finds Canterbury Farmers Stressed
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00004/uc-research-finds-canterbury-farmers-stressed.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/01/uc-research-finds-canterbury-farmers-stressed/index.html
+layout: layout.njk
 ---
 UC Research Finds Canterbury Farmers Stressed
 =============================================

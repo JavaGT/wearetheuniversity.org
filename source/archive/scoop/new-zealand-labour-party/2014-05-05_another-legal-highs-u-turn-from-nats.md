@@ -1,9 +1,12 @@
 ---
 slug: another-legal-highs-u-turn-from-nats
-title: "Another legal highs u-turn from Nats"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/PA1405/S00051/another-legal-highs-u-turn-from-nats.htm
+title: Another legal highs u-turn from Nats
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00051/another-legal-highs-u-turn-from-nats.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/05/another-legal-highs-u-turn-from-nats/index.html
+layout: layout.njk
 ---
 Another legal highs u-turn from Nats
 ====================================

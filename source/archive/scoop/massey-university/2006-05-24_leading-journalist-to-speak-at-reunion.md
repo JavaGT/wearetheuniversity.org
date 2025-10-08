@@ -1,9 +1,12 @@
 ---
 slug: leading-journalist-to-speak-at-reunion
-title: "Leading journalist to speak at reunion"
-date: 2006-05-24
-source-url: https://www.scoop.co.nz/stories/ED0605/S00097/leading-journalist-to-speak-at-reunion.htm
+title: Leading journalist to speak at reunion
+date: 2006-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00097/leading-journalist-to-speak-at-reunion.htm
 author: massey-university
+permalink: /archive/2006/05/24/leading-journalist-to-speak-at-reunion/index.html
+layout: layout.njk
 ---
 Leading journalist to speak at reunion
 ======================================

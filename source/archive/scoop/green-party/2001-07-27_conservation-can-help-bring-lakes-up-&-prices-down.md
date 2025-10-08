@@ -1,9 +1,12 @@
 ---
 slug: conservation-can-help-bring-lakes-up-&-prices-down
-title: "Conservation Can Help Bring Lakes Up & Prices Down"
-date: 2001-07-27
-source-url: https://www.scoop.co.nz/stories/PA0107/S00473/conservation-can-help-bring-lakes-up-prices-down.htm
+title: Conservation Can Help Bring Lakes Up & Prices Down
+date: 2001-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00473/conservation-can-help-bring-lakes-up-prices-down.htm
 author: green-party
+permalink: /archive/2001/07/27/conservation-can-help-bring-lakes-up-/index.html
+layout: layout.njk
 ---
 Conservation Can Help Bring Lakes Up & Prices Down
 ==================================================

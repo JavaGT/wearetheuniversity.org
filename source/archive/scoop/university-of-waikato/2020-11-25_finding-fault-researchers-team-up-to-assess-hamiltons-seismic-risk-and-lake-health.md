@@ -1,9 +1,16 @@
 ---
-slug: finding-fault-researchers-team-up-to-assess-hamiltons-seismic-risk-and-lake-health
-title: "Finding Fault: Researchers Team Up To Assess Hamilton’s Seismic Risk And Lake Health"
-date: 2020-11-25
-source-url: https://www.scoop.co.nz/stories/SC2011/S00051/finding-fault-researchers-team-up-to-assess-hamiltons-seismic-risk-and-lake-health.htm
+slug: >-
+  finding-fault-researchers-team-up-to-assess-hamiltons-seismic-risk-and-lake-health
+title: >-
+  Finding Fault: Researchers Team Up To Assess Hamilton’s Seismic Risk And Lake
+  Health
+date: 2020-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00051/finding-fault-researchers-team-up-to-assess-hamiltons-seismic-risk-and-lake-health.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/11/25/finding-fault-researchers-team-up-to-assess-hamiltons-seismic-risk-and-lake-health/index.html
+layout: layout.njk
 ---
 Finding Fault: Researchers Team Up To Assess Hamilton’s Seismic Risk And Lake Health
 ====================================================================================

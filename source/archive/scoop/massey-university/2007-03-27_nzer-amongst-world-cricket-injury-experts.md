@@ -1,9 +1,12 @@
 ---
 slug: nzer-amongst-world-cricket-injury-experts
-title: "NZer amongst world cricket injury experts"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/GE0703/S00105/nzer-amongst-world-cricket-injury-experts.htm
+title: NZer amongst world cricket injury experts
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00105/nzer-amongst-world-cricket-injury-experts.htm
 author: massey-university
+permalink: /archive/2007/03/27/nzer-amongst-world-cricket-injury-experts/index.html
+layout: layout.njk
 ---
 NZer amongst world cricket injury experts
 =========================================

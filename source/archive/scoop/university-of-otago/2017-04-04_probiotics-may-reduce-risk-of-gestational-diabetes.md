@@ -1,9 +1,13 @@
 ---
 slug: probiotics-may-reduce-risk-of-gestational-diabetes
-title: "Probiotics may reduce risk of gestational diabetes"
-date: 2017-04-04
-source-url: https://www.scoop.co.nz/stories/SC1704/S00007/probiotics-may-reduce-risk-of-gestational-diabetes.htm
+title: Probiotics may reduce risk of gestational diabetes
+date: 2017-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00007/probiotics-may-reduce-risk-of-gestational-diabetes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/04/04/probiotics-may-reduce-risk-of-gestational-diabetes/index.html
+layout: layout.njk
 ---
 Probiotics may reduce risk of gestational diabetes
 ==================================================

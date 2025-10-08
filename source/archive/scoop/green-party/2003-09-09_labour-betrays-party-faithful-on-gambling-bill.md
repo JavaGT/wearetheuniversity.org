@@ -1,9 +1,12 @@
 ---
 slug: labour-betrays-party-faithful-on-gambling-bill
-title: "Labour Betrays Party Faithful On Gambling Bill"
-date: 2003-09-09
-source-url: https://www.scoop.co.nz/stories/PA0309/S00166/labour-betrays-party-faithful-on-gambling-bill.htm
+title: Labour Betrays Party Faithful On Gambling Bill
+date: 2003-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00166/labour-betrays-party-faithful-on-gambling-bill.htm
 author: green-party
+permalink: /archive/2003/09/09/labour-betrays-party-faithful-on-gambling-bill/index.html
+layout: layout.njk
 ---
 Labour Betrays Party Faithful On Gambling Bill
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: free-press-10-december-2018
-title: "Free Press, 10 December 2018"
-date: 2018-12-11
+title: Free Press, 10 December 2018
+date: 2018-12-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1812/S00108/free-press-10-december-2018.htm
 author: act-new-zealand
+permalink: /archive/2018/12/11/free-press-10-december-2018/index.html
+layout: layout.njk
 ---
 Free Press, 10 December 2018
 ============================

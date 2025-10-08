@@ -1,9 +1,13 @@
 ---
 slug: fta-with-india-good-to-grow-new-zealands-economy
-title: "FTA With India Good To Grow New Zealand’s Economy"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/PA1004/S00221/fta-with-india-good-to-grow-new-zealands-economy.htm
+title: FTA With India Good To Grow New Zealand’s Economy
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00221/fta-with-india-good-to-grow-new-zealands-economy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/20/fta-with-india-good-to-grow-new-zealands-economy/index.html
+layout: layout.njk
 ---
 FTA With India Good To Grow New Zealand’s Economy
 =================================================

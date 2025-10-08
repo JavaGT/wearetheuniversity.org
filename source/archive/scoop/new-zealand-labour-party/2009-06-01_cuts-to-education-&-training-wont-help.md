@@ -1,9 +1,12 @@
 ---
 slug: cuts-to-education-&-training-wont-help
-title: "Cuts to education & training won’t help"
-date: 2009-06-01
-source-url: https://www.scoop.co.nz/stories/PA0906/S00003/cuts-to-education-training-wont-help.htm
+title: Cuts to education & training won’t help
+date: 2009-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00003/cuts-to-education-training-wont-help.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/01/cuts-to-education-/index.html
+layout: layout.njk
 ---
 Cuts to education & training won’t help
 =======================================

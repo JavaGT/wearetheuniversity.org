@@ -1,9 +1,12 @@
 ---
 slug: groundhog-day-for-tertiary-sector
-title: "Groundhog Day for tertiary sector"
-date: 2005-11-29
-source-url: https://www.scoop.co.nz/stories/PA0511/S00424/groundhog-day-for-tertiary-sector.htm
+title: Groundhog Day for tertiary sector
+date: 2005-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00424/groundhog-day-for-tertiary-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/29/groundhog-day-for-tertiary-sector/index.html
+layout: layout.njk
 ---
 Groundhog Day for tertiary sector
 =================================

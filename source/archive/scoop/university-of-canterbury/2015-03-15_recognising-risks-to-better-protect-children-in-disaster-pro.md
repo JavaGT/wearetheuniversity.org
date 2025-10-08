@@ -1,9 +1,13 @@
 ---
 slug: recognising-risks-to-better-protect-children-in-disaster-pro
-title: "Recognising risks to better protect children in disaster-pro"
-date: 2015-03-15
-source-url: https://www.scoop.co.nz/stories/ED1503/S00061/recognising-risks-to-better-protect-children-in-disaster-pro.htm
+title: Recognising risks to better protect children in disaster-pro
+date: 2015-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00061/recognising-risks-to-better-protect-children-in-disaster-pro.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/15/recognising-risks-to-better-protect-children-in-disaster-pro/index.html
+layout: layout.njk
 ---
 Recognising risks to better protect children in disaster-pro
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: plain-english-too-smart-by-half
-title: "Plain English: Too Smart By Half"
-date: 2005-12-09
-source-url: https://www.scoop.co.nz/stories/PA0512/S00145/plain-english-too-smart-by-half.htm
+title: 'Plain English: Too Smart By Half'
+date: 2005-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00145/plain-english-too-smart-by-half.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/09/plain-english-too-smart-by-half/index.html
+layout: layout.njk
 ---
 Plain English: Too Smart By Half
 ================================

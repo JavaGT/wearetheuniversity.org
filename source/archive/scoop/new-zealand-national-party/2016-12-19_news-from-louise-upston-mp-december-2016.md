@@ -1,9 +1,12 @@
 ---
 slug: news-from-louise-upston-mp-december-2016
-title: "News From Louise Upston MP: December 2016"
-date: 2016-12-19
-source-url: https://www.scoop.co.nz/stories/PA1612/S00322/news-from-louise-upston-mp-december-2016.htm
+title: 'News From Louise Upston MP: December 2016'
+date: 2016-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00322/news-from-louise-upston-mp-december-2016.htm
 author: new-zealand-national-party
+permalink: /archive/2016/12/19/news-from-louise-upston-mp-december-2016/index.html
+layout: layout.njk
 ---
 News From Louise Upston MP: December 2016
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-business-roundtable-perspectives-no-287
-title: "NZ Business Roundtable Perspectives No. 287"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/BU0907/S00843/nz-business-roundtable-perspectives-no-287.htm
+title: NZ Business Roundtable Perspectives No. 287
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00843/nz-business-roundtable-perspectives-no-287.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/07/31/nz-business-roundtable-perspectives-no-287/index.html
+layout: layout.njk
 ---
 NZ Business Roundtable Perspectives No. 287
 ===========================================

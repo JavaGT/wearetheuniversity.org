@@ -1,9 +1,12 @@
 ---
 slug: all-five-poet-laureates-in-wellington-next-week
-title: "All five poet laureates in Wellington next week"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/CU0807/S00305/all-five-poet-laureates-in-wellington-next-week.htm
+title: All five poet laureates in Wellington next week
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00305/all-five-poet-laureates-in-wellington-next-week.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/07/30/all-five-poet-laureates-in-wellington-next-week/index.html
+layout: layout.njk
 ---
 All five poet laureates in Wellington next week
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-statutes-amendment-bill
-title: "Hone Harawira: Statutes Amendment Bill"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/PA0709/S00373/hone-harawira-statutes-amendment-bill.htm
+title: 'Hone Harawira: Statutes Amendment Bill'
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00373/hone-harawira-statutes-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/09/21/hone-harawira-statutes-amendment-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Statutes Amendment Bill
 ======================================

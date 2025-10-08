@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-at-forefront-of-discovery-to-help-end-tb
-title: "Otago researcher at forefront of discovery to help end TB"
-date: 2018-03-22
-source-url: https://www.scoop.co.nz/stories/SC1803/S00048/otago-researcher-at-forefront-of-discovery-to-help-end-tb.htm
+title: Otago researcher at forefront of discovery to help end TB
+date: 2018-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00048/otago-researcher-at-forefront-of-discovery-to-help-end-tb.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/22/otago-researcher-at-forefront-of-discovery-to-help-end-tb/index.html
+layout: layout.njk
 ---
 Otago researcher at forefront of discovery to help end TB
 =========================================================

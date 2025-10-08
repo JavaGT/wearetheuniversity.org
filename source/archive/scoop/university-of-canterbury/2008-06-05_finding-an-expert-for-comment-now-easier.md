@@ -1,9 +1,12 @@
 ---
 slug: finding-an-expert-for-comment-now-easier
-title: "Finding an expert for comment now easier"
-date: 2008-06-05
-source-url: https://www.scoop.co.nz/stories/ED0806/S00014/finding-an-expert-for-comment-now-easier.htm
+title: Finding an expert for comment now easier
+date: 2008-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00014/finding-an-expert-for-comment-now-easier.htm
 author: university-of-canterbury
+permalink: /archive/2008/06/05/finding-an-expert-for-comment-now-easier/index.html
+layout: layout.njk
 ---
 Finding an expert for comment now easier
 ========================================

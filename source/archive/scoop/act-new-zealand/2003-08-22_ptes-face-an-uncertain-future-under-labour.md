@@ -1,9 +1,12 @@
 ---
 slug: ptes-face-an-uncertain-future-under-labour
-title: "PTEs Face An Uncertain Future Under Labour"
-date: 2003-08-22
-source-url: https://www.scoop.co.nz/stories/PA0308/S00435/ptes-face-an-uncertain-future-under-labour.htm
+title: PTEs Face An Uncertain Future Under Labour
+date: 2003-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00435/ptes-face-an-uncertain-future-under-labour.htm
 author: act-new-zealand
+permalink: /archive/2003/08/22/ptes-face-an-uncertain-future-under-labour/index.html
+layout: layout.njk
 ---
 PTEs Face An Uncertain Future Under Labour
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: number-of-pacific-jobless-dramatically-increases
-title: "Number of Pacific jobless dramatically increases"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/PA0905/S00128/number-of-pacific-jobless-dramatically-increases.htm
+title: Number of Pacific jobless dramatically increases
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00128/number-of-pacific-jobless-dramatically-increases.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/05/07/number-of-pacific-jobless-dramatically-increases/index.html
+layout: layout.njk
 ---
 Number of Pacific jobless dramatically increases
 ================================================

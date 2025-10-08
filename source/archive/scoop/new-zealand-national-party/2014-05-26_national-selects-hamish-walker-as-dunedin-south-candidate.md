@@ -1,9 +1,13 @@
 ---
 slug: national-selects-hamish-walker-as-dunedin-south-candidate
-title: "National selects Hamish Walker as Dunedin South candidate"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/PO1405/S00409/national-selects-hamish-walker-as-dunedin-south-candidate.htm
+title: National selects Hamish Walker as Dunedin South candidate
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00409/national-selects-hamish-walker-as-dunedin-south-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/26/national-selects-hamish-walker-as-dunedin-south-candidate/index.html
+layout: layout.njk
 ---
 National selects Hamish Walker as Dunedin South candidate
 =========================================================

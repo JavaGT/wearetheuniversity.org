@@ -1,9 +1,13 @@
 ---
 slug: weathertight-homes-resolution-services-amendment-bill
-title: "Weathertight Homes Resolution Services Amendment Bill"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/PA1012/S00178/weathertight-homes-resolution-services-amendment-bill.htm
+title: Weathertight Homes Resolution Services Amendment Bill
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00178/weathertight-homes-resolution-services-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/12/10/weathertight-homes-resolution-services-amendment-bill/index.html
+layout: layout.njk
 ---
 Weathertight Homes Resolution Services Amendment Bill
 =====================================================

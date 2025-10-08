@@ -1,9 +1,13 @@
 ---
 slug: uc-project-could-help-save-lives-in-times-of-disaster
-title: "UC project could help save lives in times of disaster"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/CU1208/S00446/uc-project-could-help-save-lives-in-times-of-disaster.htm
+title: UC project could help save lives in times of disaster
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00446/uc-project-could-help-save-lives-in-times-of-disaster.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/27/uc-project-could-help-save-lives-in-times-of-disaster/index.html
+layout: layout.njk
 ---
 UC project could help save lives in times of disaster
 =====================================================

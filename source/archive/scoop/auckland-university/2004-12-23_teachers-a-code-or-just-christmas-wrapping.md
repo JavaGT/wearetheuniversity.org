@@ -1,9 +1,12 @@
 ---
 slug: teachers-a-code-or-just-christmas-wrapping
-title: "Teachers: a code, or just Christmas wrapping?"
-date: 2004-12-23
-source-url: https://www.scoop.co.nz/stories/ED0412/S00075/teachers-a-code-or-just-christmas-wrapping.htm
+title: 'Teachers: a code, or just Christmas wrapping?'
+date: 2004-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00075/teachers-a-code-or-just-christmas-wrapping.htm
 author: auckland-university
+permalink: /archive/2004/12/23/teachers-a-code-or-just-christmas-wrapping/index.html
+layout: layout.njk
 ---
 Teachers: a code, or just Christmas wrapping?
 =============================================

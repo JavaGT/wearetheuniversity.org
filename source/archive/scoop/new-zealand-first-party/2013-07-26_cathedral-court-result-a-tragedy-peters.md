@@ -1,9 +1,12 @@
 ---
 slug: cathedral-court-result-a-tragedy-peters
-title: "Cathedral Court Result a Tragedy – Peters"
-date: 2013-07-26
-source-url: https://www.scoop.co.nz/stories/PA1307/S00387/cathedral-court-result-a-tragedy-peters.htm
+title: Cathedral Court Result a Tragedy – Peters
+date: 2013-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00387/cathedral-court-result-a-tragedy-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2013/07/26/cathedral-court-result-a-tragedy-peters/index.html
+layout: layout.njk
 ---
 Cathedral Court Result a Tragedy – Peters
 =========================================

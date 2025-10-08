@@ -1,9 +1,13 @@
 ---
 slug: warrant-of-fitness-for-rental-houses-will-soon-be-available
-title: "Warrant of Fitness for rental houses will soon be available"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/PO1308/S00021/warrant-of-fitness-for-rental-houses-will-soon-be-available.htm
+title: Warrant of Fitness for rental houses will soon be available
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00021/warrant-of-fitness-for-rental-houses-will-soon-be-available.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/02/warrant-of-fitness-for-rental-houses-will-soon-be-available/index.html
+layout: layout.njk
 ---
 Warrant of Fitness for rental houses will soon be available
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-antarctic-researcher-receives-fulbright-award
-title: "Waikato Antarctic researcher receives Fulbright award"
-date: 2012-06-29
-source-url: https://www.scoop.co.nz/stories/ED1206/S00138/waikato-antarctic-researcher-receives-fulbright-award.htm
+title: Waikato Antarctic researcher receives Fulbright award
+date: 2012-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00138/waikato-antarctic-researcher-receives-fulbright-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/06/29/waikato-antarctic-researcher-receives-fulbright-award/index.html
+layout: layout.njk
 ---
 Waikato Antarctic researcher receives Fulbright award
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-still-failing-to-take-responsibility
-title: "National still failing to take responsibility"
-date: 2010-08-12
-source-url: https://www.scoop.co.nz/stories/PA1008/S00195/national-still-failing-to-take-responsibility.htm
+title: National still failing to take responsibility
+date: 2010-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00195/national-still-failing-to-take-responsibility.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/12/national-still-failing-to-take-responsibility/index.html
+layout: layout.njk
 ---
 National still failing to take responsibility
 =============================================

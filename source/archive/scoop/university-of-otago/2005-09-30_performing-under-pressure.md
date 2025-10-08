@@ -1,9 +1,11 @@
 ---
 slug: performing-under-pressure
-title: "Performing Under Pressure"
-date: 2005-09-30
+title: Performing Under Pressure
+date: 2005-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0509/S00096/performing-under-pressure.htm
 author: university-of-otago
+permalink: /archive/2005/09/30/performing-under-pressure/index.html
+layout: layout.njk
 ---
 Performing Under Pressure
 =========================

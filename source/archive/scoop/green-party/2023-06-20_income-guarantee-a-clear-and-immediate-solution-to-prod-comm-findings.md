@@ -1,9 +1,13 @@
 ---
 slug: income-guarantee-a-clear-and-immediate-solution-to-prod-comm-findings
-title: "Income Guarantee A Clear And Immediate Solution To Prod Comm Findings"
-date: 2023-06-20
-source-url: https://www.scoop.co.nz/stories/PA2306/S00124/income-guarantee-a-clear-and-immediate-solution-to-prod-comm-findings.htm
+title: Income Guarantee A Clear And Immediate Solution To Prod Comm Findings
+date: 2023-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00124/income-guarantee-a-clear-and-immediate-solution-to-prod-comm-findings.htm
 author: green-party
+permalink: >-
+  /archive/2023/06/20/income-guarantee-a-clear-and-immediate-solution-to-prod-comm-findings/index.html
+layout: layout.njk
 ---
 Income Guarantee A Clear And Immediate Solution To Prod Comm Findings
 =====================================================================

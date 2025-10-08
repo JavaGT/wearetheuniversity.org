@@ -1,9 +1,12 @@
 ---
 slug: new-minimum-wage-rise-far-too-little-bradford
-title: "New minimum wage rise far too little - Bradford"
-date: 2004-12-22
-source-url: https://www.scoop.co.nz/stories/PA0412/S00547/new-minimum-wage-rise-far-too-little-bradford.htm
+title: New minimum wage rise far too little - Bradford
+date: 2004-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00547/new-minimum-wage-rise-far-too-little-bradford.htm
 author: green-party
+permalink: /archive/2004/12/22/new-minimum-wage-rise-far-too-little-bradford/index.html
+layout: layout.njk
 ---
 New minimum wage rise far too little - Bradford
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: confucius-institute-to-celebrate-10th-anniversary
-title: "Confucius Institute to celebrate 10th anniversary"
-date: 2014-09-24
-source-url: https://www.scoop.co.nz/stories/CU1409/S00465/confucius-institute-to-celebrate-10th-anniversary.htm
+title: Confucius Institute to celebrate 10th anniversary
+date: 2014-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00465/confucius-institute-to-celebrate-10th-anniversary.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/24/confucius-institute-to-celebrate-10th-anniversary/index.html
+layout: layout.njk
 ---
 Confucius Institute to celebrate 10th anniversary
 =================================================

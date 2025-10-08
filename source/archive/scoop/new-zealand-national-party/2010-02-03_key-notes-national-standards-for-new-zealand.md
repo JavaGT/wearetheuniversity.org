@@ -1,9 +1,12 @@
 ---
 slug: key-notes-national-standards-for-new-zealand
-title: "Key Notes: National Standards For New Zealand"
-date: 2010-02-03
-source-url: https://www.scoop.co.nz/stories/PA1002/S00051/key-notes-national-standards-for-new-zealand.htm
+title: 'Key Notes: National Standards For New Zealand'
+date: 2010-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00051/key-notes-national-standards-for-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2010/02/03/key-notes-national-standards-for-new-zealand/index.html
+layout: layout.njk
 ---
 Key Notes: National Standards For New Zealand
 =============================================

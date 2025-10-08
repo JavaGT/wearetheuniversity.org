@@ -1,9 +1,13 @@
 ---
 slug: lack-of-trained-interpreter-use-may-affect-patients
-title: "Lack of trained interpreter use may affect patients"
-date: 2011-09-09
-source-url: https://www.scoop.co.nz/stories/GE1109/S00060/lack-of-trained-interpreter-use-may-affect-patients.htm
+title: Lack of trained interpreter use may affect patients
+date: 2011-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1109/S00060/lack-of-trained-interpreter-use-may-affect-patients.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/09/lack-of-trained-interpreter-use-may-affect-patients/index.html
+layout: layout.njk
 ---
 Lack of trained interpreter use may affect patients
 ===================================================

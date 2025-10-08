@@ -1,9 +1,11 @@
 ---
 slug: tapping-into-hot-rocks
-title: "Tapping Into Hot Rocks"
-date: 2004-05-25
+title: Tapping Into Hot Rocks
+date: 2004-05-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0405/S00061/tapping-into-hot-rocks.htm
 author: waikato-university
+permalink: /archive/2004/05/25/tapping-into-hot-rocks/index.html
+layout: layout.njk
 ---
 Tapping Into Hot Rocks
 ======================

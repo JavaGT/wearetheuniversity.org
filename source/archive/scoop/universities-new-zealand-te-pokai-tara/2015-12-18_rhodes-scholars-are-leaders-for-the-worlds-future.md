@@ -1,9 +1,13 @@
 ---
 slug: rhodes-scholars-are-leaders-for-the-worlds-future
-title: "Rhodes scholars are leaders for the world’s future"
-date: 2015-12-18
-source-url: https://www.scoop.co.nz/stories/ED1512/S00084/rhodes-scholars-are-leaders-for-the-worlds-future.htm
+title: Rhodes scholars are leaders for the world’s future
+date: 2015-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00084/rhodes-scholars-are-leaders-for-the-worlds-future.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/12/18/rhodes-scholars-are-leaders-for-the-worlds-future/index.html
+layout: layout.njk
 ---
 Rhodes scholars are leaders for the world’s future
 ==================================================

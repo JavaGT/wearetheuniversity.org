@@ -1,9 +1,12 @@
 ---
 slug: lincoln-stands-firm-in-qs-ag-rankings
-title: "Lincoln stands firm in QS ag rankings"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/ED1505/S00011/lincoln-stands-firm-in-qs-ag-rankings.htm
+title: Lincoln stands firm in QS ag rankings
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00011/lincoln-stands-firm-in-qs-ag-rankings.htm
 author: lincoln-university
+permalink: /archive/2015/05/04/lincoln-stands-firm-in-qs-ag-rankings/index.html
+layout: layout.njk
 ---
 Lincoln stands firm in QS ag rankings
 =====================================

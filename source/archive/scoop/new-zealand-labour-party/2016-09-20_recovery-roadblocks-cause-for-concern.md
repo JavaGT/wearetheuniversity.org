@@ -1,9 +1,12 @@
 ---
 slug: recovery-roadblocks-cause-for-concern
-title: "Recovery roadblocks cause for concern"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/PA1609/S00345/recovery-roadblocks-cause-for-concern.htm
+title: Recovery roadblocks cause for concern
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00345/recovery-roadblocks-cause-for-concern.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/20/recovery-roadblocks-cause-for-concern/index.html
+layout: layout.njk
 ---
 Recovery roadblocks cause for concern
 =====================================

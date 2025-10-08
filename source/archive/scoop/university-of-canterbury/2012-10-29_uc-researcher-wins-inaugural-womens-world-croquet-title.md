@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-wins-inaugural-womens-world-croquet-title
-title: "UC researcher wins inaugural women’s world croquet title"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/CU1210/S00564/uc-researcher-wins-inaugural-womens-world-croquet-title.htm
+title: UC researcher wins inaugural women’s world croquet title
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00564/uc-researcher-wins-inaugural-womens-world-croquet-title.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/29/uc-researcher-wins-inaugural-womens-world-croquet-title/index.html
+layout: layout.njk
 ---
 UC researcher wins inaugural women’s world croquet title
 ========================================================

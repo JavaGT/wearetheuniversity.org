@@ -1,9 +1,12 @@
 ---
 slug: justice-inconsistent-across-new-zealand
-title: "Justice inconsistent across New Zealand"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/PO1412/S00135/justice-inconsistent-across-new-zealand.htm
+title: Justice inconsistent across New Zealand
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00135/justice-inconsistent-across-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/10/justice-inconsistent-across-new-zealand/index.html
+layout: layout.njk
 ---
 Justice inconsistent across New Zealand
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: hyde-writings-a-new-take-on-mental-health-care
-title: "Hyde writings a new take on mental health care"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/GE1205/S00032/hyde-writings-a-new-take-on-mental-health-care.htm
+title: Hyde writings a new take on mental health care
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1205/S00032/hyde-writings-a-new-take-on-mental-health-care.htm
 author: massey-university-students-association
+permalink: /archive/2012/05/09/hyde-writings-a-new-take-on-mental-health-care/index.html
+layout: layout.njk
 ---
 Hyde writings a new take on mental health care
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-justice-of-the-peace-amendment-bill
-title: "Flavell: Justice of the Peace Amendment Bill"
-date: 2007-04-05
-source-url: https://www.scoop.co.nz/stories/PA0704/S00119/flavell-justice-of-the-peace-amendment-bill.htm
+title: 'Flavell: Justice of the Peace Amendment Bill'
+date: 2007-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00119/flavell-justice-of-the-peace-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/04/05/flavell-justice-of-the-peace-amendment-bill/index.html
+layout: layout.njk
 ---
 Flavell: Justice of the Peace Amendment Bill
 ============================================

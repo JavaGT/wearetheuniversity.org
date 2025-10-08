@@ -1,9 +1,13 @@
 ---
 slug: condensed-engineering-course-inspires-international-students
-title: "Condensed Engineering Course Inspires International Students"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/ED1402/S00075/condensed-engineering-course-inspires-international-students.htm
+title: Condensed Engineering Course Inspires International Students
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00075/condensed-engineering-course-inspires-international-students.htm
 author: massey-university
+permalink: >-
+  /archive/2014/02/19/condensed-engineering-course-inspires-international-students/index.html
+layout: layout.njk
 ---
 Condensed Engineering Course Inspires International Students
 ============================================================

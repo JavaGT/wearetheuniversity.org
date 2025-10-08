@@ -1,9 +1,13 @@
 ---
 slug: students-take-recyclable-electric-car-to-singapore
-title: "Students take recyclable, electric car to Singapore"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/AK1703/S00102/students-take-recyclable-electric-car-to-singapore.htm
+title: Students take recyclable, electric car to Singapore
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1703/S00102/students-take-recyclable-electric-car-to-singapore.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/03/students-take-recyclable-electric-car-to-singapore/index.html
+layout: layout.njk
 ---
 Students take recyclable, electric car to Singapore
 ===================================================

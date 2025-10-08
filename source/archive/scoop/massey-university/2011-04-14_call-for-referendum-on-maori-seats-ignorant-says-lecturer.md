@@ -1,9 +1,13 @@
 ---
 slug: call-for-referendum-on-maori-seats-ignorant-says-lecturer
-title: "Call for Referendum on Maori Seats \"Ignorant\" says lecturer"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PO1104/S00190/call-for-referendum-on-maori-seats-ignorant-says-lecturer.htm
+title: Call for Referendum on Maori Seats "Ignorant" says lecturer
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00190/call-for-referendum-on-maori-seats-ignorant-says-lecturer.htm
 author: massey-university
+permalink: >-
+  /archive/2011/04/14/call-for-referendum-on-maori-seats-ignorant-says-lecturer/index.html
+layout: layout.njk
 ---
 Call for Referendum on Maori Seats “Ignorant" says lecturer
 ===========================================================

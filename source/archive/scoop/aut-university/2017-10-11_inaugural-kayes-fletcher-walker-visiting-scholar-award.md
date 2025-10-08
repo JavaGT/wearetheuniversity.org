@@ -1,9 +1,13 @@
 ---
 slug: inaugural-kayes-fletcher-walker-visiting-scholar-award
-title: "Inaugural Kayes Fletcher Walker visiting scholar award"
-date: 2017-10-11
-source-url: https://www.scoop.co.nz/stories/ED1710/S00034/inaugural-kayes-fletcher-walker-visiting-scholar-award.htm
+title: Inaugural Kayes Fletcher Walker visiting scholar award
+date: 2017-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00034/inaugural-kayes-fletcher-walker-visiting-scholar-award.htm
 author: aut-university
+permalink: >-
+  /archive/2017/10/11/inaugural-kayes-fletcher-walker-visiting-scholar-award/index.html
+layout: layout.njk
 ---
 Inaugural Kayes Fletcher Walker visiting scholar award
 ======================================================

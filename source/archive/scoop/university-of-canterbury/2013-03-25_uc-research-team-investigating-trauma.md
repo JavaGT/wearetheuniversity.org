@@ -1,9 +1,12 @@
 ---
 slug: uc-research-team-investigating-trauma
-title: "UC research team investigating trauma"
-date: 2013-03-25
-source-url: https://www.scoop.co.nz/stories/SC1303/S00040/uc-research-team-investigating-trauma.htm
+title: UC research team investigating trauma
+date: 2013-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00040/uc-research-team-investigating-trauma.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/25/uc-research-team-investigating-trauma/index.html
+layout: layout.njk
 ---
 UC research team investigating trauma
 =====================================

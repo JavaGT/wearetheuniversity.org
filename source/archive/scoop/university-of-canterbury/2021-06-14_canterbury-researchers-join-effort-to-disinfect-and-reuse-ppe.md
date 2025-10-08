@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researchers-join-effort-to-disinfect-and-reuse-ppe
-title: "Canterbury Researchers Join Effort To Disinfect And Reuse PPE"
-date: 2021-06-14
-source-url: https://www.scoop.co.nz/stories/GE2106/S00059/canterbury-researchers-join-effort-to-disinfect-and-reuse-ppe.htm
+title: Canterbury Researchers Join Effort To Disinfect And Reuse PPE
+date: 2021-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2106/S00059/canterbury-researchers-join-effort-to-disinfect-and-reuse-ppe.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/14/canterbury-researchers-join-effort-to-disinfect-and-reuse-ppe/index.html
+layout: layout.njk
 ---
 Canterbury Researchers Join Effort To Disinfect And Reuse PPE
 =============================================================

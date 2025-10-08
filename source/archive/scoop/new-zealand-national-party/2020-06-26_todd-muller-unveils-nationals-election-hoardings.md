@@ -1,9 +1,13 @@
 ---
 slug: todd-muller-unveils-nationals-election-hoardings
-title: "Todd Muller Unveils National’s Election Hoardings"
-date: 2020-06-26
-source-url: https://www.scoop.co.nz/stories/PA2006/S00256/todd-muller-unveils-nationals-election-hoardings.htm
+title: Todd Muller Unveils National’s Election Hoardings
+date: 2020-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00256/todd-muller-unveils-nationals-election-hoardings.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/26/todd-muller-unveils-nationals-election-hoardings/index.html
+layout: layout.njk
 ---
 Todd Muller Unveils National’s Election Hoardings
 =================================================

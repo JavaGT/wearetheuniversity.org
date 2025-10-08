@@ -1,9 +1,12 @@
 ---
 slug: farmer-fined-$16000-for-removing-weeds-what-next-asks-mp
-title: "Farmer Fined $16,000 for Removing Weeds. What Next? Asks MP"
-date: 2014-12-24
-source-url: https://www.scoop.co.nz/stories/PA1412/S00382/farmer-fined-16000-for-removing-weeds-what-next-asks-mp.htm
+title: Farmer Fined $16,000 for Removing Weeds. What Next? Asks MP
+date: 2014-12-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00382/farmer-fined-16000-for-removing-weeds-what-next-asks-mp.htm
 author: new-zealand-first-party
+permalink: /archive/2014/12/24/farmer-fined-/index.html
+layout: layout.njk
 ---
 Farmer Fined $16,000 for Removing Weeds. What Next? Asks MP
 ===========================================================

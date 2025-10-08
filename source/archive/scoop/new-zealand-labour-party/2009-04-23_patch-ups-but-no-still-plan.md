@@ -1,9 +1,11 @@
 ---
 slug: patch-ups-but-no-still-plan
-title: "Patch-ups but no still plan"
-date: 2009-04-23
+title: Patch-ups but no still plan
+date: 2009-04-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0904/S00296/patch-ups-but-no-still-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/23/patch-ups-but-no-still-plan/index.html
+layout: layout.njk
 ---
 Patch-ups but no still plan
 ===========================

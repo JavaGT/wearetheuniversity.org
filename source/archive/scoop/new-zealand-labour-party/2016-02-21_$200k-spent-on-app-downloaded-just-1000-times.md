@@ -1,9 +1,12 @@
 ---
 slug: $200k-spent-on-app-downloaded-just-1000-times
-title: "$200k Spent On App Downloaded Just 1000 Times"
-date: 2016-02-21
-source-url: https://www.scoop.co.nz/stories/PA1602/S00291/200k-spent-on-app-downloaded-just-1000-times.htm
+title: $200k Spent On App Downloaded Just 1000 Times
+date: 2016-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00291/200k-spent-on-app-downloaded-just-1000-times.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/21/200k-spent-on-app-downloaded-just-1000-times/index.html
+layout: layout.njk
 ---
 $200k Spent On App Downloaded Just 1000 Times
 =============================================

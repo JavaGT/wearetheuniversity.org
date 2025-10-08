@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-develops-smart-way-to-manage-water
-title: "UC researcher develops smart way to manage water"
-date: 2011-06-08
-source-url: https://www.scoop.co.nz/stories/SC1106/S00032/uc-researcher-develops-smart-way-to-manage-water.htm
+title: UC researcher develops smart way to manage water
+date: 2011-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00032/uc-researcher-develops-smart-way-to-manage-water.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/06/08/uc-researcher-develops-smart-way-to-manage-water/index.html
+layout: layout.njk
 ---
 UC researcher develops smart way to manage water
 ================================================

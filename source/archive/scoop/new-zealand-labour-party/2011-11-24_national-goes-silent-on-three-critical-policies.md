@@ -1,9 +1,12 @@
 ---
 slug: national-goes-silent-on-three-critical-policies
-title: "National goes silent on three critical policies"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PA1111/S00493/national-goes-silent-on-three-critical-policies.htm
+title: National goes silent on three critical policies
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00493/national-goes-silent-on-three-critical-policies.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/24/national-goes-silent-on-three-critical-policies/index.html
+layout: layout.njk
 ---
 National goes silent on three critical policies
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: time-for-serious-action-to-back-business
-title: "Time For Serious Action To Back Business"
-date: 2020-09-24
-source-url: https://www.scoop.co.nz/stories/PA2009/S00194/time-for-serious-action-to-back-business.htm
+title: Time For Serious Action To Back Business
+date: 2020-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00194/time-for-serious-action-to-back-business.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/24/time-for-serious-action-to-back-business/index.html
+layout: layout.njk
 ---
 Time For Serious Action To Back Business
 ========================================

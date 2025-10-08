@@ -1,9 +1,12 @@
 ---
 slug: nzisa-national-treasurer-resigns
-title: "NZISA National Treasurer Resigns"
-date: 2020-07-26
-source-url: https://www.scoop.co.nz/stories/ED2007/S00037/nzisa-national-treasurer-resigns.htm
+title: NZISA National Treasurer Resigns
+date: 2020-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00037/nzisa-national-treasurer-resigns.htm
 author: nzisa
+permalink: /archive/2020/07/26/nzisa-national-treasurer-resigns/index.html
+layout: layout.njk
 ---
 NZISA National Treasurer Resigns
 ================================

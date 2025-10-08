@@ -1,9 +1,11 @@
 ---
 slug: speech-mapp-apec
-title: "Speech: Mapp - APEC"
-date: 1999-08-17
+title: 'Speech: Mapp - APEC'
+date: 1999-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9908/S00292/speech-mapp-apec.htm
 author: new-zealand-national-party
+permalink: /archive/1999/08/17/speech-mapp-apec/index.html
+layout: layout.njk
 ---
 Speech: Mapp - APEC
 ===================

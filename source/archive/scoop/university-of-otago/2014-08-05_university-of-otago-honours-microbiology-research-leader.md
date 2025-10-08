@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-honours-microbiology-research-leader
-title: "University of Otago honours Microbiology research leader"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/ED1408/S00019/university-of-otago-honours-microbiology-research-leader.htm
+title: University of Otago honours Microbiology research leader
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00019/university-of-otago-honours-microbiology-research-leader.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/08/05/university-of-otago-honours-microbiology-research-leader/index.html
+layout: layout.njk
 ---
 University of Otago honours Microbiology research leader
 ========================================================

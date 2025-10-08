@@ -1,9 +1,11 @@
 ---
 slug: bottled-water-a-scam-greens
-title: "Bottled water a scam - Greens"
-date: 2006-02-13
+title: Bottled water a scam - Greens
+date: 2006-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0602/S00155/bottled-water-a-scam-greens.htm
 author: green-party
+permalink: /archive/2006/02/13/bottled-water-a-scam-greens/index.html
+layout: layout.njk
 ---
 Bottled water a scam - Greens
 =============================

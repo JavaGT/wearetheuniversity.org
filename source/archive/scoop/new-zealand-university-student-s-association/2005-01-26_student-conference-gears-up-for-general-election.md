@@ -1,9 +1,13 @@
 ---
 slug: student-conference-gears-up-for-general-election
-title: "Student conference gears up for general election"
-date: 2005-01-26
-source-url: https://www.scoop.co.nz/stories/ED0501/S00054/student-conference-gears-up-for-general-election.htm
+title: Student conference gears up for general election
+date: 2005-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00054/student-conference-gears-up-for-general-election.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/01/26/student-conference-gears-up-for-general-election/index.html
+layout: layout.njk
 ---
 Student conference gears up for general election
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: documentary-photography-in-focus
-title: "Documentary photography in focus"
-date: 2012-09-05
-source-url: https://www.scoop.co.nz/stories/CU1209/S00090/documentary-photography-in-focus.htm
+title: Documentary photography in focus
+date: 2012-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1209/S00090/documentary-photography-in-focus.htm
 author: massey-university
+permalink: /archive/2012/09/05/documentary-photography-in-focus/index.html
+layout: layout.njk
 ---
 Documentary photography in focus
 ================================

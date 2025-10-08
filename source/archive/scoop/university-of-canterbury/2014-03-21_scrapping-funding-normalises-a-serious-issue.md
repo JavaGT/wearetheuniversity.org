@@ -1,9 +1,12 @@
 ---
 slug: scrapping-funding-normalises-a-serious-issue
-title: "Scrapping funding normalises a serious issue"
-date: 2014-03-21
-source-url: https://www.scoop.co.nz/stories/PO1403/S00276/scrapping-funding-normalises-a-serious-issue.htm
+title: Scrapping funding normalises a serious issue
+date: 2014-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00276/scrapping-funding-normalises-a-serious-issue.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/21/scrapping-funding-normalises-a-serious-issue/index.html
+layout: layout.njk
 ---
 Scrapping funding normalises a serious issue
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: top-university-honour-for-tireless-environmentalist
-title: "Top University honour for tireless environmentalist"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/CU1303/S00346/top-university-honour-for-tireless-environmentalist.htm
+title: Top University honour for tireless environmentalist
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00346/top-university-honour-for-tireless-environmentalist.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/03/18/top-university-honour-for-tireless-environmentalist/index.html
+layout: layout.njk
 ---
 Top University honour for tireless environmentalist
 ===================================================

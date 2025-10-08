@@ -1,9 +1,12 @@
 ---
 slug: more-research-on-migrant-mental-health-urged
-title: "More research on migrant mental health urged"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/ED0609/S00082/more-research-on-migrant-mental-health-urged.htm
+title: More research on migrant mental health urged
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00082/more-research-on-migrant-mental-health-urged.htm
 author: aut-university
+permalink: /archive/2006/09/20/more-research-on-migrant-mental-health-urged/index.html
+layout: layout.njk
 ---
 More research on migrant mental health urged
 ============================================

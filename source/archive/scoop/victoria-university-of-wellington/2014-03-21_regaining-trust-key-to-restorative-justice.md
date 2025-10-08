@@ -1,9 +1,12 @@
 ---
 slug: regaining-trust-key-to-restorative-justice
-title: "Regaining trust key to restorative justice"
-date: 2014-03-21
-source-url: https://www.scoop.co.nz/stories/ED1403/S00124/regaining-trust-key-to-restorative-justice.htm
+title: Regaining trust key to restorative justice
+date: 2014-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00124/regaining-trust-key-to-restorative-justice.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/21/regaining-trust-key-to-restorative-justice/index.html
+layout: layout.njk
 ---
 Regaining trust key to restorative justice
 ==========================================

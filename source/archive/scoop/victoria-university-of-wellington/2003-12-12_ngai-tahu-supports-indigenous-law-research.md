@@ -1,9 +1,12 @@
 ---
 slug: ngai-tahu-supports-indigenous-law-research
-title: "Ngai Tahu supports indigenous law research"
-date: 2003-12-12
-source-url: https://www.scoop.co.nz/stories/ED0312/S00055/ngai-tahu-supports-indigenous-law-research.htm
+title: Ngai Tahu supports indigenous law research
+date: 2003-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00055/ngai-tahu-supports-indigenous-law-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/12/12/ngai-tahu-supports-indigenous-law-research/index.html
+layout: layout.njk
 ---
 Ngai Tahu supports indigenous law research
 ==========================================

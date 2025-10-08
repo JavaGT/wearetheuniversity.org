@@ -1,9 +1,12 @@
 ---
 slug: mental-health-linked-to-food-costs
-title: "Mental health linked to food costs"
-date: 2011-04-04
-source-url: https://www.scoop.co.nz/stories/PA1104/S00047/mental-health-linked-to-food-costs.htm
+title: Mental health linked to food costs
+date: 2011-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00047/mental-health-linked-to-food-costs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/04/mental-health-linked-to-food-costs/index.html
+layout: layout.njk
 ---
 Mental health linked to food costs
 ==================================

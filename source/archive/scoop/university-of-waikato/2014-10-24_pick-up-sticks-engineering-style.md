@@ -1,9 +1,12 @@
 ---
 slug: pick-up-sticks-engineering-style
-title: "Pick up sticks – engineering style"
-date: 2014-10-24
-source-url: https://www.scoop.co.nz/stories/ED1410/S00138/pick-up-sticks-engineering-style.htm
+title: Pick up sticks – engineering style
+date: 2014-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00138/pick-up-sticks-engineering-style.htm
 author: university-of-waikato
+permalink: /archive/2014/10/24/pick-up-sticks-engineering-style/index.html
+layout: layout.njk
 ---
 Pick up sticks – engineering style
 ==================================

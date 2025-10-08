@@ -1,9 +1,12 @@
 ---
 slug: dial-111-auckland-is-bleeding-cops-says-mark
-title: "Dial 111 – Auckland Is Bleeding Cops, Says Mark"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00036/dial-111-auckland-is-bleeding-cops-says-mark.htm
+title: Dial 111 – Auckland Is Bleeding Cops, Says Mark
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00036/dial-111-auckland-is-bleeding-cops-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/02/dial-111-auckland-is-bleeding-cops-says-mark/index.html
+layout: layout.njk
 ---
 Dial 111 – Auckland Is Bleeding Cops, Says Mark
 ===============================================

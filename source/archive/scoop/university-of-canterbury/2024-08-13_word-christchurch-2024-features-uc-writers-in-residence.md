@@ -1,9 +1,13 @@
 ---
 slug: word-christchurch-2024-features-uc-writers-in-residence
-title: "WORD Christchurch 2024 Features UC Writers-in-residence"
-date: 2024-08-13
-source-url: https://www.scoop.co.nz/stories/CU2408/S00137/word-christchurch-2024-features-uc-writers-in-residence.htm
+title: WORD Christchurch 2024 Features UC Writers-in-residence
+date: 2024-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2408/S00137/word-christchurch-2024-features-uc-writers-in-residence.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/13/word-christchurch-2024-features-uc-writers-in-residence/index.html
+layout: layout.njk
 ---
 WORD Christchurch 2024 Features UC Writers-in-residence
 =======================================================

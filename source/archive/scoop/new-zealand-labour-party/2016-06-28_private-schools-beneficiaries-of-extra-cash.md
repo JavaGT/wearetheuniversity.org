@@ -1,9 +1,12 @@
 ---
 slug: private-schools-beneficiaries-of-extra-cash
-title: "Private schools beneficiaries of extra cash"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/PA1606/S00462/private-schools-beneficiaries-of-extra-cash.htm
+title: Private schools beneficiaries of extra cash
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00462/private-schools-beneficiaries-of-extra-cash.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/28/private-schools-beneficiaries-of-extra-cash/index.html
+layout: layout.njk
 ---
 Private schools beneficiaries of extra cash
 ===========================================

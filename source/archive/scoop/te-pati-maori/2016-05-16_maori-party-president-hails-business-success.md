@@ -1,9 +1,12 @@
 ---
 slug: maori-party-president-hails-business-success
-title: "Maori Party President Hails Business Success"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/PO1605/S00182/maori-party-president-hails-business-success.htm
+title: Maori Party President Hails Business Success
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00182/maori-party-president-hails-business-success.htm
 author: te-pati-maori
+permalink: /archive/2016/05/16/maori-party-president-hails-business-success/index.html
+layout: layout.njk
 ---
 Maori Party President Hails Business Success
 ============================================

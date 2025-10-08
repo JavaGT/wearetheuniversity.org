@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-buying-less-from-physical-stores
-title: "New Zealanders buying less from physical stores"
-date: 2013-06-23
-source-url: https://www.scoop.co.nz/stories/BU1306/S00779/new-zealanders-buying-less-from-physical-stores.htm
+title: New Zealanders buying less from physical stores
+date: 2013-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S00779/new-zealanders-buying-less-from-physical-stores.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/23/new-zealanders-buying-less-from-physical-stores/index.html
+layout: layout.njk
 ---
 New Zealanders buying less from physical stores
 ===============================================

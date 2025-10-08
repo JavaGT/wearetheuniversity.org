@@ -1,9 +1,12 @@
 ---
 slug: clare-curran-clare-thinking-budget-edition
-title: "Clare Curran: Clare Thinking - Budget Edition"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/PA1405/S00496/clare-curran-clare-thinking-budget-edition.htm
+title: 'Clare Curran: Clare Thinking - Budget Edition'
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00496/clare-curran-clare-thinking-budget-edition.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/27/clare-curran-clare-thinking-budget-edition/index.html
+layout: layout.njk
 ---
 Clare Curran: Clare Thinking - Budget Edition
 =============================================

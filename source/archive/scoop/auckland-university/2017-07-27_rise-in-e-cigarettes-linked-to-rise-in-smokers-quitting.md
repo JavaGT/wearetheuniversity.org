@@ -1,9 +1,13 @@
 ---
 slug: rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting
-title: "Rise in E-Cigarettes Linked to Rise in Smokers Quitting"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/GE1707/S00081/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting.htm
+title: Rise in E-Cigarettes Linked to Rise in Smokers Quitting
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1707/S00081/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/07/27/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting/index.html
+layout: layout.njk
 ---
 Rise in E-Cigarettes Linked to Rise in Smokers Quitting
 =======================================================

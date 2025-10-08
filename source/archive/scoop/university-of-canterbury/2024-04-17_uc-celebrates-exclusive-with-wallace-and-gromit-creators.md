@@ -1,9 +1,13 @@
 ---
 slug: uc-celebrates-exclusive-with-wallace-and-gromit-creators
-title: "UC Celebrates Exclusive With Wallace And Gromit Creators"
-date: 2024-04-17
-source-url: https://www.scoop.co.nz/stories/ED2404/S00027/uc-celebrates-exclusive-with-wallace-and-gromit-creators.htm
+title: UC Celebrates Exclusive With Wallace And Gromit Creators
+date: 2024-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2404/S00027/uc-celebrates-exclusive-with-wallace-and-gromit-creators.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/04/17/uc-celebrates-exclusive-with-wallace-and-gromit-creators/index.html
+layout: layout.njk
 ---
 UC Celebrates Exclusive With Wallace And Gromit Creators
 ========================================================

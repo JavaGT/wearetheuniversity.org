@@ -1,9 +1,12 @@
 ---
 slug: govts-reckless-spending-comes-home-to-roost
-title: "Govt’s reckless spending comes home to roost"
-date: 2019-06-06
-source-url: https://www.scoop.co.nz/stories/PA1906/S00038/govts-reckless-spending-comes-home-to-roost.htm
+title: Govt’s reckless spending comes home to roost
+date: 2019-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00038/govts-reckless-spending-comes-home-to-roost.htm
 author: act-new-zealand
+permalink: /archive/2019/06/06/govts-reckless-spending-comes-home-to-roost/index.html
+layout: layout.njk
 ---
 Govt’s reckless spending comes home to roost
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: another-attack-on-keeping-kids-safe-from-violence
-title: "Another attack on Keeping Kids Safe from Violence"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/PA0903/S00285/another-attack-on-keeping-kids-safe-from-violence.htm
+title: Another attack on Keeping Kids Safe from Violence
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00285/another-attack-on-keeping-kids-safe-from-violence.htm
 author: green-party
+permalink: >-
+  /archive/2009/03/19/another-attack-on-keeping-kids-safe-from-violence/index.html
+layout: layout.njk
 ---
 Another attack on Keeping Kids Safe from Violence
 =================================================

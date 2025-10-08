@@ -1,9 +1,12 @@
 ---
 slug: aussie-carbon-price-poses-risk-to-nz-economy
-title: "Aussie carbon price poses risk to NZ economy"
-date: 2011-07-10
-source-url: https://www.scoop.co.nz/stories/PA1107/S00156/aussie-carbon-price-poses-risk-to-nz-economy.htm
+title: Aussie carbon price poses risk to NZ economy
+date: 2011-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00156/aussie-carbon-price-poses-risk-to-nz-economy.htm
 author: green-party
+permalink: /archive/2011/07/10/aussie-carbon-price-poses-risk-to-nz-economy/index.html
+layout: layout.njk
 ---
 Aussie carbon price poses risk to NZ economy
 ============================================

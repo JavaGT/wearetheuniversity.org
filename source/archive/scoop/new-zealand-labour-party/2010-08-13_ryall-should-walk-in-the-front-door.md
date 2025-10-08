@@ -1,9 +1,12 @@
 ---
 slug: ryall-should-walk-in-the-front-door
-title: "Ryall should walk in the front door"
-date: 2010-08-13
-source-url: https://www.scoop.co.nz/stories/PA1008/S00212/ryall-should-walk-in-the-front-door.htm
+title: Ryall should walk in the front door
+date: 2010-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00212/ryall-should-walk-in-the-front-door.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/13/ryall-should-walk-in-the-front-door/index.html
+layout: layout.njk
 ---
 Ryall should walk in the front door
 ===================================

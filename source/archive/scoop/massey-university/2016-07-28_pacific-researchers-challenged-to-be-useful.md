@@ -1,9 +1,12 @@
 ---
 slug: pacific-researchers-challenged-to-be-useful
-title: "Pacific researchers challenged to be useful"
-date: 2016-07-28
-source-url: https://www.scoop.co.nz/stories/PO1607/S00315/pacific-researchers-challenged-to-be-useful.htm
+title: Pacific researchers challenged to be useful
+date: 2016-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00315/pacific-researchers-challenged-to-be-useful.htm
 author: massey-university
+permalink: /archive/2016/07/28/pacific-researchers-challenged-to-be-useful/index.html
+layout: layout.njk
 ---
 Pacific researchers challenged to be useful
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: bring-back-maori-trade-training
-title: "Bring back Maori trade training"
-date: 2010-06-02
-source-url: https://www.scoop.co.nz/stories/PA1006/S00045/bring-back-maori-trade-training.htm
+title: Bring back Maori trade training
+date: 2010-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00045/bring-back-maori-trade-training.htm
 author: te-pati-maori
+permalink: /archive/2010/06/02/bring-back-maori-trade-training/index.html
+layout: layout.njk
 ---
 Bring back Maori trade training
 ===============================

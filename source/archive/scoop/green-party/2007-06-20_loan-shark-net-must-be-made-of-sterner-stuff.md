@@ -1,9 +1,12 @@
 ---
 slug: loan-shark-net-must-be-made-of-sterner-stuff
-title: "Loan shark net must be made of sterner stuff"
-date: 2007-06-20
-source-url: https://www.scoop.co.nz/stories/PA0706/S00386/loan-shark-net-must-be-made-of-sterner-stuff.htm
+title: Loan shark net must be made of sterner stuff
+date: 2007-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00386/loan-shark-net-must-be-made-of-sterner-stuff.htm
 author: green-party
+permalink: /archive/2007/06/20/loan-shark-net-must-be-made-of-sterner-stuff/index.html
+layout: layout.njk
 ---
 Loan shark net must be made of sterner stuff
 ============================================

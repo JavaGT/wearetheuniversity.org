@@ -1,9 +1,13 @@
 ---
 slug: childhood-disadvantage-strongly-predicts-costly-outcomes
-title: "Childhood disadvantage strongly predicts costly outcomes"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/SC1612/S00029/childhood-disadvantage-strongly-predicts-costly-outcomes.htm
+title: Childhood disadvantage strongly predicts costly outcomes
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1612/S00029/childhood-disadvantage-strongly-predicts-costly-outcomes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/13/childhood-disadvantage-strongly-predicts-costly-outcomes/index.html
+layout: layout.njk
 ---
 Childhood disadvantage strongly predicts costly outcomes
 ========================================================

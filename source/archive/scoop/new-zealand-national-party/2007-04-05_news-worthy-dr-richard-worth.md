@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-dr-richard-worth
-title: "News Worthy - Dr Richard Worth"
-date: 2007-04-05
+title: News Worthy - Dr Richard Worth
+date: 2007-04-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0704/S00144/news-worthy-dr-richard-worth.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/05/news-worthy-dr-richard-worth/index.html
+layout: layout.njk
 ---
 News Worthy - Dr Richard Worth
 ==============================

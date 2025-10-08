@@ -1,9 +1,12 @@
 ---
 slug: founding-māori-party-co-leaders-support-to-new-line-up
-title: "Founding Māori Party Co-leaders support to new line-up"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/PA1408/S00023/founding-maori-party-co-leaders-support-to-new-line-up.htm
+title: Founding Māori Party Co-leaders support to new line-up
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00023/founding-maori-party-co-leaders-support-to-new-line-up.htm
 author: te-pati-maori
+permalink: /archive/2014/08/01/founding-m/index.html
+layout: layout.njk
 ---
 Founding Māori Party Co-leaders support to new line-up
 ======================================================

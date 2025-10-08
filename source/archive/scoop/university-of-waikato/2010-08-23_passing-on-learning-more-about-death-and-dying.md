@@ -1,9 +1,12 @@
 ---
 slug: passing-on-learning-more-about-death-and-dying
-title: "Passing on: learning more about death and dying"
-date: 2010-08-23
-source-url: https://www.scoop.co.nz/stories/ED1008/S00087/passing-on-learning-more-about-death-and-dying.htm
+title: 'Passing on: learning more about death and dying'
+date: 2010-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00087/passing-on-learning-more-about-death-and-dying.htm
 author: university-of-waikato
+permalink: /archive/2010/08/23/passing-on-learning-more-about-death-and-dying/index.html
+layout: layout.njk
 ---
 Passing on: learning more about death and dying
 ===============================================

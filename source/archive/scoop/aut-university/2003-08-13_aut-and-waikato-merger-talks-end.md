@@ -1,9 +1,12 @@
 ---
 slug: aut-and-waikato-merger-talks-end
-title: "AUT and Waikato Merger Talks End"
-date: 2003-08-13
-source-url: https://www.scoop.co.nz/stories/ED0308/S00041/aut-and-waikato-merger-talks-end.htm
+title: AUT and Waikato Merger Talks End
+date: 2003-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00041/aut-and-waikato-merger-talks-end.htm
 author: aut-university
+permalink: /archive/2003/08/13/aut-and-waikato-merger-talks-end/index.html
+layout: layout.njk
 ---
 AUT and Waikato Merger Talks End
 ================================

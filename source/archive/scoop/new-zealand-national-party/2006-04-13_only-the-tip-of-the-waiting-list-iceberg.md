@@ -1,9 +1,12 @@
 ---
 slug: only-the-tip-of-the-waiting-list-iceberg
-title: "Only the tip of the waiting-list iceberg"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/PA0604/S00263/only-the-tip-of-the-waiting-list-iceberg.htm
+title: Only the tip of the waiting-list iceberg
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00263/only-the-tip-of-the-waiting-list-iceberg.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/13/only-the-tip-of-the-waiting-list-iceberg/index.html
+layout: layout.njk
 ---
 Only the tip of the waiting-list iceberg
 ========================================

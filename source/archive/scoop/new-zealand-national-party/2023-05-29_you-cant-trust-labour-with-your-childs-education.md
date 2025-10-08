@@ -1,9 +1,13 @@
 ---
 slug: you-cant-trust-labour-with-your-childs-education
-title: "You Can’t Trust Labour With Your Child’s Education"
-date: 2023-05-29
-source-url: https://www.scoop.co.nz/stories/PA2305/S00215/you-cant-trust-labour-with-your-childs-education.htm
+title: You Can’t Trust Labour With Your Child’s Education
+date: 2023-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00215/you-cant-trust-labour-with-your-childs-education.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/05/29/you-cant-trust-labour-with-your-childs-education/index.html
+layout: layout.njk
 ---
 You Can’t Trust Labour With Your Child’s Education
 ==================================================

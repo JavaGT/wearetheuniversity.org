@@ -1,9 +1,11 @@
 ---
 slug: taxing-times
-title: "Taxing Times"
-date: 2006-05-06
+title: Taxing Times
+date: 2006-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00158/taxing-times.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/06/taxing-times/index.html
+layout: layout.njk
 ---
 Taxing Times
 ============

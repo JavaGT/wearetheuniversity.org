@@ -1,9 +1,12 @@
 ---
 slug: minister-addresses-stanford-university-māori-bootcamp
-title: "Minister addresses Stanford University Māori Bootcamp"
-date: 2013-08-31
-source-url: https://www.scoop.co.nz/stories/PA1308/S00518/minister-addresses-stanford-university-maori-bootcamp.htm
+title: Minister addresses Stanford University Māori Bootcamp
+date: 2013-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00518/minister-addresses-stanford-university-maori-bootcamp.htm
 author: te-pati-maori
+permalink: /archive/2013/08/31/minister-addresses-stanford-university-m/index.html
+layout: layout.njk
 ---
 Minister addresses Stanford University Māori Bootcamp
 =====================================================

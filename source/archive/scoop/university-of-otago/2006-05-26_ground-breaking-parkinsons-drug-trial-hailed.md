@@ -1,9 +1,12 @@
 ---
 slug: ground-breaking-parkinsons-drug-trial-hailed
-title: "Ground-breaking Parkinson's Drug Trial Hailed"
-date: 2006-05-26
-source-url: https://www.scoop.co.nz/stories/GE0605/S00176/ground-breaking-parkinsons-drug-trial-hailed.htm
+title: Ground-breaking Parkinson's Drug Trial Hailed
+date: 2006-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00176/ground-breaking-parkinsons-drug-trial-hailed.htm
 author: university-of-otago
+permalink: /archive/2006/05/26/ground-breaking-parkinsons-drug-trial-hailed/index.html
+layout: layout.njk
 ---
 Ground-breaking Parkinson's Drug Trial Hailed
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: an-opt-in-choice-not-an-opt-out-alternative
-title: "An opt-in Choice, not an opt-out Alternative"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/PO0909/S00275/an-opt-in-choice-not-an-opt-out-alternative.htm
+title: An opt-in Choice, not an opt-out Alternative
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00275/an-opt-in-choice-not-an-opt-out-alternative.htm
 author: new-zealand-young-nationals
+permalink: /archive/2009/09/24/an-opt-in-choice-not-an-opt-out-alternative/index.html
+layout: layout.njk
 ---
 An opt-in Choice, not an opt-out Alternative
 ============================================

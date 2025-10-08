@@ -1,9 +1,13 @@
 ---
 slug: human-impact-throws-tree-seeding-out-of-sync-new-study
-title: "Human Impact Throws Tree Seeding Out Of Sync – New Study"
-date: 2020-06-24
-source-url: https://www.scoop.co.nz/stories/SC2006/S00054/human-impact-throws-tree-seeding-out-of-sync-new-study.htm
+title: Human Impact Throws Tree Seeding Out Of Sync – New Study
+date: 2020-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00054/human-impact-throws-tree-seeding-out-of-sync-new-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/24/human-impact-throws-tree-seeding-out-of-sync-new-study/index.html
+layout: layout.njk
 ---
 Human Impact Throws Tree Seeding Out Of Sync – New Study
 ========================================================

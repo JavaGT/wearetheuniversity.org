@@ -1,9 +1,13 @@
 ---
 slug: ipcc-report-end-of-magical-thinking-about-climate-change
-title: "IPCC report ‘end of magical thinking’ about climate change"
-date: 2018-10-08
-source-url: https://www.scoop.co.nz/stories/SC1810/S00038/ipcc-report-end-of-magical-thinking-about-climate-change.htm
+title: IPCC report ‘end of magical thinking’ about climate change
+date: 2018-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00038/ipcc-report-end-of-magical-thinking-about-climate-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/08/ipcc-report-end-of-magical-thinking-about-climate-change/index.html
+layout: layout.njk
 ---
 IPCC report ‘end of magical thinking’ about climate change
 ==========================================================

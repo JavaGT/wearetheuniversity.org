@@ -1,9 +1,13 @@
 ---
 slug: paulo-garcia-selected-as-nationals-candidate-in-new-lynn
-title: "Paulo Garcia Selected As National’s Candidate In New Lynn"
-date: 2023-03-30
-source-url: https://www.scoop.co.nz/stories/PO2303/S00256/paulo-garcia-selected-as-nationals-candidate-in-new-lynn.htm
+title: Paulo Garcia Selected As National’s Candidate In New Lynn
+date: 2023-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00256/paulo-garcia-selected-as-nationals-candidate-in-new-lynn.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/30/paulo-garcia-selected-as-nationals-candidate-in-new-lynn/index.html
+layout: layout.njk
 ---
 Paulo Garcia Selected As National’s Candidate In New Lynn
 =========================================================

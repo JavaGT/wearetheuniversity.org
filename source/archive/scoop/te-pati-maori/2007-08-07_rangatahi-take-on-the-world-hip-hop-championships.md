@@ -1,9 +1,13 @@
 ---
 slug: rangatahi-take-on-the-world-hip-hop-championships
-title: "Rangatahi take on the World Hip-Hop Championships"
-date: 2007-08-07
-source-url: https://www.scoop.co.nz/stories/PA0708/S00100/rangatahi-take-on-the-world-hip-hop-championships.htm
+title: Rangatahi take on the World Hip-Hop Championships
+date: 2007-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00100/rangatahi-take-on-the-world-hip-hop-championships.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/08/07/rangatahi-take-on-the-world-hip-hop-championships/index.html
+layout: layout.njk
 ---
 Rangatahi take on the World Hip-Hop Championships
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: science-enthusiast-wins-national-teaching-award
-title: "Science enthusiast wins national teaching award"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00027/science-enthusiast-wins-national-teaching-award.htm
+title: Science enthusiast wins national teaching award
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00027/science-enthusiast-wins-national-teaching-award.htm
 author: waikato-university
+permalink: /archive/2010/08/05/science-enthusiast-wins-national-teaching-award/index.html
+layout: layout.njk
 ---
 Science enthusiast wins national teaching award
 ===============================================

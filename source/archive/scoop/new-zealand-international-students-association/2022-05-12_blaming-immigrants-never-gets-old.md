@@ -1,9 +1,12 @@
 ---
 slug: blaming-immigrants-never-gets-old
-title: "Blaming Immigrants Never Gets Old"
-date: 2022-05-12
-source-url: https://www.scoop.co.nz/stories/PO2205/S00099/blaming-immigrants-never-gets-old.htm
+title: Blaming Immigrants Never Gets Old
+date: 2022-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00099/blaming-immigrants-never-gets-old.htm
 author: new-zealand-international-students-association
+permalink: /archive/2022/05/12/blaming-immigrants-never-gets-old/index.html
+layout: layout.njk
 ---
 Blaming Immigrants Never Gets Old
 =================================

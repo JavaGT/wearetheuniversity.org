@@ -1,9 +1,12 @@
 ---
 slug: student-loan-interest-still-above-market-rates
-title: "Student loan interest still above market rates"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/ED0302/S00044/student-loan-interest-still-above-market-rates.htm
+title: Student loan interest still above market rates
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00044/student-loan-interest-still-above-market-rates.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/02/25/student-loan-interest-still-above-market-rates/index.html
+layout: layout.njk
 ---
 Student loan interest still above market rates
 ==============================================

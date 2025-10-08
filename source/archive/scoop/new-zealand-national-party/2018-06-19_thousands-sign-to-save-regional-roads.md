@@ -1,9 +1,12 @@
 ---
 slug: thousands-sign-to-save-regional-roads
-title: "Thousands sign to save regional roads"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/PA1806/S00188/thousands-sign-to-save-regional-roads.htm
+title: Thousands sign to save regional roads
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00188/thousands-sign-to-save-regional-roads.htm
 author: new-zealand-national-party
+permalink: /archive/2018/06/19/thousands-sign-to-save-regional-roads/index.html
+layout: layout.njk
 ---
 Thousands sign to save regional roads
 =====================================

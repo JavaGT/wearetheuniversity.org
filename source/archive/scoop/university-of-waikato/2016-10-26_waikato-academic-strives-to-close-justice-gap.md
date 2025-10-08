@@ -1,9 +1,12 @@
 ---
 slug: waikato-academic-strives-to-close-justice-gap
-title: "Waikato academic strives to close justice gap"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/PO1610/S00360/waikato-academic-strives-to-close-justice-gap.htm
+title: Waikato academic strives to close justice gap
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00360/waikato-academic-strives-to-close-justice-gap.htm
 author: university-of-waikato
+permalink: /archive/2016/10/26/waikato-academic-strives-to-close-justice-gap/index.html
+layout: layout.njk
 ---
 Waikato academic strives to close justice gap
 =============================================

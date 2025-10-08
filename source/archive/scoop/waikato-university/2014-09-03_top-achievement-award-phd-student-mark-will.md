@@ -1,9 +1,12 @@
 ---
 slug: top-achievement-award-phd-student-mark-will
-title: "Top achievement award: PhD student Mark Will"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/ED1409/S00013/top-achievement-award-phd-student-mark-will.htm
+title: 'Top achievement award: PhD student Mark Will'
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00013/top-achievement-award-phd-student-mark-will.htm
 author: waikato-university
+permalink: /archive/2014/09/03/top-achievement-award-phd-student-mark-will/index.html
+layout: layout.njk
 ---
 Top achievement award: PhD student Mark Will
 ============================================

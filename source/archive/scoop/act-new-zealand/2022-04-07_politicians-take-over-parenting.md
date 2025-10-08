@@ -1,9 +1,12 @@
 ---
 slug: politicians-take-over-parenting
-title: "Politicians Take Over Parenting"
-date: 2022-04-07
-source-url: https://www.scoop.co.nz/stories/PA2204/S00061/politicians-take-over-parenting.htm
+title: Politicians Take Over Parenting
+date: 2022-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00061/politicians-take-over-parenting.htm
 author: act-new-zealand
+permalink: /archive/2022/04/07/politicians-take-over-parenting/index.html
+layout: layout.njk
 ---
 Politicians Take Over Parenting
 ===============================

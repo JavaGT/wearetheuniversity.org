@@ -1,9 +1,13 @@
 ---
 slug: redundancy-protection-will-give-families-a-fair-go
-title: "Redundancy Protection Will Give Families A Fair Go"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/PA1211/S00176/redundancy-protection-will-give-families-a-fair-go.htm
+title: Redundancy Protection Will Give Families A Fair Go
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00176/redundancy-protection-will-give-families-a-fair-go.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/11/09/redundancy-protection-will-give-families-a-fair-go/index.html
+layout: layout.njk
 ---
 Redundancy Protection Will Give Families A Fair Go
 ==================================================

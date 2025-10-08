@@ -1,9 +1,13 @@
 ---
 slug: hundreds-of-children-missing-out-on-education-support
-title: "Hundreds of children missing out on education support"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/ED1305/S00015/hundreds-of-children-missing-out-on-education-support.htm
+title: Hundreds of children missing out on education support
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00015/hundreds-of-children-missing-out-on-education-support.htm
 author: nzei
+permalink: >-
+  /archive/2013/05/02/hundreds-of-children-missing-out-on-education-support/index.html
+layout: layout.njk
 ---
 Hundreds of children missing out on education support
 =====================================================

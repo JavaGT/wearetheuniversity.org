@@ -1,9 +1,12 @@
 ---
 slug: speech-by-jeanette-fitzsimons-to-peace-rally
-title: "Speech by Jeanette Fitzsimons to Peace Rally"
-date: 2001-09-21
-source-url: https://www.scoop.co.nz/stories/PA0109/S00359/speech-by-jeanette-fitzsimons-to-peace-rally.htm
+title: Speech by Jeanette Fitzsimons to Peace Rally
+date: 2001-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00359/speech-by-jeanette-fitzsimons-to-peace-rally.htm
 author: green-party
+permalink: /archive/2001/09/21/speech-by-jeanette-fitzsimons-to-peace-rally/index.html
+layout: layout.njk
 ---
 Speech by Jeanette Fitzsimons to Peace Rally
 ============================================

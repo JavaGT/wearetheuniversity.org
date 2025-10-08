@@ -1,9 +1,12 @@
 ---
 slug: lincoln-deficit-less-than-budgeted-figure
-title: "Lincoln deficit less than budgeted figure"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/ED0206/S00033/lincoln-deficit-less-than-budgeted-figure.htm
+title: Lincoln deficit less than budgeted figure
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00033/lincoln-deficit-less-than-budgeted-figure.htm
 author: lincoln-university
+permalink: /archive/2002/06/14/lincoln-deficit-less-than-budgeted-figure/index.html
+layout: layout.njk
 ---
 Lincoln deficit less than budgeted figure
 =========================================

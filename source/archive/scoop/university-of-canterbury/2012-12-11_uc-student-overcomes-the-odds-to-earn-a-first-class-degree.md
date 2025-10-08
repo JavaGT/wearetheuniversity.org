@@ -1,9 +1,13 @@
 ---
 slug: uc-student-overcomes-the-odds-to-earn-a-first-class-degree
-title: "UC student overcomes the odds to earn a first class degree"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/ED1212/S00063/uc-student-overcomes-the-odds-to-earn-a-first-class-degree.htm
+title: UC student overcomes the odds to earn a first class degree
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00063/uc-student-overcomes-the-odds-to-earn-a-first-class-degree.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/11/uc-student-overcomes-the-odds-to-earn-a-first-class-degree/index.html
+layout: layout.njk
 ---
 UC student overcomes the odds to earn a first class degree
 ==========================================================

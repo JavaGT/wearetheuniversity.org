@@ -1,9 +1,12 @@
 ---
 slug: first-university-degree-for-māori-immersion-teachers-welcome
-title: "First university degree for Māori immersion teachers welcome"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/ED1202/S00037/first-university-degree-for-maori-immersion-teachers-welcome.htm
+title: First university degree for Māori immersion teachers welcome
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00037/first-university-degree-for-maori-immersion-teachers-welcome.htm
 author: nzei
+permalink: /archive/2012/02/08/first-university-degree-for-m/index.html
+layout: layout.njk
 ---
 First university degree for Māori immersion teachers welcome
 ============================================================

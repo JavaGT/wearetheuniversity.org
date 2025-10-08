@@ -1,9 +1,13 @@
 ---
 slug: university-staff-delivering-care-for-students-with-covid-19
-title: "University Staff Delivering Care For Students With Covid-19"
-date: 2022-03-25
-source-url: https://www.scoop.co.nz/stories/ED2203/S00032/university-staff-delivering-care-for-students-with-covid-19.htm
+title: University Staff Delivering Care For Students With Covid-19
+date: 2022-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00032/university-staff-delivering-care-for-students-with-covid-19.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/03/25/university-staff-delivering-care-for-students-with-covid-19/index.html
+layout: layout.njk
 ---
 University Staff Delivering Care For Students With Covid-19
 ===========================================================

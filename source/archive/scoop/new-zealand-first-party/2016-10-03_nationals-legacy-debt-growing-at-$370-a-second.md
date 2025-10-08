@@ -1,9 +1,12 @@
 ---
 slug: nationals-legacy-debt-growing-at-$370-a-second
-title: "National’s Legacy – Debt Growing at $370 a Second"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/PA1610/S00024/nationals-legacy-debt-growing-at-370-a-second.htm
+title: National’s Legacy – Debt Growing at $370 a Second
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00024/nationals-legacy-debt-growing-at-370-a-second.htm
 author: new-zealand-first-party
+permalink: /archive/2016/10/03/nationals-legacy-debt-growing-at-/index.html
+layout: layout.njk
 ---
 National’s Legacy – Debt Growing at $370 a Second
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: ed-nurse-shortage-hits-provincial-areas
-title: "ED Nurse Shortage Hits Provincial Areas"
-date: 2022-12-06
-source-url: https://www.scoop.co.nz/stories/PA2212/S00046/ed-nurse-shortage-hits-provincial-areas.htm
+title: ED Nurse Shortage Hits Provincial Areas
+date: 2022-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00046/ed-nurse-shortage-hits-provincial-areas.htm
 author: new-zealand-national-party
+permalink: /archive/2022/12/06/ed-nurse-shortage-hits-provincial-areas/index.html
+layout: layout.njk
 ---
 ED Nurse Shortage Hits Provincial Areas
 =======================================

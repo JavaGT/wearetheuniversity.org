@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-debating-society-great-debate
-title: "Victoria University Debating Society Great Debate"
-date: 2005-02-14
-source-url: https://www.scoop.co.nz/stories/ED0502/S00045/victoria-university-debating-society-great-debate.htm
+title: Victoria University Debating Society Great Debate
+date: 2005-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00045/victoria-university-debating-society-great-debate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/02/14/victoria-university-debating-society-great-debate/index.html
+layout: layout.njk
 ---
 Victoria University Debating Society Great Debate
 =================================================

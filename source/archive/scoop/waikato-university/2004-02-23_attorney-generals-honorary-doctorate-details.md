@@ -1,9 +1,12 @@
 ---
 slug: attorney-generals-honorary-doctorate-details
-title: "Attorney-General’s honorary doctorate details"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/ED0402/S00059/attorney-generals-honorary-doctorate-details.htm
+title: Attorney-General’s honorary doctorate details
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00059/attorney-generals-honorary-doctorate-details.htm
 author: waikato-university
+permalink: /archive/2004/02/23/attorney-generals-honorary-doctorate-details/index.html
+layout: layout.njk
 ---
 Attorney-General’s honorary doctorate details
 =============================================

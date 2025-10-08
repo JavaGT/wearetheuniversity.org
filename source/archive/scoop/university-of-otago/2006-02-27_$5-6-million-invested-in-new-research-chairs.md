@@ -1,9 +1,12 @@
 ---
 slug: $5-6-million-invested-in-new-research-chairs
-title: "$5.6 Million Invested in New Research Chairs"
-date: 2006-02-27
-source-url: https://www.scoop.co.nz/stories/ED0602/S00076/56-million-invested-in-new-research-chairs.htm
+title: $5.6 Million Invested in New Research Chairs
+date: 2006-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00076/56-million-invested-in-new-research-chairs.htm
 author: university-of-otago
+permalink: /archive/2006/02/27/5-6-million-invested-in-new-research-chairs/index.html
+layout: layout.njk
 ---
 $5.6 Million Invested in New Research Chairs
 ============================================

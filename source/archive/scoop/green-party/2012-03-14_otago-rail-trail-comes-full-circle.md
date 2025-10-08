@@ -1,9 +1,12 @@
 ---
 slug: otago-rail-trail-comes-full-circle
-title: "Otago Rail Trail comes full circle"
-date: 2012-03-14
-source-url: https://www.scoop.co.nz/stories/PA1203/S00186/otago-rail-trail-comes-full-circle.htm
+title: Otago Rail Trail comes full circle
+date: 2012-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00186/otago-rail-trail-comes-full-circle.htm
 author: green-party
+permalink: /archive/2012/03/14/otago-rail-trail-comes-full-circle/index.html
+layout: layout.njk
 ---
 Otago Rail Trail comes full circle
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: university-unions-confident-of-strong-support
-title: "University unions confident of strong support"
-date: 2002-09-02
-source-url: https://www.scoop.co.nz/stories/ED0209/S00001/university-unions-confident-of-strong-support.htm
+title: University unions confident of strong support
+date: 2002-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00001/university-unions-confident-of-strong-support.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/02/university-unions-confident-of-strong-support/index.html
+layout: layout.njk
 ---
 University unions confident of strong support
 =============================================

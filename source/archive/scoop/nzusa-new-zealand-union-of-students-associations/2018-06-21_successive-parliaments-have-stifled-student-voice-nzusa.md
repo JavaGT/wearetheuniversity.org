@@ -1,9 +1,13 @@
 ---
 slug: successive-parliaments-have-stifled-student-voice-nzusa
-title: "‘Successive parliaments have stifled student voice’ – NZUSA"
-date: 2018-06-21
-source-url: https://www.scoop.co.nz/stories/PO1806/S00239/successive-parliaments-have-stifled-student-voice-nzusa.htm
+title: ‘Successive parliaments have stifled student voice’ – NZUSA
+date: 2018-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00239/successive-parliaments-have-stifled-student-voice-nzusa.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2018/06/21/successive-parliaments-have-stifled-student-voice-nzusa/index.html
+layout: layout.njk
 ---
 ‘Successive parliaments have stifled student voice’ – NZUSA
 ===========================================================

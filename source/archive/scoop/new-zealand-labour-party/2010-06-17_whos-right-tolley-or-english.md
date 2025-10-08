@@ -1,9 +1,11 @@
 ---
 slug: whos-right-tolley-or-english
-title: "Who’s right: Tolley or English?"
-date: 2010-06-17
+title: 'Who’s right: Tolley or English?'
+date: 2010-06-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1006/S00269/whos-right-tolley-or-english.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/17/whos-right-tolley-or-english/index.html
+layout: layout.njk
 ---
 Who’s right: Tolley or English?
 ===============================

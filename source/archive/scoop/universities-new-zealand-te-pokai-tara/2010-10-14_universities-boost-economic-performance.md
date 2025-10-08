@@ -1,9 +1,12 @@
 ---
 slug: universities-boost-economic-performance
-title: "Universities Boost Economic Performance"
-date: 2010-10-14
-source-url: https://www.scoop.co.nz/stories/ED1010/S00051/universities-boost-economic-performance.htm
+title: Universities Boost Economic Performance
+date: 2010-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00051/universities-boost-economic-performance.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2010/10/14/universities-boost-economic-performance/index.html
+layout: layout.njk
 ---
 Universities Boost Economic Performance
 =======================================

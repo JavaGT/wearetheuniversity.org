@@ -1,9 +1,12 @@
 ---
 slug: national-set-to-raise-gp-fees
-title: "National set to raise GP fees?"
-date: 2010-01-27
-source-url: https://www.scoop.co.nz/stories/PA1001/S00114/national-set-to-raise-gp-fees.htm
+title: National set to raise GP fees?
+date: 2010-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00114/national-set-to-raise-gp-fees.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/27/national-set-to-raise-gp-fees/index.html
+layout: layout.njk
 ---
 National set to raise GP fees?
 ==============================

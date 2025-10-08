@@ -1,9 +1,12 @@
 ---
 slug: consumer-outlook-gloomy-as-govt-forgets-workers
-title: "Consumer Outlook Gloomy As Govt Forgets Workers"
-date: 2023-03-31
-source-url: https://www.scoop.co.nz/stories/PA2303/S00272/consumer-outlook-gloomy-as-govt-forgets-workers.htm
+title: Consumer Outlook Gloomy As Govt Forgets Workers
+date: 2023-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00272/consumer-outlook-gloomy-as-govt-forgets-workers.htm
 author: act-new-zealand
+permalink: /archive/2023/03/31/consumer-outlook-gloomy-as-govt-forgets-workers/index.html
+layout: layout.njk
 ---
 Consumer Outlook Gloomy As Govt Forgets Workers
 ===============================================

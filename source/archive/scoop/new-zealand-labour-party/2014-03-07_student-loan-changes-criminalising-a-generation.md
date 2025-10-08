@@ -1,9 +1,12 @@
 ---
 slug: student-loan-changes-criminalising-a-generation
-title: "Student loan changes criminalising a generation"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/PA1403/S00127/student-loan-changes-criminalising-a-generation.htm
+title: Student loan changes criminalising a generation
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00127/student-loan-changes-criminalising-a-generation.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/07/student-loan-changes-criminalising-a-generation/index.html
+layout: layout.njk
 ---
 Student loan changes criminalising a generation
 ===============================================

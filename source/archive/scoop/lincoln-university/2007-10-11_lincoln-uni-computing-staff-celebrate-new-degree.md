@@ -1,9 +1,13 @@
 ---
 slug: lincoln-uni-computing-staff-celebrate-new-degree
-title: "Lincoln Uni. Computing Staff Celebrate New Degree"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/SC0710/S00016/lincoln-uni-computing-staff-celebrate-new-degree.htm
+title: Lincoln Uni. Computing Staff Celebrate New Degree
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0710/S00016/lincoln-uni-computing-staff-celebrate-new-degree.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/10/11/lincoln-uni-computing-staff-celebrate-new-degree/index.html
+layout: layout.njk
 ---
 Lincoln Uni. Computing Staff Celebrate New Degree
 =================================================

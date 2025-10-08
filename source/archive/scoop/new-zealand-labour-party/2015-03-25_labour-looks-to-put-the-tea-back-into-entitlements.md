@@ -1,9 +1,13 @@
 ---
 slug: labour-looks-to-put-the-tea-back-into-entitlements
-title: "Labour looks to put the tea back into entitlements"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/PA1503/S00370/labour-looks-to-put-the-tea-back-into-entitlements.htm
+title: Labour looks to put the tea back into entitlements
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00370/labour-looks-to-put-the-tea-back-into-entitlements.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/03/25/labour-looks-to-put-the-tea-back-into-entitlements/index.html
+layout: layout.njk
 ---
 Labour looks to put the tea back into entitlements
 ==================================================

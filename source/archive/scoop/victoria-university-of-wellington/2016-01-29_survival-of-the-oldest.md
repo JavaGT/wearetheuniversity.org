@@ -1,9 +1,11 @@
 ---
 slug: survival-of-the-oldest
-title: "Survival of the oldest"
-date: 2016-01-29
+title: Survival of the oldest
+date: 2016-01-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1601/S00063/survival-of-the-oldest.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/01/29/survival-of-the-oldest/index.html
+layout: layout.njk
 ---
 Survival of the oldest
 ======================

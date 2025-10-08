@@ -1,9 +1,12 @@
 ---
 slug: government-slams-door-on-seniors
-title: "Government slams door on seniors"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/PA1104/S00382/government-slams-door-on-seniors.htm
+title: Government slams door on seniors
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00382/government-slams-door-on-seniors.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/18/government-slams-door-on-seniors/index.html
+layout: layout.njk
 ---
 Government slams door on seniors
 ================================

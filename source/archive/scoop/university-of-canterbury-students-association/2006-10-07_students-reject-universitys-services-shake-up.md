@@ -1,9 +1,12 @@
 ---
 slug: students-reject-universitys-services-shake-up
-title: "Students Reject University’s Services Shake-up"
-date: 2006-10-07
-source-url: https://www.scoop.co.nz/stories/ED0610/S00024/students-reject-universitys-services-shake-up.htm
+title: Students Reject University’s Services Shake-up
+date: 2006-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00024/students-reject-universitys-services-shake-up.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2006/10/07/students-reject-universitys-services-shake-up/index.html
+layout: layout.njk
 ---
 Students Reject University’s Services Shake-up
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: sending-your-children-to-school-is-as-safe-as-its-ever-been
-title: "Sending Your Children To School Is As Safe As It’s Ever Been"
-date: 2020-04-27
-source-url: https://www.scoop.co.nz/stories/GE2004/S00219/sending-your-children-to-school-is-as-safe-as-its-ever-been.htm
+title: Sending Your Children To School Is As Safe As It’s Ever Been
+date: 2020-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2004/S00219/sending-your-children-to-school-is-as-safe-as-its-ever-been.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/04/27/sending-your-children-to-school-is-as-safe-as-its-ever-been/index.html
+layout: layout.njk
 ---
 Sending Your Children To School Is As Safe As It’s Ever Been
 ============================================================

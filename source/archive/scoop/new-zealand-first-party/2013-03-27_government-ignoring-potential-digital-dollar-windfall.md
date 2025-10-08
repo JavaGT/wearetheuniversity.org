@@ -1,9 +1,13 @@
 ---
 slug: government-ignoring-potential-digital-dollar-windfall
-title: "Government Ignoring Potential Digital Dollar Windfall"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/PA1303/S00464/government-ignoring-potential-digital-dollar-windfall.htm
+title: Government Ignoring Potential Digital Dollar Windfall
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00464/government-ignoring-potential-digital-dollar-windfall.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/27/government-ignoring-potential-digital-dollar-windfall/index.html
+layout: layout.njk
 ---
 Government Ignoring Potential Digital Dollar Windfall
 =====================================================

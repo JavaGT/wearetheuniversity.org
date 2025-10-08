@@ -1,9 +1,13 @@
 ---
 slug: guest-uk-scriptwriter-at-institute-of-modern-letters
-title: "Guest UK scriptwriter at Institute of Modern Letters"
-date: 2013-11-06
-source-url: https://www.scoop.co.nz/stories/ED1311/S00046/guest-uk-scriptwriter-at-institute-of-modern-letters.htm
+title: Guest UK scriptwriter at Institute of Modern Letters
+date: 2013-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00046/guest-uk-scriptwriter-at-institute-of-modern-letters.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/11/06/guest-uk-scriptwriter-at-institute-of-modern-letters/index.html
+layout: layout.njk
 ---
 Guest UK scriptwriter at Institute of Modern Letters
 ====================================================

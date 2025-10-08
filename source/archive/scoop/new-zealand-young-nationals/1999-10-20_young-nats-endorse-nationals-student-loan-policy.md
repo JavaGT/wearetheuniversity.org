@@ -1,9 +1,13 @@
 ---
 slug: young-nats-endorse-nationals-student-loan-policy
-title: "Young Nats endorse National's student loan policy"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/ED9910/S00054/young-nats-endorse-nationals-student-loan-policy.htm
+title: Young Nats endorse National's student loan policy
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00054/young-nats-endorse-nationals-student-loan-policy.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/1999/10/20/young-nats-endorse-nationals-student-loan-policy/index.html
+layout: layout.njk
 ---
 Young Nats endorse National's student loan policy
 =================================================

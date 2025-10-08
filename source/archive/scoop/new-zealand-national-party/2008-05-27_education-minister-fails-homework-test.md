@@ -1,9 +1,12 @@
 ---
 slug: education-minister-fails-homework-test
-title: "Education Minister fails homework test"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/PA0805/S00541/education-minister-fails-homework-test.htm
+title: Education Minister fails homework test
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00541/education-minister-fails-homework-test.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/27/education-minister-fails-homework-test/index.html
+layout: layout.njk
 ---
 Education Minister fails homework test
 ======================================

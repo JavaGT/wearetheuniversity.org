@@ -1,8 +1,12 @@
 ---
 slug: essential-book-about-sustainability-and-resilience-launched
-title: "Essential book about sustainability and resilience launched"
-date: 2017-05-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/essential-book-about-sustainability-and-resilience-launched.html
+title: Essential book about sustainability and resilience launched
+date: 2017-05-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/essential-book-about-sustainability-and-resilience-launched.html
+permalink: >-
+  /archive/2017/05/26/essential-book-about-sustainability-and-resilience-launched/index.html
+layout: layout.njk
 ---
 Essential book about sustainability and resilience launched
 ===========================================================

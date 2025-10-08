@@ -1,9 +1,13 @@
 ---
 slug: resourced-icu-beds-have-no-ventilators-in-three-dhbs
-title: "‘Resourced’ ICU Beds Have No Ventilators In Three DHBs"
-date: 2021-11-23
-source-url: https://www.scoop.co.nz/stories/PA2111/S00251/resourced-icu-beds-have-no-ventilators-in-three-dhbs.htm
+title: ‘Resourced’ ICU Beds Have No Ventilators In Three DHBs
+date: 2021-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00251/resourced-icu-beds-have-no-ventilators-in-three-dhbs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/23/resourced-icu-beds-have-no-ventilators-in-three-dhbs/index.html
+layout: layout.njk
 ---
 ‘Resourced’ ICU Beds Have No Ventilators In Three DHBs
 ======================================================

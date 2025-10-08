@@ -1,9 +1,16 @@
 ---
-slug: leading-u-s-social-work-scholars-explore-aotearoa-|-nzs-social-innovation-and-social-entrepreneurship-ecosystem
-title: "Leading U.S. Social Work Scholars Explore Aotearoa | NZ’s Social Innovation And Social Entrepreneurship Ecosystem"
-date: 2024-03-21
-source-url: https://www.scoop.co.nz/stories/ED2403/S00034/leading-us-social-work-scholars-explore-aotearoa-nzs-social-innovation-and-social-entrepreneurship-ecosystem.htm
+slug: >-
+  leading-u-s-social-work-scholars-explore-aotearoa-|-nzs-social-innovation-and-social-entrepreneurship-ecosystem
+title: >-
+  Leading U.S. Social Work Scholars Explore Aotearoa | NZ’s Social Innovation
+  And Social Entrepreneurship Ecosystem
+date: 2024-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2403/S00034/leading-us-social-work-scholars-explore-aotearoa-nzs-social-innovation-and-social-entrepreneurship-ecosystem.htm
 author: university-of-otago
+permalink: >-
+  /archive/2024/03/21/leading-u-s-social-work-scholars-explore-aotearoa-/index.html
+layout: layout.njk
 ---
 Leading U.S. Social Work Scholars Explore Aotearoa | NZ’s Social Innovation And Social Entrepreneurship Ecosystem
 =================================================================================================================

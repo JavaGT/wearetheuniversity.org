@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-women-targeted-by-tobacco-companies
-title: "New Zealand women targeted by tobacco companies"
-date: 2010-05-28
-source-url: https://www.scoop.co.nz/stories/ED1005/S00134/new-zealand-women-targeted-by-tobacco-companies.htm
+title: New Zealand women targeted by tobacco companies
+date: 2010-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00134/new-zealand-women-targeted-by-tobacco-companies.htm
 author: university-of-otago
+permalink: /archive/2010/05/28/new-zealand-women-targeted-by-tobacco-companies/index.html
+layout: layout.njk
 ---
 New Zealand women targeted by tobacco companies
 ===============================================

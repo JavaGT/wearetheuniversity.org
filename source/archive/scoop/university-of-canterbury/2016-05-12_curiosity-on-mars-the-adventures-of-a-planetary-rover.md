@@ -1,9 +1,13 @@
 ---
 slug: curiosity-on-mars-the-adventures-of-a-planetary-rover
-title: "Curiosity on Mars - The Adventures of a Planetary Rover"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/SC1605/S00026/curiosity-on-mars-the-adventures-of-a-planetary-rover.htm
+title: Curiosity on Mars - The Adventures of a Planetary Rover
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00026/curiosity-on-mars-the-adventures-of-a-planetary-rover.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/12/curiosity-on-mars-the-adventures-of-a-planetary-rover/index.html
+layout: layout.njk
 ---
 Curiosity on Mars - The Adventures of a Planetary Rover
 =======================================================

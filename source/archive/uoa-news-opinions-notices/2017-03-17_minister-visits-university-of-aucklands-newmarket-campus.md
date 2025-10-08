@@ -1,8 +1,12 @@
 ---
 slug: minister-visits-university-of-aucklands-newmarket-campus
-title: "Minister visits University of Auckland’s Newmarket campus"
-date: 2017-03-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/minister-visits-university-of-aucklands-newmarket-campus.html
+title: Minister visits University of Auckland’s Newmarket campus
+date: 2017-03-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/minister-visits-university-of-aucklands-newmarket-campus.html
+permalink: >-
+  /archive/2017/03/17/minister-visits-university-of-aucklands-newmarket-campus/index.html
+layout: layout.njk
 ---
 Minister visits University of Auckland’s Newmarket campus
 =========================================================

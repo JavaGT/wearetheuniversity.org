@@ -1,9 +1,12 @@
 ---
 slug: govt-wants-schools-to-police-parents
-title: "Govt Wants Schools To Police Parents"
-date: 2001-08-15
-source-url: https://www.scoop.co.nz/stories/PA0108/S00314/govt-wants-schools-to-police-parents.htm
+title: Govt Wants Schools To Police Parents
+date: 2001-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00314/govt-wants-schools-to-police-parents.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/15/govt-wants-schools-to-police-parents/index.html
+layout: layout.njk
 ---
 Govt Wants Schools To Police Parents
 ====================================

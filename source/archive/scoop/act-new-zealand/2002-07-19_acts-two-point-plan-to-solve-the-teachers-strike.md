@@ -1,9 +1,13 @@
 ---
 slug: acts-two-point-plan-to-solve-the-teachers-strike
-title: "ACT'S Two-Point Plan to Solve the Teachers' Strike"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/PA0207/S00546/acts-two-point-plan-to-solve-the-teachers-strike.htm
+title: ACT'S Two-Point Plan to Solve the Teachers' Strike
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00546/acts-two-point-plan-to-solve-the-teachers-strike.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/07/19/acts-two-point-plan-to-solve-the-teachers-strike/index.html
+layout: layout.njk
 ---
 ACT'S Two-Point Plan to Solve the Teachers' Strike
 ==================================================

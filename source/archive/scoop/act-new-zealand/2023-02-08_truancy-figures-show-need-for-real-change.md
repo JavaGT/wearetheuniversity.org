@@ -1,9 +1,12 @@
 ---
 slug: truancy-figures-show-need-for-real-change
-title: "Truancy Figures Show Need For Real Change"
-date: 2023-02-08
-source-url: https://www.scoop.co.nz/stories/PA2302/S00044/truancy-figures-show-need-for-real-change.htm
+title: Truancy Figures Show Need For Real Change
+date: 2023-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00044/truancy-figures-show-need-for-real-change.htm
 author: act-new-zealand
+permalink: /archive/2023/02/08/truancy-figures-show-need-for-real-change/index.html
+layout: layout.njk
 ---
 Truancy Figures Show Need For Real Change
 =========================================

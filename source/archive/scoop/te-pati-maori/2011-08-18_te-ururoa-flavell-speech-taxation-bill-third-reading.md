@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-speech-taxation-bill-third-reading
-title: "Te Ururoa Flavell Speech: Taxation Bill Third Reading"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00370/te-ururoa-flavell-speech-taxation-bill-third-reading.htm
+title: 'Te Ururoa Flavell Speech: Taxation Bill Third Reading'
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00370/te-ururoa-flavell-speech-taxation-bill-third-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/08/18/te-ururoa-flavell-speech-taxation-bill-third-reading/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell Speech: Taxation Bill Third Reading
 =====================================================

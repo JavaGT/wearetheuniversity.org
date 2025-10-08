@@ -1,9 +1,12 @@
 ---
 slug: get-on-with-minerals-decision
-title: "Get On With Minerals Decision"
-date: 2000-07-14
-source-url: https://www.scoop.co.nz/stories/PA0007/S00236/get-on-with-minerals-decision.htm
+title: Get On With Minerals Decision
+date: 2000-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00236/get-on-with-minerals-decision.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/14/get-on-with-minerals-decision/index.html
+layout: layout.njk
 ---
 Get On With Minerals Decision
 =============================

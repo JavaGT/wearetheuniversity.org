@@ -1,9 +1,12 @@
 ---
 slug: aspire-students-begin-journey-to-success
-title: "Aspire Students Begin Journey To Success"
-date: 2010-02-01
-source-url: https://www.scoop.co.nz/stories/PA1002/S00014/aspire-students-begin-journey-to-success.htm
+title: Aspire Students Begin Journey To Success
+date: 2010-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00014/aspire-students-begin-journey-to-success.htm
 author: act-new-zealand
+permalink: /archive/2010/02/01/aspire-students-begin-journey-to-success/index.html
+layout: layout.njk
 ---
 Aspire Students Begin Journey To Success
 ========================================

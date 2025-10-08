@@ -1,9 +1,12 @@
 ---
 slug: pm-must-read-letter-about-david-carter
-title: "PM must read letter about David Carter"
-date: 2010-04-08
-source-url: https://www.scoop.co.nz/stories/PA1004/S00065/pm-must-read-letter-about-david-carter.htm
+title: PM must read letter about David Carter
+date: 2010-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00065/pm-must-read-letter-about-david-carter.htm
 author: green-party
+permalink: /archive/2010/04/08/pm-must-read-letter-about-david-carter/index.html
+layout: layout.njk
 ---
 PM must read letter about David Carter
 ======================================

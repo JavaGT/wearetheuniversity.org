@@ -1,9 +1,12 @@
 ---
 slug: little-value-placed-on-university-education
-title: "Little value placed on university education"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/ED0305/S00049/little-value-placed-on-university-education.htm
+title: Little value placed on university education
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00049/little-value-placed-on-university-education.htm
 author: association-of-university-staff
+permalink: /archive/2003/05/15/little-value-placed-on-university-education/index.html
+layout: layout.njk
 ---
 Little value placed on university education
 ===========================================

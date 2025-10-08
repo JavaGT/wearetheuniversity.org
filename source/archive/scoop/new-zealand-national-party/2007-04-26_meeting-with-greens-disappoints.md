@@ -1,9 +1,12 @@
 ---
 slug: meeting-with-greens-disappoints
-title: "Meeting with Greens disappoints"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/PA0704/S00430/meeting-with-greens-disappoints.htm
+title: Meeting with Greens disappoints
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00430/meeting-with-greens-disappoints.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/26/meeting-with-greens-disappoints/index.html
+layout: layout.njk
 ---
 Meeting with Greens disappoints
 ===============================

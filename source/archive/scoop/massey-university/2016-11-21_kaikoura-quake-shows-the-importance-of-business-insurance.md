@@ -1,9 +1,13 @@
 ---
 slug: kaikoura-quake-shows-the-importance-of-business-insurance
-title: "Kaikoura Quake Shows the Importance of Business Insurance"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/BU1611/S00811/kaikoura-quake-shows-the-importance-of-business-insurance.htm
+title: Kaikoura Quake Shows the Importance of Business Insurance
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1611/S00811/kaikoura-quake-shows-the-importance-of-business-insurance.htm
 author: massey-university
+permalink: >-
+  /archive/2016/11/21/kaikoura-quake-shows-the-importance-of-business-insurance/index.html
+layout: layout.njk
 ---
 Kaikoura Quake Shows the Importance of Business Insurance
 =========================================================

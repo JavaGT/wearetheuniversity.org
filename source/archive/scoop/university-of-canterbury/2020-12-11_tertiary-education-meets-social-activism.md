@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-meets-social-activism
-title: "Tertiary education meets social activism"
-date: 2020-12-11
-source-url: https://www.scoop.co.nz/stories/PO2012/S00107/tertiary-education-meets-social-activism.htm
+title: Tertiary education meets social activism
+date: 2020-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2012/S00107/tertiary-education-meets-social-activism.htm
 author: university-of-canterbury
+permalink: /archive/2020/12/11/tertiary-education-meets-social-activism/index.html
+layout: layout.njk
 ---
 Tertiary education meets social activism
 ========================================

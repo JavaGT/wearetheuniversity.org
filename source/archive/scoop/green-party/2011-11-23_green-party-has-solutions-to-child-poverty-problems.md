@@ -1,9 +1,13 @@
 ---
 slug: green-party-has-solutions-to-child-poverty-problems
-title: "Green Party has solutions to child poverty problems"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PA1111/S00454/green-party-has-solutions-to-child-poverty-problems.htm
+title: Green Party has solutions to child poverty problems
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00454/green-party-has-solutions-to-child-poverty-problems.htm
 author: green-party
+permalink: >-
+  /archive/2011/11/23/green-party-has-solutions-to-child-poverty-problems/index.html
+layout: layout.njk
 ---
 Green Party has solutions to child poverty problems
 ===================================================

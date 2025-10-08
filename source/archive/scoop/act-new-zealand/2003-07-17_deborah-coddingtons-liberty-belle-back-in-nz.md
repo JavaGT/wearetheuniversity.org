@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddingtons-liberty-belle-back-in-nz
-title: "Deborah Coddington's Liberty Belle Back In NZ"
-date: 2003-07-17
-source-url: https://www.scoop.co.nz/stories/PA0307/S00317/deborah-coddingtons-liberty-belle-back-in-nz.htm
+title: Deborah Coddington's Liberty Belle Back In NZ
+date: 2003-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00317/deborah-coddingtons-liberty-belle-back-in-nz.htm
 author: act-new-zealand
+permalink: /archive/2003/07/17/deborah-coddingtons-liberty-belle-back-in-nz/index.html
+layout: layout.njk
 ---
 Deborah Coddington's Liberty Belle Back In NZ
 =============================================

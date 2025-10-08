@@ -1,9 +1,12 @@
 ---
 slug: lockouts-no-longer-last-resort
-title: "Lockouts No Longer Last Resort"
-date: 2012-04-05
-source-url: https://www.scoop.co.nz/stories/PO1204/S00079/lockouts-no-longer-last-resort.htm
+title: Lockouts No Longer Last Resort
+date: 2012-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00079/lockouts-no-longer-last-resort.htm
 author: massey-university
+permalink: /archive/2012/04/05/lockouts-no-longer-last-resort/index.html
+layout: layout.njk
 ---
 Lockouts No Longer Last Resort
 ==============================

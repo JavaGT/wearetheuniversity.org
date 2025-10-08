@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-graduate-microsofts-cfo
-title: "Auckland University graduate Microsoft’s CFO"
-date: 2005-04-27
-source-url: https://www.scoop.co.nz/stories/ED0504/S00083/auckland-university-graduate-microsofts-cfo.htm
+title: Auckland University graduate Microsoft’s CFO
+date: 2005-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00083/auckland-university-graduate-microsofts-cfo.htm
 author: auckland-university
+permalink: /archive/2005/04/27/auckland-university-graduate-microsofts-cfo/index.html
+layout: layout.njk
 ---
 Auckland University graduate Microsoft’s CFO
 ============================================

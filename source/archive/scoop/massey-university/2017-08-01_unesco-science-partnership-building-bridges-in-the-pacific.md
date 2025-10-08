@@ -1,9 +1,13 @@
 ---
 slug: unesco-science-partnership-building-bridges-in-the-pacific
-title: "UNESCO science partnership building bridges in the Pacific"
-date: 2017-08-01
-source-url: https://www.scoop.co.nz/stories/SC1708/S00006/unesco-science-partnership-building-bridges-in-the-pacific.htm
+title: UNESCO science partnership building bridges in the Pacific
+date: 2017-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00006/unesco-science-partnership-building-bridges-in-the-pacific.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/01/unesco-science-partnership-building-bridges-in-the-pacific/index.html
+layout: layout.njk
 ---
 UNESCO science partnership building bridges in the Pacific
 ==========================================================

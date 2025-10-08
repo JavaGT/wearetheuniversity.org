@@ -1,9 +1,12 @@
 ---
 slug: hodgson-uses-misleading-breast-cancer-stats
-title: "Hodgson uses misleading breast cancer stats"
-date: 2007-03-12
-source-url: https://www.scoop.co.nz/stories/PA0703/S00211/hodgson-uses-misleading-breast-cancer-stats.htm
+title: Hodgson uses misleading breast cancer stats
+date: 2007-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00211/hodgson-uses-misleading-breast-cancer-stats.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/12/hodgson-uses-misleading-breast-cancer-stats/index.html
+layout: layout.njk
 ---
 Hodgson uses misleading breast cancer stats
 ===========================================

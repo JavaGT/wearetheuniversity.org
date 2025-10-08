@@ -1,9 +1,12 @@
 ---
 slug: charter-school-experiment-must-stop
-title: "Charter school experiment must stop"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PA1512/S00360/charter-school-experiment-must-stop.htm
+title: Charter school experiment must stop
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00360/charter-school-experiment-must-stop.htm
 author: green-party
+permalink: /archive/2015/12/16/charter-school-experiment-must-stop/index.html
+layout: layout.njk
 ---
 Charter school experiment must stop
 ===================================

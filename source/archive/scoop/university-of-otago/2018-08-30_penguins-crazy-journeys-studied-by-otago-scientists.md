@@ -1,9 +1,13 @@
 ---
 slug: penguins-crazy-journeys-studied-by-otago-scientists
-title: "Penguins’ \"crazy\" journeys studied by Otago scientists"
-date: 2018-08-30
-source-url: https://www.scoop.co.nz/stories/SC1808/S00053/penguins-crazy-journeys-studied-by-otago-scientists.htm
+title: Penguins’ "crazy" journeys studied by Otago scientists
+date: 2018-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00053/penguins-crazy-journeys-studied-by-otago-scientists.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/30/penguins-crazy-journeys-studied-by-otago-scientists/index.html
+layout: layout.njk
 ---
 Penguins’ “crazy” journeys studied by Otago scientists
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: sad-day-for-canterbury-manufacturing
-title: "Sad day for Canterbury manufacturing"
-date: 2007-04-04
-source-url: https://www.scoop.co.nz/stories/PA0704/S00113/sad-day-for-canterbury-manufacturing.htm
+title: Sad day for Canterbury manufacturing
+date: 2007-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00113/sad-day-for-canterbury-manufacturing.htm
 author: green-party
+permalink: /archive/2007/04/04/sad-day-for-canterbury-manufacturing/index.html
+layout: layout.njk
 ---
 Sad day for Canterbury manufacturing
 ====================================

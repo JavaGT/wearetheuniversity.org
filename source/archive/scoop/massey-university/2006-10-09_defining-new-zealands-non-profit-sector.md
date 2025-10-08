@@ -1,9 +1,12 @@
 ---
 slug: defining-new-zealands-non-profit-sector
-title: "Defining New Zealand’s non-profit sector"
-date: 2006-10-09
-source-url: https://www.scoop.co.nz/stories/ED0610/S00030/defining-new-zealands-non-profit-sector.htm
+title: Defining New Zealand’s non-profit sector
+date: 2006-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00030/defining-new-zealands-non-profit-sector.htm
 author: massey-university
+permalink: /archive/2006/10/09/defining-new-zealands-non-profit-sector/index.html
+layout: layout.njk
 ---
 Defining New Zealand’s non-profit sector
 ========================================

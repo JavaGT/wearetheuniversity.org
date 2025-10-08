@@ -1,9 +1,12 @@
 ---
 slug: lincoln-medal-for-former-secretary-of-labour
-title: "Lincoln medal for former Secretary of Labour"
-date: 2004-04-21
-source-url: https://www.scoop.co.nz/stories/ED0404/S00072/lincoln-medal-for-former-secretary-of-labour.htm
+title: Lincoln medal for former Secretary of Labour
+date: 2004-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00072/lincoln-medal-for-former-secretary-of-labour.htm
 author: lincoln-university
+permalink: /archive/2004/04/21/lincoln-medal-for-former-secretary-of-labour/index.html
+layout: layout.njk
 ---
 Lincoln medal for former Secretary of Labour
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-researcher-authors-who-report
-title: "Auckland University researcher authors  WHO report"
-date: 2002-10-21
-source-url: https://www.scoop.co.nz/stories/ED0210/S00052/auckland-university-researcher-authors-who-report.htm
+title: Auckland University researcher authors  WHO report
+date: 2002-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00052/auckland-university-researcher-authors-who-report.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/10/21/auckland-university-researcher-authors-who-report/index.html
+layout: layout.njk
 ---
 Auckland University researcher authors WHO report
 =================================================

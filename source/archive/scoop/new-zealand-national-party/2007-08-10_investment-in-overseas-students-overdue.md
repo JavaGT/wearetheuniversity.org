@@ -1,9 +1,12 @@
 ---
 slug: investment-in-overseas-students-overdue
-title: "Investment in overseas students overdue"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/PA0708/S00191/investment-in-overseas-students-overdue.htm
+title: Investment in overseas students overdue
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00191/investment-in-overseas-students-overdue.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/10/investment-in-overseas-students-overdue/index.html
+layout: layout.njk
 ---
 Investment in overseas students overdue
 =======================================

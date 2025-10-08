@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-must-investigate-$30000-nexus-payout
-title: "Waikato Uni Must Investigate $30,000 Nexus Payout"
-date: 2003-03-18
-source-url: https://www.scoop.co.nz/stories/ED0303/S00031/waikato-uni-must-investigate-30000-nexus-payout.htm
+title: Waikato Uni Must Investigate $30,000 Nexus Payout
+date: 2003-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00031/waikato-uni-must-investigate-30000-nexus-payout.htm
 author: student-choice
+permalink: /archive/2003/03/18/waikato-uni-must-investigate-/index.html
+layout: layout.njk
 ---
 Waikato Uni Must Investigate $30,000 Nexus Payout
 =================================================

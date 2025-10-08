@@ -1,9 +1,12 @@
 ---
 slug: mp-says-massey-paper-release-disturbing
-title: "MP Says Massey Paper Release Disturbing"
-date: 2008-05-21
-source-url: https://www.scoop.co.nz/stories/PA0805/S00365/mp-says-massey-paper-release-disturbing.htm
+title: MP Says Massey Paper Release Disturbing
+date: 2008-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00365/mp-says-massey-paper-release-disturbing.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/05/21/mp-says-massey-paper-release-disturbing/index.html
+layout: layout.njk
 ---
 MP Says Massey Paper Release Disturbing
 =======================================

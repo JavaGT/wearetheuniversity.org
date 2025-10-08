@@ -1,9 +1,12 @@
 ---
 slug: ending-child-abuse-may-take-three-generations
-title: "Ending child abuse may take three generations"
-date: 2007-08-03
-source-url: https://www.scoop.co.nz/stories/ED0708/S00006/ending-child-abuse-may-take-three-generations.htm
+title: Ending child abuse may take three generations
+date: 2007-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00006/ending-child-abuse-may-take-three-generations.htm
 author: massey-university
+permalink: /archive/2007/08/03/ending-child-abuse-may-take-three-generations/index.html
+layout: layout.njk
 ---
 Ending child abuse may take three generations
 =============================================

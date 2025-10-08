@@ -1,9 +1,12 @@
 ---
 slug: greens-propose-wreck-refund-on-cars
-title: "Greens propose 'wreck refund' on cars"
-date: 2003-10-06
-source-url: https://www.scoop.co.nz/stories/PA0310/S00095/greens-propose-wreck-refund-on-cars.htm
+title: Greens propose 'wreck refund' on cars
+date: 2003-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00095/greens-propose-wreck-refund-on-cars.htm
 author: green-party
+permalink: /archive/2003/10/06/greens-propose-wreck-refund-on-cars/index.html
+layout: layout.njk
 ---
 Greens propose 'wreck refund' on cars
 =====================================

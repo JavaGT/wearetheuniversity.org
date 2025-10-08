@@ -1,9 +1,12 @@
 ---
 slug: increase-of-confidence-for-māori
-title: "Increase of confidence for Māori"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/ED0610/S00079/increase-of-confidence-for-maori.htm
+title: Increase of confidence for Māori
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00079/increase-of-confidence-for-maori.htm
 author: association-of-university-staff
+permalink: /archive/2006/10/19/increase-of-confidence-for-m/index.html
+layout: layout.njk
 ---
 Increase of confidence for Māori
 ================================

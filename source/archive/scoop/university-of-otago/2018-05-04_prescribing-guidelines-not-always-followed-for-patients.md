@@ -1,9 +1,13 @@
 ---
 slug: prescribing-guidelines-not-always-followed-for-patients
-title: "Prescribing guidelines not always followed for patients"
-date: 2018-05-04
-source-url: https://www.scoop.co.nz/stories/GE1805/S00024/prescribing-guidelines-not-always-followed-for-patients.htm
+title: Prescribing guidelines not always followed for patients
+date: 2018-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00024/prescribing-guidelines-not-always-followed-for-patients.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/04/prescribing-guidelines-not-always-followed-for-patients/index.html
+layout: layout.njk
 ---
 Prescribing guidelines not always followed for patients
 =======================================================

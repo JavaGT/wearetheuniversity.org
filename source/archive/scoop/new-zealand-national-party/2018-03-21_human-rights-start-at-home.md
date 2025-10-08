@@ -1,9 +1,11 @@
 ---
 slug: human-rights-start-at-home
-title: "Human Rights start at home"
-date: 2018-03-21
+title: Human Rights start at home
+date: 2018-03-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1803/S00226/human-rights-start-at-home.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/21/human-rights-start-at-home/index.html
+layout: layout.njk
 ---
 Human Rights start at home
 ==========================

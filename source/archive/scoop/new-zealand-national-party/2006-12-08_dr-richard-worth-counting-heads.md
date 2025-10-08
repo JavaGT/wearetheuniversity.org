@@ -1,9 +1,12 @@
 ---
 slug: dr-richard-worth-counting-heads
-title: "Dr Richard Worth - Counting heads"
-date: 2006-12-08
-source-url: https://www.scoop.co.nz/stories/PA0612/S00179/dr-richard-worth-counting-heads.htm
+title: Dr Richard Worth - Counting heads
+date: 2006-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00179/dr-richard-worth-counting-heads.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/08/dr-richard-worth-counting-heads/index.html
+layout: layout.njk
 ---
 Dr Richard Worth - Counting heads
 =================================

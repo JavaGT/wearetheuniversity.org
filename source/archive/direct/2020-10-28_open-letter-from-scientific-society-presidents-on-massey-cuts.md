@@ -1,11 +1,16 @@
 ---
-title: "Scientific Society Presidents Call for Ministerial Intervention in Massey Science Cuts"
+title: >-
+  Scientific Society Presidents Call for Ministerial Intervention in Massey
+  Science Cuts
 slug: open-letter-from-scientific-society-presidents-on-massey-cuts
-date: 2020-10-28
+date: 2020-10-28T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: >-
+  /archive/2020/10/28/open-letter-from-scientific-society-presidents-on-massey-cuts/index.html
+layout: layout.njk
 ---
 
 28 October 2020

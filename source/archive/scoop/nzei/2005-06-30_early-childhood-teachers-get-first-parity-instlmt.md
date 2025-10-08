@@ -1,9 +1,13 @@
 ---
 slug: early-childhood-teachers-get-first-parity-instlmt
-title: "Early Childhood Teachers Get First Parity Instlmt"
-date: 2005-06-30
-source-url: https://www.scoop.co.nz/stories/ED0506/S00086/early-childhood-teachers-get-first-parity-instlmt.htm
+title: Early Childhood Teachers Get First Parity Instlmt
+date: 2005-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00086/early-childhood-teachers-get-first-parity-instlmt.htm
 author: nzei
+permalink: >-
+  /archive/2005/06/30/early-childhood-teachers-get-first-parity-instlmt/index.html
+layout: layout.njk
 ---
 Early Childhood Teachers Get First Parity Instlmt
 =================================================

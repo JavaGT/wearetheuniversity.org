@@ -1,9 +1,11 @@
 ---
 slug: more-maori-wagging-school
-title: "More Maori wagging school"
-date: 2007-02-14
+title: More Maori wagging school
+date: 2007-02-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00230/more-maori-wagging-school.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/more-maori-wagging-school/index.html
+layout: layout.njk
 ---
 More Maori wagging school
 =========================

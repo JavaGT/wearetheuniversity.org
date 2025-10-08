@@ -1,9 +1,13 @@
 ---
 slug: back-to-black-responsibly-the-pre-election-fiscal-update-changes-everything
-title: "\"Back To Black Responsibly\": The Pre-Election Fiscal Update Changes Everything"
-date: 2023-09-19
-source-url: https://www.scoop.co.nz/stories/PO2309/S00151/back-to-black-responsibly-the-pre-election-fiscal-update-changes-everything.htm
+title: '"Back To Black Responsibly": The Pre-Election Fiscal Update Changes Everything'
+date: 2023-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00151/back-to-black-responsibly-the-pre-election-fiscal-update-changes-everything.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2023/09/19/back-to-black-responsibly-the-pre-election-fiscal-update-changes-everything/index.html
+layout: layout.njk
 ---
 “Back To Black Responsibly”: The Pre-Election Fiscal Update Changes Everything
 ==============================================================================

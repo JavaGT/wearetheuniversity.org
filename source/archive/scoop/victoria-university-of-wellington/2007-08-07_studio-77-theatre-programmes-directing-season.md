@@ -1,9 +1,12 @@
 ---
 slug: studio-77-theatre-programmes-directing-season
-title: "Studio 77: Theatre Programme’s Directing Season"
-date: 2007-08-07
-source-url: https://www.scoop.co.nz/stories/CU0708/S00079/studio-77-theatre-programmes-directing-season.htm
+title: 'Studio 77: Theatre Programme’s Directing Season'
+date: 2007-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00079/studio-77-theatre-programmes-directing-season.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/07/studio-77-theatre-programmes-directing-season/index.html
+layout: layout.njk
 ---
 Studio 77: Theatre Programme’s Directing Season
 ===============================================

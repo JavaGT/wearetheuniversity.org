@@ -1,9 +1,12 @@
 ---
 slug: labour-stalling-on-more-papers
-title: "Labour stalling on more papers"
-date: 2005-09-09
-source-url: https://www.scoop.co.nz/stories/PA0509/S00238/labour-stalling-on-more-papers.htm
+title: Labour stalling on more papers
+date: 2005-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00238/labour-stalling-on-more-papers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/09/labour-stalling-on-more-papers/index.html
+layout: layout.njk
 ---
 Labour stalling on more papers
 ==============================

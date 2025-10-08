@@ -1,9 +1,12 @@
 ---
 slug: another-blow-to-defence-credibility
-title: "Another blow to defence credibility"
-date: 2004-07-23
-source-url: https://www.scoop.co.nz/stories/PA0407/S00389/another-blow-to-defence-credibility.htm
+title: Another blow to defence credibility
+date: 2004-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00389/another-blow-to-defence-credibility.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/23/another-blow-to-defence-credibility/index.html
+layout: layout.njk
 ---
 Another blow to defence credibility
 ===================================

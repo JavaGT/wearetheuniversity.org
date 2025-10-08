@@ -1,9 +1,12 @@
 ---
 slug: university-salary-payments-correction
-title: "University salary payments correction"
-date: 2009-11-04
-source-url: https://www.scoop.co.nz/stories/ED0911/S00021/university-salary-payments-correction.htm
+title: University salary payments correction
+date: 2009-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00021/university-salary-payments-correction.htm
 author: university-of-canterbury
+permalink: /archive/2009/11/04/university-salary-payments-correction/index.html
+layout: layout.njk
 ---
 University salary payments correction
 =====================================

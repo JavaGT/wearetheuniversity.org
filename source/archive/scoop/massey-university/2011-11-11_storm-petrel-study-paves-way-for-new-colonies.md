@@ -1,9 +1,12 @@
 ---
 slug: storm-petrel-study-paves-way-for-new-colonies
-title: "Storm petrel study paves way for new colonies"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/ED1111/S00086/storm-petrel-study-paves-way-for-new-colonies.htm
+title: Storm petrel study paves way for new colonies
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00086/storm-petrel-study-paves-way-for-new-colonies.htm
 author: massey-university
+permalink: /archive/2011/11/11/storm-petrel-study-paves-way-for-new-colonies/index.html
+layout: layout.njk
 ---
 Storm petrel study paves way for new colonies
 =============================================

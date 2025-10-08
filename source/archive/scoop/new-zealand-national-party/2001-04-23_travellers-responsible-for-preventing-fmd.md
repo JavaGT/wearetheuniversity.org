@@ -1,9 +1,12 @@
 ---
 slug: travellers-responsible-for-preventing-fmd
-title: "Travellers responsible for preventing FMD"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00351/travellers-responsible-for-preventing-fmd.htm
+title: Travellers responsible for preventing FMD
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00351/travellers-responsible-for-preventing-fmd.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/23/travellers-responsible-for-preventing-fmd/index.html
+layout: layout.njk
 ---
 Travellers responsible for preventing FMD
 =========================================

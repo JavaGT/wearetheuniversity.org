@@ -1,9 +1,13 @@
 ---
 slug: national-will-launch-a-global-phd-scholarship-scheme
-title: "National Will Launch A Global PhD Scholarship Scheme"
-date: 2020-10-12
-source-url: https://www.scoop.co.nz/stories/PA2010/S00081/national-will-launch-a-global-phd-scholarship-scheme.htm
+title: National Will Launch A Global PhD Scholarship Scheme
+date: 2020-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00081/national-will-launch-a-global-phd-scholarship-scheme.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/10/12/national-will-launch-a-global-phd-scholarship-scheme/index.html
+layout: layout.njk
 ---
 National Will Launch A Global PhD Scholarship Scheme
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: mccully-nz-institute-of-international-affairs
-title: "McCully: NZ Institute of International Affairs"
-date: 2006-02-21
-source-url: https://www.scoop.co.nz/stories/PA0602/S00297/mccully-nz-institute-of-international-affairs.htm
+title: 'McCully: NZ Institute of International Affairs'
+date: 2006-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00297/mccully-nz-institute-of-international-affairs.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/21/mccully-nz-institute-of-international-affairs/index.html
+layout: layout.njk
 ---
 McCully: NZ Institute of International Affairs
 ==============================================

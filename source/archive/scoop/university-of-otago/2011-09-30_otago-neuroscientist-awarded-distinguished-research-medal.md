@@ -1,9 +1,13 @@
 ---
 slug: otago-neuroscientist-awarded-distinguished-research-medal
-title: "Otago neuroscientist awarded Distinguished Research Medal"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00142/otago-neuroscientist-awarded-distinguished-research-medal.htm
+title: Otago neuroscientist awarded Distinguished Research Medal
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00142/otago-neuroscientist-awarded-distinguished-research-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/30/otago-neuroscientist-awarded-distinguished-research-medal/index.html
+layout: layout.njk
 ---
 Otago neuroscientist awarded Distinguished Research Medal
 =========================================================

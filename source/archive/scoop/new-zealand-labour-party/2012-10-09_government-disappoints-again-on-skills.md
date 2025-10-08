@@ -1,9 +1,12 @@
 ---
 slug: government-disappoints-again-on-skills
-title: "Government disappoints again on skills"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/PA1210/S00156/government-disappoints-again-on-skills.htm
+title: Government disappoints again on skills
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00156/government-disappoints-again-on-skills.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/09/government-disappoints-again-on-skills/index.html
+layout: layout.njk
 ---
 Government disappoints again on skills
 ======================================

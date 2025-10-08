@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-regional-fuel-tax
-title: "Speech: Turia - Regional fuel tax"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/PA0903/S00344/speech-turia-regional-fuel-tax.htm
+title: 'Speech: Turia - Regional fuel tax'
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00344/speech-turia-regional-fuel-tax.htm
 author: te-pati-maori
+permalink: /archive/2009/03/24/speech-turia-regional-fuel-tax/index.html
+layout: layout.njk
 ---
 Speech: Turia - Regional fuel tax
 =================================

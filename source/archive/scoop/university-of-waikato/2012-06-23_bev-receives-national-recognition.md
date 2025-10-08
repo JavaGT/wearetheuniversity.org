@@ -1,9 +1,12 @@
 ---
 slug: bev-receives-national-recognition
-title: "BEV receives national recognition"
-date: 2012-06-23
-source-url: https://www.scoop.co.nz/stories/ED1206/S00110/bev-receives-national-recognition.htm
+title: BEV receives national recognition
+date: 2012-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00110/bev-receives-national-recognition.htm
 author: university-of-waikato
+permalink: /archive/2012/06/23/bev-receives-national-recognition/index.html
+layout: layout.njk
 ---
 BEV receives national recognition
 =================================

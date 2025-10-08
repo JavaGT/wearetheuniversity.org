@@ -1,9 +1,12 @@
 ---
 slug: war-peace-and-the-freedom-frog
-title: "War, Peace And The Freedom Frog"
-date: 2009-10-11
-source-url: https://www.scoop.co.nz/stories/PA0910/S00122/war-peace-and-the-freedom-frog.htm
+title: War, Peace And The Freedom Frog
+date: 2009-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00122/war-peace-and-the-freedom-frog.htm
 author: act-new-zealand
+permalink: /archive/2009/10/11/war-peace-and-the-freedom-frog/index.html
+layout: layout.njk
 ---
 War, Peace And The Freedom Frog
 ===============================

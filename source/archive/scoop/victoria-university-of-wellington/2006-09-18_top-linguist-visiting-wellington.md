@@ -1,9 +1,12 @@
 ---
 slug: top-linguist-visiting-wellington
-title: "Top Linguist visiting Wellington"
-date: 2006-09-18
-source-url: https://www.scoop.co.nz/stories/ED0609/S00069/top-linguist-visiting-wellington.htm
+title: Top Linguist visiting Wellington
+date: 2006-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00069/top-linguist-visiting-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/18/top-linguist-visiting-wellington/index.html
+layout: layout.njk
 ---
 Top Linguist visiting Wellington
 ================================

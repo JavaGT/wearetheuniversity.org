@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-state-of-the-planet-speech
-title: "Jeanette Fitzsimons State of the Planet Speech"
-date: 2006-01-23
-source-url: https://www.scoop.co.nz/stories/PA0601/S00086/jeanette-fitzsimons-state-of-the-planet-speech.htm
+title: Jeanette Fitzsimons State of the Planet Speech
+date: 2006-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00086/jeanette-fitzsimons-state-of-the-planet-speech.htm
 author: green-party
+permalink: /archive/2006/01/23/jeanette-fitzsimons-state-of-the-planet-speech/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons State of the Planet Speech
 ==============================================

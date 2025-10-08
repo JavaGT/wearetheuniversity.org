@@ -1,9 +1,13 @@
 ---
 slug: premier-netball-team-win-final-for-the-second-year-running
-title: "Premier Netball Team Win Final For The Second Year Running"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/ED1208/S00119/premier-netball-team-win-final-for-the-second-year-running.htm
+title: Premier Netball Team Win Final For The Second Year Running
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00119/premier-netball-team-win-final-for-the-second-year-running.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/08/22/premier-netball-team-win-final-for-the-second-year-running/index.html
+layout: layout.njk
 ---
 Premier Netball Team Win Final For The Second Year Running
 ==========================================================

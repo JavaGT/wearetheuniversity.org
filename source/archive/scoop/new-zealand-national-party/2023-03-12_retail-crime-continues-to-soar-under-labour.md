@@ -1,9 +1,12 @@
 ---
 slug: retail-crime-continues-to-soar-under-labour
-title: "Retail Crime Continues To Soar Under Labour"
-date: 2023-03-12
-source-url: https://www.scoop.co.nz/stories/PA2303/S00087/retail-crime-continues-to-soar-under-labour.htm
+title: Retail Crime Continues To Soar Under Labour
+date: 2023-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00087/retail-crime-continues-to-soar-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/12/retail-crime-continues-to-soar-under-labour/index.html
+layout: layout.njk
 ---
 Retail Crime Continues To Soar Under Labour
 ===========================================

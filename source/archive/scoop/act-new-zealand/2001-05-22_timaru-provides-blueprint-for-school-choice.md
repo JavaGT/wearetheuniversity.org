@@ -1,9 +1,12 @@
 ---
 slug: timaru-provides-blueprint-for-school-choice
-title: "Timaru Provides Blueprint For School Choice"
-date: 2001-05-22
-source-url: https://www.scoop.co.nz/stories/PA0105/S00435/timaru-provides-blueprint-for-school-choice.htm
+title: Timaru Provides Blueprint For School Choice
+date: 2001-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00435/timaru-provides-blueprint-for-school-choice.htm
 author: act-new-zealand
+permalink: /archive/2001/05/22/timaru-provides-blueprint-for-school-choice/index.html
+layout: layout.njk
 ---
 Timaru Provides Blueprint For School Choice
 ===========================================

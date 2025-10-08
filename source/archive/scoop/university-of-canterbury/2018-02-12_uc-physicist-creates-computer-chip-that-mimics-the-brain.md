@@ -1,9 +1,13 @@
 ---
 slug: uc-physicist-creates-computer-chip-that-mimics-the-brain
-title: "UC physicist creates computer chip that mimics the brain"
-date: 2018-02-12
-source-url: https://www.scoop.co.nz/stories/SC1802/S00028/uc-physicist-creates-computer-chip-that-mimics-the-brain.htm
+title: UC physicist creates computer chip that mimics the brain
+date: 2018-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00028/uc-physicist-creates-computer-chip-that-mimics-the-brain.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/12/uc-physicist-creates-computer-chip-that-mimics-the-brain/index.html
+layout: layout.njk
 ---
 UC physicist creates computer chip that mimics the brain
 ========================================================

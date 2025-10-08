@@ -1,9 +1,12 @@
 ---
 slug: blockchain-benefits-sustainable-food-protection
-title: "Blockchain benefits sustainable food protection"
-date: 2019-07-05
-source-url: https://www.scoop.co.nz/stories/ED1907/S00009/blockchain-benefits-sustainable-food-protection.htm
+title: Blockchain benefits sustainable food protection
+date: 2019-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00009/blockchain-benefits-sustainable-food-protection.htm
 author: university-of-canterbury
+permalink: /archive/2019/07/05/blockchain-benefits-sustainable-food-protection/index.html
+layout: layout.njk
 ---
 Blockchain benefits sustainable food protection
 ===============================================

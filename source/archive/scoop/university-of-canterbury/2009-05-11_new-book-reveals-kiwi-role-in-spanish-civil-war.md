@@ -1,9 +1,12 @@
 ---
 slug: new-book-reveals-kiwi-role-in-spanish-civil-war
-title: "New book reveals Kiwi role in Spanish Civil War"
-date: 2009-05-11
-source-url: https://www.scoop.co.nz/stories/CU0905/S00142/new-book-reveals-kiwi-role-in-spanish-civil-war.htm
+title: New book reveals Kiwi role in Spanish Civil War
+date: 2009-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00142/new-book-reveals-kiwi-role-in-spanish-civil-war.htm
 author: university-of-canterbury
+permalink: /archive/2009/05/11/new-book-reveals-kiwi-role-in-spanish-civil-war/index.html
+layout: layout.njk
 ---
 New book reveals Kiwi role in Spanish Civil War
 ===============================================

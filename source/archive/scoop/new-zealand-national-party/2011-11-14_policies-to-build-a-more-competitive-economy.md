@@ -1,9 +1,12 @@
 ---
 slug: policies-to-build-a-more-competitive-economy
-title: "Policies to build a more competitive economy"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/PA1111/S00267/policies-to-build-a-more-competitive-economy.htm
+title: Policies to build a more competitive economy
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00267/policies-to-build-a-more-competitive-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/14/policies-to-build-a-more-competitive-economy/index.html
+layout: layout.njk
 ---
 Policies to build a more competitive economy
 ============================================

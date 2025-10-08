@@ -1,9 +1,12 @@
 ---
 slug: waitlists-up-and-workforce-down-under-national
-title: "Waitlists Up And Workforce Down Under National"
-date: 2024-07-08
-source-url: https://www.scoop.co.nz/stories/PA2407/S00057/waitlists-up-and-workforce-down-under-national.htm
+title: Waitlists Up And Workforce Down Under National
+date: 2024-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00057/waitlists-up-and-workforce-down-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/07/08/waitlists-up-and-workforce-down-under-national/index.html
+layout: layout.njk
 ---
 Waitlists Up And Workforce Down Under National
 ==============================================

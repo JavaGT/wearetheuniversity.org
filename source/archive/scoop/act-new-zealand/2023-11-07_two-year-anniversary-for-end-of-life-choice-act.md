@@ -1,9 +1,12 @@
 ---
 slug: two-year-anniversary-for-end-of-life-choice-act
-title: "Two Year Anniversary For End Of Life Choice Act"
-date: 2023-11-07
-source-url: https://www.scoop.co.nz/stories/PA2311/S00006/two-year-anniversary-for-end-of-life-choice-act.htm
+title: Two Year Anniversary For End Of Life Choice Act
+date: 2023-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2311/S00006/two-year-anniversary-for-end-of-life-choice-act.htm
 author: act-new-zealand
+permalink: /archive/2023/11/07/two-year-anniversary-for-end-of-life-choice-act/index.html
+layout: layout.njk
 ---
 Two Year Anniversary For End Of Life Choice Act
 ===============================================

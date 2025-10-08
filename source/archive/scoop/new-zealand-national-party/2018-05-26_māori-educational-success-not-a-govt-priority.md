@@ -1,9 +1,12 @@
 ---
 slug: māori-educational-success-not-a-govt-priority
-title: "Māori educational success not a Govt priority"
-date: 2018-05-26
-source-url: https://www.scoop.co.nz/stories/PA1805/S00359/maori-educational-success-not-a-govt-priority.htm
+title: Māori educational success not a Govt priority
+date: 2018-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00359/maori-educational-success-not-a-govt-priority.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/26/m/index.html
+layout: layout.njk
 ---
 Māori educational success not a Govt priority
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-media-&-film-policy-will-strenghthen-nzs-identity
-title: "Labour’s Media & Film Policy Will Strenghthen NZ's Identity"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PA1709/S00125/labours-media-film-policy-will-strenghthen-nzs-identity.htm
+title: Labour’s Media & Film Policy Will Strenghthen NZ's Identity
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00125/labours-media-film-policy-will-strenghthen-nzs-identity.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/12/labours-media-/index.html
+layout: layout.njk
 ---
 Labour’s Media & Film Policy Will Strenghthen NZ's Identity
 ===========================================================

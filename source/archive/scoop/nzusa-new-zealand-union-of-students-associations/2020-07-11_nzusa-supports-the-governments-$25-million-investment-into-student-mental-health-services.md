@@ -1,9 +1,15 @@
 ---
-slug: nzusa-supports-the-governments-$25-million-investment-into-student-mental-health-services
-title: "NZUSA Supports The Government’s $25 Million Investment Into Student Mental Health Services"
-date: 2020-07-11
-source-url: https://www.scoop.co.nz/stories/ED2007/S00009/nzusa-supports-the-governments-25-million-investment-into-student-mental-health-services.htm
+slug: >-
+  nzusa-supports-the-governments-$25-million-investment-into-student-mental-health-services
+title: >-
+  NZUSA Supports The Government’s $25 Million Investment Into Student Mental
+  Health Services
+date: 2020-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00009/nzusa-supports-the-governments-25-million-investment-into-student-mental-health-services.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2020/07/11/nzusa-supports-the-governments-/index.html
+layout: layout.njk
 ---
 NZUSA Supports The Government’s $25 Million Investment Into Student Mental Health Services
 ==========================================================================================

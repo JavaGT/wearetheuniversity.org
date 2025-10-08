@@ -1,9 +1,12 @@
 ---
 slug: official-green-stars-for-new-student-centre
-title: "Official green stars for new Student Centre"
-date: 2010-08-24
-source-url: https://www.scoop.co.nz/stories/ED1008/S00092/official-green-stars-for-new-student-centre.htm
+title: Official green stars for new Student Centre
+date: 2010-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00092/official-green-stars-for-new-student-centre.htm
 author: university-of-waikato
+permalink: /archive/2010/08/24/official-green-stars-for-new-student-centre/index.html
+layout: layout.njk
 ---
 Official green stars for new Student Centre
 ===========================================

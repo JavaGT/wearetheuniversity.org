@@ -1,9 +1,12 @@
 ---
 slug: agent-orange-issue-getting-darker
-title: "Agent Orange Issue Getting Darker"
-date: 2004-04-02
-source-url: https://www.scoop.co.nz/stories/PA0404/S00045/agent-orange-issue-getting-darker.htm
+title: Agent Orange Issue Getting Darker
+date: 2004-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00045/agent-orange-issue-getting-darker.htm
 author: new-zealand-first-party
+permalink: /archive/2004/04/02/agent-orange-issue-getting-darker/index.html
+layout: layout.njk
 ---
 Agent Orange Issue Getting Darker
 =================================

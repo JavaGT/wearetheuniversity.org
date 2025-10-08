@@ -1,9 +1,12 @@
 ---
 slug: feds-contradict-themselves-on-factory-farming
-title: "Feds contradict themselves on factory-farming"
-date: 2009-12-07
-source-url: https://www.scoop.co.nz/stories/PA0912/S00086/feds-contradict-themselves-on-factory-farming.htm
+title: Feds contradict themselves on factory-farming
+date: 2009-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00086/feds-contradict-themselves-on-factory-farming.htm
 author: green-party
+permalink: /archive/2009/12/07/feds-contradict-themselves-on-factory-farming/index.html
+layout: layout.njk
 ---
 Feds contradict themselves on factory-farming
 =============================================

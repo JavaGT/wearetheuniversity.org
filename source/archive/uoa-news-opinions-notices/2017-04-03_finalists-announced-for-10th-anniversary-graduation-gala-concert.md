@@ -1,8 +1,12 @@
 ---
 slug: finalists-announced-for-10th-anniversary-graduation-gala-concert
-title: "Finalists announced for 10th Anniversary Graduation Gala concert"
-date: 2017-04-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/finalists-announced-for-10th-anniversary-graduation-gala-concert.html
+title: Finalists announced for 10th Anniversary Graduation Gala concert
+date: 2017-04-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/finalists-announced-for-10th-anniversary-graduation-gala-concert.html
+permalink: >-
+  /archive/2017/04/03/finalists-announced-for-10th-anniversary-graduation-gala-concert/index.html
+layout: layout.njk
 ---
 Finalists announced for 10th Anniversary Graduation Gala concert
 ================================================================

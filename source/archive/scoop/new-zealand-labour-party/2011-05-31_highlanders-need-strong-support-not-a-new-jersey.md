@@ -1,9 +1,13 @@
 ---
 slug: highlanders-need-strong-support-not-a-new-jersey
-title: "Highlanders Need Strong Support, Not a New Jersey"
-date: 2011-05-31
-source-url: https://www.scoop.co.nz/stories/PA1105/S00631/highlanders-need-strong-support-not-a-new-jersey.htm
+title: Highlanders Need Strong Support, Not a New Jersey
+date: 2011-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00631/highlanders-need-strong-support-not-a-new-jersey.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/31/highlanders-need-strong-support-not-a-new-jersey/index.html
+layout: layout.njk
 ---
 Highlanders Need Strong Support, Not a New Jersey
 =================================================

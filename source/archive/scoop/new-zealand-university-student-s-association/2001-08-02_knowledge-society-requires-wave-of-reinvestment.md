@@ -1,9 +1,12 @@
 ---
 slug: knowledge-society-requires-wave-of-reinvestment
-title: "Knowledge Society Requires Wave Of Reinvestment"
-date: 2001-08-02
-source-url: https://www.scoop.co.nz/stories/ED0108/S00013/knowledge-society-requires-wave-of-reinvestment.htm
+title: Knowledge Society Requires Wave Of Reinvestment
+date: 2001-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00013/knowledge-society-requires-wave-of-reinvestment.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/08/02/knowledge-society-requires-wave-of-reinvestment/index.html
+layout: layout.njk
 ---
 Knowledge Society Requires Wave Of Reinvestment
 ===============================================

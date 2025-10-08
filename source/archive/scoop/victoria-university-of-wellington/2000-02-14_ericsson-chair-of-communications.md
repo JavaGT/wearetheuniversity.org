@@ -1,9 +1,12 @@
 ---
 slug: ericsson-chair-of-communications
-title: "Ericsson Chair of Communications"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/ED0002/S00010/ericsson-chair-of-communications.htm
+title: Ericsson Chair of Communications
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00010/ericsson-chair-of-communications.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/14/ericsson-chair-of-communications/index.html
+layout: layout.njk
 ---
 Ericsson Chair of Communications
 ================================

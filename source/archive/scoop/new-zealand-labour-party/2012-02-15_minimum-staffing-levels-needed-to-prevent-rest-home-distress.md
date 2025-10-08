@@ -1,9 +1,13 @@
 ---
 slug: minimum-staffing-levels-needed-to-prevent-rest-home-distress
-title: "Minimum staffing levels needed to prevent rest home distress"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PA1202/S00163/minimum-staffing-levels-needed-to-prevent-rest-home-distress.htm
+title: Minimum staffing levels needed to prevent rest home distress
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00163/minimum-staffing-levels-needed-to-prevent-rest-home-distress.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/02/15/minimum-staffing-levels-needed-to-prevent-rest-home-distress/index.html
+layout: layout.njk
 ---
 Minimum staffing levels needed to prevent rest home distress
 ============================================================

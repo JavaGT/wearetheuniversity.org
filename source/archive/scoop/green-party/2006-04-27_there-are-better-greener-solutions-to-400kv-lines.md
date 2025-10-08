@@ -1,9 +1,13 @@
 ---
 slug: there-are-better-greener-solutions-to-400kv-lines
-title: "There are better, Greener solutions to 400kV lines"
-date: 2006-04-27
-source-url: https://www.scoop.co.nz/stories/BU0604/S00429/there-are-better-greener-solutions-to-400kv-lines.htm
+title: There are better, Greener solutions to 400kV lines
+date: 2006-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00429/there-are-better-greener-solutions-to-400kv-lines.htm
 author: green-party
+permalink: >-
+  /archive/2006/04/27/there-are-better-greener-solutions-to-400kv-lines/index.html
+layout: layout.njk
 ---
 There are better, Greener solutions to 400kV lines
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: researcher-to-investigate-the-impact-of-sleep-on-dementia
-title: "Researcher to investigate the impact of sleep on dementia"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/SC1805/S00044/researcher-to-investigate-the-impact-of-sleep-on-dementia.htm
+title: Researcher to investigate the impact of sleep on dementia
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00044/researcher-to-investigate-the-impact-of-sleep-on-dementia.htm
 author: massey-university
+permalink: >-
+  /archive/2018/05/17/researcher-to-investigate-the-impact-of-sleep-on-dementia/index.html
+layout: layout.njk
 ---
 Researcher to investigate the impact of sleep on dementia
 =========================================================

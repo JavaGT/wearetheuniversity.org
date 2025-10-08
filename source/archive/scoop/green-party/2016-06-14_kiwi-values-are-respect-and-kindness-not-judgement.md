@@ -1,9 +1,13 @@
 ---
 slug: kiwi-values-are-respect-and-kindness-not-judgement
-title: "Kiwi values are respect and kindness, not judgement"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/PA1606/S00230/kiwi-values-are-respect-and-kindness-not-judgement.htm
+title: Kiwi values are respect and kindness, not judgement
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00230/kiwi-values-are-respect-and-kindness-not-judgement.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/14/kiwi-values-are-respect-and-kindness-not-judgement/index.html
+layout: layout.njk
 ---
 Kiwi values are respect and kindness, not judgement
 ===================================================

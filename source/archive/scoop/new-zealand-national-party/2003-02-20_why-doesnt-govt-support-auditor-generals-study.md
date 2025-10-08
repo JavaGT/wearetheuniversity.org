@@ -1,9 +1,12 @@
 ---
 slug: why-doesnt-govt-support-auditor-generals-study
-title: "Why doesn't Govt support Auditor General's study"
-date: 2003-02-20
-source-url: https://www.scoop.co.nz/stories/PA0302/S00384/why-doesnt-govt-support-auditor-generals-study.htm
+title: Why doesn't Govt support Auditor General's study
+date: 2003-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00384/why-doesnt-govt-support-auditor-generals-study.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/20/why-doesnt-govt-support-auditor-generals-study/index.html
+layout: layout.njk
 ---
 Why doesn't Govt support Auditor General's study
 ================================================

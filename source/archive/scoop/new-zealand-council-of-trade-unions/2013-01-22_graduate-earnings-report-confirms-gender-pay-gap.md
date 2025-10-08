@@ -1,9 +1,13 @@
 ---
 slug: graduate-earnings-report-confirms-gender-pay-gap
-title: "Graduate earnings report confirms gender pay gap"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/PO1301/S00076/graduate-earnings-report-confirms-gender-pay-gap.htm
+title: Graduate earnings report confirms gender pay gap
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1301/S00076/graduate-earnings-report-confirms-gender-pay-gap.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/01/22/graduate-earnings-report-confirms-gender-pay-gap/index.html
+layout: layout.njk
 ---
 Graduate earnings report confirms gender pay gap
 ================================================

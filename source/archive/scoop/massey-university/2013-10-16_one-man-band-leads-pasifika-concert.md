@@ -1,9 +1,12 @@
 ---
 slug: one-man-band-leads-pasifika-concert
-title: "One man band leads Pasifika concert"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/CU1310/S00313/one-man-band-leads-pasifika-concert.htm
+title: One man band leads Pasifika concert
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00313/one-man-band-leads-pasifika-concert.htm
 author: massey-university
+permalink: /archive/2013/10/16/one-man-band-leads-pasifika-concert/index.html
+layout: layout.njk
 ---
 One man band leads Pasifika concert
 ===================================

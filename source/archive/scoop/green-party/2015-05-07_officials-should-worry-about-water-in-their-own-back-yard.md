@@ -1,9 +1,13 @@
 ---
 slug: officials-should-worry-about-water-in-their-own-back-yard
-title: "Officials should worry about water in their own back yard"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/PA1505/S00110/officials-should-worry-about-water-in-their-own-back-yard.htm
+title: Officials should worry about water in their own back yard
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00110/officials-should-worry-about-water-in-their-own-back-yard.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/07/officials-should-worry-about-water-in-their-own-back-yard/index.html
+layout: layout.njk
 ---
 Officials should worry about water in their own back yard
 =========================================================

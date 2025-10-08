@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-backs-keep-it-18-campaign
-title: "VUWSA backs ‘keep it 18’ campaign"
-date: 2006-11-09
-source-url: https://www.scoop.co.nz/stories/ED0611/S00036/vuwsa-backs-keep-it-18-campaign.htm
+title: VUWSA backs ‘keep it 18’ campaign
+date: 2006-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00036/vuwsa-backs-keep-it-18-campaign.htm
 author: victoria-university-students-association
+permalink: /archive/2006/11/09/vuwsa-backs-keep-it-18-campaign/index.html
+layout: layout.njk
 ---
 VUWSA backs ‘keep it 18’ campaign
 =================================

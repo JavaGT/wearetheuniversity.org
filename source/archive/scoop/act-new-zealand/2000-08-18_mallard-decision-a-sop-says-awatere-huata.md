@@ -1,9 +1,12 @@
 ---
 slug: mallard-decision-a-sop-says-awatere-huata
-title: "Mallard Decision A \"Sop\" Says Awatere Huata"
-date: 2000-08-18
-source-url: https://www.scoop.co.nz/stories/PA0008/S00372/mallard-decision-a-sop-says-awatere-huata.htm
+title: Mallard Decision A "Sop" Says Awatere Huata
+date: 2000-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00372/mallard-decision-a-sop-says-awatere-huata.htm
 author: act-new-zealand
+permalink: /archive/2000/08/18/mallard-decision-a-sop-says-awatere-huata/index.html
+layout: layout.njk
 ---
 Mallard Decision A "Sop" Says Awatere Huata
 ===========================================

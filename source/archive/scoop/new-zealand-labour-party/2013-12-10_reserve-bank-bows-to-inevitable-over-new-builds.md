@@ -1,9 +1,12 @@
 ---
 slug: reserve-bank-bows-to-inevitable-over-new-builds
-title: "Reserve Bank bows to inevitable over new builds"
-date: 2013-12-10
-source-url: https://www.scoop.co.nz/stories/PA1312/S00207/reserve-bank-bows-to-inevitable-over-new-builds.htm
+title: Reserve Bank bows to inevitable over new builds
+date: 2013-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00207/reserve-bank-bows-to-inevitable-over-new-builds.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/10/reserve-bank-bows-to-inevitable-over-new-builds/index.html
+layout: layout.njk
 ---
 Reserve Bank bows to inevitable over new builds
 ===============================================

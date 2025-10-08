@@ -1,9 +1,12 @@
 ---
 slug: ucs-super-computer-helping-with-earthquake-data
-title: "UC's super computer helping with earthquake data"
-date: 2010-09-15
-source-url: https://www.scoop.co.nz/stories/AK1009/S00485/ucs-super-computer-helping-with-earthquake-data.htm
+title: UC's super computer helping with earthquake data
+date: 2010-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1009/S00485/ucs-super-computer-helping-with-earthquake-data.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/15/ucs-super-computer-helping-with-earthquake-data/index.html
+layout: layout.njk
 ---
 UC's super computer helping with earthquake data
 ================================================

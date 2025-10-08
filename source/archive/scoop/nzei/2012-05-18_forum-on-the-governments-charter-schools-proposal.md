@@ -1,9 +1,13 @@
 ---
 slug: forum-on-the-governments-charter-schools-proposal
-title: "Forum on the government’s Charter Schools proposal"
-date: 2012-05-18
-source-url: https://www.scoop.co.nz/stories/ED1205/S00083/forum-on-the-governments-charter-schools-proposal.htm
+title: Forum on the government’s Charter Schools proposal
+date: 2012-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00083/forum-on-the-governments-charter-schools-proposal.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/18/forum-on-the-governments-charter-schools-proposal/index.html
+layout: layout.njk
 ---
 Forum on the government’s Charter Schools proposal
 ==================================================

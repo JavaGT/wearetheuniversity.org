@@ -1,9 +1,13 @@
 ---
 slug: mccully-winds-back-clock-on-sport-and-recreation
-title: "McCully winds back clock on sport and recreation"
-date: 2009-06-22
-source-url: https://www.scoop.co.nz/stories/PA0906/S00292/mccully-winds-back-clock-on-sport-and-recreation.htm
+title: McCully winds back clock on sport and recreation
+date: 2009-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00292/mccully-winds-back-clock-on-sport-and-recreation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/06/22/mccully-winds-back-clock-on-sport-and-recreation/index.html
+layout: layout.njk
 ---
 McCully winds back clock on sport and recreation
 ================================================

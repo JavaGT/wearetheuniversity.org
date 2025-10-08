@@ -1,9 +1,13 @@
 ---
 slug: breaking-news-national-admits-theres-a-housing-crisis
-title: "Breaking news: National admits there’s a housing crisis"
-date: 2017-05-16
-source-url: https://www.scoop.co.nz/stories/PA1705/S00336/breaking-news-national-admits-theres-a-housing-crisis.htm
+title: 'Breaking news: National admits there’s a housing crisis'
+date: 2017-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00336/breaking-news-national-admits-theres-a-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/05/16/breaking-news-national-admits-theres-a-housing-crisis/index.html
+layout: layout.njk
 ---
 Breaking news: National admits there’s a housing crisis
 =======================================================

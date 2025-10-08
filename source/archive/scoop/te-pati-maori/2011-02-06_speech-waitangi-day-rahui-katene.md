@@ -1,9 +1,12 @@
 ---
 slug: speech-waitangi-day-rahui-katene
-title: "Speech: Waitangi Day - Rahui Katene"
-date: 2011-02-06
-source-url: https://www.scoop.co.nz/stories/PA1102/S00074/speech-waitangi-day-rahui-katene.htm
+title: 'Speech: Waitangi Day - Rahui Katene'
+date: 2011-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00074/speech-waitangi-day-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2011/02/06/speech-waitangi-day-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech: Waitangi Day - Rahui Katene
 ===================================

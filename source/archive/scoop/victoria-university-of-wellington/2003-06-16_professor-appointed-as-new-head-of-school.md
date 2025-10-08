@@ -1,9 +1,12 @@
 ---
 slug: professor-appointed-as-new-head-of-school
-title: "Professor appointed as new Head of School"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/ED0306/S00026/professor-appointed-as-new-head-of-school.htm
+title: Professor appointed as new Head of School
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00026/professor-appointed-as-new-head-of-school.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/16/professor-appointed-as-new-head-of-school/index.html
+layout: layout.njk
 ---
 Professor appointed as new Head of School
 =========================================

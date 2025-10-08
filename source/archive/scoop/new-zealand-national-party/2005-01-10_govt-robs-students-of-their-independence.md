@@ -1,9 +1,12 @@
 ---
 slug: govt-robs-students-of-their-independence
-title: "Govt robs students of their independence"
-date: 2005-01-10
-source-url: https://www.scoop.co.nz/stories/PA0501/S00027/govt-robs-students-of-their-independence.htm
+title: Govt robs students of their independence
+date: 2005-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00027/govt-robs-students-of-their-independence.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/10/govt-robs-students-of-their-independence/index.html
+layout: layout.njk
 ---
 Govt robs students of their independence
 ========================================

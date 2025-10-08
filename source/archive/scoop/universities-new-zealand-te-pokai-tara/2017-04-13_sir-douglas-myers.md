@@ -1,9 +1,11 @@
 ---
 slug: sir-douglas-myers
-title: "Sir Douglas Myers"
-date: 2017-04-13
+title: Sir Douglas Myers
+date: 2017-04-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1704/S00055/sir-douglas-myers.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/04/13/sir-douglas-myers/index.html
+layout: layout.njk
 ---
 Sir Douglas Myers
 =================

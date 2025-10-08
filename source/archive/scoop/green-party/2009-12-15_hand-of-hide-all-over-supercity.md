@@ -1,9 +1,12 @@
 ---
 slug: hand-of-hide-all-over-supercity
-title: "Hand of Hide all over Supercity"
-date: 2009-12-15
-source-url: https://www.scoop.co.nz/stories/PA0912/S00231/hand-of-hide-all-over-supercity.htm
+title: Hand of Hide all over Supercity
+date: 2009-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00231/hand-of-hide-all-over-supercity.htm
 author: green-party
+permalink: /archive/2009/12/15/hand-of-hide-all-over-supercity/index.html
+layout: layout.njk
 ---
 Hand of Hide all over Supercity
 ===============================

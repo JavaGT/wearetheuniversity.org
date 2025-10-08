@@ -1,9 +1,12 @@
 ---
 slug: industry-partnership-links-university-to-world
-title: "Industry Partnership Links University to World"
-date: 2006-04-12
-source-url: https://www.scoop.co.nz/stories/ED0604/S00042/industry-partnership-links-university-to-world.htm
+title: Industry Partnership Links University to World
+date: 2006-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00042/industry-partnership-links-university-to-world.htm
 author: university-of-otago
+permalink: /archive/2006/04/12/industry-partnership-links-university-to-world/index.html
+layout: layout.njk
 ---
 Industry Partnership Links University to World
 ==============================================

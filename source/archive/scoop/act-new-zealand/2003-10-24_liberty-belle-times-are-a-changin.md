@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-times-are-a-changin
-title: "Liberty Belle: Times Are A Changin'"
-date: 2003-10-24
-source-url: https://www.scoop.co.nz/stories/PA0310/S00591/liberty-belle-times-are-a-changin.htm
+title: 'Liberty Belle: Times Are A Changin'''
+date: 2003-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00591/liberty-belle-times-are-a-changin.htm
 author: act-new-zealand
+permalink: /archive/2003/10/24/liberty-belle-times-are-a-changin/index.html
+layout: layout.njk
 ---
 Liberty Belle: Times Are A Changin'
 ===================================

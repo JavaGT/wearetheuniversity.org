@@ -1,9 +1,13 @@
 ---
 slug: student-leaders-unified-against-violence-to-women
-title: "Student Leaders Unified Against Violence to Women"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/PO1311/S00282/student-leaders-unified-against-violence-to-women.htm
+title: Student Leaders Unified Against Violence to Women
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00282/student-leaders-unified-against-violence-to-women.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/11/22/student-leaders-unified-against-violence-to-women/index.html
+layout: layout.njk
 ---
 Student Leaders Unified Against Violence to Women
 =================================================

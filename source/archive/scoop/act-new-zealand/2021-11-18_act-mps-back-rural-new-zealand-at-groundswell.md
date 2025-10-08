@@ -1,9 +1,12 @@
 ---
 slug: act-mps-back-rural-new-zealand-at-groundswell
-title: "ACT MPs Back Rural New Zealand At Groundswell"
-date: 2021-11-18
-source-url: https://www.scoop.co.nz/stories/PA2111/S00212/act-mps-back-rural-new-zealand-at-groundswell.htm
+title: ACT MPs Back Rural New Zealand At Groundswell
+date: 2021-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00212/act-mps-back-rural-new-zealand-at-groundswell.htm
 author: act-new-zealand
+permalink: /archive/2021/11/18/act-mps-back-rural-new-zealand-at-groundswell/index.html
+layout: layout.njk
 ---
 ACT MPs Back Rural New Zealand At Groundswell
 =============================================

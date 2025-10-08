@@ -1,9 +1,13 @@
 ---
 slug: another-nz-team-in-the-nrl-or-an-nz-competition-needed
-title: "Another NZ team in the NRL or an NZ competition needed"
-date: 2012-10-12
-source-url: https://www.scoop.co.nz/stories/CU1210/S00235/another-nz-team-in-the-nrl-or-an-nz-competition-needed.htm
+title: Another NZ team in the NRL or an NZ competition needed
+date: 2012-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00235/another-nz-team-in-the-nrl-or-an-nz-competition-needed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/12/another-nz-team-in-the-nrl-or-an-nz-competition-needed/index.html
+layout: layout.njk
 ---
 Another NZ team in the NRL or an NZ competition needed
 ======================================================

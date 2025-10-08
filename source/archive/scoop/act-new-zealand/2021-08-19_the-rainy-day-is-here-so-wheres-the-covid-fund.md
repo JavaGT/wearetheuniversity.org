@@ -1,9 +1,12 @@
 ---
 slug: the-rainy-day-is-here-so-wheres-the-covid-fund
-title: "The rainy day is here, so where’s the COVID fund?"
-date: 2021-08-19
-source-url: https://www.scoop.co.nz/stories/PA2108/S00165/the-rainy-day-is-here-so-wheres-the-covid-fund.htm
+title: The rainy day is here, so where’s the COVID fund?
+date: 2021-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00165/the-rainy-day-is-here-so-wheres-the-covid-fund.htm
 author: act-new-zealand
+permalink: /archive/2021/08/19/the-rainy-day-is-here-so-wheres-the-covid-fund/index.html
+layout: layout.njk
 ---
 The rainy day is here, so where’s the COVID fund?
 =================================================

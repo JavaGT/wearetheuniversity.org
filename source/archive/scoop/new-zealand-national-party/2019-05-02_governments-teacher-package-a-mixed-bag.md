@@ -1,9 +1,12 @@
 ---
 slug: governments-teacher-package-a-mixed-bag
-title: "Government’s teacher package a mixed bag"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/PA1905/S00021/governments-teacher-package-a-mixed-bag.htm
+title: Government’s teacher package a mixed bag
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00021/governments-teacher-package-a-mixed-bag.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/02/governments-teacher-package-a-mixed-bag/index.html
+layout: layout.njk
 ---
 Government’s teacher package a mixed bag
 ========================================

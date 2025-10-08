@@ -1,9 +1,12 @@
 ---
 slug: beyond-lie-detectors-the-brain-does-not-lie
-title: "Beyond lie detectors: 'The brain does not lie'"
-date: 2017-08-01
-source-url: https://www.scoop.co.nz/stories/SC1708/S00002/beyond-lie-detectors-the-brain-does-not-lie.htm
+title: 'Beyond lie detectors: ''The brain does not lie'''
+date: 2017-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00002/beyond-lie-detectors-the-brain-does-not-lie.htm
 author: university-of-canterbury
+permalink: /archive/2017/08/01/beyond-lie-detectors-the-brain-does-not-lie/index.html
+layout: layout.njk
 ---
 Beyond lie detectors: 'The brain does not lie'
 ==============================================

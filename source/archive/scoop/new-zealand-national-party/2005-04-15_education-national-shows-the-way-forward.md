@@ -1,9 +1,12 @@
 ---
 slug: education-national-shows-the-way-forward
-title: "Education: National Shows The Way Forward"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/PA0504/S00346/education-national-shows-the-way-forward.htm
+title: 'Education: National Shows The Way Forward'
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00346/education-national-shows-the-way-forward.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/15/education-national-shows-the-way-forward/index.html
+layout: layout.njk
 ---
 Education: National Shows The Way Forward
 =========================================

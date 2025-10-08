@@ -1,9 +1,12 @@
 ---
 slug: vuw-sporting-students-succeed-at-highest-levels
-title: "VUW Sporting Students Succeed at Highest Levels"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/CU0810/S00184/vuw-sporting-students-succeed-at-highest-levels.htm
+title: VUW Sporting Students Succeed at Highest Levels
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0810/S00184/vuw-sporting-students-succeed-at-highest-levels.htm
 author: victoria-university-students-association
+permalink: /archive/2008/10/17/vuw-sporting-students-succeed-at-highest-levels/index.html
+layout: layout.njk
 ---
 VUW Sporting Students Succeed at Highest Levels
 ===============================================

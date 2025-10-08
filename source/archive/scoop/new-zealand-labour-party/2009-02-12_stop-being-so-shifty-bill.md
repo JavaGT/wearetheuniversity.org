@@ -1,9 +1,11 @@
 ---
 slug: stop-being-so-shifty-bill
-title: "Stop being so shifty Bill"
-date: 2009-02-12
+title: Stop being so shifty Bill
+date: 2009-02-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0902/S00188/stop-being-so-shifty-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/12/stop-being-so-shifty-bill/index.html
+layout: layout.njk
 ---
 Stop being so shifty Bill
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: turia-reducing-sugar-sweetened-beverage-consumption
-title: "Turia: Reducing sugar sweetened beverage consumption"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/PA1402/S00337/turia-reducing-sugar-sweetened-beverage-consumption.htm
+title: 'Turia: Reducing sugar sweetened beverage consumption'
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00337/turia-reducing-sugar-sweetened-beverage-consumption.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/02/24/turia-reducing-sugar-sweetened-beverage-consumption/index.html
+layout: layout.njk
 ---
 Turia: Reducing sugar sweetened beverage consumption
 ====================================================

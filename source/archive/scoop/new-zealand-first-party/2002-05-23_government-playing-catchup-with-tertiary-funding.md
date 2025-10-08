@@ -1,9 +1,13 @@
 ---
 slug: government-playing-catchup-with-tertiary-funding
-title: "Government Playing Catchup With Tertiary Funding"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PA0205/S00555/government-playing-catchup-with-tertiary-funding.htm
+title: Government Playing Catchup With Tertiary Funding
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00555/government-playing-catchup-with-tertiary-funding.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/05/23/government-playing-catchup-with-tertiary-funding/index.html
+layout: layout.njk
 ---
 Government Playing Catchup With Tertiary Funding
 ================================================

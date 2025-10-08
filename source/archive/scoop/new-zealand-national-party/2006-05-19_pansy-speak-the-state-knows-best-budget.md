@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-the-state-knows-best-budget
-title: "Pansy Speak: 'The State Knows Best' Budget"
-date: 2006-05-19
-source-url: https://www.scoop.co.nz/stories/PA0605/S00477/pansy-speak-the-state-knows-best-budget.htm
+title: 'Pansy Speak: ''The State Knows Best'' Budget'
+date: 2006-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00477/pansy-speak-the-state-knows-best-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/19/pansy-speak-the-state-knows-best-budget/index.html
+layout: layout.njk
 ---
 Pansy Speak: 'The State Knows Best' Budget
 ==========================================

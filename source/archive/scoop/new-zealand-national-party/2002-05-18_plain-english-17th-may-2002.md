@@ -1,9 +1,11 @@
 ---
 slug: plain-english-17th-may-2002
-title: "Plain English 17th May 2002"
-date: 2002-05-18
+title: Plain English 17th May 2002
+date: 2002-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0205/S00369/plain-english-17th-may-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/18/plain-english-17th-may-2002/index.html
+layout: layout.njk
 ---
 Plain English 17th May 2002
 ===========================

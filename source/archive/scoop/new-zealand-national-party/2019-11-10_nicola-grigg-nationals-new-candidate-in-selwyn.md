@@ -1,9 +1,12 @@
 ---
 slug: nicola-grigg-nationals-new-candidate-in-selwyn
-title: "Nicola Grigg National’s new candidate in Selwyn"
-date: 2019-11-10
-source-url: https://www.scoop.co.nz/stories/PO1911/S00126/nicola-grigg-nationals-new-candidate-in-selwyn.htm
+title: Nicola Grigg National’s new candidate in Selwyn
+date: 2019-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1911/S00126/nicola-grigg-nationals-new-candidate-in-selwyn.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/10/nicola-grigg-nationals-new-candidate-in-selwyn/index.html
+layout: layout.njk
 ---
 Nicola Grigg National’s new candidate in Selwyn
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: the-middle-east-unfolding-otago-foreign-policy-school
-title: "\"The Middle East Unfolding\": Otago Foreign Policy School"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/ED1205/S00107/the-middle-east-unfolding-otago-foreign-policy-school.htm
+title: '"The Middle East Unfolding": Otago Foreign Policy School'
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00107/the-middle-east-unfolding-otago-foreign-policy-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/24/the-middle-east-unfolding-otago-foreign-policy-school/index.html
+layout: layout.njk
 ---
 “The Middle East Unfolding”: Otago Foreign Policy School
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-slams-door-shut-on-polytech-students
-title: "Government slams door shut on polytech students"
-date: 2009-06-25
-source-url: https://www.scoop.co.nz/stories/PA0906/S00352/government-slams-door-shut-on-polytech-students.htm
+title: Government slams door shut on polytech students
+date: 2009-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00352/government-slams-door-shut-on-polytech-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/25/government-slams-door-shut-on-polytech-students/index.html
+layout: layout.njk
 ---
 Government slams door shut on polytech students
 ===============================================

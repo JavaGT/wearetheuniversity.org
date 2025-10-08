@@ -1,9 +1,13 @@
 ---
 slug: labour-going-soft-on-welfare-and-making-life-harder-for-employers
-title: "Labour Going Soft On Welfare And Making Life Harder For Employers"
-date: 2022-07-21
-source-url: https://www.scoop.co.nz/stories/PA2207/S00149/labour-going-soft-on-welfare-and-making-life-harder-for-employers.htm
+title: Labour Going Soft On Welfare And Making Life Harder For Employers
+date: 2022-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00149/labour-going-soft-on-welfare-and-making-life-harder-for-employers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/07/21/labour-going-soft-on-welfare-and-making-life-harder-for-employers/index.html
+layout: layout.njk
 ---
 Labour Going Soft On Welfare And Making Life Harder For Employers
 =================================================================

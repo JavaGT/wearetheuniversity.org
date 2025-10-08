@@ -1,9 +1,13 @@
 ---
 slug: social-impact-of-internet-in-nz-results-released
-title: "Social Impact of Internet in NZ - Results Released"
-date: 2008-07-29
-source-url: https://www.scoop.co.nz/stories/ED0807/S00090/social-impact-of-internet-in-nz-results-released.htm
+title: Social Impact of Internet in NZ - Results Released
+date: 2008-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00090/social-impact-of-internet-in-nz-results-released.htm
 author: aut-university
+permalink: >-
+  /archive/2008/07/29/social-impact-of-internet-in-nz-results-released/index.html
+layout: layout.njk
 ---
 Social Impact of Internet in NZ - Results Released
 ==================================================

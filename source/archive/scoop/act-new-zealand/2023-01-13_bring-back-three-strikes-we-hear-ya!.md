@@ -1,9 +1,12 @@
 ---
 slug: bring-back-three-strikes-we-hear-ya!
-title: "Bring Back Three Strikes? We Hear Ya!"
-date: 2023-01-13
-source-url: https://www.scoop.co.nz/stories/PA2301/S00023/bring-back-three-strikes-we-hear-ya.htm
+title: Bring Back Three Strikes? We Hear Ya!
+date: 2023-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00023/bring-back-three-strikes-we-hear-ya.htm
 author: act-new-zealand
+permalink: /archive/2023/01/13/bring-back-three-strikes-we-hear-ya/index.html
+layout: layout.njk
 ---
 Bring Back Three Strikes? We Hear Ya!
 =====================================

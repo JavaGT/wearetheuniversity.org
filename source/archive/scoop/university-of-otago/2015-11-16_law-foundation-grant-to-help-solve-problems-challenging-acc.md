@@ -1,9 +1,13 @@
 ---
 slug: law-foundation-grant-to-help-solve-problems-challenging-acc
-title: "Law Foundation grant to help solve problems challenging ACC"
-date: 2015-11-16
-source-url: https://www.scoop.co.nz/stories/ED1511/S00081/law-foundation-grant-to-help-solve-problems-challenging-acc.htm
+title: Law Foundation grant to help solve problems challenging ACC
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00081/law-foundation-grant-to-help-solve-problems-challenging-acc.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/16/law-foundation-grant-to-help-solve-problems-challenging-acc/index.html
+layout: layout.njk
 ---
 Law Foundation grant to help solve problems challenging ACC
 ===========================================================

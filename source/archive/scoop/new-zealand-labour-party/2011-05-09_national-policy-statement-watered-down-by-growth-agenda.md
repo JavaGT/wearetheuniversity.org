@@ -1,9 +1,13 @@
 ---
 slug: national-policy-statement-watered-down-by-growth-agenda
-title: "National Policy Statement ‘Watered Down’ by Growth Agenda"
-date: 2011-05-09
-source-url: https://www.scoop.co.nz/stories/PA1105/S00177/national-policy-statement-watered-down-by-growth-agenda.htm
+title: National Policy Statement ‘Watered Down’ by Growth Agenda
+date: 2011-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00177/national-policy-statement-watered-down-by-growth-agenda.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/09/national-policy-statement-watered-down-by-growth-agenda/index.html
+layout: layout.njk
 ---
 National Policy Statement ‘Watered Down’ by Growth Agenda
 =========================================================

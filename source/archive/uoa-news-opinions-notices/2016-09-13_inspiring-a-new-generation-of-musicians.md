@@ -1,8 +1,11 @@
 ---
 slug: inspiring-a-new-generation-of-musicians
-title: "Inspiring a new generation of musicians"
-date: 2016-09-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/inspiring-a-new-generation-of-musicians.html
+title: Inspiring a new generation of musicians
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/inspiring-a-new-generation-of-musicians.html
+permalink: /archive/2016/09/13/inspiring-a-new-generation-of-musicians/index.html
+layout: layout.njk
 ---
 Inspiring a new generation of musicians
 =======================================

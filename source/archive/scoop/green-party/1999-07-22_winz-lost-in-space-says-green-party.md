@@ -1,9 +1,12 @@
 ---
 slug: winz-lost-in-space-says-green-party
-title: "WINZ \"Lost In Space\" Says Green Party"
-date: 1999-07-22
-source-url: https://www.scoop.co.nz/stories/PA9907/S00410/winz-lost-in-space-says-green-party.htm
+title: WINZ "Lost In Space" Says Green Party
+date: 1999-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00410/winz-lost-in-space-says-green-party.htm
 author: green-party
+permalink: /archive/1999/07/22/winz-lost-in-space-says-green-party/index.html
+layout: layout.njk
 ---
 WINZ "Lost In Space" Says Green Party
 =====================================

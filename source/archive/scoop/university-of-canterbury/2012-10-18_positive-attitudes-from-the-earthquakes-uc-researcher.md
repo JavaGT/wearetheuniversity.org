@@ -1,9 +1,13 @@
 ---
 slug: positive-attitudes-from-the-earthquakes-uc-researcher
-title: "Positive attitudes from the earthquakes – UC researcher"
-date: 2012-10-18
-source-url: https://www.scoop.co.nz/stories/ED1210/S00109/positive-attitudes-from-the-earthquakes-uc-researcher.htm
+title: Positive attitudes from the earthquakes – UC researcher
+date: 2012-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00109/positive-attitudes-from-the-earthquakes-uc-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/18/positive-attitudes-from-the-earthquakes-uc-researcher/index.html
+layout: layout.njk
 ---
 Positive attitudes from the earthquakes – UC researcher
 =======================================================

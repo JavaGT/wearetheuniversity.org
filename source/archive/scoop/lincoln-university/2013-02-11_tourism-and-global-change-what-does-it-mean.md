@@ -1,9 +1,12 @@
 ---
 slug: tourism-and-global-change-what-does-it-mean
-title: "Tourism and global change – what does it mean?"
-date: 2013-02-11
-source-url: https://www.scoop.co.nz/stories/BU1302/S00309/tourism-and-global-change-what-does-it-mean.htm
+title: Tourism and global change – what does it mean?
+date: 2013-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1302/S00309/tourism-and-global-change-what-does-it-mean.htm
 author: lincoln-university
+permalink: /archive/2013/02/11/tourism-and-global-change-what-does-it-mean/index.html
+layout: layout.njk
 ---
 Tourism and global change – what does it mean?
 ==============================================

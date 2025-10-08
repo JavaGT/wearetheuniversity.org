@@ -1,9 +1,13 @@
 ---
 slug: student-isolation-in-university-hostels-cruel-and-unusual
-title: "Student Isolation In University Hostels Cruel And Unusual"
-date: 2022-02-21
-source-url: https://www.scoop.co.nz/stories/PA2202/S00143/student-isolation-in-university-hostels-cruel-and-unusual.htm
+title: Student Isolation In University Hostels Cruel And Unusual
+date: 2022-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00143/student-isolation-in-university-hostels-cruel-and-unusual.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/02/21/student-isolation-in-university-hostels-cruel-and-unusual/index.html
+layout: layout.njk
 ---
 Student Isolation In University Hostels Cruel And Unusual
 =========================================================

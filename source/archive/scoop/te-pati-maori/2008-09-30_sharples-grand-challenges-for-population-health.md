@@ -1,9 +1,12 @@
 ---
 slug: sharples-grand-challenges-for-population-health
-title: "Sharples: Grand Challenges for Population Health"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/PA0809/S00681/sharples-grand-challenges-for-population-health.htm
+title: 'Sharples: Grand Challenges for Population Health'
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00681/sharples-grand-challenges-for-population-health.htm
 author: te-pati-maori
+permalink: /archive/2008/09/30/sharples-grand-challenges-for-population-health/index.html
+layout: layout.njk
 ---
 Sharples: Grand Challenges for Population Health
 ================================================

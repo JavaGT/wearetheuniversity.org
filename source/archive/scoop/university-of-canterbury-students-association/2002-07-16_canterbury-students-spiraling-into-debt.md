@@ -1,9 +1,12 @@
 ---
 slug: canterbury-students-spiraling-into-debt
-title: "Canterbury Students Spiraling Into Debt"
-date: 2002-07-16
-source-url: https://www.scoop.co.nz/stories/ED0207/S00030/canterbury-students-spiraling-into-debt.htm
+title: Canterbury Students Spiraling Into Debt
+date: 2002-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00030/canterbury-students-spiraling-into-debt.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/07/16/canterbury-students-spiraling-into-debt/index.html
+layout: layout.njk
 ---
 Canterbury Students Spiraling Into Debt
 =======================================

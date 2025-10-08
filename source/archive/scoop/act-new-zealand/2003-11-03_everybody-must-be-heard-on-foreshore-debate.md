@@ -1,9 +1,12 @@
 ---
 slug: everybody-must-be-heard-on-foreshore-debate
-title: "Everybody Must Be Heard On Foreshore Debate"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/PA0311/S00008/everybody-must-be-heard-on-foreshore-debate.htm
+title: Everybody Must Be Heard On Foreshore Debate
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00008/everybody-must-be-heard-on-foreshore-debate.htm
 author: act-new-zealand
+permalink: /archive/2003/11/03/everybody-must-be-heard-on-foreshore-debate/index.html
+layout: layout.njk
 ---
 Everybody Must Be Heard On Foreshore Debate
 ===========================================

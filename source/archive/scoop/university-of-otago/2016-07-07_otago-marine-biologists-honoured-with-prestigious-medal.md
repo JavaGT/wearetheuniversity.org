@@ -1,9 +1,13 @@
 ---
 slug: otago-marine-biologists-honoured-with-prestigious-medal
-title: "Otago marine biologists honoured with prestigious medal"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/SC1607/S00023/otago-marine-biologists-honoured-with-prestigious-medal.htm
+title: Otago marine biologists honoured with prestigious medal
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00023/otago-marine-biologists-honoured-with-prestigious-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/07/07/otago-marine-biologists-honoured-with-prestigious-medal/index.html
+layout: layout.njk
 ---
 Otago marine biologists honoured with prestigious medal
 =======================================================

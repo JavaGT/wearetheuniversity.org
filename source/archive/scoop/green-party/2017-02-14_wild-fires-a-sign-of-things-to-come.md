@@ -1,9 +1,12 @@
 ---
 slug: wild-fires-a-sign-of-things-to-come
-title: "Wild fires a sign of things to come"
-date: 2017-02-14
-source-url: https://www.scoop.co.nz/stories/PA1702/S00182/wild-fires-a-sign-of-things-to-come.htm
+title: Wild fires a sign of things to come
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00182/wild-fires-a-sign-of-things-to-come.htm
 author: green-party
+permalink: /archive/2017/02/14/wild-fires-a-sign-of-things-to-come/index.html
+layout: layout.njk
 ---
 Wild fires a sign of things to come
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: hide-helen-clark-is-no-longer-the-teflon-pm
-title: "Hide - Helen Clark is no longer the Teflon PM"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/PA0506/S00142/hide-helen-clark-is-no-longer-the-teflon-pm.htm
+title: Hide - Helen Clark is no longer the Teflon PM
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00142/hide-helen-clark-is-no-longer-the-teflon-pm.htm
 author: act-new-zealand
+permalink: /archive/2005/06/08/hide-helen-clark-is-no-longer-the-teflon-pm/index.html
+layout: layout.njk
 ---
 Hide - Helen Clark is no longer the Teflon PM
 =============================================

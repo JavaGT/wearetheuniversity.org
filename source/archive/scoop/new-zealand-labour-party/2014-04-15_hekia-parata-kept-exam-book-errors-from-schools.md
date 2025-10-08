@@ -1,9 +1,12 @@
 ---
 slug: hekia-parata-kept-exam-book-errors-from-schools
-title: "Hekia Parata kept exam book errors from schools"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/PA1404/S00259/hekia-parata-kept-exam-book-errors-from-schools.htm
+title: Hekia Parata kept exam book errors from schools
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00259/hekia-parata-kept-exam-book-errors-from-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/15/hekia-parata-kept-exam-book-errors-from-schools/index.html
+layout: layout.njk
 ---
 Hekia Parata kept exam book errors from schools
 ===============================================

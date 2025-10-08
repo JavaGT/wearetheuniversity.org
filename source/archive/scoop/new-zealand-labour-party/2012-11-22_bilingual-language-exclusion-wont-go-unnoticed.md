@@ -1,9 +1,12 @@
 ---
 slug: bilingual-language-exclusion-wont-go-unnoticed
-title: "Bilingual language exclusion won’t go unnoticed"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/PA1211/S00385/bilingual-language-exclusion-wont-go-unnoticed.htm
+title: Bilingual language exclusion won’t go unnoticed
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00385/bilingual-language-exclusion-wont-go-unnoticed.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/22/bilingual-language-exclusion-wont-go-unnoticed/index.html
+layout: layout.njk
 ---
 Bilingual language exclusion won’t go unnoticed
 ===============================================

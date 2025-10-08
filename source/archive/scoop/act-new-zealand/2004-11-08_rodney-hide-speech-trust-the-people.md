@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-speech-trust-the-people
-title: "Rodney Hide speech: Trust The People"
-date: 2004-11-08
-source-url: https://www.scoop.co.nz/stories/PA0411/S00174/rodney-hide-speech-trust-the-people.htm
+title: 'Rodney Hide speech: Trust The People'
+date: 2004-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00174/rodney-hide-speech-trust-the-people.htm
 author: act-new-zealand
+permalink: /archive/2004/11/08/rodney-hide-speech-trust-the-people/index.html
+layout: layout.njk
 ---
 Rodney Hide speech: Trust The People
 ====================================

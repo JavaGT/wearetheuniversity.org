@@ -1,9 +1,13 @@
 ---
 slug: child-abuse-psychosis-european-studies-nz-findings
-title: "Child Abuse Psychosis European Studies NZ Findings"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/ED0409/S00016/child-abuse-psychosis-european-studies-nz-findings.htm
+title: Child Abuse Psychosis European Studies NZ Findings
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00016/child-abuse-psychosis-european-studies-nz-findings.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/09/06/child-abuse-psychosis-european-studies-nz-findings/index.html
+layout: layout.njk
 ---
 Child Abuse Psychosis European Studies NZ Findings
 ==================================================

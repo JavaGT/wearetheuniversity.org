@@ -1,9 +1,12 @@
 ---
 slug: hrc-hijacked-by-radicals-disband-it
-title: "HRC Hijacked By Radicals, Disband It"
-date: 2024-04-23
-source-url: https://www.scoop.co.nz/stories/PA2404/S00144/hrc-hijacked-by-radicals-disband-it.htm
+title: HRC Hijacked By Radicals, Disband It
+date: 2024-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00144/hrc-hijacked-by-radicals-disband-it.htm
 author: act-new-zealand
+permalink: /archive/2024/04/23/hrc-hijacked-by-radicals-disband-it/index.html
+layout: layout.njk
 ---
 HRC Hijacked By Radicals, Disband It
 ====================================

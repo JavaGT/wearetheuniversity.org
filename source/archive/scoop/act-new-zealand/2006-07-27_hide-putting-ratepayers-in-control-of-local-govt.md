@@ -1,9 +1,13 @@
 ---
 slug: hide-putting-ratepayers-in-control-of-local-govt
-title: "Hide: Putting Ratepayers In Control Of Local Govt"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/PA0607/S00482/hide-putting-ratepayers-in-control-of-local-govt.htm
+title: 'Hide: Putting Ratepayers In Control Of Local Govt'
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00482/hide-putting-ratepayers-in-control-of-local-govt.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2006/07/27/hide-putting-ratepayers-in-control-of-local-govt/index.html
+layout: layout.njk
 ---
 Hide: Putting Ratepayers In Control Of Local Govt
 =================================================

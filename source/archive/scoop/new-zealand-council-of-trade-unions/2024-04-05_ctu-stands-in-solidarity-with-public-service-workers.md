@@ -1,9 +1,13 @@
 ---
 slug: ctu-stands-in-solidarity-with-public-service-workers
-title: "CTU Stands In Solidarity With Public Service Workers"
-date: 2024-04-05
-source-url: https://www.scoop.co.nz/stories/PO2404/S00024/ctu-stands-in-solidarity-with-public-service-workers.htm
+title: CTU Stands In Solidarity With Public Service Workers
+date: 2024-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2404/S00024/ctu-stands-in-solidarity-with-public-service-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/04/05/ctu-stands-in-solidarity-with-public-service-workers/index.html
+layout: layout.njk
 ---
 CTU Stands In Solidarity With Public Service Workers
 ====================================================

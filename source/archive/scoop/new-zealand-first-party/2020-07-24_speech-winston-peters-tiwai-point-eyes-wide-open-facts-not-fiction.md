@@ -1,9 +1,13 @@
 ---
 slug: speech-winston-peters-tiwai-point-eyes-wide-open-facts-not-fiction
-title: "Speech - Winston Peters: \"Tiwai Point – Eyes Wide Open Facts Not Fiction\""
-date: 2020-07-24
-source-url: https://www.scoop.co.nz/stories/PA2007/S00239/speech-winston-peters-tiwai-point-eyes-wide-open-facts-not-fiction.htm
+title: 'Speech - Winston Peters: "Tiwai Point – Eyes Wide Open Facts Not Fiction"'
+date: 2020-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00239/speech-winston-peters-tiwai-point-eyes-wide-open-facts-not-fiction.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/07/24/speech-winston-peters-tiwai-point-eyes-wide-open-facts-not-fiction/index.html
+layout: layout.njk
 ---
 Speech - Winston Peters: “Tiwai Point – Eyes Wide Open Facts Not Fiction”
 =========================================================================

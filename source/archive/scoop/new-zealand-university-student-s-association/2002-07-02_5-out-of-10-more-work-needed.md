@@ -1,9 +1,11 @@
 ---
 slug: 5-out-of-10-more-work-needed
-title: "5 out of 10, More Work Needed"
-date: 2002-07-02
+title: 5 out of 10, More Work Needed
+date: 2002-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0207/S00023/5-out-of-10-more-work-needed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/02/5-out-of-10-more-work-needed/index.html
+layout: layout.njk
 ---
 5 out of 10, More Work Needed
 =============================

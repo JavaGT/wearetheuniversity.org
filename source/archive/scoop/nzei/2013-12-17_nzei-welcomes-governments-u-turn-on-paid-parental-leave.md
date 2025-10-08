@@ -1,9 +1,13 @@
 ---
 slug: nzei-welcomes-governments-u-turn-on-paid-parental-leave
-title: "NZEI welcomes government’s U-turn on paid parental leave"
-date: 2013-12-17
-source-url: https://www.scoop.co.nz/stories/PO1312/S00235/nzei-welcomes-governments-u-turn-on-paid-parental-leave.htm
+title: NZEI welcomes government’s U-turn on paid parental leave
+date: 2013-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1312/S00235/nzei-welcomes-governments-u-turn-on-paid-parental-leave.htm
 author: nzei
+permalink: >-
+  /archive/2013/12/17/nzei-welcomes-governments-u-turn-on-paid-parental-leave/index.html
+layout: layout.njk
 ---
 NZEI welcomes government’s U-turn on paid parental leave
 ========================================================

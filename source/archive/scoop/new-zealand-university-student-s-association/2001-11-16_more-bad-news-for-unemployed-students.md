@@ -1,9 +1,12 @@
 ---
 slug: more-bad-news-for-unemployed-students
-title: "More bad news for unemployed students"
-date: 2001-11-16
-source-url: https://www.scoop.co.nz/stories/ED0111/S00033/more-bad-news-for-unemployed-students.htm
+title: More bad news for unemployed students
+date: 2001-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00033/more-bad-news-for-unemployed-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/11/16/more-bad-news-for-unemployed-students/index.html
+layout: layout.njk
 ---
 More bad news for unemployed students
 =====================================

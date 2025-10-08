@@ -1,9 +1,12 @@
 ---
 slug: new-study-shows-kiwi-call-in-perfect-harmony
-title: "New study shows kiwi call in perfect harmony"
-date: 2013-05-01
-source-url: https://www.scoop.co.nz/stories/SC1305/S00003/new-study-shows-kiwi-call-in-perfect-harmony.htm
+title: New study shows kiwi call in perfect harmony
+date: 2013-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00003/new-study-shows-kiwi-call-in-perfect-harmony.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/01/new-study-shows-kiwi-call-in-perfect-harmony/index.html
+layout: layout.njk
 ---
 New study shows kiwi call in perfect harmony
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: ge-threat-to-booming-organics-industry
-title: "GE Threat To Booming Organics Industry"
-date: 2000-09-04
-source-url: https://www.scoop.co.nz/stories/PA0009/S00020/ge-threat-to-booming-organics-industry.htm
+title: GE Threat To Booming Organics Industry
+date: 2000-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00020/ge-threat-to-booming-organics-industry.htm
 author: green-party
+permalink: /archive/2000/09/04/ge-threat-to-booming-organics-industry/index.html
+layout: layout.njk
 ---
 GE Threat To Booming Organics Industry
 ======================================

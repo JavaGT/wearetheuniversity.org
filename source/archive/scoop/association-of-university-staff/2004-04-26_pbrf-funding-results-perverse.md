@@ -1,9 +1,12 @@
 ---
 slug: pbrf-funding-results-perverse
-title: "PBRF funding results \"perverse\""
-date: 2004-04-26
-source-url: https://www.scoop.co.nz/stories/ED0404/S00095/pbrf-funding-results-perverse.htm
+title: PBRF funding results "perverse"
+date: 2004-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00095/pbrf-funding-results-perverse.htm
 author: association-of-university-staff
+permalink: /archive/2004/04/26/pbrf-funding-results-perverse/index.html
+layout: layout.njk
 ---
 PBRF funding results “perverse”
 ===============================

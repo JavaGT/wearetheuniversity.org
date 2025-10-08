@@ -1,9 +1,11 @@
 ---
 slug: a-future-with-choices-power
-title: "A future with choices: Power"
-date: 2006-07-23
+title: 'A future with choices: Power'
+date: 2006-07-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0607/S00362/a-future-with-choices-power.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/23/a-future-with-choices-power/index.html
+layout: layout.njk
 ---
 A future with choices: Power
 ============================

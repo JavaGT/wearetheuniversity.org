@@ -1,9 +1,12 @@
 ---
 slug: dunedin-greens-support-world-car-free-day
-title: "Dunedin Greens support World Car Free Day"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/PO0809/S00305/dunedin-greens-support-world-car-free-day.htm
+title: Dunedin Greens support World Car Free Day
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00305/dunedin-greens-support-world-car-free-day.htm
 author: green-party
+permalink: /archive/2008/09/22/dunedin-greens-support-world-car-free-day/index.html
+layout: layout.njk
 ---
 Dunedin Greens support World Car Free Day
 =========================================

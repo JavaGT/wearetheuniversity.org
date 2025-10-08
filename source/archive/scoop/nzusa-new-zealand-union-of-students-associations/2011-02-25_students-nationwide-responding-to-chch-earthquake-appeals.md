@@ -1,9 +1,13 @@
 ---
 slug: students-nationwide-responding-to-chch-earthquake-appeals
-title: "Students nationwide responding to CHCH earthquake appeals"
-date: 2011-02-25
-source-url: https://www.scoop.co.nz/stories/AK1102/S01028/students-nationwide-responding-to-chch-earthquake-appeals.htm
+title: Students nationwide responding to CHCH earthquake appeals
+date: 2011-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S01028/students-nationwide-responding-to-chch-earthquake-appeals.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/02/25/students-nationwide-responding-to-chch-earthquake-appeals/index.html
+layout: layout.njk
 ---
 Students nationwide responding to CHCH earthquake appeals
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-govt-passing-up-prime-opportunity-for-rural-development
-title: "New Govt passing up prime opportunity for rural development"
-date: 2017-11-30
-source-url: https://www.scoop.co.nz/stories/PA1711/S00188/new-govt-passing-up-prime-opportunity-for-rural-development.htm
+title: New Govt passing up prime opportunity for rural development
+date: 2017-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00188/new-govt-passing-up-prime-opportunity-for-rural-development.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/11/30/new-govt-passing-up-prime-opportunity-for-rural-development/index.html
+layout: layout.njk
 ---
 New Govt passing up prime opportunity for rural development
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-students-create-space-satellite-software
-title: "Massey students create space satellite software"
-date: 2011-08-31
-source-url: https://www.scoop.co.nz/stories/ED1108/S00163/massey-students-create-space-satellite-software.htm
+title: Massey students create space satellite software
+date: 2011-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00163/massey-students-create-space-satellite-software.htm
 author: massey-university
+permalink: /archive/2011/08/31/massey-students-create-space-satellite-software/index.html
+layout: layout.njk
 ---
 Massey students create space satellite software
 ===============================================

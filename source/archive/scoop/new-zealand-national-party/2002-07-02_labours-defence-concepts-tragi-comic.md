@@ -1,9 +1,12 @@
 ---
 slug: labours-defence-concepts-tragi-comic
-title: "Labour’s Defence Concepts \"Tragi-Comic\""
-date: 2002-07-02
-source-url: https://www.scoop.co.nz/stories/PA0207/S00059/labours-defence-concepts-tragi-comic.htm
+title: Labour’s Defence Concepts "Tragi-Comic"
+date: 2002-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00059/labours-defence-concepts-tragi-comic.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/02/labours-defence-concepts-tragi-comic/index.html
+layout: layout.njk
 ---
 Labour’s Defence Concepts “Tragi-Comic”
 =======================================

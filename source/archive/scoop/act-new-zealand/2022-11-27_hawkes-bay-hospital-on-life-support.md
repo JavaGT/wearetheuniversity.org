@@ -1,9 +1,12 @@
 ---
 slug: hawkes-bay-hospital-on-life-support
-title: "Hawke’s Bay Hospital On Life Support"
-date: 2022-11-27
-source-url: https://www.scoop.co.nz/stories/PA2211/S00233/hawkes-bay-hospital-on-life-support.htm
+title: Hawke’s Bay Hospital On Life Support
+date: 2022-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00233/hawkes-bay-hospital-on-life-support.htm
 author: act-new-zealand
+permalink: /archive/2022/11/27/hawkes-bay-hospital-on-life-support/index.html
+layout: layout.njk
 ---
 Hawke’s Bay Hospital On Life Support
 ====================================

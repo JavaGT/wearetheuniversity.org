@@ -1,8 +1,11 @@
 ---
 slug: sympathy-for-cyclone-winston-victims
-title: "Sympathy for Cyclone Winston victims"
-date: 2016-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/sympathy-for-cyclone-winston-victims.html
+title: Sympathy for Cyclone Winston victims
+date: 2016-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/sympathy-for-cyclone-winston-victims.html
+permalink: /archive/2016/02/23/sympathy-for-cyclone-winston-victims/index.html
+layout: layout.njk
 ---
 Sympathy for Cyclone Winston victims
 ====================================

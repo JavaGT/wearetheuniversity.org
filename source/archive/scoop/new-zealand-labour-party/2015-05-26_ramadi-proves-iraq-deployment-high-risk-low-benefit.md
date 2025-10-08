@@ -1,9 +1,13 @@
 ---
 slug: ramadi-proves-iraq-deployment-high-risk-low-benefit
-title: "Ramadi proves Iraq deployment high risk, low benefit"
-date: 2015-05-26
-source-url: https://www.scoop.co.nz/stories/PA1505/S00480/ramadi-proves-iraq-deployment-high-risk-low-benefit.htm
+title: Ramadi proves Iraq deployment high risk, low benefit
+date: 2015-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00480/ramadi-proves-iraq-deployment-high-risk-low-benefit.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/05/26/ramadi-proves-iraq-deployment-high-risk-low-benefit/index.html
+layout: layout.njk
 ---
 Ramadi proves Iraq deployment high risk, low benefit
 ====================================================

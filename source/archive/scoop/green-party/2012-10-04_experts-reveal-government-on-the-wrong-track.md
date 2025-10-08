@@ -1,9 +1,12 @@
 ---
 slug: experts-reveal-government-on-the-wrong-track
-title: "Experts reveal Government on the wrong track"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/PA1210/S00085/experts-reveal-government-on-the-wrong-track.htm
+title: Experts reveal Government on the wrong track
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00085/experts-reveal-government-on-the-wrong-track.htm
 author: green-party
+permalink: /archive/2012/10/04/experts-reveal-government-on-the-wrong-track/index.html
+layout: layout.njk
 ---
 Experts reveal Government on the wrong track
 ============================================

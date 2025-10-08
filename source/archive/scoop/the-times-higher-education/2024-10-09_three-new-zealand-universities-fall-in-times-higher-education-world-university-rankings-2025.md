@@ -1,9 +1,16 @@
 ---
-slug: three-new-zealand-universities-fall-in-times-higher-education-world-university-rankings-2025
-title: "Three New Zealand Universities Fall In Times Higher Education World University Rankings 2025"
-date: 2024-10-09
-source-url: https://www.scoop.co.nz/stories/ED2410/S00014/three-new-zealand-universities-fall-in-times-higher-education-world-university-rankings-2025.htm
+slug: >-
+  three-new-zealand-universities-fall-in-times-higher-education-world-university-rankings-2025
+title: >-
+  Three New Zealand Universities Fall In Times Higher Education World University
+  Rankings 2025
+date: 2024-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00014/three-new-zealand-universities-fall-in-times-higher-education-world-university-rankings-2025.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2024/10/09/three-new-zealand-universities-fall-in-times-higher-education-world-university-rankings-2025/index.html
+layout: layout.njk
 ---
 Three New Zealand Universities Fall In Times Higher Education World University Rankings 2025
 ============================================================================================

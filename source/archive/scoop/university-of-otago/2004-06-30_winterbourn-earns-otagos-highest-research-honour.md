@@ -1,9 +1,13 @@
 ---
 slug: winterbourn-earns-otagos-highest-research-honour
-title: "Winterbourn Earns Otago’s Highest Research Honour"
-date: 2004-06-30
-source-url: https://www.scoop.co.nz/stories/ED0406/S00110/winterbourn-earns-otagos-highest-research-honour.htm
+title: Winterbourn Earns Otago’s Highest Research Honour
+date: 2004-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00110/winterbourn-earns-otagos-highest-research-honour.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/06/30/winterbourn-earns-otagos-highest-research-honour/index.html
+layout: layout.njk
 ---
 Winterbourn Earns Otago’s Highest Research Honour
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: linguistic-legacy-boosted-by-half-million-donation
-title: "Linguistic legacy boosted by half million donation"
-date: 2004-01-21
-source-url: https://www.scoop.co.nz/stories/ED0401/S00019/linguistic-legacy-boosted-by-half-million-donation.htm
+title: Linguistic legacy boosted by half million donation
+date: 2004-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00019/linguistic-legacy-boosted-by-half-million-donation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/01/21/linguistic-legacy-boosted-by-half-million-donation/index.html
+layout: layout.njk
 ---
 Linguistic legacy boosted by half million donation
 ==================================================

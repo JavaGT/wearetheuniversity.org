@@ -1,9 +1,12 @@
 ---
 slug: export-subsidies-decision-was-on-the-cards
-title: "Export subsidies decision was on the cards"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/BU0905/S00692/export-subsidies-decision-was-on-the-cards.htm
+title: Export subsidies decision was on the cards
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00692/export-subsidies-decision-was-on-the-cards.htm
 author: massey-university
+permalink: /archive/2009/05/26/export-subsidies-decision-was-on-the-cards/index.html
+layout: layout.njk
 ---
 Export subsidies decision was on the cards
 ==========================================

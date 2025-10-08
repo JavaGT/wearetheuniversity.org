@@ -1,9 +1,12 @@
 ---
 slug: parliament-to-ignore-public-on-smacking-bill
-title: "Parliament To Ignore Public On Smacking Bill"
-date: 2007-03-13
-source-url: https://www.scoop.co.nz/stories/PA0703/S00231/parliament-to-ignore-public-on-smacking-bill.htm
+title: Parliament To Ignore Public On Smacking Bill
+date: 2007-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00231/parliament-to-ignore-public-on-smacking-bill.htm
 author: act-new-zealand
+permalink: /archive/2007/03/13/parliament-to-ignore-public-on-smacking-bill/index.html
+layout: layout.njk
 ---
 Parliament To Ignore Public On Smacking Bill
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-calls-for-independent-inquiry-into-school-interventions
-title: "NZEI calls for independent inquiry into school interventions"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/ED1311/S00071/nzei-calls-for-independent-inquiry-into-school-interventions.htm
+title: NZEI calls for independent inquiry into school interventions
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00071/nzei-calls-for-independent-inquiry-into-school-interventions.htm
 author: nzei
+permalink: >-
+  /archive/2013/11/11/nzei-calls-for-independent-inquiry-into-school-interventions/index.html
+layout: layout.njk
 ---
 NZEI calls for independent inquiry into school interventions
 ============================================================

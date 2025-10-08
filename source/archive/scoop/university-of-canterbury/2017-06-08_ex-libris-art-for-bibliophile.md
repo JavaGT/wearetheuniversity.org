@@ -1,9 +1,12 @@
 ---
 slug: ex-libris-art-for-bibliophile
-title: "Ex Libris – art for bibliophile"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/CU1706/S00146/ex-libris-art-for-bibliophile.htm
+title: Ex Libris – art for bibliophile
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1706/S00146/ex-libris-art-for-bibliophile.htm
 author: university-of-canterbury
+permalink: /archive/2017/06/08/ex-libris-art-for-bibliophile/index.html
+layout: layout.njk
 ---
 Ex Libris – art for bibliophile
 ===============================

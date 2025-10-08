@@ -1,9 +1,12 @@
 ---
 slug: families-helped-by-labours-economic-management
-title: "Families helped by Labour's economic management"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00235/families-helped-by-labours-economic-management.htm
+title: Families helped by Labour's economic management
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00235/families-helped-by-labours-economic-management.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/10/families-helped-by-labours-economic-management/index.html
+layout: layout.njk
 ---
 Families helped by Labour's economic management
 ===============================================

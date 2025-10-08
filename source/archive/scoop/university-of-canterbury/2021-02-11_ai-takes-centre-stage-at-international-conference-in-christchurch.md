@@ -1,9 +1,13 @@
 ---
 slug: ai-takes-centre-stage-at-international-conference-in-christchurch
-title: "AI Takes Centre Stage At International Conference In Christchurch"
-date: 2021-02-11
-source-url: https://www.scoop.co.nz/stories/SC2102/S00013/ai-takes-centre-stage-at-international-conference-in-christchurch.htm
+title: AI Takes Centre Stage At International Conference In Christchurch
+date: 2021-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2102/S00013/ai-takes-centre-stage-at-international-conference-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/02/11/ai-takes-centre-stage-at-international-conference-in-christchurch/index.html
+layout: layout.njk
 ---
 AI Takes Centre Stage At International Conference In Christchurch
 =================================================================

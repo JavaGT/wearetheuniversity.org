@@ -1,9 +1,15 @@
 ---
 slug: waikato-continues-to-climb-global-rankings-breaks-into-new-zealands-top-three
-title: "Waikato Continues To Climb Global Rankings, Breaks Into New Zealand’s Top Three"
-date: 2024-06-05
-source-url: https://www.scoop.co.nz/stories/ED2406/S00005/waikato-continues-to-climb-global-rankings-breaks-into-new-zealands-top-three.htm
+title: >-
+  Waikato Continues To Climb Global Rankings, Breaks Into New Zealand’s Top
+  Three
+date: 2024-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00005/waikato-continues-to-climb-global-rankings-breaks-into-new-zealands-top-three.htm
 author: waikato-university
+permalink: >-
+  /archive/2024/06/05/waikato-continues-to-climb-global-rankings-breaks-into-new-zealands-top-three/index.html
+layout: layout.njk
 ---
 Waikato Continues To Climb Global Rankings, Breaks Into New Zealand’s Top Three
 ===============================================================================

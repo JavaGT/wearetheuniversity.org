@@ -1,9 +1,12 @@
 ---
 slug: act-would-return-bureaucrats-to-2017-levels
-title: "ACT Would Return Bureaucrats To 2017 Levels"
-date: 2022-04-21
-source-url: https://www.scoop.co.nz/stories/PA2204/S00148/act-would-return-bureaucrats-to-2017-levels.htm
+title: ACT Would Return Bureaucrats To 2017 Levels
+date: 2022-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00148/act-would-return-bureaucrats-to-2017-levels.htm
 author: act-new-zealand
+permalink: /archive/2022/04/21/act-would-return-bureaucrats-to-2017-levels/index.html
+layout: layout.njk
 ---
 ACT Would Return Bureaucrats To 2017 Levels
 ===========================================

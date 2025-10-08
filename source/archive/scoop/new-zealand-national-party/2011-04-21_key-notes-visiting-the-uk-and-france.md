@@ -1,9 +1,12 @@
 ---
 slug: key-notes-visiting-the-uk-and-france
-title: "Key Notes: Visiting the UK and France"
-date: 2011-04-21
-source-url: https://www.scoop.co.nz/stories/PA1104/S00459/key-notes-visiting-the-uk-and-france.htm
+title: 'Key Notes: Visiting the UK and France'
+date: 2011-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00459/key-notes-visiting-the-uk-and-france.htm
 author: new-zealand-national-party
+permalink: /archive/2011/04/21/key-notes-visiting-the-uk-and-france/index.html
+layout: layout.njk
 ---
 Key Notes: Visiting the UK and France
 =====================================

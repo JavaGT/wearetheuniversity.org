@@ -1,9 +1,12 @@
 ---
 slug: auckland-faces-prolonged-strike-action
-title: "Auckland faces prolonged strike action"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/ED0504/S00018/auckland-faces-prolonged-strike-action.htm
+title: Auckland faces prolonged strike action
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00018/auckland-faces-prolonged-strike-action.htm
 author: association-of-university-staff
+permalink: /archive/2005/04/07/auckland-faces-prolonged-strike-action/index.html
+layout: layout.njk
 ---
 Auckland faces prolonged strike action
 ======================================

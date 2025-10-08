@@ -1,9 +1,13 @@
 ---
 slug: researchers-investigate-impact-of-brain-protein-on-memory
-title: "Researchers investigate impact of brain protein on memory"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/GE1407/S00073/researchers-investigate-impact-of-brain-protein-on-memory.htm
+title: Researchers investigate impact of brain protein on memory
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1407/S00073/researchers-investigate-impact-of-brain-protein-on-memory.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/18/researchers-investigate-impact-of-brain-protein-on-memory/index.html
+layout: layout.njk
 ---
 Researchers investigate impact of brain protein on memory
 =========================================================

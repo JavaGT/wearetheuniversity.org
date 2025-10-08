@@ -1,9 +1,12 @@
 ---
 slug: memo-to-national-stop-the-bullying-and-listen
-title: "Memo to National: Stop the bullying and listen"
-date: 2013-07-16
-source-url: https://www.scoop.co.nz/stories/PA1307/S00250/memo-to-national-stop-the-bullying-and-listen.htm
+title: 'Memo to National: Stop the bullying and listen'
+date: 2013-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00250/memo-to-national-stop-the-bullying-and-listen.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/16/memo-to-national-stop-the-bullying-and-listen/index.html
+layout: layout.njk
 ---
 Memo to National: Stop the bullying and listen
 ==============================================

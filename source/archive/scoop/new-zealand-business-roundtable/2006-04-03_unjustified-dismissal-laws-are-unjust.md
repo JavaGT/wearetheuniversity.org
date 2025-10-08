@@ -1,9 +1,12 @@
 ---
 slug: unjustified-dismissal-laws-are-unjust
-title: "Unjustified Dismissal Laws are Unjust"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/BU0604/S00045/unjustified-dismissal-laws-are-unjust.htm
+title: Unjustified Dismissal Laws are Unjust
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00045/unjustified-dismissal-laws-are-unjust.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/04/03/unjustified-dismissal-laws-are-unjust/index.html
+layout: layout.njk
 ---
 Unjustified Dismissal Laws are Unjust
 =====================================

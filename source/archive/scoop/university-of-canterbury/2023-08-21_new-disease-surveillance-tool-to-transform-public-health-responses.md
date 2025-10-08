@@ -1,9 +1,13 @@
 ---
 slug: new-disease-surveillance-tool-to-transform-public-health-responses
-title: "New Disease Surveillance Tool To Transform Public Health Responses"
-date: 2023-08-21
-source-url: https://www.scoop.co.nz/stories/ED2308/S00038/new-disease-surveillance-tool-to-transform-public-health-responses.htm
+title: New Disease Surveillance Tool To Transform Public Health Responses
+date: 2023-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00038/new-disease-surveillance-tool-to-transform-public-health-responses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/08/21/new-disease-surveillance-tool-to-transform-public-health-responses/index.html
+layout: layout.njk
 ---
 New Disease Surveillance Tool To Transform Public Health Responses
 ==================================================================

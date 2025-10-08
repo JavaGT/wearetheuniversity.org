@@ -1,9 +1,12 @@
 ---
 slug: tribute-paid-to-founding-vice-chancellor
-title: "Tribute Paid To Founding Vice-Chancellor"
-date: 2004-08-05
-source-url: https://www.scoop.co.nz/stories/ED0408/S00012/tribute-paid-to-founding-vice-chancellor.htm
+title: Tribute Paid To Founding Vice-Chancellor
+date: 2004-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00012/tribute-paid-to-founding-vice-chancellor.htm
 author: waikato-university
+permalink: /archive/2004/08/05/tribute-paid-to-founding-vice-chancellor/index.html
+layout: layout.njk
 ---
 Tribute Paid To Founding Vice-Chancellor
 ========================================

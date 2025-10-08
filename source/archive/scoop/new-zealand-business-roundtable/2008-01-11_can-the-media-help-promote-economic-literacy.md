@@ -1,9 +1,12 @@
 ---
 slug: can-the-media-help-promote-economic-literacy
-title: "Can The Media Help Promote Economic Literacy?"
-date: 2008-01-11
-source-url: https://www.scoop.co.nz/stories/BU0801/S00053/can-the-media-help-promote-economic-literacy.htm
+title: Can The Media Help Promote Economic Literacy?
+date: 2008-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0801/S00053/can-the-media-help-promote-economic-literacy.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/01/11/can-the-media-help-promote-economic-literacy/index.html
+layout: layout.njk
 ---
 Can The Media Help Promote Economic Literacy?
 =============================================

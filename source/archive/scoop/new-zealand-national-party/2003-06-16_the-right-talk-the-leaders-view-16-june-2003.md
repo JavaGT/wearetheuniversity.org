@@ -1,9 +1,12 @@
 ---
 slug: the-right-talk-the-leaders-view-16-june-2003
-title: "The Right Talk, The Leader's View - 16 June 2003"
-date: 2003-06-16
-source-url: https://www.scoop.co.nz/stories/PA0306/S00278/the-right-talk-the-leaders-view-16-june-2003.htm
+title: The Right Talk, The Leader's View - 16 June 2003
+date: 2003-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00278/the-right-talk-the-leaders-view-16-june-2003.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/16/the-right-talk-the-leaders-view-16-june-2003/index.html
+layout: layout.njk
 ---
 The Right Talk, The Leader's View - 16 June 2003
 ================================================

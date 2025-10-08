@@ -1,9 +1,12 @@
 ---
 slug: govt-leaves-kiwis-out-in-the-cold
-title: "Govt leaves Kiwis out in the cold"
-date: 2015-07-13
-source-url: https://www.scoop.co.nz/stories/PA1507/S00209/govt-leaves-kiwis-out-in-the-cold.htm
+title: Govt leaves Kiwis out in the cold
+date: 2015-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00209/govt-leaves-kiwis-out-in-the-cold.htm
 author: green-party
+permalink: /archive/2015/07/13/govt-leaves-kiwis-out-in-the-cold/index.html
+layout: layout.njk
 ---
 Govt leaves Kiwis out in the cold
 =================================

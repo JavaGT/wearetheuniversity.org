@@ -1,9 +1,12 @@
 ---
 slug: benefits-in-the-bay-going-going-gone!
-title: "Benefits in the Bay- going, going, gone!"
-date: 2007-05-03
-source-url: https://www.scoop.co.nz/stories/PA0705/S00077/benefits-in-the-bay-going-going-gone.htm
+title: Benefits in the Bay- going, going, gone!
+date: 2007-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00077/benefits-in-the-bay-going-going-gone.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/05/03/benefits-in-the-bay-going-going-gone/index.html
+layout: layout.njk
 ---
 Benefits in the Bay- going, going, gone!
 ========================================

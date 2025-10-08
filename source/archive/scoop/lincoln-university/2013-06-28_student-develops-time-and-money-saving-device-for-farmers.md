@@ -1,9 +1,13 @@
 ---
 slug: student-develops-time-and-money-saving-device-for-farmers
-title: "Student develops time and money saving device for farmers"
-date: 2013-06-28
-source-url: https://www.scoop.co.nz/stories/BU1306/S01021/student-develops-time-and-money-saving-device-for-farmers.htm
+title: Student develops time and money saving device for farmers
+date: 2013-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S01021/student-develops-time-and-money-saving-device-for-farmers.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/06/28/student-develops-time-and-money-saving-device-for-farmers/index.html
+layout: layout.njk
 ---
 Student develops time and money saving device for farmers
 =========================================================

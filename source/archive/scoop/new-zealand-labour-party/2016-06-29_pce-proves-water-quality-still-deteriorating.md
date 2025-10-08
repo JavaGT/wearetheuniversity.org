@@ -1,9 +1,12 @@
 ---
 slug: pce-proves-water-quality-still-deteriorating
-title: "PCE proves water quality still deteriorating"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00488/pce-proves-water-quality-still-deteriorating.htm
+title: PCE proves water quality still deteriorating
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00488/pce-proves-water-quality-still-deteriorating.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/29/pce-proves-water-quality-still-deteriorating/index.html
+layout: layout.njk
 ---
 PCE proves water quality still deteriorating
 ============================================

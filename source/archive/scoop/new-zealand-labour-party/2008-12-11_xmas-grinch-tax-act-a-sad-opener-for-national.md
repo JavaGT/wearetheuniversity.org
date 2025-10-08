@@ -1,9 +1,12 @@
 ---
 slug: xmas-grinch-tax-act-a-sad-opener-for-national
-title: "Xmas grinch tax act a sad opener for National"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/PA0812/S00128/xmas-grinch-tax-act-a-sad-opener-for-national.htm
+title: Xmas grinch tax act a sad opener for National
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00128/xmas-grinch-tax-act-a-sad-opener-for-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/11/xmas-grinch-tax-act-a-sad-opener-for-national/index.html
+layout: layout.njk
 ---
 Xmas grinch tax act a sad opener for National
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-must-help-in-the-growing-iraq-crisis
-title: "New Zealand must help in the growing Iraq crisis"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/PA1408/S00217/new-zealand-must-help-in-the-growing-iraq-crisis.htm
+title: New Zealand must help in the growing Iraq crisis
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00217/new-zealand-must-help-in-the-growing-iraq-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/13/new-zealand-must-help-in-the-growing-iraq-crisis/index.html
+layout: layout.njk
 ---
 New Zealand must help in the growing Iraq crisis
 ================================================

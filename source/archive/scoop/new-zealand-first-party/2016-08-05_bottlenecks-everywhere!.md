@@ -1,9 +1,11 @@
 ---
 slug: bottlenecks-everywhere!
-title: "Bottlenecks – Everywhere!"
-date: 2016-08-05
+title: Bottlenecks – Everywhere!
+date: 2016-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1608/S00094/bottlenecks-everywhere.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/05/bottlenecks-everywhere/index.html
+layout: layout.njk
 ---
 Bottlenecks – Everywhere!
 =========================

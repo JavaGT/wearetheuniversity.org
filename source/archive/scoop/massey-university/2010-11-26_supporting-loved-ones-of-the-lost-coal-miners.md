@@ -1,9 +1,12 @@
 ---
 slug: supporting-loved-ones-of-the-lost-coal-miners
-title: "Supporting loved ones of the lost coal miners"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/AK1011/S00589/supporting-loved-ones-of-the-lost-coal-miners.htm
+title: Supporting loved ones of the lost coal miners
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1011/S00589/supporting-loved-ones-of-the-lost-coal-miners.htm
 author: massey-university
+permalink: /archive/2010/11/26/supporting-loved-ones-of-the-lost-coal-miners/index.html
+layout: layout.njk
 ---
 Supporting loved ones of the lost coal miners
 =============================================

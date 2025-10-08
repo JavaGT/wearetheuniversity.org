@@ -1,9 +1,12 @@
 ---
 slug: school-support-staff-set-for-pay-packet-boost
-title: "School support staff set for pay packet boost"
-date: 2011-08-16
-source-url: https://www.scoop.co.nz/stories/ED1108/S00091/school-support-staff-set-for-pay-packet-boost.htm
+title: School support staff set for pay packet boost
+date: 2011-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00091/school-support-staff-set-for-pay-packet-boost.htm
 author: nzei
+permalink: /archive/2011/08/16/school-support-staff-set-for-pay-packet-boost/index.html
+layout: layout.njk
 ---
 School support staff set for pay packet boost
 =============================================

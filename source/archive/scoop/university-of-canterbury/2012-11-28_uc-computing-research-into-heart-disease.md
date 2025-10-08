@@ -1,9 +1,12 @@
 ---
 slug: uc-computing-research-into-heart-disease
-title: "UC computing research into heart disease"
-date: 2012-11-28
-source-url: https://www.scoop.co.nz/stories/SC1211/S00076/uc-computing-research-into-heart-disease.htm
+title: UC computing research into heart disease
+date: 2012-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00076/uc-computing-research-into-heart-disease.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/28/uc-computing-research-into-heart-disease/index.html
+layout: layout.njk
 ---
 UC computing research into heart disease
 ========================================

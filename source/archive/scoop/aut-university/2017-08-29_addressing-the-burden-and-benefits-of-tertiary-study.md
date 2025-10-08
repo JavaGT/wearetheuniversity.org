@@ -1,9 +1,13 @@
 ---
 slug: addressing-the-burden-and-benefits-of-tertiary-study
-title: "Addressing the burden and benefits of tertiary study"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/ED1708/S00111/addressing-the-burden-and-benefits-of-tertiary-study.htm
+title: Addressing the burden and benefits of tertiary study
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00111/addressing-the-burden-and-benefits-of-tertiary-study.htm
 author: aut-university
+permalink: >-
+  /archive/2017/08/29/addressing-the-burden-and-benefits-of-tertiary-study/index.html
+layout: layout.njk
 ---
 Addressing the burden and benefits of tertiary study
 ====================================================

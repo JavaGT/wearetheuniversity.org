@@ -1,9 +1,13 @@
 ---
 slug: tampa-boat-refugee-lecture-at-university-of-canterbury
-title: "Tampa boat refugee - lecture at University of Canterbury"
-date: 2014-07-17
-source-url: https://www.scoop.co.nz/stories/ED1407/S00085/tampa-boat-refugee-lecture-at-university-of-canterbury.htm
+title: Tampa boat refugee - lecture at University of Canterbury
+date: 2014-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00085/tampa-boat-refugee-lecture-at-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/17/tampa-boat-refugee-lecture-at-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Tampa boat refugee - lecture at University of Canterbury
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-continues-to-provide-warmer-drier-homes
-title: "National continues to provide warmer, drier homes"
-date: 2011-11-05
-source-url: https://www.scoop.co.nz/stories/PA1111/S00096/national-continues-to-provide-warmer-drier-homes.htm
+title: National continues to provide warmer, drier homes
+date: 2011-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00096/national-continues-to-provide-warmer-drier-homes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/11/05/national-continues-to-provide-warmer-drier-homes/index.html
+layout: layout.njk
 ---
 National continues to provide warmer, drier homes
 =================================================

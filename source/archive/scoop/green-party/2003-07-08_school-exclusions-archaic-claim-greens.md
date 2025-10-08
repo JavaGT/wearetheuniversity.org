@@ -1,9 +1,12 @@
 ---
 slug: school-exclusions-archaic-claim-greens
-title: "School exclusions 'archaic' claim Greens"
-date: 2003-07-08
-source-url: https://www.scoop.co.nz/stories/PA0307/S00178/school-exclusions-archaic-claim-greens.htm
+title: School exclusions 'archaic' claim Greens
+date: 2003-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00178/school-exclusions-archaic-claim-greens.htm
 author: green-party
+permalink: /archive/2003/07/08/school-exclusions-archaic-claim-greens/index.html
+layout: layout.njk
 ---
 School exclusions 'archaic' claim Greens
 ========================================

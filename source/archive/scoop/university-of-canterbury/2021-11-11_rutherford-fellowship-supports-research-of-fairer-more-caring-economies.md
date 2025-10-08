@@ -1,9 +1,13 @@
 ---
 slug: rutherford-fellowship-supports-research-of-fairer-more-caring-economies
-title: "Rutherford Fellowship Supports Research Of Fairer, More Caring Economies"
-date: 2021-11-11
-source-url: https://www.scoop.co.nz/stories/PO2111/S00123/rutherford-fellowship-supports-research-of-fairer-more-caring-economies.htm
+title: Rutherford Fellowship Supports Research Of Fairer, More Caring Economies
+date: 2021-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00123/rutherford-fellowship-supports-research-of-fairer-more-caring-economies.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/11/11/rutherford-fellowship-supports-research-of-fairer-more-caring-economies/index.html
+layout: layout.njk
 ---
 Rutherford Fellowship Supports Research Of Fairer, More Caring Economies
 ========================================================================

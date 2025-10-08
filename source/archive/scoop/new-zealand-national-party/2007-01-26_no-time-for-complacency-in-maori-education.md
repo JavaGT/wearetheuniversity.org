@@ -1,9 +1,12 @@
 ---
 slug: no-time-for-complacency-in-maori-education
-title: "No Time For Complacency In Maori Education"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/PA0701/S00159/no-time-for-complacency-in-maori-education.htm
+title: No Time For Complacency In Maori Education
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00159/no-time-for-complacency-in-maori-education.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/26/no-time-for-complacency-in-maori-education/index.html
+layout: layout.njk
 ---
 No Time For Complacency In Maori Education
 ==========================================

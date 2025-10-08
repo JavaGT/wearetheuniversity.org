@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-dairying-fine-challenge-feds
-title: "Greens welcome dairying fine, challenge Feds"
-date: 2007-10-04
-source-url: https://www.scoop.co.nz/stories/PA0710/S00070/greens-welcome-dairying-fine-challenge-feds.htm
+title: Greens welcome dairying fine, challenge Feds
+date: 2007-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00070/greens-welcome-dairying-fine-challenge-feds.htm
 author: green-party
+permalink: /archive/2007/10/04/greens-welcome-dairying-fine-challenge-feds/index.html
+layout: layout.njk
 ---
 Greens welcome dairying fine, challenge Feds
 ============================================

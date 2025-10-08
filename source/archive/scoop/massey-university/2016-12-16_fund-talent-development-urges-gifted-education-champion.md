@@ -1,9 +1,13 @@
 ---
 slug: fund-talent-development-urges-gifted-education-champion
-title: "Fund talent development, urges gifted education champion"
-date: 2016-12-16
-source-url: https://www.scoop.co.nz/stories/ED1612/S00062/fund-talent-development-urges-gifted-education-champion.htm
+title: Fund talent development, urges gifted education champion
+date: 2016-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00062/fund-talent-development-urges-gifted-education-champion.htm
 author: massey-university
+permalink: >-
+  /archive/2016/12/16/fund-talent-development-urges-gifted-education-champion/index.html
+layout: layout.njk
 ---
 Fund talent development, urges gifted education champion
 ========================================================

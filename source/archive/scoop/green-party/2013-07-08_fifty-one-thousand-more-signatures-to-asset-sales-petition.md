@@ -1,9 +1,13 @@
 ---
 slug: fifty-one-thousand-more-signatures-to-asset-sales-petition
-title: "Fifty one thousand more signatures to asset sales petition"
-date: 2013-07-08
-source-url: https://www.scoop.co.nz/stories/PO1307/S00074/fifty-one-thousand-more-signatures-to-asset-sales-petition.htm
+title: Fifty one thousand more signatures to asset sales petition
+date: 2013-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00074/fifty-one-thousand-more-signatures-to-asset-sales-petition.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/08/fifty-one-thousand-more-signatures-to-asset-sales-petition/index.html
+layout: layout.njk
 ---
 Fifty one thousand more signatures to asset sales petition
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: research-aids-chemotherapy-treatment
-title: "Research aids chemotherapy treatment"
-date: 2010-05-19
-source-url: https://www.scoop.co.nz/stories/ED1005/S00077/research-aids-chemotherapy-treatment.htm
+title: Research aids chemotherapy treatment
+date: 2010-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00077/research-aids-chemotherapy-treatment.htm
 author: massey-university
+permalink: /archive/2010/05/19/research-aids-chemotherapy-treatment/index.html
+layout: layout.njk
 ---
 Research aids chemotherapy treatment
 ====================================

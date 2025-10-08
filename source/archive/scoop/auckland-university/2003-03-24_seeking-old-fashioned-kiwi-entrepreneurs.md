@@ -1,9 +1,12 @@
 ---
 slug: seeking-old-fashioned-kiwi-entrepreneurs
-title: "Seeking Old Fashioned Kiwi Entrepreneurs"
-date: 2003-03-24
-source-url: https://www.scoop.co.nz/stories/BU0303/S00213/seeking-old-fashioned-kiwi-entrepreneurs.htm
+title: Seeking Old Fashioned Kiwi Entrepreneurs
+date: 2003-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0303/S00213/seeking-old-fashioned-kiwi-entrepreneurs.htm
 author: auckland-university
+permalink: /archive/2003/03/24/seeking-old-fashioned-kiwi-entrepreneurs/index.html
+layout: layout.njk
 ---
 Seeking Old Fashioned Kiwi Entrepreneurs
 ========================================

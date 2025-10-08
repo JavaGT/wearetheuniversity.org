@@ -1,9 +1,13 @@
 ---
 slug: waitangi-day-seen-by-most-as-a-day-to-commemorate-the-treaty
-title: "Waitangi Day seen by most as a day to commemorate the treaty"
-date: 2015-02-05
-source-url: https://www.scoop.co.nz/stories/PO1502/S00060/waitangi-day-seen-by-most-as-a-day-to-commemorate-the-treaty.htm
+title: Waitangi Day seen by most as a day to commemorate the treaty
+date: 2015-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00060/waitangi-day-seen-by-most-as-a-day-to-commemorate-the-treaty.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/05/waitangi-day-seen-by-most-as-a-day-to-commemorate-the-treaty/index.html
+layout: layout.njk
 ---
 Waitangi Day seen by most as a day to commemorate the treaty
 ============================================================

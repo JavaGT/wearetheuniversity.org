@@ -1,9 +1,12 @@
 ---
 slug: prisons-scandal-that-just-wont-die
-title: "Prisons scandal that just won't die"
-date: 2008-05-21
-source-url: https://www.scoop.co.nz/stories/PA0805/S00385/prisons-scandal-that-just-wont-die.htm
+title: Prisons scandal that just won't die
+date: 2008-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00385/prisons-scandal-that-just-wont-die.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/21/prisons-scandal-that-just-wont-die/index.html
+layout: layout.njk
 ---
 Prisons scandal that just won't die
 ===================================

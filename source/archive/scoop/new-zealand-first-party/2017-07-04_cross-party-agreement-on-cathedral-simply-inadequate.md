@@ -1,9 +1,13 @@
 ---
 slug: cross-party-agreement-on-cathedral-simply-inadequate
-title: "Cross Party Agreement on Cathedral Simply Inadequate"
-date: 2017-07-04
-source-url: https://www.scoop.co.nz/stories/PA1707/S00039/cross-party-agreement-on-cathedral-simply-inadequate.htm
+title: Cross Party Agreement on Cathedral Simply Inadequate
+date: 2017-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00039/cross-party-agreement-on-cathedral-simply-inadequate.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/04/cross-party-agreement-on-cathedral-simply-inadequate/index.html
+layout: layout.njk
 ---
 Cross Party Agreement on Cathedral Simply Inadequate
 ====================================================

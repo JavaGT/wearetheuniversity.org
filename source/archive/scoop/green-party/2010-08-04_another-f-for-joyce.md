@@ -1,9 +1,11 @@
 ---
 slug: another-f-for-joyce
-title: "Another F for Joyce"
-date: 2010-08-04
+title: Another F for Joyce
+date: 2010-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1008/S00048/another-f-for-joyce.htm
 author: green-party
+permalink: /archive/2010/08/04/another-f-for-joyce/index.html
+layout: layout.njk
 ---
 Another F for Joyce
 ===================

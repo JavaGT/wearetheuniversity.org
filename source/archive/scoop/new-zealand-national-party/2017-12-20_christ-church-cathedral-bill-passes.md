@@ -1,9 +1,12 @@
 ---
 slug: christ-church-cathedral-bill-passes
-title: "Christ Church Cathedral Bill passes"
-date: 2017-12-20
-source-url: https://www.scoop.co.nz/stories/PA1712/S00238/christ-church-cathedral-bill-passes.htm
+title: Christ Church Cathedral Bill passes
+date: 2017-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00238/christ-church-cathedral-bill-passes.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/20/christ-church-cathedral-bill-passes/index.html
+layout: layout.njk
 ---
 Christ Church Cathedral Bill passes
 ===================================

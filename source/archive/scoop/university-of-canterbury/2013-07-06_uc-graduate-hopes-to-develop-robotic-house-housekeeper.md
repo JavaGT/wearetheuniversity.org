@@ -1,9 +1,13 @@
 ---
 slug: uc-graduate-hopes-to-develop-robotic-house-housekeeper
-title: "UC graduate hopes to develop robotic house housekeeper"
-date: 2013-07-06
-source-url: https://www.scoop.co.nz/stories/SC1307/S00019/uc-graduate-hopes-to-develop-robotic-house-housekeeper.htm
+title: UC graduate hopes to develop robotic house housekeeper
+date: 2013-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00019/uc-graduate-hopes-to-develop-robotic-house-housekeeper.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/06/uc-graduate-hopes-to-develop-robotic-house-housekeeper/index.html
+layout: layout.njk
 ---
 UC graduate hopes to develop robotic house housekeeper
 ======================================================

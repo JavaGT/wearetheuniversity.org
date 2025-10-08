@@ -1,9 +1,12 @@
 ---
 slug: labour-commits-to-a-digital-nation
-title: "Labour commits to a digital nation"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/PA1110/S00292/labour-commits-to-a-digital-nation.htm
+title: Labour commits to a digital nation
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00292/labour-commits-to-a-digital-nation.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/17/labour-commits-to-a-digital-nation/index.html
+layout: layout.njk
 ---
 Labour commits to a digital nation
 ==================================

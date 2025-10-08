@@ -1,9 +1,16 @@
 ---
-slug: advancing-technology-new-project-targets-methane-reduction-in-dairy-effluent-ponds
-title: "Advancing Technology: New Project Targets Methane Reduction In Dairy Effluent Ponds"
-date: 2024-05-21
-source-url: https://www.scoop.co.nz/stories/ED2405/S00076/advancing-technology-new-project-targets-methane-reduction-in-dairy-effluent-ponds.htm
+slug: >-
+  advancing-technology-new-project-targets-methane-reduction-in-dairy-effluent-ponds
+title: >-
+  Advancing Technology: New Project Targets Methane Reduction In Dairy Effluent
+  Ponds
+date: 2024-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00076/advancing-technology-new-project-targets-methane-reduction-in-dairy-effluent-ponds.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/05/21/advancing-technology-new-project-targets-methane-reduction-in-dairy-effluent-ponds/index.html
+layout: layout.njk
 ---
 Advancing Technology: New Project Targets Methane Reduction In Dairy Effluent Ponds
 ===================================================================================

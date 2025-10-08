@@ -1,9 +1,12 @@
 ---
 slug: trinity-buys-bioactivity-group-from-university
-title: "Trinity buys Bioactivity Group from University"
-date: 2008-08-18
-source-url: https://www.scoop.co.nz/stories/ED0808/S00039/trinity-buys-bioactivity-group-from-university.htm
+title: Trinity buys Bioactivity Group from University
+date: 2008-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00039/trinity-buys-bioactivity-group-from-university.htm
 author: university-of-otago
+permalink: /archive/2008/08/18/trinity-buys-bioactivity-group-from-university/index.html
+layout: layout.njk
 ---
 Trinity buys Bioactivity Group from University
 ==============================================

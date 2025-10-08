@@ -1,9 +1,13 @@
 ---
 slug: new-supernova-analysis-reframes-dark-energy-debate
-title: "New supernova analysis reframes dark energy debate"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/SC1709/S00023/new-supernova-analysis-reframes-dark-energy-debate.htm
+title: New supernova analysis reframes dark energy debate
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1709/S00023/new-supernova-analysis-reframes-dark-energy-debate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/14/new-supernova-analysis-reframes-dark-energy-debate/index.html
+layout: layout.njk
 ---
 New supernova analysis reframes dark energy debate
 ==================================================

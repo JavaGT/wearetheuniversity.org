@@ -1,9 +1,12 @@
 ---
 slug: welfare-flaws-for-all-the-world-to-see
-title: "Welfare Flaws For All The World To See"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/PA0411/S00004/welfare-flaws-for-all-the-world-to-see.htm
+title: Welfare Flaws For All The World To See
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00004/welfare-flaws-for-all-the-world-to-see.htm
 author: act-new-zealand
+permalink: /archive/2004/11/01/welfare-flaws-for-all-the-world-to-see/index.html
+layout: layout.njk
 ---
 Welfare Flaws For All The World To See
 ======================================

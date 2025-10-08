@@ -1,9 +1,13 @@
 ---
 slug: rearing-deep-sea-squid-in-captivity-record-attempt
-title: "Rearing Deep-Sea Squid In Captivity Record Attempt"
-date: 2010-02-03
-source-url: https://www.scoop.co.nz/stories/SC1002/S00016/rearing-deep-sea-squid-in-captivity-record-attempt.htm
+title: Rearing Deep-Sea Squid In Captivity Record Attempt
+date: 2010-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1002/S00016/rearing-deep-sea-squid-in-captivity-record-attempt.htm
 author: aut-university
+permalink: >-
+  /archive/2010/02/03/rearing-deep-sea-squid-in-captivity-record-attempt/index.html
+layout: layout.njk
 ---
 Rearing Deep-Sea Squid In Captivity Record Attempt
 ==================================================

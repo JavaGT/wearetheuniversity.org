@@ -1,9 +1,13 @@
 ---
 slug: paul-goldsmith-speech-to-national-party-conference
-title: "Paul Goldsmith – Speech to National Party Conference"
-date: 2019-07-27
-source-url: https://www.scoop.co.nz/stories/PA1907/S00224/paul-goldsmith-speech-to-national-party-conference.htm
+title: Paul Goldsmith – Speech to National Party Conference
+date: 2019-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00224/paul-goldsmith-speech-to-national-party-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/27/paul-goldsmith-speech-to-national-party-conference/index.html
+layout: layout.njk
 ---
 Paul Goldsmith – Speech to National Party Conference
 ====================================================

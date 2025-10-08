@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-fail-to-make-grade-as-bonus-season-nears
-title: "Charter schools fail to make grade as bonus season nears"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/PA1608/S00551/charter-schools-fail-to-make-grade-as-bonus-season-nears.htm
+title: Charter schools fail to make grade as bonus season nears
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00551/charter-schools-fail-to-make-grade-as-bonus-season-nears.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/31/charter-schools-fail-to-make-grade-as-bonus-season-nears/index.html
+layout: layout.njk
 ---
 Charter schools fail to make grade as bonus season nears
 ========================================================

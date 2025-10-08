@@ -1,9 +1,13 @@
 ---
 slug: nz-law-students-association-on-sexual-misconduct
-title: "NZ Law Students' Association on sexual misconduct"
-date: 2018-02-16
-source-url: https://www.scoop.co.nz/stories/BU1802/S00392/nz-law-students-association-on-sexual-misconduct.htm
+title: NZ Law Students' Association on sexual misconduct
+date: 2018-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1802/S00392/nz-law-students-association-on-sexual-misconduct.htm
 author: new-zealand-law-students-association
+permalink: >-
+  /archive/2018/02/16/nz-law-students-association-on-sexual-misconduct/index.html
+layout: layout.njk
 ---
 NZ Law Students' Association on sexual misconduct
 =================================================

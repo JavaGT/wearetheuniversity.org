@@ -1,9 +1,13 @@
 ---
 slug: second-language-learning-bill-an-opportunity-for-nz
-title: "Second language learning Bill an opportunity for NZ"
-date: 2018-09-08
-source-url: https://www.scoop.co.nz/stories/PA1809/S00106/second-language-learning-bill-an-opportunity-for-nz.htm
+title: Second language learning Bill an opportunity for NZ
+date: 2018-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00106/second-language-learning-bill-an-opportunity-for-nz.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/09/08/second-language-learning-bill-an-opportunity-for-nz/index.html
+layout: layout.njk
 ---
 Second language learning Bill an opportunity for NZ
 ===================================================

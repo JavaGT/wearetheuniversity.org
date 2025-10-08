@@ -1,9 +1,11 @@
 ---
 slug: greens-you-said-it-helen
-title: "Greens: You said it, Helen"
-date: 2004-11-22
+title: 'Greens: You said it, Helen'
+date: 2004-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0411/S00453/greens-you-said-it-helen.htm
 author: green-party
+permalink: /archive/2004/11/22/greens-you-said-it-helen/index.html
+layout: layout.njk
 ---
 Greens: You said it, Helen
 ==========================

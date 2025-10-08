@@ -1,9 +1,13 @@
 ---
 slug: vsm-an-ideological-solution-in-search-of-a-problem
-title: "VSM an ideological solution in search of a problem"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/PA1009/S00373/vsm-an-ideological-solution-in-search-of-a-problem.htm
+title: VSM an ideological solution in search of a problem
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00373/vsm-an-ideological-solution-in-search-of-a-problem.htm
 author: green-party
+permalink: >-
+  /archive/2010/09/24/vsm-an-ideological-solution-in-search-of-a-problem/index.html
+layout: layout.njk
 ---
 VSM an ideological solution in search of a problem
 ==================================================

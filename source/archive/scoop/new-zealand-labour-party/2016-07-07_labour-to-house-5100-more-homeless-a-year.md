@@ -1,9 +1,12 @@
 ---
 slug: labour-to-house-5100-more-homeless-a-year
-title: "Labour to house 5100 more homeless a year"
-date: 2016-07-07
-source-url: https://www.scoop.co.nz/stories/PA1607/S00117/labour-to-house-5100-more-homeless-a-year.htm
+title: Labour to house 5100 more homeless a year
+date: 2016-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00117/labour-to-house-5100-more-homeless-a-year.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/07/labour-to-house-5100-more-homeless-a-year/index.html
+layout: layout.njk
 ---
 Labour to house 5100 more homeless a year
 =========================================

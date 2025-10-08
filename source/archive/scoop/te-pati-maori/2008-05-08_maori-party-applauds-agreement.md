@@ -1,9 +1,12 @@
 ---
 slug: maori-party-applauds-agreement
-title: "Maori Party applauds agreement"
-date: 2008-05-08
-source-url: https://www.scoop.co.nz/stories/PA0805/S00128/maori-party-applauds-agreement.htm
+title: Maori Party applauds agreement
+date: 2008-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00128/maori-party-applauds-agreement.htm
 author: te-pati-maori
+permalink: /archive/2008/05/08/maori-party-applauds-agreement/index.html
+layout: layout.njk
 ---
 Maori Party applauds agreement
 ==============================

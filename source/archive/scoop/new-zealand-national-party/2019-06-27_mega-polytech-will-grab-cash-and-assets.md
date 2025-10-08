@@ -1,9 +1,12 @@
 ---
 slug: mega-polytech-will-grab-cash-and-assets
-title: "Mega polytech will grab cash and assets"
-date: 2019-06-27
-source-url: https://www.scoop.co.nz/stories/PA1906/S00245/mega-polytech-will-grab-cash-and-assets.htm
+title: Mega polytech will grab cash and assets
+date: 2019-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00245/mega-polytech-will-grab-cash-and-assets.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/27/mega-polytech-will-grab-cash-and-assets/index.html
+layout: layout.njk
 ---
 Mega polytech will grab cash and assets
 =======================================

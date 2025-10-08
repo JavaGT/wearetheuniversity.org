@@ -1,9 +1,12 @@
 ---
 slug: vic-students-help-speed-up-firefox-web-browsing
-title: "Vic students help speed up Firefox web browsing"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/ED1202/S00102/vic-students-help-speed-up-firefox-web-browsing.htm
+title: Vic students help speed up Firefox web browsing
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00102/vic-students-help-speed-up-firefox-web-browsing.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/02/23/vic-students-help-speed-up-firefox-web-browsing/index.html
+layout: layout.njk
 ---
 Vic students help speed up Firefox web browsing
 ===============================================

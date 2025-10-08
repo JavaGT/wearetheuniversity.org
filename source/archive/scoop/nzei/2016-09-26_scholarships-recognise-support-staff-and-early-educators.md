@@ -1,9 +1,13 @@
 ---
 slug: scholarships-recognise-support-staff-and-early-educators
-title: "Scholarships recognise support staff and early educators"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00131/scholarships-recognise-support-staff-and-early-educators.htm
+title: Scholarships recognise support staff and early educators
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00131/scholarships-recognise-support-staff-and-early-educators.htm
 author: nzei
+permalink: >-
+  /archive/2016/09/26/scholarships-recognise-support-staff-and-early-educators/index.html
+layout: layout.njk
 ---
 Scholarships recognise support staff and early educators
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: novel-smart-technology-explores-smoking-to-vaping-transition
-title: "Novel Smart Technology Explores Smoking-to-Vaping Transition"
-date: 2018-06-07
-source-url: https://www.scoop.co.nz/stories/GE1806/S00026/novel-smart-technology-explores-smoking-to-vaping-transition.htm
+title: Novel Smart Technology Explores Smoking-to-Vaping Transition
+date: 2018-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00026/novel-smart-technology-explores-smoking-to-vaping-transition.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/07/novel-smart-technology-explores-smoking-to-vaping-transition/index.html
+layout: layout.njk
 ---
 Novel Smart Technology Explores Smoking-to-Vaping Transition
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: sleep-and-memory-are-they-connected
-title: "Sleep and Memory – Are They Connected?"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/SC1605/S00068/sleep-and-memory-are-they-connected.htm
+title: Sleep and Memory – Are They Connected?
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00068/sleep-and-memory-are-they-connected.htm
 author: university-of-waikato
+permalink: /archive/2016/05/30/sleep-and-memory-are-they-connected/index.html
+layout: layout.njk
 ---
 Sleep and Memory – Are They Connected?
 ======================================

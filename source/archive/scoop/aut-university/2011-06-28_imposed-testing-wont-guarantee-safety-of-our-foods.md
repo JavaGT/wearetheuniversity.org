@@ -1,9 +1,13 @@
 ---
 slug: imposed-testing-wont-guarantee-safety-of-our-foods
-title: "Imposed Testing Won’t Guarantee Safety of Our Foods"
-date: 2011-06-28
-source-url: https://www.scoop.co.nz/stories/GE1106/S00130/imposed-testing-wont-guarantee-safety-of-our-foods.htm
+title: Imposed Testing Won’t Guarantee Safety of Our Foods
+date: 2011-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1106/S00130/imposed-testing-wont-guarantee-safety-of-our-foods.htm
 author: aut-university
+permalink: >-
+  /archive/2011/06/28/imposed-testing-wont-guarantee-safety-of-our-foods/index.html
+layout: layout.njk
 ---
 Imposed Testing Won’t Guarantee Safety of Our Foods
 ===================================================

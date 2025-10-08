@@ -1,8 +1,11 @@
 ---
 slug: focus-on-pacific-community-hearing-loss
-title: "Focus on Pacific community hearing loss"
-date: 2016-03-07
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/focus-on-pacific-community-hearing-loss.html
+title: Focus on Pacific community hearing loss
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/focus-on-pacific-community-hearing-loss.html
+permalink: /archive/2016/03/07/focus-on-pacific-community-hearing-loss/index.html
+layout: layout.njk
 ---
 Focus on Pacific community hearing loss
 =======================================

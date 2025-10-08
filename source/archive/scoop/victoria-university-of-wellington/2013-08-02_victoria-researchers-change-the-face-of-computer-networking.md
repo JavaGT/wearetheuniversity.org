@@ -1,9 +1,13 @@
 ---
 slug: victoria-researchers-change-the-face-of-computer-networking
-title: "Victoria researchers change the face of computer networking"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/SC1308/S00005/victoria-researchers-change-the-face-of-computer-networking.htm
+title: Victoria researchers change the face of computer networking
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00005/victoria-researchers-change-the-face-of-computer-networking.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/02/victoria-researchers-change-the-face-of-computer-networking/index.html
+layout: layout.njk
 ---
 Victoria researchers change the face of computer networking
 ===========================================================

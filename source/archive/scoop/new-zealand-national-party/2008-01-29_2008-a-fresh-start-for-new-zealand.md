@@ -1,9 +1,12 @@
 ---
 slug: 2008-a-fresh-start-for-new-zealand
-title: "2008: A Fresh Start for New Zealand"
-date: 2008-01-29
-source-url: https://www.scoop.co.nz/stories/PA0801/S00215/2008-a-fresh-start-for-new-zealand.htm
+title: '2008: A Fresh Start for New Zealand'
+date: 2008-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00215/2008-a-fresh-start-for-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/29/2008-a-fresh-start-for-new-zealand/index.html
+layout: layout.njk
 ---
 2008: A Fresh Start for New Zealand
 ===================================

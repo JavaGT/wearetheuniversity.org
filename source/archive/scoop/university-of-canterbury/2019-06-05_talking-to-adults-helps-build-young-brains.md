@@ -1,9 +1,12 @@
 ---
 slug: talking-to-adults-helps-build-young-brains
-title: "Talking to adults helps build young brains"
-date: 2019-06-05
-source-url: https://www.scoop.co.nz/stories/SC1906/S00005/talking-to-adults-helps-build-young-brains.htm
+title: Talking to adults helps build young brains
+date: 2019-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1906/S00005/talking-to-adults-helps-build-young-brains.htm
 author: university-of-canterbury
+permalink: /archive/2019/06/05/talking-to-adults-helps-build-young-brains/index.html
+layout: layout.njk
 ---
 Talking to adults helps build young brains
 ==========================================

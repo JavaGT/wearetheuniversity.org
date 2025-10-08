@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-you-get-what-you-vote-for!
-title: "Winston Peters: You Get What You Vote For!"
-date: 2012-05-31
-source-url: https://www.scoop.co.nz/stories/PA1205/S00561/winston-peters-you-get-what-you-vote-for.htm
+title: 'Winston Peters: You Get What You Vote For!'
+date: 2012-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00561/winston-peters-you-get-what-you-vote-for.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/31/winston-peters-you-get-what-you-vote-for/index.html
+layout: layout.njk
 ---
 Winston Peters: You Get What You Vote For!
 ==========================================

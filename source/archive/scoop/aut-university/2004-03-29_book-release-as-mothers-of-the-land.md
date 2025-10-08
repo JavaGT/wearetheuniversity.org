@@ -1,9 +1,12 @@
 ---
 slug: book-release-as-mothers-of-the-land
-title: "Book Release - ... as Mothers of the Land"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/ED0403/S00114/book-release--as-mothers-of-the-land.htm
+title: Book Release - ... as Mothers of the Land
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00114/book-release--as-mothers-of-the-land.htm
 author: aut-university
+permalink: /archive/2004/03/29/book-release-as-mothers-of-the-land/index.html
+layout: layout.njk
 ---
 Book Release - ... as Mothers of the Land
 =========================================

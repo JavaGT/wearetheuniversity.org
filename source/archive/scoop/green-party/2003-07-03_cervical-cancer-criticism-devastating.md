@@ -1,9 +1,12 @@
 ---
 slug: cervical-cancer-criticism-devastating
-title: "Cervical cancer criticism devastating"
-date: 2003-07-03
-source-url: https://www.scoop.co.nz/stories/PA0307/S00073/cervical-cancer-criticism-devastating.htm
+title: Cervical cancer criticism devastating
+date: 2003-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00073/cervical-cancer-criticism-devastating.htm
 author: green-party
+permalink: /archive/2003/07/03/cervical-cancer-criticism-devastating/index.html
+layout: layout.njk
 ---
 Cervical cancer criticism devastating
 =====================================

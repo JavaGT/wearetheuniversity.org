@@ -1,9 +1,16 @@
 ---
-slug: maths-vs-affordable-housing-students-at-manurewa-high-school-using-mathematical-modelling-to-tackle-community-issues
-title: "Maths Vs Affordable Housing - Students At Manurewa High School Using Mathematical Modelling To Tackle Community Issues"
-date: 2021-07-01
-source-url: https://www.scoop.co.nz/stories/ED2107/S00002/maths-vs-affordable-housing-students-at-manurewa-high-school-using-mathematical-modelling-to-tackle-community-issues.htm
+slug: >-
+  maths-vs-affordable-housing-students-at-manurewa-high-school-using-mathematical-modelling-to-tackle-community-issues
+title: >-
+  Maths Vs Affordable Housing - Students At Manurewa High School Using
+  Mathematical Modelling To Tackle Community Issues
+date: 2021-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00002/maths-vs-affordable-housing-students-at-manurewa-high-school-using-mathematical-modelling-to-tackle-community-issues.htm
 author: aut-university
+permalink: >-
+  /archive/2021/07/01/maths-vs-affordable-housing-students-at-manurewa-high-school-using-mathematical-modelling-to-tackle-community-issues/index.html
+layout: layout.njk
 ---
 Maths Vs Affordable Housing - Students At Manurewa High School Using Mathematical Modelling To Tackle Community Issues
 ======================================================================================================================

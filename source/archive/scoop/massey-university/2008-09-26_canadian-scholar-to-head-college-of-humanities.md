@@ -1,9 +1,12 @@
 ---
 slug: canadian-scholar-to-head-college-of-humanities
-title: "Canadian scholar to head College of Humanities"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/ED0809/S00089/canadian-scholar-to-head-college-of-humanities.htm
+title: Canadian scholar to head College of Humanities
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00089/canadian-scholar-to-head-college-of-humanities.htm
 author: massey-university
+permalink: /archive/2008/09/26/canadian-scholar-to-head-college-of-humanities/index.html
+layout: layout.njk
 ---
 Canadian scholar to head College of Humanities
 ==============================================

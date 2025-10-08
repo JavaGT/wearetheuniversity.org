@@ -1,9 +1,12 @@
 ---
 slug: deficit-up-nationals-credibility-down
-title: "Deficit up, National’s credibility down"
-date: 2012-11-07
-source-url: https://www.scoop.co.nz/stories/PA1211/S00100/deficit-up-nationals-credibility-down.htm
+title: Deficit up, National’s credibility down
+date: 2012-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00100/deficit-up-nationals-credibility-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/07/deficit-up-nationals-credibility-down/index.html
+layout: layout.njk
 ---
 Deficit up, National’s credibility down
 =======================================

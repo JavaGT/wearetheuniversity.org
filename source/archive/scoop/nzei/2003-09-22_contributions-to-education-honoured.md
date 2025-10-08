@@ -1,9 +1,12 @@
 ---
 slug: contributions-to-education-honoured
-title: "Contributions To Education Honoured"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00097/contributions-to-education-honoured.htm
+title: Contributions To Education Honoured
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00097/contributions-to-education-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/contributions-to-education-honoured/index.html
+layout: layout.njk
 ---
 Contributions To Education Honoured
 ===================================

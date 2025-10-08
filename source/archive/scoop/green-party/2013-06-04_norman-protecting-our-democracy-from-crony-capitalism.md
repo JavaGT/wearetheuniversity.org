@@ -1,9 +1,13 @@
 ---
 slug: norman-protecting-our-democracy-from-crony-capitalism
-title: "Norman: Protecting our democracy from crony capitalism"
-date: 2013-06-04
-source-url: https://www.scoop.co.nz/stories/PA1306/S00011/norman-protecting-our-democracy-from-crony-capitalism.htm
+title: 'Norman: Protecting our democracy from crony capitalism'
+date: 2013-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00011/norman-protecting-our-democracy-from-crony-capitalism.htm
 author: green-party
+permalink: >-
+  /archive/2013/06/04/norman-protecting-our-democracy-from-crony-capitalism/index.html
+layout: layout.njk
 ---
 Norman: Protecting our democracy from crony capitalism
 ======================================================

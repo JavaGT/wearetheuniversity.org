@@ -1,9 +1,13 @@
 ---
 slug: green-candidates-sign-vuwsa-student-friendly-city-pledge
-title: "Green candidates sign VUWSA student-friendly city pledge"
-date: 2016-07-31
-source-url: https://www.scoop.co.nz/stories/PA1607/S00434/green-candidates-sign-vuwsa-student-friendly-city-pledge.htm
+title: Green candidates sign VUWSA student-friendly city pledge
+date: 2016-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00434/green-candidates-sign-vuwsa-student-friendly-city-pledge.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/31/green-candidates-sign-vuwsa-student-friendly-city-pledge/index.html
+layout: layout.njk
 ---
 Green candidates sign VUWSA student-friendly city pledge
 ========================================================

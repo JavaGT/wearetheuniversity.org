@@ -1,9 +1,13 @@
 ---
 slug: national-releases-plan-to-get-school-students-back-on-track
-title: "National Releases Plan To Get School Students Back On Track"
-date: 2021-11-10
-source-url: https://www.scoop.co.nz/stories/PA2111/S00104/national-releases-plan-to-get-school-students-back-on-track.htm
+title: National Releases Plan To Get School Students Back On Track
+date: 2021-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00104/national-releases-plan-to-get-school-students-back-on-track.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/10/national-releases-plan-to-get-school-students-back-on-track/index.html
+layout: layout.njk
 ---
 National Releases Plan To Get School Students Back On Track
 ===========================================================

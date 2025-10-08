@@ -1,9 +1,12 @@
 ---
 slug: merit-from-the-greens-for-ncea-changes
-title: "'Merit' from the Greens for NCEA changes"
-date: 2007-05-29
-source-url: https://www.scoop.co.nz/stories/PA0705/S00742/merit-from-the-greens-for-ncea-changes.htm
+title: '''Merit'' from the Greens for NCEA changes'
+date: 2007-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00742/merit-from-the-greens-for-ncea-changes.htm
 author: green-party
+permalink: /archive/2007/05/29/merit-from-the-greens-for-ncea-changes/index.html
+layout: layout.njk
 ---
 'Merit' from the Greens for NCEA changes
 ========================================

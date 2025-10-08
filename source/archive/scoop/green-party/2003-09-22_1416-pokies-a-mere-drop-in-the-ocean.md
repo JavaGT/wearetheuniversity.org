@@ -1,9 +1,12 @@
 ---
 slug: 1416-pokies-a-mere-drop-in-the-ocean
-title: "1416 pokies a mere drop in the ocean"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/PA0309/S00469/1416-pokies-a-mere-drop-in-the-ocean.htm
+title: 1416 pokies a mere drop in the ocean
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00469/1416-pokies-a-mere-drop-in-the-ocean.htm
 author: green-party
+permalink: /archive/2003/09/22/1416-pokies-a-mere-drop-in-the-ocean/index.html
+layout: layout.njk
 ---
 1416 pokies a mere drop in the ocean
 ====================================

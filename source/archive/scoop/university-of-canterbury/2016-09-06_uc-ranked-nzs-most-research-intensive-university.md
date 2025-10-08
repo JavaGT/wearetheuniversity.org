@@ -1,9 +1,13 @@
 ---
 slug: uc-ranked-nzs-most-research-intensive-university
-title: "UC ranked NZ’s most research intensive university"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/ED1609/S00025/uc-ranked-nzs-most-research-intensive-university.htm
+title: UC ranked NZ’s most research intensive university
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00025/uc-ranked-nzs-most-research-intensive-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/09/06/uc-ranked-nzs-most-research-intensive-university/index.html
+layout: layout.njk
 ---
 UC ranked NZ’s most research intensive university
 =================================================

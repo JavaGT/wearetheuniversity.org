@@ -1,9 +1,13 @@
 ---
 slug: tool-to-improve-the-quality-of-care-and-life-for-vulnerable
-title: "Tool to improve the quality of care and life for vulnerable"
-date: 2015-10-12
-source-url: https://www.scoop.co.nz/stories/ED1510/S00052/tool-to-improve-the-quality-of-care-and-life-for-vulnerable.htm
+title: Tool to improve the quality of care and life for vulnerable
+date: 2015-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00052/tool-to-improve-the-quality-of-care-and-life-for-vulnerable.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/12/tool-to-improve-the-quality-of-care-and-life-for-vulnerable/index.html
+layout: layout.njk
 ---
 Tool to improve the quality of care and life for vulnerable
 ===========================================================

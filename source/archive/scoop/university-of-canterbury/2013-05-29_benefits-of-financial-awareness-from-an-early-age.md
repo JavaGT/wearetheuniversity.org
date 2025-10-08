@@ -1,9 +1,13 @@
 ---
 slug: benefits-of-financial-awareness-from-an-early-age
-title: "Benefits of financial awareness from an early age"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/CU1305/S00489/benefits-of-financial-awareness-from-an-early-age.htm
+title: Benefits of financial awareness from an early age
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1305/S00489/benefits-of-financial-awareness-from-an-early-age.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/29/benefits-of-financial-awareness-from-an-early-age/index.html
+layout: layout.njk
 ---
 Benefits of financial awareness from an early age
 =================================================

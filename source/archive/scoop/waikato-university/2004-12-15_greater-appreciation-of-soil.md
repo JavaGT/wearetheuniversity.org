@@ -1,9 +1,11 @@
 ---
 slug: greater-appreciation-of-soil
-title: "Greater Appreciation Of Soil"
-date: 2004-12-15
+title: Greater Appreciation Of Soil
+date: 2004-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00376/greater-appreciation-of-soil.htm
 author: waikato-university
+permalink: /archive/2004/12/15/greater-appreciation-of-soil/index.html
+layout: layout.njk
 ---
 Greater Appreciation Of Soil
 ============================

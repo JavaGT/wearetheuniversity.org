@@ -1,9 +1,13 @@
 ---
 slug: professor-slams-environmental-performance-report
-title: "Professor slams environmental performance report"
-date: 2008-02-28
-source-url: https://www.scoop.co.nz/stories/SC0802/S00062/professor-slams-environmental-performance-report.htm
+title: Professor slams environmental performance report
+date: 2008-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0802/S00062/professor-slams-environmental-performance-report.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2008/02/28/professor-slams-environmental-performance-report/index.html
+layout: layout.njk
 ---
 Professor slams environmental performance report
 ================================================

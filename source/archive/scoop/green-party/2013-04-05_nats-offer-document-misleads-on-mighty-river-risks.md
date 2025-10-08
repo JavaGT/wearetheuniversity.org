@@ -1,9 +1,13 @@
 ---
 slug: nats-offer-document-misleads-on-mighty-river-risks
-title: "Nats’ offer document misleads on Mighty River risks"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/PA1304/S00079/nats-offer-document-misleads-on-mighty-river-risks.htm
+title: Nats’ offer document misleads on Mighty River risks
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00079/nats-offer-document-misleads-on-mighty-river-risks.htm
 author: green-party
+permalink: >-
+  /archive/2013/04/05/nats-offer-document-misleads-on-mighty-river-risks/index.html
+layout: layout.njk
 ---
 Nats’ offer document misleads on Mighty River risks
 ===================================================

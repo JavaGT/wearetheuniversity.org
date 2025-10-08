@@ -1,9 +1,13 @@
 ---
 slug: gay-pride-and-public-space-a-new-take-on-geography
-title: "Gay Pride And Public Space – A New Take On Geography"
-date: 2012-11-06
-source-url: https://www.scoop.co.nz/stories/ED1211/S00037/gay-pride-and-public-space-a-new-take-on-geography.htm
+title: Gay Pride And Public Space – A New Take On Geography
+date: 2012-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00037/gay-pride-and-public-space-a-new-take-on-geography.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/06/gay-pride-and-public-space-a-new-take-on-geography/index.html
+layout: layout.njk
 ---
 Gay Pride And Public Space – A New Take On Geography
 ====================================================

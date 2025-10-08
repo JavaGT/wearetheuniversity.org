@@ -1,9 +1,12 @@
 ---
 slug: labour-breaks-health-promises
-title: "Labour Breaks Health Promises"
-date: 2002-06-27
-source-url: https://www.scoop.co.nz/stories/PA0206/S00497/labour-breaks-health-promises.htm
+title: Labour Breaks Health Promises
+date: 2002-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00497/labour-breaks-health-promises.htm
 author: act-new-zealand
+permalink: /archive/2002/06/27/labour-breaks-health-promises/index.html
+layout: layout.njk
 ---
 Labour Breaks Health Promises
 =============================

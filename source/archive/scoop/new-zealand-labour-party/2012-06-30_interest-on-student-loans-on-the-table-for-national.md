@@ -1,9 +1,13 @@
 ---
 slug: interest-on-student-loans-on-the-table-for-national
-title: "Interest on student loans on the table for National"
-date: 2012-06-30
-source-url: https://www.scoop.co.nz/stories/PA1206/S00475/interest-on-student-loans-on-the-table-for-national.htm
+title: Interest on student loans on the table for National
+date: 2012-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00475/interest-on-student-loans-on-the-table-for-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/30/interest-on-student-loans-on-the-table-for-national/index.html
+layout: layout.njk
 ---
 Interest on student loans on the table for National
 ===================================================

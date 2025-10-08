@@ -1,9 +1,13 @@
 ---
 slug: phd-thesis-delves-into-murky-world-of-illegal-sports-betting
-title: "PhD thesis delves into murky world of illegal sports betting"
-date: 2018-04-30
-source-url: https://www.scoop.co.nz/stories/ED1804/S00069/phd-thesis-delves-into-murky-world-of-illegal-sports-betting.htm
+title: PhD thesis delves into murky world of illegal sports betting
+date: 2018-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00069/phd-thesis-delves-into-murky-world-of-illegal-sports-betting.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/30/phd-thesis-delves-into-murky-world-of-illegal-sports-betting/index.html
+layout: layout.njk
 ---
 PhD thesis delves into murky world of illegal sports betting
 ============================================================

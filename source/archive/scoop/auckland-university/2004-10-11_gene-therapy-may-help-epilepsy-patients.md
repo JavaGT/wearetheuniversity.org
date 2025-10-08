@@ -1,9 +1,12 @@
 ---
 slug: gene-therapy-may-help-epilepsy-patients
-title: "Gene therapy may help epilepsy patients"
-date: 2004-10-11
-source-url: https://www.scoop.co.nz/stories/ED0410/S00037/gene-therapy-may-help-epilepsy-patients.htm
+title: Gene therapy may help epilepsy patients
+date: 2004-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00037/gene-therapy-may-help-epilepsy-patients.htm
 author: auckland-university
+permalink: /archive/2004/10/11/gene-therapy-may-help-epilepsy-patients/index.html
+layout: layout.njk
 ---
 Gene therapy may help epilepsy patients
 =======================================

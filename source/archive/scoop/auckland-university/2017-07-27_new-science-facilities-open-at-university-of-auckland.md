@@ -1,9 +1,13 @@
 ---
 slug: new-science-facilities-open-at-university-of-auckland
-title: "New Science Facilities Open at University of Auckland"
-date: 2017-07-27
-source-url: https://www.scoop.co.nz/stories/ED1707/S00089/new-science-facilities-open-at-university-of-auckland.htm
+title: New Science Facilities Open at University of Auckland
+date: 2017-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00089/new-science-facilities-open-at-university-of-auckland.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/07/27/new-science-facilities-open-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 New Science Facilities Open at University of Auckland
 =====================================================

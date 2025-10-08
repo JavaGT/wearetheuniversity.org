@@ -1,9 +1,13 @@
 ---
 slug: massey-professors-aspen-fellowship-a-first-for-nz
-title: "Massey professor’s ASPEN Fellowship a first for NZ"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/ED1506/S00050/massey-professors-aspen-fellowship-a-first-for-nz.htm
+title: Massey professor’s ASPEN Fellowship a first for NZ
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00050/massey-professors-aspen-fellowship-a-first-for-nz.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/08/massey-professors-aspen-fellowship-a-first-for-nz/index.html
+layout: layout.njk
 ---
 Massey professor’s ASPEN Fellowship a first for NZ
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: leisure-time-vital-for-social-capital
-title: "Leisure Time Vital for Social Capital"
-date: 2006-10-25
-source-url: https://www.scoop.co.nz/stories/ED0610/S00091/leisure-time-vital-for-social-capital.htm
+title: Leisure Time Vital for Social Capital
+date: 2006-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00091/leisure-time-vital-for-social-capital.htm
 author: lincoln-university
+permalink: /archive/2006/10/25/leisure-time-vital-for-social-capital/index.html
+layout: layout.njk
 ---
 Leisure Time Vital for Social Capital
 =====================================

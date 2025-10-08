@@ -1,9 +1,13 @@
 ---
 slug: nz-team-reaches-global-green-solutions-finals-in-paris
-title: "NZ Team Reaches Global Green Solutions Finals in Paris"
-date: 2017-08-17
-source-url: https://www.scoop.co.nz/stories/ED1708/S00061/nz-team-reaches-global-green-solutions-finals-in-paris.htm
+title: NZ Team Reaches Global Green Solutions Finals in Paris
+date: 2017-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00061/nz-team-reaches-global-green-solutions-finals-in-paris.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/08/17/nz-team-reaches-global-green-solutions-finals-in-paris/index.html
+layout: layout.njk
 ---
 NZ Team Reaches Global Green Solutions Finals in Paris
 ======================================================

@@ -1,11 +1,20 @@
 ---
-title: "Breaking: Dawn Proposes New Combined Faculty of Law and Business & Economics"
+layout: layout.njk
+title: 'Breaking: Dawn Proposes New Combined Faculty of Law and Business & Economics'
 slug: dawn-proposes-new-combined-faculty-of-law-and-business-economics
-date: 2024-11-12
-source:
-source-name:
+date: 2024-11-12T00:00:00.000Z
+source: null
+source-name: null
 author: We Are The University
 author-slug: we-are-the-university
+permalink: >-
+  /blog/2024/11/12/dawn-proposes-new-combined-faculty-of-law-and-business-economics/index.html
+excerpt: >-
+  <script src="/tableofcontents.js" columns="2"</script The following email has
+  been sent to the allstaff email list at the University of Auckland. Dawn has
+  finally refreshed her contract and is contracted another 5 years as
+  ViceChancellor. Her ideology of consolidation and socalled efficiency has cost
+  this institution valuable professional staff and countless years...
 ---
 
 <script src="/table-of-contents.js" columns="2"></script>

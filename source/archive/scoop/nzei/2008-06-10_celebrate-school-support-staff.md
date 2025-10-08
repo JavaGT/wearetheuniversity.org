@@ -1,9 +1,12 @@
 ---
 slug: celebrate-school-support-staff
-title: "Celebrate School Support Staff"
-date: 2008-06-10
-source-url: https://www.scoop.co.nz/stories/ED0806/S00022/celebrate-school-support-staff.htm
+title: Celebrate School Support Staff
+date: 2008-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00022/celebrate-school-support-staff.htm
 author: nzei
+permalink: /archive/2008/06/10/celebrate-school-support-staff/index.html
+layout: layout.njk
 ---
 Celebrate School Support Staff
 ==============================

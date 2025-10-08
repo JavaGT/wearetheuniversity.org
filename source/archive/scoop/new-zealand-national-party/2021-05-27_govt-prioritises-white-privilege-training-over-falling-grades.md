@@ -1,9 +1,13 @@
 ---
 slug: govt-prioritises-white-privilege-training-over-falling-grades
-title: "Govt Prioritises ‘white Privilege’ Training Over Falling Grades"
-date: 2021-05-27
-source-url: https://www.scoop.co.nz/stories/PA2105/S00241/govt-prioritises-white-privilege-training-over-falling-grades.htm
+title: Govt Prioritises ‘white Privilege’ Training Over Falling Grades
+date: 2021-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00241/govt-prioritises-white-privilege-training-over-falling-grades.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/27/govt-prioritises-white-privilege-training-over-falling-grades/index.html
+layout: layout.njk
 ---
 Govt Prioritises ‘white Privilege’ Training Over Falling Grades
 ===============================================================

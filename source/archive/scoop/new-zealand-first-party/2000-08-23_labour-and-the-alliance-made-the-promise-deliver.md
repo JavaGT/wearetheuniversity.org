@@ -1,9 +1,13 @@
 ---
 slug: labour-and-the-alliance-made-the-promise-deliver
-title: "Labour And The Alliance Made The Promise - Deliver"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PA0008/S00419/labour-and-the-alliance-made-the-promise-deliver.htm
+title: Labour And The Alliance Made The Promise - Deliver
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00419/labour-and-the-alliance-made-the-promise-deliver.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2000/08/23/labour-and-the-alliance-made-the-promise-deliver/index.html
+layout: layout.njk
 ---
 Labour And The Alliance Made The Promise - Deliver
 ==================================================

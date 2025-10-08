@@ -1,9 +1,12 @@
 ---
 slug: another-rabbit-virus-a-backward-step
-title: "Another Rabbit Virus a Backward Step"
-date: 2017-02-09
-source-url: https://www.scoop.co.nz/stories/PA1702/S00134/another-rabbit-virus-a-backward-step.htm
+title: Another Rabbit Virus a Backward Step
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00134/another-rabbit-virus-a-backward-step.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/09/another-rabbit-virus-a-backward-step/index.html
+layout: layout.njk
 ---
 Another Rabbit Virus a Backward Step
 ====================================

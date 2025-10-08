@@ -1,9 +1,12 @@
 ---
 slug: debbie-ngarewa-packer-statement-on-te-tai-hauāuru-result
-title: "Debbie Ngarewa-Packer Statement On Te Tai Hauāuru Result"
-date: 2020-10-18
-source-url: https://www.scoop.co.nz/stories/PO2010/S00219/debbie-ngarewa-packer-statement-on-te-tai-hauauru-result.htm
+title: Debbie Ngarewa-Packer Statement On Te Tai Hauāuru Result
+date: 2020-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00219/debbie-ngarewa-packer-statement-on-te-tai-hauauru-result.htm
 author: te-pati-maori
+permalink: /archive/2020/10/18/debbie-ngarewa-packer-statement-on-te-tai-hau/index.html
+layout: layout.njk
 ---
 Debbie Ngarewa-Packer Statement On Te Tai Hauāuru Result
 ========================================================

@@ -1,9 +1,16 @@
 ---
-slug: proposed-hamilton-auckland-rapid-rail-will-be-a-significant-boost-for-waikato-river-towns
-title: "Proposed Hamilton-Auckland Rapid Rail Will Be A Significant Boost For Waikato River Towns"
-date: 2020-08-25
-source-url: https://www.scoop.co.nz/stories/PO2008/S00296/proposed-hamilton-auckland-rapid-rail-will-be-a-significant-boost-for-waikato-river-towns.htm
+slug: >-
+  proposed-hamilton-auckland-rapid-rail-will-be-a-significant-boost-for-waikato-river-towns
+title: >-
+  Proposed Hamilton-Auckland Rapid Rail Will Be A Significant Boost For Waikato
+  River Towns
+date: 2020-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00296/proposed-hamilton-auckland-rapid-rail-will-be-a-significant-boost-for-waikato-river-towns.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2020/08/25/proposed-hamilton-auckland-rapid-rail-will-be-a-significant-boost-for-waikato-river-towns/index.html
+layout: layout.njk
 ---
 Proposed Hamilton-Auckland Rapid Rail Will Be A Significant Boost For Waikato River Towns
 =========================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-kiwis-languishing-on-benefit-under-labour
-title: "More Kiwis Languishing On Benefit Under Labour"
-date: 2021-07-09
-source-url: https://www.scoop.co.nz/stories/PA2107/S00081/more-kiwis-languishing-on-benefit-under-labour.htm
+title: More Kiwis Languishing On Benefit Under Labour
+date: 2021-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00081/more-kiwis-languishing-on-benefit-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/09/more-kiwis-languishing-on-benefit-under-labour/index.html
+layout: layout.njk
 ---
 More Kiwis Languishing On Benefit Under Labour
 ==============================================

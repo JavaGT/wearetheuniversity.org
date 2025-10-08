@@ -1,9 +1,13 @@
 ---
 slug: uc-professor-uses-supercomputer-to-simulate-quake-shaking
-title: "UC professor uses supercomputer to simulate quake shaking"
-date: 2016-02-23
-source-url: https://www.scoop.co.nz/stories/SC1602/S00062/uc-professor-uses-supercomputer-to-simulate-quake-shaking.htm
+title: UC professor uses supercomputer to simulate quake shaking
+date: 2016-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00062/uc-professor-uses-supercomputer-to-simulate-quake-shaking.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/02/23/uc-professor-uses-supercomputer-to-simulate-quake-shaking/index.html
+layout: layout.njk
 ---
 UC professor uses supercomputer to simulate quake shaking
 =========================================================

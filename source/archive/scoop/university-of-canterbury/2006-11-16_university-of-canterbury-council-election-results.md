@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-council-election-results
-title: "University of Canterbury Council Election Results"
-date: 2006-11-16
-source-url: https://www.scoop.co.nz/stories/ED0611/S00065/university-of-canterbury-council-election-results.htm
+title: University of Canterbury Council Election Results
+date: 2006-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00065/university-of-canterbury-council-election-results.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/11/16/university-of-canterbury-council-election-results/index.html
+layout: layout.njk
 ---
 University of Canterbury Council Election Results
 =================================================

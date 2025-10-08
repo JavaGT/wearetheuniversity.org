@@ -1,9 +1,13 @@
 ---
 slug: important-to-keep-pressure-on-ministry-over-samoan
-title: "Important to keep pressure on ministry over Samoan"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00328/important-to-keep-pressure-on-ministry-over-samoan.htm
+title: Important to keep pressure on ministry over Samoan
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00328/important-to-keep-pressure-on-ministry-over-samoan.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/10/20/important-to-keep-pressure-on-ministry-over-samoan/index.html
+layout: layout.njk
 ---
 Important to keep pressure on ministry over Samoan
 ==================================================

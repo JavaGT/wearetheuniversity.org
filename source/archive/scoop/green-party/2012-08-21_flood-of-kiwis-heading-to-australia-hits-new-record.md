@@ -1,9 +1,13 @@
 ---
 slug: flood-of-kiwis-heading-to-australia-hits-new-record
-title: "Flood of Kiwis heading to Australia hits new record"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/PA1208/S00285/flood-of-kiwis-heading-to-australia-hits-new-record.htm
+title: Flood of Kiwis heading to Australia hits new record
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00285/flood-of-kiwis-heading-to-australia-hits-new-record.htm
 author: green-party
+permalink: >-
+  /archive/2012/08/21/flood-of-kiwis-heading-to-australia-hits-new-record/index.html
+layout: layout.njk
 ---
 Flood of Kiwis heading to Australia hits new record
 ===================================================

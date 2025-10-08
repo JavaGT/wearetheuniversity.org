@@ -1,9 +1,13 @@
 ---
 slug: otago-awards-honorary-doctorate-to-vice-chancellor
-title: "Otago Awards Honorary Doctorate To Vice-Chancellor"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/ED0405/S00076/otago-awards-honorary-doctorate-to-vice-chancellor.htm
+title: Otago Awards Honorary Doctorate To Vice-Chancellor
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00076/otago-awards-honorary-doctorate-to-vice-chancellor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/05/20/otago-awards-honorary-doctorate-to-vice-chancellor/index.html
+layout: layout.njk
 ---
 Otago Awards Honorary Doctorate To Vice-Chancellor
 ==================================================

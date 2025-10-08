@@ -1,9 +1,13 @@
 ---
 slug: job-creation-is-the-answer-not-increasing-dependency
-title: "Job Creation Is The Answer, Not Increasing Dependency"
-date: 2020-09-12
-source-url: https://www.scoop.co.nz/stories/PO2009/S00153/job-creation-is-the-answer-not-increasing-dependency.htm
+title: Job Creation Is The Answer, Not Increasing Dependency
+date: 2020-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00153/job-creation-is-the-answer-not-increasing-dependency.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/12/job-creation-is-the-answer-not-increasing-dependency/index.html
+layout: layout.njk
 ---
 Job Creation Is The Answer, Not Increasing Dependency
 =====================================================

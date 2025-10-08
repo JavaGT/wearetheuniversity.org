@@ -1,9 +1,12 @@
 ---
 slug: chequebook-research-threatens-academic-freedom
-title: "Chequebook Research Threatens Academic Freedom"
-date: 2002-04-09
-source-url: https://www.scoop.co.nz/stories/ED0204/S00011/chequebook-research-threatens-academic-freedom.htm
+title: Chequebook Research Threatens Academic Freedom
+date: 2002-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00011/chequebook-research-threatens-academic-freedom.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/04/09/chequebook-research-threatens-academic-freedom/index.html
+layout: layout.njk
 ---
 Chequebook Research Threatens Academic Freedom
 ==============================================

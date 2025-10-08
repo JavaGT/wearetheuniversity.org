@@ -1,9 +1,11 @@
 ---
 slug: kiwi-changes-to-kode
-title: "Kiwi changes to KODE"
-date: 2006-02-14
+title: Kiwi changes to KODE
+date: 2006-02-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0602/S00030/kiwi-changes-to-kode.htm
 author: aut-university
+permalink: /archive/2006/02/14/kiwi-changes-to-kode/index.html
+layout: layout.njk
 ---
 Kiwi changes to KODE
 ====================

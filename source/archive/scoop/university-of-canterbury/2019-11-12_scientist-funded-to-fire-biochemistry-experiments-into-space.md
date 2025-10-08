@@ -1,9 +1,13 @@
 ---
 slug: scientist-funded-to-fire-biochemistry-experiments-into-space
-title: "Scientist funded to fire biochemistry experiments into space"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/SC1911/S00031/scientist-funded-to-fire-biochemistry-experiments-into-space.htm
+title: Scientist funded to fire biochemistry experiments into space
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1911/S00031/scientist-funded-to-fire-biochemistry-experiments-into-space.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/12/scientist-funded-to-fire-biochemistry-experiments-into-space/index.html
+layout: layout.njk
 ---
 Scientist funded to fire biochemistry experiments into space
 ============================================================

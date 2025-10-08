@@ -1,9 +1,13 @@
 ---
 slug: christchurch-has-suffered-liquefaction-in-the-past
-title: "Christchurch has suffered liquefaction in the past"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/AK1403/S00083/christchurch-has-suffered-liquefaction-in-the-past.htm
+title: Christchurch has suffered liquefaction in the past
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00083/christchurch-has-suffered-liquefaction-in-the-past.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/05/christchurch-has-suffered-liquefaction-in-the-past/index.html
+layout: layout.njk
 ---
 Christchurch has suffered liquefaction in the past
 ==================================================

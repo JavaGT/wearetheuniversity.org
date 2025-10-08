@@ -1,9 +1,13 @@
 ---
 slug: four-future-leaders-awarded-scholarships-to-cambridge
-title: "Four future leaders awarded scholarships to Cambridge"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/ED1609/S00062/four-future-leaders-awarded-scholarships-to-cambridge.htm
+title: Four future leaders awarded scholarships to Cambridge
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00062/four-future-leaders-awarded-scholarships-to-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/09/13/four-future-leaders-awarded-scholarships-to-cambridge/index.html
+layout: layout.njk
 ---
 Four future leaders awarded scholarships to Cambridge
 =====================================================

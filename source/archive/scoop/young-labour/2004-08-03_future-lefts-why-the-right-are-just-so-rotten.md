@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-why-the-right-are-just-so-rotten
-title: "Future Lefts – 'Why the Right are just so Rotten'"
-date: 2004-08-03
-source-url: https://www.scoop.co.nz/stories/PO0408/S00036/future-lefts-why-the-right-are-just-so-rotten.htm
+title: Future Lefts – 'Why the Right are just so Rotten'
+date: 2004-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0408/S00036/future-lefts-why-the-right-are-just-so-rotten.htm
 author: young-labour
+permalink: /archive/2004/08/03/future-lefts-why-the-right-are-just-so-rotten/index.html
+layout: layout.njk
 ---
 Future Lefts – 'Why the Right are just so Rotten'
 =================================================

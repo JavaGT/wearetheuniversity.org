@@ -1,9 +1,11 @@
 ---
 slug: celestial-sounds
-title: "Celestial Sounds"
-date: 2004-08-06
+title: Celestial Sounds
+date: 2004-08-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0408/S00038/celestial-sounds.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/06/celestial-sounds/index.html
+layout: layout.njk
 ---
 Celestial Sounds
 ================

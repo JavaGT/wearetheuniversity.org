@@ -1,9 +1,12 @@
 ---
 slug: a-splash-of-colour-for-sea-side-suburb
-title: "A splash of colour for sea-side suburb"
-date: 2012-09-17
-source-url: https://www.scoop.co.nz/stories/AK1209/S00358/a-splash-of-colour-for-sea-side-suburb.htm
+title: A splash of colour for sea-side suburb
+date: 2012-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1209/S00358/a-splash-of-colour-for-sea-side-suburb.htm
 author: lincoln-university
+permalink: /archive/2012/09/17/a-splash-of-colour-for-sea-side-suburb/index.html
+layout: layout.njk
 ---
 A splash of colour for sea-side suburb
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-why-sell-out-new-zealand
-title: "Speech: Peters - Why Sell Out New Zealand?"
-date: 2011-11-16
-source-url: https://www.scoop.co.nz/stories/PO1111/S00397/speech-peters-why-sell-out-new-zealand.htm
+title: 'Speech: Peters - Why Sell Out New Zealand?'
+date: 2011-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00397/speech-peters-why-sell-out-new-zealand.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/16/speech-peters-why-sell-out-new-zealand/index.html
+layout: layout.njk
 ---
 Speech: Peters - Why Sell Out New Zealand?
 ==========================================

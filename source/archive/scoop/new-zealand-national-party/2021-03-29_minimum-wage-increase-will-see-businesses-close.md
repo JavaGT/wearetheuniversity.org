@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-increase-will-see-businesses-close
-title: "Minimum Wage Increase Will See Businesses Close"
-date: 2021-03-29
-source-url: https://www.scoop.co.nz/stories/PA2103/S00229/minimum-wage-increase-will-see-businesses-close.htm
+title: Minimum Wage Increase Will See Businesses Close
+date: 2021-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00229/minimum-wage-increase-will-see-businesses-close.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/29/minimum-wage-increase-will-see-businesses-close/index.html
+layout: layout.njk
 ---
 Minimum Wage Increase Will See Businesses Close
 ===============================================

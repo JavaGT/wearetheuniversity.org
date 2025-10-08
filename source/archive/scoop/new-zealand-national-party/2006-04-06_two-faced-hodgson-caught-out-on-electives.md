@@ -1,9 +1,12 @@
 ---
 slug: two-faced-hodgson-caught-out-on-electives
-title: "Two-faced Hodgson caught out on electives"
-date: 2006-04-06
-source-url: https://www.scoop.co.nz/stories/PA0604/S00110/two-faced-hodgson-caught-out-on-electives.htm
+title: Two-faced Hodgson caught out on electives
+date: 2006-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00110/two-faced-hodgson-caught-out-on-electives.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/06/two-faced-hodgson-caught-out-on-electives/index.html
+layout: layout.njk
 ---
 Two-faced Hodgson caught out on electives
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: let-the-people-set-the-agenda-say-greens
-title: "Let The People Set The Agenda, Say Greens"
-date: 2004-03-11
-source-url: https://www.scoop.co.nz/stories/PA0403/S00254/let-the-people-set-the-agenda-say-greens.htm
+title: Let The People Set The Agenda, Say Greens
+date: 2004-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00254/let-the-people-set-the-agenda-say-greens.htm
 author: green-party
+permalink: /archive/2004/03/11/let-the-people-set-the-agenda-say-greens/index.html
+layout: layout.njk
 ---
 Let The People Set The Agenda, Say Greens
 =========================================

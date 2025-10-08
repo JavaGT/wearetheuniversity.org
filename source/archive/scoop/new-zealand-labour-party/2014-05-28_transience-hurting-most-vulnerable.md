@@ -1,9 +1,12 @@
 ---
 slug: transience-hurting-most-vulnerable
-title: "Transience hurting most vulnerable"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PA1405/S00530/transience-hurting-most-vulnerable.htm
+title: Transience hurting most vulnerable
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00530/transience-hurting-most-vulnerable.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/28/transience-hurting-most-vulnerable/index.html
+layout: layout.njk
 ---
 Transience hurting most vulnerable
 ==================================

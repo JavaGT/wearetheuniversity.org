@@ -1,9 +1,12 @@
 ---
 slug: university-buys-mass-fingerprinting-technology
-title: "University Buys ‘Mass Fingerprinting’ Technology"
-date: 2004-05-21
-source-url: https://www.scoop.co.nz/stories/ED0405/S00082/university-buys-mass-fingerprinting-technology.htm
+title: University Buys ‘Mass Fingerprinting’ Technology
+date: 2004-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00082/university-buys-mass-fingerprinting-technology.htm
 author: waikato-university
+permalink: /archive/2004/05/21/university-buys-mass-fingerprinting-technology/index.html
+layout: layout.njk
 ---
 University Buys ‘Mass Fingerprinting’ Technology
 ================================================

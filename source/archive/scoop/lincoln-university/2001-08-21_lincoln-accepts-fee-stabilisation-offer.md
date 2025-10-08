@@ -1,9 +1,12 @@
 ---
 slug: lincoln-accepts-fee-stabilisation-offer
-title: "Lincoln accepts fee stabilisation offer"
-date: 2001-08-21
-source-url: https://www.scoop.co.nz/stories/ED0108/S00054/lincoln-accepts-fee-stabilisation-offer.htm
+title: Lincoln accepts fee stabilisation offer
+date: 2001-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00054/lincoln-accepts-fee-stabilisation-offer.htm
 author: lincoln-university
+permalink: /archive/2001/08/21/lincoln-accepts-fee-stabilisation-offer/index.html
+layout: layout.njk
 ---
 Lincoln accepts fee stabilisation offer
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-granted-$7-8m-in-research-funds
-title: "Massey granted $7.8m in research funds"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/ED1009/S00118/massey-granted-78m-in-research-funds.htm
+title: Massey granted $7.8m in research funds
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00118/massey-granted-78m-in-research-funds.htm
 author: massey-university
+permalink: /archive/2010/09/24/massey-granted-/index.html
+layout: layout.njk
 ---
 Massey granted $7.8m in research funds
 ======================================

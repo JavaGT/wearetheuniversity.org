@@ -1,9 +1,11 @@
 ---
 slug: good-news-theres-less-gas!
-title: "Good news – there’s less gas!"
-date: 2007-07-05
+title: Good news – there’s less gas!
+date: 2007-07-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0707/S00037/good-news-theres-less-gas.htm
 author: lincoln-university
+permalink: /archive/2007/07/05/good-news-theres-less-gas/index.html
+layout: layout.njk
 ---
 Good news – there’s less gas!
 =============================

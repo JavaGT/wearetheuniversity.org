@@ -1,9 +1,12 @@
 ---
 slug: cambridge-confirms-for-2004-great-race
-title: "Cambridge Confirms For 2004 Great Race"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/ED0309/S00062/cambridge-confirms-for-2004-great-race.htm
+title: Cambridge Confirms For 2004 Great Race
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00062/cambridge-confirms-for-2004-great-race.htm
 author: waikato-university
+permalink: /archive/2003/09/15/cambridge-confirms-for-2004-great-race/index.html
+layout: layout.njk
 ---
 Cambridge Confirms For 2004 Great Race
 ======================================

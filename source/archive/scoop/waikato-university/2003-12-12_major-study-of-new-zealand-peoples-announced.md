@@ -1,9 +1,12 @@
 ---
 slug: major-study-of-new-zealand-peoples-announced
-title: "Major study of New Zealand peoples announced"
-date: 2003-12-12
-source-url: https://www.scoop.co.nz/stories/ED0312/S00056/major-study-of-new-zealand-peoples-announced.htm
+title: Major study of New Zealand peoples announced
+date: 2003-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00056/major-study-of-new-zealand-peoples-announced.htm
 author: waikato-university
+permalink: /archive/2003/12/12/major-study-of-new-zealand-peoples-announced/index.html
+layout: layout.njk
 ---
 Major study of New Zealand peoples announced
 ============================================

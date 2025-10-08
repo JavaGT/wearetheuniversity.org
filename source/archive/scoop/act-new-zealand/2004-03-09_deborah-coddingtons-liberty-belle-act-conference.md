@@ -1,9 +1,13 @@
 ---
 slug: deborah-coddingtons-liberty-belle-act-conference
-title: "Deborah Coddington's Liberty Belle: ACT Conference"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00189/deborah-coddingtons-liberty-belle-act-conference.htm
+title: 'Deborah Coddington''s Liberty Belle: ACT Conference'
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00189/deborah-coddingtons-liberty-belle-act-conference.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/03/09/deborah-coddingtons-liberty-belle-act-conference/index.html
+layout: layout.njk
 ---
 Deborah Coddington's Liberty Belle: ACT Conference
 ==================================================

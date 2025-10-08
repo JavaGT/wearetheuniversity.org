@@ -1,9 +1,12 @@
 ---
 slug: law-students-help-fight-miscarriages-of-justice
-title: "Law students help fight miscarriages of justice"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/ED1503/S00018/law-students-help-fight-miscarriages-of-justice.htm
+title: Law students help fight miscarriages of justice
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00018/law-students-help-fight-miscarriages-of-justice.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/05/law-students-help-fight-miscarriages-of-justice/index.html
+layout: layout.njk
 ---
 Law students help fight miscarriages of justice
 ===============================================

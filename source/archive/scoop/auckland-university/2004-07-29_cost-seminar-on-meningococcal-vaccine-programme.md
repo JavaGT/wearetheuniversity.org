@@ -1,9 +1,12 @@
 ---
 slug: cost-seminar-on-meningococcal-vaccine-programme
-title: "Cost Seminar on Meningococcal Vaccine Programme"
-date: 2004-07-29
-source-url: https://www.scoop.co.nz/stories/ED0407/S00083/cost-seminar-on-meningococcal-vaccine-programme.htm
+title: Cost Seminar on Meningococcal Vaccine Programme
+date: 2004-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00083/cost-seminar-on-meningococcal-vaccine-programme.htm
 author: auckland-university
+permalink: /archive/2004/07/29/cost-seminar-on-meningococcal-vaccine-programme/index.html
+layout: layout.njk
 ---
 Cost Seminar on Meningococcal Vaccine Programme
 ===============================================

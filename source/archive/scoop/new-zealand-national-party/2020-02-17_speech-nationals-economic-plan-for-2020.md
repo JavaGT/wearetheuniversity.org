@@ -1,9 +1,12 @@
 ---
 slug: speech-nationals-economic-plan-for-2020
-title: "Speech: National’s Economic Plan For 2020"
-date: 2020-02-17
-source-url: https://www.scoop.co.nz/stories/PA2002/S00092/speech-nationals-economic-plan-for-2020.htm
+title: 'Speech: National’s Economic Plan For 2020'
+date: 2020-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2002/S00092/speech-nationals-economic-plan-for-2020.htm
 author: new-zealand-national-party
+permalink: /archive/2020/02/17/speech-nationals-economic-plan-for-2020/index.html
+layout: layout.njk
 ---
 Speech: National’s Economic Plan For 2020
 =========================================

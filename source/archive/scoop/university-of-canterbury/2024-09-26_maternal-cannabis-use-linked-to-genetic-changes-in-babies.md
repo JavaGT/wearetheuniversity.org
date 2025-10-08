@@ -1,9 +1,13 @@
 ---
 slug: maternal-cannabis-use-linked-to-genetic-changes-in-babies
-title: "Maternal Cannabis Use Linked To Genetic Changes In Babies"
-date: 2024-09-26
-source-url: https://www.scoop.co.nz/stories/GE2409/S00104/maternal-cannabis-use-linked-to-genetic-changes-in-babies.htm
+title: Maternal Cannabis Use Linked To Genetic Changes In Babies
+date: 2024-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2409/S00104/maternal-cannabis-use-linked-to-genetic-changes-in-babies.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/26/maternal-cannabis-use-linked-to-genetic-changes-in-babies/index.html
+layout: layout.njk
 ---
 Maternal Cannabis Use Linked To Genetic Changes In Babies
 =========================================================

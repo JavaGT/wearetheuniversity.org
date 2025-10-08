@@ -1,9 +1,13 @@
 ---
 slug: govt-stuck-in-the-mud-over-swamp-kauri-allegations
-title: "Govt stuck in the mud over swamp kauri allegations"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/PA1506/S00347/govt-stuck-in-the-mud-over-swamp-kauri-allegations.htm
+title: Govt stuck in the mud over swamp kauri allegations
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00347/govt-stuck-in-the-mud-over-swamp-kauri-allegations.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/19/govt-stuck-in-the-mud-over-swamp-kauri-allegations/index.html
+layout: layout.njk
 ---
 Govt stuck in the mud over swamp kauri allegations
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-research-spurs-progress-in-push-to-end-streaming
-title: "UC Research Spurs Progress In Push To End Streaming"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/ED2409/S00016/uc-research-spurs-progress-in-push-to-end-streaming.htm
+title: UC Research Spurs Progress In Push To End Streaming
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00016/uc-research-spurs-progress-in-push-to-end-streaming.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/15/uc-research-spurs-progress-in-push-to-end-streaming/index.html
+layout: layout.njk
 ---
 UC Research Spurs Progress In Push To End Streaming
 ===================================================

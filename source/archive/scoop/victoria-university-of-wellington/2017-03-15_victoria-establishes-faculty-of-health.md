@@ -1,9 +1,12 @@
 ---
 slug: victoria-establishes-faculty-of-health
-title: "Victoria establishes Faculty of Health"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/ED1703/S00063/victoria-establishes-faculty-of-health.htm
+title: Victoria establishes Faculty of Health
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00063/victoria-establishes-faculty-of-health.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/03/15/victoria-establishes-faculty-of-health/index.html
+layout: layout.njk
 ---
 Victoria establishes Faculty of Health
 ======================================

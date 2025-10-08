@@ -1,9 +1,13 @@
 ---
 slug: clinical-governance-in-hospitals-making-good-progress
-title: "Clinical governance in hospitals making good progress"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/GE1212/S00025/clinical-governance-in-hospitals-making-good-progress.htm
+title: Clinical governance in hospitals making good progress
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1212/S00025/clinical-governance-in-hospitals-making-good-progress.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/12/06/clinical-governance-in-hospitals-making-good-progress/index.html
+layout: layout.njk
 ---
 Clinical governance in hospitals making good progress
 =====================================================

@@ -1,9 +1,11 @@
 ---
 slug: worlds-fastest-kiwi-in-india
-title: "World’s fastest Kiwi in India?"
-date: 2015-11-17
+title: World’s fastest Kiwi in India?
+date: 2015-11-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1511/S00087/worlds-fastest-kiwi-in-india.htm
 author: university-of-waikato
+permalink: /archive/2015/11/17/worlds-fastest-kiwi-in-india/index.html
+layout: layout.njk
 ---
 World’s fastest Kiwi in India?
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: speech-robertson-labour-party-congress
-title: "Speech: Robertson - Labour Party Congress"
-date: 2017-05-13
-source-url: https://www.scoop.co.nz/stories/PA1705/S00292/speech-robertson-labour-party-congress.htm
+title: 'Speech: Robertson - Labour Party Congress'
+date: 2017-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00292/speech-robertson-labour-party-congress.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/13/speech-robertson-labour-party-congress/index.html
+layout: layout.njk
 ---
 Speech: Robertson - Labour Party Congress
 =========================================

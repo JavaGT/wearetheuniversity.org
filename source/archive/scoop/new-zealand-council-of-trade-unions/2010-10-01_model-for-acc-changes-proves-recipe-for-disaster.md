@@ -1,9 +1,13 @@
 ---
 slug: model-for-acc-changes-proves-recipe-for-disaster
-title: "Model for ACC changes proves recipe for disaster"
-date: 2010-10-01
-source-url: https://www.scoop.co.nz/stories/PO1010/S00008/model-for-acc-changes-proves-recipe-for-disaster.htm
+title: Model for ACC changes proves recipe for disaster
+date: 2010-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00008/model-for-acc-changes-proves-recipe-for-disaster.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/10/01/model-for-acc-changes-proves-recipe-for-disaster/index.html
+layout: layout.njk
 ---
 Model for ACC changes proves recipe for disaster
 ================================================

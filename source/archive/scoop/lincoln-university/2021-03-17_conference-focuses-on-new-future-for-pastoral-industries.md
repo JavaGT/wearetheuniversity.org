@@ -1,9 +1,13 @@
 ---
 slug: conference-focuses-on-new-future-for-pastoral-industries
-title: "Conference Focuses On New Future For Pastoral Industries"
-date: 2021-03-17
-source-url: https://www.scoop.co.nz/stories/ED2103/S00029/conference-focuses-on-new-future-for-pastoral-industries.htm
+title: Conference Focuses On New Future For Pastoral Industries
+date: 2021-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00029/conference-focuses-on-new-future-for-pastoral-industries.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/03/17/conference-focuses-on-new-future-for-pastoral-industries/index.html
+layout: layout.njk
 ---
 Conference Focuses On New Future For Pastoral Industries
 ========================================================

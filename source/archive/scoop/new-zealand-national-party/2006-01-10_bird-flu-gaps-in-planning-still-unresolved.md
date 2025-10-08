@@ -1,9 +1,12 @@
 ---
 slug: bird-flu-gaps-in-planning-still-unresolved
-title: "Bird flu: gaps in planning still unresolved"
-date: 2006-01-10
-source-url: https://www.scoop.co.nz/stories/PA0601/S00019/bird-flu-gaps-in-planning-still-unresolved.htm
+title: 'Bird flu: gaps in planning still unresolved'
+date: 2006-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00019/bird-flu-gaps-in-planning-still-unresolved.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/10/bird-flu-gaps-in-planning-still-unresolved/index.html
+layout: layout.njk
 ---
 Bird flu: gaps in planning still unresolved
 ===========================================

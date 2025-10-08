@@ -1,9 +1,12 @@
 ---
 slug: otago-marsden-funding-research-successes
-title: "Otago Marsden Funding Research Successes"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00039/otago-marsden-funding-research-successes.htm
+title: Otago Marsden Funding Research Successes
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00039/otago-marsden-funding-research-successes.htm
 author: university-of-otago
+permalink: /archive/2004/09/10/otago-marsden-funding-research-successes/index.html
+layout: layout.njk
 ---
 Otago Marsden Funding Research Successes
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: the-rise-of-māori-academic-achievement-in-mental-health
-title: "The rise of Māori academic achievement in mental health"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/ED1507/S00034/the-rise-of-maori-academic-achievement-in-mental-health.htm
+title: The rise of Māori academic achievement in mental health
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00034/the-rise-of-maori-academic-achievement-in-mental-health.htm
 author: massey-university
+permalink: /archive/2015/07/03/the-rise-of-m/index.html
+layout: layout.njk
 ---
 The rise of Māori academic achievement in mental health
 =======================================================

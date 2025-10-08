@@ -1,9 +1,13 @@
 ---
 slug: charter-school-supporters-urged-to-sign-petition
-title: "Charter School Supporters Urged to Sign Petition"
-date: 2018-02-11
-source-url: https://www.scoop.co.nz/stories/PA1802/S00080/charter-school-supporters-urged-to-sign-petition.htm
+title: Charter School Supporters Urged to Sign Petition
+date: 2018-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00080/charter-school-supporters-urged-to-sign-petition.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/02/11/charter-school-supporters-urged-to-sign-petition/index.html
+layout: layout.njk
 ---
 Charter School Supporters Urged to Sign Petition
 ================================================

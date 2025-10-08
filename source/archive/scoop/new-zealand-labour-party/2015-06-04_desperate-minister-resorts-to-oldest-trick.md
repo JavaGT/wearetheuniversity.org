@@ -1,9 +1,12 @@
 ---
 slug: desperate-minister-resorts-to-oldest-trick
-title: "Desperate Minister resorts to oldest trick"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00088/desperate-minister-resorts-to-oldest-trick.htm
+title: Desperate Minister resorts to oldest trick
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00088/desperate-minister-resorts-to-oldest-trick.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/04/desperate-minister-resorts-to-oldest-trick/index.html
+layout: layout.njk
 ---
 Desperate Minister resorts to oldest trick
 ==========================================

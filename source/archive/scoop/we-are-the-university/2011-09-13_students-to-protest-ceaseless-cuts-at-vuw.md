@@ -1,9 +1,12 @@
 ---
 slug: students-to-protest-ceaseless-cuts-at-vuw
-title: "Students to protest ceaseless cuts at VUW"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/ED1109/S00042/students-to-protest-ceaseless-cuts-at-vuw.htm
+title: Students to protest ceaseless cuts at VUW
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00042/students-to-protest-ceaseless-cuts-at-vuw.htm
 author: we-are-the-university
+permalink: /archive/2011/09/13/students-to-protest-ceaseless-cuts-at-vuw/index.html
+layout: layout.njk
 ---
 Students to protest ceaseless cuts at VUW
 =========================================

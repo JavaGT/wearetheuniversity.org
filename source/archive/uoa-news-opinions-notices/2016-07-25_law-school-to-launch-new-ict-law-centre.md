@@ -1,8 +1,11 @@
 ---
 slug: law-school-to-launch-new-ict-law-centre
-title: "Law School to launch new ICT Law Centre"
-date: 2016-07-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/law-school-to-launch-new-ict-law-centre.html
+title: Law School to launch new ICT Law Centre
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/law-school-to-launch-new-ict-law-centre.html
+permalink: /archive/2016/07/25/law-school-to-launch-new-ict-law-centre/index.html
+layout: layout.njk
 ---
 Law School to launch new ICT Law Centre
 =======================================

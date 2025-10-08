@@ -1,9 +1,12 @@
 ---
 slug: go-sustainable-go-organic-greens-tell-landcorp
-title: "'Go sustainable, Go Organic' Greens tell Landcorp"
-date: 2007-08-16
-source-url: https://www.scoop.co.nz/stories/PA0708/S00284/go-sustainable-go-organic-greens-tell-landcorp.htm
+title: '''Go sustainable, Go Organic'' Greens tell Landcorp'
+date: 2007-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00284/go-sustainable-go-organic-greens-tell-landcorp.htm
 author: green-party
+permalink: /archive/2007/08/16/go-sustainable-go-organic-greens-tell-landcorp/index.html
+layout: layout.njk
 ---
 'Go sustainable, Go Organic' Greens tell Landcorp
 =================================================

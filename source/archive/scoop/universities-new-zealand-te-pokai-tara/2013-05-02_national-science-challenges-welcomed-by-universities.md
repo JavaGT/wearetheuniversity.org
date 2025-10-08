@@ -1,9 +1,13 @@
 ---
 slug: national-science-challenges-welcomed-by-universities
-title: "National Science Challenges welcomed by Universities"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/ED1305/S00011/national-science-challenges-welcomed-by-universities.htm
+title: National Science Challenges welcomed by Universities
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00011/national-science-challenges-welcomed-by-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2013/05/02/national-science-challenges-welcomed-by-universities/index.html
+layout: layout.njk
 ---
 National Science Challenges welcomed by Universities
 ====================================================

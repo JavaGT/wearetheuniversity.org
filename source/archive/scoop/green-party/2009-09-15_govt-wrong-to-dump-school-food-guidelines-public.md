@@ -1,9 +1,13 @@
 ---
 slug: govt-wrong-to-dump-school-food-guidelines-public
-title: "Govt wrong to dump school food guidelines: Public"
-date: 2009-09-15
-source-url: https://www.scoop.co.nz/stories/PA0909/S00205/govt-wrong-to-dump-school-food-guidelines-public.htm
+title: 'Govt wrong to dump school food guidelines: Public'
+date: 2009-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00205/govt-wrong-to-dump-school-food-guidelines-public.htm
 author: green-party
+permalink: >-
+  /archive/2009/09/15/govt-wrong-to-dump-school-food-guidelines-public/index.html
+layout: layout.njk
 ---
 Govt wrong to dump school food guidelines: Public
 =================================================

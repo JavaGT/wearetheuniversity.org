@@ -1,9 +1,12 @@
 ---
 slug: national-delivers-first-cancer-medicines-from-$604m-boost
-title: "National Delivers First Cancer Medicines From $604M Boost"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/PA2409/S00121/national-delivers-first-cancer-medicines-from-604m-boost.htm
+title: National Delivers First Cancer Medicines From $604M Boost
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00121/national-delivers-first-cancer-medicines-from-604m-boost.htm
 author: new-zealand-national-party
+permalink: /archive/2024/09/16/national-delivers-first-cancer-medicines-from-/index.html
+layout: layout.njk
 ---
 National Delivers First Cancer Medicines From $604M Boost
 =========================================================

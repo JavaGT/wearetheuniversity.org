@@ -1,9 +1,12 @@
 ---
 slug: laserforce-army-training-ludicrous
-title: "\"Laserforce\" Army Training Ludicrous"
-date: 1999-08-12
-source-url: https://www.scoop.co.nz/stories/PA9908/S00217/laserforce-army-training-ludicrous.htm
+title: '"Laserforce" Army Training Ludicrous'
+date: 1999-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00217/laserforce-army-training-ludicrous.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/12/laserforce-army-training-ludicrous/index.html
+layout: layout.njk
 ---
 "Laserforce" Army Training Ludicrous
 ====================================

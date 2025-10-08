@@ -1,9 +1,12 @@
 ---
 slug: easter-trading-laws-unfair-and-unnecessary
-title: "Easter Trading Laws Unfair and Unnecessary"
-date: 2013-03-29
-source-url: https://www.scoop.co.nz/stories/PO1303/S00358/easter-trading-laws-unfair-and-unnecessary.htm
+title: Easter Trading Laws Unfair and Unnecessary
+date: 2013-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00358/easter-trading-laws-unfair-and-unnecessary.htm
 author: act-on-campus
+permalink: /archive/2013/03/29/easter-trading-laws-unfair-and-unnecessary/index.html
+layout: layout.njk
 ---
 Easter Trading Laws Unfair and Unnecessary
 ==========================================

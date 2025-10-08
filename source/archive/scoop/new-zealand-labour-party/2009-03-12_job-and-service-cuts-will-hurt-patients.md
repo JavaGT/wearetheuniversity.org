@@ -1,9 +1,12 @@
 ---
 slug: job-and-service-cuts-will-hurt-patients
-title: "Job and service cuts will hurt patients"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/PA0903/S00185/job-and-service-cuts-will-hurt-patients.htm
+title: Job and service cuts will hurt patients
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00185/job-and-service-cuts-will-hurt-patients.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/12/job-and-service-cuts-will-hurt-patients/index.html
+layout: layout.njk
 ---
 Job and service cuts will hurt patients
 =======================================

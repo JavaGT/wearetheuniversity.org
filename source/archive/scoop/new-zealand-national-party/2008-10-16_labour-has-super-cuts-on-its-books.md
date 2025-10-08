@@ -1,9 +1,12 @@
 ---
 slug: labour-has-super-cuts-on-its-books
-title: "Labour has super cuts on its books"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PA0810/S00369/labour-has-super-cuts-on-its-books.htm
+title: Labour has super cuts on its books
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00369/labour-has-super-cuts-on-its-books.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/16/labour-has-super-cuts-on-its-books/index.html
+layout: layout.njk
 ---
 Labour has super cuts on its books
 ==================================

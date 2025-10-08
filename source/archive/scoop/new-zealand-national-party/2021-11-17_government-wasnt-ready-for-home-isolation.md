@@ -1,9 +1,12 @@
 ---
 slug: government-wasnt-ready-for-home-isolation
-title: "Government Wasn’t Ready For Home Isolation"
-date: 2021-11-17
-source-url: https://www.scoop.co.nz/stories/PA2111/S00197/government-wasnt-ready-for-home-isolation.htm
+title: Government Wasn’t Ready For Home Isolation
+date: 2021-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00197/government-wasnt-ready-for-home-isolation.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/17/government-wasnt-ready-for-home-isolation/index.html
+layout: layout.njk
 ---
 Government Wasn’t Ready For Home Isolation
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: cynical-desperate-policy;-labour-on-transport
-title: "Cynical, Desperate Policy; Labour On Transport"
-date: 2023-08-17
-source-url: https://www.scoop.co.nz/stories/PA2308/S00111/cynical-desperate-policy-labour-on-transport.htm
+title: Cynical, Desperate Policy; Labour On Transport
+date: 2023-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00111/cynical-desperate-policy-labour-on-transport.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/17/cynical-desperate-policy/index.html
+layout: layout.njk
 ---
 Cynical, Desperate Policy; Labour On Transport
 ==============================================

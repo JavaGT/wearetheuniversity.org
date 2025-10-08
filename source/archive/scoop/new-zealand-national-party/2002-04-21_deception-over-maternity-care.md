@@ -1,9 +1,12 @@
 ---
 slug: deception-over-maternity-care
-title: "Deception Over Maternity Care"
-date: 2002-04-21
-source-url: https://www.scoop.co.nz/stories/PA0204/S00300/deception-over-maternity-care.htm
+title: Deception Over Maternity Care
+date: 2002-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00300/deception-over-maternity-care.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/21/deception-over-maternity-care/index.html
+layout: layout.njk
 ---
 Deception Over Maternity Care
 =============================

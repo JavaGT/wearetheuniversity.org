@@ -1,9 +1,12 @@
 ---
 slug: cruise-consternation-continues
-title: "Cruise consternation continues"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/AK1412/S00117/cruise-consternation-continues.htm
+title: Cruise consternation continues
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1412/S00117/cruise-consternation-continues.htm
 author: lincoln-university
+permalink: /archive/2014/12/03/cruise-consternation-continues/index.html
+layout: layout.njk
 ---
 Cruise consternation continues
 ==============================

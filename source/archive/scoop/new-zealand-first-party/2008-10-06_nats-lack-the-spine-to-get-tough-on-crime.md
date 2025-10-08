@@ -1,9 +1,12 @@
 ---
 slug: nats-lack-the-spine-to-get-tough-on-crime
-title: "Nats Lack The Spine To Get Tough On Crime"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PA0810/S00110/nats-lack-the-spine-to-get-tough-on-crime.htm
+title: Nats Lack The Spine To Get Tough On Crime
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00110/nats-lack-the-spine-to-get-tough-on-crime.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/06/nats-lack-the-spine-to-get-tough-on-crime/index.html
+layout: layout.njk
 ---
 Nats Lack The Spine To Get Tough On Crime
 =========================================

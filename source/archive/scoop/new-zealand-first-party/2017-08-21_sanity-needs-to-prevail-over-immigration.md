@@ -1,9 +1,12 @@
 ---
 slug: sanity-needs-to-prevail-over-immigration
-title: "Sanity Needs to Prevail Over Immigration"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/PO1708/S00417/sanity-needs-to-prevail-over-immigration.htm
+title: Sanity Needs to Prevail Over Immigration
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00417/sanity-needs-to-prevail-over-immigration.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/21/sanity-needs-to-prevail-over-immigration/index.html
+layout: layout.njk
 ---
 Sanity Needs to Prevail Over Immigration
 ========================================

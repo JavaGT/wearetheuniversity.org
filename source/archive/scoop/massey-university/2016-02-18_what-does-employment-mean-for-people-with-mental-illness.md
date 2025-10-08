@@ -1,9 +1,13 @@
 ---
 slug: what-does-employment-mean-for-people-with-mental-illness
-title: "What Does Employment Mean for People with Mental Illness?"
-date: 2016-02-18
-source-url: https://www.scoop.co.nz/stories/GE1602/S00060/what-does-employment-mean-for-people-with-mental-illness.htm
+title: What Does Employment Mean for People with Mental Illness?
+date: 2016-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00060/what-does-employment-mean-for-people-with-mental-illness.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/18/what-does-employment-mean-for-people-with-mental-illness/index.html
+layout: layout.njk
 ---
 What Does Employment Mean for People with Mental Illness?
 =========================================================

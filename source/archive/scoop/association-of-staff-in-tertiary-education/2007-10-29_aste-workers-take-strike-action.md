@@ -1,9 +1,12 @@
 ---
 slug: aste-workers-take-strike-action
-title: "ASTE Workers Take Strike Action"
-date: 2007-10-29
-source-url: https://www.scoop.co.nz/stories/ED0710/S00087/aste-workers-take-strike-action.htm
+title: ASTE Workers Take Strike Action
+date: 2007-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00087/aste-workers-take-strike-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2007/10/29/aste-workers-take-strike-action/index.html
+layout: layout.njk
 ---
 ASTE Workers Take Strike Action
 ===============================

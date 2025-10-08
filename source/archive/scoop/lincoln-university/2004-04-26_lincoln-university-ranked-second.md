@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-ranked-second
-title: "Lincoln University ranked second"
-date: 2004-04-26
-source-url: https://www.scoop.co.nz/stories/ED0404/S00092/lincoln-university-ranked-second.htm
+title: Lincoln University ranked second
+date: 2004-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00092/lincoln-university-ranked-second.htm
 author: lincoln-university
+permalink: /archive/2004/04/26/lincoln-university-ranked-second/index.html
+layout: layout.njk
 ---
 Lincoln University ranked second
 ================================

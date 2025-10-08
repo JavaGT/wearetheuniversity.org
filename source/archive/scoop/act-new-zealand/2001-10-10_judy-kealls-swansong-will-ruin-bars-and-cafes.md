@@ -1,9 +1,12 @@
 ---
 slug: judy-kealls-swansong-will-ruin-bars-and-cafes
-title: "Judy Keall's Swansong Will Ruin Bars and Cafes"
-date: 2001-10-10
-source-url: https://www.scoop.co.nz/stories/PA0110/S00204/judy-kealls-swansong-will-ruin-bars-and-cafes.htm
+title: Judy Keall's Swansong Will Ruin Bars and Cafes
+date: 2001-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00204/judy-kealls-swansong-will-ruin-bars-and-cafes.htm
 author: act-new-zealand
+permalink: /archive/2001/10/10/judy-kealls-swansong-will-ruin-bars-and-cafes/index.html
+layout: layout.njk
 ---
 Judy Keall's Swansong Will Ruin Bars and Cafes
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: no-need-for-staff-cuts-at-massey-university
-title: "No need for staff cuts at Massey University"
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/ED0410/S00011/no-need-for-staff-cuts-at-massey-university.htm
+title: No need for staff cuts at Massey University
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00011/no-need-for-staff-cuts-at-massey-university.htm
 author: association-of-university-staff
+permalink: /archive/2004/10/05/no-need-for-staff-cuts-at-massey-university/index.html
+layout: layout.njk
 ---
 No need for staff cuts at Massey University
 ===========================================

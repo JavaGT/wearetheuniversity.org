@@ -1,9 +1,12 @@
 ---
 slug: smith-asked-to-call-in-factory-farming-consents
-title: "Smith asked to call in factory farming consents"
-date: 2010-01-07
-source-url: https://www.scoop.co.nz/stories/PA1001/S00008/smith-asked-to-call-in-factory-farming-consents.htm
+title: Smith asked to call in factory farming consents
+date: 2010-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00008/smith-asked-to-call-in-factory-farming-consents.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/07/smith-asked-to-call-in-factory-farming-consents/index.html
+layout: layout.njk
 ---
 Smith asked to call in factory farming consents
 ===============================================

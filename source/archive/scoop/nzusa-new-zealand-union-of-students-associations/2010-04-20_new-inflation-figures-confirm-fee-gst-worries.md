@@ -1,9 +1,12 @@
 ---
 slug: new-inflation-figures-confirm-fee-gst-worries
-title: "New Inflation Figures Confirm Fee, GST Worries"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/PO1004/S00205/new-inflation-figures-confirm-fee-gst-worries.htm
+title: New Inflation Figures Confirm Fee, GST Worries
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00205/new-inflation-figures-confirm-fee-gst-worries.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/04/20/new-inflation-figures-confirm-fee-gst-worries/index.html
+layout: layout.njk
 ---
 New Inflation Figures Confirm Fee, GST Worries
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-to-make-continuing-education-more-accessible
-title: "Labour to make continuing education more accessible"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PA1708/S00512/labour-to-make-continuing-education-more-accessible.htm
+title: Labour to make continuing education more accessible
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00512/labour-to-make-continuing-education-more-accessible.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/29/labour-to-make-continuing-education-more-accessible/index.html
+layout: layout.njk
 ---
 Labour to make continuing education more accessible
 ===================================================

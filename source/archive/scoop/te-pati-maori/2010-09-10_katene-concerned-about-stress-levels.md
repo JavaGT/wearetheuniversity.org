@@ -1,9 +1,12 @@
 ---
 slug: katene-concerned-about-stress-levels
-title: "Katene concerned about stress levels"
-date: 2010-09-10
-source-url: https://www.scoop.co.nz/stories/PA1009/S00175/katene-concerned-about-stress-levels.htm
+title: Katene concerned about stress levels
+date: 2010-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00175/katene-concerned-about-stress-levels.htm
 author: te-pati-maori
+permalink: /archive/2010/09/10/katene-concerned-about-stress-levels/index.html
+layout: layout.njk
 ---
 Katene concerned about stress levels
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: government-data-show-universities-performing-well
-title: "Government data show universities performing well"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/ED1009/S00036/government-data-show-universities-performing-well.htm
+title: Government data show universities performing well
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00036/government-data-show-universities-performing-well.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2010/09/08/government-data-show-universities-performing-well/index.html
+layout: layout.njk
 ---
 Government data show universities performing well
 =================================================

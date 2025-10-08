@@ -1,9 +1,12 @@
 ---
 slug: students-will-see-real-gains-with-labour-policy
-title: "Students will see real gains with Labour policy"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/ED0507/S00099/students-will-see-real-gains-with-labour-policy.htm
+title: Students will see real gains with Labour policy
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00099/students-will-see-real-gains-with-labour-policy.htm
 author: association-of-university-staff
+permalink: /archive/2005/07/26/students-will-see-real-gains-with-labour-policy/index.html
+layout: layout.njk
 ---
 Students will see real gains with Labour policy
 ===============================================

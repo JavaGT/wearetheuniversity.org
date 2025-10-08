@@ -1,9 +1,12 @@
 ---
 slug: resignation-another-blow-to-public-trust-in-eqc
-title: "Resignation another blow to public trust in EQC"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/PA1510/S00346/resignation-another-blow-to-public-trust-in-eqc.htm
+title: Resignation another blow to public trust in EQC
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00346/resignation-another-blow-to-public-trust-in-eqc.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/20/resignation-another-blow-to-public-trust-in-eqc/index.html
+layout: layout.njk
 ---
 Resignation another blow to public trust in EQC
 ===============================================

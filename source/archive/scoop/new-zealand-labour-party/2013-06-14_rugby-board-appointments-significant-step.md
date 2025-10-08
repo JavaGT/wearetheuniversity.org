@@ -1,9 +1,12 @@
 ---
 slug: rugby-board-appointments-significant-step
-title: "Rugby board appointments significant step"
-date: 2013-06-14
-source-url: https://www.scoop.co.nz/stories/PA1306/S00256/rugby-board-appointments-significant-step.htm
+title: Rugby board appointments significant step
+date: 2013-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00256/rugby-board-appointments-significant-step.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/14/rugby-board-appointments-significant-step/index.html
+layout: layout.njk
 ---
 Rugby board appointments significant step
 =========================================

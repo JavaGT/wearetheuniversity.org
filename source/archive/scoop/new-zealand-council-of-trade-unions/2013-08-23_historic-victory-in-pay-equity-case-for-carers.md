@@ -1,9 +1,12 @@
 ---
 slug: historic-victory-in-pay-equity-case-for-carers
-title: "Historic victory in pay equity case for carers"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/PO1308/S00312/historic-victory-in-pay-equity-case-for-carers.htm
+title: Historic victory in pay equity case for carers
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00312/historic-victory-in-pay-equity-case-for-carers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/08/23/historic-victory-in-pay-equity-case-for-carers/index.html
+layout: layout.njk
 ---
 Historic victory in pay equity case for carers
 ==============================================

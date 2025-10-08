@@ -1,9 +1,12 @@
 ---
 slug: participants-needed-for-crebral-palsy-study
-title: "Participants needed for crebral palsy study"
-date: 2005-12-14
-source-url: https://www.scoop.co.nz/stories/GE0512/S00051/participants-needed-for-crebral-palsy-study.htm
+title: Participants needed for crebral palsy study
+date: 2005-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0512/S00051/participants-needed-for-crebral-palsy-study.htm
 author: auckland-university
+permalink: /archive/2005/12/14/participants-needed-for-crebral-palsy-study/index.html
+layout: layout.njk
 ---
 Participants needed for crebral palsy study
 ===========================================

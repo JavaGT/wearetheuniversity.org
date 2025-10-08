@@ -1,9 +1,12 @@
 ---
 slug: lack-of-certainty-crippling-aucklands-economy
-title: "Lack of certainty crippling Auckland’s economy"
-date: 2009-11-14
-source-url: https://www.scoop.co.nz/stories/BU0911/S00434/lack-of-certainty-crippling-aucklands-economy.htm
+title: Lack of certainty crippling Auckland’s economy
+date: 2009-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0911/S00434/lack-of-certainty-crippling-aucklands-economy.htm
 author: aut-university
+permalink: /archive/2009/11/14/lack-of-certainty-crippling-aucklands-economy/index.html
+layout: layout.njk
 ---
 Lack of certainty crippling Auckland’s economy
 ==============================================

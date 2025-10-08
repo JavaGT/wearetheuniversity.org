@@ -1,9 +1,12 @@
 ---
 slug: prescription-prices-rise-as-govt-underfunds
-title: "Prescription prices rise as Govt underfunds"
-date: 2002-12-31
-source-url: https://www.scoop.co.nz/stories/PA0212/S00586/prescription-prices-rise-as-govt-underfunds.htm
+title: Prescription prices rise as Govt underfunds
+date: 2002-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00586/prescription-prices-rise-as-govt-underfunds.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/31/prescription-prices-rise-as-govt-underfunds/index.html
+layout: layout.njk
 ---
 Prescription prices rise as Govt underfunds
 ===========================================

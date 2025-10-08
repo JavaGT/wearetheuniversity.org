@@ -1,9 +1,12 @@
 ---
 slug: the-naked-science-of-antibiotic-resistance
-title: "The naked science of antibiotic resistance"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/SC1408/S00027/the-naked-science-of-antibiotic-resistance.htm
+title: The naked science of antibiotic resistance
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00027/the-naked-science-of-antibiotic-resistance.htm
 author: massey-university
+permalink: /archive/2014/08/08/the-naked-science-of-antibiotic-resistance/index.html
+layout: layout.njk
 ---
 The naked science of antibiotic resistance
 ==========================================

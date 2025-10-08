@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-christchurch-rapid-public-transport-project
-title: "Greens announce Christchurch rapid public transport project"
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/PA1709/S00177/greens-announce-christchurch-rapid-public-transport-project.htm
+title: Greens announce Christchurch rapid public transport project
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00177/greens-announce-christchurch-rapid-public-transport-project.htm
 author: green-party
+permalink: >-
+  /archive/2017/09/15/greens-announce-christchurch-rapid-public-transport-project/index.html
+layout: layout.njk
 ---
 Greens announce Christchurch rapid public transport project
 ===========================================================

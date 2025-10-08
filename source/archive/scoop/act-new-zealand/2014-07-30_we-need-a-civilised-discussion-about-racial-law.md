@@ -1,9 +1,12 @@
 ---
 slug: we-need-a-civilised-discussion-about-racial-law
-title: "We need a civilised discussion about racial law"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/PO1407/S00478/we-need-a-civilised-discussion-about-racial-law.htm
+title: We need a civilised discussion about racial law
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00478/we-need-a-civilised-discussion-about-racial-law.htm
 author: act-new-zealand
+permalink: /archive/2014/07/30/we-need-a-civilised-discussion-about-racial-law/index.html
+layout: layout.njk
 ---
 We need a civilised discussion about racial law
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-pursues-bewildering-foreign-policy
-title: "Govt pursues bewildering foreign policy"
-date: 2003-05-30
-source-url: https://www.scoop.co.nz/stories/PA0305/S00776/govt-pursues-bewildering-foreign-policy.htm
+title: Govt pursues bewildering foreign policy
+date: 2003-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00776/govt-pursues-bewildering-foreign-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/30/govt-pursues-bewildering-foreign-policy/index.html
+layout: layout.njk
 ---
 Govt pursues bewildering foreign policy
 =======================================

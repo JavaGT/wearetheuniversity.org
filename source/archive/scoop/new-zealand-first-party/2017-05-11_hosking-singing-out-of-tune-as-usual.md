@@ -1,9 +1,12 @@
 ---
 slug: hosking-singing-out-of-tune-as-usual
-title: "Hosking Singing Out of Tune – as Usual"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/PA1705/S00249/hosking-singing-out-of-tune-as-usual.htm
+title: Hosking Singing Out of Tune – as Usual
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00249/hosking-singing-out-of-tune-as-usual.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/11/hosking-singing-out-of-tune-as-usual/index.html
+layout: layout.njk
 ---
 Hosking Singing Out of Tune – as Usual
 ======================================

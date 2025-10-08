@@ -1,9 +1,12 @@
 ---
 slug: urban-housing-is-an-ecosocialist-issue
-title: "Urban Housing is an Ecosocialist Issue"
-date: 2015-02-16
-source-url: https://www.scoop.co.nz/stories/HL1502/S00095/urban-housing-is-an-ecosocialist-issue.htm
+title: Urban Housing is an Ecosocialist Issue
+date: 2015-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1502/S00095/urban-housing-is-an-ecosocialist-issue.htm
 author: fightback
+permalink: /archive/2015/02/16/urban-housing-is-an-ecosocialist-issue/index.html
+layout: layout.njk
 ---
 Urban Housing is an Ecosocialist Issue
 ======================================

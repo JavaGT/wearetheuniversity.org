@@ -1,9 +1,13 @@
 ---
 slug: uc-engineering-technology-helping-the-national-power-network
-title: "UC engineering technology helping the national power network"
-date: 2013-10-27
-source-url: https://www.scoop.co.nz/stories/ED1310/S00170/uc-engineering-technology-helping-the-national-power-network.htm
+title: UC engineering technology helping the national power network
+date: 2013-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00170/uc-engineering-technology-helping-the-national-power-network.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/27/uc-engineering-technology-helping-the-national-power-network/index.html
+layout: layout.njk
 ---
 UC engineering technology helping the national power network
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-brain-health-researchers-delve-into-dopamine
-title: "Otago brain health researchers delve into dopamine"
-date: 2017-08-25
-source-url: https://www.scoop.co.nz/stories/SC1708/S00046/otago-brain-health-researchers-delve-into-dopamine.htm
+title: Otago brain health researchers delve into dopamine
+date: 2017-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00046/otago-brain-health-researchers-delve-into-dopamine.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/25/otago-brain-health-researchers-delve-into-dopamine/index.html
+layout: layout.njk
 ---
 Otago brain health researchers delve into dopamine
 ==================================================

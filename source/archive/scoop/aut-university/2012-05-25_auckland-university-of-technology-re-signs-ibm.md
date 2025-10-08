@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-of-technology-re-signs-ibm
-title: "Auckland University of Technology Re-signs IBM"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/BU1205/S00906/auckland-university-of-technology-re-signs-ibm.htm
+title: Auckland University of Technology Re-signs IBM
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00906/auckland-university-of-technology-re-signs-ibm.htm
 author: aut-university
+permalink: /archive/2012/05/25/auckland-university-of-technology-re-signs-ibm/index.html
+layout: layout.njk
 ---
 Auckland University of Technology Re-signs IBM
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-te-reo-māori-in-all-schools-by-2030
-title: "Greens: te reo Māori in all schools by 2030"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/PA1709/S00162/greens-te-reo-maori-in-all-schools-by-2030.htm
+title: 'Greens: te reo Māori in all schools by 2030'
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00162/greens-te-reo-maori-in-all-schools-by-2030.htm
 author: green-party
+permalink: /archive/2017/09/14/greens-te-reo-m/index.html
+layout: layout.njk
 ---
 Greens: te reo Māori in all schools by 2030
 ===========================================

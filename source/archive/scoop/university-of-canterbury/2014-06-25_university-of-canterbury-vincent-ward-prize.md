@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-vincent-ward-prize
-title: "University of Canterbury Vincent Ward prize"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/CU1406/S00325/university-of-canterbury-vincent-ward-prize.htm
+title: University of Canterbury Vincent Ward prize
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00325/university-of-canterbury-vincent-ward-prize.htm
 author: university-of-canterbury
+permalink: /archive/2014/06/25/university-of-canterbury-vincent-ward-prize/index.html
+layout: layout.njk
 ---
 University of Canterbury Vincent Ward prize
 ===========================================

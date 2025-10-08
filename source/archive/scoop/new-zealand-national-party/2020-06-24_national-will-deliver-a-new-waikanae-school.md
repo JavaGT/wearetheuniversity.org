@@ -1,9 +1,12 @@
 ---
 slug: national-will-deliver-a-new-waikanae-school
-title: "National Will Deliver A New Waikanae School"
-date: 2020-06-24
-source-url: https://www.scoop.co.nz/stories/PA2006/S00228/national-will-deliver-a-new-waikanae-school.htm
+title: National Will Deliver A New Waikanae School
+date: 2020-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00228/national-will-deliver-a-new-waikanae-school.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/24/national-will-deliver-a-new-waikanae-school/index.html
+layout: layout.njk
 ---
 National Will Deliver A New Waikanae School
 ===========================================

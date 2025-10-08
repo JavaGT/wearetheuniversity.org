@@ -1,9 +1,12 @@
 ---
 slug: govt-strains-to-get-tea-break-law-through
-title: "Govt strains to get tea break law through"
-date: 2014-10-24
-source-url: https://www.scoop.co.nz/stories/PA1410/S00161/govt-strains-to-get-tea-break-law-through.htm
+title: Govt strains to get tea break law through
+date: 2014-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00161/govt-strains-to-get-tea-break-law-through.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/24/govt-strains-to-get-tea-break-law-through/index.html
+layout: layout.njk
 ---
 Govt strains to get tea break law through
 =========================================

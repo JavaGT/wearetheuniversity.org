@@ -1,9 +1,13 @@
 ---
 slug: funding-entrepreneurship-in-developing-countries-a-winner
-title: "Funding entrepreneurship in developing countries a winner"
-date: 2013-06-14
-source-url: https://www.scoop.co.nz/stories/BU1306/S00481/funding-entrepreneurship-in-developing-countries-a-winner.htm
+title: Funding entrepreneurship in developing countries a winner
+date: 2013-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S00481/funding-entrepreneurship-in-developing-countries-a-winner.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/06/14/funding-entrepreneurship-in-developing-countries-a-winner/index.html
+layout: layout.njk
 ---
 Funding entrepreneurship in developing countries a winner
 =========================================================

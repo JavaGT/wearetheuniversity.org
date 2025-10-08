@@ -1,9 +1,12 @@
 ---
 slug: new-survey-on-the-governments-performance
-title: "New survey on the Government’s performance"
-date: 2007-04-11
-source-url: https://www.scoop.co.nz/stories/PO0704/S00138/new-survey-on-the-governments-performance.htm
+title: New survey on the Government’s performance
+date: 2007-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00138/new-survey-on-the-governments-performance.htm
 author: massey-university
+permalink: /archive/2007/04/11/new-survey-on-the-governments-performance/index.html
+layout: layout.njk
 ---
 New survey on the Government’s performance
 ==========================================

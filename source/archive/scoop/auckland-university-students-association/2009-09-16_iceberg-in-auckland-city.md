@@ -1,9 +1,11 @@
 ---
 slug: iceberg-in-auckland-city
-title: "Iceberg in Auckland City"
-date: 2009-09-16
+title: Iceberg in Auckland City
+date: 2009-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0909/S00184/iceberg-in-auckland-city.htm
 author: auckland-university-students-association
+permalink: /archive/2009/09/16/iceberg-in-auckland-city/index.html
+layout: layout.njk
 ---
 Iceberg in Auckland City
 ========================

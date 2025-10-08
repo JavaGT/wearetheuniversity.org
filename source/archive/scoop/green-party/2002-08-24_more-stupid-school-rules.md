@@ -1,9 +1,11 @@
 ---
 slug: more-stupid-school-rules
-title: "More stupid school rules"
-date: 2002-08-24
+title: More stupid school rules
+date: 2002-08-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0208/S00209/more-stupid-school-rules.htm
 author: green-party
+permalink: /archive/2002/08/24/more-stupid-school-rules/index.html
+layout: layout.njk
 ---
 More stupid school rules
 ========================

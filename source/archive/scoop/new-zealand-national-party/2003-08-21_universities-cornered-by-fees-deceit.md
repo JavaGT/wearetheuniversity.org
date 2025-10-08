@@ -1,9 +1,12 @@
 ---
 slug: universities-cornered-by-fees-deceit
-title: "Universities cornered by fees deceit"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/PA0308/S00417/universities-cornered-by-fees-deceit.htm
+title: Universities cornered by fees deceit
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00417/universities-cornered-by-fees-deceit.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/21/universities-cornered-by-fees-deceit/index.html
+layout: layout.njk
 ---
 Universities cornered by fees deceit
 ====================================

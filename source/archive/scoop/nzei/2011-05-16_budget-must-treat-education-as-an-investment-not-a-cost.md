@@ -1,9 +1,13 @@
 ---
 slug: budget-must-treat-education-as-an-investment-not-a-cost
-title: "Budget must treat education as an investment not a cost"
-date: 2011-05-16
-source-url: https://www.scoop.co.nz/stories/PO1105/S00224/budget-must-treat-education-as-an-investment-not-a-cost.htm
+title: Budget must treat education as an investment not a cost
+date: 2011-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00224/budget-must-treat-education-as-an-investment-not-a-cost.htm
 author: nzei
+permalink: >-
+  /archive/2011/05/16/budget-must-treat-education-as-an-investment-not-a-cost/index.html
+layout: layout.njk
 ---
 Budget must treat education as an investment not a cost
 =======================================================

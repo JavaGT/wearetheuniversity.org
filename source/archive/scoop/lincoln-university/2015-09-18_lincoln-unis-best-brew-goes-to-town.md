@@ -1,9 +1,12 @@
 ---
 slug: lincoln-unis-best-brew-goes-to-town
-title: "Lincoln Uni’s best brew goes to town"
-date: 2015-09-18
-source-url: https://www.scoop.co.nz/stories/ED1509/S00109/lincoln-unis-best-brew-goes-to-town.htm
+title: Lincoln Uni’s best brew goes to town
+date: 2015-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00109/lincoln-unis-best-brew-goes-to-town.htm
 author: lincoln-university
+permalink: /archive/2015/09/18/lincoln-unis-best-brew-goes-to-town/index.html
+layout: layout.njk
 ---
 Lincoln Uni’s best brew goes to town
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: purple-pixie-dust-young-labour
-title: "'Purple Pixie Dust' - Young Labour"
-date: 2000-03-14
-source-url: https://www.scoop.co.nz/stories/PO0003/S00064/purple-pixie-dust-young-labour.htm
+title: '''Purple Pixie Dust'' - Young Labour'
+date: 2000-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00064/purple-pixie-dust-young-labour.htm
 author: young-labour
+permalink: /archive/2000/03/14/purple-pixie-dust-young-labour/index.html
+layout: layout.njk
 ---
 'Purple Pixie Dust' - Young Labour
 ==================================

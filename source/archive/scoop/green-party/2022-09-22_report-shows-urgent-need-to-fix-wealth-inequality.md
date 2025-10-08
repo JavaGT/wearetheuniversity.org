@@ -1,9 +1,13 @@
 ---
 slug: report-shows-urgent-need-to-fix-wealth-inequality
-title: "Report Shows Urgent Need To Fix Wealth Inequality"
-date: 2022-09-22
-source-url: https://www.scoop.co.nz/stories/PO2209/S00159/report-shows-urgent-need-to-fix-wealth-inequality.htm
+title: Report Shows Urgent Need To Fix Wealth Inequality
+date: 2022-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2209/S00159/report-shows-urgent-need-to-fix-wealth-inequality.htm
 author: green-party
+permalink: >-
+  /archive/2022/09/22/report-shows-urgent-need-to-fix-wealth-inequality/index.html
+layout: layout.njk
 ---
 Report Shows Urgent Need To Fix Wealth Inequality
 =================================================

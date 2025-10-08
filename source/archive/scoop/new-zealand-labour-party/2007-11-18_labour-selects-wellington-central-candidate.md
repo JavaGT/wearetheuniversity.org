@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-wellington-central-candidate
-title: "Labour Selects Wellington Central Candidate"
-date: 2007-11-18
-source-url: https://www.scoop.co.nz/stories/PO0711/S00298/labour-selects-wellington-central-candidate.htm
+title: Labour Selects Wellington Central Candidate
+date: 2007-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00298/labour-selects-wellington-central-candidate.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/11/18/labour-selects-wellington-central-candidate/index.html
+layout: layout.njk
 ---
 Labour Selects Wellington Central Candidate
 ===========================================

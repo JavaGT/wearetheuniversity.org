@@ -1,9 +1,13 @@
 ---
 slug: lack-of-tax-on-capital-gains-fuels-growing-inequality
-title: "Lack of tax on capital gains fuels growing inequality"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/PA1112/S00054/lack-of-tax-on-capital-gains-fuels-growing-inequality.htm
+title: Lack of tax on capital gains fuels growing inequality
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00054/lack-of-tax-on-capital-gains-fuels-growing-inequality.htm
 author: green-party
+permalink: >-
+  /archive/2011/12/07/lack-of-tax-on-capital-gains-fuels-growing-inequality/index.html
+layout: layout.njk
 ---
 Lack of tax on capital gains fuels growing inequality
 =====================================================

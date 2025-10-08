@@ -1,9 +1,13 @@
 ---
 slug: better-financial-support-for-students-is-good-all-round
-title: "Better financial support for students is good all round"
-date: 2017-08-15
-source-url: https://www.scoop.co.nz/stories/PO1708/S00288/better-financial-support-for-students-is-good-all-round.htm
+title: Better financial support for students is good all round
+date: 2017-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00288/better-financial-support-for-students-is-good-all-round.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/08/15/better-financial-support-for-students-is-good-all-round/index.html
+layout: layout.njk
 ---
 Better financial support for students is good all round
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: world-set-to-collapse-nz-cyber-security-challenge
-title: "World set to collapse: NZ Cyber Security Challenge"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/BU1605/S00553/world-set-to-collapse-nz-cyber-security-challenge.htm
+title: 'World set to collapse: NZ Cyber Security Challenge'
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1605/S00553/world-set-to-collapse-nz-cyber-security-challenge.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/05/18/world-set-to-collapse-nz-cyber-security-challenge/index.html
+layout: layout.njk
 ---
 World set to collapse: NZ Cyber Security Challenge
 ==================================================

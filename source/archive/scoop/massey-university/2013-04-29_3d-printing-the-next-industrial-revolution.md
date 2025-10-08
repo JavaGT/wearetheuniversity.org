@@ -1,9 +1,12 @@
 ---
 slug: 3d-printing-the-next-industrial-revolution
-title: "3D printing the next industrial revolution"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/ED1304/S00154/3d-printing-the-next-industrial-revolution.htm
+title: 3D printing the next industrial revolution
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00154/3d-printing-the-next-industrial-revolution.htm
 author: massey-university
+permalink: /archive/2013/04/29/3d-printing-the-next-industrial-revolution/index.html
+layout: layout.njk
 ---
 3D printing the next industrial revolution
 ==========================================

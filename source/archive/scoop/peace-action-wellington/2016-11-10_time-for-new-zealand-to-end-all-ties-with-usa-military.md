@@ -1,9 +1,13 @@
 ---
 slug: time-for-new-zealand-to-end-all-ties-with-usa-military
-title: "Time for New Zealand to end all ties with USA military"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/PO1611/S00132/time-for-new-zealand-to-end-all-ties-with-usa-military.htm
+title: Time for New Zealand to end all ties with USA military
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00132/time-for-new-zealand-to-end-all-ties-with-usa-military.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2016/11/10/time-for-new-zealand-to-end-all-ties-with-usa-military/index.html
+layout: layout.njk
 ---
 Time for New Zealand to end all ties with USA military
 ======================================================

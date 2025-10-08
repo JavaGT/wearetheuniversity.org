@@ -1,9 +1,13 @@
 ---
 slug: student-researcher-looks-at-refuelling-for-disabled-drivers
-title: "Student researcher looks at refuelling for disabled drivers"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/ED1411/S00139/student-researcher-looks-at-refuelling-for-disabled-drivers.htm
+title: Student researcher looks at refuelling for disabled drivers
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00139/student-researcher-looks-at-refuelling-for-disabled-drivers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/21/student-researcher-looks-at-refuelling-for-disabled-drivers/index.html
+layout: layout.njk
 ---
 Student researcher looks at refuelling for disabled drivers
 ===========================================================

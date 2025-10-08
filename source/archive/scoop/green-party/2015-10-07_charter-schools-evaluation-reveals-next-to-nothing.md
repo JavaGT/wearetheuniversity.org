@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-evaluation-reveals-next-to-nothing
-title: "Charter schools evaluation reveals next to nothing"
-date: 2015-10-07
-source-url: https://www.scoop.co.nz/stories/PA1510/S00094/charter-schools-evaluation-reveals-next-to-nothing.htm
+title: Charter schools evaluation reveals next to nothing
+date: 2015-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00094/charter-schools-evaluation-reveals-next-to-nothing.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/07/charter-schools-evaluation-reveals-next-to-nothing/index.html
+layout: layout.njk
 ---
 Charter schools evaluation reveals next to nothing
 ==================================================

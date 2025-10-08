@@ -1,9 +1,13 @@
 ---
 slug: new-director-appointed-to-centre-for-pacific-studi
-title: "New Director Appointed to Centre for Pacific Studi"
-date: 2002-03-15
-source-url: https://www.scoop.co.nz/stories/ED0203/S00034/new-director-appointed-to-centre-for-pacific-studi.htm
+title: New Director Appointed to Centre for Pacific Studi
+date: 2002-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00034/new-director-appointed-to-centre-for-pacific-studi.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/03/15/new-director-appointed-to-centre-for-pacific-studi/index.html
+layout: layout.njk
 ---
 New Director Appointed to Centre for Pacific Studi
 ==================================================

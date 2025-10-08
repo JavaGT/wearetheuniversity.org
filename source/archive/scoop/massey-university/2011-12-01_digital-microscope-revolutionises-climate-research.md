@@ -1,9 +1,13 @@
 ---
 slug: digital-microscope-revolutionises-climate-research
-title: "Digital microscope revolutionises climate research"
-date: 2011-12-01
-source-url: https://www.scoop.co.nz/stories/SC1112/S00005/digital-microscope-revolutionises-climate-research.htm
+title: Digital microscope revolutionises climate research
+date: 2011-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00005/digital-microscope-revolutionises-climate-research.htm
 author: massey-university
+permalink: >-
+  /archive/2011/12/01/digital-microscope-revolutionises-climate-research/index.html
+layout: layout.njk
 ---
 Digital microscope revolutionises climate research
 ==================================================

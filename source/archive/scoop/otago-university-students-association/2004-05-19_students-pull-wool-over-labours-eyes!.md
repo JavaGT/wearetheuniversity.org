@@ -1,9 +1,12 @@
 ---
 slug: students-pull-wool-over-labours-eyes!
-title: "Students Pull Wool over Labour’s Eyes!"
-date: 2004-05-19
-source-url: https://www.scoop.co.nz/stories/PO0405/S00194/students-pull-wool-over-labours-eyes.htm
+title: Students Pull Wool over Labour’s Eyes!
+date: 2004-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00194/students-pull-wool-over-labours-eyes.htm
 author: otago-university-students-association
+permalink: /archive/2004/05/19/students-pull-wool-over-labours-eyes/index.html
+layout: layout.njk
 ---
 Students Pull Wool over Labour’s Eyes!
 ======================================

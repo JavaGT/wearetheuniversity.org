@@ -1,9 +1,11 @@
 ---
 slug: act-misleads-employers
-title: "ACT misleads employers"
-date: 2000-05-17
+title: ACT misleads employers
+date: 2000-05-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0005/S00028/act-misleads-employers.htm
 author: association-of-university-staff
+permalink: /archive/2000/05/17/act-misleads-employers/index.html
+layout: layout.njk
 ---
 ACT misleads employers
 ======================

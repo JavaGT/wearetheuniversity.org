@@ -1,9 +1,13 @@
 ---
 slug: american-astronaut-describes-her-feelings-in-space
-title: "American astronaut describes her feelings in space"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/ED1307/S00100/american-astronaut-describes-her-feelings-in-space.htm
+title: American astronaut describes her feelings in space
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00100/american-astronaut-describes-her-feelings-in-space.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/17/american-astronaut-describes-her-feelings-in-space/index.html
+layout: layout.njk
 ---
 American astronaut describes her feelings in space
 ==================================================

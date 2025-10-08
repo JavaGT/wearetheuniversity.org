@@ -1,9 +1,13 @@
 ---
 slug: national-standards-release-another-blow-for-schools
-title: "National standards release another blow for schools"
-date: 2012-09-21
-source-url: https://www.scoop.co.nz/stories/PA1209/S00346/national-standards-release-another-blow-for-schools.htm
+title: National standards release another blow for schools
+date: 2012-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00346/national-standards-release-another-blow-for-schools.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/21/national-standards-release-another-blow-for-schools/index.html
+layout: layout.njk
 ---
 National standards release another blow for schools
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: seven-key-reflections-for-business
-title: "Seven key reflections for business"
-date: 2007-09-14
-source-url: https://www.scoop.co.nz/stories/ED0709/S00049/seven-key-reflections-for-business.htm
+title: Seven key reflections for business
+date: 2007-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00049/seven-key-reflections-for-business.htm
 author: university-of-auckland-business-school
+permalink: /archive/2007/09/14/seven-key-reflections-for-business/index.html
+layout: layout.njk
 ---
 Seven key reflections for business
 ==================================

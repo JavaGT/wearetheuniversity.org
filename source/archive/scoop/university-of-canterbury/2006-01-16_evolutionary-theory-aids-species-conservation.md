@@ -1,9 +1,12 @@
 ---
 slug: evolutionary-theory-aids-species-conservation
-title: "Evolutionary theory aids species conservation"
-date: 2006-01-16
-source-url: https://www.scoop.co.nz/stories/SC0601/S00017/evolutionary-theory-aids-species-conservation.htm
+title: Evolutionary theory aids species conservation
+date: 2006-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0601/S00017/evolutionary-theory-aids-species-conservation.htm
 author: university-of-canterbury
+permalink: /archive/2006/01/16/evolutionary-theory-aids-species-conservation/index.html
+layout: layout.njk
 ---
 Evolutionary theory aids species conservation
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: student-loan-changes-will-add-to-mass-aussie-exodus
-title: "Student Loan Changes Will Add To Mass Aussie Exodus"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/PA1205/S00459/student-loan-changes-will-add-to-mass-aussie-exodus.htm
+title: Student Loan Changes Will Add To Mass Aussie Exodus
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00459/student-loan-changes-will-add-to-mass-aussie-exodus.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/05/25/student-loan-changes-will-add-to-mass-aussie-exodus/index.html
+layout: layout.njk
 ---
 Student Loan Changes Will Add To Mass Aussie Exodus
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-admits-defeat-on-charter-schools
-title: "Govt admits defeat on charter schools"
-date: 2018-07-24
-source-url: https://www.scoop.co.nz/stories/PA1807/S00198/govt-admits-defeat-on-charter-schools.htm
+title: Govt admits defeat on charter schools
+date: 2018-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00198/govt-admits-defeat-on-charter-schools.htm
 author: act-new-zealand
+permalink: /archive/2018/07/24/govt-admits-defeat-on-charter-schools/index.html
+layout: layout.njk
 ---
 Govt admits defeat on charter schools
 =====================================

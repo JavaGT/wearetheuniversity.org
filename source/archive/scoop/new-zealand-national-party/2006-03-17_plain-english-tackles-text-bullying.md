@@ -1,9 +1,12 @@
 ---
 slug: plain-english-tackles-text-bullying
-title: "Plain English Tackles Text Bullying"
-date: 2006-03-17
-source-url: https://www.scoop.co.nz/stories/PA0603/S00295/plain-english-tackles-text-bullying.htm
+title: Plain English Tackles Text Bullying
+date: 2006-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00295/plain-english-tackles-text-bullying.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/17/plain-english-tackles-text-bullying/index.html
+layout: layout.njk
 ---
 Plain English Tackles Text Bullying
 ===================================

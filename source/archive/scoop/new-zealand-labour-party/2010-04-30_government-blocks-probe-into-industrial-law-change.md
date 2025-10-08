@@ -1,9 +1,13 @@
 ---
 slug: government-blocks-probe-into-industrial-law-change
-title: "Government blocks probe into industrial law change"
-date: 2010-04-30
-source-url: https://www.scoop.co.nz/stories/PA1004/S00438/government-blocks-probe-into-industrial-law-change.htm
+title: Government blocks probe into industrial law change
+date: 2010-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00438/government-blocks-probe-into-industrial-law-change.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/30/government-blocks-probe-into-industrial-law-change/index.html
+layout: layout.njk
 ---
 Government blocks probe into industrial law change
 ==================================================

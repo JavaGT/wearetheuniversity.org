@@ -1,9 +1,12 @@
 ---
 slug: end-of-meca-for-rural-education-programmes
-title: "End of MECA for Rural Education Programmes"
-date: 2007-07-23
-source-url: https://www.scoop.co.nz/stories/ED0707/S00071/end-of-meca-for-rural-education-programmes.htm
+title: End of MECA for Rural Education Programmes
+date: 2007-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00071/end-of-meca-for-rural-education-programmes.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2007/07/23/end-of-meca-for-rural-education-programmes/index.html
+layout: layout.njk
 ---
 End of MECA for Rural Education Programmes
 ==========================================

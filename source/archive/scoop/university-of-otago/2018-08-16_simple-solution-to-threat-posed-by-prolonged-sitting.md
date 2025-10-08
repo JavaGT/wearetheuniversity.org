@@ -1,9 +1,13 @@
 ---
 slug: simple-solution-to-threat-posed-by-prolonged-sitting
-title: "Simple solution to threat posed by prolonged sitting"
-date: 2018-08-16
-source-url: https://www.scoop.co.nz/stories/SC1808/S00027/simple-solution-to-threat-posed-by-prolonged-sitting.htm
+title: Simple solution to threat posed by prolonged sitting
+date: 2018-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00027/simple-solution-to-threat-posed-by-prolonged-sitting.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/16/simple-solution-to-threat-posed-by-prolonged-sitting/index.html
+layout: layout.njk
 ---
 Simple solution to threat posed by prolonged sitting
 ====================================================

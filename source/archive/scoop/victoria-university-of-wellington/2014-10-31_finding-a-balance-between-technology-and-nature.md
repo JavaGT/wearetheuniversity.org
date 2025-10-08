@@ -1,9 +1,12 @@
 ---
 slug: finding-a-balance-between-technology-and-nature
-title: "Finding a balance between technology and nature"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/ED1410/S00172/finding-a-balance-between-technology-and-nature.htm
+title: Finding a balance between technology and nature
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00172/finding-a-balance-between-technology-and-nature.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/31/finding-a-balance-between-technology-and-nature/index.html
+layout: layout.njk
 ---
 Finding a balance between technology and nature
 ===============================================

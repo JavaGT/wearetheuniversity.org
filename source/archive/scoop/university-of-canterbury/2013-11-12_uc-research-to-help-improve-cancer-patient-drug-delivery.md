@@ -1,9 +1,13 @@
 ---
 slug: uc-research-to-help-improve-cancer-patient-drug-delivery
-title: "UC research to help improve cancer patient drug delivery"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/SC1311/S00036/uc-research-to-help-improve-cancer-patient-drug-delivery.htm
+title: UC research to help improve cancer patient drug delivery
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00036/uc-research-to-help-improve-cancer-patient-drug-delivery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/12/uc-research-to-help-improve-cancer-patient-drug-delivery/index.html
+layout: layout.njk
 ---
 UC research to help improve cancer patient drug delivery
 ========================================================

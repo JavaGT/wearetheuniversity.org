@@ -1,9 +1,12 @@
 ---
 slug: pressure-forces-governments-hand-on-cyf-care
-title: "Pressure forces Government’s hand on CYF care"
-date: 2015-06-10
-source-url: https://www.scoop.co.nz/stories/PA1506/S00170/pressure-forces-governments-hand-on-cyf-care.htm
+title: Pressure forces Government’s hand on CYF care
+date: 2015-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00170/pressure-forces-governments-hand-on-cyf-care.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/10/pressure-forces-governments-hand-on-cyf-care/index.html
+layout: layout.njk
 ---
 Pressure forces Government’s hand on CYF care
 =============================================

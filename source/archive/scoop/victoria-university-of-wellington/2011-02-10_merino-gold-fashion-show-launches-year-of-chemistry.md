@@ -1,9 +1,13 @@
 ---
 slug: merino-gold-fashion-show-launches-year-of-chemistry
-title: "Merino gold fashion show launches year of chemistry"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/SC1102/S00030/merino-gold-fashion-show-launches-year-of-chemistry.htm
+title: Merino gold fashion show launches year of chemistry
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00030/merino-gold-fashion-show-launches-year-of-chemistry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/02/10/merino-gold-fashion-show-launches-year-of-chemistry/index.html
+layout: layout.njk
 ---
 Merino gold fashion show launches year of chemistry
 ===================================================

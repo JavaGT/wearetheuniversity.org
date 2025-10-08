@@ -1,9 +1,13 @@
 ---
 slug: uc-accommodation-wins-student-experience-excellence-award
-title: "UC Accommodation wins student experience excellence award"
-date: 2017-05-12
-source-url: https://www.scoop.co.nz/stories/AK1705/S00303/uc-accommodation-wins-student-experience-excellence-award.htm
+title: UC Accommodation wins student experience excellence award
+date: 2017-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1705/S00303/uc-accommodation-wins-student-experience-excellence-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/05/12/uc-accommodation-wins-student-experience-excellence-award/index.html
+layout: layout.njk
 ---
 UC Accommodation wins student experience excellence award
 =========================================================

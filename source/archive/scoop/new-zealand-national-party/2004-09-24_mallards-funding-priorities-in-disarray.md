@@ -1,9 +1,12 @@
 ---
 slug: mallards-funding-priorities-in-disarray
-title: "Mallard's funding priorities in disarray"
-date: 2004-09-24
-source-url: https://www.scoop.co.nz/stories/PA0409/S00508/mallards-funding-priorities-in-disarray.htm
+title: Mallard's funding priorities in disarray
+date: 2004-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00508/mallards-funding-priorities-in-disarray.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/24/mallards-funding-priorities-in-disarray/index.html
+layout: layout.njk
 ---
 Mallard's funding priorities in disarray
 ========================================

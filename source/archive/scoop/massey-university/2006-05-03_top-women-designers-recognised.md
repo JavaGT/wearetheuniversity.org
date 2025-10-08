@@ -1,9 +1,12 @@
 ---
 slug: top-women-designers-recognised
-title: "Top women designers recognised"
-date: 2006-05-03
-source-url: https://www.scoop.co.nz/stories/ED0605/S00014/top-women-designers-recognised.htm
+title: Top women designers recognised
+date: 2006-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00014/top-women-designers-recognised.htm
 author: massey-university
+permalink: /archive/2006/05/03/top-women-designers-recognised/index.html
+layout: layout.njk
 ---
 Top women designers recognised
 ==============================

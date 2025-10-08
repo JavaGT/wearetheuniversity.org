@@ -1,9 +1,12 @@
 ---
 slug: using-bacterial-enzymes-to-boost-chemotherapy
-title: "Using bacterial enzymes to boost chemotherapy"
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/SC0705/S00046/using-bacterial-enzymes-to-boost-chemotherapy.htm
+title: Using bacterial enzymes to boost chemotherapy
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0705/S00046/using-bacterial-enzymes-to-boost-chemotherapy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/21/using-bacterial-enzymes-to-boost-chemotherapy/index.html
+layout: layout.njk
 ---
 Using bacterial enzymes to boost chemotherapy
 =============================================

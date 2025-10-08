@@ -1,9 +1,12 @@
 ---
 slug: govt-must-act-before-longfin-eels-disappear
-title: "Govt must act before longfin eels disappear"
-date: 2016-07-13
-source-url: https://www.scoop.co.nz/stories/PA1607/S00205/govt-must-act-before-longfin-eels-disappear.htm
+title: Govt must act before longfin eels disappear
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00205/govt-must-act-before-longfin-eels-disappear.htm
 author: green-party
+permalink: /archive/2016/07/13/govt-must-act-before-longfin-eels-disappear/index.html
+layout: layout.njk
 ---
 Govt must act before longfin eels disappear
 ===========================================

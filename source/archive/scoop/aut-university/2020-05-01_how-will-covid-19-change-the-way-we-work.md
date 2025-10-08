@@ -1,9 +1,12 @@
 ---
 slug: how-will-covid-19-change-the-way-we-work
-title: "How Will Covid-19 Change The Way We Work?"
-date: 2020-05-01
-source-url: https://www.scoop.co.nz/stories/BU2005/S00012/how-will-covid-19-change-the-way-we-work.htm
+title: How Will Covid-19 Change The Way We Work?
+date: 2020-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2005/S00012/how-will-covid-19-change-the-way-we-work.htm
 author: aut-university
+permalink: /archive/2020/05/01/how-will-covid-19-change-the-way-we-work/index.html
+layout: layout.njk
 ---
 How Will Covid-19 Change The Way We Work?
 =========================================

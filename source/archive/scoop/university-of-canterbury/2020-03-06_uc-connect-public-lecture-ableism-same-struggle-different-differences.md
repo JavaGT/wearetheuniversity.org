@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-public-lecture-ableism-same-struggle-different-differences
-title: "UC Connect Public Lecture: Ableism – Same Struggle, Different Differences"
-date: 2020-03-06
-source-url: https://www.scoop.co.nz/stories/ED2003/S00010/uc-connect-public-lecture-ableism-same-struggle-different-differences.htm
+title: 'UC Connect Public Lecture: Ableism – Same Struggle, Different Differences'
+date: 2020-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2003/S00010/uc-connect-public-lecture-ableism-same-struggle-different-differences.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/03/06/uc-connect-public-lecture-ableism-same-struggle-different-differences/index.html
+layout: layout.njk
 ---
 UC Connect Public Lecture: Ableism – Same Struggle, Different Differences
 =========================================================================

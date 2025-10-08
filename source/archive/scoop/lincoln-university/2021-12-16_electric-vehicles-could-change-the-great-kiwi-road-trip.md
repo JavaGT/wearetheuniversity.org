@@ -1,9 +1,13 @@
 ---
 slug: electric-vehicles-could-change-the-great-kiwi-road-trip
-title: "Electric Vehicles Could Change The Great Kiwi Road-trip"
-date: 2021-12-16
-source-url: https://www.scoop.co.nz/stories/ED2112/S00031/electric-vehicles-could-change-the-great-kiwi-road-trip.htm
+title: Electric Vehicles Could Change The Great Kiwi Road-trip
+date: 2021-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00031/electric-vehicles-could-change-the-great-kiwi-road-trip.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/12/16/electric-vehicles-could-change-the-great-kiwi-road-trip/index.html
+layout: layout.njk
 ---
 Electric Vehicles Could Change The Great Kiwi Road-trip
 =======================================================

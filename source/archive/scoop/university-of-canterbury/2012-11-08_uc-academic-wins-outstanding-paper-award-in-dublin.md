@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-wins-outstanding-paper-award-in-dublin
-title: "UC academic wins outstanding paper award in Dublin"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/ED1211/S00058/uc-academic-wins-outstanding-paper-award-in-dublin.htm
+title: UC academic wins outstanding paper award in Dublin
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00058/uc-academic-wins-outstanding-paper-award-in-dublin.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/08/uc-academic-wins-outstanding-paper-award-in-dublin/index.html
+layout: layout.njk
 ---
 UC academic wins outstanding paper award in Dublin
 ==================================================

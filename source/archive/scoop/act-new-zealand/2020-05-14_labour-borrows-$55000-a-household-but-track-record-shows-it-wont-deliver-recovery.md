@@ -1,9 +1,15 @@
 ---
-slug: labour-borrows-$55000-a-household-but-track-record-shows-it-wont-deliver-recovery
-title: "Labour Borrows $55,000 A Household, But Track Record Shows It Won’t Deliver Recovery"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00134/labour-borrows-55000-a-household-but-track-record-shows-it-wont-deliver-recovery.htm
+slug: >-
+  labour-borrows-$55000-a-household-but-track-record-shows-it-wont-deliver-recovery
+title: >-
+  Labour Borrows $55,000 A Household, But Track Record Shows It Won’t Deliver
+  Recovery
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00134/labour-borrows-55000-a-household-but-track-record-shows-it-wont-deliver-recovery.htm
 author: act-new-zealand
+permalink: /archive/2020/05/14/labour-borrows-/index.html
+layout: layout.njk
 ---
 Labour Borrows $55,000 A Household, But Track Record Shows It Won’t Deliver Recovery
 ====================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-on-aspartame-greens-say
-title: "Urgent action needed on aspartame, Greens say"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/PA0706/S00600/urgent-action-needed-on-aspartame-greens-say.htm
+title: Urgent action needed on aspartame, Greens say
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00600/urgent-action-needed-on-aspartame-greens-say.htm
 author: green-party
+permalink: /archive/2007/06/29/urgent-action-needed-on-aspartame-greens-say/index.html
+layout: layout.njk
 ---
 Urgent action needed on aspartame, Greens say
 =============================================

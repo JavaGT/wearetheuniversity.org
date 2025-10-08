@@ -1,9 +1,12 @@
 ---
 slug: māori-party-congratulates-dr-farah-palmer-and-nz-rugby-board
-title: "Māori Party congratulates Dr Farah Palmer and NZ Rugby Board"
-date: 2016-12-15
-source-url: https://www.scoop.co.nz/stories/PA1612/S00278/maori-party-congratulates-dr-farah-palmer-and-nz-rugby-board.htm
+title: Māori Party congratulates Dr Farah Palmer and NZ Rugby Board
+date: 2016-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00278/maori-party-congratulates-dr-farah-palmer-and-nz-rugby-board.htm
 author: te-pati-maori
+permalink: /archive/2016/12/15/m/index.html
+layout: layout.njk
 ---
 Māori Party congratulates Dr Farah Palmer and NZ Rugby Board
 ============================================================

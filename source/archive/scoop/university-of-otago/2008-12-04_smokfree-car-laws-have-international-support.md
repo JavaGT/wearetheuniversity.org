@@ -1,9 +1,12 @@
 ---
 slug: smokfree-car-laws-have-international-support
-title: "Smokfree car laws have international support"
-date: 2008-12-04
-source-url: https://www.scoop.co.nz/stories/GE0812/S00026/smokfree-car-laws-have-international-support.htm
+title: Smokfree car laws have international support
+date: 2008-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0812/S00026/smokfree-car-laws-have-international-support.htm
 author: university-of-otago
+permalink: /archive/2008/12/04/smokfree-car-laws-have-international-support/index.html
+layout: layout.njk
 ---
 Smokfree car laws have international support
 ============================================

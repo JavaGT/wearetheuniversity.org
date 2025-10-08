@@ -1,9 +1,13 @@
 ---
 slug: dr-oliver-hartwichs-speech-to-the-epidemic-response-committee
-title: "Dr Oliver Hartwich's Speech To The Epidemic Response Committee"
-date: 2020-04-23
-source-url: https://www.scoop.co.nz/stories/PO2004/S00220/dr-oliver-hartwichs-speech-to-the-epidemic-response-committee.htm
+title: Dr Oliver Hartwich's Speech To The Epidemic Response Committee
+date: 2020-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00220/dr-oliver-hartwichs-speech-to-the-epidemic-response-committee.htm
 author: new-zealand-initiative
+permalink: >-
+  /archive/2020/04/23/dr-oliver-hartwichs-speech-to-the-epidemic-response-committee/index.html
+layout: layout.njk
 ---
 Dr Oliver Hartwich's Speech To The Epidemic Response Committee
 ==============================================================

@@ -1,9 +1,11 @@
 ---
 slug: what-is-adventure
-title: "What is Adventure?"
-date: 2016-03-22
+title: What is Adventure?
+date: 2016-03-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1603/S00421/what-is-adventure.htm
 author: university-of-waikato
+permalink: /archive/2016/03/22/what-is-adventure/index.html
+layout: layout.njk
 ---
 What is Adventure?
 ==================

@@ -1,9 +1,12 @@
 ---
 slug: flipping-the-fertility-master-switch
-title: "Flipping the fertility master switch"
-date: 2015-10-06
-source-url: https://www.scoop.co.nz/stories/SC1510/S00018/flipping-the-fertility-master-switch.htm
+title: Flipping the fertility master switch
+date: 2015-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00018/flipping-the-fertility-master-switch.htm
 author: university-of-otago
+permalink: /archive/2015/10/06/flipping-the-fertility-master-switch/index.html
+layout: layout.njk
 ---
 Flipping the fertility master switch
 ====================================

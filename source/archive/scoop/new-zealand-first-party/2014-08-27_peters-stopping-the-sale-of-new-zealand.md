@@ -1,9 +1,12 @@
 ---
 slug: peters-stopping-the-sale-of-new-zealand
-title: "Peters: Stopping the Sale of New Zealand"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/PA1408/S00425/peters-stopping-the-sale-of-new-zealand.htm
+title: 'Peters: Stopping the Sale of New Zealand'
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00425/peters-stopping-the-sale-of-new-zealand.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/27/peters-stopping-the-sale-of-new-zealand/index.html
+layout: layout.njk
 ---
 Peters: Stopping the Sale of New Zealand
 ========================================

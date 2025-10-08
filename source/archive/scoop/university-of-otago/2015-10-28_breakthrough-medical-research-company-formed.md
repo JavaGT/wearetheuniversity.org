@@ -1,9 +1,12 @@
 ---
 slug: breakthrough-medical-research-company-formed
-title: "Breakthrough Medical Research Company Formed"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/SC1510/S00079/breakthrough-medical-research-company-formed.htm
+title: Breakthrough Medical Research Company Formed
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00079/breakthrough-medical-research-company-formed.htm
 author: university-of-otago
+permalink: /archive/2015/10/28/breakthrough-medical-research-company-formed/index.html
+layout: layout.njk
 ---
 Breakthrough Medical Research Company Formed
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: the-winebox-whos-responsible-peters
-title: "The Winebox - Who's Responsible? - Peters"
-date: 1999-08-20
-source-url: https://www.scoop.co.nz/stories/PA9908/S00353/the-winebox-whos-responsible-peters.htm
+title: The Winebox - Who's Responsible? - Peters
+date: 1999-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00353/the-winebox-whos-responsible-peters.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/20/the-winebox-whos-responsible-peters/index.html
+layout: layout.njk
 ---
 The Winebox - Who's Responsible? - Peters
 =========================================

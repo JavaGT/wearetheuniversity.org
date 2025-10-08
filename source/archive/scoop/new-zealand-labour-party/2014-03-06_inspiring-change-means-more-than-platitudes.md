@@ -1,9 +1,12 @@
 ---
 slug: inspiring-change-means-more-than-platitudes
-title: "Inspiring change means more than platitudes"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/PA1403/S00106/inspiring-change-means-more-than-platitudes.htm
+title: Inspiring change means more than platitudes
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00106/inspiring-change-means-more-than-platitudes.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/06/inspiring-change-means-more-than-platitudes/index.html
+layout: layout.njk
 ---
 Inspiring change means more than platitudes
 ===========================================

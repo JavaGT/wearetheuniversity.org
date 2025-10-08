@@ -1,9 +1,12 @@
 ---
 slug: independent-expert-was-ncea-architect
-title: "'Independent expert' was NCEA architect"
-date: 2005-03-03
-source-url: https://www.scoop.co.nz/stories/PA0503/S00088/independent-expert-was-ncea-architect.htm
+title: '''Independent expert'' was NCEA architect'
+date: 2005-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00088/independent-expert-was-ncea-architect.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/03/independent-expert-was-ncea-architect/index.html
+layout: layout.njk
 ---
 'Independent expert' was NCEA architect
 =======================================

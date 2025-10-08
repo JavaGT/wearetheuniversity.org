@@ -1,9 +1,12 @@
 ---
 slug: childs-play-helps-combats-obesity
-title: "Childs play helps combats obesity"
-date: 2012-11-09
-source-url: https://www.scoop.co.nz/stories/GE1211/S00034/childs-play-helps-combats-obesity.htm
+title: Childs play helps combats obesity
+date: 2012-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1211/S00034/childs-play-helps-combats-obesity.htm
 author: aut-university
+permalink: /archive/2012/11/09/childs-play-helps-combats-obesity/index.html
+layout: layout.njk
 ---
 Childs play helps combats obesity
 =================================

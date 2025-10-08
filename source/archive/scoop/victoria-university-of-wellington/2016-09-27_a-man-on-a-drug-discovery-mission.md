@@ -1,9 +1,12 @@
 ---
 slug: a-man-on-a-drug-discovery-mission
-title: "A man on a drug discovery mission"
-date: 2016-09-27
-source-url: https://www.scoop.co.nz/stories/SC1609/S00073/a-man-on-a-drug-discovery-mission.htm
+title: A man on a drug discovery mission
+date: 2016-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00073/a-man-on-a-drug-discovery-mission.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/09/27/a-man-on-a-drug-discovery-mission/index.html
+layout: layout.njk
 ---
 A man on a drug discovery mission
 =================================

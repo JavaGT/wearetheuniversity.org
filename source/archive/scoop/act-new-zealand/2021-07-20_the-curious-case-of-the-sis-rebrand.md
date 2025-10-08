@@ -1,9 +1,12 @@
 ---
 slug: the-curious-case-of-the-sis-rebrand
-title: "The Curious Case Of The SIS Rebrand"
-date: 2021-07-20
-source-url: https://www.scoop.co.nz/stories/PA2107/S00154/the-curious-case-of-the-sis-rebrand.htm
+title: The Curious Case Of The SIS Rebrand
+date: 2021-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00154/the-curious-case-of-the-sis-rebrand.htm
 author: act-new-zealand
+permalink: /archive/2021/07/20/the-curious-case-of-the-sis-rebrand/index.html
+layout: layout.njk
 ---
 The Curious Case Of The SIS Rebrand
 ===================================

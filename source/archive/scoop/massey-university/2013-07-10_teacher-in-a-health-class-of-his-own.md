@@ -1,9 +1,12 @@
 ---
 slug: teacher-in-a-health-class-of-his-own
-title: "Teacher in a health class of his own"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/GE1307/S00051/teacher-in-a-health-class-of-his-own.htm
+title: Teacher in a health class of his own
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00051/teacher-in-a-health-class-of-his-own.htm
 author: massey-university
+permalink: /archive/2013/07/10/teacher-in-a-health-class-of-his-own/index.html
+layout: layout.njk
 ---
 Teacher in a health class of his own
 ====================================

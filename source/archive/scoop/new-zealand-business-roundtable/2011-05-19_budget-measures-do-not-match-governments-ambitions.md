@@ -1,9 +1,13 @@
 ---
 slug: budget-measures-do-not-match-governments-ambitions
-title: "Budget Measures Do Not Match Government’s Ambitions"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/BU1105/S00694/budget-measures-do-not-match-governments-ambitions.htm
+title: Budget Measures Do Not Match Government’s Ambitions
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1105/S00694/budget-measures-do-not-match-governments-ambitions.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/05/19/budget-measures-do-not-match-governments-ambitions/index.html
+layout: layout.njk
 ---
 Budget Measures Do Not Match Government’s Ambitions
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: buoy-racers-splash-out
-title: "Buoy racers splash out"
-date: 2007-10-23
+title: Buoy racers splash out
+date: 2007-10-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0710/S00069/buoy-racers-splash-out.htm
 author: massey-university
+permalink: /archive/2007/10/23/buoy-racers-splash-out/index.html
+layout: layout.njk
 ---
 Buoy racers splash out
 ======================

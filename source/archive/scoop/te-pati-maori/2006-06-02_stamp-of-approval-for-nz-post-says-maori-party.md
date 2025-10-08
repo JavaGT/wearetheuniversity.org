@@ -1,9 +1,12 @@
 ---
 slug: stamp-of-approval-for-nz-post-says-maori-party
-title: "\"Stamp of Approval for NZ Post\" says Maori Party"
-date: 2006-06-02
-source-url: https://www.scoop.co.nz/stories/BU0606/S00039/stamp-of-approval-for-nz-post-says-maori-party.htm
+title: '"Stamp of Approval for NZ Post" says Maori Party'
+date: 2006-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0606/S00039/stamp-of-approval-for-nz-post-says-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2006/06/02/stamp-of-approval-for-nz-post-says-maori-party/index.html
+layout: layout.njk
 ---
 "Stamp of Approval for NZ Post" says Maori Party
 ================================================

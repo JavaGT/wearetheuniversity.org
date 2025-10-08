@@ -1,9 +1,12 @@
 ---
 slug: depleted-uranium-hiroshimas-horror-today
-title: "Depleted Uranium - Hiroshima's horror today"
-date: 2003-08-05
-source-url: https://www.scoop.co.nz/stories/PO0308/S00022/depleted-uranium-hiroshimas-horror-today.htm
+title: Depleted Uranium - Hiroshima's horror today
+date: 2003-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0308/S00022/depleted-uranium-hiroshimas-horror-today.htm
 author: peace-action-wellington
+permalink: /archive/2003/08/05/depleted-uranium-hiroshimas-horror-today/index.html
+layout: layout.njk
 ---
 Depleted Uranium - Hiroshima's horror today
 ===========================================

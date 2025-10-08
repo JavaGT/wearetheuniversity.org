@@ -1,9 +1,13 @@
 ---
 slug: tobacco-industry-stalled-new-zealand-plain-packs-legislation
-title: "Tobacco industry stalled New Zealand plain packs legislation"
-date: 2018-04-13
-source-url: https://www.scoop.co.nz/stories/PO1804/S00150/tobacco-industry-stalled-new-zealand-plain-packs-legislation.htm
+title: Tobacco industry stalled New Zealand plain packs legislation
+date: 2018-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00150/tobacco-industry-stalled-new-zealand-plain-packs-legislation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/13/tobacco-industry-stalled-new-zealand-plain-packs-legislation/index.html
+layout: layout.njk
 ---
 Tobacco industry stalled New Zealand plain packs legislation
 ============================================================

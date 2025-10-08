@@ -1,9 +1,13 @@
 ---
 slug: tables-historic-early-childhoood-pay-parity-claim
-title: "Tables Historic Early Childhoood Pay Parity Claim"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/ED0410/S00055/tables-historic-early-childhoood-pay-parity-claim.htm
+title: Tables Historic Early Childhoood Pay Parity Claim
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00055/tables-historic-early-childhoood-pay-parity-claim.htm
 author: nzei
+permalink: >-
+  /archive/2004/10/14/tables-historic-early-childhoood-pay-parity-claim/index.html
+layout: layout.njk
 ---
 Tables Historic Early Childhoood Pay Parity Claim
 =================================================

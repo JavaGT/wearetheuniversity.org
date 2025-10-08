@@ -1,9 +1,11 @@
 ---
 slug: real-issues-no-317
-title: "Real Issues No. 317"
-date: 2008-09-05
+title: Real Issues No. 317
+date: 2008-09-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0809/S00050/real-issues-no-317.htm
 author: maxim-institute
+permalink: /archive/2008/09/05/real-issues-no-317/index.html
+layout: layout.njk
 ---
 Real Issues No. 317
 ===================

@@ -1,9 +1,12 @@
 ---
 slug: acc-bill-sees-off-another-top-new-zealander
-title: "ACC bill sees off another top New Zealander"
-date: 2002-12-06
-source-url: https://www.scoop.co.nz/stories/PA0212/S00174/acc-bill-sees-off-another-top-new-zealander.htm
+title: ACC bill sees off another top New Zealander
+date: 2002-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00174/acc-bill-sees-off-another-top-new-zealander.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/06/acc-bill-sees-off-another-top-new-zealander/index.html
+layout: layout.njk
 ---
 ACC bill sees off another top New Zealander
 ===========================================

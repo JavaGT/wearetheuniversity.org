@@ -1,8 +1,11 @@
 ---
 slug: resurfacing-on-symonds-street
-title: "Resurfacing on Symonds Street"
-date: 2009-02-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/02/20/Resurfacing-on-Symonds-Street.html
+title: Resurfacing on Symonds Street
+date: 2009-02-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/02/20/Resurfacing-on-Symonds-Street.html
+permalink: /archive/2009/02/20/resurfacing-on-symonds-street/index.html
+layout: layout.njk
 ---
 Resurfacing on Symonds Street
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: what-boys-want-from-schools-and-teachers
-title: "What boys want from schools and teachers"
-date: 2007-08-16
-source-url: https://www.scoop.co.nz/stories/ED0708/S00043/what-boys-want-from-schools-and-teachers.htm
+title: What boys want from schools and teachers
+date: 2007-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00043/what-boys-want-from-schools-and-teachers.htm
 author: massey-university
+permalink: /archive/2007/08/16/what-boys-want-from-schools-and-teachers/index.html
+layout: layout.njk
 ---
 What boys want from schools and teachers
 ========================================

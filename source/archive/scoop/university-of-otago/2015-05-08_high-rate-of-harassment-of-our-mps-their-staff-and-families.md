@@ -1,9 +1,13 @@
 ---
 slug: high-rate-of-harassment-of-our-mps-their-staff-and-families
-title: "High rate of harassment of our MPs, their staff and families"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/PO1505/S00087/high-rate-of-harassment-of-our-mps-their-staff-and-families.htm
+title: High rate of harassment of our MPs, their staff and families
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00087/high-rate-of-harassment-of-our-mps-their-staff-and-families.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/08/high-rate-of-harassment-of-our-mps-their-staff-and-families/index.html
+layout: layout.njk
 ---
 High rate of harassment of our MPs, their staff and families
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: one-third-of-kiwis-may-drink-hazardously-their-entire-lives
-title: "One-third of Kiwis may drink hazardously their entire lives"
-date: 2018-10-26
-source-url: https://www.scoop.co.nz/stories/GE1810/S00110/one-third-of-kiwis-may-drink-hazardously-their-entire-lives.htm
+title: One-third of Kiwis may drink hazardously their entire lives
+date: 2018-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00110/one-third-of-kiwis-may-drink-hazardously-their-entire-lives.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/26/one-third-of-kiwis-may-drink-hazardously-their-entire-lives/index.html
+layout: layout.njk
 ---
 One-third of Kiwis may drink hazardously their entire lives
 ===========================================================

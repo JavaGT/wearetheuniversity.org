@@ -1,9 +1,13 @@
 ---
 slug: real-commitment-needed-for-canterbury-skills-training
-title: "Real commitment needed for Canterbury skills training"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/PA1206/S00285/real-commitment-needed-for-canterbury-skills-training.htm
+title: Real commitment needed for Canterbury skills training
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00285/real-commitment-needed-for-canterbury-skills-training.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/20/real-commitment-needed-for-canterbury-skills-training/index.html
+layout: layout.njk
 ---
 Real commitment needed for Canterbury skills training
 =====================================================

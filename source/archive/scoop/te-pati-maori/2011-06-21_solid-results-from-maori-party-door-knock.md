@@ -1,9 +1,12 @@
 ---
 slug: solid-results-from-maori-party-door-knock
-title: "Solid results from Maori Party door knock"
-date: 2011-06-21
-source-url: https://www.scoop.co.nz/stories/PO1106/S00249/solid-results-from-maori-party-door-knock.htm
+title: Solid results from Maori Party door knock
+date: 2011-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00249/solid-results-from-maori-party-door-knock.htm
 author: te-pati-maori
+permalink: /archive/2011/06/21/solid-results-from-maori-party-door-knock/index.html
+layout: layout.njk
 ---
 Solid results from Maori Party door knock
 =========================================

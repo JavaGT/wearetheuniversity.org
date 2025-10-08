@@ -1,9 +1,12 @@
 ---
 slug: public-at-risk-because-of-partly-trained-police
-title: "Public at risk because of partly trained police"
-date: 2007-02-20
-source-url: https://www.scoop.co.nz/stories/PA0702/S00352/public-at-risk-because-of-partly-trained-police.htm
+title: Public at risk because of partly trained police
+date: 2007-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00352/public-at-risk-because-of-partly-trained-police.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/20/public-at-risk-because-of-partly-trained-police/index.html
+layout: layout.njk
 ---
 Public at risk because of partly trained police
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: ten-key-initiatives-to-boost-northland-economy
-title: "Ten key initiatives to boost Northland economy"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PA1409/S00187/ten-key-initiatives-to-boost-northland-economy.htm
+title: Ten key initiatives to boost Northland economy
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00187/ten-key-initiatives-to-boost-northland-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/12/ten-key-initiatives-to-boost-northland-economy/index.html
+layout: layout.njk
 ---
 Ten key initiatives to boost Northland economy
 ==============================================

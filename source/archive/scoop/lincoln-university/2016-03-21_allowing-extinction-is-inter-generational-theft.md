@@ -1,9 +1,12 @@
 ---
 slug: allowing-extinction-is-inter-generational-theft
-title: "Allowing extinction is inter-generational theft"
-date: 2016-03-21
-source-url: https://www.scoop.co.nz/stories/PO1603/S00325/allowing-extinction-is-inter-generational-theft.htm
+title: Allowing extinction is inter-generational theft
+date: 2016-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00325/allowing-extinction-is-inter-generational-theft.htm
 author: lincoln-university
+permalink: /archive/2016/03/21/allowing-extinction-is-inter-generational-theft/index.html
+layout: layout.njk
 ---
 Allowing extinction is inter-generational theft
 ===============================================

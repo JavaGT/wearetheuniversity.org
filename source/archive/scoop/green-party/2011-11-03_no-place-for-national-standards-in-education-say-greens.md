@@ -1,9 +1,13 @@
 ---
 slug: no-place-for-national-standards-in-education-say-greens
-title: "No place for National Standards in education, say Greens"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/PA1111/S00050/no-place-for-national-standards-in-education-say-greens.htm
+title: No place for National Standards in education, say Greens
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00050/no-place-for-national-standards-in-education-say-greens.htm
 author: green-party
+permalink: >-
+  /archive/2011/11/03/no-place-for-national-standards-in-education-say-greens/index.html
+layout: layout.njk
 ---
 No place for National Standards in education, say Greens
 ========================================================

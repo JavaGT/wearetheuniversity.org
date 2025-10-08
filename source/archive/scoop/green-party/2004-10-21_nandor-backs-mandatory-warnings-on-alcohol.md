@@ -1,9 +1,12 @@
 ---
 slug: nandor-backs-mandatory-warnings-on-alcohol
-title: "Nandor backs mandatory warnings on alcohol"
-date: 2004-10-21
-source-url: https://www.scoop.co.nz/stories/PA0410/S00389/nandor-backs-mandatory-warnings-on-alcohol.htm
+title: Nandor backs mandatory warnings on alcohol
+date: 2004-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00389/nandor-backs-mandatory-warnings-on-alcohol.htm
 author: green-party
+permalink: /archive/2004/10/21/nandor-backs-mandatory-warnings-on-alcohol/index.html
+layout: layout.njk
 ---
 Nandor backs mandatory warnings on alcohol
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-say-govt-tinkering-missed-opportunity
-title: "Students say Govt tinkering ‘missed opportunity’"
-date: 2013-05-18
-source-url: https://www.scoop.co.nz/stories/PO1305/S00287/students-say-govt-tinkering-missed-opportunity.htm
+title: Students say Govt tinkering ‘missed opportunity’
+date: 2013-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00287/students-say-govt-tinkering-missed-opportunity.htm
 author: vuwsa
+permalink: /archive/2013/05/18/students-say-govt-tinkering-missed-opportunity/index.html
+layout: layout.njk
 ---
 Students say Govt tinkering ‘missed opportunity’
 ================================================

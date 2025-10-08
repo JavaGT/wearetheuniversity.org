@@ -1,9 +1,12 @@
 ---
 slug: lincoln-grads-new-app-makes-field-work-a-breeze
-title: "Lincoln grad’s new app makes field work a breeze"
-date: 2015-03-04
-source-url: https://www.scoop.co.nz/stories/ED1503/S00011/lincoln-grads-new-app-makes-field-work-a-breeze.htm
+title: Lincoln grad’s new app makes field work a breeze
+date: 2015-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00011/lincoln-grads-new-app-makes-field-work-a-breeze.htm
 author: lincoln-university
+permalink: /archive/2015/03/04/lincoln-grads-new-app-makes-field-work-a-breeze/index.html
+layout: layout.njk
 ---
 Lincoln grad’s new app makes field work a breeze
 ================================================

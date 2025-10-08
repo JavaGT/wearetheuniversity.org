@@ -1,9 +1,12 @@
 ---
 slug: good-news-on-samoan-maternal-mental-health
-title: "Good News On Samoan Maternal Mental Health"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/ED0409/S00071/good-news-on-samoan-maternal-mental-health.htm
+title: Good News On Samoan Maternal Mental Health
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00071/good-news-on-samoan-maternal-mental-health.htm
 author: aut-university
+permalink: /archive/2004/09/17/good-news-on-samoan-maternal-mental-health/index.html
+layout: layout.njk
 ---
 Good News On Samoan Maternal Mental Health
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: low-sense-of-wellbeing-unlikely-to-improve
-title: "Low sense of wellbeing unlikely to improve"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/PA1307/S00239/low-sense-of-wellbeing-unlikely-to-improve.htm
+title: Low sense of wellbeing unlikely to improve
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00239/low-sense-of-wellbeing-unlikely-to-improve.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/15/low-sense-of-wellbeing-unlikely-to-improve/index.html
+layout: layout.njk
 ---
 Low sense of wellbeing unlikely to improve
 ==========================================

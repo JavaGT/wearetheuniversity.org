@@ -1,9 +1,11 @@
 ---
 slug: another-job-for-the-girls
-title: "Another Job for the Girls"
-date: 2002-11-21
+title: Another Job for the Girls
+date: 2002-11-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0211/S00492/another-job-for-the-girls.htm
 author: act-new-zealand
+permalink: /archive/2002/11/21/another-job-for-the-girls/index.html
+layout: layout.njk
 ---
 Another Job for the Girls
 =========================

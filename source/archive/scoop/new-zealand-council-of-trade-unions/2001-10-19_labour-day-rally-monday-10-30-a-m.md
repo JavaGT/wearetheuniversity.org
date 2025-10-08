@@ -1,9 +1,12 @@
 ---
 slug: labour-day-rally-monday-10-30-a-m
-title: "Labour Day Rally - Monday 10:30 a.m."
-date: 2001-10-19
-source-url: https://www.scoop.co.nz/stories/PO0110/S00113/labour-day-rally-monday-1030-am.htm
+title: Labour Day Rally - Monday 10:30 a.m.
+date: 2001-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0110/S00113/labour-day-rally-monday-1030-am.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2001/10/19/labour-day-rally-monday-10-30-a-m/index.html
+layout: layout.njk
 ---
 Labour Day Rally - Monday 10:30 a.m.
 ====================================

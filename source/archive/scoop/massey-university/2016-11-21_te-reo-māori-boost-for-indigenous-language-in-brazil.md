@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māori-boost-for-indigenous-language-in-brazil
-title: "Te Reo Māori boost for indigenous language in Brazil"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/ED1611/S00088/te-reo-maori-boost-for-indigenous-language-in-brazil.htm
+title: Te Reo Māori boost for indigenous language in Brazil
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00088/te-reo-maori-boost-for-indigenous-language-in-brazil.htm
 author: massey-university
+permalink: /archive/2016/11/21/te-reo-m/index.html
+layout: layout.njk
 ---
 Te Reo Māori boost for indigenous language in Brazil
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: statement-on-sale-of-mana-island
-title: "Statement On Sale Of Mana Island"
-date: 2021-12-14
-source-url: https://www.scoop.co.nz/stories/CU2112/S00115/statement-on-sale-of-mana-island.htm
+title: Statement On Sale Of Mana Island
+date: 2021-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2112/S00115/statement-on-sale-of-mana-island.htm
 author: vuwsa
+permalink: /archive/2021/12/14/statement-on-sale-of-mana-island/index.html
+layout: layout.njk
 ---
 Statement On Sale Of Mana Island
 ================================

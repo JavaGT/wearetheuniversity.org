@@ -1,9 +1,12 @@
 ---
 slug: act-of-desperation-by-tamati-coffey
-title: "Act Of Desperation By Tamati Coffey"
-date: 2020-10-06
-source-url: https://www.scoop.co.nz/stories/PO2010/S00079/act-of-desperation-by-tamati-coffey.htm
+title: Act Of Desperation By Tamati Coffey
+date: 2020-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00079/act-of-desperation-by-tamati-coffey.htm
 author: te-pati-maori
+permalink: /archive/2020/10/06/act-of-desperation-by-tamati-coffey/index.html
+layout: layout.njk
 ---
 Act Of Desperation By Tamati Coffey
 ===================================

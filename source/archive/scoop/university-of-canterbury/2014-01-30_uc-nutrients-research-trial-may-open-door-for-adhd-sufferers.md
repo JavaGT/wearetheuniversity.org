@@ -1,9 +1,13 @@
 ---
 slug: uc-nutrients-research-trial-may-open-door-for-adhd-sufferers
-title: "UC nutrients research trial may open door for ADHD sufferers"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/GE1401/S00064/uc-nutrients-research-trial-may-open-door-for-adhd-sufferers.htm
+title: UC nutrients research trial may open door for ADHD sufferers
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1401/S00064/uc-nutrients-research-trial-may-open-door-for-adhd-sufferers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/30/uc-nutrients-research-trial-may-open-door-for-adhd-sufferers/index.html
+layout: layout.njk
 ---
 UC nutrients research trial may open door for ADHD sufferers
 ============================================================

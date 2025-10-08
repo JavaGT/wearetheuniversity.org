@@ -1,9 +1,13 @@
 ---
 slug: christchurch-single-sex-state-schools-should-remain
-title: "Christchurch single-sex state schools should remain"
-date: 2013-02-24
-source-url: https://www.scoop.co.nz/stories/ED1302/S00130/christchurch-single-sex-state-schools-should-remain.htm
+title: Christchurch single-sex state schools should remain
+date: 2013-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00130/christchurch-single-sex-state-schools-should-remain.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/24/christchurch-single-sex-state-schools-should-remain/index.html
+layout: layout.njk
 ---
 Christchurch single-sex state schools should remain
 ===================================================

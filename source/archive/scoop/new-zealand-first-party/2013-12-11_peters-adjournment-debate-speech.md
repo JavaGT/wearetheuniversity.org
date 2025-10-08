@@ -1,9 +1,12 @@
 ---
 slug: peters-adjournment-debate-speech
-title: "Peters: Adjournment Debate Speech"
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/PA1312/S00248/peters-adjournment-debate-speech.htm
+title: 'Peters: Adjournment Debate Speech'
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00248/peters-adjournment-debate-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2013/12/11/peters-adjournment-debate-speech/index.html
+layout: layout.njk
 ---
 Peters: Adjournment Debate Speech
 =================================

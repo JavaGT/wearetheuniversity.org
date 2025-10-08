@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-appoints-new-proctor
-title: "University of Otago appoints new Proctor"
-date: 2015-09-23
-source-url: https://www.scoop.co.nz/stories/ED1509/S00136/university-of-otago-appoints-new-proctor.htm
+title: University of Otago appoints new Proctor
+date: 2015-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00136/university-of-otago-appoints-new-proctor.htm
 author: university-of-otago
+permalink: /archive/2015/09/23/university-of-otago-appoints-new-proctor/index.html
+layout: layout.njk
 ---
 University of Otago appoints new Proctor
 ========================================

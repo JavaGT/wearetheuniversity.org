@@ -1,9 +1,12 @@
 ---
 slug: nz-childrens-food-awards-shortlist-announced
-title: "NZ Children's Food Awards shortlist announced"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/PA0308/S00282/nz-childrens-food-awards-shortlist-announced.htm
+title: NZ Children's Food Awards shortlist announced
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00282/nz-childrens-food-awards-shortlist-announced.htm
 author: green-party
+permalink: /archive/2003/08/14/nz-childrens-food-awards-shortlist-announced/index.html
+layout: layout.njk
 ---
 NZ Children's Food Awards shortlist announced
 =============================================

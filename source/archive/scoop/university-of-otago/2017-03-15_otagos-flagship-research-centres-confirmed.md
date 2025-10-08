@@ -1,9 +1,12 @@
 ---
 slug: otagos-flagship-research-centres-confirmed
-title: "Otago’s flagship research centres confirmed"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/SC1703/S00038/otagos-flagship-research-centres-confirmed.htm
+title: Otago’s flagship research centres confirmed
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00038/otagos-flagship-research-centres-confirmed.htm
 author: university-of-otago
+permalink: /archive/2017/03/15/otagos-flagship-research-centres-confirmed/index.html
+layout: layout.njk
 ---
 Otago’s flagship research centres confirmed
 ===========================================

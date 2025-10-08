@@ -1,9 +1,12 @@
 ---
 slug: government-must-apologise-over-rebuild-debacle
-title: "Government must apologise over rebuild debacle"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/PA1708/S00350/government-must-apologise-over-rebuild-debacle.htm
+title: Government must apologise over rebuild debacle
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00350/government-must-apologise-over-rebuild-debacle.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/18/government-must-apologise-over-rebuild-debacle/index.html
+layout: layout.njk
 ---
 Government must apologise over rebuild debacle
 ==============================================

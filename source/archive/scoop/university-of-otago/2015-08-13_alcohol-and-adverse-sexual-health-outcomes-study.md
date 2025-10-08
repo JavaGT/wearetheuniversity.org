@@ -1,9 +1,13 @@
 ---
 slug: alcohol-and-adverse-sexual-health-outcomes-study
-title: "Alcohol and adverse sexual health outcomes study"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/GE1508/S00046/alcohol-and-adverse-sexual-health-outcomes-study.htm
+title: Alcohol and adverse sexual health outcomes study
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1508/S00046/alcohol-and-adverse-sexual-health-outcomes-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/13/alcohol-and-adverse-sexual-health-outcomes-study/index.html
+layout: layout.njk
 ---
 Alcohol and adverse sexual health outcomes study
 ================================================

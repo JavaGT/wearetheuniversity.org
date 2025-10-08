@@ -1,9 +1,13 @@
 ---
 slug: food-insecurity-and-psychological-distress-in-nz
-title: "Food insecurity and psychological distress in NZ"
-date: 2011-04-04
-source-url: https://www.scoop.co.nz/stories/AK1104/S00071/food-insecurity-and-psychological-distress-in-nz.htm
+title: Food insecurity and psychological distress in NZ
+date: 2011-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1104/S00071/food-insecurity-and-psychological-distress-in-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/04/food-insecurity-and-psychological-distress-in-nz/index.html
+layout: layout.njk
 ---
 Food insecurity and psychological distress in NZ
 ================================================

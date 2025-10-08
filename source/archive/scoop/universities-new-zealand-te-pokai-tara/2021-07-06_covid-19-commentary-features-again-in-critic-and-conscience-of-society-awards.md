@@ -1,9 +1,13 @@
 ---
 slug: covid-19-commentary-features-again-in-critic-and-conscience-of-society-awards
-title: "COVID-19 Commentary Features Again In Critic And Conscience Of Society Awards"
-date: 2021-07-06
-source-url: https://www.scoop.co.nz/stories/ED2107/S00012/covid-19-commentary-features-again-in-critic-and-conscience-of-society-awards.htm
+title: COVID-19 Commentary Features Again In Critic And Conscience Of Society Awards
+date: 2021-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00012/covid-19-commentary-features-again-in-critic-and-conscience-of-society-awards.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/07/06/covid-19-commentary-features-again-in-critic-and-conscience-of-society-awards/index.html
+layout: layout.njk
 ---
 COVID-19 Commentary Features Again In Critic And Conscience Of Society Awards
 =============================================================================

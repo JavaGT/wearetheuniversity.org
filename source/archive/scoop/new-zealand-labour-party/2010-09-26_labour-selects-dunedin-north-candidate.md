@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-dunedin-north-candidate
-title: "Labour Selects Dunedin North Candidate"
-date: 2010-09-26
-source-url: https://www.scoop.co.nz/stories/PA1009/S00384/labour-selects-dunedin-north-candidate.htm
+title: Labour Selects Dunedin North Candidate
+date: 2010-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00384/labour-selects-dunedin-north-candidate.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/26/labour-selects-dunedin-north-candidate/index.html
+layout: layout.njk
 ---
 Labour Selects Dunedin North Candidate
 ======================================

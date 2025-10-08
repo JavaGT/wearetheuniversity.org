@@ -1,9 +1,13 @@
 ---
 slug: discrimination-against-kiwis-overlooked-at-summit
-title: "Discrimination against Kiwis overlooked at Summit"
-date: 2013-02-11
-source-url: https://www.scoop.co.nz/stories/PA1302/S00113/discrimination-against-kiwis-overlooked-at-summit.htm
+title: Discrimination against Kiwis overlooked at Summit
+date: 2013-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00113/discrimination-against-kiwis-overlooked-at-summit.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/11/discrimination-against-kiwis-overlooked-at-summit/index.html
+layout: layout.njk
 ---
 Discrimination against Kiwis overlooked at Summit
 =================================================

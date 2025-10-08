@@ -1,9 +1,12 @@
 ---
 slug: obamas-election-still-significant
-title: "Obama’s Election Still Significant"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/PA1412/S00166/obamas-election-still-significant.htm
+title: Obama’s Election Still Significant
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00166/obamas-election-still-significant.htm
 author: new-zealand-first-party
+permalink: /archive/2014/12/09/obamas-election-still-significant/index.html
+layout: layout.njk
 ---
 Obama’s Election Still Significant
 ==================================

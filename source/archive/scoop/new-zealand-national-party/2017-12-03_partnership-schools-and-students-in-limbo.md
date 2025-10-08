@@ -1,9 +1,12 @@
 ---
 slug: partnership-schools-and-students-in-limbo
-title: "Partnership schools and students in limbo"
-date: 2017-12-03
-source-url: https://www.scoop.co.nz/stories/PA1712/S00018/partnership-schools-and-students-in-limbo.htm
+title: Partnership schools and students in limbo
+date: 2017-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00018/partnership-schools-and-students-in-limbo.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/03/partnership-schools-and-students-in-limbo/index.html
+layout: layout.njk
 ---
 Partnership schools and students in limbo
 =========================================

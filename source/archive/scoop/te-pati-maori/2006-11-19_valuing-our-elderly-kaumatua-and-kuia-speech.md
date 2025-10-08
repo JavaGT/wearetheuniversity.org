@@ -1,9 +1,12 @@
 ---
 slug: valuing-our-elderly-kaumatua-and-kuia-speech
-title: "Valuing Our Elderly: Kaumatua and Kuia - Speech"
-date: 2006-11-19
-source-url: https://www.scoop.co.nz/stories/PA0611/S00372/valuing-our-elderly-kaumatua-and-kuia-speech.htm
+title: 'Valuing Our Elderly: Kaumatua and Kuia - Speech'
+date: 2006-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00372/valuing-our-elderly-kaumatua-and-kuia-speech.htm
 author: te-pati-maori
+permalink: /archive/2006/11/19/valuing-our-elderly-kaumatua-and-kuia-speech/index.html
+layout: layout.njk
 ---
 Valuing Our Elderly: Kaumatua and Kuia - Speech
 ===============================================

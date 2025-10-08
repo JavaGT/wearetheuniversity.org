@@ -1,9 +1,12 @@
 ---
 slug: life-after-40-work-retirement-and-nz-super
-title: "Life after 40: work, retirement and NZ super"
-date: 2000-07-04
-source-url: https://www.scoop.co.nz/stories/GE0007/S00010/life-after-40-work-retirement-and-nz-super.htm
+title: 'Life after 40: work, retirement and NZ super'
+date: 2000-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0007/S00010/life-after-40-work-retirement-and-nz-super.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/04/life-after-40-work-retirement-and-nz-super/index.html
+layout: layout.njk
 ---
 Life after 40: work, retirement and NZ super
 ============================================

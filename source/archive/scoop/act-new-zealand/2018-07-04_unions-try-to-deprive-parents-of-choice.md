@@ -1,9 +1,12 @@
 ---
 slug: unions-try-to-deprive-parents-of-choice
-title: "Unions try to deprive parents of choice"
-date: 2018-07-04
-source-url: https://www.scoop.co.nz/stories/PA1807/S00038/unions-try-to-deprive-parents-of-choice.htm
+title: Unions try to deprive parents of choice
+date: 2018-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00038/unions-try-to-deprive-parents-of-choice.htm
 author: act-new-zealand
+permalink: /archive/2018/07/04/unions-try-to-deprive-parents-of-choice/index.html
+layout: layout.njk
 ---
 Unions try to deprive parents of choice
 =======================================

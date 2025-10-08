@@ -1,9 +1,13 @@
 ---
 slug: simple-supplement-aids-powerful-rugby-performance
-title: "Simple supplement aids powerful rugby performance"
-date: 2018-07-23
-source-url: https://www.scoop.co.nz/stories/GE1807/S00093/simple-supplement-aids-powerful-rugby-performance.htm
+title: Simple supplement aids powerful rugby performance
+date: 2018-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00093/simple-supplement-aids-powerful-rugby-performance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/23/simple-supplement-aids-powerful-rugby-performance/index.html
+layout: layout.njk
 ---
 Simple supplement aids powerful rugby performance
 =================================================

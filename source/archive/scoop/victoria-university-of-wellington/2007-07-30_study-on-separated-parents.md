@@ -1,9 +1,11 @@
 ---
 slug: study-on-separated-parents
-title: "Study on separated parents"
-date: 2007-07-30
+title: Study on separated parents
+date: 2007-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0707/S00091/study-on-separated-parents.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/07/30/study-on-separated-parents/index.html
+layout: layout.njk
 ---
 Study on separated parents
 ==========================

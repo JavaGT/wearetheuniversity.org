@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-education-awareness-week
-title: "Early Childhood Education Awareness Week"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/ED0411/S00046/early-childhood-education-awareness-week.htm
+title: Early Childhood Education Awareness Week
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00046/early-childhood-education-awareness-week.htm
 author: nzei
+permalink: /archive/2004/11/15/early-childhood-education-awareness-week/index.html
+layout: layout.njk
 ---
 Early Childhood Education Awareness Week
 ========================================

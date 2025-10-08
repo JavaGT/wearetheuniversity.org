@@ -1,9 +1,12 @@
 ---
 slug: driving-down-wages-through-record-migration
-title: "Driving Down Wages through Record Migration"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/PA1410/S00135/driving-down-wages-through-record-migration.htm
+title: Driving Down Wages through Record Migration
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00135/driving-down-wages-through-record-migration.htm
 author: new-zealand-first-party
+permalink: /archive/2014/10/22/driving-down-wages-through-record-migration/index.html
+layout: layout.njk
 ---
 Driving Down Wages through Record Migration
 ===========================================

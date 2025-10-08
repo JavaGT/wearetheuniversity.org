@@ -1,9 +1,11 @@
 ---
 slug: teachers-wary-over-review
-title: "Teachers wary over review"
-date: 2014-07-31
+title: Teachers wary over review
+date: 2014-07-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1407/S00162/teachers-wary-over-review.htm
 author: nzei
+permalink: /archive/2014/07/31/teachers-wary-over-review/index.html
+layout: layout.njk
 ---
 Teachers wary over review
 =========================

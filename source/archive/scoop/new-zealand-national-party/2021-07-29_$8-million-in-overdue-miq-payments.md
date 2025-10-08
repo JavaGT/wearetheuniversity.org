@@ -1,9 +1,12 @@
 ---
 slug: $8-million-in-overdue-miq-payments
-title: "$8 Million In Overdue MIQ Payments"
-date: 2021-07-29
-source-url: https://www.scoop.co.nz/stories/PA2107/S00216/8-million-in-overdue-miq-payments.htm
+title: $8 Million In Overdue MIQ Payments
+date: 2021-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00216/8-million-in-overdue-miq-payments.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/29/8-million-in-overdue-miq-payments/index.html
+layout: layout.njk
 ---
 $8 Million In Overdue MIQ Payments
 ==================================

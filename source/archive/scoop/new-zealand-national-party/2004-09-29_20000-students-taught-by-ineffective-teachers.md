@@ -1,9 +1,12 @@
 ---
 slug: 20000-students-taught-by-ineffective-teachers
-title: "20,000 students taught by ineffective teachers"
-date: 2004-09-29
-source-url: https://www.scoop.co.nz/stories/PA0409/S00567/20000-students-taught-by-ineffective-teachers.htm
+title: 20,000 students taught by ineffective teachers
+date: 2004-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00567/20000-students-taught-by-ineffective-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/29/20000-students-taught-by-ineffective-teachers/index.html
+layout: layout.njk
 ---
 20,000 students taught by ineffective teachers
 ==============================================

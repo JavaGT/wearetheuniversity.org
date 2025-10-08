@@ -1,9 +1,13 @@
 ---
 slug: thin-ice-heading-for-united-states-television-screens
-title: "Thin Ice heading for United States television screens"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/ED1411/S00172/thin-ice-heading-for-united-states-television-screens.htm
+title: Thin Ice heading for United States television screens
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00172/thin-ice-heading-for-united-states-television-screens.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/27/thin-ice-heading-for-united-states-television-screens/index.html
+layout: layout.njk
 ---
 Thin Ice heading for United States television screens
 =====================================================

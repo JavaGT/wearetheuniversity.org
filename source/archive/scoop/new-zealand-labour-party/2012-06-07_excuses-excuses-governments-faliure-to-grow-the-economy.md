@@ -1,9 +1,13 @@
 ---
 slug: excuses-excuses-governments-faliure-to-grow-the-economy
-title: "Excuses, excuses: Government's faliure to grow the economy"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PA1206/S00076/excuses-excuses-governments-faliure-to-grow-the-economy.htm
+title: 'Excuses, excuses: Government''s faliure to grow the economy'
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00076/excuses-excuses-governments-faliure-to-grow-the-economy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/06/07/excuses-excuses-governments-faliure-to-grow-the-economy/index.html
+layout: layout.njk
 ---
 Excuses, excuses: Government's faliure to grow the economy
 ==========================================================

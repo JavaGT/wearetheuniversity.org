@@ -1,9 +1,13 @@
 ---
 slug: new-data-highlights-working-conditions-in-tourism-and-hospitality
-title: "New Data Highlights Working Conditions In Tourism And Hospitality"
-date: 2023-03-01
-source-url: https://www.scoop.co.nz/stories/BU2303/S00013/new-data-highlights-working-conditions-in-tourism-and-hospitality.htm
+title: New Data Highlights Working Conditions In Tourism And Hospitality
+date: 2023-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2303/S00013/new-data-highlights-working-conditions-in-tourism-and-hospitality.htm
 author: aut-university
+permalink: >-
+  /archive/2023/03/01/new-data-highlights-working-conditions-in-tourism-and-hospitality/index.html
+layout: layout.njk
 ---
 New Data Highlights Working Conditions In Tourism And Hospitality
 =================================================================

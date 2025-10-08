@@ -1,9 +1,12 @@
 ---
 slug: funding-puts-asthma-anomaly-under-scrutiny
-title: "Funding puts asthma anomaly under scrutiny"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/GE1407/S00111/funding-puts-asthma-anomaly-under-scrutiny.htm
+title: Funding puts asthma anomaly under scrutiny
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1407/S00111/funding-puts-asthma-anomaly-under-scrutiny.htm
 author: massey-university
+permalink: /archive/2014/07/29/funding-puts-asthma-anomaly-under-scrutiny/index.html
+layout: layout.njk
 ---
 Funding puts asthma anomaly under scrutiny
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: conservation-crisis-as-historic-carved-trees-die
-title: "Conservation crisis as historic carved trees die"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/CU1104/S00139/conservation-crisis-as-historic-carved-trees-die.htm
+title: Conservation crisis as historic carved trees die
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00139/conservation-crisis-as-historic-carved-trees-die.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/08/conservation-crisis-as-historic-carved-trees-die/index.html
+layout: layout.njk
 ---
 Conservation crisis as historic carved trees die
 ================================================

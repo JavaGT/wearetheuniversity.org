@@ -1,9 +1,12 @@
 ---
 slug: eating-speed-linked-to-weight-otago-research
-title: "Eating speed linked to weight: Otago research"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/GE1108/S00123/eating-speed-linked-to-weight-otago-research.htm
+title: 'Eating speed linked to weight: Otago research'
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1108/S00123/eating-speed-linked-to-weight-otago-research.htm
 author: university-of-otago
+permalink: /archive/2011/08/30/eating-speed-linked-to-weight-otago-research/index.html
+layout: layout.njk
 ---
 Eating speed linked to weight: Otago research
 =============================================

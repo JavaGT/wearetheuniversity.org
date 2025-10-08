@@ -1,9 +1,12 @@
 ---
 slug: real-issues-this-week-no-fifty-seven
-title: "real issues. this week: No. Fifty-Seven"
-date: 2003-04-04
-source-url: https://www.scoop.co.nz/stories/PO0304/S00033/real-issues-this-week-no-fifty-seven.htm
+title: 'real issues. this week: No. Fifty-Seven'
+date: 2003-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0304/S00033/real-issues-this-week-no-fifty-seven.htm
 author: maxim-institute
+permalink: /archive/2003/04/04/real-issues-this-week-no-fifty-seven/index.html
+layout: layout.njk
 ---
 real issues. this week: No. Fifty-Seven
 =======================================

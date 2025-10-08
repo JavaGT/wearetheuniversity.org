@@ -1,9 +1,12 @@
 ---
 slug: students-promote-fairtrade-with-free-coffee
-title: "Students promote fairtrade with free coffee"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/PO0905/S00198/students-promote-fairtrade-with-free-coffee.htm
+title: Students promote fairtrade with free coffee
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00198/students-promote-fairtrade-with-free-coffee.htm
 author: ausa
+permalink: /archive/2009/05/15/students-promote-fairtrade-with-free-coffee/index.html
+layout: layout.njk
 ---
 Students promote fairtrade with free coffee
 ===========================================

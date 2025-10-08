@@ -1,9 +1,12 @@
 ---
 slug: uc-aerospace-rocketeers-take-on-australia
-title: "UC Aerospace rocketeers take on Australia"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/ED1905/S00006/uc-aerospace-rocketeers-take-on-australia.htm
+title: UC Aerospace rocketeers take on Australia
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00006/uc-aerospace-rocketeers-take-on-australia.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/02/uc-aerospace-rocketeers-take-on-australia/index.html
+layout: layout.njk
 ---
 UC Aerospace rocketeers take on Australia
 =========================================

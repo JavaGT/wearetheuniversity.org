@@ -1,9 +1,13 @@
 ---
 slug: govt-cuts-funding-and-opportunities-for-kiwi-kids
-title: "Govt cuts funding and opportunities for Kiwi kids"
-date: 2018-05-22
-source-url: https://www.scoop.co.nz/stories/PA1805/S00298/govt-cuts-funding-and-opportunities-for-kiwi-kids.htm
+title: Govt cuts funding and opportunities for Kiwi kids
+date: 2018-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00298/govt-cuts-funding-and-opportunities-for-kiwi-kids.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/05/22/govt-cuts-funding-and-opportunities-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 Govt cuts funding and opportunities for Kiwi kids
 =================================================

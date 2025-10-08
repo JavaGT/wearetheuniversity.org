@@ -1,9 +1,12 @@
 ---
 slug: tertiary-strike-direct-result-of-govt-promises
-title: "Tertiary Strike Direct Result Of Govt Promises"
-date: 2002-03-05
-source-url: https://www.scoop.co.nz/stories/PA0203/S00074/tertiary-strike-direct-result-of-govt-promises.htm
+title: Tertiary Strike Direct Result Of Govt Promises
+date: 2002-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00074/tertiary-strike-direct-result-of-govt-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/05/tertiary-strike-direct-result-of-govt-promises/index.html
+layout: layout.njk
 ---
 Tertiary Strike Direct Result Of Govt Promises
 ==============================================

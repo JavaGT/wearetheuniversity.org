@@ -1,9 +1,13 @@
 ---
 slug: secret-lobbying-shows-disregard-for-transparency
-title: "Secret Lobbying Shows Disregard for Transparency"
-date: 2016-01-26
-source-url: https://www.scoop.co.nz/stories/PA1601/S00110/secret-lobbying-shows-disregard-for-transparency.htm
+title: Secret Lobbying Shows Disregard for Transparency
+date: 2016-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00110/secret-lobbying-shows-disregard-for-transparency.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/01/26/secret-lobbying-shows-disregard-for-transparency/index.html
+layout: layout.njk
 ---
 Secret Lobbying Shows Disregard for Transparency
 ================================================

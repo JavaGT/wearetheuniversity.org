@@ -1,9 +1,11 @@
 ---
 slug: no-more-whaling-please
-title: "No more whaling, please"
-date: 2007-11-23
+title: No more whaling, please
+date: 2007-11-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0711/S00470/no-more-whaling-please.htm
 author: green-party
+permalink: /archive/2007/11/23/no-more-whaling-please/index.html
+layout: layout.njk
 ---
 No more whaling, please
 =======================

@@ -1,9 +1,13 @@
 ---
 slug: govt-admits-accord-useless-against-wasteful-carton
-title: "Govt admits Accord useless against wasteful carton"
-date: 2005-03-30
-source-url: https://www.scoop.co.nz/stories/PA0503/S00569/govt-admits-accord-useless-against-wasteful-carton.htm
+title: Govt admits Accord useless against wasteful carton
+date: 2005-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00569/govt-admits-accord-useless-against-wasteful-carton.htm
 author: green-party
+permalink: >-
+  /archive/2005/03/30/govt-admits-accord-useless-against-wasteful-carton/index.html
+layout: layout.njk
 ---
 Govt admits Accord useless against wasteful carton
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: prestigious-distinguished-professor-title-awarded-to-caroline-saunders
-title: "Prestigious Distinguished Professor Title Awarded To Caroline Saunders"
-date: 2020-11-23
-source-url: https://www.scoop.co.nz/stories/ED2011/S00044/prestigious-distinguished-professor-title-awarded-to-caroline-saunders.htm
+title: Prestigious Distinguished Professor Title Awarded To Caroline Saunders
+date: 2020-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00044/prestigious-distinguished-professor-title-awarded-to-caroline-saunders.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/11/23/prestigious-distinguished-professor-title-awarded-to-caroline-saunders/index.html
+layout: layout.njk
 ---
 Prestigious Distinguished Professor Title Awarded To Caroline Saunders
 ======================================================================

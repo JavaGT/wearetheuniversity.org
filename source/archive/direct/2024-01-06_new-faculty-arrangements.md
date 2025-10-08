@@ -1,9 +1,11 @@
 ---
-slug: "new-faculty-arrangements"
-date: 2025-01-06
-source: "University of Auckland"
+slug: new-faculty-arrangements
+date: 2025-01-06T00:00:00.000Z
+source: University of Auckland
 source-url: https://www.auckland.ac.nz/en/news/notices/2024/new-faculty-arrangements.html
-title: "New faculty arrangements"
+title: New faculty arrangements
+permalink: /archive/2025/01/06/new-faculty-arrangements/index.html
+layout: layout.njk
 ---
 
 # New faculty arrangements

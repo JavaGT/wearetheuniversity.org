@@ -1,9 +1,13 @@
 ---
 slug: national-will-protect-hunting-and-fishing-rights
-title: "National Will Protect Hunting And Fishing Rights"
-date: 2023-07-22
-source-url: https://www.scoop.co.nz/stories/PA2307/S00118/national-will-protect-hunting-and-fishing-rights.htm
+title: National Will Protect Hunting And Fishing Rights
+date: 2023-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00118/national-will-protect-hunting-and-fishing-rights.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/22/national-will-protect-hunting-and-fishing-rights/index.html
+layout: layout.njk
 ---
 National Will Protect Hunting And Fishing Rights
 ================================================

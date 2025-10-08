@@ -1,9 +1,13 @@
 ---
 slug: telecomms-decision-damaging-to-investment-growth
-title: "Telecomm's Decision Damaging to Investment, Growth"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/BU0605/S00099/telecomms-decision-damaging-to-investment-growth.htm
+title: Telecomm's Decision Damaging to Investment, Growth
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0605/S00099/telecomms-decision-damaging-to-investment-growth.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2006/05/04/telecomms-decision-damaging-to-investment-growth/index.html
+layout: layout.njk
 ---
 Telecomm's Decision Damaging to Investment, Growth
 ==================================================

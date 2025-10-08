@@ -1,9 +1,11 @@
 ---
 slug: digital-media-workshop-2011
-title: "Digital Media Workshop 2011"
-date: 2011-05-30
+title: Digital Media Workshop 2011
+date: 2011-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1105/S00482/digital-media-workshop-2011.htm
 author: massey-university
+permalink: /archive/2011/05/30/digital-media-workshop-2011/index.html
+layout: layout.njk
 ---
 Digital Media Workshop 2011
 ===========================

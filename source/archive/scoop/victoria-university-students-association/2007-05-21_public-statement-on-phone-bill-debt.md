@@ -1,9 +1,12 @@
 ---
 slug: public-statement-on-phone-bill-debt
-title: "Public statement on phone bill debt"
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/ED0705/S00085/public-statement-on-phone-bill-debt.htm
+title: Public statement on phone bill debt
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00085/public-statement-on-phone-bill-debt.htm
 author: victoria-university-students-association
+permalink: /archive/2007/05/21/public-statement-on-phone-bill-debt/index.html
+layout: layout.njk
 ---
 Public statement on phone bill debt
 ===================================

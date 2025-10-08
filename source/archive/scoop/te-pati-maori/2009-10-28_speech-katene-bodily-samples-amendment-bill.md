@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-bodily-samples-amendment-bill
-title: "Speech: Katene - Bodily Samples Amendment Bill"
-date: 2009-10-28
-source-url: https://www.scoop.co.nz/stories/PA0910/S00414/speech-katene-bodily-samples-amendment-bill.htm
+title: 'Speech: Katene - Bodily Samples Amendment Bill'
+date: 2009-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00414/speech-katene-bodily-samples-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/10/28/speech-katene-bodily-samples-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Bodily Samples Amendment Bill
 ==============================================

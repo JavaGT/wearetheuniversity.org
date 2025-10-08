@@ -1,9 +1,12 @@
 ---
 slug: art-goes-mainstreet-in-remuera
-title: "Art Goes Mainstreet in Remuera"
-date: 2002-07-24
-source-url: https://www.scoop.co.nz/stories/CU0207/S00034/art-goes-mainstreet-in-remuera.htm
+title: Art Goes Mainstreet in Remuera
+date: 2002-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0207/S00034/art-goes-mainstreet-in-remuera.htm
 author: auckland-university
+permalink: /archive/2002/07/24/art-goes-mainstreet-in-remuera/index.html
+layout: layout.njk
 ---
 Art Goes Mainstreet in Remuera
 ==============================

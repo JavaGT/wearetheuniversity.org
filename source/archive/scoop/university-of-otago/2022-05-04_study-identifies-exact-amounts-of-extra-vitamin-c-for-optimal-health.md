@@ -1,9 +1,13 @@
 ---
 slug: study-identifies-exact-amounts-of-extra-vitamin-c-for-optimal-health
-title: "Study Identifies Exact Amounts Of Extra Vitamin C For Optimal Health"
-date: 2022-05-04
-source-url: https://www.scoop.co.nz/stories/GE2205/S00010/study-identifies-exact-amounts-of-extra-vitamin-c-for-optimal-health.htm
+title: Study Identifies Exact Amounts Of Extra Vitamin C For Optimal Health
+date: 2022-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2205/S00010/study-identifies-exact-amounts-of-extra-vitamin-c-for-optimal-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/05/04/study-identifies-exact-amounts-of-extra-vitamin-c-for-optimal-health/index.html
+layout: layout.njk
 ---
 Study Identifies Exact Amounts Of Extra Vitamin C For Optimal Health
 ====================================================================

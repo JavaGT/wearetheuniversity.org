@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-the-london-bombings
-title: "Liberty Belle: The London Bombings"
-date: 2005-07-08
-source-url: https://www.scoop.co.nz/stories/PA0507/S00192/liberty-belle-the-london-bombings.htm
+title: 'Liberty Belle: The London Bombings'
+date: 2005-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00192/liberty-belle-the-london-bombings.htm
 author: act-new-zealand
+permalink: /archive/2005/07/08/liberty-belle-the-london-bombings/index.html
+layout: layout.njk
 ---
 Liberty Belle: The London Bombings
 ==================================

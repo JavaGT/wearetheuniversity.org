@@ -1,9 +1,12 @@
 ---
 slug: presbyterian-support-otagos-exit-saddening
-title: "Presbyterian Support Otago’s exit saddening"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/PA1302/S00186/presbyterian-support-otagos-exit-saddening.htm
+title: Presbyterian Support Otago’s exit saddening
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00186/presbyterian-support-otagos-exit-saddening.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/14/presbyterian-support-otagos-exit-saddening/index.html
+layout: layout.njk
 ---
 Presbyterian Support Otago’s exit saddening
 ===========================================

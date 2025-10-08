@@ -1,9 +1,13 @@
 ---
 slug: studying-new-treatment-for-benign-prostate-hyperplasia
-title: "Studying New Treatment for Benign Prostate Hyperplasia"
-date: 2017-08-17
-source-url: https://www.scoop.co.nz/stories/GE1708/S00083/studying-new-treatment-for-benign-prostate-hyperplasia.htm
+title: Studying New Treatment for Benign Prostate Hyperplasia
+date: 2017-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00083/studying-new-treatment-for-benign-prostate-hyperplasia.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/17/studying-new-treatment-for-benign-prostate-hyperplasia/index.html
+layout: layout.njk
 ---
 Studying New Treatment for Benign Prostate Hyperplasia
 ======================================================

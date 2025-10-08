@@ -1,9 +1,12 @@
 ---
 slug: research-proves-rugby-is-a-hard-game
-title: "Research proves rugby is a hard game"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/ED1408/S00027/research-proves-rugby-is-a-hard-game.htm
+title: Research proves rugby is a hard game
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00027/research-proves-rugby-is-a-hard-game.htm
 author: university-of-canterbury
+permalink: /archive/2014/08/06/research-proves-rugby-is-a-hard-game/index.html
+layout: layout.njk
 ---
 Research proves rugby is a hard game
 ====================================

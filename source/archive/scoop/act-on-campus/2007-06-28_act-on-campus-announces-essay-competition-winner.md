@@ -1,9 +1,13 @@
 ---
 slug: act-on-campus-announces-essay-competition-winner
-title: "ACT On Campus Announces Essay Competition Winner"
-date: 2007-06-28
-source-url: https://www.scoop.co.nz/stories/PO0706/S00334/act-on-campus-announces-essay-competition-winner.htm
+title: ACT On Campus Announces Essay Competition Winner
+date: 2007-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0706/S00334/act-on-campus-announces-essay-competition-winner.htm
 author: act-on-campus
+permalink: >-
+  /archive/2007/06/28/act-on-campus-announces-essay-competition-winner/index.html
+layout: layout.njk
 ---
 ACT On Campus Announces Essay Competition Winner
 ================================================

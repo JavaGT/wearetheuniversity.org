@@ -1,9 +1,13 @@
 ---
 slug: project-aims-to-help-nzers-with-hearing-problems
-title: "Project aims to help NZers with hearing problems"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/ED1409/S00071/project-aims-to-help-nzers-with-hearing-problems.htm
+title: Project aims to help NZers with hearing problems
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00071/project-aims-to-help-nzers-with-hearing-problems.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/11/project-aims-to-help-nzers-with-hearing-problems/index.html
+layout: layout.njk
 ---
 Project aims to help NZers with hearing problems
 ================================================

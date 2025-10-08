@@ -1,9 +1,13 @@
 ---
 slug: kiwis-left-in-the-dark-over-interest-deductibility-rules
-title: "Kiwis left in the dark over interest deductibility rules"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/PA2109/S00072/kiwis-left-in-the-dark-over-interest-deductibility-rules.htm
+title: Kiwis left in the dark over interest deductibility rules
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00072/kiwis-left-in-the-dark-over-interest-deductibility-rules.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/08/kiwis-left-in-the-dark-over-interest-deductibility-rules/index.html
+layout: layout.njk
 ---
 Kiwis left in the dark over interest deductibility rules
 ========================================================

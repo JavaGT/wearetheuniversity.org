@@ -1,9 +1,12 @@
 ---
 slug: speaking-to-youth-about-sexual-health-education
-title: "Speaking to youth about sexual health education"
-date: 2018-07-24
-source-url: https://www.scoop.co.nz/stories/GE1807/S00096/speaking-to-youth-about-sexual-health-education.htm
+title: Speaking to youth about sexual health education
+date: 2018-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00096/speaking-to-youth-about-sexual-health-education.htm
 author: massey-university
+permalink: /archive/2018/07/24/speaking-to-youth-about-sexual-health-education/index.html
+layout: layout.njk
 ---
 Speaking to youth about sexual health education
 ===============================================

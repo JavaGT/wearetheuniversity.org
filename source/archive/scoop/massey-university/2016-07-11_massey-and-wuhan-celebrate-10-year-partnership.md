@@ -1,9 +1,12 @@
 ---
 slug: massey-and-wuhan-celebrate-10-year-partnership
-title: "Massey and Wuhan celebrate 10-year partnership"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/ED1607/S00045/massey-and-wuhan-celebrate-10-year-partnership.htm
+title: Massey and Wuhan celebrate 10-year partnership
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00045/massey-and-wuhan-celebrate-10-year-partnership.htm
 author: massey-university
+permalink: /archive/2016/07/11/massey-and-wuhan-celebrate-10-year-partnership/index.html
+layout: layout.njk
 ---
 Massey and Wuhan celebrate 10-year partnership
 ==============================================

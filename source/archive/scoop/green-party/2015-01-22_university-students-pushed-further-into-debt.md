@@ -1,9 +1,12 @@
 ---
 slug: university-students-pushed-further-into-debt
-title: "University students pushed further into debt"
-date: 2015-01-22
-source-url: https://www.scoop.co.nz/stories/PA1501/S00095/university-students-pushed-further-into-debt.htm
+title: University students pushed further into debt
+date: 2015-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00095/university-students-pushed-further-into-debt.htm
 author: green-party
+permalink: /archive/2015/01/22/university-students-pushed-further-into-debt/index.html
+layout: layout.njk
 ---
 University students pushed further into debt
 ============================================

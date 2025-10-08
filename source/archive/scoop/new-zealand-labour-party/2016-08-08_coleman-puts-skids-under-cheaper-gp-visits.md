@@ -1,9 +1,12 @@
 ---
 slug: coleman-puts-skids-under-cheaper-gp-visits
-title: "Coleman puts skids under cheaper GP visits"
-date: 2016-08-08
-source-url: https://www.scoop.co.nz/stories/PA1608/S00099/coleman-puts-skids-under-cheaper-gp-visits.htm
+title: Coleman puts skids under cheaper GP visits
+date: 2016-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00099/coleman-puts-skids-under-cheaper-gp-visits.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/08/coleman-puts-skids-under-cheaper-gp-visits/index.html
+layout: layout.njk
 ---
 Coleman puts skids under cheaper GP visits
 ==========================================

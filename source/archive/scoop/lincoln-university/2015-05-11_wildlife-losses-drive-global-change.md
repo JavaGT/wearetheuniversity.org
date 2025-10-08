@@ -1,9 +1,12 @@
 ---
 slug: wildlife-losses-drive-global-change
-title: "Wildlife losses drive global change"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/SC1505/S00030/wildlife-losses-drive-global-change.htm
+title: Wildlife losses drive global change
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00030/wildlife-losses-drive-global-change.htm
 author: lincoln-university
+permalink: /archive/2015/05/11/wildlife-losses-drive-global-change/index.html
+layout: layout.njk
 ---
 Wildlife losses drive global change
 ===================================

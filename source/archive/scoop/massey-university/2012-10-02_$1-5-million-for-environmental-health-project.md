@@ -1,9 +1,12 @@
 ---
 slug: $1-5-million-for-environmental-health-project
-title: "$1.5 million for environmental health project"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/SC1210/S00003/15-million-for-environmental-health-project.htm
+title: $1.5 million for environmental health project
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00003/15-million-for-environmental-health-project.htm
 author: massey-university
+permalink: /archive/2012/10/02/1-5-million-for-environmental-health-project/index.html
+layout: layout.njk
 ---
 $1.5 million for environmental health project
 =============================================

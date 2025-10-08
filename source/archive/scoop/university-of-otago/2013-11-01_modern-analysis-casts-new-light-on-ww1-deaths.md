@@ -1,9 +1,12 @@
 ---
 slug: modern-analysis-casts-new-light-on-ww1-deaths
-title: "Modern analysis casts new light on WW1 deaths"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/CU1311/S00003/modern-analysis-casts-new-light-on-ww1-deaths.htm
+title: Modern analysis casts new light on WW1 deaths
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00003/modern-analysis-casts-new-light-on-ww1-deaths.htm
 author: university-of-otago
+permalink: /archive/2013/11/01/modern-analysis-casts-new-light-on-ww1-deaths/index.html
+layout: layout.njk
 ---
 Modern analysis casts new light on WW1 deaths
 =============================================

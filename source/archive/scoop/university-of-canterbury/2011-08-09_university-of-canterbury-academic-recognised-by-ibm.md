@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-academic-recognised-by-ibm
-title: "University of Canterbury academic recognised by IBM"
-date: 2011-08-09
-source-url: https://www.scoop.co.nz/stories/ED1108/S00056/university-of-canterbury-academic-recognised-by-ibm.htm
+title: University of Canterbury academic recognised by IBM
+date: 2011-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00056/university-of-canterbury-academic-recognised-by-ibm.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/08/09/university-of-canterbury-academic-recognised-by-ibm/index.html
+layout: layout.njk
 ---
 University of Canterbury academic recognised by IBM
 ===================================================

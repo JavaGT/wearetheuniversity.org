@@ -1,9 +1,12 @@
 ---
 slug: whats-going-wong-respecting-immigration-rules
-title: "What's Going Wong:  Respecting  immigration rules"
-date: 2005-11-11
-source-url: https://www.scoop.co.nz/stories/PA0511/S00146/whats-going-wong-respecting-immigration-rules.htm
+title: 'What''s Going Wong:  Respecting  immigration rules'
+date: 2005-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00146/whats-going-wong-respecting-immigration-rules.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/11/whats-going-wong-respecting-immigration-rules/index.html
+layout: layout.njk
 ---
 What's Going Wong: Respecting immigration rules
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: weka-bring-hidden-benefits-to-new-zealand-forests
-title: "Weka bring hidden benefits to New Zealand forests"
-date: 2019-08-28
-source-url: https://www.scoop.co.nz/stories/SC1908/S00066/weka-bring-hidden-benefits-to-new-zealand-forests.htm
+title: Weka bring hidden benefits to New Zealand forests
+date: 2019-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1908/S00066/weka-bring-hidden-benefits-to-new-zealand-forests.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/08/28/weka-bring-hidden-benefits-to-new-zealand-forests/index.html
+layout: layout.njk
 ---
 Weka bring hidden benefits to New Zealand forests
 =================================================

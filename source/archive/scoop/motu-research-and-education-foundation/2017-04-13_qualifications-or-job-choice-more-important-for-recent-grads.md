@@ -1,9 +1,13 @@
 ---
 slug: qualifications-or-job-choice-more-important-for-recent-grads
-title: "Qualifications or job choice more important for recent grads?"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/ED1704/S00053/qualifications-or-job-choice-more-important-for-recent-grads.htm
+title: Qualifications or job choice more important for recent grads?
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00053/qualifications-or-job-choice-more-important-for-recent-grads.htm
 author: motu-research-and-education-foundation
+permalink: >-
+  /archive/2017/04/13/qualifications-or-job-choice-more-important-for-recent-grads/index.html
+layout: layout.njk
 ---
 Qualifications or job choice more important for recent grads?
 =============================================================

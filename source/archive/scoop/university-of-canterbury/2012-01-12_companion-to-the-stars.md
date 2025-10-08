@@ -1,9 +1,11 @@
 ---
 slug: companion-to-the-stars
-title: "Companion to the stars"
-date: 2012-01-12
+title: Companion to the stars
+date: 2012-01-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1201/S00011/companion-to-the-stars.htm
 author: university-of-canterbury
+permalink: /archive/2012/01/12/companion-to-the-stars/index.html
+layout: layout.njk
 ---
 Companion to the stars
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: pest-control-savings-irresponsible
-title: "Pest Control Savings Irresponsible"
-date: 2003-12-16
-source-url: https://www.scoop.co.nz/stories/PA0312/S00387/pest-control-savings-irresponsible.htm
+title: Pest Control Savings Irresponsible
+date: 2003-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00387/pest-control-savings-irresponsible.htm
 author: new-zealand-first-party
+permalink: /archive/2003/12/16/pest-control-savings-irresponsible/index.html
+layout: layout.njk
 ---
 Pest Control Savings Irresponsible
 ==================================

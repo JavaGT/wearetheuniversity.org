@@ -1,9 +1,12 @@
 ---
 slug: harawira-emissions-trading-scheme
-title: "Harawira: Emissions Trading Scheme"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/PA0812/S00103/harawira-emissions-trading-scheme.htm
+title: 'Harawira: Emissions Trading Scheme'
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00103/harawira-emissions-trading-scheme.htm
 author: te-pati-maori
+permalink: /archive/2008/12/11/harawira-emissions-trading-scheme/index.html
+layout: layout.njk
 ---
 Harawira: Emissions Trading Scheme
 ==================================

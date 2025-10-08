@@ -1,9 +1,12 @@
 ---
 slug: us-multi-millionaire-funds-research-on-climate
-title: "US multi-millionaire funds research on climate"
-date: 2003-09-29
-source-url: https://www.scoop.co.nz/stories/SC0309/S00109/us-multi-millionaire-funds-research-on-climate.htm
+title: US multi-millionaire funds research on climate
+date: 2003-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0309/S00109/us-multi-millionaire-funds-research-on-climate.htm
 author: waikato-university
+permalink: /archive/2003/09/29/us-multi-millionaire-funds-research-on-climate/index.html
+layout: layout.njk
 ---
 US multi-millionaire funds research on climate
 ==============================================

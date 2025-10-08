@@ -1,9 +1,12 @@
 ---
 slug: government-too-busy-to-consider-5000-new-homes
-title: "Government Too Busy To Consider 5000 New Homes"
-date: 2022-04-20
-source-url: https://www.scoop.co.nz/stories/PA2204/S00142/government-too-busy-to-consider-5000-new-homes.htm
+title: Government Too Busy To Consider 5000 New Homes
+date: 2022-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00142/government-too-busy-to-consider-5000-new-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2022/04/20/government-too-busy-to-consider-5000-new-homes/index.html
+layout: layout.njk
 ---
 Government Too Busy To Consider 5000 New Homes
 ==============================================

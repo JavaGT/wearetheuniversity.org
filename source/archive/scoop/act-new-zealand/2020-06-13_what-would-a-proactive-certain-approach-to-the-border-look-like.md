@@ -1,9 +1,13 @@
 ---
 slug: what-would-a-proactive-certain-approach-to-the-border-look-like
-title: "What Would A Proactive, Certain Approach To The Border Look Like?"
-date: 2020-06-13
-source-url: https://www.scoop.co.nz/stories/PO2006/S00123/what-would-a-proactive-certain-approach-to-the-border-look-like.htm
+title: What Would A Proactive, Certain Approach To The Border Look Like?
+date: 2020-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2006/S00123/what-would-a-proactive-certain-approach-to-the-border-look-like.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/13/what-would-a-proactive-certain-approach-to-the-border-look-like/index.html
+layout: layout.njk
 ---
 What Would A Proactive, Certain Approach To The Border Look Like?
 =================================================================

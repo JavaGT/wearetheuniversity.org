@@ -1,9 +1,12 @@
 ---
 slug: govt-hides-advice-on-whether-law-breaches-bora
-title: "Govt hides advice on whether law breaches BORA"
-date: 2018-07-03
-source-url: https://www.scoop.co.nz/stories/PA1807/S00031/govt-hides-advice-on-whether-law-breaches-bora.htm
+title: Govt hides advice on whether law breaches BORA
+date: 2018-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00031/govt-hides-advice-on-whether-law-breaches-bora.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/03/govt-hides-advice-on-whether-law-breaches-bora/index.html
+layout: layout.njk
 ---
 Govt hides advice on whether law breaches BORA
 ==============================================

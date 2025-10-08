@@ -1,9 +1,13 @@
 ---
 slug: tribunals-maori-sovereignty-report-re-writing-history
-title: "Tribunal’s Maori sovereignty report \"re-writing history\""
-date: 2014-11-14
-source-url: https://www.scoop.co.nz/stories/ED1411/S00096/tribunals-maori-sovereignty-report-re-writing-history.htm
+title: Tribunal’s Maori sovereignty report "re-writing history"
+date: 2014-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00096/tribunals-maori-sovereignty-report-re-writing-history.htm
 author: aut-university
+permalink: >-
+  /archive/2014/11/14/tribunals-maori-sovereignty-report-re-writing-history/index.html
+layout: layout.njk
 ---
 Tribunal’s Maori sovereignty report “re-writing history”
 ========================================================

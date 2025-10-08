@@ -1,9 +1,12 @@
 ---
 slug: proud-of-our-progress-now-lets-get-things-done
-title: "Proud of Our Progress, Now Let’s Get Things Done"
-date: 2018-06-08
-source-url: https://www.scoop.co.nz/stories/PA1806/S00082/proud-of-our-progress-now-lets-get-things-done.htm
+title: Proud of Our Progress, Now Let’s Get Things Done
+date: 2018-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00082/proud-of-our-progress-now-lets-get-things-done.htm
 author: new-zealand-labour-party
+permalink: /archive/2018/06/08/proud-of-our-progress-now-lets-get-things-done/index.html
+layout: layout.njk
 ---
 Proud of Our Progress, Now Let’s Get Things Done
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: my-personal-interest
-title: "My Personal Interest"
-date: 2001-11-13
+title: My Personal Interest
+date: 2001-11-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0111/S00244/my-personal-interest.htm
 author: act-new-zealand
+permalink: /archive/2001/11/13/my-personal-interest/index.html
+layout: layout.njk
 ---
 My Personal Interest
 ====================

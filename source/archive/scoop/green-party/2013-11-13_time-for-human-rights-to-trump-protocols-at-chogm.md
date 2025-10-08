@@ -1,9 +1,13 @@
 ---
 slug: time-for-human-rights-to-trump-protocols-at-chogm
-title: "Time for human rights to trump protocols at CHOGM"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/PA1311/S00225/time-for-human-rights-to-trump-protocols-at-chogm.htm
+title: Time for human rights to trump protocols at CHOGM
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00225/time-for-human-rights-to-trump-protocols-at-chogm.htm
 author: green-party
+permalink: >-
+  /archive/2013/11/13/time-for-human-rights-to-trump-protocols-at-chogm/index.html
+layout: layout.njk
 ---
 Time for human rights to trump protocols at CHOGM
 =================================================

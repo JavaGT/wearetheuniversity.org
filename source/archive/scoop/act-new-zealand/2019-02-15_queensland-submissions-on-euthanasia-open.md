@@ -1,9 +1,12 @@
 ---
 slug: queensland-submissions-on-euthanasia-open
-title: "Queensland Submissions on Euthanasia Open"
-date: 2019-02-15
-source-url: https://www.scoop.co.nz/stories/PA1902/S00124/queensland-submissions-on-euthanasia-open.htm
+title: Queensland Submissions on Euthanasia Open
+date: 2019-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00124/queensland-submissions-on-euthanasia-open.htm
 author: act-new-zealand
+permalink: /archive/2019/02/15/queensland-submissions-on-euthanasia-open/index.html
+layout: layout.njk
 ---
 Queensland Submissions on Euthanasia Open
 =========================================

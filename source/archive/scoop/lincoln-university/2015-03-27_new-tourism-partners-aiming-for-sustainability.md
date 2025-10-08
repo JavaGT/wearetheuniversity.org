@@ -1,9 +1,12 @@
 ---
 slug: new-tourism-partners-aiming-for-sustainability
-title: "New tourism partners aiming for sustainability"
-date: 2015-03-27
-source-url: https://www.scoop.co.nz/stories/BU1503/S00923/new-tourism-partners-aiming-for-sustainability.htm
+title: New tourism partners aiming for sustainability
+date: 2015-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1503/S00923/new-tourism-partners-aiming-for-sustainability.htm
 author: lincoln-university
+permalink: /archive/2015/03/27/new-tourism-partners-aiming-for-sustainability/index.html
+layout: layout.njk
 ---
 New tourism partners aiming for sustainability
 ==============================================

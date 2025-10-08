@@ -1,9 +1,13 @@
 ---
 slug: green-party-co-leader-metiria-turei-resigns-as-co-leader
-title: "Green Party Co-Leader Metiria Turei resigns as Co-leader"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/PA1708/S00188/green-party-co-leader-metiria-turei-resigns-as-co-leader.htm
+title: Green Party Co-Leader Metiria Turei resigns as Co-leader
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00188/green-party-co-leader-metiria-turei-resigns-as-co-leader.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/09/green-party-co-leader-metiria-turei-resigns-as-co-leader/index.html
+layout: layout.njk
 ---
 Green Party Co-Leader Metiria Turei resigns as Co-leader
 ========================================================

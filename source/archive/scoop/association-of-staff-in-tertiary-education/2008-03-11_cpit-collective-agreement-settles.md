@@ -1,9 +1,12 @@
 ---
 slug: cpit-collective-agreement-settles
-title: "CPIT Collective Agreement Settles"
-date: 2008-03-11
-source-url: https://www.scoop.co.nz/stories/ED0803/S00024/cpit-collective-agreement-settles.htm
+title: CPIT Collective Agreement Settles
+date: 2008-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00024/cpit-collective-agreement-settles.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/03/11/cpit-collective-agreement-settles/index.html
+layout: layout.njk
 ---
 CPIT Collective Agreement Settles
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: ombudsman-to-probe-cullen-on-loan-papers
-title: "Ombudsman to probe Cullen on loan papers"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/PA0509/S00203/ombudsman-to-probe-cullen-on-loan-papers.htm
+title: Ombudsman to probe Cullen on loan papers
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00203/ombudsman-to-probe-cullen-on-loan-papers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/08/ombudsman-to-probe-cullen-on-loan-papers/index.html
+layout: layout.njk
 ---
 Ombudsman to probe Cullen on loan papers
 ========================================

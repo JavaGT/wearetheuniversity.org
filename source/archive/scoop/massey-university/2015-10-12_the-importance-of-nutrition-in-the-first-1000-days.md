@@ -1,9 +1,13 @@
 ---
 slug: the-importance-of-nutrition-in-the-first-1000-days
-title: "The importance of nutrition in the first 1000 days"
-date: 2015-10-12
-source-url: https://www.scoop.co.nz/stories/SC1510/S00030/the-importance-of-nutrition-in-the-first-1000-days.htm
+title: The importance of nutrition in the first 1000 days
+date: 2015-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00030/the-importance-of-nutrition-in-the-first-1000-days.htm
 author: massey-university
+permalink: >-
+  /archive/2015/10/12/the-importance-of-nutrition-in-the-first-1000-days/index.html
+layout: layout.njk
 ---
 The importance of nutrition in the first 1000 days
 ==================================================

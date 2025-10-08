@@ -1,9 +1,13 @@
 ---
 slug: national-selects-chris-bishop-as-hutt-south-candidate
-title: "National selects Chris Bishop as Hutt South candidate"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/PO1405/S00357/national-selects-chris-bishop-as-hutt-south-candidate.htm
+title: National selects Chris Bishop as Hutt South candidate
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00357/national-selects-chris-bishop-as-hutt-south-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/22/national-selects-chris-bishop-as-hutt-south-candidate/index.html
+layout: layout.njk
 ---
 National selects Chris Bishop as Hutt South candidate
 =====================================================

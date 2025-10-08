@@ -1,9 +1,13 @@
 ---
 slug: waikato-economist-appointed-to-support-policy-development
-title: "Waikato economist appointed to support policy development"
-date: 2015-08-24
-source-url: https://www.scoop.co.nz/stories/AK1508/S00443/waikato-economist-appointed-to-support-policy-development.htm
+title: Waikato economist appointed to support policy development
+date: 2015-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1508/S00443/waikato-economist-appointed-to-support-policy-development.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/08/24/waikato-economist-appointed-to-support-policy-development/index.html
+layout: layout.njk
 ---
 Waikato economist appointed to support policy development
 =========================================================

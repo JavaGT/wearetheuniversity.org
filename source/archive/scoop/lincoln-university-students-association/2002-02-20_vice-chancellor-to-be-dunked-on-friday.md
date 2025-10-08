@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellor-to-be-dunked-on-friday
-title: "Vice Chancellor To Be Dunked On Friday"
-date: 2002-02-20
-source-url: https://www.scoop.co.nz/stories/ED0202/S00024/vice-chancellor-to-be-dunked-on-friday.htm
+title: Vice Chancellor To Be Dunked On Friday
+date: 2002-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00024/vice-chancellor-to-be-dunked-on-friday.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/02/20/vice-chancellor-to-be-dunked-on-friday/index.html
+layout: layout.njk
 ---
 Vice Chancellor To Be Dunked On Friday
 ======================================

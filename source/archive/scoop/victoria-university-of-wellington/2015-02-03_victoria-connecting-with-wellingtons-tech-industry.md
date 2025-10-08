@@ -1,9 +1,13 @@
 ---
 slug: victoria-connecting-with-wellingtons-tech-industry
-title: "Victoria connecting with Wellington’s tech industry"
-date: 2015-02-03
-source-url: https://www.scoop.co.nz/stories/ED1502/S00009/victoria-connecting-with-wellingtons-tech-industry.htm
+title: Victoria connecting with Wellington’s tech industry
+date: 2015-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00009/victoria-connecting-with-wellingtons-tech-industry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/02/03/victoria-connecting-with-wellingtons-tech-industry/index.html
+layout: layout.njk
 ---
 Victoria connecting with Wellington’s tech industry
 ===================================================

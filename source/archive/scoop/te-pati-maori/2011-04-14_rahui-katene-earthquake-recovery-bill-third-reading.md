@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-earthquake-recovery-bill-third-reading
-title: "Rahui Katene - Earthquake Recovery Bill Third Reading"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00342/rahui-katene-earthquake-recovery-bill-third-reading.htm
+title: Rahui Katene - Earthquake Recovery Bill Third Reading
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00342/rahui-katene-earthquake-recovery-bill-third-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/14/rahui-katene-earthquake-recovery-bill-third-reading/index.html
+layout: layout.njk
 ---
 Rahui Katene - Earthquake Recovery Bill Third Reading
 =====================================================

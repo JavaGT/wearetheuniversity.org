@@ -1,9 +1,12 @@
 ---
 slug: home-affordability-still-falling
-title: "Home affordability still falling"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/PO0610/S00088/home-affordability-still-falling.htm
+title: Home affordability still falling
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00088/home-affordability-still-falling.htm
 author: massey-university
+permalink: /archive/2006/10/10/home-affordability-still-falling/index.html
+layout: layout.njk
 ---
 Home affordability still falling
 ================================

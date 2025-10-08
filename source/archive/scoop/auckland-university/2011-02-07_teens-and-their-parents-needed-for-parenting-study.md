@@ -1,9 +1,13 @@
 ---
 slug: teens-and-their-parents-needed-for-parenting-study
-title: "Teens and their parents needed for parenting study"
-date: 2011-02-07
-source-url: https://www.scoop.co.nz/stories/AK1102/S00266/teens-and-their-parents-needed-for-parenting-study.htm
+title: Teens and their parents needed for parenting study
+date: 2011-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00266/teens-and-their-parents-needed-for-parenting-study.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/02/07/teens-and-their-parents-needed-for-parenting-study/index.html
+layout: layout.njk
 ---
 Teens and their parents needed for parenting study
 ==================================================

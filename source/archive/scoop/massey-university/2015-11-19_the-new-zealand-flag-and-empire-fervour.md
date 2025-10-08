@@ -1,9 +1,12 @@
 ---
 slug: the-new-zealand-flag-and-empire-fervour
-title: "The New Zealand flag and ‘Empire Fervour’"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/ED1511/S00097/the-new-zealand-flag-and-empire-fervour.htm
+title: The New Zealand flag and ‘Empire Fervour’
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00097/the-new-zealand-flag-and-empire-fervour.htm
 author: massey-university
+permalink: /archive/2015/11/19/the-new-zealand-flag-and-empire-fervour/index.html
+layout: layout.njk
 ---
 The New Zealand flag and ‘Empire Fervour’
 =========================================

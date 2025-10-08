@@ -1,9 +1,11 @@
 ---
 slug: acts-free-press-nov-13
-title: "ACT’s Free Press Nov 13"
-date: 2017-11-13
+title: ACT’s Free Press Nov 13
+date: 2017-11-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1711/S00163/acts-free-press-nov-13.htm
 author: act-new-zealand
+permalink: /archive/2017/11/13/acts-free-press-nov-13/index.html
+layout: layout.njk
 ---
 ACT’s Free Press Nov 13
 =======================

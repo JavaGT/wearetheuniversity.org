@@ -1,9 +1,12 @@
 ---
 slug: new-national-research-centre-to-study-work
-title: "New national research centre to study work"
-date: 2006-05-23
-source-url: https://www.scoop.co.nz/stories/AK0605/S00194/new-national-research-centre-to-study-work.htm
+title: New national research centre to study work
+date: 2006-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0605/S00194/new-national-research-centre-to-study-work.htm
 author: aut-university
+permalink: /archive/2006/05/23/new-national-research-centre-to-study-work/index.html
+layout: layout.njk
 ---
 New national research centre to study work
 ==========================================

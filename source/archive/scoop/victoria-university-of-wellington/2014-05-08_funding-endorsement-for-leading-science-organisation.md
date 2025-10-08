@@ -1,9 +1,13 @@
 ---
 slug: funding-endorsement-for-leading-science-organisation
-title: "Funding endorsement for leading science organisation"
-date: 2014-05-08
-source-url: https://www.scoop.co.nz/stories/SC1405/S00022/funding-endorsement-for-leading-science-organisation.htm
+title: Funding endorsement for leading science organisation
+date: 2014-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00022/funding-endorsement-for-leading-science-organisation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/08/funding-endorsement-for-leading-science-organisation/index.html
+layout: layout.njk
 ---
 Funding endorsement for leading science organisation
 ====================================================

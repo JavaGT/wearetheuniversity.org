@@ -1,9 +1,13 @@
 ---
 slug: uc-computer-science-expert-wins-prestigious-teaching-medal
-title: "UC Computer Science Expert Wins Prestigious Teaching Medal"
-date: 2020-09-30
-source-url: https://www.scoop.co.nz/stories/ED2009/S00066/uc-computer-science-expert-wins-prestigious-teaching-medal.htm
+title: UC Computer Science Expert Wins Prestigious Teaching Medal
+date: 2020-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00066/uc-computer-science-expert-wins-prestigious-teaching-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/30/uc-computer-science-expert-wins-prestigious-teaching-medal/index.html
+layout: layout.njk
 ---
 UC Computer Science Expert Wins Prestigious Teaching Medal
 ==========================================================

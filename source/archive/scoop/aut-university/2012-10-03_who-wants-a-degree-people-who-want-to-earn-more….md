@@ -1,9 +1,12 @@
 ---
 slug: who-wants-a-degree-people-who-want-to-earn-more…
-title: "Who wants a degree? People who want to earn more…"
-date: 2012-10-03
-source-url: https://www.scoop.co.nz/stories/ED1210/S00024/who-wants-a-degree-people-who-want-to-earn-more.htm
+title: Who wants a degree? People who want to earn more…
+date: 2012-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00024/who-wants-a-degree-people-who-want-to-earn-more.htm
 author: aut-university
+permalink: /archive/2012/10/03/who-wants-a-degree-people-who-want-to-earn-more/index.html
+layout: layout.njk
 ---
 Who wants a degree? People who want to earn more…
 =================================================

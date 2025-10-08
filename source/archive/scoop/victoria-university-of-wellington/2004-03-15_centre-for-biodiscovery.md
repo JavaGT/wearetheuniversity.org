@@ -1,9 +1,11 @@
 ---
 slug: centre-for-biodiscovery
-title: "Centre for Biodiscovery"
-date: 2004-03-15
+title: Centre for Biodiscovery
+date: 2004-03-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0403/S00059/centre-for-biodiscovery.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/15/centre-for-biodiscovery/index.html
+layout: layout.njk
 ---
 Centre for Biodiscovery
 =======================

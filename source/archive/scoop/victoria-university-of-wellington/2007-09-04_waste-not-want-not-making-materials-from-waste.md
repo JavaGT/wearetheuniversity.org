@@ -1,9 +1,12 @@
 ---
 slug: waste-not-want-not-making-materials-from-waste
-title: "Waste not, want not – making materials from waste"
-date: 2007-09-04
-source-url: https://www.scoop.co.nz/stories/ED0709/S00008/waste-not-want-not-making-materials-from-waste.htm
+title: Waste not, want not – making materials from waste
+date: 2007-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00008/waste-not-want-not-making-materials-from-waste.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/04/waste-not-want-not-making-materials-from-waste/index.html
+layout: layout.njk
 ---
 Waste not, want not – making materials from waste
 =================================================

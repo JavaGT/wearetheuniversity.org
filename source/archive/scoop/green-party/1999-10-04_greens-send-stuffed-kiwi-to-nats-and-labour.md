@@ -1,9 +1,12 @@
 ---
 slug: greens-send-stuffed-kiwi-to-nats-and-labour
-title: "Greens Send Stuffed Kiwi To Nats And Labour"
-date: 1999-10-04
-source-url: https://www.scoop.co.nz/stories/PA9910/S00038/greens-send-stuffed-kiwi-to-nats-and-labour.htm
+title: Greens Send Stuffed Kiwi To Nats And Labour
+date: 1999-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00038/greens-send-stuffed-kiwi-to-nats-and-labour.htm
 author: green-party
+permalink: /archive/1999/10/04/greens-send-stuffed-kiwi-to-nats-and-labour/index.html
+layout: layout.njk
 ---
 Greens Send Stuffed Kiwi To Nats And Labour
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: research-gives-new-clues-to-madagascar-settlement
-title: "Research gives new clues to Madagascar settlement"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/SC1203/S00046/research-gives-new-clues-to-madagascar-settlement.htm
+title: Research gives new clues to Madagascar settlement
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1203/S00046/research-gives-new-clues-to-madagascar-settlement.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/22/research-gives-new-clues-to-madagascar-settlement/index.html
+layout: layout.njk
 ---
 Research gives new clues to Madagascar settlement
 =================================================

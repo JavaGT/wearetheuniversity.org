@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-attempts-to-silence-dissent
-title: "Victoria University attempts to Silence Dissent"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/PO1111/S00548/victoria-university-attempts-to-silence-dissent.htm
+title: Victoria University attempts to Silence Dissent
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00548/victoria-university-attempts-to-silence-dissent.htm
 author: we-are-the-university
+permalink: /archive/2011/11/21/victoria-university-attempts-to-silence-dissent/index.html
+layout: layout.njk
 ---
 Victoria University attempts to Silence Dissent
 ===============================================

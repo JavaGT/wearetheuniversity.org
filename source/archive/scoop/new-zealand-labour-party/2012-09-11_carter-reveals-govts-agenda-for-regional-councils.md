@@ -1,9 +1,13 @@
 ---
 slug: carter-reveals-govts-agenda-for-regional-councils
-title: "Carter reveals Govt’s agenda for regional councils"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/PA1209/S00154/carter-reveals-govts-agenda-for-regional-councils.htm
+title: Carter reveals Govt’s agenda for regional councils
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00154/carter-reveals-govts-agenda-for-regional-councils.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/09/11/carter-reveals-govts-agenda-for-regional-councils/index.html
+layout: layout.njk
 ---
 Carter reveals Govt’s agenda for regional councils
 ==================================================

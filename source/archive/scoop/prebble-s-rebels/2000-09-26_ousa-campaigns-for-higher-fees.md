@@ -1,9 +1,12 @@
 ---
 slug: ousa-campaigns-for-higher-fees
-title: "OUSA Campaigns For Higher Fees"
-date: 2000-09-26
-source-url: https://www.scoop.co.nz/stories/ED0009/S00045/ousa-campaigns-for-higher-fees.htm
+title: OUSA Campaigns For Higher Fees
+date: 2000-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00045/ousa-campaigns-for-higher-fees.htm
 author: prebble-s-rebels
+permalink: /archive/2000/09/26/ousa-campaigns-for-higher-fees/index.html
+layout: layout.njk
 ---
 OUSA Campaigns For Higher Fees
 ==============================

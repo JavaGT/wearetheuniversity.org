@@ -1,9 +1,13 @@
 ---
 slug: return-to-militant-union-control-would-cost-jobs
-title: "Return to Militant Union Control Would Cost Jobs"
-date: 2001-01-23
-source-url: https://www.scoop.co.nz/stories/PA0101/S00083/return-to-militant-union-control-would-cost-jobs.htm
+title: Return to Militant Union Control Would Cost Jobs
+date: 2001-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00083/return-to-militant-union-control-would-cost-jobs.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/01/23/return-to-militant-union-control-would-cost-jobs/index.html
+layout: layout.njk
 ---
 Return to Militant Union Control Would Cost Jobs
 ================================================

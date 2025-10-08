@@ -1,9 +1,13 @@
 ---
 slug: groundbreaking-nz-report-on-trans-and-non-binary-health
-title: "Groundbreaking NZ report on trans and non-binary health"
-date: 2019-09-24
-source-url: https://www.scoop.co.nz/stories/GE1909/S00122/groundbreaking-nz-report-on-trans-and-non-binary-health.htm
+title: Groundbreaking NZ report on trans and non-binary health
+date: 2019-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1909/S00122/groundbreaking-nz-report-on-trans-and-non-binary-health.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/09/24/groundbreaking-nz-report-on-trans-and-non-binary-health/index.html
+layout: layout.njk
 ---
 Groundbreaking NZ report on trans and non-binary health
 =======================================================

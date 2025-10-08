@@ -1,9 +1,12 @@
 ---
 slug: nearly-10%-of-auckland-buses-cancelled-this-year
-title: "Nearly 10% Of Auckland Buses Cancelled This Year"
-date: 2022-11-12
-source-url: https://www.scoop.co.nz/stories/PA2211/S00109/nearly-10-of-auckland-buses-cancelled-this-year.htm
+title: Nearly 10% Of Auckland Buses Cancelled This Year
+date: 2022-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00109/nearly-10-of-auckland-buses-cancelled-this-year.htm
 author: new-zealand-national-party
+permalink: /archive/2022/11/12/nearly-10/index.html
+layout: layout.njk
 ---
 Nearly 10% Of Auckland Buses Cancelled This Year
 ================================================

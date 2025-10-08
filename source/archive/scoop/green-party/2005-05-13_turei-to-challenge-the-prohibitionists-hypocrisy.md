@@ -1,9 +1,13 @@
 ---
 slug: turei-to-challenge-the-prohibitionists-hypocrisy
-title: "Turei To Challenge The Prohibitionists' Hypocrisy"
-date: 2005-05-13
-source-url: https://www.scoop.co.nz/stories/PA0505/S00332/turei-to-challenge-the-prohibitionists-hypocrisy.htm
+title: Turei To Challenge The Prohibitionists' Hypocrisy
+date: 2005-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00332/turei-to-challenge-the-prohibitionists-hypocrisy.htm
 author: green-party
+permalink: >-
+  /archive/2005/05/13/turei-to-challenge-the-prohibitionists-hypocrisy/index.html
+layout: layout.njk
 ---
 Turei To Challenge The Prohibitionists' Hypocrisy
 =================================================

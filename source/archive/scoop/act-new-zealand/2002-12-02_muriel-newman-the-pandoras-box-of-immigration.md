@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-the-pandoras-box-of-immigration
-title: "Muriel Newman: The Pandora's Box of Immigration"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00004/muriel-newman-the-pandoras-box-of-immigration.htm
+title: 'Muriel Newman: The Pandora''s Box of Immigration'
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00004/muriel-newman-the-pandoras-box-of-immigration.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/muriel-newman-the-pandoras-box-of-immigration/index.html
+layout: layout.njk
 ---
 Muriel Newman: The Pandora's Box of Immigration
 ===============================================

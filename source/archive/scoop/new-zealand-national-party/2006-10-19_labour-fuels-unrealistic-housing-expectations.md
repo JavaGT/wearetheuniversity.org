@@ -1,9 +1,12 @@
 ---
 slug: labour-fuels-unrealistic-housing-expectations
-title: "Labour fuels unrealistic housing expectations"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/PA0610/S00369/labour-fuels-unrealistic-housing-expectations.htm
+title: Labour fuels unrealistic housing expectations
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00369/labour-fuels-unrealistic-housing-expectations.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/19/labour-fuels-unrealistic-housing-expectations/index.html
+layout: layout.njk
 ---
 Labour fuels unrealistic housing expectations
 =============================================

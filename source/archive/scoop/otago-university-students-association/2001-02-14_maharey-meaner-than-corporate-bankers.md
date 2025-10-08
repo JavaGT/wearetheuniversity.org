@@ -1,9 +1,12 @@
 ---
 slug: maharey-meaner-than-corporate-bankers
-title: "Maharey Meaner Than Corporate Bankers"
-date: 2001-02-14
-source-url: https://www.scoop.co.nz/stories/ED0102/S00013/maharey-meaner-than-corporate-bankers.htm
+title: Maharey Meaner Than Corporate Bankers
+date: 2001-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00013/maharey-meaner-than-corporate-bankers.htm
 author: otago-university-students-association
+permalink: /archive/2001/02/14/maharey-meaner-than-corporate-bankers/index.html
+layout: layout.njk
 ---
 Maharey Meaner Than Corporate Bankers
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: zero-carbon-bill-is-economic-stabilsation-act-in-drag
-title: "Zero Carbon Bill is Economic Stabilsation Act in drag"
-date: 2019-10-22
-source-url: https://www.scoop.co.nz/stories/PA1910/S00168/zero-carbon-bill-is-economic-stabilsation-act-in-drag.htm
+title: Zero Carbon Bill is Economic Stabilsation Act in drag
+date: 2019-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00168/zero-carbon-bill-is-economic-stabilsation-act-in-drag.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/10/22/zero-carbon-bill-is-economic-stabilsation-act-in-drag/index.html
+layout: layout.njk
 ---
 Zero Carbon Bill is Economic Stabilsation Act in drag
 =====================================================

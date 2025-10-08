@@ -1,9 +1,11 @@
 ---
 slug: building-strong-communities
-title: "Building strong communities"
-date: 2011-11-17
+title: Building strong communities
+date: 2011-11-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1111/S00349/building-strong-communities.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/17/building-strong-communities/index.html
+layout: layout.njk
 ---
 Building strong communities
 ===========================

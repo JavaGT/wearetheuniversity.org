@@ -1,9 +1,12 @@
 ---
 slug: māori-students-ready-to-fight-the-douglas-bill
-title: "Māori Students  ready to fight the Douglas Bill"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PO0909/S00271/maori-students-ready-to-fight-the-douglas-bill.htm
+title: Māori Students  ready to fight the Douglas Bill
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00271/maori-students-ready-to-fight-the-douglas-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/09/23/m/index.html
+layout: layout.njk
 ---
 Māori Students ready to fight the Douglas Bill
 ==============================================

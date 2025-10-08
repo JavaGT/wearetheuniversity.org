@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-designs-new-3d-printed-water-filter
-title: "Canterbury student designs new 3D-printed water filter"
-date: 2018-06-28
-source-url: https://www.scoop.co.nz/stories/ED1806/S00078/canterbury-student-designs-new-3d-printed-water-filter.htm
+title: Canterbury student designs new 3D-printed water filter
+date: 2018-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00078/canterbury-student-designs-new-3d-printed-water-filter.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/28/canterbury-student-designs-new-3d-printed-water-filter/index.html
+layout: layout.njk
 ---
 Canterbury student designs new 3D-printed water filter
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: siva-kilari-selected-as-nationals-candidate-in-manurewa
-title: "Siva Kilari selected as National’s candidate in Manurewa"
-date: 2023-02-18
-source-url: https://www.scoop.co.nz/stories/PO2302/S00095/siva-kilari-selected-as-nationals-candidate-in-manurewa.htm
+title: Siva Kilari selected as National’s candidate in Manurewa
+date: 2023-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00095/siva-kilari-selected-as-nationals-candidate-in-manurewa.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/18/siva-kilari-selected-as-nationals-candidate-in-manurewa/index.html
+layout: layout.njk
 ---
 Siva Kilari selected as National’s candidate in Manurewa
 ========================================================

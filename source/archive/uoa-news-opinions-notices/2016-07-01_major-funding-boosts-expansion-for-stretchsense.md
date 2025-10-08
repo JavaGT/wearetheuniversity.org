@@ -1,8 +1,11 @@
 ---
 slug: major-funding-boosts-expansion-for-stretchsense
-title: "Major funding boosts expansion for StretchSense"
-date: 2016-07-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/major-funding-boosts-expansion-for-stretchsense.html
+title: Major funding boosts expansion for StretchSense
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/major-funding-boosts-expansion-for-stretchsense.html
+permalink: /archive/2016/07/01/major-funding-boosts-expansion-for-stretchsense/index.html
+layout: layout.njk
 ---
 Major funding boosts expansion for StretchSense
 ===============================================

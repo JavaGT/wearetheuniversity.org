@@ -1,9 +1,12 @@
 ---
 slug: teamwork-the-key-to-success-academy-told
-title: "Teamwork the key to success, academy told"
-date: 2011-06-01
-source-url: https://www.scoop.co.nz/stories/ED1106/S00008/teamwork-the-key-to-success-academy-told.htm
+title: Teamwork the key to success, academy told
+date: 2011-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00008/teamwork-the-key-to-success-academy-told.htm
 author: massey-university
+permalink: /archive/2011/06/01/teamwork-the-key-to-success-academy-told/index.html
+layout: layout.njk
 ---
 Teamwork the key to success, academy told
 =========================================

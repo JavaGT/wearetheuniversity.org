@@ -1,9 +1,12 @@
 ---
 slug: nihal-to-become-a-doctor-of-science
-title: "Nihal to become a Doctor of Science"
-date: 2015-10-12
-source-url: https://www.scoop.co.nz/stories/ED1510/S00054/nihal-to-become-a-doctor-of-science.htm
+title: Nihal to become a Doctor of Science
+date: 2015-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00054/nihal-to-become-a-doctor-of-science.htm
 author: university-of-waikato
+permalink: /archive/2015/10/12/nihal-to-become-a-doctor-of-science/index.html
+layout: layout.njk
 ---
 Nihal to become a Doctor of Science
 ===================================

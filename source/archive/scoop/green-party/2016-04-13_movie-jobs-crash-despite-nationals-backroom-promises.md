@@ -1,9 +1,13 @@
 ---
 slug: movie-jobs-crash-despite-nationals-backroom-promises
-title: "Movie jobs crash despite National’s backroom promises"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/PA1604/S00218/movie-jobs-crash-despite-nationals-backroom-promises.htm
+title: Movie jobs crash despite National’s backroom promises
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00218/movie-jobs-crash-despite-nationals-backroom-promises.htm
 author: green-party
+permalink: >-
+  /archive/2016/04/13/movie-jobs-crash-despite-nationals-backroom-promises/index.html
+layout: layout.njk
 ---
 Movie jobs crash despite National’s backroom promises
 =====================================================

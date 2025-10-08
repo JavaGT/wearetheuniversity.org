@@ -1,9 +1,12 @@
 ---
 slug: design-and-arts-college-vote-to-strike!
-title: "Design and Arts College vote to strike!"
-date: 2005-04-28
-source-url: https://www.scoop.co.nz/stories/ED0504/S00088/design-and-arts-college-vote-to-strike.htm
+title: Design and Arts College vote to strike!
+date: 2005-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00088/design-and-arts-college-vote-to-strike.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/04/28/design-and-arts-college-vote-to-strike/index.html
+layout: layout.njk
 ---
 Design and Arts College vote to strike!
 =======================================

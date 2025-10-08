@@ -1,9 +1,12 @@
 ---
 slug: kindy-teacher-lay-off-after-govt-funding-cuts
-title: "Kindy teacher lay off after Govt funding cuts"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00227/kindy-teacher-lay-off-after-govt-funding-cuts.htm
+title: Kindy teacher lay off after Govt funding cuts
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00227/kindy-teacher-lay-off-after-govt-funding-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/15/kindy-teacher-lay-off-after-govt-funding-cuts/index.html
+layout: layout.njk
 ---
 Kindy teacher lay off after Govt funding cuts
 =============================================

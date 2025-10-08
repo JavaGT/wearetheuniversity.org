@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-appoints-professor-of-nursing
-title: "Auckland University appoints Professor of Nursing"
-date: 2004-07-16
-source-url: https://www.scoop.co.nz/stories/ED0407/S00055/auckland-university-appoints-professor-of-nursing.htm
+title: Auckland University appoints Professor of Nursing
+date: 2004-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00055/auckland-university-appoints-professor-of-nursing.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/07/16/auckland-university-appoints-professor-of-nursing/index.html
+layout: layout.njk
 ---
 Auckland University appoints Professor of Nursing
 =================================================

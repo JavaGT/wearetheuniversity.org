@@ -1,9 +1,12 @@
 ---
 slug: invalid-benefit-for-over-16s-tops-80000
-title: "Invalid benefit for over-16s tops 80,000"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/PA0710/S00567/invalid-benefit-for-over-16s-tops-80000.htm
+title: Invalid benefit for over-16s tops 80,000
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00567/invalid-benefit-for-over-16s-tops-80000.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/30/invalid-benefit-for-over-16s-tops-80000/index.html
+layout: layout.njk
 ---
 Invalid benefit for over-16s tops 80,000
 ========================================

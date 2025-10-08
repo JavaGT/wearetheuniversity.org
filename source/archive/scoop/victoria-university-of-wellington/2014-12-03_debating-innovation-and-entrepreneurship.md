@@ -1,9 +1,12 @@
 ---
 slug: debating-innovation-and-entrepreneurship
-title: "Debating innovation and entrepreneurship"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/ED1412/S00020/debating-innovation-and-entrepreneurship.htm
+title: Debating innovation and entrepreneurship
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00020/debating-innovation-and-entrepreneurship.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/03/debating-innovation-and-entrepreneurship/index.html
+layout: layout.njk
 ---
 Debating innovation and entrepreneurship
 ========================================

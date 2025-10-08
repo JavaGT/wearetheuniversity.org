@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-wrong-on-wsu-money
-title: "Waikato University Wrong On WSU Money"
-date: 2009-07-29
-source-url: https://www.scoop.co.nz/stories/ED0907/S00102/waikato-university-wrong-on-wsu-money.htm
+title: Waikato University Wrong On WSU Money
+date: 2009-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00102/waikato-university-wrong-on-wsu-money.htm
 author: student-choice
+permalink: /archive/2009/07/29/waikato-university-wrong-on-wsu-money/index.html
+layout: layout.njk
 ---
 Waikato University Wrong On WSU Money
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: inaugural-graduates-of-the-victoria-plus-award
-title: "Inaugural graduates of the Victoria Plus Award"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/ED0812/S00045/inaugural-graduates-of-the-victoria-plus-award.htm
+title: Inaugural graduates of the Victoria Plus Award
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00045/inaugural-graduates-of-the-victoria-plus-award.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/12/11/inaugural-graduates-of-the-victoria-plus-award/index.html
+layout: layout.njk
 ---
 Inaugural graduates of the Victoria Plus Award
 ==============================================

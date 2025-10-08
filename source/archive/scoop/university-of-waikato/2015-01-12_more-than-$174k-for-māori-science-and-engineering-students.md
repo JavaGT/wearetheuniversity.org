@@ -1,9 +1,12 @@
 ---
 slug: more-than-$174k-for-māori-science-and-engineering-students
-title: "More than $174K for Māori science and engineering students"
-date: 2015-01-12
-source-url: https://www.scoop.co.nz/stories/ED1501/S00016/more-than-174k-for-maori-science-and-engineering-students.htm
+title: More than $174K for Māori science and engineering students
+date: 2015-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00016/more-than-174k-for-maori-science-and-engineering-students.htm
 author: university-of-waikato
+permalink: /archive/2015/01/12/more-than-/index.html
+layout: layout.njk
 ---
 More than $174K for Māori science and engineering students
 ==========================================================

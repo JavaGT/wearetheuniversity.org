@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-2012-arts-fellowships-announced-today
-title: "University of Otago 2012 Arts Fellowships announced today"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/CU1109/S00196/university-of-otago-2012-arts-fellowships-announced-today.htm
+title: University of Otago 2012 Arts Fellowships announced today
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00196/university-of-otago-2012-arts-fellowships-announced-today.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/13/university-of-otago-2012-arts-fellowships-announced-today/index.html
+layout: layout.njk
 ---
 University of Otago 2012 Arts Fellowships announced today
 =========================================================

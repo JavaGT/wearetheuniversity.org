@@ -1,9 +1,12 @@
 ---
 slug: student-combating-tuberculosis-with-algorithms
-title: "Student combating tuberculosis with algorithms"
-date: 2017-12-18
-source-url: https://www.scoop.co.nz/stories/SC1712/S00034/student-combating-tuberculosis-with-algorithms.htm
+title: Student combating tuberculosis with algorithms
+date: 2017-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1712/S00034/student-combating-tuberculosis-with-algorithms.htm
 author: lincoln-university
+permalink: /archive/2017/12/18/student-combating-tuberculosis-with-algorithms/index.html
+layout: layout.njk
 ---
 Student combating tuberculosis with algorithms
 ==============================================

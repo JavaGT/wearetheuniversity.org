@@ -1,9 +1,13 @@
 ---
 slug: otago-invention-helps-manage-inflammatory-bowel-disease
-title: "Otago invention helps manage Inflammatory Bowel Disease"
-date: 2018-11-23
-source-url: https://www.scoop.co.nz/stories/GE1811/S00090/otago-invention-helps-manage-inflammatory-bowel-disease.htm
+title: Otago invention helps manage Inflammatory Bowel Disease
+date: 2018-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00090/otago-invention-helps-manage-inflammatory-bowel-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/23/otago-invention-helps-manage-inflammatory-bowel-disease/index.html
+layout: layout.njk
 ---
 Otago invention helps manage Inflammatory Bowel Disease
 =======================================================

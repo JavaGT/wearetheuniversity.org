@@ -1,9 +1,12 @@
 ---
 slug: bright-future-shows-national-is-listening
-title: "Bright Future shows National is listening"
-date: 1999-08-19
-source-url: https://www.scoop.co.nz/stories/PA9908/S00334/bright-future-shows-national-is-listening.htm
+title: Bright Future shows National is listening
+date: 1999-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00334/bright-future-shows-national-is-listening.htm
 author: new-zealand-national-party
+permalink: /archive/1999/08/19/bright-future-shows-national-is-listening/index.html
+layout: layout.njk
 ---
 Bright Future shows National is listening
 =========================================

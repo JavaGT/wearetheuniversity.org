@@ -1,9 +1,12 @@
 ---
 slug: green-mps-should-condemn-crop-sabotage
-title: "Green MPs Should Condemn Crop Sabotage"
-date: 2002-01-14
-source-url: https://www.scoop.co.nz/stories/PA0201/S00039/green-mps-should-condemn-crop-sabotage.htm
+title: Green MPs Should Condemn Crop Sabotage
+date: 2002-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00039/green-mps-should-condemn-crop-sabotage.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/14/green-mps-should-condemn-crop-sabotage/index.html
+layout: layout.njk
 ---
 Green MPs Should Condemn Crop Sabotage
 ======================================

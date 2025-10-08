@@ -1,9 +1,12 @@
 ---
 slug: pay-freeze-must-target-senior-bureaucrats
-title: "Pay freeze must target senior bureaucrats"
-date: 2018-08-21
-source-url: https://www.scoop.co.nz/stories/PA1808/S00237/pay-freeze-must-target-senior-bureaucrats.htm
+title: Pay freeze must target senior bureaucrats
+date: 2018-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00237/pay-freeze-must-target-senior-bureaucrats.htm
 author: act-new-zealand
+permalink: /archive/2018/08/21/pay-freeze-must-target-senior-bureaucrats/index.html
+layout: layout.njk
 ---
 Pay freeze must target senior bureaucrats
 =========================================

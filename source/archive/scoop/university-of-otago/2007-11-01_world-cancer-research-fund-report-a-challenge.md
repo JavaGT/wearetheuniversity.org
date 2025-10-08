@@ -1,9 +1,12 @@
 ---
 slug: world-cancer-research-fund-report-a-challenge
-title: "World Cancer Research Fund Report a challenge"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/GE0711/S00020/world-cancer-research-fund-report-a-challenge.htm
+title: World Cancer Research Fund Report a challenge
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00020/world-cancer-research-fund-report-a-challenge.htm
 author: university-of-otago
+permalink: /archive/2007/11/01/world-cancer-research-fund-report-a-challenge/index.html
+layout: layout.njk
 ---
 World Cancer Research Fund Report a challenge
 =============================================

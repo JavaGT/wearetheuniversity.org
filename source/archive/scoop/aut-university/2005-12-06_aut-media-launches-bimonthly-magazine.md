@@ -1,9 +1,12 @@
 ---
 slug: aut-media-launches-bimonthly-magazine
-title: "AUT Media launches bimonthly magazine"
-date: 2005-12-06
-source-url: https://www.scoop.co.nz/stories/ED0512/S00024/aut-media-launches-bimonthly-magazine.htm
+title: AUT Media launches bimonthly magazine
+date: 2005-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00024/aut-media-launches-bimonthly-magazine.htm
 author: aut-university
+permalink: /archive/2005/12/06/aut-media-launches-bimonthly-magazine/index.html
+layout: layout.njk
 ---
 AUT Media launches bimonthly magazine
 =====================================

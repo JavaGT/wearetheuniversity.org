@@ -1,9 +1,13 @@
 ---
 slug: isolation-darkness-and-science-the-first-winter-at-vanda-station
-title: "Isolation, Darkness And Science – The First Winter At Vanda Station"
-date: 2022-09-20
-source-url: https://www.scoop.co.nz/stories/SC2209/S00037/isolation-darkness-and-science-the-first-winter-at-vanda-station.htm
+title: Isolation, Darkness And Science – The First Winter At Vanda Station
+date: 2022-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2209/S00037/isolation-darkness-and-science-the-first-winter-at-vanda-station.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/09/20/isolation-darkness-and-science-the-first-winter-at-vanda-station/index.html
+layout: layout.njk
 ---
 Isolation, Darkness And Science – The First Winter At Vanda Station
 ===================================================================

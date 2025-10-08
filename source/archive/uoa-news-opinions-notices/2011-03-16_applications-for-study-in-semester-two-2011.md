@@ -1,8 +1,11 @@
 ---
 slug: applications-for-study-in-semester-two-2011
-title: "Applications for study in Semester Two 2011"
-date: 2011-03-16
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/16/Applications-for-study-in-Semester-Two-2011.html
+title: Applications for study in Semester Two 2011
+date: 2011-03-16T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/16/Applications-for-study-in-Semester-Two-2011.html
+permalink: /archive/2011/03/16/applications-for-study-in-semester-two-2011/index.html
+layout: layout.njk
 ---
 Applications for study in Semester Two 2011
 ===========================================

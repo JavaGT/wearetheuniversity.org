@@ -1,9 +1,12 @@
 ---
 slug: mallards-axe-a-cruel-blow-for-wairoa
-title: "Mallard's Axe, A Cruel Blow For Wairoa"
-date: 2004-02-02
-source-url: https://www.scoop.co.nz/stories/PA0402/S00002/mallards-axe-a-cruel-blow-for-wairoa.htm
+title: Mallard's Axe, A Cruel Blow For Wairoa
+date: 2004-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00002/mallards-axe-a-cruel-blow-for-wairoa.htm
 author: act-new-zealand
+permalink: /archive/2004/02/02/mallards-axe-a-cruel-blow-for-wairoa/index.html
+layout: layout.njk
 ---
 Mallard's Axe, A Cruel Blow For Wairoa
 ======================================

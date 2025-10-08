@@ -1,9 +1,12 @@
 ---
 slug: tour-of-duty-an-anti-war-crusade
-title: "Tour Of Duty An Anti-War Crusade"
-date: 2003-02-21
-source-url: https://www.scoop.co.nz/stories/PA0302/S00404/tour-of-duty-an-anti-war-crusade.htm
+title: Tour Of Duty An Anti-War Crusade
+date: 2003-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00404/tour-of-duty-an-anti-war-crusade.htm
 author: green-party
+permalink: /archive/2003/02/21/tour-of-duty-an-anti-war-crusade/index.html
+layout: layout.njk
 ---
 Tour Of Duty An Anti-War Crusade
 ================================

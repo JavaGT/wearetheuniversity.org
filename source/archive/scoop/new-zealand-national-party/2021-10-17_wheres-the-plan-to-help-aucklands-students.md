@@ -1,9 +1,12 @@
 ---
 slug: wheres-the-plan-to-help-aucklands-students
-title: "Where’s The Plan To Help Auckland’s Students?"
-date: 2021-10-17
-source-url: https://www.scoop.co.nz/stories/PA2110/S00159/wheres-the-plan-to-help-aucklands-students.htm
+title: Where’s The Plan To Help Auckland’s Students?
+date: 2021-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00159/wheres-the-plan-to-help-aucklands-students.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/17/wheres-the-plan-to-help-aucklands-students/index.html
+layout: layout.njk
 ---
 Where’s The Plan To Help Auckland’s Students?
 =============================================

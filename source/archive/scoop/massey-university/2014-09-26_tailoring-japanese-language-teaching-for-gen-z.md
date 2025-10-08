@@ -1,9 +1,12 @@
 ---
 slug: tailoring-japanese-language-teaching-for-gen-z
-title: "Tailoring Japanese language teaching for Gen Z"
-date: 2014-09-26
-source-url: https://www.scoop.co.nz/stories/ED1409/S00160/tailoring-japanese-language-teaching-for-gen-z.htm
+title: Tailoring Japanese language teaching for Gen Z
+date: 2014-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00160/tailoring-japanese-language-teaching-for-gen-z.htm
 author: massey-university
+permalink: /archive/2014/09/26/tailoring-japanese-language-teaching-for-gen-z/index.html
+layout: layout.njk
 ---
 Tailoring Japanese language teaching for Gen Z
 ==============================================

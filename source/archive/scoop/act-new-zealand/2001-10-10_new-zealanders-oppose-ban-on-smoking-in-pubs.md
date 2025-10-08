@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-oppose-ban-on-smoking-in-pubs
-title: "New Zealanders Oppose Ban on Smoking In Pubs"
-date: 2001-10-10
-source-url: https://www.scoop.co.nz/stories/PA0110/S00217/new-zealanders-oppose-ban-on-smoking-in-pubs.htm
+title: New Zealanders Oppose Ban on Smoking In Pubs
+date: 2001-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00217/new-zealanders-oppose-ban-on-smoking-in-pubs.htm
 author: act-new-zealand
+permalink: /archive/2001/10/10/new-zealanders-oppose-ban-on-smoking-in-pubs/index.html
+layout: layout.njk
 ---
 New Zealanders Oppose Ban on Smoking In Pubs
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: uc-launches-quakestudies-2-0
-title: "UC launches QuakeStudies 2.0"
-date: 2018-02-20
+title: UC launches QuakeStudies 2.0
+date: 2018-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1802/S00046/uc-launches-quakestudies-20.htm
 author: university-of-canterbury
+permalink: /archive/2018/02/20/uc-launches-quakestudies-2-0/index.html
+layout: layout.njk
 ---
 UC launches QuakeStudies 2.0
 ============================

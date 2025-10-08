@@ -1,9 +1,12 @@
 ---
 slug: speech-labour-leader-helen-clark
-title: "Speech:  Labour Leader Helen Clark"
-date: 1999-10-31
-source-url: https://www.scoop.co.nz/stories/PA9910/S00714/speech-labour-leader-helen-clark.htm
+title: 'Speech:  Labour Leader Helen Clark'
+date: 1999-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00714/speech-labour-leader-helen-clark.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/31/speech-labour-leader-helen-clark/index.html
+layout: layout.njk
 ---
 Speech: Labour Leader Helen Clark
 =================================

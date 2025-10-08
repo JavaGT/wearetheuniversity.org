@@ -1,9 +1,12 @@
 ---
 slug: the-brash-report-ratana-to-waitangi-via-orewa
-title: "The Brash Report: Ratana To Waitangi Via Orewa"
-date: 2004-02-11
-source-url: https://www.scoop.co.nz/stories/PA0402/S00174/the-brash-report-ratana-to-waitangi-via-orewa.htm
+title: 'The Brash Report: Ratana To Waitangi Via Orewa'
+date: 2004-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00174/the-brash-report-ratana-to-waitangi-via-orewa.htm
 author: new-zealand-national-party
+permalink: /archive/2004/02/11/the-brash-report-ratana-to-waitangi-via-orewa/index.html
+layout: layout.njk
 ---
 The Brash Report: Ratana To Waitangi Via Orewa
 ==============================================

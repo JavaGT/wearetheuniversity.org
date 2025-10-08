@@ -1,9 +1,13 @@
 ---
 slug: nandor-concerned-about-placement-of-metro-students
-title: "Nandor Concerned About Placement Of Metro Students"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/PA0112/S00327/nandor-concerned-about-placement-of-metro-students.htm
+title: Nandor Concerned About Placement Of Metro Students
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00327/nandor-concerned-about-placement-of-metro-students.htm
 author: green-party
+permalink: >-
+  /archive/2001/12/18/nandor-concerned-about-placement-of-metro-students/index.html
+layout: layout.njk
 ---
 Nandor Concerned About Placement Of Metro Students
 ==================================================

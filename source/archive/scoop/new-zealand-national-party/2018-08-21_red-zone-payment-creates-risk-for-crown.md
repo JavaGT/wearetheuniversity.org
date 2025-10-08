@@ -1,9 +1,12 @@
 ---
 slug: red-zone-payment-creates-risk-for-crown
-title: "Red Zone payment creates risk for Crown"
-date: 2018-08-21
-source-url: https://www.scoop.co.nz/stories/PA1808/S00247/red-zone-payment-creates-risk-for-crown.htm
+title: Red Zone payment creates risk for Crown
+date: 2018-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00247/red-zone-payment-creates-risk-for-crown.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/21/red-zone-payment-creates-risk-for-crown/index.html
+layout: layout.njk
 ---
 Red Zone payment creates risk for Crown
 =======================================

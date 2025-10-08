@@ -1,9 +1,13 @@
 ---
 slug: canterbury-university-hosts-higher-education-forum
-title: "Canterbury University hosts higher education forum"
-date: 2003-07-04
-source-url: https://www.scoop.co.nz/stories/ED0307/S00013/canterbury-university-hosts-higher-education-forum.htm
+title: Canterbury University hosts higher education forum
+date: 2003-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00013/canterbury-university-hosts-higher-education-forum.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2003/07/04/canterbury-university-hosts-higher-education-forum/index.html
+layout: layout.njk
 ---
 Canterbury University hosts higher education forum
 ==================================================

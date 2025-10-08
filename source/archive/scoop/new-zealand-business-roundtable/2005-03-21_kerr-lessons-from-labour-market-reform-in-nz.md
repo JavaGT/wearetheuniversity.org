@@ -1,9 +1,12 @@
 ---
 slug: kerr-lessons-from-labour-market-reform-in-nz
-title: "Kerr - Lessons From Labour Market Reform in NZ"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/BU0503/S00236/kerr-lessons-from-labour-market-reform-in-nz.htm
+title: Kerr - Lessons From Labour Market Reform in NZ
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0503/S00236/kerr-lessons-from-labour-market-reform-in-nz.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/03/21/kerr-lessons-from-labour-market-reform-in-nz/index.html
+layout: layout.njk
 ---
 Kerr - Lessons From Labour Market Reform in NZ
 ==============================================

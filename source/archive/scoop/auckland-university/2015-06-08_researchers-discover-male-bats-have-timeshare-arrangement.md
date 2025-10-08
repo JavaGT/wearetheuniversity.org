@@ -1,9 +1,13 @@
 ---
 slug: researchers-discover-male-bats-have-timeshare-arrangement
-title: "Researchers discover male bats have ‘timeshare’ arrangement"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/SC1506/S00034/researchers-discover-male-bats-have-timeshare-arrangement.htm
+title: Researchers discover male bats have ‘timeshare’ arrangement
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00034/researchers-discover-male-bats-have-timeshare-arrangement.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/06/08/researchers-discover-male-bats-have-timeshare-arrangement/index.html
+layout: layout.njk
 ---
 Researchers discover male bats have ‘timeshare’ arrangement
 ===========================================================

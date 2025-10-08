@@ -1,9 +1,13 @@
 ---
 slug: alpine-fault-eq-will-involve-infrastructure-challenges
-title: "Alpine fault EQ will involve infrastructure challenges"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/AK1504/S00520/alpine-fault-eq-will-involve-infrastructure-challenges.htm
+title: Alpine fault EQ will involve infrastructure challenges
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1504/S00520/alpine-fault-eq-will-involve-infrastructure-challenges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/23/alpine-fault-eq-will-involve-infrastructure-challenges/index.html
+layout: layout.njk
 ---
 Alpine fault EQ will involve infrastructure challenges
 ======================================================

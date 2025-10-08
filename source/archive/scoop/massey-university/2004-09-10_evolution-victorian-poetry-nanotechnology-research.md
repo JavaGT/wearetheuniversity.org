@@ -1,9 +1,13 @@
 ---
 slug: evolution-victorian-poetry-nanotechnology-research
-title: "Evolution Victorian poetry nanotechnology research"
-date: 2004-09-10
-source-url: https://www.scoop.co.nz/stories/ED0409/S00038/evolution-victorian-poetry-nanotechnology-research.htm
+title: Evolution Victorian poetry nanotechnology research
+date: 2004-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00038/evolution-victorian-poetry-nanotechnology-research.htm
 author: massey-university
+permalink: >-
+  /archive/2004/09/10/evolution-victorian-poetry-nanotechnology-research/index.html
+layout: layout.njk
 ---
 Evolution Victorian poetry nanotechnology research
 ==================================================

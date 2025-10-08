@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-to-explain-wider-benefits-of-project-loon
-title: "Canterbury student to explain wider benefits of Project Loon"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/ED1411/S00049/canterbury-student-to-explain-wider-benefits-of-project-loon.htm
+title: Canterbury student to explain wider benefits of Project Loon
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00049/canterbury-student-to-explain-wider-benefits-of-project-loon.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/07/canterbury-student-to-explain-wider-benefits-of-project-loon/index.html
+layout: layout.njk
 ---
 Canterbury student to explain wider benefits of Project Loon
 ============================================================

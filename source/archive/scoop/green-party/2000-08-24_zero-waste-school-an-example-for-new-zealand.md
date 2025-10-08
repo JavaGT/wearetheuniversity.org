@@ -1,9 +1,12 @@
 ---
 slug: zero-waste-school-an-example-for-new-zealand
-title: "Zero waste school an example for New Zealand"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00486/zero-waste-school-an-example-for-new-zealand.htm
+title: Zero waste school an example for New Zealand
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00486/zero-waste-school-an-example-for-new-zealand.htm
 author: green-party
+permalink: /archive/2000/08/24/zero-waste-school-an-example-for-new-zealand/index.html
+layout: layout.njk
 ---
 Zero waste school an example for New Zealand
 ============================================

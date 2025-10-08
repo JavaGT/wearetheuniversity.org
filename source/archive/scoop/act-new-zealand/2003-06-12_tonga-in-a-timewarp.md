@@ -1,9 +1,11 @@
 ---
 slug: tonga-in-a-timewarp
-title: "Tonga In A Timewarp"
-date: 2003-06-12
+title: Tonga In A Timewarp
+date: 2003-06-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0306/S00195/tonga-in-a-timewarp.htm
 author: act-new-zealand
+permalink: /archive/2003/06/12/tonga-in-a-timewarp/index.html
+layout: layout.njk
 ---
 Tonga In A Timewarp
 ===================

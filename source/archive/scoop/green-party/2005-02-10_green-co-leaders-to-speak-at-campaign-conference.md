@@ -1,9 +1,13 @@
 ---
 slug: green-co-leaders-to-speak-at-campaign-conference
-title: "Green Co-Leaders to speak at Campaign Conference"
-date: 2005-02-10
-source-url: https://www.scoop.co.nz/stories/PA0502/S00232/green-co-leaders-to-speak-at-campaign-conference.htm
+title: Green Co-Leaders to speak at Campaign Conference
+date: 2005-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00232/green-co-leaders-to-speak-at-campaign-conference.htm
 author: green-party
+permalink: >-
+  /archive/2005/02/10/green-co-leaders-to-speak-at-campaign-conference/index.html
+layout: layout.njk
 ---
 Green Co-Leaders to speak at Campaign Conference
 ================================================

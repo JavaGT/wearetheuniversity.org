@@ -1,9 +1,13 @@
 ---
 slug: canterbury-has-a-new-chaplain-radio-show-host-spanky-moore
-title: "Canterbury has a new chaplain - radio show host Spanky Moore"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/AK1406/S00539/canterbury-has-a-new-chaplain-radio-show-host-spanky-moore.htm
+title: Canterbury has a new chaplain - radio show host Spanky Moore
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00539/canterbury-has-a-new-chaplain-radio-show-host-spanky-moore.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/25/canterbury-has-a-new-chaplain-radio-show-host-spanky-moore/index.html
+layout: layout.njk
 ---
 Canterbury has a new chaplain - radio show host Spanky Moore
 ============================================================

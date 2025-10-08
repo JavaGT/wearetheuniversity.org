@@ -1,9 +1,13 @@
 ---
 slug: cabinet-reckless-to-ignore-advice-on-charter-school-teachers
-title: "Cabinet reckless to ignore advice on charter school teachers"
-date: 2012-09-04
-source-url: https://www.scoop.co.nz/stories/PA1209/S00032/cabinet-reckless-to-ignore-advice-on-charter-school-teachers.htm
+title: Cabinet reckless to ignore advice on charter school teachers
+date: 2012-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00032/cabinet-reckless-to-ignore-advice-on-charter-school-teachers.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/09/04/cabinet-reckless-to-ignore-advice-on-charter-school-teachers/index.html
+layout: layout.njk
 ---
 Cabinet reckless to ignore advice on charter school teachers
 ============================================================

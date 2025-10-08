@@ -1,9 +1,12 @@
 ---
 slug: turning-medical-brain-drain-to-brain-gain
-title: "Turning Medical ‘Brain Drain’ To ‘Brain Gain’"
-date: 2004-05-26
-source-url: https://www.scoop.co.nz/stories/ED0405/S00095/turning-medical-brain-drain-to-brain-gain.htm
+title: Turning Medical ‘Brain Drain’ To ‘Brain Gain’
+date: 2004-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00095/turning-medical-brain-drain-to-brain-gain.htm
 author: university-of-otago
+permalink: /archive/2004/05/26/turning-medical-brain-drain-to-brain-gain/index.html
+layout: layout.njk
 ---
 Turning Medical ‘Brain Drain’ To ‘Brain Gain’
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-funding-coup
-title: "Victoria University Funding Coup"
-date: 2008-07-18
-source-url: https://www.scoop.co.nz/stories/ED0807/S00061/victoria-university-funding-coup.htm
+title: Victoria University Funding Coup
+date: 2008-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00061/victoria-university-funding-coup.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/07/18/victoria-university-funding-coup/index.html
+layout: layout.njk
 ---
 Victoria University Funding Coup
 ================================

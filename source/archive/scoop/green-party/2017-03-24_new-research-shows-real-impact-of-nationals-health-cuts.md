@@ -1,9 +1,13 @@
 ---
 slug: new-research-shows-real-impact-of-nationals-health-cuts
-title: "New research shows real impact of National’s health cuts"
-date: 2017-03-24
-source-url: https://www.scoop.co.nz/stories/PA1703/S00433/new-research-shows-real-impact-of-nationals-health-cuts.htm
+title: New research shows real impact of National’s health cuts
+date: 2017-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00433/new-research-shows-real-impact-of-nationals-health-cuts.htm
 author: green-party
+permalink: >-
+  /archive/2017/03/24/new-research-shows-real-impact-of-nationals-health-cuts/index.html
+layout: layout.njk
 ---
 New research shows real impact of National’s health cuts
 ========================================================

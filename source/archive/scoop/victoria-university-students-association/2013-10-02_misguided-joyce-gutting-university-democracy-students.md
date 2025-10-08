@@ -1,9 +1,13 @@
 ---
 slug: misguided-joyce-gutting-university-democracy-students
-title: "Misguided Joyce Gutting University Democracy -Students"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/PO1310/S00021/misguided-joyce-gutting-university-democracy-students.htm
+title: Misguided Joyce Gutting University Democracy -Students
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1310/S00021/misguided-joyce-gutting-university-democracy-students.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2013/10/02/misguided-joyce-gutting-university-democracy-students/index.html
+layout: layout.njk
 ---
 Misguided Joyce Gutting University Democracy -Students
 ======================================================

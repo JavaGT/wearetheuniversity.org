@@ -1,9 +1,13 @@
 ---
 slug: treasury-describes-eqc-claimants-as-weary-and-distrustful
-title: "Treasury describes EQC claimants as \"weary and distrustful\""
-date: 2016-03-23
-source-url: https://www.scoop.co.nz/stories/PA1603/S00396/treasury-describes-eqc-claimants-as-weary-and-distrustful.htm
+title: Treasury describes EQC claimants as "weary and distrustful"
+date: 2016-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00396/treasury-describes-eqc-claimants-as-weary-and-distrustful.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/23/treasury-describes-eqc-claimants-as-weary-and-distrustful/index.html
+layout: layout.njk
 ---
 Treasury describes EQC claimants as “weary and distrustful”
 ===========================================================

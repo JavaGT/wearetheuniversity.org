@@ -1,9 +1,12 @@
 ---
 slug: parker-to-look-into-1080-dumps
-title: "Parker to look into 1080 dumps"
-date: 2005-07-11
-source-url: https://www.scoop.co.nz/stories/PA0507/S00233/parker-to-look-into-1080-dumps.htm
+title: Parker to look into 1080 dumps
+date: 2005-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00233/parker-to-look-into-1080-dumps.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/07/11/parker-to-look-into-1080-dumps/index.html
+layout: layout.njk
 ---
 Parker to look into 1080 dumps
 ==============================

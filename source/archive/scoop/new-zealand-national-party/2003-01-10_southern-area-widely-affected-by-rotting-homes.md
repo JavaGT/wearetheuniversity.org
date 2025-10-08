@@ -1,9 +1,12 @@
 ---
 slug: southern-area-widely-affected-by-rotting-homes
-title: "Southern area widely affected by rotting homes"
-date: 2003-01-10
-source-url: https://www.scoop.co.nz/stories/PA0301/S00050/southern-area-widely-affected-by-rotting-homes.htm
+title: Southern area widely affected by rotting homes
+date: 2003-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00050/southern-area-widely-affected-by-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/10/southern-area-widely-affected-by-rotting-homes/index.html
+layout: layout.njk
 ---
 Southern area widely affected by rotting homes
 ==============================================

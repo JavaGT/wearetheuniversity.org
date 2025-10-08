@@ -1,9 +1,11 @@
 ---
 slug: coming-to-terms-conference
-title: "\"Coming To Terms?\" Conference"
-date: 2008-06-13
+title: '"Coming To Terms?" Conference'
+date: 2008-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0806/S00154/coming-to-terms-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/06/13/coming-to-terms-conference/index.html
+layout: layout.njk
 ---
 "Coming To Terms?" Conference
 =============================

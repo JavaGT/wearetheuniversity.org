@@ -1,9 +1,13 @@
 ---
 slug: getting-to-zero-global-social-work-responds-to-hiv
-title: "Getting to Zero: Global Social Work Responds to HIV"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/GE1703/S00060/getting-to-zero-global-social-work-responds-to-hiv.htm
+title: 'Getting to Zero: Global Social Work Responds to HIV'
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00060/getting-to-zero-global-social-work-responds-to-hiv.htm
 author: massey-university
+permalink: >-
+  /archive/2017/03/22/getting-to-zero-global-social-work-responds-to-hiv/index.html
+layout: layout.njk
 ---
 Getting to Zero: Global Social Work Responds to HIV
 ===================================================

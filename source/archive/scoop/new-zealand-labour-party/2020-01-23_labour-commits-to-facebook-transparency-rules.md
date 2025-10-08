@@ -1,9 +1,12 @@
 ---
 slug: labour-commits-to-facebook-transparency-rules
-title: "Labour commits to Facebook transparency rules"
-date: 2020-01-23
-source-url: https://www.scoop.co.nz/stories/PA2001/S00080/labour-commits-to-facebook-transparency-rules.htm
+title: Labour commits to Facebook transparency rules
+date: 2020-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00080/labour-commits-to-facebook-transparency-rules.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/01/23/labour-commits-to-facebook-transparency-rules/index.html
+layout: layout.njk
 ---
 Labour commits to Facebook transparency rules
 =============================================

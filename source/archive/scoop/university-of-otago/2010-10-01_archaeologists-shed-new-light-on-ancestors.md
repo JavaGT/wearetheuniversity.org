@@ -1,9 +1,12 @@
 ---
 slug: archaeologists-shed-new-light-on-ancestors
-title: "Archaeologists shed new light on ancestors"
-date: 2010-10-01
-source-url: https://www.scoop.co.nz/stories/SC1010/S00001/archaeologists-shed-new-light-on-ancestors.htm
+title: Archaeologists shed new light on ancestors
+date: 2010-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1010/S00001/archaeologists-shed-new-light-on-ancestors.htm
 author: university-of-otago
+permalink: /archive/2010/10/01/archaeologists-shed-new-light-on-ancestors/index.html
+layout: layout.njk
 ---
 Archaeologists shed new light on ancestors
 ==========================================

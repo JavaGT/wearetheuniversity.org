@@ -1,9 +1,12 @@
 ---
 slug: time-for-robertson-to-front-up
-title: "Time for Robertson to front up"
-date: 2017-11-30
-source-url: https://www.scoop.co.nz/stories/PA1711/S00193/time-for-robertson-to-front-up.htm
+title: Time for Robertson to front up
+date: 2017-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00193/time-for-robertson-to-front-up.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/30/time-for-robertson-to-front-up/index.html
+layout: layout.njk
 ---
 Time for Robertson to front up
 ==============================

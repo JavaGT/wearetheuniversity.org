@@ -1,9 +1,12 @@
 ---
 slug: nationals-spin-machine-ignores-harsh-reality
-title: "National’s spin machine ignores harsh reality"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/PA1210/S00180/nationals-spin-machine-ignores-harsh-reality.htm
+title: National’s spin machine ignores harsh reality
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00180/nationals-spin-machine-ignores-harsh-reality.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/10/nationals-spin-machine-ignores-harsh-reality/index.html
+layout: layout.njk
 ---
 National’s spin machine ignores harsh reality
 =============================================

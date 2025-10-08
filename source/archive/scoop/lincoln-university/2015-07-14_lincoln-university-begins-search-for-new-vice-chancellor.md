@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-begins-search-for-new-vice-chancellor
-title: "Lincoln University begins  search for new Vice-Chancellor"
-date: 2015-07-14
-source-url: https://www.scoop.co.nz/stories/ED1507/S00068/lincoln-university-begins-search-for-new-vice-chancellor.htm
+title: Lincoln University begins  search for new Vice-Chancellor
+date: 2015-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00068/lincoln-university-begins-search-for-new-vice-chancellor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/07/14/lincoln-university-begins-search-for-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 Lincoln University begins search for new Vice-Chancellor
 ========================================================

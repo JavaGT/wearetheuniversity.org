@@ -1,9 +1,13 @@
 ---
 slug: united-states-moving-towards-drink-driving-limit-of-0-05
-title: "United States moving towards drink driving limit of 0.05"
-date: 2013-11-04
-source-url: https://www.scoop.co.nz/stories/SC1311/S00009/united-states-moving-towards-drink-driving-limit-of-005.htm
+title: United States moving towards drink driving limit of 0.05
+date: 2013-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00009/united-states-moving-towards-drink-driving-limit-of-005.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/11/04/united-states-moving-towards-drink-driving-limit-of-0-05/index.html
+layout: layout.njk
 ---
 United States moving towards drink driving limit of 0.05
 ========================================================

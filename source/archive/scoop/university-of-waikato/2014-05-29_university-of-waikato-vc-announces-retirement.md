@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-vc-announces-retirement
-title: "University of Waikato VC announces retirement"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/ED1405/S00150/university-of-waikato-vc-announces-retirement.htm
+title: University of Waikato VC announces retirement
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00150/university-of-waikato-vc-announces-retirement.htm
 author: university-of-waikato
+permalink: /archive/2014/05/29/university-of-waikato-vc-announces-retirement/index.html
+layout: layout.njk
 ---
 University of Waikato VC announces retirement
 =============================================

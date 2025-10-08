@@ -1,9 +1,13 @@
 ---
 slug: act-announces-jamie-whyte-as-pakuranga-candidate
-title: "ACT announces Jamie Whyte as Pakuranga candidate"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/PO1407/S00334/act-announces-jamie-whyte-as-pakuranga-candidate.htm
+title: ACT announces Jamie Whyte as Pakuranga candidate
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00334/act-announces-jamie-whyte-as-pakuranga-candidate.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/07/22/act-announces-jamie-whyte-as-pakuranga-candidate/index.html
+layout: layout.njk
 ---
 ACT announces Jamie Whyte as Pakuranga candidate
 ================================================

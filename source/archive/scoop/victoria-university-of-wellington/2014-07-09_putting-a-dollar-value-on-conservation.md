@@ -1,9 +1,12 @@
 ---
 slug: putting-a-dollar-value-on-conservation
-title: "Putting a dollar value on conservation"
-date: 2014-07-09
-source-url: https://www.scoop.co.nz/stories/AK1407/S00145/putting-a-dollar-value-on-conservation.htm
+title: Putting a dollar value on conservation
+date: 2014-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1407/S00145/putting-a-dollar-value-on-conservation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/09/putting-a-dollar-value-on-conservation/index.html
+layout: layout.njk
 ---
 Putting a dollar value on conservation
 ======================================

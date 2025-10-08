@@ -1,9 +1,13 @@
 ---
 slug: christopher-luxon-india-new-zealand-summit-speech
-title: "Christopher Luxon - India–New Zealand Summit Speech"
-date: 2023-04-18
-source-url: https://www.scoop.co.nz/stories/PA2304/S00105/christopher-luxon-india-new-zealand-summit-speech.htm
+title: Christopher Luxon - India–New Zealand Summit Speech
+date: 2023-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00105/christopher-luxon-india-new-zealand-summit-speech.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/04/18/christopher-luxon-india-new-zealand-summit-speech/index.html
+layout: layout.njk
 ---
 Christopher Luxon - India–New Zealand Summit Speech
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: candidates-announced-for-te-tai-tonga-electorate
-title: "Candidates Announced For Te Tai Tonga Electorate"
-date: 2008-07-09
-source-url: https://www.scoop.co.nz/stories/PA0807/S00180/candidates-announced-for-te-tai-tonga-electorate.htm
+title: Candidates Announced For Te Tai Tonga Electorate
+date: 2008-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00180/candidates-announced-for-te-tai-tonga-electorate.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/07/09/candidates-announced-for-te-tai-tonga-electorate/index.html
+layout: layout.njk
 ---
 Candidates Announced For Te Tai Tonga Electorate
 ================================================

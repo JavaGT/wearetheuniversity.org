@@ -1,9 +1,13 @@
 ---
 slug: budget-2023-needs-to-unlock-funding-for-learning-support
-title: "Budget 2023 Needs To Unlock Funding For Learning Support"
-date: 2022-11-17
-source-url: https://www.scoop.co.nz/stories/PO2211/S00108/budget-2023-needs-to-unlock-funding-for-learning-support.htm
+title: Budget 2023 Needs To Unlock Funding For Learning Support
+date: 2022-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2211/S00108/budget-2023-needs-to-unlock-funding-for-learning-support.htm
 author: nzei
+permalink: >-
+  /archive/2022/11/17/budget-2023-needs-to-unlock-funding-for-learning-support/index.html
+layout: layout.njk
 ---
 Budget 2023 Needs To Unlock Funding For Learning Support
 ========================================================

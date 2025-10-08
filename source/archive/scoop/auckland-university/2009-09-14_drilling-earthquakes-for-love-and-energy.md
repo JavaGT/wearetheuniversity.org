@@ -1,9 +1,12 @@
 ---
 slug: drilling-earthquakes-for-love-and-energy
-title: "Drilling Earthquakes For Love And Energy"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/SC0909/S00027/drilling-earthquakes-for-love-and-energy.htm
+title: Drilling Earthquakes For Love And Energy
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00027/drilling-earthquakes-for-love-and-energy.htm
 author: auckland-university
+permalink: /archive/2009/09/14/drilling-earthquakes-for-love-and-energy/index.html
+layout: layout.njk
 ---
 Drilling Earthquakes For Love And Energy
 ========================================

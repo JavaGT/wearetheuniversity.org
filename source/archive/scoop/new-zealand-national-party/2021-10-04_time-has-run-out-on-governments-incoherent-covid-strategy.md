@@ -1,9 +1,13 @@
 ---
 slug: time-has-run-out-on-governments-incoherent-covid-strategy
-title: "Time Has Run Out On Government’s Incoherent Covid Strategy"
-date: 2021-10-04
-source-url: https://www.scoop.co.nz/stories/PA2110/S00035/time-has-run-out-on-governments-incoherent-covid-strategy.htm
+title: Time Has Run Out On Government’s Incoherent Covid Strategy
+date: 2021-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00035/time-has-run-out-on-governments-incoherent-covid-strategy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/04/time-has-run-out-on-governments-incoherent-covid-strategy/index.html
+layout: layout.njk
 ---
 Time Has Run Out On Government’s Incoherent Covid Strategy
 ==========================================================

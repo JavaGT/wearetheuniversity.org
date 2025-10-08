@@ -1,9 +1,12 @@
 ---
 slug: university-staff-hope-for-better-things
-title: "University staff hope for better things"
-date: 2000-03-14
-source-url: https://www.scoop.co.nz/stories/ED0003/S00023/university-staff-hope-for-better-things.htm
+title: University staff hope for better things
+date: 2000-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00023/university-staff-hope-for-better-things.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/14/university-staff-hope-for-better-things/index.html
+layout: layout.njk
 ---
 University staff hope for better things
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-whos-the-most-endangered-of-them-all
-title: "Sharples: Who’s the Most Endangered of them all?"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/PA0710/S00552/sharples-whos-the-most-endangered-of-them-all.htm
+title: 'Sharples: Who’s the Most Endangered of them all?'
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00552/sharples-whos-the-most-endangered-of-them-all.htm
 author: te-pati-maori
+permalink: /archive/2007/10/30/sharples-whos-the-most-endangered-of-them-all/index.html
+layout: layout.njk
 ---
 Sharples: Who’s the Most Endangered of them all?
 ================================================

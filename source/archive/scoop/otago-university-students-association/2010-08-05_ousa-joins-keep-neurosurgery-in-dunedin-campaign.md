@@ -1,9 +1,13 @@
 ---
 slug: ousa-joins-keep-neurosurgery-in-dunedin-campaign
-title: "OUSA joins ‘Keep Neurosurgery in Dunedin’ Campaign"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/GE1008/S00026/ousa-joins-keep-neurosurgery-in-dunedin-campaign.htm
+title: OUSA joins ‘Keep Neurosurgery in Dunedin’ Campaign
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1008/S00026/ousa-joins-keep-neurosurgery-in-dunedin-campaign.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2010/08/05/ousa-joins-keep-neurosurgery-in-dunedin-campaign/index.html
+layout: layout.njk
 ---
 OUSA joins ‘Keep Neurosurgery in Dunedin’ Campaign
 ==================================================

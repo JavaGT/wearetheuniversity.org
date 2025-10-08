@@ -1,9 +1,13 @@
 ---
 slug: labours-alternative-to-nationals-environmental-destruction
-title: "Labour’s Alternative to National’s Environmental Destruction"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/PA1405/S00072/labours-alternative-to-nationals-environmental-destruction.htm
+title: Labour’s Alternative to National’s Environmental Destruction
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00072/labours-alternative-to-nationals-environmental-destruction.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/05/06/labours-alternative-to-nationals-environmental-destruction/index.html
+layout: layout.njk
 ---
 Labour’s Alternative to National’s Environmental Destruction
 ============================================================

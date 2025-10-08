@@ -1,9 +1,12 @@
 ---
 slug: minister-wont-fess-up-on-wrong-figures
-title: "Minister won’t fess up on wrong figures"
-date: 2016-05-25
-source-url: https://www.scoop.co.nz/stories/PA1605/S00479/minister-wont-fess-up-on-wrong-figures.htm
+title: Minister won’t fess up on wrong figures
+date: 2016-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00479/minister-wont-fess-up-on-wrong-figures.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/25/minister-wont-fess-up-on-wrong-figures/index.html
+layout: layout.njk
 ---
 Minister won’t fess up on wrong figures
 =======================================

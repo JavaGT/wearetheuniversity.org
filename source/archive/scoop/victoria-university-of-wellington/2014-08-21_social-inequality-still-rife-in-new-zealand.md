@@ -1,9 +1,12 @@
 ---
 slug: social-inequality-still-rife-in-new-zealand
-title: "Social inequality still rife in New Zealand"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PO1408/S00352/social-inequality-still-rife-in-new-zealand.htm
+title: Social inequality still rife in New Zealand
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00352/social-inequality-still-rife-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/21/social-inequality-still-rife-in-new-zealand/index.html
+layout: layout.njk
 ---
 Social inequality still rife in New Zealand
 ===========================================

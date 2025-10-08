@@ -1,9 +1,12 @@
 ---
 slug: greens-make-mid-term-portfolio-reshuffle
-title: "Greens Make Mid-term Portfolio Reshuffle"
-date: 2001-05-22
-source-url: https://www.scoop.co.nz/stories/PA0105/S00429/greens-make-mid-term-portfolio-reshuffle.htm
+title: Greens Make Mid-term Portfolio Reshuffle
+date: 2001-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00429/greens-make-mid-term-portfolio-reshuffle.htm
 author: green-party
+permalink: /archive/2001/05/22/greens-make-mid-term-portfolio-reshuffle/index.html
+layout: layout.njk
 ---
 Greens Make Mid-term Portfolio Reshuffle
 ========================================

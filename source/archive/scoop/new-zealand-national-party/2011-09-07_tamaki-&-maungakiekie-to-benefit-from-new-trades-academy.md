@@ -1,9 +1,12 @@
 ---
 slug: tamaki-&-maungakiekie-to-benefit-from-new-trades-academy
-title: "Tamaki & Maungakiekie to benefit from new Trades Academy"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00156/tamaki-maungakiekie-to-benefit-from-new-trades-academy.htm
+title: Tamaki & Maungakiekie to benefit from new Trades Academy
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00156/tamaki-maungakiekie-to-benefit-from-new-trades-academy.htm
 author: new-zealand-national-party
+permalink: /archive/2011/09/07/tamaki-/index.html
+layout: layout.njk
 ---
 Tamaki & Maungakiekie to benefit from new Trades Academy
 ========================================================

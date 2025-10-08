@@ -1,9 +1,12 @@
 ---
 slug: government-gives-up-on-growth
-title: "Government Gives Up On Growth"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/BU0405/S00306/government-gives-up-on-growth.htm
+title: Government Gives Up On Growth
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0405/S00306/government-gives-up-on-growth.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/05/27/government-gives-up-on-growth/index.html
+layout: layout.njk
 ---
 Government Gives Up On Growth
 =============================

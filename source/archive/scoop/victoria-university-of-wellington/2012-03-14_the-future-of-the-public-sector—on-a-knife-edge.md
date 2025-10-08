@@ -1,9 +1,12 @@
 ---
 slug: the-future-of-the-public-sector—on-a-knife-edge
-title: "The future of the public sector—on a knife edge"
-date: 2012-03-14
-source-url: https://www.scoop.co.nz/stories/PO1203/S00170/the-future-of-the-public-sector-on-a-knife-edge.htm
+title: The future of the public sector—on a knife edge
+date: 2012-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00170/the-future-of-the-public-sector-on-a-knife-edge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/03/14/the-future-of-the-public-sector/index.html
+layout: layout.njk
 ---
 The future of the public sector—on a knife edge
 ===============================================

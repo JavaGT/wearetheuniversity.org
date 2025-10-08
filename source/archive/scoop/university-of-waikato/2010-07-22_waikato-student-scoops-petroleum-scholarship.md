@@ -1,9 +1,12 @@
 ---
 slug: waikato-student-scoops-petroleum-scholarship
-title: "Waikato student scoops petroleum scholarship"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/ED1007/S00074/waikato-student-scoops-petroleum-scholarship.htm
+title: Waikato student scoops petroleum scholarship
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00074/waikato-student-scoops-petroleum-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2010/07/22/waikato-student-scoops-petroleum-scholarship/index.html
+layout: layout.njk
 ---
 Waikato student scoops petroleum scholarship
 ============================================

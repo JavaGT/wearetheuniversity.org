@@ -1,9 +1,12 @@
 ---
 slug: will-john-key-stop-delaying-auckland-city-rail
-title: "Will John Key stop delaying  Auckland  City Rail?"
-date: 2014-09-29
-source-url: https://www.scoop.co.nz/stories/PA1409/S00316/will-john-key-stop-delaying-auckland-city-rail.htm
+title: Will John Key stop delaying  Auckland  City Rail?
+date: 2014-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00316/will-john-key-stop-delaying-auckland-city-rail.htm
 author: green-party
+permalink: /archive/2014/09/29/will-john-key-stop-delaying-auckland-city-rail/index.html
+layout: layout.njk
 ---
 Will John Key stop delaying Auckland City Rail?
 ===============================================

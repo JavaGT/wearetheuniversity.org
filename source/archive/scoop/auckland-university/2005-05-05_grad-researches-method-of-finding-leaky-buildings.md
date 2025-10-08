@@ -1,9 +1,13 @@
 ---
 slug: grad-researches-method-of-finding-leaky-buildings
-title: "Grad Researches Method Of Finding Leaky Buildings"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/SC0505/S00016/grad-researches-method-of-finding-leaky-buildings.htm
+title: Grad Researches Method Of Finding Leaky Buildings
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0505/S00016/grad-researches-method-of-finding-leaky-buildings.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/05/05/grad-researches-method-of-finding-leaky-buildings/index.html
+layout: layout.njk
 ---
 Grad Researches Method Of Finding Leaky Buildings
 =================================================

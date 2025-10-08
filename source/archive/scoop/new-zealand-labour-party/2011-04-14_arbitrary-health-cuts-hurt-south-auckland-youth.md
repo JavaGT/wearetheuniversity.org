@@ -1,9 +1,12 @@
 ---
 slug: arbitrary-health-cuts-hurt-south-auckland-youth
-title: "Arbitrary health cuts hurt South Auckland youth"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00318/arbitrary-health-cuts-hurt-south-auckland-youth.htm
+title: Arbitrary health cuts hurt South Auckland youth
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00318/arbitrary-health-cuts-hurt-south-auckland-youth.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/14/arbitrary-health-cuts-hurt-south-auckland-youth/index.html
+layout: layout.njk
 ---
 Arbitrary health cuts hurt South Auckland youth
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: loss-of-a-freedom-fighter-by-roger-kerr
-title: "Loss of a Freedom Fighter - By Roger Kerr"
-date: 2006-12-06
-source-url: https://www.scoop.co.nz/stories/BU0612/S00085/loss-of-a-freedom-fighter-by-roger-kerr.htm
+title: Loss of a Freedom Fighter - By Roger Kerr
+date: 2006-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0612/S00085/loss-of-a-freedom-fighter-by-roger-kerr.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/12/06/loss-of-a-freedom-fighter-by-roger-kerr/index.html
+layout: layout.njk
 ---
 Loss of a Freedom Fighter - By Roger Kerr
 =========================================

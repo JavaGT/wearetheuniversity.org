@@ -1,9 +1,12 @@
 ---
 slug: lincoln-contesting-megacity-education-market
-title: "Lincoln contesting megacity education market"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/ED1504/S00031/lincoln-contesting-megacity-education-market.htm
+title: Lincoln contesting megacity education market
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00031/lincoln-contesting-megacity-education-market.htm
 author: lincoln-university
+permalink: /archive/2015/04/13/lincoln-contesting-megacity-education-market/index.html
+layout: layout.njk
 ---
 Lincoln contesting megacity education market
 ============================================

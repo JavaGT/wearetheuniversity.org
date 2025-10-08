@@ -1,9 +1,12 @@
 ---
 slug: teacher-to-face-suspension-under-electoral-act
-title: "Teacher to face suspension under Electoral Act"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/GE0809/S00157/teacher-to-face-suspension-under-electoral-act.htm
+title: Teacher to face suspension under Electoral Act
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00157/teacher-to-face-suspension-under-electoral-act.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2008/09/25/teacher-to-face-suspension-under-electoral-act/index.html
+layout: layout.njk
 ---
 Teacher to face suspension under Electoral Act
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: usp-conducts-workshop-on-understanding-addiction
-title: "USP Conducts Workshop On Understanding Addiction"
-date: 2024-07-19
-source-url: https://www.scoop.co.nz/stories/GE2407/S00094/usp-conducts-workshop-on-understanding-addiction.htm
+title: USP Conducts Workshop On Understanding Addiction
+date: 2024-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2407/S00094/usp-conducts-workshop-on-understanding-addiction.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/07/19/usp-conducts-workshop-on-understanding-addiction/index.html
+layout: layout.njk
 ---
 USP Conducts Workshop On Understanding Addiction
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-challenge-indonesian-president
-title: "Greens challenge Indonesian President"
-date: 2005-04-06
-source-url: https://www.scoop.co.nz/stories/PA0504/S00124/greens-challenge-indonesian-president.htm
+title: Greens challenge Indonesian President
+date: 2005-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00124/greens-challenge-indonesian-president.htm
 author: green-party
+permalink: /archive/2005/04/06/greens-challenge-indonesian-president/index.html
+layout: layout.njk
 ---
 Greens challenge Indonesian President
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: discussing-fiction-with-elizabeth-knox
-title: "Discussing Fiction with Elizabeth Knox"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/CU1610/S00019/discussing-fiction-with-elizabeth-knox.htm
+title: Discussing Fiction with Elizabeth Knox
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00019/discussing-fiction-with-elizabeth-knox.htm
 author: university-of-waikato
+permalink: /archive/2016/10/03/discussing-fiction-with-elizabeth-knox/index.html
+layout: layout.njk
 ---
 Discussing Fiction with Elizabeth Knox
 ======================================

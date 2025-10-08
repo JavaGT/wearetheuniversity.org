@@ -1,9 +1,12 @@
 ---
 slug: who-goes-first-at-air-new-zealand
-title: "Who Goes First At Air New Zealand?"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00058/who-goes-first-at-air-new-zealand.htm
+title: Who Goes First At Air New Zealand?
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00058/who-goes-first-at-air-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2001/10/03/who-goes-first-at-air-new-zealand/index.html
+layout: layout.njk
 ---
 Who Goes First At Air New Zealand?
 ==================================

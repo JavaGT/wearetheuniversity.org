@@ -1,9 +1,12 @@
 ---
 slug: vic-students-celebrate-1st-civil-union-victory
-title: "Vic Students Celebrate 1st Civil Union Victory"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/ED0406/S00090/vic-students-celebrate-1st-civil-union-victory.htm
+title: Vic Students Celebrate 1st Civil Union Victory
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00090/vic-students-celebrate-1st-civil-union-victory.htm
 author: victoria-university-students-association
+permalink: /archive/2004/06/25/vic-students-celebrate-1st-civil-union-victory/index.html
+layout: layout.njk
 ---
 Vic Students Celebrate 1st Civil Union Victory
 ==============================================

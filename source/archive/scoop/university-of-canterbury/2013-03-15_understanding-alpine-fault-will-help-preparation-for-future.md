@@ -1,9 +1,13 @@
 ---
 slug: understanding-alpine-fault-will-help-preparation-for-future
-title: "Understanding Alpine Fault Will Help Preparation For Future"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/ED1303/S00110/understanding-alpine-fault-will-help-preparation-for-future.htm
+title: Understanding Alpine Fault Will Help Preparation For Future
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00110/understanding-alpine-fault-will-help-preparation-for-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/15/understanding-alpine-fault-will-help-preparation-for-future/index.html
+layout: layout.njk
 ---
 Understanding Alpine Fault Will Help Preparation For Future
 ===========================================================

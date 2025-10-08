@@ -1,9 +1,13 @@
 ---
 slug: maori-business-leaders-awards-2016-winners-announced
-title: "Maori Business Leaders Awards 2016 winners announced"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/BU1605/S00445/maori-business-leaders-awards-2016-winners-announced.htm
+title: Maori Business Leaders Awards 2016 winners announced
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1605/S00445/maori-business-leaders-awards-2016-winners-announced.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2016/05/16/maori-business-leaders-awards-2016-winners-announced/index.html
+layout: layout.njk
 ---
 Maori Business Leaders Awards 2016 winners announced
 ====================================================

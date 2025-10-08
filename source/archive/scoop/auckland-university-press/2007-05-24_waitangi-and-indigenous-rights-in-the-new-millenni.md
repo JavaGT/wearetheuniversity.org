@@ -1,9 +1,13 @@
 ---
 slug: waitangi-and-indigenous-rights-in-the-new-millenni
-title: "Waitangi and indigenous rights in the new millenni"
-date: 2007-05-24
-source-url: https://www.scoop.co.nz/stories/CU0705/S00267/waitangi-and-indigenous-rights-in-the-new-millenni.htm
+title: Waitangi and indigenous rights in the new millenni
+date: 2007-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0705/S00267/waitangi-and-indigenous-rights-in-the-new-millenni.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2007/05/24/waitangi-and-indigenous-rights-in-the-new-millenni/index.html
+layout: layout.njk
 ---
 Waitangi and indigenous rights in the new millenni
 ==================================================

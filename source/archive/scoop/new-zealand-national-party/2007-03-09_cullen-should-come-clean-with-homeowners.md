@@ -1,9 +1,12 @@
 ---
 slug: cullen-should-come-clean-with-homeowners
-title: "Cullen should come clean with homeowners"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/PA0703/S00163/cullen-should-come-clean-with-homeowners.htm
+title: Cullen should come clean with homeowners
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00163/cullen-should-come-clean-with-homeowners.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/09/cullen-should-come-clean-with-homeowners/index.html
+layout: layout.njk
 ---
 Cullen should come clean with homeowners
 ========================================

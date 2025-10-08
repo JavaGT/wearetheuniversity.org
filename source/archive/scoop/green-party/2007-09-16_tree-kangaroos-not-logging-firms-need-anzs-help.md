@@ -1,9 +1,12 @@
 ---
 slug: tree-kangaroos-not-logging-firms-need-anzs-help
-title: "Tree kangaroos, not logging firms, need ANZ's help"
-date: 2007-09-16
-source-url: https://www.scoop.co.nz/stories/PA0709/S00278/tree-kangaroos-not-logging-firms-need-anzs-help.htm
+title: Tree kangaroos, not logging firms, need ANZ's help
+date: 2007-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00278/tree-kangaroos-not-logging-firms-need-anzs-help.htm
 author: green-party
+permalink: /archive/2007/09/16/tree-kangaroos-not-logging-firms-need-anzs-help/index.html
+layout: layout.njk
 ---
 Tree kangaroos, not logging firms, need ANZ's help
 ==================================================

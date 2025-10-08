@@ -1,9 +1,11 @@
 ---
 slug: lux-festival-postponed
-title: "LUX Festival Postponed"
-date: 2013-06-21
+title: LUX Festival Postponed
+date: 2013-06-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1306/S00519/lux-festival-postponed.htm
 author: massey-university
+permalink: /archive/2013/06/21/lux-festival-postponed/index.html
+layout: layout.njk
 ---
 LUX Festival Postponed
 ======================

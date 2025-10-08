@@ -1,9 +1,12 @@
 ---
 slug: forever-kiwi-surveying-new-zealand-values
-title: "Forever Kiwi – Surveying New Zealand values"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/ED0507/S00057/forever-kiwi-surveying-new-zealand-values.htm
+title: Forever Kiwi – Surveying New Zealand values
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00057/forever-kiwi-surveying-new-zealand-values.htm
 author: massey-university
+permalink: /archive/2005/07/18/forever-kiwi-surveying-new-zealand-values/index.html
+layout: layout.njk
 ---
 Forever Kiwi – Surveying New Zealand values
 ===========================================

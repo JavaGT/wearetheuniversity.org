@@ -1,9 +1,12 @@
 ---
 slug: nz-must-urgently-help-whanau-in-lebanon
-title: "NZ Must Urgently Help Whanau In Lebanon"
-date: 2024-09-25
-source-url: https://www.scoop.co.nz/stories/PA2409/S00235/nz-must-urgently-help-whanau-in-lebanon.htm
+title: NZ Must Urgently Help Whanau In Lebanon
+date: 2024-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00235/nz-must-urgently-help-whanau-in-lebanon.htm
 author: green-party
+permalink: /archive/2024/09/25/nz-must-urgently-help-whanau-in-lebanon/index.html
+layout: layout.njk
 ---
 NZ Must Urgently Help Whanau In Lebanon
 =======================================

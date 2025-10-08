@@ -1,9 +1,12 @@
 ---
 slug: national-is-going-for-growth-john-key-speech
-title: "National Is Going For Growth - John Key Speech"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/PA0504/S00057/national-is-going-for-growth-john-key-speech.htm
+title: National Is Going For Growth - John Key Speech
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00057/national-is-going-for-growth-john-key-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/04/national-is-going-for-growth-john-key-speech/index.html
+layout: layout.njk
 ---
 National Is Going For Growth - John Key Speech
 ==============================================

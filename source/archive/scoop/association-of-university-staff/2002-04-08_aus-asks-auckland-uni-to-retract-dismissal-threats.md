@@ -1,9 +1,13 @@
 ---
 slug: aus-asks-auckland-uni-to-retract-dismissal-threats
-title: "AUS asks Auckland Uni to retract dismissal threats"
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/ED0204/S00007/aus-asks-auckland-uni-to-retract-dismissal-threats.htm
+title: AUS asks Auckland Uni to retract dismissal threats
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00007/aus-asks-auckland-uni-to-retract-dismissal-threats.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/04/08/aus-asks-auckland-uni-to-retract-dismissal-threats/index.html
+layout: layout.njk
 ---
 AUS asks Auckland Uni to retract dismissal threats
 ==================================================

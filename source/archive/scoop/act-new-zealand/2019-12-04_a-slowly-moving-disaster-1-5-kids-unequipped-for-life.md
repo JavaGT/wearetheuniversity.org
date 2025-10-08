@@ -1,9 +1,13 @@
 ---
 slug: a-slowly-moving-disaster-1-5-kids-unequipped-for-life
-title: "A slowly-moving disaster: 1/5 kids unequipped for life"
-date: 2019-12-04
-source-url: https://www.scoop.co.nz/stories/PA1912/S00032/a-slowly-moving-disaster-15-kids-unequipped-for-life.htm
+title: 'A slowly-moving disaster: 1/5 kids unequipped for life'
+date: 2019-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00032/a-slowly-moving-disaster-15-kids-unequipped-for-life.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/12/04/a-slowly-moving-disaster-1-5-kids-unequipped-for-life/index.html
+layout: layout.njk
 ---
 A slowly-moving disaster: 1/5 kids unequipped for life
 ======================================================

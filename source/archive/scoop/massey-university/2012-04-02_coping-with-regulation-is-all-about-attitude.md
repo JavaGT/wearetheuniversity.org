@@ -1,9 +1,12 @@
 ---
 slug: coping-with-regulation-is-all-about-attitude
-title: "Coping with regulation is all about attitude"
-date: 2012-04-02
-source-url: https://www.scoop.co.nz/stories/BU1204/S00039/coping-with-regulation-is-all-about-attitude.htm
+title: Coping with regulation is all about attitude
+date: 2012-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1204/S00039/coping-with-regulation-is-all-about-attitude.htm
 author: massey-university
+permalink: /archive/2012/04/02/coping-with-regulation-is-all-about-attitude/index.html
+layout: layout.njk
 ---
 Coping with regulation is all about attitude
 ============================================

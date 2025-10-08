@@ -1,9 +1,13 @@
 ---
 slug: new-tool-to-characterise-disease-epidemics-in-trees
-title: "New tool to characterise disease epidemics in trees"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/SC1404/S00042/new-tool-to-characterise-disease-epidemics-in-trees.htm
+title: New tool to characterise disease epidemics in trees
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00042/new-tool-to-characterise-disease-epidemics-in-trees.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/10/new-tool-to-characterise-disease-epidemics-in-trees/index.html
+layout: layout.njk
 ---
 New tool to characterise disease epidemics in trees
 ===================================================

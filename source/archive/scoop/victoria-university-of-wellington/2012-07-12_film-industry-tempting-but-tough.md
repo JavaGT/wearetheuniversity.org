@@ -1,9 +1,12 @@
 ---
 slug: film-industry-tempting-but-tough
-title: "Film industry tempting, but tough"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/BU1207/S00406/film-industry-tempting-but-tough.htm
+title: Film industry tempting, but tough
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1207/S00406/film-industry-tempting-but-tough.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/07/12/film-industry-tempting-but-tough/index.html
+layout: layout.njk
 ---
 Film industry tempting, but tough
 =================================

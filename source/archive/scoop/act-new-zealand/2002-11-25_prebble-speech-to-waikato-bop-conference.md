@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-to-waikato-bop-conference
-title: "Prebble Speech to Waikato/BOP Conference"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00549/prebble-speech-to-waikatobop-conference.htm
+title: Prebble Speech to Waikato/BOP Conference
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00549/prebble-speech-to-waikatobop-conference.htm
 author: act-new-zealand
+permalink: /archive/2002/11/25/prebble-speech-to-waikato-bop-conference/index.html
+layout: layout.njk
 ---
 Prebble Speech to Waikato/BOP Conference
 ========================================

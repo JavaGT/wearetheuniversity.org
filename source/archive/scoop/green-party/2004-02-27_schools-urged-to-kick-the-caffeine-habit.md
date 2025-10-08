@@ -1,9 +1,12 @@
 ---
 slug: schools-urged-to-kick-the-caffeine-habit
-title: "Schools urged to kick the caffeine habit"
-date: 2004-02-27
-source-url: https://www.scoop.co.nz/stories/PA0402/S00500/schools-urged-to-kick-the-caffeine-habit.htm
+title: Schools urged to kick the caffeine habit
+date: 2004-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00500/schools-urged-to-kick-the-caffeine-habit.htm
 author: green-party
+permalink: /archive/2004/02/27/schools-urged-to-kick-the-caffeine-habit/index.html
+layout: layout.njk
 ---
 Schools urged to kick the caffeine habit
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: the-dynamic-associations-between-gambling-behaviour-health-and-lifestyle
-title: "The Dynamic Associations Between Gambling Behaviour, Health And Lifestyle"
-date: 2021-04-21
-source-url: https://www.scoop.co.nz/stories/GE2104/S00105/the-dynamic-associations-between-gambling-behaviour-health-and-lifestyle.htm
+title: The Dynamic Associations Between Gambling Behaviour, Health And Lifestyle
+date: 2021-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2104/S00105/the-dynamic-associations-between-gambling-behaviour-health-and-lifestyle.htm
 author: aut-university
+permalink: >-
+  /archive/2021/04/21/the-dynamic-associations-between-gambling-behaviour-health-and-lifestyle/index.html
+layout: layout.njk
 ---
 The Dynamic Associations Between Gambling Behaviour, Health And Lifestyle
 =========================================================================

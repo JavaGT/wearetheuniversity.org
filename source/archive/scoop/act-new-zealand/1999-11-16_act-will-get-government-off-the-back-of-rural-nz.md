@@ -1,9 +1,13 @@
 ---
 slug: act-will-get-government-off-the-back-of-rural-nz
-title: "ACT Will Get Government Off the Back of Rural NZ"
-date: 1999-11-16
-source-url: https://www.scoop.co.nz/stories/PA9911/S00374/act-will-get-government-off-the-back-of-rural-nz.htm
+title: ACT Will Get Government Off the Back of Rural NZ
+date: 1999-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00374/act-will-get-government-off-the-back-of-rural-nz.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/11/16/act-will-get-government-off-the-back-of-rural-nz/index.html
+layout: layout.njk
 ---
 ACT Will Get Government Off the Back of Rural NZ
 ================================================

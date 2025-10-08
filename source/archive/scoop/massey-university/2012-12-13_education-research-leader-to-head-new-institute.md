@@ -1,9 +1,12 @@
 ---
 slug: education-research-leader-to-head-new-institute
-title: "Education research leader to head new institute"
-date: 2012-12-13
-source-url: https://www.scoop.co.nz/stories/ED1212/S00095/education-research-leader-to-head-new-institute.htm
+title: Education research leader to head new institute
+date: 2012-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00095/education-research-leader-to-head-new-institute.htm
 author: massey-university
+permalink: /archive/2012/12/13/education-research-leader-to-head-new-institute/index.html
+layout: layout.njk
 ---
 Education research leader to head new institute
 ===============================================

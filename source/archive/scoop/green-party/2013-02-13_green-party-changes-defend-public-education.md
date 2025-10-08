@@ -1,9 +1,12 @@
 ---
 slug: green-party-changes-defend-public-education
-title: "Green Party changes defend public education"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00160/green-party-changes-defend-public-education.htm
+title: Green Party changes defend public education
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00160/green-party-changes-defend-public-education.htm
 author: green-party
+permalink: /archive/2013/02/13/green-party-changes-defend-public-education/index.html
+layout: layout.njk
 ---
 Green Party changes defend public education
 ===========================================

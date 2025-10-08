@@ -1,9 +1,12 @@
 ---
 slug: nandor-asks-minister-at-what-cost
-title: "Nandor asks minister: \"at what cost?\""
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/PA0408/S00016/nandor-asks-minister-at-what-cost.htm
+title: 'Nandor asks minister: "at what cost?"'
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00016/nandor-asks-minister-at-what-cost.htm
 author: green-party
+permalink: /archive/2004/08/02/nandor-asks-minister-at-what-cost/index.html
+layout: layout.njk
 ---
 Nandor asks minister: \"at what cost?"
 =====================================

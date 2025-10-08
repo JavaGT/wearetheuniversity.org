@@ -1,9 +1,13 @@
 ---
 slug: maori-party-welcomes-iwi-inclusion-in-water-report
-title: "Maori Party welcomes iwi inclusion in water report"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/PA1009/S00329/maori-party-welcomes-iwi-inclusion-in-water-report.htm
+title: Maori Party welcomes iwi inclusion in water report
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00329/maori-party-welcomes-iwi-inclusion-in-water-report.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/09/22/maori-party-welcomes-iwi-inclusion-in-water-report/index.html
+layout: layout.njk
 ---
 Maori Party welcomes iwi inclusion in water report
 ==================================================

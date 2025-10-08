@@ -1,9 +1,12 @@
 ---
 slug: young-labour-gets-ready-for-campaign
-title: "Young Labour gets ready for campaign"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/PO0504/S00165/young-labour-gets-ready-for-campaign.htm
+title: Young Labour gets ready for campaign
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00165/young-labour-gets-ready-for-campaign.htm
 author: young-labour
+permalink: /archive/2005/04/13/young-labour-gets-ready-for-campaign/index.html
+layout: layout.njk
 ---
 Young Labour gets ready for campaign
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: championing-healthy-lives-and-helping-whānau-in-need
-title: "Championing healthy lives and helping whānau in need"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00264/championing-healthy-lives-and-helping-whanau-in-need.htm
+title: Championing healthy lives and helping whānau in need
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00264/championing-healthy-lives-and-helping-whanau-in-need.htm
 author: te-pati-maori
+permalink: /archive/2014/09/17/championing-healthy-lives-and-helping-wh/index.html
+layout: layout.njk
 ---
 Championing healthy lives and helping whānau in need
 ====================================================

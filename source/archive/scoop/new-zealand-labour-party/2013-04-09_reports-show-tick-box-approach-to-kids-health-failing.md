@@ -1,9 +1,13 @@
 ---
 slug: reports-show-tick-box-approach-to-kids-health-failing
-title: "Reports show tick-box approach to kids’ health failing"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/PA1304/S00117/reports-show-tick-box-approach-to-kids-health-failing.htm
+title: Reports show tick-box approach to kids’ health failing
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00117/reports-show-tick-box-approach-to-kids-health-failing.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/04/09/reports-show-tick-box-approach-to-kids-health-failing/index.html
+layout: layout.njk
 ---
 Reports show tick-box approach to kids’ health failing
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: standardised-testing-will-not-improve-education
-title: "Standardised Testing Will Not Improve Education"
-date: 2024-07-03
-source-url: https://www.scoop.co.nz/stories/PA2407/S00023/standardised-testing-will-not-improve-education.htm
+title: Standardised Testing Will Not Improve Education
+date: 2024-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00023/standardised-testing-will-not-improve-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/07/03/standardised-testing-will-not-improve-education/index.html
+layout: layout.njk
 ---
 Standardised Testing Will Not Improve Education
 ===============================================

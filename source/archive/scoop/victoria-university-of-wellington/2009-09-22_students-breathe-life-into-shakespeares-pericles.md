@@ -1,9 +1,13 @@
 ---
 slug: students-breathe-life-into-shakespeares-pericles
-title: "Students breathe life into Shakespeare’s Pericles"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/CU0909/S00312/students-breathe-life-into-shakespeares-pericles.htm
+title: Students breathe life into Shakespeare’s Pericles
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00312/students-breathe-life-into-shakespeares-pericles.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/09/22/students-breathe-life-into-shakespeares-pericles/index.html
+layout: layout.njk
 ---
 Students breathe life into Shakespeare’s Pericles
 =================================================

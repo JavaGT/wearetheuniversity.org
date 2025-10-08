@@ -1,9 +1,13 @@
 ---
 slug: leading-nz-art-figure-appointed-head-of-uc-fine-arts
-title: "Leading NZ art figure appointed head of UC fine arts"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/CU1411/S00093/leading-nz-art-figure-appointed-head-of-uc-fine-arts.htm
+title: Leading NZ art figure appointed head of UC fine arts
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00093/leading-nz-art-figure-appointed-head-of-uc-fine-arts.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/06/leading-nz-art-figure-appointed-head-of-uc-fine-arts/index.html
+layout: layout.njk
 ---
 Leading NZ art figure appointed head of UC fine arts
 ====================================================

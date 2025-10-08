@@ -1,9 +1,12 @@
 ---
 slug: two-new-exhibitions-open-at-adam-art-gallery
-title: "Two new exhibitions open at Adam Art Gallery"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/CU1504/S00404/two-new-exhibitions-open-at-adam-art-gallery.htm
+title: Two new exhibitions open at Adam Art Gallery
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00404/two-new-exhibitions-open-at-adam-art-gallery.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/04/22/two-new-exhibitions-open-at-adam-art-gallery/index.html
+layout: layout.njk
 ---
 Two new exhibitions open at Adam Art Gallery
 ============================================

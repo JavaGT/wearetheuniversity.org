@@ -1,9 +1,12 @@
 ---
 slug: documentary-film-a-good-death
-title: "Documentary film: \"A Good Death\""
-date: 2012-06-21
-source-url: https://www.scoop.co.nz/stories/GE1206/S00075/documentary-film-a-good-death.htm
+title: 'Documentary film: "A Good Death"'
+date: 2012-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00075/documentary-film-a-good-death.htm
 author: university-of-otago
+permalink: /archive/2012/06/21/documentary-film-a-good-death/index.html
+layout: layout.njk
 ---
 Documentary film: “A Good Death”
 ================================

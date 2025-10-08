@@ -1,9 +1,12 @@
 ---
 slug: making-the-most-of-windy-wellington
-title: "Making the most of windy Wellington"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/SC1403/S00036/making-the-most-of-windy-wellington.htm
+title: Making the most of windy Wellington
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00036/making-the-most-of-windy-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/14/making-the-most-of-windy-wellington/index.html
+layout: layout.njk
 ---
 Making the most of windy Wellington
 ===================================

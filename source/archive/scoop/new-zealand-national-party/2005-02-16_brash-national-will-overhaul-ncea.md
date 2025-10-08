@@ -1,9 +1,12 @@
 ---
 slug: brash-national-will-overhaul-ncea
-title: "Brash: National will overhaul NCEA"
-date: 2005-02-16
-source-url: https://www.scoop.co.nz/stories/PA0502/S00363/brash-national-will-overhaul-ncea.htm
+title: 'Brash: National will overhaul NCEA'
+date: 2005-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00363/brash-national-will-overhaul-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/16/brash-national-will-overhaul-ncea/index.html
+layout: layout.njk
 ---
 Brash: National will overhaul NCEA
 ==================================

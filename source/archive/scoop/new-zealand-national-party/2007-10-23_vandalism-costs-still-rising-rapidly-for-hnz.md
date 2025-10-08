@@ -1,9 +1,12 @@
 ---
 slug: vandalism-costs-still-rising-rapidly-for-hnz
-title: "Vandalism costs still rising rapidly for HNZ"
-date: 2007-10-23
-source-url: https://www.scoop.co.nz/stories/PA0710/S00403/vandalism-costs-still-rising-rapidly-for-hnz.htm
+title: Vandalism costs still rising rapidly for HNZ
+date: 2007-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00403/vandalism-costs-still-rising-rapidly-for-hnz.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/23/vandalism-costs-still-rising-rapidly-for-hnz/index.html
+layout: layout.njk
 ---
 Vandalism costs still rising rapidly for HNZ
 ============================================

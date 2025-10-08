@@ -1,9 +1,11 @@
 ---
 slug: what-will-labours-legacy-be
-title: "What Will Labour’s Legacy Be?"
-date: 2005-06-29
+title: What Will Labour’s Legacy Be?
+date: 2005-06-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00698/what-will-labours-legacy-be.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/29/what-will-labours-legacy-be/index.html
+layout: layout.njk
 ---
 What Will Labour’s Legacy Be?
 =============================

@@ -1,8 +1,11 @@
 ---
 slug: single-men-and-masculinity
-title: "Single men and masculinity"
-date: 2017-11-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/single-men-and-masculinity.html
+title: Single men and masculinity
+date: 2017-11-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/single-men-and-masculinity.html
+permalink: /archive/2017/11/14/single-men-and-masculinity/index.html
+layout: layout.njk
 ---
 Single men and masculinity
 ==========================

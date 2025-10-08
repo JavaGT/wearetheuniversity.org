@@ -1,9 +1,12 @@
 ---
 slug: a-healthy-start-q-&-a-and-backgrounder
-title: "A Healthy Start: Q & A and Backgrounder"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00587/a-healthy-start-q-a-and-backgrounder.htm
+title: 'A Healthy Start: Q & A and Backgrounder'
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00587/a-healthy-start-q-a-and-backgrounder.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/23/a-healthy-start-q-/index.html
+layout: layout.njk
 ---
 A Healthy Start: Q & A and Backgrounder
 =======================================

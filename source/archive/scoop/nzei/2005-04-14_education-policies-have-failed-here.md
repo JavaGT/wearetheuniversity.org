@@ -1,9 +1,12 @@
 ---
 slug: education-policies-have-failed-here
-title: "Education Policies Have Failed Here"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/ED0504/S00048/education-policies-have-failed-here.htm
+title: Education Policies Have Failed Here
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00048/education-policies-have-failed-here.htm
 author: nzei
+permalink: /archive/2005/04/14/education-policies-have-failed-here/index.html
+layout: layout.njk
 ---
 Education Policies Have Failed Here
 ===================================

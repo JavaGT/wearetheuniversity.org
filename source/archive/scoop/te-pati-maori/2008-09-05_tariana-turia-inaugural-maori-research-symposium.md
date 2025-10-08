@@ -1,9 +1,13 @@
 ---
 slug: tariana-turia-inaugural-maori-research-symposium
-title: "Tariana Turia: Inaugural Maori Research Symposium"
-date: 2008-09-05
-source-url: https://www.scoop.co.nz/stories/PA0809/S00113/tariana-turia-inaugural-maori-research-symposium.htm
+title: 'Tariana Turia: Inaugural Maori Research Symposium'
+date: 2008-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00113/tariana-turia-inaugural-maori-research-symposium.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/09/05/tariana-turia-inaugural-maori-research-symposium/index.html
+layout: layout.njk
 ---
 Tariana Turia: Inaugural Maori Research Symposium
 =================================================

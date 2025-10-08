@@ -1,9 +1,12 @@
 ---
 slug: aut-university-congratulates-graduates
-title: "AUT University congratulates Graduates"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/ED1412/S00106/aut-university-congratulates-graduates.htm
+title: AUT University congratulates Graduates
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00106/aut-university-congratulates-graduates.htm
 author: aut-university
+permalink: /archive/2014/12/16/aut-university-congratulates-graduates/index.html
+layout: layout.njk
 ---
 AUT University congratulates Graduates
 ======================================

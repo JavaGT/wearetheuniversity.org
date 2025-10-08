@@ -1,9 +1,12 @@
 ---
 slug: it-aint-over-til-its-over—winning-back-customers
-title: "It ain’t over ’til it’s over—winning back customers"
-date: 2014-04-16
-source-url: https://www.scoop.co.nz/stories/BU1404/S00480/it-aint-over-til-its-over-winning-back-customers.htm
+title: It ain’t over ’til it’s over—winning back customers
+date: 2014-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1404/S00480/it-aint-over-til-its-over-winning-back-customers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/16/it-aint-over-til-its-over/index.html
+layout: layout.njk
 ---
 It ain’t over ’til it’s over—winning back customers
 ===================================================

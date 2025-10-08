@@ -1,9 +1,13 @@
 ---
 slug: thousands-support-eub-labour-still-not-listening
-title: "Thousands support EUB – Labour Still Not Listening"
-date: 2001-08-14
-source-url: https://www.scoop.co.nz/stories/ED0108/S00041/thousands-support-eub-labour-still-not-listening.htm
+title: Thousands support EUB – Labour Still Not Listening
+date: 2001-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00041/thousands-support-eub-labour-still-not-listening.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2001/08/14/thousands-support-eub-labour-still-not-listening/index.html
+layout: layout.njk
 ---
 Thousands support EUB – Labour Still Not Listening
 ==================================================

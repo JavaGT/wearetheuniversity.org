@@ -1,9 +1,13 @@
 ---
 slug: pollution-solution-presented-at-waterways-conference
-title: "Pollution solution presented at Waterways Conference"
-date: 2019-11-14
-source-url: https://www.scoop.co.nz/stories/SC1911/S00043/pollution-solution-presented-at-waterways-conference.htm
+title: Pollution solution presented at Waterways Conference
+date: 2019-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1911/S00043/pollution-solution-presented-at-waterways-conference.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/11/14/pollution-solution-presented-at-waterways-conference/index.html
+layout: layout.njk
 ---
 Pollution solution presented at Waterways Conference
 ====================================================

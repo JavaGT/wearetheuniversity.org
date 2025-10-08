@@ -1,9 +1,13 @@
 ---
 slug: low-income-families-miss-out-on-choosing-schools
-title: "Low income families miss out on choosing schools"
-date: 2006-02-07
-source-url: https://www.scoop.co.nz/stories/ED0602/S00010/low-income-families-miss-out-on-choosing-schools.htm
+title: Low income families miss out on choosing schools
+date: 2006-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00010/low-income-families-miss-out-on-choosing-schools.htm
 author: maxim-institute
+permalink: >-
+  /archive/2006/02/07/low-income-families-miss-out-on-choosing-schools/index.html
+layout: layout.njk
 ---
 Low income families miss out on choosing schools
 ================================================

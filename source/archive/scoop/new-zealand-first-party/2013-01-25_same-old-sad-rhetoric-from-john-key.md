@@ -1,9 +1,12 @@
 ---
 slug: same-old-sad-rhetoric-from-john-key
-title: "Same Old Sad Rhetoric From John Key"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/PA1301/S00110/same-old-sad-rhetoric-from-john-key.htm
+title: Same Old Sad Rhetoric From John Key
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00110/same-old-sad-rhetoric-from-john-key.htm
 author: new-zealand-first-party
+permalink: /archive/2013/01/25/same-old-sad-rhetoric-from-john-key/index.html
+layout: layout.njk
 ---
 Same Old Sad Rhetoric From John Key
 ===================================

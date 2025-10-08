@@ -1,9 +1,12 @@
 ---
 slug: where-serial-killers-are-likely-to-stirike
-title: "Where serial killers are likely to stirike"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/ED0701/S00038/where-serial-killers-are-likely-to-stirike.htm
+title: Where serial killers are likely to stirike
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0701/S00038/where-serial-killers-are-likely-to-stirike.htm
 author: massey-university
+permalink: /archive/2007/01/31/where-serial-killers-are-likely-to-stirike/index.html
+layout: layout.njk
 ---
 Where serial killers are likely to stirike
 ==========================================

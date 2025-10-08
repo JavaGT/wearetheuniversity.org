@@ -1,9 +1,12 @@
 ---
 slug: 86-covid-positive-cases-isolating-at-home
-title: "86 COVID Positive Cases Isolating At Home"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/PA2110/S00197/86-covid-positive-cases-isolating-at-home.htm
+title: 86 COVID Positive Cases Isolating At Home
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00197/86-covid-positive-cases-isolating-at-home.htm
 author: act-new-zealand
+permalink: /archive/2021/10/20/86-covid-positive-cases-isolating-at-home/index.html
+layout: layout.njk
 ---
 86 COVID Positive Cases Isolating At Home
 =========================================

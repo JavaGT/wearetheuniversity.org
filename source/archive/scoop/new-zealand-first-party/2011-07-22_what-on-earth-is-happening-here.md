@@ -1,9 +1,12 @@
 ---
 slug: what-on-earth-is-happening-here
-title: "What on earth is happening here?"
-date: 2011-07-22
-source-url: https://www.scoop.co.nz/stories/PO1107/S00255/what-on-earth-is-happening-here.htm
+title: What on earth is happening here?
+date: 2011-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00255/what-on-earth-is-happening-here.htm
 author: new-zealand-first-party
+permalink: /archive/2011/07/22/what-on-earth-is-happening-here/index.html
+layout: layout.njk
 ---
 What on earth is happening here?
 ================================

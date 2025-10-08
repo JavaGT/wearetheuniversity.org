@@ -1,9 +1,12 @@
 ---
 slug: victoria-takes-honours-in-teaching-awards
-title: "Victoria takes honours in teaching awards"
-date: 2005-07-27
-source-url: https://www.scoop.co.nz/stories/ED0507/S00111/victoria-takes-honours-in-teaching-awards.htm
+title: Victoria takes honours in teaching awards
+date: 2005-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00111/victoria-takes-honours-in-teaching-awards.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/27/victoria-takes-honours-in-teaching-awards/index.html
+layout: layout.njk
 ---
 Victoria takes honours in teaching awards
 =========================================

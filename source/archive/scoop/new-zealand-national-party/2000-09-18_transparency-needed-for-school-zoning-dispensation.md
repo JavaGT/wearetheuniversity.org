@@ -1,9 +1,13 @@
 ---
 slug: transparency-needed-for-school-zoning-dispensation
-title: "Transparency Needed For School Zoning Dispensation"
-date: 2000-09-18
-source-url: https://www.scoop.co.nz/stories/PA0009/S00271/transparency-needed-for-school-zoning-dispensation.htm
+title: Transparency Needed For School Zoning Dispensation
+date: 2000-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00271/transparency-needed-for-school-zoning-dispensation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/09/18/transparency-needed-for-school-zoning-dispensation/index.html
+layout: layout.njk
 ---
 Transparency Needed For School Zoning Dispensation
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: it-didnt-have-to-be-like-this
-title: "It Didn't Have To Be Like This"
-date: 2020-08-21
-source-url: https://www.scoop.co.nz/stories/PA2008/S00174/it-didnt-have-to-be-like-this.htm
+title: It Didn't Have To Be Like This
+date: 2020-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00174/it-didnt-have-to-be-like-this.htm
 author: act-new-zealand
+permalink: /archive/2020/08/21/it-didnt-have-to-be-like-this/index.html
+layout: layout.njk
 ---
 It Didn't Have To Be Like This
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: turia-health-care-aotearoa-13th-annual-hui
-title: "Turia - Health Care Aotearoa 13th Annual Hui"
-date: 2007-03-26
-source-url: https://www.scoop.co.nz/stories/PA0703/S00516/turia-health-care-aotearoa-13th-annual-hui.htm
+title: Turia - Health Care Aotearoa 13th Annual Hui
+date: 2007-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00516/turia-health-care-aotearoa-13th-annual-hui.htm
 author: te-pati-maori
+permalink: /archive/2007/03/26/turia-health-care-aotearoa-13th-annual-hui/index.html
+layout: layout.njk
 ---
 Turia - Health Care Aotearoa 13th Annual Hui
 ============================================

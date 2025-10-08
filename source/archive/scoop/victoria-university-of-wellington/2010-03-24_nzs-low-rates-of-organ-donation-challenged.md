@@ -1,9 +1,12 @@
 ---
 slug: nzs-low-rates-of-organ-donation-challenged
-title: "NZ’s low rates of organ donation challenged"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/ED1003/S00107/nzs-low-rates-of-organ-donation-challenged.htm
+title: NZ’s low rates of organ donation challenged
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00107/nzs-low-rates-of-organ-donation-challenged.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/03/24/nzs-low-rates-of-organ-donation-challenged/index.html
+layout: layout.njk
 ---
 NZ’s low rates of organ donation challenged
 ===========================================

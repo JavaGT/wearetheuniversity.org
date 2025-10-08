@@ -1,9 +1,13 @@
 ---
 slug: simon-bridges-slip-of-the-tongue-wins-2018-quote-of-the-year
-title: "Simon Bridges slip of the tongue wins 2018 Quote of the Year"
-date: 2018-12-13
-source-url: https://www.scoop.co.nz/stories/PO1812/S00159/simon-bridges-slip-of-the-tongue-wins-2018-quote-of-the-year.htm
+title: Simon Bridges slip of the tongue wins 2018 Quote of the Year
+date: 2018-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1812/S00159/simon-bridges-slip-of-the-tongue-wins-2018-quote-of-the-year.htm
 author: massey-university
+permalink: >-
+  /archive/2018/12/13/simon-bridges-slip-of-the-tongue-wins-2018-quote-of-the-year/index.html
+layout: layout.njk
 ---
 Simon Bridges slip of the tongue wins 2018 Quote of the Year
 ============================================================

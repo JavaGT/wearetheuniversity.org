@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-review-of-rse-but-urge-govt-to-start-right-now
-title: "Greens Welcome Review Of RSE, But Urge Govt To Start Right Now"
-date: 2022-08-18
-source-url: https://www.scoop.co.nz/stories/PA2208/S00157/greens-welcome-review-of-rse-but-urge-govt-to-start-right-now.htm
+title: Greens Welcome Review Of RSE, But Urge Govt To Start Right Now
+date: 2022-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00157/greens-welcome-review-of-rse-but-urge-govt-to-start-right-now.htm
 author: green-party
+permalink: >-
+  /archive/2022/08/18/greens-welcome-review-of-rse-but-urge-govt-to-start-right-now/index.html
+layout: layout.njk
 ---
 Greens Welcome Review Of RSE, But Urge Govt To Start Right Now
 ==============================================================

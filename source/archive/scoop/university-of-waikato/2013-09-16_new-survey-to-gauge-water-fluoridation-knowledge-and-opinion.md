@@ -1,9 +1,13 @@
 ---
 slug: new-survey-to-gauge-water-fluoridation-knowledge-and-opinion
-title: "New Survey to Gauge Water Fluoridation Knowledge And Opinion"
-date: 2013-09-16
-source-url: https://www.scoop.co.nz/stories/AK1309/S00555/new-survey-to-gauge-water-fluoridation-knowledge-and-opinion.htm
+title: New Survey to Gauge Water Fluoridation Knowledge And Opinion
+date: 2013-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00555/new-survey-to-gauge-water-fluoridation-knowledge-and-opinion.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/16/new-survey-to-gauge-water-fluoridation-knowledge-and-opinion/index.html
+layout: layout.njk
 ---
 New Survey to Gauge Water Fluoridation Knowledge And Opinion
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-speech-royal-society-of-nz-amendment-bill
-title: "Rahui Katene Speech: Royal Society of NZ Amendment Bill"
-date: 2011-06-16
-source-url: https://www.scoop.co.nz/stories/PA1106/S00261/rahui-katene-speech-royal-society-of-nz-amendment-bill.htm
+title: 'Rahui Katene Speech: Royal Society of NZ Amendment Bill'
+date: 2011-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00261/rahui-katene-speech-royal-society-of-nz-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/16/rahui-katene-speech-royal-society-of-nz-amendment-bill/index.html
+layout: layout.njk
 ---
 Rahui Katene Speech: Royal Society of NZ Amendment Bill
 =======================================================

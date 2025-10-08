@@ -1,9 +1,12 @@
 ---
 slug: mallard-must-clarify-school-fee-guidelines
-title: "Mallard Must Clarify School Fee Guidelines"
-date: 2002-04-19
-source-url: https://www.scoop.co.nz/stories/PA0204/S00292/mallard-must-clarify-school-fee-guidelines.htm
+title: Mallard Must Clarify School Fee Guidelines
+date: 2002-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00292/mallard-must-clarify-school-fee-guidelines.htm
 author: act-new-zealand
+permalink: /archive/2002/04/19/mallard-must-clarify-school-fee-guidelines/index.html
+layout: layout.njk
 ---
 Mallard Must Clarify School Fee Guidelines
 ==========================================

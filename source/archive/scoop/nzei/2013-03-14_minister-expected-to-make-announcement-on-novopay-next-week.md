@@ -1,9 +1,13 @@
 ---
 slug: minister-expected-to-make-announcement-on-novopay-next-week
-title: "Minister expected to make announcement on Novopay next week"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/ED1303/S00104/minister-expected-to-make-announcement-on-novopay-next-week.htm
+title: Minister expected to make announcement on Novopay next week
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00104/minister-expected-to-make-announcement-on-novopay-next-week.htm
 author: nzei
+permalink: >-
+  /archive/2013/03/14/minister-expected-to-make-announcement-on-novopay-next-week/index.html
+layout: layout.njk
 ---
 Minister expected to make announcement on Novopay next week
 ===========================================================

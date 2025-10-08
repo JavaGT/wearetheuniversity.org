@@ -1,9 +1,13 @@
 ---
 slug: restaurant-assn-survey-shows-terrible-toll-of-lockdowns
-title: "Restaurant Assn. Survey Shows Terrible Toll Of Lockdowns"
-date: 2021-11-04
-source-url: https://www.scoop.co.nz/stories/PA2111/S00050/restaurant-assn-survey-shows-terrible-toll-of-lockdowns.htm
+title: Restaurant Assn. Survey Shows Terrible Toll Of Lockdowns
+date: 2021-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00050/restaurant-assn-survey-shows-terrible-toll-of-lockdowns.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/11/04/restaurant-assn-survey-shows-terrible-toll-of-lockdowns/index.html
+layout: layout.njk
 ---
 Restaurant Assn. Survey Shows Terrible Toll Of Lockdowns
 ========================================================

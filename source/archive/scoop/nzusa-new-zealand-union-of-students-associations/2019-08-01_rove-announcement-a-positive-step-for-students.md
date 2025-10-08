@@ -1,9 +1,12 @@
 ---
 slug: rove-announcement-a-positive-step-for-students
-title: "RoVE announcement a positive step for students"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/ED1908/S00004/rove-announcement-a-positive-step-for-students.htm
+title: RoVE announcement a positive step for students
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00004/rove-announcement-a-positive-step-for-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2019/08/01/rove-announcement-a-positive-step-for-students/index.html
+layout: layout.njk
 ---
 RoVE announcement a positive step for students
 ==============================================

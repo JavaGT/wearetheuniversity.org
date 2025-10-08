@@ -1,23 +1,68 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Tools – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><p><h1>Open Athens Bookmarklet (University of Auckland)</h1>
-<h4><a href="javascript:(()=%3E%7Blocation=%60https://go.openathens.net/redirector/auckland.ac.nz?url=$%7BencodeURI(location.href)%7D%60%7D)()">UoA 🔑</a></h4>
-<p>Drag this link to your bookmarks bar and click that bookmark to access texts via the University of Auckland library. This will redirect you to the University of Auckland&#39;s Open Athens login page, where you can log in with your student or staff credentials to access the text.</p>
-<h1>EzProxy Bokmetlet (Victoria University of Wellington)</h1>
-<h4><a href="javascript:(()=%3E%7Blocation=%60https://login.helicon.vuw.ac.nz/login?url=$%7BencodeURI(location.href)%7D%60%7D)()">VUW 🔑</a></h4>
-<p>Drag this link to your bookmarks bar and click that bookmark to access texts via Victoria University of Wellington library. This will redirect you to the VUW library&#39;s EzProxy login page, where you can log in with your student or staff credentials to access the text.</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tools</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Open Athens Bookmarklet (University of Auckland)</h1>
+<h4>[UoA 🔑](javascript:(()=&gt;{location=<code>https://go.openathens.net/redirector/auckland.ac.nz?url=${encodeURI(location.href)}</code>})())</h4>
+<p>Drag this link to your bookmarks bar and click that bookmark to access texts via the University of Auckland library. This will redirect you to the University of Auckland's Open Athens login page, where you can log in with your student or staff credentials to access the text.</p>
+<h1>EzProxy Bookmarklet (Victoria University of Wellington)</h1>
+<h4>[VUW 🔑](javascript:(()=&gt;{location=<code>https://login.helicon.vuw.ac.nz/login?url=${encodeURI(location.href)}</code>})())</h4>
+<p>Drag this link to your bookmarks bar and click that bookmark to access texts via Victoria University of Wellington library. This will redirect you to the VUW library's EzProxy login page, where you can log in with your student or staff credentials to access the text.</p>
 <h1>Annas Archive Bookmarklet</h1>
-<h4><a href="javascript:(()=%3E%7Blocation=%60https://annas-archive.org/scidb/$%7B%60$%7Blocation.href%7D%5Cn$%7Bdocument.body.innerText%7D%60.match(/%5Cb10.%5Cd%7B4,9%7D/%5B-._;()/:A-Z0-9%5D+/gi)%5B0%5D%7D%60%7D)()">Annas 🔑</a></h4>
-<p>Drag this link to your bookmarks bar and click that bookmark to access texts via Anna&#39;s Archive Sci-Hub backup. This will redirect you to Anna&#39;s Archive, where you can access the text.</p>
+<h4>[Annas 🔑](javascript:(()=&gt;{location=<code>https://annas-archive.org/scidb/${</code>${location.href}\n${document.body.innerText}<code>.match(/\b10.\d{4,9}\/[-._;()\/:A-Z0-9]+/gi)[0]}</code>})())</h4>
+<p>Drag this link to your bookmarks bar and click that bookmark to access texts via Anna's Archive Sci-Hub backup. This will redirect you to Anna's Archive, where you can access the text.</p>
 <h1>Welcome to the University of Auckland</h1>
 <p>Here are some tools to setup to make your life easier at uni.</p>
 <h1>Calendars</h1>
-<p><strong>Add the University of Auckland calendar to your calendar app:</strong> 
-<a href="https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/icalendar.html">https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/icalendar.html</a></p>
+<p><strong>Add the University of Auckland calendar to your calendar app:</strong>
+https://www.auckland.ac.nz/en/about-us/about-the-university/the-university/official-publications/university-calendar/current-calendar/icalendar.html</p>
 <p><strong>Add your canvas to your calendar app (shows due dates):</strong>
 Select calendar feed bottom right of the calendar page
-<a href="https://canvas.auckland.ac.nz/calendar#view_name=month&view_start=2025-08-01">https://canvas.auckland.ac.nz/calendar#view_name=month&amp;view_start=2025-08-01</a></p>
+https://canvas.auckland.ac.nz/calendar#view_name=month&amp;view_start=2025-08-01</p>
 <h2>Article Access</h2>
-<h3><a href="javascript:(()=%3E%7Blocation=%60https://annas-archive.org/scidb/$%7B%60$%7Blocation.href%7D%5Cn$%7Bdocument.body.innerText%7D%60.match(/%5Cb10.%5Cd%7B4,9%7D/%5B-._;()/:A-Z0-9%5D+/gi)%5B0%5D%7D%60%7D)()">Annas 🔑</a></h3>
-<p>Drag this link to your bookmarks bar and click that bookmark to access texts via Anna&#39;s Archive Sci-Hub backup. This will redirect you to Anna&#39;s Archive, where you can access the text.</p>
-<h3><a href="javascript:(()=%3E%7Blocation=%60https://go.openathens.net/redirector/auckland.ac.nz?url=$%7BencodeURI(location.href)%7D%60%7D)()">UoA 🔑</a></h3>
-<p>Drag this link to your bookmarks bar and click that bookmark to access texts via the University of Auckland library. This will redirect you to the University of Auckland&#39;s Open Athens login page, where you can log in with your student or staff credentials to access the text.</p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+<h3>[Annas 🔑](javascript:(()=&gt;{location=<code>https://annas-archive.org/scidb/${</code>${location.href}\n${document.body.innerText}<code>.match(/\b10.\d{4,9}\/[-._;()\/:A-Z0-9]+/gi)[0]}</code>})())</h3>
+<p>Drag this link to your bookmarks bar and click that bookmark to access texts via Anna's Archive Sci-Hub backup. This will redirect you to Anna's Archive, where you can access the text.</p>
+<h3>[UoA 🔑](javascript:(()=&gt;{location=<code>https://go.openathens.net/redirector/auckland.ac.nz?url=${encodeURI(location.href)}</code>})())</h3>
+<p>Drag this link to your bookmarks bar and click that bookmark to access texts via the University of Auckland library. This will redirect you to the University of Auckland's Open Athens login page, where you can log in with your student or staff credentials to access the text.</p>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

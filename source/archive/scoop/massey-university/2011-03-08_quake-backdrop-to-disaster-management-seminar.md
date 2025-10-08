@@ -1,9 +1,12 @@
 ---
 slug: quake-backdrop-to-disaster-management-seminar
-title: "Quake backdrop to disaster management seminar"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/CU1103/S00177/quake-backdrop-to-disaster-management-seminar.htm
+title: Quake backdrop to disaster management seminar
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1103/S00177/quake-backdrop-to-disaster-management-seminar.htm
 author: massey-university
+permalink: /archive/2011/03/08/quake-backdrop-to-disaster-management-seminar/index.html
+layout: layout.njk
 ---
 Quake backdrop to disaster management seminar
 =============================================

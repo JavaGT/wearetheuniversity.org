@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-staff-honoured-for-teaching-excellence
-title: "University of Otago staff honoured for teaching excellence"
-date: 2018-03-06
-source-url: https://www.scoop.co.nz/stories/ED1803/S00026/university-of-otago-staff-honoured-for-teaching-excellence.htm
+title: University of Otago staff honoured for teaching excellence
+date: 2018-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00026/university-of-otago-staff-honoured-for-teaching-excellence.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/06/university-of-otago-staff-honoured-for-teaching-excellence/index.html
+layout: layout.njk
 ---
 University of Otago staff honoured for teaching excellence
 ==========================================================

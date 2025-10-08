@@ -1,9 +1,12 @@
 ---
 slug: students-lose-right-to-choose
-title: "Students Lose Right To Choose"
-date: 2000-03-05
-source-url: https://www.scoop.co.nz/stories/PO0003/S00014/students-lose-right-to-choose.htm
+title: Students Lose Right To Choose
+date: 2000-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00014/students-lose-right-to-choose.htm
 author: prebble-s-rebels
+permalink: /archive/2000/03/05/students-lose-right-to-choose/index.html
+layout: layout.njk
 ---
 Students Lose Right To Choose
 =============================

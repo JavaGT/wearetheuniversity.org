@@ -1,9 +1,12 @@
 ---
 slug: dhb-budgets-not-keeping-up-with-emergency-work
-title: "DHB budgets not keeping up with emergency work"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/PA1508/S00243/dhb-budgets-not-keeping-up-with-emergency-work.htm
+title: DHB budgets not keeping up with emergency work
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00243/dhb-budgets-not-keeping-up-with-emergency-work.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/14/dhb-budgets-not-keeping-up-with-emergency-work/index.html
+layout: layout.njk
 ---
 DHB budgets not keeping up with emergency work
 ==============================================

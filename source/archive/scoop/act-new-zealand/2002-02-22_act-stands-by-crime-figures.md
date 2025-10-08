@@ -1,9 +1,11 @@
 ---
 slug: act-stands-by-crime-figures
-title: "ACT Stands By Crime Figures"
-date: 2002-02-22
+title: ACT Stands By Crime Figures
+date: 2002-02-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0202/S00345/act-stands-by-crime-figures.htm
 author: act-new-zealand
+permalink: /archive/2002/02/22/act-stands-by-crime-figures/index.html
+layout: layout.njk
 ---
 ACT Stands By Crime Figures
 ===========================

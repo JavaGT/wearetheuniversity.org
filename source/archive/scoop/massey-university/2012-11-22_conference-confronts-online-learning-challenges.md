@@ -1,9 +1,12 @@
 ---
 slug: conference-confronts-online-learning-challenges
-title: "Conference Confronts Online Learning Challenges"
-date: 2012-11-22
-source-url: https://www.scoop.co.nz/stories/ED1211/S00160/conference-confronts-online-learning-challenges.htm
+title: Conference Confronts Online Learning Challenges
+date: 2012-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00160/conference-confronts-online-learning-challenges.htm
 author: massey-university
+permalink: /archive/2012/11/22/conference-confronts-online-learning-challenges/index.html
+layout: layout.njk
 ---
 Conference Confronts Online Learning Challenges
 ===============================================

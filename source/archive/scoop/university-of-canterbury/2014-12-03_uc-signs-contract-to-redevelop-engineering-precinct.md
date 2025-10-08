@@ -1,9 +1,13 @@
 ---
 slug: uc-signs-contract-to-redevelop-engineering-precinct
-title: "UC signs contract to redevelop engineering precinct"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/ED1412/S00023/uc-signs-contract-to-redevelop-engineering-precinct.htm
+title: UC signs contract to redevelop engineering precinct
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00023/uc-signs-contract-to-redevelop-engineering-precinct.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/03/uc-signs-contract-to-redevelop-engineering-precinct/index.html
+layout: layout.njk
 ---
 UC signs contract to redevelop engineering precinct
 ===================================================

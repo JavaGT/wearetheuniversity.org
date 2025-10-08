@@ -1,9 +1,13 @@
 ---
 slug: universities-new-zealand-welcomes-international-student-announcement
-title: "Universities New Zealand Welcomes International Student Announcement"
-date: 2021-01-14
-source-url: https://www.scoop.co.nz/stories/ED2101/S00008/universities-new-zealand-welcomes-international-student-announcement.htm
+title: Universities New Zealand Welcomes International Student Announcement
+date: 2021-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2101/S00008/universities-new-zealand-welcomes-international-student-announcement.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/01/14/universities-new-zealand-welcomes-international-student-announcement/index.html
+layout: layout.njk
 ---
 Universities New Zealand Welcomes International Student Announcement
 ====================================================================

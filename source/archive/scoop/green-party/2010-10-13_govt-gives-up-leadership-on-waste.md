@@ -1,9 +1,12 @@
 ---
 slug: govt-gives-up-leadership-on-waste
-title: "Govt. gives up leadership on waste"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00211/govt-gives-up-leadership-on-waste.htm
+title: Govt. gives up leadership on waste
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00211/govt-gives-up-leadership-on-waste.htm
 author: green-party
+permalink: /archive/2010/10/13/govt-gives-up-leadership-on-waste/index.html
+layout: layout.njk
 ---
 Govt. gives up leadership on waste
 ==================================

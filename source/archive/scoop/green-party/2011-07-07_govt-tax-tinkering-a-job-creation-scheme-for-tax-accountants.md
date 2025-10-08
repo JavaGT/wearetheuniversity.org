@@ -1,9 +1,13 @@
 ---
 slug: govt-tax-tinkering-a-job-creation-scheme-for-tax-accountants
-title: "Govt tax tinkering a job creation scheme for tax accountants"
-date: 2011-07-07
-source-url: https://www.scoop.co.nz/stories/PA1107/S00115/govt-tax-tinkering-a-job-creation-scheme-for-tax-accountants.htm
+title: Govt tax tinkering a job creation scheme for tax accountants
+date: 2011-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00115/govt-tax-tinkering-a-job-creation-scheme-for-tax-accountants.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/07/govt-tax-tinkering-a-job-creation-scheme-for-tax-accountants/index.html
+layout: layout.njk
 ---
 Govt tax tinkering a job creation scheme for tax accountants
 ============================================================

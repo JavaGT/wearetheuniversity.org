@@ -1,9 +1,13 @@
 ---
 slug: new-study-aims-to-understand-workplace-wellbeing
-title: "New study aims to understand workplace wellbeing"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/GE1805/S00115/new-study-aims-to-understand-workplace-wellbeing.htm
+title: New study aims to understand workplace wellbeing
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00115/new-study-aims-to-understand-workplace-wellbeing.htm
 author: massey-university
+permalink: >-
+  /archive/2018/05/24/new-study-aims-to-understand-workplace-wellbeing/index.html
+layout: layout.njk
 ---
 New study aims to understand workplace wellbeing
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: look-after-our-algerian-spokesperson!
-title: "‘Look after our Algerian Spokesperson!’"
-date: 2004-10-14
-source-url: https://www.scoop.co.nz/stories/ED0410/S00061/look-after-our-algerian-spokesperson.htm
+title: ‘Look after our Algerian Spokesperson!’
+date: 2004-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00061/look-after-our-algerian-spokesperson.htm
 author: auckland-university-students-association
+permalink: /archive/2004/10/14/look-after-our-algerian-spokesperson/index.html
+layout: layout.njk
 ---
 ‘Look after our Algerian Spokesperson!’
 =======================================

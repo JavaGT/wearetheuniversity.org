@@ -1,9 +1,11 @@
 ---
 slug: cyf-registrations-increase
-title: "CYF registrations increase"
-date: 2005-04-04
+title: CYF registrations increase
+date: 2005-04-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0504/S00050/cyf-registrations-increase.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/04/cyf-registrations-increase/index.html
+layout: layout.njk
 ---
 CYF registrations increase
 ==========================

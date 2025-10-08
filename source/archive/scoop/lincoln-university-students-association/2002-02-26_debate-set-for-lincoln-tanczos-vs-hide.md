@@ -1,9 +1,12 @@
 ---
 slug: debate-set-for-lincoln-tanczos-vs-hide
-title: "Debate Set For Lincoln - Tanczos vs Hide"
-date: 2002-02-26
-source-url: https://www.scoop.co.nz/stories/ED0202/S00031/debate-set-for-lincoln-tanczos-vs-hide.htm
+title: Debate Set For Lincoln - Tanczos vs Hide
+date: 2002-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00031/debate-set-for-lincoln-tanczos-vs-hide.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/02/26/debate-set-for-lincoln-tanczos-vs-hide/index.html
+layout: layout.njk
 ---
 Debate Set For Lincoln - Tanczos vs Hide
 ========================================

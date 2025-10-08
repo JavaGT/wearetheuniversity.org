@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-opportunities-to-be-denied
-title: "Tertiary Education Opportunities to Be Denied"
-date: 2010-02-21
-source-url: https://www.scoop.co.nz/stories/PA1002/S00298/tertiary-education-opportunities-to-be-denied.htm
+title: Tertiary Education Opportunities to Be Denied
+date: 2010-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00298/tertiary-education-opportunities-to-be-denied.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/21/tertiary-education-opportunities-to-be-denied/index.html
+layout: layout.njk
 ---
 Tertiary Education Opportunities to Be Denied
 =============================================

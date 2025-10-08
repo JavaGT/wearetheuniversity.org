@@ -1,9 +1,13 @@
 ---
 slug: joyce-launches-direct-assault-on-university-independence
-title: "Joyce launches direct assault on university independence"
-date: 2012-11-19
-source-url: https://www.scoop.co.nz/stories/PA1211/S00330/joyce-launches-direct-assault-on-university-independence.htm
+title: Joyce launches direct assault on university independence
+date: 2012-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00330/joyce-launches-direct-assault-on-university-independence.htm
 author: green-party
+permalink: >-
+  /archive/2012/11/19/joyce-launches-direct-assault-on-university-independence/index.html
+layout: layout.njk
 ---
 Joyce launches direct assault on university independence
 ========================================================

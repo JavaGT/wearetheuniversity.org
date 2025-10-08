@@ -1,9 +1,13 @@
 ---
 slug: labour-fails-homeowners-in-timber-treatment-scam
-title: "Labour fails homeowners in timber treatment scam"
-date: 2005-07-11
-source-url: https://www.scoop.co.nz/stories/PA0507/S00239/labour-fails-homeowners-in-timber-treatment-scam.htm
+title: Labour fails homeowners in timber treatment scam
+date: 2005-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00239/labour-fails-homeowners-in-timber-treatment-scam.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/07/11/labour-fails-homeowners-in-timber-treatment-scam/index.html
+layout: layout.njk
 ---
 Labour fails homeowners in timber treatment scam
 ================================================

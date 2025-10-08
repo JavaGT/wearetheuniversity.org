@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-nicky-hagers-book
-title: "Don Brash Writes: Nicky Hager's book"
-date: 2006-12-06
-source-url: https://www.scoop.co.nz/stories/PA0612/S00108/don-brash-writes-nicky-hagers-book.htm
+title: 'Don Brash Writes: Nicky Hager''s book'
+date: 2006-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00108/don-brash-writes-nicky-hagers-book.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/06/don-brash-writes-nicky-hagers-book/index.html
+layout: layout.njk
 ---
 Don Brash Writes: Nicky Hager's book
 ====================================

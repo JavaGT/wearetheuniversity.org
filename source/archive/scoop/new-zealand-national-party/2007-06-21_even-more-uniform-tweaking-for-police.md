@@ -1,9 +1,12 @@
 ---
 slug: even-more-uniform-tweaking-for-police
-title: "Even more uniform tweaking for police"
-date: 2007-06-21
-source-url: https://www.scoop.co.nz/stories/PA0706/S00429/even-more-uniform-tweaking-for-police.htm
+title: Even more uniform tweaking for police
+date: 2007-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00429/even-more-uniform-tweaking-for-police.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/21/even-more-uniform-tweaking-for-police/index.html
+layout: layout.njk
 ---
 Even more uniform tweaking for police
 =====================================

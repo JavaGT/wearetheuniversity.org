@@ -1,9 +1,12 @@
 ---
 slug: education-frontline-needs-support-now!
-title: "Education frontline needs support –now!"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/PA0906/S00133/education-frontline-needs-support-now.htm
+title: Education frontline needs support –now!
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00133/education-frontline-needs-support-now.htm
 author: green-party
+permalink: /archive/2009/06/10/education-frontline-needs-support-now/index.html
+layout: layout.njk
 ---
 Education frontline needs support –now!
 =======================================

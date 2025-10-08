@@ -1,9 +1,11 @@
 ---
 slug: labours-youth-affairs-policy
-title: "Labour's Youth Affairs Policy"
-date: 2005-08-29
+title: Labour's Youth Affairs Policy
+date: 2005-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00729/labours-youth-affairs-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/29/labours-youth-affairs-policy/index.html
+layout: layout.njk
 ---
 Labour's Youth Affairs Policy
 =============================

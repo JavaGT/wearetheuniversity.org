@@ -1,9 +1,13 @@
 ---
 slug: partnership-schools-the-path-to-quality-education
-title: "Partnership Schools: The Path to Quality Education"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/PO1411/S00104/partnership-schools-the-path-to-quality-education.htm
+title: 'Partnership Schools: The Path to Quality Education'
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00104/partnership-schools-the-path-to-quality-education.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/11/11/partnership-schools-the-path-to-quality-education/index.html
+layout: layout.njk
 ---
 Partnership Schools: The Path to Quality Education
 ==================================================

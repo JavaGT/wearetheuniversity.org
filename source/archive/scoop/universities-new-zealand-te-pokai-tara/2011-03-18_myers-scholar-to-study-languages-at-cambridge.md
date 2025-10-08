@@ -1,9 +1,12 @@
 ---
 slug: myers-scholar-to-study-languages-at-cambridge
-title: "Myers Scholar to study languages at Cambridge"
-date: 2011-03-18
-source-url: https://www.scoop.co.nz/stories/ED1103/S00084/myers-scholar-to-study-languages-at-cambridge.htm
+title: Myers Scholar to study languages at Cambridge
+date: 2011-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00084/myers-scholar-to-study-languages-at-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2011/03/18/myers-scholar-to-study-languages-at-cambridge/index.html
+layout: layout.njk
 ---
 Myers Scholar to study languages at Cambridge
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: quakes-have-a-silver-lining-for-earthquake-scientists
-title: "Quakes have a silver lining for earthquake scientists"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/SC1308/S00063/quakes-have-a-silver-lining-for-earthquake-scientists.htm
+title: Quakes have a silver lining for earthquake scientists
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00063/quakes-have-a-silver-lining-for-earthquake-scientists.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/29/quakes-have-a-silver-lining-for-earthquake-scientists/index.html
+layout: layout.njk
 ---
 Quakes have a silver lining for earthquake scientists
 =====================================================

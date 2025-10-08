@@ -1,9 +1,13 @@
 ---
 slug: three-uc-graduates-in-new-zealand-hi-tech-awards-finals
-title: "Three UC graduates in New Zealand Hi-Tech Awards finals"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/BU1305/S00554/three-uc-graduates-in-new-zealand-hi-tech-awards-finals.htm
+title: Three UC graduates in New Zealand Hi-Tech Awards finals
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00554/three-uc-graduates-in-new-zealand-hi-tech-awards-finals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/15/three-uc-graduates-in-new-zealand-hi-tech-awards-finals/index.html
+layout: layout.njk
 ---
 Three UC graduates in New Zealand Hi-Tech Awards finals
 =======================================================

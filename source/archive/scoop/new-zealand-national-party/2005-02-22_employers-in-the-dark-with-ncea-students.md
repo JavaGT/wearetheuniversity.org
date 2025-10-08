@@ -1,9 +1,12 @@
 ---
 slug: employers-in-the-dark-with-ncea-students
-title: "Employers in the dark with NCEA students"
-date: 2005-02-22
-source-url: https://www.scoop.co.nz/stories/PA0502/S00476/employers-in-the-dark-with-ncea-students.htm
+title: Employers in the dark with NCEA students
+date: 2005-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00476/employers-in-the-dark-with-ncea-students.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/22/employers-in-the-dark-with-ncea-students/index.html
+layout: layout.njk
 ---
 Employers in the dark with NCEA students
 ========================================

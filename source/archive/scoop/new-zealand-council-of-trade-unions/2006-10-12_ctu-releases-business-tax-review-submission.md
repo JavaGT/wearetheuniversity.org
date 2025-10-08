@@ -1,9 +1,12 @@
 ---
 slug: ctu-releases-business-tax-review-submission
-title: "CTU Releases Business Tax Review Submission"
-date: 2006-10-12
-source-url: https://www.scoop.co.nz/stories/PO0610/S00120/ctu-releases-business-tax-review-submission.htm
+title: CTU Releases Business Tax Review Submission
+date: 2006-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00120/ctu-releases-business-tax-review-submission.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/10/12/ctu-releases-business-tax-review-submission/index.html
+layout: layout.njk
 ---
 CTU Releases Business Tax Review Submission
 ===========================================

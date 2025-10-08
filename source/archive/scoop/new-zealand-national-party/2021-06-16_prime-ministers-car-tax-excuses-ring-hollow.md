@@ -1,9 +1,12 @@
 ---
 slug: prime-ministers-car-tax-excuses-ring-hollow
-title: "Prime Minister’s Car Tax Excuses Ring Hollow"
-date: 2021-06-16
-source-url: https://www.scoop.co.nz/stories/PA2106/S00125/prime-ministers-car-tax-excuses-ring-hollow.htm
+title: Prime Minister’s Car Tax Excuses Ring Hollow
+date: 2021-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00125/prime-ministers-car-tax-excuses-ring-hollow.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/16/prime-ministers-car-tax-excuses-ring-hollow/index.html
+layout: layout.njk
 ---
 Prime Minister’s Car Tax Excuses Ring Hollow
 ============================================

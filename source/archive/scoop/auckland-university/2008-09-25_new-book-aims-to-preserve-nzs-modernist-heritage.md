@@ -1,9 +1,13 @@
 ---
 slug: new-book-aims-to-preserve-nzs-modernist-heritage
-title: "New book aims to preserve NZ's modernist heritage"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/CU0809/S00357/new-book-aims-to-preserve-nzs-modernist-heritage.htm
+title: New book aims to preserve NZ's modernist heritage
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00357/new-book-aims-to-preserve-nzs-modernist-heritage.htm
 author: auckland-university
+permalink: >-
+  /archive/2008/09/25/new-book-aims-to-preserve-nzs-modernist-heritage/index.html
+layout: layout.njk
 ---
 New book aims to preserve NZ's modernist heritage
 =================================================

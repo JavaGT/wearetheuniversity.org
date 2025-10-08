@@ -1,9 +1,12 @@
 ---
 slug: security-and-growth-nationals-economic-plan
-title: "Security and Growth:  National's Economic Plan"
-date: 2008-10-31
-source-url: https://www.scoop.co.nz/stories/PA0810/S00692/security-and-growth-nationals-economic-plan.htm
+title: 'Security and Growth:  National''s Economic Plan'
+date: 2008-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00692/security-and-growth-nationals-economic-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/31/security-and-growth-nationals-economic-plan/index.html
+layout: layout.njk
 ---
 Security and Growth: National's Economic Plan
 =============================================

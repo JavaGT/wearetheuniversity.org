@@ -1,9 +1,11 @@
 ---
 slug: greens-go-local
-title: "Greens go local"
-date: 2009-02-16
+title: Greens go local
+date: 2009-02-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0902/S00150/greens-go-local.htm
 author: green-party
+permalink: /archive/2009/02/16/greens-go-local/index.html
+layout: layout.njk
 ---
 Greens go local
 ===============

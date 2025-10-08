@@ -1,9 +1,13 @@
 ---
 slug: cut-price-meridian-sale-shows-nationals-warped-priorities
-title: "Cut-price Meridian sale shows National’s warped priorities"
-date: 2013-09-20
-source-url: https://www.scoop.co.nz/stories/PA1309/S00390/cut-price-meridian-sale-shows-nationals-warped-priorities.htm
+title: Cut-price Meridian sale shows National’s warped priorities
+date: 2013-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00390/cut-price-meridian-sale-shows-nationals-warped-priorities.htm
 author: green-party
+permalink: >-
+  /archive/2013/09/20/cut-price-meridian-sale-shows-nationals-warped-priorities/index.html
+layout: layout.njk
 ---
 Cut-price Meridian sale shows National’s warped priorities
 ==========================================================

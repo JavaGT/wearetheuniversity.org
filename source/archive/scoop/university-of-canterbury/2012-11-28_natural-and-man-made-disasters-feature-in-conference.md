@@ -1,9 +1,13 @@
 ---
 slug: natural-and-man-made-disasters-feature-in-conference
-title: "Natural and man-made disasters feature in conference"
-date: 2012-11-28
-source-url: https://www.scoop.co.nz/stories/CU1211/S00583/natural-and-man-made-disasters-feature-in-conference.htm
+title: Natural and man-made disasters feature in conference
+date: 2012-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00583/natural-and-man-made-disasters-feature-in-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/28/natural-and-man-made-disasters-feature-in-conference/index.html
+layout: layout.njk
 ---
 Natural and man-made disasters feature in conference
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-send-message-to-government
-title: "Students send message to Government"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/PO1012/S00013/students-send-message-to-government.htm
+title: Students send message to Government
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00013/students-send-message-to-government.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/12/01/students-send-message-to-government/index.html
+layout: layout.njk
 ---
 Students send message to Government
 ===================================

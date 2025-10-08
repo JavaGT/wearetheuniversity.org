@@ -1,9 +1,13 @@
 ---
 slug: new-initiative-to-bring-more-international-students
-title: "New initiative to bring more international students"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/ED1208/S00165/new-initiative-to-bring-more-international-students.htm
+title: New initiative to bring more international students
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00165/new-initiative-to-bring-more-international-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/29/new-initiative-to-bring-more-international-students/index.html
+layout: layout.njk
 ---
 New initiative to bring more international students
 ===================================================

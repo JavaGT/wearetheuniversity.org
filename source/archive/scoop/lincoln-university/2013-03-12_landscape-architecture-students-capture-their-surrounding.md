@@ -1,9 +1,13 @@
 ---
 slug: landscape-architecture-students-capture-their-surrounding
-title: "Landscape architecture students capture their surrounding"
-date: 2013-03-12
-source-url: https://www.scoop.co.nz/stories/ED1303/S00085/landscape-architecture-students-capture-their-surrounding.htm
+title: Landscape architecture students capture their surrounding
+date: 2013-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00085/landscape-architecture-students-capture-their-surrounding.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/03/12/landscape-architecture-students-capture-their-surrounding/index.html
+layout: layout.njk
 ---
 Landscape architecture students capture their surrounding
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-to-move-three-amendments-to-ppl-bill
-title: "Greens To Move Three Amendments To PPL Bill"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/PA0203/S00393/greens-to-move-three-amendments-to-ppl-bill.htm
+title: Greens To Move Three Amendments To PPL Bill
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00393/greens-to-move-three-amendments-to-ppl-bill.htm
 author: green-party
+permalink: /archive/2002/03/21/greens-to-move-three-amendments-to-ppl-bill/index.html
+layout: layout.njk
 ---
 Greens To Move Three Amendments To PPL Bill
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: surely-key-forgot-5-years-old-super-pledge
-title: "Surely Key forgot 5-years old super pledge"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/PA1307/S00203/surely-key-forgot-5-years-old-super-pledge.htm
+title: Surely Key forgot 5-years old super pledge
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00203/surely-key-forgot-5-years-old-super-pledge.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/11/surely-key-forgot-5-years-old-super-pledge/index.html
+layout: layout.njk
 ---
 Surely Key forgot 5-years old super pledge
 ==========================================

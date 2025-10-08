@@ -1,9 +1,12 @@
 ---
 slug: students-support-calls-to-review-ue-changes
-title: "Students' Support Calls to Review UE Changes"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/PO1501/S00121/students-support-calls-to-review-ue-changes.htm
+title: Students' Support Calls to Review UE Changes
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1501/S00121/students-support-calls-to-review-ue-changes.htm
 author: vuwsa
+permalink: /archive/2015/01/30/students-support-calls-to-review-ue-changes/index.html
+layout: layout.njk
 ---
 Students' Support Calls to Review UE Changes
 ============================================

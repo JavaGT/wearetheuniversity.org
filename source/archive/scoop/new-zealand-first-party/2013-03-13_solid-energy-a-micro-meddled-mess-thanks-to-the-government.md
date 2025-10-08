@@ -1,9 +1,13 @@
 ---
 slug: solid-energy-a-micro-meddled-mess-thanks-to-the-government
-title: "Solid Energy a Micro-Meddled Mess Thanks to the Government"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/PA1303/S00223/solid-energy-a-micro-meddled-mess-thanks-to-the-government.htm
+title: Solid Energy a Micro-Meddled Mess Thanks to the Government
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00223/solid-energy-a-micro-meddled-mess-thanks-to-the-government.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/13/solid-energy-a-micro-meddled-mess-thanks-to-the-government/index.html
+layout: layout.njk
 ---
 Solid Energy a Micro-Meddled Mess Thanks to the Government
 ==========================================================

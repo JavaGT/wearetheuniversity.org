@@ -1,9 +1,13 @@
 ---
 slug: north-island-regions-show-higher-rates-of-drug-dependency
-title: "North Island Regions Show Higher Rates of Drug Dependency"
-date: 2018-03-27
-source-url: https://www.scoop.co.nz/stories/GE1803/S00081/north-island-regions-show-higher-rates-of-drug-dependency.htm
+title: North Island Regions Show Higher Rates of Drug Dependency
+date: 2018-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00081/north-island-regions-show-higher-rates-of-drug-dependency.htm
 author: massey-university
+permalink: >-
+  /archive/2018/03/27/north-island-regions-show-higher-rates-of-drug-dependency/index.html
+layout: layout.njk
 ---
 North Island Regions Show Higher Rates of Drug Dependency
 =========================================================

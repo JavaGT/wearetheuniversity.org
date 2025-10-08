@@ -1,9 +1,13 @@
 ---
 slug: low-turnouts-further-damage-student-associations
-title: "Low Turnouts Further Damage Student Associations"
-date: 2001-11-05
-source-url: https://www.scoop.co.nz/stories/ED0111/S00009/low-turnouts-further-damage-student-associations.htm
+title: Low Turnouts Further Damage Student Associations
+date: 2001-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00009/low-turnouts-further-damage-student-associations.htm
 author: student-choice
+permalink: >-
+  /archive/2001/11/05/low-turnouts-further-damage-student-associations/index.html
+layout: layout.njk
 ---
 Low Turnouts Further Damage Student Associations
 ================================================

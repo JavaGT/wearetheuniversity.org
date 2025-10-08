@@ -1,9 +1,13 @@
 ---
 slug: gender-inequality-contributes-to-gambling-harm-for-women
-title: "Gender Inequality Contributes To Gambling Harm For Women"
-date: 2020-03-23
-source-url: https://www.scoop.co.nz/stories/PO2003/S00251/gender-inequality-contributes-to-gambling-harm-for-women.htm
+title: Gender Inequality Contributes To Gambling Harm For Women
+date: 2020-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00251/gender-inequality-contributes-to-gambling-harm-for-women.htm
 author: aut-university
+permalink: >-
+  /archive/2020/03/23/gender-inequality-contributes-to-gambling-harm-for-women/index.html
+layout: layout.njk
 ---
 Gender Inequality Contributes To Gambling Harm For Women
 ========================================================

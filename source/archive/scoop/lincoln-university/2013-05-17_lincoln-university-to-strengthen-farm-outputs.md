@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-to-strengthen-farm-outputs
-title: "Lincoln University to strengthen farm outputs"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/ED1305/S00120/lincoln-university-to-strengthen-farm-outputs.htm
+title: Lincoln University to strengthen farm outputs
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00120/lincoln-university-to-strengthen-farm-outputs.htm
 author: lincoln-university
+permalink: /archive/2013/05/17/lincoln-university-to-strengthen-farm-outputs/index.html
+layout: layout.njk
 ---
 Lincoln University to strengthen farm outputs
 =============================================

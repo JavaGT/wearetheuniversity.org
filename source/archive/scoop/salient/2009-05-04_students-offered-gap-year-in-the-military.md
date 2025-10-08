@@ -1,9 +1,12 @@
 ---
 slug: students-offered-gap-year-in-the-military
-title: "Students offered gap year in the military"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/ED0905/S00011/students-offered-gap-year-in-the-military.htm
+title: Students offered gap year in the military
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00011/students-offered-gap-year-in-the-military.htm
 author: salient
+permalink: /archive/2009/05/04/students-offered-gap-year-in-the-military/index.html
+layout: layout.njk
 ---
 Students offered gap year in the military
 =========================================

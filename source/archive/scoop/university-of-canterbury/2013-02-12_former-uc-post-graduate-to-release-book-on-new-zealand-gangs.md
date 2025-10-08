@@ -1,9 +1,13 @@
 ---
 slug: former-uc-post-graduate-to-release-book-on-new-zealand-gangs
-title: "Former UC Post-Graduate To Release Book On New Zealand Gangs"
-date: 2013-02-12
-source-url: https://www.scoop.co.nz/stories/ED1302/S00051/former-uc-post-graduate-to-release-book-on-new-zealand-gangs.htm
+title: Former UC Post-Graduate To Release Book On New Zealand Gangs
+date: 2013-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00051/former-uc-post-graduate-to-release-book-on-new-zealand-gangs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/12/former-uc-post-graduate-to-release-book-on-new-zealand-gangs/index.html
+layout: layout.njk
 ---
 Former UC Post-Graduate To Release Book On New Zealand Gangs
 ============================================================

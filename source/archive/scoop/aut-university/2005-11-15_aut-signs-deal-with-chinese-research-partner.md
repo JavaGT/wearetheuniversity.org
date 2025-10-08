@@ -1,9 +1,12 @@
 ---
 slug: aut-signs-deal-with-chinese-research-partner
-title: "AUT signs deal with Chinese research partner"
-date: 2005-11-15
-source-url: https://www.scoop.co.nz/stories/ED0511/S00057/aut-signs-deal-with-chinese-research-partner.htm
+title: AUT signs deal with Chinese research partner
+date: 2005-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00057/aut-signs-deal-with-chinese-research-partner.htm
 author: aut-university
+permalink: /archive/2005/11/15/aut-signs-deal-with-chinese-research-partner/index.html
+layout: layout.njk
 ---
 AUT signs deal with Chinese research partner
 ============================================

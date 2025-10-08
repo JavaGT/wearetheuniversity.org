@@ -1,9 +1,12 @@
 ---
 slug: labour-confirms-third-round-nominations
-title: "Labour confirms third round nominations"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/PA1009/S00120/labour-confirms-third-round-nominations.htm
+title: Labour confirms third round nominations
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00120/labour-confirms-third-round-nominations.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/08/labour-confirms-third-round-nominations/index.html
+layout: layout.njk
 ---
 Labour confirms third round nominations
 =======================================

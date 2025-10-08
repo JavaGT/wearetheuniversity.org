@@ -1,9 +1,12 @@
 ---
 slug: minister-at-odds-with-govts-students-policy
-title: "Minister at odds with Govt’s students policy"
-date: 2005-11-23
-source-url: https://www.scoop.co.nz/stories/PA0511/S00342/minister-at-odds-with-govts-students-policy.htm
+title: Minister at odds with Govt’s students policy
+date: 2005-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00342/minister-at-odds-with-govts-students-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/23/minister-at-odds-with-govts-students-policy/index.html
+layout: layout.njk
 ---
 Minister at odds with Govt’s students policy
 ============================================

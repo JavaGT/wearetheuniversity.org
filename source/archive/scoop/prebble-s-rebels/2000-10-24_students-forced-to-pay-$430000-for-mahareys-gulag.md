@@ -1,9 +1,12 @@
 ---
 slug: students-forced-to-pay-$430000-for-mahareys-gulag
-title: "Students forced to pay $430000 for Maharey's Gulag"
-date: 2000-10-24
-source-url: https://www.scoop.co.nz/stories/ED0010/S00034/students-forced-to-pay-430000-for-mahareys-gulag.htm
+title: Students forced to pay $430000 for Maharey's Gulag
+date: 2000-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00034/students-forced-to-pay-430000-for-mahareys-gulag.htm
 author: prebble-s-rebels
+permalink: /archive/2000/10/24/students-forced-to-pay-/index.html
+layout: layout.njk
 ---
 Students forced to pay $430000 for Maharey's Gulag
 ==================================================

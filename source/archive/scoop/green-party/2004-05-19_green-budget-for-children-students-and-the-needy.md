@@ -1,9 +1,13 @@
 ---
 slug: green-budget-for-children-students-and-the-needy
-title: "Green Budget for children, students and the needy"
-date: 2004-05-19
-source-url: https://www.scoop.co.nz/stories/PA0405/S00398/green-budget-for-children-students-and-the-needy.htm
+title: Green Budget for children, students and the needy
+date: 2004-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00398/green-budget-for-children-students-and-the-needy.htm
 author: green-party
+permalink: >-
+  /archive/2004/05/19/green-budget-for-children-students-and-the-needy/index.html
+layout: layout.njk
 ---
 Green Budget for children, students and the needy
 =================================================

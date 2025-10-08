@@ -1,9 +1,12 @@
 ---
 slug: minister-failing-to-give-farmers-the-facts
-title: "Minister failing to give farmers the facts"
-date: 2019-12-05
-source-url: https://www.scoop.co.nz/stories/PA1912/S00053/minister-failing-to-give-farmers-the-facts.htm
+title: Minister failing to give farmers the facts
+date: 2019-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00053/minister-failing-to-give-farmers-the-facts.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/05/minister-failing-to-give-farmers-the-facts/index.html
+layout: layout.njk
 ---
 Minister failing to give farmers the facts
 ==========================================

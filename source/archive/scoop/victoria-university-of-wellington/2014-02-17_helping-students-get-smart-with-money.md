@@ -1,9 +1,12 @@
 ---
 slug: helping-students-get-smart-with-money
-title: "Helping students get smart with money"
-date: 2014-02-17
-source-url: https://www.scoop.co.nz/stories/AK1402/S00322/helping-students-get-smart-with-money.htm
+title: Helping students get smart with money
+date: 2014-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00322/helping-students-get-smart-with-money.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/02/17/helping-students-get-smart-with-money/index.html
+layout: layout.njk
 ---
 Helping students get smart with money
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: young-nats-speech-to-teacher-rally
-title: "Young Nats Speech To Teacher Rally"
-date: 2002-05-09
-source-url: https://www.scoop.co.nz/stories/PO0205/S00112/young-nats-speech-to-teacher-rally.htm
+title: Young Nats Speech To Teacher Rally
+date: 2002-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00112/young-nats-speech-to-teacher-rally.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/05/09/young-nats-speech-to-teacher-rally/index.html
+layout: layout.njk
 ---
 Young Nats Speech To Teacher Rally
 ==================================

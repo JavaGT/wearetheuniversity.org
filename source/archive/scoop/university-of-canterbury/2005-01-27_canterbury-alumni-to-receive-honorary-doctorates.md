@@ -1,9 +1,13 @@
 ---
 slug: canterbury-alumni-to-receive-honorary-doctorates
-title: "Canterbury alumni to receive honorary doctorates"
-date: 2005-01-27
-source-url: https://www.scoop.co.nz/stories/ED0501/S00059/canterbury-alumni-to-receive-honorary-doctorates.htm
+title: Canterbury alumni to receive honorary doctorates
+date: 2005-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00059/canterbury-alumni-to-receive-honorary-doctorates.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/01/27/canterbury-alumni-to-receive-honorary-doctorates/index.html
+layout: layout.njk
 ---
 Canterbury alumni to receive honorary doctorates
 ================================================

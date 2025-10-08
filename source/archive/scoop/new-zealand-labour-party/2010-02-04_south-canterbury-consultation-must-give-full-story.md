@@ -1,9 +1,13 @@
 ---
 slug: south-canterbury-consultation-must-give-full-story
-title: "South Canterbury consultation must give full story"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/PA1002/S00062/south-canterbury-consultation-must-give-full-story.htm
+title: South Canterbury consultation must give full story
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00062/south-canterbury-consultation-must-give-full-story.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/04/south-canterbury-consultation-must-give-full-story/index.html
+layout: layout.njk
 ---
 South Canterbury consultation must give full story
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: christchurch-must-get-dedicated-revenue-stream
-title: "Christchurch must get dedicated revenue stream"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/PA1111/S00199/christchurch-must-get-dedicated-revenue-stream.htm
+title: Christchurch must get dedicated revenue stream
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00199/christchurch-must-get-dedicated-revenue-stream.htm
 author: green-party
+permalink: /archive/2011/11/10/christchurch-must-get-dedicated-revenue-stream/index.html
+layout: layout.njk
 ---
 Christchurch must get dedicated revenue stream
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: police-dont-need-rescuing-but-dr-brash-does
-title: "Police don't need rescuing but Dr Brash does"
-date: 2005-09-10
-source-url: https://www.scoop.co.nz/stories/PA0509/S00264/police-dont-need-rescuing-but-dr-brash-does.htm
+title: Police don't need rescuing but Dr Brash does
+date: 2005-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00264/police-dont-need-rescuing-but-dr-brash-does.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/10/police-dont-need-rescuing-but-dr-brash-does/index.html
+layout: layout.njk
 ---
 Police don't need rescuing but Dr Brash does
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: rare-business-scholarship-another-string-to-bow
-title: "Rare business scholarship another string to bow"
-date: 2009-11-04
-source-url: https://www.scoop.co.nz/stories/ED0911/S00020/rare-business-scholarship-another-string-to-bow.htm
+title: Rare business scholarship another string to bow
+date: 2009-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00020/rare-business-scholarship-another-string-to-bow.htm
 author: massey-university
+permalink: /archive/2009/11/04/rare-business-scholarship-another-string-to-bow/index.html
+layout: layout.njk
 ---
 Rare business scholarship another string to bow
 ===============================================

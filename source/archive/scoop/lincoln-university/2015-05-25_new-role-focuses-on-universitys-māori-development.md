@@ -1,9 +1,12 @@
 ---
 slug: new-role-focuses-on-universitys-māori-development
-title: "New role focuses on University’s Māori development"
-date: 2015-05-25
-source-url: https://www.scoop.co.nz/stories/ED1505/S00092/new-role-focuses-on-universitys-maori-development.htm
+title: New role focuses on University’s Māori development
+date: 2015-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00092/new-role-focuses-on-universitys-maori-development.htm
 author: lincoln-university
+permalink: /archive/2015/05/25/new-role-focuses-on-universitys-m/index.html
+layout: layout.njk
 ---
 New role focuses on University’s Māori development
 ==================================================

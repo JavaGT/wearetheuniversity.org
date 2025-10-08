@@ -1,9 +1,13 @@
 ---
 slug: workers-memorial-day-a-time-to-reset-health-and-safety
-title: "Workers Memorial Day A Time To Reset Health And Safety"
-date: 2020-04-28
-source-url: https://www.scoop.co.nz/stories/PO2004/S00259/workers-memorial-day-a-time-to-reset-health-and-safety.htm
+title: Workers Memorial Day A Time To Reset Health And Safety
+date: 2020-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00259/workers-memorial-day-a-time-to-reset-health-and-safety.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2020/04/28/workers-memorial-day-a-time-to-reset-health-and-safety/index.html
+layout: layout.njk
 ---
 Workers Memorial Day A Time To Reset Health And Safety
 ======================================================

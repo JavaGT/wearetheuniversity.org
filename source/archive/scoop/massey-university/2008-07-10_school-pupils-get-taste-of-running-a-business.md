@@ -1,9 +1,12 @@
 ---
 slug: school-pupils-get-taste-of-running-a-business
-title: "School pupils get taste of running a business"
-date: 2008-07-10
-source-url: https://www.scoop.co.nz/stories/ED0807/S00030/school-pupils-get-taste-of-running-a-business.htm
+title: School pupils get taste of running a business
+date: 2008-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00030/school-pupils-get-taste-of-running-a-business.htm
 author: massey-university
+permalink: /archive/2008/07/10/school-pupils-get-taste-of-running-a-business/index.html
+layout: layout.njk
 ---
 School pupils get taste of running a business
 =============================================

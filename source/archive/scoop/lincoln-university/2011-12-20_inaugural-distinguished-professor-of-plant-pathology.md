@@ -1,9 +1,13 @@
 ---
 slug: inaugural-distinguished-professor-of-plant-pathology
-title: "Inaugural Distinguished Professor of Plant Pathology"
-date: 2011-12-20
-source-url: https://www.scoop.co.nz/stories/ED1112/S00103/inaugural-distinguished-professor-of-plant-pathology.htm
+title: Inaugural Distinguished Professor of Plant Pathology
+date: 2011-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00103/inaugural-distinguished-professor-of-plant-pathology.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/12/20/inaugural-distinguished-professor-of-plant-pathology/index.html
+layout: layout.njk
 ---
 Inaugural Distinguished Professor of Plant Pathology
 ====================================================

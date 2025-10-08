@@ -1,9 +1,12 @@
 ---
 slug: whos-calling-the-shots-at-hnz
-title: "Who's calling the shots at HNZ?"
-date: 2006-08-03
-source-url: https://www.scoop.co.nz/stories/PA0608/S00058/whos-calling-the-shots-at-hnz.htm
+title: Who's calling the shots at HNZ?
+date: 2006-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00058/whos-calling-the-shots-at-hnz.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/03/whos-calling-the-shots-at-hnz/index.html
+layout: layout.njk
 ---
 Who's calling the shots at HNZ?
 ===============================

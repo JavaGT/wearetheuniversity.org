@@ -1,9 +1,12 @@
 ---
 slug: revolutionary-handheld-dna-diagnostic-unit
-title: "Revolutionary handheld DNA diagnostic unit"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/SC1408/S00075/revolutionary-handheld-dna-diagnostic-unit.htm
+title: Revolutionary handheld DNA diagnostic unit
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00075/revolutionary-handheld-dna-diagnostic-unit.htm
 author: university-of-otago
+permalink: /archive/2014/08/26/revolutionary-handheld-dna-diagnostic-unit/index.html
+layout: layout.njk
 ---
 Revolutionary handheld DNA diagnostic unit
 ==========================================

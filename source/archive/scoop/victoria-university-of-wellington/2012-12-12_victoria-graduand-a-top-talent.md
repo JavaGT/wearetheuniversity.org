@@ -1,9 +1,12 @@
 ---
 slug: victoria-graduand-a-top-talent
-title: "Victoria graduand a top talent"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/ED1212/S00085/victoria-graduand-a-top-talent.htm
+title: Victoria graduand a top talent
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00085/victoria-graduand-a-top-talent.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/12/victoria-graduand-a-top-talent/index.html
+layout: layout.njk
 ---
 Victoria graduand a top talent
 ==============================

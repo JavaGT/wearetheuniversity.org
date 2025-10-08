@@ -1,9 +1,12 @@
 ---
 slug: health-workforce-new-bureaucrats-more-reports
-title: "Health workforce: New bureaucrats – more reports?"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/PA0809/S00402/health-workforce-new-bureaucrats-more-reports.htm
+title: 'Health workforce: New bureaucrats – more reports?'
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00402/health-workforce-new-bureaucrats-more-reports.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/18/health-workforce-new-bureaucrats-more-reports/index.html
+layout: layout.njk
 ---
 Health workforce: New bureaucrats – more reports?
 =================================================

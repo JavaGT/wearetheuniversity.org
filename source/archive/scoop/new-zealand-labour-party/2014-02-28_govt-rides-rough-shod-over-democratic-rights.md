@@ -1,9 +1,12 @@
 ---
 slug: govt-rides-rough-shod-over-democratic-rights
-title: "Govt rides rough shod over democratic rights"
-date: 2014-02-28
-source-url: https://www.scoop.co.nz/stories/PA1402/S00419/govt-rides-rough-shod-over-democratic-rights.htm
+title: Govt rides rough shod over democratic rights
+date: 2014-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00419/govt-rides-rough-shod-over-democratic-rights.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/28/govt-rides-rough-shod-over-democratic-rights/index.html
+layout: layout.njk
 ---
 Govt rides rough shod over democratic rights
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: phd-student-wins-fulbright-travel-award
-title: "PhD student wins Fulbright Travel Award"
-date: 2014-07-09
-source-url: https://www.scoop.co.nz/stories/ED1407/S00059/phd-student-wins-fulbright-travel-award.htm
+title: PhD student wins Fulbright Travel Award
+date: 2014-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00059/phd-student-wins-fulbright-travel-award.htm
 author: university-of-waikato
+permalink: /archive/2014/07/09/phd-student-wins-fulbright-travel-award/index.html
+layout: layout.njk
 ---
 PhD student wins Fulbright Travel Award
 =======================================

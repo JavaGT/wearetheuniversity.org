@@ -1,9 +1,13 @@
 ---
 slug: national-selects-claudette-hauiti-as-kelston-candidate
-title: "National selects Claudette Hauiti as Kelston candidate"
-date: 2014-06-14
-source-url: https://www.scoop.co.nz/stories/PO1406/S00193/national-selects-claudette-hauiti-as-kelston-candidate.htm
+title: National selects Claudette Hauiti as Kelston candidate
+date: 2014-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00193/national-selects-claudette-hauiti-as-kelston-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/14/national-selects-claudette-hauiti-as-kelston-candidate/index.html
+layout: layout.njk
 ---
 National selects Claudette Hauiti as Kelston candidate
 ======================================================

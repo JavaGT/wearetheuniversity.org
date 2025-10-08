@@ -1,9 +1,12 @@
 ---
 slug: chinese-farm-purchases-tangled-charade-peters
-title: "Chinese Farm Purchases \"Tangled Charade\"  - Peters"
-date: 2010-05-10
-source-url: https://www.scoop.co.nz/stories/PO1005/S00084/chinese-farm-purchases-tangled-charade-peters.htm
+title: Chinese Farm Purchases "Tangled Charade"  - Peters
+date: 2010-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00084/chinese-farm-purchases-tangled-charade-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2010/05/10/chinese-farm-purchases-tangled-charade-peters/index.html
+layout: layout.njk
 ---
 Chinese Farm Purchases “Tangled Charade” - Peters
 =================================================

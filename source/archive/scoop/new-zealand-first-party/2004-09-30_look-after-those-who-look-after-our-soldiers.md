@@ -1,9 +1,12 @@
 ---
 slug: look-after-those-who-look-after-our-soldiers
-title: "Look After Those Who Look After Our Soldiers"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/PA0409/S00603/look-after-those-who-look-after-our-soldiers.htm
+title: Look After Those Who Look After Our Soldiers
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00603/look-after-those-who-look-after-our-soldiers.htm
 author: new-zealand-first-party
+permalink: /archive/2004/09/30/look-after-those-who-look-after-our-soldiers/index.html
+layout: layout.njk
 ---
 Look After Those Who Look After Our Soldiers
 ============================================

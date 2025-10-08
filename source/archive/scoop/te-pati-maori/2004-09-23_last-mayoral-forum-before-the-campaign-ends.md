@@ -1,9 +1,12 @@
 ---
 slug: last-mayoral-forum-before-the-campaign-ends
-title: "Last Mayoral Forum before the campaign ends"
-date: 2004-09-23
-source-url: https://www.scoop.co.nz/stories/AK0409/S00248/last-mayoral-forum-before-the-campaign-ends.htm
+title: Last Mayoral Forum before the campaign ends
+date: 2004-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0409/S00248/last-mayoral-forum-before-the-campaign-ends.htm
 author: te-pati-maori
+permalink: /archive/2004/09/23/last-mayoral-forum-before-the-campaign-ends/index.html
+layout: layout.njk
 ---
 Last Mayoral Forum before the campaign ends
 ===========================================

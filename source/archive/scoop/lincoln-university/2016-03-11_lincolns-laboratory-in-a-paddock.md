@@ -1,9 +1,12 @@
 ---
 slug: lincolns-laboratory-in-a-paddock
-title: "Lincoln’s laboratory in a paddock"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/ED1603/S00043/lincolns-laboratory-in-a-paddock.htm
+title: Lincoln’s laboratory in a paddock
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00043/lincolns-laboratory-in-a-paddock.htm
 author: lincoln-university
+permalink: /archive/2016/03/11/lincolns-laboratory-in-a-paddock/index.html
+layout: layout.njk
 ---
 Lincoln’s laboratory in a paddock
 =================================

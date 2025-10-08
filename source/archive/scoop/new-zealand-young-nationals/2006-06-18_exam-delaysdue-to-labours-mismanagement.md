@@ -1,9 +1,12 @@
 ---
 slug: exam-delaysdue-to-labours-mismanagement
-title: "Exam delaysdue to Labour’s mismanagement"
-date: 2006-06-18
-source-url: https://www.scoop.co.nz/stories/PO0606/S00179/exam-delaysdue-to-labours-mismanagement.htm
+title: Exam delaysdue to Labour’s mismanagement
+date: 2006-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0606/S00179/exam-delaysdue-to-labours-mismanagement.htm
 author: new-zealand-young-nationals
+permalink: /archive/2006/06/18/exam-delaysdue-to-labours-mismanagement/index.html
+layout: layout.njk
 ---
 Exam delaysdue to Labour’s mismanagement
 ========================================

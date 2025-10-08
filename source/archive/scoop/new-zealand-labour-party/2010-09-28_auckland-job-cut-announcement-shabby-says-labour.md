@@ -1,9 +1,13 @@
 ---
 slug: auckland-job-cut-announcement-shabby-says-labour
-title: "Auckland job cut announcement shabby says Labour"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/PA1009/S00404/auckland-job-cut-announcement-shabby-says-labour.htm
+title: Auckland job cut announcement shabby says Labour
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00404/auckland-job-cut-announcement-shabby-says-labour.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/28/auckland-job-cut-announcement-shabby-says-labour/index.html
+layout: layout.njk
 ---
 Auckland job cut announcement shabby says Labour
 ================================================

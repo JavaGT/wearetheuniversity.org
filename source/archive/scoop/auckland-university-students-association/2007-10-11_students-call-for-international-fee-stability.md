@@ -1,9 +1,12 @@
 ---
 slug: students-call-for-international-fee-stability
-title: "Students call for international fee stability"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/ED0710/S00039/students-call-for-international-fee-stability.htm
+title: Students call for international fee stability
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00039/students-call-for-international-fee-stability.htm
 author: auckland-university-students-association
+permalink: /archive/2007/10/11/students-call-for-international-fee-stability/index.html
+layout: layout.njk
 ---
 Students call for international fee stability
 =============================================

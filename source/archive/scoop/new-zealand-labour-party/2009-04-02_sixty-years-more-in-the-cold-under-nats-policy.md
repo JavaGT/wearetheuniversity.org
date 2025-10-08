@@ -1,9 +1,12 @@
 ---
 slug: sixty-years-more-in-the-cold-under-nats-policy
-title: "Sixty years more in the cold under Nat’s policy"
-date: 2009-04-02
-source-url: https://www.scoop.co.nz/stories/PA0904/S00045/sixty-years-more-in-the-cold-under-nats-policy.htm
+title: Sixty years more in the cold under Nat’s policy
+date: 2009-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00045/sixty-years-more-in-the-cold-under-nats-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/02/sixty-years-more-in-the-cold-under-nats-policy/index.html
+layout: layout.njk
 ---
 Sixty years more in the cold under Nat’s policy
 ===============================================

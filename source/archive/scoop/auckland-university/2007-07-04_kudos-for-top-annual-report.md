@@ -1,9 +1,11 @@
 ---
 slug: kudos-for-top-annual-report
-title: "Kudos for top annual report"
-date: 2007-07-04
+title: Kudos for top annual report
+date: 2007-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0707/S00018/kudos-for-top-annual-report.htm
 author: auckland-university
+permalink: /archive/2007/07/04/kudos-for-top-annual-report/index.html
+layout: layout.njk
 ---
 Kudos for top annual report
 ===========================

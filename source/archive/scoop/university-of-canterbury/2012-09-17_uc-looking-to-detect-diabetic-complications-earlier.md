@@ -1,9 +1,13 @@
 ---
 slug: uc-looking-to-detect-diabetic-complications-earlier
-title: "UC looking to detect diabetic complications earlier"
-date: 2012-09-17
-source-url: https://www.scoop.co.nz/stories/GE1209/S00068/uc-looking-to-detect-diabetic-complications-earlier.htm
+title: UC looking to detect diabetic complications earlier
+date: 2012-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1209/S00068/uc-looking-to-detect-diabetic-complications-earlier.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/17/uc-looking-to-detect-diabetic-complications-earlier/index.html
+layout: layout.njk
 ---
 UC looking to detect diabetic complications earlier
 ===================================================

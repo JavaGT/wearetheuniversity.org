@@ -1,9 +1,12 @@
 ---
 slug: first-novel-shortlisted-for-top-book-award
-title: "First novel shortlisted for top book award"
-date: 2008-06-17
-source-url: https://www.scoop.co.nz/stories/ED0806/S00048/first-novel-shortlisted-for-top-book-award.htm
+title: First novel shortlisted for top book award
+date: 2008-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00048/first-novel-shortlisted-for-top-book-award.htm
 author: massey-university
+permalink: /archive/2008/06/17/first-novel-shortlisted-for-top-book-award/index.html
+layout: layout.njk
 ---
 First novel shortlisted for top book award
 ==========================================

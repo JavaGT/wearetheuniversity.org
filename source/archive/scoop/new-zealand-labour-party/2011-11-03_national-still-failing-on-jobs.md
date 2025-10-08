@@ -1,9 +1,12 @@
 ---
 slug: national-still-failing-on-jobs
-title: "National still failing on jobs"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/PA1111/S00060/national-still-failing-on-jobs.htm
+title: National still failing on jobs
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00060/national-still-failing-on-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/03/national-still-failing-on-jobs/index.html
+layout: layout.njk
 ---
 National still failing on jobs
 ==============================

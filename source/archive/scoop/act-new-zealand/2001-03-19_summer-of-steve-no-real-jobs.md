@@ -1,9 +1,11 @@
 ---
 slug: summer-of-steve-no-real-jobs
-title: "Summer of Steve: No ‘Real Jobs’"
-date: 2001-03-19
+title: 'Summer of Steve: No ‘Real Jobs’'
+date: 2001-03-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0103/S00307/summer-of-steve-no-real-jobs.htm
 author: act-new-zealand
+permalink: /archive/2001/03/19/summer-of-steve-no-real-jobs/index.html
+layout: layout.njk
 ---
 Summer of Steve: No ‘Real Jobs’
 ===============================

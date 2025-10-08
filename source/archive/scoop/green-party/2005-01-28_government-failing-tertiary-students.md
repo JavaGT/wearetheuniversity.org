@@ -1,9 +1,12 @@
 ---
 slug: government-failing-tertiary-students
-title: "Government failing tertiary students"
-date: 2005-01-28
-source-url: https://www.scoop.co.nz/stories/PA0501/S00270/government-failing-tertiary-students.htm
+title: Government failing tertiary students
+date: 2005-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00270/government-failing-tertiary-students.htm
 author: green-party
+permalink: /archive/2005/01/28/government-failing-tertiary-students/index.html
+layout: layout.njk
 ---
 Government failing tertiary students
 ====================================

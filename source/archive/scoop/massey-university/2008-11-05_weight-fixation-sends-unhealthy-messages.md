@@ -1,9 +1,12 @@
 ---
 slug: weight-fixation-sends-unhealthy-messages
-title: "Weight fixation sends unhealthy messages"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/GE0811/S00016/weight-fixation-sends-unhealthy-messages.htm
+title: Weight fixation sends unhealthy messages
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0811/S00016/weight-fixation-sends-unhealthy-messages.htm
 author: massey-university
+permalink: /archive/2008/11/05/weight-fixation-sends-unhealthy-messages/index.html
+layout: layout.njk
 ---
 Weight fixation sends unhealthy messages
 ========================================

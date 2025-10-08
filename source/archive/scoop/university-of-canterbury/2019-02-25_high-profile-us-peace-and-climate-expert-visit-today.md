@@ -1,9 +1,13 @@
 ---
 slug: high-profile-us-peace-and-climate-expert-visit-today
-title: "High profile US peace and climate expert visit today"
-date: 2019-02-25
-source-url: https://www.scoop.co.nz/stories/ED1902/S00080/high-profile-us-peace-and-climate-expert-visit-today.htm
+title: High profile US peace and climate expert visit today
+date: 2019-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00080/high-profile-us-peace-and-climate-expert-visit-today.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/02/25/high-profile-us-peace-and-climate-expert-visit-today/index.html
+layout: layout.njk
 ---
 High profile US peace and climate expert visit today
 ====================================================

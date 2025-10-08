@@ -1,9 +1,13 @@
 ---
 slug: how-many-more-ambulances-can-fit-at-the-bottom-of-the-cliff
-title: "How many more ambulances can fit at the bottom of the cliff?"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PO1210/S00166/how-many-more-ambulances-can-fit-at-the-bottom-of-the-cliff.htm
+title: How many more ambulances can fit at the bottom of the cliff?
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00166/how-many-more-ambulances-can-fit-at-the-bottom-of-the-cliff.htm
 author: nzei
+permalink: >-
+  /archive/2012/10/11/how-many-more-ambulances-can-fit-at-the-bottom-of-the-cliff/index.html
+layout: layout.njk
 ---
 How many more ambulances can fit at the bottom of the cliff?
 ============================================================

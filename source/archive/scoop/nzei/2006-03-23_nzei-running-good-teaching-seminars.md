@@ -1,9 +1,12 @@
 ---
 slug: nzei-running-good-teaching-seminars
-title: "NZEI Running Good Teaching Seminars"
-date: 2006-03-23
-source-url: https://www.scoop.co.nz/stories/ED0603/S00062/nzei-running-good-teaching-seminars.htm
+title: NZEI Running Good Teaching Seminars
+date: 2006-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00062/nzei-running-good-teaching-seminars.htm
 author: nzei
+permalink: /archive/2006/03/23/nzei-running-good-teaching-seminars/index.html
+layout: layout.njk
 ---
 NZEI Running Good Teaching Seminars
 ===================================

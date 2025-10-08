@@ -1,9 +1,13 @@
 ---
 slug: greens-warn-innocent-people-will-be-barred-from-nz
-title: "Greens warn innocent people will be barred from NZ"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00343/greens-warn-innocent-people-will-be-barred-from-nz.htm
+title: Greens warn innocent people will be barred from NZ
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00343/greens-warn-innocent-people-will-be-barred-from-nz.htm
 author: green-party
+permalink: >-
+  /archive/2007/10/18/greens-warn-innocent-people-will-be-barred-from-nz/index.html
+layout: layout.njk
 ---
 Greens warn innocent people will be barred from NZ
 ==================================================

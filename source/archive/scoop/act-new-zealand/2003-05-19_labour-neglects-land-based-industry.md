@@ -1,9 +1,12 @@
 ---
 slug: labour-neglects-land-based-industry
-title: "Labour Neglects Land-Based Industry"
-date: 2003-05-19
-source-url: https://www.scoop.co.nz/stories/PA0305/S00504/labour-neglects-land-based-industry.htm
+title: Labour Neglects Land-Based Industry
+date: 2003-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00504/labour-neglects-land-based-industry.htm
 author: act-new-zealand
+permalink: /archive/2003/05/19/labour-neglects-land-based-industry/index.html
+layout: layout.njk
 ---
 Labour Neglects Land-Based Industry
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-for-week-ending-4-october
-title: "Beehive Bulletin For Week Ending 4 October"
-date: 2002-10-04
-source-url: https://www.scoop.co.nz/stories/PA0210/S00109/beehive-bulletin-for-week-ending-4-october.htm
+title: Beehive Bulletin For Week Ending 4 October
+date: 2002-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00109/beehive-bulletin-for-week-ending-4-october.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/10/04/beehive-bulletin-for-week-ending-4-october/index.html
+layout: layout.njk
 ---
 Beehive Bulletin For Week Ending 4 October
 ==========================================

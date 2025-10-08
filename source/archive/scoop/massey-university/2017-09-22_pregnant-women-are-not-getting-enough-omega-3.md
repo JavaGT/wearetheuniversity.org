@@ -1,9 +1,12 @@
 ---
 slug: pregnant-women-are-not-getting-enough-omega-3
-title: "Pregnant women are not getting enough Omega-3"
-date: 2017-09-22
-source-url: https://www.scoop.co.nz/stories/ED1709/S00088/pregnant-women-are-not-getting-enough-omega-3.htm
+title: Pregnant women are not getting enough Omega-3
+date: 2017-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00088/pregnant-women-are-not-getting-enough-omega-3.htm
 author: massey-university
+permalink: /archive/2017/09/22/pregnant-women-are-not-getting-enough-omega-3/index.html
+layout: layout.njk
 ---
 Pregnant women are not getting enough Omega-3
 =============================================

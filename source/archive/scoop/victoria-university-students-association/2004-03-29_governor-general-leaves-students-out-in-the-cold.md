@@ -1,9 +1,13 @@
 ---
 slug: governor-general-leaves-students-out-in-the-cold
-title: "Governor General Leaves Students Out In The Cold"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/ED0403/S00120/governor-general-leaves-students-out-in-the-cold.htm
+title: Governor General Leaves Students Out In The Cold
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00120/governor-general-leaves-students-out-in-the-cold.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/03/29/governor-general-leaves-students-out-in-the-cold/index.html
+layout: layout.njk
 ---
 Governor General Leaves Students Out In The Cold
 ================================================

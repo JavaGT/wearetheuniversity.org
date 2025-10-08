@@ -1,9 +1,12 @@
 ---
 slug: historians-to-tell-new-zealands-wwi-story
-title: "Historians to tell New Zealand’s WWI story"
-date: 2012-07-30
-source-url: https://www.scoop.co.nz/stories/CU1207/S00491/historians-to-tell-new-zealands-wwi-story.htm
+title: Historians to tell New Zealand’s WWI story
+date: 2012-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00491/historians-to-tell-new-zealands-wwi-story.htm
 author: massey-university
+permalink: /archive/2012/07/30/historians-to-tell-new-zealands-wwi-story/index.html
+layout: layout.njk
 ---
 Historians to tell New Zealand’s WWI story
 ==========================================

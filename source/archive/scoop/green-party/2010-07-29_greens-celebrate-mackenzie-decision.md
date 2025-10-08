@@ -1,9 +1,12 @@
 ---
 slug: greens-celebrate-mackenzie-decision
-title: "Greens celebrate Mackenzie decision"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00482/greens-celebrate-mackenzie-decision.htm
+title: Greens celebrate Mackenzie decision
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00482/greens-celebrate-mackenzie-decision.htm
 author: green-party
+permalink: /archive/2010/07/29/greens-celebrate-mackenzie-decision/index.html
+layout: layout.njk
 ---
 Greens celebrate Mackenzie decision
 ===================================

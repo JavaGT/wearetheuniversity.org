@@ -1,11 +1,17 @@
 ---
-title: "Student-focused Q&A [on the proposed new faculty arrangements for Business and Economics, and Law]"
-slug: "proposed-new-faculty-business-economics-law-student-qa"
-date: 2025-04-03
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/news/notices/2025/proposed-new-faculty-business-economics-law/student-qa.html
+title: >-
+  Student-focused Q&A [on the proposed new faculty arrangements for Business and
+  Economics, and Law]
+slug: proposed-new-faculty-business-economics-law-student-qa
+date: 2025-04-03T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/news/notices/2025/proposed-new-faculty-business-economics-law/student-qa.html
 author: University of Auckland
 author-slug: university-of-auckland
+permalink: >-
+  /archive/2025/04/03/proposed-new-faculty-business-economics-law-student-qa/index.html
+layout: layout.njk
 ---
 
 # Student-focused Q&A

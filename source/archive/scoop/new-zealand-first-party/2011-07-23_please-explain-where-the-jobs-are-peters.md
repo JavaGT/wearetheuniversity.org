@@ -1,9 +1,12 @@
 ---
 slug: please-explain-where-the-jobs-are-peters
-title: "Please Explain Where The Jobs Are - Peters"
-date: 2011-07-23
-source-url: https://www.scoop.co.nz/stories/PO1107/S00266/please-explain-where-the-jobs-are-peters.htm
+title: Please Explain Where The Jobs Are - Peters
+date: 2011-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00266/please-explain-where-the-jobs-are-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2011/07/23/please-explain-where-the-jobs-are-peters/index.html
+layout: layout.njk
 ---
 Please Explain Where The Jobs Are - Peters
 ==========================================

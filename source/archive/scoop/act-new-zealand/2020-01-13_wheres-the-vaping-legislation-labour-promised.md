@@ -1,9 +1,12 @@
 ---
 slug: wheres-the-vaping-legislation-labour-promised
-title: "Where’s the vaping legislation Labour promised?"
-date: 2020-01-13
-source-url: https://www.scoop.co.nz/stories/PA2001/S00023/wheres-the-vaping-legislation-labour-promised.htm
+title: Where’s the vaping legislation Labour promised?
+date: 2020-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00023/wheres-the-vaping-legislation-labour-promised.htm
 author: act-new-zealand
+permalink: /archive/2020/01/13/wheres-the-vaping-legislation-labour-promised/index.html
+layout: layout.njk
 ---
 Where’s the vaping legislation Labour promised?
 ===============================================

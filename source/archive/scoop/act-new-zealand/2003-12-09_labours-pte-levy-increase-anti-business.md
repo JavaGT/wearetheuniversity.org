@@ -1,9 +1,12 @@
 ---
 slug: labours-pte-levy-increase-anti-business
-title: "Labour's PTE Levy Increase Anti-business"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/PA0312/S00197/labours-pte-levy-increase-anti-business.htm
+title: Labour's PTE Levy Increase Anti-business
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00197/labours-pte-levy-increase-anti-business.htm
 author: act-new-zealand
+permalink: /archive/2003/12/09/labours-pte-levy-increase-anti-business/index.html
+layout: layout.njk
 ---
 Labour's PTE Levy Increase Anti-business
 ========================================

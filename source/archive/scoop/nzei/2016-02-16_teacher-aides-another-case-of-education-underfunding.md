@@ -1,9 +1,13 @@
 ---
 slug: teacher-aides-another-case-of-education-underfunding
-title: "Teacher aides – another case of education underfunding"
-date: 2016-02-16
-source-url: https://www.scoop.co.nz/stories/PO1602/S00185/teacher-aides-another-case-of-education-underfunding.htm
+title: Teacher aides – another case of education underfunding
+date: 2016-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00185/teacher-aides-another-case-of-education-underfunding.htm
 author: nzei
+permalink: >-
+  /archive/2016/02/16/teacher-aides-another-case-of-education-underfunding/index.html
+layout: layout.njk
 ---
 Teacher aides – another case of education underfunding
 ======================================================

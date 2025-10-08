@@ -1,9 +1,12 @@
 ---
 slug: govt-tries-to-blackmail-tertiary-institutions
-title: "Govt tries to blackmail tertiary institutions"
-date: 2001-05-21
-source-url: https://www.scoop.co.nz/stories/PA0105/S00418/govt-tries-to-blackmail-tertiary-institutions.htm
+title: Govt tries to blackmail tertiary institutions
+date: 2001-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00418/govt-tries-to-blackmail-tertiary-institutions.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/21/govt-tries-to-blackmail-tertiary-institutions/index.html
+layout: layout.njk
 ---
 Govt tries to blackmail tertiary institutions
 =============================================

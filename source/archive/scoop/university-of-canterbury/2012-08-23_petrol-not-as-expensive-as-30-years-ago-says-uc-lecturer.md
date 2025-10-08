@@ -1,9 +1,13 @@
 ---
 slug: petrol-not-as-expensive-as-30-years-ago-says-uc-lecturer
-title: "Petrol not as expensive as 30 years ago, says UC lecturer"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/ED1208/S00126/petrol-not-as-expensive-as-30-years-ago-says-uc-lecturer.htm
+title: Petrol not as expensive as 30 years ago, says UC lecturer
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00126/petrol-not-as-expensive-as-30-years-ago-says-uc-lecturer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/23/petrol-not-as-expensive-as-30-years-ago-says-uc-lecturer/index.html
+layout: layout.njk
 ---
 Petrol not as expensive as 30 years ago, says UC lecturer
 =========================================================

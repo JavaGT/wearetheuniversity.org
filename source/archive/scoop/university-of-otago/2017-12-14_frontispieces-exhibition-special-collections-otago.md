@@ -1,9 +1,13 @@
 ---
 slug: frontispieces-exhibition-special-collections-otago
-title: "Frontispieces Exhibition - Special Collections, Otago"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/CU1712/S00217/frontispieces-exhibition-special-collections-otago.htm
+title: Frontispieces Exhibition - Special Collections, Otago
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00217/frontispieces-exhibition-special-collections-otago.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/12/14/frontispieces-exhibition-special-collections-otago/index.html
+layout: layout.njk
 ---
 Frontispieces Exhibition - Special Collections, Otago
 =====================================================

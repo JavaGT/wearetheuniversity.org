@@ -1,9 +1,12 @@
 ---
 slug: free-press-16-march-2020-covid-19
-title: "Free Press, 16 March 2020: COVID-19"
-date: 2020-03-16
-source-url: https://www.scoop.co.nz/stories/PA2003/S00113/free-press-16-march-2020-covid-19.htm
+title: 'Free Press, 16 March 2020: COVID-19'
+date: 2020-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00113/free-press-16-march-2020-covid-19.htm
 author: act-new-zealand
+permalink: /archive/2020/03/16/free-press-16-march-2020-covid-19/index.html
+layout: layout.njk
 ---
 Free Press, 16 March 2020: COVID-19
 ===================================

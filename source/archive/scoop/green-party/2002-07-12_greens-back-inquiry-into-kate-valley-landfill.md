@@ -1,9 +1,12 @@
 ---
 slug: greens-back-inquiry-into-kate-valley-landfill
-title: "Greens back inquiry into Kate Valley Landfill"
-date: 2002-07-12
-source-url: https://www.scoop.co.nz/stories/PA0207/S00345/greens-back-inquiry-into-kate-valley-landfill.htm
+title: Greens back inquiry into Kate Valley Landfill
+date: 2002-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00345/greens-back-inquiry-into-kate-valley-landfill.htm
 author: green-party
+permalink: /archive/2002/07/12/greens-back-inquiry-into-kate-valley-landfill/index.html
+layout: layout.njk
 ---
 Greens back inquiry into Kate Valley Landfill
 =============================================

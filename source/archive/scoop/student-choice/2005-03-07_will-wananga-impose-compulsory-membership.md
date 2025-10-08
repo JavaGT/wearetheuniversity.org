@@ -1,9 +1,12 @@
 ---
 slug: will-wananga-impose-compulsory-membership
-title: "Will Wananga impose compulsory membership?"
-date: 2005-03-07
-source-url: https://www.scoop.co.nz/stories/ED0503/S00015/will-wananga-impose-compulsory-membership.htm
+title: Will Wananga impose compulsory membership?
+date: 2005-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00015/will-wananga-impose-compulsory-membership.htm
 author: student-choice
+permalink: /archive/2005/03/07/will-wananga-impose-compulsory-membership/index.html
+layout: layout.njk
 ---
 Will Wananga impose compulsory membership?
 ==========================================

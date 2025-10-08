@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-10-june-2005
-title: "Beehive Bulletin: Friday, 10 June 2005"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/PA0506/S00225/beehive-bulletin-friday-10-june-2005.htm
+title: 'Beehive Bulletin: Friday, 10 June 2005'
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00225/beehive-bulletin-friday-10-june-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/06/10/beehive-bulletin-friday-10-june-2005/index.html
+layout: layout.njk
 ---
 Beehive Bulletin: Friday, 10 June 2005
 ======================================

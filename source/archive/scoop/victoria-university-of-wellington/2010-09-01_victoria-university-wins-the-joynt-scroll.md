@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-wins-the-joynt-scroll
-title: "Victoria University wins the Joynt Scroll"
-date: 2010-09-01
-source-url: https://www.scoop.co.nz/stories/ED1009/S00006/victoria-university-wins-the-joynt-scroll.htm
+title: Victoria University wins the Joynt Scroll
+date: 2010-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00006/victoria-university-wins-the-joynt-scroll.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/01/victoria-university-wins-the-joynt-scroll/index.html
+layout: layout.njk
 ---
 Victoria University wins the Joynt Scroll
 =========================================

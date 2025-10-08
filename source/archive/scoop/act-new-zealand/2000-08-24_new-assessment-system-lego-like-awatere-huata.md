@@ -1,9 +1,12 @@
 ---
 slug: new-assessment-system-lego-like-awatere-huata
-title: "New Assessment System \"Lego-Like\" – Awatere Huata"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00471/new-assessment-system-lego-like-awatere-huata.htm
+title: New Assessment System "Lego-Like" – Awatere Huata
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00471/new-assessment-system-lego-like-awatere-huata.htm
 author: act-new-zealand
+permalink: /archive/2000/08/24/new-assessment-system-lego-like-awatere-huata/index.html
+layout: layout.njk
 ---
 New Assessment System “Lego-Like” – Awatere Huata
 =================================================

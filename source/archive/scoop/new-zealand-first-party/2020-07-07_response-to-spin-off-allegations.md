@@ -1,9 +1,12 @@
 ---
 slug: response-to-spin-off-allegations
-title: "Response to Spin-off allegations"
-date: 2020-07-07
-source-url: https://www.scoop.co.nz/stories/PA2007/S00078/response-to-spin-off-allegations.htm
+title: Response to Spin-off allegations
+date: 2020-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00078/response-to-spin-off-allegations.htm
 author: new-zealand-first-party
+permalink: /archive/2020/07/07/response-to-spin-off-allegations/index.html
+layout: layout.njk
 ---
 Response to Spin-off allegations
 ================================

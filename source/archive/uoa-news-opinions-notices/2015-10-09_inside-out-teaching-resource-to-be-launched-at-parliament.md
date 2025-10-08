@@ -1,8 +1,12 @@
 ---
 slug: inside-out-teaching-resource-to-be-launched-at-parliament
-title: "Inside Out teaching resource to be launched at Parliament"
-date: 2015-10-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/inside-out-teaching-resource-to-be-launched-at-parliament.html
+title: Inside Out teaching resource to be launched at Parliament
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/inside-out-teaching-resource-to-be-launched-at-parliament.html
+permalink: >-
+  /archive/2015/10/09/inside-out-teaching-resource-to-be-launched-at-parliament/index.html
+layout: layout.njk
 ---
 Inside Out teaching resource to be launched at Parliament
 =========================================================

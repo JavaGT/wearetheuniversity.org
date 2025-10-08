@@ -1,9 +1,13 @@
 ---
 slug: expert-teachers-to-be-recognised-in-new-initiative
-title: "Expert teachers to be recognised in new initiative"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/ED1305/S00133/expert-teachers-to-be-recognised-in-new-initiative.htm
+title: Expert teachers to be recognised in new initiative
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00133/expert-teachers-to-be-recognised-in-new-initiative.htm
 author: nzei
+permalink: >-
+  /archive/2013/05/20/expert-teachers-to-be-recognised-in-new-initiative/index.html
+layout: layout.njk
 ---
 Expert teachers to be recognised in new initiative
 ==================================================

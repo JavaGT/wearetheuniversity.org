@@ -1,9 +1,12 @@
 ---
 slug: vuw-positive-about-tertiary-education-in-taupo
-title: "VUW positive about tertiary education in Taupo"
-date: 2001-08-02
-source-url: https://www.scoop.co.nz/stories/ED0108/S00009/vuw-positive-about-tertiary-education-in-taupo.htm
+title: VUW positive about tertiary education in Taupo
+date: 2001-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00009/vuw-positive-about-tertiary-education-in-taupo.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/08/02/vuw-positive-about-tertiary-education-in-taupo/index.html
+layout: layout.njk
 ---
 VUW positive about tertiary education in Taupo
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: study-shows-why-kiwis-need-a-green-labour-govt
-title: "Study shows why Kiwis need a Green-Labour Govt"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PA0509/S00338/study-shows-why-kiwis-need-a-green-labour-govt.htm
+title: Study shows why Kiwis need a Green-Labour Govt
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00338/study-shows-why-kiwis-need-a-green-labour-govt.htm
 author: green-party
+permalink: /archive/2005/09/13/study-shows-why-kiwis-need-a-green-labour-govt/index.html
+layout: layout.njk
 ---
 Study shows why Kiwis need a Green-Labour Govt
 ==============================================

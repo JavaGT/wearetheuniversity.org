@@ -1,9 +1,12 @@
 ---
 slug: otago-students-crack-$4-million
-title: "Otago Students Crack $4 Million"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/ED1209/S00043/otago-students-crack-4-million.htm
+title: Otago Students Crack $4 Million
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00043/otago-students-crack-4-million.htm
 author: ousa
+permalink: /archive/2012/09/06/otago-students-crack-/index.html
+layout: layout.njk
 ---
 Otago Students Crack $4 Million
 ===============================

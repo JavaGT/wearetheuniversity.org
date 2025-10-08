@@ -1,9 +1,12 @@
 ---
 slug: questions-for-(oral)-answer-thursday-4th-of-august
-title: "Questions for (Oral) Answer - Thursday 4th Of August"
-date: 2016-08-04
-source-url: https://www.scoop.co.nz/stories/PA1608/S00069/questions-for-oral-answer-thursday-4th-of-august.htm
+title: Questions for (Oral) Answer - Thursday 4th Of August
+date: 2016-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00069/questions-for-oral-answer-thursday-4th-of-august.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/04/questions-for-/index.html
+layout: layout.njk
 ---
 Questions for (Oral) Answer - Thursday 4th Of August
 ====================================================

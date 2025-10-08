@@ -1,9 +1,13 @@
 ---
 slug: desperate-families-deserve-solutions-not-spreadsheets
-title: "Desperate families deserve solutions, not spreadsheets"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/PA1308/S00399/desperate-families-deserve-solutions-not-spreadsheets.htm
+title: Desperate families deserve solutions, not spreadsheets
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00399/desperate-families-deserve-solutions-not-spreadsheets.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/26/desperate-families-deserve-solutions-not-spreadsheets/index.html
+layout: layout.njk
 ---
 Desperate families deserve solutions, not spreadsheets
 ======================================================

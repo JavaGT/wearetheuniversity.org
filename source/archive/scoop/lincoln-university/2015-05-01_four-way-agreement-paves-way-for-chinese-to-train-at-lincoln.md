@@ -1,9 +1,13 @@
 ---
 slug: four-way-agreement-paves-way-for-chinese-to-train-at-lincoln
-title: "Four-way agreement paves way for Chinese to train at Lincoln"
-date: 2015-05-01
-source-url: https://www.scoop.co.nz/stories/ED1505/S00002/four-way-agreement-paves-way-for-chinese-to-train-at-lincoln.htm
+title: Four-way agreement paves way for Chinese to train at Lincoln
+date: 2015-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00002/four-way-agreement-paves-way-for-chinese-to-train-at-lincoln.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/05/01/four-way-agreement-paves-way-for-chinese-to-train-at-lincoln/index.html
+layout: layout.njk
 ---
 Four-way agreement paves way for Chinese to train at Lincoln
 ============================================================

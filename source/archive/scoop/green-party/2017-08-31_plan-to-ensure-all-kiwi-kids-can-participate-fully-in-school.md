@@ -1,9 +1,13 @@
 ---
 slug: plan-to-ensure-all-kiwi-kids-can-participate-fully-in-school
-title: "Plan to ensure all Kiwi kids can participate fully in school"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/PO1708/S00628/plan-to-ensure-all-kiwi-kids-can-participate-fully-in-school.htm
+title: Plan to ensure all Kiwi kids can participate fully in school
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00628/plan-to-ensure-all-kiwi-kids-can-participate-fully-in-school.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/31/plan-to-ensure-all-kiwi-kids-can-participate-fully-in-school/index.html
+layout: layout.njk
 ---
 Plan to ensure all Kiwi kids can participate fully in school
 ============================================================

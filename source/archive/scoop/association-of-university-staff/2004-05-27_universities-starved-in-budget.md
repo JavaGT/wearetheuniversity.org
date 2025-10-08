@@ -1,9 +1,12 @@
 ---
 slug: universities-starved-in-budget
-title: "Universities starved in Budget"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/ED0405/S00105/universities-starved-in-budget.htm
+title: Universities starved in Budget
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00105/universities-starved-in-budget.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/27/universities-starved-in-budget/index.html
+layout: layout.njk
 ---
 Universities starved in Budget
 ==============================

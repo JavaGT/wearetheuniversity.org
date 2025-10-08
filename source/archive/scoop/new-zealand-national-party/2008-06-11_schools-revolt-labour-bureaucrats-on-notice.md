@@ -1,9 +1,12 @@
 ---
 slug: schools-revolt-labour-bureaucrats-on-notice
-title: "Schools revolt - Labour bureaucrats on notice"
-date: 2008-06-11
-source-url: https://www.scoop.co.nz/stories/PA0806/S00147/schools-revolt-labour-bureaucrats-on-notice.htm
+title: Schools revolt - Labour bureaucrats on notice
+date: 2008-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00147/schools-revolt-labour-bureaucrats-on-notice.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/11/schools-revolt-labour-bureaucrats-on-notice/index.html
+layout: layout.njk
 ---
 Schools revolt - Labour bureaucrats on notice
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-meaningful-leadership-on-sexual-violence
-title: "Greens call for meaningful leadership on sexual violence"
-date: 2013-02-22
-source-url: https://www.scoop.co.nz/stories/PA1302/S00341/greens-call-for-meaningful-leadership-on-sexual-violence.htm
+title: Greens call for meaningful leadership on sexual violence
+date: 2013-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00341/greens-call-for-meaningful-leadership-on-sexual-violence.htm
 author: green-party
+permalink: >-
+  /archive/2013/02/22/greens-call-for-meaningful-leadership-on-sexual-violence/index.html
+layout: layout.njk
 ---
 Greens call for meaningful leadership on sexual violence
 ========================================================

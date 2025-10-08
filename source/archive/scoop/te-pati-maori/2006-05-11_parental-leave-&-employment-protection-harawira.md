@@ -1,9 +1,12 @@
 ---
 slug: parental-leave-&-employment-protection-harawira
-title: "Parental Leave & Employment Protection - Harawira"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/PA0605/S00238/parental-leave-employment-protection-harawira.htm
+title: Parental Leave & Employment Protection - Harawira
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00238/parental-leave-employment-protection-harawira.htm
 author: te-pati-maori
+permalink: /archive/2006/05/11/parental-leave-/index.html
+layout: layout.njk
 ---
 Parental Leave & Employment Protection - Harawira
 =================================================

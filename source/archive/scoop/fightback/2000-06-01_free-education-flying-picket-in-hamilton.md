@@ -1,9 +1,12 @@
 ---
 slug: free-education-flying-picket-in-hamilton
-title: "Free Education Flying picket in Hamilton"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/ED0006/S00002/free-education-flying-picket-in-hamilton.htm
+title: Free Education Flying picket in Hamilton
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00002/free-education-flying-picket-in-hamilton.htm
 author: fightback
+permalink: /archive/2000/06/01/free-education-flying-picket-in-hamilton/index.html
+layout: layout.njk
 ---
 Free Education Flying picket in Hamilton
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: why-auckland-is-among-the-top-10-most-liveable-cities
-title: "Why Auckland is among the Top 10 Most Liveable Cities"
-date: 2013-09-02
-source-url: https://www.scoop.co.nz/stories/AK1309/S00024/why-auckland-is-among-the-top-10-most-liveable-cities.htm
+title: Why Auckland is among the Top 10 Most Liveable Cities
+date: 2013-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00024/why-auckland-is-among-the-top-10-most-liveable-cities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/02/why-auckland-is-among-the-top-10-most-liveable-cities/index.html
+layout: layout.njk
 ---
 Why Auckland is among the Top 10 Most Liveable Cities
 =====================================================

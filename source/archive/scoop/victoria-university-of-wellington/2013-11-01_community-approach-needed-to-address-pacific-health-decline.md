@@ -1,9 +1,13 @@
 ---
 slug: community-approach-needed-to-address-pacific-health-decline
-title: "Community approach needed to address Pacific health decline"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/GE1311/S00001/community-approach-needed-to-address-pacific-health-decline.htm
+title: Community approach needed to address Pacific health decline
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00001/community-approach-needed-to-address-pacific-health-decline.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/11/01/community-approach-needed-to-address-pacific-health-decline/index.html
+layout: layout.njk
 ---
 Community approach needed to address Pacific health decline
 ===========================================================

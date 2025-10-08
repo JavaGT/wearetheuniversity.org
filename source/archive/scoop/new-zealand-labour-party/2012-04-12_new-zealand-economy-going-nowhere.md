@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-economy-going-nowhere
-title: "New Zealand economy going nowhere"
-date: 2012-04-12
-source-url: https://www.scoop.co.nz/stories/PA1204/S00138/new-zealand-economy-going-nowhere.htm
+title: New Zealand economy going nowhere
+date: 2012-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00138/new-zealand-economy-going-nowhere.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/12/new-zealand-economy-going-nowhere/index.html
+layout: layout.njk
 ---
 New Zealand economy going nowhere
 =================================

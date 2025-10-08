@@ -1,9 +1,12 @@
 ---
 slug: hundreds-of-students-staff-march-for-divestment
-title: "Hundreds of students, staff march for divestment"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/PO1706/S00003/hundreds-of-students-staff-march-for-divestment.htm
+title: Hundreds of students, staff march for divestment
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00003/hundreds-of-students-staff-march-for-divestment.htm
 author: fossil-free-auckland
+permalink: /archive/2017/06/01/hundreds-of-students-staff-march-for-divestment/index.html
+layout: layout.njk
 ---
 Hundreds of students, staff march for divestment
 ================================================

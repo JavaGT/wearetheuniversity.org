@@ -1,9 +1,12 @@
 ---
 slug: nzei-members-to-vote-on-new-education-roles
-title: "NZEI members to vote on new education roles"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/ED1404/S00041/nzei-members-to-vote-on-new-education-roles.htm
+title: NZEI members to vote on new education roles
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00041/nzei-members-to-vote-on-new-education-roles.htm
 author: nzei
+permalink: /archive/2014/04/09/nzei-members-to-vote-on-new-education-roles/index.html
+layout: layout.njk
 ---
 NZEI members to vote on new education roles
 ===========================================

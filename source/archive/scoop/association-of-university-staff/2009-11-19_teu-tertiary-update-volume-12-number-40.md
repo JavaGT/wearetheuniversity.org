@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-volume-12-number-40
-title: "TEU Tertiary Update, volume 12, number 40"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/ED0911/S00082/teu-tertiary-update-volume-12-number-40.htm
+title: TEU Tertiary Update, volume 12, number 40
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00082/teu-tertiary-update-volume-12-number-40.htm
 author: association-of-university-staff
+permalink: /archive/2009/11/19/teu-tertiary-update-volume-12-number-40/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update, volume 12, number 40
 =========================================

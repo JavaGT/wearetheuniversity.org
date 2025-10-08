@@ -1,9 +1,13 @@
 ---
 slug: minister-needs-to-take-deep-breath-on-special-ed
-title: "Minister needs to take deep breath on special ed"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00370/minister-needs-to-take-deep-breath-on-special-ed.htm
+title: Minister needs to take deep breath on special ed
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00370/minister-needs-to-take-deep-breath-on-special-ed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/24/minister-needs-to-take-deep-breath-on-special-ed/index.html
+layout: layout.njk
 ---
 Minister needs to take deep breath on special ed
 ================================================

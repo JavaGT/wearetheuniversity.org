@@ -1,9 +1,12 @@
 ---
 slug: speech-to-2015-green-party-agm-metiria-turei
-title: "Speech to 2015 Green Party AGM – Metiria Turei"
-date: 2015-05-30
-source-url: https://www.scoop.co.nz/stories/PA1505/S00592/speech-to-2015-green-party-agm-metiria-turei.htm
+title: Speech to 2015 Green Party AGM – Metiria Turei
+date: 2015-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00592/speech-to-2015-green-party-agm-metiria-turei.htm
 author: green-party
+permalink: /archive/2015/05/30/speech-to-2015-green-party-agm-metiria-turei/index.html
+layout: layout.njk
 ---
 Speech to 2015 Green Party AGM – Metiria Turei
 ==============================================

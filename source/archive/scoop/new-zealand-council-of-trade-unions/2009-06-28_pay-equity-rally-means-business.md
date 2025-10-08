@@ -1,9 +1,12 @@
 ---
 slug: pay-equity-rally-means-business
-title: "Pay Equity rally means business"
-date: 2009-06-28
-source-url: https://www.scoop.co.nz/stories/PO0906/S00308/pay-equity-rally-means-business.htm
+title: Pay Equity rally means business
+date: 2009-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00308/pay-equity-rally-means-business.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/06/28/pay-equity-rally-means-business/index.html
+layout: layout.njk
 ---
 Pay Equity rally means business
 ===============================

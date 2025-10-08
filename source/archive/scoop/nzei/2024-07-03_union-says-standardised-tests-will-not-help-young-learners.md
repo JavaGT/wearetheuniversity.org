@@ -1,9 +1,13 @@
 ---
 slug: union-says-standardised-tests-will-not-help-young-learners
-title: "Union Says Standardised Tests Will Not Help Young Learners"
-date: 2024-07-03
-source-url: https://www.scoop.co.nz/stories/ED2407/S00007/union-says-standardised-tests-will-not-help-young-learners.htm
+title: Union Says Standardised Tests Will Not Help Young Learners
+date: 2024-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00007/union-says-standardised-tests-will-not-help-young-learners.htm
 author: nzei
+permalink: >-
+  /archive/2024/07/03/union-says-standardised-tests-will-not-help-young-learners/index.html
+layout: layout.njk
 ---
 Union Says Standardised Tests Will Not Help Young Learners
 ==========================================================

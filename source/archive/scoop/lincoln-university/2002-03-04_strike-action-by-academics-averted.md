@@ -1,9 +1,12 @@
 ---
 slug: strike-action-by-academics-averted
-title: "Strike Action By Academics Averted"
-date: 2002-03-04
-source-url: https://www.scoop.co.nz/stories/ED0203/S00003/strike-action-by-academics-averted.htm
+title: Strike Action By Academics Averted
+date: 2002-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00003/strike-action-by-academics-averted.htm
 author: lincoln-university
+permalink: /archive/2002/03/04/strike-action-by-academics-averted/index.html
+layout: layout.njk
 ---
 Strike Action By Academics Averted
 ==================================

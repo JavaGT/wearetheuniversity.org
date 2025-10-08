@@ -1,9 +1,12 @@
 ---
 slug: crucial-decision-on-reading-due-tomorrow
-title: "Crucial Decision on Reading Due Tomorrow"
-date: 2001-11-12
-source-url: https://www.scoop.co.nz/stories/PA0111/S00221/crucial-decision-on-reading-due-tomorrow.htm
+title: Crucial Decision on Reading Due Tomorrow
+date: 2001-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00221/crucial-decision-on-reading-due-tomorrow.htm
 author: act-new-zealand
+permalink: /archive/2001/11/12/crucial-decision-on-reading-due-tomorrow/index.html
+layout: layout.njk
 ---
 Crucial Decision on Reading Due Tomorrow
 ========================================

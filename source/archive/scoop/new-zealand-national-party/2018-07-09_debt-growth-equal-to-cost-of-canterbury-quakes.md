@@ -1,9 +1,12 @@
 ---
 slug: debt-growth-equal-to-cost-of-canterbury-quakes
-title: "Debt growth equal to cost of Canterbury quakes"
-date: 2018-07-09
-source-url: https://www.scoop.co.nz/stories/PA1807/S00086/debt-growth-equal-to-cost-of-canterbury-quakes.htm
+title: Debt growth equal to cost of Canterbury quakes
+date: 2018-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00086/debt-growth-equal-to-cost-of-canterbury-quakes.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/09/debt-growth-equal-to-cost-of-canterbury-quakes/index.html
+layout: layout.njk
 ---
 Debt growth equal to cost of Canterbury quakes
 ==============================================

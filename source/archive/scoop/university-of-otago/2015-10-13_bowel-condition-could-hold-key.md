@@ -1,9 +1,12 @@
 ---
 slug: bowel-condition-could-hold-key
-title: "Bowel condition could hold key"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/ED1510/S00057/bowel-condition-could-hold-key.htm
+title: Bowel condition could hold key
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00057/bowel-condition-could-hold-key.htm
 author: university-of-otago
+permalink: /archive/2015/10/13/bowel-condition-could-hold-key/index.html
+layout: layout.njk
 ---
 Bowel condition could hold key
 ==============================

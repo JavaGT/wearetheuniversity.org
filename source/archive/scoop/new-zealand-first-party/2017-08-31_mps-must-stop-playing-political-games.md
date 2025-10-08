@@ -1,9 +1,12 @@
 ---
 slug: mps-must-stop-playing-political-games
-title: "MPs must stop playing political games"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/PO1708/S00635/mps-must-stop-playing-political-games.htm
+title: MPs must stop playing political games
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00635/mps-must-stop-playing-political-games.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/31/mps-must-stop-playing-political-games/index.html
+layout: layout.njk
 ---
 MPs must stop playing political games
 =====================================

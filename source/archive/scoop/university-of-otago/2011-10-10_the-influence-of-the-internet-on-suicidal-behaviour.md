@@ -1,9 +1,13 @@
 ---
 slug: the-influence-of-the-internet-on-suicidal-behaviour
-title: "The influence of the internet on suicidal behaviour"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/GE1110/S00033/the-influence-of-the-internet-on-suicidal-behaviour.htm
+title: The influence of the internet on suicidal behaviour
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1110/S00033/the-influence-of-the-internet-on-suicidal-behaviour.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/10/10/the-influence-of-the-internet-on-suicidal-behaviour/index.html
+layout: layout.njk
 ---
 The influence of the internet on suicidal behaviour
 ===================================================

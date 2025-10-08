@@ -1,9 +1,12 @@
 ---
 slug: ministry-using-kids-as-guinea-pigs
-title: "Ministry Using Kids As Guinea Pigs"
-date: 2000-10-19
-source-url: https://www.scoop.co.nz/stories/PA0010/S00393/ministry-using-kids-as-guinea-pigs.htm
+title: Ministry Using Kids As Guinea Pigs
+date: 2000-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00393/ministry-using-kids-as-guinea-pigs.htm
 author: act-new-zealand
+permalink: /archive/2000/10/19/ministry-using-kids-as-guinea-pigs/index.html
+layout: layout.njk
 ---
 Ministry Using Kids As Guinea Pigs
 ==================================

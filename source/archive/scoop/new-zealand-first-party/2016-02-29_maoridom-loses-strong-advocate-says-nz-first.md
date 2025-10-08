@@ -1,9 +1,12 @@
 ---
 slug: maoridom-loses-strong-advocate-says-nz-first
-title: "Maoridom Loses Strong Advocate, Says NZ First"
-date: 2016-02-29
-source-url: https://www.scoop.co.nz/stories/PA1602/S00427/maoridom-loses-strong-advocate-says-nz-first.htm
+title: Maoridom Loses Strong Advocate, Says NZ First
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00427/maoridom-loses-strong-advocate-says-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2016/02/29/maoridom-loses-strong-advocate-says-nz-first/index.html
+layout: layout.njk
 ---
 Maoridom Loses Strong Advocate, Says NZ First
 =============================================

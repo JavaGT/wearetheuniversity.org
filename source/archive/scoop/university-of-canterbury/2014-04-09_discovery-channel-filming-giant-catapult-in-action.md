@@ -1,9 +1,13 @@
 ---
 slug: discovery-channel-filming-giant-catapult-in-action
-title: "Discovery channel filming giant catapult in action"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/SC1404/S00037/discovery-channel-filming-giant-catapult-in-action.htm
+title: Discovery channel filming giant catapult in action
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00037/discovery-channel-filming-giant-catapult-in-action.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/09/discovery-channel-filming-giant-catapult-in-action/index.html
+layout: layout.njk
 ---
 Discovery channel filming giant catapult in action
 ==================================================

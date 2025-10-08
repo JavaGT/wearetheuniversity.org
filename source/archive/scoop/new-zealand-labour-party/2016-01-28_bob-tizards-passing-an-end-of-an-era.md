@@ -1,9 +1,12 @@
 ---
 slug: bob-tizards-passing-an-end-of-an-era
-title: "Bob Tizard’s passing an end of an era"
-date: 2016-01-28
-source-url: https://www.scoop.co.nz/stories/PA1601/S00161/bob-tizards-passing-an-end-of-an-era.htm
+title: Bob Tizard’s passing an end of an era
+date: 2016-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00161/bob-tizards-passing-an-end-of-an-era.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/28/bob-tizards-passing-an-end-of-an-era/index.html
+layout: layout.njk
 ---
 Bob Tizard’s passing an end of an era
 =====================================

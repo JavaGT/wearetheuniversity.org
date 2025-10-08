@@ -1,9 +1,13 @@
 ---
 slug: did-carter-know-about-auckland-university-threats
-title: "Did Carter Know About Auckland University Threats?"
-date: 2003-01-20
-source-url: https://www.scoop.co.nz/stories/PA0301/S00136/did-carter-know-about-auckland-university-threats.htm
+title: Did Carter Know About Auckland University Threats?
+date: 2003-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00136/did-carter-know-about-auckland-university-threats.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/01/20/did-carter-know-about-auckland-university-threats/index.html
+layout: layout.njk
 ---
 Did Carter Know About Auckland University Threats?
 ==================================================

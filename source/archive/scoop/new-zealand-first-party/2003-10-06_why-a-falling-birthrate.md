@@ -1,9 +1,11 @@
 ---
 slug: why-a-falling-birthrate
-title: "Why a Falling Birthrate?"
-date: 2003-10-06
+title: Why a Falling Birthrate?
+date: 2003-10-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00097/why-a-falling-birthrate.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/06/why-a-falling-birthrate/index.html
+layout: layout.njk
 ---
 Why a Falling Birthrate?
 ========================

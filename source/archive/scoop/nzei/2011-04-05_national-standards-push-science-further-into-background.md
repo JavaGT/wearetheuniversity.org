@@ -1,9 +1,13 @@
 ---
 slug: national-standards-push-science-further-into-background
-title: "National Standards Push Science Further Into Background"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PO1104/S00070/national-standards-push-science-further-into-background.htm
+title: National Standards Push Science Further Into Background
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00070/national-standards-push-science-further-into-background.htm
 author: nzei
+permalink: >-
+  /archive/2011/04/05/national-standards-push-science-further-into-background/index.html
+layout: layout.njk
 ---
 National Standards Push Science Further Into Background
 =======================================================

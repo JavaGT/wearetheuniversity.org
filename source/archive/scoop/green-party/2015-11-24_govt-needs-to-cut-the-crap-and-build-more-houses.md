@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-cut-the-crap-and-build-more-houses
-title: "Govt needs to cut the crap and build more houses"
-date: 2015-11-24
-source-url: https://www.scoop.co.nz/stories/PA1511/S00449/govt-needs-to-cut-the-crap-and-build-more-houses.htm
+title: Govt needs to cut the crap and build more houses
+date: 2015-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00449/govt-needs-to-cut-the-crap-and-build-more-houses.htm
 author: green-party
+permalink: >-
+  /archive/2015/11/24/govt-needs-to-cut-the-crap-and-build-more-houses/index.html
+layout: layout.njk
 ---
 Govt needs to cut the crap and build more houses
 ================================================

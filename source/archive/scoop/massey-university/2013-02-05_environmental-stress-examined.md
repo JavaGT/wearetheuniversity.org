@@ -1,9 +1,12 @@
 ---
 slug: environmental-stress-examined
-title: "Environmental stress examined"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/ED1302/S00021/environmental-stress-examined.htm
+title: Environmental stress examined
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00021/environmental-stress-examined.htm
 author: massey-university
+permalink: /archive/2013/02/05/environmental-stress-examined/index.html
+layout: layout.njk
 ---
 Environmental stress examined
 =============================

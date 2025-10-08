@@ -1,9 +1,11 @@
 ---
 slug: te-tai-tonga-enrolments
-title: "Te Tai Tonga Enrolments"
-date: 2011-10-20
+title: Te Tai Tonga Enrolments
+date: 2011-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1110/S00349/te-tai-tonga-enrolments.htm
 author: te-pati-maori
+permalink: /archive/2011/10/20/te-tai-tonga-enrolments/index.html
+layout: layout.njk
 ---
 Te Tai Tonga Enrolments
 =======================

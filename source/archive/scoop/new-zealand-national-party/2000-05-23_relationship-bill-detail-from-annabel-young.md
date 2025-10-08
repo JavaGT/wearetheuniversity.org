@@ -1,9 +1,12 @@
 ---
 slug: relationship-bill-detail-from-annabel-young
-title: "Relationship Bill - Detail From Annabel Young"
-date: 2000-05-23
-source-url: https://www.scoop.co.nz/stories/PA0005/S00494/relationship-bill-detail-from-annabel-young.htm
+title: Relationship Bill - Detail From Annabel Young
+date: 2000-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00494/relationship-bill-detail-from-annabel-young.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/23/relationship-bill-detail-from-annabel-young/index.html
+layout: layout.njk
 ---
 Relationship Bill - Detail From Annabel Young
 =============================================

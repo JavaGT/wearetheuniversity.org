@@ -1,9 +1,12 @@
 ---
 slug: party-demands-lifting-of-flag-burning-trespass
-title: "Party demands lifting of flag-burning trespass"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/PO0905/S00092/party-demands-lifting-of-flag-burning-trespass.htm
+title: Party demands lifting of flag-burning trespass
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00092/party-demands-lifting-of-flag-burning-trespass.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2009/05/07/party-demands-lifting-of-flag-burning-trespass/index.html
+layout: layout.njk
 ---
 Party demands lifting of flag-burning trespass
 ==============================================

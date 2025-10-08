@@ -1,9 +1,12 @@
 ---
 slug: greens-deplore-police-violence-in-melbourne
-title: "Greens deplore police violence in Melbourne"
-date: 2000-09-12
-source-url: https://www.scoop.co.nz/stories/PA0009/S00185/greens-deplore-police-violence-in-melbourne.htm
+title: Greens deplore police violence in Melbourne
+date: 2000-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00185/greens-deplore-police-violence-in-melbourne.htm
 author: green-party
+permalink: /archive/2000/09/12/greens-deplore-police-violence-in-melbourne/index.html
+layout: layout.njk
 ---
 Greens deplore police violence in Melbourne
 ===========================================

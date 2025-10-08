@@ -1,9 +1,12 @@
 ---
 slug: tolley-refuses-to-bat-for-tertiary-education
-title: "Tolley refuses to bat for tertiary education"
-date: 2009-07-01
-source-url: https://www.scoop.co.nz/stories/PA0907/S00024/tolley-refuses-to-bat-for-tertiary-education.htm
+title: Tolley refuses to bat for tertiary education
+date: 2009-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00024/tolley-refuses-to-bat-for-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/01/tolley-refuses-to-bat-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Tolley refuses to bat for tertiary education
 ============================================

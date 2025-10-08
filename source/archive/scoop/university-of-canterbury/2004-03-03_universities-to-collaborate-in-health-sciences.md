@@ -1,9 +1,12 @@
 ---
 slug: universities-to-collaborate-in-health-sciences
-title: "Universities to collaborate in health sciences"
-date: 2004-03-03
-source-url: https://www.scoop.co.nz/stories/GE0403/S00013/universities-to-collaborate-in-health-sciences.htm
+title: Universities to collaborate in health sciences
+date: 2004-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0403/S00013/universities-to-collaborate-in-health-sciences.htm
 author: university-of-canterbury
+permalink: /archive/2004/03/03/universities-to-collaborate-in-health-sciences/index.html
+layout: layout.njk
 ---
 Universities to collaborate in health sciences
 ==============================================

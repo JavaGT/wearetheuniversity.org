@@ -1,9 +1,12 @@
 ---
 slug: predictable-fees-for-international-students
-title: "Predictable Fees For International Students"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/ED0409/S00026/predictable-fees-for-international-students.htm
+title: Predictable Fees For International Students
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00026/predictable-fees-for-international-students.htm
 author: university-of-otago
+permalink: /archive/2004/09/07/predictable-fees-for-international-students/index.html
+layout: layout.njk
 ---
 Predictable Fees For International Students
 ===========================================

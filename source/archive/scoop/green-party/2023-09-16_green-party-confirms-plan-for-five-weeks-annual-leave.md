@@ -1,9 +1,13 @@
 ---
 slug: green-party-confirms-plan-for-five-weeks-annual-leave
-title: "Green Party Confirms Plan For Five Weeks Annual Leave"
-date: 2023-09-16
-source-url: https://www.scoop.co.nz/stories/PA2309/S00090/green-party-confirms-plan-for-five-weeks-annual-leave.htm
+title: Green Party Confirms Plan For Five Weeks Annual Leave
+date: 2023-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00090/green-party-confirms-plan-for-five-weeks-annual-leave.htm
 author: green-party
+permalink: >-
+  /archive/2023/09/16/green-party-confirms-plan-for-five-weeks-annual-leave/index.html
+layout: layout.njk
 ---
 Green Party Confirms Plan For Five Weeks Annual Leave
 =====================================================

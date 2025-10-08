@@ -1,9 +1,13 @@
 ---
 slug: maori-party-candiate-rahui-papa-says-water-is-a-taonga
-title: "Maori Party Candiate Rahui Papa says Water is a Taonga"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/PO1707/S00064/maori-party-candiate-rahui-papa-says-water-is-a-taonga.htm
+title: Maori Party Candiate Rahui Papa says Water is a Taonga
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00064/maori-party-candiate-rahui-papa-says-water-is-a-taonga.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2017/07/06/maori-party-candiate-rahui-papa-says-water-is-a-taonga/index.html
+layout: layout.njk
 ---
 Maori Party Candiate Rahui Papa says Water is a Taonga
 ======================================================

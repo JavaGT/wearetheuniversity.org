@@ -1,9 +1,13 @@
 ---
 slug: xero-boss-rod-drury-named-global-marketer-of-the-year
-title: "Xero boss Rod Drury named Global Marketer of the Year"
-date: 2017-06-30
-source-url: https://www.scoop.co.nz/stories/BU1706/S00941/xero-boss-rod-drury-named-global-marketer-of-the-year.htm
+title: Xero boss Rod Drury named Global Marketer of the Year
+date: 2017-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1706/S00941/xero-boss-rod-drury-named-global-marketer-of-the-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/30/xero-boss-rod-drury-named-global-marketer-of-the-year/index.html
+layout: layout.njk
 ---
 Xero boss Rod Drury named Global Marketer of the Year
 =====================================================

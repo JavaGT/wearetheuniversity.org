@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-enrolments-as-at-26-march-2012
-title: "Waikato University enrolments as at 26 March 2012"
-date: 2012-03-26
-source-url: https://www.scoop.co.nz/stories/ED1203/S00116/waikato-university-enrolments-as-at-26-march-2012.htm
+title: Waikato University enrolments as at 26 March 2012
+date: 2012-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00116/waikato-university-enrolments-as-at-26-march-2012.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/26/waikato-university-enrolments-as-at-26-march-2012/index.html
+layout: layout.njk
 ---
 Waikato University enrolments as at 26 March 2012
 =================================================

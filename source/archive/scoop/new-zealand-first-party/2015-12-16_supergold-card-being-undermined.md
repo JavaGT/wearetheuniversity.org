@@ -1,9 +1,12 @@
 ---
 slug: supergold-card-being-undermined
-title: "Supergold Card Being Undermined"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/PA1512/S00341/supergold-card-being-undermined.htm
+title: Supergold Card Being Undermined
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00341/supergold-card-being-undermined.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/16/supergold-card-being-undermined/index.html
+layout: layout.njk
 ---
 Supergold Card Being Undermined
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: get-a-taste-of-studying-at-university-for-free
-title: "Get a taste of studying at university for free"
-date: 2005-02-07
-source-url: https://www.scoop.co.nz/stories/ED0502/S00029/get-a-taste-of-studying-at-university-for-free.htm
+title: Get a taste of studying at university for free
+date: 2005-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00029/get-a-taste-of-studying-at-university-for-free.htm
 author: university-of-canterbury
+permalink: /archive/2005/02/07/get-a-taste-of-studying-at-university-for-free/index.html
+layout: layout.njk
 ---
 Get a taste of studying at university for free
 ==============================================

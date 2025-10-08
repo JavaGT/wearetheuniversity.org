@@ -1,9 +1,12 @@
 ---
 slug: compulsory-vuwsa-flipflops-on-vuw-marketing
-title: "Compulsory VUWSA flipflops on VUW marketing"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/ED0505/S00112/compulsory-vuwsa-flipflops-on-vuw-marketing.htm
+title: Compulsory VUWSA flipflops on VUW marketing
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00112/compulsory-vuwsa-flipflops-on-vuw-marketing.htm
 author: student-choice
+permalink: /archive/2005/05/25/compulsory-vuwsa-flipflops-on-vuw-marketing/index.html
+layout: layout.njk
 ---
 Compulsory VUWSA flipflops on VUW marketing
 ===========================================

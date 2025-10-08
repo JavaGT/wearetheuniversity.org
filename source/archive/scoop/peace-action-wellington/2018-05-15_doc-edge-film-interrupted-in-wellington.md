@@ -1,9 +1,12 @@
 ---
 slug: doc-edge-film-interrupted-in-wellington
-title: "Doc Edge film interrupted in Wellington"
-date: 2018-05-15
-source-url: https://www.scoop.co.nz/stories/PO1805/S00178/doc-edge-film-interrupted-in-wellington.htm
+title: Doc Edge film interrupted in Wellington
+date: 2018-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00178/doc-edge-film-interrupted-in-wellington.htm
 author: peace-action-wellington
+permalink: /archive/2018/05/15/doc-edge-film-interrupted-in-wellington/index.html
+layout: layout.njk
 ---
 Doc Edge film interrupted in Wellington
 =======================================

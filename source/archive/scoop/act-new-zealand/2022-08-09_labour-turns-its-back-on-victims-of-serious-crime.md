@@ -1,9 +1,13 @@
 ---
 slug: labour-turns-its-back-on-victims-of-serious-crime
-title: "Labour Turns Its Back On Victims Of Serious Crime"
-date: 2022-08-09
-source-url: https://www.scoop.co.nz/stories/PA2208/S00091/labour-turns-its-back-on-victims-of-serious-crime.htm
+title: Labour Turns Its Back On Victims Of Serious Crime
+date: 2022-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00091/labour-turns-its-back-on-victims-of-serious-crime.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/08/09/labour-turns-its-back-on-victims-of-serious-crime/index.html
+layout: layout.njk
 ---
 Labour Turns Its Back On Victims Of Serious Crime
 =================================================

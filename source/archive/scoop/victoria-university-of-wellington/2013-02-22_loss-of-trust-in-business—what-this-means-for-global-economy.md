@@ -1,9 +1,12 @@
 ---
 slug: loss-of-trust-in-business—what-this-means-for-global-economy
-title: "Loss of trust in business—what this means for global economy"
-date: 2013-02-22
-source-url: https://www.scoop.co.nz/stories/ED1302/S00127/loss-of-trust-in-business-what-this-means-for-global-economy.htm
+title: Loss of trust in business—what this means for global economy
+date: 2013-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00127/loss-of-trust-in-business-what-this-means-for-global-economy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/02/22/loss-of-trust-in-business/index.html
+layout: layout.njk
 ---
 Loss of trust in business—what this means for global economy
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: let-the-people-decide-on-campaign-finance-laws
-title: "Let the people decide on campaign finance laws"
-date: 2007-06-15
-source-url: https://www.scoop.co.nz/stories/PA0706/S00286/let-the-people-decide-on-campaign-finance-laws.htm
+title: Let the people decide on campaign finance laws
+date: 2007-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00286/let-the-people-decide-on-campaign-finance-laws.htm
 author: green-party
+permalink: /archive/2007/06/15/let-the-people-decide-on-campaign-finance-laws/index.html
+layout: layout.njk
 ---
 Let the people decide on campaign finance laws
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: when-will-it-end
-title: "When Will it End?"
-date: 2004-04-08
+title: When Will it End?
+date: 2004-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0404/S00034/when-will-it-end.htm
 author: student-choice
+permalink: /archive/2004/04/08/when-will-it-end/index.html
+layout: layout.njk
 ---
 When Will it End?
 =================

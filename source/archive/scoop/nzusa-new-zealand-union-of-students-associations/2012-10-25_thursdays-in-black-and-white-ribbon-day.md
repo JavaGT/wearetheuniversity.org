@@ -1,9 +1,12 @@
 ---
 slug: thursdays-in-black-and-white-ribbon-day
-title: "Thursdays in Black and White Ribbon Day"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00144/thursdays-in-black-and-white-ribbon-day.htm
+title: Thursdays in Black and White Ribbon Day
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00144/thursdays-in-black-and-white-ribbon-day.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/10/25/thursdays-in-black-and-white-ribbon-day/index.html
+layout: layout.njk
 ---
 Thursdays in Black and White Ribbon Day
 =======================================

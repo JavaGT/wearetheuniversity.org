@@ -1,9 +1,12 @@
 ---
 slug: from-the-frontline-of-the-us-presidential-race
-title: "From the frontline of the US presidential race"
-date: 2008-11-06
-source-url: https://www.scoop.co.nz/stories/ED0811/S00018/from-the-frontline-of-the-us-presidential-race.htm
+title: From the frontline of the US presidential race
+date: 2008-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00018/from-the-frontline-of-the-us-presidential-race.htm
 author: massey-university
+permalink: /archive/2008/11/06/from-the-frontline-of-the-us-presidential-race/index.html
+layout: layout.njk
 ---
 From the frontline of the US presidential race
 ==============================================

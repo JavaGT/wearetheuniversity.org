@@ -1,9 +1,12 @@
 ---
 slug: stressed-students-sign-on-the-dotted-line
-title: "Stressed students sign on the dotted line"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/ED0311/S00022/stressed-students-sign-on-the-dotted-line.htm
+title: Stressed students sign on the dotted line
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00022/stressed-students-sign-on-the-dotted-line.htm
 author: otago-university-students-association
+permalink: /archive/2003/11/06/stressed-students-sign-on-the-dotted-line/index.html
+layout: layout.njk
 ---
 Stressed students sign on the dotted line
 =========================================

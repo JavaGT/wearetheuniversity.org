@@ -1,9 +1,12 @@
 ---
 slug: greens-announce-$327m-investment-in-warming-up-new-zealand
-title: "Greens announce $327m investment in warming up New Zealand"
-date: 2014-05-26
-source-url: https://www.scoop.co.nz/stories/PA1405/S00477/greens-announce-327m-investment-in-warming-up-new-zealand.htm
+title: Greens announce $327m investment in warming up New Zealand
+date: 2014-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00477/greens-announce-327m-investment-in-warming-up-new-zealand.htm
 author: green-party
+permalink: /archive/2014/05/26/greens-announce-/index.html
+layout: layout.njk
 ---
 Greens announce $327m investment in warming up New Zealand
 ==========================================================

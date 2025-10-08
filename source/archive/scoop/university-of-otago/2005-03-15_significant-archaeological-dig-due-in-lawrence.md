@@ -1,9 +1,12 @@
 ---
 slug: significant-archaeological-dig-due-in-lawrence
-title: "Significant Archaeological Dig Due In Lawrence"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/ED0503/S00047/significant-archaeological-dig-due-in-lawrence.htm
+title: Significant Archaeological Dig Due In Lawrence
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00047/significant-archaeological-dig-due-in-lawrence.htm
 author: university-of-otago
+permalink: /archive/2005/03/15/significant-archaeological-dig-due-in-lawrence/index.html
+layout: layout.njk
 ---
 Significant Archaeological Dig Due In Lawrence
 ==============================================

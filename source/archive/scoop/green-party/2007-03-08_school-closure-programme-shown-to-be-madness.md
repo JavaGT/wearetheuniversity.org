@@ -1,9 +1,12 @@
 ---
 slug: school-closure-programme-shown-to-be-madness
-title: "School closure programme shown to be madness"
-date: 2007-03-08
-source-url: https://www.scoop.co.nz/stories/PA0703/S00142/school-closure-programme-shown-to-be-madness.htm
+title: School closure programme shown to be madness
+date: 2007-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00142/school-closure-programme-shown-to-be-madness.htm
 author: green-party
+permalink: /archive/2007/03/08/school-closure-programme-shown-to-be-madness/index.html
+layout: layout.njk
 ---
 School closure programme shown to be madness
 ============================================

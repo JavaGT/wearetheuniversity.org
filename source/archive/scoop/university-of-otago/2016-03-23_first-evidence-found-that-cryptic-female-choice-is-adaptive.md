@@ -1,9 +1,13 @@
 ---
 slug: first-evidence-found-that-cryptic-female-choice-is-adaptive
-title: "First evidence found that cryptic female choice is adaptive"
-date: 2016-03-23
-source-url: https://www.scoop.co.nz/stories/SC1603/S00055/first-evidence-found-that-cryptic-female-choice-is-adaptive.htm
+title: First evidence found that cryptic female choice is adaptive
+date: 2016-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00055/first-evidence-found-that-cryptic-female-choice-is-adaptive.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/23/first-evidence-found-that-cryptic-female-choice-is-adaptive/index.html
+layout: layout.njk
 ---
 First evidence found that cryptic female choice is adaptive
 ===========================================================

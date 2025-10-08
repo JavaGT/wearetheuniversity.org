@@ -1,9 +1,12 @@
 ---
 slug: pm-scholarship-boosts-māori-and-latin-american-links
-title: "PM scholarship boosts Māori and Latin American links"
-date: 2017-01-05
-source-url: https://www.scoop.co.nz/stories/ED1701/S00002/pm-scholarship-boosts-maori-and-latin-american-links.htm
+title: PM scholarship boosts Māori and Latin American links
+date: 2017-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00002/pm-scholarship-boosts-maori-and-latin-american-links.htm
 author: massey-university
+permalink: /archive/2017/01/05/pm-scholarship-boosts-m/index.html
+layout: layout.njk
 ---
 PM scholarship boosts Māori and Latin American links
 ====================================================

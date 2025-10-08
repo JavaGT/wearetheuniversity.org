@@ -1,9 +1,13 @@
 ---
 slug: key-element-in-bacterial-immune-system-discovered
-title: "Key element in bacterial immune system discovered"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/GE1504/S00093/key-element-in-bacterial-immune-system-discovered.htm
+title: Key element in bacterial immune system discovered
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00093/key-element-in-bacterial-immune-system-discovered.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/04/20/key-element-in-bacterial-immune-system-discovered/index.html
+layout: layout.njk
 ---
 Key element in bacterial immune system discovered
 =================================================

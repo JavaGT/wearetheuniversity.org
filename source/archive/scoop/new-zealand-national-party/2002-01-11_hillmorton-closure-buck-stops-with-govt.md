@@ -1,9 +1,12 @@
 ---
 slug: hillmorton-closure-buck-stops-with-govt
-title: "Hillmorton Closure - Buck Stops With Govt"
-date: 2002-01-11
-source-url: https://www.scoop.co.nz/stories/PA0201/S00031/hillmorton-closure-buck-stops-with-govt.htm
+title: Hillmorton Closure - Buck Stops With Govt
+date: 2002-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00031/hillmorton-closure-buck-stops-with-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/11/hillmorton-closure-buck-stops-with-govt/index.html
+layout: layout.njk
 ---
 Hillmorton Closure - Buck Stops With Govt
 =========================================

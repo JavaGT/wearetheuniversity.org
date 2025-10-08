@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-what-happened-to-punishment
-title: "Heather Roy's Diary: What Happened to Punishment?"
-date: 2006-08-04
-source-url: https://www.scoop.co.nz/stories/PA0608/S00085/heather-roys-diary-what-happened-to-punishment.htm
+title: 'Heather Roy''s Diary: What Happened to Punishment?'
+date: 2006-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00085/heather-roys-diary-what-happened-to-punishment.htm
 author: act-new-zealand
+permalink: /archive/2006/08/04/heather-roys-diary-what-happened-to-punishment/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: What Happened to Punishment?
 =================================================

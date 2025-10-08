@@ -1,9 +1,13 @@
 ---
 slug: flu-infection-can-occur-during-long-haul-flights
-title: "Flu infection can occur during long-haul flights"
-date: 2010-06-02
-source-url: https://www.scoop.co.nz/stories/GE1006/S00004/flu-infection-can-occur-during-long-haul-flights.htm
+title: Flu infection can occur during long-haul flights
+date: 2010-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00004/flu-infection-can-occur-during-long-haul-flights.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/06/02/flu-infection-can-occur-during-long-haul-flights/index.html
+layout: layout.njk
 ---
 Flu infection can occur during long-haul flights
 ================================================

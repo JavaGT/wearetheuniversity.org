@@ -1,9 +1,12 @@
 ---
 slug: opposition-to-teacher-title-bill-growing
-title: "Opposition to teacher title bill growing"
-date: 2018-04-13
-source-url: https://www.scoop.co.nz/stories/PA1804/S00170/opposition-to-teacher-title-bill-growing.htm
+title: Opposition to teacher title bill growing
+date: 2018-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00170/opposition-to-teacher-title-bill-growing.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/13/opposition-to-teacher-title-bill-growing/index.html
+layout: layout.njk
 ---
 Opposition to teacher title bill growing
 ========================================

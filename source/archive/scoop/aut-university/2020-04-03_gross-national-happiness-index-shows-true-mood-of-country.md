@@ -1,9 +1,13 @@
 ---
 slug: gross-national-happiness-index-shows-true-mood-of-country
-title: "Gross National Happiness Index Shows True Mood of Country"
-date: 2020-04-03
-source-url: https://www.scoop.co.nz/stories/CU2004/S00012/gross-national-happiness-index-shows-true-mood-of-country.htm
+title: Gross National Happiness Index Shows True Mood of Country
+date: 2020-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2004/S00012/gross-national-happiness-index-shows-true-mood-of-country.htm
 author: aut-university
+permalink: >-
+  /archive/2020/04/03/gross-national-happiness-index-shows-true-mood-of-country/index.html
+layout: layout.njk
 ---
 Gross National Happiness Index Shows True Mood of Country
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-paying-more-in-fees-in-2004
-title: "Students paying more in fees in 2004"
-date: 2004-05-25
-source-url: https://www.scoop.co.nz/stories/ED0405/S00089/students-paying-more-in-fees-in-2004.htm
+title: Students paying more in fees in 2004
+date: 2004-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00089/students-paying-more-in-fees-in-2004.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/25/students-paying-more-in-fees-in-2004/index.html
+layout: layout.njk
 ---
 Students paying more in fees in 2004
 ====================================

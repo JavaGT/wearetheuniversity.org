@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-appoints-four-personal-chairs
-title: "Victoria University appoints four personal chairs"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/ED0308/S00075/victoria-university-appoints-four-personal-chairs.htm
+title: Victoria University appoints four personal chairs
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00075/victoria-university-appoints-four-personal-chairs.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/08/21/victoria-university-appoints-four-personal-chairs/index.html
+layout: layout.njk
 ---
 Victoria University appoints four personal chairs
 =================================================

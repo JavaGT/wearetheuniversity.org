@@ -1,9 +1,12 @@
 ---
 slug: government-must-accept-sleepover-decision-now
-title: "Government must accept sleepover decision now"
-date: 2011-02-18
-source-url: https://www.scoop.co.nz/stories/PO1102/S00172/government-must-accept-sleepover-decision-now.htm
+title: Government must accept sleepover decision now
+date: 2011-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00172/government-must-accept-sleepover-decision-now.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/02/18/government-must-accept-sleepover-decision-now/index.html
+layout: layout.njk
 ---
 Government must accept sleepover decision now
 =============================================

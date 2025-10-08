@@ -1,9 +1,12 @@
 ---
 slug: hospital-waiting-lists-set-to-grow
-title: "Hospital Waiting Lists Set To Grow"
-date: 2002-02-28
-source-url: https://www.scoop.co.nz/stories/PA0202/S00429/hospital-waiting-lists-set-to-grow.htm
+title: Hospital Waiting Lists Set To Grow
+date: 2002-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00429/hospital-waiting-lists-set-to-grow.htm
 author: act-new-zealand
+permalink: /archive/2002/02/28/hospital-waiting-lists-set-to-grow/index.html
+layout: layout.njk
 ---
 Hospital Waiting Lists Set To Grow
 ==================================

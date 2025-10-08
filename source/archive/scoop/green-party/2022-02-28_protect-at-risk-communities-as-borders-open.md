@@ -1,9 +1,12 @@
 ---
 slug: protect-at-risk-communities-as-borders-open
-title: "Protect At-risk Communities As Borders Open"
-date: 2022-02-28
-source-url: https://www.scoop.co.nz/stories/PA2202/S00206/protect-at-risk-communities-as-borders-open.htm
+title: Protect At-risk Communities As Borders Open
+date: 2022-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00206/protect-at-risk-communities-as-borders-open.htm
 author: green-party
+permalink: /archive/2022/02/28/protect-at-risk-communities-as-borders-open/index.html
+layout: layout.njk
 ---
 Protect At-risk Communities As Borders Open
 ===========================================

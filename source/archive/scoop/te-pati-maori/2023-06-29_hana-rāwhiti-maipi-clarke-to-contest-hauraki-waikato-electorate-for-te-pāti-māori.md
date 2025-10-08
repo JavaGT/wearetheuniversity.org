@@ -1,9 +1,15 @@
 ---
-slug: hana-rāwhiti-maipi-clarke-to-contest-hauraki-waikato-electorate-for-te-pāti-māori
-title: "Hana-Rāwhiti Maipi-Clarke To Contest Hauraki-Waikato Electorate For Te Pāti Māori"
-date: 2023-06-29
-source-url: https://www.scoop.co.nz/stories/PO2306/S00256/hana-rawhiti-maipi-clarke-to-contest-hauraki-waikato-electorate-for-te-pati-maori.htm
+slug: >-
+  hana-rāwhiti-maipi-clarke-to-contest-hauraki-waikato-electorate-for-te-pāti-māori
+title: >-
+  Hana-Rāwhiti Maipi-Clarke To Contest Hauraki-Waikato Electorate For Te Pāti
+  Māori
+date: 2023-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00256/hana-rawhiti-maipi-clarke-to-contest-hauraki-waikato-electorate-for-te-pati-maori.htm
 author: te-pati-maori
+permalink: /archive/2023/06/29/hana-r/index.html
+layout: layout.njk
 ---
 Hana-Rāwhiti Maipi-Clarke To Contest Hauraki-Waikato Electorate For Te Pāti Māori
 =================================================================================

@@ -1,9 +1,11 @@
 ---
 slug: engineering-creativity
-title: "Engineering creativity"
-date: 2007-06-07
+title: Engineering creativity
+date: 2007-06-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0706/S00025/engineering-creativity.htm
 author: massey-university
+permalink: /archive/2007/06/07/engineering-creativity/index.html
+layout: layout.njk
 ---
 Engineering creativity
 ======================

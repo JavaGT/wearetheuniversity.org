@@ -1,9 +1,12 @@
 ---
 slug: research-finds-meat-consumers-prefer-local
-title: "Research Finds Meat Consumers Prefer Local"
-date: 2020-08-03
-source-url: https://www.scoop.co.nz/stories/ED2008/S00005/research-finds-meat-consumers-prefer-local.htm
+title: Research Finds Meat Consumers Prefer Local
+date: 2020-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00005/research-finds-meat-consumers-prefer-local.htm
 author: lincoln-university
+permalink: /archive/2020/08/03/research-finds-meat-consumers-prefer-local/index.html
+layout: layout.njk
 ---
 Research Finds Meat Consumers Prefer Local
 ==========================================

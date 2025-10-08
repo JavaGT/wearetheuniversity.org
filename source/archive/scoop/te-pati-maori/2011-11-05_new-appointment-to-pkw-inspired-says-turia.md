@@ -1,9 +1,12 @@
 ---
 slug: new-appointment-to-pkw-inspired-says-turia
-title: "New appointment to PKW 'inspired' says Turia"
-date: 2011-11-05
-source-url: https://www.scoop.co.nz/stories/PA1111/S00095/new-appointment-to-pkw-inspired-says-turia.htm
+title: New appointment to PKW 'inspired' says Turia
+date: 2011-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00095/new-appointment-to-pkw-inspired-says-turia.htm
 author: te-pati-maori
+permalink: /archive/2011/11/05/new-appointment-to-pkw-inspired-says-turia/index.html
+layout: layout.njk
 ---
 New appointment to PKW 'inspired' says Turia
 ============================================

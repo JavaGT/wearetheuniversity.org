@@ -1,9 +1,13 @@
 ---
 slug: graduates-ideal-to-fill-skilled-migrant-shortfall
-title: "Graduates ideal to fill skilled migrant shortfall"
-date: 2004-07-06
-source-url: https://www.scoop.co.nz/stories/PA0407/S00109/graduates-ideal-to-fill-skilled-migrant-shortfall.htm
+title: Graduates ideal to fill skilled migrant shortfall
+date: 2004-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00109/graduates-ideal-to-fill-skilled-migrant-shortfall.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/07/06/graduates-ideal-to-fill-skilled-migrant-shortfall/index.html
+layout: layout.njk
 ---
 Graduates ideal to fill skilled migrant shortfall
 =================================================

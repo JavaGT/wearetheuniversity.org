@@ -1,9 +1,13 @@
 ---
 slug: brash-puts-economic-trends-under-the-microscope-in-lecture
-title: "Brash puts economic trends under the microscope in lecture"
-date: 2012-07-19
-source-url: https://www.scoop.co.nz/stories/AK1207/S00360/brash-puts-economic-trends-under-the-microscope-in-lecture.htm
+title: Brash puts economic trends under the microscope in lecture
+date: 2012-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00360/brash-puts-economic-trends-under-the-microscope-in-lecture.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/07/19/brash-puts-economic-trends-under-the-microscope-in-lecture/index.html
+layout: layout.njk
 ---
 Brash puts economic trends under the microscope in lecture
 ==========================================================

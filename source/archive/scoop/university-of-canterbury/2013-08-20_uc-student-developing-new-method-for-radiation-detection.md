@@ -1,9 +1,13 @@
 ---
 slug: uc-student-developing-new-method-for-radiation-detection
-title: "UC student developing new method for radiation detection"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/GE1308/S00097/uc-student-developing-new-method-for-radiation-detection.htm
+title: UC student developing new method for radiation detection
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00097/uc-student-developing-new-method-for-radiation-detection.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/20/uc-student-developing-new-method-for-radiation-detection/index.html
+layout: layout.njk
 ---
 UC student developing new method for radiation detection
 ========================================================

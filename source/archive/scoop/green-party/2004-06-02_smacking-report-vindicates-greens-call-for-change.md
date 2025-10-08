@@ -1,9 +1,13 @@
 ---
 slug: smacking-report-vindicates-greens-call-for-change
-title: "Smacking report vindicates Greens’ call for change"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/PA0406/S00055/smacking-report-vindicates-greens-call-for-change.htm
+title: Smacking report vindicates Greens’ call for change
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00055/smacking-report-vindicates-greens-call-for-change.htm
 author: green-party
+permalink: >-
+  /archive/2004/06/02/smacking-report-vindicates-greens-call-for-change/index.html
+layout: layout.njk
 ---
 Smacking report vindicates Greens’ call for change
 ==================================================

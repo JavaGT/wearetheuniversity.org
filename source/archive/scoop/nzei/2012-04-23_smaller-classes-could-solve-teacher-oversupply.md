@@ -1,9 +1,12 @@
 ---
 slug: smaller-classes-could-solve-teacher-oversupply
-title: "Smaller classes could solve teacher oversupply"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/ED1204/S00087/smaller-classes-could-solve-teacher-oversupply.htm
+title: Smaller classes could solve teacher oversupply
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00087/smaller-classes-could-solve-teacher-oversupply.htm
 author: nzei
+permalink: /archive/2012/04/23/smaller-classes-could-solve-teacher-oversupply/index.html
+layout: layout.njk
 ---
 Smaller classes could solve teacher oversupply
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: super-moon-may-produce-post-quake-flooding-in-coastal-areas
-title: "Super moon may produce post-quake flooding in coastal areas"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/AK1409/S00204/super-moon-may-produce-post-quake-flooding-in-coastal-areas.htm
+title: Super moon may produce post-quake flooding in coastal areas
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00204/super-moon-may-produce-post-quake-flooding-in-coastal-areas.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/09/super-moon-may-produce-post-quake-flooding-in-coastal-areas/index.html
+layout: layout.njk
 ---
 Super moon may produce post-quake flooding in coastal areas
 ===========================================================

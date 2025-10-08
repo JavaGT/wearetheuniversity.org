@@ -1,9 +1,12 @@
 ---
 slug: polar-experts-to-speak-in-christchurch
-title: "Polar experts to speak in Christchurch"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/SC1408/S00080/polar-experts-to-speak-in-christchurch.htm
+title: Polar experts to speak in Christchurch
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00080/polar-experts-to-speak-in-christchurch.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/27/polar-experts-to-speak-in-christchurch/index.html
+layout: layout.njk
 ---
 Polar experts to speak in Christchurch
 ======================================

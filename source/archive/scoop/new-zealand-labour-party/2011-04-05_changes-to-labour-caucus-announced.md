@@ -1,9 +1,12 @@
 ---
 slug: changes-to-labour-caucus-announced
-title: "Changes to Labour caucus announced"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00068/changes-to-labour-caucus-announced.htm
+title: Changes to Labour caucus announced
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00068/changes-to-labour-caucus-announced.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/05/changes-to-labour-caucus-announced/index.html
+layout: layout.njk
 ---
 Changes to Labour caucus announced
 ==================================

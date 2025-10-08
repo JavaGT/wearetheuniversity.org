@@ -1,9 +1,12 @@
 ---
 slug: nz-and-pacific-unis-in-unesco-twinning-project
-title: "NZ and Pacific Unis in UNESCO \"twinning\" Project"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/ED0503/S00068/nz-and-pacific-unis-in-unesco-twinning-project.htm
+title: NZ and Pacific Unis in UNESCO "twinning" Project
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00068/nz-and-pacific-unis-in-unesco-twinning-project.htm
 author: lincoln-university
+permalink: /archive/2005/03/21/nz-and-pacific-unis-in-unesco-twinning-project/index.html
+layout: layout.njk
 ---
 NZ and Pacific Unis in UNESCO “twinning” Project
 ================================================

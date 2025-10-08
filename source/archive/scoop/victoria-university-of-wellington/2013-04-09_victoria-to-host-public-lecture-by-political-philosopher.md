@@ -1,9 +1,13 @@
 ---
 slug: victoria-to-host-public-lecture-by-political-philosopher
-title: "Victoria to host public lecture by political philosopher"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/ED1304/S00032/victoria-to-host-public-lecture-by-political-philosopher.htm
+title: Victoria to host public lecture by political philosopher
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00032/victoria-to-host-public-lecture-by-political-philosopher.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/09/victoria-to-host-public-lecture-by-political-philosopher/index.html
+layout: layout.njk
 ---
 Victoria to host public lecture by political philosopher
 ========================================================

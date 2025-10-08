@@ -1,9 +1,12 @@
 ---
 slug: why-act-opposes-the-qantas-air-nztakeover
-title: "Why Act Opposes The Qantas/Air NZ Takeover"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00007/why-act-opposes-the-qantasair-nztakeover.htm
+title: Why Act Opposes The Qantas/Air NZ Takeover
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00007/why-act-opposes-the-qantasair-nztakeover.htm
 author: act-new-zealand
+permalink: /archive/2002/12/02/why-act-opposes-the-qantas-air-nztakeover/index.html
+layout: layout.njk
 ---
 "Why Act Opposes The Qantas/Air NZTakeover
 ==========================================

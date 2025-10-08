@@ -1,9 +1,12 @@
 ---
 slug: new-book-celebrates-nzs-six-legged-ghosts
-title: "New Book Celebrates NZ’s ‘six-legged Ghosts’"
-date: 2024-04-08
-source-url: https://www.scoop.co.nz/stories/CU2404/S00054/new-book-celebrates-nzs-six-legged-ghosts.htm
+title: New Book Celebrates NZ’s ‘six-legged Ghosts’
+date: 2024-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2404/S00054/new-book-celebrates-nzs-six-legged-ghosts.htm
 author: university-of-canterbury
+permalink: /archive/2024/04/08/new-book-celebrates-nzs-six-legged-ghosts/index.html
+layout: layout.njk
 ---
 New Book Celebrates NZ’s ‘six-legged Ghosts’
 ============================================

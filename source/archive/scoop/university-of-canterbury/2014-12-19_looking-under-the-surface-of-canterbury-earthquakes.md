@@ -1,9 +1,13 @@
 ---
 slug: looking-under-the-surface-of-canterbury-earthquakes
-title: "Looking under the surface of Canterbury earthquakes"
-date: 2014-12-19
-source-url: https://www.scoop.co.nz/stories/SC1412/S00060/looking-under-the-surface-of-canterbury-earthquakes.htm
+title: Looking under the surface of Canterbury earthquakes
+date: 2014-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00060/looking-under-the-surface-of-canterbury-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/19/looking-under-the-surface-of-canterbury-earthquakes/index.html
+layout: layout.njk
 ---
 Looking under the surface of Canterbury earthquakes
 ===================================================

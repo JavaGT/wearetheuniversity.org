@@ -1,9 +1,12 @@
 ---
 slug: budget-2006-flaming-torches-and-tomahawks
-title: "Budget 2006: Flaming Torches and Tomahawks"
-date: 2006-05-25
-source-url: https://www.scoop.co.nz/stories/PA0605/S00599/budget-2006-flaming-torches-and-tomahawks.htm
+title: 'Budget 2006: Flaming Torches and Tomahawks'
+date: 2006-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00599/budget-2006-flaming-torches-and-tomahawks.htm
 author: te-pati-maori
+permalink: /archive/2006/05/25/budget-2006-flaming-torches-and-tomahawks/index.html
+layout: layout.njk
 ---
 Budget 2006: Flaming Torches and Tomahawks
 ==========================================

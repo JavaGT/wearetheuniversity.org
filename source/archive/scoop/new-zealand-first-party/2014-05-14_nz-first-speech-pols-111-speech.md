@@ -1,9 +1,12 @@
 ---
 slug: nz-first-speech-pols-111-speech
-title: "NZ First Speech: POLS 111 Speech"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/PA1405/S00207/nz-first-speech-pols-111-speech.htm
+title: 'NZ First Speech: POLS 111 Speech'
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00207/nz-first-speech-pols-111-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/14/nz-first-speech-pols-111-speech/index.html
+layout: layout.njk
 ---
 NZ First Speech: POLS 111 Speech
 ================================

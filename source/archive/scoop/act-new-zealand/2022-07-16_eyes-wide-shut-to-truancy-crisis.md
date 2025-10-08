@@ -1,9 +1,12 @@
 ---
 slug: eyes-wide-shut-to-truancy-crisis
-title: "Eyes Wide Shut To Truancy Crisis"
-date: 2022-07-16
-source-url: https://www.scoop.co.nz/stories/PA2207/S00107/eyes-wide-shut-to-truancy-crisis.htm
+title: Eyes Wide Shut To Truancy Crisis
+date: 2022-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00107/eyes-wide-shut-to-truancy-crisis.htm
 author: act-new-zealand
+permalink: /archive/2022/07/16/eyes-wide-shut-to-truancy-crisis/index.html
+layout: layout.njk
 ---
 Eyes Wide Shut To Truancy Crisis
 ================================

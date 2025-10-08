@@ -1,9 +1,16 @@
 ---
-slug: nzei-te-riu-roa-welcomes-funding-for-students-and-education-workforce-after-covid-19-lockdown
-title: "NZEI Te Riu Roa Welcomes Funding For Students And Education Workforce After COVID-19 Lockdown"
-date: 2020-07-03
-source-url: https://www.scoop.co.nz/stories/ED2007/S00003/nzei-te-riu-roa-welcomes-funding-for-students-and-education-workforce-after-covid-19-lockdown.htm
+slug: >-
+  nzei-te-riu-roa-welcomes-funding-for-students-and-education-workforce-after-covid-19-lockdown
+title: >-
+  NZEI Te Riu Roa Welcomes Funding For Students And Education Workforce After
+  COVID-19 Lockdown
+date: 2020-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00003/nzei-te-riu-roa-welcomes-funding-for-students-and-education-workforce-after-covid-19-lockdown.htm
 author: nzei
+permalink: >-
+  /archive/2020/07/03/nzei-te-riu-roa-welcomes-funding-for-students-and-education-workforce-after-covid-19-lockdown/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Welcomes Funding For Students And Education Workforce After COVID-19 Lockdown
 =============================================================================================

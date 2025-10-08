@@ -1,9 +1,12 @@
 ---
 slug: international-call-for-gats-exclusion
-title: "International call for GATS exclusion"
-date: 2003-03-06
-source-url: https://www.scoop.co.nz/stories/ED0303/S00013/international-call-for-gats-exclusion.htm
+title: International call for GATS exclusion
+date: 2003-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00013/international-call-for-gats-exclusion.htm
 author: association-of-university-staff
+permalink: /archive/2003/03/06/international-call-for-gats-exclusion/index.html
+layout: layout.njk
 ---
 International call for GATS exclusion
 =====================================

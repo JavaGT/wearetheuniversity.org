@@ -1,9 +1,13 @@
 ---
 slug: brash-address-new-government-and-a-new-direction
-title: "Brash Address: New Government And A New Direction"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/PA0505/S00572/brash-address-new-government-and-a-new-direction.htm
+title: 'Brash Address: New Government And A New Direction'
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00572/brash-address-new-government-and-a-new-direction.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/05/23/brash-address-new-government-and-a-new-direction/index.html
+layout: layout.njk
 ---
 Brash Address: New Government And A New Direction
 =================================================

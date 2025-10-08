@@ -1,9 +1,12 @@
 ---
 slug: uc-students-national-award-launches-career-path
-title: "UC students’ national award launches career path"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/ED1112/S00084/uc-students-national-award-launches-career-path.htm
+title: UC students’ national award launches career path
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00084/uc-students-national-award-launches-career-path.htm
 author: university-of-canterbury
+permalink: /archive/2011/12/16/uc-students-national-award-launches-career-path/index.html
+layout: layout.njk
 ---
 UC students’ national award launches career path
 ================================================

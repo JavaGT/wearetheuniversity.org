@@ -1,9 +1,11 @@
 ---
 slug: go-the-all-whites
-title: "Go the All Whites"
-date: 2009-11-13
+title: Go the All Whites
+date: 2009-11-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0911/S00162/go-the-all-whites.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/13/go-the-all-whites/index.html
+layout: layout.njk
 ---
 Go the All Whites
 =================

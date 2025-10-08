@@ -1,9 +1,13 @@
 ---
 slug: stroke-rates-increase-for-maori-and-pacific-people
-title: "Stroke rates increase for Maori and Pacific People"
-date: 2005-11-18
-source-url: https://www.scoop.co.nz/stories/GE0511/S00067/stroke-rates-increase-for-maori-and-pacific-people.htm
+title: Stroke rates increase for Maori and Pacific People
+date: 2005-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0511/S00067/stroke-rates-increase-for-maori-and-pacific-people.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/11/18/stroke-rates-increase-for-maori-and-pacific-people/index.html
+layout: layout.njk
 ---
 Stroke rates increase for Maori and Pacific People
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: degree-in-petroleum-geoscience-launched
-title: "Degree in petroleum geoscience launched"
-date: 2005-12-02
-source-url: https://www.scoop.co.nz/stories/ED0512/S00006/degree-in-petroleum-geoscience-launched.htm
+title: Degree in petroleum geoscience launched
+date: 2005-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00006/degree-in-petroleum-geoscience-launched.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/12/02/degree-in-petroleum-geoscience-launched/index.html
+layout: layout.njk
 ---
 Degree in petroleum geoscience launched
 =======================================

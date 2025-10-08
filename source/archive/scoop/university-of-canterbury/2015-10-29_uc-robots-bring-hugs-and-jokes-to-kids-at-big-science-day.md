@@ -1,9 +1,13 @@
 ---
 slug: uc-robots-bring-hugs-and-jokes-to-kids-at-big-science-day
-title: "UC robots bring hugs and jokes to kids at Big Science Day"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/ED1510/S00137/uc-robots-bring-hugs-and-jokes-to-kids-at-big-science-day.htm
+title: UC robots bring hugs and jokes to kids at Big Science Day
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00137/uc-robots-bring-hugs-and-jokes-to-kids-at-big-science-day.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/10/29/uc-robots-bring-hugs-and-jokes-to-kids-at-big-science-day/index.html
+layout: layout.njk
 ---
 UC robots bring hugs and jokes to kids at Big Science Day
 =========================================================

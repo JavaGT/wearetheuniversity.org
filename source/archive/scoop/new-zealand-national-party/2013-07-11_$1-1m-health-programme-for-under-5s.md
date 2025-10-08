@@ -1,9 +1,12 @@
 ---
 slug: $1-1m-health-programme-for-under-5s
-title: "$1.1m health programme for under-5s"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/GE1307/S00059/11m-health-programme-for-under-5s.htm
+title: $1.1m health programme for under-5s
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00059/11m-health-programme-for-under-5s.htm
 author: new-zealand-national-party
+permalink: /archive/2013/07/11/1-1m-health-programme-for-under-5s/index.html
+layout: layout.njk
 ---
 $1.1m health programme for under-5s
 ===================================

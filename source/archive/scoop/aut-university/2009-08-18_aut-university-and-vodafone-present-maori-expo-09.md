@@ -1,9 +1,13 @@
 ---
 slug: aut-university-and-vodafone-present-maori-expo-09
-title: "AUT University and Vodafone present Maori Expo ‘09"
-date: 2009-08-18
-source-url: https://www.scoop.co.nz/stories/CU0908/S00294/aut-university-and-vodafone-present-maori-expo-09.htm
+title: AUT University and Vodafone present Maori Expo ‘09
+date: 2009-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00294/aut-university-and-vodafone-present-maori-expo-09.htm
 author: aut-university
+permalink: >-
+  /archive/2009/08/18/aut-university-and-vodafone-present-maori-expo-09/index.html
+layout: layout.njk
 ---
 AUT University and Vodafone present Maori Expo ‘09
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: use-aussie-relationship-to-promote-initiatives-on-syria
-title: "Use Aussie relationship to promote initiatives on Syria"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/PA1308/S00507/use-aussie-relationship-to-promote-initiatives-on-syria.htm
+title: Use Aussie relationship to promote initiatives on Syria
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00507/use-aussie-relationship-to-promote-initiatives-on-syria.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/08/30/use-aussie-relationship-to-promote-initiatives-on-syria/index.html
+layout: layout.njk
 ---
 Use Aussie relationship to promote initiatives on Syria
 =======================================================

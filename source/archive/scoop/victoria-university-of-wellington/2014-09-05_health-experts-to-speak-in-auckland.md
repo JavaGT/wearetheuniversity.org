@@ -1,9 +1,12 @@
 ---
 slug: health-experts-to-speak-in-auckland
-title: "Health experts to speak in Auckland"
-date: 2014-09-05
-source-url: https://www.scoop.co.nz/stories/GE1409/S00028/health-experts-to-speak-in-auckland.htm
+title: Health experts to speak in Auckland
+date: 2014-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1409/S00028/health-experts-to-speak-in-auckland.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/05/health-experts-to-speak-in-auckland/index.html
+layout: layout.njk
 ---
 Health experts to speak in Auckland
 ===================================

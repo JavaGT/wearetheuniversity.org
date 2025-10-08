@@ -1,9 +1,12 @@
 ---
 slug: surprise-for-15000-state-tenants-no-cheap-rents
-title: "Surprise For 15,000 State Tenants - No Cheap Rents"
-date: 2000-03-31
-source-url: https://www.scoop.co.nz/stories/PA0003/S00573/surprise-for-15000-state-tenants-no-cheap-rents.htm
+title: Surprise For 15,000 State Tenants - No Cheap Rents
+date: 2000-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00573/surprise-for-15000-state-tenants-no-cheap-rents.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/31/surprise-for-15000-state-tenants-no-cheap-rents/index.html
+layout: layout.njk
 ---
 Surprise For 15,000 State Tenants - No Cheap Rents
 ==================================================

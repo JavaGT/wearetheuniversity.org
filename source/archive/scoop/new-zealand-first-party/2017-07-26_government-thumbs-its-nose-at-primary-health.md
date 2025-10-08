@@ -1,9 +1,12 @@
 ---
 slug: government-thumbs-its-nose-at-primary-health
-title: "Government Thumbs Its Nose at Primary Health"
-date: 2017-07-26
-source-url: https://www.scoop.co.nz/stories/PA1707/S00388/government-thumbs-its-nose-at-primary-health.htm
+title: Government Thumbs Its Nose at Primary Health
+date: 2017-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00388/government-thumbs-its-nose-at-primary-health.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/26/government-thumbs-its-nose-at-primary-health/index.html
+layout: layout.njk
 ---
 Government Thumbs Its Nose at Primary Health
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: ed-minister-in-another-world-on-national-standards
-title: "Ed Minister in another world on National Standards"
-date: 2009-12-10
-source-url: https://www.scoop.co.nz/stories/PA0912/S00170/ed-minister-in-another-world-on-national-standards.htm
+title: Ed Minister in another world on National Standards
+date: 2009-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00170/ed-minister-in-another-world-on-national-standards.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/12/10/ed-minister-in-another-world-on-national-standards/index.html
+layout: layout.njk
 ---
 Ed Minister in another world on National Standards
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-celebrates-international-midwives-day
-title: "Labour celebrates International Midwives Day"
-date: 2009-05-05
-source-url: https://www.scoop.co.nz/stories/PA0905/S00072/labour-celebrates-international-midwives-day.htm
+title: Labour celebrates International Midwives Day
+date: 2009-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00072/labour-celebrates-international-midwives-day.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/05/labour-celebrates-international-midwives-day/index.html
+layout: layout.njk
 ---
 Labour celebrates International Midwives Day
 ============================================

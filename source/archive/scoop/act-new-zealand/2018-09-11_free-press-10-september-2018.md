@@ -1,9 +1,11 @@
 ---
 slug: free-press-10-september-2018
-title: "Free Press, 10 September 2018"
-date: 2018-09-11
+title: Free Press, 10 September 2018
+date: 2018-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1809/S00133/free-press-10-september-2018.htm
 author: act-new-zealand
+permalink: /archive/2018/09/11/free-press-10-september-2018/index.html
+layout: layout.njk
 ---
 Free Press, 10 September 2018
 =============================

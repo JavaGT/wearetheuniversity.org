@@ -1,9 +1,12 @@
 ---
 slug: vup-publishes-nigel-coxs-black-comedy
-title: "VUP publishes Nigel Cox's Black Comedy"
-date: 2005-05-13
-source-url: https://www.scoop.co.nz/stories/CU0505/S00113/vup-publishes-nigel-coxs-black-comedy.htm
+title: VUP publishes Nigel Cox's Black Comedy
+date: 2005-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0505/S00113/vup-publishes-nigel-coxs-black-comedy.htm
 author: victoria-university-press
+permalink: /archive/2005/05/13/vup-publishes-nigel-coxs-black-comedy/index.html
+layout: layout.njk
 ---
 VUP publishes Nigel Cox's Black Comedy
 ======================================

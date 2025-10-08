@@ -1,9 +1,11 @@
 ---
 slug: waikato-cd-an-award-winner
-title: "Waikato CD An Award Winner"
-date: 2003-10-31
+title: Waikato CD An Award Winner
+date: 2003-10-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0310/S00125/waikato-cd-an-award-winner.htm
 author: waikato-university
+permalink: /archive/2003/10/31/waikato-cd-an-award-winner/index.html
+layout: layout.njk
 ---
 Waikato CD An Award Winner
 ==========================

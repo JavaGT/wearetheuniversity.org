@@ -1,9 +1,12 @@
 ---
 slug: government-launders-dirty-air
-title: "Government launders dirty air"
-date: 2003-12-11
-source-url: https://www.scoop.co.nz/stories/PA0312/S00287/government-launders-dirty-air.htm
+title: Government launders dirty air
+date: 2003-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00287/government-launders-dirty-air.htm
 author: green-party
+permalink: /archive/2003/12/11/government-launders-dirty-air/index.html
+layout: layout.njk
 ---
 Government launders dirty air
 =============================

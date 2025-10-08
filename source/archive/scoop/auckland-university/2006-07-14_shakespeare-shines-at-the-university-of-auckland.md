@@ -1,9 +1,13 @@
 ---
 slug: shakespeare-shines-at-the-university-of-auckland
-title: "Shakespeare shines at The University of Auckland"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/ED0607/S00044/shakespeare-shines-at-the-university-of-auckland.htm
+title: Shakespeare shines at The University of Auckland
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00044/shakespeare-shines-at-the-university-of-auckland.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/07/14/shakespeare-shines-at-the-university-of-auckland/index.html
+layout: layout.njk
 ---
 Shakespeare shines at The University of Auckland
 ================================================

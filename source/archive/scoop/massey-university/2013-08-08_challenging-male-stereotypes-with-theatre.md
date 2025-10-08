@@ -1,9 +1,12 @@
 ---
 slug: challenging-male-stereotypes-with-theatre
-title: "Challenging male stereotypes with theatre"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/CU1308/S00124/challenging-male-stereotypes-with-theatre.htm
+title: Challenging male stereotypes with theatre
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1308/S00124/challenging-male-stereotypes-with-theatre.htm
 author: massey-university
+permalink: /archive/2013/08/08/challenging-male-stereotypes-with-theatre/index.html
+layout: layout.njk
 ---
 Challenging male stereotypes with theatre
 =========================================

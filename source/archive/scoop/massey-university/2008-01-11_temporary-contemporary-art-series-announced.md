@@ -1,9 +1,12 @@
 ---
 slug: temporary-contemporary-art-series-announced
-title: "Temporary contemporary art series announced"
-date: 2008-01-11
-source-url: https://www.scoop.co.nz/stories/CU0801/S00055/temporary-contemporary-art-series-announced.htm
+title: Temporary contemporary art series announced
+date: 2008-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0801/S00055/temporary-contemporary-art-series-announced.htm
 author: massey-university
+permalink: /archive/2008/01/11/temporary-contemporary-art-series-announced/index.html
+layout: layout.njk
 ---
 Temporary contemporary art series announced
 ===========================================

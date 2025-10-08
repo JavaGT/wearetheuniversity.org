@@ -1,9 +1,12 @@
 ---
 slug: key-nationals-benefits-policy
-title: "Key: National’s Benefits Policy"
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/PA0808/S00169/key-nationals-benefits-policy.htm
+title: 'Key: National’s Benefits Policy'
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00169/key-nationals-benefits-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/11/key-nationals-benefits-policy/index.html
+layout: layout.njk
 ---
 Key: National’s Benefits Policy
 ===============================

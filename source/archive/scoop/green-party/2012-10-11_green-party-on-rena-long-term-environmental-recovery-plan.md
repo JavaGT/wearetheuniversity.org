@@ -1,9 +1,13 @@
 ---
 slug: green-party-on-rena-long-term-environmental-recovery-plan
-title: "Green Party on Rena Long-term Environmental Recovery Plan"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PA1210/S00196/green-party-on-rena-long-term-environmental-recovery-plan.htm
+title: Green Party on Rena Long-term Environmental Recovery Plan
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00196/green-party-on-rena-long-term-environmental-recovery-plan.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/11/green-party-on-rena-long-term-environmental-recovery-plan/index.html
+layout: layout.njk
 ---
 Green Party on Rena Long-term Environmental Recovery Plan
 =========================================================

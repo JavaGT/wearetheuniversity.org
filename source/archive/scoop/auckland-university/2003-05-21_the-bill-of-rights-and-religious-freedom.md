@@ -1,9 +1,12 @@
 ---
 slug: the-bill-of-rights-and-religious-freedom
-title: "The Bill Of Rights And Religious Freedom"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00075/the-bill-of-rights-and-religious-freedom.htm
+title: The Bill Of Rights And Religious Freedom
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00075/the-bill-of-rights-and-religious-freedom.htm
 author: auckland-university
+permalink: /archive/2003/05/21/the-bill-of-rights-and-religious-freedom/index.html
+layout: layout.njk
 ---
 The Bill Of Rights And Religious Freedom
 ========================================

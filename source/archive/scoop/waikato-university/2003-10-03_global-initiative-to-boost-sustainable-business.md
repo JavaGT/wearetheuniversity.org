@@ -1,9 +1,12 @@
 ---
 slug: global-initiative-to-boost-sustainable-business
-title: "Global initiative to boost sustainable business"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/ED0310/S00008/global-initiative-to-boost-sustainable-business.htm
+title: Global initiative to boost sustainable business
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00008/global-initiative-to-boost-sustainable-business.htm
 author: waikato-university
+permalink: /archive/2003/10/03/global-initiative-to-boost-sustainable-business/index.html
+layout: layout.njk
 ---
 Global initiative to boost sustainable business
 ===============================================

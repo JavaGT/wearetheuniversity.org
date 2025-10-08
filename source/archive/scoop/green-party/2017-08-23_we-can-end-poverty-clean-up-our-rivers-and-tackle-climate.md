@@ -1,9 +1,13 @@
 ---
 slug: we-can-end-poverty-clean-up-our-rivers-and-tackle-climate
-title: "We can end poverty, clean up our rivers, and tackle climate"
-date: 2017-08-23
-source-url: https://www.scoop.co.nz/stories/PO1708/S00478/we-can-end-poverty-clean-up-our-rivers-and-tackle-climate.htm
+title: We can end poverty, clean up our rivers, and tackle climate
+date: 2017-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00478/we-can-end-poverty-clean-up-our-rivers-and-tackle-climate.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/23/we-can-end-poverty-clean-up-our-rivers-and-tackle-climate/index.html
+layout: layout.njk
 ---
 We can end poverty, clean up our rivers, and tackle climate
 ===========================================================

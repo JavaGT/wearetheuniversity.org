@@ -1,9 +1,12 @@
 ---
 slug: employers-not-happy-with-modern-apprenticeships
-title: "Employers not happy with Modern Apprenticeships"
-date: 2008-07-23
-source-url: https://www.scoop.co.nz/stories/PA0807/S00406/employers-not-happy-with-modern-apprenticeships.htm
+title: Employers not happy with Modern Apprenticeships
+date: 2008-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00406/employers-not-happy-with-modern-apprenticeships.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/23/employers-not-happy-with-modern-apprenticeships/index.html
+layout: layout.njk
 ---
 Employers not happy with Modern Apprenticeships
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: first-person-accesses-assisted-dying-victoria-australia
-title: "First Person Accesses Assisted Dying – Victoria, Australia"
-date: 2019-08-05
-source-url: https://www.scoop.co.nz/stories/PA1908/S00049/first-person-accesses-assisted-dying-victoria-australia.htm
+title: First Person Accesses Assisted Dying – Victoria, Australia
+date: 2019-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00049/first-person-accesses-assisted-dying-victoria-australia.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/08/05/first-person-accesses-assisted-dying-victoria-australia/index.html
+layout: layout.njk
 ---
 First Person Accesses Assisted Dying – Victoria, Australia
 ==========================================================

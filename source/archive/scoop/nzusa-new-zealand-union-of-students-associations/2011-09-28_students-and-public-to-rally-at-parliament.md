@@ -1,9 +1,12 @@
 ---
 slug: students-and-public-to-rally-at-parliament
-title: "Students And Public To Rally At Parliament"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/ED1109/S00123/students-and-public-to-rally-at-parliament.htm
+title: Students And Public To Rally At Parliament
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00123/students-and-public-to-rally-at-parliament.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/09/28/students-and-public-to-rally-at-parliament/index.html
+layout: layout.njk
 ---
 Students And Public To Rally At Parliament
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: nz-music-month-at-aut
-title: "NZ Music Month at AUT"
-date: 2004-04-21
+title: NZ Music Month at AUT
+date: 2004-04-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0404/S00101/nz-music-month-at-aut.htm
 author: auckland-student-movement
+permalink: /archive/2004/04/21/nz-music-month-at-aut/index.html
+layout: layout.njk
 ---
 NZ Music Month at AUT
 =====================

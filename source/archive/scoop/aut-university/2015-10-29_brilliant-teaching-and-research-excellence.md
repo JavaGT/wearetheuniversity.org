@@ -1,9 +1,12 @@
 ---
 slug: brilliant-teaching-and-research-excellence
-title: "Brilliant teaching and research excellence"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/ED1510/S00138/brilliant-teaching-and-research-excellence.htm
+title: Brilliant teaching and research excellence
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00138/brilliant-teaching-and-research-excellence.htm
 author: aut-university
+permalink: /archive/2015/10/29/brilliant-teaching-and-research-excellence/index.html
+layout: layout.njk
 ---
 Brilliant teaching and research excellence
 ==========================================

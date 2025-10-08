@@ -1,8 +1,11 @@
 ---
 slug: passion-for-māori-and-pākehā-history-leads-to-book-series
-title: "Passion for Māori and Pākehā history leads to book series"
-date: 2016-03-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/passion-for-new-zealand-history-leads-to-book-series.html
+title: Passion for Māori and Pākehā history leads to book series
+date: 2016-03-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/passion-for-new-zealand-history-leads-to-book-series.html
+permalink: /archive/2016/03/24/passion-for-m/index.html
+layout: layout.njk
 ---
 Passion for Māori and Pākehā history leads to book series
 =========================================================

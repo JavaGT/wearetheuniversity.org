@@ -1,9 +1,12 @@
 ---
 slug: locke-calls-for-stronger-support-for-tibetans
-title: "Locke calls for stronger support for Tibetans"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/PA0803/S00317/locke-calls-for-stronger-support-for-tibetans.htm
+title: Locke calls for stronger support for Tibetans
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00317/locke-calls-for-stronger-support-for-tibetans.htm
 author: green-party
+permalink: /archive/2008/03/19/locke-calls-for-stronger-support-for-tibetans/index.html
+layout: layout.njk
 ---
 Locke calls for stronger support for Tibetans
 =============================================

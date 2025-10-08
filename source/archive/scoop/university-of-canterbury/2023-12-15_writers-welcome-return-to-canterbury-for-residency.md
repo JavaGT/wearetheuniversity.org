@@ -1,9 +1,13 @@
 ---
 slug: writers-welcome-return-to-canterbury-for-residency
-title: "Writers Welcome Return To Canterbury For Residency"
-date: 2023-12-15
-source-url: https://www.scoop.co.nz/stories/ED2312/S00021/writers-welcome-return-to-canterbury-for-residency.htm
+title: Writers Welcome Return To Canterbury For Residency
+date: 2023-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2312/S00021/writers-welcome-return-to-canterbury-for-residency.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/12/15/writers-welcome-return-to-canterbury-for-residency/index.html
+layout: layout.njk
 ---
 Writers Welcome Return To Canterbury For Residency
 ==================================================

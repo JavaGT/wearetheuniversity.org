@@ -1,9 +1,13 @@
 ---
 slug: engineering-better-medical-sensor-technology-in-icu
-title: "Engineering better medical sensor technology in ICU"
-date: 2016-06-09
-source-url: https://www.scoop.co.nz/stories/GE1606/S00030/engineering-better-medical-sensor-technology-in-icu.htm
+title: Engineering better medical sensor technology in ICU
+date: 2016-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1606/S00030/engineering-better-medical-sensor-technology-in-icu.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/09/engineering-better-medical-sensor-technology-in-icu/index.html
+layout: layout.njk
 ---
 Engineering better medical sensor technology in ICU
 ===================================================

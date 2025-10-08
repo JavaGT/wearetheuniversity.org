@@ -1,9 +1,12 @@
 ---
 slug: victoria-research-team-looks-for-missing-men
-title: "Victoria research team looks for ‘missing men’"
-date: 2007-04-03
-source-url: https://www.scoop.co.nz/stories/ED0704/S00012/victoria-research-team-looks-for-missing-men.htm
+title: Victoria research team looks for ‘missing men’
+date: 2007-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00012/victoria-research-team-looks-for-missing-men.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/03/victoria-research-team-looks-for-missing-men/index.html
+layout: layout.njk
 ---
 Victoria research team looks for ‘missing men’
 ==============================================

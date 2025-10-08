@@ -1,9 +1,12 @@
 ---
 slug: natl-conservatorium-closer-to-christchurch
-title: "Nat'l Conservatorium Closer to Christchurch"
-date: 2009-11-12
-source-url: https://www.scoop.co.nz/stories/AK0911/S00240/natl-conservatorium-closer-to-christchurch.htm
+title: Nat'l Conservatorium Closer to Christchurch
+date: 2009-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0911/S00240/natl-conservatorium-closer-to-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2009/11/12/natl-conservatorium-closer-to-christchurch/index.html
+layout: layout.njk
 ---
 Nat'l Conservatorium Closer to Christchurch
 ===========================================

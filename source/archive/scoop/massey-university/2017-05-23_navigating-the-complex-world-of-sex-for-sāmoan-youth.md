@@ -1,9 +1,12 @@
 ---
 slug: navigating-the-complex-world-of-sex-for-sāmoan-youth
-title: "Navigating the complex world of sex for Sāmoan youth"
-date: 2017-05-23
-source-url: https://www.scoop.co.nz/stories/ED1705/S00092/navigating-the-complex-world-of-sex-for-samoan-youth.htm
+title: Navigating the complex world of sex for Sāmoan youth
+date: 2017-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00092/navigating-the-complex-world-of-sex-for-samoan-youth.htm
 author: massey-university
+permalink: /archive/2017/05/23/navigating-the-complex-world-of-sex-for-s/index.html
+layout: layout.njk
 ---
 Navigating the complex world of sex for Sāmoan youth
 ====================================================

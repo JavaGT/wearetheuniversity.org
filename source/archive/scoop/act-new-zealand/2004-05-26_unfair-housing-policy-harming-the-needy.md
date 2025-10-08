@@ -1,9 +1,12 @@
 ---
 slug: unfair-housing-policy-harming-the-needy
-title: "Unfair Housing Policy Harming The Needy"
-date: 2004-05-26
-source-url: https://www.scoop.co.nz/stories/PA0405/S00545/unfair-housing-policy-harming-the-needy.htm
+title: Unfair Housing Policy Harming The Needy
+date: 2004-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00545/unfair-housing-policy-harming-the-needy.htm
 author: act-new-zealand
+permalink: /archive/2004/05/26/unfair-housing-policy-harming-the-needy/index.html
+layout: layout.njk
 ---
 Unfair Housing Policy Harming The Needy
 =======================================

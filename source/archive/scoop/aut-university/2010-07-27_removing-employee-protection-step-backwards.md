@@ -1,9 +1,12 @@
 ---
 slug: removing-employee-protection-step-backwards
-title: "Removing Employee Protection Step Backwards"
-date: 2010-07-27
-source-url: https://www.scoop.co.nz/stories/PO1007/S00332/removing-employee-protection-step-backwards.htm
+title: Removing Employee Protection Step Backwards
+date: 2010-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1007/S00332/removing-employee-protection-step-backwards.htm
 author: aut-university
+permalink: /archive/2010/07/27/removing-employee-protection-step-backwards/index.html
+layout: layout.njk
 ---
 Removing Employee Protection Step Backwards
 ===========================================

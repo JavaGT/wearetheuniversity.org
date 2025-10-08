@@ -1,8 +1,12 @@
 ---
 slug: infrared-cameras-study-found-pregnant-women-should-sleep-on-their-side
-title: "Infrared cameras study found pregnant women should sleep on their side"
-date: 2017-10-13
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/infrared-cameras-study-found-pregnant-women-should-sleep-on-thei.html
+title: Infrared cameras study found pregnant women should sleep on their side
+date: 2017-10-13T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/infrared-cameras-study-found-pregnant-women-should-sleep-on-thei.html
+permalink: >-
+  /archive/2017/10/13/infrared-cameras-study-found-pregnant-women-should-sleep-on-their-side/index.html
+layout: layout.njk
 ---
 Infrared cameras study found pregnant women should sleep on their side
 ======================================================================

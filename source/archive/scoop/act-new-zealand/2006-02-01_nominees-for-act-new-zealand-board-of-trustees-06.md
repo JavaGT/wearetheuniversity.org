@@ -1,9 +1,13 @@
 ---
 slug: nominees-for-act-new-zealand-board-of-trustees-06
-title: "Nominees for ACT New Zealand Board of Trustees 06"
-date: 2006-02-01
-source-url: https://www.scoop.co.nz/stories/PO0602/S00011/nominees-for-act-new-zealand-board-of-trustees-06.htm
+title: Nominees for ACT New Zealand Board of Trustees 06
+date: 2006-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0602/S00011/nominees-for-act-new-zealand-board-of-trustees-06.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2006/02/01/nominees-for-act-new-zealand-board-of-trustees-06/index.html
+layout: layout.njk
 ---
 Nominees for ACT New Zealand Board of Trustees 06
 =================================================

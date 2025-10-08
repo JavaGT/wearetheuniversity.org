@@ -1,9 +1,13 @@
 ---
 slug: adult-stem-cell-types-heart-repair-potential-probed
-title: "Adult stem cell types’ heart repair potential probed"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/SC1611/S00080/adult-stem-cell-types-heart-repair-potential-probed.htm
+title: Adult stem cell types’ heart repair potential probed
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00080/adult-stem-cell-types-heart-repair-potential-probed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/25/adult-stem-cell-types-heart-repair-potential-probed/index.html
+layout: layout.njk
 ---
 Adult stem cell types’ heart repair potential probed
 ====================================================

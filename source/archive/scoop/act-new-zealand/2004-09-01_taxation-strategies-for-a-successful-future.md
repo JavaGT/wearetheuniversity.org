@@ -1,9 +1,12 @@
 ---
 slug: taxation-strategies-for-a-successful-future
-title: "Taxation Strategies For A Successful Future"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/PA0409/S00015/taxation-strategies-for-a-successful-future.htm
+title: Taxation Strategies For A Successful Future
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00015/taxation-strategies-for-a-successful-future.htm
 author: act-new-zealand
+permalink: /archive/2004/09/01/taxation-strategies-for-a-successful-future/index.html
+layout: layout.njk
 ---
 Taxation Strategies For A Successful Future
 ===========================================

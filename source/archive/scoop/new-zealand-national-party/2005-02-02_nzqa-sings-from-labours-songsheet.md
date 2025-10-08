@@ -1,9 +1,12 @@
 ---
 slug: nzqa-sings-from-labours-songsheet
-title: "NZQA sings from Labour's songsheet"
-date: 2005-02-02
-source-url: https://www.scoop.co.nz/stories/PA0502/S00030/nzqa-sings-from-labours-songsheet.htm
+title: NZQA sings from Labour's songsheet
+date: 2005-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00030/nzqa-sings-from-labours-songsheet.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/02/nzqa-sings-from-labours-songsheet/index.html
+layout: layout.njk
 ---
 NZQA sings from Labour's songsheet
 ==================================

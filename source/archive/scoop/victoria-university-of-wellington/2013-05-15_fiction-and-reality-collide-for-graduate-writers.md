@@ -1,9 +1,13 @@
 ---
 slug: fiction-and-reality-collide-for-graduate-writers
-title: "Fiction and reality collide for graduate writers"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/ED1305/S00092/fiction-and-reality-collide-for-graduate-writers.htm
+title: Fiction and reality collide for graduate writers
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00092/fiction-and-reality-collide-for-graduate-writers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/05/15/fiction-and-reality-collide-for-graduate-writers/index.html
+layout: layout.njk
 ---
 Fiction and reality collide for graduate writers
 ================================================

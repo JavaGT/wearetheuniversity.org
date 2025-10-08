@@ -1,9 +1,13 @@
 ---
 slug: ymca-moved-a-long-way-forward-since-starting-150-years-ago
-title: "YMCA moved a long way forward since starting 150 years ago"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/CU1211/S00312/ymca-moved-a-long-way-forward-since-starting-150-years-ago.htm
+title: YMCA moved a long way forward since starting 150 years ago
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00312/ymca-moved-a-long-way-forward-since-starting-150-years-ago.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/15/ymca-moved-a-long-way-forward-since-starting-150-years-ago/index.html
+layout: layout.njk
 ---
 YMCA moved a long way forward since starting 150 years ago
 ==========================================================

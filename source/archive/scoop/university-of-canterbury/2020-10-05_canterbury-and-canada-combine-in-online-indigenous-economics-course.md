@@ -1,9 +1,13 @@
 ---
 slug: canterbury-and-canada-combine-in-online-indigenous-economics-course
-title: "Canterbury And Canada Combine In Online Indigenous Economics Course"
-date: 2020-10-05
-source-url: https://www.scoop.co.nz/stories/ED2010/S00009/canterbury-and-canada-combine-in-online-indigenous-economics-course.htm
+title: Canterbury And Canada Combine In Online Indigenous Economics Course
+date: 2020-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00009/canterbury-and-canada-combine-in-online-indigenous-economics-course.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/05/canterbury-and-canada-combine-in-online-indigenous-economics-course/index.html
+layout: layout.njk
 ---
 Canterbury And Canada Combine In Online Indigenous Economics Course
 ===================================================================

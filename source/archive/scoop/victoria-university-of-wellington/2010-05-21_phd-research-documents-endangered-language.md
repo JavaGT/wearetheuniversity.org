@@ -1,9 +1,12 @@
 ---
 slug: phd-research-documents-endangered-language
-title: "PhD research documents endangered language"
-date: 2010-05-21
-source-url: https://www.scoop.co.nz/stories/ED1005/S00097/phd-research-documents-endangered-language.htm
+title: PhD research documents endangered language
+date: 2010-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00097/phd-research-documents-endangered-language.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/21/phd-research-documents-endangered-language/index.html
+layout: layout.njk
 ---
 PhD research documents endangered language
 ==========================================

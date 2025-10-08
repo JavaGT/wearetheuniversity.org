@@ -1,9 +1,13 @@
 ---
 slug: key-brash-extreme-team-will-hurt-mainstream-new-zealand
-title: "Key/Brash extreme team will hurt mainstream New Zealand"
-date: 2011-04-28
-source-url: https://www.scoop.co.nz/stories/PA1104/S00515/keybrash-extreme-team-will-hurt-mainstream-new-zealand.htm
+title: Key/Brash extreme team will hurt mainstream New Zealand
+date: 2011-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00515/keybrash-extreme-team-will-hurt-mainstream-new-zealand.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/28/key-brash-extreme-team-will-hurt-mainstream-new-zealand/index.html
+layout: layout.njk
 ---
 Key/Brash extreme team will hurt mainstream New Zealand
 =======================================================

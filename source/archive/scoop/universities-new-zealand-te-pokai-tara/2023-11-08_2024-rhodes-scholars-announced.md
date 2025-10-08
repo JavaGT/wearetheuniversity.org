@@ -1,9 +1,12 @@
 ---
 slug: 2024-rhodes-scholars-announced
-title: "2024 Rhodes Scholars Announced"
-date: 2023-11-08
-source-url: https://www.scoop.co.nz/stories/ED2311/S00017/2024-rhodes-scholars-announced.htm
+title: 2024 Rhodes Scholars Announced
+date: 2023-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2311/S00017/2024-rhodes-scholars-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2023/11/08/2024-rhodes-scholars-announced/index.html
+layout: layout.njk
 ---
 2024 Rhodes Scholars Announced
 ==============================

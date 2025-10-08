@@ -1,9 +1,12 @@
 ---
 slug: minister-sending-patients-to-prison-barbaric
-title: "Minister Sending Patients To Prison Barbaric"
-date: 2002-01-17
-source-url: https://www.scoop.co.nz/stories/PA0201/S00076/minister-sending-patients-to-prison-barbaric.htm
+title: Minister Sending Patients To Prison Barbaric
+date: 2002-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00076/minister-sending-patients-to-prison-barbaric.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/17/minister-sending-patients-to-prison-barbaric/index.html
+layout: layout.njk
 ---
 Minister Sending Patients To Prison Barbaric
 ============================================

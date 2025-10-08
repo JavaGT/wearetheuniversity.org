@@ -1,9 +1,12 @@
 ---
 slug: govt-in-spin-mode-on-education-funding
-title: "Govt in spin mode on education funding"
-date: 2018-04-11
-source-url: https://www.scoop.co.nz/stories/PA1804/S00117/govt-in-spin-mode-on-education-funding.htm
+title: Govt in spin mode on education funding
+date: 2018-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00117/govt-in-spin-mode-on-education-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/11/govt-in-spin-mode-on-education-funding/index.html
+layout: layout.njk
 ---
 Govt in spin mode on education funding
 ======================================

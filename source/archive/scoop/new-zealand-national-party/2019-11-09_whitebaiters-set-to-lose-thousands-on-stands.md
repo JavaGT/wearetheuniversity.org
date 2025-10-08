@@ -1,9 +1,12 @@
 ---
 slug: whitebaiters-set-to-lose-thousands-on-stands
-title: "Whitebaiters set to lose thousands on stands"
-date: 2019-11-09
-source-url: https://www.scoop.co.nz/stories/PA1911/S00070/whitebaiters-set-to-lose-thousands-on-stands.htm
+title: Whitebaiters set to lose thousands on stands
+date: 2019-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00070/whitebaiters-set-to-lose-thousands-on-stands.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/09/whitebaiters-set-to-lose-thousands-on-stands/index.html
+layout: layout.njk
 ---
 Whitebaiters set to lose thousands on stands
 ============================================

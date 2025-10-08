@@ -1,9 +1,13 @@
 ---
 slug: lincoln-universitys-annual-report-for-2020-is-now-available
-title: "Lincoln University’s Annual Report For 2020 Is Now Available"
-date: 2021-05-28
-source-url: https://www.scoop.co.nz/stories/ED2105/S00055/lincoln-universitys-annual-report-for-2020-is-now-available.htm
+title: Lincoln University’s Annual Report For 2020 Is Now Available
+date: 2021-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00055/lincoln-universitys-annual-report-for-2020-is-now-available.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/05/28/lincoln-universitys-annual-report-for-2020-is-now-available/index.html
+layout: layout.njk
 ---
 Lincoln University’s Annual Report For 2020 Is Now Available
 ============================================================

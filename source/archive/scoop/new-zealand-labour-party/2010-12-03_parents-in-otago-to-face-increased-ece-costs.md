@@ -1,9 +1,12 @@
 ---
 slug: parents-in-otago-to-face-increased-ece-costs
-title: "Parents in Otago to face increased ECE costs"
-date: 2010-12-03
-source-url: https://www.scoop.co.nz/stories/PA1012/S00034/parents-in-otago-to-face-increased-ece-costs.htm
+title: Parents in Otago to face increased ECE costs
+date: 2010-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00034/parents-in-otago-to-face-increased-ece-costs.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/12/03/parents-in-otago-to-face-increased-ece-costs/index.html
+layout: layout.njk
 ---
 Parents in Otago to face increased ECE costs
 ============================================

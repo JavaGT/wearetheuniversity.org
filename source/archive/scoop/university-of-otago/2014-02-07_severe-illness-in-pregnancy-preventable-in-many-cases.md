@@ -1,9 +1,13 @@
 ---
 slug: severe-illness-in-pregnancy-preventable-in-many-cases
-title: "Severe illness in pregnancy preventable in many cases"
-date: 2014-02-07
-source-url: https://www.scoop.co.nz/stories/SC1402/S00011/severe-illness-in-pregnancy-preventable-in-many-cases.htm
+title: Severe illness in pregnancy preventable in many cases
+date: 2014-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00011/severe-illness-in-pregnancy-preventable-in-many-cases.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/07/severe-illness-in-pregnancy-preventable-in-many-cases/index.html
+layout: layout.njk
 ---
 Severe illness in pregnancy preventable in many cases
 =====================================================

@@ -1,8 +1,12 @@
 ---
 slug: academics-epic-ocean-row-makes-the-guinness-book-of-world-records
-title: "Academic’s epic ocean row makes the Guinness Book of World Records"
-date: 2015-09-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/academic_s-epic-ocean-row-makes-the-guiness-book-of-world-record.html
+title: Academic’s epic ocean row makes the Guinness Book of World Records
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/academic_s-epic-ocean-row-makes-the-guiness-book-of-world-record.html
+permalink: >-
+  /archive/2015/09/14/academics-epic-ocean-row-makes-the-guinness-book-of-world-records/index.html
+layout: layout.njk
 ---
 Academic’s epic ocean row makes the Guinness Book of World Records
 ==================================================================

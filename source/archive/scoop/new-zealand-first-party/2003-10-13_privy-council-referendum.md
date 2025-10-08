@@ -1,9 +1,11 @@
 ---
 slug: privy-council-referendum
-title: "Privy Council Referendum"
-date: 2003-10-13
+title: Privy Council Referendum
+date: 2003-10-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00261/privy-council-referendum.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/13/privy-council-referendum/index.html
+layout: layout.njk
 ---
 Privy Council Referendum
 ========================

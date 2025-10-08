@@ -1,9 +1,12 @@
 ---
 slug: new-award-for-emerging-film-writers
-title: "New award for emerging film writers"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/ED1311/S00183/new-award-for-emerging-film-writers.htm
+title: New award for emerging film writers
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00183/new-award-for-emerging-film-writers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/27/new-award-for-emerging-film-writers/index.html
+layout: layout.njk
 ---
 New award for emerging film writers
 ===================================

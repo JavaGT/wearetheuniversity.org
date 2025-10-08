@@ -1,9 +1,12 @@
 ---
 slug: is-the-internet-changing-marketing-completely
-title: "Is The Internet Changing Marketing Completely?"
-date: 2003-04-07
-source-url: https://www.scoop.co.nz/stories/SC0304/S00010/is-the-internet-changing-marketing-completely.htm
+title: Is The Internet Changing Marketing Completely?
+date: 2003-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0304/S00010/is-the-internet-changing-marketing-completely.htm
 author: auckland-university
+permalink: /archive/2003/04/07/is-the-internet-changing-marketing-completely/index.html
+layout: layout.njk
 ---
 Is The Internet Changing Marketing Completely?
 ==============================================

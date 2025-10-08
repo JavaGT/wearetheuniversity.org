@@ -1,9 +1,13 @@
 ---
 slug: government-turns-a-blind-eye-to-struggling-sole-parents
-title: "Government turns a blind eye to struggling sole parents"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/PA1608/S00485/government-turns-a-blind-eye-to-struggling-sole-parents.htm
+title: Government turns a blind eye to struggling sole parents
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00485/government-turns-a-blind-eye-to-struggling-sole-parents.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/26/government-turns-a-blind-eye-to-struggling-sole-parents/index.html
+layout: layout.njk
 ---
 Government turns a blind eye to struggling sole parents
 =======================================================

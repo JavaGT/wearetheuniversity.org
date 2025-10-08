@@ -1,9 +1,13 @@
 ---
 slug: uncharted-territory-at-waikato-computer-graphic-design-show
-title: "Uncharted Territory at Waikato computer graphic design show"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/ED1111/S00011/uncharted-territory-at-waikato-computer-graphic-design-show.htm
+title: Uncharted Territory at Waikato computer graphic design show
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00011/uncharted-territory-at-waikato-computer-graphic-design-show.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/02/uncharted-territory-at-waikato-computer-graphic-design-show/index.html
+layout: layout.njk
 ---
 Uncharted Territory at Waikato computer graphic design show
 ===========================================================

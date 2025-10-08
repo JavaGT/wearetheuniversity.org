@@ -1,9 +1,12 @@
 ---
 slug: surprise-strikes-are-price-of-govts-union-ties
-title: "Surprise strikes are price of Govt’s union ties"
-date: 2019-02-12
-source-url: https://www.scoop.co.nz/stories/PA1902/S00085/surprise-strikes-are-price-of-govts-union-ties.htm
+title: Surprise strikes are price of Govt’s union ties
+date: 2019-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00085/surprise-strikes-are-price-of-govts-union-ties.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/12/surprise-strikes-are-price-of-govts-union-ties/index.html
+layout: layout.njk
 ---
 Surprise strikes are price of Govt’s union ties
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: first-masters-in-marine-conservation-launched
-title: "First Master's in Marine Conservation launched"
-date: 2006-08-07
-source-url: https://www.scoop.co.nz/stories/ED0608/S00023/first-masters-in-marine-conservation-launched.htm
+title: First Master's in Marine Conservation launched
+date: 2006-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00023/first-masters-in-marine-conservation-launched.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/07/first-masters-in-marine-conservation-launched/index.html
+layout: layout.njk
 ---
 First Master's in Marine Conservation launched
 ==============================================

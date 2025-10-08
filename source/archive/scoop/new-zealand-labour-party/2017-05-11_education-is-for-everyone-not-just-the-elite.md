@@ -1,9 +1,12 @@
 ---
 slug: education-is-for-everyone-not-just-the-elite
-title: "Education is for everyone, not just the elite"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/PA1705/S00228/education-is-for-everyone-not-just-the-elite.htm
+title: Education is for everyone, not just the elite
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00228/education-is-for-everyone-not-just-the-elite.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/11/education-is-for-everyone-not-just-the-elite/index.html
+layout: layout.njk
 ---
 Education is for everyone, not just the elite
 =============================================

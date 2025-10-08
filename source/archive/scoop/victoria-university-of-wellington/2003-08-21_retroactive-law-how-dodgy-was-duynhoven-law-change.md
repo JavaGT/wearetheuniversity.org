@@ -1,9 +1,13 @@
 ---
 slug: retroactive-law-how-dodgy-was-duynhoven-law-change
-title: "Retroactive Law How Dodgy Was Duynhoven Law Change"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/ED0308/S00072/retroactive-law-how-dodgy-was-duynhoven-law-change.htm
+title: Retroactive Law How Dodgy Was Duynhoven Law Change
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00072/retroactive-law-how-dodgy-was-duynhoven-law-change.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/08/21/retroactive-law-how-dodgy-was-duynhoven-law-change/index.html
+layout: layout.njk
 ---
 Retroactive Law How Dodgy Was Duynhoven Law Change
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: investment-in-trade-training-critical-to-canterbury-rebuild
-title: "Investment in trade training critical to Canterbury rebuild"
-date: 2011-03-09
-source-url: https://www.scoop.co.nz/stories/PA1103/S00116/investment-in-trade-training-critical-to-canterbury-rebuild.htm
+title: Investment in trade training critical to Canterbury rebuild
+date: 2011-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00116/investment-in-trade-training-critical-to-canterbury-rebuild.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/03/09/investment-in-trade-training-critical-to-canterbury-rebuild/index.html
+layout: layout.njk
 ---
 Investment in trade training critical to Canterbury rebuild
 ===========================================================

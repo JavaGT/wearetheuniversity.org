@@ -1,9 +1,13 @@
 ---
 slug: future-sea-level-rise-from-warming-of-polar-ice-sheets
-title: "Future sea-level rise from warming of polar ice sheets"
-date: 2017-02-07
-source-url: https://www.scoop.co.nz/stories/SC1702/S00018/future-sea-level-rise-from-warming-of-polar-ice-sheets.htm
+title: Future sea-level rise from warming of polar ice sheets
+date: 2017-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00018/future-sea-level-rise-from-warming-of-polar-ice-sheets.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/02/07/future-sea-level-rise-from-warming-of-polar-ice-sheets/index.html
+layout: layout.njk
 ---
 Future sea-level rise from warming of polar ice sheets
 ======================================================

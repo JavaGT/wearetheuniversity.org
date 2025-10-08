@@ -1,9 +1,16 @@
 ---
-slug: we-are-the-university-open-letter-cuts-to-marsden-funding-for-humanities-and-social-sciences
-title: "We Are The University Open Letter: Cuts To Marsden Funding For Humanities And Social Sciences"
-date: 2024-12-11
-source-url: https://www.scoop.co.nz/stories/ED2412/S00035/we-are-the-university-open-letter-cuts-to-marsden-funding-for-humanities-and-social-sciences.htm
+slug: >-
+  we-are-the-university-open-letter-cuts-to-marsden-funding-for-humanities-and-social-sciences
+title: >-
+  We Are The University Open Letter: Cuts To Marsden Funding For Humanities And
+  Social Sciences
+date: 2024-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2412/S00035/we-are-the-university-open-letter-cuts-to-marsden-funding-for-humanities-and-social-sciences.htm
 author: we-are-the-university
+permalink: >-
+  /archive/2024/12/11/we-are-the-university-open-letter-cuts-to-marsden-funding-for-humanities-and-social-sciences/index.html
+layout: layout.njk
 ---
 We Are The University Open Letter: Cuts To Marsden Funding For Humanities And Social Sciences
 =============================================================================================

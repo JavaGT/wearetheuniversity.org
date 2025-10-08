@@ -1,9 +1,12 @@
 ---
 slug: wellingtons-next-top-scientists-on-show
-title: "Wellington's Next Top Scientists On Show"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/ED1308/S00120/wellingtons-next-top-scientists-on-show.htm
+title: Wellington's Next Top Scientists On Show
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00120/wellingtons-next-top-scientists-on-show.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/26/wellingtons-next-top-scientists-on-show/index.html
+layout: layout.njk
 ---
 Wellington's Next Top Scientists On Show
 ========================================

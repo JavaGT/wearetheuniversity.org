@@ -1,9 +1,12 @@
 ---
 slug: young-workers-get-strong-voice-in-unions
-title: "Young Workers get Strong Voice in Unions"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/BU0310/S00038/young-workers-get-strong-voice-in-unions.htm
+title: Young Workers get Strong Voice in Unions
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0310/S00038/young-workers-get-strong-voice-in-unions.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/10/03/young-workers-get-strong-voice-in-unions/index.html
+layout: layout.njk
 ---
 Young Workers get Strong Voice in Unions
 ========================================

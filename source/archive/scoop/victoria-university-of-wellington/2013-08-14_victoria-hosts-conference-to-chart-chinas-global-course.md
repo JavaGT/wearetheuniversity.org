@@ -1,9 +1,13 @@
 ---
 slug: victoria-hosts-conference-to-chart-chinas-global-course
-title: "Victoria hosts conference to chart China’s global course"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/PO1308/S00202/victoria-hosts-conference-to-chart-chinas-global-course.htm
+title: Victoria hosts conference to chart China’s global course
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00202/victoria-hosts-conference-to-chart-chinas-global-course.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/14/victoria-hosts-conference-to-chart-chinas-global-course/index.html
+layout: layout.njk
 ---
 Victoria hosts conference to chart China’s global course
 ========================================================

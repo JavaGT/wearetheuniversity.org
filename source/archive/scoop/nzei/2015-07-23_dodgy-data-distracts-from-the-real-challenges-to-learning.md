@@ -1,9 +1,13 @@
 ---
 slug: dodgy-data-distracts-from-the-real-challenges-to-learning
-title: "Dodgy data distracts from the real challenges to learning"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/ED1507/S00105/dodgy-data-distracts-from-the-real-challenges-to-learning.htm
+title: Dodgy data distracts from the real challenges to learning
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00105/dodgy-data-distracts-from-the-real-challenges-to-learning.htm
 author: nzei
+permalink: >-
+  /archive/2015/07/23/dodgy-data-distracts-from-the-real-challenges-to-learning/index.html
+layout: layout.njk
 ---
 Dodgy data distracts from the real challenges to learning
 =========================================================

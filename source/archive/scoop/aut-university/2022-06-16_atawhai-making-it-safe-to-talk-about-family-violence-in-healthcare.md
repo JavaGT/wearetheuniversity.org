@@ -1,9 +1,13 @@
 ---
 slug: atawhai-making-it-safe-to-talk-about-family-violence-in-healthcare
-title: "Atawhai: Making It Safe To Talk About Family Violence In Healthcare"
-date: 2022-06-16
-source-url: https://www.scoop.co.nz/stories/AK2206/S00328/atawhai-making-it-safe-to-talk-about-family-violence-in-healthcare.htm
+title: 'Atawhai: Making It Safe To Talk About Family Violence In Healthcare'
+date: 2022-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2206/S00328/atawhai-making-it-safe-to-talk-about-family-violence-in-healthcare.htm
 author: aut-university
+permalink: >-
+  /archive/2022/06/16/atawhai-making-it-safe-to-talk-about-family-violence-in-healthcare/index.html
+layout: layout.njk
 ---
 Atawhai: Making It Safe To Talk About Family Violence In Healthcare
 ===================================================================

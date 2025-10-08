@@ -1,9 +1,16 @@
 ---
-slug: polling-shows-majority-of-kiwis-support-university-funding-being-contingent-on-defending-academic-freedom
-title: "Polling Shows Majority Of Kiwis Support University Funding Being Contingent On Defending Academic Freedom"
-date: 2024-05-09
-source-url: https://www.scoop.co.nz/stories/AK2405/S00280/polling-shows-majority-of-kiwis-support-university-funding-being-contingent-on-defending-academic-freedom.htm
+slug: >-
+  polling-shows-majority-of-kiwis-support-university-funding-being-contingent-on-defending-academic-freedom
+title: >-
+  Polling Shows Majority Of Kiwis Support University Funding Being Contingent On
+  Defending Academic Freedom
+date: 2024-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00280/polling-shows-majority-of-kiwis-support-university-funding-being-contingent-on-defending-academic-freedom.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/05/09/polling-shows-majority-of-kiwis-support-university-funding-being-contingent-on-defending-academic-freedom/index.html
+layout: layout.njk
 ---
 Polling Shows Majority Of Kiwis Support University Funding Being Contingent On Defending Academic Freedom
 =========================================================================================================

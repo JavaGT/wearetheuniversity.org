@@ -1,9 +1,12 @@
 ---
 slug: does-a-bad-start-make-for-failure-at-school
-title: "Does a Bad Start  Make for Failure at School"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/CU0910/S00151/does-a-bad-start-make-for-failure-at-school.htm
+title: Does a Bad Start  Make for Failure at School
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00151/does-a-bad-start-make-for-failure-at-school.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/10/09/does-a-bad-start-make-for-failure-at-school/index.html
+layout: layout.njk
 ---
 Does a Bad Start Make for Failure at School
 ===========================================

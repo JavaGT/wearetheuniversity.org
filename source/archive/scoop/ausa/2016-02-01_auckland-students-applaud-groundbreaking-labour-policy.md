@@ -1,9 +1,13 @@
 ---
 slug: auckland-students-applaud-groundbreaking-labour-policy
-title: "Auckland Students Applaud Groundbreaking Labour Policy"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/ED1602/S00002/auckland-students-applaud-groundbreaking-labour-policy.htm
+title: Auckland Students Applaud Groundbreaking Labour Policy
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00002/auckland-students-applaud-groundbreaking-labour-policy.htm
 author: ausa
+permalink: >-
+  /archive/2016/02/01/auckland-students-applaud-groundbreaking-labour-policy/index.html
+layout: layout.njk
 ---
 Auckland Students Applaud Groundbreaking Labour Policy
 ======================================================

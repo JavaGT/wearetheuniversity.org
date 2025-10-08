@@ -1,9 +1,12 @@
 ---
 slug: opposition-makes-storm-look-organised
-title: "Opposition makes storm look organised"
-date: 2017-07-13
-source-url: https://www.scoop.co.nz/stories/PA1707/S00203/opposition-makes-storm-look-organised.htm
+title: Opposition makes storm look organised
+date: 2017-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00203/opposition-makes-storm-look-organised.htm
 author: act-new-zealand
+permalink: /archive/2017/07/13/opposition-makes-storm-look-organised/index.html
+layout: layout.njk
 ---
 Opposition makes storm look organised
 =====================================

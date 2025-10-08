@@ -1,9 +1,12 @@
 ---
 slug: the-fish-rots-from-the-head-author-to-give-talk
-title: "‘The Fish Rots from the Head’ author to give talk"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/ED0510/S00058/the-fish-rots-from-the-head-author-to-give-talk.htm
+title: ‘The Fish Rots from the Head’ author to give talk
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00058/the-fish-rots-from-the-head-author-to-give-talk.htm
 author: aut-university
+permalink: /archive/2005/10/19/the-fish-rots-from-the-head-author-to-give-talk/index.html
+layout: layout.njk
 ---
 ‘The Fish Rots from the Head’ author to give talk
 =================================================

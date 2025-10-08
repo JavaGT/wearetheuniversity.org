@@ -1,9 +1,12 @@
 ---
 slug: working-to-end-racial-oppression-supported-by-$10m-mbie-grant
-title: "Working To End Racial Oppression Supported By $10m MBIE Grant"
-date: 2020-09-23
-source-url: https://www.scoop.co.nz/stories/ED2009/S00052/working-to-end-racial-oppression-supported-by-10m-mbie-grant.htm
+title: Working To End Racial Oppression Supported By $10m MBIE Grant
+date: 2020-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00052/working-to-end-racial-oppression-supported-by-10m-mbie-grant.htm
 author: university-of-waikato
+permalink: /archive/2020/09/23/working-to-end-racial-oppression-supported-by-/index.html
+layout: layout.njk
 ---
 Working To End Racial Oppression Supported By $10m MBIE Grant
 =============================================================

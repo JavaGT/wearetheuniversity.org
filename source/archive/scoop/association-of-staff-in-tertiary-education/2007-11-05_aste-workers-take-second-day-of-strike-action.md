@@ -1,9 +1,12 @@
 ---
 slug: aste-workers-take-second-day-of-strike-action
-title: "ASTE Workers Take Second Day of Strike Action"
-date: 2007-11-05
-source-url: https://www.scoop.co.nz/stories/PO0711/S00070/aste-workers-take-second-day-of-strike-action.htm
+title: ASTE Workers Take Second Day of Strike Action
+date: 2007-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00070/aste-workers-take-second-day-of-strike-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2007/11/05/aste-workers-take-second-day-of-strike-action/index.html
+layout: layout.njk
 ---
 ASTE Workers Take Second Day of Strike Action
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: confirming-staff-in-new-schools-key-to-success
-title: "Confirming Staff In New Schools  - Key To Success"
-date: 2004-04-13
-source-url: https://www.scoop.co.nz/stories/ED0404/S00035/confirming-staff-in-new-schools-key-to-success.htm
+title: Confirming Staff In New Schools  - Key To Success
+date: 2004-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00035/confirming-staff-in-new-schools-key-to-success.htm
 author: nzei
+permalink: /archive/2004/04/13/confirming-staff-in-new-schools-key-to-success/index.html
+layout: layout.njk
 ---
 Confirming Staff In New Schools - Key To Success
 ================================================

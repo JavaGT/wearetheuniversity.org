@@ -1,9 +1,12 @@
 ---
 slug: mum-and-dad-investors-myth-busted
-title: "'Mum and dad’ investors myth busted"
-date: 2013-05-24
-source-url: https://www.scoop.co.nz/stories/PA1305/S00487/mum-and-dad-investors-myth-busted.htm
+title: '''Mum and dad’ investors myth busted'
+date: 2013-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00487/mum-and-dad-investors-myth-busted.htm
 author: green-party
+permalink: /archive/2013/05/24/mum-and-dad-investors-myth-busted/index.html
+layout: layout.njk
 ---
 'Mum and dad’ investors myth busted
 ===================================

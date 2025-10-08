@@ -1,9 +1,12 @@
 ---
 slug: watered-down-bdm-bill-still-flawed
-title: "Watered-down BDM bill still flawed"
-date: 2007-11-27
-source-url: https://www.scoop.co.nz/stories/PA0711/S00534/watered-down-bdm-bill-still-flawed.htm
+title: Watered-down BDM bill still flawed
+date: 2007-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00534/watered-down-bdm-bill-still-flawed.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/27/watered-down-bdm-bill-still-flawed/index.html
+layout: layout.njk
 ---
 Watered-down BDM bill still flawed
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: the-lord-of-the-rings-and-how-people-think-about-new-zealand
-title: "The Lord of the Rings and how people think about New Zealand"
-date: 2013-02-15
-source-url: https://www.scoop.co.nz/stories/ED1302/S00075/the-lord-of-the-rings-and-how-people-think-about-new-zealand.htm
+title: The Lord of the Rings and how people think about New Zealand
+date: 2013-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00075/the-lord-of-the-rings-and-how-people-think-about-new-zealand.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/02/15/the-lord-of-the-rings-and-how-people-think-about-new-zealand/index.html
+layout: layout.njk
 ---
 The Lord of the Rings and how people think about New Zealand
 ============================================================

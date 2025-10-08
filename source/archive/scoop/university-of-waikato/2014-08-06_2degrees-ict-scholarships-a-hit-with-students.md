@@ -1,9 +1,12 @@
 ---
 slug: 2degrees-ict-scholarships-a-hit-with-students
-title: "2degrees ICT Scholarships a hit with students"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/ED1408/S00029/2degrees-ict-scholarships-a-hit-with-students.htm
+title: 2degrees ICT Scholarships a hit with students
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00029/2degrees-ict-scholarships-a-hit-with-students.htm
 author: university-of-waikato
+permalink: /archive/2014/08/06/2degrees-ict-scholarships-a-hit-with-students/index.html
+layout: layout.njk
 ---
 2degrees ICT Scholarships a hit with students
 =============================================

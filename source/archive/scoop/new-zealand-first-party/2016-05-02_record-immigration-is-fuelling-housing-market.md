@@ -1,9 +1,12 @@
 ---
 slug: record-immigration-is-fuelling-housing-market
-title: "Record Immigration is Fuelling Housing Market"
-date: 2016-05-02
-source-url: https://www.scoop.co.nz/stories/PA1605/S00008/record-immigration-is-fuelling-housing-market.htm
+title: Record Immigration is Fuelling Housing Market
+date: 2016-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00008/record-immigration-is-fuelling-housing-market.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/02/record-immigration-is-fuelling-housing-market/index.html
+layout: layout.njk
 ---
 Record Immigration is Fuelling Housing Market
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: room-for-improvement-in-schools-emergency-preparedness
-title: "Room for improvement in schools’ emergency preparedness"
-date: 2018-05-30
-source-url: https://www.scoop.co.nz/stories/ED1805/S00068/room-for-improvement-in-schools-emergency-preparedness.htm
+title: Room for improvement in schools’ emergency preparedness
+date: 2018-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00068/room-for-improvement-in-schools-emergency-preparedness.htm
 author: massey-university
+permalink: >-
+  /archive/2018/05/30/room-for-improvement-in-schools-emergency-preparedness/index.html
+layout: layout.njk
 ---
 Room for improvement in schools’ emergency preparedness
 =======================================================

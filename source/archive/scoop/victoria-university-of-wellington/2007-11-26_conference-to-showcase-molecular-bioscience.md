@@ -1,9 +1,12 @@
 ---
 slug: conference-to-showcase-molecular-bioscience
-title: "Conference to showcase molecular bioscience"
-date: 2007-11-26
-source-url: https://www.scoop.co.nz/stories/SC0711/S00071/conference-to-showcase-molecular-bioscience.htm
+title: Conference to showcase molecular bioscience
+date: 2007-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00071/conference-to-showcase-molecular-bioscience.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/26/conference-to-showcase-molecular-bioscience/index.html
+layout: layout.njk
 ---
 Conference to showcase molecular bioscience
 ===========================================

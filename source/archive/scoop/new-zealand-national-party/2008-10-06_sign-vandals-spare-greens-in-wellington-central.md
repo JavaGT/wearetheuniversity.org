@@ -1,9 +1,12 @@
 ---
 slug: sign-vandals-spare-greens-in-wellington-central
-title: "Sign vandals spare Greens in Wellington Central"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PO0810/S00071/sign-vandals-spare-greens-in-wellington-central.htm
+title: Sign vandals spare Greens in Wellington Central
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00071/sign-vandals-spare-greens-in-wellington-central.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/06/sign-vandals-spare-greens-in-wellington-central/index.html
+layout: layout.njk
 ---
 Sign vandals spare Greens in Wellington Central
 ===============================================

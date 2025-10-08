@@ -1,9 +1,13 @@
 ---
 slug: which-children-will-miss-out-when-funding-is-redistributed
-title: "Which children will miss out when funding is redistributed?"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/ED1606/S00074/which-children-will-miss-out-when-funding-is-redistributed.htm
+title: Which children will miss out when funding is redistributed?
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00074/which-children-will-miss-out-when-funding-is-redistributed.htm
 author: nzei
+permalink: >-
+  /archive/2016/06/20/which-children-will-miss-out-when-funding-is-redistributed/index.html
+layout: layout.njk
 ---
 Which children will miss out when funding is redistributed?
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: act-announces-freedom-to-learn-education-policy
-title: "ACT announces Freedom to Learn education policy"
-date: 2019-06-16
-source-url: https://www.scoop.co.nz/stories/PA1906/S00133/act-announces-freedom-to-learn-education-policy.htm
+title: ACT announces Freedom to Learn education policy
+date: 2019-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00133/act-announces-freedom-to-learn-education-policy.htm
 author: act-new-zealand
+permalink: /archive/2019/06/16/act-announces-freedom-to-learn-education-policy/index.html
+layout: layout.njk
 ---
 ACT announces Freedom to Learn education policy
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: luke-willis-thompson-debuts-new-work
-title: "Luke Willis Thompson debuts new work"
-date: 2018-02-19
-source-url: https://www.scoop.co.nz/stories/CU1802/S00264/luke-willis-thompson-debuts-new-work.htm
+title: Luke Willis Thompson debuts new work
+date: 2018-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1802/S00264/luke-willis-thompson-debuts-new-work.htm
 author: victoria-university-of-wellington
+permalink: /archive/2018/02/19/luke-willis-thompson-debuts-new-work/index.html
+layout: layout.njk
 ---
 Luke Willis Thompson debuts new work
 ====================================

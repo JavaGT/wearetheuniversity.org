@@ -1,9 +1,13 @@
 ---
 slug: traditional-treatment-nets-supreme-award-for-smoked-salmon
-title: "Traditional treatment nets supreme award for smoked salmon"
-date: 2014-09-26
-source-url: https://www.scoop.co.nz/stories/BU1409/S00959/traditional-treatment-nets-supreme-award-for-smoked-salmon.htm
+title: Traditional treatment nets supreme award for smoked salmon
+date: 2014-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00959/traditional-treatment-nets-supreme-award-for-smoked-salmon.htm
 author: massey-university
+permalink: >-
+  /archive/2014/09/26/traditional-treatment-nets-supreme-award-for-smoked-salmon/index.html
+layout: layout.njk
 ---
 Traditional treatment nets supreme award for smoked salmon
 ==========================================================

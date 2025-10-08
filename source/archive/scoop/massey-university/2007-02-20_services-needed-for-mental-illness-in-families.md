@@ -1,9 +1,12 @@
 ---
 slug: services-needed-for-mental-illness-in-families
-title: "Services needed for mental illness in families"
-date: 2007-02-20
-source-url: https://www.scoop.co.nz/stories/GE0702/S00050/services-needed-for-mental-illness-in-families.htm
+title: Services needed for mental illness in families
+date: 2007-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0702/S00050/services-needed-for-mental-illness-in-families.htm
 author: massey-university
+permalink: /archive/2007/02/20/services-needed-for-mental-illness-in-families/index.html
+layout: layout.njk
 ---
 Services needed for mental illness in families
 ==============================================

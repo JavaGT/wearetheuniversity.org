@@ -1,9 +1,13 @@
 ---
 slug: comprehensive-policy-to-help-deliver-high-quality-education
-title: "Comprehensive policy to help deliver high quality education"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/ED1111/S00078/comprehensive-policy-to-help-deliver-high-quality-education.htm
+title: Comprehensive policy to help deliver high quality education
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00078/comprehensive-policy-to-help-deliver-high-quality-education.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/10/comprehensive-policy-to-help-deliver-high-quality-education/index.html
+layout: layout.njk
 ---
 Comprehensive policy to help deliver high quality education
 ===========================================================

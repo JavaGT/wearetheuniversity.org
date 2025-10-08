@@ -1,9 +1,13 @@
 ---
 slug: labour-greens-propose-increased-emissions-at-huge-cost
-title: "Labour/Greens Propose Increased Emissions At Huge Cost"
-date: 2022-10-11
-source-url: https://www.scoop.co.nz/stories/PA2210/S00067/labourgreens-propose-increased-emissions-at-huge-cost.htm
+title: Labour/Greens Propose Increased Emissions At Huge Cost
+date: 2022-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00067/labourgreens-propose-increased-emissions-at-huge-cost.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/11/labour-greens-propose-increased-emissions-at-huge-cost/index.html
+layout: layout.njk
 ---
 Labour/Greens Propose Increased Emissions At Huge Cost
 ======================================================

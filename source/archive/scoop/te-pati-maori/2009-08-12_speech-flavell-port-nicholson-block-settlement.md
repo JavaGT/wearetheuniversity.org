@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-port-nicholson-block-settlement
-title: "Speech: Flavell - Port Nicholson Block Settlement"
-date: 2009-08-12
-source-url: https://www.scoop.co.nz/stories/PA0908/S00154/speech-flavell-port-nicholson-block-settlement.htm
+title: 'Speech: Flavell - Port Nicholson Block Settlement'
+date: 2009-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00154/speech-flavell-port-nicholson-block-settlement.htm
 author: te-pati-maori
+permalink: /archive/2009/08/12/speech-flavell-port-nicholson-block-settlement/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Port Nicholson Block Settlement
 =================================================

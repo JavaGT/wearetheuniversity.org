@@ -1,9 +1,12 @@
 ---
 slug: world-class-animal-health-centre-for-manawatu
-title: "World-class animal health centre for Manawatu"
-date: 2004-12-22
-source-url: https://www.scoop.co.nz/stories/ED0412/S00074/world-class-animal-health-centre-for-manawatu.htm
+title: World-class animal health centre for Manawatu
+date: 2004-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00074/world-class-animal-health-centre-for-manawatu.htm
 author: massey-university
+permalink: /archive/2004/12/22/world-class-animal-health-centre-for-manawatu/index.html
+layout: layout.njk
 ---
 World-class animal health centre for Manawatu
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: weak-water-announcement
-title: "Weak Water Announcement"
-date: 2013-11-07
+title: Weak Water Announcement
+date: 2013-11-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1311/S00120/weak-water-announcement.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/07/weak-water-announcement/index.html
+layout: layout.njk
 ---
 Weak Water Announcement
 =======================

@@ -1,9 +1,12 @@
 ---
 slug: supermarket-pricing-under-scrutiny-too
-title: "Supermarket pricing under scrutiny too"
-date: 2011-08-09
-source-url: https://www.scoop.co.nz/stories/PA1108/S00172/supermarket-pricing-under-scrutiny-too.htm
+title: Supermarket pricing under scrutiny too
+date: 2011-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00172/supermarket-pricing-under-scrutiny-too.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/09/supermarket-pricing-under-scrutiny-too/index.html
+layout: layout.njk
 ---
 Supermarket pricing under scrutiny too
 ======================================

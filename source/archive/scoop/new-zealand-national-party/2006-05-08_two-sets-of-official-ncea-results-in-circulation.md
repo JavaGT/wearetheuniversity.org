@@ -1,9 +1,13 @@
 ---
 slug: two-sets-of-official-ncea-results-in-circulation
-title: "Two sets of 'official' NCEA results in circulation"
-date: 2006-05-08
-source-url: https://www.scoop.co.nz/stories/PA0605/S00185/two-sets-of-official-ncea-results-in-circulation.htm
+title: Two sets of 'official' NCEA results in circulation
+date: 2006-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00185/two-sets-of-official-ncea-results-in-circulation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/05/08/two-sets-of-official-ncea-results-in-circulation/index.html
+layout: layout.njk
 ---
 Two sets of 'official' NCEA results in circulation
 ==================================================

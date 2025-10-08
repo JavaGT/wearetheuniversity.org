@@ -1,9 +1,12 @@
 ---
 slug: government-bans-importation-of-(most)-asbestos
-title: "Government bans importation of (most) asbestos"
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/PO1606/S00187/government-bans-importation-of-most-asbestos.htm
+title: Government bans importation of (most) asbestos
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00187/government-bans-importation-of-most-asbestos.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2016/06/16/government-bans-importation-of-/index.html
+layout: layout.njk
 ---
 Government bans importation of (most) asbestos
 ==============================================

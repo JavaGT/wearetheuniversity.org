@@ -1,9 +1,16 @@
 ---
-slug: the-growing-call-for-a-national-food-strategy-to-build-resilience-in-new-zealand
-title: "The Growing Call For A National Food Strategy To Build Resilience In New Zealand"
-date: 2024-08-14
-source-url: https://www.scoop.co.nz/stories/AK2408/S00352/the-growing-call-for-a-national-food-strategy-to-build-resilience-in-new-zealand.htm
+slug: >-
+  the-growing-call-for-a-national-food-strategy-to-build-resilience-in-new-zealand
+title: >-
+  The Growing Call For A National Food Strategy To Build Resilience In New
+  Zealand
+date: 2024-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2408/S00352/the-growing-call-for-a-national-food-strategy-to-build-resilience-in-new-zealand.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/08/14/the-growing-call-for-a-national-food-strategy-to-build-resilience-in-new-zealand/index.html
+layout: layout.njk
 ---
 The Growing Call For A National Food Strategy To Build Resilience In New Zealand
 ================================================================================

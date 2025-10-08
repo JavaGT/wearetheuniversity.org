@@ -1,9 +1,11 @@
 ---
 slug: don-brash-proud-to-be-a-kiwi
-title: "Don Brash - Proud to be a Kiwi"
-date: 2006-05-29
+title: Don Brash - Proud to be a Kiwi
+date: 2006-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00666/don-brash-proud-to-be-a-kiwi.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/29/don-brash-proud-to-be-a-kiwi/index.html
+layout: layout.njk
 ---
 Don Brash - Proud to be a Kiwi
 ==============================

@@ -1,9 +1,11 @@
 ---
 slug: free-lunch-farce
-title: "Free Lunch Farce"
-date: 2021-05-12
+title: Free Lunch Farce
+date: 2021-05-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2105/S00102/free-lunch-farce.htm
 author: act-new-zealand
+permalink: /archive/2021/05/12/free-lunch-farce/index.html
+layout: layout.njk
 ---
 Free Lunch Farce
 ================

@@ -1,9 +1,13 @@
 ---
 slug: government-votes-against-legislation-that-would-advance-māori-electoral-rights
-title: "Government Votes Against Legislation That Would Advance Māori Electoral Rights"
-date: 2022-11-10
-source-url: https://www.scoop.co.nz/stories/PA2211/S00082/government-votes-against-legislation-that-would-advance-maori-electoral-rights.htm
+title: Government Votes Against Legislation That Would Advance Māori Electoral Rights
+date: 2022-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00082/government-votes-against-legislation-that-would-advance-maori-electoral-rights.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2022/11/10/government-votes-against-legislation-that-would-advance-m/index.html
+layout: layout.njk
 ---
 Government Votes Against Legislation That Would Advance Māori Electoral Rights
 ==============================================================================

@@ -1,9 +1,12 @@
 ---
 slug: award-winning-us-percussionist-to-join-uc-music
-title: "Award-winning US percussionist to join UC Music"
-date: 2016-11-15
-source-url: https://www.scoop.co.nz/stories/CU1611/S00203/award-winning-us-percussionist-to-join-uc-music.htm
+title: Award-winning US percussionist to join UC Music
+date: 2016-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1611/S00203/award-winning-us-percussionist-to-join-uc-music.htm
 author: university-of-canterbury
+permalink: /archive/2016/11/15/award-winning-us-percussionist-to-join-uc-music/index.html
+layout: layout.njk
 ---
 Award-winning US percussionist to join UC Music
 ===============================================

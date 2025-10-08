@@ -1,9 +1,12 @@
 ---
 slug: budget-doesnt-tackle-bop-crisis-rod-donald
-title: "Budget doesn’t tackle BOP crisis - Rod Donald"
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/PA0006/S00468/budget-doesnt-tackle-bop-crisis-rod-donald.htm
+title: Budget doesn’t tackle BOP crisis - Rod Donald
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00468/budget-doesnt-tackle-bop-crisis-rod-donald.htm
 author: green-party
+permalink: /archive/2000/06/20/budget-doesnt-tackle-bop-crisis-rod-donald/index.html
+layout: layout.njk
 ---
 Budget doesn’t tackle BOP crisis - Rod Donald
 =============================================

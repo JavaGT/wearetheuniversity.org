@@ -1,9 +1,12 @@
 ---
 slug: teens-tempers-and-video-games
-title: "Teens, tempers and video games"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/ED1403/S00112/teens-tempers-and-video-games.htm
+title: Teens, tempers and video games
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00112/teens-tempers-and-video-games.htm
 author: massey-university
+permalink: /archive/2014/03/20/teens-tempers-and-video-games/index.html
+layout: layout.njk
 ---
 Teens, tempers and video games
 ==============================

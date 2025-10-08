@@ -1,9 +1,13 @@
 ---
 slug: research-finds-relationship-property-law-needs-modernising
-title: "Research finds relationship property law needs modernising"
-date: 2018-10-25
-source-url: https://www.scoop.co.nz/stories/PO1810/S00345/research-finds-relationship-property-law-needs-modernising.htm
+title: Research finds relationship property law needs modernising
+date: 2018-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00345/research-finds-relationship-property-law-needs-modernising.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/25/research-finds-relationship-property-law-needs-modernising/index.html
+layout: layout.njk
 ---
 Research finds relationship property law needs modernising
 ==========================================================

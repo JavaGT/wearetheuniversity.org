@@ -1,9 +1,12 @@
 ---
 slug: young-labour-reeling-over-keys-student-claims
-title: "Young Labour Reeling Over Key's Student  Claims"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/PO1004/S00192/young-labour-reeling-over-keys-student-claims.htm
+title: Young Labour Reeling Over Key's Student  Claims
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00192/young-labour-reeling-over-keys-student-claims.htm
 author: young-labour
+permalink: /archive/2010/04/19/young-labour-reeling-over-keys-student-claims/index.html
+layout: layout.njk
 ---
 Young Labour Reeling Over Key's Student Claims
 ==============================================

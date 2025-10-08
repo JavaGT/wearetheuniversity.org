@@ -1,9 +1,13 @@
 ---
 slug: local-values-and-beliefs-important-when-advertising-in-asia
-title: "Local values and  beliefs important when advertising in Asia"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/BU1109/S00747/local-values-and-beliefs-important-when-advertising-in-asia.htm
+title: Local values and  beliefs important when advertising in Asia
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00747/local-values-and-beliefs-important-when-advertising-in-asia.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/26/local-values-and-beliefs-important-when-advertising-in-asia/index.html
+layout: layout.njk
 ---
 Local values and beliefs important when advertising in Asia
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-campaign-trail-ahead
-title: "The Mapp Report: Campaign Trail Ahead"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/PA0809/S00605/the-mapp-report-campaign-trail-ahead.htm
+title: 'The Mapp Report: Campaign Trail Ahead'
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00605/the-mapp-report-campaign-trail-ahead.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/26/the-mapp-report-campaign-trail-ahead/index.html
+layout: layout.njk
 ---
 The Mapp Report: Campaign Trail Ahead
 =====================================

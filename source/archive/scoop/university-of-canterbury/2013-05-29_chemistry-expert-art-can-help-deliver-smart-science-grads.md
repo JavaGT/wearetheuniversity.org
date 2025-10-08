@@ -1,9 +1,13 @@
 ---
 slug: chemistry-expert-art-can-help-deliver-smart-science-grads
-title: "Chemistry expert: art can help deliver smart science grads"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/ED1305/S00191/chemistry-expert-art-can-help-deliver-smart-science-grads.htm
+title: 'Chemistry expert: art can help deliver smart science grads'
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00191/chemistry-expert-art-can-help-deliver-smart-science-grads.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/29/chemistry-expert-art-can-help-deliver-smart-science-grads/index.html
+layout: layout.njk
 ---
 Chemistry expert: art can help deliver smart science grads
 ==========================================================

@@ -1,9 +1,11 @@
 ---
 slug: new-lincoln-pro-chancellor
-title: "New Lincoln Pro Chancellor"
-date: 2001-12-04
+title: New Lincoln Pro Chancellor
+date: 2001-12-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0112/S00004/new-lincoln-pro-chancellor.htm
 author: lincoln-university
+permalink: /archive/2001/12/04/new-lincoln-pro-chancellor/index.html
+layout: layout.njk
 ---
 New Lincoln Pro Chancellor
 ==========================

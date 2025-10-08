@@ -1,9 +1,12 @@
 ---
 slug: ncea-will-increase-school-zone-scramble
-title: "NCEA Will Increase School-Zone Scramble"
-date: 2001-08-30
-source-url: https://www.scoop.co.nz/stories/PA0108/S00578/ncea-will-increase-school-zone-scramble.htm
+title: NCEA Will Increase School-Zone Scramble
+date: 2001-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00578/ncea-will-increase-school-zone-scramble.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/30/ncea-will-increase-school-zone-scramble/index.html
+layout: layout.njk
 ---
 NCEA Will Increase School-Zone Scramble
 =======================================

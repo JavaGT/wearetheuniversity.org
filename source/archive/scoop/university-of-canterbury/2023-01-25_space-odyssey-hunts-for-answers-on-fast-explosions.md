@@ -1,9 +1,13 @@
 ---
 slug: space-odyssey-hunts-for-answers-on-fast-explosions
-title: "Space Odyssey Hunts For Answers On Fast Explosions"
-date: 2023-01-25
-source-url: https://www.scoop.co.nz/stories/SC2301/S00018/space-odyssey-hunts-for-answers-on-fast-explosions.htm
+title: Space Odyssey Hunts For Answers On Fast Explosions
+date: 2023-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2301/S00018/space-odyssey-hunts-for-answers-on-fast-explosions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/01/25/space-odyssey-hunts-for-answers-on-fast-explosions/index.html
+layout: layout.njk
 ---
 Space Odyssey Hunts For Answers On Fast Explosions
 ==================================================

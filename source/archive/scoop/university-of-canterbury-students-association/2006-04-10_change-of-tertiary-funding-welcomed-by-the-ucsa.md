@@ -1,9 +1,12 @@
 ---
 slug: change-of-tertiary-funding-welcomed-by-the-ucsa
-title: "Change of Tertiary Funding welcomed by the UCSA"
-date: 2006-04-10
-source-url: https://www.scoop.co.nz/stories/ED0604/S00033/change-of-tertiary-funding-welcomed-by-the-ucsa.htm
+title: Change of Tertiary Funding welcomed by the UCSA
+date: 2006-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00033/change-of-tertiary-funding-welcomed-by-the-ucsa.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2006/04/10/change-of-tertiary-funding-welcomed-by-the-ucsa/index.html
+layout: layout.njk
 ---
 Change of Tertiary Funding welcomed by the UCSA
 ===============================================

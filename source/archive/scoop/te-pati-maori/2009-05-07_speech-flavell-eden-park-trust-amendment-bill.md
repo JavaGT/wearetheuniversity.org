@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-eden-park-trust-amendment-bill
-title: "Speech: Flavell - Eden Park Trust Amendment Bill"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/PA0905/S00121/speech-flavell-eden-park-trust-amendment-bill.htm
+title: 'Speech: Flavell - Eden Park Trust Amendment Bill'
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00121/speech-flavell-eden-park-trust-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/05/07/speech-flavell-eden-park-trust-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Eden Park Trust Amendment Bill
 ================================================

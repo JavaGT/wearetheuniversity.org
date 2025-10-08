@@ -1,9 +1,12 @@
 ---
 slug: pregnancy-survey-needs-more-participants
-title: "Pregnancy survey needs more participants"
-date: 2014-11-18
-source-url: https://www.scoop.co.nz/stories/ED1411/S00116/pregnancy-survey-needs-more-participants.htm
+title: Pregnancy survey needs more participants
+date: 2014-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00116/pregnancy-survey-needs-more-participants.htm
 author: massey-university
+permalink: /archive/2014/11/18/pregnancy-survey-needs-more-participants/index.html
+layout: layout.njk
 ---
 Pregnancy survey needs more participants
 ========================================

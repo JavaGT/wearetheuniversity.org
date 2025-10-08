@@ -1,9 +1,12 @@
 ---
 slug: epic-pasifika-love-poem-published-by-cup
-title: "Epic Pasifika love poem published by CUP"
-date: 2014-03-19
-source-url: https://www.scoop.co.nz/stories/CU1403/S00360/epic-pasifika-love-poem-published-by-cup.htm
+title: Epic Pasifika love poem published by CUP
+date: 2014-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1403/S00360/epic-pasifika-love-poem-published-by-cup.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/19/epic-pasifika-love-poem-published-by-cup/index.html
+layout: layout.njk
 ---
 Epic Pasifika love poem published by CUP
 ========================================

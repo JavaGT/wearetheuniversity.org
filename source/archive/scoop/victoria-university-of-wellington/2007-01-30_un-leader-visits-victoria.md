@@ -1,9 +1,11 @@
 ---
 slug: un-leader-visits-victoria
-title: "UN leader visits Victoria"
-date: 2007-01-30
+title: UN leader visits Victoria
+date: 2007-01-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0701/S00033/un-leader-visits-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/01/30/un-leader-visits-victoria/index.html
+layout: layout.njk
 ---
 UN leader visits Victoria
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: breaking-the-habit-using-smart-phone-apps
-title: "Breaking the Habit Using Smart Phone Apps"
-date: 2015-08-05
-source-url: https://www.scoop.co.nz/stories/GE1508/S00020/breaking-the-habit-using-smart-phone-apps.htm
+title: Breaking the Habit Using Smart Phone Apps
+date: 2015-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1508/S00020/breaking-the-habit-using-smart-phone-apps.htm
 author: waikato-university
+permalink: /archive/2015/08/05/breaking-the-habit-using-smart-phone-apps/index.html
+layout: layout.njk
 ---
 Breaking the Habit Using Smart Phone Apps
 =========================================

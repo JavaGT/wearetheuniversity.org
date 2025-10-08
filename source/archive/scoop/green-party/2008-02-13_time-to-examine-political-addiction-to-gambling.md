@@ -1,9 +1,12 @@
 ---
 slug: time-to-examine-political-addiction-to-gambling
-title: "Time to examine political addiction to gambling"
-date: 2008-02-13
-source-url: https://www.scoop.co.nz/stories/PA0802/S00170/time-to-examine-political-addiction-to-gambling.htm
+title: Time to examine political addiction to gambling
+date: 2008-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00170/time-to-examine-political-addiction-to-gambling.htm
 author: green-party
+permalink: /archive/2008/02/13/time-to-examine-political-addiction-to-gambling/index.html
+layout: layout.njk
 ---
 Time to examine political addiction to gambling
 ===============================================

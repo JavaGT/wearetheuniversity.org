@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-wins-global-virtual-reality-award
-title: "UC expert wins global virtual reality award"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/ED1301/S00081/uc-expert-wins-global-virtual-reality-award.htm
+title: UC expert wins global virtual reality award
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00081/uc-expert-wins-global-virtual-reality-award.htm
 author: university-of-canterbury
+permalink: /archive/2013/01/25/uc-expert-wins-global-virtual-reality-award/index.html
+layout: layout.njk
 ---
 UC expert wins global virtual reality award
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: aut-students-go-global-with-their-voices-of-the-future-logo-design
-title: "AUT Students Go Global With Their Voices Of The Future Logo Design"
-date: 2021-10-26
-source-url: https://www.scoop.co.nz/stories/WO2110/S00256/aut-students-go-global-with-their-voices-of-the-future-logo-design.htm
+title: AUT Students Go Global With Their Voices Of The Future Logo Design
+date: 2021-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2110/S00256/aut-students-go-global-with-their-voices-of-the-future-logo-design.htm
 author: aut-university
+permalink: >-
+  /archive/2021/10/26/aut-students-go-global-with-their-voices-of-the-future-logo-design/index.html
+layout: layout.njk
 ---
 AUT Students Go Global With Their Voices Of The Future Logo Design
 ==================================================================

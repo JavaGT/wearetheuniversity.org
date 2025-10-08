@@ -1,9 +1,12 @@
 ---
 slug: the-key-to-a-more-prosperous-nz
-title: "The key to a more prosperous NZ"
-date: 2005-07-23
-source-url: https://www.scoop.co.nz/stories/PA0507/S00490/the-key-to-a-more-prosperous-nz.htm
+title: The key to a more prosperous NZ
+date: 2005-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00490/the-key-to-a-more-prosperous-nz.htm
 author: act-new-zealand
+permalink: /archive/2005/07/23/the-key-to-a-more-prosperous-nz/index.html
+layout: layout.njk
 ---
 The key to a more prosperous NZ
 ===============================

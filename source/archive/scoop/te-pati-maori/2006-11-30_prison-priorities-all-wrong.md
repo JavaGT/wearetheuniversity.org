@@ -1,9 +1,11 @@
 ---
 slug: prison-priorities-all-wrong
-title: "\"Prison Priorities All Wrong\":"
-date: 2006-11-30
+title: '"Prison Priorities All Wrong":'
+date: 2006-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0611/S00575/prison-priorities-all-wrong.htm
 author: te-pati-maori
+permalink: /archive/2006/11/30/prison-priorities-all-wrong/index.html
+layout: layout.njk
 ---
 "Prison Priorities All Wrong":
 ==============================

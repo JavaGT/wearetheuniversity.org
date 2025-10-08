@@ -1,9 +1,12 @@
 ---
 slug: make-the-polluters-pay-not-the-victims
-title: "Make the polluters pay - not the victims"
-date: 2004-10-29
-source-url: https://www.scoop.co.nz/stories/PA0410/S00508/make-the-polluters-pay-not-the-victims.htm
+title: Make the polluters pay - not the victims
+date: 2004-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00508/make-the-polluters-pay-not-the-victims.htm
 author: green-party
+permalink: /archive/2004/10/29/make-the-polluters-pay-not-the-victims/index.html
+layout: layout.njk
 ---
 Make the polluters pay - not the victims
 ========================================

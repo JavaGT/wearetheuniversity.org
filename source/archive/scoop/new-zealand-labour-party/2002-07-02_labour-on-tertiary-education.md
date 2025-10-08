@@ -1,9 +1,11 @@
 ---
 slug: labour-on-tertiary-education
-title: "Labour On Tertiary Education"
-date: 2002-07-02
+title: Labour On Tertiary Education
+date: 2002-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00054/labour-on-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/02/labour-on-tertiary-education/index.html
+layout: layout.njk
 ---
 Labour On Tertiary Education
 ============================

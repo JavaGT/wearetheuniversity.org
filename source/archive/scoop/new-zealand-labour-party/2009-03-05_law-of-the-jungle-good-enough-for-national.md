@@ -1,9 +1,12 @@
 ---
 slug: law-of-the-jungle-good-enough-for-national
-title: "Law of the jungle good enough for National"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/PA0903/S00074/law-of-the-jungle-good-enough-for-national.htm
+title: Law of the jungle good enough for National
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00074/law-of-the-jungle-good-enough-for-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/05/law-of-the-jungle-good-enough-for-national/index.html
+layout: layout.njk
 ---
 Law of the jungle good enough for National
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: biowaste-key-ingredient-for-growing-profits
-title: "Biowaste key ingredient for growing profits"
-date: 2015-06-05
-source-url: https://www.scoop.co.nz/stories/SC1506/S00029/biowaste-key-ingredient-for-growing-profits.htm
+title: Biowaste key ingredient for growing profits
+date: 2015-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00029/biowaste-key-ingredient-for-growing-profits.htm
 author: lincoln-university
+permalink: /archive/2015/06/05/biowaste-key-ingredient-for-growing-profits/index.html
+layout: layout.njk
 ---
 Biowaste key ingredient for growing profits
 ===========================================

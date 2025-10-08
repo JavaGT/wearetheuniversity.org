@@ -1,9 +1,13 @@
 ---
 slug: jones-decries-maori-party-condoning-body-snatching
-title: "Jones decries Maori Party condoning body snatching"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/PA0803/S00316/jones-decries-maori-party-condoning-body-snatching.htm
+title: Jones decries Maori Party condoning body snatching
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00316/jones-decries-maori-party-condoning-body-snatching.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2008/03/19/jones-decries-maori-party-condoning-body-snatching/index.html
+layout: layout.njk
 ---
 Jones decries Maori Party condoning body snatching
 ==================================================

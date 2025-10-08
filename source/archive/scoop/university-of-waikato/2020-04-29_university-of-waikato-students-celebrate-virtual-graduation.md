@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-students-celebrate-virtual-graduation
-title: "University Of Waikato Students Celebrate Virtual Graduation"
-date: 2020-04-29
-source-url: https://www.scoop.co.nz/stories/ED2004/S00063/university-of-waikato-students-celebrate-virtual-graduation.htm
+title: University Of Waikato Students Celebrate Virtual Graduation
+date: 2020-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00063/university-of-waikato-students-celebrate-virtual-graduation.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/04/29/university-of-waikato-students-celebrate-virtual-graduation/index.html
+layout: layout.njk
 ---
 University Of Waikato Students Celebrate Virtual Graduation
 ===========================================================

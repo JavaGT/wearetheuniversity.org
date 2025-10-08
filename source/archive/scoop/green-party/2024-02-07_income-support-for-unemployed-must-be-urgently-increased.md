@@ -1,9 +1,13 @@
 ---
 slug: income-support-for-unemployed-must-be-urgently-increased
-title: "Income Support For Unemployed Must Be Urgently Increased"
-date: 2024-02-07
-source-url: https://www.scoop.co.nz/stories/PA2402/S00017/income-support-for-unemployed-must-be-urgently-increased.htm
+title: Income Support For Unemployed Must Be Urgently Increased
+date: 2024-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2402/S00017/income-support-for-unemployed-must-be-urgently-increased.htm
 author: green-party
+permalink: >-
+  /archive/2024/02/07/income-support-for-unemployed-must-be-urgently-increased/index.html
+layout: layout.njk
 ---
 Income Support For Unemployed Must Be Urgently Increased
 ========================================================

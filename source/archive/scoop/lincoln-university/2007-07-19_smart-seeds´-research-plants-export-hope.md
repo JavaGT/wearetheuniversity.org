@@ -1,9 +1,12 @@
 ---
 slug: smart-seeds-research-plants-export-hope
-title: "`Smart seeds´ research plants export hope"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/SC0707/S00039/smart-seeds-research-plants-export-hope.htm
+title: '`Smart seeds´ research plants export hope'
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0707/S00039/smart-seeds-research-plants-export-hope.htm
 author: lincoln-university
+permalink: /archive/2007/07/19/smart-seeds-research-plants-export-hope/index.html
+layout: layout.njk
 ---
 \`Smart seeds´ research plants export hope
 ==========================================

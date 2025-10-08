@@ -1,9 +1,13 @@
 ---
 slug: strong-pacific-focus-for-postdoctoral-researcher
-title: "Strong Pacific Focus for Postdoctoral Researcher"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/ED1308/S00136/strong-pacific-focus-for-postdoctoral-researcher.htm
+title: Strong Pacific Focus for Postdoctoral Researcher
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00136/strong-pacific-focus-for-postdoctoral-researcher.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/08/27/strong-pacific-focus-for-postdoctoral-researcher/index.html
+layout: layout.njk
 ---
 Strong Pacific Focus for Postdoctoral Researcher
 ================================================

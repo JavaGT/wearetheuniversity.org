@@ -1,9 +1,12 @@
 ---
 slug: shotgun-wedding-for-property-bill
-title: "Shotgun Wedding For Property Bill"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/PA0006/S00029/shotgun-wedding-for-property-bill.htm
+title: Shotgun Wedding For Property Bill
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00029/shotgun-wedding-for-property-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/01/shotgun-wedding-for-property-bill/index.html
+layout: layout.njk
 ---
 Shotgun Wedding For Property Bill
 =================================

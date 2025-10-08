@@ -1,9 +1,13 @@
 ---
 slug: principal-survey-highlights-dire-impacts-of-teacher-shortage
-title: "Principal survey highlights dire impacts of teacher shortage"
-date: 2018-09-05
-source-url: https://www.scoop.co.nz/stories/ED1809/S00007/principal-survey-highlights-dire-impacts-of-teacher-shortage.htm
+title: Principal survey highlights dire impacts of teacher shortage
+date: 2018-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00007/principal-survey-highlights-dire-impacts-of-teacher-shortage.htm
 author: nzei
+permalink: >-
+  /archive/2018/09/05/principal-survey-highlights-dire-impacts-of-teacher-shortage/index.html
+layout: layout.njk
 ---
 Principal survey highlights dire impacts of teacher shortage
 ============================================================

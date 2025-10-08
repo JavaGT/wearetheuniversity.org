@@ -1,9 +1,12 @@
 ---
 slug: aut-degree-to-address-oral-health-disparities
-title: "AUT degree to address oral health disparities"
-date: 2006-02-27
-source-url: https://www.scoop.co.nz/stories/ED0602/S00077/aut-degree-to-address-oral-health-disparities.htm
+title: AUT degree to address oral health disparities
+date: 2006-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00077/aut-degree-to-address-oral-health-disparities.htm
 author: aut-university
+permalink: /archive/2006/02/27/aut-degree-to-address-oral-health-disparities/index.html
+layout: layout.njk
 ---
 AUT degree to address oral health disparities
 =============================================

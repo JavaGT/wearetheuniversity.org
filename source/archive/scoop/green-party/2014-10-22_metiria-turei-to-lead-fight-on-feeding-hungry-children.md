@@ -1,9 +1,13 @@
 ---
 slug: metiria-turei-to-lead-fight-on-feeding-hungry-children
-title: "Metiria Turei to lead fight on feeding hungry children"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/PA1410/S00125/metiria-turei-to-lead-fight-on-feeding-hungry-children.htm
+title: Metiria Turei to lead fight on feeding hungry children
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00125/metiria-turei-to-lead-fight-on-feeding-hungry-children.htm
 author: green-party
+permalink: >-
+  /archive/2014/10/22/metiria-turei-to-lead-fight-on-feeding-hungry-children/index.html
+layout: layout.njk
 ---
 Metiria Turei to lead fight on feeding hungry children
 ======================================================

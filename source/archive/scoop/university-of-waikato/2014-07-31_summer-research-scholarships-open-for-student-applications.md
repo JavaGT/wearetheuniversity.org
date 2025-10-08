@@ -1,9 +1,13 @@
 ---
 slug: summer-research-scholarships-open-for-student-applications
-title: "Summer Research Scholarships open for student applications"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/ED1407/S00159/summer-research-scholarships-open-for-student-applications.htm
+title: Summer Research Scholarships open for student applications
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00159/summer-research-scholarships-open-for-student-applications.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/31/summer-research-scholarships-open-for-student-applications/index.html
+layout: layout.njk
 ---
 Summer Research Scholarships open for student applications
 ==========================================================

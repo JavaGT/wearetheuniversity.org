@@ -1,9 +1,12 @@
 ---
 slug: new-forst-funding-a-`go-forward´-delivery
-title: "New FoRST funding a `go forward´ delivery"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/SC0707/S00040/new-forst-funding-a-go-forward-delivery.htm
+title: New FoRST funding a `go forward´ delivery
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0707/S00040/new-forst-funding-a-go-forward-delivery.htm
 author: lincoln-university
+permalink: /archive/2007/07/19/new-forst-funding-a-/index.html
+layout: layout.njk
 ---
 New FoRST funding a \`go forward´ delivery
 ==========================================

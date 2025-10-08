@@ -1,9 +1,13 @@
 ---
 slug: christchurch-reconstructed-owning-our-own-future
-title: "Christchurch Reconstructed: Owning Our Own Future"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/PA1104/S00500/christchurch-reconstructed-owning-our-own-future.htm
+title: 'Christchurch Reconstructed: Owning Our Own Future'
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00500/christchurch-reconstructed-owning-our-own-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/27/christchurch-reconstructed-owning-our-own-future/index.html
+layout: layout.njk
 ---
 Christchurch Reconstructed: Owning Our Own Future
 =================================================

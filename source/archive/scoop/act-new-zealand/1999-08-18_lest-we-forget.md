@@ -1,9 +1,11 @@
 ---
 slug: lest-we-forget
-title: "Lest We Forget"
-date: 1999-08-18
+title: Lest We Forget
+date: 1999-08-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9908/S00296/lest-we-forget.htm
 author: act-new-zealand
+permalink: /archive/1999/08/18/lest-we-forget/index.html
+layout: layout.njk
 ---
 Lest We Forget
 ==============

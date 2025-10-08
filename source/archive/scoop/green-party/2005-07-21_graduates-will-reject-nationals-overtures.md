@@ -1,9 +1,12 @@
 ---
 slug: graduates-will-reject-nationals-overtures
-title: "Graduates will reject National's overtures"
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/PA0507/S00443/graduates-will-reject-nationals-overtures.htm
+title: Graduates will reject National's overtures
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00443/graduates-will-reject-nationals-overtures.htm
 author: green-party
+permalink: /archive/2005/07/21/graduates-will-reject-nationals-overtures/index.html
+layout: layout.njk
 ---
 Graduates will reject National's overtures
 ==========================================

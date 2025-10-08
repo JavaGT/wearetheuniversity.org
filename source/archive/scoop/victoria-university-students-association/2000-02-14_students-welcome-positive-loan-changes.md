@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-positive-loan-changes
-title: "Students Welcome Positive Loan Changes"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/ED0002/S00015/students-welcome-positive-loan-changes.htm
+title: Students Welcome Positive Loan Changes
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00015/students-welcome-positive-loan-changes.htm
 author: victoria-university-students-association
+permalink: /archive/2000/02/14/students-welcome-positive-loan-changes/index.html
+layout: layout.njk
 ---
 Students Welcome Positive Loan Changes
 ======================================

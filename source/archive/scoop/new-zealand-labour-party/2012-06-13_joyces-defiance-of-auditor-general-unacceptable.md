@@ -1,9 +1,12 @@
 ---
 slug: joyces-defiance-of-auditor-general-unacceptable
-title: "Joyce’s defiance of Auditor-General unacceptable"
-date: 2012-06-13
-source-url: https://www.scoop.co.nz/stories/PA1206/S00172/joyces-defiance-of-auditor-general-unacceptable.htm
+title: Joyce’s defiance of Auditor-General unacceptable
+date: 2012-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00172/joyces-defiance-of-auditor-general-unacceptable.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/13/joyces-defiance-of-auditor-general-unacceptable/index.html
+layout: layout.njk
 ---
 Joyce’s defiance of Auditor-General unacceptable
 ================================================

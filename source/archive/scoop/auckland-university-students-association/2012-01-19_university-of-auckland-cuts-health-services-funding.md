@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-cuts-health-services-funding
-title: "University of Auckland cuts Health Services funding"
-date: 2012-01-19
-source-url: https://www.scoop.co.nz/stories/ED1201/S00030/university-of-auckland-cuts-health-services-funding.htm
+title: University of Auckland cuts Health Services funding
+date: 2012-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00030/university-of-auckland-cuts-health-services-funding.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2012/01/19/university-of-auckland-cuts-health-services-funding/index.html
+layout: layout.njk
 ---
 University of Auckland cuts Health Services funding
 ===================================================

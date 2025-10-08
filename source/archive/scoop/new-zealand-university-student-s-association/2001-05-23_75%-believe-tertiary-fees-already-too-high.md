@@ -1,9 +1,12 @@
 ---
 slug: 75%-believe-tertiary-fees-already-too-high
-title: "75% Believe Tertiary Fees Already Too High"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/ED0105/S00044/75-believe-tertiary-fees-already-too-high.htm
+title: 75% Believe Tertiary Fees Already Too High
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00044/75-believe-tertiary-fees-already-too-high.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/23/75/index.html
+layout: layout.njk
 ---
 75% Believe Tertiary Fees Already Too High
 ==========================================

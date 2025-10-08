@@ -1,9 +1,13 @@
 ---
 slug: personal-characteristics-crucial-to-paying-back-farm-debt
-title: "Personal characteristics crucial to paying back farm debt"
-date: 2019-11-05
-source-url: https://www.scoop.co.nz/stories/BU1911/S00088/personal-characteristics-crucial-to-paying-back-farm-debt.htm
+title: Personal characteristics crucial to paying back farm debt
+date: 2019-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1911/S00088/personal-characteristics-crucial-to-paying-back-farm-debt.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/11/05/personal-characteristics-crucial-to-paying-back-farm-debt/index.html
+layout: layout.njk
 ---
 Personal characteristics crucial to paying back farm debt
 =========================================================

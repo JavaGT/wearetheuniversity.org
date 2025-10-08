@@ -1,9 +1,12 @@
 ---
 slug: do-you-take-your-tea-with-human-rights
-title: "Do you take your tea with human rights?"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/PA0505/S00644/do-you-take-your-tea-with-human-rights.htm
+title: Do you take your tea with human rights?
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00644/do-you-take-your-tea-with-human-rights.htm
 author: green-party
+permalink: /archive/2005/05/25/do-you-take-your-tea-with-human-rights/index.html
+layout: layout.njk
 ---
 Do you take your tea with human rights?
 =======================================

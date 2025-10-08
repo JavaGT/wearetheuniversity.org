@@ -1,9 +1,12 @@
 ---
 slug: prevention-and-cure-for-youth-offending
-title: "Prevention and cure for Youth Offending"
-date: 1999-08-13
-source-url: https://www.scoop.co.nz/stories/PA9908/S00239/prevention-and-cure-for-youth-offending.htm
+title: Prevention and cure for Youth Offending
+date: 1999-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00239/prevention-and-cure-for-youth-offending.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/13/prevention-and-cure-for-youth-offending/index.html
+layout: layout.njk
 ---
 Prevention and cure for Youth Offending
 =======================================

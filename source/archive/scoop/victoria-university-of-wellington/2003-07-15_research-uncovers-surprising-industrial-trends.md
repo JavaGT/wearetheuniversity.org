@@ -1,9 +1,12 @@
 ---
 slug: research-uncovers-surprising-industrial-trends
-title: "Research uncovers surprising industrial trends"
-date: 2003-07-15
-source-url: https://www.scoop.co.nz/stories/ED0307/S00041/research-uncovers-surprising-industrial-trends.htm
+title: Research uncovers surprising industrial trends
+date: 2003-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00041/research-uncovers-surprising-industrial-trends.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/15/research-uncovers-surprising-industrial-trends/index.html
+layout: layout.njk
 ---
 Research uncovers surprising industrial trends
 ==============================================

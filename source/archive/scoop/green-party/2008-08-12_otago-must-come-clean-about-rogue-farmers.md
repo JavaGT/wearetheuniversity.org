@@ -1,9 +1,12 @@
 ---
 slug: otago-must-come-clean-about-rogue-farmers
-title: "Otago must come clean about rogue farmers"
-date: 2008-08-12
-source-url: https://www.scoop.co.nz/stories/PA0808/S00197/otago-must-come-clean-about-rogue-farmers.htm
+title: Otago must come clean about rogue farmers
+date: 2008-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00197/otago-must-come-clean-about-rogue-farmers.htm
 author: green-party
+permalink: /archive/2008/08/12/otago-must-come-clean-about-rogue-farmers/index.html
+layout: layout.njk
 ---
 Otago must come clean about rogue farmers
 =========================================

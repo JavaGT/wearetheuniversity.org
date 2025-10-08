@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-walk-the-talk-on-climate-deal
-title: "Govt needs to walk the talk on climate deal"
-date: 2016-08-17
-source-url: https://www.scoop.co.nz/stories/PA1608/S00303/govt-needs-to-walk-the-talk-on-climate-deal.htm
+title: Govt needs to walk the talk on climate deal
+date: 2016-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00303/govt-needs-to-walk-the-talk-on-climate-deal.htm
 author: green-party
+permalink: /archive/2016/08/17/govt-needs-to-walk-the-talk-on-climate-deal/index.html
+layout: layout.njk
 ---
 Govt needs to walk the talk on climate deal
 ===========================================

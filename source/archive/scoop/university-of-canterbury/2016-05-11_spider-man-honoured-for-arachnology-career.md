@@ -1,9 +1,12 @@
 ---
 slug: spider-man-honoured-for-arachnology-career
-title: "‘Spider man’ honoured for arachnology career"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/SC1605/S00021/spider-man-honoured-for-arachnology-career.htm
+title: ‘Spider man’ honoured for arachnology career
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00021/spider-man-honoured-for-arachnology-career.htm
 author: university-of-canterbury
+permalink: /archive/2016/05/11/spider-man-honoured-for-arachnology-career/index.html
+layout: layout.njk
 ---
 ‘Spider man’ honoured for arachnology career
 ============================================

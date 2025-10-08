@@ -1,9 +1,12 @@
 ---
 slug: variety-on-offer-during-kīngitanga-day
-title: "Variety on offer during Kīngitanga Day"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/ED1308/S00123/variety-on-offer-during-kingitanga-day.htm
+title: Variety on offer during Kīngitanga Day
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00123/variety-on-offer-during-kingitanga-day.htm
 author: university-of-waikato
+permalink: /archive/2013/08/26/variety-on-offer-during-k/index.html
+layout: layout.njk
 ---
 Variety on offer during Kīngitanga Day
 ======================================

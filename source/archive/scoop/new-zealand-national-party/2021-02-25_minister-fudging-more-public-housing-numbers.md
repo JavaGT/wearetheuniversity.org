@@ -1,9 +1,12 @@
 ---
 slug: minister-fudging-more-public-housing-numbers
-title: "Minister Fudging More Public Housing Numbers"
-date: 2021-02-25
-source-url: https://www.scoop.co.nz/stories/PA2102/S00155/minister-fudging-more-public-housing-numbers.htm
+title: Minister Fudging More Public Housing Numbers
+date: 2021-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00155/minister-fudging-more-public-housing-numbers.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/25/minister-fudging-more-public-housing-numbers/index.html
+layout: layout.njk
 ---
 Minister Fudging More Public Housing Numbers
 ============================================

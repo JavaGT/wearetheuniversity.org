@@ -1,9 +1,13 @@
 ---
 slug: rights-and-powers-over-workplace-must-be-reined-in
-title: "Rights and powers over workplace must be reined in"
-date: 2000-08-10
-source-url: https://www.scoop.co.nz/stories/PA0008/S00180/rights-and-powers-over-workplace-must-be-reined-in.htm
+title: Rights and powers over workplace must be reined in
+date: 2000-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00180/rights-and-powers-over-workplace-must-be-reined-in.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/08/10/rights-and-powers-over-workplace-must-be-reined-in/index.html
+layout: layout.njk
 ---
 Rights and powers over workplace must be reined in
 ==================================================

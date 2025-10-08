@@ -1,9 +1,12 @@
 ---
 slug: mountaineering-feats-relived-in-autobiography
-title: "Mountaineering feats relived in autobiography"
-date: 2006-12-12
-source-url: https://www.scoop.co.nz/stories/ED0612/S00034/mountaineering-feats-relived-in-autobiography.htm
+title: Mountaineering feats relived in autobiography
+date: 2006-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00034/mountaineering-feats-relived-in-autobiography.htm
 author: university-of-canterbury
+permalink: /archive/2006/12/12/mountaineering-feats-relived-in-autobiography/index.html
+layout: layout.njk
 ---
 Mountaineering feats relived in autobiography
 =============================================

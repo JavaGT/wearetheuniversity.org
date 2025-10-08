@@ -1,9 +1,12 @@
 ---
 slug: dont-use-shonky-process-at-mt-eden-prison
-title: "Don’t use shonky process at Mt Eden Prison"
-date: 2007-06-15
-source-url: https://www.scoop.co.nz/stories/PA0706/S00302/dont-use-shonky-process-at-mt-eden-prison.htm
+title: Don’t use shonky process at Mt Eden Prison
+date: 2007-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00302/dont-use-shonky-process-at-mt-eden-prison.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/15/dont-use-shonky-process-at-mt-eden-prison/index.html
+layout: layout.njk
 ---
 Don’t use shonky process at Mt Eden Prison
 ==========================================

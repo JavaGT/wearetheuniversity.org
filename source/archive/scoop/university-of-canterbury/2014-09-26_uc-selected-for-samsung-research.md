@@ -1,9 +1,12 @@
 ---
 slug: uc-selected-for-samsung-research
-title: "UC selected for Samsung research"
-date: 2014-09-26
-source-url: https://www.scoop.co.nz/stories/ED1409/S00156/uc-selected-for-samsung-research.htm
+title: UC selected for Samsung research
+date: 2014-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00156/uc-selected-for-samsung-research.htm
 author: university-of-canterbury
+permalink: /archive/2014/09/26/uc-selected-for-samsung-research/index.html
+layout: layout.njk
 ---
 UC selected for Samsung research
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: what-are-the-preferred-options-for-cannabis-law-reform
-title: "What are the preferred options for cannabis law reform?"
-date: 2018-10-23
-source-url: https://www.scoop.co.nz/stories/PO1810/S00314/what-are-the-preferred-options-for-cannabis-law-reform.htm
+title: What are the preferred options for cannabis law reform?
+date: 2018-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00314/what-are-the-preferred-options-for-cannabis-law-reform.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/23/what-are-the-preferred-options-for-cannabis-law-reform/index.html
+layout: layout.njk
 ---
 What are the preferred options for cannabis law reform?
 =======================================================

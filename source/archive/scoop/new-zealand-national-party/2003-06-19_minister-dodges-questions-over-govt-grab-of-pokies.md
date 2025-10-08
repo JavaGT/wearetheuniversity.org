@@ -1,9 +1,13 @@
 ---
 slug: minister-dodges-questions-over-govt-grab-of-pokies
-title: "Minister dodges questions over Govt grab of pokies"
-date: 2003-06-19
-source-url: https://www.scoop.co.nz/stories/PA0306/S00363/minister-dodges-questions-over-govt-grab-of-pokies.htm
+title: Minister dodges questions over Govt grab of pokies
+date: 2003-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00363/minister-dodges-questions-over-govt-grab-of-pokies.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/06/19/minister-dodges-questions-over-govt-grab-of-pokies/index.html
+layout: layout.njk
 ---
 Minister dodges questions over Govt grab of pokies
 ==================================================

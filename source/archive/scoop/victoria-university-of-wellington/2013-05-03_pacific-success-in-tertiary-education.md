@@ -1,9 +1,12 @@
 ---
 slug: pacific-success-in-tertiary-education
-title: "Pacific success in tertiary education"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/ED1305/S00021/pacific-success-in-tertiary-education.htm
+title: Pacific success in tertiary education
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00021/pacific-success-in-tertiary-education.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/03/pacific-success-in-tertiary-education/index.html
+layout: layout.njk
 ---
 Pacific success in tertiary education
 =====================================

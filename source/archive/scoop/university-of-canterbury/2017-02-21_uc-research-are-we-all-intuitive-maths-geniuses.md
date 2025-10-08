@@ -1,9 +1,12 @@
 ---
 slug: uc-research-are-we-all-intuitive-maths-geniuses
-title: "UC research: Are we all intuitive maths geniuses?"
-date: 2017-02-21
-source-url: https://www.scoop.co.nz/stories/ED1702/S00060/uc-research-are-we-all-intuitive-maths-geniuses.htm
+title: 'UC research: Are we all intuitive maths geniuses?'
+date: 2017-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00060/uc-research-are-we-all-intuitive-maths-geniuses.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/21/uc-research-are-we-all-intuitive-maths-geniuses/index.html
+layout: layout.njk
 ---
 UC research: Are we all intuitive maths geniuses?
 =================================================

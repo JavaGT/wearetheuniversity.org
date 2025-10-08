@@ -1,9 +1,13 @@
 ---
 slug: opinion-pms-baby-news-sends-message-on-gender-equality
-title: "Opinion: PM's baby news sends message on gender equality"
-date: 2018-01-19
-source-url: https://www.scoop.co.nz/stories/PO1801/S00065/opinion-pms-baby-news-sends-message-on-gender-equality.htm
+title: 'Opinion: PM''s baby news sends message on gender equality'
+date: 2018-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1801/S00065/opinion-pms-baby-news-sends-message-on-gender-equality.htm
 author: massey-university
+permalink: >-
+  /archive/2018/01/19/opinion-pms-baby-news-sends-message-on-gender-equality/index.html
+layout: layout.njk
 ---
 Opinion: PM's baby news sends message on gender equality
 ========================================================

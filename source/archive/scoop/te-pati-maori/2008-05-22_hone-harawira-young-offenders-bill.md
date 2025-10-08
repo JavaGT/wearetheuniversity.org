@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-young-offenders-bill
-title: "Hone Harawira: Young Offenders Bill"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PA0805/S00396/hone-harawira-young-offenders-bill.htm
+title: 'Hone Harawira: Young Offenders Bill'
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00396/hone-harawira-young-offenders-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/05/22/hone-harawira-young-offenders-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Young Offenders Bill
 ===================================

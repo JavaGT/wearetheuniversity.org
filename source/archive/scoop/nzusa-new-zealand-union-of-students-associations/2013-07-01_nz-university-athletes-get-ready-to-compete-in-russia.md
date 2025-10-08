@@ -1,9 +1,13 @@
 ---
 slug: nz-university-athletes-get-ready-to-compete-in-russia
-title: "NZ university athletes get ready to compete in Russia"
-date: 2013-07-01
-source-url: https://www.scoop.co.nz/stories/CU1307/S00030/nz-university-athletes-get-ready-to-compete-in-russia.htm
+title: NZ university athletes get ready to compete in Russia
+date: 2013-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00030/nz-university-athletes-get-ready-to-compete-in-russia.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/07/01/nz-university-athletes-get-ready-to-compete-in-russia/index.html
+layout: layout.njk
 ---
 NZ university athletes get ready to compete in Russia
 =====================================================

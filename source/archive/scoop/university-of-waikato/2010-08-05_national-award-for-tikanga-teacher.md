@@ -1,9 +1,12 @@
 ---
 slug: national-award-for-tikanga-teacher
-title: "National award for tikanga teacher"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00025/national-award-for-tikanga-teacher.htm
+title: National award for tikanga teacher
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00025/national-award-for-tikanga-teacher.htm
 author: university-of-waikato
+permalink: /archive/2010/08/05/national-award-for-tikanga-teacher/index.html
+layout: layout.njk
 ---
 National award for tikanga teacher
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: national-will-give-mt-vic-tunnel-the-green-light-in-2023
-title: "National will give Mt Vic Tunnel the green light in 2023"
-date: 2020-08-05
-source-url: https://www.scoop.co.nz/stories/PA2008/S00030/national-will-give-mt-vic-tunnel-the-green-light-in-2023.htm
+title: National will give Mt Vic Tunnel the green light in 2023
+date: 2020-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00030/national-will-give-mt-vic-tunnel-the-green-light-in-2023.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/05/national-will-give-mt-vic-tunnel-the-green-light-in-2023/index.html
+layout: layout.njk
 ---
 National will give Mt Vic Tunnel the green light in 2023
 ========================================================

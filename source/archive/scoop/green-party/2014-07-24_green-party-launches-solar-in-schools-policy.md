@@ -1,9 +1,12 @@
 ---
 slug: green-party-launches-solar-in-schools-policy
-title: "Green Party launches Solar in Schools policy"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/PA1407/S00459/green-party-launches-solar-in-schools-policy.htm
+title: Green Party launches Solar in Schools policy
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00459/green-party-launches-solar-in-schools-policy.htm
 author: green-party
+permalink: /archive/2014/07/24/green-party-launches-solar-in-schools-policy/index.html
+layout: layout.njk
 ---
 Green Party launches Solar in Schools policy
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-shocked-by-the-death-of-matiu-dickson
-title: "Māori Party shocked by the death of Matiu Dickson"
-date: 2016-04-08
-source-url: https://www.scoop.co.nz/stories/PA1604/S00130/maori-party-shocked-by-the-death-of-matiu-dickson.htm
+title: Māori Party shocked by the death of Matiu Dickson
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00130/maori-party-shocked-by-the-death-of-matiu-dickson.htm
 author: te-pati-maori
+permalink: /archive/2016/04/08/m/index.html
+layout: layout.njk
 ---
 Māori Party shocked by the death of Matiu Dickson
 =================================================

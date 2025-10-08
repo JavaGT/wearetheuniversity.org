@@ -1,9 +1,12 @@
 ---
 slug: report-must-be-final-wakeup-call-on-poverty
-title: "Report must be final wakeup call on poverty"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PA1412/S00020/report-must-be-final-wakeup-call-on-poverty.htm
+title: Report must be final wakeup call on poverty
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00020/report-must-be-final-wakeup-call-on-poverty.htm
 author: green-party
+permalink: /archive/2014/12/02/report-must-be-final-wakeup-call-on-poverty/index.html
+layout: layout.njk
 ---
 Report must be final wakeup call on poverty
 ===========================================

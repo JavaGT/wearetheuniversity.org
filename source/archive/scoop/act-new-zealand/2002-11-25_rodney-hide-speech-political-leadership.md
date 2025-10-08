@@ -1,9 +1,12 @@
 ---
 slug: rodney-hide-speech-political-leadership
-title: "Rodney Hide Speech: Political Leadership"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00553/rodney-hide-speech-political-leadership.htm
+title: 'Rodney Hide Speech: Political Leadership'
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00553/rodney-hide-speech-political-leadership.htm
 author: act-new-zealand
+permalink: /archive/2002/11/25/rodney-hide-speech-political-leadership/index.html
+layout: layout.njk
 ---
 Rodney Hide Speech: Political Leadership
 ========================================

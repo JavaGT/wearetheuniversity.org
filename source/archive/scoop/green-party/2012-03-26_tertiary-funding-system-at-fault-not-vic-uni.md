@@ -1,9 +1,12 @@
 ---
 slug: tertiary-funding-system-at-fault-not-vic-uni
-title: "Tertiary funding system at fault, not Vic Uni"
-date: 2012-03-26
-source-url: https://www.scoop.co.nz/stories/PA1203/S00336/tertiary-funding-system-at-fault-not-vic-uni.htm
+title: Tertiary funding system at fault, not Vic Uni
+date: 2012-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00336/tertiary-funding-system-at-fault-not-vic-uni.htm
 author: green-party
+permalink: /archive/2012/03/26/tertiary-funding-system-at-fault-not-vic-uni/index.html
+layout: layout.njk
 ---
 Tertiary funding system at fault, not Vic Uni
 =============================================

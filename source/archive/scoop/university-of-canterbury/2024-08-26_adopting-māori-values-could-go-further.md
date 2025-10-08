@@ -1,9 +1,12 @@
 ---
 slug: adopting-māori-values-could-go-further
-title: "Adopting Māori Values Could Go Further"
-date: 2024-08-26
-source-url: https://www.scoop.co.nz/stories/ED2408/S00054/adopting-maori-values-could-go-further.htm
+title: Adopting Māori Values Could Go Further
+date: 2024-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00054/adopting-maori-values-could-go-further.htm
 author: university-of-canterbury
+permalink: /archive/2024/08/26/adopting-m/index.html
+layout: layout.njk
 ---
 Adopting Māori Values Could Go Further
 ======================================

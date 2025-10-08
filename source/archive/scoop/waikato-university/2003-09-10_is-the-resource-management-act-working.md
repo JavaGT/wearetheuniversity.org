@@ -1,9 +1,12 @@
 ---
 slug: is-the-resource-management-act-working
-title: "Is The Resource Management Act Working?"
-date: 2003-09-10
-source-url: https://www.scoop.co.nz/stories/ED0309/S00033/is-the-resource-management-act-working.htm
+title: Is The Resource Management Act Working?
+date: 2003-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00033/is-the-resource-management-act-working.htm
 author: waikato-university
+permalink: /archive/2003/09/10/is-the-resource-management-act-working/index.html
+layout: layout.njk
 ---
 Is The Resource Management Act Working?
 =======================================

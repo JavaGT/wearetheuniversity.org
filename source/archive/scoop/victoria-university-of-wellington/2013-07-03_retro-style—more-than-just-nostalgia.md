@@ -1,9 +1,12 @@
 ---
 slug: retro-style—more-than-just-nostalgia
-title: "Retro style—more than just nostalgia"
-date: 2013-07-03
-source-url: https://www.scoop.co.nz/stories/CU1307/S00067/retro-style-more-than-just-nostalgia.htm
+title: Retro style—more than just nostalgia
+date: 2013-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00067/retro-style-more-than-just-nostalgia.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/03/retro-style/index.html
+layout: layout.njk
 ---
 Retro style—more than just nostalgia
 ====================================

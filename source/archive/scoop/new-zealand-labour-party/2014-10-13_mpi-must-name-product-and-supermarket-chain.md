@@ -1,9 +1,12 @@
 ---
 slug: mpi-must-name-product-and-supermarket-chain
-title: "MPI must name product and supermarket chain"
-date: 2014-10-13
-source-url: https://www.scoop.co.nz/stories/PA1410/S00062/mpi-must-name-product-and-supermarket-chain.htm
+title: MPI must name product and supermarket chain
+date: 2014-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00062/mpi-must-name-product-and-supermarket-chain.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/13/mpi-must-name-product-and-supermarket-chain/index.html
+layout: layout.njk
 ---
 MPI must name product and supermarket chain
 ===========================================

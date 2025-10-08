@@ -1,9 +1,12 @@
 ---
 slug: facial-scrubs-threaten-health-and-environment
-title: "Facial scrubs threaten health and environment"
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/SC1507/S00055/facial-scrubs-threaten-health-and-environment.htm
+title: Facial scrubs threaten health and environment
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00055/facial-scrubs-threaten-health-and-environment.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/20/facial-scrubs-threaten-health-and-environment/index.html
+layout: layout.njk
 ---
 Facial scrubs threaten health and environment
 =============================================

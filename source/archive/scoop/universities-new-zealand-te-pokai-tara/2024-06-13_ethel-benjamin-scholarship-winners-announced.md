@@ -1,9 +1,12 @@
 ---
 slug: ethel-benjamin-scholarship-winners-announced
-title: "Ethel Benjamin Scholarship Winners Announced"
-date: 2024-06-13
-source-url: https://www.scoop.co.nz/stories/ED2406/S00024/ethel-benjamin-scholarship-winners-announced.htm
+title: Ethel Benjamin Scholarship Winners Announced
+date: 2024-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2406/S00024/ethel-benjamin-scholarship-winners-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2024/06/13/ethel-benjamin-scholarship-winners-announced/index.html
+layout: layout.njk
 ---
 Ethel Benjamin Scholarship Winners Announced
 ============================================

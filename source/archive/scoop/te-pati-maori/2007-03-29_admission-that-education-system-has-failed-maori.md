@@ -1,9 +1,13 @@
 ---
 slug: admission-that-education-system-has-failed-maori
-title: "Admission that Education System has failed Maori"
-date: 2007-03-29
-source-url: https://www.scoop.co.nz/stories/PA0703/S00611/admission-that-education-system-has-failed-maori.htm
+title: Admission that Education System has failed Maori
+date: 2007-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00611/admission-that-education-system-has-failed-maori.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/03/29/admission-that-education-system-has-failed-maori/index.html
+layout: layout.njk
 ---
 Admission that Education System has failed Maori
 ================================================

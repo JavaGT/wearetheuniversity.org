@@ -1,9 +1,12 @@
 ---
 slug: bickering-wont-speed-up-canterburys-consents
-title: "Bickering won’t speed up Canterbury’s consents"
-date: 2013-06-13
-source-url: https://www.scoop.co.nz/stories/PA1306/S00223/bickering-wont-speed-up-canterburys-consents.htm
+title: Bickering won’t speed up Canterbury’s consents
+date: 2013-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00223/bickering-wont-speed-up-canterburys-consents.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/13/bickering-wont-speed-up-canterburys-consents/index.html
+layout: layout.njk
 ---
 Bickering won’t speed up Canterbury’s consents
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: huge-opportunities-in-tertiary-partnership-school-sponsorship
-title: "Huge opportunities in tertiary Partnership School sponsorship"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/PA1511/S00522/huge-opportunities-in-tertiary-partnership-school-sponsorship.htm
+title: Huge opportunities in tertiary Partnership School sponsorship
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00522/huge-opportunities-in-tertiary-partnership-school-sponsorship.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2015/11/27/huge-opportunities-in-tertiary-partnership-school-sponsorship/index.html
+layout: layout.njk
 ---
 Huge opportunities in tertiary Partnership School sponsorship
 =============================================================

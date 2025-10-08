@@ -1,9 +1,13 @@
 ---
 slug: tesearch-into-rena-impact-critical-to-environmental-recovery
-title: "Tesearch into Rena impact critical to environmental recovery"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/SC1111/S00046/tesearch-into-rena-impact-critical-to-environmental-recovery.htm
+title: Tesearch into Rena impact critical to environmental recovery
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00046/tesearch-into-rena-impact-critical-to-environmental-recovery.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/22/tesearch-into-rena-impact-critical-to-environmental-recovery/index.html
+layout: layout.njk
 ---
 Tesearch into Rena impact critical to environmental recovery
 ============================================================

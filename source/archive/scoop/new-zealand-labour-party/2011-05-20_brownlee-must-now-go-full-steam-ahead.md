@@ -1,9 +1,12 @@
 ---
 slug: brownlee-must-now-go-full-steam-ahead
-title: "Brownlee must now go full steam ahead"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/PA1105/S00474/brownlee-must-now-go-full-steam-ahead.htm
+title: Brownlee must now go full steam ahead
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00474/brownlee-must-now-go-full-steam-ahead.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/20/brownlee-must-now-go-full-steam-ahead/index.html
+layout: layout.njk
 ---
 Brownlee must now go full steam ahead
 =====================================

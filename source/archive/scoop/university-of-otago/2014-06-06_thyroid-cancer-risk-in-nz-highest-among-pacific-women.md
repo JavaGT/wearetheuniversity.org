@@ -1,9 +1,13 @@
 ---
 slug: thyroid-cancer-risk-in-nz-highest-among-pacific-women
-title: "Thyroid cancer risk in NZ highest among Pacific women"
-date: 2014-06-06
-source-url: https://www.scoop.co.nz/stories/GE1406/S00021/thyroid-cancer-risk-in-nz-highest-among-pacific-women.htm
+title: Thyroid cancer risk in NZ highest among Pacific women
+date: 2014-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00021/thyroid-cancer-risk-in-nz-highest-among-pacific-women.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/06/thyroid-cancer-risk-in-nz-highest-among-pacific-women/index.html
+layout: layout.njk
 ---
 Thyroid cancer risk in NZ highest among Pacific women
 =====================================================

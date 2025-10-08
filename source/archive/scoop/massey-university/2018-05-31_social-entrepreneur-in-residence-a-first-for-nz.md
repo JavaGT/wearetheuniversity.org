@@ -1,9 +1,12 @@
 ---
 slug: social-entrepreneur-in-residence-a-first-for-nz
-title: "Social Entrepreneur-in-residence – a first for NZ"
-date: 2018-05-31
-source-url: https://www.scoop.co.nz/stories/PO1805/S00509/social-entrepreneur-in-residence-a-first-for-nz.htm
+title: Social Entrepreneur-in-residence – a first for NZ
+date: 2018-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00509/social-entrepreneur-in-residence-a-first-for-nz.htm
 author: massey-university
+permalink: /archive/2018/05/31/social-entrepreneur-in-residence-a-first-for-nz/index.html
+layout: layout.njk
 ---
 Social Entrepreneur-in-residence – a first for NZ
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: confidentiality-of-academic-staff-information-essential
-title: "Confidentiality of academic staff information essential"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/ED1211/S00218/confidentiality-of-academic-staff-information-essential.htm
+title: Confidentiality of academic staff information essential
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00218/confidentiality-of-academic-staff-information-essential.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/11/29/confidentiality-of-academic-staff-information-essential/index.html
+layout: layout.njk
 ---
 Confidentiality of academic staff information essential
 =======================================================

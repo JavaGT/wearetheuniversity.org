@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-hearing-association
-title: "Speech: Turia - Hearing Association"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/PA1105/S00501/speech-turia-hearing-association.htm
+title: 'Speech: Turia - Hearing Association'
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00501/speech-turia-hearing-association.htm
 author: te-pati-maori
+permalink: /archive/2011/05/20/speech-turia-hearing-association/index.html
+layout: layout.njk
 ---
 Speech: Turia - Hearing Association
 ===================================

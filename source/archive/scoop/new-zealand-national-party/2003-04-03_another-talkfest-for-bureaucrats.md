@@ -1,9 +1,12 @@
 ---
 slug: another-talkfest-for-bureaucrats
-title: "Another talkfest for bureaucrats"
-date: 2003-04-03
-source-url: https://www.scoop.co.nz/stories/PA0304/S00073/another-talkfest-for-bureaucrats.htm
+title: Another talkfest for bureaucrats
+date: 2003-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00073/another-talkfest-for-bureaucrats.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/03/another-talkfest-for-bureaucrats/index.html
+layout: layout.njk
 ---
 Another talkfest for bureaucrats
 ================================

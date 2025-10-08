@@ -1,9 +1,13 @@
 ---
 slug: nz-brain-drainers-returning-home-more-quickly-uc-researcher
-title: "NZ brain drainers returning home more quickly, UC researcher"
-date: 2013-04-01
-source-url: https://www.scoop.co.nz/stories/PO1304/S00004/nz-brain-drainers-returning-home-more-quickly-uc-researcher.htm
+title: NZ brain drainers returning home more quickly, UC researcher
+date: 2013-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00004/nz-brain-drainers-returning-home-more-quickly-uc-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/01/nz-brain-drainers-returning-home-more-quickly-uc-researcher/index.html
+layout: layout.njk
 ---
 NZ brain drainers returning home more quickly, UC researcher
 ============================================================

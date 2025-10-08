@@ -1,9 +1,12 @@
 ---
 slug: a-simple-question-for-cabinets-weakest-link
-title: "A Simple Question for Cabinet's \"Weakest Link\""
-date: 2001-08-20
-source-url: https://www.scoop.co.nz/stories/PA0108/S00384/a-simple-question-for-cabinets-weakest-link.htm
+title: A Simple Question for Cabinet's "Weakest Link"
+date: 2001-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00384/a-simple-question-for-cabinets-weakest-link.htm
 author: act-new-zealand
+permalink: /archive/2001/08/20/a-simple-question-for-cabinets-weakest-link/index.html
+layout: layout.njk
 ---
 A Simple Question for Cabinet's \"Weakest Link"
 ==============================================

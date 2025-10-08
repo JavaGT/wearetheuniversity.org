@@ -1,9 +1,11 @@
 ---
 slug: greens-send-howard-a-message
-title: "Greens send Howard a message"
-date: 2003-03-10
+title: Greens send Howard a message
+date: 2003-03-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0303/S00148/greens-send-howard-a-message.htm
 author: green-party
+permalink: /archive/2003/03/10/greens-send-howard-a-message/index.html
+layout: layout.njk
 ---
 Greens send Howard a message
 ============================

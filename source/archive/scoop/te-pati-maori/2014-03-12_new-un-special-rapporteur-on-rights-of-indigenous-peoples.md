@@ -1,9 +1,13 @@
 ---
 slug: new-un-special-rapporteur-on-rights-of-indigenous-peoples
-title: "New UN Special Rapporteur on rights of indigenous peoples"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/PA1403/S00204/new-un-special-rapporteur-on-rights-of-indigenous-peoples.htm
+title: New UN Special Rapporteur on rights of indigenous peoples
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00204/new-un-special-rapporteur-on-rights-of-indigenous-peoples.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/03/12/new-un-special-rapporteur-on-rights-of-indigenous-peoples/index.html
+layout: layout.njk
 ---
 New UN Special Rapporteur on rights of indigenous peoples
 =========================================================

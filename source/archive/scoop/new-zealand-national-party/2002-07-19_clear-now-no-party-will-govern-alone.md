@@ -1,9 +1,12 @@
 ---
 slug: clear-now-no-party-will-govern-alone
-title: "Clear Now No Party Will Govern Alone"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/PA0207/S00526/clear-now-no-party-will-govern-alone.htm
+title: Clear Now No Party Will Govern Alone
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00526/clear-now-no-party-will-govern-alone.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/19/clear-now-no-party-will-govern-alone/index.html
+layout: layout.njk
 ---
 Clear Now No Party Will Govern Alone
 ====================================

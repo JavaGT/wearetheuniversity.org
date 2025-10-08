@@ -1,9 +1,12 @@
 ---
 slug: maori-party-deal-to-benefit-all
-title: "Maori Party deal to benefit all"
-date: 2009-11-23
-source-url: https://www.scoop.co.nz/stories/PA0911/S00327/maori-party-deal-to-benefit-all.htm
+title: Maori Party deal to benefit all
+date: 2009-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00327/maori-party-deal-to-benefit-all.htm
 author: te-pati-maori
+permalink: /archive/2009/11/23/maori-party-deal-to-benefit-all/index.html
+layout: layout.njk
 ---
 Maori Party deal to benefit all
 ===============================

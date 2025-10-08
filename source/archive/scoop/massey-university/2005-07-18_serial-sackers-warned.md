@@ -1,9 +1,11 @@
 ---
 slug: serial-sackers-warned
-title: "Serial sackers warned"
-date: 2005-07-18
+title: Serial sackers warned
+date: 2005-07-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00060/serial-sackers-warned.htm
 author: massey-university
+permalink: /archive/2005/07/18/serial-sackers-warned/index.html
+layout: layout.njk
 ---
 Serial sackers warned
 =====================

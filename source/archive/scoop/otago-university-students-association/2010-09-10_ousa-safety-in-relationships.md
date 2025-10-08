@@ -1,9 +1,11 @@
 ---
 slug: ousa-safety-in-relationships
-title: "OUSA: Safety in Relationships"
-date: 2010-09-10
+title: 'OUSA: Safety in Relationships'
+date: 2010-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1009/S00053/ousa-safety-in-relationships.htm
 author: otago-university-students-association
+permalink: /archive/2010/09/10/ousa-safety-in-relationships/index.html
+layout: layout.njk
 ---
 OUSA: Safety in Relationships
 =============================

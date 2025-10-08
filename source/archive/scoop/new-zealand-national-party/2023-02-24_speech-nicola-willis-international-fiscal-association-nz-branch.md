@@ -1,9 +1,13 @@
 ---
 slug: speech-nicola-willis-international-fiscal-association-nz-branch
-title: "Speech: Nicola Willis - International Fiscal Association NZ Branch"
-date: 2023-02-24
-source-url: https://www.scoop.co.nz/stories/PA2302/S00124/speech-nicola-willis-international-fiscal-association-nz-branch.htm
+title: 'Speech: Nicola Willis - International Fiscal Association NZ Branch'
+date: 2023-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00124/speech-nicola-willis-international-fiscal-association-nz-branch.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/24/speech-nicola-willis-international-fiscal-association-nz-branch/index.html
+layout: layout.njk
 ---
 Speech: Nicola Willis - International Fiscal Association NZ Branch
 ==================================================================

@@ -1,9 +1,12 @@
 ---
 slug: books-rare-insight-into-chinese-foreign-affairs
-title: "Books rare insight into Chinese foreign affairs"
-date: 2004-01-27
-source-url: https://www.scoop.co.nz/stories/ED0401/S00035/books-rare-insight-into-chinese-foreign-affairs.htm
+title: Books rare insight into Chinese foreign affairs
+date: 2004-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00035/books-rare-insight-into-chinese-foreign-affairs.htm
 author: university-of-canterbury
+permalink: /archive/2004/01/27/books-rare-insight-into-chinese-foreign-affairs/index.html
+layout: layout.njk
 ---
 Books rare insight into Chinese foreign affairs
 ===============================================

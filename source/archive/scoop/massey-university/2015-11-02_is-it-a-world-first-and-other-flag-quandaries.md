@@ -1,9 +1,12 @@
 ---
 slug: is-it-a-world-first-and-other-flag-quandaries
-title: "\"Is it a world first?\" and other flag quandaries"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/PO1511/S00032/is-it-a-world-first-and-other-flag-quandaries.htm
+title: '"Is it a world first?" and other flag quandaries'
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00032/is-it-a-world-first-and-other-flag-quandaries.htm
 author: massey-university
+permalink: /archive/2015/11/02/is-it-a-world-first-and-other-flag-quandaries/index.html
+layout: layout.njk
 ---
 “Is it a world first?” and other flag quandaries
 ================================================

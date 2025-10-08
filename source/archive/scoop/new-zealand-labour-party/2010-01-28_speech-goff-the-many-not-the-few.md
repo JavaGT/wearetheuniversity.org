@@ -1,9 +1,12 @@
 ---
 slug: speech-goff-the-many-not-the-few
-title: "Speech: Goff - The Many. Not The Few."
-date: 2010-01-28
-source-url: https://www.scoop.co.nz/stories/PA1001/S00140/speech-goff-the-many-not-the-few.htm
+title: 'Speech: Goff - The Many. Not The Few.'
+date: 2010-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00140/speech-goff-the-many-not-the-few.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/28/speech-goff-the-many-not-the-few/index.html
+layout: layout.njk
 ---
 Speech: Goff - The Many. Not The Few.
 =====================================

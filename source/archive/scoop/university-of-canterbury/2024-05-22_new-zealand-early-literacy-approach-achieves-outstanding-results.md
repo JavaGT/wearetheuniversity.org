@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-early-literacy-approach-achieves-outstanding-results
-title: "New Zealand Early Literacy Approach Achieves Outstanding Results"
-date: 2024-05-22
-source-url: https://www.scoop.co.nz/stories/ED2405/S00078/new-zealand-early-literacy-approach-achieves-outstanding-results.htm
+title: New Zealand Early Literacy Approach Achieves Outstanding Results
+date: 2024-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00078/new-zealand-early-literacy-approach-achieves-outstanding-results.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/22/new-zealand-early-literacy-approach-achieves-outstanding-results/index.html
+layout: layout.njk
 ---
 New Zealand Early Literacy Approach Achieves Outstanding Results
 ================================================================

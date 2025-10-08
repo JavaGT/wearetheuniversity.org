@@ -1,9 +1,12 @@
 ---
 slug: pms-school-lunches-scheme-flawed
-title: "PM’s school lunches scheme flawed"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/PA1908/S00297/pms-school-lunches-scheme-flawed.htm
+title: PM’s school lunches scheme flawed
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00297/pms-school-lunches-scheme-flawed.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/29/pms-school-lunches-scheme-flawed/index.html
+layout: layout.njk
 ---
 PM’s school lunches scheme flawed
 =================================

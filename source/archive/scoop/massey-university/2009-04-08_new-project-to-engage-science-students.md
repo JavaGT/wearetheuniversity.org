@@ -1,9 +1,12 @@
 ---
 slug: new-project-to-engage-science-students
-title: "New project to engage science students"
-date: 2009-04-08
-source-url: https://www.scoop.co.nz/stories/ED0904/S00022/new-project-to-engage-science-students.htm
+title: New project to engage science students
+date: 2009-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00022/new-project-to-engage-science-students.htm
 author: massey-university
+permalink: /archive/2009/04/08/new-project-to-engage-science-students/index.html
+layout: layout.njk
 ---
 New project to engage science students
 ======================================

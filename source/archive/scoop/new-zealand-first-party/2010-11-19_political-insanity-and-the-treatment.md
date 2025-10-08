@@ -1,9 +1,12 @@
 ---
 slug: political-insanity-and-the-treatment
-title: "Political Insanity - And The Treatment"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/PO1011/S00249/political-insanity-and-the-treatment.htm
+title: Political Insanity - And The Treatment
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00249/political-insanity-and-the-treatment.htm
 author: new-zealand-first-party
+permalink: /archive/2010/11/19/political-insanity-and-the-treatment/index.html
+layout: layout.njk
 ---
 Political Insanity - And The Treatment
 ======================================

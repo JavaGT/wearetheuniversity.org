@@ -1,9 +1,12 @@
 ---
 slug: wellingtons-inaugural-climate-change-festival
-title: "Wellington’s inaugural climate change festival"
-date: 2006-10-30
-source-url: https://www.scoop.co.nz/stories/AK0610/S00290/wellingtons-inaugural-climate-change-festival.htm
+title: Wellington’s inaugural climate change festival
+date: 2006-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0610/S00290/wellingtons-inaugural-climate-change-festival.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/30/wellingtons-inaugural-climate-change-festival/index.html
+layout: layout.njk
 ---
 Wellington’s inaugural climate change festival
 ==============================================

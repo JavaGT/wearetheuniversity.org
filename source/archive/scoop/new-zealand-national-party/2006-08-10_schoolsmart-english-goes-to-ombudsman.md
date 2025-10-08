@@ -1,9 +1,12 @@
 ---
 slug: schoolsmart-english-goes-to-ombudsman
-title: "SchoolSMART: English goes to Ombudsman"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/PA0608/S00175/schoolsmart-english-goes-to-ombudsman.htm
+title: 'SchoolSMART: English goes to Ombudsman'
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00175/schoolsmart-english-goes-to-ombudsman.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/10/schoolsmart-english-goes-to-ombudsman/index.html
+layout: layout.njk
 ---
 SchoolSMART: English goes to Ombudsman
 ======================================

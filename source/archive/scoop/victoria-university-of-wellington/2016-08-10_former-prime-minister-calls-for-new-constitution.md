@@ -1,9 +1,13 @@
 ---
 slug: former-prime-minister-calls-for-new-constitution
-title: "Former Prime Minister calls for new constitution"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/PO1608/S00101/former-prime-minister-calls-for-new-constitution.htm
+title: Former Prime Minister calls for new constitution
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00101/former-prime-minister-calls-for-new-constitution.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/08/10/former-prime-minister-calls-for-new-constitution/index.html
+layout: layout.njk
 ---
 Former Prime Minister calls for new constitution
 ================================================

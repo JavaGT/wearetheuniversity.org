@@ -1,9 +1,12 @@
 ---
 slug: brownlee-must-step-in-as-eqc-spin-exposed
-title: "Brownlee must step in as EQC spin exposed"
-date: 2016-04-29
-source-url: https://www.scoop.co.nz/stories/PA1604/S00469/brownlee-must-step-in-as-eqc-spin-exposed.htm
+title: Brownlee must step in as EQC spin exposed
+date: 2016-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00469/brownlee-must-step-in-as-eqc-spin-exposed.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/29/brownlee-must-step-in-as-eqc-spin-exposed/index.html
+layout: layout.njk
 ---
 Brownlee must step in as EQC spin exposed
 =========================================

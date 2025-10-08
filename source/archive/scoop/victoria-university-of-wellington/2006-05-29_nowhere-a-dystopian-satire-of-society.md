@@ -1,9 +1,12 @@
 ---
 slug: nowhere-a-dystopian-satire-of-society
-title: "Nowhere: A Dystopian Satire of society"
-date: 2006-05-29
-source-url: https://www.scoop.co.nz/stories/CU0605/S00289/nowhere-a-dystopian-satire-of-society.htm
+title: 'Nowhere: A Dystopian Satire of society'
+date: 2006-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0605/S00289/nowhere-a-dystopian-satire-of-society.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/05/29/nowhere-a-dystopian-satire-of-society/index.html
+layout: layout.njk
 ---
 Nowhere: A Dystopian Satire of society
 ======================================

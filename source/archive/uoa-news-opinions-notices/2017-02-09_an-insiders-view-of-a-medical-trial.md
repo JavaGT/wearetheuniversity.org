@@ -1,8 +1,11 @@
 ---
 slug: an-insiders-view-of-a-medical-trial
-title: "An insider's view of a medical trial"
-date: 2017-02-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/insider-view-medical-trial.html
+title: An insider's view of a medical trial
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/insider-view-medical-trial.html
+permalink: /archive/2017/02/09/an-insiders-view-of-a-medical-trial/index.html
+layout: layout.njk
 ---
 An insider's view of a medical trial
 ====================================

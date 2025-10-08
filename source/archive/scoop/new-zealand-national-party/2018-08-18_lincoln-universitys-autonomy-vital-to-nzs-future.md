@@ -1,9 +1,13 @@
 ---
 slug: lincoln-universitys-autonomy-vital-to-nzs-future
-title: "Lincoln University’s autonomy vital to NZ’s future"
-date: 2018-08-18
-source-url: https://www.scoop.co.nz/stories/PA1808/S00211/lincoln-universitys-autonomy-vital-to-nzs-future.htm
+title: Lincoln University’s autonomy vital to NZ’s future
+date: 2018-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00211/lincoln-universitys-autonomy-vital-to-nzs-future.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/18/lincoln-universitys-autonomy-vital-to-nzs-future/index.html
+layout: layout.njk
 ---
 Lincoln University’s autonomy vital to NZ’s future
 ==================================================

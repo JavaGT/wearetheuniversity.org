@@ -1,9 +1,13 @@
 ---
 slug: sports-scientists-expecting-personal-bests-from-pascoe
-title: "Sports scientists expecting personal bests from Pascoe"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/ED1407/S00128/sports-scientists-expecting-personal-bests-from-pascoe.htm
+title: Sports scientists expecting personal bests from Pascoe
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00128/sports-scientists-expecting-personal-bests-from-pascoe.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/28/sports-scientists-expecting-personal-bests-from-pascoe/index.html
+layout: layout.njk
 ---
 Sports scientists expecting personal bests from Pascoe
 ======================================================

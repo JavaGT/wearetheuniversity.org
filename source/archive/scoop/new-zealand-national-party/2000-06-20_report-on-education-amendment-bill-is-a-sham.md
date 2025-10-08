@@ -1,9 +1,12 @@
 ---
 slug: report-on-education-amendment-bill-is-a-sham
-title: "Report on Education Amendment Bill is \"a sham\""
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/PA0006/S00439/report-on-education-amendment-bill-is-a-sham.htm
+title: Report on Education Amendment Bill is "a sham"
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00439/report-on-education-amendment-bill-is-a-sham.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/20/report-on-education-amendment-bill-is-a-sham/index.html
+layout: layout.njk
 ---
 Report on Education Amendment Bill is \"a sham"
 ==============================================

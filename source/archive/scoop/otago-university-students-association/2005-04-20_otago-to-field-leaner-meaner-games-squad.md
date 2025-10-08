@@ -1,9 +1,12 @@
 ---
 slug: otago-to-field-leaner-meaner-games-squad
-title: "Otago to Field Leaner, Meaner Games Squad"
-date: 2005-04-20
-source-url: https://www.scoop.co.nz/stories/ED0504/S00076/otago-to-field-leaner-meaner-games-squad.htm
+title: Otago to Field Leaner, Meaner Games Squad
+date: 2005-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00076/otago-to-field-leaner-meaner-games-squad.htm
 author: otago-university-students-association
+permalink: /archive/2005/04/20/otago-to-field-leaner-meaner-games-squad/index.html
+layout: layout.njk
 ---
 Otago to Field Leaner, Meaner Games Squad
 =========================================

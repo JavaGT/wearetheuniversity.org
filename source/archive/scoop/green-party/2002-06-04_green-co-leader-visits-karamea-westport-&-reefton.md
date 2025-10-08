@@ -1,9 +1,12 @@
 ---
 slug: green-co-leader-visits-karamea-westport-&-reefton
-title: "Green Co-Leader visits Karamea, Westport & Reefton"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/PA0206/S00027/green-co-leader-visits-karamea-westport-reefton.htm
+title: Green Co-Leader visits Karamea, Westport & Reefton
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00027/green-co-leader-visits-karamea-westport-reefton.htm
 author: green-party
+permalink: /archive/2002/06/04/green-co-leader-visits-karamea-westport-/index.html
+layout: layout.njk
 ---
 Green Co-Leader visits Karamea, Westport & Reefton
 ==================================================

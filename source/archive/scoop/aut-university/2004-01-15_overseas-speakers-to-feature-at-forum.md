@@ -1,9 +1,12 @@
 ---
 slug: overseas-speakers-to-feature-at-forum
-title: "Overseas Speakers to Feature at Forum"
-date: 2004-01-15
-source-url: https://www.scoop.co.nz/stories/BU0401/S00048/overseas-speakers-to-feature-at-forum.htm
+title: Overseas Speakers to Feature at Forum
+date: 2004-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0401/S00048/overseas-speakers-to-feature-at-forum.htm
 author: aut-university
+permalink: /archive/2004/01/15/overseas-speakers-to-feature-at-forum/index.html
+layout: layout.njk
 ---
 Overseas Speakers to Feature at Forum
 =====================================

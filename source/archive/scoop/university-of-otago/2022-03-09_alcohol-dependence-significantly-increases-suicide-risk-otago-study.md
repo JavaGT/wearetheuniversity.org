@@ -1,9 +1,13 @@
 ---
 slug: alcohol-dependence-significantly-increases-suicide-risk-otago-study
-title: "Alcohol Dependence Significantly Increases Suicide Risk – Otago Study"
-date: 2022-03-09
-source-url: https://www.scoop.co.nz/stories/GE2203/S00056/alcohol-dependence-significantly-increases-suicide-risk-otago-study.htm
+title: Alcohol Dependence Significantly Increases Suicide Risk – Otago Study
+date: 2022-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2203/S00056/alcohol-dependence-significantly-increases-suicide-risk-otago-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/03/09/alcohol-dependence-significantly-increases-suicide-risk-otago-study/index.html
+layout: layout.njk
 ---
 Alcohol Dependence Significantly Increases Suicide Risk – Otago Study
 =====================================================================

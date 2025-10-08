@@ -1,9 +1,12 @@
 ---
 slug: students-to-pm-no-interest-on-student-loans
-title: "Students to PM: No Interest On Student Loans"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/ED1002/S00005/students-to-pm-no-interest-on-student-loans.htm
+title: 'Students to PM: No Interest On Student Loans'
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00005/students-to-pm-no-interest-on-student-loans.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/02/02/students-to-pm-no-interest-on-student-loans/index.html
+layout: layout.njk
 ---
 Students to PM: No Interest On Student Loans
 ============================================

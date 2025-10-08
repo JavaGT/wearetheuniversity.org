@@ -1,9 +1,13 @@
 ---
 slug: uc-students-show-its-all-right-to-look-after-yourself
-title: "UC students show it’s All Right to look after yourself"
-date: 2018-10-01
-source-url: https://www.scoop.co.nz/stories/AK1810/S00005/uc-students-show-its-all-right-to-look-after-yourself.htm
+title: UC students show it’s All Right to look after yourself
+date: 2018-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1810/S00005/uc-students-show-its-all-right-to-look-after-yourself.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/01/uc-students-show-its-all-right-to-look-after-yourself/index.html
+layout: layout.njk
 ---
 UC students show it’s All Right to look after yourself
 ======================================================

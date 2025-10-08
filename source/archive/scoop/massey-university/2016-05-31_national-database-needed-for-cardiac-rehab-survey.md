@@ -1,9 +1,13 @@
 ---
 slug: national-database-needed-for-cardiac-rehab-survey
-title: "National database needed for cardiac rehab – survey"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/SC1605/S00070/national-database-needed-for-cardiac-rehab-survey.htm
+title: National database needed for cardiac rehab – survey
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00070/national-database-needed-for-cardiac-rehab-survey.htm
 author: massey-university
+permalink: >-
+  /archive/2016/05/31/national-database-needed-for-cardiac-rehab-survey/index.html
+layout: layout.njk
 ---
 National database needed for cardiac rehab – survey
 ===================================================

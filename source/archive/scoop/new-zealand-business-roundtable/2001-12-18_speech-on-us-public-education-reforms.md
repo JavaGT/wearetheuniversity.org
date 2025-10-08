@@ -1,9 +1,12 @@
 ---
 slug: speech-on-us-public-education-reforms
-title: "Speech On US Public Education Reforms"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/BU0112/S00119/speech-on-us-public-education-reforms.htm
+title: Speech On US Public Education Reforms
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0112/S00119/speech-on-us-public-education-reforms.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2001/12/18/speech-on-us-public-education-reforms/index.html
+layout: layout.njk
 ---
 Speech On US Public Education Reforms
 =====================================

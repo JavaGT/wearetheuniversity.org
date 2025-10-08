@@ -1,9 +1,12 @@
 ---
 slug: school-drop-outs-labours-legacy
-title: "School Drop Outs Labour's Legacy"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/PA0309/S00499/school-drop-outs-labours-legacy.htm
+title: School Drop Outs Labour's Legacy
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00499/school-drop-outs-labours-legacy.htm
 author: act-new-zealand
+permalink: /archive/2003/09/23/school-drop-outs-labours-legacy/index.html
+layout: layout.njk
 ---
 School Drop Outs Labour's Legacy
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: rewarded-for-work-with-aut-business-students
-title: "Rewarded For Work With AUT Business Students"
-date: 2003-12-12
-source-url: https://www.scoop.co.nz/stories/ED0312/S00054/rewarded-for-work-with-aut-business-students.htm
+title: Rewarded For Work With AUT Business Students
+date: 2003-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00054/rewarded-for-work-with-aut-business-students.htm
 author: aut-university
+permalink: /archive/2003/12/12/rewarded-for-work-with-aut-business-students/index.html
+layout: layout.njk
 ---
 Rewarded For Work With AUT Business Students
 ============================================

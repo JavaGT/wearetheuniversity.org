@@ -1,9 +1,12 @@
 ---
 slug: labour-backs-need-for-ami-support-package
-title: "Labour backs need for AMI support package"
-date: 2011-04-07
-source-url: https://www.scoop.co.nz/stories/PA1104/S00140/labour-backs-need-for-ami-support-package.htm
+title: Labour backs need for AMI support package
+date: 2011-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00140/labour-backs-need-for-ami-support-package.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/07/labour-backs-need-for-ami-support-package/index.html
+layout: layout.njk
 ---
 Labour backs need for AMI support package
 =========================================

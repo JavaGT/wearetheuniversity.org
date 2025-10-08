@@ -1,9 +1,13 @@
 ---
 slug: uc-student-undertakes-ground-breaking-national-research
-title: "UC student undertakes ground-breaking national research"
-date: 2013-09-20
-source-url: https://www.scoop.co.nz/stories/SC1309/S00050/uc-student-undertakes-ground-breaking-national-research.htm
+title: UC student undertakes ground-breaking national research
+date: 2013-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00050/uc-student-undertakes-ground-breaking-national-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/20/uc-student-undertakes-ground-breaking-national-research/index.html
+layout: layout.njk
 ---
 UC student undertakes ground-breaking national research
 =======================================================

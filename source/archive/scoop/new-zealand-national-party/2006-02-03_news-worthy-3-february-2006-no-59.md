@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-3-february-2006-no-59
-title: "News Worthy, 3 February 2006 - No. 59"
-date: 2006-02-03
-source-url: https://www.scoop.co.nz/stories/PA0602/S00040/news-worthy-3-february-2006-no-59.htm
+title: News Worthy, 3 February 2006 - No. 59
+date: 2006-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00040/news-worthy-3-february-2006-no-59.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/03/news-worthy-3-february-2006-no-59/index.html
+layout: layout.njk
 ---
 News Worthy, 3 February 2006 - No. 59
 =====================================

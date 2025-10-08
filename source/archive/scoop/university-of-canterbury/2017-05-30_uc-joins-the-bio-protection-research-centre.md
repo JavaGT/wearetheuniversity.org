@@ -1,9 +1,12 @@
 ---
 slug: uc-joins-the-bio-protection-research-centre
-title: "UC joins the Bio-Protection Research Centre"
-date: 2017-05-30
-source-url: https://www.scoop.co.nz/stories/ED1705/S00116/uc-joins-the-bio-protection-research-centre.htm
+title: UC joins the Bio-Protection Research Centre
+date: 2017-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00116/uc-joins-the-bio-protection-research-centre.htm
 author: university-of-canterbury
+permalink: /archive/2017/05/30/uc-joins-the-bio-protection-research-centre/index.html
+layout: layout.njk
 ---
 UC joins the Bio-Protection Research Centre
 ===========================================

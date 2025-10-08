@@ -1,9 +1,13 @@
 ---
 slug: proposed-additional-paid-parental-leave-offer-welcomed
-title: "Proposed Additional Paid Parental Leave Offer Welcomed"
-date: 2023-08-15
-source-url: https://www.scoop.co.nz/stories/PO2308/S00143/proposed-additional-paid-parental-leave-offer-welcomed.htm
+title: Proposed Additional Paid Parental Leave Offer Welcomed
+date: 2023-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00143/proposed-additional-paid-parental-leave-offer-welcomed.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/08/15/proposed-additional-paid-parental-leave-offer-welcomed/index.html
+layout: layout.njk
 ---
 Proposed Additional Paid Parental Leave Offer Welcomed
 ======================================================

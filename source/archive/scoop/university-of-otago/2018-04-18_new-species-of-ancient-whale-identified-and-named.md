@@ -1,9 +1,13 @@
 ---
 slug: new-species-of-ancient-whale-identified-and-named
-title: "New species of ancient whale identified and named"
-date: 2018-04-18
-source-url: https://www.scoop.co.nz/stories/SC1804/S00021/new-species-of-ancient-whale-identified-and-named.htm
+title: New species of ancient whale identified and named
+date: 2018-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1804/S00021/new-species-of-ancient-whale-identified-and-named.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/18/new-species-of-ancient-whale-identified-and-named/index.html
+layout: layout.njk
 ---
 New species of ancient whale identified and named
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: goldsmith-confirms-nats-will-keep-provincial-growth-fund
-title: "Goldsmith confirms Nats will keep Provincial Growth Fund"
-date: 2018-12-12
-source-url: https://www.scoop.co.nz/stories/PA1812/S00130/goldsmith-confirms-nats-will-keep-provincial-growth-fund.htm
+title: Goldsmith confirms Nats will keep Provincial Growth Fund
+date: 2018-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00130/goldsmith-confirms-nats-will-keep-provincial-growth-fund.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/12/12/goldsmith-confirms-nats-will-keep-provincial-growth-fund/index.html
+layout: layout.njk
 ---
 Goldsmith confirms Nats will keep Provincial Growth Fund
 ========================================================

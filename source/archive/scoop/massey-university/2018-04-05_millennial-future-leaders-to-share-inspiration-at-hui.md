@@ -1,9 +1,13 @@
 ---
 slug: millennial-future-leaders-to-share-inspiration-at-hui
-title: "Millennial future leaders to share inspiration at hui"
-date: 2018-04-05
-source-url: https://www.scoop.co.nz/stories/ED1804/S00010/millennial-future-leaders-to-share-inspiration-at-hui.htm
+title: Millennial future leaders to share inspiration at hui
+date: 2018-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1804/S00010/millennial-future-leaders-to-share-inspiration-at-hui.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/05/millennial-future-leaders-to-share-inspiration-at-hui/index.html
+layout: layout.njk
 ---
 Millennial future leaders to share inspiration at hui
 =====================================================

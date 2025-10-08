@@ -1,9 +1,12 @@
 ---
 slug: public-service-job-cut-threats-uncalled-for
-title: "Public service job cut threats uncalled for"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/ED0902/S00084/public-service-job-cut-threats-uncalled-for.htm
+title: Public service job cut threats uncalled for
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00084/public-service-job-cut-threats-uncalled-for.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/02/24/public-service-job-cut-threats-uncalled-for/index.html
+layout: layout.njk
 ---
 Public service job cut threats uncalled for
 ===========================================

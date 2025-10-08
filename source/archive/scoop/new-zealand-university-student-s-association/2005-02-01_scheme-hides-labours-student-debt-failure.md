@@ -1,9 +1,12 @@
 ---
 slug: scheme-hides-labours-student-debt-failure
-title: "Scheme hides Labour’s student debt failure"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/ED0502/S00008/scheme-hides-labours-student-debt-failure.htm
+title: Scheme hides Labour’s student debt failure
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00008/scheme-hides-labours-student-debt-failure.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/02/01/scheme-hides-labours-student-debt-failure/index.html
+layout: layout.njk
 ---
 Scheme hides Labour’s student debt failure
 ==========================================

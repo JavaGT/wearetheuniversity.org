@@ -1,9 +1,13 @@
 ---
 slug: ece-teachers-deserve-better-than-this-government
-title: "ECE Teachers Deserve Better Than This Government"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/PA2409/S00097/ece-teachers-deserve-better-than-this-government.htm
+title: ECE Teachers Deserve Better Than This Government
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00097/ece-teachers-deserve-better-than-this-government.htm
 author: green-party
+permalink: >-
+  /archive/2024/09/15/ece-teachers-deserve-better-than-this-government/index.html
+layout: layout.njk
 ---
 ECE Teachers Deserve Better Than This Government
 ================================================

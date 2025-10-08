@@ -1,9 +1,12 @@
 ---
 slug: charity-begins-at-home-immigration-minister
-title: "Charity Begins At Home, Immigration Minister"
-date: 2002-08-27
-source-url: https://www.scoop.co.nz/stories/PA0208/S00228/charity-begins-at-home-immigration-minister.htm
+title: Charity Begins At Home, Immigration Minister
+date: 2002-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00228/charity-begins-at-home-immigration-minister.htm
 author: new-zealand-first-party
+permalink: /archive/2002/08/27/charity-begins-at-home-immigration-minister/index.html
+layout: layout.njk
 ---
 Charity Begins At Home, Immigration Minister
 ============================================

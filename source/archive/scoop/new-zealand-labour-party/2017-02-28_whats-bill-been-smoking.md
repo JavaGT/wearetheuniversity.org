@@ -1,9 +1,11 @@
 ---
 slug: whats-bill-been-smoking
-title: "What’s Bill been smoking?"
-date: 2017-02-28
+title: What’s Bill been smoking?
+date: 2017-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1702/S00392/whats-bill-been-smoking.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/28/whats-bill-been-smoking/index.html
+layout: layout.njk
 ---
 What’s Bill been smoking?
 =========================

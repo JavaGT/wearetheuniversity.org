@@ -1,9 +1,12 @@
 ---
 slug: conservation-minister-lets-money-rot
-title: "Conservation Minister Lets Money Rot"
-date: 2001-04-06
-source-url: https://www.scoop.co.nz/stories/PA0104/S00134/conservation-minister-lets-money-rot.htm
+title: Conservation Minister Lets Money Rot
+date: 2001-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00134/conservation-minister-lets-money-rot.htm
 author: act-new-zealand
+permalink: /archive/2001/04/06/conservation-minister-lets-money-rot/index.html
+layout: layout.njk
 ---
 Conservation Minister Lets Money Rot
 ====================================

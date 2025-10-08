@@ -1,9 +1,12 @@
 ---
 slug: act-leader-announces-mp-portfolios
-title: "ACT Leader announces MP Portfolios"
-date: 1999-12-16
-source-url: https://www.scoop.co.nz/stories/PA9912/S00068/act-leader-announces-mp-portfolios.htm
+title: ACT Leader announces MP Portfolios
+date: 1999-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00068/act-leader-announces-mp-portfolios.htm
 author: act-new-zealand
+permalink: /archive/1999/12/16/act-leader-announces-mp-portfolios/index.html
+layout: layout.njk
 ---
 ACT Leader announces MP Portfolios
 ==================================

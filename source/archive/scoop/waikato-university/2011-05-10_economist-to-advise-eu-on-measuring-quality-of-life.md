@@ -1,9 +1,13 @@
 ---
 slug: economist-to-advise-eu-on-measuring-quality-of-life
-title: "Economist to advise EU on measuring quality of life"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/ED1105/S00035/economist-to-advise-eu-on-measuring-quality-of-life.htm
+title: Economist to advise EU on measuring quality of life
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00035/economist-to-advise-eu-on-measuring-quality-of-life.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/05/10/economist-to-advise-eu-on-measuring-quality-of-life/index.html
+layout: layout.njk
 ---
 Economist to advise EU on measuring quality of life
 ===================================================

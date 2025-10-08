@@ -1,9 +1,11 @@
 ---
 slug: what-is-a-knowledge-society
-title: "What is a Knowledge Society?"
-date: 2004-09-13
+title: What is a Knowledge Society?
+date: 2004-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0409/S00048/what-is-a-knowledge-society.htm
 author: university-of-canterbury
+permalink: /archive/2004/09/13/what-is-a-knowledge-society/index.html
+layout: layout.njk
 ---
 What is a Knowledge Society?
 ============================

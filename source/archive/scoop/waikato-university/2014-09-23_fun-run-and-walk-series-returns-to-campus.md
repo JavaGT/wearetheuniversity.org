@@ -1,9 +1,12 @@
 ---
 slug: fun-run-and-walk-series-returns-to-campus
-title: "Fun run and walk series returns to campus"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/AK1409/S00536/fun-run-and-walk-series-returns-to-campus.htm
+title: Fun run and walk series returns to campus
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00536/fun-run-and-walk-series-returns-to-campus.htm
 author: waikato-university
+permalink: /archive/2014/09/23/fun-run-and-walk-series-returns-to-campus/index.html
+layout: layout.njk
 ---
 Fun run and walk series returns to campus
 =========================================

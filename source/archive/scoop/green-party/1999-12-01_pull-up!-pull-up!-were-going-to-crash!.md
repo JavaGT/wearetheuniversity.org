@@ -1,9 +1,12 @@
 ---
 slug: pull-up!-pull-up!-were-going-to-crash!
-title: "Pull Up! Pull Up!  We’re going to crash!"
-date: 1999-12-01
-source-url: https://www.scoop.co.nz/stories/PA9912/S00003/pull-up-pull-up-were-going-to-crash.htm
+title: Pull Up! Pull Up!  We’re going to crash!
+date: 1999-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00003/pull-up-pull-up-were-going-to-crash.htm
 author: green-party
+permalink: /archive/1999/12/01/pull-up/index.html
+layout: layout.njk
 ---
 Pull Up! Pull Up! We’re going to crash!
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: transits-coromandel-chop-totally-over-the-top
-title: "Transit's Coromandel chop totally over the top"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/PA0403/S00690/transits-coromandel-chop-totally-over-the-top.htm
+title: Transit's Coromandel chop totally over the top
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00690/transits-coromandel-chop-totally-over-the-top.htm
 author: green-party
+permalink: /archive/2004/03/31/transits-coromandel-chop-totally-over-the-top/index.html
+layout: layout.njk
 ---
 Transit's Coromandel chop totally over the top
 ==============================================

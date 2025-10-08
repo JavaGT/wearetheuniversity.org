@@ -1,9 +1,13 @@
 ---
 slug: new-research-shows-charter-schools-have-potential
-title: "New Research Shows Charter Schools Have Potential"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/ED1210/S00049/new-research-shows-charter-schools-have-potential.htm
+title: New Research Shows Charter Schools Have Potential
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00049/new-research-shows-charter-schools-have-potential.htm
 author: maxim-institute
+permalink: >-
+  /archive/2012/10/08/new-research-shows-charter-schools-have-potential/index.html
+layout: layout.njk
 ---
 New Research Shows Charter Schools Have Potential
 =================================================

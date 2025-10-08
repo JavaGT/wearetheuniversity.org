@@ -1,9 +1,12 @@
 ---
 slug: sharples-te-taumata-runanga-awards-programme
-title: "Sharples: Te Taumata Runanga Awards Programme"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/PA0706/S00595/sharples-te-taumata-runanga-awards-programme.htm
+title: 'Sharples: Te Taumata Runanga Awards Programme'
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00595/sharples-te-taumata-runanga-awards-programme.htm
 author: te-pati-maori
+permalink: /archive/2007/06/29/sharples-te-taumata-runanga-awards-programme/index.html
+layout: layout.njk
 ---
 Sharples: Te Taumata Runanga Awards Programme
 =============================================

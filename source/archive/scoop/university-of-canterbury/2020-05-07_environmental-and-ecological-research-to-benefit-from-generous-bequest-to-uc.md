@@ -1,9 +1,13 @@
 ---
 slug: environmental-and-ecological-research-to-benefit-from-generous-bequest-to-uc
-title: "Environmental And Ecological Research To Benefit From Generous Bequest To UC"
-date: 2020-05-07
-source-url: https://www.scoop.co.nz/stories/ED2005/S00015/environmental-and-ecological-research-to-benefit-from-generous-bequest-to-uc.htm
+title: Environmental And Ecological Research To Benefit From Generous Bequest To UC
+date: 2020-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00015/environmental-and-ecological-research-to-benefit-from-generous-bequest-to-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/07/environmental-and-ecological-research-to-benefit-from-generous-bequest-to-uc/index.html
+layout: layout.njk
 ---
 Environmental And Ecological Research To Benefit From Generous Bequest To UC
 ============================================================================

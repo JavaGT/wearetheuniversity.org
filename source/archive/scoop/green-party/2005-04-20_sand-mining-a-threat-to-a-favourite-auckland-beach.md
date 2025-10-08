@@ -1,9 +1,13 @@
 ---
 slug: sand-mining-a-threat-to-a-favourite-auckland-beach
-title: "Sand mining a threat to a favourite Auckland beach"
-date: 2005-04-20
-source-url: https://www.scoop.co.nz/stories/PA0504/S00429/sand-mining-a-threat-to-a-favourite-auckland-beach.htm
+title: Sand mining a threat to a favourite Auckland beach
+date: 2005-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00429/sand-mining-a-threat-to-a-favourite-auckland-beach.htm
 author: green-party
+permalink: >-
+  /archive/2005/04/20/sand-mining-a-threat-to-a-favourite-auckland-beach/index.html
+layout: layout.njk
 ---
 Sand mining a threat to a favourite Auckland beach
 ==================================================

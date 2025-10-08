@@ -1,9 +1,12 @@
 ---
 slug: more-money-down-the-charter-school-black-hole
-title: "More money down the charter school black hole"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/PO1508/S00167/more-money-down-the-charter-school-black-hole.htm
+title: More money down the charter school black hole
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00167/more-money-down-the-charter-school-black-hole.htm
 author: nzei
+permalink: /archive/2015/08/14/more-money-down-the-charter-school-black-hole/index.html
+layout: layout.njk
 ---
 More money down the charter school black hole
 =============================================

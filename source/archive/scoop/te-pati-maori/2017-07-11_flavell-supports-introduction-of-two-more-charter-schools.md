@@ -1,9 +1,13 @@
 ---
 slug: flavell-supports-introduction-of-two-more-charter-schools
-title: "Flavell supports introduction of two more charter schools"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/PA1707/S00174/flavell-supports-introduction-of-two-more-charter-schools.htm
+title: Flavell supports introduction of two more charter schools
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00174/flavell-supports-introduction-of-two-more-charter-schools.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2017/07/11/flavell-supports-introduction-of-two-more-charter-schools/index.html
+layout: layout.njk
 ---
 Flavell supports introduction of two more charter schools
 =========================================================

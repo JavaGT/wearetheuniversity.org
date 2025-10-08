@@ -1,9 +1,13 @@
 ---
 slug: making-shaking-and-breaking-prof-pickering-talks-materials
-title: "Making, shaking and breaking: Prof Pickering talks materials"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/ED1406/S00005/making-shaking-and-breaking-prof-pickering-talks-materials.htm
+title: 'Making, shaking and breaking: Prof Pickering talks materials'
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00005/making-shaking-and-breaking-prof-pickering-talks-materials.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/03/making-shaking-and-breaking-prof-pickering-talks-materials/index.html
+layout: layout.njk
 ---
 Making, shaking and breaking: Prof Pickering talks materials
 ============================================================

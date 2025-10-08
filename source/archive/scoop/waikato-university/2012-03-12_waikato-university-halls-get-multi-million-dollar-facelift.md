@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-halls-get-multi-million-dollar-facelift
-title: "Waikato University halls get multi-million dollar facelift"
-date: 2012-03-12
-source-url: https://www.scoop.co.nz/stories/ED1203/S00049/waikato-university-halls-get-multi-million-dollar-facelift.htm
+title: Waikato University halls get multi-million dollar facelift
+date: 2012-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00049/waikato-university-halls-get-multi-million-dollar-facelift.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/03/12/waikato-university-halls-get-multi-million-dollar-facelift/index.html
+layout: layout.njk
 ---
 Waikato University halls get multi-million dollar facelift
 ==========================================================

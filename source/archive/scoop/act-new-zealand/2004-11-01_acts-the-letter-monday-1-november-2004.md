@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-1-november-2004
-title: "ACT's The Letter - Monday 1 November 2004"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/PA0411/S00026/acts-the-letter-monday-1-november-2004.htm
+title: ACT's The Letter - Monday 1 November 2004
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00026/acts-the-letter-monday-1-november-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/11/01/acts-the-letter-monday-1-november-2004/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday 1 November 2004
 =========================================

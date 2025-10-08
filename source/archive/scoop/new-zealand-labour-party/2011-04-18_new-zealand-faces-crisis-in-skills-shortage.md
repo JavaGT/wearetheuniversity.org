@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-faces-crisis-in-skills-shortage
-title: "New Zealand Faces Crisis in Skills Shortage"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/PA1104/S00386/new-zealand-faces-crisis-in-skills-shortage.htm
+title: New Zealand Faces Crisis in Skills Shortage
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00386/new-zealand-faces-crisis-in-skills-shortage.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/18/new-zealand-faces-crisis-in-skills-shortage/index.html
+layout: layout.njk
 ---
 New Zealand Faces Crisis in Skills Shortage
 ===========================================

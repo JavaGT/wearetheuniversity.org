@@ -1,9 +1,13 @@
 ---
 slug: alcohols-toxic-toll-should-be-compared-to-other-life-risks
-title: "Alcohol’s toxic toll should be compared to other life risks"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/SC1307/S00046/alcohols-toxic-toll-should-be-compared-to-other-life-risks.htm
+title: Alcohol’s toxic toll should be compared to other life risks
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00046/alcohols-toxic-toll-should-be-compared-to-other-life-risks.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/18/alcohols-toxic-toll-should-be-compared-to-other-life-risks/index.html
+layout: layout.njk
 ---
 Alcohol’s toxic toll should be compared to other life risks
 ===========================================================

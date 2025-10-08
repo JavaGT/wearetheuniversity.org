@@ -1,9 +1,12 @@
 ---
 slug: national-forum-aims-to-lift-pasifika-students
-title: "National forum aims to lift Pasifika students"
-date: 2010-04-13
-source-url: https://www.scoop.co.nz/stories/ED1004/S00019/national-forum-aims-to-lift-pasifika-students.htm
+title: National forum aims to lift Pasifika students
+date: 2010-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00019/national-forum-aims-to-lift-pasifika-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/04/13/national-forum-aims-to-lift-pasifika-students/index.html
+layout: layout.njk
 ---
 National forum aims to lift Pasifika students
 =============================================

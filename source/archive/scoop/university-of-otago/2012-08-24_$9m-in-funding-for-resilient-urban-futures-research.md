@@ -1,9 +1,13 @@
 ---
 slug: $9m-in-funding-for-resilient-urban-futures-research
-title: "$9M in funding for resilient urban futures research"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/ED1208/S00140/9m-in-funding-for-resilient-urban-futures-research.htm
+title: $9M in funding for resilient urban futures research
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00140/9m-in-funding-for-resilient-urban-futures-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/08/24/9m-in-funding-for-resilient-urban-futures-research/index.html
+layout: layout.njk
 ---
 $9M in funding for resilient urban futures research
 ===================================================

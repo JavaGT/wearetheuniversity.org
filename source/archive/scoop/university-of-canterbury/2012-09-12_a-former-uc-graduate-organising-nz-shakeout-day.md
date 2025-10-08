@@ -1,9 +1,12 @@
 ---
 slug: a-former-uc-graduate-organising-nz-shakeout-day
-title: "A former UC graduate organising NZ ShakeOut day"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/ED1209/S00084/a-former-uc-graduate-organising-nz-shakeout-day.htm
+title: A former UC graduate organising NZ ShakeOut day
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00084/a-former-uc-graduate-organising-nz-shakeout-day.htm
 author: university-of-canterbury
+permalink: /archive/2012/09/12/a-former-uc-graduate-organising-nz-shakeout-day/index.html
+layout: layout.njk
 ---
 A former UC graduate organising NZ ShakeOut day
 ===============================================

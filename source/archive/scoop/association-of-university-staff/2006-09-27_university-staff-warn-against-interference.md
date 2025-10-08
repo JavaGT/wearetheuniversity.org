@@ -1,9 +1,12 @@
 ---
 slug: university-staff-warn-against-interference
-title: "University staff warn against interference"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00103/university-staff-warn-against-interference.htm
+title: University staff warn against interference
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00103/university-staff-warn-against-interference.htm
 author: association-of-university-staff
+permalink: /archive/2006/09/27/university-staff-warn-against-interference/index.html
+layout: layout.njk
 ---
 University staff warn against interference
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: the-future-of-aotearoa-is-at-stake
-title: "The Future Of Aotearoa Is At Stake"
-date: 2023-11-29
-source-url: https://www.scoop.co.nz/stories/PA2311/S00027/the-future-of-aotearoa-is-at-stake.htm
+title: The Future Of Aotearoa Is At Stake
+date: 2023-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2311/S00027/the-future-of-aotearoa-is-at-stake.htm
 author: green-party
+permalink: /archive/2023/11/29/the-future-of-aotearoa-is-at-stake/index.html
+layout: layout.njk
 ---
 The Future Of Aotearoa Is At Stake
 ==================================

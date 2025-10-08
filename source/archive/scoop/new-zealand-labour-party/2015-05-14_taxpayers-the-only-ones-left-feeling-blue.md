@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-the-only-ones-left-feeling-blue
-title: "Taxpayers the only ones left feeling blue"
-date: 2015-05-14
-source-url: https://www.scoop.co.nz/stories/PA1505/S00228/taxpayers-the-only-ones-left-feeling-blue.htm
+title: Taxpayers the only ones left feeling blue
+date: 2015-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00228/taxpayers-the-only-ones-left-feeling-blue.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/14/taxpayers-the-only-ones-left-feeling-blue/index.html
+layout: layout.njk
 ---
 Taxpayers the only ones left feeling blue
 =========================================

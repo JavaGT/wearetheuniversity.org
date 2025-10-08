@@ -1,9 +1,13 @@
 ---
 slug: nats-underestimate-bulk-funding-cost-by-millions
-title: "Nats underestimate bulk funding cost by millions"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00797/nats-underestimate-bulk-funding-cost-by-millions.htm
+title: Nats underestimate bulk funding cost by millions
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00797/nats-underestimate-bulk-funding-cost-by-millions.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/08/30/nats-underestimate-bulk-funding-cost-by-millions/index.html
+layout: layout.njk
 ---
 Nats underestimate bulk funding cost by millions
 ================================================

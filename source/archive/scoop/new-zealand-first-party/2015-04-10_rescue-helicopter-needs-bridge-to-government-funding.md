@@ -1,9 +1,13 @@
 ---
 slug: rescue-helicopter-needs-bridge-to-government-funding
-title: "Rescue Helicopter Needs Bridge to Government Funding"
-date: 2015-04-10
-source-url: https://www.scoop.co.nz/stories/PA1504/S00127/rescue-helicopter-needs-bridge-to-government-funding.htm
+title: Rescue Helicopter Needs Bridge to Government Funding
+date: 2015-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00127/rescue-helicopter-needs-bridge-to-government-funding.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/04/10/rescue-helicopter-needs-bridge-to-government-funding/index.html
+layout: layout.njk
 ---
 Rescue Helicopter Needs Bridge to Government Funding
 ====================================================

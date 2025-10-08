@@ -1,9 +1,13 @@
 ---
 slug: hidden-messages-in-artwork-acknowledge-iraqi-deaths
-title: "Hidden messages in artwork acknowledge Iraqi deaths"
-date: 2011-08-31
-source-url: https://www.scoop.co.nz/stories/CU1108/S00536/hidden-messages-in-artwork-acknowledge-iraqi-deaths.htm
+title: Hidden messages in artwork acknowledge Iraqi deaths
+date: 2011-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00536/hidden-messages-in-artwork-acknowledge-iraqi-deaths.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/31/hidden-messages-in-artwork-acknowledge-iraqi-deaths/index.html
+layout: layout.njk
 ---
 Hidden messages in artwork acknowledge Iraqi deaths
 ===================================================

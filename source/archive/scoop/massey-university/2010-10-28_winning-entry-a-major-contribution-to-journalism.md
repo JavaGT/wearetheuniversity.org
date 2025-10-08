@@ -1,9 +1,13 @@
 ---
 slug: winning-entry-a-major-contribution-to-journalism
-title: "Winning entry a ‘major contribution’ to journalism"
-date: 2010-10-28
-source-url: https://www.scoop.co.nz/stories/ED1010/S00102/winning-entry-a-major-contribution-to-journalism.htm
+title: Winning entry a ‘major contribution’ to journalism
+date: 2010-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00102/winning-entry-a-major-contribution-to-journalism.htm
 author: massey-university
+permalink: >-
+  /archive/2010/10/28/winning-entry-a-major-contribution-to-journalism/index.html
+layout: layout.njk
 ---
 Winning entry a ‘major contribution’ to journalism
 ==================================================

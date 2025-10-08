@@ -1,9 +1,15 @@
 ---
-slug: te-pāti-māori-have-lodged-official-complaint-to-the-independent-police-conduct-authority
-title: "Te Pāti Māori Have Lodged Official Complaint To The Independent Police Conduct Authority"
-date: 2021-06-01
-source-url: https://www.scoop.co.nz/stories/PO2106/S00005/te-pati-maori-have-lodged-official-complaint-to-the-independent-police-conduct-authority.htm
+slug: >-
+  te-pāti-māori-have-lodged-official-complaint-to-the-independent-police-conduct-authority
+title: >-
+  Te Pāti Māori Have Lodged Official Complaint To The Independent Police Conduct
+  Authority
+date: 2021-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2106/S00005/te-pati-maori-have-lodged-official-complaint-to-the-independent-police-conduct-authority.htm
 author: te-pati-maori
+permalink: /archive/2021/06/01/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori Have Lodged Official Complaint To The Independent Police Conduct Authority
 ========================================================================================

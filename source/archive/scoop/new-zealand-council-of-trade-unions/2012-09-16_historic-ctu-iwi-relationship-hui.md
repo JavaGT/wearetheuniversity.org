@@ -1,9 +1,12 @@
 ---
 slug: historic-ctu-iwi-relationship-hui
-title: "Historic CTU/Iwi Relationship Hui"
-date: 2012-09-16
-source-url: https://www.scoop.co.nz/stories/PO1209/S00213/historic-ctuiwi-relationship-hui.htm
+title: Historic CTU/Iwi Relationship Hui
+date: 2012-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00213/historic-ctuiwi-relationship-hui.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/09/16/historic-ctu-iwi-relationship-hui/index.html
+layout: layout.njk
 ---
 Historic CTU/Iwi Relationship Hui
 =================================

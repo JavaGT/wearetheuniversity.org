@@ -1,9 +1,13 @@
 ---
 slug: willis-welcomes-refusal-of-victoria-uni-name-change
-title: "Willis welcomes refusal of Victoria Uni name change"
-date: 2018-12-18
-source-url: https://www.scoop.co.nz/stories/PA1812/S00228/willis-welcomes-refusal-of-victoria-uni-name-change.htm
+title: Willis welcomes refusal of Victoria Uni name change
+date: 2018-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00228/willis-welcomes-refusal-of-victoria-uni-name-change.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/12/18/willis-welcomes-refusal-of-victoria-uni-name-change/index.html
+layout: layout.njk
 ---
 Willis welcomes refusal of Victoria Uni name change
 ===================================================

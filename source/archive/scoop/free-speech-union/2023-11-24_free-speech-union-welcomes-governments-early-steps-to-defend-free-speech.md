@@ -1,9 +1,13 @@
 ---
 slug: free-speech-union-welcomes-governments-early-steps-to-defend-free-speech
-title: "Free Speech Union Welcomes Government’s Early Steps To Defend Free Speech"
-date: 2023-11-24
-source-url: https://www.scoop.co.nz/stories/PO2311/S00155/free-speech-union-welcomes-governments-early-steps-to-defend-free-speech.htm
+title: Free Speech Union Welcomes Government’s Early Steps To Defend Free Speech
+date: 2023-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2311/S00155/free-speech-union-welcomes-governments-early-steps-to-defend-free-speech.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/11/24/free-speech-union-welcomes-governments-early-steps-to-defend-free-speech/index.html
+layout: layout.njk
 ---
 Free Speech Union Welcomes Government’s Early Steps To Defend Free Speech
 =========================================================================

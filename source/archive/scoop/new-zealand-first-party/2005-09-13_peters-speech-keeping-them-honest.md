@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-keeping-them-honest
-title: "Peters Speech: Keeping Them Honest"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PA0509/S00326/peters-speech-keeping-them-honest.htm
+title: 'Peters Speech: Keeping Them Honest'
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00326/peters-speech-keeping-them-honest.htm
 author: new-zealand-first-party
+permalink: /archive/2005/09/13/peters-speech-keeping-them-honest/index.html
+layout: layout.njk
 ---
 Peters Speech: Keeping Them Honest
 ==================================

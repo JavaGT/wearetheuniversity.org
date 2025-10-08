@@ -1,9 +1,11 @@
 ---
 slug: news-worthy
-title: "News Worthy"
-date: 2005-10-14
+title: News Worthy
+date: 2005-10-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0510/S00067/news-worthy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/14/news-worthy/index.html
+layout: layout.njk
 ---
 News Worthy
 ===========

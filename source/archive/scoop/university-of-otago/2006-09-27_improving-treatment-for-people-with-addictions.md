@@ -1,9 +1,12 @@
 ---
 slug: improving-treatment-for-people-with-addictions
-title: "Improving treatment for people with addiction's"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/GE0609/S00102/improving-treatment-for-people-with-addictions.htm
+title: Improving treatment for people with addiction's
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0609/S00102/improving-treatment-for-people-with-addictions.htm
 author: university-of-otago
+permalink: /archive/2006/09/27/improving-treatment-for-people-with-addictions/index.html
+layout: layout.njk
 ---
 Improving treatment for people with addiction's
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: alliance-rout-nzusa-atsa-misrepresentation
-title: "Alliance Rout - NZUSA/ATSA Misrepresentation"
-date: 2002-07-29
-source-url: https://www.scoop.co.nz/stories/ED0207/S00070/alliance-rout-nzusaatsa-misrepresentation.htm
+title: Alliance Rout - NZUSA/ATSA Misrepresentation
+date: 2002-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00070/alliance-rout-nzusaatsa-misrepresentation.htm
 author: student-choice
+permalink: /archive/2002/07/29/alliance-rout-nzusa-atsa-misrepresentation/index.html
+layout: layout.njk
 ---
 Alliance Rout - NZUSA/ATSA Misrepresentation
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: policing-bill-third-reading
-title: "Policing Bill: Third Reading"
-date: 2008-09-06
+title: 'Policing Bill: Third Reading'
+date: 2008-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0809/S00155/policing-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2008/09/06/policing-bill-third-reading/index.html
+layout: layout.njk
 ---
 Policing Bill: Third Reading
 ============================

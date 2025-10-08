@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-parties-and-mmp
-title: "Speech: Katene - Parties and MMP"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/PA1011/S00206/speech-katene-parties-and-mmp.htm
+title: 'Speech: Katene - Parties and MMP'
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00206/speech-katene-parties-and-mmp.htm
 author: te-pati-maori
+permalink: /archive/2010/11/11/speech-katene-parties-and-mmp/index.html
+layout: layout.njk
 ---
 Speech: Katene - Parties and MMP
 ================================

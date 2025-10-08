@@ -1,9 +1,11 @@
 ---
 slug: competition-is-the-key
-title: "Competition Is The Key"
-date: 2009-05-13
+title: Competition Is The Key
+date: 2009-05-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00232/competition-is-the-key.htm
 author: act-new-zealand
+permalink: /archive/2009/05/13/competition-is-the-key/index.html
+layout: layout.njk
 ---
 Competition Is The Key
 ======================

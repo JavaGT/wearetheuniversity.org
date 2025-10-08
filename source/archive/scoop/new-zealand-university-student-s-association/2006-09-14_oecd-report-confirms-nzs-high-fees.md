@@ -1,9 +1,12 @@
 ---
 slug: oecd-report-confirms-nzs-high-fees
-title: "OECD Report Confirms NZ’s High Fees"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00051/oecd-report-confirms-nzs-high-fees.htm
+title: OECD Report Confirms NZ’s High Fees
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00051/oecd-report-confirms-nzs-high-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/09/14/oecd-report-confirms-nzs-high-fees/index.html
+layout: layout.njk
 ---
 OECD Report Confirms NZ’s High Fees
 ===================================

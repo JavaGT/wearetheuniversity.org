@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-takes-the-lead-in-cyber-security-research
-title: "Waikato University takes the lead in cyber security research"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/ED1605/S00068/waikato-university-takes-the-lead-in-cyber-security-research.htm
+title: Waikato University takes the lead in cyber security research
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00068/waikato-university-takes-the-lead-in-cyber-security-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/05/17/waikato-university-takes-the-lead-in-cyber-security-research/index.html
+layout: layout.njk
 ---
 Waikato University takes the lead in cyber security research
 ============================================================

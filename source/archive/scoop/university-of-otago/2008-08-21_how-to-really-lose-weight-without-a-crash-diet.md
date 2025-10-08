@@ -1,9 +1,12 @@
 ---
 slug: how-to-really-lose-weight-without-a-crash-diet
-title: "How to really lose weight without a crash diet"
-date: 2008-08-21
-source-url: https://www.scoop.co.nz/stories/GE0808/S00102/how-to-really-lose-weight-without-a-crash-diet.htm
+title: How to really lose weight without a crash diet
+date: 2008-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00102/how-to-really-lose-weight-without-a-crash-diet.htm
 author: university-of-otago
+permalink: /archive/2008/08/21/how-to-really-lose-weight-without-a-crash-diet/index.html
+layout: layout.njk
 ---
 How to really lose weight without a crash diet
 ==============================================

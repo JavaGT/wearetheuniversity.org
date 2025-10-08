@@ -1,9 +1,13 @@
 ---
 slug: otago-research-reveals-tobaccos-toll-on-womens-placentas
-title: "Otago research reveals tobacco’s toll on women’s placentas"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/GE1312/S00021/otago-research-reveals-tobaccos-toll-on-womens-placentas.htm
+title: Otago research reveals tobacco’s toll on women’s placentas
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1312/S00021/otago-research-reveals-tobaccos-toll-on-womens-placentas.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/12/04/otago-research-reveals-tobaccos-toll-on-womens-placentas/index.html
+layout: layout.njk
 ---
 Otago research reveals tobacco’s toll on women’s placentas
 ==========================================================

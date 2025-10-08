@@ -1,9 +1,12 @@
 ---
 slug: prestigious-fellowship-for-tourism-professor
-title: "Prestigious fellowship for tourism professor"
-date: 2015-11-04
-source-url: https://www.scoop.co.nz/stories/BU1511/S00109/prestigious-fellowship-for-tourism-professor.htm
+title: Prestigious fellowship for tourism professor
+date: 2015-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1511/S00109/prestigious-fellowship-for-tourism-professor.htm
 author: lincoln-university
+permalink: /archive/2015/11/04/prestigious-fellowship-for-tourism-professor/index.html
+layout: layout.njk
 ---
 Prestigious fellowship for tourism professor
 ============================================

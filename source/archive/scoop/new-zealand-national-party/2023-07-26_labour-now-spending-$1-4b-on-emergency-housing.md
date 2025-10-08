@@ -1,9 +1,12 @@
 ---
 slug: labour-now-spending-$1-4b-on-emergency-housing
-title: "Labour Now Spending $1.4b On Emergency Housing"
-date: 2023-07-26
-source-url: https://www.scoop.co.nz/stories/PA2307/S00144/labour-now-spending-14b-on-emergency-housing.htm
+title: Labour Now Spending $1.4b On Emergency Housing
+date: 2023-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00144/labour-now-spending-14b-on-emergency-housing.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/26/labour-now-spending-/index.html
+layout: layout.njk
 ---
 Labour Now Spending $1.4b On Emergency Housing
 ==============================================

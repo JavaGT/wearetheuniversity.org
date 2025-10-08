@@ -1,8 +1,15 @@
 ---
-slug: applications-are-now-being-accepted-for-research-methods-and-skills-scholarships
-title: "Applications are now being accepted for Research Methods and Skills Scholarships"
-date: 2013-08-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/08/29/Applications-are-now-being-accepted-for-Research-Methods-and-Skills-Scholarships.html
+slug: >-
+  applications-are-now-being-accepted-for-research-methods-and-skills-scholarships
+title: >-
+  Applications are now being accepted for Research Methods and Skills
+  Scholarships
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/08/29/Applications-are-now-being-accepted-for-Research-Methods-and-Skills-Scholarships.html
+permalink: >-
+  /archive/2013/08/29/applications-are-now-being-accepted-for-research-methods-and-skills-scholarships/index.html
+layout: layout.njk
 ---
 Applications are now being accepted for Research Methods and Skills Scholarships
 ================================================================================

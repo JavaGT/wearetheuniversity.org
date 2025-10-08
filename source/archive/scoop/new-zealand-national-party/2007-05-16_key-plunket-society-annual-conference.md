@@ -1,9 +1,12 @@
 ---
 slug: key-plunket-society-annual-conference
-title: "Key: Plunket Society Annual Conference"
-date: 2007-05-16
-source-url: https://www.scoop.co.nz/stories/PA0705/S00377/key-plunket-society-annual-conference.htm
+title: 'Key: Plunket Society Annual Conference'
+date: 2007-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00377/key-plunket-society-annual-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/16/key-plunket-society-annual-conference/index.html
+layout: layout.njk
 ---
 Key: Plunket Society Annual Conference
 ======================================

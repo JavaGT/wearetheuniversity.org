@@ -1,9 +1,12 @@
 ---
 slug: court-ruling-set-to-open-iwi-claim-floodgates
-title: "Court Ruling Set To Open Iwi Claim Floodgates"
-date: 2003-06-23
-source-url: https://www.scoop.co.nz/stories/PA0306/S00397/court-ruling-set-to-open-iwi-claim-floodgates.htm
+title: Court Ruling Set To Open Iwi Claim Floodgates
+date: 2003-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00397/court-ruling-set-to-open-iwi-claim-floodgates.htm
 author: act-new-zealand
+permalink: /archive/2003/06/23/court-ruling-set-to-open-iwi-claim-floodgates/index.html
+layout: layout.njk
 ---
 Court Ruling Set To Open Iwi Claim Floodgates
 =============================================

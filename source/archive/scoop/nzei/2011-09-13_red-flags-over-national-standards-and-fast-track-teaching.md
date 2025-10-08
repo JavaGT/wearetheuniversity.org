@@ -1,9 +1,13 @@
 ---
 slug: red-flags-over-national-standards-and-fast-track-teaching
-title: "Red flags over ‘National Standards’ and fast-track teaching"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PO1109/S00183/red-flags-over-national-standards-and-fast-track-teaching.htm
+title: Red flags over ‘National Standards’ and fast-track teaching
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00183/red-flags-over-national-standards-and-fast-track-teaching.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/13/red-flags-over-national-standards-and-fast-track-teaching/index.html
+layout: layout.njk
 ---
 Red flags over ‘National Standards’ and fast-track teaching
 ===========================================================

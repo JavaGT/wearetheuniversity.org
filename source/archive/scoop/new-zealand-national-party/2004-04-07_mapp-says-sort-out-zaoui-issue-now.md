@@ -1,9 +1,12 @@
 ---
 slug: mapp-says-sort-out-zaoui-issue-now
-title: "Mapp says sort out Zaoui issue now"
-date: 2004-04-07
-source-url: https://www.scoop.co.nz/stories/PA0404/S00114/mapp-says-sort-out-zaoui-issue-now.htm
+title: Mapp says sort out Zaoui issue now
+date: 2004-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00114/mapp-says-sort-out-zaoui-issue-now.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/07/mapp-says-sort-out-zaoui-issue-now/index.html
+layout: layout.njk
 ---
 Mapp says sort out Zaoui issue now
 ==================================

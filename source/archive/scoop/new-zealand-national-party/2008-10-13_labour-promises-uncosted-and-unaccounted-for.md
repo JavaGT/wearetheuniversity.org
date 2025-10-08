@@ -1,9 +1,12 @@
 ---
 slug: labour-promises-uncosted-and-unaccounted-for
-title: "Labour promises uncosted and unaccounted for"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00270/labour-promises-uncosted-and-unaccounted-for.htm
+title: Labour promises uncosted and unaccounted for
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00270/labour-promises-uncosted-and-unaccounted-for.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/13/labour-promises-uncosted-and-unaccounted-for/index.html
+layout: layout.njk
 ---
 Labour promises uncosted and unaccounted for
 ============================================

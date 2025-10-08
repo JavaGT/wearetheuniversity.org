@@ -1,9 +1,13 @@
 ---
 slug: uc-professors-exceptional-contribution-recognised
-title: "UC Professors’ Exceptional Contribution Recognised"
-date: 2022-11-04
-source-url: https://www.scoop.co.nz/stories/ED2211/S00012/uc-professors-exceptional-contribution-recognised.htm
+title: UC Professors’ Exceptional Contribution Recognised
+date: 2022-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2211/S00012/uc-professors-exceptional-contribution-recognised.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/04/uc-professors-exceptional-contribution-recognised/index.html
+layout: layout.njk
 ---
 UC Professors’ Exceptional Contribution Recognised
 ==================================================

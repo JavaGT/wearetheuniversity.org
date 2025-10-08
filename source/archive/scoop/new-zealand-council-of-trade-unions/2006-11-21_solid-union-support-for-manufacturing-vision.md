@@ -1,9 +1,12 @@
 ---
 slug: solid-union-support-for-manufacturing-vision
-title: "Solid Union Support For Manufacturing Vision"
-date: 2006-11-21
-source-url: https://www.scoop.co.nz/stories/PO0611/S00314/solid-union-support-for-manufacturing-vision.htm
+title: Solid Union Support For Manufacturing Vision
+date: 2006-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00314/solid-union-support-for-manufacturing-vision.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/11/21/solid-union-support-for-manufacturing-vision/index.html
+layout: layout.njk
 ---
 Solid Union Support For Manufacturing Vision
 ============================================

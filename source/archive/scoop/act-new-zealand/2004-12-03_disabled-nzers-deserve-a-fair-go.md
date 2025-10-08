@@ -1,9 +1,12 @@
 ---
 slug: disabled-nzers-deserve-a-fair-go
-title: "Disabled NZers deserve a fair go"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/PA0412/S00100/disabled-nzers-deserve-a-fair-go.htm
+title: Disabled NZers deserve a fair go
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00100/disabled-nzers-deserve-a-fair-go.htm
 author: act-new-zealand
+permalink: /archive/2004/12/03/disabled-nzers-deserve-a-fair-go/index.html
+layout: layout.njk
 ---
 Disabled NZers deserve a fair go
 ================================

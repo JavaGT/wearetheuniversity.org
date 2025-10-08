@@ -1,9 +1,12 @@
 ---
 slug: university-union-welcomes-call-for-investment
-title: "University union welcomes call for investment"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/ED0312/S00029/university-union-welcomes-call-for-investment.htm
+title: University union welcomes call for investment
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00029/university-union-welcomes-call-for-investment.htm
 author: association-of-university-staff
+permalink: /archive/2003/12/04/university-union-welcomes-call-for-investment/index.html
+layout: layout.njk
 ---
 University union welcomes call for investment
 =============================================

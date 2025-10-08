@@ -1,9 +1,13 @@
 ---
 slug: fonterra-cleans-up-water-pollution-in-australia-but-not-nz
-title: "Fonterra cleans up water pollution in Australia but not NZ"
-date: 2011-04-03
-source-url: https://www.scoop.co.nz/stories/PA1104/S00040/fonterra-cleans-up-water-pollution-in-australia-but-not-nz.htm
+title: Fonterra cleans up water pollution in Australia but not NZ
+date: 2011-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00040/fonterra-cleans-up-water-pollution-in-australia-but-not-nz.htm
 author: green-party
+permalink: >-
+  /archive/2011/04/03/fonterra-cleans-up-water-pollution-in-australia-but-not-nz/index.html
+layout: layout.njk
 ---
 Fonterra cleans up water pollution in Australia but not NZ
 ==========================================================

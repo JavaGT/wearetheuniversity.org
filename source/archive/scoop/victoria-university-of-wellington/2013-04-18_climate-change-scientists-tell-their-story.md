@@ -1,9 +1,12 @@
 ---
 slug: climate-change-scientists-tell-their-story
-title: "Climate change scientists tell their story"
-date: 2013-04-18
-source-url: https://www.scoop.co.nz/stories/SC1304/S00031/climate-change-scientists-tell-their-story.htm
+title: Climate change scientists tell their story
+date: 2013-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00031/climate-change-scientists-tell-their-story.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/04/18/climate-change-scientists-tell-their-story/index.html
+layout: layout.njk
 ---
 Climate change scientists tell their story
 ==========================================

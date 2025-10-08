@@ -1,9 +1,12 @@
 ---
 slug: where-to-for-humanities-in-a-corporate-world
-title: "Where to for humanities in a corporate world?"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/ED1510/S00087/where-to-for-humanities-in-a-corporate-world.htm
+title: Where to for humanities in a corporate world?
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00087/where-to-for-humanities-in-a-corporate-world.htm
 author: massey-university
+permalink: /archive/2015/10/16/where-to-for-humanities-in-a-corporate-world/index.html
+layout: layout.njk
 ---
 Where to for humanities in a corporate world?
 =============================================

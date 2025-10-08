@@ -1,9 +1,13 @@
 ---
 slug: second-round-of-charter-schools-exposes-governments-agenda
-title: "Second round of charter schools exposes Government’s agenda"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/PO1311/S00269/second-round-of-charter-schools-exposes-governments-agenda.htm
+title: Second round of charter schools exposes Government’s agenda
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00269/second-round-of-charter-schools-exposes-governments-agenda.htm
 author: nzei
+permalink: >-
+  /archive/2013/11/21/second-round-of-charter-schools-exposes-governments-agenda/index.html
+layout: layout.njk
 ---
 Second round of charter schools exposes Government’s agenda
 ===========================================================

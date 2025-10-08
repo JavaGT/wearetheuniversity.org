@@ -1,9 +1,12 @@
 ---
 slug: how-does-wellington-feel-and-what-is-it-worth
-title: "How does Wellington feel and what is it worth?"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/AK1403/S00163/how-does-wellington-feel-and-what-is-it-worth.htm
+title: How does Wellington feel and what is it worth?
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00163/how-does-wellington-feel-and-what-is-it-worth.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/06/how-does-wellington-feel-and-what-is-it-worth/index.html
+layout: layout.njk
 ---
 How does Wellington feel and what is it worth?
 ==============================================

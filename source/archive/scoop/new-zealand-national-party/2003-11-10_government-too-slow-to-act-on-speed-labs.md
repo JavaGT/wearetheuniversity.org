@@ -1,9 +1,12 @@
 ---
 slug: government-too-slow-to-act-on-speed-labs
-title: "Government too slow to act on speed labs"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00189/government-too-slow-to-act-on-speed-labs.htm
+title: Government too slow to act on speed labs
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00189/government-too-slow-to-act-on-speed-labs.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/10/government-too-slow-to-act-on-speed-labs/index.html
+layout: layout.njk
 ---
 Government too slow to act on speed labs
 ========================================

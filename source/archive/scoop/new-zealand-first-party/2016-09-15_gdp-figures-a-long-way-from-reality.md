@@ -1,9 +1,12 @@
 ---
 slug: gdp-figures-a-long-way-from-reality
-title: "GDP Figures a Long Way From Reality"
-date: 2016-09-15
-source-url: https://www.scoop.co.nz/stories/PA1609/S00284/gdp-figures-a-long-way-from-reality.htm
+title: GDP Figures a Long Way From Reality
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00284/gdp-figures-a-long-way-from-reality.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/15/gdp-figures-a-long-way-from-reality/index.html
+layout: layout.njk
 ---
 GDP Figures a Long Way From Reality
 ===================================

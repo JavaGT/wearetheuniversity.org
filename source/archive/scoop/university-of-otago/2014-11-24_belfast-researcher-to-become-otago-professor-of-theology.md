@@ -1,9 +1,13 @@
 ---
 slug: belfast-researcher-to-become-otago-professor-of-theology
-title: "Belfast researcher to become Otago Professor of Theology"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/BU1411/S00901/belfast-researcher-to-become-otago-professor-of-theology.htm
+title: Belfast researcher to become Otago Professor of Theology
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1411/S00901/belfast-researcher-to-become-otago-professor-of-theology.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/24/belfast-researcher-to-become-otago-professor-of-theology/index.html
+layout: layout.njk
 ---
 Belfast researcher to become Otago Professor of Theology
 ========================================================

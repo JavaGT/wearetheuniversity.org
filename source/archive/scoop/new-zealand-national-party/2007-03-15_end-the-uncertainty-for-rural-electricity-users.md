@@ -1,9 +1,12 @@
 ---
 slug: end-the-uncertainty-for-rural-electricity-users
-title: "End the uncertainty for rural electricity users"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/PA0703/S00276/end-the-uncertainty-for-rural-electricity-users.htm
+title: End the uncertainty for rural electricity users
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00276/end-the-uncertainty-for-rural-electricity-users.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/15/end-the-uncertainty-for-rural-electricity-users/index.html
+layout: layout.njk
 ---
 End the uncertainty for rural electricity users
 ===============================================

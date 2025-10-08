@@ -1,9 +1,12 @@
 ---
 slug: public-servants-and-salaries-swell-under-labour
-title: "Public servants and salaries swell under Labour"
-date: 2004-12-27
-source-url: https://www.scoop.co.nz/stories/PA0412/S00593/public-servants-and-salaries-swell-under-labour.htm
+title: Public servants and salaries swell under Labour
+date: 2004-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00593/public-servants-and-salaries-swell-under-labour.htm
 author: act-new-zealand
+permalink: /archive/2004/12/27/public-servants-and-salaries-swell-under-labour/index.html
+layout: layout.njk
 ---
 Public servants and salaries swell under Labour
 ===============================================

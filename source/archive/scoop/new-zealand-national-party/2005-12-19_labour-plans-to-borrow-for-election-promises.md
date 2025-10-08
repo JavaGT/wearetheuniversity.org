@@ -1,9 +1,12 @@
 ---
 slug: labour-plans-to-borrow-for-election-promises
-title: "Labour plans to borrow for election promises"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PA0512/S00290/labour-plans-to-borrow-for-election-promises.htm
+title: Labour plans to borrow for election promises
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00290/labour-plans-to-borrow-for-election-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/19/labour-plans-to-borrow-for-election-promises/index.html
+layout: layout.njk
 ---
 Labour plans to borrow for election promises
 ============================================

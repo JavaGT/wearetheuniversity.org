@@ -1,9 +1,12 @@
 ---
 slug: labour-refers-ballot-fees-to-auditor-general
-title: "Labour refers ballot fees to Auditor General"
-date: 2016-02-29
-source-url: https://www.scoop.co.nz/stories/PA1602/S00436/labour-refers-ballot-fees-to-auditor-general.htm
+title: Labour refers ballot fees to Auditor General
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00436/labour-refers-ballot-fees-to-auditor-general.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/29/labour-refers-ballot-fees-to-auditor-general/index.html
+layout: layout.njk
 ---
 Labour refers ballot fees to Auditor General
 ============================================

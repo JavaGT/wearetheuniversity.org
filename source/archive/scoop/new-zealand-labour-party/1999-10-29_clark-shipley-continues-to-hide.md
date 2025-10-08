@@ -1,9 +1,12 @@
 ---
 slug: clark-shipley-continues-to-hide
-title: "Clark: Shipley continues to hide"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PA9910/S00674/clark-shipley-continues-to-hide.htm
+title: 'Clark: Shipley continues to hide'
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00674/clark-shipley-continues-to-hide.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/29/clark-shipley-continues-to-hide/index.html
+layout: layout.njk
 ---
 Clark: Shipley continues to hide
 ================================

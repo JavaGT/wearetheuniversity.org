@@ -1,9 +1,13 @@
 ---
 slug: baytrust-scholarship-awarded-to-kaimoana-researcher
-title: "BayTrust scholarship awarded to kaimoana researcher"
-date: 2018-05-08
-source-url: https://www.scoop.co.nz/stories/SC1805/S00024/baytrust-scholarship-awarded-to-kaimoana-researcher.htm
+title: BayTrust scholarship awarded to kaimoana researcher
+date: 2018-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00024/baytrust-scholarship-awarded-to-kaimoana-researcher.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2018/05/08/baytrust-scholarship-awarded-to-kaimoana-researcher/index.html
+layout: layout.njk
 ---
 BayTrust scholarship awarded to kaimoana researcher
 ===================================================

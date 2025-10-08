@@ -1,9 +1,12 @@
 ---
 slug: academics-protest-idf-meeting-at-victoria
-title: "Academics Protest IDF Meeting at Victoria"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/PO1509/S00361/academics-protest-idf-meeting-at-victoria.htm
+title: Academics Protest IDF Meeting at Victoria
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1509/S00361/academics-protest-idf-meeting-at-victoria.htm
 author: dougal-mcneill
+permalink: /archive/2015/09/28/academics-protest-idf-meeting-at-victoria/index.html
+layout: layout.njk
 ---
 Academics Protest IDF Meeting at Victoria
 =========================================

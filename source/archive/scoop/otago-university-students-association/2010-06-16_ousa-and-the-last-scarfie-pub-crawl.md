@@ -1,9 +1,12 @@
 ---
 slug: ousa-and-the-last-scarfie-pub-crawl
-title: "OUSA and the Last Scarfie Pub Crawl"
-date: 2010-06-16
-source-url: https://www.scoop.co.nz/stories/CU1006/S00202/ousa-and-the-last-scarfie-pub-crawl.htm
+title: OUSA and the Last Scarfie Pub Crawl
+date: 2010-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1006/S00202/ousa-and-the-last-scarfie-pub-crawl.htm
 author: otago-university-students-association
+permalink: /archive/2010/06/16/ousa-and-the-last-scarfie-pub-crawl/index.html
+layout: layout.njk
 ---
 OUSA and the Last Scarfie Pub Crawl
 ===================================

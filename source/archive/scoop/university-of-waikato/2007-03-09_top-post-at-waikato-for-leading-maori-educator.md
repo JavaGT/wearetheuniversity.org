@@ -1,9 +1,12 @@
 ---
 slug: top-post-at-waikato-for-leading-maori-educator
-title: "Top post at Waikato for leading Maori Educator"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/ED0703/S00025/top-post-at-waikato-for-leading-maori-educator.htm
+title: Top post at Waikato for leading Maori Educator
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00025/top-post-at-waikato-for-leading-maori-educator.htm
 author: university-of-waikato
+permalink: /archive/2007/03/09/top-post-at-waikato-for-leading-maori-educator/index.html
+layout: layout.njk
 ---
 Top post at Waikato for leading Maori Educator
 ==============================================

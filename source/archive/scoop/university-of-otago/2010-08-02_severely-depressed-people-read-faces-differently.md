@@ -1,9 +1,13 @@
 ---
 slug: severely-depressed-people-read-faces-differently
-title: "Severely depressed people read faces differently"
-date: 2010-08-02
-source-url: https://www.scoop.co.nz/stories/SC1008/S00001/severely-depressed-people-read-faces-differently.htm
+title: Severely depressed people read faces differently
+date: 2010-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00001/severely-depressed-people-read-faces-differently.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/08/02/severely-depressed-people-read-faces-differently/index.html
+layout: layout.njk
 ---
 Severely depressed people read faces differently
 ================================================

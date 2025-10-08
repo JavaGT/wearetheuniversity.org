@@ -1,9 +1,11 @@
 ---
 slug: the-mystery-of-capital
-title: "The Mystery Of Capital"
-date: 2024-10-03
+title: The Mystery Of Capital
+date: 2024-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2410/S00022/the-mystery-of-capital.htm
 author: act-new-zealand
+permalink: /archive/2024/10/03/the-mystery-of-capital/index.html
+layout: layout.njk
 ---
 The Mystery Of Capital
 ======================

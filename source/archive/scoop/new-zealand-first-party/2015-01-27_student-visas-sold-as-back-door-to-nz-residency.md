@@ -1,9 +1,12 @@
 ---
 slug: student-visas-sold-as-back-door-to-nz-residency
-title: "Student Visas ‘Sold’ as Back Door to NZ Residency"
-date: 2015-01-27
-source-url: https://www.scoop.co.nz/stories/PA1501/S00120/student-visas-sold-as-back-door-to-nz-residency.htm
+title: Student Visas ‘Sold’ as Back Door to NZ Residency
+date: 2015-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00120/student-visas-sold-as-back-door-to-nz-residency.htm
 author: new-zealand-first-party
+permalink: /archive/2015/01/27/student-visas-sold-as-back-door-to-nz-residency/index.html
+layout: layout.njk
 ---
 Student Visas ‘Sold’ as Back Door to NZ Residency
 =================================================

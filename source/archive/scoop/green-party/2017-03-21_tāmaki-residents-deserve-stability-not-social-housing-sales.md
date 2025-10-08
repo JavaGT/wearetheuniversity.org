@@ -1,9 +1,12 @@
 ---
 slug: tāmaki-residents-deserve-stability-not-social-housing-sales
-title: "Tāmaki residents deserve stability, not social housing sales"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00327/tamaki-residents-deserve-stability-not-social-housing-sales.htm
+title: Tāmaki residents deserve stability, not social housing sales
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00327/tamaki-residents-deserve-stability-not-social-housing-sales.htm
 author: green-party
+permalink: /archive/2017/03/21/t/index.html
+layout: layout.njk
 ---
 Tāmaki residents deserve stability, not social housing sales
 ============================================================

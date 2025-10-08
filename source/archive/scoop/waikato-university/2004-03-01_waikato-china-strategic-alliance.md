@@ -1,9 +1,12 @@
 ---
 slug: waikato-china-strategic-alliance
-title: "Waikato-China Strategic Alliance"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/SC0403/S00004/waikato-china-strategic-alliance.htm
+title: Waikato-China Strategic Alliance
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0403/S00004/waikato-china-strategic-alliance.htm
 author: waikato-university
+permalink: /archive/2004/03/01/waikato-china-strategic-alliance/index.html
+layout: layout.njk
 ---
 Waikato-China Strategic Alliance
 ================================

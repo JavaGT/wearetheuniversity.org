@@ -1,9 +1,13 @@
 ---
 slug: investment-in-housing-gives-more-people-access-to-the-home-they-deserve
-title: "Investment In Housing Gives More People Access To The Home They Deserve"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00123/investment-in-housing-gives-more-people-access-to-the-home-they-deserve.htm
+title: Investment In Housing Gives More People Access To The Home They Deserve
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00123/investment-in-housing-gives-more-people-access-to-the-home-they-deserve.htm
 author: green-party
+permalink: >-
+  /archive/2020/05/14/investment-in-housing-gives-more-people-access-to-the-home-they-deserve/index.html
+layout: layout.njk
 ---
 Investment In Housing Gives More People Access To The Home They Deserve
 =======================================================================

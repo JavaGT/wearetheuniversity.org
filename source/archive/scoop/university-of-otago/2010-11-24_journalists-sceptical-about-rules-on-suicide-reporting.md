@@ -1,9 +1,13 @@
 ---
 slug: journalists-sceptical-about-rules-on-suicide-reporting
-title: "Journalists sceptical about rules on suicide reporting"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/GE1011/S00128/journalists-sceptical-about-rules-on-suicide-reporting.htm
+title: Journalists sceptical about rules on suicide reporting
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00128/journalists-sceptical-about-rules-on-suicide-reporting.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/11/24/journalists-sceptical-about-rules-on-suicide-reporting/index.html
+layout: layout.njk
 ---
 Journalists sceptical about rules on suicide reporting
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: chinese-consumers-positive-about-fonterra-recall
-title: "Chinese consumers positive about Fonterra recall"
-date: 2014-01-16
-source-url: https://www.scoop.co.nz/stories/ED1401/S00016/chinese-consumers-positive-about-fonterra-recall.htm
+title: Chinese consumers positive about Fonterra recall
+date: 2014-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00016/chinese-consumers-positive-about-fonterra-recall.htm
 author: massey-university
+permalink: >-
+  /archive/2014/01/16/chinese-consumers-positive-about-fonterra-recall/index.html
+layout: layout.njk
 ---
 Chinese consumers positive about Fonterra recall
 ================================================

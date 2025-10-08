@@ -1,9 +1,12 @@
 ---
 slug: minister-tells-fairytale-over-jobs-for-kiwis
-title: "Minister Tells Fairytale Over Jobs for Kiwis"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/PA1502/S00305/minister-tells-fairytale-over-jobs-for-kiwis.htm
+title: Minister Tells Fairytale Over Jobs for Kiwis
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00305/minister-tells-fairytale-over-jobs-for-kiwis.htm
 author: new-zealand-first-party
+permalink: /archive/2015/02/25/minister-tells-fairytale-over-jobs-for-kiwis/index.html
+layout: layout.njk
 ---
 Minister Tells Fairytale Over Jobs for Kiwis
 ============================================

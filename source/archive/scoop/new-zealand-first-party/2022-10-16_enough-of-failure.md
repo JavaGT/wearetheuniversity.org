@@ -1,9 +1,11 @@
 ---
 slug: enough-of-failure
-title: "\"Enough Of Failure\""
-date: 2022-10-16
+title: '"Enough Of Failure"'
+date: 2022-10-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2210/S00102/enough-of-failure.htm
 author: new-zealand-first-party
+permalink: /archive/2022/10/16/enough-of-failure/index.html
+layout: layout.njk
 ---
 “Enough Of Failure”
 ===================

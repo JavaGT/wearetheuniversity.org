@@ -1,9 +1,13 @@
 ---
 slug: dan-bidois-selected-as-nationals-candidate-in-northcote
-title: "Dan Bidois Selected As National’s Candidate In Northcote"
-date: 2022-11-07
-source-url: https://www.scoop.co.nz/stories/PA2211/S00052/dan-bidois-selected-as-nationals-candidate-in-northcote.htm
+title: Dan Bidois Selected As National’s Candidate In Northcote
+date: 2022-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00052/dan-bidois-selected-as-nationals-candidate-in-northcote.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/07/dan-bidois-selected-as-nationals-candidate-in-northcote/index.html
+layout: layout.njk
 ---
 Dan Bidois Selected As National’s Candidate In Northcote
 ========================================================

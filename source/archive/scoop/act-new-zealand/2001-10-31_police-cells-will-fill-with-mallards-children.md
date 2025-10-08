@@ -1,9 +1,12 @@
 ---
 slug: police-cells-will-fill-with-mallards-children
-title: "Police Cells Will Fill With Mallard's Children"
-date: 2001-10-31
-source-url: https://www.scoop.co.nz/stories/PA0110/S00533/police-cells-will-fill-with-mallards-children.htm
+title: Police Cells Will Fill With Mallard's Children
+date: 2001-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00533/police-cells-will-fill-with-mallards-children.htm
 author: act-new-zealand
+permalink: /archive/2001/10/31/police-cells-will-fill-with-mallards-children/index.html
+layout: layout.njk
 ---
 Police Cells Will Fill With Mallard's Children
 ==============================================

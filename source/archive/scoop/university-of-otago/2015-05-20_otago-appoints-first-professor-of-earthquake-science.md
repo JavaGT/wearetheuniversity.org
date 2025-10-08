@@ -1,9 +1,13 @@
 ---
 slug: otago-appoints-first-professor-of-earthquake-science
-title: "Otago appoints first Professor of Earthquake Science"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/SC1505/S00061/otago-appoints-first-professor-of-earthquake-science.htm
+title: Otago appoints first Professor of Earthquake Science
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00061/otago-appoints-first-professor-of-earthquake-science.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/20/otago-appoints-first-professor-of-earthquake-science/index.html
+layout: layout.njk
 ---
 Otago appoints first Professor of Earthquake Science
 ====================================================

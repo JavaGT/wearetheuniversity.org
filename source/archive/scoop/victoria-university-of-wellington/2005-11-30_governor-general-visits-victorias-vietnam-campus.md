@@ -1,9 +1,13 @@
 ---
 slug: governor-general-visits-victorias-vietnam-campus
-title: "Governor-General visits Victoria’s Vietnam campus"
-date: 2005-11-30
-source-url: https://www.scoop.co.nz/stories/ED0511/S00101/governor-general-visits-victorias-vietnam-campus.htm
+title: Governor-General visits Victoria’s Vietnam campus
+date: 2005-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00101/governor-general-visits-victorias-vietnam-campus.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/11/30/governor-general-visits-victorias-vietnam-campus/index.html
+layout: layout.njk
 ---
 Governor-General visits Victoria’s Vietnam campus
 =================================================

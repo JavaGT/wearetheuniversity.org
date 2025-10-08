@@ -1,9 +1,12 @@
 ---
 slug: govt-must-move-with-urgency-on-fees
-title: "Govt Must Move With Urgency On Fees"
-date: 2000-05-31
-source-url: https://www.scoop.co.nz/stories/ED0005/S00055/govt-must-move-with-urgency-on-fees.htm
+title: Govt Must Move With Urgency On Fees
+date: 2000-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00055/govt-must-move-with-urgency-on-fees.htm
 author: victoria-university-students-association
+permalink: /archive/2000/05/31/govt-must-move-with-urgency-on-fees/index.html
+layout: layout.njk
 ---
 Govt Must Move With Urgency On Fees
 ===================================

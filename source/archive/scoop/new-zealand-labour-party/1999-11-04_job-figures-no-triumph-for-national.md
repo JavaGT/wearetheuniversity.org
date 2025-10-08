@@ -1,9 +1,12 @@
 ---
 slug: job-figures-no-triumph-for-national
-title: "Job figures no triumph for National"
-date: 1999-11-04
-source-url: https://www.scoop.co.nz/stories/PA9911/S00111/job-figures-no-triumph-for-national.htm
+title: Job figures no triumph for National
+date: 1999-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00111/job-figures-no-triumph-for-national.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/04/job-figures-no-triumph-for-national/index.html
+layout: layout.njk
 ---
 Job figures no triumph for National
 ===================================

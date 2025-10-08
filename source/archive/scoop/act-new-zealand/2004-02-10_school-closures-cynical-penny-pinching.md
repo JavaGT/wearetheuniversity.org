@@ -1,9 +1,12 @@
 ---
 slug: school-closures-cynical-penny-pinching
-title: "School Closures Cynical Penny-pinching"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/PA0402/S00119/school-closures-cynical-penny-pinching.htm
+title: School Closures Cynical Penny-pinching
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00119/school-closures-cynical-penny-pinching.htm
 author: act-new-zealand
+permalink: /archive/2004/02/10/school-closures-cynical-penny-pinching/index.html
+layout: layout.njk
 ---
 School Closures Cynical Penny-pinching
 ======================================

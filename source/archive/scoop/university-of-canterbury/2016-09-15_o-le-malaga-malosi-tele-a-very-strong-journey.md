@@ -1,9 +1,12 @@
 ---
 slug: o-le-malaga-malosi-tele-a-very-strong-journey
-title: "O le malaga malosi tele - a very strong journey"
-date: 2016-09-15
-source-url: https://www.scoop.co.nz/stories/CU1609/S00245/o-le-malaga-malosi-tele-a-very-strong-journey.htm
+title: O le malaga malosi tele - a very strong journey
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00245/o-le-malaga-malosi-tele-a-very-strong-journey.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/15/o-le-malaga-malosi-tele-a-very-strong-journey/index.html
+layout: layout.njk
 ---
 O le malaga malosi tele - a very strong journey
 ===============================================

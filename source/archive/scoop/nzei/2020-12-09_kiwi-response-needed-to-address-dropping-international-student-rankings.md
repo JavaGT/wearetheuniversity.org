@@ -1,9 +1,13 @@
 ---
 slug: kiwi-response-needed-to-address-dropping-international-student-rankings
-title: "Kiwi Response Needed To Address Dropping International Student Rankings"
-date: 2020-12-09
-source-url: https://www.scoop.co.nz/stories/ED2012/S00018/kiwi-response-needed-to-address-dropping-international-student-rankings.htm
+title: Kiwi Response Needed To Address Dropping International Student Rankings
+date: 2020-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00018/kiwi-response-needed-to-address-dropping-international-student-rankings.htm
 author: nzei
+permalink: >-
+  /archive/2020/12/09/kiwi-response-needed-to-address-dropping-international-student-rankings/index.html
+layout: layout.njk
 ---
 Kiwi Response Needed To Address Dropping International Student Rankings
 =======================================================================

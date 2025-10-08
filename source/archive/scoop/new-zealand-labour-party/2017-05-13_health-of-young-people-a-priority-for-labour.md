@@ -1,9 +1,12 @@
 ---
 slug: health-of-young-people-a-priority-for-labour
-title: "Health of young people a priority for Labour"
-date: 2017-05-13
-source-url: https://www.scoop.co.nz/stories/PA1705/S00288/health-of-young-people-a-priority-for-labour.htm
+title: Health of young people a priority for Labour
+date: 2017-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00288/health-of-young-people-a-priority-for-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/13/health-of-young-people-a-priority-for-labour/index.html
+layout: layout.njk
 ---
 Health of young people a priority for Labour
 ============================================

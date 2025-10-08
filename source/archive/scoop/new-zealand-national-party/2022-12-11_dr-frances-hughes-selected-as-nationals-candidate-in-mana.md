@@ -1,9 +1,13 @@
 ---
 slug: dr-frances-hughes-selected-as-nationals-candidate-in-mana
-title: "Dr Frances Hughes Selected As National’s Candidate In Mana"
-date: 2022-12-11
-source-url: https://www.scoop.co.nz/stories/PO2212/S00080/dr-frances-hughes-selected-as-nationals-candidate-in-mana.htm
+title: Dr Frances Hughes Selected As National’s Candidate In Mana
+date: 2022-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00080/dr-frances-hughes-selected-as-nationals-candidate-in-mana.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/12/11/dr-frances-hughes-selected-as-nationals-candidate-in-mana/index.html
+layout: layout.njk
 ---
 Dr Frances Hughes Selected As National’s Candidate In Mana
 ==========================================================

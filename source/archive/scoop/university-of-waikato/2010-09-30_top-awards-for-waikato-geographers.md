@@ -1,9 +1,12 @@
 ---
 slug: top-awards-for-waikato-geographers
-title: "Top awards for Waikato geographers"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/CU1009/S00360/top-awards-for-waikato-geographers.htm
+title: Top awards for Waikato geographers
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00360/top-awards-for-waikato-geographers.htm
 author: university-of-waikato
+permalink: /archive/2010/09/30/top-awards-for-waikato-geographers/index.html
+layout: layout.njk
 ---
 Top awards for Waikato geographers
 ==================================

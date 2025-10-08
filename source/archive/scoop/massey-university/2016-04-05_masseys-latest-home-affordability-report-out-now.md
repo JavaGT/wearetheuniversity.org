@@ -1,9 +1,13 @@
 ---
 slug: masseys-latest-home-affordability-report-out-now
-title: "Massey's latest Home Affordability Report out now"
-date: 2016-04-05
-source-url: https://www.scoop.co.nz/stories/BU1604/S00125/masseys-latest-home-affordability-report-out-now.htm
+title: Massey's latest Home Affordability Report out now
+date: 2016-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1604/S00125/masseys-latest-home-affordability-report-out-now.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/05/masseys-latest-home-affordability-report-out-now/index.html
+layout: layout.njk
 ---
 Massey's latest Home Affordability Report out now
 =================================================

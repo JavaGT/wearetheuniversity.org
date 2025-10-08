@@ -1,9 +1,12 @@
 ---
 slug: designers-therapeutic-equestrian-saddle-excites
-title: "Designer’s Therapeutic Equestrian Saddle Excites"
-date: 2017-10-09
-source-url: https://www.scoop.co.nz/stories/GE1710/S00047/designers-therapeutic-equestrian-saddle-excites.htm
+title: Designer’s Therapeutic Equestrian Saddle Excites
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00047/designers-therapeutic-equestrian-saddle-excites.htm
 author: massey-university
+permalink: /archive/2017/10/09/designers-therapeutic-equestrian-saddle-excites/index.html
+layout: layout.njk
 ---
 Designer’s Therapeutic Equestrian Saddle Excites
 ================================================

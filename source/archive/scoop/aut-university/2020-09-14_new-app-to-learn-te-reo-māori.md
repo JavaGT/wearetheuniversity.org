@@ -1,9 +1,12 @@
 ---
 slug: new-app-to-learn-te-reo-māori
-title: "New App To Learn Te Reo Māori"
-date: 2020-09-14
-source-url: https://www.scoop.co.nz/stories/ED2009/S00028/new-app-to-learn-te-reo-maori.htm
+title: New App To Learn Te Reo Māori
+date: 2020-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00028/new-app-to-learn-te-reo-maori.htm
 author: aut-university
+permalink: /archive/2020/09/14/new-app-to-learn-te-reo-m/index.html
+layout: layout.njk
 ---
 New App To Learn Te Reo Māori
 =============================

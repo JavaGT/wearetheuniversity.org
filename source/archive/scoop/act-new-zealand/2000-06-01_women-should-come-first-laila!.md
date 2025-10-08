@@ -1,9 +1,12 @@
 ---
 slug: women-should-come-first-laila!
-title: "Women Should Come First Laila!"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/PA0006/S00033/women-should-come-first-laila.htm
+title: Women Should Come First Laila!
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00033/women-should-come-first-laila.htm
 author: act-new-zealand
+permalink: /archive/2000/06/01/women-should-come-first-laila/index.html
+layout: layout.njk
 ---
 Women Should Come First Laila!
 ==============================

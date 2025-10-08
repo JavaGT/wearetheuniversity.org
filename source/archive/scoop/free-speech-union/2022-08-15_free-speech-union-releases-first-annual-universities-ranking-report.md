@@ -1,9 +1,13 @@
 ---
 slug: free-speech-union-releases-first-annual-universities-ranking-report
-title: "Free Speech Union Releases First Annual Universities Ranking Report"
-date: 2022-08-15
-source-url: https://www.scoop.co.nz/stories/PO2208/S00109/free-speech-union-releases-first-annual-universities-ranking-report.htm
+title: Free Speech Union Releases First Annual Universities Ranking Report
+date: 2022-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00109/free-speech-union-releases-first-annual-universities-ranking-report.htm
 author: free-speech-union
+permalink: >-
+  /archive/2022/08/15/free-speech-union-releases-first-annual-universities-ranking-report/index.html
+layout: layout.njk
 ---
 Free Speech Union Releases First Annual Universities Ranking Report
 ===================================================================

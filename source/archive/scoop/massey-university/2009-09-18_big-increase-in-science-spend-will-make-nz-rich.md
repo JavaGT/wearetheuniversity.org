@@ -1,9 +1,12 @@
 ---
 slug: big-increase-in-science-spend-will-make-nz-rich
-title: "Big increase in science spend will make NZ rich"
-date: 2009-09-18
-source-url: https://www.scoop.co.nz/stories/SC0909/S00036/big-increase-in-science-spend-will-make-nz-rich.htm
+title: Big increase in science spend will make NZ rich
+date: 2009-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00036/big-increase-in-science-spend-will-make-nz-rich.htm
 author: massey-university
+permalink: /archive/2009/09/18/big-increase-in-science-spend-will-make-nz-rich/index.html
+layout: layout.njk
 ---
 Big increase in science spend will make NZ rich
 ===============================================

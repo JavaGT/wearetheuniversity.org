@@ -1,9 +1,12 @@
 ---
 slug: nz-will-lose-pharmacists-due-to-stat-dispensing
-title: "NZ will lose pharmacists due to stat dispensing"
-date: 2003-09-03
-source-url: https://www.scoop.co.nz/stories/PA0309/S00057/nz-will-lose-pharmacists-due-to-stat-dispensing.htm
+title: NZ will lose pharmacists due to stat dispensing
+date: 2003-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00057/nz-will-lose-pharmacists-due-to-stat-dispensing.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/03/nz-will-lose-pharmacists-due-to-stat-dispensing/index.html
+layout: layout.njk
 ---
 NZ will lose pharmacists due to stat dispensing
 ===============================================

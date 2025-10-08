@@ -1,9 +1,12 @@
 ---
 slug: john-keys-success-scrutinised-in-new-book
-title: "John Key’s success scrutinised in new book"
-date: 2010-02-15
-source-url: https://www.scoop.co.nz/stories/PO1002/S00174/john-keys-success-scrutinised-in-new-book.htm
+title: John Key’s success scrutinised in new book
+date: 2010-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00174/john-keys-success-scrutinised-in-new-book.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/15/john-keys-success-scrutinised-in-new-book/index.html
+layout: layout.njk
 ---
 John Key’s success scrutinised in new book
 ==========================================

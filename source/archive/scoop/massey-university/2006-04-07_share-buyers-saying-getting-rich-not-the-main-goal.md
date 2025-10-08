@@ -1,9 +1,13 @@
 ---
 slug: share-buyers-saying-getting-rich-not-the-main-goal
-title: "Share buyers saying getting rich not the main goal"
-date: 2006-04-07
-source-url: https://www.scoop.co.nz/stories/BU0604/S00156/share-buyers-saying-getting-rich-not-the-main-goal.htm
+title: Share buyers saying getting rich not the main goal
+date: 2006-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00156/share-buyers-saying-getting-rich-not-the-main-goal.htm
 author: massey-university
+permalink: >-
+  /archive/2006/04/07/share-buyers-saying-getting-rich-not-the-main-goal/index.html
+layout: layout.njk
 ---
 Share buyers saying getting rich not the main goal
 ==================================================

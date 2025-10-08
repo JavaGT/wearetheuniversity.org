@@ -1,9 +1,12 @@
 ---
 slug: ausa-president-clarifies-craccum-independence
-title: "AUSA President Clarifies Craccum Independence"
-date: 2002-05-28
-source-url: https://www.scoop.co.nz/stories/ED0205/S00067/ausa-president-clarifies-craccum-independence.htm
+title: AUSA President Clarifies Craccum Independence
+date: 2002-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00067/ausa-president-clarifies-craccum-independence.htm
 author: auckland-university-students-association
+permalink: /archive/2002/05/28/ausa-president-clarifies-craccum-independence/index.html
+layout: layout.njk
 ---
 AUSA President Clarifies Craccum Independence
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: project-energize-deserves-dhb-funding
-title: "Project Energize Deserves DHB Funding"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/PA1508/S00179/project-energize-deserves-dhb-funding.htm
+title: Project Energize Deserves DHB Funding
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00179/project-energize-deserves-dhb-funding.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/12/project-energize-deserves-dhb-funding/index.html
+layout: layout.njk
 ---
 Project Energize Deserves DHB Funding
 =====================================

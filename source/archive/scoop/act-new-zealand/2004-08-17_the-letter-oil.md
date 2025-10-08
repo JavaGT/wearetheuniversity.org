@@ -1,9 +1,11 @@
 ---
 slug: the-letter-oil
-title: "The Letter: Oil"
-date: 2004-08-17
+title: 'The Letter: Oil'
+date: 2004-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0408/S00290/the-letter-oil.htm
 author: act-new-zealand
+permalink: /archive/2004/08/17/the-letter-oil/index.html
+layout: layout.njk
 ---
 The Letter: Oil
 ===============

@@ -1,9 +1,12 @@
 ---
 slug: ghetto-schools-suspend-ten-times-more
-title: "Ghetto Schools Suspend Ten Times More"
-date: 2002-05-21
-source-url: https://www.scoop.co.nz/stories/PA0205/S00407/ghetto-schools-suspend-ten-times-more.htm
+title: Ghetto Schools Suspend Ten Times More
+date: 2002-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00407/ghetto-schools-suspend-ten-times-more.htm
 author: act-new-zealand
+permalink: /archive/2002/05/21/ghetto-schools-suspend-ten-times-more/index.html
+layout: layout.njk
 ---
 Ghetto Schools Suspend Ten Times More
 =====================================

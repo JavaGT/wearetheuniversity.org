@@ -1,9 +1,13 @@
 ---
 slug: big-government-bridges-will-keep-labours-tax-hikes
-title: "Big government Bridges will keep Labour’s tax hikes"
-date: 2018-04-09
-source-url: https://www.scoop.co.nz/stories/PA1804/S00085/big-government-bridges-will-keep-labours-tax-hikes.htm
+title: Big government Bridges will keep Labour’s tax hikes
+date: 2018-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00085/big-government-bridges-will-keep-labours-tax-hikes.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/04/09/big-government-bridges-will-keep-labours-tax-hikes/index.html
+layout: layout.njk
 ---
 Big government Bridges will keep Labour’s tax hikes
 ===================================================

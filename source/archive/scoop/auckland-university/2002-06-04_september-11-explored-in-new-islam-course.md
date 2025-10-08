@@ -1,9 +1,12 @@
 ---
 slug: september-11-explored-in-new-islam-course
-title: "September 11 Explored in New Islam Course"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/ED0206/S00004/september-11-explored-in-new-islam-course.htm
+title: September 11 Explored in New Islam Course
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00004/september-11-explored-in-new-islam-course.htm
 author: auckland-university
+permalink: /archive/2002/06/04/september-11-explored-in-new-islam-course/index.html
+layout: layout.njk
 ---
 September 11 Explored in New Islam Course
 =========================================

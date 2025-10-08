@@ -1,9 +1,13 @@
 ---
 slug: teacher-aides-arent-treated-fairly-says-ash-holwell
-title: "Teacher Aides aren't treated fairly, says Ash Holwell"
-date: 2017-06-07
-source-url: https://www.scoop.co.nz/stories/ED1706/S00015/teacher-aides-arent-treated-fairly-says-ash-holwell.htm
+title: Teacher Aides aren't treated fairly, says Ash Holwell
+date: 2017-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00015/teacher-aides-arent-treated-fairly-says-ash-holwell.htm
 author: green-party
+permalink: >-
+  /archive/2017/06/07/teacher-aides-arent-treated-fairly-says-ash-holwell/index.html
+layout: layout.njk
 ---
 Teacher Aides aren't treated fairly, says Ash Holwell
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: kindergarten-teachers-to-consider-pay-claim
-title: "Kindergarten Teachers To Consider Pay Claim"
-date: 2008-11-14
-source-url: https://www.scoop.co.nz/stories/BU0811/S00256/kindergarten-teachers-to-consider-pay-claim.htm
+title: Kindergarten Teachers To Consider Pay Claim
+date: 2008-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0811/S00256/kindergarten-teachers-to-consider-pay-claim.htm
 author: nzei
+permalink: /archive/2008/11/14/kindergarten-teachers-to-consider-pay-claim/index.html
+layout: layout.njk
 ---
 Kindergarten Teachers To Consider Pay Claim
 ===========================================

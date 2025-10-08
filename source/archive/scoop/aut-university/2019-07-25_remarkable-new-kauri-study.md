@@ -1,9 +1,11 @@
 ---
 slug: remarkable-new-kauri-study
-title: "Remarkable new Kauri study"
-date: 2019-07-25
+title: Remarkable new Kauri study
+date: 2019-07-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1907/S00055/remarkable-new-kauri-study.htm
 author: aut-university
+permalink: /archive/2019/07/25/remarkable-new-kauri-study/index.html
+layout: layout.njk
 ---
 Remarkable new Kauri study
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: leaving-workers-in-limbo-sends-bad-message
-title: "Leaving workers in limbo sends bad message"
-date: 2012-12-12
-source-url: https://www.scoop.co.nz/stories/PA1212/S00242/leaving-workers-in-limbo-sends-bad-message.htm
+title: Leaving workers in limbo sends bad message
+date: 2012-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00242/leaving-workers-in-limbo-sends-bad-message.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/12/leaving-workers-in-limbo-sends-bad-message/index.html
+layout: layout.njk
 ---
 Leaving workers in limbo sends bad message
 ==========================================

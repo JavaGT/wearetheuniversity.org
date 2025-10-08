@@ -1,9 +1,13 @@
 ---
 slug: waikato-agricultural-economist-wins-top-australian-award
-title: "Waikato agricultural economist wins top Australian award"
-date: 2010-11-29
-source-url: https://www.scoop.co.nz/stories/BU1011/S00829/waikato-agricultural-economist-wins-top-australian-award.htm
+title: Waikato agricultural economist wins top Australian award
+date: 2010-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1011/S00829/waikato-agricultural-economist-wins-top-australian-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/11/29/waikato-agricultural-economist-wins-top-australian-award/index.html
+layout: layout.njk
 ---
 Waikato agricultural economist wins top Australian award
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-arts-opening-week-draws-crowds-to-arts-centre
-title: "UC Arts’ opening week draws crowds to Arts Centre"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/CU1705/S00424/uc-arts-opening-week-draws-crowds-to-arts-centre.htm
+title: UC Arts’ opening week draws crowds to Arts Centre
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1705/S00424/uc-arts-opening-week-draws-crowds-to-arts-centre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/05/25/uc-arts-opening-week-draws-crowds-to-arts-centre/index.html
+layout: layout.njk
 ---
 UC Arts’ opening week draws crowds to Arts Centre
 =================================================

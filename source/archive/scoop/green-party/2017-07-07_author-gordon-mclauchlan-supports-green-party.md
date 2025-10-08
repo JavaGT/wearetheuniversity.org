@@ -1,9 +1,12 @@
 ---
 slug: author-gordon-mclauchlan-supports-green-party
-title: "Author Gordon McLauchlan supports Green Party"
-date: 2017-07-07
-source-url: https://www.scoop.co.nz/stories/PO1707/S00093/author-gordon-mclauchlan-supports-green-party.htm
+title: Author Gordon McLauchlan supports Green Party
+date: 2017-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00093/author-gordon-mclauchlan-supports-green-party.htm
 author: green-party
+permalink: /archive/2017/07/07/author-gordon-mclauchlan-supports-green-party/index.html
+layout: layout.njk
 ---
 Author Gordon McLauchlan supports Green Party
 =============================================

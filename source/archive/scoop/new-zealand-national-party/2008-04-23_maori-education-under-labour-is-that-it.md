@@ -1,9 +1,12 @@
 ---
 slug: maori-education-under-labour-is-that-it
-title: "Maori education under Labour - is that it?"
-date: 2008-04-23
-source-url: https://www.scoop.co.nz/stories/PA0804/S00548/maori-education-under-labour-is-that-it.htm
+title: Maori education under Labour - is that it?
+date: 2008-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00548/maori-education-under-labour-is-that-it.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/23/maori-education-under-labour-is-that-it/index.html
+layout: layout.njk
 ---
 Maori education under Labour - is that it?
 ==========================================

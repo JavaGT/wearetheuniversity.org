@@ -1,9 +1,12 @@
 ---
 slug: expert-panel-to-discuss-next-steps-on-tppa
-title: "Expert panel to discuss next steps on TPPA"
-date: 2016-02-22
-source-url: https://www.scoop.co.nz/stories/WO1602/S00052/expert-panel-to-discuss-next-steps-on-tppa.htm
+title: Expert panel to discuss next steps on TPPA
+date: 2016-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1602/S00052/expert-panel-to-discuss-next-steps-on-tppa.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/02/22/expert-panel-to-discuss-next-steps-on-tppa/index.html
+layout: layout.njk
 ---
 Expert panel to discuss next steps on TPPA
 ==========================================

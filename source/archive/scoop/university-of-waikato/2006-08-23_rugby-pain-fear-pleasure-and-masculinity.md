@@ -1,9 +1,12 @@
 ---
 slug: rugby-pain-fear-pleasure-and-masculinity
-title: "Rugby – Pain, Fear, Pleasure And Masculinity"
-date: 2006-08-23
-source-url: https://www.scoop.co.nz/stories/ED0608/S00072/rugby-pain-fear-pleasure-and-masculinity.htm
+title: Rugby – Pain, Fear, Pleasure And Masculinity
+date: 2006-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00072/rugby-pain-fear-pleasure-and-masculinity.htm
 author: university-of-waikato
+permalink: /archive/2006/08/23/rugby-pain-fear-pleasure-and-masculinity/index.html
+layout: layout.njk
 ---
 Rugby – Pain, Fear, Pleasure And Masculinity
 ============================================

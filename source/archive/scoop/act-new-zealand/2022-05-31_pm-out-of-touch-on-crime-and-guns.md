@@ -1,9 +1,12 @@
 ---
 slug: pm-out-of-touch-on-crime-and-guns
-title: "PM Out Of Touch On Crime And Guns"
-date: 2022-05-31
-source-url: https://www.scoop.co.nz/stories/PA2205/S00296/pm-out-of-touch-on-crime-and-guns.htm
+title: PM Out Of Touch On Crime And Guns
+date: 2022-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00296/pm-out-of-touch-on-crime-and-guns.htm
 author: act-new-zealand
+permalink: /archive/2022/05/31/pm-out-of-touch-on-crime-and-guns/index.html
+layout: layout.njk
 ---
 PM Out Of Touch On Crime And Guns
 =================================

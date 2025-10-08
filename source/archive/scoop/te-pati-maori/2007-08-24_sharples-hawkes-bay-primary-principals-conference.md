@@ -1,9 +1,13 @@
 ---
 slug: sharples-hawkes-bay-primary-principals-conference
-title: "Sharples: Hawkes Bay Primary Principals Conference"
-date: 2007-08-24
-source-url: https://www.scoop.co.nz/stories/PA0708/S00434/sharples-hawkes-bay-primary-principals-conference.htm
+title: 'Sharples: Hawkes Bay Primary Principals Conference'
+date: 2007-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00434/sharples-hawkes-bay-primary-principals-conference.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/08/24/sharples-hawkes-bay-primary-principals-conference/index.html
+layout: layout.njk
 ---
 Sharples: Hawkes Bay Primary Principals Conference
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: rocky-horror-creator-to-speak-at-waikato-uni
-title: "Rocky Horror Creator To Speak At Waikato Uni"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/ED0411/S00044/rocky-horror-creator-to-speak-at-waikato-uni.htm
+title: Rocky Horror Creator To Speak At Waikato Uni
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00044/rocky-horror-creator-to-speak-at-waikato-uni.htm
 author: waikato-university
+permalink: /archive/2004/11/15/rocky-horror-creator-to-speak-at-waikato-uni/index.html
+layout: layout.njk
 ---
 Rocky Horror Creator To Speak At Waikato Uni
 ============================================

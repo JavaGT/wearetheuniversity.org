@@ -1,9 +1,12 @@
 ---
 slug: nzs-digital-edge-discussed-at-film-symposium
-title: "NZ's digital edge discussed at film symposium"
-date: 2010-02-05
-source-url: https://www.scoop.co.nz/stories/CU1002/S00121/nzs-digital-edge-discussed-at-film-symposium.htm
+title: NZ's digital edge discussed at film symposium
+date: 2010-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1002/S00121/nzs-digital-edge-discussed-at-film-symposium.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/05/nzs-digital-edge-discussed-at-film-symposium/index.html
+layout: layout.njk
 ---
 NZ's digital edge discussed at film symposium
 =============================================

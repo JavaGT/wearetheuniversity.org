@@ -1,9 +1,11 @@
 ---
 slug: sick-kids-cant-learn
-title: "Sick kids can’t learn"
-date: 2012-10-08
+title: Sick kids can’t learn
+date: 2012-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1210/S00132/sick-kids-cant-learn.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/08/sick-kids-cant-learn/index.html
+layout: layout.njk
 ---
 Sick kids can’t learn
 =====================

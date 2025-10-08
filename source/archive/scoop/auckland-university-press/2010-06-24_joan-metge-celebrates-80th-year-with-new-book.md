@@ -1,9 +1,12 @@
 ---
 slug: joan-metge-celebrates-80th-year-with-new-book
-title: "Joan Metge Celebrates 80th Year with New Book"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/CU1006/S00317/joan-metge-celebrates-80th-year-with-new-book.htm
+title: Joan Metge Celebrates 80th Year with New Book
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1006/S00317/joan-metge-celebrates-80th-year-with-new-book.htm
 author: auckland-university-press
+permalink: /archive/2010/06/24/joan-metge-celebrates-80th-year-with-new-book/index.html
+layout: layout.njk
 ---
 Joan Metge Celebrates 80th Year with New Book
 =============================================

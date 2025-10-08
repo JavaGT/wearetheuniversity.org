@@ -1,9 +1,12 @@
 ---
 slug: brash-report-no-32-16-june-2004
-title: "Brash-Report - No. 32, 16 June 2004"
-date: 2004-06-16
-source-url: https://www.scoop.co.nz/stories/PA0406/S00225/brash-report-no-32-16-june-2004.htm
+title: Brash-Report - No. 32, 16 June 2004
+date: 2004-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00225/brash-report-no-32-16-june-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/16/brash-report-no-32-16-june-2004/index.html
+layout: layout.njk
 ---
 Brash-Report - No. 32, 16 June 2004
 ===================================

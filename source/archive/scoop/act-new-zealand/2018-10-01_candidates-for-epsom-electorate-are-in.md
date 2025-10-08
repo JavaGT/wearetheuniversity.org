@@ -1,9 +1,12 @@
 ---
 slug: candidates-for-epsom-electorate-are-in
-title: "Candidates for Epsom Electorate are In"
-date: 2018-10-01
-source-url: https://www.scoop.co.nz/stories/PA1810/S00005/candidates-for-epsom-electorate-are-in.htm
+title: Candidates for Epsom Electorate are In
+date: 2018-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00005/candidates-for-epsom-electorate-are-in.htm
 author: act-new-zealand
+permalink: /archive/2018/10/01/candidates-for-epsom-electorate-are-in/index.html
+layout: layout.njk
 ---
 Candidates for Epsom Electorate are In
 ======================================

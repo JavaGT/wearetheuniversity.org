@@ -1,9 +1,12 @@
 ---
 slug: national-moves-on-state-house-sell-off
-title: "National moves on state house sell off"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/PA1412/S00233/national-moves-on-state-house-sell-off.htm
+title: National moves on state house sell off
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00233/national-moves-on-state-house-sell-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/10/national-moves-on-state-house-sell-off/index.html
+layout: layout.njk
 ---
 National moves on state house sell off
 ======================================

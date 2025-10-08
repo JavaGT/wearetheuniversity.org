@@ -1,8 +1,12 @@
 ---
 slug: smartphone-app-study-finds-label-use-leads-to-healthier-food-choices
-title: "Smartphone app study finds label use leads to healthier food choices"
-date: 2017-12-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/12/smartphone-app-study-finds-label-use-lead-to-healthier-food-choi.html
+title: Smartphone app study finds label use leads to healthier food choices
+date: 2017-12-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/12/smartphone-app-study-finds-label-use-lead-to-healthier-food-choi.html
+permalink: >-
+  /archive/2017/12/01/smartphone-app-study-finds-label-use-leads-to-healthier-food-choices/index.html
+layout: layout.njk
 ---
 Smartphone app study finds label use leads to healthier food choices
 ====================================================================

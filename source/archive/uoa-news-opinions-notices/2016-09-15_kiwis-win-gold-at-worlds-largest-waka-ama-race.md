@@ -1,8 +1,11 @@
 ---
 slug: kiwis-win-gold-at-worlds-largest-waka-ama-race
-title: "Kiwis win gold at world’s largest Waka Ama race"
-date: 2016-09-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/kiwis-win-gold-at-worlds-largest-waka-ama-race.html
+title: Kiwis win gold at world’s largest Waka Ama race
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/kiwis-win-gold-at-worlds-largest-waka-ama-race.html
+permalink: /archive/2016/09/15/kiwis-win-gold-at-worlds-largest-waka-ama-race/index.html
+layout: layout.njk
 ---
 Kiwis win gold at world’s largest Waka Ama race
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: labour-welcomes-child-poverty-action-group-support
-title: "Labour welcomes Child Poverty Action Group support"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PA1109/S00234/labour-welcomes-child-poverty-action-group-support.htm
+title: Labour welcomes Child Poverty Action Group support
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00234/labour-welcomes-child-poverty-action-group-support.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/13/labour-welcomes-child-poverty-action-group-support/index.html
+layout: layout.njk
 ---
 Labour welcomes Child Poverty Action Group support
 ==================================================

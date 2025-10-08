@@ -1,9 +1,13 @@
 ---
 slug: jenny-shipley-speech-american-chamber-of-commerce
-title: "Jenny Shipley Speech: American Chamber of Commerce"
-date: 2001-02-19
-source-url: https://www.scoop.co.nz/stories/PA0102/S00280/jenny-shipley-speech-american-chamber-of-commerce.htm
+title: 'Jenny Shipley Speech: American Chamber of Commerce'
+date: 2001-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00280/jenny-shipley-speech-american-chamber-of-commerce.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/02/19/jenny-shipley-speech-american-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Jenny Shipley Speech: American Chamber of Commerce
 ==================================================

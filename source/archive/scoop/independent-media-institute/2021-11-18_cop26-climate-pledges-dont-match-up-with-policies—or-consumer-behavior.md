@@ -1,9 +1,13 @@
 ---
 slug: cop26-climate-pledges-dont-match-up-with-policies—or-consumer-behavior
-title: "COP26: Climate Pledges Don’t Match Up With Policies—or Consumer Behavior"
-date: 2021-11-18
-source-url: https://www.scoop.co.nz/stories/HL2111/S00048/cop26-climate-pledges-dont-match-up-with-policies-or-consumer-behavior.htm
+title: 'COP26: Climate Pledges Don’t Match Up With Policies—or Consumer Behavior'
+date: 2021-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2111/S00048/cop26-climate-pledges-dont-match-up-with-policies-or-consumer-behavior.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2021/11/18/cop26-climate-pledges-dont-match-up-with-policies/index.html
+layout: layout.njk
 ---
 COP26: Climate Pledges Don’t Match Up With Policies—or Consumer Behavior
 ========================================================================

@@ -1,9 +1,13 @@
 ---
 slug: reimagining-sexuality-and-relationships-education
-title: "Reimagining sexuality and relationships education"
-date: 2018-03-08
-source-url: https://www.scoop.co.nz/stories/ED1803/S00032/reimagining-sexuality-and-relationships-education.htm
+title: Reimagining sexuality and relationships education
+date: 2018-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00032/reimagining-sexuality-and-relationships-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/08/reimagining-sexuality-and-relationships-education/index.html
+layout: layout.njk
 ---
 Reimagining sexuality and relationships education
 =================================================

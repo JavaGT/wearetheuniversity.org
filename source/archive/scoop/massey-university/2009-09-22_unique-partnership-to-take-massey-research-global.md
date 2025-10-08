@@ -1,9 +1,13 @@
 ---
 slug: unique-partnership-to-take-massey-research-global
-title: "Unique partnership to take Massey research global"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/ED0909/S00082/unique-partnership-to-take-massey-research-global.htm
+title: Unique partnership to take Massey research global
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00082/unique-partnership-to-take-massey-research-global.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/22/unique-partnership-to-take-massey-research-global/index.html
+layout: layout.njk
 ---
 Unique partnership to take Massey research global
 =================================================

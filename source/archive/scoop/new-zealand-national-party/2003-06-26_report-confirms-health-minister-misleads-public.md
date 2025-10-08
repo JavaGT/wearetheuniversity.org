@@ -1,9 +1,12 @@
 ---
 slug: report-confirms-health-minister-misleads-public
-title: "Report confirms Health Minister misleads public"
-date: 2003-06-26
-source-url: https://www.scoop.co.nz/stories/PA0306/S00498/report-confirms-health-minister-misleads-public.htm
+title: Report confirms Health Minister misleads public
+date: 2003-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00498/report-confirms-health-minister-misleads-public.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/26/report-confirms-health-minister-misleads-public/index.html
+layout: layout.njk
 ---
 Report confirms Health Minister misleads public
 ===============================================

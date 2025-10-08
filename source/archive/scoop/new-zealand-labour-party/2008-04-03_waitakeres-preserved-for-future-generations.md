@@ -1,9 +1,12 @@
 ---
 slug: waitakeres-preserved-for-future-generations
-title: "Waitakeres preserved for future generations"
-date: 2008-04-03
-source-url: https://www.scoop.co.nz/stories/PA0804/S00086/waitakeres-preserved-for-future-generations.htm
+title: Waitakeres preserved for future generations
+date: 2008-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00086/waitakeres-preserved-for-future-generations.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/04/03/waitakeres-preserved-for-future-generations/index.html
+layout: layout.njk
 ---
 Waitakeres preserved for future generations
 ===========================================

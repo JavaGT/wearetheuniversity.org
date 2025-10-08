@@ -1,9 +1,12 @@
 ---
 slug: doctor-leaves-in-disgust-at-unfair-pho-system
-title: "Doctor leaves in disgust at unfair PHO system"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/PA0308/S00262/doctor-leaves-in-disgust-at-unfair-pho-system.htm
+title: Doctor leaves in disgust at unfair PHO system
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00262/doctor-leaves-in-disgust-at-unfair-pho-system.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/14/doctor-leaves-in-disgust-at-unfair-pho-system/index.html
+layout: layout.njk
 ---
 Doctor leaves in disgust at unfair PHO system
 =============================================

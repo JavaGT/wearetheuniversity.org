@@ -1,9 +1,12 @@
 ---
 slug: labour-selects-peter-foster-to-stand-in-otaki
-title: "Labour selects Peter Foster to stand in Otaki"
-date: 2011-05-07
-source-url: https://www.scoop.co.nz/stories/PO1105/S00100/labour-selects-peter-foster-to-stand-in-otaki.htm
+title: Labour selects Peter Foster to stand in Otaki
+date: 2011-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00100/labour-selects-peter-foster-to-stand-in-otaki.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/07/labour-selects-peter-foster-to-stand-in-otaki/index.html
+layout: layout.njk
 ---
 Labour selects Peter Foster to stand in Otaki
 =============================================

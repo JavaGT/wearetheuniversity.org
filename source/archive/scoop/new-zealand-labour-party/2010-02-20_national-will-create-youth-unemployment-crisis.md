@@ -1,9 +1,12 @@
 ---
 slug: national-will-create-youth-unemployment-crisis
-title: "National Will Create Youth Unemployment Crisis"
-date: 2010-02-20
-source-url: https://www.scoop.co.nz/stories/PA1002/S00293/national-will-create-youth-unemployment-crisis.htm
+title: National Will Create Youth Unemployment Crisis
+date: 2010-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00293/national-will-create-youth-unemployment-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/20/national-will-create-youth-unemployment-crisis/index.html
+layout: layout.njk
 ---
 National Will Create Youth Unemployment Crisis
 ==============================================

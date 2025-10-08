@@ -1,9 +1,12 @@
 ---
 slug: shame-of-abuse-victims-little-understood
-title: "Shame of abuse victims little understood"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/ED0906/S00016/shame-of-abuse-victims-little-understood.htm
+title: Shame of abuse victims little understood
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00016/shame-of-abuse-victims-little-understood.htm
 author: massey-university
+permalink: /archive/2009/06/08/shame-of-abuse-victims-little-understood/index.html
+layout: layout.njk
 ---
 Shame of abuse victims little understood
 ========================================

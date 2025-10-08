@@ -1,9 +1,13 @@
 ---
 slug: app-to-monitor-childrens-speech-expected-on-the-market-soon
-title: "App to monitor children’s speech expected on the market soon"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/SC1409/S00011/app-to-monitor-childrens-speech-expected-on-the-market-soon.htm
+title: App to monitor children’s speech expected on the market soon
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00011/app-to-monitor-childrens-speech-expected-on-the-market-soon.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/03/app-to-monitor-childrens-speech-expected-on-the-market-soon/index.html
+layout: layout.njk
 ---
 App to monitor children’s speech expected on the market soon
 ============================================================

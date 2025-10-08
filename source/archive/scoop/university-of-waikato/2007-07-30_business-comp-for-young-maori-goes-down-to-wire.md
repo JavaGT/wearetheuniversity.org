@@ -1,9 +1,12 @@
 ---
 slug: business-comp-for-young-maori-goes-down-to-wire
-title: "Business comp for young Maori goes down to wire"
-date: 2007-07-30
-source-url: https://www.scoop.co.nz/stories/ED0707/S00092/business-comp-for-young-maori-goes-down-to-wire.htm
+title: Business comp for young Maori goes down to wire
+date: 2007-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00092/business-comp-for-young-maori-goes-down-to-wire.htm
 author: university-of-waikato
+permalink: /archive/2007/07/30/business-comp-for-young-maori-goes-down-to-wire/index.html
+layout: layout.njk
 ---
 Business comp for young Maori goes down to wire
 ===============================================

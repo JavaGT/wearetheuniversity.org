@@ -1,9 +1,12 @@
 ---
 slug: annette-king-speech-to-2015-nzlp-conference
-title: "Annette King - Speech to 2015 NZLP Conference"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/PA1511/S00129/annette-king-speech-to-2015-nzlp-conference.htm
+title: Annette King - Speech to 2015 NZLP Conference
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00129/annette-king-speech-to-2015-nzlp-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/09/annette-king-speech-to-2015-nzlp-conference/index.html
+layout: layout.njk
 ---
 Annette King - Speech to 2015 NZLP Conference
 =============================================

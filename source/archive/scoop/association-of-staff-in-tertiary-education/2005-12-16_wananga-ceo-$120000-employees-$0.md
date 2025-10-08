@@ -1,9 +1,12 @@
 ---
 slug: wananga-ceo-$120000-employees-$0
-title: "Wananga CEO $120,000 – Employees $0"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/ED0512/S00074/wananga-ceo-120000-employees-0.htm
+title: Wananga CEO $120,000 – Employees $0
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00074/wananga-ceo-120000-employees-0.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/12/16/wananga-ceo-/index.html
+layout: layout.njk
 ---
 Wananga CEO $120,000 – Employees $0
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: government-silent-on-surplus-money-reaped-from-student-loans
-title: "Government silent on surplus money reaped from Student Loans"
-date: 2013-12-12
-source-url: https://www.scoop.co.nz/stories/ED1312/S00080/government-silent-on-surplus-money-reaped-from-student-loans.htm
+title: Government silent on surplus money reaped from Student Loans
+date: 2013-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00080/government-silent-on-surplus-money-reaped-from-student-loans.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/12/12/government-silent-on-surplus-money-reaped-from-student-loans/index.html
+layout: layout.njk
 ---
 Government silent on surplus money reaped from Student Loans
 ============================================================

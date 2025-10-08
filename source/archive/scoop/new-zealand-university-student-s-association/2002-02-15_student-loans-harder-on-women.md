@@ -1,9 +1,12 @@
 ---
 slug: student-loans-harder-on-women
-title: "Student Loans Harder On Women"
-date: 2002-02-15
-source-url: https://www.scoop.co.nz/stories/ED0202/S00010/student-loans-harder-on-women.htm
+title: Student Loans Harder On Women
+date: 2002-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00010/student-loans-harder-on-women.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/02/15/student-loans-harder-on-women/index.html
+layout: layout.njk
 ---
 Student Loans Harder On Women
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: the-abandoned-generations-poised-to-be-left-out-of-budget
-title: "The abandoned generations poised to be left out of budget"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/PA1505/S00294/the-abandoned-generations-poised-to-be-left-out-of-budget.htm
+title: The abandoned generations poised to be left out of budget
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00294/the-abandoned-generations-poised-to-be-left-out-of-budget.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/20/the-abandoned-generations-poised-to-be-left-out-of-budget/index.html
+layout: layout.njk
 ---
 The abandoned generations poised to be left out of budget
 =========================================================

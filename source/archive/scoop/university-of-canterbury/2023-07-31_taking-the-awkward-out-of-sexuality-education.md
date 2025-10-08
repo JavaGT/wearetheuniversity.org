@@ -1,9 +1,12 @@
 ---
 slug: taking-the-awkward-out-of-sexuality-education
-title: "Taking The Awkward Out Of Sexuality Education"
-date: 2023-07-31
-source-url: https://www.scoop.co.nz/stories/ED2307/S00038/taking-the-awkward-out-of-sexuality-education.htm
+title: Taking The Awkward Out Of Sexuality Education
+date: 2023-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2307/S00038/taking-the-awkward-out-of-sexuality-education.htm
 author: university-of-canterbury
+permalink: /archive/2023/07/31/taking-the-awkward-out-of-sexuality-education/index.html
+layout: layout.njk
 ---
 Taking The Awkward Out Of Sexuality Education
 =============================================

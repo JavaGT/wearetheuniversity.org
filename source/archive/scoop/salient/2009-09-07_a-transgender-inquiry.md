@@ -1,9 +1,11 @@
 ---
 slug: a-transgender-inquiry
-title: "A Transgender Inquiry"
-date: 2009-09-07
+title: A Transgender Inquiry
+date: 2009-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0909/S00038/a-transgender-inquiry.htm
 author: salient
+permalink: /archive/2009/09/07/a-transgender-inquiry/index.html
+layout: layout.njk
 ---
 A Transgender Inquiry
 =====================

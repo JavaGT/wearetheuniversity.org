@@ -1,9 +1,12 @@
 ---
 slug: improving-maori-participation-in-education
-title: "Improving Maori Participation In Education"
-date: 2007-02-22
-source-url: https://www.scoop.co.nz/stories/PA0702/S00423/improving-maori-participation-in-education.htm
+title: Improving Maori Participation In Education
+date: 2007-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00423/improving-maori-participation-in-education.htm
 author: new-zealand-first-party
+permalink: /archive/2007/02/22/improving-maori-participation-in-education/index.html
+layout: layout.njk
 ---
 Improving Maori Participation In Education
 ==========================================

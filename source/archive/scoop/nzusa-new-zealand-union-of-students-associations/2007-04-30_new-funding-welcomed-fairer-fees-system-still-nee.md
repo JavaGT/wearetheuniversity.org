@@ -1,9 +1,13 @@
 ---
 slug: new-funding-welcomed-fairer-fees-system-still-nee
-title: "New Funding Welcomed, Fairer Fees System Still Nee"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/ED0704/S00100/new-funding-welcomed-fairer-fees-system-still-nee.htm
+title: New Funding Welcomed, Fairer Fees System Still Nee
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00100/new-funding-welcomed-fairer-fees-system-still-nee.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2007/04/30/new-funding-welcomed-fairer-fees-system-still-nee/index.html
+layout: layout.njk
 ---
 New Funding Welcomed, Fairer Fees System Still Nee
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: urgently-increase-public-housing-now
-title: "Urgently Increase Public Housing Now"
-date: 2022-02-16
-source-url: https://www.scoop.co.nz/stories/PA2202/S00101/urgently-increase-public-housing-now.htm
+title: Urgently Increase Public Housing Now
+date: 2022-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00101/urgently-increase-public-housing-now.htm
 author: green-party
+permalink: /archive/2022/02/16/urgently-increase-public-housing-now/index.html
+layout: layout.njk
 ---
 Urgently Increase Public Housing Now
 ====================================

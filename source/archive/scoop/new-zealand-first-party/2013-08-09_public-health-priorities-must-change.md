@@ -1,9 +1,12 @@
 ---
 slug: public-health-priorities-must-change
-title: "Public Health Priorities Must Change"
-date: 2013-08-09
-source-url: https://www.scoop.co.nz/stories/PA1308/S00168/public-health-priorities-must-change.htm
+title: Public Health Priorities Must Change
+date: 2013-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00168/public-health-priorities-must-change.htm
 author: new-zealand-first-party
+permalink: /archive/2013/08/09/public-health-priorities-must-change/index.html
+layout: layout.njk
 ---
 Public Health Priorities Must Change
 ====================================

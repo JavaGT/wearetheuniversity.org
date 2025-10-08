@@ -1,9 +1,12 @@
 ---
 slug: a-major-step-towards-nationhood
-title: "A Major Step Towards Nationhood"
-date: 2001-05-08
-source-url: https://www.scoop.co.nz/stories/PA0105/S00173/a-major-step-towards-nationhood.htm
+title: A Major Step Towards Nationhood
+date: 2001-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00173/a-major-step-towards-nationhood.htm
 author: green-party
+permalink: /archive/2001/05/08/a-major-step-towards-nationhood/index.html
+layout: layout.njk
 ---
 A Major Step Towards Nationhood
 ===============================

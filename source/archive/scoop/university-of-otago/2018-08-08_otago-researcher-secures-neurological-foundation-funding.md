@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-secures-neurological-foundation-funding
-title: "Otago researcher secures Neurological Foundation funding"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/GE1808/S00021/otago-researcher-secures-neurological-foundation-funding.htm
+title: Otago researcher secures Neurological Foundation funding
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00021/otago-researcher-secures-neurological-foundation-funding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/08/otago-researcher-secures-neurological-foundation-funding/index.html
+layout: layout.njk
 ---
 Otago researcher secures Neurological Foundation funding
 ========================================================

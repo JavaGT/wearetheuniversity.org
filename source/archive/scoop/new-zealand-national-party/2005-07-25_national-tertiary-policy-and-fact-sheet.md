@@ -1,9 +1,12 @@
 ---
 slug: national-tertiary-policy-and-fact-sheet
-title: "National Tertiary Policy and Fact Sheet"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PA0507/S00502/national-tertiary-policy-and-fact-sheet.htm
+title: National Tertiary Policy and Fact Sheet
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00502/national-tertiary-policy-and-fact-sheet.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/25/national-tertiary-policy-and-fact-sheet/index.html
+layout: layout.njk
 ---
 National Tertiary Policy and Fact Sheet
 =======================================

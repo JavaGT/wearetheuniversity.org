@@ -1,9 +1,13 @@
 ---
 slug: robot-expert-concerned-about-more-angry-faces-on-lego
-title: "Robot Expert Concerned About More Angry Faces on LEGO"
-date: 2013-06-04
-source-url: https://www.scoop.co.nz/stories/SC1306/S00007/robot-expert-concerned-about-more-angry-faces-on-lego.htm
+title: Robot Expert Concerned About More Angry Faces on LEGO
+date: 2013-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00007/robot-expert-concerned-about-more-angry-faces-on-lego.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/04/robot-expert-concerned-about-more-angry-faces-on-lego/index.html
+layout: layout.njk
 ---
 Robot Expert Concerned About More Angry Faces on LEGO
 =====================================================

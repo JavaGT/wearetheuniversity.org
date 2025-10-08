@@ -1,9 +1,12 @@
 ---
 slug: several-national-firsts-for-ucs-school-of-law
-title: "Several national firsts for UC’s School of Law"
-date: 2013-09-24
-source-url: https://www.scoop.co.nz/stories/ED1309/S00141/several-national-firsts-for-ucs-school-of-law.htm
+title: Several national firsts for UC’s School of Law
+date: 2013-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00141/several-national-firsts-for-ucs-school-of-law.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/24/several-national-firsts-for-ucs-school-of-law/index.html
+layout: layout.njk
 ---
 Several national firsts for UC’s School of Law
 ==============================================

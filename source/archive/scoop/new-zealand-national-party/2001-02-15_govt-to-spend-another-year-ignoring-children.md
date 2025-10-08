@@ -1,9 +1,12 @@
 ---
 slug: govt-to-spend-another-year-ignoring-children
-title: "Govt To Spend Another Year Ignoring Children"
-date: 2001-02-15
-source-url: https://www.scoop.co.nz/stories/PA0102/S00211/govt-to-spend-another-year-ignoring-children.htm
+title: Govt To Spend Another Year Ignoring Children
+date: 2001-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00211/govt-to-spend-another-year-ignoring-children.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/15/govt-to-spend-another-year-ignoring-children/index.html
+layout: layout.njk
 ---
 Govt To Spend Another Year Ignoring Children
 ============================================

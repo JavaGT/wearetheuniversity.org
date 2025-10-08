@@ -1,9 +1,12 @@
 ---
 slug: nz-&-australian-child-health-research-institutes-join-forces
-title: "NZ & Australian Child Health Research Institutes Join Forces"
-date: 2017-07-03
-source-url: https://www.scoop.co.nz/stories/ED1707/S00002/nz-australian-child-health-research-institutes-join-forces.htm
+title: NZ & Australian Child Health Research Institutes Join Forces
+date: 2017-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00002/nz-australian-child-health-research-institutes-join-forces.htm
 author: auckland-university
+permalink: /archive/2017/07/03/nz-/index.html
+layout: layout.njk
 ---
 NZ & Australian Child Health Research Institutes Join Forces
 ============================================================

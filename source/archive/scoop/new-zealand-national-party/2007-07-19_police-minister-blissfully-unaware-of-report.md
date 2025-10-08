@@ -1,9 +1,12 @@
 ---
 slug: police-minister-blissfully-unaware-of-report
-title: "Police Minister blissfully unaware of report"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00319/police-minister-blissfully-unaware-of-report.htm
+title: Police Minister blissfully unaware of report
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00319/police-minister-blissfully-unaware-of-report.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/19/police-minister-blissfully-unaware-of-report/index.html
+layout: layout.njk
 ---
 Police Minister blissfully unaware of report
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: give-foss-the-flick-and-fix-novopay-hekia
-title: "Give Foss the flick and fix Novopay, Hekia"
-date: 2012-11-11
-source-url: https://www.scoop.co.nz/stories/PA1211/S00189/give-foss-the-flick-and-fix-novopay-hekia.htm
+title: Give Foss the flick and fix Novopay, Hekia
+date: 2012-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00189/give-foss-the-flick-and-fix-novopay-hekia.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/11/give-foss-the-flick-and-fix-novopay-hekia/index.html
+layout: layout.njk
 ---
 Give Foss the flick and fix Novopay, Hekia
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: biggest-issue-left-out-of-cow-welfare-code
-title: "Biggest Issue Left Out of Cow Welfare Code"
-date: 2010-02-19
-source-url: https://www.scoop.co.nz/stories/PA1002/S00291/biggest-issue-left-out-of-cow-welfare-code.htm
+title: Biggest Issue Left Out of Cow Welfare Code
+date: 2010-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00291/biggest-issue-left-out-of-cow-welfare-code.htm
 author: green-party
+permalink: /archive/2010/02/19/biggest-issue-left-out-of-cow-welfare-code/index.html
+layout: layout.njk
 ---
 Biggest Issue Left Out of Cow Welfare Code
 ==========================================

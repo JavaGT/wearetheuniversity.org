@@ -1,9 +1,13 @@
 ---
 slug: trains-not-cyclists-vital-for-gisborne-and-hawkes-bay
-title: "Trains Not Cyclists Vital for Gisborne And Hawke’s Bay"
-date: 2014-11-25
-source-url: https://www.scoop.co.nz/stories/PA1411/S00298/trains-not-cyclists-vital-for-gisborne-and-hawkes-bay.htm
+title: Trains Not Cyclists Vital for Gisborne And Hawke’s Bay
+date: 2014-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00298/trains-not-cyclists-vital-for-gisborne-and-hawkes-bay.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/11/25/trains-not-cyclists-vital-for-gisborne-and-hawkes-bay/index.html
+layout: layout.njk
 ---
 Trains Not Cyclists Vital for Gisborne And Hawke’s Bay
 ======================================================

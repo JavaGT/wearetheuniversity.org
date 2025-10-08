@@ -1,9 +1,12 @@
 ---
 slug: student-loans-to-blame-for-brain-drain
-title: "Student loans to blame for brain drain"
-date: 2004-12-08
-source-url: https://www.scoop.co.nz/stories/ED0412/S00033/student-loans-to-blame-for-brain-drain.htm
+title: Student loans to blame for brain drain
+date: 2004-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00033/student-loans-to-blame-for-brain-drain.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/12/08/student-loans-to-blame-for-brain-drain/index.html
+layout: layout.njk
 ---
 Student loans to blame for brain drain
 ======================================

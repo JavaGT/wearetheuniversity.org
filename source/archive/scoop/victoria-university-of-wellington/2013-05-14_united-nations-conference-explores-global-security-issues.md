@@ -1,9 +1,13 @@
 ---
 slug: united-nations-conference-explores-global-security-issues
-title: "United Nations conference explores global security issues"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/PO1305/S00180/united-nations-conference-explores-global-security-issues.htm
+title: United Nations conference explores global security issues
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00180/united-nations-conference-explores-global-security-issues.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/05/14/united-nations-conference-explores-global-security-issues/index.html
+layout: layout.njk
 ---
 United Nations conference explores global security issues
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: mark-calls-for-byers-to-resign
-title: "Mark Calls For Byers To Resign"
-date: 2002-11-14
-source-url: https://www.scoop.co.nz/stories/PA0211/S00348/mark-calls-for-byers-to-resign.htm
+title: Mark Calls For Byers To Resign
+date: 2002-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00348/mark-calls-for-byers-to-resign.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/14/mark-calls-for-byers-to-resign/index.html
+layout: layout.njk
 ---
 Mark Calls For Byers To Resign
 ==============================

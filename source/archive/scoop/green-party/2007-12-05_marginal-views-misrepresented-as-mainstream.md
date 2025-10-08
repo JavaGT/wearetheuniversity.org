@@ -1,9 +1,12 @@
 ---
 slug: marginal-views-misrepresented-as-mainstream
-title: "Marginal views misrepresented as mainstream"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/PA0712/S00089/marginal-views-misrepresented-as-mainstream.htm
+title: Marginal views misrepresented as mainstream
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00089/marginal-views-misrepresented-as-mainstream.htm
 author: green-party
+permalink: /archive/2007/12/05/marginal-views-misrepresented-as-mainstream/index.html
+layout: layout.njk
 ---
 Marginal views misrepresented as mainstream
 ===========================================

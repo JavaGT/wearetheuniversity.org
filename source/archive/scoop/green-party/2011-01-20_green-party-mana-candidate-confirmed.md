@@ -1,9 +1,12 @@
 ---
 slug: green-party-mana-candidate-confirmed
-title: "Green Party Mana candidate confirmed"
-date: 2011-01-20
-source-url: https://www.scoop.co.nz/stories/PA1101/S00060/green-party-mana-candidate-confirmed.htm
+title: Green Party Mana candidate confirmed
+date: 2011-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00060/green-party-mana-candidate-confirmed.htm
 author: green-party
+permalink: /archive/2011/01/20/green-party-mana-candidate-confirmed/index.html
+layout: layout.njk
 ---
 Green Party Mana candidate confirmed
 ====================================

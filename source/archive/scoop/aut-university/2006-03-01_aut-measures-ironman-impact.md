@@ -1,9 +1,11 @@
 ---
 slug: aut-measures-ironman-impact
-title: "AUT measures Ironman impact"
-date: 2006-03-01
+title: AUT measures Ironman impact
+date: 2006-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0603/S00004/aut-measures-ironman-impact.htm
 author: aut-university
+permalink: /archive/2006/03/01/aut-measures-ironman-impact/index.html
+layout: layout.njk
 ---
 AUT measures Ironman impact
 ===========================

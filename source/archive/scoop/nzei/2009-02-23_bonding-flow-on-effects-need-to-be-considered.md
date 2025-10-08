@@ -1,9 +1,12 @@
 ---
 slug: bonding-flow-on-effects-need-to-be-considered
-title: "Bonding Flow On Effects Need To Be Considered"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/ED0902/S00080/bonding-flow-on-effects-need-to-be-considered.htm
+title: Bonding Flow On Effects Need To Be Considered
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00080/bonding-flow-on-effects-need-to-be-considered.htm
 author: nzei
+permalink: /archive/2009/02/23/bonding-flow-on-effects-need-to-be-considered/index.html
+layout: layout.njk
 ---
 Bonding Flow On Effects Need To Be Considered
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: therapeutic-agency-plans-opposed
-title: "Therapeutic agency plans opposed"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/PA0703/S00576/therapeutic-agency-plans-opposed.htm
+title: Therapeutic agency plans opposed
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00576/therapeutic-agency-plans-opposed.htm
 author: green-party
+permalink: /archive/2007/03/28/therapeutic-agency-plans-opposed/index.html
+layout: layout.njk
 ---
 Therapeutic agency plans opposed
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: government-back-down-on-phone-assessments-of-home-help
-title: "Government back-down on phone assessments of home help"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/PA1110/S00232/government-back-down-on-phone-assessments-of-home-help.htm
+title: Government back-down on phone assessments of home help
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00232/government-back-down-on-phone-assessments-of-home-help.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/10/12/government-back-down-on-phone-assessments-of-home-help/index.html
+layout: layout.njk
 ---
 Government back-down on phone assessments of home help
 ======================================================

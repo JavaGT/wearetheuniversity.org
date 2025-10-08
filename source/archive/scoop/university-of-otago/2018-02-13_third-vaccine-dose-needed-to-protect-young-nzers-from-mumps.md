@@ -1,9 +1,13 @@
 ---
 slug: third-vaccine-dose-needed-to-protect-young-nzers-from-mumps
-title: "Third vaccine dose needed to protect young NZers from mumps"
-date: 2018-02-13
-source-url: https://www.scoop.co.nz/stories/GE1802/S00042/third-vaccine-dose-needed-to-protect-young-nzers-from-mumps.htm
+title: Third vaccine dose needed to protect young NZers from mumps
+date: 2018-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00042/third-vaccine-dose-needed-to-protect-young-nzers-from-mumps.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/13/third-vaccine-dose-needed-to-protect-young-nzers-from-mumps/index.html
+layout: layout.njk
 ---
 Third vaccine dose needed to protect young NZers from mumps
 ===========================================================

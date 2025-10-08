@@ -1,9 +1,16 @@
 ---
-slug: hipkins-half-hearted-attempt-to-secure-miq-spots-for-healthcare-workers-too-long-overdue
-title: "Hipkins’ Half-hearted Attempt To Secure MIQ Spots For Healthcare Workers Too Long Overdue"
-date: 2021-10-11
-source-url: https://www.scoop.co.nz/stories/PA2110/S00101/hipkins-half-hearted-attempt-to-secure-miq-spots-for-healthcare-workers-too-long-overdue.htm
+slug: >-
+  hipkins-half-hearted-attempt-to-secure-miq-spots-for-healthcare-workers-too-long-overdue
+title: >-
+  Hipkins’ Half-hearted Attempt To Secure MIQ Spots For Healthcare Workers Too
+  Long Overdue
+date: 2021-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00101/hipkins-half-hearted-attempt-to-secure-miq-spots-for-healthcare-workers-too-long-overdue.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/11/hipkins-half-hearted-attempt-to-secure-miq-spots-for-healthcare-workers-too-long-overdue/index.html
+layout: layout.njk
 ---
 Hipkins’ Half-hearted Attempt To Secure MIQ Spots For Healthcare Workers Too Long Overdue
 =========================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: next-generation-sanitisers-to-control-bovine-mastitis
-title: "next-generation sanitisers to control bovine mastitis"
-date: 2017-03-17
-source-url: https://www.scoop.co.nz/stories/SC1703/S00040/next-generation-sanitisers-to-control-bovine-mastitis.htm
+title: next-generation sanitisers to control bovine mastitis
+date: 2017-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00040/next-generation-sanitisers-to-control-bovine-mastitis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/17/next-generation-sanitisers-to-control-bovine-mastitis/index.html
+layout: layout.njk
 ---
 next-generation sanitisers to control bovine mastitis
 =====================================================

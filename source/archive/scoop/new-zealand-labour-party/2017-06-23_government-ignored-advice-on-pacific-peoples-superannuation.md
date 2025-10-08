@@ -1,9 +1,13 @@
 ---
 slug: government-ignored-advice-on-pacific-peoples-superannuation
-title: "Government ignored advice on Pacific people’s superannuation"
-date: 2017-06-23
-source-url: https://www.scoop.co.nz/stories/PA1706/S00388/government-ignored-advice-on-pacific-peoples-superannuation.htm
+title: Government ignored advice on Pacific people’s superannuation
+date: 2017-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00388/government-ignored-advice-on-pacific-peoples-superannuation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/23/government-ignored-advice-on-pacific-peoples-superannuation/index.html
+layout: layout.njk
 ---
 Government ignored advice on Pacific people’s superannuation
 ============================================================

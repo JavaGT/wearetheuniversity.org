@@ -1,9 +1,12 @@
 ---
 slug: big-backdown-looms-on-ge-labelling-kedgley
-title: "Big Backdown Looms On GE Labelling - Kedgley"
-date: 2000-07-02
-source-url: https://www.scoop.co.nz/stories/PA0007/S00002/big-backdown-looms-on-ge-labelling-kedgley.htm
+title: Big Backdown Looms On GE Labelling - Kedgley
+date: 2000-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00002/big-backdown-looms-on-ge-labelling-kedgley.htm
 author: green-party
+permalink: /archive/2000/07/02/big-backdown-looms-on-ge-labelling-kedgley/index.html
+layout: layout.njk
 ---
 Big Backdown Looms On GE Labelling - Kedgley
 ============================================

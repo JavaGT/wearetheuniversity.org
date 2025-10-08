@@ -1,9 +1,11 @@
 ---
 slug: donnas-right-says-prebble
-title: "Donna’s Right, Says Prebble"
-date: 2001-11-14
+title: Donna’s Right, Says Prebble
+date: 2001-11-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0111/S00253/donnas-right-says-prebble.htm
 author: act-new-zealand
+permalink: /archive/2001/11/14/donnas-right-says-prebble/index.html
+layout: layout.njk
 ---
 Donna’s Right, Says Prebble
 ===========================

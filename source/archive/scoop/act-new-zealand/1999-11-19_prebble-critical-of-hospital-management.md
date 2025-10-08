@@ -1,9 +1,12 @@
 ---
 slug: prebble-critical-of-hospital-management
-title: "Prebble critical of hospital management"
-date: 1999-11-19
-source-url: https://www.scoop.co.nz/stories/PA9911/S00469/prebble-critical-of-hospital-management.htm
+title: Prebble critical of hospital management
+date: 1999-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00469/prebble-critical-of-hospital-management.htm
 author: act-new-zealand
+permalink: /archive/1999/11/19/prebble-critical-of-hospital-management/index.html
+layout: layout.njk
 ---
 Prebble critical of hospital management
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: epidemic-of-hospital-emergency-code-reds
-title: "Epidemic of hospital emergency 'Code Reds'"
-date: 2008-05-30
-source-url: https://www.scoop.co.nz/stories/PA0805/S00645/epidemic-of-hospital-emergency-code-reds.htm
+title: Epidemic of hospital emergency 'Code Reds'
+date: 2008-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00645/epidemic-of-hospital-emergency-code-reds.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/30/epidemic-of-hospital-emergency-code-reds/index.html
+layout: layout.njk
 ---
 Epidemic of hospital emergency 'Code Reds'
 ==========================================

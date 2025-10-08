@@ -1,9 +1,13 @@
 ---
 slug: parents-needed-for-survey-into-nz-childrens-first-words
-title: "Parents needed for survey into NZ children’s first words"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/SC1409/S00037/parents-needed-for-survey-into-nz-childrens-first-words.htm
+title: Parents needed for survey into NZ children’s first words
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00037/parents-needed-for-survey-into-nz-childrens-first-words.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/10/parents-needed-for-survey-into-nz-childrens-first-words/index.html
+layout: layout.njk
 ---
 Parents needed for survey into NZ children’s first words
 ========================================================

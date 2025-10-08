@@ -1,9 +1,12 @@
 ---
 slug: local-mp-helps-with-school-makeover
-title: "Local MP helps with school makeover"
-date: 2011-03-16
-source-url: https://www.scoop.co.nz/stories/PA1103/S00268/local-mp-helps-with-school-makeover.htm
+title: Local MP helps with school makeover
+date: 2011-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00268/local-mp-helps-with-school-makeover.htm
 author: new-zealand-national-party
+permalink: /archive/2011/03/16/local-mp-helps-with-school-makeover/index.html
+layout: layout.njk
 ---
 Local MP helps with school makeover
 ===================================

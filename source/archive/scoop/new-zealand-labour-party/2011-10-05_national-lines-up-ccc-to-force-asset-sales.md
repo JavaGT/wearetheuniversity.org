@@ -1,9 +1,12 @@
 ---
 slug: national-lines-up-ccc-to-force-asset-sales
-title: "National lines up CCC to force asset sales"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00122/national-lines-up-ccc-to-force-asset-sales.htm
+title: National lines up CCC to force asset sales
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00122/national-lines-up-ccc-to-force-asset-sales.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/05/national-lines-up-ccc-to-force-asset-sales/index.html
+layout: layout.njk
 ---
 National lines up CCC to force asset sales
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: change-funding-or-were-co-hosting-rwc-with-aussies
-title: "‘Change funding or we’re co-hosting RWC with Aussies’"
-date: 2011-10-26
-source-url: https://www.scoop.co.nz/stories/PO1110/S00453/change-funding-or-were-co-hosting-rwc-with-aussies.htm
+title: ‘Change funding or we’re co-hosting RWC with Aussies’
+date: 2011-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00453/change-funding-or-were-co-hosting-rwc-with-aussies.htm
 author: massey-university
+permalink: >-
+  /archive/2011/10/26/change-funding-or-were-co-hosting-rwc-with-aussies/index.html
+layout: layout.njk
 ---
 ‘Change funding or we’re co-hosting RWC with Aussies’
 =====================================================

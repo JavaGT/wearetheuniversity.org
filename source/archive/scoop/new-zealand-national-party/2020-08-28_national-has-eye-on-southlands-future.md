@@ -1,9 +1,12 @@
 ---
 slug: national-has-eye-on-southlands-future
-title: "National Has Eye On Southland’s Future"
-date: 2020-08-28
-source-url: https://www.scoop.co.nz/stories/PO2008/S00345/national-has-eye-on-southlands-future.htm
+title: National Has Eye On Southland’s Future
+date: 2020-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00345/national-has-eye-on-southlands-future.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/28/national-has-eye-on-southlands-future/index.html
+layout: layout.njk
 ---
 National Has Eye On Southland’s Future
 ======================================

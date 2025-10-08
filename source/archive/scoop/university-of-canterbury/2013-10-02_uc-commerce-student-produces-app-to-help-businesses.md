@@ -1,9 +1,13 @@
 ---
 slug: uc-commerce-student-produces-app-to-help-businesses
-title: "UC commerce student produces app to help businesses"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/BU1310/S00120/uc-commerce-student-produces-app-to-help-businesses.htm
+title: UC commerce student produces app to help businesses
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1310/S00120/uc-commerce-student-produces-app-to-help-businesses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/02/uc-commerce-student-produces-app-to-help-businesses/index.html
+layout: layout.njk
 ---
 UC commerce student produces app to help businesses
 ===================================================

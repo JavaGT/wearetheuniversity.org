@@ -1,9 +1,12 @@
 ---
 slug: newest-victoria-graduates-celebrate-success
-title: "Newest Victoria graduates celebrate success"
-date: 2008-12-01
-source-url: https://www.scoop.co.nz/stories/ED0812/S00002/newest-victoria-graduates-celebrate-success.htm
+title: Newest Victoria graduates celebrate success
+date: 2008-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00002/newest-victoria-graduates-celebrate-success.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/12/01/newest-victoria-graduates-celebrate-success/index.html
+layout: layout.njk
 ---
 Newest Victoria graduates celebrate success
 ===========================================

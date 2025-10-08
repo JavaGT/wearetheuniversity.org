@@ -1,9 +1,12 @@
 ---
 slug: socio-economic-deprivation-index-update
-title: "Socio-economic Deprivation Index update"
-date: 2007-11-19
-source-url: https://www.scoop.co.nz/stories/ED0711/S00089/socio-economic-deprivation-index-update.htm
+title: Socio-economic Deprivation Index update
+date: 2007-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00089/socio-economic-deprivation-index-update.htm
 author: university-of-otago
+permalink: /archive/2007/11/19/socio-economic-deprivation-index-update/index.html
+layout: layout.njk
 ---
 Socio-economic Deprivation Index update
 =======================================

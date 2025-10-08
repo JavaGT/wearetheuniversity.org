@@ -1,9 +1,12 @@
 ---
 slug: health-minister-lets-down-cancer-patients
-title: "Health Minister lets down cancer patients"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00667/health-minister-lets-down-cancer-patients.htm
+title: Health Minister lets down cancer patients
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00667/health-minister-lets-down-cancer-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/25/health-minister-lets-down-cancer-patients/index.html
+layout: layout.njk
 ---
 Health Minister lets down cancer patients
 =========================================

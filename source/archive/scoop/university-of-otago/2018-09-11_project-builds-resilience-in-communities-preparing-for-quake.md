@@ -1,9 +1,13 @@
 ---
 slug: project-builds-resilience-in-communities-preparing-for-quake
-title: "Project builds resilience in communities preparing for quake"
-date: 2018-09-11
-source-url: https://www.scoop.co.nz/stories/SC1809/S00009/project-builds-resilience-in-communities-preparing-for-quake.htm
+title: Project builds resilience in communities preparing for quake
+date: 2018-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1809/S00009/project-builds-resilience-in-communities-preparing-for-quake.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/11/project-builds-resilience-in-communities-preparing-for-quake/index.html
+layout: layout.njk
 ---
 Project builds resilience in communities preparing for quake
 ============================================================

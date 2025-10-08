@@ -1,9 +1,12 @@
 ---
 slug: civics-education-initiative-should-be-expanded
-title: "Civics education initiative should be expanded"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/PA0503/S00379/civics-education-initiative-should-be-expanded.htm
+title: Civics education initiative should be expanded
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00379/civics-education-initiative-should-be-expanded.htm
 author: green-party
+permalink: /archive/2005/03/17/civics-education-initiative-should-be-expanded/index.html
+layout: layout.njk
 ---
 Civics education initiative should be expanded
 ==============================================

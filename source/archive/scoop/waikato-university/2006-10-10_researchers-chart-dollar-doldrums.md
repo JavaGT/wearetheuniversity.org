@@ -1,9 +1,12 @@
 ---
 slug: researchers-chart-dollar-doldrums
-title: "Researchers chart dollar doldrums"
-date: 2006-10-10
-source-url: https://www.scoop.co.nz/stories/ED0610/S00037/researchers-chart-dollar-doldrums.htm
+title: Researchers chart dollar doldrums
+date: 2006-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00037/researchers-chart-dollar-doldrums.htm
 author: waikato-university
+permalink: /archive/2006/10/10/researchers-chart-dollar-doldrums/index.html
+layout: layout.njk
 ---
 Researchers chart dollar doldrums
 =================================

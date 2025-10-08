@@ -1,9 +1,12 @@
 ---
 slug: burton-plays-fast-and-loose-with-defence
-title: "Burton plays fast and loose with defence"
-date: 2000-12-19
-source-url: https://www.scoop.co.nz/stories/PA0012/S00329/burton-plays-fast-and-loose-with-defence.htm
+title: Burton plays fast and loose with defence
+date: 2000-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00329/burton-plays-fast-and-loose-with-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2000/12/19/burton-plays-fast-and-loose-with-defence/index.html
+layout: layout.njk
 ---
 Burton plays fast and loose with defence
 ========================================

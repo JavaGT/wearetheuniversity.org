@@ -1,9 +1,12 @@
 ---
 slug: cullen-delivers-more-bad-news-for-business
-title: "Cullen delivers more bad news for business"
-date: 2000-07-05
-source-url: https://www.scoop.co.nz/stories/PA0007/S00066/cullen-delivers-more-bad-news-for-business.htm
+title: Cullen delivers more bad news for business
+date: 2000-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00066/cullen-delivers-more-bad-news-for-business.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/05/cullen-delivers-more-bad-news-for-business/index.html
+layout: layout.njk
 ---
 Cullen delivers more bad news for business
 ==========================================

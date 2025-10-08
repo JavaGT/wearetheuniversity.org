@@ -1,9 +1,13 @@
 ---
 slug: nzei-members-applaud-primary-teachers-settlement
-title: "NZEI Members Applaud Primary Teachers Settlement"
-date: 2004-09-20
-source-url: https://www.scoop.co.nz/stories/ED0409/S00086/nzei-members-applaud-primary-teachers-settlement.htm
+title: NZEI Members Applaud Primary Teachers Settlement
+date: 2004-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00086/nzei-members-applaud-primary-teachers-settlement.htm
 author: nzei
+permalink: >-
+  /archive/2004/09/20/nzei-members-applaud-primary-teachers-settlement/index.html
+layout: layout.njk
 ---
 NZEI Members Applaud Primary Teachers Settlement
 ================================================

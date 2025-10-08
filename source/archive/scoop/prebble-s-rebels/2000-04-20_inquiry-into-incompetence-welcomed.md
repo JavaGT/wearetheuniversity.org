@@ -1,9 +1,12 @@
 ---
 slug: inquiry-into-incompetence-welcomed
-title: "Inquiry Into Incompetence Welcomed"
-date: 2000-04-20
-source-url: https://www.scoop.co.nz/stories/PO0004/S00089/inquiry-into-incompetence-welcomed.htm
+title: Inquiry Into Incompetence Welcomed
+date: 2000-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00089/inquiry-into-incompetence-welcomed.htm
 author: prebble-s-rebels
+permalink: /archive/2000/04/20/inquiry-into-incompetence-welcomed/index.html
+layout: layout.njk
 ---
 Inquiry Into Incompetence Welcomed
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: minister-does-nothing-while-hato-petera-fights-for-its-life
-title: "Minister Does Nothing While Hato Petera Fights for Its Life"
-date: 2015-04-27
-source-url: https://www.scoop.co.nz/stories/PA1504/S00339/minister-does-nothing-while-hato-petera-fights-for-its-life.htm
+title: Minister Does Nothing While Hato Petera Fights for Its Life
+date: 2015-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00339/minister-does-nothing-while-hato-petera-fights-for-its-life.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/04/27/minister-does-nothing-while-hato-petera-fights-for-its-life/index.html
+layout: layout.njk
 ---
 Minister Does Nothing While Hato Petera Fights for Its Life
 ===========================================================

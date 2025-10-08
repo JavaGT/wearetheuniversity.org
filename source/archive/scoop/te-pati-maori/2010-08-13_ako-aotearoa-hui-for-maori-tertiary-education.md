@@ -1,9 +1,12 @@
 ---
 slug: ako-aotearoa-hui-for-maori-tertiary-education
-title: "Ako Aotearoa Hui for Maori Tertiary Education"
-date: 2010-08-13
-source-url: https://www.scoop.co.nz/stories/PA1008/S00217/ako-aotearoa-hui-for-maori-tertiary-education.htm
+title: Ako Aotearoa Hui for Maori Tertiary Education
+date: 2010-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00217/ako-aotearoa-hui-for-maori-tertiary-education.htm
 author: te-pati-maori
+permalink: /archive/2010/08/13/ako-aotearoa-hui-for-maori-tertiary-education/index.html
+layout: layout.njk
 ---
 Ako Aotearoa Hui for Maori Tertiary Education
 =============================================

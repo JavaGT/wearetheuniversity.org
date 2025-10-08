@@ -1,9 +1,13 @@
 ---
 slug: behind-the-scenes-of-chinese-art-and-its-role-in-diplomacy
-title: "Behind the scenes of Chinese art and its role in diplomacy"
-date: 2017-12-04
-source-url: https://www.scoop.co.nz/stories/CU1712/S00043/behind-the-scenes-of-chinese-art-and-its-role-in-diplomacy.htm
+title: Behind the scenes of Chinese art and its role in diplomacy
+date: 2017-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00043/behind-the-scenes-of-chinese-art-and-its-role-in-diplomacy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/04/behind-the-scenes-of-chinese-art-and-its-role-in-diplomacy/index.html
+layout: layout.njk
 ---
 Behind the scenes of Chinese art and its role in diplomacy
 ==========================================================

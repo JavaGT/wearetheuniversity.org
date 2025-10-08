@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-refocus-on-jobs
-title: "Government needs to refocus on jobs"
-date: 2010-08-31
-source-url: https://www.scoop.co.nz/stories/PO1008/S00370/government-needs-to-refocus-on-jobs.htm
+title: Government needs to refocus on jobs
+date: 2010-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00370/government-needs-to-refocus-on-jobs.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/08/31/government-needs-to-refocus-on-jobs/index.html
+layout: layout.njk
 ---
 Government needs to refocus on jobs
 ===================================

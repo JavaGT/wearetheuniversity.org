@@ -1,9 +1,13 @@
 ---
 slug: homers-homerphobia-warning-to-feature-at-hearing
-title: "Homer’s homerphobia warning to feature at hearing"
-date: 2004-09-08
-source-url: https://www.scoop.co.nz/stories/ED0409/S00029/homers-homerphobia-warning-to-feature-at-hearing.htm
+title: Homer’s homerphobia warning to feature at hearing
+date: 2004-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00029/homers-homerphobia-warning-to-feature-at-hearing.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/09/08/homers-homerphobia-warning-to-feature-at-hearing/index.html
+layout: layout.njk
 ---
 Homer’s homerphobia warning to feature at hearing
 =================================================

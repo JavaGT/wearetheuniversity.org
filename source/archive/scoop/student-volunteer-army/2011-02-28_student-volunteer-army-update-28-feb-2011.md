@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-update-28-feb-2011
-title: "Student Volunteer Army - Update 28 Feb 2011"
-date: 2011-02-28
-source-url: https://www.scoop.co.nz/stories/AK1102/S01239/student-volunteer-army-update-28-feb-2011.htm
+title: Student Volunteer Army - Update 28 Feb 2011
+date: 2011-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S01239/student-volunteer-army-update-28-feb-2011.htm
 author: student-volunteer-army
+permalink: /archive/2011/02/28/student-volunteer-army-update-28-feb-2011/index.html
+layout: layout.njk
 ---
 Student Volunteer Army - Update 28 Feb 2011
 ===========================================

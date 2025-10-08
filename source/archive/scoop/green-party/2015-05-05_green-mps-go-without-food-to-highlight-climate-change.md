@@ -1,9 +1,13 @@
 ---
 slug: green-mps-go-without-food-to-highlight-climate-change
-title: "Green MPs go without food to highlight climate change"
-date: 2015-05-05
-source-url: https://www.scoop.co.nz/stories/PA1505/S00054/green-mps-go-without-food-to-highlight-climate-change.htm
+title: Green MPs go without food to highlight climate change
+date: 2015-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00054/green-mps-go-without-food-to-highlight-climate-change.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/05/green-mps-go-without-food-to-highlight-climate-change/index.html
+layout: layout.njk
 ---
 Green MPs go without food to highlight climate change
 =====================================================

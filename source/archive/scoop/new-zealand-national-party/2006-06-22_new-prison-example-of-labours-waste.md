@@ -1,9 +1,12 @@
 ---
 slug: new-prison-example-of-labours-waste
-title: "New prison example of Labour's waste"
-date: 2006-06-22
-source-url: https://www.scoop.co.nz/stories/PA0606/S00436/new-prison-example-of-labours-waste.htm
+title: New prison example of Labour's waste
+date: 2006-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00436/new-prison-example-of-labours-waste.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/22/new-prison-example-of-labours-waste/index.html
+layout: layout.njk
 ---
 New prison example of Labour's waste
 ====================================

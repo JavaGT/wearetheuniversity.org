@@ -1,9 +1,12 @@
 ---
 slug: a-birds-eye-view-of-solar-innovation
-title: "A bird’s eye view of solar innovation"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/SC1102/S00001/a-birds-eye-view-of-solar-innovation.htm
+title: A bird’s eye view of solar innovation
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00001/a-birds-eye-view-of-solar-innovation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/02/01/a-birds-eye-view-of-solar-innovation/index.html
+layout: layout.njk
 ---
 A bird’s eye view of solar innovation
 =====================================

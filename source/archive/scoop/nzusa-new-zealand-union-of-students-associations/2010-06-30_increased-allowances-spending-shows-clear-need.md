@@ -1,9 +1,12 @@
 ---
 slug: increased-allowances-spending-shows-clear-need
-title: "Increased allowances spending shows clear need"
-date: 2010-06-30
-source-url: https://www.scoop.co.nz/stories/ED1006/S00115/increased-allowances-spending-shows-clear-need.htm
+title: Increased allowances spending shows clear need
+date: 2010-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00115/increased-allowances-spending-shows-clear-need.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/06/30/increased-allowances-spending-shows-clear-need/index.html
+layout: layout.njk
 ---
 Increased allowances spending shows clear need
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: expert-research-backs-up-national-standards-concer
-title: "Expert Research Backs Up National Standards Concer"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/ED1008/S00039/expert-research-backs-up-national-standards-concer.htm
+title: Expert Research Backs Up National Standards Concer
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00039/expert-research-backs-up-national-standards-concer.htm
 author: nzei
+permalink: >-
+  /archive/2010/08/09/expert-research-backs-up-national-standards-concer/index.html
+layout: layout.njk
 ---
 Expert Research Backs Up National Standards Concer
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: respected-novelist-dies-professor-bill-pearson
-title: "Respected Novelist Dies - Professor Bill Pearson"
-date: 2002-09-30
-source-url: https://www.scoop.co.nz/stories/CU0209/S00101/respected-novelist-dies-professor-bill-pearson.htm
+title: Respected Novelist Dies - Professor Bill Pearson
+date: 2002-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0209/S00101/respected-novelist-dies-professor-bill-pearson.htm
 author: auckland-university-press
+permalink: /archive/2002/09/30/respected-novelist-dies-professor-bill-pearson/index.html
+layout: layout.njk
 ---
 Respected Novelist Dies - Professor Bill Pearson
 ================================================

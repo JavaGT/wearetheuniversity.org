@@ -1,9 +1,12 @@
 ---
 slug: extinction-which-species-should-we-save
-title: "Extinction: Which species should we save?"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/SC1603/S00015/extinction-which-species-should-we-save.htm
+title: 'Extinction: Which species should we save?'
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00015/extinction-which-species-should-we-save.htm
 author: lincoln-university
+permalink: /archive/2016/03/07/extinction-which-species-should-we-save/index.html
+layout: layout.njk
 ---
 Extinction: Which species should we save?
 =========================================

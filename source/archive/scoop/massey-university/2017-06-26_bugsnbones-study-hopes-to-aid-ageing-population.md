@@ -1,9 +1,12 @@
 ---
 slug: bugsnbones-study-hopes-to-aid-ageing-population
-title: "Bugs’n’Bones study hopes to aid ageing population"
-date: 2017-06-26
-source-url: https://www.scoop.co.nz/stories/GE1706/S00100/bugsnbones-study-hopes-to-aid-ageing-population.htm
+title: Bugs’n’Bones study hopes to aid ageing population
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00100/bugsnbones-study-hopes-to-aid-ageing-population.htm
 author: massey-university
+permalink: /archive/2017/06/26/bugsnbones-study-hopes-to-aid-ageing-population/index.html
+layout: layout.njk
 ---
 Bugs’n’Bones study hopes to aid ageing population
 =================================================

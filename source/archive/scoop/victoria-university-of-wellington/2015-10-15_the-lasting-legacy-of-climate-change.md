@@ -1,9 +1,12 @@
 ---
 slug: the-lasting-legacy-of-climate-change
-title: "The lasting legacy of climate change"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/SC1510/S00041/the-lasting-legacy-of-climate-change.htm
+title: The lasting legacy of climate change
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00041/the-lasting-legacy-of-climate-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/10/15/the-lasting-legacy-of-climate-change/index.html
+layout: layout.njk
 ---
 The lasting legacy of climate change
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: japanese-language-teachers-focus-on-can-do-kanji
-title: "Japanese language teachers focus on can-do kanji"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/ED1403/S00089/japanese-language-teachers-focus-on-can-do-kanji.htm
+title: Japanese language teachers focus on can-do kanji
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00089/japanese-language-teachers-focus-on-can-do-kanji.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/17/japanese-language-teachers-focus-on-can-do-kanji/index.html
+layout: layout.njk
 ---
 Japanese language teachers focus on can-do kanji
 ================================================

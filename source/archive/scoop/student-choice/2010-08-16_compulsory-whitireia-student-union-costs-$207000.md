@@ -1,9 +1,12 @@
 ---
 slug: compulsory-whitireia-student-union-costs-$207000
-title: "Compulsory Whitireia student union costs $207,000"
-date: 2010-08-16
-source-url: https://www.scoop.co.nz/stories/PO1008/S00179/compulsory-whitireia-student-union-costs-207000.htm
+title: Compulsory Whitireia student union costs $207,000
+date: 2010-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00179/compulsory-whitireia-student-union-costs-207000.htm
 author: student-choice
+permalink: /archive/2010/08/16/compulsory-whitireia-student-union-costs-/index.html
+layout: layout.njk
 ---
 Compulsory Whitireia student union costs $207,000
 =================================================

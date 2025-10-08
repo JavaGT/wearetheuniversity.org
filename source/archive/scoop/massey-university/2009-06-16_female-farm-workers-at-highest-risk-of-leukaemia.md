@@ -1,9 +1,13 @@
 ---
 slug: female-farm-workers-at-highest-risk-of-leukaemia
-title: "Female farm workers at highest risk of leukaemia"
-date: 2009-06-16
-source-url: https://www.scoop.co.nz/stories/GE0906/S00095/female-farm-workers-at-highest-risk-of-leukaemia.htm
+title: Female farm workers at highest risk of leukaemia
+date: 2009-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0906/S00095/female-farm-workers-at-highest-risk-of-leukaemia.htm
 author: massey-university
+permalink: >-
+  /archive/2009/06/16/female-farm-workers-at-highest-risk-of-leukaemia/index.html
+layout: layout.njk
 ---
 Female farm workers at highest risk of leukaemia
 ================================================

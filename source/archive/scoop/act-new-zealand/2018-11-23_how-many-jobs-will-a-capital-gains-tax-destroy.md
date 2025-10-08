@@ -1,9 +1,12 @@
 ---
 slug: how-many-jobs-will-a-capital-gains-tax-destroy
-title: "How many jobs will a capital gains tax destroy?"
-date: 2018-11-23
-source-url: https://www.scoop.co.nz/stories/PA1811/S00232/how-many-jobs-will-a-capital-gains-tax-destroy.htm
+title: How many jobs will a capital gains tax destroy?
+date: 2018-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00232/how-many-jobs-will-a-capital-gains-tax-destroy.htm
 author: act-new-zealand
+permalink: /archive/2018/11/23/how-many-jobs-will-a-capital-gains-tax-destroy/index.html
+layout: layout.njk
 ---
 How many jobs will a capital gains tax destroy?
 ===============================================

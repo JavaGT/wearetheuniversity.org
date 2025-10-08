@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-7-21-march-2001
-title: "AUS Tertiary Update Vol. 4  No. 7, 21 March 2001"
-date: 2001-03-22
-source-url: https://www.scoop.co.nz/stories/ED0103/S00044/aus-tertiary-update-vol-4-no-7-21-march-2001.htm
+title: AUS Tertiary Update Vol. 4  No. 7, 21 March 2001
+date: 2001-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00044/aus-tertiary-update-vol-4-no-7-21-march-2001.htm
 author: association-of-university-staff
+permalink: /archive/2001/03/22/aus-tertiary-update-vol-4-no-7-21-march-2001/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 4 No. 7, 21 March 2001
 ===============================================

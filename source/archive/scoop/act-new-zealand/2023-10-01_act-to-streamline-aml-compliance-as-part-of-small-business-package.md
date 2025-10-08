@@ -1,9 +1,13 @@
 ---
 slug: act-to-streamline-aml-compliance-as-part-of-small-business-package
-title: "ACT To Streamline AML Compliance As Part Of Small Business Package"
-date: 2023-10-01
-source-url: https://www.scoop.co.nz/stories/PA2310/S00002/act-to-streamline-aml-compliance-as-part-of-small-business-package.htm
+title: ACT To Streamline AML Compliance As Part Of Small Business Package
+date: 2023-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00002/act-to-streamline-aml-compliance-as-part-of-small-business-package.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/10/01/act-to-streamline-aml-compliance-as-part-of-small-business-package/index.html
+layout: layout.njk
 ---
 ACT To Streamline AML Compliance As Part Of Small Business Package
 ==================================================================

@@ -1,9 +1,12 @@
 ---
 slug: green-mp-scoops-top-international-prize
-title: "Green MP scoops top international prize"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/PA1511/S00397/green-mp-scoops-top-international-prize.htm
+title: Green MP scoops top international prize
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00397/green-mp-scoops-top-international-prize.htm
 author: green-party
+permalink: /archive/2015/11/20/green-mp-scoops-top-international-prize/index.html
+layout: layout.njk
 ---
 Green MP scoops top international prize
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: sustainability-never-more-relevant-for-business
-title: "Sustainability never more relevant for business"
-date: 2009-11-06
-source-url: https://www.scoop.co.nz/stories/ED0911/S00029/sustainability-never-more-relevant-for-business.htm
+title: Sustainability never more relevant for business
+date: 2009-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00029/sustainability-never-more-relevant-for-business.htm
 author: massey-university
+permalink: /archive/2009/11/06/sustainability-never-more-relevant-for-business/index.html
+layout: layout.njk
 ---
 Sustainability never more relevant for business
 ===============================================

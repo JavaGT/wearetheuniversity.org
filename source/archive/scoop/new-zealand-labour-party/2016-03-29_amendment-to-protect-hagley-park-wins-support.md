@@ -1,9 +1,12 @@
 ---
 slug: amendment-to-protect-hagley-park-wins-support
-title: "Amendment to protect Hagley Park wins support"
-date: 2016-03-29
-source-url: https://www.scoop.co.nz/stories/PA1603/S00456/amendment-to-protect-hagley-park-wins-support.htm
+title: Amendment to protect Hagley Park wins support
+date: 2016-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00456/amendment-to-protect-hagley-park-wins-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/29/amendment-to-protect-hagley-park-wins-support/index.html
+layout: layout.njk
 ---
 Amendment to protect Hagley Park wins support
 =============================================

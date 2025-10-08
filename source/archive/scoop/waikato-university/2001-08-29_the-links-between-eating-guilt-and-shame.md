@@ -1,9 +1,12 @@
 ---
 slug: the-links-between-eating-guilt-and-shame
-title: "The Links Between Eating, Guilt And Shame"
-date: 2001-08-29
-source-url: https://www.scoop.co.nz/stories/ED0108/S00064/the-links-between-eating-guilt-and-shame.htm
+title: The Links Between Eating, Guilt And Shame
+date: 2001-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00064/the-links-between-eating-guilt-and-shame.htm
 author: waikato-university
+permalink: /archive/2001/08/29/the-links-between-eating-guilt-and-shame/index.html
+layout: layout.njk
 ---
 The Links Between Eating, Guilt And Shame
 =========================================

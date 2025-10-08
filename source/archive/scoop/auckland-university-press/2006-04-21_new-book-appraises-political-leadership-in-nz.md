@@ -1,9 +1,12 @@
 ---
 slug: new-book-appraises-political-leadership-in-nz
-title: "New Book Appraises Political Leadership in NZ"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/PO0604/S00170/new-book-appraises-political-leadership-in-nz.htm
+title: New Book Appraises Political Leadership in NZ
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00170/new-book-appraises-political-leadership-in-nz.htm
 author: auckland-university-press
+permalink: /archive/2006/04/21/new-book-appraises-political-leadership-in-nz/index.html
+layout: layout.njk
 ---
 New Book Appraises Political Leadership in NZ
 =============================================

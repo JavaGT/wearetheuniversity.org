@@ -1,9 +1,11 @@
 ---
 slug: a-modern-letters-weekend
-title: "A Modern Letters Weekend"
-date: 2013-09-24
+title: A Modern Letters Weekend
+date: 2013-09-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1309/S00440/a-modern-letters-weekend.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/09/24/a-modern-letters-weekend/index.html
+layout: layout.njk
 ---
 A Modern Letters Weekend
 ========================

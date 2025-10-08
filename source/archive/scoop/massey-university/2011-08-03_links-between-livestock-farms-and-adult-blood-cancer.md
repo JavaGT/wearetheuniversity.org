@@ -1,9 +1,13 @@
 ---
 slug: links-between-livestock-farms-and-adult-blood-cancer
-title: "Links between livestock farms and adult blood cancer"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/ED1108/S00023/links-between-livestock-farms-and-adult-blood-cancer.htm
+title: Links between livestock farms and adult blood cancer
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00023/links-between-livestock-farms-and-adult-blood-cancer.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/03/links-between-livestock-farms-and-adult-blood-cancer/index.html
+layout: layout.njk
 ---
 Links between livestock farms and adult blood cancer
 ====================================================

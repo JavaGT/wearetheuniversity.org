@@ -1,9 +1,12 @@
 ---
 slug: social-media-making-academia-more-user-friendly
-title: "Social media making academia more user-friendly"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/ED1704/S00042/social-media-making-academia-more-user-friendly.htm
+title: Social media making academia more user-friendly
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00042/social-media-making-academia-more-user-friendly.htm
 author: massey-university
+permalink: /archive/2017/04/11/social-media-making-academia-more-user-friendly/index.html
+layout: layout.njk
 ---
 Social media making academia more user-friendly
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: daily-update-27-feb
-title: "Daily update 27 Feb"
-date: 2011-02-28
+title: Daily update 27 Feb
+date: 2011-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1102/S01177/daily-update-27-feb.htm
 author: student-volunteer-army
+permalink: /archive/2011/02/28/daily-update-27-feb/index.html
+layout: layout.njk
 ---
 Daily update 27 Feb
 ===================

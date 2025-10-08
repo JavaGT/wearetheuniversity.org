@@ -1,9 +1,12 @@
 ---
 slug: get-into-action-internal-affairs-says-collins
-title: "Get into action Internal Affairs, says Collins"
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/PA0503/S00052/get-into-action-internal-affairs-says-collins.htm
+title: Get into action Internal Affairs, says Collins
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00052/get-into-action-internal-affairs-says-collins.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/02/get-into-action-internal-affairs-says-collins/index.html
+layout: layout.njk
 ---
 Get into action Internal Affairs, says Collins
 ==============================================

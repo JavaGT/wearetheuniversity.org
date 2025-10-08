@@ -1,9 +1,12 @@
 ---
 slug: labour-plays-favourites-with-events-sector-plan
-title: "Labour Plays Favourites With Events Sector Plan"
-date: 2021-11-09
-source-url: https://www.scoop.co.nz/stories/PA2111/S00096/labour-plays-favourites-with-events-sector-plan.htm
+title: Labour Plays Favourites With Events Sector Plan
+date: 2021-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00096/labour-plays-favourites-with-events-sector-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/09/labour-plays-favourites-with-events-sector-plan/index.html
+layout: layout.njk
 ---
 Labour Plays Favourites With Events Sector Plan
 ===============================================

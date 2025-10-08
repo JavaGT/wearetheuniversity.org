@@ -1,9 +1,11 @@
 ---
 slug: emperor-joyce-has-no-clothes
-title: "Emperor Joyce has no clothes"
-date: 2013-02-08
+title: Emperor Joyce has no clothes
+date: 2013-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1302/S00084/emperor-joyce-has-no-clothes.htm
 author: green-party
+permalink: /archive/2013/02/08/emperor-joyce-has-no-clothes/index.html
+layout: layout.njk
 ---
 Emperor Joyce has no clothes
 ============================

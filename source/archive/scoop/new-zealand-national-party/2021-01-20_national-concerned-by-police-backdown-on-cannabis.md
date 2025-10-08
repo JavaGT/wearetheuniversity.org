@@ -1,9 +1,13 @@
 ---
 slug: national-concerned-by-police-backdown-on-cannabis
-title: "National Concerned By Police Backdown On Cannabis"
-date: 2021-01-20
-source-url: https://www.scoop.co.nz/stories/PA2101/S00041/national-concerned-by-police-backdown-on-cannabis.htm
+title: National Concerned By Police Backdown On Cannabis
+date: 2021-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00041/national-concerned-by-police-backdown-on-cannabis.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/01/20/national-concerned-by-police-backdown-on-cannabis/index.html
+layout: layout.njk
 ---
 National Concerned By Police Backdown On Cannabis
 =================================================

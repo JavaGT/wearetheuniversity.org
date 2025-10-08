@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-pce-call-for-improved-river-protection
-title: "Green Party welcomes PCE call for improved river protection"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00550/green-party-welcomes-pce-call-for-improved-river-protection.htm
+title: Green Party welcomes PCE call for improved river protection
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00550/green-party-welcomes-pce-call-for-improved-river-protection.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/30/green-party-welcomes-pce-call-for-improved-river-protection/index.html
+layout: layout.njk
 ---
 Green Party welcomes PCE call for improved river protection
 ===========================================================

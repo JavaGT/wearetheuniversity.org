@@ -1,9 +1,12 @@
 ---
 slug: gun-buyback-pure-political-theatre
-title: "Gun 'buyback' pure political theatre"
-date: 2019-07-13
-source-url: https://www.scoop.co.nz/stories/PA1907/S00100/gun-buyback-pure-political-theatre.htm
+title: Gun 'buyback' pure political theatre
+date: 2019-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00100/gun-buyback-pure-political-theatre.htm
 author: act-new-zealand
+permalink: /archive/2019/07/13/gun-buyback-pure-political-theatre/index.html
+layout: layout.njk
 ---
 Gun 'buyback' pure political theatre
 ====================================

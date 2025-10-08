@@ -1,9 +1,12 @@
 ---
 slug: errors-do-not-help-local-government-elections
-title: "Errors Do Not Help Local Government Elections"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/PA1310/S00030/errors-do-not-help-local-government-elections.htm
+title: Errors Do Not Help Local Government Elections
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00030/errors-do-not-help-local-government-elections.htm
 author: new-zealand-first-party
+permalink: /archive/2013/10/01/errors-do-not-help-local-government-elections/index.html
+layout: layout.njk
 ---
 Errors Do Not Help Local Government Elections
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: the-mystery-of-the-dead-sea-scrolls
-title: "The Mystery of the Dead Sea Scrolls"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/ED1208/S00090/the-mystery-of-the-dead-sea-scrolls.htm
+title: The Mystery of the Dead Sea Scrolls
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00090/the-mystery-of-the-dead-sea-scrolls.htm
 author: university-of-waikato
+permalink: /archive/2012/08/16/the-mystery-of-the-dead-sea-scrolls/index.html
+layout: layout.njk
 ---
 The Mystery of the Dead Sea Scrolls
 ===================================

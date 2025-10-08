@@ -1,9 +1,12 @@
 ---
 slug: pharmac-cant-hide-on-herceptin
-title: "Pharmac can't hide on Herceptin"
-date: 2007-01-05
-source-url: https://www.scoop.co.nz/stories/PA0701/S00011/pharmac-cant-hide-on-herceptin.htm
+title: Pharmac can't hide on Herceptin
+date: 2007-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00011/pharmac-cant-hide-on-herceptin.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/05/pharmac-cant-hide-on-herceptin/index.html
+layout: layout.njk
 ---
 Pharmac can't hide on Herceptin
 ===============================

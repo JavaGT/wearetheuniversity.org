@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-cap-off-24-hr-action-on-debt
-title: "Auckland students cap off 24-hr action on debt"
-date: 2008-04-11
-source-url: https://www.scoop.co.nz/stories/PO0804/S00179/auckland-students-cap-off-24-hr-action-on-debt.htm
+title: Auckland students cap off 24-hr action on debt
+date: 2008-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00179/auckland-students-cap-off-24-hr-action-on-debt.htm
 author: auckland-university-students-association
+permalink: /archive/2008/04/11/auckland-students-cap-off-24-hr-action-on-debt/index.html
+layout: layout.njk
 ---
 Auckland students cap off 24-hr action on debt
 ==============================================

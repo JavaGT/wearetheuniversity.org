@@ -1,9 +1,13 @@
 ---
 slug: collaboration-focus-of-early-childhood-ed-seminar
-title: "Collaboration Focus of Early Childhood Ed Seminar"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/ED0606/S00018/collaboration-focus-of-early-childhood-ed-seminar.htm
+title: Collaboration Focus of Early Childhood Ed Seminar
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00018/collaboration-focus-of-early-childhood-ed-seminar.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/06/09/collaboration-focus-of-early-childhood-ed-seminar/index.html
+layout: layout.njk
 ---
 Collaboration Focus of Early Childhood Ed Seminar
 =================================================

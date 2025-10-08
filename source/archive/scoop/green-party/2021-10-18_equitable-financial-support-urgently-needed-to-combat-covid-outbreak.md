@@ -1,9 +1,13 @@
 ---
 slug: equitable-financial-support-urgently-needed-to-combat-covid-outbreak
-title: "Equitable Financial Support Urgently Needed To Combat COVID Outbreak"
-date: 2021-10-18
-source-url: https://www.scoop.co.nz/stories/PA2110/S00171/equitable-financial-support-urgently-needed-to-combat-covid-outbreak.htm
+title: Equitable Financial Support Urgently Needed To Combat COVID Outbreak
+date: 2021-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00171/equitable-financial-support-urgently-needed-to-combat-covid-outbreak.htm
 author: green-party
+permalink: >-
+  /archive/2021/10/18/equitable-financial-support-urgently-needed-to-combat-covid-outbreak/index.html
+layout: layout.njk
 ---
 Equitable Financial Support Urgently Needed To Combat COVID Outbreak
 ====================================================================

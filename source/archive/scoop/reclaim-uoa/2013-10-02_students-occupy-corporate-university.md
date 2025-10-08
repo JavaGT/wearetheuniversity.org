@@ -1,9 +1,12 @@
 ---
 slug: students-occupy-corporate-university
-title: "Students Occupy Corporate University"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/ED1310/S00022/students-occupy-corporate-university.htm
+title: Students Occupy Corporate University
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00022/students-occupy-corporate-university.htm
 author: reclaim-uoa
+permalink: /archive/2013/10/02/students-occupy-corporate-university/index.html
+layout: layout.njk
 ---
 Students Occupy Corporate University
 ====================================

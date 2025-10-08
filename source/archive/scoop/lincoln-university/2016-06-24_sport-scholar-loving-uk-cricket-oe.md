@@ -1,9 +1,12 @@
 ---
 slug: sport-scholar-loving-uk-cricket-oe
-title: "Sport scholar loving UK cricket OE"
-date: 2016-06-24
-source-url: https://www.scoop.co.nz/stories/ED1606/S00091/sport-scholar-loving-uk-cricket-oe.htm
+title: Sport scholar loving UK cricket OE
+date: 2016-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00091/sport-scholar-loving-uk-cricket-oe.htm
 author: lincoln-university
+permalink: /archive/2016/06/24/sport-scholar-loving-uk-cricket-oe/index.html
+layout: layout.njk
 ---
 Sport scholar loving UK cricket OE
 ==================================

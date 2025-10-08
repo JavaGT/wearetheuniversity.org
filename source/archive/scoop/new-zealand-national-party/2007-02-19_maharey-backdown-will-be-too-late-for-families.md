@@ -1,9 +1,12 @@
 ---
 slug: maharey-backdown-will-be-too-late-for-families
-title: "Maharey backdown will be too late for families"
-date: 2007-02-19
-source-url: https://www.scoop.co.nz/stories/PA0702/S00333/maharey-backdown-will-be-too-late-for-families.htm
+title: Maharey backdown will be too late for families
+date: 2007-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00333/maharey-backdown-will-be-too-late-for-families.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/19/maharey-backdown-will-be-too-late-for-families/index.html
+layout: layout.njk
 ---
 Maharey backdown will be too late for families
 ==============================================

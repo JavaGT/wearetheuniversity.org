@@ -1,9 +1,12 @@
 ---
 slug: maharey-unemployment-claims-nonsense-newman
-title: "Maharey Unemployment Claims Nonsense - Newman"
-date: 2000-12-20
-source-url: https://www.scoop.co.nz/stories/PA0012/S00332/maharey-unemployment-claims-nonsense-newman.htm
+title: Maharey Unemployment Claims Nonsense - Newman
+date: 2000-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00332/maharey-unemployment-claims-nonsense-newman.htm
 author: act-new-zealand
+permalink: /archive/2000/12/20/maharey-unemployment-claims-nonsense-newman/index.html
+layout: layout.njk
 ---
 Maharey Unemployment Claims Nonsense - Newman
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: half-of-labours-car-tax-mistakes-unresolved
-title: "Half Of Labour’s Car Tax Mistakes Unresolved"
-date: 2022-04-12
-source-url: https://www.scoop.co.nz/stories/PA2204/S00091/half-of-labours-car-tax-mistakes-unresolved.htm
+title: Half Of Labour’s Car Tax Mistakes Unresolved
+date: 2022-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00091/half-of-labours-car-tax-mistakes-unresolved.htm
 author: new-zealand-national-party
+permalink: /archive/2022/04/12/half-of-labours-car-tax-mistakes-unresolved/index.html
+layout: layout.njk
 ---
 Half Of Labour’s Car Tax Mistakes Unresolved
 ============================================

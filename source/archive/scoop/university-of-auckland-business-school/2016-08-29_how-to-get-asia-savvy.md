@@ -1,9 +1,11 @@
 ---
 slug: how-to-get-asia-savvy
-title: "How to get Asia-savvy"
-date: 2016-08-29
+title: How to get Asia-savvy
+date: 2016-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1608/S00109/how-to-get-asia-savvy.htm
 author: university-of-auckland-business-school
+permalink: /archive/2016/08/29/how-to-get-asia-savvy/index.html
+layout: layout.njk
 ---
 How to get Asia-savvy
 =====================

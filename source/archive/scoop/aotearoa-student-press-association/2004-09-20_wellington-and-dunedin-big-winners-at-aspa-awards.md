@@ -1,9 +1,13 @@
 ---
 slug: wellington-and-dunedin-big-winners-at-aspa-awards
-title: "Wellington And Dunedin Big Winners At ASPA Awards"
-date: 2004-09-20
-source-url: https://www.scoop.co.nz/stories/ED0409/S00080/wellington-and-dunedin-big-winners-at-aspa-awards.htm
+title: Wellington And Dunedin Big Winners At ASPA Awards
+date: 2004-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00080/wellington-and-dunedin-big-winners-at-aspa-awards.htm
 author: aotearoa-student-press-association
+permalink: >-
+  /archive/2004/09/20/wellington-and-dunedin-big-winners-at-aspa-awards/index.html
+layout: layout.njk
 ---
 Wellington And Dunedin Big Winners At ASPA Awards
 =================================================

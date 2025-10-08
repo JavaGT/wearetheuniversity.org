@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-support-the-wharfies
-title: "Auckland students support the wharfies"
-date: 2012-03-06
-source-url: https://www.scoop.co.nz/stories/PO1203/S00050/auckland-students-support-the-wharfies.htm
+title: Auckland students support the wharfies
+date: 2012-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00050/auckland-students-support-the-wharfies.htm
 author: auckland-university-students-association
+permalink: /archive/2012/03/06/auckland-students-support-the-wharfies/index.html
+layout: layout.njk
 ---
 Auckland students support the wharfies
 ======================================

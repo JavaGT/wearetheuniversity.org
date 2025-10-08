@@ -1,9 +1,13 @@
 ---
 slug: workplace-cancers-study-leads-occupational-disease-research
-title: "Workplace cancers study leads occupational disease research"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/GE1309/S00043/workplace-cancers-study-leads-occupational-disease-research.htm
+title: Workplace cancers study leads occupational disease research
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00043/workplace-cancers-study-leads-occupational-disease-research.htm
 author: massey-university
+permalink: >-
+  /archive/2013/09/10/workplace-cancers-study-leads-occupational-disease-research/index.html
+layout: layout.njk
 ---
 Workplace cancers study leads occupational disease research
 ===========================================================

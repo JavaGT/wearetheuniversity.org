@@ -1,9 +1,13 @@
 ---
 slug: the-bauhaus-series-2-free-lectures-2-exhibitions
-title: "The Bauhaus Series: 2 free lectures, 2 exhibitions"
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/CU0205/S00018/the-bauhaus-series-2-free-lectures-2-exhibitions.htm
+title: 'The Bauhaus Series: 2 free lectures, 2 exhibitions'
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0205/S00018/the-bauhaus-series-2-free-lectures-2-exhibitions.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/05/14/the-bauhaus-series-2-free-lectures-2-exhibitions/index.html
+layout: layout.njk
 ---
 The Bauhaus Series: 2 free lectures, 2 exhibitions
 ==================================================

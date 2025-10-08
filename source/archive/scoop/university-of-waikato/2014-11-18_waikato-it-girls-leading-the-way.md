@@ -1,9 +1,12 @@
 ---
 slug: waikato-it-girls-leading-the-way
-title: "Waikato IT girls leading the way"
-date: 2014-11-18
-source-url: https://www.scoop.co.nz/stories/ED1411/S00110/waikato-it-girls-leading-the-way.htm
+title: Waikato IT girls leading the way
+date: 2014-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00110/waikato-it-girls-leading-the-way.htm
 author: university-of-waikato
+permalink: /archive/2014/11/18/waikato-it-girls-leading-the-way/index.html
+layout: layout.njk
 ---
 Waikato IT girls leading the way
 ================================

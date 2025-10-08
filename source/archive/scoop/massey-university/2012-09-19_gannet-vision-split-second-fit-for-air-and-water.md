@@ -1,9 +1,13 @@
 ---
 slug: gannet-vision-split-second-fit-for-air-and-water
-title: "Gannet vision - split-second fit for air and water"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/SC1209/S00038/gannet-vision-split-second-fit-for-air-and-water.htm
+title: Gannet vision - split-second fit for air and water
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00038/gannet-vision-split-second-fit-for-air-and-water.htm
 author: massey-university
+permalink: >-
+  /archive/2012/09/19/gannet-vision-split-second-fit-for-air-and-water/index.html
+layout: layout.njk
 ---
 Gannet vision - split-second fit for air and water
 ==================================================

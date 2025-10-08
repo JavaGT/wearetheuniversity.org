@@ -1,9 +1,13 @@
 ---
 slug: smudge-founder-and-canterbury-graduate-makes-award-finals
-title: "Smudge founder and Canterbury graduate makes award finals"
-date: 2015-04-13
-source-url: https://www.scoop.co.nz/stories/ED1504/S00027/smudge-founder-and-canterbury-graduate-makes-award-finals.htm
+title: Smudge founder and Canterbury graduate makes award finals
+date: 2015-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00027/smudge-founder-and-canterbury-graduate-makes-award-finals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/13/smudge-founder-and-canterbury-graduate-makes-award-finals/index.html
+layout: layout.njk
 ---
 Smudge founder and Canterbury graduate makes award finals
 =========================================================

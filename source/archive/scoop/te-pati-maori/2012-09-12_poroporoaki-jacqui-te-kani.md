@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-jacqui-te-kani
-title: "Poroporoaki   - Jacqui Te Kani"
-date: 2012-09-12
+title: Poroporoaki   - Jacqui Te Kani
+date: 2012-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1209/S00162/poroporoaki-jacqui-te-kani.htm
 author: te-pati-maori
+permalink: /archive/2012/09/12/poroporoaki-jacqui-te-kani/index.html
+layout: layout.njk
 ---
 Poroporoaki - Jacqui Te Kani
 ============================

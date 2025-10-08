@@ -1,9 +1,13 @@
 ---
 slug: sydney-expert-to-give-public-lecture-on-blood-donations
-title: "Sydney expert to give public lecture on blood donations"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/ED1408/S00109/sydney-expert-to-give-public-lecture-on-blood-donations.htm
+title: Sydney expert to give public lecture on blood donations
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00109/sydney-expert-to-give-public-lecture-on-blood-donations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/21/sydney-expert-to-give-public-lecture-on-blood-donations/index.html
+layout: layout.njk
 ---
 Sydney expert to give public lecture on blood donations
 =======================================================

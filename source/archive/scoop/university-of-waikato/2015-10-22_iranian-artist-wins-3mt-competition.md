@@ -1,9 +1,12 @@
 ---
 slug: iranian-artist-wins-3mt-competition
-title: "Iranian artist wins 3MT competition"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/ED1510/S00117/iranian-artist-wins-3mt-competition.htm
+title: Iranian artist wins 3MT competition
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00117/iranian-artist-wins-3mt-competition.htm
 author: university-of-waikato
+permalink: /archive/2015/10/22/iranian-artist-wins-3mt-competition/index.html
+layout: layout.njk
 ---
 Iranian artist wins 3MT competition
 ===================================

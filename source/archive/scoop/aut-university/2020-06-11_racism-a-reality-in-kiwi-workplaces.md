@@ -1,9 +1,12 @@
 ---
 slug: racism-a-reality-in-kiwi-workplaces
-title: "Racism A Reality In Kiwi Workplaces"
-date: 2020-06-11
-source-url: https://www.scoop.co.nz/stories/BU2006/S00222/racism-a-reality-in-kiwi-workplaces.htm
+title: Racism A Reality In Kiwi Workplaces
+date: 2020-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2006/S00222/racism-a-reality-in-kiwi-workplaces.htm
 author: aut-university
+permalink: /archive/2020/06/11/racism-a-reality-in-kiwi-workplaces/index.html
+layout: layout.njk
 ---
 Racism A Reality In Kiwi Workplaces
 ===================================

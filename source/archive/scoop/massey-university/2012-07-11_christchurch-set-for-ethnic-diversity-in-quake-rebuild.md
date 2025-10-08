@@ -1,9 +1,13 @@
 ---
 slug: christchurch-set-for-ethnic-diversity-in-quake-rebuild
-title: "Christchurch set for ethnic diversity in quake rebuild"
-date: 2012-07-11
-source-url: https://www.scoop.co.nz/stories/AK1207/S00207/christchurch-set-for-ethnic-diversity-in-quake-rebuild.htm
+title: Christchurch set for ethnic diversity in quake rebuild
+date: 2012-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00207/christchurch-set-for-ethnic-diversity-in-quake-rebuild.htm
 author: massey-university
+permalink: >-
+  /archive/2012/07/11/christchurch-set-for-ethnic-diversity-in-quake-rebuild/index.html
+layout: layout.njk
 ---
 Christchurch set for ethnic diversity in quake rebuild
 ======================================================

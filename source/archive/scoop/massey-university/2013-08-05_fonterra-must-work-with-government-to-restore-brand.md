@@ -1,9 +1,13 @@
 ---
 slug: fonterra-must-work-with-government-to-restore-brand
-title: "Fonterra must work with Government to restore brand"
-date: 2013-08-05
-source-url: https://www.scoop.co.nz/stories/ED1308/S00015/fonterra-must-work-with-government-to-restore-brand.htm
+title: Fonterra must work with Government to restore brand
+date: 2013-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00015/fonterra-must-work-with-government-to-restore-brand.htm
 author: massey-university
+permalink: >-
+  /archive/2013/08/05/fonterra-must-work-with-government-to-restore-brand/index.html
+layout: layout.njk
 ---
 Fonterra must work with Government to restore brand
 ===================================================

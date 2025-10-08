@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-to-host-halal-tourism-symposium
-title: "University of Waikato to Host  Halal Tourism Symposium"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/AK1403/S00567/university-of-waikato-to-host-halal-tourism-symposium.htm
+title: University of Waikato to Host  Halal Tourism Symposium
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00567/university-of-waikato-to-host-halal-tourism-symposium.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/24/university-of-waikato-to-host-halal-tourism-symposium/index.html
+layout: layout.njk
 ---
 University of Waikato to Host Halal Tourism Symposium
 =====================================================

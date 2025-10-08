@@ -1,9 +1,12 @@
 ---
 slug: $53-million-spent-on-slowing-aucklanders-down
-title: "$53 Million Spent On Slowing Aucklanders Down"
-date: 2023-04-24
-source-url: https://www.scoop.co.nz/stories/PA2304/S00153/53-million-spent-on-slowing-aucklanders-down.htm
+title: $53 Million Spent On Slowing Aucklanders Down
+date: 2023-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00153/53-million-spent-on-slowing-aucklanders-down.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/24/53-million-spent-on-slowing-aucklanders-down/index.html
+layout: layout.njk
 ---
 $53 Million Spent On Slowing Aucklanders Down
 =============================================

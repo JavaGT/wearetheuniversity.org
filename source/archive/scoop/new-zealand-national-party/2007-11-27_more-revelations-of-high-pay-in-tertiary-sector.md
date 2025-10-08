@@ -1,9 +1,12 @@
 ---
 slug: more-revelations-of-high-pay-in-tertiary-sector
-title: "More revelations of high pay in tertiary sector"
-date: 2007-11-27
-source-url: https://www.scoop.co.nz/stories/PA0711/S00524/more-revelations-of-high-pay-in-tertiary-sector.htm
+title: More revelations of high pay in tertiary sector
+date: 2007-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00524/more-revelations-of-high-pay-in-tertiary-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/27/more-revelations-of-high-pay-in-tertiary-sector/index.html
+layout: layout.njk
 ---
 More revelations of high pay in tertiary sector
 ===============================================

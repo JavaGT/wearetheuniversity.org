@@ -1,9 +1,13 @@
 ---
 slug: tikanga-is-not-law-it-is-cultural-indoctrination
-title: "Tikanga Is Not Law. It Is Cultural Indoctrination"
-date: 2024-05-07
-source-url: https://www.scoop.co.nz/stories/PA2405/S00045/tikanga-is-not-law-it-is-cultural-indoctrination.htm
+title: Tikanga Is Not Law. It Is Cultural Indoctrination
+date: 2024-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00045/tikanga-is-not-law-it-is-cultural-indoctrination.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2024/05/07/tikanga-is-not-law-it-is-cultural-indoctrination/index.html
+layout: layout.njk
 ---
 Tikanga Is Not Law. It Is Cultural Indoctrination
 =================================================

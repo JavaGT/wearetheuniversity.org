@@ -1,9 +1,12 @@
 ---
 slug: budget-2016-a-big-boost-for-technology-valley
-title: "Budget 2016 a big boost for Technology Valley"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00560/budget-2016-a-big-boost-for-technology-valley.htm
+title: Budget 2016 a big boost for Technology Valley
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00560/budget-2016-a-big-boost-for-technology-valley.htm
 author: new-zealand-national-party
+permalink: /archive/2016/05/26/budget-2016-a-big-boost-for-technology-valley/index.html
+layout: layout.njk
 ---
 Budget 2016 a big boost for Technology Valley
 =============================================

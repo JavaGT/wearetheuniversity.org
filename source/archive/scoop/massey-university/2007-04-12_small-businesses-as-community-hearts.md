@@ -1,9 +1,12 @@
 ---
 slug: small-businesses-as-community-hearts
-title: "Small businesses as community hearts"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/BU0704/S00166/small-businesses-as-community-hearts.htm
+title: Small businesses as community hearts
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0704/S00166/small-businesses-as-community-hearts.htm
 author: massey-university
+permalink: /archive/2007/04/12/small-businesses-as-community-hearts/index.html
+layout: layout.njk
 ---
 Small businesses as community hearts
 ====================================

@@ -1,9 +1,15 @@
 ---
-slug: te-pāti-māori-calls-on-universities-to-stand-by-marginalised-tauira-placed-under-threat
-title: "Te Pāti Māori Calls On Universities To Stand By Marginalised Tauira Placed Under Threat"
-date: 2024-03-28
-source-url: https://www.scoop.co.nz/stories/PA2403/S00174/te-pati-maori-calls-on-universities-to-stand-by-marginalised-tauira-placed-under-threat.htm
+slug: >-
+  te-pāti-māori-calls-on-universities-to-stand-by-marginalised-tauira-placed-under-threat
+title: >-
+  Te Pāti Māori Calls On Universities To Stand By Marginalised Tauira Placed
+  Under Threat
+date: 2024-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00174/te-pati-maori-calls-on-universities-to-stand-by-marginalised-tauira-placed-under-threat.htm
 author: te-pati-maori
+permalink: /archive/2024/03/28/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori Calls On Universities To Stand By Marginalised Tauira Placed Under Threat
 =======================================================================================

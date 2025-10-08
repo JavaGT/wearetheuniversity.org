@@ -1,9 +1,16 @@
 ---
-slug: government-should-fix-covid-19-leave-loophole-before-summer-seasonal-work-starts
-title: "Government Should Fix COVID-19 Leave Loophole Before Summer Seasonal Work Starts"
-date: 2020-12-04
-source-url: https://www.scoop.co.nz/stories/PA2012/S00031/government-should-fix-covid-19-leave-loophole-before-summer-seasonal-work-starts.htm
+slug: >-
+  government-should-fix-covid-19-leave-loophole-before-summer-seasonal-work-starts
+title: >-
+  Government Should Fix COVID-19 Leave Loophole Before Summer Seasonal Work
+  Starts
+date: 2020-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00031/government-should-fix-covid-19-leave-loophole-before-summer-seasonal-work-starts.htm
 author: green-party
+permalink: >-
+  /archive/2020/12/04/government-should-fix-covid-19-leave-loophole-before-summer-seasonal-work-starts/index.html
+layout: layout.njk
 ---
 Government Should Fix COVID-19 Leave Loophole Before Summer Seasonal Work Starts
 ================================================================================

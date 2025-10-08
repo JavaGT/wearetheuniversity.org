@@ -1,9 +1,12 @@
 ---
 slug: peters-christchurch-grey-power-political-panel
-title: "Peters: Christchurch Grey Power Political Panel"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/PA1408/S00309/peters-christchurch-grey-power-political-panel.htm
+title: 'Peters: Christchurch Grey Power Political Panel'
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00309/peters-christchurch-grey-power-political-panel.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/20/peters-christchurch-grey-power-political-panel/index.html
+layout: layout.njk
 ---
 Peters: Christchurch Grey Power Political Panel
 ===============================================

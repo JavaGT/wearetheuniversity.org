@@ -1,9 +1,11 @@
 ---
 slug: elegant-science-awarded
-title: "Elegant science awarded"
-date: 2008-03-09
+title: Elegant science awarded
+date: 2008-03-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0803/S00019/elegant-science-awarded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/09/elegant-science-awarded/index.html
+layout: layout.njk
 ---
 Elegant science awarded
 =======================

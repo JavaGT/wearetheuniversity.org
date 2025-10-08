@@ -1,9 +1,13 @@
 ---
 slug: uc-student-wins-trip-to-melbourne-on-naked-ceo-competition
-title: "UC student wins trip to Melbourne on Naked CEO Competition"
-date: 2013-07-16
-source-url: https://www.scoop.co.nz/stories/ED1307/S00090/uc-student-wins-trip-to-melbourne-on-naked-ceo-competition.htm
+title: UC student wins trip to Melbourne on Naked CEO Competition
+date: 2013-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00090/uc-student-wins-trip-to-melbourne-on-naked-ceo-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/16/uc-student-wins-trip-to-melbourne-on-naked-ceo-competition/index.html
+layout: layout.njk
 ---
 UC student wins trip to Melbourne on Naked CEO Competition
 ==========================================================

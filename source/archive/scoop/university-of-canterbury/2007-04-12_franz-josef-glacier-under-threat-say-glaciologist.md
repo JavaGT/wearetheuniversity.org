@@ -1,9 +1,13 @@
 ---
 slug: franz-josef-glacier-under-threat-say-glaciologist
-title: "Franz Josef Glacier under threat, say glaciologist"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/SC0704/S00026/franz-josef-glacier-under-threat-say-glaciologist.htm
+title: Franz Josef Glacier under threat, say glaciologist
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0704/S00026/franz-josef-glacier-under-threat-say-glaciologist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2007/04/12/franz-josef-glacier-under-threat-say-glaciologist/index.html
+layout: layout.njk
 ---
 Franz Josef Glacier under threat, say glaciologist
 ==================================================

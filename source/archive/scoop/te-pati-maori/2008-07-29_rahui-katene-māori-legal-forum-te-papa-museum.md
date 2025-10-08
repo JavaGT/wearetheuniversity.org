@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-māori-legal-forum-te-papa-museum
-title: "Rahui Katene: Māori Legal Forum: Te Papa Museum"
-date: 2008-07-29
-source-url: https://www.scoop.co.nz/stories/PO0807/S00354/rahui-katene-maori-legal-forum-te-papa-museum.htm
+title: 'Rahui Katene: Māori Legal Forum: Te Papa Museum'
+date: 2008-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00354/rahui-katene-maori-legal-forum-te-papa-museum.htm
 author: te-pati-maori
+permalink: /archive/2008/07/29/rahui-katene-m/index.html
+layout: layout.njk
 ---
 Rahui Katene: Māori Legal Forum: Te Papa Museum
 ===============================================

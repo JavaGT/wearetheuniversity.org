@@ -1,9 +1,13 @@
 ---
 slug: how-can-we-do-better-in-the-return-to-covid-enforced-work-from-home
-title: "How Can We Do Better In The Return To Covid-enforced Work From Home?"
-date: 2020-08-12
-source-url: https://www.scoop.co.nz/stories/PO2008/S00160/how-can-we-do-better-in-the-return-to-covid-enforced-work-from-home.htm
+title: How Can We Do Better In The Return To Covid-enforced Work From Home?
+date: 2020-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00160/how-can-we-do-better-in-the-return-to-covid-enforced-work-from-home.htm
 author: aut-university
+permalink: >-
+  /archive/2020/08/12/how-can-we-do-better-in-the-return-to-covid-enforced-work-from-home/index.html
+layout: layout.njk
 ---
 How Can We Do Better In The Return To Covid-enforced Work From Home?
 ====================================================================

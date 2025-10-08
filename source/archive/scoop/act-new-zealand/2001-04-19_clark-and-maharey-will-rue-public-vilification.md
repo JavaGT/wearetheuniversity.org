@@ -1,9 +1,12 @@
 ---
 slug: clark-and-maharey-will-rue-public-vilification
-title: "Clark and Maharey Will Rue Public Vilification"
-date: 2001-04-19
-source-url: https://www.scoop.co.nz/stories/PA0104/S00278/clark-and-maharey-will-rue-public-vilification.htm
+title: Clark and Maharey Will Rue Public Vilification
+date: 2001-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00278/clark-and-maharey-will-rue-public-vilification.htm
 author: act-new-zealand
+permalink: /archive/2001/04/19/clark-and-maharey-will-rue-public-vilification/index.html
+layout: layout.njk
 ---
 Clark and Maharey Will Rue Public Vilification
 ==============================================

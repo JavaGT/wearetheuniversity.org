@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-to-host-keynote-address-of-royal-visit
-title: "Lincoln University to host keynote address of royal visit"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/CU1911/S00151/lincoln-university-to-host-keynote-address-of-royal-visit.htm
+title: Lincoln University to host keynote address of royal visit
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1911/S00151/lincoln-university-to-host-keynote-address-of-royal-visit.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/11/12/lincoln-university-to-host-keynote-address-of-royal-visit/index.html
+layout: layout.njk
 ---
 Lincoln University to host keynote address of royal visit
 =========================================================

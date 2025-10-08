@@ -1,9 +1,13 @@
 ---
 slug: dawn-of-the-wellbeing-budget-revolution-or-facade
-title: "Dawn of the Wellbeing Budget – revolution or facade?"
-date: 2019-05-24
-source-url: https://www.scoop.co.nz/stories/PO1905/S00366/dawn-of-the-wellbeing-budget-revolution-or-facade.htm
+title: Dawn of the Wellbeing Budget – revolution or facade?
+date: 2019-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00366/dawn-of-the-wellbeing-budget-revolution-or-facade.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/24/dawn-of-the-wellbeing-budget-revolution-or-facade/index.html
+layout: layout.njk
 ---
 Dawn of the Wellbeing Budget – revolution or facade?
 ====================================================

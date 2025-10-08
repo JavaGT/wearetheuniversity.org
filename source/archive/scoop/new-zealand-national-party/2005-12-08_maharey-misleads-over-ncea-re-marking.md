@@ -1,9 +1,12 @@
 ---
 slug: maharey-misleads-over-ncea-re-marking
-title: "Maharey misleads over NCEA re-marking"
-date: 2005-12-08
-source-url: https://www.scoop.co.nz/stories/PA0512/S00115/maharey-misleads-over-ncea-re-marking.htm
+title: Maharey misleads over NCEA re-marking
+date: 2005-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00115/maharey-misleads-over-ncea-re-marking.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/08/maharey-misleads-over-ncea-re-marking/index.html
+layout: layout.njk
 ---
 Maharey misleads over NCEA re-marking
 =====================================

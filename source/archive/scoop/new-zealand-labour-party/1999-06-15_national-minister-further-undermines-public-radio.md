@@ -1,9 +1,13 @@
 ---
 slug: national-minister-further-undermines-public-radio
-title: "National Minister further undermines public radio"
-date: 1999-06-15
-source-url: https://www.scoop.co.nz/stories/PA9906/S00042/national-minister-further-undermines-public-radio.htm
+title: National Minister further undermines public radio
+date: 1999-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00042/national-minister-further-undermines-public-radio.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/06/15/national-minister-further-undermines-public-radio/index.html
+layout: layout.njk
 ---
 National Minister further undermines public radio
 =================================================

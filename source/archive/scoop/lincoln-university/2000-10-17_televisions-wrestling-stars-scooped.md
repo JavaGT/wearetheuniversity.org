@@ -1,9 +1,12 @@
 ---
 slug: televisions-wrestling-stars-scooped
-title: "Television’s Wrestling Stars Scooped"
-date: 2000-10-17
-source-url: https://www.scoop.co.nz/stories/SC0010/S00038/televisions-wrestling-stars-scooped.htm
+title: Television’s Wrestling Stars Scooped
+date: 2000-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0010/S00038/televisions-wrestling-stars-scooped.htm
 author: lincoln-university
+permalink: /archive/2000/10/17/televisions-wrestling-stars-scooped/index.html
+layout: layout.njk
 ---
 Television’s Wrestling Stars Scooped
 ====================================

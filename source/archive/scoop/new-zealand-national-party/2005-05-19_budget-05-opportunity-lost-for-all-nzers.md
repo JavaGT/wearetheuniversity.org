@@ -1,9 +1,12 @@
 ---
 slug: budget-05-opportunity-lost-for-all-nzers
-title: "Budget ’05: Opportunity Lost For All NZers"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PA0505/S00508/budget-05-opportunity-lost-for-all-nzers.htm
+title: 'Budget ’05: Opportunity Lost For All NZers'
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00508/budget-05-opportunity-lost-for-all-nzers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/19/budget-05-opportunity-lost-for-all-nzers/index.html
+layout: layout.njk
 ---
 Budget ’05: Opportunity Lost For All NZers
 ==========================================

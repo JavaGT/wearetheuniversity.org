@@ -1,9 +1,12 @@
 ---
 slug: national-to-force-vote-on-painted-apple-moth
-title: "National to force vote on Painted Apple Moth"
-date: 2003-03-14
-source-url: https://www.scoop.co.nz/stories/PA0303/S00258/national-to-force-vote-on-painted-apple-moth.htm
+title: National to force vote on Painted Apple Moth
+date: 2003-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00258/national-to-force-vote-on-painted-apple-moth.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/14/national-to-force-vote-on-painted-apple-moth/index.html
+layout: layout.njk
 ---
 National to force vote on Painted Apple Moth
 ============================================

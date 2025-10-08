@@ -1,8 +1,11 @@
 ---
 slug: help-us-redesign-our-faculty-websites!
-title: "Help us redesign our faculty websites!"
-date: 2017-02-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/02/help-redesign-faculty-websites.html
+title: Help us redesign our faculty websites!
+date: 2017-02-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/02/help-redesign-faculty-websites.html
+permalink: /archive/2017/02/20/help-us-redesign-our-faculty-websites/index.html
+layout: layout.njk
 ---
 Help us redesign our faculty websites!
 ======================================

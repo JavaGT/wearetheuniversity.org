@@ -1,9 +1,13 @@
 ---
 slug: educators-urged-to-to-get-serious-about-technology
-title: "Educators urged to to get serious about technology"
-date: 2011-02-17
-source-url: https://www.scoop.co.nz/stories/ED1102/S00053/educators-urged-to-to-get-serious-about-technology.htm
+title: Educators urged to to get serious about technology
+date: 2011-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00053/educators-urged-to-to-get-serious-about-technology.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/02/17/educators-urged-to-to-get-serious-about-technology/index.html
+layout: layout.njk
 ---
 Educators urged to to get serious about technology
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: storminator-takes-out-innovation-award
-title: "Storminator takes out Innovation Award"
-date: 2019-05-13
-source-url: https://www.scoop.co.nz/stories/SC1905/S00023/storminator-takes-out-innovation-award.htm
+title: Storminator takes out Innovation Award
+date: 2019-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1905/S00023/storminator-takes-out-innovation-award.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/13/storminator-takes-out-innovation-award/index.html
+layout: layout.njk
 ---
 Storminator takes out Innovation Award
 ======================================

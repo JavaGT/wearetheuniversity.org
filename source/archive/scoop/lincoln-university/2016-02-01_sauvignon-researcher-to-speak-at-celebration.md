@@ -1,9 +1,12 @@
 ---
 slug: sauvignon-researcher-to-speak-at-celebration
-title: "Sauvignon researcher to speak at Celebration"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/SC1602/S00003/sauvignon-researcher-to-speak-at-celebration.htm
+title: Sauvignon researcher to speak at Celebration
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00003/sauvignon-researcher-to-speak-at-celebration.htm
 author: lincoln-university
+permalink: /archive/2016/02/01/sauvignon-researcher-to-speak-at-celebration/index.html
+layout: layout.njk
 ---
 Sauvignon researcher to speak at Celebration
 ============================================

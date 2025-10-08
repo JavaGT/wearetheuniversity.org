@@ -1,9 +1,12 @@
 ---
 slug: albany-science-labs-open-new-opportunities
-title: "Albany science labs open new opportunities"
-date: 2013-03-20
-source-url: https://www.scoop.co.nz/stories/SC1303/S00033/albany-science-labs-open-new-opportunities.htm
+title: Albany science labs open new opportunities
+date: 2013-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00033/albany-science-labs-open-new-opportunities.htm
 author: massey-university
+permalink: /archive/2013/03/20/albany-science-labs-open-new-opportunities/index.html
+layout: layout.njk
 ---
 Albany science labs open new opportunities
 ==========================================

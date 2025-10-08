@@ -1,9 +1,12 @@
 ---
 slug: business-school-team-in-case-competition-final
-title: "Business School Team In Case Competition Final"
-date: 2004-11-10
-source-url: https://www.scoop.co.nz/stories/ED0411/S00033/business-school-team-in-case-competition-final.htm
+title: Business School Team In Case Competition Final
+date: 2004-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00033/business-school-team-in-case-competition-final.htm
 author: university-of-otago
+permalink: /archive/2004/11/10/business-school-team-in-case-competition-final/index.html
+layout: layout.njk
 ---
 Business School Team In Case Competition Final
 ==============================================

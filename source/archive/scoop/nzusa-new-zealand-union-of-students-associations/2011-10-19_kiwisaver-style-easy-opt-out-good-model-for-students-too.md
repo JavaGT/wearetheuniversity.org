@@ -1,9 +1,13 @@
 ---
 slug: kiwisaver-style-easy-opt-out-good-model-for-students-too
-title: "Kiwisaver-style easy opt-out good model for students too"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/ED1110/S00087/kiwisaver-style-easy-opt-out-good-model-for-students-too.htm
+title: Kiwisaver-style easy opt-out good model for students too
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00087/kiwisaver-style-easy-opt-out-good-model-for-students-too.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/10/19/kiwisaver-style-easy-opt-out-good-model-for-students-too/index.html
+layout: layout.njk
 ---
 Kiwisaver-style easy opt-out good model for students too
 ========================================================

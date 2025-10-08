@@ -1,9 +1,13 @@
 ---
 slug: national-to-attract-top-talent-and-support-startups
-title: "National To Attract Top Talent And Support Startups"
-date: 2023-09-15
-source-url: https://www.scoop.co.nz/stories/PA2309/S00084/national-to-attract-top-talent-and-support-startups.htm
+title: National To Attract Top Talent And Support Startups
+date: 2023-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00084/national-to-attract-top-talent-and-support-startups.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/15/national-to-attract-top-talent-and-support-startups/index.html
+layout: layout.njk
 ---
 National To Attract Top Talent And Support Startups
 ===================================================

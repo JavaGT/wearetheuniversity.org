@@ -1,9 +1,13 @@
 ---
 slug: national-would-overturn-waka-jumping-legislation
-title: "National would overturn waka jumping legislation"
-date: 2018-09-27
-source-url: https://www.scoop.co.nz/stories/PA1809/S00382/national-would-overturn-waka-jumping-legislation.htm
+title: National would overturn waka jumping legislation
+date: 2018-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00382/national-would-overturn-waka-jumping-legislation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/09/27/national-would-overturn-waka-jumping-legislation/index.html
+layout: layout.njk
 ---
 National would overturn waka jumping legislation
 ================================================

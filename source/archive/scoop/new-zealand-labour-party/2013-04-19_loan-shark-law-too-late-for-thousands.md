@@ -1,9 +1,12 @@
 ---
 slug: loan-shark-law-too-late-for-thousands
-title: "Loan shark law too late for thousands"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/PA1304/S00388/loan-shark-law-too-late-for-thousands.htm
+title: Loan shark law too late for thousands
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00388/loan-shark-law-too-late-for-thousands.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/19/loan-shark-law-too-late-for-thousands/index.html
+layout: layout.njk
 ---
 Loan shark law too late for thousands
 =====================================

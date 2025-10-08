@@ -1,9 +1,13 @@
 ---
 slug: 10-maungakiekie-schools-to-serve-kickstart-breakfasts
-title: "10 Maungakiekie schools to serve KickStart Breakfasts"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/PA1602/S00028/10-maungakiekie-schools-to-serve-kickstart-breakfasts.htm
+title: 10 Maungakiekie schools to serve KickStart Breakfasts
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00028/10-maungakiekie-schools-to-serve-kickstart-breakfasts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/02/02/10-maungakiekie-schools-to-serve-kickstart-breakfasts/index.html
+layout: layout.njk
 ---
 10 Maungakiekie schools to serve KickStart Breakfasts
 =====================================================

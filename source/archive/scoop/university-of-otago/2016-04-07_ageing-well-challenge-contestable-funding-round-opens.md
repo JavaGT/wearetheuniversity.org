@@ -1,9 +1,13 @@
 ---
 slug: ageing-well-challenge-contestable-funding-round-opens
-title: "Ageing Well Challenge contestable funding round opens"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/SC1604/S00008/ageing-well-challenge-contestable-funding-round-opens.htm
+title: Ageing Well Challenge contestable funding round opens
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00008/ageing-well-challenge-contestable-funding-round-opens.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/07/ageing-well-challenge-contestable-funding-round-opens/index.html
+layout: layout.njk
 ---
 Ageing Well Challenge contestable funding round opens
 =====================================================

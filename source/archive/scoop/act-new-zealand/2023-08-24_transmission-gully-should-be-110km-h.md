@@ -1,9 +1,12 @@
 ---
 slug: transmission-gully-should-be-110km-h
-title: "Transmission Gully Should Be 110km/h"
-date: 2023-08-24
-source-url: https://www.scoop.co.nz/stories/PA2308/S00158/transmission-gully-should-be-110kmh.htm
+title: Transmission Gully Should Be 110km/h
+date: 2023-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00158/transmission-gully-should-be-110kmh.htm
 author: act-new-zealand
+permalink: /archive/2023/08/24/transmission-gully-should-be-110km-h/index.html
+layout: layout.njk
 ---
 Transmission Gully Should Be 110km/h
 ====================================

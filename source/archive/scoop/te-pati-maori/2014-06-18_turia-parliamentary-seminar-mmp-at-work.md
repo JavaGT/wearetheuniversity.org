@@ -1,9 +1,12 @@
 ---
 slug: turia-parliamentary-seminar-mmp-at-work
-title: "Turia: Parliamentary Seminar - MMP at Work"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00272/turia-parliamentary-seminar-mmp-at-work.htm
+title: 'Turia: Parliamentary Seminar - MMP at Work'
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00272/turia-parliamentary-seminar-mmp-at-work.htm
 author: te-pati-maori
+permalink: /archive/2014/06/18/turia-parliamentary-seminar-mmp-at-work/index.html
+layout: layout.njk
 ---
 Turia: Parliamentary Seminar - MMP at Work
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: should-new-zealand-and-australia-share-their-ocean
-title: "Should New Zealand and Australia share their ocean"
-date: 2000-11-29
-source-url: https://www.scoop.co.nz/stories/GE0011/S00087/should-new-zealand-and-australia-share-their-ocean.htm
+title: Should New Zealand and Australia share their ocean
+date: 2000-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0011/S00087/should-new-zealand-and-australia-share-their-ocean.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/11/29/should-new-zealand-and-australia-share-their-ocean/index.html
+layout: layout.njk
 ---
 Should New Zealand and Australia share their ocean
 ==================================================

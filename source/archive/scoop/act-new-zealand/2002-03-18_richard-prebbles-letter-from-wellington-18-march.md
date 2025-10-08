@@ -1,9 +1,13 @@
 ---
 slug: richard-prebbles-letter-from-wellington-18-march
-title: "Richard Prebble's Letter from Wellington  18 March"
-date: 2002-03-18
-source-url: https://www.scoop.co.nz/stories/PA0203/S00310/richard-prebbles-letter-from-wellington-18-march.htm
+title: Richard Prebble's Letter from Wellington  18 March
+date: 2002-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00310/richard-prebbles-letter-from-wellington-18-march.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/03/18/richard-prebbles-letter-from-wellington-18-march/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter from Wellington 18 March
 =================================================

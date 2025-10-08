@@ -1,9 +1,12 @@
 ---
 slug: canterbury-workers-need-more-support-ctu
-title: "Canterbury Workers Need More Support - CTU"
-date: 2011-04-04
-source-url: https://www.scoop.co.nz/stories/PO1104/S00046/canterbury-workers-need-more-support-ctu.htm
+title: Canterbury Workers Need More Support - CTU
+date: 2011-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00046/canterbury-workers-need-more-support-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/04/04/canterbury-workers-need-more-support-ctu/index.html
+layout: layout.njk
 ---
 Canterbury Workers Need More Support - CTU
 ==========================================

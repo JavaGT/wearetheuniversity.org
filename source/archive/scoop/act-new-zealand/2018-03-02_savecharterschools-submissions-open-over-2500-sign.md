@@ -1,9 +1,13 @@
 ---
 slug: savecharterschools-submissions-open-over-2500-sign
-title: "SaveCharterSchools: Submissions Open, Over 2500 Sign"
-date: 2018-03-02
-source-url: https://www.scoop.co.nz/stories/PA1803/S00020/savecharterschools-submissions-open-over-2500-sign.htm
+title: 'SaveCharterSchools: Submissions Open, Over 2500 Sign'
+date: 2018-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00020/savecharterschools-submissions-open-over-2500-sign.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/03/02/savecharterschools-submissions-open-over-2500-sign/index.html
+layout: layout.njk
 ---
 SaveCharterSchools: Submissions Open, Over 2500 Sign
 ====================================================

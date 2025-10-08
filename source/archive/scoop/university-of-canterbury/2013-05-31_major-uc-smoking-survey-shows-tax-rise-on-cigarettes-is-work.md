@@ -1,9 +1,13 @@
 ---
 slug: major-uc-smoking-survey-shows-tax-rise-on-cigarettes-is-work
-title: "Major UC Smoking Survey Shows Tax Rise On Cigarettes Is Work"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/SC1305/S00094/major-uc-smoking-survey-shows-tax-rise-on-cigarettes-is-work.htm
+title: Major UC Smoking Survey Shows Tax Rise On Cigarettes Is Work
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00094/major-uc-smoking-survey-shows-tax-rise-on-cigarettes-is-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/31/major-uc-smoking-survey-shows-tax-rise-on-cigarettes-is-work/index.html
+layout: layout.njk
 ---
 Major UC Smoking Survey Shows Tax Rise On Cigarettes Is Work
 ============================================================

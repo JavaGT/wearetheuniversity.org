@@ -1,9 +1,13 @@
 ---
 slug: waikato-researchers-probe-youths-hopes-and-fears
-title: "Waikato researchers probe youth’s hopes and fears"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/ED0907/S00077/waikato-researchers-probe-youths-hopes-and-fears.htm
+title: Waikato researchers probe youth’s hopes and fears
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00077/waikato-researchers-probe-youths-hopes-and-fears.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/07/20/waikato-researchers-probe-youths-hopes-and-fears/index.html
+layout: layout.njk
 ---
 Waikato researchers probe youth’s hopes and fears
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: labours-failure-to-prepare-for-delta-has-cost-kiwis-their-jobs
-title: "Labour’s failure to prepare for Delta has cost Kiwis their jobs"
-date: 2021-09-10
-source-url: https://www.scoop.co.nz/stories/PA2109/S00099/labours-failure-to-prepare-for-delta-has-cost-kiwis-their-jobs.htm
+title: Labour’s failure to prepare for Delta has cost Kiwis their jobs
+date: 2021-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00099/labours-failure-to-prepare-for-delta-has-cost-kiwis-their-jobs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/10/labours-failure-to-prepare-for-delta-has-cost-kiwis-their-jobs/index.html
+layout: layout.njk
 ---
 Labour’s failure to prepare for Delta has cost Kiwis their jobs
 ===============================================================

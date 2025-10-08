@@ -1,9 +1,13 @@
 ---
 slug: police-raid-on-young-family-raises-serious-questions
-title: "Police raid on young family raises serious questions"
-date: 2020-01-11
-source-url: https://www.scoop.co.nz/stories/PA2001/S00022/police-raid-on-young-family-raises-serious-questions.htm
+title: Police raid on young family raises serious questions
+date: 2020-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00022/police-raid-on-young-family-raises-serious-questions.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/01/11/police-raid-on-young-family-raises-serious-questions/index.html
+layout: layout.njk
 ---
 Police raid on young family raises serious questions
 ====================================================

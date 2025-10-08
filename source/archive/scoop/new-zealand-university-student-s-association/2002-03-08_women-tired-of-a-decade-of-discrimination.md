@@ -1,9 +1,12 @@
 ---
 slug: women-tired-of-a-decade-of-discrimination
-title: "Women Tired Of A Decade Of Discrimination"
-date: 2002-03-08
-source-url: https://www.scoop.co.nz/stories/ED0203/S00024/women-tired-of-a-decade-of-discrimination.htm
+title: Women Tired Of A Decade Of Discrimination
+date: 2002-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00024/women-tired-of-a-decade-of-discrimination.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/03/08/women-tired-of-a-decade-of-discrimination/index.html
+layout: layout.njk
 ---
 Women Tired Of A Decade Of Discrimination
 =========================================

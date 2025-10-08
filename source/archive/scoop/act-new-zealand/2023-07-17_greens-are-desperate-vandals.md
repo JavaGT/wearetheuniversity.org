@@ -1,9 +1,11 @@
 ---
 slug: greens-are-desperate-vandals
-title: "Greens Are Desperate Vandals"
-date: 2023-07-17
+title: Greens Are Desperate Vandals
+date: 2023-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2307/S00077/greens-are-desperate-vandals.htm
 author: act-new-zealand
+permalink: /archive/2023/07/17/greens-are-desperate-vandals/index.html
+layout: layout.njk
 ---
 Greens Are Desperate Vandals
 ============================

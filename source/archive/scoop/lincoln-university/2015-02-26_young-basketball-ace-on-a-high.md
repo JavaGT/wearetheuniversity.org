@@ -1,9 +1,12 @@
 ---
 slug: young-basketball-ace-on-a-high
-title: "Young basketball ace on a high"
-date: 2015-02-26
-source-url: https://www.scoop.co.nz/stories/CU1502/S00545/young-basketball-ace-on-a-high.htm
+title: Young basketball ace on a high
+date: 2015-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1502/S00545/young-basketball-ace-on-a-high.htm
 author: lincoln-university
+permalink: /archive/2015/02/26/young-basketball-ace-on-a-high/index.html
+layout: layout.njk
 ---
 Young basketball ace on a high
 ==============================

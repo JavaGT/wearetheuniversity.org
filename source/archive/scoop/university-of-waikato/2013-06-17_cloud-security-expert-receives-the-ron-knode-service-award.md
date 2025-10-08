@@ -1,9 +1,13 @@
 ---
 slug: cloud-security-expert-receives-the-ron-knode-service-award
-title: "Cloud security expert receives the Ron Knode service award"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/ED1306/S00091/cloud-security-expert-receives-the-ron-knode-service-award.htm
+title: Cloud security expert receives the Ron Knode service award
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00091/cloud-security-expert-receives-the-ron-knode-service-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/06/17/cloud-security-expert-receives-the-ron-knode-service-award/index.html
+layout: layout.njk
 ---
 Cloud security expert receives the Ron Knode service award
 ==========================================================

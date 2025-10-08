@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-celebrating-achievement
-title: "Victoria University - Celebrating achievement"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/ED0705/S00057/victoria-university-celebrating-achievement.htm
+title: Victoria University - Celebrating achievement
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00057/victoria-university-celebrating-achievement.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/14/victoria-university-celebrating-achievement/index.html
+layout: layout.njk
 ---
 Victoria University - Celebrating achievement
 =============================================

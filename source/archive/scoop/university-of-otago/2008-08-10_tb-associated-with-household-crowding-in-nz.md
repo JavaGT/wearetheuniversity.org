@@ -1,9 +1,12 @@
 ---
 slug: tb-associated-with-household-crowding-in-nz
-title: "TB associated with household crowding in NZ"
-date: 2008-08-10
-source-url: https://www.scoop.co.nz/stories/GE0808/S00056/tb-associated-with-household-crowding-in-nz.htm
+title: TB associated with household crowding in NZ
+date: 2008-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00056/tb-associated-with-household-crowding-in-nz.htm
 author: university-of-otago
+permalink: /archive/2008/08/10/tb-associated-with-household-crowding-in-nz/index.html
+layout: layout.njk
 ---
 TB associated with household crowding in NZ
 ===========================================

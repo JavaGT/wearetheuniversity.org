@@ -1,9 +1,13 @@
 ---
 slug: speech-to-nz-federation-of-disability-information-centres
-title: "Speech to NZ Federation of Disability Information Centres"
-date: 2017-05-18
-source-url: https://www.scoop.co.nz/stories/PA1705/S00379/speech-to-nz-federation-of-disability-information-centres.htm
+title: Speech to NZ Federation of Disability Information Centres
+date: 2017-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00379/speech-to-nz-federation-of-disability-information-centres.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/18/speech-to-nz-federation-of-disability-information-centres/index.html
+layout: layout.njk
 ---
 Speech to NZ Federation of Disability Information Centres
 =========================================================

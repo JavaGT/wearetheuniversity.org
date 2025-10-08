@@ -1,9 +1,12 @@
 ---
 slug: maui-dolphins-fighting-for-their-life
-title: "Maui Dolphins Fighting for their Life"
-date: 2007-03-22
-source-url: https://www.scoop.co.nz/stories/PA0703/S00453/maui-dolphins-fighting-for-their-life.htm
+title: Maui Dolphins Fighting for their Life
+date: 2007-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00453/maui-dolphins-fighting-for-their-life.htm
 author: te-pati-maori
+permalink: /archive/2007/03/22/maui-dolphins-fighting-for-their-life/index.html
+layout: layout.njk
 ---
 Maui Dolphins Fighting for their Life
 =====================================

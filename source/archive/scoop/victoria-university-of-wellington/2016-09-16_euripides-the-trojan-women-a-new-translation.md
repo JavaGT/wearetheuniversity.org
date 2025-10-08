@@ -1,9 +1,12 @@
 ---
 slug: euripides-the-trojan-women-a-new-translation
-title: "Euripides’ The Trojan Women A New Translation"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/CU1609/S00264/euripides-the-trojan-women-a-new-translation.htm
+title: Euripides’ The Trojan Women A New Translation
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00264/euripides-the-trojan-women-a-new-translation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/09/16/euripides-the-trojan-women-a-new-translation/index.html
+layout: layout.njk
 ---
 Euripides’ The Trojan Women A New Translation
 =============================================

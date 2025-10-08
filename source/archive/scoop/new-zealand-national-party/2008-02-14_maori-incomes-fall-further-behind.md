@@ -1,9 +1,12 @@
 ---
 slug: maori-incomes-fall-further-behind
-title: "Maori incomes fall further behind"
-date: 2008-02-14
-source-url: https://www.scoop.co.nz/stories/PA0802/S00198/maori-incomes-fall-further-behind.htm
+title: Maori incomes fall further behind
+date: 2008-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00198/maori-incomes-fall-further-behind.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/14/maori-incomes-fall-further-behind/index.html
+layout: layout.njk
 ---
 Maori incomes fall further behind
 =================================

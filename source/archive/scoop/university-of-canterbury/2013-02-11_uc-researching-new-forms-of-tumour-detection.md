@@ -1,9 +1,12 @@
 ---
 slug: uc-researching-new-forms-of-tumour-detection
-title: "UC researching new forms of tumour detection"
-date: 2013-02-11
-source-url: https://www.scoop.co.nz/stories/SC1302/S00030/uc-researching-new-forms-of-tumour-detection.htm
+title: UC researching new forms of tumour detection
+date: 2013-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1302/S00030/uc-researching-new-forms-of-tumour-detection.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/11/uc-researching-new-forms-of-tumour-detection/index.html
+layout: layout.njk
 ---
 UC researching new forms of tumour detection
 ============================================

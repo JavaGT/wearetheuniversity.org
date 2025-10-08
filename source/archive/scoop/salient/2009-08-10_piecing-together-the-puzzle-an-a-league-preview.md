@@ -1,9 +1,12 @@
 ---
 slug: piecing-together-the-puzzle-an-a-league-preview
-title: "Piecing together the Puzzle: An A League preview"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/CU0908/S00149/piecing-together-the-puzzle-an-a-league-preview.htm
+title: 'Piecing together the Puzzle: An A League preview'
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00149/piecing-together-the-puzzle-an-a-league-preview.htm
 author: salient
+permalink: /archive/2009/08/10/piecing-together-the-puzzle-an-a-league-preview/index.html
+layout: layout.njk
 ---
 Piecing together the Puzzle: An A League preview
 ================================================

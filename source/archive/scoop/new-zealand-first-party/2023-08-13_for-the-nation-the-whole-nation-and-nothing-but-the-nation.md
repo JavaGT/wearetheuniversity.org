@@ -1,9 +1,13 @@
 ---
 slug: for-the-nation-the-whole-nation-and-nothing-but-the-nation
-title: "'For The Nation, The Whole Nation, And Nothing But The Nation'"
-date: 2023-08-13
-source-url: https://www.scoop.co.nz/stories/PA2308/S00079/for-the-nation-the-whole-nation-and-nothing-but-the-nation.htm
+title: '''For The Nation, The Whole Nation, And Nothing But The Nation'''
+date: 2023-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00079/for-the-nation-the-whole-nation-and-nothing-but-the-nation.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2023/08/13/for-the-nation-the-whole-nation-and-nothing-but-the-nation/index.html
+layout: layout.njk
 ---
 'For The Nation, The Whole Nation, And Nothing But The Nation'
 ==============================================================

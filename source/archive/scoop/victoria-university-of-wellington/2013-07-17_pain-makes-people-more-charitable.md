@@ -1,9 +1,12 @@
 ---
 slug: pain-makes-people-more-charitable
-title: "Pain makes people more charitable"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/SC1307/S00042/pain-makes-people-more-charitable.htm
+title: Pain makes people more charitable
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00042/pain-makes-people-more-charitable.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/17/pain-makes-people-more-charitable/index.html
+layout: layout.njk
 ---
 Pain makes people more charitable
 =================================

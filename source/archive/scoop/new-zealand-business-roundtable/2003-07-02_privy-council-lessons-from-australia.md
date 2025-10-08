@@ -1,9 +1,12 @@
 ---
 slug: privy-council-lessons-from-australia
-title: "Privy Council: Lessons From Australia"
-date: 2003-07-02
-source-url: https://www.scoop.co.nz/stories/PO0307/S00022/privy-council-lessons-from-australia.htm
+title: 'Privy Council: Lessons From Australia'
+date: 2003-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0307/S00022/privy-council-lessons-from-australia.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2003/07/02/privy-council-lessons-from-australia/index.html
+layout: layout.njk
 ---
 Privy Council: Lessons From Australia
 =====================================

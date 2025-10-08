@@ -1,9 +1,11 @@
 ---
 slug: reading-the-kauri-rings
-title: "Reading The Kauri Rings"
-date: 2002-08-20
+title: Reading The Kauri Rings
+date: 2002-08-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0208/S00031/reading-the-kauri-rings.htm
 author: auckland-university
+permalink: /archive/2002/08/20/reading-the-kauri-rings/index.html
+layout: layout.njk
 ---
 Reading The Kauri Rings
 =======================

@@ -1,9 +1,13 @@
 ---
 slug: solution-needed-for-bureaucratic-obstacle-course
-title: "Solution needed for bureaucratic obstacle course"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/PA1211/S00122/solution-needed-for-bureaucratic-obstacle-course.htm
+title: Solution needed for bureaucratic obstacle course
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00122/solution-needed-for-bureaucratic-obstacle-course.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/11/08/solution-needed-for-bureaucratic-obstacle-course/index.html
+layout: layout.njk
 ---
 Solution needed for bureaucratic obstacle course
 ================================================

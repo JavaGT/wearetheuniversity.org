@@ -1,9 +1,13 @@
 ---
 slug: national-student-president-to-meet-with-steven-joyce
-title: "National student president to meet with Steven Joyce"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/ED1310/S00066/national-student-president-to-meet-with-steven-joyce.htm
+title: National student president to meet with Steven Joyce
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00066/national-student-president-to-meet-with-steven-joyce.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/10/09/national-student-president-to-meet-with-steven-joyce/index.html
+layout: layout.njk
 ---
 National student president to meet with Steven Joyce
 ====================================================

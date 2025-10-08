@@ -1,9 +1,12 @@
 ---
 slug: cera-needs-to-be-reviewed-and-improved
-title: "CERA needs to be reviewed and improved"
-date: 2011-04-13
-source-url: https://www.scoop.co.nz/stories/PA1104/S00278/cera-needs-to-be-reviewed-and-improved.htm
+title: CERA needs to be reviewed and improved
+date: 2011-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00278/cera-needs-to-be-reviewed-and-improved.htm
 author: green-party
+permalink: /archive/2011/04/13/cera-needs-to-be-reviewed-and-improved/index.html
+layout: layout.njk
 ---
 CERA needs to be reviewed and improved
 ======================================

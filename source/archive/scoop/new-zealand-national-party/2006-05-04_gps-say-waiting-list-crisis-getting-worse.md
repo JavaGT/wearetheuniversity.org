@@ -1,9 +1,12 @@
 ---
 slug: gps-say-waiting-list-crisis-getting-worse
-title: "GPs say waiting list crisis getting worse"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/PA0605/S00120/gps-say-waiting-list-crisis-getting-worse.htm
+title: GPs say waiting list crisis getting worse
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00120/gps-say-waiting-list-crisis-getting-worse.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/04/gps-say-waiting-list-crisis-getting-worse/index.html
+layout: layout.njk
 ---
 GPs say waiting list crisis getting worse
 =========================================

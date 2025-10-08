@@ -1,9 +1,12 @@
 ---
 slug: more-desperate-defence-from-cullen-on-tax-act
-title: "More Desperate Defence From Cullen on Tax - ACT"
-date: 1999-08-02
-source-url: https://www.scoop.co.nz/stories/PA9908/S00025/more-desperate-defence-from-cullen-on-tax-act.htm
+title: More Desperate Defence From Cullen on Tax - ACT
+date: 1999-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00025/more-desperate-defence-from-cullen-on-tax-act.htm
 author: act-new-zealand
+permalink: /archive/1999/08/02/more-desperate-defence-from-cullen-on-tax-act/index.html
+layout: layout.njk
 ---
 More Desperate Defence From Cullen on Tax - ACT
 ===============================================

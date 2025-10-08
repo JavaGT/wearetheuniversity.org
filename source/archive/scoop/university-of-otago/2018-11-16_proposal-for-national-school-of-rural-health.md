@@ -1,9 +1,12 @@
 ---
 slug: proposal-for-national-school-of-rural-health
-title: "Proposal for National School of Rural Health"
-date: 2018-11-16
-source-url: https://www.scoop.co.nz/stories/GE1811/S00060/proposal-for-national-school-of-rural-health.htm
+title: Proposal for National School of Rural Health
+date: 2018-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00060/proposal-for-national-school-of-rural-health.htm
 author: university-of-otago
+permalink: /archive/2018/11/16/proposal-for-national-school-of-rural-health/index.html
+layout: layout.njk
 ---
 Proposal for National School of Rural Health
 ============================================

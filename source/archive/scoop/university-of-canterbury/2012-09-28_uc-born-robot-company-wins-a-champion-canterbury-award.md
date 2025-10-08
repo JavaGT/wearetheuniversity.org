@@ -1,9 +1,13 @@
 ---
 slug: uc-born-robot-company-wins-a-champion-canterbury-award
-title: "UC-born robot company wins a Champion Canterbury award"
-date: 2012-09-28
-source-url: https://www.scoop.co.nz/stories/BU1209/S01049/uc-born-robot-company-wins-a-champion-canterbury-award.htm
+title: UC-born robot company wins a Champion Canterbury award
+date: 2012-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1209/S01049/uc-born-robot-company-wins-a-champion-canterbury-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/28/uc-born-robot-company-wins-a-champion-canterbury-award/index.html
+layout: layout.njk
 ---
 UC-born robot company wins a Champion Canterbury award
 ======================================================

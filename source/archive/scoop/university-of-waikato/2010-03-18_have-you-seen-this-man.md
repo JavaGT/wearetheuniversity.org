@@ -1,9 +1,11 @@
 ---
 slug: have-you-seen-this-man
-title: "Have you seen this man?"
-date: 2010-03-18
+title: Have you seen this man?
+date: 2010-03-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1003/S00295/have-you-seen-this-man.htm
 author: university-of-waikato
+permalink: /archive/2010/03/18/have-you-seen-this-man/index.html
+layout: layout.njk
 ---
 Have you seen this man?
 =======================

@@ -1,9 +1,13 @@
 ---
 slug: unclear-roadside-drug-testing-risks-motorist-delays
-title: "Unclear Roadside Drug Testing Risks Motorist Delays"
-date: 2024-08-20
-source-url: https://www.scoop.co.nz/stories/PO2408/S00095/unclear-roadside-drug-testing-risks-motorist-delays.htm
+title: Unclear Roadside Drug Testing Risks Motorist Delays
+date: 2024-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2408/S00095/unclear-roadside-drug-testing-risks-motorist-delays.htm
 author: aut-university
+permalink: >-
+  /archive/2024/08/20/unclear-roadside-drug-testing-risks-motorist-delays/index.html
+layout: layout.njk
 ---
 Unclear Roadside Drug Testing Risks Motorist Delays
 ===================================================

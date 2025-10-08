@@ -1,9 +1,11 @@
 ---
 slug: keith-lockes-budget-speech
-title: "Keith Locke's Budget Speech"
-date: 2002-05-24
+title: Keith Locke's Budget Speech
+date: 2002-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0205/S00571/keith-lockes-budget-speech.htm
 author: green-party
+permalink: /archive/2002/05/24/keith-lockes-budget-speech/index.html
+layout: layout.njk
 ---
 Keith Locke's Budget Speech
 ===========================

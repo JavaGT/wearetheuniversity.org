@@ -1,9 +1,13 @@
 ---
 slug: rally-condemns-zionism-and-the-state-of-israel-for-ongoing-genocide
-title: "Rally Condemns Zionism And The State Of Israel For Ongoing Genocide"
-date: 2024-05-16
-source-url: https://www.scoop.co.nz/stories/PO2405/S00077/rally-condemns-zionism-and-the-state-of-israel-for-ongoing-genocide.htm
+title: Rally Condemns Zionism And The State Of Israel For Ongoing Genocide
+date: 2024-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2405/S00077/rally-condemns-zionism-and-the-state-of-israel-for-ongoing-genocide.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2024/05/16/rally-condemns-zionism-and-the-state-of-israel-for-ongoing-genocide/index.html
+layout: layout.njk
 ---
 Rally Condemns Zionism And The State Of Israel For Ongoing Genocide
 ===================================================================

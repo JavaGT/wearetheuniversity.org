@@ -1,9 +1,11 @@
 ---
 slug: the-quiet-earth
-title: "The Quiet Earth"
-date: 2020-07-24
+title: The Quiet Earth
+date: 2020-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC2007/S00047/the-quiet-earth.htm
 author: auckland-university
+permalink: /archive/2020/07/24/the-quiet-earth/index.html
+layout: layout.njk
 ---
 The Quiet Earth
 ===============

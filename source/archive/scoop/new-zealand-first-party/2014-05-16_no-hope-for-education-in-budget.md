@@ -1,9 +1,12 @@
 ---
 slug: no-hope-for-education-in-budget
-title: "No Hope for Education in Budget"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/PA1405/S00301/no-hope-for-education-in-budget.htm
+title: No Hope for Education in Budget
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00301/no-hope-for-education-in-budget.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/16/no-hope-for-education-in-budget/index.html
+layout: layout.njk
 ---
 No Hope for Education in Budget
 ===============================

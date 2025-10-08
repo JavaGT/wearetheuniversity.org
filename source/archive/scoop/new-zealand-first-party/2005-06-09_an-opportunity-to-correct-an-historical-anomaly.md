@@ -1,9 +1,12 @@
 ---
 slug: an-opportunity-to-correct-an-historical-anomaly
-title: "An Opportunity To Correct An Historical Anomaly"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00160/an-opportunity-to-correct-an-historical-anomaly.htm
+title: An Opportunity To Correct An Historical Anomaly
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00160/an-opportunity-to-correct-an-historical-anomaly.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/09/an-opportunity-to-correct-an-historical-anomaly/index.html
+layout: layout.njk
 ---
 An Opportunity To Correct An Historical Anomaly
 ===============================================

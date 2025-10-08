@@ -1,9 +1,13 @@
 ---
 slug: research-exercise-does-a-lot-of-good-for-ageing-muscles
-title: "Research: exercise does a lot of good for ageing muscles"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/GE1805/S00113/research-exercise-does-a-lot-of-good-for-ageing-muscles.htm
+title: 'Research: exercise does a lot of good for ageing muscles'
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00113/research-exercise-does-a-lot-of-good-for-ageing-muscles.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/24/research-exercise-does-a-lot-of-good-for-ageing-muscles/index.html
+layout: layout.njk
 ---
 Research: exercise does a lot of good for ageing muscles
 ========================================================

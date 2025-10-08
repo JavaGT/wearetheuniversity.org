@@ -1,9 +1,13 @@
 ---
 slug: uc-scientific-research-into-possibilities-of-nz-seaweed
-title: "UC scientific research into possibilities of NZ seaweed"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/SC1210/S00045/uc-scientific-research-into-possibilities-of-nz-seaweed.htm
+title: UC scientific research into possibilities of NZ seaweed
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00045/uc-scientific-research-into-possibilities-of-nz-seaweed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/24/uc-scientific-research-into-possibilities-of-nz-seaweed/index.html
+layout: layout.njk
 ---
 UC scientific research into possibilities of NZ seaweed
 =======================================================

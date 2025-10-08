@@ -1,9 +1,13 @@
 ---
 slug: te-reo-curriculum-wont-solve-big-maori-ed-issues
-title: "Te Reo curriculum won’t solve big Maori ed issues"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00434/te-reo-curriculum-wont-solve-big-maori-ed-issues.htm
+title: Te Reo curriculum won’t solve big Maori ed issues
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00434/te-reo-curriculum-wont-solve-big-maori-ed-issues.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/03/21/te-reo-curriculum-wont-solve-big-maori-ed-issues/index.html
+layout: layout.njk
 ---
 Te Reo curriculum won’t solve big Maori ed issues
 =================================================

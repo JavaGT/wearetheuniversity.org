@@ -1,9 +1,12 @@
 ---
 slug: govt-has-new-policy-on-psychiatric-patients
-title: "Govt Has New Policy On Psychiatric Patients"
-date: 2002-02-15
-source-url: https://www.scoop.co.nz/stories/PA0202/S00209/govt-has-new-policy-on-psychiatric-patients.htm
+title: Govt Has New Policy On Psychiatric Patients
+date: 2002-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00209/govt-has-new-policy-on-psychiatric-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/15/govt-has-new-policy-on-psychiatric-patients/index.html
+layout: layout.njk
 ---
 Govt Has New Policy On Psychiatric Patients
 ===========================================

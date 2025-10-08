@@ -1,9 +1,12 @@
 ---
 slug: massive-police-bill-for-port-dispute
-title: "Massive Police Bill For Port Dispute"
-date: 2001-04-04
-source-url: https://www.scoop.co.nz/stories/PA0104/S00055/massive-police-bill-for-port-dispute.htm
+title: Massive Police Bill For Port Dispute
+date: 2001-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00055/massive-police-bill-for-port-dispute.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/04/massive-police-bill-for-port-dispute/index.html
+layout: layout.njk
 ---
 Massive Police Bill For Port Dispute
 ====================================

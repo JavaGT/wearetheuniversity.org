@@ -1,9 +1,13 @@
 ---
 slug: piecemeal-drip-feed-road-funding-not-sound-policy
-title: "Piecemeal, drip-feed road funding not sound policy"
-date: 2005-08-03
-source-url: https://www.scoop.co.nz/stories/PA0508/S00091/piecemeal-drip-feed-road-funding-not-sound-policy.htm
+title: Piecemeal, drip-feed road funding not sound policy
+date: 2005-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00091/piecemeal-drip-feed-road-funding-not-sound-policy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/08/03/piecemeal-drip-feed-road-funding-not-sound-policy/index.html
+layout: layout.njk
 ---
 Piecemeal, drip-feed road funding not sound policy
 ==================================================

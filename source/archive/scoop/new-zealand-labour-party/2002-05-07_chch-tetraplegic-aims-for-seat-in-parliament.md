@@ -1,9 +1,12 @@
 ---
 slug: chch-tetraplegic-aims-for-seat-in-parliament
-title: "Chch Tetraplegic Aims For Seat In Parliament"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/PO0205/S00069/chch-tetraplegic-aims-for-seat-in-parliament.htm
+title: Chch Tetraplegic Aims For Seat In Parliament
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00069/chch-tetraplegic-aims-for-seat-in-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/05/07/chch-tetraplegic-aims-for-seat-in-parliament/index.html
+layout: layout.njk
 ---
 Chch Tetraplegic Aims For Seat In Parliament
 ============================================

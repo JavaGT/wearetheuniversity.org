@@ -1,9 +1,13 @@
 ---
 slug: why-freedom-allows-diversity-and-fosters-tolerance
-title: "Why Freedom Allows Diversity And Fosters Tolerance"
-date: 2004-07-05
-source-url: https://www.scoop.co.nz/stories/PA0407/S00079/why-freedom-allows-diversity-and-fosters-tolerance.htm
+title: Why Freedom Allows Diversity And Fosters Tolerance
+date: 2004-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00079/why-freedom-allows-diversity-and-fosters-tolerance.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2004/07/05/why-freedom-allows-diversity-and-fosters-tolerance/index.html
+layout: layout.njk
 ---
 Why Freedom Allows Diversity And Fosters Tolerance
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: hidden-in-plain-sight-discovering-ucs-unseen-artefacts
-title: "Hidden In Plain Sight – Discovering UC’s Unseen Artefacts"
-date: 2020-06-26
-source-url: https://www.scoop.co.nz/stories/ED2006/S00036/hidden-in-plain-sight-discovering-ucs-unseen-artefacts.htm
+title: Hidden In Plain Sight – Discovering UC’s Unseen Artefacts
+date: 2020-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00036/hidden-in-plain-sight-discovering-ucs-unseen-artefacts.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/26/hidden-in-plain-sight-discovering-ucs-unseen-artefacts/index.html
+layout: layout.njk
 ---
 Hidden In Plain Sight – Discovering UC’s Unseen Artefacts
 =========================================================

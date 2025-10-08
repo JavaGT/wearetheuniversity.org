@@ -1,9 +1,13 @@
 ---
 slug: national-centre-to-address-neurological-disorders
-title: "National centre to address neurological disorders"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/SC0904/S00039/national-centre-to-address-neurological-disorders.htm
+title: National centre to address neurological disorders
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00039/national-centre-to-address-neurological-disorders.htm
 author: aut-university
+permalink: >-
+  /archive/2009/04/22/national-centre-to-address-neurological-disorders/index.html
+layout: layout.njk
 ---
 National centre to address neurological disorders
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: strategy-means-nothing-if-government-restricts-access
-title: "Strategy means nothing if government restricts access"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/PA1403/S00060/strategy-means-nothing-if-government-restricts-access.htm
+title: Strategy means nothing if government restricts access
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00060/strategy-means-nothing-if-government-restricts-access.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/03/05/strategy-means-nothing-if-government-restricts-access/index.html
+layout: layout.njk
 ---
 Strategy means nothing if government restricts access
 =====================================================

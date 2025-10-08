@@ -1,9 +1,11 @@
 ---
 slug: vote-act-for-positive-change
-title: "Vote ACT For Positive Change"
-date: 1999-11-26
+title: Vote ACT For Positive Change
+date: 1999-11-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO9911/S00177/vote-act-for-positive-change.htm
 author: prebble-s-rebels
+permalink: /archive/1999/11/26/vote-act-for-positive-change/index.html
+layout: layout.njk
 ---
 Vote ACT For Positive Change
 ============================

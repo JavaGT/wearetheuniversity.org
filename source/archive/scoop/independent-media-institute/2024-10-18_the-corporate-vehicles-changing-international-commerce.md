@@ -1,9 +1,13 @@
 ---
 slug: the-corporate-vehicles-changing-international-commerce
-title: "The Corporate Vehicles Changing International Commerce"
-date: 2024-10-18
-source-url: https://www.scoop.co.nz/stories/WO2410/S00212/the-corporate-vehicles-changing-international-commerce.htm
+title: The Corporate Vehicles Changing International Commerce
+date: 2024-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00212/the-corporate-vehicles-changing-international-commerce.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/18/the-corporate-vehicles-changing-international-commerce/index.html
+layout: layout.njk
 ---
 The Corporate Vehicles Changing International Commerce
 ======================================================

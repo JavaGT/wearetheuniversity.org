@@ -1,9 +1,13 @@
 ---
 slug: remembering-the-battle-at-rangiriri-150-years-on
-title: "Remembering the Battle at Rangiriri, 150 years on"
-date: 2013-11-20
-source-url: https://www.scoop.co.nz/stories/PA1311/S00354/remembering-the-battle-at-rangiriri-150-years-on.htm
+title: Remembering the Battle at Rangiriri, 150 years on
+date: 2013-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00354/remembering-the-battle-at-rangiriri-150-years-on.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/11/20/remembering-the-battle-at-rangiriri-150-years-on/index.html
+layout: layout.njk
 ---
 Remembering the Battle at Rangiriri, 150 years on
 =================================================

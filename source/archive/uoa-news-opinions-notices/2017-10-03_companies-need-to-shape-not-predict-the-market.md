@@ -1,8 +1,12 @@
 ---
-slug: companies-need-to-shape-not-predict-the-market
-title: "Companies need to shape, not predict, the market"
-date: 2017-10-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/companies-need-to-shape-not-predict-the-market.html
+slug: companies-need-to-shape-not-predict-the-market-2
+title: Companies need to shape, not predict, the market
+date: 2017-10-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/companies-need-to-shape-not-predict-the-market.html
+permalink: >-
+  /archive/2017/10/03/companies-need-to-shape-not-predict-the-market-2/index.html
+layout: layout.njk
 ---
 Companies need to shape, not predict, the market
 ================================================

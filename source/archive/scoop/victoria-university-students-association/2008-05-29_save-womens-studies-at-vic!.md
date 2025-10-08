@@ -1,9 +1,11 @@
 ---
 slug: save-womens-studies-at-vic!
-title: "Save Women’s studies at Vic!"
-date: 2008-05-29
+title: Save Women’s studies at Vic!
+date: 2008-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0805/S00126/save-womens-studies-at-vic.htm
 author: victoria-university-students-association
+permalink: /archive/2008/05/29/save-womens-studies-at-vic/index.html
+layout: layout.njk
 ---
 Save Women’s studies at Vic!
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: top-biology-student-off-to-denmark-olympiad
-title: "Top biology student off to Denmark Olympiad"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/ED1505/S00084/top-biology-student-off-to-denmark-olympiad.htm
+title: Top biology student off to Denmark Olympiad
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00084/top-biology-student-off-to-denmark-olympiad.htm
 author: university-of-waikato
+permalink: /archive/2015/05/21/top-biology-student-off-to-denmark-olympiad/index.html
+layout: layout.njk
 ---
 Top biology student off to Denmark Olympiad
 ===========================================

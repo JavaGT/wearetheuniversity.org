@@ -1,9 +1,13 @@
 ---
 slug: environmental-planning-professor-tackles-water-issues
-title: "Environmental Planning Professor tackles water issues"
-date: 2014-01-31
-source-url: https://www.scoop.co.nz/stories/ED1401/S00068/environmental-planning-professor-tackles-water-issues.htm
+title: Environmental Planning Professor tackles water issues
+date: 2014-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00068/environmental-planning-professor-tackles-water-issues.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/01/31/environmental-planning-professor-tackles-water-issues/index.html
+layout: layout.njk
 ---
 Environmental Planning Professor tackles water issues
 =====================================================

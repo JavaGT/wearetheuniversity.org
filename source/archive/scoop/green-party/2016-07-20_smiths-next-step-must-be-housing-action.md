@@ -1,9 +1,12 @@
 ---
 slug: smiths-next-step-must-be-housing-action
-title: "Smith’s next step must be housing action"
-date: 2016-07-20
-source-url: https://www.scoop.co.nz/stories/PA1607/S00286/smiths-next-step-must-be-housing-action.htm
+title: Smith’s next step must be housing action
+date: 2016-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00286/smiths-next-step-must-be-housing-action.htm
 author: green-party
+permalink: /archive/2016/07/20/smiths-next-step-must-be-housing-action/index.html
+layout: layout.njk
 ---
 Smith’s next step must be housing action
 ========================================

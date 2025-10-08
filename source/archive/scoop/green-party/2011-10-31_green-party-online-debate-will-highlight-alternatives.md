@@ -1,9 +1,13 @@
 ---
 slug: green-party-online-debate-will-highlight-alternatives
-title: "Green Party online debate will highlight alternatives"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/PA1110/S00493/green-party-online-debate-will-highlight-alternatives.htm
+title: Green Party online debate will highlight alternatives
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00493/green-party-online-debate-will-highlight-alternatives.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/31/green-party-online-debate-will-highlight-alternatives/index.html
+layout: layout.njk
 ---
 Green Party online debate will highlight alternatives
 =====================================================

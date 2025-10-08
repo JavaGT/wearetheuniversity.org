@@ -1,9 +1,12 @@
 ---
 slug: working-to-improve-public-health-in-new-zealand
-title: "Working to improve public health in New Zealand"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/ED1601/S00053/working-to-improve-public-health-in-new-zealand.htm
+title: Working to improve public health in New Zealand
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00053/working-to-improve-public-health-in-new-zealand.htm
 author: university-of-otago
+permalink: /archive/2016/01/29/working-to-improve-public-health-in-new-zealand/index.html
+layout: layout.njk
 ---
 Working to improve public health in New Zealand
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: products-in-synthetic-bedding-may-affect-asthma
-title: "Products in synthetic bedding may affect asthma"
-date: 2009-08-03
-source-url: https://www.scoop.co.nz/stories/GE0908/S00003/products-in-synthetic-bedding-may-affect-asthma.htm
+title: Products in synthetic bedding may affect asthma
+date: 2009-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00003/products-in-synthetic-bedding-may-affect-asthma.htm
 author: university-of-otago
+permalink: /archive/2009/08/03/products-in-synthetic-bedding-may-affect-asthma/index.html
+layout: layout.njk
 ---
 Products in synthetic bedding may affect asthma
 ===============================================

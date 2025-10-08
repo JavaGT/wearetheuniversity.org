@@ -1,9 +1,12 @@
 ---
 slug: unions-look-forward-to-role-in-tertiary-reforms
-title: "Unions Look Forward to Role in Tertiary Reforms"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/ED0607/S00086/unions-look-forward-to-role-in-tertiary-reforms.htm
+title: Unions Look Forward to Role in Tertiary Reforms
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00086/unions-look-forward-to-role-in-tertiary-reforms.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/07/27/unions-look-forward-to-role-in-tertiary-reforms/index.html
+layout: layout.njk
 ---
 Unions Look Forward to Role in Tertiary Reforms
 ===============================================

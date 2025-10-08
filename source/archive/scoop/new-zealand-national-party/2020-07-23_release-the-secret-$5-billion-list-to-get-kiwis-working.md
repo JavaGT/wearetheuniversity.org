@@ -1,9 +1,12 @@
 ---
 slug: release-the-secret-$5-billion-list-to-get-kiwis-working
-title: "Release The Secret $5 Billion List To Get Kiwis Working"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/PA2007/S00216/release-the-secret-5-billion-list-to-get-kiwis-working.htm
+title: Release The Secret $5 Billion List To Get Kiwis Working
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00216/release-the-secret-5-billion-list-to-get-kiwis-working.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/23/release-the-secret-/index.html
+layout: layout.njk
 ---
 Release The Secret $5 Billion List To Get Kiwis Working
 =======================================================

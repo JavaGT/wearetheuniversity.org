@@ -1,9 +1,12 @@
 ---
 slug: teachers-flock-to-innovation-fund
-title: "Teachers flock to Innovation Fund"
-date: 2015-03-26
-source-url: https://www.scoop.co.nz/stories/ED1503/S00112/teachers-flock-to-innovation-fund.htm
+title: Teachers flock to Innovation Fund
+date: 2015-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00112/teachers-flock-to-innovation-fund.htm
 author: nzei
+permalink: /archive/2015/03/26/teachers-flock-to-innovation-fund/index.html
+layout: layout.njk
 ---
 Teachers flock to Innovation Fund
 =================================

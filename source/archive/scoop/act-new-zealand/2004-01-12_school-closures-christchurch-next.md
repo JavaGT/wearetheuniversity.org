@@ -1,9 +1,12 @@
 ---
 slug: school-closures-christchurch-next
-title: "School Closures: Christchurch Next?"
-date: 2004-01-12
-source-url: https://www.scoop.co.nz/stories/PA0401/S00046/school-closures-christchurch-next.htm
+title: 'School Closures: Christchurch Next?'
+date: 2004-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00046/school-closures-christchurch-next.htm
 author: act-new-zealand
+permalink: /archive/2004/01/12/school-closures-christchurch-next/index.html
+layout: layout.njk
 ---
 School Closures: Christchurch Next?
 ===================================

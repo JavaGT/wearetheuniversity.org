@@ -1,9 +1,12 @@
 ---
 slug: children-still-at-trauma-risk-weeks-after-quake
-title: "Children still at trauma risk weeks after quake"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/GE1009/S00152/children-still-at-trauma-risk-weeks-after-quake.htm
+title: Children still at trauma risk weeks after quake
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1009/S00152/children-still-at-trauma-risk-weeks-after-quake.htm
 author: massey-university
+permalink: /archive/2010/09/23/children-still-at-trauma-risk-weeks-after-quake/index.html
+layout: layout.njk
 ---
 Children still at trauma risk weeks after quake
 ===============================================

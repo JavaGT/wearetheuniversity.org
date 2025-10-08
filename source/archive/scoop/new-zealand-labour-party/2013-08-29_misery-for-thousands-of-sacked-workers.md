@@ -1,9 +1,12 @@
 ---
 slug: misery-for-thousands-of-sacked-workers
-title: "Misery for thousands of sacked workers"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/PA1308/S00479/misery-for-thousands-of-sacked-workers.htm
+title: Misery for thousands of sacked workers
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00479/misery-for-thousands-of-sacked-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/29/misery-for-thousands-of-sacked-workers/index.html
+layout: layout.njk
 ---
 Misery for thousands of sacked workers
 ======================================

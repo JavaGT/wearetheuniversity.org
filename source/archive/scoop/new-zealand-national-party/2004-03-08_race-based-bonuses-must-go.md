@@ -1,9 +1,11 @@
 ---
 slug: race-based-bonuses-must-go
-title: "Race-based bonuses must go"
-date: 2004-03-08
+title: Race-based bonuses must go
+date: 2004-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00148/race-based-bonuses-must-go.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/08/race-based-bonuses-must-go/index.html
+layout: layout.njk
 ---
 Race-based bonuses must go
 ==========================

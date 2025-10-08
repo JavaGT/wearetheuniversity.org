@@ -1,9 +1,12 @@
 ---
 slug: inquiry-step-in-right-direction
-title: "Inquiry Step In Right Direction"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/PA0908/S00310/inquiry-step-in-right-direction.htm
+title: Inquiry Step In Right Direction
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00310/inquiry-step-in-right-direction.htm
 author: act-new-zealand
+permalink: /archive/2009/08/20/inquiry-step-in-right-direction/index.html
+layout: layout.njk
 ---
 Inquiry Step In Right Direction
 ===============================

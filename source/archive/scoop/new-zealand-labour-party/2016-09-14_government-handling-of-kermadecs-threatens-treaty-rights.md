@@ -1,9 +1,13 @@
 ---
 slug: government-handling-of-kermadecs-threatens-treaty-rights
-title: "Government handling of Kermadecs threatens Treaty rights"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/PA1609/S00246/government-handling-of-kermadecs-threatens-treaty-rights.htm
+title: Government handling of Kermadecs threatens Treaty rights
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00246/government-handling-of-kermadecs-threatens-treaty-rights.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/09/14/government-handling-of-kermadecs-threatens-treaty-rights/index.html
+layout: layout.njk
 ---
 Government handling of Kermadecs threatens Treaty rights
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: delgirl-new-ep-and-shows
-title: "Delgirl New EP And Shows"
-date: 2011-03-02
+title: Delgirl New EP And Shows
+date: 2011-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1103/S00046/delgirl-new-ep-and-shows.htm
 author: university-of-otago
+permalink: /archive/2011/03/02/delgirl-new-ep-and-shows/index.html
+layout: layout.njk
 ---
 Delgirl New EP And Shows
 ========================

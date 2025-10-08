@@ -1,9 +1,12 @@
 ---
 slug: labour-congratulates-kuīni-ngā-wai-hono-i-te-po-paki
-title: "Labour Congratulates Kuīni Ngā Wai Hono I Te Po Paki"
-date: 2024-09-15
-source-url: https://www.scoop.co.nz/stories/PA2409/S00106/labour-congratulates-kuini-nga-wai-hono-i-te-po-paki.htm
+title: Labour Congratulates Kuīni Ngā Wai Hono I Te Po Paki
+date: 2024-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00106/labour-congratulates-kuini-nga-wai-hono-i-te-po-paki.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/09/15/labour-congratulates-ku/index.html
+layout: layout.njk
 ---
 Labour Congratulates Kuīni Ngā Wai Hono I Te Po Paki
 ====================================================

@@ -1,8 +1,12 @@
 ---
 slug: gene-profiling-to-try-and-unlock-the-causes-of-breast-cancer-in-new-zealand
-title: "Gene profiling to try and unlock the causes of breast cancer in New Zealand"
-date: 2017-10-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/gene-profiling-unlock-the-causes-of-breast-cancer-in-nz.html
+title: Gene profiling to try and unlock the causes of breast cancer in New Zealand
+date: 2017-10-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/gene-profiling-unlock-the-causes-of-breast-cancer-in-nz.html
+permalink: >-
+  /archive/2017/10/27/gene-profiling-to-try-and-unlock-the-causes-of-breast-cancer-in-new-zealand/index.html
+layout: layout.njk
 ---
 Gene profiling to try and unlock the causes of breast cancer in New Zealand
 ===========================================================================

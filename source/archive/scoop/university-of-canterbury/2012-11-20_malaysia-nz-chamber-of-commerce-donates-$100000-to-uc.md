@@ -1,9 +1,12 @@
 ---
 slug: malaysia-nz-chamber-of-commerce-donates-$100000-to-uc
-title: "Malaysia NZ Chamber of Commerce donates $100,000 to UC"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00133/malaysia-nz-chamber-of-commerce-donates-100000-to-uc.htm
+title: Malaysia NZ Chamber of Commerce donates $100,000 to UC
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00133/malaysia-nz-chamber-of-commerce-donates-100000-to-uc.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/20/malaysia-nz-chamber-of-commerce-donates-/index.html
+layout: layout.njk
 ---
 Malaysia NZ Chamber of Commerce donates $100,000 to UC
 ======================================================

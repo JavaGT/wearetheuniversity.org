@@ -1,9 +1,12 @@
 ---
 slug: a-cool-change-for-learners-and-communities
-title: "A COOL change for learners and communities"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/ED1608/S00108/a-cool-change-for-learners-and-communities.htm
+title: A COOL change for learners and communities
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00108/a-cool-change-for-learners-and-communities.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/26/a-cool-change-for-learners-and-communities/index.html
+layout: layout.njk
 ---
 A COOL change for learners and communities
 ==========================================

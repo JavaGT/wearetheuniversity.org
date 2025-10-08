@@ -1,9 +1,12 @@
 ---
 slug: hospital-bureaucracy-out-of-control
-title: "Hospital bureaucracy out of control"
-date: 2007-12-03
-source-url: https://www.scoop.co.nz/stories/PA0712/S00008/hospital-bureaucracy-out-of-control.htm
+title: Hospital bureaucracy out of control
+date: 2007-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00008/hospital-bureaucracy-out-of-control.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/03/hospital-bureaucracy-out-of-control/index.html
+layout: layout.njk
 ---
 Hospital bureaucracy out of control
 ===================================

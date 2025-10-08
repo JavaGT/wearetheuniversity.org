@@ -1,9 +1,12 @@
 ---
 slug: birdnapped-cockatoo-wins-quote-of-the-year
-title: "Birdnapped Cockatoo Wins Quote Of The Year"
-date: 2024-12-20
-source-url: https://www.scoop.co.nz/stories/CU2412/S00215/birdnapped-cockatoo-wins-quote-of-the-year.htm
+title: Birdnapped Cockatoo Wins Quote Of The Year
+date: 2024-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2412/S00215/birdnapped-cockatoo-wins-quote-of-the-year.htm
 author: massey-university
+permalink: /archive/2024/12/20/birdnapped-cockatoo-wins-quote-of-the-year/index.html
+layout: layout.njk
 ---
 Birdnapped Cockatoo Wins Quote Of The Year
 ==========================================

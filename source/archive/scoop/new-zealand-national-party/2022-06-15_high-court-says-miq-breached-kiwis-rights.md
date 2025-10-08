@@ -1,9 +1,12 @@
 ---
 slug: high-court-says-miq-breached-kiwis-rights
-title: "High Court Says MIQ Breached Kiwis’ Rights"
-date: 2022-06-15
-source-url: https://www.scoop.co.nz/stories/PA2206/S00127/high-court-says-miq-breached-kiwis-rights.htm
+title: High Court Says MIQ Breached Kiwis’ Rights
+date: 2022-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00127/high-court-says-miq-breached-kiwis-rights.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/15/high-court-says-miq-breached-kiwis-rights/index.html
+layout: layout.njk
 ---
 High Court Says MIQ Breached Kiwis’ Rights
 ==========================================

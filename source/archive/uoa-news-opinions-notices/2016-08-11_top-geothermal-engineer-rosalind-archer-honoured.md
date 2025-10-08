@@ -1,8 +1,12 @@
 ---
 slug: top-geothermal-engineer-rosalind-archer-honoured
-title: "Top geothermal engineer Rosalind Archer honoured"
-date: 2016-08-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/top-geothermal-engineer-rosalind-archer-honoured.html
+title: Top geothermal engineer Rosalind Archer honoured
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/top-geothermal-engineer-rosalind-archer-honoured.html
+permalink: >-
+  /archive/2016/08/11/top-geothermal-engineer-rosalind-archer-honoured/index.html
+layout: layout.njk
 ---
 Top geothermal engineer Rosalind Archer honoured
 ================================================

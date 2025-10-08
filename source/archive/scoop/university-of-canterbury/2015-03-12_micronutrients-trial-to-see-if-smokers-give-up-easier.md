@@ -1,9 +1,13 @@
 ---
 slug: micronutrients-trial-to-see-if-smokers-give-up-easier
-title: "Micronutrients trial to see if smokers give up easier"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/ED1503/S00052/micronutrients-trial-to-see-if-smokers-give-up-easier.htm
+title: Micronutrients trial to see if smokers give up easier
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00052/micronutrients-trial-to-see-if-smokers-give-up-easier.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/12/micronutrients-trial-to-see-if-smokers-give-up-easier/index.html
+layout: layout.njk
 ---
 Micronutrients trial to see if smokers give up easier
 =====================================================

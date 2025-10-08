@@ -1,9 +1,13 @@
 ---
 slug: lecture-on-collaboration-between-engineers-and-architects
-title: "Lecture on collaboration between engineers and architects"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/ED1507/S00076/lecture-on-collaboration-between-engineers-and-architects.htm
+title: Lecture on collaboration between engineers and architects
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00076/lecture-on-collaboration-between-engineers-and-architects.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/15/lecture-on-collaboration-between-engineers-and-architects/index.html
+layout: layout.njk
 ---
 Lecture on collaboration between engineers and architects
 =========================================================

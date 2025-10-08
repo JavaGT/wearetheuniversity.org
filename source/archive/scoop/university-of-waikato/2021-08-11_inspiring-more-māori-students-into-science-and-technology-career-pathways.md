@@ -1,9 +1,12 @@
 ---
 slug: inspiring-more-māori-students-into-science-and-technology-career-pathways
-title: "Inspiring More Māori Students Into Science And Technology Career Pathways"
-date: 2021-08-11
-source-url: https://www.scoop.co.nz/stories/ED2108/S00015/inspiring-more-maori-students-into-science-and-technology-career-pathways.htm
+title: Inspiring More Māori Students Into Science And Technology Career Pathways
+date: 2021-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00015/inspiring-more-maori-students-into-science-and-technology-career-pathways.htm
 author: university-of-waikato
+permalink: /archive/2021/08/11/inspiring-more-m/index.html
+layout: layout.njk
 ---
 Inspiring More Māori Students Into Science And Technology Career Pathways
 =========================================================================

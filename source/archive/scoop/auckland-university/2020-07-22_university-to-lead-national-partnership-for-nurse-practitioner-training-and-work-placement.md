@@ -1,9 +1,16 @@
 ---
-slug: university-to-lead-national-partnership-for-nurse-practitioner-training-and-work-placement
-title: "University To Lead National Partnership For Nurse Practitioner Training And Work Placement"
-date: 2020-07-22
-source-url: https://www.scoop.co.nz/stories/ED2007/S00025/university-to-lead-national-partnership-for-nurse-practitioner-training-and-work-placement.htm
+slug: >-
+  university-to-lead-national-partnership-for-nurse-practitioner-training-and-work-placement
+title: >-
+  University To Lead National Partnership For Nurse Practitioner Training And
+  Work Placement
+date: 2020-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00025/university-to-lead-national-partnership-for-nurse-practitioner-training-and-work-placement.htm
 author: auckland-university
+permalink: >-
+  /archive/2020/07/22/university-to-lead-national-partnership-for-nurse-practitioner-training-and-work-placement/index.html
+layout: layout.njk
 ---
 University To Lead National Partnership For Nurse Practitioner Training And Work Placement
 ==========================================================================================

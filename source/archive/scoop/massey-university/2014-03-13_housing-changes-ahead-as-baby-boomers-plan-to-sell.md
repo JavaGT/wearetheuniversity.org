@@ -1,9 +1,13 @@
 ---
 slug: housing-changes-ahead-as-baby-boomers-plan-to-sell
-title: "Housing changes ahead as baby boomers plan to sell"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/ED1403/S00077/housing-changes-ahead-as-baby-boomers-plan-to-sell.htm
+title: Housing changes ahead as baby boomers plan to sell
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00077/housing-changes-ahead-as-baby-boomers-plan-to-sell.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/13/housing-changes-ahead-as-baby-boomers-plan-to-sell/index.html
+layout: layout.njk
 ---
 Housing changes ahead as baby boomers plan to sell
 ==================================================

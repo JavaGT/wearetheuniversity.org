@@ -1,9 +1,12 @@
 ---
 slug: top-award-for-disarmament-campaigner
-title: "Top award for disarmament campaigner"
-date: 2009-09-01
-source-url: https://www.scoop.co.nz/stories/CU0909/S00011/top-award-for-disarmament-campaigner.htm
+title: Top award for disarmament campaigner
+date: 2009-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00011/top-award-for-disarmament-campaigner.htm
 author: university-of-waikato
+permalink: /archive/2009/09/01/top-award-for-disarmament-campaigner/index.html
+layout: layout.njk
 ---
 Top award for disarmament campaigner
 ====================================

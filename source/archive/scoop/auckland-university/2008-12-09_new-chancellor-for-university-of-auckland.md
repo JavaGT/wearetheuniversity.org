@@ -1,9 +1,12 @@
 ---
 slug: new-chancellor-for-university-of-auckland
-title: "New Chancellor for University of Auckland"
-date: 2008-12-09
-source-url: https://www.scoop.co.nz/stories/ED0812/S00034/new-chancellor-for-university-of-auckland.htm
+title: New Chancellor for University of Auckland
+date: 2008-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00034/new-chancellor-for-university-of-auckland.htm
 author: auckland-university
+permalink: /archive/2008/12/09/new-chancellor-for-university-of-auckland/index.html
+layout: layout.njk
 ---
 New Chancellor for University of Auckland
 =========================================

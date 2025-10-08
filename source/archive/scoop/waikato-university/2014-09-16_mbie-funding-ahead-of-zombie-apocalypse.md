@@ -1,9 +1,12 @@
 ---
 slug: mbie-funding-ahead-of-zombie-apocalypse
-title: "MBIE funding ahead of zombie apocalypse"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/BU1409/S00539/mbie-funding-ahead-of-zombie-apocalypse.htm
+title: MBIE funding ahead of zombie apocalypse
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00539/mbie-funding-ahead-of-zombie-apocalypse.htm
 author: waikato-university
+permalink: /archive/2014/09/16/mbie-funding-ahead-of-zombie-apocalypse/index.html
+layout: layout.njk
 ---
 MBIE funding ahead of zombie apocalypse
 =======================================

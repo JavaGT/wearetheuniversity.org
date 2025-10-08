@@ -1,9 +1,13 @@
 ---
 slug: green-govt-deal-good-news-for-environmental-educn
-title: "Green-Govt deal good news for environmental educ'n"
-date: 2005-10-21
-source-url: https://www.scoop.co.nz/stories/PA0510/S00136/green-govt-deal-good-news-for-environmental-educn.htm
+title: Green-Govt deal good news for environmental educ'n
+date: 2005-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00136/green-govt-deal-good-news-for-environmental-educn.htm
 author: green-party
+permalink: >-
+  /archive/2005/10/21/green-govt-deal-good-news-for-environmental-educn/index.html
+layout: layout.njk
 ---
 Green-Govt deal good news for environmental educ'n
 ==================================================

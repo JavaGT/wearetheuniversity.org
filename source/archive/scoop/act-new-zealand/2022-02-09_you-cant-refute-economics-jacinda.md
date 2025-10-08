@@ -1,9 +1,12 @@
 ---
 slug: you-cant-refute-economics-jacinda
-title: "You Can’t Refute Economics, Jacinda"
-date: 2022-02-09
-source-url: https://www.scoop.co.nz/stories/PA2202/S00060/you-cant-refute-economics-jacinda.htm
+title: You Can’t Refute Economics, Jacinda
+date: 2022-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00060/you-cant-refute-economics-jacinda.htm
 author: act-new-zealand
+permalink: /archive/2022/02/09/you-cant-refute-economics-jacinda/index.html
+layout: layout.njk
 ---
 You Can’t Refute Economics, Jacinda
 ===================================

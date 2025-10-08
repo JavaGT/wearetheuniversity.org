@@ -1,9 +1,12 @@
 ---
 slug: engineering-at-waikato-set-to-grow
-title: "Engineering at Waikato set to grow"
-date: 2016-05-05
-source-url: https://www.scoop.co.nz/stories/ED1605/S00015/engineering-at-waikato-set-to-grow.htm
+title: Engineering at Waikato set to grow
+date: 2016-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00015/engineering-at-waikato-set-to-grow.htm
 author: university-of-waikato
+permalink: /archive/2016/05/05/engineering-at-waikato-set-to-grow/index.html
+layout: layout.njk
 ---
 Engineering at Waikato set to grow
 ==================================

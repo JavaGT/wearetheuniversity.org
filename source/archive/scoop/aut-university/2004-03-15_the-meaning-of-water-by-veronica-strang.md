@@ -1,9 +1,12 @@
 ---
 slug: the-meaning-of-water-by-veronica-strang
-title: "The Meaning of Water - By Veronica Strang"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/ED0403/S00061/the-meaning-of-water-by-veronica-strang.htm
+title: The Meaning of Water - By Veronica Strang
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00061/the-meaning-of-water-by-veronica-strang.htm
 author: aut-university
+permalink: /archive/2004/03/15/the-meaning-of-water-by-veronica-strang/index.html
+layout: layout.njk
 ---
 The Meaning of Water - By Veronica Strang
 =========================================

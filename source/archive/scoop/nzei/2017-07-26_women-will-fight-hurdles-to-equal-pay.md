@@ -1,9 +1,12 @@
 ---
 slug: women-will-fight-hurdles-to-equal-pay
-title: "Women will fight hurdles to equal pay"
-date: 2017-07-26
-source-url: https://www.scoop.co.nz/stories/PO1707/S00384/women-will-fight-hurdles-to-equal-pay.htm
+title: Women will fight hurdles to equal pay
+date: 2017-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00384/women-will-fight-hurdles-to-equal-pay.htm
 author: nzei
+permalink: /archive/2017/07/26/women-will-fight-hurdles-to-equal-pay/index.html
+layout: layout.njk
 ---
 Women will fight hurdles to equal pay
 =====================================

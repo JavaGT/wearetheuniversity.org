@@ -1,9 +1,13 @@
 ---
 slug: funding-for-uc-research-into-improving-pacific-health
-title: "Funding for UC research into improving Pacific health"
-date: 2019-06-26
-source-url: https://www.scoop.co.nz/stories/GE1906/S00068/funding-for-uc-research-into-improving-pacific-health.htm
+title: Funding for UC research into improving Pacific health
+date: 2019-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1906/S00068/funding-for-uc-research-into-improving-pacific-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/06/26/funding-for-uc-research-into-improving-pacific-health/index.html
+layout: layout.njk
 ---
 Funding for UC research into improving Pacific health
 =====================================================

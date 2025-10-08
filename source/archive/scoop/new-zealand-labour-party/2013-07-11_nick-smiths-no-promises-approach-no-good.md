@@ -1,9 +1,12 @@
 ---
 slug: nick-smiths-no-promises-approach-no-good
-title: "Nick Smith’s ‘no promises’ approach no good"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/AK1307/S00322/nick-smiths-no-promises-approach-no-good.htm
+title: Nick Smith’s ‘no promises’ approach no good
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00322/nick-smiths-no-promises-approach-no-good.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/11/nick-smiths-no-promises-approach-no-good/index.html
+layout: layout.njk
 ---
 Nick Smith’s ‘no promises’ approach no good
 ===========================================

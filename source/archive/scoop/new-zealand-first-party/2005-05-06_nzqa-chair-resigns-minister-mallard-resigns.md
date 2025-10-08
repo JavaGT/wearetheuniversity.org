@@ -1,9 +1,12 @@
 ---
 slug: nzqa-chair-resigns-minister-mallard-resigns
-title: "NZQA Chair Resigns, Minister Mallard Resigns?"
-date: 2005-05-06
-source-url: https://www.scoop.co.nz/stories/PA0505/S00155/nzqa-chair-resigns-minister-mallard-resigns.htm
+title: NZQA Chair Resigns, Minister Mallard Resigns?
+date: 2005-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00155/nzqa-chair-resigns-minister-mallard-resigns.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/06/nzqa-chair-resigns-minister-mallard-resigns/index.html
+layout: layout.njk
 ---
 NZQA Chair Resigns, Minister Mallard Resigns?
 =============================================

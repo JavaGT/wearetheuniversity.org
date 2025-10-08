@@ -1,9 +1,12 @@
 ---
 slug: student-loan-debt-hits-$4-billion
-title: "Student Loan Debt Hits $4 Billion"
-date: 2001-05-21
-source-url: https://www.scoop.co.nz/stories/PO0105/S00091/student-loan-debt-hits-4-billion.htm
+title: Student Loan Debt Hits $4 Billion
+date: 2001-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0105/S00091/student-loan-debt-hits-4-billion.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/21/student-loan-debt-hits-/index.html
+layout: layout.njk
 ---
 Student Loan Debt Hits $4 Billion
 =================================

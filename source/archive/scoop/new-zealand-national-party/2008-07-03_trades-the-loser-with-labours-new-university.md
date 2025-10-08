@@ -1,9 +1,12 @@
 ---
 slug: trades-the-loser-with-labours-new-university
-title: "Trades the loser with Labour’s new university"
-date: 2008-07-03
-source-url: https://www.scoop.co.nz/stories/PA0807/S00090/trades-the-loser-with-labours-new-university.htm
+title: Trades the loser with Labour’s new university
+date: 2008-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00090/trades-the-loser-with-labours-new-university.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/03/trades-the-loser-with-labours-new-university/index.html
+layout: layout.njk
 ---
 Trades the loser with Labour’s new university
 =============================================

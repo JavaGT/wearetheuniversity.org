@@ -1,9 +1,11 @@
 ---
 slug: student-city-gets-political
-title: "‘Student City’ Gets Political"
-date: 2005-07-29
+title: ‘Student City’ Gets Political
+date: 2005-07-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00134/student-city-gets-political.htm
 author: massey-university-students-association
+permalink: /archive/2005/07/29/student-city-gets-political/index.html
+layout: layout.njk
 ---
 ‘Student City’ Gets Political
 =============================

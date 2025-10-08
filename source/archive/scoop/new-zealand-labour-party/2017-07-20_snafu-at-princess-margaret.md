@@ -1,9 +1,11 @@
 ---
 slug: snafu-at-princess-margaret
-title: "Snafu at Princess Margaret"
-date: 2017-07-20
+title: Snafu at Princess Margaret
+date: 2017-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1707/S00287/snafu-at-princess-margaret.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/20/snafu-at-princess-margaret/index.html
+layout: layout.njk
 ---
 Snafu at Princess Margaret
 ==========================

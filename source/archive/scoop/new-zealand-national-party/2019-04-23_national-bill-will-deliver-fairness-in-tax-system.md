@@ -1,9 +1,13 @@
 ---
 slug: national-bill-will-deliver-fairness-in-tax-system
-title: "National bill will deliver fairness in tax system"
-date: 2019-04-23
-source-url: https://www.scoop.co.nz/stories/PA1904/S00189/national-bill-will-deliver-fairness-in-tax-system.htm
+title: National bill will deliver fairness in tax system
+date: 2019-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00189/national-bill-will-deliver-fairness-in-tax-system.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/23/national-bill-will-deliver-fairness-in-tax-system/index.html
+layout: layout.njk
 ---
 National bill will deliver fairness in tax system
 =================================================

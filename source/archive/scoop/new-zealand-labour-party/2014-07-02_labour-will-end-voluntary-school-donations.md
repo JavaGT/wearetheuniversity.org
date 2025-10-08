@@ -1,9 +1,12 @@
 ---
 slug: labour-will-end-voluntary-school-donations
-title: "Labour will end ‘voluntary’ school donations"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/PA1407/S00036/labour-will-end-voluntary-school-donations.htm
+title: Labour will end ‘voluntary’ school donations
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00036/labour-will-end-voluntary-school-donations.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/02/labour-will-end-voluntary-school-donations/index.html
+layout: layout.njk
 ---
 Labour will end ‘voluntary’ school donations
 ============================================

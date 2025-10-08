@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-rural-leader-programme-addresses-shortage
-title: "Lincoln University rural leader programme addresses shortage"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/ED1307/S00149/lincoln-university-rural-leader-programme-addresses-shortage.htm
+title: Lincoln University rural leader programme addresses shortage
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00149/lincoln-university-rural-leader-programme-addresses-shortage.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/07/29/lincoln-university-rural-leader-programme-addresses-shortage/index.html
+layout: layout.njk
 ---
 Lincoln University rural leader programme addresses shortage
 ============================================================

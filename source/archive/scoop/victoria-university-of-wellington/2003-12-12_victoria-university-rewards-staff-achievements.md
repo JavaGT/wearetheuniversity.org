@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-rewards-staff-achievements
-title: "Victoria University rewards staff achievements"
-date: 2003-12-12
-source-url: https://www.scoop.co.nz/stories/ED0312/S00062/victoria-university-rewards-staff-achievements.htm
+title: Victoria University rewards staff achievements
+date: 2003-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00062/victoria-university-rewards-staff-achievements.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/12/12/victoria-university-rewards-staff-achievements/index.html
+layout: layout.njk
 ---
 Victoria University rewards staff achievements
 ==============================================

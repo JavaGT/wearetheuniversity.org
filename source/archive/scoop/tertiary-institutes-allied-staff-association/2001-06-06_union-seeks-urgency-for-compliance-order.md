@@ -1,9 +1,12 @@
 ---
 slug: union-seeks-urgency-for-compliance-order
-title: "Union Seeks Urgency For Compliance Order"
-date: 2001-06-06
-source-url: https://www.scoop.co.nz/stories/BU0106/S00035/union-seeks-urgency-for-compliance-order.htm
+title: Union Seeks Urgency For Compliance Order
+date: 2001-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0106/S00035/union-seeks-urgency-for-compliance-order.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2001/06/06/union-seeks-urgency-for-compliance-order/index.html
+layout: layout.njk
 ---
 Union Seeks Urgency For Compliance Order
 ========================================

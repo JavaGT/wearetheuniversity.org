@@ -1,9 +1,12 @@
 ---
 slug: after-10000+-quakes-how-do-we-help-our-tamariki
-title: "After 10,000+ quakes, how do we help our tamariki?"
-date: 2019-02-05
-source-url: https://www.scoop.co.nz/stories/ED1902/S00009/after-10000-quakes-how-do-we-help-our-tamariki.htm
+title: After 10,000+ quakes, how do we help our tamariki?
+date: 2019-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00009/after-10000-quakes-how-do-we-help-our-tamariki.htm
 author: university-of-canterbury
+permalink: /archive/2019/02/05/after-10000/index.html
+layout: layout.njk
 ---
 After 10,000+ quakes, how do we help our tamariki?
 ==================================================

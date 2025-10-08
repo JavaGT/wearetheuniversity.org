@@ -1,9 +1,12 @@
 ---
 slug: free-fruit-for-schools-continues
-title: "Free fruit for schools continues"
-date: 2009-11-24
-source-url: https://www.scoop.co.nz/stories/PA0911/S00353/free-fruit-for-schools-continues.htm
+title: Free fruit for schools continues
+date: 2009-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00353/free-fruit-for-schools-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2009/11/24/free-fruit-for-schools-continues/index.html
+layout: layout.njk
 ---
 Free fruit for schools continues
 ================================

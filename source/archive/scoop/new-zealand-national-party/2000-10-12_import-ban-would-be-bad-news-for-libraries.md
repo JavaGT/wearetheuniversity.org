@@ -1,9 +1,12 @@
 ---
 slug: import-ban-would-be-bad-news-for-libraries
-title: "Import Ban Would Be Bad News For Libraries"
-date: 2000-10-12
-source-url: https://www.scoop.co.nz/stories/PA0010/S00276/import-ban-would-be-bad-news-for-libraries.htm
+title: Import Ban Would Be Bad News For Libraries
+date: 2000-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00276/import-ban-would-be-bad-news-for-libraries.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/12/import-ban-would-be-bad-news-for-libraries/index.html
+layout: layout.njk
 ---
 Import Ban Would Be Bad News For Libraries
 ==========================================

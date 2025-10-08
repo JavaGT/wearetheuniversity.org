@@ -1,9 +1,11 @@
 ---
 slug: ousa-seek-judicial-review
-title: "OUSA Seek Judicial Review"
-date: 2009-07-13
+title: OUSA Seek Judicial Review
+date: 2009-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00046/ousa-seek-judicial-review.htm
 author: otago-university-students-association
+permalink: /archive/2009/07/13/ousa-seek-judicial-review/index.html
+layout: layout.njk
 ---
 OUSA Seek Judicial Review
 =========================

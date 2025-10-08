@@ -1,9 +1,12 @@
 ---
 slug: labour-blinded-by-ideology-on-minimum-wage
-title: "Labour Blinded By Ideology On Minimum Wage"
-date: 2020-03-10
-source-url: https://www.scoop.co.nz/stories/PA2003/S00078/labour-blinded-by-ideology-on-minimum-wage.htm
+title: Labour Blinded By Ideology On Minimum Wage
+date: 2020-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00078/labour-blinded-by-ideology-on-minimum-wage.htm
 author: act-new-zealand
+permalink: /archive/2020/03/10/labour-blinded-by-ideology-on-minimum-wage/index.html
+layout: layout.njk
 ---
 Labour Blinded By Ideology On Minimum Wage
 ==========================================

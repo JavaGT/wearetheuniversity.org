@@ -1,9 +1,13 @@
 ---
 slug: labours-border-exemptions-for-the-few-not-the-many
-title: "Labour’s Border Exemptions: For The Few, Not The Many"
-date: 2020-10-11
-source-url: https://www.scoop.co.nz/stories/PO2010/S00143/labours-border-exemptions-for-the-few-not-the-many.htm
+title: 'Labour’s Border Exemptions: For The Few, Not The Many'
+date: 2020-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00143/labours-border-exemptions-for-the-few-not-the-many.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/10/11/labours-border-exemptions-for-the-few-not-the-many/index.html
+layout: layout.njk
 ---
 Labour’s Border Exemptions: For The Few, Not The Many
 =====================================================

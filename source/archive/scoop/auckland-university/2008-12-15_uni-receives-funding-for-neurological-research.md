@@ -1,9 +1,12 @@
 ---
 slug: uni-receives-funding-for-neurological-research
-title: "Uni receives funding for neurological research"
-date: 2008-12-15
-source-url: https://www.scoop.co.nz/stories/GE0812/S00081/uni-receives-funding-for-neurological-research.htm
+title: Uni receives funding for neurological research
+date: 2008-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0812/S00081/uni-receives-funding-for-neurological-research.htm
 author: auckland-university
+permalink: /archive/2008/12/15/uni-receives-funding-for-neurological-research/index.html
+layout: layout.njk
 ---
 Uni receives funding for neurological research
 ==============================================

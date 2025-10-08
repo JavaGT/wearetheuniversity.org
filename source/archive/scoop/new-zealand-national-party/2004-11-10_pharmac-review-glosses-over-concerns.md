@@ -1,9 +1,12 @@
 ---
 slug: pharmac-review-glosses-over-concerns
-title: "Pharmac review glosses over concerns"
-date: 2004-11-10
-source-url: https://www.scoop.co.nz/stories/PA0411/S00224/pharmac-review-glosses-over-concerns.htm
+title: Pharmac review glosses over concerns
+date: 2004-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00224/pharmac-review-glosses-over-concerns.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/10/pharmac-review-glosses-over-concerns/index.html
+layout: layout.njk
 ---
 Pharmac review glosses over concerns
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: aut-visual-arts-success
-title: "AUT Visual Arts success"
-date: 2013-09-03
+title: AUT Visual Arts success
+date: 2013-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1309/S00038/aut-visual-arts-success.htm
 author: aut-university
+permalink: /archive/2013/09/03/aut-visual-arts-success/index.html
+layout: layout.njk
 ---
 AUT Visual Arts success
 =======================

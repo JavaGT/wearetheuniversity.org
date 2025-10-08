@@ -1,9 +1,12 @@
 ---
 slug: nz-seafood-a-healthy-choice-say-researchers
-title: "NZ seafood a healthy choice say researchers"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/SC0504/S00043/nz-seafood-a-healthy-choice-say-researchers.htm
+title: NZ seafood a healthy choice say researchers
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0504/S00043/nz-seafood-a-healthy-choice-say-researchers.htm
 author: auckland-university
+permalink: /archive/2005/04/12/nz-seafood-a-healthy-choice-say-researchers/index.html
+layout: layout.njk
 ---
 NZ seafood a healthy choice say researchers
 ===========================================

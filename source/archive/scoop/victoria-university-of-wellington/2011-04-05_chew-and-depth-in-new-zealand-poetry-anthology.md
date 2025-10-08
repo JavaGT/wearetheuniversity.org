@@ -1,9 +1,12 @@
 ---
 slug: chew-and-depth-in-new-zealand-poetry-anthology
-title: "\"Chew and depth\" in New Zealand Poetry anthology"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/CU1104/S00071/chew-and-depth-in-new-zealand-poetry-anthology.htm
+title: '"Chew and depth" in New Zealand Poetry anthology'
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00071/chew-and-depth-in-new-zealand-poetry-anthology.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/04/05/chew-and-depth-in-new-zealand-poetry-anthology/index.html
+layout: layout.njk
 ---
 "Chew and depth" in New Zealand Poetry anthology
 ================================================

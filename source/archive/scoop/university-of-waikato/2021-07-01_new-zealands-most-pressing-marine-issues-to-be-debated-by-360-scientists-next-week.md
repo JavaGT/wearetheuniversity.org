@@ -1,9 +1,16 @@
 ---
-slug: new-zealands-most-pressing-marine-issues-to-be-debated-by-360-scientists-next-week
-title: "New Zealand’s Most Pressing Marine Issues To Be Debated By 360 Scientists Next Week"
-date: 2021-07-01
-source-url: https://www.scoop.co.nz/stories/SC2107/S00001/new-zealands-most-pressing-marine-issues-to-be-debated-by-360-scientists-next-week.htm
+slug: >-
+  new-zealands-most-pressing-marine-issues-to-be-debated-by-360-scientists-next-week
+title: >-
+  New Zealand’s Most Pressing Marine Issues To Be Debated By 360 Scientists Next
+  Week
+date: 2021-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00001/new-zealands-most-pressing-marine-issues-to-be-debated-by-360-scientists-next-week.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/07/01/new-zealands-most-pressing-marine-issues-to-be-debated-by-360-scientists-next-week/index.html
+layout: layout.njk
 ---
 New Zealand’s Most Pressing Marine Issues To Be Debated By 360 Scientists Next Week
 ===================================================================================

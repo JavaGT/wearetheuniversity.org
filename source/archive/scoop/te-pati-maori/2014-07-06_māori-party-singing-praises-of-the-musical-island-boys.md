@@ -1,9 +1,12 @@
 ---
 slug: māori-party-singing-praises-of-the-musical-island-boys
-title: "Māori Party singing Praises of the Musical Island Boys"
-date: 2014-07-06
-source-url: https://www.scoop.co.nz/stories/PA1407/S00119/maori-party-singing-praises-of-the-musical-island-boys.htm
+title: Māori Party singing Praises of the Musical Island Boys
+date: 2014-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00119/maori-party-singing-praises-of-the-musical-island-boys.htm
 author: te-pati-maori
+permalink: /archive/2014/07/06/m/index.html
+layout: layout.njk
 ---
 Māori Party singing Praises of the Musical Island Boys
 ======================================================

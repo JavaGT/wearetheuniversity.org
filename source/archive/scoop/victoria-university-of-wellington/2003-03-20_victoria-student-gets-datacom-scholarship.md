@@ -1,9 +1,12 @@
 ---
 slug: victoria-student-gets-datacom-scholarship
-title: "Victoria student gets Datacom Scholarship"
-date: 2003-03-20
-source-url: https://www.scoop.co.nz/stories/ED0303/S00035/victoria-student-gets-datacom-scholarship.htm
+title: Victoria student gets Datacom Scholarship
+date: 2003-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00035/victoria-student-gets-datacom-scholarship.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/03/20/victoria-student-gets-datacom-scholarship/index.html
+layout: layout.njk
 ---
 Victoria student gets Datacom Scholarship
 =========================================

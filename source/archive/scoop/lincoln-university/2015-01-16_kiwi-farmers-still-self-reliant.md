@@ -1,9 +1,12 @@
 ---
 slug: kiwi-farmers-still-self-reliant
-title: "Kiwi farmers still self-reliant"
-date: 2015-01-16
-source-url: https://www.scoop.co.nz/stories/BU1501/S00258/kiwi-farmers-still-self-reliant.htm
+title: Kiwi farmers still self-reliant
+date: 2015-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1501/S00258/kiwi-farmers-still-self-reliant.htm
 author: lincoln-university
+permalink: /archive/2015/01/16/kiwi-farmers-still-self-reliant/index.html
+layout: layout.njk
 ---
 Kiwi farmers still self-reliant
 ===============================

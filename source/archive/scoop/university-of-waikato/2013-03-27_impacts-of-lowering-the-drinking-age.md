@@ -1,9 +1,12 @@
 ---
 slug: impacts-of-lowering-the-drinking-age
-title: "Impacts of lowering the drinking age"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/ED1303/S00195/impacts-of-lowering-the-drinking-age.htm
+title: Impacts of lowering the drinking age
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00195/impacts-of-lowering-the-drinking-age.htm
 author: university-of-waikato
+permalink: /archive/2013/03/27/impacts-of-lowering-the-drinking-age/index.html
+layout: layout.njk
 ---
 Impacts of lowering the drinking age
 ====================================

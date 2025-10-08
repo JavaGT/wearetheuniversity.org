@@ -1,9 +1,12 @@
 ---
 slug: growth-in-international-education-is-good-news
-title: "Growth in International education is good news"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00277/growth-in-international-education-is-good-news.htm
+title: Growth in International education is good news
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00277/growth-in-international-education-is-good-news.htm
 author: new-zealand-national-party
+permalink: /archive/2015/06/17/growth-in-international-education-is-good-news/index.html
+layout: layout.njk
 ---
 Growth in International education is good news
 ==============================================

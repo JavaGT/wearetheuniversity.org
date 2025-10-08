@@ -1,9 +1,13 @@
 ---
 slug: obamas-social-media-guru-headlines-conference-in-auckland
-title: "Obama's social media guru headlines conference in Auckland"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/BU1207/S00260/obamas-social-media-guru-headlines-conference-in-auckland.htm
+title: Obama's social media guru headlines conference in Auckland
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1207/S00260/obamas-social-media-guru-headlines-conference-in-auckland.htm
 author: aut-university
+permalink: >-
+  /archive/2012/07/09/obamas-social-media-guru-headlines-conference-in-auckland/index.html
+layout: layout.njk
 ---
 Obama's social media guru headlines conference in Auckland
 ==========================================================

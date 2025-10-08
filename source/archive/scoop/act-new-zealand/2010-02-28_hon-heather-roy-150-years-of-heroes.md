@@ -1,9 +1,12 @@
 ---
 slug: hon-heather-roy-150-years-of-heroes
-title: "Hon Heather Roy: 150 Years Of Heroes"
-date: 2010-02-28
-source-url: https://www.scoop.co.nz/stories/PA1002/S00400/hon-heather-roy-150-years-of-heroes.htm
+title: 'Hon Heather Roy: 150 Years Of Heroes'
+date: 2010-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00400/hon-heather-roy-150-years-of-heroes.htm
 author: act-new-zealand
+permalink: /archive/2010/02/28/hon-heather-roy-150-years-of-heroes/index.html
+layout: layout.njk
 ---
 Hon Heather Roy: 150 Years Of Heroes
 ====================================

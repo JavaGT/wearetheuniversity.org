@@ -1,9 +1,12 @@
 ---
 slug: cancer-fears-for-culled-patients
-title: "Cancer fears for culled patients"
-date: 2006-07-31
-source-url: https://www.scoop.co.nz/stories/PA0607/S00538/cancer-fears-for-culled-patients.htm
+title: Cancer fears for culled patients
+date: 2006-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00538/cancer-fears-for-culled-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/31/cancer-fears-for-culled-patients/index.html
+layout: layout.njk
 ---
 Cancer fears for culled patients
 ================================

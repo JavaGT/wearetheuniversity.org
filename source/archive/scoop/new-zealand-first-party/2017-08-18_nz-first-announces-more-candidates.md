@@ -1,9 +1,12 @@
 ---
 slug: nz-first-announces-more-candidates
-title: "NZ First Announces More Candidates"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/PO1708/S00379/nz-first-announces-more-candidates.htm
+title: NZ First Announces More Candidates
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00379/nz-first-announces-more-candidates.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/18/nz-first-announces-more-candidates/index.html
+layout: layout.njk
 ---
 NZ First Announces More Candidates
 ==================================

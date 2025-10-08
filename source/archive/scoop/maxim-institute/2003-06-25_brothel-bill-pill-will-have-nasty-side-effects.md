@@ -1,9 +1,12 @@
 ---
 slug: brothel-bill-pill-will-have-nasty-side-effects
-title: "Brothel bill \"pill\" will have nasty side-effects"
-date: 2003-06-25
-source-url: https://www.scoop.co.nz/stories/PO0306/S00162/brothel-bill-pill-will-have-nasty-side-effects.htm
+title: Brothel bill "pill" will have nasty side-effects
+date: 2003-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0306/S00162/brothel-bill-pill-will-have-nasty-side-effects.htm
 author: maxim-institute
+permalink: /archive/2003/06/25/brothel-bill-pill-will-have-nasty-side-effects/index.html
+layout: layout.njk
 ---
 Brothel bill "pill" will have nasty side-effects
 ================================================

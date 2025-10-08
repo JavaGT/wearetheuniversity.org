@@ -1,9 +1,13 @@
 ---
 slug: lincoln-scholar-stirred-it-up-on-the-cooking-scene
-title: "Lincoln scholar stirred it up on the cooking scene"
-date: 2013-06-03
-source-url: https://www.scoop.co.nz/stories/ED1306/S00005/lincoln-scholar-stirred-it-up-on-the-cooking-scene.htm
+title: Lincoln scholar stirred it up on the cooking scene
+date: 2013-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00005/lincoln-scholar-stirred-it-up-on-the-cooking-scene.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/06/03/lincoln-scholar-stirred-it-up-on-the-cooking-scene/index.html
+layout: layout.njk
 ---
 Lincoln scholar stirred it up on the cooking scene
 ==================================================

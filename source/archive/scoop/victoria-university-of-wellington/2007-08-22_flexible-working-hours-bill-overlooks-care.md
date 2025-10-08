@@ -1,9 +1,12 @@
 ---
 slug: flexible-working-hours-bill-overlooks-care
-title: "Flexible working hours bill overlooks care"
-date: 2007-08-22
-source-url: https://www.scoop.co.nz/stories/PO0708/S00297/flexible-working-hours-bill-overlooks-care.htm
+title: Flexible working hours bill overlooks care
+date: 2007-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0708/S00297/flexible-working-hours-bill-overlooks-care.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/22/flexible-working-hours-bill-overlooks-care/index.html
+layout: layout.njk
 ---
 Flexible working hours bill overlooks care
 ==========================================

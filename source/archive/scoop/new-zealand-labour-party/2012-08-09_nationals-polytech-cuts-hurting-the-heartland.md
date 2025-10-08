@@ -1,9 +1,12 @@
 ---
 slug: nationals-polytech-cuts-hurting-the-heartland
-title: "National’s polytech cuts hurting the heartland"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PA1208/S00115/nationals-polytech-cuts-hurting-the-heartland.htm
+title: National’s polytech cuts hurting the heartland
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00115/nationals-polytech-cuts-hurting-the-heartland.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/09/nationals-polytech-cuts-hurting-the-heartland/index.html
+layout: layout.njk
 ---
 National’s polytech cuts hurting the heartland
 ==============================================

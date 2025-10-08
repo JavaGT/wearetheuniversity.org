@@ -1,9 +1,13 @@
 ---
 slug: local-ratepayers-need-central-government-action-on-climate
-title: "Local ratepayers need central government action on climate"
-date: 2017-07-23
-source-url: https://www.scoop.co.nz/stories/PA1707/S00337/local-ratepayers-need-central-government-action-on-climate.htm
+title: Local ratepayers need central government action on climate
+date: 2017-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00337/local-ratepayers-need-central-government-action-on-climate.htm
 author: green-party
+permalink: >-
+  /archive/2017/07/23/local-ratepayers-need-central-government-action-on-climate/index.html
+layout: layout.njk
 ---
 Local ratepayers need central government action on climate
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: partnership-finds-new-pathways-for-youth
-title: "Partnership finds new pathways for youth"
-date: 2017-05-03
-source-url: https://www.scoop.co.nz/stories/ED1705/S00014/partnership-finds-new-pathways-for-youth.htm
+title: Partnership finds new pathways for youth
+date: 2017-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00014/partnership-finds-new-pathways-for-youth.htm
 author: massey-university
+permalink: /archive/2017/05/03/partnership-finds-new-pathways-for-youth/index.html
+layout: layout.njk
 ---
 Partnership finds new pathways for youth
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: vic-lecturer-wins-teaching-excellence-award
-title: "VIC Lecturer Wins Teaching Excellence Award"
-date: 2003-06-24
-source-url: https://www.scoop.co.nz/stories/ED0306/S00052/vic-lecturer-wins-teaching-excellence-award.htm
+title: VIC Lecturer Wins Teaching Excellence Award
+date: 2003-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00052/vic-lecturer-wins-teaching-excellence-award.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/24/vic-lecturer-wins-teaching-excellence-award/index.html
+layout: layout.njk
 ---
 VIC Lecturer Wins Teaching Excellence Award
 ===========================================

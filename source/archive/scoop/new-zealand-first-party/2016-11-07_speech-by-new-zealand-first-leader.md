@@ -1,9 +1,12 @@
 ---
 slug: speech-by-new-zealand-first-leader
-title: "Speech by New Zealand First Leader"
-date: 2016-11-07
-source-url: https://www.scoop.co.nz/stories/PA1611/S00123/speech-by-new-zealand-first-leader.htm
+title: Speech by New Zealand First Leader
+date: 2016-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00123/speech-by-new-zealand-first-leader.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/07/speech-by-new-zealand-first-leader/index.html
+layout: layout.njk
 ---
 Speech by New Zealand First Leader
 ==================================

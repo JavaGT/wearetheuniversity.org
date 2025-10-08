@@ -1,9 +1,12 @@
 ---
 slug: new-grants-for-serious-life-threatening-illness
-title: "New Grants For Serious Life Threatening Illness"
-date: 2004-12-01
-source-url: https://www.scoop.co.nz/stories/ED0412/S00004/new-grants-for-serious-life-threatening-illness.htm
+title: New Grants For Serious Life Threatening Illness
+date: 2004-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00004/new-grants-for-serious-life-threatening-illness.htm
 author: university-of-otago
+permalink: /archive/2004/12/01/new-grants-for-serious-life-threatening-illness/index.html
+layout: layout.njk
 ---
 New Grants For Serious Life Threatening Illness
 ===============================================

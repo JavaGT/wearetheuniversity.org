@@ -1,9 +1,12 @@
 ---
 slug: medical-workforce-issues-ignored
-title: "Medical Workforce Issues Ignored"
-date: 2006-10-03
-source-url: https://www.scoop.co.nz/stories/PA0610/S00038/medical-workforce-issues-ignored.htm
+title: Medical Workforce Issues Ignored
+date: 2006-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00038/medical-workforce-issues-ignored.htm
 author: new-zealand-first-party
+permalink: /archive/2006/10/03/medical-workforce-issues-ignored/index.html
+layout: layout.njk
 ---
 Medical Workforce Issues Ignored
 ================================

@@ -1,9 +1,11 @@
 ---
 slug: colemans-cuts-create-crisis
-title: "Coleman’s cuts create crisis"
-date: 2016-09-23
+title: Coleman’s cuts create crisis
+date: 2016-09-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1609/S00442/colemans-cuts-create-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/23/colemans-cuts-create-crisis/index.html
+layout: layout.njk
 ---
 Coleman’s cuts create crisis
 ============================

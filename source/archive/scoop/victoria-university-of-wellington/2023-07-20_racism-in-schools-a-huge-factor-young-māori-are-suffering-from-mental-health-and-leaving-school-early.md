@@ -1,9 +1,15 @@
 ---
-slug: racism-in-schools-a-huge-factor-young-māori-are-suffering-from-mental-health-and-leaving-school-early
-title: "Racism In Schools A Huge Factor Young Māori Are Suffering From Mental Health And Leaving School Early"
-date: 2023-07-20
-source-url: https://www.scoop.co.nz/stories/ED2307/S00025/racism-in-schools-a-huge-factor-young-maori-are-suffering-from-mental-health-and-leaving-school-early.htm
+slug: >-
+  racism-in-schools-a-huge-factor-young-māori-are-suffering-from-mental-health-and-leaving-school-early
+title: >-
+  Racism In Schools A Huge Factor Young Māori Are Suffering From Mental Health
+  And Leaving School Early
+date: 2023-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2307/S00025/racism-in-schools-a-huge-factor-young-maori-are-suffering-from-mental-health-and-leaving-school-early.htm
 author: victoria-university-of-wellington
+permalink: /archive/2023/07/20/racism-in-schools-a-huge-factor-young-m/index.html
+layout: layout.njk
 ---
 Racism In Schools A Huge Factor Young Māori Are Suffering From Mental Health And Leaving School Early
 =====================================================================================================

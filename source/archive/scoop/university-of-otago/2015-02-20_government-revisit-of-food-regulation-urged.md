@@ -1,9 +1,12 @@
 ---
 slug: government-revisit-of-food-regulation-urged
-title: "Government revisit of food regulation urged"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/GE1502/S00060/government-revisit-of-food-regulation-urged.htm
+title: Government revisit of food regulation urged
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1502/S00060/government-revisit-of-food-regulation-urged.htm
 author: university-of-otago
+permalink: /archive/2015/02/20/government-revisit-of-food-regulation-urged/index.html
+layout: layout.njk
 ---
 Government revisit of food regulation urged
 ===========================================

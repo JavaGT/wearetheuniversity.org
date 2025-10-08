@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-goes-bush-at-fieldays
-title: "Waikato Uni goes bush at Fieldays"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/CU0905/S00342/waikato-uni-goes-bush-at-fieldays.htm
+title: Waikato Uni goes bush at Fieldays
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00342/waikato-uni-goes-bush-at-fieldays.htm
 author: university-of-waikato
+permalink: /archive/2009/05/26/waikato-uni-goes-bush-at-fieldays/index.html
+layout: layout.njk
 ---
 Waikato Uni goes bush at Fieldays
 =================================

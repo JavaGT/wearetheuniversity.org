@@ -1,9 +1,13 @@
 ---
 slug: nzs-lockdown-v-2-deals-hefty-blow-to-our-happiness-levels
-title: "NZ’s Lockdown V.2 Deals Hefty Blow To Our Happiness Levels"
-date: 2020-08-15
-source-url: https://www.scoop.co.nz/stories/PO2008/S00194/nzs-lockdown-v2-deals-hefty-blow-to-our-happiness-levels.htm
+title: NZ’s Lockdown V.2 Deals Hefty Blow To Our Happiness Levels
+date: 2020-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00194/nzs-lockdown-v2-deals-hefty-blow-to-our-happiness-levels.htm
 author: aut-university
+permalink: >-
+  /archive/2020/08/15/nzs-lockdown-v-2-deals-hefty-blow-to-our-happiness-levels/index.html
+layout: layout.njk
 ---
 NZ’s Lockdown V.2 Deals Hefty Blow To Our Happiness Levels
 ==========================================================

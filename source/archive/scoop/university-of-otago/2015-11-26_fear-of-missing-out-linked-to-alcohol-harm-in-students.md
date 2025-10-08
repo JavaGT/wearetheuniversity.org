@@ -1,9 +1,13 @@
 ---
 slug: fear-of-missing-out-linked-to-alcohol-harm-in-students
-title: "\"Fear of missing out\" linked to alcohol harm in students"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/GE1511/S00100/fear-of-missing-out-linked-to-alcohol-harm-in-students.htm
+title: '"Fear of missing out" linked to alcohol harm in students'
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1511/S00100/fear-of-missing-out-linked-to-alcohol-harm-in-students.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/26/fear-of-missing-out-linked-to-alcohol-harm-in-students/index.html
+layout: layout.njk
 ---
 “Fear of missing out” linked to alcohol harm in students
 ========================================================

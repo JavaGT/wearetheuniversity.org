@@ -1,9 +1,12 @@
 ---
 slug: new-research-to-enhance-water-quality-in-nz
-title: "New research to enhance water quality in NZ"
-date: 2007-05-15
-source-url: https://www.scoop.co.nz/stories/PO0705/S00246/new-research-to-enhance-water-quality-in-nz.htm
+title: New research to enhance water quality in NZ
+date: 2007-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00246/new-research-to-enhance-water-quality-in-nz.htm
 author: motu
+permalink: /archive/2007/05/15/new-research-to-enhance-water-quality-in-nz/index.html
+layout: layout.njk
 ---
 New research to enhance water quality in NZ
 ===========================================

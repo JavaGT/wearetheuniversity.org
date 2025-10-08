@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-25
-title: "TEU Tertiary Update Vol 13 No 25"
-date: 2010-07-08
-source-url: https://www.scoop.co.nz/stories/ED1007/S00033/teu-tertiary-update-vol-13-no-25.htm
+title: TEU Tertiary Update Vol 13 No 25
+date: 2010-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00033/teu-tertiary-update-vol-13-no-25.htm
 author: association-of-university-staff
+permalink: /archive/2010/07/08/teu-tertiary-update-vol-13-no-25/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 25
 ================================

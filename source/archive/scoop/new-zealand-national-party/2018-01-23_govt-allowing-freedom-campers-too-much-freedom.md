@@ -1,9 +1,12 @@
 ---
 slug: govt-allowing-freedom-campers-too-much-freedom
-title: "Govt allowing freedom campers too much freedom"
-date: 2018-01-23
-source-url: https://www.scoop.co.nz/stories/PA1801/S00052/govt-allowing-freedom-campers-too-much-freedom.htm
+title: Govt allowing freedom campers too much freedom
+date: 2018-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00052/govt-allowing-freedom-campers-too-much-freedom.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/23/govt-allowing-freedom-campers-too-much-freedom/index.html
+layout: layout.njk
 ---
 Govt allowing freedom campers too much freedom
 ==============================================

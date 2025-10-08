@@ -1,9 +1,13 @@
 ---
 slug: mentally-ill-nzers-are-not-a-cash-cow-for-nationals-mates
-title: "Mentally ill NZers are not a cash cow for National’s mates"
-date: 2015-06-02
-source-url: https://www.scoop.co.nz/stories/PA1506/S00012/mentally-ill-nzers-are-not-a-cash-cow-for-nationals-mates.htm
+title: Mentally ill NZers are not a cash cow for National’s mates
+date: 2015-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00012/mentally-ill-nzers-are-not-a-cash-cow-for-nationals-mates.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/02/mentally-ill-nzers-are-not-a-cash-cow-for-nationals-mates/index.html
+layout: layout.njk
 ---
 Mentally ill NZers are not a cash cow for National’s mates
 ==========================================================

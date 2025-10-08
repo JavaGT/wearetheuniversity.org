@@ -1,9 +1,12 @@
 ---
 slug: more-than-$500k-in-postgraduate-scholarships-on-offer
-title: "More than $500k in postgraduate scholarships on offer"
-date: 2015-02-02
-source-url: https://www.scoop.co.nz/stories/ED1502/S00007/more-than-500k-in-postgraduate-scholarships-on-offer.htm
+title: More than $500k in postgraduate scholarships on offer
+date: 2015-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00007/more-than-500k-in-postgraduate-scholarships-on-offer.htm
 author: university-of-waikato
+permalink: /archive/2015/02/02/more-than-/index.html
+layout: layout.njk
 ---
 More than $500k in postgraduate scholarships on offer
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-wants-continuing-role-for-special-residential-schools
-title: "NZEI Wants Continuing Role for Special Residential Schools"
-date: 2012-06-15
-source-url: https://www.scoop.co.nz/stories/ED1206/S00069/nzei-wants-continuing-role-for-special-residential-schools.htm
+title: NZEI Wants Continuing Role for Special Residential Schools
+date: 2012-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00069/nzei-wants-continuing-role-for-special-residential-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/06/15/nzei-wants-continuing-role-for-special-residential-schools/index.html
+layout: layout.njk
 ---
 NZEI Wants Continuing Role for Special Residential Schools
 ==========================================================

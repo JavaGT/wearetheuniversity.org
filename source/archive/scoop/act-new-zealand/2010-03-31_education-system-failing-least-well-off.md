@@ -1,9 +1,12 @@
 ---
 slug: education-system-failing-least-well-off
-title: "Education System Failing Least Well Off"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/PA1003/S00509/education-system-failing-least-well-off.htm
+title: Education System Failing Least Well Off
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00509/education-system-failing-least-well-off.htm
 author: act-new-zealand
+permalink: /archive/2010/03/31/education-system-failing-least-well-off/index.html
+layout: layout.njk
 ---
 Education System Failing Least Well Off
 =======================================

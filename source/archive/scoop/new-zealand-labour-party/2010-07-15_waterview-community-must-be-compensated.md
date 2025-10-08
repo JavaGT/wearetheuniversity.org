@@ -1,9 +1,12 @@
 ---
 slug: waterview-community-must-be-compensated
-title: "Waterview community must be compensated"
-date: 2010-07-15
-source-url: https://www.scoop.co.nz/stories/PA1007/S00226/waterview-community-must-be-compensated.htm
+title: Waterview community must be compensated
+date: 2010-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00226/waterview-community-must-be-compensated.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/15/waterview-community-must-be-compensated/index.html
+layout: layout.njk
 ---
 Waterview community must be compensated
 =======================================

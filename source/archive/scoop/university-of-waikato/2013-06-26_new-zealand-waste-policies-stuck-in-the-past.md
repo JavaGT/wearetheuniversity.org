@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-waste-policies-stuck-in-the-past
-title: "New Zealand waste policies stuck in the past"
-date: 2013-06-26
-source-url: https://www.scoop.co.nz/stories/AK1306/S00647/new-zealand-waste-policies-stuck-in-the-past.htm
+title: New Zealand waste policies stuck in the past
+date: 2013-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00647/new-zealand-waste-policies-stuck-in-the-past.htm
 author: university-of-waikato
+permalink: /archive/2013/06/26/new-zealand-waste-policies-stuck-in-the-past/index.html
+layout: layout.njk
 ---
 New Zealand waste policies stuck in the past
 ============================================

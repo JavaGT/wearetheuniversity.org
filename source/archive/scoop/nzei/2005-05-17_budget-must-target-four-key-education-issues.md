@@ -1,9 +1,12 @@
 ---
 slug: budget-must-target-four-key-education-issues
-title: "Budget Must Target Four Key Education Issues"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/ED0505/S00069/budget-must-target-four-key-education-issues.htm
+title: Budget Must Target Four Key Education Issues
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00069/budget-must-target-four-key-education-issues.htm
 author: nzei
+permalink: /archive/2005/05/17/budget-must-target-four-key-education-issues/index.html
+layout: layout.njk
 ---
 Budget Must Target Four Key Education Issues
 ============================================

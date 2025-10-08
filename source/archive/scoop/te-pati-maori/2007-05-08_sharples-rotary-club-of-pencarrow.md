@@ -1,9 +1,12 @@
 ---
 slug: sharples-rotary-club-of-pencarrow
-title: "Sharples: Rotary Club of Pencarrow"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/PA0705/S00181/sharples-rotary-club-of-pencarrow.htm
+title: 'Sharples: Rotary Club of Pencarrow'
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00181/sharples-rotary-club-of-pencarrow.htm
 author: te-pati-maori
+permalink: /archive/2007/05/08/sharples-rotary-club-of-pencarrow/index.html
+layout: layout.njk
 ---
 Sharples: Rotary Club of Pencarrow
 ==================================

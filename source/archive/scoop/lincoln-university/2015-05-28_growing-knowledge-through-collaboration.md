@@ -1,9 +1,12 @@
 ---
 slug: growing-knowledge-through-collaboration
-title: "Growing knowledge through collaboration"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/BU1505/S00902/growing-knowledge-through-collaboration.htm
+title: Growing knowledge through collaboration
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1505/S00902/growing-knowledge-through-collaboration.htm
 author: lincoln-university
+permalink: /archive/2015/05/28/growing-knowledge-through-collaboration/index.html
+layout: layout.njk
 ---
 Growing knowledge through collaboration
 =======================================

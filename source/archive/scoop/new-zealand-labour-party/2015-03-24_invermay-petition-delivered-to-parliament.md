@@ -1,9 +1,12 @@
 ---
 slug: invermay-petition-delivered-to-parliament
-title: "Invermay petition delivered to Parliament"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/PA1503/S00353/invermay-petition-delivered-to-parliament.htm
+title: Invermay petition delivered to Parliament
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00353/invermay-petition-delivered-to-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/24/invermay-petition-delivered-to-parliament/index.html
+layout: layout.njk
 ---
 Invermay petition delivered to Parliament
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: pay-transparency-is-vital-to-reduce-inequality
-title: "Pay transparency is vital to reduce inequality"
-date: 2015-03-03
-source-url: https://www.scoop.co.nz/stories/PA1503/S00025/pay-transparency-is-vital-to-reduce-inequality.htm
+title: Pay transparency is vital to reduce inequality
+date: 2015-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00025/pay-transparency-is-vital-to-reduce-inequality.htm
 author: green-party
+permalink: /archive/2015/03/03/pay-transparency-is-vital-to-reduce-inequality/index.html
+layout: layout.njk
 ---
 Pay transparency is vital to reduce inequality
 ==============================================

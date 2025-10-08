@@ -1,9 +1,12 @@
 ---
 slug: auckland-tops-nz-in-life-sciences-rankings
-title: "Auckland Tops NZ in Life Sciences Rankings"
-date: 2011-05-04
-source-url: https://www.scoop.co.nz/stories/AK1105/S00107/auckland-tops-nz-in-life-sciences-rankings.htm
+title: Auckland Tops NZ in Life Sciences Rankings
+date: 2011-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1105/S00107/auckland-tops-nz-in-life-sciences-rankings.htm
 author: auckland-university
+permalink: /archive/2011/05/04/auckland-tops-nz-in-life-sciences-rankings/index.html
+layout: layout.njk
 ---
 Auckland Tops NZ in Life Sciences Rankings
 ==========================================

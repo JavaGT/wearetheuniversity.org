@@ -1,9 +1,13 @@
 ---
 slug: university-appoints-first-innovator-in-residence
-title: "University appoints first Innovator-in-Residence"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/ED1108/S00145/university-appoints-first-innovator-in-residence.htm
+title: University appoints first Innovator-in-Residence
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00145/university-appoints-first-innovator-in-residence.htm
 author: massey-university
+permalink: >-
+  /archive/2011/08/26/university-appoints-first-innovator-in-residence/index.html
+layout: layout.njk
 ---
 University appoints first Innovator-in-Residence
 ================================================

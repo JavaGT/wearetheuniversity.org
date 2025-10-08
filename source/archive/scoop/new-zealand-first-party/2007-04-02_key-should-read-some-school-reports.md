@@ -1,9 +1,12 @@
 ---
 slug: key-should-read-some-school-reports
-title: "Key Should Read Some School Reports"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00022/key-should-read-some-school-reports.htm
+title: Key Should Read Some School Reports
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00022/key-should-read-some-school-reports.htm
 author: new-zealand-first-party
+permalink: /archive/2007/04/02/key-should-read-some-school-reports/index.html
+layout: layout.njk
 ---
 Key Should Read Some School Reports
 ===================================

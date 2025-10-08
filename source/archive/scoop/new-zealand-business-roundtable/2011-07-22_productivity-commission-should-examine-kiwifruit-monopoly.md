@@ -1,9 +1,13 @@
 ---
 slug: productivity-commission-should-examine-kiwifruit-monopoly
-title: "Productivity Commission Should Examine Kiwifruit Monopoly"
-date: 2011-07-22
-source-url: https://www.scoop.co.nz/stories/BU1107/S00694/productivity-commission-should-examine-kiwifruit-monopoly.htm
+title: Productivity Commission Should Examine Kiwifruit Monopoly
+date: 2011-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1107/S00694/productivity-commission-should-examine-kiwifruit-monopoly.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/07/22/productivity-commission-should-examine-kiwifruit-monopoly/index.html
+layout: layout.njk
 ---
 Productivity Commission Should Examine Kiwifruit Monopoly
 =========================================================

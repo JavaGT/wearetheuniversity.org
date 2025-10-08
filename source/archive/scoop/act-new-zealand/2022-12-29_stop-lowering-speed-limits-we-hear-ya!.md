@@ -1,9 +1,12 @@
 ---
 slug: stop-lowering-speed-limits-we-hear-ya!
-title: "Stop Lowering Speed Limits? We Hear Ya!"
-date: 2022-12-29
-source-url: https://www.scoop.co.nz/stories/PA2212/S00188/stop-lowering-speed-limits-we-hear-ya.htm
+title: Stop Lowering Speed Limits? We Hear Ya!
+date: 2022-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00188/stop-lowering-speed-limits-we-hear-ya.htm
 author: act-new-zealand
+permalink: /archive/2022/12/29/stop-lowering-speed-limits-we-hear-ya/index.html
+layout: layout.njk
 ---
 Stop Lowering Speed Limits? We Hear Ya!
 =======================================

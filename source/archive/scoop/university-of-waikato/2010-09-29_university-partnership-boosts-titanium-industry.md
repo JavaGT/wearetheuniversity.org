@@ -1,9 +1,12 @@
 ---
 slug: university-partnership-boosts-titanium-industry
-title: "University partnership boosts titanium industry"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/BU1009/S00910/university-partnership-boosts-titanium-industry.htm
+title: University partnership boosts titanium industry
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1009/S00910/university-partnership-boosts-titanium-industry.htm
 author: university-of-waikato
+permalink: /archive/2010/09/29/university-partnership-boosts-titanium-industry/index.html
+layout: layout.njk
 ---
 University partnership boosts titanium industry
 ===============================================

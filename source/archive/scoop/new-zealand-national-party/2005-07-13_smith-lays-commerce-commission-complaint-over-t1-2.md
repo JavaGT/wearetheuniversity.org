@@ -1,9 +1,13 @@
 ---
 slug: smith-lays-commerce-commission-complaint-over-t1-2
-title: "Smith lays Commerce Commission complaint over T1.2"
-date: 2005-07-13
-source-url: https://www.scoop.co.nz/stories/PA0507/S00266/smith-lays-commerce-commission-complaint-over-t12.htm
+title: Smith lays Commerce Commission complaint over T1.2
+date: 2005-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00266/smith-lays-commerce-commission-complaint-over-t12.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/07/13/smith-lays-commerce-commission-complaint-over-t1-2/index.html
+layout: layout.njk
 ---
 Smith lays Commerce Commission complaint over T1.2
 ==================================================

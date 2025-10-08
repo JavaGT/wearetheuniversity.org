@@ -1,9 +1,12 @@
 ---
 slug: amnesty-for-overstayers-sends-the-wrong-message
-title: "Amnesty For Overstayers Sends The Wrong Message"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/PA2309/S00139/amnesty-for-overstayers-sends-the-wrong-message.htm
+title: Amnesty For Overstayers Sends The Wrong Message
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00139/amnesty-for-overstayers-sends-the-wrong-message.htm
 author: new-zealand-national-party
+permalink: /archive/2023/09/26/amnesty-for-overstayers-sends-the-wrong-message/index.html
+layout: layout.njk
 ---
 Amnesty For Overstayers Sends The Wrong Message
 ===============================================

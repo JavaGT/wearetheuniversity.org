@@ -1,9 +1,12 @@
 ---
 slug: english-reveals-plans-to-subsidise-agribusiness
-title: "English Reveals Plans To Subsidise Agribusiness"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/PA1004/S00126/english-reveals-plans-to-subsidise-agribusiness.htm
+title: English Reveals Plans To Subsidise Agribusiness
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00126/english-reveals-plans-to-subsidise-agribusiness.htm
 author: green-party
+permalink: /archive/2010/04/14/english-reveals-plans-to-subsidise-agribusiness/index.html
+layout: layout.njk
 ---
 English Reveals Plans To Subsidise Agribusiness
 ===============================================

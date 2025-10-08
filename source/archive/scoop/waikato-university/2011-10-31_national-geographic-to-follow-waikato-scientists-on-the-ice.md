@@ -1,9 +1,13 @@
 ---
 slug: national-geographic-to-follow-waikato-scientists-on-the-ice
-title: "National Geographic to follow Waikato scientists on the ice"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/ED1110/S00142/national-geographic-to-follow-waikato-scientists-on-the-ice.htm
+title: National Geographic to follow Waikato scientists on the ice
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00142/national-geographic-to-follow-waikato-scientists-on-the-ice.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/10/31/national-geographic-to-follow-waikato-scientists-on-the-ice/index.html
+layout: layout.njk
 ---
 National Geographic to follow Waikato scientists on the ice
 ===========================================================

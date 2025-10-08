@@ -1,9 +1,13 @@
 ---
 slug: aut-universitys-connection-crosses-the-south-pacific
-title: "AUT University’s connection crosses the South Pacific"
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/ED1105/S00113/aut-universitys-connection-crosses-the-south-pacific.htm
+title: AUT University’s connection crosses the South Pacific
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00113/aut-universitys-connection-crosses-the-south-pacific.htm
 author: aut-university
+permalink: >-
+  /archive/2011/05/27/aut-universitys-connection-crosses-the-south-pacific/index.html
+layout: layout.njk
 ---
 AUT University’s connection crosses the South Pacific
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: corporate-manslaughter-bill-already-on-the-cards
-title: "Corporate manslaughter Bill already on the cards"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/PA1303/S00455/corporate-manslaughter-bill-already-on-the-cards.htm
+title: Corporate manslaughter Bill already on the cards
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00455/corporate-manslaughter-bill-already-on-the-cards.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/03/26/corporate-manslaughter-bill-already-on-the-cards/index.html
+layout: layout.njk
 ---
 Corporate manslaughter Bill already on the cards
 ================================================

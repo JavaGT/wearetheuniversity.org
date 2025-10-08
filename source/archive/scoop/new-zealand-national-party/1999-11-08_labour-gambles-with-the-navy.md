@@ -1,9 +1,11 @@
 ---
 slug: labour-gambles-with-the-navy
-title: "Labour Gambles With The Navy"
-date: 1999-11-08
+title: Labour Gambles With The Navy
+date: 1999-11-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00188/labour-gambles-with-the-navy.htm
 author: new-zealand-national-party
+permalink: /archive/1999/11/08/labour-gambles-with-the-navy/index.html
+layout: layout.njk
 ---
 Labour Gambles With The Navy
 ============================

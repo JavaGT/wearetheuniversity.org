@@ -1,9 +1,13 @@
 ---
 slug: decision-to-retain-service-for-the-elderly-welcome
-title: "Decision to retain service for the elderly welcome"
-date: 2010-03-12
-source-url: https://www.scoop.co.nz/stories/PA1003/S00182/decision-to-retain-service-for-the-elderly-welcome.htm
+title: Decision to retain service for the elderly welcome
+date: 2010-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00182/decision-to-retain-service-for-the-elderly-welcome.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/03/12/decision-to-retain-service-for-the-elderly-welcome/index.html
+layout: layout.njk
 ---
 Decision to retain service for the elderly welcome
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: light-at-end-of-tunnel-for-rail-intersection
-title: "Light At End Of Tunnel For Rail Intersection"
-date: 2003-01-31
-source-url: https://www.scoop.co.nz/stories/PA0301/S00310/light-at-end-of-tunnel-for-rail-intersection.htm
+title: Light At End Of Tunnel For Rail Intersection
+date: 2003-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00310/light-at-end-of-tunnel-for-rail-intersection.htm
 author: new-zealand-first-party
+permalink: /archive/2003/01/31/light-at-end-of-tunnel-for-rail-intersection/index.html
+layout: layout.njk
 ---
 Light At End Of Tunnel For Rail Intersection
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: university-sponsorship-for-rutherfords-den
-title: "University Sponsorship for Rutherford's Den"
-date: 2008-05-09
-source-url: https://www.scoop.co.nz/stories/ED0805/S00028/university-sponsorship-for-rutherfords-den.htm
+title: University Sponsorship for Rutherford's Den
+date: 2008-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00028/university-sponsorship-for-rutherfords-den.htm
 author: university-of-canterbury
+permalink: /archive/2008/05/09/university-sponsorship-for-rutherfords-den/index.html
+layout: layout.njk
 ---
 University Sponsorship for Rutherford's Den
 ===========================================

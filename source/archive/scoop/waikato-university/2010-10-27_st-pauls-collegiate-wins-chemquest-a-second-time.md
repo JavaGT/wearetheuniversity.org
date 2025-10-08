@@ -1,9 +1,13 @@
 ---
 slug: st-pauls-collegiate-wins-chemquest-a-second-time
-title: "St Paul’s Collegiate wins ChemQuest a second time"
-date: 2010-10-27
-source-url: https://www.scoop.co.nz/stories/ED1010/S00096/st-pauls-collegiate-wins-chemquest-a-second-time.htm
+title: St Paul’s Collegiate wins ChemQuest a second time
+date: 2010-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00096/st-pauls-collegiate-wins-chemquest-a-second-time.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/10/27/st-pauls-collegiate-wins-chemquest-a-second-time/index.html
+layout: layout.njk
 ---
 St Paul’s Collegiate wins ChemQuest a second time
 =================================================

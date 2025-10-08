@@ -1,9 +1,12 @@
 ---
 slug: student-owned-bar-facing-difficulty
-title: "Student-owned bar facing difficulty"
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/ED1211/S00036/student-owned-bar-facing-difficulty.htm
+title: Student-owned bar facing difficulty
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00036/student-owned-bar-facing-difficulty.htm
 author: auckland-university-students-association
+permalink: /archive/2012/11/05/student-owned-bar-facing-difficulty/index.html
+layout: layout.njk
 ---
 Student-owned bar facing difficulty
 ===================================

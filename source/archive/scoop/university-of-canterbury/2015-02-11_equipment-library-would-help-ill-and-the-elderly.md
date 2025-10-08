@@ -1,9 +1,13 @@
 ---
 slug: equipment-library-would-help-ill-and-the-elderly
-title: "Equipment library would help ill and the elderly"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/GE1502/S00028/equipment-library-would-help-ill-and-the-elderly.htm
+title: Equipment library would help ill and the elderly
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1502/S00028/equipment-library-would-help-ill-and-the-elderly.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/11/equipment-library-would-help-ill-and-the-elderly/index.html
+layout: layout.njk
 ---
 Equipment library would help ill and the elderly
 ================================================

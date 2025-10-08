@@ -1,9 +1,12 @@
 ---
 slug: psychological-ownership-&-shoplifting
-title: "Psychological ownership & shoplifting"
-date: 2018-08-14
-source-url: https://www.scoop.co.nz/stories/BU1808/S00414/psychological-ownership-shoplifting.htm
+title: Psychological ownership & shoplifting
+date: 2018-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1808/S00414/psychological-ownership-shoplifting.htm
 author: university-of-otago
+permalink: /archive/2018/08/14/psychological-ownership-/index.html
+layout: layout.njk
 ---
 Psychological ownership & shoplifting
 =====================================

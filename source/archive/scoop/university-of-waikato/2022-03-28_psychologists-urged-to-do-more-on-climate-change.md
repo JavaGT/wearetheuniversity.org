@@ -1,9 +1,13 @@
 ---
 slug: psychologists-urged-to-do-more-on-climate-change
-title: "Psychologists Urged To Do More On Climate Change"
-date: 2022-03-28
-source-url: https://www.scoop.co.nz/stories/ED2203/S00038/psychologists-urged-to-do-more-on-climate-change.htm
+title: Psychologists Urged To Do More On Climate Change
+date: 2022-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00038/psychologists-urged-to-do-more-on-climate-change.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2022/03/28/psychologists-urged-to-do-more-on-climate-change/index.html
+layout: layout.njk
 ---
 Psychologists Urged To Do More On Climate Change
 ================================================

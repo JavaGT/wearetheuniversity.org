@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-must-act-consistently
-title: "Prime Minister Must Act Consistently"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PA0306/S00369/prime-minister-must-act-consistently.htm
+title: Prime Minister Must Act Consistently
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00369/prime-minister-must-act-consistently.htm
 author: act-new-zealand
+permalink: /archive/2003/06/20/prime-minister-must-act-consistently/index.html
+layout: layout.njk
 ---
 Prime Minister Must Act Consistently
 ====================================

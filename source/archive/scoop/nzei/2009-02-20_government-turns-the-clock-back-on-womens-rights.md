@@ -1,9 +1,13 @@
 ---
 slug: government-turns-the-clock-back-on-womens-rights
-title: "Government Turns The Clock Back On Women’s Rights"
-date: 2009-02-20
-source-url: https://www.scoop.co.nz/stories/PO0902/S00232/government-turns-the-clock-back-on-womens-rights.htm
+title: Government Turns The Clock Back On Women’s Rights
+date: 2009-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00232/government-turns-the-clock-back-on-womens-rights.htm
 author: nzei
+permalink: >-
+  /archive/2009/02/20/government-turns-the-clock-back-on-womens-rights/index.html
+layout: layout.njk
 ---
 Government Turns The Clock Back On Women’s Rights
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: french-artists-arrive-to-take-up-residency
-title: "French artists arrive to take up residency"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/ED1605/S00080/french-artists-arrive-to-take-up-residency.htm
+title: French artists arrive to take up residency
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00080/french-artists-arrive-to-take-up-residency.htm
 author: massey-university
+permalink: /archive/2016/05/19/french-artists-arrive-to-take-up-residency/index.html
+layout: layout.njk
 ---
 French artists arrive to take up residency
 ==========================================

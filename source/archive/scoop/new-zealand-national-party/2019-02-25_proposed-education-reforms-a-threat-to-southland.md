@@ -1,9 +1,13 @@
 ---
 slug: proposed-education-reforms-a-threat-to-southland
-title: "Proposed education reforms a threat to Southland"
-date: 2019-02-25
-source-url: https://www.scoop.co.nz/stories/PA1902/S00202/proposed-education-reforms-a-threat-to-southland.htm
+title: Proposed education reforms a threat to Southland
+date: 2019-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00202/proposed-education-reforms-a-threat-to-southland.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/02/25/proposed-education-reforms-a-threat-to-southland/index.html
+layout: layout.njk
 ---
 Proposed education reforms a threat to Southland
 ================================================

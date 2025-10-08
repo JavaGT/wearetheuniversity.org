@@ -1,9 +1,11 @@
 ---
 slug: john-key-speech-to-foma
-title: "John Key: Speech To FOMA"
-date: 2007-11-09
+title: 'John Key: Speech To FOMA'
+date: 2007-11-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0711/S00198/john-key-speech-to-foma.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/09/john-key-speech-to-foma/index.html
+layout: layout.njk
 ---
 John Key: Speech To FOMA
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: e-mail-can-suppress-workplace-conflict
-title: "E-mail Can Suppress Workplace Conflict"
-date: 2000-06-13
-source-url: https://www.scoop.co.nz/stories/GE0006/S00034/e-mail-can-suppress-workplace-conflict.htm
+title: E-mail Can Suppress Workplace Conflict
+date: 2000-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0006/S00034/e-mail-can-suppress-workplace-conflict.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/13/e-mail-can-suppress-workplace-conflict/index.html
+layout: layout.njk
 ---
 E-mail Can Suppress Workplace Conflict
 ======================================

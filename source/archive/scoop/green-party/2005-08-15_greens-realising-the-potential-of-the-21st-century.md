@@ -1,9 +1,13 @@
 ---
 slug: greens-realising-the-potential-of-the-21st-century
-title: "Greens Realising the potential of the 21st Century"
-date: 2005-08-15
-source-url: https://www.scoop.co.nz/stories/PA0508/S00356/greens-realising-the-potential-of-the-21st-century.htm
+title: Greens Realising the potential of the 21st Century
+date: 2005-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00356/greens-realising-the-potential-of-the-21st-century.htm
 author: green-party
+permalink: >-
+  /archive/2005/08/15/greens-realising-the-potential-of-the-21st-century/index.html
+layout: layout.njk
 ---
 Greens Realising the potential of the 21st Century
 ==================================================

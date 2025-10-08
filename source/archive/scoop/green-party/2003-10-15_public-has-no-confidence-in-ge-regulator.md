@@ -1,9 +1,12 @@
 ---
 slug: public-has-no-confidence-in-ge-regulator
-title: "Public has no confidence in GE regulator"
-date: 2003-10-15
-source-url: https://www.scoop.co.nz/stories/PA0310/S00348/public-has-no-confidence-in-ge-regulator.htm
+title: Public has no confidence in GE regulator
+date: 2003-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00348/public-has-no-confidence-in-ge-regulator.htm
 author: green-party
+permalink: /archive/2003/10/15/public-has-no-confidence-in-ge-regulator/index.html
+layout: layout.njk
 ---
 Public has no confidence in GE regulator
 ========================================

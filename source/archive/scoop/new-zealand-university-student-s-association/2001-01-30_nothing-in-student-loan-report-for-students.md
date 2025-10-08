@@ -1,9 +1,12 @@
 ---
 slug: nothing-in-student-loan-report-for-students
-title: "Nothing In Student Loan Report For Students"
-date: 2001-01-30
-source-url: https://www.scoop.co.nz/stories/ED0101/S00018/nothing-in-student-loan-report-for-students.htm
+title: Nothing In Student Loan Report For Students
+date: 2001-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00018/nothing-in-student-loan-report-for-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/01/30/nothing-in-student-loan-report-for-students/index.html
+layout: layout.njk
 ---
 Nothing In Student Loan Report For Students
 ===========================================

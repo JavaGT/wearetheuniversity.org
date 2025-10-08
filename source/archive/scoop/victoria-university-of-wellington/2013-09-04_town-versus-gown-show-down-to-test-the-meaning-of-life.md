@@ -1,9 +1,13 @@
 ---
 slug: town-versus-gown-show-down-to-test-the-meaning-of-life
-title: "Town versus gown show down to test the meaning of life"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/CU1309/S00065/town-versus-gown-show-down-to-test-the-meaning-of-life.htm
+title: Town versus gown show down to test the meaning of life
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00065/town-versus-gown-show-down-to-test-the-meaning-of-life.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/09/04/town-versus-gown-show-down-to-test-the-meaning-of-life/index.html
+layout: layout.njk
 ---
 Town versus gown show down to test the meaning of life
 ======================================================

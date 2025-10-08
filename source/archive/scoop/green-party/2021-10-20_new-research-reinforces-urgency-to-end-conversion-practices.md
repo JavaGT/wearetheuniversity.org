@@ -1,9 +1,13 @@
 ---
 slug: new-research-reinforces-urgency-to-end-conversion-practices
-title: "New Research Reinforces Urgency To End Conversion Practices"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/PA2110/S00187/new-research-reinforces-urgency-to-end-conversion-practices.htm
+title: New Research Reinforces Urgency To End Conversion Practices
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00187/new-research-reinforces-urgency-to-end-conversion-practices.htm
 author: green-party
+permalink: >-
+  /archive/2021/10/20/new-research-reinforces-urgency-to-end-conversion-practices/index.html
+layout: layout.njk
 ---
 New Research Reinforces Urgency To End Conversion Practices
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: dr-mike-joy-to-deliver-2014-bruce-jesson-lecture
-title: "Dr Mike Joy to deliver 2014 Bruce Jesson Lecture"
-date: 2014-10-10
-source-url: https://www.scoop.co.nz/stories/ED1410/S00065/dr-mike-joy-to-deliver-2014-bruce-jesson-lecture.htm
+title: Dr Mike Joy to deliver 2014 Bruce Jesson Lecture
+date: 2014-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00065/dr-mike-joy-to-deliver-2014-bruce-jesson-lecture.htm
 author: massey-university
+permalink: >-
+  /archive/2014/10/10/dr-mike-joy-to-deliver-2014-bruce-jesson-lecture/index.html
+layout: layout.njk
 ---
 Dr Mike Joy to deliver 2014 Bruce Jesson Lecture
 ================================================

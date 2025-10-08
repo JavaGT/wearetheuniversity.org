@@ -1,9 +1,12 @@
 ---
 slug: new-accommodation-planned-to-meet-high-demand
-title: "New accommodation planned to meet high demand"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/ED1512/S00012/new-accommodation-planned-to-meet-high-demand.htm
+title: New accommodation planned to meet high demand
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00012/new-accommodation-planned-to-meet-high-demand.htm
 author: lincoln-university
+permalink: /archive/2015/12/02/new-accommodation-planned-to-meet-high-demand/index.html
+layout: layout.njk
 ---
 New accommodation planned to meet high demand
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: bennett-resettles-homeless-in-jobless-towns
-title: "Bennett Resettles Homeless In Jobless Towns"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00482/bennett-resettles-homeless-in-jobless-towns.htm
+title: Bennett Resettles Homeless In Jobless Towns
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00482/bennett-resettles-homeless-in-jobless-towns.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/26/bennett-resettles-homeless-in-jobless-towns/index.html
+layout: layout.njk
 ---
 Bennett Resettles Homeless In Jobless Towns
 ===========================================

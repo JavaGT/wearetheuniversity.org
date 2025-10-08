@@ -1,9 +1,12 @@
 ---
 slug: warm-dry-healthy-rental-homes-a-step-closer
-title: "Warm, dry healthy rental homes a step closer"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00251/warm-dry-healthy-rental-homes-a-step-closer.htm
+title: Warm, dry healthy rental homes a step closer
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00251/warm-dry-healthy-rental-homes-a-step-closer.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/15/warm-dry-healthy-rental-homes-a-step-closer/index.html
+layout: layout.njk
 ---
 Warm, dry healthy rental homes a step closer
 ============================================

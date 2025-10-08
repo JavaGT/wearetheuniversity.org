@@ -1,9 +1,11 @@
 ---
 slug: budget-2015-low-expectations
-title: "Budget 2015: Low expectations"
-date: 2015-05-19
+title: 'Budget 2015: Low expectations'
+date: 2015-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1505/S00075/budget-2015-low-expectations.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/05/19/budget-2015-low-expectations/index.html
+layout: layout.njk
 ---
 Budget 2015: Low expectations
 =============================

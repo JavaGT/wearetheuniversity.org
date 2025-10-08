@@ -1,9 +1,13 @@
 ---
 slug: act-is-the-voice-of-consistency-amidst-immigration-hysteria
-title: "ACT is the voice of consistency amidst immigration hysteria"
-date: 2017-07-24
-source-url: https://www.scoop.co.nz/stories/PA1707/S00342/act-is-the-voice-of-consistency-amidst-immigration-hysteria.htm
+title: ACT is the voice of consistency amidst immigration hysteria
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00342/act-is-the-voice-of-consistency-amidst-immigration-hysteria.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/07/24/act-is-the-voice-of-consistency-amidst-immigration-hysteria/index.html
+layout: layout.njk
 ---
 ACT is the voice of consistency amidst immigration hysteria
 ===========================================================

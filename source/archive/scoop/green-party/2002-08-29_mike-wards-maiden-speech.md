@@ -1,9 +1,11 @@
 ---
 slug: mike-wards-maiden-speech
-title: "Mike Ward's Maiden Speech"
-date: 2002-08-29
+title: Mike Ward's Maiden Speech
+date: 2002-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0208/S00294/mike-wards-maiden-speech.htm
 author: green-party
+permalink: /archive/2002/08/29/mike-wards-maiden-speech/index.html
+layout: layout.njk
 ---
 Mike Ward's Maiden Speech
 =========================

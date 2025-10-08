@@ -1,9 +1,12 @@
 ---
 slug: university-negotiations-resume
-title: "University negotiations resume"
-date: 2003-11-25
-source-url: https://www.scoop.co.nz/stories/ED0311/S00080/university-negotiations-resume.htm
+title: University negotiations resume
+date: 2003-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00080/university-negotiations-resume.htm
 author: association-of-university-staff
+permalink: /archive/2003/11/25/university-negotiations-resume/index.html
+layout: layout.njk
 ---
 University negotiations resume
 ==============================

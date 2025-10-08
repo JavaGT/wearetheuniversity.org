@@ -1,9 +1,12 @@
 ---
 slug: govt-ignores-ge-marches-at-its-peril
-title: "Govt ignores GE marches at its peril"
-date: 2003-10-10
-source-url: https://www.scoop.co.nz/stories/PA0310/S00221/govt-ignores-ge-marches-at-its-peril.htm
+title: Govt ignores GE marches at its peril
+date: 2003-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00221/govt-ignores-ge-marches-at-its-peril.htm
 author: green-party
+permalink: /archive/2003/10/10/govt-ignores-ge-marches-at-its-peril/index.html
+layout: layout.njk
 ---
 Govt ignores GE marches at its peril
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: big-challenge-for-new-online-auctioneer-taking-on-trade-me
-title: "Big challenge for new online auctioneer taking on Trade Me"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/BU1209/S00956/big-challenge-for-new-online-auctioneer-taking-on-trade-me.htm
+title: Big challenge for new online auctioneer taking on Trade Me
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1209/S00956/big-challenge-for-new-online-auctioneer-taking-on-trade-me.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/26/big-challenge-for-new-online-auctioneer-taking-on-trade-me/index.html
+layout: layout.njk
 ---
 Big challenge for new online auctioneer taking on Trade Me
 ==========================================================

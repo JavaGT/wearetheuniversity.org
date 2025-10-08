@@ -1,9 +1,12 @@
 ---
 slug: cancer-vaccine-research-rewarded
-title: "Cancer Vaccine Research Rewarded"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/GE0808/S00082/cancer-vaccine-research-rewarded.htm
+title: Cancer Vaccine Research Rewarded
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0808/S00082/cancer-vaccine-research-rewarded.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/08/15/cancer-vaccine-research-rewarded/index.html
+layout: layout.njk
 ---
 Cancer Vaccine Research Rewarded
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: the-māori-party-cant-have-it-both-ways-over-labour-laws
-title: "The Māori Party can’t have it both ways over labour laws"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/PA1410/S00207/the-maori-party-cant-have-it-both-ways-over-labour-laws.htm
+title: The Māori Party can’t have it both ways over labour laws
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00207/the-maori-party-cant-have-it-both-ways-over-labour-laws.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/29/the-m/index.html
+layout: layout.njk
 ---
 The Māori Party can’t have it both ways over labour laws
 ========================================================

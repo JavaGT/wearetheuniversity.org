@@ -1,9 +1,12 @@
 ---
 slug: speech-extracts-peters-ashburton-greypower
-title: "Speech Extracts: Peters - Ashburton Greypower"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PA9907/S00578/speech-extracts-peters-ashburton-greypower.htm
+title: 'Speech Extracts: Peters - Ashburton Greypower'
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00578/speech-extracts-peters-ashburton-greypower.htm
 author: new-zealand-first-party
+permalink: /archive/1999/07/29/speech-extracts-peters-ashburton-greypower/index.html
+layout: layout.njk
 ---
 Speech Extracts: Peters - Ashburton Greypower
 =============================================

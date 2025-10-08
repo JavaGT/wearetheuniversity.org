@@ -1,8 +1,11 @@
 ---
 slug: charity-supports-medical-research-in-auckland
-title: "Charity supports medical research in Auckland"
-date: 2016-07-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/charity-supports-medical-research-in-auckland.html
+title: Charity supports medical research in Auckland
+date: 2016-07-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/charity-supports-medical-research-in-auckland.html
+permalink: /archive/2016/07/21/charity-supports-medical-research-in-auckland/index.html
+layout: layout.njk
 ---
 Charity supports medical research in Auckland
 =============================================

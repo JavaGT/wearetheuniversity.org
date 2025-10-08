@@ -1,9 +1,12 @@
 ---
 slug: failure-to-tackle-drug-problem-in-northland
-title: "Failure To Tackle Drug Problem In Northland"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/PA0205/S00158/failure-to-tackle-drug-problem-in-northland.htm
+title: Failure To Tackle Drug Problem In Northland
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00158/failure-to-tackle-drug-problem-in-northland.htm
 author: act-new-zealand
+permalink: /archive/2002/05/07/failure-to-tackle-drug-problem-in-northland/index.html
+layout: layout.njk
 ---
 Failure To Tackle Drug Problem In Northland
 ===========================================

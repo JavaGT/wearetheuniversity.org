@@ -1,9 +1,13 @@
 ---
 slug: study-into-social-medias-impact-on-premium-foods
-title: "Study Into Social Media’s Impact On Premium Foods"
-date: 2024-10-17
-source-url: https://www.scoop.co.nz/stories/BU2410/S00323/study-into-social-medias-impact-on-premium-foods.htm
+title: Study Into Social Media’s Impact On Premium Foods
+date: 2024-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2410/S00323/study-into-social-medias-impact-on-premium-foods.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/17/study-into-social-medias-impact-on-premium-foods/index.html
+layout: layout.njk
 ---
 Study Into Social Media’s Impact On Premium Foods
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-slamming-the-doors-to-opportunity-shut
-title: "University Slamming The Doors To Opportunity Shut"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/ED0712/S00040/university-slamming-the-doors-to-opportunity-shut.htm
+title: University Slamming The Doors To Opportunity Shut
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00040/university-slamming-the-doors-to-opportunity-shut.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2007/12/11/university-slamming-the-doors-to-opportunity-shut/index.html
+layout: layout.njk
 ---
 University Slamming The Doors To Opportunity Shut
 =================================================

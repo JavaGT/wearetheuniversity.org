@@ -1,9 +1,13 @@
 ---
 slug: children-affected-by-bullying-and-other-social-issues
-title: "Children affected by bullying and other social issues"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/SC1311/S00035/children-affected-by-bullying-and-other-social-issues.htm
+title: Children affected by bullying and other social issues
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00035/children-affected-by-bullying-and-other-social-issues.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/12/children-affected-by-bullying-and-other-social-issues/index.html
+layout: layout.njk
 ---
 Children affected by bullying and other social issues
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-track-satellites-impact-on-astronomy
-title: "UC Scientists Track Satellite’s Impact On Astronomy"
-date: 2023-10-03
-source-url: https://www.scoop.co.nz/stories/SC2310/S00005/uc-scientists-track-satellites-impact-on-astronomy.htm
+title: UC Scientists Track Satellite’s Impact On Astronomy
+date: 2023-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2310/S00005/uc-scientists-track-satellites-impact-on-astronomy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/10/03/uc-scientists-track-satellites-impact-on-astronomy/index.html
+layout: layout.njk
 ---
 UC Scientists Track Satellite’s Impact On Astronomy
 ===================================================

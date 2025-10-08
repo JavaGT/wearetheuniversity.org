@@ -1,9 +1,13 @@
 ---
 slug: national-doubles-down-on-qualification-double-up-embarrassment
-title: "National doubles down on qualification double up embarrassment"
-date: 2017-02-16
-source-url: https://www.scoop.co.nz/stories/PA1702/S00232/national-doubles-down-on-qualification-double-up-embarrassment.htm
+title: National doubles down on qualification double up embarrassment
+date: 2017-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00232/national-doubles-down-on-qualification-double-up-embarrassment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/16/national-doubles-down-on-qualification-double-up-embarrassment/index.html
+layout: layout.njk
 ---
 National doubles down on qualification double up embarrassment
 ==============================================================

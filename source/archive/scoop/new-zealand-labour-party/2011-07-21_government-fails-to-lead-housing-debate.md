@@ -1,9 +1,12 @@
 ---
 slug: government-fails-to-lead-housing-debate
-title: "Government fails to lead housing debate"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/PA1107/S00359/government-fails-to-lead-housing-debate.htm
+title: Government fails to lead housing debate
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00359/government-fails-to-lead-housing-debate.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/21/government-fails-to-lead-housing-debate/index.html
+layout: layout.njk
 ---
 Government fails to lead housing debate
 =======================================

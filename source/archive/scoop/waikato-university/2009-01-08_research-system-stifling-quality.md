@@ -1,9 +1,12 @@
 ---
 slug: research-system-stifling-quality
-title: "Research system ‘stifling quality’"
-date: 2009-01-08
-source-url: https://www.scoop.co.nz/stories/ED0901/S00005/research-system-stifling-quality.htm
+title: Research system ‘stifling quality’
+date: 2009-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00005/research-system-stifling-quality.htm
 author: waikato-university
+permalink: /archive/2009/01/08/research-system-stifling-quality/index.html
+layout: layout.njk
 ---
 Research system ‘stifling quality’
 ==================================

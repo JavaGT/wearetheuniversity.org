@@ -1,9 +1,13 @@
 ---
 slug: miserable-migrant-nursing-numbers-under-new-visa
-title: "Miserable Migrant Nursing Numbers Under New Visa"
-date: 2022-08-24
-source-url: https://www.scoop.co.nz/stories/PA2208/S00202/miserable-migrant-nursing-numbers-under-new-visa.htm
+title: Miserable Migrant Nursing Numbers Under New Visa
+date: 2022-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00202/miserable-migrant-nursing-numbers-under-new-visa.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/08/24/miserable-migrant-nursing-numbers-under-new-visa/index.html
+layout: layout.njk
 ---
 Miserable Migrant Nursing Numbers Under New Visa
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: australian-senators-to-legalise-assisted-dying
-title: "Australian Senators to legalise Assisted Dying"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/PA1808/S00098/australian-senators-to-legalise-assisted-dying.htm
+title: Australian Senators to legalise Assisted Dying
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00098/australian-senators-to-legalise-assisted-dying.htm
 author: act-new-zealand
+permalink: /archive/2018/08/08/australian-senators-to-legalise-assisted-dying/index.html
+layout: layout.njk
 ---
 Australian Senators to legalise Assisted Dying
 ==============================================

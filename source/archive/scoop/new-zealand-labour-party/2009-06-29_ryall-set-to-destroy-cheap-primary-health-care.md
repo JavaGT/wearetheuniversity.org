@@ -1,9 +1,12 @@
 ---
 slug: ryall-set-to-destroy-cheap-primary-health-care
-title: "Ryall set to destroy cheap primary health care"
-date: 2009-06-29
-source-url: https://www.scoop.co.nz/stories/PA0906/S00393/ryall-set-to-destroy-cheap-primary-health-care.htm
+title: Ryall set to destroy cheap primary health care
+date: 2009-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00393/ryall-set-to-destroy-cheap-primary-health-care.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/29/ryall-set-to-destroy-cheap-primary-health-care/index.html
+layout: layout.njk
 ---
 Ryall set to destroy cheap primary health care
 ==============================================

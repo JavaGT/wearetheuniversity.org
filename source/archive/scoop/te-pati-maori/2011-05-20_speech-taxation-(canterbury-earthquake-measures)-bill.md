@@ -1,9 +1,12 @@
 ---
 slug: speech-taxation-(canterbury-earthquake-measures)-bill
-title: "Speech: Taxation (Canterbury Earthquake Measures) Bill"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/PA1105/S00498/speech-taxation-canterbury-earthquake-measures-bill.htm
+title: 'Speech: Taxation (Canterbury Earthquake Measures) Bill'
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00498/speech-taxation-canterbury-earthquake-measures-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/05/20/speech-taxation-/index.html
+layout: layout.njk
 ---
 Speech: Taxation (Canterbury Earthquake Measures) Bill
 ======================================================

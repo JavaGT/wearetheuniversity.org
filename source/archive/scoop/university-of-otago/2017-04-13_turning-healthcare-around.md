@@ -1,9 +1,11 @@
 ---
 slug: turning-healthcare-around
-title: "Turning Healthcare around"
-date: 2017-04-13
+title: Turning Healthcare around
+date: 2017-04-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1704/S00064/turning-healthcare-around.htm
 author: university-of-otago
+permalink: /archive/2017/04/13/turning-healthcare-around/index.html
+layout: layout.njk
 ---
 Turning Healthcare around
 =========================

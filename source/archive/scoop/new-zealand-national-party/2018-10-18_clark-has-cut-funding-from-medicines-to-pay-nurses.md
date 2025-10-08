@@ -1,9 +1,13 @@
 ---
 slug: clark-has-cut-funding-from-medicines-to-pay-nurses
-title: "Clark has cut funding from medicines to pay nurses"
-date: 2018-10-18
-source-url: https://www.scoop.co.nz/stories/PA1810/S00169/clark-has-cut-funding-from-medicines-to-pay-nurses.htm
+title: Clark has cut funding from medicines to pay nurses
+date: 2018-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00169/clark-has-cut-funding-from-medicines-to-pay-nurses.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/10/18/clark-has-cut-funding-from-medicines-to-pay-nurses/index.html
+layout: layout.njk
 ---
 Clark has cut funding from medicines to pay nurses
 ==================================================

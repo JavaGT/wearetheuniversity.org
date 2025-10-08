@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-child-youth-and-family-speech
-title: "Tariana Turia, Child Youth And Family Speech"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00300/tariana-turia-child-youth-and-family-speech.htm
+title: Tariana Turia, Child Youth And Family Speech
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00300/tariana-turia-child-youth-and-family-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/07/19/tariana-turia-child-youth-and-family-speech/index.html
+layout: layout.njk
 ---
 Tariana Turia, Child Youth And Family Speech
 ============================================

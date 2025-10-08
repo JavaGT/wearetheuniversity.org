@@ -1,9 +1,13 @@
 ---
 slug: university-staff-welcome-extra-funds-more-needed
-title: "University staff welcome extra funds, more needed"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/ED0805/S00091/university-staff-welcome-extra-funds-more-needed.htm
+title: University staff welcome extra funds, more needed
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00091/university-staff-welcome-extra-funds-more-needed.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2008/05/22/university-staff-welcome-extra-funds-more-needed/index.html
+layout: layout.njk
 ---
 University staff welcome extra funds, more needed
 =================================================

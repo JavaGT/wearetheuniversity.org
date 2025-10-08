@@ -1,9 +1,13 @@
 ---
 slug: december-graduation-for-1300-canterbury-students
-title: "December graduation for 1300 Canterbury students"
-date: 2017-12-11
-source-url: https://www.scoop.co.nz/stories/ED1712/S00037/december-graduation-for-1300-canterbury-students.htm
+title: December graduation for 1300 Canterbury students
+date: 2017-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00037/december-graduation-for-1300-canterbury-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/11/december-graduation-for-1300-canterbury-students/index.html
+layout: layout.njk
 ---
 December graduation for 1300 Canterbury students
 ================================================

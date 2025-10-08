@@ -1,9 +1,13 @@
 ---
 slug: youth-to-contribute-to-planning-of-citys-rebuild
-title: "Youth to contribute to planning of city’s rebuild"
-date: 2011-05-14
-source-url: https://www.scoop.co.nz/stories/AK1105/S00388/youth-to-contribute-to-planning-of-citys-rebuild.htm
+title: Youth to contribute to planning of city’s rebuild
+date: 2011-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1105/S00388/youth-to-contribute-to-planning-of-citys-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/05/14/youth-to-contribute-to-planning-of-citys-rebuild/index.html
+layout: layout.njk
 ---
 Youth to contribute to planning of city’s rebuild
 =================================================

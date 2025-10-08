@@ -1,9 +1,13 @@
 ---
 slug: waikato-wins-3-top-achiever-doctoral-scholarships
-title: "Waikato wins 3 Top Achiever Doctoral Scholarships"
-date: 2007-08-30
-source-url: https://www.scoop.co.nz/stories/ED0708/S00099/waikato-wins-3-top-achiever-doctoral-scholarships.htm
+title: Waikato wins 3 Top Achiever Doctoral Scholarships
+date: 2007-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00099/waikato-wins-3-top-achiever-doctoral-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/08/30/waikato-wins-3-top-achiever-doctoral-scholarships/index.html
+layout: layout.njk
 ---
 Waikato wins 3 Top Achiever Doctoral Scholarships
 =================================================

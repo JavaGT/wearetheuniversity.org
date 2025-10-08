@@ -1,9 +1,13 @@
 ---
 slug: smokers-support-increased-regulation-of-tobacco-industry
-title: "Smokers support increased regulation of tobacco industry"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/PO1205/S00322/smokers-support-increased-regulation-of-tobacco-industry.htm
+title: Smokers support increased regulation of tobacco industry
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00322/smokers-support-increased-regulation-of-tobacco-industry.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/05/22/smokers-support-increased-regulation-of-tobacco-industry/index.html
+layout: layout.njk
 ---
 Smokers support increased regulation of tobacco industry
 ========================================================

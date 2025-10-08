@@ -1,9 +1,12 @@
 ---
 slug: bennett-confused-over-access-to-tia-funding
-title: "Bennett confused over access to TIA funding"
-date: 2009-08-03
-source-url: https://www.scoop.co.nz/stories/PA0908/S00005/bennett-confused-over-access-to-tia-funding.htm
+title: Bennett confused over access to TIA funding
+date: 2009-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00005/bennett-confused-over-access-to-tia-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/03/bennett-confused-over-access-to-tia-funding/index.html
+layout: layout.njk
 ---
 Bennett confused over access to TIA funding
 ===========================================

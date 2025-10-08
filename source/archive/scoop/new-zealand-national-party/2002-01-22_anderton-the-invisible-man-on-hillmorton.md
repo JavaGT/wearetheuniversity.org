@@ -1,9 +1,12 @@
 ---
 slug: anderton-the-invisible-man-on-hillmorton
-title: "Anderton The Invisible Man On Hillmorton"
-date: 2002-01-22
-source-url: https://www.scoop.co.nz/stories/PA0201/S00090/anderton-the-invisible-man-on-hillmorton.htm
+title: Anderton The Invisible Man On Hillmorton
+date: 2002-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00090/anderton-the-invisible-man-on-hillmorton.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/22/anderton-the-invisible-man-on-hillmorton/index.html
+layout: layout.njk
 ---
 Anderton The Invisible Man On Hillmorton
 ========================================

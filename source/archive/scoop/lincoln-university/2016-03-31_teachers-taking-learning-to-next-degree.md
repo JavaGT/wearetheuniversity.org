@@ -1,9 +1,12 @@
 ---
 slug: teachers-taking-learning-to-next-degree
-title: "Teachers taking learning to next degree"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/ED1603/S00094/teachers-taking-learning-to-next-degree.htm
+title: Teachers taking learning to next degree
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00094/teachers-taking-learning-to-next-degree.htm
 author: lincoln-university
+permalink: /archive/2016/03/31/teachers-taking-learning-to-next-degree/index.html
+layout: layout.njk
 ---
 Teachers taking learning to next degree
 =======================================

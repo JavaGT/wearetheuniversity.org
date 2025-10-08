@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-electric-vehicles-at-evolocity
-title: "University of Canterbury electric vehicles at Evolocity"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/ED1411/S00064/university-of-canterbury-electric-vehicles-at-evolocity.htm
+title: University of Canterbury electric vehicles at Evolocity
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00064/university-of-canterbury-electric-vehicles-at-evolocity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/11/university-of-canterbury-electric-vehicles-at-evolocity/index.html
+layout: layout.njk
 ---
 University of Canterbury electric vehicles at Evolocity
 =======================================================

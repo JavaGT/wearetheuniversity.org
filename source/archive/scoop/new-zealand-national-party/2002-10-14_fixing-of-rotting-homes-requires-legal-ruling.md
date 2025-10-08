@@ -1,9 +1,12 @@
 ---
 slug: fixing-of-rotting-homes-requires-legal-ruling
-title: "Fixing of rotting homes requires legal ruling"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/PA0210/S00261/fixing-of-rotting-homes-requires-legal-ruling.htm
+title: Fixing of rotting homes requires legal ruling
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00261/fixing-of-rotting-homes-requires-legal-ruling.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/14/fixing-of-rotting-homes-requires-legal-ruling/index.html
+layout: layout.njk
 ---
 Fixing of rotting homes requires legal ruling
 =============================================

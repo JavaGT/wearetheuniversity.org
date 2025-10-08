@@ -1,9 +1,12 @@
 ---
 slug: major-immigration-backdown-welcome-but-too-late
-title: "Major immigration backdown welcome, but too late"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/PA1808/S00099/major-immigration-backdown-welcome-but-too-late.htm
+title: Major immigration backdown welcome, but too late
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00099/major-immigration-backdown-welcome-but-too-late.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/08/major-immigration-backdown-welcome-but-too-late/index.html
+layout: layout.njk
 ---
 Major immigration backdown welcome, but too late
 ================================================

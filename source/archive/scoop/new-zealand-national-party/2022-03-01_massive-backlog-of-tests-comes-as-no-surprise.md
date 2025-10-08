@@ -1,9 +1,12 @@
 ---
 slug: massive-backlog-of-tests-comes-as-no-surprise
-title: "Massive Backlog Of Tests Comes As No Surprise"
-date: 2022-03-01
-source-url: https://www.scoop.co.nz/stories/PA2203/S00012/massive-backlog-of-tests-comes-as-no-surprise.htm
+title: Massive Backlog Of Tests Comes As No Surprise
+date: 2022-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00012/massive-backlog-of-tests-comes-as-no-surprise.htm
 author: new-zealand-national-party
+permalink: /archive/2022/03/01/massive-backlog-of-tests-comes-as-no-surprise/index.html
+layout: layout.njk
 ---
 Massive Backlog Of Tests Comes As No Surprise
 =============================================

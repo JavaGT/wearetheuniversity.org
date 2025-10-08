@@ -1,9 +1,12 @@
 ---
 slug: oktoberfest-and-olympians-at-albany-campus
-title: "Oktoberfest and Olympians at Albany campus"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/ED1209/S00206/oktoberfest-and-olympians-at-albany-campus.htm
+title: Oktoberfest and Olympians at Albany campus
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00206/oktoberfest-and-olympians-at-albany-campus.htm
 author: massey-university
+permalink: /archive/2012/09/27/oktoberfest-and-olympians-at-albany-campus/index.html
+layout: layout.njk
 ---
 Oktoberfest and Olympians at Albany campus
 ==========================================

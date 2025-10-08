@@ -1,9 +1,12 @@
 ---
 slug: electricity-reforms-haphazard-say-researchers
-title: "Electricity reforms haphazard say researchers"
-date: 2006-04-11
-source-url: https://www.scoop.co.nz/stories/ED0604/S00035/electricity-reforms-haphazard-say-researchers.htm
+title: Electricity reforms haphazard say researchers
+date: 2006-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00035/electricity-reforms-haphazard-say-researchers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/11/electricity-reforms-haphazard-say-researchers/index.html
+layout: layout.njk
 ---
 Electricity reforms haphazard say researchers
 =============================================

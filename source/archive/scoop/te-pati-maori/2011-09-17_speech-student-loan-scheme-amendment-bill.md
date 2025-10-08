@@ -1,9 +1,12 @@
 ---
 slug: speech-student-loan-scheme-amendment-bill
-title: "Speech: Student Loan Scheme Amendment Bill"
-date: 2011-09-17
-source-url: https://www.scoop.co.nz/stories/PA1109/S00361/speech-student-loan-scheme-amendment-bill.htm
+title: 'Speech: Student Loan Scheme Amendment Bill'
+date: 2011-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00361/speech-student-loan-scheme-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/09/17/speech-student-loan-scheme-amendment-bill/index.html
+layout: layout.njk
 ---
 Speech: Student Loan Scheme Amendment Bill
 ==========================================

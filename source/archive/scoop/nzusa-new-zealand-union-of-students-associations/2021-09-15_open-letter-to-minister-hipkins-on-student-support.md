@@ -1,9 +1,13 @@
 ---
 slug: open-letter-to-minister-hipkins-on-student-support
-title: "Open Letter to Minister Hipkins on Student Support"
-date: 2021-09-15
-source-url: https://www.scoop.co.nz/stories/PO2109/S00060/open-letter-to-minister-hipkins-on-student-support.htm
+title: Open Letter to Minister Hipkins on Student Support
+date: 2021-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2109/S00060/open-letter-to-minister-hipkins-on-student-support.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/09/15/open-letter-to-minister-hipkins-on-student-support/index.html
+layout: layout.njk
 ---
 Open Letter to Minister Hipkins on Student Support
 ==================================================

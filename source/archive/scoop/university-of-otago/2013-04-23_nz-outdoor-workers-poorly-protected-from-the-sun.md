@@ -1,9 +1,13 @@
 ---
 slug: nz-outdoor-workers-poorly-protected-from-the-sun
-title: "NZ Outdoor Workers Poorly Protected from the Sun"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/GE1304/S00094/nz-outdoor-workers-poorly-protected-from-the-sun.htm
+title: NZ Outdoor Workers Poorly Protected from the Sun
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1304/S00094/nz-outdoor-workers-poorly-protected-from-the-sun.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/23/nz-outdoor-workers-poorly-protected-from-the-sun/index.html
+layout: layout.njk
 ---
 NZ Outdoor Workers Poorly Protected from the Sun
 ================================================

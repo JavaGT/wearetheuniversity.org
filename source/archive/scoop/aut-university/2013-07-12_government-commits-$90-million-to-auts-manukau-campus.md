@@ -1,9 +1,12 @@
 ---
 slug: government-commits-$90-million-to-auts-manukau-campus
-title: "Government commits $90 million to AUT’s Manukau Campus"
-date: 2013-07-12
-source-url: https://www.scoop.co.nz/stories/ED1307/S00072/government-commits-90-million-to-auts-manukau-campus.htm
+title: Government commits $90 million to AUT’s Manukau Campus
+date: 2013-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00072/government-commits-90-million-to-auts-manukau-campus.htm
 author: aut-university
+permalink: /archive/2013/07/12/government-commits-/index.html
+layout: layout.njk
 ---
 Government commits $90 million to AUT’s Manukau Campus
 ======================================================

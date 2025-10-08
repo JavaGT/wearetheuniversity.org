@@ -1,9 +1,12 @@
 ---
 slug: labours-policy-is-leading-to-energy-emergency
-title: "Labour’s Policy Is Leading To Energy Emergency"
-date: 2021-04-12
-source-url: https://www.scoop.co.nz/stories/PA2104/S00072/labours-policy-is-leading-to-energy-emergency.htm
+title: Labour’s Policy Is Leading To Energy Emergency
+date: 2021-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00072/labours-policy-is-leading-to-energy-emergency.htm
 author: new-zealand-national-party
+permalink: /archive/2021/04/12/labours-policy-is-leading-to-energy-emergency/index.html
+layout: layout.njk
 ---
 Labour’s Policy Is Leading To Energy Emergency
 ==============================================

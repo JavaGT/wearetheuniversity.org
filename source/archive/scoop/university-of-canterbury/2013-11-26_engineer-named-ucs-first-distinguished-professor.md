@@ -1,9 +1,13 @@
 ---
 slug: engineer-named-ucs-first-distinguished-professor
-title: "Engineer named UC’s first Distinguished Professor"
-date: 2013-11-26
-source-url: https://www.scoop.co.nz/stories/GE1311/S00141/engineer-named-ucs-first-distinguished-professor.htm
+title: Engineer named UC’s first Distinguished Professor
+date: 2013-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00141/engineer-named-ucs-first-distinguished-professor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/26/engineer-named-ucs-first-distinguished-professor/index.html
+layout: layout.njk
 ---
 Engineer named UC’s first Distinguished Professor
 =================================================

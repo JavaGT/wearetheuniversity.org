@@ -1,9 +1,12 @@
 ---
 slug: andrew-little-statement-on-earl-hagaman
-title: "Andrew Little - Statement on Earl Hagaman"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/PA1704/S00170/andrew-little-statement-on-earl-hagaman.htm
+title: Andrew Little - Statement on Earl Hagaman
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00170/andrew-little-statement-on-earl-hagaman.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/13/andrew-little-statement-on-earl-hagaman/index.html
+layout: layout.njk
 ---
 Andrew Little - Statement on Earl Hagaman
 =========================================

@@ -1,9 +1,11 @@
 ---
 slug: butter-can-be-better
-title: "Butter Can Be Better"
-date: 2002-02-13
+title: Butter Can Be Better
+date: 2002-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0202/S00010/butter-can-be-better.htm
 author: auckland-university
+permalink: /archive/2002/02/13/butter-can-be-better/index.html
+layout: layout.njk
 ---
 Butter Can Be Better
 ====================

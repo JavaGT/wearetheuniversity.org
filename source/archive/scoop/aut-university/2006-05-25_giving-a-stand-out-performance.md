@@ -1,9 +1,12 @@
 ---
 slug: giving-a-stand-out-performance
-title: "Giving a stand out performance"
-date: 2006-05-25
-source-url: https://www.scoop.co.nz/stories/ED0605/S00099/giving-a-stand-out-performance.htm
+title: Giving a stand out performance
+date: 2006-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00099/giving-a-stand-out-performance.htm
 author: aut-university
+permalink: /archive/2006/05/25/giving-a-stand-out-performance/index.html
+layout: layout.njk
 ---
 Giving a stand out performance
 ==============================

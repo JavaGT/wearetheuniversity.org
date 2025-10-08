@@ -1,9 +1,13 @@
 ---
 slug: ak-uni-team-wins-international-design-competition
-title: "AK Uni team wins international design competition"
-date: 2004-10-08
-source-url: https://www.scoop.co.nz/stories/ED0410/S00033/ak-uni-team-wins-international-design-competition.htm
+title: AK Uni team wins international design competition
+date: 2004-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00033/ak-uni-team-wins-international-design-competition.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/10/08/ak-uni-team-wins-international-design-competition/index.html
+layout: layout.njk
 ---
 AK Uni team wins international design competition
 =================================================

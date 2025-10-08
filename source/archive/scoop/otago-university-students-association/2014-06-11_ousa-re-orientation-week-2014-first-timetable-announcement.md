@@ -1,9 +1,13 @@
 ---
 slug: ousa-re-orientation-week-2014-first-timetable-announcement
-title: "OUSA Re-Orientation Week 2014 - first timetable announcement"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/ED1406/S00064/ousa-re-orientation-week-2014-first-timetable-announcement.htm
+title: OUSA Re-Orientation Week 2014 - first timetable announcement
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00064/ousa-re-orientation-week-2014-first-timetable-announcement.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2014/06/11/ousa-re-orientation-week-2014-first-timetable-announcement/index.html
+layout: layout.njk
 ---
 OUSA Re-Orientation Week 2014 - first timetable announcement
 ============================================================

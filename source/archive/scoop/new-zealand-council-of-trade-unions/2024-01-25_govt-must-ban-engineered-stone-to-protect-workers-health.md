@@ -1,9 +1,13 @@
 ---
 slug: govt-must-ban-engineered-stone-to-protect-workers-health
-title: "Govt Must Ban Engineered Stone To Protect Workers’ Health"
-date: 2024-01-25
-source-url: https://www.scoop.co.nz/stories/PO2401/S00058/govt-must-ban-engineered-stone-to-protect-workers-health.htm
+title: Govt Must Ban Engineered Stone To Protect Workers’ Health
+date: 2024-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2401/S00058/govt-must-ban-engineered-stone-to-protect-workers-health.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2024/01/25/govt-must-ban-engineered-stone-to-protect-workers-health/index.html
+layout: layout.njk
 ---
 Govt Must Ban Engineered Stone To Protect Workers’ Health
 =========================================================

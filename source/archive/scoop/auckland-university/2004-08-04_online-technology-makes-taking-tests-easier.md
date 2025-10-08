@@ -1,9 +1,12 @@
 ---
 slug: online-technology-makes-taking-tests-easier
-title: "Online technology makes taking tests easier"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/SC0408/S00013/online-technology-makes-taking-tests-easier.htm
+title: Online technology makes taking tests easier
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0408/S00013/online-technology-makes-taking-tests-easier.htm
 author: auckland-university
+permalink: /archive/2004/08/04/online-technology-makes-taking-tests-easier/index.html
+layout: layout.njk
 ---
 Online technology makes taking tests easier
 ===========================================

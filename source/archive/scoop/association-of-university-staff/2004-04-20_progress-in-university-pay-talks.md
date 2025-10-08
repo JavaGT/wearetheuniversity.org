@@ -1,9 +1,12 @@
 ---
 slug: progress-in-university-pay-talks
-title: "Progress in university pay talks"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/ED0404/S00068/progress-in-university-pay-talks.htm
+title: Progress in university pay talks
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00068/progress-in-university-pay-talks.htm
 author: association-of-university-staff
+permalink: /archive/2004/04/20/progress-in-university-pay-talks/index.html
+layout: layout.njk
 ---
 Progress in university pay talks
 ================================

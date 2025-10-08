@@ -1,9 +1,12 @@
 ---
 slug: acc-investments-risking-native-species
-title: "ACC investments risking native species"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/PA1407/S00095/acc-investments-risking-native-species.htm
+title: ACC investments risking native species
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00095/acc-investments-risking-native-species.htm
 author: green-party
+permalink: /archive/2014/07/04/acc-investments-risking-native-species/index.html
+layout: layout.njk
 ---
 ACC investments risking native species
 ======================================

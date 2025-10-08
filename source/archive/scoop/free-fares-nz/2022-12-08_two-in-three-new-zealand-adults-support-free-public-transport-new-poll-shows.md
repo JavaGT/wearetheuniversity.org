@@ -1,9 +1,13 @@
 ---
 slug: two-in-three-new-zealand-adults-support-free-public-transport-new-poll-shows
-title: "Two In Three New Zealand Adults Support Free Public Transport, New Poll Shows"
-date: 2022-12-08
-source-url: https://www.scoop.co.nz/stories/PO2212/S00052/two-in-three-new-zealand-adults-support-free-public-transport-new-poll-shows.htm
+title: Two In Three New Zealand Adults Support Free Public Transport, New Poll Shows
+date: 2022-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00052/two-in-three-new-zealand-adults-support-free-public-transport-new-poll-shows.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/12/08/two-in-three-new-zealand-adults-support-free-public-transport-new-poll-shows/index.html
+layout: layout.njk
 ---
 Two In Three New Zealand Adults Support Free Public Transport, New Poll Shows
 =============================================================================

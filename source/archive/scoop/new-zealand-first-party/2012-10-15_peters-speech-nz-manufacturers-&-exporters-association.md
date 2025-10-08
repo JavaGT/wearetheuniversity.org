@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-nz-manufacturers-&-exporters-association
-title: "Peters Speech: NZ Manufacturers & Exporters Association"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/PA1210/S00259/peters-speech-nz-manufacturers-exporters-association.htm
+title: 'Peters Speech: NZ Manufacturers & Exporters Association'
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00259/peters-speech-nz-manufacturers-exporters-association.htm
 author: new-zealand-first-party
+permalink: /archive/2012/10/15/peters-speech-nz-manufacturers-/index.html
+layout: layout.njk
 ---
 Peters Speech: NZ Manufacturers & Exporters Association
 =======================================================

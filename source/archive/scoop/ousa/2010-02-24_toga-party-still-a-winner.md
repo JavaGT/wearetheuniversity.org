@@ -1,9 +1,11 @@
 ---
 slug: toga-party-still-a-winner
-title: "Toga Party still a Winner"
-date: 2010-02-24
+title: Toga Party still a Winner
+date: 2010-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1002/S00346/toga-party-still-a-winner.htm
 author: ousa
+permalink: /archive/2010/02/24/toga-party-still-a-winner/index.html
+layout: layout.njk
 ---
 Toga Party still a Winner
 =========================

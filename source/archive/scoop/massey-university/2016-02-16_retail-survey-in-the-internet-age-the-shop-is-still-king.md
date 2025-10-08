@@ -1,9 +1,13 @@
 ---
 slug: retail-survey-in-the-internet-age-the-shop-is-still-king
-title: "Retail Survey: In the internet age, the shop is still king"
-date: 2016-02-16
-source-url: https://www.scoop.co.nz/stories/SC1602/S00042/retail-survey-in-the-internet-age-the-shop-is-still-king.htm
+title: 'Retail Survey: In the internet age, the shop is still king'
+date: 2016-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00042/retail-survey-in-the-internet-age-the-shop-is-still-king.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/16/retail-survey-in-the-internet-age-the-shop-is-still-king/index.html
+layout: layout.njk
 ---
 Retail Survey: In the internet age, the shop is still king
 ==========================================================

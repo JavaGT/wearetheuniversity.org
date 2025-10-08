@@ -1,9 +1,12 @@
 ---
 slug: greens-to-protect-aotearoas-oceans
-title: "Greens To Protect Aotearoa’s Oceans"
-date: 2020-09-20
-source-url: https://www.scoop.co.nz/stories/PO2009/S00305/greens-to-protect-aotearoas-oceans.htm
+title: Greens To Protect Aotearoa’s Oceans
+date: 2020-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00305/greens-to-protect-aotearoas-oceans.htm
 author: green-party
+permalink: /archive/2020/09/20/greens-to-protect-aotearoas-oceans/index.html
+layout: layout.njk
 ---
 Greens To Protect Aotearoa’s Oceans
 ===================================

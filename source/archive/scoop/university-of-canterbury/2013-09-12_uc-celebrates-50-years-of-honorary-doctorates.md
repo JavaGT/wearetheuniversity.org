@@ -1,9 +1,12 @@
 ---
 slug: uc-celebrates-50-years-of-honorary-doctorates
-title: "UC celebrates 50 years of Honorary Doctorates"
-date: 2013-09-12
-source-url: https://www.scoop.co.nz/stories/ED1309/S00070/uc-celebrates-50-years-of-honorary-doctorates.htm
+title: UC celebrates 50 years of Honorary Doctorates
+date: 2013-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00070/uc-celebrates-50-years-of-honorary-doctorates.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/12/uc-celebrates-50-years-of-honorary-doctorates/index.html
+layout: layout.njk
 ---
 UC celebrates 50 years of Honorary Doctorates
 =============================================

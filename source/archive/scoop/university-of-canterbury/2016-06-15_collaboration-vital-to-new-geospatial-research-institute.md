@@ -1,9 +1,13 @@
 ---
 slug: collaboration-vital-to-new-geospatial-research-institute
-title: "Collaboration vital to new Geospatial Research Institute"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00053/collaboration-vital-to-new-geospatial-research-institute.htm
+title: Collaboration vital to new Geospatial Research Institute
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00053/collaboration-vital-to-new-geospatial-research-institute.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/15/collaboration-vital-to-new-geospatial-research-institute/index.html
+layout: layout.njk
 ---
 Collaboration vital to new Geospatial Research Institute
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: research-shows-disparity-between-tax-paid-by-women-and-men
-title: "Research shows disparity between tax paid by women and men"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/PO1411/S00093/research-shows-disparity-between-tax-paid-by-women-and-men.htm
+title: Research shows disparity between tax paid by women and men
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00093/research-shows-disparity-between-tax-paid-by-women-and-men.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/11/research-shows-disparity-between-tax-paid-by-women-and-men/index.html
+layout: layout.njk
 ---
 Research shows disparity between tax paid by women and men
 ==========================================================

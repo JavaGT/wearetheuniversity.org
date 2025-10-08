@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-rivers-can-we-learn-from-history
-title: "New Zealand’s Rivers: can we learn from history?"
-date: 2017-09-19
-source-url: https://www.scoop.co.nz/stories/ED1709/S00068/new-zealands-rivers-can-we-learn-from-history.htm
+title: 'New Zealand’s Rivers: can we learn from history?'
+date: 2017-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00068/new-zealands-rivers-can-we-learn-from-history.htm
 author: university-of-canterbury
+permalink: /archive/2017/09/19/new-zealands-rivers-can-we-learn-from-history/index.html
+layout: layout.njk
 ---
 New Zealand’s Rivers: can we learn from history?
 ================================================

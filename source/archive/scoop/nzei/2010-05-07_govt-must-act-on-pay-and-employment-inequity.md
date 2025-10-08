@@ -1,9 +1,12 @@
 ---
 slug: govt-must-act-on-pay-and-employment-inequity
-title: "Govt Must Act on Pay and Employment Inequity"
-date: 2010-05-07
-source-url: https://www.scoop.co.nz/stories/ED1005/S00028/govt-must-act-on-pay-and-employment-inequity.htm
+title: Govt Must Act on Pay and Employment Inequity
+date: 2010-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00028/govt-must-act-on-pay-and-employment-inequity.htm
 author: nzei
+permalink: /archive/2010/05/07/govt-must-act-on-pay-and-employment-inequity/index.html
+layout: layout.njk
 ---
 Govt Must Act on Pay and Employment Inequity
 ============================================

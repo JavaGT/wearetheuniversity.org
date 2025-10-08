@@ -1,9 +1,13 @@
 ---
 slug: research-helping-to-understand-the-role-of-water-in-wood
-title: "Research helping to understand the role of water in wood"
-date: 2011-01-19
-source-url: https://www.scoop.co.nz/stories/SC1101/S00037/research-helping-to-understand-the-role-of-water-in-wood.htm
+title: Research helping to understand the role of water in wood
+date: 2011-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00037/research-helping-to-understand-the-role-of-water-in-wood.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/01/19/research-helping-to-understand-the-role-of-water-in-wood/index.html
+layout: layout.njk
 ---
 Research helping to understand the role of water in wood
 ========================================================

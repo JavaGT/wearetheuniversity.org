@@ -1,9 +1,12 @@
 ---
 slug: education-bill-a-dogs-breakfast-of-bad-ideas
-title: "Education Bill a dog’s breakfast of bad ideas"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/PA1210/S00264/education-bill-a-dogs-breakfast-of-bad-ideas.htm
+title: Education Bill a dog’s breakfast of bad ideas
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00264/education-bill-a-dogs-breakfast-of-bad-ideas.htm
 author: green-party
+permalink: /archive/2012/10/16/education-bill-a-dogs-breakfast-of-bad-ideas/index.html
+layout: layout.njk
 ---
 Education Bill a dog’s breakfast of bad ideas
 =============================================

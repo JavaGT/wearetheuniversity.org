@@ -1,9 +1,13 @@
 ---
 slug: housing-nz-helping-national-to-manage-public-perception
-title: "Housing NZ helping National to manage ‘public perception’"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/PA1108/S00068/housing-nz-helping-national-to-manage-public-perception.htm
+title: Housing NZ helping National to manage ‘public perception’
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00068/housing-nz-helping-national-to-manage-public-perception.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/03/housing-nz-helping-national-to-manage-public-perception/index.html
+layout: layout.njk
 ---
 Housing NZ helping National to manage ‘public perception’
 =========================================================

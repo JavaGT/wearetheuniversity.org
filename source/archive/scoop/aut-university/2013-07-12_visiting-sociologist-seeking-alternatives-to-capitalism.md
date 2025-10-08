@@ -1,9 +1,13 @@
 ---
 slug: visiting-sociologist-seeking-alternatives-to-capitalism
-title: "Visiting Sociologist Seeking Alternatives to Capitalism"
-date: 2013-07-12
-source-url: https://www.scoop.co.nz/stories/ED1307/S00076/visiting-sociologist-seeking-alternatives-to-capitalism.htm
+title: Visiting Sociologist Seeking Alternatives to Capitalism
+date: 2013-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00076/visiting-sociologist-seeking-alternatives-to-capitalism.htm
 author: aut-university
+permalink: >-
+  /archive/2013/07/12/visiting-sociologist-seeking-alternatives-to-capitalism/index.html
+layout: layout.njk
 ---
 Visiting Sociologist Seeking Alternatives to Capitalism
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: act-sickened-by-axing-of-successful-scheme
-title: "ACT 'Sickened' By Axing Of Successful Scheme"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/PA0002/S00158/act-sickened-by-axing-of-successful-scheme.htm
+title: ACT 'Sickened' By Axing Of Successful Scheme
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00158/act-sickened-by-axing-of-successful-scheme.htm
 author: act-new-zealand
+permalink: /archive/2000/02/14/act-sickened-by-axing-of-successful-scheme/index.html
+layout: layout.njk
 ---
 ACT 'Sickened' By Axing Of Successful Scheme
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: more-research-into-student-debt-a-waste-of-time
-title: "More research into student debt a waste of time"
-date: 2001-10-31
-source-url: https://www.scoop.co.nz/stories/PA0110/S00541/more-research-into-student-debt-a-waste-of-time.htm
+title: More research into student debt a waste of time
+date: 2001-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00541/more-research-into-student-debt-a-waste-of-time.htm
 author: green-party
+permalink: /archive/2001/10/31/more-research-into-student-debt-a-waste-of-time/index.html
+layout: layout.njk
 ---
 More research into student debt a waste of time
 ===============================================

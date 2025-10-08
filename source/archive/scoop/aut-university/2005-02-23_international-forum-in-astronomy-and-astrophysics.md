@@ -1,9 +1,13 @@
 ---
 slug: international-forum-in-astronomy-and-astrophysics
-title: "International Forum in Astronomy and Astrophysics"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/ED0502/S00078/international-forum-in-astronomy-and-astrophysics.htm
+title: International Forum in Astronomy and Astrophysics
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00078/international-forum-in-astronomy-and-astrophysics.htm
 author: aut-university
+permalink: >-
+  /archive/2005/02/23/international-forum-in-astronomy-and-astrophysics/index.html
+layout: layout.njk
 ---
 International Forum in Astronomy and Astrophysics
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: research-supported-in-science-investment-round
-title: "Research supported in science investment round"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/ED1509/S00022/research-supported-in-science-investment-round.htm
+title: Research supported in science investment round
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00022/research-supported-in-science-investment-round.htm
 author: university-of-otago
+permalink: /archive/2015/09/03/research-supported-in-science-investment-round/index.html
+layout: layout.njk
 ---
 Research supported in science investment round
 ==============================================

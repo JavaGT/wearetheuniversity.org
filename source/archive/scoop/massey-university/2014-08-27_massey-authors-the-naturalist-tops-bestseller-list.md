@@ -1,9 +1,13 @@
 ---
 slug: massey-authors-the-naturalist-tops-bestseller-list
-title: "Massey author’s The Naturalist tops bestseller list"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/CU1408/S00475/massey-authors-the-naturalist-tops-bestseller-list.htm
+title: Massey author’s The Naturalist tops bestseller list
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00475/massey-authors-the-naturalist-tops-bestseller-list.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/27/massey-authors-the-naturalist-tops-bestseller-list/index.html
+layout: layout.njk
 ---
 Massey author’s The Naturalist tops bestseller list
 ===================================================

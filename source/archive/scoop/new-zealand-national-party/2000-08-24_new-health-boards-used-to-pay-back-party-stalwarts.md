@@ -1,9 +1,13 @@
 ---
 slug: new-health-boards-used-to-pay-back-party-stalwarts
-title: "New Health Boards used to pay back party stalwarts"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00456/new-health-boards-used-to-pay-back-party-stalwarts.htm
+title: New Health Boards used to pay back party stalwarts
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00456/new-health-boards-used-to-pay-back-party-stalwarts.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/08/24/new-health-boards-used-to-pay-back-party-stalwarts/index.html
+layout: layout.njk
 ---
 New Health Boards used to pay back party stalwarts
 ==================================================

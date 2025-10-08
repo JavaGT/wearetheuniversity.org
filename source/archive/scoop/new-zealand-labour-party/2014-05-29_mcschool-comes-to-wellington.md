@@ -1,9 +1,11 @@
 ---
 slug: mcschool-comes-to-wellington
-title: "McSchool comes to Wellington"
-date: 2014-05-29
+title: McSchool comes to Wellington
+date: 2014-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1405/S00562/mcschool-comes-to-wellington.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/29/mcschool-comes-to-wellington/index.html
+layout: layout.njk
 ---
 McSchool comes to Wellington
 ============================

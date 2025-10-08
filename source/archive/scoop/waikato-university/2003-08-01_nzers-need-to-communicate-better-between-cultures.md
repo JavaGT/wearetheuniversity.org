@@ -1,9 +1,13 @@
 ---
 slug: nzers-need-to-communicate-better-between-cultures
-title: "NZers Need to Communicate Better Between Cultures"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/ED0308/S00008/nzers-need-to-communicate-better-between-cultures.htm
+title: NZers Need to Communicate Better Between Cultures
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00008/nzers-need-to-communicate-better-between-cultures.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/08/01/nzers-need-to-communicate-better-between-cultures/index.html
+layout: layout.njk
 ---
 NZers Need to Communicate Better Between Cultures
 =================================================

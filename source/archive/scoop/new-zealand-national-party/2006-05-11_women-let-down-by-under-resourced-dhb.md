@@ -1,9 +1,12 @@
 ---
 slug: women-let-down-by-under-resourced-dhb
-title: "Women let down by under-resourced DHB"
-date: 2006-05-11
-source-url: https://www.scoop.co.nz/stories/PA0605/S00237/women-let-down-by-under-resourced-dhb.htm
+title: Women let down by under-resourced DHB
+date: 2006-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00237/women-let-down-by-under-resourced-dhb.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/11/women-let-down-by-under-resourced-dhb/index.html
+layout: layout.njk
 ---
 Women let down by under-resourced DHB
 =====================================

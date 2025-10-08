@@ -1,9 +1,13 @@
 ---
 slug: race-relations-commissioner-at-massey-university-albany
-title: "Race Relations Commissioner at Massey University, Albany"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/ED1609/S00054/race-relations-commissioner-at-massey-university-albany.htm
+title: Race Relations Commissioner at Massey University, Albany
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00054/race-relations-commissioner-at-massey-university-albany.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/09/race-relations-commissioner-at-massey-university-albany/index.html
+layout: layout.njk
 ---
 Race Relations Commissioner at Massey University, Albany
 ========================================================

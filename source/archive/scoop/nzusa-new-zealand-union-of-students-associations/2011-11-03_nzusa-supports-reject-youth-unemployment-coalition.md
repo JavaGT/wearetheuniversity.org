@@ -1,9 +1,13 @@
 ---
 slug: nzusa-supports-reject-youth-unemployment-coalition
-title: "NZUSA supports ‘Reject Youth Unemployment’ coalition"
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/ED1111/S00020/nzusa-supports-reject-youth-unemployment-coalition.htm
+title: NZUSA supports ‘Reject Youth Unemployment’ coalition
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00020/nzusa-supports-reject-youth-unemployment-coalition.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/11/03/nzusa-supports-reject-youth-unemployment-coalition/index.html
+layout: layout.njk
 ---
 NZUSA supports ‘Reject Youth Unemployment’ coalition
 ====================================================

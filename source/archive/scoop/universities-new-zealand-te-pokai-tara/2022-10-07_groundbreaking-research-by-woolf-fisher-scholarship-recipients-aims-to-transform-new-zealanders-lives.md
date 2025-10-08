@@ -1,9 +1,16 @@
 ---
-slug: groundbreaking-research-by-woolf-fisher-scholarship-recipients-aims-to-transform-new-zealanders-lives
-title: "Groundbreaking Research By Woolf Fisher Scholarship Recipients Aims To Transform New Zealanders’ Lives"
-date: 2022-10-07
-source-url: https://www.scoop.co.nz/stories/ED2210/S00011/groundbreaking-research-by-woolf-fisher-scholarship-recipients-aims-to-transform-new-zealanders-lives.htm
+slug: >-
+  groundbreaking-research-by-woolf-fisher-scholarship-recipients-aims-to-transform-new-zealanders-lives
+title: >-
+  Groundbreaking Research By Woolf Fisher Scholarship Recipients Aims To
+  Transform New Zealanders’ Lives
+date: 2022-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00011/groundbreaking-research-by-woolf-fisher-scholarship-recipients-aims-to-transform-new-zealanders-lives.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/10/07/groundbreaking-research-by-woolf-fisher-scholarship-recipients-aims-to-transform-new-zealanders-lives/index.html
+layout: layout.njk
 ---
 Groundbreaking Research By Woolf Fisher Scholarship Recipients Aims To Transform New Zealanders’ Lives
 ======================================================================================================

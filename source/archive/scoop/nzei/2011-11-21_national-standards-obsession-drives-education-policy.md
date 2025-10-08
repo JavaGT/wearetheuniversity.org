@@ -1,9 +1,13 @@
 ---
 slug: national-standards-obsession-drives-education-policy
-title: "\"National Standards\" obsession drives education policy"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/ED1111/S00131/national-standards-obsession-drives-education-policy.htm
+title: '"National Standards" obsession drives education policy'
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00131/national-standards-obsession-drives-education-policy.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/21/national-standards-obsession-drives-education-policy/index.html
+layout: layout.njk
 ---
 “National Standards” obsession drives education policy
 ======================================================

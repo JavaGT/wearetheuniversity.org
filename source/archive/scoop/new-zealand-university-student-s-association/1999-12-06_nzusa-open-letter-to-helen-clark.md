@@ -1,9 +1,12 @@
 ---
 slug: nzusa-open-letter-to-helen-clark
-title: "NZUSA Open Letter To Helen Clark"
-date: 1999-12-06
-source-url: https://www.scoop.co.nz/stories/ED9912/S00003/nzusa-open-letter-to-helen-clark.htm
+title: NZUSA Open Letter To Helen Clark
+date: 1999-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00003/nzusa-open-letter-to-helen-clark.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/12/06/nzusa-open-letter-to-helen-clark/index.html
+layout: layout.njk
 ---
 NZUSA Open Letter To Helen Clark
 ================================

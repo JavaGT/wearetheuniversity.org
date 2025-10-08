@@ -1,9 +1,12 @@
 ---
 slug: a-lifetime-of-pacific-study-earns-top-medal
-title: "A lifetime of Pacific study earns top medal"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/CU1011/S00168/a-lifetime-of-pacific-study-earns-top-medal.htm
+title: A lifetime of Pacific study earns top medal
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1011/S00168/a-lifetime-of-pacific-study-earns-top-medal.htm
 author: university-of-waikato
+permalink: /archive/2010/11/11/a-lifetime-of-pacific-study-earns-top-medal/index.html
+layout: layout.njk
 ---
 A lifetime of Pacific study earns top medal
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-regional-council-bill
-title: "Canterbury Regional Council Bill"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/PA1003/S00487/canterbury-regional-council-bill.htm
+title: Canterbury Regional Council Bill
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00487/canterbury-regional-council-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/03/31/canterbury-regional-council-bill/index.html
+layout: layout.njk
 ---
 Canterbury Regional Council Bill
 ================================

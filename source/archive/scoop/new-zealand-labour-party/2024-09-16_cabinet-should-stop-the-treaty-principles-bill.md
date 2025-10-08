@@ -1,9 +1,12 @@
 ---
 slug: cabinet-should-stop-the-treaty-principles-bill
-title: "Cabinet Should Stop The Treaty Principles Bill"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/PA2409/S00124/cabinet-should-stop-the-treaty-principles-bill.htm
+title: Cabinet Should Stop The Treaty Principles Bill
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00124/cabinet-should-stop-the-treaty-principles-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/09/16/cabinet-should-stop-the-treaty-principles-bill/index.html
+layout: layout.njk
 ---
 Cabinet Should Stop The Treaty Principles Bill
 ==============================================

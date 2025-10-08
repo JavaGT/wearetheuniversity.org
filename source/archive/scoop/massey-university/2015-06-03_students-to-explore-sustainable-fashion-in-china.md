@@ -1,9 +1,13 @@
 ---
 slug: students-to-explore-sustainable-fashion-in-china
-title: "Students to explore sustainable fashion in China"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/ED1506/S00009/students-to-explore-sustainable-fashion-in-china.htm
+title: Students to explore sustainable fashion in China
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00009/students-to-explore-sustainable-fashion-in-china.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/03/students-to-explore-sustainable-fashion-in-china/index.html
+layout: layout.njk
 ---
 Students to explore sustainable fashion in China
 ================================================

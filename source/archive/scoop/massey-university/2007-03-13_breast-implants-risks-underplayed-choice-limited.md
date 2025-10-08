@@ -1,9 +1,13 @@
 ---
 slug: breast-implants-risks-underplayed-choice-limited
-title: "Breast implants: risks underplayed, choice limited"
-date: 2007-03-13
-source-url: https://www.scoop.co.nz/stories/GE0703/S00031/breast-implants-risks-underplayed-choice-limited.htm
+title: 'Breast implants: risks underplayed, choice limited'
+date: 2007-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0703/S00031/breast-implants-risks-underplayed-choice-limited.htm
 author: massey-university
+permalink: >-
+  /archive/2007/03/13/breast-implants-risks-underplayed-choice-limited/index.html
+layout: layout.njk
 ---
 Breast implants: risks underplayed, choice limited
 ==================================================

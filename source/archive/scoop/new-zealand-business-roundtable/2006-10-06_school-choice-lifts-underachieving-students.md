@@ -1,9 +1,12 @@
 ---
 slug: school-choice-lifts-underachieving-students
-title: "School Choice Lifts Underachieving Students"
-date: 2006-10-06
-source-url: https://www.scoop.co.nz/stories/BU0610/S00102/school-choice-lifts-underachieving-students.htm
+title: School Choice Lifts Underachieving Students
+date: 2006-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0610/S00102/school-choice-lifts-underachieving-students.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/10/06/school-choice-lifts-underachieving-students/index.html
+layout: layout.njk
 ---
 School Choice Lifts Underachieving Students
 ===========================================

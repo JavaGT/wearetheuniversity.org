@@ -1,9 +1,12 @@
 ---
 slug: area-51-accurate-and-going-ahead
-title: "AREA 51 Accurate and Going Ahead"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/ED9909/S00062/area-51-accurate-and-going-ahead.htm
+title: AREA 51 Accurate and Going Ahead
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00062/area-51-accurate-and-going-ahead.htm
 author: victoria-university-students-association
+permalink: /archive/1999/09/29/area-51-accurate-and-going-ahead/index.html
+layout: layout.njk
 ---
 AREA 51 Accurate and Going Ahead
 ================================

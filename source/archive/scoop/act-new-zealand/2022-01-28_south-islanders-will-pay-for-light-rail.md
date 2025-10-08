@@ -1,9 +1,12 @@
 ---
 slug: south-islanders-will-pay-for-light-rail
-title: "South Islanders Will Pay For Light Rail"
-date: 2022-01-28
-source-url: https://www.scoop.co.nz/stories/PA2201/S00109/south-islanders-will-pay-for-light-rail.htm
+title: South Islanders Will Pay For Light Rail
+date: 2022-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00109/south-islanders-will-pay-for-light-rail.htm
 author: act-new-zealand
+permalink: /archive/2022/01/28/south-islanders-will-pay-for-light-rail/index.html
+layout: layout.njk
 ---
 South Islanders Will Pay For Light Rail
 =======================================

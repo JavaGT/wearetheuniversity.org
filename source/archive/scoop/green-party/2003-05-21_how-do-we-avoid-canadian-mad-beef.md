@@ -1,9 +1,12 @@
 ---
 slug: how-do-we-avoid-canadian-mad-beef
-title: "How do we avoid Canadian 'mad beef'?"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/PA0305/S00556/how-do-we-avoid-canadian-mad-beef.htm
+title: How do we avoid Canadian 'mad beef'?
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00556/how-do-we-avoid-canadian-mad-beef.htm
 author: green-party
+permalink: /archive/2003/05/21/how-do-we-avoid-canadian-mad-beef/index.html
+layout: layout.njk
 ---
 How do we avoid Canadian 'mad beef'?
 ====================================

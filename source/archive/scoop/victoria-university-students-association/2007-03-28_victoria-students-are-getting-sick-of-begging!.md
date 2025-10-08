@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-are-getting-sick-of-begging!
-title: "Victoria students are getting sick of begging!"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/ED0703/S00103/victoria-students-are-getting-sick-of-begging.htm
+title: Victoria students are getting sick of begging!
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00103/victoria-students-are-getting-sick-of-begging.htm
 author: victoria-university-students-association
+permalink: /archive/2007/03/28/victoria-students-are-getting-sick-of-begging/index.html
+layout: layout.njk
 ---
 Victoria students are getting sick of begging!
 ==============================================

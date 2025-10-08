@@ -1,9 +1,11 @@
 ---
 slug: the-freedom-to-achieve
-title: "The Freedom to Achieve"
-date: 2013-01-29
+title: The Freedom to Achieve
+date: 2013-01-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1301/S00148/the-freedom-to-achieve.htm
 author: act-new-zealand
+permalink: /archive/2013/01/29/the-freedom-to-achieve/index.html
+layout: layout.njk
 ---
 The Freedom to Achieve
 ======================

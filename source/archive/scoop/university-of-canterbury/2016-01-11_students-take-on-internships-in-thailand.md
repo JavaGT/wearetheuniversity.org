@@ -1,9 +1,12 @@
 ---
 slug: students-take-on-internships-in-thailand
-title: "Students take on internships in Thailand"
-date: 2016-01-11
-source-url: https://www.scoop.co.nz/stories/ED1601/S00004/students-take-on-internships-in-thailand.htm
+title: Students take on internships in Thailand
+date: 2016-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00004/students-take-on-internships-in-thailand.htm
 author: university-of-canterbury
+permalink: /archive/2016/01/11/students-take-on-internships-in-thailand/index.html
+layout: layout.njk
 ---
 Students take on internships in Thailand
 ========================================

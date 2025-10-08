@@ -1,9 +1,12 @@
 ---
 slug: kiwinet-funding-supports-commercialisation
-title: "KiwiNet funding supports commercialisation"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/SC1605/S00071/kiwinet-funding-supports-commercialisation.htm
+title: KiwiNet funding supports commercialisation
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00071/kiwinet-funding-supports-commercialisation.htm
 author: university-of-waikato
+permalink: /archive/2016/05/31/kiwinet-funding-supports-commercialisation/index.html
+layout: layout.njk
 ---
 KiwiNet funding supports commercialisation
 ==========================================

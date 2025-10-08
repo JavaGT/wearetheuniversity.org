@@ -1,9 +1,12 @@
 ---
 slug: more-answers-needed-on-education-changes
-title: "More Answers Needed On Education Changes"
-date: 2014-01-23
-source-url: https://www.scoop.co.nz/stories/PA1401/S00114/more-answers-needed-on-education-changes.htm
+title: More Answers Needed On Education Changes
+date: 2014-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00114/more-answers-needed-on-education-changes.htm
 author: new-zealand-first-party
+permalink: /archive/2014/01/23/more-answers-needed-on-education-changes/index.html
+layout: layout.njk
 ---
 More Answers Needed On Education Changes
 ========================================

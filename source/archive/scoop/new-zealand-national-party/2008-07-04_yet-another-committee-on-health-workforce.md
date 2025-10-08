@@ -1,9 +1,12 @@
 ---
 slug: yet-another-committee-on-health-workforce
-title: "Yet another committee on health workforce"
-date: 2008-07-04
-source-url: https://www.scoop.co.nz/stories/PA0807/S00114/yet-another-committee-on-health-workforce.htm
+title: Yet another committee on health workforce
+date: 2008-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00114/yet-another-committee-on-health-workforce.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/04/yet-another-committee-on-health-workforce/index.html
+layout: layout.njk
 ---
 Yet another committee on health workforce
 =========================================

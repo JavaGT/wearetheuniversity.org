@@ -1,9 +1,12 @@
 ---
 slug: waiting-surgery-hopefuls-soar-to-120000
-title: "Waiting surgery hopefuls soar to 120,000"
-date: 2005-05-16
-source-url: https://www.scoop.co.nz/stories/PA0505/S00368/waiting-surgery-hopefuls-soar-to-120000.htm
+title: Waiting surgery hopefuls soar to 120,000
+date: 2005-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00368/waiting-surgery-hopefuls-soar-to-120000.htm
 author: act-new-zealand
+permalink: /archive/2005/05/16/waiting-surgery-hopefuls-soar-to-120000/index.html
+layout: layout.njk
 ---
 Waiting surgery hopefuls soar to 120,000
 ========================================

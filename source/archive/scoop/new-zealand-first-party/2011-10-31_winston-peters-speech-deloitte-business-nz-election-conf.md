@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-speech-deloitte-business-nz-election-conf
-title: "Winston Peters Speech: Deloitte-Business NZ Election Conf."
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/PO1110/S00564/winston-peters-speech-deloitte-business-nz-election-conf.htm
+title: 'Winston Peters Speech: Deloitte-Business NZ Election Conf.'
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00564/winston-peters-speech-deloitte-business-nz-election-conf.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/10/31/winston-peters-speech-deloitte-business-nz-election-conf/index.html
+layout: layout.njk
 ---
 Winston Peters Speech: Deloitte-Business NZ Election Conf.
 ==========================================================

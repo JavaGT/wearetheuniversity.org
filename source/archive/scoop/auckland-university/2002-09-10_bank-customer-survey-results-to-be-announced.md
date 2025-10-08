@@ -1,9 +1,12 @@
 ---
 slug: bank-customer-survey-results-to-be-announced
-title: "Bank Customer Survey  Results to be Announced"
-date: 2002-09-10
-source-url: https://www.scoop.co.nz/stories/ED0209/S00016/bank-customer-survey-results-to-be-announced.htm
+title: Bank Customer Survey  Results to be Announced
+date: 2002-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00016/bank-customer-survey-results-to-be-announced.htm
 author: auckland-university
+permalink: /archive/2002/09/10/bank-customer-survey-results-to-be-announced/index.html
+layout: layout.njk
 ---
 Bank Customer Survey Results to be Announced
 ============================================

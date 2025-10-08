@@ -1,9 +1,13 @@
 ---
 slug: kiwi-philanthropist-awards-full-scholarship-to-cambridge
-title: "Kiwi philanthropist awards full scholarship to Cambridge"
-date: 2015-03-26
-source-url: https://www.scoop.co.nz/stories/ED1503/S00110/kiwi-philanthropist-awards-full-scholarship-to-cambridge.htm
+title: Kiwi philanthropist awards full scholarship to Cambridge
+date: 2015-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00110/kiwi-philanthropist-awards-full-scholarship-to-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/03/26/kiwi-philanthropist-awards-full-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 Kiwi philanthropist awards full scholarship to Cambridge
 ========================================================

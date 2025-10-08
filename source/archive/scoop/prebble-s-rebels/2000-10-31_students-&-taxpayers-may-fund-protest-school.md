@@ -1,9 +1,12 @@
 ---
 slug: students-&-taxpayers-may-fund-protest-school
-title: "Students & Taxpayers May Fund Protest School"
-date: 2000-10-31
-source-url: https://www.scoop.co.nz/stories/ED0010/S00043/students-taxpayers-may-fund-protest-school.htm
+title: Students & Taxpayers May Fund Protest School
+date: 2000-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00043/students-taxpayers-may-fund-protest-school.htm
 author: prebble-s-rebels
+permalink: /archive/2000/10/31/students-/index.html
+layout: layout.njk
 ---
 Students & Taxpayers May Fund Protest School
 ============================================

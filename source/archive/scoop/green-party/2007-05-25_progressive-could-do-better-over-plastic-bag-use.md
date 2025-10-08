@@ -1,9 +1,13 @@
 ---
 slug: progressive-could-do-better-over-plastic-bag-use
-title: "Progressive 'could do better' over plastic bag use"
-date: 2007-05-25
-source-url: https://www.scoop.co.nz/stories/PA0705/S00690/progressive-could-do-better-over-plastic-bag-use.htm
+title: Progressive 'could do better' over plastic bag use
+date: 2007-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00690/progressive-could-do-better-over-plastic-bag-use.htm
 author: green-party
+permalink: >-
+  /archive/2007/05/25/progressive-could-do-better-over-plastic-bag-use/index.html
+layout: layout.njk
 ---
 Progressive 'could do better' over plastic bag use
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: facebooks-effect-on-how-we-feel-about-ourselves
-title: "Facebook’s effect on how we feel about ourselves"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/ED1509/S00052/facebooks-effect-on-how-we-feel-about-ourselves.htm
+title: Facebook’s effect on how we feel about ourselves
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00052/facebooks-effect-on-how-we-feel-about-ourselves.htm
 author: auckland-university
+permalink: /archive/2015/09/09/facebooks-effect-on-how-we-feel-about-ourselves/index.html
+layout: layout.njk
 ---
 Facebook’s effect on how we feel about ourselves
 ================================================

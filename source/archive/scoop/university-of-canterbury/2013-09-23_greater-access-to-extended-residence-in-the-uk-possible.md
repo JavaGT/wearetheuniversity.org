@@ -1,9 +1,13 @@
 ---
 slug: greater-access-to-extended-residence-in-the-uk-possible
-title: "Greater access to extended residence in the UK possible"
-date: 2013-09-23
-source-url: https://www.scoop.co.nz/stories/ED1309/S00129/greater-access-to-extended-residence-in-the-uk-possible.htm
+title: Greater access to extended residence in the UK possible
+date: 2013-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00129/greater-access-to-extended-residence-in-the-uk-possible.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/23/greater-access-to-extended-residence-in-the-uk-possible/index.html
+layout: layout.njk
 ---
 Greater access to extended residence in the UK possible
 =======================================================

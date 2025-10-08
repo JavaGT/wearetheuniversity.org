@@ -1,9 +1,13 @@
 ---
 slug: ird-report-supports-free-public-tertiary-education
-title: "IRD Report supports free public tertiary education"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/ED0710/S00080/ird-report-supports-free-public-tertiary-education.htm
+title: IRD Report supports free public tertiary education
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00080/ird-report-supports-free-public-tertiary-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2007/10/25/ird-report-supports-free-public-tertiary-education/index.html
+layout: layout.njk
 ---
 IRD Report supports free public tertiary education
 ==================================================

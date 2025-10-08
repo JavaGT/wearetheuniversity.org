@@ -1,9 +1,12 @@
 ---
 slug: labours-$1-a-week-bribe-for-students
-title: "Labour's $1 A Week Bribe For Students"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PO9910/S00028/labours-1-a-week-bribe-for-students.htm
+title: Labour's $1 A Week Bribe For Students
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9910/S00028/labours-1-a-week-bribe-for-students.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/07/labours-/index.html
+layout: layout.njk
 ---
 Labour's $1 A Week Bribe For Students
 =====================================

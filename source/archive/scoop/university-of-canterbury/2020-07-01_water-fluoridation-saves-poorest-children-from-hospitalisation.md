@@ -1,9 +1,13 @@
 ---
 slug: water-fluoridation-saves-poorest-children-from-hospitalisation
-title: "Water Fluoridation Saves Poorest Children From Hospitalisation"
-date: 2020-07-01
-source-url: https://www.scoop.co.nz/stories/GE2007/S00002/water-fluoridation-saves-poorest-children-from-hospitalisation.htm
+title: Water Fluoridation Saves Poorest Children From Hospitalisation
+date: 2020-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2007/S00002/water-fluoridation-saves-poorest-children-from-hospitalisation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/01/water-fluoridation-saves-poorest-children-from-hospitalisation/index.html
+layout: layout.njk
 ---
 Water Fluoridation Saves Poorest Children From Hospitalisation
 ==============================================================

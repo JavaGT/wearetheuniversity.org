@@ -1,9 +1,13 @@
 ---
 slug: empowering-international-students-strengthening-communities
-title: "Empowering International Students, Strengthening Communities"
-date: 2024-02-29
-source-url: https://www.scoop.co.nz/stories/ED2402/S00034/empowering-international-students-strengthening-communities.htm
+title: Empowering International Students, Strengthening Communities
+date: 2024-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00034/empowering-international-students-strengthening-communities.htm
 author: new-zealand-international-students-association
+permalink: >-
+  /archive/2024/02/29/empowering-international-students-strengthening-communities/index.html
+layout: layout.njk
 ---
 Empowering International Students, Strengthening Communities
 ============================================================

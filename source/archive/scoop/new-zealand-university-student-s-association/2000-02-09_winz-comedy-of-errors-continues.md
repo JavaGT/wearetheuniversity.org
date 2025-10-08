@@ -1,9 +1,12 @@
 ---
 slug: winz-comedy-of-errors-continues
-title: "WINZ comedy of errors continues."
-date: 2000-02-09
-source-url: https://www.scoop.co.nz/stories/ED0002/S00007/winz-comedy-of-errors-continues.htm
+title: WINZ comedy of errors continues.
+date: 2000-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00007/winz-comedy-of-errors-continues.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/02/09/winz-comedy-of-errors-continues/index.html
+layout: layout.njk
 ---
 WINZ comedy of errors continues.
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-opens-new-more-accessible-electorate-office
-title: "PM Opens New, More Accessible Electorate Office"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/PA0710/S00224/pm-opens-new-more-accessible-electorate-office.htm
+title: PM Opens New, More Accessible Electorate Office
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00224/pm-opens-new-more-accessible-electorate-office.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/10/12/pm-opens-new-more-accessible-electorate-office/index.html
+layout: layout.njk
 ---
 PM Opens New, More Accessible Electorate Office
 ===============================================

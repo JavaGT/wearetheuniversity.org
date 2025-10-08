@@ -1,9 +1,12 @@
 ---
 slug: competitive-males-can-adjust-sperm-speed
-title: "Competitive males can adjust sperm speed"
-date: 2017-10-24
-source-url: https://www.scoop.co.nz/stories/SC1710/S00057/competitive-males-can-adjust-sperm-speed.htm
+title: Competitive males can adjust sperm speed
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00057/competitive-males-can-adjust-sperm-speed.htm
 author: university-of-canterbury
+permalink: /archive/2017/10/24/competitive-males-can-adjust-sperm-speed/index.html
+layout: layout.njk
 ---
 Competitive males can adjust sperm speed
 ========================================

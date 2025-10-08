@@ -1,9 +1,12 @@
 ---
 slug: bureaucratic-infighting-costing-patients
-title: "Bureaucratic infighting costing patients"
-date: 2007-10-22
-source-url: https://www.scoop.co.nz/stories/PA0710/S00397/bureaucratic-infighting-costing-patients.htm
+title: Bureaucratic infighting costing patients
+date: 2007-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00397/bureaucratic-infighting-costing-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/22/bureaucratic-infighting-costing-patients/index.html
+layout: layout.njk
 ---
 Bureaucratic infighting costing patients
 ========================================

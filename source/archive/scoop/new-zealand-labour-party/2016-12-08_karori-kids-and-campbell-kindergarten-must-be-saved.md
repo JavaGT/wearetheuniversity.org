@@ -1,9 +1,13 @@
 ---
 slug: karori-kids-and-campbell-kindergarten-must-be-saved
-title: "Karori Kids and Campbell Kindergarten must be saved"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/PA1612/S00129/karori-kids-and-campbell-kindergarten-must-be-saved.htm
+title: Karori Kids and Campbell Kindergarten must be saved
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00129/karori-kids-and-campbell-kindergarten-must-be-saved.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/12/08/karori-kids-and-campbell-kindergarten-must-be-saved/index.html
+layout: layout.njk
 ---
 Karori Kids and Campbell Kindergarten must be saved
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: follow-britains-lead-in-rethinking-student-loans
-title: "Follow Britain's lead in rethinking student loans"
-date: 2001-10-05
-source-url: https://www.scoop.co.nz/stories/PA0110/S00123/follow-britains-lead-in-rethinking-student-loans.htm
+title: Follow Britain's lead in rethinking student loans
+date: 2001-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00123/follow-britains-lead-in-rethinking-student-loans.htm
 author: green-party
+permalink: >-
+  /archive/2001/10/05/follow-britains-lead-in-rethinking-student-loans/index.html
+layout: layout.njk
 ---
 Follow Britain's lead in rethinking student loans
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: pms-attacks-on-students-ill-informed-and-unfair
-title: "PM’s Attacks On Students Ill-Informed And Unfair"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/PO1004/S00196/pms-attacks-on-students-ill-informed-and-unfair.htm
+title: PM’s Attacks On Students Ill-Informed And Unfair
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1004/S00196/pms-attacks-on-students-ill-informed-and-unfair.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/04/19/pms-attacks-on-students-ill-informed-and-unfair/index.html
+layout: layout.njk
 ---
 PM’s Attacks On Students Ill-Informed And Unfair
 ================================================

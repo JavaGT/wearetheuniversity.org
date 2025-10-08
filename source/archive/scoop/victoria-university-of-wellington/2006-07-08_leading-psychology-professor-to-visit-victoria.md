@@ -1,9 +1,12 @@
 ---
 slug: leading-psychology-professor-to-visit-victoria
-title: "Leading psychology professor to visit Victoria"
-date: 2006-07-08
-source-url: https://www.scoop.co.nz/stories/ED0607/S00020/leading-psychology-professor-to-visit-victoria.htm
+title: Leading psychology professor to visit Victoria
+date: 2006-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00020/leading-psychology-professor-to-visit-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/07/08/leading-psychology-professor-to-visit-victoria/index.html
+layout: layout.njk
 ---
 Leading psychology professor to visit Victoria
 ==============================================

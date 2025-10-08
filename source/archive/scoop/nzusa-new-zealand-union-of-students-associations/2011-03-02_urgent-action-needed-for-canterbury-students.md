@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-for-canterbury-students
-title: "Urgent action needed for Canterbury students"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/ED1103/S00011/urgent-action-needed-for-canterbury-students.htm
+title: Urgent action needed for Canterbury students
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00011/urgent-action-needed-for-canterbury-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/03/02/urgent-action-needed-for-canterbury-students/index.html
+layout: layout.njk
 ---
 Urgent action needed for Canterbury students
 ============================================

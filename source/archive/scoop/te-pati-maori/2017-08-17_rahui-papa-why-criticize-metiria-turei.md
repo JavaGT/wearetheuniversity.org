@@ -1,9 +1,12 @@
 ---
 slug: rahui-papa-why-criticize-metiria-turei
-title: "Rahui Papa - why criticize Metiria Turei?"
-date: 2017-08-17
-source-url: https://www.scoop.co.nz/stories/PO1708/S00351/rahui-papa-why-criticize-metiria-turei.htm
+title: Rahui Papa - why criticize Metiria Turei?
+date: 2017-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00351/rahui-papa-why-criticize-metiria-turei.htm
 author: te-pati-maori
+permalink: /archive/2017/08/17/rahui-papa-why-criticize-metiria-turei/index.html
+layout: layout.njk
 ---
 Rahui Papa - why criticize Metiria Turei?
 =========================================

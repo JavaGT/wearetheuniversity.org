@@ -1,9 +1,12 @@
 ---
 slug: marsden-funding-for-nzs-best-and-brightest
-title: "Marsden funding for NZ's best and brightest"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/ED0709/S00024/marsden-funding-for-nzs-best-and-brightest.htm
+title: Marsden funding for NZ's best and brightest
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00024/marsden-funding-for-nzs-best-and-brightest.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/07/marsden-funding-for-nzs-best-and-brightest/index.html
+layout: layout.njk
 ---
 Marsden funding for NZ's best and brightest
 ===========================================

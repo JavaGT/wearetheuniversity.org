@@ -1,9 +1,13 @@
 ---
 slug: kiwi-engineering-team-takes-out-australasian-prize
-title: "Kiwi engineering team takes out Australasian prize"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/ED1503/S00067/kiwi-engineering-team-takes-out-australasian-prize.htm
+title: Kiwi engineering team takes out Australasian prize
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00067/kiwi-engineering-team-takes-out-australasian-prize.htm
 author: massey-university
+permalink: >-
+  /archive/2015/03/16/kiwi-engineering-team-takes-out-australasian-prize/index.html
+layout: layout.njk
 ---
 Kiwi engineering team takes out Australasian prize
 ==================================================

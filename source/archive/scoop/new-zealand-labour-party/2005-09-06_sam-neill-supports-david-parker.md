@@ -1,9 +1,12 @@
 ---
 slug: sam-neill-supports-david-parker
-title: "Sam Neill supports David Parker"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/PO0509/S00060/sam-neill-supports-david-parker.htm
+title: Sam Neill supports David Parker
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00060/sam-neill-supports-david-parker.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/06/sam-neill-supports-david-parker/index.html
+layout: layout.njk
 ---
 Sam Neill supports David Parker
 ===============================

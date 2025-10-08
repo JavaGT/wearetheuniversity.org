@@ -1,9 +1,13 @@
 ---
 slug: biodegradable-plastic-could-be-material-of-the-future
-title: "Biodegradable Plastic Could Be \"material Of The Future\""
-date: 2023-07-10
-source-url: https://www.scoop.co.nz/stories/SC2307/S00014/biodegradable-plastic-could-be-material-of-the-future.htm
+title: Biodegradable Plastic Could Be "material Of The Future"
+date: 2023-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2307/S00014/biodegradable-plastic-could-be-material-of-the-future.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/07/10/biodegradable-plastic-could-be-material-of-the-future/index.html
+layout: layout.njk
 ---
 Biodegradable Plastic Could Be “material Of The Future”
 =======================================================

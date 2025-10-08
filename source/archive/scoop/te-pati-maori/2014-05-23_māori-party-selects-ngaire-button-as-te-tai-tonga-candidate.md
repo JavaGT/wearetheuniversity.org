@@ -1,9 +1,12 @@
 ---
 slug: māori-party-selects-ngaire-button-as-te-tai-tonga-candidate
-title: "Māori Party Selects Ngaire Button as Te Tai Tonga candidate"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/PA1405/S00461/maori-party-selects-ngaire-button-as-te-tai-tonga-candidate.htm
+title: Māori Party Selects Ngaire Button as Te Tai Tonga candidate
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00461/maori-party-selects-ngaire-button-as-te-tai-tonga-candidate.htm
 author: te-pati-maori
+permalink: /archive/2014/05/23/m/index.html
+layout: layout.njk
 ---
 Māori Party Selects Ngaire Button as Te Tai Tonga candidate
 ===========================================================

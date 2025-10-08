@@ -1,9 +1,12 @@
 ---
 slug: $1-6-million-pillaged-from-correspondence-school
-title: "$1.6 million pillaged from Correspondence School"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/PA0707/S00268/16-million-pillaged-from-correspondence-school.htm
+title: $1.6 million pillaged from Correspondence School
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00268/16-million-pillaged-from-correspondence-school.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/18/1-6-million-pillaged-from-correspondence-school/index.html
+layout: layout.njk
 ---
 $1.6 million pillaged from Correspondence School
 ================================================

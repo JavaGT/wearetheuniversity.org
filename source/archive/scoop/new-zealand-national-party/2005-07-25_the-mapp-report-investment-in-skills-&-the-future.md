@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-investment-in-skills-&-the-future
-title: "The Mapp Report: Investment in Skills & the Future"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PA0507/S00508/the-mapp-report-investment-in-skills-the-future.htm
+title: 'The Mapp Report: Investment in Skills & the Future'
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00508/the-mapp-report-investment-in-skills-the-future.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/25/the-mapp-report-investment-in-skills-/index.html
+layout: layout.njk
 ---
 The Mapp Report: Investment in Skills & the Future
 ==================================================

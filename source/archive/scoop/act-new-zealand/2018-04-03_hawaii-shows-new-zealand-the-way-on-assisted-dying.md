@@ -1,9 +1,13 @@
 ---
 slug: hawaii-shows-new-zealand-the-way-on-assisted-dying
-title: "Hawaii shows New Zealand the way on Assisted Dying"
-date: 2018-04-03
-source-url: https://www.scoop.co.nz/stories/PA1804/S00009/hawaii-shows-new-zealand-the-way-on-assisted-dying.htm
+title: Hawaii shows New Zealand the way on Assisted Dying
+date: 2018-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00009/hawaii-shows-new-zealand-the-way-on-assisted-dying.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/04/03/hawaii-shows-new-zealand-the-way-on-assisted-dying/index.html
+layout: layout.njk
 ---
 Hawaii shows New Zealand the way on Assisted Dying
 ==================================================

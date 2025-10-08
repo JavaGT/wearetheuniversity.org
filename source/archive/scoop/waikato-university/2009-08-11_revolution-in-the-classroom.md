@@ -1,9 +1,11 @@
 ---
 slug: revolution-in-the-classroom
-title: "Revolution in the classroom"
-date: 2009-08-11
+title: Revolution in the classroom
+date: 2009-08-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0908/S00043/revolution-in-the-classroom.htm
 author: waikato-university
+permalink: /archive/2009/08/11/revolution-in-the-classroom/index.html
+layout: layout.njk
 ---
 Revolution in the classroom
 ===========================

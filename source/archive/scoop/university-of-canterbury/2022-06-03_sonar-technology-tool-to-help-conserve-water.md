@@ -1,9 +1,12 @@
 ---
 slug: sonar-technology-tool-to-help-conserve-water
-title: "Sonar Technology Tool To Help Conserve Water"
-date: 2022-06-03
-source-url: https://www.scoop.co.nz/stories/ED2206/S00010/sonar-technology-tool-to-help-conserve-water.htm
+title: Sonar Technology Tool To Help Conserve Water
+date: 2022-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00010/sonar-technology-tool-to-help-conserve-water.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/03/sonar-technology-tool-to-help-conserve-water/index.html
+layout: layout.njk
 ---
 Sonar Technology Tool To Help Conserve Water
 ============================================

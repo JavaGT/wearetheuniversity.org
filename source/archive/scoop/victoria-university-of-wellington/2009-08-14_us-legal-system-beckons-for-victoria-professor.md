@@ -1,9 +1,12 @@
 ---
 slug: us-legal-system-beckons-for-victoria-professor
-title: "US legal system beckons for Victoria Professor"
-date: 2009-08-14
-source-url: https://www.scoop.co.nz/stories/ED0908/S00050/us-legal-system-beckons-for-victoria-professor.htm
+title: US legal system beckons for Victoria Professor
+date: 2009-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00050/us-legal-system-beckons-for-victoria-professor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/14/us-legal-system-beckons-for-victoria-professor/index.html
+layout: layout.njk
 ---
 US legal system beckons for Victoria Professor
 ==============================================

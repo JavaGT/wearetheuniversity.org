@@ -1,9 +1,12 @@
 ---
 slug: government-steps-up-attack-on-education
-title: "Government Steps Up Attack on Education"
-date: 2015-11-27
-source-url: https://www.scoop.co.nz/stories/PA1511/S00523/government-steps-up-attack-on-education.htm
+title: Government Steps Up Attack on Education
+date: 2015-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00523/government-steps-up-attack-on-education.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/27/government-steps-up-attack-on-education/index.html
+layout: layout.njk
 ---
 Government Steps Up Attack on Education
 =======================================

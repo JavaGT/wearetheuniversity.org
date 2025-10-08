@@ -1,9 +1,12 @@
 ---
 slug: university-industrial-action-continues
-title: "University industrial action continues"
-date: 2002-03-26
-source-url: https://www.scoop.co.nz/stories/ED0203/S00053/university-industrial-action-continues.htm
+title: University industrial action continues
+date: 2002-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00053/university-industrial-action-continues.htm
 author: association-of-university-staff
+permalink: /archive/2002/03/26/university-industrial-action-continues/index.html
+layout: layout.njk
 ---
 University industrial action continues
 ======================================

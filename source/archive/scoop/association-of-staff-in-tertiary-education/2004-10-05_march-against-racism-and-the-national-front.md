@@ -1,9 +1,12 @@
 ---
 slug: march-against-racism-and-the-national-front
-title: "March Against Racism And The National Front"
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/ED0410/S00012/march-against-racism-and-the-national-front.htm
+title: March Against Racism And The National Front
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00012/march-against-racism-and-the-national-front.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2004/10/05/march-against-racism-and-the-national-front/index.html
+layout: layout.njk
 ---
 March Against Racism And The National Front
 ===========================================

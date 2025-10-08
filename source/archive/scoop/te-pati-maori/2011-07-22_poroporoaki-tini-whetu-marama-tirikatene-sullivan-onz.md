@@ -1,9 +1,13 @@
 ---
 slug: poroporoaki-tini-whetu-marama-tirikatene-sullivan-onz
-title: "Poroporoaki: Tini Whetu Marama Tirikatene-Sullivan ONZ"
-date: 2011-07-22
-source-url: https://www.scoop.co.nz/stories/PA1107/S00382/poroporoaki-tini-whetu-marama-tirikatene-sullivan-onz.htm
+title: 'Poroporoaki: Tini Whetu Marama Tirikatene-Sullivan ONZ'
+date: 2011-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00382/poroporoaki-tini-whetu-marama-tirikatene-sullivan-onz.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/07/22/poroporoaki-tini-whetu-marama-tirikatene-sullivan-onz/index.html
+layout: layout.njk
 ---
 Poroporoaki: Tini Whetu Marama Tirikatene-Sullivan ONZ
 ======================================================

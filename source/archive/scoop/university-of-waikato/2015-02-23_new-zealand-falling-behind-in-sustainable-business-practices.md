@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-falling-behind-in-sustainable-business-practices
-title: "New Zealand falling behind in sustainable business practices"
-date: 2015-02-23
-source-url: https://www.scoop.co.nz/stories/BU1502/S00640/new-zealand-falling-behind-in-sustainable-business-practices.htm
+title: New Zealand falling behind in sustainable business practices
+date: 2015-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1502/S00640/new-zealand-falling-behind-in-sustainable-business-practices.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/02/23/new-zealand-falling-behind-in-sustainable-business-practices/index.html
+layout: layout.njk
 ---
 New Zealand falling behind in sustainable business practices
 ============================================================

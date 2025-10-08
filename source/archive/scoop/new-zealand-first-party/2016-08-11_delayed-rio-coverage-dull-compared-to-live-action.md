@@ -1,9 +1,13 @@
 ---
 slug: delayed-rio-coverage-dull-compared-to-live-action
-title: "Delayed Rio Coverage Dull Compared to Live Action"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/PA1608/S00194/delayed-rio-coverage-dull-compared-to-live-action.htm
+title: Delayed Rio Coverage Dull Compared to Live Action
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00194/delayed-rio-coverage-dull-compared-to-live-action.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/08/11/delayed-rio-coverage-dull-compared-to-live-action/index.html
+layout: layout.njk
 ---
 Delayed Rio Coverage Dull Compared to Live Action
 =================================================

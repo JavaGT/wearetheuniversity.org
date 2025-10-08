@@ -1,9 +1,13 @@
 ---
 slug: nz-should-copy-aus-to-boost-university-graduates
-title: "NZ Should copy Aus To Boost University Graduates"
-date: 2009-03-11
-source-url: https://www.scoop.co.nz/stories/ED0903/S00038/nz-should-copy-aus-to-boost-university-graduates.htm
+title: NZ Should copy Aus To Boost University Graduates
+date: 2009-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00038/nz-should-copy-aus-to-boost-university-graduates.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2009/03/11/nz-should-copy-aus-to-boost-university-graduates/index.html
+layout: layout.njk
 ---
 NZ Should copy Aus To Boost University Graduates
 ================================================

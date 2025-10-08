@@ -1,9 +1,12 @@
 ---
 slug: singapore-campus-a-coup-for-massey
-title: "Singapore campus a coup for Massey"
-date: 2008-05-26
-source-url: https://www.scoop.co.nz/stories/ED0805/S00110/singapore-campus-a-coup-for-massey.htm
+title: Singapore campus a coup for Massey
+date: 2008-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00110/singapore-campus-a-coup-for-massey.htm
 author: massey-university
+permalink: /archive/2008/05/26/singapore-campus-a-coup-for-massey/index.html
+layout: layout.njk
 ---
 Singapore campus a coup for Massey
 ==================================

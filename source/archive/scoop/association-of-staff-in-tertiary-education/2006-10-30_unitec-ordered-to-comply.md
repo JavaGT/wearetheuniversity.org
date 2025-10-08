@@ -1,9 +1,11 @@
 ---
 slug: unitec-ordered-to-comply
-title: "Unitec Ordered to Comply"
-date: 2006-10-30
+title: Unitec Ordered to Comply
+date: 2006-10-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0610/S00102/unitec-ordered-to-comply.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/10/30/unitec-ordered-to-comply/index.html
+layout: layout.njk
 ---
 Unitec Ordered to Comply
 ========================

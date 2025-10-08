@@ -1,9 +1,12 @@
 ---
 slug: te-waha-nui-wins-an-ossie-surfers-paradise
-title: "Te Waha Nui wins an Ossie Surfer's Paradise"
-date: 2005-12-06
-source-url: https://www.scoop.co.nz/stories/ED0512/S00027/te-waha-nui-wins-an-ossie-surfers-paradise.htm
+title: Te Waha Nui wins an Ossie Surfer's Paradise
+date: 2005-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00027/te-waha-nui-wins-an-ossie-surfers-paradise.htm
 author: aut-university
+permalink: /archive/2005/12/06/te-waha-nui-wins-an-ossie-surfers-paradise/index.html
+layout: layout.njk
 ---
 Te Waha Nui wins an Ossie Surfer's Paradise
 ===========================================

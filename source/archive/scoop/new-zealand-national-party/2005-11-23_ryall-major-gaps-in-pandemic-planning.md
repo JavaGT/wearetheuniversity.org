@@ -1,9 +1,12 @@
 ---
 slug: ryall-major-gaps-in-pandemic-planning
-title: "Ryall: Major gaps in pandemic planning"
-date: 2005-11-23
-source-url: https://www.scoop.co.nz/stories/PA0511/S00345/ryall-major-gaps-in-pandemic-planning.htm
+title: 'Ryall: Major gaps in pandemic planning'
+date: 2005-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00345/ryall-major-gaps-in-pandemic-planning.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/23/ryall-major-gaps-in-pandemic-planning/index.html
+layout: layout.njk
 ---
 Ryall: Major gaps in pandemic planning
 ======================================

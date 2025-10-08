@@ -1,9 +1,13 @@
 ---
 slug: maori-party-welcomes-trade-training-boost-for-canterbury
-title: "Maori Party Welcomes Trade Training boost for Canterbury"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/PA1105/S00275/maori-party-welcomes-trade-training-boost-for-canterbury.htm
+title: Maori Party Welcomes Trade Training boost for Canterbury
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00275/maori-party-welcomes-trade-training-boost-for-canterbury.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/12/maori-party-welcomes-trade-training-boost-for-canterbury/index.html
+layout: layout.njk
 ---
 Maori Party Welcomes Trade Training boost for Canterbury
 ========================================================

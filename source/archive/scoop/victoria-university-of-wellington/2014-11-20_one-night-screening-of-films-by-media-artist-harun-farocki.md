@@ -1,9 +1,13 @@
 ---
 slug: one-night-screening-of-films-by-media-artist-harun-farocki
-title: "One-night screening of films by media artist Harun Farocki"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/CU1411/S00367/one-night-screening-of-films-by-media-artist-harun-farocki.htm
+title: One-night screening of films by media artist Harun Farocki
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00367/one-night-screening-of-films-by-media-artist-harun-farocki.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/20/one-night-screening-of-films-by-media-artist-harun-farocki/index.html
+layout: layout.njk
 ---
 One-night screening of films by media artist Harun Farocki
 ==========================================================

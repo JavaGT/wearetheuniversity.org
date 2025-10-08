@@ -1,9 +1,12 @@
 ---
 slug: researcher-makes-radical-breakthrough
-title: "Researcher makes radical breakthrough"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/SC1102/S00003/researcher-makes-radical-breakthrough.htm
+title: Researcher makes radical breakthrough
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1102/S00003/researcher-makes-radical-breakthrough.htm
 author: massey-university
+permalink: /archive/2011/02/01/researcher-makes-radical-breakthrough/index.html
+layout: layout.njk
 ---
 Researcher makes radical breakthrough
 =====================================

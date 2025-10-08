@@ -1,9 +1,13 @@
 ---
 slug: australian-grant-to-study-impact-of-digital-technology
-title: "Australian grant to study impact of digital technology"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/ED1512/S00082/australian-grant-to-study-impact-of-digital-technology.htm
+title: Australian grant to study impact of digital technology
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00082/australian-grant-to-study-impact-of-digital-technology.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/12/17/australian-grant-to-study-impact-of-digital-technology/index.html
+layout: layout.njk
 ---
 Australian grant to study impact of digital technology
 ======================================================

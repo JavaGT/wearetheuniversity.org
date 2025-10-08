@@ -1,9 +1,13 @@
 ---
 slug: aut-scientists-to-play-key-role-in-huge-astronomy-project
-title: "AUT scientists to play key role in huge astronomy project"
-date: 2013-11-26
-source-url: https://www.scoop.co.nz/stories/SC1311/S00087/aut-scientists-to-play-key-role-in-huge-astronomy-project.htm
+title: AUT scientists to play key role in huge astronomy project
+date: 2013-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00087/aut-scientists-to-play-key-role-in-huge-astronomy-project.htm
 author: aut-university
+permalink: >-
+  /archive/2013/11/26/aut-scientists-to-play-key-role-in-huge-astronomy-project/index.html
+layout: layout.njk
 ---
 AUT scientists to play key role in huge astronomy project
 =========================================================

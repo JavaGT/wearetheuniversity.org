@@ -1,9 +1,12 @@
 ---
 slug: key-turns-sod-on-water-polluting-project
-title: "Key turns sod on water polluting project"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/PA1404/S00432/key-turns-sod-on-water-polluting-project.htm
+title: Key turns sod on water polluting project
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00432/key-turns-sod-on-water-polluting-project.htm
 author: green-party
+permalink: /archive/2014/04/29/key-turns-sod-on-water-polluting-project/index.html
+layout: layout.njk
 ---
 Key turns sod on water polluting project
 ========================================

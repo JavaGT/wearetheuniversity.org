@@ -1,9 +1,12 @@
 ---
 slug: māori-pasifika-leaders-on-govt-health-groups-marginalised
-title: "Māori, Pasifika leaders on govt health groups marginalised"
-date: 2019-03-07
-source-url: https://www.scoop.co.nz/stories/GE1903/S00022/maori-pasifika-leaders-on-govt-health-groups-marginalised.htm
+title: Māori, Pasifika leaders on govt health groups marginalised
+date: 2019-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1903/S00022/maori-pasifika-leaders-on-govt-health-groups-marginalised.htm
 author: aut-university
+permalink: /archive/2019/03/07/m/index.html
+layout: layout.njk
 ---
 Māori, Pasifika leaders on govt health groups marginalised
 ==========================================================

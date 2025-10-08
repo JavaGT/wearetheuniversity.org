@@ -1,9 +1,12 @@
 ---
 slug: destined-to-make-a-difference
-title: "Destined to make a difference"
-date: 2016-03-18
-source-url: https://www.scoop.co.nz/stories/ED1603/S00069/destined-to-make-a-difference.htm
+title: Destined to make a difference
+date: 2016-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00069/destined-to-make-a-difference.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/03/18/destined-to-make-a-difference/index.html
+layout: layout.njk
 ---
 Destined to make a difference
 =============================

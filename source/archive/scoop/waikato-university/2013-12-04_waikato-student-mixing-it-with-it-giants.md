@@ -1,9 +1,12 @@
 ---
 slug: waikato-student-mixing-it-with-it-giants
-title: "Waikato student mixing it with IT giants"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/ED1312/S00027/waikato-student-mixing-it-with-it-giants.htm
+title: Waikato student mixing it with IT giants
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00027/waikato-student-mixing-it-with-it-giants.htm
 author: waikato-university
+permalink: /archive/2013/12/04/waikato-student-mixing-it-with-it-giants/index.html
+layout: layout.njk
 ---
 Waikato student mixing it with IT giants
 ========================================

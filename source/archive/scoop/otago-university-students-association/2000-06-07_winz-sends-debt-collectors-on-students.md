@@ -1,9 +1,12 @@
 ---
 slug: winz-sends-debt-collectors-on-students
-title: "Winz Sends Debt  Collectors On  Students"
-date: 2000-06-07
-source-url: https://www.scoop.co.nz/stories/ED0006/S00008/winz-sends-debt-collectors-on-students.htm
+title: Winz Sends Debt  Collectors On  Students
+date: 2000-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00008/winz-sends-debt-collectors-on-students.htm
 author: otago-university-students-association
+permalink: /archive/2000/06/07/winz-sends-debt-collectors-on-students/index.html
+layout: layout.njk
 ---
 Winz Sends Debt Collectors On Students
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: green-partys-water-policy-reckless-and-dangerous
-title: "Green Party’s Water Policy Reckless And Dangerous"
-date: 2011-11-20
-source-url: https://www.scoop.co.nz/stories/PO1111/S00531/green-partys-water-policy-reckless-and-dangerous.htm
+title: Green Party’s Water Policy Reckless And Dangerous
+date: 2011-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00531/green-partys-water-policy-reckless-and-dangerous.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/20/green-partys-water-policy-reckless-and-dangerous/index.html
+layout: layout.njk
 ---
 Green Party’s Water Policy Reckless And Dangerous
 =================================================

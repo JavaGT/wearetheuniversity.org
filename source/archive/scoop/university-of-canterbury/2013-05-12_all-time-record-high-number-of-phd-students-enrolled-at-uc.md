@@ -1,9 +1,13 @@
 ---
 slug: all-time-record-high-number-of-phd-students-enrolled-at-uc
-title: "All-time record high number of PhD students enrolled at UC"
-date: 2013-05-12
-source-url: https://www.scoop.co.nz/stories/ED1305/S00068/all-time-record-high-number-of-phd-students-enrolled-at-uc.htm
+title: All-time record high number of PhD students enrolled at UC
+date: 2013-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00068/all-time-record-high-number-of-phd-students-enrolled-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/12/all-time-record-high-number-of-phd-students-enrolled-at-uc/index.html
+layout: layout.njk
 ---
 All-time record high number of PhD students enrolled at UC
 ==========================================================

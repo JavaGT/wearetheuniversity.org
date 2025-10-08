@@ -1,9 +1,13 @@
 ---
 slug: uc-transport-expert-calls-for-reduced-traffic-speeds-in-chch
-title: "UC Transport Expert Calls For Reduced Traffic Speeds In Chch"
-date: 2013-03-19
-source-url: https://www.scoop.co.nz/stories/ED1303/S00128/uc-transport-expert-calls-for-reduced-traffic-speeds-in-chch.htm
+title: UC Transport Expert Calls For Reduced Traffic Speeds In Chch
+date: 2013-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00128/uc-transport-expert-calls-for-reduced-traffic-speeds-in-chch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/19/uc-transport-expert-calls-for-reduced-traffic-speeds-in-chch/index.html
+layout: layout.njk
 ---
 UC Transport Expert Calls For Reduced Traffic Speeds In Chch
 ============================================================

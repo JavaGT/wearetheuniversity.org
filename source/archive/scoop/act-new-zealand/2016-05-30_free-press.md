@@ -1,9 +1,11 @@
 ---
 slug: free-press
-title: "Free Press"
-date: 2016-05-30
+title: Free Press
+date: 2016-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1605/S00636/free-press.htm
 author: act-new-zealand
+permalink: /archive/2016/05/30/free-press/index.html
+layout: layout.njk
 ---
 Free Press
 ==========

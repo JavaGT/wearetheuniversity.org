@@ -1,9 +1,12 @@
 ---
 slug: victoria-uni-research-on-rapists-a-world-first
-title: "Victoria Uni research on rapists a world first"
-date: 1999-12-09
-source-url: https://www.scoop.co.nz/stories/GE9912/S00039/victoria-uni-research-on-rapists-a-world-first.htm
+title: Victoria Uni research on rapists a world first
+date: 1999-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE9912/S00039/victoria-uni-research-on-rapists-a-world-first.htm
 author: victoria-university-of-wellington
+permalink: /archive/1999/12/09/victoria-uni-research-on-rapists-a-world-first/index.html
+layout: layout.njk
 ---
 Victoria Uni research on rapists a world first
 ==============================================

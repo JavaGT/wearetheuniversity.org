@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-selwyn-campus-master-plan
-title: "Lincoln University Selwyn Campus Master Plan"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/ED1306/S00095/lincoln-university-selwyn-campus-master-plan.htm
+title: Lincoln University Selwyn Campus Master Plan
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00095/lincoln-university-selwyn-campus-master-plan.htm
 author: lincoln-university
+permalink: /archive/2013/06/18/lincoln-university-selwyn-campus-master-plan/index.html
+layout: layout.njk
 ---
 Lincoln University Selwyn Campus Master Plan
 ============================================

@@ -1,9 +1,16 @@
 ---
-slug: inaugural-chair-of-future-environments-established-in-partnership-with-fletcher
-title: "Inaugural Chair Of Future Environments Established In Partnership With Fletcher"
-date: 2021-07-20
-source-url: https://www.scoop.co.nz/stories/ED2107/S00031/inaugural-chair-of-future-environments-established-in-partnership-with-fletcher.htm
+slug: >-
+  inaugural-chair-of-future-environments-established-in-partnership-with-fletcher
+title: >-
+  Inaugural Chair Of Future Environments Established In Partnership With
+  Fletcher
+date: 2021-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00031/inaugural-chair-of-future-environments-established-in-partnership-with-fletcher.htm
 author: aut-university
+permalink: >-
+  /archive/2021/07/20/inaugural-chair-of-future-environments-established-in-partnership-with-fletcher/index.html
+layout: layout.njk
 ---
 Inaugural Chair Of Future Environments Established In Partnership With Fletcher
 ===============================================================================

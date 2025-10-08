@@ -1,9 +1,11 @@
 ---
 slug: what-do-young-kiwi-kids-eat
-title: "What do young Kiwi kids eat?"
-date: 2014-06-24
+title: What do young Kiwi kids eat?
+date: 2014-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1406/S00130/what-do-young-kiwi-kids-eat.htm
 author: massey-university
+permalink: /archive/2014/06/24/what-do-young-kiwi-kids-eat/index.html
+layout: layout.njk
 ---
 What do young Kiwi kids eat?
 ============================

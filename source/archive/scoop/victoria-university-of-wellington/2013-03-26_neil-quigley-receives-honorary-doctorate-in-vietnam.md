@@ -1,9 +1,13 @@
 ---
 slug: neil-quigley-receives-honorary-doctorate-in-vietnam
-title: "Neil Quigley Receives Honorary Doctorate In Vietnam"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/ED1303/S00183/neil-quigley-receives-honorary-doctorate-in-vietnam.htm
+title: Neil Quigley Receives Honorary Doctorate In Vietnam
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00183/neil-quigley-receives-honorary-doctorate-in-vietnam.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/03/26/neil-quigley-receives-honorary-doctorate-in-vietnam/index.html
+layout: layout.njk
 ---
 Neil Quigley Receives Honorary Doctorate In Vietnam
 ===================================================

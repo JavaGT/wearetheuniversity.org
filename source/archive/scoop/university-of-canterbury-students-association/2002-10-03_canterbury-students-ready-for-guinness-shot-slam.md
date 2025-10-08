@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-ready-for-guinness-shot-slam
-title: "Canterbury students ready for Guinness shot slam"
-date: 2002-10-03
-source-url: https://www.scoop.co.nz/stories/ED0210/S00007/canterbury-students-ready-for-guinness-shot-slam.htm
+title: Canterbury students ready for Guinness shot slam
+date: 2002-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00007/canterbury-students-ready-for-guinness-shot-slam.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2002/10/03/canterbury-students-ready-for-guinness-shot-slam/index.html
+layout: layout.njk
 ---
 Canterbury students ready for Guinness shot slam
 ================================================

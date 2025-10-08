@@ -1,9 +1,12 @@
 ---
 slug: pay-attention-health-minister
-title: "Pay Attention Health Minister"
-date: 2003-11-11
-source-url: https://www.scoop.co.nz/stories/PA0311/S00227/pay-attention-health-minister.htm
+title: Pay Attention Health Minister
+date: 2003-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00227/pay-attention-health-minister.htm
 author: new-zealand-first-party
+permalink: /archive/2003/11/11/pay-attention-health-minister/index.html
+layout: layout.njk
 ---
 Pay Attention Health Minister
 =============================

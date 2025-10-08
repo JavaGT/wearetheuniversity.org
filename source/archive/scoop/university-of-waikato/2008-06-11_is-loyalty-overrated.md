@@ -1,9 +1,11 @@
 ---
 slug: is-loyalty-overrated
-title: "Is loyalty overrated?"
-date: 2008-06-11
+title: Is loyalty overrated?
+date: 2008-06-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0806/S00200/is-loyalty-overrated.htm
 author: university-of-waikato
+permalink: /archive/2008/06/11/is-loyalty-overrated/index.html
+layout: layout.njk
 ---
 Is loyalty overrated?
 =====================

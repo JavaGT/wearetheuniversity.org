@@ -1,9 +1,11 @@
 ---
 slug: university-or-what!
-title: "University or what!?"
-date: 2008-05-22
+title: University or what!?
+date: 2008-05-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0805/S00093/university-or-what.htm
 author: usu.-student-association-at-unitec
+permalink: /archive/2008/05/22/university-or-what/index.html
+layout: layout.njk
 ---
 University or what!?
 ====================

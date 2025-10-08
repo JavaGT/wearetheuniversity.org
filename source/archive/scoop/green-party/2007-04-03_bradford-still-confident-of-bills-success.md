@@ -1,9 +1,12 @@
 ---
 slug: bradford-still-confident-of-bills-success
-title: "Bradford still confident of Bill's success"
-date: 2007-04-03
-source-url: https://www.scoop.co.nz/stories/PA0704/S00039/bradford-still-confident-of-bills-success.htm
+title: Bradford still confident of Bill's success
+date: 2007-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00039/bradford-still-confident-of-bills-success.htm
 author: green-party
+permalink: /archive/2007/04/03/bradford-still-confident-of-bills-success/index.html
+layout: layout.njk
 ---
 Bradford still confident of Bill's success
 ==========================================

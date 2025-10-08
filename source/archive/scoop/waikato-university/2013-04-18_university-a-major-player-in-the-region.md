@@ -1,9 +1,12 @@
 ---
 slug: university-a-major-player-in-the-region
-title: "University a Major Player in the Region"
-date: 2013-04-18
-source-url: https://www.scoop.co.nz/stories/ED1304/S00120/university-a-major-player-in-the-region.htm
+title: University a Major Player in the Region
+date: 2013-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00120/university-a-major-player-in-the-region.htm
 author: waikato-university
+permalink: /archive/2013/04/18/university-a-major-player-in-the-region/index.html
+layout: layout.njk
 ---
 University a Major Player in the Region
 =======================================

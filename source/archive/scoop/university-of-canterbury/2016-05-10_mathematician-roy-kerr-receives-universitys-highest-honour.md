@@ -1,9 +1,13 @@
 ---
 slug: mathematician-roy-kerr-receives-universitys-highest-honour
-title: "Mathematician Roy Kerr receives University’s highest honour"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/ED1605/S00029/mathematician-roy-kerr-receives-universitys-highest-honour.htm
+title: Mathematician Roy Kerr receives University’s highest honour
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00029/mathematician-roy-kerr-receives-universitys-highest-honour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/10/mathematician-roy-kerr-receives-universitys-highest-honour/index.html
+layout: layout.njk
 ---
 Mathematician Roy Kerr receives University’s highest honour
 ===========================================================

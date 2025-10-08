@@ -1,9 +1,13 @@
 ---
 slug: womens-perspective-on-war-and-peace-in-film-series
-title: "Women’s perspective on war and peace in film series"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/ED1406/S00148/womens-perspective-on-war-and-peace-in-film-series.htm
+title: Women’s perspective on war and peace in film series
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00148/womens-perspective-on-war-and-peace-in-film-series.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/27/womens-perspective-on-war-and-peace-in-film-series/index.html
+layout: layout.njk
 ---
 Women’s perspective on war and peace in film series
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: out-of-touch-regional-council-cuts-key-bus-route
-title: "‘Out of Touch’ Regional Council Cuts Key Bus Route"
-date: 2015-02-26
-source-url: https://www.scoop.co.nz/stories/ED1502/S00092/out-of-touch-regional-council-cuts-key-bus-route.htm
+title: ‘Out of Touch’ Regional Council Cuts Key Bus Route
+date: 2015-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00092/out-of-touch-regional-council-cuts-key-bus-route.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2015/02/26/out-of-touch-regional-council-cuts-key-bus-route/index.html
+layout: layout.njk
 ---
 ‘Out of Touch’ Regional Council Cuts Key Bus Route
 ==================================================

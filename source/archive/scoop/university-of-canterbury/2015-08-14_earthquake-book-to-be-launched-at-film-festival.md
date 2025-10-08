@@ -1,9 +1,12 @@
 ---
 slug: earthquake-book-to-be-launched-at-film-festival
-title: "Earthquake book to be launched at Film Festival"
-date: 2015-08-14
-source-url: https://www.scoop.co.nz/stories/AK1508/S00276/earthquake-book-to-be-launched-at-film-festival.htm
+title: Earthquake book to be launched at Film Festival
+date: 2015-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1508/S00276/earthquake-book-to-be-launched-at-film-festival.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/14/earthquake-book-to-be-launched-at-film-festival/index.html
+layout: layout.njk
 ---
 Earthquake book to be launched at Film Festival
 ===============================================

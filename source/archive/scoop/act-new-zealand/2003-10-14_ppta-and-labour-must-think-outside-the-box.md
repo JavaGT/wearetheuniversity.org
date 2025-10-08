@@ -1,9 +1,12 @@
 ---
 slug: ppta-and-labour-must-think-outside-the-box
-title: "PPTA And Labour Must Think Outside The Box"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/PA0310/S00290/ppta-and-labour-must-think-outside-the-box.htm
+title: PPTA And Labour Must Think Outside The Box
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00290/ppta-and-labour-must-think-outside-the-box.htm
 author: act-new-zealand
+permalink: /archive/2003/10/14/ppta-and-labour-must-think-outside-the-box/index.html
+layout: layout.njk
 ---
 PPTA And Labour Must Think Outside The Box
 ==========================================

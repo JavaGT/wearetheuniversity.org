@@ -1,9 +1,12 @@
 ---
 slug: minister-must-explain-the-wasted-millions
-title: "Minister must explain the wasted millions"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/PA0403/S00295/minister-must-explain-the-wasted-millions.htm
+title: Minister must explain the wasted millions
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00295/minister-must-explain-the-wasted-millions.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/15/minister-must-explain-the-wasted-millions/index.html
+layout: layout.njk
 ---
 Minister must explain the wasted millions
 =========================================

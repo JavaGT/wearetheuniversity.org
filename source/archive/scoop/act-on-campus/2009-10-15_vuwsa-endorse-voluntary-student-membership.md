@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-endorse-voluntary-student-membership
-title: "VUWSA Endorse Voluntary Student Membership"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/PO0910/S00211/vuwsa-endorse-voluntary-student-membership.htm
+title: VUWSA Endorse Voluntary Student Membership
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00211/vuwsa-endorse-voluntary-student-membership.htm
 author: act-on-campus
+permalink: /archive/2009/10/15/vuwsa-endorse-voluntary-student-membership/index.html
+layout: layout.njk
 ---
 VUWSA Endorse Voluntary Student Membership
 ==========================================

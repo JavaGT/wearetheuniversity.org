@@ -1,9 +1,12 @@
 ---
 slug: joyce-in-a-spin-over-youth-unemployment
-title: "Joyce in a spin over youth unemployment"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/PA1211/S00361/joyce-in-a-spin-over-youth-unemployment.htm
+title: Joyce in a spin over youth unemployment
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00361/joyce-in-a-spin-over-youth-unemployment.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/21/joyce-in-a-spin-over-youth-unemployment/index.html
+layout: layout.njk
 ---
 Joyce in a spin over youth unemployment
 =======================================

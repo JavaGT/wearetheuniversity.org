@@ -1,9 +1,12 @@
 ---
 slug: student-loan-debt-hits-$5-billion
-title: "Student Loan Debt Hits $5 Billion"
-date: 2002-02-19
-source-url: https://www.scoop.co.nz/stories/ED0202/S00019/student-loan-debt-hits-5-billion.htm
+title: Student Loan Debt Hits $5 Billion
+date: 2002-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00019/student-loan-debt-hits-5-billion.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/02/19/student-loan-debt-hits-/index.html
+layout: layout.njk
 ---
 Student Loan Debt Hits $5 Billion
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-researchers-on-trail-of-chinas-golden-monkey
-title: "Massey researchers on trail of China’s golden monkey"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/ED1208/S00054/massey-researchers-on-trail-of-chinas-golden-monkey.htm
+title: Massey researchers on trail of China’s golden monkey
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00054/massey-researchers-on-trail-of-chinas-golden-monkey.htm
 author: massey-university
+permalink: >-
+  /archive/2012/08/09/massey-researchers-on-trail-of-chinas-golden-monkey/index.html
+layout: layout.njk
 ---
 Massey researchers on trail of China’s golden monkey
 ====================================================

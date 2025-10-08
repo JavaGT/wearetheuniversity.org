@@ -1,9 +1,13 @@
 ---
 slug: love-a-residency-winner-for-thousands-of-foreign-students
-title: "‘Love’ a Residency Winner for Thousands of Foreign Students"
-date: 2015-11-04
-source-url: https://www.scoop.co.nz/stories/PA1511/S00068/love-a-residency-winner-for-thousands-of-foreign-students.htm
+title: ‘Love’ a Residency Winner for Thousands of Foreign Students
+date: 2015-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00068/love-a-residency-winner-for-thousands-of-foreign-students.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/04/love-a-residency-winner-for-thousands-of-foreign-students/index.html
+layout: layout.njk
 ---
 ‘Love’ a Residency Winner for Thousands of Foreign Students
 ===========================================================

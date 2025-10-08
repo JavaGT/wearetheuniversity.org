@@ -1,9 +1,12 @@
 ---
 slug: auckland-university-election-campaign-seminars
-title: "Auckland University: Election Campaign Seminars"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/AK0809/S00232/auckland-university-election-campaign-seminars.htm
+title: 'Auckland University: Election Campaign Seminars'
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0809/S00232/auckland-university-election-campaign-seminars.htm
 author: auckland-university
+permalink: /archive/2008/09/18/auckland-university-election-campaign-seminars/index.html
+layout: layout.njk
 ---
 Auckland University: Election Campaign Seminars
 ===============================================

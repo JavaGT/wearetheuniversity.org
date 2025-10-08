@@ -1,9 +1,11 @@
 ---
 slug: unemployment-set-to-rise
-title: "Unemployment set to rise"
-date: 2009-05-28
+title: Unemployment set to rise
+date: 2009-05-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0905/S00207/unemployment-set-to-rise.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/05/28/unemployment-set-to-rise/index.html
+layout: layout.njk
 ---
 Unemployment set to rise
 ========================

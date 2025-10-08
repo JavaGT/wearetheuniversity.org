@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-gain-major-marsden-funding
-title: "Otago Researchers Gain Major Marsden Funding"
-date: 2006-09-07
-source-url: https://www.scoop.co.nz/stories/ED0609/S00028/otago-researchers-gain-major-marsden-funding.htm
+title: Otago Researchers Gain Major Marsden Funding
+date: 2006-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00028/otago-researchers-gain-major-marsden-funding.htm
 author: university-of-otago
+permalink: /archive/2006/09/07/otago-researchers-gain-major-marsden-funding/index.html
+layout: layout.njk
 ---
 Otago Researchers Gain Major Marsden Funding
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-english-national-opening-doors
-title: "Speech: English - National - Opening doors"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/PA0407/S00173/speech-english-national-opening-doors.htm
+title: 'Speech: English - National - Opening doors'
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00173/speech-english-national-opening-doors.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/12/speech-english-national-opening-doors/index.html
+layout: layout.njk
 ---
 Speech: English - National - Opening doors
 ==========================================

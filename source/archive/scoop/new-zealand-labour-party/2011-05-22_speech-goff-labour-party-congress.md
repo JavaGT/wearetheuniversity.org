@@ -1,9 +1,12 @@
 ---
 slug: speech-goff-labour-party-congress
-title: "Speech: Goff - Labour Party Congress"
-date: 2011-05-22
-source-url: https://www.scoop.co.nz/stories/PA1105/S00508/speech-goff-labour-party-congress.htm
+title: 'Speech: Goff - Labour Party Congress'
+date: 2011-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00508/speech-goff-labour-party-congress.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/22/speech-goff-labour-party-congress/index.html
+layout: layout.njk
 ---
 Speech: Goff - Labour Party Congress
 ====================================

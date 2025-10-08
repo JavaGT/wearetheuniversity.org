@@ -1,9 +1,13 @@
 ---
 slug: better-skills-access-for-workers-key-to-high-wages
-title: "Better skills access for workers key to high wages"
-date: 2008-07-22
-source-url: https://www.scoop.co.nz/stories/PO0807/S00257/better-skills-access-for-workers-key-to-high-wages.htm
+title: Better skills access for workers key to high wages
+date: 2008-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00257/better-skills-access-for-workers-key-to-high-wages.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2008/07/22/better-skills-access-for-workers-key-to-high-wages/index.html
+layout: layout.njk
 ---
 Better skills access for workers key to high wages
 ==================================================

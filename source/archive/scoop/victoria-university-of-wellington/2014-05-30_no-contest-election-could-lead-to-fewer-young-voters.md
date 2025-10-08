@@ -1,9 +1,13 @@
 ---
 slug: no-contest-election-could-lead-to-fewer-young-voters
-title: "‘No contest’ election could lead to fewer young voters"
-date: 2014-05-30
-source-url: https://www.scoop.co.nz/stories/PO1405/S00495/no-contest-election-could-lead-to-fewer-young-voters.htm
+title: ‘No contest’ election could lead to fewer young voters
+date: 2014-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00495/no-contest-election-could-lead-to-fewer-young-voters.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/30/no-contest-election-could-lead-to-fewer-young-voters/index.html
+layout: layout.njk
 ---
 ‘No contest’ election could lead to fewer young voters
 ======================================================

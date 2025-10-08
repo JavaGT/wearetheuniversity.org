@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-15-march-2004
-title: "ACT's The Letter - Monday 15 March 2004"
-date: 2004-03-15
-source-url: https://www.scoop.co.nz/stories/PA0403/S00307/acts-the-letter-monday-15-march-2004.htm
+title: ACT's The Letter - Monday 15 March 2004
+date: 2004-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00307/acts-the-letter-monday-15-march-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/03/15/acts-the-letter-monday-15-march-2004/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday 15 March 2004
 =======================================

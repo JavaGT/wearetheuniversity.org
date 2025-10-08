@@ -1,9 +1,12 @@
 ---
 slug: more-women-better-financial-performance
-title: "More women – better financial performance"
-date: 2011-09-20
-source-url: https://www.scoop.co.nz/stories/BU1109/S00590/more-women-better-financial-performance.htm
+title: More women – better financial performance
+date: 2011-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00590/more-women-better-financial-performance.htm
 author: waikato-university
+permalink: /archive/2011/09/20/more-women-better-financial-performance/index.html
+layout: layout.njk
 ---
 More women – better financial performance
 =========================================

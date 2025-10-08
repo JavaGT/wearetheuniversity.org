@@ -1,9 +1,13 @@
 ---
 slug: maori-party-applauds-release-of-child-poverty-measures
-title: "Maori Party applauds release of child poverty measures"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/PA1312/S00193/maori-party-applauds-release-of-child-poverty-measures.htm
+title: Maori Party applauds release of child poverty measures
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00193/maori-party-applauds-release-of-child-poverty-measures.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/12/09/maori-party-applauds-release-of-child-poverty-measures/index.html
+layout: layout.njk
 ---
 Maori Party applauds release of child poverty measures
 ======================================================

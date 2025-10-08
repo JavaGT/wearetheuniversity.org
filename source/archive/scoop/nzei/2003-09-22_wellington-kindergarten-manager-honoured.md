@@ -1,9 +1,12 @@
 ---
 slug: wellington-kindergarten-manager-honoured
-title: "Wellington Kindergarten Manager Honoured"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00089/wellington-kindergarten-manager-honoured.htm
+title: Wellington Kindergarten Manager Honoured
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00089/wellington-kindergarten-manager-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/wellington-kindergarten-manager-honoured/index.html
+layout: layout.njk
 ---
 Wellington Kindergarten Manager Honoured
 ========================================

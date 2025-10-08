@@ -1,8 +1,11 @@
 ---
 slug: step-change-funding-boost-for-health-research
-title: "Step change funding boost for health research"
-date: 2016-05-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/step-change-funding-boost-for-health-research.html
+title: Step change funding boost for health research
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/step-change-funding-boost-for-health-research.html
+permalink: /archive/2016/05/18/step-change-funding-boost-for-health-research/index.html
+layout: layout.njk
 ---
 Step change funding boost for health research
 =============================================

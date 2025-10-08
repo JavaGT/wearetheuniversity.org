@@ -1,9 +1,13 @@
 ---
 slug: straight-a-student-recognised-with-prestigious-scholarship
-title: "'Straight A' student recognised with prestigious scholarship"
-date: 2019-11-25
-source-url: https://www.scoop.co.nz/stories/ED1911/S00061/straight-a-student-recognised-with-prestigious-scholarship.htm
+title: '''Straight A'' student recognised with prestigious scholarship'
+date: 2019-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00061/straight-a-student-recognised-with-prestigious-scholarship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/25/straight-a-student-recognised-with-prestigious-scholarship/index.html
+layout: layout.njk
 ---
 'Straight A' student recognised with prestigious scholarship
 ============================================================

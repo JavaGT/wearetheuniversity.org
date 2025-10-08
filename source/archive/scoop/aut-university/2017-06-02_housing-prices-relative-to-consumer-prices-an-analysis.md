@@ -1,9 +1,13 @@
 ---
 slug: housing-prices-relative-to-consumer-prices-an-analysis
-title: "Housing Prices Relative to Consumer Prices: An Analysis"
-date: 2017-06-02
-source-url: https://www.scoop.co.nz/stories/PO1706/S00035/housing-prices-relative-to-consumer-prices-an-analysis.htm
+title: 'Housing Prices Relative to Consumer Prices: An Analysis'
+date: 2017-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00035/housing-prices-relative-to-consumer-prices-an-analysis.htm
 author: aut-university
+permalink: >-
+  /archive/2017/06/02/housing-prices-relative-to-consumer-prices-an-analysis/index.html
+layout: layout.njk
 ---
 Housing Prices Relative to Consumer Prices: An Analysis
 =======================================================

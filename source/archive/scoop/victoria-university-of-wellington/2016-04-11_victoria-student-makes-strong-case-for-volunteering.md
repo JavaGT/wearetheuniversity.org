@@ -1,9 +1,13 @@
 ---
 slug: victoria-student-makes-strong-case-for-volunteering
-title: "Victoria student makes strong case for volunteering"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/AK1604/S00164/victoria-student-makes-strong-case-for-volunteering.htm
+title: Victoria student makes strong case for volunteering
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1604/S00164/victoria-student-makes-strong-case-for-volunteering.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/04/11/victoria-student-makes-strong-case-for-volunteering/index.html
+layout: layout.njk
 ---
 Victoria student makes strong case for volunteering
 ===================================================

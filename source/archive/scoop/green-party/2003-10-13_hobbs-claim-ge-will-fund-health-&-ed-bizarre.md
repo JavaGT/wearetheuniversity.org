@@ -1,9 +1,12 @@
 ---
 slug: hobbs-claim-ge-will-fund-health-&-ed-bizarre
-title: "Hobbs' claim GE will fund health & ed \"bizarre\""
-date: 2003-10-13
-source-url: https://www.scoop.co.nz/stories/PA0310/S00242/hobbs-claim-ge-will-fund-health-ed-bizarre.htm
+title: Hobbs' claim GE will fund health & ed "bizarre"
+date: 2003-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00242/hobbs-claim-ge-will-fund-health-ed-bizarre.htm
 author: green-party
+permalink: /archive/2003/10/13/hobbs-claim-ge-will-fund-health-/index.html
+layout: layout.njk
 ---
 Hobbs' claim GE will fund health & ed \"bizarre"
 ===============================================

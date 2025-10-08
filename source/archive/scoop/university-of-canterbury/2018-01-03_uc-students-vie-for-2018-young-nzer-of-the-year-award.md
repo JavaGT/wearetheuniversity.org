@@ -1,9 +1,13 @@
 ---
 slug: uc-students-vie-for-2018-young-nzer-of-the-year-award
-title: "UC students vie for 2018 Young NZer of the Year award"
-date: 2018-01-03
-source-url: https://www.scoop.co.nz/stories/ED1801/S00002/uc-students-vie-for-2018-young-nzer-of-the-year-award.htm
+title: UC students vie for 2018 Young NZer of the Year award
+date: 2018-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00002/uc-students-vie-for-2018-young-nzer-of-the-year-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/01/03/uc-students-vie-for-2018-young-nzer-of-the-year-award/index.html
+layout: layout.njk
 ---
 UC students vie for 2018 Young NZer of the Year award
 =====================================================

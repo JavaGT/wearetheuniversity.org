@@ -1,9 +1,12 @@
 ---
 slug: health-reforms-get-positive-report-card
-title: "Health reforms get positive report card"
-date: 2003-11-12
-source-url: https://www.scoop.co.nz/stories/GE0311/S00051/health-reforms-get-positive-report-card.htm
+title: Health reforms get positive report card
+date: 2003-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0311/S00051/health-reforms-get-positive-report-card.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/12/health-reforms-get-positive-report-card/index.html
+layout: layout.njk
 ---
 Health reforms get positive report card
 =======================================

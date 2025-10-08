@@ -1,9 +1,12 @@
 ---
 slug: act-party-to-hold-public-rally-on-law-and-order
-title: "ACT Party to Hold Public Rally on Law and Order"
-date: 2002-03-20
-source-url: https://www.scoop.co.nz/stories/PA0203/S00366/act-party-to-hold-public-rally-on-law-and-order.htm
+title: ACT Party to Hold Public Rally on Law and Order
+date: 2002-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00366/act-party-to-hold-public-rally-on-law-and-order.htm
 author: act-new-zealand
+permalink: /archive/2002/03/20/act-party-to-hold-public-rally-on-law-and-order/index.html
+layout: layout.njk
 ---
 ACT Party to Hold Public Rally on Law and Order
 ===============================================

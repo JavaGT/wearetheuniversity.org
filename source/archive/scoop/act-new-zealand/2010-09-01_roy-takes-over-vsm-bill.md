@@ -1,9 +1,11 @@
 ---
 slug: roy-takes-over-vsm-bill
-title: "Roy Takes Over VSM Bill"
-date: 2010-09-01
+title: Roy Takes Over VSM Bill
+date: 2010-09-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1009/S00018/roy-takes-over-vsm-bill.htm
 author: act-new-zealand
+permalink: /archive/2010/09/01/roy-takes-over-vsm-bill/index.html
+layout: layout.njk
 ---
 Roy Takes Over VSM Bill
 =======================

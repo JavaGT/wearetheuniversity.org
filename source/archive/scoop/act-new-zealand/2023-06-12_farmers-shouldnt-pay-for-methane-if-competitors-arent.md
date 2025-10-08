@@ -1,9 +1,13 @@
 ---
 slug: farmers-shouldnt-pay-for-methane-if-competitors-arent
-title: "Farmers Shouldn’t Pay For Methane If Competitors Aren't"
-date: 2023-06-12
-source-url: https://www.scoop.co.nz/stories/PO2306/S00089/farmers-shouldnt-pay-for-methane-if-competitors-arent.htm
+title: Farmers Shouldn’t Pay For Methane If Competitors Aren't
+date: 2023-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00089/farmers-shouldnt-pay-for-methane-if-competitors-arent.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/12/farmers-shouldnt-pay-for-methane-if-competitors-arent/index.html
+layout: layout.njk
 ---
 Farmers Shouldn’t Pay For Methane If Competitors Aren't
 =======================================================

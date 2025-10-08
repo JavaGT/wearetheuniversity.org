@@ -1,9 +1,12 @@
 ---
 slug: victorias-distinguished-alumni-awards-announced
-title: "Victoria's Distinguished Alumni Awards announced"
-date: 2007-08-03
-source-url: https://www.scoop.co.nz/stories/CU0708/S00052/victorias-distinguished-alumni-awards-announced.htm
+title: Victoria's Distinguished Alumni Awards announced
+date: 2007-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00052/victorias-distinguished-alumni-awards-announced.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/03/victorias-distinguished-alumni-awards-announced/index.html
+layout: layout.njk
 ---
 Victoria's Distinguished Alumni Awards announced
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: message-withstands-the-test-of-time
-title: "Message Withstands the Test of Time"
-date: 2001-07-30
-source-url: https://www.scoop.co.nz/stories/PA0107/S00519/message-withstands-the-test-of-time.htm
+title: Message Withstands the Test of Time
+date: 2001-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00519/message-withstands-the-test-of-time.htm
 author: act-new-zealand
+permalink: /archive/2001/07/30/message-withstands-the-test-of-time/index.html
+layout: layout.njk
 ---
 Message Withstands the Test of Time
 ===================================

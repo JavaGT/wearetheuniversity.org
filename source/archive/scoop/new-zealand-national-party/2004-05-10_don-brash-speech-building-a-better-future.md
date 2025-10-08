@@ -1,9 +1,12 @@
 ---
 slug: don-brash-speech-building-a-better-future
-title: "Don Brash Speech: Building a Better Future"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/PA0405/S00153/don-brash-speech-building-a-better-future.htm
+title: 'Don Brash Speech: Building a Better Future'
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00153/don-brash-speech-building-a-better-future.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/10/don-brash-speech-building-a-better-future/index.html
+layout: layout.njk
 ---
 Don Brash Speech: Building a Better Future
 ==========================================

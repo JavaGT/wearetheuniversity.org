@@ -1,9 +1,12 @@
 ---
 slug: nats-stealth-state-housing-sell-off
-title: "Nats’ stealth state housing sell-off"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00147/nats-stealth-state-housing-sell-off.htm
+title: Nats’ stealth state housing sell-off
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00147/nats-stealth-state-housing-sell-off.htm
 author: green-party
+permalink: /archive/2013/02/13/nats-stealth-state-housing-sell-off/index.html
+layout: layout.njk
 ---
 Nats’ stealth state housing sell-off
 ====================================

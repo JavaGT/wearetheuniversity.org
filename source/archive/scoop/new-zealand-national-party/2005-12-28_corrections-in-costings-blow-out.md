@@ -1,9 +1,12 @@
 ---
 slug: corrections-in-costings-blow-out
-title: "Corrections in costings blow-out"
-date: 2005-12-28
-source-url: https://www.scoop.co.nz/stories/PA0512/S00366/corrections-in-costings-blow-out.htm
+title: Corrections in costings blow-out
+date: 2005-12-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00366/corrections-in-costings-blow-out.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/28/corrections-in-costings-blow-out/index.html
+layout: layout.njk
 ---
 Corrections in costings blow-out
 ================================

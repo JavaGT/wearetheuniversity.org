@@ -1,9 +1,12 @@
 ---
 slug: saturated-fat-is-still-the-enemy
-title: "Saturated fat is still the enemy"
-date: 2014-10-26
-source-url: https://www.scoop.co.nz/stories/SC1410/S00079/saturated-fat-is-still-the-enemy.htm
+title: Saturated fat is still the enemy
+date: 2014-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00079/saturated-fat-is-still-the-enemy.htm
 author: university-of-otago
+permalink: /archive/2014/10/26/saturated-fat-is-still-the-enemy/index.html
+layout: layout.njk
 ---
 Saturated fat is still the enemy
 ================================

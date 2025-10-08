@@ -1,9 +1,12 @@
 ---
 slug: see-brash-flipflopping-online-now
-title: "See Brash flipflopping online now"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/PA0509/S00174/see-brash-flipflopping-online-now.htm
+title: See Brash flipflopping online now
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00174/see-brash-flipflopping-online-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/07/see-brash-flipflopping-online-now/index.html
+layout: layout.njk
 ---
 See Brash flipflopping online now
 =================================

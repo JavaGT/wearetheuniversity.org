@@ -1,9 +1,12 @@
 ---
 slug: how-legalising-cannabis-can-help-society
-title: "How Legalising Cannabis Can Help Society"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/PO1706/S00288/how-legalising-cannabis-can-help-society.htm
+title: How Legalising Cannabis Can Help Society
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00288/how-legalising-cannabis-can-help-society.htm
 author: massey-university
+permalink: /archive/2017/06/21/how-legalising-cannabis-can-help-society/index.html
+layout: layout.njk
 ---
 How Legalising Cannabis Can Help Society
 ========================================

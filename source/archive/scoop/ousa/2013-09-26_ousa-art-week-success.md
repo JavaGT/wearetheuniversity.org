@@ -1,9 +1,11 @@
 ---
 slug: ousa-art-week-success
-title: "OUSA Art Week Success"
-date: 2013-09-26
+title: OUSA Art Week Success
+date: 2013-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1309/S00847/ousa-art-week-success.htm
 author: ousa
+permalink: /archive/2013/09/26/ousa-art-week-success/index.html
+layout: layout.njk
 ---
 OUSA Art Week Success
 =====================

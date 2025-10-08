@@ -1,9 +1,12 @@
 ---
 slug: national-selects-clutha-southland-candidate
-title: "National selects Clutha-Southland candidate"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/PO1708/S00342/national-selects-clutha-southland-candidate.htm
+title: National selects Clutha-Southland candidate
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00342/national-selects-clutha-southland-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/16/national-selects-clutha-southland-candidate/index.html
+layout: layout.njk
 ---
 National selects Clutha-Southland candidate
 ===========================================

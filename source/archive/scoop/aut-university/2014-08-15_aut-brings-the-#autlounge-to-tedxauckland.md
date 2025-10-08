@@ -1,9 +1,12 @@
 ---
 slug: aut-brings-the-#autlounge-to-tedxauckland
-title: "AUT brings the #AUTLounge to TEDxAuckland"
-date: 2014-08-15
-source-url: https://www.scoop.co.nz/stories/AK1408/S00312/aut-brings-the-autlounge-to-tedxauckland.htm
+title: 'AUT brings the #AUTLounge to TEDxAuckland'
+date: 2014-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00312/aut-brings-the-autlounge-to-tedxauckland.htm
 author: aut-university
+permalink: /archive/2014/08/15/aut-brings-the-/index.html
+layout: layout.njk
 ---
 AUT brings the #AUTLounge to TEDxAuckland
 =========================================

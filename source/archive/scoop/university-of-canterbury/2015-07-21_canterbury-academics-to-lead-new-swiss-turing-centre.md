@@ -1,9 +1,13 @@
 ---
 slug: canterbury-academics-to-lead-new-swiss-turing-centre
-title: "Canterbury academics to lead new Swiss Turing Centre"
-date: 2015-07-21
-source-url: https://www.scoop.co.nz/stories/ED1507/S00087/canterbury-academics-to-lead-new-swiss-turing-centre.htm
+title: Canterbury academics to lead new Swiss Turing Centre
+date: 2015-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00087/canterbury-academics-to-lead-new-swiss-turing-centre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/21/canterbury-academics-to-lead-new-swiss-turing-centre/index.html
+layout: layout.njk
 ---
 Canterbury academics to lead new Swiss Turing Centre
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: visiting-expert-pleads-for-light-rail
-title: "Visiting expert pleads for light rail"
-date: 2013-09-15
-source-url: https://www.scoop.co.nz/stories/AK1309/S00491/visiting-expert-pleads-for-light-rail.htm
+title: Visiting expert pleads for light rail
+date: 2013-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00491/visiting-expert-pleads-for-light-rail.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/15/visiting-expert-pleads-for-light-rail/index.html
+layout: layout.njk
 ---
 Visiting expert pleads for light rail
 =====================================

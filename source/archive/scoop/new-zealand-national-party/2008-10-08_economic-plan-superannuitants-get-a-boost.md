@@ -1,9 +1,12 @@
 ---
 slug: economic-plan-superannuitants-get-a-boost
-title: "Economic plan: Superannuitants get a boost"
-date: 2008-10-08
-source-url: https://www.scoop.co.nz/stories/PA0810/S00175/economic-plan-superannuitants-get-a-boost.htm
+title: 'Economic plan: Superannuitants get a boost'
+date: 2008-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00175/economic-plan-superannuitants-get-a-boost.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/08/economic-plan-superannuitants-get-a-boost/index.html
+layout: layout.njk
 ---
 Economic plan: Superannuitants get a boost
 ==========================================

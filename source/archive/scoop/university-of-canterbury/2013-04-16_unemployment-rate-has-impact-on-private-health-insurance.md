@@ -1,9 +1,13 @@
 ---
 slug: unemployment-rate-has-impact-on-private-health-insurance
-title: "Unemployment Rate Has Impact On Private Health Insurance"
-date: 2013-04-16
-source-url: https://www.scoop.co.nz/stories/ED1304/S00099/unemployment-rate-has-impact-on-private-health-insurance.htm
+title: Unemployment Rate Has Impact On Private Health Insurance
+date: 2013-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00099/unemployment-rate-has-impact-on-private-health-insurance.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/16/unemployment-rate-has-impact-on-private-health-insurance/index.html
+layout: layout.njk
 ---
 Unemployment Rate Has Impact On Private Health Insurance
 ========================================================

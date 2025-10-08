@@ -1,9 +1,12 @@
 ---
 slug: migrants-will-be-hard-hit-by-labour-law-changes
-title: "Migrants will be hard hit by labour law changes"
-date: 2010-07-16
-source-url: https://www.scoop.co.nz/stories/PA1007/S00257/migrants-will-be-hard-hit-by-labour-law-changes.htm
+title: Migrants will be hard hit by labour law changes
+date: 2010-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00257/migrants-will-be-hard-hit-by-labour-law-changes.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/16/migrants-will-be-hard-hit-by-labour-law-changes/index.html
+layout: layout.njk
 ---
 Migrants will be hard hit by labour law changes
 ===============================================

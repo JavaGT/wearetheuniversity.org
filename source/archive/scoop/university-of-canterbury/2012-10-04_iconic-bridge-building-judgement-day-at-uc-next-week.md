@@ -1,9 +1,13 @@
 ---
 slug: iconic-bridge-building-judgement-day-at-uc-next-week
-title: "Iconic bridge building judgement day at UC next week"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/ED1210/S00031/iconic-bridge-building-judgement-day-at-uc-next-week.htm
+title: Iconic bridge building judgement day at UC next week
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00031/iconic-bridge-building-judgement-day-at-uc-next-week.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/04/iconic-bridge-building-judgement-day-at-uc-next-week/index.html
+layout: layout.njk
 ---
 Iconic bridge building judgement day at UC next week
 ====================================================

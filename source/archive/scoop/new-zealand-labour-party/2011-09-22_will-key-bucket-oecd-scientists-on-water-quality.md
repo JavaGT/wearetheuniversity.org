@@ -1,9 +1,13 @@
 ---
 slug: will-key-bucket-oecd-scientists-on-water-quality
-title: "Will Key bucket OECD scientists on water quality?"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/PA1109/S00431/will-key-bucket-oecd-scientists-on-water-quality.htm
+title: Will Key bucket OECD scientists on water quality?
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00431/will-key-bucket-oecd-scientists-on-water-quality.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/22/will-key-bucket-oecd-scientists-on-water-quality/index.html
+layout: layout.njk
 ---
 Will Key bucket OECD scientists on water quality?
 =================================================

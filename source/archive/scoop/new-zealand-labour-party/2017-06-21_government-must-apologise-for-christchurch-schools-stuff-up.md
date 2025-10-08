@@ -1,9 +1,13 @@
 ---
 slug: government-must-apologise-for-christchurch-schools-stuff-up
-title: "Government must apologise for Christchurch schools stuff-up"
-date: 2017-06-21
-source-url: https://www.scoop.co.nz/stories/PA1706/S00356/government-must-apologise-for-christchurch-schools-stuff-up.htm
+title: Government must apologise for Christchurch schools stuff-up
+date: 2017-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00356/government-must-apologise-for-christchurch-schools-stuff-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/21/government-must-apologise-for-christchurch-schools-stuff-up/index.html
+layout: layout.njk
 ---
 Government must apologise for Christchurch schools stuff-up
 ===========================================================

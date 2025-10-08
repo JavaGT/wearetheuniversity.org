@@ -1,9 +1,12 @@
 ---
 slug: project-aims-to-tame-toxic-metal
-title: "Project aims to tame toxic metal"
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/SC1211/S00019/project-aims-to-tame-toxic-metal.htm
+title: Project aims to tame toxic metal
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00019/project-aims-to-tame-toxic-metal.htm
 author: massey-university
+permalink: /archive/2012/11/05/project-aims-to-tame-toxic-metal/index.html
+layout: layout.njk
 ---
 Project aims to tame toxic metal
 ================================

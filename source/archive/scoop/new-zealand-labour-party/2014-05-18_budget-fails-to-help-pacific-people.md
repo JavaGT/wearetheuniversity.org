@@ -1,9 +1,12 @@
 ---
 slug: budget-fails-to-help-pacific-people
-title: "Budget fails to help Pacific people"
-date: 2014-05-18
-source-url: https://www.scoop.co.nz/stories/PA1405/S00340/budget-fails-to-help-pacific-people.htm
+title: Budget fails to help Pacific people
+date: 2014-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00340/budget-fails-to-help-pacific-people.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/18/budget-fails-to-help-pacific-people/index.html
+layout: layout.njk
 ---
 Budget fails to help Pacific people
 ===================================

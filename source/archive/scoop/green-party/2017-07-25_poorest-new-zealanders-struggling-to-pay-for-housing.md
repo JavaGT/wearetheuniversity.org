@@ -1,9 +1,13 @@
 ---
 slug: poorest-new-zealanders-struggling-to-pay-for-housing
-title: "Poorest New Zealanders struggling to pay for housing"
-date: 2017-07-25
-source-url: https://www.scoop.co.nz/stories/PA1707/S00354/poorest-new-zealanders-struggling-to-pay-for-housing.htm
+title: Poorest New Zealanders struggling to pay for housing
+date: 2017-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00354/poorest-new-zealanders-struggling-to-pay-for-housing.htm
 author: green-party
+permalink: >-
+  /archive/2017/07/25/poorest-new-zealanders-struggling-to-pay-for-housing/index.html
+layout: layout.njk
 ---
 Poorest New Zealanders struggling to pay for housing
 ====================================================

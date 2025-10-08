@@ -1,9 +1,12 @@
 ---
 slug: māori-party-justice-delayed-for-iwi-is-justice-denied
-title: "Māori Party: \"Justice delayed for iwi, is justice denied\""
-date: 2016-09-21
-source-url: https://www.scoop.co.nz/stories/PA1609/S00372/maori-party-justice-delayed-for-iwi-is-justice-denied.htm
+title: 'Māori Party: "Justice delayed for iwi, is justice denied"'
+date: 2016-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00372/maori-party-justice-delayed-for-iwi-is-justice-denied.htm
 author: te-pati-maori
+permalink: /archive/2016/09/21/m/index.html
+layout: layout.njk
 ---
 Māori Party: “Justice delayed for iwi, is justice denied”
 =========================================================

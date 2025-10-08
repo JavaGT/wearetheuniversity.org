@@ -1,9 +1,13 @@
 ---
 slug: languages-open-more-doors-in-increasingly-globalised-world
-title: "Languages open more doors in increasingly globalised world"
-date: 2019-09-25
-source-url: https://www.scoop.co.nz/stories/ED1909/S00072/languages-open-more-doors-in-increasingly-globalised-world.htm
+title: Languages open more doors in increasingly globalised world
+date: 2019-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00072/languages-open-more-doors-in-increasingly-globalised-world.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/25/languages-open-more-doors-in-increasingly-globalised-world/index.html
+layout: layout.njk
 ---
 Languages open more doors in increasingly globalised world
 ==========================================================

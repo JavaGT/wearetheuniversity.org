@@ -1,9 +1,13 @@
 ---
 slug: act-will-give-employers-to-confidence-to-hire-to-new-staff
-title: "ACT Will Give Employers To Confidence To Hire To New Staff"
-date: 2020-10-01
-source-url: https://www.scoop.co.nz/stories/PA2010/S00011/act-will-give-employers-to-confidence-to-hire-to-new-staff.htm
+title: ACT Will Give Employers To Confidence To Hire To New Staff
+date: 2020-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00011/act-will-give-employers-to-confidence-to-hire-to-new-staff.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/10/01/act-will-give-employers-to-confidence-to-hire-to-new-staff/index.html
+layout: layout.njk
 ---
 ACT Will Give Employers To Confidence To Hire To New Staff
 ==========================================================

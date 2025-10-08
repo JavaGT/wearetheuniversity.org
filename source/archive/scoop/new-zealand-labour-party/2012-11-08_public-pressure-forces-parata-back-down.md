@@ -1,9 +1,12 @@
 ---
 slug: public-pressure-forces-parata-back-down
-title: "Public pressure forces Parata back-down"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/PA1211/S00135/public-pressure-forces-parata-back-down.htm
+title: Public pressure forces Parata back-down
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00135/public-pressure-forces-parata-back-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/08/public-pressure-forces-parata-back-down/index.html
+layout: layout.njk
 ---
 Public pressure forces Parata back-down
 =======================================

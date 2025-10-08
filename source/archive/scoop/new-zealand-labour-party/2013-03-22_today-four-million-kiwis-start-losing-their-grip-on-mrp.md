@@ -1,9 +1,13 @@
 ---
 slug: today-four-million-kiwis-start-losing-their-grip-on-mrp
-title: "Today four million Kiwis start losing their grip on MRP"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/PA1303/S00415/today-four-million-kiwis-start-losing-their-grip-on-mrp.htm
+title: Today four million Kiwis start losing their grip on MRP
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00415/today-four-million-kiwis-start-losing-their-grip-on-mrp.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/03/22/today-four-million-kiwis-start-losing-their-grip-on-mrp/index.html
+layout: layout.njk
 ---
 Today four million Kiwis start losing their grip on MRP
 =======================================================

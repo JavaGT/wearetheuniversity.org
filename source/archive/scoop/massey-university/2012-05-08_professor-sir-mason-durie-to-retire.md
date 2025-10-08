@@ -1,9 +1,12 @@
 ---
 slug: professor-sir-mason-durie-to-retire
-title: "Professor Sir Mason Durie To Retire"
-date: 2012-05-08
-source-url: https://www.scoop.co.nz/stories/ED1205/S00034/professor-sir-mason-durie-to-retire.htm
+title: Professor Sir Mason Durie To Retire
+date: 2012-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00034/professor-sir-mason-durie-to-retire.htm
 author: massey-university
+permalink: /archive/2012/05/08/professor-sir-mason-durie-to-retire/index.html
+layout: layout.njk
 ---
 Professor Sir Mason Durie To Retire
 ===================================

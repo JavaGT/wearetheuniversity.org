@@ -1,9 +1,11 @@
 ---
 slug: dont-quote-me-on-that-mr-key
-title: "Don’t quote me on that, Mr Key"
-date: 2011-09-30
+title: Don’t quote me on that, Mr Key
+date: 2011-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1109/S00615/dont-quote-me-on-that-mr-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/30/dont-quote-me-on-that-mr-key/index.html
+layout: layout.njk
 ---
 Don’t quote me on that, Mr Key
 ==============================

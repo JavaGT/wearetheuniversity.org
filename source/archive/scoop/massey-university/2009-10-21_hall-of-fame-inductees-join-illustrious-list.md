@@ -1,9 +1,12 @@
 ---
 slug: hall-of-fame-inductees-join-illustrious-list
-title: "Hall of Fame Inductees Join Illustrious List"
-date: 2009-10-21
-source-url: https://www.scoop.co.nz/stories/ED0910/S00094/hall-of-fame-inductees-join-illustrious-list.htm
+title: Hall of Fame Inductees Join Illustrious List
+date: 2009-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00094/hall-of-fame-inductees-join-illustrious-list.htm
 author: massey-university
+permalink: /archive/2009/10/21/hall-of-fame-inductees-join-illustrious-list/index.html
+layout: layout.njk
 ---
 Hall of Fame Inductees Join Illustrious List
 ============================================

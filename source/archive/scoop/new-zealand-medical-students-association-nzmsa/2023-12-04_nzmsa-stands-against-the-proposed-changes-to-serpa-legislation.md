@@ -1,9 +1,13 @@
 ---
 slug: nzmsa-stands-against-the-proposed-changes-to-serpa-legislation
-title: "NZMSA Stands Against The Proposed Changes To SERPA Legislation"
-date: 2023-12-04
-source-url: https://www.scoop.co.nz/stories/GE2312/S00007/nzmsa-stands-against-the-proposed-changes-to-serpa-legislation.htm
+title: NZMSA Stands Against The Proposed Changes To SERPA Legislation
+date: 2023-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2312/S00007/nzmsa-stands-against-the-proposed-changes-to-serpa-legislation.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2023/12/04/nzmsa-stands-against-the-proposed-changes-to-serpa-legislation/index.html
+layout: layout.njk
 ---
 NZMSA Stands Against The Proposed Changes To SERPA Legislation
 ==============================================================

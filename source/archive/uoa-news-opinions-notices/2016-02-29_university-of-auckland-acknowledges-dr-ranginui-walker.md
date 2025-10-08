@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-acknowledges-dr-ranginui-walker
-title: "University of Auckland acknowledges Dr Ranginui Walker"
-date: 2016-02-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/university-of-auckland-acknowledges-dr-ranginui-walker.html
+title: University of Auckland acknowledges Dr Ranginui Walker
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/university-of-auckland-acknowledges-dr-ranginui-walker.html
+permalink: >-
+  /archive/2016/02/29/university-of-auckland-acknowledges-dr-ranginui-walker/index.html
+layout: layout.njk
 ---
 University of Auckland acknowledges Dr Ranginui Walker
 ======================================================

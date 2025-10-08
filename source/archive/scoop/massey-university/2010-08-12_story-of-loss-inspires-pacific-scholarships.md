@@ -1,9 +1,12 @@
 ---
 slug: story-of-loss-inspires-pacific-scholarships
-title: "Story of loss inspires Pacific scholarships"
-date: 2010-08-12
-source-url: https://www.scoop.co.nz/stories/ED1008/S00048/story-of-loss-inspires-pacific-scholarships.htm
+title: Story of loss inspires Pacific scholarships
+date: 2010-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00048/story-of-loss-inspires-pacific-scholarships.htm
 author: massey-university
+permalink: /archive/2010/08/12/story-of-loss-inspires-pacific-scholarships/index.html
+layout: layout.njk
 ---
 Story of loss inspires Pacific scholarships
 ===========================================

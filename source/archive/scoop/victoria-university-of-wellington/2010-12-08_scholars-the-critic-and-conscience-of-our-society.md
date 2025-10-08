@@ -1,9 +1,13 @@
 ---
 slug: scholars-the-critic-and-conscience-of-our-society
-title: "Scholars: the critic and conscience of our society?"
-date: 2010-12-08
-source-url: https://www.scoop.co.nz/stories/ED1012/S00037/scholars-the-critic-and-conscience-of-our-society.htm
+title: 'Scholars: the critic and conscience of our society?'
+date: 2010-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00037/scholars-the-critic-and-conscience-of-our-society.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/08/scholars-the-critic-and-conscience-of-our-society/index.html
+layout: layout.njk
 ---
 Scholars: the critic and conscience of our society?
 ===================================================

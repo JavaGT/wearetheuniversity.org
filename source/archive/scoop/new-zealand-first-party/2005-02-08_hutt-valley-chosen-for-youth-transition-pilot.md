@@ -1,9 +1,12 @@
 ---
 slug: hutt-valley-chosen-for-youth-transition-pilot
-title: "Hutt Valley Chosen For Youth Transition Pilot"
-date: 2005-02-08
-source-url: https://www.scoop.co.nz/stories/AK0502/S00094/hutt-valley-chosen-for-youth-transition-pilot.htm
+title: Hutt Valley Chosen For Youth Transition Pilot
+date: 2005-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0502/S00094/hutt-valley-chosen-for-youth-transition-pilot.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/08/hutt-valley-chosen-for-youth-transition-pilot/index.html
+layout: layout.njk
 ---
 Hutt Valley Chosen For Youth Transition Pilot
 =============================================

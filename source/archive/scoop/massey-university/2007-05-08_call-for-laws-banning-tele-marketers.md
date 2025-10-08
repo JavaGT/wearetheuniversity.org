@@ -1,9 +1,12 @@
 ---
 slug: call-for-laws-banning-tele-marketers
-title: "Call for laws banning tele-marketers"
-date: 2007-05-08
-source-url: https://www.scoop.co.nz/stories/PO0705/S00126/call-for-laws-banning-tele-marketers.htm
+title: Call for laws banning tele-marketers
+date: 2007-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00126/call-for-laws-banning-tele-marketers.htm
 author: massey-university
+permalink: /archive/2007/05/08/call-for-laws-banning-tele-marketers/index.html
+layout: layout.njk
 ---
 Call for laws banning tele-marketers
 ====================================

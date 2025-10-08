@@ -1,9 +1,11 @@
 ---
 slug: anti-design-for-designers
-title: "Anti-design for designers"
-date: 2007-03-29
+title: Anti-design for designers
+date: 2007-03-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0703/S00112/anti-design-for-designers.htm
 author: massey-university
+permalink: /archive/2007/03/29/anti-design-for-designers/index.html
+layout: layout.njk
 ---
 Anti-design for designers
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: bill-englishs-speech-to-debate-pms-statement
-title: "Bill English's Speech To Debate - PM's Statement"
-date: 2002-02-13
-source-url: https://www.scoop.co.nz/stories/PA0202/S00153/bill-englishs-speech-to-debate-pms-statement.htm
+title: Bill English's Speech To Debate - PM's Statement
+date: 2002-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00153/bill-englishs-speech-to-debate-pms-statement.htm
 author: new-zealand-national-party
+permalink: /archive/2002/02/13/bill-englishs-speech-to-debate-pms-statement/index.html
+layout: layout.njk
 ---
 Bill English's Speech To Debate - PM's Statement
 ================================================

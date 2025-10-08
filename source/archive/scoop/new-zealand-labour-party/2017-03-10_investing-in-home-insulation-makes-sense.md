@@ -1,9 +1,12 @@
 ---
 slug: investing-in-home-insulation-makes-sense
-title: "Investing in home insulation makes sense"
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/PA1703/S00179/investing-in-home-insulation-makes-sense.htm
+title: Investing in home insulation makes sense
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00179/investing-in-home-insulation-makes-sense.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/10/investing-in-home-insulation-makes-sense/index.html
+layout: layout.njk
 ---
 Investing in home insulation makes sense
 ========================================

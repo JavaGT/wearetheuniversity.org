@@ -1,9 +1,13 @@
 ---
 slug: free-fares-petition-is-handed-over-at-parliament
-title: "Free Fares Petition Is Handed Over At Parliament"
-date: 2022-03-22
-source-url: https://www.scoop.co.nz/stories/AK2203/S00436/free-fares-petition-is-handed-over-at-parliament.htm
+title: Free Fares Petition Is Handed Over At Parliament
+date: 2022-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2203/S00436/free-fares-petition-is-handed-over-at-parliament.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/03/22/free-fares-petition-is-handed-over-at-parliament/index.html
+layout: layout.njk
 ---
 Free Fares Petition Is Handed Over At Parliament
 ================================================

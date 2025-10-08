@@ -1,9 +1,13 @@
 ---
 slug: otago-research-reveals-alarming-rise-of-obesity-in-nz
-title: "Otago research reveals alarming rise of obesity in NZ"
-date: 2018-07-05
-source-url: https://www.scoop.co.nz/stories/GE1807/S00024/otago-research-reveals-alarming-rise-of-obesity-in-nz.htm
+title: Otago research reveals alarming rise of obesity in NZ
+date: 2018-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00024/otago-research-reveals-alarming-rise-of-obesity-in-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/05/otago-research-reveals-alarming-rise-of-obesity-in-nz/index.html
+layout: layout.njk
 ---
 Otago research reveals alarming rise of obesity in NZ
 =====================================================

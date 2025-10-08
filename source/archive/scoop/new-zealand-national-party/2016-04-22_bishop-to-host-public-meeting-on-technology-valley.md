@@ -1,9 +1,13 @@
 ---
 slug: bishop-to-host-public-meeting-on-technology-valley
-title: "Bishop to host public meeting on Technology Valley"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00371/bishop-to-host-public-meeting-on-technology-valley.htm
+title: Bishop to host public meeting on Technology Valley
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00371/bishop-to-host-public-meeting-on-technology-valley.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/04/22/bishop-to-host-public-meeting-on-technology-valley/index.html
+layout: layout.njk
 ---
 Bishop to host public meeting on Technology Valley
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-speech-hopuhopu-chambers-ngaruawahia
-title: "Te Ururoa Flavell Speech: Hopuhopu Chambers, Ngaruawahia"
-date: 2011-04-29
-source-url: https://www.scoop.co.nz/stories/PA1104/S00522/te-ururoa-flavell-speech-hopuhopu-chambers-ngaruawahia.htm
+title: 'Te Ururoa Flavell Speech: Hopuhopu Chambers, Ngaruawahia'
+date: 2011-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00522/te-ururoa-flavell-speech-hopuhopu-chambers-ngaruawahia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/29/te-ururoa-flavell-speech-hopuhopu-chambers-ngaruawahia/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell Speech: Hopuhopu Chambers, Ngaruawahia
 ========================================================

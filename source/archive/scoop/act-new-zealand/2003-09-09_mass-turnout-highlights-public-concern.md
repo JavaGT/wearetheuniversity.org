@@ -1,9 +1,12 @@
 ---
 slug: mass-turnout-highlights-public-concern
-title: "Mass Turnout Highlights Public Concern"
-date: 2003-09-09
-source-url: https://www.scoop.co.nz/stories/PA0309/S00165/mass-turnout-highlights-public-concern.htm
+title: Mass Turnout Highlights Public Concern
+date: 2003-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00165/mass-turnout-highlights-public-concern.htm
 author: act-new-zealand
+permalink: /archive/2003/09/09/mass-turnout-highlights-public-concern/index.html
+layout: layout.njk
 ---
 Mass Turnout Highlights Public Concern
 ======================================

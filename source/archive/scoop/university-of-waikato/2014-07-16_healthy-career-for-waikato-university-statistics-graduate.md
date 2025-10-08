@@ -1,9 +1,13 @@
 ---
 slug: healthy-career-for-waikato-university-statistics-graduate
-title: "Healthy career for Waikato University statistics graduate"
-date: 2014-07-16
-source-url: https://www.scoop.co.nz/stories/ED1407/S00082/healthy-career-for-waikato-university-statistics-graduate.htm
+title: Healthy career for Waikato University statistics graduate
+date: 2014-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00082/healthy-career-for-waikato-university-statistics-graduate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/07/16/healthy-career-for-waikato-university-statistics-graduate/index.html
+layout: layout.njk
 ---
 Healthy career for Waikato University statistics graduate
 =========================================================

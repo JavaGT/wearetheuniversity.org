@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorates-for-chemist-diaspora-expert
-title: "Honorary Doctorates for chemist, diaspora expert"
-date: 2010-02-23
-source-url: https://www.scoop.co.nz/stories/ED1002/S00083/honorary-doctorates-for-chemist-diaspora-expert.htm
+title: Honorary Doctorates for chemist, diaspora expert
+date: 2010-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00083/honorary-doctorates-for-chemist-diaspora-expert.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/23/honorary-doctorates-for-chemist-diaspora-expert/index.html
+layout: layout.njk
 ---
 Honorary Doctorates for chemist, diaspora expert
 ================================================

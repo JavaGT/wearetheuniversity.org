@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-47
-title: "TEU Tertiary Update Vol 13 No 47"
-date: 2010-12-09
-source-url: https://www.scoop.co.nz/stories/ED1012/S00040/teu-tertiary-update-vol-13-no-47.htm
+title: TEU Tertiary Update Vol 13 No 47
+date: 2010-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00040/teu-tertiary-update-vol-13-no-47.htm
 author: association-of-university-staff
+permalink: /archive/2010/12/09/teu-tertiary-update-vol-13-no-47/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 47
 ================================

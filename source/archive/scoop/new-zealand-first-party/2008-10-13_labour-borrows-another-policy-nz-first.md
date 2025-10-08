@@ -1,9 +1,12 @@
 ---
 slug: labour-borrows-another-policy-nz-first
-title: "Labour Borrows Another Policy – NZ First"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/PA0810/S00285/labour-borrows-another-policy-nz-first.htm
+title: Labour Borrows Another Policy – NZ First
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00285/labour-borrows-another-policy-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/13/labour-borrows-another-policy-nz-first/index.html
+layout: layout.njk
 ---
 Labour Borrows Another Policy – NZ First
 ========================================

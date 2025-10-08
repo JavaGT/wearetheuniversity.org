@@ -1,8 +1,11 @@
 ---
 slug: fathers-can-get-new-baby-depression-too
-title: "Fathers can get new baby depression too"
-date: 2017-02-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/new-fathers-can-get-new-baby-depression-too.html
+title: Fathers can get new baby depression too
+date: 2017-02-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/02/new-fathers-can-get-new-baby-depression-too.html
+permalink: /archive/2017/02/17/fathers-can-get-new-baby-depression-too/index.html
+layout: layout.njk
 ---
 Fathers can get new baby depression too
 =======================================

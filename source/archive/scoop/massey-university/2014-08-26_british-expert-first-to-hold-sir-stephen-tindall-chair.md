@@ -1,9 +1,13 @@
 ---
 slug: british-expert-first-to-hold-sir-stephen-tindall-chair
-title: "British expert first to hold Sir Stephen Tindall chair"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/ED1408/S00139/british-expert-first-to-hold-sir-stephen-tindall-chair.htm
+title: British expert first to hold Sir Stephen Tindall chair
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00139/british-expert-first-to-hold-sir-stephen-tindall-chair.htm
 author: massey-university
+permalink: >-
+  /archive/2014/08/26/british-expert-first-to-hold-sir-stephen-tindall-chair/index.html
+layout: layout.njk
 ---
 British expert first to hold Sir Stephen Tindall chair
 ======================================================

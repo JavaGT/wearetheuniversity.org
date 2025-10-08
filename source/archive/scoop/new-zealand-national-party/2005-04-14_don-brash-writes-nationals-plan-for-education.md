@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-nationals-plan-for-education
-title: "Don Brash Writes:  National's Plan for Education"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/PA0504/S00328/don-brash-writes-nationals-plan-for-education.htm
+title: 'Don Brash Writes:  National''s Plan for Education'
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00328/don-brash-writes-nationals-plan-for-education.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/14/don-brash-writes-nationals-plan-for-education/index.html
+layout: layout.njk
 ---
 Don Brash Writes: National's Plan for Education
 ===============================================

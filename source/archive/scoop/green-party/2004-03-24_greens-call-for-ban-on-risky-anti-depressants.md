@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-ban-on-risky-anti-depressants
-title: "Greens call for ban on risky anti-depressants"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PA0403/S00509/greens-call-for-ban-on-risky-anti-depressants.htm
+title: Greens call for ban on risky anti-depressants
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00509/greens-call-for-ban-on-risky-anti-depressants.htm
 author: green-party
+permalink: /archive/2004/03/24/greens-call-for-ban-on-risky-anti-depressants/index.html
+layout: layout.njk
 ---
 Greens call for ban on risky anti-depressants
 =============================================

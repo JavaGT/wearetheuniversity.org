@@ -1,9 +1,12 @@
 ---
 slug: elderly-care-horror-stories-cant-be-ignored
-title: "Elderly care horror stories can’t be ignored"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/PA1209/S00391/elderly-care-horror-stories-cant-be-ignored.htm
+title: Elderly care horror stories can’t be ignored
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00391/elderly-care-horror-stories-cant-be-ignored.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/26/elderly-care-horror-stories-cant-be-ignored/index.html
+layout: layout.njk
 ---
 Elderly care horror stories can’t be ignored
 ============================================

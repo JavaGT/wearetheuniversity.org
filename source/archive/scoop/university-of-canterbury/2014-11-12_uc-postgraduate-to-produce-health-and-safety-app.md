@@ -1,9 +1,13 @@
 ---
 slug: uc-postgraduate-to-produce-health-and-safety-app
-title: "UC postgraduate to produce health and safety app"
-date: 2014-11-12
-source-url: https://www.scoop.co.nz/stories/ED1411/S00076/uc-postgraduate-to-produce-health-and-safety-app.htm
+title: UC postgraduate to produce health and safety app
+date: 2014-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00076/uc-postgraduate-to-produce-health-and-safety-app.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/12/uc-postgraduate-to-produce-health-and-safety-app/index.html
+layout: layout.njk
 ---
 UC postgraduate to produce health and safety app
 ================================================

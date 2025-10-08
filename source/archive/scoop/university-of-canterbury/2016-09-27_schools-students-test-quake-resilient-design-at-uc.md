@@ -1,9 +1,13 @@
 ---
 slug: schools-students-test-quake-resilient-design-at-uc
-title: "Schools students test quake resilient design at UC"
-date: 2016-09-27
-source-url: https://www.scoop.co.nz/stories/ED1609/S00136/schools-students-test-quake-resilient-design-at-uc.htm
+title: Schools students test quake resilient design at UC
+date: 2016-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00136/schools-students-test-quake-resilient-design-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/09/27/schools-students-test-quake-resilient-design-at-uc/index.html
+layout: layout.njk
 ---
 Schools students test quake resilient design at UC
 ==================================================

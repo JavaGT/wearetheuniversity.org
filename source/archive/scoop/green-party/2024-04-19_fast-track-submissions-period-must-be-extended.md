@@ -1,9 +1,12 @@
 ---
 slug: fast-track-submissions-period-must-be-extended
-title: "Fast-track Submissions Period Must Be Extended"
-date: 2024-04-19
-source-url: https://www.scoop.co.nz/stories/PA2404/S00122/fast-track-submissions-period-must-be-extended.htm
+title: Fast-track Submissions Period Must Be Extended
+date: 2024-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00122/fast-track-submissions-period-must-be-extended.htm
 author: green-party
+permalink: /archive/2024/04/19/fast-track-submissions-period-must-be-extended/index.html
+layout: layout.njk
 ---
 Fast-track Submissions Period Must Be Extended
 ==============================================

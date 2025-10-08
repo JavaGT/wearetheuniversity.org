@@ -1,9 +1,13 @@
 ---
 slug: university-re-elects-chancellor-and-pro-chancellor
-title: "University re-elects Chancellor and Pro-Chancellor"
-date: 2015-11-30
-source-url: https://www.scoop.co.nz/stories/ED1511/S00139/university-re-elects-chancellor-and-pro-chancellor.htm
+title: University re-elects Chancellor and Pro-Chancellor
+date: 2015-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00139/university-re-elects-chancellor-and-pro-chancellor.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/30/university-re-elects-chancellor-and-pro-chancellor/index.html
+layout: layout.njk
 ---
 University re-elects Chancellor and Pro-Chancellor
 ==================================================

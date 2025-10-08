@@ -1,9 +1,12 @@
 ---
 slug: women-still-sporting-underdogs
-title: "Women still sporting underdogs"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/CU1108/S00295/women-still-sporting-underdogs.htm
+title: Women still sporting underdogs
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00295/women-still-sporting-underdogs.htm
 author: university-of-waikato
+permalink: /archive/2011/08/18/women-still-sporting-underdogs/index.html
+layout: layout.njk
 ---
 Women still sporting underdogs
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: government-ignores-concerns-about-deep-sea-drilling
-title: "Government ignores concerns about deep sea drilling"
-date: 2015-03-30
-source-url: https://www.scoop.co.nz/stories/PA1503/S00427/government-ignores-concerns-about-deep-sea-drilling.htm
+title: Government ignores concerns about deep sea drilling
+date: 2015-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00427/government-ignores-concerns-about-deep-sea-drilling.htm
 author: green-party
+permalink: >-
+  /archive/2015/03/30/government-ignores-concerns-about-deep-sea-drilling/index.html
+layout: layout.njk
 ---
 Government ignores concerns about deep sea drilling
 ===================================================

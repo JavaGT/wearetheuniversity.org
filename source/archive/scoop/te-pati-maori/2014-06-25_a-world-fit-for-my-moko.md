@@ -1,9 +1,11 @@
 ---
 slug: a-world-fit-for-my-moko
-title: "'A world fit for my moko'"
-date: 2014-06-25
+title: '''A world fit for my moko'''
+date: 2014-06-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1406/S00376/a-world-fit-for-my-moko.htm
 author: te-pati-maori
+permalink: /archive/2014/06/25/a-world-fit-for-my-moko/index.html
+layout: layout.njk
 ---
 'A world fit for my moko'
 =========================

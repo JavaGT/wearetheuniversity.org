@@ -1,9 +1,12 @@
 ---
 slug: national-will-deliver-world-class-education
-title: "National Will Deliver World-class Education"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/PA2303/S00197/national-will-deliver-world-class-education.htm
+title: National Will Deliver World-class Education
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00197/national-will-deliver-world-class-education.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/23/national-will-deliver-world-class-education/index.html
+layout: layout.njk
 ---
 National Will Deliver World-class Education
 ===========================================

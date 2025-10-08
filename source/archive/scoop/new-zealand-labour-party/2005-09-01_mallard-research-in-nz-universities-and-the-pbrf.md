@@ -1,9 +1,13 @@
 ---
 slug: mallard-research-in-nz-universities-and-the-pbrf
-title: "Mallard: Research in NZ Universities and the PBRF"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00012/mallard-research-in-nz-universities-and-the-pbrf.htm
+title: 'Mallard: Research in NZ Universities and the PBRF'
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00012/mallard-research-in-nz-universities-and-the-pbrf.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/09/01/mallard-research-in-nz-universities-and-the-pbrf/index.html
+layout: layout.njk
 ---
 Mallard: Research in NZ Universities and the PBRF
 =================================================

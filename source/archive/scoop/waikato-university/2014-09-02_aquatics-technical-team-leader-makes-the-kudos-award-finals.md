@@ -1,9 +1,13 @@
 ---
 slug: aquatics-technical-team-leader-makes-the-kudos-award-finals
-title: "Aquatics Technical Team Leader makes the KuDos Award finals"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/SC1409/S00005/aquatics-technical-team-leader-makes-the-kudos-award-finals.htm
+title: Aquatics Technical Team Leader makes the KuDos Award finals
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00005/aquatics-technical-team-leader-makes-the-kudos-award-finals.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/09/02/aquatics-technical-team-leader-makes-the-kudos-award-finals/index.html
+layout: layout.njk
 ---
 Aquatics Technical Team Leader makes the KuDos Award finals
 ===========================================================

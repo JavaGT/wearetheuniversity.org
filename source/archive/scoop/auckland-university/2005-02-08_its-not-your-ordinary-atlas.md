@@ -1,9 +1,11 @@
 ---
 slug: its-not-your-ordinary-atlas
-title: "It's not your ordinary atlas"
-date: 2005-02-08
+title: It's not your ordinary atlas
+date: 2005-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0502/S00030/its-not-your-ordinary-atlas.htm
 author: auckland-university
+permalink: /archive/2005/02/08/its-not-your-ordinary-atlas/index.html
+layout: layout.njk
 ---
 It's not your ordinary atlas
 ============================

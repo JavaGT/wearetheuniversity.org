@@ -1,9 +1,13 @@
 ---
 slug: household-crowding-key-cause-of-hospital-admissions
-title: "Household crowding key cause of hospital admissions"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/SC1306/S00018/household-crowding-key-cause-of-hospital-admissions.htm
+title: Household crowding key cause of hospital admissions
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00018/household-crowding-key-cause-of-hospital-admissions.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/06/07/household-crowding-key-cause-of-hospital-admissions/index.html
+layout: layout.njk
 ---
 Household crowding key cause of hospital admissions
 ===================================================

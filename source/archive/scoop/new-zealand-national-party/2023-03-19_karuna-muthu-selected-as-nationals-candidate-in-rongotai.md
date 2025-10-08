@@ -1,9 +1,13 @@
 ---
 slug: karuna-muthu-selected-as-nationals-candidate-in-rongotai
-title: "Karuna Muthu Selected As National’s Candidate In Rongotai"
-date: 2023-03-19
-source-url: https://www.scoop.co.nz/stories/PA2303/S00162/karuna-muthu-selected-as-nationals-candidate-in-rongotai.htm
+title: Karuna Muthu Selected As National’s Candidate In Rongotai
+date: 2023-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00162/karuna-muthu-selected-as-nationals-candidate-in-rongotai.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/19/karuna-muthu-selected-as-nationals-candidate-in-rongotai/index.html
+layout: layout.njk
 ---
 Karuna Muthu Selected As National’s Candidate In Rongotai
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: simpson-grierson-presents-environmental-law-prize
-title: "Simpson Grierson Presents Environmental Law Prize"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/ED1009/S00114/simpson-grierson-presents-environmental-law-prize.htm
+title: Simpson Grierson Presents Environmental Law Prize
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00114/simpson-grierson-presents-environmental-law-prize.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/09/23/simpson-grierson-presents-environmental-law-prize/index.html
+layout: layout.njk
 ---
 Simpson Grierson Presents Environmental Law Prize
 =================================================

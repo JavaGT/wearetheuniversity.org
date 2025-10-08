@@ -1,9 +1,12 @@
 ---
 slug: govt-agencies-boycott-leaky-homes-symposium
-title: "Govt agencies boycott leaky homes symposium"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/PA0507/S00344/govt-agencies-boycott-leaky-homes-symposium.htm
+title: Govt agencies boycott leaky homes symposium
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00344/govt-agencies-boycott-leaky-homes-symposium.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/18/govt-agencies-boycott-leaky-homes-symposium/index.html
+layout: layout.njk
 ---
 Govt agencies boycott leaky homes symposium
 ===========================================

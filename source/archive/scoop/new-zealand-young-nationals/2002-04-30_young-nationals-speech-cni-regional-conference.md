@@ -1,9 +1,12 @@
 ---
 slug: young-nationals-speech-cni-regional-conference
-title: "Young Nationals Speech CNI Regional Conference"
-date: 2002-04-30
-source-url: https://www.scoop.co.nz/stories/PO0204/S00207/young-nationals-speech-cni-regional-conference.htm
+title: Young Nationals Speech CNI Regional Conference
+date: 2002-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0204/S00207/young-nationals-speech-cni-regional-conference.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/04/30/young-nationals-speech-cni-regional-conference/index.html
+layout: layout.njk
 ---
 Young Nationals Speech CNI Regional Conference
 ==============================================

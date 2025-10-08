@@ -1,9 +1,12 @@
 ---
 slug: award-for-waikato-agricultural-economist
-title: "Award for Waikato agricultural economist"
-date: 2010-02-24
-source-url: https://www.scoop.co.nz/stories/ED1002/S00089/award-for-waikato-agricultural-economist.htm
+title: Award for Waikato agricultural economist
+date: 2010-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00089/award-for-waikato-agricultural-economist.htm
 author: waikato-university
+permalink: /archive/2010/02/24/award-for-waikato-agricultural-economist/index.html
+layout: layout.njk
 ---
 Award for Waikato agricultural economist
 ========================================

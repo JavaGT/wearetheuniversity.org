@@ -1,9 +1,12 @@
 ---
 slug: labours-inquiries-reviews-and-investigations
-title: "Labour's Inquiries, Reviews and Investigations"
-date: 2000-01-18
-source-url: https://www.scoop.co.nz/stories/PA0001/S00040/labours-inquiries-reviews-and-investigations.htm
+title: Labour's Inquiries, Reviews and Investigations
+date: 2000-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00040/labours-inquiries-reviews-and-investigations.htm
 author: new-zealand-national-party
+permalink: /archive/2000/01/18/labours-inquiries-reviews-and-investigations/index.html
+layout: layout.njk
 ---
 Labour's Inquiries, Reviews and Investigations
 ==============================================

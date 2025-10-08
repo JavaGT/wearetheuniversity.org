@@ -1,9 +1,12 @@
 ---
 slug: experience-futuristic-technology
-title: "Experience futuristic technology"
-date: 2005-09-08
-source-url: https://www.scoop.co.nz/stories/SC0509/S00013/experience-futuristic-technology.htm
+title: Experience futuristic technology
+date: 2005-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0509/S00013/experience-futuristic-technology.htm
 author: university-of-canterbury
+permalink: /archive/2005/09/08/experience-futuristic-technology/index.html
+layout: layout.njk
 ---
 Experience futuristic technology
 ================================

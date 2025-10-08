@@ -1,9 +1,12 @@
 ---
 slug: govt-must-recognise-palestine-now
-title: "Govt Must Recognise Palestine Now"
-date: 2024-06-12
-source-url: https://www.scoop.co.nz/stories/PA2406/S00068/govt-must-recognise-palestine-now.htm
+title: Govt Must Recognise Palestine Now
+date: 2024-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00068/govt-must-recognise-palestine-now.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/06/12/govt-must-recognise-palestine-now/index.html
+layout: layout.njk
 ---
 Govt Must Recognise Palestine Now
 =================================

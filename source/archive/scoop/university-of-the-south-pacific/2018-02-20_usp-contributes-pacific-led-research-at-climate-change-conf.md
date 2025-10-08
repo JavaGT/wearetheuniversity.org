@@ -1,9 +1,13 @@
 ---
 slug: usp-contributes-pacific-led-research-at-climate-change-conf
-title: "USP Contributes Pacific-led Research at Climate Change Conf"
-date: 2018-02-20
-source-url: https://www.scoop.co.nz/stories/WO1802/S00170/usp-contributes-pacific-led-research-at-climate-change-conf.htm
+title: USP Contributes Pacific-led Research at Climate Change Conf
+date: 2018-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1802/S00170/usp-contributes-pacific-led-research-at-climate-change-conf.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2018/02/20/usp-contributes-pacific-led-research-at-climate-change-conf/index.html
+layout: layout.njk
 ---
 USP Contributes Pacific-led Research at Climate Change Conf
 ===========================================================

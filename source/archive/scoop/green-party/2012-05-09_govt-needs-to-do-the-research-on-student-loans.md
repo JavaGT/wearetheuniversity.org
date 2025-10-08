@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-do-the-research-on-student-loans
-title: "Govt needs to do the research on student loans"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/PA1205/S00147/govt-needs-to-do-the-research-on-student-loans.htm
+title: Govt needs to do the research on student loans
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00147/govt-needs-to-do-the-research-on-student-loans.htm
 author: green-party
+permalink: /archive/2012/05/09/govt-needs-to-do-the-research-on-student-loans/index.html
+layout: layout.njk
 ---
 Govt needs to do the research on student loans
 ==============================================

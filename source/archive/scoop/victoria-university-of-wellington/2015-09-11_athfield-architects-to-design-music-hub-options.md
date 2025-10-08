@@ -1,9 +1,12 @@
 ---
 slug: athfield-architects-to-design-music-hub-options
-title: "Athfield Architects to design music hub options"
-date: 2015-09-11
-source-url: https://www.scoop.co.nz/stories/ED1509/S00070/athfield-architects-to-design-music-hub-options.htm
+title: Athfield Architects to design music hub options
+date: 2015-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00070/athfield-architects-to-design-music-hub-options.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/09/11/athfield-architects-to-design-music-hub-options/index.html
+layout: layout.njk
 ---
 Athfield Architects to design music hub options
 ===============================================

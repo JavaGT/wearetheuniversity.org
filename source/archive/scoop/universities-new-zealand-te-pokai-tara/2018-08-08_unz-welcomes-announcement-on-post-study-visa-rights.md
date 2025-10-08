@@ -1,9 +1,13 @@
 ---
 slug: unz-welcomes-announcement-on-post-study-visa-rights
-title: "UNZ welcomes announcement on post-study visa rights"
-date: 2018-08-08
-source-url: https://www.scoop.co.nz/stories/ED1808/S00020/unz-welcomes-announcement-on-post-study-visa-rights.htm
+title: UNZ welcomes announcement on post-study visa rights
+date: 2018-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00020/unz-welcomes-announcement-on-post-study-visa-rights.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2018/08/08/unz-welcomes-announcement-on-post-study-visa-rights/index.html
+layout: layout.njk
 ---
 UNZ welcomes announcement on post-study visa rights
 ===================================================

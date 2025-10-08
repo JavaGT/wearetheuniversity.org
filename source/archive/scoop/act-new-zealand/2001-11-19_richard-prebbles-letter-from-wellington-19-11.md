@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-letter-from-wellington-19-11
-title: "Richard Prebble's Letter from Wellington – 19/11"
-date: 2001-11-19
-source-url: https://www.scoop.co.nz/stories/PA0111/S00331/richard-prebbles-letter-from-wellington-1911.htm
+title: Richard Prebble's Letter from Wellington – 19/11
+date: 2001-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00331/richard-prebbles-letter-from-wellington-1911.htm
 author: act-new-zealand
+permalink: /archive/2001/11/19/richard-prebbles-letter-from-wellington-19-11/index.html
+layout: layout.njk
 ---
 Richard Prebble's Letter from Wellington – 19/11
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: the-future-of-golf-is-here
-title: "The Future of Golf is here"
-date: 2006-02-22
+title: The Future of Golf is here
+date: 2006-02-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0602/S00055/the-future-of-golf-is-here.htm
 author: aut-university
+permalink: /archive/2006/02/22/the-future-of-golf-is-here/index.html
+layout: layout.njk
 ---
 The Future of Golf is here
 ==========================

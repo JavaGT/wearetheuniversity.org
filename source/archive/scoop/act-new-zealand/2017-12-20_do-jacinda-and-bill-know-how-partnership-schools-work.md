@@ -1,9 +1,13 @@
 ---
 slug: do-jacinda-and-bill-know-how-partnership-schools-work
-title: "Do Jacinda and Bill Know How Partnership Schools Work?"
-date: 2017-12-20
-source-url: https://www.scoop.co.nz/stories/PA1712/S00231/do-jacinda-and-bill-know-how-partnership-schools-work.htm
+title: Do Jacinda and Bill Know How Partnership Schools Work?
+date: 2017-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00231/do-jacinda-and-bill-know-how-partnership-schools-work.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/12/20/do-jacinda-and-bill-know-how-partnership-schools-work/index.html
+layout: layout.njk
 ---
 Do Jacinda and Bill Know How Partnership Schools Work?
 ======================================================

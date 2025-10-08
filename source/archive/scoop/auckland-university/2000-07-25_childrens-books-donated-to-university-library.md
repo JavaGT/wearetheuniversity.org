@@ -1,9 +1,12 @@
 ---
 slug: childrens-books-donated-to-university-library
-title: "Children's Books Donated To University Library"
-date: 2000-07-25
-source-url: https://www.scoop.co.nz/stories/ED0007/S00032/childrens-books-donated-to-university-library.htm
+title: Children's Books Donated To University Library
+date: 2000-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00032/childrens-books-donated-to-university-library.htm
 author: auckland-university
+permalink: /archive/2000/07/25/childrens-books-donated-to-university-library/index.html
+layout: layout.njk
 ---
 Children's Books Donated To University Library
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: snails-hold-key-to-evolutionary-theory
-title: "Snails hold key to evolutionary theory"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/SC1211/S00004/snails-hold-key-to-evolutionary-theory.htm
+title: Snails hold key to evolutionary theory
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00004/snails-hold-key-to-evolutionary-theory.htm
 author: massey-university
+permalink: /archive/2012/11/01/snails-hold-key-to-evolutionary-theory/index.html
+layout: layout.njk
 ---
 Snails hold key to evolutionary theory
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: do-in-work-tax-credits-provide-health-benefits-for-parents
-title: "Do in-work tax credits provide health benefits for parents?"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/ED1308/S00031/do-in-work-tax-credits-provide-health-benefits-for-parents.htm
+title: Do in-work tax credits provide health benefits for parents?
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00031/do-in-work-tax-credits-provide-health-benefits-for-parents.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/08/do-in-work-tax-credits-provide-health-benefits-for-parents/index.html
+layout: layout.njk
 ---
 Do in-work tax credits provide health benefits for parents?
 ===========================================================

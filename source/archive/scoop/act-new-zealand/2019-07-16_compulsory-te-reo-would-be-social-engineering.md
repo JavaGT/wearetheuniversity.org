@@ -1,9 +1,12 @@
 ---
 slug: compulsory-te-reo-would-be-social-engineering
-title: "Compulsory te reo would be social engineering"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/PA1907/S00121/compulsory-te-reo-would-be-social-engineering.htm
+title: Compulsory te reo would be social engineering
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00121/compulsory-te-reo-would-be-social-engineering.htm
 author: act-new-zealand
+permalink: /archive/2019/07/16/compulsory-te-reo-would-be-social-engineering/index.html
+layout: layout.njk
 ---
 Compulsory te reo would be social engineering
 =============================================

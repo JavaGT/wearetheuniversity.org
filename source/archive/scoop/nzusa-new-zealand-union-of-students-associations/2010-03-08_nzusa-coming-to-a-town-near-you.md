@@ -1,9 +1,12 @@
 ---
 slug: nzusa-coming-to-a-town-near-you
-title: "NZUSA...coming to a town near you"
-date: 2010-03-08
-source-url: https://www.scoop.co.nz/stories/PO1003/S00115/nzusacoming-to-a-town-near-you.htm
+title: NZUSA...coming to a town near you
+date: 2010-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00115/nzusacoming-to-a-town-near-you.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/03/08/nzusa-coming-to-a-town-near-you/index.html
+layout: layout.njk
 ---
 NZUSA...coming to a town near you
 =================================

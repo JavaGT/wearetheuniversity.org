@@ -1,9 +1,13 @@
 ---
 slug: avon-river-expected-to-be-feature-of-a-world-best-city-park
-title: "Avon River expected to be feature of a world-best city park"
-date: 2013-08-28
-source-url: https://www.scoop.co.nz/stories/AK1308/S00803/avon-river-expected-to-be-feature-of-a-world-best-city-park.htm
+title: Avon River expected to be feature of a world-best city park
+date: 2013-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00803/avon-river-expected-to-be-feature-of-a-world-best-city-park.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/28/avon-river-expected-to-be-feature-of-a-world-best-city-park/index.html
+layout: layout.njk
 ---
 Avon River expected to be feature of a world-best city park
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: rural-roads-dangerously-underfunded
-title: "Rural roads dangerously underfunded"
-date: 2015-06-12
-source-url: https://www.scoop.co.nz/stories/PA1506/S00209/rural-roads-dangerously-underfunded.htm
+title: Rural roads dangerously underfunded
+date: 2015-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00209/rural-roads-dangerously-underfunded.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/12/rural-roads-dangerously-underfunded/index.html
+layout: layout.njk
 ---
 Rural roads dangerously underfunded
 ===================================

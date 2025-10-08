@@ -1,9 +1,11 @@
 ---
 slug: peters-patriots-or-traitors
-title: "Peters: Patriots or Traitors?"
-date: 2011-06-01
+title: 'Peters: Patriots or Traitors?'
+date: 2011-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1106/S00007/peters-patriots-or-traitors.htm
 author: new-zealand-first-party
+permalink: /archive/2011/06/01/peters-patriots-or-traitors/index.html
+layout: layout.njk
 ---
 Peters: Patriots or Traitors?
 =============================

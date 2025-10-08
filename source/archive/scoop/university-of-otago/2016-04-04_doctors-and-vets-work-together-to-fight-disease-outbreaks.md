@@ -1,9 +1,13 @@
 ---
 slug: doctors-and-vets-work-together-to-fight-disease-outbreaks
-title: "Doctors and vets work together to fight disease outbreaks"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/GE1604/S00011/doctors-and-vets-work-together-to-fight-disease-outbreaks.htm
+title: Doctors and vets work together to fight disease outbreaks
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00011/doctors-and-vets-work-together-to-fight-disease-outbreaks.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/04/doctors-and-vets-work-together-to-fight-disease-outbreaks/index.html
+layout: layout.njk
 ---
 Doctors and vets work together to fight disease outbreaks
 =========================================================

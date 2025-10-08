@@ -1,9 +1,12 @@
 ---
 slug: otago-gains-$27-6m-in-govt-funding-for-innovation
-title: "Otago gains $27.6m in Govt funding for innovation"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/ED1209/S00091/otago-gains-276m-in-govt-funding-for-innovation.htm
+title: Otago gains $27.6m in Govt funding for innovation
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00091/otago-gains-276m-in-govt-funding-for-innovation.htm
 author: university-of-otago
+permalink: /archive/2012/09/12/otago-gains-/index.html
+layout: layout.njk
 ---
 Otago gains $27.6m in Govt funding for innovation
 =================================================

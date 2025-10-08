@@ -1,9 +1,12 @@
 ---
 slug: private-detectives-cash-in-on-labours-failure
-title: "Private detectives cash in on Labour’s failure"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/PA0604/S00088/private-detectives-cash-in-on-labours-failure.htm
+title: Private detectives cash in on Labour’s failure
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00088/private-detectives-cash-in-on-labours-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/05/private-detectives-cash-in-on-labours-failure/index.html
+layout: layout.njk
 ---
 Private detectives cash in on Labour’s failure
 ==============================================

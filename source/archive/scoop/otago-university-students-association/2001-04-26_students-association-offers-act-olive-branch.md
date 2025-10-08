@@ -1,9 +1,12 @@
 ---
 slug: students-association-offers-act-olive-branch
-title: "Students’ Association Offers ACT Olive Branch"
-date: 2001-04-26
-source-url: https://www.scoop.co.nz/stories/PO0104/S00081/students-association-offers-act-olive-branch.htm
+title: Students’ Association Offers ACT Olive Branch
+date: 2001-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0104/S00081/students-association-offers-act-olive-branch.htm
 author: otago-university-students-association
+permalink: /archive/2001/04/26/students-association-offers-act-olive-branch/index.html
+layout: layout.njk
 ---
 Students’ Association Offers ACT Olive Branch
 =============================================

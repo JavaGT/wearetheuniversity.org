@@ -1,9 +1,12 @@
 ---
 slug: ctu-critical-of-hard-line-bus-company
-title: "CTU critical of hard-line bus company"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/PO0809/S00397/ctu-critical-of-hard-line-bus-company.htm
+title: CTU critical of hard-line bus company
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00397/ctu-critical-of-hard-line-bus-company.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/09/26/ctu-critical-of-hard-line-bus-company/index.html
+layout: layout.njk
 ---
 CTU critical of hard-line bus company
 =====================================

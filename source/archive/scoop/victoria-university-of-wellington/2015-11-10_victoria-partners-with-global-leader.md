@@ -1,9 +1,12 @@
 ---
 slug: victoria-partners-with-global-leader
-title: "Victoria partners with global leader"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/ED1511/S00056/victoria-partners-with-global-leader.htm
+title: Victoria partners with global leader
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00056/victoria-partners-with-global-leader.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/11/10/victoria-partners-with-global-leader/index.html
+layout: layout.njk
 ---
 Victoria partners with global leader
 ====================================

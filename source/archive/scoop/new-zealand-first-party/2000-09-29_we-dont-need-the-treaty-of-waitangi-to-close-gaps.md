@@ -1,9 +1,13 @@
 ---
 slug: we-dont-need-the-treaty-of-waitangi-to-close-gaps
-title: "We Don’t Need The Treaty Of Waitangi To Close Gaps"
-date: 2000-09-29
-source-url: https://www.scoop.co.nz/stories/PA0009/S00482/we-dont-need-the-treaty-of-waitangi-to-close-gaps.htm
+title: We Don’t Need The Treaty Of Waitangi To Close Gaps
+date: 2000-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00482/we-dont-need-the-treaty-of-waitangi-to-close-gaps.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2000/09/29/we-dont-need-the-treaty-of-waitangi-to-close-gaps/index.html
+layout: layout.njk
 ---
 We Don’t Need The Treaty Of Waitangi To Close Gaps
 ==================================================

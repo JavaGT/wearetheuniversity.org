@@ -1,9 +1,13 @@
 ---
 slug: experts-propose-framework-for-royal-commission-into-abuse
-title: "Experts propose framework for Royal Commission into abuse"
-date: 2018-01-17
-source-url: https://www.scoop.co.nz/stories/PO1801/S00044/experts-propose-framework-for-royal-commission-into-abuse.htm
+title: Experts propose framework for Royal Commission into abuse
+date: 2018-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1801/S00044/experts-propose-framework-for-royal-commission-into-abuse.htm
 author: auckland-university
+permalink: >-
+  /archive/2018/01/17/experts-propose-framework-for-royal-commission-into-abuse/index.html
+layout: layout.njk
 ---
 Experts propose framework for Royal Commission into abuse
 =========================================================

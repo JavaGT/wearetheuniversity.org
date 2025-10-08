@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-dr-ranginui-walker-(1932-2016)
-title: "Poroporoaki: Dr Ranginui Walker (1932-2016)"
-date: 2016-02-29
-source-url: https://www.scoop.co.nz/stories/PA1602/S00435/poroporoaki-dr-ranginui-walker-1932-2016.htm
+title: 'Poroporoaki: Dr Ranginui Walker (1932-2016)'
+date: 2016-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00435/poroporoaki-dr-ranginui-walker-1932-2016.htm
 author: te-pati-maori
+permalink: /archive/2016/02/29/poroporoaki-dr-ranginui-walker-/index.html
+layout: layout.njk
 ---
 Poroporoaki: Dr Ranginui Walker (1932-2016)
 ===========================================

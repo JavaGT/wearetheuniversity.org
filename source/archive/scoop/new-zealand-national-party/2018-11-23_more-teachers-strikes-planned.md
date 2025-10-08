@@ -1,9 +1,12 @@
 ---
 slug: more-teachers-strikes-planned
-title: "More teachers’ strikes planned"
-date: 2018-11-23
-source-url: https://www.scoop.co.nz/stories/PA1811/S00246/more-teachers-strikes-planned.htm
+title: More teachers’ strikes planned
+date: 2018-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00246/more-teachers-strikes-planned.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/23/more-teachers-strikes-planned/index.html
+layout: layout.njk
 ---
 More teachers’ strikes planned
 ==============================

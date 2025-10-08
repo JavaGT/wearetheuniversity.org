@@ -1,9 +1,13 @@
 ---
 slug: budget-day-elective-surgery-announcement-a-farce
-title: "Budget Day elective surgery announcement a farce"
-date: 2010-07-12
-source-url: https://www.scoop.co.nz/stories/PA1007/S00182/budget-day-elective-surgery-announcement-a-farce.htm
+title: Budget Day elective surgery announcement a farce
+date: 2010-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00182/budget-day-elective-surgery-announcement-a-farce.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/12/budget-day-elective-surgery-announcement-a-farce/index.html
+layout: layout.njk
 ---
 Budget Day elective surgery announcement a farce
 ================================================

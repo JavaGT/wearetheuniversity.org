@@ -1,9 +1,11 @@
 ---
 slug: are-you-a-short-sleeper
-title: "Are you a short sleeper?"
-date: 2017-05-02
+title: Are you a short sleeper?
+date: 2017-05-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1705/S00015/are-you-a-short-sleeper.htm
 author: massey-university
+permalink: /archive/2017/05/02/are-you-a-short-sleeper/index.html
+layout: layout.njk
 ---
 Are you a short sleeper?
 ========================

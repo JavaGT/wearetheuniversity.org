@@ -1,9 +1,12 @@
 ---
 slug: govt-tertiary-plans-kneejerk-labour
-title: "Govt. tertiary plans 'kneejerk' - Labour"
-date: 1999-08-12
-source-url: https://www.scoop.co.nz/stories/PO9908/S00024/govt-tertiary-plans-kneejerk-labour.htm
+title: Govt. tertiary plans 'kneejerk' - Labour
+date: 1999-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9908/S00024/govt-tertiary-plans-kneejerk-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/12/govt-tertiary-plans-kneejerk-labour/index.html
+layout: layout.njk
 ---
 Govt. tertiary plans 'kneejerk' - Labour
 ========================================

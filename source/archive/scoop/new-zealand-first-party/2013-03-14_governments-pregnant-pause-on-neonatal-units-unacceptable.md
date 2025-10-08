@@ -1,9 +1,13 @@
 ---
 slug: governments-pregnant-pause-on-neonatal-units-unacceptable
-title: "Government’s Pregnant Pause on Neonatal Units Unacceptable"
-date: 2013-03-14
-source-url: https://www.scoop.co.nz/stories/PA1303/S00250/governments-pregnant-pause-on-neonatal-units-unacceptable.htm
+title: Government’s Pregnant Pause on Neonatal Units Unacceptable
+date: 2013-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00250/governments-pregnant-pause-on-neonatal-units-unacceptable.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/14/governments-pregnant-pause-on-neonatal-units-unacceptable/index.html
+layout: layout.njk
 ---
 Government’s Pregnant Pause on Neonatal Units Unacceptable
 ==========================================================

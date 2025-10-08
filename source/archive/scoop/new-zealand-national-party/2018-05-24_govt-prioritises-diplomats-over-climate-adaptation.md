@@ -1,9 +1,13 @@
 ---
 slug: govt-prioritises-diplomats-over-climate-adaptation
-title: "Govt prioritises diplomats over climate adaptation"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/PA1805/S00337/govt-prioritises-diplomats-over-climate-adaptation.htm
+title: Govt prioritises diplomats over climate adaptation
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00337/govt-prioritises-diplomats-over-climate-adaptation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/05/24/govt-prioritises-diplomats-over-climate-adaptation/index.html
+layout: layout.njk
 ---
 Govt prioritises diplomats over climate adaptation
 ==================================================

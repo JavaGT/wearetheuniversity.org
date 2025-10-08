@@ -1,9 +1,12 @@
 ---
 slug: christchurch-schools-need-comprehensive-plan
-title: "Christchurch Schools Need Comprehensive Plan"
-date: 2012-05-13
-source-url: https://www.scoop.co.nz/stories/PA1205/S00222/christchurch-schools-need-comprehensive-plan.htm
+title: Christchurch Schools Need Comprehensive Plan
+date: 2012-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00222/christchurch-schools-need-comprehensive-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/13/christchurch-schools-need-comprehensive-plan/index.html
+layout: layout.njk
 ---
 Christchurch Schools Need Comprehensive Plan
 ============================================

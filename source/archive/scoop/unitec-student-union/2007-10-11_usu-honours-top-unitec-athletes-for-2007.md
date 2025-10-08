@@ -1,9 +1,12 @@
 ---
 slug: usu-honours-top-unitec-athletes-for-2007
-title: "USU Honours Top Unitec Athletes for 2007"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/CU0710/S00134/usu-honours-top-unitec-athletes-for-2007.htm
+title: USU Honours Top Unitec Athletes for 2007
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00134/usu-honours-top-unitec-athletes-for-2007.htm
 author: unitec-student-union
+permalink: /archive/2007/10/11/usu-honours-top-unitec-athletes-for-2007/index.html
+layout: layout.njk
 ---
 USU Honours Top Unitec Athletes for 2007
 ========================================

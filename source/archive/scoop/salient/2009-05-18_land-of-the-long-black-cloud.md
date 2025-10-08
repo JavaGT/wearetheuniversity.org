@@ -1,9 +1,11 @@
 ---
 slug: land-of-the-long-black-cloud
-title: "Land of the Long Black Cloud"
-date: 2009-05-18
+title: Land of the Long Black Cloud
+date: 2009-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0905/S00132/land-of-the-long-black-cloud.htm
 author: salient
+permalink: /archive/2009/05/18/land-of-the-long-black-cloud/index.html
+layout: layout.njk
 ---
 Land of the Long Black Cloud
 ============================

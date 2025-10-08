@@ -1,9 +1,12 @@
 ---
 slug: new-centre-for-multi-disciplinary-cancer-care
-title: "New Centre For Multi-Disciplinary Cancer Care"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/GE0512/S00060/new-centre-for-multi-disciplinary-cancer-care.htm
+title: New Centre For Multi-Disciplinary Cancer Care
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0512/S00060/new-centre-for-multi-disciplinary-cancer-care.htm
 author: university-of-otago
+permalink: /archive/2005/12/16/new-centre-for-multi-disciplinary-cancer-care/index.html
+layout: layout.njk
 ---
 New Centre For Multi-Disciplinary Cancer Care
 =============================================

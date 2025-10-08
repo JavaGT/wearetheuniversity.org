@@ -1,9 +1,12 @@
 ---
 slug: visiting-expert-to-help-drug-addicts
-title: "Visiting expert to help drug addicts"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/GE1307/S00049/visiting-expert-to-help-drug-addicts.htm
+title: Visiting expert to help drug addicts
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00049/visiting-expert-to-help-drug-addicts.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/09/visiting-expert-to-help-drug-addicts/index.html
+layout: layout.njk
 ---
 Visiting expert to help drug addicts
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: playing-politics-with-refugees
-title: "Playing Politics With Refugees"
-date: 2002-05-09
-source-url: https://www.scoop.co.nz/stories/PA0205/S00185/playing-politics-with-refugees.htm
+title: Playing Politics With Refugees
+date: 2002-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00185/playing-politics-with-refugees.htm
 author: act-new-zealand
+permalink: /archive/2002/05/09/playing-politics-with-refugees/index.html
+layout: layout.njk
 ---
 Playing Politics With Refugees
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: tppa-poll-shows-kiwis-dont-buy-the-govts-spin
-title: "TPPA poll shows Kiwis don’t buy the Govt’s spin"
-date: 2015-11-22
-source-url: https://www.scoop.co.nz/stories/PA1511/S00410/tppa-poll-shows-kiwis-dont-buy-the-govts-spin.htm
+title: TPPA poll shows Kiwis don’t buy the Govt’s spin
+date: 2015-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00410/tppa-poll-shows-kiwis-dont-buy-the-govts-spin.htm
 author: green-party
+permalink: /archive/2015/11/22/tppa-poll-shows-kiwis-dont-buy-the-govts-spin/index.html
+layout: layout.njk
 ---
 TPPA poll shows Kiwis don’t buy the Govt’s spin
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: aut-rises-in-global-impact-rankings
-title: "AUT Rises In Global Impact Rankings"
-date: 2022-04-28
-source-url: https://www.scoop.co.nz/stories/ED2204/S00022/aut-rises-in-global-impact-rankings.htm
+title: AUT Rises In Global Impact Rankings
+date: 2022-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00022/aut-rises-in-global-impact-rankings.htm
 author: aut-university
+permalink: /archive/2022/04/28/aut-rises-in-global-impact-rankings/index.html
+layout: layout.njk
 ---
 AUT Rises In Global Impact Rankings
 ===================================

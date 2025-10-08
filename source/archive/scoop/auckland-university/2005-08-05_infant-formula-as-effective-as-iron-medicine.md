@@ -1,9 +1,12 @@
 ---
 slug: infant-formula-as-effective-as-iron-medicine
-title: "Infant formula as effective as iron medicine"
-date: 2005-08-05
-source-url: https://www.scoop.co.nz/stories/SC0508/S00027/infant-formula-as-effective-as-iron-medicine.htm
+title: Infant formula as effective as iron medicine
+date: 2005-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0508/S00027/infant-formula-as-effective-as-iron-medicine.htm
 author: auckland-university
+permalink: /archive/2005/08/05/infant-formula-as-effective-as-iron-medicine/index.html
+layout: layout.njk
 ---
 Infant formula as effective as iron medicine
 ============================================

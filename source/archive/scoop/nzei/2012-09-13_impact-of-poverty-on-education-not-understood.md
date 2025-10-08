@@ -1,9 +1,12 @@
 ---
 slug: impact-of-poverty-on-education-not-understood
-title: "Impact of poverty on education not understood"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/ED1209/S00099/impact-of-poverty-on-education-not-understood.htm
+title: Impact of poverty on education not understood
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00099/impact-of-poverty-on-education-not-understood.htm
 author: nzei
+permalink: /archive/2012/09/13/impact-of-poverty-on-education-not-understood/index.html
+layout: layout.njk
 ---
 Impact of poverty on education not understood
 =============================================

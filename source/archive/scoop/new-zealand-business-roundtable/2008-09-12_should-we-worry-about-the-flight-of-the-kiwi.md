@@ -1,9 +1,12 @@
 ---
 slug: should-we-worry-about-the-flight-of-the-kiwi
-title: "Should We Worry About the Flight of the Kiwi?"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/BU0809/S00271/should-we-worry-about-the-flight-of-the-kiwi.htm
+title: Should We Worry About the Flight of the Kiwi?
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0809/S00271/should-we-worry-about-the-flight-of-the-kiwi.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/09/12/should-we-worry-about-the-flight-of-the-kiwi/index.html
+layout: layout.njk
 ---
 Should We Worry About the Flight of the Kiwi?
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-to-lead-the-world-in-sustainable-energy
-title: "New Zealand to lead the world in sustainable energy"
-date: 2012-12-04
-source-url: https://www.scoop.co.nz/stories/PO1212/S00024/new-zealand-to-lead-the-world-in-sustainable-energy.htm
+title: New Zealand to lead the world in sustainable energy
+date: 2012-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1212/S00024/new-zealand-to-lead-the-world-in-sustainable-energy.htm
 author: massey-university
+permalink: >-
+  /archive/2012/12/04/new-zealand-to-lead-the-world-in-sustainable-energy/index.html
+layout: layout.njk
 ---
 New Zealand to lead the world in sustainable energy
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-reforms-a-rats-nest-of-uncertainty
-title: "Tertiary reforms a rat's nest of uncertainty"
-date: 2007-08-23
-source-url: https://www.scoop.co.nz/stories/PA0708/S00406/tertiary-reforms-a-rats-nest-of-uncertainty.htm
+title: Tertiary reforms a rat's nest of uncertainty
+date: 2007-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00406/tertiary-reforms-a-rats-nest-of-uncertainty.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/23/tertiary-reforms-a-rats-nest-of-uncertainty/index.html
+layout: layout.njk
 ---
 Tertiary reforms a rat's nest of uncertainty
 ============================================

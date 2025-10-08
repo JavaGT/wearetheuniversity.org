@@ -1,9 +1,13 @@
 ---
 slug: former-uc-student-made-a-fellow-of-the-royal-society
-title: "Former UC student made a Fellow of the Royal Society"
-date: 2013-05-21
-source-url: https://www.scoop.co.nz/stories/SC1305/S00064/former-uc-student-made-a-fellow-of-the-royal-society.htm
+title: Former UC student made a Fellow of the Royal Society
+date: 2013-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00064/former-uc-student-made-a-fellow-of-the-royal-society.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/21/former-uc-student-made-a-fellow-of-the-royal-society/index.html
+layout: layout.njk
 ---
 Former UC student made a Fellow of the Royal Society
 ====================================================

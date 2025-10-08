@@ -1,9 +1,12 @@
 ---
 slug: measuring-uncertainty-in-the-sea
-title: "Measuring uncertainty in the sea"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/SC1512/S00008/measuring-uncertainty-in-the-sea.htm
+title: Measuring uncertainty in the sea
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00008/measuring-uncertainty-in-the-sea.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/12/02/measuring-uncertainty-in-the-sea/index.html
+layout: layout.njk
 ---
 Measuring uncertainty in the sea
 ================================

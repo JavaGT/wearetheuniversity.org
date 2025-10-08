@@ -1,9 +1,13 @@
 ---
 slug: uc-alumnus-helps-save-historic-quake-damaged-telscope
-title: "UC Alumnus helps save historic quake-damaged telscope"
-date: 2015-10-01
-source-url: https://www.scoop.co.nz/stories/ED1510/S00001/uc-alumnus-helps-save-historic-quake-damaged-telscope.htm
+title: UC Alumnus helps save historic quake-damaged telscope
+date: 2015-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00001/uc-alumnus-helps-save-historic-quake-damaged-telscope.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/10/01/uc-alumnus-helps-save-historic-quake-damaged-telscope/index.html
+layout: layout.njk
 ---
 UC Alumnus helps save historic quake-damaged telscope
 =====================================================

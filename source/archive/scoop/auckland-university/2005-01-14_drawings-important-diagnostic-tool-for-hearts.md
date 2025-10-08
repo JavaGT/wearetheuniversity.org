@@ -1,9 +1,12 @@
 ---
 slug: drawings-important-diagnostic-tool-for-hearts
-title: "Drawings Important Diagnostic Tool for Hearts"
-date: 2005-01-14
-source-url: https://www.scoop.co.nz/stories/GE0501/S00017/drawings-important-diagnostic-tool-for-hearts.htm
+title: Drawings Important Diagnostic Tool for Hearts
+date: 2005-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0501/S00017/drawings-important-diagnostic-tool-for-hearts.htm
 author: auckland-university
+permalink: /archive/2005/01/14/drawings-important-diagnostic-tool-for-hearts/index.html
+layout: layout.njk
 ---
 Drawings Important Diagnostic Tool for Hearts
 =============================================

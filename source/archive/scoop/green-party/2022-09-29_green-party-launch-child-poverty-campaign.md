@@ -1,9 +1,12 @@
 ---
 slug: green-party-launch-child-poverty-campaign
-title: "Green Party Launch Child Poverty Campaign"
-date: 2022-09-29
-source-url: https://www.scoop.co.nz/stories/PA2209/S00167/green-party-launch-child-poverty-campaign.htm
+title: Green Party Launch Child Poverty Campaign
+date: 2022-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00167/green-party-launch-child-poverty-campaign.htm
 author: green-party
+permalink: /archive/2022/09/29/green-party-launch-child-poverty-campaign/index.html
+layout: layout.njk
 ---
 Green Party Launch Child Poverty Campaign
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: 2000-canterbury-university-students-graduate
-title: "2000 Canterbury University students graduate"
-date: 2007-04-23
-source-url: https://www.scoop.co.nz/stories/ED0704/S00078/2000-canterbury-university-students-graduate.htm
+title: 2000 Canterbury University students graduate
+date: 2007-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00078/2000-canterbury-university-students-graduate.htm
 author: university-of-canterbury
+permalink: /archive/2007/04/23/2000-canterbury-university-students-graduate/index.html
+layout: layout.njk
 ---
 2000 Canterbury University students graduate
 ============================================

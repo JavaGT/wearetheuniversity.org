@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-boosts-scholarship-for-māori-and-pacific-students
-title: "University Of Canterbury Boosts Scholarship For Māori And Pacific Students"
-date: 2021-08-05
-source-url: https://www.scoop.co.nz/stories/ED2108/S00008/university-of-canterbury-boosts-scholarship-for-maori-and-pacific-students.htm
+title: University Of Canterbury Boosts Scholarship For Māori And Pacific Students
+date: 2021-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00008/university-of-canterbury-boosts-scholarship-for-maori-and-pacific-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/08/05/university-of-canterbury-boosts-scholarship-for-m/index.html
+layout: layout.njk
 ---
 University Of Canterbury Boosts Scholarship For Māori And Pacific Students
 ==========================================================================

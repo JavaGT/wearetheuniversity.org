@@ -1,9 +1,13 @@
 ---
 slug: real-and-practical-support-for-blue-chip-victims
-title: "Real And Practical Support For Blue Chip Victims"
-date: 2008-10-31
-source-url: https://www.scoop.co.nz/stories/PO0810/S00540/real-and-practical-support-for-blue-chip-victims.htm
+title: Real And Practical Support For Blue Chip Victims
+date: 2008-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00540/real-and-practical-support-for-blue-chip-victims.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2008/10/31/real-and-practical-support-for-blue-chip-victims/index.html
+layout: layout.njk
 ---
 Real And Practical Support For Blue Chip Victims
 ================================================

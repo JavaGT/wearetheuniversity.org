@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-teaching-excellence-recognised
-title: "University of Auckland teaching excellence recognised"
-date: 2019-10-09
-source-url: https://www.scoop.co.nz/stories/ED1910/S00018/university-of-auckland-teaching-excellence-recognised.htm
+title: University of Auckland teaching excellence recognised
+date: 2019-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00018/university-of-auckland-teaching-excellence-recognised.htm
 author: auckland-university
+permalink: >-
+  /archive/2019/10/09/university-of-auckland-teaching-excellence-recognised/index.html
+layout: layout.njk
 ---
 University of Auckland teaching excellence recognised
 =====================================================

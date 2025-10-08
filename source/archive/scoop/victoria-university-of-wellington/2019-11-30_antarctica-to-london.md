@@ -1,9 +1,11 @@
 ---
 slug: antarctica-to-london
-title: "Antarctica to London"
-date: 2019-11-30
+title: Antarctica to London
+date: 2019-11-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1911/S00076/antarctica-to-london.htm
 author: victoria-university-of-wellington
+permalink: /archive/2019/11/30/antarctica-to-london/index.html
+layout: layout.njk
 ---
 Antarctica to London
 ====================

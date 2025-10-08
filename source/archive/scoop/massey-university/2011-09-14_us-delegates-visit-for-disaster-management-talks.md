@@ -1,9 +1,13 @@
 ---
 slug: us-delegates-visit-for-disaster-management-talks
-title: "US delegates visit for disaster management talks"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/ED1109/S00047/us-delegates-visit-for-disaster-management-talks.htm
+title: US delegates visit for disaster management talks
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00047/us-delegates-visit-for-disaster-management-talks.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/14/us-delegates-visit-for-disaster-management-talks/index.html
+layout: layout.njk
 ---
 US delegates visit for disaster management talks
 ================================================

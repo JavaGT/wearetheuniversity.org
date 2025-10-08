@@ -1,9 +1,12 @@
 ---
 slug: experts-labours-housing-change-a-renters-tax
-title: "Experts: Labour’s Housing Change A Renter’s Tax"
-date: 2021-04-13
-source-url: https://www.scoop.co.nz/stories/PA2104/S00076/experts-labours-housing-change-a-renters-tax.htm
+title: 'Experts: Labour’s Housing Change A Renter’s Tax'
+date: 2021-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00076/experts-labours-housing-change-a-renters-tax.htm
 author: act-new-zealand
+permalink: /archive/2021/04/13/experts-labours-housing-change-a-renters-tax/index.html
+layout: layout.njk
 ---
 Experts: Labour’s Housing Change A Renter’s Tax
 ===============================================

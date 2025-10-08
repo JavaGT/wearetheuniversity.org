@@ -1,9 +1,12 @@
 ---
 slug: people-take-bridge-in-historic-harbour-crossing
-title: "People take bridge in historic harbour crossing"
-date: 2009-05-24
-source-url: https://www.scoop.co.nz/stories/PA0905/S00415/people-take-bridge-in-historic-harbour-crossing.htm
+title: People take bridge in historic harbour crossing
+date: 2009-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00415/people-take-bridge-in-historic-harbour-crossing.htm
 author: green-party
+permalink: /archive/2009/05/24/people-take-bridge-in-historic-harbour-crossing/index.html
+layout: layout.njk
 ---
 People take bridge in historic harbour crossing
 ===============================================

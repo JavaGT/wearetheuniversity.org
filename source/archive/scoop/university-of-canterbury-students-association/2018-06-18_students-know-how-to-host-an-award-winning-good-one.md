@@ -1,9 +1,13 @@
 ---
 slug: students-know-how-to-host-an-award-winning-good-one
-title: "Students know how to host an award-winning Good One"
-date: 2018-06-18
-source-url: https://www.scoop.co.nz/stories/CU1806/S00182/students-know-how-to-host-an-award-winning-good-one.htm
+title: Students know how to host an award-winning Good One
+date: 2018-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1806/S00182/students-know-how-to-host-an-award-winning-good-one.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2018/06/18/students-know-how-to-host-an-award-winning-good-one/index.html
+layout: layout.njk
 ---
 Students know how to host an award-winning Good One
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-kiwis-than-ever-will-have-an-aussie-xmas
-title: "More Kiwis than ever will have an Aussie Xmas"
-date: 2011-12-21
-source-url: https://www.scoop.co.nz/stories/PA1112/S00157/more-kiwis-than-ever-will-have-an-aussie-xmas.htm
+title: More Kiwis than ever will have an Aussie Xmas
+date: 2011-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00157/more-kiwis-than-ever-will-have-an-aussie-xmas.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/21/more-kiwis-than-ever-will-have-an-aussie-xmas/index.html
+layout: layout.njk
 ---
 More Kiwis than ever will have an Aussie Xmas
 =============================================

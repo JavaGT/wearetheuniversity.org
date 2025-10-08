@@ -1,9 +1,13 @@
 ---
 slug: institute-of-education-hosts-delegation-from-thai-government
-title: "Institute of Education hosts delegation from Thai Government"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/ED1411/S00027/institute-of-education-hosts-delegation-from-thai-government.htm
+title: Institute of Education hosts delegation from Thai Government
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00027/institute-of-education-hosts-delegation-from-thai-government.htm
 author: massey-university
+permalink: >-
+  /archive/2014/11/05/institute-of-education-hosts-delegation-from-thai-government/index.html
+layout: layout.njk
 ---
 Institute of Education hosts delegation from Thai Government
 ============================================================

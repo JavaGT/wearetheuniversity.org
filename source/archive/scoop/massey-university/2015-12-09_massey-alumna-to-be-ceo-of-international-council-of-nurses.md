@@ -1,9 +1,13 @@
 ---
 slug: massey-alumna-to-be-ceo-of-international-council-of-nurses
-title: "Massey alumna to be CEO of International Council of Nurses"
-date: 2015-12-09
-source-url: https://www.scoop.co.nz/stories/ED1512/S00040/massey-alumna-to-be-ceo-of-international-council-of-nurses.htm
+title: Massey alumna to be CEO of International Council of Nurses
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00040/massey-alumna-to-be-ceo-of-international-council-of-nurses.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/09/massey-alumna-to-be-ceo-of-international-council-of-nurses/index.html
+layout: layout.njk
 ---
 Massey alumna to be CEO of International Council of Nurses
 ==========================================================

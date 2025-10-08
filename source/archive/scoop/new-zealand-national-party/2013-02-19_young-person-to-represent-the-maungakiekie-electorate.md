@@ -1,9 +1,13 @@
 ---
 slug: young-person-to-represent-the-maungakiekie-electorate
-title: "Young person to represent the Maungakiekie Electorate"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/PA1302/S00268/young-person-to-represent-the-maungakiekie-electorate.htm
+title: Young person to represent the Maungakiekie Electorate
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00268/young-person-to-represent-the-maungakiekie-electorate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2013/02/19/young-person-to-represent-the-maungakiekie-electorate/index.html
+layout: layout.njk
 ---
 Young person to represent the Maungakiekie Electorate
 =====================================================

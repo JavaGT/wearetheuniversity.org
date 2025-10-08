@@ -1,9 +1,12 @@
 ---
 slug: budget-reality-only-1-3%-more-to-universities
-title: "Budget Reality - Only 1.3% More To Universities"
-date: 2002-05-24
-source-url: https://www.scoop.co.nz/stories/PA0205/S00591/budget-reality-only-13-more-to-universities.htm
+title: Budget Reality - Only 1.3% More To Universities
+date: 2002-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00591/budget-reality-only-13-more-to-universities.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/24/budget-reality-only-1-3/index.html
+layout: layout.njk
 ---
 Budget Reality - Only 1.3% More To Universities
 ===============================================

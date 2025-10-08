@@ -1,9 +1,12 @@
 ---
 slug: alumni-public-relations-hall-of-fame
-title: "Alumni public relations Hall of Fame"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/ED0703/S00028/alumni-public-relations-hall-of-fame.htm
+title: Alumni public relations Hall of Fame
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00028/alumni-public-relations-hall-of-fame.htm
 author: aut-university
+permalink: /archive/2007/03/09/alumni-public-relations-hall-of-fame/index.html
+layout: layout.njk
 ---
 Alumni public relations Hall of Fame
 ====================================

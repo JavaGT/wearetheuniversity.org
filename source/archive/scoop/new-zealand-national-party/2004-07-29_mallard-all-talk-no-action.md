@@ -1,9 +1,11 @@
 ---
 slug: mallard-all-talk-no-action
-title: "Mallard all talk, no action"
-date: 2004-07-29
+title: Mallard all talk, no action
+date: 2004-07-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00501/mallard-all-talk-no-action.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/29/mallard-all-talk-no-action/index.html
+layout: layout.njk
 ---
 Mallard all talk, no action
 ===========================

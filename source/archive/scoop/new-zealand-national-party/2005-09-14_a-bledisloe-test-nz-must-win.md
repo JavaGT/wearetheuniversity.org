@@ -1,9 +1,11 @@
 ---
 slug: a-bledisloe-test-nz-must-win
-title: "A Bledisloe test NZ must win"
-date: 2005-09-14
+title: A Bledisloe test NZ must win
+date: 2005-09-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00369/a-bledisloe-test-nz-must-win.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/14/a-bledisloe-test-nz-must-win/index.html
+layout: layout.njk
 ---
 A Bledisloe test NZ must win
 ============================

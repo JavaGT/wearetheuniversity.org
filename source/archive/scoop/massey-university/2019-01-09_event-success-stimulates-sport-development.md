@@ -1,9 +1,12 @@
 ---
 slug: event-success-stimulates-sport-development
-title: "Event success stimulates sport development"
-date: 2019-01-09
-source-url: https://www.scoop.co.nz/stories/CU1901/S00025/event-success-stimulates-sport-development.htm
+title: Event success stimulates sport development
+date: 2019-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1901/S00025/event-success-stimulates-sport-development.htm
 author: massey-university
+permalink: /archive/2019/01/09/event-success-stimulates-sport-development/index.html
+layout: layout.njk
 ---
 Event success stimulates sport development
 ==========================================

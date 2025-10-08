@@ -1,9 +1,12 @@
 ---
 slug: bala-beeram-nationals-candidate-in-kelston
-title: "Bala Beeram National’s Candidate In Kelston"
-date: 2020-06-19
-source-url: https://www.scoop.co.nz/stories/PA2006/S00190/bala-beeram-nationals-candidate-in-kelston.htm
+title: Bala Beeram National’s Candidate In Kelston
+date: 2020-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00190/bala-beeram-nationals-candidate-in-kelston.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/19/bala-beeram-nationals-candidate-in-kelston/index.html
+layout: layout.njk
 ---
 Bala Beeram National’s Candidate In Kelston
 ===========================================

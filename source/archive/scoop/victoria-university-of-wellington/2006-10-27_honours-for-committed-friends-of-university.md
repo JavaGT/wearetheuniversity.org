@@ -1,9 +1,12 @@
 ---
 slug: honours-for-committed-friends-of-university
-title: "Honours for committed friends of University"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/AK0610/S00272/honours-for-committed-friends-of-university.htm
+title: Honours for committed friends of University
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0610/S00272/honours-for-committed-friends-of-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/27/honours-for-committed-friends-of-university/index.html
+layout: layout.njk
 ---
 Honours for committed friends of University
 ===========================================

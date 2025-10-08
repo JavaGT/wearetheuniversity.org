@@ -1,9 +1,12 @@
 ---
 slug: computer-human-interaction-conference-in-nz
-title: "Computer-Human Interaction conference in NZ"
-date: 2003-10-23
-source-url: https://www.scoop.co.nz/stories/SC0310/S00087/computer-human-interaction-conference-in-nz.htm
+title: Computer-Human Interaction conference in NZ
+date: 2003-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0310/S00087/computer-human-interaction-conference-in-nz.htm
 author: waikato-university
+permalink: /archive/2003/10/23/computer-human-interaction-conference-in-nz/index.html
+layout: layout.njk
 ---
 Computer-Human Interaction conference in NZ
 ===========================================

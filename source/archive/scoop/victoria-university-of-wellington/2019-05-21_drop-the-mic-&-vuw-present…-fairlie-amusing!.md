@@ -1,9 +1,12 @@
 ---
 slug: drop-the-mic-&-vuw-present…-fairlie-amusing!
-title: "Drop The Mic & VUW Present… Fairlie Amusing!"
-date: 2019-05-21
-source-url: https://www.scoop.co.nz/stories/CU1905/S00237/drop-the-mic-vuw-present-fairlie-amusing.htm
+title: Drop The Mic & VUW Present… Fairlie Amusing!
+date: 2019-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1905/S00237/drop-the-mic-vuw-present-fairlie-amusing.htm
 author: victoria-university-of-wellington
+permalink: /archive/2019/05/21/drop-the-mic-/index.html
+layout: layout.njk
 ---
 Drop The Mic & VUW Present… Fairlie Amusing!
 ============================================

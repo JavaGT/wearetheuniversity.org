@@ -1,9 +1,13 @@
 ---
 slug: falling-consents-adding-to-auckland-housing-woes
-title: "Falling consents adding to Auckland housing woes"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/PA1506/S00550/falling-consents-adding-to-auckland-housing-woes.htm
+title: Falling consents adding to Auckland housing woes
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00550/falling-consents-adding-to-auckland-housing-woes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/06/30/falling-consents-adding-to-auckland-housing-woes/index.html
+layout: layout.njk
 ---
 Falling consents adding to Auckland housing woes
 ================================================

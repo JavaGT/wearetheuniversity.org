@@ -1,9 +1,13 @@
 ---
 slug: molecular-discovery-paves-way-for-new-diabetic-treatments
-title: "Molecular discovery paves way for new diabetic treatments"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/SC1508/S00022/molecular-discovery-paves-way-for-new-diabetic-treatments.htm
+title: Molecular discovery paves way for new diabetic treatments
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00022/molecular-discovery-paves-way-for-new-diabetic-treatments.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/12/molecular-discovery-paves-way-for-new-diabetic-treatments/index.html
+layout: layout.njk
 ---
 Molecular discovery paves way for new diabetic treatments
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzei-backs-calls-for-action-on-child-poverty
-title: "NZEI backs calls for action on child poverty"
-date: 2015-05-20
-source-url: https://www.scoop.co.nz/stories/PO1505/S00233/nzei-backs-calls-for-action-on-child-poverty.htm
+title: NZEI backs calls for action on child poverty
+date: 2015-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00233/nzei-backs-calls-for-action-on-child-poverty.htm
 author: nzei
+permalink: /archive/2015/05/20/nzei-backs-calls-for-action-on-child-poverty/index.html
+layout: layout.njk
 ---
 NZEI backs calls for action on child poverty
 ============================================

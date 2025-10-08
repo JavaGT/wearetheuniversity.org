@@ -1,9 +1,13 @@
 ---
 slug: puppetry-mask-and-the-serious-laugh-by-jacob-rajan
-title: "Puppetry, Mask and the Serious Laugh by Jacob Rajan"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/CU1408/S00448/puppetry-mask-and-the-serious-laugh-by-jacob-rajan.htm
+title: Puppetry, Mask and the Serious Laugh by Jacob Rajan
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00448/puppetry-mask-and-the-serious-laugh-by-jacob-rajan.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/26/puppetry-mask-and-the-serious-laugh-by-jacob-rajan/index.html
+layout: layout.njk
 ---
 Puppetry, Mask and the Serious Laugh by Jacob Rajan
 ===================================================

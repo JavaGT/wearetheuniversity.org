@@ -1,9 +1,12 @@
 ---
 slug: new-general-secretary-for-aus
-title: "New General Secretary for AUS"
-date: 2002-03-21
-source-url: https://www.scoop.co.nz/stories/ED0203/S00045/new-general-secretary-for-aus.htm
+title: New General Secretary for AUS
+date: 2002-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00045/new-general-secretary-for-aus.htm
 author: association-of-university-staff
+permalink: /archive/2002/03/21/new-general-secretary-for-aus/index.html
+layout: layout.njk
 ---
 New General Secretary for AUS
 =============================

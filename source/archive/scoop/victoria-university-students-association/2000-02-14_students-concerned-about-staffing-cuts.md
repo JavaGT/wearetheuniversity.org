@@ -1,9 +1,12 @@
 ---
 slug: students-concerned-about-staffing-cuts
-title: "Students Concerned About Staffing Cuts"
-date: 2000-02-14
-source-url: https://www.scoop.co.nz/stories/ED0002/S00014/students-concerned-about-staffing-cuts.htm
+title: Students Concerned About Staffing Cuts
+date: 2000-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00014/students-concerned-about-staffing-cuts.htm
 author: victoria-university-students-association
+permalink: /archive/2000/02/14/students-concerned-about-staffing-cuts/index.html
+layout: layout.njk
 ---
 Students Concerned About Staffing Cuts
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: governments-last-chance-to-save-biosecurity-jobs
-title: "Government’s last chance to save biosecurity jobs"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/PA0908/S00215/governments-last-chance-to-save-biosecurity-jobs.htm
+title: Government’s last chance to save biosecurity jobs
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00215/governments-last-chance-to-save-biosecurity-jobs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/08/17/governments-last-chance-to-save-biosecurity-jobs/index.html
+layout: layout.njk
 ---
 Government’s last chance to save biosecurity jobs
 =================================================

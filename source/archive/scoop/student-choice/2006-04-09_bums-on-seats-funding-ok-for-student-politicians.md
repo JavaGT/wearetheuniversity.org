@@ -1,9 +1,13 @@
 ---
 slug: bums-on-seats-funding-ok-for-student-politicians
-title: "Bums-on-seats funding ok for student politicians"
-date: 2006-04-09
-source-url: https://www.scoop.co.nz/stories/ED0604/S00031/bums-on-seats-funding-ok-for-student-politicians.htm
+title: Bums-on-seats funding ok for student politicians
+date: 2006-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00031/bums-on-seats-funding-ok-for-student-politicians.htm
 author: student-choice
+permalink: >-
+  /archive/2006/04/09/bums-on-seats-funding-ok-for-student-politicians/index.html
+layout: layout.njk
 ---
 Bums-on-seats funding ok for student politicians
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: little-appetite-for-major-changes-to-nz-tax-system
-title: "Little Appetite for Major Changes to NZ Tax System"
-date: 2010-05-10
-source-url: https://www.scoop.co.nz/stories/PO1005/S00081/little-appetite-for-major-changes-to-nz-tax-system.htm
+title: Little Appetite for Major Changes to NZ Tax System
+date: 2010-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00081/little-appetite-for-major-changes-to-nz-tax-system.htm
 author: maxim-institute
+permalink: >-
+  /archive/2010/05/10/little-appetite-for-major-changes-to-nz-tax-system/index.html
+layout: layout.njk
 ---
 Little Appetite for Major Changes to NZ Tax System
 ==================================================

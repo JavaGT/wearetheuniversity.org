@@ -1,9 +1,12 @@
 ---
 slug: uc-research-into-attitudes-to-defence-work
-title: "UC research into attitudes to defence work"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/ED1211/S00185/uc-research-into-attitudes-to-defence-work.htm
+title: UC research into attitudes to defence work
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00185/uc-research-into-attitudes-to-defence-work.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/26/uc-research-into-attitudes-to-defence-work/index.html
+layout: layout.njk
 ---
 UC research into attitudes to defence work
 ==========================================

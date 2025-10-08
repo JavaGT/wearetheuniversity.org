@@ -1,9 +1,13 @@
 ---
 slug: speech-2009-10-financial-review-of-the-ministry-of-education
-title: "Speech:2009/10 Financial Review of the Ministry of Education"
-date: 2011-03-22
-source-url: https://www.scoop.co.nz/stories/PA1103/S00362/speech200910-financial-review-of-the-ministry-of-education.htm
+title: Speech:2009/10 Financial Review of the Ministry of Education
+date: 2011-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00362/speech200910-financial-review-of-the-ministry-of-education.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/22/speech-2009-10-financial-review-of-the-ministry-of-education/index.html
+layout: layout.njk
 ---
 Speech:2009/10 Financial Review of the Ministry of Education
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: facing-up-to-pest-invasions-a-new-reality
-title: "Facing up to pest invasions: A new reality"
-date: 2015-03-16
-source-url: https://www.scoop.co.nz/stories/PO1503/S00180/facing-up-to-pest-invasions-a-new-reality.htm
+title: 'Facing up to pest invasions: A new reality'
+date: 2015-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00180/facing-up-to-pest-invasions-a-new-reality.htm
 author: lincoln-university
+permalink: /archive/2015/03/16/facing-up-to-pest-invasions-a-new-reality/index.html
+layout: layout.njk
 ---
 Facing up to pest invasions: A new reality
 ==========================================

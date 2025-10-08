@@ -1,9 +1,13 @@
 ---
 slug: otago-station-sale-a-case-of-one-law-for-rich-foreigners
-title: "Otago Station Sale a Case of One Law for Rich Foreigners"
-date: 2017-02-22
-source-url: https://www.scoop.co.nz/stories/PA1702/S00305/otago-station-sale-a-case-of-one-law-for-rich-foreigners.htm
+title: Otago Station Sale a Case of One Law for Rich Foreigners
+date: 2017-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00305/otago-station-sale-a-case-of-one-law-for-rich-foreigners.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/22/otago-station-sale-a-case-of-one-law-for-rich-foreigners/index.html
+layout: layout.njk
 ---
 Otago Station Sale a Case of One Law for Rich Foreigners
 ========================================================

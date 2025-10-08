@@ -1,9 +1,12 @@
 ---
 slug: mayors-jobs-initiative-shows-up-inactive-govt
-title: "Mayor’s jobs initiative shows up inactive Govt"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00143/mayors-jobs-initiative-shows-up-inactive-govt.htm
+title: Mayor’s jobs initiative shows up inactive Govt
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00143/mayors-jobs-initiative-shows-up-inactive-govt.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/09/mayors-jobs-initiative-shows-up-inactive-govt/index.html
+layout: layout.njk
 ---
 Mayor’s jobs initiative shows up inactive Govt
 ==============================================

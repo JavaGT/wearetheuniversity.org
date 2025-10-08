@@ -1,9 +1,12 @@
 ---
 slug: restructuring-of-rtlb-service-not-a-done-deal
-title: "Restructuring of RTLB service not a done deal"
-date: 2011-08-05
-source-url: https://www.scoop.co.nz/stories/ED1108/S00043/restructuring-of-rtlb-service-not-a-done-deal.htm
+title: Restructuring of RTLB service not a done deal
+date: 2011-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00043/restructuring-of-rtlb-service-not-a-done-deal.htm
 author: nzei
+permalink: /archive/2011/08/05/restructuring-of-rtlb-service-not-a-done-deal/index.html
+layout: layout.njk
 ---
 Restructuring of RTLB service not a done deal
 =============================================

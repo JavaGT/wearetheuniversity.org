@@ -1,8 +1,12 @@
 ---
 slug: pioneering-young-physicist-wins-nzas-research-medal
-title: "Pioneering young physicist wins NZAS Research Medal"
-date: 2015-11-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/pioneering-young-physicist-wins-nzas-research-medal.html
+title: Pioneering young physicist wins NZAS Research Medal
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/pioneering-young-physicist-wins-nzas-research-medal.html
+permalink: >-
+  /archive/2015/11/19/pioneering-young-physicist-wins-nzas-research-medal/index.html
+layout: layout.njk
 ---
 Pioneering young physicist wins NZAS Research Medal
 ===================================================

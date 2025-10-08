@@ -1,9 +1,13 @@
 ---
 slug: green-party-to-go-head-to-head-with-key-goff-debate
-title: "Green Party to go head to head with Key/Goff debate"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/PA1110/S00436/green-party-to-go-head-to-head-with-keygoff-debate.htm
+title: Green Party to go head to head with Key/Goff debate
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00436/green-party-to-go-head-to-head-with-keygoff-debate.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/28/green-party-to-go-head-to-head-with-key-goff-debate/index.html
+layout: layout.njk
 ---
 Green Party to go head to head with Key/Goff debate
 ===================================================

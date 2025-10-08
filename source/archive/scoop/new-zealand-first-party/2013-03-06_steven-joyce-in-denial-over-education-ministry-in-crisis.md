@@ -1,9 +1,13 @@
 ---
 slug: steven-joyce-in-denial-over-education-ministry-in-crisis
-title: "Steven Joyce in denial over Education Ministry in crisis"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/PA1303/S00084/steven-joyce-in-denial-over-education-ministry-in-crisis.htm
+title: Steven Joyce in denial over Education Ministry in crisis
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00084/steven-joyce-in-denial-over-education-ministry-in-crisis.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/03/06/steven-joyce-in-denial-over-education-ministry-in-crisis/index.html
+layout: layout.njk
 ---
 Steven Joyce in denial over Education Ministry in crisis
 ========================================================

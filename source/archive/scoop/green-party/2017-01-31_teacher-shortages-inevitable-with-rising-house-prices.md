@@ -1,9 +1,13 @@
 ---
 slug: teacher-shortages-inevitable-with-rising-house-prices
-title: "Teacher shortages inevitable with rising house prices"
-date: 2017-01-31
-source-url: https://www.scoop.co.nz/stories/PA1701/S00150/teacher-shortages-inevitable-with-rising-house-prices.htm
+title: Teacher shortages inevitable with rising house prices
+date: 2017-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00150/teacher-shortages-inevitable-with-rising-house-prices.htm
 author: green-party
+permalink: >-
+  /archive/2017/01/31/teacher-shortages-inevitable-with-rising-house-prices/index.html
+layout: layout.njk
 ---
 Teacher shortages inevitable with rising house prices
 =====================================================

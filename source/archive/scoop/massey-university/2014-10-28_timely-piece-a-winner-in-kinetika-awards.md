@@ -1,9 +1,12 @@
 ---
 slug: timely-piece-a-winner-in-kinetika-awards
-title: "Timely piece a winner in kinetika awards"
-date: 2014-10-28
-source-url: https://www.scoop.co.nz/stories/ED1410/S00147/timely-piece-a-winner-in-kinetika-awards.htm
+title: Timely piece a winner in kinetika awards
+date: 2014-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00147/timely-piece-a-winner-in-kinetika-awards.htm
 author: massey-university
+permalink: /archive/2014/10/28/timely-piece-a-winner-in-kinetika-awards/index.html
+layout: layout.njk
 ---
 Timely piece a winner in kinetika awards
 ========================================

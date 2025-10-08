@@ -1,9 +1,15 @@
 ---
-slug: new-ministerial-appointment-to-te-whare-wānaka-o-aoraki-lincoln-university-council
-title: "New Ministerial Appointment To Te Whare Wānaka O Aoraki Lincoln University Council"
-date: 2021-09-27
-source-url: https://www.scoop.co.nz/stories/ED2109/S00037/new-ministerial-appointment-to-te-whare-wanaka-o-aoraki-lincoln-university-council.htm
+slug: >-
+  new-ministerial-appointment-to-te-whare-wānaka-o-aoraki-lincoln-university-council
+title: >-
+  New Ministerial Appointment To Te Whare Wānaka O Aoraki Lincoln University
+  Council
+date: 2021-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00037/new-ministerial-appointment-to-te-whare-wanaka-o-aoraki-lincoln-university-council.htm
 author: lincoln-university
+permalink: /archive/2021/09/27/new-ministerial-appointment-to-te-whare-w/index.html
+layout: layout.njk
 ---
 New Ministerial Appointment To Te Whare Wānaka O Aoraki Lincoln University Council
 ==================================================================================

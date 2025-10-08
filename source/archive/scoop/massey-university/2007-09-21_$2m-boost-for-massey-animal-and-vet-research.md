@@ -1,9 +1,12 @@
 ---
 slug: $2m-boost-for-massey-animal-and-vet-research
-title: "$2m boost for Massey animal and vet research"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/SC0709/S00054/2m-boost-for-massey-animal-and-vet-research.htm
+title: $2m boost for Massey animal and vet research
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0709/S00054/2m-boost-for-massey-animal-and-vet-research.htm
 author: massey-university
+permalink: /archive/2007/09/21/2m-boost-for-massey-animal-and-vet-research/index.html
+layout: layout.njk
 ---
 $2m boost for Massey animal and vet research
 ============================================

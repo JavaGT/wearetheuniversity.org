@@ -1,9 +1,13 @@
 ---
 slug: adaptation-of-dutch-farm-practice-wins-top-title
-title: "Adaptation of Dutch farm practice wins top title"
-date: 2007-11-27
-source-url: https://www.scoop.co.nz/stories/BU0711/S00566/adaptation-of-dutch-farm-practice-wins-top-title.htm
+title: Adaptation of Dutch farm practice wins top title
+date: 2007-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0711/S00566/adaptation-of-dutch-farm-practice-wins-top-title.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/11/27/adaptation-of-dutch-farm-practice-wins-top-title/index.html
+layout: layout.njk
 ---
 Adaptation of Dutch farm practice wins top title
 ================================================

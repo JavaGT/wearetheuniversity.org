@@ -1,9 +1,13 @@
 ---
 slug: bali-explosion-blows-out-theories-on-benign-enviro
-title: "Bali explosion blows out theories on benign enviro"
-date: 2002-10-14
-source-url: https://www.scoop.co.nz/stories/PA0210/S00264/bali-explosion-blows-out-theories-on-benign-enviro.htm
+title: Bali explosion blows out theories on benign enviro
+date: 2002-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00264/bali-explosion-blows-out-theories-on-benign-enviro.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/14/bali-explosion-blows-out-theories-on-benign-enviro/index.html
+layout: layout.njk
 ---
 Bali explosion blows out theories on benign enviro
 ==================================================

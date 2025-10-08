@@ -1,9 +1,12 @@
 ---
 slug: school-donations-policy-full-of-holes
-title: "School donations policy full of holes"
-date: 2019-06-01
-source-url: https://www.scoop.co.nz/stories/PA1906/S00002/school-donations-policy-full-of-holes.htm
+title: School donations policy full of holes
+date: 2019-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00002/school-donations-policy-full-of-holes.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/01/school-donations-policy-full-of-holes/index.html
+layout: layout.njk
 ---
 School donations policy full of holes
 =====================================

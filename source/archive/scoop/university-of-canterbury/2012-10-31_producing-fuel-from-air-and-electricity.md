@@ -1,9 +1,12 @@
 ---
 slug: producing-fuel-from-air-and-electricity
-title: "Producing fuel from air and electricity"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/SC1210/S00058/producing-fuel-from-air-and-electricity.htm
+title: Producing fuel from air and electricity
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00058/producing-fuel-from-air-and-electricity.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/31/producing-fuel-from-air-and-electricity/index.html
+layout: layout.njk
 ---
 Producing fuel from air and electricity
 =======================================

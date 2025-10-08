@@ -1,9 +1,11 @@
 ---
 slug: labour-fails-young-nzers
-title: "Labour fails young NZers"
-date: 2004-12-07
+title: Labour fails young NZers
+date: 2004-12-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00177/labour-fails-young-nzers.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/07/labour-fails-young-nzers/index.html
+layout: layout.njk
 ---
 Labour fails young NZers
 ========================

@@ -1,9 +1,11 @@
 ---
 slug: australia-beware
-title: "Australia Beware"
-date: 2003-08-15
+title: Australia Beware
+date: 2003-08-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0308/S00310/australia-beware.htm
 author: act-new-zealand
+permalink: /archive/2003/08/15/australia-beware/index.html
+layout: layout.njk
 ---
 Australia Beware
 ================

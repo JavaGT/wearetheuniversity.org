@@ -1,9 +1,13 @@
 ---
 slug: hundreds-of-medical-students-call-for-fossil-fuel-divestment
-title: "Hundreds of Medical students call for fossil fuel divestment"
-date: 2017-04-05
-source-url: https://www.scoop.co.nz/stories/PO1704/S00042/hundreds-of-medical-students-call-for-fossil-fuel-divestment.htm
+title: Hundreds of Medical students call for fossil fuel divestment
+date: 2017-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00042/hundreds-of-medical-students-call-for-fossil-fuel-divestment.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2017/04/05/hundreds-of-medical-students-call-for-fossil-fuel-divestment/index.html
+layout: layout.njk
 ---
 Hundreds of Medical students call for fossil fuel divestment
 ============================================================

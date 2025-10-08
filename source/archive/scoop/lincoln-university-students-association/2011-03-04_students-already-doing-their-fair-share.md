@@ -1,9 +1,12 @@
 ---
 slug: students-already-doing-their-fair-share
-title: "\"Students already doing their fair share\""
-date: 2011-03-04
-source-url: https://www.scoop.co.nz/stories/ED1103/S00031/students-already-doing-their-fair-share.htm
+title: '"Students already doing their fair share"'
+date: 2011-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00031/students-already-doing-their-fair-share.htm
 author: lincoln-university-students-association
+permalink: /archive/2011/03/04/students-already-doing-their-fair-share/index.html
+layout: layout.njk
 ---
 “Students already doing their fair share”
 =========================================

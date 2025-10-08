@@ -1,8 +1,12 @@
 ---
 slug: progesterone-does-not-prevent-preterm-birth-or-complications-study
-title: "Progesterone does not prevent preterm birth or complications: study"
-date: 2017-10-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/progesterone-does-not-prevent-preterm-birth-or-complications-study.html
+title: 'Progesterone does not prevent preterm birth or complications: study'
+date: 2017-10-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/progesterone-does-not-prevent-preterm-birth-or-complications-study.html
+permalink: >-
+  /archive/2017/10/03/progesterone-does-not-prevent-preterm-birth-or-complications-study/index.html
+layout: layout.njk
 ---
 Progesterone does not prevent preterm birth or complications: study
 ===================================================================

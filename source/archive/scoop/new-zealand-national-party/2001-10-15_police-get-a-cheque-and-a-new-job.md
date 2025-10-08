@@ -1,9 +1,12 @@
 ---
 slug: police-get-a-cheque-and-a-new-job
-title: "Police get a cheque and a new job"
-date: 2001-10-15
-source-url: https://www.scoop.co.nz/stories/PA0110/S00293/police-get-a-cheque-and-a-new-job.htm
+title: Police get a cheque and a new job
+date: 2001-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00293/police-get-a-cheque-and-a-new-job.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/15/police-get-a-cheque-and-a-new-job/index.html
+layout: layout.njk
 ---
 Police get a cheque and a new job
 =================================

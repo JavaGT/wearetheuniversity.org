@@ -1,9 +1,13 @@
 ---
 slug: sir-patrick-hogan-to-be-awarded-university-honour
-title: "Sir Patrick Hogan to be awarded University honour"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/AK1309/S00966/sir-patrick-hogan-to-be-awarded-university-honour.htm
+title: Sir Patrick Hogan to be awarded University honour
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00966/sir-patrick-hogan-to-be-awarded-university-honour.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/09/30/sir-patrick-hogan-to-be-awarded-university-honour/index.html
+layout: layout.njk
 ---
 Sir Patrick Hogan to be awarded University honour
 =================================================

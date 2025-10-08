@@ -1,9 +1,13 @@
 ---
 slug: a-new-catalyst-for-business-sustainability-in-new-zealand
-title: "A new catalyst for business sustainability in New Zealand"
-date: 2016-03-29
-source-url: https://www.scoop.co.nz/stories/BU1603/S00840/a-new-catalyst-for-business-sustainability-in-new-zealand.htm
+title: A new catalyst for business sustainability in New Zealand
+date: 2016-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00840/a-new-catalyst-for-business-sustainability-in-new-zealand.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2016/03/29/a-new-catalyst-for-business-sustainability-in-new-zealand/index.html
+layout: layout.njk
 ---
 A new catalyst for business sustainability in New Zealand
 =========================================================

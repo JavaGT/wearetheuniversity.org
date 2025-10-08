@@ -1,9 +1,12 @@
 ---
 slug: teac-chair-unreservedly-welcomed
-title: "TEAC Chair unreservedly welcomed"
-date: 2000-04-03
-source-url: https://www.scoop.co.nz/stories/ED0004/S00002/teac-chair-unreservedly-welcomed.htm
+title: TEAC Chair unreservedly welcomed
+date: 2000-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00002/teac-chair-unreservedly-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2000/04/03/teac-chair-unreservedly-welcomed/index.html
+layout: layout.njk
 ---
 TEAC Chair unreservedly welcomed
 ================================

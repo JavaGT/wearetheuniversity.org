@@ -1,9 +1,12 @@
 ---
 slug: mental-health-issues-facing-chinese-in-nz
-title: "Mental health issues facing Chinese in NZ"
-date: 2015-01-23
-source-url: https://www.scoop.co.nz/stories/ED1501/S00066/mental-health-issues-facing-chinese-in-nz.htm
+title: Mental health issues facing Chinese in NZ
+date: 2015-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00066/mental-health-issues-facing-chinese-in-nz.htm
 author: university-of-canterbury
+permalink: /archive/2015/01/23/mental-health-issues-facing-chinese-in-nz/index.html
+layout: layout.njk
 ---
 Mental health issues facing Chinese in NZ
 =========================================

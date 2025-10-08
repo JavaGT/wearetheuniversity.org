@@ -1,9 +1,13 @@
 ---
 slug: export-of-ancient-swamp-kauri-is-state-sponsored-negligence
-title: "Export of ancient swamp kauri is state-sponsored negligence"
-date: 2015-06-17
-source-url: https://www.scoop.co.nz/stories/PA1506/S00281/export-of-ancient-swamp-kauri-is-state-sponsored-negligence.htm
+title: Export of ancient swamp kauri is state-sponsored negligence
+date: 2015-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00281/export-of-ancient-swamp-kauri-is-state-sponsored-negligence.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/17/export-of-ancient-swamp-kauri-is-state-sponsored-negligence/index.html
+layout: layout.njk
 ---
 Export of ancient swamp kauri is state-sponsored negligence
 ===========================================================

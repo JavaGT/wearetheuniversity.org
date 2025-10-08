@@ -1,9 +1,12 @@
 ---
 slug: green-businesses-save-money-and-create-jobs
-title: "Green Businesses save money and create jobs."
-date: 2013-06-28
-source-url: https://www.scoop.co.nz/stories/AK1306/S00754/green-businesses-save-money-and-create-jobs.htm
+title: Green Businesses save money and create jobs.
+date: 2013-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00754/green-businesses-save-money-and-create-jobs.htm
 author: green-party
+permalink: /archive/2013/06/28/green-businesses-save-money-and-create-jobs/index.html
+layout: layout.njk
 ---
 Green Businesses save money and create jobs.
 ============================================

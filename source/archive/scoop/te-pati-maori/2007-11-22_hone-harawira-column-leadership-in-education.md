@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-column-leadership-in-education
-title: "Hone Harawira Column - Leadership In Education"
-date: 2007-11-22
-source-url: https://www.scoop.co.nz/stories/PA0711/S00424/hone-harawira-column-leadership-in-education.htm
+title: Hone Harawira Column - Leadership In Education
+date: 2007-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00424/hone-harawira-column-leadership-in-education.htm
 author: te-pati-maori
+permalink: /archive/2007/11/22/hone-harawira-column-leadership-in-education/index.html
+layout: layout.njk
 ---
 Hone Harawira Column - Leadership In Education
 ==============================================

@@ -1,8 +1,12 @@
 ---
 slug: elam-student-uses-camouflage-to-break-down-boundaries
-title: "Elam student uses camouflage to break down boundaries"
-date: 2015-11-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/elam-student-uses-camouflage-to-break-down-boundaries.html
+title: Elam student uses camouflage to break down boundaries
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/elam-student-uses-camouflage-to-break-down-boundaries.html
+permalink: >-
+  /archive/2015/11/19/elam-student-uses-camouflage-to-break-down-boundaries/index.html
+layout: layout.njk
 ---
 Elam student uses camouflage to break down boundaries
 =====================================================

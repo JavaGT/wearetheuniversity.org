@@ -1,9 +1,12 @@
 ---
 slug: mallard-ducks-reality-of-nz-fee-increases
-title: "Mallard ducks reality of NZ  fee increases"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/ED0503/S00030/mallard-ducks-reality-of-nz-fee-increases.htm
+title: Mallard ducks reality of NZ  fee increases
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00030/mallard-ducks-reality-of-nz-fee-increases.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/03/09/mallard-ducks-reality-of-nz-fee-increases/index.html
+layout: layout.njk
 ---
 Mallard ducks reality of NZ fee increases
 =========================================

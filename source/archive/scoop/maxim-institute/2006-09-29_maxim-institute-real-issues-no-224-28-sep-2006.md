@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-224-28-sep-2006
-title: "Maxim Institute - real issues - No 224 28 Sep 2006"
-date: 2006-09-29
-source-url: https://www.scoop.co.nz/stories/PO0609/S00325/maxim-institute-real-issues-no-224-28-sep-2006.htm
+title: Maxim Institute - real issues - No 224 28 Sep 2006
+date: 2006-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00325/maxim-institute-real-issues-no-224-28-sep-2006.htm
 author: maxim-institute
+permalink: /archive/2006/09/29/maxim-institute-real-issues-no-224-28-sep-2006/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No 224 28 Sep 2006
 ==================================================

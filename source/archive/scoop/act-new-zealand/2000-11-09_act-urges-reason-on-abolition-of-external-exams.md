@@ -1,9 +1,12 @@
 ---
 slug: act-urges-reason-on-abolition-of-external-exams
-title: "ACT Urges Reason On Abolition Of External Exams"
-date: 2000-11-09
-source-url: https://www.scoop.co.nz/stories/PA0011/S00167/act-urges-reason-on-abolition-of-external-exams.htm
+title: ACT Urges Reason On Abolition Of External Exams
+date: 2000-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00167/act-urges-reason-on-abolition-of-external-exams.htm
 author: act-new-zealand
+permalink: /archive/2000/11/09/act-urges-reason-on-abolition-of-external-exams/index.html
+layout: layout.njk
 ---
 ACT Urges Reason On Abolition Of External Exams
 ===============================================

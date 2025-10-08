@@ -1,9 +1,12 @@
 ---
 slug: fee-changes-see-auckland-students-worse-off
-title: "Fee changes see Auckland students worse off"
-date: 2010-05-20
-source-url: https://www.scoop.co.nz/stories/ED1005/S00083/fee-changes-see-auckland-students-worse-off.htm
+title: Fee changes see Auckland students worse off
+date: 2010-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00083/fee-changes-see-auckland-students-worse-off.htm
 author: auckland-university-students-association
+permalink: /archive/2010/05/20/fee-changes-see-auckland-students-worse-off/index.html
+layout: layout.njk
 ---
 Fee changes see Auckland students worse off
 ===========================================

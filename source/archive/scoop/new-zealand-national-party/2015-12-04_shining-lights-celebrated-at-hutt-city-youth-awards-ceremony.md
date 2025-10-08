@@ -1,9 +1,13 @@
 ---
 slug: shining-lights-celebrated-at-hutt-city-youth-awards-ceremony
-title: "Shining lights celebrated at Hutt City Youth Awards ceremony"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/PA1512/S00108/shining-lights-celebrated-at-hutt-city-youth-awards-ceremony.htm
+title: Shining lights celebrated at Hutt City Youth Awards ceremony
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00108/shining-lights-celebrated-at-hutt-city-youth-awards-ceremony.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/12/04/shining-lights-celebrated-at-hutt-city-youth-awards-ceremony/index.html
+layout: layout.njk
 ---
 Shining lights celebrated at Hutt City Youth Awards ceremony
 ============================================================

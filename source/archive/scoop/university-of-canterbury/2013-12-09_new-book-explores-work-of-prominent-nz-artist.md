@@ -1,9 +1,12 @@
 ---
 slug: new-book-explores-work-of-prominent-nz-artist
-title: "New book explores work of prominent NZ artist"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/CU1312/S00139/new-book-explores-work-of-prominent-nz-artist.htm
+title: New book explores work of prominent NZ artist
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00139/new-book-explores-work-of-prominent-nz-artist.htm
 author: university-of-canterbury
+permalink: /archive/2013/12/09/new-book-explores-work-of-prominent-nz-artist/index.html
+layout: layout.njk
 ---
 New book explores work of prominent NZ artist
 =============================================

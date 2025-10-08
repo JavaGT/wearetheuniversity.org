@@ -1,9 +1,12 @@
 ---
 slug: nz-loses-a-city-in-huge-migration-statistics
-title: "NZ Loses A City In Huge Migration Statistics"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/PA0103/S00089/nz-loses-a-city-in-huge-migration-statistics.htm
+title: NZ Loses A City In Huge Migration Statistics
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00089/nz-loses-a-city-in-huge-migration-statistics.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/07/nz-loses-a-city-in-huge-migration-statistics/index.html
+layout: layout.njk
 ---
 NZ Loses A City In Huge Migration Statistics
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-are-charm-school-dropouts
-title: "Labour are charm school dropouts"
-date: 2000-10-16
-source-url: https://www.scoop.co.nz/stories/PA0010/S00310/labour-are-charm-school-dropouts.htm
+title: Labour are charm school dropouts
+date: 2000-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00310/labour-are-charm-school-dropouts.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/16/labour-are-charm-school-dropouts/index.html
+layout: layout.njk
 ---
 Labour are charm school dropouts
 ================================

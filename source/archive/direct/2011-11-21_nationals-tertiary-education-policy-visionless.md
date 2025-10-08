@@ -1,10 +1,13 @@
 ---
 title: National’s tertiary education policy visionless
 slug: nationals-tertiary-education-policy-visionless
-date: 2011-11-21
-source: https://web.archive.org/web/20111224062158/http://www.scoop.co.nz/stories/ED1111/S00134/nationals-tertiary-education-policy-visionless.htm
+date: 2011-11-21T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20111224062158/http://www.scoop.co.nz/stories/ED1111/S00134/nationals-tertiary-education-policy-visionless.htm
 author: NZUSA
 author-slug: nzusa
+permalink: /archive/2011/11/21/nationals-tertiary-education-policy-visionless/index.html
+layout: layout.njk
 ---
 
 **National’s tertiary education policy visionless**

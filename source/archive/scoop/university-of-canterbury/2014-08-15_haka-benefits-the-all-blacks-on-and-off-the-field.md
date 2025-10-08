@@ -1,9 +1,13 @@
 ---
 slug: haka-benefits-the-all-blacks-on-and-off-the-field
-title: "Haka benefits the All Blacks on and off the field"
-date: 2014-08-15
-source-url: https://www.scoop.co.nz/stories/CU1408/S00226/haka-benefits-the-all-blacks-on-and-off-the-field.htm
+title: Haka benefits the All Blacks on and off the field
+date: 2014-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00226/haka-benefits-the-all-blacks-on-and-off-the-field.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/15/haka-benefits-the-all-blacks-on-and-off-the-field/index.html
+layout: layout.njk
 ---
 Haka benefits the All Blacks on and off the field
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: universities-ready-to-help-nz-export-companies
-title: "Universities ready to help NZ export companies"
-date: 2015-10-10
-source-url: https://www.scoop.co.nz/stories/ED1510/S00050/universities-ready-to-help-nz-export-companies.htm
+title: Universities ready to help NZ export companies
+date: 2015-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00050/universities-ready-to-help-nz-export-companies.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/10/10/universities-ready-to-help-nz-export-companies/index.html
+layout: layout.njk
 ---
 Universities ready to help NZ export companies
 ==============================================

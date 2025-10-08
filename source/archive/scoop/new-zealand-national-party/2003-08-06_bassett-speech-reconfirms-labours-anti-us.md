@@ -1,9 +1,12 @@
 ---
 slug: bassett-speech-reconfirms-labours-anti-us
-title: "Bassett Speech reconfirms Labour's Anti-US"
-date: 2003-08-06
-source-url: https://www.scoop.co.nz/stories/PA0308/S00099/bassett-speech-reconfirms-labours-anti-us.htm
+title: Bassett Speech reconfirms Labour's Anti-US
+date: 2003-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00099/bassett-speech-reconfirms-labours-anti-us.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/06/bassett-speech-reconfirms-labours-anti-us/index.html
+layout: layout.njk
 ---
 Bassett Speech reconfirms Labour's Anti-US
 ==========================================

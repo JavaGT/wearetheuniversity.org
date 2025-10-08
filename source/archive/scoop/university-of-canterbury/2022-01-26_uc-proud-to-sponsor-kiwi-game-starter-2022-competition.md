@@ -1,9 +1,13 @@
 ---
 slug: uc-proud-to-sponsor-kiwi-game-starter-2022-competition
-title: "UC Proud To Sponsor Kiwi Game Starter 2022 Competition"
-date: 2022-01-26
-source-url: https://www.scoop.co.nz/stories/CU2201/S00152/uc-proud-to-sponsor-kiwi-game-starter-2022-competition.htm
+title: UC Proud To Sponsor Kiwi Game Starter 2022 Competition
+date: 2022-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2201/S00152/uc-proud-to-sponsor-kiwi-game-starter-2022-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/01/26/uc-proud-to-sponsor-kiwi-game-starter-2022-competition/index.html
+layout: layout.njk
 ---
 UC Proud To Sponsor Kiwi Game Starter 2022 Competition
 ======================================================

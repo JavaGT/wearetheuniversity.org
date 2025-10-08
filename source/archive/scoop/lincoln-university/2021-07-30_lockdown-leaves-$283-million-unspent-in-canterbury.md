@@ -1,9 +1,12 @@
 ---
 slug: lockdown-leaves-$283-million-unspent-in-canterbury
-title: "Lockdown Leaves $283 Million Unspent In Canterbury"
-date: 2021-07-30
-source-url: https://www.scoop.co.nz/stories/BU2107/S00520/lockdown-leaves-283-million-unspent-in-canterbury.htm
+title: Lockdown Leaves $283 Million Unspent In Canterbury
+date: 2021-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2107/S00520/lockdown-leaves-283-million-unspent-in-canterbury.htm
 author: lincoln-university
+permalink: /archive/2021/07/30/lockdown-leaves-/index.html
+layout: layout.njk
 ---
 Lockdown Leaves $283 Million Unspent In Canterbury
 ==================================================

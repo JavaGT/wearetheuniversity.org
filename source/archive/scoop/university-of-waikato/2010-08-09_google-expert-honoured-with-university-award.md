@@ -1,9 +1,12 @@
 ---
 slug: google-expert-honoured-with-university-award
-title: "Google expert honoured with University award"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/ED1008/S00037/google-expert-honoured-with-university-award.htm
+title: Google expert honoured with University award
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00037/google-expert-honoured-with-university-award.htm
 author: university-of-waikato
+permalink: /archive/2010/08/09/google-expert-honoured-with-university-award/index.html
+layout: layout.njk
 ---
 Google expert honoured with University award
 ============================================

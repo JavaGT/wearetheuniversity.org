@@ -1,9 +1,13 @@
 ---
 slug: new-super-visa-for-migrants-parents-and-rights-for-dawn-raid-victims
-title: "New Super Visa For Migrants’ Parents And Rights For Dawn Raid Victims"
-date: 2023-09-23
-source-url: https://www.scoop.co.nz/stories/PA2309/S00130/new-super-visa-for-migrants-parents-and-rights-for-dawn-raid-victims.htm
+title: New Super Visa For Migrants’ Parents And Rights For Dawn Raid Victims
+date: 2023-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00130/new-super-visa-for-migrants-parents-and-rights-for-dawn-raid-victims.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/09/23/new-super-visa-for-migrants-parents-and-rights-for-dawn-raid-victims/index.html
+layout: layout.njk
 ---
 New Super Visa For Migrants’ Parents And Rights For Dawn Raid Victims
 =====================================================================

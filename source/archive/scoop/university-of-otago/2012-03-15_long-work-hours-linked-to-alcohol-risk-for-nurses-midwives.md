@@ -1,9 +1,13 @@
 ---
 slug: long-work-hours-linked-to-alcohol-risk-for-nurses-midwives
-title: "Long work hours linked to alcohol risk for nurses, midwives"
-date: 2012-03-15
-source-url: https://www.scoop.co.nz/stories/GE1203/S00069/long-work-hours-linked-to-alcohol-risk-for-nurses-midwives.htm
+title: Long work hours linked to alcohol risk for nurses, midwives
+date: 2012-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1203/S00069/long-work-hours-linked-to-alcohol-risk-for-nurses-midwives.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/03/15/long-work-hours-linked-to-alcohol-risk-for-nurses-midwives/index.html
+layout: layout.njk
 ---
 Long work hours linked to alcohol risk for nurses, midwives
 ===========================================================

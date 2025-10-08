@@ -1,9 +1,13 @@
 ---
 slug: economic-decline-further-cause-for-tax-transformation
-title: "Economic Decline Further Cause For Tax Transformation"
-date: 2024-09-19
-source-url: https://www.scoop.co.nz/stories/PA2409/S00184/economic-decline-further-cause-for-tax-transformation.htm
+title: Economic Decline Further Cause For Tax Transformation
+date: 2024-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00184/economic-decline-further-cause-for-tax-transformation.htm
 author: green-party
+permalink: >-
+  /archive/2024/09/19/economic-decline-further-cause-for-tax-transformation/index.html
+layout: layout.njk
 ---
 Economic Decline Further Cause For Tax Transformation
 =====================================================

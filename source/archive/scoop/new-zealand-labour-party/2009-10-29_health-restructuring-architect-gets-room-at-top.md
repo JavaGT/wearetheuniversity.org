@@ -1,9 +1,12 @@
 ---
 slug: health-restructuring-architect-gets-room-at-top
-title: "Health Restructuring Architect Gets Room at Top"
-date: 2009-10-29
-source-url: https://www.scoop.co.nz/stories/PA0910/S00440/health-restructuring-architect-gets-room-at-top.htm
+title: Health Restructuring Architect Gets Room at Top
+date: 2009-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00440/health-restructuring-architect-gets-room-at-top.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/29/health-restructuring-architect-gets-room-at-top/index.html
+layout: layout.njk
 ---
 Health Restructuring Architect Gets Room at Top
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: urgency-needed-on-cancer-waiting-lists
-title: "Urgency needed on cancer waiting lists"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/PA0602/S00347/urgency-needed-on-cancer-waiting-lists.htm
+title: Urgency needed on cancer waiting lists
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00347/urgency-needed-on-cancer-waiting-lists.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/22/urgency-needed-on-cancer-waiting-lists/index.html
+layout: layout.njk
 ---
 Urgency needed on cancer waiting lists
 ======================================

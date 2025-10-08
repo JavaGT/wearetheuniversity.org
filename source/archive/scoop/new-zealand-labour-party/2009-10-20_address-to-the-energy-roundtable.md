@@ -1,9 +1,12 @@
 ---
 slug: address-to-the-energy-roundtable
-title: "Address To The Energy Roundtable"
-date: 2009-10-20
-source-url: https://www.scoop.co.nz/stories/PA0910/S00256/address-to-the-energy-roundtable.htm
+title: Address To The Energy Roundtable
+date: 2009-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00256/address-to-the-energy-roundtable.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/20/address-to-the-energy-roundtable/index.html
+layout: layout.njk
 ---
 Address To The Energy Roundtable
 ================================

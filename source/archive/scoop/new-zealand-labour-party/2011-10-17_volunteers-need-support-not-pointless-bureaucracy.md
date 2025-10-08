@@ -1,9 +1,13 @@
 ---
 slug: volunteers-need-support-not-pointless-bureaucracy
-title: "Volunteers need support not pointless bureaucracy"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/PA1110/S00297/volunteers-need-support-not-pointless-bureaucracy.htm
+title: Volunteers need support not pointless bureaucracy
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00297/volunteers-need-support-not-pointless-bureaucracy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/10/17/volunteers-need-support-not-pointless-bureaucracy/index.html
+layout: layout.njk
 ---
 Volunteers need support not pointless bureaucracy
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: electoral-commission-teams-up-with-anti-national
-title: "Electoral Commission teams up with anti-National"
-date: 2008-11-06
-source-url: https://www.scoop.co.nz/stories/ED0811/S00016/electoral-commission-teams-up-with-anti-national.htm
+title: Electoral Commission teams up with anti-National
+date: 2008-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00016/electoral-commission-teams-up-with-anti-national.htm
 author: student-choice
+permalink: >-
+  /archive/2008/11/06/electoral-commission-teams-up-with-anti-national/index.html
+layout: layout.njk
 ---
 Electoral Commission teams up with anti-National
 ================================================

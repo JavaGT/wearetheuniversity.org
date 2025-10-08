@@ -1,9 +1,12 @@
 ---
 slug: symposium-examines-the-nations-economic-engine
-title: "Symposium Examines The Nation's Economic Engine"
-date: 2003-01-23
-source-url: https://www.scoop.co.nz/stories/BU0301/S00067/symposium-examines-the-nations-economic-engine.htm
+title: Symposium Examines The Nation's Economic Engine
+date: 2003-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0301/S00067/symposium-examines-the-nations-economic-engine.htm
 author: auckland-university
+permalink: /archive/2003/01/23/symposium-examines-the-nations-economic-engine/index.html
+layout: layout.njk
 ---
 Symposium Examines The Nation's Economic Engine
 ===============================================

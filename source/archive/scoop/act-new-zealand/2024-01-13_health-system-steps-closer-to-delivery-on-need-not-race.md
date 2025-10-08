@@ -1,9 +1,13 @@
 ---
 slug: health-system-steps-closer-to-delivery-on-need-not-race
-title: "Health System Steps Closer To Delivery On Need, Not Race"
-date: 2024-01-13
-source-url: https://www.scoop.co.nz/stories/PA2401/S00011/health-system-steps-closer-to-delivery-on-need-not-race.htm
+title: Health System Steps Closer To Delivery On Need, Not Race
+date: 2024-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2401/S00011/health-system-steps-closer-to-delivery-on-need-not-race.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/01/13/health-system-steps-closer-to-delivery-on-need-not-race/index.html
+layout: layout.njk
 ---
 Health System Steps Closer To Delivery On Need, Not Race
 ========================================================

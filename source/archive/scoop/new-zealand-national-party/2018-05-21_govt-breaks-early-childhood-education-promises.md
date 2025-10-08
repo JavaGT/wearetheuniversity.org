@@ -1,9 +1,12 @@
 ---
 slug: govt-breaks-early-childhood-education-promises
-title: "Govt breaks early childhood education promises"
-date: 2018-05-21
-source-url: https://www.scoop.co.nz/stories/PA1805/S00286/govt-breaks-early-childhood-education-promises.htm
+title: Govt breaks early childhood education promises
+date: 2018-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00286/govt-breaks-early-childhood-education-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/21/govt-breaks-early-childhood-education-promises/index.html
+layout: layout.njk
 ---
 Govt breaks early childhood education promises
 ==============================================

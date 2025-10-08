@@ -1,9 +1,12 @@
 ---
 slug: wananga-hides-thousands-of-unemployed
-title: "Wananga hides thousands of unemployed"
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/PA0503/S00064/wananga-hides-thousands-of-unemployed.htm
+title: Wananga hides thousands of unemployed
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00064/wananga-hides-thousands-of-unemployed.htm
 author: act-new-zealand
+permalink: /archive/2005/03/02/wananga-hides-thousands-of-unemployed/index.html
+layout: layout.njk
 ---
 Wananga hides thousands of unemployed
 =====================================

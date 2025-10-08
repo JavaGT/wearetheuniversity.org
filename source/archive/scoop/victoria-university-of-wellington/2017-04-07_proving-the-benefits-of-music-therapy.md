@@ -1,9 +1,12 @@
 ---
 slug: proving-the-benefits-of-music-therapy
-title: "Proving the benefits of music therapy"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/SC1704/S00024/proving-the-benefits-of-music-therapy.htm
+title: Proving the benefits of music therapy
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00024/proving-the-benefits-of-music-therapy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/04/07/proving-the-benefits-of-music-therapy/index.html
+layout: layout.njk
 ---
 Proving the benefits of music therapy
 =====================================

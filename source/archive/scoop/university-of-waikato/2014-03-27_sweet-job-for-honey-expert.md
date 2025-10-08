@@ -1,9 +1,11 @@
 ---
 slug: sweet-job-for-honey-expert
-title: "Sweet job for honey expert"
-date: 2014-03-27
+title: Sweet job for honey expert
+date: 2014-03-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1403/S00164/sweet-job-for-honey-expert.htm
 author: university-of-waikato
+permalink: /archive/2014/03/27/sweet-job-for-honey-expert/index.html
+layout: layout.njk
 ---
 Sweet job for honey expert
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: job-probation-what-is-all-the-fuss-about
-title: "Job Probation: What is All the Fuss About?"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/BU0607/S00257/job-probation-what-is-all-the-fuss-about.htm
+title: 'Job Probation: What is All the Fuss About?'
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0607/S00257/job-probation-what-is-all-the-fuss-about.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/07/17/job-probation-what-is-all-the-fuss-about/index.html
+layout: layout.njk
 ---
 Job Probation: What is All the Fuss About?
 ==========================================

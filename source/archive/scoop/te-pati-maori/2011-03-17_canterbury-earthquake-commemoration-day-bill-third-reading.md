@@ -1,9 +1,13 @@
 ---
 slug: canterbury-earthquake-commemoration-day-bill-third-reading
-title: "Canterbury Earthquake Commemoration Day Bill, Third reading"
-date: 2011-03-17
-source-url: https://www.scoop.co.nz/stories/PA1103/S00273/canterbury-earthquake-commemoration-day-bill-third-reading.htm
+title: Canterbury Earthquake Commemoration Day Bill, Third reading
+date: 2011-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00273/canterbury-earthquake-commemoration-day-bill-third-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/17/canterbury-earthquake-commemoration-day-bill-third-reading/index.html
+layout: layout.njk
 ---
 Canterbury Earthquake Commemoration Day Bill, Third reading
 ===========================================================

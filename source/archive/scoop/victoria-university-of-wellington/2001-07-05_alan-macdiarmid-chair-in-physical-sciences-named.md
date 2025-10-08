@@ -1,9 +1,13 @@
 ---
 slug: alan-macdiarmid-chair-in-physical-sciences-named
-title: "Alan MacDiarmid Chair in Physical Sciences named"
-date: 2001-07-05
-source-url: https://www.scoop.co.nz/stories/SC0107/S00013/alan-macdiarmid-chair-in-physical-sciences-named.htm
+title: Alan MacDiarmid Chair in Physical Sciences named
+date: 2001-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0107/S00013/alan-macdiarmid-chair-in-physical-sciences-named.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/07/05/alan-macdiarmid-chair-in-physical-sciences-named/index.html
+layout: layout.njk
 ---
 Alan MacDiarmid Chair in Physical Sciences named
 ================================================

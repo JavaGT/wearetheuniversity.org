@@ -1,9 +1,12 @@
 ---
 slug: protest-against-the-arrest-of-activists
-title: "Protest against the Arrest of Activists"
-date: 2008-08-01
-source-url: https://www.scoop.co.nz/stories/PO0808/S00006/protest-against-the-arrest-of-activists.htm
+title: Protest against the Arrest of Activists
+date: 2008-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00006/protest-against-the-arrest-of-activists.htm
 author: otago-university-students-association
+permalink: /archive/2008/08/01/protest-against-the-arrest-of-activists/index.html
+layout: layout.njk
 ---
 Protest against the Arrest of Activists
 =======================================

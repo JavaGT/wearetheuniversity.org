@@ -1,9 +1,12 @@
 ---
 slug: minister-refuses-to-dismiss-censor
-title: "Minister Refuses To Dismiss Censor"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PA0205/S00468/minister-refuses-to-dismiss-censor.htm
+title: Minister Refuses To Dismiss Censor
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00468/minister-refuses-to-dismiss-censor.htm
 author: new-zealand-first-party
+permalink: /archive/2002/05/23/minister-refuses-to-dismiss-censor/index.html
+layout: layout.njk
 ---
 Minister Refuses To Dismiss Censor
 ==================================

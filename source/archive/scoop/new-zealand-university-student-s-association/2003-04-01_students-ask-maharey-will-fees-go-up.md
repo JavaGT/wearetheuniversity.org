@@ -1,9 +1,12 @@
 ---
 slug: students-ask-maharey-will-fees-go-up
-title: "Students ask Maharey: Will fees go up?"
-date: 2003-04-01
-source-url: https://www.scoop.co.nz/stories/ED0304/S00001/students-ask-maharey-will-fees-go-up.htm
+title: 'Students ask Maharey: Will fees go up?'
+date: 2003-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00001/students-ask-maharey-will-fees-go-up.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/04/01/students-ask-maharey-will-fees-go-up/index.html
+layout: layout.njk
 ---
 Students ask Maharey: Will fees go up?
 ======================================

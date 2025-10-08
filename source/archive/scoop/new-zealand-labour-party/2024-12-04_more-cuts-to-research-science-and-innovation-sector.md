@@ -1,9 +1,13 @@
 ---
 slug: more-cuts-to-research-science-and-innovation-sector
-title: "More Cuts To Research, Science And Innovation Sector"
-date: 2024-12-04
-source-url: https://www.scoop.co.nz/stories/PA2412/S00045/more-cuts-to-research-science-and-innovation-sector.htm
+title: More Cuts To Research, Science And Innovation Sector
+date: 2024-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00045/more-cuts-to-research-science-and-innovation-sector.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/12/04/more-cuts-to-research-science-and-innovation-sector/index.html
+layout: layout.njk
 ---
 More Cuts To Research, Science And Innovation Sector
 ====================================================

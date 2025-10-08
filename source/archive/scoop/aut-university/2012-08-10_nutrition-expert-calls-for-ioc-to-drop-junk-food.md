@@ -1,9 +1,13 @@
 ---
 slug: nutrition-expert-calls-for-ioc-to-drop-junk-food
-title: "Nutrition expert calls for IOC to drop junk food"
-date: 2012-08-10
-source-url: https://www.scoop.co.nz/stories/PO1208/S00143/nutrition-expert-calls-for-ioc-to-drop-junk-food.htm
+title: Nutrition expert calls for IOC to drop junk food
+date: 2012-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00143/nutrition-expert-calls-for-ioc-to-drop-junk-food.htm
 author: aut-university
+permalink: >-
+  /archive/2012/08/10/nutrition-expert-calls-for-ioc-to-drop-junk-food/index.html
+layout: layout.njk
 ---
 Nutrition expert calls for IOC to drop junk food
 ================================================

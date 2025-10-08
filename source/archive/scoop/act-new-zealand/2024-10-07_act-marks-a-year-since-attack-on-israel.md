@@ -1,9 +1,12 @@
 ---
 slug: act-marks-a-year-since-attack-on-israel
-title: "ACT Marks A Year Since Attack On Israel"
-date: 2024-10-07
-source-url: https://www.scoop.co.nz/stories/PA2410/S00052/act-marks-a-year-since-attack-on-israel.htm
+title: ACT Marks A Year Since Attack On Israel
+date: 2024-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00052/act-marks-a-year-since-attack-on-israel.htm
 author: act-new-zealand
+permalink: /archive/2024/10/07/act-marks-a-year-since-attack-on-israel/index.html
+layout: layout.njk
 ---
 ACT Marks A Year Since Attack On Israel
 =======================================

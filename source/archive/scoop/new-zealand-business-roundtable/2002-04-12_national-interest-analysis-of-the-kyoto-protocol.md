@@ -1,9 +1,13 @@
 ---
 slug: national-interest-analysis-of-the-kyoto-protocol
-title: "National Interest Analysis Of The Kyoto Protocol"
-date: 2002-04-12
-source-url: https://www.scoop.co.nz/stories/PO0204/S00074/national-interest-analysis-of-the-kyoto-protocol.htm
+title: National Interest Analysis Of The Kyoto Protocol
+date: 2002-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0204/S00074/national-interest-analysis-of-the-kyoto-protocol.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2002/04/12/national-interest-analysis-of-the-kyoto-protocol/index.html
+layout: layout.njk
 ---
 National Interest Analysis Of The Kyoto Protocol
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: countdown-to-the-budget-education
-title: "Countdown To The Budget - Education"
-date: 2009-05-19
-source-url: https://www.scoop.co.nz/stories/PO0905/S00248/countdown-to-the-budget-education.htm
+title: Countdown To The Budget - Education
+date: 2009-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00248/countdown-to-the-budget-education.htm
 author: act-new-zealand
+permalink: /archive/2009/05/19/countdown-to-the-budget-education/index.html
+layout: layout.njk
 ---
 Countdown To The Budget - Education
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: mapp-report-2010-the-year-of-growth
-title: "Mapp Report: 2010 – The Year of Growth"
-date: 2010-01-22
-source-url: https://www.scoop.co.nz/stories/PA1001/S00099/mapp-report-2010-the-year-of-growth.htm
+title: 'Mapp Report: 2010 – The Year of Growth'
+date: 2010-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00099/mapp-report-2010-the-year-of-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2010/01/22/mapp-report-2010-the-year-of-growth/index.html
+layout: layout.njk
 ---
 Mapp Report: 2010 – The Year of Growth
 ======================================

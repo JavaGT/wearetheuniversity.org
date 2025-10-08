@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholars-elect-for-2006
-title: "Rhodes Scholars Elect For 2006"
-date: 2005-10-18
-source-url: https://www.scoop.co.nz/stories/ED0510/S00050/rhodes-scholars-elect-for-2006.htm
+title: Rhodes Scholars Elect For 2006
+date: 2005-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00050/rhodes-scholars-elect-for-2006.htm
 author: vice-chancellors-committee
+permalink: /archive/2005/10/18/rhodes-scholars-elect-for-2006/index.html
+layout: layout.njk
 ---
 Rhodes Scholars Elect For 2006
 ==============================

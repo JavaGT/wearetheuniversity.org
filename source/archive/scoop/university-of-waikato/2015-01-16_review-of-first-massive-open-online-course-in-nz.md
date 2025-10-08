@@ -1,9 +1,13 @@
 ---
 slug: review-of-first-massive-open-online-course-in-nz
-title: "Review of first Massive Open Online Course in NZ"
-date: 2015-01-16
-source-url: https://www.scoop.co.nz/stories/ED1501/S00037/review-of-first-massive-open-online-course-in-nz.htm
+title: Review of first Massive Open Online Course in NZ
+date: 2015-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00037/review-of-first-massive-open-online-course-in-nz.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/01/16/review-of-first-massive-open-online-course-in-nz/index.html
+layout: layout.njk
 ---
 Review of first Massive Open Online Course in NZ
 ================================================

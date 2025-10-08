@@ -1,9 +1,12 @@
 ---
 slug: govt-tax-tentacles-reach-for-your-steak-&-ice-cream
-title: "Govt tax tentacles reach for your steak & ice cream"
-date: 2019-01-29
-source-url: https://www.scoop.co.nz/stories/PA1901/S00083/govt-tax-tentacles-reach-for-your-steak-ice-cream.htm
+title: Govt tax tentacles reach for your steak & ice cream
+date: 2019-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00083/govt-tax-tentacles-reach-for-your-steak-ice-cream.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/29/govt-tax-tentacles-reach-for-your-steak-/index.html
+layout: layout.njk
 ---
 Govt tax tentacles reach for your steak & ice cream
 ===================================================

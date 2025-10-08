@@ -1,9 +1,12 @@
 ---
 slug: student-politicians-trash-sits-zero-fee-brand
-title: "Student politicians trash SIT's zero fee brand"
-date: 2004-03-04
-source-url: https://www.scoop.co.nz/stories/ED0403/S00024/student-politicians-trash-sits-zero-fee-brand.htm
+title: Student politicians trash SIT's zero fee brand
+date: 2004-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00024/student-politicians-trash-sits-zero-fee-brand.htm
 author: student-choice
+permalink: /archive/2004/03/04/student-politicians-trash-sits-zero-fee-brand/index.html
+layout: layout.njk
 ---
 Student politicians trash SIT's zero fee brand
 ==============================================

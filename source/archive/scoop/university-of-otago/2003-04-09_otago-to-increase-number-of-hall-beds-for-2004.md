@@ -1,9 +1,12 @@
 ---
 slug: otago-to-increase-number-of-hall-beds-for-2004
-title: "Otago To Increase Number Of Hall Beds For 2004"
-date: 2003-04-09
-source-url: https://www.scoop.co.nz/stories/ED0304/S00029/otago-to-increase-number-of-hall-beds-for-2004.htm
+title: Otago To Increase Number Of Hall Beds For 2004
+date: 2003-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00029/otago-to-increase-number-of-hall-beds-for-2004.htm
 author: university-of-otago
+permalink: /archive/2003/04/09/otago-to-increase-number-of-hall-beds-for-2004/index.html
+layout: layout.njk
 ---
 Otago To Increase Number Of Hall Beds For 2004
 ==============================================

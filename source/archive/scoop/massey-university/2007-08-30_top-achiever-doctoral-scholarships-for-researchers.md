@@ -1,9 +1,13 @@
 ---
 slug: top-achiever-doctoral-scholarships-for-researchers
-title: "Top Achiever Doctoral Scholarships for researchers"
-date: 2007-08-30
-source-url: https://www.scoop.co.nz/stories/ED0708/S00095/top-achiever-doctoral-scholarships-for-researchers.htm
+title: Top Achiever Doctoral Scholarships for researchers
+date: 2007-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00095/top-achiever-doctoral-scholarships-for-researchers.htm
 author: massey-university
+permalink: >-
+  /archive/2007/08/30/top-achiever-doctoral-scholarships-for-researchers/index.html
+layout: layout.njk
 ---
 Top Achiever Doctoral Scholarships for researchers
 ==================================================

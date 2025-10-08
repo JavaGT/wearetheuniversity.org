@@ -1,9 +1,11 @@
 ---
 slug: act-now-pay-later-cullen
-title: "Act now, pay later - Cullen"
-date: 1999-11-01
+title: Act now, pay later - Cullen
+date: 1999-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00017/act-now-pay-later-cullen.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/01/act-now-pay-later-cullen/index.html
+layout: layout.njk
 ---
 Act now, pay later - Cullen
 ===========================

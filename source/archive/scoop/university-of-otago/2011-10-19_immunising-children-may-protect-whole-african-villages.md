@@ -1,9 +1,13 @@
 ---
 slug: immunising-children-may-protect-whole-african-villages
-title: "Immunising children may protect whole African villages"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/SC1110/S00054/immunising-children-may-protect-whole-african-villages.htm
+title: Immunising children may protect whole African villages
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00054/immunising-children-may-protect-whole-african-villages.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/10/19/immunising-children-may-protect-whole-african-villages/index.html
+layout: layout.njk
 ---
 Immunising children may protect whole African villages
 ======================================================

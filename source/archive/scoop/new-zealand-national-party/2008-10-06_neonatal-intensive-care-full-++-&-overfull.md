@@ -1,9 +1,12 @@
 ---
 slug: neonatal-intensive-care-full-++-&-overfull
-title: "Neonatal intensive care: ‘full ++’ & ‘overfull’"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PA0810/S00109/neonatal-intensive-care-full-overfull.htm
+title: 'Neonatal intensive care: ‘full ++’ & ‘overfull’'
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00109/neonatal-intensive-care-full-overfull.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/06/neonatal-intensive-care-full-/index.html
+layout: layout.njk
 ---
 Neonatal intensive care: ‘full ++’ & ‘overfull’
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: what-the-future-looks-like-for-māori-academics
-title: "What the future looks like for Māori academics"
-date: 2019-11-28
-source-url: https://www.scoop.co.nz/stories/ED1911/S00073/what-the-future-looks-like-for-maori-academics.htm
+title: What the future looks like for Māori academics
+date: 2019-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00073/what-the-future-looks-like-for-maori-academics.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/28/what-the-future-looks-like-for-m/index.html
+layout: layout.njk
 ---
 What the future looks like for Māori academics
 ==============================================

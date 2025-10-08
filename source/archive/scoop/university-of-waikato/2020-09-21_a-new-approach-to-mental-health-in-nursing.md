@@ -1,9 +1,12 @@
 ---
 slug: a-new-approach-to-mental-health-in-nursing
-title: "A New Approach To Mental Health In Nursing"
-date: 2020-09-21
-source-url: https://www.scoop.co.nz/stories/ED2009/S00048/a-new-approach-to-mental-health-in-nursing.htm
+title: A New Approach To Mental Health In Nursing
+date: 2020-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00048/a-new-approach-to-mental-health-in-nursing.htm
 author: university-of-waikato
+permalink: /archive/2020/09/21/a-new-approach-to-mental-health-in-nursing/index.html
+layout: layout.njk
 ---
 A New Approach To Mental Health In Nursing
 ==========================================

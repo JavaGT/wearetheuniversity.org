@@ -1,9 +1,13 @@
 ---
 slug: expert-asks-if-all-blacks-are-ruining-rugby-in-new-zealand
-title: "Expert asks if All Blacks are ruining rugby in New Zealand"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/SP1308/S00053/expert-asks-if-all-blacks-are-ruining-rugby-in-new-zealand.htm
+title: Expert asks if All Blacks are ruining rugby in New Zealand
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1308/S00053/expert-asks-if-all-blacks-are-ruining-rugby-in-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/15/expert-asks-if-all-blacks-are-ruining-rugby-in-new-zealand/index.html
+layout: layout.njk
 ---
 Expert asks if All Blacks are ruining rugby in New Zealand
 ==========================================================

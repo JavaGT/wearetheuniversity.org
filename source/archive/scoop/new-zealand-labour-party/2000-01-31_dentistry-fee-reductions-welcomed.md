@@ -1,9 +1,12 @@
 ---
 slug: dentistry-fee-reductions-welcomed
-title: "Dentistry fee reductions welcomed"
-date: 2000-01-31
-source-url: https://www.scoop.co.nz/stories/PA0001/S00170/dentistry-fee-reductions-welcomed.htm
+title: Dentistry fee reductions welcomed
+date: 2000-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00170/dentistry-fee-reductions-welcomed.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/01/31/dentistry-fee-reductions-welcomed/index.html
+layout: layout.njk
 ---
 Dentistry fee reductions welcomed
 =================================

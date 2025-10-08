@@ -1,9 +1,13 @@
 ---
 slug: auckland-hosts-international-materials-conference
-title: "Auckland hosts international materials conference"
-date: 2005-07-11
-source-url: https://www.scoop.co.nz/stories/ED0507/S00040/auckland-hosts-international-materials-conference.htm
+title: Auckland hosts international materials conference
+date: 2005-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00040/auckland-hosts-international-materials-conference.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/07/11/auckland-hosts-international-materials-conference/index.html
+layout: layout.njk
 ---
 Auckland hosts international materials conference
 =================================================

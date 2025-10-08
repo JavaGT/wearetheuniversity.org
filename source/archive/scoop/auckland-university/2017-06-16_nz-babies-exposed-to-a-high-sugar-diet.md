@@ -1,9 +1,12 @@
 ---
 slug: nz-babies-exposed-to-a-high-sugar-diet
-title: "NZ Babies Exposed to a High-Sugar Diet"
-date: 2017-06-16
-source-url: https://www.scoop.co.nz/stories/GE1706/S00061/nz-babies-exposed-to-a-high-sugar-diet.htm
+title: NZ Babies Exposed to a High-Sugar Diet
+date: 2017-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00061/nz-babies-exposed-to-a-high-sugar-diet.htm
 author: auckland-university
+permalink: /archive/2017/06/16/nz-babies-exposed-to-a-high-sugar-diet/index.html
+layout: layout.njk
 ---
 NZ Babies Exposed to a High-Sugar Diet
 ======================================

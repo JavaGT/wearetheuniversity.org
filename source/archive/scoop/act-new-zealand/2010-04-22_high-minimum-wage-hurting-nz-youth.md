@@ -1,9 +1,12 @@
 ---
 slug: high-minimum-wage-hurting-nz-youth
-title: "High Minimum Wage Hurting NZ Youth"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PA1004/S00258/high-minimum-wage-hurting-nz-youth.htm
+title: High Minimum Wage Hurting NZ Youth
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00258/high-minimum-wage-hurting-nz-youth.htm
 author: act-new-zealand
+permalink: /archive/2010/04/22/high-minimum-wage-hurting-nz-youth/index.html
+layout: layout.njk
 ---
 High Minimum Wage Hurting NZ Youth
 ==================================

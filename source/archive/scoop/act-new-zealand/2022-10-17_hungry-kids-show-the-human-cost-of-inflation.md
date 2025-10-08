@@ -1,9 +1,12 @@
 ---
 slug: hungry-kids-show-the-human-cost-of-inflation
-title: "Hungry Kids Show The Human Cost Of Inflation"
-date: 2022-10-17
-source-url: https://www.scoop.co.nz/stories/PA2210/S00105/hungry-kids-show-the-human-cost-of-inflation.htm
+title: Hungry Kids Show The Human Cost Of Inflation
+date: 2022-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00105/hungry-kids-show-the-human-cost-of-inflation.htm
 author: act-new-zealand
+permalink: /archive/2022/10/17/hungry-kids-show-the-human-cost-of-inflation/index.html
+layout: layout.njk
 ---
 Hungry Kids Show The Human Cost Of Inflation
 ============================================

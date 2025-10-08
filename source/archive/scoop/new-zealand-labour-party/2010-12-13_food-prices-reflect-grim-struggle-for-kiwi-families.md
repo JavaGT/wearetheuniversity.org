@@ -1,9 +1,13 @@
 ---
 slug: food-prices-reflect-grim-struggle-for-kiwi-families
-title: "Food prices reflect grim struggle for Kiwi families"
-date: 2010-12-13
-source-url: https://www.scoop.co.nz/stories/PA1012/S00224/food-prices-reflect-grim-struggle-for-kiwi-families.htm
+title: Food prices reflect grim struggle for Kiwi families
+date: 2010-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00224/food-prices-reflect-grim-struggle-for-kiwi-families.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/12/13/food-prices-reflect-grim-struggle-for-kiwi-families/index.html
+layout: layout.njk
 ---
 Food prices reflect grim struggle for Kiwi families
 ===================================================

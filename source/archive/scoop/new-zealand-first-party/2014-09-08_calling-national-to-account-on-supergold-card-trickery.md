@@ -1,9 +1,13 @@
 ---
 slug: calling-national-to-account-on-supergold-card-trickery
-title: "Calling National to Account on Supergold Card Trickery"
-date: 2014-09-08
-source-url: https://www.scoop.co.nz/stories/PA1409/S00116/calling-national-to-account-on-supergold-card-trickery.htm
+title: Calling National to Account on Supergold Card Trickery
+date: 2014-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00116/calling-national-to-account-on-supergold-card-trickery.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/09/08/calling-national-to-account-on-supergold-card-trickery/index.html
+layout: layout.njk
 ---
 Calling National to Account on Supergold Card Trickery
 ======================================================

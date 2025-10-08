@@ -1,9 +1,13 @@
 ---
 slug: enabling-drones-to-use-tools-in-complex-environments
-title: "Enabling Drones To Use Tools In Complex Environments"
-date: 2021-07-06
-source-url: https://www.scoop.co.nz/stories/SC2107/S00015/enabling-drones-to-use-tools-in-complex-environments.htm
+title: Enabling Drones To Use Tools In Complex Environments
+date: 2021-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00015/enabling-drones-to-use-tools-in-complex-environments.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/06/enabling-drones-to-use-tools-in-complex-environments/index.html
+layout: layout.njk
 ---
 Enabling Drones To Use Tools In Complex Environments
 ====================================================

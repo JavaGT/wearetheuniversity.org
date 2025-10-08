@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-listen-to-primary-teachers
-title: "Government needs to listen to primary teachers"
-date: 2018-11-11
-source-url: https://www.scoop.co.nz/stories/PA1811/S00121/government-needs-to-listen-to-primary-teachers.htm
+title: Government needs to listen to primary teachers
+date: 2018-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00121/government-needs-to-listen-to-primary-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/11/government-needs-to-listen-to-primary-teachers/index.html
+layout: layout.njk
 ---
 Government needs to listen to primary teachers
 ==============================================

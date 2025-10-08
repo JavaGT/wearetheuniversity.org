@@ -1,9 +1,12 @@
 ---
 slug: 2016-quote-of-the-year-finalists-announced
-title: "2016 Quote of the Year finalists announced"
-date: 2016-12-08
-source-url: https://www.scoop.co.nz/stories/CU1612/S00133/2016-quote-of-the-year-finalists-announced.htm
+title: 2016 Quote of the Year finalists announced
+date: 2016-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1612/S00133/2016-quote-of-the-year-finalists-announced.htm
 author: massey-university
+permalink: /archive/2016/12/08/2016-quote-of-the-year-finalists-announced/index.html
+layout: layout.njk
 ---
 2016 Quote of the Year finalists announced
 ==========================================

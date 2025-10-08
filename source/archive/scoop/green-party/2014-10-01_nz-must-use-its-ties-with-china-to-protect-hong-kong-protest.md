@@ -1,9 +1,13 @@
 ---
 slug: nz-must-use-its-ties-with-china-to-protect-hong-kong-protest
-title: "NZ must use its ties with China to protect Hong Kong protest"
-date: 2014-10-01
-source-url: https://www.scoop.co.nz/stories/PA1410/S00001/nz-must-use-its-ties-with-china-to-protect-hong-kong-protest.htm
+title: NZ must use its ties with China to protect Hong Kong protest
+date: 2014-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00001/nz-must-use-its-ties-with-china-to-protect-hong-kong-protest.htm
 author: green-party
+permalink: >-
+  /archive/2014/10/01/nz-must-use-its-ties-with-china-to-protect-hong-kong-protest/index.html
+layout: layout.njk
 ---
 NZ must use its ties with China to protect Hong Kong protest
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researcher-producing-hip-replacement-sound-device
-title: "Canterbury researcher producing hip replacement sound device"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/ED1407/S00048/canterbury-researcher-producing-hip-replacement-sound-device.htm
+title: Canterbury researcher producing hip replacement sound device
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00048/canterbury-researcher-producing-hip-replacement-sound-device.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/08/canterbury-researcher-producing-hip-replacement-sound-device/index.html
+layout: layout.njk
 ---
 Canterbury researcher producing hip replacement sound device
 ============================================================

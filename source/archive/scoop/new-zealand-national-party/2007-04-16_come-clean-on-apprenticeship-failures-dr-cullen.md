@@ -1,9 +1,12 @@
 ---
 slug: come-clean-on-apprenticeship-failures-dr-cullen
-title: "Come clean on apprenticeship failures, Dr Cullen"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/PA0704/S00261/come-clean-on-apprenticeship-failures-dr-cullen.htm
+title: Come clean on apprenticeship failures, Dr Cullen
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00261/come-clean-on-apprenticeship-failures-dr-cullen.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/16/come-clean-on-apprenticeship-failures-dr-cullen/index.html
+layout: layout.njk
 ---
 Come clean on apprenticeship failures, Dr Cullen
 ================================================

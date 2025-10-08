@@ -1,9 +1,12 @@
 ---
 slug: national-gives-transport-an-auckland-focus
-title: "National Gives Transport An Auckland Focus"
-date: 2001-02-01
-source-url: https://www.scoop.co.nz/stories/PA0102/S00002/national-gives-transport-an-auckland-focus.htm
+title: National Gives Transport An Auckland Focus
+date: 2001-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00002/national-gives-transport-an-auckland-focus.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/01/national-gives-transport-an-auckland-focus/index.html
+layout: layout.njk
 ---
 National Gives Transport An Auckland Focus
 ==========================================

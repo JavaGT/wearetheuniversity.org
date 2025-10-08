@@ -1,9 +1,12 @@
 ---
 slug: milk-for-schools-should-continue
-title: "Milk For Schools Should Continue"
-date: 2003-06-18
-source-url: https://www.scoop.co.nz/stories/PA0306/S00323/milk-for-schools-should-continue.htm
+title: Milk For Schools Should Continue
+date: 2003-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00323/milk-for-schools-should-continue.htm
 author: new-zealand-first-party
+permalink: /archive/2003/06/18/milk-for-schools-should-continue/index.html
+layout: layout.njk
 ---
 Milk For Schools Should Continue
 ================================

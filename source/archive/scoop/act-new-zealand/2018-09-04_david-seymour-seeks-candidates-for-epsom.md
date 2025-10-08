@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-seeks-candidates-for-epsom
-title: "David Seymour Seeks Candidates for Epsom"
-date: 2018-09-04
-source-url: https://www.scoop.co.nz/stories/PA1809/S00032/david-seymour-seeks-candidates-for-epsom.htm
+title: David Seymour Seeks Candidates for Epsom
+date: 2018-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00032/david-seymour-seeks-candidates-for-epsom.htm
 author: act-new-zealand
+permalink: /archive/2018/09/04/david-seymour-seeks-candidates-for-epsom/index.html
+layout: layout.njk
 ---
 David Seymour Seeks Candidates for Epsom
 ========================================

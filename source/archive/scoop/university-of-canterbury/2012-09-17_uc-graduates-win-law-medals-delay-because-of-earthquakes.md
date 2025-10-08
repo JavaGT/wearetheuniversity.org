@@ -1,9 +1,13 @@
 ---
 slug: uc-graduates-win-law-medals-delay-because-of-earthquakes
-title: "UC graduates win law medals – delay because of earthquakes"
-date: 2012-09-17
-source-url: https://www.scoop.co.nz/stories/ED1209/S00120/uc-graduates-win-law-medals-delay-because-of-earthquakes.htm
+title: UC graduates win law medals – delay because of earthquakes
+date: 2012-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00120/uc-graduates-win-law-medals-delay-because-of-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/17/uc-graduates-win-law-medals-delay-because-of-earthquakes/index.html
+layout: layout.njk
 ---
 UC graduates win law medals – delay because of earthquakes
 ==========================================================

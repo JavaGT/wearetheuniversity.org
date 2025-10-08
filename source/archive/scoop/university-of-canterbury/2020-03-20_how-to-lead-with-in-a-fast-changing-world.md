@@ -1,9 +1,12 @@
 ---
 slug: how-to-lead-with-in-a-fast-changing-world
-title: "How To ‘lead With’ In A Fast-changing World"
-date: 2020-03-20
-source-url: https://www.scoop.co.nz/stories/ED2003/S00031/how-to-lead-with-in-a-fast-changing-world.htm
+title: How To ‘lead With’ In A Fast-changing World
+date: 2020-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2003/S00031/how-to-lead-with-in-a-fast-changing-world.htm
 author: university-of-canterbury
+permalink: /archive/2020/03/20/how-to-lead-with-in-a-fast-changing-world/index.html
+layout: layout.njk
 ---
 How To ‘lead With’ In A Fast-changing World
 ===========================================

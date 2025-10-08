@@ -1,9 +1,13 @@
 ---
 slug: uc-students-discover-native-birds-thriving-on-ilam-campus
-title: "UC students discover native birds thriving on Ilam campus"
-date: 2017-03-17
-source-url: https://www.scoop.co.nz/stories/AK1703/S00583/uc-students-discover-native-birds-thriving-on-ilam-campus.htm
+title: UC students discover native birds thriving on Ilam campus
+date: 2017-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1703/S00583/uc-students-discover-native-birds-thriving-on-ilam-campus.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/17/uc-students-discover-native-birds-thriving-on-ilam-campus/index.html
+layout: layout.njk
 ---
 UC students discover native birds thriving on Ilam campus
 =========================================================

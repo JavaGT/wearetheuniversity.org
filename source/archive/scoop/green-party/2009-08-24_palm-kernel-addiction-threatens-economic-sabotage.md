@@ -1,9 +1,13 @@
 ---
 slug: palm-kernel-addiction-threatens-economic-sabotage
-title: "Palm kernel addiction threatens economic sabotage"
-date: 2009-08-24
-source-url: https://www.scoop.co.nz/stories/PA0908/S00334/palm-kernel-addiction-threatens-economic-sabotage.htm
+title: Palm kernel addiction threatens economic sabotage
+date: 2009-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00334/palm-kernel-addiction-threatens-economic-sabotage.htm
 author: green-party
+permalink: >-
+  /archive/2009/08/24/palm-kernel-addiction-threatens-economic-sabotage/index.html
+layout: layout.njk
 ---
 Palm kernel addiction threatens economic sabotage
 =================================================

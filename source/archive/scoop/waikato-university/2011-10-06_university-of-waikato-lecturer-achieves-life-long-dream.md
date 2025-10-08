@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-lecturer-achieves-life-long-dream
-title: "University of Waikato lecturer achieves life-long dream"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/ED1110/S00029/university-of-waikato-lecturer-achieves-life-long-dream.htm
+title: University of Waikato lecturer achieves life-long dream
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00029/university-of-waikato-lecturer-achieves-life-long-dream.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/10/06/university-of-waikato-lecturer-achieves-life-long-dream/index.html
+layout: layout.njk
 ---
 University of Waikato lecturer achieves life-long dream
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-announces-new-dental-school-and-science-buildings
-title: "University announces new dental school and science buildings"
-date: 2015-04-01
-source-url: https://www.scoop.co.nz/stories/ED1504/S00002/university-announces-new-dental-school-and-science-buildings.htm
+title: University announces new dental school and science buildings
+date: 2015-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00002/university-announces-new-dental-school-and-science-buildings.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/04/01/university-announces-new-dental-school-and-science-buildings/index.html
+layout: layout.njk
 ---
 University announces new dental school and science buildings
 ============================================================

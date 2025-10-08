@@ -1,9 +1,13 @@
 ---
 slug: heads-of-agreement-and-strategic-relationship-formed
-title: "Heads of Agreement and Strategic Relationship formed"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/ED1407/S00100/heads-of-agreement-and-strategic-relationship-formed.htm
+title: Heads of Agreement and Strategic Relationship formed
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00100/heads-of-agreement-and-strategic-relationship-formed.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/07/22/heads-of-agreement-and-strategic-relationship-formed/index.html
+layout: layout.njk
 ---
 Heads of Agreement and Strategic Relationship formed
 ====================================================

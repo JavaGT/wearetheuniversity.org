@@ -1,9 +1,13 @@
 ---
 slug: fsu-welcomes-appointment-of-dr-melissa-derby-as-race-relations-commissioner
-title: "FSU Welcomes Appointment Of Dr. Melissa Derby As Race Relations Commissioner"
-date: 2024-08-16
-source-url: https://www.scoop.co.nz/stories/AK2408/S00425/fsu-welcomes-appointment-of-dr-melissa-derby-as-race-relations-commissioner.htm
+title: FSU Welcomes Appointment Of Dr. Melissa Derby As Race Relations Commissioner
+date: 2024-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2408/S00425/fsu-welcomes-appointment-of-dr-melissa-derby-as-race-relations-commissioner.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/08/16/fsu-welcomes-appointment-of-dr-melissa-derby-as-race-relations-commissioner/index.html
+layout: layout.njk
 ---
 FSU Welcomes Appointment Of Dr. Melissa Derby As Race Relations Commissioner
 ============================================================================

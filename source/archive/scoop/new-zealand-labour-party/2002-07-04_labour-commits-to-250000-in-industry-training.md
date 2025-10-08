@@ -1,9 +1,12 @@
 ---
 slug: labour-commits-to-250000-in-industry-training
-title: "Labour commits to 250,000 in industry training"
-date: 2002-07-04
-source-url: https://www.scoop.co.nz/stories/PA0207/S00128/labour-commits-to-250000-in-industry-training.htm
+title: Labour commits to 250,000 in industry training
+date: 2002-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00128/labour-commits-to-250000-in-industry-training.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/04/labour-commits-to-250000-in-industry-training/index.html
+layout: layout.njk
 ---
 Labour commits to 250,000 in industry training
 ==============================================

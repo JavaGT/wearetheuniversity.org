@@ -1,9 +1,12 @@
 ---
 slug: green-mps-back-low-paid-workers
-title: "Green MPs back low paid workers"
-date: 2009-11-27
-source-url: https://www.scoop.co.nz/stories/PA0911/S00452/green-mps-back-low-paid-workers.htm
+title: Green MPs back low paid workers
+date: 2009-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00452/green-mps-back-low-paid-workers.htm
 author: green-party
+permalink: /archive/2009/11/27/green-mps-back-low-paid-workers/index.html
+layout: layout.njk
 ---
 Green MPs back low paid workers
 ===============================

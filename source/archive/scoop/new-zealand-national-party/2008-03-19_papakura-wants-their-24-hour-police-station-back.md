@@ -1,9 +1,13 @@
 ---
 slug: papakura-wants-their-24-hour-police-station-back
-title: "Papakura wants their 24 hour police station back"
-date: 2008-03-19
-source-url: https://www.scoop.co.nz/stories/PA0803/S00343/papakura-wants-their-24-hour-police-station-back.htm
+title: Papakura wants their 24 hour police station back
+date: 2008-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00343/papakura-wants-their-24-hour-police-station-back.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/03/19/papakura-wants-their-24-hour-police-station-back/index.html
+layout: layout.njk
 ---
 Papakura wants their 24 hour police station back
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: don-should-have-walked-in-rain-to-rugby
-title: "Don Should Have Walked In Rain To Rugby"
-date: 2004-07-22
-source-url: https://www.scoop.co.nz/stories/PA0407/S00365/don-should-have-walked-in-rain-to-rugby.htm
+title: Don Should Have Walked In Rain To Rugby
+date: 2004-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00365/don-should-have-walked-in-rain-to-rugby.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/22/don-should-have-walked-in-rain-to-rugby/index.html
+layout: layout.njk
 ---
 Don Should Have Walked In Rain To Rugby
 =======================================

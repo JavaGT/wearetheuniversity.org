@@ -1,9 +1,16 @@
 ---
-slug: green-party-announces-disability-advocate-neelu-jennings-as-the-candidate-for-the-hutt-south-electorate
-title: "Green Party Announces Disability Advocate Neelu Jennings As The Candidate For The Hutt South Electorate"
-date: 2023-03-27
-source-url: https://www.scoop.co.nz/stories/PO2303/S00209/green-party-announces-disability-advocate-neelu-jennings-as-the-candidate-for-the-hutt-south-electorate.htm
+slug: >-
+  green-party-announces-disability-advocate-neelu-jennings-as-the-candidate-for-the-hutt-south-electorate
+title: >-
+  Green Party Announces Disability Advocate Neelu Jennings As The Candidate For
+  The Hutt South Electorate
+date: 2023-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00209/green-party-announces-disability-advocate-neelu-jennings-as-the-candidate-for-the-hutt-south-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/03/27/green-party-announces-disability-advocate-neelu-jennings-as-the-candidate-for-the-hutt-south-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Disability Advocate Neelu Jennings As The Candidate For The Hutt South Electorate
 =======================================================================================================

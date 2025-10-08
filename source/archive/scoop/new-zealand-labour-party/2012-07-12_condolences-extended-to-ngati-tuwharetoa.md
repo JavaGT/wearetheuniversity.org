@@ -1,9 +1,12 @@
 ---
 slug: condolences-extended-to-ngati-tuwharetoa
-title: "Condolences extended to Ngati Tuwharetoa"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/PA1207/S00152/condolences-extended-to-ngati-tuwharetoa.htm
+title: Condolences extended to Ngati Tuwharetoa
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00152/condolences-extended-to-ngati-tuwharetoa.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/12/condolences-extended-to-ngati-tuwharetoa/index.html
+layout: layout.njk
 ---
 Condolences extended to Ngati Tuwharetoa
 ========================================

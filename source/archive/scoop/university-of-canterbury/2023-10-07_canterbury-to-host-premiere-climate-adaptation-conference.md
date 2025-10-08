@@ -1,9 +1,13 @@
 ---
 slug: canterbury-to-host-premiere-climate-adaptation-conference
-title: "Canterbury To Host Premiere Climate Adaptation Conference"
-date: 2023-10-07
-source-url: https://www.scoop.co.nz/stories/SC2310/S00014/canterbury-to-host-premiere-climate-adaptation-conference.htm
+title: Canterbury To Host Premiere Climate Adaptation Conference
+date: 2023-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2310/S00014/canterbury-to-host-premiere-climate-adaptation-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/10/07/canterbury-to-host-premiere-climate-adaptation-conference/index.html
+layout: layout.njk
 ---
 Canterbury To Host Premiere Climate Adaptation Conference
 =========================================================

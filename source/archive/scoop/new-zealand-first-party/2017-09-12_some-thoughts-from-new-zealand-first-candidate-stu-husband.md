@@ -1,9 +1,13 @@
 ---
 slug: some-thoughts-from-new-zealand-first-candidate-stu-husband
-title: "Some Thoughts From New Zealand First Candidate Stu Husband"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PO1709/S00193/some-thoughts-from-new-zealand-first-candidate-stu-husband.htm
+title: Some Thoughts From New Zealand First Candidate Stu Husband
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00193/some-thoughts-from-new-zealand-first-candidate-stu-husband.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/09/12/some-thoughts-from-new-zealand-first-candidate-stu-husband/index.html
+layout: layout.njk
 ---
 Some Thoughts From New Zealand First Candidate Stu Husband
 ==========================================================

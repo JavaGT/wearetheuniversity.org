@@ -1,9 +1,13 @@
 ---
 slug: phd-student-seeks-spinal-cord-injury-research-volunteers
-title: "PhD student seeks spinal cord injury research volunteers"
-date: 2016-04-18
-source-url: https://www.scoop.co.nz/stories/SC1604/S00037/phd-student-seeks-spinal-cord-injury-research-volunteers.htm
+title: PhD student seeks spinal cord injury research volunteers
+date: 2016-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00037/phd-student-seeks-spinal-cord-injury-research-volunteers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/18/phd-student-seeks-spinal-cord-injury-research-volunteers/index.html
+layout: layout.njk
 ---
 PhD student seeks spinal cord injury research volunteers
 ========================================================

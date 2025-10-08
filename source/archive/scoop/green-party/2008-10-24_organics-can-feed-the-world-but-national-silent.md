@@ -1,9 +1,12 @@
 ---
 slug: organics-can-feed-the-world-but-national-silent
-title: "Organics can feed the world, but National silent"
-date: 2008-10-24
-source-url: https://www.scoop.co.nz/stories/PA0810/S00573/organics-can-feed-the-world-but-national-silent.htm
+title: Organics can feed the world, but National silent
+date: 2008-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00573/organics-can-feed-the-world-but-national-silent.htm
 author: green-party
+permalink: /archive/2008/10/24/organics-can-feed-the-world-but-national-silent/index.html
+layout: layout.njk
 ---
 Organics can feed the world, but National silent
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-health-scholars-and-leaders-celebrate
-title: "Māori health scholars and leaders celebrate"
-date: 2010-11-26
-source-url: https://www.scoop.co.nz/stories/PA1011/S00539/maori-health-scholars-and-leaders-celebrate.htm
+title: Māori health scholars and leaders celebrate
+date: 2010-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00539/maori-health-scholars-and-leaders-celebrate.htm
 author: te-pati-maori
+permalink: /archive/2010/11/26/m/index.html
+layout: layout.njk
 ---
 Māori health scholars and leaders celebrate
 ===========================================

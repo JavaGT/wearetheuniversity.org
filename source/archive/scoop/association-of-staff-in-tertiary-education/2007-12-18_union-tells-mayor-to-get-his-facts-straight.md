@@ -1,9 +1,12 @@
 ---
 slug: union-tells-mayor-to-get-his-facts-straight
-title: "Union Tells Mayor To Get His Facts Straight"
-date: 2007-12-18
-source-url: https://www.scoop.co.nz/stories/ED0712/S00078/union-tells-mayor-to-get-his-facts-straight.htm
+title: Union Tells Mayor To Get His Facts Straight
+date: 2007-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00078/union-tells-mayor-to-get-his-facts-straight.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2007/12/18/union-tells-mayor-to-get-his-facts-straight/index.html
+layout: layout.njk
 ---
 Union Tells Mayor To Get His Facts Straight
 ===========================================

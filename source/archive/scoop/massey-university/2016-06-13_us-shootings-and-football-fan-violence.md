@@ -1,9 +1,12 @@
 ---
 slug: us-shootings-and-football-fan-violence
-title: "US shootings and football fan violence"
-date: 2016-06-13
-source-url: https://www.scoop.co.nz/stories/PO1606/S00135/us-shootings-and-football-fan-violence.htm
+title: US shootings and football fan violence
+date: 2016-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00135/us-shootings-and-football-fan-violence.htm
 author: massey-university
+permalink: /archive/2016/06/13/us-shootings-and-football-fan-violence/index.html
+layout: layout.njk
 ---
 US shootings and football fan violence
 ======================================

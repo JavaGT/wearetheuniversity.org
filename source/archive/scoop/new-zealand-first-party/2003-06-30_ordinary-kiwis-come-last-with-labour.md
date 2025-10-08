@@ -1,9 +1,12 @@
 ---
 slug: ordinary-kiwis-come-last-with-labour
-title: "Ordinary Kiwis Come Last With Labour"
-date: 2003-06-30
-source-url: https://www.scoop.co.nz/stories/PA0306/S00552/ordinary-kiwis-come-last-with-labour.htm
+title: Ordinary Kiwis Come Last With Labour
+date: 2003-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00552/ordinary-kiwis-come-last-with-labour.htm
 author: new-zealand-first-party
+permalink: /archive/2003/06/30/ordinary-kiwis-come-last-with-labour/index.html
+layout: layout.njk
 ---
 Ordinary Kiwis Come Last With Labour
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-sharples-(takutai-moana)-bill
-title: "Speech: Sharples - (Takutai Moana) Bill"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/PA1103/S00111/speech-sharples-takutai-moana-bill.htm
+title: 'Speech: Sharples - (Takutai Moana) Bill'
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00111/speech-sharples-takutai-moana-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/03/08/speech-sharples-/index.html
+layout: layout.njk
 ---
 Speech: Sharples - (Takutai Moana) Bill
 =======================================

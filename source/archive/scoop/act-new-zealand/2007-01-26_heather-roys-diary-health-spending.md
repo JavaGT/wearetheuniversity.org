@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-health-spending
-title: "Heather Roy's Diary - Health Spending"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/PA0701/S00167/heather-roys-diary-health-spending.htm
+title: Heather Roy's Diary - Health Spending
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00167/heather-roys-diary-health-spending.htm
 author: act-new-zealand
+permalink: /archive/2007/01/26/heather-roys-diary-health-spending/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Health Spending
 =====================================

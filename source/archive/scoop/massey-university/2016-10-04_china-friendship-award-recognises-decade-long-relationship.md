@@ -1,9 +1,13 @@
 ---
 slug: china-friendship-award-recognises-decade-long-relationship
-title: "China Friendship Award recognises decade-long relationship"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/BU1610/S00073/china-friendship-award-recognises-decade-long-relationship.htm
+title: China Friendship Award recognises decade-long relationship
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1610/S00073/china-friendship-award-recognises-decade-long-relationship.htm
 author: massey-university
+permalink: >-
+  /archive/2016/10/04/china-friendship-award-recognises-decade-long-relationship/index.html
+layout: layout.njk
 ---
 China Friendship Award recognises decade-long relationship
 ==========================================================

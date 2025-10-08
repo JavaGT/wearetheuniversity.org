@@ -1,8 +1,11 @@
 ---
 slug: future-of-cultural-value-for-auckland
-title: "Future of cultural value for Auckland"
-date: 2015-11-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/future-of-cultural-value-for-auckland.html
+title: Future of cultural value for Auckland
+date: 2015-11-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/future-of-cultural-value-for-auckland.html
+permalink: /archive/2015/11/17/future-of-cultural-value-for-auckland/index.html
+layout: layout.njk
 ---
 Future of cultural value for Auckland
 =====================================

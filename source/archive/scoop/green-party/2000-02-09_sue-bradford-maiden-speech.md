@@ -1,9 +1,11 @@
 ---
 slug: sue-bradford-maiden-speech
-title: "Sue Bradford - Maiden Speech"
-date: 2000-02-09
+title: Sue Bradford - Maiden Speech
+date: 2000-02-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0002/S00084/sue-bradford-maiden-speech.htm
 author: green-party
+permalink: /archive/2000/02/09/sue-bradford-maiden-speech/index.html
+layout: layout.njk
 ---
 Sue Bradford - Maiden Speech
 ============================

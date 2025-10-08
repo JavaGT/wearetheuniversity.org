@@ -1,9 +1,12 @@
 ---
 slug: mayor-to-celebrate-business-start-up-success
-title: "Mayor to celebrate business start-up success"
-date: 2004-11-30
-source-url: https://www.scoop.co.nz/stories/ED0411/S00096/mayor-to-celebrate-business-start-up-success.htm
+title: Mayor to celebrate business start-up success
+date: 2004-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00096/mayor-to-celebrate-business-start-up-success.htm
 author: aut-university
+permalink: /archive/2004/11/30/mayor-to-celebrate-business-start-up-success/index.html
+layout: layout.njk
 ---
 Mayor to celebrate business start-up success
 ============================================

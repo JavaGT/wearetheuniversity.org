@@ -1,9 +1,12 @@
 ---
 slug: tracey-martin-spreads-misinformation
-title: "Tracey Martin Spreads Misinformation"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/PA1608/S00187/tracey-martin-spreads-misinformation.htm
+title: Tracey Martin Spreads Misinformation
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00187/tracey-martin-spreads-misinformation.htm
 author: act-new-zealand
+permalink: /archive/2016/08/11/tracey-martin-spreads-misinformation/index.html
+layout: layout.njk
 ---
 Tracey Martin Spreads Misinformation
 ====================================

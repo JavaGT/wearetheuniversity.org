@@ -1,9 +1,12 @@
 ---
 slug: minister-should-practice-what-he-preaches
-title: "Minister Should Practice What He Preaches"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/ED9909/S00059/minister-should-practice-what-he-preaches.htm
+title: Minister Should Practice What He Preaches
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00059/minister-should-practice-what-he-preaches.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/29/minister-should-practice-what-he-preaches/index.html
+layout: layout.njk
 ---
 Minister Should Practice What He Preaches
 =========================================

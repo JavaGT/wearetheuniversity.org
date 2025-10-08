@@ -1,9 +1,13 @@
 ---
 slug: te-reo-in-spotlight-at-university-of-waikato-public-lecture
-title: "Te Reo In Spotlight At University Of Waikato Public Lecture"
-date: 2012-07-10
-source-url: https://www.scoop.co.nz/stories/ED1207/S00034/te-reo-in-spotlight-at-university-of-waikato-public-lecture.htm
+title: Te Reo In Spotlight At University Of Waikato Public Lecture
+date: 2012-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00034/te-reo-in-spotlight-at-university-of-waikato-public-lecture.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/10/te-reo-in-spotlight-at-university-of-waikato-public-lecture/index.html
+layout: layout.njk
 ---
 Te Reo In Spotlight At University Of Waikato Public Lecture
 ===========================================================

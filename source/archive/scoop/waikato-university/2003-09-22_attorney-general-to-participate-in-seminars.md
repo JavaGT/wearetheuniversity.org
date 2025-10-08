@@ -1,9 +1,12 @@
 ---
 slug: attorney-general-to-participate-in-seminars
-title: "Attorney-General To Participate In  Seminars"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00101/attorney-general-to-participate-in-seminars.htm
+title: Attorney-General To Participate In  Seminars
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00101/attorney-general-to-participate-in-seminars.htm
 author: waikato-university
+permalink: /archive/2003/09/22/attorney-general-to-participate-in-seminars/index.html
+layout: layout.njk
 ---
 Attorney-General To Participate In Seminars
 ===========================================

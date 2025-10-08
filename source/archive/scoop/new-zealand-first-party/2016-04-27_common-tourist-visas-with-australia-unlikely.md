@@ -1,9 +1,12 @@
 ---
 slug: common-tourist-visas-with-australia-unlikely
-title: "Common Tourist Visas with Australia Unlikely"
-date: 2016-04-27
-source-url: https://www.scoop.co.nz/stories/PA1604/S00420/common-tourist-visas-with-australia-unlikely.htm
+title: Common Tourist Visas with Australia Unlikely
+date: 2016-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00420/common-tourist-visas-with-australia-unlikely.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/27/common-tourist-visas-with-australia-unlikely/index.html
+layout: layout.njk
 ---
 Common Tourist Visas with Australia Unlikely
 ============================================

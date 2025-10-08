@@ -1,9 +1,12 @@
 ---
 slug: gun-crime-out-of-control-only-act-making-sense
-title: "Gun Crime Out Of Control – Only ACT Making Sense"
-date: 2021-01-19
-source-url: https://www.scoop.co.nz/stories/PA2101/S00038/gun-crime-out-of-control-only-act-making-sense.htm
+title: Gun Crime Out Of Control – Only ACT Making Sense
+date: 2021-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00038/gun-crime-out-of-control-only-act-making-sense.htm
 author: act-new-zealand
+permalink: /archive/2021/01/19/gun-crime-out-of-control-only-act-making-sense/index.html
+layout: layout.njk
 ---
 Gun Crime Out Of Control – Only ACT Making Sense
 ================================================

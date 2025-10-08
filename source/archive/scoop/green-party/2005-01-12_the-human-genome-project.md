@@ -1,9 +1,11 @@
 ---
 slug: the-human-genome-project
-title: "The Human Genome Project"
-date: 2005-01-12
+title: The Human Genome Project
+date: 2005-01-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0501/S00071/the-human-genome-project.htm
 author: green-party
+permalink: /archive/2005/01/12/the-human-genome-project/index.html
+layout: layout.njk
 ---
 The Human Genome Project
 ========================

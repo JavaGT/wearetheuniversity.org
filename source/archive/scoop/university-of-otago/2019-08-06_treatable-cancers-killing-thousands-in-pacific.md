@@ -1,9 +1,12 @@
 ---
 slug: treatable-cancers-killing-thousands-in-pacific
-title: "Treatable cancers killing thousands in Pacific"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/WO1908/S00021/treatable-cancers-killing-thousands-in-pacific.htm
+title: Treatable cancers killing thousands in Pacific
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1908/S00021/treatable-cancers-killing-thousands-in-pacific.htm
 author: university-of-otago
+permalink: /archive/2019/08/06/treatable-cancers-killing-thousands-in-pacific/index.html
+layout: layout.njk
 ---
 Treatable cancers killing thousands in Pacific
 ==============================================

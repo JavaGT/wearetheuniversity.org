@@ -1,9 +1,12 @@
 ---
 slug: ge-caution-submissions-ignored
-title: "GE 'caution' submissions ignored"
-date: 2003-09-10
-source-url: https://www.scoop.co.nz/stories/PA0309/S00219/ge-caution-submissions-ignored.htm
+title: GE 'caution' submissions ignored
+date: 2003-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00219/ge-caution-submissions-ignored.htm
 author: green-party
+permalink: /archive/2003/09/10/ge-caution-submissions-ignored/index.html
+layout: layout.njk
 ---
 GE 'caution' submissions ignored
 ================================

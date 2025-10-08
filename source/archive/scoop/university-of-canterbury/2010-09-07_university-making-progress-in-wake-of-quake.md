@@ -1,9 +1,12 @@
 ---
 slug: university-making-progress-in-wake-of-quake
-title: "University Making Progress In Wake of Quake"
-date: 2010-09-07
-source-url: https://www.scoop.co.nz/stories/ED1009/S00026/university-making-progress-in-wake-of-quake.htm
+title: University Making Progress In Wake of Quake
+date: 2010-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00026/university-making-progress-in-wake-of-quake.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/07/university-making-progress-in-wake-of-quake/index.html
+layout: layout.njk
 ---
 University Making Progress In Wake of Quake
 ===========================================

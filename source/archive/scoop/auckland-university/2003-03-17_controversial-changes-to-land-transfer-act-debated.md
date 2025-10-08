@@ -1,9 +1,13 @@
 ---
 slug: controversial-changes-to-land-transfer-act-debated
-title: "Controversial Changes To Land Transfer Act Debated"
-date: 2003-03-17
-source-url: https://www.scoop.co.nz/stories/ED0303/S00028/controversial-changes-to-land-transfer-act-debated.htm
+title: Controversial Changes To Land Transfer Act Debated
+date: 2003-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00028/controversial-changes-to-land-transfer-act-debated.htm
 author: auckland-university
+permalink: >-
+  /archive/2003/03/17/controversial-changes-to-land-transfer-act-debated/index.html
+layout: layout.njk
 ---
 Controversial Changes To Land Transfer Act Debated
 ==================================================

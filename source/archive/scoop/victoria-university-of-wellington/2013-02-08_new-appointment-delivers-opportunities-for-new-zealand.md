@@ -1,9 +1,13 @@
 ---
 slug: new-appointment-delivers-opportunities-for-new-zealand
-title: "New appointment delivers opportunities for New Zealand"
-date: 2013-02-08
-source-url: https://www.scoop.co.nz/stories/ED1302/S00040/new-appointment-delivers-opportunities-for-new-zealand.htm
+title: New appointment delivers opportunities for New Zealand
+date: 2013-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00040/new-appointment-delivers-opportunities-for-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/02/08/new-appointment-delivers-opportunities-for-new-zealand/index.html
+layout: layout.njk
 ---
 New appointment delivers opportunities for New Zealand
 ======================================================

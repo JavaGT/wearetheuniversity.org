@@ -1,7 +1,11 @@
 ---
 slug: conservation-efforts-allowed-survival-of-the-not-so-fit
-title: "Conservation efforts allowed survival of the not-so-fit"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/AK1312/S00432/conservation-efforts-allowed-survival-of-the-not-so-fit.htm
+title: Conservation efforts allowed survival of the not-so-fit
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1312/S00432/conservation-efforts-allowed-survival-of-the-not-so-fit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/13/conservation-efforts-allowed-survival-of-the-not-so-fit/index.html
+layout: layout.njk
 ---

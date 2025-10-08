@@ -1,9 +1,12 @@
 ---
 slug: evolution-over-a-billion-years
-title: "Evolution over a billion years"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/ED1110/S00145/evolution-over-a-billion-years.htm
+title: Evolution over a billion years
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00145/evolution-over-a-billion-years.htm
 author: waikato-university
+permalink: /archive/2011/10/31/evolution-over-a-billion-years/index.html
+layout: layout.njk
 ---
 Evolution over a billion years
 ==============================

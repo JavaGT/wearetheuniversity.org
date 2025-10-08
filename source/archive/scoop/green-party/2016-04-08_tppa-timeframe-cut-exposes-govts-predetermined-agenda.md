@@ -1,9 +1,13 @@
 ---
 slug: tppa-timeframe-cut-exposes-govts-predetermined-agenda
-title: "TPPA timeframe cut exposes Govt’s predetermined agenda"
-date: 2016-04-08
-source-url: https://www.scoop.co.nz/stories/PA1604/S00132/tppa-timeframe-cut-exposes-govts-predetermined-agenda.htm
+title: TPPA timeframe cut exposes Govt’s predetermined agenda
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00132/tppa-timeframe-cut-exposes-govts-predetermined-agenda.htm
 author: green-party
+permalink: >-
+  /archive/2016/04/08/tppa-timeframe-cut-exposes-govts-predetermined-agenda/index.html
+layout: layout.njk
 ---
 TPPA timeframe cut exposes Govt’s predetermined agenda
 ======================================================

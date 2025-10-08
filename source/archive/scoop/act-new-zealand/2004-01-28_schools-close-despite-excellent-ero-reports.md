@@ -1,9 +1,12 @@
 ---
 slug: schools-close-despite-excellent-ero-reports
-title: "Schools Close, Despite Excellent ERO Reports"
-date: 2004-01-28
-source-url: https://www.scoop.co.nz/stories/PA0401/S00233/schools-close-despite-excellent-ero-reports.htm
+title: Schools Close, Despite Excellent ERO Reports
+date: 2004-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00233/schools-close-despite-excellent-ero-reports.htm
 author: act-new-zealand
+permalink: /archive/2004/01/28/schools-close-despite-excellent-ero-reports/index.html
+layout: layout.njk
 ---
 Schools Close, Despite Excellent ERO Reports
 ============================================

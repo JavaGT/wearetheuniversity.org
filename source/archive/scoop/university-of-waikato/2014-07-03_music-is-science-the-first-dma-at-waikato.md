@@ -1,9 +1,12 @@
 ---
 slug: music-is-science-the-first-dma-at-waikato
-title: "Music is science: The first DMA at Waikato"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/ED1407/S00029/music-is-science-the-first-dma-at-waikato.htm
+title: 'Music is science: The first DMA at Waikato'
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00029/music-is-science-the-first-dma-at-waikato.htm
 author: university-of-waikato
+permalink: /archive/2014/07/03/music-is-science-the-first-dma-at-waikato/index.html
+layout: layout.njk
 ---
 Music is science: The first DMA at Waikato
 ==========================================

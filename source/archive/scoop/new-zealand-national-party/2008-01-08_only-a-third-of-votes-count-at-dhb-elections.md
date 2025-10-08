@@ -1,9 +1,12 @@
 ---
 slug: only-a-third-of-votes-count-at-dhb-elections
-title: "Only a third of votes count at DHB elections"
-date: 2008-01-08
-source-url: https://www.scoop.co.nz/stories/PA0801/S00044/only-a-third-of-votes-count-at-dhb-elections.htm
+title: Only a third of votes count at DHB elections
+date: 2008-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00044/only-a-third-of-votes-count-at-dhb-elections.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/08/only-a-third-of-votes-count-at-dhb-elections/index.html
+layout: layout.njk
 ---
 Only a third of votes count at DHB elections
 ============================================

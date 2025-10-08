@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-managing-the-manipulators
-title: "Peters Speech: Managing the Manipulators"
-date: 2002-12-05
-source-url: https://www.scoop.co.nz/stories/PA0212/S00140/peters-speech-managing-the-manipulators.htm
+title: 'Peters Speech: Managing the Manipulators'
+date: 2002-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00140/peters-speech-managing-the-manipulators.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/05/peters-speech-managing-the-manipulators/index.html
+layout: layout.njk
 ---
 Peters Speech: Managing the Manipulators
 ========================================

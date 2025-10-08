@@ -1,9 +1,13 @@
 ---
 slug: world-leading-canterbury-physicist-wins-innovation-medal
-title: "World-leading Canterbury physicist wins Innovation Medal"
-date: 2018-10-19
-source-url: https://www.scoop.co.nz/stories/SC1810/S00068/world-leading-canterbury-physicist-wins-innovation-medal.htm
+title: World-leading Canterbury physicist wins Innovation Medal
+date: 2018-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00068/world-leading-canterbury-physicist-wins-innovation-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/19/world-leading-canterbury-physicist-wins-innovation-medal/index.html
+layout: layout.njk
 ---
 World-leading Canterbury physicist wins Innovation Medal
 ========================================================

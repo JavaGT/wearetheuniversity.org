@@ -1,9 +1,11 @@
 ---
 slug: taxes-up-and-then-no-money!
-title: "Taxes Up – And Then No Money!"
-date: 2001-05-24
+title: Taxes Up – And Then No Money!
+date: 2001-05-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0105/S00542/taxes-up-and-then-no-money.htm
 author: act-new-zealand
+permalink: /archive/2001/05/24/taxes-up-and-then-no-money/index.html
+layout: layout.njk
 ---
 Taxes Up – And Then No Money!
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: otago-study-shows-legacy-of-pesticides-difficult-to-avoid
-title: "Otago study shows legacy of pesticides difficult to avoid"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/SC1307/S00073/otago-study-shows-legacy-of-pesticides-difficult-to-avoid.htm
+title: Otago study shows legacy of pesticides difficult to avoid
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00073/otago-study-shows-legacy-of-pesticides-difficult-to-avoid.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/29/otago-study-shows-legacy-of-pesticides-difficult-to-avoid/index.html
+layout: layout.njk
 ---
 Otago study shows legacy of pesticides difficult to avoid
 =========================================================

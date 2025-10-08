@@ -1,9 +1,12 @@
 ---
 slug: haka-takes-centre-stage-on-and-off-the-park
-title: "Haka takes centre stage on and off the park"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/ED1109/S00021/haka-takes-centre-stage-on-and-off-the-park.htm
+title: Haka takes centre stage on and off the park
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00021/haka-takes-centre-stage-on-and-off-the-park.htm
 author: massey-university
+permalink: /archive/2011/09/07/haka-takes-centre-stage-on-and-off-the-park/index.html
+layout: layout.njk
 ---
 Haka takes centre stage on and off the park
 ===========================================

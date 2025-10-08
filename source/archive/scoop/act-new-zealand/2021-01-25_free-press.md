@@ -1,9 +1,11 @@
 ---
 slug: free-press
-title: "Free Press"
-date: 2021-01-25
+title: Free Press
+date: 2021-01-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2101/S00085/free-press.htm
 author: act-new-zealand
+permalink: /archive/2021/01/25/free-press/index.html
+layout: layout.njk
 ---
 Free Press
 ==========

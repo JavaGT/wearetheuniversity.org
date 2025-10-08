@@ -1,9 +1,12 @@
 ---
 slug: schools-celebrate-their-support-staff
-title: "Schools Celebrate Their Support Staff"
-date: 2003-06-11
-source-url: https://www.scoop.co.nz/stories/ED0306/S00012/schools-celebrate-their-support-staff.htm
+title: Schools Celebrate Their Support Staff
+date: 2003-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00012/schools-celebrate-their-support-staff.htm
 author: nzei
+permalink: /archive/2003/06/11/schools-celebrate-their-support-staff/index.html
+layout: layout.njk
 ---
 Schools Celebrate Their Support Staff
 =====================================

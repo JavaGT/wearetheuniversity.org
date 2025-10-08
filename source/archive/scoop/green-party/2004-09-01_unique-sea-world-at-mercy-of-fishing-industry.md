@@ -1,9 +1,12 @@
 ---
 slug: unique-sea-world-at-mercy-of-fishing-industry
-title: "Unique sea world at mercy of fishing industry"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/PA0409/S00025/unique-sea-world-at-mercy-of-fishing-industry.htm
+title: Unique sea world at mercy of fishing industry
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00025/unique-sea-world-at-mercy-of-fishing-industry.htm
 author: green-party
+permalink: /archive/2004/09/01/unique-sea-world-at-mercy-of-fishing-industry/index.html
+layout: layout.njk
 ---
 Unique sea world at mercy of fishing industry
 =============================================

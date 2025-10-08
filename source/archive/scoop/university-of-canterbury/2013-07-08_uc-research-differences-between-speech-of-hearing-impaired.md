@@ -1,9 +1,13 @@
 ---
 slug: uc-research-differences-between-speech-of-hearing-impaired
-title: "UC Research Differences Between Speech of Hearing Impaired"
-date: 2013-07-08
-source-url: https://www.scoop.co.nz/stories/SC1307/S00021/uc-research-differences-between-speech-of-hearing-impaired.htm
+title: UC Research Differences Between Speech of Hearing Impaired
+date: 2013-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00021/uc-research-differences-between-speech-of-hearing-impaired.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/08/uc-research-differences-between-speech-of-hearing-impaired/index.html
+layout: layout.njk
 ---
 UC Research Differences Between Speech of Hearing Impaired
 ==========================================================

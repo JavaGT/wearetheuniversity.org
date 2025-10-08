@@ -1,8 +1,12 @@
 ---
 slug: comic-superheroes-can-explain-modern-sovereignty
-title: "Comic superheroes can explain modern sovereignty?"
-date: 2016-04-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/comic-superheroes-can-explain-modern-sovereignty-.html
+title: Comic superheroes can explain modern sovereignty?
+date: 2016-04-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/comic-superheroes-can-explain-modern-sovereignty-.html
+permalink: >-
+  /archive/2016/04/19/comic-superheroes-can-explain-modern-sovereignty/index.html
+layout: layout.njk
 ---
 Comic superheroes can explain modern sovereignty?
 =================================================

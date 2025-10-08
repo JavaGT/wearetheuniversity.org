@@ -1,9 +1,13 @@
 ---
 slug: teaching-game-sense-the-key-to-team-sport-training
-title: "Teaching ‘game sense’ the key to team sport training"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/CU1208/S00051/teaching-game-sense-the-key-to-team-sport-training.htm
+title: Teaching ‘game sense’ the key to team sport training
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1208/S00051/teaching-game-sense-the-key-to-team-sport-training.htm
 author: massey-university
+permalink: >-
+  /archive/2012/08/02/teaching-game-sense-the-key-to-team-sport-training/index.html
+layout: layout.njk
 ---
 Teaching ‘game sense’ the key to team sport training
 ====================================================

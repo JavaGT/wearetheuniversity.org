@@ -1,9 +1,12 @@
 ---
 slug: lawrence-farmer-is-clutha-southland-candidate
-title: "Lawrence Farmer is Clutha-Southland Candidate"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/PO1705/S00332/lawrence-farmer-is-clutha-southland-candidate.htm
+title: Lawrence Farmer is Clutha-Southland Candidate
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00332/lawrence-farmer-is-clutha-southland-candidate.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/24/lawrence-farmer-is-clutha-southland-candidate/index.html
+layout: layout.njk
 ---
 Lawrence Farmer is Clutha-Southland Candidate
 =============================================

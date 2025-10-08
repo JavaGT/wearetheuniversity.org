@@ -1,9 +1,13 @@
 ---
 slug: govt-to-place-geographic-restrictions-on-livestock-farming
-title: "Govt to Place Geographic Restrictions on Livestock Farming"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/PA1609/S00168/govt-to-place-geographic-restrictions-on-livestock-farming.htm
+title: Govt to Place Geographic Restrictions on Livestock Farming
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00168/govt-to-place-geographic-restrictions-on-livestock-farming.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/09/govt-to-place-geographic-restrictions-on-livestock-farming/index.html
+layout: layout.njk
 ---
 Govt to Place Geographic Restrictions on Livestock Farming
 ==========================================================

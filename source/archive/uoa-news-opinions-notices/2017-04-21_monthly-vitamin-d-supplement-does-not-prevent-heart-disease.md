@@ -1,8 +1,12 @@
 ---
 slug: monthly-vitamin-d-supplement-does-not-prevent-heart-disease
-title: "Monthly vitamin D supplement does not prevent heart disease"
-date: 2017-04-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/monthly-vitamin-d-supplement-does-not-prevent-heart-disease.html
+title: Monthly vitamin D supplement does not prevent heart disease
+date: 2017-04-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/monthly-vitamin-d-supplement-does-not-prevent-heart-disease.html
+permalink: >-
+  /archive/2017/04/21/monthly-vitamin-d-supplement-does-not-prevent-heart-disease/index.html
+layout: layout.njk
 ---
 Monthly vitamin D supplement does not prevent heart disease
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: wearable-3d-printed-tech-could-become-physio-tool
-title: "Wearable, 3D Printed Tech Could Become Physio Tool"
-date: 2023-09-14
-source-url: https://www.scoop.co.nz/stories/ED2309/S00030/wearable-3d-printed-tech-could-become-physio-tool.htm
+title: Wearable, 3D Printed Tech Could Become Physio Tool
+date: 2023-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00030/wearable-3d-printed-tech-could-become-physio-tool.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/09/14/wearable-3d-printed-tech-could-become-physio-tool/index.html
+layout: layout.njk
 ---
 Wearable, 3D Printed Tech Could Become Physio Tool
 ==================================================

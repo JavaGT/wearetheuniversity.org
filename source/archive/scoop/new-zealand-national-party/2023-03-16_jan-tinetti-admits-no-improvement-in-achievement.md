@@ -1,9 +1,13 @@
 ---
 slug: jan-tinetti-admits-no-improvement-in-achievement
-title: "Jan Tinetti Admits No Improvement In Achievement"
-date: 2023-03-16
-source-url: https://www.scoop.co.nz/stories/PA2303/S00141/jan-tinetti-admits-no-improvement-in-achievement.htm
+title: Jan Tinetti Admits No Improvement In Achievement
+date: 2023-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00141/jan-tinetti-admits-no-improvement-in-achievement.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/16/jan-tinetti-admits-no-improvement-in-achievement/index.html
+layout: layout.njk
 ---
 Jan Tinetti Admits No Improvement In Achievement
 ================================================

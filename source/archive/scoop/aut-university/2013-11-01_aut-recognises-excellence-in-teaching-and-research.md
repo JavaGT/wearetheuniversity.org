@@ -1,9 +1,13 @@
 ---
 slug: aut-recognises-excellence-in-teaching-and-research
-title: "AUT recognises excellence in teaching and research"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/ED1311/S00001/aut-recognises-excellence-in-teaching-and-research.htm
+title: AUT recognises excellence in teaching and research
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00001/aut-recognises-excellence-in-teaching-and-research.htm
 author: aut-university
+permalink: >-
+  /archive/2013/11/01/aut-recognises-excellence-in-teaching-and-research/index.html
+layout: layout.njk
 ---
 AUT recognises excellence in teaching and research
 ==================================================

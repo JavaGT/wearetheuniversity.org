@@ -1,9 +1,13 @@
 ---
 slug: john-key-should-stand-up-for-rights-of-kiwis-in-australia
-title: "John Key should stand up for rights of Kiwis in Australia"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/PA1310/S00076/john-key-should-stand-up-for-rights-of-kiwis-in-australia.htm
+title: John Key should stand up for rights of Kiwis in Australia
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00076/john-key-should-stand-up-for-rights-of-kiwis-in-australia.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/03/john-key-should-stand-up-for-rights-of-kiwis-in-australia/index.html
+layout: layout.njk
 ---
 John Key should stand up for rights of Kiwis in Australia
 =========================================================

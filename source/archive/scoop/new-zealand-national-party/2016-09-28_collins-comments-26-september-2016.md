@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-26-september-2016
-title: "Collins' Comments: 26 September 2016"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/PA1609/S00494/collins-comments-26-september-2016.htm
+title: 'Collins'' Comments: 26 September 2016'
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00494/collins-comments-26-september-2016.htm
 author: new-zealand-national-party
+permalink: /archive/2016/09/28/collins-comments-26-september-2016/index.html
+layout: layout.njk
 ---
 Collins' Comments: 26 September 2016
 ====================================

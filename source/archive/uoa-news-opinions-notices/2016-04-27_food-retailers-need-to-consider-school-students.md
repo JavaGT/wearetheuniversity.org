@@ -1,8 +1,11 @@
 ---
 slug: food-retailers-need-to-consider-school-students
-title: "Food retailers need to consider school students"
-date: 2016-04-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/food-retailers-need-to-consider-school-students.html
+title: Food retailers need to consider school students
+date: 2016-04-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/food-retailers-need-to-consider-school-students.html
+permalink: /archive/2016/04/27/food-retailers-need-to-consider-school-students/index.html
+layout: layout.njk
 ---
 Food retailers need to consider school students
 ===============================================

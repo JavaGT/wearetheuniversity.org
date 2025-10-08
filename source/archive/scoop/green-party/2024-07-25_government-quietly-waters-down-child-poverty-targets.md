@@ -1,9 +1,13 @@
 ---
 slug: government-quietly-waters-down-child-poverty-targets
-title: "Government Quietly Waters Down Child Poverty Targets"
-date: 2024-07-25
-source-url: https://www.scoop.co.nz/stories/PA2407/S00156/government-quietly-waters-down-child-poverty-targets.htm
+title: Government Quietly Waters Down Child Poverty Targets
+date: 2024-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00156/government-quietly-waters-down-child-poverty-targets.htm
 author: green-party
+permalink: >-
+  /archive/2024/07/25/government-quietly-waters-down-child-poverty-targets/index.html
+layout: layout.njk
 ---
 Government Quietly Waters Down Child Poverty Targets
 ====================================================

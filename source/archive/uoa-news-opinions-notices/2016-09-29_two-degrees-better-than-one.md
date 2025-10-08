@@ -1,8 +1,11 @@
 ---
 slug: two-degrees-better-than-one
-title: "Two degrees better than one"
-date: 2016-09-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/two-degrees-better.html
+title: Two degrees better than one
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/two-degrees-better.html
+permalink: /archive/2016/09/29/two-degrees-better-than-one/index.html
+layout: layout.njk
 ---
 Two degrees better than one
 ===========================

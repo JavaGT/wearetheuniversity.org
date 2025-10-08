@@ -1,9 +1,11 @@
 ---
 slug: transformation-underway
-title: "‘Transformation’ underway"
-date: 2017-03-13
+title: ‘Transformation’ underway
+date: 2017-03-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1703/S00059/transformation-underway.htm
 author: lincoln-university
+permalink: /archive/2017/03/13/transformation-underway/index.html
+layout: layout.njk
 ---
 ‘Transformation’ underway
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: kings-broken-pharmaceutical-promise
-title: "King's Broken Pharmaceutical Promise"
-date: 2003-09-15
-source-url: https://www.scoop.co.nz/stories/PA0309/S00326/kings-broken-pharmaceutical-promise.htm
+title: King's Broken Pharmaceutical Promise
+date: 2003-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00326/kings-broken-pharmaceutical-promise.htm
 author: act-new-zealand
+permalink: /archive/2003/09/15/kings-broken-pharmaceutical-promise/index.html
+layout: layout.njk
 ---
 King's Broken Pharmaceutical Promise
 ====================================

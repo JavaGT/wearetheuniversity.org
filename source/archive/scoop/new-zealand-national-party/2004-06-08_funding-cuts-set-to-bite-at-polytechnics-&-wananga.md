@@ -1,9 +1,12 @@
 ---
 slug: funding-cuts-set-to-bite-at-polytechnics-&-wananga
-title: "Funding cuts set to bite at polytechnics & wananga"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/PA0406/S00107/funding-cuts-set-to-bite-at-polytechnics-wananga.htm
+title: Funding cuts set to bite at polytechnics & wananga
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00107/funding-cuts-set-to-bite-at-polytechnics-wananga.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/08/funding-cuts-set-to-bite-at-polytechnics-/index.html
+layout: layout.njk
 ---
 Funding cuts set to bite at polytechnics & wananga
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: in-conversation-with-the-past
-title: "In Conversation with the Past"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/CU0910/S00049/in-conversation-with-the-past.htm
+title: In Conversation with the Past
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00049/in-conversation-with-the-past.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/05/in-conversation-with-the-past/index.html
+layout: layout.njk
 ---
 In Conversation with the Past
 =============================

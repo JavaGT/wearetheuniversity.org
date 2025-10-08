@@ -1,9 +1,12 @@
 ---
 slug: labours-attempt-to-hide-benefit-numbers-fails
-title: "Labour's attempt to hide benefit numbers fails"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/PA0507/S00438/labours-attempt-to-hide-benefit-numbers-fails.htm
+title: Labour's attempt to hide benefit numbers fails
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00438/labours-attempt-to-hide-benefit-numbers-fails.htm
 author: act-new-zealand
+permalink: /archive/2005/07/20/labours-attempt-to-hide-benefit-numbers-fails/index.html
+layout: layout.njk
 ---
 Labour's attempt to hide benefit numbers fails
 ==============================================

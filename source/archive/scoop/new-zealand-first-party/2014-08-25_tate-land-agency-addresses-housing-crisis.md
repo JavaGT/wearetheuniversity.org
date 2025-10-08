@@ -1,9 +1,12 @@
 ---
 slug: tate-land-agency-addresses-housing-crisis
-title: "Tate Land Agency Addresses Housing Crisis"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/PA1408/S00376/tate-land-agency-addresses-housing-crisis.htm
+title: Tate Land Agency Addresses Housing Crisis
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00376/tate-land-agency-addresses-housing-crisis.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/25/tate-land-agency-addresses-housing-crisis/index.html
+layout: layout.njk
 ---
 Tate Land Agency Addresses Housing Crisis
 =========================================

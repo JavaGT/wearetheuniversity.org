@@ -1,9 +1,13 @@
 ---
 slug: fresh-food-too-expensive-says-uc-marketing-expert
-title: "Fresh food too expensive, says UC marketing expert"
-date: 2013-07-04
-source-url: https://www.scoop.co.nz/stories/GE1307/S00025/fresh-food-too-expensive-says-uc-marketing-expert.htm
+title: Fresh food too expensive, says UC marketing expert
+date: 2013-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00025/fresh-food-too-expensive-says-uc-marketing-expert.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/04/fresh-food-too-expensive-says-uc-marketing-expert/index.html
+layout: layout.njk
 ---
 Fresh food too expensive, says UC marketing expert
 ==================================================

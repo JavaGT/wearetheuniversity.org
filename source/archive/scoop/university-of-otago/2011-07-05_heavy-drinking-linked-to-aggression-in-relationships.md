@@ -1,9 +1,13 @@
 ---
 slug: heavy-drinking-linked-to-aggression-in-relationships
-title: "Heavy drinking linked to aggression in relationships"
-date: 2011-07-05
-source-url: https://www.scoop.co.nz/stories/CU1107/S00059/heavy-drinking-linked-to-aggression-in-relationships.htm
+title: Heavy drinking linked to aggression in relationships
+date: 2011-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1107/S00059/heavy-drinking-linked-to-aggression-in-relationships.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/05/heavy-drinking-linked-to-aggression-in-relationships/index.html
+layout: layout.njk
 ---
 Heavy drinking linked to aggression in relationships
 ====================================================

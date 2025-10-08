@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-smart-farming-for-clean-rivers-policy
-title: "Green Party launches Smart Farming for Clean Rivers policy"
-date: 2014-09-07
-source-url: https://www.scoop.co.nz/stories/PA1409/S00102/green-party-launches-smart-farming-for-clean-rivers-policy.htm
+title: Green Party launches Smart Farming for Clean Rivers policy
+date: 2014-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00102/green-party-launches-smart-farming-for-clean-rivers-policy.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/07/green-party-launches-smart-farming-for-clean-rivers-policy/index.html
+layout: layout.njk
 ---
 Green Party launches Smart Farming for Clean Rivers policy
 ==========================================================

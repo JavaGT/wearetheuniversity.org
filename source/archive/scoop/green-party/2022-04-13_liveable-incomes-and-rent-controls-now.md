@@ -1,9 +1,12 @@
 ---
 slug: liveable-incomes-and-rent-controls-now
-title: "Liveable Incomes And Rent Controls, Now"
-date: 2022-04-13
-source-url: https://www.scoop.co.nz/stories/PA2204/S00099/liveable-incomes-and-rent-controls-now.htm
+title: Liveable Incomes And Rent Controls, Now
+date: 2022-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00099/liveable-incomes-and-rent-controls-now.htm
 author: green-party
+permalink: /archive/2022/04/13/liveable-incomes-and-rent-controls-now/index.html
+layout: layout.njk
 ---
 Liveable Incomes And Rent Controls, Now
 =======================================

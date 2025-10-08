@@ -1,9 +1,13 @@
 ---
 slug: local-scholarship-award-winners-recognised-at-parliament
-title: "Local scholarship award winners recognised at Parliament"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/PA1505/S00098/local-scholarship-award-winners-recognised-at-parliament.htm
+title: Local scholarship award winners recognised at Parliament
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00098/local-scholarship-award-winners-recognised-at-parliament.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/05/06/local-scholarship-award-winners-recognised-at-parliament/index.html
+layout: layout.njk
 ---
 Local scholarship award winners recognised at Parliament
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: please-explain-stupid-training-awatere-huata
-title: "\"Please Explain Stupid Training\" - Awatere Huata"
-date: 2000-10-12
-source-url: https://www.scoop.co.nz/stories/PA0010/S00272/please-explain-stupid-training-awatere-huata.htm
+title: '"Please Explain Stupid Training" - Awatere Huata'
+date: 2000-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00272/please-explain-stupid-training-awatere-huata.htm
 author: act-new-zealand
+permalink: /archive/2000/10/12/please-explain-stupid-training-awatere-huata/index.html
+layout: layout.njk
 ---
 "Please Explain Stupid Training" - Awatere Huata
 ================================================

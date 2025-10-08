@@ -1,9 +1,12 @@
 ---
 slug: national-māori-awards-for-academic-excellence
-title: "National Māori awards for academic excellence"
-date: 2010-03-29
-source-url: https://www.scoop.co.nz/stories/ED1003/S00137/national-maori-awards-for-academic-excellence.htm
+title: National Māori awards for academic excellence
+date: 2010-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00137/national-maori-awards-for-academic-excellence.htm
 author: university-of-waikato
+permalink: /archive/2010/03/29/national-m/index.html
+layout: layout.njk
 ---
 National Māori awards for academic excellence
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: sowry-requests-full-inquiry-into-allowances
-title: "Sowry requests full inquiry into allowances"
-date: 2001-01-15
-source-url: https://www.scoop.co.nz/stories/PA0101/S00016/sowry-requests-full-inquiry-into-allowances.htm
+title: Sowry requests full inquiry into allowances
+date: 2001-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00016/sowry-requests-full-inquiry-into-allowances.htm
 author: new-zealand-national-party
+permalink: /archive/2001/01/15/sowry-requests-full-inquiry-into-allowances/index.html
+layout: layout.njk
 ---
 Sowry requests full inquiry into allowances
 ===========================================

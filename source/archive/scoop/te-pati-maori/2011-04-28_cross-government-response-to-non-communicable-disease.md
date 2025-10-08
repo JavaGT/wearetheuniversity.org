@@ -1,9 +1,13 @@
 ---
 slug: cross-government-response-to-non-communicable-disease
-title: "Cross Government response to non-communicable disease"
-date: 2011-04-28
-source-url: https://www.scoop.co.nz/stories/PA1104/S00505/cross-government-response-to-non-communicable-disease.htm
+title: Cross Government response to non-communicable disease
+date: 2011-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00505/cross-government-response-to-non-communicable-disease.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/04/28/cross-government-response-to-non-communicable-disease/index.html
+layout: layout.njk
 ---
 Cross Government response to non-communicable disease
 =====================================================

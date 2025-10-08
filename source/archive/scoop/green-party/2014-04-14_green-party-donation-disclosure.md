@@ -1,9 +1,12 @@
 ---
 slug: green-party-donation-disclosure
-title: "Green Party donation disclosure"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PA1404/S00237/green-party-donation-disclosure.htm
+title: Green Party donation disclosure
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00237/green-party-donation-disclosure.htm
 author: green-party
+permalink: /archive/2014/04/14/green-party-donation-disclosure/index.html
+layout: layout.njk
 ---
 Green Party donation disclosure
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: biodiversity-is-everyones-business
-title: "Biodiversity Is Everyone’s Business"
-date: 2022-05-05
-source-url: https://www.scoop.co.nz/stories/ED2205/S00014/biodiversity-is-everyones-business.htm
+title: Biodiversity Is Everyone’s Business
+date: 2022-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00014/biodiversity-is-everyones-business.htm
 author: university-of-canterbury
+permalink: /archive/2022/05/05/biodiversity-is-everyones-business/index.html
+layout: layout.njk
 ---
 Biodiversity Is Everyone’s Business
 ===================================

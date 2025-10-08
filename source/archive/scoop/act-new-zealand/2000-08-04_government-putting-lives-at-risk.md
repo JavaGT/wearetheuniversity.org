@@ -1,9 +1,12 @@
 ---
 slug: government-putting-lives-at-risk
-title: "Government Putting Lives at Risk"
-date: 2000-08-04
-source-url: https://www.scoop.co.nz/stories/PA0008/S00098/government-putting-lives-at-risk.htm
+title: Government Putting Lives at Risk
+date: 2000-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00098/government-putting-lives-at-risk.htm
 author: act-new-zealand
+permalink: /archive/2000/08/04/government-putting-lives-at-risk/index.html
+layout: layout.njk
 ---
 Government Putting Lives at Risk
 ================================

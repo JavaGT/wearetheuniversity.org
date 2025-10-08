@@ -1,9 +1,12 @@
 ---
 slug: building-careers-in-land-for-people-of-the-land
-title: "Building careers in land for people of the land"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/ED1308/S00101/building-careers-in-land-for-people-of-the-land.htm
+title: Building careers in land for people of the land
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00101/building-careers-in-land-for-people-of-the-land.htm
 author: lincoln-university
+permalink: /archive/2013/08/21/building-careers-in-land-for-people-of-the-land/index.html
+layout: layout.njk
 ---
 Building careers in land for people of the land
 ===============================================

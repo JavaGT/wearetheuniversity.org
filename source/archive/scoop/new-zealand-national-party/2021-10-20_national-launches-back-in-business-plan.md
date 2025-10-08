@@ -1,9 +1,12 @@
 ---
 slug: national-launches-back-in-business-plan
-title: "National Launches Back In Business Plan"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/PA2110/S00182/national-launches-back-in-business-plan.htm
+title: National Launches Back In Business Plan
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00182/national-launches-back-in-business-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/20/national-launches-back-in-business-plan/index.html
+layout: layout.njk
 ---
 National Launches Back In Business Plan
 =======================================

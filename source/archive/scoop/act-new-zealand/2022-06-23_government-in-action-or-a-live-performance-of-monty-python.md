@@ -1,9 +1,13 @@
 ---
 slug: government-in-action-or-a-live-performance-of-monty-python
-title: "Government In Action Or A Live Performance Of Monty Python?"
-date: 2022-06-23
-source-url: https://www.scoop.co.nz/stories/PA2206/S00189/government-in-action-or-a-live-performance-of-monty-python.htm
+title: Government In Action Or A Live Performance Of Monty Python?
+date: 2022-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00189/government-in-action-or-a-live-performance-of-monty-python.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/06/23/government-in-action-or-a-live-performance-of-monty-python/index.html
+layout: layout.njk
 ---
 Government In Action Or A Live Performance Of Monty Python?
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-to-debate-ge-with-hobbs-hodgson
-title: "Fitzsimons To Debate GE With Hobbs, Hodgson"
-date: 2002-06-21
-source-url: https://www.scoop.co.nz/stories/PA0206/S00386/fitzsimons-to-debate-ge-with-hobbs-hodgson.htm
+title: Fitzsimons To Debate GE With Hobbs, Hodgson
+date: 2002-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00386/fitzsimons-to-debate-ge-with-hobbs-hodgson.htm
 author: green-party
+permalink: /archive/2002/06/21/fitzsimons-to-debate-ge-with-hobbs-hodgson/index.html
+layout: layout.njk
 ---
 Fitzsimons To Debate GE With Hobbs, Hodgson
 ===========================================

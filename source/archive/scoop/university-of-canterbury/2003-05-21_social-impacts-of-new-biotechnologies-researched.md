@@ -1,9 +1,13 @@
 ---
 slug: social-impacts-of-new-biotechnologies-researched
-title: "Social impacts of new biotechnologies researched"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00072/social-impacts-of-new-biotechnologies-researched.htm
+title: Social impacts of new biotechnologies researched
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00072/social-impacts-of-new-biotechnologies-researched.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2003/05/21/social-impacts-of-new-biotechnologies-researched/index.html
+layout: layout.njk
 ---
 Social impacts of new biotechnologies researched
 ================================================

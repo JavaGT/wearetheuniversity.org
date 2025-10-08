@@ -1,9 +1,13 @@
 ---
 slug: talking-or-taking-action-on-the-health-workforce
-title: "Talking Or Taking Action On The Health Workforce"
-date: 2006-07-19
-source-url: https://www.scoop.co.nz/stories/PA0607/S00291/talking-or-taking-action-on-the-health-workforce.htm
+title: Talking Or Taking Action On The Health Workforce
+date: 2006-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00291/talking-or-taking-action-on-the-health-workforce.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2006/07/19/talking-or-taking-action-on-the-health-workforce/index.html
+layout: layout.njk
 ---
 Talking Or Taking Action On The Health Workforce
 ================================================

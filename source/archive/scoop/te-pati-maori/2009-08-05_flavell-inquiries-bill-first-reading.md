@@ -1,9 +1,12 @@
 ---
 slug: flavell-inquiries-bill-first-reading
-title: "Flavell: Inquiries Bill  First Reading"
-date: 2009-08-05
-source-url: https://www.scoop.co.nz/stories/PA0908/S00070/flavell-inquiries-bill-first-reading.htm
+title: 'Flavell: Inquiries Bill  First Reading'
+date: 2009-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00070/flavell-inquiries-bill-first-reading.htm
 author: te-pati-maori
+permalink: /archive/2009/08/05/flavell-inquiries-bill-first-reading/index.html
+layout: layout.njk
 ---
 Flavell: Inquiries Bill First Reading
 =====================================

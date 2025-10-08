@@ -1,9 +1,13 @@
 ---
 slug: government-pays-twice-the-price-for-emergency-housing-motels
-title: "Government pays twice the price for emergency housing motels"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/PA1708/S00327/government-pays-twice-the-price-for-emergency-housing-motels.htm
+title: Government pays twice the price for emergency housing motels
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00327/government-pays-twice-the-price-for-emergency-housing-motels.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/16/government-pays-twice-the-price-for-emergency-housing-motels/index.html
+layout: layout.njk
 ---
 Government pays twice the price for emergency housing motels
 ============================================================

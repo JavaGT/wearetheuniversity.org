@@ -1,9 +1,12 @@
 ---
 slug: just-how-bad-is-the-plight-of-native-frogs
-title: "Just how bad is the plight of native frogs?"
-date: 2011-06-16
-source-url: https://www.scoop.co.nz/stories/SC1106/S00058/just-how-bad-is-the-plight-of-native-frogs.htm
+title: Just how bad is the plight of native frogs?
+date: 2011-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00058/just-how-bad-is-the-plight-of-native-frogs.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/06/16/just-how-bad-is-the-plight-of-native-frogs/index.html
+layout: layout.njk
 ---
 Just how bad is the plight of native frogs?
 ===========================================

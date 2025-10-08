@@ -1,9 +1,12 @@
 ---
 slug: massey-poets-triple-packed-in-kete-series
-title: "Massey poets triple-packed in kete series"
-date: 2014-08-22
-source-url: https://www.scoop.co.nz/stories/ED1408/S00118/massey-poets-triple-packed-in-kete-series.htm
+title: Massey poets triple-packed in kete series
+date: 2014-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00118/massey-poets-triple-packed-in-kete-series.htm
 author: massey-university
+permalink: /archive/2014/08/22/massey-poets-triple-packed-in-kete-series/index.html
+layout: layout.njk
 ---
 Massey poets triple-packed in kete series
 =========================================

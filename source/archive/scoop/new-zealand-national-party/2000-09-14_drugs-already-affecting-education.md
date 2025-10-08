@@ -1,9 +1,12 @@
 ---
 slug: drugs-already-affecting-education
-title: "Drugs Already Affecting Education"
-date: 2000-09-14
-source-url: https://www.scoop.co.nz/stories/PA0009/S00223/drugs-already-affecting-education.htm
+title: Drugs Already Affecting Education
+date: 2000-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00223/drugs-already-affecting-education.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/14/drugs-already-affecting-education/index.html
+layout: layout.njk
 ---
 Drugs Already Affecting Education
 =================================

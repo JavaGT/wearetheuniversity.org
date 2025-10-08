@@ -1,9 +1,13 @@
 ---
 slug: mother-of-three-becomes-first-person-from-village-to-graduate-with-masters
-title: "Mother Of Three Becomes First Person From Village To Graduate With Masters"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/ED2005/S00019/mother-of-three-becomes-first-person-from-village-to-graduate-with-masters.htm
+title: Mother Of Three Becomes First Person From Village To Graduate With Masters
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00019/mother-of-three-becomes-first-person-from-village-to-graduate-with-masters.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/05/08/mother-of-three-becomes-first-person-from-village-to-graduate-with-masters/index.html
+layout: layout.njk
 ---
 Mother Of Three Becomes First Person From Village To Graduate With Masters
 ==========================================================================

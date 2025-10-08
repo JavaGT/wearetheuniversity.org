@@ -1,9 +1,12 @@
 ---
 slug: speech-goff-sas-to-afghanistan-2009
-title: "Speech: Goff - SAS To Afghanistan, 2009"
-date: 2009-08-18
-source-url: https://www.scoop.co.nz/stories/PA0908/S00234/speech-goff-sas-to-afghanistan-2009.htm
+title: 'Speech: Goff - SAS To Afghanistan, 2009'
+date: 2009-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00234/speech-goff-sas-to-afghanistan-2009.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/18/speech-goff-sas-to-afghanistan-2009/index.html
+layout: layout.njk
 ---
 Speech: Goff - SAS To Afghanistan, 2009
 =======================================

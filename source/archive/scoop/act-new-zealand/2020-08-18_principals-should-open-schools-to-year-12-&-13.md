@@ -1,9 +1,12 @@
 ---
 slug: principals-should-open-schools-to-year-12-&-13
-title: "Principals Should Open Schools To Year 12 & 13"
-date: 2020-08-18
-source-url: https://www.scoop.co.nz/stories/PA2008/S00144/principals-should-open-schools-to-year-12-13.htm
+title: Principals Should Open Schools To Year 12 & 13
+date: 2020-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00144/principals-should-open-schools-to-year-12-13.htm
 author: act-new-zealand
+permalink: /archive/2020/08/18/principals-should-open-schools-to-year-12-/index.html
+layout: layout.njk
 ---
 Principals Should Open Schools To Year 12 & 13
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-uni-startup-looks-to-nurture-raw-ideas
-title: "Massey Uni Startup Looks To Nurture 'Raw Ideas'"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00068/massey-uni-startup-looks-to-nurture-raw-ideas.htm
+title: Massey Uni Startup Looks To Nurture 'Raw Ideas'
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00068/massey-uni-startup-looks-to-nurture-raw-ideas.htm
 author: massey-university
+permalink: /archive/2003/05/21/massey-uni-startup-looks-to-nurture-raw-ideas/index.html
+layout: layout.njk
 ---
 Massey Uni Startup Looks To Nurture 'Raw Ideas'
 ===============================================

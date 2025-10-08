@@ -1,9 +1,12 @@
 ---
 slug: pavlova-western-winning-rave-us-reviews
-title: "'Pavlova Western' winning rave US reviews"
-date: 2011-03-10
-source-url: https://www.scoop.co.nz/stories/CU1103/S00211/pavlova-western-winning-rave-us-reviews.htm
+title: '''Pavlova Western'' winning rave US reviews'
+date: 2011-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1103/S00211/pavlova-western-winning-rave-us-reviews.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/03/10/pavlova-western-winning-rave-us-reviews/index.html
+layout: layout.njk
 ---
 'Pavlova Western' winning rave US reviews
 =========================================

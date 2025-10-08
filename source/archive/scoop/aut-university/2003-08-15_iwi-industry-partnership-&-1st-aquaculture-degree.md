@@ -1,9 +1,12 @@
 ---
 slug: iwi-industry-partnership-&-1st-aquaculture-degree
-title: "Iwi Industry Partnership & 1st Aquaculture Degree"
-date: 2003-08-15
-source-url: https://www.scoop.co.nz/stories/ED0308/S00058/iwi-industry-partnership-1st-aquaculture-degree.htm
+title: Iwi Industry Partnership & 1st Aquaculture Degree
+date: 2003-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00058/iwi-industry-partnership-1st-aquaculture-degree.htm
 author: aut-university
+permalink: /archive/2003/08/15/iwi-industry-partnership-/index.html
+layout: layout.njk
 ---
 Iwi Industry Partnership & 1st Aquaculture Degree
 =================================================

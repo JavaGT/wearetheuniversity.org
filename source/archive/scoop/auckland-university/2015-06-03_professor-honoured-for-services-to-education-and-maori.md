@@ -1,9 +1,13 @@
 ---
 slug: professor-honoured-for-services-to-education-and-maori
-title: "Professor honoured for services to education and Maori"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/ED1506/S00010/professor-honoured-for-services-to-education-and-maori.htm
+title: Professor honoured for services to education and Maori
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00010/professor-honoured-for-services-to-education-and-maori.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/06/03/professor-honoured-for-services-to-education-and-maori/index.html
+layout: layout.njk
 ---
 Professor honoured for services to education and Maori
 ======================================================

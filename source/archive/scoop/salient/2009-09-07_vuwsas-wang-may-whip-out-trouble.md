@@ -1,9 +1,12 @@
 ---
 slug: vuwsas-wang-may-whip-out-trouble
-title: "VUWSA’s Wang may whip out trouble"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/HL0909/S00040/vuwsas-wang-may-whip-out-trouble.htm
+title: VUWSA’s Wang may whip out trouble
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0909/S00040/vuwsas-wang-may-whip-out-trouble.htm
 author: salient
+permalink: /archive/2009/09/07/vuwsas-wang-may-whip-out-trouble/index.html
+layout: layout.njk
 ---
 VUWSA’s Wang may whip out trouble
 =================================

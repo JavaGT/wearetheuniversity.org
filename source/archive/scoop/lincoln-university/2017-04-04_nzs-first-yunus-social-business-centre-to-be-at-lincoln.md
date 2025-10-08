@@ -1,9 +1,13 @@
 ---
 slug: nzs-first-yunus-social-business-centre-to-be-at-lincoln
-title: "NZ’s first Yunus Social Business Centre to be at Lincoln"
-date: 2017-04-04
-source-url: https://www.scoop.co.nz/stories/ED1704/S00008/nzs-first-yunus-social-business-centre-to-be-at-lincoln.htm
+title: NZ’s first Yunus Social Business Centre to be at Lincoln
+date: 2017-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00008/nzs-first-yunus-social-business-centre-to-be-at-lincoln.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/04/04/nzs-first-yunus-social-business-centre-to-be-at-lincoln/index.html
+layout: layout.njk
 ---
 NZ’s first Yunus Social Business Centre to be at Lincoln
 ========================================================

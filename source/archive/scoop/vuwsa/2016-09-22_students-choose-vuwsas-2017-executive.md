@@ -1,9 +1,12 @@
 ---
 slug: students-choose-vuwsas-2017-executive
-title: "Students choose VUWSA’s 2017 Executive"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/PO1609/S00295/students-choose-vuwsas-2017-executive.htm
+title: Students choose VUWSA’s 2017 Executive
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00295/students-choose-vuwsas-2017-executive.htm
 author: vuwsa
+permalink: /archive/2016/09/22/students-choose-vuwsas-2017-executive/index.html
+layout: layout.njk
 ---
 Students choose VUWSA’s 2017 Executive
 ======================================

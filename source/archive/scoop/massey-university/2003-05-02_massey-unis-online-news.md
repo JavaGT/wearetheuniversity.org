@@ -1,9 +1,11 @@
 ---
 slug: massey-unis-online-news
-title: "Massey Uni's Online News"
-date: 2003-05-02
+title: Massey Uni's Online News
+date: 2003-05-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0305/S00011/massey-unis-online-news.htm
 author: massey-university
+permalink: /archive/2003/05/02/massey-unis-online-news/index.html
+layout: layout.njk
 ---
 Massey Uni's Online News
 ========================

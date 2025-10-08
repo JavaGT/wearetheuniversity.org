@@ -1,9 +1,12 @@
 ---
 slug: the-definition-of-madness…-english-on-jobs
-title: "The definition of madness… English on jobs"
-date: 2012-11-10
-source-url: https://www.scoop.co.nz/stories/PA1211/S00184/the-definition-of-madness-english-on-jobs.htm
+title: The definition of madness… English on jobs
+date: 2012-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00184/the-definition-of-madness-english-on-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/10/the-definition-of-madness/index.html
+layout: layout.njk
 ---
 The definition of madness… English on jobs
 ==========================================

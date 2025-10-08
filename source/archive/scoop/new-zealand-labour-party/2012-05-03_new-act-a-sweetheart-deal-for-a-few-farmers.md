@@ -1,9 +1,12 @@
 ---
 slug: new-act-a-sweetheart-deal-for-a-few-farmers
-title: "New Act a sweetheart deal for a few farmers"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/PA1205/S00072/new-act-a-sweetheart-deal-for-a-few-farmers.htm
+title: New Act a sweetheart deal for a few farmers
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00072/new-act-a-sweetheart-deal-for-a-few-farmers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/03/new-act-a-sweetheart-deal-for-a-few-farmers/index.html
+layout: layout.njk
 ---
 New Act a sweetheart deal for a few farmers
 ===========================================

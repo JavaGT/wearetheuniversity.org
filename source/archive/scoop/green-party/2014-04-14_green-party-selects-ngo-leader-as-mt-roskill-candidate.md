@@ -1,9 +1,13 @@
 ---
 slug: green-party-selects-ngo-leader-as-mt-roskill-candidate
-title: "Green Party selects NGO leader as Mt Roskill candidate"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PO1404/S00214/green-party-selects-ngo-leader-as-mt-roskill-candidate.htm
+title: Green Party selects NGO leader as Mt Roskill candidate
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00214/green-party-selects-ngo-leader-as-mt-roskill-candidate.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/14/green-party-selects-ngo-leader-as-mt-roskill-candidate/index.html
+layout: layout.njk
 ---
 Green Party selects NGO leader as Mt Roskill candidate
 ======================================================

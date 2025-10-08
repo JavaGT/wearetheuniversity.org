@@ -1,9 +1,13 @@
 ---
 slug: extreme-weather-brings-rafts-from-the-sub-antarctic-to-nz
-title: "Extreme weather brings rafts from the sub-Antarctic to NZ"
-date: 2018-03-21
-source-url: https://www.scoop.co.nz/stories/SC1803/S00047/extreme-weather-brings-rafts-from-the-sub-antarctic-to-nz.htm
+title: Extreme weather brings rafts from the sub-Antarctic to NZ
+date: 2018-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00047/extreme-weather-brings-rafts-from-the-sub-antarctic-to-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/21/extreme-weather-brings-rafts-from-the-sub-antarctic-to-nz/index.html
+layout: layout.njk
 ---
 Extreme weather brings rafts from the sub-Antarctic to NZ
 =========================================================

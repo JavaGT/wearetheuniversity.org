@@ -1,9 +1,12 @@
 ---
 slug: minister-must-stop-debt-collection-in-schools
-title: "Minister must stop debt collection in schools"
-date: 2012-07-10
-source-url: https://www.scoop.co.nz/stories/PA1207/S00119/minister-must-stop-debt-collection-in-schools.htm
+title: Minister must stop debt collection in schools
+date: 2012-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00119/minister-must-stop-debt-collection-in-schools.htm
 author: green-party
+permalink: /archive/2012/07/10/minister-must-stop-debt-collection-in-schools/index.html
+layout: layout.njk
 ---
 Minister must stop debt collection in schools
 =============================================

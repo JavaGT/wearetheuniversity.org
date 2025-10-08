@@ -1,9 +1,13 @@
 ---
 slug: greens-education-amendment-bill-must-protect-student-voice
-title: "Greens: Education Amendment Bill must protect student voice"
-date: 2018-09-11
-source-url: https://www.scoop.co.nz/stories/PA1809/S00146/greens-education-amendment-bill-must-protect-student-voice.htm
+title: 'Greens: Education Amendment Bill must protect student voice'
+date: 2018-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00146/greens-education-amendment-bill-must-protect-student-voice.htm
 author: green-party
+permalink: >-
+  /archive/2018/09/11/greens-education-amendment-bill-must-protect-student-voice/index.html
+layout: layout.njk
 ---
 Greens: Education Amendment Bill must protect student voice
 ===========================================================

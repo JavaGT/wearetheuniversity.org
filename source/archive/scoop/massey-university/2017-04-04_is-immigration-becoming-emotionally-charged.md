@@ -1,9 +1,12 @@
 ---
 slug: is-immigration-becoming-emotionally-charged
-title: "Is immigration becoming emotionally charged?"
-date: 2017-04-04
-source-url: https://www.scoop.co.nz/stories/PO1704/S00023/is-immigration-becoming-emotionally-charged.htm
+title: Is immigration becoming emotionally charged?
+date: 2017-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00023/is-immigration-becoming-emotionally-charged.htm
 author: massey-university
+permalink: /archive/2017/04/04/is-immigration-becoming-emotionally-charged/index.html
+layout: layout.njk
 ---
 Is immigration becoming emotionally charged?
 ============================================

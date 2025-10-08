@@ -1,9 +1,12 @@
 ---
 slug: free-buses-an-idea-whose-timetable-should-come
-title: "Free buses an idea whose timetable should come"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/PA0605/S00202/free-buses-an-idea-whose-timetable-should-come.htm
+title: Free buses an idea whose timetable should come
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00202/free-buses-an-idea-whose-timetable-should-come.htm
 author: green-party
+permalink: /archive/2006/05/09/free-buses-an-idea-whose-timetable-should-come/index.html
+layout: layout.njk
 ---
 Free buses an idea whose timetable should come
 ==============================================

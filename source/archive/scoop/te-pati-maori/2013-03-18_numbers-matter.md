@@ -1,9 +1,11 @@
 ---
 slug: numbers-matter
-title: "Numbers Matter"
-date: 2013-03-18
+title: Numbers Matter
+date: 2013-03-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1303/S00302/numbers-matter.htm
 author: te-pati-maori
+permalink: /archive/2013/03/18/numbers-matter/index.html
+layout: layout.njk
 ---
 Numbers Matter
 ==============

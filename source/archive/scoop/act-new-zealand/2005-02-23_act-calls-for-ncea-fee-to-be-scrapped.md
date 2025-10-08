@@ -1,9 +1,12 @@
 ---
 slug: act-calls-for-ncea-fee-to-be-scrapped
-title: "ACT calls for NCEA fee to be scrapped"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/PA0502/S00493/act-calls-for-ncea-fee-to-be-scrapped.htm
+title: ACT calls for NCEA fee to be scrapped
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00493/act-calls-for-ncea-fee-to-be-scrapped.htm
 author: act-new-zealand
+permalink: /archive/2005/02/23/act-calls-for-ncea-fee-to-be-scrapped/index.html
+layout: layout.njk
 ---
 ACT calls for NCEA fee to be scrapped
 =====================================

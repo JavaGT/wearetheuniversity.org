@@ -1,9 +1,12 @@
 ---
 slug: education-under-huge-pressure-to-cut-costs
-title: "Education under huge pressure to cut costs"
-date: 2013-07-06
-source-url: https://www.scoop.co.nz/stories/PA1307/S00110/education-under-huge-pressure-to-cut-costs.htm
+title: Education under huge pressure to cut costs
+date: 2013-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00110/education-under-huge-pressure-to-cut-costs.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/06/education-under-huge-pressure-to-cut-costs/index.html
+layout: layout.njk
 ---
 Education under huge pressure to cut costs
 ==========================================

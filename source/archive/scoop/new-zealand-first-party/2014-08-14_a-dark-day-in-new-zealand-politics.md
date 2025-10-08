@@ -1,9 +1,12 @@
 ---
 slug: a-dark-day-in-new-zealand-politics
-title: "A Dark Day in New Zealand Politics"
-date: 2014-08-14
-source-url: https://www.scoop.co.nz/stories/PA1408/S00219/a-dark-day-in-new-zealand-politics.htm
+title: A Dark Day in New Zealand Politics
+date: 2014-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00219/a-dark-day-in-new-zealand-politics.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/14/a-dark-day-in-new-zealand-politics/index.html
+layout: layout.njk
 ---
 A Dark Day in New Zealand Politics
 ==================================

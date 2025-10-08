@@ -1,9 +1,11 @@
 ---
 slug: til-debt-do-us-part
-title: "‘Til Debt Do Us Part"
-date: 2002-07-24
+title: ‘Til Debt Do Us Part
+date: 2002-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0207/S00061/til-debt-do-us-part.htm
 author: auckland-university-students-association
+permalink: /archive/2002/07/24/til-debt-do-us-part/index.html
+layout: layout.njk
 ---
 ‘Til Debt Do Us Part
 ====================

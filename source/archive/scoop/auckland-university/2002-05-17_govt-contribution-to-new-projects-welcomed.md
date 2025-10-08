@@ -1,9 +1,12 @@
 ---
 slug: govt-contribution-to-new-projects-welcomed
-title: "Govt Contribution To New Projects Welcomed"
-date: 2002-05-17
-source-url: https://www.scoop.co.nz/stories/ED0205/S00030/govt-contribution-to-new-projects-welcomed.htm
+title: Govt Contribution To New Projects Welcomed
+date: 2002-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00030/govt-contribution-to-new-projects-welcomed.htm
 author: auckland-university
+permalink: /archive/2002/05/17/govt-contribution-to-new-projects-welcomed/index.html
+layout: layout.njk
 ---
 Govt Contribution To New Projects Welcomed
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: remittances-key-to-local-development
-title: "Remittances key to local development"
-date: 2007-06-27
-source-url: https://www.scoop.co.nz/stories/ED0706/S00103/remittances-key-to-local-development.htm
+title: Remittances key to local development
+date: 2007-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00103/remittances-key-to-local-development.htm
 author: waikato-university
+permalink: /archive/2007/06/27/remittances-key-to-local-development/index.html
+layout: layout.njk
 ---
 Remittances key to local development
 ====================================

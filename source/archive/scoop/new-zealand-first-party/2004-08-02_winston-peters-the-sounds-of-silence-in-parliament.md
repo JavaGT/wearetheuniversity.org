@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-the-sounds-of-silence-in-parliament
-title: "Winston Peters:The Sounds Of Silence in Parliament"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/PA0408/S00026/winston-petersthe-sounds-of-silence-in-parliament.htm
+title: Winston Peters:The Sounds Of Silence in Parliament
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00026/winston-petersthe-sounds-of-silence-in-parliament.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2004/08/02/winston-peters-the-sounds-of-silence-in-parliament/index.html
+layout: layout.njk
 ---
 Winston Peters:The Sounds Of Silence in Parliament
 ==================================================

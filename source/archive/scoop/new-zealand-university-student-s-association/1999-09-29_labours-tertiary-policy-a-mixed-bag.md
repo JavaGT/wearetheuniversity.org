@@ -1,9 +1,12 @@
 ---
 slug: labours-tertiary-policy-a-mixed-bag
-title: "Labours Tertiary Policy – a mixed bag"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/ED9909/S00060/labours-tertiary-policy-a-mixed-bag.htm
+title: Labours Tertiary Policy – a mixed bag
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00060/labours-tertiary-policy-a-mixed-bag.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/09/29/labours-tertiary-policy-a-mixed-bag/index.html
+layout: layout.njk
 ---
 Labours Tertiary Policy – a mixed bag
 =====================================

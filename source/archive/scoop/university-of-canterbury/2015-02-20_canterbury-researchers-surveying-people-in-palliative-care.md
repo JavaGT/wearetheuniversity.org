@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researchers-surveying-people-in-palliative-care
-title: "Canterbury researchers surveying people in palliative care"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/GE1502/S00061/canterbury-researchers-surveying-people-in-palliative-care.htm
+title: Canterbury researchers surveying people in palliative care
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1502/S00061/canterbury-researchers-surveying-people-in-palliative-care.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/20/canterbury-researchers-surveying-people-in-palliative-care/index.html
+layout: layout.njk
 ---
 Canterbury researchers surveying people in palliative care
 ==========================================================

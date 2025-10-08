@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-should-end-all-ties-with-usa-military
-title: "New Zealand should end all ties with USA military"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/PO1605/S00453/new-zealand-should-end-all-ties-with-usa-military.htm
+title: New Zealand should end all ties with USA military
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00453/new-zealand-should-end-all-ties-with-usa-military.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2016/05/31/new-zealand-should-end-all-ties-with-usa-military/index.html
+layout: layout.njk
 ---
 New Zealand should end all ties with USA military
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: putting-new-zealand-on-the-front-page
-title: "Putting New Zealand on the front page"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/SC1611/S00053/putting-new-zealand-on-the-front-page.htm
+title: Putting New Zealand on the front page
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00053/putting-new-zealand-on-the-front-page.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/11/21/putting-new-zealand-on-the-front-page/index.html
+layout: layout.njk
 ---
 Putting New Zealand on the front page
 =====================================

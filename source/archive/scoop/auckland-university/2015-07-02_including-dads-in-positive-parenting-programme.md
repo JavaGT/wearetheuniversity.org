@@ -1,9 +1,12 @@
 ---
 slug: including-dads-in-positive-parenting-programme
-title: "Including dads in positive parenting programme"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/ED1507/S00024/including-dads-in-positive-parenting-programme.htm
+title: Including dads in positive parenting programme
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00024/including-dads-in-positive-parenting-programme.htm
 author: auckland-university
+permalink: /archive/2015/07/02/including-dads-in-positive-parenting-programme/index.html
+layout: layout.njk
 ---
 Including dads in positive parenting programme
 ==============================================

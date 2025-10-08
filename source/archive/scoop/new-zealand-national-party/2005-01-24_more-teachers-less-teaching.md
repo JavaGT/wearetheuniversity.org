@@ -1,9 +1,11 @@
 ---
 slug: more-teachers-less-teaching
-title: "More Teachers - Less Teaching"
-date: 2005-01-24
+title: More Teachers - Less Teaching
+date: 2005-01-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0501/S00194/more-teachers-less-teaching.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/24/more-teachers-less-teaching/index.html
+layout: layout.njk
 ---
 More Teachers - Less Teaching
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: productivity;-a-more-skilled-workforce
-title: "Productivity; a More Skilled Workforce"
-date: 2006-01-20
-source-url: https://www.scoop.co.nz/stories/PA0601/S00083/productivity-a-more-skilled-workforce.htm
+title: Productivity; a More Skilled Workforce
+date: 2006-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00083/productivity-a-more-skilled-workforce.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/20/productivity/index.html
+layout: layout.njk
 ---
 Productivity; a More Skilled Workforce
 ======================================

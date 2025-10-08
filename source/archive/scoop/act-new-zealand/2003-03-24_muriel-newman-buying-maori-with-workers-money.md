@@ -1,9 +1,12 @@
 ---
 slug: muriel-newman-buying-maori-with-workers-money
-title: "Muriel Newman: Buying Maori With Workers' Money"
-date: 2003-03-24
-source-url: https://www.scoop.co.nz/stories/PA0303/S00418/muriel-newman-buying-maori-with-workers-money.htm
+title: 'Muriel Newman: Buying Maori With Workers'' Money'
+date: 2003-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00418/muriel-newman-buying-maori-with-workers-money.htm
 author: act-new-zealand
+permalink: /archive/2003/03/24/muriel-newman-buying-maori-with-workers-money/index.html
+layout: layout.njk
 ---
 Muriel Newman: Buying Maori With Workers' Money
 ===============================================

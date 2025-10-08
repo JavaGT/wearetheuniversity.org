@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-use-haybales-to-protect-whitebait-spawning
-title: "UC Scientists Use Haybales to Protect Whitebait Spawning"
-date: 2018-06-07
-source-url: https://www.scoop.co.nz/stories/SC1806/S00015/uc-scientists-use-haybales-to-protect-whitebait-spawning.htm
+title: UC Scientists Use Haybales to Protect Whitebait Spawning
+date: 2018-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00015/uc-scientists-use-haybales-to-protect-whitebait-spawning.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/07/uc-scientists-use-haybales-to-protect-whitebait-spawning/index.html
+layout: layout.njk
 ---
 UC Scientists Use Haybales to Protect Whitebait Spawning
 ========================================================

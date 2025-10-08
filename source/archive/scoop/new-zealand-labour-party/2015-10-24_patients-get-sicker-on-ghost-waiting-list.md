@@ -1,9 +1,12 @@
 ---
 slug: patients-get-sicker-on-ghost-waiting-list
-title: "Patients get sicker on ‘ghost’ waiting list"
-date: 2015-10-24
-source-url: https://www.scoop.co.nz/stories/PA1510/S00451/patients-get-sicker-on-ghost-waiting-list.htm
+title: Patients get sicker on ‘ghost’ waiting list
+date: 2015-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00451/patients-get-sicker-on-ghost-waiting-list.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/24/patients-get-sicker-on-ghost-waiting-list/index.html
+layout: layout.njk
 ---
 Patients get sicker on ‘ghost’ waiting list
 ===========================================

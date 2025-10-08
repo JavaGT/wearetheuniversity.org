@@ -1,9 +1,13 @@
 ---
 slug: aut-outlines-progress-towards-a-more-sustainable-future
-title: "AUT Outlines Progress Towards A More Sustainable Future"
-date: 2021-11-09
-source-url: https://www.scoop.co.nz/stories/ED2111/S00026/aut-outlines-progress-towards-a-more-sustainable-future.htm
+title: AUT Outlines Progress Towards A More Sustainable Future
+date: 2021-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00026/aut-outlines-progress-towards-a-more-sustainable-future.htm
 author: aut-university
+permalink: >-
+  /archive/2021/11/09/aut-outlines-progress-towards-a-more-sustainable-future/index.html
+layout: layout.njk
 ---
 AUT Outlines Progress Towards A More Sustainable Future
 =======================================================

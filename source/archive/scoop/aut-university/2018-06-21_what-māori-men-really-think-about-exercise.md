@@ -1,9 +1,12 @@
 ---
 slug: what-māori-men-really-think-about-exercise
-title: "What Māori men really think about exercise"
-date: 2018-06-21
-source-url: https://www.scoop.co.nz/stories/GE1806/S00080/what-maori-men-really-think-about-exercise.htm
+title: What Māori men really think about exercise
+date: 2018-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00080/what-maori-men-really-think-about-exercise.htm
 author: aut-university
+permalink: /archive/2018/06/21/what-m/index.html
+layout: layout.njk
 ---
 What Māori men really think about exercise
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: special-education-to-focus-on-student-support
-title: "Special Education to focus on student support"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00098/special-education-to-focus-on-student-support.htm
+title: Special Education to focus on student support
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00098/special-education-to-focus-on-student-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/03/special-education-to-focus-on-student-support/index.html
+layout: layout.njk
 ---
 Special Education to focus on student support
 =============================================

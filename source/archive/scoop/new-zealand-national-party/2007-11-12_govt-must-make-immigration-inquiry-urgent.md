@@ -1,9 +1,12 @@
 ---
 slug: govt-must-make-immigration-inquiry-urgent
-title: "Govt must make immigration inquiry urgent"
-date: 2007-11-12
-source-url: https://www.scoop.co.nz/stories/PA0711/S00210/govt-must-make-immigration-inquiry-urgent.htm
+title: Govt must make immigration inquiry urgent
+date: 2007-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00210/govt-must-make-immigration-inquiry-urgent.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/12/govt-must-make-immigration-inquiry-urgent/index.html
+layout: layout.njk
 ---
 Govt must make immigration inquiry urgent
 =========================================

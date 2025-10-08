@@ -1,9 +1,13 @@
 ---
 slug: scientists-identify-global-game-changers-for-biosecurity
-title: "Scientists identify global ‘game-changers’ for biosecurity"
-date: 2017-05-29
-source-url: https://www.scoop.co.nz/stories/SC1705/S00083/scientists-identify-global-game-changers-for-biosecurity.htm
+title: Scientists identify global ‘game-changers’ for biosecurity
+date: 2017-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00083/scientists-identify-global-game-changers-for-biosecurity.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/05/29/scientists-identify-global-game-changers-for-biosecurity/index.html
+layout: layout.njk
 ---
 Scientists identify global ‘game-changers’ for biosecurity
 ==========================================================

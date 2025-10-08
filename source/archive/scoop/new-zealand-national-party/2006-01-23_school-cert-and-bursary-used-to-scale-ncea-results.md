@@ -1,9 +1,13 @@
 ---
 slug: school-cert-and-bursary-used-to-scale-ncea-results
-title: "School Cert and Bursary used to scale NCEA results"
-date: 2006-01-23
-source-url: https://www.scoop.co.nz/stories/PA0601/S00091/school-cert-and-bursary-used-to-scale-ncea-results.htm
+title: School Cert and Bursary used to scale NCEA results
+date: 2006-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00091/school-cert-and-bursary-used-to-scale-ncea-results.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/01/23/school-cert-and-bursary-used-to-scale-ncea-results/index.html
+layout: layout.njk
 ---
 School Cert and Bursary used to scale NCEA results
 ==================================================

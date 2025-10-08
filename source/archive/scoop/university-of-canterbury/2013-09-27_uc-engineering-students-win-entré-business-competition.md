@@ -1,9 +1,12 @@
 ---
 slug: uc-engineering-students-win-entré-business-competition
-title: "UC engineering students win entré business competition"
-date: 2013-09-27
-source-url: https://www.scoop.co.nz/stories/BU1309/S00995/uc-engineering-students-win-entre-business-competition.htm
+title: UC engineering students win entré business competition
+date: 2013-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1309/S00995/uc-engineering-students-win-entre-business-competition.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/27/uc-engineering-students-win-entr/index.html
+layout: layout.njk
 ---
 UC engineering students win entré business competition
 ======================================================

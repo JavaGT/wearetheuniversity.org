@@ -1,9 +1,12 @@
 ---
 slug: work-of-parents-advocates-on-dyslexia-commended
-title: "Work of Parents, Advocates on Dyslexia Commended"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/PA0704/S00351/work-of-parents-advocates-on-dyslexia-commended.htm
+title: Work of Parents, Advocates on Dyslexia Commended
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00351/work-of-parents-advocates-on-dyslexia-commended.htm
 author: te-pati-maori
+permalink: /archive/2007/04/20/work-of-parents-advocates-on-dyslexia-commended/index.html
+layout: layout.njk
 ---
 Work of Parents, Advocates on Dyslexia Commended
 ================================================

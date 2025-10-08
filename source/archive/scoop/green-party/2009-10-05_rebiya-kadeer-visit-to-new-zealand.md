@@ -1,9 +1,12 @@
 ---
 slug: rebiya-kadeer-visit-to-new-zealand
-title: "Rebiya Kadeer visit to New Zealand"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/PA0910/S00052/rebiya-kadeer-visit-to-new-zealand.htm
+title: Rebiya Kadeer visit to New Zealand
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00052/rebiya-kadeer-visit-to-new-zealand.htm
 author: green-party
+permalink: /archive/2009/10/05/rebiya-kadeer-visit-to-new-zealand/index.html
+layout: layout.njk
 ---
 Rebiya Kadeer visit to New Zealand
 ==================================

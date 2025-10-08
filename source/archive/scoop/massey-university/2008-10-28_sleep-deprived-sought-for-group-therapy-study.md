@@ -1,9 +1,12 @@
 ---
 slug: sleep-deprived-sought-for-group-therapy-study
-title: "Sleep-deprived sought for group therapy study"
-date: 2008-10-28
-source-url: https://www.scoop.co.nz/stories/GE0810/S00131/sleep-deprived-sought-for-group-therapy-study.htm
+title: Sleep-deprived sought for group therapy study
+date: 2008-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00131/sleep-deprived-sought-for-group-therapy-study.htm
 author: massey-university
+permalink: /archive/2008/10/28/sleep-deprived-sought-for-group-therapy-study/index.html
+layout: layout.njk
 ---
 Sleep-deprived sought for group therapy study
 =============================================

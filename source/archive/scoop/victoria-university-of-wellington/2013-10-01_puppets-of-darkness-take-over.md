@@ -1,9 +1,12 @@
 ---
 slug: puppets-of-darkness-take-over
-title: "Puppets of Darkness Take Over"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/AK1310/S00053/puppets-of-darkness-take-over.htm
+title: Puppets of Darkness Take Over
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00053/puppets-of-darkness-take-over.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/01/puppets-of-darkness-take-over/index.html
+layout: layout.njk
 ---
 Puppets of Darkness Take Over
 =============================

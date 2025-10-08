@@ -1,9 +1,12 @@
 ---
 slug: speech-ardern-labour-party-congress-2020
-title: "Speech: Ardern Labour Party Congress 2020"
-date: 2020-07-05
-source-url: https://www.scoop.co.nz/stories/PA2007/S00053/speech-ardern-labour-party-congress-2020.htm
+title: 'Speech: Ardern Labour Party Congress 2020'
+date: 2020-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00053/speech-ardern-labour-party-congress-2020.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/07/05/speech-ardern-labour-party-congress-2020/index.html
+layout: layout.njk
 ---
 Speech: Ardern Labour Party Congress 2020
 =========================================

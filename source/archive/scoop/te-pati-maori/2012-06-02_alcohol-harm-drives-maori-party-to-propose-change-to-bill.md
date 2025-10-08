@@ -1,9 +1,13 @@
 ---
 slug: alcohol-harm-drives-maori-party-to-propose-change-to-bill
-title: "Alcohol harm drives Maori Party to propose change to Bill"
-date: 2012-06-02
-source-url: https://www.scoop.co.nz/stories/PA1206/S00019/alcohol-harm-drives-maori-party-to-propose-change-to-bill.htm
+title: Alcohol harm drives Maori Party to propose change to Bill
+date: 2012-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00019/alcohol-harm-drives-maori-party-to-propose-change-to-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/06/02/alcohol-harm-drives-maori-party-to-propose-change-to-bill/index.html
+layout: layout.njk
 ---
 Alcohol harm drives Maori Party to propose change to Bill
 =========================================================

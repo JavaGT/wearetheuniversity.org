@@ -1,9 +1,12 @@
 ---
 slug: massey-award-for-rugby-hero-cruden
-title: "Massey award for rugby hero Cruden"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/ED1110/S00127/massey-award-for-rugby-hero-cruden.htm
+title: Massey award for rugby hero Cruden
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00127/massey-award-for-rugby-hero-cruden.htm
 author: massey-university
+permalink: /archive/2011/10/27/massey-award-for-rugby-hero-cruden/index.html
+layout: layout.njk
 ---
 Massey award for rugby hero Cruden
 ==================================

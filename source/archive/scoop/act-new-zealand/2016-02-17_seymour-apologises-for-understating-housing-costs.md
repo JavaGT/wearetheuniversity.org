@@ -1,9 +1,13 @@
 ---
 slug: seymour-apologises-for-understating-housing-costs
-title: "Seymour apologises for understating housing costs"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/PA1602/S00219/seymour-apologises-for-understating-housing-costs.htm
+title: Seymour apologises for understating housing costs
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00219/seymour-apologises-for-understating-housing-costs.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/02/17/seymour-apologises-for-understating-housing-costs/index.html
+layout: layout.njk
 ---
 Seymour apologises for understating housing costs
 =================================================

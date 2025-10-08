@@ -1,9 +1,12 @@
 ---
 slug: labour-calls-for-urgent-change-to-acc-law
-title: "Labour calls for urgent change to ACC law"
-date: 1999-09-24
-source-url: https://www.scoop.co.nz/stories/PA9909/S00514/labour-calls-for-urgent-change-to-acc-law.htm
+title: Labour calls for urgent change to ACC law
+date: 1999-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00514/labour-calls-for-urgent-change-to-acc-law.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/24/labour-calls-for-urgent-change-to-acc-law/index.html
+layout: layout.njk
 ---
 Labour calls for urgent change to ACC law
 =========================================

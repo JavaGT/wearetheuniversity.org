@@ -1,9 +1,13 @@
 ---
 slug: teenagers-learn-how-to-electrify-their-future-at-uc
-title: "Teenagers learn how to electrify their future at UC"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/ED1604/S00050/teenagers-learn-how-to-electrify-their-future-at-uc.htm
+title: Teenagers learn how to electrify their future at UC
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00050/teenagers-learn-how-to-electrify-their-future-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/15/teenagers-learn-how-to-electrify-their-future-at-uc/index.html
+layout: layout.njk
 ---
 Teenagers learn how to electrify their future at UC
 ===================================================

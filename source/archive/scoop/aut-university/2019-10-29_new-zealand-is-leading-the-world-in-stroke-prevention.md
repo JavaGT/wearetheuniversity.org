@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-is-leading-the-world-in-stroke-prevention
-title: "New Zealand is leading the world in stroke prevention"
-date: 2019-10-29
-source-url: https://www.scoop.co.nz/stories/GE1910/S00111/new-zealand-is-leading-the-world-in-stroke-prevention.htm
+title: New Zealand is leading the world in stroke prevention
+date: 2019-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1910/S00111/new-zealand-is-leading-the-world-in-stroke-prevention.htm
 author: aut-university
+permalink: >-
+  /archive/2019/10/29/new-zealand-is-leading-the-world-in-stroke-prevention/index.html
+layout: layout.njk
 ---
 New Zealand is leading the world in stroke prevention
 =====================================================

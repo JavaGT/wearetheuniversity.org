@@ -1,9 +1,13 @@
 ---
 slug: lone-pine-seedlings-to-mark-the-100th-anzac-day-anniversary
-title: "Lone Pine seedlings to mark the 100th Anzac Day anniversary"
-date: 2015-04-06
-source-url: https://www.scoop.co.nz/stories/ED1504/S00016/lone-pine-seedlings-to-mark-the-100th-anzac-day-anniversary.htm
+title: Lone Pine seedlings to mark the 100th Anzac Day anniversary
+date: 2015-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00016/lone-pine-seedlings-to-mark-the-100th-anzac-day-anniversary.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/06/lone-pine-seedlings-to-mark-the-100th-anzac-day-anniversary/index.html
+layout: layout.njk
 ---
 Lone Pine seedlings to mark the 100th Anzac Day anniversary
 ===========================================================

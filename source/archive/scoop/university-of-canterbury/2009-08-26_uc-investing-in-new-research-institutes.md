@@ -1,9 +1,12 @@
 ---
 slug: uc-investing-in-new-research-institutes
-title: "UC investing in new research institutes"
-date: 2009-08-26
-source-url: https://www.scoop.co.nz/stories/ED0908/S00094/uc-investing-in-new-research-institutes.htm
+title: UC investing in new research institutes
+date: 2009-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00094/uc-investing-in-new-research-institutes.htm
 author: university-of-canterbury
+permalink: /archive/2009/08/26/uc-investing-in-new-research-institutes/index.html
+layout: layout.njk
 ---
 UC investing in new research institutes
 =======================================

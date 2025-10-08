@@ -1,9 +1,13 @@
 ---
 slug: uc-ocean-research-into-blubbery-buddies-and-toothy-terrors
-title: "UC ocean research into blubbery buddies and toothy terrors"
-date: 2012-11-19
-source-url: https://www.scoop.co.nz/stories/SC1211/S00048/uc-ocean-research-into-blubbery-buddies-and-toothy-terrors.htm
+title: UC ocean research into blubbery buddies and toothy terrors
+date: 2012-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00048/uc-ocean-research-into-blubbery-buddies-and-toothy-terrors.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/19/uc-ocean-research-into-blubbery-buddies-and-toothy-terrors/index.html
+layout: layout.njk
 ---
 UC ocean research into blubbery buddies and toothy terrors
 ==========================================================

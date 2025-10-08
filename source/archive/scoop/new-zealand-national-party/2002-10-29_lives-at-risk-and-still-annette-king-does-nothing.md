@@ -1,9 +1,13 @@
 ---
 slug: lives-at-risk-and-still-annette-king-does-nothing
-title: "Lives at risk and still Annette King does nothing"
-date: 2002-10-29
-source-url: https://www.scoop.co.nz/stories/PA0210/S00555/lives-at-risk-and-still-annette-king-does-nothing.htm
+title: Lives at risk and still Annette King does nothing
+date: 2002-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00555/lives-at-risk-and-still-annette-king-does-nothing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/10/29/lives-at-risk-and-still-annette-king-does-nothing/index.html
+layout: layout.njk
 ---
 Lives at risk and still Annette King does nothing
 =================================================

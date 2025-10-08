@@ -1,9 +1,12 @@
 ---
 slug: canterbury-earthquake-law-home-by-christmas
-title: "Canterbury earthquake law: Home by Christmas?"
-date: 2010-10-27
-source-url: https://www.scoop.co.nz/stories/PA1010/S00445/canterbury-earthquake-law-home-by-christmas.htm
+title: 'Canterbury earthquake law: Home by Christmas?'
+date: 2010-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00445/canterbury-earthquake-law-home-by-christmas.htm
 author: green-party
+permalink: /archive/2010/10/27/canterbury-earthquake-law-home-by-christmas/index.html
+layout: layout.njk
 ---
 Canterbury earthquake law: Home by Christmas?
 =============================================

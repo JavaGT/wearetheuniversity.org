@@ -1,9 +1,12 @@
 ---
 slug: universe-of-learning-at-wellington-open-day
-title: "Universe of learning at Wellington Open Day"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/ED1408/S00147/universe-of-learning-at-wellington-open-day.htm
+title: Universe of learning at Wellington Open Day
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00147/universe-of-learning-at-wellington-open-day.htm
 author: massey-university
+permalink: /archive/2014/08/28/universe-of-learning-at-wellington-open-day/index.html
+layout: layout.njk
 ---
 Universe of learning at Wellington Open Day
 ===========================================

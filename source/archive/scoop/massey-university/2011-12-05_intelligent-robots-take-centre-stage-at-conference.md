@@ -1,9 +1,13 @@
 ---
 slug: intelligent-robots-take-centre-stage-at-conference
-title: "Intelligent robots take centre stage at conference"
-date: 2011-12-05
-source-url: https://www.scoop.co.nz/stories/ED1112/S00021/intelligent-robots-take-centre-stage-at-conference.htm
+title: Intelligent robots take centre stage at conference
+date: 2011-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00021/intelligent-robots-take-centre-stage-at-conference.htm
 author: massey-university
+permalink: >-
+  /archive/2011/12/05/intelligent-robots-take-centre-stage-at-conference/index.html
+layout: layout.njk
 ---
 Intelligent robots take centre stage at conference
 ==================================================

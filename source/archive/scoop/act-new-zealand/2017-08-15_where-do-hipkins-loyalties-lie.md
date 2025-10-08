@@ -1,9 +1,12 @@
 ---
 slug: where-do-hipkins-loyalties-lie
-title: "Where do Hipkins’ loyalties lie?"
-date: 2017-08-15
-source-url: https://www.scoop.co.nz/stories/PA1708/S00303/where-do-hipkins-loyalties-lie.htm
+title: Where do Hipkins’ loyalties lie?
+date: 2017-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00303/where-do-hipkins-loyalties-lie.htm
 author: act-new-zealand
+permalink: /archive/2017/08/15/where-do-hipkins-loyalties-lie/index.html
+layout: layout.njk
 ---
 Where do Hipkins’ loyalties lie?
 ================================

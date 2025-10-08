@@ -1,9 +1,12 @@
 ---
 slug: trade-deal-exposes-labours-hypocrisy
-title: "Trade deal exposes Labour’s hypocrisy"
-date: 2005-03-10
-source-url: https://www.scoop.co.nz/stories/PA0503/S00209/trade-deal-exposes-labours-hypocrisy.htm
+title: Trade deal exposes Labour’s hypocrisy
+date: 2005-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00209/trade-deal-exposes-labours-hypocrisy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/10/trade-deal-exposes-labours-hypocrisy/index.html
+layout: layout.njk
 ---
 Trade deal exposes Labour’s hypocrisy
 =====================================

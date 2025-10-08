@@ -1,9 +1,13 @@
 ---
 slug: fmb-reynolds-law-scholarship-awarded-to-alison-chamberlain
-title: "FMB Reynolds Law Scholarship awarded to Alison Chamberlain"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/ED1706/S00002/fmb-reynolds-law-scholarship-awarded-to-alison-chamberlain.htm
+title: FMB Reynolds Law Scholarship awarded to Alison Chamberlain
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00002/fmb-reynolds-law-scholarship-awarded-to-alison-chamberlain.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/06/01/fmb-reynolds-law-scholarship-awarded-to-alison-chamberlain/index.html
+layout: layout.njk
 ---
 FMB Reynolds Law Scholarship awarded to Alison Chamberlain
 ==========================================================

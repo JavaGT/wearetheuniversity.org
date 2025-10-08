@@ -1,9 +1,13 @@
 ---
 slug: stand-up-for-kids-protect-our-schools-nationwide-marches
-title: "Stand up for kids: Protect our schools nationwide marches"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/PA1304/S00239/stand-up-for-kids-protect-our-schools-nationwide-marches.htm
+title: 'Stand up for kids: Protect our schools nationwide marches'
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00239/stand-up-for-kids-protect-our-schools-nationwide-marches.htm
 author: green-party
+permalink: >-
+  /archive/2013/04/12/stand-up-for-kids-protect-our-schools-nationwide-marches/index.html
+layout: layout.njk
 ---
 Stand up for kids: Protect our schools nationwide marches
 =========================================================

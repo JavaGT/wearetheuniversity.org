@@ -1,9 +1,12 @@
 ---
 slug: nats-profiteering-costs-5000-state-houses
-title: "Nats’ profiteering costs 5,000 state houses"
-date: 2017-03-01
-source-url: https://www.scoop.co.nz/stories/PA1703/S00010/nats-profiteering-costs-5000-state-houses.htm
+title: Nats’ profiteering costs 5,000 state houses
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00010/nats-profiteering-costs-5000-state-houses.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/01/nats-profiteering-costs-5000-state-houses/index.html
+layout: layout.njk
 ---
 Nats’ profiteering costs 5,000 state houses
 ===========================================

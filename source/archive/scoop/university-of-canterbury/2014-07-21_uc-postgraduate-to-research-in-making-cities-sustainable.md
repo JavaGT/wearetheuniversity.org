@@ -1,9 +1,13 @@
 ---
 slug: uc-postgraduate-to-research-in-making-cities-sustainable
-title: "UC postgraduate to research in making cities sustainable"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/ED1407/S00089/uc-postgraduate-to-research-in-making-cities-sustainable.htm
+title: UC postgraduate to research in making cities sustainable
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00089/uc-postgraduate-to-research-in-making-cities-sustainable.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/21/uc-postgraduate-to-research-in-making-cities-sustainable/index.html
+layout: layout.njk
 ---
 UC postgraduate to research in making cities sustainable
 ========================================================

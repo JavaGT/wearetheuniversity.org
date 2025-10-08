@@ -1,9 +1,12 @@
 ---
 slug: knowledge-economy-being-dumbed-down
-title: "Knowledge economy being dumbed down"
-date: 2009-09-16
-source-url: https://www.scoop.co.nz/stories/PA0909/S00222/knowledge-economy-being-dumbed-down.htm
+title: Knowledge economy being dumbed down
+date: 2009-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00222/knowledge-economy-being-dumbed-down.htm
 author: green-party
+permalink: /archive/2009/09/16/knowledge-economy-being-dumbed-down/index.html
+layout: layout.njk
 ---
 Knowledge economy being dumbed down
 ===================================

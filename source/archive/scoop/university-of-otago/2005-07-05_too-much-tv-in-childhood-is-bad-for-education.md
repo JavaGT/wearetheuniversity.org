@@ -1,9 +1,12 @@
 ---
 slug: too-much-tv-in-childhood-is-bad-for-education
-title: "Too much TV in childhood is bad for education"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/ED0507/S00013/too-much-tv-in-childhood-is-bad-for-education.htm
+title: Too much TV in childhood is bad for education
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00013/too-much-tv-in-childhood-is-bad-for-education.htm
 author: university-of-otago
+permalink: /archive/2005/07/05/too-much-tv-in-childhood-is-bad-for-education/index.html
+layout: layout.njk
 ---
 Too much TV in childhood is bad for education
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: teac-direction-good-fee-hikes-bad
-title: "TEAC Direction Good – Fee Hikes Bad"
-date: 2001-08-01
-source-url: https://www.scoop.co.nz/stories/ED0108/S00006/teac-direction-good-fee-hikes-bad.htm
+title: TEAC Direction Good – Fee Hikes Bad
+date: 2001-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00006/teac-direction-good-fee-hikes-bad.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/08/01/teac-direction-good-fee-hikes-bad/index.html
+layout: layout.njk
 ---
 TEAC Direction Good – Fee Hikes Bad
 ===================================

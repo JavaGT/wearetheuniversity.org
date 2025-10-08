@@ -1,9 +1,13 @@
 ---
 slug: report-states-concerns-for-tauranga-harbours-health
-title: "Report States Concerns For Tauranga Harbour’s Health"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/SC1112/S00007/report-states-concerns-for-tauranga-harbours-health.htm
+title: Report States Concerns For Tauranga Harbour’s Health
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00007/report-states-concerns-for-tauranga-harbours-health.htm
 author: massey-university
+permalink: >-
+  /archive/2011/12/02/report-states-concerns-for-tauranga-harbours-health/index.html
+layout: layout.njk
 ---
 Report States Concerns For Tauranga Harbour’s Health
 ====================================================

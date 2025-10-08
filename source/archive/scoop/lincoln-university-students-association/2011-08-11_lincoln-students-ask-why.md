@@ -1,9 +1,11 @@
 ---
 slug: lincoln-students-ask-why
-title: "Lincoln Students Ask Why?"
-date: 2011-08-11
+title: Lincoln Students Ask Why?
+date: 2011-08-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1108/S00070/lincoln-students-ask-why.htm
 author: lincoln-university-students-association
+permalink: /archive/2011/08/11/lincoln-students-ask-why/index.html
+layout: layout.njk
 ---
 Lincoln Students Ask Why?
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: nz-young-nats-welcome-support-for-med-students
-title: "NZ Young Nats Welcome Support for Med Students"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/PO1512/S00016/nz-young-nats-welcome-support-for-med-students.htm
+title: NZ Young Nats Welcome Support for Med Students
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1512/S00016/nz-young-nats-welcome-support-for-med-students.htm
 author: new-zealand-young-nationals
+permalink: /archive/2015/12/01/nz-young-nats-welcome-support-for-med-students/index.html
+layout: layout.njk
 ---
 NZ Young Nats Welcome Support for Med Students
 ==============================================

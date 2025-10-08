@@ -1,9 +1,12 @@
 ---
 slug: otago-students-warn-against-capping-enrolments
-title: "Otago Students Warn Against Capping Enrolments"
-date: 2007-12-11
-source-url: https://www.scoop.co.nz/stories/ED0712/S00041/otago-students-warn-against-capping-enrolments.htm
+title: Otago Students Warn Against Capping Enrolments
+date: 2007-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00041/otago-students-warn-against-capping-enrolments.htm
 author: otago-university-students-association
+permalink: /archive/2007/12/11/otago-students-warn-against-capping-enrolments/index.html
+layout: layout.njk
 ---
 Otago Students Warn Against Capping Enrolments
 ==============================================

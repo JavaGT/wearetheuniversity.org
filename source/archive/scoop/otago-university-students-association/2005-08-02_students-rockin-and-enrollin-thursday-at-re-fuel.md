@@ -1,9 +1,13 @@
 ---
 slug: students-rockin-and-enrollin-thursday-at-re-fuel
-title: "Students Rockin’ and Enrollin’ Thursday at re:Fuel"
-date: 2005-08-02
-source-url: https://www.scoop.co.nz/stories/CU0508/S00020/students-rockin-and-enrollin-thursday-at-refuel.htm
+title: Students Rockin’ and Enrollin’ Thursday at re:Fuel
+date: 2005-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0508/S00020/students-rockin-and-enrollin-thursday-at-refuel.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2005/08/02/students-rockin-and-enrollin-thursday-at-re-fuel/index.html
+layout: layout.njk
 ---
 Students Rockin’ and Enrollin’ Thursday at re:Fuel
 ==================================================

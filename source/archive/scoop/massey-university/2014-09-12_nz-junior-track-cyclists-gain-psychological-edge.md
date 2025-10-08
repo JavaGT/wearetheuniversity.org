@@ -1,9 +1,13 @@
 ---
 slug: nz-junior-track-cyclists-gain-psychological-edge
-title: "NZ junior track cyclists gain psychological edge"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/ED1409/S00080/nz-junior-track-cyclists-gain-psychological-edge.htm
+title: NZ junior track cyclists gain psychological edge
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00080/nz-junior-track-cyclists-gain-psychological-edge.htm
 author: massey-university
+permalink: >-
+  /archive/2014/09/12/nz-junior-track-cyclists-gain-psychological-edge/index.html
+layout: layout.njk
 ---
 NZ junior track cyclists gain psychological edge
 ================================================

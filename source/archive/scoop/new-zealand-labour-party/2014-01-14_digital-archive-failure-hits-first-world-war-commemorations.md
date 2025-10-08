@@ -1,9 +1,13 @@
 ---
 slug: digital-archive-failure-hits-first-world-war-commemorations
-title: "Digital archive failure hits First World War commemorations"
-date: 2014-01-14
-source-url: https://www.scoop.co.nz/stories/PA1401/S00031/digital-archive-failure-hits-first-world-war-commemorations.htm
+title: Digital archive failure hits First World War commemorations
+date: 2014-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00031/digital-archive-failure-hits-first-world-war-commemorations.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/14/digital-archive-failure-hits-first-world-war-commemorations/index.html
+layout: layout.njk
 ---
 Digital archive failure hits First World War commemorations
 ===========================================================

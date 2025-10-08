@@ -1,9 +1,12 @@
 ---
 slug: warning-about-keeping-and-storing-medicines
-title: "Warning about keeping and storing medicines"
-date: 2011-05-31
-source-url: https://www.scoop.co.nz/stories/SC1105/S00084/warning-about-keeping-and-storing-medicines.htm
+title: Warning about keeping and storing medicines
+date: 2011-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00084/warning-about-keeping-and-storing-medicines.htm
 author: university-of-otago
+permalink: /archive/2011/05/31/warning-about-keeping-and-storing-medicines/index.html
+layout: layout.njk
 ---
 Warning about keeping and storing medicines
 ===========================================

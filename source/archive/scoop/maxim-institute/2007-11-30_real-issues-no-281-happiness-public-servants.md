@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-281-happiness-public-servants
-title: "Real Issues No. 281 - Happiness, Public Servants"
-date: 2007-11-30
-source-url: https://www.scoop.co.nz/stories/PO0711/S00488/real-issues-no-281-happiness-public-servants.htm
+title: Real Issues No. 281 - Happiness, Public Servants
+date: 2007-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00488/real-issues-no-281-happiness-public-servants.htm
 author: maxim-institute
+permalink: /archive/2007/11/30/real-issues-no-281-happiness-public-servants/index.html
+layout: layout.njk
 ---
 Real Issues No. 281 - Happiness, Public Servants
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: building-the-value-of-international-visitors
-title: "Building the value of international visitors"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00372/building-the-value-of-international-visitors.htm
+title: Building the value of international visitors
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00372/building-the-value-of-international-visitors.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/18/building-the-value-of-international-visitors/index.html
+layout: layout.njk
 ---
 Building the value of international visitors
 ============================================

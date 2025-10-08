@@ -1,9 +1,12 @@
 ---
 slug: unemployment-persistently-high
-title: "Unemployment Persistently High"
-date: 2011-05-05
-source-url: https://www.scoop.co.nz/stories/PO1105/S00051/unemployment-persistently-high.htm
+title: Unemployment Persistently High
+date: 2011-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00051/unemployment-persistently-high.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/05/05/unemployment-persistently-high/index.html
+layout: layout.njk
 ---
 Unemployment Persistently High
 ==============================

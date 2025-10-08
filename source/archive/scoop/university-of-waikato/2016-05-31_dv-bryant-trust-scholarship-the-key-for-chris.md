@@ -1,9 +1,12 @@
 ---
 slug: dv-bryant-trust-scholarship-the-key-for-chris
-title: "DV Bryant Trust Scholarship the key for Chris"
-date: 2016-05-31
-source-url: https://www.scoop.co.nz/stories/ED1605/S00134/dv-bryant-trust-scholarship-the-key-for-chris.htm
+title: DV Bryant Trust Scholarship the key for Chris
+date: 2016-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00134/dv-bryant-trust-scholarship-the-key-for-chris.htm
 author: university-of-waikato
+permalink: /archive/2016/05/31/dv-bryant-trust-scholarship-the-key-for-chris/index.html
+layout: layout.njk
 ---
 DV Bryant Trust Scholarship the key for Chris
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: anti-growth-policies-cost-every-kiwi-$1600-a-year
-title: "Anti-growth policies cost every Kiwi $1600 a year"
-date: 2018-08-29
-source-url: https://www.scoop.co.nz/stories/PA1808/S00326/anti-growth-policies-cost-every-kiwi-1600-a-year.htm
+title: Anti-growth policies cost every Kiwi $1600 a year
+date: 2018-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00326/anti-growth-policies-cost-every-kiwi-1600-a-year.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/29/anti-growth-policies-cost-every-kiwi-/index.html
+layout: layout.njk
 ---
 Anti-growth policies cost every Kiwi $1600 a year
 =================================================

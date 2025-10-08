@@ -1,9 +1,13 @@
 ---
 slug: rare-hourglass-dolphin-a-find-for-marine-research
-title: "Rare Hourglass dolphin a find for marine research"
-date: 2010-09-13
-source-url: https://www.scoop.co.nz/stories/SC1009/S00017/rare-hourglass-dolphin-a-find-for-marine-research.htm
+title: Rare Hourglass dolphin a find for marine research
+date: 2010-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00017/rare-hourglass-dolphin-a-find-for-marine-research.htm
 author: massey-university
+permalink: >-
+  /archive/2010/09/13/rare-hourglass-dolphin-a-find-for-marine-research/index.html
+layout: layout.njk
 ---
 Rare Hourglass dolphin a find for marine research
 =================================================

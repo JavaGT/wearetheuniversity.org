@@ -1,9 +1,13 @@
 ---
 slug: employers-pen-open-letter-to-minister-in-desperation
-title: "Employers pen open letter to Minister in ‘desperation’"
-date: 2019-09-19
-source-url: https://www.scoop.co.nz/stories/PA1909/S00157/employers-pen-open-letter-to-minister-in-desperation.htm
+title: Employers pen open letter to Minister in ‘desperation’
+date: 2019-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00157/employers-pen-open-letter-to-minister-in-desperation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/19/employers-pen-open-letter-to-minister-in-desperation/index.html
+layout: layout.njk
 ---
 Employers pen open letter to Minister in ‘desperation’
 ======================================================

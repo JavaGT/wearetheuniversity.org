@@ -1,9 +1,13 @@
 ---
 slug: question-mark-over-financial-sustainability-of-polytechs
-title: "Question Mark Over Financial Sustainability Of Polytechs"
-date: 2024-09-27
-source-url: https://www.scoop.co.nz/stories/PA2409/S00268/question-mark-over-financial-sustainability-of-polytechs.htm
+title: Question Mark Over Financial Sustainability Of Polytechs
+date: 2024-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2409/S00268/question-mark-over-financial-sustainability-of-polytechs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/09/27/question-mark-over-financial-sustainability-of-polytechs/index.html
+layout: layout.njk
 ---
 Question Mark Over Financial Sustainability Of Polytechs
 ========================================================

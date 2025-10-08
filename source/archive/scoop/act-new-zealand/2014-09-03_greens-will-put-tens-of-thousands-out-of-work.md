@@ -1,9 +1,12 @@
 ---
 slug: greens-will-put-tens-of-thousands-out-of-work
-title: "Greens will put tens of thousands out of work"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PO1409/S00070/greens-will-put-tens-of-thousands-out-of-work.htm
+title: Greens will put tens of thousands out of work
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00070/greens-will-put-tens-of-thousands-out-of-work.htm
 author: act-new-zealand
+permalink: /archive/2014/09/03/greens-will-put-tens-of-thousands-out-of-work/index.html
+layout: layout.njk
 ---
 Greens will put tens of thousands out of work
 =============================================

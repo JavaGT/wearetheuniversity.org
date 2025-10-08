@@ -1,9 +1,12 @@
 ---
 slug: serious-health-cuts-under-labour-govt
-title: "Serious Health Cuts Under Labour Govt."
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/PA0207/S00013/serious-health-cuts-under-labour-govt.htm
+title: Serious Health Cuts Under Labour Govt.
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00013/serious-health-cuts-under-labour-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/01/serious-health-cuts-under-labour-govt/index.html
+layout: layout.njk
 ---
 Serious Health Cuts Under Labour Govt.
 ======================================

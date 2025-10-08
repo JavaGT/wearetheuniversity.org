@@ -1,9 +1,12 @@
 ---
 slug: private-surgeons-should-use-idle-theatres
-title: "Private surgeons should use idle theatres"
-date: 2003-07-04
-source-url: https://www.scoop.co.nz/stories/PA0307/S00112/private-surgeons-should-use-idle-theatres.htm
+title: Private surgeons should use idle theatres
+date: 2003-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00112/private-surgeons-should-use-idle-theatres.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/04/private-surgeons-should-use-idle-theatres/index.html
+layout: layout.njk
 ---
 Private surgeons should use idle theatres
 =========================================

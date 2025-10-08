@@ -1,9 +1,12 @@
 ---
 slug: health-risk-from-solvent-use-by-lab-technicians
-title: "Health risk from solvent use by lab technicians"
-date: 2011-06-28
-source-url: https://www.scoop.co.nz/stories/SC1106/S00076/health-risk-from-solvent-use-by-lab-technicians.htm
+title: Health risk from solvent use by lab technicians
+date: 2011-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00076/health-risk-from-solvent-use-by-lab-technicians.htm
 author: university-of-otago
+permalink: /archive/2011/06/28/health-risk-from-solvent-use-by-lab-technicians/index.html
+layout: layout.njk
 ---
 Health risk from solvent use by lab technicians
 ===============================================

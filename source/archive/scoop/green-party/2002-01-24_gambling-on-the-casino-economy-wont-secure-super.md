@@ -1,9 +1,13 @@
 ---
 slug: gambling-on-the-casino-economy-wont-secure-super
-title: "Gambling on the casino economy won’t secure super"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/PA0201/S00146/gambling-on-the-casino-economy-wont-secure-super.htm
+title: Gambling on the casino economy won’t secure super
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00146/gambling-on-the-casino-economy-wont-secure-super.htm
 author: green-party
+permalink: >-
+  /archive/2002/01/24/gambling-on-the-casino-economy-wont-secure-super/index.html
+layout: layout.njk
 ---
 Gambling on the casino economy won’t secure super
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-association-revamps-to-retain-relevance
-title: "Students’ Association Revamps to Retain Relevance"
-date: 2007-07-05
-source-url: https://www.scoop.co.nz/stories/PO0707/S00041/students-association-revamps-to-retain-relevance.htm
+title: Students’ Association Revamps to Retain Relevance
+date: 2007-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00041/students-association-revamps-to-retain-relevance.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2007/07/05/students-association-revamps-to-retain-relevance/index.html
+layout: layout.njk
 ---
 Students’ Association Revamps to Retain Relevance
 =================================================

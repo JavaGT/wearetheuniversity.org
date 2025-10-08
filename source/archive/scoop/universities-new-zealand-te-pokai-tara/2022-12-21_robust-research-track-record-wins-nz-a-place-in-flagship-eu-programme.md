@@ -1,9 +1,13 @@
 ---
 slug: robust-research-track-record-wins-nz-a-place-in-flagship-eu-programme
-title: "‘Robust’ Research Track Record Wins NZ A Place In Flagship EU Programme"
-date: 2022-12-21
-source-url: https://www.scoop.co.nz/stories/ED2212/S00033/robust-research-track-record-wins-nz-a-place-in-flagship-eu-programme.htm
+title: ‘Robust’ Research Track Record Wins NZ A Place In Flagship EU Programme
+date: 2022-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2212/S00033/robust-research-track-record-wins-nz-a-place-in-flagship-eu-programme.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/12/21/robust-research-track-record-wins-nz-a-place-in-flagship-eu-programme/index.html
+layout: layout.njk
 ---
 ‘Robust’ Research Track Record Wins NZ A Place In Flagship EU Programme
 =======================================================================

@@ -1,9 +1,12 @@
 ---
 slug: league-tables-for-primary-schools-a-possibility!
-title: "League Tables for Primary Schools – a possibility!"
-date: 2009-04-10
-source-url: https://www.scoop.co.nz/stories/PA0904/S00154/league-tables-for-primary-schools-a-possibility.htm
+title: League Tables for Primary Schools – a possibility!
+date: 2009-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00154/league-tables-for-primary-schools-a-possibility.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/10/league-tables-for-primary-schools-a-possibility/index.html
+layout: layout.njk
 ---
 League Tables for Primary Schools – a possibility!
 ==================================================

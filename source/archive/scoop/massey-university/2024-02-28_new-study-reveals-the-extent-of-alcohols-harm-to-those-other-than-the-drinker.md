@@ -1,9 +1,13 @@
 ---
 slug: new-study-reveals-the-extent-of-alcohols-harm-to-those-other-than-the-drinker
-title: "New Study Reveals The Extent Of Alcohol’s Harm To Those Other Than The Drinker"
-date: 2024-02-28
-source-url: https://www.scoop.co.nz/stories/GE2402/S00064/new-study-reveals-the-extent-of-alcohols-harm-to-those-other-than-the-drinker.htm
+title: New Study Reveals The Extent Of Alcohol’s Harm To Those Other Than The Drinker
+date: 2024-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2402/S00064/new-study-reveals-the-extent-of-alcohols-harm-to-those-other-than-the-drinker.htm
 author: massey-university
+permalink: >-
+  /archive/2024/02/28/new-study-reveals-the-extent-of-alcohols-harm-to-those-other-than-the-drinker/index.html
+layout: layout.njk
 ---
 New Study Reveals The Extent Of Alcohol’s Harm To Those Other Than The Drinker
 ==============================================================================

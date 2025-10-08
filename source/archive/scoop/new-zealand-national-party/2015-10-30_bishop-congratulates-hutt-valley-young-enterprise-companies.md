@@ -1,9 +1,13 @@
 ---
 slug: bishop-congratulates-hutt-valley-young-enterprise-companies
-title: "Bishop congratulates Hutt Valley Young Enterprise companies"
-date: 2015-10-30
-source-url: https://www.scoop.co.nz/stories/PA1510/S00525/bishop-congratulates-hutt-valley-young-enterprise-companies.htm
+title: Bishop congratulates Hutt Valley Young Enterprise companies
+date: 2015-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00525/bishop-congratulates-hutt-valley-young-enterprise-companies.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/10/30/bishop-congratulates-hutt-valley-young-enterprise-companies/index.html
+layout: layout.njk
 ---
 Bishop congratulates Hutt Valley Young Enterprise companies
 ===========================================================

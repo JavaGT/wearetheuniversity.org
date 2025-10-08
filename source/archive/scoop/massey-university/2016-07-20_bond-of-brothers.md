@@ -1,9 +1,11 @@
 ---
 slug: bond-of-brothers
-title: "Bond of brothers"
-date: 2016-07-20
+title: Bond of brothers
+date: 2016-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1607/S00242/bond-of-brothers.htm
 author: massey-university
+permalink: /archive/2016/07/20/bond-of-brothers/index.html
+layout: layout.njk
 ---
 Bond of brothers
 ================

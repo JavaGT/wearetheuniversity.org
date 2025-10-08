@@ -1,9 +1,13 @@
 ---
 slug: changing-young-lives-the-goal-for-graduate-of-new-degree
-title: "Changing Young Lives The Goal For Graduate Of New Degree"
-date: 2021-04-12
-source-url: https://www.scoop.co.nz/stories/ED2104/S00010/changing-young-lives-the-goal-for-graduate-of-new-degree.htm
+title: Changing Young Lives The Goal For Graduate Of New Degree
+date: 2021-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00010/changing-young-lives-the-goal-for-graduate-of-new-degree.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/04/12/changing-young-lives-the-goal-for-graduate-of-new-degree/index.html
+layout: layout.njk
 ---
 Changing Young Lives The Goal For Graduate Of New Degree
 ========================================================

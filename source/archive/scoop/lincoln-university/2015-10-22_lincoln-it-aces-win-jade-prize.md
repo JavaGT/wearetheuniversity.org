@@ -1,9 +1,12 @@
 ---
 slug: lincoln-it-aces-win-jade-prize
-title: "Lincoln IT aces win Jade Prize"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/ED1510/S00116/lincoln-it-aces-win-jade-prize.htm
+title: Lincoln IT aces win Jade Prize
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00116/lincoln-it-aces-win-jade-prize.htm
 author: lincoln-university
+permalink: /archive/2015/10/22/lincoln-it-aces-win-jade-prize/index.html
+layout: layout.njk
 ---
 Lincoln IT aces win Jade Prize
 ==============================

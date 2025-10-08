@@ -1,9 +1,12 @@
 ---
 slug: call-for-pacific-university-of-aotearoa
-title: "Call for Pacific University of Aotearoa"
-date: 2010-04-20
-source-url: https://www.scoop.co.nz/stories/ED1004/S00047/call-for-pacific-university-of-aotearoa.htm
+title: Call for Pacific University of Aotearoa
+date: 2010-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00047/call-for-pacific-university-of-aotearoa.htm
 author: massey-university
+permalink: /archive/2010/04/20/call-for-pacific-university-of-aotearoa/index.html
+layout: layout.njk
 ---
 Call for Pacific University of Aotearoa
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: more-oil-extravagance-from-national-exposed
-title: "More oil extravagance from National exposed"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/PA1407/S00656/more-oil-extravagance-from-national-exposed.htm
+title: More oil extravagance from National exposed
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00656/more-oil-extravagance-from-national-exposed.htm
 author: green-party
+permalink: /archive/2014/07/31/more-oil-extravagance-from-national-exposed/index.html
+layout: layout.njk
 ---
 More oil extravagance from National exposed
 ===========================================

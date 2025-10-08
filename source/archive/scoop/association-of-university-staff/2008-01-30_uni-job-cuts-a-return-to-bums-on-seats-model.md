@@ -1,9 +1,12 @@
 ---
 slug: uni-job-cuts-a-return-to-bums-on-seats-model
-title: "Uni job cuts a return to \"bums on seats\" model"
-date: 2008-01-30
-source-url: https://www.scoop.co.nz/stories/ED0801/S00044/uni-job-cuts-a-return-to-bums-on-seats-model.htm
+title: Uni job cuts a return to "bums on seats" model
+date: 2008-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00044/uni-job-cuts-a-return-to-bums-on-seats-model.htm
 author: association-of-university-staff
+permalink: /archive/2008/01/30/uni-job-cuts-a-return-to-bums-on-seats-model/index.html
+layout: layout.njk
 ---
 Uni job cuts a return to “bums on seats” model
 ==============================================

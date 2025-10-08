@@ -1,9 +1,12 @@
 ---
 slug: global-leadership-role-for-senior-academic
-title: "Global leadership role for senior academic"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/ED1506/S00142/global-leadership-role-for-senior-academic.htm
+title: Global leadership role for senior academic
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00142/global-leadership-role-for-senior-academic.htm
 author: waikato-university
+permalink: /archive/2015/06/30/global-leadership-role-for-senior-academic/index.html
+layout: layout.njk
 ---
 Global leadership role for senior academic
 ==========================================

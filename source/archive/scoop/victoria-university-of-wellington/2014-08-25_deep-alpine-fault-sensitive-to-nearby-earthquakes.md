@@ -1,9 +1,13 @@
 ---
 slug: deep-alpine-fault-sensitive-to-nearby-earthquakes
-title: "Deep Alpine Fault sensitive to nearby earthquakes"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/SC1408/S00070/deep-alpine-fault-sensitive-to-nearby-earthquakes.htm
+title: Deep Alpine Fault sensitive to nearby earthquakes
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00070/deep-alpine-fault-sensitive-to-nearby-earthquakes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/08/25/deep-alpine-fault-sensitive-to-nearby-earthquakes/index.html
+layout: layout.njk
 ---
 Deep Alpine Fault sensitive to nearby earthquakes
 =================================================

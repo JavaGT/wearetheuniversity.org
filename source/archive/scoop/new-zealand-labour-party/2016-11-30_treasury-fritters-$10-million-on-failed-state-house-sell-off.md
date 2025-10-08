@@ -1,9 +1,12 @@
 ---
 slug: treasury-fritters-$10-million-on-failed-state-house-sell-off
-title: "Treasury fritters $10 million on failed state house sell off"
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/PA1611/S00585/treasury-fritters-10-million-on-failed-state-house-sell-off.htm
+title: Treasury fritters $10 million on failed state house sell off
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00585/treasury-fritters-10-million-on-failed-state-house-sell-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/30/treasury-fritters-/index.html
+layout: layout.njk
 ---
 Treasury fritters $10 million on failed state house sell off
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: not-another-blackout-minister!
-title: "Not another blackout, Minister!"
-date: 2006-09-15
-source-url: https://www.scoop.co.nz/stories/PA0609/S00357/not-another-blackout-minister.htm
+title: Not another blackout, Minister!
+date: 2006-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00357/not-another-blackout-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/15/not-another-blackout-minister/index.html
+layout: layout.njk
 ---
 Not another blackout, Minister!
 ===============================

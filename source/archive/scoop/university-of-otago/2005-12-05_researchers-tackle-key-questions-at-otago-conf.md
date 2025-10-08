@@ -1,9 +1,12 @@
 ---
 slug: researchers-tackle-key-questions-at-otago-conf
-title: "Researchers tackle key questions at Otago conf."
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/ED0512/S00016/researchers-tackle-key-questions-at-otago-conf.htm
+title: Researchers tackle key questions at Otago conf.
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00016/researchers-tackle-key-questions-at-otago-conf.htm
 author: university-of-otago
+permalink: /archive/2005/12/05/researchers-tackle-key-questions-at-otago-conf/index.html
+layout: layout.njk
 ---
 Researchers tackle key questions at Otago conf.
 ===============================================

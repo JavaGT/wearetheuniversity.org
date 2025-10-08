@@ -1,9 +1,13 @@
 ---
 slug: joyces-privatisation-agenda-damages-foundation-education
-title: "Joyce’s privatisation agenda damages foundation education"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/PA1212/S00024/joyces-privatisation-agenda-damages-foundation-education.htm
+title: Joyce’s privatisation agenda damages foundation education
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00024/joyces-privatisation-agenda-damages-foundation-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/03/joyces-privatisation-agenda-damages-foundation-education/index.html
+layout: layout.njk
 ---
 Joyce’s privatisation agenda damages foundation education
 =========================================================

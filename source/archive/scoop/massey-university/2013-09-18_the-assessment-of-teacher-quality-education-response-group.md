@@ -1,9 +1,13 @@
 ---
 slug: the-assessment-of-teacher-quality-education-response-group
-title: "The assessment of teacher quality - Education response group"
-date: 2013-09-18
-source-url: https://www.scoop.co.nz/stories/ED1309/S00105/the-assessment-of-teacher-quality-education-response-group.htm
+title: The assessment of teacher quality - Education response group
+date: 2013-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00105/the-assessment-of-teacher-quality-education-response-group.htm
 author: massey-university
+permalink: >-
+  /archive/2013/09/18/the-assessment-of-teacher-quality-education-response-group/index.html
+layout: layout.njk
 ---
 The assessment of teacher quality - Education response group
 ============================================================

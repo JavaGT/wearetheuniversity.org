@@ -1,8 +1,11 @@
 ---
 slug: youth-health-needs-specialised-training
-title: "Youth health needs specialised training"
-date: 2016-09-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/youth-health-needs-specialised-training.html
+title: Youth health needs specialised training
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/youth-health-needs-specialised-training.html
+permalink: /archive/2016/09/20/youth-health-needs-specialised-training/index.html
+layout: layout.njk
 ---
 Youth health needs specialised training
 =======================================

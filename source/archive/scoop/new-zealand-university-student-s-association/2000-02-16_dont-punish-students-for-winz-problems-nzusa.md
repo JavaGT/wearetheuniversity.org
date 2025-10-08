@@ -1,9 +1,12 @@
 ---
 slug: dont-punish-students-for-winz-problems-nzusa
-title: "Don't Punish Students For WINZ Problems - NZUSA"
-date: 2000-02-16
-source-url: https://www.scoop.co.nz/stories/ED0002/S00019/dont-punish-students-for-winz-problems-nzusa.htm
+title: Don't Punish Students For WINZ Problems - NZUSA
+date: 2000-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00019/dont-punish-students-for-winz-problems-nzusa.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/02/16/dont-punish-students-for-winz-problems-nzusa/index.html
+layout: layout.njk
 ---
 Don't Punish Students For WINZ Problems - NZUSA
 ===============================================

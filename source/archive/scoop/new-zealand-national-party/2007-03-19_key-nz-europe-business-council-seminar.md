@@ -1,9 +1,12 @@
 ---
 slug: key-nz-europe-business-council-seminar
-title: "Key: NZ-Europe Business Council Seminar"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/PA0703/S00369/key-nz-europe-business-council-seminar.htm
+title: 'Key: NZ-Europe Business Council Seminar'
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00369/key-nz-europe-business-council-seminar.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/19/key-nz-europe-business-council-seminar/index.html
+layout: layout.njk
 ---
 Key: NZ-Europe Business Council Seminar
 =======================================

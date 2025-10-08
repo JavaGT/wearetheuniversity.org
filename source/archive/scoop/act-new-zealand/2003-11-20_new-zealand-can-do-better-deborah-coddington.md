@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-can-do-better-deborah-coddington
-title: "New Zealand Can Do Better - Deborah Coddington"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/PA0311/S00422/new-zealand-can-do-better-deborah-coddington.htm
+title: New Zealand Can Do Better - Deborah Coddington
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00422/new-zealand-can-do-better-deborah-coddington.htm
 author: act-new-zealand
+permalink: /archive/2003/11/20/new-zealand-can-do-better-deborah-coddington/index.html
+layout: layout.njk
 ---
 New Zealand Can Do Better - Deborah Coddington
 ==============================================

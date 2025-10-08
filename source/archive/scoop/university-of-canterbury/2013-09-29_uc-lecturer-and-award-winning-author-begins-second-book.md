@@ -1,9 +1,13 @@
 ---
 slug: uc-lecturer-and-award-winning-author-begins-second-book
-title: "UC lecturer and award-winning author begins second book"
-date: 2013-09-29
-source-url: https://www.scoop.co.nz/stories/ED1309/S00165/uc-lecturer-and-award-winning-author-begins-second-book.htm
+title: UC lecturer and award-winning author begins second book
+date: 2013-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00165/uc-lecturer-and-award-winning-author-begins-second-book.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/29/uc-lecturer-and-award-winning-author-begins-second-book/index.html
+layout: layout.njk
 ---
 UC lecturer and award-winning author begins second book
 =======================================================

@@ -1,9 +1,11 @@
 ---
 slug: top-organic-farmer-named
-title: "Top Organic Farmer Named"
-date: 2000-12-13
+title: Top Organic Farmer Named
+date: 2000-12-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0012/S00092/top-organic-farmer-named.htm
 author: lincoln-university
+permalink: /archive/2000/12/13/top-organic-farmer-named/index.html
+layout: layout.njk
 ---
 Top Organic Farmer Named
 ========================

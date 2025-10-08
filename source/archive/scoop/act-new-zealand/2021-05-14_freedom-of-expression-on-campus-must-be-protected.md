@@ -1,9 +1,13 @@
 ---
 slug: freedom-of-expression-on-campus-must-be-protected
-title: "Freedom Of Expression On Campus Must Be Protected"
-date: 2021-05-14
-source-url: https://www.scoop.co.nz/stories/PA2105/S00124/freedom-of-expression-on-campus-must-be-protected.htm
+title: Freedom Of Expression On Campus Must Be Protected
+date: 2021-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00124/freedom-of-expression-on-campus-must-be-protected.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/05/14/freedom-of-expression-on-campus-must-be-protected/index.html
+layout: layout.njk
 ---
 Freedom Of Expression On Campus Must Be Protected
 =================================================

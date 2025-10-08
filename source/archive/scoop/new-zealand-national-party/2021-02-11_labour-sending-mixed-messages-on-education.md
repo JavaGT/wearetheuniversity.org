@@ -1,9 +1,12 @@
 ---
 slug: labour-sending-mixed-messages-on-education
-title: "Labour Sending Mixed Messages On Education"
-date: 2021-02-11
-source-url: https://www.scoop.co.nz/stories/PA2102/S00055/labour-sending-mixed-messages-on-education.htm
+title: Labour Sending Mixed Messages On Education
+date: 2021-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00055/labour-sending-mixed-messages-on-education.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/11/labour-sending-mixed-messages-on-education/index.html
+layout: layout.njk
 ---
 Labour Sending Mixed Messages On Education
 ==========================================

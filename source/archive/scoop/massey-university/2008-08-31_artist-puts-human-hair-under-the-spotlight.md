@@ -1,9 +1,12 @@
 ---
 slug: artist-puts-human-hair-under-the-spotlight
-title: "Artist puts human hair under the spotlight"
-date: 2008-08-31
-source-url: https://www.scoop.co.nz/stories/CU0808/S00320/artist-puts-human-hair-under-the-spotlight.htm
+title: Artist puts human hair under the spotlight
+date: 2008-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0808/S00320/artist-puts-human-hair-under-the-spotlight.htm
 author: massey-university
+permalink: /archive/2008/08/31/artist-puts-human-hair-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Artist puts human hair under the spotlight
 ==========================================

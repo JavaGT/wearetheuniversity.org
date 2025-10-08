@@ -1,9 +1,13 @@
 ---
 slug: gifted-children-to-be-recognised-in-govt-standards
-title: "Gifted children to be recognised in Govt standards"
-date: 2010-06-16
-source-url: https://www.scoop.co.nz/stories/PA1006/S00254/gifted-children-to-be-recognised-in-govt-standards.htm
+title: Gifted children to be recognised in Govt standards
+date: 2010-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00254/gifted-children-to-be-recognised-in-govt-standards.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/06/16/gifted-children-to-be-recognised-in-govt-standards/index.html
+layout: layout.njk
 ---
 Gifted children to be recognised in Govt standards
 ==================================================

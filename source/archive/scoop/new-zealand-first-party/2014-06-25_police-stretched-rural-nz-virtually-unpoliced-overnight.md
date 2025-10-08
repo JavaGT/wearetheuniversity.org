@@ -1,9 +1,13 @@
 ---
 slug: police-stretched-rural-nz-virtually-unpoliced-overnight
-title: "Police Stretched, Rural NZ Virtually Unpoliced Overnight"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/PA1406/S00378/police-stretched-rural-nz-virtually-unpoliced-overnight.htm
+title: Police Stretched, Rural NZ Virtually Unpoliced Overnight
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00378/police-stretched-rural-nz-virtually-unpoliced-overnight.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/06/25/police-stretched-rural-nz-virtually-unpoliced-overnight/index.html
+layout: layout.njk
 ---
 Police Stretched, Rural NZ Virtually Unpoliced Overnight
 ========================================================

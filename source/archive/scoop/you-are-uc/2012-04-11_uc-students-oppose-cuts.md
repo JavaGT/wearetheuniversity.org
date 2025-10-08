@@ -1,9 +1,11 @@
 ---
 slug: uc-students-oppose-cuts
-title: "UC students oppose cuts"
-date: 2012-04-11
+title: UC students oppose cuts
+date: 2012-04-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1204/S00125/uc-students-oppose-cuts.htm
 author: you-are-uc
+permalink: /archive/2012/04/11/uc-students-oppose-cuts/index.html
+layout: layout.njk
 ---
 UC students oppose cuts
 =======================

@@ -1,9 +1,12 @@
 ---
 slug: green-party-will-lift-families-out-of-poverty
-title: "Green Party will lift families out of poverty"
-date: 2017-07-16
-source-url: https://www.scoop.co.nz/stories/PA1707/S00236/green-party-will-lift-families-out-of-poverty.htm
+title: Green Party will lift families out of poverty
+date: 2017-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00236/green-party-will-lift-families-out-of-poverty.htm
 author: green-party
+permalink: /archive/2017/07/16/green-party-will-lift-families-out-of-poverty/index.html
+layout: layout.njk
 ---
 Green Party will lift families out of poverty
 =============================================

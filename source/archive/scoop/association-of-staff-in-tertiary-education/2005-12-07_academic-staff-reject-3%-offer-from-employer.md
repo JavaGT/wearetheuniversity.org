@@ -1,9 +1,12 @@
 ---
 slug: academic-staff-reject-3%-offer-from-employer
-title: "Academic staff reject 3% offer from employer"
-date: 2005-12-07
-source-url: https://www.scoop.co.nz/stories/ED0512/S00036/academic-staff-reject-3-offer-from-employer.htm
+title: Academic staff reject 3% offer from employer
+date: 2005-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00036/academic-staff-reject-3-offer-from-employer.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/12/07/academic-staff-reject-3/index.html
+layout: layout.njk
 ---
 Academic staff reject 3% offer from employer
 ============================================

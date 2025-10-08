@@ -1,9 +1,12 @@
 ---
 slug: nobel-laureate-gives-free-lecture
-title: "Nobel Laureate gives free lecture"
-date: 2006-07-05
-source-url: https://www.scoop.co.nz/stories/SC0607/S00011/nobel-laureate-gives-free-lecture.htm
+title: Nobel Laureate gives free lecture
+date: 2006-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0607/S00011/nobel-laureate-gives-free-lecture.htm
 author: massey-university
+permalink: /archive/2006/07/05/nobel-laureate-gives-free-lecture/index.html
+layout: layout.njk
 ---
 Nobel Laureate gives free lecture
 =================================

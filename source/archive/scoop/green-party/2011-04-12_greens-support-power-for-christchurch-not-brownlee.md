@@ -1,9 +1,13 @@
 ---
 slug: greens-support-power-for-christchurch-not-brownlee
-title: "Greens support power for Christchurch not Brownlee"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/PA1104/S00231/greens-support-power-for-christchurch-not-brownlee.htm
+title: Greens support power for Christchurch not Brownlee
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00231/greens-support-power-for-christchurch-not-brownlee.htm
 author: green-party
+permalink: >-
+  /archive/2011/04/12/greens-support-power-for-christchurch-not-brownlee/index.html
+layout: layout.njk
 ---
 Greens support power for Christchurch not Brownlee
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: comcom-gutless-when-it-comes-to-protecting-kiwis
-title: "ComCom gutless when it comes to protecting Kiwis"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/PA1412/S00100/comcom-gutless-when-it-comes-to-protecting-kiwis.htm
+title: ComCom gutless when it comes to protecting Kiwis
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00100/comcom-gutless-when-it-comes-to-protecting-kiwis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/12/04/comcom-gutless-when-it-comes-to-protecting-kiwis/index.html
+layout: layout.njk
 ---
 ComCom gutless when it comes to protecting Kiwis
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: major-phd-scholarship-in-economic-development
-title: "Major PhD Scholarship in Economic Development"
-date: 2005-03-09
-source-url: https://www.scoop.co.nz/stories/ED0503/S00027/major-phd-scholarship-in-economic-development.htm
+title: Major PhD Scholarship in Economic Development
+date: 2005-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00027/major-phd-scholarship-in-economic-development.htm
 author: aut-university
+permalink: /archive/2005/03/09/major-phd-scholarship-in-economic-development/index.html
+layout: layout.njk
 ---
 Major PhD Scholarship in Economic Development
 =============================================

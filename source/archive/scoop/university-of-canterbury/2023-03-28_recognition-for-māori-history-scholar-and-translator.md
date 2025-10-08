@@ -1,9 +1,12 @@
 ---
 slug: recognition-for-māori-history-scholar-and-translator
-title: "Recognition For Māori History Scholar And Translator"
-date: 2023-03-28
-source-url: https://www.scoop.co.nz/stories/ED2303/S00042/recognition-for-maori-history-scholar-and-translator.htm
+title: Recognition For Māori History Scholar And Translator
+date: 2023-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00042/recognition-for-maori-history-scholar-and-translator.htm
 author: university-of-canterbury
+permalink: /archive/2023/03/28/recognition-for-m/index.html
+layout: layout.njk
 ---
 Recognition For Māori History Scholar And Translator
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: funding-boost-for-parkinsons-diseases-research
-title: "Funding Boost For Parkinson’s Diseases Research"
-date: 2003-11-27
-source-url: https://www.scoop.co.nz/stories/ED0311/S00089/funding-boost-for-parkinsons-diseases-research.htm
+title: Funding Boost For Parkinson’s Diseases Research
+date: 2003-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00089/funding-boost-for-parkinsons-diseases-research.htm
 author: university-of-otago
+permalink: /archive/2003/11/27/funding-boost-for-parkinsons-diseases-research/index.html
+layout: layout.njk
 ---
 Funding Boost For Parkinson’s Diseases Research
 ===============================================

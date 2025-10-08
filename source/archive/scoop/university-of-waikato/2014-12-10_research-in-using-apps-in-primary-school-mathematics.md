@@ -1,9 +1,13 @@
 ---
 slug: research-in-using-apps-in-primary-school-mathematics
-title: "Research in using apps in primary school mathematics"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/BU1412/S00394/research-in-using-apps-in-primary-school-mathematics.htm
+title: Research in using apps in primary school mathematics
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1412/S00394/research-in-using-apps-in-primary-school-mathematics.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/12/10/research-in-using-apps-in-primary-school-mathematics/index.html
+layout: layout.njk
 ---
 Research in using apps in primary school mathematics
 ====================================================

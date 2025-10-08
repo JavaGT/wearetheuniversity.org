@@ -1,9 +1,11 @@
 ---
 slug: maharey-must-resign
-title: "Maharey Must Resign"
-date: 2004-08-05
+title: Maharey Must Resign
+date: 2004-08-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0408/S00095/maharey-must-resign.htm
 author: act-new-zealand
+permalink: /archive/2004/08/05/maharey-must-resign/index.html
+layout: layout.njk
 ---
 Maharey Must Resign
 ===================

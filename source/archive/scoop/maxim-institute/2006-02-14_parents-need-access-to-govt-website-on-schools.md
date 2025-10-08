@@ -1,9 +1,12 @@
 ---
 slug: parents-need-access-to-govt-website-on-schools
-title: "Parents need access to govt website on schools"
-date: 2006-02-14
-source-url: https://www.scoop.co.nz/stories/ED0602/S00033/parents-need-access-to-govt-website-on-schools.htm
+title: Parents need access to govt website on schools
+date: 2006-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00033/parents-need-access-to-govt-website-on-schools.htm
 author: maxim-institute
+permalink: /archive/2006/02/14/parents-need-access-to-govt-website-on-schools/index.html
+layout: layout.njk
 ---
 Parents need access to govt website on schools
 ==============================================

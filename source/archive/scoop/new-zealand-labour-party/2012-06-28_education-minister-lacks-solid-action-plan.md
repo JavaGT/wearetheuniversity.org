@@ -1,9 +1,12 @@
 ---
 slug: education-minister-lacks-solid-action-plan
-title: "Education Minister lacks solid action plan"
-date: 2012-06-28
-source-url: https://www.scoop.co.nz/stories/PA1206/S00423/education-minister-lacks-solid-action-plan.htm
+title: Education Minister lacks solid action plan
+date: 2012-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00423/education-minister-lacks-solid-action-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/28/education-minister-lacks-solid-action-plan/index.html
+layout: layout.njk
 ---
 Education Minister lacks solid action plan
 ==========================================

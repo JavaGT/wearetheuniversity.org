@@ -1,9 +1,13 @@
 ---
 slug: greens-call-on-education-minister-to-bring-tertiary-sector-to-the-table
-title: "Greens Call On Education Minister To Bring Tertiary Sector To The Table"
-date: 2022-11-08
-source-url: https://www.scoop.co.nz/stories/PA2211/S00067/greens-call-on-education-minister-to-bring-tertiary-sector-to-the-table.htm
+title: Greens Call On Education Minister To Bring Tertiary Sector To The Table
+date: 2022-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00067/greens-call-on-education-minister-to-bring-tertiary-sector-to-the-table.htm
 author: green-party
+permalink: >-
+  /archive/2022/11/08/greens-call-on-education-minister-to-bring-tertiary-sector-to-the-table/index.html
+layout: layout.njk
 ---
 Greens Call On Education Minister To Bring Tertiary Sector To The Table
 =======================================================================

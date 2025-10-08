@@ -1,8 +1,12 @@
 ---
 slug: rutherford-recipient-will-lead-research-into-post-pancreatitis-diabetes
-title: "Rutherford recipient will lead research into post-pancreatitis diabetes"
-date: 2017-10-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/rutherford-recipient-will-lead-research-into-post-pancreatitis.html
+title: Rutherford recipient will lead research into post-pancreatitis diabetes
+date: 2017-10-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/rutherford-recipient-will-lead-research-into-post-pancreatitis.html
+permalink: >-
+  /archive/2017/10/12/rutherford-recipient-will-lead-research-into-post-pancreatitis-diabetes/index.html
+layout: layout.njk
 ---
 Rutherford recipient will lead research into post-pancreatitis diabetes
 =======================================================================

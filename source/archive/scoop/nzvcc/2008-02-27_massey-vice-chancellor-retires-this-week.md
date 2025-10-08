@@ -1,9 +1,12 @@
 ---
 slug: massey-vice-chancellor-retires-this-week
-title: "Massey Vice-Chancellor retires this week"
-date: 2008-02-27
-source-url: https://www.scoop.co.nz/stories/ED0802/S00063/massey-vice-chancellor-retires-this-week.htm
+title: Massey Vice-Chancellor retires this week
+date: 2008-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00063/massey-vice-chancellor-retires-this-week.htm
 author: nzvcc
+permalink: /archive/2008/02/27/massey-vice-chancellor-retires-this-week/index.html
+layout: layout.njk
 ---
 Massey Vice-Chancellor retires this week
 ========================================

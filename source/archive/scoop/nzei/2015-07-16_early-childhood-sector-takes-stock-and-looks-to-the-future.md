@@ -1,9 +1,13 @@
 ---
 slug: early-childhood-sector-takes-stock-and-looks-to-the-future
-title: "Early Childhood sector takes stock and looks to the future"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/ED1507/S00081/early-childhood-sector-takes-stock-and-looks-to-the-future.htm
+title: Early Childhood sector takes stock and looks to the future
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00081/early-childhood-sector-takes-stock-and-looks-to-the-future.htm
 author: nzei
+permalink: >-
+  /archive/2015/07/16/early-childhood-sector-takes-stock-and-looks-to-the-future/index.html
+layout: layout.njk
 ---
 Early Childhood sector takes stock and looks to the future
 ==========================================================

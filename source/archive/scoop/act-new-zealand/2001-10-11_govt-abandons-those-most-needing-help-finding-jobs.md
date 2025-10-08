@@ -1,9 +1,13 @@
 ---
 slug: govt-abandons-those-most-needing-help-finding-jobs
-title: "Govt Abandons Those Most Needing Help Finding Jobs"
-date: 2001-10-11
-source-url: https://www.scoop.co.nz/stories/PA0110/S00232/govt-abandons-those-most-needing-help-finding-jobs.htm
+title: Govt Abandons Those Most Needing Help Finding Jobs
+date: 2001-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00232/govt-abandons-those-most-needing-help-finding-jobs.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/10/11/govt-abandons-those-most-needing-help-finding-jobs/index.html
+layout: layout.njk
 ---
 Govt Abandons Those Most Needing Help Finding Jobs
 ==================================================

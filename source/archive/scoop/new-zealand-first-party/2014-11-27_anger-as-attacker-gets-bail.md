@@ -1,9 +1,11 @@
 ---
 slug: anger-as-attacker-gets-bail
-title: "Anger as Attacker Gets Bail"
-date: 2014-11-27
+title: Anger as Attacker Gets Bail
+date: 2014-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1411/S00364/anger-as-attacker-gets-bail.htm
 author: new-zealand-first-party
+permalink: /archive/2014/11/27/anger-as-attacker-gets-bail/index.html
+layout: layout.njk
 ---
 Anger as Attacker Gets Bail
 ===========================

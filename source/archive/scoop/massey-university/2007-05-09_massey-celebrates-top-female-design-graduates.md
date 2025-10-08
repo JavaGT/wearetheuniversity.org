@@ -1,9 +1,12 @@
 ---
 slug: massey-celebrates-top-female-design-graduates
-title: "Massey celebrates top female design graduates"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/ED0705/S00044/massey-celebrates-top-female-design-graduates.htm
+title: Massey celebrates top female design graduates
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00044/massey-celebrates-top-female-design-graduates.htm
 author: massey-university
+permalink: /archive/2007/05/09/massey-celebrates-top-female-design-graduates/index.html
+layout: layout.njk
 ---
 Massey celebrates top female design graduates
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: nine-years-of-progress-undone-by-labour
-title: "Nine years of progress undone by Labour"
-date: 2020-01-23
-source-url: https://www.scoop.co.nz/stories/PA2001/S00076/nine-years-of-progress-undone-by-labour.htm
+title: Nine years of progress undone by Labour
+date: 2020-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00076/nine-years-of-progress-undone-by-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2020/01/23/nine-years-of-progress-undone-by-labour/index.html
+layout: layout.njk
 ---
 Nine years of progress undone by Labour
 =======================================

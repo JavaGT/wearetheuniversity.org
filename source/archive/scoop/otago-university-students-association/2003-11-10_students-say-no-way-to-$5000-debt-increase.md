@@ -1,9 +1,12 @@
 ---
 slug: students-say-no-way-to-$5000-debt-increase
-title: "Students say \" NO WAY \" To $5000 debt increase"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/ED0311/S00033/students-say-no-way-to-5000-debt-increase.htm
+title: Students say " NO WAY " To $5000 debt increase
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00033/students-say-no-way-to-5000-debt-increase.htm
 author: otago-university-students-association
+permalink: /archive/2003/11/10/students-say-no-way-to-/index.html
+layout: layout.njk
 ---
 Students say " NO WAY To $5000 debt increase
 ============================================

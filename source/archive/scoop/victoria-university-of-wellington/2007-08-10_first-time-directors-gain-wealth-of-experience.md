@@ -1,9 +1,12 @@
 ---
 slug: first-time-directors-gain-wealth-of-experience
-title: "First-Time Directors Gain Wealth of Experience"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/CU0708/S00126/first-time-directors-gain-wealth-of-experience.htm
+title: First-Time Directors Gain Wealth of Experience
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00126/first-time-directors-gain-wealth-of-experience.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/10/first-time-directors-gain-wealth-of-experience/index.html
+layout: layout.njk
 ---
 First-Time Directors Gain Wealth of Experience
 ==============================================

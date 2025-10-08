@@ -1,9 +1,12 @@
 ---
 slug: forum-explores-maori-economic-development
-title: "Forum explores Maori economic development"
-date: 2006-05-02
-source-url: https://www.scoop.co.nz/stories/ED0605/S00006/forum-explores-maori-economic-development.htm
+title: Forum explores Maori economic development
+date: 2006-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00006/forum-explores-maori-economic-development.htm
 author: aut-university
+permalink: /archive/2006/05/02/forum-explores-maori-economic-development/index.html
+layout: layout.njk
 ---
 Forum explores Maori economic development
 =========================================

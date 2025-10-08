@@ -1,9 +1,12 @@
 ---
 slug: code-of-conduct-needed-for-ministerial-staff
-title: "Code of conduct needed for ministerial staff"
-date: 2008-11-18
-source-url: https://www.scoop.co.nz/stories/PO0811/S00227/code-of-conduct-needed-for-ministerial-staff.htm
+title: Code of conduct needed for ministerial staff
+date: 2008-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00227/code-of-conduct-needed-for-ministerial-staff.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/11/18/code-of-conduct-needed-for-ministerial-staff/index.html
+layout: layout.njk
 ---
 Code of conduct needed for ministerial staff
 ============================================

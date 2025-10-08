@@ -1,9 +1,12 @@
 ---
 slug: 60%-of-auckland-councillor-votes-wasted-under-fpp
-title: "60% of Auckland councillor votes wasted under FPP"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00260/60-of-auckland-councillor-votes-wasted-under-fpp.htm
+title: 60% of Auckland councillor votes wasted under FPP
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00260/60-of-auckland-councillor-votes-wasted-under-fpp.htm
 author: green-party
+permalink: /archive/2010/10/15/60/index.html
+layout: layout.njk
 ---
 60% of Auckland councillor votes wasted under FPP
 =================================================

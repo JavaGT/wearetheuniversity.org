@@ -1,9 +1,12 @@
 ---
 slug: hefty-bill-for-national-maori-party-deal
-title: "Hefty bill for National/Maori Party deal"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00383/hefty-bill-for-nationalmaori-party-deal.htm
+title: Hefty bill for National/Maori Party deal
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00383/hefty-bill-for-nationalmaori-party-deal.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/30/hefty-bill-for-national-maori-party-deal/index.html
+layout: layout.njk
 ---
 Hefty bill for National/Maori Party deal
 ========================================

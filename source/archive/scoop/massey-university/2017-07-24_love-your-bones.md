@@ -1,9 +1,11 @@
 ---
 slug: love-your-bones
-title: "Love your bones"
-date: 2017-07-24
+title: Love your bones
+date: 2017-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1707/S00067/love-your-bones.htm
 author: massey-university
+permalink: /archive/2017/07/24/love-your-bones/index.html
+layout: layout.njk
 ---
 Love your bones
 ===============

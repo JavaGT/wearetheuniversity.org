@@ -1,9 +1,13 @@
 ---
 slug: property-speculators-paradise-continues-under-national
-title: "Property speculators’ paradise continues under National"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PA1607/S00369/property-speculators-paradise-continues-under-national.htm
+title: Property speculators’ paradise continues under National
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00369/property-speculators-paradise-continues-under-national.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/26/property-speculators-paradise-continues-under-national/index.html
+layout: layout.njk
 ---
 Property speculators’ paradise continues under National
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-installing-solar-panels-providing-power-to-tongan-schools
-title: "UC installing solar panels providing power to Tongan schools"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/ED1209/S00030/uc-installing-solar-panels-providing-power-to-tongan-schools.htm
+title: UC installing solar panels providing power to Tongan schools
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00030/uc-installing-solar-panels-providing-power-to-tongan-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/06/uc-installing-solar-panels-providing-power-to-tongan-schools/index.html
+layout: layout.njk
 ---
 UC installing solar panels providing power to Tongan schools
 ============================================================

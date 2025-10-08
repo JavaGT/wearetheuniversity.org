@@ -1,9 +1,13 @@
 ---
 slug: canterbury-raised-academic-to-head-lincoln-university
-title: "Canterbury-raised academic to head Lincoln University"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/ED1601/S00046/canterbury-raised-academic-to-head-lincoln-university.htm
+title: Canterbury-raised academic to head Lincoln University
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00046/canterbury-raised-academic-to-head-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/01/29/canterbury-raised-academic-to-head-lincoln-university/index.html
+layout: layout.njk
 ---
 Canterbury-raised academic to head Lincoln University
 =====================================================

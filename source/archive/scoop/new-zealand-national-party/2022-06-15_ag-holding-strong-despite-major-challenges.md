@@ -1,9 +1,12 @@
 ---
 slug: ag-holding-strong-despite-major-challenges
-title: "Ag Holding Strong Despite Major Challenges"
-date: 2022-06-15
-source-url: https://www.scoop.co.nz/stories/PA2206/S00120/ag-holding-strong-despite-major-challenges.htm
+title: Ag Holding Strong Despite Major Challenges
+date: 2022-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00120/ag-holding-strong-despite-major-challenges.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/15/ag-holding-strong-despite-major-challenges/index.html
+layout: layout.njk
 ---
 Ag Holding Strong Despite Major Challenges
 ==========================================

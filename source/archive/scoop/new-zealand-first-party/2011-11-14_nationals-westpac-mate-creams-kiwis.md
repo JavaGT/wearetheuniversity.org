@@ -1,9 +1,12 @@
 ---
 slug: nationals-westpac-mate-creams-kiwis
-title: "National’s Westpac Mate Creams Kiwis"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/PO1111/S00342/nationals-westpac-mate-creams-kiwis.htm
+title: National’s Westpac Mate Creams Kiwis
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00342/nationals-westpac-mate-creams-kiwis.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/14/nationals-westpac-mate-creams-kiwis/index.html
+layout: layout.njk
 ---
 National’s Westpac Mate Creams Kiwis
 ====================================

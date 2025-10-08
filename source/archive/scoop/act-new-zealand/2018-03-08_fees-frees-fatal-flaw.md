@@ -1,9 +1,11 @@
 ---
 slug: fees-frees-fatal-flaw
-title: "Fees-Free’s Fatal Flaw"
-date: 2018-03-08
+title: Fees-Free’s Fatal Flaw
+date: 2018-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1803/S00093/fees-frees-fatal-flaw.htm
 author: act-new-zealand
+permalink: /archive/2018/03/08/fees-frees-fatal-flaw/index.html
+layout: layout.njk
 ---
 Fees-Free’s Fatal Flaw
 ======================

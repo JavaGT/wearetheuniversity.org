@@ -1,9 +1,13 @@
 ---
 slug: 20-thousand-sign-petition-to-remove-gst-from-food
-title: "20-thousand Sign Petition To Remove GST From Food"
-date: 2024-03-20
-source-url: https://www.scoop.co.nz/stories/PA2403/S00095/20-thousand-sign-petition-to-remove-gst-from-food.htm
+title: 20-thousand Sign Petition To Remove GST From Food
+date: 2024-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00095/20-thousand-sign-petition-to-remove-gst-from-food.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2024/03/20/20-thousand-sign-petition-to-remove-gst-from-food/index.html
+layout: layout.njk
 ---
 20-thousand Sign Petition To Remove GST From Food
 =================================================

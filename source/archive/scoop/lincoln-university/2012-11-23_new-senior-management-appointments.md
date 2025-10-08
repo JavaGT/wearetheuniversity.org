@@ -1,9 +1,12 @@
 ---
 slug: new-senior-management-appointments
-title: "New Senior Management Appointments"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/ED1211/S00169/new-senior-management-appointments.htm
+title: New Senior Management Appointments
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00169/new-senior-management-appointments.htm
 author: lincoln-university
+permalink: /archive/2012/11/23/new-senior-management-appointments/index.html
+layout: layout.njk
 ---
 New Senior Management Appointments
 ==================================

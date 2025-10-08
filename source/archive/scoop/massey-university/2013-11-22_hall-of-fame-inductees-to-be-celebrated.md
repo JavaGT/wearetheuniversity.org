@@ -1,9 +1,12 @@
 ---
 slug: hall-of-fame-inductees-to-be-celebrated
-title: "Hall of Fame inductees to be celebrated"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/ED1311/S00160/hall-of-fame-inductees-to-be-celebrated.htm
+title: Hall of Fame inductees to be celebrated
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00160/hall-of-fame-inductees-to-be-celebrated.htm
 author: massey-university
+permalink: /archive/2013/11/22/hall-of-fame-inductees-to-be-celebrated/index.html
+layout: layout.njk
 ---
 Hall of Fame inductees to be celebrated
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: study-investigates-usefulness-of-swiss-ball
-title: "Study Investigates Usefulness Of Swiss Ball"
-date: 2004-06-23
-source-url: https://www.scoop.co.nz/stories/GE0406/S00071/study-investigates-usefulness-of-swiss-ball.htm
+title: Study Investigates Usefulness Of Swiss Ball
+date: 2004-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0406/S00071/study-investigates-usefulness-of-swiss-ball.htm
 author: auckland-university
+permalink: /archive/2004/06/23/study-investigates-usefulness-of-swiss-ball/index.html
+layout: layout.njk
 ---
 Study Investigates Usefulness Of Swiss Ball
 ===========================================

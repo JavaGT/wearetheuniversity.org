@@ -1,9 +1,12 @@
 ---
 slug: dairy-merger-decision-victory-for-common-sense
-title: "Dairy merger decision victory for common sense"
-date: 2001-06-18
-source-url: https://www.scoop.co.nz/stories/BU0106/S00164/dairy-merger-decision-victory-for-common-sense.htm
+title: Dairy merger decision victory for common sense
+date: 2001-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0106/S00164/dairy-merger-decision-victory-for-common-sense.htm
 author: lincoln-university
+permalink: /archive/2001/06/18/dairy-merger-decision-victory-for-common-sense/index.html
+layout: layout.njk
 ---
 Dairy merger decision victory for common sense
 ==============================================

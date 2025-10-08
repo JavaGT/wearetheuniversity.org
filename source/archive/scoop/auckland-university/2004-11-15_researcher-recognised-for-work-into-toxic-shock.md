@@ -1,9 +1,12 @@
 ---
 slug: researcher-recognised-for-work-into-toxic-shock
-title: "Researcher Recognised for work into Toxic Shock"
-date: 2004-11-15
-source-url: https://www.scoop.co.nz/stories/ED0411/S00045/researcher-recognised-for-work-into-toxic-shock.htm
+title: Researcher Recognised for work into Toxic Shock
+date: 2004-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00045/researcher-recognised-for-work-into-toxic-shock.htm
 author: auckland-university
+permalink: /archive/2004/11/15/researcher-recognised-for-work-into-toxic-shock/index.html
+layout: layout.njk
 ---
 Researcher Recognised for work into Toxic Shock
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-welcomes-science-challenge-role
-title: "University of Otago welcomes science challenge role"
-date: 2014-04-01
-source-url: https://www.scoop.co.nz/stories/SC1404/S00007/university-of-otago-welcomes-science-challenge-role.htm
+title: University of Otago welcomes science challenge role
+date: 2014-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00007/university-of-otago-welcomes-science-challenge-role.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/01/university-of-otago-welcomes-science-challenge-role/index.html
+layout: layout.njk
 ---
 University of Otago welcomes science challenge role
 ===================================================

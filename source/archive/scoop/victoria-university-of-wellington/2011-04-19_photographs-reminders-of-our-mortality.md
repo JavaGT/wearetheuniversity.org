@@ -1,9 +1,12 @@
 ---
 slug: photographs-reminders-of-our-mortality
-title: "Photographs-reminders of our mortality"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/CU1104/S00324/photographs-reminders-of-our-mortality.htm
+title: Photographs-reminders of our mortality
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00324/photographs-reminders-of-our-mortality.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/04/19/photographs-reminders-of-our-mortality/index.html
+layout: layout.njk
 ---
 Photographs-reminders of our mortality
 ======================================

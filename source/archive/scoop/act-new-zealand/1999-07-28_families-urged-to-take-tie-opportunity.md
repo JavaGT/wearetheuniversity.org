@@ -1,9 +1,12 @@
 ---
 slug: families-urged-to-take-tie-opportunity
-title: "Families Urged To Take TIE Opportunity"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/PA9907/S00526/families-urged-to-take-tie-opportunity.htm
+title: Families Urged To Take TIE Opportunity
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00526/families-urged-to-take-tie-opportunity.htm
 author: act-new-zealand
+permalink: /archive/1999/07/28/families-urged-to-take-tie-opportunity/index.html
+layout: layout.njk
 ---
 Families Urged To Take TIE Opportunity
 ======================================

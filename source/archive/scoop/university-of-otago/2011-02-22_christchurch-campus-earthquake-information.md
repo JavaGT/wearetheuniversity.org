@@ -1,9 +1,12 @@
 ---
 slug: christchurch-campus-earthquake-information
-title: "Christchurch Campus: Earthquake Information"
-date: 2011-02-22
-source-url: https://www.scoop.co.nz/stories/ED1102/S00072/christchurch-campus-earthquake-information.htm
+title: 'Christchurch Campus: Earthquake Information'
+date: 2011-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00072/christchurch-campus-earthquake-information.htm
 author: university-of-otago
+permalink: /archive/2011/02/22/christchurch-campus-earthquake-information/index.html
+layout: layout.njk
 ---
 Christchurch Campus: Earthquake Information
 ===========================================

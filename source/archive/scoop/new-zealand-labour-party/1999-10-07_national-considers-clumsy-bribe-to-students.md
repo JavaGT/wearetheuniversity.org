@@ -1,9 +1,12 @@
 ---
 slug: national-considers-clumsy-bribe-to-students
-title: "National considers clumsy bribe to students"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00116/national-considers-clumsy-bribe-to-students.htm
+title: National considers clumsy bribe to students
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00116/national-considers-clumsy-bribe-to-students.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/07/national-considers-clumsy-bribe-to-students/index.html
+layout: layout.njk
 ---
 National considers clumsy bribe to students
 ===========================================

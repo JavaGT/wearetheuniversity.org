@@ -1,9 +1,13 @@
 ---
 slug: wine-industry-to-benefit-from-intensive-uc-weather-research
-title: "Wine industry to benefit from intensive UC weather research"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/SC1307/S00028/wine-industry-to-benefit-from-intensive-uc-weather-research.htm
+title: Wine industry to benefit from intensive UC weather research
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00028/wine-industry-to-benefit-from-intensive-uc-weather-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/10/wine-industry-to-benefit-from-intensive-uc-weather-research/index.html
+layout: layout.njk
 ---
 Wine industry to benefit from intensive UC weather research
 ===========================================================

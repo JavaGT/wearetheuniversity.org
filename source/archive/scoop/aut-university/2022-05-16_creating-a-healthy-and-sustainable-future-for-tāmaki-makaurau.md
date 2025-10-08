@@ -1,9 +1,12 @@
 ---
 slug: creating-a-healthy-and-sustainable-future-for-tāmaki-makaurau
-title: "Creating A Healthy And Sustainable Future For Tāmaki Makaurau"
-date: 2022-05-16
-source-url: https://www.scoop.co.nz/stories/PO2205/S00118/creating-a-healthy-and-sustainable-future-for-tamaki-makaurau.htm
+title: Creating A Healthy And Sustainable Future For Tāmaki Makaurau
+date: 2022-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00118/creating-a-healthy-and-sustainable-future-for-tamaki-makaurau.htm
 author: aut-university
+permalink: /archive/2022/05/16/creating-a-healthy-and-sustainable-future-for-t/index.html
+layout: layout.njk
 ---
 Creating A Healthy And Sustainable Future For Tāmaki Makaurau
 =============================================================

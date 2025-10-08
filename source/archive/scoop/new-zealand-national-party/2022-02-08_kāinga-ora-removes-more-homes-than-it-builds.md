@@ -1,9 +1,12 @@
 ---
 slug: kāinga-ora-removes-more-homes-than-it-builds
-title: "Kāinga Ora Removes More Homes Than It Builds"
-date: 2022-02-08
-source-url: https://www.scoop.co.nz/stories/PA2202/S00049/kainga-ora-removes-more-homes-than-it-builds.htm
+title: Kāinga Ora Removes More Homes Than It Builds
+date: 2022-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00049/kainga-ora-removes-more-homes-than-it-builds.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/08/k/index.html
+layout: layout.njk
 ---
 Kāinga Ora Removes More Homes Than It Builds
 ============================================

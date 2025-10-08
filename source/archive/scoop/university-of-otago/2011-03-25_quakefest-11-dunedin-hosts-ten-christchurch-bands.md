@@ -1,9 +1,13 @@
 ---
 slug: quakefest-11-dunedin-hosts-ten-christchurch-bands
-title: "Quakefest ‘11: Dunedin Hosts Ten Christchurch Bands"
-date: 2011-03-25
-source-url: https://www.scoop.co.nz/stories/CU1103/S00479/quakefest-11-dunedin-hosts-ten-christchurch-bands.htm
+title: 'Quakefest ‘11: Dunedin Hosts Ten Christchurch Bands'
+date: 2011-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1103/S00479/quakefest-11-dunedin-hosts-ten-christchurch-bands.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/03/25/quakefest-11-dunedin-hosts-ten-christchurch-bands/index.html
+layout: layout.njk
 ---
 Quakefest ‘11: Dunedin Hosts Ten Christchurch Bands
 ===================================================

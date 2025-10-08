@@ -1,9 +1,12 @@
 ---
 slug: paratas-budget-announcement-dodges-real-issues
-title: "Parata’s Budget Announcement Dodges Real Issues"
-date: 2013-05-08
-source-url: https://www.scoop.co.nz/stories/PA1305/S00113/paratas-budget-announcement-dodges-real-issues.htm
+title: Parata’s Budget Announcement Dodges Real Issues
+date: 2013-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00113/paratas-budget-announcement-dodges-real-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/08/paratas-budget-announcement-dodges-real-issues/index.html
+layout: layout.njk
 ---
 Parata’s Budget Announcement Dodges Real Issues
 ===============================================

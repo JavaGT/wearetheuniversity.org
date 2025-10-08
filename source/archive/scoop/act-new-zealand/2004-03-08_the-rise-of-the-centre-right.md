@@ -1,9 +1,11 @@
 ---
 slug: the-rise-of-the-centre-right
-title: "The Rise Of The Centre-Right"
-date: 2004-03-08
+title: The Rise Of The Centre-Right
+date: 2004-03-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00145/the-rise-of-the-centre-right.htm
 author: act-new-zealand
+permalink: /archive/2004/03/08/the-rise-of-the-centre-right/index.html
+layout: layout.njk
 ---
 The Rise Of The Centre-Right
 ============================

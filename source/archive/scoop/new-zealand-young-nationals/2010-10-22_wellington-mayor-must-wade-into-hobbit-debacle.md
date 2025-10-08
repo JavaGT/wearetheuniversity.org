@@ -1,9 +1,12 @@
 ---
 slug: wellington-mayor-must-wade-into-hobbit-debacle
-title: "Wellington Mayor must wade into Hobbit debacle"
-date: 2010-10-22
-source-url: https://www.scoop.co.nz/stories/PO1010/S00250/wellington-mayor-must-wade-into-hobbit-debacle.htm
+title: Wellington Mayor must wade into Hobbit debacle
+date: 2010-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00250/wellington-mayor-must-wade-into-hobbit-debacle.htm
 author: new-zealand-young-nationals
+permalink: /archive/2010/10/22/wellington-mayor-must-wade-into-hobbit-debacle/index.html
+layout: layout.njk
 ---
 Wellington Mayor must wade into Hobbit debacle
 ==============================================

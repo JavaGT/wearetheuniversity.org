@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-loan-limit-extension
-title: "Students welcome loan limit extension"
-date: 2018-07-02
-source-url: https://www.scoop.co.nz/stories/PO1807/S00006/students-welcome-loan-limit-extension.htm
+title: Students welcome loan limit extension
+date: 2018-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00006/students-welcome-loan-limit-extension.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/07/02/students-welcome-loan-limit-extension/index.html
+layout: layout.njk
 ---
 Students welcome loan limit extension
 =====================================

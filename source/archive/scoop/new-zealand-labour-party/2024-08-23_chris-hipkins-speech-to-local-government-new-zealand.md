@@ -1,9 +1,13 @@
 ---
 slug: chris-hipkins-speech-to-local-government-new-zealand
-title: "Chris Hipkins’ Speech To Local Government New Zealand"
-date: 2024-08-23
-source-url: https://www.scoop.co.nz/stories/PA2408/S00154/chris-hipkins-speech-to-local-government-new-zealand.htm
+title: Chris Hipkins’ Speech To Local Government New Zealand
+date: 2024-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00154/chris-hipkins-speech-to-local-government-new-zealand.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/08/23/chris-hipkins-speech-to-local-government-new-zealand/index.html
+layout: layout.njk
 ---
 Chris Hipkins’ Speech To Local Government New Zealand
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-study-shows-harmful-effects-of-tillage
-title: "Massey Study Shows Harmful Effects of Tillage"
-date: 2013-06-03
-source-url: https://www.scoop.co.nz/stories/ED1306/S00006/massey-study-shows-harmful-effects-of-tillage.htm
+title: Massey Study Shows Harmful Effects of Tillage
+date: 2013-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00006/massey-study-shows-harmful-effects-of-tillage.htm
 author: massey-university
+permalink: /archive/2013/06/03/massey-study-shows-harmful-effects-of-tillage/index.html
+layout: layout.njk
 ---
 Massey Study Shows Harmful Effects of Tillage
 =============================================

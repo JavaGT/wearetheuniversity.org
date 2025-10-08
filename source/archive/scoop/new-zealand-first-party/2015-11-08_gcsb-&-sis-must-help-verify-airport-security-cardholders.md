@@ -1,9 +1,12 @@
 ---
 slug: gcsb-&-sis-must-help-verify-airport-security-cardholders
-title: "GCSB & SIS must help verify airport security cardholders"
-date: 2015-11-08
-source-url: https://www.scoop.co.nz/stories/PA1511/S00124/gcsb-sis-must-help-verify-airport-security-cardholders.htm
+title: GCSB & SIS must help verify airport security cardholders
+date: 2015-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00124/gcsb-sis-must-help-verify-airport-security-cardholders.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/08/gcsb-/index.html
+layout: layout.njk
 ---
 GCSB & SIS must help verify airport security cardholders
 ========================================================

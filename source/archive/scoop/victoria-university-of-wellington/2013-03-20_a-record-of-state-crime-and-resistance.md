@@ -1,9 +1,12 @@
 ---
 slug: a-record-of-state-crime-and-resistance
-title: "A record of state crime and resistance"
-date: 2013-03-20
-source-url: https://www.scoop.co.nz/stories/PO1303/S00231/a-record-of-state-crime-and-resistance.htm
+title: A record of state crime and resistance
+date: 2013-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00231/a-record-of-state-crime-and-resistance.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/03/20/a-record-of-state-crime-and-resistance/index.html
+layout: layout.njk
 ---
 A record of state crime and resistance
 ======================================

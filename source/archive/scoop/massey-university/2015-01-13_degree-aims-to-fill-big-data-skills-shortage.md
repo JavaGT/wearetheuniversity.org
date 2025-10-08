@@ -1,9 +1,12 @@
 ---
 slug: degree-aims-to-fill-big-data-skills-shortage
-title: "Degree aims to fill ‘big data’ skills shortage"
-date: 2015-01-13
-source-url: https://www.scoop.co.nz/stories/ED1501/S00023/degree-aims-to-fill-big-data-skills-shortage.htm
+title: Degree aims to fill ‘big data’ skills shortage
+date: 2015-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00023/degree-aims-to-fill-big-data-skills-shortage.htm
 author: massey-university
+permalink: /archive/2015/01/13/degree-aims-to-fill-big-data-skills-shortage/index.html
+layout: layout.njk
 ---
 Degree aims to fill ‘big data’ skills shortage
 ==============================================

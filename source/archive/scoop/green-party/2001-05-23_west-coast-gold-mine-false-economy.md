@@ -1,9 +1,12 @@
 ---
 slug: west-coast-gold-mine-false-economy
-title: "West Coast gold mine false economy"
-date: 2001-05-23
-source-url: https://www.scoop.co.nz/stories/PA0105/S00453/west-coast-gold-mine-false-economy.htm
+title: West Coast gold mine false economy
+date: 2001-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00453/west-coast-gold-mine-false-economy.htm
 author: green-party
+permalink: /archive/2001/05/23/west-coast-gold-mine-false-economy/index.html
+layout: layout.njk
 ---
 West Coast gold mine false economy
 ==================================

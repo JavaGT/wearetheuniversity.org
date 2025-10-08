@@ -1,9 +1,12 @@
 ---
 slug: budget-surplus-confirms-no-more-excuses-maharey
-title: "Budget surplus confirms: no more excuses Maharey"
-date: 2003-09-29
-source-url: https://www.scoop.co.nz/stories/ED0309/S00132/budget-surplus-confirms-no-more-excuses-maharey.htm
+title: 'Budget surplus confirms: no more excuses Maharey'
+date: 2003-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00132/budget-surplus-confirms-no-more-excuses-maharey.htm
 author: lincoln-university-students-association
+permalink: /archive/2003/09/29/budget-surplus-confirms-no-more-excuses-maharey/index.html
+layout: layout.njk
 ---
 Budget surplus confirms: no more excuses Maharey
 ================================================

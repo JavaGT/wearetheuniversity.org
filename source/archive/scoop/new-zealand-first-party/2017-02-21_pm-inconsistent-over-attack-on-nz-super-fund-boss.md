@@ -1,9 +1,13 @@
 ---
 slug: pm-inconsistent-over-attack-on-nz-super-fund-boss
-title: "PM Inconsistent Over Attack on NZ Super Fund Boss"
-date: 2017-02-21
-source-url: https://www.scoop.co.nz/stories/PA1702/S00282/pm-inconsistent-over-attack-on-nz-super-fund-boss.htm
+title: PM Inconsistent Over Attack on NZ Super Fund Boss
+date: 2017-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00282/pm-inconsistent-over-attack-on-nz-super-fund-boss.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/21/pm-inconsistent-over-attack-on-nz-super-fund-boss/index.html
+layout: layout.njk
 ---
 PM Inconsistent Over Attack on NZ Super Fund Boss
 =================================================

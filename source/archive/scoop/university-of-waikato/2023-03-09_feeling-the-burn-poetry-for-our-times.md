@@ -1,9 +1,12 @@
 ---
 slug: feeling-the-burn-poetry-for-our-times
-title: "Feeling The Burn: Poetry For Our Times"
-date: 2023-03-09
-source-url: https://www.scoop.co.nz/stories/CU2303/S00074/feeling-the-burn-poetry-for-our-times.htm
+title: 'Feeling The Burn: Poetry For Our Times'
+date: 2023-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2303/S00074/feeling-the-burn-poetry-for-our-times.htm
 author: university-of-waikato
+permalink: /archive/2023/03/09/feeling-the-burn-poetry-for-our-times/index.html
+layout: layout.njk
 ---
 Feeling The Burn: Poetry For Our Times
 ======================================

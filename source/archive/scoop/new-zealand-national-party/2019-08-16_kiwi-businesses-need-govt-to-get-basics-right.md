@@ -1,9 +1,12 @@
 ---
 slug: kiwi-businesses-need-govt-to-get-basics-right
-title: "Kiwi businesses need Govt to get basics right"
-date: 2019-08-16
-source-url: https://www.scoop.co.nz/stories/PA1908/S00175/kiwi-businesses-need-govt-to-get-basics-right.htm
+title: Kiwi businesses need Govt to get basics right
+date: 2019-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00175/kiwi-businesses-need-govt-to-get-basics-right.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/16/kiwi-businesses-need-govt-to-get-basics-right/index.html
+layout: layout.njk
 ---
 Kiwi businesses need Govt to get basics right
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: kiwis-gambling-less-but-somestill-at-significant-risk
-title: "Kiwis gambling less but somestill at significant risk"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/CU1412/S00027/kiwis-gambling-less-but-somestill-at-significant-risk.htm
+title: Kiwis gambling less but somestill at significant risk
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00027/kiwis-gambling-less-but-somestill-at-significant-risk.htm
 author: aut-university
+permalink: >-
+  /archive/2014/12/01/kiwis-gambling-less-but-somestill-at-significant-risk/index.html
+layout: layout.njk
 ---
 Kiwis gambling less but somestill at significant risk
 =====================================================

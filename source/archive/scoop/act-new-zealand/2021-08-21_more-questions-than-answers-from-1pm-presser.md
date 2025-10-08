@@ -1,9 +1,12 @@
 ---
 slug: more-questions-than-answers-from-1pm-presser
-title: "More Questions Than Answers From 1pm Presser"
-date: 2021-08-21
-source-url: https://www.scoop.co.nz/stories/PA2108/S00178/more-questions-than-answers-from-1pm-presser.htm
+title: More Questions Than Answers From 1pm Presser
+date: 2021-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00178/more-questions-than-answers-from-1pm-presser.htm
 author: act-new-zealand
+permalink: /archive/2021/08/21/more-questions-than-answers-from-1pm-presser/index.html
+layout: layout.njk
 ---
 More Questions Than Answers From 1pm Presser
 ============================================

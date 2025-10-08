@@ -1,9 +1,12 @@
 ---
 slug: govt-underfunding-closes-alcohol-unit
-title: "Govt Underfunding Closes Alcohol Unit"
-date: 2002-01-09
-source-url: https://www.scoop.co.nz/stories/PA0201/S00016/govt-underfunding-closes-alcohol-unit.htm
+title: Govt Underfunding Closes Alcohol Unit
+date: 2002-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00016/govt-underfunding-closes-alcohol-unit.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/09/govt-underfunding-closes-alcohol-unit/index.html
+layout: layout.njk
 ---
 Govt Underfunding Closes Alcohol Unit
 =====================================

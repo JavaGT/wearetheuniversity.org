@@ -1,9 +1,13 @@
 ---
 slug: xmas-grinch-petrol-price-hike-oils-the-wheels-to-surplus
-title: "Xmas Grinch petrol price hike oils the wheels to surplus"
-date: 2012-12-18
-source-url: https://www.scoop.co.nz/stories/PA1212/S00328/xmas-grinch-petrol-price-hike-oils-the-wheels-to-surplus.htm
+title: Xmas Grinch petrol price hike oils the wheels to surplus
+date: 2012-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00328/xmas-grinch-petrol-price-hike-oils-the-wheels-to-surplus.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/12/18/xmas-grinch-petrol-price-hike-oils-the-wheels-to-surplus/index.html
+layout: layout.njk
 ---
 Xmas Grinch petrol price hike oils the wheels to surplus
 ========================================================

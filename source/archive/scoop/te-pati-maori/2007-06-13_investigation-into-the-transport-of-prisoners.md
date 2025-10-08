@@ -1,9 +1,12 @@
 ---
 slug: investigation-into-the-transport-of-prisoners
-title: "Investigation into the Transport of Prisoners"
-date: 2007-06-13
-source-url: https://www.scoop.co.nz/stories/PA0706/S00246/investigation-into-the-transport-of-prisoners.htm
+title: Investigation into the Transport of Prisoners
+date: 2007-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00246/investigation-into-the-transport-of-prisoners.htm
 author: te-pati-maori
+permalink: /archive/2007/06/13/investigation-into-the-transport-of-prisoners/index.html
+layout: layout.njk
 ---
 Investigation into the Transport of Prisoners
 =============================================

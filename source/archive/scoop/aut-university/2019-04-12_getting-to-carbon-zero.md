@@ -1,9 +1,11 @@
 ---
 slug: getting-to-carbon-zero
-title: "Getting to Carbon Zero"
-date: 2019-04-12
+title: Getting to Carbon Zero
+date: 2019-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1904/S00137/getting-to-carbon-zero.htm
 author: aut-university
+permalink: /archive/2019/04/12/getting-to-carbon-zero/index.html
+layout: layout.njk
 ---
 Getting to Carbon Zero
 ======================

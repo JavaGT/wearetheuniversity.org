@@ -1,9 +1,13 @@
 ---
 slug: tomorrows-schools-review-backdown-must-be-comprehensive
-title: "Tomorrow's Schools Review backdown must be comprehensive"
-date: 2019-11-11
-source-url: https://www.scoop.co.nz/stories/PA1911/S00071/tomorrows-schools-review-backdown-must-be-comprehensive.htm
+title: Tomorrow's Schools Review backdown must be comprehensive
+date: 2019-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00071/tomorrows-schools-review-backdown-must-be-comprehensive.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/11/11/tomorrows-schools-review-backdown-must-be-comprehensive/index.html
+layout: layout.njk
 ---
 Tomorrow's Schools Review backdown must be comprehensive
 ========================================================

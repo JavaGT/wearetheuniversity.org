@@ -1,9 +1,12 @@
 ---
 slug: latest-fraud-a-wake-up-call-for-students
-title: "Latest Fraud a Wake-up Call for Students"
-date: 2009-06-29
-source-url: https://www.scoop.co.nz/stories/PO0906/S00323/latest-fraud-a-wake-up-call-for-students.htm
+title: Latest Fraud a Wake-up Call for Students
+date: 2009-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00323/latest-fraud-a-wake-up-call-for-students.htm
 author: new-zealand-young-nationals
+permalink: /archive/2009/06/29/latest-fraud-a-wake-up-call-for-students/index.html
+layout: layout.njk
 ---
 Latest Fraud a Wake-up Call for Students
 ========================================

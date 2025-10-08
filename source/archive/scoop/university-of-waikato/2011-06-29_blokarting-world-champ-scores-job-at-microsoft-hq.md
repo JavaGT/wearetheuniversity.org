@@ -1,9 +1,13 @@
 ---
 slug: blokarting-world-champ-scores-job-at-microsoft-hq
-title: "Blokarting world champ scores job at Microsoft HQ"
-date: 2011-06-29
-source-url: https://www.scoop.co.nz/stories/ED1106/S00120/blokarting-world-champ-scores-job-at-microsoft-hq.htm
+title: Blokarting world champ scores job at Microsoft HQ
+date: 2011-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00120/blokarting-world-champ-scores-job-at-microsoft-hq.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/06/29/blokarting-world-champ-scores-job-at-microsoft-hq/index.html
+layout: layout.njk
 ---
 Blokarting world champ scores job at Microsoft HQ
 =================================================

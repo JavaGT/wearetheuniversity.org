@@ -1,9 +1,11 @@
 ---
 slug: new-prisons-not-sustainable
-title: "New prisons not sustainable"
-date: 2007-05-10
+title: New prisons not sustainable
+date: 2007-05-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00266/new-prisons-not-sustainable.htm
 author: green-party
+permalink: /archive/2007/05/10/new-prisons-not-sustainable/index.html
+layout: layout.njk
 ---
 New prisons not sustainable
 ===========================

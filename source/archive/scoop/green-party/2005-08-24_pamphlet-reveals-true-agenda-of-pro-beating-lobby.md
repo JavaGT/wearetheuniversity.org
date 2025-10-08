@@ -1,9 +1,13 @@
 ---
 slug: pamphlet-reveals-true-agenda-of-pro-beating-lobby
-title: "Pamphlet reveals true agenda of pro-beating lobby"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PA0508/S00622/pamphlet-reveals-true-agenda-of-pro-beating-lobby.htm
+title: Pamphlet reveals true agenda of pro-beating lobby
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00622/pamphlet-reveals-true-agenda-of-pro-beating-lobby.htm
 author: green-party
+permalink: >-
+  /archive/2005/08/24/pamphlet-reveals-true-agenda-of-pro-beating-lobby/index.html
+layout: layout.njk
 ---
 Pamphlet reveals true agenda of pro-beating lobby
 =================================================

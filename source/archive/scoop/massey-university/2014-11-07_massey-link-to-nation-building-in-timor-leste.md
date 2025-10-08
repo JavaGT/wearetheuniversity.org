@@ -1,9 +1,12 @@
 ---
 slug: massey-link-to-nation-building-in-timor-leste
-title: "Massey link to nation building in Timor-Leste"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/ED1411/S00046/massey-link-to-nation-building-in-timor-leste.htm
+title: Massey link to nation building in Timor-Leste
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00046/massey-link-to-nation-building-in-timor-leste.htm
 author: massey-university
+permalink: /archive/2014/11/07/massey-link-to-nation-building-in-timor-leste/index.html
+layout: layout.njk
 ---
 Massey link to nation building in Timor-Leste
 =============================================

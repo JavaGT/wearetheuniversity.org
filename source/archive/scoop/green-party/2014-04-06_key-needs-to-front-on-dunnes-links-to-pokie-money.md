@@ -1,9 +1,13 @@
 ---
 slug: key-needs-to-front-on-dunnes-links-to-pokie-money
-title: "Key needs to front on Dunne’s links to pokie money"
-date: 2014-04-06
-source-url: https://www.scoop.co.nz/stories/PA1404/S00101/key-needs-to-front-on-dunnes-links-to-pokie-money.htm
+title: Key needs to front on Dunne’s links to pokie money
+date: 2014-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00101/key-needs-to-front-on-dunnes-links-to-pokie-money.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/06/key-needs-to-front-on-dunnes-links-to-pokie-money/index.html
+layout: layout.njk
 ---
 Key needs to front on Dunne’s links to pokie money
 ==================================================

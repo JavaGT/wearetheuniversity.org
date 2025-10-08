@@ -1,9 +1,13 @@
 ---
 slug: government-record-on-pay-equity-deserves-a-bagging
-title: "Government Record on Pay Equity Deserves a Bagging"
-date: 2011-02-17
-source-url: https://www.scoop.co.nz/stories/PO1102/S00141/government-record-on-pay-equity-deserves-a-bagging.htm
+title: Government Record on Pay Equity Deserves a Bagging
+date: 2011-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00141/government-record-on-pay-equity-deserves-a-bagging.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/17/government-record-on-pay-equity-deserves-a-bagging/index.html
+layout: layout.njk
 ---
 Government Record on Pay Equity Deserves a Bagging
 ==================================================

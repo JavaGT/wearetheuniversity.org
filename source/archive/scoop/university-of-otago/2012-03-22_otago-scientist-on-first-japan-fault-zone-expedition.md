@@ -1,9 +1,13 @@
 ---
 slug: otago-scientist-on-first-japan-fault-zone-expedition
-title: "Otago scientist on first Japan fault-zone expedition"
-date: 2012-03-22
-source-url: https://www.scoop.co.nz/stories/SC1203/S00044/otago-scientist-on-first-japan-fault-zone-expedition.htm
+title: Otago scientist on first Japan fault-zone expedition
+date: 2012-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1203/S00044/otago-scientist-on-first-japan-fault-zone-expedition.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/03/22/otago-scientist-on-first-japan-fault-zone-expedition/index.html
+layout: layout.njk
 ---
 Otago scientist on first Japan fault-zone expedition
 ====================================================

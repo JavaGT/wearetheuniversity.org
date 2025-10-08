@@ -1,8 +1,14 @@
 ---
 slug: messing-with-the-genetic-recipe-fresh-clues-to-why-were-short-average-or-tall
-title: "Messing with the genetic recipe: fresh clues to why we’re short, average or tall"
-date: 2016-06-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/genetics-study-snps-role-height-disease.html
+title: >-
+  Messing with the genetic recipe: fresh clues to why we’re short, average or
+  tall
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/genetics-study-snps-role-height-disease.html
+permalink: >-
+  /archive/2016/06/14/messing-with-the-genetic-recipe-fresh-clues-to-why-were-short-average-or-tall/index.html
+layout: layout.njk
 ---
 Messing with the genetic recipe: fresh clues to why we’re short, average or tall
 ================================================================================

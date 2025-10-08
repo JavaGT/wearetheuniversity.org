@@ -1,9 +1,12 @@
 ---
 slug: acc-tinkering-at-edges-wont-resolve-problems
-title: "ACC Tinkering At Edges Won’t Resolve Problems"
-date: 2000-02-22
-source-url: https://www.scoop.co.nz/stories/PA0002/S00284/acc-tinkering-at-edges-wont-resolve-problems.htm
+title: ACC Tinkering At Edges Won’t Resolve Problems
+date: 2000-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00284/acc-tinkering-at-edges-wont-resolve-problems.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/22/acc-tinkering-at-edges-wont-resolve-problems/index.html
+layout: layout.njk
 ---
 ACC Tinkering At Edges Won’t Resolve Problems
 =============================================

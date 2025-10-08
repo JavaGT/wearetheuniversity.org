@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-families-worse-off
-title: "Thousands of Families Worse Off"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/PA1607/S00342/thousands-of-families-worse-off.htm
+title: Thousands of Families Worse Off
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00342/thousands-of-families-worse-off.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/25/thousands-of-families-worse-off/index.html
+layout: layout.njk
 ---
 Thousands of Families Worse Off
 ===============================

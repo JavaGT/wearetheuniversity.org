@@ -1,9 +1,12 @@
 ---
 slug: women-only-scholarships-still-justified
-title: "Women-only scholarships still justified"
-date: 2008-07-21
-source-url: https://www.scoop.co.nz/stories/ED0807/S00070/women-only-scholarships-still-justified.htm
+title: Women-only scholarships still justified
+date: 2008-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00070/women-only-scholarships-still-justified.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/07/21/women-only-scholarships-still-justified/index.html
+layout: layout.njk
 ---
 Women-only scholarships still justified
 =======================================

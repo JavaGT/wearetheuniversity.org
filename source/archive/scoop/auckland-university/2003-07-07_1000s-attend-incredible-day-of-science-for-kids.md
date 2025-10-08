@@ -1,9 +1,12 @@
 ---
 slug: 1000s-attend-incredible-day-of-science-for-kids
-title: "1000s attend Incredible Day of Science for kids"
-date: 2003-07-07
-source-url: https://www.scoop.co.nz/stories/ED0307/S00019/1000s-attend-incredible-day-of-science-for-kids.htm
+title: 1000s attend Incredible Day of Science for kids
+date: 2003-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00019/1000s-attend-incredible-day-of-science-for-kids.htm
 author: auckland-university
+permalink: /archive/2003/07/07/1000s-attend-incredible-day-of-science-for-kids/index.html
+layout: layout.njk
 ---
 1000s attend Incredible Day of Science for kids
 ===============================================

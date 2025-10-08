@@ -1,9 +1,13 @@
 ---
 slug: sign-up-to-help-labour-guarantee-a-voice-for-students
-title: "Sign Up To Help Labour Guarantee A Voice For Students"
-date: 2014-02-19
-source-url: https://www.scoop.co.nz/stories/PO1402/S00226/sign-up-to-help-labour-guarantee-a-voice-for-students.htm
+title: Sign Up To Help Labour Guarantee A Voice For Students
+date: 2014-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00226/sign-up-to-help-labour-guarantee-a-voice-for-students.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/02/19/sign-up-to-help-labour-guarantee-a-voice-for-students/index.html
+layout: layout.njk
 ---
 Sign Up To Help Labour Guarantee A Voice For Students
 =====================================================

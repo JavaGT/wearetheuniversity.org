@@ -1,9 +1,12 @@
 ---
 slug: govt-must-reverse-green-school-handout
-title: "Govt Must Reverse Green School Handout"
-date: 2020-08-29
-source-url: https://www.scoop.co.nz/stories/PA2008/S00224/govt-must-reverse-green-school-handout.htm
+title: Govt Must Reverse Green School Handout
+date: 2020-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00224/govt-must-reverse-green-school-handout.htm
 author: act-new-zealand
+permalink: /archive/2020/08/29/govt-must-reverse-green-school-handout/index.html
+layout: layout.njk
 ---
 Govt Must Reverse Green School Handout
 ======================================

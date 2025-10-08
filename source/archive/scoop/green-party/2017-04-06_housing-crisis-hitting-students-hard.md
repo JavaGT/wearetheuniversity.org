@@ -1,9 +1,12 @@
 ---
 slug: housing-crisis-hitting-students-hard
-title: "Housing crisis hitting students hard"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/PA1704/S00065/housing-crisis-hitting-students-hard.htm
+title: Housing crisis hitting students hard
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00065/housing-crisis-hitting-students-hard.htm
 author: green-party
+permalink: /archive/2017/04/06/housing-crisis-hitting-students-hard/index.html
+layout: layout.njk
 ---
 Housing crisis hitting students hard
 ====================================

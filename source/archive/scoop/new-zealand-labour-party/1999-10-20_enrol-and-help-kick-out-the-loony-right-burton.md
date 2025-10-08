@@ -1,9 +1,12 @@
 ---
 slug: enrol-and-help-kick-out-the-loony-right-burton
-title: "Enrol and help kick out the loony right - Burton"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00443/enrol-and-help-kick-out-the-loony-right-burton.htm
+title: Enrol and help kick out the loony right - Burton
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00443/enrol-and-help-kick-out-the-loony-right-burton.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/20/enrol-and-help-kick-out-the-loony-right-burton/index.html
+layout: layout.njk
 ---
 Enrol and help kick out the loony right - Burton
 ================================================

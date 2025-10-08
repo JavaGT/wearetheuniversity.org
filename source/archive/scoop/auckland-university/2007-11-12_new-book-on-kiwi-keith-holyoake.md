@@ -1,9 +1,12 @@
 ---
 slug: new-book-on-kiwi-keith-holyoake
-title: "New Book on \"Kiwi\" Keith Holyoake"
-date: 2007-11-12
-source-url: https://www.scoop.co.nz/stories/PO0711/S00205/new-book-on-kiwi-keith-holyoake.htm
+title: New Book on "Kiwi" Keith Holyoake
+date: 2007-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00205/new-book-on-kiwi-keith-holyoake.htm
 author: auckland-university
+permalink: /archive/2007/11/12/new-book-on-kiwi-keith-holyoake/index.html
+layout: layout.njk
 ---
 New Book on “Kiwi” Keith Holyoake
 =================================

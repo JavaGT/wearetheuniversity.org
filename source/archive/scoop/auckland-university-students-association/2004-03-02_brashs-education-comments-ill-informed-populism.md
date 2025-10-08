@@ -1,9 +1,12 @@
 ---
 slug: brashs-education-comments-ill-informed-populism
-title: "Brash's education comments \"ill informed populism\""
-date: 2004-03-02
-source-url: https://www.scoop.co.nz/stories/ED0403/S00014/brashs-education-comments-ill-informed-populism.htm
+title: Brash's education comments "ill informed populism"
+date: 2004-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00014/brashs-education-comments-ill-informed-populism.htm
 author: auckland-university-students-association
+permalink: /archive/2004/03/02/brashs-education-comments-ill-informed-populism/index.html
+layout: layout.njk
 ---
 Brash's education comments \"ill informed populism"
 ==================================================

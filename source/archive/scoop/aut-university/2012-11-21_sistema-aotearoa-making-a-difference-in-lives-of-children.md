@@ -1,9 +1,13 @@
 ---
 slug: sistema-aotearoa-making-a-difference-in-lives-of-children
-title: "Sistema Aotearoa Making a Difference in Lives of Children"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/ED1211/S00151/sistema-aotearoa-making-a-difference-in-lives-of-children.htm
+title: Sistema Aotearoa Making a Difference in Lives of Children
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00151/sistema-aotearoa-making-a-difference-in-lives-of-children.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/21/sistema-aotearoa-making-a-difference-in-lives-of-children/index.html
+layout: layout.njk
 ---
 Sistema Aotearoa Making a Difference in Lives of Children
 =========================================================

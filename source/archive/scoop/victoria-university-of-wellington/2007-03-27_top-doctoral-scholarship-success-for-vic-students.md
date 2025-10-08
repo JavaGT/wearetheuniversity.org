@@ -1,9 +1,13 @@
 ---
 slug: top-doctoral-scholarship-success-for-vic-students
-title: "Top Doctoral Scholarship success for Vic students"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/ED0703/S00096/top-doctoral-scholarship-success-for-vic-students.htm
+title: Top Doctoral Scholarship success for Vic students
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00096/top-doctoral-scholarship-success-for-vic-students.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/03/27/top-doctoral-scholarship-success-for-vic-students/index.html
+layout: layout.njk
 ---
 Top Doctoral Scholarship success for Vic students
 =================================================

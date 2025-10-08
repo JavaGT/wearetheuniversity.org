@@ -1,9 +1,13 @@
 ---
 slug: uc-research-investigates-drug-taking-pregnant-mothers
-title: "UC Research Investigates Drug-taking Pregnant Mothers"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/SC1305/S00016/uc-research-investigates-drug-taking-pregnant-mothers.htm
+title: UC Research Investigates Drug-taking Pregnant Mothers
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00016/uc-research-investigates-drug-taking-pregnant-mothers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/03/uc-research-investigates-drug-taking-pregnant-mothers/index.html
+layout: layout.njk
 ---
 UC Research Investigates Drug-taking Pregnant Mothers
 =====================================================

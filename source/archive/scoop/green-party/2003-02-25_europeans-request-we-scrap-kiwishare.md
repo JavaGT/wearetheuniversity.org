@@ -1,9 +1,12 @@
 ---
 slug: europeans-request-we-scrap-kiwishare
-title: "Europeans 'request' we scrap kiwishare"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/PA0302/S00465/europeans-request-we-scrap-kiwishare.htm
+title: Europeans 'request' we scrap kiwishare
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00465/europeans-request-we-scrap-kiwishare.htm
 author: green-party
+permalink: /archive/2003/02/25/europeans-request-we-scrap-kiwishare/index.html
+layout: layout.njk
 ---
 Europeans 'request' we scrap kiwishare
 ======================================

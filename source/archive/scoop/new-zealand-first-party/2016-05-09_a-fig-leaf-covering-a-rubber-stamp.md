@@ -1,9 +1,12 @@
 ---
 slug: a-fig-leaf-covering-a-rubber-stamp
-title: "\"A fig leaf covering a rubber stamp\""
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/PA1605/S00133/a-fig-leaf-covering-a-rubber-stamp.htm
+title: '"A fig leaf covering a rubber stamp"'
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00133/a-fig-leaf-covering-a-rubber-stamp.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/09/a-fig-leaf-covering-a-rubber-stamp/index.html
+layout: layout.njk
 ---
 “A fig leaf covering a rubber stamp”
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-researchers-join-south-pole-project
-title: "Canterbury researchers join South Pole project"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00070/canterbury-researchers-join-south-pole-project.htm
+title: Canterbury researchers join South Pole project
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00070/canterbury-researchers-join-south-pole-project.htm
 author: university-of-canterbury
+permalink: /archive/2003/05/21/canterbury-researchers-join-south-pole-project/index.html
+layout: layout.njk
 ---
 Canterbury researchers join South Pole project
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: kiwi-scientist-helps-find-what-makes-cells-different
-title: "Kiwi scientist helps find what makes cells different"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/SC1403/S00064/kiwi-scientist-helps-find-what-makes-cells-different.htm
+title: Kiwi scientist helps find what makes cells different
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00064/kiwi-scientist-helps-find-what-makes-cells-different.htm
 author: massey-university
+permalink: >-
+  /archive/2014/03/27/kiwi-scientist-helps-find-what-makes-cells-different/index.html
+layout: layout.njk
 ---
 Kiwi scientist helps find what makes cells different
 ====================================================

@@ -1,9 +1,16 @@
 ---
-slug: 2020-callaghan-medal-a-conduit-between-traditional-māori-knowledge-and-modern-science
-title: "2020 Callaghan Medal: \"A Conduit Between Traditional Māori Knowledge And Modern Science\""
-date: 2020-11-18
-source-url: https://www.scoop.co.nz/stories/SC2011/S00033/2020-callaghan-medal-a-conduit-between-traditional-maori-knowledge-and-modern-science.htm
+slug: >-
+  2020-callaghan-medal-a-conduit-between-traditional-māori-knowledge-and-modern-science
+title: >-
+  2020 Callaghan Medal: "A Conduit Between Traditional Māori Knowledge And
+  Modern Science"
+date: 2020-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00033/2020-callaghan-medal-a-conduit-between-traditional-maori-knowledge-and-modern-science.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/11/18/2020-callaghan-medal-a-conduit-between-traditional-m/index.html
+layout: layout.njk
 ---
 2020 Callaghan Medal: “A Conduit Between Traditional Māori Knowledge And Modern Science”
 ========================================================================================

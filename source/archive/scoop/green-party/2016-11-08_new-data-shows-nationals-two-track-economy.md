@@ -1,9 +1,12 @@
 ---
 slug: new-data-shows-nationals-two-track-economy
-title: "New data shows National’s two-track economy"
-date: 2016-11-08
-source-url: https://www.scoop.co.nz/stories/PA1611/S00142/new-data-shows-nationals-two-track-economy.htm
+title: New data shows National’s two-track economy
+date: 2016-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00142/new-data-shows-nationals-two-track-economy.htm
 author: green-party
+permalink: /archive/2016/11/08/new-data-shows-nationals-two-track-economy/index.html
+layout: layout.njk
 ---
 New data shows National’s two-track economy
 ===========================================

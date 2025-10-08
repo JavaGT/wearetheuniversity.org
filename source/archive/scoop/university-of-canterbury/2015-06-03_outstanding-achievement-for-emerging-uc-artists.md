@@ -1,9 +1,12 @@
 ---
 slug: outstanding-achievement-for-emerging-uc-artists
-title: "Outstanding achievement for emerging UC artists"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/ED1506/S00012/outstanding-achievement-for-emerging-uc-artists.htm
+title: Outstanding achievement for emerging UC artists
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00012/outstanding-achievement-for-emerging-uc-artists.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/03/outstanding-achievement-for-emerging-uc-artists/index.html
+layout: layout.njk
 ---
 Outstanding achievement for emerging UC artists
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-stifled-by-overdue-loans
-title: "Students stifled by overdue loans"
-date: 2003-05-06
-source-url: https://www.scoop.co.nz/stories/PA0305/S00108/students-stifled-by-overdue-loans.htm
+title: Students stifled by overdue loans
+date: 2003-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00108/students-stifled-by-overdue-loans.htm
 author: green-party
+permalink: /archive/2003/05/06/students-stifled-by-overdue-loans/index.html
+layout: layout.njk
 ---
 Students stifled by overdue loans
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-reopens-remediated-and-renamed-registry-building
-title: "UC reopens remediated and renamed Registry building"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/ED1408/S00066/uc-reopens-remediated-and-renamed-registry-building.htm
+title: UC reopens remediated and renamed Registry building
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00066/uc-reopens-remediated-and-renamed-registry-building.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/08/13/uc-reopens-remediated-and-renamed-registry-building/index.html
+layout: layout.njk
 ---
 UC reopens remediated and renamed Registry building
 ===================================================

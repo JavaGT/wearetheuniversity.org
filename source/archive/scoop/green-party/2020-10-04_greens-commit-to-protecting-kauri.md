@@ -1,9 +1,12 @@
 ---
 slug: greens-commit-to-protecting-kauri
-title: "Greens Commit To Protecting Kauri"
-date: 2020-10-04
-source-url: https://www.scoop.co.nz/stories/PO2010/S00041/greens-commit-to-protecting-kauri.htm
+title: Greens Commit To Protecting Kauri
+date: 2020-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00041/greens-commit-to-protecting-kauri.htm
 author: green-party
+permalink: /archive/2020/10/04/greens-commit-to-protecting-kauri/index.html
+layout: layout.njk
 ---
 Greens Commit To Protecting Kauri
 =================================

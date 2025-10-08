@@ -1,9 +1,12 @@
 ---
 slug: panel-discusses-150-years-of-university-life
-title: "Panel Discusses 150 Years Of University Life"
-date: 2023-08-14
-source-url: https://www.scoop.co.nz/stories/ED2308/S00024/panel-discusses-150-years-of-university-life.htm
+title: Panel Discusses 150 Years Of University Life
+date: 2023-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00024/panel-discusses-150-years-of-university-life.htm
 author: university-of-canterbury
+permalink: /archive/2023/08/14/panel-discusses-150-years-of-university-life/index.html
+layout: layout.njk
 ---
 Panel Discusses 150 Years Of University Life
 ============================================

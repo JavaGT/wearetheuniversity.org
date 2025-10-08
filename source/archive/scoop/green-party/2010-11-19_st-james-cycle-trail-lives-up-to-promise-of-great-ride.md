@@ -1,9 +1,13 @@
 ---
 slug: st-james-cycle-trail-lives-up-to-promise-of-great-ride
-title: "St James cycle trail lives up to promise of great ride"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/PA1011/S00415/st-james-cycle-trail-lives-up-to-promise-of-great-ride.htm
+title: St James cycle trail lives up to promise of great ride
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00415/st-james-cycle-trail-lives-up-to-promise-of-great-ride.htm
 author: green-party
+permalink: >-
+  /archive/2010/11/19/st-james-cycle-trail-lives-up-to-promise-of-great-ride/index.html
+layout: layout.njk
 ---
 St James cycle trail lives up to promise of great ride
 ======================================================

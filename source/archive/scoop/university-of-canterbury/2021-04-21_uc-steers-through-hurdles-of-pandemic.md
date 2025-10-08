@@ -1,9 +1,12 @@
 ---
 slug: uc-steers-through-hurdles-of-pandemic
-title: "UC Steers Through Hurdles Of Pandemic"
-date: 2021-04-21
-source-url: https://www.scoop.co.nz/stories/ED2104/S00021/uc-steers-through-hurdles-of-pandemic.htm
+title: UC Steers Through Hurdles Of Pandemic
+date: 2021-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00021/uc-steers-through-hurdles-of-pandemic.htm
 author: university-of-canterbury
+permalink: /archive/2021/04/21/uc-steers-through-hurdles-of-pandemic/index.html
+layout: layout.njk
 ---
 UC Steers Through Hurdles Of Pandemic
 =====================================

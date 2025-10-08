@@ -1,9 +1,12 @@
 ---
 slug: open-polytechnic-moves-0-5%-still-doesnt-impress
-title: "Open Polytechnic moves 0.5%: still doesn’t impress"
-date: 2005-12-01
-source-url: https://www.scoop.co.nz/stories/ED0512/S00005/open-polytechnic-moves-05-still-doesnt-impress.htm
+title: 'Open Polytechnic moves 0.5%: still doesn’t impress'
+date: 2005-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00005/open-polytechnic-moves-05-still-doesnt-impress.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/12/01/open-polytechnic-moves-0-5/index.html
+layout: layout.njk
 ---
 Open Polytechnic moves 0.5%: still doesn’t impress
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-say-no-to-youth-rates!
-title: "Students say NO to Youth Rates!"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/PO1107/S00125/students-say-no-to-youth-rates.htm
+title: Students say NO to Youth Rates!
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00125/students-say-no-to-youth-rates.htm
 author: young-labour
+permalink: /archive/2011/07/13/students-say-no-to-youth-rates/index.html
+layout: layout.njk
 ---
 Students say NO to Youth Rates!
 ===============================

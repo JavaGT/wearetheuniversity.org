@@ -1,9 +1,12 @@
 ---
 slug: govt-must-invest-in-tertiary-at-budget
-title: "Govt. must invest in tertiary at Budget."
-date: 2000-05-08
-source-url: https://www.scoop.co.nz/stories/ED0005/S00011/govt-must-invest-in-tertiary-at-budget.htm
+title: Govt. must invest in tertiary at Budget.
+date: 2000-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00011/govt-must-invest-in-tertiary-at-budget.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/05/08/govt-must-invest-in-tertiary-at-budget/index.html
+layout: layout.njk
 ---
 Govt. must invest in tertiary at Budget.
 ========================================

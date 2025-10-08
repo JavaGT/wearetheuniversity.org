@@ -1,9 +1,13 @@
 ---
 slug: business-and-public-service-recognised-at-graduation
-title: "Business and public service recognised at graduation"
-date: 2018-04-06
-source-url: https://www.scoop.co.nz/stories/BU1804/S00129/business-and-public-service-recognised-at-graduation.htm
+title: Business and public service recognised at graduation
+date: 2018-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1804/S00129/business-and-public-service-recognised-at-graduation.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/04/06/business-and-public-service-recognised-at-graduation/index.html
+layout: layout.njk
 ---
 Business and public service recognised at graduation
 ====================================================

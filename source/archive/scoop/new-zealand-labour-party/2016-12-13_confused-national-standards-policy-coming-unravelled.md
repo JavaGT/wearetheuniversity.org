@@ -1,9 +1,13 @@
 ---
 slug: confused-national-standards-policy-coming-unravelled
-title: "Confused national standards policy coming unravelled"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/PA1612/S00222/confused-national-standards-policy-coming-unravelled.htm
+title: Confused national standards policy coming unravelled
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00222/confused-national-standards-policy-coming-unravelled.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/12/13/confused-national-standards-policy-coming-unravelled/index.html
+layout: layout.njk
 ---
 Confused national standards policy coming unravelled
 ====================================================

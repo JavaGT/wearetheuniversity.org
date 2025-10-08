@@ -1,9 +1,13 @@
 ---
 slug: last-line-of-defence-fails-to-inspire-confidence
-title: "Last line of defence fails to inspire confidence"
-date: 2013-07-04
-source-url: https://www.scoop.co.nz/stories/PA1307/S00085/last-line-of-defence-fails-to-inspire-confidence.htm
+title: Last line of defence fails to inspire confidence
+date: 2013-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00085/last-line-of-defence-fails-to-inspire-confidence.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/04/last-line-of-defence-fails-to-inspire-confidence/index.html
+layout: layout.njk
 ---
 Last line of defence fails to inspire confidence
 ================================================

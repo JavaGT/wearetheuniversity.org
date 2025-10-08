@@ -1,9 +1,12 @@
 ---
 slug: inaugural-international-asian-health-conference
-title: "Inaugural International Asian Health Conference"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/GE0410/S00012/inaugural-international-asian-health-conference.htm
+title: Inaugural International Asian Health Conference
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0410/S00012/inaugural-international-asian-health-conference.htm
 author: auckland-university
+permalink: /archive/2004/10/04/inaugural-international-asian-health-conference/index.html
+layout: layout.njk
 ---
 Inaugural International Asian Health Conference
 ===============================================

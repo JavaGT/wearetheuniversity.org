@@ -1,9 +1,12 @@
 ---
 slug: labour-ignored-early-warnings-about-scholarship
-title: "Labour ignored early warnings about scholarship"
-date: 2005-03-07
-source-url: https://www.scoop.co.nz/stories/PA0503/S00127/labour-ignored-early-warnings-about-scholarship.htm
+title: Labour ignored early warnings about scholarship
+date: 2005-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00127/labour-ignored-early-warnings-about-scholarship.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/07/labour-ignored-early-warnings-about-scholarship/index.html
+layout: layout.njk
 ---
 Labour ignored early warnings about scholarship
 ===============================================

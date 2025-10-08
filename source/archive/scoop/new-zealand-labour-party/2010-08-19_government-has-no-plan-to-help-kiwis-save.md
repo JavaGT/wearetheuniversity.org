@@ -1,9 +1,12 @@
 ---
 slug: government-has-no-plan-to-help-kiwis-save
-title: "Government has no plan to help Kiwis save"
-date: 2010-08-19
-source-url: https://www.scoop.co.nz/stories/PA1008/S00288/government-has-no-plan-to-help-kiwis-save.htm
+title: Government has no plan to help Kiwis save
+date: 2010-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00288/government-has-no-plan-to-help-kiwis-save.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/19/government-has-no-plan-to-help-kiwis-save/index.html
+layout: layout.njk
 ---
 Government has no plan to help Kiwis save
 =========================================

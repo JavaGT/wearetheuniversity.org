@@ -1,9 +1,12 @@
 ---
 slug: probing-the-past-to-explain-explosive-eruptions
-title: "Probing the past to explain explosive eruptions"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/SC1508/S00031/probing-the-past-to-explain-explosive-eruptions.htm
+title: Probing the past to explain explosive eruptions
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00031/probing-the-past-to-explain-explosive-eruptions.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/08/19/probing-the-past-to-explain-explosive-eruptions/index.html
+layout: layout.njk
 ---
 Probing the past to explain explosive eruptions
 ===============================================

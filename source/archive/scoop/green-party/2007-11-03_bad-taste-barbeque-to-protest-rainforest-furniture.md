@@ -1,9 +1,13 @@
 ---
 slug: bad-taste-barbeque-to-protest-rainforest-furniture
-title: "Bad-taste barbeque to protest rainforest furniture"
-date: 2007-11-03
-source-url: https://www.scoop.co.nz/stories/PA0711/S00039/bad-taste-barbeque-to-protest-rainforest-furniture.htm
+title: Bad-taste barbeque to protest rainforest furniture
+date: 2007-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00039/bad-taste-barbeque-to-protest-rainforest-furniture.htm
 author: green-party
+permalink: >-
+  /archive/2007/11/03/bad-taste-barbeque-to-protest-rainforest-furniture/index.html
+layout: layout.njk
 ---
 Bad-taste barbeque to protest rainforest furniture
 ==================================================

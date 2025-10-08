@@ -1,9 +1,13 @@
 ---
 slug: national-will-replace-the-resource-management-act
-title: "National will replace the Resource Management Act"
-date: 2019-12-16
-source-url: https://www.scoop.co.nz/stories/PA1912/S00151/national-will-replace-the-resource-management-act.htm
+title: National will replace the Resource Management Act
+date: 2019-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00151/national-will-replace-the-resource-management-act.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/12/16/national-will-replace-the-resource-management-act/index.html
+layout: layout.njk
 ---
 National will replace the Resource Management Act
 =================================================

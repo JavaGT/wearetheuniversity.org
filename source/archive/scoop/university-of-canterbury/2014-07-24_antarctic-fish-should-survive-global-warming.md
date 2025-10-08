@@ -1,9 +1,12 @@
 ---
 slug: antarctic-fish-should-survive-global-warming
-title: "Antarctic fish should survive global warming"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/SC1407/S00057/antarctic-fish-should-survive-global-warming.htm
+title: Antarctic fish should survive global warming
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00057/antarctic-fish-should-survive-global-warming.htm
 author: university-of-canterbury
+permalink: /archive/2014/07/24/antarctic-fish-should-survive-global-warming/index.html
+layout: layout.njk
 ---
 Antarctic fish should survive global warming
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: hearing-the-way-home-how-fish-find-reefs
-title: "Hearing the way home – how fish find reefs"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/ED0504/S00021/hearing-the-way-home-how-fish-find-reefs.htm
+title: Hearing the way home – how fish find reefs
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00021/hearing-the-way-home-how-fish-find-reefs.htm
 author: auckland-university
+permalink: /archive/2005/04/08/hearing-the-way-home-how-fish-find-reefs/index.html
+layout: layout.njk
 ---
 Hearing the way home – how fish find reefs
 ==========================================

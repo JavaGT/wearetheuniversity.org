@@ -1,9 +1,13 @@
 ---
 slug: labour-needs-to-get-real-charters-are-here-to-stay
-title: "Labour Needs To Get Real, Charters Are Here To Stay"
-date: 2024-08-11
-source-url: https://www.scoop.co.nz/stories/PA2408/S00069/labour-needs-to-get-real-charters-are-here-to-stay.htm
+title: Labour Needs To Get Real, Charters Are Here To Stay
+date: 2024-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00069/labour-needs-to-get-real-charters-are-here-to-stay.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/08/11/labour-needs-to-get-real-charters-are-here-to-stay/index.html
+layout: layout.njk
 ---
 Labour Needs To Get Real, Charters Are Here To Stay
 ===================================================

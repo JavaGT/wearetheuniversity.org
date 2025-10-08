@@ -1,9 +1,13 @@
 ---
 slug: otago-and-southland-celebrate-neurosurgery-victory
-title: "Otago and Southland celebrate neurosurgery victory"
-date: 2010-11-10
-source-url: https://www.scoop.co.nz/stories/PA1011/S00188/otago-and-southland-celebrate-neurosurgery-victory.htm
+title: Otago and Southland celebrate neurosurgery victory
+date: 2010-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00188/otago-and-southland-celebrate-neurosurgery-victory.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/10/otago-and-southland-celebrate-neurosurgery-victory/index.html
+layout: layout.njk
 ---
 Otago and Southland celebrate neurosurgery victory
 ==================================================

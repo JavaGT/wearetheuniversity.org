@@ -1,9 +1,12 @@
 ---
 slug: native-parrots-under-threat-from-viral-disease
-title: "Native parrots under threat from viral disease"
-date: 2012-06-14
-source-url: https://www.scoop.co.nz/stories/SC1206/S00032/native-parrots-under-threat-from-viral-disease.htm
+title: Native parrots under threat from viral disease
+date: 2012-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00032/native-parrots-under-threat-from-viral-disease.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/14/native-parrots-under-threat-from-viral-disease/index.html
+layout: layout.njk
 ---
 Native parrots under threat from viral disease
 ==============================================

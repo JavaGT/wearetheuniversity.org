@@ -1,9 +1,13 @@
 ---
 slug: labour-proposes-change-to-student-loan-repayment-law
-title: "Labour proposes change to student loan repayment law"
-date: 2012-03-28
-source-url: https://www.scoop.co.nz/stories/PA1203/S00358/labour-proposes-change-to-student-loan-repayment-law.htm
+title: Labour proposes change to student loan repayment law
+date: 2012-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00358/labour-proposes-change-to-student-loan-repayment-law.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/03/28/labour-proposes-change-to-student-loan-repayment-law/index.html
+layout: layout.njk
 ---
 Labour proposes change to student loan repayment law
 ====================================================

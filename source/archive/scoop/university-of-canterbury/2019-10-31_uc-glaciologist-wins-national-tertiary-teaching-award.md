@@ -1,9 +1,13 @@
 ---
 slug: uc-glaciologist-wins-national-tertiary-teaching-award
-title: "UC glaciologist wins national tertiary teaching award"
-date: 2019-10-31
-source-url: https://www.scoop.co.nz/stories/SC1910/S00064/uc-glaciologist-wins-national-tertiary-teaching-award.htm
+title: UC glaciologist wins national tertiary teaching award
+date: 2019-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1910/S00064/uc-glaciologist-wins-national-tertiary-teaching-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/31/uc-glaciologist-wins-national-tertiary-teaching-award/index.html
+layout: layout.njk
 ---
 UC glaciologist wins national tertiary teaching award
 =====================================================

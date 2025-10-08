@@ -1,9 +1,13 @@
 ---
 slug: social-entrepreneurship-takes-centre-stage-in-chch
-title: "Social entrepreneurship takes centre stage in Chch"
-date: 2019-09-19
-source-url: https://www.scoop.co.nz/stories/ED1909/S00053/social-entrepreneurship-takes-centre-stage-in-chch.htm
+title: Social entrepreneurship takes centre stage in Chch
+date: 2019-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00053/social-entrepreneurship-takes-centre-stage-in-chch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/19/social-entrepreneurship-takes-centre-stage-in-chch/index.html
+layout: layout.njk
 ---
 Social entrepreneurship takes centre stage in Chch
 ==================================================

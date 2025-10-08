@@ -1,9 +1,12 @@
 ---
 slug: more-cuts-to-come-for-public-services
-title: "More cuts to come for public services"
-date: 2009-06-01
-source-url: https://www.scoop.co.nz/stories/PA0906/S00005/more-cuts-to-come-for-public-services.htm
+title: More cuts to come for public services
+date: 2009-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00005/more-cuts-to-come-for-public-services.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/01/more-cuts-to-come-for-public-services/index.html
+layout: layout.njk
 ---
 More cuts to come for public services
 =====================================

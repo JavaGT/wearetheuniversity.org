@@ -1,9 +1,12 @@
 ---
 slug: fiordland-earthquake-generated-small-tsunami
-title: "Fiordland Earthquake Generated Small Tsunami"
-date: 2003-08-22
-source-url: https://www.scoop.co.nz/stories/SC0308/S00079/fiordland-earthquake-generated-small-tsunami.htm
+title: Fiordland Earthquake Generated Small Tsunami
+date: 2003-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0308/S00079/fiordland-earthquake-generated-small-tsunami.htm
 author: waikato-university
+permalink: /archive/2003/08/22/fiordland-earthquake-generated-small-tsunami/index.html
+layout: layout.njk
 ---
 Fiordland Earthquake Generated Small Tsunami
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: first-nzer-elected-to-international-bioinformatics-society
-title: "First NZer elected to international bioinformatics society"
-date: 2018-02-15
-source-url: https://www.scoop.co.nz/stories/SC1802/S00034/first-nzer-elected-to-international-bioinformatics-society.htm
+title: First NZer elected to international bioinformatics society
+date: 2018-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00034/first-nzer-elected-to-international-bioinformatics-society.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/15/first-nzer-elected-to-international-bioinformatics-society/index.html
+layout: layout.njk
 ---
 First NZer elected to international bioinformatics society
 ==========================================================

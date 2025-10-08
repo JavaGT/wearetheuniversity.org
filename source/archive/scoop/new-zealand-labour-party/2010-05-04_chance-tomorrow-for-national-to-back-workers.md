@@ -1,9 +1,12 @@
 ---
 slug: chance-tomorrow-for-national-to-back-workers
-title: "Chance tomorrow for National to back workers"
-date: 2010-05-04
-source-url: https://www.scoop.co.nz/stories/PA1005/S00040/chance-tomorrow-for-national-to-back-workers.htm
+title: Chance tomorrow for National to back workers
+date: 2010-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00040/chance-tomorrow-for-national-to-back-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/04/chance-tomorrow-for-national-to-back-workers/index.html
+layout: layout.njk
 ---
 Chance tomorrow for National to back workers
 ============================================

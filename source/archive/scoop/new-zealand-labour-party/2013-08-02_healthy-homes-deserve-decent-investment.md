@@ -1,9 +1,12 @@
 ---
 slug: healthy-homes-deserve-decent-investment
-title: "Healthy homes deserve decent investment"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/PA1308/S00050/healthy-homes-deserve-decent-investment.htm
+title: Healthy homes deserve decent investment
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00050/healthy-homes-deserve-decent-investment.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/02/healthy-homes-deserve-decent-investment/index.html
+layout: layout.njk
 ---
 Healthy homes deserve decent investment
 =======================================

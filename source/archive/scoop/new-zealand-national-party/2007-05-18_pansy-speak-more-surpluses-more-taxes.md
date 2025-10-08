@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-more-surpluses-more-taxes
-title: "Pansy Speak: More surpluses - more taxes"
-date: 2007-05-18
-source-url: https://www.scoop.co.nz/stories/PA0705/S00513/pansy-speak-more-surpluses-more-taxes.htm
+title: 'Pansy Speak: More surpluses - more taxes'
+date: 2007-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00513/pansy-speak-more-surpluses-more-taxes.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/18/pansy-speak-more-surpluses-more-taxes/index.html
+layout: layout.njk
 ---
 Pansy Speak: More surpluses - more taxes
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: centre-links-with-malaysian-university
-title: "Centre links with Malaysian university"
-date: 2010-01-07
-source-url: https://www.scoop.co.nz/stories/ED1001/S00008/centre-links-with-malaysian-university.htm
+title: Centre links with Malaysian university
+date: 2010-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00008/centre-links-with-malaysian-university.htm
 author: massey-university
+permalink: /archive/2010/01/07/centre-links-with-malaysian-university/index.html
+layout: layout.njk
 ---
 Centre links with Malaysian university
 ======================================

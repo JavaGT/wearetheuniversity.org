@@ -1,9 +1,13 @@
 ---
 slug: pregnant-women-wanted-for-sleep-disturbance-survey
-title: "Pregnant women wanted for sleep disturbance survey"
-date: 2009-09-30
-source-url: https://www.scoop.co.nz/stories/SC0909/S00059/pregnant-women-wanted-for-sleep-disturbance-survey.htm
+title: Pregnant women wanted for sleep disturbance survey
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00059/pregnant-women-wanted-for-sleep-disturbance-survey.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/30/pregnant-women-wanted-for-sleep-disturbance-survey/index.html
+layout: layout.njk
 ---
 Pregnant women wanted for sleep disturbance survey
 ==================================================

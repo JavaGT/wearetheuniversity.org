@@ -1,9 +1,12 @@
 ---
 slug: māori-party-backing-parents-teachers-concerns-with-level-3-education-rules
-title: "Māori Party Backing Parents, Teachers Concerns With Level 3 Education Rules"
-date: 2020-08-17
-source-url: https://www.scoop.co.nz/stories/PO2008/S00220/maori-party-backing-parents-teachers-concerns-with-level-3-education-rules.htm
+title: Māori Party Backing Parents, Teachers Concerns With Level 3 Education Rules
+date: 2020-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00220/maori-party-backing-parents-teachers-concerns-with-level-3-education-rules.htm
 author: te-pati-maori
+permalink: /archive/2020/08/17/m/index.html
+layout: layout.njk
 ---
 Māori Party Backing Parents, Teachers Concerns With Level 3 Education Rules
 ===========================================================================

@@ -1,9 +1,11 @@
 ---
 slug: will-any-350-teachers-do
-title: "Will Any 350 Teachers Do?"
-date: 2001-08-01
+title: Will Any 350 Teachers Do?
+date: 2001-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0108/S00036/will-any-350-teachers-do.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/01/will-any-350-teachers-do/index.html
+layout: layout.njk
 ---
 Will Any 350 Teachers Do?
 =========================

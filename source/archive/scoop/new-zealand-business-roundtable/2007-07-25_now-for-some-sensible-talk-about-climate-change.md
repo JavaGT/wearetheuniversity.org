@@ -1,9 +1,12 @@
 ---
 slug: now-for-some-sensible-talk-about-climate-change
-title: "Now for some sensible talk about climate change"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PO0707/S00307/now-for-some-sensible-talk-about-climate-change.htm
+title: Now for some sensible talk about climate change
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00307/now-for-some-sensible-talk-about-climate-change.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/07/25/now-for-some-sensible-talk-about-climate-change/index.html
+layout: layout.njk
 ---
 Now for some sensible talk about climate change
 ===============================================

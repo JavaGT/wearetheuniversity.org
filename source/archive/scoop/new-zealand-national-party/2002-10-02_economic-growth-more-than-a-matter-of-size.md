@@ -1,9 +1,12 @@
 ---
 slug: economic-growth-more-than-a-matter-of-size
-title: "Economic growth more than a matter of size"
-date: 2002-10-02
-source-url: https://www.scoop.co.nz/stories/PA0210/S00028/economic-growth-more-than-a-matter-of-size.htm
+title: Economic growth more than a matter of size
+date: 2002-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00028/economic-growth-more-than-a-matter-of-size.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/02/economic-growth-more-than-a-matter-of-size/index.html
+layout: layout.njk
 ---
 Economic growth more than a matter of size
 ==========================================

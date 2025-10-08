@@ -1,9 +1,12 @@
 ---
 slug: safe-schools-a-priority-for-national
-title: "Safe schools a priority for National"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/PA1111/S00444/safe-schools-a-priority-for-national.htm
+title: Safe schools a priority for National
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00444/safe-schools-a-priority-for-national.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/22/safe-schools-a-priority-for-national/index.html
+layout: layout.njk
 ---
 Safe schools a priority for National
 ====================================

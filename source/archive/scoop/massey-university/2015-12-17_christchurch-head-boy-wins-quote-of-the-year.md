@@ -1,9 +1,12 @@
 ---
 slug: christchurch-head-boy-wins-quote-of-the-year
-title: "Christchurch head boy wins Quote of the Year"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/CU1512/S00269/christchurch-head-boy-wins-quote-of-the-year.htm
+title: Christchurch head boy wins Quote of the Year
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00269/christchurch-head-boy-wins-quote-of-the-year.htm
 author: massey-university
+permalink: /archive/2015/12/17/christchurch-head-boy-wins-quote-of-the-year/index.html
+layout: layout.njk
 ---
 Christchurch head boy wins Quote of the Year
 ============================================

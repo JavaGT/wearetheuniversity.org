@@ -1,9 +1,12 @@
 ---
 slug: deception-division-and-denial-the-ugly-truth
-title: "Deception, Division and Denial – The Ugly Truth"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/PA1505/S00558/deception-division-and-denial-the-ugly-truth.htm
+title: Deception, Division and Denial – The Ugly Truth
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00558/deception-division-and-denial-the-ugly-truth.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/28/deception-division-and-denial-the-ugly-truth/index.html
+layout: layout.njk
 ---
 Deception, Division and Denial – The Ugly Truth
 ===============================================

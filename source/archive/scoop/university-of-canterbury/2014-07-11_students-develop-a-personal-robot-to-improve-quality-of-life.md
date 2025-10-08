@@ -1,9 +1,13 @@
 ---
 slug: students-develop-a-personal-robot-to-improve-quality-of-life
-title: "Students develop a personal robot to improve quality of life"
-date: 2014-07-11
-source-url: https://www.scoop.co.nz/stories/SC1407/S00027/students-develop-a-personal-robot-to-improve-quality-of-life.htm
+title: Students develop a personal robot to improve quality of life
+date: 2014-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00027/students-develop-a-personal-robot-to-improve-quality-of-life.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/11/students-develop-a-personal-robot-to-improve-quality-of-life/index.html
+layout: layout.njk
 ---
 Students develop a personal robot to improve quality of life
 ============================================================

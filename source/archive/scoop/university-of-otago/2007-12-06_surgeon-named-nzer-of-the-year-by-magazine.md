@@ -1,9 +1,12 @@
 ---
 slug: surgeon-named-nzer-of-the-year-by-magazine
-title: "Surgeon named NZer of the year by magazine"
-date: 2007-12-06
-source-url: https://www.scoop.co.nz/stories/GE0712/S00026/surgeon-named-nzer-of-the-year-by-magazine.htm
+title: Surgeon named NZer of the year by magazine
+date: 2007-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0712/S00026/surgeon-named-nzer-of-the-year-by-magazine.htm
 author: university-of-otago
+permalink: /archive/2007/12/06/surgeon-named-nzer-of-the-year-by-magazine/index.html
+layout: layout.njk
 ---
 Surgeon named NZer of the year by magazine
 ==========================================

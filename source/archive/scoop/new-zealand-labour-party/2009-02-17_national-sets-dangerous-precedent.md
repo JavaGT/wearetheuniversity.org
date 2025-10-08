@@ -1,9 +1,12 @@
 ---
 slug: national-sets-dangerous-precedent
-title: "National sets dangerous precedent"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/PA0902/S00244/national-sets-dangerous-precedent.htm
+title: National sets dangerous precedent
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00244/national-sets-dangerous-precedent.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/17/national-sets-dangerous-precedent/index.html
+layout: layout.njk
 ---
 National sets dangerous precedent
 =================================

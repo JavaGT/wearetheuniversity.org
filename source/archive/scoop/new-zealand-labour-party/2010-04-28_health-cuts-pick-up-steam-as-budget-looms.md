@@ -1,9 +1,12 @@
 ---
 slug: health-cuts-pick-up-steam-as-budget-looms
-title: "Health cuts pick up steam as Budget looms"
-date: 2010-04-28
-source-url: https://www.scoop.co.nz/stories/PA1004/S00371/health-cuts-pick-up-steam-as-budget-looms.htm
+title: Health cuts pick up steam as Budget looms
+date: 2010-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00371/health-cuts-pick-up-steam-as-budget-looms.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/28/health-cuts-pick-up-steam-as-budget-looms/index.html
+layout: layout.njk
 ---
 Health cuts pick up steam as Budget looms
 =========================================

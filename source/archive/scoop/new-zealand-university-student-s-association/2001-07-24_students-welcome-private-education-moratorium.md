@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-private-education-moratorium
-title: "Students welcome private education moratorium"
-date: 2001-07-24
-source-url: https://www.scoop.co.nz/stories/ED0107/S00036/students-welcome-private-education-moratorium.htm
+title: Students welcome private education moratorium
+date: 2001-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00036/students-welcome-private-education-moratorium.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/07/24/students-welcome-private-education-moratorium/index.html
+layout: layout.njk
 ---
 Students welcome private education moratorium
 =============================================

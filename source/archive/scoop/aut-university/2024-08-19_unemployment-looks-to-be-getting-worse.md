@@ -1,9 +1,12 @@
 ---
 slug: unemployment-looks-to-be-getting-worse
-title: "Unemployment Looks To Be Getting Worse"
-date: 2024-08-19
-source-url: https://www.scoop.co.nz/stories/BU2408/S00283/unemployment-looks-to-be-getting-worse.htm
+title: Unemployment Looks To Be Getting Worse
+date: 2024-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2408/S00283/unemployment-looks-to-be-getting-worse.htm
 author: aut-university
+permalink: /archive/2024/08/19/unemployment-looks-to-be-getting-worse/index.html
+layout: layout.njk
 ---
 Unemployment Looks To Be Getting Worse
 ======================================

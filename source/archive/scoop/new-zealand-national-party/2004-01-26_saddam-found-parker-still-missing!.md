@@ -1,9 +1,12 @@
 ---
 slug: saddam-found-parker-still-missing!
-title: "Saddam Found, Parker Still Missing!"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/PA0401/S00196/saddam-found-parker-still-missing.htm
+title: Saddam Found, Parker Still Missing!
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00196/saddam-found-parker-still-missing.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/26/saddam-found-parker-still-missing/index.html
+layout: layout.njk
 ---
 Saddam Found, Parker Still Missing!
 ===================================

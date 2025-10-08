@@ -1,9 +1,13 @@
 ---
 slug: national-welcomes-removal-of-pre-departure-testing
-title: "National Welcomes Removal Of Pre-departure Testing"
-date: 2022-06-16
-source-url: https://www.scoop.co.nz/stories/PA2206/S00131/national-welcomes-removal-of-pre-departure-testing.htm
+title: National Welcomes Removal Of Pre-departure Testing
+date: 2022-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00131/national-welcomes-removal-of-pre-departure-testing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/06/16/national-welcomes-removal-of-pre-departure-testing/index.html
+layout: layout.njk
 ---
 National Welcomes Removal Of Pre-departure Testing
 ==================================================

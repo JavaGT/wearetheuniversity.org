@@ -1,9 +1,12 @@
 ---
 slug: ctu-union-of-burma-call-for-cyclone-relief
-title: "CTU, Union of Burma call for cyclone relief"
-date: 2008-05-08
-source-url: https://www.scoop.co.nz/stories/PO0805/S00113/ctu-union-of-burma-call-for-cyclone-relief.htm
+title: CTU, Union of Burma call for cyclone relief
+date: 2008-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00113/ctu-union-of-burma-call-for-cyclone-relief.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/05/08/ctu-union-of-burma-call-for-cyclone-relief/index.html
+layout: layout.njk
 ---
 CTU, Union of Burma call for cyclone relief
 ===========================================

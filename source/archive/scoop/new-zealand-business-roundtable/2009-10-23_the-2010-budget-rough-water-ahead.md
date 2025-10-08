@@ -1,9 +1,12 @@
 ---
 slug: the-2010-budget-rough-water-ahead
-title: "The 2010 Budget: Rough Water Ahead"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/PO0910/S00345/the-2010-budget-rough-water-ahead.htm
+title: 'The 2010 Budget: Rough Water Ahead'
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00345/the-2010-budget-rough-water-ahead.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2009/10/23/the-2010-budget-rough-water-ahead/index.html
+layout: layout.njk
 ---
 The 2010 Budget: Rough Water Ahead
 ==================================

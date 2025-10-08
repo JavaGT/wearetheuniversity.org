@@ -1,9 +1,12 @@
 ---
 slug: peters-nz-first-a-g-m-waikato-stadium
-title: "Peters: NZ First A.G.M., Waikato Stadium"
-date: 2009-08-31
-source-url: https://www.scoop.co.nz/stories/PO0908/S00390/peters-nz-first-agm-waikato-stadium.htm
+title: 'Peters: NZ First A.G.M., Waikato Stadium'
+date: 2009-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00390/peters-nz-first-agm-waikato-stadium.htm
 author: new-zealand-first-party
+permalink: /archive/2009/08/31/peters-nz-first-a-g-m-waikato-stadium/index.html
+layout: layout.njk
 ---
 Peters: NZ First A.G.M., Waikato Stadium
 ========================================

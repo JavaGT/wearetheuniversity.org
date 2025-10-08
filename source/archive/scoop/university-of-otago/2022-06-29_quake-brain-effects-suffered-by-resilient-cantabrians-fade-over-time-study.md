@@ -1,9 +1,13 @@
 ---
 slug: quake-brain-effects-suffered-by-resilient-cantabrians-fade-over-time-study
-title: "\"Quake Brain\" Effects Suffered By Resilient Cantabrians Fade Over Time – Study"
-date: 2022-06-29
-source-url: https://www.scoop.co.nz/stories/SC2206/S00044/quake-brain-effects-suffered-by-resilient-cantabrians-fade-over-time-study.htm
+title: '"Quake Brain" Effects Suffered By Resilient Cantabrians Fade Over Time – Study'
+date: 2022-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00044/quake-brain-effects-suffered-by-resilient-cantabrians-fade-over-time-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/06/29/quake-brain-effects-suffered-by-resilient-cantabrians-fade-over-time-study/index.html
+layout: layout.njk
 ---
 “Quake Brain” Effects Suffered By Resilient Cantabrians Fade Over Time – Study
 ==============================================================================

@@ -1,9 +1,12 @@
 ---
 slug: 25-years-of-the-ousa-battle-of-the-bands
-title: "25 Years of the OUSA Battle of the Bands"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/CU1304/S00321/25-years-of-the-ousa-battle-of-the-bands.htm
+title: 25 Years of the OUSA Battle of the Bands
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1304/S00321/25-years-of-the-ousa-battle-of-the-bands.htm
 author: ousa
+permalink: /archive/2013/04/17/25-years-of-the-ousa-battle-of-the-bands/index.html
+layout: layout.njk
 ---
 25 Years of the OUSA Battle of the Bands
 ========================================

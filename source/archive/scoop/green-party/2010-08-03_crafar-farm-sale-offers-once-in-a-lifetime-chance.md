@@ -1,9 +1,13 @@
 ---
 slug: crafar-farm-sale-offers-once-in-a-lifetime-chance
-title: "Crafar farm sale offers once-in-a-lifetime chance"
-date: 2010-08-03
-source-url: https://www.scoop.co.nz/stories/PA1008/S00028/crafar-farm-sale-offers-once-in-a-lifetime-chance.htm
+title: Crafar farm sale offers once-in-a-lifetime chance
+date: 2010-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00028/crafar-farm-sale-offers-once-in-a-lifetime-chance.htm
 author: green-party
+permalink: >-
+  /archive/2010/08/03/crafar-farm-sale-offers-once-in-a-lifetime-chance/index.html
+layout: layout.njk
 ---
 Crafar farm sale offers once-in-a-lifetime chance
 =================================================

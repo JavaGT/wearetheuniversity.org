@@ -1,9 +1,12 @@
 ---
 slug: over-assessed-and-under-educated
-title: "Over-Assessed And Under-Educated"
-date: 2001-03-29
-source-url: https://www.scoop.co.nz/stories/PA0103/S00533/over-assessed-and-under-educated.htm
+title: Over-Assessed And Under-Educated
+date: 2001-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00533/over-assessed-and-under-educated.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/29/over-assessed-and-under-educated/index.html
+layout: layout.njk
 ---
 Over-Assessed And Under-Educated
 ================================

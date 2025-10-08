@@ -1,9 +1,13 @@
 ---
 slug: character-building-important-in-japan-than-in-nz-rugby
-title: "Character-building important in Japan than in NZ rugby"
-date: 2015-02-17
-source-url: https://www.scoop.co.nz/stories/ED1502/S00055/character-building-important-in-japan-than-in-nz-rugby.htm
+title: Character-building important in Japan than in NZ rugby
+date: 2015-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00055/character-building-important-in-japan-than-in-nz-rugby.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/17/character-building-important-in-japan-than-in-nz-rugby/index.html
+layout: layout.njk
 ---
 Character-building important in Japan than in NZ rugby
 ======================================================

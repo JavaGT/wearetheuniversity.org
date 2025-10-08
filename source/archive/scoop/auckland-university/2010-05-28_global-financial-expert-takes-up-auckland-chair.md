@@ -1,9 +1,12 @@
 ---
 slug: global-financial-expert-takes-up-auckland-chair
-title: "Global Financial Expert Takes Up Auckland Chair"
-date: 2010-05-28
-source-url: https://www.scoop.co.nz/stories/ED1005/S00132/global-financial-expert-takes-up-auckland-chair.htm
+title: Global Financial Expert Takes Up Auckland Chair
+date: 2010-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00132/global-financial-expert-takes-up-auckland-chair.htm
 author: auckland-university
+permalink: /archive/2010/05/28/global-financial-expert-takes-up-auckland-chair/index.html
+layout: layout.njk
 ---
 Global Financial Expert Takes Up Auckland Chair
 ===============================================

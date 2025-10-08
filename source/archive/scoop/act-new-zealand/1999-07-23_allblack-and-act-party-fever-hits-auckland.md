@@ -1,9 +1,12 @@
 ---
 slug: allblack-and-act-party-fever-hits-auckland
-title: "Allblack and ACT Party Fever hits Auckland"
-date: 1999-07-23
-source-url: https://www.scoop.co.nz/stories/PA9907/S00437/allblack-and-act-party-fever-hits-auckland.htm
+title: Allblack and ACT Party Fever hits Auckland
+date: 1999-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00437/allblack-and-act-party-fever-hits-auckland.htm
 author: act-new-zealand
+permalink: /archive/1999/07/23/allblack-and-act-party-fever-hits-auckland/index.html
+layout: layout.njk
 ---
 Allblack and ACT Party Fever hits Auckland
 ==========================================

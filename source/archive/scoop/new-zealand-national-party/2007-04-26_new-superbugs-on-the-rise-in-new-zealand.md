@@ -1,9 +1,12 @@
 ---
 slug: new-superbugs-on-the-rise-in-new-zealand
-title: "New superbugs on the rise in New Zealand"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/PA0704/S00421/new-superbugs-on-the-rise-in-new-zealand.htm
+title: New superbugs on the rise in New Zealand
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00421/new-superbugs-on-the-rise-in-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/26/new-superbugs-on-the-rise-in-new-zealand/index.html
+layout: layout.njk
 ---
 New superbugs on the rise in New Zealand
 ========================================

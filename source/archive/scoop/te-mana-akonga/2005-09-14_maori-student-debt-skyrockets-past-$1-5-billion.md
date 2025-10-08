@@ -1,9 +1,12 @@
 ---
 slug: maori-student-debt-skyrockets-past-$1-5-billion
-title: "Maori student debt skyrockets past $1.5 billion"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/ED0509/S00049/maori-student-debt-skyrockets-past-15-billion.htm
+title: Maori student debt skyrockets past $1.5 billion
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00049/maori-student-debt-skyrockets-past-15-billion.htm
 author: te-mana-akonga
+permalink: /archive/2005/09/14/maori-student-debt-skyrockets-past-/index.html
+layout: layout.njk
 ---
 Maori student debt skyrockets past $1.5 billion
 ===============================================

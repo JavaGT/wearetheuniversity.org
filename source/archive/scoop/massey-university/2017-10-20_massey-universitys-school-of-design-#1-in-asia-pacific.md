@@ -1,9 +1,12 @@
 ---
 slug: massey-universitys-school-of-design-#1-in-asia-pacific
-title: "Massey University’s School of Design #1 in Asia-Pacific"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/ED1710/S00059/massey-universitys-school-of-design-1-in-asia-pacific.htm
+title: 'Massey University’s School of Design #1 in Asia-Pacific'
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00059/massey-universitys-school-of-design-1-in-asia-pacific.htm
 author: massey-university
+permalink: /archive/2017/10/20/massey-universitys-school-of-design-/index.html
+layout: layout.njk
 ---
 Massey University’s School of Design #1 in Asia-Pacific
 =======================================================

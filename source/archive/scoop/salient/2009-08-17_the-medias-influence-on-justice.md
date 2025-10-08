@@ -1,9 +1,12 @@
 ---
 slug: the-medias-influence-on-justice
-title: "The media’s influence on justice"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/HL0908/S00127/the-medias-influence-on-justice.htm
+title: The media’s influence on justice
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0908/S00127/the-medias-influence-on-justice.htm
 author: salient
+permalink: /archive/2009/08/17/the-medias-influence-on-justice/index.html
+layout: layout.njk
 ---
 The media’s influence on justice
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: post-apartheid-south-africa-public-lecture
-title: "Post-Apartheid South Africa - public lecture"
-date: 2000-06-12
-source-url: https://www.scoop.co.nz/stories/ED0006/S00014/post-apartheid-south-africa-public-lecture.htm
+title: Post-Apartheid South Africa - public lecture
+date: 2000-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00014/post-apartheid-south-africa-public-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/12/post-apartheid-south-africa-public-lecture/index.html
+layout: layout.njk
 ---
 Post-Apartheid South Africa - public lecture
 ============================================

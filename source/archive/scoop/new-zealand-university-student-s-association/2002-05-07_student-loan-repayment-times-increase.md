@@ -1,9 +1,12 @@
 ---
 slug: student-loan-repayment-times-increase
-title: "Student Loan Repayment Times Increase"
-date: 2002-05-07
-source-url: https://www.scoop.co.nz/stories/ED0205/S00011/student-loan-repayment-times-increase.htm
+title: Student Loan Repayment Times Increase
+date: 2002-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00011/student-loan-repayment-times-increase.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/07/student-loan-repayment-times-increase/index.html
+layout: layout.njk
 ---
 Student Loan Repayment Times Increase
 =====================================

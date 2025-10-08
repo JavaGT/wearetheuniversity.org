@@ -1,9 +1,12 @@
 ---
 slug: adding-new-rungs-to-the-ladder-of-opportunity
-title: "Adding new rungs to the ladder of opportunity"
-date: 2008-11-02
-source-url: https://www.scoop.co.nz/stories/PA0811/S00013/adding-new-rungs-to-the-ladder-of-opportunity.htm
+title: Adding new rungs to the ladder of opportunity
+date: 2008-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00013/adding-new-rungs-to-the-ladder-of-opportunity.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/02/adding-new-rungs-to-the-ladder-of-opportunity/index.html
+layout: layout.njk
 ---
 Adding new rungs to the ladder of opportunity
 =============================================

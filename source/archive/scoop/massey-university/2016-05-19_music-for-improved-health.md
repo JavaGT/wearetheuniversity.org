@@ -1,9 +1,11 @@
 ---
 slug: music-for-improved-health
-title: "Music for improved health"
-date: 2016-05-19
+title: Music for improved health
+date: 2016-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1605/S00100/music-for-improved-health.htm
 author: massey-university
+permalink: /archive/2016/05/19/music-for-improved-health/index.html
+layout: layout.njk
 ---
 Music for improved health
 =========================

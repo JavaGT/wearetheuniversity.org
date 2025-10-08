@@ -1,9 +1,13 @@
 ---
 slug: schools-will-fail-first-national-standards-challenge
-title: "Schools Will Fail First National Standards Challenge"
-date: 2011-02-01
-source-url: https://www.scoop.co.nz/stories/ED1102/S00004/schools-will-fail-first-national-standards-challenge.htm
+title: Schools Will Fail First National Standards Challenge
+date: 2011-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00004/schools-will-fail-first-national-standards-challenge.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/01/schools-will-fail-first-national-standards-challenge/index.html
+layout: layout.njk
 ---
 Schools Will Fail First National Standards Challenge
 ====================================================

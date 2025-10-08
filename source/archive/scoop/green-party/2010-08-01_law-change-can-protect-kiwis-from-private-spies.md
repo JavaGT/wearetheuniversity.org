@@ -1,9 +1,12 @@
 ---
 slug: law-change-can-protect-kiwis-from-private-spies
-title: "Law Change Can Protect Kiwis From Private Spies"
-date: 2010-08-01
-source-url: https://www.scoop.co.nz/stories/PA1008/S00002/law-change-can-protect-kiwis-from-private-spies.htm
+title: Law Change Can Protect Kiwis From Private Spies
+date: 2010-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00002/law-change-can-protect-kiwis-from-private-spies.htm
 author: green-party
+permalink: /archive/2010/08/01/law-change-can-protect-kiwis-from-private-spies/index.html
+layout: layout.njk
 ---
 Law Change Can Protect Kiwis From Private Spies
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: reintroducing-native-creatures-to-urban-areas
-title: "Reintroducing native creatures to urban areas"
-date: 2018-08-03
-source-url: https://www.scoop.co.nz/stories/SC1808/S00009/reintroducing-native-creatures-to-urban-areas.htm
+title: Reintroducing native creatures to urban areas
+date: 2018-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00009/reintroducing-native-creatures-to-urban-areas.htm
 author: university-of-otago
+permalink: /archive/2018/08/03/reintroducing-native-creatures-to-urban-areas/index.html
+layout: layout.njk
 ---
 Reintroducing native creatures to urban areas
 =============================================

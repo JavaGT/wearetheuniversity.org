@@ -1,9 +1,12 @@
 ---
 slug: electioneers-must-target-maori-and-young-voters
-title: "Electioneers 'must target Maori and young voters'"
-date: 2007-03-23
-source-url: https://www.scoop.co.nz/stories/PO0703/S00309/electioneers-must-target-maori-and-young-voters.htm
+title: Electioneers 'must target Maori and young voters'
+date: 2007-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00309/electioneers-must-target-maori-and-young-voters.htm
 author: aut-university
+permalink: /archive/2007/03/23/electioneers-must-target-maori-and-young-voters/index.html
+layout: layout.njk
 ---
 Electioneers 'must target Maori and young voters'
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-honours-contemporary-artist
-title: "University Honours Contemporary Artist"
-date: 2013-02-21
-source-url: https://www.scoop.co.nz/stories/ED1302/S00120/university-honours-contemporary-artist.htm
+title: University Honours Contemporary Artist
+date: 2013-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00120/university-honours-contemporary-artist.htm
 author: auckland-university
+permalink: /archive/2013/02/21/university-honours-contemporary-artist/index.html
+layout: layout.njk
 ---
 University Honours Contemporary Artist
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: colin-craig-is-deluded-and-dangerous-act
-title: "Colin Craig is \"deluded and dangerous\" - Act"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/PO1408/S00471/colin-craig-is-deluded-and-dangerous-act.htm
+title: Colin Craig is "deluded and dangerous" - Act
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00471/colin-craig-is-deluded-and-dangerous-act.htm
 author: act-new-zealand
+permalink: /archive/2014/08/28/colin-craig-is-deluded-and-dangerous-act/index.html
+layout: layout.njk
 ---
 Colin Craig is "deluded and dangerous" - Act
 ============================================

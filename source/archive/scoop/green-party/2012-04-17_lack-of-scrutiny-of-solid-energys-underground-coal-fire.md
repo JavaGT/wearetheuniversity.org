@@ -1,9 +1,13 @@
 ---
 slug: lack-of-scrutiny-of-solid-energys-underground-coal-fire
-title: "Lack of scrutiny of Solid Energy’s underground coal fire"
-date: 2012-04-17
-source-url: https://www.scoop.co.nz/stories/PA1204/S00209/lack-of-scrutiny-of-solid-energys-underground-coal-fire.htm
+title: Lack of scrutiny of Solid Energy’s underground coal fire
+date: 2012-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00209/lack-of-scrutiny-of-solid-energys-underground-coal-fire.htm
 author: green-party
+permalink: >-
+  /archive/2012/04/17/lack-of-scrutiny-of-solid-energys-underground-coal-fire/index.html
+layout: layout.njk
 ---
 Lack of scrutiny of Solid Energy’s underground coal fire
 ========================================================

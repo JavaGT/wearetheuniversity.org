@@ -1,9 +1,12 @@
 ---
 slug: delays-put-childrens-health-at-risk
-title: "Delays put children’s health at risk"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/ED1011/S00057/delays-put-childrens-health-at-risk.htm
+title: Delays put children’s health at risk
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00057/delays-put-childrens-health-at-risk.htm
 author: massey-university
+permalink: /archive/2010/11/16/delays-put-childrens-health-at-risk/index.html
+layout: layout.njk
 ---
 Delays put children’s health at risk
 ====================================

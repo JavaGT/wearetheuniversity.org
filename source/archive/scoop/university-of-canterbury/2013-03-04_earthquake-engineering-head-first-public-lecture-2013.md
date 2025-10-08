@@ -1,9 +1,13 @@
 ---
 slug: earthquake-engineering-head-first-public-lecture-2013
-title: "Earthquake Engineering Head First Public Lecture 2013"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/ED1303/S00015/earthquake-engineering-head-first-public-lecture-2013.htm
+title: Earthquake Engineering Head First Public Lecture 2013
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00015/earthquake-engineering-head-first-public-lecture-2013.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/04/earthquake-engineering-head-first-public-lecture-2013/index.html
+layout: layout.njk
 ---
 Earthquake Engineering Head First Public Lecture 2013
 =====================================================

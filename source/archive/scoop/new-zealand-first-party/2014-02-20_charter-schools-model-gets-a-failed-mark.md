@@ -1,9 +1,12 @@
 ---
 slug: charter-schools-model-gets-a-failed-mark
-title: "Charter Schools Model Gets A ‘FAILED’ Mark"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00279/charter-schools-model-gets-a-failed-mark.htm
+title: Charter Schools Model Gets A ‘FAILED’ Mark
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00279/charter-schools-model-gets-a-failed-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/20/charter-schools-model-gets-a-failed-mark/index.html
+layout: layout.njk
 ---
 Charter Schools Model Gets A ‘FAILED’ Mark
 ==========================================

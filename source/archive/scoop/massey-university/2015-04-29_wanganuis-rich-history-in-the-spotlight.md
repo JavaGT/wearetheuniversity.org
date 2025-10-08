@@ -1,9 +1,12 @@
 ---
 slug: wanganuis-rich-history-in-the-spotlight
-title: "Wanganui’s rich history in the spotlight"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/CU1504/S00518/wanganuis-rich-history-in-the-spotlight.htm
+title: Wanganui’s rich history in the spotlight
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00518/wanganuis-rich-history-in-the-spotlight.htm
 author: massey-university
+permalink: /archive/2015/04/29/wanganuis-rich-history-in-the-spotlight/index.html
+layout: layout.njk
 ---
 Wanganui’s rich history in the spotlight
 ========================================

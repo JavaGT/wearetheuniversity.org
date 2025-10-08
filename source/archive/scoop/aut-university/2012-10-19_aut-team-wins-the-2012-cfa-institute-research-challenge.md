@@ -1,9 +1,13 @@
 ---
 slug: aut-team-wins-the-2012-cfa-institute-research-challenge
-title: "AUT team wins the 2012 CFA Institute Research Challenge"
-date: 2012-10-19
-source-url: https://www.scoop.co.nz/stories/ED1210/S00117/aut-team-wins-the-2012-cfa-institute-research-challenge.htm
+title: AUT team wins the 2012 CFA Institute Research Challenge
+date: 2012-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00117/aut-team-wins-the-2012-cfa-institute-research-challenge.htm
 author: aut-university
+permalink: >-
+  /archive/2012/10/19/aut-team-wins-the-2012-cfa-institute-research-challenge/index.html
+layout: layout.njk
 ---
 AUT team wins the 2012 CFA Institute Research Challenge
 =======================================================

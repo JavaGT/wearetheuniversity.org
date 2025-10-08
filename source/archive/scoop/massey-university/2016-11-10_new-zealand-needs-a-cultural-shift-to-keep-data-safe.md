@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-needs-a-cultural-shift-to-keep-data-safe
-title: "New Zealand needs a cultural shift to keep data safe"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/ED1611/S00053/new-zealand-needs-a-cultural-shift-to-keep-data-safe.htm
+title: New Zealand needs a cultural shift to keep data safe
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00053/new-zealand-needs-a-cultural-shift-to-keep-data-safe.htm
 author: massey-university
+permalink: >-
+  /archive/2016/11/10/new-zealand-needs-a-cultural-shift-to-keep-data-safe/index.html
+layout: layout.njk
 ---
 New Zealand needs a cultural shift to keep data safe
 ====================================================

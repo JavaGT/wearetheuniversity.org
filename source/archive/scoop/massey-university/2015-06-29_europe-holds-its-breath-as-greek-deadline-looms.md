@@ -1,9 +1,12 @@
 ---
 slug: europe-holds-its-breath-as-greek-deadline-looms
-title: "Europe holds its breath as Greek deadline looms"
-date: 2015-06-29
-source-url: https://www.scoop.co.nz/stories/PO1506/S00299/europe-holds-its-breath-as-greek-deadline-looms.htm
+title: Europe holds its breath as Greek deadline looms
+date: 2015-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1506/S00299/europe-holds-its-breath-as-greek-deadline-looms.htm
 author: massey-university
+permalink: /archive/2015/06/29/europe-holds-its-breath-as-greek-deadline-looms/index.html
+layout: layout.njk
 ---
 Europe holds its breath as Greek deadline looms
 ===============================================

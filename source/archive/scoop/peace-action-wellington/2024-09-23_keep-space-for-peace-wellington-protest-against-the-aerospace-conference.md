@@ -1,9 +1,13 @@
 ---
 slug: keep-space-for-peace-wellington-protest-against-the-aerospace-conference
-title: "Keep Space For Peace - Wellington Protest Against The Aerospace Conference"
-date: 2024-09-23
-source-url: https://www.scoop.co.nz/stories/AK2409/S00687/keep-space-for-peace-wellington-protest-against-the-aerospace-conference.htm
+title: Keep Space For Peace - Wellington Protest Against The Aerospace Conference
+date: 2024-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2409/S00687/keep-space-for-peace-wellington-protest-against-the-aerospace-conference.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2024/09/23/keep-space-for-peace-wellington-protest-against-the-aerospace-conference/index.html
+layout: layout.njk
 ---
 Keep Space For Peace - Wellington Protest Against The Aerospace Conference
 ==========================================================================

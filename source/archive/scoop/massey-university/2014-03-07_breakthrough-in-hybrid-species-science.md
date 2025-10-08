@@ -1,9 +1,12 @@
 ---
 slug: breakthrough-in-hybrid-species-science
-title: "Breakthrough in hybrid species science"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/SC1403/S00019/breakthrough-in-hybrid-species-science.htm
+title: Breakthrough in hybrid species science
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00019/breakthrough-in-hybrid-species-science.htm
 author: massey-university
+permalink: /archive/2014/03/07/breakthrough-in-hybrid-species-science/index.html
+layout: layout.njk
 ---
 Breakthrough in hybrid species science
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: reliving-the-fall-of-the-berlin-wall
-title: "Reliving the fall of the Berlin Wall"
-date: 2009-10-13
-source-url: https://www.scoop.co.nz/stories/ED0910/S00054/reliving-the-fall-of-the-berlin-wall.htm
+title: Reliving the fall of the Berlin Wall
+date: 2009-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00054/reliving-the-fall-of-the-berlin-wall.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/13/reliving-the-fall-of-the-berlin-wall/index.html
+layout: layout.njk
 ---
 Reliving the fall of the Berlin Wall
 ====================================

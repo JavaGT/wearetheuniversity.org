@@ -1,9 +1,11 @@
 ---
 slug: fail-and-win-under-labour
-title: "Fail and win under Labour"
-date: 2001-10-03
+title: Fail and win under Labour
+date: 2001-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0110/S00077/fail-and-win-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/03/fail-and-win-under-labour/index.html
+layout: layout.njk
 ---
 Fail and win under Labour
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: post-grad-allowance-cuts-send-talent-offshore
-title: "Post-Grad allowance cuts send talent offshore"
-date: 2013-04-01
-source-url: https://www.scoop.co.nz/stories/PA1304/S00008/post-grad-allowance-cuts-send-talent-offshore.htm
+title: Post-Grad allowance cuts send talent offshore
+date: 2013-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00008/post-grad-allowance-cuts-send-talent-offshore.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/01/post-grad-allowance-cuts-send-talent-offshore/index.html
+layout: layout.njk
 ---
 Post-Grad allowance cuts send talent offshore
 =============================================

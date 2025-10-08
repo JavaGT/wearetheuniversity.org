@@ -1,9 +1,12 @@
 ---
 slug: rediscovering-the-kiwi-entrepreneurial-spirit
-title: "Rediscovering the Kiwi Entrepreneurial Spirit"
-date: 2000-11-13
-source-url: https://www.scoop.co.nz/stories/PA0011/S00221/rediscovering-the-kiwi-entrepreneurial-spirit.htm
+title: Rediscovering the Kiwi Entrepreneurial Spirit
+date: 2000-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00221/rediscovering-the-kiwi-entrepreneurial-spirit.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/13/rediscovering-the-kiwi-entrepreneurial-spirit/index.html
+layout: layout.njk
 ---
 Rediscovering the Kiwi Entrepreneurial Spirit
 =============================================

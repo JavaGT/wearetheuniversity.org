@@ -1,9 +1,12 @@
 ---
 slug: is-new-zealand-really-a-multicultural-society
-title: "Is New Zealand really a multicultural society?"
-date: 2015-08-06
-source-url: https://www.scoop.co.nz/stories/CU1508/S00088/is-new-zealand-really-a-multicultural-society.htm
+title: Is New Zealand really a multicultural society?
+date: 2015-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00088/is-new-zealand-really-a-multicultural-society.htm
 author: waikato-university
+permalink: /archive/2015/08/06/is-new-zealand-really-a-multicultural-society/index.html
+layout: layout.njk
 ---
 Is New Zealand really a multicultural society?
 ==============================================

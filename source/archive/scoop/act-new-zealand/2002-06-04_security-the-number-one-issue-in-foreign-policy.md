@@ -1,9 +1,12 @@
 ---
 slug: security-the-number-one-issue-in-foreign-policy
-title: "Security - the Number One Issue in Foreign Policy"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/PA0206/S00016/security-the-number-one-issue-in-foreign-policy.htm
+title: Security - the Number One Issue in Foreign Policy
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00016/security-the-number-one-issue-in-foreign-policy.htm
 author: act-new-zealand
+permalink: /archive/2002/06/04/security-the-number-one-issue-in-foreign-policy/index.html
+layout: layout.njk
 ---
 Security - the Number One Issue in Foreign Policy
 =================================================

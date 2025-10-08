@@ -1,9 +1,12 @@
 ---
 slug: boscawen-has-cosgrove-in-his-sights
-title: "Boscawen Has Cosgrove In His Sights"
-date: 2009-09-17
-source-url: https://www.scoop.co.nz/stories/PA0909/S00247/boscawen-has-cosgrove-in-his-sights.htm
+title: Boscawen Has Cosgrove In His Sights
+date: 2009-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00247/boscawen-has-cosgrove-in-his-sights.htm
 author: act-new-zealand
+permalink: /archive/2009/09/17/boscawen-has-cosgrove-in-his-sights/index.html
+layout: layout.njk
 ---
 Boscawen Has Cosgrove In His Sights
 ===================================

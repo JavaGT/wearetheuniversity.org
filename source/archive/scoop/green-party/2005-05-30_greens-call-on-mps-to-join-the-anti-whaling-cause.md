@@ -1,9 +1,13 @@
 ---
 slug: greens-call-on-mps-to-join-the-anti-whaling-cause
-title: "Greens call on MPs to join the anti-whaling cause"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00725/greens-call-on-mps-to-join-the-anti-whaling-cause.htm
+title: Greens call on MPs to join the anti-whaling cause
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00725/greens-call-on-mps-to-join-the-anti-whaling-cause.htm
 author: green-party
+permalink: >-
+  /archive/2005/05/30/greens-call-on-mps-to-join-the-anti-whaling-cause/index.html
+layout: layout.njk
 ---
 Greens call on MPs to join the anti-whaling cause
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: salvation-army-report-highlights-need-for-urgent-action
-title: "Salvation Army report highlights need for urgent action"
-date: 2018-02-14
-source-url: https://www.scoop.co.nz/stories/PA1802/S00113/salvation-army-report-highlights-need-for-urgent-action.htm
+title: Salvation Army report highlights need for urgent action
+date: 2018-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00113/salvation-army-report-highlights-need-for-urgent-action.htm
 author: green-party
+permalink: >-
+  /archive/2018/02/14/salvation-army-report-highlights-need-for-urgent-action/index.html
+layout: layout.njk
 ---
 Salvation Army report highlights need for urgent action
 =======================================================

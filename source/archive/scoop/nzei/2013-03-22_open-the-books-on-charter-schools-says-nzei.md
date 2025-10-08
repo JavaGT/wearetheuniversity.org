@@ -1,9 +1,12 @@
 ---
 slug: open-the-books-on-charter-schools-says-nzei
-title: "Open the books on charter schools, says NZEI"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00155/open-the-books-on-charter-schools-says-nzei.htm
+title: Open the books on charter schools, says NZEI
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00155/open-the-books-on-charter-schools-says-nzei.htm
 author: nzei
+permalink: /archive/2013/03/22/open-the-books-on-charter-schools-says-nzei/index.html
+layout: layout.njk
 ---
 Open the books on charter schools, says NZEI
 ============================================

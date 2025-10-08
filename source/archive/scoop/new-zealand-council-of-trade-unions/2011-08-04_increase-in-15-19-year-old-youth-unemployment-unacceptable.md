@@ -1,9 +1,13 @@
 ---
 slug: increase-in-15-19-year-old-youth-unemployment-unacceptable
-title: "Increase in 15-19 year old youth unemployment unacceptable"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PO1108/S00049/increase-in-15-19-year-old-youth-unemployment-unacceptable.htm
+title: Increase in 15-19 year old youth unemployment unacceptable
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00049/increase-in-15-19-year-old-youth-unemployment-unacceptable.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/08/04/increase-in-15-19-year-old-youth-unemployment-unacceptable/index.html
+layout: layout.njk
 ---
 Increase in 15-19 year old youth unemployment unacceptable
 ==========================================================

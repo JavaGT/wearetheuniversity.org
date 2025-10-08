@@ -1,9 +1,12 @@
 ---
 slug: act-tackles-the-cost-of-living-crisis
-title: "ACT Tackles The Cost Of Living Crisis"
-date: 2021-12-13
-source-url: https://www.scoop.co.nz/stories/PA2112/S00098/act-tackles-the-cost-of-living-crisis.htm
+title: ACT Tackles The Cost Of Living Crisis
+date: 2021-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00098/act-tackles-the-cost-of-living-crisis.htm
 author: act-new-zealand
+permalink: /archive/2021/12/13/act-tackles-the-cost-of-living-crisis/index.html
+layout: layout.njk
 ---
 ACT Tackles The Cost Of Living Crisis
 =====================================

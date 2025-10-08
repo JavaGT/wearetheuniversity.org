@@ -1,9 +1,12 @@
 ---
 slug: bridges-ignores-warnings-of-troubled-waters
-title: "Bridges ignores warnings of troubled waters"
-date: 2013-07-19
-source-url: https://www.scoop.co.nz/stories/PA1307/S00320/bridges-ignores-warnings-of-troubled-waters.htm
+title: Bridges ignores warnings of troubled waters
+date: 2013-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00320/bridges-ignores-warnings-of-troubled-waters.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/19/bridges-ignores-warnings-of-troubled-waters/index.html
+layout: layout.njk
 ---
 Bridges ignores warnings of troubled waters
 ===========================================

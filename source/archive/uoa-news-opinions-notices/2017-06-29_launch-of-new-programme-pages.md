@@ -1,8 +1,11 @@
 ---
 slug: launch-of-new-programme-pages
-title: "Launch of new Programme pages"
-date: 2017-06-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/06/launch-of-new-programme-pages.html
+title: Launch of new Programme pages
+date: 2017-06-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/06/launch-of-new-programme-pages.html
+permalink: /archive/2017/06/29/launch-of-new-programme-pages/index.html
+layout: layout.njk
 ---
 Launch of new Programme pages
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: turia-gives-maori-hobsons-choice
-title: "Turia Gives Maori 'Hobson's Choice'"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/PA0405/S00003/turia-gives-maori-hobsons-choice.htm
+title: Turia Gives Maori 'Hobson's Choice'
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00003/turia-gives-maori-hobsons-choice.htm
 author: act-new-zealand
+permalink: /archive/2004/05/03/turia-gives-maori-hobsons-choice/index.html
+layout: layout.njk
 ---
 Turia Gives Maori 'Hobson's Choice'
 ===================================

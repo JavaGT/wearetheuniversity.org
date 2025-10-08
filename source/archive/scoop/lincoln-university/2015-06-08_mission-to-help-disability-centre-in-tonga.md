@@ -1,9 +1,12 @@
 ---
 slug: mission-to-help-disability-centre-in-tonga
-title: "Mission to help disability centre in Tonga"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/WO1506/S00064/mission-to-help-disability-centre-in-tonga.htm
+title: Mission to help disability centre in Tonga
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1506/S00064/mission-to-help-disability-centre-in-tonga.htm
 author: lincoln-university
+permalink: /archive/2015/06/08/mission-to-help-disability-centre-in-tonga/index.html
+layout: layout.njk
 ---
 Mission to help disability centre in Tonga
 ==========================================

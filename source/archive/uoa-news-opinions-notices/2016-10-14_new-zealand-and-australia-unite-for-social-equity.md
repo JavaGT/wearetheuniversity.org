@@ -1,8 +1,12 @@
 ---
 slug: new-zealand-and-australia-unite-for-social-equity
-title: "New Zealand and Australia unite for social equity"
-date: 2016-10-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/NZ-Aus-unite-for-social-equity.html
+title: New Zealand and Australia unite for social equity
+date: 2016-10-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/NZ-Aus-unite-for-social-equity.html
+permalink: >-
+  /archive/2016/10/14/new-zealand-and-australia-unite-for-social-equity/index.html
+layout: layout.njk
 ---
 New Zealand and Australia unite for social equity
 =================================================

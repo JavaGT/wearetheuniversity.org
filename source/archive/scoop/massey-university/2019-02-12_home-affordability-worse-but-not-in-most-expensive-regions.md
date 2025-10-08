@@ -1,9 +1,13 @@
 ---
 slug: home-affordability-worse-but-not-in-most-expensive-regions
-title: "Home affordability worse, but not in most expensive regions"
-date: 2019-02-12
-source-url: https://www.scoop.co.nz/stories/BU1902/S00251/home-affordability-worse-but-not-in-most-expensive-regions.htm
+title: Home affordability worse, but not in most expensive regions
+date: 2019-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1902/S00251/home-affordability-worse-but-not-in-most-expensive-regions.htm
 author: massey-university
+permalink: >-
+  /archive/2019/02/12/home-affordability-worse-but-not-in-most-expensive-regions/index.html
+layout: layout.njk
 ---
 Home affordability worse, but not in most expensive regions
 ===========================================================

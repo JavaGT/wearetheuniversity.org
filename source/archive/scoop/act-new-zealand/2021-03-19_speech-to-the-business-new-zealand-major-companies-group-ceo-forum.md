@@ -1,9 +1,13 @@
 ---
 slug: speech-to-the-business-new-zealand-major-companies-group-ceo-forum
-title: "Speech To The Business New Zealand Major Companies Group CEO Forum"
-date: 2021-03-19
-source-url: https://www.scoop.co.nz/stories/PA2103/S00146/speech-to-the-business-new-zealand-major-companies-group-ceo-forum.htm
+title: Speech To The Business New Zealand Major Companies Group CEO Forum
+date: 2021-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00146/speech-to-the-business-new-zealand-major-companies-group-ceo-forum.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/03/19/speech-to-the-business-new-zealand-major-companies-group-ceo-forum/index.html
+layout: layout.njk
 ---
 Speech To The Business New Zealand Major Companies Group CEO Forum
 ==================================================================

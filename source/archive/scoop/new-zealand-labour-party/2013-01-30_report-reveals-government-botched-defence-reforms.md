@@ -1,9 +1,13 @@
 ---
 slug: report-reveals-government-botched-defence-reforms
-title: "Report Reveals Government Botched Defence Reforms"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/PA1301/S00175/report-reveals-government-botched-defence-reforms.htm
+title: Report Reveals Government Botched Defence Reforms
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00175/report-reveals-government-botched-defence-reforms.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/01/30/report-reveals-government-botched-defence-reforms/index.html
+layout: layout.njk
 ---
 Report Reveals Government Botched Defence Reforms
 =================================================

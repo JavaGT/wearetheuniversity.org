@@ -1,9 +1,12 @@
 ---
 slug: study-shows-benefits-of-retrofitting-insulation
-title: "Study shows benefits of retrofitting insulation"
-date: 2007-03-01
-source-url: https://www.scoop.co.nz/stories/PA0703/S00021/study-shows-benefits-of-retrofitting-insulation.htm
+title: Study shows benefits of retrofitting insulation
+date: 2007-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00021/study-shows-benefits-of-retrofitting-insulation.htm
 author: green-party
+permalink: /archive/2007/03/01/study-shows-benefits-of-retrofitting-insulation/index.html
+layout: layout.njk
 ---
 Study shows benefits of retrofitting insulation
 ===============================================

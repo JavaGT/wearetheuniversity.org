@@ -1,9 +1,13 @@
 ---
 slug: $12-7-billion-dollar-student-debt-tragedy-in-2015
-title: "$12.7 Billion Dollar Student Debt Tragedy in 2015"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/ED0610/S00081/127-billion-dollar-student-debt-tragedy-in-2015.htm
+title: $12.7 Billion Dollar Student Debt Tragedy in 2015
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00081/127-billion-dollar-student-debt-tragedy-in-2015.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2006/10/19/12-7-billion-dollar-student-debt-tragedy-in-2015/index.html
+layout: layout.njk
 ---
 $12.7 Billion Dollar Student Debt Tragedy in 2015
 =================================================

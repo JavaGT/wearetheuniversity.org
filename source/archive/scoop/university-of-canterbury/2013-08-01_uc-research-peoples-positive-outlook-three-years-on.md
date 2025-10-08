@@ -1,9 +1,13 @@
 ---
 slug: uc-research-peoples-positive-outlook-three-years-on
-title: "UC research people's positive outlook three years on"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/ED1308/S00002/uc-research-peoples-positive-outlook-three-years-on.htm
+title: UC research people's positive outlook three years on
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00002/uc-research-peoples-positive-outlook-three-years-on.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/01/uc-research-peoples-positive-outlook-three-years-on/index.html
+layout: layout.njk
 ---
 UC research people's positive outlook three years on
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-day-11
-title: "Student Volunteer Army Day 11"
-date: 2011-03-07
-source-url: https://www.scoop.co.nz/stories/AK1103/S00303/student-volunteer-army-day-11.htm
+title: Student Volunteer Army Day 11
+date: 2011-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00303/student-volunteer-army-day-11.htm
 author: student-volunteer-army
+permalink: /archive/2011/03/07/student-volunteer-army-day-11/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Day 11
 =============================

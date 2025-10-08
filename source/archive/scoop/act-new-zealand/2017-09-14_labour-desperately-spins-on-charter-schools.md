@@ -1,9 +1,12 @@
 ---
 slug: labour-desperately-spins-on-charter-schools
-title: "Labour desperately spins on charter schools"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/PA1709/S00164/labour-desperately-spins-on-charter-schools.htm
+title: Labour desperately spins on charter schools
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00164/labour-desperately-spins-on-charter-schools.htm
 author: act-new-zealand
+permalink: /archive/2017/09/14/labour-desperately-spins-on-charter-schools/index.html
+layout: layout.njk
 ---
 Labour desperately spins on charter schools
 ===========================================

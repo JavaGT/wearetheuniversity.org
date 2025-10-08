@@ -1,9 +1,12 @@
 ---
 slug: gifted-and-talented-kids-shouldnt-be-forgotten
-title: "Gifted and Talented Kids Shouldn't Be Forgotten"
-date: 2009-06-15
-source-url: https://www.scoop.co.nz/stories/PA0906/S00181/gifted-and-talented-kids-shouldnt-be-forgotten.htm
+title: Gifted and Talented Kids Shouldn't Be Forgotten
+date: 2009-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00181/gifted-and-talented-kids-shouldnt-be-forgotten.htm
 author: act-new-zealand
+permalink: /archive/2009/06/15/gifted-and-talented-kids-shouldnt-be-forgotten/index.html
+layout: layout.njk
 ---
 Gifted and Talented Kids Shouldn't Be Forgotten
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: zero-tolerance-for-crime-richard-prebble
-title: "Zero Tolerance for Crime -- Richard Prebble"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/PA0205/S00696/zero-tolerance-for-crime-richard-prebble.htm
+title: Zero Tolerance for Crime -- Richard Prebble
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00696/zero-tolerance-for-crime-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2002/05/30/zero-tolerance-for-crime-richard-prebble/index.html
+layout: layout.njk
 ---
 Zero Tolerance for Crime -- Richard Prebble
 ===========================================

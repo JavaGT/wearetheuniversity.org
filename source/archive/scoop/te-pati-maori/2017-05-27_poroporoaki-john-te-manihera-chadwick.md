@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-john-te-manihera-chadwick
-title: "Poroporoaki – John Te Manihera Chadwick"
-date: 2017-05-27
-source-url: https://www.scoop.co.nz/stories/PA1705/S00595/poroporoaki-john-te-manihera-chadwick.htm
+title: Poroporoaki – John Te Manihera Chadwick
+date: 2017-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00595/poroporoaki-john-te-manihera-chadwick.htm
 author: te-pati-maori
+permalink: /archive/2017/05/27/poroporoaki-john-te-manihera-chadwick/index.html
+layout: layout.njk
 ---
 Poroporoaki – John Te Manihera Chadwick
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: new-research-aims-to-protect-communities-against-wildfires
-title: "New Research Aims To Protect Communities Against Wildfires"
-date: 2024-01-17
-source-url: https://www.scoop.co.nz/stories/ED2401/S00005/new-research-aims-to-protect-communities-against-wildfires.htm
+title: New Research Aims To Protect Communities Against Wildfires
+date: 2024-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2401/S00005/new-research-aims-to-protect-communities-against-wildfires.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/01/17/new-research-aims-to-protect-communities-against-wildfires/index.html
+layout: layout.njk
 ---
 New Research Aims To Protect Communities Against Wildfires
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: turning-food-waste-into-bioplastics
-title: "Turning food waste into bioplastics"
-date: 2019-07-04
-source-url: https://www.scoop.co.nz/stories/SC1907/S00011/turning-food-waste-into-bioplastics.htm
+title: Turning food waste into bioplastics
+date: 2019-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1907/S00011/turning-food-waste-into-bioplastics.htm
 author: university-of-canterbury
+permalink: /archive/2019/07/04/turning-food-waste-into-bioplastics/index.html
+layout: layout.njk
 ---
 Turning food waste into bioplastics
 ===================================

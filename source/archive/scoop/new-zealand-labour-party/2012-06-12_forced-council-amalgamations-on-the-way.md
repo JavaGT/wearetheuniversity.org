@@ -1,9 +1,12 @@
 ---
 slug: forced-council-amalgamations-on-the-way
-title: "Forced council amalgamations on the way"
-date: 2012-06-12
-source-url: https://www.scoop.co.nz/stories/PA1206/S00141/forced-council-amalgamations-on-the-way.htm
+title: Forced council amalgamations on the way
+date: 2012-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00141/forced-council-amalgamations-on-the-way.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/12/forced-council-amalgamations-on-the-way/index.html
+layout: layout.njk
 ---
 Forced council amalgamations on the way
 =======================================

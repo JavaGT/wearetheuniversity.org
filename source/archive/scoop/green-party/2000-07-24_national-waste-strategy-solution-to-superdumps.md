@@ -1,9 +1,12 @@
 ---
 slug: national-waste-strategy-solution-to-superdumps
-title: "National Waste Strategy Solution To Superdumps"
-date: 2000-07-24
-source-url: https://www.scoop.co.nz/stories/PA0007/S00372/national-waste-strategy-solution-to-superdumps.htm
+title: National Waste Strategy Solution To Superdumps
+date: 2000-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00372/national-waste-strategy-solution-to-superdumps.htm
 author: green-party
+permalink: /archive/2000/07/24/national-waste-strategy-solution-to-superdumps/index.html
+layout: layout.njk
 ---
 National Waste Strategy Solution To Superdumps
 ==============================================

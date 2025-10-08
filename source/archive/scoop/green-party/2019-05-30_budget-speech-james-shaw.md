@@ -1,9 +1,11 @@
 ---
 slug: budget-speech-james-shaw
-title: "Budget Speech - James Shaw"
-date: 2019-05-30
+title: Budget Speech - James Shaw
+date: 2019-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1905/S00311/budget-speech-james-shaw.htm
 author: green-party
+permalink: /archive/2019/05/30/budget-speech-james-shaw/index.html
+layout: layout.njk
 ---
 Budget Speech - James Shaw
 ==========================

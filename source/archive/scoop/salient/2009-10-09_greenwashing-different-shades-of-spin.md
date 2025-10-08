@@ -1,9 +1,12 @@
 ---
 slug: greenwashing-different-shades-of-spin
-title: "Greenwashing: different shades of spin"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/HL0910/S00082/greenwashing-different-shades-of-spin.htm
+title: 'Greenwashing: different shades of spin'
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0910/S00082/greenwashing-different-shades-of-spin.htm
 author: salient
+permalink: /archive/2009/10/09/greenwashing-different-shades-of-spin/index.html
+layout: layout.njk
 ---
 Greenwashing: different shades of spin
 ======================================

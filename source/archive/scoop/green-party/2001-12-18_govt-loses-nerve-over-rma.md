@@ -1,9 +1,11 @@
 ---
 slug: govt-loses-nerve-over-rma
-title: "Govt Loses Nerve Over RMA"
-date: 2001-12-18
+title: Govt Loses Nerve Over RMA
+date: 2001-12-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0112/S00339/govt-loses-nerve-over-rma.htm
 author: green-party
+permalink: /archive/2001/12/18/govt-loses-nerve-over-rma/index.html
+layout: layout.njk
 ---
 Govt Loses Nerve Over RMA
 =========================

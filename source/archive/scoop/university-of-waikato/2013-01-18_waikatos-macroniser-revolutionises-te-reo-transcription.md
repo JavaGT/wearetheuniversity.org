@@ -1,9 +1,13 @@
 ---
 slug: waikatos-macroniser-revolutionises-te-reo-transcription
-title: "Waikato's ‘Macroniser’ Revolutionises Te Reo Transcription"
-date: 2013-01-18
-source-url: https://www.scoop.co.nz/stories/SC1301/S00030/waikatos-macroniser-revolutionises-te-reo-transcription.htm
+title: Waikato's ‘Macroniser’ Revolutionises Te Reo Transcription
+date: 2013-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00030/waikatos-macroniser-revolutionises-te-reo-transcription.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/01/18/waikatos-macroniser-revolutionises-te-reo-transcription/index.html
+layout: layout.njk
 ---
 Waikato's ‘Macroniser’ Revolutionises Te Reo Transcription
 ==========================================================

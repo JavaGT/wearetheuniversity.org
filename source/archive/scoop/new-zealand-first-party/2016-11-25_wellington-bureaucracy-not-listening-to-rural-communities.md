@@ -1,9 +1,13 @@
 ---
 slug: wellington-bureaucracy-not-listening-to-rural-communities
-title: "Wellington Bureaucracy Not Listening to Rural Communities"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/PA1611/S00497/wellington-bureaucracy-not-listening-to-rural-communities.htm
+title: Wellington Bureaucracy Not Listening to Rural Communities
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00497/wellington-bureaucracy-not-listening-to-rural-communities.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/25/wellington-bureaucracy-not-listening-to-rural-communities/index.html
+layout: layout.njk
 ---
 Wellington Bureaucracy Not Listening to Rural Communities
 =========================================================

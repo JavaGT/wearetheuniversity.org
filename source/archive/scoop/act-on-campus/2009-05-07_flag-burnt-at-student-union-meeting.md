@@ -1,9 +1,12 @@
 ---
 slug: flag-burnt-at-student-union-meeting
-title: "Flag Burnt At Student Union Meeting"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/ED0905/S00037/flag-burnt-at-student-union-meeting.htm
+title: Flag Burnt At Student Union Meeting
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00037/flag-burnt-at-student-union-meeting.htm
 author: act-on-campus
+permalink: /archive/2009/05/07/flag-burnt-at-student-union-meeting/index.html
+layout: layout.njk
 ---
 Flag Burnt At Student Union Meeting
 ===================================

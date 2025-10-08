@@ -1,9 +1,12 @@
 ---
 slug: injury-prevention-&-rehab-bill-2nd-reading
-title: "Injury Prevention & Rehab Bill 2nd Reading"
-date: 2001-09-06
-source-url: https://www.scoop.co.nz/stories/PA0109/S00073/injury-prevention-rehab-bill-2nd-reading.htm
+title: Injury Prevention & Rehab Bill 2nd Reading
+date: 2001-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00073/injury-prevention-rehab-bill-2nd-reading.htm
 author: green-party
+permalink: /archive/2001/09/06/injury-prevention-/index.html
+layout: layout.njk
 ---
 Injury Prevention & Rehab Bill 2nd Reading
 ==========================================

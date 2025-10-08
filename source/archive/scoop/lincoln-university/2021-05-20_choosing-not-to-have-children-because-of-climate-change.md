@@ -1,9 +1,13 @@
 ---
 slug: choosing-not-to-have-children-because-of-climate-change
-title: "Choosing Not To Have Children Because Of Climate Change"
-date: 2021-05-20
-source-url: https://www.scoop.co.nz/stories/ED2105/S00039/choosing-not-to-have-children-because-of-climate-change.htm
+title: Choosing Not To Have Children Because Of Climate Change
+date: 2021-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00039/choosing-not-to-have-children-because-of-climate-change.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/05/20/choosing-not-to-have-children-because-of-climate-change/index.html
+layout: layout.njk
 ---
 Choosing Not To Have Children Because Of Climate Change
 =======================================================

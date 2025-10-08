@@ -1,9 +1,13 @@
 ---
 slug: cutting-financial-advice-for-students-doesnt-add-up
-title: "Cutting financial advice for students doesn’t add up"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/PA1509/S00165/cutting-financial-advice-for-students-doesnt-add-up.htm
+title: Cutting financial advice for students doesn’t add up
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00165/cutting-financial-advice-for-students-doesnt-add-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/09/cutting-financial-advice-for-students-doesnt-add-up/index.html
+layout: layout.njk
 ---
 Cutting financial advice for students doesn’t add up
 ====================================================

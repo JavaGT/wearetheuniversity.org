@@ -1,9 +1,13 @@
 ---
 slug: canterbury-wins-the-new-university-challenge-tv-series
-title: "Canterbury wins the new University Challenge TV series"
-date: 2015-04-05
-source-url: https://www.scoop.co.nz/stories/ED1504/S00015/canterbury-wins-the-new-university-challenge-tv-series.htm
+title: Canterbury wins the new University Challenge TV series
+date: 2015-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00015/canterbury-wins-the-new-university-challenge-tv-series.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/05/canterbury-wins-the-new-university-challenge-tv-series/index.html
+layout: layout.njk
 ---
 Canterbury wins the new University Challenge TV series
 ======================================================

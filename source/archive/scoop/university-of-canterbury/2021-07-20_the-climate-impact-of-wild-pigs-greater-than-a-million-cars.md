@@ -1,9 +1,13 @@
 ---
 slug: the-climate-impact-of-wild-pigs-greater-than-a-million-cars
-title: "The Climate Impact Of Wild Pigs Greater Than A Million Cars"
-date: 2021-07-20
-source-url: https://www.scoop.co.nz/stories/SC2107/S00050/the-climate-impact-of-wild-pigs-greater-than-a-million-cars.htm
+title: The Climate Impact Of Wild Pigs Greater Than A Million Cars
+date: 2021-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00050/the-climate-impact-of-wild-pigs-greater-than-a-million-cars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/20/the-climate-impact-of-wild-pigs-greater-than-a-million-cars/index.html
+layout: layout.njk
 ---
 The Climate Impact Of Wild Pigs Greater Than A Million Cars
 ===========================================================

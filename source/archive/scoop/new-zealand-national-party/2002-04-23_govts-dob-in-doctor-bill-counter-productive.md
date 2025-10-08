@@ -1,9 +1,12 @@
 ---
 slug: govts-dob-in-doctor-bill-counter-productive
-title: "Govt's Dob-In Doctor Bill Counter Productive"
-date: 2002-04-23
-source-url: https://www.scoop.co.nz/stories/PA0204/S00345/govts-dob-in-doctor-bill-counter-productive.htm
+title: Govt's Dob-In Doctor Bill Counter Productive
+date: 2002-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00345/govts-dob-in-doctor-bill-counter-productive.htm
 author: new-zealand-national-party
+permalink: /archive/2002/04/23/govts-dob-in-doctor-bill-counter-productive/index.html
+layout: layout.njk
 ---
 Govt's Dob-In Doctor Bill Counter Productive
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-strikes-another-blow-against-quality-public-education
-title: "Govt strikes another blow against quality public education"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/ED1309/S00017/govt-strikes-another-blow-against-quality-public-education.htm
+title: Govt strikes another blow against quality public education
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00017/govt-strikes-another-blow-against-quality-public-education.htm
 author: nzei
+permalink: >-
+  /archive/2013/09/03/govt-strikes-another-blow-against-quality-public-education/index.html
+layout: layout.njk
 ---
 Govt strikes another blow against quality public education
 ==========================================================

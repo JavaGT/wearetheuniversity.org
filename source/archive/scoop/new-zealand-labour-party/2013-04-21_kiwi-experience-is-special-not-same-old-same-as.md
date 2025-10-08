@@ -1,9 +1,12 @@
 ---
 slug: kiwi-experience-is-special-not-same-old-same-as
-title: "Kiwi experience is special, not same old, same as"
-date: 2013-04-21
-source-url: https://www.scoop.co.nz/stories/PA1304/S00425/kiwi-experience-is-special-not-same-old-same-as.htm
+title: Kiwi experience is special, not same old, same as
+date: 2013-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00425/kiwi-experience-is-special-not-same-old-same-as.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/21/kiwi-experience-is-special-not-same-old-same-as/index.html
+layout: layout.njk
 ---
 Kiwi experience is special, not same old, same as
 =================================================

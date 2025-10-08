@@ -1,9 +1,13 @@
 ---
 slug: advocate-for-transparency-receives-honorary-award
-title: "Advocate for transparency receives honorary award"
-date: 2006-12-19
-source-url: https://www.scoop.co.nz/stories/ED0612/S00060/advocate-for-transparency-receives-honorary-award.htm
+title: Advocate for transparency receives honorary award
+date: 2006-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00060/advocate-for-transparency-receives-honorary-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2006/12/19/advocate-for-transparency-receives-honorary-award/index.html
+layout: layout.njk
 ---
 Advocate for transparency receives honorary award
 =================================================

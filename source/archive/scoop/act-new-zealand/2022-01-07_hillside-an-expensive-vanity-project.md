@@ -1,9 +1,12 @@
 ---
 slug: hillside-an-expensive-vanity-project
-title: "Hillside An Expensive Vanity Project"
-date: 2022-01-07
-source-url: https://www.scoop.co.nz/stories/PA2201/S00015/hillside-an-expensive-vanity-project.htm
+title: Hillside An Expensive Vanity Project
+date: 2022-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00015/hillside-an-expensive-vanity-project.htm
 author: act-new-zealand
+permalink: /archive/2022/01/07/hillside-an-expensive-vanity-project/index.html
+layout: layout.njk
 ---
 Hillside An Expensive Vanity Project
 ====================================

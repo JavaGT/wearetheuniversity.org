@@ -1,9 +1,13 @@
 ---
 slug: more-needed-to-back-up-no-interest-while-studying
-title: "More Needed To Back Up No Interest While Studying"
-date: 2003-09-26
-source-url: https://www.scoop.co.nz/stories/ED0309/S00125/more-needed-to-back-up-no-interest-while-studying.htm
+title: More Needed To Back Up No Interest While Studying
+date: 2003-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00125/more-needed-to-back-up-no-interest-while-studying.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2003/09/26/more-needed-to-back-up-no-interest-while-studying/index.html
+layout: layout.njk
 ---
 More Needed To Back Up No Interest While Studying
 =================================================

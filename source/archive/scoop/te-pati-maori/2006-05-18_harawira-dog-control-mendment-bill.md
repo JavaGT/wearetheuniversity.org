@@ -1,9 +1,12 @@
 ---
 slug: harawira-dog-control-mendment-bill
-title: "Harawira: Dog Control mendment Bill"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/PA0605/S00395/harawira-dog-control-mendment-bill.htm
+title: 'Harawira: Dog Control mendment Bill'
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00395/harawira-dog-control-mendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/05/18/harawira-dog-control-mendment-bill/index.html
+layout: layout.njk
 ---
 Harawira: Dog Control mendment Bill
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: record-53676-kiwis-fled-to-aussie-in-2012
-title: "Record 53,676 Kiwis fled to Aussie in 2012"
-date: 2013-02-01
-source-url: https://www.scoop.co.nz/stories/PA1302/S00010/record-53676-kiwis-fled-to-aussie-in-2012.htm
+title: Record 53,676 Kiwis fled to Aussie in 2012
+date: 2013-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00010/record-53676-kiwis-fled-to-aussie-in-2012.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/01/record-53676-kiwis-fled-to-aussie-in-2012/index.html
+layout: layout.njk
 ---
 Record 53,676 Kiwis fled to Aussie in 2012
 ==========================================

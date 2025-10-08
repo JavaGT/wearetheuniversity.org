@@ -1,9 +1,12 @@
 ---
 slug: local-elections-(single-transferable-vote-option)
-title: "Local Elections (Single Transferable Vote Option)"
-date: 2000-07-06
-source-url: https://www.scoop.co.nz/stories/PA0007/S00071/local-elections-single-transferable-vote-option.htm
+title: Local Elections (Single Transferable Vote Option)
+date: 2000-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00071/local-elections-single-transferable-vote-option.htm
 author: green-party
+permalink: /archive/2000/07/06/local-elections-/index.html
+layout: layout.njk
 ---
 Local Elections (Single Transferable Vote Option)
 =================================================

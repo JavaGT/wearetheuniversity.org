@@ -1,9 +1,13 @@
 ---
 slug: waikato-bay-of-plenty-soils-meeting-proves-a-hit
-title: "Waikato-Bay of Plenty Soils meeting proves a hit"
-date: 2013-11-29
-source-url: https://www.scoop.co.nz/stories/SC1311/S00098/waikato-bay-of-plenty-soils-meeting-proves-a-hit.htm
+title: Waikato-Bay of Plenty Soils meeting proves a hit
+date: 2013-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00098/waikato-bay-of-plenty-soils-meeting-proves-a-hit.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/11/29/waikato-bay-of-plenty-soils-meeting-proves-a-hit/index.html
+layout: layout.njk
 ---
 Waikato-Bay of Plenty Soils meeting proves a hit
 ================================================

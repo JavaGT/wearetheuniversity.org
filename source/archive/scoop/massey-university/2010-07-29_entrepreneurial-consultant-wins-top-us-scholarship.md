@@ -1,9 +1,13 @@
 ---
 slug: entrepreneurial-consultant-wins-top-us-scholarship
-title: "Entrepreneurial consultant wins top US scholarship"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/ED1007/S00107/entrepreneurial-consultant-wins-top-us-scholarship.htm
+title: Entrepreneurial consultant wins top US scholarship
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00107/entrepreneurial-consultant-wins-top-us-scholarship.htm
 author: massey-university
+permalink: >-
+  /archive/2010/07/29/entrepreneurial-consultant-wins-top-us-scholarship/index.html
+layout: layout.njk
 ---
 Entrepreneurial consultant wins top US scholarship
 ==================================================

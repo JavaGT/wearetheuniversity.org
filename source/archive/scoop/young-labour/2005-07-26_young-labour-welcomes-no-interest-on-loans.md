@@ -1,9 +1,12 @@
 ---
 slug: young-labour-welcomes-no-interest-on-loans
-title: "Young Labour Welcomes No Interest On Loans"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PO0507/S00283/young-labour-welcomes-no-interest-on-loans.htm
+title: Young Labour Welcomes No Interest On Loans
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00283/young-labour-welcomes-no-interest-on-loans.htm
 author: young-labour
+permalink: /archive/2005/07/26/young-labour-welcomes-no-interest-on-loans/index.html
+layout: layout.njk
 ---
 Young Labour Welcomes No Interest On Loans
 ==========================================

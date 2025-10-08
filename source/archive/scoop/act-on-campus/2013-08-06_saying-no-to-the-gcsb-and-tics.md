@@ -1,9 +1,12 @@
 ---
 slug: saying-no-to-the-gcsb-and-tics
-title: "Saying No to the GCSB and TICS"
-date: 2013-08-06
-source-url: https://www.scoop.co.nz/stories/PO1308/S00061/saying-no-to-the-gcsb-and-tics.htm
+title: Saying No to the GCSB and TICS
+date: 2013-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00061/saying-no-to-the-gcsb-and-tics.htm
 author: act-on-campus
+permalink: /archive/2013/08/06/saying-no-to-the-gcsb-and-tics/index.html
+layout: layout.njk
 ---
 Saying No to the GCSB and TICS
 ==============================

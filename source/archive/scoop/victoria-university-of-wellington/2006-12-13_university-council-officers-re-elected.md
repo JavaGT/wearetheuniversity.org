@@ -1,9 +1,12 @@
 ---
 slug: university-council-officers-re-elected
-title: "University Council officers re-elected"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/ED0612/S00041/university-council-officers-re-elected.htm
+title: University Council officers re-elected
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00041/university-council-officers-re-elected.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/12/13/university-council-officers-re-elected/index.html
+layout: layout.njk
 ---
 University Council officers re-elected
 ======================================

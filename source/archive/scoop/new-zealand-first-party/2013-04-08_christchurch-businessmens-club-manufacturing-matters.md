@@ -1,9 +1,13 @@
 ---
 slug: christchurch-businessmens-club-manufacturing-matters
-title: "Christchurch Businessmen’s Club: Manufacturing Matters"
-date: 2013-04-08
-source-url: https://www.scoop.co.nz/stories/PA1304/S00100/christchurch-businessmens-club-manufacturing-matters.htm
+title: 'Christchurch Businessmen’s Club: Manufacturing Matters'
+date: 2013-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00100/christchurch-businessmens-club-manufacturing-matters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/04/08/christchurch-businessmens-club-manufacturing-matters/index.html
+layout: layout.njk
 ---
 Christchurch Businessmen’s Club: Manufacturing Matters
 ======================================================

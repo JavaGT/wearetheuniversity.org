@@ -1,9 +1,12 @@
 ---
 slug: waikato-music-students-have-the-winning-sound
-title: "Waikato Music Students Have the Winning Sound"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00044/waikato-music-students-have-the-winning-sound.htm
+title: Waikato Music Students Have the Winning Sound
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00044/waikato-music-students-have-the-winning-sound.htm
 author: waikato-university
+permalink: /archive/2015/08/12/waikato-music-students-have-the-winning-sound/index.html
+layout: layout.njk
 ---
 Waikato Music Students Have the Winning Sound
 =============================================

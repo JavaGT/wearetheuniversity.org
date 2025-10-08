@@ -1,9 +1,13 @@
 ---
 slug: another-week-still-no-costings-on-labour-promises
-title: "Another week: still no costings on Labour promises"
-date: 2008-10-24
-source-url: https://www.scoop.co.nz/stories/PA0810/S00577/another-week-still-no-costings-on-labour-promises.htm
+title: 'Another week: still no costings on Labour promises'
+date: 2008-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00577/another-week-still-no-costings-on-labour-promises.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/10/24/another-week-still-no-costings-on-labour-promises/index.html
+layout: layout.njk
 ---
 Another week: still no costings on Labour promises
 ==================================================

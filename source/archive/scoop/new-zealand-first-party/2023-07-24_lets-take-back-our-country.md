@@ -1,9 +1,11 @@
 ---
 slug: lets-take-back-our-country
-title: "'Let’s Take Back Our Country'"
-date: 2023-07-24
+title: '''Let’s Take Back Our Country'''
+date: 2023-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2307/S00158/lets-take-back-our-country.htm
 author: new-zealand-first-party
+permalink: /archive/2023/07/24/lets-take-back-our-country/index.html
+layout: layout.njk
 ---
 'Let’s Take Back Our Country'
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: tec-needs-to-spell-out-scam-probe
-title: "TEC needs to spell out scam probe"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00247/tec-needs-to-spell-out-scam-probe.htm
+title: TEC needs to spell out scam probe
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00247/tec-needs-to-spell-out-scam-probe.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/10/tec-needs-to-spell-out-scam-probe/index.html
+layout: layout.njk
 ---
 TEC needs to spell out scam probe
 =================================

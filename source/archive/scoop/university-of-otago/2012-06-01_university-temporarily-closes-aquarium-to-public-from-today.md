@@ -1,9 +1,13 @@
 ---
 slug: university-temporarily-closes-aquarium-to-public-from-today
-title: "University temporarily closes Aquarium to public from today"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/AK1206/S00027/university-temporarily-closes-aquarium-to-public-from-today.htm
+title: University temporarily closes Aquarium to public from today
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1206/S00027/university-temporarily-closes-aquarium-to-public-from-today.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/01/university-temporarily-closes-aquarium-to-public-from-today/index.html
+layout: layout.njk
 ---
 University temporarily closes Aquarium to public from today
 ===========================================================

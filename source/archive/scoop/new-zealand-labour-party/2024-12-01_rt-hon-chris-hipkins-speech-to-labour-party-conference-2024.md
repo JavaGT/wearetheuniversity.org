@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-chris-hipkins-speech-to-labour-party-conference-2024
-title: "Rt Hon Chris Hipkins' Speech To Labour Party Conference 2024"
-date: 2024-12-01
-source-url: https://www.scoop.co.nz/stories/PA2412/S00010/rt-hon-chris-hipkins-speech-to-labour-party-conference-2024.htm
+title: Rt Hon Chris Hipkins' Speech To Labour Party Conference 2024
+date: 2024-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00010/rt-hon-chris-hipkins-speech-to-labour-party-conference-2024.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/12/01/rt-hon-chris-hipkins-speech-to-labour-party-conference-2024/index.html
+layout: layout.njk
 ---
 Rt Hon Chris Hipkins' Speech To Labour Party Conference 2024
 ============================================================

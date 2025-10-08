@@ -1,9 +1,12 @@
 ---
 slug: fumes-tests-needed-for-auckland-schools-at-risk
-title: "Fumes tests needed for Auckland schools at risk"
-date: 2007-09-24
-source-url: https://www.scoop.co.nz/stories/PA0709/S00418/fumes-tests-needed-for-auckland-schools-at-risk.htm
+title: Fumes tests needed for Auckland schools at risk
+date: 2007-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00418/fumes-tests-needed-for-auckland-schools-at-risk.htm
 author: green-party
+permalink: /archive/2007/09/24/fumes-tests-needed-for-auckland-schools-at-risk/index.html
+layout: layout.njk
 ---
 Fumes tests needed for Auckland schools at risk
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: record-student-debt-under-labour
-title: "Record Student Debt Under Labour"
-date: 2003-02-19
-source-url: https://www.scoop.co.nz/stories/PA0302/S00355/record-student-debt-under-labour.htm
+title: Record Student Debt Under Labour
+date: 2003-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00355/record-student-debt-under-labour.htm
 author: act-new-zealand
+permalink: /archive/2003/02/19/record-student-debt-under-labour/index.html
+layout: layout.njk
 ---
 Record Student Debt Under Labour
 ================================

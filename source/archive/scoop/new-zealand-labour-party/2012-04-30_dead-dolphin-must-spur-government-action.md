@@ -1,9 +1,12 @@
 ---
 slug: dead-dolphin-must-spur-government-action
-title: "Dead dolphin must spur government action"
-date: 2012-04-30
-source-url: https://www.scoop.co.nz/stories/PA1204/S00365/dead-dolphin-must-spur-government-action.htm
+title: Dead dolphin must spur government action
+date: 2012-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00365/dead-dolphin-must-spur-government-action.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/30/dead-dolphin-must-spur-government-action/index.html
+layout: layout.njk
 ---
 Dead dolphin must spur government action
 ========================================

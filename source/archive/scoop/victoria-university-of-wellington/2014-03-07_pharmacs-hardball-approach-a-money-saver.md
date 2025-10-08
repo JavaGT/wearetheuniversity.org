@@ -1,9 +1,12 @@
 ---
 slug: pharmacs-hardball-approach-a-money-saver
-title: "PHARMAC’s \"hardball\" approach a money saver"
-date: 2014-03-07
-source-url: https://www.scoop.co.nz/stories/ED1403/S00042/pharmacs-hardball-approach-a-money-saver.htm
+title: PHARMAC’s "hardball" approach a money saver
+date: 2014-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00042/pharmacs-hardball-approach-a-money-saver.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/07/pharmacs-hardball-approach-a-money-saver/index.html
+layout: layout.njk
 ---
 PHARMAC’s “hardball” approach a money saver
 ===========================================

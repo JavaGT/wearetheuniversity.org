@@ -1,9 +1,12 @@
 ---
 slug: govt-likely-to-reject-green-youth-initiatives
-title: "Govt. likely to reject Green youth initiatives"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/PA0102/S00302/govt-likely-to-reject-green-youth-initiatives.htm
+title: Govt. likely to reject Green youth initiatives
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00302/govt-likely-to-reject-green-youth-initiatives.htm
 author: green-party
+permalink: /archive/2001/02/20/govt-likely-to-reject-green-youth-initiatives/index.html
+layout: layout.njk
 ---
 Govt. likely to reject Green youth initiatives
 ==============================================

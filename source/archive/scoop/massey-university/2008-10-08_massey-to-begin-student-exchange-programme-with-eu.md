@@ -1,9 +1,13 @@
 ---
 slug: massey-to-begin-student-exchange-programme-with-eu
-title: "Massey to begin student exchange programme with EU"
-date: 2008-10-08
-source-url: https://www.scoop.co.nz/stories/ED0810/S00026/massey-to-begin-student-exchange-programme-with-eu.htm
+title: Massey to begin student exchange programme with EU
+date: 2008-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00026/massey-to-begin-student-exchange-programme-with-eu.htm
 author: massey-university
+permalink: >-
+  /archive/2008/10/08/massey-to-begin-student-exchange-programme-with-eu/index.html
+layout: layout.njk
 ---
 Massey to begin student exchange programme with EU
 ==================================================

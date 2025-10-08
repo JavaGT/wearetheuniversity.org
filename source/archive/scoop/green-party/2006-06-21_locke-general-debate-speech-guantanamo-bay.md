@@ -1,9 +1,12 @@
 ---
 slug: locke-general-debate-speech-guantanamo-bay
-title: "Locke General Debate Speech: Guantanamo Bay"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/PA0606/S00401/locke-general-debate-speech-guantanamo-bay.htm
+title: 'Locke General Debate Speech: Guantanamo Bay'
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00401/locke-general-debate-speech-guantanamo-bay.htm
 author: green-party
+permalink: /archive/2006/06/21/locke-general-debate-speech-guantanamo-bay/index.html
+layout: layout.njk
 ---
 Locke General Debate Speech: Guantanamo Bay
 ===========================================

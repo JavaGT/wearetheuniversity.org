@@ -1,9 +1,13 @@
 ---
 slug: aste-members-at-cpit-to-take-further-strike-action
-title: "ASTE Members at CPIT to take further Strike Action"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/ED0508/S00007/aste-members-at-cpit-to-take-further-strike-action.htm
+title: ASTE Members at CPIT to take further Strike Action
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00007/aste-members-at-cpit-to-take-further-strike-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: >-
+  /archive/2005/08/01/aste-members-at-cpit-to-take-further-strike-action/index.html
+layout: layout.njk
 ---
 ASTE Members at CPIT to take further Strike Action
 ==================================================

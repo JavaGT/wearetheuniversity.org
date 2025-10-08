@@ -1,9 +1,12 @@
 ---
 slug: schools-must-stop-side-stepping-maori-topics
-title: "Schools must stop \"side stepping\" Maori topics"
-date: 2010-06-03
-source-url: https://www.scoop.co.nz/stories/PA1006/S00068/schools-must-stop-side-stepping-maori-topics.htm
+title: Schools must stop "side stepping" Maori topics
+date: 2010-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00068/schools-must-stop-side-stepping-maori-topics.htm
 author: te-pati-maori
+permalink: /archive/2010/06/03/schools-must-stop-side-stepping-maori-topics/index.html
+layout: layout.njk
 ---
 Schools must stop “side stepping” Maori topics
 ==============================================

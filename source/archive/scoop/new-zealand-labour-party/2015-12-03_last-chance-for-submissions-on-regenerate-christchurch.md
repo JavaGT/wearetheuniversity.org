@@ -1,9 +1,13 @@
 ---
 slug: last-chance-for-submissions-on-regenerate-christchurch
-title: "Last chance for submissions on Regenerate Christchurch"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/PA1512/S00080/last-chance-for-submissions-on-regenerate-christchurch.htm
+title: Last chance for submissions on Regenerate Christchurch
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00080/last-chance-for-submissions-on-regenerate-christchurch.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/03/last-chance-for-submissions-on-regenerate-christchurch/index.html
+layout: layout.njk
 ---
 Last chance for submissions on Regenerate Christchurch
 ======================================================

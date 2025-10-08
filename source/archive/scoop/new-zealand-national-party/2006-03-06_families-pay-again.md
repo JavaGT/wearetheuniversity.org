@@ -1,9 +1,11 @@
 ---
 slug: families-pay-again
-title: "Families pay.  Again"
-date: 2006-03-06
+title: Families pay.  Again
+date: 2006-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00080/families-pay-again.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/06/families-pay-again/index.html
+layout: layout.njk
 ---
 Families pay. Again
 ===================

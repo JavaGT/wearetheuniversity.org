@@ -1,9 +1,12 @@
 ---
 slug: mothers-gift-fuel;s-lifelong-passion
-title: "Mother's Gift Fuel;s Lifelong Passion"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/BU0809/S00258/mothers-gift-fuels-lifelong-passion.htm
+title: Mother's Gift Fuel;s Lifelong Passion
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0809/S00258/mothers-gift-fuels-lifelong-passion.htm
 author: auckland-university-press
+permalink: /archive/2008/09/12/mothers-gift-fuel/index.html
+layout: layout.njk
 ---
 Mother's Gift Fuel;s Lifelong Passion
 =====================================

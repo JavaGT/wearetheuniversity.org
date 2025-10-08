@@ -1,9 +1,12 @@
 ---
 slug: national-backs-second-language-debate
-title: "National backs second language debate"
-date: 2003-06-17
-source-url: https://www.scoop.co.nz/stories/PA0306/S00290/national-backs-second-language-debate.htm
+title: National backs second language debate
+date: 2003-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00290/national-backs-second-language-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/17/national-backs-second-language-debate/index.html
+layout: layout.njk
 ---
 National backs second language debate
 =====================================

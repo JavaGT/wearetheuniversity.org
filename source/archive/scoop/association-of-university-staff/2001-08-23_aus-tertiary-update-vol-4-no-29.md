@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-29
-title: "AUS Tertiary Update  Vol 4 No 29"
-date: 2001-08-23
-source-url: https://www.scoop.co.nz/stories/ED0108/S00055/aus-tertiary-update-vol-4-no-29.htm
+title: AUS Tertiary Update  Vol 4 No 29
+date: 2001-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00055/aus-tertiary-update-vol-4-no-29.htm
 author: association-of-university-staff
+permalink: /archive/2001/08/23/aus-tertiary-update-vol-4-no-29/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 4 No 29
 ===============================

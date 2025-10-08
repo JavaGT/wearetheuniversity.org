@@ -1,9 +1,13 @@
 ---
 slug: high-quality-health-services-a-priority-for-national
-title: "High quality health services a priority for National"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/PA1409/S00077/high-quality-health-services-a-priority-for-national.htm
+title: High quality health services a priority for National
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00077/high-quality-health-services-a-priority-for-national.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/09/04/high-quality-health-services-a-priority-for-national/index.html
+layout: layout.njk
 ---
 High quality health services a priority for National
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: teaching-excellence-award-for-victorias-dean-of-engineering
-title: "Teaching excellence award for Victoria’s Dean of Engineering"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00043/teaching-excellence-award-for-victorias-dean-of-engineering.htm
+title: Teaching excellence award for Victoria’s Dean of Engineering
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00043/teaching-excellence-award-for-victorias-dean-of-engineering.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/08/12/teaching-excellence-award-for-victorias-dean-of-engineering/index.html
+layout: layout.njk
 ---
 Teaching excellence award for Victoria’s Dean of Engineering
 ============================================================

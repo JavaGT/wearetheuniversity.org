@@ -1,9 +1,12 @@
 ---
 slug: aut-university-vc-derek-mccormack-reappointed
-title: "AUT University VC Derek McCormack Reappointed"
-date: 2006-07-03
-source-url: https://www.scoop.co.nz/stories/ED0607/S00004/aut-university-vc-derek-mccormack-reappointed.htm
+title: AUT University VC Derek McCormack Reappointed
+date: 2006-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00004/aut-university-vc-derek-mccormack-reappointed.htm
 author: aut-university
+permalink: /archive/2006/07/03/aut-university-vc-derek-mccormack-reappointed/index.html
+layout: layout.njk
 ---
 AUT University VC Derek McCormack Reappointed
 =============================================

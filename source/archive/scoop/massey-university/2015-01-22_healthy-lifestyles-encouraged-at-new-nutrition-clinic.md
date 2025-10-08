@@ -1,9 +1,13 @@
 ---
 slug: healthy-lifestyles-encouraged-at-new-nutrition-clinic
-title: "Healthy lifestyles encouraged at new nutrition clinic"
-date: 2015-01-22
-source-url: https://www.scoop.co.nz/stories/ED1501/S00062/healthy-lifestyles-encouraged-at-new-nutrition-clinic.htm
+title: Healthy lifestyles encouraged at new nutrition clinic
+date: 2015-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00062/healthy-lifestyles-encouraged-at-new-nutrition-clinic.htm
 author: massey-university
+permalink: >-
+  /archive/2015/01/22/healthy-lifestyles-encouraged-at-new-nutrition-clinic/index.html
+layout: layout.njk
 ---
 Healthy lifestyles encouraged at new nutrition clinic
 =====================================================

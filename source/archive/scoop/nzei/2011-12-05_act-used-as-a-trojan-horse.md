@@ -1,9 +1,11 @@
 ---
 slug: act-used-as-a-trojan-horse
-title: "ACT used as a Trojan horse"
-date: 2011-12-05
+title: ACT used as a Trojan horse
+date: 2011-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1112/S00047/act-used-as-a-trojan-horse.htm
 author: nzei
+permalink: /archive/2011/12/05/act-used-as-a-trojan-horse/index.html
+layout: layout.njk
 ---
 ACT used as a Trojan horse
 ==========================

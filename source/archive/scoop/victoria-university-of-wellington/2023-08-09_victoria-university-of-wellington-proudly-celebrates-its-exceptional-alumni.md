@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-of-wellington-proudly-celebrates-its-exceptional-alumni
-title: "Victoria University Of Wellington Proudly Celebrates Its Exceptional Alumni"
-date: 2023-08-09
-source-url: https://www.scoop.co.nz/stories/ED2308/S00016/victoria-university-of-wellington-proudly-celebrates-its-exceptional-alumni.htm
+title: Victoria University Of Wellington Proudly Celebrates Its Exceptional Alumni
+date: 2023-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2308/S00016/victoria-university-of-wellington-proudly-celebrates-its-exceptional-alumni.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/08/09/victoria-university-of-wellington-proudly-celebrates-its-exceptional-alumni/index.html
+layout: layout.njk
 ---
 Victoria University Of Wellington Proudly Celebrates Its Exceptional Alumni
 ===========================================================================

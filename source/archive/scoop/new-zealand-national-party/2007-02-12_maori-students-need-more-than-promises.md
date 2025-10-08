@@ -1,9 +1,12 @@
 ---
 slug: maori-students-need-more-than-promises
-title: "Maori students need more than promises"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/PA0702/S00173/maori-students-need-more-than-promises.htm
+title: Maori students need more than promises
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00173/maori-students-need-more-than-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/12/maori-students-need-more-than-promises/index.html
+layout: layout.njk
 ---
 Maori students need more than promises
 ======================================

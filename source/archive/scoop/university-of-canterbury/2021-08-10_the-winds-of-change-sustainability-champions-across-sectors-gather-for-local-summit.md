@@ -1,9 +1,16 @@
 ---
-slug: the-winds-of-change-sustainability-champions-across-sectors-gather-for-local-summit
-title: "The Winds Of Change: Sustainability Champions Across Sectors Gather For Local Summit"
-date: 2021-08-10
-source-url: https://www.scoop.co.nz/stories/ED2108/S00014/the-winds-of-change-sustainability-champions-across-sectors-gather-for-local-summit.htm
+slug: >-
+  the-winds-of-change-sustainability-champions-across-sectors-gather-for-local-summit
+title: >-
+  The Winds Of Change: Sustainability Champions Across Sectors Gather For Local
+  Summit
+date: 2021-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00014/the-winds-of-change-sustainability-champions-across-sectors-gather-for-local-summit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/08/10/the-winds-of-change-sustainability-champions-across-sectors-gather-for-local-summit/index.html
+layout: layout.njk
 ---
 The Winds Of Change: Sustainability Champions Across Sectors Gather For Local Summit
 ====================================================================================

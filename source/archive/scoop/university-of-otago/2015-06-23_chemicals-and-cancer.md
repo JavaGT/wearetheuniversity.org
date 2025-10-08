@@ -1,9 +1,11 @@
 ---
 slug: chemicals-and-cancer
-title: "Chemicals and cancer"
-date: 2015-06-23
+title: Chemicals and cancer
+date: 2015-06-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1506/S00092/chemicals-and-cancer.htm
 author: university-of-otago
+permalink: /archive/2015/06/23/chemicals-and-cancer/index.html
+layout: layout.njk
 ---
 Chemicals and cancer
 ====================

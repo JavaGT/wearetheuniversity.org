@@ -1,9 +1,13 @@
 ---
 slug: closing-gap-with-australia-how-about-loans-and-allowances
-title: "Closing Gap With Australia: How about Loans and Allowances?"
-date: 2012-04-30
-source-url: https://www.scoop.co.nz/stories/PO1204/S00348/closing-gap-with-australia-how-about-loans-and-allowances.htm
+title: 'Closing Gap With Australia: How about Loans and Allowances?'
+date: 2012-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1204/S00348/closing-gap-with-australia-how-about-loans-and-allowances.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/04/30/closing-gap-with-australia-how-about-loans-and-allowances/index.html
+layout: layout.njk
 ---
 Closing Gap With Australia: How about Loans and Allowances?
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: cash-rate-will-push-fixed-mortgage-fees-higher
-title: "Cash rate will push fixed mortgage fees higher"
-date: 2009-01-29
-source-url: https://www.scoop.co.nz/stories/ED0901/S00041/cash-rate-will-push-fixed-mortgage-fees-higher.htm
+title: Cash rate will push fixed mortgage fees higher
+date: 2009-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00041/cash-rate-will-push-fixed-mortgage-fees-higher.htm
 author: massey-university
+permalink: /archive/2009/01/29/cash-rate-will-push-fixed-mortgage-fees-higher/index.html
+layout: layout.njk
 ---
 Cash rate will push fixed mortgage fees higher
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: cross-party-meeting-to-collaborate-on-autism
-title: "Cross-party meeting to collaborate on autism"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/PA1108/S00350/cross-party-meeting-to-collaborate-on-autism.htm
+title: Cross-party meeting to collaborate on autism
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00350/cross-party-meeting-to-collaborate-on-autism.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/17/cross-party-meeting-to-collaborate-on-autism/index.html
+layout: layout.njk
 ---
 Cross-party meeting to collaborate on autism
 ============================================

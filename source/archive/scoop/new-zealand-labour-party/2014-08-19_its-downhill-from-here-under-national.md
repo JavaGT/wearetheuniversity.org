@@ -1,9 +1,12 @@
 ---
 slug: its-downhill-from-here-under-national
-title: "It’s downhill from here under National"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/PA1408/S00289/its-downhill-from-here-under-national.htm
+title: It’s downhill from here under National
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00289/its-downhill-from-here-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/19/its-downhill-from-here-under-national/index.html
+layout: layout.njk
 ---
 It’s downhill from here under National
 ======================================

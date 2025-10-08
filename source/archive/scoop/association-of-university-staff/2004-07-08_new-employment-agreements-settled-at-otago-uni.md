@@ -1,9 +1,12 @@
 ---
 slug: new-employment-agreements-settled-at-otago-uni
-title: "New employment agreements settled at Otago Uni"
-date: 2004-07-08
-source-url: https://www.scoop.co.nz/stories/ED0407/S00025/new-employment-agreements-settled-at-otago-uni.htm
+title: New employment agreements settled at Otago Uni
+date: 2004-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00025/new-employment-agreements-settled-at-otago-uni.htm
 author: association-of-university-staff
+permalink: /archive/2004/07/08/new-employment-agreements-settled-at-otago-uni/index.html
+layout: layout.njk
 ---
 New employment agreements settled at Otago Uni
 ==============================================

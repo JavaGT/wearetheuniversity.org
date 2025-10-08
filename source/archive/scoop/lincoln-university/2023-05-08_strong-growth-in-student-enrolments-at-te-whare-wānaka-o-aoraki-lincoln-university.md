@@ -1,9 +1,16 @@
 ---
-slug: strong-growth-in-student-enrolments-at-te-whare-wānaka-o-aoraki-lincoln-university
-title: "Strong Growth In Student Enrolments At Te Whare Wānaka O Aoraki Lincoln University"
-date: 2023-05-08
-source-url: https://www.scoop.co.nz/stories/ED2305/S00010/strong-growth-in-student-enrolments-at-te-whare-wanaka-o-aoraki-lincoln-university.htm
+slug: >-
+  strong-growth-in-student-enrolments-at-te-whare-wānaka-o-aoraki-lincoln-university
+title: >-
+  Strong Growth In Student Enrolments At Te Whare Wānaka O Aoraki Lincoln
+  University
+date: 2023-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2305/S00010/strong-growth-in-student-enrolments-at-te-whare-wanaka-o-aoraki-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2023/05/08/strong-growth-in-student-enrolments-at-te-whare-w/index.html
+layout: layout.njk
 ---
 Strong Growth In Student Enrolments At Te Whare Wānaka O Aoraki Lincoln University
 ==================================================================================

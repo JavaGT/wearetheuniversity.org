@@ -1,9 +1,13 @@
 ---
 slug: christchurch-ministry-needs-sustainability-focus
-title: "Christchurch Ministry needs sustainability focus"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/PA1103/S00399/christchurch-ministry-needs-sustainability-focus.htm
+title: Christchurch Ministry needs sustainability focus
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00399/christchurch-ministry-needs-sustainability-focus.htm
 author: green-party
+permalink: >-
+  /archive/2011/03/24/christchurch-ministry-needs-sustainability-focus/index.html
+layout: layout.njk
 ---
 Christchurch Ministry needs sustainability focus
 ================================================

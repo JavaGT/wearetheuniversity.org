@@ -1,9 +1,12 @@
 ---
 slug: waikato-vice-chancellor-to-step-down-next-year
-title: "Waikato Vice-Chancellor To Step Down Next Year"
-date: 2003-10-17
-source-url: https://www.scoop.co.nz/stories/ED0310/S00072/waikato-vice-chancellor-to-step-down-next-year.htm
+title: Waikato Vice-Chancellor To Step Down Next Year
+date: 2003-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00072/waikato-vice-chancellor-to-step-down-next-year.htm
 author: waikato-university
+permalink: /archive/2003/10/17/waikato-vice-chancellor-to-step-down-next-year/index.html
+layout: layout.njk
 ---
 Waikato Vice-Chancellor To Step Down Next Year
 ==============================================

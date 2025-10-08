@@ -1,9 +1,12 @@
 ---
 slug: major-salary-boost-sought-for-university-staff
-title: "Major salary boost sought for university staff"
-date: 2003-08-31
-source-url: https://www.scoop.co.nz/stories/ED0308/S00103/major-salary-boost-sought-for-university-staff.htm
+title: Major salary boost sought for university staff
+date: 2003-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00103/major-salary-boost-sought-for-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2003/08/31/major-salary-boost-sought-for-university-staff/index.html
+layout: layout.njk
 ---
 Major salary boost sought for university staff
 ==============================================

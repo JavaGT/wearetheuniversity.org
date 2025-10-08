@@ -1,9 +1,12 @@
 ---
 slug: minister-out-of-touch-on-school-donations
-title: "Minister out of touch on school donations"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/PO1407/S00067/minister-out-of-touch-on-school-donations.htm
+title: Minister out of touch on school donations
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00067/minister-out-of-touch-on-school-donations.htm
 author: nzei
+permalink: /archive/2014/07/03/minister-out-of-touch-on-school-donations/index.html
+layout: layout.njk
 ---
 Minister out of touch on school donations
 =========================================

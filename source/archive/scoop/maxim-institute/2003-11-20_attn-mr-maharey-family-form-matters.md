@@ -1,9 +1,12 @@
 ---
 slug: attn-mr-maharey-family-form-matters
-title: "ATTN: Mr Maharey - family form matters"
-date: 2003-11-20
-source-url: https://www.scoop.co.nz/stories/PO0311/S00139/attn-mr-maharey-family-form-matters.htm
+title: 'ATTN: Mr Maharey - family form matters'
+date: 2003-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0311/S00139/attn-mr-maharey-family-form-matters.htm
 author: maxim-institute
+permalink: /archive/2003/11/20/attn-mr-maharey-family-form-matters/index.html
+layout: layout.njk
 ---
 ATTN: Mr Maharey - family form matters
 ======================================

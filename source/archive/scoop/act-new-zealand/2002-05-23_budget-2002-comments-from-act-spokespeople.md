@@ -1,9 +1,12 @@
 ---
 slug: budget-2002-comments-from-act-spokespeople
-title: "Budget 2002: Comments From ACT Spokespeople"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PA0205/S00561/budget-2002-comments-from-act-spokespeople.htm
+title: 'Budget 2002: Comments From ACT Spokespeople'
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00561/budget-2002-comments-from-act-spokespeople.htm
 author: act-new-zealand
+permalink: /archive/2002/05/23/budget-2002-comments-from-act-spokespeople/index.html
+layout: layout.njk
 ---
 Budget 2002: Comments From ACT Spokespeople
 ===========================================

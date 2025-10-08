@@ -1,9 +1,13 @@
 ---
 slug: turning-that-frown-upside-down-with-creative-coding
-title: "Turning that frown upside down with creative coding"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/CU1611/S00253/turning-that-frown-upside-down-with-creative-coding.htm
+title: Turning that frown upside down with creative coding
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1611/S00253/turning-that-frown-upside-down-with-creative-coding.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/11/18/turning-that-frown-upside-down-with-creative-coding/index.html
+layout: layout.njk
 ---
 Turning that frown upside down with creative coding
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-in-rome-while-the-world-trade-centre-burns
-title: "PM In Rome While The World Trade Centre Burns"
-date: 2001-09-14
-source-url: https://www.scoop.co.nz/stories/PA0109/S00223/pm-in-rome-while-the-world-trade-centre-burns.htm
+title: PM In Rome While The World Trade Centre Burns
+date: 2001-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00223/pm-in-rome-while-the-world-trade-centre-burns.htm
 author: act-new-zealand
+permalink: /archive/2001/09/14/pm-in-rome-while-the-world-trade-centre-burns/index.html
+layout: layout.njk
 ---
 PM In Rome While The World Trade Centre Burns
 =============================================

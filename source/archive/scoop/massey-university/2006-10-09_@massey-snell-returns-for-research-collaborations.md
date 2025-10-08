@@ -1,9 +1,13 @@
 ---
 slug: massey-snell-returns-for-research-collaborations
-title: "@Massey: Snell returns for research collaborations"
-date: 2006-10-09
-source-url: https://www.scoop.co.nz/stories/ED0610/S00031/massey-snell-returns-for-research-collaborations.htm
+title: '@Massey: Snell returns for research collaborations'
+date: 2006-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00031/massey-snell-returns-for-research-collaborations.htm
 author: massey-university
+permalink: >-
+  /archive/2006/10/09/massey-snell-returns-for-research-collaborations/index.html
+layout: layout.njk
 ---
 @Massey: Snell returns for research collaborations
 ==================================================

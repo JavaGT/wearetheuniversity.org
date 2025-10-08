@@ -1,9 +1,12 @@
 ---
 slug: wrong-incentives-planned-for-tertiary-education
-title: "Wrong incentives planned for tertiary education"
-date: 2010-03-09
-source-url: https://www.scoop.co.nz/stories/PA1003/S00114/wrong-incentives-planned-for-tertiary-education.htm
+title: Wrong incentives planned for tertiary education
+date: 2010-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00114/wrong-incentives-planned-for-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/09/wrong-incentives-planned-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Wrong incentives planned for tertiary education
 ===============================================

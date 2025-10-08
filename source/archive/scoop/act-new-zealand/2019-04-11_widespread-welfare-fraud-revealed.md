@@ -1,9 +1,12 @@
 ---
 slug: widespread-welfare-fraud-revealed
-title: "Widespread welfare fraud revealed"
-date: 2019-04-11
-source-url: https://www.scoop.co.nz/stories/PA1904/S00112/widespread-welfare-fraud-revealed.htm
+title: Widespread welfare fraud revealed
+date: 2019-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00112/widespread-welfare-fraud-revealed.htm
 author: act-new-zealand
+permalink: /archive/2019/04/11/widespread-welfare-fraud-revealed/index.html
+layout: layout.njk
 ---
 Widespread welfare fraud revealed
 =================================

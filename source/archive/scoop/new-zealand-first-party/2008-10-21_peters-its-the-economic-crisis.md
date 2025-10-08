@@ -1,9 +1,12 @@
 ---
 slug: peters-its-the-economic-crisis
-title: "Peters: It's The Economic Crisis"
-date: 2008-10-21
-source-url: https://www.scoop.co.nz/stories/PA0810/S00468/peters-its-the-economic-crisis.htm
+title: 'Peters: It''s The Economic Crisis'
+date: 2008-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00468/peters-its-the-economic-crisis.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/21/peters-its-the-economic-crisis/index.html
+layout: layout.njk
 ---
 Peters: It's The Economic Crisis
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: students-urge-resolution-of-staff-contract
-title: "Students Urge Resolution Of Staff Contract"
-date: 2002-04-12
-source-url: https://www.scoop.co.nz/stories/ED0204/S00017/students-urge-resolution-of-staff-contract.htm
+title: Students Urge Resolution Of Staff Contract
+date: 2002-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00017/students-urge-resolution-of-staff-contract.htm
 author: victoria-university-students-association
+permalink: /archive/2002/04/12/students-urge-resolution-of-staff-contract/index.html
+layout: layout.njk
 ---
 Students Urge Resolution Of Staff Contract
 ==========================================

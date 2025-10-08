@@ -1,9 +1,13 @@
 ---
 slug: no-waste-strategy-should-extend-beyond-canterbury
-title: "No-waste strategy should extend beyond Canterbury"
-date: 1999-07-02
-source-url: https://www.scoop.co.nz/stories/PA9907/S00043/no-waste-strategy-should-extend-beyond-canterbury.htm
+title: No-waste strategy should extend beyond Canterbury
+date: 1999-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00043/no-waste-strategy-should-extend-beyond-canterbury.htm
 author: green-party
+permalink: >-
+  /archive/1999/07/02/no-waste-strategy-should-extend-beyond-canterbury/index.html
+layout: layout.njk
 ---
 No-waste strategy should extend beyond Canterbury
 =================================================

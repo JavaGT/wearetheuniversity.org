@@ -1,9 +1,12 @@
 ---
 slug: students-pay-for-tax-cuts-for-the-rich
-title: "Students Pay for Tax Cuts for the Rich"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PO1205/S00466/students-pay-for-tax-cuts-for-the-rich.htm
+title: Students Pay for Tax Cuts for the Rich
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00466/students-pay-for-tax-cuts-for-the-rich.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2012/05/28/students-pay-for-tax-cuts-for-the-rich/index.html
+layout: layout.njk
 ---
 Students Pay for Tax Cuts for the Rich
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-to-pm-this-is-our-vietnam
-title: "Fitzsimons to PM: This is our Vietnam"
-date: 2003-02-17
-source-url: https://www.scoop.co.nz/stories/PA0302/S00263/fitzsimons-to-pm-this-is-our-vietnam.htm
+title: 'Fitzsimons to PM: This is our Vietnam'
+date: 2003-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00263/fitzsimons-to-pm-this-is-our-vietnam.htm
 author: green-party
+permalink: /archive/2003/02/17/fitzsimons-to-pm-this-is-our-vietnam/index.html
+layout: layout.njk
 ---
 Fitzsimons to PM: This is our Vietnam
 =====================================

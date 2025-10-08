@@ -1,9 +1,13 @@
 ---
 slug: nz-urged-to-go-the-extra-mile-to-attract-halal-tourists
-title: "NZ urged to go the extra mile to attract halal tourists"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/ED1503/S00080/nz-urged-to-go-the-extra-mile-to-attract-halal-tourists.htm
+title: NZ urged to go the extra mile to attract halal tourists
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00080/nz-urged-to-go-the-extra-mile-to-attract-halal-tourists.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/03/18/nz-urged-to-go-the-extra-mile-to-attract-halal-tourists/index.html
+layout: layout.njk
 ---
 NZ urged to go the extra mile to attract halal tourists
 =======================================================

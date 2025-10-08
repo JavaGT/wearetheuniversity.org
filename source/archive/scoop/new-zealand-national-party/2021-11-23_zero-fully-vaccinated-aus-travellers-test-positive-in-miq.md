@@ -1,9 +1,13 @@
 ---
 slug: zero-fully-vaccinated-aus-travellers-test-positive-in-miq
-title: "Zero Fully Vaccinated Aus Travellers Test Positive In MIQ"
-date: 2021-11-23
-source-url: https://www.scoop.co.nz/stories/PA2111/S00257/zero-fully-vaccinated-aus-travellers-test-positive-in-miq.htm
+title: Zero Fully Vaccinated Aus Travellers Test Positive In MIQ
+date: 2021-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00257/zero-fully-vaccinated-aus-travellers-test-positive-in-miq.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/23/zero-fully-vaccinated-aus-travellers-test-positive-in-miq/index.html
+layout: layout.njk
 ---
 Zero Fully Vaccinated Aus Travellers Test Positive In MIQ
 =========================================================

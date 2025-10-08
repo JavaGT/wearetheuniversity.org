@@ -1,9 +1,12 @@
 ---
 slug: new-zealander-of-the-year-to-headline-kīngitanga-day
-title: "New Zealander of the Year to headline Kīngitanga Day"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/ED1308/S00070/new-zealander-of-the-year-to-headline-kingitanga-day.htm
+title: New Zealander of the Year to headline Kīngitanga Day
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00070/new-zealander-of-the-year-to-headline-kingitanga-day.htm
 author: university-of-waikato
+permalink: /archive/2013/08/15/new-zealander-of-the-year-to-headline-k/index.html
+layout: layout.njk
 ---
 New Zealander of the Year to headline Kīngitanga Day
 ====================================================

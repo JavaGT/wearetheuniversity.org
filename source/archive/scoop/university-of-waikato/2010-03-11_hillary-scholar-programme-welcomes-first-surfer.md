@@ -1,9 +1,12 @@
 ---
 slug: hillary-scholar-programme-welcomes-first-surfer
-title: "Hillary Scholar programme welcomes first surfer"
-date: 2010-03-11
-source-url: https://www.scoop.co.nz/stories/CU1003/S00174/hillary-scholar-programme-welcomes-first-surfer.htm
+title: Hillary Scholar programme welcomes first surfer
+date: 2010-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00174/hillary-scholar-programme-welcomes-first-surfer.htm
 author: university-of-waikato
+permalink: /archive/2010/03/11/hillary-scholar-programme-welcomes-first-surfer/index.html
+layout: layout.njk
 ---
 Hillary Scholar programme welcomes first surfer
 ===============================================

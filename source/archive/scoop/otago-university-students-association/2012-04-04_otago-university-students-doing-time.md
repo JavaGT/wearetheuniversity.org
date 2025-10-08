@@ -1,9 +1,12 @@
 ---
 slug: otago-university-students-doing-time
-title: "Otago University Students Doing Time"
-date: 2012-04-04
-source-url: https://www.scoop.co.nz/stories/ED1204/S00022/otago-university-students-doing-time.htm
+title: Otago University Students Doing Time
+date: 2012-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00022/otago-university-students-doing-time.htm
 author: otago-university-students-association
+permalink: /archive/2012/04/04/otago-university-students-doing-time/index.html
+layout: layout.njk
 ---
 Otago University Students Doing Time
 ====================================

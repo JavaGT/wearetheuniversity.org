@@ -1,9 +1,11 @@
 ---
 slug: understanding-p-addiction
-title: "Understanding ‘P’ addiction"
-date: 2014-05-20
+title: Understanding ‘P’ addiction
+date: 2014-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1405/S00048/understanding-p-addiction.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/20/understanding-p-addiction/index.html
+layout: layout.njk
 ---
 Understanding ‘P’ addiction
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: government-lets-school-water-safety-sink
-title: "Government Lets School Water Safety Sink"
-date: 2015-12-30
-source-url: https://www.scoop.co.nz/stories/PA1512/S00439/government-lets-school-water-safety-sink.htm
+title: Government Lets School Water Safety Sink
+date: 2015-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00439/government-lets-school-water-safety-sink.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/30/government-lets-school-water-safety-sink/index.html
+layout: layout.njk
 ---
 Government Lets School Water Safety Sink
 ========================================

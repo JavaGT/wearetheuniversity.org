@@ -1,9 +1,16 @@
 ---
-slug: info-evening-encourages-more-social-work-students-to-become-sought-after-graduates
-title: "Info Evening Encourages More Social Work Students To Become Sought-After Graduates"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/ED2009/S00061/info-evening-encourages-more-social-work-students-to-become-sought-after-graduates.htm
+slug: >-
+  info-evening-encourages-more-social-work-students-to-become-sought-after-graduates
+title: >-
+  Info Evening Encourages More Social Work Students To Become Sought-After
+  Graduates
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00061/info-evening-encourages-more-social-work-students-to-become-sought-after-graduates.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/09/29/info-evening-encourages-more-social-work-students-to-become-sought-after-graduates/index.html
+layout: layout.njk
 ---
 Info Evening Encourages More Social Work Students To Become Sought-After Graduates
 ==================================================================================

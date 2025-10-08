@@ -1,9 +1,13 @@
 ---
 slug: intl-study-indigenous-women-need-more-help-to-stop-smoking
-title: "Int'l study: indigenous women need more help to stop smoking"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/GE1704/S00063/intl-study-indigenous-women-need-more-help-to-stop-smoking.htm
+title: 'Int''l study: indigenous women need more help to stop smoking'
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1704/S00063/intl-study-indigenous-women-need-more-help-to-stop-smoking.htm
 author: massey-university
+permalink: >-
+  /archive/2017/04/13/intl-study-indigenous-women-need-more-help-to-stop-smoking/index.html
+layout: layout.njk
 ---
 Int'l study: indigenous women need more help to stop smoking
 ============================================================

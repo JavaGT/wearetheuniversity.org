@@ -1,9 +1,13 @@
 ---
 slug: students-encouraged-to-sign-up-for-cyber-challenge
-title: "Students encouraged to sign up for cyber challenge"
-date: 2015-07-14
-source-url: https://www.scoop.co.nz/stories/ED1507/S00065/students-encouraged-to-sign-up-for-cyber-challenge.htm
+title: Students encouraged to sign up for cyber challenge
+date: 2015-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00065/students-encouraged-to-sign-up-for-cyber-challenge.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/07/14/students-encouraged-to-sign-up-for-cyber-challenge/index.html
+layout: layout.njk
 ---
 Students encouraged to sign up for cyber challenge
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-evidence-national-failing-in-housing
-title: "More evidence National failing in housing"
-date: 2017-01-23
-source-url: https://www.scoop.co.nz/stories/PA1701/S00074/more-evidence-national-failing-in-housing.htm
+title: More evidence National failing in housing
+date: 2017-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00074/more-evidence-national-failing-in-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/01/23/more-evidence-national-failing-in-housing/index.html
+layout: layout.njk
 ---
 More evidence National failing in housing
 =========================================

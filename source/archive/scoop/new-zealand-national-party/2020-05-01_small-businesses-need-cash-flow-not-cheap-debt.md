@@ -1,9 +1,12 @@
 ---
 slug: small-businesses-need-cash-flow-not-cheap-debt
-title: "Small Businesses Need Cash Flow Not Cheap Debt"
-date: 2020-05-01
-source-url: https://www.scoop.co.nz/stories/PA2005/S00010/small-businesses-need-cash-flow-not-cheap-debt.htm
+title: Small Businesses Need Cash Flow Not Cheap Debt
+date: 2020-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00010/small-businesses-need-cash-flow-not-cheap-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/01/small-businesses-need-cash-flow-not-cheap-debt/index.html
+layout: layout.njk
 ---
 Small Businesses Need Cash Flow Not Cheap Debt
 ==============================================

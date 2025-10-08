@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-appoints-vice-chancellor
-title: "Victoria University appoints Vice-Chancellor"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/AK1310/S00359/victoria-university-appoints-vice-chancellor.htm
+title: Victoria University appoints Vice-Chancellor
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00359/victoria-university-appoints-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/09/victoria-university-appoints-vice-chancellor/index.html
+layout: layout.njk
 ---
 Victoria University appoints Vice-Chancellor
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: university-gardener-wins-national-title
-title: "University gardener wins national title"
-date: 2010-08-30
-source-url: https://www.scoop.co.nz/stories/CU1008/S00401/university-gardener-wins-national-title.htm
+title: University gardener wins national title
+date: 2010-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00401/university-gardener-wins-national-title.htm
 author: university-of-waikato
+permalink: /archive/2010/08/30/university-gardener-wins-national-title/index.html
+layout: layout.njk
 ---
 University gardener wins national title
 =======================================

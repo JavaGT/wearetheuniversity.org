@@ -1,9 +1,11 @@
 ---
 slug: vintage-knox
-title: "Vintage Knox"
-date: 2008-11-05
+title: Vintage Knox
+date: 2008-11-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0811/S00032/vintage-knox.htm
 author: victoria-university-press
+permalink: /archive/2008/11/05/vintage-knox/index.html
+layout: layout.njk
 ---
 Vintage Knox
 ============

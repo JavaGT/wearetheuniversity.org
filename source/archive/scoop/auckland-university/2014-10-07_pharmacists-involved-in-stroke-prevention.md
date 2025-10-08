@@ -1,9 +1,12 @@
 ---
 slug: pharmacists-involved-in-stroke-prevention
-title: "Pharmacists involved in stroke prevention"
-date: 2014-10-07
-source-url: https://www.scoop.co.nz/stories/ED1410/S00041/pharmacists-involved-in-stroke-prevention.htm
+title: Pharmacists involved in stroke prevention
+date: 2014-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00041/pharmacists-involved-in-stroke-prevention.htm
 author: auckland-university
+permalink: /archive/2014/10/07/pharmacists-involved-in-stroke-prevention/index.html
+layout: layout.njk
 ---
 Pharmacists involved in stroke prevention
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-outraged-over-increased-parking-fees
-title: "Students outraged over increased parking fees."
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/AK0507/S00134/students-outraged-over-increased-parking-fees.htm
+title: Students outraged over increased parking fees.
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0507/S00134/students-outraged-over-increased-parking-fees.htm
 author: auckland-university-students-association
+permalink: /archive/2005/07/21/students-outraged-over-increased-parking-fees/index.html
+layout: layout.njk
 ---
 Students outraged over increased parking fees.
 ==============================================

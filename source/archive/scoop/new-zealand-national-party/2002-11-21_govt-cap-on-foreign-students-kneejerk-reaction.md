@@ -1,9 +1,12 @@
 ---
 slug: govt-cap-on-foreign-students-kneejerk-reaction
-title: "Govt cap on foreign students kneejerk reaction"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/PA0211/S00506/govt-cap-on-foreign-students-kneejerk-reaction.htm
+title: Govt cap on foreign students kneejerk reaction
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00506/govt-cap-on-foreign-students-kneejerk-reaction.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/21/govt-cap-on-foreign-students-kneejerk-reaction/index.html
+layout: layout.njk
 ---
 Govt cap on foreign students kneejerk reaction
 ==============================================

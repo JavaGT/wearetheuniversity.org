@@ -1,9 +1,11 @@
 ---
 slug: 30%-of-schools-in-the-dark
-title: "30% of schools in the dark"
-date: 2006-10-25
+title: 30% of schools in the dark
+date: 2006-10-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00456/30-of-schools-in-the-dark.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/25/30/index.html
+layout: layout.njk
 ---
 30% of schools in the dark
 ==========================

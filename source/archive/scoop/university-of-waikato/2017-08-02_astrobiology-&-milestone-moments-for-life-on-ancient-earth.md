@@ -1,9 +1,12 @@
 ---
 slug: astrobiology-&-milestone-moments-for-life-on-ancient-earth
-title: "Astrobiology & Milestone Moments for Life on Ancient Earth"
-date: 2017-08-02
-source-url: https://www.scoop.co.nz/stories/ED1708/S00007/astrobiology-milestone-moments-for-life-on-ancient-earth.htm
+title: Astrobiology & Milestone Moments for Life on Ancient Earth
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00007/astrobiology-milestone-moments-for-life-on-ancient-earth.htm
 author: university-of-waikato
+permalink: /archive/2017/08/02/astrobiology-/index.html
+layout: layout.njk
 ---
 Astrobiology & Milestone Moments for Life on Ancient Earth
 ==========================================================

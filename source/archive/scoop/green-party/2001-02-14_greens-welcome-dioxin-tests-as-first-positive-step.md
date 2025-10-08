@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-dioxin-tests-as-first-positive-step
-title: "Greens Welcome Dioxin Tests As First Positive Step"
-date: 2001-02-14
-source-url: https://www.scoop.co.nz/stories/PA0102/S00180/greens-welcome-dioxin-tests-as-first-positive-step.htm
+title: Greens Welcome Dioxin Tests As First Positive Step
+date: 2001-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00180/greens-welcome-dioxin-tests-as-first-positive-step.htm
 author: green-party
+permalink: >-
+  /archive/2001/02/14/greens-welcome-dioxin-tests-as-first-positive-step/index.html
+layout: layout.njk
 ---
 Greens Welcome Dioxin Tests As First Positive Step
 ==================================================

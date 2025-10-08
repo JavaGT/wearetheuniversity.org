@@ -1,9 +1,11 @@
 ---
 slug: plain-english-friday-1-march
-title: "Plain English - Friday 1 March"
-date: 2002-03-01
+title: Plain English - Friday 1 March
+date: 2002-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0203/S00043/plain-english-friday-1-march.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/01/plain-english-friday-1-march/index.html
+layout: layout.njk
 ---
 Plain English - Friday 1 March
 ==============================

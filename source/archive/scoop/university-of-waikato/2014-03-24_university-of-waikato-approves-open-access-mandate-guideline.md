@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-approves-open-access-mandate-guideline
-title: "University of Waikato approves Open Access Mandate Guideline"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/ED1403/S00138/university-of-waikato-approves-open-access-mandate-guideline.htm
+title: University of Waikato approves Open Access Mandate Guideline
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00138/university-of-waikato-approves-open-access-mandate-guideline.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/24/university-of-waikato-approves-open-access-mandate-guideline/index.html
+layout: layout.njk
 ---
 University of Waikato approves Open Access Mandate Guideline
 ============================================================

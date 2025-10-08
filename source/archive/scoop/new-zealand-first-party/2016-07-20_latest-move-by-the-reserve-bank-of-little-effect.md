@@ -1,9 +1,13 @@
 ---
 slug: latest-move-by-the-reserve-bank-of-little-effect
-title: "Latest Move by the Reserve Bank of Little Effect"
-date: 2016-07-20
-source-url: https://www.scoop.co.nz/stories/PA1607/S00291/latest-move-by-the-reserve-bank-of-little-effect.htm
+title: Latest Move by the Reserve Bank of Little Effect
+date: 2016-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00291/latest-move-by-the-reserve-bank-of-little-effect.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/20/latest-move-by-the-reserve-bank-of-little-effect/index.html
+layout: layout.njk
 ---
 Latest Move by the Reserve Bank of Little Effect
 ================================================

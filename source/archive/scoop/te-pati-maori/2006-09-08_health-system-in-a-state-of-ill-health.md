@@ -1,9 +1,12 @@
 ---
 slug: health-system-in-a-state-of-ill-health
-title: "Health System in a state of Ill-health"
-date: 2006-09-08
-source-url: https://www.scoop.co.nz/stories/PA0609/S00204/health-system-in-a-state-of-ill-health.htm
+title: Health System in a state of Ill-health
+date: 2006-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00204/health-system-in-a-state-of-ill-health.htm
 author: te-pati-maori
+permalink: /archive/2006/09/08/health-system-in-a-state-of-ill-health/index.html
+layout: layout.njk
 ---
 Health System in a state of Ill-health
 ======================================

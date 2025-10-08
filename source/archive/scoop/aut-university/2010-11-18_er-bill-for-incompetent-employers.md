@@ -1,9 +1,12 @@
 ---
 slug: er-bill-for-incompetent-employers
-title: "ER Bill for incompetent employers?"
-date: 2010-11-18
-source-url: https://www.scoop.co.nz/stories/PO1011/S00236/er-bill-for-incompetent-employers.htm
+title: ER Bill for incompetent employers?
+date: 2010-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00236/er-bill-for-incompetent-employers.htm
 author: aut-university
+permalink: /archive/2010/11/18/er-bill-for-incompetent-employers/index.html
+layout: layout.njk
 ---
 ER Bill for incompetent employers?
 ==================================

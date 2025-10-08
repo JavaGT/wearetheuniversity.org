@@ -1,9 +1,13 @@
 ---
 slug: key-selling-state-assets-pushing-crisis-on-to-charities
-title: "Key Selling State Assets,  Pushing Crisis on to Charities"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/PA1501/S00133/key-selling-state-assets-pushing-crisis-on-to-charities.htm
+title: Key Selling State Assets,  Pushing Crisis on to Charities
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00133/key-selling-state-assets-pushing-crisis-on-to-charities.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/01/28/key-selling-state-assets-pushing-crisis-on-to-charities/index.html
+layout: layout.njk
 ---
 Key Selling State Assets, Pushing Crisis on to Charities
 ========================================================

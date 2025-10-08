@@ -1,9 +1,12 @@
 ---
 slug: ousas-vsm-protest-to-john-key-friday-5th-august
-title: "OUSA's VSM Protest to John Key - Friday 5th August"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PO1108/S00063/ousas-vsm-protest-to-john-key-friday-5th-august.htm
+title: OUSA's VSM Protest to John Key - Friday 5th August
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00063/ousas-vsm-protest-to-john-key-friday-5th-august.htm
 author: otago-university-students-association
+permalink: /archive/2011/08/04/ousas-vsm-protest-to-john-key-friday-5th-august/index.html
+layout: layout.njk
 ---
 OUSA's VSM Protest to John Key - Friday 5th August
 ==================================================

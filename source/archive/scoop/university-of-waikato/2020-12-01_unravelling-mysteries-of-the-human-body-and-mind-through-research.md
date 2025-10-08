@@ -1,9 +1,13 @@
 ---
 slug: unravelling-mysteries-of-the-human-body-and-mind-through-research
-title: "Unravelling Mysteries Of The Human Body And Mind Through Research"
-date: 2020-12-01
-source-url: https://www.scoop.co.nz/stories/SC2012/S00003/unravelling-mysteries-of-the-human-body-and-mind-through-research.htm
+title: Unravelling Mysteries Of The Human Body And Mind Through Research
+date: 2020-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2012/S00003/unravelling-mysteries-of-the-human-body-and-mind-through-research.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/12/01/unravelling-mysteries-of-the-human-body-and-mind-through-research/index.html
+layout: layout.njk
 ---
 Unravelling Mysteries Of The Human Body And Mind Through Research
 =================================================================

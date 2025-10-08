@@ -1,9 +1,13 @@
 ---
 slug: christchurch-perfectly-placed-to-be-cycling-capital-of-nz
-title: "Christchurch perfectly placed to be cycling capital of NZ"
-date: 2014-06-05
-source-url: https://www.scoop.co.nz/stories/AK1406/S00065/christchurch-perfectly-placed-to-be-cycling-capital-of-nz.htm
+title: Christchurch perfectly placed to be cycling capital of NZ
+date: 2014-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00065/christchurch-perfectly-placed-to-be-cycling-capital-of-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/05/christchurch-perfectly-placed-to-be-cycling-capital-of-nz/index.html
+layout: layout.njk
 ---
 Christchurch perfectly placed to be cycling capital of NZ
 =========================================================

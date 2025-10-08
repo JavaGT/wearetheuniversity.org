@@ -1,9 +1,11 @@
 ---
 slug: hands-up-for-learning!
-title: "Hands up for Learning!"
-date: 2009-10-29
+title: Hands up for Learning!
+date: 2009-10-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0910/S00123/hands-up-for-learning.htm
 author: nzei
+permalink: /archive/2009/10/29/hands-up-for-learning/index.html
+layout: layout.njk
 ---
 Hands up for Learning!
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: unitecs-legal-action-will-be-at-staffs-expense
-title: "UNITEC’S legal action will be at staff's expense"
-date: 2005-08-12
-source-url: https://www.scoop.co.nz/stories/ED0508/S00066/unitecs-legal-action-will-be-at-staffs-expense.htm
+title: UNITEC’S legal action will be at staff's expense
+date: 2005-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00066/unitecs-legal-action-will-be-at-staffs-expense.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2005/08/12/unitecs-legal-action-will-be-at-staffs-expense/index.html
+layout: layout.njk
 ---
 UNITEC’S legal action will be at staff's expense
 ================================================

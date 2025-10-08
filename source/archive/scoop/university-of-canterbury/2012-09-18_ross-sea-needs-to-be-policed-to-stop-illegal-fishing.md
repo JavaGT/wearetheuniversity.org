@@ -1,9 +1,13 @@
 ---
 slug: ross-sea-needs-to-be-policed-to-stop-illegal-fishing
-title: "Ross Sea needs to be policed to stop illegal fishing"
-date: 2012-09-18
-source-url: https://www.scoop.co.nz/stories/ED1209/S00133/ross-sea-needs-to-be-policed-to-stop-illegal-fishing.htm
+title: Ross Sea needs to be policed to stop illegal fishing
+date: 2012-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00133/ross-sea-needs-to-be-policed-to-stop-illegal-fishing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/18/ross-sea-needs-to-be-policed-to-stop-illegal-fishing/index.html
+layout: layout.njk
 ---
 Ross Sea needs to be policed to stop illegal fishing
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-needs-hope-not-more-of-the-same
-title: "New Zealand Needs Hope, Not More Of The Same"
-date: 2023-09-28
-source-url: https://www.scoop.co.nz/stories/PO2309/S00242/new-zealand-needs-hope-not-more-of-the-same.htm
+title: New Zealand Needs Hope, Not More Of The Same
+date: 2023-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00242/new-zealand-needs-hope-not-more-of-the-same.htm
 author: act-new-zealand
+permalink: /archive/2023/09/28/new-zealand-needs-hope-not-more-of-the-same/index.html
+layout: layout.njk
 ---
 New Zealand Needs Hope, Not More Of The Same
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: media-in-frontline-at-reporting-wars-conference
-title: "Media in frontline at Reporting Wars conference"
-date: 2009-05-21
-source-url: https://www.scoop.co.nz/stories/CU0905/S00271/media-in-frontline-at-reporting-wars-conference.htm
+title: Media in frontline at Reporting Wars conference
+date: 2009-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00271/media-in-frontline-at-reporting-wars-conference.htm
 author: massey-university
+permalink: /archive/2009/05/21/media-in-frontline-at-reporting-wars-conference/index.html
+layout: layout.njk
 ---
 Media in frontline at Reporting Wars conference
 ===============================================

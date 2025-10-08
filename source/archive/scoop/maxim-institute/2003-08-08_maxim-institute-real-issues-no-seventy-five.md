@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-seventy-five
-title: "Maxim Institute real issues. No. Seventy-Five"
-date: 2003-08-08
-source-url: https://www.scoop.co.nz/stories/HL0308/S00047/maxim-institute-real-issues-no-seventy-five.htm
+title: Maxim Institute real issues. No. Seventy-Five
+date: 2003-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0308/S00047/maxim-institute-real-issues-no-seventy-five.htm
 author: maxim-institute
+permalink: /archive/2003/08/08/maxim-institute-real-issues-no-seventy-five/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues. No. Seventy-Five
 =============================================

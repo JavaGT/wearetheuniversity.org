@@ -1,9 +1,12 @@
 ---
 slug: changes-needed-to-make-biking-to-school-safer
-title: "Changes needed to make biking to school safer"
-date: 2014-03-18
-source-url: https://www.scoop.co.nz/stories/PO1403/S00200/changes-needed-to-make-biking-to-school-safer.htm
+title: Changes needed to make biking to school safer
+date: 2014-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00200/changes-needed-to-make-biking-to-school-safer.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/18/changes-needed-to-make-biking-to-school-safer/index.html
+layout: layout.njk
 ---
 Changes needed to make biking to school safer
 =============================================

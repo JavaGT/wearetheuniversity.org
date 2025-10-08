@@ -1,9 +1,12 @@
 ---
 slug: censusatschool-launching-15-august
-title: "CensusAtSchool launching 15 August"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/ED0508/S00008/censusatschool-launching-15-august.htm
+title: CensusAtSchool launching 15 August
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00008/censusatschool-launching-15-august.htm
 author: auckland-university
+permalink: /archive/2005/08/01/censusatschool-launching-15-august/index.html
+layout: layout.njk
 ---
 CensusAtSchool launching 15 August
 ==================================

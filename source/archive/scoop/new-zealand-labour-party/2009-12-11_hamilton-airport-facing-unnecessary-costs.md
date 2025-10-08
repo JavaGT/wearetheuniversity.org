@@ -1,9 +1,12 @@
 ---
 slug: hamilton-airport-facing-unnecessary-costs
-title: "Hamilton Airport Facing Unnecessary Costs"
-date: 2009-12-11
-source-url: https://www.scoop.co.nz/stories/PA0912/S00181/hamilton-airport-facing-unnecessary-costs.htm
+title: Hamilton Airport Facing Unnecessary Costs
+date: 2009-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00181/hamilton-airport-facing-unnecessary-costs.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/11/hamilton-airport-facing-unnecessary-costs/index.html
+layout: layout.njk
 ---
 Hamilton Airport Facing Unnecessary Costs
 =========================================

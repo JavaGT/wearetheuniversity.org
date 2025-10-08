@@ -1,9 +1,13 @@
 ---
 slug: u-s-professors-to-teach-geology-tectonics-at-canterbury
-title: "U.S professors to teach geology, tectonics at Canterbury"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/ED1601/S00051/us-professors-to-teach-geology-tectonics-at-canterbury.htm
+title: U.S professors to teach geology, tectonics at Canterbury
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00051/us-professors-to-teach-geology-tectonics-at-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/01/29/u-s-professors-to-teach-geology-tectonics-at-canterbury/index.html
+layout: layout.njk
 ---
 U.S professors to teach geology, tectonics at Canterbury
 ========================================================

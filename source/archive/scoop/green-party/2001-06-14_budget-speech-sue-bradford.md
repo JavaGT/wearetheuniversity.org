@@ -1,9 +1,11 @@
 ---
 slug: budget-speech-sue-bradford
-title: "Budget Speech - Sue Bradford"
-date: 2001-06-14
+title: Budget Speech - Sue Bradford
+date: 2001-06-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0106/S00185/budget-speech-sue-bradford.htm
 author: green-party
+permalink: /archive/2001/06/14/budget-speech-sue-bradford/index.html
+layout: layout.njk
 ---
 Budget Speech - Sue Bradford
 ============================

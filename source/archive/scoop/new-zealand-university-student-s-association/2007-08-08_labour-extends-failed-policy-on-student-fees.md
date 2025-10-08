@@ -1,9 +1,12 @@
 ---
 slug: labour-extends-failed-policy-on-student-fees
-title: "Labour extends failed policy on student fees"
-date: 2007-08-08
-source-url: https://www.scoop.co.nz/stories/ED0708/S00023/labour-extends-failed-policy-on-student-fees.htm
+title: Labour extends failed policy on student fees
+date: 2007-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00023/labour-extends-failed-policy-on-student-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2007/08/08/labour-extends-failed-policy-on-student-fees/index.html
+layout: layout.njk
 ---
 Labour extends failed policy on student fees
 ============================================

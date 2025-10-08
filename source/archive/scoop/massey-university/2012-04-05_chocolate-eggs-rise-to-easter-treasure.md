@@ -1,9 +1,12 @@
 ---
 slug: chocolate-eggs-rise-to-easter-treasure
-title: "Chocolate egg’s rise to Easter treasure"
-date: 2012-04-05
-source-url: https://www.scoop.co.nz/stories/CU1204/S00117/chocolate-eggs-rise-to-easter-treasure.htm
+title: Chocolate egg’s rise to Easter treasure
+date: 2012-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1204/S00117/chocolate-eggs-rise-to-easter-treasure.htm
 author: massey-university
+permalink: /archive/2012/04/05/chocolate-eggs-rise-to-easter-treasure/index.html
+layout: layout.njk
 ---
 Chocolate egg’s rise to Easter treasure
 =======================================

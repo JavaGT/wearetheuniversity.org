@@ -1,9 +1,13 @@
 ---
 slug: lack-of-leadership-and-planning-to-blame-for-housing-crisis
-title: "Lack of leadership and planning to blame for housing crisis"
-date: 2017-03-02
-source-url: https://www.scoop.co.nz/stories/PA1703/S00028/lack-of-leadership-and-planning-to-blame-for-housing-crisis.htm
+title: Lack of leadership and planning to blame for housing crisis
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00028/lack-of-leadership-and-planning-to-blame-for-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/03/02/lack-of-leadership-and-planning-to-blame-for-housing-crisis/index.html
+layout: layout.njk
 ---
 Lack of leadership and planning to blame for housing crisis
 ===========================================================

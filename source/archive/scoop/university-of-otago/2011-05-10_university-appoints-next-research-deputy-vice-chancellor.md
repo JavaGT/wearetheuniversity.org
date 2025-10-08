@@ -1,9 +1,13 @@
 ---
 slug: university-appoints-next-research-deputy-vice-chancellor
-title: "University Appoints Next Research Deputy Vice-Chancellor"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/ED1105/S00037/university-appoints-next-research-deputy-vice-chancellor.htm
+title: University Appoints Next Research Deputy Vice-Chancellor
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00037/university-appoints-next-research-deputy-vice-chancellor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/10/university-appoints-next-research-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 University Appoints Next Research Deputy Vice-Chancellor
 ========================================================

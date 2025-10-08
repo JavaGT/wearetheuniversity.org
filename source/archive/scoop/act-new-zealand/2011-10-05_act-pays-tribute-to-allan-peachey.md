@@ -1,9 +1,12 @@
 ---
 slug: act-pays-tribute-to-allan-peachey
-title: "ACT Pays Tribute to Allan Peachey"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00095/act-pays-tribute-to-allan-peachey.htm
+title: ACT Pays Tribute to Allan Peachey
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00095/act-pays-tribute-to-allan-peachey.htm
 author: act-new-zealand
+permalink: /archive/2011/10/05/act-pays-tribute-to-allan-peachey/index.html
+layout: layout.njk
 ---
 ACT Pays Tribute to Allan Peachey
 =================================

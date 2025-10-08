@@ -1,9 +1,12 @@
 ---
 slug: hamilton-city-council-(parana-park)-land-vesting
-title: "Hamilton City Council (Parana Park) Land Vesting"
-date: 2010-06-17
-source-url: https://www.scoop.co.nz/stories/PA1006/S00258/hamilton-city-council-parana-park-land-vesting.htm
+title: Hamilton City Council (Parana Park) Land Vesting
+date: 2010-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00258/hamilton-city-council-parana-park-land-vesting.htm
 author: te-pati-maori
+permalink: /archive/2010/06/17/hamilton-city-council-/index.html
+layout: layout.njk
 ---
 Hamilton City Council (Parana Park) Land Vesting
 ================================================

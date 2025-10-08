@@ -1,9 +1,13 @@
 ---
 slug: warning-as-govt-moves-to-dilute-teaching-standards
-title: "Warning as Govt Moves to Dilute Teaching Standards"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/PA1607/S00197/warning-as-govt-moves-to-dilute-teaching-standards.htm
+title: Warning as Govt Moves to Dilute Teaching Standards
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00197/warning-as-govt-moves-to-dilute-teaching-standards.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/12/warning-as-govt-moves-to-dilute-teaching-standards/index.html
+layout: layout.njk
 ---
 Warning as Govt Moves to Dilute Teaching Standards
 ==================================================

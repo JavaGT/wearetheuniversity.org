@@ -1,9 +1,12 @@
 ---
 slug: key-notes-new-charities-policy
-title: "Key Notes: New charities policy"
-date: 2007-03-12
-source-url: https://www.scoop.co.nz/stories/PA0703/S00201/key-notes-new-charities-policy.htm
+title: 'Key Notes: New charities policy'
+date: 2007-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00201/key-notes-new-charities-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/12/key-notes-new-charities-policy/index.html
+layout: layout.njk
 ---
 Key Notes: New charities policy
 ===============================

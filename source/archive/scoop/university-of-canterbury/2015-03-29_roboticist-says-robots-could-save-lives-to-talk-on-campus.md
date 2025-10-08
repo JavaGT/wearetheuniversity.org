@@ -1,9 +1,13 @@
 ---
 slug: roboticist-says-robots-could-save-lives-to-talk-on-campus
-title: "Roboticist Says Robots Could Save Lives, To Talk On Campus"
-date: 2015-03-29
-source-url: https://www.scoop.co.nz/stories/SC1503/S00097/roboticist-says-robots-could-save-lives-to-talk-on-campus.htm
+title: Roboticist Says Robots Could Save Lives, To Talk On Campus
+date: 2015-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00097/roboticist-says-robots-could-save-lives-to-talk-on-campus.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/29/roboticist-says-robots-could-save-lives-to-talk-on-campus/index.html
+layout: layout.njk
 ---
 Roboticist Says Robots Could Save Lives, To Talk On Campus
 ==========================================================

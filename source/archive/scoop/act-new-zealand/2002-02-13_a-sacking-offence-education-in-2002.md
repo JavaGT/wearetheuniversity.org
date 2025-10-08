@@ -1,9 +1,12 @@
 ---
 slug: a-sacking-offence-education-in-2002
-title: "A Sacking Offence - Education In 2002"
-date: 2002-02-13
-source-url: https://www.scoop.co.nz/stories/PA0202/S00154/a-sacking-offence-education-in-2002.htm
+title: A Sacking Offence - Education In 2002
+date: 2002-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00154/a-sacking-offence-education-in-2002.htm
 author: act-new-zealand
+permalink: /archive/2002/02/13/a-sacking-offence-education-in-2002/index.html
+layout: layout.njk
 ---
 A Sacking Offence - Education In 2002
 =====================================

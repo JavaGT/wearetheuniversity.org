@@ -1,9 +1,12 @@
 ---
 slug: green-candidates-rally-overseas-vote
-title: "Green Candidates Rally Overseas Vote"
-date: 2002-06-27
-source-url: https://www.scoop.co.nz/stories/PA0206/S00493/green-candidates-rally-overseas-vote.htm
+title: Green Candidates Rally Overseas Vote
+date: 2002-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00493/green-candidates-rally-overseas-vote.htm
 author: green-party
+permalink: /archive/2002/06/27/green-candidates-rally-overseas-vote/index.html
+layout: layout.njk
 ---
 Green Candidates Rally Overseas Vote
 ====================================

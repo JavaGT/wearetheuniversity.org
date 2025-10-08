@@ -1,9 +1,13 @@
 ---
 slug: christchurch-researchers-secure-lions-share-of-almost-$1million-in-funding
-title: "Christchurch Researchers Secure Lion’s Share Of Almost $1million In Funding"
-date: 2020-08-06
-source-url: https://www.scoop.co.nz/stories/GE2008/S00029/christchurch-researchers-secure-lions-share-of-almost-1million-in-funding.htm
+title: Christchurch Researchers Secure Lion’s Share Of Almost $1million In Funding
+date: 2020-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2008/S00029/christchurch-researchers-secure-lions-share-of-almost-1million-in-funding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/08/06/christchurch-researchers-secure-lions-share-of-almost-/index.html
+layout: layout.njk
 ---
 Christchurch Researchers Secure Lion’s Share Of Almost $1million In Funding
 ===========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: taxation-bill-hone-harawira-speech
-title: "Taxation Bill - Hone Harawira Speech"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/PA0712/S00071/taxation-bill-hone-harawira-speech.htm
+title: Taxation Bill - Hone Harawira Speech
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00071/taxation-bill-hone-harawira-speech.htm
 author: te-pati-maori
+permalink: /archive/2007/12/05/taxation-bill-hone-harawira-speech/index.html
+layout: layout.njk
 ---
 Taxation Bill - Hone Harawira Speech
 ====================================

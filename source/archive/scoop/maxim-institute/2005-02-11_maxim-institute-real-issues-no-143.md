@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-143
-title: "Maxim Institute real issues No. 143"
-date: 2005-02-11
-source-url: https://www.scoop.co.nz/stories/PO0502/S00098/maxim-institute-real-issues-no-143.htm
+title: Maxim Institute real issues No. 143
+date: 2005-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0502/S00098/maxim-institute-real-issues-no-143.htm
 author: maxim-institute
+permalink: /archive/2005/02/11/maxim-institute-real-issues-no-143/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues No. 143
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: choosing-the-right-crew-for-antarctic-expeditions
-title: "Choosing the right crew for Antarctic expeditions"
-date: 2015-07-06
-source-url: https://www.scoop.co.nz/stories/ED1507/S00038/choosing-the-right-crew-for-antarctic-expeditions.htm
+title: Choosing the right crew for Antarctic expeditions
+date: 2015-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00038/choosing-the-right-crew-for-antarctic-expeditions.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/07/06/choosing-the-right-crew-for-antarctic-expeditions/index.html
+layout: layout.njk
 ---
 Choosing the right crew for Antarctic expeditions
 =================================================

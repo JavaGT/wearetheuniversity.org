@@ -1,9 +1,12 @@
 ---
 slug: saving-money-and-the-environment-at-the-lights
-title: "Saving money and the environment at the lights"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00034/saving-money-and-the-environment-at-the-lights.htm
+title: Saving money and the environment at the lights
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00034/saving-money-and-the-environment-at-the-lights.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/07/saving-money-and-the-environment-at-the-lights/index.html
+layout: layout.njk
 ---
 Saving money and the environment at the lights
 ==============================================

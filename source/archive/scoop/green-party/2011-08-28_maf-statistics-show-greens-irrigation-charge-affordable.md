@@ -1,9 +1,13 @@
 ---
 slug: maf-statistics-show-greens-irrigation-charge-affordable
-title: "MAF statistics show Green’s irrigation charge affordable"
-date: 2011-08-28
-source-url: https://www.scoop.co.nz/stories/PA1108/S00545/maf-statistics-show-greens-irrigation-charge-affordable.htm
+title: MAF statistics show Green’s irrigation charge affordable
+date: 2011-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00545/maf-statistics-show-greens-irrigation-charge-affordable.htm
 author: green-party
+permalink: >-
+  /archive/2011/08/28/maf-statistics-show-greens-irrigation-charge-affordable/index.html
+layout: layout.njk
 ---
 MAF statistics show Green’s irrigation charge affordable
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: so-who-else-got-a-bonus
-title: "So who else got a bonus?"
-date: 2001-01-17
+title: So who else got a bonus?
+date: 2001-01-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0101/S00039/so-who-else-got-a-bonus.htm
 author: new-zealand-national-party
+permalink: /archive/2001/01/17/so-who-else-got-a-bonus/index.html
+layout: layout.njk
 ---
 So who else got a bonus?
 ========================

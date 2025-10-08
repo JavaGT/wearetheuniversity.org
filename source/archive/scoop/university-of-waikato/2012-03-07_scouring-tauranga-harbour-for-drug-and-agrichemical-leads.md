@@ -1,9 +1,13 @@
 ---
 slug: scouring-tauranga-harbour-for-drug-and-agrichemical-leads
-title: "Scouring Tauranga harbour for drug and agrichemical leads"
-date: 2012-03-07
-source-url: https://www.scoop.co.nz/stories/ED1203/S00029/scouring-tauranga-harbour-for-drug-and-agrichemical-leads.htm
+title: Scouring Tauranga harbour for drug and agrichemical leads
+date: 2012-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00029/scouring-tauranga-harbour-for-drug-and-agrichemical-leads.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/03/07/scouring-tauranga-harbour-for-drug-and-agrichemical-leads/index.html
+layout: layout.njk
 ---
 Scouring Tauranga harbour for drug and agrichemical leads
 =========================================================

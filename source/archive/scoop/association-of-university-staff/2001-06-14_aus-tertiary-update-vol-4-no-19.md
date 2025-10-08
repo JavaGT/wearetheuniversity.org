@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-19
-title: "AUS Tertiary Update Vol 4 No 19"
-date: 2001-06-14
-source-url: https://www.scoop.co.nz/stories/ED0106/S00010/aus-tertiary-update-vol-4-no-19.htm
+title: AUS Tertiary Update Vol 4 No 19
+date: 2001-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00010/aus-tertiary-update-vol-4-no-19.htm
 author: association-of-university-staff
+permalink: /archive/2001/06/14/aus-tertiary-update-vol-4-no-19/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 4 No 19
 ===============================

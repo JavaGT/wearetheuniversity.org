@@ -1,9 +1,13 @@
 ---
 slug: govt-turns-its-back-while-youth-crime-skyrockets
-title: "Govt turns its back while youth crime skyrockets"
-date: 1999-06-29
-source-url: https://www.scoop.co.nz/stories/PA9906/S00309/govt-turns-its-back-while-youth-crime-skyrockets.htm
+title: Govt turns its back while youth crime skyrockets
+date: 1999-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00309/govt-turns-its-back-while-youth-crime-skyrockets.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/06/29/govt-turns-its-back-while-youth-crime-skyrockets/index.html
+layout: layout.njk
 ---
 Govt turns its back while youth crime skyrockets
 ================================================

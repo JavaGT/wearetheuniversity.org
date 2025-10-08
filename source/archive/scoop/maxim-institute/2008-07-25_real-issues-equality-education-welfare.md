@@ -1,9 +1,12 @@
 ---
 slug: real-issues-equality-education-welfare
-title: "Real Issues: Equality, Education, Welfare"
-date: 2008-07-25
-source-url: https://www.scoop.co.nz/stories/PO0807/S00307/real-issues-equality-education-welfare.htm
+title: 'Real Issues: Equality, Education, Welfare'
+date: 2008-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00307/real-issues-equality-education-welfare.htm
 author: maxim-institute
+permalink: /archive/2008/07/25/real-issues-equality-education-welfare/index.html
+layout: layout.njk
 ---
 Real Issues: Equality, Education, Welfare
 =========================================

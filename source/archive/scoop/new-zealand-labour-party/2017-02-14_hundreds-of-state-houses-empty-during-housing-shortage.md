@@ -1,9 +1,13 @@
 ---
 slug: hundreds-of-state-houses-empty-during-housing-shortage
-title: "Hundreds of state houses empty during housing shortage"
-date: 2017-02-14
-source-url: https://www.scoop.co.nz/stories/PA1702/S00189/hundreds-of-state-houses-empty-during-housing-shortage.htm
+title: Hundreds of state houses empty during housing shortage
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00189/hundreds-of-state-houses-empty-during-housing-shortage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/14/hundreds-of-state-houses-empty-during-housing-shortage/index.html
+layout: layout.njk
 ---
 Hundreds of state houses empty during housing shortage
 ======================================================

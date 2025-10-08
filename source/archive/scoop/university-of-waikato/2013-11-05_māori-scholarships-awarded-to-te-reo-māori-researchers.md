@@ -1,9 +1,12 @@
 ---
 slug: māori-scholarships-awarded-to-te-reo-māori-researchers
-title: "Māori scholarships awarded to te reo Māori researchers"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/ED1311/S00031/maori-scholarships-awarded-to-te-reo-maori-researchers.htm
+title: Māori scholarships awarded to te reo Māori researchers
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00031/maori-scholarships-awarded-to-te-reo-maori-researchers.htm
 author: university-of-waikato
+permalink: /archive/2013/11/05/m/index.html
+layout: layout.njk
 ---
 Māori scholarships awarded to te reo Māori researchers
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: how-your-birth-date-influences-sporting-ability
-title: "How Your Birth Date Influences Sporting Ability"
-date: 2003-03-25
-source-url: https://www.scoop.co.nz/stories/ED0303/S00039/how-your-birth-date-influences-sporting-ability.htm
+title: How Your Birth Date Influences Sporting Ability
+date: 2003-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00039/how-your-birth-date-influences-sporting-ability.htm
 author: auckland-university
+permalink: /archive/2003/03/25/how-your-birth-date-influences-sporting-ability/index.html
+layout: layout.njk
 ---
 How Your Birth Date Influences Sporting Ability
 ===============================================

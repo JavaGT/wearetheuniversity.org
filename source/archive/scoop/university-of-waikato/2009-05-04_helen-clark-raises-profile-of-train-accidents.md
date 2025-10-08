@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-raises-profile-of-train-accidents
-title: "Helen Clark raises profile of train accidents"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/ED0905/S00012/helen-clark-raises-profile-of-train-accidents.htm
+title: Helen Clark raises profile of train accidents
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00012/helen-clark-raises-profile-of-train-accidents.htm
 author: university-of-waikato
+permalink: /archive/2009/05/04/helen-clark-raises-profile-of-train-accidents/index.html
+layout: layout.njk
 ---
 Helen Clark raises profile of train accidents
 =============================================

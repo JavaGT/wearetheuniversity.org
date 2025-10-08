@@ -1,9 +1,13 @@
 ---
 slug: students-call-for-co-ordinated-response-to-recent-assaults
-title: "Students Call for Co-ordinated Response to Recent Assaults"
-date: 2014-04-23
-source-url: https://www.scoop.co.nz/stories/AK1404/S00498/students-call-for-co-ordinated-response-to-recent-assaults.htm
+title: Students Call for Co-ordinated Response to Recent Assaults
+date: 2014-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1404/S00498/students-call-for-co-ordinated-response-to-recent-assaults.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/04/23/students-call-for-co-ordinated-response-to-recent-assaults/index.html
+layout: layout.njk
 ---
 Students Call for Co-ordinated Response to Recent Assaults
 ==========================================================

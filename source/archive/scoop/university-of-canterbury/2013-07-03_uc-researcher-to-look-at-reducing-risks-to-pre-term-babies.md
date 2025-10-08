@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-to-look-at-reducing-risks-to-pre-term-babies
-title: "UC researcher to look at reducing risks to pre-term babies"
-date: 2013-07-03
-source-url: https://www.scoop.co.nz/stories/GE1307/S00015/uc-researcher-to-look-at-reducing-risks-to-pre-term-babies.htm
+title: UC researcher to look at reducing risks to pre-term babies
+date: 2013-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00015/uc-researcher-to-look-at-reducing-risks-to-pre-term-babies.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/03/uc-researcher-to-look-at-reducing-risks-to-pre-term-babies/index.html
+layout: layout.njk
 ---
 UC researcher to look at reducing risks to pre-term babies
 ==========================================================

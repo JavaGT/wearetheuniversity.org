@@ -1,9 +1,13 @@
 ---
 slug: academic-urges-kiwi-firms-to-support-volunteering
-title: "Academic urges Kiwi firms to support volunteering"
-date: 2013-06-14
-source-url: https://www.scoop.co.nz/stories/ED1306/S00080/academic-urges-kiwi-firms-to-support-volunteering.htm
+title: Academic urges Kiwi firms to support volunteering
+date: 2013-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00080/academic-urges-kiwi-firms-to-support-volunteering.htm
 author: massey-university
+permalink: >-
+  /archive/2013/06/14/academic-urges-kiwi-firms-to-support-volunteering/index.html
+layout: layout.njk
 ---
 Academic urges Kiwi firms to support volunteering
 =================================================

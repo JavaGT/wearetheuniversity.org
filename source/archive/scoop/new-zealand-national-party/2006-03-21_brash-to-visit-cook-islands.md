@@ -1,9 +1,11 @@
 ---
 slug: brash-to-visit-cook-islands
-title: "Brash to visit Cook Islands"
-date: 2006-03-21
+title: Brash to visit Cook Islands
+date: 2006-03-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00354/brash-to-visit-cook-islands.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/21/brash-to-visit-cook-islands/index.html
+layout: layout.njk
 ---
 Brash to visit Cook Islands
 ===========================

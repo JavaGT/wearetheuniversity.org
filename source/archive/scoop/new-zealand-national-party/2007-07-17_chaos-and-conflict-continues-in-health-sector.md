@@ -1,9 +1,12 @@
 ---
 slug: chaos-and-conflict-continues-in-health-sector
-title: "Chaos and conflict continues in health sector"
-date: 2007-07-17
-source-url: https://www.scoop.co.nz/stories/PA0707/S00247/chaos-and-conflict-continues-in-health-sector.htm
+title: Chaos and conflict continues in health sector
+date: 2007-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00247/chaos-and-conflict-continues-in-health-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/17/chaos-and-conflict-continues-in-health-sector/index.html
+layout: layout.njk
 ---
 Chaos and conflict continues in health sector
 =============================================

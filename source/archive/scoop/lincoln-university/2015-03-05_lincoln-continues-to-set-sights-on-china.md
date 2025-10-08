@@ -1,9 +1,12 @@
 ---
 slug: lincoln-continues-to-set-sights-on-china
-title: "Lincoln continues to set sights on China"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/ED1503/S00014/lincoln-continues-to-set-sights-on-china.htm
+title: Lincoln continues to set sights on China
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00014/lincoln-continues-to-set-sights-on-china.htm
 author: lincoln-university
+permalink: /archive/2015/03/05/lincoln-continues-to-set-sights-on-china/index.html
+layout: layout.njk
 ---
 Lincoln continues to set sights on China
 ========================================

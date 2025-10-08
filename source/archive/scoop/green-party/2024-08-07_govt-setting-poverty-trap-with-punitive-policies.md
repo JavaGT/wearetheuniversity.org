@@ -1,9 +1,13 @@
 ---
 slug: govt-setting-poverty-trap-with-punitive-policies
-title: "Govt Setting Poverty Trap With Punitive Policies"
-date: 2024-08-07
-source-url: https://www.scoop.co.nz/stories/PA2408/S00040/govt-setting-poverty-trap-with-punitive-policies.htm
+title: Govt Setting Poverty Trap With Punitive Policies
+date: 2024-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00040/govt-setting-poverty-trap-with-punitive-policies.htm
 author: green-party
+permalink: >-
+  /archive/2024/08/07/govt-setting-poverty-trap-with-punitive-policies/index.html
+layout: layout.njk
 ---
 Govt Setting Poverty Trap With Punitive Policies
 ================================================

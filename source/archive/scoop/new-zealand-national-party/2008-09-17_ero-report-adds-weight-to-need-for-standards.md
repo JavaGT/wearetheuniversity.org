@@ -1,9 +1,12 @@
 ---
 slug: ero-report-adds-weight-to-need-for-standards
-title: "ERO report adds weight to need for Standards"
-date: 2008-09-17
-source-url: https://www.scoop.co.nz/stories/PA0809/S00371/ero-report-adds-weight-to-need-for-standards.htm
+title: ERO report adds weight to need for Standards
+date: 2008-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00371/ero-report-adds-weight-to-need-for-standards.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/17/ero-report-adds-weight-to-need-for-standards/index.html
+layout: layout.njk
 ---
 ERO report adds weight to need for Standards
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-english-nationals-annual-conference
-title: "Speech: English - National’s Annual Conference"
-date: 2017-06-25
-source-url: https://www.scoop.co.nz/stories/PA1706/S00412/speech-english-nationals-annual-conference.htm
+title: 'Speech: English - National’s Annual Conference'
+date: 2017-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00412/speech-english-nationals-annual-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2017/06/25/speech-english-nationals-annual-conference/index.html
+layout: layout.njk
 ---
 Speech: English - National’s Annual Conference
 ==============================================

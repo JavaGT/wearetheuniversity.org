@@ -1,9 +1,11 @@
 ---
 slug: land-and-rights-then-and-now
-title: "Land and Rights: Then and Now"
-date: 2007-09-10
+title: 'Land and Rights: Then and Now'
+date: 2007-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0709/S00029/land-and-rights-then-and-now.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/10/land-and-rights-then-and-now/index.html
+layout: layout.njk
 ---
 Land and Rights: Then and Now
 =============================

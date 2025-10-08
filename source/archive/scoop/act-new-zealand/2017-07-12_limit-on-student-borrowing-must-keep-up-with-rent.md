@@ -1,9 +1,13 @@
 ---
 slug: limit-on-student-borrowing-must-keep-up-with-rent
-title: "Limit on student borrowing must keep up with rent"
-date: 2017-07-12
-source-url: https://www.scoop.co.nz/stories/PA1707/S00193/limit-on-student-borrowing-must-keep-up-with-rent.htm
+title: Limit on student borrowing must keep up with rent
+date: 2017-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00193/limit-on-student-borrowing-must-keep-up-with-rent.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/07/12/limit-on-student-borrowing-must-keep-up-with-rent/index.html
+layout: layout.njk
 ---
 Limit on student borrowing must keep up with rent
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: state-of-the-environment-report-from-greens
-title: "State Of The Environment Report From Greens"
-date: 2002-04-21
-source-url: https://www.scoop.co.nz/stories/PA0204/S00304/state-of-the-environment-report-from-greens.htm
+title: State Of The Environment Report From Greens
+date: 2002-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0204/S00304/state-of-the-environment-report-from-greens.htm
 author: green-party
+permalink: /archive/2002/04/21/state-of-the-environment-report-from-greens/index.html
+layout: layout.njk
 ---
 State Of The Environment Report From Greens
 ===========================================

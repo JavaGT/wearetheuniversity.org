@@ -1,9 +1,12 @@
 ---
 slug: fee-free-policy-big-win-say-students
-title: "Fee Free Policy Big Win say Students"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/ED1602/S00009/fee-free-policy-big-win-say-students.htm
+title: Fee Free Policy Big Win say Students
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00009/fee-free-policy-big-win-say-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/02/01/fee-free-policy-big-win-say-students/index.html
+layout: layout.njk
 ---
 Fee Free Policy Big Win say Students
 ====================================

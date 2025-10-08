@@ -1,9 +1,12 @@
 ---
 slug: nick-smith-gets-rev-up-over-acc-bike-hike
-title: "Nick Smith gets rev up over ACC bike hike"
-date: 2009-11-02
-source-url: https://www.scoop.co.nz/stories/PA0911/S00009/nick-smith-gets-rev-up-over-acc-bike-hike.htm
+title: Nick Smith gets rev up over ACC bike hike
+date: 2009-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00009/nick-smith-gets-rev-up-over-acc-bike-hike.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/02/nick-smith-gets-rev-up-over-acc-bike-hike/index.html
+layout: layout.njk
 ---
 Nick Smith gets rev up over ACC bike hike
 =========================================

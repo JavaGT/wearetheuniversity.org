@@ -1,9 +1,12 @@
 ---
 slug: uc-professor-named-a-james-cook-research-fellow
-title: "UC professor named a James Cook Research Fellow"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/ED1109/S00136/uc-professor-named-a-james-cook-research-fellow.htm
+title: UC professor named a James Cook Research Fellow
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00136/uc-professor-named-a-james-cook-research-fellow.htm
 author: university-of-canterbury
+permalink: /archive/2011/09/29/uc-professor-named-a-james-cook-research-fellow/index.html
+layout: layout.njk
 ---
 UC professor named a James Cook Research Fellow
 ===============================================

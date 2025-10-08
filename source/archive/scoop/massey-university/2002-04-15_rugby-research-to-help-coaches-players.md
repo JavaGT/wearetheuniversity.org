@@ -1,9 +1,12 @@
 ---
 slug: rugby-research-to-help-coaches-players
-title: "Rugby Research To Help Coaches, Players"
-date: 2002-04-15
-source-url: https://www.scoop.co.nz/stories/SC0204/S00005/rugby-research-to-help-coaches-players.htm
+title: Rugby Research To Help Coaches, Players
+date: 2002-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0204/S00005/rugby-research-to-help-coaches-players.htm
 author: massey-university
+permalink: /archive/2002/04/15/rugby-research-to-help-coaches-players/index.html
+layout: layout.njk
 ---
 Rugby Research To Help Coaches, Players
 =======================================

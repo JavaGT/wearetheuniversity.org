@@ -1,9 +1,12 @@
 ---
 slug: students-challenge-maharey-to-watch-fees-go-up
-title: "Students challenge Maharey to watch fees go up"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/ED0409/S00011/students-challenge-maharey-to-watch-fees-go-up.htm
+title: Students challenge Maharey to watch fees go up
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00011/students-challenge-maharey-to-watch-fees-go-up.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/09/02/students-challenge-maharey-to-watch-fees-go-up/index.html
+layout: layout.njk
 ---
 Students challenge Maharey to watch fees go up
 ==============================================

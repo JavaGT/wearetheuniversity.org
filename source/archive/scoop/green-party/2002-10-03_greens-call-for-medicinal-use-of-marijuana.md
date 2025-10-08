@@ -1,9 +1,12 @@
 ---
 slug: greens-call-for-medicinal-use-of-marijuana
-title: "Greens call for medicinal use of marijuana"
-date: 2002-10-03
-source-url: https://www.scoop.co.nz/stories/PA0210/S00062/greens-call-for-medicinal-use-of-marijuana.htm
+title: Greens call for medicinal use of marijuana
+date: 2002-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00062/greens-call-for-medicinal-use-of-marijuana.htm
 author: green-party
+permalink: /archive/2002/10/03/greens-call-for-medicinal-use-of-marijuana/index.html
+layout: layout.njk
 ---
 Greens call for medicinal use of marijuana
 ==========================================

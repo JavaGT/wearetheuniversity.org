@@ -1,9 +1,12 @@
 ---
 slug: more-tax-fewer-roads-more-congestion
-title: "More tax, fewer roads, more congestion"
-date: 2018-11-08
-source-url: https://www.scoop.co.nz/stories/PA1811/S00091/more-tax-fewer-roads-more-congestion.htm
+title: More tax, fewer roads, more congestion
+date: 2018-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00091/more-tax-fewer-roads-more-congestion.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/08/more-tax-fewer-roads-more-congestion/index.html
+layout: layout.njk
 ---
 More tax, fewer roads, more congestion
 ======================================

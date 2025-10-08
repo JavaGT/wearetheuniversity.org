@@ -1,9 +1,11 @@
 ---
 slug: collins-comments-december
-title: "Collins Comments – December"
-date: 2009-12-11
+title: Collins Comments – December
+date: 2009-12-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0912/S00202/collins-comments-december.htm
 author: new-zealand-national-party
+permalink: /archive/2009/12/11/collins-comments-december/index.html
+layout: layout.njk
 ---
 Collins Comments – December
 ===========================

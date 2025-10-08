@@ -1,9 +1,13 @@
 ---
 slug: true-costs-of-government-charges-are-crippling-for-business
-title: "True Costs Of Government Charges Are Crippling For Business"
-date: 2021-03-31
-source-url: https://www.scoop.co.nz/stories/PA2103/S00243/true-costs-of-government-charges-are-crippling-for-business.htm
+title: True Costs Of Government Charges Are Crippling For Business
+date: 2021-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00243/true-costs-of-government-charges-are-crippling-for-business.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/03/31/true-costs-of-government-charges-are-crippling-for-business/index.html
+layout: layout.njk
 ---
 True Costs Of Government Charges Are Crippling For Business
 ===========================================================

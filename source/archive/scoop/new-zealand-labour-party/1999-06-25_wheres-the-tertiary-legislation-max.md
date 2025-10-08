@@ -1,9 +1,12 @@
 ---
 slug: wheres-the-tertiary-legislation-max
-title: "Where's the tertiary legislation Max?"
-date: 1999-06-25
-source-url: https://www.scoop.co.nz/stories/PA9906/S00256/wheres-the-tertiary-legislation-max.htm
+title: Where's the tertiary legislation Max?
+date: 1999-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00256/wheres-the-tertiary-legislation-max.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/25/wheres-the-tertiary-legislation-max/index.html
+layout: layout.njk
 ---
 Where's the tertiary legislation Max?
 =====================================

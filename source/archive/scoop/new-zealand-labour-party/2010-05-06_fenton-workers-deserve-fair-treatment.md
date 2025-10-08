@@ -1,9 +1,12 @@
 ---
 slug: fenton-workers-deserve-fair-treatment
-title: "Fenton: Workers deserve fair treatment"
-date: 2010-05-06
-source-url: https://www.scoop.co.nz/stories/PA1005/S00100/fenton-workers-deserve-fair-treatment.htm
+title: 'Fenton: Workers deserve fair treatment'
+date: 2010-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00100/fenton-workers-deserve-fair-treatment.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/06/fenton-workers-deserve-fair-treatment/index.html
+layout: layout.njk
 ---
 Fenton: Workers deserve fair treatment
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: historic-building-houses-high-tech-facilities
-title: "Historic building houses high-tech facilities"
-date: 2000-02-25
-source-url: https://www.scoop.co.nz/stories/ED0002/S00036/historic-building-houses-high-tech-facilities.htm
+title: Historic building houses high-tech facilities
+date: 2000-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00036/historic-building-houses-high-tech-facilities.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/25/historic-building-houses-high-tech-facilities/index.html
+layout: layout.njk
 ---
 Historic building houses high-tech facilities
 =============================================

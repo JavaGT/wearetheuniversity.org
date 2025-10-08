@@ -1,9 +1,12 @@
 ---
 slug: government-should-rule-out-hidden-cameras
-title: "Government should rule out hidden cameras"
-date: 2003-11-19
-source-url: https://www.scoop.co.nz/stories/PA0311/S00371/government-should-rule-out-hidden-cameras.htm
+title: Government should rule out hidden cameras
+date: 2003-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00371/government-should-rule-out-hidden-cameras.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/19/government-should-rule-out-hidden-cameras/index.html
+layout: layout.njk
 ---
 Government should rule out hidden cameras
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: national-hiking-transport-costs-for-families-and-young-new-zealanders
-title: "National Hiking Transport Costs For Families And Young New Zealanders"
-date: 2024-04-30
-source-url: https://www.scoop.co.nz/stories/PA2404/S00176/national-hiking-transport-costs-for-families-and-young-new-zealanders.htm
+title: National Hiking Transport Costs For Families And Young New Zealanders
+date: 2024-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00176/national-hiking-transport-costs-for-families-and-young-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/04/30/national-hiking-transport-costs-for-families-and-young-new-zealanders/index.html
+layout: layout.njk
 ---
 National Hiking Transport Costs For Families And Young New Zealanders
 =====================================================================

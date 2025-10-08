@@ -1,9 +1,13 @@
 ---
 slug: study-shows-more-quit-stimulus-needed-on-cigarette-packs
-title: "Study shows more \"quit\" stimulus needed on cigarette packs"
-date: 2014-11-10
-source-url: https://www.scoop.co.nz/stories/PO1411/S00086/study-shows-more-quit-stimulus-needed-on-cigarette-packs.htm
+title: Study shows more "quit" stimulus needed on cigarette packs
+date: 2014-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00086/study-shows-more-quit-stimulus-needed-on-cigarette-packs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/10/study-shows-more-quit-stimulus-needed-on-cigarette-packs/index.html
+layout: layout.njk
 ---
 Study shows more “quit” stimulus needed on cigarette packs
 ==========================================================

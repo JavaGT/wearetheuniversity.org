@@ -1,9 +1,12 @@
 ---
 slug: mfe-must-stop-downplaying-dairy-pollution
-title: "MfE must stop downplaying dairy pollution"
-date: 2008-03-03
-source-url: https://www.scoop.co.nz/stories/PA0803/S00020/mfe-must-stop-downplaying-dairy-pollution.htm
+title: MfE must stop downplaying dairy pollution
+date: 2008-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00020/mfe-must-stop-downplaying-dairy-pollution.htm
 author: green-party
+permalink: /archive/2008/03/03/mfe-must-stop-downplaying-dairy-pollution/index.html
+layout: layout.njk
 ---
 MfE must stop downplaying dairy pollution
 =========================================

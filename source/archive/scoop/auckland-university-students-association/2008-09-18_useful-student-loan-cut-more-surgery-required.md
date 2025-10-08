@@ -1,9 +1,12 @@
 ---
 slug: useful-student-loan-cut-more-surgery-required
-title: "Useful student loan ‘cut’, more surgery required"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/ED0809/S00055/useful-student-loan-cut-more-surgery-required.htm
+title: Useful student loan ‘cut’, more surgery required
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00055/useful-student-loan-cut-more-surgery-required.htm
 author: auckland-university-students-association
+permalink: /archive/2008/09/18/useful-student-loan-cut-more-surgery-required/index.html
+layout: layout.njk
 ---
 Useful student loan ‘cut’, more surgery required
 ================================================

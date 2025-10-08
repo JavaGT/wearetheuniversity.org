@@ -1,9 +1,12 @@
 ---
 slug: stroke-expert-shares-knowledge-on-prevention
-title: "Stroke Expert Shares Knowledge on Prevention"
-date: 2004-11-08
-source-url: https://www.scoop.co.nz/stories/ED0411/S00023/stroke-expert-shares-knowledge-on-prevention.htm
+title: Stroke Expert Shares Knowledge on Prevention
+date: 2004-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00023/stroke-expert-shares-knowledge-on-prevention.htm
 author: auckland-university
+permalink: /archive/2004/11/08/stroke-expert-shares-knowledge-on-prevention/index.html
+layout: layout.njk
 ---
 Stroke Expert Shares Knowledge on Prevention
 ============================================

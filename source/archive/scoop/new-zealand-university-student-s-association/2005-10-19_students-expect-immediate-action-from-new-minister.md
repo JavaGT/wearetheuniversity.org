@@ -1,9 +1,13 @@
 ---
 slug: students-expect-immediate-action-from-new-minister
-title: "Students expect immediate action from new Minister"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/ED0510/S00057/students-expect-immediate-action-from-new-minister.htm
+title: Students expect immediate action from new Minister
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00057/students-expect-immediate-action-from-new-minister.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/10/19/students-expect-immediate-action-from-new-minister/index.html
+layout: layout.njk
 ---
 Students expect immediate action from new Minister
 ==================================================

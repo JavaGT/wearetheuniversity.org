@@ -1,9 +1,12 @@
 ---
 slug: national-will-stop-growing-welfare-dependency
-title: "National will stop growing welfare dependency"
-date: 2003-05-28
-source-url: https://www.scoop.co.nz/stories/PA0305/S00702/national-will-stop-growing-welfare-dependency.htm
+title: National will stop growing welfare dependency
+date: 2003-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00702/national-will-stop-growing-welfare-dependency.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/28/national-will-stop-growing-welfare-dependency/index.html
+layout: layout.njk
 ---
 National will stop growing welfare dependency
 =============================================

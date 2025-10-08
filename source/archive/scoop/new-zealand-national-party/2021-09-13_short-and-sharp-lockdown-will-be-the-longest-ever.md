@@ -1,9 +1,13 @@
 ---
 slug: short-and-sharp-lockdown-will-be-the-longest-ever
-title: "‘Short and sharp’ lockdown will be the longest ever"
-date: 2021-09-13
-source-url: https://www.scoop.co.nz/stories/PA2109/S00121/short-and-sharp-lockdown-will-be-the-longest-ever.htm
+title: ‘Short and sharp’ lockdown will be the longest ever
+date: 2021-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00121/short-and-sharp-lockdown-will-be-the-longest-ever.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/13/short-and-sharp-lockdown-will-be-the-longest-ever/index.html
+layout: layout.njk
 ---
 ‘Short and sharp’ lockdown will be the longest ever
 ===================================================

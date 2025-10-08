@@ -1,9 +1,13 @@
 ---
 slug: educators-pay-equity-claims-in-spotlight-for-suffrage-day
-title: "Educators' pay equity claims in spotlight for Suffrage Day"
-date: 2019-09-18
-source-url: https://www.scoop.co.nz/stories/PO1909/S00253/educators-pay-equity-claims-in-spotlight-for-suffrage-day.htm
+title: Educators' pay equity claims in spotlight for Suffrage Day
+date: 2019-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1909/S00253/educators-pay-equity-claims-in-spotlight-for-suffrage-day.htm
 author: nzei
+permalink: >-
+  /archive/2019/09/18/educators-pay-equity-claims-in-spotlight-for-suffrage-day/index.html
+layout: layout.njk
 ---
 Educators' pay equity claims in spotlight for Suffrage Day
 ==========================================================

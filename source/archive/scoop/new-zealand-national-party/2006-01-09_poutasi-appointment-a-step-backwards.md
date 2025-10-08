@@ -1,9 +1,12 @@
 ---
 slug: poutasi-appointment-a-step-backwards
-title: "Poutasi appointment a step backwards"
-date: 2006-01-09
-source-url: https://www.scoop.co.nz/stories/PA0601/S00014/poutasi-appointment-a-step-backwards.htm
+title: Poutasi appointment a step backwards
+date: 2006-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00014/poutasi-appointment-a-step-backwards.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/09/poutasi-appointment-a-step-backwards/index.html
+layout: layout.njk
 ---
 Poutasi appointment a step backwards
 ====================================

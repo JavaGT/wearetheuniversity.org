@@ -1,9 +1,12 @@
 ---
 slug: peters-labour-class-of-2003-doyens-of-duplicity
-title: "Peters: Labour class of 2003 – Doyens of Duplicity"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/PA0307/S00388/peters-labour-class-of-2003-doyens-of-duplicity.htm
+title: 'Peters: Labour class of 2003 – Doyens of Duplicity'
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00388/peters-labour-class-of-2003-doyens-of-duplicity.htm
 author: new-zealand-first-party
+permalink: /archive/2003/07/22/peters-labour-class-of-2003-doyens-of-duplicity/index.html
+layout: layout.njk
 ---
 Peters: Labour class of 2003 – Doyens of Duplicity
 ==================================================

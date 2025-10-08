@@ -1,9 +1,13 @@
 ---
 slug: blisteringly-fast-liquid-flow-technique-to-help-industry
-title: "Blisteringly fast liquid flow technique to help industry"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/SC1212/S00019/blisteringly-fast-liquid-flow-technique-to-help-industry.htm
+title: Blisteringly fast liquid flow technique to help industry
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00019/blisteringly-fast-liquid-flow-technique-to-help-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/07/blisteringly-fast-liquid-flow-technique-to-help-industry/index.html
+layout: layout.njk
 ---
 Blisteringly fast liquid flow technique to help industry
 ========================================================

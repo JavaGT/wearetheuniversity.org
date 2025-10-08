@@ -1,9 +1,13 @@
 ---
 slug: sio-endorsement-for-efu-koka-in-otara-by-election
-title: "Sio Endorsement for Efu Koka in Otara By-Election"
-date: 2008-06-03
-source-url: https://www.scoop.co.nz/stories/PA0806/S00006/sio-endorsement-for-efu-koka-in-otara-by-election.htm
+title: Sio Endorsement for Efu Koka in Otara By-Election
+date: 2008-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00006/sio-endorsement-for-efu-koka-in-otara-by-election.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2008/06/03/sio-endorsement-for-efu-koka-in-otara-by-election/index.html
+layout: layout.njk
 ---
 Sio Endorsement for Efu Koka in Otara By-Election
 =================================================

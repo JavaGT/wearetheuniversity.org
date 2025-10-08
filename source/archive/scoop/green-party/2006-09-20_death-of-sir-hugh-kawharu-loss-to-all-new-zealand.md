@@ -1,9 +1,13 @@
 ---
 slug: death-of-sir-hugh-kawharu-loss-to-all-new-zealand
-title: "Death of Sir Hugh Kawharu loss to all New Zealand"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/PA0609/S00447/death-of-sir-hugh-kawharu-loss-to-all-new-zealand.htm
+title: Death of Sir Hugh Kawharu loss to all New Zealand
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00447/death-of-sir-hugh-kawharu-loss-to-all-new-zealand.htm
 author: green-party
+permalink: >-
+  /archive/2006/09/20/death-of-sir-hugh-kawharu-loss-to-all-new-zealand/index.html
+layout: layout.njk
 ---
 Death of Sir Hugh Kawharu loss to all New Zealand
 =================================================

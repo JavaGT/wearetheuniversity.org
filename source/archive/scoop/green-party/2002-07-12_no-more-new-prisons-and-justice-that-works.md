@@ -1,9 +1,12 @@
 ---
 slug: no-more-new-prisons-and-justice-that-works
-title: "No More New Prisons And Justice That Works"
-date: 2002-07-12
-source-url: https://www.scoop.co.nz/stories/PA0207/S00336/no-more-new-prisons-and-justice-that-works.htm
+title: No More New Prisons And Justice That Works
+date: 2002-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00336/no-more-new-prisons-and-justice-that-works.htm
 author: green-party
+permalink: /archive/2002/07/12/no-more-new-prisons-and-justice-that-works/index.html
+layout: layout.njk
 ---
 No More New Prisons And Justice That Works
 ==========================================

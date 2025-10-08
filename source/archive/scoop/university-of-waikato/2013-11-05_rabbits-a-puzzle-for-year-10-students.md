@@ -1,9 +1,12 @@
 ---
 slug: rabbits-a-puzzle-for-year-10-students
-title: "Rabbits a puzzle for year 10 students"
-date: 2013-11-05
-source-url: https://www.scoop.co.nz/stories/ED1311/S00035/rabbits-a-puzzle-for-year-10-students.htm
+title: Rabbits a puzzle for year 10 students
+date: 2013-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00035/rabbits-a-puzzle-for-year-10-students.htm
 author: university-of-waikato
+permalink: /archive/2013/11/05/rabbits-a-puzzle-for-year-10-students/index.html
+layout: layout.njk
 ---
 Rabbits a puzzle for year 10 students
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: public-suffers-consequence-of-student-debt
-title: "Public Suffers Consequence Of Student Debt"
-date: 1999-10-14
-source-url: https://www.scoop.co.nz/stories/ED9910/S00040/public-suffers-consequence-of-student-debt.htm
+title: Public Suffers Consequence Of Student Debt
+date: 1999-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00040/public-suffers-consequence-of-student-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/10/14/public-suffers-consequence-of-student-debt/index.html
+layout: layout.njk
 ---
 Public Suffers Consequence Of Student Debt
 ==========================================

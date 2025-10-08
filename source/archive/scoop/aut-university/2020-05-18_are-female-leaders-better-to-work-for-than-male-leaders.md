@@ -1,9 +1,13 @@
 ---
 slug: are-female-leaders-better-to-work-for-than-male-leaders
-title: "Are Female Leaders Better To Work For Than Male Leaders?"
-date: 2020-05-18
-source-url: https://www.scoop.co.nz/stories/BU2005/S00392/are-female-leaders-better-to-work-for-than-male-leaders.htm
+title: Are Female Leaders Better To Work For Than Male Leaders?
+date: 2020-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2005/S00392/are-female-leaders-better-to-work-for-than-male-leaders.htm
 author: aut-university
+permalink: >-
+  /archive/2020/05/18/are-female-leaders-better-to-work-for-than-male-leaders/index.html
+layout: layout.njk
 ---
 Are Female Leaders Better To Work For Than Male Leaders?
 ========================================================

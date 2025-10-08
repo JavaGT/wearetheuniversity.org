@@ -1,9 +1,13 @@
 ---
 slug: professor-of-nanotechnology-appointed-at-victoria
-title: "Professor of Nanotechnology appointed at Victoria"
-date: 2007-05-29
-source-url: https://www.scoop.co.nz/stories/ED0705/S00112/professor-of-nanotechnology-appointed-at-victoria.htm
+title: Professor of Nanotechnology appointed at Victoria
+date: 2007-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00112/professor-of-nanotechnology-appointed-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/29/professor-of-nanotechnology-appointed-at-victoria/index.html
+layout: layout.njk
 ---
 Professor of Nanotechnology appointed at Victoria
 =================================================

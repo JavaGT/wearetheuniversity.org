@@ -1,9 +1,12 @@
 ---
 slug: treasury-confirms-nationals-fear-on-loans
-title: "Treasury confirms National's fear on loans"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00379/treasury-confirms-nationals-fear-on-loans.htm
+title: Treasury confirms National's fear on loans
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00379/treasury-confirms-nationals-fear-on-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/14/treasury-confirms-nationals-fear-on-loans/index.html
+layout: layout.njk
 ---
 Treasury confirms National's fear on loans
 ==========================================

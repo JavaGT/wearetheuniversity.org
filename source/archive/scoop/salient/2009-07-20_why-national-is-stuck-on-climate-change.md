@@ -1,9 +1,12 @@
 ---
 slug: why-national-is-stuck-on-climate-change
-title: "Why National is stuck on climate change"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/HL0907/S00215/why-national-is-stuck-on-climate-change.htm
+title: Why National is stuck on climate change
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0907/S00215/why-national-is-stuck-on-climate-change.htm
 author: salient
+permalink: /archive/2009/07/20/why-national-is-stuck-on-climate-change/index.html
+layout: layout.njk
 ---
 Why National is stuck on climate change
 =======================================

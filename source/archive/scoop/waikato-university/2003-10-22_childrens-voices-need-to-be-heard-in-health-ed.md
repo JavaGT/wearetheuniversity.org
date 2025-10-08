@@ -1,9 +1,12 @@
 ---
 slug: childrens-voices-need-to-be-heard-in-health-ed
-title: "Children’s Voices Need To Be Heard In Health Ed"
-date: 2003-10-22
-source-url: https://www.scoop.co.nz/stories/ED0310/S00091/childrens-voices-need-to-be-heard-in-health-ed.htm
+title: Children’s Voices Need To Be Heard In Health Ed
+date: 2003-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00091/childrens-voices-need-to-be-heard-in-health-ed.htm
 author: waikato-university
+permalink: /archive/2003/10/22/childrens-voices-need-to-be-heard-in-health-ed/index.html
+layout: layout.njk
 ---
 Children’s Voices Need To Be Heard In Health Ed
 ===============================================

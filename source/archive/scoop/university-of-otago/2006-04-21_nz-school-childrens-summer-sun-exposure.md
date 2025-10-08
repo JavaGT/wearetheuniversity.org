@@ -1,9 +1,12 @@
 ---
 slug: nz-school-childrens-summer-sun-exposure
-title: "NZ school children’s summer sun exposure"
-date: 2006-04-21
-source-url: https://www.scoop.co.nz/stories/GE0604/S00080/nz-school-childrens-summer-sun-exposure.htm
+title: NZ school children’s summer sun exposure
+date: 2006-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0604/S00080/nz-school-childrens-summer-sun-exposure.htm
 author: university-of-otago
+permalink: /archive/2006/04/21/nz-school-childrens-summer-sun-exposure/index.html
+layout: layout.njk
 ---
 NZ school children’s summer sun exposure
 ========================================

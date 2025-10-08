@@ -1,9 +1,12 @@
 ---
 slug: leadership-needed-to-rebuild-canterbury
-title: "Leadership needed to rebuild Canterbury"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/PA1109/S00372/leadership-needed-to-rebuild-canterbury.htm
+title: Leadership needed to rebuild Canterbury
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00372/leadership-needed-to-rebuild-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/19/leadership-needed-to-rebuild-canterbury/index.html
+layout: layout.njk
 ---
 Leadership needed to rebuild Canterbury
 =======================================

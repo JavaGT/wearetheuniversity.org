@@ -1,9 +1,13 @@
 ---
 slug: brigadier-to-teach-intensive-law-paper-at-waikato
-title: "Brigadier to teach intensive law paper at Waikato"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/ED0902/S00070/brigadier-to-teach-intensive-law-paper-at-waikato.htm
+title: Brigadier to teach intensive law paper at Waikato
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00070/brigadier-to-teach-intensive-law-paper-at-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/02/23/brigadier-to-teach-intensive-law-paper-at-waikato/index.html
+layout: layout.njk
 ---
 Brigadier to teach intensive law paper at Waikato
 =================================================

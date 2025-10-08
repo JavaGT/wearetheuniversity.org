@@ -1,9 +1,12 @@
 ---
 slug: charges-dropped-against-another-peace-activist
-title: "Charges dropped against another peace activist"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/PO1702/S00166/charges-dropped-against-another-peace-activist.htm
+title: Charges dropped against another peace activist
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00166/charges-dropped-against-another-peace-activist.htm
 author: peace-action-wellington
+permalink: /archive/2017/02/15/charges-dropped-against-another-peace-activist/index.html
+layout: layout.njk
 ---
 Charges dropped against another peace activist
 ==============================================

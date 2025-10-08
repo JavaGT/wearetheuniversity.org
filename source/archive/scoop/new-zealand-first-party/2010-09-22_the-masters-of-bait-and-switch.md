@@ -1,9 +1,12 @@
 ---
 slug: the-masters-of-bait-and-switch
-title: "The Masters of Bait and Switch"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/PO1009/S00267/the-masters-of-bait-and-switch.htm
+title: The Masters of Bait and Switch
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1009/S00267/the-masters-of-bait-and-switch.htm
 author: new-zealand-first-party
+permalink: /archive/2010/09/22/the-masters-of-bait-and-switch/index.html
+layout: layout.njk
 ---
 The Masters of Bait and Switch
 ==============================

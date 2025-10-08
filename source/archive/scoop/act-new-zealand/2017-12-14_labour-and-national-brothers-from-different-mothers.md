@@ -1,9 +1,13 @@
 ---
 slug: labour-and-national-brothers-from-different-mothers
-title: "Labour and National: Brothers from Different Mothers"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/PA1712/S00154/labour-and-national-brothers-from-different-mothers.htm
+title: 'Labour and National: Brothers from Different Mothers'
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00154/labour-and-national-brothers-from-different-mothers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/12/14/labour-and-national-brothers-from-different-mothers/index.html
+layout: layout.njk
 ---
 Labour and National: Brothers from Different Mothers
 ====================================================

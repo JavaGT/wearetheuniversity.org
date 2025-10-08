@@ -1,9 +1,12 @@
 ---
 slug: growing-christchurch-is-a-city-on-the-move
-title: "Growing Christchurch is a city on the move"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/AK1307/S00778/growing-christchurch-is-a-city-on-the-move.htm
+title: Growing Christchurch is a city on the move
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00778/growing-christchurch-is-a-city-on-the-move.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/31/growing-christchurch-is-a-city-on-the-move/index.html
+layout: layout.njk
 ---
 Growing Christchurch is a city on the move
 ==========================================

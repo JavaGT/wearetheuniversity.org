@@ -1,9 +1,12 @@
 ---
 slug: minister-of-health-forces-more-frontline-cuts
-title: "Minister of Health forces more frontline cuts"
-date: 2009-04-13
-source-url: https://www.scoop.co.nz/stories/PA0904/S00165/minister-of-health-forces-more-frontline-cuts.htm
+title: Minister of Health forces more frontline cuts
+date: 2009-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00165/minister-of-health-forces-more-frontline-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/13/minister-of-health-forces-more-frontline-cuts/index.html
+layout: layout.njk
 ---
 Minister of Health forces more frontline cuts
 =============================================

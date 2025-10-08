@@ -1,9 +1,13 @@
 ---
 slug: ill-informed-hysteria-over-student-loan-borrowing
-title: "Ill-informed hysteria over student loan borrowing"
-date: 2005-08-02
-source-url: https://www.scoop.co.nz/stories/ED0508/S00014/ill-informed-hysteria-over-student-loan-borrowing.htm
+title: Ill-informed hysteria over student loan borrowing
+date: 2005-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00014/ill-informed-hysteria-over-student-loan-borrowing.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/08/02/ill-informed-hysteria-over-student-loan-borrowing/index.html
+layout: layout.njk
 ---
 Ill-informed hysteria over student loan borrowing
 =================================================

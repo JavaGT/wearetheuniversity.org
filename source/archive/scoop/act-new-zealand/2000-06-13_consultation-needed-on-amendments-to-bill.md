@@ -1,9 +1,12 @@
 ---
 slug: consultation-needed-on-amendments-to-bill
-title: "Consultation Needed On Amendments To Bill"
-date: 2000-06-13
-source-url: https://www.scoop.co.nz/stories/PA0006/S00221/consultation-needed-on-amendments-to-bill.htm
+title: Consultation Needed On Amendments To Bill
+date: 2000-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00221/consultation-needed-on-amendments-to-bill.htm
 author: act-new-zealand
+permalink: /archive/2000/06/13/consultation-needed-on-amendments-to-bill/index.html
+layout: layout.njk
 ---
 Consultation Needed On Amendments To Bill
 =========================================

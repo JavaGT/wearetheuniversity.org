@@ -1,9 +1,12 @@
 ---
 slug: michael-king-waikato-university-pays-tribute
-title: "Michael King: Waikato University Pays Tribute"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/ED0403/S00131/michael-king-waikato-university-pays-tribute.htm
+title: 'Michael King: Waikato University Pays Tribute'
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00131/michael-king-waikato-university-pays-tribute.htm
 author: waikato-university
+permalink: /archive/2004/03/31/michael-king-waikato-university-pays-tribute/index.html
+layout: layout.njk
 ---
 Michael King: Waikato University Pays Tribute
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-waitaha-claims-settlement-bill-hon-tariana-turia
-title: "Speech : Waitaha Claims Settlement Bill - Hon Tariana Turia"
-date: 2012-09-20
-source-url: https://www.scoop.co.nz/stories/PA1209/S00311/speech-waitaha-claims-settlement-bill-hon-tariana-turia.htm
+title: 'Speech : Waitaha Claims Settlement Bill - Hon Tariana Turia'
+date: 2012-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00311/speech-waitaha-claims-settlement-bill-hon-tariana-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/09/20/speech-waitaha-claims-settlement-bill-hon-tariana-turia/index.html
+layout: layout.njk
 ---
 Speech : Waitaha Claims Settlement Bill - Hon Tariana Turia
 ===========================================================

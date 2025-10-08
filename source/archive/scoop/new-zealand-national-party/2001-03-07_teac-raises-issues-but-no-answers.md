@@ -1,9 +1,12 @@
 ---
 slug: teac-raises-issues-but-no-answers
-title: "TEAC raises issues but no answers"
-date: 2001-03-07
-source-url: https://www.scoop.co.nz/stories/PA0103/S00101/teac-raises-issues-but-no-answers.htm
+title: TEAC raises issues but no answers
+date: 2001-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00101/teac-raises-issues-but-no-answers.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/07/teac-raises-issues-but-no-answers/index.html
+layout: layout.njk
 ---
 TEAC raises issues but no answers
 =================================

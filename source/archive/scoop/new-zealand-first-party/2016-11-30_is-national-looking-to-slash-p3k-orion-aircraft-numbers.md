@@ -1,9 +1,13 @@
 ---
 slug: is-national-looking-to-slash-p3k-orion-aircraft-numbers
-title: "Is National Looking to Slash P3k Orion Aircraft Numbers?"
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/PA1611/S00568/is-national-looking-to-slash-p3k-orion-aircraft-numbers.htm
+title: Is National Looking to Slash P3k Orion Aircraft Numbers?
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00568/is-national-looking-to-slash-p3k-orion-aircraft-numbers.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/30/is-national-looking-to-slash-p3k-orion-aircraft-numbers/index.html
+layout: layout.njk
 ---
 Is National Looking to Slash P3k Orion Aircraft Numbers?
 ========================================================

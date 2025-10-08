@@ -1,9 +1,12 @@
 ---
 slug: law-students-opposed-to-new-law-faculty-at-aut
-title: "Law Students Opposed To New Law Faculty At AUT"
-date: 2008-02-14
-source-url: https://www.scoop.co.nz/stories/ED0802/S00033/law-students-opposed-to-new-law-faculty-at-aut.htm
+title: Law Students Opposed To New Law Faculty At AUT
+date: 2008-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00033/law-students-opposed-to-new-law-faculty-at-aut.htm
 author: new-zealand-law-students-association
+permalink: /archive/2008/02/14/law-students-opposed-to-new-law-faculty-at-aut/index.html
+layout: layout.njk
 ---
 Law Students Opposed To New Law Faculty At AUT
 ==============================================

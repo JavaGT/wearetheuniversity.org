@@ -1,9 +1,12 @@
 ---
 slug: youth-identify-social-suicide-causes-&-solutions
-title: "Youth Identify Social Suicide Causes & Solutions"
-date: 2005-04-28
-source-url: https://www.scoop.co.nz/stories/ED0504/S00090/youth-identify-social-suicide-causes-solutions.htm
+title: Youth Identify Social Suicide Causes & Solutions
+date: 2005-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00090/youth-identify-social-suicide-causes-solutions.htm
 author: auckland-university
+permalink: /archive/2005/04/28/youth-identify-social-suicide-causes-/index.html
+layout: layout.njk
 ---
 Youth Identify Social Suicide Causes & Solutions
 ================================================

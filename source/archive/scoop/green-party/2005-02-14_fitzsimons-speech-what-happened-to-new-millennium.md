@@ -1,9 +1,13 @@
 ---
 slug: fitzsimons-speech-what-happened-to-new-millennium
-title: "Fitzsimons Speech: What Happened to New Millennium"
-date: 2005-02-14
-source-url: https://www.scoop.co.nz/stories/PA0502/S00292/fitzsimons-speech-what-happened-to-new-millennium.htm
+title: 'Fitzsimons Speech: What Happened to New Millennium'
+date: 2005-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00292/fitzsimons-speech-what-happened-to-new-millennium.htm
 author: green-party
+permalink: >-
+  /archive/2005/02/14/fitzsimons-speech-what-happened-to-new-millennium/index.html
+layout: layout.njk
 ---
 Fitzsimons Speech: What Happened to New Millennium
 ==================================================

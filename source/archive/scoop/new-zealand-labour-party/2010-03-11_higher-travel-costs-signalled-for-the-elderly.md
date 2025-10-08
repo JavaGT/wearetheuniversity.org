@@ -1,9 +1,12 @@
 ---
 slug: higher-travel-costs-signalled-for-the-elderly
-title: "Higher travel costs signalled for the elderly"
-date: 2010-03-11
-source-url: https://www.scoop.co.nz/stories/PA1003/S00164/higher-travel-costs-signalled-for-the-elderly.htm
+title: Higher travel costs signalled for the elderly
+date: 2010-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00164/higher-travel-costs-signalled-for-the-elderly.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/11/higher-travel-costs-signalled-for-the-elderly/index.html
+layout: layout.njk
 ---
 Higher travel costs signalled for the elderly
 =============================================

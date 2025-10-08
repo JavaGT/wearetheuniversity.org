@@ -1,9 +1,12 @@
 ---
 slug: conference-to-celebrate-music-of-haydn
-title: "Conference to celebrate music of Haydn"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/CU0905/S00206/conference-to-celebrate-music-of-haydn.htm
+title: Conference to celebrate music of Haydn
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00206/conference-to-celebrate-music-of-haydn.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/05/15/conference-to-celebrate-music-of-haydn/index.html
+layout: layout.njk
 ---
 Conference to celebrate music of Haydn
 ======================================

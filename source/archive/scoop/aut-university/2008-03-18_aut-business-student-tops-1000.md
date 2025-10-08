@@ -1,9 +1,12 @@
 ---
 slug: aut-business-student-tops-1000
-title: "AUT business student tops 1000"
-date: 2008-03-18
-source-url: https://www.scoop.co.nz/stories/ED0803/S00045/aut-business-student-tops-1000.htm
+title: AUT business student tops 1000
+date: 2008-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00045/aut-business-student-tops-1000.htm
 author: aut-university
+permalink: /archive/2008/03/18/aut-business-student-tops-1000/index.html
+layout: layout.njk
 ---
 AUT business student tops 1000
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: five-uc-researchers-receive-marsden-study-grants
-title: "Five UC researchers receive Marsden study grants"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00143/five-uc-researchers-receive-marsden-study-grants.htm
+title: Five UC researchers receive Marsden study grants
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00143/five-uc-researchers-receive-marsden-study-grants.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/25/five-uc-researchers-receive-marsden-study-grants/index.html
+layout: layout.njk
 ---
 Five UC researchers receive Marsden study grants
 ================================================

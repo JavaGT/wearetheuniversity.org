@@ -1,9 +1,12 @@
 ---
 slug: solomon-tipene-a-gentlemans-right-of-reply
-title: "Solomon Tipene: A gentleman's right of reply"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/PO1106/S00286/solomon-tipene-a-gentlemans-right-of-reply.htm
+title: 'Solomon Tipene: A gentleman''s right of reply'
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00286/solomon-tipene-a-gentlemans-right-of-reply.htm
 author: te-pati-maori
+permalink: /archive/2011/06/23/solomon-tipene-a-gentlemans-right-of-reply/index.html
+layout: layout.njk
 ---
 Solomon Tipene: A gentleman's right of reply
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-recognised-for-game-changing-learner-success-innovation
-title: "University Recognised For ‘game-changing’ Learner Success Innovation"
-date: 2020-10-05
-source-url: https://www.scoop.co.nz/stories/ED2010/S00008/university-recognised-for-game-changing-learner-success-innovation.htm
+title: University Recognised For ‘game-changing’ Learner Success Innovation
+date: 2020-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00008/university-recognised-for-game-changing-learner-success-innovation.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/10/05/university-recognised-for-game-changing-learner-success-innovation/index.html
+layout: layout.njk
 ---
 University Recognised For ‘game-changing’ Learner Success Innovation
 ====================================================================

@@ -1,9 +1,13 @@
 ---
 slug: young-entrepreneurs-help-create-a-better-new-zealand
-title: "Young entrepreneurs help create a better New Zealand"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/BU1411/S01078/young-entrepreneurs-help-create-a-better-new-zealand.htm
+title: Young entrepreneurs help create a better New Zealand
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1411/S01078/young-entrepreneurs-help-create-a-better-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/27/young-entrepreneurs-help-create-a-better-new-zealand/index.html
+layout: layout.njk
 ---
 Young entrepreneurs help create a better New Zealand
 ====================================================

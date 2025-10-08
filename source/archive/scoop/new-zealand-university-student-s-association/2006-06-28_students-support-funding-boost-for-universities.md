@@ -1,9 +1,12 @@
 ---
 slug: students-support-funding-boost-for-universities
-title: "Students support funding boost for universities"
-date: 2006-06-28
-source-url: https://www.scoop.co.nz/stories/ED0606/S00071/students-support-funding-boost-for-universities.htm
+title: Students support funding boost for universities
+date: 2006-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00071/students-support-funding-boost-for-universities.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/06/28/students-support-funding-boost-for-universities/index.html
+layout: layout.njk
 ---
 Students support funding boost for universities
 ===============================================

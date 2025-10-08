@@ -1,9 +1,12 @@
 ---
 slug: government-sneaks-through-new-tax
-title: "Government Sneaks Through New Tax"
-date: 2002-11-22
-source-url: https://www.scoop.co.nz/stories/PA0211/S00542/government-sneaks-through-new-tax.htm
+title: Government Sneaks Through New Tax
+date: 2002-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00542/government-sneaks-through-new-tax.htm
 author: act-new-zealand
+permalink: /archive/2002/11/22/government-sneaks-through-new-tax/index.html
+layout: layout.njk
 ---
 Government Sneaks Through New Tax
 =================================

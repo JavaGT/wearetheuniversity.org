@@ -1,9 +1,12 @@
 ---
 slug: class-closure-simply-spiteful
-title: "Class closure simply spiteful"
-date: 2011-11-19
-source-url: https://www.scoop.co.nz/stories/PA1111/S00396/class-closure-simply-spiteful.htm
+title: Class closure simply spiteful
+date: 2011-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00396/class-closure-simply-spiteful.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/19/class-closure-simply-spiteful/index.html
+layout: layout.njk
 ---
 Class closure simply spiteful
 =============================

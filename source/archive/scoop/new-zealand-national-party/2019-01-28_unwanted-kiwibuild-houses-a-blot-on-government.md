@@ -1,9 +1,12 @@
 ---
 slug: unwanted-kiwibuild-houses-a-blot-on-government
-title: "Unwanted KiwiBuild houses a blot on Government"
-date: 2019-01-28
-source-url: https://www.scoop.co.nz/stories/PA1901/S00075/unwanted-kiwibuild-houses-a-blot-on-government.htm
+title: Unwanted KiwiBuild houses a blot on Government
+date: 2019-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00075/unwanted-kiwibuild-houses-a-blot-on-government.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/28/unwanted-kiwibuild-houses-a-blot-on-government/index.html
+layout: layout.njk
 ---
 Unwanted KiwiBuild houses a blot on Government
 ==============================================

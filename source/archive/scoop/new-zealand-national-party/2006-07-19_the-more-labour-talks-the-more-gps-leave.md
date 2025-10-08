@@ -1,9 +1,12 @@
 ---
 slug: the-more-labour-talks-the-more-gps-leave
-title: "The more Labour talks, the more GPs leave"
-date: 2006-07-19
-source-url: https://www.scoop.co.nz/stories/PA0607/S00297/the-more-labour-talks-the-more-gps-leave.htm
+title: The more Labour talks, the more GPs leave
+date: 2006-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00297/the-more-labour-talks-the-more-gps-leave.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/19/the-more-labour-talks-the-more-gps-leave/index.html
+layout: layout.njk
 ---
 The more Labour talks, the more GPs leave
 =========================================

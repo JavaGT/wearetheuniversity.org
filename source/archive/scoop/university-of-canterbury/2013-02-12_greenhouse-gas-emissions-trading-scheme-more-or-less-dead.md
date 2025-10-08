@@ -1,9 +1,13 @@
 ---
 slug: greenhouse-gas-emissions-trading-scheme-more-or-less-dead
-title: "Greenhouse gas emissions trading scheme more or less dead"
-date: 2013-02-12
-source-url: https://www.scoop.co.nz/stories/PO1302/S00085/greenhouse-gas-emissions-trading-scheme-more-or-less-dead.htm
+title: Greenhouse gas emissions trading scheme more or less dead
+date: 2013-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00085/greenhouse-gas-emissions-trading-scheme-more-or-less-dead.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/12/greenhouse-gas-emissions-trading-scheme-more-or-less-dead/index.html
+layout: layout.njk
 ---
 Greenhouse gas emissions trading scheme more or less dead
 =========================================================

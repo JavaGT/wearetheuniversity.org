@@ -1,9 +1,12 @@
 ---
 slug: jeanette-wants-to-debate-g-e-milk-and-cows
-title: "Jeanette Wants To Debate G-E Milk And Cows"
-date: 1999-08-08
-source-url: https://www.scoop.co.nz/stories/PA9908/S00125/jeanette-wants-to-debate-g-e-milk-and-cows.htm
+title: Jeanette Wants To Debate G-E Milk And Cows
+date: 1999-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00125/jeanette-wants-to-debate-g-e-milk-and-cows.htm
 author: green-party
+permalink: /archive/1999/08/08/jeanette-wants-to-debate-g-e-milk-and-cows/index.html
+layout: layout.njk
 ---
 Jeanette Wants To Debate G-E Milk And Cows
 ==========================================

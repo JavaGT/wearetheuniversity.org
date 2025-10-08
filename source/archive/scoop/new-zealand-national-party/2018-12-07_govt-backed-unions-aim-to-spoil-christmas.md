@@ -1,9 +1,12 @@
 ---
 slug: govt-backed-unions-aim-to-spoil-christmas
-title: "Govt-backed unions aim to spoil Christmas"
-date: 2018-12-07
-source-url: https://www.scoop.co.nz/stories/PA1812/S00082/govt-backed-unions-aim-to-spoil-christmas.htm
+title: Govt-backed unions aim to spoil Christmas
+date: 2018-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00082/govt-backed-unions-aim-to-spoil-christmas.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/07/govt-backed-unions-aim-to-spoil-christmas/index.html
+layout: layout.njk
 ---
 Govt-backed unions aim to spoil Christmas
 =========================================

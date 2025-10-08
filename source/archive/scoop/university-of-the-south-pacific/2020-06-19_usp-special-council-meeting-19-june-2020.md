@@ -1,9 +1,12 @@
 ---
 slug: usp-special-council-meeting-19-june-2020
-title: "USP Special Council Meeting – 19 June 2020"
-date: 2020-06-19
-source-url: https://www.scoop.co.nz/stories/ED2006/S00027/usp-special-council-meeting-19-june-2020.htm
+title: USP Special Council Meeting – 19 June 2020
+date: 2020-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00027/usp-special-council-meeting-19-june-2020.htm
 author: university-of-the-south-pacific
+permalink: /archive/2020/06/19/usp-special-council-meeting-19-june-2020/index.html
+layout: layout.njk
 ---
 USP Special Council Meeting – 19 June 2020
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: a-compelling-need-to-help-severely-difficult-school-children
-title: "A compelling need to help severely difficult school children"
-date: 2013-05-15
-source-url: https://www.scoop.co.nz/stories/ED1305/S00091/a-compelling-need-to-help-severely-difficult-school-children.htm
+title: A compelling need to help severely difficult school children
+date: 2013-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00091/a-compelling-need-to-help-severely-difficult-school-children.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/15/a-compelling-need-to-help-severely-difficult-school-children/index.html
+layout: layout.njk
 ---
 A compelling need to help severely difficult school children
 ============================================================

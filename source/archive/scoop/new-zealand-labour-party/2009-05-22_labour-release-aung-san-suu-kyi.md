@@ -1,9 +1,12 @@
 ---
 slug: labour-release-aung-san-suu-kyi
-title: "Labour: Release Aung San Suu Kyi"
-date: 2009-05-22
-source-url: https://www.scoop.co.nz/stories/PA0905/S00406/labour-release-aung-san-suu-kyi.htm
+title: 'Labour: Release Aung San Suu Kyi'
+date: 2009-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00406/labour-release-aung-san-suu-kyi.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/22/labour-release-aung-san-suu-kyi/index.html
+layout: layout.njk
 ---
 Labour: Release Aung San Suu Kyi
 ================================

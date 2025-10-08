@@ -1,9 +1,12 @@
 ---
 slug: cullen-address-to-auckland-chamber-of-commerce
-title: "Cullen:  Address to Auckland Chamber of Commerce"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00002/cullen-address-to-auckland-chamber-of-commerce.htm
+title: 'Cullen:  Address to Auckland Chamber of Commerce'
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00002/cullen-address-to-auckland-chamber-of-commerce.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/01/cullen-address-to-auckland-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Cullen: Address to Auckland Chamber of Commerce
 ===============================================

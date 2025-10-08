@@ -1,9 +1,12 @@
 ---
 slug: maori-party-candidate-for-hauraki-waikato
-title: "Maori Party Candidate for Hauraki Waikato"
-date: 2010-08-07
-source-url: https://www.scoop.co.nz/stories/PO1008/S00090/maori-party-candidate-for-hauraki-waikato.htm
+title: Maori Party Candidate for Hauraki Waikato
+date: 2010-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00090/maori-party-candidate-for-hauraki-waikato.htm
 author: te-pati-maori
+permalink: /archive/2010/08/07/maori-party-candidate-for-hauraki-waikato/index.html
+layout: layout.njk
 ---
 Maori Party Candidate for Hauraki Waikato
 =========================================

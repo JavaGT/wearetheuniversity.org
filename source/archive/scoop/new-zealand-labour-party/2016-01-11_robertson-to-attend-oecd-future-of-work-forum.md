@@ -1,9 +1,12 @@
 ---
 slug: robertson-to-attend-oecd-future-of-work-forum
-title: "Robertson to attend OECD future of work forum"
-date: 2016-01-11
-source-url: https://www.scoop.co.nz/stories/PA1601/S00014/robertson-to-attend-oecd-future-of-work-forum.htm
+title: Robertson to attend OECD future of work forum
+date: 2016-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00014/robertson-to-attend-oecd-future-of-work-forum.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/11/robertson-to-attend-oecd-future-of-work-forum/index.html
+layout: layout.njk
 ---
 Robertson to attend OECD future of work forum
 =============================================

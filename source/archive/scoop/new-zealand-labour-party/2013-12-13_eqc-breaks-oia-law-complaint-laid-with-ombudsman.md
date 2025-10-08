@@ -1,9 +1,13 @@
 ---
 slug: eqc-breaks-oia-law-complaint-laid-with-ombudsman
-title: "EQC breaks OIA law – complaint laid with Ombudsman"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/PA1312/S00288/eqc-breaks-oia-law-complaint-laid-with-ombudsman.htm
+title: EQC breaks OIA law – complaint laid with Ombudsman
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00288/eqc-breaks-oia-law-complaint-laid-with-ombudsman.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/12/13/eqc-breaks-oia-law-complaint-laid-with-ombudsman/index.html
+layout: layout.njk
 ---
 EQC breaks OIA law – complaint laid with Ombudsman
 ==================================================

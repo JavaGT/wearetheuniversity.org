@@ -1,9 +1,12 @@
 ---
 slug: questions-remain-around-govts-covid-19-law
-title: "Questions Remain Around Govt’s Covid-19 Law"
-date: 2020-06-03
-source-url: https://www.scoop.co.nz/stories/PA2006/S00024/questions-remain-around-govts-covid-19-law.htm
+title: Questions Remain Around Govt’s Covid-19 Law
+date: 2020-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00024/questions-remain-around-govts-covid-19-law.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/03/questions-remain-around-govts-covid-19-law/index.html
+layout: layout.njk
 ---
 Questions Remain Around Govt’s Covid-19 Law
 ===========================================

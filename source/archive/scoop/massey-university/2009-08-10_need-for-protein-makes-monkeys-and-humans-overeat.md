@@ -1,9 +1,13 @@
 ---
 slug: need-for-protein-makes-monkeys-and-humans-overeat
-title: "Need for protein makes monkeys and humans overeat"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/SC0908/S00015/need-for-protein-makes-monkeys-and-humans-overeat.htm
+title: Need for protein makes monkeys and humans overeat
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0908/S00015/need-for-protein-makes-monkeys-and-humans-overeat.htm
 author: massey-university
+permalink: >-
+  /archive/2009/08/10/need-for-protein-makes-monkeys-and-humans-overeat/index.html
+layout: layout.njk
 ---
 Need for protein makes monkeys and humans overeat
 =================================================

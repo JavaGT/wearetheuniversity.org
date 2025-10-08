@@ -1,9 +1,12 @@
 ---
 slug: tertiary-strategy-designed-for-business
-title: "Tertiary Strategy Designed For Business"
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/ED0205/S00021/tertiary-strategy-designed-for-business.htm
+title: Tertiary Strategy Designed For Business
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00021/tertiary-strategy-designed-for-business.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/14/tertiary-strategy-designed-for-business/index.html
+layout: layout.njk
 ---
 Tertiary Strategy Designed For Business
 =======================================

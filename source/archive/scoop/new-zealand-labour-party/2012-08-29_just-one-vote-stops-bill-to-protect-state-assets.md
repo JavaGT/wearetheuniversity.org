@@ -1,9 +1,13 @@
 ---
 slug: just-one-vote-stops-bill-to-protect-state-assets
-title: "Just one vote stops bill to protect state assets"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/PA1208/S00455/just-one-vote-stops-bill-to-protect-state-assets.htm
+title: Just one vote stops bill to protect state assets
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00455/just-one-vote-stops-bill-to-protect-state-assets.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/29/just-one-vote-stops-bill-to-protect-state-assets/index.html
+layout: layout.njk
 ---
 Just one vote stops bill to protect state assets
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwirail-faces-slow-death-through-bleeding
-title: "KiwiRail faces slow death through bleeding"
-date: 2008-12-18
-source-url: https://www.scoop.co.nz/stories/PA0812/S00228/kiwirail-faces-slow-death-through-bleeding.htm
+title: KiwiRail faces slow death through bleeding
+date: 2008-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00228/kiwirail-faces-slow-death-through-bleeding.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/18/kiwirail-faces-slow-death-through-bleeding/index.html
+layout: layout.njk
 ---
 KiwiRail faces slow death through bleeding
 ==========================================

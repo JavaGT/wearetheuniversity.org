@@ -1,8 +1,11 @@
 ---
 slug: pacific-studies-phd-and-ma-scholarships
-title: "Pacific Studies PhD and MA scholarships"
-date: 2013-08-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/08/29/Pacific-Studies-PhD-and-MA-scholarships.html
+title: Pacific Studies PhD and MA scholarships
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/08/29/Pacific-Studies-PhD-and-MA-scholarships.html
+permalink: /archive/2013/08/29/pacific-studies-phd-and-ma-scholarships/index.html
+layout: layout.njk
 ---
 Pacific Studies PhD and MA scholarships
 =======================================

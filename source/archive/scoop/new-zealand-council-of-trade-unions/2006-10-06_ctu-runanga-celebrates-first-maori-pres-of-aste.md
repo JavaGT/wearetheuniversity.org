@@ -1,9 +1,12 @@
 ---
 slug: ctu-runanga-celebrates-first-maori-pres-of-aste
-title: "CTU Runanga Celebrates First Maori Pres. of ASTE"
-date: 2006-10-06
-source-url: https://www.scoop.co.nz/stories/PO0610/S00054/ctu-runanga-celebrates-first-maori-pres-of-aste.htm
+title: CTU Runanga Celebrates First Maori Pres. of ASTE
+date: 2006-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00054/ctu-runanga-celebrates-first-maori-pres-of-aste.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/10/06/ctu-runanga-celebrates-first-maori-pres-of-aste/index.html
+layout: layout.njk
 ---
 CTU Runanga Celebrates First Maori Pres. of ASTE
 ================================================

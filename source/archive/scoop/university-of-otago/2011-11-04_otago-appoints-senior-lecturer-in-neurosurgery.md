@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-senior-lecturer-in-neurosurgery
-title: "Otago appoints Senior Lecturer in Neurosurgery"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/ED1111/S00040/otago-appoints-senior-lecturer-in-neurosurgery.htm
+title: Otago appoints Senior Lecturer in Neurosurgery
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00040/otago-appoints-senior-lecturer-in-neurosurgery.htm
 author: university-of-otago
+permalink: /archive/2011/11/04/otago-appoints-senior-lecturer-in-neurosurgery/index.html
+layout: layout.njk
 ---
 Otago appoints Senior Lecturer in Neurosurgery
 ==============================================

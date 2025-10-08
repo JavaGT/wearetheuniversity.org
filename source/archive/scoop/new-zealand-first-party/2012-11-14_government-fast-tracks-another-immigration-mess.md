@@ -1,9 +1,12 @@
 ---
 slug: government-fast-tracks-another-immigration-mess
-title: "Government Fast Tracks Another Immigration Mess"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PA1211/S00233/government-fast-tracks-another-immigration-mess.htm
+title: Government Fast Tracks Another Immigration Mess
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00233/government-fast-tracks-another-immigration-mess.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/14/government-fast-tracks-another-immigration-mess/index.html
+layout: layout.njk
 ---
 Government Fast Tracks Another Immigration Mess
 ===============================================

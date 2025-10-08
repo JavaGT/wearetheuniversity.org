@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-20
-title: "AUS Tertiary Update  Vol. 5,  No.  20"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/ED0206/S00029/aus-tertiary-update-vol-5-no-20.htm
+title: AUS Tertiary Update  Vol. 5,  No.  20
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00029/aus-tertiary-update-vol-5-no-20.htm
 author: association-of-university-staff
+permalink: /archive/2002/06/14/aus-tertiary-update-vol-5-no-20/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5, No. 20
 ==================================

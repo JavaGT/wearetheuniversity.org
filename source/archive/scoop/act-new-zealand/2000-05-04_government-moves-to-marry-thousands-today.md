@@ -1,9 +1,12 @@
 ---
 slug: government-moves-to-marry-thousands-today
-title: "Government Moves To Marry Thousands Today"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/PA0005/S00093/government-moves-to-marry-thousands-today.htm
+title: Government Moves To Marry Thousands Today
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00093/government-moves-to-marry-thousands-today.htm
 author: act-new-zealand
+permalink: /archive/2000/05/04/government-moves-to-marry-thousands-today/index.html
+layout: layout.njk
 ---
 Government Moves To Marry Thousands Today
 =========================================

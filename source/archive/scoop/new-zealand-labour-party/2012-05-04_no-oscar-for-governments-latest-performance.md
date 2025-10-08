@@ -1,9 +1,12 @@
 ---
 slug: no-oscar-for-governments-latest-performance
-title: "No OSCAR for Government’s latest performance"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/PA1205/S00081/no-oscar-for-governments-latest-performance.htm
+title: No OSCAR for Government’s latest performance
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00081/no-oscar-for-governments-latest-performance.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/04/no-oscar-for-governments-latest-performance/index.html
+layout: layout.njk
 ---
 No OSCAR for Government’s latest performance
 ============================================

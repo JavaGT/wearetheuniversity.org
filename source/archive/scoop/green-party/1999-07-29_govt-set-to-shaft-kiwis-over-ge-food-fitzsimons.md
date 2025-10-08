@@ -1,9 +1,12 @@
 ---
 slug: govt-set-to-shaft-kiwis-over-ge-food-fitzsimons
-title: "Govt. Set To Shaft Kiwis Over GE Food - Fitzsimons"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PA9907/S00591/govt-set-to-shaft-kiwis-over-ge-food-fitzsimons.htm
+title: Govt. Set To Shaft Kiwis Over GE Food - Fitzsimons
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00591/govt-set-to-shaft-kiwis-over-ge-food-fitzsimons.htm
 author: green-party
+permalink: /archive/1999/07/29/govt-set-to-shaft-kiwis-over-ge-food-fitzsimons/index.html
+layout: layout.njk
 ---
 Govt. Set To Shaft Kiwis Over GE Food - Fitzsimons
 ==================================================

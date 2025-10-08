@@ -1,9 +1,12 @@
 ---
 slug: act-will-scrap-all-gaming-taxes
-title: "ACT will scrap all gaming taxes"
-date: 2005-06-16
-source-url: https://www.scoop.co.nz/stories/PA0506/S00362/act-will-scrap-all-gaming-taxes.htm
+title: ACT will scrap all gaming taxes
+date: 2005-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00362/act-will-scrap-all-gaming-taxes.htm
 author: act-new-zealand
+permalink: /archive/2005/06/16/act-will-scrap-all-gaming-taxes/index.html
+layout: layout.njk
 ---
 ACT will scrap all gaming taxes
 ===============================

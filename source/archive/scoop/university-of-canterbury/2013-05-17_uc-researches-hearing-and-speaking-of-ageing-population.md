@@ -1,9 +1,13 @@
 ---
 slug: uc-researches-hearing-and-speaking-of-ageing-population
-title: "UC researches hearing and speaking of ageing population"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/GE1305/S00102/uc-researches-hearing-and-speaking-of-ageing-population.htm
+title: UC researches hearing and speaking of ageing population
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00102/uc-researches-hearing-and-speaking-of-ageing-population.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/17/uc-researches-hearing-and-speaking-of-ageing-population/index.html
+layout: layout.njk
 ---
 UC researches hearing and speaking of ageing population
 =======================================================

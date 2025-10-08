@@ -1,9 +1,13 @@
 ---
 slug: govt-should-match-westpactrust-student-loan-deal
-title: "Govt Should Match Westpactrust Student Loan Deal"
-date: 2001-02-14
-source-url: https://www.scoop.co.nz/stories/ED0102/S00014/govt-should-match-westpactrust-student-loan-deal.htm
+title: Govt Should Match Westpactrust Student Loan Deal
+date: 2001-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0102/S00014/govt-should-match-westpactrust-student-loan-deal.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2001/02/14/govt-should-match-westpactrust-student-loan-deal/index.html
+layout: layout.njk
 ---
 Govt Should Match Westpactrust Student Loan Deal
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: parasitic-infection-helps-sea-snails-survive-acidified-water
-title: "Parasitic infection helps sea snails survive acidified water"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/SC1605/S00047/parasitic-infection-helps-sea-snails-survive-acidified-water.htm
+title: Parasitic infection helps sea snails survive acidified water
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00047/parasitic-infection-helps-sea-snails-survive-acidified-water.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/18/parasitic-infection-helps-sea-snails-survive-acidified-water/index.html
+layout: layout.njk
 ---
 Parasitic infection helps sea snails survive acidified water
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: antarctic-evidence-too-strong-to-ignore
-title: "Antarctic evidence too strong to ignore"
-date: 2009-02-09
-source-url: https://www.scoop.co.nz/stories/SC0902/S00018/antarctic-evidence-too-strong-to-ignore.htm
+title: Antarctic evidence too strong to ignore
+date: 2009-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0902/S00018/antarctic-evidence-too-strong-to-ignore.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/09/antarctic-evidence-too-strong-to-ignore/index.html
+layout: layout.njk
 ---
 Antarctic evidence too strong to ignore
 =======================================

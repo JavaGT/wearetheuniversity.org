@@ -1,9 +1,13 @@
 ---
 slug: victorias-contemporary-art-collection-to-the-fore
-title: "Victoria’s contemporary art collection to the fore"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/CU1302/S00355/victorias-contemporary-art-collection-to-the-fore.htm
+title: Victoria’s contemporary art collection to the fore
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1302/S00355/victorias-contemporary-art-collection-to-the-fore.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/02/13/victorias-contemporary-art-collection-to-the-fore/index.html
+layout: layout.njk
 ---
 Victoria’s contemporary art collection to the fore
 ==================================================

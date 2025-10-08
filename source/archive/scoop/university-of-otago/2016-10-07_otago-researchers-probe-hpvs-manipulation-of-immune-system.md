@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-probe-hpvs-manipulation-of-immune-system
-title: "Otago researchers probe HPV’s manipulation of immune system"
-date: 2016-10-07
-source-url: https://www.scoop.co.nz/stories/SC1610/S00021/otago-researchers-probe-hpvs-manipulation-of-immune-system.htm
+title: Otago researchers probe HPV’s manipulation of immune system
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00021/otago-researchers-probe-hpvs-manipulation-of-immune-system.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/07/otago-researchers-probe-hpvs-manipulation-of-immune-system/index.html
+layout: layout.njk
 ---
 Otago researchers probe HPV’s manipulation of immune system
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-on-the-brink-of-out-borrowing-national
-title: "Labour on the brink of out borrowing National"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00583/labour-on-the-brink-of-out-borrowing-national.htm
+title: Labour on the brink of out borrowing National
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00583/labour-on-the-brink-of-out-borrowing-national.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/23/labour-on-the-brink-of-out-borrowing-national/index.html
+layout: layout.njk
 ---
 Labour on the brink of out borrowing National
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-commerce-student-chosen-as-blake-antarctic-ambassador
-title: "UC Commerce student chosen as Blake Antarctic Ambassador"
-date: 2018-10-17
-source-url: https://www.scoop.co.nz/stories/ED1810/S00035/uc-commerce-student-chosen-as-blake-antarctic-ambassador.htm
+title: UC Commerce student chosen as Blake Antarctic Ambassador
+date: 2018-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00035/uc-commerce-student-chosen-as-blake-antarctic-ambassador.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/17/uc-commerce-student-chosen-as-blake-antarctic-ambassador/index.html
+layout: layout.njk
 ---
 UC Commerce student chosen as Blake Antarctic Ambassador
 ========================================================

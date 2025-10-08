@@ -1,9 +1,11 @@
 ---
 slug: prisons-again-proving-unsafe
-title: "Prisons Again Proving Unsafe"
-date: 2015-07-15
+title: Prisons Again Proving Unsafe
+date: 2015-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1507/S00245/prisons-again-proving-unsafe.htm
 author: new-zealand-first-party
+permalink: /archive/2015/07/15/prisons-again-proving-unsafe/index.html
+layout: layout.njk
 ---
 Prisons Again Proving Unsafe
 ============================

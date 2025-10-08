@@ -1,9 +1,12 @@
 ---
 slug: corporate-governance-ruled-by-code-not-a-ceo
-title: "Corporate governance: ruled by code not a CEO"
-date: 2020-07-02
-source-url: https://www.scoop.co.nz/stories/BU2007/S00040/corporate-governance-ruled-by-code-not-a-ceo.htm
+title: 'Corporate governance: ruled by code not a CEO'
+date: 2020-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2007/S00040/corporate-governance-ruled-by-code-not-a-ceo.htm
 author: university-of-canterbury
+permalink: /archive/2020/07/02/corporate-governance-ruled-by-code-not-a-ceo/index.html
+layout: layout.njk
 ---
 Corporate governance: ruled by code not a CEO
 =============================================

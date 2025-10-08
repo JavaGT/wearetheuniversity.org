@@ -1,9 +1,13 @@
 ---
 slug: cherry-picking-undermines-sustainability-reporting
-title: "Cherry-picking undermines sustainability reporting"
-date: 2018-08-27
-source-url: https://www.scoop.co.nz/stories/BU1808/S00864/cherry-picking-undermines-sustainability-reporting.htm
+title: Cherry-picking undermines sustainability reporting
+date: 2018-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1808/S00864/cherry-picking-undermines-sustainability-reporting.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2018/08/27/cherry-picking-undermines-sustainability-reporting/index.html
+layout: layout.njk
 ---
 Cherry-picking undermines sustainability reporting
 ==================================================

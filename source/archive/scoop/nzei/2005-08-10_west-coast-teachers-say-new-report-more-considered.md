@@ -1,9 +1,13 @@
 ---
 slug: west-coast-teachers-say-new-report-more-considered
-title: "West Coast Teachers Say New Report More Considered"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00049/west-coast-teachers-say-new-report-more-considered.htm
+title: West Coast Teachers Say New Report More Considered
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00049/west-coast-teachers-say-new-report-more-considered.htm
 author: nzei
+permalink: >-
+  /archive/2005/08/10/west-coast-teachers-say-new-report-more-considered/index.html
+layout: layout.njk
 ---
 West Coast Teachers Say New Report More Considered
 ==================================================

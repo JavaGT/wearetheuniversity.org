@@ -1,9 +1,12 @@
 ---
 slug: iwi-have-influence-announce-dawn-vigil
-title: "Iwi Have Influence announce dawn vigil"
-date: 2009-07-06
-source-url: https://www.scoop.co.nz/stories/AK0907/S00063/iwi-have-influence-announce-dawn-vigil.htm
+title: Iwi Have Influence announce dawn vigil
+date: 2009-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0907/S00063/iwi-have-influence-announce-dawn-vigil.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/07/06/iwi-have-influence-announce-dawn-vigil/index.html
+layout: layout.njk
 ---
 Iwi Have Influence announce dawn vigil
 ======================================

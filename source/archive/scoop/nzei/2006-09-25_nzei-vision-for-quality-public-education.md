@@ -1,9 +1,12 @@
 ---
 slug: nzei-vision-for-quality-public-education
-title: "NZEI Vision For Quality Public Education"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/ED0609/S00093/nzei-vision-for-quality-public-education.htm
+title: NZEI Vision For Quality Public Education
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00093/nzei-vision-for-quality-public-education.htm
 author: nzei
+permalink: /archive/2006/09/25/nzei-vision-for-quality-public-education/index.html
+layout: layout.njk
 ---
 NZEI Vision For Quality Public Education
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: timss-reinforces-need-for-national-testing
-title: "TIMSS Reinforces Need For National Testing"
-date: 2000-05-31
-source-url: https://www.scoop.co.nz/stories/PA0005/S00660/timss-reinforces-need-for-national-testing.htm
+title: TIMSS Reinforces Need For National Testing
+date: 2000-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00660/timss-reinforces-need-for-national-testing.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/31/timss-reinforces-need-for-national-testing/index.html
+layout: layout.njk
 ---
 TIMSS Reinforces Need For National Testing
 ==========================================

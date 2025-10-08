@@ -1,9 +1,12 @@
 ---
 slug: tell-the-truth-about-the-bus-says-waiariki-mp
-title: "Tell the truth about the Bus says Waiariki MP"
-date: 2007-10-23
-source-url: https://www.scoop.co.nz/stories/PA0710/S00408/tell-the-truth-about-the-bus-says-waiariki-mp.htm
+title: Tell the truth about the Bus says Waiariki MP
+date: 2007-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00408/tell-the-truth-about-the-bus-says-waiariki-mp.htm
 author: te-pati-maori
+permalink: /archive/2007/10/23/tell-the-truth-about-the-bus-says-waiariki-mp/index.html
+layout: layout.njk
 ---
 Tell the truth about the Bus says Waiariki MP
 =============================================

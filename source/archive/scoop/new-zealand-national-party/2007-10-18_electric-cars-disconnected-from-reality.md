@@ -1,9 +1,12 @@
 ---
 slug: electric-cars-disconnected-from-reality
-title: "Electric cars disconnected from reality"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00360/electric-cars-disconnected-from-reality.htm
+title: Electric cars disconnected from reality
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00360/electric-cars-disconnected-from-reality.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/18/electric-cars-disconnected-from-reality/index.html
+layout: layout.njk
 ---
 Electric cars disconnected from reality
 =======================================

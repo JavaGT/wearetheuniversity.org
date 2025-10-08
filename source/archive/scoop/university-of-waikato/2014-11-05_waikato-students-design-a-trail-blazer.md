@@ -1,9 +1,12 @@
 ---
 slug: waikato-students-design-a-trail-blazer
-title: "Waikato student’s design a trail blazer"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/ED1411/S00028/waikato-students-design-a-trail-blazer.htm
+title: Waikato student’s design a trail blazer
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00028/waikato-students-design-a-trail-blazer.htm
 author: university-of-waikato
+permalink: /archive/2014/11/05/waikato-students-design-a-trail-blazer/index.html
+layout: layout.njk
 ---
 Waikato student’s design a trail blazer
 =======================================

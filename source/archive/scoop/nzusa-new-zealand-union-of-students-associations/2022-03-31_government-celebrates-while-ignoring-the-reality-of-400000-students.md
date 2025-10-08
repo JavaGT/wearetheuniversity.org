@@ -1,9 +1,13 @@
 ---
 slug: government-celebrates-while-ignoring-the-reality-of-400000-students
-title: "Government Celebrates While Ignoring The Reality Of 400,000 Students"
-date: 2022-03-31
-source-url: https://www.scoop.co.nz/stories/PO2203/S00240/government-celebrates-while-ignoring-the-reality-of-400000-students.htm
+title: Government Celebrates While Ignoring The Reality Of 400,000 Students
+date: 2022-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2203/S00240/government-celebrates-while-ignoring-the-reality-of-400000-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2022/03/31/government-celebrates-while-ignoring-the-reality-of-400000-students/index.html
+layout: layout.njk
 ---
 Government Celebrates While Ignoring The Reality Of 400,000 Students
 ====================================================================

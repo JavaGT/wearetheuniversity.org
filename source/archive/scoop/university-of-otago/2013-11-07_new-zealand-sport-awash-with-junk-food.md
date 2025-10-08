@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-sport-awash-with-junk-food
-title: "New Zealand sport \"awash with junk food\""
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/GE1311/S00037/new-zealand-sport-awash-with-junk-food.htm
+title: New Zealand sport "awash with junk food"
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00037/new-zealand-sport-awash-with-junk-food.htm
 author: university-of-otago
+permalink: /archive/2013/11/07/new-zealand-sport-awash-with-junk-food/index.html
+layout: layout.njk
 ---
 New Zealand sport “awash with junk food”
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: multi-skilled-teams-building-new-businesses
-title: "Multi-skilled teams building new businesses"
-date: 2004-10-28
-source-url: https://www.scoop.co.nz/stories/ED0410/S00096/multi-skilled-teams-building-new-businesses.htm
+title: Multi-skilled teams building new businesses
+date: 2004-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00096/multi-skilled-teams-building-new-businesses.htm
 author: waikato-university
+permalink: /archive/2004/10/28/multi-skilled-teams-building-new-businesses/index.html
+layout: layout.njk
 ---
 Multi-skilled teams building new businesses
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-roadmap-a-tax-and-spend-dead-end
-title: "Labour’s ‘Roadmap’ A Tax And Spend Dead End"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00386/labours-roadmap-a-tax-and-spend-dead-end.htm
+title: Labour’s ‘Roadmap’ A Tax And Spend Dead End
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00386/labours-roadmap-a-tax-and-spend-dead-end.htm
 author: act-new-zealand
+permalink: /archive/2011/11/18/labours-roadmap-a-tax-and-spend-dead-end/index.html
+layout: layout.njk
 ---
 Labour’s ‘Roadmap’ A Tax And Spend Dead End
 ===========================================

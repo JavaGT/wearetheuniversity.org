@@ -1,9 +1,13 @@
 ---
 slug: the-formula-for-a-world-class-university-revealed
-title: "The Formula for a World Class University Revealed"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/WO1409/S00085/the-formula-for-a-world-class-university-revealed.htm
+title: The Formula for a World Class University Revealed
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1409/S00085/the-formula-for-a-world-class-university-revealed.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2014/09/15/the-formula-for-a-world-class-university-revealed/index.html
+layout: layout.njk
 ---
 The Formula for a World Class University Revealed
 =================================================

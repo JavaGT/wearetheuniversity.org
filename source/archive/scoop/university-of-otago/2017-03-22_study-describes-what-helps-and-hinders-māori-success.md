@@ -1,9 +1,12 @@
 ---
 slug: study-describes-what-helps-and-hinders-māori-success
-title: "Study describes what helps and hinders Māori success"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/ED1703/S00096/study-describes-what-helps-and-hinders-maori-success.htm
+title: Study describes what helps and hinders Māori success
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00096/study-describes-what-helps-and-hinders-maori-success.htm
 author: university-of-otago
+permalink: /archive/2017/03/22/study-describes-what-helps-and-hinders-m/index.html
+layout: layout.njk
 ---
 Study describes what helps and hinders Māori success
 ====================================================

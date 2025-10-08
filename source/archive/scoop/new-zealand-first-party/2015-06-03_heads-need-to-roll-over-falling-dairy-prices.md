@@ -1,9 +1,12 @@
 ---
 slug: heads-need-to-roll-over-falling-dairy-prices
-title: "Heads Need to Roll Over Falling Dairy Prices"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/PA1506/S00025/heads-need-to-roll-over-falling-dairy-prices.htm
+title: Heads Need to Roll Over Falling Dairy Prices
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00025/heads-need-to-roll-over-falling-dairy-prices.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/03/heads-need-to-roll-over-falling-dairy-prices/index.html
+layout: layout.njk
 ---
 Heads Need to Roll Over Falling Dairy Prices
 ============================================

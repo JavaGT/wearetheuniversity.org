@@ -1,9 +1,12 @@
 ---
 slug: woodhouse-doing-his-best-to-hide-a-scandal
-title: "Woodhouse Doing His Best to Hide a Scandal"
-date: 2017-08-01
-source-url: https://www.scoop.co.nz/stories/PA1708/S00019/woodhouse-doing-his-best-to-hide-a-scandal.htm
+title: Woodhouse Doing His Best to Hide a Scandal
+date: 2017-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00019/woodhouse-doing-his-best-to-hide-a-scandal.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/01/woodhouse-doing-his-best-to-hide-a-scandal/index.html
+layout: layout.njk
 ---
 Woodhouse Doing His Best to Hide a Scandal
 ==========================================

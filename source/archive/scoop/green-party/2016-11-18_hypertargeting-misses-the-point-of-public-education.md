@@ -1,9 +1,13 @@
 ---
 slug: hypertargeting-misses-the-point-of-public-education
-title: "Hypertargeting misses the point of public education"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/PA1611/S00322/hypertargeting-misses-the-point-of-public-education.htm
+title: Hypertargeting misses the point of public education
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00322/hypertargeting-misses-the-point-of-public-education.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/18/hypertargeting-misses-the-point-of-public-education/index.html
+layout: layout.njk
 ---
 Hypertargeting misses the point of public education
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-anti-terrorism-measures-lecture
-title: "New Zealand’s Anti-Terrorism Measures - Lecture"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/ED0311/S00003/new-zealands-anti-terrorism-measures-lecture.htm
+title: New Zealand’s Anti-Terrorism Measures - Lecture
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00003/new-zealands-anti-terrorism-measures-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/03/new-zealands-anti-terrorism-measures-lecture/index.html
+layout: layout.njk
 ---
 New Zealand’s Anti-Terrorism Measures - Lecture
 ===============================================

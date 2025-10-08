@@ -1,9 +1,12 @@
 ---
 slug: student-food-banks-a-summer-reality-again
-title: "Student food banks – a summer reality again"
-date: 1999-10-15
-source-url: https://www.scoop.co.nz/stories/ED9910/S00046/student-food-banks-a-summer-reality-again.htm
+title: Student food banks – a summer reality again
+date: 1999-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00046/student-food-banks-a-summer-reality-again.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/10/15/student-food-banks-a-summer-reality-again/index.html
+layout: layout.njk
 ---
 Student food banks – a summer reality again
 ===========================================

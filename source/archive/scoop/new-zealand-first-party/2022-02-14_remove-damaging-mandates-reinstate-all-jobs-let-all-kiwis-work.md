@@ -1,9 +1,13 @@
 ---
 slug: remove-damaging-mandates-reinstate-all-jobs-let-all-kiwis-work
-title: "Remove Damaging Mandates, Reinstate All Jobs, Let All Kiwis Work"
-date: 2022-02-14
-source-url: https://www.scoop.co.nz/stories/PA2202/S00088/remove-damaging-mandates-reinstate-all-jobs-let-all-kiwis-work.htm
+title: Remove Damaging Mandates, Reinstate All Jobs, Let All Kiwis Work
+date: 2022-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00088/remove-damaging-mandates-reinstate-all-jobs-let-all-kiwis-work.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/02/14/remove-damaging-mandates-reinstate-all-jobs-let-all-kiwis-work/index.html
+layout: layout.njk
 ---
 Remove Damaging Mandates, Reinstate All Jobs, Let All Kiwis Work
 ================================================================

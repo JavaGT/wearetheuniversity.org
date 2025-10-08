@@ -1,9 +1,13 @@
 ---
 slug: otago-archaeologists-excavate-first-school-and-mission
-title: "Otago archaeologists excavate first school and mission"
-date: 2014-02-10
-source-url: https://www.scoop.co.nz/stories/ED1402/S00024/otago-archaeologists-excavate-first-school-and-mission.htm
+title: Otago archaeologists excavate first school and mission
+date: 2014-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00024/otago-archaeologists-excavate-first-school-and-mission.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/10/otago-archaeologists-excavate-first-school-and-mission/index.html
+layout: layout.njk
 ---
 Otago archaeologists excavate first school and mission
 ======================================================

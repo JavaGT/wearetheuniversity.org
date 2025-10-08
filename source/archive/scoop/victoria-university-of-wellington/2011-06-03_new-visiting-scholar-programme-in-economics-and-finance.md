@@ -1,9 +1,13 @@
 ---
 slug: new-visiting-scholar-programme-in-economics-and-finance
-title: "New Visiting Scholar Programme in Economics and Finance"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/ED1106/S00024/new-visiting-scholar-programme-in-economics-and-finance.htm
+title: New Visiting Scholar Programme in Economics and Finance
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00024/new-visiting-scholar-programme-in-economics-and-finance.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/03/new-visiting-scholar-programme-in-economics-and-finance/index.html
+layout: layout.njk
 ---
 New Visiting Scholar Programme in Economics and Finance
 =======================================================

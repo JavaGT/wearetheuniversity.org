@@ -1,9 +1,12 @@
 ---
 slug: international-talent-quest-back-in-town
-title: "International Talent Quest Back In Town"
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/ED0204/S00008/international-talent-quest-back-in-town.htm
+title: International Talent Quest Back In Town
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00008/international-talent-quest-back-in-town.htm
 author: otago-university-students-association
+permalink: /archive/2002/04/08/international-talent-quest-back-in-town/index.html
+layout: layout.njk
 ---
 International Talent Quest Back In Town
 =======================================

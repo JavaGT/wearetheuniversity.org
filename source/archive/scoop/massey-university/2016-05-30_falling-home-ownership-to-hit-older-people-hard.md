@@ -1,9 +1,12 @@
 ---
 slug: falling-home-ownership-to-hit-older-people-hard
-title: "Falling home ownership to hit older people hard"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PO1605/S00438/falling-home-ownership-to-hit-older-people-hard.htm
+title: Falling home ownership to hit older people hard
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00438/falling-home-ownership-to-hit-older-people-hard.htm
 author: massey-university
+permalink: /archive/2016/05/30/falling-home-ownership-to-hit-older-people-hard/index.html
+layout: layout.njk
 ---
 Falling home ownership to hit older people hard
 ===============================================

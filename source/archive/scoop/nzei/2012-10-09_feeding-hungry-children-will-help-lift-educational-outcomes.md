@@ -1,9 +1,13 @@
 ---
 slug: feeding-hungry-children-will-help-lift-educational-outcomes
-title: "Feeding hungry children will help lift educational outcomes"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/PO1210/S00106/feeding-hungry-children-will-help-lift-educational-outcomes.htm
+title: Feeding hungry children will help lift educational outcomes
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00106/feeding-hungry-children-will-help-lift-educational-outcomes.htm
 author: nzei
+permalink: >-
+  /archive/2012/10/09/feeding-hungry-children-will-help-lift-educational-outcomes/index.html
+layout: layout.njk
 ---
 Feeding hungry children will help lift educational outcomes
 ===========================================================

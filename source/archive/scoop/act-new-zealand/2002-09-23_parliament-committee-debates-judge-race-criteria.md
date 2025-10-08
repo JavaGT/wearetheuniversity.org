@@ -1,9 +1,13 @@
 ---
 slug: parliament-committee-debates-judge-race-criteria
-title: "Parliament committee debates judge race criteria"
-date: 2002-09-23
-source-url: https://www.scoop.co.nz/stories/PA0209/S00366/parliament-committee-debates-judge-race-criteria.htm
+title: Parliament committee debates judge race criteria
+date: 2002-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00366/parliament-committee-debates-judge-race-criteria.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/09/23/parliament-committee-debates-judge-race-criteria/index.html
+layout: layout.njk
 ---
 Parliament committee debates judge race criteria
 ================================================

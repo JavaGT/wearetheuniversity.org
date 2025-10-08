@@ -1,9 +1,13 @@
 ---
 slug: heart-drug-less-effective-for-maori-and-pacific-islanders
-title: "Heart drug less effective for Maori and Pacific Islanders"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/SC1106/S00042/heart-drug-less-effective-for-maori-and-pacific-islanders.htm
+title: Heart drug less effective for Maori and Pacific Islanders
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00042/heart-drug-less-effective-for-maori-and-pacific-islanders.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/13/heart-drug-less-effective-for-maori-and-pacific-islanders/index.html
+layout: layout.njk
 ---
 Heart drug less effective for Maori and Pacific Islanders
 =========================================================

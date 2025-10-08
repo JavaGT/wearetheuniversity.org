@@ -1,9 +1,12 @@
 ---
 slug: labour-making-a-hash-of-tertiary-education
-title: "Labour making a hash of tertiary education"
-date: 2017-11-07
-source-url: https://www.scoop.co.nz/stories/PA1711/S00039/labour-making-a-hash-of-tertiary-education.htm
+title: Labour making a hash of tertiary education
+date: 2017-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00039/labour-making-a-hash-of-tertiary-education.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/07/labour-making-a-hash-of-tertiary-education/index.html
+layout: layout.njk
 ---
 Labour making a hash of tertiary education
 ==========================================

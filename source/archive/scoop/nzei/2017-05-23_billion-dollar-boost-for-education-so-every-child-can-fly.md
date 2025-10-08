@@ -1,9 +1,13 @@
 ---
 slug: billion-dollar-boost-for-education-so-every-child-can-fly
-title: "Billion dollar boost for education so every child can fly"
-date: 2017-05-23
-source-url: https://www.scoop.co.nz/stories/ED1705/S00090/billion-dollar-boost-for-education-so-every-child-can-fly.htm
+title: Billion dollar boost for education so every child can fly
+date: 2017-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00090/billion-dollar-boost-for-education-so-every-child-can-fly.htm
 author: nzei
+permalink: >-
+  /archive/2017/05/23/billion-dollar-boost-for-education-so-every-child-can-fly/index.html
+layout: layout.njk
 ---
 Billion dollar boost for education so every child can fly
 =========================================================

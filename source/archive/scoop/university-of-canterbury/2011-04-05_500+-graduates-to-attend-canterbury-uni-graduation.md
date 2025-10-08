@@ -1,9 +1,12 @@
 ---
 slug: 500+-graduates-to-attend-canterbury-uni-graduation
-title: "500+ graduates To Attend Canterbury Uni Graduation"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/ED1104/S00015/500-graduates-to-attend-canterbury-uni-graduation.htm
+title: 500+ graduates To Attend Canterbury Uni Graduation
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00015/500-graduates-to-attend-canterbury-uni-graduation.htm
 author: university-of-canterbury
+permalink: /archive/2011/04/05/500/index.html
+layout: layout.njk
 ---
 500+ graduates To Attend Canterbury Uni Graduation
 ==================================================

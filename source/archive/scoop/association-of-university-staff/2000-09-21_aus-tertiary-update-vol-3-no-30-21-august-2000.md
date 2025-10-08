@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-30-21-august-2000
-title: "AUS Tertiary Update  Vol.3 No.30, 21 August 2000"
-date: 2000-09-21
-source-url: https://www.scoop.co.nz/stories/ED0009/S00042/aus-tertiary-update-vol3-no30-21-august-2000.htm
+title: AUS Tertiary Update  Vol.3 No.30, 21 August 2000
+date: 2000-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00042/aus-tertiary-update-vol3-no30-21-august-2000.htm
 author: association-of-university-staff
+permalink: /archive/2000/09/21/aus-tertiary-update-vol-3-no-30-21-august-2000/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.30, 21 August 2000
 ===============================================

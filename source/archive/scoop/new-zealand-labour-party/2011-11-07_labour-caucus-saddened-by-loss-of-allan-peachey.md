@@ -1,9 +1,12 @@
 ---
 slug: labour-caucus-saddened-by-loss-of-allan-peachey
-title: "Labour Caucus saddened by loss of Allan Peachey"
-date: 2011-11-07
-source-url: https://www.scoop.co.nz/stories/PA1111/S00119/labour-caucus-saddened-by-loss-of-allan-peachey.htm
+title: Labour Caucus saddened by loss of Allan Peachey
+date: 2011-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00119/labour-caucus-saddened-by-loss-of-allan-peachey.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/07/labour-caucus-saddened-by-loss-of-allan-peachey/index.html
+layout: layout.njk
 ---
 Labour Caucus saddened by loss of Allan Peachey
 ===============================================

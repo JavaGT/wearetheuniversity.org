@@ -1,9 +1,12 @@
 ---
 slug: nz-artist-may-have-inspired-darwin
-title: "NZ artist may have inspired Darwin"
-date: 2008-05-02
-source-url: https://www.scoop.co.nz/stories/SC0805/S00010/nz-artist-may-have-inspired-darwin.htm
+title: NZ artist may have inspired Darwin
+date: 2008-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0805/S00010/nz-artist-may-have-inspired-darwin.htm
 author: aut-university
+permalink: /archive/2008/05/02/nz-artist-may-have-inspired-darwin/index.html
+layout: layout.njk
 ---
 NZ artist may have inspired Darwin
 ==================================

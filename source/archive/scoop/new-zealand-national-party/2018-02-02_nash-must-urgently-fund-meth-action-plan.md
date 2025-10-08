@@ -1,9 +1,12 @@
 ---
 slug: nash-must-urgently-fund-meth-action-plan
-title: "Nash must urgently fund Meth Action Plan"
-date: 2018-02-02
-source-url: https://www.scoop.co.nz/stories/PA1802/S00022/nash-must-urgently-fund-meth-action-plan.htm
+title: Nash must urgently fund Meth Action Plan
+date: 2018-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00022/nash-must-urgently-fund-meth-action-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/02/nash-must-urgently-fund-meth-action-plan/index.html
+layout: layout.njk
 ---
 Nash must urgently fund Meth Action Plan
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: urgent-action-needed-to-end-love-affair-with-cars-report
-title: "Urgent action needed to end love affair with cars: report"
-date: 2019-04-30
-source-url: https://www.scoop.co.nz/stories/ED1904/S00050/urgent-action-needed-to-end-love-affair-with-cars-report.htm
+title: 'Urgent action needed to end love affair with cars: report'
+date: 2019-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1904/S00050/urgent-action-needed-to-end-love-affair-with-cars-report.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/04/30/urgent-action-needed-to-end-love-affair-with-cars-report/index.html
+layout: layout.njk
 ---
 Urgent action needed to end love affair with cars: report
 =========================================================

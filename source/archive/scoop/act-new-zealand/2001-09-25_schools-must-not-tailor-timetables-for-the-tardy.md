@@ -1,9 +1,13 @@
 ---
 slug: schools-must-not-tailor-timetables-for-the-tardy
-title: "Schools Must Not Tailor Timetables for the Tardy"
-date: 2001-09-25
-source-url: https://www.scoop.co.nz/stories/PA0109/S00397/schools-must-not-tailor-timetables-for-the-tardy.htm
+title: Schools Must Not Tailor Timetables for the Tardy
+date: 2001-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00397/schools-must-not-tailor-timetables-for-the-tardy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/09/25/schools-must-not-tailor-timetables-for-the-tardy/index.html
+layout: layout.njk
 ---
 Schools Must Not Tailor Timetables for the Tardy
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: one-rule-for-hollywood-another-for-working-new-zealanders
-title: "One Rule For Hollywood, Another For Working New Zealanders"
-date: 2020-06-03
-source-url: https://www.scoop.co.nz/stories/PA2006/S00021/one-rule-for-hollywood-another-for-working-new-zealanders.htm
+title: One Rule For Hollywood, Another For Working New Zealanders
+date: 2020-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00021/one-rule-for-hollywood-another-for-working-new-zealanders.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/03/one-rule-for-hollywood-another-for-working-new-zealanders/index.html
+layout: layout.njk
 ---
 One Rule For Hollywood, Another For Working New Zealanders
 ==========================================================

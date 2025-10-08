@@ -1,9 +1,12 @@
 ---
 slug: line-of-journalistc-freedom-&-lawful-reporting
-title: "Line of Journalistc Freedom & Lawful Reporting"
-date: 2007-11-15
-source-url: https://www.scoop.co.nz/stories/PA0711/S00298/line-of-journalistc-freedom-lawful-reporting.htm
+title: Line of Journalistc Freedom & Lawful Reporting
+date: 2007-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00298/line-of-journalistc-freedom-lawful-reporting.htm
 author: te-pati-maori
+permalink: /archive/2007/11/15/line-of-journalistc-freedom-/index.html
+layout: layout.njk
 ---
 Line of Journalistc Freedom & Lawful Reporting
 ==============================================

@@ -1,9 +1,11 @@
 ---
 slug: frozen-fees-for-scarfies
-title: "Frozen Fees for Scarfies"
-date: 2001-08-29
+title: Frozen Fees for Scarfies
+date: 2001-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00061/frozen-fees-for-scarfies.htm
 author: otago-university-students-association
+permalink: /archive/2001/08/29/frozen-fees-for-scarfies/index.html
+layout: layout.njk
 ---
 Frozen Fees for Scarfies
 ========================

@@ -1,9 +1,13 @@
 ---
 slug: could-blueberries-reduce-the-risk-of-breast-cancer
-title: "Could blueberries reduce the risk of breast cancer?"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/GE1605/S00050/could-blueberries-reduce-the-risk-of-breast-cancer.htm
+title: Could blueberries reduce the risk of breast cancer?
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00050/could-blueberries-reduce-the-risk-of-breast-cancer.htm
 author: massey-university
+permalink: >-
+  /archive/2016/05/10/could-blueberries-reduce-the-risk-of-breast-cancer/index.html
+layout: layout.njk
 ---
 Could blueberries reduce the risk of breast cancer?
 ===================================================

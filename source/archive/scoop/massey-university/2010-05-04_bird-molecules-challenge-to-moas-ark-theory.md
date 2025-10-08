@@ -1,9 +1,12 @@
 ---
 slug: bird-molecules-challenge-to-moas-ark-theory
-title: "Bird molecules challenge to Moa's Ark theory"
-date: 2010-05-04
-source-url: https://www.scoop.co.nz/stories/SC1005/S00012/bird-molecules-challenge-to-moas-ark-theory.htm
+title: Bird molecules challenge to Moa's Ark theory
+date: 2010-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1005/S00012/bird-molecules-challenge-to-moas-ark-theory.htm
 author: massey-university
+permalink: /archive/2010/05/04/bird-molecules-challenge-to-moas-ark-theory/index.html
+layout: layout.njk
 ---
 Bird molecules challenge to Moa's Ark theory
 ============================================

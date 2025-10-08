@@ -1,9 +1,12 @@
 ---
 slug: ecan-legislation-an-affront-to-democracy
-title: "ECan legislation an affront to democracy"
-date: 2016-02-23
-source-url: https://www.scoop.co.nz/stories/PA1602/S00318/ecan-legislation-an-affront-to-democracy.htm
+title: ECan legislation an affront to democracy
+date: 2016-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00318/ecan-legislation-an-affront-to-democracy.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/23/ecan-legislation-an-affront-to-democracy/index.html
+layout: layout.njk
 ---
 ECan legislation an affront to democracy
 ========================================

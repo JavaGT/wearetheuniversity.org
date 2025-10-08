@@ -1,9 +1,13 @@
 ---
 slug: the-university-of-waikato-and-scion-sign-agreement
-title: "The University of Waikato and Scion sign agreement"
-date: 2012-07-31
-source-url: https://www.scoop.co.nz/stories/ED1207/S00114/the-university-of-waikato-and-scion-sign-agreement.htm
+title: The University of Waikato and Scion sign agreement
+date: 2012-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00114/the-university-of-waikato-and-scion-sign-agreement.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/31/the-university-of-waikato-and-scion-sign-agreement/index.html
+layout: layout.njk
 ---
 The University of Waikato and Scion sign agreement
 ==================================================

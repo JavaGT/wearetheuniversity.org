@@ -1,9 +1,12 @@
 ---
 slug: key-notes-putting-victims-first
-title: "Key Notes - Putting Victims First"
-date: 2008-04-05
-source-url: https://www.scoop.co.nz/stories/PA0804/S00167/key-notes-putting-victims-first.htm
+title: Key Notes - Putting Victims First
+date: 2008-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00167/key-notes-putting-victims-first.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/05/key-notes-putting-victims-first/index.html
+layout: layout.njk
 ---
 Key Notes - Putting Victims First
 =================================

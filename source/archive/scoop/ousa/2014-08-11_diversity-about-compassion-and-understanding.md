@@ -1,9 +1,12 @@
 ---
 slug: diversity-about-compassion-and-understanding
-title: "Diversity about Compassion and Understanding"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/AK1408/S00197/diversity-about-compassion-and-understanding.htm
+title: Diversity about Compassion and Understanding
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00197/diversity-about-compassion-and-understanding.htm
 author: ousa
+permalink: /archive/2014/08/11/diversity-about-compassion-and-understanding/index.html
+layout: layout.njk
 ---
 Diversity about Compassion and Understanding
 ============================================

@@ -1,8 +1,11 @@
 ---
 slug: first-mock-mri-scanner-open-for-bookings
-title: "First mock MRI scanner open for bookings"
-date: 2016-05-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/first-mock-mri-scanner-open-for-bookings.html
+title: First mock MRI scanner open for bookings
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/first-mock-mri-scanner-open-for-bookings.html
+permalink: /archive/2016/05/26/first-mock-mri-scanner-open-for-bookings/index.html
+layout: layout.njk
 ---
 First mock MRI scanner open for bookings
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: partnership-schools-are-good-for-high-needs-communities
-title: "Partnership Schools are Good for High Needs Communities"
-date: 2012-08-03
-source-url: https://www.scoop.co.nz/stories/PA1208/S00065/partnership-schools-are-good-for-high-needs-communities.htm
+title: Partnership Schools are Good for High Needs Communities
+date: 2012-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00065/partnership-schools-are-good-for-high-needs-communities.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2012/08/03/partnership-schools-are-good-for-high-needs-communities/index.html
+layout: layout.njk
 ---
 Partnership Schools are Good for High Needs Communities
 =======================================================

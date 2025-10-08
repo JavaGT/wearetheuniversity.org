@@ -1,9 +1,13 @@
 ---
 slug: tackling-childhood-obesity-is-not-rocket-science
-title: "Tackling childhood obesity is not rocket science"
-date: 2014-07-18
-source-url: https://www.scoop.co.nz/stories/PA1407/S00349/tackling-childhood-obesity-is-not-rocket-science.htm
+title: Tackling childhood obesity is not rocket science
+date: 2014-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00349/tackling-childhood-obesity-is-not-rocket-science.htm
 author: green-party
+permalink: >-
+  /archive/2014/07/18/tackling-childhood-obesity-is-not-rocket-science/index.html
+layout: layout.njk
 ---
 Tackling childhood obesity is not rocket science
 ================================================

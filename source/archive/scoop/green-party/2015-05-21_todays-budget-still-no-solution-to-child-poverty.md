@@ -1,9 +1,13 @@
 ---
 slug: todays-budget-still-no-solution-to-child-poverty
-title: "Today’s Budget still no solution to child poverty"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00365/todays-budget-still-no-solution-to-child-poverty.htm
+title: Today’s Budget still no solution to child poverty
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00365/todays-budget-still-no-solution-to-child-poverty.htm
 author: green-party
+permalink: >-
+  /archive/2015/05/21/todays-budget-still-no-solution-to-child-poverty/index.html
+layout: layout.njk
 ---
 Today’s Budget still no solution to child poverty
 =================================================

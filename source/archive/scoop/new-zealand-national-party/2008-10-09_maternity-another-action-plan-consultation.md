@@ -1,9 +1,12 @@
 ---
 slug: maternity-another-action-plan-consultation
-title: "Maternity: Another 'action plan' 'consultation'"
-date: 2008-10-09
-source-url: https://www.scoop.co.nz/stories/PA0810/S00218/maternity-another-action-plan-consultation.htm
+title: 'Maternity: Another ''action plan'' ''consultation'''
+date: 2008-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00218/maternity-another-action-plan-consultation.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/09/maternity-another-action-plan-consultation/index.html
+layout: layout.njk
 ---
 Maternity: Another 'action plan' 'consultation'
 ===============================================

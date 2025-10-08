@@ -1,9 +1,12 @@
 ---
 slug: national-award-for-inspiring-te-ao-māori-and-sport-teaching
-title: "National Award For Inspiring Te Ao Māori And Sport Teaching"
-date: 2024-10-01
-source-url: https://www.scoop.co.nz/stories/ED2410/S00002/national-award-for-inspiring-te-ao-maori-and-sport-teaching.htm
+title: National Award For Inspiring Te Ao Māori And Sport Teaching
+date: 2024-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00002/national-award-for-inspiring-te-ao-maori-and-sport-teaching.htm
 author: university-of-canterbury
+permalink: /archive/2024/10/01/national-award-for-inspiring-te-ao-m/index.html
+layout: layout.njk
 ---
 National Award For Inspiring Te Ao Māori And Sport Teaching
 ===========================================================

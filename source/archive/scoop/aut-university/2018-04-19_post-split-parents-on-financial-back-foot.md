@@ -1,9 +1,12 @@
 ---
 slug: post-split-parents-on-financial-back-foot
-title: "Post-split parents on financial back foot"
-date: 2018-04-19
-source-url: https://www.scoop.co.nz/stories/PO1804/S00200/post-split-parents-on-financial-back-foot.htm
+title: Post-split parents on financial back foot
+date: 2018-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00200/post-split-parents-on-financial-back-foot.htm
 author: aut-university
+permalink: /archive/2018/04/19/post-split-parents-on-financial-back-foot/index.html
+layout: layout.njk
 ---
 Post-split parents on financial back foot
 =========================================

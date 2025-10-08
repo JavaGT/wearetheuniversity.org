@@ -1,9 +1,13 @@
 ---
 slug: canterbury-poets-letters-added-to-nz-heritage-collection
-title: "Canterbury Poet’s Letters Added To NZ Heritage Collection"
-date: 2021-10-29
-source-url: https://www.scoop.co.nz/stories/CU2110/S00236/canterbury-poets-letters-added-to-nz-heritage-collection.htm
+title: Canterbury Poet’s Letters Added To NZ Heritage Collection
+date: 2021-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2110/S00236/canterbury-poets-letters-added-to-nz-heritage-collection.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/10/29/canterbury-poets-letters-added-to-nz-heritage-collection/index.html
+layout: layout.njk
 ---
 Canterbury Poet’s Letters Added To NZ Heritage Collection
 =========================================================

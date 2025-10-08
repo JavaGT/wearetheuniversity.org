@@ -1,9 +1,13 @@
 ---
 slug: vice-president-al-gore-supports-new-zealands-future-leaders
-title: "Vice President Al Gore supports New Zealand’s future leaders"
-date: 2012-10-05
-source-url: https://www.scoop.co.nz/stories/PO1210/S00066/vice-president-al-gore-supports-new-zealands-future-leaders.htm
+title: Vice President Al Gore supports New Zealand’s future leaders
+date: 2012-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00066/vice-president-al-gore-supports-new-zealands-future-leaders.htm
 author: aut-university
+permalink: >-
+  /archive/2012/10/05/vice-president-al-gore-supports-new-zealands-future-leaders/index.html
+layout: layout.njk
 ---
 Vice President Al Gore supports New Zealand’s future leaders
 ============================================================

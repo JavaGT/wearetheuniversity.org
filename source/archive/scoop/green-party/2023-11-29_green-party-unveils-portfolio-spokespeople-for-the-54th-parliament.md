@@ -1,9 +1,13 @@
 ---
 slug: green-party-unveils-portfolio-spokespeople-for-the-54th-parliament
-title: "Green Party Unveils Portfolio Spokespeople For The 54th Parliament"
-date: 2023-11-29
-source-url: https://www.scoop.co.nz/stories/PA2311/S00023/green-party-unveils-portfolio-spokespeople-for-the-54th-parliament.htm
+title: Green Party Unveils Portfolio Spokespeople For The 54th Parliament
+date: 2023-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2311/S00023/green-party-unveils-portfolio-spokespeople-for-the-54th-parliament.htm
 author: green-party
+permalink: >-
+  /archive/2023/11/29/green-party-unveils-portfolio-spokespeople-for-the-54th-parliament/index.html
+layout: layout.njk
 ---
 Green Party Unveils Portfolio Spokespeople For The 54th Parliament
 ==================================================================

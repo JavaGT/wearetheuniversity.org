@@ -1,9 +1,13 @@
 ---
 slug: greens-help-protect-academic-freedom-in-education
-title: "Greens help protect academic freedom  in Education"
-date: 2001-10-10
-source-url: https://www.scoop.co.nz/stories/PA0110/S00202/greens-help-protect-academic-freedom-in-education.htm
+title: Greens help protect academic freedom  in Education
+date: 2001-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00202/greens-help-protect-academic-freedom-in-education.htm
 author: green-party
+permalink: >-
+  /archive/2001/10/10/greens-help-protect-academic-freedom-in-education/index.html
+layout: layout.njk
 ---
 Greens help protect academic freedom in Education
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: time-to-stop-playing-the-blame-game-dr-cullen
-title: "Time to stop playing the blame game, Dr Cullen"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/PA0601/S00138/time-to-stop-playing-the-blame-game-dr-cullen.htm
+title: Time to stop playing the blame game, Dr Cullen
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00138/time-to-stop-playing-the-blame-game-dr-cullen.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/26/time-to-stop-playing-the-blame-game-dr-cullen/index.html
+layout: layout.njk
 ---
 Time to stop playing the blame game, Dr Cullen
 ==============================================

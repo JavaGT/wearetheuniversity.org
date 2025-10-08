@@ -1,9 +1,12 @@
 ---
 slug: fee-maxima-ok-but-funding-has-to-increase
-title: "Fee maxima OK, but funding has to increase"
-date: 2008-06-27
-source-url: https://www.scoop.co.nz/stories/ED0806/S00081/fee-maxima-ok-but-funding-has-to-increase.htm
+title: Fee maxima OK, but funding has to increase
+date: 2008-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00081/fee-maxima-ok-but-funding-has-to-increase.htm
 author: association-of-university-staff
+permalink: /archive/2008/06/27/fee-maxima-ok-but-funding-has-to-increase/index.html
+layout: layout.njk
 ---
 Fee maxima OK, but funding has to increase
 ==========================================

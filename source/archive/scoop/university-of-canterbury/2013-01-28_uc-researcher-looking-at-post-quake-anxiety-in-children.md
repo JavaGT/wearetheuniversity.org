@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-looking-at-post-quake-anxiety-in-children
-title: "UC researcher looking at post-quake anxiety in children"
-date: 2013-01-28
-source-url: https://www.scoop.co.nz/stories/CU1301/S00396/uc-researcher-looking-at-post-quake-anxiety-in-children.htm
+title: UC researcher looking at post-quake anxiety in children
+date: 2013-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1301/S00396/uc-researcher-looking-at-post-quake-anxiety-in-children.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/28/uc-researcher-looking-at-post-quake-anxiety-in-children/index.html
+layout: layout.njk
 ---
 UC researcher looking at post-quake anxiety in children
 =======================================================

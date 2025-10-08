@@ -1,9 +1,12 @@
 ---
 slug: nzei-greater-protection-for-foreign-students
-title: "NZEI Greater Protection For Foreign Students"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/ED0309/S00026/nzei-greater-protection-for-foreign-students.htm
+title: NZEI Greater Protection For Foreign Students
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00026/nzei-greater-protection-for-foreign-students.htm
 author: nzei
+permalink: /archive/2003/09/08/nzei-greater-protection-for-foreign-students/index.html
+layout: layout.njk
 ---
 NZEI Greater Protection For Foreign Students
 ============================================

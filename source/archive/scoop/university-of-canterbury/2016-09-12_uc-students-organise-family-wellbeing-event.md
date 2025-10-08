@@ -1,9 +1,12 @@
 ---
 slug: uc-students-organise-family-wellbeing-event
-title: "UC students organise family wellbeing event"
-date: 2016-09-12
-source-url: https://www.scoop.co.nz/stories/AK1609/S00359/uc-students-organise-family-wellbeing-event.htm
+title: UC students organise family wellbeing event
+date: 2016-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00359/uc-students-organise-family-wellbeing-event.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/12/uc-students-organise-family-wellbeing-event/index.html
+layout: layout.njk
 ---
 UC students organise family wellbeing event
 ===========================================

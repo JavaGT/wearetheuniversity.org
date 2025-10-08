@@ -1,9 +1,12 @@
 ---
 slug: si-tanggang-malaysian-cultural-night
-title: "Si Tanggang Malaysian Cultural Night"
-date: 2009-08-04
-source-url: https://www.scoop.co.nz/stories/ED0908/S00012/si-tanggang-malaysian-cultural-night.htm
+title: Si Tanggang Malaysian Cultural Night
+date: 2009-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00012/si-tanggang-malaysian-cultural-night.htm
 author: otago-university-students-association
+permalink: /archive/2009/08/04/si-tanggang-malaysian-cultural-night/index.html
+layout: layout.njk
 ---
 Si Tanggang Malaysian Cultural Night
 ====================================

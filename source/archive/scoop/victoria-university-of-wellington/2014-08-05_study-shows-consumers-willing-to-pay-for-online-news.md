@@ -1,9 +1,13 @@
 ---
 slug: study-shows-consumers-willing-to-pay-for-online-news
-title: "Study shows consumers willing to pay for online news"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/BU1408/S00145/study-shows-consumers-willing-to-pay-for-online-news.htm
+title: Study shows consumers willing to pay for online news
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1408/S00145/study-shows-consumers-willing-to-pay-for-online-news.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/08/05/study-shows-consumers-willing-to-pay-for-online-news/index.html
+layout: layout.njk
 ---
 Study shows consumers willing to pay for online news
 ====================================================

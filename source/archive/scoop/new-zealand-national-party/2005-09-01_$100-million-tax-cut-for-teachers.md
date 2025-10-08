@@ -1,9 +1,12 @@
 ---
 slug: $100-million-tax-cut-for-teachers
-title: "$100 Million Tax Cut for Teachers"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00003/100-million-tax-cut-for-teachers.htm
+title: $100 Million Tax Cut for Teachers
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00003/100-million-tax-cut-for-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/01/100-million-tax-cut-for-teachers/index.html
+layout: layout.njk
 ---
 $100 Million Tax Cut for Teachers
 =================================

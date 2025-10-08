@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-massy-university
-title: "Peters Speech: Massy University"
-date: 2003-04-02
-source-url: https://www.scoop.co.nz/stories/PA0304/S00028/peters-speech-massy-university.htm
+title: 'Peters Speech: Massy University'
+date: 2003-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00028/peters-speech-massy-university.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/02/peters-speech-massy-university/index.html
+layout: layout.njk
 ---
 Peters Speech: Massy University
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: act-forces-govt-u-turn-on-export-levy
-title: "ACT Forces Govt U-turn On Export Levy"
-date: 2004-04-16
-source-url: https://www.scoop.co.nz/stories/PA0404/S00249/act-forces-govt-u-turn-on-export-levy.htm
+title: ACT Forces Govt U-turn On Export Levy
+date: 2004-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00249/act-forces-govt-u-turn-on-export-levy.htm
 author: act-new-zealand
+permalink: /archive/2004/04/16/act-forces-govt-u-turn-on-export-levy/index.html
+layout: layout.njk
 ---
 ACT Forces Govt U-turn On Export Levy
 =====================================

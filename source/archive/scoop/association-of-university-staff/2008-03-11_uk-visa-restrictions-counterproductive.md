@@ -1,9 +1,12 @@
 ---
 slug: uk-visa-restrictions-counterproductive
-title: "UK visa restrictions counterproductive"
-date: 2008-03-11
-source-url: https://www.scoop.co.nz/stories/ED0803/S00020/uk-visa-restrictions-counterproductive.htm
+title: UK visa restrictions counterproductive
+date: 2008-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00020/uk-visa-restrictions-counterproductive.htm
 author: association-of-university-staff
+permalink: /archive/2008/03/11/uk-visa-restrictions-counterproductive/index.html
+layout: layout.njk
 ---
 UK visa restrictions counterproductive
 ======================================

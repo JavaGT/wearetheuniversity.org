@@ -1,9 +1,12 @@
 ---
 slug: mp-encourages-students-sitting-ncea-exams
-title: "MP encourages students sitting NCEA exams"
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/PA1211/S00074/mp-encourages-students-sitting-ncea-exams.htm
+title: MP encourages students sitting NCEA exams
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00074/mp-encourages-students-sitting-ncea-exams.htm
 author: new-zealand-national-party
+permalink: /archive/2012/11/05/mp-encourages-students-sitting-ncea-exams/index.html
+layout: layout.njk
 ---
 MP encourages students sitting NCEA exams
 =========================================

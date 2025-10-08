@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-buy-back-of-land
-title: "Speech: Flavell - Buy Back of Land"
-date: 2009-06-17
-source-url: https://www.scoop.co.nz/stories/PA0906/S00223/speech-flavell-buy-back-of-land.htm
+title: 'Speech: Flavell - Buy Back of Land'
+date: 2009-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00223/speech-flavell-buy-back-of-land.htm
 author: te-pati-maori
+permalink: /archive/2009/06/17/speech-flavell-buy-back-of-land/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Buy Back of Land
 ==================================

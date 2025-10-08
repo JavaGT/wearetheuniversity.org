@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-12-september-2005
-title: "ACT's The Letter - Monday, 12 September 2005"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PA0509/S00310/acts-the-letter-monday-12-september-2005.htm
+title: ACT's The Letter - Monday, 12 September 2005
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00310/acts-the-letter-monday-12-september-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/09/12/acts-the-letter-monday-12-september-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday, 12 September 2005
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: biotech-initiative-to-be-launched-at-auckland-uni
-title: "Biotech initiative to be launched at Auckland Uni"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/ED0409/S00036/biotech-initiative-to-be-launched-at-auckland-uni.htm
+title: Biotech initiative to be launched at Auckland Uni
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00036/biotech-initiative-to-be-launched-at-auckland-uni.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/09/09/biotech-initiative-to-be-launched-at-auckland-uni/index.html
+layout: layout.njk
 ---
 Biotech initiative to be launched at Auckland Uni
 =================================================

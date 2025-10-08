@@ -1,9 +1,13 @@
 ---
 slug: new-book-explores-history-of-magna-carta-in-new-zealand
-title: "New Book Explores History of Magna Carta in New Zealand"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/CU1712/S00211/new-book-explores-history-of-magna-carta-in-new-zealand.htm
+title: New Book Explores History of Magna Carta in New Zealand
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00211/new-book-explores-history-of-magna-carta-in-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/14/new-book-explores-history-of-magna-carta-in-new-zealand/index.html
+layout: layout.njk
 ---
 New Book Explores History of Magna Carta in New Zealand
 =======================================================

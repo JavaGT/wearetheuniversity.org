@@ -1,9 +1,12 @@
 ---
 slug: budget-gains-for-young-people-welcomed
-title: "Budget Gains for Young People Welcomed"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/PO0405/S00297/budget-gains-for-young-people-welcomed.htm
+title: Budget Gains for Young People Welcomed
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00297/budget-gains-for-young-people-welcomed.htm
 author: young-labour
+permalink: /archive/2004/05/28/budget-gains-for-young-people-welcomed/index.html
+layout: layout.njk
 ---
 Budget Gains for Young People Welcomed
 ======================================

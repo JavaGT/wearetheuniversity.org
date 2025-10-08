@@ -1,9 +1,12 @@
 ---
 slug: uc-project-aims-to-help-half-a-million-kiwis
-title: "UC project aims to help half a million Kiwis"
-date: 2013-07-03
-source-url: https://www.scoop.co.nz/stories/SC1307/S00010/uc-project-aims-to-help-half-a-million-kiwis.htm
+title: UC project aims to help half a million Kiwis
+date: 2013-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00010/uc-project-aims-to-help-half-a-million-kiwis.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/03/uc-project-aims-to-help-half-a-million-kiwis/index.html
+layout: layout.njk
 ---
 UC project aims to help half a million Kiwis
 ============================================

@@ -1,8 +1,11 @@
 ---
 slug: chinese-executives-to-learn-about-māori-business-style
-title: "Chinese executives to learn about Māori business style"
-date: 2016-11-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/chinese-executives-learn-Maori-business-style.html
+title: Chinese executives to learn about Māori business style
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/chinese-executives-learn-Maori-business-style.html
+permalink: /archive/2016/11/21/chinese-executives-to-learn-about-m/index.html
+layout: layout.njk
 ---
 Chinese executives to learn about Māori business style
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-20
-title: "AUs Tertiary Update Vol 4 No 20"
-date: 2001-06-21
-source-url: https://www.scoop.co.nz/stories/ED0106/S00018/aus-tertiary-update-vol-4-no-20.htm
+title: AUs Tertiary Update Vol 4 No 20
+date: 2001-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0106/S00018/aus-tertiary-update-vol-4-no-20.htm
 author: association-of-university-staff
+permalink: /archive/2001/06/21/aus-tertiary-update-vol-4-no-20/index.html
+layout: layout.njk
 ---
 AUs Tertiary Update Vol 4 No 20
 ===============================

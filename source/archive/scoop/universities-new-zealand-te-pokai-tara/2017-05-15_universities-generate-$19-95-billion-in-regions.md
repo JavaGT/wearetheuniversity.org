@@ -1,9 +1,12 @@
 ---
 slug: universities-generate-$19-95-billion-in-regions
-title: "Universities generate $19.95 billion in regions"
-date: 2017-05-15
-source-url: https://www.scoop.co.nz/stories/BU1705/S00517/universities-generate-1995-billion-in-regions.htm
+title: Universities generate $19.95 billion in regions
+date: 2017-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1705/S00517/universities-generate-1995-billion-in-regions.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/05/15/universities-generate-/index.html
+layout: layout.njk
 ---
 Universities generate $19.95 billion in regions
 ===============================================

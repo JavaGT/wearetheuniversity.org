@@ -1,9 +1,12 @@
 ---
 slug: ousas-biggest-battle-(of-the-bands)
-title: "OUSA’s Biggest Battle (of the Bands)"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/CU1005/S00043/ousas-biggest-battle-of-the-bands.htm
+title: OUSA’s Biggest Battle (of the Bands)
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1005/S00043/ousas-biggest-battle-of-the-bands.htm
 author: ousa
+permalink: /archive/2010/05/05/ousas-biggest-battle-/index.html
+layout: layout.njk
 ---
 OUSA’s Biggest Battle (of the Bands)
 ====================================

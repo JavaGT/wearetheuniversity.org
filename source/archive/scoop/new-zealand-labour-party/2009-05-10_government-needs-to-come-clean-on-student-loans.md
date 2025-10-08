@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-come-clean-on-student-loans
-title: "Government needs to come clean on student loans"
-date: 2009-05-10
-source-url: https://www.scoop.co.nz/stories/PA0905/S00172/government-needs-to-come-clean-on-student-loans.htm
+title: Government needs to come clean on student loans
+date: 2009-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00172/government-needs-to-come-clean-on-student-loans.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/10/government-needs-to-come-clean-on-student-loans/index.html
+layout: layout.njk
 ---
 Government needs to come clean on student loans
 ===============================================

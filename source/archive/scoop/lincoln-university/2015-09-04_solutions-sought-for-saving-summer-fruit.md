@@ -1,9 +1,12 @@
 ---
 slug: solutions-sought-for-saving-summer-fruit
-title: "Solutions sought for saving summer fruit"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/SC1509/S00018/solutions-sought-for-saving-summer-fruit.htm
+title: Solutions sought for saving summer fruit
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00018/solutions-sought-for-saving-summer-fruit.htm
 author: lincoln-university
+permalink: /archive/2015/09/04/solutions-sought-for-saving-summer-fruit/index.html
+layout: layout.njk
 ---
 Solutions sought for saving summer fruit
 ========================================

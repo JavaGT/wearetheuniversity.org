@@ -1,9 +1,12 @@
 ---
 slug: massey-university-staff-oppose-honorary-degree
-title: "Massey University staff oppose honorary degree"
-date: 2004-05-25
-source-url: https://www.scoop.co.nz/stories/ED0405/S00092/massey-university-staff-oppose-honorary-degree.htm
+title: Massey University staff oppose honorary degree
+date: 2004-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00092/massey-university-staff-oppose-honorary-degree.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/25/massey-university-staff-oppose-honorary-degree/index.html
+layout: layout.njk
 ---
 Massey University staff oppose honorary degree
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: pork-barrel-politics-not-health
-title: "Pork barrel politics - not health"
-date: 2004-12-16
-source-url: https://www.scoop.co.nz/stories/PA0412/S00424/pork-barrel-politics-not-health.htm
+title: Pork barrel politics - not health
+date: 2004-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00424/pork-barrel-politics-not-health.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/16/pork-barrel-politics-not-health/index.html
+layout: layout.njk
 ---
 Pork barrel politics - not health
 =================================

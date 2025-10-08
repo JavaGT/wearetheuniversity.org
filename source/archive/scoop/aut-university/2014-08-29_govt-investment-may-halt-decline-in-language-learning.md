@@ -1,9 +1,13 @@
 ---
 slug: govt-investment-may-halt-decline-in-language-learning
-title: "Govt investment may halt decline in language learning"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/ED1408/S00152/govt-investment-may-halt-decline-in-language-learning.htm
+title: Govt investment may halt decline in language learning
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00152/govt-investment-may-halt-decline-in-language-learning.htm
 author: aut-university
+permalink: >-
+  /archive/2014/08/29/govt-investment-may-halt-decline-in-language-learning/index.html
+layout: layout.njk
 ---
 Govt investment may halt decline in language learning
 =====================================================

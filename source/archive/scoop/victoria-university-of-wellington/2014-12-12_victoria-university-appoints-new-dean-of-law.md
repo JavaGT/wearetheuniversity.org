@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-appoints-new-dean-of-law
-title: "Victoria University appoints new Dean of Law"
-date: 2014-12-12
-source-url: https://www.scoop.co.nz/stories/ED1412/S00080/victoria-university-appoints-new-dean-of-law.htm
+title: Victoria University appoints new Dean of Law
+date: 2014-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00080/victoria-university-appoints-new-dean-of-law.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/12/victoria-university-appoints-new-dean-of-law/index.html
+layout: layout.njk
 ---
 Victoria University appoints new Dean of Law
 ============================================

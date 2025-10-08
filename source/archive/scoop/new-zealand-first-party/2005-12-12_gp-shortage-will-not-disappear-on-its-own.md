@@ -1,9 +1,12 @@
 ---
 slug: gp-shortage-will-not-disappear-on-its-own
-title: "GP Shortage Will Not Disappear On Its Own"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00164/gp-shortage-will-not-disappear-on-its-own.htm
+title: GP Shortage Will Not Disappear On Its Own
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00164/gp-shortage-will-not-disappear-on-its-own.htm
 author: new-zealand-first-party
+permalink: /archive/2005/12/12/gp-shortage-will-not-disappear-on-its-own/index.html
+layout: layout.njk
 ---
 GP Shortage Will Not Disappear On Its Own
 =========================================

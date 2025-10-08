@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-in-major-new-study-of-tb-and-diabetes
-title: "Otago researchers in major new study of TB and diabetes"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/SC1212/S00001/otago-researchers-in-major-new-study-of-tb-and-diabetes.htm
+title: Otago researchers in major new study of TB and diabetes
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00001/otago-researchers-in-major-new-study-of-tb-and-diabetes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/12/03/otago-researchers-in-major-new-study-of-tb-and-diabetes/index.html
+layout: layout.njk
 ---
 Otago researchers in major new study of TB and diabetes
 =======================================================

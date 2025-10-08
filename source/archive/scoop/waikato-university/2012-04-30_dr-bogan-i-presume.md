@@ -1,9 +1,11 @@
 ---
 slug: dr-bogan-i-presume
-title: "Dr Bogan, I presume"
-date: 2012-04-30
+title: Dr Bogan, I presume
+date: 2012-04-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1204/S00112/dr-bogan-i-presume.htm
 author: waikato-university
+permalink: /archive/2012/04/30/dr-bogan-i-presume/index.html
+layout: layout.njk
 ---
 Dr Bogan, I presume
 ===================

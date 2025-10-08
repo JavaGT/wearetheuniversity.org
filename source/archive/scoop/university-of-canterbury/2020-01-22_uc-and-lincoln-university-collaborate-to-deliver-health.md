@@ -1,9 +1,13 @@
 ---
 slug: uc-and-lincoln-university-collaborate-to-deliver-health
-title: "UC and Lincoln University collaborate to deliver health"
-date: 2020-01-22
-source-url: https://www.scoop.co.nz/stories/ED2001/S00013/uc-and-lincoln-university-collaborate-to-deliver-health.htm
+title: UC and Lincoln University collaborate to deliver health
+date: 2020-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2001/S00013/uc-and-lincoln-university-collaborate-to-deliver-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/01/22/uc-and-lincoln-university-collaborate-to-deliver-health/index.html
+layout: layout.njk
 ---
 UC and Lincoln University collaborate to deliver health
 =======================================================

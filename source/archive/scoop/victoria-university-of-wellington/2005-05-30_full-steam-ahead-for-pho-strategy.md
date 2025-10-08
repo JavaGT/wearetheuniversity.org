@@ -1,9 +1,12 @@
 ---
 slug: full-steam-ahead-for-pho-strategy
-title: "Full steam ahead for PHO strategy"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/ED0505/S00127/full-steam-ahead-for-pho-strategy.htm
+title: Full steam ahead for PHO strategy
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00127/full-steam-ahead-for-pho-strategy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/05/30/full-steam-ahead-for-pho-strategy/index.html
+layout: layout.njk
 ---
 Full steam ahead for PHO strategy
 =================================

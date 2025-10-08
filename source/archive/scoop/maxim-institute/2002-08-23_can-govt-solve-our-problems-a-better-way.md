@@ -1,9 +1,12 @@
 ---
 slug: can-govt-solve-our-problems-a-better-way
-title: "Can Govt Solve Our Problems ...  A Better Way?"
-date: 2002-08-23
-source-url: https://www.scoop.co.nz/stories/PO0208/S00084/can-govt-solve-our-problems-a-better-way.htm
+title: Can Govt Solve Our Problems ...  A Better Way?
+date: 2002-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0208/S00084/can-govt-solve-our-problems-a-better-way.htm
 author: maxim-institute
+permalink: /archive/2002/08/23/can-govt-solve-our-problems-a-better-way/index.html
+layout: layout.njk
 ---
 Can Govt Solve Our Problems ... A Better Way?
 =============================================

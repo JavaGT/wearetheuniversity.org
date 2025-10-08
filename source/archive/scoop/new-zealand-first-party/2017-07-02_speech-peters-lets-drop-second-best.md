@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-lets-drop-second-best
-title: "Speech: Peters - Let’s Drop Second Best"
-date: 2017-07-02
-source-url: https://www.scoop.co.nz/stories/PA1707/S00012/speech-peters-lets-drop-second-best.htm
+title: 'Speech: Peters - Let’s Drop Second Best'
+date: 2017-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00012/speech-peters-lets-drop-second-best.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/02/speech-peters-lets-drop-second-best/index.html
+layout: layout.njk
 ---
 Speech: Peters - Let’s Drop Second Best
 =======================================

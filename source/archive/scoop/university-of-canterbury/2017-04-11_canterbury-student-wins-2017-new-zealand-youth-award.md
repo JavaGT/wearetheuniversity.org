@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-wins-2017-new-zealand-youth-award
-title: "Canterbury student wins 2017 New Zealand Youth Award"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/ED1704/S00041/canterbury-student-wins-2017-new-zealand-youth-award.htm
+title: Canterbury student wins 2017 New Zealand Youth Award
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00041/canterbury-student-wins-2017-new-zealand-youth-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/11/canterbury-student-wins-2017-new-zealand-youth-award/index.html
+layout: layout.njk
 ---
 Canterbury student wins 2017 New Zealand Youth Award
 ====================================================

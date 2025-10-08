@@ -1,9 +1,12 @@
 ---
 slug: fees-free-were-getting-it-all-wrong
-title: "Fees-free: we’re getting it all wrong"
-date: 2018-06-26
-source-url: https://www.scoop.co.nz/stories/ED1806/S00071/fees-free-were-getting-it-all-wrong.htm
+title: 'Fees-free: we’re getting it all wrong'
+date: 2018-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00071/fees-free-were-getting-it-all-wrong.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/06/26/fees-free-were-getting-it-all-wrong/index.html
+layout: layout.njk
 ---
 Fees-free: we’re getting it all wrong
 =====================================

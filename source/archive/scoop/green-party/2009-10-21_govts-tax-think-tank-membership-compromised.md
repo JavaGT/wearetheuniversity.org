@@ -1,9 +1,12 @@
 ---
 slug: govts-tax-think-tank-membership-compromised
-title: "Govt’s tax think-tank membership compromised"
-date: 2009-10-21
-source-url: https://www.scoop.co.nz/stories/PA0910/S00307/govts-tax-think-tank-membership-compromised.htm
+title: Govt’s tax think-tank membership compromised
+date: 2009-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00307/govts-tax-think-tank-membership-compromised.htm
 author: green-party
+permalink: /archive/2009/10/21/govts-tax-think-tank-membership-compromised/index.html
+layout: layout.njk
 ---
 Govt’s tax think-tank membership compromised
 ============================================

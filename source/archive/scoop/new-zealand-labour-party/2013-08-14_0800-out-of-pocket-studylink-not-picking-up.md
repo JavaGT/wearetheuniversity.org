@@ -1,9 +1,12 @@
 ---
 slug: 0800-out-of-pocket-studylink-not-picking-up
-title: "0800 out of pocket – StudyLink not picking up"
-date: 2013-08-14
-source-url: https://www.scoop.co.nz/stories/PA1308/S00224/0800-out-of-pocket-studylink-not-picking-up.htm
+title: 0800 out of pocket – StudyLink not picking up
+date: 2013-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00224/0800-out-of-pocket-studylink-not-picking-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/14/0800-out-of-pocket-studylink-not-picking-up/index.html
+layout: layout.njk
 ---
 0800 out of pocket – StudyLink not picking up
 =============================================

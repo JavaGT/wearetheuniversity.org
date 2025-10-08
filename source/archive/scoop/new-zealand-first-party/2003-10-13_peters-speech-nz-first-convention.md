@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-nz-first-convention
-title: "Peters Speech: NZ First Convention"
-date: 2003-10-13
-source-url: https://www.scoop.co.nz/stories/PA0310/S00248/peters-speech-nz-first-convention.htm
+title: 'Peters Speech: NZ First Convention'
+date: 2003-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00248/peters-speech-nz-first-convention.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/13/peters-speech-nz-first-convention/index.html
+layout: layout.njk
 ---
 Peters Speech: NZ First Convention
 ==================================

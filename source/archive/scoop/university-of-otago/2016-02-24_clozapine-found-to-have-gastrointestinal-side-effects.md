@@ -1,9 +1,13 @@
 ---
 slug: clozapine-found-to-have-gastrointestinal-side-effects
-title: "Clozapine found to have gastrointestinal side effects"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/SC1602/S00063/clozapine-found-to-have-gastrointestinal-side-effects.htm
+title: Clozapine found to have gastrointestinal side effects
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00063/clozapine-found-to-have-gastrointestinal-side-effects.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/02/24/clozapine-found-to-have-gastrointestinal-side-effects/index.html
+layout: layout.njk
 ---
 Clozapine found to have gastrointestinal side effects
 =====================================================

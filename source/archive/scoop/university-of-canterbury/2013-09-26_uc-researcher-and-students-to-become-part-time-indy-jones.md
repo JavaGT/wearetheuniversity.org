@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-and-students-to-become-part-time-indy-jones
-title: "UC researcher and students to become ‘part-time Indy Jones’"
-date: 2013-09-26
-source-url: https://www.scoop.co.nz/stories/SC1309/S00069/uc-researcher-and-students-to-become-part-time-indy-jones.htm
+title: UC researcher and students to become ‘part-time Indy Jones’
+date: 2013-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00069/uc-researcher-and-students-to-become-part-time-indy-jones.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/26/uc-researcher-and-students-to-become-part-time-indy-jones/index.html
+layout: layout.njk
 ---
 UC researcher and students to become ‘part-time Indy Jones’
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: whānau-ora-bro-psychobabble-funding-at-$12m-and-counting
-title: "Whānau Ora ‘Bro-Psychobabble’ Funding At $12m and Counting"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00542/whanau-ora-bro-psychobabble-funding-at-12m-and-counting.htm
+title: Whānau Ora ‘Bro-Psychobabble’ Funding At $12m and Counting
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00542/whanau-ora-bro-psychobabble-funding-at-12m-and-counting.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/30/wh/index.html
+layout: layout.njk
 ---
 Whānau Ora ‘Bro-Psychobabble’ Funding At $12m and Counting
 ==========================================================

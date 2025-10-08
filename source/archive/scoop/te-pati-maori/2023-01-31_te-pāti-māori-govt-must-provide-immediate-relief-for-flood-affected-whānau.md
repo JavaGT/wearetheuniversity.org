@@ -1,9 +1,12 @@
 ---
 slug: te-pāti-māori-govt-must-provide-immediate-relief-for-flood-affected-whānau
-title: "Te Pāti Māori: Govt Must Provide Immediate Relief For Flood Affected Whānau"
-date: 2023-01-31
-source-url: https://www.scoop.co.nz/stories/PA2301/S00081/te-pati-maori-govt-must-provide-immediate-relief-for-flood-affected-whanau.htm
+title: 'Te Pāti Māori: Govt Must Provide Immediate Relief For Flood Affected Whānau'
+date: 2023-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00081/te-pati-maori-govt-must-provide-immediate-relief-for-flood-affected-whanau.htm
 author: te-pati-maori
+permalink: /archive/2023/01/31/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori: Govt Must Provide Immediate Relief For Flood Affected Whānau
 ===========================================================================

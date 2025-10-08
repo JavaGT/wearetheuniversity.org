@@ -1,9 +1,11 @@
 ---
 slug: merger-talks-underway
-title: "Merger Talks Underway"
-date: 2005-12-05
+title: Merger Talks Underway
+date: 2005-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0512/S00017/merger-talks-underway.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/12/05/merger-talks-underway/index.html
+layout: layout.njk
 ---
 Merger Talks Underway
 =====================

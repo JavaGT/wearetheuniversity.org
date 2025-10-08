@@ -1,9 +1,12 @@
 ---
 slug: new-tool-estimates-if-solar-panels-are-economic
-title: "New tool estimates if solar panels are economic"
-date: 2017-10-13
-source-url: https://www.scoop.co.nz/stories/SC1710/S00026/new-tool-estimates-if-solar-panels-are-economic.htm
+title: New tool estimates if solar panels are economic
+date: 2017-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00026/new-tool-estimates-if-solar-panels-are-economic.htm
 author: university-of-auckland-business-school
+permalink: /archive/2017/10/13/new-tool-estimates-if-solar-panels-are-economic/index.html
+layout: layout.njk
 ---
 New tool estimates if solar panels are economic
 ===============================================

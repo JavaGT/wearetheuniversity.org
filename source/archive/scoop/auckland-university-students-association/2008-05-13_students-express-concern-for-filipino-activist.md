@@ -1,9 +1,12 @@
 ---
 slug: students-express-concern-for-filipino-activist
-title: "Students express concern for Filipino activist"
-date: 2008-05-13
-source-url: https://www.scoop.co.nz/stories/ED0805/S00041/students-express-concern-for-filipino-activist.htm
+title: Students express concern for Filipino activist
+date: 2008-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00041/students-express-concern-for-filipino-activist.htm
 author: auckland-university-students-association
+permalink: /archive/2008/05/13/students-express-concern-for-filipino-activist/index.html
+layout: layout.njk
 ---
 Students express concern for Filipino activist
 ==============================================

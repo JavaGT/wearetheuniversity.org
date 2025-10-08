@@ -1,9 +1,12 @@
 ---
 slug: photo-diary-of-red-bus-adventure-goes-on-show
-title: "Photo diary of Red Bus adventure goes on show"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/CU0608/S00106/photo-diary-of-red-bus-adventure-goes-on-show.htm
+title: Photo diary of Red Bus adventure goes on show
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00106/photo-diary-of-red-bus-adventure-goes-on-show.htm
 author: university-of-canterbury
+permalink: /archive/2006/08/10/photo-diary-of-red-bus-adventure-goes-on-show/index.html
+layout: layout.njk
 ---
 Photo diary of Red Bus adventure goes on show
 =============================================

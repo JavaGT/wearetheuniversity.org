@@ -1,9 +1,12 @@
 ---
 slug: switch-beer-loyalty-to-miners-says-nat-mp
-title: "Switch beer loyalty to Miners says Nat MP"
-date: 2001-03-23
-source-url: https://www.scoop.co.nz/stories/PA0103/S00413/switch-beer-loyalty-to-miners-says-nat-mp.htm
+title: Switch beer loyalty to Miners says Nat MP
+date: 2001-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00413/switch-beer-loyalty-to-miners-says-nat-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/23/switch-beer-loyalty-to-miners-says-nat-mp/index.html
+layout: layout.njk
 ---
 Switch beer loyalty to Miners says Nat MP
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-failing-young-kiwis
-title: "Government failing young Kiwis"
-date: 2010-08-31
-source-url: https://www.scoop.co.nz/stories/BU1008/S00995/government-failing-young-kiwis.htm
+title: Government failing young Kiwis
+date: 2010-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1008/S00995/government-failing-young-kiwis.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/08/31/government-failing-young-kiwis/index.html
+layout: layout.njk
 ---
 Government failing young Kiwis
 ==============================

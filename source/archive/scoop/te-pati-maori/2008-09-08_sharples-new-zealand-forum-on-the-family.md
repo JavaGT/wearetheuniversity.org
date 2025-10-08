@@ -1,9 +1,12 @@
 ---
 slug: sharples-new-zealand-forum-on-the-family
-title: "Sharples: New Zealand Forum on the Family"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/PA0809/S00179/sharples-new-zealand-forum-on-the-family.htm
+title: 'Sharples: New Zealand Forum on the Family'
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00179/sharples-new-zealand-forum-on-the-family.htm
 author: te-pati-maori
+permalink: /archive/2008/09/08/sharples-new-zealand-forum-on-the-family/index.html
+layout: layout.njk
 ---
 Sharples: New Zealand Forum on the Family
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: 1869-the-year-that-was-special-collections-exhibition
-title: "1869 The Year That Was - Special Collections Exhibition"
-date: 2019-09-11
-source-url: https://www.scoop.co.nz/stories/ED1909/S00029/1869-the-year-that-was-special-collections-exhibition.htm
+title: 1869 The Year That Was - Special Collections Exhibition
+date: 2019-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00029/1869-the-year-that-was-special-collections-exhibition.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/09/11/1869-the-year-that-was-special-collections-exhibition/index.html
+layout: layout.njk
 ---
 1869 The Year That Was - Special Collections Exhibition
 =======================================================

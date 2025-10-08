@@ -1,9 +1,12 @@
 ---
 slug: young-nationals-sink-into-the-mire
-title: "Young Nationals sink into the mire"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/ED9909/S00067/young-nationals-sink-into-the-mire.htm
+title: Young Nationals sink into the mire
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9909/S00067/young-nationals-sink-into-the-mire.htm
 author: young-labour
+permalink: /archive/1999/09/30/young-nationals-sink-into-the-mire/index.html
+layout: layout.njk
 ---
 Young Nationals sink into the mire
 ==================================

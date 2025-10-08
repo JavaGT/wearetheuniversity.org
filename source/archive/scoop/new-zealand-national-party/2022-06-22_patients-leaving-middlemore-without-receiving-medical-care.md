@@ -1,9 +1,13 @@
 ---
 slug: patients-leaving-middlemore-without-receiving-medical-care
-title: "Patients Leaving Middlemore Without Receiving Medical Care"
-date: 2022-06-22
-source-url: https://www.scoop.co.nz/stories/PA2206/S00173/patients-leaving-middlemore-without-receiving-medical-care.htm
+title: Patients Leaving Middlemore Without Receiving Medical Care
+date: 2022-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00173/patients-leaving-middlemore-without-receiving-medical-care.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/06/22/patients-leaving-middlemore-without-receiving-medical-care/index.html
+layout: layout.njk
 ---
 Patients Leaving Middlemore Without Receiving Medical Care
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: hey-trev-forget-rugby-and-think-of-climate-change
-title: "Hey Trev, forget rugby and think of climate change"
-date: 2006-11-22
-source-url: https://www.scoop.co.nz/stories/PA0611/S00411/hey-trev-forget-rugby-and-think-of-climate-change.htm
+title: Hey Trev, forget rugby and think of climate change
+date: 2006-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00411/hey-trev-forget-rugby-and-think-of-climate-change.htm
 author: green-party
+permalink: >-
+  /archive/2006/11/22/hey-trev-forget-rugby-and-think-of-climate-change/index.html
+layout: layout.njk
 ---
 Hey Trev, forget rugby and think of climate change
 ==================================================

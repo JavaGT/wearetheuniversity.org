@@ -1,9 +1,12 @@
 ---
 slug: bishop-and-kaye-hand-out-duffy-books-in-petone
-title: "Bishop and Kaye hand out Duffy Books in Petone"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/PA1707/S00099/bishop-and-kaye-hand-out-duffy-books-in-petone.htm
+title: Bishop and Kaye hand out Duffy Books in Petone
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00099/bishop-and-kaye-hand-out-duffy-books-in-petone.htm
 author: new-zealand-national-party
+permalink: /archive/2017/07/06/bishop-and-kaye-hand-out-duffy-books-in-petone/index.html
+layout: layout.njk
 ---
 Bishop and Kaye hand out Duffy Books in Petone
 ==============================================

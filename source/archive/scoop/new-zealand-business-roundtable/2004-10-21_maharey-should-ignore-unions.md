@@ -1,9 +1,11 @@
 ---
 slug: maharey-should-ignore-unions
-title: "Maharey Should Ignore Unions"
-date: 2004-10-21
+title: Maharey Should Ignore Unions
+date: 2004-10-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0410/S00080/maharey-should-ignore-unions.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/10/21/maharey-should-ignore-unions/index.html
+layout: layout.njk
 ---
 Maharey Should Ignore Unions
 ============================

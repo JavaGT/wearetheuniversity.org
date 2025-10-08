@@ -1,9 +1,13 @@
 ---
 slug: act-welcomes-otago-universitys-rejection-of-safety-from-ideas
-title: "ACT Welcomes Otago University’s Rejection Of ‘safety From Ideas’"
-date: 2024-07-10
-source-url: https://www.scoop.co.nz/stories/PA2407/S00070/act-welcomes-otago-universitys-rejection-of-safety-from-ideas.htm
+title: ACT Welcomes Otago University’s Rejection Of ‘safety From Ideas’
+date: 2024-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00070/act-welcomes-otago-universitys-rejection-of-safety-from-ideas.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/07/10/act-welcomes-otago-universitys-rejection-of-safety-from-ideas/index.html
+layout: layout.njk
 ---
 ACT Welcomes Otago University’s Rejection Of ‘safety From Ideas’
 ================================================================
@@ -18,14 +22,7 @@ ACT Welcomes Otago University’s Rejection Of ‘safety From Ideas’
 The statement includes: “_The University affirms that it will not restrict debate or deliberation simply because the ideas put forth are thought by some to be offensive, unwise, immoral, or wrong-headed. It is for the members of the University community – its students and staff – to make those judgments for themselves. The University is not a place for safety from ideas – it is a place to engage in critical thought and debate in the pursuit of knowledge and understanding. Our students will not be prepared for a complex and challenging world unless they have experience negotiating conflict and disagreement.”_
 
 “Other universities should take notice. This is a powerful and clear position. It contrasts starkly with the weak academic freedom policy [of Massey University](https://www.act.org.nz/r?u=WsrNKNIE24xsvL7UuXZdDzd2He-iAprOJdCRde_JrGT1zdmD_R4Kvk2KBjBnfSfVoVXYD7L1m7gDvEl-wHNRA1tXwntycLhySkHBuvMLPwXeKhQsiCeBKN5yGRJYdXqR&e=752ed10e9ed7db3a7867d6b86ebadc6c&utm_source=actnz&utm_medium=email&utm_campaign=act_is_welcoming_otago_univers&n=3), which cites ‘mental harm’ as legitimate grounds for limiting speech,” says Dr Parmar.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “Taxpayers don’t fund universities to protect students from difficult ideas. To the contrary, university is a place for difficult discussion, for testing popular assumptions, and for building resilient young adults.
+“Taxpayers don’t fund universities to protect students from difficult ideas. To the contrary, university is a place for difficult discussion, for testing popular assumptions, and for building resilient young adults.
 
 “A common function of universities is to discuss ideas or host speakers that may be controversial. Without robust free speech policies, there is precedent for groups of offended students threatening disruption or claiming to feel unsafe pressuring administrators to cancel valuable discussions.
 

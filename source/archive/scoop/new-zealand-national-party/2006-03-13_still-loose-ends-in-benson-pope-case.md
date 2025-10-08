@@ -1,9 +1,12 @@
 ---
 slug: still-loose-ends-in-benson-pope-case
-title: "Still loose ends in Benson-Pope case"
-date: 2006-03-13
-source-url: https://www.scoop.co.nz/stories/PA0603/S00187/still-loose-ends-in-benson-pope-case.htm
+title: Still loose ends in Benson-Pope case
+date: 2006-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00187/still-loose-ends-in-benson-pope-case.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/13/still-loose-ends-in-benson-pope-case/index.html
+layout: layout.njk
 ---
 Still loose ends in Benson-Pope case
 ====================================

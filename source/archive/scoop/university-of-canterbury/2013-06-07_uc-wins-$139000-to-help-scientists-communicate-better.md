@@ -1,9 +1,12 @@
 ---
 slug: uc-wins-$139000-to-help-scientists-communicate-better
-title: "UC wins $139,000 to help scientists communicate better"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/SC1306/S00016/uc-wins-139000-to-help-scientists-communicate-better.htm
+title: UC wins $139,000 to help scientists communicate better
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00016/uc-wins-139000-to-help-scientists-communicate-better.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/07/uc-wins-/index.html
+layout: layout.njk
 ---
 UC wins $139,000 to help scientists communicate better
 ======================================================

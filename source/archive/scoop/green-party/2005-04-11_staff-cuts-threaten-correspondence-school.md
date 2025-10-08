@@ -1,9 +1,12 @@
 ---
 slug: staff-cuts-threaten-correspondence-school
-title: "Staff cuts threaten Correspondence School"
-date: 2005-04-11
-source-url: https://www.scoop.co.nz/stories/PA0504/S00217/staff-cuts-threaten-correspondence-school.htm
+title: Staff cuts threaten Correspondence School
+date: 2005-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00217/staff-cuts-threaten-correspondence-school.htm
 author: green-party
+permalink: /archive/2005/04/11/staff-cuts-threaten-correspondence-school/index.html
+layout: layout.njk
 ---
 Staff cuts threaten Correspondence School
 =========================================

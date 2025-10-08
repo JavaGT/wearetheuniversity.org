@@ -1,9 +1,13 @@
 ---
 slug: university-candidate-forum-to-address-living-wage
-title: "University candidate forum to address Living Wage"
-date: 2013-09-30
-source-url: https://www.scoop.co.nz/stories/PO1309/S00316/university-candidate-forum-to-address-living-wage.htm
+title: University candidate forum to address Living Wage
+date: 2013-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00316/university-candidate-forum-to-address-living-wage.htm
 author: ausa
+permalink: >-
+  /archive/2013/09/30/university-candidate-forum-to-address-living-wage/index.html
+layout: layout.njk
 ---
 University candidate forum to address Living Wage
 =================================================

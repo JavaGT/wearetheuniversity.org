@@ -1,9 +1,12 @@
 ---
 slug: courts-less-safe-under-labour
-title: "Courts less safe under Labour"
-date: 2008-02-04
-source-url: https://www.scoop.co.nz/stories/PA0802/S00031/courts-less-safe-under-labour.htm
+title: Courts less safe under Labour
+date: 2008-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00031/courts-less-safe-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/04/courts-less-safe-under-labour/index.html
+layout: layout.njk
 ---
 Courts less safe under Labour
 =============================

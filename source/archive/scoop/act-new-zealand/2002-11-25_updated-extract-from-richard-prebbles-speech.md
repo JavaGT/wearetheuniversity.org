@@ -1,9 +1,12 @@
 ---
 slug: updated-extract-from-richard-prebbles-speech
-title: "UPDATED Extract from Richard Prebble's Speech"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00550/updated-extract-from-richard-prebbles-speech.htm
+title: UPDATED Extract from Richard Prebble's Speech
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00550/updated-extract-from-richard-prebbles-speech.htm
 author: act-new-zealand
+permalink: /archive/2002/11/25/updated-extract-from-richard-prebbles-speech/index.html
+layout: layout.njk
 ---
 UPDATED Extract from Richard Prebble's Speech
 =============================================

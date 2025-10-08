@@ -1,9 +1,13 @@
 ---
 slug: wikipedian-in-residence-first-for-southern-hemisphere-uni
-title: "Wikipedian in Residence first for Southern Hemisphere uni"
-date: 2019-12-03
-source-url: https://www.scoop.co.nz/stories/ED1912/S00008/wikipedian-in-residence-first-for-southern-hemisphere-uni.htm
+title: Wikipedian in Residence first for Southern Hemisphere uni
+date: 2019-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00008/wikipedian-in-residence-first-for-southern-hemisphere-uni.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/12/03/wikipedian-in-residence-first-for-southern-hemisphere-uni/index.html
+layout: layout.njk
 ---
 Wikipedian in Residence first for Southern Hemisphere uni
 =========================================================

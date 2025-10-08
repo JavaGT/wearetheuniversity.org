@@ -1,9 +1,12 @@
 ---
 slug: industrial-campaign-begins-at-massey-university
-title: "Industrial Campaign begins at Massey University"
-date: 2000-08-21
-source-url: https://www.scoop.co.nz/stories/ED0008/S00036/industrial-campaign-begins-at-massey-university.htm
+title: Industrial Campaign begins at Massey University
+date: 2000-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00036/industrial-campaign-begins-at-massey-university.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/21/industrial-campaign-begins-at-massey-university/index.html
+layout: layout.njk
 ---
 Industrial Campaign begins at Massey University
 ===============================================

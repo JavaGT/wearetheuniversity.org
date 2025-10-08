@@ -1,9 +1,13 @@
 ---
 slug: auditor-general-slams-saliva-testing-procurement
-title: "Auditor-General Slams Saliva Testing Procurement"
-date: 2021-11-11
-source-url: https://www.scoop.co.nz/stories/PA2111/S00137/auditor-general-slams-saliva-testing-procurement.htm
+title: Auditor-General Slams Saliva Testing Procurement
+date: 2021-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00137/auditor-general-slams-saliva-testing-procurement.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/11/auditor-general-slams-saliva-testing-procurement/index.html
+layout: layout.njk
 ---
 Auditor-General Slams Saliva Testing Procurement
 ================================================

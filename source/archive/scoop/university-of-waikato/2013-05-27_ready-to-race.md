@@ -1,9 +1,11 @@
 ---
 slug: ready-to-race
-title: "Ready to race"
-date: 2013-05-27
+title: Ready to race
+date: 2013-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1305/S00577/ready-to-race.htm
 author: university-of-waikato
+permalink: /archive/2013/05/27/ready-to-race/index.html
+layout: layout.njk
 ---
 Ready to race
 =============

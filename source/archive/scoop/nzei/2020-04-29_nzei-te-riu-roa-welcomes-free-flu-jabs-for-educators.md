@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-welcomes-free-flu-jabs-for-educators
-title: "NZEI Te Riu Roa Welcomes Free Flu Jabs For Educators"
-date: 2020-04-29
-source-url: https://www.scoop.co.nz/stories/GE2004/S00237/nzei-te-riu-roa-welcomes-free-flu-jabs-for-educators.htm
+title: NZEI Te Riu Roa Welcomes Free Flu Jabs For Educators
+date: 2020-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2004/S00237/nzei-te-riu-roa-welcomes-free-flu-jabs-for-educators.htm
 author: nzei
+permalink: >-
+  /archive/2020/04/29/nzei-te-riu-roa-welcomes-free-flu-jabs-for-educators/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Welcomes Free Flu Jabs For Educators
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-divided-on-social-issues
-title: "New Zealanders Divided On Social Issues"
-date: 2000-05-11
-source-url: https://www.scoop.co.nz/stories/GE0005/S00030/new-zealanders-divided-on-social-issues.htm
+title: New Zealanders Divided On Social Issues
+date: 2000-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0005/S00030/new-zealanders-divided-on-social-issues.htm
 author: massey-university
+permalink: /archive/2000/05/11/new-zealanders-divided-on-social-issues/index.html
+layout: layout.njk
 ---
 New Zealanders Divided On Social Issues
 =======================================

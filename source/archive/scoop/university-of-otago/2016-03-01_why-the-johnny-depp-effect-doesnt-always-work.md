@@ -1,9 +1,12 @@
 ---
 slug: why-the-johnny-depp-effect-doesnt-always-work
-title: "Why the ‘Johnny Depp Effect’ doesn’t always work"
-date: 2016-03-01
-source-url: https://www.scoop.co.nz/stories/SC1603/S00001/why-the-johnny-depp-effect-doesnt-always-work.htm
+title: Why the ‘Johnny Depp Effect’ doesn’t always work
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00001/why-the-johnny-depp-effect-doesnt-always-work.htm
 author: university-of-otago
+permalink: /archive/2016/03/01/why-the-johnny-depp-effect-doesnt-always-work/index.html
+layout: layout.njk
 ---
 Why the ‘Johnny Depp Effect’ doesn’t always work
 ================================================

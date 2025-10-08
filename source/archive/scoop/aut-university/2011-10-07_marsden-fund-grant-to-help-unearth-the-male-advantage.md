@@ -1,9 +1,13 @@
 ---
 slug: marsden-fund-grant-to-help-unearth-the-male-advantage
-title: "Marsden Fund grant to help unearth the ‘male advantage’"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/WO1110/S00220/marsden-fund-grant-to-help-unearth-the-male-advantage.htm
+title: Marsden Fund grant to help unearth the ‘male advantage’
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1110/S00220/marsden-fund-grant-to-help-unearth-the-male-advantage.htm
 author: aut-university
+permalink: >-
+  /archive/2011/10/07/marsden-fund-grant-to-help-unearth-the-male-advantage/index.html
+layout: layout.njk
 ---
 Marsden Fund grant to help unearth the ‘male advantage’
 =======================================================

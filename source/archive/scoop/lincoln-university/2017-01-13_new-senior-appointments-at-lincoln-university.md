@@ -1,9 +1,12 @@
 ---
 slug: new-senior-appointments-at-lincoln-university
-title: "New senior appointments at Lincoln University"
-date: 2017-01-13
-source-url: https://www.scoop.co.nz/stories/ED1701/S00008/new-senior-appointments-at-lincoln-university.htm
+title: New senior appointments at Lincoln University
+date: 2017-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00008/new-senior-appointments-at-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2017/01/13/new-senior-appointments-at-lincoln-university/index.html
+layout: layout.njk
 ---
 New senior appointments at Lincoln University
 =============================================

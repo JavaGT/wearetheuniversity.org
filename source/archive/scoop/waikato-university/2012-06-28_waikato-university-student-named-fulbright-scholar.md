@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-student-named-fulbright-scholar
-title: "Waikato University Student Named Fulbright Scholar"
-date: 2012-06-28
-source-url: https://www.scoop.co.nz/stories/ED1206/S00124/waikato-university-student-named-fulbright-scholar.htm
+title: Waikato University Student Named Fulbright Scholar
+date: 2012-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00124/waikato-university-student-named-fulbright-scholar.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/06/28/waikato-university-student-named-fulbright-scholar/index.html
+layout: layout.njk
 ---
 Waikato University Student Named Fulbright Scholar
 ==================================================

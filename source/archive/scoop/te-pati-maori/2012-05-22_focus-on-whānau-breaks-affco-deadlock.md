@@ -1,9 +1,12 @@
 ---
 slug: focus-on-whānau-breaks-affco-deadlock
-title: "Focus on whānau breaks AFFCO deadlock"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/PA1205/S00346/focus-on-whanau-breaks-affco-deadlock.htm
+title: Focus on whānau breaks AFFCO deadlock
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00346/focus-on-whanau-breaks-affco-deadlock.htm
 author: te-pati-maori
+permalink: /archive/2012/05/22/focus-on-wh/index.html
+layout: layout.njk
 ---
 Focus on whānau breaks AFFCO deadlock
 =====================================

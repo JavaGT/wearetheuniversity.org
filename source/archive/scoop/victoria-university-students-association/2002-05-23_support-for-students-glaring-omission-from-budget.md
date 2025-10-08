@@ -1,9 +1,13 @@
 ---
 slug: support-for-students-glaring-omission-from-budget
-title: "Support for students glaring omission from budget"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00044/support-for-students-glaring-omission-from-budget.htm
+title: Support for students glaring omission from budget
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00044/support-for-students-glaring-omission-from-budget.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2002/05/23/support-for-students-glaring-omission-from-budget/index.html
+layout: layout.njk
 ---
 Support for students glaring omission from budget
 =================================================

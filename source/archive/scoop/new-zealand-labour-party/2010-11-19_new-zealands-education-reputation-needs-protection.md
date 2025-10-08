@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-education-reputation-needs-protection
-title: "New Zealand’s education reputation needs protection"
-date: 2010-11-19
-source-url: https://www.scoop.co.nz/stories/PA1011/S00419/new-zealands-education-reputation-needs-protection.htm
+title: New Zealand’s education reputation needs protection
+date: 2010-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00419/new-zealands-education-reputation-needs-protection.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/19/new-zealands-education-reputation-needs-protection/index.html
+layout: layout.njk
 ---
 New Zealand’s education reputation needs protection
 ===================================================

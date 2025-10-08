@@ -1,9 +1,12 @@
 ---
 slug: green-party-welcomes-u-turn-on-animal-testing
-title: "Green Party welcomes U-turn on animal testing"
-date: 2014-05-05
-source-url: https://www.scoop.co.nz/stories/PA1405/S00053/green-party-welcomes-u-turn-on-animal-testing.htm
+title: Green Party welcomes U-turn on animal testing
+date: 2014-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00053/green-party-welcomes-u-turn-on-animal-testing.htm
 author: green-party
+permalink: /archive/2014/05/05/green-party-welcomes-u-turn-on-animal-testing/index.html
+layout: layout.njk
 ---
 Green Party welcomes U-turn on animal testing
 =============================================

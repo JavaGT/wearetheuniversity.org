@@ -1,9 +1,13 @@
 ---
 slug: cabinet-paper-proposes-treaty-of-waitangi-breaches
-title: "Cabinet paper proposes Treaty of Waitangi breaches"
-date: 2016-06-24
-source-url: https://www.scoop.co.nz/stories/PO1606/S00289/cabinet-paper-proposes-treaty-of-waitangi-breaches.htm
+title: Cabinet paper proposes Treaty of Waitangi breaches
+date: 2016-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00289/cabinet-paper-proposes-treaty-of-waitangi-breaches.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/06/24/cabinet-paper-proposes-treaty-of-waitangi-breaches/index.html
+layout: layout.njk
 ---
 Cabinet paper proposes Treaty of Waitangi breaches
 ==================================================

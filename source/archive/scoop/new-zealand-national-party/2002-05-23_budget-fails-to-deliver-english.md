@@ -1,9 +1,12 @@
 ---
 slug: budget-fails-to-deliver-english
-title: "Budget fails to deliver -- English"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PA0205/S00519/budget-fails-to-deliver-english.htm
+title: Budget fails to deliver -- English
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00519/budget-fails-to-deliver-english.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/23/budget-fails-to-deliver-english/index.html
+layout: layout.njk
 ---
 Budget fails to deliver -- English
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-searching-for-viral-link-to-breast-cancer
-title: "UC searching for viral link to breast cancer"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/SC1307/S00064/uc-searching-for-viral-link-to-breast-cancer.htm
+title: UC searching for viral link to breast cancer
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00064/uc-searching-for-viral-link-to-breast-cancer.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/24/uc-searching-for-viral-link-to-breast-cancer/index.html
+layout: layout.njk
 ---
 UC searching for viral link to breast cancer
 ============================================

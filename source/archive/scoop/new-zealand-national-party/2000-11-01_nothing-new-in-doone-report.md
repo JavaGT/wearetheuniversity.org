@@ -1,9 +1,11 @@
 ---
 slug: nothing-new-in-doone-report
-title: "Nothing New In Doone Report"
-date: 2000-11-01
+title: Nothing New In Doone Report
+date: 2000-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0011/S00022/nothing-new-in-doone-report.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/01/nothing-new-in-doone-report/index.html
+layout: layout.njk
 ---
 Nothing New In Doone Report
 ===========================

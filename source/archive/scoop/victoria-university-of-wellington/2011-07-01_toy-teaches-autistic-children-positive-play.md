@@ -1,9 +1,12 @@
 ---
 slug: toy-teaches-autistic-children-positive-play
-title: "Toy teaches autistic children positive play"
-date: 2011-07-01
-source-url: https://www.scoop.co.nz/stories/SC1107/S00002/toy-teaches-autistic-children-positive-play.htm
+title: Toy teaches autistic children positive play
+date: 2011-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00002/toy-teaches-autistic-children-positive-play.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/07/01/toy-teaches-autistic-children-positive-play/index.html
+layout: layout.njk
 ---
 Toy teaches autistic children positive play
 ===========================================

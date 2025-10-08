@@ -1,9 +1,13 @@
 ---
 slug: maharey-channels-loan-money-to-student-politicians
-title: "Maharey Channels Loan Money To Student Politicians"
-date: 2001-12-11
-source-url: https://www.scoop.co.nz/stories/ED0112/S00011/maharey-channels-loan-money-to-student-politicians.htm
+title: Maharey Channels Loan Money To Student Politicians
+date: 2001-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0112/S00011/maharey-channels-loan-money-to-student-politicians.htm
 author: student-choice
+permalink: >-
+  /archive/2001/12/11/maharey-channels-loan-money-to-student-politicians/index.html
+layout: layout.njk
 ---
 Maharey Channels Loan Money To Student Politicians
 ==================================================

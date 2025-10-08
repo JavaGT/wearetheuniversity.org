@@ -1,9 +1,12 @@
 ---
 slug: compassion-fatigue-amongst-doctors
-title: "Compassion fatigue amongst doctors"
-date: 2005-04-27
-source-url: https://www.scoop.co.nz/stories/GE0504/S00096/compassion-fatigue-amongst-doctors.htm
+title: Compassion fatigue amongst doctors
+date: 2005-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00096/compassion-fatigue-amongst-doctors.htm
 author: auckland-university
+permalink: /archive/2005/04/27/compassion-fatigue-amongst-doctors/index.html
+layout: layout.njk
 ---
 Compassion fatigue amongst doctors
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: wellington-a-city-for-sculpture-vict-uni-press
-title: "Wellington A City for Sculpture - Vict. Uni. Press"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/CU0711/S00008/wellington-a-city-for-sculpture-vict-uni-press.htm
+title: Wellington A City for Sculpture - Vict. Uni. Press
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0711/S00008/wellington-a-city-for-sculpture-vict-uni-press.htm
 author: victoria-university-press
+permalink: /archive/2007/11/01/wellington-a-city-for-sculpture-vict-uni-press/index.html
+layout: layout.njk
 ---
 Wellington A City for Sculpture - Vict. Uni. Press
 ==================================================

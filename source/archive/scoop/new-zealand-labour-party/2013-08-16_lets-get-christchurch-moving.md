@@ -1,9 +1,11 @@
 ---
 slug: lets-get-christchurch-moving
-title: "Let’s get Christchurch moving"
-date: 2013-08-16
+title: Let’s get Christchurch moving
+date: 2013-08-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1308/S00266/lets-get-christchurch-moving.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/16/lets-get-christchurch-moving/index.html
+layout: layout.njk
 ---
 Let’s get Christchurch moving
 =============================

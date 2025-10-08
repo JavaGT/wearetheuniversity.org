@@ -1,9 +1,12 @@
 ---
 slug: refugee-and-migrant-centre-loss-a-body-blow
-title: "Refugee and Migrant Centre loss a body blow"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00374/refugee-and-migrant-centre-loss-a-body-blow.htm
+title: Refugee and Migrant Centre loss a body blow
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00374/refugee-and-migrant-centre-loss-a-body-blow.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/24/refugee-and-migrant-centre-loss-a-body-blow/index.html
+layout: layout.njk
 ---
 Refugee and Migrant Centre loss a body blow
 ===========================================

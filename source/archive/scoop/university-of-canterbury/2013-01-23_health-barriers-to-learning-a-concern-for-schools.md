@@ -1,9 +1,13 @@
 ---
 slug: health-barriers-to-learning-a-concern-for-schools
-title: "Health barriers to learning a concern for schools"
-date: 2013-01-23
-source-url: https://www.scoop.co.nz/stories/ED1301/S00058/health-barriers-to-learning-a-concern-for-schools.htm
+title: Health barriers to learning a concern for schools
+date: 2013-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00058/health-barriers-to-learning-a-concern-for-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/23/health-barriers-to-learning-a-concern-for-schools/index.html
+layout: layout.njk
 ---
 Health barriers to learning a concern for schools
 =================================================

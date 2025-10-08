@@ -1,9 +1,13 @@
 ---
 slug: bradfords-bill-restores-dignity-to-beneficiaries
-title: "Bradford's Bill Restores Dignity To Beneficiaries"
-date: 2000-03-23
-source-url: https://www.scoop.co.nz/stories/PA0003/S00382/bradfords-bill-restores-dignity-to-beneficiaries.htm
+title: Bradford's Bill Restores Dignity To Beneficiaries
+date: 2000-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00382/bradfords-bill-restores-dignity-to-beneficiaries.htm
 author: green-party
+permalink: >-
+  /archive/2000/03/23/bradfords-bill-restores-dignity-to-beneficiaries/index.html
+layout: layout.njk
 ---
 Bradford's Bill Restores Dignity To Beneficiaries
 =================================================

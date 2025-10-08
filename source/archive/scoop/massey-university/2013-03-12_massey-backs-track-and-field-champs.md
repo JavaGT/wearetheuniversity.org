@@ -1,9 +1,12 @@
 ---
 slug: massey-backs-track-and-field-champs
-title: "Massey Backs Track And Field Champs"
-date: 2013-03-12
-source-url: https://www.scoop.co.nz/stories/ED1303/S00083/massey-backs-track-and-field-champs.htm
+title: Massey Backs Track And Field Champs
+date: 2013-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00083/massey-backs-track-and-field-champs.htm
 author: massey-university
+permalink: /archive/2013/03/12/massey-backs-track-and-field-champs/index.html
+layout: layout.njk
 ---
 Massey Backs Track And Field Champs
 ===================================

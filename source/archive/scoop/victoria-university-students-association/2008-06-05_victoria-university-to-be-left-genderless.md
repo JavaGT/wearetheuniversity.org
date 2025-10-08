@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-to-be-left-genderless
-title: "Victoria University to be left genderless?"
-date: 2008-06-05
-source-url: https://www.scoop.co.nz/stories/ED0806/S00013/victoria-university-to-be-left-genderless.htm
+title: Victoria University to be left genderless?
+date: 2008-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00013/victoria-university-to-be-left-genderless.htm
 author: victoria-university-students-association
+permalink: /archive/2008/06/05/victoria-university-to-be-left-genderless/index.html
+layout: layout.njk
 ---
 Victoria University to be left genderless?
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: overseas-insurers-the-main-beneficiaries-of-acc-changes
-title: "Overseas insurers the main beneficiaries of ACC changes"
-date: 2012-02-27
-source-url: https://www.scoop.co.nz/stories/PA1202/S00302/overseas-insurers-the-main-beneficiaries-of-acc-changes.htm
+title: Overseas insurers the main beneficiaries of ACC changes
+date: 2012-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00302/overseas-insurers-the-main-beneficiaries-of-acc-changes.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/02/27/overseas-insurers-the-main-beneficiaries-of-acc-changes/index.html
+layout: layout.njk
 ---
 Overseas insurers the main beneficiaries of ACC changes
 =======================================================

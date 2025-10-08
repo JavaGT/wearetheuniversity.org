@@ -1,9 +1,13 @@
 ---
 slug: clinical-research-a-focus-for-new-postgraduate-dip
-title: "Clinical research a focus for new postgraduate dip"
-date: 2010-06-30
-source-url: https://www.scoop.co.nz/stories/ED1006/S00117/clinical-research-a-focus-for-new-postgraduate-dip.htm
+title: Clinical research a focus for new postgraduate dip
+date: 2010-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00117/clinical-research-a-focus-for-new-postgraduate-dip.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/06/30/clinical-research-a-focus-for-new-postgraduate-dip/index.html
+layout: layout.njk
 ---
 Clinical research a focus for new postgraduate dip
 ==================================================

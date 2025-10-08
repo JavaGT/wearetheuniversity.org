@@ -1,9 +1,12 @@
 ---
 slug: hong-kong-the-benefits-of-economic-freedom
-title: "Hong Kong: The Benefits of Economic Freedom"
-date: 2008-04-11
-source-url: https://www.scoop.co.nz/stories/BU0804/S00224/hong-kong-the-benefits-of-economic-freedom.htm
+title: 'Hong Kong: The Benefits of Economic Freedom'
+date: 2008-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0804/S00224/hong-kong-the-benefits-of-economic-freedom.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/04/11/hong-kong-the-benefits-of-economic-freedom/index.html
+layout: layout.njk
 ---
 Hong Kong: The Benefits of Economic Freedom
 ===========================================

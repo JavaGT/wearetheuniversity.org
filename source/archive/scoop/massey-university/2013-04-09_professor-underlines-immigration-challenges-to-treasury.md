@@ -1,9 +1,13 @@
 ---
 slug: professor-underlines-immigration-challenges-to-treasury
-title: "Professor underlines immigration challenges to Treasury"
-date: 2013-04-09
-source-url: https://www.scoop.co.nz/stories/BU1304/S00307/professor-underlines-immigration-challenges-to-treasury.htm
+title: Professor underlines immigration challenges to Treasury
+date: 2013-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1304/S00307/professor-underlines-immigration-challenges-to-treasury.htm
 author: massey-university
+permalink: >-
+  /archive/2013/04/09/professor-underlines-immigration-challenges-to-treasury/index.html
+layout: layout.njk
 ---
 Professor underlines immigration challenges to Treasury
 =======================================================

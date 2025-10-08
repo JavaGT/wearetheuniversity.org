@@ -1,9 +1,12 @@
 ---
 slug: asylum-seeker-law-change-an-overreaction
-title: "Asylum Seeker Law Change an Overreaction"
-date: 2012-05-01
-source-url: https://www.scoop.co.nz/stories/PO1205/S00007/asylum-seeker-law-change-an-overreaction.htm
+title: Asylum Seeker Law Change an Overreaction
+date: 2012-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00007/asylum-seeker-law-change-an-overreaction.htm
 author: aut-university
+permalink: /archive/2012/05/01/asylum-seeker-law-change-an-overreaction/index.html
+layout: layout.njk
 ---
 Asylum Seeker Law Change an Overreaction
 ========================================

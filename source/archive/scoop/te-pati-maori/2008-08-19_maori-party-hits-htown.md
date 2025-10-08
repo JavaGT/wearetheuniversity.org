@@ -1,9 +1,11 @@
 ---
 slug: maori-party-hits-htown
-title: "Maori Party hits H’Town"
-date: 2008-08-19
+title: Maori Party hits H’Town
+date: 2008-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0808/S00231/maori-party-hits-htown.htm
 author: te-pati-maori
+permalink: /archive/2008/08/19/maori-party-hits-htown/index.html
+layout: layout.njk
 ---
 Maori Party hits H’Town
 =======================

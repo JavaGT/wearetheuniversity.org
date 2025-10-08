@@ -1,9 +1,12 @@
 ---
 slug: education-minister-must-name-schools
-title: "Education Minister must name schools"
-date: 2007-02-12
-source-url: https://www.scoop.co.nz/stories/PA0702/S00169/education-minister-must-name-schools.htm
+title: Education Minister must name schools
+date: 2007-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00169/education-minister-must-name-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/12/education-minister-must-name-schools/index.html
+layout: layout.njk
 ---
 Education Minister must name schools
 ====================================

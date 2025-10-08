@@ -1,9 +1,12 @@
 ---
 slug: vying-for-world-mooting-title
-title: "Vying for world mooting title"
-date: 2008-09-17
-source-url: https://www.scoop.co.nz/stories/CU0809/S00258/vying-for-world-mooting-title.htm
+title: Vying for world mooting title
+date: 2008-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0809/S00258/vying-for-world-mooting-title.htm
 author: auckland-university
+permalink: /archive/2008/09/17/vying-for-world-mooting-title/index.html
+layout: layout.njk
 ---
 Vying for world mooting title
 =============================

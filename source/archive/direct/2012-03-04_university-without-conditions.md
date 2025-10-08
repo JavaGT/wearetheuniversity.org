@@ -1,10 +1,13 @@
 ---
 title: University Without Conditions
 slug: university-without-conditions
-date: 2012-03-04
-source: https://web.archive.org/web/20130208031151/http://wearetheuniversity.org.nz/2012/03/04/watu-assembly/
+date: 2012-03-04T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031151/http://wearetheuniversity.org.nz/2012/03/04/watu-assembly/
 author: The University Without Conditions
 author-slug: the-university-without-conditions
+permalink: /archive/2012/03/04/university-without-conditions/index.html
+layout: layout.njk
 ---
 
 “The University Without Conditions is a free university.

@@ -1,9 +1,12 @@
 ---
 slug: internet-education-in-new-zealand
-title: "Internet Education In New Zealand"
-date: 2008-11-26
-source-url: https://www.scoop.co.nz/stories/ED0811/S00069/internet-education-in-new-zealand.htm
+title: Internet Education In New Zealand
+date: 2008-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00069/internet-education-in-new-zealand.htm
 author: aut-university
+permalink: /archive/2008/11/26/internet-education-in-new-zealand/index.html
+layout: layout.njk
 ---
 Internet Education In New Zealand
 =================================

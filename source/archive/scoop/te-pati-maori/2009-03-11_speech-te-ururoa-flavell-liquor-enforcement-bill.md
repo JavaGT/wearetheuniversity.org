@@ -1,9 +1,13 @@
 ---
 slug: speech-te-ururoa-flavell-liquor-enforcement-bill
-title: "Speech: Te Ururoa Flavell, Liquor Enforcement Bill"
-date: 2009-03-11
-source-url: https://www.scoop.co.nz/stories/PA0903/S00158/speech-te-ururoa-flavell-liquor-enforcement-bill.htm
+title: 'Speech: Te Ururoa Flavell, Liquor Enforcement Bill'
+date: 2009-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00158/speech-te-ururoa-flavell-liquor-enforcement-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2009/03/11/speech-te-ururoa-flavell-liquor-enforcement-bill/index.html
+layout: layout.njk
 ---
 Speech: Te Ururoa Flavell, Liquor Enforcement Bill
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: returning-from-scotland-as-law-professor
-title: "Returning from Scotland as Law Professor"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/ED1103/S00044/returning-from-scotland-as-law-professor.htm
+title: Returning from Scotland as Law Professor
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00044/returning-from-scotland-as-law-professor.htm
 author: auckland-university
+permalink: /archive/2011/03/08/returning-from-scotland-as-law-professor/index.html
+layout: layout.njk
 ---
 Returning from Scotland as Law Professor
 ========================================

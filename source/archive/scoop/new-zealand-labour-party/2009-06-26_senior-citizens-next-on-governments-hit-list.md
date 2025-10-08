@@ -1,9 +1,12 @@
 ---
 slug: senior-citizens-next-on-governments-hit-list
-title: "Senior citizens next on Government’s hit list"
-date: 2009-06-26
-source-url: https://www.scoop.co.nz/stories/PA0906/S00373/senior-citizens-next-on-governments-hit-list.htm
+title: Senior citizens next on Government’s hit list
+date: 2009-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00373/senior-citizens-next-on-governments-hit-list.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/26/senior-citizens-next-on-governments-hit-list/index.html
+layout: layout.njk
 ---
 Senior citizens next on Government’s hit list
 =============================================

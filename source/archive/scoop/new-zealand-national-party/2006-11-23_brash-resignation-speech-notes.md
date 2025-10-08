@@ -1,9 +1,12 @@
 ---
 slug: brash-resignation-speech-notes
-title: "Brash Resignation Speech Notes"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PA0611/S00453/brash-resignation-speech-notes.htm
+title: Brash Resignation Speech Notes
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00453/brash-resignation-speech-notes.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/23/brash-resignation-speech-notes/index.html
+layout: layout.njk
 ---
 Brash Resignation Speech Notes
 ==============================

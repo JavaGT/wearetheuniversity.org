@@ -1,9 +1,13 @@
 ---
 slug: students-associations-increase-cost-of-education
-title: "Students Associations Increase Cost Of Education"
-date: 2000-04-28
-source-url: https://www.scoop.co.nz/stories/ED0004/S00033/students-associations-increase-cost-of-education.htm
+title: Students Associations Increase Cost Of Education
+date: 2000-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00033/students-associations-increase-cost-of-education.htm
 author: prebble-s-rebels
+permalink: >-
+  /archive/2000/04/28/students-associations-increase-cost-of-education/index.html
+layout: layout.njk
 ---
 Students Associations Increase Cost Of Education
 ================================================

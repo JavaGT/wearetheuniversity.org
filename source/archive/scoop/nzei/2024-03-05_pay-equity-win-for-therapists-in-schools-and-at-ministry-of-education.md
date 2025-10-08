@@ -1,9 +1,13 @@
 ---
 slug: pay-equity-win-for-therapists-in-schools-and-at-ministry-of-education
-title: "Pay Equity Win For Therapists In Schools And At Ministry Of Education"
-date: 2024-03-05
-source-url: https://www.scoop.co.nz/stories/PO2403/S00016/pay-equity-win-for-therapists-in-schools-and-at-ministry-of-education.htm
+title: Pay Equity Win For Therapists In Schools And At Ministry Of Education
+date: 2024-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00016/pay-equity-win-for-therapists-in-schools-and-at-ministry-of-education.htm
 author: nzei
+permalink: >-
+  /archive/2024/03/05/pay-equity-win-for-therapists-in-schools-and-at-ministry-of-education/index.html
+layout: layout.njk
 ---
 Pay Equity Win For Therapists In Schools And At Ministry Of Education
 =====================================================================

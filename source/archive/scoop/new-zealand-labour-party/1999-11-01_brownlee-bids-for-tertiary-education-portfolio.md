@@ -1,9 +1,12 @@
 ---
 slug: brownlee-bids-for-tertiary-education-portfolio
-title: "Brownlee bids for Tertiary Education portfolio"
-date: 1999-11-01
-source-url: https://www.scoop.co.nz/stories/PA9911/S00010/brownlee-bids-for-tertiary-education-portfolio.htm
+title: Brownlee bids for Tertiary Education portfolio
+date: 1999-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00010/brownlee-bids-for-tertiary-education-portfolio.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/01/brownlee-bids-for-tertiary-education-portfolio/index.html
+layout: layout.njk
 ---
 Brownlee bids for Tertiary Education portfolio
 ==============================================

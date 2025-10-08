@@ -1,9 +1,13 @@
 ---
 slug: hillary-scholar-to-run-the-worlds-highest-marathon
-title: "Hillary Scholar To Run The World’s Highest Marathon"
-date: 2013-03-15
-source-url: https://www.scoop.co.nz/stories/CU1303/S00324/hillary-scholar-to-run-the-worlds-highest-marathon.htm
+title: Hillary Scholar To Run The World’s Highest Marathon
+date: 2013-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1303/S00324/hillary-scholar-to-run-the-worlds-highest-marathon.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/03/15/hillary-scholar-to-run-the-worlds-highest-marathon/index.html
+layout: layout.njk
 ---
 Hillary Scholar To Run The World’s Highest Marathon
 ===================================================

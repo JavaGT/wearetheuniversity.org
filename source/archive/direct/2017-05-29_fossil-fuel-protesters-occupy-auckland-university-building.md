@@ -1,11 +1,15 @@
 ---
-title: "Fossil fuel protesters occupy Auckland University building"
-date: 2017-05-29
+title: Fossil fuel protesters occupy Auckland University building
+date: 2017-05-29T00:00:00.000Z
 slug: fossil-fuel-protesters-occupy-auckland-university-building
-source: https://www.rnz.co.nz/news/national/331821/fossil-fuel-protesters-occupy-auckland-university-building
+source: >-
+  https://www.rnz.co.nz/news/national/331821/fossil-fuel-protesters-occupy-auckland-university-building
 source-name: RNZ
 author: Unknown
 author-slug: unknown
+permalink: >-
+  /archive/2017/05/29/fossil-fuel-protesters-occupy-auckland-university-building/index.html
+layout: layout.njk
 ---
 A group of Auckland University students have occupied a wing of the University's administration block, calling for it to ditch its fossil fuels investments.
 

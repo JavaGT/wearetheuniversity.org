@@ -1,9 +1,12 @@
 ---
 slug: final-tvnz-death-warrant-charter
-title: "Final TVNZ 'Death Warrant' Charter"
-date: 2001-02-12
-source-url: https://www.scoop.co.nz/stories/PA0102/S00139/final-tvnz-death-warrant-charter.htm
+title: Final TVNZ 'Death Warrant' Charter
+date: 2001-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00139/final-tvnz-death-warrant-charter.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/12/final-tvnz-death-warrant-charter/index.html
+layout: layout.njk
 ---
 Final TVNZ 'Death Warrant' Charter
 ==================================

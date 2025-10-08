@@ -1,9 +1,13 @@
 ---
 slug: govts-record-on-gun-reform-a-tale-of-failure-and-division
-title: "Govt’s Record On Gun Reform A Tale Of Failure And Division"
-date: 2020-06-18
-source-url: https://www.scoop.co.nz/stories/PO2006/S00202/govts-record-on-gun-reform-a-tale-of-failure-and-division.htm
+title: Govt’s Record On Gun Reform A Tale Of Failure And Division
+date: 2020-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2006/S00202/govts-record-on-gun-reform-a-tale-of-failure-and-division.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/18/govts-record-on-gun-reform-a-tale-of-failure-and-division/index.html
+layout: layout.njk
 ---
 Govt’s Record On Gun Reform A Tale Of Failure And Division
 ==========================================================

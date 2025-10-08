@@ -1,9 +1,12 @@
 ---
 slug: student-scholarships-support-maori-research
-title: "Student scholarships support Maori research"
-date: 2006-04-20
-source-url: https://www.scoop.co.nz/stories/ED0604/S00066/student-scholarships-support-maori-research.htm
+title: Student scholarships support Maori research
+date: 2006-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00066/student-scholarships-support-maori-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/20/student-scholarships-support-maori-research/index.html
+layout: layout.njk
 ---
 Student scholarships support Maori research
 ===========================================

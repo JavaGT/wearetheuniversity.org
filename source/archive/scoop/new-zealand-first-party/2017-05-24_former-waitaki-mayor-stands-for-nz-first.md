@@ -1,9 +1,12 @@
 ---
 slug: former-waitaki-mayor-stands-for-nz-first
-title: "Former Waitaki Mayor Stands for NZ First"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/PA1705/S00475/former-waitaki-mayor-stands-for-nz-first.htm
+title: Former Waitaki Mayor Stands for NZ First
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00475/former-waitaki-mayor-stands-for-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/24/former-waitaki-mayor-stands-for-nz-first/index.html
+layout: layout.njk
 ---
 Former Waitaki Mayor Stands for NZ First
 ========================================

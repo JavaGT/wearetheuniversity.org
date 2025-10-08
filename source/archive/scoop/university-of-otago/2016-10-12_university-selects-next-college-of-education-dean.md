@@ -1,9 +1,13 @@
 ---
 slug: university-selects-next-college-of-education-dean
-title: "University selects next College of Education Dean"
-date: 2016-10-12
-source-url: https://www.scoop.co.nz/stories/ED1610/S00030/university-selects-next-college-of-education-dean.htm
+title: University selects next College of Education Dean
+date: 2016-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00030/university-selects-next-college-of-education-dean.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/12/university-selects-next-college-of-education-dean/index.html
+layout: layout.njk
 ---
 University selects next College of Education Dean
 =================================================

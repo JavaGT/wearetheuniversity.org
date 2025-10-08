@@ -1,9 +1,12 @@
 ---
 slug: no-credit-in-keeping-loan-interest-rate-static
-title: "No Credit In Keeping Loan Interest Rate Static"
-date: 2002-02-28
-source-url: https://www.scoop.co.nz/stories/PA0202/S00456/no-credit-in-keeping-loan-interest-rate-static.htm
+title: No Credit In Keeping Loan Interest Rate Static
+date: 2002-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00456/no-credit-in-keeping-loan-interest-rate-static.htm
 author: green-party
+permalink: /archive/2002/02/28/no-credit-in-keeping-loan-interest-rate-static/index.html
+layout: layout.njk
 ---
 No Credit In Keeping Loan Interest Rate Static
 ==============================================

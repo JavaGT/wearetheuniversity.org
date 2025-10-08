@@ -1,9 +1,13 @@
 ---
 slug: university-of-aucklands-inaugural-40-under-40-list
-title: "University of Auckland’s Inaugural 40 Under 40 List"
-date: 2017-10-12
-source-url: https://www.scoop.co.nz/stories/CU1710/S00222/university-of-aucklands-inaugural-40-under-40-list.htm
+title: University of Auckland’s Inaugural 40 Under 40 List
+date: 2017-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00222/university-of-aucklands-inaugural-40-under-40-list.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/10/12/university-of-aucklands-inaugural-40-under-40-list/index.html
+layout: layout.njk
 ---
 University of Auckland’s Inaugural 40 Under 40 List
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: writings-of-literary-great-published
-title: "Writings of literary great published"
-date: 2008-06-13
-source-url: https://www.scoop.co.nz/stories/ED0806/S00043/writings-of-literary-great-published.htm
+title: Writings of literary great published
+date: 2008-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00043/writings-of-literary-great-published.htm
 author: massey-university
+permalink: /archive/2008/06/13/writings-of-literary-great-published/index.html
+layout: layout.njk
 ---
 Writings of literary great published
 ====================================

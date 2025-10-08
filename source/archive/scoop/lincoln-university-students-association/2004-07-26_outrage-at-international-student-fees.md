@@ -1,9 +1,12 @@
 ---
 slug: outrage-at-international-student-fees
-title: "Outrage at International Student Fees"
-date: 2004-07-26
-source-url: https://www.scoop.co.nz/stories/ED0407/S00071/outrage-at-international-student-fees.htm
+title: Outrage at International Student Fees
+date: 2004-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00071/outrage-at-international-student-fees.htm
 author: lincoln-university-students-association
+permalink: /archive/2004/07/26/outrage-at-international-student-fees/index.html
+layout: layout.njk
 ---
 Outrage at International Student Fees
 =====================================

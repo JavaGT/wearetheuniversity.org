@@ -1,9 +1,12 @@
 ---
 slug: launch-of-new-bachelor-of-teaching-(ece)-te-tari-puna-ora
-title: "Launch of New Bachelor of Teaching (ECE): Te Tari Puna Ora"
-date: 2011-02-17
-source-url: https://www.scoop.co.nz/stories/PA1102/S00250/launch-of-new-bachelor-of-teaching-ece-te-tari-puna-ora.htm
+title: 'Launch of New Bachelor of Teaching (ECE): Te Tari Puna Ora'
+date: 2011-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00250/launch-of-new-bachelor-of-teaching-ece-te-tari-puna-ora.htm
 author: te-pati-maori
+permalink: /archive/2011/02/17/launch-of-new-bachelor-of-teaching-/index.html
+layout: layout.njk
 ---
 Launch of New Bachelor of Teaching (ECE): Te Tari Puna Ora
 ==========================================================

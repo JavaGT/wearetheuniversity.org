@@ -1,9 +1,12 @@
 ---
 slug: insurance-settlement-launches-campus-rebuild
-title: "Insurance settlement launches campus rebuild"
-date: 2019-05-30
-source-url: https://www.scoop.co.nz/stories/BU1905/S00913/insurance-settlement-launches-campus-rebuild.htm
+title: Insurance settlement launches campus rebuild
+date: 2019-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1905/S00913/insurance-settlement-launches-campus-rebuild.htm
 author: lincoln-university
+permalink: /archive/2019/05/30/insurance-settlement-launches-campus-rebuild/index.html
+layout: layout.njk
 ---
 Insurance settlement launches campus rebuild
 ============================================

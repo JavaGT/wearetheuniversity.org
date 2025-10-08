@@ -1,9 +1,13 @@
 ---
 slug: leaked-memo-blames-government-for-civilianisation
-title: "Leaked Memo Blames Government For Civilianisation"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/PA1302/S00482/leaked-memo-blames-government-for-civilianisation.htm
+title: Leaked Memo Blames Government For Civilianisation
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00482/leaked-memo-blames-government-for-civilianisation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/28/leaked-memo-blames-government-for-civilianisation/index.html
+layout: layout.njk
 ---
 Leaked Memo Blames Government For Civilianisation
 =================================================

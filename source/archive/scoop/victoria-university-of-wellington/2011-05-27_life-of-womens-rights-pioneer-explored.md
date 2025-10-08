@@ -1,9 +1,12 @@
 ---
 slug: life-of-womens-rights-pioneer-explored
-title: "Life of women's rights pioneer explored"
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/CU1105/S00444/life-of-womens-rights-pioneer-explored.htm
+title: Life of women's rights pioneer explored
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1105/S00444/life-of-womens-rights-pioneer-explored.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/27/life-of-womens-rights-pioneer-explored/index.html
+layout: layout.njk
 ---
 Life of women's rights pioneer explored
 =======================================

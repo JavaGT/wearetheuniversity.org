@@ -1,9 +1,12 @@
 ---
 slug: 31000-wait-to-get-on-hospital-waiting-lists-act
-title: "31,000 wait to get on hospital waiting lists-ACT"
-date: 2005-05-13
-source-url: https://www.scoop.co.nz/stories/PA0505/S00324/31000-wait-to-get-on-hospital-waiting-lists-act.htm
+title: 31,000 wait to get on hospital waiting lists-ACT
+date: 2005-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00324/31000-wait-to-get-on-hospital-waiting-lists-act.htm
 author: act-new-zealand
+permalink: /archive/2005/05/13/31000-wait-to-get-on-hospital-waiting-lists-act/index.html
+layout: layout.njk
 ---
 31,000 wait to get on hospital waiting lists-ACT
 ================================================

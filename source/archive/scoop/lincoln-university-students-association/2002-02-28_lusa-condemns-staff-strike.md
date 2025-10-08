@@ -1,9 +1,11 @@
 ---
 slug: lusa-condemns-staff-strike
-title: "LUSA Condemns Staff Strike"
-date: 2002-02-28
+title: LUSA Condemns Staff Strike
+date: 2002-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0202/S00038/lusa-condemns-staff-strike.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/02/28/lusa-condemns-staff-strike/index.html
+layout: layout.njk
 ---
 LUSA Condemns Staff Strike
 ==========================

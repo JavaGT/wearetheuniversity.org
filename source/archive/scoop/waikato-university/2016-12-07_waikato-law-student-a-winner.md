@@ -1,9 +1,11 @@
 ---
 slug: waikato-law-student-a-winner
-title: "Waikato law student a winner"
-date: 2016-12-07
+title: Waikato law student a winner
+date: 2016-12-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1612/S00023/waikato-law-student-a-winner.htm
 author: waikato-university
+permalink: /archive/2016/12/07/waikato-law-student-a-winner/index.html
+layout: layout.njk
 ---
 Waikato law student a winner
 ============================

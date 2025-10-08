@@ -1,9 +1,12 @@
 ---
 slug: turia-opening-of-te-ohanga-mataora-paetahi
-title: "Turia: Opening of Te Ohanga Mataora Paetahi"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/PA0903/S00073/turia-opening-of-te-ohanga-mataora-paetahi.htm
+title: 'Turia: Opening of Te Ohanga Mataora Paetahi'
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00073/turia-opening-of-te-ohanga-mataora-paetahi.htm
 author: te-pati-maori
+permalink: /archive/2009/03/05/turia-opening-of-te-ohanga-mataora-paetahi/index.html
+layout: layout.njk
 ---
 Turia: Opening of Te Ohanga Mataora Paetahi
 ===========================================

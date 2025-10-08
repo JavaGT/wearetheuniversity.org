@@ -1,9 +1,13 @@
 ---
 slug: celebrations-for-new-university-of-waikato-student-centre
-title: "Celebrations for new University of Waikato Student Centre"
-date: 2011-11-10
-source-url: https://www.scoop.co.nz/stories/ED1111/S00070/celebrations-for-new-university-of-waikato-student-centre.htm
+title: Celebrations for new University of Waikato Student Centre
+date: 2011-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00070/celebrations-for-new-university-of-waikato-student-centre.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/10/celebrations-for-new-university-of-waikato-student-centre/index.html
+layout: layout.njk
 ---
 Celebrations for new University of Waikato Student Centre
 =========================================================

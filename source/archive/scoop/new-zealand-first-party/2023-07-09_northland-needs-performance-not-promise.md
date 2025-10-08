@@ -1,9 +1,12 @@
 ---
 slug: northland-needs-performance-not-promise
-title: "\"Northland Needs Performance Not Promise\""
-date: 2023-07-09
-source-url: https://www.scoop.co.nz/stories/PO2307/S00048/northland-needs-performance-not-promise.htm
+title: '"Northland Needs Performance Not Promise"'
+date: 2023-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00048/northland-needs-performance-not-promise.htm
 author: new-zealand-first-party
+permalink: /archive/2023/07/09/northland-needs-performance-not-promise/index.html
+layout: layout.njk
 ---
 “Northland Needs Performance Not Promise”
 =========================================

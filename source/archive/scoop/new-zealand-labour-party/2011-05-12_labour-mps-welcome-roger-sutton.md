@@ -1,9 +1,12 @@
 ---
 slug: labour-mps-welcome-roger-sutton
-title: "Labour  MPs welcome Roger Sutton"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/PA1105/S00271/labour-mps-welcome-roger-sutton.htm
+title: Labour  MPs welcome Roger Sutton
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00271/labour-mps-welcome-roger-sutton.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/12/labour-mps-welcome-roger-sutton/index.html
+layout: layout.njk
 ---
 Labour MPs welcome Roger Sutton
 ===============================

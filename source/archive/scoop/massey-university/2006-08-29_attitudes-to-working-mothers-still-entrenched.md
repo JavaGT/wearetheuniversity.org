@@ -1,9 +1,12 @@
 ---
 slug: attitudes-to-working-mothers-still-entrenched
-title: "Attitudes to working mothers still entrenched"
-date: 2006-08-29
-source-url: https://www.scoop.co.nz/stories/ED0608/S00089/attitudes-to-working-mothers-still-entrenched.htm
+title: Attitudes to working mothers still entrenched
+date: 2006-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00089/attitudes-to-working-mothers-still-entrenched.htm
 author: massey-university
+permalink: /archive/2006/08/29/attitudes-to-working-mothers-still-entrenched/index.html
+layout: layout.njk
 ---
 Attitudes to working mothers still entrenched
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-mechanical-engineering-project-putting-tents-to-the-test
-title: "UC mechanical engineering project putting tents to the test"
-date: 2013-07-04
-source-url: https://www.scoop.co.nz/stories/SC1307/S00015/uc-mechanical-engineering-project-putting-tents-to-the-test.htm
+title: UC mechanical engineering project putting tents to the test
+date: 2013-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00015/uc-mechanical-engineering-project-putting-tents-to-the-test.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/04/uc-mechanical-engineering-project-putting-tents-to-the-test/index.html
+layout: layout.njk
 ---
 UC mechanical engineering project putting tents to the test
 ===========================================================

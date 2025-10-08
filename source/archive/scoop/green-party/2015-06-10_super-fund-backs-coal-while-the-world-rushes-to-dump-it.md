@@ -1,9 +1,13 @@
 ---
 slug: super-fund-backs-coal-while-the-world-rushes-to-dump-it
-title: "Super Fund backs coal while the world rushes to dump it"
-date: 2015-06-10
-source-url: https://www.scoop.co.nz/stories/PA1506/S00161/super-fund-backs-coal-while-the-world-rushes-to-dump-it.htm
+title: Super Fund backs coal while the world rushes to dump it
+date: 2015-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00161/super-fund-backs-coal-while-the-world-rushes-to-dump-it.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/10/super-fund-backs-coal-while-the-world-rushes-to-dump-it/index.html
+layout: layout.njk
 ---
 Super Fund backs coal while the world rushes to dump it
 =======================================================

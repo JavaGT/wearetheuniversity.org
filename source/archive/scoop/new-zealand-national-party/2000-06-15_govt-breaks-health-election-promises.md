@@ -1,9 +1,12 @@
 ---
 slug: govt-breaks-health-election-promises
-title: "Govt breaks health election promises"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/PA0006/S00310/govt-breaks-health-election-promises.htm
+title: Govt breaks health election promises
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00310/govt-breaks-health-election-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/15/govt-breaks-health-election-promises/index.html
+layout: layout.njk
 ---
 Govt breaks health election promises
 ====================================

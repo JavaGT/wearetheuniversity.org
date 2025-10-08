@@ -1,9 +1,13 @@
 ---
 slug: under-national-international-students-would-be-back
-title: "Under National International Students Would Be Back"
-date: 2020-06-12
-source-url: https://www.scoop.co.nz/stories/PA2006/S00104/under-national-international-students-would-be-back.htm
+title: Under National International Students Would Be Back
+date: 2020-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00104/under-national-international-students-would-be-back.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/12/under-national-international-students-would-be-back/index.html
+layout: layout.njk
 ---
 Under National International Students Would Be Back
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: nzusa-changes-name-to-nzusa
-title: "NZUSA Changes Name to NZUSA"
-date: 2006-07-04
+title: NZUSA Changes Name to NZUSA
+date: 2006-07-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0607/S00021/nzusa-changes-name-to-nzusa.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2006/07/04/nzusa-changes-name-to-nzusa/index.html
+layout: layout.njk
 ---
 NZUSA Changes Name to NZUSA
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: minister-fudges-over-support-for-starship-hospital
-title: "Minister Fudges Over Support For Starship Hospital"
-date: 2002-02-21
-source-url: https://www.scoop.co.nz/stories/PA0202/S00321/minister-fudges-over-support-for-starship-hospital.htm
+title: Minister Fudges Over Support For Starship Hospital
+date: 2002-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00321/minister-fudges-over-support-for-starship-hospital.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/02/21/minister-fudges-over-support-for-starship-hospital/index.html
+layout: layout.njk
 ---
 Minister Fudges Over Support For Starship Hospital
 ==================================================

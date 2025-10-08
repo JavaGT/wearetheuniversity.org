@@ -1,9 +1,12 @@
 ---
 slug: time-to-debunk-myths-and-welcome-refugees-to-nz
-title: "Time to debunk myths and welcome refugees to NZ"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/PO1606/S00235/time-to-debunk-myths-and-welcome-refugees-to-nz.htm
+title: Time to debunk myths and welcome refugees to NZ
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00235/time-to-debunk-myths-and-welcome-refugees-to-nz.htm
 author: aut-university
+permalink: /archive/2016/06/20/time-to-debunk-myths-and-welcome-refugees-to-nz/index.html
+layout: layout.njk
 ---
 Time to debunk myths and welcome refugees to NZ
 ===============================================

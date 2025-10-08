@@ -1,9 +1,12 @@
 ---
 slug: state-housing-for-nzers-first-not-last!
-title: "State Housing For NZers First - Not Last!"
-date: 2007-05-22
-source-url: https://www.scoop.co.nz/stories/PA0705/S00591/state-housing-for-nzers-first-not-last.htm
+title: State Housing For NZers First - Not Last!
+date: 2007-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00591/state-housing-for-nzers-first-not-last.htm
 author: new-zealand-first-party
+permalink: /archive/2007/05/22/state-housing-for-nzers-first-not-last/index.html
+layout: layout.njk
 ---
 State Housing For NZers First - Not Last!
 =========================================

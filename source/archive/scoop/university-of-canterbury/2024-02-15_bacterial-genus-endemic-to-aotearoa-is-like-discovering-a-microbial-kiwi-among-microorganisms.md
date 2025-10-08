@@ -1,9 +1,16 @@
 ---
-slug: bacterial-genus-endemic-to-aotearoa-is-like-discovering-a-microbial-kiwi-among-microorganisms
-title: "Bacterial Genus Endemic To Aotearoa Is Like Discovering A \"microbial Kiwi\" Among Microorganisms."
-date: 2024-02-15
-source-url: https://www.scoop.co.nz/stories/SC2402/S00023/bacterial-genus-endemic-to-aotearoa-is-like-discovering-a-microbial-kiwi-among-microorganisms.htm
+slug: >-
+  bacterial-genus-endemic-to-aotearoa-is-like-discovering-a-microbial-kiwi-among-microorganisms
+title: >-
+  Bacterial Genus Endemic To Aotearoa Is Like Discovering A "microbial Kiwi"
+  Among Microorganisms.
+date: 2024-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2402/S00023/bacterial-genus-endemic-to-aotearoa-is-like-discovering-a-microbial-kiwi-among-microorganisms.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/02/15/bacterial-genus-endemic-to-aotearoa-is-like-discovering-a-microbial-kiwi-among-microorganisms/index.html
+layout: layout.njk
 ---
 Bacterial Genus Endemic To Aotearoa Is Like Discovering A “microbial Kiwi” Among Microorganisms.
 ================================================================================================

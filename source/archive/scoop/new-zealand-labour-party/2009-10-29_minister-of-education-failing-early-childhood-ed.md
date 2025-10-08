@@ -1,9 +1,13 @@
 ---
 slug: minister-of-education-failing-early-childhood-ed
-title: "Minister of Education failing early childhood ed"
-date: 2009-10-29
-source-url: https://www.scoop.co.nz/stories/PA0910/S00461/minister-of-education-failing-early-childhood-ed.htm
+title: Minister of Education failing early childhood ed
+date: 2009-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00461/minister-of-education-failing-early-childhood-ed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/29/minister-of-education-failing-early-childhood-ed/index.html
+layout: layout.njk
 ---
 Minister of Education failing early childhood ed
 ================================================

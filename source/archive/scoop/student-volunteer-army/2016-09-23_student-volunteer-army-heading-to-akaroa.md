@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-heading-to-akaroa
-title: "Student Volunteer Army heading to Akaroa"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/AK1609/S00763/student-volunteer-army-heading-to-akaroa.htm
+title: Student Volunteer Army heading to Akaroa
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00763/student-volunteer-army-heading-to-akaroa.htm
 author: student-volunteer-army
+permalink: /archive/2016/09/23/student-volunteer-army-heading-to-akaroa/index.html
+layout: layout.njk
 ---
 Student Volunteer Army heading to Akaroa
 ========================================

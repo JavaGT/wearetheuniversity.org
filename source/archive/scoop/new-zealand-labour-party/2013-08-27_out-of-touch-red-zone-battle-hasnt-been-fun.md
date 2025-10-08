@@ -1,9 +1,12 @@
 ---
 slug: out-of-touch-red-zone-battle-hasnt-been-fun
-title: "Out of touch: Red Zone battle hasn’t ‘been fun’"
-date: 2013-08-27
-source-url: https://www.scoop.co.nz/stories/PA1308/S00425/out-of-touch-red-zone-battle-hasnt-been-fun.htm
+title: 'Out of touch: Red Zone battle hasn’t ‘been fun’'
+date: 2013-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00425/out-of-touch-red-zone-battle-hasnt-been-fun.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/27/out-of-touch-red-zone-battle-hasnt-been-fun/index.html
+layout: layout.njk
 ---
 Out of touch: Red Zone battle hasn’t ‘been fun’
 ===============================================

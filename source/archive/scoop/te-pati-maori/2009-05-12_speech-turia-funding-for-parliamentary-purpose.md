@@ -1,9 +1,12 @@
 ---
 slug: speech-turia-funding-for-parliamentary-purpose
-title: "Speech: Turia - Funding for  Parliamentary Purpose"
-date: 2009-05-12
-source-url: https://www.scoop.co.nz/stories/PA0905/S00217/speech-turia-funding-for-parliamentary-purpose.htm
+title: 'Speech: Turia - Funding for  Parliamentary Purpose'
+date: 2009-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00217/speech-turia-funding-for-parliamentary-purpose.htm
 author: te-pati-maori
+permalink: /archive/2009/05/12/speech-turia-funding-for-parliamentary-purpose/index.html
+layout: layout.njk
 ---
 Speech: Turia - Funding for Parliamentary Purpose
 =================================================

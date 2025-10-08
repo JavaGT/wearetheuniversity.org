@@ -1,9 +1,13 @@
 ---
 slug: think-bigger-protect-the-hurunui-from-dam-nation
-title: "Think bigger, protect the Hurunui from dam-nation"
-date: 2007-08-30
-source-url: https://www.scoop.co.nz/stories/PA0708/S00536/think-bigger-protect-the-hurunui-from-dam-nation.htm
+title: Think bigger, protect the Hurunui from dam-nation
+date: 2007-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00536/think-bigger-protect-the-hurunui-from-dam-nation.htm
 author: green-party
+permalink: >-
+  /archive/2007/08/30/think-bigger-protect-the-hurunui-from-dam-nation/index.html
+layout: layout.njk
 ---
 Think bigger, protect the Hurunui from dam-nation
 =================================================

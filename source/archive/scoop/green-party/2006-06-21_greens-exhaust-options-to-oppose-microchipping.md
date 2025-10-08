@@ -1,9 +1,12 @@
 ---
 slug: greens-exhaust-options-to-oppose-microchipping
-title: "Greens exhaust options to oppose microchipping"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/PA0606/S00403/greens-exhaust-options-to-oppose-microchipping.htm
+title: Greens exhaust options to oppose microchipping
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00403/greens-exhaust-options-to-oppose-microchipping.htm
 author: green-party
+permalink: /archive/2006/06/21/greens-exhaust-options-to-oppose-microchipping/index.html
+layout: layout.njk
 ---
 Greens exhaust options to oppose microchipping
 ==============================================

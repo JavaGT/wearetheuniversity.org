@@ -1,9 +1,13 @@
 ---
 slug: professor-calls-for-inquiry-into-mental-health-services
-title: "Professor calls for inquiry into mental health services"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/GE1605/S00026/professor-calls-for-inquiry-into-mental-health-services.htm
+title: Professor calls for inquiry into mental health services
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00026/professor-calls-for-inquiry-into-mental-health-services.htm
 author: aut-university
+permalink: >-
+  /archive/2016/05/04/professor-calls-for-inquiry-into-mental-health-services/index.html
+layout: layout.njk
 ---
 Professor calls for inquiry into mental health services
 =======================================================

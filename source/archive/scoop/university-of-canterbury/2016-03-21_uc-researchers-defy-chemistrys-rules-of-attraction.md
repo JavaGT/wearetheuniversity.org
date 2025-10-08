@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-defy-chemistrys-rules-of-attraction
-title: "UC researchers defy chemistry’s ‘rules of attraction’"
-date: 2016-03-21
-source-url: https://www.scoop.co.nz/stories/SC1603/S00048/uc-researchers-defy-chemistrys-rules-of-attraction.htm
+title: UC researchers defy chemistry’s ‘rules of attraction’
+date: 2016-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00048/uc-researchers-defy-chemistrys-rules-of-attraction.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/03/21/uc-researchers-defy-chemistrys-rules-of-attraction/index.html
+layout: layout.njk
 ---
 UC researchers defy chemistry’s ‘rules of attraction’
 =====================================================

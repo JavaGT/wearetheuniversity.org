@@ -1,9 +1,13 @@
 ---
 slug: wildcat-strikes-indicative-of-teacher-frustrations
-title: "Wildcat strikes indicative of teacher frustrations"
-date: 2002-05-20
-source-url: https://www.scoop.co.nz/stories/PA0205/S00394/wildcat-strikes-indicative-of-teacher-frustrations.htm
+title: Wildcat strikes indicative of teacher frustrations
+date: 2002-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00394/wildcat-strikes-indicative-of-teacher-frustrations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/05/20/wildcat-strikes-indicative-of-teacher-frustrations/index.html
+layout: layout.njk
 ---
 Wildcat strikes indicative of teacher frustrations
 ==================================================

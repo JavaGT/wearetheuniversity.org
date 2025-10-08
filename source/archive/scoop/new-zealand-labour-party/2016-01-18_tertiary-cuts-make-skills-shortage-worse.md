@@ -1,9 +1,12 @@
 ---
 slug: tertiary-cuts-make-skills-shortage-worse
-title: "Tertiary cuts make skills shortage worse"
-date: 2016-01-18
-source-url: https://www.scoop.co.nz/stories/PA1601/S00040/tertiary-cuts-make-skills-shortage-worse.htm
+title: Tertiary cuts make skills shortage worse
+date: 2016-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00040/tertiary-cuts-make-skills-shortage-worse.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/18/tertiary-cuts-make-skills-shortage-worse/index.html
+layout: layout.njk
 ---
 Tertiary cuts make skills shortage worse
 ========================================

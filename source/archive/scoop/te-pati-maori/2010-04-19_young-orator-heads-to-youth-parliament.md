@@ -1,9 +1,12 @@
 ---
 slug: young-orator-heads-to-youth-parliament
-title: "Young Orator Heads To Youth Parliament"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/PA1004/S00191/young-orator-heads-to-youth-parliament.htm
+title: Young Orator Heads To Youth Parliament
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00191/young-orator-heads-to-youth-parliament.htm
 author: te-pati-maori
+permalink: /archive/2010/04/19/young-orator-heads-to-youth-parliament/index.html
+layout: layout.njk
 ---
 Young Orator Heads To Youth Parliament
 ======================================

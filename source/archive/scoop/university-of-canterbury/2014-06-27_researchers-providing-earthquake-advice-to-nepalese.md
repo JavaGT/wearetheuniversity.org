@@ -1,9 +1,13 @@
 ---
 slug: researchers-providing-earthquake-advice-to-nepalese
-title: "Researchers providing earthquake advice to Nepalese"
-date: 2014-06-27
-source-url: https://www.scoop.co.nz/stories/PO1406/S00439/researchers-providing-earthquake-advice-to-nepalese.htm
+title: Researchers providing earthquake advice to Nepalese
+date: 2014-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00439/researchers-providing-earthquake-advice-to-nepalese.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/27/researchers-providing-earthquake-advice-to-nepalese/index.html
+layout: layout.njk
 ---
 Researchers providing earthquake advice to Nepalese
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzers-protest-uk-weapons-of-mass-destruction
-title: "NZers protest UK Weapons of Mass Destruction"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PO0703/S00242/nzers-protest-uk-weapons-of-mass-destruction.htm
+title: NZers protest UK Weapons of Mass Destruction
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00242/nzers-protest-uk-weapons-of-mass-destruction.htm
 author: peace-action-wellington
+permalink: /archive/2007/03/21/nzers-protest-uk-weapons-of-mass-destruction/index.html
+layout: layout.njk
 ---
 NZers protest UK Weapons of Mass Destruction
 ============================================

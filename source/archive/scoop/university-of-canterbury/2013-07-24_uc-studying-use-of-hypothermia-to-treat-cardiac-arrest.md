@@ -1,9 +1,13 @@
 ---
 slug: uc-studying-use-of-hypothermia-to-treat-cardiac-arrest
-title: "UC studying use of hypothermia to treat cardiac arrest"
-date: 2013-07-24
-source-url: https://www.scoop.co.nz/stories/SC1307/S00062/uc-studying-use-of-hypothermia-to-treat-cardiac-arrest.htm
+title: UC studying use of hypothermia to treat cardiac arrest
+date: 2013-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00062/uc-studying-use-of-hypothermia-to-treat-cardiac-arrest.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/24/uc-studying-use-of-hypothermia-to-treat-cardiac-arrest/index.html
+layout: layout.njk
 ---
 UC studying use of hypothermia to treat cardiac arrest
 ======================================================

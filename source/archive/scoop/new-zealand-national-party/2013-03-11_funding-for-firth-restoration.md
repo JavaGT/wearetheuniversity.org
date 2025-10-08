@@ -1,9 +1,12 @@
 ---
 slug: funding-for-firth-restoration
-title: "Funding For Firth Restoration"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/PA1303/S00165/funding-for-firth-restoration.htm
+title: Funding For Firth Restoration
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00165/funding-for-firth-restoration.htm
 author: new-zealand-national-party
+permalink: /archive/2013/03/11/funding-for-firth-restoration/index.html
+layout: layout.njk
 ---
 Funding For Firth Restoration
 =============================

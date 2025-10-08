@@ -1,9 +1,12 @@
 ---
 slug: màori-scholars-works-and-taonga-housed
-title: "Màori Scholars' Works And Taonga Housed"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/ED0406/S00106/maori-scholars-works-and-taonga-housed.htm
+title: Màori Scholars' Works And Taonga Housed
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00106/maori-scholars-works-and-taonga-housed.htm
 author: waikato-university
+permalink: /archive/2004/06/28/m/index.html
+layout: layout.njk
 ---
 Màori Scholars' Works And Taonga Housed
 =======================================

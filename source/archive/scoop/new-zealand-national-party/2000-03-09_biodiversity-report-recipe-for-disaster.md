@@ -1,9 +1,12 @@
 ---
 slug: biodiversity-report-recipe-for-disaster
-title: "Biodiversity report recipe for disaster"
-date: 2000-03-09
-source-url: https://www.scoop.co.nz/stories/PA0003/S00151/biodiversity-report-recipe-for-disaster.htm
+title: Biodiversity report recipe for disaster
+date: 2000-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00151/biodiversity-report-recipe-for-disaster.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/09/biodiversity-report-recipe-for-disaster/index.html
+layout: layout.njk
 ---
 Biodiversity report recipe for disaster
 =======================================

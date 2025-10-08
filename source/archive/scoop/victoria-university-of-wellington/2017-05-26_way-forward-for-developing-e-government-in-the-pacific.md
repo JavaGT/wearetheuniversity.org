@@ -1,9 +1,13 @@
 ---
 slug: way-forward-for-developing-e-government-in-the-pacific
-title: "Way forward for developing e-government in the Pacific"
-date: 2017-05-26
-source-url: https://www.scoop.co.nz/stories/WO1705/S00071/way-forward-for-developing-e-government-in-the-pacific.htm
+title: Way forward for developing e-government in the Pacific
+date: 2017-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1705/S00071/way-forward-for-developing-e-government-in-the-pacific.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/05/26/way-forward-for-developing-e-government-in-the-pacific/index.html
+layout: layout.njk
 ---
 Way forward for developing e-government in the Pacific
 ======================================================

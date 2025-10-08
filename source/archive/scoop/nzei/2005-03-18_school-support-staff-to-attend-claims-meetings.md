@@ -1,9 +1,12 @@
 ---
 slug: school-support-staff-to-attend-claims-meetings
-title: "School Support Staff To Attend Claims Meetings"
-date: 2005-03-18
-source-url: https://www.scoop.co.nz/stories/ED0503/S00062/school-support-staff-to-attend-claims-meetings.htm
+title: School Support Staff To Attend Claims Meetings
+date: 2005-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00062/school-support-staff-to-attend-claims-meetings.htm
 author: nzei
+permalink: /archive/2005/03/18/school-support-staff-to-attend-claims-meetings/index.html
+layout: layout.njk
 ---
 School Support Staff To Attend Claims Meetings
 ==============================================

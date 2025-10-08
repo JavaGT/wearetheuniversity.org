@@ -1,9 +1,13 @@
 ---
 slug: chaos-reigns-as-auckland-university-hikes-fees-by-4%
-title: "Chaos reigns as Auckland University hikes fees by 4%"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/PO1110/S00288/chaos-reigns-as-auckland-university-hikes-fees-by-4.htm
+title: Chaos reigns as Auckland University hikes fees by 4%
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00288/chaos-reigns-as-auckland-university-hikes-fees-by-4.htm
 author: ausa
+permalink: >-
+  /archive/2011/10/18/chaos-reigns-as-auckland-university-hikes-fees-by-4/index.html
+layout: layout.njk
 ---
 Chaos reigns as Auckland University hikes fees by 4%
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: no-real-commitment-to-great-universities
-title: "No real commitment to great universities"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/ED1705/S00107/no-real-commitment-to-great-universities.htm
+title: No real commitment to great universities
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00107/no-real-commitment-to-great-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/05/25/no-real-commitment-to-great-universities/index.html
+layout: layout.njk
 ---
 No real commitment to great universities
 ========================================

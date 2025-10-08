@@ -1,9 +1,13 @@
 ---
 slug: greens-and-govt-launch-second-phase-of-tui-clean-up
-title: "Greens and Govt launch second phase of Tui clean up"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/PA1110/S00323/greens-and-govt-launch-second-phase-of-tui-clean-up.htm
+title: Greens and Govt launch second phase of Tui clean up
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00323/greens-and-govt-launch-second-phase-of-tui-clean-up.htm
 author: green-party
+permalink: >-
+  /archive/2011/10/19/greens-and-govt-launch-second-phase-of-tui-clean-up/index.html
+layout: layout.njk
 ---
 Greens and Govt launch second phase of Tui clean up
 ===================================================

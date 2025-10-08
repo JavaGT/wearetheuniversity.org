@@ -1,9 +1,12 @@
 ---
 slug: schools-need-covid-19-plan-for-winter
-title: "Schools Need COVID-19 Plan For Winter"
-date: 2022-05-24
-source-url: https://www.scoop.co.nz/stories/PA2205/S00227/schools-need-covid-19-plan-for-winter.htm
+title: Schools Need COVID-19 Plan For Winter
+date: 2022-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00227/schools-need-covid-19-plan-for-winter.htm
 author: green-party
+permalink: /archive/2022/05/24/schools-need-covid-19-plan-for-winter/index.html
+layout: layout.njk
 ---
 Schools Need COVID-19 Plan For Winter
 =====================================

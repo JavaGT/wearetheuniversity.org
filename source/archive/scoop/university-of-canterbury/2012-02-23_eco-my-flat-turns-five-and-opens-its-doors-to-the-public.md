@@ -1,9 +1,13 @@
 ---
 slug: eco-my-flat-turns-five-and-opens-its-doors-to-the-public
-title: "Eco-my-flat turns five and opens its doors to the public"
-date: 2012-02-23
-source-url: https://www.scoop.co.nz/stories/ED1202/S00107/eco-my-flat-turns-five-and-opens-its-doors-to-the-public.htm
+title: Eco-my-flat turns five and opens its doors to the public
+date: 2012-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00107/eco-my-flat-turns-five-and-opens-its-doors-to-the-public.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/02/23/eco-my-flat-turns-five-and-opens-its-doors-to-the-public/index.html
+layout: layout.njk
 ---
 Eco-my-flat turns five and opens its doors to the public
 ========================================================

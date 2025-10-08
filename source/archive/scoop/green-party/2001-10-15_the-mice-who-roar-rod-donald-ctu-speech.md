@@ -1,9 +1,12 @@
 ---
 slug: the-mice-who-roar-rod-donald-ctu-speech
-title: "'The mice who roar'  - Rod Donald CTU Speech"
-date: 2001-10-15
-source-url: https://www.scoop.co.nz/stories/PA0110/S00300/the-mice-who-roar-rod-donald-ctu-speech.htm
+title: '''The mice who roar''  - Rod Donald CTU Speech'
+date: 2001-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00300/the-mice-who-roar-rod-donald-ctu-speech.htm
 author: green-party
+permalink: /archive/2001/10/15/the-mice-who-roar-rod-donald-ctu-speech/index.html
+layout: layout.njk
 ---
 'The mice who roar' - Rod Donald CTU Speech
 ===========================================

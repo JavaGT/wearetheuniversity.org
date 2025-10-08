@@ -1,9 +1,12 @@
 ---
 slug: teacher-competency-concerns-misplaced
-title: "Teacher Competency Concerns Misplaced"
-date: 2011-02-15
-source-url: https://www.scoop.co.nz/stories/ED1102/S00042/teacher-competency-concerns-misplaced.htm
+title: Teacher Competency Concerns Misplaced
+date: 2011-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00042/teacher-competency-concerns-misplaced.htm
 author: nzei
+permalink: /archive/2011/02/15/teacher-competency-concerns-misplaced/index.html
+layout: layout.njk
 ---
 Teacher Competency Concerns Misplaced
 =====================================

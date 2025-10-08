@@ -1,9 +1,12 @@
 ---
 slug: law-intern-describes-life-in-washington
-title: "Law Intern Describes Life In Washington"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/CU1212/S00062/law-intern-describes-life-in-washington.htm
+title: Law Intern Describes Life In Washington
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00062/law-intern-describes-life-in-washington.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/05/law-intern-describes-life-in-washington/index.html
+layout: layout.njk
 ---
 Law Intern Describes Life In Washington
 =======================================

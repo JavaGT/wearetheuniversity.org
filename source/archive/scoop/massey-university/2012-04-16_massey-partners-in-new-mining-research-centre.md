@@ -1,9 +1,12 @@
 ---
 slug: massey-partners-in-new-mining-research-centre
-title: "Massey partners in new mining research centre"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/ED1204/S00056/massey-partners-in-new-mining-research-centre.htm
+title: Massey partners in new mining research centre
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00056/massey-partners-in-new-mining-research-centre.htm
 author: massey-university
+permalink: /archive/2012/04/16/massey-partners-in-new-mining-research-centre/index.html
+layout: layout.njk
 ---
 Massey partners in new mining research centre
 =============================================

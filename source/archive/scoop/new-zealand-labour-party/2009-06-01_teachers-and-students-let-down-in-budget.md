@@ -1,9 +1,12 @@
 ---
 slug: teachers-and-students-let-down-in-budget
-title: "Teachers and students let down in Budget"
-date: 2009-06-01
-source-url: https://www.scoop.co.nz/stories/PA0906/S00010/teachers-and-students-let-down-in-budget.htm
+title: Teachers and students let down in Budget
+date: 2009-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00010/teachers-and-students-let-down-in-budget.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/01/teachers-and-students-let-down-in-budget/index.html
+layout: layout.njk
 ---
 Teachers and students let down in Budget
 ========================================

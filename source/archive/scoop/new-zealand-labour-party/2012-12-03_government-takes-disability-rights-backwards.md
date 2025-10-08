@@ -1,9 +1,12 @@
 ---
 slug: government-takes-disability-rights-backwards
-title: "Government takes disability rights backwards"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/PA1212/S00009/government-takes-disability-rights-backwards.htm
+title: Government takes disability rights backwards
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00009/government-takes-disability-rights-backwards.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/03/government-takes-disability-rights-backwards/index.html
+layout: layout.njk
 ---
 Government takes disability rights backwards
 ============================================

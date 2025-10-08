@@ -1,9 +1,12 @@
 ---
 slug: carry-a-gun-the-time-you-visit-grandmas
-title: "Carry A Gun The Time You Visit Grandma's"
-date: 2001-04-10
-source-url: https://www.scoop.co.nz/stories/ED0104/S00007/carry-a-gun-the-time-you-visit-grandmas.htm
+title: Carry A Gun The Time You Visit Grandma's
+date: 2001-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00007/carry-a-gun-the-time-you-visit-grandmas.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/04/10/carry-a-gun-the-time-you-visit-grandmas/index.html
+layout: layout.njk
 ---
 Carry A Gun The Time You Visit Grandma's
 ========================================

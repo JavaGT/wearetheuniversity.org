@@ -1,9 +1,13 @@
 ---
 slug: pms-confidence-in-hekia-parata-woefully-misplaced
-title: "PM's confidence in Hekia Parata woefully misplaced"
-date: 2013-01-17
-source-url: https://www.scoop.co.nz/stories/PA1301/S00055/pms-confidence-in-hekia-parata-woefully-misplaced.htm
+title: PM's confidence in Hekia Parata woefully misplaced
+date: 2013-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00055/pms-confidence-in-hekia-parata-woefully-misplaced.htm
 author: green-party
+permalink: >-
+  /archive/2013/01/17/pms-confidence-in-hekia-parata-woefully-misplaced/index.html
+layout: layout.njk
 ---
 PM's confidence in Hekia Parata woefully misplaced
 ==================================================

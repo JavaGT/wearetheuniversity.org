@@ -1,9 +1,13 @@
 ---
 slug: jewellery-student-scoops-prestigious-dowse-award
-title: "Jewellery Student Scoops Prestigious Dowse Award"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/CU0206/S00005/jewellery-student-scoops-prestigious-dowse-award.htm
+title: Jewellery Student Scoops Prestigious Dowse Award
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0206/S00005/jewellery-student-scoops-prestigious-dowse-award.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/06/04/jewellery-student-scoops-prestigious-dowse-award/index.html
+layout: layout.njk
 ---
 Jewellery Student Scoops Prestigious Dowse Award
 ================================================

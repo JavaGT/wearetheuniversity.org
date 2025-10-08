@@ -1,9 +1,12 @@
 ---
 slug: spend-on-sportspeople-not-with-gay-abandon
-title: "Spend On Sportspeople, Not With Gay Abandon"
-date: 2004-03-19
-source-url: https://www.scoop.co.nz/stories/PA0403/S00434/spend-on-sportspeople-not-with-gay-abandon.htm
+title: Spend On Sportspeople, Not With Gay Abandon
+date: 2004-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00434/spend-on-sportspeople-not-with-gay-abandon.htm
 author: act-new-zealand
+permalink: /archive/2004/03/19/spend-on-sportspeople-not-with-gay-abandon/index.html
+layout: layout.njk
 ---
 Spend On Sportspeople, Not With Gay Abandon
 ===========================================

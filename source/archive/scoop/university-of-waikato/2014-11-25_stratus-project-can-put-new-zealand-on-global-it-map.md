@@ -1,9 +1,13 @@
 ---
 slug: stratus-project-can-put-new-zealand-on-global-it-map
-title: "STRATUS project can put New Zealand on global IT map"
-date: 2014-11-25
-source-url: https://www.scoop.co.nz/stories/ED1411/S00148/stratus-project-can-put-new-zealand-on-global-it-map.htm
+title: STRATUS project can put New Zealand on global IT map
+date: 2014-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00148/stratus-project-can-put-new-zealand-on-global-it-map.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/25/stratus-project-can-put-new-zealand-on-global-it-map/index.html
+layout: layout.njk
 ---
 STRATUS project can put New Zealand on global IT map
 ====================================================

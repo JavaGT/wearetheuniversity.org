@@ -1,9 +1,13 @@
 ---
 slug: primary-teachers-and-principals-to-vote-on-new-offers
-title: "Primary teachers and principals to vote on new offers"
-date: 2019-03-31
-source-url: https://www.scoop.co.nz/stories/ED1903/S00062/primary-teachers-and-principals-to-vote-on-new-offers.htm
+title: Primary teachers and principals to vote on new offers
+date: 2019-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00062/primary-teachers-and-principals-to-vote-on-new-offers.htm
 author: nzei
+permalink: >-
+  /archive/2019/03/31/primary-teachers-and-principals-to-vote-on-new-offers/index.html
+layout: layout.njk
 ---
 Primary teachers and principals to vote on new offers
 =====================================================

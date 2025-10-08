@@ -1,9 +1,13 @@
 ---
 slug: lecture-series-to-provide-insight-into-2014-election
-title: "Lecture series to provide insight into 2014 election"
-date: 2014-07-25
-source-url: https://www.scoop.co.nz/stories/PO1407/S00409/lecture-series-to-provide-insight-into-2014-election.htm
+title: Lecture series to provide insight into 2014 election
+date: 2014-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00409/lecture-series-to-provide-insight-into-2014-election.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/07/25/lecture-series-to-provide-insight-into-2014-election/index.html
+layout: layout.njk
 ---
 Lecture series to provide insight into 2014 election
 ====================================================

@@ -1,9 +1,13 @@
 ---
 slug: first-home-buyers-taking-the-hit-for-nationals-inaction
-title: "First home buyers taking the hit for National’s inaction"
-date: 2013-07-19
-source-url: https://www.scoop.co.nz/stories/PA1307/S00322/first-home-buyers-taking-the-hit-for-nationals-inaction.htm
+title: First home buyers taking the hit for National’s inaction
+date: 2013-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00322/first-home-buyers-taking-the-hit-for-nationals-inaction.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/19/first-home-buyers-taking-the-hit-for-nationals-inaction/index.html
+layout: layout.njk
 ---
 First home buyers taking the hit for National’s inaction
 ========================================================

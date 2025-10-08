@@ -1,9 +1,12 @@
 ---
 slug: positive-growth-in-student-applications
-title: "Positive growth in student applications"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/ED1212/S00111/positive-growth-in-student-applications.htm
+title: Positive growth in student applications
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00111/positive-growth-in-student-applications.htm
 author: lincoln-university
+permalink: /archive/2012/12/14/positive-growth-in-student-applications/index.html
+layout: layout.njk
 ---
 Positive growth in student applications
 =======================================

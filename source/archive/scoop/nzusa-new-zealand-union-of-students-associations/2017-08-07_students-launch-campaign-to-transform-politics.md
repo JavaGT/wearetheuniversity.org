@@ -1,9 +1,12 @@
 ---
 slug: students-launch-campaign-to-transform-politics
-title: "Students launch campaign to transform politics"
-date: 2017-08-07
-source-url: https://www.scoop.co.nz/stories/PO1708/S00118/students-launch-campaign-to-transform-politics.htm
+title: Students launch campaign to transform politics
+date: 2017-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00118/students-launch-campaign-to-transform-politics.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/08/07/students-launch-campaign-to-transform-politics/index.html
+layout: layout.njk
 ---
 Students launch campaign to transform politics
 ==============================================

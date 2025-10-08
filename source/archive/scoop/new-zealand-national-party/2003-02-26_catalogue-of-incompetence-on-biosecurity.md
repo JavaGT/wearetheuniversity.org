@@ -1,9 +1,12 @@
 ---
 slug: catalogue-of-incompetence-on-biosecurity
-title: "Catalogue of incompetence on biosecurity"
-date: 2003-02-26
-source-url: https://www.scoop.co.nz/stories/PA0302/S00471/catalogue-of-incompetence-on-biosecurity.htm
+title: Catalogue of incompetence on biosecurity
+date: 2003-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00471/catalogue-of-incompetence-on-biosecurity.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/26/catalogue-of-incompetence-on-biosecurity/index.html
+layout: layout.njk
 ---
 Catalogue of incompetence on biosecurity
 ========================================

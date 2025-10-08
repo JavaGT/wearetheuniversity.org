@@ -1,9 +1,12 @@
 ---
 slug: kudos-lifetime-achievement-award-for-roy-daniel
-title: "KuDos Lifetime Achievement Award for Roy Daniel"
-date: 2014-10-10
-source-url: https://www.scoop.co.nz/stories/ED1410/S00064/kudos-lifetime-achievement-award-for-roy-daniel.htm
+title: KuDos Lifetime Achievement Award for Roy Daniel
+date: 2014-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00064/kudos-lifetime-achievement-award-for-roy-daniel.htm
 author: university-of-waikato
+permalink: /archive/2014/10/10/kudos-lifetime-achievement-award-for-roy-daniel/index.html
+layout: layout.njk
 ---
 KuDos Lifetime Achievement Award for Roy Daniel
 ===============================================

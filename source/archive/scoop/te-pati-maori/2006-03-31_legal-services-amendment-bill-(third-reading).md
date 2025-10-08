@@ -1,9 +1,12 @@
 ---
 slug: legal-services-amendment-bill-(third-reading)
-title: "Legal Services Amendment Bill (third reading)"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/PA0603/S00578/legal-services-amendment-bill-third-reading.htm
+title: Legal Services Amendment Bill (third reading)
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00578/legal-services-amendment-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/03/31/legal-services-amendment-bill-/index.html
+layout: layout.njk
 ---
 Legal Services Amendment Bill (third reading)
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: international-go-getters-gathering-momentum
-title: "International go-getters gathering momentum"
-date: 2015-11-06
-source-url: https://www.scoop.co.nz/stories/ED1511/S00036/international-go-getters-gathering-momentum.htm
+title: International go-getters gathering momentum
+date: 2015-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00036/international-go-getters-gathering-momentum.htm
 author: lincoln-university
+permalink: /archive/2015/11/06/international-go-getters-gathering-momentum/index.html
+layout: layout.njk
 ---
 International go-getters gathering momentum
 ===========================================

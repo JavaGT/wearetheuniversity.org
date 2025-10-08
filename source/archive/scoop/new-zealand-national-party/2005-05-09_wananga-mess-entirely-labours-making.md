@@ -1,9 +1,12 @@
 ---
 slug: wananga-mess-entirely-labours-making
-title: "Wananga Mess Entirely Labour's Making"
-date: 2005-05-09
-source-url: https://www.scoop.co.nz/stories/PA0505/S00203/wananga-mess-entirely-labours-making.htm
+title: Wananga Mess Entirely Labour's Making
+date: 2005-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00203/wananga-mess-entirely-labours-making.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/09/wananga-mess-entirely-labours-making/index.html
+layout: layout.njk
 ---
 Wananga Mess Entirely Labour's Making
 =====================================

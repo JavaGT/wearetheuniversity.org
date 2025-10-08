@@ -1,9 +1,12 @@
 ---
 slug: study-finds-multiple-hazards-in-home-sweet-home
-title: "Study finds multiple hazards in ‘home sweet home’"
-date: 2009-02-13
-source-url: https://www.scoop.co.nz/stories/ED0902/S00043/study-finds-multiple-hazards-in-home-sweet-home.htm
+title: Study finds multiple hazards in ‘home sweet home’
+date: 2009-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00043/study-finds-multiple-hazards-in-home-sweet-home.htm
 author: university-of-otago
+permalink: /archive/2009/02/13/study-finds-multiple-hazards-in-home-sweet-home/index.html
+layout: layout.njk
 ---
 Study finds multiple hazards in ‘home sweet home’
 =================================================

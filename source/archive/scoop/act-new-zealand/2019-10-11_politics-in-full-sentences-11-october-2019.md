@@ -1,9 +1,12 @@
 ---
 slug: politics-in-full-sentences-11-october-2019
-title: "Politics in Full Sentences - 11 October 2019"
-date: 2019-10-11
-source-url: https://www.scoop.co.nz/stories/PA1910/S00080/politics-in-full-sentences-11-october-2019.htm
+title: Politics in Full Sentences - 11 October 2019
+date: 2019-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00080/politics-in-full-sentences-11-october-2019.htm
 author: act-new-zealand
+permalink: /archive/2019/10/11/politics-in-full-sentences-11-october-2019/index.html
+layout: layout.njk
 ---
 Politics in Full Sentences - 11 October 2019
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-wall-marriage-bill
-title: "Speech: Wall - Marriage Bill"
-date: 2013-04-17
+title: 'Speech: Wall - Marriage Bill'
+date: 2013-04-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1304/S00332/speech-wall-marriage-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/17/speech-wall-marriage-bill/index.html
+layout: layout.njk
 ---
 Speech: Wall - Marriage Bill
 ============================

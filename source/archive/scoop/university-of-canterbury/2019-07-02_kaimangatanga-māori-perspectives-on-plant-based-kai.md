@@ -1,9 +1,12 @@
 ---
 slug: kaimangatanga-māori-perspectives-on-plant-based-kai
-title: "Kaimangatanga – Māori perspectives on plant-based kai"
-date: 2019-07-02
-source-url: https://www.scoop.co.nz/stories/PO1907/S00028/kaimangatanga-maori-perspectives-on-plant-based-kai.htm
+title: Kaimangatanga – Māori perspectives on plant-based kai
+date: 2019-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1907/S00028/kaimangatanga-maori-perspectives-on-plant-based-kai.htm
 author: university-of-canterbury
+permalink: /archive/2019/07/02/kaimangatanga-m/index.html
+layout: layout.njk
 ---
 Kaimangatanga – Māori perspectives on plant-based kai
 =====================================================

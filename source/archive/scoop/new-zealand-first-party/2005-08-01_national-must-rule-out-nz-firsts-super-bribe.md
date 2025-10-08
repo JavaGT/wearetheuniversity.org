@@ -1,9 +1,12 @@
 ---
 slug: national-must-rule-out-nz-firsts-super-bribe
-title: "National must rule out NZ First's super bribe"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PA0508/S00022/national-must-rule-out-nz-firsts-super-bribe.htm
+title: National must rule out NZ First's super bribe
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00022/national-must-rule-out-nz-firsts-super-bribe.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/01/national-must-rule-out-nz-firsts-super-bribe/index.html
+layout: layout.njk
 ---
 National must rule out NZ First's super bribe
 =============================================

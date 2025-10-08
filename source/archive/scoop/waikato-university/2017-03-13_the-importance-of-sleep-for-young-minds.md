@@ -1,9 +1,12 @@
 ---
 slug: the-importance-of-sleep-for-young-minds
-title: "The importance of sleep for young minds"
-date: 2017-03-13
-source-url: https://www.scoop.co.nz/stories/SC1703/S00030/the-importance-of-sleep-for-young-minds.htm
+title: The importance of sleep for young minds
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00030/the-importance-of-sleep-for-young-minds.htm
 author: waikato-university
+permalink: /archive/2017/03/13/the-importance-of-sleep-for-young-minds/index.html
+layout: layout.njk
 ---
 The importance of sleep for young minds
 =======================================

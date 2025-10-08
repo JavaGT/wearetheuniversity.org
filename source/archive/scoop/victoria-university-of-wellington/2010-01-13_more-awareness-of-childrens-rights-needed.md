@@ -1,9 +1,12 @@
 ---
 slug: more-awareness-of-childrens-rights-needed
-title: "More awareness of children’s rights needed"
-date: 2010-01-13
-source-url: https://www.scoop.co.nz/stories/ED1001/S00014/more-awareness-of-childrens-rights-needed.htm
+title: More awareness of children’s rights needed
+date: 2010-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00014/more-awareness-of-childrens-rights-needed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/13/more-awareness-of-childrens-rights-needed/index.html
+layout: layout.njk
 ---
 More awareness of children’s rights needed
 ==========================================

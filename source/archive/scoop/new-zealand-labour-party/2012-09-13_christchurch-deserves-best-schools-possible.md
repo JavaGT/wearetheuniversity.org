@@ -1,9 +1,12 @@
 ---
 slug: christchurch-deserves-best-schools-possible
-title: "Christchurch deserves best schools possible"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/PA1209/S00207/christchurch-deserves-best-schools-possible.htm
+title: Christchurch deserves best schools possible
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00207/christchurch-deserves-best-schools-possible.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/13/christchurch-deserves-best-schools-possible/index.html
+layout: layout.njk
 ---
 Christchurch deserves best schools possible
 ===========================================

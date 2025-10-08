@@ -1,9 +1,12 @@
 ---
 slug: sensible-solutions-needed-for-organ-transplants
-title: "Sensible solutions needed for organ transplants"
-date: 2007-09-07
-source-url: https://www.scoop.co.nz/stories/PA0709/S00126/sensible-solutions-needed-for-organ-transplants.htm
+title: Sensible solutions needed for organ transplants
+date: 2007-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00126/sensible-solutions-needed-for-organ-transplants.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/07/sensible-solutions-needed-for-organ-transplants/index.html
+layout: layout.njk
 ---
 Sensible solutions needed for organ transplants
 ===============================================

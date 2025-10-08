@@ -1,9 +1,12 @@
 ---
 slug: victoria-scientist-wins-$1-2m-grant
-title: "Victoria scientist wins $1.2m grant"
-date: 2006-04-28
-source-url: https://www.scoop.co.nz/stories/ED0604/S00091/victoria-scientist-wins-12m-grant.htm
+title: Victoria scientist wins $1.2m grant
+date: 2006-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00091/victoria-scientist-wins-12m-grant.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/28/victoria-scientist-wins-/index.html
+layout: layout.njk
 ---
 Victoria scientist wins $1.2m grant
 ===================================

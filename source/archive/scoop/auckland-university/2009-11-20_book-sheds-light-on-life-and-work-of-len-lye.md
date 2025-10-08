@@ -1,9 +1,12 @@
 ---
 slug: book-sheds-light-on-life-and-work-of-len-lye
-title: "Book sheds light on life and work of Len Lye"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/CU0911/S00352/book-sheds-light-on-life-and-work-of-len-lye.htm
+title: Book sheds light on life and work of Len Lye
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0911/S00352/book-sheds-light-on-life-and-work-of-len-lye.htm
 author: auckland-university
+permalink: /archive/2009/11/20/book-sheds-light-on-life-and-work-of-len-lye/index.html
+layout: layout.njk
 ---
 Book sheds light on life and work of Len Lye
 ============================================

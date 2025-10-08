@@ -1,9 +1,12 @@
 ---
 slug: usd-replacement-of-other-currencies-inevitable
-title: "USD replacement of other currencies inevitable"
-date: 2000-12-11
-source-url: https://www.scoop.co.nz/stories/BU0012/S00073/usd-replacement-of-other-currencies-inevitable.htm
+title: USD replacement of other currencies inevitable
+date: 2000-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0012/S00073/usd-replacement-of-other-currencies-inevitable.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/12/11/usd-replacement-of-other-currencies-inevitable/index.html
+layout: layout.njk
 ---
 USD replacement of other currencies inevitable
 ==============================================

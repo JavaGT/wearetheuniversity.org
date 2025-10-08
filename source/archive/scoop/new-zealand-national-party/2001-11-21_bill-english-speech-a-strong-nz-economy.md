@@ -1,9 +1,12 @@
 ---
 slug: bill-english-speech-a-strong-nz-economy
-title: "Bill English Speech: A Strong NZ Economy"
-date: 2001-11-21
-source-url: https://www.scoop.co.nz/stories/PA0111/S00355/bill-english-speech-a-strong-nz-economy.htm
+title: 'Bill English Speech: A Strong NZ Economy'
+date: 2001-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00355/bill-english-speech-a-strong-nz-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/21/bill-english-speech-a-strong-nz-economy/index.html
+layout: layout.njk
 ---
 Bill English Speech: A Strong NZ Economy
 ========================================

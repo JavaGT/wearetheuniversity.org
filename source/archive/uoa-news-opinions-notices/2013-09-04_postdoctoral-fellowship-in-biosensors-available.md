@@ -1,8 +1,11 @@
 ---
 slug: postdoctoral-fellowship-in-biosensors-available
-title: "Postdoctoral fellowship in biosensors available"
-date: 2013-09-04
-source-url: https://web.archive.org/web/20171119163737/http://www.ece.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/09/04/Postdoctoral-fellowship-in-biosensors-available.html
+title: Postdoctoral fellowship in biosensors available
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/http://www.ece.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2013/2013/09/04/Postdoctoral-fellowship-in-biosensors-available.html
+permalink: /archive/2013/09/04/postdoctoral-fellowship-in-biosensors-available/index.html
+layout: layout.njk
 ---
 Postdoctoral fellowship in biosensors available
 ===============================================

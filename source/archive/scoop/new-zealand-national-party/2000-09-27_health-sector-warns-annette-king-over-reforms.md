@@ -1,9 +1,12 @@
 ---
 slug: health-sector-warns-annette-king-over-reforms
-title: "Health Sector Warns Annette King Over Reforms"
-date: 2000-09-27
-source-url: https://www.scoop.co.nz/stories/PA0009/S00428/health-sector-warns-annette-king-over-reforms.htm
+title: Health Sector Warns Annette King Over Reforms
+date: 2000-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00428/health-sector-warns-annette-king-over-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/27/health-sector-warns-annette-king-over-reforms/index.html
+layout: layout.njk
 ---
 Health Sector Warns Annette King Over Reforms
 =============================================

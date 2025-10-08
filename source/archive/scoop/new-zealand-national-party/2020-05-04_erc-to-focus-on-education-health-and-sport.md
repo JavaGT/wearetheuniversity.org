@@ -1,9 +1,12 @@
 ---
 slug: erc-to-focus-on-education-health-and-sport
-title: "ERC To Focus On Education, Health And Sport"
-date: 2020-05-04
-source-url: https://www.scoop.co.nz/stories/PA2005/S00026/erc-to-focus-on-education-health-and-sport.htm
+title: ERC To Focus On Education, Health And Sport
+date: 2020-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00026/erc-to-focus-on-education-health-and-sport.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/04/erc-to-focus-on-education-health-and-sport/index.html
+layout: layout.njk
 ---
 ERC To Focus On Education, Health And Sport
 ===========================================

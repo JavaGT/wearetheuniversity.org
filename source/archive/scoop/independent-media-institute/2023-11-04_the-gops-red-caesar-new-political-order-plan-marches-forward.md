@@ -1,9 +1,13 @@
 ---
 slug: the-gops-red-caesar-new-political-order-plan-marches-forward
-title: "The GOP’s ‘Red Caesar’ New Political Order Plan Marches Forward"
-date: 2023-11-04
-source-url: https://www.scoop.co.nz/stories/WO2311/S00025/the-gops-red-caesar-new-political-order-plan-marches-forward.htm
+title: The GOP’s ‘Red Caesar’ New Political Order Plan Marches Forward
+date: 2023-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2311/S00025/the-gops-red-caesar-new-political-order-plan-marches-forward.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2023/11/04/the-gops-red-caesar-new-political-order-plan-marches-forward/index.html
+layout: layout.njk
 ---
 The GOP’s ‘Red Caesar’ New Political Order Plan Marches Forward
 ===============================================================

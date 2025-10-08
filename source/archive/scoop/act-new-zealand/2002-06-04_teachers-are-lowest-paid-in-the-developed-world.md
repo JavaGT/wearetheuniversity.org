@@ -1,9 +1,12 @@
 ---
 slug: teachers-are-lowest-paid-in-the-developed-world
-title: "Teachers Are Lowest Paid in the Developed World"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/PA0206/S00011/teachers-are-lowest-paid-in-the-developed-world.htm
+title: Teachers Are Lowest Paid in the Developed World
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00011/teachers-are-lowest-paid-in-the-developed-world.htm
 author: act-new-zealand
+permalink: /archive/2002/06/04/teachers-are-lowest-paid-in-the-developed-world/index.html
+layout: layout.njk
 ---
 Teachers Are Lowest Paid in the Developed World
 ===============================================

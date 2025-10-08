@@ -1,9 +1,13 @@
 ---
 slug: study-discovers-personal-care-products-in-antarctica
-title: "Study discovers personal care products in Antarctica"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/SC1412/S00017/study-discovers-personal-care-products-in-antarctica.htm
+title: Study discovers personal care products in Antarctica
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00017/study-discovers-personal-care-products-in-antarctica.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/04/study-discovers-personal-care-products-in-antarctica/index.html
+layout: layout.njk
 ---
 Study discovers personal care products in Antarctica
 ====================================================

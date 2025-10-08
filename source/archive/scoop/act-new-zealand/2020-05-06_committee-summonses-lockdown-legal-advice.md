@@ -1,9 +1,12 @@
 ---
 slug: committee-summonses-lockdown-legal-advice
-title: "Committee Summonses Lockdown Legal Advice"
-date: 2020-05-06
-source-url: https://www.scoop.co.nz/stories/PA2005/S00041/committee-summonses-lockdown-legal-advice.htm
+title: Committee Summonses Lockdown Legal Advice
+date: 2020-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00041/committee-summonses-lockdown-legal-advice.htm
 author: act-new-zealand
+permalink: /archive/2020/05/06/committee-summonses-lockdown-legal-advice/index.html
+layout: layout.njk
 ---
 Committee Summonses Lockdown Legal Advice
 =========================================

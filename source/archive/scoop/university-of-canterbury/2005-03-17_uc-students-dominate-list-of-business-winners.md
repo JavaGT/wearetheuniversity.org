@@ -1,9 +1,12 @@
 ---
 slug: uc-students-dominate-list-of-business-winners
-title: "UC students dominate list of business winners"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/ED0503/S00058/uc-students-dominate-list-of-business-winners.htm
+title: UC students dominate list of business winners
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00058/uc-students-dominate-list-of-business-winners.htm
 author: university-of-canterbury
+permalink: /archive/2005/03/17/uc-students-dominate-list-of-business-winners/index.html
+layout: layout.njk
 ---
 UC students dominate list of business winners
 =============================================

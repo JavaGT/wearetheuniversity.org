@@ -1,9 +1,12 @@
 ---
 slug: sex-beats-douche-bag-for-years-top-quote
-title: "‘Sex’ beats ‘douche bag’ for year’s top quote"
-date: 2016-12-16
-source-url: https://www.scoop.co.nz/stories/CU1612/S00259/sex-beats-douche-bag-for-years-top-quote.htm
+title: ‘Sex’ beats ‘douche bag’ for year’s top quote
+date: 2016-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1612/S00259/sex-beats-douche-bag-for-years-top-quote.htm
 author: massey-university
+permalink: /archive/2016/12/16/sex-beats-douche-bag-for-years-top-quote/index.html
+layout: layout.njk
 ---
 ‘Sex’ beats ‘douche bag’ for year’s top quote
 =============================================

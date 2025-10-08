@@ -1,9 +1,11 @@
 ---
 slug: no-jobs-no-training-no-hope
-title: "No Jobs, No Training, No Hope"
-date: 2012-11-15
+title: No Jobs, No Training, No Hope
+date: 2012-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1211/S00274/no-jobs-no-training-no-hope.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/15/no-jobs-no-training-no-hope/index.html
+layout: layout.njk
 ---
 No Jobs, No Training, No Hope
 =============================

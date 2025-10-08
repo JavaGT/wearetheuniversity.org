@@ -1,9 +1,12 @@
 ---
 slug: sex-life-of-sea-slugs-key-to-toxic-invasion
-title: "Sex life of sea slugs key to toxic invasion"
-date: 2010-09-15
-source-url: https://www.scoop.co.nz/stories/SC1009/S00021/sex-life-of-sea-slugs-key-to-toxic-invasion.htm
+title: Sex life of sea slugs key to toxic invasion
+date: 2010-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00021/sex-life-of-sea-slugs-key-to-toxic-invasion.htm
 author: massey-university
+permalink: /archive/2010/09/15/sex-life-of-sea-slugs-key-to-toxic-invasion/index.html
+layout: layout.njk
 ---
 Sex life of sea slugs key to toxic invasion
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: women-will-pay-20%-more-for-their-tertiary-ed
-title: "Women Will Pay 20% More For Their Tertiary Ed"
-date: 2002-03-08
-source-url: https://www.scoop.co.nz/stories/ED0203/S00023/women-will-pay-20-more-for-their-tertiary-ed.htm
+title: Women Will Pay 20% More For Their Tertiary Ed
+date: 2002-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00023/women-will-pay-20-more-for-their-tertiary-ed.htm
 author: otago-university-students-association
+permalink: /archive/2002/03/08/women-will-pay-20/index.html
+layout: layout.njk
 ---
 Women Will Pay 20% More For Their Tertiary Ed
 =============================================

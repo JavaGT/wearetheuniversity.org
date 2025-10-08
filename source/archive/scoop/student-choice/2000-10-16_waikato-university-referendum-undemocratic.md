@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-referendum-undemocratic
-title: "Waikato University Referendum Undemocratic"
-date: 2000-10-16
-source-url: https://www.scoop.co.nz/stories/ED0010/S00020/waikato-university-referendum-undemocratic.htm
+title: Waikato University Referendum Undemocratic
+date: 2000-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00020/waikato-university-referendum-undemocratic.htm
 author: student-choice
+permalink: /archive/2000/10/16/waikato-university-referendum-undemocratic/index.html
+layout: layout.njk
 ---
 Waikato University Referendum Undemocratic
 ==========================================

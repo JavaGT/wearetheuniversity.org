@@ -1,9 +1,13 @@
 ---
 slug: lobby-group-advice-to-keep-homes-cold-until-after-election-day-dangerous
-title: "Lobby Group Advice To Keep Homes Cold Until After Election Day Dangerous"
-date: 2020-09-07
-source-url: https://www.scoop.co.nz/stories/PA2009/S00045/lobby-group-advice-to-keep-homes-cold-until-after-election-day-dangerous.htm
+title: Lobby Group Advice To Keep Homes Cold Until After Election Day Dangerous
+date: 2020-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00045/lobby-group-advice-to-keep-homes-cold-until-after-election-day-dangerous.htm
 author: green-party
+permalink: >-
+  /archive/2020/09/07/lobby-group-advice-to-keep-homes-cold-until-after-election-day-dangerous/index.html
+layout: layout.njk
 ---
 Lobby Group Advice To Keep Homes Cold Until After Election Day Dangerous
 ========================================================================

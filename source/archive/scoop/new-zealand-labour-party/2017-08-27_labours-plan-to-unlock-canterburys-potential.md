@@ -1,9 +1,12 @@
 ---
 slug: labours-plan-to-unlock-canterburys-potential
-title: "Labour’s plan to unlock Canterbury’s potential"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PA1708/S00495/labours-plan-to-unlock-canterburys-potential.htm
+title: Labour’s plan to unlock Canterbury’s potential
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00495/labours-plan-to-unlock-canterburys-potential.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/27/labours-plan-to-unlock-canterburys-potential/index.html
+layout: layout.njk
 ---
 Labour’s plan to unlock Canterbury’s potential
 ==============================================

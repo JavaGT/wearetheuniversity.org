@@ -1,9 +1,13 @@
 ---
 slug: league-tables-will-lead-to-children-missing-out-nzei
-title: "League Tables Will Lead to Children Missing Out - NZEI"
-date: 2012-06-30
-source-url: https://www.scoop.co.nz/stories/PO1206/S00420/league-tables-will-lead-to-children-missing-out-nzei.htm
+title: League Tables Will Lead to Children Missing Out - NZEI
+date: 2012-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00420/league-tables-will-lead-to-children-missing-out-nzei.htm
 author: nzei
+permalink: >-
+  /archive/2012/06/30/league-tables-will-lead-to-children-missing-out-nzei/index.html
+layout: layout.njk
 ---
 League Tables Will Lead to Children Missing Out - NZEI
 ======================================================

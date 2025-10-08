@@ -1,9 +1,11 @@
 ---
 slug: crisis-in-school-funding
-title: "Crisis in school funding"
-date: 2005-03-03
+title: Crisis in school funding
+date: 2005-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00077/crisis-in-school-funding.htm
 author: act-new-zealand
+permalink: /archive/2005/03/03/crisis-in-school-funding/index.html
+layout: layout.njk
 ---
 Crisis in school funding
 ========================

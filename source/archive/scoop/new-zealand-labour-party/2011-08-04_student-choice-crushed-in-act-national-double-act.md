@@ -1,9 +1,13 @@
 ---
 slug: student-choice-crushed-in-act-national-double-act
-title: "Student Choice Crushed in Act-National Double Act"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PO1108/S00048/student-choice-crushed-in-act-national-double-act.htm
+title: Student Choice Crushed in Act-National Double Act
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00048/student-choice-crushed-in-act-national-double-act.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/04/student-choice-crushed-in-act-national-double-act/index.html
+layout: layout.njk
 ---
 Student Choice Crushed in Act-National Double Act
 =================================================

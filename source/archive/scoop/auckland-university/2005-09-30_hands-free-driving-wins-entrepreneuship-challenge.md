@@ -1,9 +1,13 @@
 ---
 slug: hands-free-driving-wins-entrepreneuship-challenge
-title: "Hands-Free Driving Wins Entrepreneuship Challenge"
-date: 2005-09-30
-source-url: https://www.scoop.co.nz/stories/CU0509/S00244/hands-free-driving-wins-entrepreneuship-challenge.htm
+title: Hands-Free Driving Wins Entrepreneuship Challenge
+date: 2005-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0509/S00244/hands-free-driving-wins-entrepreneuship-challenge.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/09/30/hands-free-driving-wins-entrepreneuship-challenge/index.html
+layout: layout.njk
 ---
 Hands-Free Driving Wins Entrepreneuship Challenge
 =================================================

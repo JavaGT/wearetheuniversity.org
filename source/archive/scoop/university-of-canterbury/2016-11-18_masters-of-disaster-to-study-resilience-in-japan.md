@@ -1,9 +1,13 @@
 ---
 slug: masters-of-disaster-to-study-resilience-in-japan
-title: "‘Masters of Disaster’ to study resilience in Japan"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/ED1611/S00080/masters-of-disaster-to-study-resilience-in-japan.htm
+title: ‘Masters of Disaster’ to study resilience in Japan
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00080/masters-of-disaster-to-study-resilience-in-japan.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/11/18/masters-of-disaster-to-study-resilience-in-japan/index.html
+layout: layout.njk
 ---
 ‘Masters of Disaster’ to study resilience in Japan
 ==================================================

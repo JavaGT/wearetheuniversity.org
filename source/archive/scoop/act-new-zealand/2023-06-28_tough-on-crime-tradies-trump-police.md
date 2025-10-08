@@ -1,9 +1,12 @@
 ---
 slug: tough-on-crime-tradies-trump-police
-title: "Tough On Crime Tradies Trump Police"
-date: 2023-06-28
-source-url: https://www.scoop.co.nz/stories/PA2306/S00187/tough-on-crime-tradies-trump-police.htm
+title: Tough On Crime Tradies Trump Police
+date: 2023-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00187/tough-on-crime-tradies-trump-police.htm
 author: act-new-zealand
+permalink: /archive/2023/06/28/tough-on-crime-tradies-trump-police/index.html
+layout: layout.njk
 ---
 Tough On Crime Tradies Trump Police
 ===================================

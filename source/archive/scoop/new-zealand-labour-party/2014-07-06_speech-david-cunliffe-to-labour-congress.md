@@ -1,9 +1,12 @@
 ---
 slug: speech-david-cunliffe-to-labour-congress
-title: "Speech: David Cunliffe To Labour Congress"
-date: 2014-07-06
-source-url: https://www.scoop.co.nz/stories/PA1407/S00115/speech-david-cunliffe-to-labour-congress.htm
+title: 'Speech: David Cunliffe To Labour Congress'
+date: 2014-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00115/speech-david-cunliffe-to-labour-congress.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/06/speech-david-cunliffe-to-labour-congress/index.html
+layout: layout.njk
 ---
 Speech: David Cunliffe To Labour Congress
 =========================================

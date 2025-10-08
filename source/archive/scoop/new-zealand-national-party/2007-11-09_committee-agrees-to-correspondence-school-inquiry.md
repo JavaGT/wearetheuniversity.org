@@ -1,9 +1,13 @@
 ---
 slug: committee-agrees-to-correspondence-school-inquiry
-title: "Committee agrees to Correspondence School inquiry"
-date: 2007-11-09
-source-url: https://www.scoop.co.nz/stories/PA0711/S00183/committee-agrees-to-correspondence-school-inquiry.htm
+title: Committee agrees to Correspondence School inquiry
+date: 2007-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00183/committee-agrees-to-correspondence-school-inquiry.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/11/09/committee-agrees-to-correspondence-school-inquiry/index.html
+layout: layout.njk
 ---
 Committee agrees to Correspondence School inquiry
 =================================================

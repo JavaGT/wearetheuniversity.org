@@ -1,9 +1,12 @@
 ---
 slug: no-surprise-in-the-latest-climate-change-report
-title: "No surprise in the latest climate change report"
-date: 2014-04-06
-source-url: https://www.scoop.co.nz/stories/SC1404/S00027/no-surprise-in-the-latest-climate-change-report.htm
+title: No surprise in the latest climate change report
+date: 2014-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00027/no-surprise-in-the-latest-climate-change-report.htm
 author: university-of-canterbury
+permalink: /archive/2014/04/06/no-surprise-in-the-latest-climate-change-report/index.html
+layout: layout.njk
 ---
 No surprise in the latest climate change report
 ===============================================

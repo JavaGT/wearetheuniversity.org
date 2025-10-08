@@ -1,9 +1,12 @@
 ---
 slug: aniwaniwa-returns-to-its-ahi-kaa
-title: "Aniwaniwa returns to its ahi kaa"
-date: 2008-10-02
-source-url: https://www.scoop.co.nz/stories/ED0810/S00008/aniwaniwa-returns-to-its-ahi-kaa.htm
+title: Aniwaniwa returns to its ahi kaa
+date: 2008-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00008/aniwaniwa-returns-to-its-ahi-kaa.htm
 author: massey-university
+permalink: /archive/2008/10/02/aniwaniwa-returns-to-its-ahi-kaa/index.html
+layout: layout.njk
 ---
 Aniwaniwa returns to its ahi kaa
 ================================

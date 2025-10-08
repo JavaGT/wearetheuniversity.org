@@ -1,9 +1,13 @@
 ---
 slug: phil-goff-address-to-police-association-conference
-title: "Phil Goff Address to Police Association Conference"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/PA1111/S00330/phil-goff-address-to-police-association-conference.htm
+title: Phil Goff Address to Police Association Conference
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00330/phil-goff-address-to-police-association-conference.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/17/phil-goff-address-to-police-association-conference/index.html
+layout: layout.njk
 ---
 Phil Goff Address to Police Association Conference
 ==================================================

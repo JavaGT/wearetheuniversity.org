@@ -1,9 +1,12 @@
 ---
 slug: nz-vietnam-war-vets-health-scrutinised
-title: "NZ Vietnam War vets’ health scrutinised"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/SC1512/S00049/nz-vietnam-war-vets-health-scrutinised.htm
+title: NZ Vietnam War vets’ health scrutinised
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00049/nz-vietnam-war-vets-health-scrutinised.htm
 author: university-of-otago
+permalink: /archive/2015/12/10/nz-vietnam-war-vets-health-scrutinised/index.html
+layout: layout.njk
 ---
 NZ Vietnam War vets’ health scrutinised
 =======================================

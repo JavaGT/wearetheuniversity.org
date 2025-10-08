@@ -1,9 +1,13 @@
 ---
 slug: te-ururoa-flavell-aquaculture-legislation-speech
-title: "Te Ururoa Flavell: Aquaculture Legislation Speech"
-date: 2008-08-06
-source-url: https://www.scoop.co.nz/stories/PA0808/S00068/te-ururoa-flavell-aquaculture-legislation-speech.htm
+title: 'Te Ururoa Flavell: Aquaculture Legislation Speech'
+date: 2008-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00068/te-ururoa-flavell-aquaculture-legislation-speech.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/08/06/te-ururoa-flavell-aquaculture-legislation-speech/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Aquaculture Legislation Speech
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-appoints-first-professor-of-sociology
-title: "University of Otago appoints first Professor of Sociology"
-date: 2010-12-15
-source-url: https://www.scoop.co.nz/stories/ED1012/S00068/university-of-otago-appoints-first-professor-of-sociology.htm
+title: University of Otago appoints first Professor of Sociology
+date: 2010-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00068/university-of-otago-appoints-first-professor-of-sociology.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/12/15/university-of-otago-appoints-first-professor-of-sociology/index.html
+layout: layout.njk
 ---
 University of Otago appoints first Professor of Sociology
 =========================================================

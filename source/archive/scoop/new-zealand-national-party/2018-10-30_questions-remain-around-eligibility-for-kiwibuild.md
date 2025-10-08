@@ -1,9 +1,13 @@
 ---
 slug: questions-remain-around-eligibility-for-kiwibuild
-title: "Questions remain around eligibility for KiwiBuild"
-date: 2018-10-30
-source-url: https://www.scoop.co.nz/stories/PA1810/S00279/questions-remain-around-eligibility-for-kiwibuild.htm
+title: Questions remain around eligibility for KiwiBuild
+date: 2018-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00279/questions-remain-around-eligibility-for-kiwibuild.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/10/30/questions-remain-around-eligibility-for-kiwibuild/index.html
+layout: layout.njk
 ---
 Questions remain around eligibility for KiwiBuild
 =================================================

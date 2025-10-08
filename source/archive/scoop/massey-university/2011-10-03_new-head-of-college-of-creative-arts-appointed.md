@@ -1,9 +1,12 @@
 ---
 slug: new-head-of-college-of-creative-arts-appointed
-title: "New head of College of Creative Arts appointed"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/ED1110/S00002/new-head-of-college-of-creative-arts-appointed.htm
+title: New head of College of Creative Arts appointed
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00002/new-head-of-college-of-creative-arts-appointed.htm
 author: massey-university
+permalink: /archive/2011/10/03/new-head-of-college-of-creative-arts-appointed/index.html
+layout: layout.njk
 ---
 New head of College of Creative Arts appointed
 ==============================================

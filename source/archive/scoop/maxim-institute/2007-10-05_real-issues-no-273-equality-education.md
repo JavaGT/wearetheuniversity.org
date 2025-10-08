@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-273-equality-education
-title: "Real Issues No. 273 – Equality, Education"
-date: 2007-10-05
-source-url: https://www.scoop.co.nz/stories/PO0710/S00068/real-issues-no-273-equality-education.htm
+title: Real Issues No. 273 – Equality, Education
+date: 2007-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00068/real-issues-no-273-equality-education.htm
 author: maxim-institute
+permalink: /archive/2007/10/05/real-issues-no-273-equality-education/index.html
+layout: layout.njk
 ---
 Real Issues No. 273 – Equality, Education
 =========================================

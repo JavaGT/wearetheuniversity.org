@@ -1,9 +1,12 @@
 ---
 slug: keys-speech-shows-no-vision-for-new-zealand
-title: "Key’s Speech Shows No Vision For New Zealand"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/PA1301/S00109/keys-speech-shows-no-vision-for-new-zealand.htm
+title: Key’s Speech Shows No Vision For New Zealand
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00109/keys-speech-shows-no-vision-for-new-zealand.htm
 author: green-party
+permalink: /archive/2013/01/25/keys-speech-shows-no-vision-for-new-zealand/index.html
+layout: layout.njk
 ---
 Key’s Speech Shows No Vision For New Zealand
 ============================================

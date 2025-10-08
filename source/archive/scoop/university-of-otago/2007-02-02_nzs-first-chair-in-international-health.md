@@ -1,9 +1,12 @@
 ---
 slug: nzs-first-chair-in-international-health
-title: "NZ's First Chair in International Health"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/GE0702/S00005/nzs-first-chair-in-international-health.htm
+title: NZ's First Chair in International Health
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0702/S00005/nzs-first-chair-in-international-health.htm
 author: university-of-otago
+permalink: /archive/2007/02/02/nzs-first-chair-in-international-health/index.html
+layout: layout.njk
 ---
 NZ's First Chair in International Health
 ========================================

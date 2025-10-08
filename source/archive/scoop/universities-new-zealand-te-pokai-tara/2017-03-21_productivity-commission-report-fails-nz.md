@@ -1,9 +1,12 @@
 ---
 slug: productivity-commission-report-fails-nz
-title: "Productivity Commission report fails NZ"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/ED1703/S00081/productivity-commission-report-fails-nz.htm
+title: Productivity Commission report fails NZ
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00081/productivity-commission-report-fails-nz.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/03/21/productivity-commission-report-fails-nz/index.html
+layout: layout.njk
 ---
 Productivity Commission report fails NZ
 =======================================

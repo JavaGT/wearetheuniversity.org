@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-4-december-2006
-title: "Collins Comments - 4 December 2006"
-date: 2006-12-04
-source-url: https://www.scoop.co.nz/stories/PA0612/S00040/collins-comments-4-december-2006.htm
+title: Collins Comments - 4 December 2006
+date: 2006-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00040/collins-comments-4-december-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/04/collins-comments-4-december-2006/index.html
+layout: layout.njk
 ---
 Collins Comments - 4 December 2006
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: centre-for-strategic-studies-ranks-third-in-global-ratings
-title: "Centre for Strategic Studies Ranks Third In Global Ratings"
-date: 2013-01-24
-source-url: https://www.scoop.co.nz/stories/ED1301/S00075/centre-for-strategic-studies-ranks-third-in-global-ratings.htm
+title: Centre for Strategic Studies Ranks Third In Global Ratings
+date: 2013-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00075/centre-for-strategic-studies-ranks-third-in-global-ratings.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/01/24/centre-for-strategic-studies-ranks-third-in-global-ratings/index.html
+layout: layout.njk
 ---
 Centre for Strategic Studies Ranks Third In Global Ratings
 ==========================================================

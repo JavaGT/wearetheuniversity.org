@@ -1,9 +1,12 @@
 ---
 slug: get-over-parochialism-share-ideas-and-think-big
-title: "Get over parochialism, share ideas and think big"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/BU1609/S00335/get-over-parochialism-share-ideas-and-think-big.htm
+title: Get over parochialism, share ideas and think big
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1609/S00335/get-over-parochialism-share-ideas-and-think-big.htm
 author: university-of-auckland-business-school
+permalink: /archive/2016/09/09/get-over-parochialism-share-ideas-and-think-big/index.html
+layout: layout.njk
 ---
 Get over parochialism, share ideas and think big
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: health-chickens-coming-home-to-roost
-title: "Health chickens coming home to roost"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00057/health-chickens-coming-home-to-roost.htm
+title: Health chickens coming home to roost
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00057/health-chickens-coming-home-to-roost.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/02/health-chickens-coming-home-to-roost/index.html
+layout: layout.njk
 ---
 Health chickens coming home to roost
 ====================================

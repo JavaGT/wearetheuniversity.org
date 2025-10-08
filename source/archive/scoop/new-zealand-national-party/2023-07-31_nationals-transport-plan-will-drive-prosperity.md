@@ -1,9 +1,12 @@
 ---
 slug: nationals-transport-plan-will-drive-prosperity
-title: "National’s Transport Plan Will Drive Prosperity"
-date: 2023-07-31
-source-url: https://www.scoop.co.nz/stories/PA2307/S00179/nationals-transport-plan-will-drive-prosperity.htm
+title: National’s Transport Plan Will Drive Prosperity
+date: 2023-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00179/nationals-transport-plan-will-drive-prosperity.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/31/nationals-transport-plan-will-drive-prosperity/index.html
+layout: layout.njk
 ---
 National’s Transport Plan Will Drive Prosperity
 ===============================================

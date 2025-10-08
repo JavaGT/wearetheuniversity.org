@@ -1,9 +1,12 @@
 ---
 slug: identity-of-m-ferguson-to-remain-a-mystery
-title: "Identity of 'M. Ferguson' to remain a mystery"
-date: 2008-04-21
-source-url: https://www.scoop.co.nz/stories/PA0804/S00493/identity-of-m-ferguson-to-remain-a-mystery.htm
+title: Identity of 'M. Ferguson' to remain a mystery
+date: 2008-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00493/identity-of-m-ferguson-to-remain-a-mystery.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/21/identity-of-m-ferguson-to-remain-a-mystery/index.html
+layout: layout.njk
 ---
 Identity of 'M. Ferguson' to remain a mystery
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-kick-off-pre-election-conference
-title: "Greens Kick Off Pre-Election Conference"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/PA0205/S00709/greens-kick-off-pre-election-conference.htm
+title: Greens Kick Off Pre-Election Conference
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00709/greens-kick-off-pre-election-conference.htm
 author: green-party
+permalink: /archive/2002/05/30/greens-kick-off-pre-election-conference/index.html
+layout: layout.njk
 ---
 Greens Kick Off Pre-Election Conference
 =======================================

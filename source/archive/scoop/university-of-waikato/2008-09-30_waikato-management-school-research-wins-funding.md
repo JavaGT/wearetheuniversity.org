@@ -1,9 +1,12 @@
 ---
 slug: waikato-management-school-research-wins-funding
-title: "Waikato Management School research wins funding"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/ED0809/S00107/waikato-management-school-research-wins-funding.htm
+title: Waikato Management School research wins funding
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00107/waikato-management-school-research-wins-funding.htm
 author: university-of-waikato
+permalink: /archive/2008/09/30/waikato-management-school-research-wins-funding/index.html
+layout: layout.njk
 ---
 Waikato Management School research wins funding
 ===============================================

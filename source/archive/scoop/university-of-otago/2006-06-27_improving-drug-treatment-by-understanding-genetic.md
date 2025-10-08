@@ -1,9 +1,13 @@
 ---
 slug: improving-drug-treatment-by-understanding-genetic
-title: "Improving Drug Treatment by Understanding Genetic"
-date: 2006-06-27
-source-url: https://www.scoop.co.nz/stories/SC0606/S00057/improving-drug-treatment-by-understanding-genetic.htm
+title: Improving Drug Treatment by Understanding Genetic
+date: 2006-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0606/S00057/improving-drug-treatment-by-understanding-genetic.htm
 author: university-of-otago
+permalink: >-
+  /archive/2006/06/27/improving-drug-treatment-by-understanding-genetic/index.html
+layout: layout.njk
 ---
 Improving Drug Treatment by Understanding Genetic
 =================================================

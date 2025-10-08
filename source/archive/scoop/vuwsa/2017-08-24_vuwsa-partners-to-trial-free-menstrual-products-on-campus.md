@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-partners-to-trial-free-menstrual-products-on-campus
-title: "VUWSA partners to trial free menstrual products on campus"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/AK1708/S00640/vuwsa-partners-to-trial-free-menstrual-products-on-campus.htm
+title: VUWSA partners to trial free menstrual products on campus
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1708/S00640/vuwsa-partners-to-trial-free-menstrual-products-on-campus.htm
 author: vuwsa
+permalink: >-
+  /archive/2017/08/24/vuwsa-partners-to-trial-free-menstrual-products-on-campus/index.html
+layout: layout.njk
 ---
 VUWSA partners to trial free menstrual products on campus
 =========================================================

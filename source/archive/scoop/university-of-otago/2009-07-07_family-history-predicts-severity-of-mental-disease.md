@@ -1,9 +1,13 @@
 ---
 slug: family-history-predicts-severity-of-mental-disease
-title: "Family history predicts severity of mental disease"
-date: 2009-07-07
-source-url: https://www.scoop.co.nz/stories/GE0907/S00030/family-history-predicts-severity-of-mental-disease.htm
+title: Family history predicts severity of mental disease
+date: 2009-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0907/S00030/family-history-predicts-severity-of-mental-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/07/07/family-history-predicts-severity-of-mental-disease/index.html
+layout: layout.njk
 ---
 Family history predicts severity of mental disease
 ==================================================

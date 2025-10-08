@@ -1,9 +1,12 @@
 ---
 slug: victoria-fellow-wins-top-international-award
-title: "Victoria fellow wins top international award"
-date: 2000-02-24
-source-url: https://www.scoop.co.nz/stories/ED0002/S00034/victoria-fellow-wins-top-international-award.htm
+title: Victoria fellow wins top international award
+date: 2000-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00034/victoria-fellow-wins-top-international-award.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/02/24/victoria-fellow-wins-top-international-award/index.html
+layout: layout.njk
 ---
 Victoria fellow wins top international award
 ============================================

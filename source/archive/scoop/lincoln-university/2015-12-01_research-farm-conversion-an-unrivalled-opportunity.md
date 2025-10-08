@@ -1,9 +1,13 @@
 ---
 slug: research-farm-conversion-an-unrivalled-opportunity
-title: "Research farm conversion an unrivalled opportunity"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/SC1512/S00007/research-farm-conversion-an-unrivalled-opportunity.htm
+title: Research farm conversion an unrivalled opportunity
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00007/research-farm-conversion-an-unrivalled-opportunity.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/12/01/research-farm-conversion-an-unrivalled-opportunity/index.html
+layout: layout.njk
 ---
 Research farm conversion an unrivalled opportunity
 ==================================================

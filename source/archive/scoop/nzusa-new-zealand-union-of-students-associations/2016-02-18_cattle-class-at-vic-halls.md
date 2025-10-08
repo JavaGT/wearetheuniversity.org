@@ -1,9 +1,11 @@
 ---
 slug: cattle-class-at-vic-halls
-title: "Cattle class at Vic Halls"
-date: 2016-02-18
+title: Cattle class at Vic Halls
+date: 2016-02-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1602/S00469/cattle-class-at-vic-halls.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/02/18/cattle-class-at-vic-halls/index.html
+layout: layout.njk
 ---
 Cattle class at Vic Halls
 =========================

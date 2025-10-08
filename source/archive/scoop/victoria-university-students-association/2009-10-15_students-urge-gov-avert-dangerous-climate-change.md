@@ -1,9 +1,13 @@
 ---
 slug: students-urge-gov-avert-dangerous-climate-change
-title: "Students urge gov - avert dangerous climate change"
-date: 2009-10-15
-source-url: https://www.scoop.co.nz/stories/PO0910/S00236/students-urge-gov-avert-dangerous-climate-change.htm
+title: Students urge gov - avert dangerous climate change
+date: 2009-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00236/students-urge-gov-avert-dangerous-climate-change.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2009/10/15/students-urge-gov-avert-dangerous-climate-change/index.html
+layout: layout.njk
 ---
 Students urge gov - avert dangerous climate change
 ==================================================

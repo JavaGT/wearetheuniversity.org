@@ -1,9 +1,11 @@
 ---
 slug: campus-safety-audit-launched
-title: "Campus Safety Audit Launched"
-date: 2011-07-13
+title: Campus Safety Audit Launched
+date: 2011-07-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1107/S00051/campus-safety-audit-launched.htm
 author: vuwsa
+permalink: /archive/2011/07/13/campus-safety-audit-launched/index.html
+layout: layout.njk
 ---
 Campus Safety Audit Launched
 ============================

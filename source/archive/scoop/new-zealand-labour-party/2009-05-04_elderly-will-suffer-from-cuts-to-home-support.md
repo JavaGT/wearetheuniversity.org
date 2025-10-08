@@ -1,9 +1,12 @@
 ---
 slug: elderly-will-suffer-from-cuts-to-home-support
-title: "Elderly will suffer from cuts to home support"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/PA0905/S00050/elderly-will-suffer-from-cuts-to-home-support.htm
+title: Elderly will suffer from cuts to home support
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00050/elderly-will-suffer-from-cuts-to-home-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/04/elderly-will-suffer-from-cuts-to-home-support/index.html
+layout: layout.njk
 ---
 Elderly will suffer from cuts to home support
 =============================================

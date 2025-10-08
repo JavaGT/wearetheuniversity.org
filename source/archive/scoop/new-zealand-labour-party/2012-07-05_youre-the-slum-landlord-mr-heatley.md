@@ -1,9 +1,12 @@
 ---
 slug: youre-the-slum-landlord-mr-heatley
-title: "You’re the slum landlord Mr Heatley"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00072/youre-the-slum-landlord-mr-heatley.htm
+title: You’re the slum landlord Mr Heatley
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00072/youre-the-slum-landlord-mr-heatley.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/05/youre-the-slum-landlord-mr-heatley/index.html
+layout: layout.njk
 ---
 You’re the slum landlord Mr Heatley
 ===================================

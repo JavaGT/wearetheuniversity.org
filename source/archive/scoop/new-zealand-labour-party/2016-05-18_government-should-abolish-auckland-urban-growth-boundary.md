@@ -1,9 +1,13 @@
 ---
 slug: government-should-abolish-auckland-urban-growth-boundary
-title: "Government should abolish Auckland urban growth boundary"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/PA1605/S00314/government-should-abolish-auckland-urban-growth-boundary.htm
+title: Government should abolish Auckland urban growth boundary
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00314/government-should-abolish-auckland-urban-growth-boundary.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/18/government-should-abolish-auckland-urban-growth-boundary/index.html
+layout: layout.njk
 ---
 Government should abolish Auckland urban growth boundary
 ========================================================

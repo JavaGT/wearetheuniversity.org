@@ -1,9 +1,13 @@
 ---
 slug: website-election-queries-different-to-media-focus
-title: "Website Election Queries Different to Media Focus"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/ED1409/S00147/website-election-queries-different-to-media-focus.htm
+title: Website Election Queries Different to Media Focus
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00147/website-election-queries-different-to-media-focus.htm
 author: massey-university
+permalink: >-
+  /archive/2014/09/25/website-election-queries-different-to-media-focus/index.html
+layout: layout.njk
 ---
 Website Election Queries Different to Media Focus
 =================================================

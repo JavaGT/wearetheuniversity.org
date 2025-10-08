@@ -1,9 +1,12 @@
 ---
 slug: lecturers-threaten-to-withhold-students-marks
-title: "Lecturers threaten to withhold students’ marks"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/ED0911/S00089/lecturers-threaten-to-withhold-students-marks.htm
+title: Lecturers threaten to withhold students’ marks
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00089/lecturers-threaten-to-withhold-students-marks.htm
 author: usu.-student-association-at-unitec
+permalink: /archive/2009/11/20/lecturers-threaten-to-withhold-students-marks/index.html
+layout: layout.njk
 ---
 Lecturers threaten to withhold students’ marks
 ==============================================

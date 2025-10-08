@@ -1,9 +1,13 @@
 ---
 slug: police-recruitment-drive-takes-another-nose-dive
-title: "Police recruitment drive takes another nose-dive"
-date: 2006-09-12
-source-url: https://www.scoop.co.nz/stories/PA0609/S00264/police-recruitment-drive-takes-another-nose-dive.htm
+title: Police recruitment drive takes another nose-dive
+date: 2006-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00264/police-recruitment-drive-takes-another-nose-dive.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/09/12/police-recruitment-drive-takes-another-nose-dive/index.html
+layout: layout.njk
 ---
 Police recruitment drive takes another nose-dive
 ================================================

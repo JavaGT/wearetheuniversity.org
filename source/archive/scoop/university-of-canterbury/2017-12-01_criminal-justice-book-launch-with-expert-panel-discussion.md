@@ -1,9 +1,13 @@
 ---
 slug: criminal-justice-book-launch-with-expert-panel-discussion
-title: "Criminal Justice book launch with expert panel discussion"
-date: 2017-12-01
-source-url: https://www.scoop.co.nz/stories/CU1712/S00019/criminal-justice-book-launch-with-expert-panel-discussion.htm
+title: Criminal Justice book launch with expert panel discussion
+date: 2017-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00019/criminal-justice-book-launch-with-expert-panel-discussion.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/01/criminal-justice-book-launch-with-expert-panel-discussion/index.html
+layout: layout.njk
 ---
 Criminal Justice book launch with expert panel discussion
 =========================================================

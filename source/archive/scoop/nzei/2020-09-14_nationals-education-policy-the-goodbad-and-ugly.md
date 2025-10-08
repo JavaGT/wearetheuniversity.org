@@ -1,9 +1,12 @@
 ---
 slug: nationals-education-policy-the-goodbad-and-ugly
-title: "National's Education Policy - The Good,bad And Ugly"
-date: 2020-09-14
-source-url: https://www.scoop.co.nz/stories/PO2009/S00190/nationals-education-policy-the-goodbad-and-ugly.htm
+title: National's Education Policy - The Good,bad And Ugly
+date: 2020-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00190/nationals-education-policy-the-goodbad-and-ugly.htm
 author: nzei
+permalink: /archive/2020/09/14/nationals-education-policy-the-goodbad-and-ugly/index.html
+layout: layout.njk
 ---
 National's Education Policy - The Good,bad And Ugly
 ===================================================

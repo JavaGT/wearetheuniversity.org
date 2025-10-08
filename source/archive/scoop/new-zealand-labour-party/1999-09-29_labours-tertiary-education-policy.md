@@ -1,9 +1,12 @@
 ---
 slug: labours-tertiary-education-policy
-title: "Labour's tertiary education policy"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PA9909/S00619/labours-tertiary-education-policy.htm
+title: Labour's tertiary education policy
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00619/labours-tertiary-education-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/29/labours-tertiary-education-policy/index.html
+layout: layout.njk
 ---
 Labour's tertiary education policy
 ==================================

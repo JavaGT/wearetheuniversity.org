@@ -1,9 +1,13 @@
 ---
 slug: carter-huo-back-relief-fund-in-indonesia-se-asia
-title: "Carter, Huo back relief fund in Indonesia, SE Asia"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/PA0910/S00058/carter-huo-back-relief-fund-in-indonesia-se-asia.htm
+title: Carter, Huo back relief fund in Indonesia, SE Asia
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00058/carter-huo-back-relief-fund-in-indonesia-se-asia.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/10/05/carter-huo-back-relief-fund-in-indonesia-se-asia/index.html
+layout: layout.njk
 ---
 Carter, Huo back relief fund in Indonesia, SE Asia
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: aquaculture-legislation-amendment-bill-(no-3)
-title: "Aquaculture Legislation Amendment Bill (No 3)"
-date: 2010-11-17
-source-url: https://www.scoop.co.nz/stories/PA1011/S00337/aquaculture-legislation-amendment-bill-no-3.htm
+title: Aquaculture Legislation Amendment Bill (No 3)
+date: 2010-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00337/aquaculture-legislation-amendment-bill-no-3.htm
 author: te-pati-maori
+permalink: /archive/2010/11/17/aquaculture-legislation-amendment-bill-/index.html
+layout: layout.njk
 ---
 Aquaculture Legislation Amendment Bill (No 3)
 =============================================

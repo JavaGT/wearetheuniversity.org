@@ -1,9 +1,12 @@
 ---
 slug: 20000-at-risk-students-missing
-title: "20,000 at risk students \"missing\""
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/PA1611/S00590/20000-at-risk-students-missing.htm
+title: 20,000 at risk students "missing"
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00590/20000-at-risk-students-missing.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/30/20000-at-risk-students-missing/index.html
+layout: layout.njk
 ---
 20,000 at risk students “missing”
 =================================

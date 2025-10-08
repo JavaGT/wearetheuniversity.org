@@ -1,9 +1,12 @@
 ---
 slug: student-choice-on-ousa-spending-on-activism
-title: "Student Choice On OUSA Spending On Activism"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/ED0404/S00104/student-choice-on-ousa-spending-on-activism.htm
+title: Student Choice On OUSA Spending On Activism
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00104/student-choice-on-ousa-spending-on-activism.htm
 author: student-choice
+permalink: /archive/2004/04/28/student-choice-on-ousa-spending-on-activism/index.html
+layout: layout.njk
 ---
 Student Choice On OUSA Spending On Activism
 ===========================================

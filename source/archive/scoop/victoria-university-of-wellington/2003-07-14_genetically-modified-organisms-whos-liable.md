@@ -1,9 +1,12 @@
 ---
 slug: genetically-modified-organisms-whos-liable
-title: "Genetically modified organisms – who’s liable?"
-date: 2003-07-14
-source-url: https://www.scoop.co.nz/stories/ED0307/S00038/genetically-modified-organisms-whos-liable.htm
+title: Genetically modified organisms – who’s liable?
+date: 2003-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00038/genetically-modified-organisms-whos-liable.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/14/genetically-modified-organisms-whos-liable/index.html
+layout: layout.njk
 ---
 Genetically modified organisms – who’s liable?
 ==============================================

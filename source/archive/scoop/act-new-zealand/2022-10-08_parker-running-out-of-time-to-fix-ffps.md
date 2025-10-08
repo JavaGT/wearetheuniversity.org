@@ -1,9 +1,12 @@
 ---
 slug: parker-running-out-of-time-to-fix-ffps
-title: "Parker Running Out Of Time To Fix FFPs"
-date: 2022-10-08
-source-url: https://www.scoop.co.nz/stories/PA2210/S00051/parker-running-out-of-time-to-fix-ffps.htm
+title: Parker Running Out Of Time To Fix FFPs
+date: 2022-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00051/parker-running-out-of-time-to-fix-ffps.htm
 author: act-new-zealand
+permalink: /archive/2022/10/08/parker-running-out-of-time-to-fix-ffps/index.html
+layout: layout.njk
 ---
 Parker Running Out Of Time To Fix FFPs
 ======================================

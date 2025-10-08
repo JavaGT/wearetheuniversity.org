@@ -1,9 +1,12 @@
 ---
 slug: cellular-scam-at-taxpayers-expense
-title: "Cellular Scam At Taxpayers' Expense"
-date: 2004-08-13
-source-url: https://www.scoop.co.nz/stories/PA0408/S00252/cellular-scam-at-taxpayers-expense.htm
+title: Cellular Scam At Taxpayers' Expense
+date: 2004-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00252/cellular-scam-at-taxpayers-expense.htm
 author: act-new-zealand
+permalink: /archive/2004/08/13/cellular-scam-at-taxpayers-expense/index.html
+layout: layout.njk
 ---
 Cellular Scam At Taxpayers' Expense
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: strike-shuts-down-elective-surgery
-title: "Strike shuts down elective surgery"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PA0611/S00457/strike-shuts-down-elective-surgery.htm
+title: Strike shuts down elective surgery
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00457/strike-shuts-down-elective-surgery.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/23/strike-shuts-down-elective-surgery/index.html
+layout: layout.njk
 ---
 Strike shuts down elective surgery
 ==================================

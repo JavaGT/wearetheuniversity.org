@@ -1,9 +1,13 @@
 ---
 slug: ets-rips-off-taxpayers-poor-families-hardest-hit
-title: "ETS rips off taxpayers, poor families hardest hit"
-date: 2008-06-18
-source-url: https://www.scoop.co.nz/stories/PA0806/S00259/ets-rips-off-taxpayers-poor-families-hardest-hit.htm
+title: ETS rips off taxpayers, poor families hardest hit
+date: 2008-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00259/ets-rips-off-taxpayers-poor-families-hardest-hit.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/06/18/ets-rips-off-taxpayers-poor-families-hardest-hit/index.html
+layout: layout.njk
 ---
 ETS rips off taxpayers, poor families hardest hit
 =================================================

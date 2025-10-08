@@ -1,9 +1,12 @@
 ---
 slug: can-students-really-trust-labour-to-deliver
-title: "Can students really trust Labour to deliver?"
-date: 2008-02-21
-source-url: https://www.scoop.co.nz/stories/ED0802/S00052/can-students-really-trust-labour-to-deliver.htm
+title: Can students really trust Labour to deliver?
+date: 2008-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00052/can-students-really-trust-labour-to-deliver.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/02/21/can-students-really-trust-labour-to-deliver/index.html
+layout: layout.njk
 ---
 Can students really trust Labour to deliver?
 ============================================

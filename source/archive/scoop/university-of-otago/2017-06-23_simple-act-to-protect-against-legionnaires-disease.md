@@ -1,9 +1,13 @@
 ---
 slug: simple-act-to-protect-against-legionnaires-disease
-title: "Simple act to protect against Legionnaire’s disease"
-date: 2017-06-23
-source-url: https://www.scoop.co.nz/stories/GE1706/S00089/simple-act-to-protect-against-legionnaires-disease.htm
+title: Simple act to protect against Legionnaire’s disease
+date: 2017-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00089/simple-act-to-protect-against-legionnaires-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/23/simple-act-to-protect-against-legionnaires-disease/index.html
+layout: layout.njk
 ---
 Simple act to protect against Legionnaire’s disease
 ===================================================

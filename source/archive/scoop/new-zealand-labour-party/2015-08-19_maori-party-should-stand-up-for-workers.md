@@ -1,9 +1,12 @@
 ---
 slug: maori-party-should-stand-up-for-workers
-title: "Maori Party should stand up for workers"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/PA1508/S00308/maori-party-should-stand-up-for-workers.htm
+title: Maori Party should stand up for workers
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00308/maori-party-should-stand-up-for-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/19/maori-party-should-stand-up-for-workers/index.html
+layout: layout.njk
 ---
 Maori Party should stand up for workers
 =======================================

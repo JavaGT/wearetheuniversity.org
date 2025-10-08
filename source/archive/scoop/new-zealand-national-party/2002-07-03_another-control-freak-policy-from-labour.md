@@ -1,9 +1,12 @@
 ---
 slug: another-control-freak-policy-from-labour
-title: "Another control-freak policy from Labour"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00074/another-control-freak-policy-from-labour.htm
+title: Another control-freak policy from Labour
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00074/another-control-freak-policy-from-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/03/another-control-freak-policy-from-labour/index.html
+layout: layout.njk
 ---
 Another control-freak policy from Labour
 ========================================

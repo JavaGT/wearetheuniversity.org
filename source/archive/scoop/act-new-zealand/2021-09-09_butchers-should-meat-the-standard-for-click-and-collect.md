@@ -1,9 +1,13 @@
 ---
 slug: butchers-should-meat-the-standard-for-click-and-collect
-title: "Butchers should meat the standard for click and collect"
-date: 2021-09-09
-source-url: https://www.scoop.co.nz/stories/PA2109/S00085/butchers-should-meat-the-standard-for-click-and-collect.htm
+title: Butchers should meat the standard for click and collect
+date: 2021-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00085/butchers-should-meat-the-standard-for-click-and-collect.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/09/09/butchers-should-meat-the-standard-for-click-and-collect/index.html
+layout: layout.njk
 ---
 Butchers should meat the standard for click and collect
 =======================================================

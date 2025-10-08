@@ -1,9 +1,12 @@
 ---
 slug: what-do-endurance-athletes-eat
-title: "What do endurance athletes eat?"
-date: 2016-06-13
-source-url: https://www.scoop.co.nz/stories/SC1606/S00022/what-do-endurance-athletes-eat.htm
+title: What do endurance athletes eat?
+date: 2016-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1606/S00022/what-do-endurance-athletes-eat.htm
 author: massey-university
+permalink: /archive/2016/06/13/what-do-endurance-athletes-eat/index.html
+layout: layout.njk
 ---
 What do endurance athletes eat?
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: veteran-astronaut-to-attend-nzs-first-starlight-festival
-title: "Veteran Astronaut To Attend NZ’s First Starlight Festival"
-date: 2013-04-17
-source-url: https://www.scoop.co.nz/stories/ED1304/S00106/veteran-astronaut-to-attend-nzs-first-starlight-festival.htm
+title: Veteran Astronaut To Attend NZ’s First Starlight Festival
+date: 2013-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00106/veteran-astronaut-to-attend-nzs-first-starlight-festival.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/17/veteran-astronaut-to-attend-nzs-first-starlight-festival/index.html
+layout: layout.njk
 ---
 Veteran Astronaut To Attend NZ’s First Starlight Festival
 =========================================================

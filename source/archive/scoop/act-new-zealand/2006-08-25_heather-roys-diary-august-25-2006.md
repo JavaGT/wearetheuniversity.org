@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-august-25-2006
-title: "Heather Roy's Diary August 25 2006"
-date: 2006-08-25
-source-url: https://www.scoop.co.nz/stories/PA0608/S00465/heather-roys-diary-august-25-2006.htm
+title: Heather Roy's Diary August 25 2006
+date: 2006-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00465/heather-roys-diary-august-25-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/08/25/heather-roys-diary-august-25-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary August 25 2006
 ==================================

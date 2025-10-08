@@ -1,9 +1,13 @@
 ---
 slug: mcleod-speech-lifting-growth-and-living-standards
-title: "Mcleod Speech: Lifting Growth And Living Standards"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/BU0409/S00102/mcleod-speech-lifting-growth-and-living-standards.htm
+title: 'Mcleod Speech: Lifting Growth And Living Standards'
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0409/S00102/mcleod-speech-lifting-growth-and-living-standards.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2004/09/09/mcleod-speech-lifting-growth-and-living-standards/index.html
+layout: layout.njk
 ---
 Mcleod Speech: Lifting Growth And Living Standards
 ==================================================

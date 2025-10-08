@@ -1,9 +1,12 @@
 ---
 slug: thomas-yang-ucs-man-in-beijing
-title: "Thomas Yang – UC’s man in Beijing"
-date: 2012-10-16
-source-url: https://www.scoop.co.nz/stories/ED1210/S00091/thomas-yang-ucs-man-in-beijing.htm
+title: Thomas Yang – UC’s man in Beijing
+date: 2012-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00091/thomas-yang-ucs-man-in-beijing.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/16/thomas-yang-ucs-man-in-beijing/index.html
+layout: layout.njk
 ---
 Thomas Yang – UC’s man in Beijing
 =================================

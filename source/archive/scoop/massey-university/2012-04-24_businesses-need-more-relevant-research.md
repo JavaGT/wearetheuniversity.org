@@ -1,9 +1,12 @@
 ---
 slug: businesses-need-more-relevant-research
-title: "Businesses need more ‘relevant’ research"
-date: 2012-04-24
-source-url: https://www.scoop.co.nz/stories/ED1204/S00097/businesses-need-more-relevant-research.htm
+title: Businesses need more ‘relevant’ research
+date: 2012-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00097/businesses-need-more-relevant-research.htm
 author: massey-university
+permalink: /archive/2012/04/24/businesses-need-more-relevant-research/index.html
+layout: layout.njk
 ---
 Businesses need more ‘relevant’ research
 ========================================

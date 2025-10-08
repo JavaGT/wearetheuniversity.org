@@ -1,9 +1,13 @@
 ---
 slug: students-take-fight-for-mental-health-services-to-parliament
-title: "Students take fight for mental health services to Parliament"
-date: 2018-08-22
-source-url: https://www.scoop.co.nz/stories/ED1808/S00055/students-take-fight-for-mental-health-services-to-parliament.htm
+title: Students take fight for mental health services to Parliament
+date: 2018-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00055/students-take-fight-for-mental-health-services-to-parliament.htm
 author: vuwsa
+permalink: >-
+  /archive/2018/08/22/students-take-fight-for-mental-health-services-to-parliament/index.html
+layout: layout.njk
 ---
 Students take fight for mental health services to Parliament
 ============================================================

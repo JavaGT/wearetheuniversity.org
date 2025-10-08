@@ -1,9 +1,11 @@
 ---
 slug: nationals-naval-scandal
-title: "National’s Naval Scandal"
-date: 2016-04-14
+title: National’s Naval Scandal
+date: 2016-04-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1604/S00236/nationals-naval-scandal.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/14/nationals-naval-scandal/index.html
+layout: layout.njk
 ---
 National’s Naval Scandal
 ========================

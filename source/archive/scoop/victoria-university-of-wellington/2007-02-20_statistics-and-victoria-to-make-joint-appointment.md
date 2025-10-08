@@ -1,9 +1,13 @@
 ---
 slug: statistics-and-victoria-to-make-joint-appointment
-title: "Statistics and Victoria to make joint appointment"
-date: 2007-02-20
-source-url: https://www.scoop.co.nz/stories/ED0702/S00072/statistics-and-victoria-to-make-joint-appointment.htm
+title: Statistics and Victoria to make joint appointment
+date: 2007-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00072/statistics-and-victoria-to-make-joint-appointment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/02/20/statistics-and-victoria-to-make-joint-appointment/index.html
+layout: layout.njk
 ---
 Statistics and Victoria to make joint appointment
 =================================================

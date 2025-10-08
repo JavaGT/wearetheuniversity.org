@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-312
-title: "Maxim Institute: Real Issues No. 312"
-date: 2008-08-04
-source-url: https://www.scoop.co.nz/stories/PO0808/S00026/maxim-institute-real-issues-no-312.htm
+title: 'Maxim Institute: Real Issues No. 312'
+date: 2008-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00026/maxim-institute-real-issues-no-312.htm
 author: maxim-institute
+permalink: /archive/2008/08/04/maxim-institute-real-issues-no-312/index.html
+layout: layout.njk
 ---
 Maxim Institute: Real Issues No. 312
 ====================================

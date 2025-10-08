@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-proposal-for-re-imagining-our-cities
-title: "Green Party launches proposal for re-imagining our Cities"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/PA1608/S00050/green-party-launches-proposal-for-re-imagining-our-cities.htm
+title: Green Party launches proposal for re-imagining our Cities
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00050/green-party-launches-proposal-for-re-imagining-our-cities.htm
 author: green-party
+permalink: >-
+  /archive/2016/08/03/green-party-launches-proposal-for-re-imagining-our-cities/index.html
+layout: layout.njk
 ---
 Green Party launches proposal for re-imagining our Cities
 =========================================================

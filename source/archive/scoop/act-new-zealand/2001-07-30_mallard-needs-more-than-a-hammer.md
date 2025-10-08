@@ -1,9 +1,12 @@
 ---
 slug: mallard-needs-more-than-a-hammer
-title: "Mallard Needs More Than a Hammer"
-date: 2001-07-30
-source-url: https://www.scoop.co.nz/stories/PA0107/S00505/mallard-needs-more-than-a-hammer.htm
+title: Mallard Needs More Than a Hammer
+date: 2001-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00505/mallard-needs-more-than-a-hammer.htm
 author: act-new-zealand
+permalink: /archive/2001/07/30/mallard-needs-more-than-a-hammer/index.html
+layout: layout.njk
 ---
 Mallard Needs More Than a Hammer
 ================================

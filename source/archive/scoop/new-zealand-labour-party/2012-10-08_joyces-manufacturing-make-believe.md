@@ -1,9 +1,12 @@
 ---
 slug: joyces-manufacturing-make-believe
-title: "Joyce’s manufacturing make-believe"
-date: 2012-10-08
-source-url: https://www.scoop.co.nz/stories/PA1210/S00130/joyces-manufacturing-make-believe.htm
+title: Joyce’s manufacturing make-believe
+date: 2012-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00130/joyces-manufacturing-make-believe.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/08/joyces-manufacturing-make-believe/index.html
+layout: layout.njk
 ---
 Joyce’s manufacturing make-believe
 ==================================

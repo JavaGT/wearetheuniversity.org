@@ -1,9 +1,12 @@
 ---
 slug: thoughts-colour-how-we-perceive-emotions
-title: "Thoughts colour how we perceive emotions"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/SC0909/S00013/thoughts-colour-how-we-perceive-emotions.htm
+title: Thoughts colour how we perceive emotions
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0909/S00013/thoughts-colour-how-we-perceive-emotions.htm
 author: university-of-otago
+permalink: /archive/2009/09/03/thoughts-colour-how-we-perceive-emotions/index.html
+layout: layout.njk
 ---
 Thoughts colour how we perceive emotions
 ========================================

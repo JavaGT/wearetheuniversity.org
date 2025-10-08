@@ -1,8 +1,12 @@
 ---
 slug: young-peoples-use-of-health-apps-put-to-the-test
-title: "Young people’s use of health apps put to the test"
-date: 2016-01-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/young-people_s-use-of-health-apps-put-to-the-test.html
+title: Young people’s use of health apps put to the test
+date: 2016-01-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/young-people_s-use-of-health-apps-put-to-the-test.html
+permalink: >-
+  /archive/2016/01/12/young-peoples-use-of-health-apps-put-to-the-test/index.html
+layout: layout.njk
 ---
 Young people’s use of health apps put to the test
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-results-system-is-pathetic
-title: "NCEA Results System is Pathetic"
-date: 2003-01-21
-source-url: https://www.scoop.co.nz/stories/PA0301/S00139/ncea-results-system-is-pathetic.htm
+title: NCEA Results System is Pathetic
+date: 2003-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00139/ncea-results-system-is-pathetic.htm
 author: act-new-zealand
+permalink: /archive/2003/01/21/ncea-results-system-is-pathetic/index.html
+layout: layout.njk
 ---
 NCEA Results System is Pathetic
 ===============================

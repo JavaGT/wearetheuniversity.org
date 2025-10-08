@@ -1,9 +1,12 @@
 ---
 slug: dairy-professor-begins-new-role
-title: "Dairy Professor begins new role"
-date: 2012-06-14
-source-url: https://www.scoop.co.nz/stories/ED1206/S00061/dairy-professor-begins-new-role.htm
+title: Dairy Professor begins new role
+date: 2012-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00061/dairy-professor-begins-new-role.htm
 author: massey-university
+permalink: /archive/2012/06/14/dairy-professor-begins-new-role/index.html
+layout: layout.njk
 ---
 Dairy Professor begins new role
 ===============================

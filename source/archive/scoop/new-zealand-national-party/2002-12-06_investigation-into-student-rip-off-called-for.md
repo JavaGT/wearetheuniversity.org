@@ -1,9 +1,12 @@
 ---
 slug: investigation-into-student-rip-off-called-for
-title: "Investigation into student rip-off called for"
-date: 2002-12-06
-source-url: https://www.scoop.co.nz/stories/PA0212/S00170/investigation-into-student-rip-off-called-for.htm
+title: Investigation into student rip-off called for
+date: 2002-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00170/investigation-into-student-rip-off-called-for.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/06/investigation-into-student-rip-off-called-for/index.html
+layout: layout.njk
 ---
 Investigation into student rip-off called for
 =============================================

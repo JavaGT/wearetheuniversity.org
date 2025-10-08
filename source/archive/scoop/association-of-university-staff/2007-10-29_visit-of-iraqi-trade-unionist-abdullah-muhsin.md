@@ -1,9 +1,12 @@
 ---
 slug: visit-of-iraqi-trade-unionist-abdullah-muhsin
-title: "Visit of Iraqi trade unionist - Abdullah Muhsin"
-date: 2007-10-29
-source-url: https://www.scoop.co.nz/stories/PO0710/S00391/visit-of-iraqi-trade-unionist-abdullah-muhsin.htm
+title: Visit of Iraqi trade unionist - Abdullah Muhsin
+date: 2007-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0710/S00391/visit-of-iraqi-trade-unionist-abdullah-muhsin.htm
 author: association-of-university-staff
+permalink: /archive/2007/10/29/visit-of-iraqi-trade-unionist-abdullah-muhsin/index.html
+layout: layout.njk
 ---
 Visit of Iraqi trade unionist - Abdullah Muhsin
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: transport-policy-in-auckland-post-election
-title: "Transport Policy In Auckland Post Election"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/AK0411/S00003/transport-policy-in-auckland-post-election.htm
+title: Transport Policy In Auckland Post Election
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0411/S00003/transport-policy-in-auckland-post-election.htm
 author: green-party
+permalink: /archive/2004/11/01/transport-policy-in-auckland-post-election/index.html
+layout: layout.njk
 ---
 Transport Policy In Auckland Post Election
 ==========================================

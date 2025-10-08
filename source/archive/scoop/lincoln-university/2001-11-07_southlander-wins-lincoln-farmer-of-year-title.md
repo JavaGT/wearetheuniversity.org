@@ -1,9 +1,12 @@
 ---
 slug: southlander-wins-lincoln-farmer-of-year-title
-title: "Southlander wins Lincoln Farmer of Year title"
-date: 2001-11-07
-source-url: https://www.scoop.co.nz/stories/BU0111/S00056/southlander-wins-lincoln-farmer-of-year-title.htm
+title: Southlander wins Lincoln Farmer of Year title
+date: 2001-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0111/S00056/southlander-wins-lincoln-farmer-of-year-title.htm
 author: lincoln-university
+permalink: /archive/2001/11/07/southlander-wins-lincoln-farmer-of-year-title/index.html
+layout: layout.njk
 ---
 Southlander wins Lincoln Farmer of Year title
 =============================================

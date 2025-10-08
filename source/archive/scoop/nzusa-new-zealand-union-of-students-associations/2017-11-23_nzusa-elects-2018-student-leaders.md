@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-2018-student-leaders
-title: "NZUSA elects 2018 student leaders"
-date: 2017-11-23
-source-url: https://www.scoop.co.nz/stories/ED1711/S00094/nzusa-elects-2018-student-leaders.htm
+title: NZUSA elects 2018 student leaders
+date: 2017-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00094/nzusa-elects-2018-student-leaders.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/11/23/nzusa-elects-2018-student-leaders/index.html
+layout: layout.njk
 ---
 NZUSA elects 2018 student leaders
 =================================

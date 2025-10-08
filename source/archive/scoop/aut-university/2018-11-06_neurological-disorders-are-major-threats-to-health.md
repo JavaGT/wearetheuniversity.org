@@ -1,9 +1,13 @@
 ---
 slug: neurological-disorders-are-major-threats-to-health
-title: "Neurological disorders are major threats to health"
-date: 2018-11-06
-source-url: https://www.scoop.co.nz/stories/GE1811/S00018/neurological-disorders-are-major-threats-to-health.htm
+title: Neurological disorders are major threats to health
+date: 2018-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00018/neurological-disorders-are-major-threats-to-health.htm
 author: aut-university
+permalink: >-
+  /archive/2018/11/06/neurological-disorders-are-major-threats-to-health/index.html
+layout: layout.njk
 ---
 Neurological disorders are major threats to health
 ==================================================

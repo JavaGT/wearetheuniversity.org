@@ -1,9 +1,12 @@
 ---
 slug: parents-not-getting-health-message
-title: "Parents not getting health message"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/GE0608/S00035/parents-not-getting-health-message.htm
+title: Parents not getting health message
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0608/S00035/parents-not-getting-health-message.htm
 author: massey-university
+permalink: /archive/2006/08/10/parents-not-getting-health-message/index.html
+layout: layout.njk
 ---
 Parents not getting health message
 ==================================

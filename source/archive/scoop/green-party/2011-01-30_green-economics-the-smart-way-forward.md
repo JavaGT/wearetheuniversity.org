@@ -1,9 +1,12 @@
 ---
 slug: green-economics-the-smart-way-forward
-title: "Green economics the smart way forward"
-date: 2011-01-30
-source-url: https://www.scoop.co.nz/stories/PA1101/S00157/green-economics-the-smart-way-forward.htm
+title: Green economics the smart way forward
+date: 2011-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00157/green-economics-the-smart-way-forward.htm
 author: green-party
+permalink: /archive/2011/01/30/green-economics-the-smart-way-forward/index.html
+layout: layout.njk
 ---
 Green economics the smart way forward
 =====================================

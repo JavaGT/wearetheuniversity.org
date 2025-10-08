@@ -1,9 +1,12 @@
 ---
 slug: officials-out-of-touch-with-new-zealanders
-title: "Officials out of touch with New Zealanders"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/PA0807/S00530/officials-out-of-touch-with-new-zealanders.htm
+title: Officials out of touch with New Zealanders
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00530/officials-out-of-touch-with-new-zealanders.htm
 author: green-party
+permalink: /archive/2008/07/30/officials-out-of-touch-with-new-zealanders/index.html
+layout: layout.njk
 ---
 Officials out of touch with New Zealanders
 ==========================================

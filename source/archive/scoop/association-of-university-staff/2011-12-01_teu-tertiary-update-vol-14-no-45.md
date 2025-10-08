@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-14-no-45
-title: "TEU Tertiary Update Vol 14 No 45"
-date: 2011-12-01
-source-url: https://www.scoop.co.nz/stories/ED1112/S00004/teu-tertiary-update-vol-14-no-45.htm
+title: TEU Tertiary Update Vol 14 No 45
+date: 2011-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00004/teu-tertiary-update-vol-14-no-45.htm
 author: association-of-university-staff
+permalink: /archive/2011/12/01/teu-tertiary-update-vol-14-no-45/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 14 No 45
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-floating-on-thin-ice
-title: "Pansy Speak: Floating on thin ice"
-date: 2006-11-17
-source-url: https://www.scoop.co.nz/stories/PA0611/S00363/pansy-speak-floating-on-thin-ice.htm
+title: 'Pansy Speak: Floating on thin ice'
+date: 2006-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00363/pansy-speak-floating-on-thin-ice.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/17/pansy-speak-floating-on-thin-ice/index.html
+layout: layout.njk
 ---
 Pansy Speak: Floating on thin ice
 =================================

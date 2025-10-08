@@ -1,9 +1,12 @@
 ---
 slug: world-win-for-auckland-legal-debating-team
-title: "World Win For Auckland Legal Debating Team"
-date: 2006-10-11
-source-url: https://www.scoop.co.nz/stories/ED0610/S00044/world-win-for-auckland-legal-debating-team.htm
+title: World Win For Auckland Legal Debating Team
+date: 2006-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00044/world-win-for-auckland-legal-debating-team.htm
 author: auckland-university
+permalink: /archive/2006/10/11/world-win-for-auckland-legal-debating-team/index.html
+layout: layout.njk
 ---
 World Win For Auckland Legal Debating Team
 ==========================================

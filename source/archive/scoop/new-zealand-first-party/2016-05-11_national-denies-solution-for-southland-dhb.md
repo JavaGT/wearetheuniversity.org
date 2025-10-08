@@ -1,9 +1,12 @@
 ---
 slug: national-denies-solution-for-southland-dhb
-title: "National Denies Solution for Southland DHB"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/PA1605/S00203/national-denies-solution-for-southland-dhb.htm
+title: National Denies Solution for Southland DHB
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00203/national-denies-solution-for-southland-dhb.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/11/national-denies-solution-for-southland-dhb/index.html
+layout: layout.njk
 ---
 National Denies Solution for Southland DHB
 ==========================================

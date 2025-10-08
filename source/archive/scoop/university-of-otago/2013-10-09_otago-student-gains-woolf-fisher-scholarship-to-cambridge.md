@@ -1,9 +1,13 @@
 ---
 slug: otago-student-gains-woolf-fisher-scholarship-to-cambridge
-title: "Otago student gains Woolf Fisher Scholarship to Cambridge"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/ED1310/S00069/otago-student-gains-woolf-fisher-scholarship-to-cambridge.htm
+title: Otago student gains Woolf Fisher Scholarship to Cambridge
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00069/otago-student-gains-woolf-fisher-scholarship-to-cambridge.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/09/otago-student-gains-woolf-fisher-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 Otago student gains Woolf Fisher Scholarship to Cambridge
 =========================================================

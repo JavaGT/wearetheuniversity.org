@@ -1,9 +1,12 @@
 ---
 slug: health-ministers-black-prognosis-for-wage-round
-title: "Health Minister's black prognosis for wage round"
-date: 2000-03-28
-source-url: https://www.scoop.co.nz/stories/PA0003/S00490/health-ministers-black-prognosis-for-wage-round.htm
+title: Health Minister's black prognosis for wage round
+date: 2000-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00490/health-ministers-black-prognosis-for-wage-round.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/28/health-ministers-black-prognosis-for-wage-round/index.html
+layout: layout.njk
 ---
 Health Minister's black prognosis for wage round
 ================================================

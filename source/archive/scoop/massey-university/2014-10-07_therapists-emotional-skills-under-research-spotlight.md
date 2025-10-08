@@ -1,9 +1,13 @@
 ---
 slug: therapists-emotional-skills-under-research-spotlight
-title: "Therapists’ emotional skills under research spotlight"
-date: 2014-10-07
-source-url: https://www.scoop.co.nz/stories/GE1410/S00044/therapists-emotional-skills-under-research-spotlight.htm
+title: Therapists’ emotional skills under research spotlight
+date: 2014-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1410/S00044/therapists-emotional-skills-under-research-spotlight.htm
 author: massey-university
+permalink: >-
+  /archive/2014/10/07/therapists-emotional-skills-under-research-spotlight/index.html
+layout: layout.njk
 ---
 Therapists’ emotional skills under research spotlight
 =====================================================

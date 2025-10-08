@@ -1,9 +1,13 @@
 ---
 slug: finding-new-ways-to-kill-antibiotic-resistant-bacteria
-title: "Finding new ways to kill antibiotic-resistant bacteria"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/SC1506/S00035/finding-new-ways-to-kill-antibiotic-resistant-bacteria.htm
+title: Finding new ways to kill antibiotic-resistant bacteria
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00035/finding-new-ways-to-kill-antibiotic-resistant-bacteria.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/06/08/finding-new-ways-to-kill-antibiotic-resistant-bacteria/index.html
+layout: layout.njk
 ---
 Finding new ways to kill antibiotic-resistant bacteria
 ======================================================

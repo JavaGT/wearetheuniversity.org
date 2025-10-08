@@ -1,9 +1,12 @@
 ---
 slug: ravensdown-massey-share-values-winner
-title: "Ravensdown, Massey 'share values' – winner"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/BU1603/S00404/ravensdown-massey-share-values-winner.htm
+title: Ravensdown, Massey 'share values' – winner
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00404/ravensdown-massey-share-values-winner.htm
 author: massey-university
+permalink: /archive/2016/03/11/ravensdown-massey-share-values-winner/index.html
+layout: layout.njk
 ---
 Ravensdown, Massey 'share values' – winner
 ==========================================

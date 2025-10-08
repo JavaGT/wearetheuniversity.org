@@ -1,9 +1,12 @@
 ---
 slug: community-police-for-otago-labours-pledge
-title: "Community police for Otago: Labour's pledge"
-date: 2005-08-18
-source-url: https://www.scoop.co.nz/stories/PA0508/S00464/community-police-for-otago-labours-pledge.htm
+title: 'Community police for Otago: Labour''s pledge'
+date: 2005-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00464/community-police-for-otago-labours-pledge.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/18/community-police-for-otago-labours-pledge/index.html
+layout: layout.njk
 ---
 Community police for Otago: Labour's pledge
 ===========================================

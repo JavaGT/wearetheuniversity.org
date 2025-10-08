@@ -1,9 +1,13 @@
 ---
 slug: act-clarifies-position-on-student-union-membership
-title: "ACT Clarifies Position On Student Union Membership"
-date: 2000-10-13
-source-url: https://www.scoop.co.nz/stories/PA0010/S00281/act-clarifies-position-on-student-union-membership.htm
+title: ACT Clarifies Position On Student Union Membership
+date: 2000-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00281/act-clarifies-position-on-student-union-membership.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/10/13/act-clarifies-position-on-student-union-membership/index.html
+layout: layout.njk
 ---
 ACT Clarifies Position On Student Union Membership
 ==================================================

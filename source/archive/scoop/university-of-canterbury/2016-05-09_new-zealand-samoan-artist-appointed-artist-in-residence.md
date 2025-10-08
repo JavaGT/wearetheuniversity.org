@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-samoan-artist-appointed-artist-in-residence
-title: "New Zealand-Samoan artist appointed Artist in Residence"
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/CU1605/S00100/new-zealand-samoan-artist-appointed-artist-in-residence.htm
+title: New Zealand-Samoan artist appointed Artist in Residence
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00100/new-zealand-samoan-artist-appointed-artist-in-residence.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/09/new-zealand-samoan-artist-appointed-artist-in-residence/index.html
+layout: layout.njk
 ---
 New Zealand-Samoan artist appointed Artist in Residence
 =======================================================

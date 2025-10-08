@@ -1,9 +1,12 @@
 ---
 slug: tomorrow-is-world-teachers-day
-title: "Tomorrow is World Teachers’ Day"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/ED0410/S00007/tomorrow-is-world-teachers-day.htm
+title: Tomorrow is World Teachers’ Day
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00007/tomorrow-is-world-teachers-day.htm
 author: nzei
+permalink: /archive/2004/10/04/tomorrow-is-world-teachers-day/index.html
+layout: layout.njk
 ---
 Tomorrow is World Teachers’ Day
 ===============================

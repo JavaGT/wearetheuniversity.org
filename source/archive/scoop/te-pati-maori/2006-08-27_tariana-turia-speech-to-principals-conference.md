@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-to-principals-conference
-title: "Tariana Turia - Speech to Principals' Conference"
-date: 2006-08-27
-source-url: https://www.scoop.co.nz/stories/PA0608/S00469/tariana-turia-speech-to-principals-conference.htm
+title: Tariana Turia - Speech to Principals' Conference
+date: 2006-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00469/tariana-turia-speech-to-principals-conference.htm
 author: te-pati-maori
+permalink: /archive/2006/08/27/tariana-turia-speech-to-principals-conference/index.html
+layout: layout.njk
 ---
 Tariana Turia - Speech to Principals' Conference
 ================================================

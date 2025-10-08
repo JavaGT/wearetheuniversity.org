@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-a-bus-lane-to-bypass-congestion-on-harbour-bridge
-title: "Greens Call For A Bus Lane To Bypass Congestion On Harbour Bridge"
-date: 2020-09-21
-source-url: https://www.scoop.co.nz/stories/PA2009/S00180/greens-call-for-a-bus-lane-to-bypass-congestion-on-harbour-bridge.htm
+title: Greens Call For A Bus Lane To Bypass Congestion On Harbour Bridge
+date: 2020-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00180/greens-call-for-a-bus-lane-to-bypass-congestion-on-harbour-bridge.htm
 author: green-party
+permalink: >-
+  /archive/2020/09/21/greens-call-for-a-bus-lane-to-bypass-congestion-on-harbour-bridge/index.html
+layout: layout.njk
 ---
 Greens Call For A Bus Lane To Bypass Congestion On Harbour Bridge
 =================================================================

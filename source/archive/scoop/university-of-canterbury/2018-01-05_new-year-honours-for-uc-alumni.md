@@ -1,9 +1,12 @@
 ---
 slug: new-year-honours-for-uc-alumni
-title: "New Year Honours for UC alumni"
-date: 2018-01-05
-source-url: https://www.scoop.co.nz/stories/ED1801/S00004/new-year-honours-for-uc-alumni.htm
+title: New Year Honours for UC alumni
+date: 2018-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00004/new-year-honours-for-uc-alumni.htm
 author: university-of-canterbury
+permalink: /archive/2018/01/05/new-year-honours-for-uc-alumni/index.html
+layout: layout.njk
 ---
 New Year Honours for UC alumni
 ==============================

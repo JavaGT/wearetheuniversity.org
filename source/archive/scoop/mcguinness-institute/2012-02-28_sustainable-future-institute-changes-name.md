@@ -1,9 +1,12 @@
 ---
 slug: sustainable-future-institute-changes-name
-title: "Sustainable Future Institute Changes Name"
-date: 2012-02-28
-source-url: https://www.scoop.co.nz/stories/PO1202/S00292/sustainable-future-institute-changes-name.htm
+title: Sustainable Future Institute Changes Name
+date: 2012-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00292/sustainable-future-institute-changes-name.htm
 author: mcguinness-institute
+permalink: /archive/2012/02/28/sustainable-future-institute-changes-name/index.html
+layout: layout.njk
 ---
 Sustainable Future Institute Changes Name
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: lake-taupo-university-college-moves-forward
-title: "Lake Taupo University College moves forward"
-date: 2000-10-05
-source-url: https://www.scoop.co.nz/stories/ED0010/S00006/lake-taupo-university-college-moves-forward.htm
+title: Lake Taupo University College moves forward
+date: 2000-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00006/lake-taupo-university-college-moves-forward.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/10/05/lake-taupo-university-college-moves-forward/index.html
+layout: layout.njk
 ---
 Lake Taupo University College moves forward
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: gastro-outbreak-confirmed-as-norovirus
-title: "Gastro outbreak confirmed as Norovirus"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/ED0811/S00011/gastro-outbreak-confirmed-as-norovirus.htm
+title: Gastro outbreak confirmed as Norovirus
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00011/gastro-outbreak-confirmed-as-norovirus.htm
 author: massey-university
+permalink: /archive/2008/11/05/gastro-outbreak-confirmed-as-norovirus/index.html
+layout: layout.njk
 ---
 Gastro outbreak confirmed as Norovirus
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: mahuta-should-apologise-for-hipkins-taiwan-comments
-title: "Mahuta Should Apologise For Hipkins’ Taiwan Comments"
-date: 2020-11-17
-source-url: https://www.scoop.co.nz/stories/PA2011/S00050/mahuta-should-apologise-for-hipkins-taiwan-comments.htm
+title: Mahuta Should Apologise For Hipkins’ Taiwan Comments
+date: 2020-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2011/S00050/mahuta-should-apologise-for-hipkins-taiwan-comments.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/11/17/mahuta-should-apologise-for-hipkins-taiwan-comments/index.html
+layout: layout.njk
 ---
 Mahuta Should Apologise For Hipkins’ Taiwan Comments
 ====================================================

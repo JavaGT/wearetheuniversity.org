@@ -1,9 +1,12 @@
 ---
 slug: savings-working-group-serves-up-strange-report
-title: "Savings Working Group Serves Up Strange Report"
-date: 2011-01-10
-source-url: https://www.scoop.co.nz/stories/BU1101/S00065/savings-working-group-serves-up-strange-report.htm
+title: Savings Working Group Serves Up Strange Report
+date: 2011-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1101/S00065/savings-working-group-serves-up-strange-report.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/01/10/savings-working-group-serves-up-strange-report/index.html
+layout: layout.njk
 ---
 Savings Working Group Serves Up Strange Report
 ==============================================

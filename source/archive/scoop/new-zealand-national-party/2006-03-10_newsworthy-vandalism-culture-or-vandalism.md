@@ -1,9 +1,12 @@
 ---
 slug: newsworthy-vandalism-culture-or-vandalism
-title: "Newsworthy: Vandalism - culture or vandalism"
-date: 2006-03-10
-source-url: https://www.scoop.co.nz/stories/PA0603/S00170/newsworthy-vandalism-culture-or-vandalism.htm
+title: 'Newsworthy: Vandalism - culture or vandalism'
+date: 2006-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00170/newsworthy-vandalism-culture-or-vandalism.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/10/newsworthy-vandalism-culture-or-vandalism/index.html
+layout: layout.njk
 ---
 Newsworthy: Vandalism - culture or vandalism
 ============================================

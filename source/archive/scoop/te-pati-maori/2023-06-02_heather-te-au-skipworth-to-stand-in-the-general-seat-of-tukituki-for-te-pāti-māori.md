@@ -1,9 +1,16 @@
 ---
-slug: heather-te-au-skipworth-to-stand-in-the-general-seat-of-tukituki-for-te-pāti-māori
-title: "Heather Te-Au Skipworth To Stand In The General Seat Of Tukituki For Te Pāti Māori"
-date: 2023-06-02
-source-url: https://www.scoop.co.nz/stories/PO2306/S00018/heather-te-au-skipworth-to-stand-in-the-general-seat-of-tukituki-for-te-pati-maori.htm
+slug: >-
+  heather-te-au-skipworth-to-stand-in-the-general-seat-of-tukituki-for-te-pāti-māori
+title: >-
+  Heather Te-Au Skipworth To Stand In The General Seat Of Tukituki For Te Pāti
+  Māori
+date: 2023-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00018/heather-te-au-skipworth-to-stand-in-the-general-seat-of-tukituki-for-te-pati-maori.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2023/06/02/heather-te-au-skipworth-to-stand-in-the-general-seat-of-tukituki-for-te-p/index.html
+layout: layout.njk
 ---
 Heather Te-Au Skipworth To Stand In The General Seat Of Tukituki For Te Pāti Māori
 ==================================================================================

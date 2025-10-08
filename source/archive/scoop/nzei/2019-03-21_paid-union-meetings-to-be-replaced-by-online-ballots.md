@@ -1,9 +1,13 @@
 ---
 slug: paid-union-meetings-to-be-replaced-by-online-ballots
-title: "Paid union meetings to be replaced by online ballots"
-date: 2019-03-21
-source-url: https://www.scoop.co.nz/stories/PO1903/S00225/paid-union-meetings-to-be-replaced-by-online-ballots.htm
+title: Paid union meetings to be replaced by online ballots
+date: 2019-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1903/S00225/paid-union-meetings-to-be-replaced-by-online-ballots.htm
 author: nzei
+permalink: >-
+  /archive/2019/03/21/paid-union-meetings-to-be-replaced-by-online-ballots/index.html
+layout: layout.njk
 ---
 Paid union meetings to be replaced by online ballots
 ====================================================

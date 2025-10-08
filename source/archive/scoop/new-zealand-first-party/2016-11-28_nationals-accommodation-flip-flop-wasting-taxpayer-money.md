@@ -1,9 +1,13 @@
 ---
 slug: nationals-accommodation-flip-flop-wasting-taxpayer-money
-title: "National’s Accommodation Flip-Flop Wasting Taxpayer Money"
-date: 2016-11-28
-source-url: https://www.scoop.co.nz/stories/PA1611/S00517/nationals-accommodation-flip-flop-wasting-taxpayer-money.htm
+title: National’s Accommodation Flip-Flop Wasting Taxpayer Money
+date: 2016-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00517/nationals-accommodation-flip-flop-wasting-taxpayer-money.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/28/nationals-accommodation-flip-flop-wasting-taxpayer-money/index.html
+layout: layout.njk
 ---
 National’s Accommodation Flip-Flop Wasting Taxpayer Money
 =========================================================

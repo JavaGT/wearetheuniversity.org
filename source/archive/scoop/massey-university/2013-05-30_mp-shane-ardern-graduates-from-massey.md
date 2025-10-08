@@ -1,9 +1,12 @@
 ---
 slug: mp-shane-ardern-graduates-from-massey
-title: "MP Shane Ardern graduates from Massey"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/ED1305/S00200/mp-shane-ardern-graduates-from-massey.htm
+title: MP Shane Ardern graduates from Massey
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00200/mp-shane-ardern-graduates-from-massey.htm
 author: massey-university
+permalink: /archive/2013/05/30/mp-shane-ardern-graduates-from-massey/index.html
+layout: layout.njk
 ---
 MP Shane Ardern graduates from Massey
 =====================================

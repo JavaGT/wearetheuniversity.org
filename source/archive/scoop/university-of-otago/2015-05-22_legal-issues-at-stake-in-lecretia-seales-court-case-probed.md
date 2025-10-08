@@ -1,9 +1,13 @@
 ---
 slug: legal-issues-at-stake-in-lecretia-seales-court-case-probed
-title: "Legal issues at stake in Lecretia Seales’ court case probed"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PO1505/S00306/legal-issues-at-stake-in-lecretia-seales-court-case-probed.htm
+title: Legal issues at stake in Lecretia Seales’ court case probed
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00306/legal-issues-at-stake-in-lecretia-seales-court-case-probed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/22/legal-issues-at-stake-in-lecretia-seales-court-case-probed/index.html
+layout: layout.njk
 ---
 Legal issues at stake in Lecretia Seales’ court case probed
 ===========================================================

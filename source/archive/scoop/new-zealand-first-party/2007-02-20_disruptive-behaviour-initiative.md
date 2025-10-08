@@ -1,9 +1,12 @@
 ---
 slug: disruptive-behaviour-initiative
-title: "Disruptive Behaviour Initiative"
-date: 2007-02-20
-source-url: https://www.scoop.co.nz/stories/PA0702/S00358/disruptive-behaviour-initiative.htm
+title: Disruptive Behaviour Initiative
+date: 2007-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00358/disruptive-behaviour-initiative.htm
 author: new-zealand-first-party
+permalink: /archive/2007/02/20/disruptive-behaviour-initiative/index.html
+layout: layout.njk
 ---
 Disruptive Behaviour Initiative
 ===============================

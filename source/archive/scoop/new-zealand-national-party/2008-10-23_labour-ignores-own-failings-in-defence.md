@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-own-failings-in-defence
-title: "Labour ignores own failings in defence"
-date: 2008-10-23
-source-url: https://www.scoop.co.nz/stories/PA0810/S00568/labour-ignores-own-failings-in-defence.htm
+title: Labour ignores own failings in defence
+date: 2008-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00568/labour-ignores-own-failings-in-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/23/labour-ignores-own-failings-in-defence/index.html
+layout: layout.njk
 ---
 Labour ignores own failings in defence
 ======================================

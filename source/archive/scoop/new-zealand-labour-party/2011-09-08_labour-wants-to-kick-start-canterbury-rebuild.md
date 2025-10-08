@@ -1,9 +1,12 @@
 ---
 slug: labour-wants-to-kick-start-canterbury-rebuild
-title: "Labour wants to kick-start Canterbury rebuild"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/PA1109/S00170/labour-wants-to-kick-start-canterbury-rebuild.htm
+title: Labour wants to kick-start Canterbury rebuild
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00170/labour-wants-to-kick-start-canterbury-rebuild.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/08/labour-wants-to-kick-start-canterbury-rebuild/index.html
+layout: layout.njk
 ---
 Labour wants to kick-start Canterbury rebuild
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: over-1600-students-graduated-during-the-usp-laucala-campus-graduation
-title: "Over 1,600 students graduated during the USP Laucala Campus Graduation"
-date: 2024-04-13
-source-url: https://www.scoop.co.nz/stories/WO2404/S00086/over-1600-students-graduated-during-the-usp-laucala-campus-graduation.htm
+title: Over 1,600 students graduated during the USP Laucala Campus Graduation
+date: 2024-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2404/S00086/over-1600-students-graduated-during-the-usp-laucala-campus-graduation.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/04/13/over-1600-students-graduated-during-the-usp-laucala-campus-graduation/index.html
+layout: layout.njk
 ---
 Over 1,600 students graduated during the USP Laucala Campus Graduation
 ======================================================================

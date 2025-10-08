@@ -1,9 +1,12 @@
 ---
 slug: thai-fair-trade-campaigners-to-brief-media
-title: "Thai fair trade campaigners to brief media"
-date: 2004-09-13
-source-url: https://www.scoop.co.nz/stories/PA0409/S00250/thai-fair-trade-campaigners-to-brief-media.htm
+title: Thai fair trade campaigners to brief media
+date: 2004-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00250/thai-fair-trade-campaigners-to-brief-media.htm
 author: green-party
+permalink: /archive/2004/09/13/thai-fair-trade-campaigners-to-brief-media/index.html
+layout: layout.njk
 ---
 Thai fair trade campaigners to brief media
 ==========================================

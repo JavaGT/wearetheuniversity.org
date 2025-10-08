@@ -1,9 +1,12 @@
 ---
 slug: whats-next-sheep-from-australia
-title: "What's next - sheep from Australia?"
-date: 2002-09-17
-source-url: https://www.scoop.co.nz/stories/PA0209/S00269/whats-next-sheep-from-australia.htm
+title: What's next - sheep from Australia?
+date: 2002-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00269/whats-next-sheep-from-australia.htm
 author: green-party
+permalink: /archive/2002/09/17/whats-next-sheep-from-australia/index.html
+layout: layout.njk
 ---
 What's next - sheep from Australia?
 ===================================

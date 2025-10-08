@@ -1,9 +1,13 @@
 ---
 slug: kiwi-bach-takes-third-place-in-solar-decathlon-in-us-capital
-title: "Kiwi bach takes third place in Solar Decathlon in US capital"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/SC1110/S00003/kiwi-bach-takes-third-place-in-solar-decathlon-in-us-capital.htm
+title: Kiwi bach takes third place in Solar Decathlon in US capital
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00003/kiwi-bach-takes-third-place-in-solar-decathlon-in-us-capital.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/10/03/kiwi-bach-takes-third-place-in-solar-decathlon-in-us-capital/index.html
+layout: layout.njk
 ---
 Kiwi bach takes third place in Solar Decathlon in US capital
 ============================================================

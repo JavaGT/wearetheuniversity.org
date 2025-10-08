@@ -1,9 +1,13 @@
 ---
 slug: walking-in-footsteps-of-great-grandfathers-at-gallipoli
-title: "Walking in footsteps of great-grandfathers at Gallipoli"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/CU1504/S00342/walking-in-footsteps-of-great-grandfathers-at-gallipoli.htm
+title: Walking in footsteps of great-grandfathers at Gallipoli
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00342/walking-in-footsteps-of-great-grandfathers-at-gallipoli.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/04/20/walking-in-footsteps-of-great-grandfathers-at-gallipoli/index.html
+layout: layout.njk
 ---
 Walking in footsteps of great-grandfathers at Gallipoli
 =======================================================

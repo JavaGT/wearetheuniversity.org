@@ -1,11 +1,16 @@
 ---
-slug: "rr-news-new-zealand-2025-3-new-zealand-s-perfect-storm-hits-humanities-research"
-date: 2025-03-20
-source: "Research Professional"
-source-url: https://www.researchprofessionalnews.com/rr-news-new-zealand-2025-3-new-zealand-s-perfect-storm-hits-humanities-research/
-title: "New Zealand’s ‘perfect storm’ hits humanities research"
-author: "Jenny Sinclair"
-author-slug: "jenny-sinclair"
+slug: >-
+  rr-news-new-zealand-2025-3-new-zealand-s-perfect-storm-hits-humanities-research
+date: 2025-03-20T00:00:00.000Z
+source: Research Professional
+source-url: >-
+  https://www.researchprofessionalnews.com/rr-news-new-zealand-2025-3-new-zealand-s-perfect-storm-hits-humanities-research/
+title: New Zealand’s ‘perfect storm’ hits humanities research
+author: Jenny Sinclair
+author-slug: jenny-sinclair
+permalink: >-
+  /archive/2025/03/20/rr-news-new-zealand-2025-3-new-zealand-s-perfect-storm-hits-humanities-research/index.html
+layout: layout.njk
 ---
 
 Uncertainty reigns as NZ and Australian governments prioritise research areas with “real economic impact”

@@ -1,9 +1,12 @@
 ---
 slug: building-21c-skills-for-the-new-world-of-work
-title: "Building 21C Skills for the New World of Work"
-date: 2017-09-27
-source-url: https://www.scoop.co.nz/stories/ED1709/S00106/building-21c-skills-for-the-new-world-of-work.htm
+title: Building 21C Skills for the New World of Work
+date: 2017-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00106/building-21c-skills-for-the-new-world-of-work.htm
 author: aut-university
+permalink: /archive/2017/09/27/building-21c-skills-for-the-new-world-of-work/index.html
+layout: layout.njk
 ---
 Building 21C Skills for the New World of Work
 =============================================

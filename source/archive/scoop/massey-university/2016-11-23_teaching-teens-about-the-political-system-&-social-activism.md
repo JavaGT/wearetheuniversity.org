@@ -1,9 +1,12 @@
 ---
 slug: teaching-teens-about-the-political-system-&-social-activism
-title: "Teaching teens about the political system & social activism"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/ED1611/S00112/teaching-teens-about-the-political-system-social-activism.htm
+title: Teaching teens about the political system & social activism
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00112/teaching-teens-about-the-political-system-social-activism.htm
 author: massey-university
+permalink: /archive/2016/11/23/teaching-teens-about-the-political-system-/index.html
+layout: layout.njk
 ---
 Teaching teens about the political system & social activism
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-association-fails-students-again
-title: "Students Association fails students again"
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/ED0507/S00083/students-association-fails-students-again.htm
+title: Students Association fails students again
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00083/students-association-fails-students-again.htm
 author: new-zealand-young-nationals
+permalink: /archive/2005/07/21/students-association-fails-students-again/index.html
+layout: layout.njk
 ---
 Students Association fails students again
 =========================================

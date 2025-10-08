@@ -1,9 +1,13 @@
 ---
 slug: greens-co-leader-in-comprehensive-tour-of-whangarei
-title: "Greens Co-leader in comprehensive tour of Whangarei"
-date: 2017-06-01
-source-url: https://www.scoop.co.nz/stories/PO1706/S00012/greens-co-leader-in-comprehensive-tour-of-whangarei.htm
+title: Greens Co-leader in comprehensive tour of Whangarei
+date: 2017-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00012/greens-co-leader-in-comprehensive-tour-of-whangarei.htm
 author: green-party
+permalink: >-
+  /archive/2017/06/01/greens-co-leader-in-comprehensive-tour-of-whangarei/index.html
+layout: layout.njk
 ---
 Greens Co-leader in comprehensive tour of Whangarei
 ===================================================

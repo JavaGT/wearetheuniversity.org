@@ -1,9 +1,12 @@
 ---
 slug: dr-russel-norman-speech-grand-theft-auckland
-title: "Dr Russel Norman Speech: Grand Theft Auckland"
-date: 2009-06-01
-source-url: https://www.scoop.co.nz/stories/PA0906/S00002/dr-russel-norman-speech-grand-theft-auckland.htm
+title: 'Dr Russel Norman Speech: Grand Theft Auckland'
+date: 2009-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00002/dr-russel-norman-speech-grand-theft-auckland.htm
 author: green-party
+permalink: /archive/2009/06/01/dr-russel-norman-speech-grand-theft-auckland/index.html
+layout: layout.njk
 ---
 Dr Russel Norman Speech: Grand Theft Auckland
 =============================================

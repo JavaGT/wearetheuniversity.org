@@ -1,9 +1,13 @@
 ---
 slug: daily-walks-help-lower-office-workers-blood-lipids
-title: "Daily walks help lower office workers’ blood lipids"
-date: 2017-06-27
-source-url: https://www.scoop.co.nz/stories/SC1706/S00052/daily-walks-help-lower-office-workers-blood-lipids.htm
+title: Daily walks help lower office workers’ blood lipids
+date: 2017-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00052/daily-walks-help-lower-office-workers-blood-lipids.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/06/27/daily-walks-help-lower-office-workers-blood-lipids/index.html
+layout: layout.njk
 ---
 Daily walks help lower office workers’ blood lipids
 ===================================================

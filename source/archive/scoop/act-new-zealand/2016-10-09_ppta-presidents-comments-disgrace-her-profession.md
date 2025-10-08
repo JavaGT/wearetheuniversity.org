@@ -1,9 +1,13 @@
 ---
 slug: ppta-presidents-comments-disgrace-her-profession
-title: "PPTA president's comments disgrace her profession"
-date: 2016-10-09
-source-url: https://www.scoop.co.nz/stories/PA1610/S00110/ppta-presidents-comments-disgrace-her-profession.htm
+title: PPTA president's comments disgrace her profession
+date: 2016-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00110/ppta-presidents-comments-disgrace-her-profession.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/10/09/ppta-presidents-comments-disgrace-her-profession/index.html
+layout: layout.njk
 ---
 PPTA president's comments disgrace her profession
 =================================================

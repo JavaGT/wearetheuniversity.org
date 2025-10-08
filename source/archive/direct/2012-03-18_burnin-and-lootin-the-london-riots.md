@@ -1,10 +1,13 @@
 ---
-title: "Burnin’ and Lootin’: The London Riots"
+title: 'Burnin’ and Lootin’: The London Riots'
 slug: burnin-and-lootin-the-london-riots
-date: 2012-03-18
-source: https://web.archive.org/web/20130208081649/http://wearetheuniversity.org.nz/2012/03/18/burnin-and-lootin-the-london-riots/
+date: 2012-03-18T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208081649/http://wearetheuniversity.org.nz/2012/03/18/burnin-and-lootin-the-london-riots/
 author: Hala Nasr
 author-slug: hala-nasr
+permalink: /archive/2012/03/18/burnin-and-lootin-the-london-riots/index.html
+layout: layout.njk
 ---
 
 “Burning an illusion tonight, burnin’ and lootin’ tonight.” – Bob Marley

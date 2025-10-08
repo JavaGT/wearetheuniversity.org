@@ -1,9 +1,12 @@
 ---
 slug: papers-prove-maf-tried-to-delay-spray-report
-title: "Papers prove MAF tried to delay spray report"
-date: 2004-05-10
-source-url: https://www.scoop.co.nz/stories/PA0405/S00161/papers-prove-maf-tried-to-delay-spray-report.htm
+title: Papers prove MAF tried to delay spray report
+date: 2004-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00161/papers-prove-maf-tried-to-delay-spray-report.htm
 author: green-party
+permalink: /archive/2004/05/10/papers-prove-maf-tried-to-delay-spray-report/index.html
+layout: layout.njk
 ---
 Papers prove MAF tried to delay spray report
 ============================================

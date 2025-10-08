@@ -1,9 +1,11 @@
 ---
 slug: local-government-act-2002
-title: "Local Government Act 2002"
-date: 2010-05-06
+title: Local Government Act 2002
+date: 2010-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1005/S00112/local-government-act-2002.htm
 author: te-pati-maori
+permalink: /archive/2010/05/06/local-government-act-2002/index.html
+layout: layout.njk
 ---
 Local Government Act 2002
 =========================

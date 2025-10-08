@@ -1,9 +1,13 @@
 ---
 slug: young-entrepreneurs-battle-it-out-for-2011-aut-venture-fund
-title: "Young entrepreneurs battle it out for 2011: AUT venture fund"
-date: 2011-09-23
-source-url: https://www.scoop.co.nz/stories/ED1109/S00105/young-entrepreneurs-battle-it-out-for-2011-aut-venture-fund.htm
+title: 'Young entrepreneurs battle it out for 2011: AUT venture fund'
+date: 2011-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00105/young-entrepreneurs-battle-it-out-for-2011-aut-venture-fund.htm
 author: aut-university
+permalink: >-
+  /archive/2011/09/23/young-entrepreneurs-battle-it-out-for-2011-aut-venture-fund/index.html
+layout: layout.njk
 ---
 Young entrepreneurs battle it out for 2011: AUT venture fund
 ============================================================

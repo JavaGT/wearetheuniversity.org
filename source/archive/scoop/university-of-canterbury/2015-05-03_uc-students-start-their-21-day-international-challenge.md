@@ -1,9 +1,13 @@
 ---
 slug: uc-students-start-their-21-day-international-challenge
-title: "UC students start their 21-day International Challenge"
-date: 2015-05-03
-source-url: https://www.scoop.co.nz/stories/ED1505/S00008/uc-students-start-their-21-day-international-challenge.htm
+title: UC students start their 21-day International Challenge
+date: 2015-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00008/uc-students-start-their-21-day-international-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/03/uc-students-start-their-21-day-international-challenge/index.html
+layout: layout.njk
 ---
 UC students start their 21-day International Challenge
 ======================================================

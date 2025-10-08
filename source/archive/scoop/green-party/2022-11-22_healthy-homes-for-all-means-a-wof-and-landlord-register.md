@@ -1,9 +1,13 @@
 ---
 slug: healthy-homes-for-all-means-a-wof-and-landlord-register
-title: "Healthy Homes For All Means A WOF And Landlord Register"
-date: 2022-11-22
-source-url: https://www.scoop.co.nz/stories/PA2211/S00178/healthy-homes-for-all-means-a-wof-and-landlord-register.htm
+title: Healthy Homes For All Means A WOF And Landlord Register
+date: 2022-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00178/healthy-homes-for-all-means-a-wof-and-landlord-register.htm
 author: green-party
+permalink: >-
+  /archive/2022/11/22/healthy-homes-for-all-means-a-wof-and-landlord-register/index.html
+layout: layout.njk
 ---
 Healthy Homes For All Means A WOF And Landlord Register
 =======================================================

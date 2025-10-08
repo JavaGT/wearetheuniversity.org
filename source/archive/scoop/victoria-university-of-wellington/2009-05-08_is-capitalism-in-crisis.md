@@ -1,9 +1,11 @@
 ---
 slug: is-capitalism-in-crisis
-title: "Is capitalism in crisis?"
-date: 2009-05-08
+title: Is capitalism in crisis?
+date: 2009-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0905/S00039/is-capitalism-in-crisis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/05/08/is-capitalism-in-crisis/index.html
+layout: layout.njk
 ---
 Is capitalism in crisis?
 ========================

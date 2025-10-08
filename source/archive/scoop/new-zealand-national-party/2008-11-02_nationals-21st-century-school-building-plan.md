@@ -1,9 +1,12 @@
 ---
 slug: nationals-21st-century-school-building-plan
-title: "National's 21st century school building plan"
-date: 2008-11-02
-source-url: https://www.scoop.co.nz/stories/PA0811/S00014/nationals-21st-century-school-building-plan.htm
+title: National's 21st century school building plan
+date: 2008-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00014/nationals-21st-century-school-building-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/02/nationals-21st-century-school-building-plan/index.html
+layout: layout.njk
 ---
 National's 21st century school building plan
 ============================================

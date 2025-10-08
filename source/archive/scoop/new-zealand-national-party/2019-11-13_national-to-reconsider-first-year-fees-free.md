@@ -1,9 +1,12 @@
 ---
 slug: national-to-reconsider-first-year-fees-free
-title: "National to reconsider first year Fees Free"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/PA1911/S00093/national-to-reconsider-first-year-fees-free.htm
+title: National to reconsider first year Fees Free
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00093/national-to-reconsider-first-year-fees-free.htm
 author: new-zealand-national-party
+permalink: /archive/2019/11/13/national-to-reconsider-first-year-fees-free/index.html
+layout: layout.njk
 ---
 National to reconsider first year Fees Free
 ===========================================

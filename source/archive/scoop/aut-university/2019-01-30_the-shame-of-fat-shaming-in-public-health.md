@@ -1,9 +1,12 @@
 ---
 slug: the-shame-of-fat-shaming-in-public-health
-title: "The shame of ‘fat-shaming’ in public health"
-date: 2019-01-30
-source-url: https://www.scoop.co.nz/stories/GE1901/S00052/the-shame-of-fat-shaming-in-public-health.htm
+title: The shame of ‘fat-shaming’ in public health
+date: 2019-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1901/S00052/the-shame-of-fat-shaming-in-public-health.htm
 author: aut-university
+permalink: /archive/2019/01/30/the-shame-of-fat-shaming-in-public-health/index.html
+layout: layout.njk
 ---
 The shame of ‘fat-shaming’ in public health
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: enrolments-continue-to-rise-at-victoria-university
-title: "Enrolments continue to rise at Victoria University"
-date: 2003-05-29
-source-url: https://www.scoop.co.nz/stories/ED0305/S00098/enrolments-continue-to-rise-at-victoria-university.htm
+title: Enrolments continue to rise at Victoria University
+date: 2003-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00098/enrolments-continue-to-rise-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/05/29/enrolments-continue-to-rise-at-victoria-university/index.html
+layout: layout.njk
 ---
 Enrolments continue to rise at Victoria University
 ==================================================

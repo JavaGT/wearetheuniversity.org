@@ -1,9 +1,13 @@
 ---
 slug: aut-university-and-lifewise-the-big-sleepout-2012
-title: "AUT University and LIFEWISE – The Big Sleepout 2012"
-date: 2012-06-21
-source-url: https://www.scoop.co.nz/stories/ED1206/S00097/aut-university-and-lifewise-the-big-sleepout-2012.htm
+title: AUT University and LIFEWISE – The Big Sleepout 2012
+date: 2012-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00097/aut-university-and-lifewise-the-big-sleepout-2012.htm
 author: aut-university
+permalink: >-
+  /archive/2012/06/21/aut-university-and-lifewise-the-big-sleepout-2012/index.html
+layout: layout.njk
 ---
 AUT University and LIFEWISE – The Big Sleepout 2012
 ===================================================

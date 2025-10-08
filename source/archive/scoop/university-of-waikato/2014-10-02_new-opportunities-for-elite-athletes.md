@@ -1,9 +1,12 @@
 ---
 slug: new-opportunities-for-elite-athletes
-title: "New opportunities for elite athletes"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/ED1410/S00022/new-opportunities-for-elite-athletes.htm
+title: New opportunities for elite athletes
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00022/new-opportunities-for-elite-athletes.htm
 author: university-of-waikato
+permalink: /archive/2014/10/02/new-opportunities-for-elite-athletes/index.html
+layout: layout.njk
 ---
 New opportunities for elite athletes
 ====================================

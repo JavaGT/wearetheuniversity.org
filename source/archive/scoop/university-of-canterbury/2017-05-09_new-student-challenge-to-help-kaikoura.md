@@ -1,9 +1,12 @@
 ---
 slug: new-student-challenge-to-help-kaikoura
-title: "New student challenge to help Kaikoura"
-date: 2017-05-09
-source-url: https://www.scoop.co.nz/stories/AK1705/S00227/new-student-challenge-to-help-kaikoura.htm
+title: New student challenge to help Kaikoura
+date: 2017-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1705/S00227/new-student-challenge-to-help-kaikoura.htm
 author: university-of-canterbury
+permalink: /archive/2017/05/09/new-student-challenge-to-help-kaikoura/index.html
+layout: layout.njk
 ---
 New student challenge to help Kaikoura
 ======================================

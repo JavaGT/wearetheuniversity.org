@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-geography-students-win-three-medals
-title: "New Zealand geography students win three medals"
-date: 2010-08-18
-source-url: https://www.scoop.co.nz/stories/ED1008/S00069/new-zealand-geography-students-win-three-medals.htm
+title: New Zealand geography students win three medals
+date: 2010-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00069/new-zealand-geography-students-win-three-medals.htm
 author: university-of-waikato
+permalink: /archive/2010/08/18/new-zealand-geography-students-win-three-medals/index.html
+layout: layout.njk
 ---
 New Zealand geography students win three medals
 ===============================================

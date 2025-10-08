@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-17-october-2008
-title: "www.mccully.co.nz - 17 October 2008"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00424/wwwmccullyconz-17-october-2008.htm
+title: www.mccully.co.nz - 17 October 2008
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00424/wwwmccullyconz-17-october-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/17/www-mccully-co-nz-17-october-2008/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 17 October 2008
 ===================================

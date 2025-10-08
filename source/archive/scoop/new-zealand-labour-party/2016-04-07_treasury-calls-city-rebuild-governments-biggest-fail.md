@@ -1,9 +1,13 @@
 ---
 slug: treasury-calls-city-rebuild-governments-biggest-fail
-title: "Treasury calls city rebuild Government’s biggest fail"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/PA1604/S00113/treasury-calls-city-rebuild-governments-biggest-fail.htm
+title: Treasury calls city rebuild Government’s biggest fail
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00113/treasury-calls-city-rebuild-governments-biggest-fail.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/04/07/treasury-calls-city-rebuild-governments-biggest-fail/index.html
+layout: layout.njk
 ---
 Treasury calls city rebuild Government’s biggest fail
 =====================================================

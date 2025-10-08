@@ -1,9 +1,16 @@
 ---
-slug: unz-welcomes-governments-plans-to-address-university-and-science-system-challenges
-title: "UNZ Welcomes Government’s Plans To Address University And Science System Challenges"
-date: 2024-03-27
-source-url: https://www.scoop.co.nz/stories/SC2403/S00049/unz-welcomes-governments-plans-to-address-university-and-science-system-challenges.htm
+slug: >-
+  unz-welcomes-governments-plans-to-address-university-and-science-system-challenges
+title: >-
+  UNZ Welcomes Government’s Plans To Address University And Science System
+  Challenges
+date: 2024-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2403/S00049/unz-welcomes-governments-plans-to-address-university-and-science-system-challenges.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2024/03/27/unz-welcomes-governments-plans-to-address-university-and-science-system-challenges/index.html
+layout: layout.njk
 ---
 UNZ Welcomes Government’s Plans To Address University And Science System Challenges
 ===================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: questions-over-teacher-training-scholarships
-title: "Questions over teacher training scholarships"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00659/questions-over-teacher-training-scholarships.htm
+title: Questions over teacher training scholarships
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00659/questions-over-teacher-training-scholarships.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/27/questions-over-teacher-training-scholarships/index.html
+layout: layout.njk
 ---
 Questions over teacher training scholarships
 ============================================

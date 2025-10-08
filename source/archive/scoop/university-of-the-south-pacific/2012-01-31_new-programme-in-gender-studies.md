@@ -1,9 +1,12 @@
 ---
 slug: new-programme-in-gender-studies
-title: "New Programme in Gender Studies"
-date: 2012-01-31
-source-url: https://www.scoop.co.nz/stories/WO1201/S00615/new-programme-in-gender-studies.htm
+title: New Programme in Gender Studies
+date: 2012-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1201/S00615/new-programme-in-gender-studies.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/01/31/new-programme-in-gender-studies/index.html
+layout: layout.njk
 ---
 New Programme in Gender Studies
 ===============================

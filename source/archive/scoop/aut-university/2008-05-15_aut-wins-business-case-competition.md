@@ -1,9 +1,12 @@
 ---
 slug: aut-wins-business-case-competition
-title: "AUT wins business case competition"
-date: 2008-05-15
-source-url: https://www.scoop.co.nz/stories/ED0805/S00049/aut-wins-business-case-competition.htm
+title: AUT wins business case competition
+date: 2008-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00049/aut-wins-business-case-competition.htm
 author: aut-university
+permalink: /archive/2008/05/15/aut-wins-business-case-competition/index.html
+layout: layout.njk
 ---
 AUT wins business case competition
 ==================================

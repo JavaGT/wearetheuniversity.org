@@ -1,8 +1,11 @@
 ---
 slug: student-safety
-title: "Student safety"
-date: 2016-03-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/student-safety.html
+title: Student safety
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/student-safety.html
+permalink: /archive/2016/03/31/student-safety/index.html
+layout: layout.njk
 ---
 Student safety
 ==============

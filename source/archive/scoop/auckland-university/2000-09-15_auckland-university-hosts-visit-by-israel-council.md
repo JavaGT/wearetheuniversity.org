@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-hosts-visit-by-israel-council
-title: "Auckland University Hosts Visit by Israel Council"
-date: 2000-09-15
-source-url: https://www.scoop.co.nz/stories/ED0009/S00035/auckland-university-hosts-visit-by-israel-council.htm
+title: Auckland University Hosts Visit by Israel Council
+date: 2000-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00035/auckland-university-hosts-visit-by-israel-council.htm
 author: auckland-university
+permalink: >-
+  /archive/2000/09/15/auckland-university-hosts-visit-by-israel-council/index.html
+layout: layout.njk
 ---
 Auckland University Hosts Visit by Israel Council
 =================================================

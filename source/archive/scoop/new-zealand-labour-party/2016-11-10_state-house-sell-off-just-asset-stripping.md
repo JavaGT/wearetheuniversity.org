@@ -1,9 +1,12 @@
 ---
 slug: state-house-sell-off-just-asset-stripping
-title: "State house sell-off just asset stripping"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/PA1611/S00229/state-house-sell-off-just-asset-stripping.htm
+title: State house sell-off just asset stripping
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00229/state-house-sell-off-just-asset-stripping.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/10/state-house-sell-off-just-asset-stripping/index.html
+layout: layout.njk
 ---
 State house sell-off just asset stripping
 =========================================

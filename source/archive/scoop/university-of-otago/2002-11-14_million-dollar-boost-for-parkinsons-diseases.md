@@ -1,9 +1,12 @@
 ---
 slug: million-dollar-boost-for-parkinsons-diseases
-title: "Million Dollar Boost For Parkinson’s Diseases"
-date: 2002-11-14
-source-url: https://www.scoop.co.nz/stories/ED0211/S00032/million-dollar-boost-for-parkinsons-diseases.htm
+title: Million Dollar Boost For Parkinson’s Diseases
+date: 2002-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00032/million-dollar-boost-for-parkinsons-diseases.htm
 author: university-of-otago
+permalink: /archive/2002/11/14/million-dollar-boost-for-parkinsons-diseases/index.html
+layout: layout.njk
 ---
 Million Dollar Boost For Parkinson’s Diseases
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: inquiry-needed-into-springhill-prison-excesses
-title: "Inquiry needed into Springhill Prison excesses"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/PA0403/S00696/inquiry-needed-into-springhill-prison-excesses.htm
+title: Inquiry needed into Springhill Prison excesses
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00696/inquiry-needed-into-springhill-prison-excesses.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/31/inquiry-needed-into-springhill-prison-excesses/index.html
+layout: layout.njk
 ---
 Inquiry needed into Springhill Prison excesses
 ==============================================

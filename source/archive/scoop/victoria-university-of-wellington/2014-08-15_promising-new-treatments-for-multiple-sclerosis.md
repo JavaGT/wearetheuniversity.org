@@ -1,9 +1,12 @@
 ---
 slug: promising-new-treatments-for-multiple-sclerosis
-title: "Promising new treatments for multiple sclerosis"
-date: 2014-08-15
-source-url: https://www.scoop.co.nz/stories/SC1408/S00041/promising-new-treatments-for-multiple-sclerosis.htm
+title: Promising new treatments for multiple sclerosis
+date: 2014-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00041/promising-new-treatments-for-multiple-sclerosis.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/15/promising-new-treatments-for-multiple-sclerosis/index.html
+layout: layout.njk
 ---
 Promising new treatments for multiple sclerosis
 ===============================================

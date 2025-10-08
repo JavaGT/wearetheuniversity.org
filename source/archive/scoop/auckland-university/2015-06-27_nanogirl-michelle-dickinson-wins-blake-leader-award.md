@@ -1,9 +1,13 @@
 ---
 slug: nanogirl-michelle-dickinson-wins-blake-leader-award
-title: "‘Nanogirl’ Michelle Dickinson wins Blake Leader Award"
-date: 2015-06-27
-source-url: https://www.scoop.co.nz/stories/ED1506/S00136/nanogirl-michelle-dickinson-wins-blake-leader-award.htm
+title: ‘Nanogirl’ Michelle Dickinson wins Blake Leader Award
+date: 2015-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00136/nanogirl-michelle-dickinson-wins-blake-leader-award.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/06/27/nanogirl-michelle-dickinson-wins-blake-leader-award/index.html
+layout: layout.njk
 ---
 ‘Nanogirl’ Michelle Dickinson wins Blake Leader Award
 =====================================================

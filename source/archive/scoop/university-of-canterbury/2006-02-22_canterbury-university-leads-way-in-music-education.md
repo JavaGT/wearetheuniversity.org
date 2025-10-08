@@ -1,9 +1,13 @@
 ---
 slug: canterbury-university-leads-way-in-music-education
-title: "Canterbury University leads way in music education"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/ED0602/S00062/canterbury-university-leads-way-in-music-education.htm
+title: Canterbury University leads way in music education
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00062/canterbury-university-leads-way-in-music-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/02/22/canterbury-university-leads-way-in-music-education/index.html
+layout: layout.njk
 ---
 Canterbury University leads way in music education
 ==================================================

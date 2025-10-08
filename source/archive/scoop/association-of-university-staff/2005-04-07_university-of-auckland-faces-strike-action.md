@@ -1,9 +1,12 @@
 ---
 slug: university-of-auckland-faces-strike-action
-title: "University of Auckland faces strike action"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/ED0504/S00015/university-of-auckland-faces-strike-action.htm
+title: University of Auckland faces strike action
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00015/university-of-auckland-faces-strike-action.htm
 author: association-of-university-staff
+permalink: /archive/2005/04/07/university-of-auckland-faces-strike-action/index.html
+layout: layout.njk
 ---
 University of Auckland faces strike action
 ==========================================

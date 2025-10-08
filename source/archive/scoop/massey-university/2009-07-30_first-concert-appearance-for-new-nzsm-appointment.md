@@ -1,9 +1,13 @@
 ---
 slug: first-concert-appearance-for-new-nzsm-appointment
-title: "First concert appearance for new NZSM appointment"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/ED0907/S00109/first-concert-appearance-for-new-nzsm-appointment.htm
+title: First concert appearance for new NZSM appointment
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00109/first-concert-appearance-for-new-nzsm-appointment.htm
 author: massey-university
+permalink: >-
+  /archive/2009/07/30/first-concert-appearance-for-new-nzsm-appointment/index.html
+layout: layout.njk
 ---
 First concert appearance for new NZSM appointment
 =================================================

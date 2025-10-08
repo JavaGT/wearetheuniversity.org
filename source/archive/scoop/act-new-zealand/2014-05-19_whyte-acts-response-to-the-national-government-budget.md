@@ -1,9 +1,13 @@
 ---
 slug: whyte-acts-response-to-the-national-government-budget
-title: "Whyte: ACT’s response to the National Government budget"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/PA1405/S00357/whyte-acts-response-to-the-national-government-budget.htm
+title: 'Whyte: ACT’s response to the National Government budget'
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00357/whyte-acts-response-to-the-national-government-budget.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/05/19/whyte-acts-response-to-the-national-government-budget/index.html
+layout: layout.njk
 ---
 Whyte: ACT’s response to the National Government budget
 =======================================================

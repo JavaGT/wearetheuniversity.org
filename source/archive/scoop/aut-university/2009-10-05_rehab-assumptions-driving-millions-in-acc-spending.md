@@ -1,9 +1,13 @@
 ---
 slug: rehab-assumptions-driving-millions-in-acc-spending
-title: "Rehab assumptions driving millions in ACC spending"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/GE0910/S00008/rehab-assumptions-driving-millions-in-acc-spending.htm
+title: Rehab assumptions driving millions in ACC spending
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0910/S00008/rehab-assumptions-driving-millions-in-acc-spending.htm
 author: aut-university
+permalink: >-
+  /archive/2009/10/05/rehab-assumptions-driving-millions-in-acc-spending/index.html
+layout: layout.njk
 ---
 Rehab assumptions driving millions in ACC spending
 ==================================================

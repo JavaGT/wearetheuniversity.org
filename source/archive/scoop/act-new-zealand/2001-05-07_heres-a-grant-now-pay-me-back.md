@@ -1,9 +1,12 @@
 ---
 slug: heres-a-grant-now-pay-me-back
-title: "Here’s a Grant...  Now Pay Me Back."
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/PA0105/S00137/heres-a-grant-now-pay-me-back.htm
+title: Here’s a Grant...  Now Pay Me Back.
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00137/heres-a-grant-now-pay-me-back.htm
 author: act-new-zealand
+permalink: /archive/2001/05/07/heres-a-grant-now-pay-me-back/index.html
+layout: layout.njk
 ---
 Here’s a Grant... Now Pay Me Back.
 ==================================

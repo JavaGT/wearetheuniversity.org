@@ -1,9 +1,11 @@
 ---
 slug: act-to-campaign-overseas
-title: "ACT To Campaign Overseas"
-date: 2002-06-13
+title: ACT To Campaign Overseas
+date: 2002-06-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00209/act-to-campaign-overseas.htm
 author: act-new-zealand
+permalink: /archive/2002/06/13/act-to-campaign-overseas/index.html
+layout: layout.njk
 ---
 ACT To Campaign Overseas
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: the-vital-role-of-private-sector-housing
-title: "The Vital Role of Private Sector Housing"
-date: 2002-05-14
-source-url: https://www.scoop.co.nz/stories/PA0205/S00286/the-vital-role-of-private-sector-housing.htm
+title: The Vital Role of Private Sector Housing
+date: 2002-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00286/the-vital-role-of-private-sector-housing.htm
 author: act-new-zealand
+permalink: /archive/2002/05/14/the-vital-role-of-private-sector-housing/index.html
+layout: layout.njk
 ---
 The Vital Role of Private Sector Housing
 ========================================

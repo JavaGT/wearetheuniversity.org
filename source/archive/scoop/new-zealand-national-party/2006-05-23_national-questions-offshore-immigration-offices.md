@@ -1,9 +1,12 @@
 ---
 slug: national-questions-offshore-immigration-offices
-title: "National questions offshore immigration offices"
-date: 2006-05-23
-source-url: https://www.scoop.co.nz/stories/PA0605/S00533/national-questions-offshore-immigration-offices.htm
+title: National questions offshore immigration offices
+date: 2006-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00533/national-questions-offshore-immigration-offices.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/23/national-questions-offshore-immigration-offices/index.html
+layout: layout.njk
 ---
 National questions offshore immigration offices
 ===============================================

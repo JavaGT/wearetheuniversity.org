@@ -1,9 +1,12 @@
 ---
 slug: māori-party-celebrates-wānanga-students-success
-title: "Māori Party celebrates Wānanga students’ success"
-date: 2014-04-11
-source-url: https://www.scoop.co.nz/stories/PA1404/S00217/maori-party-celebrates-wananga-students-success.htm
+title: Māori Party celebrates Wānanga students’ success
+date: 2014-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00217/maori-party-celebrates-wananga-students-success.htm
 author: te-pati-maori
+permalink: /archive/2014/04/11/m/index.html
+layout: layout.njk
 ---
 Māori Party celebrates Wānanga students’ success
 ================================================

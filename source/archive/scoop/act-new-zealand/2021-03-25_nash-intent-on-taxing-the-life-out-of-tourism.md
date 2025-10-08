@@ -1,9 +1,12 @@
 ---
 slug: nash-intent-on-taxing-the-life-out-of-tourism
-title: "Nash Intent On Taxing The Life Out Of Tourism"
-date: 2021-03-25
-source-url: https://www.scoop.co.nz/stories/PA2103/S00202/nash-intent-on-taxing-the-life-out-of-tourism.htm
+title: Nash Intent On Taxing The Life Out Of Tourism
+date: 2021-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00202/nash-intent-on-taxing-the-life-out-of-tourism.htm
 author: act-new-zealand
+permalink: /archive/2021/03/25/nash-intent-on-taxing-the-life-out-of-tourism/index.html
+layout: layout.njk
 ---
 Nash Intent On Taxing The Life Out Of Tourism
 =============================================

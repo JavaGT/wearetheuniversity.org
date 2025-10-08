@@ -1,9 +1,12 @@
 ---
 slug: vic-students-vote-to-keep-their-national-voice
-title: "Vic students vote to keep their national voice"
-date: 2015-09-25
-source-url: https://www.scoop.co.nz/stories/ED1509/S00147/vic-students-vote-to-keep-their-national-voice.htm
+title: Vic students vote to keep their national voice
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00147/vic-students-vote-to-keep-their-national-voice.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/09/25/vic-students-vote-to-keep-their-national-voice/index.html
+layout: layout.njk
 ---
 Vic students vote to keep their national voice
 ==============================================

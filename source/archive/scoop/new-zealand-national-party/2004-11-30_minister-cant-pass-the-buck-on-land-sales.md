@@ -1,9 +1,12 @@
 ---
 slug: minister-cant-pass-the-buck-on-land-sales
-title: "Minister can't pass the buck on land sales"
-date: 2004-11-30
-source-url: https://www.scoop.co.nz/stories/PA0411/S00646/minister-cant-pass-the-buck-on-land-sales.htm
+title: Minister can't pass the buck on land sales
+date: 2004-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00646/minister-cant-pass-the-buck-on-land-sales.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/30/minister-cant-pass-the-buck-on-land-sales/index.html
+layout: layout.njk
 ---
 Minister can't pass the buck on land sales
 ==========================================

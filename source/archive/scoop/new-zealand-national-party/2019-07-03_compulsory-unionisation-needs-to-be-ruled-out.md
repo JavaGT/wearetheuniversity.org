@@ -1,9 +1,12 @@
 ---
 slug: compulsory-unionisation-needs-to-be-ruled-out
-title: "Compulsory unionisation needs to be ruled out"
-date: 2019-07-03
-source-url: https://www.scoop.co.nz/stories/PA1907/S00025/compulsory-unionisation-needs-to-be-ruled-out.htm
+title: Compulsory unionisation needs to be ruled out
+date: 2019-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00025/compulsory-unionisation-needs-to-be-ruled-out.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/03/compulsory-unionisation-needs-to-be-ruled-out/index.html
+layout: layout.njk
 ---
 Compulsory unionisation needs to be ruled out
 =============================================

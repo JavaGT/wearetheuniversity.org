@@ -1,9 +1,12 @@
 ---
 slug: dont-cut-our-future-says-young-labour
-title: "\"Don't cut our future\" says Young Labour"
-date: 2011-05-21
-source-url: https://www.scoop.co.nz/stories/PO1105/S00350/dont-cut-our-future-says-young-labour.htm
+title: '"Don''t cut our future" says Young Labour'
+date: 2011-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00350/dont-cut-our-future-says-young-labour.htm
 author: young-labour
+permalink: /archive/2011/05/21/dont-cut-our-future-says-young-labour/index.html
+layout: layout.njk
 ---
 "Don't cut our future" says Young Labour
 ========================================

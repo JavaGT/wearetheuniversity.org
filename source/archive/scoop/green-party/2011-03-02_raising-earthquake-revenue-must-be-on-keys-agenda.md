@@ -1,9 +1,13 @@
 ---
 slug: raising-earthquake-revenue-must-be-on-keys-agenda
-title: "Raising earthquake revenue must be on Key’s agenda"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/PA1103/S00025/raising-earthquake-revenue-must-be-on-keys-agenda.htm
+title: Raising earthquake revenue must be on Key’s agenda
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00025/raising-earthquake-revenue-must-be-on-keys-agenda.htm
 author: green-party
+permalink: >-
+  /archive/2011/03/02/raising-earthquake-revenue-must-be-on-keys-agenda/index.html
+layout: layout.njk
 ---
 Raising earthquake revenue must be on Key’s agenda
 ==================================================

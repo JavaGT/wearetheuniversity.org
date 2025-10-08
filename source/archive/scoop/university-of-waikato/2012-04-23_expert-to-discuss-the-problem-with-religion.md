@@ -1,9 +1,12 @@
 ---
 slug: expert-to-discuss-the-problem-with-religion
-title: "Expert To Discuss The Problem With Religion"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/ED1204/S00083/expert-to-discuss-the-problem-with-religion.htm
+title: Expert To Discuss The Problem With Religion
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00083/expert-to-discuss-the-problem-with-religion.htm
 author: university-of-waikato
+permalink: /archive/2012/04/23/expert-to-discuss-the-problem-with-religion/index.html
+layout: layout.njk
 ---
 Expert To Discuss The Problem With Religion
 ===========================================

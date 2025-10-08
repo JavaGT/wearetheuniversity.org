@@ -1,9 +1,12 @@
 ---
 slug: voices-from-hospitalitys-front-line
-title: "Voices From Hospitality's Front Line"
-date: 2022-04-08
-source-url: https://www.scoop.co.nz/stories/BU2204/S00157/voices-from-hospitalitys-front-line.htm
+title: Voices From Hospitality's Front Line
+date: 2022-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2204/S00157/voices-from-hospitalitys-front-line.htm
 author: aut-university
+permalink: /archive/2022/04/08/voices-from-hospitalitys-front-line/index.html
+layout: layout.njk
 ---
 Voices From Hospitality's Front Line
 ====================================

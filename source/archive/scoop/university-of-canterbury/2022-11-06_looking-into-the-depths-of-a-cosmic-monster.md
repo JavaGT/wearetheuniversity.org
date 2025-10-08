@@ -1,9 +1,12 @@
 ---
 slug: looking-into-the-depths-of-a-cosmic-monster
-title: "Looking Into The Depths Of A Cosmic Monster"
-date: 2022-11-06
-source-url: https://www.scoop.co.nz/stories/SC2211/S00011/looking-into-the-depths-of-a-cosmic-monster.htm
+title: Looking Into The Depths Of A Cosmic Monster
+date: 2022-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2211/S00011/looking-into-the-depths-of-a-cosmic-monster.htm
 author: university-of-canterbury
+permalink: /archive/2022/11/06/looking-into-the-depths-of-a-cosmic-monster/index.html
+layout: layout.njk
 ---
 Looking Into The Depths Of A Cosmic Monster
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: the-national-party-and-older-new-zealanders
-title: "The National Party and Older New Zealanders"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/PA0504/S00242/the-national-party-and-older-new-zealanders.htm
+title: The National Party and Older New Zealanders
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00242/the-national-party-and-older-new-zealanders.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/12/the-national-party-and-older-new-zealanders/index.html
+layout: layout.njk
 ---
 The National Party and Older New Zealanders
 ===========================================

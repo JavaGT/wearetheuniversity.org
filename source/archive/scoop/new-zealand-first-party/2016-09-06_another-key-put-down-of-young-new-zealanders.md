@@ -1,9 +1,12 @@
 ---
 slug: another-key-put-down-of-young-new-zealanders
-title: "Another Key put-down of young New Zealanders"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/PA1609/S00097/another-key-put-down-of-young-new-zealanders.htm
+title: Another Key put-down of young New Zealanders
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00097/another-key-put-down-of-young-new-zealanders.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/06/another-key-put-down-of-young-new-zealanders/index.html
+layout: layout.njk
 ---
 Another Key put-down of young New Zealanders
 ============================================

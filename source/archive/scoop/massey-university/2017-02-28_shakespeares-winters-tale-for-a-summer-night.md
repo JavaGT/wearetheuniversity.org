@@ -1,9 +1,12 @@
 ---
 slug: shakespeares-winters-tale-for-a-summer-night
-title: "Shakespeare’s Winter’s Tale for a summer night"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/CU1702/S00496/shakespeares-winters-tale-for-a-summer-night.htm
+title: Shakespeare’s Winter’s Tale for a summer night
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1702/S00496/shakespeares-winters-tale-for-a-summer-night.htm
 author: massey-university
+permalink: /archive/2017/02/28/shakespeares-winters-tale-for-a-summer-night/index.html
+layout: layout.njk
 ---
 Shakespeare’s Winter’s Tale for a summer night
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: lamb-tariffs-expose-apec-farce-says-green-party
-title: "Lamb Tariffs Expose APEC Farce Says Green Party"
-date: 1999-07-08
-source-url: https://www.scoop.co.nz/stories/PA9907/S00111/lamb-tariffs-expose-apec-farce-says-green-party.htm
+title: Lamb Tariffs Expose APEC Farce Says Green Party
+date: 1999-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00111/lamb-tariffs-expose-apec-farce-says-green-party.htm
 author: green-party
+permalink: /archive/1999/07/08/lamb-tariffs-expose-apec-farce-says-green-party/index.html
+layout: layout.njk
 ---
 Lamb Tariffs Expose APEC Farce Says Green Party
 ===============================================

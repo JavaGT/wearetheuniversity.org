@@ -1,9 +1,13 @@
 ---
 slug: uc-research-looking-at-alternative-energy-capture-&-storage
-title: "UC research looking at alternative energy capture & storage"
-date: 2013-11-08
-source-url: https://www.scoop.co.nz/stories/SC1311/S00025/uc-research-looking-at-alternative-energy-capture-storage.htm
+title: UC research looking at alternative energy capture & storage
+date: 2013-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00025/uc-research-looking-at-alternative-energy-capture-storage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/08/uc-research-looking-at-alternative-energy-capture-/index.html
+layout: layout.njk
 ---
 UC research looking at alternative energy capture & storage
 ===========================================================

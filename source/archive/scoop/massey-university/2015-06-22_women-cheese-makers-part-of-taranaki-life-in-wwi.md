@@ -1,9 +1,13 @@
 ---
 slug: women-cheese-makers-part-of-taranaki-life-in-wwi
-title: "Women cheese-makers part of Taranaki life in WWI"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/ED1506/S00110/women-cheese-makers-part-of-taranaki-life-in-wwi.htm
+title: Women cheese-makers part of Taranaki life in WWI
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00110/women-cheese-makers-part-of-taranaki-life-in-wwi.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/22/women-cheese-makers-part-of-taranaki-life-in-wwi/index.html
+layout: layout.njk
 ---
 Women cheese-makers part of Taranaki life in WWI
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-`imagine-no-possessions…
-title: "Future Lefts - `Imagine no possessions…’"
-date: 2000-07-05
-source-url: https://www.scoop.co.nz/stories/PO0007/S00018/future-lefts-imagine-no-possessions.htm
+title: Future Lefts - `Imagine no possessions…’
+date: 2000-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0007/S00018/future-lefts-imagine-no-possessions.htm
 author: young-labour
+permalink: /archive/2000/07/05/future-lefts-/index.html
+layout: layout.njk
 ---
 Future Lefts - \`Imagine no possessions…’
 =========================================

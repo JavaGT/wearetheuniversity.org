@@ -1,9 +1,13 @@
 ---
 slug: government-must-walk-the-talk-on-commitment-to-te-reo-māori
-title: "Government Must Walk The Talk On Commitment To Te Reo Māori"
-date: 2020-09-14
-source-url: https://www.scoop.co.nz/stories/PA2009/S00112/government-must-walk-the-talk-on-commitment-to-te-reo-maori.htm
+title: Government Must Walk The Talk On Commitment To Te Reo Māori
+date: 2020-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00112/government-must-walk-the-talk-on-commitment-to-te-reo-maori.htm
 author: green-party
+permalink: >-
+  /archive/2020/09/14/government-must-walk-the-talk-on-commitment-to-te-reo-m/index.html
+layout: layout.njk
 ---
 Government Must Walk The Talk On Commitment To Te Reo Māori
 ===========================================================

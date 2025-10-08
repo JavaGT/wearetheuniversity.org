@@ -1,9 +1,12 @@
 ---
 slug: whats-going-wong-dancing-on-a-pinhead
-title: "What's Going wONg: Dancing on a Pinhead"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/PA0504/S00008/whats-going-wong-dancing-on-a-pinhead.htm
+title: 'What''s Going wONg: Dancing on a Pinhead'
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00008/whats-going-wong-dancing-on-a-pinhead.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/01/whats-going-wong-dancing-on-a-pinhead/index.html
+layout: layout.njk
 ---
 What's Going wONg: Dancing on a Pinhead
 =======================================

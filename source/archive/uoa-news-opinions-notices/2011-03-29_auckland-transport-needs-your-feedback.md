@@ -1,8 +1,11 @@
 ---
 slug: auckland-transport-needs-your-feedback
-title: "Auckland Transport needs your feedback"
-date: 2011-03-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/29/Auckland-Transport-needs-your-feedback.html
+title: Auckland Transport needs your feedback
+date: 2011-03-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/03/29/Auckland-Transport-needs-your-feedback.html
+permalink: /archive/2011/03/29/auckland-transport-needs-your-feedback/index.html
+layout: layout.njk
 ---
 Auckland Transport needs your feedback
 ======================================

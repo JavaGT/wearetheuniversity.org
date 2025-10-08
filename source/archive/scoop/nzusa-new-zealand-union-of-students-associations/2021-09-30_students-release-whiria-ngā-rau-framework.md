@@ -1,9 +1,12 @@
 ---
 slug: students-release-whiria-ngā-rau-framework
-title: "Students Release Whiria Ngā Rau Framework"
-date: 2021-09-30
-source-url: https://www.scoop.co.nz/stories/ED2109/S00049/students-release-whiria-nga-rau-framework.htm
+title: Students Release Whiria Ngā Rau Framework
+date: 2021-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00049/students-release-whiria-nga-rau-framework.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2021/09/30/students-release-whiria-ng/index.html
+layout: layout.njk
 ---
 Students Release Whiria Ngā Rau Framework
 =========================================

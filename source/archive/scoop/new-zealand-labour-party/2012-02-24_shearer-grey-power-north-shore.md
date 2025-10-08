@@ -1,9 +1,12 @@
 ---
 slug: shearer-grey-power-north-shore
-title: "Shearer: Grey Power North Shore"
-date: 2012-02-24
-source-url: https://www.scoop.co.nz/stories/PA1202/S00286/shearer-grey-power-north-shore.htm
+title: 'Shearer: Grey Power North Shore'
+date: 2012-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00286/shearer-grey-power-north-shore.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/24/shearer-grey-power-north-shore/index.html
+layout: layout.njk
 ---
 Shearer: Grey Power North Shore
 ===============================

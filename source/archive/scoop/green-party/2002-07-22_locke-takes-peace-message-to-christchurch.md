@@ -1,9 +1,12 @@
 ---
 slug: locke-takes-peace-message-to-christchurch
-title: "Locke Takes Peace Message To Christchurch"
-date: 2002-07-22
-source-url: https://www.scoop.co.nz/stories/PA0207/S00573/locke-takes-peace-message-to-christchurch.htm
+title: Locke Takes Peace Message To Christchurch
+date: 2002-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00573/locke-takes-peace-message-to-christchurch.htm
 author: green-party
+permalink: /archive/2002/07/22/locke-takes-peace-message-to-christchurch/index.html
+layout: layout.njk
 ---
 Locke Takes Peace Message To Christchurch
 =========================================

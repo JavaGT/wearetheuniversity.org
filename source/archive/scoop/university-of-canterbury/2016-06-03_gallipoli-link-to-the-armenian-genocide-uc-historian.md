@@ -1,9 +1,13 @@
 ---
 slug: gallipoli-link-to-the-armenian-genocide-uc-historian
-title: "Gallipoli link to the Armenian genocide - UC historian"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/ED1606/S00012/gallipoli-link-to-the-armenian-genocide-uc-historian.htm
+title: Gallipoli link to the Armenian genocide - UC historian
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00012/gallipoli-link-to-the-armenian-genocide-uc-historian.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/06/03/gallipoli-link-to-the-armenian-genocide-uc-historian/index.html
+layout: layout.njk
 ---
 Gallipoli link to the Armenian genocide - UC historian
 ======================================================

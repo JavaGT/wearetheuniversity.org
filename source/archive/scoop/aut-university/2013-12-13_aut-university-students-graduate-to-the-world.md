@@ -1,9 +1,12 @@
 ---
 slug: aut-university-students-graduate-to-the-world
-title: "AUT University students graduate to the world"
-date: 2013-12-13
-source-url: https://www.scoop.co.nz/stories/ED1312/S00093/aut-university-students-graduate-to-the-world.htm
+title: AUT University students graduate to the world
+date: 2013-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00093/aut-university-students-graduate-to-the-world.htm
 author: aut-university
+permalink: /archive/2013/12/13/aut-university-students-graduate-to-the-world/index.html
+layout: layout.njk
 ---
 AUT University students graduate to the world
 =============================================

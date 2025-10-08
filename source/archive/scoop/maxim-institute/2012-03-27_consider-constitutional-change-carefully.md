@@ -1,9 +1,12 @@
 ---
 slug: consider-constitutional-change-carefully
-title: "Consider Constitutional Change Carefully"
-date: 2012-03-27
-source-url: https://www.scoop.co.nz/stories/PO1203/S00344/consider-constitutional-change-carefully.htm
+title: Consider Constitutional Change Carefully
+date: 2012-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00344/consider-constitutional-change-carefully.htm
 author: maxim-institute
+permalink: /archive/2012/03/27/consider-constitutional-change-carefully/index.html
+layout: layout.njk
 ---
 Consider Constitutional Change Carefully
 ========================================

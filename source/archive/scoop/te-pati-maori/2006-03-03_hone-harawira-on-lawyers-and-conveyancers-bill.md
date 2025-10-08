@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-on-lawyers-and-conveyancers-bill
-title: "Hone Harawira on Lawyers And Conveyancers Bill"
-date: 2006-03-03
-source-url: https://www.scoop.co.nz/stories/PA0603/S00067/hone-harawira-on-lawyers-and-conveyancers-bill.htm
+title: Hone Harawira on Lawyers And Conveyancers Bill
+date: 2006-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00067/hone-harawira-on-lawyers-and-conveyancers-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/03/03/hone-harawira-on-lawyers-and-conveyancers-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira on Lawyers And Conveyancers Bill
 ==============================================

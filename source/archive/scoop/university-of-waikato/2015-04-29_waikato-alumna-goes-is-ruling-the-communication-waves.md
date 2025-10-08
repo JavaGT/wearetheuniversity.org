@@ -1,9 +1,13 @@
 ---
 slug: waikato-alumna-goes-is-ruling-the-communication-waves
-title: "Waikato alumna goes is ruling the communication waves"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/ED1504/S00074/waikato-alumna-goes-is-ruling-the-communication-waves.htm
+title: Waikato alumna goes is ruling the communication waves
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00074/waikato-alumna-goes-is-ruling-the-communication-waves.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/04/29/waikato-alumna-goes-is-ruling-the-communication-waves/index.html
+layout: layout.njk
 ---
 Waikato alumna goes is ruling the communication waves
 =====================================================

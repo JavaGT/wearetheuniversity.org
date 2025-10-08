@@ -1,9 +1,13 @@
 ---
 slug: professor-suzanne-pitama-appointed-dean-of-christchurch-campus
-title: "Professor Suzanne Pitama Appointed Dean Of Christchurch Campus"
-date: 2021-12-02
-source-url: https://www.scoop.co.nz/stories/ED2112/S00009/professor-suzanne-pitama-appointed-dean-of-christchurch-campus.htm
+title: Professor Suzanne Pitama Appointed Dean Of Christchurch Campus
+date: 2021-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00009/professor-suzanne-pitama-appointed-dean-of-christchurch-campus.htm
 author: university-of-otago
+permalink: >-
+  /archive/2021/12/02/professor-suzanne-pitama-appointed-dean-of-christchurch-campus/index.html
+layout: layout.njk
 ---
 Professor Suzanne Pitama Appointed Dean Of Christchurch Campus
 ==============================================================

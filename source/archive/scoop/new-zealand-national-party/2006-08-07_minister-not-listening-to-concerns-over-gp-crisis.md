@@ -1,9 +1,13 @@
 ---
 slug: minister-not-listening-to-concerns-over-gp-crisis
-title: "Minister not listening to concerns over GP crisis"
-date: 2006-08-07
-source-url: https://www.scoop.co.nz/stories/PA0608/S00103/minister-not-listening-to-concerns-over-gp-crisis.htm
+title: Minister not listening to concerns over GP crisis
+date: 2006-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00103/minister-not-listening-to-concerns-over-gp-crisis.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/08/07/minister-not-listening-to-concerns-over-gp-crisis/index.html
+layout: layout.njk
 ---
 Minister not listening to concerns over GP crisis
 =================================================

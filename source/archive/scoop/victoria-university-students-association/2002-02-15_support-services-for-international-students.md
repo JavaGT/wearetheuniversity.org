@@ -1,9 +1,12 @@
 ---
 slug: support-services-for-international-students
-title: "Support Services For International Students"
-date: 2002-02-15
-source-url: https://www.scoop.co.nz/stories/ED0202/S00012/support-services-for-international-students.htm
+title: Support Services For International Students
+date: 2002-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00012/support-services-for-international-students.htm
 author: victoria-university-students-association
+permalink: /archive/2002/02/15/support-services-for-international-students/index.html
+layout: layout.njk
 ---
 Support Services For International Students
 ===========================================

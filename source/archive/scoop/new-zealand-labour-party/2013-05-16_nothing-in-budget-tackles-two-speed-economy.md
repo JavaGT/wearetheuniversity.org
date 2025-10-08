@@ -1,9 +1,12 @@
 ---
 slug: nothing-in-budget-tackles-two-speed-economy
-title: "Nothing in budget tackles two-speed economy"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00338/nothing-in-budget-tackles-two-speed-economy.htm
+title: Nothing in budget tackles two-speed economy
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00338/nothing-in-budget-tackles-two-speed-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/16/nothing-in-budget-tackles-two-speed-economy/index.html
+layout: layout.njk
 ---
 Nothing in budget tackles two-speed economy
 ===========================================

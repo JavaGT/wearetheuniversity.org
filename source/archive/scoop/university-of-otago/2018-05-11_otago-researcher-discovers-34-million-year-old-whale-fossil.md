@@ -1,9 +1,13 @@
 ---
 slug: otago-researcher-discovers-34-million-year-old-whale-fossil
-title: "Otago researcher discovers 34 million-year-old whale fossil"
-date: 2018-05-11
-source-url: https://www.scoop.co.nz/stories/SC1805/S00031/otago-researcher-discovers-34-million-year-old-whale-fossil.htm
+title: Otago researcher discovers 34 million-year-old whale fossil
+date: 2018-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00031/otago-researcher-discovers-34-million-year-old-whale-fossil.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/11/otago-researcher-discovers-34-million-year-old-whale-fossil/index.html
+layout: layout.njk
 ---
 Otago researcher discovers 34 million-year-old whale fossil
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-taxation-bill-speech
-title: "Sharples: Taxation Bill Speech"
-date: 2005-12-09
-source-url: https://www.scoop.co.nz/stories/PA0512/S00125/sharples-taxation-bill-speech.htm
+title: 'Sharples: Taxation Bill Speech'
+date: 2005-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00125/sharples-taxation-bill-speech.htm
 author: te-pati-maori
+permalink: /archive/2005/12/09/sharples-taxation-bill-speech/index.html
+layout: layout.njk
 ---
 Sharples: Taxation Bill Speech
 ==============================

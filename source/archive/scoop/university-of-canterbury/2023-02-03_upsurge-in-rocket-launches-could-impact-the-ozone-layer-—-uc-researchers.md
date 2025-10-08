@@ -1,9 +1,13 @@
 ---
 slug: upsurge-in-rocket-launches-could-impact-the-ozone-layer-—-uc-researchers
-title: "Upsurge In Rocket Launches Could Impact The Ozone Layer — UC Researchers"
-date: 2023-02-03
-source-url: https://www.scoop.co.nz/stories/SC2302/S00005/upsurge-in-rocket-launches-could-impact-the-ozone-layer-uc-researchers.htm
+title: Upsurge In Rocket Launches Could Impact The Ozone Layer — UC Researchers
+date: 2023-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2302/S00005/upsurge-in-rocket-launches-could-impact-the-ozone-layer-uc-researchers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/02/03/upsurge-in-rocket-launches-could-impact-the-ozone-layer-/index.html
+layout: layout.njk
 ---
 Upsurge In Rocket Launches Could Impact The Ozone Layer — UC Researchers
 ========================================================================

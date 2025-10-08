@@ -1,9 +1,12 @@
 ---
 slug: forst-backs-lincoln-university-researchers
-title: "FoRST backs Lincoln University researchers"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/SC0707/S00041/forst-backs-lincoln-university-researchers.htm
+title: FoRST backs Lincoln University researchers
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0707/S00041/forst-backs-lincoln-university-researchers.htm
 author: lincoln-university
+permalink: /archive/2007/07/19/forst-backs-lincoln-university-researchers/index.html
+layout: layout.njk
 ---
 FoRST backs Lincoln University researchers
 ==========================================

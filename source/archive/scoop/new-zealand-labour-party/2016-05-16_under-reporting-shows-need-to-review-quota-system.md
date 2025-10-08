@@ -1,9 +1,13 @@
 ---
 slug: under-reporting-shows-need-to-review-quota-system
-title: "Under-reporting shows need to review quota system"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/PA1605/S00276/under-reporting-shows-need-to-review-quota-system.htm
+title: Under-reporting shows need to review quota system
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00276/under-reporting-shows-need-to-review-quota-system.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/16/under-reporting-shows-need-to-review-quota-system/index.html
+layout: layout.njk
 ---
 Under-reporting shows need to review quota system
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-party-backs-call-from-tahiti-tangata-whenua
-title: "Maori Party backs call from Tahiti tangata whenua"
-date: 2011-09-06
-source-url: https://www.scoop.co.nz/stories/PA1109/S00107/maori-party-backs-call-from-tahiti-tangata-whenua.htm
+title: Maori Party backs call from Tahiti tangata whenua
+date: 2011-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00107/maori-party-backs-call-from-tahiti-tangata-whenua.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/09/06/maori-party-backs-call-from-tahiti-tangata-whenua/index.html
+layout: layout.njk
 ---
 Maori Party backs call from Tahiti tangata whenua
 =================================================

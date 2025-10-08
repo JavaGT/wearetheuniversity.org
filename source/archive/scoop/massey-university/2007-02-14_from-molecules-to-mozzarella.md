@@ -1,9 +1,11 @@
 ---
 slug: from-molecules-to-mozzarella
-title: "From molecules to mozzarella"
-date: 2007-02-14
+title: From molecules to mozzarella
+date: 2007-02-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0702/S00028/from-molecules-to-mozzarella.htm
 author: massey-university
+permalink: /archive/2007/02/14/from-molecules-to-mozzarella/index.html
+layout: layout.njk
 ---
 From molecules to mozzarella
 ============================

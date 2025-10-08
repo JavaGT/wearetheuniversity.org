@@ -1,9 +1,12 @@
 ---
 slug: turia-when-same-actually-means-different
-title: "Turia: When 'same' actually means 'different'?"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/PA0605/S00228/turia-when-same-actually-means-different.htm
+title: 'Turia: When ''same'' actually means ''different''?'
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00228/turia-when-same-actually-means-different.htm
 author: te-pati-maori
+permalink: /archive/2006/05/10/turia-when-same-actually-means-different/index.html
+layout: layout.njk
 ---
 Turia: When 'same' actually means 'different'?
 ==============================================

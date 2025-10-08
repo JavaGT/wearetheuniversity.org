@@ -1,9 +1,12 @@
 ---
 slug: green-party-spokespeople-2002
-title: "Green Party spokespeople 2002"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/PA0208/S00189/green-party-spokespeople-2002.htm
+title: Green Party spokespeople 2002
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00189/green-party-spokespeople-2002.htm
 author: green-party
+permalink: /archive/2002/08/22/green-party-spokespeople-2002/index.html
+layout: layout.njk
 ---
 Green Party spokespeople 2002
 =============================

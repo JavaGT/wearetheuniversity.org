@@ -1,9 +1,12 @@
 ---
 slug: advertising-standards-authority-fails-children
-title: "Advertising Standards Authority fails children"
-date: 2010-04-28
-source-url: https://www.scoop.co.nz/stories/GE1004/S00135/advertising-standards-authority-fails-children.htm
+title: Advertising Standards Authority fails children
+date: 2010-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1004/S00135/advertising-standards-authority-fails-children.htm
 author: university-of-otago
+permalink: /archive/2010/04/28/advertising-standards-authority-fails-children/index.html
+layout: layout.njk
 ---
 Advertising Standards Authority fails children
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: high-levels-of-student-success-without-national-standards
-title: "High Levels of Student Success without National Standards"
-date: 2010-12-08
-source-url: https://www.scoop.co.nz/stories/ED1012/S00034/high-levels-of-student-success-without-national-standards.htm
+title: High Levels of Student Success without National Standards
+date: 2010-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00034/high-levels-of-student-success-without-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2010/12/08/high-levels-of-student-success-without-national-standards/index.html
+layout: layout.njk
 ---
 High Levels of Student Success without National Standards
 =========================================================

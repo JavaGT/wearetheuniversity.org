@@ -1,9 +1,13 @@
 ---
 slug: otago-study-shows-giant-problem-looms-for-ageing-kiwis
-title: "Otago study shows \"giant\" problem looms for ageing Kiwis"
-date: 2018-05-14
-source-url: https://www.scoop.co.nz/stories/GE1805/S00058/otago-study-shows-giant-problem-looms-for-ageing-kiwis.htm
+title: Otago study shows "giant" problem looms for ageing Kiwis
+date: 2018-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00058/otago-study-shows-giant-problem-looms-for-ageing-kiwis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/14/otago-study-shows-giant-problem-looms-for-ageing-kiwis/index.html
+layout: layout.njk
 ---
 Otago study shows “giant” problem looms for ageing Kiwis
 ========================================================

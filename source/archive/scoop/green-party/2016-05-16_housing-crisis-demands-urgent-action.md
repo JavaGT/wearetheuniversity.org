@@ -1,9 +1,12 @@
 ---
 slug: housing-crisis-demands-urgent-action
-title: "Housing crisis demands urgent action"
-date: 2016-05-16
-source-url: https://www.scoop.co.nz/stories/PA1605/S00273/housing-crisis-demands-urgent-action.htm
+title: Housing crisis demands urgent action
+date: 2016-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00273/housing-crisis-demands-urgent-action.htm
 author: green-party
+permalink: /archive/2016/05/16/housing-crisis-demands-urgent-action/index.html
+layout: layout.njk
 ---
 Housing crisis demands urgent action
 ====================================

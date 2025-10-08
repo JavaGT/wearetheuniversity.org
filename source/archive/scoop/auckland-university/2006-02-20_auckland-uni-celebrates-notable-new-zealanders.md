@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-celebrates-notable-new-zealanders
-title: "Auckland Uni celebrates notable New Zealanders"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/ED0602/S00047/auckland-uni-celebrates-notable-new-zealanders.htm
+title: Auckland Uni celebrates notable New Zealanders
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00047/auckland-uni-celebrates-notable-new-zealanders.htm
 author: auckland-university
+permalink: /archive/2006/02/20/auckland-uni-celebrates-notable-new-zealanders/index.html
+layout: layout.njk
 ---
 Auckland Uni celebrates notable New Zealanders
 ==============================================

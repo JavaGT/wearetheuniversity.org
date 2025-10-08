@@ -1,9 +1,13 @@
 ---
 slug: speaker-will-talk-from-experience-about-community-resilience
-title: "Speaker will talk from experience about community resilience"
-date: 2014-11-13
-source-url: https://www.scoop.co.nz/stories/ED1411/S00080/speaker-will-talk-from-experience-about-community-resilience.htm
+title: Speaker will talk from experience about community resilience
+date: 2014-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00080/speaker-will-talk-from-experience-about-community-resilience.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/13/speaker-will-talk-from-experience-about-community-resilience/index.html
+layout: layout.njk
 ---
 Speaker will talk from experience about community resilience
 ============================================================

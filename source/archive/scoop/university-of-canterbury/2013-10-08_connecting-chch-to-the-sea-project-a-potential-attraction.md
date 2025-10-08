@@ -1,9 +1,13 @@
 ---
 slug: connecting-chch-to-the-sea-project-a-potential-attraction
-title: "Connecting Chch to the sea project a potential attraction"
-date: 2013-10-08
-source-url: https://www.scoop.co.nz/stories/AK1310/S00325/connecting-chch-to-the-sea-project-a-potential-attraction.htm
+title: Connecting Chch to the sea project a potential attraction
+date: 2013-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00325/connecting-chch-to-the-sea-project-a-potential-attraction.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/08/connecting-chch-to-the-sea-project-a-potential-attraction/index.html
+layout: layout.njk
 ---
 Connecting Chch to the sea project a potential attraction
 =========================================================

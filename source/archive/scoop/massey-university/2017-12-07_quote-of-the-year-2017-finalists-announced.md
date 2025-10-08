@@ -1,9 +1,12 @@
 ---
 slug: quote-of-the-year-2017-finalists-announced
-title: "Quote of the Year 2017 Finalists Announced"
-date: 2017-12-07
-source-url: https://www.scoop.co.nz/stories/CU1712/S00100/quote-of-the-year-2017-finalists-announced.htm
+title: Quote of the Year 2017 Finalists Announced
+date: 2017-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1712/S00100/quote-of-the-year-2017-finalists-announced.htm
 author: massey-university
+permalink: /archive/2017/12/07/quote-of-the-year-2017-finalists-announced/index.html
+layout: layout.njk
 ---
 Quote of the Year 2017 Finalists Announced
 ==========================================

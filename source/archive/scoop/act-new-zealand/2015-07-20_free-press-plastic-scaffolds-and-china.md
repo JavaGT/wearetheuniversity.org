@@ -1,9 +1,12 @@
 ---
 slug: free-press-plastic-scaffolds-and-china
-title: "Free Press - Plastic, scaffolds, and China"
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/PA1507/S00314/free-press-plastic-scaffolds-and-china.htm
+title: Free Press - Plastic, scaffolds, and China
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00314/free-press-plastic-scaffolds-and-china.htm
 author: act-new-zealand
+permalink: /archive/2015/07/20/free-press-plastic-scaffolds-and-china/index.html
+layout: layout.njk
 ---
 Free Press - Plastic, scaffolds, and China
 ==========================================

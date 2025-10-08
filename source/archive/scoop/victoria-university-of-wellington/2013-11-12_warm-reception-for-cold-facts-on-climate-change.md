@@ -1,9 +1,12 @@
 ---
 slug: warm-reception-for-cold-facts-on-climate-change
-title: "Warm reception for cold facts on climate change"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/SC1311/S00034/warm-reception-for-cold-facts-on-climate-change.htm
+title: Warm reception for cold facts on climate change
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00034/warm-reception-for-cold-facts-on-climate-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/12/warm-reception-for-cold-facts-on-climate-change/index.html
+layout: layout.njk
 ---
 Warm reception for cold facts on climate change
 ===============================================

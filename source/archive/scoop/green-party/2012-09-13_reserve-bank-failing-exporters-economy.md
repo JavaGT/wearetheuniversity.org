@@ -1,9 +1,12 @@
 ---
 slug: reserve-bank-failing-exporters-economy
-title: "Reserve Bank failing exporters, economy"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/PA1209/S00188/reserve-bank-failing-exporters-economy.htm
+title: Reserve Bank failing exporters, economy
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00188/reserve-bank-failing-exporters-economy.htm
 author: green-party
+permalink: /archive/2012/09/13/reserve-bank-failing-exporters-economy/index.html
+layout: layout.njk
 ---
 Reserve Bank failing exporters, economy
 =======================================

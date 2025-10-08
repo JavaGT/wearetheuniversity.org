@@ -1,9 +1,12 @@
 ---
 slug: screening-for-pregnancy-endpoints
-title: "Screening for Pregnancy Endpoints"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/ED0412/S00055/screening-for-pregnancy-endpoints.htm
+title: Screening for Pregnancy Endpoints
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00055/screening-for-pregnancy-endpoints.htm
 author: auckland-university
+permalink: /archive/2004/12/15/screening-for-pregnancy-endpoints/index.html
+layout: layout.njk
 ---
 Screening for Pregnancy Endpoints
 =================================

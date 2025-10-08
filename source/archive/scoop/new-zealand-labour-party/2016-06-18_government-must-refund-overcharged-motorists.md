@@ -1,9 +1,12 @@
 ---
 slug: government-must-refund-overcharged-motorists
-title: "Government must refund overcharged motorists"
-date: 2016-06-18
-source-url: https://www.scoop.co.nz/stories/PO1606/S00222/government-must-refund-overcharged-motorists.htm
+title: Government must refund overcharged motorists
+date: 2016-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00222/government-must-refund-overcharged-motorists.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/18/government-must-refund-overcharged-motorists/index.html
+layout: layout.njk
 ---
 Government must refund overcharged motorists
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-gives-no-guarantees-over-dam-sales
-title: "Govt. gives no guarantees over dam sales"
-date: 2012-03-01
-source-url: https://www.scoop.co.nz/stories/PA1203/S00021/govt-gives-no-guarantees-over-dam-sales.htm
+title: Govt. gives no guarantees over dam sales
+date: 2012-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00021/govt-gives-no-guarantees-over-dam-sales.htm
 author: green-party
+permalink: /archive/2012/03/01/govt-gives-no-guarantees-over-dam-sales/index.html
+layout: layout.njk
 ---
 Govt. gives no guarantees over dam sales
 ========================================

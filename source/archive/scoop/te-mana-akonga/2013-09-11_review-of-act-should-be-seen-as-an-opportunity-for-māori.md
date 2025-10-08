@@ -1,9 +1,13 @@
 ---
 slug: review-of-act-should-be-seen-as-an-opportunity-for-māori
-title: "Review of Act should be seen as an opportunity for Māori"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/PO1309/S00119/review-of-act-should-be-seen-as-an-opportunity-for-maori.htm
+title: Review of Act should be seen as an opportunity for Māori
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00119/review-of-act-should-be-seen-as-an-opportunity-for-maori.htm
 author: te-mana-akonga
+permalink: >-
+  /archive/2013/09/11/review-of-act-should-be-seen-as-an-opportunity-for-m/index.html
+layout: layout.njk
 ---
 Review of Act should be seen as an opportunity for Māori
 ========================================================

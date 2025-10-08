@@ -1,9 +1,12 @@
 ---
 slug: want-to-own-a-home-but-not-even-looking
-title: "Want to own a home – but not even looking"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/ED1412/S00055/want-to-own-a-home-but-not-even-looking.htm
+title: Want to own a home – but not even looking
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00055/want-to-own-a-home-but-not-even-looking.htm
 author: massey-university
+permalink: /archive/2014/12/09/want-to-own-a-home-but-not-even-looking/index.html
+layout: layout.njk
 ---
 Want to own a home – but not even looking
 =========================================

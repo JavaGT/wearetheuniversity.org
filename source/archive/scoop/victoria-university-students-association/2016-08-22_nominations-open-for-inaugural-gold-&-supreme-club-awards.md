@@ -1,9 +1,12 @@
 ---
 slug: nominations-open-for-inaugural-gold-&-supreme-club-awards
-title: "Nominations open for inaugural Gold & Supreme Club Awards"
-date: 2016-08-22
-source-url: https://www.scoop.co.nz/stories/ED1608/S00059/nominations-open-for-inaugural-gold-supreme-club-awards.htm
+title: Nominations open for inaugural Gold & Supreme Club Awards
+date: 2016-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00059/nominations-open-for-inaugural-gold-supreme-club-awards.htm
 author: victoria-university-students-association
+permalink: /archive/2016/08/22/nominations-open-for-inaugural-gold-/index.html
+layout: layout.njk
 ---
 Nominations open for inaugural Gold & Supreme Club Awards
 =========================================================

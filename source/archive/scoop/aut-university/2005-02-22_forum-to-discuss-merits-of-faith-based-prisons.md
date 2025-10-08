@@ -1,9 +1,12 @@
 ---
 slug: forum-to-discuss-merits-of-faith-based-prisons
-title: "Forum to discuss merits of faith-based prisons"
-date: 2005-02-22
-source-url: https://www.scoop.co.nz/stories/ED0502/S00072/forum-to-discuss-merits-of-faith-based-prisons.htm
+title: Forum to discuss merits of faith-based prisons
+date: 2005-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00072/forum-to-discuss-merits-of-faith-based-prisons.htm
 author: aut-university
+permalink: /archive/2005/02/22/forum-to-discuss-merits-of-faith-based-prisons/index.html
+layout: layout.njk
 ---
 Forum to discuss merits of faith-based prisons
 ==============================================

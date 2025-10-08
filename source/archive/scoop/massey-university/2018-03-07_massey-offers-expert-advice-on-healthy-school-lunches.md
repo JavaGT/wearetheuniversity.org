@@ -1,9 +1,13 @@
 ---
 slug: massey-offers-expert-advice-on-healthy-school-lunches
-title: "Massey offers expert advice on healthy school lunches"
-date: 2018-03-07
-source-url: https://www.scoop.co.nz/stories/ED1803/S00028/massey-offers-expert-advice-on-healthy-school-lunches.htm
+title: Massey offers expert advice on healthy school lunches
+date: 2018-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00028/massey-offers-expert-advice-on-healthy-school-lunches.htm
 author: massey-university
+permalink: >-
+  /archive/2018/03/07/massey-offers-expert-advice-on-healthy-school-lunches/index.html
+layout: layout.njk
 ---
 Massey offers expert advice on healthy school lunches
 =====================================================

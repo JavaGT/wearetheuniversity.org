@@ -1,9 +1,12 @@
 ---
 slug: parents-right-to-be-angry-over-school-reviews
-title: "Parents right to be angry over school reviews"
-date: 2005-07-04
-source-url: https://www.scoop.co.nz/stories/PA0507/S00062/parents-right-to-be-angry-over-school-reviews.htm
+title: Parents right to be angry over school reviews
+date: 2005-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00062/parents-right-to-be-angry-over-school-reviews.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/04/parents-right-to-be-angry-over-school-reviews/index.html
+layout: layout.njk
 ---
 Parents right to be angry over school reviews
 =============================================

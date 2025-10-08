@@ -1,9 +1,11 @@
 ---
 slug: more-students-but-less-money
-title: "More students but less money"
-date: 2016-05-27
+title: More students but less money
+date: 2016-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1605/S00122/more-students-but-less-money.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/05/27/more-students-but-less-money/index.html
+layout: layout.njk
 ---
 More students but less money
 ============================

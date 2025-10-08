@@ -1,9 +1,13 @@
 ---
 slug: three-uc-graduates-win-fulbright-scholarships-to-study-in-us
-title: "Three UC graduates win Fulbright scholarships to study in US"
-date: 2019-06-17
-source-url: https://www.scoop.co.nz/stories/ED1906/S00032/three-uc-graduates-win-fulbright-scholarships-to-study-in-us.htm
+title: Three UC graduates win Fulbright scholarships to study in US
+date: 2019-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00032/three-uc-graduates-win-fulbright-scholarships-to-study-in-us.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/06/17/three-uc-graduates-win-fulbright-scholarships-to-study-in-us/index.html
+layout: layout.njk
 ---
 Three UC graduates win Fulbright scholarships to study in US
 ============================================================

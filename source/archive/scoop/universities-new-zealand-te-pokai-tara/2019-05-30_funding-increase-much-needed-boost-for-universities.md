@@ -1,9 +1,13 @@
 ---
 slug: funding-increase-much-needed-boost-for-universities
-title: "Funding increase much-needed boost for universities"
-date: 2019-05-30
-source-url: https://www.scoop.co.nz/stories/PO1905/S00492/funding-increase-much-needed-boost-for-universities.htm
+title: Funding increase much-needed boost for universities
+date: 2019-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00492/funding-increase-much-needed-boost-for-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/05/30/funding-increase-much-needed-boost-for-universities/index.html
+layout: layout.njk
 ---
 Funding increase much-needed boost for universities
 ===================================================

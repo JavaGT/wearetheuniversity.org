@@ -1,9 +1,13 @@
 ---
 slug: taxing-sugary-drinks-a-no-brainer-for-new-zealand
-title: "Taxing sugary drinks a no-brainer for New Zealand"
-date: 2018-04-03
-source-url: https://www.scoop.co.nz/stories/PO1804/S00008/taxing-sugary-drinks-a-no-brainer-for-new-zealand.htm
+title: Taxing sugary drinks a no-brainer for New Zealand
+date: 2018-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00008/taxing-sugary-drinks-a-no-brainer-for-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/03/taxing-sugary-drinks-a-no-brainer-for-new-zealand/index.html
+layout: layout.njk
 ---
 Taxing sugary drinks a no-brainer for New Zealand
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-selling-assets-returning-healthy-profits
-title: "National selling assets returning healthy profits"
-date: 2011-12-22
-source-url: https://www.scoop.co.nz/stories/PA1112/S00180/national-selling-assets-returning-healthy-profits.htm
+title: National selling assets returning healthy profits
+date: 2011-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00180/national-selling-assets-returning-healthy-profits.htm
 author: green-party
+permalink: >-
+  /archive/2011/12/22/national-selling-assets-returning-healthy-profits/index.html
+layout: layout.njk
 ---
 National selling assets returning healthy profits
 =================================================

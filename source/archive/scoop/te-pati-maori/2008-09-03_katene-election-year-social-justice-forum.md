@@ -1,9 +1,12 @@
 ---
 slug: katene-election-year-social-justice-forum
-title: "Katene: Election Year Social Justice Forum"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/PO0809/S00027/katene-election-year-social-justice-forum.htm
+title: 'Katene: Election Year Social Justice Forum'
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00027/katene-election-year-social-justice-forum.htm
 author: te-pati-maori
+permalink: /archive/2008/09/03/katene-election-year-social-justice-forum/index.html
+layout: layout.njk
 ---
 Katene: Election Year Social Justice Forum
 ==========================================

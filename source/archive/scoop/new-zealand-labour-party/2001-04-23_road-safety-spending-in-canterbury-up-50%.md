@@ -1,9 +1,12 @@
 ---
 slug: road-safety-spending-in-canterbury-up-50%
-title: "Road Safety Spending in Canterbury Up 50%"
-date: 2001-04-23
-source-url: https://www.scoop.co.nz/stories/PA0104/S00321/road-safety-spending-in-canterbury-up-50.htm
+title: Road Safety Spending in Canterbury Up 50%
+date: 2001-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00321/road-safety-spending-in-canterbury-up-50.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/04/23/road-safety-spending-in-canterbury-up-50/index.html
+layout: layout.njk
 ---
 Road Safety Spending in Canterbury Up 50%
 =========================================

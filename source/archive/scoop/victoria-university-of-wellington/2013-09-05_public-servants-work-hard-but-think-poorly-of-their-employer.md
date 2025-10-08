@@ -1,9 +1,13 @@
 ---
 slug: public-servants-work-hard-but-think-poorly-of-their-employer
-title: "Public servants work hard but think poorly of their employer"
-date: 2013-09-05
-source-url: https://www.scoop.co.nz/stories/SC1309/S00010/public-servants-work-hard-but-think-poorly-of-their-employer.htm
+title: Public servants work hard but think poorly of their employer
+date: 2013-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00010/public-servants-work-hard-but-think-poorly-of-their-employer.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/09/05/public-servants-work-hard-but-think-poorly-of-their-employer/index.html
+layout: layout.njk
 ---
 Public servants work hard but think poorly of their employer
 ============================================================

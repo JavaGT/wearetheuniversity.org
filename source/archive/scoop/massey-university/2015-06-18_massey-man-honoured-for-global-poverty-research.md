@@ -1,9 +1,12 @@
 ---
 slug: massey-man-honoured-for-global-poverty-research
-title: "Massey man honoured for global poverty research"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/ED1506/S00086/massey-man-honoured-for-global-poverty-research.htm
+title: Massey man honoured for global poverty research
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00086/massey-man-honoured-for-global-poverty-research.htm
 author: massey-university
+permalink: /archive/2015/06/18/massey-man-honoured-for-global-poverty-research/index.html
+layout: layout.njk
 ---
 Massey man honoured for global poverty research
 ===============================================

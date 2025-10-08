@@ -1,9 +1,12 @@
 ---
 slug: harawira-to-smoke-or-to-choke
-title: "Harawira: To Smoke or to Choke"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00337/harawira-to-smoke-or-to-choke.htm
+title: 'Harawira: To Smoke or to Choke'
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00337/harawira-to-smoke-or-to-choke.htm
 author: te-pati-maori
+permalink: /archive/2009/09/23/harawira-to-smoke-or-to-choke/index.html
+layout: layout.njk
 ---
 Harawira: To Smoke or to Choke
 ==============================

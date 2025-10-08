@@ -1,9 +1,13 @@
 ---
 slug: labour-to-release-canterbury-earthquake-recovery-package
-title: "Labour to release Canterbury Earthquake Recovery Package"
-date: 2011-09-18
-source-url: https://www.scoop.co.nz/stories/PA1109/S00366/labour-to-release-canterbury-earthquake-recovery-package.htm
+title: Labour to release Canterbury Earthquake Recovery Package
+date: 2011-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00366/labour-to-release-canterbury-earthquake-recovery-package.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/18/labour-to-release-canterbury-earthquake-recovery-package/index.html
+layout: layout.njk
 ---
 Labour to release Canterbury Earthquake Recovery Package
 ========================================================

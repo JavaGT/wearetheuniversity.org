@@ -1,9 +1,12 @@
 ---
 slug: students-help-research-effects-of-chch-polution
-title: "Students Help Research Effects Of ChCh Polution"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00107/students-help-research-effects-of-chch-polution.htm
+title: Students Help Research Effects Of ChCh Polution
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00107/students-help-research-effects-of-chch-polution.htm
 author: university-of-otago
+permalink: /archive/2004/08/25/students-help-research-effects-of-chch-polution/index.html
+layout: layout.njk
 ---
 Students Help Research Effects Of ChCh Polution
 ===============================================

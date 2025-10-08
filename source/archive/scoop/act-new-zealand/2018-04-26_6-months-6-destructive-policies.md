@@ -1,9 +1,12 @@
 ---
 slug: 6-months-6-destructive-policies
-title: "6 months, 6 destructive policies"
-date: 2018-04-26
-source-url: https://www.scoop.co.nz/stories/PA1804/S00276/6-months-6-destructive-policies.htm
+title: 6 months, 6 destructive policies
+date: 2018-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00276/6-months-6-destructive-policies.htm
 author: act-new-zealand
+permalink: /archive/2018/04/26/6-months-6-destructive-policies/index.html
+layout: layout.njk
 ---
 6 months, 6 destructive policies
 ================================

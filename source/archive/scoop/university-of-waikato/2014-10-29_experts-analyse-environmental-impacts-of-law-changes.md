@@ -1,9 +1,13 @@
 ---
 slug: experts-analyse-environmental-impacts-of-law-changes
-title: "Experts analyse environmental impacts of law changes"
-date: 2014-10-29
-source-url: https://www.scoop.co.nz/stories/ED1410/S00153/experts-analyse-environmental-impacts-of-law-changes.htm
+title: Experts analyse environmental impacts of law changes
+date: 2014-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00153/experts-analyse-environmental-impacts-of-law-changes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/29/experts-analyse-environmental-impacts-of-law-changes/index.html
+layout: layout.njk
 ---
 Experts analyse environmental impacts of law changes
 ====================================================

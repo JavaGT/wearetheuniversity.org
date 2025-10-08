@@ -1,9 +1,13 @@
 ---
 slug: digitising-new-zealand-colonial-history-new-website-launched
-title: "Digitising New Zealand colonial history:new website launched"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/ED1110/S00138/digitising-new-zealand-colonial-historynew-website-launched.htm
+title: Digitising New Zealand colonial history:new website launched
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00138/digitising-new-zealand-colonial-historynew-website-launched.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/10/28/digitising-new-zealand-colonial-history-new-website-launched/index.html
+layout: layout.njk
 ---
 Digitising New Zealand colonial history:new website launched
 ============================================================

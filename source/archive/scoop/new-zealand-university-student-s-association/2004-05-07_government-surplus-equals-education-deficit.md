@@ -1,9 +1,12 @@
 ---
 slug: government-surplus-equals-education-deficit
-title: "Government surplus equals education deficit"
-date: 2004-05-07
-source-url: https://www.scoop.co.nz/stories/ED0405/S00033/government-surplus-equals-education-deficit.htm
+title: Government surplus equals education deficit
+date: 2004-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00033/government-surplus-equals-education-deficit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/05/07/government-surplus-equals-education-deficit/index.html
+layout: layout.njk
 ---
 Government surplus equals education deficit
 ===========================================

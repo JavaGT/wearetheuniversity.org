@@ -1,9 +1,12 @@
 ---
 slug: march-on-parliament-against-fee-increases
-title: "March on Parliament against fee increases"
-date: 2006-03-07
-source-url: https://www.scoop.co.nz/stories/ED0603/S00023/march-on-parliament-against-fee-increases.htm
+title: March on Parliament against fee increases
+date: 2006-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00023/march-on-parliament-against-fee-increases.htm
 author: victoria-university-students-association
+permalink: /archive/2006/03/07/march-on-parliament-against-fee-increases/index.html
+layout: layout.njk
 ---
 March on Parliament against fee increases
 =========================================

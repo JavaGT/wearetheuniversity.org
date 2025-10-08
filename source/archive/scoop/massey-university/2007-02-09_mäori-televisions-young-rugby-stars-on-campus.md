@@ -1,9 +1,12 @@
 ---
 slug: mäori-televisions-young-rugby-stars-on-campus
-title: "Mäori Television’s young rugby stars on campus"
-date: 2007-02-09
-source-url: https://www.scoop.co.nz/stories/ED0702/S00030/maori-televisions-young-rugby-stars-on-campus.htm
+title: Mäori Television’s young rugby stars on campus
+date: 2007-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00030/maori-televisions-young-rugby-stars-on-campus.htm
 author: massey-university
+permalink: /archive/2007/02/09/m/index.html
+layout: layout.njk
 ---
 Mäori Television’s young rugby stars on campus
 ==============================================

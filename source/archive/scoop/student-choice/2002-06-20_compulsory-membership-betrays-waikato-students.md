@@ -1,9 +1,12 @@
 ---
 slug: compulsory-membership-betrays-waikato-students
-title: "Compulsory Membership Betrays Waikato Students"
-date: 2002-06-20
-source-url: https://www.scoop.co.nz/stories/ED0206/S00050/compulsory-membership-betrays-waikato-students.htm
+title: Compulsory Membership Betrays Waikato Students
+date: 2002-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00050/compulsory-membership-betrays-waikato-students.htm
 author: student-choice
+permalink: /archive/2002/06/20/compulsory-membership-betrays-waikato-students/index.html
+layout: layout.njk
 ---
 Compulsory Membership Betrays Waikato Students
 ==============================================

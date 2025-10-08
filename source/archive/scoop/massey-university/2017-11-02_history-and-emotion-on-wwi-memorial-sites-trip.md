@@ -1,9 +1,12 @@
 ---
 slug: history-and-emotion-on-wwi-memorial-sites-trip
-title: "History and emotion on WWI memorial sites trip"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/ED1711/S00009/history-and-emotion-on-wwi-memorial-sites-trip.htm
+title: History and emotion on WWI memorial sites trip
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00009/history-and-emotion-on-wwi-memorial-sites-trip.htm
 author: massey-university
+permalink: /archive/2017/11/02/history-and-emotion-on-wwi-memorial-sites-trip/index.html
+layout: layout.njk
 ---
 History and emotion on WWI memorial sites trip
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: stop-stealing-our-thunder-says-peters
-title: "Stop Stealing Our Thunder Says Peters"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/PA0810/S00023/stop-stealing-our-thunder-says-peters.htm
+title: Stop Stealing Our Thunder Says Peters
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00023/stop-stealing-our-thunder-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/01/stop-stealing-our-thunder-says-peters/index.html
+layout: layout.njk
 ---
 Stop Stealing Our Thunder Says Peters
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: new-earthquake-proof-building-technology-live-test-a-success
-title: "New Earthquake-Proof Building Technology Live Test a Success"
-date: 2019-05-28
-source-url: https://www.scoop.co.nz/stories/ED1905/S00084/new-earthquake-proof-building-technology-live-test-a-success.htm
+title: New Earthquake-Proof Building Technology Live Test a Success
+date: 2019-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00084/new-earthquake-proof-building-technology-live-test-a-success.htm
 author: aut-university
+permalink: >-
+  /archive/2019/05/28/new-earthquake-proof-building-technology-live-test-a-success/index.html
+layout: layout.njk
 ---
 New Earthquake-Proof Building Technology Live Test a Success
 ============================================================

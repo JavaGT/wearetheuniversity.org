@@ -1,9 +1,12 @@
 ---
 slug: university-staff-reserve-judgement
-title: "University staff reserve judgement"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/ED0205/S00072/university-staff-reserve-judgement.htm
+title: University staff reserve judgement
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00072/university-staff-reserve-judgement.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/30/university-staff-reserve-judgement/index.html
+layout: layout.njk
 ---
 University staff reserve judgement
 ==================================

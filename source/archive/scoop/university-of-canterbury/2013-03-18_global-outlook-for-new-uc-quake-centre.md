@@ -1,9 +1,12 @@
 ---
 slug: global-outlook-for-new-uc-quake-centre
-title: "Global Outlook For New UC Quake Centre"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/ED1303/S00117/global-outlook-for-new-uc-quake-centre.htm
+title: Global Outlook For New UC Quake Centre
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00117/global-outlook-for-new-uc-quake-centre.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/18/global-outlook-for-new-uc-quake-centre/index.html
+layout: layout.njk
 ---
 Global Outlook For New UC Quake Centre
 ======================================

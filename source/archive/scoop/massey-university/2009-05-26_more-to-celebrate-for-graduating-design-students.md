@@ -1,9 +1,13 @@
 ---
 slug: more-to-celebrate-for-graduating-design-students
-title: "More to celebrate for graduating design students"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/ED0905/S00106/more-to-celebrate-for-graduating-design-students.htm
+title: More to celebrate for graduating design students
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00106/more-to-celebrate-for-graduating-design-students.htm
 author: massey-university
+permalink: >-
+  /archive/2009/05/26/more-to-celebrate-for-graduating-design-students/index.html
+layout: layout.njk
 ---
 More to celebrate for graduating design students
 ================================================

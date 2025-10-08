@@ -1,9 +1,12 @@
 ---
 slug: government-must-bite-the-bullet-over-christine
-title: "Government must bite the bullet over Christine"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/PA0006/S00034/government-must-bite-the-bullet-over-christine.htm
+title: Government must bite the bullet over Christine
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00034/government-must-bite-the-bullet-over-christine.htm
 author: green-party
+permalink: /archive/2000/06/01/government-must-bite-the-bullet-over-christine/index.html
+layout: layout.njk
 ---
 Government must bite the bullet over Christine
 ==============================================

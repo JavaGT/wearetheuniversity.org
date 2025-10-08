@@ -1,9 +1,12 @@
 ---
 slug: renowned-kenyan-writer-and-academic-to-speak
-title: "Renowned Kenyan writer and academic to speak"
-date: 2005-07-12
-source-url: https://www.scoop.co.nz/stories/ED0507/S00047/renowned-kenyan-writer-and-academic-to-speak.htm
+title: Renowned Kenyan writer and academic to speak
+date: 2005-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00047/renowned-kenyan-writer-and-academic-to-speak.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/12/renowned-kenyan-writer-and-academic-to-speak/index.html
+layout: layout.njk
 ---
 Renowned Kenyan writer and academic to speak
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: two-decades-of-decline-continues
-title: "Two Decades Of Decline Continues"
-date: 2000-07-13
-source-url: https://www.scoop.co.nz/stories/ED0007/S00014/two-decades-of-decline-continues.htm
+title: Two Decades Of Decline Continues
+date: 2000-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00014/two-decades-of-decline-continues.htm
 author: association-of-university-staff
+permalink: /archive/2000/07/13/two-decades-of-decline-continues/index.html
+layout: layout.njk
 ---
 Two Decades Of Decline Continues
 ================================

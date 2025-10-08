@@ -1,9 +1,13 @@
 ---
 slug: chris-bishop-speech-to-property-council-residential-development-summit
-title: "Chris Bishop: Speech To Property Council Residential Development Summit"
-date: 2023-03-09
-source-url: https://www.scoop.co.nz/stories/PA2303/S00074/chris-bishop-speech-to-property-council-residential-development-summit.htm
+title: 'Chris Bishop: Speech To Property Council Residential Development Summit'
+date: 2023-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00074/chris-bishop-speech-to-property-council-residential-development-summit.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/09/chris-bishop-speech-to-property-council-residential-development-summit/index.html
+layout: layout.njk
 ---
 Chris Bishop: Speech To Property Council Residential Development Summit
 =======================================================================

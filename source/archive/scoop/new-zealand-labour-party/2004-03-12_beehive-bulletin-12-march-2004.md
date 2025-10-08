@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-12-march-2004
-title: "Beehive Bulletin - 12 March 2004"
-date: 2004-03-12
-source-url: https://www.scoop.co.nz/stories/PA0403/S00279/beehive-bulletin-12-march-2004.htm
+title: Beehive Bulletin - 12 March 2004
+date: 2004-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00279/beehive-bulletin-12-march-2004.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/03/12/beehive-bulletin-12-march-2004/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - 12 March 2004
 ================================

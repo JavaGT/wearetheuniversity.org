@@ -1,9 +1,13 @@
 ---
 slug: hutt-secondary-schools-lifting-student-achievement
-title: "Hutt secondary schools lifting student achievement"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/PA1504/S00292/hutt-secondary-schools-lifting-student-achievement.htm
+title: Hutt secondary schools lifting student achievement
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00292/hutt-secondary-schools-lifting-student-achievement.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/04/23/hutt-secondary-schools-lifting-student-achievement/index.html
+layout: layout.njk
 ---
 Hutt secondary schools lifting student achievement
 ==================================================

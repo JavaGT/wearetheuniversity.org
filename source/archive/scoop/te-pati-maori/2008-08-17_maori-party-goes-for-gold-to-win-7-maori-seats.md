@@ -1,9 +1,12 @@
 ---
 slug: maori-party-goes-for-gold-to-win-7-maori-seats
-title: "Maori Party goes for gold to win 7 Maori seats"
-date: 2008-08-17
-source-url: https://www.scoop.co.nz/stories/PO0808/S00209/maori-party-goes-for-gold-to-win-7-maori-seats.htm
+title: Maori Party goes for gold to win 7 Maori seats
+date: 2008-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00209/maori-party-goes-for-gold-to-win-7-maori-seats.htm
 author: te-pati-maori
+permalink: /archive/2008/08/17/maori-party-goes-for-gold-to-win-7-maori-seats/index.html
+layout: layout.njk
 ---
 Maori Party goes for gold to win 7 Maori seats
 ==============================================

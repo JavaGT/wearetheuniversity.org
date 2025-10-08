@@ -1,9 +1,12 @@
 ---
 slug: record-turnout-for-young-labour
-title: "Record turnout for Young Labour"
-date: 2007-04-18
-source-url: https://www.scoop.co.nz/stories/PO0704/S00219/record-turnout-for-young-labour.htm
+title: Record turnout for Young Labour
+date: 2007-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00219/record-turnout-for-young-labour.htm
 author: young-labour
+permalink: /archive/2007/04/18/record-turnout-for-young-labour/index.html
+layout: layout.njk
 ---
 Record turnout for Young Labour
 ===============================

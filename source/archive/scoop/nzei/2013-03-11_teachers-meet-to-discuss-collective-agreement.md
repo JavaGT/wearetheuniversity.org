@@ -1,9 +1,12 @@
 ---
 slug: teachers-meet-to-discuss-collective-agreement
-title: "Teachers meet to discuss collective agreement"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/ED1303/S00072/teachers-meet-to-discuss-collective-agreement.htm
+title: Teachers meet to discuss collective agreement
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00072/teachers-meet-to-discuss-collective-agreement.htm
 author: nzei
+permalink: /archive/2013/03/11/teachers-meet-to-discuss-collective-agreement/index.html
+layout: layout.njk
 ---
 Teachers meet to discuss collective agreement
 =============================================

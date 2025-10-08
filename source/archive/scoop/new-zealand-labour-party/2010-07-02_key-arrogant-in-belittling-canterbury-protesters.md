@@ -1,9 +1,13 @@
 ---
 slug: key-arrogant-in-belittling-canterbury-protesters
-title: "Key arrogant in belittling Canterbury protesters"
-date: 2010-07-02
-source-url: https://www.scoop.co.nz/stories/PA1007/S00072/key-arrogant-in-belittling-canterbury-protesters.htm
+title: Key arrogant in belittling Canterbury protesters
+date: 2010-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00072/key-arrogant-in-belittling-canterbury-protesters.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/02/key-arrogant-in-belittling-canterbury-protesters/index.html
+layout: layout.njk
 ---
 Key arrogant in belittling Canterbury protesters
 ================================================

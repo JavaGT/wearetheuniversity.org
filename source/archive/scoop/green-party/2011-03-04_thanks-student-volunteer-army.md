@@ -1,9 +1,12 @@
 ---
 slug: thanks-student-volunteer-army
-title: "Thanks Student Volunteer Army"
-date: 2011-03-04
-source-url: https://www.scoop.co.nz/stories/PA1103/S00050/thanks-student-volunteer-army.htm
+title: Thanks Student Volunteer Army
+date: 2011-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00050/thanks-student-volunteer-army.htm
 author: green-party
+permalink: /archive/2011/03/04/thanks-student-volunteer-army/index.html
+layout: layout.njk
 ---
 Thanks Student Volunteer Army
 =============================

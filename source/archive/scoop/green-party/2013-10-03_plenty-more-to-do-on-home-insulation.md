@@ -1,9 +1,12 @@
 ---
 slug: plenty-more-to-do-on-home-insulation
-title: "Plenty more to do on home insulation"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/PA1310/S00067/plenty-more-to-do-on-home-insulation.htm
+title: Plenty more to do on home insulation
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00067/plenty-more-to-do-on-home-insulation.htm
 author: green-party
+permalink: /archive/2013/10/03/plenty-more-to-do-on-home-insulation/index.html
+layout: layout.njk
 ---
 Plenty more to do on home insulation
 ====================================

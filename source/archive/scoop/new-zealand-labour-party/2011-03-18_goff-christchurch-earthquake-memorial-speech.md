@@ -1,9 +1,12 @@
 ---
 slug: goff-christchurch-earthquake-memorial-speech
-title: "Goff - Christchurch earthquake memorial speech"
-date: 2011-03-18
-source-url: https://www.scoop.co.nz/stories/PA1103/S00314/goff-christchurch-earthquake-memorial-speech.htm
+title: Goff - Christchurch earthquake memorial speech
+date: 2011-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00314/goff-christchurch-earthquake-memorial-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/18/goff-christchurch-earthquake-memorial-speech/index.html
+layout: layout.njk
 ---
 Goff - Christchurch earthquake memorial speech
 ==============================================

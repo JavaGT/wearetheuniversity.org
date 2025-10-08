@@ -1,9 +1,13 @@
 ---
 slug: passports-changes-pose-citizenship-rights-threats
-title: "Passports changes pose citizenship rights threats"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/PA0403/S00615/passports-changes-pose-citizenship-rights-threats.htm
+title: Passports changes pose citizenship rights threats
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00615/passports-changes-pose-citizenship-rights-threats.htm
 author: green-party
+permalink: >-
+  /archive/2004/03/29/passports-changes-pose-citizenship-rights-threats/index.html
+layout: layout.njk
 ---
 Passports changes pose citizenship rights threats
 =================================================

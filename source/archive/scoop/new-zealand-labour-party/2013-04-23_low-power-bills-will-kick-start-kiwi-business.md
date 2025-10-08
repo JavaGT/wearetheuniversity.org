@@ -1,9 +1,12 @@
 ---
 slug: low-power-bills-will-kick-start-kiwi-business
-title: "Low power bills will kick-start Kiwi business"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/PA1304/S00447/low-power-bills-will-kick-start-kiwi-business.htm
+title: Low power bills will kick-start Kiwi business
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00447/low-power-bills-will-kick-start-kiwi-business.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/23/low-power-bills-will-kick-start-kiwi-business/index.html
+layout: layout.njk
 ---
 Low power bills will kick-start Kiwi business
 =============================================

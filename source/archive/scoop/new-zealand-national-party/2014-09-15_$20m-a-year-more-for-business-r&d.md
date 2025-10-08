@@ -1,9 +1,12 @@
 ---
 slug: $20m-a-year-more-for-business-r&d
-title: "$20m a year more for business R&D"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/PA1409/S00215/20m-a-year-more-for-business-rd.htm
+title: $20m a year more for business R&D
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00215/20m-a-year-more-for-business-rd.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/15/20m-a-year-more-for-business-r-d/index.html
+layout: layout.njk
 ---
 $20m a year more for business R&D
 =================================

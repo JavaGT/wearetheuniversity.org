@@ -1,9 +1,12 @@
 ---
 slug: another-nail-in-labours-free-trade-coffin
-title: "Another nail in Labour's free trade coffin"
-date: 2005-02-08
-source-url: https://www.scoop.co.nz/stories/PA0502/S00167/another-nail-in-labours-free-trade-coffin.htm
+title: Another nail in Labour's free trade coffin
+date: 2005-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00167/another-nail-in-labours-free-trade-coffin.htm
 author: green-party
+permalink: /archive/2005/02/08/another-nail-in-labours-free-trade-coffin/index.html
+layout: layout.njk
 ---
 Another nail in Labour's free trade coffin
 ==========================================

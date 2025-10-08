@@ -1,9 +1,13 @@
 ---
 slug: corruption-drops-as-incomes-rise-say-victoria-researchers
-title: "Corruption drops as incomes rise say Victoria researchers"
-date: 2012-01-18
-source-url: https://www.scoop.co.nz/stories/PO1201/S00058/corruption-drops-as-incomes-rise-say-victoria-researchers.htm
+title: Corruption drops as incomes rise say Victoria researchers
+date: 2012-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1201/S00058/corruption-drops-as-incomes-rise-say-victoria-researchers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/01/18/corruption-drops-as-incomes-rise-say-victoria-researchers/index.html
+layout: layout.njk
 ---
 Corruption drops as incomes rise say Victoria researchers
 =========================================================

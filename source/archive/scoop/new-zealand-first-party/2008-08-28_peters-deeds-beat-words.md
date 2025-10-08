@@ -1,9 +1,11 @@
 ---
 slug: peters-deeds-beat-words
-title: "Peters - Deeds Beat Words"
-date: 2008-08-28
+title: Peters - Deeds Beat Words
+date: 2008-08-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00471/peters-deeds-beat-words.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/28/peters-deeds-beat-words/index.html
+layout: layout.njk
 ---
 Peters - Deeds Beat Words
 =========================

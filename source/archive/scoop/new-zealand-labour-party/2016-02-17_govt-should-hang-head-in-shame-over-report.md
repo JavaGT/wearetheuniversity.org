@@ -1,9 +1,12 @@
 ---
 slug: govt-should-hang-head-in-shame-over-report
-title: "Govt should hang head in shame over report"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/PA1602/S00212/govt-should-hang-head-in-shame-over-report.htm
+title: Govt should hang head in shame over report
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00212/govt-should-hang-head-in-shame-over-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/17/govt-should-hang-head-in-shame-over-report/index.html
+layout: layout.njk
 ---
 Govt should hang head in shame over report
 ==========================================

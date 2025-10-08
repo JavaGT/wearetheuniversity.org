@@ -1,9 +1,12 @@
 ---
 slug: youth-unemployment-crisis-a-ticking-time-bomb
-title: "Youth Unemployment Crisis A Ticking Time Bomb"
-date: 2010-07-04
-source-url: https://www.scoop.co.nz/stories/PA1007/S00090/youth-unemployment-crisis-a-ticking-time-bomb.htm
+title: Youth Unemployment Crisis A Ticking Time Bomb
+date: 2010-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00090/youth-unemployment-crisis-a-ticking-time-bomb.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/04/youth-unemployment-crisis-a-ticking-time-bomb/index.html
+layout: layout.njk
 ---
 Youth Unemployment Crisis A Ticking Time Bomb
 =============================================

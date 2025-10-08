@@ -1,9 +1,12 @@
 ---
 slug: tim-van-de-molen-mp-maiden-speech
-title: "Tim van de Molen MP: Maiden speech"
-date: 2017-11-14
-source-url: https://www.scoop.co.nz/stories/PA1711/S00081/tim-van-de-molen-mp-maiden-speech.htm
+title: 'Tim van de Molen MP: Maiden speech'
+date: 2017-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00081/tim-van-de-molen-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/tim-van-de-molen-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Tim van de Molen MP: Maiden speech
 ==================================

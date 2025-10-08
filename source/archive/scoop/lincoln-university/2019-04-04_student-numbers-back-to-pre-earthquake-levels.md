@@ -1,9 +1,12 @@
 ---
 slug: student-numbers-back-to-pre-earthquake-levels
-title: "Student numbers back to pre-earthquake levels"
-date: 2019-04-04
-source-url: https://www.scoop.co.nz/stories/AK1904/S00118/student-numbers-back-to-pre-earthquake-levels.htm
+title: Student numbers back to pre-earthquake levels
+date: 2019-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1904/S00118/student-numbers-back-to-pre-earthquake-levels.htm
 author: lincoln-university
+permalink: /archive/2019/04/04/student-numbers-back-to-pre-earthquake-levels/index.html
+layout: layout.njk
 ---
 Student numbers back to pre-earthquake levels
 =============================================

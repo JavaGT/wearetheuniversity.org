@@ -1,9 +1,12 @@
 ---
 slug: students-look-forward-to-spirited-campaign
-title: "Students look forward to spirited campaign"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/ED0809/S00038/students-look-forward-to-spirited-campaign.htm
+title: Students look forward to spirited campaign
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00038/students-look-forward-to-spirited-campaign.htm
 author: auckland-university-students-association
+permalink: /archive/2008/09/12/students-look-forward-to-spirited-campaign/index.html
+layout: layout.njk
 ---
 Students look forward to spirited campaign
 ==========================================

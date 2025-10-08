@@ -1,9 +1,12 @@
 ---
 slug: aussie-unemployment-shows-benefits-of-a-plan
-title: "Aussie Unemployment Shows Benefits Of  A Plan"
-date: 2010-02-11
-source-url: https://www.scoop.co.nz/stories/PA1002/S00137/aussie-unemployment-shows-benefits-of-a-plan.htm
+title: Aussie Unemployment Shows Benefits Of  A Plan
+date: 2010-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00137/aussie-unemployment-shows-benefits-of-a-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/11/aussie-unemployment-shows-benefits-of-a-plan/index.html
+layout: layout.njk
 ---
 Aussie Unemployment Shows Benefits Of A Plan
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: tolley-leads-charge-for-choice-and-change
-title: "Tolley leads charge for choice and change"
-date: 2011-01-24
-source-url: https://www.scoop.co.nz/stories/PO1101/S00079/tolley-leads-charge-for-choice-and-change.htm
+title: Tolley leads charge for choice and change
+date: 2011-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00079/tolley-leads-charge-for-choice-and-change.htm
 author: new-zealand-young-nationals
+permalink: /archive/2011/01/24/tolley-leads-charge-for-choice-and-change/index.html
+layout: layout.njk
 ---
 Tolley leads charge for choice and change
 =========================================

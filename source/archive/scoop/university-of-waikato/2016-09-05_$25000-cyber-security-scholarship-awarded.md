@@ -1,9 +1,12 @@
 ---
 slug: $25000-cyber-security-scholarship-awarded
-title: "$25,000 Cyber Security Scholarship awarded"
-date: 2016-09-05
-source-url: https://www.scoop.co.nz/stories/ED1609/S00020/25000-cyber-security-scholarship-awarded.htm
+title: $25,000 Cyber Security Scholarship awarded
+date: 2016-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00020/25000-cyber-security-scholarship-awarded.htm
 author: university-of-waikato
+permalink: /archive/2016/09/05/25-000-cyber-security-scholarship-awarded/index.html
+layout: layout.njk
 ---
 $25,000 Cyber Security Scholarship awarded
 ==========================================

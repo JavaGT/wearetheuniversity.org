@@ -1,9 +1,12 @@
 ---
 slug: key-does-big-sell-for-more-indian-students
-title: "Key Does ‘Big Sell’ for More Indian Students"
-date: 2016-04-01
-source-url: https://www.scoop.co.nz/stories/PA1604/S00023/key-does-big-sell-for-more-indian-students.htm
+title: Key Does ‘Big Sell’ for More Indian Students
+date: 2016-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00023/key-does-big-sell-for-more-indian-students.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/01/key-does-big-sell-for-more-indian-students/index.html
+layout: layout.njk
 ---
 Key Does ‘Big Sell’ for More Indian Students
 ============================================

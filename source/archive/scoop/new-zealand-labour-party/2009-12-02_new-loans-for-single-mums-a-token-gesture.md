@@ -1,9 +1,12 @@
 ---
 slug: new-loans-for-single-mums-a-token-gesture
-title: "New loans for single mums a ‘token gesture’"
-date: 2009-12-02
-source-url: https://www.scoop.co.nz/stories/PA0912/S00024/new-loans-for-single-mums-a-token-gesture.htm
+title: New loans for single mums a ‘token gesture’
+date: 2009-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00024/new-loans-for-single-mums-a-token-gesture.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/02/new-loans-for-single-mums-a-token-gesture/index.html
+layout: layout.njk
 ---
 New loans for single mums a ‘token gesture’
 ===========================================

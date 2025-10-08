@@ -1,9 +1,13 @@
 ---
 slug: key-needs-to-get-tips-from-china-on-restricting-land-sales
-title: "Key needs to get tips from China on restricting land sales"
-date: 2014-03-18
-source-url: https://www.scoop.co.nz/stories/PA1403/S00338/key-needs-to-get-tips-from-china-on-restricting-land-sales.htm
+title: Key needs to get tips from China on restricting land sales
+date: 2014-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00338/key-needs-to-get-tips-from-china-on-restricting-land-sales.htm
 author: green-party
+permalink: >-
+  /archive/2014/03/18/key-needs-to-get-tips-from-china-on-restricting-land-sales/index.html
+layout: layout.njk
 ---
 Key needs to get tips from China on restricting land sales
 ==========================================================

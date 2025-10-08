@@ -1,9 +1,12 @@
 ---
 slug: debt-milestone-highlights-economic-millstone
-title: "Debt milestone highlights economic millstone"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00268/debt-milestone-highlights-economic-millstone.htm
+title: Debt milestone highlights economic millstone
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00268/debt-milestone-highlights-economic-millstone.htm
 author: green-party
+permalink: /archive/2008/04/10/debt-milestone-highlights-economic-millstone/index.html
+layout: layout.njk
 ---
 Debt milestone highlights economic millstone
 ============================================

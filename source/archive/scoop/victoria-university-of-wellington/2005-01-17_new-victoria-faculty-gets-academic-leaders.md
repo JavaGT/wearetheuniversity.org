@@ -1,9 +1,12 @@
 ---
 slug: new-victoria-faculty-gets-academic-leaders
-title: "New Victoria Faculty gets academic leaders"
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/ED0501/S00029/new-victoria-faculty-gets-academic-leaders.htm
+title: New Victoria Faculty gets academic leaders
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00029/new-victoria-faculty-gets-academic-leaders.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/01/17/new-victoria-faculty-gets-academic-leaders/index.html
+layout: layout.njk
 ---
 New Victoria Faculty gets academic leaders
 ==========================================

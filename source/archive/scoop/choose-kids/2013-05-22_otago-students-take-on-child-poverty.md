@@ -1,9 +1,12 @@
 ---
 slug: otago-students-take-on-child-poverty
-title: "Otago Students Take On Child Poverty"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/PO1305/S00341/otago-students-take-on-child-poverty.htm
+title: Otago Students Take On Child Poverty
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00341/otago-students-take-on-child-poverty.htm
 author: choose-kids
+permalink: /archive/2013/05/22/otago-students-take-on-child-poverty/index.html
+layout: layout.njk
 ---
 Otago Students Take On Child Poverty
 ====================================

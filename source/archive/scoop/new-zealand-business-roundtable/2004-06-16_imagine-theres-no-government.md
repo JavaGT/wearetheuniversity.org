@@ -1,9 +1,11 @@
 ---
 slug: imagine-theres-no-government
-title: "Imagine There's No Government"
-date: 2004-06-16
+title: Imagine There's No Government
+date: 2004-06-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0406/S00162/imagine-theres-no-government.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/06/16/imagine-theres-no-government/index.html
+layout: layout.njk
 ---
 Imagine There's No Government
 =============================

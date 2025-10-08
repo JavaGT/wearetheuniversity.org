@@ -1,9 +1,12 @@
 ---
 slug: greens-say-ge-advisory-body-should-go
-title: "Greens Say GE Advisory Body Should Go"
-date: 2000-03-24
-source-url: https://www.scoop.co.nz/stories/PA0003/S00428/greens-say-ge-advisory-body-should-go.htm
+title: Greens Say GE Advisory Body Should Go
+date: 2000-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00428/greens-say-ge-advisory-body-should-go.htm
 author: green-party
+permalink: /archive/2000/03/24/greens-say-ge-advisory-body-should-go/index.html
+layout: layout.njk
 ---
 Greens Say GE Advisory Body Should Go
 =====================================

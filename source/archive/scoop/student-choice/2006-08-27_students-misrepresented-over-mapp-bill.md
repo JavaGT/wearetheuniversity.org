@@ -1,9 +1,12 @@
 ---
 slug: students-misrepresented-over-mapp-bill
-title: "Students Misrepresented Over Mapp Bill"
-date: 2006-08-27
-source-url: https://www.scoop.co.nz/stories/PO0608/S00307/students-misrepresented-over-mapp-bill.htm
+title: Students Misrepresented Over Mapp Bill
+date: 2006-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0608/S00307/students-misrepresented-over-mapp-bill.htm
 author: student-choice
+permalink: /archive/2006/08/27/students-misrepresented-over-mapp-bill/index.html
+layout: layout.njk
 ---
 Students Misrepresented Over Mapp Bill
 ======================================

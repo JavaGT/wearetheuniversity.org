@@ -1,9 +1,13 @@
 ---
 slug: inquiry-needed-into-handling-of-harassment-complaints
-title: "Inquiry needed into handling of harassment complaints"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/PA1411/S00284/inquiry-needed-into-handling-of-harassment-complaints.htm
+title: Inquiry needed into handling of harassment complaints
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00284/inquiry-needed-into-handling-of-harassment-complaints.htm
 author: green-party
+permalink: >-
+  /archive/2014/11/24/inquiry-needed-into-handling-of-harassment-complaints/index.html
+layout: layout.njk
 ---
 Inquiry needed into handling of harassment complaints
 =====================================================

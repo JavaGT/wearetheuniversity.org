@@ -1,9 +1,12 @@
 ---
 slug: older-kids-need-smaller-classes-too
-title: "Older kids need smaller classes too"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00675/older-kids-need-smaller-classes-too.htm
+title: Older kids need smaller classes too
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00675/older-kids-need-smaller-classes-too.htm
 author: green-party
+permalink: /archive/2005/08/25/older-kids-need-smaller-classes-too/index.html
+layout: layout.njk
 ---
 Older kids need smaller classes too
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: what-if-people-were-complacent-about-tsunamis
-title: "What If People Were Complacent About Tsunamis?"
-date: 2013-05-03
-source-url: https://www.scoop.co.nz/stories/SC1305/S00017/what-if-people-were-complacent-about-tsunamis.htm
+title: What If People Were Complacent About Tsunamis?
+date: 2013-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00017/what-if-people-were-complacent-about-tsunamis.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/03/what-if-people-were-complacent-about-tsunamis/index.html
+layout: layout.njk
 ---
 What If People Were Complacent About Tsunamis?
 ==============================================

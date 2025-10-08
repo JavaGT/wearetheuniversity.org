@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-honours-dame-kiri-te-kanawa
-title: "Victoria University Honours Dame Kiri Te Kanawa"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/ED0508/S00079/victoria-university-honours-dame-kiri-te-kanawa.htm
+title: Victoria University Honours Dame Kiri Te Kanawa
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00079/victoria-university-honours-dame-kiri-te-kanawa.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/08/17/victoria-university-honours-dame-kiri-te-kanawa/index.html
+layout: layout.njk
 ---
 Victoria University Honours Dame Kiri Te Kanawa
 ===============================================

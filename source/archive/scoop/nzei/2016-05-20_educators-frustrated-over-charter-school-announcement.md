@@ -1,9 +1,13 @@
 ---
 slug: educators-frustrated-over-charter-school-announcement
-title: "Educators frustrated over charter school announcement"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/ED1605/S00087/educators-frustrated-over-charter-school-announcement.htm
+title: Educators frustrated over charter school announcement
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00087/educators-frustrated-over-charter-school-announcement.htm
 author: nzei
+permalink: >-
+  /archive/2016/05/20/educators-frustrated-over-charter-school-announcement/index.html
+layout: layout.njk
 ---
 Educators frustrated over charter school announcement
 =====================================================

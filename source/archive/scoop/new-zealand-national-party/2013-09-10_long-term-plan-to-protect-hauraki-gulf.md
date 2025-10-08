@@ -1,9 +1,12 @@
 ---
 slug: long-term-plan-to-protect-hauraki-gulf
-title: "Long-term plan to protect Hauraki Gulf"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/PA1309/S00190/long-term-plan-to-protect-hauraki-gulf.htm
+title: Long-term plan to protect Hauraki Gulf
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00190/long-term-plan-to-protect-hauraki-gulf.htm
 author: new-zealand-national-party
+permalink: /archive/2013/09/10/long-term-plan-to-protect-hauraki-gulf/index.html
+layout: layout.njk
 ---
 Long-term plan to protect Hauraki Gulf
 ======================================

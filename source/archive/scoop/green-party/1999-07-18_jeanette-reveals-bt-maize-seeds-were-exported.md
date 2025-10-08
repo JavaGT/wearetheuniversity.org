@@ -1,9 +1,12 @@
 ---
 slug: jeanette-reveals-bt-maize-seeds-were-exported
-title: "Jeanette Reveals BT Maize Seeds Were Exported"
-date: 1999-07-18
-source-url: https://www.scoop.co.nz/stories/PA9907/S00306/jeanette-reveals-bt-maize-seeds-were-exported.htm
+title: Jeanette Reveals BT Maize Seeds Were Exported
+date: 1999-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00306/jeanette-reveals-bt-maize-seeds-were-exported.htm
 author: green-party
+permalink: /archive/1999/07/18/jeanette-reveals-bt-maize-seeds-were-exported/index.html
+layout: layout.njk
 ---
 Jeanette Reveals BT Maize Seeds Were Exported
 =============================================

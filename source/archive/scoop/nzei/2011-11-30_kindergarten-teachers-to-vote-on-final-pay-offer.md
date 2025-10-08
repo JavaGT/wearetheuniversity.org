@@ -1,9 +1,13 @@
 ---
 slug: kindergarten-teachers-to-vote-on-final-pay-offer
-title: "Kindergarten teachers to vote on final pay offer"
-date: 2011-11-30
-source-url: https://www.scoop.co.nz/stories/ED1111/S00206/kindergarten-teachers-to-vote-on-final-pay-offer.htm
+title: Kindergarten teachers to vote on final pay offer
+date: 2011-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00206/kindergarten-teachers-to-vote-on-final-pay-offer.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/30/kindergarten-teachers-to-vote-on-final-pay-offer/index.html
+layout: layout.njk
 ---
 Kindergarten teachers to vote on final pay offer
 ================================================

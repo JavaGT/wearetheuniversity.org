@@ -1,9 +1,13 @@
 ---
 slug: uc-research-targets-dozens-of-incurable-diseases
-title: "UC research targets dozens of incurable diseases"
-date: 2017-02-20
-source-url: https://www.scoop.co.nz/stories/SC1702/S00062/uc-research-targets-dozens-of-incurable-diseases.htm
+title: UC research targets dozens of incurable diseases
+date: 2017-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00062/uc-research-targets-dozens-of-incurable-diseases.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/02/20/uc-research-targets-dozens-of-incurable-diseases/index.html
+layout: layout.njk
 ---
 UC research targets dozens of incurable diseases
 ================================================

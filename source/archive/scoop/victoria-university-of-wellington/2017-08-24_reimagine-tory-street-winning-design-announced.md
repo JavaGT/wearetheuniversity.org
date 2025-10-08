@@ -1,9 +1,12 @@
 ---
 slug: reimagine-tory-street-winning-design-announced
-title: "Reimagine Tory Street – winning design announced"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/ED1708/S00087/reimagine-tory-street-winning-design-announced.htm
+title: Reimagine Tory Street – winning design announced
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00087/reimagine-tory-street-winning-design-announced.htm
 author: victoria-university-of-wellington
+permalink: /archive/2017/08/24/reimagine-tory-street-winning-design-announced/index.html
+layout: layout.njk
 ---
 Reimagine Tory Street – winning design announced
 ================================================

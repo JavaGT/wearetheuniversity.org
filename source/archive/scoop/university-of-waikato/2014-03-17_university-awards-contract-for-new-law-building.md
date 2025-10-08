@@ -1,9 +1,12 @@
 ---
 slug: university-awards-contract-for-new-law-building
-title: "University awards contract for new Law building"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/BU1403/S00508/university-awards-contract-for-new-law-building.htm
+title: University awards contract for new Law building
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1403/S00508/university-awards-contract-for-new-law-building.htm
 author: university-of-waikato
+permalink: /archive/2014/03/17/university-awards-contract-for-new-law-building/index.html
+layout: layout.njk
 ---
 University awards contract for new Law building
 ===============================================

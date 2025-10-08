@@ -1,9 +1,12 @@
 ---
 slug: new-study-of-maori-dying-death-bereavement
-title: "New study of Maori dying, death, bereavement"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/ED1003/S00061/new-study-of-maori-dying-death-bereavement.htm
+title: New study of Maori dying, death, bereavement
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00061/new-study-of-maori-dying-death-bereavement.htm
 author: university-of-waikato
+permalink: /archive/2010/03/15/new-study-of-maori-dying-death-bereavement/index.html
+layout: layout.njk
 ---
 New study of Maori dying, death, bereavement
 ============================================

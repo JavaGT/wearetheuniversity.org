@@ -1,9 +1,12 @@
 ---
 slug: speech-seymour-epsom-rotary-club
-title: "Speech: Seymour - Epsom Rotary Club"
-date: 2018-08-28
-source-url: https://www.scoop.co.nz/stories/PA1808/S00325/speech-seymour-epsom-rotary-club.htm
+title: 'Speech: Seymour - Epsom Rotary Club'
+date: 2018-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00325/speech-seymour-epsom-rotary-club.htm
 author: act-new-zealand
+permalink: /archive/2018/08/28/speech-seymour-epsom-rotary-club/index.html
+layout: layout.njk
 ---
 Speech: Seymour - Epsom Rotary Club
 ===================================

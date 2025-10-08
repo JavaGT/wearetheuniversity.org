@@ -1,9 +1,13 @@
 ---
 slug: prestigious-marsden-fund-backs-otagos-excellent-research
-title: "Prestigious Marsden Fund backs Otago’s excellent research"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00145/prestigious-marsden-fund-backs-otagos-excellent-research.htm
+title: Prestigious Marsden Fund backs Otago’s excellent research
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00145/prestigious-marsden-fund-backs-otagos-excellent-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/25/prestigious-marsden-fund-backs-otagos-excellent-research/index.html
+layout: layout.njk
 ---
 Prestigious Marsden Fund backs Otago’s excellent research
 =========================================================

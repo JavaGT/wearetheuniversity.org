@@ -1,9 +1,12 @@
 ---
 slug: waikato-takes-three-of-four-top-honours
-title: "Waikato takes three of four top honours"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/ED1112/S00035/waikato-takes-three-of-four-top-honours.htm
+title: Waikato takes three of four top honours
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00035/waikato-takes-three-of-four-top-honours.htm
 author: university-of-waikato
+permalink: /archive/2011/12/07/waikato-takes-three-of-four-top-honours/index.html
+layout: layout.njk
 ---
 Waikato takes three of four top honours
 =======================================

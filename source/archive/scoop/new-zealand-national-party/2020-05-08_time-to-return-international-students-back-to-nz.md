@@ -1,9 +1,13 @@
 ---
 slug: time-to-return-international-students-back-to-nz
-title: "Time To Return International Students Back To NZ"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/PA2005/S00065/time-to-return-international-students-back-to-nz.htm
+title: Time To Return International Students Back To NZ
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00065/time-to-return-international-students-back-to-nz.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/08/time-to-return-international-students-back-to-nz/index.html
+layout: layout.njk
 ---
 Time To Return International Students Back To NZ
 ================================================

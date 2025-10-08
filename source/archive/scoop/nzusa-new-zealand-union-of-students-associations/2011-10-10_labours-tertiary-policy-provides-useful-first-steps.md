@@ -1,9 +1,13 @@
 ---
 slug: labours-tertiary-policy-provides-useful-first-steps
-title: "Labour’s tertiary policy provides useful first steps"
-date: 2011-10-10
-source-url: https://www.scoop.co.nz/stories/ED1110/S00034/labours-tertiary-policy-provides-useful-first-steps.htm
+title: Labour’s tertiary policy provides useful first steps
+date: 2011-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00034/labours-tertiary-policy-provides-useful-first-steps.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/10/10/labours-tertiary-policy-provides-useful-first-steps/index.html
+layout: layout.njk
 ---
 Labour’s tertiary policy provides useful first steps
 ====================================================

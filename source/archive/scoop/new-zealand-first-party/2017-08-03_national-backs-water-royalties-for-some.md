@@ -1,9 +1,12 @@
 ---
 slug: national-backs-water-royalties-for-some
-title: "National Backs Water Royalties for Some"
-date: 2017-08-03
-source-url: https://www.scoop.co.nz/stories/PA1708/S00065/national-backs-water-royalties-for-some.htm
+title: National Backs Water Royalties for Some
+date: 2017-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00065/national-backs-water-royalties-for-some.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/03/national-backs-water-royalties-for-some/index.html
+layout: layout.njk
 ---
 National Backs Water Royalties for Some
 =======================================

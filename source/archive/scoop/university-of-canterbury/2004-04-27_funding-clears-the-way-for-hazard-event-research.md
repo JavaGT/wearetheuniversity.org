@@ -1,9 +1,13 @@
 ---
 slug: funding-clears-the-way-for-hazard-event-research
-title: "Funding clears the way for hazard event research"
-date: 2004-04-27
-source-url: https://www.scoop.co.nz/stories/SC0404/S00094/funding-clears-the-way-for-hazard-event-research.htm
+title: Funding clears the way for hazard event research
+date: 2004-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0404/S00094/funding-clears-the-way-for-hazard-event-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/04/27/funding-clears-the-way-for-hazard-event-research/index.html
+layout: layout.njk
 ---
 Funding clears the way for hazard event research
 ================================================

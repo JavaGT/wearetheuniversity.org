@@ -1,9 +1,12 @@
 ---
 slug: eruptions-agricultural-risk-analysed
-title: "Eruption’s agricultural risk analysed"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/AK1208/S00186/eruptions-agricultural-risk-analysed.htm
+title: Eruption’s agricultural risk analysed
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00186/eruptions-agricultural-risk-analysed.htm
 author: massey-university
+permalink: /archive/2012/08/09/eruptions-agricultural-risk-analysed/index.html
+layout: layout.njk
 ---
 Eruption’s agricultural risk analysed
 =====================================

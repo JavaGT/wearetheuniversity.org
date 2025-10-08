@@ -1,9 +1,13 @@
 ---
 slug: prison-literacy-programme-aims-to-connect-families
-title: "Prison literacy programme aims to connect families"
-date: 2006-08-10
-source-url: https://www.scoop.co.nz/stories/ED0608/S00034/prison-literacy-programme-aims-to-connect-families.htm
+title: Prison literacy programme aims to connect families
+date: 2006-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00034/prison-literacy-programme-aims-to-connect-families.htm
 author: massey-university
+permalink: >-
+  /archive/2006/08/10/prison-literacy-programme-aims-to-connect-families/index.html
+layout: layout.njk
 ---
 Prison literacy programme aims to connect families
 ==================================================

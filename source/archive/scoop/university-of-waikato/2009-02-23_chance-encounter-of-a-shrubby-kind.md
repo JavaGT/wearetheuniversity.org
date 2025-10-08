@@ -1,9 +1,12 @@
 ---
 slug: chance-encounter-of-a-shrubby-kind
-title: "Chance encounter of a shrubby kind"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/ED0902/S00075/chance-encounter-of-a-shrubby-kind.htm
+title: Chance encounter of a shrubby kind
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00075/chance-encounter-of-a-shrubby-kind.htm
 author: university-of-waikato
+permalink: /archive/2009/02/23/chance-encounter-of-a-shrubby-kind/index.html
+layout: layout.njk
 ---
 Chance encounter of a shrubby kind
 ==================================

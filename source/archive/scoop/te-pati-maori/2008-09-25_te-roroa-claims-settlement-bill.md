@@ -1,9 +1,12 @@
 ---
 slug: te-roroa-claims-settlement-bill
-title: "Te Roroa Claims Settlement Bill"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/PA0809/S00547/te-roroa-claims-settlement-bill.htm
+title: Te Roroa Claims Settlement Bill
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00547/te-roroa-claims-settlement-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/09/25/te-roroa-claims-settlement-bill/index.html
+layout: layout.njk
 ---
 Te Roroa Claims Settlement Bill
 ===============================

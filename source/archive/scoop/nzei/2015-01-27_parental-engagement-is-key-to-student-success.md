@@ -1,9 +1,12 @@
 ---
 slug: parental-engagement-is-key-to-student-success
-title: "Parental engagement is key to student success"
-date: 2015-01-27
-source-url: https://www.scoop.co.nz/stories/ED1501/S00077/parental-engagement-is-key-to-student-success.htm
+title: Parental engagement is key to student success
+date: 2015-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00077/parental-engagement-is-key-to-student-success.htm
 author: nzei
+permalink: /archive/2015/01/27/parental-engagement-is-key-to-student-success/index.html
+layout: layout.njk
 ---
 Parental engagement is key to student success
 =============================================

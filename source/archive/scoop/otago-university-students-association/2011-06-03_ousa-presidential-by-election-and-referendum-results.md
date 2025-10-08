@@ -1,9 +1,13 @@
 ---
 slug: ousa-presidential-by-election-and-referendum-results
-title: "OUSA Presidential By-Election and Referendum results"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/ED1106/S00033/ousa-presidential-by-election-and-referendum-results.htm
+title: OUSA Presidential By-Election and Referendum results
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00033/ousa-presidential-by-election-and-referendum-results.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2011/06/03/ousa-presidential-by-election-and-referendum-results/index.html
+layout: layout.njk
 ---
 OUSA Presidential By-Election and Referendum results
 ====================================================

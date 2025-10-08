@@ -1,9 +1,12 @@
 ---
 slug: equity-of-access-to-study-must-be-protected
-title: "Equity of access to study must be protected"
-date: 2010-01-11
-source-url: https://www.scoop.co.nz/stories/PA1001/S00022/equity-of-access-to-study-must-be-protected.htm
+title: Equity of access to study must be protected
+date: 2010-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1001/S00022/equity-of-access-to-study-must-be-protected.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/01/11/equity-of-access-to-study-must-be-protected/index.html
+layout: layout.njk
 ---
 Equity of access to study must be protected
 ===========================================

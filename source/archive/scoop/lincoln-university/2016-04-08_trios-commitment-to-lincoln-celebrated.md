@@ -1,9 +1,12 @@
 ---
 slug: trios-commitment-to-lincoln-celebrated
-title: "Trio’s commitment to Lincoln celebrated"
-date: 2016-04-08
-source-url: https://www.scoop.co.nz/stories/ED1604/S00025/trios-commitment-to-lincoln-celebrated.htm
+title: Trio’s commitment to Lincoln celebrated
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00025/trios-commitment-to-lincoln-celebrated.htm
 author: lincoln-university
+permalink: /archive/2016/04/08/trios-commitment-to-lincoln-celebrated/index.html
+layout: layout.njk
 ---
 Trio’s commitment to Lincoln celebrated
 =======================================

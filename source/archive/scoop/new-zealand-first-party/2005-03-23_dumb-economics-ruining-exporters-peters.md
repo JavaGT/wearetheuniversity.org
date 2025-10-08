@@ -1,9 +1,12 @@
 ---
 slug: dumb-economics-ruining-exporters-peters
-title: "Dumb Economics Ruining Exporters – Peters"
-date: 2005-03-23
-source-url: https://www.scoop.co.nz/stories/PA0503/S00482/dumb-economics-ruining-exporters-peters.htm
+title: Dumb Economics Ruining Exporters – Peters
+date: 2005-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00482/dumb-economics-ruining-exporters-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/23/dumb-economics-ruining-exporters-peters/index.html
+layout: layout.njk
 ---
 Dumb Economics Ruining Exporters – Peters
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: bennetts-refusal-to-join-cross-party-approach-arrogant
-title: "Bennett’s refusal to join cross party approach arrogant"
-date: 2016-11-09
-source-url: https://www.scoop.co.nz/stories/PA1611/S00165/bennetts-refusal-to-join-cross-party-approach-arrogant.htm
+title: Bennett’s refusal to join cross party approach arrogant
+date: 2016-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00165/bennetts-refusal-to-join-cross-party-approach-arrogant.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/11/09/bennetts-refusal-to-join-cross-party-approach-arrogant/index.html
+layout: layout.njk
 ---
 Bennett’s refusal to join cross party approach arrogant
 =======================================================

@@ -1,9 +1,11 @@
 ---
 slug: the-final-countdown
-title: "The final countdown"
-date: 1999-11-18
+title: The final countdown
+date: 1999-11-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00432/the-final-countdown.htm
 author: act-new-zealand
+permalink: /archive/1999/11/18/the-final-countdown/index.html
+layout: layout.njk
 ---
 The final countdown
 ===================

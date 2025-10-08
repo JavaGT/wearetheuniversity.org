@@ -1,9 +1,12 @@
 ---
 slug: labours-tertiary-education-policy-misleading
-title: "Labours Tertiary Education Policy Misleading"
-date: 2002-07-01
-source-url: https://www.scoop.co.nz/stories/PO0207/S00005/labours-tertiary-education-policy-misleading.htm
+title: Labours Tertiary Education Policy Misleading
+date: 2002-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00005/labours-tertiary-education-policy-misleading.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/01/labours-tertiary-education-policy-misleading/index.html
+layout: layout.njk
 ---
 Labours Tertiary Education Policy Misleading
 ============================================

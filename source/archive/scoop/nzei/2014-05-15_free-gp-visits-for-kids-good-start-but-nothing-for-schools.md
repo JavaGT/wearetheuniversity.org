@@ -1,9 +1,13 @@
 ---
 slug: free-gp-visits-for-kids-good-start-but-nothing-for-schools
-title: "Free GP visits for kids good start, but nothing for schools"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PO1405/S00260/free-gp-visits-for-kids-good-start-but-nothing-for-schools.htm
+title: Free GP visits for kids good start, but nothing for schools
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00260/free-gp-visits-for-kids-good-start-but-nothing-for-schools.htm
 author: nzei
+permalink: >-
+  /archive/2014/05/15/free-gp-visits-for-kids-good-start-but-nothing-for-schools/index.html
+layout: layout.njk
 ---
 Free GP visits for kids good start, but nothing for schools
 ===========================================================

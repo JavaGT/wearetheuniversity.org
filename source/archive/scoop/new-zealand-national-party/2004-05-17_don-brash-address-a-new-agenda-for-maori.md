@@ -1,9 +1,12 @@
 ---
 slug: don-brash-address-a-new-agenda-for-maori
-title: "Don Brash Address - A New Agenda For Maori"
-date: 2004-05-17
-source-url: https://www.scoop.co.nz/stories/PA0405/S00331/don-brash-address-a-new-agenda-for-maori.htm
+title: Don Brash Address - A New Agenda For Maori
+date: 2004-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00331/don-brash-address-a-new-agenda-for-maori.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/17/don-brash-address-a-new-agenda-for-maori/index.html
+layout: layout.njk
 ---
 Don Brash Address - A New Agenda For Maori
 ==========================================

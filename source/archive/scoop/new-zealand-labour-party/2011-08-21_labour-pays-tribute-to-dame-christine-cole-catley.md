@@ -1,9 +1,13 @@
 ---
 slug: labour-pays-tribute-to-dame-christine-cole-catley
-title: "Labour pays tribute to Dame Christine Cole Catley"
-date: 2011-08-21
-source-url: https://www.scoop.co.nz/stories/PA1108/S00443/labour-pays-tribute-to-dame-christine-cole-catley.htm
+title: Labour pays tribute to Dame Christine Cole Catley
+date: 2011-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00443/labour-pays-tribute-to-dame-christine-cole-catley.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/21/labour-pays-tribute-to-dame-christine-cole-catley/index.html
+layout: layout.njk
 ---
 Labour pays tribute to Dame Christine Cole Catley
 =================================================

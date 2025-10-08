@@ -1,9 +1,13 @@
 ---
 slug: study-investigates-link-between-loneliness-and-age
-title: "Study investigates link between loneliness and age"
-date: 2018-10-27
-source-url: https://www.scoop.co.nz/stories/GE1810/S00113/study-investigates-link-between-loneliness-and-age.htm
+title: Study investigates link between loneliness and age
+date: 2018-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00113/study-investigates-link-between-loneliness-and-age.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/27/study-investigates-link-between-loneliness-and-age/index.html
+layout: layout.njk
 ---
 Study investigates link between loneliness and age
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: case-studies-provide-real-life-business-examples
-title: "Case Studies Provide Real-Life Business Examples"
-date: 2005-09-07
-source-url: https://www.scoop.co.nz/stories/BU0509/S00073/case-studies-provide-real-life-business-examples.htm
+title: Case Studies Provide Real-Life Business Examples
+date: 2005-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0509/S00073/case-studies-provide-real-life-business-examples.htm
 author: university-of-auckland-business-school
+permalink: >-
+  /archive/2005/09/07/case-studies-provide-real-life-business-examples/index.html
+layout: layout.njk
 ---
 Case Studies Provide Real-Life Business Examples
 ================================================

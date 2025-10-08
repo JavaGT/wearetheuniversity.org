@@ -1,9 +1,13 @@
 ---
 slug: health-minister-finally-acts-on-dunstan-hospital
-title: "Health Minister finally acts on Dunstan Hospital"
-date: 2003-12-15
-source-url: https://www.scoop.co.nz/stories/PA0312/S00372/health-minister-finally-acts-on-dunstan-hospital.htm
+title: Health Minister finally acts on Dunstan Hospital
+date: 2003-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00372/health-minister-finally-acts-on-dunstan-hospital.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/12/15/health-minister-finally-acts-on-dunstan-hospital/index.html
+layout: layout.njk
 ---
 Health Minister finally acts on Dunstan Hospital
 ================================================

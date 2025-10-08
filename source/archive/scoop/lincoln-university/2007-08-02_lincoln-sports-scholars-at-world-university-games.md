@@ -1,9 +1,13 @@
 ---
 slug: lincoln-sports-scholars-at-world-university-games
-title: "Lincoln Sports Scholars at World University Games"
-date: 2007-08-02
-source-url: https://www.scoop.co.nz/stories/ED0708/S00003/lincoln-sports-scholars-at-world-university-games.htm
+title: Lincoln Sports Scholars at World University Games
+date: 2007-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00003/lincoln-sports-scholars-at-world-university-games.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/08/02/lincoln-sports-scholars-at-world-university-games/index.html
+layout: layout.njk
 ---
 Lincoln Sports Scholars at World University Games
 =================================================

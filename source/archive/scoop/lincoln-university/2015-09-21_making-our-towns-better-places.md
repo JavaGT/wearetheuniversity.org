@@ -1,9 +1,12 @@
 ---
 slug: making-our-towns-better-places
-title: "Making our towns better places"
-date: 2015-09-21
-source-url: https://www.scoop.co.nz/stories/ED1509/S00122/making-our-towns-better-places.htm
+title: Making our towns better places
+date: 2015-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00122/making-our-towns-better-places.htm
 author: lincoln-university
+permalink: /archive/2015/09/21/making-our-towns-better-places/index.html
+layout: layout.njk
 ---
 Making our towns better places
 ==============================

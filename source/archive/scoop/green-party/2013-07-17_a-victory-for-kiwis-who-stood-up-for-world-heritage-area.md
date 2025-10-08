@@ -1,9 +1,13 @@
 ---
 slug: a-victory-for-kiwis-who-stood-up-for-world-heritage-area
-title: "A victory for Kiwis who stood up for World Heritage Area"
-date: 2013-07-17
-source-url: https://www.scoop.co.nz/stories/PA1307/S00290/a-victory-for-kiwis-who-stood-up-for-world-heritage-area.htm
+title: A victory for Kiwis who stood up for World Heritage Area
+date: 2013-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00290/a-victory-for-kiwis-who-stood-up-for-world-heritage-area.htm
 author: green-party
+permalink: >-
+  /archive/2013/07/17/a-victory-for-kiwis-who-stood-up-for-world-heritage-area/index.html
+layout: layout.njk
 ---
 A victory for Kiwis who stood up for World Heritage Area
 ========================================================

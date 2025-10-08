@@ -1,9 +1,12 @@
 ---
 slug: myths-about-psychopaths-busted
-title: "Myths about psychopaths busted"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/ED1112/S00088/myths-about-psychopaths-busted.htm
+title: Myths about psychopaths busted
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00088/myths-about-psychopaths-busted.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/16/myths-about-psychopaths-busted/index.html
+layout: layout.njk
 ---
 Myths about psychopaths busted
 ==============================

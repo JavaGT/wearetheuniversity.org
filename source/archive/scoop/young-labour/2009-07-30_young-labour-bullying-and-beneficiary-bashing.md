@@ -1,9 +1,12 @@
 ---
 slug: young-labour-bullying-and-beneficiary-bashing
-title: "Young Labour: Bullying and Beneficiary Bashing"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/PO0907/S00344/young-labour-bullying-and-beneficiary-bashing.htm
+title: 'Young Labour: Bullying and Beneficiary Bashing'
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00344/young-labour-bullying-and-beneficiary-bashing.htm
 author: young-labour
+permalink: /archive/2009/07/30/young-labour-bullying-and-beneficiary-bashing/index.html
+layout: layout.njk
 ---
 Young Labour: Bullying and Beneficiary Bashing
 ==============================================

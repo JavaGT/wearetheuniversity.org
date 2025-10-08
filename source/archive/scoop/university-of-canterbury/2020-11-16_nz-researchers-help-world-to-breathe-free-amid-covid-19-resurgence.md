@@ -1,9 +1,13 @@
 ---
 slug: nz-researchers-help-world-to-breathe-free-amid-covid-19-resurgence
-title: "NZ Researchers Help World To Breathe Free Amid Covid-19 Resurgence"
-date: 2020-11-16
-source-url: https://www.scoop.co.nz/stories/SC2011/S00021/nz-researchers-help-world-to-breathe-free-amid-covid-19-resurgence.htm
+title: NZ Researchers Help World To Breathe Free Amid Covid-19 Resurgence
+date: 2020-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00021/nz-researchers-help-world-to-breathe-free-amid-covid-19-resurgence.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/16/nz-researchers-help-world-to-breathe-free-amid-covid-19-resurgence/index.html
+layout: layout.njk
 ---
 NZ Researchers Help World To Breathe Free Amid Covid-19 Resurgence
 ==================================================================

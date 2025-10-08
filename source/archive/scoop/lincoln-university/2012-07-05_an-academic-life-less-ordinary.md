@@ -1,9 +1,12 @@
 ---
 slug: an-academic-life-less-ordinary
-title: "An academic life less ordinary"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/CU1207/S00071/an-academic-life-less-ordinary.htm
+title: An academic life less ordinary
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00071/an-academic-life-less-ordinary.htm
 author: lincoln-university
+permalink: /archive/2012/07/05/an-academic-life-less-ordinary/index.html
+layout: layout.njk
 ---
 An academic life less ordinary
 ==============================

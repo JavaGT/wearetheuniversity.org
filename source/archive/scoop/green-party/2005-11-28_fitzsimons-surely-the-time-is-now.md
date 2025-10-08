@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-surely-the-time-is-now
-title: "Fitzsimons: Surely the time is now?"
-date: 2005-11-28
-source-url: https://www.scoop.co.nz/stories/PA0511/S00402/fitzsimons-surely-the-time-is-now.htm
+title: 'Fitzsimons: Surely the time is now?'
+date: 2005-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00402/fitzsimons-surely-the-time-is-now.htm
 author: green-party
+permalink: /archive/2005/11/28/fitzsimons-surely-the-time-is-now/index.html
+layout: layout.njk
 ---
 Fitzsimons: Surely the time is now?
 ===================================

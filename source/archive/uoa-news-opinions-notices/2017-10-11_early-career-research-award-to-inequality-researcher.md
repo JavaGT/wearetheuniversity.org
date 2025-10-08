@@ -1,8 +1,12 @@
 ---
 slug: early-career-research-award-to-inequality-researcher
-title: "Early career research award to inequality researcher"
-date: 2017-10-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/early-career-research-award-to-inequality-researcher.html
+title: Early career research award to inequality researcher
+date: 2017-10-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/early-career-research-award-to-inequality-researcher.html
+permalink: >-
+  /archive/2017/10/11/early-career-research-award-to-inequality-researcher/index.html
+layout: layout.njk
 ---
 Early career research award to inequality researcher
 ====================================================

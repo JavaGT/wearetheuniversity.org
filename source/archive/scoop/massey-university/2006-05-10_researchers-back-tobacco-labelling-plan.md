@@ -1,9 +1,12 @@
 ---
 slug: researchers-back-tobacco-labelling-plan
-title: "Researchers back tobacco labelling plan"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/GE0605/S00080/researchers-back-tobacco-labelling-plan.htm
+title: Researchers back tobacco labelling plan
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00080/researchers-back-tobacco-labelling-plan.htm
 author: massey-university
+permalink: /archive/2006/05/10/researchers-back-tobacco-labelling-plan/index.html
+layout: layout.njk
 ---
 Researchers back tobacco labelling plan
 =======================================

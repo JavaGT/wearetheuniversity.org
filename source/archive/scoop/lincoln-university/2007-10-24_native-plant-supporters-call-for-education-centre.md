@@ -1,9 +1,13 @@
 ---
 slug: native-plant-supporters-call-for-education-centre
-title: "Native Plant Supporters Call for Education Centre"
-date: 2007-10-24
-source-url: https://www.scoop.co.nz/stories/AK0710/S00257/native-plant-supporters-call-for-education-centre.htm
+title: Native Plant Supporters Call for Education Centre
+date: 2007-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0710/S00257/native-plant-supporters-call-for-education-centre.htm
 author: lincoln-university
+permalink: >-
+  /archive/2007/10/24/native-plant-supporters-call-for-education-centre/index.html
+layout: layout.njk
 ---
 Native Plant Supporters Call for Education Centre
 =================================================

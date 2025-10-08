@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-propose-4-5%-fee-increase
-title: "Victoria University Propose 4.5% Fee Increase"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/ED0409/S00007/victoria-university-propose-45-fee-increase.htm
+title: Victoria University Propose 4.5% Fee Increase
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00007/victoria-university-propose-45-fee-increase.htm
 author: victoria-university-students-association
+permalink: /archive/2004/09/01/victoria-university-propose-4-5/index.html
+layout: layout.njk
 ---
 Victoria University Propose 4.5% Fee Increase
 =============================================

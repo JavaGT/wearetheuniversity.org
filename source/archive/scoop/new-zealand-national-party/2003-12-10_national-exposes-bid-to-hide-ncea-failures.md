@@ -1,9 +1,12 @@
 ---
 slug: national-exposes-bid-to-hide-ncea-failures
-title: "National exposes bid to hide NCEA failures"
-date: 2003-12-10
-source-url: https://www.scoop.co.nz/stories/PA0312/S00212/national-exposes-bid-to-hide-ncea-failures.htm
+title: National exposes bid to hide NCEA failures
+date: 2003-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00212/national-exposes-bid-to-hide-ncea-failures.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/10/national-exposes-bid-to-hide-ncea-failures/index.html
+layout: layout.njk
 ---
 National exposes bid to hide NCEA failures
 ==========================================

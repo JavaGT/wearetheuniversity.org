@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-has-healthy-entrepreneurial-culture
-title: "New Zealand has healthy entrepreneurial culture"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/ED1108/S00128/new-zealand-has-healthy-entrepreneurial-culture.htm
+title: New Zealand has healthy entrepreneurial culture
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00128/new-zealand-has-healthy-entrepreneurial-culture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/08/25/new-zealand-has-healthy-entrepreneurial-culture/index.html
+layout: layout.njk
 ---
 New Zealand has healthy entrepreneurial culture
 ===============================================

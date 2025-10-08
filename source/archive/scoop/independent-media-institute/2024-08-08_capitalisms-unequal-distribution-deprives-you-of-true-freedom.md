@@ -1,9 +1,13 @@
 ---
 slug: capitalisms-unequal-distribution-deprives-you-of-true-freedom
-title: "Capitalism’s Unequal Distribution Deprives You Of True Freedom"
-date: 2024-08-08
-source-url: https://www.scoop.co.nz/stories/WO2408/S00056/capitalisms-unequal-distribution-deprives-you-of-true-freedom.htm
+title: Capitalism’s Unequal Distribution Deprives You Of True Freedom
+date: 2024-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2408/S00056/capitalisms-unequal-distribution-deprives-you-of-true-freedom.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/08/08/capitalisms-unequal-distribution-deprives-you-of-true-freedom/index.html
+layout: layout.njk
 ---
 Capitalism’s Unequal Distribution Deprives You Of True Freedom
 ==============================================================

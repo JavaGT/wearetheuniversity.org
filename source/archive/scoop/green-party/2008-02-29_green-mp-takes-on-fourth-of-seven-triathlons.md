@@ -1,9 +1,12 @@
 ---
 slug: green-mp-takes-on-fourth-of-seven-triathlons
-title: "Green MP takes on fourth of seven triathlons"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/PA0802/S00506/green-mp-takes-on-fourth-of-seven-triathlons.htm
+title: Green MP takes on fourth of seven triathlons
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00506/green-mp-takes-on-fourth-of-seven-triathlons.htm
 author: green-party
+permalink: /archive/2008/02/29/green-mp-takes-on-fourth-of-seven-triathlons/index.html
+layout: layout.njk
 ---
 Green MP takes on fourth of seven triathlons
 ============================================

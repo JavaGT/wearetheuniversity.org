@@ -1,9 +1,12 @@
 ---
 slug: formula-race-car-at-big-boys-toys
-title: "Formula race car at Big Boys Toys"
-date: 2004-11-11
-source-url: https://www.scoop.co.nz/stories/SC0411/S00033/formula-race-car-at-big-boys-toys.htm
+title: Formula race car at Big Boys Toys
+date: 2004-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0411/S00033/formula-race-car-at-big-boys-toys.htm
 author: auckland-university
+permalink: /archive/2004/11/11/formula-race-car-at-big-boys-toys/index.html
+layout: layout.njk
 ---
 Formula race car at Big Boys Toys
 =================================

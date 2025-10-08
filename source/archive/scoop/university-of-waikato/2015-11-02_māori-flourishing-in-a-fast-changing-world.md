@@ -1,9 +1,12 @@
 ---
 slug: māori-flourishing-in-a-fast-changing-world
-title: "Māori flourishing in a fast changing world"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/ED1511/S00005/maori-flourishing-in-a-fast-changing-world.htm
+title: Māori flourishing in a fast changing world
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00005/maori-flourishing-in-a-fast-changing-world.htm
 author: university-of-waikato
+permalink: /archive/2015/11/02/m/index.html
+layout: layout.njk
 ---
 Māori flourishing in a fast changing world
 ==========================================

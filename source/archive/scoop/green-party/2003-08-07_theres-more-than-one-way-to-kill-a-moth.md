@@ -1,9 +1,12 @@
 ---
 slug: theres-more-than-one-way-to-kill-a-moth
-title: "There's more than one way to kill a moth"
-date: 2003-08-07
-source-url: https://www.scoop.co.nz/stories/PA0308/S00136/theres-more-than-one-way-to-kill-a-moth.htm
+title: There's more than one way to kill a moth
+date: 2003-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00136/theres-more-than-one-way-to-kill-a-moth.htm
 author: green-party
+permalink: /archive/2003/08/07/theres-more-than-one-way-to-kill-a-moth/index.html
+layout: layout.njk
 ---
 There's more than one way to kill a moth
 ========================================

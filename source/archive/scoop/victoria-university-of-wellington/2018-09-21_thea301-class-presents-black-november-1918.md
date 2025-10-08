@@ -1,9 +1,12 @@
 ---
 slug: thea301-class-presents-black-november-1918
-title: "THEA301 Class presents Black November 1918"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/CU1809/S00262/thea301-class-presents-black-november-1918.htm
+title: THEA301 Class presents Black November 1918
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1809/S00262/thea301-class-presents-black-november-1918.htm
 author: victoria-university-of-wellington
+permalink: /archive/2018/09/21/thea301-class-presents-black-november-1918/index.html
+layout: layout.njk
 ---
 THEA301 Class presents Black November 1918
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-inaction-a-public-shame
-title: "Government Inaction A Public Shame"
-date: 1999-09-24
-source-url: https://www.scoop.co.nz/stories/PA9909/S00530/government-inaction-a-public-shame.htm
+title: Government Inaction A Public Shame
+date: 1999-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00530/government-inaction-a-public-shame.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/24/government-inaction-a-public-shame/index.html
+layout: layout.njk
 ---
 Government Inaction A Public Shame
 ==================================

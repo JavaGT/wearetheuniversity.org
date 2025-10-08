@@ -1,9 +1,13 @@
 ---
 slug: massey-to-honour-student-athletes-with-blues-awards
-title: "Massey to Honour Student Athletes with Blues Awards"
-date: 2017-10-09
-source-url: https://www.scoop.co.nz/stories/ED1710/S00024/massey-to-honour-student-athletes-with-blues-awards.htm
+title: Massey to Honour Student Athletes with Blues Awards
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00024/massey-to-honour-student-athletes-with-blues-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2017/10/09/massey-to-honour-student-athletes-with-blues-awards/index.html
+layout: layout.njk
 ---
 Massey to Honour Student Athletes with Blues Awards
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-student-wins-internship
-title: "Waikato Student Wins Internship"
-date: 2009-11-10
-source-url: https://www.scoop.co.nz/stories/ED0911/S00035/waikato-student-wins-internship.htm
+title: Waikato Student Wins Internship
+date: 2009-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00035/waikato-student-wins-internship.htm
 author: university-of-waikato
+permalink: /archive/2009/11/10/waikato-student-wins-internship/index.html
+layout: layout.njk
 ---
 Waikato Student Wins Internship
 ===============================

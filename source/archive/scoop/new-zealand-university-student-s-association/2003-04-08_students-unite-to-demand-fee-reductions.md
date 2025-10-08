@@ -1,9 +1,12 @@
 ---
 slug: students-unite-to-demand-fee-reductions
-title: "Students unite to demand fee reductions"
-date: 2003-04-08
-source-url: https://www.scoop.co.nz/stories/ED0304/S00020/students-unite-to-demand-fee-reductions.htm
+title: Students unite to demand fee reductions
+date: 2003-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00020/students-unite-to-demand-fee-reductions.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/04/08/students-unite-to-demand-fee-reductions/index.html
+layout: layout.njk
 ---
 Students unite to demand fee reductions
 =======================================

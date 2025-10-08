@@ -1,9 +1,12 @@
 ---
 slug: nationals-desperate-oil-drilling-agenda-exposed
-title: "National’s desperate oil drilling agenda exposed"
-date: 2014-07-29
-source-url: https://www.scoop.co.nz/stories/PA1407/S00565/nationals-desperate-oil-drilling-agenda-exposed.htm
+title: National’s desperate oil drilling agenda exposed
+date: 2014-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00565/nationals-desperate-oil-drilling-agenda-exposed.htm
 author: green-party
+permalink: /archive/2014/07/29/nationals-desperate-oil-drilling-agenda-exposed/index.html
+layout: layout.njk
 ---
 National’s desperate oil drilling agenda exposed
 ================================================

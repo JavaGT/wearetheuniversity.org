@@ -1,9 +1,12 @@
 ---
 slug: world-class-research-benefits-schools
-title: "World Class Research Benefits Schools"
-date: 2005-10-10
-source-url: https://www.scoop.co.nz/stories/ED0510/S00030/world-class-research-benefits-schools.htm
+title: World Class Research Benefits Schools
+date: 2005-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00030/world-class-research-benefits-schools.htm
 author: waikato-university
+permalink: /archive/2005/10/10/world-class-research-benefits-schools/index.html
+layout: layout.njk
 ---
 World Class Research Benefits Schools
 =====================================

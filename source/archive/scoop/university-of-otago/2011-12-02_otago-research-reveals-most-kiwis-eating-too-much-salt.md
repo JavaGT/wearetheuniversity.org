@@ -1,9 +1,13 @@
 ---
 slug: otago-research-reveals-most-kiwis-eating-too-much-salt
-title: "Otago research reveals most Kiwis eating too much salt"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/GE1112/S00011/otago-research-reveals-most-kiwis-eating-too-much-salt.htm
+title: Otago research reveals most Kiwis eating too much salt
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1112/S00011/otago-research-reveals-most-kiwis-eating-too-much-salt.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/12/02/otago-research-reveals-most-kiwis-eating-too-much-salt/index.html
+layout: layout.njk
 ---
 Otago research reveals most Kiwis eating too much salt
 ======================================================

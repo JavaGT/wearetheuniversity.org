@@ -1,9 +1,12 @@
 ---
 slug: closer-co-operation-in-tertiary-sector
-title: "Closer co-operation in tertiary sector"
-date: 2001-05-11
-source-url: https://www.scoop.co.nz/stories/ED0105/S00020/closer-co-operation-in-tertiary-sector.htm
+title: Closer co-operation in tertiary sector
+date: 2001-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00020/closer-co-operation-in-tertiary-sector.htm
 author: association-of-university-staff
+permalink: /archive/2001/05/11/closer-co-operation-in-tertiary-sector/index.html
+layout: layout.njk
 ---
 Closer co-operation in tertiary sector
 ======================================

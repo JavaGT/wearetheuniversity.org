@@ -1,9 +1,12 @@
 ---
 slug: bioethics-council-likely-to-be-talkfest
-title: "Bioethics Council likely to be talkfest"
-date: 2002-12-10
-source-url: https://www.scoop.co.nz/stories/PA0212/S00242/bioethics-council-likely-to-be-talkfest.htm
+title: Bioethics Council likely to be talkfest
+date: 2002-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00242/bioethics-council-likely-to-be-talkfest.htm
 author: green-party
+permalink: /archive/2002/12/10/bioethics-council-likely-to-be-talkfest/index.html
+layout: layout.njk
 ---
 Bioethics Council likely to be talkfest
 =======================================

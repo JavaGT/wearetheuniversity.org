@@ -1,9 +1,13 @@
 ---
 slug: beef-about-red-meat-means-a-lot-at-stake-for-exports
-title: "Beef about red meat means a lot at stake for exports"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/SC1511/S00004/beef-about-red-meat-means-a-lot-at-stake-for-exports.htm
+title: Beef about red meat means a lot at stake for exports
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00004/beef-about-red-meat-means-a-lot-at-stake-for-exports.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/11/02/beef-about-red-meat-means-a-lot-at-stake-for-exports/index.html
+layout: layout.njk
 ---
 Beef about red meat means a lot at stake for exports
 ====================================================

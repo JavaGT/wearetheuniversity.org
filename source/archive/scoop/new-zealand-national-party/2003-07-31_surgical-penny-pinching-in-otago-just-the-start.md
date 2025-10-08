@@ -1,9 +1,12 @@
 ---
 slug: surgical-penny-pinching-in-otago-just-the-start
-title: "Surgical penny pinching in Otago just the start"
-date: 2003-07-31
-source-url: https://www.scoop.co.nz/stories/PA0307/S00572/surgical-penny-pinching-in-otago-just-the-start.htm
+title: Surgical penny pinching in Otago just the start
+date: 2003-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00572/surgical-penny-pinching-in-otago-just-the-start.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/31/surgical-penny-pinching-in-otago-just-the-start/index.html
+layout: layout.njk
 ---
 Surgical penny pinching in Otago just the start
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: govts-anti-science-covid-rules-halt-queenstown-marathon
-title: "Govt’s Anti-science Covid Rules Halt Queenstown Marathon"
-date: 2022-02-17
-source-url: https://www.scoop.co.nz/stories/PA2202/S00121/govts-anti-science-covid-rules-halt-queenstown-marathon.htm
+title: Govt’s Anti-science Covid Rules Halt Queenstown Marathon
+date: 2022-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00121/govts-anti-science-covid-rules-halt-queenstown-marathon.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/02/17/govts-anti-science-covid-rules-halt-queenstown-marathon/index.html
+layout: layout.njk
 ---
 Govt’s Anti-science Covid Rules Halt Queenstown Marathon
 ========================================================

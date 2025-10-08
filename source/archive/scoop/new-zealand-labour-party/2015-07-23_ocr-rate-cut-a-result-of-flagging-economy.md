@@ -1,9 +1,12 @@
 ---
 slug: ocr-rate-cut-a-result-of-flagging-economy
-title: "OCR rate cut a result of flagging economy"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/PA1507/S00369/ocr-rate-cut-a-result-of-flagging-economy.htm
+title: OCR rate cut a result of flagging economy
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00369/ocr-rate-cut-a-result-of-flagging-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/23/ocr-rate-cut-a-result-of-flagging-economy/index.html
+layout: layout.njk
 ---
 OCR rate cut a result of flagging economy
 =========================================

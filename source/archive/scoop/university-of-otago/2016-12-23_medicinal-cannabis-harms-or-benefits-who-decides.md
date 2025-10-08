@@ -1,9 +1,13 @@
 ---
 slug: medicinal-cannabis-harms-or-benefits-who-decides
-title: "Medicinal Cannabis – harms or benefits? Who decides?"
-date: 2016-12-23
-source-url: https://www.scoop.co.nz/stories/GE1612/S00128/medicinal-cannabis-harms-or-benefits-who-decides.htm
+title: Medicinal Cannabis – harms or benefits? Who decides?
+date: 2016-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1612/S00128/medicinal-cannabis-harms-or-benefits-who-decides.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/23/medicinal-cannabis-harms-or-benefits-who-decides/index.html
+layout: layout.njk
 ---
 Medicinal Cannabis – harms or benefits? Who decides?
 ====================================================

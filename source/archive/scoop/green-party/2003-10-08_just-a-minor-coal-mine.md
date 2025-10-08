@@ -1,9 +1,11 @@
 ---
 slug: just-a-minor-coal-mine
-title: "Just a minor coal mine..."
-date: 2003-10-08
+title: Just a minor coal mine...
+date: 2003-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0310/S00149/just-a-minor-coal-mine.htm
 author: green-party
+permalink: /archive/2003/10/08/just-a-minor-coal-mine/index.html
+layout: layout.njk
 ---
 Just a minor coal mine...
 =========================

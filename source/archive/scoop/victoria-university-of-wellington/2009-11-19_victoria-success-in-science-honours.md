@@ -1,9 +1,12 @@
 ---
 slug: victoria-success-in-science-honours
-title: "Victoria success in Science Honours"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/SC0911/S00034/victoria-success-in-science-honours.htm
+title: Victoria success in Science Honours
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0911/S00034/victoria-success-in-science-honours.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/11/19/victoria-success-in-science-honours/index.html
+layout: layout.njk
 ---
 Victoria success in Science Honours
 ===================================

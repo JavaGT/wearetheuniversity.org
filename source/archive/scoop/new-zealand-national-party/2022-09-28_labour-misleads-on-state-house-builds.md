@@ -1,9 +1,12 @@
 ---
 slug: labour-misleads-on-state-house-builds
-title: "Labour Misleads On State House Builds"
-date: 2022-09-28
-source-url: https://www.scoop.co.nz/stories/PA2209/S00152/labour-misleads-on-state-house-builds.htm
+title: Labour Misleads On State House Builds
+date: 2022-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00152/labour-misleads-on-state-house-builds.htm
 author: new-zealand-national-party
+permalink: /archive/2022/09/28/labour-misleads-on-state-house-builds/index.html
+layout: layout.njk
 ---
 Labour Misleads On State House Builds
 =====================================

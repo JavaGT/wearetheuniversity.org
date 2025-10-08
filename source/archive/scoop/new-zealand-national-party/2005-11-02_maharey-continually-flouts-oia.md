@@ -1,9 +1,12 @@
 ---
 slug: maharey-continually-flouts-oia
-title: "Maharey continually flouts OIA"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/PA0511/S00029/maharey-continually-flouts-oia.htm
+title: Maharey continually flouts OIA
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00029/maharey-continually-flouts-oia.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/02/maharey-continually-flouts-oia/index.html
+layout: layout.njk
 ---
 Maharey continually flouts OIA
 ==============================

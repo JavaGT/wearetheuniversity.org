@@ -1,9 +1,12 @@
 ---
 slug: government-supresses-climate-change-report
-title: "Government supresses Climate Change report"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/PA1709/S00034/government-supresses-climate-change-report.htm
+title: Government supresses Climate Change report
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00034/government-supresses-climate-change-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/04/government-supresses-climate-change-report/index.html
+layout: layout.njk
 ---
 Government supresses Climate Change report
 ==========================================

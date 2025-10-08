@@ -1,9 +1,13 @@
 ---
 slug: students-call-for-leaders-to-address-rape-culture
-title: "Students call for leaders to address rape culture"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/PO1407/S00071/students-call-for-leaders-to-address-rape-culture.htm
+title: Students call for leaders to address rape culture
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00071/students-call-for-leaders-to-address-rape-culture.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/07/04/students-call-for-leaders-to-address-rape-culture/index.html
+layout: layout.njk
 ---
 Students call for leaders to address rape culture
 =================================================

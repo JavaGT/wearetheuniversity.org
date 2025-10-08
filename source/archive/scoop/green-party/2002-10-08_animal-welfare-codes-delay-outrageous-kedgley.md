@@ -1,9 +1,12 @@
 ---
 slug: animal-welfare-codes-delay-outrageous-kedgley
-title: "Animal welfare codes delay, outrageous - Kedgley"
-date: 2002-10-08
-source-url: https://www.scoop.co.nz/stories/PA0210/S00155/animal-welfare-codes-delay-outrageous-kedgley.htm
+title: Animal welfare codes delay, outrageous - Kedgley
+date: 2002-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00155/animal-welfare-codes-delay-outrageous-kedgley.htm
 author: green-party
+permalink: /archive/2002/10/08/animal-welfare-codes-delay-outrageous-kedgley/index.html
+layout: layout.njk
 ---
 Animal welfare codes delay, outrageous - Kedgley
 ================================================

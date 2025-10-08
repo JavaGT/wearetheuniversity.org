@@ -1,9 +1,13 @@
 ---
 slug: food-fizzy-and-football-unhealthy-food-and-drink-promoted
-title: "Food, Fizzy, And Football: Unhealthy Food And Drink Promoted"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/ED1302/S00068/food-fizzy-and-football-unhealthy-food-and-drink-promoted.htm
+title: 'Food, Fizzy, And Football: Unhealthy Food And Drink Promoted'
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00068/food-fizzy-and-football-unhealthy-food-and-drink-promoted.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/02/14/food-fizzy-and-football-unhealthy-food-and-drink-promoted/index.html
+layout: layout.njk
 ---
 Food, Fizzy, And Football: Unhealthy Food And Drink Promoted
 ============================================================

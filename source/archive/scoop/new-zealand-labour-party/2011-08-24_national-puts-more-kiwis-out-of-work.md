@@ -1,9 +1,12 @@
 ---
 slug: national-puts-more-kiwis-out-of-work
-title: "National puts more Kiwis out of work"
-date: 2011-08-24
-source-url: https://www.scoop.co.nz/stories/PA1108/S00492/national-puts-more-kiwis-out-of-work.htm
+title: National puts more Kiwis out of work
+date: 2011-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00492/national-puts-more-kiwis-out-of-work.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/24/national-puts-more-kiwis-out-of-work/index.html
+layout: layout.njk
 ---
 National puts more Kiwis out of work
 ====================================

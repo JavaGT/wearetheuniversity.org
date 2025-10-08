@@ -1,9 +1,12 @@
 ---
 slug: hire-and-hope-policy-is-failing-schools
-title: "'Hire and hope' policy is failing schools"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/PA0602/S00277/hire-and-hope-policy-is-failing-schools.htm
+title: '''Hire and hope'' policy is failing schools'
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00277/hire-and-hope-policy-is-failing-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/20/hire-and-hope-policy-is-failing-schools/index.html
+layout: layout.njk
 ---
 'Hire and hope' policy is failing schools
 =========================================

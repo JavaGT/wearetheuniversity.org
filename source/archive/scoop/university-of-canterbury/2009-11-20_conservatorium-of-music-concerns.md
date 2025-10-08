@@ -1,9 +1,12 @@
 ---
 slug: conservatorium-of-music-concerns
-title: "Conservatorium of Music Concerns"
-date: 2009-11-20
-source-url: https://www.scoop.co.nz/stories/CU0911/S00348/conservatorium-of-music-concerns.htm
+title: Conservatorium of Music Concerns
+date: 2009-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0911/S00348/conservatorium-of-music-concerns.htm
 author: university-of-canterbury
+permalink: /archive/2009/11/20/conservatorium-of-music-concerns/index.html
+layout: layout.njk
 ---
 Conservatorium of Music Concerns
 ================================

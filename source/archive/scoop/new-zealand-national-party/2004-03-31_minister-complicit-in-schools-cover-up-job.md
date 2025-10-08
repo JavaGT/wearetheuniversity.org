@@ -1,9 +1,12 @@
 ---
 slug: minister-complicit-in-schools-cover-up-job
-title: "Minister complicit in school's cover-up job"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/PA0403/S00703/minister-complicit-in-schools-cover-up-job.htm
+title: Minister complicit in school's cover-up job
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00703/minister-complicit-in-schools-cover-up-job.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/31/minister-complicit-in-schools-cover-up-job/index.html
+layout: layout.njk
 ---
 Minister complicit in school's cover-up job
 ===========================================

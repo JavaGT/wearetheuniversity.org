@@ -1,9 +1,12 @@
 ---
 slug: patient-death-audit-system-a-worthy-investment
-title: "Patient death audit system a worthy investment"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00253/patient-death-audit-system-a-worthy-investment.htm
+title: Patient death audit system a worthy investment
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00253/patient-death-audit-system-a-worthy-investment.htm
 author: green-party
+permalink: /archive/2007/05/10/patient-death-audit-system-a-worthy-investment/index.html
+layout: layout.njk
 ---
 Patient death audit system a worthy investment
 ==============================================

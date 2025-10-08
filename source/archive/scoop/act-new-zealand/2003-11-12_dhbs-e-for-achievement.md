@@ -1,9 +1,11 @@
 ---
 slug: dhbs-e-for-achievement
-title: "DHBs: 'E' For Achievement"
-date: 2003-11-12
+title: 'DHBs: ''E'' For Achievement'
+date: 2003-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00246/dhbs-e-for-achievement.htm
 author: act-new-zealand
+permalink: /archive/2003/11/12/dhbs-e-for-achievement/index.html
+layout: layout.njk
 ---
 DHBs: 'E' For Achievement
 =========================

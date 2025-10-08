@@ -1,9 +1,11 @@
 ---
 slug: uni-student-on-tui-mission
-title: "Uni student on tui mission"
-date: 2009-02-17
+title: Uni student on tui mission
+date: 2009-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0902/S00219/uni-student-on-tui-mission.htm
 author: university-of-waikato
+permalink: /archive/2009/02/17/uni-student-on-tui-mission/index.html
+layout: layout.njk
 ---
 Uni student on tui mission
 ==========================

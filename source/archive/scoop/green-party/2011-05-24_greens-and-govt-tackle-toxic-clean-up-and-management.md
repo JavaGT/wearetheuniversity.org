@@ -1,9 +1,13 @@
 ---
 slug: greens-and-govt-tackle-toxic-clean-up-and-management
-title: "Greens and Govt tackle toxic clean up and management"
-date: 2011-05-24
-source-url: https://www.scoop.co.nz/stories/PA1105/S00528/greens-and-govt-tackle-toxic-clean-up-and-management.htm
+title: Greens and Govt tackle toxic clean up and management
+date: 2011-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00528/greens-and-govt-tackle-toxic-clean-up-and-management.htm
 author: green-party
+permalink: >-
+  /archive/2011/05/24/greens-and-govt-tackle-toxic-clean-up-and-management/index.html
+layout: layout.njk
 ---
 Greens and Govt tackle toxic clean up and management
 ====================================================

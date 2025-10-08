@@ -1,9 +1,12 @@
 ---
 slug: nasa-interest-in-uc-industrial-coating-research
-title: "NASA interest in UC industrial coating research"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/SC1205/S00021/nasa-interest-in-uc-industrial-coating-research.htm
+title: NASA interest in UC industrial coating research
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00021/nasa-interest-in-uc-industrial-coating-research.htm
 author: university-of-canterbury
+permalink: /archive/2012/05/09/nasa-interest-in-uc-industrial-coating-research/index.html
+layout: layout.njk
 ---
 NASA interest in UC industrial coating research
 ===============================================

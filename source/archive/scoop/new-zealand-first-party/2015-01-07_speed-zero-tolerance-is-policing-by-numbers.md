@@ -1,9 +1,12 @@
 ---
 slug: speed-zero-tolerance-is-policing-by-numbers
-title: "Speed Zero Tolerance is Policing by Numbers"
-date: 2015-01-07
-source-url: https://www.scoop.co.nz/stories/PA1501/S00014/speed-zero-tolerance-is-policing-by-numbers.htm
+title: Speed Zero Tolerance is Policing by Numbers
+date: 2015-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00014/speed-zero-tolerance-is-policing-by-numbers.htm
 author: new-zealand-first-party
+permalink: /archive/2015/01/07/speed-zero-tolerance-is-policing-by-numbers/index.html
+layout: layout.njk
 ---
 Speed Zero Tolerance is Policing by Numbers
 ===========================================

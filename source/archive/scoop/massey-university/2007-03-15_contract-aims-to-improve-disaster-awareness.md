@@ -1,9 +1,12 @@
 ---
 slug: contract-aims-to-improve-disaster-awareness
-title: "Contract aims to improve disaster awareness"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/ED0703/S00053/contract-aims-to-improve-disaster-awareness.htm
+title: Contract aims to improve disaster awareness
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00053/contract-aims-to-improve-disaster-awareness.htm
 author: massey-university
+permalink: /archive/2007/03/15/contract-aims-to-improve-disaster-awareness/index.html
+layout: layout.njk
 ---
 Contract aims to improve disaster awareness
 ===========================================

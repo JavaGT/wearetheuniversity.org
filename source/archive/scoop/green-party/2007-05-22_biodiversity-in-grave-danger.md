@@ -1,9 +1,11 @@
 ---
 slug: biodiversity-in-grave-danger
-title: "Biodiversity in grave danger"
-date: 2007-05-22
+title: Biodiversity in grave danger
+date: 2007-05-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0705/S00588/biodiversity-in-grave-danger.htm
 author: green-party
+permalink: /archive/2007/05/22/biodiversity-in-grave-danger/index.html
+layout: layout.njk
 ---
 Biodiversity in grave danger
 ============================

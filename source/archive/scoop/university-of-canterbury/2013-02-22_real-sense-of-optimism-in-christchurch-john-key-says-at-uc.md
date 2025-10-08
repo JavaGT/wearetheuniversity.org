@@ -1,9 +1,13 @@
 ---
 slug: real-sense-of-optimism-in-christchurch-john-key-says-at-uc
-title: "Real sense of optimism in Christchurch, John Key says at UC"
-date: 2013-02-22
-source-url: https://www.scoop.co.nz/stories/AK1302/S00518/real-sense-of-optimism-in-christchurch-john-key-says-at-uc.htm
+title: Real sense of optimism in Christchurch, John Key says at UC
+date: 2013-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1302/S00518/real-sense-of-optimism-in-christchurch-john-key-says-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/22/real-sense-of-optimism-in-christchurch-john-key-says-at-uc/index.html
+layout: layout.njk
 ---
 Real sense of optimism in Christchurch, John Key says at UC
 ===========================================================

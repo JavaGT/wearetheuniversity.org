@@ -1,9 +1,12 @@
 ---
 slug: more-farmland-falling-into-foreign-hands
-title: "More Farmland Falling into Foreign Hands"
-date: 2015-07-31
-source-url: https://www.scoop.co.nz/stories/PA1507/S00563/more-farmland-falling-into-foreign-hands.htm
+title: More Farmland Falling into Foreign Hands
+date: 2015-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00563/more-farmland-falling-into-foreign-hands.htm
 author: new-zealand-first-party
+permalink: /archive/2015/07/31/more-farmland-falling-into-foreign-hands/index.html
+layout: layout.njk
 ---
 More Farmland Falling into Foreign Hands
 ========================================

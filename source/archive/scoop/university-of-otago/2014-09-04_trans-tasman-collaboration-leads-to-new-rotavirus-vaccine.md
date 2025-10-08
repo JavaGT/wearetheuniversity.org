@@ -1,9 +1,13 @@
 ---
 slug: trans-tasman-collaboration-leads-to-new-rotavirus-vaccine
-title: "Trans-Tasman collaboration leads to new rotavirus vaccine"
-date: 2014-09-04
-source-url: https://www.scoop.co.nz/stories/SC1409/S00014/trans-tasman-collaboration-leads-to-new-rotavirus-vaccine.htm
+title: Trans-Tasman collaboration leads to new rotavirus vaccine
+date: 2014-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00014/trans-tasman-collaboration-leads-to-new-rotavirus-vaccine.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/04/trans-tasman-collaboration-leads-to-new-rotavirus-vaccine/index.html
+layout: layout.njk
 ---
 Trans-Tasman collaboration leads to new rotavirus vaccine
 =========================================================

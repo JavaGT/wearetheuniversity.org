@@ -1,9 +1,13 @@
 ---
 slug: top-scholarship-for-former-kaitaia-college-student
-title: "Top scholarship for former Kaitaia College student"
-date: 2014-11-14
-source-url: https://www.scoop.co.nz/stories/ED1411/S00090/top-scholarship-for-former-kaitaia-college-student.htm
+title: Top scholarship for former Kaitaia College student
+date: 2014-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00090/top-scholarship-for-former-kaitaia-college-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/14/top-scholarship-for-former-kaitaia-college-student/index.html
+layout: layout.njk
 ---
 Top scholarship for former Kaitaia College student
 ==================================================

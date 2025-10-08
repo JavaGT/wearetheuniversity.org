@@ -1,9 +1,12 @@
 ---
 slug: katene-praises-nelson-city-council
-title: "Katene praises Nelson City Council"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PA1111/S00078/katene-praises-nelson-city-council.htm
+title: Katene praises Nelson City Council
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00078/katene-praises-nelson-city-council.htm
 author: te-pati-maori
+permalink: /archive/2011/11/04/katene-praises-nelson-city-council/index.html
+layout: layout.njk
 ---
 Katene praises Nelson City Council
 ==================================

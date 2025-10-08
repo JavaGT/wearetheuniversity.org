@@ -1,9 +1,13 @@
 ---
 slug: public-talk-to-discuss-whats-best-for-our-bodies
-title: "Public talk to discuss what’s best for our bodies"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/SC1506/S00042/public-talk-to-discuss-whats-best-for-our-bodies.htm
+title: Public talk to discuss what’s best for our bodies
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00042/public-talk-to-discuss-whats-best-for-our-bodies.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/06/09/public-talk-to-discuss-whats-best-for-our-bodies/index.html
+layout: layout.njk
 ---
 Public talk to discuss what’s best for our bodies
 =================================================

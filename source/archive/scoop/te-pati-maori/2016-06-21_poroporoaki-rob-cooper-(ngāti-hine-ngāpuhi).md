@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-rob-cooper-(ngāti-hine-ngāpuhi)
-title: "Poroporoaki: Rob Cooper (Ngāti Hine, Ngāpuhi)"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/PA1606/S00362/poroporoaki-rob-cooper-ngati-hine-ngapuhi.htm
+title: 'Poroporoaki: Rob Cooper (Ngāti Hine, Ngāpuhi)'
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00362/poroporoaki-rob-cooper-ngati-hine-ngapuhi.htm
 author: te-pati-maori
+permalink: /archive/2016/06/21/poroporoaki-rob-cooper-/index.html
+layout: layout.njk
 ---
 Poroporoaki: Rob Cooper (Ngāti Hine, Ngāpuhi)
 =============================================

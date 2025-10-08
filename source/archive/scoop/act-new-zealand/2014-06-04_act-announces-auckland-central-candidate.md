@@ -1,9 +1,12 @@
 ---
 slug: act-announces-auckland-central-candidate
-title: "ACT announces Auckland Central candidate"
-date: 2014-06-04
-source-url: https://www.scoop.co.nz/stories/PO1406/S00049/act-announces-auckland-central-candidate.htm
+title: ACT announces Auckland Central candidate
+date: 2014-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00049/act-announces-auckland-central-candidate.htm
 author: act-new-zealand
+permalink: /archive/2014/06/04/act-announces-auckland-central-candidate/index.html
+layout: layout.njk
 ---
 ACT announces Auckland Central candidate
 ========================================

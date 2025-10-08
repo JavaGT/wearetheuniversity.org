@@ -1,9 +1,13 @@
 ---
 slug: drought-hit-mudfish-insight-into-surviving-climate-change
-title: "Drought-hit mudfish insight into surviving climate change"
-date: 2017-06-16
-source-url: https://www.scoop.co.nz/stories/SC1706/S00036/drought-hit-mudfish-insight-into-surviving-climate-change.htm
+title: Drought-hit mudfish insight into surviving climate change
+date: 2017-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00036/drought-hit-mudfish-insight-into-surviving-climate-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/16/drought-hit-mudfish-insight-into-surviving-climate-change/index.html
+layout: layout.njk
 ---
 Drought-hit mudfish insight into surviving climate change
 =========================================================

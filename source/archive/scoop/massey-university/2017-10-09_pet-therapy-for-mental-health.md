@@ -1,9 +1,12 @@
 ---
 slug: pet-therapy-for-mental-health
-title: "Pet Therapy for Mental Health"
-date: 2017-10-09
-source-url: https://www.scoop.co.nz/stories/GE1710/S00049/pet-therapy-for-mental-health.htm
+title: Pet Therapy for Mental Health
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00049/pet-therapy-for-mental-health.htm
 author: massey-university
+permalink: /archive/2017/10/09/pet-therapy-for-mental-health/index.html
+layout: layout.njk
 ---
 Pet Therapy for Mental Health
 =============================

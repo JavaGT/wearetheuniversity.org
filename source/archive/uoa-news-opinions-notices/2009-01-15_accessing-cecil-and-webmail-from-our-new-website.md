@@ -1,8 +1,12 @@
 ---
 slug: accessing-cecil-and-webmail-from-our-new-website
-title: "Accessing CECIL and Webmail from our new website"
-date: 2009-01-15
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/01/15/Accessing-CECIL-and-Webmail-from-our-new-website.html
+title: Accessing CECIL and Webmail from our new website
+date: 2009-01-15T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/01/15/Accessing-CECIL-and-Webmail-from-our-new-website.html
+permalink: >-
+  /archive/2009/01/15/accessing-cecil-and-webmail-from-our-new-website/index.html
+layout: layout.njk
 ---
 Accessing CECIL and Webmail from our new website
 ================================================

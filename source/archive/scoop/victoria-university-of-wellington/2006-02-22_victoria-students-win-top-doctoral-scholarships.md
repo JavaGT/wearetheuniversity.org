@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-win-top-doctoral-scholarships
-title: "Victoria students win Top Doctoral Scholarships"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/ED0602/S00058/victoria-students-win-top-doctoral-scholarships.htm
+title: Victoria students win Top Doctoral Scholarships
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00058/victoria-students-win-top-doctoral-scholarships.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/02/22/victoria-students-win-top-doctoral-scholarships/index.html
+layout: layout.njk
 ---
 Victoria students win Top Doctoral Scholarships
 ===============================================

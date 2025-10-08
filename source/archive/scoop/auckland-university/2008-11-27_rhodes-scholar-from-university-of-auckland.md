@@ -1,9 +1,12 @@
 ---
 slug: rhodes-scholar-from-university-of-auckland
-title: "Rhodes Scholar from University of Auckland"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/ED0811/S00082/rhodes-scholar-from-university-of-auckland.htm
+title: Rhodes Scholar from University of Auckland
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00082/rhodes-scholar-from-university-of-auckland.htm
 author: auckland-university
+permalink: /archive/2008/11/27/rhodes-scholar-from-university-of-auckland/index.html
+layout: layout.njk
 ---
 Rhodes Scholar from University of Auckland
 ==========================================

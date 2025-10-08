@@ -1,9 +1,13 @@
 ---
 slug: optimism-for-long-term-benefits-of-2001-health-ref
-title: "Optimism for long-term benefits of 2001 health ref"
-date: 2007-08-27
-source-url: https://www.scoop.co.nz/stories/GE0708/S00113/optimism-for-long-term-benefits-of-2001-health-ref.htm
+title: Optimism for long-term benefits of 2001 health ref
+date: 2007-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0708/S00113/optimism-for-long-term-benefits-of-2001-health-ref.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/08/27/optimism-for-long-term-benefits-of-2001-health-ref/index.html
+layout: layout.njk
 ---
 Optimism for long-term benefits of 2001 health ref
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: prime-misinformer-ending-campaign-how-he-started
-title: "Prime Misinformer Ending Campaign How He Started"
-date: 2023-10-10
-source-url: https://www.scoop.co.nz/stories/PA2310/S00069/prime-misinformer-ending-campaign-how-he-started.htm
+title: Prime Misinformer Ending Campaign How He Started
+date: 2023-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00069/prime-misinformer-ending-campaign-how-he-started.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/10/10/prime-misinformer-ending-campaign-how-he-started/index.html
+layout: layout.njk
 ---
 Prime Misinformer Ending Campaign How He Started
 ================================================

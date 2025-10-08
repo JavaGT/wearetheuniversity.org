@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-uncovers-information-on-european-explorers
-title: "UC researcher uncovers information on European explorers"
-date: 2015-02-15
-source-url: https://www.scoop.co.nz/stories/ED1502/S00051/uc-researcher-uncovers-information-on-european-explorers.htm
+title: UC researcher uncovers information on European explorers
+date: 2015-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00051/uc-researcher-uncovers-information-on-european-explorers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/15/uc-researcher-uncovers-information-on-european-explorers/index.html
+layout: layout.njk
 ---
 UC researcher uncovers information on European explorers
 ========================================================

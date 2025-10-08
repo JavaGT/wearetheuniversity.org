@@ -1,9 +1,12 @@
 ---
 slug: student-debt-delays-kids-new-report
-title: "Student debt delays kids – new report"
-date: 2015-08-11
-source-url: https://www.scoop.co.nz/stories/PO1508/S00116/student-debt-delays-kids-new-report.htm
+title: Student debt delays kids – new report
+date: 2015-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1508/S00116/student-debt-delays-kids-new-report.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/08/11/student-debt-delays-kids-new-report/index.html
+layout: layout.njk
 ---
 Student debt delays kids – new report
 =====================================

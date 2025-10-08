@@ -1,9 +1,16 @@
 ---
-slug: national-excellence-award-for-passionate-teacher-of-te-reo-māori-in-teacher-education
-title: "National Excellence Award For Passionate Teacher Of Te Reo Māori In Teacher Education"
-date: 2020-08-13
-source-url: https://www.scoop.co.nz/stories/ED2008/S00017/national-excellence-award-for-passionate-teacher-of-te-reo-maori-in-teacher-education.htm
+slug: >-
+  national-excellence-award-for-passionate-teacher-of-te-reo-māori-in-teacher-education
+title: >-
+  National Excellence Award For Passionate Teacher Of Te Reo Māori In Teacher
+  Education
+date: 2020-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00017/national-excellence-award-for-passionate-teacher-of-te-reo-maori-in-teacher-education.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/13/national-excellence-award-for-passionate-teacher-of-te-reo-m/index.html
+layout: layout.njk
 ---
 National Excellence Award For Passionate Teacher Of Te Reo Māori In Teacher Education
 =====================================================================================

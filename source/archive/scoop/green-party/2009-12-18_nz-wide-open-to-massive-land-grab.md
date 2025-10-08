@@ -1,9 +1,12 @@
 ---
 slug: nz-wide-open-to-massive-land-grab
-title: "NZ wide open to massive land grab"
-date: 2009-12-18
-source-url: https://www.scoop.co.nz/stories/PA0912/S00325/nz-wide-open-to-massive-land-grab.htm
+title: NZ wide open to massive land grab
+date: 2009-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00325/nz-wide-open-to-massive-land-grab.htm
 author: green-party
+permalink: /archive/2009/12/18/nz-wide-open-to-massive-land-grab/index.html
+layout: layout.njk
 ---
 NZ wide open to massive land grab
 =================================

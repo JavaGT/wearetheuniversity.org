@@ -1,9 +1,12 @@
 ---
 slug: book-on-mäori-newspapers-provides-insight
-title: "Book on Mäori newspapers provides insight"
-date: 2006-08-31
-source-url: https://www.scoop.co.nz/stories/CU0608/S00321/book-on-maori-newspapers-provides-insight.htm
+title: Book on Mäori newspapers provides insight
+date: 2006-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0608/S00321/book-on-maori-newspapers-provides-insight.htm
 author: massey-university
+permalink: /archive/2006/08/31/book-on-m/index.html
+layout: layout.njk
 ---
 Book on Mäori newspapers provides insight
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: does-a-brush-with-death-affect-sleep
-title: "Does a brush with death affect sleep?"
-date: 2016-11-07
-source-url: https://www.scoop.co.nz/stories/ED1611/S00040/does-a-brush-with-death-affect-sleep.htm
+title: Does a brush with death affect sleep?
+date: 2016-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00040/does-a-brush-with-death-affect-sleep.htm
 author: massey-university
+permalink: /archive/2016/11/07/does-a-brush-with-death-affect-sleep/index.html
+layout: layout.njk
 ---
 Does a brush with death affect sleep?
 =====================================

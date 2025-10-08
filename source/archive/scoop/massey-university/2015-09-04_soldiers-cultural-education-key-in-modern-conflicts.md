@@ -1,9 +1,13 @@
 ---
 slug: soldiers-cultural-education-key-in-modern-conflicts
-title: "Soldiers’ cultural education key in modern conflicts"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/ED1509/S00026/soldiers-cultural-education-key-in-modern-conflicts.htm
+title: Soldiers’ cultural education key in modern conflicts
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00026/soldiers-cultural-education-key-in-modern-conflicts.htm
 author: massey-university
+permalink: >-
+  /archive/2015/09/04/soldiers-cultural-education-key-in-modern-conflicts/index.html
+layout: layout.njk
 ---
 Soldiers’ cultural education key in modern conflicts
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: road-injury-a-big-problem-for-global-health
-title: "Road Injury: A Big Problem for Global Health"
-date: 2006-05-05
-source-url: https://www.scoop.co.nz/stories/GE0605/S00041/road-injury-a-big-problem-for-global-health.htm
+title: 'Road Injury: A Big Problem for Global Health'
+date: 2006-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00041/road-injury-a-big-problem-for-global-health.htm
 author: auckland-university
+permalink: /archive/2006/05/05/road-injury-a-big-problem-for-global-health/index.html
+layout: layout.njk
 ---
 Road Injury: A Big Problem for Global Health
 ============================================

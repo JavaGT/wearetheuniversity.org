@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-boris-yeltsin
-title: "Heather Roy's Diary - Boris Yeltsin"
-date: 2007-04-27
-source-url: https://www.scoop.co.nz/stories/PA0704/S00462/heather-roys-diary-boris-yeltsin.htm
+title: Heather Roy's Diary - Boris Yeltsin
+date: 2007-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00462/heather-roys-diary-boris-yeltsin.htm
 author: act-new-zealand
+permalink: /archive/2007/04/27/heather-roys-diary-boris-yeltsin/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Boris Yeltsin
 ===================================

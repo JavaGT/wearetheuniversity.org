@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-scoops-12-marsden-grants
-title: "Victoria University scoops 12 Marsden grants"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00148/victoria-university-scoops-12-marsden-grants.htm
+title: Victoria University scoops 12 Marsden grants
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00148/victoria-university-scoops-12-marsden-grants.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/10/25/victoria-university-scoops-12-marsden-grants/index.html
+layout: layout.njk
 ---
 Victoria University scoops 12 Marsden grants
 ============================================

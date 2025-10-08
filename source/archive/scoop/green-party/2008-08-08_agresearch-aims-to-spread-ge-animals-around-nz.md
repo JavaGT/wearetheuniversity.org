@@ -1,9 +1,12 @@
 ---
 slug: agresearch-aims-to-spread-ge-animals-around-nz
-title: "AgResearch aims to spread GE animals around NZ"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/PA0808/S00150/agresearch-aims-to-spread-ge-animals-around-nz.htm
+title: AgResearch aims to spread GE animals around NZ
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00150/agresearch-aims-to-spread-ge-animals-around-nz.htm
 author: green-party
+permalink: /archive/2008/08/08/agresearch-aims-to-spread-ge-animals-around-nz/index.html
+layout: layout.njk
 ---
 AgResearch aims to spread GE animals around NZ
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-vow-to-protect-student-services
-title: "Students vow to protect student services"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/ED0909/S00090/students-vow-to-protect-student-services.htm
+title: Students vow to protect student services
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00090/students-vow-to-protect-student-services.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/09/24/students-vow-to-protect-student-services/index.html
+layout: layout.njk
 ---
 Students vow to protect student services
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: private-tertiary-education-in-freefall-under-national
-title: "Private tertiary education in freefall under National"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/PA1511/S00156/private-tertiary-education-in-freefall-under-national.htm
+title: Private tertiary education in freefall under National
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00156/private-tertiary-education-in-freefall-under-national.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/11/10/private-tertiary-education-in-freefall-under-national/index.html
+layout: layout.njk
 ---
 Private tertiary education in freefall under National
 =====================================================

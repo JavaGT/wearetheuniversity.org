@@ -1,9 +1,12 @@
 ---
 slug: greens-not-opposed-to-ge-for-medical-research
-title: "Greens Not Opposed to GE for Medical Research"
-date: 2000-02-02
-source-url: https://www.scoop.co.nz/stories/PA0002/S00020/greens-not-opposed-to-ge-for-medical-research.htm
+title: Greens Not Opposed to GE for Medical Research
+date: 2000-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00020/greens-not-opposed-to-ge-for-medical-research.htm
 author: green-party
+permalink: /archive/2000/02/02/greens-not-opposed-to-ge-for-medical-research/index.html
+layout: layout.njk
 ---
 Greens Not Opposed to GE for Medical Research
 =============================================

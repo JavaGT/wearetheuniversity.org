@@ -1,9 +1,12 @@
 ---
 slug: amateur-stargazer-to-receive-honorary-doctorate
-title: "Amateur stargazer to receive honorary doctorate"
-date: 2004-01-26
-source-url: https://www.scoop.co.nz/stories/ED0401/S00029/amateur-stargazer-to-receive-honorary-doctorate.htm
+title: Amateur stargazer to receive honorary doctorate
+date: 2004-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00029/amateur-stargazer-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/01/26/amateur-stargazer-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Amateur stargazer to receive honorary doctorate
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: a-vacuum-in-our-history-remembering-our-own-forgotten-wars
-title: "A Vacuum in Our History - Remembering Our Own Forgotten Wars"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/PO1605/S00231/a-vacuum-in-our-history-remembering-our-own-forgotten-wars.htm
+title: A Vacuum in Our History - Remembering Our Own Forgotten Wars
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00231/a-vacuum-in-our-history-remembering-our-own-forgotten-wars.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2016/05/18/a-vacuum-in-our-history-remembering-our-own-forgotten-wars/index.html
+layout: layout.njk
 ---
 A Vacuum in Our History - Remembering Our Own Forgotten Wars
 ============================================================

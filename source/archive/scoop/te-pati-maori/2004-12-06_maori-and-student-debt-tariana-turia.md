@@ -1,9 +1,12 @@
 ---
 slug: maori-and-student-debt-tariana-turia
-title: "Maori and Student Debt - Tariana Turia"
-date: 2004-12-06
-source-url: https://www.scoop.co.nz/stories/PA0412/S00131/maori-and-student-debt-tariana-turia.htm
+title: Maori and Student Debt - Tariana Turia
+date: 2004-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00131/maori-and-student-debt-tariana-turia.htm
 author: te-pati-maori
+permalink: /archive/2004/12/06/maori-and-student-debt-tariana-turia/index.html
+layout: layout.njk
 ---
 Maori and Student Debt - Tariana Turia
 ======================================

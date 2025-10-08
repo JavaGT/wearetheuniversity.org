@@ -1,9 +1,12 @@
 ---
 slug: canterbury-has-designs-on-europe
-title: "Canterbury has designs on Europe"
-date: 2004-11-05
-source-url: https://www.scoop.co.nz/stories/ED0411/S00017/canterbury-has-designs-on-europe.htm
+title: Canterbury has designs on Europe
+date: 2004-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00017/canterbury-has-designs-on-europe.htm
 author: university-of-canterbury
+permalink: /archive/2004/11/05/canterbury-has-designs-on-europe/index.html
+layout: layout.njk
 ---
 Canterbury has designs on Europe
 ================================

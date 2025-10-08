@@ -1,9 +1,12 @@
 ---
 slug: more-unemployed-people-is-a-government-failure
-title: "More unemployed people is a Government failure"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/PA1605/S00058/more-unemployed-people-is-a-government-failure.htm
+title: More unemployed people is a Government failure
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00058/more-unemployed-people-is-a-government-failure.htm
 author: green-party
+permalink: /archive/2016/05/04/more-unemployed-people-is-a-government-failure/index.html
+layout: layout.njk
 ---
 More unemployed people is a Government failure
 ==============================================

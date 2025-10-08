@@ -1,9 +1,12 @@
 ---
 slug: speech-katene-matariki-day-bill
-title: "Speech: Katene - Matariki Day Bill"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/PA0907/S00376/speech-katene-matariki-day-bill.htm
+title: 'Speech: Katene - Matariki Day Bill'
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00376/speech-katene-matariki-day-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/07/30/speech-katene-matariki-day-bill/index.html
+layout: layout.njk
 ---
 Speech: Katene - Matariki Day Bill
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-first-pledges-to-restore-democracy-in-canterbury
-title: "NZ First Pledges to Restore Democracy in Canterbury"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/PA1211/S00292/nz-first-pledges-to-restore-democracy-in-canterbury.htm
+title: NZ First Pledges to Restore Democracy in Canterbury
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00292/nz-first-pledges-to-restore-democracy-in-canterbury.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/11/15/nz-first-pledges-to-restore-democracy-in-canterbury/index.html
+layout: layout.njk
 ---
 NZ First Pledges to Restore Democracy in Canterbury
 ===================================================

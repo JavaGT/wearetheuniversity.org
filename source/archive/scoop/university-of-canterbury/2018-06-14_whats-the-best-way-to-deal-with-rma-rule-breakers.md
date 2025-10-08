@@ -1,9 +1,13 @@
 ---
 slug: whats-the-best-way-to-deal-with-rma-rule-breakers
-title: "What’s the best way to deal with RMA rule-breakers?"
-date: 2018-06-14
-source-url: https://www.scoop.co.nz/stories/PO1806/S00140/whats-the-best-way-to-deal-with-rma-rule-breakers.htm
+title: What’s the best way to deal with RMA rule-breakers?
+date: 2018-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00140/whats-the-best-way-to-deal-with-rma-rule-breakers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/14/whats-the-best-way-to-deal-with-rma-rule-breakers/index.html
+layout: layout.njk
 ---
 What’s the best way to deal with RMA rule-breakers?
 ===================================================

@@ -1,9 +1,11 @@
 ---
 slug: geopolitics-of-the-pacific
-title: "Geopolitics of the Pacific"
-date: 2013-06-19
+title: Geopolitics of the Pacific
+date: 2013-06-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1306/S00101/geopolitics-of-the-pacific.htm
 author: university-of-otago
+permalink: /archive/2013/06/19/geopolitics-of-the-pacific/index.html
+layout: layout.njk
 ---
 Geopolitics of the Pacific
 ==========================

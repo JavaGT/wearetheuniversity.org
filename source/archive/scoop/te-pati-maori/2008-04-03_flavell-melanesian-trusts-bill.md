@@ -1,9 +1,12 @@
 ---
 slug: flavell-melanesian-trusts-bill
-title: "Flavell: Melanesian Trusts Bill"
-date: 2008-04-03
-source-url: https://www.scoop.co.nz/stories/PA0804/S00077/flavell-melanesian-trusts-bill.htm
+title: 'Flavell: Melanesian Trusts Bill'
+date: 2008-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00077/flavell-melanesian-trusts-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/04/03/flavell-melanesian-trusts-bill/index.html
+layout: layout.njk
 ---
 Flavell: Melanesian Trusts Bill
 ===============================

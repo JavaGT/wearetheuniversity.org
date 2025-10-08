@@ -1,9 +1,12 @@
 ---
 slug: 138000-people-out-of-work-need-action
-title: "138,000 people out of work need action"
-date: 2009-08-06
-source-url: https://www.scoop.co.nz/stories/PO0908/S00060/138000-people-out-of-work-need-action.htm
+title: 138,000 people out of work need action
+date: 2009-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00060/138000-people-out-of-work-need-action.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/08/06/138000-people-out-of-work-need-action/index.html
+layout: layout.njk
 ---
 138,000 people out of work need action
 ======================================

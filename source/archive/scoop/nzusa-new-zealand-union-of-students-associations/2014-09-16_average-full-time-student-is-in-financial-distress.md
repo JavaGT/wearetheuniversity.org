@@ -1,9 +1,13 @@
 ---
 slug: average-full-time-student-is-in-financial-distress
-title: "Average Full time Student Is in  Financial Distress"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/PO1409/S00360/average-full-time-student-is-in-financial-distress.htm
+title: Average Full time Student Is in  Financial Distress
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00360/average-full-time-student-is-in-financial-distress.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/09/16/average-full-time-student-is-in-financial-distress/index.html
+layout: layout.njk
 ---
 Average Full time Student Is in Financial Distress
 ==================================================

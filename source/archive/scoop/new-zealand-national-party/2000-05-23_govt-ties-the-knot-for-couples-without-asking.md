@@ -1,9 +1,12 @@
 ---
 slug: govt-ties-the-knot-for-couples-without-asking
-title: "Govt Ties The Knot For Couples Without Asking"
-date: 2000-05-23
-source-url: https://www.scoop.co.nz/stories/PA0005/S00489/govt-ties-the-knot-for-couples-without-asking.htm
+title: Govt Ties The Knot For Couples Without Asking
+date: 2000-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00489/govt-ties-the-knot-for-couples-without-asking.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/23/govt-ties-the-knot-for-couples-without-asking/index.html
+layout: layout.njk
 ---
 Govt Ties The Knot For Couples Without Asking
 =============================================

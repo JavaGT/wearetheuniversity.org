@@ -1,9 +1,13 @@
 ---
 slug: petition-calls-for-permanent-half-price-public-transport-for-all
-title: "Petition Calls For Permanent Half-price Public Transport For All"
-date: 2022-11-03
-source-url: https://www.scoop.co.nz/stories/AK2211/S00051/petition-calls-for-permanent-half-price-public-transport-for-all.htm
+title: Petition Calls For Permanent Half-price Public Transport For All
+date: 2022-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2211/S00051/petition-calls-for-permanent-half-price-public-transport-for-all.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/11/03/petition-calls-for-permanent-half-price-public-transport-for-all/index.html
+layout: layout.njk
 ---
 Petition Calls For Permanent Half-price Public Transport For All
 ================================================================

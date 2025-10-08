@@ -1,9 +1,12 @@
 ---
 slug: peters-morrinsville-greypower
-title: "Peters: Morrinsville GreyPower"
-date: 2008-05-26
-source-url: https://www.scoop.co.nz/stories/PA0805/S00511/peters-morrinsville-greypower.htm
+title: 'Peters: Morrinsville GreyPower'
+date: 2008-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00511/peters-morrinsville-greypower.htm
 author: new-zealand-first-party
+permalink: /archive/2008/05/26/peters-morrinsville-greypower/index.html
+layout: layout.njk
 ---
 Peters: Morrinsville GreyPower
 ==============================

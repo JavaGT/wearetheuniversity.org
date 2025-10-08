@@ -1,9 +1,13 @@
 ---
 slug: environmental-research-institute-signs-biodiversity-accord
-title: "Environmental Research Institute signs Biodiversity Accord"
-date: 2012-08-01
-source-url: https://www.scoop.co.nz/stories/ED1208/S00005/environmental-research-institute-signs-biodiversity-accord.htm
+title: Environmental Research Institute signs Biodiversity Accord
+date: 2012-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00005/environmental-research-institute-signs-biodiversity-accord.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/08/01/environmental-research-institute-signs-biodiversity-accord/index.html
+layout: layout.njk
 ---
 Environmental Research Institute signs Biodiversity Accord
 ==========================================================

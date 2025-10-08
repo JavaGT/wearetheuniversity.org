@@ -1,9 +1,12 @@
 ---
 slug: turai-speech-federation-of-maori-authorities
-title: "Turai Speech: Federation of Maori Authorities"
-date: 2004-11-01
-source-url: https://www.scoop.co.nz/stories/PA0411/S00006/turai-speech-federation-of-maori-authorities.htm
+title: 'Turai Speech: Federation of Maori Authorities'
+date: 2004-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00006/turai-speech-federation-of-maori-authorities.htm
 author: te-pati-maori
+permalink: /archive/2004/11/01/turai-speech-federation-of-maori-authorities/index.html
+layout: layout.njk
 ---
 Turai Speech: Federation of Maori Authorities
 =============================================

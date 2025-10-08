@@ -1,9 +1,13 @@
 ---
 slug: experts-advise-vic-uni-name-change-needs-act-of-parliament
-title: "Experts advise Vic Uni name change needs Act of Parliament"
-date: 2018-11-07
-source-url: https://www.scoop.co.nz/stories/PA1811/S00072/experts-advise-vic-uni-name-change-needs-act-of-parliament.htm
+title: Experts advise Vic Uni name change needs Act of Parliament
+date: 2018-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00072/experts-advise-vic-uni-name-change-needs-act-of-parliament.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/07/experts-advise-vic-uni-name-change-needs-act-of-parliament/index.html
+layout: layout.njk
 ---
 Experts advise Vic Uni name change needs Act of Parliament
 ==========================================================

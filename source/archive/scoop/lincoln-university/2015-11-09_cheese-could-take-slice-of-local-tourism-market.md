@@ -1,9 +1,12 @@
 ---
 slug: cheese-could-take-slice-of-local-tourism-market
-title: "Cheese could take slice of local tourism market"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/BU1511/S00252/cheese-could-take-slice-of-local-tourism-market.htm
+title: Cheese could take slice of local tourism market
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1511/S00252/cheese-could-take-slice-of-local-tourism-market.htm
 author: lincoln-university
+permalink: /archive/2015/11/09/cheese-could-take-slice-of-local-tourism-market/index.html
+layout: layout.njk
 ---
 Cheese could take slice of local tourism market
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: new-technology-aims-to-reduce-risk-of-covid-19-spreading-in-hospitals
-title: "New Technology Aims To Reduce Risk Of Covid-19 Spreading In Hospitals"
-date: 2020-06-25
-source-url: https://www.scoop.co.nz/stories/SC2006/S00058/new-technology-aims-to-reduce-risk-of-covid-19-spreading-in-hospitals.htm
+title: New Technology Aims To Reduce Risk Of Covid-19 Spreading In Hospitals
+date: 2020-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00058/new-technology-aims-to-reduce-risk-of-covid-19-spreading-in-hospitals.htm
 author: aut-university
+permalink: >-
+  /archive/2020/06/25/new-technology-aims-to-reduce-risk-of-covid-19-spreading-in-hospitals/index.html
+layout: layout.njk
 ---
 New Technology Aims To Reduce Risk Of Covid-19 Spreading In Hospitals
 =====================================================================

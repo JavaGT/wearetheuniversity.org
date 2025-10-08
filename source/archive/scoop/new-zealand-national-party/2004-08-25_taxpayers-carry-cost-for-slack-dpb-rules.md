@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-carry-cost-for-slack-dpb-rules
-title: "Taxpayers Carry Cost For Slack DPB Rules"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/PA0408/S00431/taxpayers-carry-cost-for-slack-dpb-rules.htm
+title: Taxpayers Carry Cost For Slack DPB Rules
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00431/taxpayers-carry-cost-for-slack-dpb-rules.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/25/taxpayers-carry-cost-for-slack-dpb-rules/index.html
+layout: layout.njk
 ---
 Taxpayers Carry Cost For Slack DPB Rules
 ========================================

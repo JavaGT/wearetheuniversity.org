@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-37-10-october
-title: "AUS Tertiary Update  Vol. 5  No.  37, 10 October"
-date: 2002-10-10
-source-url: https://www.scoop.co.nz/stories/ED0210/S00029/aus-tertiary-update-vol-5-no-37-10-october.htm
+title: AUS Tertiary Update  Vol. 5  No.  37, 10 October
+date: 2002-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00029/aus-tertiary-update-vol-5-no-37-10-october.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/10/aus-tertiary-update-vol-5-no-37-10-october/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 37, 10 October
 =============================================

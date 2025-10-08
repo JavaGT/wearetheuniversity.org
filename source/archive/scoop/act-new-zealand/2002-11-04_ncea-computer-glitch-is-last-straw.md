@@ -1,9 +1,12 @@
 ---
 slug: ncea-computer-glitch-is-last-straw
-title: "NCEA Computer Glitch is Last Straw"
-date: 2002-11-04
-source-url: https://www.scoop.co.nz/stories/PA0211/S00055/ncea-computer-glitch-is-last-straw.htm
+title: NCEA Computer Glitch is Last Straw
+date: 2002-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00055/ncea-computer-glitch-is-last-straw.htm
 author: act-new-zealand
+permalink: /archive/2002/11/04/ncea-computer-glitch-is-last-straw/index.html
+layout: layout.njk
 ---
 NCEA Computer Glitch is Last Straw
 ==================================

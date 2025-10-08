@@ -1,9 +1,12 @@
 ---
 slug: trust-and-fairness-increases-productivity
-title: "Trust and fairness increases productivity"
-date: 2011-05-24
-source-url: https://www.scoop.co.nz/stories/BU1105/S00825/trust-and-fairness-increases-productivity.htm
+title: Trust and fairness increases productivity
+date: 2011-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1105/S00825/trust-and-fairness-increases-productivity.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/24/trust-and-fairness-increases-productivity/index.html
+layout: layout.njk
 ---
 Trust and fairness increases productivity
 =========================================

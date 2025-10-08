@@ -1,9 +1,13 @@
 ---
 slug: campaign-helps-young-workers-leading-into-holidays
-title: "Campaign Helps Young Workers Leading Into Holidays"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/BU0711/S00012/campaign-helps-young-workers-leading-into-holidays.htm
+title: Campaign Helps Young Workers Leading Into Holidays
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0711/S00012/campaign-helps-young-workers-leading-into-holidays.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2007/11/01/campaign-helps-young-workers-leading-into-holidays/index.html
+layout: layout.njk
 ---
 Campaign Helps Young Workers Leading Into Holidays
 ==================================================

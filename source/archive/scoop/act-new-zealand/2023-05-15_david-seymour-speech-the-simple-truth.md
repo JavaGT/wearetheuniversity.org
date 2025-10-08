@@ -1,9 +1,12 @@
 ---
 slug: david-seymour-speech-the-simple-truth
-title: "David Seymour Speech - The Simple Truth"
-date: 2023-05-15
-source-url: https://www.scoop.co.nz/stories/PA2305/S00099/david-seymour-speech-the-simple-truth.htm
+title: David Seymour Speech - The Simple Truth
+date: 2023-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00099/david-seymour-speech-the-simple-truth.htm
 author: act-new-zealand
+permalink: /archive/2023/05/15/david-seymour-speech-the-simple-truth/index.html
+layout: layout.njk
 ---
 David Seymour Speech - The Simple Truth
 =======================================

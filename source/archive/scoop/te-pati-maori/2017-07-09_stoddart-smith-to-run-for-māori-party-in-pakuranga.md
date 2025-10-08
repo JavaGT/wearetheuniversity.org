@@ -1,9 +1,12 @@
 ---
 slug: stoddart-smith-to-run-for-māori-party-in-pakuranga
-title: "Stoddart-Smith to run for Māori Party in Pakuranga"
-date: 2017-07-09
-source-url: https://www.scoop.co.nz/stories/PO1707/S00112/stoddart-smith-to-run-for-maori-party-in-pakuranga.htm
+title: Stoddart-Smith to run for Māori Party in Pakuranga
+date: 2017-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00112/stoddart-smith-to-run-for-maori-party-in-pakuranga.htm
 author: te-pati-maori
+permalink: /archive/2017/07/09/stoddart-smith-to-run-for-m/index.html
+layout: layout.njk
 ---
 Stoddart-Smith to run for Māori Party in Pakuranga
 ==================================================

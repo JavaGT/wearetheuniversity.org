@@ -1,9 +1,12 @@
 ---
 slug: anderton-says-eat-up-taxpayers-are-paying
-title: "Anderton Says Eat Up, Taxpayers Are Paying"
-date: 2000-06-01
-source-url: https://www.scoop.co.nz/stories/PA0006/S00028/anderton-says-eat-up-taxpayers-are-paying.htm
+title: Anderton Says Eat Up, Taxpayers Are Paying
+date: 2000-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00028/anderton-says-eat-up-taxpayers-are-paying.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/01/anderton-says-eat-up-taxpayers-are-paying/index.html
+layout: layout.njk
 ---
 Anderton Says Eat Up, Taxpayers Are Paying
 ==========================================

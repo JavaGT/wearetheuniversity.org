@@ -1,9 +1,12 @@
 ---
 slug: academic-staff-at-northtec-support-colleagues
-title: "Academic Staff at NorthTec Support Colleagues"
-date: 2008-06-27
-source-url: https://www.scoop.co.nz/stories/ED0806/S00080/academic-staff-at-northtec-support-colleagues.htm
+title: Academic Staff at NorthTec Support Colleagues
+date: 2008-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00080/academic-staff-at-northtec-support-colleagues.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/06/27/academic-staff-at-northtec-support-colleagues/index.html
+layout: layout.njk
 ---
 Academic Staff at NorthTec Support Colleagues
 =============================================

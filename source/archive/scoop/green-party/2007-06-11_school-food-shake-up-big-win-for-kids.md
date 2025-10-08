@@ -1,9 +1,12 @@
 ---
 slug: school-food-shake-up-big-win-for-kids
-title: "School food shake-up big win for kids"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/PA0706/S00173/school-food-shake-up-big-win-for-kids.htm
+title: School food shake-up big win for kids
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00173/school-food-shake-up-big-win-for-kids.htm
 author: green-party
+permalink: /archive/2007/06/11/school-food-shake-up-big-win-for-kids/index.html
+layout: layout.njk
 ---
 School food shake-up big win for kids
 =====================================

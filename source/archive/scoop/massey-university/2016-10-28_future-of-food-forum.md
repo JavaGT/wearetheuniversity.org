@@ -1,9 +1,11 @@
 ---
 slug: future-of-food-forum
-title: "Future of Food Forum"
-date: 2016-10-28
+title: Future of Food Forum
+date: 2016-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1610/S00925/future-of-food-forum.htm
 author: massey-university
+permalink: /archive/2016/10/28/future-of-food-forum/index.html
+layout: layout.njk
 ---
 Future of Food Forum
 ====================

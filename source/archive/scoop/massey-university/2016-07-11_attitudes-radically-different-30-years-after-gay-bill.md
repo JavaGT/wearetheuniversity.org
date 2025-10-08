@@ -1,9 +1,13 @@
 ---
 slug: attitudes-radically-different-30-years-after-gay-bill
-title: "Attitudes ‘radically different’ 30 years after gay bill"
-date: 2016-07-11
-source-url: https://www.scoop.co.nz/stories/PO1607/S00135/attitudes-radically-different-30-years-after-gay-bill.htm
+title: Attitudes ‘radically different’ 30 years after gay bill
+date: 2016-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00135/attitudes-radically-different-30-years-after-gay-bill.htm
 author: massey-university
+permalink: >-
+  /archive/2016/07/11/attitudes-radically-different-30-years-after-gay-bill/index.html
+layout: layout.njk
 ---
 Attitudes ‘radically different’ 30 years after gay bill
 =======================================================

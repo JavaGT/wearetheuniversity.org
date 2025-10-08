@@ -1,9 +1,12 @@
 ---
 slug: tenuous-place-of-languages-exposed
-title: "‘Tenuous’ place of languages exposed"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/ED1412/S00048/tenuous-place-of-languages-exposed.htm
+title: ‘Tenuous’ place of languages exposed
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00048/tenuous-place-of-languages-exposed.htm
 author: massey-university
+permalink: /archive/2014/12/08/tenuous-place-of-languages-exposed/index.html
+layout: layout.njk
 ---
 ‘Tenuous’ place of languages exposed
 ====================================

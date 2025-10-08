@@ -1,9 +1,12 @@
 ---
 slug: donald-campaign-launch-why-settle-for-less
-title: "Donald Campaign Launch.: Why Settle For Less?"
-date: 2002-07-07
-source-url: https://www.scoop.co.nz/stories/PA0207/S00199/donald-campaign-launch-why-settle-for-less.htm
+title: 'Donald Campaign Launch.: Why Settle For Less?'
+date: 2002-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00199/donald-campaign-launch-why-settle-for-less.htm
 author: green-party
+permalink: /archive/2002/07/07/donald-campaign-launch-why-settle-for-less/index.html
+layout: layout.njk
 ---
 Donald Campaign Launch.: Why Settle For Less?
 =============================================

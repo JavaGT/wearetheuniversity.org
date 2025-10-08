@@ -1,9 +1,12 @@
 ---
 slug: trevor-mallard-misleads-again
-title: "Trevor Mallard misleads again"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00093/trevor-mallard-misleads-again.htm
+title: Trevor Mallard misleads again
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00093/trevor-mallard-misleads-again.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/05/trevor-mallard-misleads-again/index.html
+layout: layout.njk
 ---
 Trevor Mallard misleads again
 =============================

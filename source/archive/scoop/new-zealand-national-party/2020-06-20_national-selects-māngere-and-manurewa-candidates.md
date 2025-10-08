@@ -1,9 +1,12 @@
 ---
 slug: national-selects-māngere-and-manurewa-candidates
-title: "National Selects Māngere And Manurewa Candidates"
-date: 2020-06-20
-source-url: https://www.scoop.co.nz/stories/PA2006/S00198/national-selects-mangere-and-manurewa-candidates.htm
+title: National Selects Māngere And Manurewa Candidates
+date: 2020-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00198/national-selects-mangere-and-manurewa-candidates.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/20/national-selects-m/index.html
+layout: layout.njk
 ---
 National Selects Māngere And Manurewa Candidates
 ================================================

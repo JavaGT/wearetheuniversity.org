@@ -1,9 +1,13 @@
 ---
 slug: nz-treasures-entrusted-to-uk-museum-found-on-open-market
-title: "NZ treasures entrusted to UK museum found on open market"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/CU1104/S00234/nz-treasures-entrusted-to-uk-museum-found-on-open-market.htm
+title: NZ treasures entrusted to UK museum found on open market
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00234/nz-treasures-entrusted-to-uk-museum-found-on-open-market.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/14/nz-treasures-entrusted-to-uk-museum-found-on-open-market/index.html
+layout: layout.njk
 ---
 NZ treasures entrusted to UK museum found on open market
 ========================================================

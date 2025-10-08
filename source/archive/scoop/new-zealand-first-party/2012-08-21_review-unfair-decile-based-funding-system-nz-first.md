@@ -1,9 +1,13 @@
 ---
 slug: review-unfair-decile-based-funding-system-nz-first
-title: "Review Unfair Decile-Based Funding System – NZ First"
-date: 2012-08-21
-source-url: https://www.scoop.co.nz/stories/PA1208/S00287/review-unfair-decile-based-funding-system-nz-first.htm
+title: Review Unfair Decile-Based Funding System – NZ First
+date: 2012-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00287/review-unfair-decile-based-funding-system-nz-first.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/08/21/review-unfair-decile-based-funding-system-nz-first/index.html
+layout: layout.njk
 ---
 Review Unfair Decile-Based Funding System – NZ First
 ====================================================

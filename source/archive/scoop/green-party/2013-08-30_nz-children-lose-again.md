@@ -1,9 +1,11 @@
 ---
 slug: nz-children-lose-again
-title: "NZ children lose again"
-date: 2013-08-30
+title: NZ children lose again
+date: 2013-08-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1308/S00517/nz-children-lose-again.htm
 author: green-party
+permalink: /archive/2013/08/30/nz-children-lose-again/index.html
+layout: layout.njk
 ---
 NZ children lose again
 ======================

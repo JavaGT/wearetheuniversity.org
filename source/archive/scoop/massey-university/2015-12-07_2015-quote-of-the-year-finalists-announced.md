@@ -1,9 +1,12 @@
 ---
 slug: 2015-quote-of-the-year-finalists-announced
-title: "2015 Quote of the Year finalists announced"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/CU1512/S00101/2015-quote-of-the-year-finalists-announced.htm
+title: 2015 Quote of the Year finalists announced
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00101/2015-quote-of-the-year-finalists-announced.htm
 author: massey-university
+permalink: /archive/2015/12/07/2015-quote-of-the-year-finalists-announced/index.html
+layout: layout.njk
 ---
 2015 Quote of the Year finalists announced
 ==========================================

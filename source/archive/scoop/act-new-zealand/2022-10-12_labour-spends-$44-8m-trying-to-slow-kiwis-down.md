@@ -1,9 +1,12 @@
 ---
 slug: labour-spends-$44-8m-trying-to-slow-kiwis-down
-title: "Labour Spends $44.8m Trying To Slow Kiwis Down"
-date: 2022-10-12
-source-url: https://www.scoop.co.nz/stories/PA2210/S00070/labour-spends-448m-trying-to-slow-kiwis-down.htm
+title: Labour Spends $44.8m Trying To Slow Kiwis Down
+date: 2022-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00070/labour-spends-448m-trying-to-slow-kiwis-down.htm
 author: act-new-zealand
+permalink: /archive/2022/10/12/labour-spends-/index.html
+layout: layout.njk
 ---
 Labour Spends $44.8m Trying To Slow Kiwis Down
 ==============================================

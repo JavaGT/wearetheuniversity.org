@@ -1,9 +1,13 @@
 ---
 slug: brief-sleep-intervention-works-to-prevent-child-obesity
-title: "Brief sleep intervention works to prevent child obesity"
-date: 2018-09-03
-source-url: https://www.scoop.co.nz/stories/GE1809/S00003/brief-sleep-intervention-works-to-prevent-child-obesity.htm
+title: Brief sleep intervention works to prevent child obesity
+date: 2018-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00003/brief-sleep-intervention-works-to-prevent-child-obesity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/03/brief-sleep-intervention-works-to-prevent-child-obesity/index.html
+layout: layout.njk
 ---
 Brief sleep intervention works to prevent child obesity
 =======================================================

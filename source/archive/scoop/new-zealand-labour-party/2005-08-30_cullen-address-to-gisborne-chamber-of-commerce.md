@@ -1,9 +1,12 @@
 ---
 slug: cullen-address-to-gisborne-chamber-of-commerce
-title: "Cullen Address to Gisborne Chamber of Commerce"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00809/cullen-address-to-gisborne-chamber-of-commerce.htm
+title: Cullen Address to Gisborne Chamber of Commerce
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00809/cullen-address-to-gisborne-chamber-of-commerce.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/30/cullen-address-to-gisborne-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Cullen Address to Gisborne Chamber of Commerce
 ==============================================

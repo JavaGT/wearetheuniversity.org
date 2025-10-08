@@ -1,9 +1,12 @@
 ---
 slug: acc-changes-show-communism-still-alive-in-nz
-title: "ACC changes show Communism still alive in NZ"
-date: 1999-12-23
-source-url: https://www.scoop.co.nz/stories/PO9912/S00050/acc-changes-show-communism-still-alive-in-nz.htm
+title: ACC changes show Communism still alive in NZ
+date: 1999-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9912/S00050/acc-changes-show-communism-still-alive-in-nz.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/23/acc-changes-show-communism-still-alive-in-nz/index.html
+layout: layout.njk
 ---
 ACC changes show Communism still alive in NZ
 ============================================

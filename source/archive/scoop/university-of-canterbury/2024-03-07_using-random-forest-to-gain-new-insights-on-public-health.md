@@ -1,9 +1,13 @@
 ---
 slug: using-random-forest-to-gain-new-insights-on-public-health
-title: "Using ‘random Forest’ To Gain New Insights On Public Health"
-date: 2024-03-07
-source-url: https://www.scoop.co.nz/stories/ED2403/S00008/using-random-forest-to-gain-new-insights-on-public-health.htm
+title: Using ‘random Forest’ To Gain New Insights On Public Health
+date: 2024-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2403/S00008/using-random-forest-to-gain-new-insights-on-public-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/03/07/using-random-forest-to-gain-new-insights-on-public-health/index.html
+layout: layout.njk
 ---
 Using ‘random Forest’ To Gain New Insights On Public Health
 ===========================================================

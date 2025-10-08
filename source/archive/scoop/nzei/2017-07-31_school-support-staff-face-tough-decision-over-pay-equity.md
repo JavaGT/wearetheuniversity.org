@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-face-tough-decision-over-pay-equity
-title: "School support staff face tough decision over pay equity"
-date: 2017-07-31
-source-url: https://www.scoop.co.nz/stories/ED1707/S00104/school-support-staff-face-tough-decision-over-pay-equity.htm
+title: School support staff face tough decision over pay equity
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00104/school-support-staff-face-tough-decision-over-pay-equity.htm
 author: nzei
+permalink: >-
+  /archive/2017/07/31/school-support-staff-face-tough-decision-over-pay-equity/index.html
+layout: layout.njk
 ---
 School support staff face tough decision over pay equity
 ========================================================

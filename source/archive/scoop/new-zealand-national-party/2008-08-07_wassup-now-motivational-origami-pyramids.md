@@ -1,9 +1,12 @@
 ---
 slug: wassup-now-motivational-origami-pyramids
-title: "Wassup now? Motivational origami pyramids."
-date: 2008-08-07
-source-url: https://www.scoop.co.nz/stories/PA0808/S00117/wassup-now-motivational-origami-pyramids.htm
+title: Wassup now? Motivational origami pyramids.
+date: 2008-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00117/wassup-now-motivational-origami-pyramids.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/07/wassup-now-motivational-origami-pyramids/index.html
+layout: layout.njk
 ---
 Wassup now? Motivational origami pyramids.
 ==========================================

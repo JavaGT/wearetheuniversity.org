@@ -1,9 +1,12 @@
 ---
 slug: the-hollow-men-our-democracy-or-theirs
-title: "The Hollow Men: Our Democracy Or Theirs?"
-date: 2007-04-24
-source-url: https://www.scoop.co.nz/stories/PO0704/S00309/the-hollow-men-our-democracy-or-theirs.htm
+title: 'The Hollow Men: Our Democracy Or Theirs?'
+date: 2007-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00309/the-hollow-men-our-democracy-or-theirs.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/04/24/the-hollow-men-our-democracy-or-theirs/index.html
+layout: layout.njk
 ---
 The Hollow Men: Our Democracy Or Theirs?
 ========================================

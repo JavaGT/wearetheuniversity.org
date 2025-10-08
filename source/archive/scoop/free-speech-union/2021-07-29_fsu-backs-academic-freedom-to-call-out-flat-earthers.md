@@ -1,9 +1,13 @@
 ---
 slug: fsu-backs-academic-freedom-to-call-out-flat-earthers
-title: "FSU Backs Academic Freedom To Call Out Flat-earthers"
-date: 2021-07-29
-source-url: https://www.scoop.co.nz/stories/ED2107/S00044/fsu-backs-academic-freedom-to-call-out-flat-earthers.htm
+title: FSU Backs Academic Freedom To Call Out Flat-earthers
+date: 2021-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00044/fsu-backs-academic-freedom-to-call-out-flat-earthers.htm
 author: free-speech-union
+permalink: >-
+  /archive/2021/07/29/fsu-backs-academic-freedom-to-call-out-flat-earthers/index.html
+layout: layout.njk
 ---
 FSU Backs Academic Freedom To Call Out Flat-earthers
 ====================================================

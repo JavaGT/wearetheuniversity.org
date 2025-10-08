@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-climate-change-proposals
-title: "Greens launch climate change proposals"
-date: 2006-03-31
-source-url: https://www.scoop.co.nz/stories/PA0603/S00594/greens-launch-climate-change-proposals.htm
+title: Greens launch climate change proposals
+date: 2006-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00594/greens-launch-climate-change-proposals.htm
 author: green-party
+permalink: /archive/2006/03/31/greens-launch-climate-change-proposals/index.html
+layout: layout.njk
 ---
 Greens launch climate change proposals
 ======================================

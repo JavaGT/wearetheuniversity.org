@@ -1,9 +1,12 @@
 ---
 slug: reserve-bank-concern-exposes-national-back-flip
-title: "Reserve Bank concern exposes National ‘back-flip’"
-date: 2009-07-06
-source-url: https://www.scoop.co.nz/stories/PA0907/S00094/reserve-bank-concern-exposes-national-back-flip.htm
+title: Reserve Bank concern exposes National ‘back-flip’
+date: 2009-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00094/reserve-bank-concern-exposes-national-back-flip.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/06/reserve-bank-concern-exposes-national-back-flip/index.html
+layout: layout.njk
 ---
 Reserve Bank concern exposes National ‘back-flip’
 =================================================

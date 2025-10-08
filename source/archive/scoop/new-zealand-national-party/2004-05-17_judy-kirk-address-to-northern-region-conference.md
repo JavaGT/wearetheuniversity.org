@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-address-to-northern-region-conference
-title: "Judy Kirk – Address To Northern Region Conference"
-date: 2004-05-17
-source-url: https://www.scoop.co.nz/stories/PA0405/S00329/judy-kirk-address-to-northern-region-conference.htm
+title: Judy Kirk – Address To Northern Region Conference
+date: 2004-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00329/judy-kirk-address-to-northern-region-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/17/judy-kirk-address-to-northern-region-conference/index.html
+layout: layout.njk
 ---
 Judy Kirk – Address To Northern Region Conference
 =================================================

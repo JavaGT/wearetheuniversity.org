@@ -1,9 +1,13 @@
 ---
 slug: underfunding-set-to-continue-for-canterbury-mental-health
-title: "Underfunding set to continue for Canterbury mental health"
-date: 2016-03-21
-source-url: https://www.scoop.co.nz/stories/PA1603/S00356/underfunding-set-to-continue-for-canterbury-mental-health.htm
+title: Underfunding set to continue for Canterbury mental health
+date: 2016-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00356/underfunding-set-to-continue-for-canterbury-mental-health.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/03/21/underfunding-set-to-continue-for-canterbury-mental-health/index.html
+layout: layout.njk
 ---
 Underfunding set to continue for Canterbury mental health
 =========================================================

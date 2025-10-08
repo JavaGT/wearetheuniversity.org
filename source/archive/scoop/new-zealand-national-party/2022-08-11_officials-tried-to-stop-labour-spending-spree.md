@@ -1,9 +1,12 @@
 ---
 slug: officials-tried-to-stop-labour-spending-spree
-title: "Officials Tried To Stop Labour Spending Spree"
-date: 2022-08-11
-source-url: https://www.scoop.co.nz/stories/PA2208/S00110/officials-tried-to-stop-labour-spending-spree.htm
+title: Officials Tried To Stop Labour Spending Spree
+date: 2022-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00110/officials-tried-to-stop-labour-spending-spree.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/11/officials-tried-to-stop-labour-spending-spree/index.html
+layout: layout.njk
 ---
 Officials Tried To Stop Labour Spending Spree
 =============================================

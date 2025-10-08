@@ -1,9 +1,12 @@
 ---
 slug: orthopaedic-surgery-grinds-to-a-halt-in-dunedin
-title: "Orthopaedic surgery grinds to a halt in Dunedin"
-date: 2004-04-29
-source-url: https://www.scoop.co.nz/stories/PA0404/S00477/orthopaedic-surgery-grinds-to-a-halt-in-dunedin.htm
+title: Orthopaedic surgery grinds to a halt in Dunedin
+date: 2004-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00477/orthopaedic-surgery-grinds-to-a-halt-in-dunedin.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/29/orthopaedic-surgery-grinds-to-a-halt-in-dunedin/index.html
+layout: layout.njk
 ---
 Orthopaedic surgery grinds to a halt in Dunedin
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: health-safeguards-for-taiwan-too-tariana-turia
-title: "Health safeguards for Taiwan, too Tariana Turia"
-date: 2006-05-17
-source-url: https://www.scoop.co.nz/stories/PA0605/S00384/health-safeguards-for-taiwan-too-tariana-turia.htm
+title: Health safeguards for Taiwan, too Tariana Turia
+date: 2006-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00384/health-safeguards-for-taiwan-too-tariana-turia.htm
 author: te-pati-maori
+permalink: /archive/2006/05/17/health-safeguards-for-taiwan-too-tariana-turia/index.html
+layout: layout.njk
 ---
 Health safeguards for Taiwan, too Tariana Turia
 ===============================================

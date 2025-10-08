@@ -1,9 +1,13 @@
 ---
 slug: four-claude-mccarthy-fellowships-for-waikato-post-grads
-title: "Four Claude McCarthy Fellowships for Waikato post-grads"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/ED1411/S00141/four-claude-mccarthy-fellowships-for-waikato-post-grads.htm
+title: Four Claude McCarthy Fellowships for Waikato post-grads
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00141/four-claude-mccarthy-fellowships-for-waikato-post-grads.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/21/four-claude-mccarthy-fellowships-for-waikato-post-grads/index.html
+layout: layout.njk
 ---
 Four Claude McCarthy Fellowships for Waikato post-grads
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: australian-day-of-action-nov-15-2005-nz-events
-title: "Australian Day of Action Nov 15 2005 - NZ Events"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/PO0511/S00103/australian-day-of-action-nov-15-2005-nz-events.htm
+title: Australian Day of Action Nov 15 2005 - NZ Events
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0511/S00103/australian-day-of-action-nov-15-2005-nz-events.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/11/14/australian-day-of-action-nov-15-2005-nz-events/index.html
+layout: layout.njk
 ---
 Australian Day of Action Nov 15 2005 - NZ Events
 ================================================

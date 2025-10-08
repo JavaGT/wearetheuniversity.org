@@ -1,9 +1,12 @@
 ---
 slug: soes-plans-will-hurt-households
-title: "SOE’s plans will hurt households"
-date: 2002-09-13
-source-url: https://www.scoop.co.nz/stories/PA0209/S00226/soes-plans-will-hurt-households.htm
+title: SOE’s plans will hurt households
+date: 2002-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00226/soes-plans-will-hurt-households.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/13/soes-plans-will-hurt-households/index.html
+layout: layout.njk
 ---
 SOE’s plans will hurt households
 ================================

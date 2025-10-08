@@ -1,9 +1,12 @@
 ---
 slug: state-of-the-nation-reveals-government-failure
-title: "State Of The Nation Reveals Government Failure"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00140/state-of-the-nation-reveals-government-failure.htm
+title: State Of The Nation Reveals Government Failure
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00140/state-of-the-nation-reveals-government-failure.htm
 author: green-party
+permalink: /archive/2013/02/13/state-of-the-nation-reveals-government-failure/index.html
+layout: layout.njk
 ---
 State Of The Nation Reveals Government Failure
 ==============================================

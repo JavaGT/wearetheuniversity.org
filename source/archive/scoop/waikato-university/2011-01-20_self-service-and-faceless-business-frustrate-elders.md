@@ -1,9 +1,13 @@
 ---
 slug: self-service-and-faceless-business-frustrate-elders
-title: "Self service and faceless business frustrate elders"
-date: 2011-01-20
-source-url: https://www.scoop.co.nz/stories/GE1101/S00051/self-service-and-faceless-business-frustrate-elders.htm
+title: Self service and faceless business frustrate elders
+date: 2011-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1101/S00051/self-service-and-faceless-business-frustrate-elders.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/01/20/self-service-and-faceless-business-frustrate-elders/index.html
+layout: layout.njk
 ---
 Self service and faceless business frustrate elders
 ===================================================

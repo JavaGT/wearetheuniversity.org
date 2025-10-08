@@ -1,9 +1,12 @@
 ---
 slug: university-staff-welcome-maharey-appointment
-title: "University staff welcome Maharey appointment"
-date: 2007-10-19
-source-url: https://www.scoop.co.nz/stories/ED0710/S00066/university-staff-welcome-maharey-appointment.htm
+title: University staff welcome Maharey appointment
+date: 2007-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00066/university-staff-welcome-maharey-appointment.htm
 author: association-of-university-staff
+permalink: /archive/2007/10/19/university-staff-welcome-maharey-appointment/index.html
+layout: layout.njk
 ---
 University staff welcome Maharey appointment
 ============================================

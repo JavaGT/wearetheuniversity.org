@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-21-march-2003
-title: "Beehive Bulletin  - Friday 21 March 2003"
-date: 2003-03-21
-source-url: https://www.scoop.co.nz/stories/PA0303/S00410/beehive-bulletin-friday-21-march-2003.htm
+title: Beehive Bulletin  - Friday 21 March 2003
+date: 2003-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00410/beehive-bulletin-friday-21-march-2003.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/03/21/beehive-bulletin-friday-21-march-2003/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - Friday 21 March 2003
 =======================================

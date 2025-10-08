@@ -1,9 +1,12 @@
 ---
 slug: book-launch-tuahine-sisters-of-porangahau
-title: "Book Launch: Tuahine Sisters of Porangahau"
-date: 2007-11-11
-source-url: https://www.scoop.co.nz/stories/PA0711/S00206/book-launch-tuahine-sisters-of-porangahau.htm
+title: 'Book Launch: Tuahine Sisters of Porangahau'
+date: 2007-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00206/book-launch-tuahine-sisters-of-porangahau.htm
 author: te-pati-maori
+permalink: /archive/2007/11/11/book-launch-tuahine-sisters-of-porangahau/index.html
+layout: layout.njk
 ---
 Book Launch: Tuahine Sisters of Porangahau
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-in-denial-on-ed-crisis
-title: "Prime Minister in denial on ED crisis"
-date: 2008-09-08
-source-url: https://www.scoop.co.nz/stories/PA0809/S00172/prime-minister-in-denial-on-ed-crisis.htm
+title: Prime Minister in denial on ED crisis
+date: 2008-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00172/prime-minister-in-denial-on-ed-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/08/prime-minister-in-denial-on-ed-crisis/index.html
+layout: layout.njk
 ---
 Prime Minister in denial on ED crisis
 =====================================

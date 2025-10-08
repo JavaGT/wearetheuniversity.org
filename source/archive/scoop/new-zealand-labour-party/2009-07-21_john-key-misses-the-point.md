@@ -1,9 +1,11 @@
 ---
 slug: john-key-misses-the-point
-title: "John Key misses the point"
-date: 2009-07-21
+title: John Key misses the point
+date: 2009-07-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0907/S00214/john-key-misses-the-point.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/21/john-key-misses-the-point/index.html
+layout: layout.njk
 ---
 John Key misses the point
 =========================

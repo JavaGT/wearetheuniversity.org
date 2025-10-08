@@ -1,9 +1,12 @@
 ---
 slug: teens-who-shun-tv-may-relate-better-to-peers
-title: "Teens who shun TV may relate better to peers"
-date: 2010-03-02
-source-url: https://www.scoop.co.nz/stories/ED1003/S00008/teens-who-shun-tv-may-relate-better-to-peers.htm
+title: Teens who shun TV may relate better to peers
+date: 2010-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00008/teens-who-shun-tv-may-relate-better-to-peers.htm
 author: university-of-otago
+permalink: /archive/2010/03/02/teens-who-shun-tv-may-relate-better-to-peers/index.html
+layout: layout.njk
 ---
 Teens who shun TV may relate better to peers
 ============================================

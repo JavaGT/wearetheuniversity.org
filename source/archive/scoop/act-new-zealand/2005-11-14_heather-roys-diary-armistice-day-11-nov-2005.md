@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-armistice-day-11-nov-2005
-title: "Heather Roy's Diary -  Armistice Day 11 Nov 2005"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/PA0511/S00164/heather-roys-diary-armistice-day-11-nov-2005.htm
+title: Heather Roy's Diary -  Armistice Day 11 Nov 2005
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00164/heather-roys-diary-armistice-day-11-nov-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/11/14/heather-roys-diary-armistice-day-11-nov-2005/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Armistice Day 11 Nov 2005
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-favours-fast-growth-ahead-of-balanced-growth
-title: "PM favours fast growth ahead of balanced growth"
-date: 2010-02-24
-source-url: https://www.scoop.co.nz/stories/PA1002/S00333/pm-favours-fast-growth-ahead-of-balanced-growth.htm
+title: PM favours fast growth ahead of balanced growth
+date: 2010-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00333/pm-favours-fast-growth-ahead-of-balanced-growth.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/24/pm-favours-fast-growth-ahead-of-balanced-growth/index.html
+layout: layout.njk
 ---
 PM favours fast growth ahead of balanced growth
 ===============================================

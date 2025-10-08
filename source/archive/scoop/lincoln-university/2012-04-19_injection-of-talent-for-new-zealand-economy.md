@@ -1,9 +1,12 @@
 ---
 slug: injection-of-talent-for-new-zealand-economy
-title: "Injection of talent for New Zealand economy"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/ED1204/S00071/injection-of-talent-for-new-zealand-economy.htm
+title: Injection of talent for New Zealand economy
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00071/injection-of-talent-for-new-zealand-economy.htm
 author: lincoln-university
+permalink: /archive/2012/04/19/injection-of-talent-for-new-zealand-economy/index.html
+layout: layout.njk
 ---
 Injection of talent for New Zealand economy
 ===========================================

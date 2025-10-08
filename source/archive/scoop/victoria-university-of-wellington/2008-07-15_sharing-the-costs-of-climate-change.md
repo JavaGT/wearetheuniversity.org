@@ -1,9 +1,12 @@
 ---
 slug: sharing-the-costs-of-climate-change
-title: "Sharing the costs of climate change"
-date: 2008-07-15
-source-url: https://www.scoop.co.nz/stories/ED0807/S00042/sharing-the-costs-of-climate-change.htm
+title: Sharing the costs of climate change
+date: 2008-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00042/sharing-the-costs-of-climate-change.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/07/15/sharing-the-costs-of-climate-change/index.html
+layout: layout.njk
 ---
 Sharing the costs of climate change
 ===================================

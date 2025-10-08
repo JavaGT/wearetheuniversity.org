@@ -1,9 +1,12 @@
 ---
 slug: te-hira-paenga-sets-the-record-straight
-title: "Te Hira Paenga sets the record straight"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PO1409/S00410/te-hira-paenga-sets-the-record-straight.htm
+title: Te Hira Paenga sets the record straight
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00410/te-hira-paenga-sets-the-record-straight.htm
 author: te-pati-maori
+permalink: /archive/2014/09/18/te-hira-paenga-sets-the-record-straight/index.html
+layout: layout.njk
 ---
 Te Hira Paenga sets the record straight
 =======================================

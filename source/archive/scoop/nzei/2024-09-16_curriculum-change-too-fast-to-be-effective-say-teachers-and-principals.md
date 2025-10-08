@@ -1,9 +1,13 @@
 ---
 slug: curriculum-change-too-fast-to-be-effective-say-teachers-and-principals
-title: "Curriculum Change Too Fast To Be Effective, Say Teachers And Principals"
-date: 2024-09-16
-source-url: https://www.scoop.co.nz/stories/ED2409/S00035/curriculum-change-too-fast-to-be-effective-say-teachers-and-principals.htm
+title: Curriculum Change Too Fast To Be Effective, Say Teachers And Principals
+date: 2024-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00035/curriculum-change-too-fast-to-be-effective-say-teachers-and-principals.htm
 author: nzei
+permalink: >-
+  /archive/2024/09/16/curriculum-change-too-fast-to-be-effective-say-teachers-and-principals/index.html
+layout: layout.njk
 ---
 Curriculum Change Too Fast To Be Effective, Say Teachers And Principals
 =======================================================================

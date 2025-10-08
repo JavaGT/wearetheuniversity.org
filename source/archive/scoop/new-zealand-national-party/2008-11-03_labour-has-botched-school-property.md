@@ -1,9 +1,12 @@
 ---
 slug: labour-has-botched-school-property
-title: "Labour has botched school property"
-date: 2008-11-03
-source-url: https://www.scoop.co.nz/stories/PA0811/S00017/labour-has-botched-school-property.htm
+title: Labour has botched school property
+date: 2008-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00017/labour-has-botched-school-property.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/03/labour-has-botched-school-property/index.html
+layout: layout.njk
 ---
 Labour has botched school property
 ==================================

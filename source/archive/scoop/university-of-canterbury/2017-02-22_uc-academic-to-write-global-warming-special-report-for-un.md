@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-to-write-global-warming-special-report-for-un
-title: "UC academic to write Global Warming Special Report for UN"
-date: 2017-02-22
-source-url: https://www.scoop.co.nz/stories/SC1702/S00072/uc-academic-to-write-global-warming-special-report-for-un.htm
+title: UC academic to write Global Warming Special Report for UN
+date: 2017-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00072/uc-academic-to-write-global-warming-special-report-for-un.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/02/22/uc-academic-to-write-global-warming-special-report-for-un/index.html
+layout: layout.njk
 ---
 UC academic to write Global Warming Special Report for UN
 =========================================================

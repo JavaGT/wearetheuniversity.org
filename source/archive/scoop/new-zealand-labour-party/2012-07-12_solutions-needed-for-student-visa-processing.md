@@ -1,9 +1,12 @@
 ---
 slug: solutions-needed-for-student-visa-processing
-title: "Solutions needed for student visa processing"
-date: 2012-07-12
-source-url: https://www.scoop.co.nz/stories/PA1207/S00155/solutions-needed-for-student-visa-processing.htm
+title: Solutions needed for student visa processing
+date: 2012-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00155/solutions-needed-for-student-visa-processing.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/12/solutions-needed-for-student-visa-processing/index.html
+layout: layout.njk
 ---
 Solutions needed for student visa processing
 ============================================

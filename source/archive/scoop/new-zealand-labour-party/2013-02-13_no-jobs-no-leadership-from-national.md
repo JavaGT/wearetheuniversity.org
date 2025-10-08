@@ -1,9 +1,12 @@
 ---
 slug: no-jobs-no-leadership-from-national
-title: "No Jobs, No Leadership From National"
-date: 2013-02-13
-source-url: https://www.scoop.co.nz/stories/PA1302/S00166/no-jobs-no-leadership-from-national.htm
+title: No Jobs, No Leadership From National
+date: 2013-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00166/no-jobs-no-leadership-from-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/13/no-jobs-no-leadership-from-national/index.html
+layout: layout.njk
 ---
 No Jobs, No Leadership From National
 ====================================

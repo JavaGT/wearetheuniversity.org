@@ -1,9 +1,13 @@
 ---
 slug: nzusa-misrepresents-centre-right-voting-students
-title: "NZUSA misrepresents centre right voting students"
-date: 2005-11-11
-source-url: https://www.scoop.co.nz/stories/ED0511/S00053/nzusa-misrepresents-centre-right-voting-students.htm
+title: NZUSA misrepresents centre right voting students
+date: 2005-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00053/nzusa-misrepresents-centre-right-voting-students.htm
 author: student-choice
+permalink: >-
+  /archive/2005/11/11/nzusa-misrepresents-centre-right-voting-students/index.html
+layout: layout.njk
 ---
 NZUSA misrepresents centre right voting students
 ================================================

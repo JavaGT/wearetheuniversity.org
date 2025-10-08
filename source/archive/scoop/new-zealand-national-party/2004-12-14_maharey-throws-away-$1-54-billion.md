@@ -1,9 +1,12 @@
 ---
 slug: maharey-throws-away-$1-54-billion
-title: "Maharey throws away $1.54 billion"
-date: 2004-12-14
-source-url: https://www.scoop.co.nz/stories/PA0412/S00353/maharey-throws-away-154-billion.htm
+title: Maharey throws away $1.54 billion
+date: 2004-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00353/maharey-throws-away-154-billion.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/14/maharey-throws-away-/index.html
+layout: layout.njk
 ---
 Maharey throws away $1.54 billion
 =================================

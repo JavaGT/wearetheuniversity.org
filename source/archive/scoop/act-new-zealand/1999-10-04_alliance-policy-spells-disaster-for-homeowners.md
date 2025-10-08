@@ -1,9 +1,12 @@
 ---
 slug: alliance-policy-spells-disaster-for-homeowners
-title: "Alliance policy spells disaster for homeowners"
-date: 1999-10-04
-source-url: https://www.scoop.co.nz/stories/PA9910/S00047/alliance-policy-spells-disaster-for-homeowners.htm
+title: Alliance policy spells disaster for homeowners
+date: 1999-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00047/alliance-policy-spells-disaster-for-homeowners.htm
 author: act-new-zealand
+permalink: /archive/1999/10/04/alliance-policy-spells-disaster-for-homeowners/index.html
+layout: layout.njk
 ---
 Alliance policy spells disaster for homeowners
 ==============================================

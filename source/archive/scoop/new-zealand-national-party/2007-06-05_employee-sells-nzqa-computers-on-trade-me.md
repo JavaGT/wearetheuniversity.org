@@ -1,9 +1,12 @@
 ---
 slug: employee-sells-nzqa-computers-on-trade-me
-title: "Employee sells NZQA computers on Trade Me?"
-date: 2007-06-05
-source-url: https://www.scoop.co.nz/stories/PA0706/S00048/employee-sells-nzqa-computers-on-trade-me.htm
+title: Employee sells NZQA computers on Trade Me?
+date: 2007-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00048/employee-sells-nzqa-computers-on-trade-me.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/05/employee-sells-nzqa-computers-on-trade-me/index.html
+layout: layout.njk
 ---
 Employee sells NZQA computers on Trade Me?
 ==========================================

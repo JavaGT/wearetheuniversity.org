@@ -1,9 +1,12 @@
 ---
 slug: vicarious-trauma-risk-from-disaster-coverage
-title: "Vicarious trauma risk from disaster coverage"
-date: 2011-03-17
-source-url: https://www.scoop.co.nz/stories/SC1103/S00059/vicarious-trauma-risk-from-disaster-coverage.htm
+title: Vicarious trauma risk from disaster coverage
+date: 2011-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1103/S00059/vicarious-trauma-risk-from-disaster-coverage.htm
 author: massey-university
+permalink: /archive/2011/03/17/vicarious-trauma-risk-from-disaster-coverage/index.html
+layout: layout.njk
 ---
 Vicarious trauma risk from disaster coverage
 ============================================

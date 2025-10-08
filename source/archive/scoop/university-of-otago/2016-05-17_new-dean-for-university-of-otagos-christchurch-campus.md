@@ -1,9 +1,13 @@
 ---
 slug: new-dean-for-university-of-otagos-christchurch-campus
-title: "New Dean for University of Otago’s Christchurch campus"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/ED1605/S00066/new-dean-for-university-of-otagos-christchurch-campus.htm
+title: New Dean for University of Otago’s Christchurch campus
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00066/new-dean-for-university-of-otagos-christchurch-campus.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/17/new-dean-for-university-of-otagos-christchurch-campus/index.html
+layout: layout.njk
 ---
 New Dean for University of Otago’s Christchurch campus
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: health-boards-must-release-budgets
-title: "Health Boards Must Release Budgets"
-date: 2002-05-08
-source-url: https://www.scoop.co.nz/stories/PA0205/S00170/health-boards-must-release-budgets.htm
+title: Health Boards Must Release Budgets
+date: 2002-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00170/health-boards-must-release-budgets.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/08/health-boards-must-release-budgets/index.html
+layout: layout.njk
 ---
 Health Boards Must Release Budgets
 ==================================

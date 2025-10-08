@@ -1,9 +1,11 @@
 ---
 slug: a-job-for-every-graduate
-title: "A Job For Every Graduate"
-date: 2013-09-11
+title: A Job For Every Graduate
+date: 2013-09-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1309/S00063/a-job-for-every-graduate.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/09/11/a-job-for-every-graduate/index.html
+layout: layout.njk
 ---
 A Job For Every Graduate
 ========================

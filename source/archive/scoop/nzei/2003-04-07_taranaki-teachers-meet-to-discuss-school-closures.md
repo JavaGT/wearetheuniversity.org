@@ -1,9 +1,13 @@
 ---
 slug: taranaki-teachers-meet-to-discuss-school-closures
-title: "Taranaki Teachers Meet To Discuss School Closures"
-date: 2003-04-07
-source-url: https://www.scoop.co.nz/stories/ED0304/S00013/taranaki-teachers-meet-to-discuss-school-closures.htm
+title: Taranaki Teachers Meet To Discuss School Closures
+date: 2003-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00013/taranaki-teachers-meet-to-discuss-school-closures.htm
 author: nzei
+permalink: >-
+  /archive/2003/04/07/taranaki-teachers-meet-to-discuss-school-closures/index.html
+layout: layout.njk
 ---
 Taranaki Teachers Meet To Discuss School Closures
 =================================================

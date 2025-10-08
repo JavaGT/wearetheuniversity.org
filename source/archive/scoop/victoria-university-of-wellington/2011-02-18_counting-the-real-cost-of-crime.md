@@ -1,9 +1,12 @@
 ---
 slug: counting-the-real-cost-of-crime
-title: "Counting the real cost of crime"
-date: 2011-02-18
-source-url: https://www.scoop.co.nz/stories/PO1102/S00167/counting-the-real-cost-of-crime.htm
+title: Counting the real cost of crime
+date: 2011-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00167/counting-the-real-cost-of-crime.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/02/18/counting-the-real-cost-of-crime/index.html
+layout: layout.njk
 ---
 Counting the real cost of crime
 ===============================

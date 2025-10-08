@@ -1,9 +1,12 @@
 ---
 slug: nationals-changes-leave-student-bodies-in-chaos
-title: "National’s changes leave student bodies in chaos"
-date: 2015-03-30
-source-url: https://www.scoop.co.nz/stories/PA1503/S00429/nationals-changes-leave-student-bodies-in-chaos.htm
+title: National’s changes leave student bodies in chaos
+date: 2015-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00429/nationals-changes-leave-student-bodies-in-chaos.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/30/nationals-changes-leave-student-bodies-in-chaos/index.html
+layout: layout.njk
 ---
 National’s changes leave student bodies in chaos
 ================================================

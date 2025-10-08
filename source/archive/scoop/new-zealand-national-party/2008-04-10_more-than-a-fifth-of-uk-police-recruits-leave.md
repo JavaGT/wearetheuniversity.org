@@ -1,9 +1,12 @@
 ---
 slug: more-than-a-fifth-of-uk-police-recruits-leave
-title: "More than a fifth of UK police recruits leave"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00273/more-than-a-fifth-of-uk-police-recruits-leave.htm
+title: More than a fifth of UK police recruits leave
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00273/more-than-a-fifth-of-uk-police-recruits-leave.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/10/more-than-a-fifth-of-uk-police-recruits-leave/index.html
+layout: layout.njk
 ---
 More than a fifth of UK police recruits leave
 =============================================

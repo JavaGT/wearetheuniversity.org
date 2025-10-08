@@ -1,9 +1,12 @@
 ---
 slug: minister-ignores-maths-under-achievement
-title: "Minister ignores maths under-achievement"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00323/minister-ignores-maths-under-achievement.htm
+title: Minister ignores maths under-achievement
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00323/minister-ignores-maths-under-achievement.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/19/minister-ignores-maths-under-achievement/index.html
+layout: layout.njk
 ---
 Minister ignores maths under-achievement
 ========================================

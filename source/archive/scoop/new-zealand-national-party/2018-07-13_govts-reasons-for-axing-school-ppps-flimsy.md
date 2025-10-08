@@ -1,9 +1,12 @@
 ---
 slug: govts-reasons-for-axing-school-ppps-flimsy
-title: "Govt’s reasons for axing school PPPs flimsy"
-date: 2018-07-13
-source-url: https://www.scoop.co.nz/stories/PA1807/S00126/govts-reasons-for-axing-school-ppps-flimsy.htm
+title: Govt’s reasons for axing school PPPs flimsy
+date: 2018-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00126/govts-reasons-for-axing-school-ppps-flimsy.htm
 author: new-zealand-national-party
+permalink: /archive/2018/07/13/govts-reasons-for-axing-school-ppps-flimsy/index.html
+layout: layout.njk
 ---
 Govt’s reasons for axing school PPPs flimsy
 ===========================================

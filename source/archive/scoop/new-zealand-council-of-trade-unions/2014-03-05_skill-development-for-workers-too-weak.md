@@ -1,9 +1,12 @@
 ---
 slug: skill-development-for-workers-too-weak
-title: "Skill development for workers too weak"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/ED1403/S00021/skill-development-for-workers-too-weak.htm
+title: Skill development for workers too weak
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00021/skill-development-for-workers-too-weak.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/03/05/skill-development-for-workers-too-weak/index.html
+layout: layout.njk
 ---
 Skill development for workers too weak
 ======================================

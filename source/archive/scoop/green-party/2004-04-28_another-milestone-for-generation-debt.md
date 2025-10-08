@@ -1,9 +1,12 @@
 ---
 slug: another-milestone-for-generation-debt
-title: "Another milestone for Generation Debt"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/PA0404/S00436/another-milestone-for-generation-debt.htm
+title: Another milestone for Generation Debt
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00436/another-milestone-for-generation-debt.htm
 author: green-party
+permalink: /archive/2004/04/28/another-milestone-for-generation-debt/index.html
+layout: layout.njk
 ---
 Another milestone for Generation Debt
 =====================================

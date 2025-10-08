@@ -1,9 +1,16 @@
 ---
-slug: peaceful-palestine-protest-met-with-disorderly-violence-from-otago-university-campus-security
-title: "Peaceful Palestine Protest Met With Disorderly Violence From Otago University Campus Security"
-date: 2024-10-09
-source-url: https://www.scoop.co.nz/stories/ED2410/S00015/peaceful-palestine-protest-met-with-disorderly-violence-from-otago-university-campus-security.htm
+slug: >-
+  peaceful-palestine-protest-met-with-disorderly-violence-from-otago-university-campus-security
+title: >-
+  Peaceful Palestine Protest Met With Disorderly Violence From Otago University
+  Campus Security
+date: 2024-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2410/S00015/peaceful-palestine-protest-met-with-disorderly-violence-from-otago-university-campus-security.htm
 author: otago-students-for-justice-in-palestine
+permalink: >-
+  /archive/2024/10/09/peaceful-palestine-protest-met-with-disorderly-violence-from-otago-university-campus-security/index.html
+layout: layout.njk
 ---
 Peaceful Palestine Protest Met With Disorderly Violence From Otago University Campus Security
 =============================================================================================

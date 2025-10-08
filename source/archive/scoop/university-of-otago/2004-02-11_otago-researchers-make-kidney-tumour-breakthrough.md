@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-make-kidney-tumour-breakthrough
-title: "Otago Researchers Make Kidney Tumour Breakthrough"
-date: 2004-02-11
-source-url: https://www.scoop.co.nz/stories/GE0402/S00027/otago-researchers-make-kidney-tumour-breakthrough.htm
+title: Otago Researchers Make Kidney Tumour Breakthrough
+date: 2004-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0402/S00027/otago-researchers-make-kidney-tumour-breakthrough.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/02/11/otago-researchers-make-kidney-tumour-breakthrough/index.html
+layout: layout.njk
 ---
 Otago Researchers Make Kidney Tumour Breakthrough
 =================================================

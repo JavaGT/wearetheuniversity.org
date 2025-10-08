@@ -1,9 +1,13 @@
 ---
 slug: labour-cut-police-budget-as-gang-membership-soars
-title: "Labour Cut Police Budget As Gang Membership Soars"
-date: 2021-05-24
-source-url: https://www.scoop.co.nz/stories/PA2105/S00209/labour-cut-police-budget-as-gang-membership-soars.htm
+title: Labour Cut Police Budget As Gang Membership Soars
+date: 2021-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00209/labour-cut-police-budget-as-gang-membership-soars.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/24/labour-cut-police-budget-as-gang-membership-soars/index.html
+layout: layout.njk
 ---
 Labour Cut Police Budget As Gang Membership Soars
 =================================================

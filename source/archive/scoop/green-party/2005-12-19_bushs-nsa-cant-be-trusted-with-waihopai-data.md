@@ -1,9 +1,12 @@
 ---
 slug: bushs-nsa-cant-be-trusted-with-waihopai-data
-title: "Bush's NSA can't be trusted with Waihopai data"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PA0512/S00275/bushs-nsa-cant-be-trusted-with-waihopai-data.htm
+title: Bush's NSA can't be trusted with Waihopai data
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00275/bushs-nsa-cant-be-trusted-with-waihopai-data.htm
 author: green-party
+permalink: /archive/2005/12/19/bushs-nsa-cant-be-trusted-with-waihopai-data/index.html
+layout: layout.njk
 ---
 Bush's NSA can't be trusted with Waihopai data
 ==============================================

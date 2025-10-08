@@ -1,9 +1,13 @@
 ---
 slug: under-20-rugby-squad-member-still-focusing-on-uc
-title: "Under-20 rugby squad member still focusing on UC"
-date: 2015-01-19
-source-url: https://www.scoop.co.nz/stories/ED1501/S00041/under-20-rugby-squad-member-still-focusing-on-uc.htm
+title: Under-20 rugby squad member still focusing on UC
+date: 2015-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00041/under-20-rugby-squad-member-still-focusing-on-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/19/under-20-rugby-squad-member-still-focusing-on-uc/index.html
+layout: layout.njk
 ---
 Under-20 rugby squad member still focusing on UC
 ================================================

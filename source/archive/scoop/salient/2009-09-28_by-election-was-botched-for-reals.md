@@ -1,9 +1,12 @@
 ---
 slug: by-election-was-botched-for-reals
-title: "By-Election was botched for reals"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/ED0909/S00109/by-election-was-botched-for-reals.htm
+title: By-Election was botched for reals
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00109/by-election-was-botched-for-reals.htm
 author: salient
+permalink: /archive/2009/09/28/by-election-was-botched-for-reals/index.html
+layout: layout.njk
 ---
 By-Election was botched for reals
 =================================

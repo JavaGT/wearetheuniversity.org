@@ -1,9 +1,12 @@
 ---
 slug: supporting-older-adults-after-the-earthquake
-title: "Supporting older adults after the earthquake"
-date: 2011-02-26
-source-url: https://www.scoop.co.nz/stories/ED1102/S00077/supporting-older-adults-after-the-earthquake.htm
+title: Supporting older adults after the earthquake
+date: 2011-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00077/supporting-older-adults-after-the-earthquake.htm
 author: massey-university
+permalink: /archive/2011/02/26/supporting-older-adults-after-the-earthquake/index.html
+layout: layout.njk
 ---
 Supporting older adults after the earthquake
 ============================================

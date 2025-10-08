@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-democracy-dies-in-the-pacific
-title: "Future Lefts - Democracy Dies in the Pacific"
-date: 2000-07-19
-source-url: https://www.scoop.co.nz/stories/PO0007/S00071/future-lefts-democracy-dies-in-the-pacific.htm
+title: Future Lefts - Democracy Dies in the Pacific
+date: 2000-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0007/S00071/future-lefts-democracy-dies-in-the-pacific.htm
 author: young-labour
+permalink: /archive/2000/07/19/future-lefts-democracy-dies-in-the-pacific/index.html
+layout: layout.njk
 ---
 Future Lefts - Democracy Dies in the Pacific
 ============================================

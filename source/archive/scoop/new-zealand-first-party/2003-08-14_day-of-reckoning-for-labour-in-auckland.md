@@ -1,9 +1,12 @@
 ---
 slug: day-of-reckoning-for-labour-in-auckland
-title: "Day Of Reckoning For Labour In Auckland"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/PA0308/S00267/day-of-reckoning-for-labour-in-auckland.htm
+title: Day Of Reckoning For Labour In Auckland
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00267/day-of-reckoning-for-labour-in-auckland.htm
 author: new-zealand-first-party
+permalink: /archive/2003/08/14/day-of-reckoning-for-labour-in-auckland/index.html
+layout: layout.njk
 ---
 Day Of Reckoning For Labour In Auckland
 =======================================

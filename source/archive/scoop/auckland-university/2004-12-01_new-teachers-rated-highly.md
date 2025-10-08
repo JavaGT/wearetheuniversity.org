@@ -1,9 +1,11 @@
 ---
 slug: new-teachers-rated-highly
-title: "New teachers rated highly"
-date: 2004-12-01
+title: New teachers rated highly
+date: 2004-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0412/S00003/new-teachers-rated-highly.htm
 author: auckland-university
+permalink: /archive/2004/12/01/new-teachers-rated-highly/index.html
+layout: layout.njk
 ---
 New teachers rated highly
 =========================

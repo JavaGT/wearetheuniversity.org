@@ -1,9 +1,13 @@
 ---
 slug: learning-disorders-to-be-examined-in-major-study
-title: "Learning disorders to be examined in major study"
-date: 2004-12-08
-source-url: https://www.scoop.co.nz/stories/SC0412/S00015/learning-disorders-to-be-examined-in-major-study.htm
+title: Learning disorders to be examined in major study
+date: 2004-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0412/S00015/learning-disorders-to-be-examined-in-major-study.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/12/08/learning-disorders-to-be-examined-in-major-study/index.html
+layout: layout.njk
 ---
 Learning disorders to be examined in major study
 ================================================

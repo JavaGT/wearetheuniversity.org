@@ -1,9 +1,13 @@
 ---
 slug: climate-change-impact-on-youth-mental-health-explored
-title: "Climate Change Impact On Youth Mental Health Explored"
-date: 2023-05-08
-source-url: https://www.scoop.co.nz/stories/ED2305/S00007/climate-change-impact-on-youth-mental-health-explored.htm
+title: Climate Change Impact On Youth Mental Health Explored
+date: 2023-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2305/S00007/climate-change-impact-on-youth-mental-health-explored.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/08/climate-change-impact-on-youth-mental-health-explored/index.html
+layout: layout.njk
 ---
 Climate Change Impact On Youth Mental Health Explored
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: couples-record-bequest-humbling
-title: "Couple's record bequest 'humbling'"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/ED1210/S00150/couples-record-bequest-humbling.htm
+title: Couple's record bequest 'humbling'
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00150/couples-record-bequest-humbling.htm
 author: massey-university
+permalink: /archive/2012/10/25/couples-record-bequest-humbling/index.html
+layout: layout.njk
 ---
 Couple's record bequest 'humbling'
 ==================================

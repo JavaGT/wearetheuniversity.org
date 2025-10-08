@@ -1,9 +1,12 @@
 ---
 slug: speech-prebble-the-real-issues
-title: "Speech - Prebble: The Real Issues"
-date: 1999-06-30
-source-url: https://www.scoop.co.nz/stories/PA9906/S00313/speech-prebble-the-real-issues.htm
+title: 'Speech - Prebble: The Real Issues'
+date: 1999-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00313/speech-prebble-the-real-issues.htm
 author: act-new-zealand
+permalink: /archive/1999/06/30/speech-prebble-the-real-issues/index.html
+layout: layout.njk
 ---
 Speech - Prebble: The Real Issues
 =================================

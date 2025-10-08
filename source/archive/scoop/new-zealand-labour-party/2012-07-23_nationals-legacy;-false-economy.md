@@ -1,9 +1,12 @@
 ---
 slug: nationals-legacy;-false-economy
-title: "National’s legacy; false economy"
-date: 2012-07-23
-source-url: https://www.scoop.co.nz/stories/PA1207/S00279/nationals-legacy-false-economy.htm
+title: National’s legacy; false economy
+date: 2012-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00279/nationals-legacy-false-economy.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/23/nationals-legacy/index.html
+layout: layout.njk
 ---
 National’s legacy; false economy
 ================================

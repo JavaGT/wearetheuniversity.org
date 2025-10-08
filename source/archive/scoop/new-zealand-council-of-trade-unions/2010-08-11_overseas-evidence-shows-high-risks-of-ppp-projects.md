@@ -1,9 +1,13 @@
 ---
 slug: overseas-evidence-shows-high-risks-of-ppp-projects
-title: "Overseas Evidence Shows High Risks Of PPP Projects"
-date: 2010-08-11
-source-url: https://www.scoop.co.nz/stories/PO1008/S00134/overseas-evidence-shows-high-risks-of-ppp-projects.htm
+title: Overseas Evidence Shows High Risks Of PPP Projects
+date: 2010-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00134/overseas-evidence-shows-high-risks-of-ppp-projects.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/08/11/overseas-evidence-shows-high-risks-of-ppp-projects/index.html
+layout: layout.njk
 ---
 Overseas Evidence Shows High Risks Of PPP Projects
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: dipping-in-to-kitty-cant-save-face
-title: "Dipping in to kitty can’t save face"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00546/dipping-in-to-kitty-cant-save-face.htm
+title: Dipping in to kitty can’t save face
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00546/dipping-in-to-kitty-cant-save-face.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/05/30/dipping-in-to-kitty-cant-save-face/index.html
+layout: layout.njk
 ---
 Dipping in to kitty can’t save face
 ===================================

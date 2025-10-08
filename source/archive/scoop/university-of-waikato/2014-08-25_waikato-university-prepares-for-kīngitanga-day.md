@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-prepares-for-kīngitanga-day
-title: "Waikato University prepares for Kīngitanga Day"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/ED1408/S00122/waikato-university-prepares-for-kingitanga-day.htm
+title: Waikato University prepares for Kīngitanga Day
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00122/waikato-university-prepares-for-kingitanga-day.htm
 author: university-of-waikato
+permalink: /archive/2014/08/25/waikato-university-prepares-for-k/index.html
+layout: layout.njk
 ---
 Waikato University prepares for Kīngitanga Day
 ==============================================

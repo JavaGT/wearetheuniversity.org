@@ -1,9 +1,13 @@
 ---
 slug: dance-stdnts-benefit-from-world-first-partnership
-title: "Dance stdnts benefit from world-first partnership"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/ED0508/S00081/dance-stdnts-benefit-from-world-first-partnership.htm
+title: Dance stdnts benefit from world-first partnership
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00081/dance-stdnts-benefit-from-world-first-partnership.htm
 author: aut-university
+permalink: >-
+  /archive/2005/08/17/dance-stdnts-benefit-from-world-first-partnership/index.html
+layout: layout.njk
 ---
 Dance stdnts benefit from world-first partnership
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-grade-point-average-is-nonsense
-title: "NCEA grade point average is nonsense"
-date: 2005-02-21
-source-url: https://www.scoop.co.nz/stories/PA0502/S00436/ncea-grade-point-average-is-nonsense.htm
+title: NCEA grade point average is nonsense
+date: 2005-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00436/ncea-grade-point-average-is-nonsense.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/21/ncea-grade-point-average-is-nonsense/index.html
+layout: layout.njk
 ---
 NCEA grade point average is nonsense
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: kedgley-calls-for-contamination-tests
-title: "Kedgley calls for contamination tests"
-date: 2004-11-18
-source-url: https://www.scoop.co.nz/stories/PA0411/S00408/kedgley-calls-for-contamination-tests.htm
+title: Kedgley calls for contamination tests
+date: 2004-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00408/kedgley-calls-for-contamination-tests.htm
 author: green-party
+permalink: /archive/2004/11/18/kedgley-calls-for-contamination-tests/index.html
+layout: layout.njk
 ---
 Kedgley calls for contamination tests
 =====================================

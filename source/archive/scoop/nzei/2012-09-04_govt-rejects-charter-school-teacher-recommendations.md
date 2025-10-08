@@ -1,9 +1,13 @@
 ---
 slug: govt-rejects-charter-school-teacher-recommendations
-title: "Govt rejects charter school teacher recommendations"
-date: 2012-09-04
-source-url: https://www.scoop.co.nz/stories/ED1209/S00020/govt-rejects-charter-school-teacher-recommendations.htm
+title: Govt rejects charter school teacher recommendations
+date: 2012-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00020/govt-rejects-charter-school-teacher-recommendations.htm
 author: nzei
+permalink: >-
+  /archive/2012/09/04/govt-rejects-charter-school-teacher-recommendations/index.html
+layout: layout.njk
 ---
 Govt rejects charter school teacher recommendations
 ===================================================

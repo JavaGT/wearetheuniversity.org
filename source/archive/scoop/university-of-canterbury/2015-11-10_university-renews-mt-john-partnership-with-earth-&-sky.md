@@ -1,9 +1,13 @@
 ---
 slug: university-renews-mt-john-partnership-with-earth-&-sky
-title: "University renews Mt John partnership with Earth & Sky"
-date: 2015-11-10
-source-url: https://www.scoop.co.nz/stories/SC1511/S00034/university-renews-mt-john-partnership-with-earth-sky.htm
+title: University renews Mt John partnership with Earth & Sky
+date: 2015-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00034/university-renews-mt-john-partnership-with-earth-sky.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/10/university-renews-mt-john-partnership-with-earth-/index.html
+layout: layout.njk
 ---
 University renews Mt John partnership with Earth & Sky
 ======================================================

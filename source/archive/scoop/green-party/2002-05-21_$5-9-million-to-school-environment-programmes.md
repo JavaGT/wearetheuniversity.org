@@ -1,9 +1,12 @@
 ---
 slug: $5-9-million-to-school-environment-programmes
-title: "$5.9 Million To School Environment Programmes"
-date: 2002-05-21
-source-url: https://www.scoop.co.nz/stories/PA0205/S00421/59-million-to-school-environment-programmes.htm
+title: $5.9 Million To School Environment Programmes
+date: 2002-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00421/59-million-to-school-environment-programmes.htm
 author: green-party
+permalink: /archive/2002/05/21/5-9-million-to-school-environment-programmes/index.html
+layout: layout.njk
 ---
 $5.9 Million To School Environment Programmes
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: hepatitis-c…a-sleeping-dragon
-title: "Hepatitis C…A Sleeping Dragon"
-date: 2004-04-08
+title: Hepatitis C…A Sleeping Dragon
+date: 2004-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0404/S00040/hepatitis-ca-sleeping-dragon.htm
 author: university-of-otago
+permalink: /archive/2004/04/08/hepatitis-c/index.html
+layout: layout.njk
 ---
 Hepatitis C…A Sleeping Dragon
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: massey-scoops-third-biggest-funding-share
-title: "Massey scoops third-biggest funding share"
-date: 2007-05-07
-source-url: https://www.scoop.co.nz/stories/ED0705/S00030/massey-scoops-third-biggest-funding-share.htm
+title: Massey scoops third-biggest funding share
+date: 2007-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00030/massey-scoops-third-biggest-funding-share.htm
 author: massey-university
+permalink: /archive/2007/05/07/massey-scoops-third-biggest-funding-share/index.html
+layout: layout.njk
 ---
 Massey scoops third-biggest funding share
 =========================================

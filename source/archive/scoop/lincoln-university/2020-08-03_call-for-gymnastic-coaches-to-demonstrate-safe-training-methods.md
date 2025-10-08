@@ -1,9 +1,13 @@
 ---
 slug: call-for-gymnastic-coaches-to-demonstrate-safe-training-methods
-title: "Call For Gymnastic Coaches To Demonstrate Safe Training Methods"
-date: 2020-08-03
-source-url: https://www.scoop.co.nz/stories/CU2008/S00014/call-for-gymnastic-coaches-to-demonstrate-safe-training-methods.htm
+title: Call For Gymnastic Coaches To Demonstrate Safe Training Methods
+date: 2020-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2008/S00014/call-for-gymnastic-coaches-to-demonstrate-safe-training-methods.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/08/03/call-for-gymnastic-coaches-to-demonstrate-safe-training-methods/index.html
+layout: layout.njk
 ---
 Call For Gymnastic Coaches To Demonstrate Safe Training Methods
 ===============================================================

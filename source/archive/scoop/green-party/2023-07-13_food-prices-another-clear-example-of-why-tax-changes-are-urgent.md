@@ -1,9 +1,13 @@
 ---
 slug: food-prices-another-clear-example-of-why-tax-changes-are-urgent
-title: "Food Prices Another Clear Example Of Why Tax Changes Are Urgent"
-date: 2023-07-13
-source-url: https://www.scoop.co.nz/stories/PA2307/S00067/food-prices-another-clear-example-of-why-tax-changes-are-urgent.htm
+title: Food Prices Another Clear Example Of Why Tax Changes Are Urgent
+date: 2023-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00067/food-prices-another-clear-example-of-why-tax-changes-are-urgent.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/13/food-prices-another-clear-example-of-why-tax-changes-are-urgent/index.html
+layout: layout.njk
 ---
 Food Prices Another Clear Example Of Why Tax Changes Are Urgent
 ===============================================================

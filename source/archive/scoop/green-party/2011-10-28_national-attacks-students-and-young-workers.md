@@ -1,9 +1,12 @@
 ---
 slug: national-attacks-students-and-young-workers
-title: "National attacks students and young workers"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/PA1110/S00443/national-attacks-students-and-young-workers.htm
+title: National attacks students and young workers
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00443/national-attacks-students-and-young-workers.htm
 author: green-party
+permalink: /archive/2011/10/28/national-attacks-students-and-young-workers/index.html
+layout: layout.njk
 ---
 National attacks students and young workers
 ===========================================

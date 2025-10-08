@@ -1,9 +1,12 @@
 ---
 slug: tampered-data-further-knocks-confidence
-title: "Tampered data further knocks confidence"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/ED1306/S00037/tampered-data-further-knocks-confidence.htm
+title: Tampered data further knocks confidence
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00037/tampered-data-further-knocks-confidence.htm
 author: nzei
+permalink: /archive/2013/06/07/tampered-data-further-knocks-confidence/index.html
+layout: layout.njk
 ---
 Tampered data further knocks confidence
 =======================================

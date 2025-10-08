@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-strongly-positioned-for-the-future
-title: "Lincoln University Strongly Positioned For The Future"
-date: 2020-05-29
-source-url: https://www.scoop.co.nz/stories/ED2005/S00071/lincoln-university-strongly-positioned-for-the-future.htm
+title: Lincoln University Strongly Positioned For The Future
+date: 2020-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00071/lincoln-university-strongly-positioned-for-the-future.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/05/29/lincoln-university-strongly-positioned-for-the-future/index.html
+layout: layout.njk
 ---
 Lincoln University Strongly Positioned For The Future
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: university-&-industry-collaborate-to-expand-export
-title: "University & Industry Collaborate To Expand Export"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/ED0406/S00009/university-industry-collaborate-to-expand-export.htm
+title: University & Industry Collaborate To Expand Export
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00009/university-industry-collaborate-to-expand-export.htm
 author: auckland-university
+permalink: /archive/2004/06/02/university-/index.html
+layout: layout.njk
 ---
 University & Industry Collaborate To Expand Export
 ==================================================

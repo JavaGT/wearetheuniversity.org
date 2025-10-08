@@ -1,9 +1,13 @@
 ---
 slug: ectus-technology-set-to-make-international-splash
-title: "Ectus technology set to make international splash"
-date: 2004-09-16
-source-url: https://www.scoop.co.nz/stories/SC0409/S00045/ectus-technology-set-to-make-international-splash.htm
+title: Ectus technology set to make international splash
+date: 2004-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0409/S00045/ectus-technology-set-to-make-international-splash.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/09/16/ectus-technology-set-to-make-international-splash/index.html
+layout: layout.njk
 ---
 Ectus technology set to make international splash
 =================================================

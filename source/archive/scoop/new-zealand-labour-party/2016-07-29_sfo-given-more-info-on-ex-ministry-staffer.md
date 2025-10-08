@@ -1,9 +1,12 @@
 ---
 slug: sfo-given-more-info-on-ex-ministry-staffer
-title: "SFO given more info on ex Ministry staffer"
-date: 2016-07-29
-source-url: https://www.scoop.co.nz/stories/PA1607/S00416/sfo-given-more-info-on-ex-ministry-staffer.htm
+title: SFO given more info on ex Ministry staffer
+date: 2016-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00416/sfo-given-more-info-on-ex-ministry-staffer.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/29/sfo-given-more-info-on-ex-ministry-staffer/index.html
+layout: layout.njk
 ---
 SFO given more info on ex Ministry staffer
 ==========================================

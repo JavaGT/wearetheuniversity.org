@@ -1,9 +1,13 @@
 ---
 slug: uc-research-being-used-in-sky-sports-cricket-coverage
-title: "UC research being used in Sky sports cricket coverage"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/CU1211/S00485/uc-research-being-used-in-sky-sports-cricket-coverage.htm
+title: UC research being used in Sky sports cricket coverage
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1211/S00485/uc-research-being-used-in-sky-sports-cricket-coverage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/23/uc-research-being-used-in-sky-sports-cricket-coverage/index.html
+layout: layout.njk
 ---
 UC research being used in Sky sports cricket coverage
 =====================================================

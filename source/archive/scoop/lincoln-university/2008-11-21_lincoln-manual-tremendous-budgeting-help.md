@@ -1,9 +1,12 @@
 ---
 slug: lincoln-manual-tremendous-budgeting-help
-title: "Lincoln manual ‘tremendous budgeting help’"
-date: 2008-11-21
-source-url: https://www.scoop.co.nz/stories/ED0811/S00060/lincoln-manual-tremendous-budgeting-help.htm
+title: Lincoln manual ‘tremendous budgeting help’
+date: 2008-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00060/lincoln-manual-tremendous-budgeting-help.htm
 author: lincoln-university
+permalink: /archive/2008/11/21/lincoln-manual-tremendous-budgeting-help/index.html
+layout: layout.njk
 ---
 Lincoln manual ‘tremendous budgeting help’
 ==========================================

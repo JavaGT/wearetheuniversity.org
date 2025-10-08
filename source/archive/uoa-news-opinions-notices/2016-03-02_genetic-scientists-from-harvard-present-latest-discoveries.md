@@ -1,8 +1,12 @@
 ---
 slug: genetic-scientists-from-harvard-present-latest-discoveries
-title: "Genetic scientists from Harvard present latest discoveries"
-date: 2016-03-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/genetic-scientists-from-harvard-present-latest-discoveries.html
+title: Genetic scientists from Harvard present latest discoveries
+date: 2016-03-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/genetic-scientists-from-harvard-present-latest-discoveries.html
+permalink: >-
+  /archive/2016/03/02/genetic-scientists-from-harvard-present-latest-discoveries/index.html
+layout: layout.njk
 ---
 Genetic scientists from Harvard present latest discoveries
 ==========================================================

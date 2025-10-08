@@ -1,9 +1,13 @@
 ---
 slug: increase-in-driving-age-detrimental-to-young-peopl
-title: "Increase in driving age detrimental to young peopl"
-date: 2009-11-16
-source-url: https://www.scoop.co.nz/stories/PO0911/S00145/increase-in-driving-age-detrimental-to-young-peopl.htm
+title: Increase in driving age detrimental to young peopl
+date: 2009-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00145/increase-in-driving-age-detrimental-to-young-peopl.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2009/11/16/increase-in-driving-age-detrimental-to-young-peopl/index.html
+layout: layout.njk
 ---
 Increase in driving age detrimental to young peopl
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: bennett-panics-under-poll-pressure
-title: "Bennett Panics under Poll Pressure"
-date: 2016-11-07
-source-url: https://www.scoop.co.nz/stories/PA1611/S00131/bennett-panics-under-poll-pressure.htm
+title: Bennett Panics under Poll Pressure
+date: 2016-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00131/bennett-panics-under-poll-pressure.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/07/bennett-panics-under-poll-pressure/index.html
+layout: layout.njk
 ---
 Bennett Panics under Poll Pressure
 ==================================

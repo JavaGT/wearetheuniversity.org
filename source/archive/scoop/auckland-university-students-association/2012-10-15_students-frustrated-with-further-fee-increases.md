@@ -1,9 +1,12 @@
 ---
 slug: students-frustrated-with-further-fee-increases
-title: "Students frustrated with further fee increases"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/ED1210/S00084/students-frustrated-with-further-fee-increases.htm
+title: Students frustrated with further fee increases
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00084/students-frustrated-with-further-fee-increases.htm
 author: auckland-university-students-association
+permalink: /archive/2012/10/15/students-frustrated-with-further-fee-increases/index.html
+layout: layout.njk
 ---
 Students frustrated with further fee increases
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: academics-brainpower-creates-new-income-stream
-title: "Academic’s brainpower creates new income stream"
-date: 2015-09-17
-source-url: https://www.scoop.co.nz/stories/ED1509/S00103/academics-brainpower-creates-new-income-stream.htm
+title: Academic’s brainpower creates new income stream
+date: 2015-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00103/academics-brainpower-creates-new-income-stream.htm
 author: university-of-canterbury
+permalink: /archive/2015/09/17/academics-brainpower-creates-new-income-stream/index.html
+layout: layout.njk
 ---
 Academic’s brainpower creates new income stream
 ===============================================

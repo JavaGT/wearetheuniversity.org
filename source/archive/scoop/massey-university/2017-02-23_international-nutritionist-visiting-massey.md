@@ -1,9 +1,12 @@
 ---
 slug: international-nutritionist-visiting-massey
-title: "International nutritionist visiting Massey"
-date: 2017-02-23
-source-url: https://www.scoop.co.nz/stories/GE1702/S00103/international-nutritionist-visiting-massey.htm
+title: International nutritionist visiting Massey
+date: 2017-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00103/international-nutritionist-visiting-massey.htm
 author: massey-university
+permalink: /archive/2017/02/23/international-nutritionist-visiting-massey/index.html
+layout: layout.njk
 ---
 International nutritionist visiting Massey
 ==========================================

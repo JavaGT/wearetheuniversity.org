@@ -1,9 +1,12 @@
 ---
 slug: challenging-goals-peter-shirtcliffe
-title: "Challenging Goals - Peter Shirtcliffe"
-date: 2001-03-12
-source-url: https://www.scoop.co.nz/stories/PO0103/S00042/challenging-goals-peter-shirtcliffe.htm
+title: Challenging Goals - Peter Shirtcliffe
+date: 2001-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0103/S00042/challenging-goals-peter-shirtcliffe.htm
 author: act-new-zealand
+permalink: /archive/2001/03/12/challenging-goals-peter-shirtcliffe/index.html
+layout: layout.njk
 ---
 Challenging Goals - Peter Shirtcliffe
 =====================================

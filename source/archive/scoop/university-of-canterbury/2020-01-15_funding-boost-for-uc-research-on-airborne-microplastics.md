@@ -1,9 +1,13 @@
 ---
 slug: funding-boost-for-uc-research-on-airborne-microplastics
-title: "Funding boost for UC research on airborne microplastics"
-date: 2020-01-15
-source-url: https://www.scoop.co.nz/stories/ED2001/S00007/funding-boost-for-uc-research-on-airborne-microplastics.htm
+title: Funding boost for UC research on airborne microplastics
+date: 2020-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2001/S00007/funding-boost-for-uc-research-on-airborne-microplastics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/01/15/funding-boost-for-uc-research-on-airborne-microplastics/index.html
+layout: layout.njk
 ---
 Funding boost for UC research on airborne microplastics
 =======================================================

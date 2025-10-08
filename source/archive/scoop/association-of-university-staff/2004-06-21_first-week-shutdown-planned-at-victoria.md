@@ -1,9 +1,12 @@
 ---
 slug: first-week-shutdown-planned-at-victoria
-title: "\"First-week shutdown\" planned at Victoria"
-date: 2004-06-21
-source-url: https://www.scoop.co.nz/stories/ED0406/S00075/first-week-shutdown-planned-at-victoria.htm
+title: '"First-week shutdown" planned at Victoria'
+date: 2004-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00075/first-week-shutdown-planned-at-victoria.htm
 author: association-of-university-staff
+permalink: /archive/2004/06/21/first-week-shutdown-planned-at-victoria/index.html
+layout: layout.njk
 ---
 "First-week shutdown" planned at Victoria
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: nationals-debt-policy-ambulance-at-cliff-bottom
-title: "National’s debt policy ‘ambulance at cliff bottom'"
-date: 2008-09-24
-source-url: https://www.scoop.co.nz/stories/ED0809/S00078/nationals-debt-policy-ambulance-at-cliff-bottom.htm
+title: National’s debt policy ‘ambulance at cliff bottom'
+date: 2008-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00078/nationals-debt-policy-ambulance-at-cliff-bottom.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2008/09/24/nationals-debt-policy-ambulance-at-cliff-bottom/index.html
+layout: layout.njk
 ---
 National’s debt policy ‘ambulance at cliff bottom'
 ==================================================

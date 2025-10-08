@@ -1,9 +1,11 @@
 ---
 slug: sva-hits-3000-deliveries
-title: "SVA Hits 3,000 Deliveries"
-date: 2021-12-06
+title: SVA Hits 3,000 Deliveries
+date: 2021-12-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU2112/S00037/sva-hits-3000-deliveries.htm
 author: student-volunteer-army
+permalink: /archive/2021/12/06/sva-hits-3000-deliveries/index.html
+layout: layout.njk
 ---
 SVA Hits 3,000 Deliveries
 =========================

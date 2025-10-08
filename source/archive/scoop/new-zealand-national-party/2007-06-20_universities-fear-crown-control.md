@@ -1,9 +1,12 @@
 ---
 slug: universities-fear-crown-control
-title: "Universities fear Crown control"
-date: 2007-06-20
-source-url: https://www.scoop.co.nz/stories/PA0706/S00399/universities-fear-crown-control.htm
+title: Universities fear Crown control
+date: 2007-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00399/universities-fear-crown-control.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/20/universities-fear-crown-control/index.html
+layout: layout.njk
 ---
 Universities fear Crown control
 ===============================

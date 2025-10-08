@@ -1,9 +1,12 @@
 ---
 slug: us-award-for-greenstone-digital-library-project
-title: "US award for Greenstone digital library project"
-date: 2008-12-16
-source-url: https://www.scoop.co.nz/stories/BU0812/S00331/us-award-for-greenstone-digital-library-project.htm
+title: US award for Greenstone digital library project
+date: 2008-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00331/us-award-for-greenstone-digital-library-project.htm
 author: university-of-waikato
+permalink: /archive/2008/12/16/us-award-for-greenstone-digital-library-project/index.html
+layout: layout.njk
 ---
 US award for Greenstone digital library project
 ===============================================

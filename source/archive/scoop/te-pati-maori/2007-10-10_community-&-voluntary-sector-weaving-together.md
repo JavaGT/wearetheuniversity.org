@@ -1,9 +1,12 @@
 ---
 slug: community-&-voluntary-sector-weaving-together
-title: "Community & Voluntary Sector - Weaving Together"
-date: 2007-10-10
-source-url: https://www.scoop.co.nz/stories/PA0710/S00177/community-voluntary-sector-weaving-together.htm
+title: Community & Voluntary Sector - Weaving Together
+date: 2007-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00177/community-voluntary-sector-weaving-together.htm
 author: te-pati-maori
+permalink: /archive/2007/10/10/community-/index.html
+layout: layout.njk
 ---
 Community & Voluntary Sector - Weaving Together
 ===============================================

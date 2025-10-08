@@ -1,9 +1,12 @@
 ---
 slug: speech-bill-english-outline-of-welfare-reforms
-title: "Speech – Bill English: Outline of welfare reforms"
-date: 2003-03-13
-source-url: https://www.scoop.co.nz/stories/PA0303/S00201/speech-bill-english-outline-of-welfare-reforms.htm
+title: 'Speech – Bill English: Outline of welfare reforms'
+date: 2003-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00201/speech-bill-english-outline-of-welfare-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/13/speech-bill-english-outline-of-welfare-reforms/index.html
+layout: layout.njk
 ---
 Speech – Bill English: Outline of welfare reforms
 =================================================

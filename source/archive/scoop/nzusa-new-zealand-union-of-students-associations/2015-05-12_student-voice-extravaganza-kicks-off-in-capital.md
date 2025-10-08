@@ -1,9 +1,12 @@
 ---
 slug: student-voice-extravaganza-kicks-off-in-capital
-title: "Student voice extravaganza kicks off in capital"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/PO1505/S00142/student-voice-extravaganza-kicks-off-in-capital.htm
+title: Student voice extravaganza kicks off in capital
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00142/student-voice-extravaganza-kicks-off-in-capital.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/05/12/student-voice-extravaganza-kicks-off-in-capital/index.html
+layout: layout.njk
 ---
 Student voice extravaganza kicks off in capital
 ===============================================

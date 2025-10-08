@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-98
-title: "Maxim Institute - real issues - No. 98"
-date: 2004-02-20
-source-url: https://www.scoop.co.nz/stories/PO0402/S00116/maxim-institute-real-issues-no-98.htm
+title: Maxim Institute - real issues - No. 98
+date: 2004-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0402/S00116/maxim-institute-real-issues-no-98.htm
 author: maxim-institute
+permalink: /archive/2004/02/20/maxim-institute-real-issues-no-98/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 98
 ======================================

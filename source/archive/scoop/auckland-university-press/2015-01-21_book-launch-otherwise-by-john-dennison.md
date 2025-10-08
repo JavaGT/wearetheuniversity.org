@@ -1,9 +1,12 @@
 ---
 slug: book-launch-otherwise-by-john-dennison
-title: "Book Launch: Otherwise by John Dennison"
-date: 2015-01-21
-source-url: https://www.scoop.co.nz/stories/CU1501/S00218/book-launch-otherwise-by-john-dennison.htm
+title: 'Book Launch: Otherwise by John Dennison'
+date: 2015-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1501/S00218/book-launch-otherwise-by-john-dennison.htm
 author: auckland-university-press
+permalink: /archive/2015/01/21/book-launch-otherwise-by-john-dennison/index.html
+layout: layout.njk
 ---
 Book Launch: Otherwise by John Dennison
 =======================================

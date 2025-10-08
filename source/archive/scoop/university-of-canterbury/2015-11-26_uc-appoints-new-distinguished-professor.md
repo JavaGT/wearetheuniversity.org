@@ -1,9 +1,12 @@
 ---
 slug: uc-appoints-new-distinguished-professor
-title: "UC appoints new Distinguished Professor"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/ED1511/S00123/uc-appoints-new-distinguished-professor.htm
+title: UC appoints new Distinguished Professor
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00123/uc-appoints-new-distinguished-professor.htm
 author: university-of-canterbury
+permalink: /archive/2015/11/26/uc-appoints-new-distinguished-professor/index.html
+layout: layout.njk
 ---
 UC appoints new Distinguished Professor
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: uoa-divestment-in-fossil-fuels-green-lit-or-no
-title: "UOA Divestment in Fossil Fuels: Green-Lit Or No?"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PO1705/S00484/uoa-divestment-in-fossil-fuels-green-lit-or-no.htm
+title: 'UOA Divestment in Fossil Fuels: Green-Lit Or No?'
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00484/uoa-divestment-in-fossil-fuels-green-lit-or-no.htm
 author: auckland-university-students-association
+permalink: /archive/2017/05/31/uoa-divestment-in-fossil-fuels-green-lit-or-no/index.html
+layout: layout.njk
 ---
 UOA Divestment in Fossil Fuels: Green-Lit Or No?
 ================================================

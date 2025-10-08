@@ -1,9 +1,13 @@
 ---
 slug: victoria-celebrates-highest-level-of-sporting-success
-title: "Victoria celebrates highest level of sporting success"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/ED1609/S00101/victoria-celebrates-highest-level-of-sporting-success.htm
+title: Victoria celebrates highest level of sporting success
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00101/victoria-celebrates-highest-level-of-sporting-success.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2016/09/22/victoria-celebrates-highest-level-of-sporting-success/index.html
+layout: layout.njk
 ---
 Victoria celebrates highest level of sporting success
 =====================================================

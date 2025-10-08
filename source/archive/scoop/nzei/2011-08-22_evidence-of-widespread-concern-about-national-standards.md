@@ -1,9 +1,13 @@
 ---
 slug: evidence-of-widespread-concern-about-national-standards
-title: "Evidence of widespread concern about National Standards"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/ED1108/S00118/evidence-of-widespread-concern-about-national-standards.htm
+title: Evidence of widespread concern about National Standards
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00118/evidence-of-widespread-concern-about-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/22/evidence-of-widespread-concern-about-national-standards/index.html
+layout: layout.njk
 ---
 Evidence of widespread concern about National Standards
 =======================================================

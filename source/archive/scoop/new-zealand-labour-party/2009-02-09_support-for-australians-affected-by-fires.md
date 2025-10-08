@@ -1,9 +1,12 @@
 ---
 slug: support-for-australians-affected-by-fires
-title: "Support for Australians affected by fires"
-date: 2009-02-09
-source-url: https://www.scoop.co.nz/stories/PA0902/S00096/support-for-australians-affected-by-fires.htm
+title: Support for Australians affected by fires
+date: 2009-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00096/support-for-australians-affected-by-fires.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/09/support-for-australians-affected-by-fires/index.html
+layout: layout.njk
 ---
 Support for Australians affected by fires
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: nats-failure-to-recognise-or-fix-the-housing-crisis
-title: "Nat's failure to recognise or fix the housing crisis"
-date: 2017-06-09
-source-url: https://www.scoop.co.nz/stories/PA1706/S00166/nats-failure-to-recognise-or-fix-the-housing-crisis.htm
+title: Nat's failure to recognise or fix the housing crisis
+date: 2017-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00166/nats-failure-to-recognise-or-fix-the-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/09/nats-failure-to-recognise-or-fix-the-housing-crisis/index.html
+layout: layout.njk
 ---
 Nat's failure to recognise or fix the housing crisis
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-chancellor-elected-to-university-council
-title: "New Chancellor elected to University Council"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/ED0812/S00020/new-chancellor-elected-to-university-council.htm
+title: New Chancellor elected to University Council
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0812/S00020/new-chancellor-elected-to-university-council.htm
 author: massey-university
+permalink: /archive/2008/12/05/new-chancellor-elected-to-university-council/index.html
+layout: layout.njk
 ---
 New Chancellor elected to University Council
 ============================================

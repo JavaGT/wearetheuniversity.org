@@ -1,9 +1,12 @@
 ---
 slug: nz-opportunities-in-indian-aviation
-title: "NZ opportunities in Indian aviation"
-date: 2006-10-09
-source-url: https://www.scoop.co.nz/stories/GE0610/S00026/nz-opportunities-in-indian-aviation.htm
+title: NZ opportunities in Indian aviation
+date: 2006-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0610/S00026/nz-opportunities-in-indian-aviation.htm
 author: massey-university
+permalink: /archive/2006/10/09/nz-opportunities-in-indian-aviation/index.html
+layout: layout.njk
 ---
 NZ opportunities in Indian aviation
 ===================================

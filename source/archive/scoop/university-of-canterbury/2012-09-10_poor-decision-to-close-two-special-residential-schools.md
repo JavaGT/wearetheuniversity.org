@@ -1,9 +1,13 @@
 ---
 slug: poor-decision-to-close-two-special-residential-schools
-title: "Poor decision to close two special residential schools"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/ED1209/S00053/poor-decision-to-close-two-special-residential-schools.htm
+title: Poor decision to close two special residential schools
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00053/poor-decision-to-close-two-special-residential-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/10/poor-decision-to-close-two-special-residential-schools/index.html
+layout: layout.njk
 ---
 Poor decision to close two special residential schools
 ======================================================

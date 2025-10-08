@@ -1,9 +1,12 @@
 ---
 slug: young-gun-kristy-targeting-ireland-world-champs
-title: "Young gun Kristy targeting Ireland world champs"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/CU1605/S00356/young-gun-kristy-targeting-ireland-world-champs.htm
+title: Young gun Kristy targeting Ireland world champs
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1605/S00356/young-gun-kristy-targeting-ireland-world-champs.htm
 author: lincoln-university
+permalink: /archive/2016/05/27/young-gun-kristy-targeting-ireland-world-champs/index.html
+layout: layout.njk
 ---
 Young gun Kristy targeting Ireland world champs
 ===============================================

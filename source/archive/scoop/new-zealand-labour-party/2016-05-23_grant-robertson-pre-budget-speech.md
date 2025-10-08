@@ -1,9 +1,12 @@
 ---
 slug: grant-robertson-pre-budget-speech
-title: "Grant Robertson: Pre Budget Speech"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/PA1605/S00409/grant-robertson-pre-budget-speech.htm
+title: 'Grant Robertson: Pre Budget Speech'
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00409/grant-robertson-pre-budget-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/23/grant-robertson-pre-budget-speech/index.html
+layout: layout.njk
 ---
 Grant Robertson: Pre Budget Speech
 ==================================

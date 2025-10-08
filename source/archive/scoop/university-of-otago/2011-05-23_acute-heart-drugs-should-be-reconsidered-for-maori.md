@@ -1,9 +1,13 @@
 ---
 slug: acute-heart-drugs-should-be-reconsidered-for-maori
-title: "Acute heart drugs should be reconsidered for Maori"
-date: 2011-05-23
-source-url: https://www.scoop.co.nz/stories/SC1105/S00057/acute-heart-drugs-should-be-reconsidered-for-maori.htm
+title: Acute heart drugs should be reconsidered for Maori
+date: 2011-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00057/acute-heart-drugs-should-be-reconsidered-for-maori.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/23/acute-heart-drugs-should-be-reconsidered-for-maori/index.html
+layout: layout.njk
 ---
 Acute heart drugs should be reconsidered for Maori
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: anderton-still-keeping-kiwis-in-the-dark
-title: "Anderton still keeping kiwis in the dark"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/PA0102/S00310/anderton-still-keeping-kiwis-in-the-dark.htm
+title: Anderton still keeping kiwis in the dark
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00310/anderton-still-keeping-kiwis-in-the-dark.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/20/anderton-still-keeping-kiwis-in-the-dark/index.html
+layout: layout.njk
 ---
 Anderton still keeping kiwis in the dark
 ========================================

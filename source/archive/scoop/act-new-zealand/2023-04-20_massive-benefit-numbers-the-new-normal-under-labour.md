@@ -1,9 +1,13 @@
 ---
 slug: massive-benefit-numbers-the-new-normal-under-labour
-title: "Massive Benefit Numbers The New Normal Under Labour"
-date: 2023-04-20
-source-url: https://www.scoop.co.nz/stories/PA2304/S00141/massive-benefit-numbers-the-new-normal-under-labour.htm
+title: Massive Benefit Numbers The New Normal Under Labour
+date: 2023-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00141/massive-benefit-numbers-the-new-normal-under-labour.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/04/20/massive-benefit-numbers-the-new-normal-under-labour/index.html
+layout: layout.njk
 ---
 Massive Benefit Numbers The New Normal Under Labour
 ===================================================

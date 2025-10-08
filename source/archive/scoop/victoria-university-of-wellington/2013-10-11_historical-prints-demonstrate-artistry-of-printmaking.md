@@ -1,9 +1,13 @@
 ---
 slug: historical-prints-demonstrate-artistry-of-printmaking
-title: "Historical prints demonstrate artistry of printmaking"
-date: 2013-10-11
-source-url: https://www.scoop.co.nz/stories/AK1310/S00457/historical-prints-demonstrate-artistry-of-printmaking.htm
+title: Historical prints demonstrate artistry of printmaking
+date: 2013-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00457/historical-prints-demonstrate-artistry-of-printmaking.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/11/historical-prints-demonstrate-artistry-of-printmaking/index.html
+layout: layout.njk
 ---
 Historical prints demonstrate artistry of printmaking
 =====================================================

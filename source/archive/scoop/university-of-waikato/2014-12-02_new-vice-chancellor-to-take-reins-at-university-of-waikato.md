@@ -1,9 +1,13 @@
 ---
 slug: new-vice-chancellor-to-take-reins-at-university-of-waikato
-title: "New Vice-Chancellor to take reins at University of Waikato"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/ED1412/S00016/new-vice-chancellor-to-take-reins-at-university-of-waikato.htm
+title: New Vice-Chancellor to take reins at University of Waikato
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00016/new-vice-chancellor-to-take-reins-at-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/12/02/new-vice-chancellor-to-take-reins-at-university-of-waikato/index.html
+layout: layout.njk
 ---
 New Vice-Chancellor to take reins at University of Waikato
 ==========================================================

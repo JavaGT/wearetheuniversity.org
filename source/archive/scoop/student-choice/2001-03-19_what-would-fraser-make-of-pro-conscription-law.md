@@ -1,9 +1,12 @@
 ---
 slug: what-would-fraser-make-of-pro-conscription-law
-title: "What Would Fraser Make Of Pro-Conscription Law?"
-date: 2001-03-19
-source-url: https://www.scoop.co.nz/stories/ED0103/S00034/what-would-fraser-make-of-pro-conscription-law.htm
+title: What Would Fraser Make Of Pro-Conscription Law?
+date: 2001-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00034/what-would-fraser-make-of-pro-conscription-law.htm
 author: student-choice
+permalink: /archive/2001/03/19/what-would-fraser-make-of-pro-conscription-law/index.html
+layout: layout.njk
 ---
 What Would Fraser Make Of Pro-Conscription Law?
 ===============================================

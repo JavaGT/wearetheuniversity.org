@@ -1,9 +1,12 @@
 ---
 slug: brash;-address-to-the-independent-luncheon
-title: "Brash; Address to 'The Independent' luncheon"
-date: 2005-02-25
-source-url: https://www.scoop.co.nz/stories/PA0502/S00555/brash-address-to-the-independent-luncheon.htm
+title: Brash; Address to 'The Independent' luncheon
+date: 2005-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00555/brash-address-to-the-independent-luncheon.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/25/brash/index.html
+layout: layout.njk
 ---
 Brash; Address to 'The Independent' luncheon
 ============================================

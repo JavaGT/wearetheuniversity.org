@@ -1,9 +1,12 @@
 ---
 slug: māori-and-indigenous-leadership-to-graduate
-title: "Māori and Indigenous Leadership to graduate"
-date: 2018-12-18
-source-url: https://www.scoop.co.nz/stories/ED1812/S00044/maori-and-indigenous-leadership-to-graduate.htm
+title: Māori and Indigenous Leadership to graduate
+date: 2018-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00044/maori-and-indigenous-leadership-to-graduate.htm
 author: university-of-canterbury
+permalink: /archive/2018/12/18/m/index.html
+layout: layout.njk
 ---
 Māori and Indigenous Leadership to graduate
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: understanding-halal
-title: "Understanding Halal"
-date: 2007-04-12
+title: Understanding Halal
+date: 2007-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0704/S00029/understanding-halal.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/12/understanding-halal/index.html
+layout: layout.njk
 ---
 Understanding Halal
 ===================

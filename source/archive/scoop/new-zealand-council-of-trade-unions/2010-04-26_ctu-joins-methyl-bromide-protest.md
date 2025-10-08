@@ -1,9 +1,12 @@
 ---
 slug: ctu-joins-methyl-bromide-protest
-title: "CTU joins methyl bromide protest"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/BU1004/S00641/ctu-joins-methyl-bromide-protest.htm
+title: CTU joins methyl bromide protest
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1004/S00641/ctu-joins-methyl-bromide-protest.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/04/26/ctu-joins-methyl-bromide-protest/index.html
+layout: layout.njk
 ---
 CTU joins methyl bromide protest
 ================================

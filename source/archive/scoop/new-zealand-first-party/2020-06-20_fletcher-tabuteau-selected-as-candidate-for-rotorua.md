@@ -1,9 +1,13 @@
 ---
 slug: fletcher-tabuteau-selected-as-candidate-for-rotorua
-title: "Fletcher Tabuteau Selected As Candidate For Rotorua"
-date: 2020-06-20
-source-url: https://www.scoop.co.nz/stories/PA2006/S00192/fletcher-tabuteau-selected-as-candidate-for-rotorua.htm
+title: Fletcher Tabuteau Selected As Candidate For Rotorua
+date: 2020-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00192/fletcher-tabuteau-selected-as-candidate-for-rotorua.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/06/20/fletcher-tabuteau-selected-as-candidate-for-rotorua/index.html
+layout: layout.njk
 ---
 Fletcher Tabuteau Selected As Candidate For Rotorua
 ===================================================

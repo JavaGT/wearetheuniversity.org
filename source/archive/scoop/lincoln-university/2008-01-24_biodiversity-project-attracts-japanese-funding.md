@@ -1,9 +1,12 @@
 ---
 slug: biodiversity-project-attracts-japanese-funding
-title: "Biodiversity Project Attracts Japanese Funding"
-date: 2008-01-24
-source-url: https://www.scoop.co.nz/stories/AK0801/S00160/biodiversity-project-attracts-japanese-funding.htm
+title: Biodiversity Project Attracts Japanese Funding
+date: 2008-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0801/S00160/biodiversity-project-attracts-japanese-funding.htm
 author: lincoln-university
+permalink: /archive/2008/01/24/biodiversity-project-attracts-japanese-funding/index.html
+layout: layout.njk
 ---
 Biodiversity Project Attracts Japanese Funding
 ==============================================

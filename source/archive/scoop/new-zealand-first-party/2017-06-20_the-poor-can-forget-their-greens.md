@@ -1,9 +1,12 @@
 ---
 slug: the-poor-can-forget-their-greens
-title: "The Poor Can Forget Their Greens"
-date: 2017-06-20
-source-url: https://www.scoop.co.nz/stories/PA1706/S00326/the-poor-can-forget-their-greens.htm
+title: The Poor Can Forget Their Greens
+date: 2017-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00326/the-poor-can-forget-their-greens.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/20/the-poor-can-forget-their-greens/index.html
+layout: layout.njk
 ---
 The Poor Can Forget Their Greens
 ================================

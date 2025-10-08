@@ -1,9 +1,13 @@
 ---
 slug: its-taken-the-govt-too-long-to-act-on-emergency-housing
-title: "It’s Taken The Govt Too Long To Act On Emergency Housing"
-date: 2021-05-13
-source-url: https://www.scoop.co.nz/stories/PA2105/S00119/its-taken-the-govt-too-long-to-act-on-emergency-housing.htm
+title: It’s Taken The Govt Too Long To Act On Emergency Housing
+date: 2021-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00119/its-taken-the-govt-too-long-to-act-on-emergency-housing.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/13/its-taken-the-govt-too-long-to-act-on-emergency-housing/index.html
+layout: layout.njk
 ---
 It’s Taken The Govt Too Long To Act On Emergency Housing
 ========================================================

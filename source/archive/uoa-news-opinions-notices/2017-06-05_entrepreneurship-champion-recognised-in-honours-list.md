@@ -1,8 +1,12 @@
 ---
 slug: entrepreneurship-champion-recognised-in-honours-list
-title: "Entrepreneurship champion recognised in honours list"
-date: 2017-06-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/entrepreneurism-champion-recognised-in-honours-list.html
+title: Entrepreneurship champion recognised in honours list
+date: 2017-06-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/entrepreneurism-champion-recognised-in-honours-list.html
+permalink: >-
+  /archive/2017/06/05/entrepreneurship-champion-recognised-in-honours-list/index.html
+layout: layout.njk
 ---
 Entrepreneurship champion recognised in honours list
 ====================================================

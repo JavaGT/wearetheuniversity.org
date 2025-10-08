@@ -1,9 +1,12 @@
 ---
 slug: farmer-of-the-year-winner-opens-his-gates
-title: "Farmer of the Year winner opens his gates"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/BU0905/S00197/farmer-of-the-year-winner-opens-his-gates.htm
+title: Farmer of the Year winner opens his gates
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00197/farmer-of-the-year-winner-opens-his-gates.htm
 author: lincoln-university
+permalink: /archive/2009/05/07/farmer-of-the-year-winner-opens-his-gates/index.html
+layout: layout.njk
 ---
 Farmer of the Year winner opens his gates
 =========================================

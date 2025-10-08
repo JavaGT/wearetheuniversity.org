@@ -1,9 +1,13 @@
 ---
 slug: fulbright-scholars-film-selected-for-prestigious-festival
-title: "Fulbright scholar’s film selected for prestigious festival"
-date: 2017-05-05
-source-url: https://www.scoop.co.nz/stories/CU1705/S00095/fulbright-scholars-film-selected-for-prestigious-festival.htm
+title: Fulbright scholar’s film selected for prestigious festival
+date: 2017-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1705/S00095/fulbright-scholars-film-selected-for-prestigious-festival.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/05/05/fulbright-scholars-film-selected-for-prestigious-festival/index.html
+layout: layout.njk
 ---
 Fulbright scholar’s film selected for prestigious festival
 ==========================================================

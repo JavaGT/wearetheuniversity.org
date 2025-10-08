@@ -1,9 +1,13 @@
 ---
 slug: dido-and-aeneas-at-victoria-universitys-memorial-theatre
-title: "Dido and Aeneas at Victoria University’s Memorial Theatre"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/CU1507/S00269/dido-and-aeneas-at-victoria-universitys-memorial-theatre.htm
+title: Dido and Aeneas at Victoria University’s Memorial Theatre
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1507/S00269/dido-and-aeneas-at-victoria-universitys-memorial-theatre.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/07/16/dido-and-aeneas-at-victoria-universitys-memorial-theatre/index.html
+layout: layout.njk
 ---
 Dido and Aeneas at Victoria University’s Memorial Theatre
 =========================================================

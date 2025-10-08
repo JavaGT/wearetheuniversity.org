@@ -1,9 +1,12 @@
 ---
 slug: rare-footage-captured-of-tuatara-hatching
-title: "Rare footage captured of tuatara hatching"
-date: 2014-08-04
-source-url: https://www.scoop.co.nz/stories/SC1408/S00004/rare-footage-captured-of-tuatara-hatching.htm
+title: Rare footage captured of tuatara hatching
+date: 2014-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00004/rare-footage-captured-of-tuatara-hatching.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/08/04/rare-footage-captured-of-tuatara-hatching/index.html
+layout: layout.njk
 ---
 Rare footage captured of tuatara hatching
 =========================================

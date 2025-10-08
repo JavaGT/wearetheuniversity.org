@@ -1,9 +1,12 @@
 ---
 slug: nutrition-concern-for-older-adults-at-home
-title: "Nutrition concern for older adults at home"
-date: 2018-11-21
-source-url: https://www.scoop.co.nz/stories/GE1811/S00075/nutrition-concern-for-older-adults-at-home.htm
+title: Nutrition concern for older adults at home
+date: 2018-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00075/nutrition-concern-for-older-adults-at-home.htm
 author: massey-university
+permalink: /archive/2018/11/21/nutrition-concern-for-older-adults-at-home/index.html
+layout: layout.njk
 ---
 Nutrition concern for older adults at home
 ==========================================

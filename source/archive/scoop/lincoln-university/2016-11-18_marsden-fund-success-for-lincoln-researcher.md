@@ -1,9 +1,12 @@
 ---
 slug: marsden-fund-success-for-lincoln-researcher
-title: "Marsden fund success for Lincoln researcher"
-date: 2016-11-18
-source-url: https://www.scoop.co.nz/stories/SC1611/S00047/marsden-fund-success-for-lincoln-researcher.htm
+title: Marsden fund success for Lincoln researcher
+date: 2016-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00047/marsden-fund-success-for-lincoln-researcher.htm
 author: lincoln-university
+permalink: /archive/2016/11/18/marsden-fund-success-for-lincoln-researcher/index.html
+layout: layout.njk
 ---
 Marsden fund success for Lincoln researcher
 ===========================================

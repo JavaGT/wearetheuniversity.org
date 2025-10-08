@@ -1,9 +1,11 @@
 ---
 slug: obesity-and-heart-health
-title: "Obesity and heart health"
-date: 2017-06-07
+title: Obesity and heart health
+date: 2017-06-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1706/S00025/obesity-and-heart-health.htm
 author: university-of-otago
+permalink: /archive/2017/06/07/obesity-and-heart-health/index.html
+layout: layout.njk
 ---
 Obesity and heart health
 ========================

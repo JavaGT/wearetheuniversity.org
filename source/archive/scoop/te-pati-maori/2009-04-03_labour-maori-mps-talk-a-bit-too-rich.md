@@ -1,9 +1,12 @@
 ---
 slug: labour-maori-mps-talk-a-bit-too-rich
-title: "Labour Maori MPs’ talk a bit too rich"
-date: 2009-04-03
-source-url: https://www.scoop.co.nz/stories/PA0904/S00064/labour-maori-mps-talk-a-bit-too-rich.htm
+title: Labour Maori MPs’ talk a bit too rich
+date: 2009-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00064/labour-maori-mps-talk-a-bit-too-rich.htm
 author: te-pati-maori
+permalink: /archive/2009/04/03/labour-maori-mps-talk-a-bit-too-rich/index.html
+layout: layout.njk
 ---
 Labour Maori MPs’ talk a bit too rich
 =====================================

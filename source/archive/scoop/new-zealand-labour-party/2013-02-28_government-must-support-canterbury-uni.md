@@ -1,9 +1,12 @@
 ---
 slug: government-must-support-canterbury-uni
-title: "Government Must Support Canterbury Uni"
-date: 2013-02-28
-source-url: https://www.scoop.co.nz/stories/PA1302/S00456/government-must-support-canterbury-uni.htm
+title: Government Must Support Canterbury Uni
+date: 2013-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00456/government-must-support-canterbury-uni.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/28/government-must-support-canterbury-uni/index.html
+layout: layout.njk
 ---
 Government Must Support Canterbury Uni
 ======================================

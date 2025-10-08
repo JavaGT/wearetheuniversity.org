@@ -1,9 +1,13 @@
 ---
 slug: charter-schools-for-babies-a-bad-deal-for-kiwi-kids
-title: "‘Charter schools for babies’ a bad deal for Kiwi kids"
-date: 2016-07-18
-source-url: https://www.scoop.co.nz/stories/PA1607/S00265/charter-schools-for-babies-a-bad-deal-for-kiwi-kids.htm
+title: ‘Charter schools for babies’ a bad deal for Kiwi kids
+date: 2016-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00265/charter-schools-for-babies-a-bad-deal-for-kiwi-kids.htm
 author: green-party
+permalink: >-
+  /archive/2016/07/18/charter-schools-for-babies-a-bad-deal-for-kiwi-kids/index.html
+layout: layout.njk
 ---
 ‘Charter schools for babies’ a bad deal for Kiwi kids
 =====================================================

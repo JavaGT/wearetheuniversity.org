@@ -1,9 +1,13 @@
 ---
 slug: sharples-international-adult-literacy-conference
-title: "Sharples: International Adult Literacy Conference"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/PA0710/S00007/sharples-international-adult-literacy-conference.htm
+title: 'Sharples: International Adult Literacy Conference'
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00007/sharples-international-adult-literacy-conference.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/10/01/sharples-international-adult-literacy-conference/index.html
+layout: layout.njk
 ---
 Sharples: International Adult Literacy Conference
 =================================================

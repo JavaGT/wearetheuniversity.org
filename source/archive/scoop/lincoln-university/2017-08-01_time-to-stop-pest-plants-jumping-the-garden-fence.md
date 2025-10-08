@@ -1,9 +1,13 @@
 ---
 slug: time-to-stop-pest-plants-jumping-the-garden-fence
-title: "Time to stop pest plants jumping the garden fence"
-date: 2017-08-01
-source-url: https://www.scoop.co.nz/stories/SC1708/S00003/time-to-stop-pest-plants-jumping-the-garden-fence.htm
+title: Time to stop pest plants jumping the garden fence
+date: 2017-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00003/time-to-stop-pest-plants-jumping-the-garden-fence.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/08/01/time-to-stop-pest-plants-jumping-the-garden-fence/index.html
+layout: layout.njk
 ---
 Time to stop pest plants jumping the garden fence
 =================================================

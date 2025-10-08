@@ -1,9 +1,12 @@
 ---
 slug: national-student-womens-conference-starts-today
-title: "National Student Women’s Conference starts today"
-date: 2003-01-28
-source-url: https://www.scoop.co.nz/stories/ED0301/S00016/national-student-womens-conference-starts-today.htm
+title: National Student Women’s Conference starts today
+date: 2003-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00016/national-student-womens-conference-starts-today.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/01/28/national-student-womens-conference-starts-today/index.html
+layout: layout.njk
 ---
 National Student Women’s Conference starts today
 ================================================

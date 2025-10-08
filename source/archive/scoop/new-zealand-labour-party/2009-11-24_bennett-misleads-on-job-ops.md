@@ -1,9 +1,11 @@
 ---
 slug: bennett-misleads-on-job-ops
-title: "Bennett misleads on Job Ops"
-date: 2009-11-24
+title: Bennett misleads on Job Ops
+date: 2009-11-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0911/S00358/bennett-misleads-on-job-ops.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/24/bennett-misleads-on-job-ops/index.html
+layout: layout.njk
 ---
 Bennett misleads on Job Ops
 ===========================

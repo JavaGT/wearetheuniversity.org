@@ -1,9 +1,12 @@
 ---
 slug: new-book-tackles-the-business-of-faith
-title: "New Book Tackles The Business Of Faith"
-date: 2021-05-25
-source-url: https://www.scoop.co.nz/stories/CU2105/S00218/new-book-tackles-the-business-of-faith.htm
+title: New Book Tackles The Business Of Faith
+date: 2021-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2105/S00218/new-book-tackles-the-business-of-faith.htm
 author: aut-university
+permalink: /archive/2021/05/25/new-book-tackles-the-business-of-faith/index.html
+layout: layout.njk
 ---
 New Book Tackles The Business Of Faith
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: national-defines-principles-over-breakfast
-title: "National defines principles over breakfast"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/PA0211/S00416/national-defines-principles-over-breakfast.htm
+title: National defines principles over breakfast
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00416/national-defines-principles-over-breakfast.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/19/national-defines-principles-over-breakfast/index.html
+layout: layout.njk
 ---
 National defines principles over breakfast
 ==========================================

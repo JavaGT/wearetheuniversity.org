@@ -1,9 +1,12 @@
 ---
 slug: home-hazardous-home…-a-risky-place-to-be
-title: "Home hazardous home….. a risky place to be"
-date: 2008-09-03
-source-url: https://www.scoop.co.nz/stories/GE0809/S00025/home-hazardous-home-a-risky-place-to-be.htm
+title: Home hazardous home….. a risky place to be
+date: 2008-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00025/home-hazardous-home-a-risky-place-to-be.htm
 author: university-of-otago
+permalink: /archive/2008/09/03/home-hazardous-home/index.html
+layout: layout.njk
 ---
 Home hazardous home….. a risky place to be
 ==========================================

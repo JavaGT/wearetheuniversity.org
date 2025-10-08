@@ -1,9 +1,12 @@
 ---
 slug: sloth-bigger-threat-than-gluttony
-title: "Sloth bigger threat than gluttony"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/GE0504/S00038/sloth-bigger-threat-than-gluttony.htm
+title: Sloth bigger threat than gluttony
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00038/sloth-bigger-threat-than-gluttony.htm
 author: aut-university
+permalink: /archive/2005/04/12/sloth-bigger-threat-than-gluttony/index.html
+layout: layout.njk
 ---
 Sloth bigger threat than gluttony
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-draw-near-with-faith
-title: "News Worthy: Draw near with faith"
-date: 2008-05-09
-source-url: https://www.scoop.co.nz/stories/PA0805/S00155/news-worthy-draw-near-with-faith.htm
+title: 'News Worthy: Draw near with faith'
+date: 2008-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00155/news-worthy-draw-near-with-faith.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/09/news-worthy-draw-near-with-faith/index.html
+layout: layout.njk
 ---
 News Worthy: Draw near with faith
 =================================

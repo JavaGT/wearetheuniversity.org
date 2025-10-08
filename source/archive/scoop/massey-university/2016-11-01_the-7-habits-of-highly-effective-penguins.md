@@ -1,9 +1,12 @@
 ---
 slug: the-7-habits-of-highly-effective-penguins
-title: "The 7 habits of highly effective penguins"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/ED1611/S00001/the-7-habits-of-highly-effective-penguins.htm
+title: The 7 habits of highly effective penguins
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00001/the-7-habits-of-highly-effective-penguins.htm
 author: massey-university
+permalink: /archive/2016/11/01/the-7-habits-of-highly-effective-penguins/index.html
+layout: layout.njk
 ---
 The 7 habits of highly effective penguins
 =========================================

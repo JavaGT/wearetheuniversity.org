@@ -1,9 +1,12 @@
 ---
 slug: extra-$400m-health-spending-will-go-on-salaries
-title: "Extra $400m Health Spending Will Go On Salaries"
-date: 2002-01-30
-source-url: https://www.scoop.co.nz/stories/PA0201/S00216/extra-400m-health-spending-will-go-on-salaries.htm
+title: Extra $400m Health Spending Will Go On Salaries
+date: 2002-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00216/extra-400m-health-spending-will-go-on-salaries.htm
 author: act-new-zealand
+permalink: /archive/2002/01/30/extra-/index.html
+layout: layout.njk
 ---
 Extra $400m Health Spending Will Go On Salaries
 ===============================================

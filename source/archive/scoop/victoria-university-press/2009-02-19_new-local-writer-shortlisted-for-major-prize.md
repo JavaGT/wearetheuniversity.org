@@ -1,9 +1,12 @@
 ---
 slug: new-local-writer-shortlisted-for-major-prize
-title: "New Local Writer Shortlisted for Major Prize"
-date: 2009-02-19
-source-url: https://www.scoop.co.nz/stories/CU0902/S00331/new-local-writer-shortlisted-for-major-prize.htm
+title: New Local Writer Shortlisted for Major Prize
+date: 2009-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00331/new-local-writer-shortlisted-for-major-prize.htm
 author: victoria-university-press
+permalink: /archive/2009/02/19/new-local-writer-shortlisted-for-major-prize/index.html
+layout: layout.njk
 ---
 New Local Writer Shortlisted for Major Prize
 ============================================

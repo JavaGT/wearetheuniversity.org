@@ -1,9 +1,12 @@
 ---
 slug: budget-2006-more-spending-and-less-growth
-title: "Budget 2006: More Spending and Less Growth"
-date: 2006-02-10
-source-url: https://www.scoop.co.nz/stories/BU0602/S00119/budget-2006-more-spending-and-less-growth.htm
+title: 'Budget 2006: More Spending and Less Growth'
+date: 2006-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0602/S00119/budget-2006-more-spending-and-less-growth.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/02/10/budget-2006-more-spending-and-less-growth/index.html
+layout: layout.njk
 ---
 Budget 2006: More Spending and Less Growth
 ==========================================

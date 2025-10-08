@@ -1,9 +1,12 @@
 ---
 slug: want-polytechs-to-stay-local-we-hear-ya!
-title: "Want Polytechs To Stay Local? We Hear Ya!"
-date: 2023-01-21
-source-url: https://www.scoop.co.nz/stories/PA2301/S00048/want-polytechs-to-stay-local-we-hear-ya.htm
+title: Want Polytechs To Stay Local? We Hear Ya!
+date: 2023-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00048/want-polytechs-to-stay-local-we-hear-ya.htm
 author: act-new-zealand
+permalink: /archive/2023/01/21/want-polytechs-to-stay-local-we-hear-ya/index.html
+layout: layout.njk
 ---
 Want Polytechs To Stay Local? We Hear Ya!
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-ignored-driving-licence-fraud-claims
-title: "Labour ignored driving licence fraud claims"
-date: 2005-03-23
-source-url: https://www.scoop.co.nz/stories/PA0503/S00471/labour-ignored-driving-licence-fraud-claims.htm
+title: Labour ignored driving licence fraud claims
+date: 2005-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00471/labour-ignored-driving-licence-fraud-claims.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/23/labour-ignored-driving-licence-fraud-claims/index.html
+layout: layout.njk
 ---
 Labour ignored driving licence fraud claims
 ===========================================

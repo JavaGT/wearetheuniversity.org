@@ -1,9 +1,11 @@
 ---
 slug: it-girls-on-campus
-title: "IT girls on campus"
-date: 2015-09-29
+title: IT girls on campus
+date: 2015-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1509/S00162/it-girls-on-campus.htm
 author: university-of-waikato
+permalink: /archive/2015/09/29/it-girls-on-campus/index.html
+layout: layout.njk
 ---
 IT girls on campus
 ==================

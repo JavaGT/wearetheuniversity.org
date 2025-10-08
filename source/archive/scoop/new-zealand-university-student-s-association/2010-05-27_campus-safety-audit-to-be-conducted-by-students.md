@@ -1,9 +1,12 @@
 ---
 slug: campus-safety-audit-to-be-conducted-by-students
-title: "Campus Safety Audit to be conducted by students"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/ED1005/S00129/campus-safety-audit-to-be-conducted-by-students.htm
+title: Campus Safety Audit to be conducted by students
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00129/campus-safety-audit-to-be-conducted-by-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2010/05/27/campus-safety-audit-to-be-conducted-by-students/index.html
+layout: layout.njk
 ---
 Campus Safety Audit to be conducted by students
 ===============================================

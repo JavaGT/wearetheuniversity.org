@@ -1,9 +1,12 @@
 ---
 slug: labours-approach-to-beneficiaries-has-failed
-title: "Labour’s Approach To Beneficiaries Has Failed"
-date: 2023-04-20
-source-url: https://www.scoop.co.nz/stories/PA2304/S00133/labours-approach-to-beneficiaries-has-failed.htm
+title: Labour’s Approach To Beneficiaries Has Failed
+date: 2023-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00133/labours-approach-to-beneficiaries-has-failed.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/20/labours-approach-to-beneficiaries-has-failed/index.html
+layout: layout.njk
 ---
 Labour’s Approach To Beneficiaries Has Failed
 =============================================

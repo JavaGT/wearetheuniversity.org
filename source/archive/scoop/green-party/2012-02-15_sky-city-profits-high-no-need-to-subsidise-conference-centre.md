@@ -1,9 +1,13 @@
 ---
 slug: sky-city-profits-high-no-need-to-subsidise-conference-centre
-title: "Sky City profits high:no need to subsidise conference centre"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PA1202/S00161/sky-city-profits-highno-need-to-subsidise-conference-centre.htm
+title: Sky City profits high:no need to subsidise conference centre
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00161/sky-city-profits-highno-need-to-subsidise-conference-centre.htm
 author: green-party
+permalink: >-
+  /archive/2012/02/15/sky-city-profits-high-no-need-to-subsidise-conference-centre/index.html
+layout: layout.njk
 ---
 Sky City profits high:no need to subsidise conference centre
 ============================================================

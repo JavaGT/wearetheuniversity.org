@@ -1,9 +1,12 @@
 ---
 slug: record-health-research-funding-for-otago
-title: "Record health research funding for Otago"
-date: 2010-06-10
-source-url: https://www.scoop.co.nz/stories/GE1006/S00041/record-health-research-funding-for-otago.htm
+title: Record health research funding for Otago
+date: 2010-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00041/record-health-research-funding-for-otago.htm
 author: university-of-otago
+permalink: /archive/2010/06/10/record-health-research-funding-for-otago/index.html
+layout: layout.njk
 ---
 Record health research funding for Otago
 ========================================

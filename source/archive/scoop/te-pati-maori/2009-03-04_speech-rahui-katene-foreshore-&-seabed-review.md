@@ -1,9 +1,12 @@
 ---
 slug: speech-rahui-katene-foreshore-&-seabed-review
-title: "Speech: Rahui Katene - Foreshore & Seabed Review"
-date: 2009-03-04
-source-url: https://www.scoop.co.nz/stories/PA0903/S00064/speech-rahui-katene-foreshore-seabed-review.htm
+title: 'Speech: Rahui Katene - Foreshore & Seabed Review'
+date: 2009-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00064/speech-rahui-katene-foreshore-seabed-review.htm
 author: te-pati-maori
+permalink: /archive/2009/03/04/speech-rahui-katene-foreshore-/index.html
+layout: layout.njk
 ---
 Speech: Rahui Katene - Foreshore & Seabed Review
 ================================================

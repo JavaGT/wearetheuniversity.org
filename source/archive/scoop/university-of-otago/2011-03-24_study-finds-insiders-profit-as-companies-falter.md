@@ -1,9 +1,12 @@
 ---
 slug: study-finds-insiders-profit-as-companies-falter
-title: "Study finds insiders profit as companies falter"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/BU1103/S00734/study-finds-insiders-profit-as-companies-falter.htm
+title: Study finds insiders profit as companies falter
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00734/study-finds-insiders-profit-as-companies-falter.htm
 author: university-of-otago
+permalink: /archive/2011/03/24/study-finds-insiders-profit-as-companies-falter/index.html
+layout: layout.njk
 ---
 Study finds insiders profit as companies falter
 ===============================================

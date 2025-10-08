@@ -1,9 +1,13 @@
 ---
 slug: peters-an-energy-sector-that-once-again-serves-all-nzers
-title: "Peters: An Energy Sector That Once Again Serves All NZers"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/PA1405/S00497/peters-an-energy-sector-that-once-again-serves-all-nzers.htm
+title: 'Peters: An Energy Sector That Once Again Serves All NZers'
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00497/peters-an-energy-sector-that-once-again-serves-all-nzers.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/05/27/peters-an-energy-sector-that-once-again-serves-all-nzers/index.html
+layout: layout.njk
 ---
 Peters: An Energy Sector That Once Again Serves All NZers
 =========================================================

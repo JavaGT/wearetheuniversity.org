@@ -1,9 +1,12 @@
 ---
 slug: rubiks-cube-and-the-path-to-problem-solving
-title: "Rubik’s Cube and the path to problem-solving"
-date: 2006-11-10
-source-url: https://www.scoop.co.nz/stories/ED0611/S00042/rubiks-cube-and-the-path-to-problem-solving.htm
+title: Rubik’s Cube and the path to problem-solving
+date: 2006-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00042/rubiks-cube-and-the-path-to-problem-solving.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/10/rubiks-cube-and-the-path-to-problem-solving/index.html
+layout: layout.njk
 ---
 Rubik’s Cube and the path to problem-solving
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-uni-internships-attract-french-biology-students
-title: "Waikato Uni internships attract French biology students"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/ED1405/S00145/waikato-uni-internships-attract-french-biology-students.htm
+title: Waikato Uni internships attract French biology students
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00145/waikato-uni-internships-attract-french-biology-students.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/05/28/waikato-uni-internships-attract-french-biology-students/index.html
+layout: layout.njk
 ---
 Waikato Uni internships attract French biology students
 =======================================================

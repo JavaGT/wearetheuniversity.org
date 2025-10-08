@@ -1,9 +1,13 @@
 ---
 slug: minister-should-apologise-over-bayly-trust-fiasco
-title: "Minister should apologise over Bayly Trust fiasco"
-date: 2007-10-30
-source-url: https://www.scoop.co.nz/stories/PA0710/S00549/minister-should-apologise-over-bayly-trust-fiasco.htm
+title: Minister should apologise over Bayly Trust fiasco
+date: 2007-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00549/minister-should-apologise-over-bayly-trust-fiasco.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/10/30/minister-should-apologise-over-bayly-trust-fiasco/index.html
+layout: layout.njk
 ---
 Minister should apologise over Bayly Trust fiasco
 =================================================

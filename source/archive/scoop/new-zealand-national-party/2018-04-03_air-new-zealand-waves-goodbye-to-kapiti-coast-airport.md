@@ -1,9 +1,13 @@
 ---
 slug: air-new-zealand-waves-goodbye-to-kapiti-coast-airport
-title: "Air New Zealand waves goodbye to Kapiti Coast Airport"
-date: 2018-04-03
-source-url: https://www.scoop.co.nz/stories/PA1804/S00006/air-new-zealand-waves-goodbye-to-kapiti-coast-airport.htm
+title: Air New Zealand waves goodbye to Kapiti Coast Airport
+date: 2018-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00006/air-new-zealand-waves-goodbye-to-kapiti-coast-airport.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/03/air-new-zealand-waves-goodbye-to-kapiti-coast-airport/index.html
+layout: layout.njk
 ---
 Air New Zealand waves goodbye to Kapiti Coast Airport
 =====================================================

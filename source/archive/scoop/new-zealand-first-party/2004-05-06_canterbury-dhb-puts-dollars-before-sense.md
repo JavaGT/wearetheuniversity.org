@@ -1,9 +1,12 @@
 ---
 slug: canterbury-dhb-puts-dollars-before-sense
-title: "Canterbury DHB Puts Dollars Before Sense"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/GE0405/S00027/canterbury-dhb-puts-dollars-before-sense.htm
+title: Canterbury DHB Puts Dollars Before Sense
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0405/S00027/canterbury-dhb-puts-dollars-before-sense.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/06/canterbury-dhb-puts-dollars-before-sense/index.html
+layout: layout.njk
 ---
 Canterbury DHB Puts Dollars Before Sense
 ========================================

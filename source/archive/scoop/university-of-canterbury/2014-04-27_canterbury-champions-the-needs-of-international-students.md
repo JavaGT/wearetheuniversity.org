@@ -1,9 +1,13 @@
 ---
 slug: canterbury-champions-the-needs-of-international-students
-title: "Canterbury champions the needs of international students"
-date: 2014-04-27
-source-url: https://www.scoop.co.nz/stories/PO1404/S00375/canterbury-champions-the-needs-of-international-students.htm
+title: Canterbury champions the needs of international students
+date: 2014-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00375/canterbury-champions-the-needs-of-international-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/27/canterbury-champions-the-needs-of-international-students/index.html
+layout: layout.njk
 ---
 Canterbury champions the needs of international students
 ========================================================

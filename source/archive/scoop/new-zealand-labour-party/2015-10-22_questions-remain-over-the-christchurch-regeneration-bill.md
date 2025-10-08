@@ -1,9 +1,13 @@
 ---
 slug: questions-remain-over-the-christchurch-regeneration-bill
-title: "Questions remain over the Christchurch Regeneration Bill"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PA1510/S00419/questions-remain-over-the-christchurch-regeneration-bill.htm
+title: Questions remain over the Christchurch Regeneration Bill
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00419/questions-remain-over-the-christchurch-regeneration-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/22/questions-remain-over-the-christchurch-regeneration-bill/index.html
+layout: layout.njk
 ---
 Questions remain over the Christchurch Regeneration Bill
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: bank-customer-satisfaction-up
-title: "Bank customer satisfaction up"
-date: 2005-11-21
-source-url: https://www.scoop.co.nz/stories/BU0511/S00342/bank-customer-satisfaction-up.htm
+title: Bank customer satisfaction up
+date: 2005-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0511/S00342/bank-customer-satisfaction-up.htm
 author: massey-university
+permalink: /archive/2005/11/21/bank-customer-satisfaction-up/index.html
+layout: layout.njk
 ---
 Bank customer satisfaction up
 =============================

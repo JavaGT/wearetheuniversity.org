@@ -1,9 +1,12 @@
 ---
 slug: weak-response-to-loan-shark-rip-offs
-title: "Weak Response to Loan Shark Rip Offs"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PA1405/S00540/weak-response-to-loan-shark-rip-offs.htm
+title: Weak Response to Loan Shark Rip Offs
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00540/weak-response-to-loan-shark-rip-offs.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/28/weak-response-to-loan-shark-rip-offs/index.html
+layout: layout.njk
 ---
 Weak Response to Loan Shark Rip Offs
 ====================================

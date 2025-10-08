@@ -1,9 +1,12 @@
 ---
 slug: official-papers-confirm-labour-is-failing-maori
-title: "Official papers confirm Labour is failing Maori"
-date: 2004-01-19
-source-url: https://www.scoop.co.nz/stories/PA0401/S00110/official-papers-confirm-labour-is-failing-maori.htm
+title: Official papers confirm Labour is failing Maori
+date: 2004-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00110/official-papers-confirm-labour-is-failing-maori.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/19/official-papers-confirm-labour-is-failing-maori/index.html
+layout: layout.njk
 ---
 Official papers confirm Labour is failing Maori
 ===============================================

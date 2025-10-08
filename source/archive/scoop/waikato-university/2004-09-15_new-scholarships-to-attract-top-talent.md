@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-to-attract-top-talent
-title: "New Scholarships To Attract Top Talent"
-date: 2004-09-15
-source-url: https://www.scoop.co.nz/stories/ED0409/S00061/new-scholarships-to-attract-top-talent.htm
+title: New Scholarships To Attract Top Talent
+date: 2004-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00061/new-scholarships-to-attract-top-talent.htm
 author: waikato-university
+permalink: /archive/2004/09/15/new-scholarships-to-attract-top-talent/index.html
+layout: layout.njk
 ---
 New Scholarships To Attract Top Talent
 ======================================

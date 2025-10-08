@@ -1,9 +1,12 @@
 ---
 slug: speech-goff-hardworking-kiwis
-title: "Speech: goff - hardworking Kiwis"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00287/speech-goff-hardworking-kiwis.htm
+title: 'Speech: goff - hardworking Kiwis'
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00287/speech-goff-hardworking-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/16/speech-goff-hardworking-kiwis/index.html
+layout: layout.njk
 ---
 Speech: goff - hardworking Kiwis
 ================================

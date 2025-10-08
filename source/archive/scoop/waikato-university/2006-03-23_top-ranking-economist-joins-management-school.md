@@ -1,9 +1,12 @@
 ---
 slug: top-ranking-economist-joins-management-school
-title: "Top-ranking economist joins Management School"
-date: 2006-03-23
-source-url: https://www.scoop.co.nz/stories/ED0603/S00067/top-ranking-economist-joins-management-school.htm
+title: Top-ranking economist joins Management School
+date: 2006-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00067/top-ranking-economist-joins-management-school.htm
 author: waikato-university
+permalink: /archive/2006/03/23/top-ranking-economist-joins-management-school/index.html
+layout: layout.njk
 ---
 Top-ranking economist joins Management School
 =============================================

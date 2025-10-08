@@ -1,9 +1,12 @@
 ---
 slug: tainui-voters-will-take-this-personally
-title: "Tainui Voters Will Take This Personally"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/PO0506/S00147/tainui-voters-will-take-this-personally.htm
+title: Tainui Voters Will Take This Personally
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00147/tainui-voters-will-take-this-personally.htm
 author: te-pati-maori
+permalink: /archive/2005/06/15/tainui-voters-will-take-this-personally/index.html
+layout: layout.njk
 ---
 Tainui Voters Will Take This Personally
 =======================================

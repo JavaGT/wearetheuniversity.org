@@ -1,9 +1,11 @@
 ---
 slug: suckling-in-silence
-title: "Suckling in silence"
-date: 2000-05-31
+title: Suckling in silence
+date: 2000-05-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0005/S00048/suckling-in-silence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/05/31/suckling-in-silence/index.html
+layout: layout.njk
 ---
 Suckling in silence
 ===================

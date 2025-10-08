@@ -1,9 +1,12 @@
 ---
 slug: grants-to-study-māori-child-rearing-and-māori-mens-health
-title: "Grants to study Māori child rearing and Māori men’s health"
-date: 2012-06-18
-source-url: https://www.scoop.co.nz/stories/GE1206/S00064/grants-to-study-maori-child-rearing-and-maori-mens-health.htm
+title: Grants to study Māori child rearing and Māori men’s health
+date: 2012-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00064/grants-to-study-maori-child-rearing-and-maori-mens-health.htm
 author: university-of-waikato
+permalink: /archive/2012/06/18/grants-to-study-m/index.html
+layout: layout.njk
 ---
 Grants to study Māori child rearing and Māori men’s health
 ==========================================================

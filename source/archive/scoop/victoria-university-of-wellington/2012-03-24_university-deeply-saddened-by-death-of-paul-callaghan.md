@@ -1,9 +1,13 @@
 ---
 slug: university-deeply-saddened-by-death-of-paul-callaghan
-title: "University deeply saddened by death of Paul Callaghan"
-date: 2012-03-24
-source-url: https://www.scoop.co.nz/stories/SC1203/S00059/university-deeply-saddened-by-death-of-paul-callaghan.htm
+title: University deeply saddened by death of Paul Callaghan
+date: 2012-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1203/S00059/university-deeply-saddened-by-death-of-paul-callaghan.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/03/24/university-deeply-saddened-by-death-of-paul-callaghan/index.html
+layout: layout.njk
 ---
 University deeply saddened by death of Paul Callaghan
 =====================================================

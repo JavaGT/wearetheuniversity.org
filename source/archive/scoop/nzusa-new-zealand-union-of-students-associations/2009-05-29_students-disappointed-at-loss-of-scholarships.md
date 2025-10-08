@@ -1,9 +1,12 @@
 ---
 slug: students-disappointed-at-loss-of-scholarships
-title: "Students disappointed at loss of scholarships"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/ED0905/S00128/students-disappointed-at-loss-of-scholarships.htm
+title: Students disappointed at loss of scholarships
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00128/students-disappointed-at-loss-of-scholarships.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/05/29/students-disappointed-at-loss-of-scholarships/index.html
+layout: layout.njk
 ---
 Students disappointed at loss of scholarships
 =============================================

@@ -1,9 +1,16 @@
 ---
-slug: nzers-need-to-work-together-in-preparation-for-likely-coronavirus-pandemic-otago-expert-says
-title: "NZers Need To Work Together In Preparation For Likely Coronavirus Pandemic, Otago Expert Says."
-date: 2020-02-21
-source-url: https://www.scoop.co.nz/stories/GE2002/S00072/nzers-need-to-work-together-in-preparation-for-likely-coronavirus-pandemic-otago-expert-says.htm
+slug: >-
+  nzers-need-to-work-together-in-preparation-for-likely-coronavirus-pandemic-otago-expert-says
+title: >-
+  NZers Need To Work Together In Preparation For Likely Coronavirus Pandemic,
+  Otago Expert Says.
+date: 2020-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2002/S00072/nzers-need-to-work-together-in-preparation-for-likely-coronavirus-pandemic-otago-expert-says.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/02/21/nzers-need-to-work-together-in-preparation-for-likely-coronavirus-pandemic-otago-expert-says/index.html
+layout: layout.njk
 ---
 NZers Need To Work Together In Preparation For Likely Coronavirus Pandemic, Otago Expert Says.
 ==============================================================================================

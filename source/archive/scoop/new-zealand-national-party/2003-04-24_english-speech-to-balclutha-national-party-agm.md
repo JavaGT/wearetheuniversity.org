@@ -1,9 +1,12 @@
 ---
 slug: english-speech-to-balclutha-national-party-agm
-title: "English Speech to Balclutha National Party AGM"
-date: 2003-04-24
-source-url: https://www.scoop.co.nz/stories/PA0304/S00439/english-speech-to-balclutha-national-party-agm.htm
+title: English Speech to Balclutha National Party AGM
+date: 2003-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00439/english-speech-to-balclutha-national-party-agm.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/24/english-speech-to-balclutha-national-party-agm/index.html
+layout: layout.njk
 ---
 English Speech to Balclutha National Party AGM
 ==============================================

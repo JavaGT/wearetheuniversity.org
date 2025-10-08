@@ -1,9 +1,13 @@
 ---
 slug: expert-analysis-of-climate-change-impacts-on-southern-ocean
-title: "Expert analysis of climate change impacts on Southern Ocean"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/SC1509/S00009/expert-analysis-of-climate-change-impacts-on-southern-ocean.htm
+title: Expert analysis of climate change impacts on Southern Ocean
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00009/expert-analysis-of-climate-change-impacts-on-southern-ocean.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/09/03/expert-analysis-of-climate-change-impacts-on-southern-ocean/index.html
+layout: layout.njk
 ---
 Expert analysis of climate change impacts on Southern Ocean
 ===========================================================

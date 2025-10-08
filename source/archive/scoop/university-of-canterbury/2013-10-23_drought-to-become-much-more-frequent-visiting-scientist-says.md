@@ -1,9 +1,13 @@
 ---
 slug: drought-to-become-much-more-frequent-visiting-scientist-says
-title: "Drought to become much more frequent visiting scientist says"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/SC1310/S00062/drought-to-become-much-more-frequent-visiting-scientist-says.htm
+title: Drought to become much more frequent visiting scientist says
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00062/drought-to-become-much-more-frequent-visiting-scientist-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/23/drought-to-become-much-more-frequent-visiting-scientist-says/index.html
+layout: layout.njk
 ---
 Drought to become much more frequent visiting scientist says
 ============================================================

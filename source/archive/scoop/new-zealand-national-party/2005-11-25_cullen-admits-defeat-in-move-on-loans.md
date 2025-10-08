@@ -1,9 +1,12 @@
 ---
 slug: cullen-admits-defeat-in-move-on-loans
-title: "Cullen admits defeat in move on loans"
-date: 2005-11-25
-source-url: https://www.scoop.co.nz/stories/PA0511/S00381/cullen-admits-defeat-in-move-on-loans.htm
+title: Cullen admits defeat in move on loans
+date: 2005-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00381/cullen-admits-defeat-in-move-on-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/25/cullen-admits-defeat-in-move-on-loans/index.html
+layout: layout.njk
 ---
 Cullen admits defeat in move on loans
 =====================================

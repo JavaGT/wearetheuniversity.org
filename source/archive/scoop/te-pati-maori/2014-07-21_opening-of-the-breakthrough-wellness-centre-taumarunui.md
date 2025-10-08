@@ -1,9 +1,13 @@
 ---
 slug: opening-of-the-breakthrough-wellness-centre-taumarunui
-title: "Opening of the Breakthrough Wellness Centre, Taumarunui"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/PA1407/S00366/opening-of-the-breakthrough-wellness-centre-taumarunui.htm
+title: Opening of the Breakthrough Wellness Centre, Taumarunui
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00366/opening-of-the-breakthrough-wellness-centre-taumarunui.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/07/21/opening-of-the-breakthrough-wellness-centre-taumarunui/index.html
+layout: layout.njk
 ---
 Opening of the Breakthrough Wellness Centre, Taumarunui
 =======================================================

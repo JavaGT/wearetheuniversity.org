@@ -1,9 +1,13 @@
 ---
 slug: ministers-pre-budget-statements-concern-students
-title: "Minister’s pre-budget statements concern students"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/ED0904/S00074/ministers-pre-budget-statements-concern-students.htm
+title: Minister’s pre-budget statements concern students
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00074/ministers-pre-budget-statements-concern-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/04/30/ministers-pre-budget-statements-concern-students/index.html
+layout: layout.njk
 ---
 Minister’s pre-budget statements concern students
 =================================================

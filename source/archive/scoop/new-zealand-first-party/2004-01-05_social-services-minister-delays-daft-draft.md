@@ -1,9 +1,12 @@
 ---
 slug: social-services-minister-delays-daft-draft
-title: "Social Services Minister Delays Daft Draft"
-date: 2004-01-05
-source-url: https://www.scoop.co.nz/stories/PA0401/S00015/social-services-minister-delays-daft-draft.htm
+title: Social Services Minister Delays Daft Draft
+date: 2004-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00015/social-services-minister-delays-daft-draft.htm
 author: new-zealand-first-party
+permalink: /archive/2004/01/05/social-services-minister-delays-daft-draft/index.html
+layout: layout.njk
 ---
 Social Services Minister Delays Daft Draft
 ==========================================

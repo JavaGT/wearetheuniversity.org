@@ -1,9 +1,13 @@
 ---
 slug: free-fares-campaign-urges-government-to-value-public-transport-in-the-gps
-title: "Free Fares Campaign Urges Government To Value Public Transport In The GPS"
-date: 2024-03-13
-source-url: https://www.scoop.co.nz/stories/PO2403/S00117/free-fares-campaign-urges-government-to-value-public-transport-in-the-gps.htm
+title: Free Fares Campaign Urges Government To Value Public Transport In The GPS
+date: 2024-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2403/S00117/free-fares-campaign-urges-government-to-value-public-transport-in-the-gps.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2024/03/13/free-fares-campaign-urges-government-to-value-public-transport-in-the-gps/index.html
+layout: layout.njk
 ---
 Free Fares Campaign Urges Government To Value Public Transport In The GPS
 =========================================================================

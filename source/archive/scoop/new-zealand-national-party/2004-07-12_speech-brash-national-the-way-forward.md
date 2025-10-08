@@ -1,9 +1,12 @@
 ---
 slug: speech-brash-national-the-way-forward
-title: "Speech: Brash - National - the way forward"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/PA0407/S00178/speech-brash-national-the-way-forward.htm
+title: 'Speech: Brash - National - the way forward'
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00178/speech-brash-national-the-way-forward.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/12/speech-brash-national-the-way-forward/index.html
+layout: layout.njk
 ---
 Speech: Brash - National - the way forward
 ==========================================

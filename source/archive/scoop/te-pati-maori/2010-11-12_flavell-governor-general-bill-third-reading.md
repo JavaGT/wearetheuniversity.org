@@ -1,9 +1,12 @@
 ---
 slug: flavell-governor-general-bill-third-reading
-title: "Flavell: Governor-General Bill Third Reading"
-date: 2010-11-12
-source-url: https://www.scoop.co.nz/stories/PA1011/S00267/flavell-governor-general-bill-third-reading.htm
+title: 'Flavell: Governor-General Bill Third Reading'
+date: 2010-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00267/flavell-governor-general-bill-third-reading.htm
 author: te-pati-maori
+permalink: /archive/2010/11/12/flavell-governor-general-bill-third-reading/index.html
+layout: layout.njk
 ---
 Flavell: Governor-General Bill Third Reading
 ============================================

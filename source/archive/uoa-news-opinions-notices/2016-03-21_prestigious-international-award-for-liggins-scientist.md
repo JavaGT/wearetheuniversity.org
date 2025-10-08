@@ -1,8 +1,12 @@
 ---
 slug: prestigious-international-award-for-liggins-scientist
-title: "Prestigious International Award for Liggins Scientist"
-date: 2016-03-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/prestigious-international-award-for-liggins-scientist.html
+title: Prestigious International Award for Liggins Scientist
+date: 2016-03-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/prestigious-international-award-for-liggins-scientist.html
+permalink: >-
+  /archive/2016/03/21/prestigious-international-award-for-liggins-scientist/index.html
+layout: layout.njk
 ---
 Prestigious International Award for Liggins Scientist
 =====================================================

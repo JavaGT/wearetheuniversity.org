@@ -1,9 +1,12 @@
 ---
 slug: march-for-peace-and-justice-in-iraq
-title: "March for peace and justice in Iraq"
-date: 2006-03-17
-source-url: https://www.scoop.co.nz/stories/PO0603/S00141/march-for-peace-and-justice-in-iraq.htm
+title: March for peace and justice in Iraq
+date: 2006-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0603/S00141/march-for-peace-and-justice-in-iraq.htm
 author: peace-action-wellington
+permalink: /archive/2006/03/17/march-for-peace-and-justice-in-iraq/index.html
+layout: layout.njk
 ---
 March for peace and justice in Iraq
 ===================================

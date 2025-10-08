@@ -1,9 +1,12 @@
 ---
 slug: online-initiative-clicks-for-otago-schools
-title: "Online initiative clicks for Otago schools"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00779/online-initiative-clicks-for-otago-schools.htm
+title: Online initiative clicks for Otago schools
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00779/online-initiative-clicks-for-otago-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/30/online-initiative-clicks-for-otago-schools/index.html
+layout: layout.njk
 ---
 Online initiative clicks for Otago schools
 ==========================================

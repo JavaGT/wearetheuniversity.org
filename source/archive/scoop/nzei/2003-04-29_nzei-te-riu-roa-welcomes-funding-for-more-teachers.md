@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-welcomes-funding-for-more-teachers
-title: "Nzei Te Riu Roa Welcomes Funding For More Teachers"
-date: 2003-04-29
-source-url: https://www.scoop.co.nz/stories/ED0304/S00055/nzei-te-riu-roa-welcomes-funding-for-more-teachers.htm
+title: Nzei Te Riu Roa Welcomes Funding For More Teachers
+date: 2003-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00055/nzei-te-riu-roa-welcomes-funding-for-more-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2003/04/29/nzei-te-riu-roa-welcomes-funding-for-more-teachers/index.html
+layout: layout.njk
 ---
 Nzei Te Riu Roa Welcomes Funding For More Teachers
 ==================================================

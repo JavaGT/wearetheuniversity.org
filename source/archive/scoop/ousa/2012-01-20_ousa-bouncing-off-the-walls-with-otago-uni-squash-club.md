@@ -1,9 +1,13 @@
 ---
 slug: ousa-bouncing-off-the-walls-with-otago-uni-squash-club
-title: "OUSA bouncing off the walls with Otago Uni Squash Club"
-date: 2012-01-20
-source-url: https://www.scoop.co.nz/stories/AK1201/S00368/ousa-bouncing-off-the-walls-with-otago-uni-squash-club.htm
+title: OUSA bouncing off the walls with Otago Uni Squash Club
+date: 2012-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1201/S00368/ousa-bouncing-off-the-walls-with-otago-uni-squash-club.htm
 author: ousa
+permalink: >-
+  /archive/2012/01/20/ousa-bouncing-off-the-walls-with-otago-uni-squash-club/index.html
+layout: layout.njk
 ---
 OUSA bouncing off the walls with Otago Uni Squash Club
 ======================================================

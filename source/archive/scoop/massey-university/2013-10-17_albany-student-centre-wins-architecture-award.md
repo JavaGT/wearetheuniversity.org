@@ -1,9 +1,12 @@
 ---
 slug: albany-student-centre-wins-architecture-award
-title: "Albany student centre wins architecture award"
-date: 2013-10-17
-source-url: https://www.scoop.co.nz/stories/ED1310/S00112/albany-student-centre-wins-architecture-award.htm
+title: Albany student centre wins architecture award
+date: 2013-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00112/albany-student-centre-wins-architecture-award.htm
 author: massey-university
+permalink: /archive/2013/10/17/albany-student-centre-wins-architecture-award/index.html
+layout: layout.njk
 ---
 Albany student centre wins architecture award
 =============================================

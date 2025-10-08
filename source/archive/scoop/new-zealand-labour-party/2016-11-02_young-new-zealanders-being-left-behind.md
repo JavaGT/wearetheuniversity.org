@@ -1,9 +1,12 @@
 ---
 slug: young-new-zealanders-being-left-behind
-title: "Young New Zealanders being left behind"
-date: 2016-11-02
-source-url: https://www.scoop.co.nz/stories/PA1611/S00035/young-new-zealanders-being-left-behind.htm
+title: Young New Zealanders being left behind
+date: 2016-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00035/young-new-zealanders-being-left-behind.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/02/young-new-zealanders-being-left-behind/index.html
+layout: layout.njk
 ---
 Young New Zealanders being left behind
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: gerry-brownlee-red-faced-over-apology
-title: "Gerry Brownlee red faced over apology"
-date: 2014-03-06
-source-url: https://www.scoop.co.nz/stories/PA1403/S00092/gerry-brownlee-red-faced-over-apology.htm
+title: Gerry Brownlee red faced over apology
+date: 2014-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00092/gerry-brownlee-red-faced-over-apology.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/06/gerry-brownlee-red-faced-over-apology/index.html
+layout: layout.njk
 ---
 Gerry Brownlee red faced over apology
 =====================================

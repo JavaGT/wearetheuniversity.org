@@ -1,9 +1,12 @@
 ---
 slug: trade-deficit-disaster-for-national
-title: "Trade Deficit Disaster For National"
-date: 1999-06-25
-source-url: https://www.scoop.co.nz/stories/PA9906/S00259/trade-deficit-disaster-for-national.htm
+title: Trade Deficit Disaster For National
+date: 1999-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00259/trade-deficit-disaster-for-national.htm
 author: green-party
+permalink: /archive/1999/06/25/trade-deficit-disaster-for-national/index.html
+layout: layout.njk
 ---
 Trade Deficit Disaster For National
 ===================================

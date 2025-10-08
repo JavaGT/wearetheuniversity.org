@@ -1,9 +1,13 @@
 ---
 slug: black-panther-to-give-second-lecture-in-auckland
-title: "Black Panther To Give Second Lecture In Auckland"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/CU0909/S00022/black-panther-to-give-second-lecture-in-auckland.htm
+title: Black Panther To Give Second Lecture In Auckland
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00022/black-panther-to-give-second-lecture-in-auckland.htm
 author: auckland-university
+permalink: >-
+  /archive/2009/09/02/black-panther-to-give-second-lecture-in-auckland/index.html
+layout: layout.njk
 ---
 Black Panther To Give Second Lecture In Auckland
 ================================================

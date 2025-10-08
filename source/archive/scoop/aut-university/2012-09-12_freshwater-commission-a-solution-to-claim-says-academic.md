@@ -1,9 +1,13 @@
 ---
 slug: freshwater-commission-a-solution-to-claim-says-academic
-title: "\"Freshwater Commission\" a solution to claim, says academic"
-date: 2012-09-12
-source-url: https://www.scoop.co.nz/stories/PO1209/S00150/freshwater-commission-a-solution-to-claim-says-academic.htm
+title: '"Freshwater Commission" a solution to claim, says academic'
+date: 2012-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00150/freshwater-commission-a-solution-to-claim-says-academic.htm
 author: aut-university
+permalink: >-
+  /archive/2012/09/12/freshwater-commission-a-solution-to-claim-says-academic/index.html
+layout: layout.njk
 ---
 “Freshwater Commission” a solution to claim, says academic
 ==========================================================

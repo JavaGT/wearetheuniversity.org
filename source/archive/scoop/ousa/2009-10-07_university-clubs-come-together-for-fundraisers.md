@@ -1,9 +1,12 @@
 ---
 slug: university-clubs-come-together-for-fundraisers
-title: "University Clubs Come together for Fundraisers"
-date: 2009-10-07
-source-url: https://www.scoop.co.nz/stories/CU0910/S00097/university-clubs-come-together-for-fundraisers.htm
+title: University Clubs Come together for Fundraisers
+date: 2009-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0910/S00097/university-clubs-come-together-for-fundraisers.htm
 author: ousa
+permalink: /archive/2009/10/07/university-clubs-come-together-for-fundraisers/index.html
+layout: layout.njk
 ---
 University Clubs Come together for Fundraisers
 ==============================================

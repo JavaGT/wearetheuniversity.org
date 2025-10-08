@@ -1,9 +1,12 @@
 ---
 slug: cantabrians-denied-democracy-twice-in-a-row
-title: "Cantabrians denied democracy twice in a row"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/PA1310/S00072/cantabrians-denied-democracy-twice-in-a-row.htm
+title: Cantabrians denied democracy twice in a row
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00072/cantabrians-denied-democracy-twice-in-a-row.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/03/cantabrians-denied-democracy-twice-in-a-row/index.html
+layout: layout.njk
 ---
 Cantabrians denied democracy twice in a row
 ===========================================

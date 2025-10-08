@@ -1,9 +1,12 @@
 ---
 slug: nobel-prize-for-visiting-academic
-title: "Nobel Prize for visiting academic"
-date: 2005-10-06
-source-url: https://www.scoop.co.nz/stories/ED0510/S00018/nobel-prize-for-visiting-academic.htm
+title: Nobel Prize for visiting academic
+date: 2005-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00018/nobel-prize-for-visiting-academic.htm
 author: university-of-canterbury
+permalink: /archive/2005/10/06/nobel-prize-for-visiting-academic/index.html
+layout: layout.njk
 ---
 Nobel Prize for visiting academic
 =================================

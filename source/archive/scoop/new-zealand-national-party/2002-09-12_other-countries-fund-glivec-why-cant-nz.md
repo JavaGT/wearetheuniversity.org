@@ -1,9 +1,12 @@
 ---
 slug: other-countries-fund-glivec-why-cant-nz
-title: "Other countries fund Glivec - why can’t NZ?"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/PA0209/S00217/other-countries-fund-glivec-why-cant-nz.htm
+title: Other countries fund Glivec - why can’t NZ?
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00217/other-countries-fund-glivec-why-cant-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/12/other-countries-fund-glivec-why-cant-nz/index.html
+layout: layout.njk
 ---
 Other countries fund Glivec - why can’t NZ?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-gains-in-cancer-but-much-to-be-done
-title: "Māori gains in cancer, but much to be done"
-date: 2010-08-23
-source-url: https://www.scoop.co.nz/stories/GE1008/S00094/maori-gains-in-cancer-but-much-to-be-done.htm
+title: Māori gains in cancer, but much to be done
+date: 2010-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1008/S00094/maori-gains-in-cancer-but-much-to-be-done.htm
 author: university-of-otago
+permalink: /archive/2010/08/23/m/index.html
+layout: layout.njk
 ---
 Māori gains in cancer, but much to be done
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: mojo-mathers-re-speakers-decision-on-support-funding
-title: "Mojo Mathers re Speaker’s decision on support funding"
-date: 2012-03-09
-source-url: https://www.scoop.co.nz/stories/PA1203/S00143/mojo-mathers-re-speakers-decision-on-support-funding.htm
+title: Mojo Mathers re Speaker’s decision on support funding
+date: 2012-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00143/mojo-mathers-re-speakers-decision-on-support-funding.htm
 author: green-party
+permalink: >-
+  /archive/2012/03/09/mojo-mathers-re-speakers-decision-on-support-funding/index.html
+layout: layout.njk
 ---
 Mojo Mathers re Speaker’s decision on support funding
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: ufb-roll-out-set-to-begin-in-hawkes-bay-pm
-title: "UFB roll-out set to begin in Hawke’s Bay - PM"
-date: 2011-11-13
-source-url: https://www.scoop.co.nz/stories/PA1111/S00248/ufb-roll-out-set-to-begin-in-hawkes-bay-pm.htm
+title: UFB roll-out set to begin in Hawke’s Bay - PM
+date: 2011-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00248/ufb-roll-out-set-to-begin-in-hawkes-bay-pm.htm
 author: new-zealand-national-party
+permalink: /archive/2011/11/13/ufb-roll-out-set-to-begin-in-hawkes-bay-pm/index.html
+layout: layout.njk
 ---
 UFB roll-out set to begin in Hawke’s Bay - PM
 =============================================

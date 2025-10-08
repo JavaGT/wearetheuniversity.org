@@ -1,9 +1,16 @@
 ---
-slug: hamilton-for-hamilton-ryan-hamilton-selected-as-nationals-candidate-in-hamilton-east
-title: "Hamilton For Hamilton: Ryan Hamilton Selected As National’s Candidate In Hamilton East"
-date: 2023-02-17
-source-url: https://www.scoop.co.nz/stories/PO2302/S00093/hamilton-for-hamilton-ryan-hamilton-selected-as-nationals-candidate-in-hamilton-east.htm
+slug: >-
+  hamilton-for-hamilton-ryan-hamilton-selected-as-nationals-candidate-in-hamilton-east
+title: >-
+  Hamilton For Hamilton: Ryan Hamilton Selected As National’s Candidate In
+  Hamilton East
+date: 2023-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00093/hamilton-for-hamilton-ryan-hamilton-selected-as-nationals-candidate-in-hamilton-east.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/17/hamilton-for-hamilton-ryan-hamilton-selected-as-nationals-candidate-in-hamilton-east/index.html
+layout: layout.njk
 ---
 Hamilton For Hamilton: Ryan Hamilton Selected As National’s Candidate In Hamilton East
 ======================================================================================

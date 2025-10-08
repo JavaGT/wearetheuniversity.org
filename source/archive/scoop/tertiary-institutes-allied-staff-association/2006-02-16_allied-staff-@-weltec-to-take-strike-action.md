@@ -1,9 +1,12 @@
 ---
 slug: allied-staff-@-weltec-to-take-strike-action
-title: "Allied Staff @ WelTec To Take Strike Action"
-date: 2006-02-16
-source-url: https://www.scoop.co.nz/stories/ED0602/S00043/allied-staff-weltec-to-take-strike-action.htm
+title: Allied Staff @ WelTec To Take Strike Action
+date: 2006-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00043/allied-staff-weltec-to-take-strike-action.htm
 author: tertiary-institutes-allied-staff-association
+permalink: /archive/2006/02/16/allied-staff-/index.html
+layout: layout.njk
 ---
 Allied Staff @ WelTec To Take Strike Action
 ===========================================

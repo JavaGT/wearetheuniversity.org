@@ -1,9 +1,12 @@
 ---
 slug: raising-school-leaving-age-not-the-answer
-title: "Raising school leaving age not the answer"
-date: 2007-04-24
-source-url: https://www.scoop.co.nz/stories/PA0704/S00398/raising-school-leaving-age-not-the-answer.htm
+title: Raising school leaving age not the answer
+date: 2007-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00398/raising-school-leaving-age-not-the-answer.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/24/raising-school-leaving-age-not-the-answer/index.html
+layout: layout.njk
 ---
 Raising school leaving age not the answer
 =========================================

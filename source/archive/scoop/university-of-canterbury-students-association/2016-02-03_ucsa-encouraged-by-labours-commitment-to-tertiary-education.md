@@ -1,9 +1,13 @@
 ---
 slug: ucsa-encouraged-by-labours-commitment-to-tertiary-education
-title: "UCSA Encouraged by Labour’s Commitment to Tertiary Education"
-date: 2016-02-03
-source-url: https://www.scoop.co.nz/stories/ED1602/S00022/ucsa-encouraged-by-labours-commitment-to-tertiary-education.htm
+title: UCSA Encouraged by Labour’s Commitment to Tertiary Education
+date: 2016-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00022/ucsa-encouraged-by-labours-commitment-to-tertiary-education.htm
 author: university-of-canterbury-students-association
+permalink: >-
+  /archive/2016/02/03/ucsa-encouraged-by-labours-commitment-to-tertiary-education/index.html
+layout: layout.njk
 ---
 UCSA Encouraged by Labour’s Commitment to Tertiary Education
 ============================================================

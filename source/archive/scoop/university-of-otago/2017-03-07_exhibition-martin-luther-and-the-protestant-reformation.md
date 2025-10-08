@@ -1,9 +1,13 @@
 ---
 slug: exhibition-martin-luther-and-the-protestant-reformation
-title: "Exhibition: Martin Luther and the Protestant Reformation"
-date: 2017-03-07
-source-url: https://www.scoop.co.nz/stories/CU1703/S00136/exhibition-martin-luther-and-the-protestant-reformation.htm
+title: 'Exhibition: Martin Luther and the Protestant Reformation'
+date: 2017-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1703/S00136/exhibition-martin-luther-and-the-protestant-reformation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/07/exhibition-martin-luther-and-the-protestant-reformation/index.html
+layout: layout.njk
 ---
 Exhibition: Martin Luther and the Protestant Reformation
 ========================================================

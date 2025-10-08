@@ -1,9 +1,12 @@
 ---
 slug: petition-calls-on-govt-to-fund-childrens-camps
-title: "Petition calls on Govt to fund children’s camps"
-date: 2018-05-31
-source-url: https://www.scoop.co.nz/stories/PA1805/S00411/petition-calls-on-govt-to-fund-childrens-camps.htm
+title: Petition calls on Govt to fund children’s camps
+date: 2018-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00411/petition-calls-on-govt-to-fund-childrens-camps.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/31/petition-calls-on-govt-to-fund-childrens-camps/index.html
+layout: layout.njk
 ---
 Petition calls on Govt to fund children’s camps
 ===============================================

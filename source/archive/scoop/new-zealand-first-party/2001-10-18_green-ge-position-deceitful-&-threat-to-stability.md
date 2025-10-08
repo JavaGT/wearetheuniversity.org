@@ -1,9 +1,12 @@
 ---
 slug: green-ge-position-deceitful-&-threat-to-stability
-title: "Green GE position deceitful & threat to stability"
-date: 2001-10-18
-source-url: https://www.scoop.co.nz/stories/PA0110/S00371/green-ge-position-deceitful-threat-to-stability.htm
+title: Green GE position deceitful & threat to stability
+date: 2001-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00371/green-ge-position-deceitful-threat-to-stability.htm
 author: new-zealand-first-party
+permalink: /archive/2001/10/18/green-ge-position-deceitful-/index.html
+layout: layout.njk
 ---
 Green GE position deceitful & threat to stability
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: tax-collector-forcing-kiwis-to-put-their-lives-on-hold
-title: "Tax collector forcing Kiwis to put their lives on hold"
-date: 2020-01-14
-source-url: https://www.scoop.co.nz/stories/PA2001/S00028/tax-collector-forcing-kiwis-to-put-their-lives-on-hold.htm
+title: Tax collector forcing Kiwis to put their lives on hold
+date: 2020-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00028/tax-collector-forcing-kiwis-to-put-their-lives-on-hold.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/01/14/tax-collector-forcing-kiwis-to-put-their-lives-on-hold/index.html
+layout: layout.njk
 ---
 Tax collector forcing Kiwis to put their lives on hold
 ======================================================

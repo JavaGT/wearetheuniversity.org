@@ -1,9 +1,12 @@
 ---
 slug: new-book-by-uc-pro-vice-chancellor-(science)
-title: "New book by UC Pro-Vice-Chancellor (Science)"
-date: 2005-02-03
-source-url: https://www.scoop.co.nz/stories/SC0502/S00009/new-book-by-uc-pro-vice-chancellor-science.htm
+title: New book by UC Pro-Vice-Chancellor (Science)
+date: 2005-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00009/new-book-by-uc-pro-vice-chancellor-science.htm
 author: university-of-canterbury
+permalink: /archive/2005/02/03/new-book-by-uc-pro-vice-chancellor-/index.html
+layout: layout.njk
 ---
 New book by UC Pro-Vice-Chancellor (Science)
 ============================================

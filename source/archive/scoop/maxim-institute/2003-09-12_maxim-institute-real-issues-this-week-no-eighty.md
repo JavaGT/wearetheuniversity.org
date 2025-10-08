@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-this-week-no-eighty
-title: "Maxim Institute real issues. this week: No. Eighty"
-date: 2003-09-12
-source-url: https://www.scoop.co.nz/stories/PO0309/S00075/maxim-institute-real-issues-this-week-no-eighty.htm
+title: 'Maxim Institute real issues. this week: No. Eighty'
+date: 2003-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00075/maxim-institute-real-issues-this-week-no-eighty.htm
 author: maxim-institute
+permalink: /archive/2003/09/12/maxim-institute-real-issues-this-week-no-eighty/index.html
+layout: layout.njk
 ---
 Maxim Institute real issues. this week: No. Eighty
 ==================================================

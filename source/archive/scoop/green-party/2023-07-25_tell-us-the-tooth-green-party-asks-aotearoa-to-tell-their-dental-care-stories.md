@@ -1,9 +1,13 @@
 ---
 slug: tell-us-the-tooth-green-party-asks-aotearoa-to-tell-their-dental-care-stories
-title: "Tell Us The Tooth: Green Party Asks Aotearoa To Tell Their Dental Care Stories"
-date: 2023-07-25
-source-url: https://www.scoop.co.nz/stories/PA2307/S00129/tell-us-the-tooth-green-party-asks-aotearoa-to-tell-their-dental-care-stories.htm
+title: 'Tell Us The Tooth: Green Party Asks Aotearoa To Tell Their Dental Care Stories'
+date: 2023-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00129/tell-us-the-tooth-green-party-asks-aotearoa-to-tell-their-dental-care-stories.htm
 author: green-party
+permalink: >-
+  /archive/2023/07/25/tell-us-the-tooth-green-party-asks-aotearoa-to-tell-their-dental-care-stories/index.html
+layout: layout.njk
 ---
 Tell Us The Tooth: Green Party Asks Aotearoa To Tell Their Dental Care Stories
 ==============================================================================

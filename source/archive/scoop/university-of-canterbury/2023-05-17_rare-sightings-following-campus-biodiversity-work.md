@@ -1,9 +1,13 @@
 ---
 slug: rare-sightings-following-campus-biodiversity-work
-title: "Rare Sightings Following Campus Biodiversity Work"
-date: 2023-05-17
-source-url: https://www.scoop.co.nz/stories/AK2305/S00328/rare-sightings-following-campus-biodiversity-work.htm
+title: Rare Sightings Following Campus Biodiversity Work
+date: 2023-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2305/S00328/rare-sightings-following-campus-biodiversity-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/17/rare-sightings-following-campus-biodiversity-work/index.html
+layout: layout.njk
 ---
 Rare Sightings Following Campus Biodiversity Work
 =================================================

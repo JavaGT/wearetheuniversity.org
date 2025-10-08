@@ -1,9 +1,13 @@
 ---
 slug: canterbury-research-investigating-adolescent-girls-in-sport
-title: "Canterbury research investigating adolescent girls in sport"
-date: 2015-02-25
-source-url: https://www.scoop.co.nz/stories/ED1502/S00089/canterbury-research-investigating-adolescent-girls-in-sport.htm
+title: Canterbury research investigating adolescent girls in sport
+date: 2015-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00089/canterbury-research-investigating-adolescent-girls-in-sport.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/25/canterbury-research-investigating-adolescent-girls-in-sport/index.html
+layout: layout.njk
 ---
 Canterbury research investigating adolescent girls in sport
 ===========================================================

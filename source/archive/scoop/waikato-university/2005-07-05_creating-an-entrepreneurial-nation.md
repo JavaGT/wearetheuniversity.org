@@ -1,9 +1,12 @@
 ---
 slug: creating-an-entrepreneurial-nation
-title: "Creating an entrepreneurial nation"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/ED0507/S00015/creating-an-entrepreneurial-nation.htm
+title: Creating an entrepreneurial nation
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00015/creating-an-entrepreneurial-nation.htm
 author: waikato-university
+permalink: /archive/2005/07/05/creating-an-entrepreneurial-nation/index.html
+layout: layout.njk
 ---
 Creating an entrepreneurial nation
 ==================================

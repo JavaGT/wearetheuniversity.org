@@ -1,9 +1,12 @@
 ---
 slug: new-journalism-scholarship-announced
-title: "New journalism scholarship announced"
-date: 2009-02-24
-source-url: https://www.scoop.co.nz/stories/ED0902/S00086/new-journalism-scholarship-announced.htm
+title: New journalism scholarship announced
+date: 2009-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00086/new-journalism-scholarship-announced.htm
 author: aut-university
+permalink: /archive/2009/02/24/new-journalism-scholarship-announced/index.html
+layout: layout.njk
 ---
 New journalism scholarship announced
 ====================================

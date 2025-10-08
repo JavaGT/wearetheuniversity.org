@@ -1,9 +1,13 @@
 ---
 slug: local-wisdom-key-to-pacific-sustainable-development
-title: "Local wisdom key to Pacific sustainable development"
-date: 2016-12-02
-source-url: https://www.scoop.co.nz/stories/ED1612/S00014/local-wisdom-key-to-pacific-sustainable-development.htm
+title: Local wisdom key to Pacific sustainable development
+date: 2016-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00014/local-wisdom-key-to-pacific-sustainable-development.htm
 author: massey-university
+permalink: >-
+  /archive/2016/12/02/local-wisdom-key-to-pacific-sustainable-development/index.html
+layout: layout.njk
 ---
 Local wisdom key to Pacific sustainable development
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: peters-its-time-to-work-for-all-new-zealanders
-title: "Peters: It’s Time To Work For All New Zealanders"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/PA1405/S00110/peters-its-time-to-work-for-all-new-zealanders.htm
+title: 'Peters: It’s Time To Work For All New Zealanders'
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00110/peters-its-time-to-work-for-all-new-zealanders.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/07/peters-its-time-to-work-for-all-new-zealanders/index.html
+layout: layout.njk
 ---
 Peters: It’s Time To Work For All New Zealanders
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: excessive-eating-and-drinking-linked-to-breast-cancer
-title: "Excessive eating and drinking linked to breast cancer"
-date: 2012-10-05
-source-url: https://www.scoop.co.nz/stories/SC1210/S00016/excessive-eating-and-drinking-linked-to-breast-cancer.htm
+title: Excessive eating and drinking linked to breast cancer
+date: 2012-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00016/excessive-eating-and-drinking-linked-to-breast-cancer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/05/excessive-eating-and-drinking-linked-to-breast-cancer/index.html
+layout: layout.njk
 ---
 Excessive eating and drinking linked to breast cancer
 =====================================================

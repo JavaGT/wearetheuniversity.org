@@ -1,9 +1,11 @@
 ---
 slug: the-truth-about-librarians
-title: "The truth about librarians"
-date: 2008-08-29
+title: The truth about librarians
+date: 2008-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0808/S00312/the-truth-about-librarians.htm
 author: aut-university
+permalink: /archive/2008/08/29/the-truth-about-librarians/index.html
+layout: layout.njk
 ---
 The truth about librarians
 ==========================

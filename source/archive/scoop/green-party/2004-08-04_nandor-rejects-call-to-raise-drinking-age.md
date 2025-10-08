@@ -1,9 +1,12 @@
 ---
 slug: nandor-rejects-call-to-raise-drinking-age
-title: "Nandor rejects call to raise drinking age"
-date: 2004-08-04
-source-url: https://www.scoop.co.nz/stories/PA0408/S00065/nandor-rejects-call-to-raise-drinking-age.htm
+title: Nandor rejects call to raise drinking age
+date: 2004-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00065/nandor-rejects-call-to-raise-drinking-age.htm
 author: green-party
+permalink: /archive/2004/08/04/nandor-rejects-call-to-raise-drinking-age/index.html
+layout: layout.njk
 ---
 Nandor rejects call to raise drinking age
 =========================================

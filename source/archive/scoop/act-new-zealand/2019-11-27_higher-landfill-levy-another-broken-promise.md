@@ -1,9 +1,12 @@
 ---
 slug: higher-landfill-levy-another-broken-promise
-title: "Higher landfill levy another broken promise"
-date: 2019-11-27
-source-url: https://www.scoop.co.nz/stories/PA1911/S00225/higher-landfill-levy-another-broken-promise.htm
+title: Higher landfill levy another broken promise
+date: 2019-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00225/higher-landfill-levy-another-broken-promise.htm
 author: act-new-zealand
+permalink: /archive/2019/11/27/higher-landfill-levy-another-broken-promise/index.html
+layout: layout.njk
 ---
 Higher landfill levy another broken promise
 ===========================================

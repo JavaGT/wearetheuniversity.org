@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-how-cancer-survivors-feel-better-about-life
-title: "UC researching how cancer survivors feel better about life"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/GE1210/S00031/uc-researching-how-cancer-survivors-feel-better-about-life.htm
+title: UC researching how cancer survivors feel better about life
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1210/S00031/uc-researching-how-cancer-survivors-feel-better-about-life.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/04/uc-researching-how-cancer-survivors-feel-better-about-life/index.html
+layout: layout.njk
 ---
 UC researching how cancer survivors feel better about life
 ==========================================================

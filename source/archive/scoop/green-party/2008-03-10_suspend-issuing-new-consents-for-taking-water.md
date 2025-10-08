@@ -1,9 +1,12 @@
 ---
 slug: suspend-issuing-new-consents-for-taking-water
-title: "Suspend issuing new consents for taking water"
-date: 2008-03-10
-source-url: https://www.scoop.co.nz/stories/PA0803/S00153/suspend-issuing-new-consents-for-taking-water.htm
+title: Suspend issuing new consents for taking water
+date: 2008-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00153/suspend-issuing-new-consents-for-taking-water.htm
 author: green-party
+permalink: /archive/2008/03/10/suspend-issuing-new-consents-for-taking-water/index.html
+layout: layout.njk
 ---
 Suspend issuing new consents for taking water
 =============================================

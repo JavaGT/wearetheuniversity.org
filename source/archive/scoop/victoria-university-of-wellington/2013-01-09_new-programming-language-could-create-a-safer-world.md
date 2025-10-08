@@ -1,9 +1,13 @@
 ---
 slug: new-programming-language-could-create-a-safer-world
-title: "New programming language could create a safer world"
-date: 2013-01-09
-source-url: https://www.scoop.co.nz/stories/ED1301/S00005/new-programming-language-could-create-a-safer-world.htm
+title: New programming language could create a safer world
+date: 2013-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00005/new-programming-language-could-create-a-safer-world.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/01/09/new-programming-language-could-create-a-safer-world/index.html
+layout: layout.njk
 ---
 New programming language could create a safer world
 ===================================================

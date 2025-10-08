@@ -1,9 +1,12 @@
 ---
 slug: australian-based-voters-targeted-by-greens
-title: "Australian-based voters targeted by Greens"
-date: 1999-10-22
-source-url: https://www.scoop.co.nz/stories/PA9910/S00544/australian-based-voters-targeted-by-greens.htm
+title: Australian-based voters targeted by Greens
+date: 1999-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00544/australian-based-voters-targeted-by-greens.htm
 author: green-party
+permalink: /archive/1999/10/22/australian-based-voters-targeted-by-greens/index.html
+layout: layout.njk
 ---
 Australian-based voters targeted by Greens
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-supports-governments-10-science-challenges
-title: "UC expert supports Government’s 10 science challenges"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/ED1305/S00010/uc-expert-supports-governments-10-science-challenges.htm
+title: UC expert supports Government’s 10 science challenges
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00010/uc-expert-supports-governments-10-science-challenges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/02/uc-expert-supports-governments-10-science-challenges/index.html
+layout: layout.njk
 ---
 UC expert supports Government’s 10 science challenges
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: why-health-research-is-not-put-into-practice
-title: "Why health research is not put into practice"
-date: 2007-11-22
-source-url: https://www.scoop.co.nz/stories/GE0711/S00112/why-health-research-is-not-put-into-practice.htm
+title: Why health research is not put into practice
+date: 2007-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00112/why-health-research-is-not-put-into-practice.htm
 author: university-of-otago
+permalink: /archive/2007/11/22/why-health-research-is-not-put-into-practice/index.html
+layout: layout.njk
 ---
 Why health research is not put into practice
 ============================================

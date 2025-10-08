@@ -1,9 +1,13 @@
 ---
 slug: national-launches-plan-to-combat-youth-offending
-title: "National Launches Plan To Combat Youth Offending"
-date: 2022-11-17
-source-url: https://www.scoop.co.nz/stories/PA2211/S00144/national-launches-plan-to-combat-youth-offending.htm
+title: National Launches Plan To Combat Youth Offending
+date: 2022-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00144/national-launches-plan-to-combat-youth-offending.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/17/national-launches-plan-to-combat-youth-offending/index.html
+layout: layout.njk
 ---
 National Launches Plan To Combat Youth Offending
 ================================================

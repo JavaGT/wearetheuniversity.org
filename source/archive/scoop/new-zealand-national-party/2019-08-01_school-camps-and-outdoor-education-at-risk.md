@@ -1,9 +1,12 @@
 ---
 slug: school-camps-and-outdoor-education-at-risk
-title: "School camps and outdoor education at risk"
-date: 2019-08-01
-source-url: https://www.scoop.co.nz/stories/PA1908/S00003/school-camps-and-outdoor-education-at-risk.htm
+title: School camps and outdoor education at risk
+date: 2019-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00003/school-camps-and-outdoor-education-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/01/school-camps-and-outdoor-education-at-risk/index.html
+layout: layout.njk
 ---
 School camps and outdoor education at risk
 ==========================================

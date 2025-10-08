@@ -1,9 +1,12 @@
 ---
 slug: tairawhiti-funding-scam-the-plot-thickens
-title: "Tairawhiti funding scam: the plot thickens"
-date: 2004-05-26
-source-url: https://www.scoop.co.nz/stories/PA0405/S00532/tairawhiti-funding-scam-the-plot-thickens.htm
+title: 'Tairawhiti funding scam: the plot thickens'
+date: 2004-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00532/tairawhiti-funding-scam-the-plot-thickens.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/26/tairawhiti-funding-scam-the-plot-thickens/index.html
+layout: layout.njk
 ---
 Tairawhiti funding scam: the plot thickens
 ==========================================

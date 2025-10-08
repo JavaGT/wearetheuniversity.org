@@ -1,9 +1,12 @@
 ---
 slug: government-urged-to-abandon-rimpac-2024
-title: "Government Urged To Abandon RIMPAC 2024"
-date: 2024-06-11
-source-url: https://www.scoop.co.nz/stories/PO2406/S00060/government-urged-to-abandon-rimpac-2024.htm
+title: Government Urged To Abandon RIMPAC 2024
+date: 2024-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2406/S00060/government-urged-to-abandon-rimpac-2024.htm
 author: palestine-solidarity-network-aotearoa
+permalink: /archive/2024/06/11/government-urged-to-abandon-rimpac-2024/index.html
+layout: layout.njk
 ---
 Government Urged To Abandon RIMPAC 2024
 =======================================

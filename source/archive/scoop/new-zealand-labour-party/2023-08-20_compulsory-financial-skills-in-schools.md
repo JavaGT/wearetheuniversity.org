@@ -1,9 +1,12 @@
 ---
 slug: compulsory-financial-skills-in-schools
-title: "Compulsory Financial Skills In Schools"
-date: 2023-08-20
-source-url: https://www.scoop.co.nz/stories/PA2308/S00133/compulsory-financial-skills-in-schools.htm
+title: Compulsory Financial Skills In Schools
+date: 2023-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00133/compulsory-financial-skills-in-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2023/08/20/compulsory-financial-skills-in-schools/index.html
+layout: layout.njk
 ---
 Compulsory Financial Skills In Schools
 ======================================

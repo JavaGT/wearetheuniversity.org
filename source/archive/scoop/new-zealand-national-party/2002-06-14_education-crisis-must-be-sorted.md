@@ -1,9 +1,12 @@
 ---
 slug: education-crisis-must-be-sorted
-title: "Education crisis must be sorted"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00218/education-crisis-must-be-sorted.htm
+title: Education crisis must be sorted
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00218/education-crisis-must-be-sorted.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/14/education-crisis-must-be-sorted/index.html
+layout: layout.njk
 ---
 Education crisis must be sorted
 ===============================

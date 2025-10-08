@@ -1,9 +1,12 @@
 ---
 slug: more-burning-ethical-questions-for-steven-joyce
-title: "More burning ethical questions for Steven Joyce"
-date: 2017-01-16
-source-url: https://www.scoop.co.nz/stories/PA1701/S00039/more-burning-ethical-questions-for-steven-joyce.htm
+title: More burning ethical questions for Steven Joyce
+date: 2017-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00039/more-burning-ethical-questions-for-steven-joyce.htm
 author: green-party
+permalink: /archive/2017/01/16/more-burning-ethical-questions-for-steven-joyce/index.html
+layout: layout.njk
 ---
 More burning ethical questions for Steven Joyce
 ===============================================

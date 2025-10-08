@@ -1,9 +1,12 @@
 ---
 slug: labour-experiences-double-educational-epiphany
-title: "Labour experiences double educational epiphany"
-date: 2008-06-17
-source-url: https://www.scoop.co.nz/stories/PA0806/S00245/labour-experiences-double-educational-epiphany.htm
+title: Labour experiences double educational epiphany
+date: 2008-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00245/labour-experiences-double-educational-epiphany.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/17/labour-experiences-double-educational-epiphany/index.html
+layout: layout.njk
 ---
 Labour experiences double educational epiphany
 ==============================================

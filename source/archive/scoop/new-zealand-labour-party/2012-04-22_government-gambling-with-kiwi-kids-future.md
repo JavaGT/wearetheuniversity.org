@@ -1,9 +1,12 @@
 ---
 slug: government-gambling-with-kiwi-kids-future
-title: "Government Gambling with Kiwi Kids Future"
-date: 2012-04-22
-source-url: https://www.scoop.co.nz/stories/PA1204/S00277/government-gambling-with-kiwi-kids-future.htm
+title: Government Gambling with Kiwi Kids Future
+date: 2012-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00277/government-gambling-with-kiwi-kids-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/22/government-gambling-with-kiwi-kids-future/index.html
+layout: layout.njk
 ---
 Government Gambling with Kiwi Kids Future
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-pledge-to-auckland-well-unclog-your-roads
-title: "Greens pledge to Auckland: we'll unclog your roads"
-date: 2005-08-08
-source-url: https://www.scoop.co.nz/stories/PA0508/S00197/greens-pledge-to-auckland-well-unclog-your-roads.htm
+title: 'Greens pledge to Auckland: we''ll unclog your roads'
+date: 2005-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00197/greens-pledge-to-auckland-well-unclog-your-roads.htm
 author: green-party
+permalink: >-
+  /archive/2005/08/08/greens-pledge-to-auckland-well-unclog-your-roads/index.html
+layout: layout.njk
 ---
 Greens pledge to Auckland: we'll unclog your roads
 ==================================================

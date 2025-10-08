@@ -1,9 +1,12 @@
 ---
 slug: labour-party-general-secretary-appointed
-title: "Labour Party General Secretary appointed"
-date: 2018-10-24
-source-url: https://www.scoop.co.nz/stories/PO1810/S00341/labour-party-general-secretary-appointed.htm
+title: Labour Party General Secretary appointed
+date: 2018-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00341/labour-party-general-secretary-appointed.htm
 author: new-zealand-labour-party
+permalink: /archive/2018/10/24/labour-party-general-secretary-appointed/index.html
+layout: layout.njk
 ---
 Labour Party General Secretary appointed
 ========================================

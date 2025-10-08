@@ -1,9 +1,12 @@
 ---
 slug: meeting-house-celebrates-20th-anniversary
-title: "Meeting house celebrates 20th anniversary"
-date: 2006-12-04
-source-url: https://www.scoop.co.nz/stories/ED0612/S00008/meeting-house-celebrates-20th-anniversary.htm
+title: Meeting house celebrates 20th anniversary
+date: 2006-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00008/meeting-house-celebrates-20th-anniversary.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/12/04/meeting-house-celebrates-20th-anniversary/index.html
+layout: layout.njk
 ---
 Meeting house celebrates 20th anniversary
 =========================================

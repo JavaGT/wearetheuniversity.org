@@ -1,9 +1,12 @@
 ---
 slug: prebbes-presentation-to-chambers-of-commerce
-title: "Prebbe's  Presentation to Chambers Of Commerce"
-date: 2000-06-08
-source-url: https://www.scoop.co.nz/stories/PA0006/S00166/prebbes-presentation-to-chambers-of-commerce.htm
+title: Prebbe's  Presentation to Chambers Of Commerce
+date: 2000-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00166/prebbes-presentation-to-chambers-of-commerce.htm
 author: act-new-zealand
+permalink: /archive/2000/06/08/prebbes-presentation-to-chambers-of-commerce/index.html
+layout: layout.njk
 ---
 Prebbe's Presentation to Chambers Of Commerce
 =============================================

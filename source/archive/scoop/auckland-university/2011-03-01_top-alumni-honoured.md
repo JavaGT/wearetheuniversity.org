@@ -1,9 +1,11 @@
 ---
 slug: top-alumni-honoured
-title: "Top Alumni Honoured"
-date: 2011-03-01
+title: Top Alumni Honoured
+date: 2011-03-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1103/S00001/top-alumni-honoured.htm
 author: auckland-university
+permalink: /archive/2011/03/01/top-alumni-honoured/index.html
+layout: layout.njk
 ---
 Top Alumni Honoured
 ===================

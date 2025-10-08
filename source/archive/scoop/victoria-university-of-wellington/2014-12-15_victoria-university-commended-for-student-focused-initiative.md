@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-commended-for-student-focused-initiative
-title: "Victoria University commended for student-focused initiative"
-date: 2014-12-15
-source-url: https://www.scoop.co.nz/stories/ED1412/S00096/victoria-university-commended-for-student-focused-initiative.htm
+title: Victoria University commended for student-focused initiative
+date: 2014-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00096/victoria-university-commended-for-student-focused-initiative.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/15/victoria-university-commended-for-student-focused-initiative/index.html
+layout: layout.njk
 ---
 Victoria University commended for student-focused initiative
 ============================================================

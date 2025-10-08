@@ -1,9 +1,11 @@
 ---
 slug: deaths-should-prompt-change
-title: "Deaths should prompt change"
-date: 2014-07-11
+title: Deaths should prompt change
+date: 2014-07-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1407/S00234/deaths-should-prompt-change.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/11/deaths-should-prompt-change/index.html
+layout: layout.njk
 ---
 Deaths should prompt change
 ===========================

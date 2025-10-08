@@ -1,9 +1,16 @@
 ---
-slug: medical-apartheid-new-zealand-must-speak-out-demanding-vaccinations-for-palestinians
-title: "Medical Apartheid – New Zealand Must Speak Out Demanding Vaccinations For Palestinians"
-date: 2021-01-07
-source-url: https://www.scoop.co.nz/stories/WO2101/S00026/medical-apartheid-new-zealand-must-speak-out-demanding-vaccinations-for-palestinians.htm
+slug: >-
+  medical-apartheid-new-zealand-must-speak-out-demanding-vaccinations-for-palestinians
+title: >-
+  Medical Apartheid – New Zealand Must Speak Out Demanding Vaccinations For
+  Palestinians
+date: 2021-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2101/S00026/medical-apartheid-new-zealand-must-speak-out-demanding-vaccinations-for-palestinians.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2021/01/07/medical-apartheid-new-zealand-must-speak-out-demanding-vaccinations-for-palestinians/index.html
+layout: layout.njk
 ---
 Medical Apartheid – New Zealand Must Speak Out Demanding Vaccinations For Palestinians
 ======================================================================================

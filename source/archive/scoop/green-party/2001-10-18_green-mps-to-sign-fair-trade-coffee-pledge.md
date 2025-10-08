@@ -1,9 +1,12 @@
 ---
 slug: green-mps-to-sign-fair-trade-coffee-pledge
-title: "Green MPs to sign 'fair trade coffee' pledge"
-date: 2001-10-18
-source-url: https://www.scoop.co.nz/stories/PA0110/S00359/green-mps-to-sign-fair-trade-coffee-pledge.htm
+title: Green MPs to sign 'fair trade coffee' pledge
+date: 2001-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00359/green-mps-to-sign-fair-trade-coffee-pledge.htm
 author: green-party
+permalink: /archive/2001/10/18/green-mps-to-sign-fair-trade-coffee-pledge/index.html
+layout: layout.njk
 ---
 Green MPs to sign 'fair trade coffee' pledge
 ============================================

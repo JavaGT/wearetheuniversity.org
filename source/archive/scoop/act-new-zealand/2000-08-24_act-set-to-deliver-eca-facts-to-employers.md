@@ -1,9 +1,12 @@
 ---
 slug: act-set-to-deliver-eca-facts-to-employers
-title: "ACT Set To Deliver ECA Facts To Employers"
-date: 2000-08-24
-source-url: https://www.scoop.co.nz/stories/PA0008/S00478/act-set-to-deliver-eca-facts-to-employers.htm
+title: ACT Set To Deliver ECA Facts To Employers
+date: 2000-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00478/act-set-to-deliver-eca-facts-to-employers.htm
 author: act-new-zealand
+permalink: /archive/2000/08/24/act-set-to-deliver-eca-facts-to-employers/index.html
+layout: layout.njk
 ---
 ACT Set To Deliver ECA Facts To Employers
 =========================================

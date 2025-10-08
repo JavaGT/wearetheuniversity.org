@@ -1,9 +1,12 @@
 ---
 slug: hawaiian-architecture-students-visit-victoria
-title: "Hawaiian architecture students visit Victoria"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/ED0306/S00046/hawaiian-architecture-students-visit-victoria.htm
+title: Hawaiian architecture students visit Victoria
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00046/hawaiian-architecture-students-visit-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/20/hawaiian-architecture-students-visit-victoria/index.html
+layout: layout.njk
 ---
 Hawaiian architecture students visit Victoria
 =============================================

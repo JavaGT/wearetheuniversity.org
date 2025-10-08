@@ -1,9 +1,12 @@
 ---
 slug: what-about-a-universal-allowance-labour
-title: "What about a universal allowance, Labour?"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00039/what-about-a-universal-allowance-labour.htm
+title: What about a universal allowance, Labour?
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00039/what-about-a-universal-allowance-labour.htm
 author: green-party
+permalink: /archive/2005/09/01/what-about-a-universal-allowance-labour/index.html
+layout: layout.njk
 ---
 What about a universal allowance, Labour?
 =========================================

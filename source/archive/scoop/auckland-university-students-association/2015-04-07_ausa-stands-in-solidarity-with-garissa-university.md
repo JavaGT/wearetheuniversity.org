@@ -1,9 +1,13 @@
 ---
 slug: ausa-stands-in-solidarity-with-garissa-university
-title: "AUSA stands in solidarity with Garissa University"
-date: 2015-04-07
-source-url: https://www.scoop.co.nz/stories/ED1504/S00017/ausa-stands-in-solidarity-with-garissa-university.htm
+title: AUSA stands in solidarity with Garissa University
+date: 2015-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00017/ausa-stands-in-solidarity-with-garissa-university.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2015/04/07/ausa-stands-in-solidarity-with-garissa-university/index.html
+layout: layout.njk
 ---
 AUSA stands in solidarity with Garissa University
 =================================================

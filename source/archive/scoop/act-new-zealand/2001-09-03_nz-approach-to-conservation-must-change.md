@@ -1,9 +1,12 @@
 ---
 slug: nz-approach-to-conservation-must-change
-title: "NZ Approach to Conservation Must Change"
-date: 2001-09-03
-source-url: https://www.scoop.co.nz/stories/PA0109/S00011/nz-approach-to-conservation-must-change.htm
+title: NZ Approach to Conservation Must Change
+date: 2001-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00011/nz-approach-to-conservation-must-change.htm
 author: act-new-zealand
+permalink: /archive/2001/09/03/nz-approach-to-conservation-must-change/index.html
+layout: layout.njk
 ---
 NZ Approach to Conservation Must Change
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: recycling-breakthrough-set-to-save-environment-from-acid
-title: "Recycling breakthrough set to save environment from acid"
-date: 2020-01-30
-source-url: https://www.scoop.co.nz/stories/SC2001/S00033/recycling-breakthrough-set-to-save-environment-from-acid.htm
+title: Recycling breakthrough set to save environment from acid
+date: 2020-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2001/S00033/recycling-breakthrough-set-to-save-environment-from-acid.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/01/30/recycling-breakthrough-set-to-save-environment-from-acid/index.html
+layout: layout.njk
 ---
 Recycling breakthrough set to save environment from acid
 ========================================================

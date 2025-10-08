@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-new-research-director
-title: "University appoints new Research Director"
-date: 2009-06-12
-source-url: https://www.scoop.co.nz/stories/BU0906/S00316/university-appoints-new-research-director.htm
+title: University appoints new Research Director
+date: 2009-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00316/university-appoints-new-research-director.htm
 author: university-of-otago
+permalink: /archive/2009/06/12/university-appoints-new-research-director/index.html
+layout: layout.njk
 ---
 University appoints new Research Director
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: call-for-participants-in-alcohol-study
-title: "Call For Participants In Alcohol Study"
-date: 2007-09-17
-source-url: https://www.scoop.co.nz/stories/GE0709/S00065/call-for-participants-in-alcohol-study.htm
+title: Call For Participants In Alcohol Study
+date: 2007-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0709/S00065/call-for-participants-in-alcohol-study.htm
 author: university-of-otago
+permalink: /archive/2007/09/17/call-for-participants-in-alcohol-study/index.html
+layout: layout.njk
 ---
 Call For Participants In Alcohol Study
 ======================================

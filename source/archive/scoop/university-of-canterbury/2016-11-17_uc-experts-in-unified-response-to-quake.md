@@ -1,9 +1,12 @@
 ---
 slug: uc-experts-in-unified-response-to-quake
-title: "UC experts in unified response to quake"
-date: 2016-11-17
-source-url: https://www.scoop.co.nz/stories/SC1611/S00035/uc-experts-in-unified-response-to-quake.htm
+title: UC experts in unified response to quake
+date: 2016-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00035/uc-experts-in-unified-response-to-quake.htm
 author: university-of-canterbury
+permalink: /archive/2016/11/17/uc-experts-in-unified-response-to-quake/index.html
+layout: layout.njk
 ---
 UC experts in unified response to quake
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: vusa-lundy-500-distasteful
-title: "VUSA: Lundy 500 distasteful"
-date: 2009-07-31
+title: 'VUSA: Lundy 500 distasteful'
+date: 2009-07-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0907/S00376/vusa-lundy-500-distasteful.htm
 author: victoria-university-students-association
+permalink: /archive/2009/07/31/vusa-lundy-500-distasteful/index.html
+layout: layout.njk
 ---
 VUSA: Lundy 500 distasteful
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: health-outcomes-for-mapua-residents-near-former-toxic-site
-title: "Health outcomes for Mapua residents near former toxic site"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/GE1311/S00036/health-outcomes-for-mapua-residents-near-former-toxic-site.htm
+title: Health outcomes for Mapua residents near former toxic site
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1311/S00036/health-outcomes-for-mapua-residents-near-former-toxic-site.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/11/07/health-outcomes-for-mapua-residents-near-former-toxic-site/index.html
+layout: layout.njk
 ---
 Health outcomes for Mapua residents near former toxic site
 ==========================================================

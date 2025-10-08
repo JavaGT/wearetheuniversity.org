@@ -1,9 +1,13 @@
 ---
 slug: creative-activities-promote-day-to-day-wellbeing
-title: "Creative activities promote day-to-day wellbeing"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/ED1611/S00115/creative-activities-promote-day-to-day-wellbeing.htm
+title: Creative activities promote day-to-day wellbeing
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00115/creative-activities-promote-day-to-day-wellbeing.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/24/creative-activities-promote-day-to-day-wellbeing/index.html
+layout: layout.njk
 ---
 Creative activities promote day-to-day wellbeing
 ================================================

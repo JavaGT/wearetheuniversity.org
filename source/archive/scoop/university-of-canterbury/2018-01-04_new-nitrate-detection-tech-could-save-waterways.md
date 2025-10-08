@@ -1,9 +1,12 @@
 ---
 slug: new-nitrate-detection-tech-could-save-waterways
-title: "New nitrate detection tech could save waterways"
-date: 2018-01-04
-source-url: https://www.scoop.co.nz/stories/SC1801/S00002/new-nitrate-detection-tech-could-save-waterways.htm
+title: New nitrate detection tech could save waterways
+date: 2018-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00002/new-nitrate-detection-tech-could-save-waterways.htm
 author: university-of-canterbury
+permalink: /archive/2018/01/04/new-nitrate-detection-tech-could-save-waterways/index.html
+layout: layout.njk
 ---
 New nitrate detection tech could save waterways
 ===============================================

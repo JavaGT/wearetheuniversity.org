@@ -1,9 +1,13 @@
 ---
 slug: uc-to-research-for-worlds-largest-supplier-of-methanol
-title: "UC to research for world’s largest supplier of methanol"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/SC1212/S00023/uc-to-research-for-worlds-largest-supplier-of-methanol.htm
+title: UC to research for world’s largest supplier of methanol
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00023/uc-to-research-for-worlds-largest-supplier-of-methanol.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/10/uc-to-research-for-worlds-largest-supplier-of-methanol/index.html
+layout: layout.njk
 ---
 UC to research for world’s largest supplier of methanol
 =======================================================

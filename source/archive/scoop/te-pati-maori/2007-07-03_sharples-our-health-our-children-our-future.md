@@ -1,9 +1,12 @@
 ---
 slug: sharples-our-health-our-children-our-future
-title: "Sharples - Our Health, Our Children, Our Future"
-date: 2007-07-03
-source-url: https://www.scoop.co.nz/stories/PA0707/S00044/sharples-our-health-our-children-our-future.htm
+title: Sharples - Our Health, Our Children, Our Future
+date: 2007-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00044/sharples-our-health-our-children-our-future.htm
 author: te-pati-maori
+permalink: /archive/2007/07/03/sharples-our-health-our-children-our-future/index.html
+layout: layout.njk
 ---
 Sharples - Our Health, Our Children, Our Future
 ===============================================

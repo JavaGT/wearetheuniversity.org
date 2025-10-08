@@ -1,9 +1,12 @@
 ---
 slug: immigration-vacuum-damaging-regional-growth
-title: "Immigration vacuum damaging regional growth"
-date: 2018-01-23
-source-url: https://www.scoop.co.nz/stories/PA1801/S00050/immigration-vacuum-damaging-regional-growth.htm
+title: Immigration vacuum damaging regional growth
+date: 2018-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00050/immigration-vacuum-damaging-regional-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/23/immigration-vacuum-damaging-regional-growth/index.html
+layout: layout.njk
 ---
 Immigration vacuum damaging regional growth
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: wood-processing-industry-needs-all-our-support-says-turia
-title: "Wood Processing industry needs all our support says Turia"
-date: 2011-01-28
-source-url: https://www.scoop.co.nz/stories/PA1101/S00141/wood-processing-industry-needs-all-our-support-says-turia.htm
+title: Wood Processing industry needs all our support says Turia
+date: 2011-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00141/wood-processing-industry-needs-all-our-support-says-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/01/28/wood-processing-industry-needs-all-our-support-says-turia/index.html
+layout: layout.njk
 ---
 Wood Processing industry needs all our support says Turia
 =========================================================

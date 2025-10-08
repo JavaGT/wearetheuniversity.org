@@ -1,9 +1,12 @@
 ---
 slug: ctu-presidents-speech-to-green-party-conference
-title: "CTU President's speech to Green Party Conference"
-date: 2002-06-04
-source-url: https://www.scoop.co.nz/stories/PO0206/S00006/ctu-presidents-speech-to-green-party-conference.htm
+title: CTU President's speech to Green Party Conference
+date: 2002-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0206/S00006/ctu-presidents-speech-to-green-party-conference.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/06/04/ctu-presidents-speech-to-green-party-conference/index.html
+layout: layout.njk
 ---
 CTU President's speech to Green Party Conference
 ================================================

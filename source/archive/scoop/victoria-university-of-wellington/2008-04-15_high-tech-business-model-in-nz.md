@@ -1,9 +1,12 @@
 ---
 slug: high-tech-business-model-in-nz
-title: "High-tech business model in NZ"
-date: 2008-04-15
-source-url: https://www.scoop.co.nz/stories/ED0804/S00043/high-tech-business-model-in-nz.htm
+title: High-tech business model in NZ
+date: 2008-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00043/high-tech-business-model-in-nz.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/15/high-tech-business-model-in-nz/index.html
+layout: layout.njk
 ---
 High-tech business model in NZ
 ==============================

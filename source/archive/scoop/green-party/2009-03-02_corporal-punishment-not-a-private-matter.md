@@ -1,9 +1,12 @@
 ---
 slug: corporal-punishment-not-a-private-matter
-title: "Corporal Punishment not a Private Matter"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/PA0903/S00016/corporal-punishment-not-a-private-matter.htm
+title: Corporal Punishment not a Private Matter
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00016/corporal-punishment-not-a-private-matter.htm
 author: green-party
+permalink: /archive/2009/03/02/corporal-punishment-not-a-private-matter/index.html
+layout: layout.njk
 ---
 Corporal Punishment not a Private Matter
 ========================================

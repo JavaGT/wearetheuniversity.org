@@ -1,9 +1,13 @@
 ---
 slug: a-major-shift-in-new-zealands-political-landscape
-title: "A Major Shift in New Zealand’s Political Landscape"
-date: 2015-05-19
-source-url: https://www.scoop.co.nz/stories/PA1505/S00278/a-major-shift-in-new-zealands-political-landscape.htm
+title: A Major Shift in New Zealand’s Political Landscape
+date: 2015-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00278/a-major-shift-in-new-zealands-political-landscape.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/19/a-major-shift-in-new-zealands-political-landscape/index.html
+layout: layout.njk
 ---
 A Major Shift in New Zealand’s Political Landscape
 ==================================================

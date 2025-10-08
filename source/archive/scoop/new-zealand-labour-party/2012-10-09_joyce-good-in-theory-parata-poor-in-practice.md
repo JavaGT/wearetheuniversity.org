@@ -1,9 +1,12 @@
 ---
 slug: joyce-good-in-theory-parata-poor-in-practice
-title: "Joyce good in theory, Parata poor in practice"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/PA1210/S00158/joyce-good-in-theory-parata-poor-in-practice.htm
+title: Joyce good in theory, Parata poor in practice
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00158/joyce-good-in-theory-parata-poor-in-practice.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/09/joyce-good-in-theory-parata-poor-in-practice/index.html
+layout: layout.njk
 ---
 Joyce good in theory, Parata poor in practice
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: doctor-to-rub-shoulders-with-kiwi-rugby-elites
-title: "Doctor to rub shoulders with Kiwi rugby elites"
-date: 2016-06-22
-source-url: https://www.scoop.co.nz/stories/GE1606/S00083/doctor-to-rub-shoulders-with-kiwi-rugby-elites.htm
+title: Doctor to rub shoulders with Kiwi rugby elites
+date: 2016-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1606/S00083/doctor-to-rub-shoulders-with-kiwi-rugby-elites.htm
 author: lincoln-university
+permalink: /archive/2016/06/22/doctor-to-rub-shoulders-with-kiwi-rugby-elites/index.html
+layout: layout.njk
 ---
 Doctor to rub shoulders with Kiwi rugby elites
 ==============================================

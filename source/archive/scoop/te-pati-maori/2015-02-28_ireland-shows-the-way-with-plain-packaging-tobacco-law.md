@@ -1,9 +1,13 @@
 ---
 slug: ireland-shows-the-way-with-plain-packaging-tobacco-law
-title: "Ireland shows the way with plain packaging tobacco law"
-date: 2015-02-28
-source-url: https://www.scoop.co.nz/stories/PA1502/S00380/ireland-shows-the-way-with-plain-packaging-tobacco-law.htm
+title: Ireland shows the way with plain packaging tobacco law
+date: 2015-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00380/ireland-shows-the-way-with-plain-packaging-tobacco-law.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2015/02/28/ireland-shows-the-way-with-plain-packaging-tobacco-law/index.html
+layout: layout.njk
 ---
 Ireland shows the way with plain packaging tobacco law
 ======================================================

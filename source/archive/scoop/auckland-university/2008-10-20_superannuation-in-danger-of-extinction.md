@@ -1,9 +1,12 @@
 ---
 slug: superannuation-in-danger-of-extinction
-title: "Superannuation in Danger of Extinction"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/ED0810/S00085/superannuation-in-danger-of-extinction.htm
+title: Superannuation in Danger of Extinction
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00085/superannuation-in-danger-of-extinction.htm
 author: auckland-university
+permalink: /archive/2008/10/20/superannuation-in-danger-of-extinction/index.html
+layout: layout.njk
 ---
 Superannuation in Danger of Extinction
 ======================================

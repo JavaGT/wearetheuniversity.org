@@ -1,9 +1,12 @@
 ---
 slug: samoan-student-celebration-in-christchurch
-title: "Samoan student celebration in Christchurch"
-date: 2015-08-24
-source-url: https://www.scoop.co.nz/stories/AK1508/S00464/samoan-student-celebration-in-christchurch.htm
+title: Samoan student celebration in Christchurch
+date: 2015-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1508/S00464/samoan-student-celebration-in-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2015/08/24/samoan-student-celebration-in-christchurch/index.html
+layout: layout.njk
 ---
 Samoan student celebration in Christchurch
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: 41-eden-parks-and-counting
-title: "41 Eden Parks and counting"
-date: 2008-02-29
+title: 41 Eden Parks and counting
+date: 2008-02-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0802/S00070/41-eden-parks-and-counting.htm
 author: ausa
+permalink: /archive/2008/02/29/41-eden-parks-and-counting/index.html
+layout: layout.njk
 ---
 41 Eden Parks and counting
 ==========================

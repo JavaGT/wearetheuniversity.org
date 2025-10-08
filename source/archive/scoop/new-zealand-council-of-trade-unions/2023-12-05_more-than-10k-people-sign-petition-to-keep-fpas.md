@@ -1,9 +1,12 @@
 ---
 slug: more-than-10k-people-sign-petition-to-keep-fpas
-title: "More Than 10k People Sign Petition To Keep FPAs"
-date: 2023-12-05
-source-url: https://www.scoop.co.nz/stories/PO2312/S00036/more-than-10k-people-sign-petition-to-keep-fpas.htm
+title: More Than 10k People Sign Petition To Keep FPAs
+date: 2023-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00036/more-than-10k-people-sign-petition-to-keep-fpas.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2023/12/05/more-than-10k-people-sign-petition-to-keep-fpas/index.html
+layout: layout.njk
 ---
 More Than 10k People Sign Petition To Keep FPAs
 ===============================================

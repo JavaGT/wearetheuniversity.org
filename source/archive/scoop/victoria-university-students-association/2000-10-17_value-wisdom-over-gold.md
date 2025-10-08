@@ -1,9 +1,11 @@
 ---
 slug: value-wisdom-over-gold
-title: "Value Wisdom Over Gold"
-date: 2000-10-17
+title: Value Wisdom Over Gold
+date: 2000-10-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0010/S00023/value-wisdom-over-gold.htm
 author: victoria-university-students-association
+permalink: /archive/2000/10/17/value-wisdom-over-gold/index.html
+layout: layout.njk
 ---
 Value Wisdom Over Gold
 ======================

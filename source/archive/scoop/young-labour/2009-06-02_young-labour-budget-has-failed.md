@@ -1,9 +1,12 @@
 ---
 slug: young-labour-budget-has-failed
-title: "Young Labour: Budget Has Failed"
-date: 2009-06-02
-source-url: https://www.scoop.co.nz/stories/PO0906/S00014/young-labour-budget-has-failed.htm
+title: 'Young Labour: Budget Has Failed'
+date: 2009-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0906/S00014/young-labour-budget-has-failed.htm
 author: young-labour
+permalink: /archive/2009/06/02/young-labour-budget-has-failed/index.html
+layout: layout.njk
 ---
 Young Labour: Budget Has Failed
 ===============================

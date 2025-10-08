@@ -1,9 +1,11 @@
 ---
 slug: supporting-the-rsa
-title: "Supporting the RSA"
-date: 2016-03-20
+title: Supporting the RSA
+date: 2016-03-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00343/supporting-the-rsa.htm
 author: new-zealand-first-party
+permalink: /archive/2016/03/20/supporting-the-rsa/index.html
+layout: layout.njk
 ---
 Supporting the RSA
 ==================

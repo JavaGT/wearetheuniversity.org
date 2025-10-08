@@ -1,9 +1,13 @@
 ---
 slug: universities-work-to-help-students-during-travel-disruptions
-title: "Universities work to help students during travel disruptions"
-date: 2020-02-05
-source-url: https://www.scoop.co.nz/stories/ED2002/S00006/universities-work-to-help-students-during-travel-disruptions.htm
+title: Universities work to help students during travel disruptions
+date: 2020-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2002/S00006/universities-work-to-help-students-during-travel-disruptions.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/02/05/universities-work-to-help-students-during-travel-disruptions/index.html
+layout: layout.njk
 ---
 Universities work to help students during travel disruptions
 ============================================================

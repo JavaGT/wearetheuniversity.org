@@ -1,9 +1,12 @@
 ---
 slug: agricultural-economics-strengthened-at-lincoln
-title: "Agricultural Economics strengthened at Lincoln"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/ED1506/S00089/agricultural-economics-strengthened-at-lincoln.htm
+title: Agricultural Economics strengthened at Lincoln
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00089/agricultural-economics-strengthened-at-lincoln.htm
 author: lincoln-university
+permalink: /archive/2015/06/18/agricultural-economics-strengthened-at-lincoln/index.html
+layout: layout.njk
 ---
 Agricultural Economics strengthened at Lincoln
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-academics-made-full-professor
-title: "Otago academics made full professor"
-date: 2010-12-03
-source-url: https://www.scoop.co.nz/stories/ED1012/S00020/otago-academics-made-full-professor.htm
+title: Otago academics made full professor
+date: 2010-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00020/otago-academics-made-full-professor.htm
 author: university-of-otago
+permalink: /archive/2010/12/03/otago-academics-made-full-professor/index.html
+layout: layout.njk
 ---
 Otago academics made full professor
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: foreigners-come-first-with-this-government
-title: "Foreigners Come First With This Government"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00354/foreigners-come-first-with-this-government.htm
+title: Foreigners Come First With This Government
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00354/foreigners-come-first-with-this-government.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/15/foreigners-come-first-with-this-government/index.html
+layout: layout.njk
 ---
 Foreigners Come First With This Government
 ==========================================

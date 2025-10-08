@@ -1,9 +1,12 @@
 ---
 slug: fair-a&e-access-for-west-achieved
-title: "Fair A&E Access For West Achieved"
-date: 2001-06-20
-source-url: https://www.scoop.co.nz/stories/PA0106/S00290/fair-ae-access-for-west-achieved.htm
+title: Fair A&E Access For West Achieved
+date: 2001-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00290/fair-ae-access-for-west-achieved.htm
 author: new-zealand-labour-party
+permalink: /archive/2001/06/20/fair-a/index.html
+layout: layout.njk
 ---
 Fair A&E Access For West Achieved
 =================================

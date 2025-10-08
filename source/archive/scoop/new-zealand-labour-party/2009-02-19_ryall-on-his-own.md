@@ -1,9 +1,11 @@
 ---
 slug: ryall-on-his-own
-title: "Ryall on his own"
-date: 2009-02-19
+title: Ryall on his own
+date: 2009-02-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0902/S00272/ryall-on-his-own.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/19/ryall-on-his-own/index.html
+layout: layout.njk
 ---
 Ryall on his own
 ================

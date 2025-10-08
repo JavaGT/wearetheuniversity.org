@@ -1,9 +1,16 @@
 ---
-slug: the-worlds-first-large-scale-hydrogen-production-plant-in-southland-a-flawed-think-big-project
-title: "The World’s First Large Scale Hydrogen Production Plant In Southland – A Flawed Think-big Project"
-date: 2021-07-23
-source-url: https://www.scoop.co.nz/stories/SC2107/S00065/the-worlds-first-large-scale-hydrogen-production-plant-in-southland-a-flawed-think-big-project.htm
+slug: >-
+  the-worlds-first-large-scale-hydrogen-production-plant-in-southland-a-flawed-think-big-project
+title: >-
+  The World’s First Large Scale Hydrogen Production Plant In Southland – A
+  Flawed Think-big Project
+date: 2021-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00065/the-worlds-first-large-scale-hydrogen-production-plant-in-southland-a-flawed-think-big-project.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/07/23/the-worlds-first-large-scale-hydrogen-production-plant-in-southland-a-flawed-think-big-project/index.html
+layout: layout.njk
 ---
 The World’s First Large Scale Hydrogen Production Plant In Southland – A Flawed Think-big Project
 =================================================================================================

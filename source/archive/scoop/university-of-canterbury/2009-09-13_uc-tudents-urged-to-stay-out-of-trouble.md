@@ -1,9 +1,12 @@
 ---
 slug: uc-tudents-urged-to-stay-out-of-trouble
-title: "UC tudents Urged To Stay Out Of Trouble"
-date: 2009-09-13
-source-url: https://www.scoop.co.nz/stories/CU0909/S00168/uc-tudents-urged-to-stay-out-of-trouble.htm
+title: UC tudents Urged To Stay Out Of Trouble
+date: 2009-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00168/uc-tudents-urged-to-stay-out-of-trouble.htm
 author: university-of-canterbury
+permalink: /archive/2009/09/13/uc-tudents-urged-to-stay-out-of-trouble/index.html
+layout: layout.njk
 ---
 UC tudents Urged To Stay Out Of Trouble
 =======================================

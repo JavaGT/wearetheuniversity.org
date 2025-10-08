@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-25-october-2002
-title: "AUS Tertiary Update 25 October 2002"
-date: 2002-10-25
-source-url: https://www.scoop.co.nz/stories/ED0210/S00060/aus-tertiary-update-25-october-2002.htm
+title: AUS Tertiary Update 25 October 2002
+date: 2002-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00060/aus-tertiary-update-25-october-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/10/25/aus-tertiary-update-25-october-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update 25 October 2002
 ===================================

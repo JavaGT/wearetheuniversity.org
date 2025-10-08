@@ -1,9 +1,12 @@
 ---
 slug: global-accountancy-experts-on-their-way-to-vic
-title: "Global accountancy experts on their way to Vic"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00109/global-accountancy-experts-on-their-way-to-vic.htm
+title: Global accountancy experts on their way to Vic
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00109/global-accountancy-experts-on-their-way-to-vic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/25/global-accountancy-experts-on-their-way-to-vic/index.html
+layout: layout.njk
 ---
 Global accountancy experts on their way to Vic
 ==============================================

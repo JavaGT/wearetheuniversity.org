@@ -1,9 +1,12 @@
 ---
 slug: the-bee-team-win-uc-international-challenge
-title: "The Bee Team win UC international challenge"
-date: 2015-06-03
-source-url: https://www.scoop.co.nz/stories/ED1506/S00008/the-bee-team-win-uc-international-challenge.htm
+title: The Bee Team win UC international challenge
+date: 2015-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00008/the-bee-team-win-uc-international-challenge.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/03/the-bee-team-win-uc-international-challenge/index.html
+layout: layout.njk
 ---
 The Bee Team win UC international challenge
 ===========================================

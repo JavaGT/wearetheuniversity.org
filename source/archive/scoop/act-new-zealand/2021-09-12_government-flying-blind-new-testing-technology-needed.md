@@ -1,9 +1,13 @@
 ---
 slug: government-flying-blind-new-testing-technology-needed
-title: "Government Flying Blind, New Testing Technology Needed"
-date: 2021-09-12
-source-url: https://www.scoop.co.nz/stories/PA2109/S00110/government-flying-blind-new-testing-technology-needed.htm
+title: Government Flying Blind, New Testing Technology Needed
+date: 2021-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00110/government-flying-blind-new-testing-technology-needed.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/09/12/government-flying-blind-new-testing-technology-needed/index.html
+layout: layout.njk
 ---
 Government Flying Blind, New Testing Technology Needed
 ======================================================

@@ -1,9 +1,16 @@
 ---
-slug: new-zealand-union-of-students-associations-impact-of-covid-19-on-tertiary-students-research
-title: "New Zealand Union Of Students’ Associations Impact Of Covid-19 On Tertiary Students’ Research"
-date: 2020-07-24
-source-url: https://www.scoop.co.nz/stories/ED2007/S00035/new-zealand-union-of-students-associations-impact-of-covid-19-on-tertiary-students-research.htm
+slug: >-
+  new-zealand-union-of-students-associations-impact-of-covid-19-on-tertiary-students-research
+title: >-
+  New Zealand Union Of Students’ Associations Impact Of Covid-19 On Tertiary
+  Students’ Research
+date: 2020-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00035/new-zealand-union-of-students-associations-impact-of-covid-19-on-tertiary-students-research.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2020/07/24/new-zealand-union-of-students-associations-impact-of-covid-19-on-tertiary-students-research/index.html
+layout: layout.njk
 ---
 New Zealand Union Of Students’ Associations Impact Of Covid-19 On Tertiary Students’ Research
 =============================================================================================

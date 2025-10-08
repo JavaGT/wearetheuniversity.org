@@ -1,9 +1,12 @@
 ---
 slug: maxim-real-issues-no-271-literature-imports
-title: "Maxim Real Issues No. 271 – Literature, Imports"
-date: 2007-09-21
-source-url: https://www.scoop.co.nz/stories/PO0709/S00303/maxim-real-issues-no-271-literature-imports.htm
+title: Maxim Real Issues No. 271 – Literature, Imports
+date: 2007-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00303/maxim-real-issues-no-271-literature-imports.htm
 author: maxim-institute
+permalink: /archive/2007/09/21/maxim-real-issues-no-271-literature-imports/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 271 – Literature, Imports
 ===============================================

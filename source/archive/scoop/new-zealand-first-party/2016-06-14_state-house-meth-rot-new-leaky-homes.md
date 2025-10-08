@@ -1,9 +1,12 @@
 ---
 slug: state-house-meth-rot-new-leaky-homes
-title: "State House ‘Meth Rot’ New ‘Leaky Homes’"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/PA1606/S00242/state-house-meth-rot-new-leaky-homes.htm
+title: State House ‘Meth Rot’ New ‘Leaky Homes’
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00242/state-house-meth-rot-new-leaky-homes.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/14/state-house-meth-rot-new-leaky-homes/index.html
+layout: layout.njk
 ---
 State House ‘Meth Rot’ New ‘Leaky Homes’
 ========================================

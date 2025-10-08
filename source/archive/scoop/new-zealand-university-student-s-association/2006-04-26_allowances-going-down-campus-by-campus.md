@@ -1,9 +1,12 @@
 ---
 slug: allowances-going-down-campus-by-campus
-title: "Allowances going down, campus by campus"
-date: 2006-04-26
-source-url: https://www.scoop.co.nz/stories/ED0604/S00085/allowances-going-down-campus-by-campus.htm
+title: Allowances going down, campus by campus
+date: 2006-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00085/allowances-going-down-campus-by-campus.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/04/26/allowances-going-down-campus-by-campus/index.html
+layout: layout.njk
 ---
 Allowances going down, campus by campus
 =======================================

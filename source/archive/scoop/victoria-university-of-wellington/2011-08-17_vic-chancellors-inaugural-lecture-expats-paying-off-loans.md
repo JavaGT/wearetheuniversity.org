@@ -1,9 +1,13 @@
 ---
 slug: vic-chancellors-inaugural-lecture-expats-paying-off-loans
-title: "Vic Chancellor's Inaugural Lecture: Expats paying off loans"
-date: 2011-08-17
-source-url: https://www.scoop.co.nz/stories/ED1108/S00096/vic-chancellors-inaugural-lecture-expats-paying-off-loans.htm
+title: 'Vic Chancellor''s Inaugural Lecture: Expats paying off loans'
+date: 2011-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00096/vic-chancellors-inaugural-lecture-expats-paying-off-loans.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/08/17/vic-chancellors-inaugural-lecture-expats-paying-off-loans/index.html
+layout: layout.njk
 ---
 Vic Chancellor's Inaugural Lecture: Expats paying off loans
 ===========================================================

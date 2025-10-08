@@ -1,9 +1,12 @@
 ---
 slug: strong-rejection-of-controversial-$359m-education-scheme
-title: "Strong rejection of controversial $359m education scheme"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/ED1412/S00051/strong-rejection-of-controversial-359m-education-scheme.htm
+title: Strong rejection of controversial $359m education scheme
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00051/strong-rejection-of-controversial-359m-education-scheme.htm
 author: nzei
+permalink: /archive/2014/12/08/strong-rejection-of-controversial-/index.html
+layout: layout.njk
 ---
 Strong rejection of controversial $359m education scheme
 ========================================================

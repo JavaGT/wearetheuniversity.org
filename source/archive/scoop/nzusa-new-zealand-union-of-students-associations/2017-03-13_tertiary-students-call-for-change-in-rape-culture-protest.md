@@ -1,9 +1,13 @@
 ---
 slug: tertiary-students-call-for-change-in-rape-culture-protest
-title: "Tertiary students call for change in rape culture protest"
-date: 2017-03-13
-source-url: https://www.scoop.co.nz/stories/PO1703/S00160/tertiary-students-call-for-change-in-rape-culture-protest.htm
+title: Tertiary students call for change in rape culture protest
+date: 2017-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00160/tertiary-students-call-for-change-in-rape-culture-protest.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/03/13/tertiary-students-call-for-change-in-rape-culture-protest/index.html
+layout: layout.njk
 ---
 Tertiary students call for change in rape culture protest
 =========================================================

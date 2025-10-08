@@ -1,9 +1,13 @@
 ---
 slug: democracy-and-poverty-critical-issues-in-pacific-region
-title: "Democracy and poverty critical issues in Pacific region"
-date: 2012-10-04
-source-url: https://www.scoop.co.nz/stories/WO1210/S00050/democracy-and-poverty-critical-issues-in-pacific-region.htm
+title: Democracy and poverty critical issues in Pacific region
+date: 2012-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1210/S00050/democracy-and-poverty-critical-issues-in-pacific-region.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/04/democracy-and-poverty-critical-issues-in-pacific-region/index.html
+layout: layout.njk
 ---
 Democracy and poverty critical issues in Pacific region
 =======================================================

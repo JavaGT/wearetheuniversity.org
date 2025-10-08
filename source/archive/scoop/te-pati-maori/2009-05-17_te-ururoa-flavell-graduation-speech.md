@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-graduation-speech
-title: "Te Ururoa Flavell - Graduation Speech"
-date: 2009-05-17
-source-url: https://www.scoop.co.nz/stories/PA0905/S00307/te-ururoa-flavell-graduation-speech.htm
+title: Te Ururoa Flavell - Graduation Speech
+date: 2009-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00307/te-ururoa-flavell-graduation-speech.htm
 author: te-pati-maori
+permalink: /archive/2009/05/17/te-ururoa-flavell-graduation-speech/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Graduation Speech
 =====================================

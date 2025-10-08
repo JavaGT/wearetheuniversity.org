@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-heading-north
-title: "Student Volunteer Army heading North"
-date: 2016-03-11
-source-url: https://www.scoop.co.nz/stories/AK1603/S00302/student-volunteer-army-heading-north.htm
+title: Student Volunteer Army heading North
+date: 2016-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1603/S00302/student-volunteer-army-heading-north.htm
 author: student-volunteer-army
+permalink: /archive/2016/03/11/student-volunteer-army-heading-north/index.html
+layout: layout.njk
 ---
 Student Volunteer Army heading North
 ====================================

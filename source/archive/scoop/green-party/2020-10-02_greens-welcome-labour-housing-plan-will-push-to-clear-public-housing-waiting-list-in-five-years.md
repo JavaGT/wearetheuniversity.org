@@ -1,9 +1,16 @@
 ---
-slug: greens-welcome-labour-housing-plan-will-push-to-clear-public-housing-waiting-list-in-five-years
-title: "Greens Welcome Labour Housing Plan, Will Push To Clear Public Housing Waiting List In Five Years"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/PA2010/S00025/greens-welcome-labour-housing-plan-will-push-to-clear-public-housing-waiting-list-in-five-years.htm
+slug: >-
+  greens-welcome-labour-housing-plan-will-push-to-clear-public-housing-waiting-list-in-five-years
+title: >-
+  Greens Welcome Labour Housing Plan, Will Push To Clear Public Housing Waiting
+  List In Five Years
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00025/greens-welcome-labour-housing-plan-will-push-to-clear-public-housing-waiting-list-in-five-years.htm
 author: green-party
+permalink: >-
+  /archive/2020/10/02/greens-welcome-labour-housing-plan-will-push-to-clear-public-housing-waiting-list-in-five-years/index.html
+layout: layout.njk
 ---
 Greens Welcome Labour Housing Plan, Will Push To Clear Public Housing Waiting List In Five Years
 ================================================================================================

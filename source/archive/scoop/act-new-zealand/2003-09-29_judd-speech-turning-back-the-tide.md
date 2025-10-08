@@ -1,9 +1,12 @@
 ---
 slug: judd-speech-turning-back-the-tide
-title: "Judd Speech: Turning Back The Tide"
-date: 2003-09-29
-source-url: https://www.scoop.co.nz/stories/PA0309/S00584/judd-speech-turning-back-the-tide.htm
+title: 'Judd Speech: Turning Back The Tide'
+date: 2003-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00584/judd-speech-turning-back-the-tide.htm
 author: act-new-zealand
+permalink: /archive/2003/09/29/judd-speech-turning-back-the-tide/index.html
+layout: layout.njk
 ---
 Judd Speech: Turning Back The Tide
 ==================================

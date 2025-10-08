@@ -1,9 +1,12 @@
 ---
 slug: across-the-tasman-australia-rising
-title: "Across the Tasman: Australia Rising"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/BU0705/S00100/across-the-tasman-australia-rising.htm
+title: 'Across the Tasman: Australia Rising'
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0705/S00100/across-the-tasman-australia-rising.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2007/05/04/across-the-tasman-australia-rising/index.html
+layout: layout.njk
 ---
 Across the Tasman: Australia Rising
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: get-your-cheque-book-out-for-roaming-rights
-title: "Get your cheque book out for roaming rights"
-date: 2007-03-08
-source-url: https://www.scoop.co.nz/stories/PA0703/S00139/get-your-cheque-book-out-for-roaming-rights.htm
+title: Get your cheque book out for roaming rights
+date: 2007-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00139/get-your-cheque-book-out-for-roaming-rights.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/08/get-your-cheque-book-out-for-roaming-rights/index.html
+layout: layout.njk
 ---
 Get your cheque book out for roaming rights
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: fluoridating-water-does-not-lower-iq-otago-research
-title: "Fluoridating water does not lower IQ: Otago research"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/SC1405/S00045/fluoridating-water-does-not-lower-iq-otago-research.htm
+title: 'Fluoridating water does not lower IQ: Otago research'
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00045/fluoridating-water-does-not-lower-iq-otago-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/05/19/fluoridating-water-does-not-lower-iq-otago-research/index.html
+layout: layout.njk
 ---
 Fluoridating water does not lower IQ: Otago research
 ====================================================

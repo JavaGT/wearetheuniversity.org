@@ -1,9 +1,12 @@
 ---
 slug: a-kaupapa-māori-approach-to-ageing-well
-title: "A kaupapa Māori approach to ageing well"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/GE1611/S00116/a-kaupapa-maori-approach-to-ageing-well.htm
+title: A kaupapa Māori approach to ageing well
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00116/a-kaupapa-maori-approach-to-ageing-well.htm
 author: university-of-waikato
+permalink: /archive/2016/11/23/a-kaupapa-m/index.html
+layout: layout.njk
 ---
 A kaupapa Māori approach to ageing well
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: catherine-chidgey-makes-history-again
-title: "Catherine Chidgey Makes History – Again"
-date: 2023-06-16
-source-url: https://www.scoop.co.nz/stories/CU2306/S00110/catherine-chidgey-makes-history-again.htm
+title: Catherine Chidgey Makes History – Again
+date: 2023-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2306/S00110/catherine-chidgey-makes-history-again.htm
 author: victoria-university-of-wellington
+permalink: /archive/2023/06/16/catherine-chidgey-makes-history-again/index.html
+layout: layout.njk
 ---
 Catherine Chidgey Makes History – Again
 =======================================

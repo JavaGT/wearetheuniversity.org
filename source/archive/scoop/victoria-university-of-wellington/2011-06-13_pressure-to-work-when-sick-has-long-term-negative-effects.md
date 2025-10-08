@@ -1,9 +1,13 @@
 ---
 slug: pressure-to-work-when-sick-has-long-term-negative-effects
-title: "Pressure to work when sick has long-term negative effects"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/BU1106/S00342/pressure-to-work-when-sick-has-long-term-negative-effects.htm
+title: Pressure to work when sick has long-term negative effects
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1106/S00342/pressure-to-work-when-sick-has-long-term-negative-effects.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/13/pressure-to-work-when-sick-has-long-term-negative-effects/index.html
+layout: layout.njk
 ---
 Pressure to work when sick has long-term negative effects
 =========================================================

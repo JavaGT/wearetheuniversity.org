@@ -1,9 +1,12 @@
 ---
 slug: life-cycle-management-director-appointed
-title: "Life cycle management director appointed"
-date: 2009-11-18
-source-url: https://www.scoop.co.nz/stories/ED0911/S00074/life-cycle-management-director-appointed.htm
+title: Life cycle management director appointed
+date: 2009-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00074/life-cycle-management-director-appointed.htm
 author: massey-university
+permalink: /archive/2009/11/18/life-cycle-management-director-appointed/index.html
+layout: layout.njk
 ---
 Life cycle management director appointed
 ========================================

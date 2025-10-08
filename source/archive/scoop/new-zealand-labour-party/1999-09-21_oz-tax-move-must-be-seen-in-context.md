@@ -1,9 +1,12 @@
 ---
 slug: oz-tax-move-must-be-seen-in-context
-title: "Oz tax move must be seen in context"
-date: 1999-09-21
-source-url: https://www.scoop.co.nz/stories/PA9909/S00436/oz-tax-move-must-be-seen-in-context.htm
+title: Oz tax move must be seen in context
+date: 1999-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00436/oz-tax-move-must-be-seen-in-context.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/21/oz-tax-move-must-be-seen-in-context/index.html
+layout: layout.njk
 ---
 Oz tax move must be seen in context
 ===================================

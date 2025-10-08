@@ -1,9 +1,12 @@
 ---
 slug: richard-prebble-speech-race-relations-the-issue
-title: "Richard Prebble Speech: Race Relations - The Issue"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/PA0402/S00127/richard-prebble-speech-race-relations-the-issue.htm
+title: 'Richard Prebble Speech: Race Relations - The Issue'
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00127/richard-prebble-speech-race-relations-the-issue.htm
 author: act-new-zealand
+permalink: /archive/2004/02/10/richard-prebble-speech-race-relations-the-issue/index.html
+layout: layout.njk
 ---
 Richard Prebble Speech: Race Relations - The Issue
 ==================================================

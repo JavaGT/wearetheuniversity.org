@@ -1,9 +1,12 @@
 ---
 slug: more-short-sighted-plans-from-steven-joyce
-title: "More Short-Sighted Plans From Steven Joyce"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/PA1004/S00141/more-short-sighted-plans-from-steven-joyce.htm
+title: More Short-Sighted Plans From Steven Joyce
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00141/more-short-sighted-plans-from-steven-joyce.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/14/more-short-sighted-plans-from-steven-joyce/index.html
+layout: layout.njk
 ---
 More Short-Sighted Plans From Steven Joyce
 ==========================================

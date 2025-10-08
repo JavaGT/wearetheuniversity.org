@@ -1,9 +1,12 @@
 ---
 slug: refund-ruc-charges-on-nelson-fires-hay-convoy
-title: "Refund RUC charges on Nelson Fires Hay Convoy"
-date: 2019-02-17
-source-url: https://www.scoop.co.nz/stories/PA1902/S00132/refund-ruc-charges-on-nelson-fires-hay-convoy.htm
+title: Refund RUC charges on Nelson Fires Hay Convoy
+date: 2019-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00132/refund-ruc-charges-on-nelson-fires-hay-convoy.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/17/refund-ruc-charges-on-nelson-fires-hay-convoy/index.html
+layout: layout.njk
 ---
 Refund RUC charges on Nelson Fires Hay Convoy
 =============================================

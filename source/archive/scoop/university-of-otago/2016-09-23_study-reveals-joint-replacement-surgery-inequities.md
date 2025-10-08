@@ -1,9 +1,13 @@
 ---
 slug: study-reveals-joint-replacement-surgery-inequities
-title: "Study reveals joint replacement surgery inequities"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/GE1609/S00133/study-reveals-joint-replacement-surgery-inequities.htm
+title: Study reveals joint replacement surgery inequities
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1609/S00133/study-reveals-joint-replacement-surgery-inequities.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/23/study-reveals-joint-replacement-surgery-inequities/index.html
+layout: layout.njk
 ---
 Study reveals joint replacement surgery inequities
 ==================================================

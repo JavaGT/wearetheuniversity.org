@@ -1,9 +1,12 @@
 ---
 slug: $3000-insult-scheme-to-christchurch-residents
-title: "$3000 Insult Scheme to Christchurch Residents"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/PA1408/S00095/3000-insult-scheme-to-christchurch-residents.htm
+title: $3000 Insult Scheme to Christchurch Residents
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00095/3000-insult-scheme-to-christchurch-residents.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/06/3000-insult-scheme-to-christchurch-residents/index.html
+layout: layout.njk
 ---
 $3000 Insult Scheme to Christchurch Residents
 =============================================

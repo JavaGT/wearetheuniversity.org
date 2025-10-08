@@ -1,9 +1,13 @@
 ---
 slug: lincolns-sports-scholarship-programme-expands-to-basketball
-title: "Lincoln's sports scholarship programme expands to basketball"
-date: 2012-04-27
-source-url: https://www.scoop.co.nz/stories/ED1204/S00109/lincolns-sports-scholarship-programme-expands-to-basketball.htm
+title: Lincoln's sports scholarship programme expands to basketball
+date: 2012-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00109/lincolns-sports-scholarship-programme-expands-to-basketball.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/04/27/lincolns-sports-scholarship-programme-expands-to-basketball/index.html
+layout: layout.njk
 ---
 Lincoln's sports scholarship programme expands to basketball
 ============================================================

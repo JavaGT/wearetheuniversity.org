@@ -1,9 +1,12 @@
 ---
 slug: international-award-for-local-case-writers
-title: "International award for local case writers"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/ED0910/S00031/international-award-for-local-case-writers.htm
+title: International award for local case writers
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00031/international-award-for-local-case-writers.htm
 author: waikato-university
+permalink: /archive/2009/10/08/international-award-for-local-case-writers/index.html
+layout: layout.njk
 ---
 International award for local case writers
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-resident-artist-explores-pacific-diaspora-stereotypes
-title: "UC Resident Artist Explores Pacific Diaspora, Stereotypes"
-date: 2024-09-12
-source-url: https://www.scoop.co.nz/stories/CU2409/S00006/uc-resident-artist-explores-pacific-diaspora-stereotypes.htm
+title: UC Resident Artist Explores Pacific Diaspora, Stereotypes
+date: 2024-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2409/S00006/uc-resident-artist-explores-pacific-diaspora-stereotypes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/12/uc-resident-artist-explores-pacific-diaspora-stereotypes/index.html
+layout: layout.njk
 ---
 UC Resident Artist Explores Pacific Diaspora, Stereotypes
 =========================================================

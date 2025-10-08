@@ -1,9 +1,12 @@
 ---
 slug: why-nz-must-harness-the-brain-gain
-title: "Why NZ must harness the ‘brain gain’"
-date: 2013-05-12
-source-url: https://www.scoop.co.nz/stories/ED1305/S00071/why-nz-must-harness-the-brain-gain.htm
+title: Why NZ must harness the ‘brain gain’
+date: 2013-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00071/why-nz-must-harness-the-brain-gain.htm
 author: massey-university
+permalink: /archive/2013/05/12/why-nz-must-harness-the-brain-gain/index.html
+layout: layout.njk
 ---
 Why NZ must harness the ‘brain gain’
 ====================================

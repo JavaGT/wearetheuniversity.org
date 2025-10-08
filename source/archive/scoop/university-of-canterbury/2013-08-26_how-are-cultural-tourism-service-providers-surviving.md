@@ -1,9 +1,13 @@
 ---
 slug: how-are-cultural-tourism-service-providers-surviving
-title: "How are cultural tourism service providers surviving?"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/AK1308/S00750/how-are-cultural-tourism-service-providers-surviving.htm
+title: How are cultural tourism service providers surviving?
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00750/how-are-cultural-tourism-service-providers-surviving.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/26/how-are-cultural-tourism-service-providers-surviving/index.html
+layout: layout.njk
 ---
 How are cultural tourism service providers surviving?
 =====================================================

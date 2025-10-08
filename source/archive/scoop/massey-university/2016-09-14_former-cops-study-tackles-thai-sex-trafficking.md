@@ -1,9 +1,12 @@
 ---
 slug: former-cops-study-tackles-thai-sex-trafficking
-title: "Former cop's study tackles Thai sex trafficking"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/ED1609/S00073/former-cops-study-tackles-thai-sex-trafficking.htm
+title: Former cop's study tackles Thai sex trafficking
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00073/former-cops-study-tackles-thai-sex-trafficking.htm
 author: massey-university
+permalink: /archive/2016/09/14/former-cops-study-tackles-thai-sex-trafficking/index.html
+layout: layout.njk
 ---
 Former cop's study tackles Thai sex trafficking
 ===============================================

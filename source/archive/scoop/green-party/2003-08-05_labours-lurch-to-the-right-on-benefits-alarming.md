@@ -1,9 +1,12 @@
 ---
 slug: labours-lurch-to-the-right-on-benefits-alarming
-title: "Labour's lurch to the right on benefits alarming"
-date: 2003-08-05
-source-url: https://www.scoop.co.nz/stories/PA0308/S00071/labours-lurch-to-the-right-on-benefits-alarming.htm
+title: Labour's lurch to the right on benefits alarming
+date: 2003-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00071/labours-lurch-to-the-right-on-benefits-alarming.htm
 author: green-party
+permalink: /archive/2003/08/05/labours-lurch-to-the-right-on-benefits-alarming/index.html
+layout: layout.njk
 ---
 Labour's lurch to the right on benefits alarming
 ================================================

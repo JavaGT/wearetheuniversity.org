@@ -1,9 +1,13 @@
 ---
 slug: crown-limos-in-northland-by-election-a-fraud-on-the-taxpayer
-title: "Crown Limos in Northland by-Election a Fraud on the Taxpayer"
-date: 2015-05-29
-source-url: https://www.scoop.co.nz/stories/PA1505/S00583/crown-limos-in-northland-by-election-a-fraud-on-the-taxpayer.htm
+title: Crown Limos in Northland by-Election a Fraud on the Taxpayer
+date: 2015-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00583/crown-limos-in-northland-by-election-a-fraud-on-the-taxpayer.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/05/29/crown-limos-in-northland-by-election-a-fraud-on-the-taxpayer/index.html
+layout: layout.njk
 ---
 Crown Limos in Northland by-Election a Fraud on the Taxpayer
 ============================================================

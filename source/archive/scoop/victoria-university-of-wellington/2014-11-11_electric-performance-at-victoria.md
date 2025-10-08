@@ -1,9 +1,12 @@
 ---
 slug: electric-performance-at-victoria
-title: "Electric performance at Victoria"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/CU1411/S00187/electric-performance-at-victoria.htm
+title: Electric performance at Victoria
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00187/electric-performance-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/11/11/electric-performance-at-victoria/index.html
+layout: layout.njk
 ---
 Electric performance at Victoria
 ================================

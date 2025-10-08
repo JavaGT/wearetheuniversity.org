@@ -1,9 +1,12 @@
 ---
 slug: more-disturbing-revelations-at-corrections
-title: "More disturbing revelations at Corrections"
-date: 2006-04-24
-source-url: https://www.scoop.co.nz/stories/PA0604/S00351/more-disturbing-revelations-at-corrections.htm
+title: More disturbing revelations at Corrections
+date: 2006-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00351/more-disturbing-revelations-at-corrections.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/24/more-disturbing-revelations-at-corrections/index.html
+layout: layout.njk
 ---
 More disturbing revelations at Corrections
 ==========================================

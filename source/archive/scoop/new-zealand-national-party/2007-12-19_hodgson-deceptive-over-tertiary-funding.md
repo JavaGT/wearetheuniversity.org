@@ -1,9 +1,12 @@
 ---
 slug: hodgson-deceptive-over-tertiary-funding
-title: "Hodgson deceptive over tertiary funding"
-date: 2007-12-19
-source-url: https://www.scoop.co.nz/stories/PA0712/S00443/hodgson-deceptive-over-tertiary-funding.htm
+title: Hodgson deceptive over tertiary funding
+date: 2007-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00443/hodgson-deceptive-over-tertiary-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/19/hodgson-deceptive-over-tertiary-funding/index.html
+layout: layout.njk
 ---
 Hodgson deceptive over tertiary funding
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: union-movement-rallies-round-locked-out-workers
-title: "Union Movement rallies round locked out workers"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/PO1111/S00008/union-movement-rallies-round-locked-out-workers.htm
+title: Union Movement rallies round locked out workers
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00008/union-movement-rallies-round-locked-out-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/11/01/union-movement-rallies-round-locked-out-workers/index.html
+layout: layout.njk
 ---
 Union Movement rallies round locked out workers
 ===============================================

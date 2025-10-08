@@ -1,9 +1,12 @@
 ---
 slug: nz-must-toughen-up-pathetic-animal-welfare-laws
-title: "NZ must toughen up pathetic animal welfare laws"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/PA1111/S00259/nz-must-toughen-up-pathetic-animal-welfare-laws.htm
+title: NZ must toughen up pathetic animal welfare laws
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00259/nz-must-toughen-up-pathetic-animal-welfare-laws.htm
 author: green-party
+permalink: /archive/2011/11/14/nz-must-toughen-up-pathetic-animal-welfare-laws/index.html
+layout: layout.njk
 ---
 NZ must toughen up pathetic animal welfare laws
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: great-war-exhibition-closure-a-missed-opportunity
-title: "Great War Exhibition closure a missed opportunity"
-date: 2018-08-04
-source-url: https://www.scoop.co.nz/stories/PA1808/S00048/great-war-exhibition-closure-a-missed-opportunity.htm
+title: Great War Exhibition closure a missed opportunity
+date: 2018-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00048/great-war-exhibition-closure-a-missed-opportunity.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/04/great-war-exhibition-closure-a-missed-opportunity/index.html
+layout: layout.njk
 ---
 Great War Exhibition closure a missed opportunity
 =================================================

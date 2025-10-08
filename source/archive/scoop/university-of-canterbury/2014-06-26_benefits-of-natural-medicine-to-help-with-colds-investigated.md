@@ -1,9 +1,13 @@
 ---
 slug: benefits-of-natural-medicine-to-help-with-colds-investigated
-title: "Benefits of natural medicine to help with colds investigated"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/SC1406/S00069/benefits-of-natural-medicine-to-help-with-colds-investigated.htm
+title: Benefits of natural medicine to help with colds investigated
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00069/benefits-of-natural-medicine-to-help-with-colds-investigated.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/26/benefits-of-natural-medicine-to-help-with-colds-investigated/index.html
+layout: layout.njk
 ---
 Benefits of natural medicine to help with colds investigated
 ============================================================

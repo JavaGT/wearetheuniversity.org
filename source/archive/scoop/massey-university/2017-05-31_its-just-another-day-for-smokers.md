@@ -1,9 +1,12 @@
 ---
 slug: its-just-another-day-for-smokers
-title: "It’s just another day for smokers"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/GE1705/S00203/its-just-another-day-for-smokers.htm
+title: It’s just another day for smokers
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00203/its-just-another-day-for-smokers.htm
 author: massey-university
+permalink: /archive/2017/05/31/its-just-another-day-for-smokers/index.html
+layout: layout.njk
 ---
 It’s just another day for smokers
 =================================

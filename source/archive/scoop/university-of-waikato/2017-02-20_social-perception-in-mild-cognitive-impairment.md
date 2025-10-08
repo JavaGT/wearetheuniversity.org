@@ -1,9 +1,12 @@
 ---
 slug: social-perception-in-mild-cognitive-impairment
-title: "Social perception in mild cognitive impairment"
-date: 2017-02-20
-source-url: https://www.scoop.co.nz/stories/GE1702/S00089/social-perception-in-mild-cognitive-impairment.htm
+title: Social perception in mild cognitive impairment
+date: 2017-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00089/social-perception-in-mild-cognitive-impairment.htm
 author: university-of-waikato
+permalink: /archive/2017/02/20/social-perception-in-mild-cognitive-impairment/index.html
+layout: layout.njk
 ---
 Social perception in mild cognitive impairment
 ==============================================

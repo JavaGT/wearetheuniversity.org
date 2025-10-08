@@ -1,9 +1,13 @@
 ---
 slug: donnelly-welcomes-universities-of-technology-bill
-title: "Donnelly Welcomes Universities of Technology Bill"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PA0611/S00462/donnelly-welcomes-universities-of-technology-bill.htm
+title: Donnelly Welcomes Universities of Technology Bill
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00462/donnelly-welcomes-universities-of-technology-bill.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2006/11/23/donnelly-welcomes-universities-of-technology-bill/index.html
+layout: layout.njk
 ---
 Donnelly Welcomes Universities of Technology Bill
 =================================================

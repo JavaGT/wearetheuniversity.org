@@ -1,9 +1,13 @@
 ---
 slug: life-changing-opportunity-for-woolf-fisher-scholars
-title: "Life-changing opportunity for Woolf Fisher scholars"
-date: 2017-09-20
-source-url: https://www.scoop.co.nz/stories/ED1709/S00075/life-changing-opportunity-for-woolf-fisher-scholars.htm
+title: Life-changing opportunity for Woolf Fisher scholars
+date: 2017-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00075/life-changing-opportunity-for-woolf-fisher-scholars.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2017/09/20/life-changing-opportunity-for-woolf-fisher-scholars/index.html
+layout: layout.njk
 ---
 Life-changing opportunity for Woolf Fisher scholars
 ===================================================

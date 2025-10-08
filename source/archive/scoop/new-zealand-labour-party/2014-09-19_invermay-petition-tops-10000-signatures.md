@@ -1,9 +1,12 @@
 ---
 slug: invermay-petition-tops-10000-signatures
-title: "Invermay Petition Tops 10,000 Signatures"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/PO1409/S00439/invermay-petition-tops-10000-signatures.htm
+title: Invermay Petition Tops 10,000 Signatures
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00439/invermay-petition-tops-10000-signatures.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/19/invermay-petition-tops-10000-signatures/index.html
+layout: layout.njk
 ---
 Invermay Petition Tops 10,000 Signatures
 ========================================

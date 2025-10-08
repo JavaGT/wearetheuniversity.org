@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-21st-century-education-wananga
-title: "Tariana Turia: 21st Century Education Wananga"
-date: 2008-08-01
-source-url: https://www.scoop.co.nz/stories/PA0808/S00004/tariana-turia-21st-century-education-wananga.htm
+title: 'Tariana Turia: 21st Century Education Wananga'
+date: 2008-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00004/tariana-turia-21st-century-education-wananga.htm
 author: te-pati-maori
+permalink: /archive/2008/08/01/tariana-turia-21st-century-education-wananga/index.html
+layout: layout.njk
 ---
 Tariana Turia: 21st Century Education Wananga
 =============================================

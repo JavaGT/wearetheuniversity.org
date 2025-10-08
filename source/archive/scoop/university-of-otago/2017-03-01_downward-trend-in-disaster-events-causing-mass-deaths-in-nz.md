@@ -1,9 +1,13 @@
 ---
 slug: downward-trend-in-disaster-events-causing-mass-deaths-in-nz
-title: "Downward trend in disaster events causing mass deaths in NZ"
-date: 2017-03-01
-source-url: https://www.scoop.co.nz/stories/PO1703/S00019/downward-trend-in-disaster-events-causing-mass-deaths-in-nz.htm
+title: Downward trend in disaster events causing mass deaths in NZ
+date: 2017-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00019/downward-trend-in-disaster-events-causing-mass-deaths-in-nz.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/03/01/downward-trend-in-disaster-events-causing-mass-deaths-in-nz/index.html
+layout: layout.njk
 ---
 Downward trend in disaster events causing mass deaths in NZ
 ===========================================================

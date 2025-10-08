@@ -1,9 +1,12 @@
 ---
 slug: peters-wanted-some-leadership!
-title: "Peters: Wanted –Some Leadership!"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PO1110/S00077/peters-wanted-some-leadership.htm
+title: 'Peters: Wanted –Some Leadership!'
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00077/peters-wanted-some-leadership.htm
 author: new-zealand-first-party
+permalink: /archive/2011/10/05/peters-wanted-some-leadership/index.html
+layout: layout.njk
 ---
 Peters: Wanted –Some Leadership!
 ================================

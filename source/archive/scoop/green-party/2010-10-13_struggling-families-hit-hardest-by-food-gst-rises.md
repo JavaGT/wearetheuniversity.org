@@ -1,9 +1,13 @@
 ---
 slug: struggling-families-hit-hardest-by-food-gst-rises
-title: "Struggling families hit hardest by food, GST rises"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00196/struggling-families-hit-hardest-by-food-gst-rises.htm
+title: Struggling families hit hardest by food, GST rises
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00196/struggling-families-hit-hardest-by-food-gst-rises.htm
 author: green-party
+permalink: >-
+  /archive/2010/10/13/struggling-families-hit-hardest-by-food-gst-rises/index.html
+layout: layout.njk
 ---
 Struggling families hit hardest by food, GST rises
 ==================================================

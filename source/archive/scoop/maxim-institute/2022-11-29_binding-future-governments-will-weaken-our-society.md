@@ -1,9 +1,13 @@
 ---
 slug: binding-future-governments-will-weaken-our-society
-title: "Binding Future Governments Will Weaken Our Society"
-date: 2022-11-29
-source-url: https://www.scoop.co.nz/stories/PO2211/S00217/binding-future-governments-will-weaken-our-society.htm
+title: Binding Future Governments Will Weaken Our Society
+date: 2022-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2211/S00217/binding-future-governments-will-weaken-our-society.htm
 author: maxim-institute
+permalink: >-
+  /archive/2022/11/29/binding-future-governments-will-weaken-our-society/index.html
+layout: layout.njk
 ---
 Binding Future Governments Will Weaken Our Society
 ==================================================

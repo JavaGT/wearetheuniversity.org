@@ -1,9 +1,13 @@
 ---
 slug: councils-increasing-debt-to-fund-raised-crossings-are-out-of-touch
-title: "Councils Increasing Debt To Fund Raised Crossings Are Out Of Touch"
-date: 2024-08-06
-source-url: https://www.scoop.co.nz/stories/PA2408/S00034/councils-increasing-debt-to-fund-raised-crossings-are-out-of-touch.htm
+title: Councils Increasing Debt To Fund Raised Crossings Are Out Of Touch
+date: 2024-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00034/councils-increasing-debt-to-fund-raised-crossings-are-out-of-touch.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/08/06/councils-increasing-debt-to-fund-raised-crossings-are-out-of-touch/index.html
+layout: layout.njk
 ---
 Councils Increasing Debt To Fund Raised Crossings Are Out Of Touch
 ==================================================================
@@ -20,14 +24,7 @@ ACT Local Government spokesman Cameron Luxton is urging Wellington City councill
 “‘Raised table’ pedestrian crossings are a gold-plated option that slow down commuters and emergency services alike, and often cost hundreds of thousands of dollars.
 
 “Back in April, I brought [an inquiry to the Transport select committee](https://www.act.org.nz/r?u=ZwuGZYmAjM6sf2i5_K_SxzOcAmasglEnkks8VDs7JS6yXawSdu_ZHm1Ee426oQ0Pn8XE4_2B8x9zFv8ApzxkY1i42itCh46lz-QK67n5YVm3YCeJzNxhaTLCd2XmOmjDwHhwwcjYwF9yVcGcigoX2SD3ThaQVL0t8ajaFTvehx7NEVq8q_f-IKkh4wRDzEx2yQwPrpJf5HWjCDA59vnHIB3TUvQhtdAgROyCBfsJYKE&e=752ed10e9ed7db3a7867d6b86ebadc6c&utm_source=actnz&utm_medium=email&utm_campaign=councils_increasing_debt_to_fu&n=3) that investigated a raised crossing in Grey Lynn. What could have been a paint job over the existing crossing turned into a $490,000 debacle involving community consultation, two months of construction, plus remedial works. Thirty-five percent of the spend was on temporary traffic management.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “Wellington City Council is planning for five raised crossings on Thorndon Quay alone. It’s time for the elected members to show they’re in touch with ratepayers and send the council officers back to the drawing board.
+“Wellington City Council is planning for five raised crossings on Thorndon Quay alone. It’s time for the elected members to show they’re in touch with ratepayers and send the council officers back to the drawing board.
 
 “With the change of government there’s been a change in gear on transport policy, and local councils need to get with the programme. Councils can no longer rely on taxpayer support for the kind of false improvements that proliferated under Labour’s Road to Zero fantasy, and it’s not fair to just pass the bill on to tomorrow’s ratepayers.”
 

@@ -1,9 +1,11 @@
 ---
 slug: masseys-10%-fee-rise-reckless
-title: "Massey’s 10% Fee Rise Reckless"
-date: 2006-10-06
+title: Massey’s 10% Fee Rise Reckless
+date: 2006-10-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0610/S00023/masseys-10-fee-rise-reckless.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/10/06/masseys-10/index.html
+layout: layout.njk
 ---
 Massey’s 10% Fee Rise Reckless
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: increasing-chinas-political-influence-in-nz
-title: "Increasing China's political influence in NZ"
-date: 2017-09-25
-source-url: https://www.scoop.co.nz/stories/ED1709/S00092/increasing-chinas-political-influence-in-nz.htm
+title: Increasing China's political influence in NZ
+date: 2017-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00092/increasing-chinas-political-influence-in-nz.htm
 author: university-of-canterbury
+permalink: /archive/2017/09/25/increasing-chinas-political-influence-in-nz/index.html
+layout: layout.njk
 ---
 Increasing China's political influence in NZ
 ============================================

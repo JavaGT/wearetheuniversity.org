@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-dr-cullens-daylight-robbery
-title: "Heather Roy's Diary: Dr Cullen's Daylight Robbery"
-date: 2007-09-28
-source-url: https://www.scoop.co.nz/stories/PA0709/S00503/heather-roys-diary-dr-cullens-daylight-robbery.htm
+title: 'Heather Roy''s Diary: Dr Cullen''s Daylight Robbery'
+date: 2007-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00503/heather-roys-diary-dr-cullens-daylight-robbery.htm
 author: act-new-zealand
+permalink: /archive/2007/09/28/heather-roys-diary-dr-cullens-daylight-robbery/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Dr Cullen's Daylight Robbery
 =================================================

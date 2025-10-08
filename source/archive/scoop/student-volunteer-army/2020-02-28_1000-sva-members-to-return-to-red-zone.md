@@ -1,9 +1,12 @@
 ---
 slug: 1000-sva-members-to-return-to-red-zone
-title: "1000 SVA Members To Return To Red Zone"
-date: 2020-02-28
-source-url: https://www.scoop.co.nz/stories/AK2002/S00569/1000-sva-members-to-return-to-red-zone.htm
+title: 1000 SVA Members To Return To Red Zone
+date: 2020-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2002/S00569/1000-sva-members-to-return-to-red-zone.htm
 author: student-volunteer-army
+permalink: /archive/2020/02/28/1000-sva-members-to-return-to-red-zone/index.html
+layout: layout.njk
 ---
 1000 SVA Members To Return To Red Zone
 ======================================

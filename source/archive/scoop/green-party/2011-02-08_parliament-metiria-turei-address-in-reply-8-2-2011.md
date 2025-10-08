@@ -1,9 +1,13 @@
 ---
 slug: parliament-metiria-turei-address-in-reply-8-2-2011
-title: "Parliament: Metiria Turei Address in Reply - 8/2/2011"
-date: 2011-02-08
-source-url: https://www.scoop.co.nz/stories/PA1102/S00106/parliament-metiria-turei-address-in-reply-822011.htm
+title: 'Parliament: Metiria Turei Address in Reply - 8/2/2011'
+date: 2011-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00106/parliament-metiria-turei-address-in-reply-822011.htm
 author: green-party
+permalink: >-
+  /archive/2011/02/08/parliament-metiria-turei-address-in-reply-8-2-2011/index.html
+layout: layout.njk
 ---
 Parliament: Metiria Turei Address in Reply - 8/2/2011
 =====================================================

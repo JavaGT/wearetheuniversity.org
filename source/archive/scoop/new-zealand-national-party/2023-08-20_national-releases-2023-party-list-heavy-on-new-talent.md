@@ -1,9 +1,13 @@
 ---
 slug: national-releases-2023-party-list-heavy-on-new-talent
-title: "National Releases 2023 Party List Heavy On New Talent"
-date: 2023-08-20
-source-url: https://www.scoop.co.nz/stories/PA2308/S00131/national-releases-2023-party-list-heavy-on-new-talent.htm
+title: National Releases 2023 Party List Heavy On New Talent
+date: 2023-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00131/national-releases-2023-party-list-heavy-on-new-talent.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/08/20/national-releases-2023-party-list-heavy-on-new-talent/index.html
+layout: layout.njk
 ---
 National Releases 2023 Party List Heavy On New Talent
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: virtual-learning-network-&-online-learning-in-limbo
-title: "Virtual Learning Network & online learning in limbo"
-date: 2018-11-28
-source-url: https://www.scoop.co.nz/stories/PA1811/S00284/virtual-learning-network-online-learning-in-limbo.htm
+title: Virtual Learning Network & online learning in limbo
+date: 2018-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00284/virtual-learning-network-online-learning-in-limbo.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/28/virtual-learning-network-/index.html
+layout: layout.njk
 ---
 Virtual Learning Network & online learning in limbo
 ===================================================

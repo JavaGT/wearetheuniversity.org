@@ -1,9 +1,11 @@
 ---
 slug: the-shame-project
-title: "The shame project"
-date: 2013-11-01
+title: The shame project
+date: 2013-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1311/S00007/the-shame-project.htm
 author: university-of-waikato
+permalink: /archive/2013/11/01/the-shame-project/index.html
+layout: layout.njk
 ---
 The shame project
 =================

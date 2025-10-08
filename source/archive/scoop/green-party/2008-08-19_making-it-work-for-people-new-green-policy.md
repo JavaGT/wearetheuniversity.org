@@ -1,9 +1,12 @@
 ---
 slug: making-it-work-for-people-new-green-policy
-title: "Making IT work for people - new Green policy"
-date: 2008-08-19
-source-url: https://www.scoop.co.nz/stories/PA0808/S00283/making-it-work-for-people-new-green-policy.htm
+title: Making IT work for people - new Green policy
+date: 2008-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00283/making-it-work-for-people-new-green-policy.htm
 author: green-party
+permalink: /archive/2008/08/19/making-it-work-for-people-new-green-policy/index.html
+layout: layout.njk
 ---
 Making IT work for people - new Green policy
 ============================================

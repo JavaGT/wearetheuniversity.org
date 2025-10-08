@@ -1,9 +1,11 @@
 ---
 slug: students-rack-up-huge-debts
-title: "Students rack up huge debts"
-date: 2005-01-17
+title: Students rack up huge debts
+date: 2005-01-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0501/S00104/students-rack-up-huge-debts.htm
 author: act-new-zealand
+permalink: /archive/2005/01/17/students-rack-up-huge-debts/index.html
+layout: layout.njk
 ---
 Students rack up huge debts
 ===========================

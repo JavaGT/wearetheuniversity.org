@@ -1,9 +1,12 @@
 ---
 slug: renewal-the-role-of-young-labour
-title: "\"Renewal\" - The role of Young Labour"
-date: 2006-04-10
-source-url: https://www.scoop.co.nz/stories/PO0604/S00090/renewal-the-role-of-young-labour.htm
+title: '"Renewal" - The role of Young Labour'
+date: 2006-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00090/renewal-the-role-of-young-labour.htm
 author: young-labour
+permalink: /archive/2006/04/10/renewal-the-role-of-young-labour/index.html
+layout: layout.njk
 ---
 “Renewal” - The role of Young Labour
 ====================================

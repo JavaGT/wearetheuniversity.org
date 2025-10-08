@@ -1,9 +1,12 @@
 ---
 slug: kiwis-fed-up-with-reckless-immigration-records
-title: "Kiwis Fed up with Reckless Immigration Records"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00343/kiwis-fed-up-with-reckless-immigration-records.htm
+title: Kiwis Fed up with Reckless Immigration Records
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00343/kiwis-fed-up-with-reckless-immigration-records.htm
 author: new-zealand-first-party
+permalink: /archive/2017/03/21/kiwis-fed-up-with-reckless-immigration-records/index.html
+layout: layout.njk
 ---
 Kiwis Fed up with Reckless Immigration Records
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-pays-tribute-to-outstanding-new-zealander
-title: "Brash pays tribute to outstanding New Zealander"
-date: 2004-03-17
-source-url: https://www.scoop.co.nz/stories/PA0403/S00398/brash-pays-tribute-to-outstanding-new-zealander.htm
+title: Brash pays tribute to outstanding New Zealander
+date: 2004-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00398/brash-pays-tribute-to-outstanding-new-zealander.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/17/brash-pays-tribute-to-outstanding-new-zealander/index.html
+layout: layout.njk
 ---
 Brash pays tribute to outstanding New Zealander
 ===============================================

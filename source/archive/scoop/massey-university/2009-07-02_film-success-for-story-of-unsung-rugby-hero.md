@@ -1,9 +1,12 @@
 ---
 slug: film-success-for-story-of-unsung-rugby-hero
-title: "Film success for story of unsung rugby hero"
-date: 2009-07-02
-source-url: https://www.scoop.co.nz/stories/CU0907/S00019/film-success-for-story-of-unsung-rugby-hero.htm
+title: Film success for story of unsung rugby hero
+date: 2009-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00019/film-success-for-story-of-unsung-rugby-hero.htm
 author: massey-university
+permalink: /archive/2009/07/02/film-success-for-story-of-unsung-rugby-hero/index.html
+layout: layout.njk
 ---
 Film success for story of unsung rugby hero
 ===========================================

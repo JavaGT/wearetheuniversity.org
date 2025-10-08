@@ -1,9 +1,12 @@
 ---
 slug: universal-student-allowance-vote-nz-first
-title: "Universal Student Allowance? Vote NZ First"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/PA0802/S00484/universal-student-allowance-vote-nz-first.htm
+title: Universal Student Allowance? Vote NZ First
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00484/universal-student-allowance-vote-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2008/02/29/universal-student-allowance-vote-nz-first/index.html
+layout: layout.njk
 ---
 Universal Student Allowance? Vote NZ First
 ==========================================

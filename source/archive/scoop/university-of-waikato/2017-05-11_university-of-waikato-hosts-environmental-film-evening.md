@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-hosts-environmental-film-evening
-title: "University of Waikato hosts environmental film evening"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/ED1705/S00058/university-of-waikato-hosts-environmental-film-evening.htm
+title: University of Waikato hosts environmental film evening
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00058/university-of-waikato-hosts-environmental-film-evening.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/05/11/university-of-waikato-hosts-environmental-film-evening/index.html
+layout: layout.njk
 ---
 University of Waikato hosts environmental film evening
 ======================================================

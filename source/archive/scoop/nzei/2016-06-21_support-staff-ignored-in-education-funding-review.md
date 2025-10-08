@@ -1,9 +1,13 @@
 ---
 slug: support-staff-ignored-in-education-funding-review
-title: "Support Staff ignored in education funding review"
-date: 2016-06-21
-source-url: https://www.scoop.co.nz/stories/ED1606/S00075/support-staff-ignored-in-education-funding-review.htm
+title: Support Staff ignored in education funding review
+date: 2016-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00075/support-staff-ignored-in-education-funding-review.htm
 author: nzei
+permalink: >-
+  /archive/2016/06/21/support-staff-ignored-in-education-funding-review/index.html
+layout: layout.njk
 ---
 Support Staff ignored in education funding review
 =================================================

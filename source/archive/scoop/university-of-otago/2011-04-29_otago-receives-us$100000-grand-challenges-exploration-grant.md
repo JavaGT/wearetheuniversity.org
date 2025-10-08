@@ -1,9 +1,12 @@
 ---
 slug: otago-receives-us$100000-grand-challenges-exploration-grant
-title: "Otago receives US$100,000 Grand Challenges Exploration Grant"
-date: 2011-04-29
-source-url: https://www.scoop.co.nz/stories/SC1104/S00055/otago-receives-us100000-grand-challenges-exploration-grant.htm
+title: Otago receives US$100,000 Grand Challenges Exploration Grant
+date: 2011-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1104/S00055/otago-receives-us100000-grand-challenges-exploration-grant.htm
 author: university-of-otago
+permalink: /archive/2011/04/29/otago-receives-us/index.html
+layout: layout.njk
 ---
 Otago receives US$100,000 Grand Challenges Exploration Grant
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: domestic-violence-increases-after-civil-defence
-title: "Domestic violence increases after Civil Defence"
-date: 2010-05-25
-source-url: https://www.scoop.co.nz/stories/ED1005/S00111/domestic-violence-increases-after-civil-defence.htm
+title: Domestic violence increases after Civil Defence
+date: 2010-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00111/domestic-violence-increases-after-civil-defence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/25/domestic-violence-increases-after-civil-defence/index.html
+layout: layout.njk
 ---
 Domestic violence increases after Civil Defence
 ===============================================

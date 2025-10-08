@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-27
-title: "TEU Tertiary Update Vol 13 No 27"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/ED1007/S00072/teu-tertiary-update-vol-13-no-27.htm
+title: TEU Tertiary Update Vol 13 No 27
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00072/teu-tertiary-update-vol-13-no-27.htm
 author: association-of-university-staff
+permalink: /archive/2010/07/22/teu-tertiary-update-vol-13-no-27/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 27
 ================================

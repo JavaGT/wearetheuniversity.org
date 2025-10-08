@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-children-at-high-risk-of-measles
-title: "New Zealand Children at High Risk of Measles"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/GE0907/S00143/new-zealand-children-at-high-risk-of-measles.htm
+title: New Zealand Children at High Risk of Measles
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0907/S00143/new-zealand-children-at-high-risk-of-measles.htm
 author: auckland-university
+permalink: /archive/2009/07/31/new-zealand-children-at-high-risk-of-measles/index.html
+layout: layout.njk
 ---
 New Zealand Children at High Risk of Measles
 ============================================

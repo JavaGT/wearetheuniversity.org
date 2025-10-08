@@ -1,9 +1,12 @@
 ---
 slug: bishop-opens-youth-mp-nomination-process
-title: "Bishop opens Youth MP nomination process"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/PA1509/S00062/bishop-opens-youth-mp-nomination-process.htm
+title: Bishop opens Youth MP nomination process
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00062/bishop-opens-youth-mp-nomination-process.htm
 author: new-zealand-national-party
+permalink: /archive/2015/09/03/bishop-opens-youth-mp-nomination-process/index.html
+layout: layout.njk
 ---
 Bishop opens Youth MP nomination process
 ========================================

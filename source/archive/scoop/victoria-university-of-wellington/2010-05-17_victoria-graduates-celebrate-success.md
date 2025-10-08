@@ -1,9 +1,12 @@
 ---
 slug: victoria-graduates-celebrate-success
-title: "Victoria graduates celebrate success"
-date: 2010-05-17
-source-url: https://www.scoop.co.nz/stories/ED1005/S00062/victoria-graduates-celebrate-success.htm
+title: Victoria graduates celebrate success
+date: 2010-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00062/victoria-graduates-celebrate-success.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/17/victoria-graduates-celebrate-success/index.html
+layout: layout.njk
 ---
 Victoria graduates celebrate success
 ====================================

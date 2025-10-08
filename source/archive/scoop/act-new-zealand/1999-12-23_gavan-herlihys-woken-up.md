@@ -1,9 +1,11 @@
 ---
 slug: gavan-herlihys-woken-up
-title: "Gavan Herlihy's woken up"
-date: 1999-12-23
+title: Gavan Herlihy's woken up
+date: 1999-12-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9912/S00145/gavan-herlihys-woken-up.htm
 author: act-new-zealand
+permalink: /archive/1999/12/23/gavan-herlihys-woken-up/index.html
+layout: layout.njk
 ---
 Gavan Herlihy's woken up
 ========================

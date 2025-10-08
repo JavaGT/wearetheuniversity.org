@@ -1,9 +1,13 @@
 ---
 slug: rise-of-esports-potential-goldmine-for-marketers
-title: "Rise of eSports potential goldmine for marketers"
-date: 2013-09-03
-source-url: https://www.scoop.co.nz/stories/CU1309/S00021/rise-of-esports-potential-goldmine-for-marketers.htm
+title: Rise of eSports potential goldmine for marketers
+date: 2013-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00021/rise-of-esports-potential-goldmine-for-marketers.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/09/03/rise-of-esports-potential-goldmine-for-marketers/index.html
+layout: layout.njk
 ---
 Rise of eSports potential goldmine for marketers
 ================================================

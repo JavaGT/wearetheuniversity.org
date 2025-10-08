@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-serious-problems-in-defence
-title: "The Mapp Report: Serious Problems In Defence"
-date: 2008-09-15
-source-url: https://www.scoop.co.nz/stories/PA0809/S00339/the-mapp-report-serious-problems-in-defence.htm
+title: 'The Mapp Report: Serious Problems In Defence'
+date: 2008-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00339/the-mapp-report-serious-problems-in-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/15/the-mapp-report-serious-problems-in-defence/index.html
+layout: layout.njk
 ---
 The Mapp Report: Serious Problems In Defence
 ============================================

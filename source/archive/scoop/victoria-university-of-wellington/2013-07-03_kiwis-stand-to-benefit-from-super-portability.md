@@ -1,9 +1,12 @@
 ---
 slug: kiwis-stand-to-benefit-from-super-portability
-title: "Kiwis stand to benefit from super portability"
-date: 2013-07-03
-source-url: https://www.scoop.co.nz/stories/BU1307/S00137/kiwis-stand-to-benefit-from-super-portability.htm
+title: Kiwis stand to benefit from super portability
+date: 2013-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00137/kiwis-stand-to-benefit-from-super-portability.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/03/kiwis-stand-to-benefit-from-super-portability/index.html
+layout: layout.njk
 ---
 Kiwis stand to benefit from super portability
 =============================================

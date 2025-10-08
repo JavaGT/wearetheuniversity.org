@@ -1,9 +1,12 @@
 ---
 slug: electric-van-heading-south-for-erally
-title: "Electric van heading south for eRally"
-date: 2014-11-25
-source-url: https://www.scoop.co.nz/stories/ED1411/S00153/electric-van-heading-south-for-erally.htm
+title: Electric van heading south for eRally
+date: 2014-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00153/electric-van-heading-south-for-erally.htm
 author: university-of-waikato
+permalink: /archive/2014/11/25/electric-van-heading-south-for-erally/index.html
+layout: layout.njk
 ---
 Electric van heading south for eRally
 =====================================

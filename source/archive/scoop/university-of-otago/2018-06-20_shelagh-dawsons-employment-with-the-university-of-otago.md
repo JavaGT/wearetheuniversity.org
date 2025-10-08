@@ -1,9 +1,13 @@
 ---
 slug: shelagh-dawsons-employment-with-the-university-of-otago
-title: "Shelagh Dawson’s employment with the University of Otago"
-date: 2018-06-20
-source-url: https://www.scoop.co.nz/stories/AK1806/S00481/shelagh-dawsons-employment-with-the-university-of-otago.htm
+title: Shelagh Dawson’s employment with the University of Otago
+date: 2018-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1806/S00481/shelagh-dawsons-employment-with-the-university-of-otago.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/20/shelagh-dawsons-employment-with-the-university-of-otago/index.html
+layout: layout.njk
 ---
 Shelagh Dawson’s employment with the University of Otago
 ========================================================

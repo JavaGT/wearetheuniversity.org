@@ -1,9 +1,13 @@
 ---
 slug: bishop-congratulates-hutt-valley-dragons-den-winners
-title: "Bishop congratulates Hutt Valley Dragons’ Den winners"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PA1606/S00478/bishop-congratulates-hutt-valley-dragons-den-winners.htm
+title: Bishop congratulates Hutt Valley Dragons’ Den winners
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00478/bishop-congratulates-hutt-valley-dragons-den-winners.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/06/29/bishop-congratulates-hutt-valley-dragons-den-winners/index.html
+layout: layout.njk
 ---
 Bishop congratulates Hutt Valley Dragons’ Den winners
 =====================================================

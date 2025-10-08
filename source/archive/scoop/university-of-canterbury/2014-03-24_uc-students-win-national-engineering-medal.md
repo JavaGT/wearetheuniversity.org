@@ -1,9 +1,12 @@
 ---
 slug: uc-students-win-national-engineering-medal
-title: "UC students win national engineering medal"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/ED1403/S00143/uc-students-win-national-engineering-medal.htm
+title: UC students win national engineering medal
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00143/uc-students-win-national-engineering-medal.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/24/uc-students-win-national-engineering-medal/index.html
+layout: layout.njk
 ---
 UC students win national engineering medal
 ==========================================

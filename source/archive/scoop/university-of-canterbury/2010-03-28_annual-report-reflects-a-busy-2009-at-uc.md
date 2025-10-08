@@ -1,9 +1,12 @@
 ---
 slug: annual-report-reflects-a-busy-2009-at-uc
-title: "Annual Report Reflects A Busy 2009 At UC"
-date: 2010-03-28
-source-url: https://www.scoop.co.nz/stories/ED1003/S00133/annual-report-reflects-a-busy-2009-at-uc.htm
+title: Annual Report Reflects A Busy 2009 At UC
+date: 2010-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00133/annual-report-reflects-a-busy-2009-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2010/03/28/annual-report-reflects-a-busy-2009-at-uc/index.html
+layout: layout.njk
 ---
 Annual Report Reflects A Busy 2009 At UC
 ========================================

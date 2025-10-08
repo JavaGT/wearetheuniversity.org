@@ -1,9 +1,12 @@
 ---
 slug: prizewinning-idea-puts-culture-online
-title: "Prizewinning idea puts culture online"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/CU0903/S00366/prizewinning-idea-puts-culture-online.htm
+title: Prizewinning idea puts culture online
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0903/S00366/prizewinning-idea-puts-culture-online.htm
 author: university-of-waikato
+permalink: /archive/2009/03/26/prizewinning-idea-puts-culture-online/index.html
+layout: layout.njk
 ---
 Prizewinning idea puts culture online
 =====================================

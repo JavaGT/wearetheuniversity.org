@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-invalid-votes-likely-after-rule-change-refused
-title: "Thousands of invalid votes likely after rule change refused"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00383/thousands-of-invalid-votes-likely-after-rule-change-refused.htm
+title: Thousands of invalid votes likely after rule change refused
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00383/thousands-of-invalid-votes-likely-after-rule-change-refused.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/04/22/thousands-of-invalid-votes-likely-after-rule-change-refused/index.html
+layout: layout.njk
 ---
 Thousands of invalid votes likely after rule change refused
 ===========================================================

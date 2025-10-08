@@ -1,9 +1,12 @@
 ---
 slug: kīngitanga-day-details-announced
-title: "Kīngitanga Day details announced"
-date: 2011-04-06
-source-url: https://www.scoop.co.nz/stories/ED1104/S00018/kingitanga-day-details-announced.htm
+title: Kīngitanga Day details announced
+date: 2011-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00018/kingitanga-day-details-announced.htm
 author: waikato-university
+permalink: /archive/2011/04/06/k/index.html
+layout: layout.njk
 ---
 Kīngitanga Day details announced
 ================================

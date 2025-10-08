@@ -1,9 +1,16 @@
 ---
-slug: myers-scholarship-winner-will-use-cambridge-learning-to-tackle-mental-health-crisis
-title: "Myers Scholarship Winner Will Use Cambridge Learning To Tackle Mental Health Crisis"
-date: 2022-04-13
-source-url: https://www.scoop.co.nz/stories/ED2204/S00016/myers-scholarship-winner-will-use-cambridge-learning-to-tackle-mental-health-crisis.htm
+slug: >-
+  myers-scholarship-winner-will-use-cambridge-learning-to-tackle-mental-health-crisis
+title: >-
+  Myers Scholarship Winner Will Use Cambridge Learning To Tackle Mental Health
+  Crisis
+date: 2022-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00016/myers-scholarship-winner-will-use-cambridge-learning-to-tackle-mental-health-crisis.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/04/13/myers-scholarship-winner-will-use-cambridge-learning-to-tackle-mental-health-crisis/index.html
+layout: layout.njk
 ---
 Myers Scholarship Winner Will Use Cambridge Learning To Tackle Mental Health Crisis
 ===================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: tax-switch-created-many-problems
-title: "Tax Switch Created Many Problems"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/PO1110/S00169/tax-switch-created-many-problems.htm
+title: Tax Switch Created Many Problems
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00169/tax-switch-created-many-problems.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/10/12/tax-switch-created-many-problems/index.html
+layout: layout.njk
 ---
 Tax Switch Created Many Problems
 ================================

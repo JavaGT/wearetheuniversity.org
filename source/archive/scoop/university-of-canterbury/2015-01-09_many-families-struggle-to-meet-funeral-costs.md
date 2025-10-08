@@ -1,9 +1,12 @@
 ---
 slug: many-families-struggle-to-meet-funeral-costs
-title: "Many families struggle to meet funeral costs"
-date: 2015-01-09
-source-url: https://www.scoop.co.nz/stories/PO1501/S00023/many-families-struggle-to-meet-funeral-costs.htm
+title: Many families struggle to meet funeral costs
+date: 2015-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1501/S00023/many-families-struggle-to-meet-funeral-costs.htm
 author: university-of-canterbury
+permalink: /archive/2015/01/09/many-families-struggle-to-meet-funeral-costs/index.html
+layout: layout.njk
 ---
 Many families struggle to meet funeral costs
 ============================================

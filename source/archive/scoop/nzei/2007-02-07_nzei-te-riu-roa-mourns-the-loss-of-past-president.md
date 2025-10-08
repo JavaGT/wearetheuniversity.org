@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-mourns-the-loss-of-past-president
-title: "NZEI Te Riu Roa, mourns the loss of past president"
-date: 2007-02-07
-source-url: https://www.scoop.co.nz/stories/ED0702/S00018/nzei-te-riu-roa-mourns-the-loss-of-past-president.htm
+title: NZEI Te Riu Roa, mourns the loss of past president
+date: 2007-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00018/nzei-te-riu-roa-mourns-the-loss-of-past-president.htm
 author: nzei
+permalink: >-
+  /archive/2007/02/07/nzei-te-riu-roa-mourns-the-loss-of-past-president/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa, mourns the loss of past president
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: serious-gaming-using-applied-immersive-games-for-education-work-and-wonder
-title: "Serious Gaming – Using Applied Immersive Games For Education, Work And Wonder"
-date: 2020-07-21
-source-url: https://www.scoop.co.nz/stories/ED2007/S00022/serious-gaming-using-applied-immersive-games-for-education-work-and-wonder.htm
+title: Serious Gaming – Using Applied Immersive Games For Education, Work And Wonder
+date: 2020-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00022/serious-gaming-using-applied-immersive-games-for-education-work-and-wonder.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/07/21/serious-gaming-using-applied-immersive-games-for-education-work-and-wonder/index.html
+layout: layout.njk
 ---
 Serious Gaming – Using Applied Immersive Games For Education, Work And Wonder
 =============================================================================

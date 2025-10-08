@@ -1,9 +1,11 @@
 ---
 slug: support-for-ncea-direction
-title: "Support for NCEA direction"
-date: 2019-05-13
+title: Support for NCEA direction
+date: 2019-05-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1905/S00124/support-for-ncea-direction.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/13/support-for-ncea-direction/index.html
+layout: layout.njk
 ---
 Support for NCEA direction
 ==========================

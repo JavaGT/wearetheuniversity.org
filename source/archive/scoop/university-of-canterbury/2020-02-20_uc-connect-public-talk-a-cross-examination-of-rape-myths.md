@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-public-talk-a-cross-examination-of-rape-myths
-title: "UC Connect Public Talk: A Cross-examination Of Rape Myths"
-date: 2020-02-20
-source-url: https://www.scoop.co.nz/stories/PO2002/S00168/uc-connect-public-talk-a-cross-examination-of-rape-myths.htm
+title: 'UC Connect Public Talk: A Cross-examination Of Rape Myths'
+date: 2020-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2002/S00168/uc-connect-public-talk-a-cross-examination-of-rape-myths.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/02/20/uc-connect-public-talk-a-cross-examination-of-rape-myths/index.html
+layout: layout.njk
 ---
 UC Connect Public Talk: A Cross-examination Of Rape Myths
 =========================================================

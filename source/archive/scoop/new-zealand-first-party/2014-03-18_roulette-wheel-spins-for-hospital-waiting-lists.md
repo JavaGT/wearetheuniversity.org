@@ -1,9 +1,12 @@
 ---
 slug: roulette-wheel-spins-for-hospital-waiting-lists
-title: "Roulette Wheel Spins for Hospital Waiting Lists"
-date: 2014-03-18
-source-url: https://www.scoop.co.nz/stories/PA1403/S00331/roulette-wheel-spins-for-hospital-waiting-lists.htm
+title: Roulette Wheel Spins for Hospital Waiting Lists
+date: 2014-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00331/roulette-wheel-spins-for-hospital-waiting-lists.htm
 author: new-zealand-first-party
+permalink: /archive/2014/03/18/roulette-wheel-spins-for-hospital-waiting-lists/index.html
+layout: layout.njk
 ---
 Roulette Wheel Spins for Hospital Waiting Lists
 ===============================================

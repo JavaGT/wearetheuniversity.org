@@ -1,9 +1,13 @@
 ---
 slug: luxons-free-pass-to-the-fossil-fuel-industry-needs-to-be-stopped
-title: "Luxon’s Free Pass To The Fossil Fuel Industry Needs To Be Stopped"
-date: 2023-12-14
-source-url: https://www.scoop.co.nz/stories/PA2312/S00046/luxons-free-pass-to-the-fossil-fuel-industry-needs-to-be-stopped.htm
+title: Luxon’s Free Pass To The Fossil Fuel Industry Needs To Be Stopped
+date: 2023-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2312/S00046/luxons-free-pass-to-the-fossil-fuel-industry-needs-to-be-stopped.htm
 author: green-party
+permalink: >-
+  /archive/2023/12/14/luxons-free-pass-to-the-fossil-fuel-industry-needs-to-be-stopped/index.html
+layout: layout.njk
 ---
 Luxon’s Free Pass To The Fossil Fuel Industry Needs To Be Stopped
 =================================================================

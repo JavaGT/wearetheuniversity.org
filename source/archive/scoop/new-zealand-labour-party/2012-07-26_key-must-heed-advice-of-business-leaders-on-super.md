@@ -1,9 +1,13 @@
 ---
 slug: key-must-heed-advice-of-business-leaders-on-super
-title: "Key must heed advice of business leaders on Super"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/PA1207/S00352/key-must-heed-advice-of-business-leaders-on-super.htm
+title: Key must heed advice of business leaders on Super
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00352/key-must-heed-advice-of-business-leaders-on-super.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/07/26/key-must-heed-advice-of-business-leaders-on-super/index.html
+layout: layout.njk
 ---
 Key must heed advice of business leaders on Super
 =================================================

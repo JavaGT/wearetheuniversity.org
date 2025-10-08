@@ -1,9 +1,12 @@
 ---
 slug: free-lectures-on-global-economic-crisis
-title: "Free lectures on global economic crisis"
-date: 2009-08-17
-source-url: https://www.scoop.co.nz/stories/CU0908/S00267/free-lectures-on-global-economic-crisis.htm
+title: Free lectures on global economic crisis
+date: 2009-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00267/free-lectures-on-global-economic-crisis.htm
 author: university-of-waikato
+permalink: /archive/2009/08/17/free-lectures-on-global-economic-crisis/index.html
+layout: layout.njk
 ---
 Free lectures on global economic crisis
 =======================================

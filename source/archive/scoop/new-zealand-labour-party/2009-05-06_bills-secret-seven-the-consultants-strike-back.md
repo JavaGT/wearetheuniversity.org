@@ -1,9 +1,12 @@
 ---
 slug: bills-secret-seven-the-consultants-strike-back
-title: "Bill's secret seven: The consultants strike back"
-date: 2009-05-06
-source-url: https://www.scoop.co.nz/stories/PA0905/S00110/bills-secret-seven-the-consultants-strike-back.htm
+title: 'Bill''s secret seven: The consultants strike back'
+date: 2009-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00110/bills-secret-seven-the-consultants-strike-back.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/06/bills-secret-seven-the-consultants-strike-back/index.html
+layout: layout.njk
 ---
 Bill's secret seven: The consultants strike back
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: coastal-expert-to-give-lecture-at-university-of-canterbury
-title: "Coastal expert to give lecture at University of Canterbury"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/SC1404/S00023/coastal-expert-to-give-lecture-at-university-of-canterbury.htm
+title: Coastal expert to give lecture at University of Canterbury
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00023/coastal-expert-to-give-lecture-at-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/04/coastal-expert-to-give-lecture-at-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Coastal expert to give lecture at University of Canterbury
 ==========================================================

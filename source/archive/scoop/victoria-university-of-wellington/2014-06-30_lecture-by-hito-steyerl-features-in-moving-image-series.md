@@ -1,9 +1,13 @@
 ---
 slug: lecture-by-hito-steyerl-features-in-moving-image-series
-title: "Lecture by Hito Steyerl features in moving-image series"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/CU1406/S00402/lecture-by-hito-steyerl-features-in-moving-image-series.htm
+title: Lecture by Hito Steyerl features in moving-image series
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00402/lecture-by-hito-steyerl-features-in-moving-image-series.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/06/30/lecture-by-hito-steyerl-features-in-moving-image-series/index.html
+layout: layout.njk
 ---
 Lecture by Hito Steyerl features in moving-image series
 =======================================================

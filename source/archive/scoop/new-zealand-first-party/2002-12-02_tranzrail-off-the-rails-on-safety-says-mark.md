@@ -1,9 +1,12 @@
 ---
 slug: tranzrail-off-the-rails-on-safety-says-mark
-title: "Tranzrail Off The Rails On Safety, Says Mark"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00020/tranzrail-off-the-rails-on-safety-says-mark.htm
+title: Tranzrail Off The Rails On Safety, Says Mark
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00020/tranzrail-off-the-rails-on-safety-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/02/tranzrail-off-the-rails-on-safety-says-mark/index.html
+layout: layout.njk
 ---
 Tranzrail Off The Rails On Safety, Says Mark
 ============================================

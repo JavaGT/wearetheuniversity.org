@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-wishes-team-vic-all-the-best
-title: "VUWSA Wishes Team Vic \"All The Best\""
-date: 2005-04-21
-source-url: https://www.scoop.co.nz/stories/ED0504/S00081/vuwsa-wishes-team-vic-all-the-best.htm
+title: VUWSA Wishes Team Vic "All The Best"
+date: 2005-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00081/vuwsa-wishes-team-vic-all-the-best.htm
 author: victoria-university-students-association
+permalink: /archive/2005/04/21/vuwsa-wishes-team-vic-all-the-best/index.html
+layout: layout.njk
 ---
 VUWSA Wishes Team Vic “All The Best”
 ====================================

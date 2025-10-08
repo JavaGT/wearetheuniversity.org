@@ -1,9 +1,12 @@
 ---
 slug: fragrant-oil-source-not-to-be-sniffed-at
-title: "Fragrant oil source not to be sniffed at"
-date: 2016-12-07
-source-url: https://www.scoop.co.nz/stories/BU1612/S00275/fragrant-oil-source-not-to-be-sniffed-at.htm
+title: Fragrant oil source not to be sniffed at
+date: 2016-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1612/S00275/fragrant-oil-source-not-to-be-sniffed-at.htm
 author: lincoln-university
+permalink: /archive/2016/12/07/fragrant-oil-source-not-to-be-sniffed-at/index.html
+layout: layout.njk
 ---
 Fragrant oil source not to be sniffed at
 ========================================

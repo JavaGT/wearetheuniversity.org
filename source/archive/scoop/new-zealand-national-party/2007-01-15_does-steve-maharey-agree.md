@@ -1,9 +1,11 @@
 ---
 slug: does-steve-maharey-agree
-title: "Does Steve Maharey Agree?"
-date: 2007-01-15
+title: Does Steve Maharey Agree?
+date: 2007-01-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0701/S00051/does-steve-maharey-agree.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/15/does-steve-maharey-agree/index.html
+layout: layout.njk
 ---
 Does Steve Maharey Agree?
 =========================

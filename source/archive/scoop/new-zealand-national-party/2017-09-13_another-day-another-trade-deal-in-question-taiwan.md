@@ -1,9 +1,13 @@
 ---
 slug: another-day-another-trade-deal-in-question-taiwan
-title: "Another day, another trade deal in question - Taiwan"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/PA1709/S00145/another-day-another-trade-deal-in-question-taiwan.htm
+title: Another day, another trade deal in question - Taiwan
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00145/another-day-another-trade-deal-in-question-taiwan.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/09/13/another-day-another-trade-deal-in-question-taiwan/index.html
+layout: layout.njk
 ---
 Another day, another trade deal in question - Taiwan
 ====================================================

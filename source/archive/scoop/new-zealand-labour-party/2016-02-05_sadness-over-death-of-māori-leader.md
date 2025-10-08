@@ -1,9 +1,12 @@
 ---
 slug: sadness-over-death-of-māori-leader
-title: "Sadness over death of Māori leader"
-date: 2016-02-05
-source-url: https://www.scoop.co.nz/stories/PA1602/S00071/sadness-over-death-of-maori-leader.htm
+title: Sadness over death of Māori leader
+date: 2016-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00071/sadness-over-death-of-maori-leader.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/05/sadness-over-death-of-m/index.html
+layout: layout.njk
 ---
 Sadness over death of Māori leader
 ==================================

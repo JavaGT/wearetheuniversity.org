@@ -1,9 +1,12 @@
 ---
 slug: redundancy-announcement-shocking
-title: "Redundancy Announcement \"shocking\""
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/ED0611/S00033/redundancy-announcement-shocking.htm
+title: Redundancy Announcement "shocking"
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00033/redundancy-announcement-shocking.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/11/08/redundancy-announcement-shocking/index.html
+layout: layout.njk
 ---
 Redundancy Announcement “shocking”
 ==================================

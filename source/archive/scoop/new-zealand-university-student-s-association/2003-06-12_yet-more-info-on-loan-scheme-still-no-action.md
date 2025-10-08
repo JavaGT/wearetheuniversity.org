@@ -1,9 +1,12 @@
 ---
 slug: yet-more-info-on-loan-scheme-still-no-action
-title: "Yet more info on loan scheme, still no action"
-date: 2003-06-12
-source-url: https://www.scoop.co.nz/stories/ED0306/S00020/yet-more-info-on-loan-scheme-still-no-action.htm
+title: Yet more info on loan scheme, still no action
+date: 2003-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00020/yet-more-info-on-loan-scheme-still-no-action.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/06/12/yet-more-info-on-loan-scheme-still-no-action/index.html
+layout: layout.njk
 ---
 Yet more info on loan scheme, still no action
 =============================================

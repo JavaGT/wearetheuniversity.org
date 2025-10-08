@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-prepare-for-fresh-pay-negotiations
-title: "School Support Staff Prepare for Fresh Pay Negotiations"
-date: 2011-02-28
-source-url: https://www.scoop.co.nz/stories/ED1102/S00082/school-support-staff-prepare-for-fresh-pay-negotiations.htm
+title: School Support Staff Prepare for Fresh Pay Negotiations
+date: 2011-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00082/school-support-staff-prepare-for-fresh-pay-negotiations.htm
 author: nzei
+permalink: >-
+  /archive/2011/02/28/school-support-staff-prepare-for-fresh-pay-negotiations/index.html
+layout: layout.njk
 ---
 School Support Staff Prepare for Fresh Pay Negotiations
 =======================================================

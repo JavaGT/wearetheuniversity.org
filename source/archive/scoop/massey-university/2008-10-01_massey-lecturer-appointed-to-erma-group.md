@@ -1,9 +1,12 @@
 ---
 slug: massey-lecturer-appointed-to-erma-group
-title: "Massey lecturer appointed to ERMA group"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/ED0810/S00005/massey-lecturer-appointed-to-erma-group.htm
+title: Massey lecturer appointed to ERMA group
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00005/massey-lecturer-appointed-to-erma-group.htm
 author: massey-university
+permalink: /archive/2008/10/01/massey-lecturer-appointed-to-erma-group/index.html
+layout: layout.njk
 ---
 Massey lecturer appointed to ERMA group
 =======================================

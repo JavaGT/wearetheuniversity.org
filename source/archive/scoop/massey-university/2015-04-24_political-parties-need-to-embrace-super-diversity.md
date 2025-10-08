@@ -1,9 +1,13 @@
 ---
 slug: political-parties-need-to-embrace-super-diversity
-title: "Political parties need to embrace ‘super-diversity’"
-date: 2015-04-24
-source-url: https://www.scoop.co.nz/stories/PO1504/S00225/political-parties-need-to-embrace-super-diversity.htm
+title: Political parties need to embrace ‘super-diversity’
+date: 2015-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00225/political-parties-need-to-embrace-super-diversity.htm
 author: massey-university
+permalink: >-
+  /archive/2015/04/24/political-parties-need-to-embrace-super-diversity/index.html
+layout: layout.njk
 ---
 Political parties need to embrace ‘super-diversity’
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-students-off-to-asia-on-pms-scholarships
-title: "Waikato students off to Asia on PM's scholarships"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/ED1702/S00085/waikato-students-off-to-asia-on-pms-scholarships.htm
+title: Waikato students off to Asia on PM's scholarships
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00085/waikato-students-off-to-asia-on-pms-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/02/28/waikato-students-off-to-asia-on-pms-scholarships/index.html
+layout: layout.njk
 ---
 Waikato students off to Asia on PM's scholarships
 =================================================

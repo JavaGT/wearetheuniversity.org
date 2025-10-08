@@ -1,9 +1,12 @@
 ---
 slug: source-of-unique-mānuka-factor-identified
-title: "Source Of Unique Mānuka Factor Identified"
-date: 2021-09-29
-source-url: https://www.scoop.co.nz/stories/SC2109/S00069/source-of-unique-manuka-factor-identified.htm
+title: Source Of Unique Mānuka Factor Identified
+date: 2021-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00069/source-of-unique-manuka-factor-identified.htm
 author: university-of-waikato
+permalink: /archive/2021/09/29/source-of-unique-m/index.html
+layout: layout.njk
 ---
 Source Of Unique Mānuka Factor Identified
 =========================================

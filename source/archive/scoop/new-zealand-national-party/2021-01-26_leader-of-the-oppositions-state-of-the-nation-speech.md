@@ -1,9 +1,13 @@
 ---
 slug: leader-of-the-oppositions-state-of-the-nation-speech
-title: "Leader Of The Opposition’s State Of The Nation Speech"
-date: 2021-01-26
-source-url: https://www.scoop.co.nz/stories/PA2101/S00071/leader-of-the-oppositions-state-of-the-nation-speech.htm
+title: Leader Of The Opposition’s State Of The Nation Speech
+date: 2021-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00071/leader-of-the-oppositions-state-of-the-nation-speech.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/01/26/leader-of-the-oppositions-state-of-the-nation-speech/index.html
+layout: layout.njk
 ---
 Leader Of The Opposition’s State Of The Nation Speech
 =====================================================

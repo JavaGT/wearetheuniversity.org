@@ -1,9 +1,12 @@
 ---
 slug: doing-the-extras-gets-you-the-job
-title: "Doing the extras gets you the job"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/ED1604/S00047/doing-the-extras-gets-you-the-job.htm
+title: Doing the extras gets you the job
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00047/doing-the-extras-gets-you-the-job.htm
 author: university-of-waikato
+permalink: /archive/2016/04/14/doing-the-extras-gets-you-the-job/index.html
+layout: layout.njk
 ---
 Doing the extras gets you the job
 =================================

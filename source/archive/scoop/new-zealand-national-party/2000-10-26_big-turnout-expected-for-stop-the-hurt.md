@@ -1,9 +1,12 @@
 ---
 slug: big-turnout-expected-for-stop-the-hurt
-title: "Big Turnout Expected For 'Stop The Hurt'"
-date: 2000-10-26
-source-url: https://www.scoop.co.nz/stories/PA0010/S00485/big-turnout-expected-for-stop-the-hurt.htm
+title: Big Turnout Expected For 'Stop The Hurt'
+date: 2000-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00485/big-turnout-expected-for-stop-the-hurt.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/26/big-turnout-expected-for-stop-the-hurt/index.html
+layout: layout.njk
 ---
 Big Turnout Expected For 'Stop The Hurt'
 ========================================

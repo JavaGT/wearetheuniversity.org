@@ -1,9 +1,12 @@
 ---
 slug: background-on-world-economic-forum
-title: "Background on World Economic Forum"
-date: 2000-09-07
-source-url: https://www.scoop.co.nz/stories/PA0009/S00120/background-on-world-economic-forum.htm
+title: Background on World Economic Forum
+date: 2000-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00120/background-on-world-economic-forum.htm
 author: green-party
+permalink: /archive/2000/09/07/background-on-world-economic-forum/index.html
+layout: layout.njk
 ---
 Background on World Economic Forum
 ==================================

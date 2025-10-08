@@ -1,9 +1,12 @@
 ---
 slug: time-for-truthful-narratives-on-immigration
-title: "Time For Truthful Narratives On Immigration"
-date: 2024-12-12
-source-url: https://www.scoop.co.nz/stories/WO2412/S00106/time-for-truthful-narratives-on-immigration.htm
+title: Time For Truthful Narratives On Immigration
+date: 2024-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2412/S00106/time-for-truthful-narratives-on-immigration.htm
 author: independent-media-institute
+permalink: /archive/2024/12/12/time-for-truthful-narratives-on-immigration/index.html
+layout: layout.njk
 ---
 Time For Truthful Narratives On Immigration
 ===========================================

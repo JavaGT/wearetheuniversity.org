@@ -1,9 +1,13 @@
 ---
 slug: radical-trojan-female-pest-control-approach-shows-promise
-title: "Radical \"Trojan Female\" pest control approach shows promise"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/SC1310/S00081/radical-trojan-female-pest-control-approach-shows-promise.htm
+title: Radical "Trojan Female" pest control approach shows promise
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00081/radical-trojan-female-pest-control-approach-shows-promise.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/10/30/radical-trojan-female-pest-control-approach-shows-promise/index.html
+layout: layout.njk
 ---
 Radical “Trojan Female” pest control approach shows promise
 ===========================================================

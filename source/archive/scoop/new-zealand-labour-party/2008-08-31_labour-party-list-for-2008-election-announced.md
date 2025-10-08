@@ -1,9 +1,12 @@
 ---
 slug: labour-party-list-for-2008-election-announced
-title: "Labour Party list for 2008 election announced"
-date: 2008-08-31
-source-url: https://www.scoop.co.nz/stories/PA0808/S00518/labour-party-list-for-2008-election-announced.htm
+title: Labour Party list for 2008 election announced
+date: 2008-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00518/labour-party-list-for-2008-election-announced.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/08/31/labour-party-list-for-2008-election-announced/index.html
+layout: layout.njk
 ---
 Labour Party list for 2008 election announced
 =============================================

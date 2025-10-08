@@ -1,9 +1,12 @@
 ---
 slug: probable-u-turn-on-auckland-rail-link-welcomed
-title: "Probable u-turn on Auckland rail link welcomed"
-date: 2013-06-26
-source-url: https://www.scoop.co.nz/stories/PA1306/S00398/probable-u-turn-on-auckland-rail-link-welcomed.htm
+title: Probable u-turn on Auckland rail link welcomed
+date: 2013-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00398/probable-u-turn-on-auckland-rail-link-welcomed.htm
 author: green-party
+permalink: /archive/2013/06/26/probable-u-turn-on-auckland-rail-link-welcomed/index.html
+layout: layout.njk
 ---
 Probable u-turn on Auckland rail link welcomed
 ==============================================

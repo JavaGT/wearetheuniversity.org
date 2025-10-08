@@ -1,9 +1,11 @@
 ---
 slug: has-the-right-seen-the-light
-title: "Has the Right seen the light?"
-date: 2004-12-09
+title: Has the Right seen the light?
+date: 2004-12-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00219/has-the-right-seen-the-light.htm
 author: green-party
+permalink: /archive/2004/12/09/has-the-right-seen-the-light/index.html
+layout: layout.njk
 ---
 Has the Right seen the light?
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: health-ministers-plan-yet-another-working-group
-title: "Health Minister’s ‘plan’ Yet Another Working Group"
-date: 2022-05-04
-source-url: https://www.scoop.co.nz/stories/PA2205/S00031/health-ministers-plan-yet-another-working-group.htm
+title: Health Minister’s ‘plan’ Yet Another Working Group
+date: 2022-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00031/health-ministers-plan-yet-another-working-group.htm
 author: new-zealand-national-party
+permalink: /archive/2022/05/04/health-ministers-plan-yet-another-working-group/index.html
+layout: layout.njk
 ---
 Health Minister’s ‘plan’ Yet Another Working Group
 ==================================================

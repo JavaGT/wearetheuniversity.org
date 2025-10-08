@@ -1,9 +1,12 @@
 ---
 slug: research-on-migrant-employment-at-victoria
-title: "Research on migrant employment at Victoria"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/ED0702/S00086/research-on-migrant-employment-at-victoria.htm
+title: Research on migrant employment at Victoria
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00086/research-on-migrant-employment-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/23/research-on-migrant-employment-at-victoria/index.html
+layout: layout.njk
 ---
 Research on migrant employment at Victoria
 ==========================================

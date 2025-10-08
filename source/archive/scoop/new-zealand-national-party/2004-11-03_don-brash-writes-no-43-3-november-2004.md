@@ -1,9 +1,12 @@
 ---
 slug: don-brash-writes-no-43-3-november-2004
-title: "Don Brash Writes - No. 43, 3 November 2004"
-date: 2004-11-03
-source-url: https://www.scoop.co.nz/stories/PA0411/S00063/don-brash-writes-no-43-3-november-2004.htm
+title: Don Brash Writes - No. 43, 3 November 2004
+date: 2004-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00063/don-brash-writes-no-43-3-november-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/03/don-brash-writes-no-43-3-november-2004/index.html
+layout: layout.njk
 ---
 Don Brash Writes - No. 43, 3 November 2004
 ==========================================

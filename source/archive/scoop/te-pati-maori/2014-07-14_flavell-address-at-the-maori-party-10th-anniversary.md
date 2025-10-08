@@ -1,9 +1,13 @@
 ---
 slug: flavell-address-at-the-maori-party-10th-anniversary
-title: "Flavell: Address at the Maori Party 10th Anniversary"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PA1407/S00248/flavell-address-at-the-maori-party-10th-anniversary.htm
+title: 'Flavell: Address at the Maori Party 10th Anniversary'
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00248/flavell-address-at-the-maori-party-10th-anniversary.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/07/14/flavell-address-at-the-maori-party-10th-anniversary/index.html
+layout: layout.njk
 ---
 Flavell: Address at the Maori Party 10th Anniversary
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-summary-offences-(tagging-and-graffiti)
-title: "Flavell: Summary Offences (Tagging and Graffiti)"
-date: 2008-02-21
-source-url: https://www.scoop.co.nz/stories/PA0802/S00359/flavell-summary-offences-tagging-and-graffiti.htm
+title: 'Flavell: Summary Offences (Tagging and Graffiti)'
+date: 2008-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00359/flavell-summary-offences-tagging-and-graffiti.htm
 author: te-pati-maori
+permalink: /archive/2008/02/21/flavell-summary-offences-/index.html
+layout: layout.njk
 ---
 Flavell: Summary Offences (Tagging and Graffiti)
 ================================================

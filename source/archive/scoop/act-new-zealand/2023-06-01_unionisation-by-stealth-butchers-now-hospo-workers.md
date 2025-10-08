@@ -1,9 +1,13 @@
 ---
 slug: unionisation-by-stealth-butchers-now-hospo-workers
-title: "Unionisation By Stealth: Butchers Now Hospo Workers"
-date: 2023-06-01
-source-url: https://www.scoop.co.nz/stories/PA2306/S00002/unionisation-by-stealth-butchers-now-hospo-workers.htm
+title: 'Unionisation By Stealth: Butchers Now Hospo Workers'
+date: 2023-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00002/unionisation-by-stealth-butchers-now-hospo-workers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/01/unionisation-by-stealth-butchers-now-hospo-workers/index.html
+layout: layout.njk
 ---
 Unionisation By Stealth: Butchers Now Hospo Workers
 ===================================================

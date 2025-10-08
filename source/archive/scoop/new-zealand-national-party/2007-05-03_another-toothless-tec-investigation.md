@@ -1,9 +1,12 @@
 ---
 slug: another-toothless-tec-investigation
-title: "Another toothless TEC investigation"
-date: 2007-05-03
-source-url: https://www.scoop.co.nz/stories/ED0705/S00007/another-toothless-tec-investigation.htm
+title: Another toothless TEC investigation
+date: 2007-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00007/another-toothless-tec-investigation.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/03/another-toothless-tec-investigation/index.html
+layout: layout.njk
 ---
 Another toothless TEC investigation
 ===================================

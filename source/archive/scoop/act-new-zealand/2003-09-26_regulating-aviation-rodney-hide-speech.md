@@ -1,9 +1,12 @@
 ---
 slug: regulating-aviation-rodney-hide-speech
-title: "Regulating Aviation - Rodney Hide  Speech"
-date: 2003-09-26
-source-url: https://www.scoop.co.nz/stories/PA0309/S00564/regulating-aviation-rodney-hide-speech.htm
+title: Regulating Aviation - Rodney Hide  Speech
+date: 2003-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00564/regulating-aviation-rodney-hide-speech.htm
 author: act-new-zealand
+permalink: /archive/2003/09/26/regulating-aviation-rodney-hide-speech/index.html
+layout: layout.njk
 ---
 Regulating Aviation - Rodney Hide Speech
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: liggins-investigator-wins-international-research-funding
-title: "Liggins investigator wins international research funding"
-date: 2011-10-17
-source-url: https://www.scoop.co.nz/stories/ED1110/S00067/liggins-investigator-wins-international-research-funding.htm
+title: Liggins investigator wins international research funding
+date: 2011-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00067/liggins-investigator-wins-international-research-funding.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/10/17/liggins-investigator-wins-international-research-funding/index.html
+layout: layout.njk
 ---
 Liggins investigator wins international research funding
 ========================================================

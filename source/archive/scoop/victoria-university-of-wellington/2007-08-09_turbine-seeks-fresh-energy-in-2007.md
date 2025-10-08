@@ -1,9 +1,12 @@
 ---
 slug: turbine-seeks-fresh-energy-in-2007
-title: "Turbine seeks fresh energy in 2007"
-date: 2007-08-09
-source-url: https://www.scoop.co.nz/stories/CU0708/S00108/turbine-seeks-fresh-energy-in-2007.htm
+title: Turbine seeks fresh energy in 2007
+date: 2007-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00108/turbine-seeks-fresh-energy-in-2007.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/09/turbine-seeks-fresh-energy-in-2007/index.html
+layout: layout.njk
 ---
 Turbine seeks fresh energy in 2007
 ==================================

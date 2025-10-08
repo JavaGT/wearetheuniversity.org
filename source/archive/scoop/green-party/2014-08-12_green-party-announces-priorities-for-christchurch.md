@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-priorities-for-christchurch
-title: "Green Party announces priorities for Christchurch"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/PA1408/S00191/green-party-announces-priorities-for-christchurch.htm
+title: Green Party announces priorities for Christchurch
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00191/green-party-announces-priorities-for-christchurch.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/12/green-party-announces-priorities-for-christchurch/index.html
+layout: layout.njk
 ---
 Green Party announces priorities for Christchurch
 =================================================

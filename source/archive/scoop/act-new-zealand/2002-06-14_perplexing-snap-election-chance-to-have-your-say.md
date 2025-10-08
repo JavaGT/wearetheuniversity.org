@@ -1,9 +1,13 @@
 ---
 slug: perplexing-snap-election-chance-to-have-your-say
-title: "Perplexing Snap Election Chance to Have Your Say"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00233/perplexing-snap-election-chance-to-have-your-say.htm
+title: Perplexing Snap Election Chance to Have Your Say
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00233/perplexing-snap-election-chance-to-have-your-say.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/06/14/perplexing-snap-election-chance-to-have-your-say/index.html
+layout: layout.njk
 ---
 Perplexing Snap Election Chance to Have Your Say
 ================================================

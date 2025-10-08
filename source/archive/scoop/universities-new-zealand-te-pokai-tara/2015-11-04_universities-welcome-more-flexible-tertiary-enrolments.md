@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-more-flexible-tertiary-enrolments
-title: "Universities welcome more flexible tertiary enrolments"
-date: 2015-11-04
-source-url: https://www.scoop.co.nz/stories/ED1511/S00018/universities-welcome-more-flexible-tertiary-enrolments.htm
+title: Universities welcome more flexible tertiary enrolments
+date: 2015-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00018/universities-welcome-more-flexible-tertiary-enrolments.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/11/04/universities-welcome-more-flexible-tertiary-enrolments/index.html
+layout: layout.njk
 ---
 Universities welcome more flexible tertiary enrolments
 ======================================================

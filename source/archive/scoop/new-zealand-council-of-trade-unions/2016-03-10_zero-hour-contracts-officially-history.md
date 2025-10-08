@@ -1,9 +1,12 @@
 ---
 slug: zero-hour-contracts-officially-history
-title: "Zero hour contracts officially history"
-date: 2016-03-10
-source-url: https://www.scoop.co.nz/stories/PO1603/S00178/zero-hour-contracts-officially-history.htm
+title: Zero hour contracts officially history
+date: 2016-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00178/zero-hour-contracts-officially-history.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2016/03/10/zero-hour-contracts-officially-history/index.html
+layout: layout.njk
 ---
 Zero hour contracts officially history
 ======================================

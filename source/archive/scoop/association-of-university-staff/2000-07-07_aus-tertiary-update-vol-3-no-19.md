@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-19
-title: "AUS Tertiary Update Vol 3. No. 19"
-date: 2000-07-07
-source-url: https://www.scoop.co.nz/stories/ED0007/S00006/aus-tertiary-update-vol-3-no-19.htm
+title: AUS Tertiary Update Vol 3. No. 19
+date: 2000-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00006/aus-tertiary-update-vol-3-no-19.htm
 author: association-of-university-staff
+permalink: /archive/2000/07/07/aus-tertiary-update-vol-3-no-19/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 3. No. 19
 =================================

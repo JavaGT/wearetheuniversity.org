@@ -1,9 +1,12 @@
 ---
 slug: rural-pubs-follow-smokefree-law
-title: "Rural pubs follow smokefree law"
-date: 2011-04-15
-source-url: https://www.scoop.co.nz/stories/CU1104/S00268/rural-pubs-follow-smokefree-law.htm
+title: Rural pubs follow smokefree law
+date: 2011-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1104/S00268/rural-pubs-follow-smokefree-law.htm
 author: university-of-otago
+permalink: /archive/2011/04/15/rural-pubs-follow-smokefree-law/index.html
+layout: layout.njk
 ---
 Rural pubs follow smokefree law
 ===============================

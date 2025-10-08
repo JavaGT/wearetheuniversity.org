@@ -1,9 +1,12 @@
 ---
 slug: students-demand-living-allowance
-title: "Students Demand Living Allowance"
-date: 2007-05-15
-source-url: https://www.scoop.co.nz/stories/ED0705/S00064/students-demand-living-allowance.htm
+title: Students Demand Living Allowance
+date: 2007-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00064/students-demand-living-allowance.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/15/students-demand-living-allowance/index.html
+layout: layout.njk
 ---
 Students Demand Living Allowance
 ================================

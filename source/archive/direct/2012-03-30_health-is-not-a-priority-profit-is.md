@@ -1,10 +1,13 @@
 ---
 title: Health Is Not a Priority, Profit Is
 slug: health-is-not-a-priority-profit-is
-date: 2012-03-30
-source: https://web.archive.org/web/20130208031241/http://wearetheuniversity.org.nz/2012/03/30/health-is-not-a-priority-profit-is/
+date: 2012-03-30T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031241/http://wearetheuniversity.org.nz/2012/03/30/health-is-not-a-priority-profit-is/
 author: Hala Nasr
 author-slug: hala-nasr
+permalink: /archive/2012/03/30/health-is-not-a-priority-profit-is/index.html
+layout: layout.njk
 ---
 
 Have to say, the middle management at the university certainly are consistent – never failing to drive home one inexhaustible message to students: ‘Show us the money!’

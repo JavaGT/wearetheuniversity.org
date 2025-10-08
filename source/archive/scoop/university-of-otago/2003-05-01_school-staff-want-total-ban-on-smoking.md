@@ -1,9 +1,12 @@
 ---
 slug: school-staff-want-total-ban-on-smoking
-title: "School Staff Want Total Ban On Smoking"
-date: 2003-05-01
-source-url: https://www.scoop.co.nz/stories/ED0305/S00005/school-staff-want-total-ban-on-smoking.htm
+title: School Staff Want Total Ban On Smoking
+date: 2003-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00005/school-staff-want-total-ban-on-smoking.htm
 author: university-of-otago
+permalink: /archive/2003/05/01/school-staff-want-total-ban-on-smoking/index.html
+layout: layout.njk
 ---
 School Staff Want Total Ban On Smoking
 ======================================

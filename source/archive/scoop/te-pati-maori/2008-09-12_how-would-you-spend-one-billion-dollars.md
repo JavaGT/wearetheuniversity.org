@@ -1,9 +1,12 @@
 ---
 slug: how-would-you-spend-one-billion-dollars
-title: "How would you spend One Billion Dollars?"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PO0809/S00184/how-would-you-spend-one-billion-dollars.htm
+title: How would you spend One Billion Dollars?
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00184/how-would-you-spend-one-billion-dollars.htm
 author: te-pati-maori
+permalink: /archive/2008/09/12/how-would-you-spend-one-billion-dollars/index.html
+layout: layout.njk
 ---
 How would you spend One Billion Dollars?
 ========================================

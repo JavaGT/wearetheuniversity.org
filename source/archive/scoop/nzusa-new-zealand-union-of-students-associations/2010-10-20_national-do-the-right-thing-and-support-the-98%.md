@@ -1,9 +1,12 @@
 ---
 slug: national-do-the-right-thing-and-support-the-98%
-title: "National – do the right thing, and support the 98%"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PO1010/S00214/national-do-the-right-thing-and-support-the-98.htm
+title: National – do the right thing, and support the 98%
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00214/national-do-the-right-thing-and-support-the-98.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/10/20/national-do-the-right-thing-and-support-the-98/index.html
+layout: layout.njk
 ---
 National – do the right thing, and support the 98%
 ==================================================

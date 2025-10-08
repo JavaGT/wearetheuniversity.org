@@ -1,9 +1,12 @@
 ---
 slug: national-will-pay-good-teachers-more
-title: "National Will Pay Good Teachers More"
-date: 2002-06-19
-source-url: https://www.scoop.co.nz/stories/PA0206/S00322/national-will-pay-good-teachers-more.htm
+title: National Will Pay Good Teachers More
+date: 2002-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00322/national-will-pay-good-teachers-more.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/19/national-will-pay-good-teachers-more/index.html
+layout: layout.njk
 ---
 National Will Pay Good Teachers More
 ====================================

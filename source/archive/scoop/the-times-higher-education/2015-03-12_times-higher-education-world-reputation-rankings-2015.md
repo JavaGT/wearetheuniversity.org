@@ -1,9 +1,13 @@
 ---
 slug: times-higher-education-world-reputation-rankings-2015
-title: "Times Higher Education World Reputation Rankings 2015"
-date: 2015-03-12
-source-url: https://www.scoop.co.nz/stories/WO1503/S00096/times-higher-education-world-reputation-rankings-2015.htm
+title: Times Higher Education World Reputation Rankings 2015
+date: 2015-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1503/S00096/times-higher-education-world-reputation-rankings-2015.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2015/03/12/times-higher-education-world-reputation-rankings-2015/index.html
+layout: layout.njk
 ---
 Times Higher Education World Reputation Rankings 2015
 =====================================================

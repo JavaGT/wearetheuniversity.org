@@ -1,9 +1,12 @@
 ---
 slug: councillors-get-on-board-with-fairer-fares
-title: "Councillors get on board with Fairer Fares"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/PO1406/S00175/councillors-get-on-board-with-fairer-fares.htm
+title: Councillors get on board with Fairer Fares
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00175/councillors-get-on-board-with-fairer-fares.htm
 author: vuwsa
+permalink: /archive/2014/06/12/councillors-get-on-board-with-fairer-fares/index.html
+layout: layout.njk
 ---
 Councillors get on board with Fairer Fares
 ==========================================

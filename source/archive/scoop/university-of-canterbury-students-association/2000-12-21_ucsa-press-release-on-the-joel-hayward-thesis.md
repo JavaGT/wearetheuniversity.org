@@ -1,9 +1,12 @@
 ---
 slug: ucsa-press-release-on-the-joel-hayward-thesis
-title: "UCSA Press Release on the Joel Hayward Thesis"
-date: 2000-12-21
-source-url: https://www.scoop.co.nz/stories/ED0012/S00016/ucsa-press-release-on-the-joel-hayward-thesis.htm
+title: UCSA Press Release on the Joel Hayward Thesis
+date: 2000-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00016/ucsa-press-release-on-the-joel-hayward-thesis.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2000/12/21/ucsa-press-release-on-the-joel-hayward-thesis/index.html
+layout: layout.njk
 ---
 UCSA Press Release on the Joel Hayward Thesis
 =============================================

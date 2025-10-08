@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-acknowledges-the-passing-of-doig
-title: "Lincoln University acknowledges the passing of Doig"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/ED1110/S00055/lincoln-university-acknowledges-the-passing-of-doig.htm
+title: Lincoln University acknowledges the passing of Doig
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00055/lincoln-university-acknowledges-the-passing-of-doig.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/10/13/lincoln-university-acknowledges-the-passing-of-doig/index.html
+layout: layout.njk
 ---
 Lincoln University acknowledges the passing of Doig
 ===================================================

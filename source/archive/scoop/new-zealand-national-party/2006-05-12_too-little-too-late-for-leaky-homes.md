@@ -1,9 +1,12 @@
 ---
 slug: too-little-too-late-for-leaky-homes
-title: "Too little, too late for leaky homes"
-date: 2006-05-12
-source-url: https://www.scoop.co.nz/stories/PA0605/S00297/too-little-too-late-for-leaky-homes.htm
+title: Too little, too late for leaky homes
+date: 2006-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00297/too-little-too-late-for-leaky-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/12/too-little-too-late-for-leaky-homes/index.html
+layout: layout.njk
 ---
 Too little, too late for leaky homes
 ====================================

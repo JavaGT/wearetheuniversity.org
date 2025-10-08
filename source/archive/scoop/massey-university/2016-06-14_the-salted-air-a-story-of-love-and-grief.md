@@ -1,9 +1,12 @@
 ---
 slug: the-salted-air-a-story-of-love-and-grief
-title: "The Salted Air – a story of love and grief"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/ED1606/S00041/the-salted-air-a-story-of-love-and-grief.htm
+title: The Salted Air – a story of love and grief
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00041/the-salted-air-a-story-of-love-and-grief.htm
 author: massey-university
+permalink: /archive/2016/06/14/the-salted-air-a-story-of-love-and-grief/index.html
+layout: layout.njk
 ---
 The Salted Air – a story of love and grief
 ==========================================

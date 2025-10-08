@@ -1,9 +1,11 @@
 ---
 slug: winston-peters-replies
-title: "Winston Peters Replies"
-date: 2014-01-28
+title: Winston Peters Replies
+date: 2014-01-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1401/S00168/winston-peters-replies.htm
 author: new-zealand-first-party
+permalink: /archive/2014/01/28/winston-peters-replies/index.html
+layout: layout.njk
 ---
 Winston Peters Replies
 ======================

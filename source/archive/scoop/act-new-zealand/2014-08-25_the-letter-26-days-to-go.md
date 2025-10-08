@@ -1,9 +1,11 @@
 ---
 slug: the-letter-26-days-to-go
-title: "The Letter - 26 days to go"
-date: 2014-08-25
+title: The Letter - 26 days to go
+date: 2014-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1408/S00407/the-letter-26-days-to-go.htm
 author: act-new-zealand
+permalink: /archive/2014/08/25/the-letter-26-days-to-go/index.html
+layout: layout.njk
 ---
 The Letter - 26 days to go
 ==========================

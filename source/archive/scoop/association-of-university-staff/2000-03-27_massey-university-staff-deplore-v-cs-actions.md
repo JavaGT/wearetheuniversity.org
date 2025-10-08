@@ -1,9 +1,12 @@
 ---
 slug: massey-university-staff-deplore-v-cs-actions
-title: "Massey University Staff deplore V-C's actions"
-date: 2000-03-27
-source-url: https://www.scoop.co.nz/stories/ED0003/S00050/massey-university-staff-deplore-v-cs-actions.htm
+title: Massey University Staff deplore V-C's actions
+date: 2000-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00050/massey-university-staff-deplore-v-cs-actions.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/27/massey-university-staff-deplore-v-cs-actions/index.html
+layout: layout.njk
 ---
 Massey University Staff deplore V-C's actions
 =============================================

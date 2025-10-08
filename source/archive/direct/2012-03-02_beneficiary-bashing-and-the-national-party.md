@@ -1,10 +1,13 @@
 ---
 title: Beneficiary Bashing and the National Party
 slug: beneficiary-bashing-and-the-national-party
-date: 2012-03-02
-source: https://web.archive.org/web/20130208081823/http://wearetheuniversity.org.nz/2012/03/02/beneficiary-bashing-and-the-national-party/
+date: 2012-03-02T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208081823/http://wearetheuniversity.org.nz/2012/03/02/beneficiary-bashing-and-the-national-party/
 author: Hala Nasr
 author-slug: hala-nasr
+permalink: /archive/2012/03/02/beneficiary-bashing-and-the-national-party/index.html
+layout: layout.njk
 ---
 
 When it comes to National Party policy, don’t let John Key’s smarmy smile or Paula Bennett’s ‘scientific evidence’ fool you. A flick through their cryptically proposed welfare reforms and it is quite clear what they are implying without explicitly saying it. Tricky! Although this mightn’t come as much of a surprise considering our PM has never been one for transparency or honesty – refer to the Tea party tape and the backdoor meetings with Petrobas, despite the very recent and very poorly-managed RENA disaster. Bennett claims the Welfare reforms are “resetting expectations,” so let’s take a look at what that really means.

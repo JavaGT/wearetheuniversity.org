@@ -1,9 +1,12 @@
 ---
 slug: health-dollars-blown-on-bureaucracy
-title: "Health Dollars Blown On Bureaucracy"
-date: 2007-10-05
-source-url: https://www.scoop.co.nz/stories/PA0710/S00093/health-dollars-blown-on-bureaucracy.htm
+title: Health Dollars Blown On Bureaucracy
+date: 2007-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00093/health-dollars-blown-on-bureaucracy.htm
 author: act-new-zealand
+permalink: /archive/2007/10/05/health-dollars-blown-on-bureaucracy/index.html
+layout: layout.njk
 ---
 Health Dollars Blown On Bureaucracy
 ===================================

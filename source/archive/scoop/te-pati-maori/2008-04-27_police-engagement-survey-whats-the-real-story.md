@@ -1,9 +1,12 @@
 ---
 slug: police-engagement-survey-whats-the-real-story
-title: "Police Engagement Survey - What’s the real story?"
-date: 2008-04-27
-source-url: https://www.scoop.co.nz/stories/PA0804/S00581/police-engagement-survey-whats-the-real-story.htm
+title: Police Engagement Survey - What’s the real story?
+date: 2008-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00581/police-engagement-survey-whats-the-real-story.htm
 author: te-pati-maori
+permalink: /archive/2008/04/27/police-engagement-survey-whats-the-real-story/index.html
+layout: layout.njk
 ---
 Police Engagement Survey - What’s the real story?
 =================================================

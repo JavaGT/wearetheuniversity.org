@@ -1,9 +1,13 @@
 ---
 slug: uc-student-event-planners-innovate-in-time-of-change
-title: "UC Student Event Planners Innovate In Time Of Change"
-date: 2020-04-02
-source-url: https://www.scoop.co.nz/stories/SC2004/S00004/uc-student-event-planners-innovate-in-time-of-change.htm
+title: UC Student Event Planners Innovate In Time Of Change
+date: 2020-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2004/S00004/uc-student-event-planners-innovate-in-time-of-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/04/02/uc-student-event-planners-innovate-in-time-of-change/index.html
+layout: layout.njk
 ---
 UC Student Event Planners Innovate In Time Of Change
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: project-protector-taking-on-water
-title: "Project Protector – taking on water"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00232/project-protector-taking-on-water.htm
+title: Project Protector – taking on water
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00232/project-protector-taking-on-water.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/project-protector-taking-on-water/index.html
+layout: layout.njk
 ---
 Project Protector – taking on water
 ===================================

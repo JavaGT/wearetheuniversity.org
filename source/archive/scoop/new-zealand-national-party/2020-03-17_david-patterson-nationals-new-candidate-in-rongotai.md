@@ -1,9 +1,13 @@
 ---
 slug: david-patterson-nationals-new-candidate-in-rongotai
-title: "David Patterson National’s New Candidate In Rongotai"
-date: 2020-03-17
-source-url: https://www.scoop.co.nz/stories/PO2003/S00202/david-patterson-nationals-new-candidate-in-rongotai.htm
+title: David Patterson National’s New Candidate In Rongotai
+date: 2020-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2003/S00202/david-patterson-nationals-new-candidate-in-rongotai.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/03/17/david-patterson-nationals-new-candidate-in-rongotai/index.html
+layout: layout.njk
 ---
 David Patterson National’s New Candidate In Rongotai
 ====================================================

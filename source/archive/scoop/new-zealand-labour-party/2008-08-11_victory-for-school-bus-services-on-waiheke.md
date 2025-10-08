@@ -1,9 +1,12 @@
 ---
 slug: victory-for-school-bus-services-on-waiheke
-title: "Victory for school bus services on Waiheke"
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/PA0808/S00173/victory-for-school-bus-services-on-waiheke.htm
+title: Victory for school bus services on Waiheke
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00173/victory-for-school-bus-services-on-waiheke.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/08/11/victory-for-school-bus-services-on-waiheke/index.html
+layout: layout.njk
 ---
 Victory for school bus services on Waiheke
 ==========================================

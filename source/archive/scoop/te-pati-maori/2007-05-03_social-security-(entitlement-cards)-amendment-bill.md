@@ -1,9 +1,12 @@
 ---
 slug: social-security-(entitlement-cards)-amendment-bill
-title: "Social Security (Entitlement Cards) Amendment Bill"
-date: 2007-05-03
-source-url: https://www.scoop.co.nz/stories/PA0705/S00104/social-security-entitlement-cards-amendment-bill.htm
+title: Social Security (Entitlement Cards) Amendment Bill
+date: 2007-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00104/social-security-entitlement-cards-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/05/03/social-security-/index.html
+layout: layout.njk
 ---
 Social Security (Entitlement Cards) Amendment Bill
 ==================================================

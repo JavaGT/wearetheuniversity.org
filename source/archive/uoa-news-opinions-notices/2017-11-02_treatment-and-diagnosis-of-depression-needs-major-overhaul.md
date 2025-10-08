@@ -1,8 +1,12 @@
 ---
 slug: treatment-and-diagnosis-of-depression-needs-major-overhaul
-title: "Treatment and diagnosis of depression needs major overhaul"
-date: 2017-11-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/depression-treatment-needs-overhaul.html
+title: Treatment and diagnosis of depression needs major overhaul
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/depression-treatment-needs-overhaul.html
+permalink: >-
+  /archive/2017/11/02/treatment-and-diagnosis-of-depression-needs-major-overhaul/index.html
+layout: layout.njk
 ---
 Treatment and diagnosis of depression needs major overhaul
 ==========================================================

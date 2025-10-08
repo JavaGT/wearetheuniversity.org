@@ -1,9 +1,12 @@
 ---
 slug: new-resource-for-journalists-and-students
-title: "New Resource for Journalists and Students"
-date: 2004-02-27
-source-url: https://www.scoop.co.nz/stories/BU0402/S00359/new-resource-for-journalists-and-students.htm
+title: New Resource for Journalists and Students
+date: 2004-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0402/S00359/new-resource-for-journalists-and-students.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/02/27/new-resource-for-journalists-and-students/index.html
+layout: layout.njk
 ---
 New Resource for Journalists and Students
 =========================================

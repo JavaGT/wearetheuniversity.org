@@ -1,9 +1,12 @@
 ---
 slug: dark-day-for-otago-student-fees
-title: "Dark Day For Otago Student Fees"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/ED0711/S00071/dark-day-for-otago-student-fees.htm
+title: Dark Day For Otago Student Fees
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00071/dark-day-for-otago-student-fees.htm
 author: otago-university-students-association
+permalink: /archive/2007/11/14/dark-day-for-otago-student-fees/index.html
+layout: layout.njk
 ---
 Dark Day For Otago Student Fees
 ===============================

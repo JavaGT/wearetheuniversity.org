@@ -1,9 +1,12 @@
 ---
 slug: nick-smith-a-sustainable-government
-title: "Nick Smith: ‘A Sustainable Government’"
-date: 2008-01-24
-source-url: https://www.scoop.co.nz/stories/PA0801/S00164/nick-smith-a-sustainable-government.htm
+title: 'Nick Smith: ‘A Sustainable Government’'
+date: 2008-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00164/nick-smith-a-sustainable-government.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/24/nick-smith-a-sustainable-government/index.html
+layout: layout.njk
 ---
 Nick Smith: ‘A Sustainable Government’
 ======================================

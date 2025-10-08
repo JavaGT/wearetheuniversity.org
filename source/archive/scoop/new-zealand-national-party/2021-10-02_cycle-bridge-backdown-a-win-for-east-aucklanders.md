@@ -1,9 +1,13 @@
 ---
 slug: cycle-bridge-backdown-a-win-for-east-aucklanders
-title: "Cycle Bridge Backdown A Win For East Aucklanders"
-date: 2021-10-02
-source-url: https://www.scoop.co.nz/stories/PA2110/S00015/cycle-bridge-backdown-a-win-for-east-aucklanders.htm
+title: Cycle Bridge Backdown A Win For East Aucklanders
+date: 2021-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00015/cycle-bridge-backdown-a-win-for-east-aucklanders.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/02/cycle-bridge-backdown-a-win-for-east-aucklanders/index.html
+layout: layout.njk
 ---
 Cycle Bridge Backdown A Win For East Aucklanders
 ================================================

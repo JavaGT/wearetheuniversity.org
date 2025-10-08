@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-18-july-2008
-title: "Collins Comments 18  July 2008"
-date: 2008-07-18
-source-url: https://www.scoop.co.nz/stories/PA0807/S00332/collins-comments-18-july-2008.htm
+title: Collins Comments 18  July 2008
+date: 2008-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00332/collins-comments-18-july-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/18/collins-comments-18-july-2008/index.html
+layout: layout.njk
 ---
 Collins Comments 18 July 2008
 =============================

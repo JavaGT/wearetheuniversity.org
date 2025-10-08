@@ -1,9 +1,11 @@
 ---
 slug: why-property-rights-matter
-title: "Why Property Rights Matter"
-date: 2020-02-27
+title: Why Property Rights Matter
+date: 2020-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2002/S00189/why-property-rights-matter.htm
 author: act-new-zealand
+permalink: /archive/2020/02/27/why-property-rights-matter/index.html
+layout: layout.njk
 ---
 Why Property Rights Matter
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: kiwi-kids-health-ignored-by-education-minister
-title: "Kiwi kids health ignored by Education Minister"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00372/kiwi-kids-health-ignored-by-education-minister.htm
+title: Kiwi kids health ignored by Education Minister
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00372/kiwi-kids-health-ignored-by-education-minister.htm
 author: green-party
+permalink: /archive/2009/04/30/kiwi-kids-health-ignored-by-education-minister/index.html
+layout: layout.njk
 ---
 Kiwi kids health ignored by Education Minister
 ==============================================

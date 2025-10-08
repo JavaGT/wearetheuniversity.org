@@ -1,9 +1,12 @@
 ---
 slug: mps-misuse-research-on-smoking-study
-title: "MPs misuse research on smoking – Study"
-date: 2007-12-10
-source-url: https://www.scoop.co.nz/stories/PO0712/S00098/mps-misuse-research-on-smoking-study.htm
+title: MPs misuse research on smoking – Study
+date: 2007-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0712/S00098/mps-misuse-research-on-smoking-study.htm
 author: university-of-otago
+permalink: /archive/2007/12/10/mps-misuse-research-on-smoking-study/index.html
+layout: layout.njk
 ---
 MPs misuse research on smoking – Study
 ======================================

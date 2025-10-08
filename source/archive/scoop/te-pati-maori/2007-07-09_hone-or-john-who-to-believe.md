@@ -1,9 +1,11 @@
 ---
 slug: hone-or-john-who-to-believe
-title: "Hone or John: who to believe?"
-date: 2007-07-09
+title: 'Hone or John: who to believe?'
+date: 2007-07-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0707/S00145/hone-or-john-who-to-believe.htm
 author: te-pati-maori
+permalink: /archive/2007/07/09/hone-or-john-who-to-believe/index.html
+layout: layout.njk
 ---
 Hone or John: who to believe?
 =============================

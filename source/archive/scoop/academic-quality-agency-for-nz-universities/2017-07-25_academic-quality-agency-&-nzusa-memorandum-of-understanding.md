@@ -1,9 +1,12 @@
 ---
 slug: academic-quality-agency-&-nzusa-memorandum-of-understanding
-title: "Academic Quality Agency & NZUSA Memorandum of Understanding"
-date: 2017-07-25
-source-url: https://www.scoop.co.nz/stories/ED1707/S00082/academic-quality-agency-nzusa-memorandum-of-understanding.htm
+title: Academic Quality Agency & NZUSA Memorandum of Understanding
+date: 2017-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00082/academic-quality-agency-nzusa-memorandum-of-understanding.htm
 author: academic-quality-agency-for-nz-universities
+permalink: /archive/2017/07/25/academic-quality-agency-/index.html
+layout: layout.njk
 ---
 Academic Quality Agency & NZUSA Memorandum of Understanding
 ===========================================================

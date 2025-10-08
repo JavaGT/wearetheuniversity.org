@@ -1,9 +1,12 @@
 ---
 slug: sneaky-plastics-hiding-in-plain-sight
-title: "Sneaky Plastics Hiding In Plain Sight"
-date: 2022-06-29
-source-url: https://www.scoop.co.nz/stories/SC2206/S00047/sneaky-plastics-hiding-in-plain-sight.htm
+title: Sneaky Plastics Hiding In Plain Sight
+date: 2022-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00047/sneaky-plastics-hiding-in-plain-sight.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/29/sneaky-plastics-hiding-in-plain-sight/index.html
+layout: layout.njk
 ---
 Sneaky Plastics Hiding In Plain Sight
 =====================================

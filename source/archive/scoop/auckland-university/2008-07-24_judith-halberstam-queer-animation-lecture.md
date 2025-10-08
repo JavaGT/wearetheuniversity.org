@@ -1,9 +1,12 @@
 ---
 slug: judith-halberstam-queer-animation-lecture
-title: "Judith Halberstam: Queer Animation lecture"
-date: 2008-07-24
-source-url: https://www.scoop.co.nz/stories/CU0807/S00259/judith-halberstam-queer-animation-lecture.htm
+title: 'Judith Halberstam: Queer Animation lecture'
+date: 2008-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0807/S00259/judith-halberstam-queer-animation-lecture.htm
 author: auckland-university
+permalink: /archive/2008/07/24/judith-halberstam-queer-animation-lecture/index.html
+layout: layout.njk
 ---
 Judith Halberstam: Queer Animation lecture
 ==========================================

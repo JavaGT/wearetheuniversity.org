@@ -1,9 +1,13 @@
 ---
 slug: minister-tries-creative-accounting-with-abuse-no-s
-title: "Minister tries creative accounting with abuse no.s"
-date: 2004-09-22
-source-url: https://www.scoop.co.nz/stories/PA0409/S00460/minister-tries-creative-accounting-with-abuse-nos.htm
+title: Minister tries creative accounting with abuse no.s
+date: 2004-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00460/minister-tries-creative-accounting-with-abuse-nos.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/09/22/minister-tries-creative-accounting-with-abuse-no-s/index.html
+layout: layout.njk
 ---
 Minister tries creative accounting with abuse no.s
 ==================================================

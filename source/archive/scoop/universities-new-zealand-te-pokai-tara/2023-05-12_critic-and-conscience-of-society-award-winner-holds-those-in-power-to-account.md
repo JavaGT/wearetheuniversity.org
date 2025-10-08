@@ -1,9 +1,13 @@
 ---
 slug: critic-and-conscience-of-society-award-winner-holds-those-in-power-to-account
-title: "Critic And Conscience Of Society Award Winner Holds Those In Power To Account"
-date: 2023-05-12
-source-url: https://www.scoop.co.nz/stories/ED2305/S00016/critic-and-conscience-of-society-award-winner-holds-those-in-power-to-account.htm
+title: Critic And Conscience Of Society Award Winner Holds Those In Power To Account
+date: 2023-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2305/S00016/critic-and-conscience-of-society-award-winner-holds-those-in-power-to-account.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/05/12/critic-and-conscience-of-society-award-winner-holds-those-in-power-to-account/index.html
+layout: layout.njk
 ---
 Critic And Conscience Of Society Award Winner Holds Those In Power To Account
 =============================================================================

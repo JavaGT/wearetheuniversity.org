@@ -1,9 +1,13 @@
 ---
 slug: nationwide-study-to-boost-prevention-of-leptospirosis
-title: "Nationwide study to boost prevention of leptospirosis"
-date: 2015-09-28
-source-url: https://www.scoop.co.nz/stories/GE1509/S00136/nationwide-study-to-boost-prevention-of-leptospirosis.htm
+title: Nationwide study to boost prevention of leptospirosis
+date: 2015-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1509/S00136/nationwide-study-to-boost-prevention-of-leptospirosis.htm
 author: massey-university
+permalink: >-
+  /archive/2015/09/28/nationwide-study-to-boost-prevention-of-leptospirosis/index.html
+layout: layout.njk
 ---
 Nationwide study to boost prevention of leptospirosis
 =====================================================

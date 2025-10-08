@@ -1,9 +1,13 @@
 ---
 slug: government-adopts-acts-rugby-world-cup-legislation
-title: "Government adopts ACT's Rugby World Cup legislation"
-date: 2019-08-21
-source-url: https://www.scoop.co.nz/stories/PA1908/S00214/government-adopts-acts-rugby-world-cup-legislation.htm
+title: Government adopts ACT's Rugby World Cup legislation
+date: 2019-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00214/government-adopts-acts-rugby-world-cup-legislation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/08/21/government-adopts-acts-rugby-world-cup-legislation/index.html
+layout: layout.njk
 ---
 Government adopts ACT's Rugby World Cup legislation
 ===================================================

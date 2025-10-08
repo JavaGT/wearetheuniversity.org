@@ -1,9 +1,12 @@
 ---
 slug: key-needs-to-harden-up-over-kiwis-in-oz
-title: "Key needs to harden up over Kiwis in Oz"
-date: 2014-02-06
-source-url: https://www.scoop.co.nz/stories/PA1402/S00065/key-needs-to-harden-up-over-kiwis-in-oz.htm
+title: Key needs to harden up over Kiwis in Oz
+date: 2014-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00065/key-needs-to-harden-up-over-kiwis-in-oz.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/06/key-needs-to-harden-up-over-kiwis-in-oz/index.html
+layout: layout.njk
 ---
 Key needs to harden up over Kiwis in Oz
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: what-kiwi-parents-want-in-education
-title: "What Kiwi parents want in education"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/PO0605/S00225/what-kiwi-parents-want-in-education.htm
+title: What Kiwi parents want in education
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0605/S00225/what-kiwi-parents-want-in-education.htm
 author: maxim-institute
+permalink: /archive/2006/05/22/what-kiwi-parents-want-in-education/index.html
+layout: layout.njk
 ---
 What Kiwi parents want in education
 ===================================

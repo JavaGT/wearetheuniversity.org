@@ -1,9 +1,12 @@
 ---
 slug: education-key-to-closing-gap-in-maori-earnings
-title: "Education Key to Closing Gap in Maori Earnings"
-date: 2007-12-07
-source-url: https://www.scoop.co.nz/stories/PA0712/S00156/education-key-to-closing-gap-in-maori-earnings.htm
+title: Education Key to Closing Gap in Maori Earnings
+date: 2007-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00156/education-key-to-closing-gap-in-maori-earnings.htm
 author: new-zealand-first-party
+permalink: /archive/2007/12/07/education-key-to-closing-gap-in-maori-earnings/index.html
+layout: layout.njk
 ---
 Education Key to Closing Gap in Maori Earnings
 ==============================================

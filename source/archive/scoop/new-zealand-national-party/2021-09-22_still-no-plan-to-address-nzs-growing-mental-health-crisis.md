@@ -1,9 +1,13 @@
 ---
 slug: still-no-plan-to-address-nzs-growing-mental-health-crisis
-title: "Still No Plan To Address NZ’s Growing Mental Health Crisis"
-date: 2021-09-22
-source-url: https://www.scoop.co.nz/stories/PA2109/S00196/still-no-plan-to-address-nzs-growing-mental-health-crisis.htm
+title: Still No Plan To Address NZ’s Growing Mental Health Crisis
+date: 2021-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00196/still-no-plan-to-address-nzs-growing-mental-health-crisis.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/22/still-no-plan-to-address-nzs-growing-mental-health-crisis/index.html
+layout: layout.njk
 ---
 Still No Plan To Address NZ’s Growing Mental Health Crisis
 ==========================================================

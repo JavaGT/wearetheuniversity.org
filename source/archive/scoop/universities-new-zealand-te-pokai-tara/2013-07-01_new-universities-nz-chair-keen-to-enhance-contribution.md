@@ -1,9 +1,13 @@
 ---
 slug: new-universities-nz-chair-keen-to-enhance-contribution
-title: "New Universities NZ Chair keen to enhance contribution"
-date: 2013-07-01
-source-url: https://www.scoop.co.nz/stories/ED1307/S00002/new-universities-nz-chair-keen-to-enhance-contribution.htm
+title: New Universities NZ Chair keen to enhance contribution
+date: 2013-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00002/new-universities-nz-chair-keen-to-enhance-contribution.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2013/07/01/new-universities-nz-chair-keen-to-enhance-contribution/index.html
+layout: layout.njk
 ---
 New Universities NZ Chair keen to enhance contribution
 ======================================================

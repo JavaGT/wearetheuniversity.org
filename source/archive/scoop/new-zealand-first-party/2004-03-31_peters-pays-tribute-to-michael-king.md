@@ -1,9 +1,12 @@
 ---
 slug: peters-pays-tribute-to-michael-king
-title: "Peters Pays Tribute To Michael King"
-date: 2004-03-31
-source-url: https://www.scoop.co.nz/stories/PA0403/S00689/peters-pays-tribute-to-michael-king.htm
+title: Peters Pays Tribute To Michael King
+date: 2004-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00689/peters-pays-tribute-to-michael-king.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/31/peters-pays-tribute-to-michael-king/index.html
+layout: layout.njk
 ---
 Peters Pays Tribute To Michael King
 ===================================

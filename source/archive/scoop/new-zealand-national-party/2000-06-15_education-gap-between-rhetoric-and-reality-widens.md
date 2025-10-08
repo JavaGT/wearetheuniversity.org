@@ -1,9 +1,13 @@
 ---
 slug: education-gap-between-rhetoric-and-reality-widens
-title: "Education gap between rhetoric and reality widens"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/PA0006/S00314/education-gap-between-rhetoric-and-reality-widens.htm
+title: Education gap between rhetoric and reality widens
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00314/education-gap-between-rhetoric-and-reality-widens.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/06/15/education-gap-between-rhetoric-and-reality-widens/index.html
+layout: layout.njk
 ---
 Education gap between rhetoric and reality widens
 =================================================

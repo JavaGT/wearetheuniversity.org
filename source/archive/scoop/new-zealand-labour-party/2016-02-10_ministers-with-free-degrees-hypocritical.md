@@ -1,9 +1,12 @@
 ---
 slug: ministers-with-free-degrees-hypocritical
-title: "Ministers with free degrees hypocritical"
-date: 2016-02-10
-source-url: https://www.scoop.co.nz/stories/PA1602/S00115/ministers-with-free-degrees-hypocritical.htm
+title: Ministers with free degrees hypocritical
+date: 2016-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00115/ministers-with-free-degrees-hypocritical.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/10/ministers-with-free-degrees-hypocritical/index.html
+layout: layout.njk
 ---
 Ministers with free degrees hypocritical
 ========================================

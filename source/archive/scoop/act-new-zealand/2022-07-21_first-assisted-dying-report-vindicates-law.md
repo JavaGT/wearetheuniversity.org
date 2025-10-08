@@ -1,9 +1,12 @@
 ---
 slug: first-assisted-dying-report-vindicates-law
-title: "First Assisted Dying Report Vindicates Law"
-date: 2022-07-21
-source-url: https://www.scoop.co.nz/stories/PA2207/S00141/first-assisted-dying-report-vindicates-law.htm
+title: First Assisted Dying Report Vindicates Law
+date: 2022-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00141/first-assisted-dying-report-vindicates-law.htm
 author: act-new-zealand
+permalink: /archive/2022/07/21/first-assisted-dying-report-vindicates-law/index.html
+layout: layout.njk
 ---
 First Assisted Dying Report Vindicates Law
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: triad-of-evil-starts-with-bullying-on-the-marae
-title: "Triad Of Evil Starts With Bullying On The Marae"
-date: 2002-02-27
-source-url: https://www.scoop.co.nz/stories/PA0202/S00401/triad-of-evil-starts-with-bullying-on-the-marae.htm
+title: Triad Of Evil Starts With Bullying On The Marae
+date: 2002-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00401/triad-of-evil-starts-with-bullying-on-the-marae.htm
 author: act-new-zealand
+permalink: /archive/2002/02/27/triad-of-evil-starts-with-bullying-on-the-marae/index.html
+layout: layout.njk
 ---
 Triad Of Evil Starts With Bullying On The Marae
 ===============================================

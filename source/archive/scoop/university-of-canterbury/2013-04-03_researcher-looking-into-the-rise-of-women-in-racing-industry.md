@@ -1,9 +1,13 @@
 ---
 slug: researcher-looking-into-the-rise-of-women-in-racing-industry
-title: "Researcher Looking Into The Rise Of Women In Racing Industry"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/ED1304/S00003/researcher-looking-into-the-rise-of-women-in-racing-industry.htm
+title: Researcher Looking Into The Rise Of Women In Racing Industry
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00003/researcher-looking-into-the-rise-of-women-in-racing-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/03/researcher-looking-into-the-rise-of-women-in-racing-industry/index.html
+layout: layout.njk
 ---
 Researcher Looking Into The Rise Of Women In Racing Industry
 ============================================================

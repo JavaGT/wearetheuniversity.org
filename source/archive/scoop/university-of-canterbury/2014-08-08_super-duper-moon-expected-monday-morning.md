@@ -1,9 +1,12 @@
 ---
 slug: super-duper-moon-expected-monday-morning
-title: "Super-duper-moon expected Monday morning"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/SC1408/S00026/super-duper-moon-expected-monday-morning.htm
+title: Super-duper-moon expected Monday morning
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00026/super-duper-moon-expected-monday-morning.htm
 author: university-of-canterbury
+permalink: /archive/2014/08/08/super-duper-moon-expected-monday-morning/index.html
+layout: layout.njk
 ---
 Super-duper-moon expected Monday morning
 ========================================

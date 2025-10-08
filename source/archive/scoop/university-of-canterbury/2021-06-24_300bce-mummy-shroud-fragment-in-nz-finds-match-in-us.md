@@ -1,9 +1,13 @@
 ---
 slug: 300bce-mummy-shroud-fragment-in-nz-finds-match-in-us
-title: "300BCE Mummy Shroud Fragment In NZ Finds Match In US"
-date: 2021-06-24
-source-url: https://www.scoop.co.nz/stories/SC2106/S00060/300bce-mummy-shroud-fragment-in-nz-finds-match-in-us.htm
+title: 300BCE Mummy Shroud Fragment In NZ Finds Match In US
+date: 2021-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2106/S00060/300bce-mummy-shroud-fragment-in-nz-finds-match-in-us.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/24/300bce-mummy-shroud-fragment-in-nz-finds-match-in-us/index.html
+layout: layout.njk
 ---
 300BCE Mummy Shroud Fragment In NZ Finds Match In US
 ====================================================

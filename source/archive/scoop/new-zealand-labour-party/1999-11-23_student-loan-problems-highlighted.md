@@ -1,9 +1,12 @@
 ---
 slug: student-loan-problems-highlighted
-title: "Student loan problems highlighted"
-date: 1999-11-23
-source-url: https://www.scoop.co.nz/stories/PA9911/S00537/student-loan-problems-highlighted.htm
+title: Student loan problems highlighted
+date: 1999-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00537/student-loan-problems-highlighted.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/23/student-loan-problems-highlighted/index.html
+layout: layout.njk
 ---
 Student loan problems highlighted
 =================================

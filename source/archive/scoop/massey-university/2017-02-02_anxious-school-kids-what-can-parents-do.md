@@ -1,9 +1,12 @@
 ---
 slug: anxious-school-kids-what-can-parents-do
-title: "Anxious school kids – what can parents do?"
-date: 2017-02-02
-source-url: https://www.scoop.co.nz/stories/ED1702/S00013/anxious-school-kids-what-can-parents-do.htm
+title: Anxious school kids – what can parents do?
+date: 2017-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00013/anxious-school-kids-what-can-parents-do.htm
 author: massey-university
+permalink: /archive/2017/02/02/anxious-school-kids-what-can-parents-do/index.html
+layout: layout.njk
 ---
 Anxious school kids – what can parents do?
 ==========================================

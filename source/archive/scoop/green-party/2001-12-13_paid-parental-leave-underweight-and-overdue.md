@@ -1,9 +1,12 @@
 ---
 slug: paid-parental-leave-underweight-and-overdue
-title: "Paid Parental Leave Underweight And Overdue"
-date: 2001-12-13
-source-url: https://www.scoop.co.nz/stories/PA0112/S00256/paid-parental-leave-underweight-and-overdue.htm
+title: Paid Parental Leave Underweight And Overdue
+date: 2001-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00256/paid-parental-leave-underweight-and-overdue.htm
 author: green-party
+permalink: /archive/2001/12/13/paid-parental-leave-underweight-and-overdue/index.html
+layout: layout.njk
 ---
 Paid Parental Leave Underweight And Overdue
 ===========================================

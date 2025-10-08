@@ -1,9 +1,12 @@
 ---
 slug: new-method-for-early-detection-of-breast-cancer
-title: "New method for early detection of breast cancer"
-date: 2003-10-07
-source-url: https://www.scoop.co.nz/stories/GE0310/S00017/new-method-for-early-detection-of-breast-cancer.htm
+title: New method for early detection of breast cancer
+date: 2003-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0310/S00017/new-method-for-early-detection-of-breast-cancer.htm
 author: aut-university
+permalink: /archive/2003/10/07/new-method-for-early-detection-of-breast-cancer/index.html
+layout: layout.njk
 ---
 New method for early detection of breast cancer
 ===============================================

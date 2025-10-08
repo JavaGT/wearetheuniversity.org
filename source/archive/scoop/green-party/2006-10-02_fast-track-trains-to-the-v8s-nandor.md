@@ -1,9 +1,12 @@
 ---
 slug: fast-track-trains-to-the-v8s-nandor
-title: "Fast track trains to the V8s: Nandor"
-date: 2006-10-02
-source-url: https://www.scoop.co.nz/stories/PA0610/S00011/fast-track-trains-to-the-v8s-nandor.htm
+title: 'Fast track trains to the V8s: Nandor'
+date: 2006-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00011/fast-track-trains-to-the-v8s-nandor.htm
 author: green-party
+permalink: /archive/2006/10/02/fast-track-trains-to-the-v8s-nandor/index.html
+layout: layout.njk
 ---
 Fast track trains to the V8s: Nandor
 ====================================

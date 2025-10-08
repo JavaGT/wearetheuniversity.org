@@ -1,9 +1,12 @@
 ---
 slug: nationals-ministry-focused-on-growth-prosperity
-title: "National’s Ministry focused on growth, prosperity"
-date: 2008-11-17
-source-url: https://www.scoop.co.nz/stories/PA0811/S00184/nationals-ministry-focused-on-growth-prosperity.htm
+title: National’s Ministry focused on growth, prosperity
+date: 2008-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00184/nationals-ministry-focused-on-growth-prosperity.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/17/nationals-ministry-focused-on-growth-prosperity/index.html
+layout: layout.njk
 ---
 National’s Ministry focused on growth, prosperity
 =================================================

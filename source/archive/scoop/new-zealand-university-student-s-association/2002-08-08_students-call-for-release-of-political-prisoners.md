@@ -1,9 +1,13 @@
 ---
 slug: students-call-for-release-of-political-prisoners
-title: "Students Call for Release of Political Prisoners"
-date: 2002-08-08
-source-url: https://www.scoop.co.nz/stories/PO0208/S00028/students-call-for-release-of-political-prisoners.htm
+title: Students Call for Release of Political Prisoners
+date: 2002-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0208/S00028/students-call-for-release-of-political-prisoners.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2002/08/08/students-call-for-release-of-political-prisoners/index.html
+layout: layout.njk
 ---
 Students Call for Release of Political Prisoners
 ================================================

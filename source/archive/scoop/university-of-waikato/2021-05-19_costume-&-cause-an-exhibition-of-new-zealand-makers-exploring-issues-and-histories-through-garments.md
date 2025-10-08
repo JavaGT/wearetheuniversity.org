@@ -1,9 +1,15 @@
 ---
-slug: costume-&-cause-an-exhibition-of-new-zealand-makers-exploring-issues-and-histories-through-garments
-title: "Costume & Cause: An Exhibition Of New Zealand Makers Exploring Issues And Histories Through Garments"
-date: 2021-05-19
-source-url: https://www.scoop.co.nz/stories/CU2105/S00164/costume-cause-an-exhibition-of-new-zealand-makers-exploring-issues-and-histories-through-garments.htm
+slug: >-
+  costume-&-cause-an-exhibition-of-new-zealand-makers-exploring-issues-and-histories-through-garments
+title: >-
+  Costume & Cause: An Exhibition Of New Zealand Makers Exploring Issues And
+  Histories Through Garments
+date: 2021-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2105/S00164/costume-cause-an-exhibition-of-new-zealand-makers-exploring-issues-and-histories-through-garments.htm
 author: university-of-waikato
+permalink: /archive/2021/05/19/costume-/index.html
+layout: layout.njk
 ---
 Costume & Cause: An Exhibition Of New Zealand Makers Exploring Issues And Histories Through Garments
 ====================================================================================================

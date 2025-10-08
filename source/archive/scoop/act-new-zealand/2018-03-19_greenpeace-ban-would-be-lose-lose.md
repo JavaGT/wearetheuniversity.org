@@ -1,9 +1,12 @@
 ---
 slug: greenpeace-ban-would-be-lose-lose
-title: "Greenpeace ban would be lose-lose"
-date: 2018-03-19
-source-url: https://www.scoop.co.nz/stories/PA1803/S00194/greenpeace-ban-would-be-lose-lose.htm
+title: Greenpeace ban would be lose-lose
+date: 2018-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00194/greenpeace-ban-would-be-lose-lose.htm
 author: act-new-zealand
+permalink: /archive/2018/03/19/greenpeace-ban-would-be-lose-lose/index.html
+layout: layout.njk
 ---
 Greenpeace ban would be lose-lose
 =================================

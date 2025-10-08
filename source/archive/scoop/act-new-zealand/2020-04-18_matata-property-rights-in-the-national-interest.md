@@ -1,9 +1,12 @@
 ---
 slug: matata-property-rights-in-the-national-interest
-title: "Matata Property Rights In The National Interest"
-date: 2020-04-18
-source-url: https://www.scoop.co.nz/stories/PA2004/S00100/matata-property-rights-in-the-national-interest.htm
+title: Matata Property Rights In The National Interest
+date: 2020-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00100/matata-property-rights-in-the-national-interest.htm
 author: act-new-zealand
+permalink: /archive/2020/04/18/matata-property-rights-in-the-national-interest/index.html
+layout: layout.njk
 ---
 Matata Property Rights In The National Interest
 ===============================================

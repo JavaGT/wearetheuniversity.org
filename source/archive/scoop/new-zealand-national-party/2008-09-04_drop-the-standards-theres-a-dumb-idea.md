@@ -1,9 +1,12 @@
 ---
 slug: drop-the-standards-theres-a-dumb-idea
-title: "Drop the standards – there’s a dumb idea"
-date: 2008-09-04
-source-url: https://www.scoop.co.nz/stories/PA0809/S00085/drop-the-standards-theres-a-dumb-idea.htm
+title: Drop the standards – there’s a dumb idea
+date: 2008-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00085/drop-the-standards-theres-a-dumb-idea.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/04/drop-the-standards-theres-a-dumb-idea/index.html
+layout: layout.njk
 ---
 Drop the standards – there’s a dumb idea
 ========================================

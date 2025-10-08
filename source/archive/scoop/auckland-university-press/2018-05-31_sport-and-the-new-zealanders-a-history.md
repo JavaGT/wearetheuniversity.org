@@ -1,9 +1,12 @@
 ---
 slug: sport-and-the-new-zealanders-a-history
-title: "Sport and the New Zealanders: A History"
-date: 2018-05-31
-source-url: https://www.scoop.co.nz/stories/CU1805/S00357/sport-and-the-new-zealanders-a-history.htm
+title: 'Sport and the New Zealanders: A History'
+date: 2018-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1805/S00357/sport-and-the-new-zealanders-a-history.htm
 author: auckland-university-press
+permalink: /archive/2018/05/31/sport-and-the-new-zealanders-a-history/index.html
+layout: layout.njk
 ---
 Sport and the New Zealanders: A History
 =======================================

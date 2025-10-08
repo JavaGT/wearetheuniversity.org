@@ -1,9 +1,12 @@
 ---
 slug: school-support-staff-crack-wage-freeze
-title: "School Support Staff Crack Wage Freeze"
-date: 2009-12-19
-source-url: https://www.scoop.co.nz/stories/PO0912/S00260/school-support-staff-crack-wage-freeze.htm
+title: School Support Staff Crack Wage Freeze
+date: 2009-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00260/school-support-staff-crack-wage-freeze.htm
 author: nzei
+permalink: /archive/2009/12/19/school-support-staff-crack-wage-freeze/index.html
+layout: layout.njk
 ---
 School Support Staff Crack Wage Freeze
 ======================================

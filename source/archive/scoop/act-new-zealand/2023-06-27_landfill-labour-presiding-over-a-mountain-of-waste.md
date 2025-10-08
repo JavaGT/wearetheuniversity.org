@@ -1,9 +1,13 @@
 ---
 slug: landfill-labour-presiding-over-a-mountain-of-waste
-title: "Landfill Labour Presiding Over A Mountain Of Waste"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/PA2306/S00174/landfill-labour-presiding-over-a-mountain-of-waste.htm
+title: Landfill Labour Presiding Over A Mountain Of Waste
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00174/landfill-labour-presiding-over-a-mountain-of-waste.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/06/27/landfill-labour-presiding-over-a-mountain-of-waste/index.html
+layout: layout.njk
 ---
 Landfill Labour Presiding Over A Mountain Of Waste
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: unique-psychology-service-helps-people-with-cancer
-title: "Unique psychology service helps people with cancer"
-date: 2014-06-05
-source-url: https://www.scoop.co.nz/stories/GE1406/S00011/unique-psychology-service-helps-people-with-cancer.htm
+title: Unique psychology service helps people with cancer
+date: 2014-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00011/unique-psychology-service-helps-people-with-cancer.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/05/unique-psychology-service-helps-people-with-cancer/index.html
+layout: layout.njk
 ---
 Unique psychology service helps people with cancer
 ==================================================

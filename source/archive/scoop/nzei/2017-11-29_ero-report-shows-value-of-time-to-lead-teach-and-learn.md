@@ -1,9 +1,13 @@
 ---
 slug: ero-report-shows-value-of-time-to-lead-teach-and-learn
-title: "ERO Report Shows Value of Time to Lead, Teach And Learn"
-date: 2017-11-29
-source-url: https://www.scoop.co.nz/stories/ED1711/S00108/ero-report-shows-value-of-time-to-lead-teach-and-learn.htm
+title: ERO Report Shows Value of Time to Lead, Teach And Learn
+date: 2017-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00108/ero-report-shows-value-of-time-to-lead-teach-and-learn.htm
 author: nzei
+permalink: >-
+  /archive/2017/11/29/ero-report-shows-value-of-time-to-lead-teach-and-learn/index.html
+layout: layout.njk
 ---
 ERO Report Shows Value of Time to Lead, Teach And Learn
 =======================================================

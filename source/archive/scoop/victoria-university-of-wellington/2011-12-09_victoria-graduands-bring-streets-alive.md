@@ -1,9 +1,12 @@
 ---
 slug: victoria-graduands-bring-streets-alive
-title: "Victoria graduands bring streets alive"
-date: 2011-12-09
-source-url: https://www.scoop.co.nz/stories/ED1112/S00048/victoria-graduands-bring-streets-alive.htm
+title: Victoria graduands bring streets alive
+date: 2011-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00048/victoria-graduands-bring-streets-alive.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/09/victoria-graduands-bring-streets-alive/index.html
+layout: layout.njk
 ---
 Victoria graduands bring streets alive
 ======================================

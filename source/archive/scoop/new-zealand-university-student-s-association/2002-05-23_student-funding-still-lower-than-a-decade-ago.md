@@ -1,9 +1,12 @@
 ---
 slug: student-funding-still-lower-than-a-decade-ago
-title: "Student Funding Still Lower than a Decade Ago"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00042/student-funding-still-lower-than-a-decade-ago.htm
+title: Student Funding Still Lower than a Decade Ago
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00042/student-funding-still-lower-than-a-decade-ago.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/23/student-funding-still-lower-than-a-decade-ago/index.html
+layout: layout.njk
 ---
 Student Funding Still Lower than a Decade Ago
 =============================================

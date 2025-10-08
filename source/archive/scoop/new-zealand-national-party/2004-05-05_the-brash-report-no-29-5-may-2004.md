@@ -1,9 +1,12 @@
 ---
 slug: the-brash-report-no-29-5-may-2004
-title: "The Brash Report - No. 29, 5 May 2004"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/PA0405/S00065/the-brash-report-no-29-5-may-2004.htm
+title: The Brash Report - No. 29, 5 May 2004
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00065/the-brash-report-no-29-5-may-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/05/the-brash-report-no-29-5-may-2004/index.html
+layout: layout.njk
 ---
 The Brash Report - No. 29, 5 May 2004
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: dr-joel-hayward-on-the-new-chief-of-defence-force
-title: "Dr Joel Hayward on the new Chief of Defence Force"
-date: 2001-12-10
-source-url: https://www.scoop.co.nz/stories/PO0112/S00057/dr-joel-hayward-on-the-new-chief-of-defence-force.htm
+title: Dr Joel Hayward on the new Chief of Defence Force
+date: 2001-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0112/S00057/dr-joel-hayward-on-the-new-chief-of-defence-force.htm
 author: massey-university
+permalink: >-
+  /archive/2001/12/10/dr-joel-hayward-on-the-new-chief-of-defence-force/index.html
+layout: layout.njk
 ---
 Dr Joel Hayward on the new Chief of Defence Force
 =================================================

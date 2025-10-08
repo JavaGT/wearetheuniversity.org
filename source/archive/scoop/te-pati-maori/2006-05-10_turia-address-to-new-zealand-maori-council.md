@@ -1,9 +1,12 @@
 ---
 slug: turia-address-to-new-zealand-maori-council
-title: "Turia: Address to New Zealand Maori Council"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/PA0605/S00227/turia-address-to-new-zealand-maori-council.htm
+title: 'Turia: Address to New Zealand Maori Council'
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00227/turia-address-to-new-zealand-maori-council.htm
 author: te-pati-maori
+permalink: /archive/2006/05/10/turia-address-to-new-zealand-maori-council/index.html
+layout: layout.njk
 ---
 Turia: Address to New Zealand Maori Council
 ===========================================

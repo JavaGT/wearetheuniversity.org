@@ -1,9 +1,12 @@
 ---
 slug: hodgson-relies-on-luck-to-end-strike
-title: "Hodgson relies on luck to end strike"
-date: 2006-09-12
-source-url: https://www.scoop.co.nz/stories/PA0609/S00271/hodgson-relies-on-luck-to-end-strike.htm
+title: Hodgson relies on luck to end strike
+date: 2006-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00271/hodgson-relies-on-luck-to-end-strike.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/12/hodgson-relies-on-luck-to-end-strike/index.html
+layout: layout.njk
 ---
 Hodgson relies on luck to end strike
 ====================================

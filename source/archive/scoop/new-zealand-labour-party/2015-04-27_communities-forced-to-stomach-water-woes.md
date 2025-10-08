@@ -1,9 +1,12 @@
 ---
 slug: communities-forced-to-stomach-water-woes
-title: "Communities forced to stomach water woes"
-date: 2015-04-27
-source-url: https://www.scoop.co.nz/stories/PA1504/S00340/communities-forced-to-stomach-water-woes.htm
+title: Communities forced to stomach water woes
+date: 2015-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00340/communities-forced-to-stomach-water-woes.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/27/communities-forced-to-stomach-water-woes/index.html
+layout: layout.njk
 ---
 Communities forced to stomach water woes
 ========================================

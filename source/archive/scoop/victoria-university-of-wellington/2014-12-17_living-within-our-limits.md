@@ -1,9 +1,11 @@
 ---
 slug: living-within-our-limits
-title: "Living within our limits"
-date: 2014-12-17
+title: Living within our limits
+date: 2014-12-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1412/S00471/living-within-our-limits.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/17/living-within-our-limits/index.html
+layout: layout.njk
 ---
 Living within our limits
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: alliance-education-policy-an-attack-on-business
-title: "Alliance Education Policy An Attack On Business"
-date: 1999-09-21
-source-url: https://www.scoop.co.nz/stories/PA9909/S00414/alliance-education-policy-an-attack-on-business.htm
+title: Alliance Education Policy An Attack On Business
+date: 1999-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00414/alliance-education-policy-an-attack-on-business.htm
 author: act-new-zealand
+permalink: /archive/1999/09/21/alliance-education-policy-an-attack-on-business/index.html
+layout: layout.njk
 ---
 Alliance Education Policy An Attack On Business
 ===============================================

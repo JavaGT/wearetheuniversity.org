@@ -1,9 +1,12 @@
 ---
 slug: toxic-algae-sign-of-national-water-crisis
-title: "Toxic algae sign of national water crisis"
-date: 2008-02-15
-source-url: https://www.scoop.co.nz/stories/PA0802/S00246/toxic-algae-sign-of-national-water-crisis.htm
+title: Toxic algae sign of national water crisis
+date: 2008-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00246/toxic-algae-sign-of-national-water-crisis.htm
 author: green-party
+permalink: /archive/2008/02/15/toxic-algae-sign-of-national-water-crisis/index.html
+layout: layout.njk
 ---
 Toxic algae sign of national water crisis
 =========================================

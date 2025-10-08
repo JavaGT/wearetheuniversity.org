@@ -1,9 +1,12 @@
 ---
 slug: no-mention-of-solid-energy-or-spring-creek
-title: "No mention of Solid Energy or Spring Creek"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/PA1212/S00179/no-mention-of-solid-energy-or-spring-creek.htm
+title: No mention of Solid Energy or Spring Creek
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00179/no-mention-of-solid-energy-or-spring-creek.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/11/no-mention-of-solid-energy-or-spring-creek/index.html
+layout: layout.njk
 ---
 No mention of Solid Energy or Spring Creek
 ==========================================

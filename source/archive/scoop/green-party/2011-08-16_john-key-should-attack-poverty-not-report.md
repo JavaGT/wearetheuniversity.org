@@ -1,9 +1,12 @@
 ---
 slug: john-key-should-attack-poverty-not-report
-title: "John Key should attack poverty not report"
-date: 2011-08-16
-source-url: https://www.scoop.co.nz/stories/PA1108/S00317/john-key-should-attack-poverty-not-report.htm
+title: John Key should attack poverty not report
+date: 2011-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00317/john-key-should-attack-poverty-not-report.htm
 author: green-party
+permalink: /archive/2011/08/16/john-key-should-attack-poverty-not-report/index.html
+layout: layout.njk
 ---
 John Key should attack poverty not report
 =========================================

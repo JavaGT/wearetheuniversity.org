@@ -1,9 +1,12 @@
 ---
 slug: conference-cancelled-to-avoid-embarrassing-govt
-title: "Conference Cancelled To Avoid Embarrassing Govt"
-date: 2002-06-18
-source-url: https://www.scoop.co.nz/stories/PA0206/S00304/conference-cancelled-to-avoid-embarrassing-govt.htm
+title: Conference Cancelled To Avoid Embarrassing Govt
+date: 2002-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00304/conference-cancelled-to-avoid-embarrassing-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/18/conference-cancelled-to-avoid-embarrassing-govt/index.html
+layout: layout.njk
 ---
 Conference Cancelled To Avoid Embarrassing Govt
 ===============================================

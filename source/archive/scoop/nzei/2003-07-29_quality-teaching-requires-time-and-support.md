@@ -1,9 +1,12 @@
 ---
 slug: quality-teaching-requires-time-and-support
-title: "Quality Teaching Requires Time And Support"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/ED0307/S00073/quality-teaching-requires-time-and-support.htm
+title: Quality Teaching Requires Time And Support
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00073/quality-teaching-requires-time-and-support.htm
 author: nzei
+permalink: /archive/2003/07/29/quality-teaching-requires-time-and-support/index.html
+layout: layout.njk
 ---
 Quality Teaching Requires Time And Support
 ==========================================

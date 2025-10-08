@@ -1,9 +1,12 @@
 ---
 slug: pull-mental-health-out-of-the-too-hard-basket
-title: "Pull mental health out of  the 'too-hard basket'"
-date: 2005-08-17
-source-url: https://www.scoop.co.nz/stories/PA0508/S00442/pull-mental-health-out-of-the-too-hard-basket.htm
+title: Pull mental health out of  the 'too-hard basket'
+date: 2005-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00442/pull-mental-health-out-of-the-too-hard-basket.htm
 author: green-party
+permalink: /archive/2005/08/17/pull-mental-health-out-of-the-too-hard-basket/index.html
+layout: layout.njk
 ---
 Pull mental health out of the 'too-hard basket'
 ===============================================

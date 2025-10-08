@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-its-not-all-roses-youre-being-robbed
-title: "Speech: Peters - It’s not all roses, you’re being robbed"
-date: 2017-07-08
-source-url: https://www.scoop.co.nz/stories/PA1707/S00129/speech-peters-its-not-all-roses-youre-being-robbed.htm
+title: 'Speech: Peters - It’s not all roses, you’re being robbed'
+date: 2017-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00129/speech-peters-its-not-all-roses-youre-being-robbed.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/08/speech-peters-its-not-all-roses-youre-being-robbed/index.html
+layout: layout.njk
 ---
 Speech: Peters - It’s not all roses, you’re being robbed
 ========================================================

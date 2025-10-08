@@ -1,9 +1,13 @@
 ---
 slug: christchurchs-avon-heathcote-estuary-research-a-world-first
-title: "Christchurch’s Avon-Heathcote estuary research a world-first"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/SC1412/S00049/christchurchs-avon-heathcote-estuary-research-a-world-first.htm
+title: Christchurch’s Avon-Heathcote estuary research a world-first
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00049/christchurchs-avon-heathcote-estuary-research-a-world-first.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/16/christchurchs-avon-heathcote-estuary-research-a-world-first/index.html
+layout: layout.njk
 ---
 Christchurch’s Avon-Heathcote estuary research a world-first
 ============================================================

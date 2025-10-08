@@ -1,9 +1,12 @@
 ---
 slug: no-more-excuses-for-minister-of-health
-title: "No more excuses for Minister of Health"
-date: 2003-11-07
-source-url: https://www.scoop.co.nz/stories/PA0311/S00156/no-more-excuses-for-minister-of-health.htm
+title: No more excuses for Minister of Health
+date: 2003-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00156/no-more-excuses-for-minister-of-health.htm
 author: green-party
+permalink: /archive/2003/11/07/no-more-excuses-for-minister-of-health/index.html
+layout: layout.njk
 ---
 No more excuses for Minister of Health
 ======================================

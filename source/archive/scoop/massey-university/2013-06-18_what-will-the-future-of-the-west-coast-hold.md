@@ -1,9 +1,12 @@
 ---
 slug: what-will-the-future-of-the-west-coast-hold
-title: "What will the future of the West Coast hold?"
-date: 2013-06-18
-source-url: https://www.scoop.co.nz/stories/AK1306/S00405/what-will-the-future-of-the-west-coast-hold.htm
+title: What will the future of the West Coast hold?
+date: 2013-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1306/S00405/what-will-the-future-of-the-west-coast-hold.htm
 author: massey-university
+permalink: /archive/2013/06/18/what-will-the-future-of-the-west-coast-hold/index.html
+layout: layout.njk
 ---
 What will the future of the West Coast hold?
 ============================================

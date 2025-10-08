@@ -1,9 +1,13 @@
 ---
 slug: disasters-conference-18-months-since-the-big-quake
-title: "Disasters conference – 18 months since the big quake"
-date: 2012-08-20
-source-url: https://www.scoop.co.nz/stories/AK1208/S00430/disasters-conference-18-months-since-the-big-quake.htm
+title: Disasters conference – 18 months since the big quake
+date: 2012-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00430/disasters-conference-18-months-since-the-big-quake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/20/disasters-conference-18-months-since-the-big-quake/index.html
+layout: layout.njk
 ---
 Disasters conference – 18 months since the big quake
 ====================================================

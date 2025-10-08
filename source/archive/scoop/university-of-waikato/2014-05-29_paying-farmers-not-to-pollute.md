@@ -1,9 +1,12 @@
 ---
 slug: paying-farmers-not-to-pollute
-title: "Paying farmers not to pollute"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/BU1405/S01095/paying-farmers-not-to-pollute.htm
+title: Paying farmers not to pollute
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S01095/paying-farmers-not-to-pollute.htm
 author: university-of-waikato
+permalink: /archive/2014/05/29/paying-farmers-not-to-pollute/index.html
+layout: layout.njk
 ---
 Paying farmers not to pollute
 =============================

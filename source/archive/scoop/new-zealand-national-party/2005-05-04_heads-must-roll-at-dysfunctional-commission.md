@@ -1,9 +1,12 @@
 ---
 slug: heads-must-roll-at-dysfunctional-commission
-title: "Heads must roll at dysfunctional Commission"
-date: 2005-05-04
-source-url: https://www.scoop.co.nz/stories/PA0505/S00053/heads-must-roll-at-dysfunctional-commission.htm
+title: Heads must roll at dysfunctional Commission
+date: 2005-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00053/heads-must-roll-at-dysfunctional-commission.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/04/heads-must-roll-at-dysfunctional-commission/index.html
+layout: layout.njk
 ---
 Heads must roll at dysfunctional Commission
 ===========================================

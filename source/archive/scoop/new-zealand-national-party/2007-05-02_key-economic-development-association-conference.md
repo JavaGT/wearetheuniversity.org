@@ -1,9 +1,12 @@
 ---
 slug: key-economic-development-association-conference
-title: "Key: Economic Development Association Conference"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/PA0705/S00054/key-economic-development-association-conference.htm
+title: 'Key: Economic Development Association Conference'
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00054/key-economic-development-association-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/02/key-economic-development-association-conference/index.html
+layout: layout.njk
 ---
 Key: Economic Development Association Conference
 ================================================

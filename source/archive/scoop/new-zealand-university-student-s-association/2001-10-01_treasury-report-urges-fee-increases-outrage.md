@@ -1,9 +1,12 @@
 ---
 slug: treasury-report-urges-fee-increases-outrage
-title: "Treasury Report Urges Fee Increases – Outrage"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/ED0110/S00001/treasury-report-urges-fee-increases-outrage.htm
+title: Treasury Report Urges Fee Increases – Outrage
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00001/treasury-report-urges-fee-increases-outrage.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/10/01/treasury-report-urges-fee-increases-outrage/index.html
+layout: layout.njk
 ---
 Treasury Report Urges Fee Increases – Outrage
 =============================================

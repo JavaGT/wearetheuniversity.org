@@ -1,9 +1,12 @@
 ---
 slug: performance-data-cant-hide-lack-of-investment
-title: "Performance data can’t hide lack of investment"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/PA1009/S00128/performance-data-cant-hide-lack-of-investment.htm
+title: Performance data can’t hide lack of investment
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00128/performance-data-cant-hide-lack-of-investment.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/08/performance-data-cant-hide-lack-of-investment/index.html
+layout: layout.njk
 ---
 Performance data can’t hide lack of investment
 ==============================================

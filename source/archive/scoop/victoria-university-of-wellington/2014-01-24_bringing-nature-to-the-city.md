@@ -1,9 +1,11 @@
 ---
 slug: bringing-nature-to-the-city
-title: "Bringing nature to the city"
-date: 2014-01-24
+title: Bringing nature to the city
+date: 2014-01-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1401/S00529/bringing-nature-to-the-city.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/01/24/bringing-nature-to-the-city/index.html
+layout: layout.njk
 ---
 Bringing nature to the city
 ===========================

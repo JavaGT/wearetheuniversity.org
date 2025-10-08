@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-32-12-september
-title: "AUS Tertiary Update Vol. 5  No. 32,  12 September"
-date: 2002-09-12
-source-url: https://www.scoop.co.nz/stories/ED0209/S00019/aus-tertiary-update-vol-5-no-32-12-september.htm
+title: AUS Tertiary Update Vol. 5  No. 32,  12 September
+date: 2002-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00019/aus-tertiary-update-vol-5-no-32-12-september.htm
 author: association-of-university-staff
+permalink: /archive/2002/09/12/aus-tertiary-update-vol-5-no-32-12-september/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 32, 12 September
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: north-korea-opens-its-doors-to-uc-scientist
-title: "North Korea opens its doors to UC scientist"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/SC1211/S00029/north-korea-opens-its-doors-to-uc-scientist.htm
+title: North Korea opens its doors to UC scientist
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00029/north-korea-opens-its-doors-to-uc-scientist.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/08/north-korea-opens-its-doors-to-uc-scientist/index.html
+layout: layout.njk
 ---
 North Korea opens its doors to UC scientist
 ===========================================

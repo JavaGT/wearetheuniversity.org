@@ -1,9 +1,12 @@
 ---
 slug: otago-continues-to-grow-roll-in-2005
-title: "Otago Continues To Grow Roll In 2005"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/ED0504/S00035/otago-continues-to-grow-roll-in-2005.htm
+title: Otago Continues To Grow Roll In 2005
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00035/otago-continues-to-grow-roll-in-2005.htm
 author: university-of-otago
+permalink: /archive/2005/04/12/otago-continues-to-grow-roll-in-2005/index.html
+layout: layout.njk
 ---
 Otago Continues To Grow Roll In 2005
 ====================================

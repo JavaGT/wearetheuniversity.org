@@ -1,9 +1,13 @@
 ---
 slug: massey-team-to-investigate-death-of-killer-whale-in-auckland
-title: "Massey team to investigate death of killer whale in Auckland"
-date: 2017-03-14
-source-url: https://www.scoop.co.nz/stories/SC1703/S00035/massey-team-to-investigate-death-of-killer-whale-in-auckland.htm
+title: Massey team to investigate death of killer whale in Auckland
+date: 2017-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00035/massey-team-to-investigate-death-of-killer-whale-in-auckland.htm
 author: massey-university
+permalink: >-
+  /archive/2017/03/14/massey-team-to-investigate-death-of-killer-whale-in-auckland/index.html
+layout: layout.njk
 ---
 Massey team to investigate death of killer whale in Auckland
 ============================================================

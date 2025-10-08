@@ -1,9 +1,12 @@
 ---
 slug: waikato-academic-honoured-for-thesis
-title: "Waikato Academic Honoured For Thesis"
-date: 2004-11-22
-source-url: https://www.scoop.co.nz/stories/ED0411/S00067/waikato-academic-honoured-for-thesis.htm
+title: Waikato Academic Honoured For Thesis
+date: 2004-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00067/waikato-academic-honoured-for-thesis.htm
 author: waikato-university
+permalink: /archive/2004/11/22/waikato-academic-honoured-for-thesis/index.html
+layout: layout.njk
 ---
 Waikato Academic Honoured For Thesis
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: power-prices-soar-on-the-eve-of-winter
-title: "Power prices soar on the eve of winter"
-date: 2014-04-21
-source-url: https://www.scoop.co.nz/stories/PA1404/S00348/power-prices-soar-on-the-eve-of-winter.htm
+title: Power prices soar on the eve of winter
+date: 2014-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00348/power-prices-soar-on-the-eve-of-winter.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/21/power-prices-soar-on-the-eve-of-winter/index.html
+layout: layout.njk
 ---
 Power prices soar on the eve of winter
 ======================================

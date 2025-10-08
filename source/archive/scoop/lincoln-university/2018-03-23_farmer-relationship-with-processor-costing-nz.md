@@ -1,9 +1,12 @@
 ---
 slug: farmer-relationship-with-processor-costing-nz
-title: "Farmer relationship with processor costing NZ"
-date: 2018-03-23
-source-url: https://www.scoop.co.nz/stories/BU1803/S00705/farmer-relationship-with-processor-costing-nz.htm
+title: Farmer relationship with processor costing NZ
+date: 2018-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1803/S00705/farmer-relationship-with-processor-costing-nz.htm
 author: lincoln-university
+permalink: /archive/2018/03/23/farmer-relationship-with-processor-costing-nz/index.html
+layout: layout.njk
 ---
 Farmer relationship with processor costing NZ
 =============================================

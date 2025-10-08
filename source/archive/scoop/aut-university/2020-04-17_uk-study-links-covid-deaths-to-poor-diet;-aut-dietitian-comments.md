@@ -1,9 +1,12 @@
 ---
 slug: uk-study-links-covid-deaths-to-poor-diet;-aut-dietitian-comments
-title: "UK Study Links Covid Deaths To Poor Diet; AUT Dietitian Comments"
-date: 2020-04-17
-source-url: https://www.scoop.co.nz/stories/GE2004/S00143/uk-study-links-covid-deaths-to-poor-diet-aut-dietitian-comments.htm
+title: UK Study Links Covid Deaths To Poor Diet; AUT Dietitian Comments
+date: 2020-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2004/S00143/uk-study-links-covid-deaths-to-poor-diet-aut-dietitian-comments.htm
 author: aut-university
+permalink: /archive/2020/04/17/uk-study-links-covid-deaths-to-poor-diet/index.html
+layout: layout.njk
 ---
 UK Study Links Covid Deaths To Poor Diet; AUT Dietitian Comments
 ================================================================

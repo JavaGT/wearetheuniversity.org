@@ -1,9 +1,12 @@
 ---
 slug: stop-bagging-maori-say-labours-maori-mps
-title: "Stop bagging Maori say Labour’s Maori MPs"
-date: 2007-03-22
-source-url: https://www.scoop.co.nz/stories/PA0703/S00463/stop-bagging-maori-say-labours-maori-mps.htm
+title: Stop bagging Maori say Labour’s Maori MPs
+date: 2007-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00463/stop-bagging-maori-say-labours-maori-mps.htm
 author: new-zealand-labour-party
+permalink: /archive/2007/03/22/stop-bagging-maori-say-labours-maori-mps/index.html
+layout: layout.njk
 ---
 Stop bagging Maori say Labour’s Maori MPs
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-books-an-indictment-on-govt
-title: "Tertiary education books an indictment on Govt"
-date: 2016-03-17
-source-url: https://www.scoop.co.nz/stories/PA1603/S00313/tertiary-education-books-an-indictment-on-govt.htm
+title: Tertiary education books an indictment on Govt
+date: 2016-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00313/tertiary-education-books-an-indictment-on-govt.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/17/tertiary-education-books-an-indictment-on-govt/index.html
+layout: layout.njk
 ---
 Tertiary education books an indictment on Govt
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-installs-the-worlds-most-advanced-ai-system
-title: "University Of Waikato Installs The World’s Most Advanced AI System"
-date: 2021-04-18
-source-url: https://www.scoop.co.nz/stories/SC2104/S00022/university-of-waikato-installs-the-worlds-most-advanced-ai-system.htm
+title: University Of Waikato Installs The World’s Most Advanced AI System
+date: 2021-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2104/S00022/university-of-waikato-installs-the-worlds-most-advanced-ai-system.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/04/18/university-of-waikato-installs-the-worlds-most-advanced-ai-system/index.html
+layout: layout.njk
 ---
 University Of Waikato Installs The World’s Most Advanced AI System
 ==================================================================

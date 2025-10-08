@@ -1,9 +1,12 @@
 ---
 slug: no-confidence-sensible-or-just-sulking
-title: "No Confidence: Sensible or Just Sulking?"
-date: 2000-10-31
-source-url: https://www.scoop.co.nz/stories/PA0010/S00544/no-confidence-sensible-or-just-sulking.htm
+title: 'No Confidence: Sensible or Just Sulking?'
+date: 2000-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00544/no-confidence-sensible-or-just-sulking.htm
 author: act-new-zealand
+permalink: /archive/2000/10/31/no-confidence-sensible-or-just-sulking/index.html
+layout: layout.njk
 ---
 No Confidence: Sensible or Just Sulking?
 ========================================

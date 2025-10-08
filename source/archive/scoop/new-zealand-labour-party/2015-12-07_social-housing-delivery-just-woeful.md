@@ -1,9 +1,12 @@
 ---
 slug: social-housing-delivery-just-woeful
-title: "Social housing delivery just woeful"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/PA1512/S00147/social-housing-delivery-just-woeful.htm
+title: Social housing delivery just woeful
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00147/social-housing-delivery-just-woeful.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/07/social-housing-delivery-just-woeful/index.html
+layout: layout.njk
 ---
 Social housing delivery just woeful
 ===================================

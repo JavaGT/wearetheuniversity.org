@@ -1,9 +1,13 @@
 ---
 slug: canterburys-new-student-accommodation-village-opening
-title: "Canterbury’s new student accommodation village opening"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/AK1403/S00689/canterburys-new-student-accommodation-village-opening.htm
+title: Canterbury’s new student accommodation village opening
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1403/S00689/canterburys-new-student-accommodation-village-opening.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/28/canterburys-new-student-accommodation-village-opening/index.html
+layout: layout.njk
 ---
 Canterbury’s new student accommodation village opening
 ======================================================

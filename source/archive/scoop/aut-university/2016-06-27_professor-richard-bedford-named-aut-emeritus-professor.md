@@ -1,9 +1,13 @@
 ---
 slug: professor-richard-bedford-named-aut-emeritus-professor
-title: "Professor Richard Bedford named AUT Emeritus Professor"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/ED1606/S00097/professor-richard-bedford-named-aut-emeritus-professor.htm
+title: Professor Richard Bedford named AUT Emeritus Professor
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00097/professor-richard-bedford-named-aut-emeritus-professor.htm
 author: aut-university
+permalink: >-
+  /archive/2016/06/27/professor-richard-bedford-named-aut-emeritus-professor/index.html
+layout: layout.njk
 ---
 Professor Richard Bedford named AUT Emeritus Professor
 ======================================================

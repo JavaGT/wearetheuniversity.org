@@ -1,9 +1,13 @@
 ---
 slug: 2014-albany-lecturer-of-the-year-has-great-chemistry
-title: "2014 Albany Lecturer of the Year has great chemistry"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/ED1412/S00012/2014-albany-lecturer-of-the-year-has-great-chemistry.htm
+title: 2014 Albany Lecturer of the Year has great chemistry
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00012/2014-albany-lecturer-of-the-year-has-great-chemistry.htm
 author: massey-university
+permalink: >-
+  /archive/2014/12/02/2014-albany-lecturer-of-the-year-has-great-chemistry/index.html
+layout: layout.njk
 ---
 2014 Albany Lecturer of the Year has great chemistry
 ====================================================

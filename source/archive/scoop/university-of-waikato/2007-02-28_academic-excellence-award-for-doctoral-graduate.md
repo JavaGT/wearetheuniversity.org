@@ -1,9 +1,12 @@
 ---
 slug: academic-excellence-award-for-doctoral-graduate
-title: "Academic excellence award for doctoral graduate"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/ED0702/S00103/academic-excellence-award-for-doctoral-graduate.htm
+title: Academic excellence award for doctoral graduate
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00103/academic-excellence-award-for-doctoral-graduate.htm
 author: university-of-waikato
+permalink: /archive/2007/02/28/academic-excellence-award-for-doctoral-graduate/index.html
+layout: layout.njk
 ---
 Academic excellence award for doctoral graduate
 ===============================================

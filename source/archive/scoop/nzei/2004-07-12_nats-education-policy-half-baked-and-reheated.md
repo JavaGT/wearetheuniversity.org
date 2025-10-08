@@ -1,9 +1,12 @@
 ---
 slug: nats-education-policy-half-baked-and-reheated
-title: "Nats Education Policy Half Baked And Reheated"
-date: 2004-07-12
-source-url: https://www.scoop.co.nz/stories/ED0407/S00040/nats-education-policy-half-baked-and-reheated.htm
+title: Nats Education Policy Half Baked And Reheated
+date: 2004-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00040/nats-education-policy-half-baked-and-reheated.htm
 author: nzei
+permalink: /archive/2004/07/12/nats-education-policy-half-baked-and-reheated/index.html
+layout: layout.njk
 ---
 Nats Education Policy Half Baked And Reheated
 =============================================

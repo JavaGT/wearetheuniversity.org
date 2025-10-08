@@ -1,9 +1,12 @@
 ---
 slug: how-are-security-agencies-keeping-us-safe
-title: "How are security agencies keeping us safe?"
-date: 2018-06-25
-source-url: https://www.scoop.co.nz/stories/PO1806/S00280/how-are-security-agencies-keeping-us-safe.htm
+title: How are security agencies keeping us safe?
+date: 2018-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00280/how-are-security-agencies-keeping-us-safe.htm
 author: massey-university
+permalink: /archive/2018/06/25/how-are-security-agencies-keeping-us-safe/index.html
+layout: layout.njk
 ---
 How are security agencies keeping us safe?
 ==========================================

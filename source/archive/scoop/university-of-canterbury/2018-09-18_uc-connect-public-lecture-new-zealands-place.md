@@ -1,9 +1,12 @@
 ---
 slug: uc-connect-public-lecture-new-zealands-place
-title: "UC Connect public lecture: New Zealand’s place"
-date: 2018-09-18
-source-url: https://www.scoop.co.nz/stories/AK1809/S00455/uc-connect-public-lecture-new-zealands-place.htm
+title: 'UC Connect public lecture: New Zealand’s place'
+date: 2018-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1809/S00455/uc-connect-public-lecture-new-zealands-place.htm
 author: university-of-canterbury
+permalink: /archive/2018/09/18/uc-connect-public-lecture-new-zealands-place/index.html
+layout: layout.njk
 ---
 UC Connect public lecture: New Zealand’s place
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: student-doctor-petition-hits-20000
-title: "Student doctor petition hits 20,000"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/ED1506/S00052/student-doctor-petition-hits-20000.htm
+title: Student doctor petition hits 20,000
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00052/student-doctor-petition-hits-20000.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/06/09/student-doctor-petition-hits-20000/index.html
+layout: layout.njk
 ---
 Student doctor petition hits 20,000
 ===================================

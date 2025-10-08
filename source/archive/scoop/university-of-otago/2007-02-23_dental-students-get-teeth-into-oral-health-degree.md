@@ -1,9 +1,13 @@
 ---
 slug: dental-students-get-teeth-into-oral-health-degree
-title: "Dental students get teeth into oral health degree"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/ED0702/S00089/dental-students-get-teeth-into-oral-health-degree.htm
+title: Dental students get teeth into oral health degree
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00089/dental-students-get-teeth-into-oral-health-degree.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/02/23/dental-students-get-teeth-into-oral-health-degree/index.html
+layout: layout.njk
 ---
 Dental students get teeth into oral health degree
 =================================================

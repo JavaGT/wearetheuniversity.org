@@ -1,9 +1,12 @@
 ---
 slug: time-for-a-plastic-bag-free-nz
-title: "Time for a plastic bag-free NZ"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/PA1504/S00282/time-for-a-plastic-bag-free-nz.htm
+title: Time for a plastic bag-free NZ
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00282/time-for-a-plastic-bag-free-nz.htm
 author: green-party
+permalink: /archive/2015/04/22/time-for-a-plastic-bag-free-nz/index.html
+layout: layout.njk
 ---
 Time for a plastic bag-free NZ
 ==============================

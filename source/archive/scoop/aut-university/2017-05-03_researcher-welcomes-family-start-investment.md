@@ -1,9 +1,12 @@
 ---
 slug: researcher-welcomes-family-start-investment
-title: "Researcher welcomes Family Start Investment"
-date: 2017-05-03
-source-url: https://www.scoop.co.nz/stories/PO1705/S00049/researcher-welcomes-family-start-investment.htm
+title: Researcher welcomes Family Start Investment
+date: 2017-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00049/researcher-welcomes-family-start-investment.htm
 author: aut-university
+permalink: /archive/2017/05/03/researcher-welcomes-family-start-investment/index.html
+layout: layout.njk
 ---
 Researcher welcomes Family Start Investment
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: robots-may-dominate-rugby-by-2050
-title: "Robots may dominate rugby by 2050"
-date: 2011-09-06
-source-url: https://www.scoop.co.nz/stories/SC1109/S00006/robots-may-dominate-rugby-by-2050.htm
+title: Robots may dominate rugby by 2050
+date: 2011-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00006/robots-may-dominate-rugby-by-2050.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/06/robots-may-dominate-rugby-by-2050/index.html
+layout: layout.njk
 ---
 Robots may dominate rugby by 2050
 =================================

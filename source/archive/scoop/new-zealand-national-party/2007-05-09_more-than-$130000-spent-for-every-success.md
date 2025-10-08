@@ -1,9 +1,12 @@
 ---
 slug: more-than-$130000-spent-for-every-success
-title: "More than $130,000 spent for every success"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/PA0705/S00226/more-than-130000-spent-for-every-success.htm
+title: More than $130,000 spent for every success
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00226/more-than-130000-spent-for-every-success.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/09/more-than-/index.html
+layout: layout.njk
 ---
 More than $130,000 spent for every success
 ==========================================

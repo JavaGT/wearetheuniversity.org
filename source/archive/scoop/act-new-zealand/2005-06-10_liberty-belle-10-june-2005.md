@@ -1,9 +1,11 @@
 ---
 slug: liberty-belle-10-june-2005
-title: "Liberty Belle 10 June 2005"
-date: 2005-06-10
+title: Liberty Belle 10 June 2005
+date: 2005-06-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0506/S00223/liberty-belle-10-june-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/06/10/liberty-belle-10-june-2005/index.html
+layout: layout.njk
 ---
 Liberty Belle 10 June 2005
 ==========================

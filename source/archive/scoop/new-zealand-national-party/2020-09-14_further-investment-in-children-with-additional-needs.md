@@ -1,9 +1,13 @@
 ---
 slug: further-investment-in-children-with-additional-needs
-title: "Further Investment In Children With Additional Needs"
-date: 2020-09-14
-source-url: https://www.scoop.co.nz/stories/PA2009/S00124/further-investment-in-children-with-additional-needs.htm
+title: Further Investment In Children With Additional Needs
+date: 2020-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00124/further-investment-in-children-with-additional-needs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/14/further-investment-in-children-with-additional-needs/index.html
+layout: layout.njk
 ---
 Further Investment In Children With Additional Needs
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: report-finds-values-education-disastrous
-title: "Report finds values education disastrous"
-date: 2002-09-13
-source-url: https://www.scoop.co.nz/stories/ED0209/S00022/report-finds-values-education-disastrous.htm
+title: Report finds values education disastrous
+date: 2002-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00022/report-finds-values-education-disastrous.htm
 author: maxim-institute
+permalink: /archive/2002/09/13/report-finds-values-education-disastrous/index.html
+layout: layout.njk
 ---
 Report finds values education disastrous
 ========================================

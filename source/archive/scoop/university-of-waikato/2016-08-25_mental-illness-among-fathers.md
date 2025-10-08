@@ -1,9 +1,11 @@
 ---
 slug: mental-illness-among-fathers
-title: "Mental illness among fathers"
-date: 2016-08-25
+title: Mental illness among fathers
+date: 2016-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1608/S00119/mental-illness-among-fathers.htm
 author: university-of-waikato
+permalink: /archive/2016/08/25/mental-illness-among-fathers/index.html
+layout: layout.njk
 ---
 Mental illness among fathers
 ============================

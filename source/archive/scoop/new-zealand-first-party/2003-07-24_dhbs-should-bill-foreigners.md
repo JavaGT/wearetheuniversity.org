@@ -1,9 +1,11 @@
 ---
 slug: dhbs-should-bill-foreigners
-title: "DHBs Should Bill Foreigners"
-date: 2003-07-24
+title: DHBs Should Bill Foreigners
+date: 2003-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00451/dhbs-should-bill-foreigners.htm
 author: new-zealand-first-party
+permalink: /archive/2003/07/24/dhbs-should-bill-foreigners/index.html
+layout: layout.njk
 ---
 DHBs Should Bill Foreigners
 ===========================

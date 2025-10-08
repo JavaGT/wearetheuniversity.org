@@ -1,9 +1,12 @@
 ---
 slug: rt-hon-winston-peters-to-visit-christchurch
-title: "Rt Hon Winston Peters To Visit Christchurch"
-date: 2004-06-16
-source-url: https://www.scoop.co.nz/stories/PA0406/S00229/rt-hon-winston-peters-to-visit-christchurch.htm
+title: Rt Hon Winston Peters To Visit Christchurch
+date: 2004-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00229/rt-hon-winston-peters-to-visit-christchurch.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/16/rt-hon-winston-peters-to-visit-christchurch/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters To Visit Christchurch
 ===========================================

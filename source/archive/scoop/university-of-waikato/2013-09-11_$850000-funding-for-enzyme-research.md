@@ -1,9 +1,12 @@
 ---
 slug: $850000-funding-for-enzyme-research
-title: "$850,000 Funding For Enzyme Research"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/SC1309/S00027/850000-funding-for-enzyme-research.htm
+title: $850,000 Funding For Enzyme Research
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00027/850000-funding-for-enzyme-research.htm
 author: university-of-waikato
+permalink: /archive/2013/09/11/850-000-funding-for-enzyme-research/index.html
+layout: layout.njk
 ---
 $850,000 Funding For Enzyme Research
 ====================================

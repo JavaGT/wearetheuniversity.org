@@ -1,9 +1,12 @@
 ---
 slug: students-committed-to-constructive-winz-review
-title: "Students Committed To Constructive WINZ Review"
-date: 2000-04-19
-source-url: https://www.scoop.co.nz/stories/ED0004/S00024/students-committed-to-constructive-winz-review.htm
+title: Students Committed To Constructive WINZ Review
+date: 2000-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00024/students-committed-to-constructive-winz-review.htm
 author: aotearoa-post-compulsory-student-union
+permalink: /archive/2000/04/19/students-committed-to-constructive-winz-review/index.html
+layout: layout.njk
 ---
 Students Committed To Constructive WINZ Review
 ==============================================

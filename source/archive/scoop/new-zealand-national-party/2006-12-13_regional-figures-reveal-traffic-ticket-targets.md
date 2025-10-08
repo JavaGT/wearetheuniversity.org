@@ -1,9 +1,12 @@
 ---
 slug: regional-figures-reveal-traffic-ticket-targets
-title: "Regional figures reveal traffic ticket targets"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/PA0612/S00268/regional-figures-reveal-traffic-ticket-targets.htm
+title: Regional figures reveal traffic ticket targets
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00268/regional-figures-reveal-traffic-ticket-targets.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/13/regional-figures-reveal-traffic-ticket-targets/index.html
+layout: layout.njk
 ---
 Regional figures reveal traffic ticket targets
 ==============================================

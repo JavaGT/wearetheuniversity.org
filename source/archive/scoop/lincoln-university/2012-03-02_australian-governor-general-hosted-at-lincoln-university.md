@@ -1,9 +1,13 @@
 ---
 slug: australian-governor-general-hosted-at-lincoln-university
-title: "Australian Governor-General hosted at Lincoln University"
-date: 2012-03-02
-source-url: https://www.scoop.co.nz/stories/ED1203/S00006/australian-governor-general-hosted-at-lincoln-university.htm
+title: Australian Governor-General hosted at Lincoln University
+date: 2012-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00006/australian-governor-general-hosted-at-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/03/02/australian-governor-general-hosted-at-lincoln-university/index.html
+layout: layout.njk
 ---
 Australian Governor-General hosted at Lincoln University
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: richard-prebble-returns-to-politics-in-key-act-role
-title: "Richard Prebble returns to politics in key ACT role"
-date: 2014-02-23
-source-url: https://www.scoop.co.nz/stories/PO1402/S00277/richard-prebble-returns-to-politics-in-key-act-role.htm
+title: Richard Prebble returns to politics in key ACT role
+date: 2014-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00277/richard-prebble-returns-to-politics-in-key-act-role.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/02/23/richard-prebble-returns-to-politics-in-key-act-role/index.html
+layout: layout.njk
 ---
 Richard Prebble returns to politics in key ACT role
 ===================================================

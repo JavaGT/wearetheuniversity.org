@@ -1,9 +1,12 @@
 ---
 slug: to-reduce-the-deficit-we-must-be-bold
-title: "To Reduce The Deficit We Must Be Bold"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/PO1210/S00139/to-reduce-the-deficit-we-must-be-bold.htm
+title: To Reduce The Deficit We Must Be Bold
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00139/to-reduce-the-deficit-we-must-be-bold.htm
 author: act-new-zealand
+permalink: /archive/2012/10/11/to-reduce-the-deficit-we-must-be-bold/index.html
+layout: layout.njk
 ---
 To Reduce The Deficit We Must Be Bold
 =====================================

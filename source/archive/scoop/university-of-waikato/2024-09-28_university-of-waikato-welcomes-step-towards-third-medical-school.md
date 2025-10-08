@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-welcomes-step-towards-third-medical-school
-title: "University Of Waikato Welcomes Step Towards Third Medical School"
-date: 2024-09-28
-source-url: https://www.scoop.co.nz/stories/ED2409/S00060/university-of-waikato-welcomes-step-towards-third-medical-school.htm
+title: University Of Waikato Welcomes Step Towards Third Medical School
+date: 2024-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2409/S00060/university-of-waikato-welcomes-step-towards-third-medical-school.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2024/09/28/university-of-waikato-welcomes-step-towards-third-medical-school/index.html
+layout: layout.njk
 ---
 University Of Waikato Welcomes Step Towards Third Medical School
 ================================================================

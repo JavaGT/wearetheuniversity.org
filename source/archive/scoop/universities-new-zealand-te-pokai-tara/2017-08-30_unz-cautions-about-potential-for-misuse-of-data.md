@@ -1,9 +1,12 @@
 ---
 slug: unz-cautions-about-potential-for-misuse-of-data
-title: "UNZ cautions about potential for misuse of data"
-date: 2017-08-30
-source-url: https://www.scoop.co.nz/stories/PO1708/S00616/unz-cautions-about-potential-for-misuse-of-data.htm
+title: UNZ cautions about potential for misuse of data
+date: 2017-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00616/unz-cautions-about-potential-for-misuse-of-data.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2017/08/30/unz-cautions-about-potential-for-misuse-of-data/index.html
+layout: layout.njk
 ---
 UNZ cautions about potential for misuse of data
 ===============================================

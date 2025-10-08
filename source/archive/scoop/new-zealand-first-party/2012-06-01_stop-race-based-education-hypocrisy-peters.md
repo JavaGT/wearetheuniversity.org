@@ -1,9 +1,12 @@
 ---
 slug: stop-race-based-education-hypocrisy-peters
-title: "Stop Race-Based Education Hypocrisy – Peters"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/PA1206/S00006/stop-race-based-education-hypocrisy-peters.htm
+title: Stop Race-Based Education Hypocrisy – Peters
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00006/stop-race-based-education-hypocrisy-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/06/01/stop-race-based-education-hypocrisy-peters/index.html
+layout: layout.njk
 ---
 Stop Race-Based Education Hypocrisy – Peters
 ============================================

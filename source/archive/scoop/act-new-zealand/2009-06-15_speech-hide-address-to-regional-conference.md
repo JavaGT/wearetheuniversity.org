@@ -1,9 +1,12 @@
 ---
 slug: speech-hide-address-to-regional-conference
-title: "Speech: Hide -  Address to Regional Conference"
-date: 2009-06-15
-source-url: https://www.scoop.co.nz/stories/PA0906/S00184/speech-hide-address-to-regional-conference.htm
+title: 'Speech: Hide -  Address to Regional Conference'
+date: 2009-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00184/speech-hide-address-to-regional-conference.htm
 author: act-new-zealand
+permalink: /archive/2009/06/15/speech-hide-address-to-regional-conference/index.html
+layout: layout.njk
 ---
 Speech: Hide - Address to Regional Conference
 =============================================

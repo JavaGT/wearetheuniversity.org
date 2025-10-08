@@ -1,9 +1,12 @@
 ---
 slug: book-crossing-in-memory-of-bronwyn-tate
-title: "Book Crossing in Memory of Bronwyn Tate"
-date: 2005-03-30
-source-url: https://www.scoop.co.nz/stories/ED0503/S00097/book-crossing-in-memory-of-bronwyn-tate.htm
+title: Book Crossing in Memory of Bronwyn Tate
+date: 2005-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00097/book-crossing-in-memory-of-bronwyn-tate.htm
 author: university-of-otago
+permalink: /archive/2005/03/30/book-crossing-in-memory-of-bronwyn-tate/index.html
+layout: layout.njk
 ---
 Book Crossing in Memory of Bronwyn Tate
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: students-say-new-zealand-needs-humanities
-title: "Students say New Zealand needs humanities"
-date: 2017-02-22
-source-url: https://www.scoop.co.nz/stories/ED1702/S00064/students-say-new-zealand-needs-humanities.htm
+title: Students say New Zealand needs humanities
+date: 2017-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00064/students-say-new-zealand-needs-humanities.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/02/22/students-say-new-zealand-needs-humanities/index.html
+layout: layout.njk
 ---
 Students say New Zealand needs humanities
 =========================================

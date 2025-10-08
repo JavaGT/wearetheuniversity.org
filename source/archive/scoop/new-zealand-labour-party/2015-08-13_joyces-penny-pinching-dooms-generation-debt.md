@@ -1,9 +1,12 @@
 ---
 slug: joyces-penny-pinching-dooms-generation-debt
-title: "Joyce's penny pinching dooms Generation Debt"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00208/joyces-penny-pinching-dooms-generation-debt.htm
+title: Joyce's penny pinching dooms Generation Debt
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00208/joyces-penny-pinching-dooms-generation-debt.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/13/joyces-penny-pinching-dooms-generation-debt/index.html
+layout: layout.njk
 ---
 Joyce's penny pinching dooms Generation Debt
 ============================================

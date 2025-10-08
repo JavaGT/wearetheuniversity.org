@@ -1,9 +1,12 @@
 ---
 slug: education-lessons-from-abroad
-title: "Education Lessons From Abroad"
-date: 2011-05-23
-source-url: https://www.scoop.co.nz/stories/ED1105/S00091/education-lessons-from-abroad.htm
+title: Education Lessons From Abroad
+date: 2011-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00091/education-lessons-from-abroad.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/05/23/education-lessons-from-abroad/index.html
+layout: layout.njk
 ---
 Education Lessons From Abroad
 =============================

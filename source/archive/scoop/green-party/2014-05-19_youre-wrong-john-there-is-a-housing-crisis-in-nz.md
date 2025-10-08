@@ -1,9 +1,13 @@
 ---
 slug: youre-wrong-john-there-is-a-housing-crisis-in-nz
-title: "You’re wrong John, there is a housing crisis in NZ"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/PA1405/S00353/youre-wrong-john-there-is-a-housing-crisis-in-nz.htm
+title: You’re wrong John, there is a housing crisis in NZ
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00353/youre-wrong-john-there-is-a-housing-crisis-in-nz.htm
 author: green-party
+permalink: >-
+  /archive/2014/05/19/youre-wrong-john-there-is-a-housing-crisis-in-nz/index.html
+layout: layout.njk
 ---
 You’re wrong John, there is a housing crisis in NZ
 ==================================================

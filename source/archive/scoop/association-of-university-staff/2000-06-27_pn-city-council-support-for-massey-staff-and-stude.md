@@ -1,9 +1,13 @@
 ---
 slug: pn-city-council-support-for-massey-staff-and-stude
-title: "PN City Council support for Massey staff and stude"
-date: 2000-06-27
-source-url: https://www.scoop.co.nz/stories/ED0006/S00037/pn-city-council-support-for-massey-staff-and-stude.htm
+title: PN City Council support for Massey staff and stude
+date: 2000-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00037/pn-city-council-support-for-massey-staff-and-stude.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/06/27/pn-city-council-support-for-massey-staff-and-stude/index.html
+layout: layout.njk
 ---
 PN City Council support for Massey staff and stude
 ==================================================

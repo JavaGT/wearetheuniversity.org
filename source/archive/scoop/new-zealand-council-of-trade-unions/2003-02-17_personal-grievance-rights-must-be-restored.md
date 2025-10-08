@@ -1,9 +1,12 @@
 ---
 slug: personal-grievance-rights-must-be-restored
-title: "Personal Grievance Rights Must be Restored"
-date: 2003-02-17
-source-url: https://www.scoop.co.nz/stories/PO0302/S00116/personal-grievance-rights-must-be-restored.htm
+title: Personal Grievance Rights Must be Restored
+date: 2003-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0302/S00116/personal-grievance-rights-must-be-restored.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/02/17/personal-grievance-rights-must-be-restored/index.html
+layout: layout.njk
 ---
 Personal Grievance Rights Must be Restored
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: muriel-newmans-the-column
-title: "Muriel Newman's The Column"
-date: 2004-07-01
+title: Muriel Newman's The Column
+date: 2004-07-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00003/muriel-newmans-the-column.htm
 author: act-new-zealand
+permalink: /archive/2004/07/01/muriel-newmans-the-column/index.html
+layout: layout.njk
 ---
 Muriel Newman's The Column
 ==========================

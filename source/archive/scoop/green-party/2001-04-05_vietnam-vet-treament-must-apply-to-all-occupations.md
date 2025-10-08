@@ -1,9 +1,13 @@
 ---
 slug: vietnam-vet-treament-must-apply-to-all-occupations
-title: "Vietnam Vet Treament Must Apply To All Occupations"
-date: 2001-04-05
-source-url: https://www.scoop.co.nz/stories/PA0104/S00095/vietnam-vet-treament-must-apply-to-all-occupations.htm
+title: Vietnam Vet Treament Must Apply To All Occupations
+date: 2001-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00095/vietnam-vet-treament-must-apply-to-all-occupations.htm
 author: green-party
+permalink: >-
+  /archive/2001/04/05/vietnam-vet-treament-must-apply-to-all-occupations/index.html
+layout: layout.njk
 ---
 Vietnam Vet Treament Must Apply To All Occupations
 ==================================================

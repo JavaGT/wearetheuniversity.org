@@ -1,9 +1,12 @@
 ---
 slug: teac-recommends-political-suicide
-title: "TEAC Recommends Political Suicide"
-date: 2001-11-07
-source-url: https://www.scoop.co.nz/stories/ED0111/S00019/teac-recommends-political-suicide.htm
+title: TEAC Recommends Political Suicide
+date: 2001-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00019/teac-recommends-political-suicide.htm
 author: auckland-student-movement
+permalink: /archive/2001/11/07/teac-recommends-political-suicide/index.html
+layout: layout.njk
 ---
 TEAC Recommends Political Suicide
 =================================

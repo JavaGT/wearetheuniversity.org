@@ -1,9 +1,13 @@
 ---
 slug: corn-which-could-cause-diabetes-could-be-released
-title: "Corn which could cause diabetes could be released"
-date: 2006-06-13
-source-url: https://www.scoop.co.nz/stories/PA0606/S00201/corn-which-could-cause-diabetes-could-be-released.htm
+title: Corn which could cause diabetes could be released
+date: 2006-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00201/corn-which-could-cause-diabetes-could-be-released.htm
 author: green-party
+permalink: >-
+  /archive/2006/06/13/corn-which-could-cause-diabetes-could-be-released/index.html
+layout: layout.njk
 ---
 Corn which could cause diabetes could be released
 =================================================

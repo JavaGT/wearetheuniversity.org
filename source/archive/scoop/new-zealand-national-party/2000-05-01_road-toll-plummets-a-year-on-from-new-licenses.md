@@ -1,9 +1,12 @@
 ---
 slug: road-toll-plummets-a-year-on-from-new-licenses
-title: "Road toll plummets a year on from new licenses"
-date: 2000-05-01
-source-url: https://www.scoop.co.nz/stories/PA0005/S00015/road-toll-plummets-a-year-on-from-new-licenses.htm
+title: Road toll plummets a year on from new licenses
+date: 2000-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00015/road-toll-plummets-a-year-on-from-new-licenses.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/01/road-toll-plummets-a-year-on-from-new-licenses/index.html
+layout: layout.njk
 ---
 Road toll plummets a year on from new licenses
 ==============================================

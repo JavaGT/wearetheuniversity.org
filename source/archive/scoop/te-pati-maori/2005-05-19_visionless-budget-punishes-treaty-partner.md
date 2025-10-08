@@ -1,9 +1,12 @@
 ---
 slug: visionless-budget-punishes-treaty-partner
-title: "‘Visionless Budget Punishes Treaty Partner’"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PA0505/S00517/visionless-budget-punishes-treaty-partner.htm
+title: ‘Visionless Budget Punishes Treaty Partner’
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00517/visionless-budget-punishes-treaty-partner.htm
 author: te-pati-maori
+permalink: /archive/2005/05/19/visionless-budget-punishes-treaty-partner/index.html
+layout: layout.njk
 ---
 ‘Visionless Budget Punishes Treaty Partner’
 ===========================================

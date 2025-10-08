@@ -1,9 +1,12 @@
 ---
 slug: waikato-in-semi-finals-of-university-challenge
-title: "Waikato in semi-finals of University Challenge"
-date: 2017-01-16
-source-url: https://www.scoop.co.nz/stories/ED1701/S00010/waikato-in-semi-finals-of-university-challenge.htm
+title: Waikato in semi-finals of University Challenge
+date: 2017-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00010/waikato-in-semi-finals-of-university-challenge.htm
 author: university-of-waikato
+permalink: /archive/2017/01/16/waikato-in-semi-finals-of-university-challenge/index.html
+layout: layout.njk
 ---
 Waikato in semi-finals of University Challenge
 ==============================================

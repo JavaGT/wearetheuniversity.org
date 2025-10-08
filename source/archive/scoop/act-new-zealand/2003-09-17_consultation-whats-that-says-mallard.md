@@ -1,9 +1,12 @@
 ---
 slug: consultation-whats-that-says-mallard
-title: "Consultation - What's That? Says Mallard"
-date: 2003-09-17
-source-url: https://www.scoop.co.nz/stories/PA0309/S00370/consultation-whats-that-says-mallard.htm
+title: Consultation - What's That? Says Mallard
+date: 2003-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00370/consultation-whats-that-says-mallard.htm
 author: act-new-zealand
+permalink: /archive/2003/09/17/consultation-whats-that-says-mallard/index.html
+layout: layout.njk
 ---
 Consultation - What's That? Says Mallard
 ========================================

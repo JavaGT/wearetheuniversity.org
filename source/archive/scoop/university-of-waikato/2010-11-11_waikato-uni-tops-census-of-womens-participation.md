@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-tops-census-of-womens-participation
-title: "Waikato Uni tops census of women’s participation"
-date: 2010-11-11
-source-url: https://www.scoop.co.nz/stories/ED1011/S00046/waikato-uni-tops-census-of-womens-participation.htm
+title: Waikato Uni tops census of women’s participation
+date: 2010-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00046/waikato-uni-tops-census-of-womens-participation.htm
 author: university-of-waikato
+permalink: /archive/2010/11/11/waikato-uni-tops-census-of-womens-participation/index.html
+layout: layout.njk
 ---
 Waikato Uni tops census of women’s participation
 ================================================

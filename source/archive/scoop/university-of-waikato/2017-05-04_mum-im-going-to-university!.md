@@ -1,9 +1,11 @@
 ---
 slug: mum-im-going-to-university!
-title: "Mum, I’m going to university!"
-date: 2017-05-04
+title: Mum, I’m going to university!
+date: 2017-05-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1705/S00023/mum-im-going-to-university.htm
 author: university-of-waikato
+permalink: /archive/2017/05/04/mum-im-going-to-university/index.html
+layout: layout.njk
 ---
 Mum, I’m going to university!
 =============================

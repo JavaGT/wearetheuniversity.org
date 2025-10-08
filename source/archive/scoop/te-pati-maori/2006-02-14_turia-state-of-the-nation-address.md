@@ -1,9 +1,12 @@
 ---
 slug: turia-state-of-the-nation-address
-title: "Turia: State of the Nation Address"
-date: 2006-02-14
-source-url: https://www.scoop.co.nz/stories/PA0602/S00175/turia-state-of-the-nation-address.htm
+title: 'Turia: State of the Nation Address'
+date: 2006-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00175/turia-state-of-the-nation-address.htm
 author: te-pati-maori
+permalink: /archive/2006/02/14/turia-state-of-the-nation-address/index.html
+layout: layout.njk
 ---
 Turia: State of the Nation Address
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: tāmaki-is-ready-for-a-fresh-new-voice
-title: "Tāmaki Is Ready For A Fresh New Voice"
-date: 2023-10-03
-source-url: https://www.scoop.co.nz/stories/PO2310/S00032/tamaki-is-ready-for-a-fresh-new-voice.htm
+title: Tāmaki Is Ready For A Fresh New Voice
+date: 2023-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2310/S00032/tamaki-is-ready-for-a-fresh-new-voice.htm
 author: act-new-zealand
+permalink: /archive/2023/10/03/t/index.html
+layout: layout.njk
 ---
 Tāmaki Is Ready For A Fresh New Voice
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: green-spin-is-desperate-propaganda
-title: "Green Spin Is Desperate Propaganda"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/PA0205/S00030/green-spin-is-desperate-propaganda.htm
+title: Green Spin Is Desperate Propaganda
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00030/green-spin-is-desperate-propaganda.htm
 author: green-party
+permalink: /archive/2002/05/01/green-spin-is-desperate-propaganda/index.html
+layout: layout.njk
 ---
 Green Spin Is Desperate Propaganda
 ==================================

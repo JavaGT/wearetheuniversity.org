@@ -1,9 +1,12 @@
 ---
 slug: widespread-support-for-irrigation-charge
-title: "Widespread support for irrigation charge"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/PA1109/S00610/widespread-support-for-irrigation-charge.htm
+title: Widespread support for irrigation charge
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00610/widespread-support-for-irrigation-charge.htm
 author: green-party
+permalink: /archive/2011/09/30/widespread-support-for-irrigation-charge/index.html
+layout: layout.njk
 ---
 Widespread support for irrigation charge
 ========================================

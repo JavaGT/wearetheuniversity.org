@@ -1,9 +1,12 @@
 ---
 slug: workers-despair-at-nationals-lack-of-fairness
-title: "Workers despair at Nationals lack of fairness"
-date: 2014-09-15
-source-url: https://www.scoop.co.nz/stories/PO1409/S00333/workers-despair-at-nationals-lack-of-fairness.htm
+title: Workers despair at Nationals lack of fairness
+date: 2014-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00333/workers-despair-at-nationals-lack-of-fairness.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/09/15/workers-despair-at-nationals-lack-of-fairness/index.html
+layout: layout.njk
 ---
 Workers despair at Nationals lack of fairness
 =============================================

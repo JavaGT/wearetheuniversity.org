@@ -1,9 +1,12 @@
 ---
 slug: maharey-doesnt-understand-his-own-jargon
-title: "Maharey Doesn't Understand His Own Jargon"
-date: 2002-10-01
-source-url: https://www.scoop.co.nz/stories/PA0210/S00026/maharey-doesnt-understand-his-own-jargon.htm
+title: Maharey Doesn't Understand His Own Jargon
+date: 2002-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00026/maharey-doesnt-understand-his-own-jargon.htm
 author: act-new-zealand
+permalink: /archive/2002/10/01/maharey-doesnt-understand-his-own-jargon/index.html
+layout: layout.njk
 ---
 Maharey Doesn't Understand His Own Jargon
 =========================================

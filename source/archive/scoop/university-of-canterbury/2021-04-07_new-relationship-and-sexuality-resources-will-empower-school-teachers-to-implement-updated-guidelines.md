@@ -1,9 +1,16 @@
 ---
-slug: new-relationship-and-sexuality-resources-will-empower-school-teachers-to-implement-updated-guidelines
-title: "New Relationship And Sexuality Resources Will Empower School Teachers To Implement Updated Guidelines"
-date: 2021-04-07
-source-url: https://www.scoop.co.nz/stories/ED2104/S00003/new-relationship-and-sexuality-resources-will-empower-school-teachers-to-implement-updated-guidelines.htm
+slug: >-
+  new-relationship-and-sexuality-resources-will-empower-school-teachers-to-implement-updated-guidelines
+title: >-
+  New Relationship And Sexuality Resources Will Empower School Teachers To
+  Implement Updated Guidelines
+date: 2021-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00003/new-relationship-and-sexuality-resources-will-empower-school-teachers-to-implement-updated-guidelines.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/04/07/new-relationship-and-sexuality-resources-will-empower-school-teachers-to-implement-updated-guidelines/index.html
+layout: layout.njk
 ---
 New Relationship And Sexuality Resources Will Empower School Teachers To Implement Updated Guidelines
 =====================================================================================================

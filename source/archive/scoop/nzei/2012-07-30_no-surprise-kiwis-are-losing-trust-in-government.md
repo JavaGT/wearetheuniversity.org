@@ -1,9 +1,13 @@
 ---
 slug: no-surprise-kiwis-are-losing-trust-in-government
-title: "No surprise Kiwis are losing trust in Government"
-date: 2012-07-30
-source-url: https://www.scoop.co.nz/stories/PO1207/S00405/no-surprise-kiwis-are-losing-trust-in-government.htm
+title: No surprise Kiwis are losing trust in Government
+date: 2012-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00405/no-surprise-kiwis-are-losing-trust-in-government.htm
 author: nzei
+permalink: >-
+  /archive/2012/07/30/no-surprise-kiwis-are-losing-trust-in-government/index.html
+layout: layout.njk
 ---
 No surprise Kiwis are losing trust in Government
 ================================================

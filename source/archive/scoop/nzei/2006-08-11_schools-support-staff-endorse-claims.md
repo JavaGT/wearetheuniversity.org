@@ -1,9 +1,12 @@
 ---
 slug: schools-support-staff-endorse-claims
-title: "Schools Support Staff Endorse Claims"
-date: 2006-08-11
-source-url: https://www.scoop.co.nz/stories/ED0608/S00039/schools-support-staff-endorse-claims.htm
+title: Schools Support Staff Endorse Claims
+date: 2006-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00039/schools-support-staff-endorse-claims.htm
 author: nzei
+permalink: /archive/2006/08/11/schools-support-staff-endorse-claims/index.html
+layout: layout.njk
 ---
 Schools Support Staff Endorse Claims
 ====================================

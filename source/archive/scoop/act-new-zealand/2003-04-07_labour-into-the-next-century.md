@@ -1,9 +1,11 @@
 ---
 slug: labour-into-the-next-century
-title: "Labour: Into The Next Century"
-date: 2003-04-07
+title: 'Labour: Into The Next Century'
+date: 2003-04-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0304/S00121/labour-into-the-next-century.htm
 author: act-new-zealand
+permalink: /archive/2003/04/07/labour-into-the-next-century/index.html
+layout: layout.njk
 ---
 Labour: Into The Next Century
 =============================

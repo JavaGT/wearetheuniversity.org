@@ -1,9 +1,12 @@
 ---
 slug: canterbury-earthquake-portfolios-reallocated
-title: "Canterbury earthquake portfolios reallocated"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/PA1307/S00195/canterbury-earthquake-portfolios-reallocated.htm
+title: Canterbury earthquake portfolios reallocated
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00195/canterbury-earthquake-portfolios-reallocated.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/11/canterbury-earthquake-portfolios-reallocated/index.html
+layout: layout.njk
 ---
 Canterbury earthquake portfolios reallocated
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-resignation-of-dr-rongo-wetere
-title: "Maori Party: Resignation of Dr Rongo Wetere"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/PA0512/S00255/maori-party-resignation-of-dr-rongo-wetere.htm
+title: 'Maori Party: Resignation of Dr Rongo Wetere'
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00255/maori-party-resignation-of-dr-rongo-wetere.htm
 author: te-pati-maori
+permalink: /archive/2005/12/16/maori-party-resignation-of-dr-rongo-wetere/index.html
+layout: layout.njk
 ---
 Maori Party: Resignation of Dr Rongo Wetere
 ===========================================

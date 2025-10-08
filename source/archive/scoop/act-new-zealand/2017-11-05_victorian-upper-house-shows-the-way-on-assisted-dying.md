@@ -1,9 +1,13 @@
 ---
 slug: victorian-upper-house-shows-the-way-on-assisted-dying
-title: "Victorian Upper House Shows the Way on Assisted Dying"
-date: 2017-11-05
-source-url: https://www.scoop.co.nz/stories/PA1711/S00025/victorian-upper-house-shows-the-way-on-assisted-dying.htm
+title: Victorian Upper House Shows the Way on Assisted Dying
+date: 2017-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00025/victorian-upper-house-shows-the-way-on-assisted-dying.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/11/05/victorian-upper-house-shows-the-way-on-assisted-dying/index.html
+layout: layout.njk
 ---
 Victorian Upper House Shows the Way on Assisted Dying
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-embraces-the-mushroom-principle-no-bull
-title: "National Embraces the Mushroom Principle – No Bull"
-date: 2016-09-14
-source-url: https://www.scoop.co.nz/stories/PA1609/S00247/national-embraces-the-mushroom-principle-no-bull.htm
+title: National Embraces the Mushroom Principle – No Bull
+date: 2016-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00247/national-embraces-the-mushroom-principle-no-bull.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/14/national-embraces-the-mushroom-principle-no-bull/index.html
+layout: layout.njk
 ---
 National Embraces the Mushroom Principle – No Bull
 ==================================================

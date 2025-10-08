@@ -1,9 +1,12 @@
 ---
 slug: gap-in-living-standards-must-be-addressed
-title: "Gap in Living Standards Must be Addressed"
-date: 2007-04-24
-source-url: https://www.scoop.co.nz/stories/PA0704/S00393/gap-in-living-standards-must-be-addressed.htm
+title: Gap in Living Standards Must be Addressed
+date: 2007-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00393/gap-in-living-standards-must-be-addressed.htm
 author: te-pati-maori
+permalink: /archive/2007/04/24/gap-in-living-standards-must-be-addressed/index.html
+layout: layout.njk
 ---
 Gap in Living Standards Must be Addressed
 =========================================

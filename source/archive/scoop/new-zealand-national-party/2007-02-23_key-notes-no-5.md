@@ -1,9 +1,11 @@
 ---
 slug: key-notes-no-5
-title: "Key Notes No. 5"
-date: 2007-02-23
+title: Key Notes No. 5
+date: 2007-02-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00434/key-notes-no-5.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/23/key-notes-no-5/index.html
+layout: layout.njk
 ---
 Key Notes No. 5
 ===============

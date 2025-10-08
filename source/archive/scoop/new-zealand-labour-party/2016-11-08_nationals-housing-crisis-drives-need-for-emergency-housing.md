@@ -1,9 +1,13 @@
 ---
 slug: nationals-housing-crisis-drives-need-for-emergency-housing
-title: "National’s housing crisis drives need for emergency housing"
-date: 2016-11-08
-source-url: https://www.scoop.co.nz/stories/PA1611/S00132/nationals-housing-crisis-drives-need-for-emergency-housing.htm
+title: National’s housing crisis drives need for emergency housing
+date: 2016-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00132/nationals-housing-crisis-drives-need-for-emergency-housing.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/11/08/nationals-housing-crisis-drives-need-for-emergency-housing/index.html
+layout: layout.njk
 ---
 National’s housing crisis drives need for emergency housing
 ===========================================================

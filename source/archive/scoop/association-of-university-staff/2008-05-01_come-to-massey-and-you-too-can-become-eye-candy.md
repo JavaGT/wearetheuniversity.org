@@ -1,9 +1,12 @@
 ---
 slug: come-to-massey-and-you-too-can-become-eye-candy
-title: "Come to Massey and you, too, can become eye candy"
-date: 2008-05-01
-source-url: https://www.scoop.co.nz/stories/ED0805/S00002/come-to-massey-and-you-too-can-become-eye-candy.htm
+title: Come to Massey and you, too, can become eye candy
+date: 2008-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00002/come-to-massey-and-you-too-can-become-eye-candy.htm
 author: association-of-university-staff
+permalink: /archive/2008/05/01/come-to-massey-and-you-too-can-become-eye-candy/index.html
+layout: layout.njk
 ---
 Come to Massey and you, too, can become eye candy
 =================================================

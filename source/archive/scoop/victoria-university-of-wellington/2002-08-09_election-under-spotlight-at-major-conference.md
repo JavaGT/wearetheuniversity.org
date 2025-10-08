@@ -1,9 +1,12 @@
 ---
 slug: election-under-spotlight-at-major-conference
-title: "Election Under Spotlight at Major Conference"
-date: 2002-08-09
-source-url: https://www.scoop.co.nz/stories/PO0208/S00030/election-under-spotlight-at-major-conference.htm
+title: Election Under Spotlight at Major Conference
+date: 2002-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0208/S00030/election-under-spotlight-at-major-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/08/09/election-under-spotlight-at-major-conference/index.html
+layout: layout.njk
 ---
 Election Under Spotlight at Major Conference
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: crown-entities-governance-&-accountability-regime
-title: "Crown Entities Governance &  Accountability Regime"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00461/crown-entities-governance-accountability-regime.htm
+title: Crown Entities Governance &  Accountability Regime
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00461/crown-entities-governance-accountability-regime.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/20/crown-entities-governance-/index.html
+layout: layout.njk
 ---
 Crown Entities Governance & Accountability Regime
 =================================================

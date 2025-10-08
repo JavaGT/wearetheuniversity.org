@@ -1,9 +1,12 @@
 ---
 slug: students-demand-vice-chancellors-tell-the-truth
-title: "Students demand Vice Chancellors tell the truth"
-date: 2009-02-18
-source-url: https://www.scoop.co.nz/stories/ED0902/S00059/students-demand-vice-chancellors-tell-the-truth.htm
+title: Students demand Vice Chancellors tell the truth
+date: 2009-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00059/students-demand-vice-chancellors-tell-the-truth.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/02/18/students-demand-vice-chancellors-tell-the-truth/index.html
+layout: layout.njk
 ---
 Students demand Vice Chancellors tell the truth
 ===============================================

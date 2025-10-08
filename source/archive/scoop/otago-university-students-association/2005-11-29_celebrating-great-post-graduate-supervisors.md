@@ -1,9 +1,12 @@
 ---
 slug: celebrating-great-post-graduate-supervisors
-title: "Celebrating great post-graduate supervisors"
-date: 2005-11-29
-source-url: https://www.scoop.co.nz/stories/ED0511/S00096/celebrating-great-post-graduate-supervisors.htm
+title: Celebrating great post-graduate supervisors
+date: 2005-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00096/celebrating-great-post-graduate-supervisors.htm
 author: otago-university-students-association
+permalink: /archive/2005/11/29/celebrating-great-post-graduate-supervisors/index.html
+layout: layout.njk
 ---
 Celebrating great post-graduate supervisors
 ===========================================

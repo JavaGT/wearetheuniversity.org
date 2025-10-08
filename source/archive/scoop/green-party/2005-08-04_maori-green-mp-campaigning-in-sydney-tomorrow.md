@@ -1,9 +1,12 @@
 ---
 slug: maori-green-mp-campaigning-in-sydney-tomorrow
-title: "Maori Green MP campaigning in Sydney tomorrow"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/PA0508/S00124/maori-green-mp-campaigning-in-sydney-tomorrow.htm
+title: Maori Green MP campaigning in Sydney tomorrow
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00124/maori-green-mp-campaigning-in-sydney-tomorrow.htm
 author: green-party
+permalink: /archive/2005/08/04/maori-green-mp-campaigning-in-sydney-tomorrow/index.html
+layout: layout.njk
 ---
 Maori Green MP campaigning in Sydney tomorrow
 =============================================

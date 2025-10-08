@@ -1,9 +1,11 @@
 ---
 slug: penny-webster-maiden-speech
-title: "Penny Webster Maiden Speech"
-date: 2000-02-15
+title: Penny Webster Maiden Speech
+date: 2000-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0002/S00180/penny-webster-maiden-speech.htm
 author: act-new-zealand
+permalink: /archive/2000/02/15/penny-webster-maiden-speech/index.html
+layout: layout.njk
 ---
 Penny Webster Maiden Speech
 ===========================

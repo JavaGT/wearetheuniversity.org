@@ -1,9 +1,13 @@
 ---
 slug: act-would-remove-barriers-to-finance-for-build-to-rent-schemes
-title: "ACT Would Remove Barriers To Finance For Build-to-rent Schemes"
-date: 2021-07-12
-source-url: https://www.scoop.co.nz/stories/PA2107/S00094/act-would-remove-barriers-to-finance-for-build-to-rent-schemes.htm
+title: ACT Would Remove Barriers To Finance For Build-to-rent Schemes
+date: 2021-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00094/act-would-remove-barriers-to-finance-for-build-to-rent-schemes.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/07/12/act-would-remove-barriers-to-finance-for-build-to-rent-schemes/index.html
+layout: layout.njk
 ---
 ACT Would Remove Barriers To Finance For Build-to-rent Schemes
 ==============================================================

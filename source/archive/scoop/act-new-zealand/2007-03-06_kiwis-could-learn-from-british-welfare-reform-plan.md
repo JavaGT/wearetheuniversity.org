@@ -1,9 +1,13 @@
 ---
 slug: kiwis-could-learn-from-british-welfare-reform-plan
-title: "Kiwis Could Learn From British Welfare Reform Plan"
-date: 2007-03-06
-source-url: https://www.scoop.co.nz/stories/PA0703/S00085/kiwis-could-learn-from-british-welfare-reform-plan.htm
+title: Kiwis Could Learn From British Welfare Reform Plan
+date: 2007-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00085/kiwis-could-learn-from-british-welfare-reform-plan.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2007/03/06/kiwis-could-learn-from-british-welfare-reform-plan/index.html
+layout: layout.njk
 ---
 Kiwis Could Learn From British Welfare Reform Plan
 ==================================================

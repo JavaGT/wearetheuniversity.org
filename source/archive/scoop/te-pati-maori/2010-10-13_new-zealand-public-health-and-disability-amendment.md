@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-public-health-and-disability-amendment
-title: "New Zealand Public Health and Disability Amendment"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00170/new-zealand-public-health-and-disability-amendment.htm
+title: New Zealand Public Health and Disability Amendment
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00170/new-zealand-public-health-and-disability-amendment.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/10/13/new-zealand-public-health-and-disability-amendment/index.html
+layout: layout.njk
 ---
 New Zealand Public Health and Disability Amendment
 ==================================================

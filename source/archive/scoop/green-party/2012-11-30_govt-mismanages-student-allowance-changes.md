@@ -1,9 +1,12 @@
 ---
 slug: govt-mismanages-student-allowance-changes
-title: "Govt Mismanages Student Allowance Changes"
-date: 2012-11-30
-source-url: https://www.scoop.co.nz/stories/PA1211/S00517/govt-mismanages-student-allowance-changes.htm
+title: Govt Mismanages Student Allowance Changes
+date: 2012-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00517/govt-mismanages-student-allowance-changes.htm
 author: green-party
+permalink: /archive/2012/11/30/govt-mismanages-student-allowance-changes/index.html
+layout: layout.njk
 ---
 Govt Mismanages Student Allowance Changes
 =========================================

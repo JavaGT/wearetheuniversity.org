@@ -1,9 +1,12 @@
 ---
 slug: national-calls-in-auditor-general
-title: "National calls in Auditor-General"
-date: 2006-10-19
-source-url: https://www.scoop.co.nz/stories/PA0610/S00382/national-calls-in-auditor-general.htm
+title: National calls in Auditor-General
+date: 2006-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00382/national-calls-in-auditor-general.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/19/national-calls-in-auditor-general/index.html
+layout: layout.njk
 ---
 National calls in Auditor-General
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: sneaky-tax-surprise-for-tertiary-graduates
-title: "Sneaky tax surprise for tertiary graduates"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/PA1405/S00316/sneaky-tax-surprise-for-tertiary-graduates.htm
+title: Sneaky tax surprise for tertiary graduates
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00316/sneaky-tax-surprise-for-tertiary-graduates.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/16/sneaky-tax-surprise-for-tertiary-graduates/index.html
+layout: layout.njk
 ---
 Sneaky tax surprise for tertiary graduates
 ==========================================

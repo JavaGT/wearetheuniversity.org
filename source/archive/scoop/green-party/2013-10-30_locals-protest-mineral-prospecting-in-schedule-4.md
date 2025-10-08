@@ -1,9 +1,13 @@
 ---
 slug: locals-protest-mineral-prospecting-in-schedule-4
-title: "Locals protest mineral prospecting in Schedule 4"
-date: 2013-10-30
-source-url: https://www.scoop.co.nz/stories/PA1310/S00462/locals-protest-mineral-prospecting-in-schedule-4.htm
+title: Locals protest mineral prospecting in Schedule 4
+date: 2013-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00462/locals-protest-mineral-prospecting-in-schedule-4.htm
 author: green-party
+permalink: >-
+  /archive/2013/10/30/locals-protest-mineral-prospecting-in-schedule-4/index.html
+layout: layout.njk
 ---
 Locals protest mineral prospecting in Schedule 4
 ================================================

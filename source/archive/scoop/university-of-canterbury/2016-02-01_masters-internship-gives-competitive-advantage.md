@@ -1,9 +1,12 @@
 ---
 slug: masters-internship-gives-competitive-advantage
-title: "Master’s internship gives competitive advantage"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/ED1602/S00012/masters-internship-gives-competitive-advantage.htm
+title: Master’s internship gives competitive advantage
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00012/masters-internship-gives-competitive-advantage.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/01/masters-internship-gives-competitive-advantage/index.html
+layout: layout.njk
 ---
 Master’s internship gives competitive advantage
 ===============================================

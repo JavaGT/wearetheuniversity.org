@@ -1,9 +1,12 @@
 ---
 slug: public-surveyed-on-state-of-the-environment
-title: "Public surveyed on state of the environment"
-date: 2020-02-03
-source-url: https://www.scoop.co.nz/stories/SC2002/S00003/public-surveyed-on-state-of-the-environment.htm
+title: Public surveyed on state of the environment
+date: 2020-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2002/S00003/public-surveyed-on-state-of-the-environment.htm
 author: lincoln-university
+permalink: /archive/2020/02/03/public-surveyed-on-state-of-the-environment/index.html
+layout: layout.njk
 ---
 Public surveyed on state of the environment
 ===========================================

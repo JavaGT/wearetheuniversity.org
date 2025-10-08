@@ -1,9 +1,12 @@
 ---
 slug: new-fund-to-support-māori-boarding-schools
-title: "New Fund To Support Māori Boarding Schools"
-date: 2020-09-26
-source-url: https://www.scoop.co.nz/stories/PO2009/S00394/new-fund-to-support-maori-boarding-schools.htm
+title: New Fund To Support Māori Boarding Schools
+date: 2020-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00394/new-fund-to-support-maori-boarding-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/09/26/new-fund-to-support-m/index.html
+layout: layout.njk
 ---
 New Fund To Support Māori Boarding Schools
 ==========================================

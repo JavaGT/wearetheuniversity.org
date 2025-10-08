@@ -1,9 +1,13 @@
 ---
 slug: turia-inquiries-following-claims-of-ecological-vandalism
-title: "Turia: Inquiries following claims of ‘ecological vandalism'"
-date: 2011-05-29
-source-url: https://www.scoop.co.nz/stories/PA1105/S00606/turia-inquiries-following-claims-of-ecological-vandalism.htm
+title: 'Turia: Inquiries following claims of ‘ecological vandalism'''
+date: 2011-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00606/turia-inquiries-following-claims-of-ecological-vandalism.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/29/turia-inquiries-following-claims-of-ecological-vandalism/index.html
+layout: layout.njk
 ---
 Turia: Inquiries following claims of ‘ecological vandalism'
 ===========================================================

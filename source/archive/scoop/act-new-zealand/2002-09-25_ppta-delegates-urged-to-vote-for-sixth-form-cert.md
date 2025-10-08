@@ -1,9 +1,13 @@
 ---
 slug: ppta-delegates-urged-to-vote-for-sixth-form-cert
-title: "PPTA Delegates Urged to Vote for Sixth Form  Cert"
-date: 2002-09-25
-source-url: https://www.scoop.co.nz/stories/PA0209/S00418/ppta-delegates-urged-to-vote-for-sixth-form-cert.htm
+title: PPTA Delegates Urged to Vote for Sixth Form  Cert
+date: 2002-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00418/ppta-delegates-urged-to-vote-for-sixth-form-cert.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/09/25/ppta-delegates-urged-to-vote-for-sixth-form-cert/index.html
+layout: layout.njk
 ---
 PPTA Delegates Urged to Vote for Sixth Form Cert
 ================================================

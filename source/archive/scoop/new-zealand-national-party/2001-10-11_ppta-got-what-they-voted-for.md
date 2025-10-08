@@ -1,9 +1,11 @@
 ---
 slug: ppta-got-what-they-voted-for
-title: "PPTA got what they voted for"
-date: 2001-10-11
+title: PPTA got what they voted for
+date: 2001-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0110/S00253/ppta-got-what-they-voted-for.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/11/ppta-got-what-they-voted-for/index.html
+layout: layout.njk
 ---
 PPTA got what they voted for
 ============================

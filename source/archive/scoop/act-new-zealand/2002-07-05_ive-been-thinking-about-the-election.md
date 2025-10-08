@@ -1,9 +1,12 @@
 ---
 slug: ive-been-thinking-about-the-election
-title: "I’ve Been Thinking about the Election"
-date: 2002-07-05
-source-url: https://www.scoop.co.nz/stories/PA0207/S00183/ive-been-thinking-about-the-election.htm
+title: I’ve Been Thinking about the Election
+date: 2002-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00183/ive-been-thinking-about-the-election.htm
 author: act-new-zealand
+permalink: /archive/2002/07/05/ive-been-thinking-about-the-election/index.html
+layout: layout.njk
 ---
 I’ve Been Thinking about the Election
 =====================================

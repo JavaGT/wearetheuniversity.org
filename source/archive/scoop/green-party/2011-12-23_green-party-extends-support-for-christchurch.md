@@ -1,9 +1,12 @@
 ---
 slug: green-party-extends-support-for-christchurch
-title: "Green Party extends support for Christchurch"
-date: 2011-12-23
-source-url: https://www.scoop.co.nz/stories/PA1112/S00189/green-party-extends-support-for-christchurch.htm
+title: Green Party extends support for Christchurch
+date: 2011-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00189/green-party-extends-support-for-christchurch.htm
 author: green-party
+permalink: /archive/2011/12/23/green-party-extends-support-for-christchurch/index.html
+layout: layout.njk
 ---
 Green Party extends support for Christchurch
 ============================================

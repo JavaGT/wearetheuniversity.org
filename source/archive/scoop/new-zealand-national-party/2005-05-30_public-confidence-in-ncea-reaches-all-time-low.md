@@ -1,9 +1,12 @@
 ---
 slug: public-confidence-in-ncea-reaches-all-time-low
-title: "Public confidence in NCEA reaches all-time low"
-date: 2005-05-30
-source-url: https://www.scoop.co.nz/stories/PA0505/S00740/public-confidence-in-ncea-reaches-all-time-low.htm
+title: Public confidence in NCEA reaches all-time low
+date: 2005-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00740/public-confidence-in-ncea-reaches-all-time-low.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/30/public-confidence-in-ncea-reaches-all-time-low/index.html
+layout: layout.njk
 ---
 Public confidence in NCEA reaches all-time low
 ==============================================

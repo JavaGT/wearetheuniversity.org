@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-honours-former-vice-chancellor
-title: "University of Waikato honours former Vice-Chancellor"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/ED1604/S00030/university-of-waikato-honours-former-vice-chancellor.htm
+title: University of Waikato honours former Vice-Chancellor
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00030/university-of-waikato-honours-former-vice-chancellor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/04/11/university-of-waikato-honours-former-vice-chancellor/index.html
+layout: layout.njk
 ---
 University of Waikato honours former Vice-Chancellor
 ====================================================

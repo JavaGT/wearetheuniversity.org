@@ -1,9 +1,12 @@
 ---
 slug: the-changing-tide-of-politics
-title: "\"The changing tide of politics\""
-date: 2004-05-14
-source-url: https://www.scoop.co.nz/stories/PA0405/S00311/the-changing-tide-of-politics.htm
+title: '"The changing tide of politics"'
+date: 2004-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00311/the-changing-tide-of-politics.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/14/the-changing-tide-of-politics/index.html
+layout: layout.njk
 ---
 “The changing tide of politics”
 ===============================

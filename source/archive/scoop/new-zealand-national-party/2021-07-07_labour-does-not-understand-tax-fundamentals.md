@@ -1,9 +1,12 @@
 ---
 slug: labour-does-not-understand-tax-fundamentals
-title: "Labour Does Not Understand Tax Fundamentals"
-date: 2021-07-07
-source-url: https://www.scoop.co.nz/stories/PA2107/S00059/labour-does-not-understand-tax-fundamentals.htm
+title: Labour Does Not Understand Tax Fundamentals
+date: 2021-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00059/labour-does-not-understand-tax-fundamentals.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/07/labour-does-not-understand-tax-fundamentals/index.html
+layout: layout.njk
 ---
 Labour Does Not Understand Tax Fundamentals
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: a-cold-but-golden-opportunity
-title: "A cold but golden opportunity"
-date: 2015-09-29
-source-url: https://www.scoop.co.nz/stories/ED1509/S00170/a-cold-but-golden-opportunity.htm
+title: A cold but golden opportunity
+date: 2015-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00170/a-cold-but-golden-opportunity.htm
 author: university-of-waikato
+permalink: /archive/2015/09/29/a-cold-but-golden-opportunity/index.html
+layout: layout.njk
 ---
 A cold but golden opportunity
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: prize-in-modern-letters-announcement
-title: "Prize in Modern Letters announcement"
-date: 2004-03-11
-source-url: https://www.scoop.co.nz/stories/ED0403/S00045/prize-in-modern-letters-announcement.htm
+title: Prize in Modern Letters announcement
+date: 2004-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00045/prize-in-modern-letters-announcement.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/11/prize-in-modern-letters-announcement/index.html
+layout: layout.njk
 ---
 Prize in Modern Letters announcement
 ====================================

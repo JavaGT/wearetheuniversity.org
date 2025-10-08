@@ -1,9 +1,13 @@
 ---
 slug: a-cowardly-anti-palestinian-parliamentary-motion
-title: "A Cowardly, Anti-Palestinian Parliamentary Motion"
-date: 2023-12-08
-source-url: https://www.scoop.co.nz/stories/PO2312/S00067/a-cowardly-anti-palestinian-parliamentary-motion.htm
+title: A Cowardly, Anti-Palestinian Parliamentary Motion
+date: 2023-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00067/a-cowardly-anti-palestinian-parliamentary-motion.htm
 author: palestine-solidarity-network-aotearoa
+permalink: >-
+  /archive/2023/12/08/a-cowardly-anti-palestinian-parliamentary-motion/index.html
+layout: layout.njk
 ---
 A Cowardly, Anti-Palestinian Parliamentary Motion
 =================================================

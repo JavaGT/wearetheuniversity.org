@@ -1,9 +1,12 @@
 ---
 slug: failure-to-teach-reading-inexcusable
-title: "Failure to Teach Reading Inexcusable"
-date: 2001-03-22
-source-url: https://www.scoop.co.nz/stories/PA0103/S00394/failure-to-teach-reading-inexcusable.htm
+title: Failure to Teach Reading Inexcusable
+date: 2001-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00394/failure-to-teach-reading-inexcusable.htm
 author: act-new-zealand
+permalink: /archive/2001/03/22/failure-to-teach-reading-inexcusable/index.html
+layout: layout.njk
 ---
 Failure to Teach Reading Inexcusable
 ====================================

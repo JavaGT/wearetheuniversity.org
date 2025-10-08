@@ -1,9 +1,12 @@
 ---
 slug: dame-malvina-major-to-share-stage-with-students
-title: "Dame Malvina Major to share stage with students"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/AK1202/S00335/dame-malvina-major-to-share-stage-with-students.htm
+title: Dame Malvina Major to share stage with students
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1202/S00335/dame-malvina-major-to-share-stage-with-students.htm
 author: university-of-waikato
+permalink: /archive/2012/02/17/dame-malvina-major-to-share-stage-with-students/index.html
+layout: layout.njk
 ---
 Dame Malvina Major to share stage with students
 ===============================================

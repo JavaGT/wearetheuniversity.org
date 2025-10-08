@@ -1,9 +1,12 @@
 ---
 slug: labour-joins-calls-for-ceasefire-in-sri-lanka
-title: "Labour joins calls for ceasefire in Sri Lanka"
-date: 2009-03-08
-source-url: https://www.scoop.co.nz/stories/PA0903/S00109/labour-joins-calls-for-ceasefire-in-sri-lanka.htm
+title: Labour joins calls for ceasefire in Sri Lanka
+date: 2009-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00109/labour-joins-calls-for-ceasefire-in-sri-lanka.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/08/labour-joins-calls-for-ceasefire-in-sri-lanka/index.html
+layout: layout.njk
 ---
 Labour joins calls for ceasefire in Sri Lanka
 =============================================

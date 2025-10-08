@@ -1,9 +1,13 @@
 ---
 slug: john-keys-speech-to-business-new-zealand-amora-hotel-wgtn
-title: "John Key's Speech to Business New Zealand Amora Hotel Wgtn"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/PA1110/S00485/john-keys-speech-to-business-new-zealand-amora-hotel-wgtn.htm
+title: John Key's Speech to Business New Zealand Amora Hotel Wgtn
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00485/john-keys-speech-to-business-new-zealand-amora-hotel-wgtn.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/10/31/john-keys-speech-to-business-new-zealand-amora-hotel-wgtn/index.html
+layout: layout.njk
 ---
 John Key's Speech to Business New Zealand Amora Hotel Wgtn
 ==========================================================

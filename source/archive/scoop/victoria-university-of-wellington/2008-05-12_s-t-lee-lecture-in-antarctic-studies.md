@@ -1,9 +1,12 @@
 ---
 slug: s-t-lee-lecture-in-antarctic-studies
-title: "S.T. Lee Lecture In Antarctic Studies"
-date: 2008-05-12
-source-url: https://www.scoop.co.nz/stories/SC0805/S00029/st-lee-lecture-in-antarctic-studies.htm
+title: S.T. Lee Lecture In Antarctic Studies
+date: 2008-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0805/S00029/st-lee-lecture-in-antarctic-studies.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/12/s-t-lee-lecture-in-antarctic-studies/index.html
+layout: layout.njk
 ---
 S.T. Lee Lecture In Antarctic Studies
 =====================================

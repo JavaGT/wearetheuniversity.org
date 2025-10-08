@@ -1,9 +1,12 @@
 ---
 slug: clean-power-payment-james-shaw-speech
-title: "Clean Power Payment – James Shaw Speech"
-date: 2023-08-13
-source-url: https://www.scoop.co.nz/stories/PO2308/S00129/clean-power-payment-james-shaw-speech.htm
+title: Clean Power Payment – James Shaw Speech
+date: 2023-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00129/clean-power-payment-james-shaw-speech.htm
 author: green-party
+permalink: /archive/2023/08/13/clean-power-payment-james-shaw-speech/index.html
+layout: layout.njk
 ---
 Clean Power Payment – James Shaw Speech
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: the-impact-of-floods-on-maori-communities
-title: "The impact of floods on Maori communities"
-date: 2007-08-06
-source-url: https://www.scoop.co.nz/stories/ED0708/S00014/the-impact-of-floods-on-maori-communities.htm
+title: The impact of floods on Maori communities
+date: 2007-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00014/the-impact-of-floods-on-maori-communities.htm
 author: massey-university
+permalink: /archive/2007/08/06/the-impact-of-floods-on-maori-communities/index.html
+layout: layout.njk
 ---
 The impact of floods on Maori communities
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: mâori-students-caught-in-election-cross-fire
-title: "Mâori students caught in  election cross-fire"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/ED0509/S00002/maori-students-caught-in-election-cross-fire.htm
+title: Mâori students caught in  election cross-fire
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00002/maori-students-caught-in-election-cross-fire.htm
 author: te-mana-akonga
+permalink: /archive/2005/09/01/m/index.html
+layout: layout.njk
 ---
 Mâori students caught in election cross-fire
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: hillside-victim-of-government-neglect
-title: "Hillside victim of government neglect"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/PA1204/S00246/hillside-victim-of-government-neglect.htm
+title: Hillside victim of government neglect
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00246/hillside-victim-of-government-neglect.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/19/hillside-victim-of-government-neglect/index.html
+layout: layout.njk
 ---
 Hillside victim of government neglect
 =====================================

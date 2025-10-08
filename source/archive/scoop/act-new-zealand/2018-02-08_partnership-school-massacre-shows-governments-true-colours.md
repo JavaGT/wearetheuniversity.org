@@ -1,9 +1,13 @@
 ---
 slug: partnership-school-massacre-shows-governments-true-colours
-title: "Partnership School Massacre Shows Government's True Colours"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/PA1802/S00065/partnership-school-massacre-shows-governments-true-colours.htm
+title: Partnership School Massacre Shows Government's True Colours
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00065/partnership-school-massacre-shows-governments-true-colours.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/02/08/partnership-school-massacre-shows-governments-true-colours/index.html
+layout: layout.njk
 ---
 Partnership School Massacre Shows Government's True Colours
 ===========================================================

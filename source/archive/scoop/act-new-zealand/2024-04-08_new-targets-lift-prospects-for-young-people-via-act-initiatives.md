@@ -1,9 +1,13 @@
 ---
 slug: new-targets-lift-prospects-for-young-people-via-act-initiatives
-title: "New Targets Lift Prospects For Young People Via ACT Initiatives"
-date: 2024-04-08
-source-url: https://www.scoop.co.nz/stories/PA2404/S00050/new-targets-lift-prospects-for-young-people-via-act-initiatives.htm
+title: New Targets Lift Prospects For Young People Via ACT Initiatives
+date: 2024-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00050/new-targets-lift-prospects-for-young-people-via-act-initiatives.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/04/08/new-targets-lift-prospects-for-young-people-via-act-initiatives/index.html
+layout: layout.njk
 ---
 New Targets Lift Prospects For Young People Via ACT Initiatives
 ===============================================================

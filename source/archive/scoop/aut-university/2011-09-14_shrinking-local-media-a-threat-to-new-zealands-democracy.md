@@ -1,9 +1,13 @@
 ---
 slug: shrinking-local-media-a-threat-to-new-zealands-democracy
-title: "Shrinking local media a threat to New Zealand’s democracy"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/ED1109/S00048/shrinking-local-media-a-threat-to-new-zealands-democracy.htm
+title: Shrinking local media a threat to New Zealand’s democracy
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00048/shrinking-local-media-a-threat-to-new-zealands-democracy.htm
 author: aut-university
+permalink: >-
+  /archive/2011/09/14/shrinking-local-media-a-threat-to-new-zealands-democracy/index.html
+layout: layout.njk
 ---
 Shrinking local media a threat to New Zealand’s democracy
 =========================================================

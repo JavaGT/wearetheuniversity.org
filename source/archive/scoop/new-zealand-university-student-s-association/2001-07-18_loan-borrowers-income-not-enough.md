@@ -1,9 +1,12 @@
 ---
 slug: loan-borrowers-income-not-enough
-title: "Loan Borrowers’ Income Not Enough"
-date: 2001-07-18
-source-url: https://www.scoop.co.nz/stories/ED0107/S00025/loan-borrowers-income-not-enough.htm
+title: Loan Borrowers’ Income Not Enough
+date: 2001-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00025/loan-borrowers-income-not-enough.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/07/18/loan-borrowers-income-not-enough/index.html
+layout: layout.njk
 ---
 Loan Borrowers’ Income Not Enough
 =================================

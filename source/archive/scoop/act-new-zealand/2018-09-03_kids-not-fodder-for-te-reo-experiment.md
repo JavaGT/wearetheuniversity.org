@@ -1,9 +1,12 @@
 ---
 slug: kids-not-fodder-for-te-reo-experiment
-title: "Kids not fodder for te reo experiment"
-date: 2018-09-03
-source-url: https://www.scoop.co.nz/stories/PA1809/S00004/kids-not-fodder-for-te-reo-experiment.htm
+title: Kids not fodder for te reo experiment
+date: 2018-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00004/kids-not-fodder-for-te-reo-experiment.htm
 author: act-new-zealand
+permalink: /archive/2018/09/03/kids-not-fodder-for-te-reo-experiment/index.html
+layout: layout.njk
 ---
 Kids not fodder for te reo experiment
 =====================================

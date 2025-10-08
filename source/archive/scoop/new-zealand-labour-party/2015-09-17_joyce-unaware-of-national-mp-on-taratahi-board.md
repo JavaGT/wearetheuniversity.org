@@ -1,9 +1,12 @@
 ---
 slug: joyce-unaware-of-national-mp-on-taratahi-board
-title: "Joyce unaware of National MP on Taratahi board"
-date: 2015-09-17
-source-url: https://www.scoop.co.nz/stories/ED1509/S00106/joyce-unaware-of-national-mp-on-taratahi-board.htm
+title: Joyce unaware of National MP on Taratahi board
+date: 2015-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00106/joyce-unaware-of-national-mp-on-taratahi-board.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/17/joyce-unaware-of-national-mp-on-taratahi-board/index.html
+layout: layout.njk
 ---
 Joyce unaware of National MP on Taratahi board
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-ways-of-treating-mental-illness
-title: "New ways of treating mental illness"
-date: 2008-02-18
-source-url: https://www.scoop.co.nz/stories/GE0802/S00060/new-ways-of-treating-mental-illness.htm
+title: New ways of treating mental illness
+date: 2008-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0802/S00060/new-ways-of-treating-mental-illness.htm
 author: university-of-otago
+permalink: /archive/2008/02/18/new-ways-of-treating-mental-illness/index.html
+layout: layout.njk
 ---
 New ways of treating mental illness
 ===================================

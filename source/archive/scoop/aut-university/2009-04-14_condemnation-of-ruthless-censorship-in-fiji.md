@@ -1,9 +1,12 @@
 ---
 slug: condemnation-of-ruthless-censorship-in-fiji
-title: "Condemnation of \"ruthless censorship\" in Fiji"
-date: 2009-04-14
-source-url: https://www.scoop.co.nz/stories/WO0904/S00193/condemnation-of-ruthless-censorship-in-fiji.htm
+title: Condemnation of "ruthless censorship" in Fiji
+date: 2009-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0904/S00193/condemnation-of-ruthless-censorship-in-fiji.htm
 author: aut-university
+permalink: /archive/2009/04/14/condemnation-of-ruthless-censorship-in-fiji/index.html
+layout: layout.njk
 ---
 Condemnation of "ruthless censorship" in Fiji
 =============================================

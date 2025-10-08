@@ -1,9 +1,11 @@
 ---
 slug: zero-tolerance-for-crime
-title: "Zero Tolerance For Crime"
-date: 2003-07-28
+title: Zero Tolerance For Crime
+date: 2003-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00505/zero-tolerance-for-crime.htm
 author: act-new-zealand
+permalink: /archive/2003/07/28/zero-tolerance-for-crime/index.html
+layout: layout.njk
 ---
 Zero Tolerance For Crime
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: ncea-marking-system-will-be-a-shambles
-title: "NCEA Marking System Will Be A Shambles"
-date: 2001-06-14
-source-url: https://www.scoop.co.nz/stories/PA0106/S00197/ncea-marking-system-will-be-a-shambles.htm
+title: NCEA Marking System Will Be A Shambles
+date: 2001-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00197/ncea-marking-system-will-be-a-shambles.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/14/ncea-marking-system-will-be-a-shambles/index.html
+layout: layout.njk
 ---
 NCEA Marking System Will Be A Shambles
 ======================================

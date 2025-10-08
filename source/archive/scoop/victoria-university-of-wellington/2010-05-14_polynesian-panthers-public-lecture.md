@@ -1,9 +1,12 @@
 ---
 slug: polynesian-panthers-public-lecture
-title: "Polynesian Panthers Public Lecture"
-date: 2010-05-14
-source-url: https://www.scoop.co.nz/stories/ED1005/S00056/polynesian-panthers-public-lecture.htm
+title: Polynesian Panthers Public Lecture
+date: 2010-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00056/polynesian-panthers-public-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/14/polynesian-panthers-public-lecture/index.html
+layout: layout.njk
 ---
 Polynesian Panthers Public Lecture
 ==================================

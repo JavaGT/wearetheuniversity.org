@@ -1,8 +1,11 @@
 ---
 slug: taking-on-obesity-with-science-and-education
-title: "Taking on obesity with science and education"
-date: 2017-01-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/taking-on-obesity-with-science-and-education.html
+title: Taking on obesity with science and education
+date: 2017-01-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/taking-on-obesity-with-science-and-education.html
+permalink: /archive/2017/01/11/taking-on-obesity-with-science-and-education/index.html
+layout: layout.njk
 ---
 Taking on obesity with science and education
 ============================================

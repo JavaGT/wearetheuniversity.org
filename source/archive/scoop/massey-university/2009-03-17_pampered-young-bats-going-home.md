@@ -1,9 +1,12 @@
 ---
 slug: pampered-young-bats-going-home
-title: "Pampered young bats going home"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/AK0903/S00250/pampered-young-bats-going-home.htm
+title: Pampered young bats going home
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0903/S00250/pampered-young-bats-going-home.htm
 author: massey-university
+permalink: /archive/2009/03/17/pampered-young-bats-going-home/index.html
+layout: layout.njk
 ---
 Pampered young bats going home
 ==============================

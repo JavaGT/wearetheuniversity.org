@@ -1,9 +1,12 @@
 ---
 slug: minister-must-heed-womens-refuge-warning
-title: "Minister must heed Women’s Refuge warning"
-date: 2011-07-31
-source-url: https://www.scoop.co.nz/stories/PA1107/S00468/minister-must-heed-womens-refuge-warning.htm
+title: Minister must heed Women’s Refuge warning
+date: 2011-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00468/minister-must-heed-womens-refuge-warning.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/31/minister-must-heed-womens-refuge-warning/index.html
+layout: layout.njk
 ---
 Minister must heed Women’s Refuge warning
 =========================================

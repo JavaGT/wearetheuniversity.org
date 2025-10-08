@@ -1,9 +1,11 @@
 ---
 slug: smart-green-agriculture
-title: "Smart green agriculture"
-date: 2013-02-24
+title: Smart green agriculture
+date: 2013-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1302/S00357/smart-green-agriculture.htm
 author: green-party
+permalink: /archive/2013/02/24/smart-green-agriculture/index.html
+layout: layout.njk
 ---
 Smart green agriculture
 =======================

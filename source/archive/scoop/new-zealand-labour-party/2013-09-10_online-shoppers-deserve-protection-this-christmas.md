@@ -1,9 +1,13 @@
 ---
 slug: online-shoppers-deserve-protection-this-christmas
-title: "Online shoppers deserve protection this Christmas"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/PA1309/S00183/online-shoppers-deserve-protection-this-christmas.htm
+title: Online shoppers deserve protection this Christmas
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00183/online-shoppers-deserve-protection-this-christmas.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/10/online-shoppers-deserve-protection-this-christmas/index.html
+layout: layout.njk
 ---
 Online shoppers deserve protection this Christmas
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: fixing-new-zealands-infrastructure-nick-smith
-title: "Fixing New Zealand’s Infrastructure:Nick Smith"
-date: 2006-07-23
-source-url: https://www.scoop.co.nz/stories/PA0607/S00356/fixing-new-zealands-infrastructurenick-smith.htm
+title: Fixing New Zealand’s Infrastructure:Nick Smith
+date: 2006-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00356/fixing-new-zealands-infrastructurenick-smith.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/23/fixing-new-zealands-infrastructure-nick-smith/index.html
+layout: layout.njk
 ---
 Fixing New Zealand’s Infrastructure:Nick Smith
 ==============================================

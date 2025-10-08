@@ -1,9 +1,12 @@
 ---
 slug: raise-the-minimum-wage-to-help-the-govt-books
-title: "Raise the minimum wage to help the Govt books"
-date: 2011-05-15
-source-url: https://www.scoop.co.nz/stories/PA1105/S00306/raise-the-minimum-wage-to-help-the-govt-books.htm
+title: Raise the minimum wage to help the Govt books
+date: 2011-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00306/raise-the-minimum-wage-to-help-the-govt-books.htm
 author: green-party
+permalink: /archive/2011/05/15/raise-the-minimum-wage-to-help-the-govt-books/index.html
+layout: layout.njk
 ---
 Raise the minimum wage to help the Govt books
 =============================================

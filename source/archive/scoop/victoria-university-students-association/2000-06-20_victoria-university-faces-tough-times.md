@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-faces-tough-times
-title: "Victoria University Faces Tough Times"
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/ED0006/S00031/victoria-university-faces-tough-times.htm
+title: Victoria University Faces Tough Times
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00031/victoria-university-faces-tough-times.htm
 author: victoria-university-students-association
+permalink: /archive/2000/06/20/victoria-university-faces-tough-times/index.html
+layout: layout.njk
 ---
 Victoria University Faces Tough Times
 =====================================

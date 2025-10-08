@@ -1,9 +1,12 @@
 ---
 slug: student-interest-rates-going-up-under-national
-title: "Student interest rates going up under National"
-date: 1999-10-31
-source-url: https://www.scoop.co.nz/stories/ED9910/S00069/student-interest-rates-going-up-under-national.htm
+title: Student interest rates going up under National
+date: 1999-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00069/student-interest-rates-going-up-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/31/student-interest-rates-going-up-under-national/index.html
+layout: layout.njk
 ---
 Student interest rates going up under National
 ==============================================

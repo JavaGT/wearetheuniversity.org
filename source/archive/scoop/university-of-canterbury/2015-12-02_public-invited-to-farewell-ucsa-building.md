@@ -1,9 +1,12 @@
 ---
 slug: public-invited-to-farewell-ucsa-building
-title: "Public invited to farewell UCSA building"
-date: 2015-12-02
-source-url: https://www.scoop.co.nz/stories/ED1512/S00007/public-invited-to-farewell-ucsa-building.htm
+title: Public invited to farewell UCSA building
+date: 2015-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00007/public-invited-to-farewell-ucsa-building.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/02/public-invited-to-farewell-ucsa-building/index.html
+layout: layout.njk
 ---
 Public invited to farewell UCSA building
 ========================================

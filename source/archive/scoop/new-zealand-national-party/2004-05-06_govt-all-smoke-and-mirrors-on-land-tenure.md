@@ -1,9 +1,12 @@
 ---
 slug: govt-all-smoke-and-mirrors-on-land-tenure
-title: "Govt all smoke and mirrors on land tenure"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/PA0405/S00109/govt-all-smoke-and-mirrors-on-land-tenure.htm
+title: Govt all smoke and mirrors on land tenure
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00109/govt-all-smoke-and-mirrors-on-land-tenure.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/06/govt-all-smoke-and-mirrors-on-land-tenure/index.html
+layout: layout.njk
 ---
 Govt all smoke and mirrors on land tenure
 =========================================

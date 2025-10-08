@@ -1,9 +1,12 @@
 ---
 slug: certainty-at-last-but-loss-of-equity-for-many
-title: "Certainty at last, but loss of equity for many"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00379/certainty-at-last-but-loss-of-equity-for-many.htm
+title: Certainty at last, but loss of equity for many
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00379/certainty-at-last-but-loss-of-equity-for-many.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/18/certainty-at-last-but-loss-of-equity-for-many/index.html
+layout: layout.njk
 ---
 Certainty at last, but loss of equity for many
 ==============================================

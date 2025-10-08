@@ -1,9 +1,12 @@
 ---
 slug: uc-one-of-top-universities-to-travel-abroad-to
-title: "UC one of top universities to travel abroad to"
-date: 2014-10-14
-source-url: https://www.scoop.co.nz/stories/ED1410/S00079/uc-one-of-top-universities-to-travel-abroad-to.htm
+title: UC one of top universities to travel abroad to
+date: 2014-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00079/uc-one-of-top-universities-to-travel-abroad-to.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/14/uc-one-of-top-universities-to-travel-abroad-to/index.html
+layout: layout.njk
 ---
 UC one of top universities to travel abroad to
 ==============================================

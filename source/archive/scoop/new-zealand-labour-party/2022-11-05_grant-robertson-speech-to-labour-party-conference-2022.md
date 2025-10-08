@@ -1,9 +1,13 @@
 ---
 slug: grant-robertson-speech-to-labour-party-conference-2022
-title: "Grant Robertson Speech To Labour Party Conference 2022"
-date: 2022-11-05
-source-url: https://www.scoop.co.nz/stories/PA2211/S00034/grant-robertson-speech-to-labour-party-conference-2022.htm
+title: Grant Robertson Speech To Labour Party Conference 2022
+date: 2022-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00034/grant-robertson-speech-to-labour-party-conference-2022.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2022/11/05/grant-robertson-speech-to-labour-party-conference-2022/index.html
+layout: layout.njk
 ---
 Grant Robertson Speech To Labour Party Conference 2022
 ======================================================

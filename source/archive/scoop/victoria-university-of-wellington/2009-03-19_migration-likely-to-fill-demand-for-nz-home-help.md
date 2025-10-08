@@ -1,9 +1,13 @@
 ---
 slug: migration-likely-to-fill-demand-for-nz-home-help
-title: "Migration likely to fill demand for NZ home help"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/PO0903/S00203/migration-likely-to-fill-demand-for-nz-home-help.htm
+title: Migration likely to fill demand for NZ home help
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00203/migration-likely-to-fill-demand-for-nz-home-help.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2009/03/19/migration-likely-to-fill-demand-for-nz-home-help/index.html
+layout: layout.njk
 ---
 Migration likely to fill demand for NZ home help
 ================================================

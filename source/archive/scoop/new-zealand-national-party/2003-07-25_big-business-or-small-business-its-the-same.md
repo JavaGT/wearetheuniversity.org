@@ -1,9 +1,12 @@
 ---
 slug: big-business-or-small-business-its-the-same
-title: "Big Business Or Small Business - It's The Same"
-date: 2003-07-25
-source-url: https://www.scoop.co.nz/stories/PA0307/S00481/big-business-or-small-business-its-the-same.htm
+title: Big Business Or Small Business - It's The Same
+date: 2003-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00481/big-business-or-small-business-its-the-same.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/25/big-business-or-small-business-its-the-same/index.html
+layout: layout.njk
 ---
 Big Business Or Small Business - It's The Same
 ==============================================

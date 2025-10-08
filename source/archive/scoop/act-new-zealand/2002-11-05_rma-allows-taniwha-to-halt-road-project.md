@@ -1,9 +1,12 @@
 ---
 slug: rma-allows-taniwha-to-halt-road-project
-title: "RMA Allows Taniwha to Halt Road Project"
-date: 2002-11-05
-source-url: https://www.scoop.co.nz/stories/PA0211/S00073/rma-allows-taniwha-to-halt-road-project.htm
+title: RMA Allows Taniwha to Halt Road Project
+date: 2002-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00073/rma-allows-taniwha-to-halt-road-project.htm
 author: act-new-zealand
+permalink: /archive/2002/11/05/rma-allows-taniwha-to-halt-road-project/index.html
+layout: layout.njk
 ---
 RMA Allows Taniwha to Halt Road Project
 =======================================

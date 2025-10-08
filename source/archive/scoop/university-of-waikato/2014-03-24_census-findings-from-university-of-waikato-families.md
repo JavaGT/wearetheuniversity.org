@@ -1,9 +1,13 @@
 ---
 slug: census-findings-from-university-of-waikato-families
-title: "Census findings from University of Waikato - Families"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/CU1403/S00404/census-findings-from-university-of-waikato-families.htm
+title: Census findings from University of Waikato - Families
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1403/S00404/census-findings-from-university-of-waikato-families.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/24/census-findings-from-university-of-waikato-families/index.html
+layout: layout.njk
 ---
 Census findings from University of Waikato - Families
 =====================================================

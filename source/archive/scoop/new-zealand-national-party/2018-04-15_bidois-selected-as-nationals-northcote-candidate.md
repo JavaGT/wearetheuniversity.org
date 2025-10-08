@@ -1,9 +1,13 @@
 ---
 slug: bidois-selected-as-nationals-northcote-candidate
-title: "Bidois selected as National’s Northcote candidate"
-date: 2018-04-15
-source-url: https://www.scoop.co.nz/stories/PO1804/S00163/bidois-selected-as-nationals-northcote-candidate.htm
+title: Bidois selected as National’s Northcote candidate
+date: 2018-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00163/bidois-selected-as-nationals-northcote-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/15/bidois-selected-as-nationals-northcote-candidate/index.html
+layout: layout.njk
 ---
 Bidois selected as National’s Northcote candidate
 =================================================

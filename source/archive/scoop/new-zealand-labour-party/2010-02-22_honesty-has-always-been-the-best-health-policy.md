@@ -1,9 +1,12 @@
 ---
 slug: honesty-has-always-been-the-best-health-policy
-title: "Honesty has always been the best Health Policy"
-date: 2010-02-22
-source-url: https://www.scoop.co.nz/stories/PA1002/S00303/honesty-has-always-been-the-best-health-policy.htm
+title: Honesty has always been the best Health Policy
+date: 2010-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00303/honesty-has-always-been-the-best-health-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/22/honesty-has-always-been-the-best-health-policy/index.html
+layout: layout.njk
 ---
 Honesty has always been the best Health Policy
 ==============================================

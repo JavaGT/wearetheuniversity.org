@@ -1,9 +1,12 @@
 ---
 slug: public-land-is-for-all-new-zealanders
-title: "Public land is for all New Zealanders"
-date: 2018-08-21
-source-url: https://www.scoop.co.nz/stories/PA1808/S00232/public-land-is-for-all-new-zealanders.htm
+title: Public land is for all New Zealanders
+date: 2018-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00232/public-land-is-for-all-new-zealanders.htm
 author: act-new-zealand
+permalink: /archive/2018/08/21/public-land-is-for-all-new-zealanders/index.html
+layout: layout.njk
 ---
 Public land is for all New Zealanders
 =====================================

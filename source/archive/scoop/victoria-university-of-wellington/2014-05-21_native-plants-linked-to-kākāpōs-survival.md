@@ -1,9 +1,12 @@
 ---
 slug: native-plants-linked-to-kākāpōs-survival
-title: "Native plants linked to Kākāpō’s survival"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/ED1405/S00105/native-plants-linked-to-kakapos-survival.htm
+title: Native plants linked to Kākāpō’s survival
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00105/native-plants-linked-to-kakapos-survival.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/21/native-plants-linked-to-k/index.html
+layout: layout.njk
 ---
 Native plants linked to Kākāpō’s survival
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: how-to-balance-work-and-family-and-save-democracy
-title: "How to balance work and family and save democracy"
-date: 2019-11-20
-source-url: https://www.scoop.co.nz/stories/ED1911/S00053/how-to-balance-work-and-family-and-save-democracy.htm
+title: How to balance work and family and save democracy
+date: 2019-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00053/how-to-balance-work-and-family-and-save-democracy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/20/how-to-balance-work-and-family-and-save-democracy/index.html
+layout: layout.njk
 ---
 How to balance work and family and save democracy
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: key-living-in-denial-on-major-issues-facing-kiwis
-title: "Key living in denial on major issues facing Kiwis"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/PA1111/S00152/key-living-in-denial-on-major-issues-facing-kiwis.htm
+title: Key living in denial on major issues facing Kiwis
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00152/key-living-in-denial-on-major-issues-facing-kiwis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/08/key-living-in-denial-on-major-issues-facing-kiwis/index.html
+layout: layout.njk
 ---
 Key living in denial on major issues facing Kiwis
 =================================================

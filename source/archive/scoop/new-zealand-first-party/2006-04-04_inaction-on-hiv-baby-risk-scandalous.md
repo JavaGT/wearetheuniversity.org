@@ -1,9 +1,12 @@
 ---
 slug: inaction-on-hiv-baby-risk-scandalous
-title: "Inaction On HIV Baby Risk Scandalous"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/PA0604/S00060/inaction-on-hiv-baby-risk-scandalous.htm
+title: Inaction On HIV Baby Risk Scandalous
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00060/inaction-on-hiv-baby-risk-scandalous.htm
 author: new-zealand-first-party
+permalink: /archive/2006/04/04/inaction-on-hiv-baby-risk-scandalous/index.html
+layout: layout.njk
 ---
 Inaction On HIV Baby Risk Scandalous
 ====================================

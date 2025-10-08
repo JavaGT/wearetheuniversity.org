@@ -1,9 +1,12 @@
 ---
 slug: its-the-economy-stupid-rt-hon-winston-peters
-title: "It's The Economy Stupid - Rt Hon Winston Peters"
-date: 2004-02-19
-source-url: https://www.scoop.co.nz/stories/PA0402/S00330/its-the-economy-stupid-rt-hon-winston-peters.htm
+title: It's The Economy Stupid - Rt Hon Winston Peters
+date: 2004-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00330/its-the-economy-stupid-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2004/02/19/its-the-economy-stupid-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 It's The Economy Stupid - Rt Hon Winston Peters
 ===============================================

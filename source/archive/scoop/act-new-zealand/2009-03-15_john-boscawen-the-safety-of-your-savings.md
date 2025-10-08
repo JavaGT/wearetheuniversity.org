@@ -1,9 +1,12 @@
 ---
 slug: john-boscawen-the-safety-of-your-savings
-title: "John Boscawen -The Safety Of Your Savings"
-date: 2009-03-15
-source-url: https://www.scoop.co.nz/stories/PA0903/S00224/john-boscawen-the-safety-of-your-savings.htm
+title: John Boscawen -The Safety Of Your Savings
+date: 2009-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00224/john-boscawen-the-safety-of-your-savings.htm
 author: act-new-zealand
+permalink: /archive/2009/03/15/john-boscawen-the-safety-of-your-savings/index.html
+layout: layout.njk
 ---
 John Boscawen -The Safety Of Your Savings
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: czech-republic-diplomat-visits-university
-title: "Czech Republic Diplomat visits University"
-date: 2012-02-13
-source-url: https://www.scoop.co.nz/stories/WO1202/S00343/czech-republic-diplomat-visits-university.htm
+title: Czech Republic Diplomat visits University
+date: 2012-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1202/S00343/czech-republic-diplomat-visits-university.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/02/13/czech-republic-diplomat-visits-university/index.html
+layout: layout.njk
 ---
 Czech Republic Diplomat visits University
 =========================================

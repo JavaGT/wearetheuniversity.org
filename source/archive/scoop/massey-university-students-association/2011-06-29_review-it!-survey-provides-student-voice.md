@@ -1,9 +1,12 @@
 ---
 slug: review-it!-survey-provides-student-voice
-title: "Review It! Survey Provides Student Voice"
-date: 2011-06-29
-source-url: https://www.scoop.co.nz/stories/ED1106/S00119/review-it-survey-provides-student-voice.htm
+title: Review It! Survey Provides Student Voice
+date: 2011-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00119/review-it-survey-provides-student-voice.htm
 author: massey-university-students-association
+permalink: /archive/2011/06/29/review-it/index.html
+layout: layout.njk
 ---
 Review It! Survey Provides Student Voice
 ========================================

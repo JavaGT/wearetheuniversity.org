@@ -1,9 +1,12 @@
 ---
 slug: employers-ripped-off-by-acc-tax-grab
-title: "Employers Ripped Off By ACC Tax-Grab"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00236/employers-ripped-off-by-acc-tax-grab.htm
+title: Employers Ripped Off By ACC Tax-Grab
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00236/employers-ripped-off-by-acc-tax-grab.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/14/employers-ripped-off-by-acc-tax-grab/index.html
+layout: layout.njk
 ---
 Employers Ripped Off By ACC Tax-Grab
 ====================================

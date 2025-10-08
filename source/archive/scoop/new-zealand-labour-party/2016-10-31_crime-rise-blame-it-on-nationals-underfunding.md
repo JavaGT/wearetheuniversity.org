@@ -1,9 +1,12 @@
 ---
 slug: crime-rise-blame-it-on-nationals-underfunding
-title: "Crime rise, blame it on National’s underfunding"
-date: 2016-10-31
-source-url: https://www.scoop.co.nz/stories/PA1610/S00454/crime-rise-blame-it-on-nationals-underfunding.htm
+title: Crime rise, blame it on National’s underfunding
+date: 2016-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00454/crime-rise-blame-it-on-nationals-underfunding.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/10/31/crime-rise-blame-it-on-nationals-underfunding/index.html
+layout: layout.njk
 ---
 Crime rise, blame it on National’s underfunding
 ===============================================

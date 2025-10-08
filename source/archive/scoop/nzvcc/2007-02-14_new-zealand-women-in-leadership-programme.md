@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-women-in-leadership-programme
-title: "New Zealand Women in Leadership Programme"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/ED0702/S00045/new-zealand-women-in-leadership-programme.htm
+title: New Zealand Women in Leadership Programme
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00045/new-zealand-women-in-leadership-programme.htm
 author: nzvcc
+permalink: /archive/2007/02/14/new-zealand-women-in-leadership-programme/index.html
+layout: layout.njk
 ---
 New Zealand Women in Leadership Programme
 =========================================

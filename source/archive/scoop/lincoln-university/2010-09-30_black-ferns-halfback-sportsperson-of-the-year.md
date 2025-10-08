@@ -1,9 +1,12 @@
 ---
 slug: black-ferns-halfback-sportsperson-of-the-year
-title: "Black Ferns halfback SportsPerson of the Year"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/CU1009/S00361/black-ferns-halfback-sportsperson-of-the-year.htm
+title: Black Ferns halfback SportsPerson of the Year
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00361/black-ferns-halfback-sportsperson-of-the-year.htm
 author: lincoln-university
+permalink: /archive/2010/09/30/black-ferns-halfback-sportsperson-of-the-year/index.html
+layout: layout.njk
 ---
 Black Ferns halfback SportsPerson of the Year
 =============================================

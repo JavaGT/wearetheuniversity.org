@@ -1,9 +1,12 @@
 ---
 slug: nz-should-be-milking-it-in-organic-market
-title: "NZ should be milking it in organic market"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/BU1605/S00695/nz-should-be-milking-it-in-organic-market.htm
+title: NZ should be milking it in organic market
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1605/S00695/nz-should-be-milking-it-in-organic-market.htm
 author: lincoln-university
+permalink: /archive/2016/05/23/nz-should-be-milking-it-in-organic-market/index.html
+layout: layout.njk
 ---
 NZ should be milking it in organic market
 =========================================

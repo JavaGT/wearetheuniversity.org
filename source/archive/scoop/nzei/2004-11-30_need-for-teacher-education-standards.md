@@ -1,9 +1,12 @@
 ---
 slug: need-for-teacher-education-standards
-title: "Need For Teacher Education Standards"
-date: 2004-11-30
-source-url: https://www.scoop.co.nz/stories/ED0411/S00094/need-for-teacher-education-standards.htm
+title: Need For Teacher Education Standards
+date: 2004-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00094/need-for-teacher-education-standards.htm
 author: nzei
+permalink: /archive/2004/11/30/need-for-teacher-education-standards/index.html
+layout: layout.njk
 ---
 Need For Teacher Education Standards
 ====================================

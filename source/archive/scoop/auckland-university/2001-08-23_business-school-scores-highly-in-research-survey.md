@@ -1,9 +1,13 @@
 ---
 slug: business-school-scores-highly-in-research-survey
-title: "Business School Scores Highly In Research Survey"
-date: 2001-08-23
-source-url: https://www.scoop.co.nz/stories/ED0108/S00056/business-school-scores-highly-in-research-survey.htm
+title: Business School Scores Highly In Research Survey
+date: 2001-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00056/business-school-scores-highly-in-research-survey.htm
 author: auckland-university
+permalink: >-
+  /archive/2001/08/23/business-school-scores-highly-in-research-survey/index.html
+layout: layout.njk
 ---
 Business School Scores Highly In Research Survey
 ================================================

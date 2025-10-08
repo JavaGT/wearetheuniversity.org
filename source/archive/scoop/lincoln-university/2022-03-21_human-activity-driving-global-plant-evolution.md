@@ -1,9 +1,12 @@
 ---
 slug: human-activity-driving-global-plant-evolution
-title: "Human Activity Driving Global Plant Evolution"
-date: 2022-03-21
-source-url: https://www.scoop.co.nz/stories/SC2203/S00037/human-activity-driving-global-plant-evolution.htm
+title: Human Activity Driving Global Plant Evolution
+date: 2022-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2203/S00037/human-activity-driving-global-plant-evolution.htm
 author: lincoln-university
+permalink: /archive/2022/03/21/human-activity-driving-global-plant-evolution/index.html
+layout: layout.njk
 ---
 Human Activity Driving Global Plant Evolution
 =============================================

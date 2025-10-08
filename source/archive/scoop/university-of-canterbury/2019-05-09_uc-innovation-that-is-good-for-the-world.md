@@ -1,9 +1,12 @@
 ---
 slug: uc-innovation-that-is-good-for-the-world
-title: "UC innovation that is good for the world"
-date: 2019-05-09
-source-url: https://www.scoop.co.nz/stories/SC1905/S00014/uc-innovation-that-is-good-for-the-world.htm
+title: UC innovation that is good for the world
+date: 2019-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1905/S00014/uc-innovation-that-is-good-for-the-world.htm
 author: university-of-canterbury
+permalink: /archive/2019/05/09/uc-innovation-that-is-good-for-the-world/index.html
+layout: layout.njk
 ---
 UC innovation that is good for the world
 ========================================

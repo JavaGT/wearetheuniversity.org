@@ -1,9 +1,13 @@
 ---
 slug: pause-on-acc-levies-welcome-but-government-must-go-further
-title: "Pause On ACC Levies Welcome, But Government Must Go Further"
-date: 2020-07-06
-source-url: https://www.scoop.co.nz/stories/PA2007/S00063/pause-on-acc-levies-welcome-but-government-must-go-further.htm
+title: Pause On ACC Levies Welcome, But Government Must Go Further
+date: 2020-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00063/pause-on-acc-levies-welcome-but-government-must-go-further.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/06/pause-on-acc-levies-welcome-but-government-must-go-further/index.html
+layout: layout.njk
 ---
 Pause On ACC Levies Welcome, But Government Must Go Further
 ===========================================================

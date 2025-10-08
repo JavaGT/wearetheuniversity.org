@@ -1,9 +1,12 @@
 ---
 slug: loans-scheme-hardest-on-pacific-graduates
-title: "Loans Scheme Hardest On Pacific Graduates"
-date: 2002-05-10
-source-url: https://www.scoop.co.nz/stories/PO0205/S00133/loans-scheme-hardest-on-pacific-graduates.htm
+title: Loans Scheme Hardest On Pacific Graduates
+date: 2002-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0205/S00133/loans-scheme-hardest-on-pacific-graduates.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/10/loans-scheme-hardest-on-pacific-graduates/index.html
+layout: layout.njk
 ---
 Loans Scheme Hardest On Pacific Graduates
 =========================================

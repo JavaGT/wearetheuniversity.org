@@ -1,9 +1,11 @@
 ---
 slug: otago-blues-and-golds-awards
-title: "Otago Blues and Golds Awards"
-date: 2014-09-26
+title: Otago Blues and Golds Awards
+date: 2014-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1409/S00154/otago-blues-and-golds-awards.htm
 author: ousa
+permalink: /archive/2014/09/26/otago-blues-and-golds-awards/index.html
+layout: layout.njk
 ---
 Otago Blues and Golds Awards
 ============================

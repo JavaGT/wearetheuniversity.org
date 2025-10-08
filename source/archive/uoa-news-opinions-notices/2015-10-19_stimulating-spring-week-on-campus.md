@@ -1,8 +1,11 @@
 ---
 slug: stimulating-spring-week-on-campus
-title: "Stimulating Spring Week on campus"
-date: 2015-10-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/stimulating-spring-week-on-university-of-auckland-campus.html
+title: Stimulating Spring Week on campus
+date: 2015-10-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/10/stimulating-spring-week-on-university-of-auckland-campus.html
+permalink: /archive/2015/10/19/stimulating-spring-week-on-campus/index.html
+layout: layout.njk
 ---
 Stimulating Spring Week on campus
 =================================

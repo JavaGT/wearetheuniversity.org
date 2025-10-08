@@ -1,9 +1,12 @@
 ---
 slug: serious-errors-at-immigration-visa-factory
-title: "Serious Errors at Immigration \"Visa Factory\""
-date: 2013-11-20
-source-url: https://www.scoop.co.nz/stories/PA1311/S00370/serious-errors-at-immigration-visa-factory.htm
+title: Serious Errors at Immigration "Visa Factory"
+date: 2013-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00370/serious-errors-at-immigration-visa-factory.htm
 author: new-zealand-first-party
+permalink: /archive/2013/11/20/serious-errors-at-immigration-visa-factory/index.html
+layout: layout.njk
 ---
 Serious Errors at Immigration “Visa Factory”
 ============================================

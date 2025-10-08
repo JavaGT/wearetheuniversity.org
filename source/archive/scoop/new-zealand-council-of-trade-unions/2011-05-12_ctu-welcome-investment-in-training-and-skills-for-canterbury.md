@@ -1,9 +1,13 @@
 ---
 slug: ctu-welcome-investment-in-training-and-skills-for-canterbury
-title: "CTU Welcome Investment in Training and Skills for Canterbury"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/PO1105/S00174/ctu-welcome-investment-in-training-and-skills-for-canterbury.htm
+title: CTU Welcome Investment in Training and Skills for Canterbury
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00174/ctu-welcome-investment-in-training-and-skills-for-canterbury.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/05/12/ctu-welcome-investment-in-training-and-skills-for-canterbury/index.html
+layout: layout.njk
 ---
 CTU Welcome Investment in Training and Skills for Canterbury
 ============================================================

@@ -1,9 +1,11 @@
 ---
 slug: act-position-vindicated
-title: "ACT Position Vindicated"
-date: 2011-09-16
+title: ACT Position Vindicated
+date: 2011-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1109/S00348/act-position-vindicated.htm
 author: act-new-zealand
+permalink: /archive/2011/09/16/act-position-vindicated/index.html
+layout: layout.njk
 ---
 ACT Position Vindicated
 =======================

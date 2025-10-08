@@ -1,9 +1,12 @@
 ---
 slug: katene-student-loan-scheme-amendment-bill
-title: "Katene: Student Loan Scheme Amendment Bill"
-date: 2009-09-17
-source-url: https://www.scoop.co.nz/stories/PA0909/S00245/katene-student-loan-scheme-amendment-bill.htm
+title: 'Katene: Student Loan Scheme Amendment Bill'
+date: 2009-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00245/katene-student-loan-scheme-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2009/09/17/katene-student-loan-scheme-amendment-bill/index.html
+layout: layout.njk
 ---
 Katene: Student Loan Scheme Amendment Bill
 ==========================================

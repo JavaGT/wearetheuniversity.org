@@ -1,9 +1,13 @@
 ---
 slug: aotearoa-legend-loses-contract-in-nz-music-month
-title: "Aotearoa Legend Loses Contract in NZ Music Month"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PO0505/S00050/aotearoa-legend-loses-contract-in-nz-music-month.htm
+title: Aotearoa Legend Loses Contract in NZ Music Month
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0505/S00050/aotearoa-legend-loses-contract-in-nz-music-month.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/05/05/aotearoa-legend-loses-contract-in-nz-music-month/index.html
+layout: layout.njk
 ---
 Aotearoa Legend Loses Contract in NZ Music Month
 ================================================

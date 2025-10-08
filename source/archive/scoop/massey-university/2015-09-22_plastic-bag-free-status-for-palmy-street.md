@@ -1,9 +1,12 @@
 ---
 slug: plastic-bag-free-status-for-palmy-street
-title: "Plastic bag-free status for Palmy street ?"
-date: 2015-09-22
-source-url: https://www.scoop.co.nz/stories/AK1509/S00572/plastic-bag-free-status-for-palmy-street.htm
+title: Plastic bag-free status for Palmy street ?
+date: 2015-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1509/S00572/plastic-bag-free-status-for-palmy-street.htm
 author: massey-university
+permalink: /archive/2015/09/22/plastic-bag-free-status-for-palmy-street/index.html
+layout: layout.njk
 ---
 Plastic bag-free status for Palmy street ?
 ==========================================

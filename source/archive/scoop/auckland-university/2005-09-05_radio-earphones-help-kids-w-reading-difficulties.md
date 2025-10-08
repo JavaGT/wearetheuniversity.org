@@ -1,9 +1,13 @@
 ---
 slug: radio-earphones-help-kids-w-reading-difficulties
-title: "Radio earphones help kids w reading difficulties"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/ED0509/S00011/radio-earphones-help-kids-w-reading-difficulties.htm
+title: Radio earphones help kids w reading difficulties
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00011/radio-earphones-help-kids-w-reading-difficulties.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/09/05/radio-earphones-help-kids-w-reading-difficulties/index.html
+layout: layout.njk
 ---
 Radio earphones help kids w reading difficulties
 ================================================

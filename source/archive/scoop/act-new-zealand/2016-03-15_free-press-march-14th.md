@@ -1,9 +1,11 @@
 ---
 slug: free-press-march-14th
-title: "Free Press: March 14th"
-date: 2016-03-15
+title: 'Free Press: March 14th'
+date: 2016-03-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1603/S00238/free-press-march-14th.htm
 author: act-new-zealand
+permalink: /archive/2016/03/15/free-press-march-14th/index.html
+layout: layout.njk
 ---
 Free Press: March 14th
 ======================

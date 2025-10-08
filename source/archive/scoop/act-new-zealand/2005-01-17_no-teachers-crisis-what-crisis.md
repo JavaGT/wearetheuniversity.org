@@ -1,9 +1,12 @@
 ---
 slug: no-teachers-crisis-what-crisis
-title: "No Teachers: Crisis, what crisis?"
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/PA0501/S00113/no-teachers-crisis-what-crisis.htm
+title: 'No Teachers: Crisis, what crisis?'
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00113/no-teachers-crisis-what-crisis.htm
 author: act-new-zealand
+permalink: /archive/2005/01/17/no-teachers-crisis-what-crisis/index.html
+layout: layout.njk
 ---
 No Teachers: Crisis, what crisis?
 =================================

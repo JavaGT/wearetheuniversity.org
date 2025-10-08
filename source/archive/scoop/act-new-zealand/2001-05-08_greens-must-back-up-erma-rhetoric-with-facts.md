@@ -1,9 +1,12 @@
 ---
 slug: greens-must-back-up-erma-rhetoric-with-facts
-title: "Greens Must Back Up ERMA Rhetoric With Facts"
-date: 2001-05-08
-source-url: https://www.scoop.co.nz/stories/PA0105/S00152/greens-must-back-up-erma-rhetoric-with-facts.htm
+title: Greens Must Back Up ERMA Rhetoric With Facts
+date: 2001-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00152/greens-must-back-up-erma-rhetoric-with-facts.htm
 author: act-new-zealand
+permalink: /archive/2001/05/08/greens-must-back-up-erma-rhetoric-with-facts/index.html
+layout: layout.njk
 ---
 Greens Must Back Up ERMA Rhetoric With Facts
 ============================================

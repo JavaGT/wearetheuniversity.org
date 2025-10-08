@@ -1,9 +1,12 @@
 ---
 slug: budget-2005-rod-donald-mp-green-party-co-leader
-title: "Budget 2005 - Rod Donald MP, Green Party Co-Leader"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/PA0505/S00529/budget-2005-rod-donald-mp-green-party-co-leader.htm
+title: Budget 2005 - Rod Donald MP, Green Party Co-Leader
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00529/budget-2005-rod-donald-mp-green-party-co-leader.htm
 author: green-party
+permalink: /archive/2005/05/19/budget-2005-rod-donald-mp-green-party-co-leader/index.html
+layout: layout.njk
 ---
 Budget 2005 - Rod Donald MP, Green Party Co-Leader
 ==================================================

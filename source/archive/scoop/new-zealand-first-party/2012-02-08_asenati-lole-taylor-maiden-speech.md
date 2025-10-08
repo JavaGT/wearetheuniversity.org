@@ -1,9 +1,12 @@
 ---
 slug: asenati-lole-taylor-maiden-speech
-title: "Asenati Lole-Taylor: Maiden Speech"
-date: 2012-02-08
-source-url: https://www.scoop.co.nz/stories/PA1202/S00088/asenati-lole-taylor-maiden-speech.htm
+title: 'Asenati Lole-Taylor: Maiden Speech'
+date: 2012-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00088/asenati-lole-taylor-maiden-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2012/02/08/asenati-lole-taylor-maiden-speech/index.html
+layout: layout.njk
 ---
 Asenati Lole-Taylor: Maiden Speech
 ==================================

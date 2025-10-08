@@ -1,9 +1,12 @@
 ---
 slug: pavlovs-fruit-flies-studied-in-memory-research
-title: "‘Pavlov’s fruit flies’ studied in memory research"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/SC0903/S00043/pavlovs-fruit-flies-studied-in-memory-research.htm
+title: ‘Pavlov’s fruit flies’ studied in memory research
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0903/S00043/pavlovs-fruit-flies-studied-in-memory-research.htm
 author: massey-university
+permalink: /archive/2009/03/19/pavlovs-fruit-flies-studied-in-memory-research/index.html
+layout: layout.njk
 ---
 ‘Pavlov’s fruit flies’ studied in memory research
 =================================================

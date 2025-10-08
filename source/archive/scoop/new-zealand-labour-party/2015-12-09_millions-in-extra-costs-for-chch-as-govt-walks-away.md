@@ -1,9 +1,13 @@
 ---
 slug: millions-in-extra-costs-for-chch-as-govt-walks-away
-title: "Millions in extra costs for ChCh as Govt walks away"
-date: 2015-12-09
-source-url: https://www.scoop.co.nz/stories/BU1512/S00344/millions-in-extra-costs-for-chch-as-govt-walks-away.htm
+title: Millions in extra costs for ChCh as Govt walks away
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1512/S00344/millions-in-extra-costs-for-chch-as-govt-walks-away.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/12/09/millions-in-extra-costs-for-chch-as-govt-walks-away/index.html
+layout: layout.njk
 ---
 Millions in extra costs for ChCh as Govt walks away
 ===================================================

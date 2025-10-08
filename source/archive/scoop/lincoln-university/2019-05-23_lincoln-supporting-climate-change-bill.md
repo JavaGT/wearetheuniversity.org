@@ -1,9 +1,12 @@
 ---
 slug: lincoln-supporting-climate-change-bill
-title: "Lincoln supporting Climate Change Bill"
-date: 2019-05-23
-source-url: https://www.scoop.co.nz/stories/ED1905/S00068/lincoln-supporting-climate-change-bill.htm
+title: Lincoln supporting Climate Change Bill
+date: 2019-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00068/lincoln-supporting-climate-change-bill.htm
 author: lincoln-university
+permalink: /archive/2019/05/23/lincoln-supporting-climate-change-bill/index.html
+layout: layout.njk
 ---
 Lincoln supporting Climate Change Bill
 ======================================

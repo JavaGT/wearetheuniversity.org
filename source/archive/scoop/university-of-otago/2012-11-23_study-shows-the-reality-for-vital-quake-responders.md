@@ -1,9 +1,13 @@
 ---
 slug: study-shows-the-reality-for-vital-quake-responders
-title: "Study shows the reality for \"vital\" quake responders"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/AK1211/S00636/study-shows-the-reality-for-vital-quake-responders.htm
+title: Study shows the reality for "vital" quake responders
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1211/S00636/study-shows-the-reality-for-vital-quake-responders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/11/23/study-shows-the-reality-for-vital-quake-responders/index.html
+layout: layout.njk
 ---
 Study shows the reality for “vital” quake responders
 ====================================================

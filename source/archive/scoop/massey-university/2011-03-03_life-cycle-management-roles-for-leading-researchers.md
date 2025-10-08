@@ -1,9 +1,13 @@
 ---
 slug: life-cycle-management-roles-for-leading-researchers
-title: "Life cycle management roles for leading researchers"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00027/life-cycle-management-roles-for-leading-researchers.htm
+title: Life cycle management roles for leading researchers
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00027/life-cycle-management-roles-for-leading-researchers.htm
 author: massey-university
+permalink: >-
+  /archive/2011/03/03/life-cycle-management-roles-for-leading-researchers/index.html
+layout: layout.njk
 ---
 Life cycle management roles for leading researchers
 ===================================================

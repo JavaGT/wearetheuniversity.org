@@ -1,9 +1,12 @@
 ---
 slug: aut-&-caanz-form-development-partnership
-title: "AUT & CAANZ Form  Development Partnership"
-date: 2005-03-10
-source-url: https://www.scoop.co.nz/stories/ED0503/S00034/aut-caanz-form-development-partnership.htm
+title: AUT & CAANZ Form  Development Partnership
+date: 2005-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00034/aut-caanz-form-development-partnership.htm
 author: aut-university
+permalink: /archive/2005/03/10/aut-/index.html
+layout: layout.njk
 ---
 AUT & CAANZ Form Development Partnership
 ========================================

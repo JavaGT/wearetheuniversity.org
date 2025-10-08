@@ -1,9 +1,12 @@
 ---
 slug: high-price-increases-another-blow-for-workers
-title: "High price increases another blow for workers"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/PO1104/S00232/high-price-increases-another-blow-for-workers.htm
+title: High price increases another blow for workers
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00232/high-price-increases-another-blow-for-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/04/18/high-price-increases-another-blow-for-workers/index.html
+layout: layout.njk
 ---
 High price increases another blow for workers
 =============================================

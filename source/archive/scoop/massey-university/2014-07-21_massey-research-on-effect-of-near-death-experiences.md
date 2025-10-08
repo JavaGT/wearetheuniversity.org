@@ -1,9 +1,13 @@
 ---
 slug: massey-research-on-effect-of-near-death-experiences
-title: "Massey research on effect of near-death experiences"
-date: 2014-07-21
-source-url: https://www.scoop.co.nz/stories/SC1407/S00049/massey-research-on-effect-of-near-death-experiences.htm
+title: Massey research on effect of near-death experiences
+date: 2014-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00049/massey-research-on-effect-of-near-death-experiences.htm
 author: massey-university
+permalink: >-
+  /archive/2014/07/21/massey-research-on-effect-of-near-death-experiences/index.html
+layout: layout.njk
 ---
 Massey research on effect of near-death experiences
 ===================================================

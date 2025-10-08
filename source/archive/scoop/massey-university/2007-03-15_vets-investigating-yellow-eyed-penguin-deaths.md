@@ -1,9 +1,12 @@
 ---
 slug: vets-investigating-yellow-eyed-penguin-deaths
-title: "Vets investigating yellow-eyed penguin deaths"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/SC0703/S00036/vets-investigating-yellow-eyed-penguin-deaths.htm
+title: Vets investigating yellow-eyed penguin deaths
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00036/vets-investigating-yellow-eyed-penguin-deaths.htm
 author: massey-university
+permalink: /archive/2007/03/15/vets-investigating-yellow-eyed-penguin-deaths/index.html
+layout: layout.njk
 ---
 Vets investigating yellow-eyed penguin deaths
 =============================================

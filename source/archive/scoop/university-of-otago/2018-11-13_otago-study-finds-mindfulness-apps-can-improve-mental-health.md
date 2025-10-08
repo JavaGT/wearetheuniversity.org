@@ -1,9 +1,13 @@
 ---
 slug: otago-study-finds-mindfulness-apps-can-improve-mental-health
-title: "Otago study finds mindfulness apps can improve mental health"
-date: 2018-11-13
-source-url: https://www.scoop.co.nz/stories/GE1811/S00045/otago-study-finds-mindfulness-apps-can-improve-mental-health.htm
+title: Otago study finds mindfulness apps can improve mental health
+date: 2018-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00045/otago-study-finds-mindfulness-apps-can-improve-mental-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/11/13/otago-study-finds-mindfulness-apps-can-improve-mental-health/index.html
+layout: layout.njk
 ---
 Otago study finds mindfulness apps can improve mental health
 ============================================================

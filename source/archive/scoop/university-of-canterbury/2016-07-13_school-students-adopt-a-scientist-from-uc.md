@@ -1,9 +1,12 @@
 ---
 slug: school-students-adopt-a-scientist-from-uc
-title: "School students ‘adopt’ a scientist from UC"
-date: 2016-07-13
-source-url: https://www.scoop.co.nz/stories/ED1607/S00058/school-students-adopt-a-scientist-from-uc.htm
+title: School students ‘adopt’ a scientist from UC
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00058/school-students-adopt-a-scientist-from-uc.htm
 author: university-of-canterbury
+permalink: /archive/2016/07/13/school-students-adopt-a-scientist-from-uc/index.html
+layout: layout.njk
 ---
 School students ‘adopt’ a scientist from UC
 ===========================================

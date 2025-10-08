@@ -1,9 +1,12 @@
 ---
 slug: joining-forces-for-clean-energy-and-education
-title: "Joining Forces For Clean Energy And Education"
-date: 2021-11-05
-source-url: https://www.scoop.co.nz/stories/ED2111/S00019/joining-forces-for-clean-energy-and-education.htm
+title: Joining Forces For Clean Energy And Education
+date: 2021-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00019/joining-forces-for-clean-energy-and-education.htm
 author: university-of-canterbury
+permalink: /archive/2021/11/05/joining-forces-for-clean-energy-and-education/index.html
+layout: layout.njk
 ---
 Joining Forces For Clean Energy And Education
 =============================================

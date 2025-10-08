@@ -1,9 +1,12 @@
 ---
 slug: pm-a-risk-to-taxpayers-prebble-says
-title: "PM a Risk to Taxpayers, Prebble says"
-date: 2001-05-11
-source-url: https://www.scoop.co.nz/stories/PA0105/S00273/pm-a-risk-to-taxpayers-prebble-says.htm
+title: PM a Risk to Taxpayers, Prebble says
+date: 2001-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00273/pm-a-risk-to-taxpayers-prebble-says.htm
 author: act-new-zealand
+permalink: /archive/2001/05/11/pm-a-risk-to-taxpayers-prebble-says/index.html
+layout: layout.njk
 ---
 PM a Risk to Taxpayers, Prebble says
 ====================================

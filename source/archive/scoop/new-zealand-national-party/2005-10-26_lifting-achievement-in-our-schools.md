@@ -1,9 +1,12 @@
 ---
 slug: lifting-achievement-in-our-schools
-title: "Lifting achievement in our schools"
-date: 2005-10-26
-source-url: https://www.scoop.co.nz/stories/PA0510/S00155/lifting-achievement-in-our-schools.htm
+title: Lifting achievement in our schools
+date: 2005-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00155/lifting-achievement-in-our-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/26/lifting-achievement-in-our-schools/index.html
+layout: layout.njk
 ---
 Lifting achievement in our schools
 ==================================

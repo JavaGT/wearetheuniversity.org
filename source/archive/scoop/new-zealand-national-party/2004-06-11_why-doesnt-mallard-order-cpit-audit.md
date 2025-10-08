@@ -1,9 +1,12 @@
 ---
 slug: why-doesnt-mallard-order-cpit-audit
-title: "Why doesn't Mallard order CPIT audit?"
-date: 2004-06-11
-source-url: https://www.scoop.co.nz/stories/PA0406/S00168/why-doesnt-mallard-order-cpit-audit.htm
+title: Why doesn't Mallard order CPIT audit?
+date: 2004-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00168/why-doesnt-mallard-order-cpit-audit.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/11/why-doesnt-mallard-order-cpit-audit/index.html
+layout: layout.njk
 ---
 Why doesn't Mallard order CPIT audit?
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: students-disappointed-over-housing-bill
-title: "Students disappointed over housing bill"
-date: 2015-03-19
-source-url: https://www.scoop.co.nz/stories/PO1503/S00215/students-disappointed-over-housing-bill.htm
+title: Students disappointed over housing bill
+date: 2015-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1503/S00215/students-disappointed-over-housing-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/03/19/students-disappointed-over-housing-bill/index.html
+layout: layout.njk
 ---
 Students disappointed over housing bill
 =======================================

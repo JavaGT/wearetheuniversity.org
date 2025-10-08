@@ -1,9 +1,12 @@
 ---
 slug: police-minister-all-excuses-no-solutions
-title: "Police Minister All Excuses, No Solutions"
-date: 2023-05-21
-source-url: https://www.scoop.co.nz/stories/PA2305/S00155/police-minister-all-excuses-no-solutions.htm
+title: Police Minister All Excuses, No Solutions
+date: 2023-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00155/police-minister-all-excuses-no-solutions.htm
 author: act-new-zealand
+permalink: /archive/2023/05/21/police-minister-all-excuses-no-solutions/index.html
+layout: layout.njk
 ---
 Police Minister All Excuses, No Solutions
 =========================================

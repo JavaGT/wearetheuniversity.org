@@ -1,9 +1,12 @@
 ---
 slug: vr-takes-property-students-new-places
-title: "VR takes property students new places"
-date: 2018-08-12
-source-url: https://www.scoop.co.nz/stories/BU1808/S00361/vr-takes-property-students-new-places.htm
+title: VR takes property students new places
+date: 2018-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1808/S00361/vr-takes-property-students-new-places.htm
 author: university-of-auckland-business-school
+permalink: /archive/2018/08/12/vr-takes-property-students-new-places/index.html
+layout: layout.njk
 ---
 VR takes property students new places
 =====================================

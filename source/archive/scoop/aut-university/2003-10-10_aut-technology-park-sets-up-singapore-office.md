@@ -1,9 +1,12 @@
 ---
 slug: aut-technology-park-sets-up-singapore-office
-title: "AUT Technology Park sets up Singapore office"
-date: 2003-10-10
-source-url: https://www.scoop.co.nz/stories/ED0310/S00046/aut-technology-park-sets-up-singapore-office.htm
+title: AUT Technology Park sets up Singapore office
+date: 2003-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00046/aut-technology-park-sets-up-singapore-office.htm
 author: aut-university
+permalink: /archive/2003/10/10/aut-technology-park-sets-up-singapore-office/index.html
+layout: layout.njk
 ---
 AUT Technology Park sets up Singapore office
 ============================================

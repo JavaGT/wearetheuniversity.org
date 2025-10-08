@@ -1,9 +1,13 @@
 ---
 slug: vic-student-scores-silver-in-int-computer-awards
-title: "Vic student scores silver in int computer awards"
-date: 2003-07-09
-source-url: https://www.scoop.co.nz/stories/ED0307/S00025/vic-student-scores-silver-in-int-computer-awards.htm
+title: Vic student scores silver in int computer awards
+date: 2003-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00025/vic-student-scores-silver-in-int-computer-awards.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/07/09/vic-student-scores-silver-in-int-computer-awards/index.html
+layout: layout.njk
 ---
 Vic student scores silver in int computer awards
 ================================================

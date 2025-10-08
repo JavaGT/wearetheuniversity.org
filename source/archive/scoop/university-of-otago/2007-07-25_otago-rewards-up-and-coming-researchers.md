@@ -1,9 +1,12 @@
 ---
 slug: otago-rewards-up-and-coming-researchers
-title: "Otago rewards up-and-coming researchers"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/ED0707/S00076/otago-rewards-up-and-coming-researchers.htm
+title: Otago rewards up-and-coming researchers
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00076/otago-rewards-up-and-coming-researchers.htm
 author: university-of-otago
+permalink: /archive/2007/07/25/otago-rewards-up-and-coming-researchers/index.html
+layout: layout.njk
 ---
 Otago rewards up-and-coming researchers
 =======================================

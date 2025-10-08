@@ -1,9 +1,15 @@
 ---
 slug: paul-goldsmith-speech-to-infinz-breakfast-getting-new-zealand-back-on-track
-title: "Paul Goldsmith - Speech To INFINZ Breakfast – Getting New Zealand Back On Track"
-date: 2020-07-16
-source-url: https://www.scoop.co.nz/stories/PA2007/S00155/paul-goldsmith-speech-to-infinz-breakfast-getting-new-zealand-back-on-track.htm
+title: >-
+  Paul Goldsmith - Speech To INFINZ Breakfast – Getting New Zealand Back On
+  Track
+date: 2020-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00155/paul-goldsmith-speech-to-infinz-breakfast-getting-new-zealand-back-on-track.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/16/paul-goldsmith-speech-to-infinz-breakfast-getting-new-zealand-back-on-track/index.html
+layout: layout.njk
 ---
 Paul Goldsmith - Speech To INFINZ Breakfast – Getting New Zealand Back On Track
 ===============================================================================

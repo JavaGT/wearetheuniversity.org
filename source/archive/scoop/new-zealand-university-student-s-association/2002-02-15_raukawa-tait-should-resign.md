@@ -1,9 +1,11 @@
 ---
 slug: raukawa-tait-should-resign
-title: "Raukawa-Tait Should Resign"
-date: 2002-02-15
+title: Raukawa-Tait Should Resign
+date: 2002-02-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0202/S00011/raukawa-tait-should-resign.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/02/15/raukawa-tait-should-resign/index.html
+layout: layout.njk
 ---
 Raukawa-Tait Should Resign
 ==========================

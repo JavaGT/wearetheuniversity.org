@@ -1,9 +1,13 @@
 ---
 slug: official-information-request-reveals-tip-of-the-iceberg
-title: "Official information request reveals tip of the iceberg"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/PO1609/S00310/official-information-request-reveals-tip-of-the-iceberg.htm
+title: Official information request reveals tip of the iceberg
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00310/official-information-request-reveals-tip-of-the-iceberg.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/09/23/official-information-request-reveals-tip-of-the-iceberg/index.html
+layout: layout.njk
 ---
 Official information request reveals tip of the iceberg
 =======================================================

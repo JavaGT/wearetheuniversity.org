@@ -1,9 +1,12 @@
 ---
 slug: anxiety-and-depression-linked-to-obesity
-title: "Anxiety and depression linked to obesity"
-date: 2008-07-01
-source-url: https://www.scoop.co.nz/stories/GE0807/S00001/anxiety-and-depression-linked-to-obesity.htm
+title: Anxiety and depression linked to obesity
+date: 2008-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0807/S00001/anxiety-and-depression-linked-to-obesity.htm
 author: university-of-otago
+permalink: /archive/2008/07/01/anxiety-and-depression-linked-to-obesity/index.html
+layout: layout.njk
 ---
 Anxiety and depression linked to obesity
 ========================================

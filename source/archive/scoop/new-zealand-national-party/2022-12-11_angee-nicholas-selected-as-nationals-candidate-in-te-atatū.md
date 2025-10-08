@@ -1,9 +1,13 @@
 ---
 slug: angee-nicholas-selected-as-nationals-candidate-in-te-atatū
-title: "Angee Nicholas Selected As National’s Candidate In Te Atatū"
-date: 2022-12-11
-source-url: https://www.scoop.co.nz/stories/PO2212/S00081/angee-nicholas-selected-as-nationals-candidate-in-te-atatu.htm
+title: Angee Nicholas Selected As National’s Candidate In Te Atatū
+date: 2022-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00081/angee-nicholas-selected-as-nationals-candidate-in-te-atatu.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/12/11/angee-nicholas-selected-as-nationals-candidate-in-te-atat/index.html
+layout: layout.njk
 ---
 Angee Nicholas Selected As National’s Candidate In Te Atatū
 ===========================================================

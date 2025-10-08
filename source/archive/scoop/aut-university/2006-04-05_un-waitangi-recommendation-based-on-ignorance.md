@@ -1,9 +1,12 @@
 ---
 slug: un-waitangi-recommendation-based-on-ignorance
-title: "UN Waitangi recommendation based on ignorance"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/PO0604/S00036/un-waitangi-recommendation-based-on-ignorance.htm
+title: UN Waitangi recommendation based on ignorance
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00036/un-waitangi-recommendation-based-on-ignorance.htm
 author: aut-university
+permalink: /archive/2006/04/05/un-waitangi-recommendation-based-on-ignorance/index.html
+layout: layout.njk
 ---
 UN Waitangi recommendation based on ignorance
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: uk-foot-and-mouth-outbreak-under-control
-title: "UK foot and mouth outbreak under control"
-date: 2001-11-12
-source-url: https://www.scoop.co.nz/stories/BU0111/S00098/uk-foot-and-mouth-outbreak-under-control.htm
+title: UK foot and mouth outbreak under control
+date: 2001-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0111/S00098/uk-foot-and-mouth-outbreak-under-control.htm
 author: massey-university
+permalink: /archive/2001/11/12/uk-foot-and-mouth-outbreak-under-control/index.html
+layout: layout.njk
 ---
 UK foot and mouth outbreak under control
 ========================================

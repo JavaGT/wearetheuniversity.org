@@ -1,9 +1,12 @@
 ---
 slug: external-involvement-in-kidnaps-may-be-a-ruse
-title: "External involvement in kidnaps may be a ruse"
-date: 2006-08-28
-source-url: https://www.scoop.co.nz/stories/PO0608/S00319/external-involvement-in-kidnaps-may-be-a-ruse.htm
+title: External involvement in kidnaps may be a ruse
+date: 2006-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0608/S00319/external-involvement-in-kidnaps-may-be-a-ruse.htm
 author: massey-university
+permalink: /archive/2006/08/28/external-involvement-in-kidnaps-may-be-a-ruse/index.html
+layout: layout.njk
 ---
 External involvement in kidnaps may be a ruse
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: partner-violence-against-women-more-prevalent
-title: "Partner violence against women more prevalent"
-date: 2004-11-26
-source-url: https://www.scoop.co.nz/stories/PO0411/S00228/partner-violence-against-women-more-prevalent.htm
+title: Partner violence against women more prevalent
+date: 2004-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0411/S00228/partner-violence-against-women-more-prevalent.htm
 author: aut-university
+permalink: /archive/2004/11/26/partner-violence-against-women-more-prevalent/index.html
+layout: layout.njk
 ---
 Partner violence against women more prevalent
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: turia-weathertight-homes-resolution-amendmt-bill
-title: "Turia: Weathertight Homes Resolution Amendmt Bill"
-date: 2007-08-22
-source-url: https://www.scoop.co.nz/stories/PA0708/S00361/turia-weathertight-homes-resolution-amendmt-bill.htm
+title: 'Turia: Weathertight Homes Resolution Amendmt Bill'
+date: 2007-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00361/turia-weathertight-homes-resolution-amendmt-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/08/22/turia-weathertight-homes-resolution-amendmt-bill/index.html
+layout: layout.njk
 ---
 Turia: Weathertight Homes Resolution Amendmt Bill
 =================================================

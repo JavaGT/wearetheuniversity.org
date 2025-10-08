@@ -1,9 +1,11 @@
 ---
 slug: newsworthy-4-november-2005
-title: "Newsworthy 4 November 2005"
-date: 2005-11-04
+title: Newsworthy 4 November 2005
+date: 2005-11-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00054/newsworthy-4-november-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/04/newsworthy-4-november-2005/index.html
+layout: layout.njk
 ---
 Newsworthy 4 November 2005
 ==========================

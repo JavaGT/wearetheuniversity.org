@@ -1,9 +1,12 @@
 ---
 slug: a-simple-yes-or-no-will-do-minister
-title: "A Simple Yes Or No Will Do, Minister"
-date: 2004-11-18
-source-url: https://www.scoop.co.nz/stories/PA0411/S00401/a-simple-yes-or-no-will-do-minister.htm
+title: A Simple Yes Or No Will Do, Minister
+date: 2004-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00401/a-simple-yes-or-no-will-do-minister.htm
 author: act-new-zealand
+permalink: /archive/2004/11/18/a-simple-yes-or-no-will-do-minister/index.html
+layout: layout.njk
 ---
 A Simple Yes Or No Will Do, Minister
 ====================================

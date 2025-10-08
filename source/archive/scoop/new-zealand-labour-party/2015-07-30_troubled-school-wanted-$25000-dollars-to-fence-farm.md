@@ -1,9 +1,12 @@
 ---
 slug: troubled-school-wanted-$25000-dollars-to-fence-farm
-title: "Troubled school wanted $25,000 dollars to fence farm"
-date: 2015-07-30
-source-url: https://www.scoop.co.nz/stories/PA1507/S00534/troubled-school-wanted-25000-dollars-to-fence-farm.htm
+title: Troubled school wanted $25,000 dollars to fence farm
+date: 2015-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00534/troubled-school-wanted-25000-dollars-to-fence-farm.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/30/troubled-school-wanted-/index.html
+layout: layout.njk
 ---
 Troubled school wanted $25,000 dollars to fence farm
 ====================================================

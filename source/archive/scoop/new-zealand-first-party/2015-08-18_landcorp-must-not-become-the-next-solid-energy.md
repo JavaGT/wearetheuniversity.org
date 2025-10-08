@@ -1,9 +1,12 @@
 ---
 slug: landcorp-must-not-become-the-next-solid-energy
-title: "Landcorp Must not become the Next Solid Energy"
-date: 2015-08-18
-source-url: https://www.scoop.co.nz/stories/PA1508/S00299/landcorp-must-not-become-the-next-solid-energy.htm
+title: Landcorp Must not become the Next Solid Energy
+date: 2015-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00299/landcorp-must-not-become-the-next-solid-energy.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/18/landcorp-must-not-become-the-next-solid-energy/index.html
+layout: layout.njk
 ---
 Landcorp Must not become the Next Solid Energy
 ==============================================

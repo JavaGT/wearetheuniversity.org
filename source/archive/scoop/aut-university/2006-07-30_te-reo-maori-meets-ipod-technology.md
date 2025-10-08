@@ -1,9 +1,12 @@
 ---
 slug: te-reo-maori-meets-ipod-technology
-title: "Te reo Maori meets iPod technology"
-date: 2006-07-30
-source-url: https://www.scoop.co.nz/stories/ED0607/S00101/te-reo-maori-meets-ipod-technology.htm
+title: Te reo Maori meets iPod technology
+date: 2006-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00101/te-reo-maori-meets-ipod-technology.htm
 author: aut-university
+permalink: /archive/2006/07/30/te-reo-maori-meets-ipod-technology/index.html
+layout: layout.njk
 ---
 Te reo Maori meets iPod technology
 ==================================

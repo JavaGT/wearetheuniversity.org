@@ -1,9 +1,11 @@
 ---
 slug: atainz-speech-towards-2020
-title: "ATAINZ Speech – Towards 2020"
-date: 2017-03-03
+title: ATAINZ Speech – Towards 2020
+date: 2017-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1703/S00051/atainz-speech-towards-2020.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/03/atainz-speech-towards-2020/index.html
+layout: layout.njk
 ---
 ATAINZ Speech – Towards 2020
 ============================

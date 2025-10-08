@@ -1,9 +1,12 @@
 ---
 slug: speech-douglas-stop-buying-the-bullsh*t
-title: "Speech: Douglas - Stop Buying The Bullsh*t"
-date: 2011-03-12
-source-url: https://www.scoop.co.nz/stories/PA1103/S00190/speech-douglas-stop-buying-the-bullsht.htm
+title: 'Speech: Douglas - Stop Buying The Bullsh*t'
+date: 2011-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00190/speech-douglas-stop-buying-the-bullsht.htm
 author: act-new-zealand
+permalink: /archive/2011/03/12/speech-douglas-stop-buying-the-bullsh/index.html
+layout: layout.njk
 ---
 Speech: Douglas - Stop Buying The Bullsh\*t
 ===========================================

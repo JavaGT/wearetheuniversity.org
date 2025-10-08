@@ -1,9 +1,12 @@
 ---
 slug: olympians-take-top-university-sports-awards
-title: "Olympians take top University sports awards"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/ED1212/S00044/olympians-take-top-university-sports-awards.htm
+title: Olympians take top University sports awards
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00044/olympians-take-top-university-sports-awards.htm
 author: massey-university
+permalink: /archive/2012/12/07/olympians-take-top-university-sports-awards/index.html
+layout: layout.njk
 ---
 Olympians take top University sports awards
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-179-20-october-2005
-title: "Real Issues No. 179,   20 OCTOBER 2005"
-date: 2005-10-21
-source-url: https://www.scoop.co.nz/stories/PO0510/S00180/real-issues-no-179-20-october-2005.htm
+title: Real Issues No. 179,   20 OCTOBER 2005
+date: 2005-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0510/S00180/real-issues-no-179-20-october-2005.htm
 author: maxim-institute
+permalink: /archive/2005/10/21/real-issues-no-179-20-october-2005/index.html
+layout: layout.njk
 ---
 Real Issues No. 179, 20 OCTOBER 2005
 ====================================

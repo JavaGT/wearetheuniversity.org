@@ -1,9 +1,12 @@
 ---
 slug: digital-services-tax-a-good-interim-measure
-title: "Digital services tax a good interim measure"
-date: 2019-06-06
-source-url: https://www.scoop.co.nz/stories/BU1906/S00109/digital-services-tax-a-good-interim-measure.htm
+title: Digital services tax a good interim measure
+date: 2019-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1906/S00109/digital-services-tax-a-good-interim-measure.htm
 author: massey-university
+permalink: /archive/2019/06/06/digital-services-tax-a-good-interim-measure/index.html
+layout: layout.njk
 ---
 Digital services tax a good interim measure
 ===========================================

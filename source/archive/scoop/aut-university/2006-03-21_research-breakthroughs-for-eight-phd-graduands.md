@@ -1,9 +1,12 @@
 ---
 slug: research-breakthroughs-for-eight-phd-graduands
-title: "Research breakthroughs for eight PhD graduands"
-date: 2006-03-21
-source-url: https://www.scoop.co.nz/stories/ED0603/S00054/research-breakthroughs-for-eight-phd-graduands.htm
+title: Research breakthroughs for eight PhD graduands
+date: 2006-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00054/research-breakthroughs-for-eight-phd-graduands.htm
 author: aut-university
+permalink: /archive/2006/03/21/research-breakthroughs-for-eight-phd-graduands/index.html
+layout: layout.njk
 ---
 Research breakthroughs for eight PhD graduands
 ==============================================

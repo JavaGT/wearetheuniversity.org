@@ -1,9 +1,12 @@
 ---
 slug: national-unveils-strong-opposition-team
-title: "National unveils strong Opposition team"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/PA1711/S00010/national-unveils-strong-opposition-team.htm
+title: National unveils strong Opposition team
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00010/national-unveils-strong-opposition-team.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/02/national-unveils-strong-opposition-team/index.html
+layout: layout.njk
 ---
 National unveils strong Opposition team
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-scientists-lead-world-in-osteoporosis-deal
-title: "NZ scientists lead world in osteoporosis deal"
-date: 2002-08-15
-source-url: https://www.scoop.co.nz/stories/SC0208/S00024/nz-scientists-lead-world-in-osteoporosis-deal.htm
+title: NZ scientists lead world in osteoporosis deal
+date: 2002-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0208/S00024/nz-scientists-lead-world-in-osteoporosis-deal.htm
 author: auckland-university
+permalink: /archive/2002/08/15/nz-scientists-lead-world-in-osteoporosis-deal/index.html
+layout: layout.njk
 ---
 NZ scientists lead world in osteoporosis deal
 =============================================

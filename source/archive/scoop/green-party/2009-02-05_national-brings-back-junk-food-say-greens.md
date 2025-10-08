@@ -1,9 +1,12 @@
 ---
 slug: national-brings-back-junk-food-say-greens
-title: "National Brings Back Junk Food, say Greens"
-date: 2009-02-05
-source-url: https://www.scoop.co.nz/stories/PA0902/S00081/national-brings-back-junk-food-say-greens.htm
+title: National Brings Back Junk Food, say Greens
+date: 2009-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00081/national-brings-back-junk-food-say-greens.htm
 author: green-party
+permalink: /archive/2009/02/05/national-brings-back-junk-food-say-greens/index.html
+layout: layout.njk
 ---
 National Brings Back Junk Food, say Greens
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-science-labs-blessed-in-dawn-ceremony-at-albany
-title: "New science labs blessed in dawn ceremony at Albany"
-date: 2013-01-10
-source-url: https://www.scoop.co.nz/stories/ED1301/S00008/new-science-labs-blessed-in-dawn-ceremony-at-albany.htm
+title: New science labs blessed in dawn ceremony at Albany
+date: 2013-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00008/new-science-labs-blessed-in-dawn-ceremony-at-albany.htm
 author: massey-university
+permalink: >-
+  /archive/2013/01/10/new-science-labs-blessed-in-dawn-ceremony-at-albany/index.html
+layout: layout.njk
 ---
 New science labs blessed in dawn ceremony at Albany
 ===================================================

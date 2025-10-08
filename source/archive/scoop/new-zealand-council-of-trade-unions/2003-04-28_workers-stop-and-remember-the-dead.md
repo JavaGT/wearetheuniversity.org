@@ -1,9 +1,12 @@
 ---
 slug: workers-stop-and-remember-the-dead
-title: "Workers Stop And Remember The Dead"
-date: 2003-04-28
-source-url: https://www.scoop.co.nz/stories/PO0304/S00160/workers-stop-and-remember-the-dead.htm
+title: Workers Stop And Remember The Dead
+date: 2003-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0304/S00160/workers-stop-and-remember-the-dead.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/04/28/workers-stop-and-remember-the-dead/index.html
+layout: layout.njk
 ---
 Workers Stop And Remember The Dead
 ==================================

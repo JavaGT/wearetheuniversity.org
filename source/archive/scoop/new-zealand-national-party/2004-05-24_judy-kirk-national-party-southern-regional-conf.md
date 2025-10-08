@@ -1,9 +1,12 @@
 ---
 slug: judy-kirk-national-party-southern-regional-conf
-title: "Judy Kirk National Party Southern Regional Conf."
-date: 2004-05-24
-source-url: https://www.scoop.co.nz/stories/PA0405/S00479/judy-kirk-national-party-southern-regional-conf.htm
+title: Judy Kirk National Party Southern Regional Conf.
+date: 2004-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00479/judy-kirk-national-party-southern-regional-conf.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/24/judy-kirk-national-party-southern-regional-conf/index.html
+layout: layout.njk
 ---
 Judy Kirk National Party Southern Regional Conf.
 ================================================

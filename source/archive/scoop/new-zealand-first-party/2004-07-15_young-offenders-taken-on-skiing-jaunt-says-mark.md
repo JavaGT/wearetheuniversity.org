@@ -1,9 +1,12 @@
 ---
 slug: young-offenders-taken-on-skiing-jaunt-says-mark
-title: "Young Offenders Taken On Skiing Jaunt Says Mark"
-date: 2004-07-15
-source-url: https://www.scoop.co.nz/stories/PA0407/S00253/young-offenders-taken-on-skiing-jaunt-says-mark.htm
+title: Young Offenders Taken On Skiing Jaunt Says Mark
+date: 2004-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00253/young-offenders-taken-on-skiing-jaunt-says-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/15/young-offenders-taken-on-skiing-jaunt-says-mark/index.html
+layout: layout.njk
 ---
 Young Offenders Taken On Skiing Jaunt Says Mark
 ===============================================

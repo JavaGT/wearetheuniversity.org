@@ -1,9 +1,13 @@
 ---
 slug: all-talk-no-action-from-labour-over-failing-kids
-title: "All talk, no action from Labour over failing kids"
-date: 2008-10-28
-source-url: https://www.scoop.co.nz/stories/PA0810/S00600/all-talk-no-action-from-labour-over-failing-kids.htm
+title: All talk, no action from Labour over failing kids
+date: 2008-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00600/all-talk-no-action-from-labour-over-failing-kids.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/10/28/all-talk-no-action-from-labour-over-failing-kids/index.html
+layout: layout.njk
 ---
 All talk, no action from Labour over failing kids
 =================================================

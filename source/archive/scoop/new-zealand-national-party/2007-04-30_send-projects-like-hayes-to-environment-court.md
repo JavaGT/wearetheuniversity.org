@@ -1,9 +1,12 @@
 ---
 slug: send-projects-like-hayes-to-environment-court
-title: "Send projects like Hayes to Environment Court"
-date: 2007-04-30
-source-url: https://www.scoop.co.nz/stories/PA0704/S00487/send-projects-like-hayes-to-environment-court.htm
+title: Send projects like Hayes to Environment Court
+date: 2007-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00487/send-projects-like-hayes-to-environment-court.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/30/send-projects-like-hayes-to-environment-court/index.html
+layout: layout.njk
 ---
 Send projects like Hayes to Environment Court
 =============================================

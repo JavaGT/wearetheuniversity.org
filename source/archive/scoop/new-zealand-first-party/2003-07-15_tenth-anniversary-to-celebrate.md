@@ -1,9 +1,12 @@
 ---
 slug: tenth-anniversary-to-celebrate
-title: "Tenth Anniversary To Celebrate"
-date: 2003-07-15
-source-url: https://www.scoop.co.nz/stories/PA0307/S00269/tenth-anniversary-to-celebrate.htm
+title: Tenth Anniversary To Celebrate
+date: 2003-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00269/tenth-anniversary-to-celebrate.htm
 author: new-zealand-first-party
+permalink: /archive/2003/07/15/tenth-anniversary-to-celebrate/index.html
+layout: layout.njk
 ---
 Tenth Anniversary To Celebrate
 ==============================

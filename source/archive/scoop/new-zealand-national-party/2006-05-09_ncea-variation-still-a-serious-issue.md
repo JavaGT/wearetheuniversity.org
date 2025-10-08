@@ -1,9 +1,12 @@
 ---
 slug: ncea-variation-still-a-serious-issue
-title: "NCEA: Variation still a serious issue"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/PA0605/S00206/ncea-variation-still-a-serious-issue.htm
+title: 'NCEA: Variation still a serious issue'
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00206/ncea-variation-still-a-serious-issue.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/09/ncea-variation-still-a-serious-issue/index.html
+layout: layout.njk
 ---
 NCEA: Variation still a serious issue
 =====================================

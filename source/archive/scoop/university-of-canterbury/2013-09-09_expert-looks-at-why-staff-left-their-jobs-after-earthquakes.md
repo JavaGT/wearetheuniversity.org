@@ -1,9 +1,13 @@
 ---
 slug: expert-looks-at-why-staff-left-their-jobs-after-earthquakes
-title: "Expert looks at why staff left their jobs after earthquakes"
-date: 2013-09-09
-source-url: https://www.scoop.co.nz/stories/AK1309/S00240/expert-looks-at-why-staff-left-their-jobs-after-earthquakes.htm
+title: Expert looks at why staff left their jobs after earthquakes
+date: 2013-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00240/expert-looks-at-why-staff-left-their-jobs-after-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/09/expert-looks-at-why-staff-left-their-jobs-after-earthquakes/index.html
+layout: layout.njk
 ---
 Expert looks at why staff left their jobs after earthquakes
 ===========================================================

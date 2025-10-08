@@ -1,9 +1,13 @@
 ---
 slug: jono-naylor-encourages-applications-for-education-awards
-title: "Jono Naylor encourages applications for Education Awards"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/PA1511/S00133/jono-naylor-encourages-applications-for-education-awards.htm
+title: Jono Naylor encourages applications for Education Awards
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00133/jono-naylor-encourages-applications-for-education-awards.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/11/09/jono-naylor-encourages-applications-for-education-awards/index.html
+layout: layout.njk
 ---
 Jono Naylor encourages applications for Education Awards
 ========================================================

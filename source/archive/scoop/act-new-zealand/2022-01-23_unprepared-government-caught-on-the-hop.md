@@ -1,9 +1,12 @@
 ---
 slug: unprepared-government-caught-on-the-hop
-title: "Unprepared Government Caught On The Hop"
-date: 2022-01-23
-source-url: https://www.scoop.co.nz/stories/PA2201/S00072/unprepared-government-caught-on-the-hop.htm
+title: Unprepared Government Caught On The Hop
+date: 2022-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00072/unprepared-government-caught-on-the-hop.htm
 author: act-new-zealand
+permalink: /archive/2022/01/23/unprepared-government-caught-on-the-hop/index.html
+layout: layout.njk
 ---
 Unprepared Government Caught On The Hop
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: super-computers-will-help-find-health-breakthroughs
-title: "Super computers will help find health breakthroughs"
-date: 2013-12-01
-source-url: https://www.scoop.co.nz/stories/ED1312/S00001/super-computers-will-help-find-health-breakthroughs.htm
+title: Super computers will help find health breakthroughs
+date: 2013-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00001/super-computers-will-help-find-health-breakthroughs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/01/super-computers-will-help-find-health-breakthroughs/index.html
+layout: layout.njk
 ---
 Super computers will help find health breakthroughs
 ===================================================

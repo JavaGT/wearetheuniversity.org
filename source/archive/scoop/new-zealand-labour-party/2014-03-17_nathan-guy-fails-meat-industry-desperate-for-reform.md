@@ -1,9 +1,13 @@
 ---
 slug: nathan-guy-fails-meat-industry-desperate-for-reform
-title: "Nathan Guy fails meat industry desperate for reform"
-date: 2014-03-17
-source-url: https://www.scoop.co.nz/stories/PA1403/S00311/nathan-guy-fails-meat-industry-desperate-for-reform.htm
+title: Nathan Guy fails meat industry desperate for reform
+date: 2014-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00311/nathan-guy-fails-meat-industry-desperate-for-reform.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/03/17/nathan-guy-fails-meat-industry-desperate-for-reform/index.html
+layout: layout.njk
 ---
 Nathan Guy fails meat industry desperate for reform
 ===================================================

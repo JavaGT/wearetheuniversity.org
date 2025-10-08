@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-this-week-no-44
-title: "Maxim Institute: real issues this week: No. 44"
-date: 2002-11-28
-source-url: https://www.scoop.co.nz/stories/PO0211/S00217/maxim-institute-real-issues-this-week-no-44.htm
+title: 'Maxim Institute: real issues this week: No. 44'
+date: 2002-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0211/S00217/maxim-institute-real-issues-this-week-no-44.htm
 author: maxim-institute
+permalink: /archive/2002/11/28/maxim-institute-real-issues-this-week-no-44/index.html
+layout: layout.njk
 ---
 Maxim Institute: real issues this week: No. 44
 ==============================================

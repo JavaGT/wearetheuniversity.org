@@ -1,9 +1,13 @@
 ---
 slug: working-people-need-urgent-action-on-safe-affordable-homes
-title: "Working people need urgent action on safe affordable homes"
-date: 2018-07-11
-source-url: https://www.scoop.co.nz/stories/PO1807/S00145/working-people-need-urgent-action-on-safe-affordable-homes.htm
+title: Working people need urgent action on safe affordable homes
+date: 2018-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1807/S00145/working-people-need-urgent-action-on-safe-affordable-homes.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/07/11/working-people-need-urgent-action-on-safe-affordable-homes/index.html
+layout: layout.njk
 ---
 Working people need urgent action on safe affordable homes
 ==========================================================

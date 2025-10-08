@@ -1,9 +1,13 @@
 ---
 slug: government-throws-more-money-at-failed-experiment
-title: "Government throws more money at failed experiment"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/ED1305/S00119/government-throws-more-money-at-failed-experiment.htm
+title: Government throws more money at failed experiment
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00119/government-throws-more-money-at-failed-experiment.htm
 author: nzei
+permalink: >-
+  /archive/2013/05/17/government-throws-more-money-at-failed-experiment/index.html
+layout: layout.njk
 ---
 Government throws more money at failed experiment
 =================================================

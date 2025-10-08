@@ -1,9 +1,12 @@
 ---
 slug: evidence-that-light-smokes-fool-the-smoker
-title: "Evidence that ‘light’ smokes fool the smoker"
-date: 2006-05-03
-source-url: https://www.scoop.co.nz/stories/GE0605/S00029/evidence-that-light-smokes-fool-the-smoker.htm
+title: Evidence that ‘light’ smokes fool the smoker
+date: 2006-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0605/S00029/evidence-that-light-smokes-fool-the-smoker.htm
 author: massey-university
+permalink: /archive/2006/05/03/evidence-that-light-smokes-fool-the-smoker/index.html
+layout: layout.njk
 ---
 Evidence that ‘light’ smokes fool the smoker
 ============================================

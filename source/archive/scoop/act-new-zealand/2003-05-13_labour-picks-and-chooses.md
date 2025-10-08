@@ -1,9 +1,11 @@
 ---
 slug: labour-picks-and-chooses
-title: "Labour Picks And Chooses"
-date: 2003-05-13
+title: Labour Picks And Chooses
+date: 2003-05-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00285/labour-picks-and-chooses.htm
 author: act-new-zealand
+permalink: /archive/2003/05/13/labour-picks-and-chooses/index.html
+layout: layout.njk
 ---
 Labour Picks And Chooses
 ========================

@@ -1,9 +1,13 @@
 ---
 slug: museum-studies-staff-and-students-help-quake-hit-colleagues
-title: "Museum Studies staff and students help quake-hit colleagues"
-date: 2011-09-02
-source-url: https://www.scoop.co.nz/stories/ED1109/S00011/museum-studies-staff-and-students-help-quake-hit-colleagues.htm
+title: Museum Studies staff and students help quake-hit colleagues
+date: 2011-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00011/museum-studies-staff-and-students-help-quake-hit-colleagues.htm
 author: massey-university
+permalink: >-
+  /archive/2011/09/02/museum-studies-staff-and-students-help-quake-hit-colleagues/index.html
+layout: layout.njk
 ---
 Museum Studies staff and students help quake-hit colleagues
 ===========================================================

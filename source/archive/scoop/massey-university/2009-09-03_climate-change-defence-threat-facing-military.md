@@ -1,9 +1,12 @@
 ---
 slug: climate-change-defence-threat-facing-military
-title: "Climate change defence threat facing military"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/PO0909/S00028/climate-change-defence-threat-facing-military.htm
+title: Climate change defence threat facing military
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00028/climate-change-defence-threat-facing-military.htm
 author: massey-university
+permalink: /archive/2009/09/03/climate-change-defence-threat-facing-military/index.html
+layout: layout.njk
 ---
 Climate change defence threat facing military
 =============================================

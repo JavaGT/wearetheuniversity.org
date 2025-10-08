@@ -1,9 +1,12 @@
 ---
 slug: unlicenced-immigrants-should-be-taken-off-roads
-title: "Unlicenced Immigrants Should Be Taken Off Roads"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/PA0305/S00477/unlicenced-immigrants-should-be-taken-off-roads.htm
+title: Unlicenced Immigrants Should Be Taken Off Roads
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00477/unlicenced-immigrants-should-be-taken-off-roads.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/16/unlicenced-immigrants-should-be-taken-off-roads/index.html
+layout: layout.njk
 ---
 Unlicenced Immigrants Should Be Taken Off Roads
 ===============================================

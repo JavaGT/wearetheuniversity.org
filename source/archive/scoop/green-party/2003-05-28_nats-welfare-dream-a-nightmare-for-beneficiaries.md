@@ -1,9 +1,13 @@
 ---
 slug: nats-welfare-dream-a-nightmare-for-beneficiaries
-title: "Nats' welfare dream a nightmare for beneficiaries"
-date: 2003-05-28
-source-url: https://www.scoop.co.nz/stories/PA0305/S00719/nats-welfare-dream-a-nightmare-for-beneficiaries.htm
+title: Nats' welfare dream a nightmare for beneficiaries
+date: 2003-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00719/nats-welfare-dream-a-nightmare-for-beneficiaries.htm
 author: green-party
+permalink: >-
+  /archive/2003/05/28/nats-welfare-dream-a-nightmare-for-beneficiaries/index.html
+layout: layout.njk
 ---
 Nats' welfare dream a nightmare for beneficiaries
 =================================================

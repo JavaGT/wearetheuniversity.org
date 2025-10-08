@@ -1,9 +1,13 @@
 ---
 slug: evidence-shows-compensation-is-warranted-for-vets
-title: "Evidence shows compensation is warranted for vets"
-date: 2006-07-28
-source-url: https://www.scoop.co.nz/stories/PA0607/S00515/evidence-shows-compensation-is-warranted-for-vets.htm
+title: Evidence shows compensation is warranted for vets
+date: 2006-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00515/evidence-shows-compensation-is-warranted-for-vets.htm
 author: green-party
+permalink: >-
+  /archive/2006/07/28/evidence-shows-compensation-is-warranted-for-vets/index.html
+layout: layout.njk
 ---
 Evidence shows compensation is warranted for vets
 =================================================

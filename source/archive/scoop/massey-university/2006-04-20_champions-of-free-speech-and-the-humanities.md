@@ -1,9 +1,12 @@
 ---
 slug: champions-of-free-speech-and-the-humanities
-title: "Champions of free speech and the humanities"
-date: 2006-04-20
-source-url: https://www.scoop.co.nz/stories/ED0604/S00071/champions-of-free-speech-and-the-humanities.htm
+title: Champions of free speech and the humanities
+date: 2006-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00071/champions-of-free-speech-and-the-humanities.htm
 author: massey-university
+permalink: /archive/2006/04/20/champions-of-free-speech-and-the-humanities/index.html
+layout: layout.njk
 ---
 Champions of free speech and the humanities
 ===========================================

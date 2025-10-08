@@ -1,9 +1,13 @@
 ---
 slug: measuring-progress-key-to-raising-student-achievement
-title: "Measuring Progress Key To Raising Student Achievement"
-date: 2021-02-02
-source-url: https://www.scoop.co.nz/stories/PA2102/S00009/measuring-progress-key-to-raising-student-achievement.htm
+title: Measuring Progress Key To Raising Student Achievement
+date: 2021-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00009/measuring-progress-key-to-raising-student-achievement.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/02/02/measuring-progress-key-to-raising-student-achievement/index.html
+layout: layout.njk
 ---
 Measuring Progress Key To Raising Student Achievement
 =====================================================

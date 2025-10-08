@@ -1,9 +1,12 @@
 ---
 slug: labour-insiders-join-alliance-on-eub
-title: "Labour Insiders Join Alliance On EUB"
-date: 2001-03-02
-source-url: https://www.scoop.co.nz/stories/PA0103/S00036/labour-insiders-join-alliance-on-eub.htm
+title: Labour Insiders Join Alliance On EUB
+date: 2001-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00036/labour-insiders-join-alliance-on-eub.htm
 author: new-zealand-national-party
+permalink: /archive/2001/03/02/labour-insiders-join-alliance-on-eub/index.html
+layout: layout.njk
 ---
 Labour Insiders Join Alliance On EUB
 ====================================

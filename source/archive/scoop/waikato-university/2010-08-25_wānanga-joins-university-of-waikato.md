@@ -1,9 +1,12 @@
 ---
 slug: wānanga-joins-university-of-waikato
-title: "Wānanga joins University of Waikato"
-date: 2010-08-25
-source-url: https://www.scoop.co.nz/stories/ED1008/S00094/wananga-joins-university-of-waikato.htm
+title: Wānanga joins University of Waikato
+date: 2010-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00094/wananga-joins-university-of-waikato.htm
 author: waikato-university
+permalink: /archive/2010/08/25/w/index.html
+layout: layout.njk
 ---
 Wānanga joins University of Waikato
 ===================================

@@ -1,9 +1,11 @@
 ---
 slug: otagos-research-excellence
-title: "Otago’s Research Excellence"
-date: 2005-09-09
+title: Otago’s Research Excellence
+date: 2005-09-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0509/S00030/otagos-research-excellence.htm
 author: university-of-otago
+permalink: /archive/2005/09/09/otagos-research-excellence/index.html
+layout: layout.njk
 ---
 Otago’s Research Excellence
 ===========================

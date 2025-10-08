@@ -1,9 +1,12 @@
 ---
 slug: recovery-needs-more-than-a-rebrand
-title: "Recovery needs more than a rebrand"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00053/recovery-needs-more-than-a-rebrand.htm
+title: Recovery needs more than a rebrand
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00053/recovery-needs-more-than-a-rebrand.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/02/recovery-needs-more-than-a-rebrand/index.html
+layout: layout.njk
 ---
 Recovery needs more than a rebrand
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: social-justice-campaigner-honoured
-title: "Social justice campaigner honoured"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/PO1208/S00169/social-justice-campaigner-honoured.htm
+title: Social justice campaigner honoured
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00169/social-justice-campaigner-honoured.htm
 author: university-of-waikato
+permalink: /archive/2012/08/13/social-justice-campaigner-honoured/index.html
+layout: layout.njk
 ---
 Social justice campaigner honoured
 ==================================

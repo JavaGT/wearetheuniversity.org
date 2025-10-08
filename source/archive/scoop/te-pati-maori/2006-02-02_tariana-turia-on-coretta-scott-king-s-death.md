@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-on-coretta-scott-king-s-death
-title: "Tariana Turia on Coretta Scott King 's Death"
-date: 2006-02-02
-source-url: https://www.scoop.co.nz/stories/PA0602/S00021/tariana-turia-on-coretta-scott-king-s-death.htm
+title: Tariana Turia on Coretta Scott King 's Death
+date: 2006-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00021/tariana-turia-on-coretta-scott-king-s-death.htm
 author: te-pati-maori
+permalink: /archive/2006/02/02/tariana-turia-on-coretta-scott-king-s-death/index.html
+layout: layout.njk
 ---
 Tariana Turia on Coretta Scott King 's Death
 ============================================

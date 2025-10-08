@@ -1,9 +1,12 @@
 ---
 slug: tumours-must-be-bigger-more-disfiguring
-title: "Tumours must be bigger, more disfiguring"
-date: 2006-06-15
-source-url: https://www.scoop.co.nz/stories/PA0606/S00283/tumours-must-be-bigger-more-disfiguring.htm
+title: Tumours must be bigger, more disfiguring
+date: 2006-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00283/tumours-must-be-bigger-more-disfiguring.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/15/tumours-must-be-bigger-more-disfiguring/index.html
+layout: layout.njk
 ---
 Tumours must be bigger, more disfiguring
 ========================================

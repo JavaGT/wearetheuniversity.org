@@ -1,9 +1,12 @@
 ---
 slug: lockdown-no-longer-short-or-sharp
-title: "Lockdown no longer short or sharp"
-date: 2021-08-23
-source-url: https://www.scoop.co.nz/stories/PA2108/S00197/lockdown-no-longer-short-or-sharp.htm
+title: Lockdown no longer short or sharp
+date: 2021-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00197/lockdown-no-longer-short-or-sharp.htm
 author: act-new-zealand
+permalink: /archive/2021/08/23/lockdown-no-longer-short-or-sharp/index.html
+layout: layout.njk
 ---
 Lockdown no longer short or sharp
 =================================

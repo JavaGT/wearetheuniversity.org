@@ -1,9 +1,13 @@
 ---
 slug: university-reconnecting-with-cbd-at-the-arts-centre
-title: "University reconnecting with CBD at the Arts Centre"
-date: 2014-10-28
-source-url: https://www.scoop.co.nz/stories/ED1410/S00143/university-reconnecting-with-cbd-at-the-arts-centre.htm
+title: University reconnecting with CBD at the Arts Centre
+date: 2014-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00143/university-reconnecting-with-cbd-at-the-arts-centre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/28/university-reconnecting-with-cbd-at-the-arts-centre/index.html
+layout: layout.njk
 ---
 University reconnecting with CBD at the Arts Centre
 ===================================================

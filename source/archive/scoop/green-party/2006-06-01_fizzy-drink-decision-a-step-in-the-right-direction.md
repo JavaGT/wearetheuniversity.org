@@ -1,9 +1,13 @@
 ---
 slug: fizzy-drink-decision-a-step-in-the-right-direction
-title: "Fizzy drink decision a step in the right direction"
-date: 2006-06-01
-source-url: https://www.scoop.co.nz/stories/PA0606/S00005/fizzy-drink-decision-a-step-in-the-right-direction.htm
+title: Fizzy drink decision a step in the right direction
+date: 2006-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00005/fizzy-drink-decision-a-step-in-the-right-direction.htm
 author: green-party
+permalink: >-
+  /archive/2006/06/01/fizzy-drink-decision-a-step-in-the-right-direction/index.html
+layout: layout.njk
 ---
 Fizzy drink decision a step in the right direction
 ==================================================

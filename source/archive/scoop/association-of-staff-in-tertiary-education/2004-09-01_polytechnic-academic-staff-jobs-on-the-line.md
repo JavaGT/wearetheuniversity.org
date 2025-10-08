@@ -1,9 +1,12 @@
 ---
 slug: polytechnic-academic-staff-jobs-on-the-line
-title: "Polytechnic Academic Staff jobs on the line"
-date: 2004-09-01
-source-url: https://www.scoop.co.nz/stories/ED0409/S00005/polytechnic-academic-staff-jobs-on-the-line.htm
+title: Polytechnic Academic Staff jobs on the line
+date: 2004-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00005/polytechnic-academic-staff-jobs-on-the-line.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2004/09/01/polytechnic-academic-staff-jobs-on-the-line/index.html
+layout: layout.njk
 ---
 Polytechnic Academic Staff jobs on the line
 ===========================================

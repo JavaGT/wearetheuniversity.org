@@ -1,9 +1,11 @@
 ---
 slug: is-green-the-new-fad
-title: "Is Green the New Fad?"
-date: 2007-01-24
+title: Is Green the New Fad?
+date: 2007-01-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0701/S00107/is-green-the-new-fad.htm
 author: waikato-university
+permalink: /archive/2007/01/24/is-green-the-new-fad/index.html
+layout: layout.njk
 ---
 Is Green the New Fad?
 =====================

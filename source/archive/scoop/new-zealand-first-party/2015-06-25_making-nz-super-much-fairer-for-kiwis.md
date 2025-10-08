@@ -1,9 +1,12 @@
 ---
 slug: making-nz-super-much-fairer-for-kiwis
-title: "Making NZ Super Much Fairer for Kiwis"
-date: 2015-06-25
-source-url: https://www.scoop.co.nz/stories/PA1506/S00459/making-nz-super-much-fairer-for-kiwis.htm
+title: Making NZ Super Much Fairer for Kiwis
+date: 2015-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00459/making-nz-super-much-fairer-for-kiwis.htm
 author: new-zealand-first-party
+permalink: /archive/2015/06/25/making-nz-super-much-fairer-for-kiwis/index.html
+layout: layout.njk
 ---
 Making NZ Super Much Fairer for Kiwis
 =====================================

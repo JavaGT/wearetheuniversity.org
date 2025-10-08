@@ -1,9 +1,12 @@
 ---
 slug: government-must-stop-state-house-sell-off
-title: "Government must stop state house sell-off"
-date: 2016-07-13
-source-url: https://www.scoop.co.nz/stories/PA1607/S00209/government-must-stop-state-house-sell-off.htm
+title: Government must stop state house sell-off
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00209/government-must-stop-state-house-sell-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/13/government-must-stop-state-house-sell-off/index.html
+layout: layout.njk
 ---
 Government must stop state house sell-off
 =========================================

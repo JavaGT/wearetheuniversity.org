@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-16-december-2005
-title: "www.mccully.co.nz 16 December 2005"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/PA0512/S00266/wwwmccullyconz-16-december-2005.htm
+title: www.mccully.co.nz 16 December 2005
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00266/wwwmccullyconz-16-december-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/16/www-mccully-co-nz-16-december-2005/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz 16 December 2005
 ==================================

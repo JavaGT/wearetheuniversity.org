@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-study-climate-impacts-on-antarctic-seals
-title: "UC scientists study climate impacts on Antarctic seals"
-date: 2020-08-13
-source-url: https://www.scoop.co.nz/stories/SC2008/S00030/uc-scientists-study-climate-impacts-on-antarctic-seals.htm
+title: UC scientists study climate impacts on Antarctic seals
+date: 2020-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2008/S00030/uc-scientists-study-climate-impacts-on-antarctic-seals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/13/uc-scientists-study-climate-impacts-on-antarctic-seals/index.html
+layout: layout.njk
 ---
 UC scientists study climate impacts on Antarctic seals
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-obtains-european-union-horizon-2020-era-gas-funding
-title: "Waikato obtains European Union Horizon 2020 ERA-GAS funding"
-date: 2017-06-14
-source-url: https://www.scoop.co.nz/stories/ED1706/S00043/waikato-obtains-european-union-horizon-2020-era-gas-funding.htm
+title: Waikato obtains European Union Horizon 2020 ERA-GAS funding
+date: 2017-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00043/waikato-obtains-european-union-horizon-2020-era-gas-funding.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/06/14/waikato-obtains-european-union-horizon-2020-era-gas-funding/index.html
+layout: layout.njk
 ---
 Waikato obtains European Union Horizon 2020 ERA-GAS funding
 ===========================================================

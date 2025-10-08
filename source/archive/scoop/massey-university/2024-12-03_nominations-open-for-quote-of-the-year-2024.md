@@ -1,9 +1,12 @@
 ---
 slug: nominations-open-for-quote-of-the-year-2024
-title: "Nominations Open For Quote Of The Year 2024"
-date: 2024-12-03
-source-url: https://www.scoop.co.nz/stories/CU2412/S00018/nominations-open-for-quote-of-the-year-2024.htm
+title: Nominations Open For Quote Of The Year 2024
+date: 2024-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2412/S00018/nominations-open-for-quote-of-the-year-2024.htm
 author: massey-university
+permalink: /archive/2024/12/03/nominations-open-for-quote-of-the-year-2024/index.html
+layout: layout.njk
 ---
 Nominations Open For Quote Of The Year 2024
 ===========================================

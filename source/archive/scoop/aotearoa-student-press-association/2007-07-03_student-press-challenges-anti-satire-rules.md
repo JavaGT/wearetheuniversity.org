@@ -1,9 +1,12 @@
 ---
 slug: student-press-challenges-anti-satire-rules
-title: "Student press challenges anti-satire rules"
-date: 2007-07-03
-source-url: https://www.scoop.co.nz/stories/ED0707/S00014/student-press-challenges-anti-satire-rules.htm
+title: Student press challenges anti-satire rules
+date: 2007-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00014/student-press-challenges-anti-satire-rules.htm
 author: aotearoa-student-press-association
+permalink: /archive/2007/07/03/student-press-challenges-anti-satire-rules/index.html
+layout: layout.njk
 ---
 Student press challenges anti-satire rules
 ==========================================

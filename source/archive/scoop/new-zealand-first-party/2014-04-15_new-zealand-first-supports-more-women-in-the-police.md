@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-supports-more-women-in-the-police
-title: "New Zealand First Supports More Women in the Police"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/PA1404/S00247/new-zealand-first-supports-more-women-in-the-police.htm
+title: New Zealand First Supports More Women in the Police
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00247/new-zealand-first-supports-more-women-in-the-police.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/04/15/new-zealand-first-supports-more-women-in-the-police/index.html
+layout: layout.njk
 ---
 New Zealand First Supports More Women in the Police
 ===================================================

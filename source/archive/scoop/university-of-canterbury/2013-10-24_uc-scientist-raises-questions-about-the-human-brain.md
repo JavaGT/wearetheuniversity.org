@@ -1,9 +1,13 @@
 ---
 slug: uc-scientist-raises-questions-about-the-human-brain
-title: "UC scientist raises questions about the human brain"
-date: 2013-10-24
-source-url: https://www.scoop.co.nz/stories/SC1310/S00067/uc-scientist-raises-questions-about-the-human-brain.htm
+title: UC scientist raises questions about the human brain
+date: 2013-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00067/uc-scientist-raises-questions-about-the-human-brain.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/24/uc-scientist-raises-questions-about-the-human-brain/index.html
+layout: layout.njk
 ---
 UC scientist raises questions about the human brain
 ===================================================

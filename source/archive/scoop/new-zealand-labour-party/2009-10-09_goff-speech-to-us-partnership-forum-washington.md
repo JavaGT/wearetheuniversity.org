@@ -1,9 +1,12 @@
 ---
 slug: goff-speech-to-us-partnership-forum-washington
-title: "Goff: Speech to US Partnership Forum, Washington"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/PA0910/S00113/goff-speech-to-us-partnership-forum-washington.htm
+title: 'Goff: Speech to US Partnership Forum, Washington'
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00113/goff-speech-to-us-partnership-forum-washington.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/09/goff-speech-to-us-partnership-forum-washington/index.html
+layout: layout.njk
 ---
 Goff: Speech to US Partnership Forum, Washington
 ================================================

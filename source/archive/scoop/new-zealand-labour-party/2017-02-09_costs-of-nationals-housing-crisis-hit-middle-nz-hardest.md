@@ -1,9 +1,13 @@
 ---
 slug: costs-of-nationals-housing-crisis-hit-middle-nz-hardest
-title: "Costs of National's housing crisis hit middle NZ hardest"
-date: 2017-02-09
-source-url: https://www.scoop.co.nz/stories/PA1702/S00128/costs-of-nationals-housing-crisis-hit-middle-nz-hardest.htm
+title: Costs of National's housing crisis hit middle NZ hardest
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00128/costs-of-nationals-housing-crisis-hit-middle-nz-hardest.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/09/costs-of-nationals-housing-crisis-hit-middle-nz-hardest/index.html
+layout: layout.njk
 ---
 Costs of National's housing crisis hit middle NZ hardest
 ========================================================

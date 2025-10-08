@@ -1,8 +1,12 @@
 ---
 slug: rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting-say-researchers
-title: "Rise in e-cigarettes linked to rise in smokers quitting, say researchers"
-date: 2017-07-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting--say-res.html
+title: Rise in e-cigarettes linked to rise in smokers quitting, say researchers
+date: 2017-07-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/07/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting--say-res.html
+permalink: >-
+  /archive/2017/07/31/rise-in-e-cigarettes-linked-to-rise-in-smokers-quitting-say-researchers/index.html
+layout: layout.njk
 ---
 Rise in e-cigarettes linked to rise in smokers quitting, say researchers
 ========================================================================

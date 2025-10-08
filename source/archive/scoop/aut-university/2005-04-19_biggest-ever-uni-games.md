@@ -1,9 +1,11 @@
 ---
 slug: biggest-ever-uni-games
-title: "Biggest ever Uni Games"
-date: 2005-04-19
+title: Biggest ever Uni Games
+date: 2005-04-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0504/S00070/biggest-ever-uni-games.htm
 author: aut-university
+permalink: /archive/2005/04/19/biggest-ever-uni-games/index.html
+layout: layout.njk
 ---
 Biggest ever Uni Games
 ======================

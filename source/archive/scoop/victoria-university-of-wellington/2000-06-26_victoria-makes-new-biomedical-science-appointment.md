@@ -1,9 +1,13 @@
 ---
 slug: victoria-makes-new-biomedical-science-appointment
-title: "Victoria makes new Biomedical Science appointment"
-date: 2000-06-26
-source-url: https://www.scoop.co.nz/stories/SC0006/S00023/victoria-makes-new-biomedical-science-appointment.htm
+title: Victoria makes new Biomedical Science appointment
+date: 2000-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0006/S00023/victoria-makes-new-biomedical-science-appointment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2000/06/26/victoria-makes-new-biomedical-science-appointment/index.html
+layout: layout.njk
 ---
 Victoria makes new Biomedical Science appointment
 =================================================

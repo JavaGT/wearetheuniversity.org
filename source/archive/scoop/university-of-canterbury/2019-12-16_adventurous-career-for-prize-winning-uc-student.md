@@ -1,9 +1,12 @@
 ---
 slug: adventurous-career-for-prize-winning-uc-student
-title: "Adventurous career for prize-winning UC student"
-date: 2019-12-16
-source-url: https://www.scoop.co.nz/stories/AK1912/S00456/adventurous-career-for-prize-winning-uc-student.htm
+title: Adventurous career for prize-winning UC student
+date: 2019-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1912/S00456/adventurous-career-for-prize-winning-uc-student.htm
 author: university-of-canterbury
+permalink: /archive/2019/12/16/adventurous-career-for-prize-winning-uc-student/index.html
+layout: layout.njk
 ---
 Adventurous career for prize-winning UC student
 ===============================================

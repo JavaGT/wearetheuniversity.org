@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-on-track-for-kīngitanga-day-on-september
-title: "Waikato University on track for Kīngitanga Day on September"
-date: 2016-08-25
-source-url: https://www.scoop.co.nz/stories/ED1608/S00093/waikato-university-on-track-for-kingitanga-day-on-september.htm
+title: Waikato University on track for Kīngitanga Day on September
+date: 2016-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00093/waikato-university-on-track-for-kingitanga-day-on-september.htm
 author: university-of-waikato
+permalink: /archive/2016/08/25/waikato-university-on-track-for-k/index.html
+layout: layout.njk
 ---
 Waikato University on track for Kīngitanga Day on September
 ===========================================================

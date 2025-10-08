@@ -1,9 +1,13 @@
 ---
 slug: designer-molecules-enabling-major-advances-in-biom
-title: "Designer molecules enabling major advances in biom"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/SC1002/S00054/designer-molecules-enabling-major-advances-in-biom.htm
+title: Designer molecules enabling major advances in biom
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1002/S00054/designer-molecules-enabling-major-advances-in-biom.htm
 author: aut-university
+permalink: >-
+  /archive/2010/02/17/designer-molecules-enabling-major-advances-in-biom/index.html
+layout: layout.njk
 ---
 Designer molecules enabling major advances in biom
 ==================================================

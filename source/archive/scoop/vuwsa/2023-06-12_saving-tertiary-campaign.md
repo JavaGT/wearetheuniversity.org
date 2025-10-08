@@ -1,9 +1,11 @@
 ---
 slug: saving-tertiary-campaign
-title: "Saving Tertiary Campaign"
-date: 2023-06-12
+title: Saving Tertiary Campaign
+date: 2023-06-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2306/S00013/saving-tertiary-campaign.htm
 author: vuwsa
+permalink: /archive/2023/06/12/saving-tertiary-campaign/index.html
+layout: layout.njk
 ---
 Saving Tertiary Campaign
 ========================

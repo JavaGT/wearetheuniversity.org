@@ -1,9 +1,13 @@
 ---
 slug: lower-dollar-boosts-dairy-auction-but-makes-our-farms-cheap
-title: "Lower Dollar Boosts Dairy Auction But Makes Our Farms Cheap"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/PA1502/S00029/lower-dollar-boosts-dairy-auction-but-makes-our-farms-cheap.htm
+title: Lower Dollar Boosts Dairy Auction But Makes Our Farms Cheap
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00029/lower-dollar-boosts-dairy-auction-but-makes-our-farms-cheap.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/02/04/lower-dollar-boosts-dairy-auction-but-makes-our-farms-cheap/index.html
+layout: layout.njk
 ---
 Lower Dollar Boosts Dairy Auction But Makes Our Farms Cheap
 ===========================================================

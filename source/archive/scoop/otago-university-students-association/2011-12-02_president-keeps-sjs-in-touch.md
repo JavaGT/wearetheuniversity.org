@@ -1,9 +1,11 @@
 ---
 slug: president-keeps-sjs-in-touch
-title: "President keeps SJS in touch"
-date: 2011-12-02
+title: President keeps SJS in touch
+date: 2011-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1112/S00016/president-keeps-sjs-in-touch.htm
 author: otago-university-students-association
+permalink: /archive/2011/12/02/president-keeps-sjs-in-touch/index.html
+layout: layout.njk
 ---
 President keeps SJS in touch
 ============================

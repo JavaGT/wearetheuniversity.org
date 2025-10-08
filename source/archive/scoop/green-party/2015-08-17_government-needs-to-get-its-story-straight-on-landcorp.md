@@ -1,9 +1,13 @@
 ---
 slug: government-needs-to-get-its-story-straight-on-landcorp
-title: "Government needs to get its story straight on Landcorp"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/PA1508/S00263/government-needs-to-get-its-story-straight-on-landcorp.htm
+title: Government needs to get its story straight on Landcorp
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00263/government-needs-to-get-its-story-straight-on-landcorp.htm
 author: green-party
+permalink: >-
+  /archive/2015/08/17/government-needs-to-get-its-story-straight-on-landcorp/index.html
+layout: layout.njk
 ---
 Government needs to get its story straight on Landcorp
 ======================================================

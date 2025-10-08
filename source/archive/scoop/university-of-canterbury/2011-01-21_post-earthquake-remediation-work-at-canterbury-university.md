@@ -1,9 +1,13 @@
 ---
 slug: post-earthquake-remediation-work-at-canterbury-university
-title: "Post-earthquake remediation work at Canterbury University"
-date: 2011-01-21
-source-url: https://www.scoop.co.nz/stories/ED1101/S00030/post-earthquake-remediation-work-at-canterbury-university.htm
+title: Post-earthquake remediation work at Canterbury University
+date: 2011-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00030/post-earthquake-remediation-work-at-canterbury-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/01/21/post-earthquake-remediation-work-at-canterbury-university/index.html
+layout: layout.njk
 ---
 Post-earthquake remediation work at Canterbury University
 =========================================================

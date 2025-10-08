@@ -1,9 +1,12 @@
 ---
 slug: another-kick-in-the-guts-for-christchurch
-title: "Another kick in the guts for Christchurch"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/PA1412/S00173/another-kick-in-the-guts-for-christchurch.htm
+title: Another kick in the guts for Christchurch
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00173/another-kick-in-the-guts-for-christchurch.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/09/another-kick-in-the-guts-for-christchurch/index.html
+layout: layout.njk
 ---
 Another kick in the guts for Christchurch
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: more-investment-needed-for-universities
-title: "More investment needed for universities"
-date: 2006-05-16
-source-url: https://www.scoop.co.nz/stories/ED0605/S00051/more-investment-needed-for-universities.htm
+title: More investment needed for universities
+date: 2006-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00051/more-investment-needed-for-universities.htm
 author: association-of-university-staff
+permalink: /archive/2006/05/16/more-investment-needed-for-universities/index.html
+layout: layout.njk
 ---
 More investment needed for universities
 =======================================

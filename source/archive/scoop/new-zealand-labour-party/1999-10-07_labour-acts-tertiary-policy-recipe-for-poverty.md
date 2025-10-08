@@ -1,9 +1,12 @@
 ---
 slug: labour-acts-tertiary-policy-recipe-for-poverty
-title: "Labour: Act's tertiary policy recipe for poverty"
-date: 1999-10-07
-source-url: https://www.scoop.co.nz/stories/PA9910/S00122/labour-acts-tertiary-policy-recipe-for-poverty.htm
+title: 'Labour: Act''s tertiary policy recipe for poverty'
+date: 1999-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00122/labour-acts-tertiary-policy-recipe-for-poverty.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/07/labour-acts-tertiary-policy-recipe-for-poverty/index.html
+layout: layout.njk
 ---
 Labour: Act's tertiary policy recipe for poverty
 ================================================

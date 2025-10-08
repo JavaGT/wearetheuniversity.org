@@ -1,9 +1,11 @@
 ---
 slug: outstanding-teaching-awards
-title: "Outstanding teaching Awards"
-date: 2008-02-20
+title: Outstanding teaching Awards
+date: 2008-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0802/S00042/outstanding-teaching-awards.htm
 author: university-of-waikato
+permalink: /archive/2008/02/20/outstanding-teaching-awards/index.html
+layout: layout.njk
 ---
 Outstanding teaching Awards
 ===========================

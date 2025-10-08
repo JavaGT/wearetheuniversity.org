@@ -1,9 +1,12 @@
 ---
 slug: gap-between-work-and-welfare-set-to-shrink
-title: "Gap between work and welfare set to shrink"
-date: 2003-06-04
-source-url: https://www.scoop.co.nz/stories/PA0306/S00031/gap-between-work-and-welfare-set-to-shrink.htm
+title: Gap between work and welfare set to shrink
+date: 2003-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00031/gap-between-work-and-welfare-set-to-shrink.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/04/gap-between-work-and-welfare-set-to-shrink/index.html
+layout: layout.njk
 ---
 Gap between work and welfare set to shrink
 ==========================================

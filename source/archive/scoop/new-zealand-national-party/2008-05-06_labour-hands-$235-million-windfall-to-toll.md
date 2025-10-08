@@ -1,9 +1,12 @@
 ---
 slug: labour-hands-$235-million-windfall-to-toll
-title: "Labour hands $235 million windfall to Toll"
-date: 2008-05-06
-source-url: https://www.scoop.co.nz/stories/PA0805/S00080/labour-hands-235-million-windfall-to-toll.htm
+title: Labour hands $235 million windfall to Toll
+date: 2008-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00080/labour-hands-235-million-windfall-to-toll.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/06/labour-hands-/index.html
+layout: layout.njk
 ---
 Labour hands $235 million windfall to Toll
 ==========================================

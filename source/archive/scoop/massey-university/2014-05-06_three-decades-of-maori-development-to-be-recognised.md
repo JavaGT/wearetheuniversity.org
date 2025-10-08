@@ -1,9 +1,13 @@
 ---
 slug: three-decades-of-maori-development-to-be-recognised
-title: "Three decades of Maori development to be recognised"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/BU1405/S00189/three-decades-of-maori-development-to-be-recognised.htm
+title: Three decades of Maori development to be recognised
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00189/three-decades-of-maori-development-to-be-recognised.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/06/three-decades-of-maori-development-to-be-recognised/index.html
+layout: layout.njk
 ---
 Three decades of Maori development to be recognised
 ===================================================

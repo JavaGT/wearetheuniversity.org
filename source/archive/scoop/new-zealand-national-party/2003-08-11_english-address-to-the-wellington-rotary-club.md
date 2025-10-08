@@ -1,9 +1,12 @@
 ---
 slug: english-address-to-the-wellington-rotary-club
-title: "English Address to the Wellington Rotary Club"
-date: 2003-08-11
-source-url: https://www.scoop.co.nz/stories/PA0308/S00200/english-address-to-the-wellington-rotary-club.htm
+title: English Address to the Wellington Rotary Club
+date: 2003-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00200/english-address-to-the-wellington-rotary-club.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/11/english-address-to-the-wellington-rotary-club/index.html
+layout: layout.njk
 ---
 English Address to the Wellington Rotary Club
 =============================================

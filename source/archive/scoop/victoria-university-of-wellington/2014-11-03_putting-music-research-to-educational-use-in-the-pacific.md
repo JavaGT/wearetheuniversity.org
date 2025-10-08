@@ -1,9 +1,13 @@
 ---
 slug: putting-music-research-to-educational-use-in-the-pacific
-title: "Putting music research to educational use in the Pacific"
-date: 2014-11-03
-source-url: https://www.scoop.co.nz/stories/ED1411/S00003/putting-music-research-to-educational-use-in-the-pacific.htm
+title: Putting music research to educational use in the Pacific
+date: 2014-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00003/putting-music-research-to-educational-use-in-the-pacific.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/03/putting-music-research-to-educational-use-in-the-pacific/index.html
+layout: layout.njk
 ---
 Putting music research to educational use in the Pacific
 ========================================================

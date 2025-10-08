@@ -1,9 +1,13 @@
 ---
 slug: hamilton-council-issues-misleading-information-to-residents
-title: "Hamilton Council issues misleading information to residents"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/AK1308/S00322/hamilton-council-issues-misleading-information-to-residents.htm
+title: Hamilton Council issues misleading information to residents
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00322/hamilton-council-issues-misleading-information-to-residents.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/13/hamilton-council-issues-misleading-information-to-residents/index.html
+layout: layout.njk
 ---
 Hamilton Council issues misleading information to residents
 ===========================================================

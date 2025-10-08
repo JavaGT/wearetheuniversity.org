@@ -1,9 +1,12 @@
 ---
 slug: maharey-all-talk-on-protecting-children
-title: "Maharey All Talk On Protecting Children"
-date: 2002-06-13
-source-url: https://www.scoop.co.nz/stories/PA0206/S00204/maharey-all-talk-on-protecting-children.htm
+title: Maharey All Talk On Protecting Children
+date: 2002-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00204/maharey-all-talk-on-protecting-children.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/13/maharey-all-talk-on-protecting-children/index.html
+layout: layout.njk
 ---
 Maharey All Talk On Protecting Children
 =======================================

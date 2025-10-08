@@ -1,9 +1,13 @@
 ---
 slug: acute-alcohol-use-linked-to-one-quarter-of-new-zealand-suicide-deaths-study
-title: "Acute Alcohol Use Linked To One Quarter Of New Zealand Suicide Deaths - Study"
-date: 2022-07-15
-source-url: https://www.scoop.co.nz/stories/GE2207/S00037/acute-alcohol-use-linked-to-one-quarter-of-new-zealand-suicide-deaths-study.htm
+title: Acute Alcohol Use Linked To One Quarter Of New Zealand Suicide Deaths - Study
+date: 2022-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2207/S00037/acute-alcohol-use-linked-to-one-quarter-of-new-zealand-suicide-deaths-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/07/15/acute-alcohol-use-linked-to-one-quarter-of-new-zealand-suicide-deaths-study/index.html
+layout: layout.njk
 ---
 Acute Alcohol Use Linked To One Quarter Of New Zealand Suicide Deaths - Study
 =============================================================================

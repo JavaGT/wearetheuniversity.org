@@ -1,9 +1,11 @@
 ---
 slug: hide-act-is-back
-title: "Hide: ACT Is Back"
-date: 2005-12-02
+title: 'Hide: ACT Is Back'
+date: 2005-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00029/hide-act-is-back.htm
 author: act-new-zealand
+permalink: /archive/2005/12/02/hide-act-is-back/index.html
+layout: layout.njk
 ---
 Hide: ACT Is Back
 =================

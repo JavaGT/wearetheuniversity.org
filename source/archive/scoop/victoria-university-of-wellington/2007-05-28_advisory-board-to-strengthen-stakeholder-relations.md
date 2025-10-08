@@ -1,9 +1,13 @@
 ---
 slug: advisory-board-to-strengthen-stakeholder-relations
-title: "Advisory board to strengthen stakeholder relations"
-date: 2007-05-28
-source-url: https://www.scoop.co.nz/stories/ED0705/S00109/advisory-board-to-strengthen-stakeholder-relations.htm
+title: Advisory board to strengthen stakeholder relations
+date: 2007-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00109/advisory-board-to-strengthen-stakeholder-relations.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/05/28/advisory-board-to-strengthen-stakeholder-relations/index.html
+layout: layout.njk
 ---
 Advisory board to strengthen stakeholder relations
 ==================================================

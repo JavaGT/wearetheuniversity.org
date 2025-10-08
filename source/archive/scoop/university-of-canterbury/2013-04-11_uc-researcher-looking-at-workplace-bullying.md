@@ -1,9 +1,12 @@
 ---
 slug: uc-researcher-looking-at-workplace-bullying
-title: "UC Researcher Looking At Workplace Bullying"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00054/uc-researcher-looking-at-workplace-bullying.htm
+title: UC Researcher Looking At Workplace Bullying
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00054/uc-researcher-looking-at-workplace-bullying.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/11/uc-researcher-looking-at-workplace-bullying/index.html
+layout: layout.njk
 ---
 UC Researcher Looking At Workplace Bullying
 ===========================================

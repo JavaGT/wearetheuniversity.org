@@ -1,9 +1,12 @@
 ---
 slug: mp-secures-funding-assurances-for-computers
-title: "MP secures funding assurances for computers"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/PA1006/S00389/mp-secures-funding-assurances-for-computers.htm
+title: MP secures funding assurances for computers
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00389/mp-secures-funding-assurances-for-computers.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/24/mp-secures-funding-assurances-for-computers/index.html
+layout: layout.njk
 ---
 MP secures funding assurances for computers
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: workers-voting-with-their-feet-mapp
-title: "Workers voting with their feet – Mapp"
-date: 2006-08-20
-source-url: https://www.scoop.co.nz/stories/PA0608/S00342/workers-voting-with-their-feet-mapp.htm
+title: Workers voting with their feet – Mapp
+date: 2006-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00342/workers-voting-with-their-feet-mapp.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/20/workers-voting-with-their-feet-mapp/index.html
+layout: layout.njk
 ---
 Workers voting with their feet – Mapp
 =====================================

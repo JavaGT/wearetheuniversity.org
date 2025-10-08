@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-geography-student-crimefighter
-title: "Waikato University geography student crimefighter"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/ED1003/S00059/waikato-university-geography-student-crimefighter.htm
+title: Waikato University geography student crimefighter
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00059/waikato-university-geography-student-crimefighter.htm
 author: waikato-university
+permalink: >-
+  /archive/2010/03/15/waikato-university-geography-student-crimefighter/index.html
+layout: layout.njk
 ---
 Waikato University geography student crimefighter
 =================================================

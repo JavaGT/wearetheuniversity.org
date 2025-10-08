@@ -1,9 +1,13 @@
 ---
 slug: mama-and-pepi-pack-roll-out-needed-to-reduce-infant-deaths
-title: "Mama And Pepi Pack Roll-Out Needed to Reduce Infant Deaths"
-date: 2016-07-12
-source-url: https://www.scoop.co.nz/stories/PA1607/S00195/mama-and-pepi-pack-roll-out-needed-to-reduce-infant-deaths.htm
+title: Mama And Pepi Pack Roll-Out Needed to Reduce Infant Deaths
+date: 2016-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00195/mama-and-pepi-pack-roll-out-needed-to-reduce-infant-deaths.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/12/mama-and-pepi-pack-roll-out-needed-to-reduce-infant-deaths/index.html
+layout: layout.njk
 ---
 Mama And Pepi Pack Roll-Out Needed to Reduce Infant Deaths
 ==========================================================

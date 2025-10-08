@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-joins-open-education-partnership
-title: "Lincoln University joins open education partnership"
-date: 2013-10-21
-source-url: https://www.scoop.co.nz/stories/ED1310/S00132/lincoln-university-joins-open-education-partnership.htm
+title: Lincoln University joins open education partnership
+date: 2013-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00132/lincoln-university-joins-open-education-partnership.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/10/21/lincoln-university-joins-open-education-partnership/index.html
+layout: layout.njk
 ---
 Lincoln University joins open education partnership
 ===================================================

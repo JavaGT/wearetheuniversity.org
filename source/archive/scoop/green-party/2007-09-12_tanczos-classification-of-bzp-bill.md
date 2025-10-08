@@ -1,9 +1,12 @@
 ---
 slug: tanczos-classification-of-bzp-bill
-title: "Tanczos: Classification of BZP Bill"
-date: 2007-09-12
-source-url: https://www.scoop.co.nz/stories/PA0709/S00184/tanczos-classification-of-bzp-bill.htm
+title: 'Tanczos: Classification of BZP Bill'
+date: 2007-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00184/tanczos-classification-of-bzp-bill.htm
 author: green-party
+permalink: /archive/2007/09/12/tanczos-classification-of-bzp-bill/index.html
+layout: layout.njk
 ---
 Tanczos: Classification of BZP Bill
 ===================================

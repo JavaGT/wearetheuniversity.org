@@ -1,9 +1,12 @@
 ---
 slug: historian-shines-a-light-on-1820s-new-zealand
-title: "Historian shines a light on 1820s New Zealand"
-date: 2012-05-09
-source-url: https://www.scoop.co.nz/stories/CU1205/S00125/historian-shines-a-light-on-1820s-new-zealand.htm
+title: Historian shines a light on 1820s New Zealand
+date: 2012-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1205/S00125/historian-shines-a-light-on-1820s-new-zealand.htm
 author: aut-university
+permalink: /archive/2012/05/09/historian-shines-a-light-on-1820s-new-zealand/index.html
+layout: layout.njk
 ---
 Historian shines a light on 1820s New Zealand
 =============================================

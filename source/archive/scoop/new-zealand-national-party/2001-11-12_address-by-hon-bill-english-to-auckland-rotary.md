@@ -1,9 +1,12 @@
 ---
 slug: address-by-hon-bill-english-to-auckland-rotary
-title: "Address By Hon Bill English To Auckland Rotary"
-date: 2001-11-12
-source-url: https://www.scoop.co.nz/stories/PA0111/S00227/address-by-hon-bill-english-to-auckland-rotary.htm
+title: Address By Hon Bill English To Auckland Rotary
+date: 2001-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00227/address-by-hon-bill-english-to-auckland-rotary.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/12/address-by-hon-bill-english-to-auckland-rotary/index.html
+layout: layout.njk
 ---
 Address By Hon Bill English To Auckland Rotary
 ==============================================

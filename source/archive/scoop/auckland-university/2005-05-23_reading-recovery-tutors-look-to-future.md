@@ -1,9 +1,12 @@
 ---
 slug: reading-recovery-tutors-look-to-future
-title: "Reading Recovery tutors look to future"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/ED0505/S00106/reading-recovery-tutors-look-to-future.htm
+title: Reading Recovery tutors look to future
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00106/reading-recovery-tutors-look-to-future.htm
 author: auckland-university
+permalink: /archive/2005/05/23/reading-recovery-tutors-look-to-future/index.html
+layout: layout.njk
 ---
 Reading Recovery tutors look to future
 ======================================

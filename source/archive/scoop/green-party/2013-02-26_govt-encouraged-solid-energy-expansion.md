@@ -1,9 +1,12 @@
 ---
 slug: govt-encouraged-solid-energy-expansion
-title: "Govt Encouraged Solid Energy Expansion"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/PA1302/S00384/govt-encouraged-solid-energy-expansion.htm
+title: Govt Encouraged Solid Energy Expansion
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00384/govt-encouraged-solid-energy-expansion.htm
 author: green-party
+permalink: /archive/2013/02/26/govt-encouraged-solid-energy-expansion/index.html
+layout: layout.njk
 ---
 Govt Encouraged Solid Energy Expansion
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-reverses-asset-testing-policy-for-aged-care
-title: "Govt reverses asset testing policy for aged care"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/PA1205/S00473/govt-reverses-asset-testing-policy-for-aged-care.htm
+title: Govt reverses asset testing policy for aged care
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00473/govt-reverses-asset-testing-policy-for-aged-care.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/25/govt-reverses-asset-testing-policy-for-aged-care/index.html
+layout: layout.njk
 ---
 Govt reverses asset testing policy for aged care
 ================================================

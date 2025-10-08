@@ -1,9 +1,12 @@
 ---
 slug: when-will-media-call-out-te-pāti-māoris-racism
-title: "When Will Media Call Out Te Pāti Māori's Racism?"
-date: 2023-07-12
-source-url: https://www.scoop.co.nz/stories/PA2307/S00052/when-will-media-call-out-te-pati-maoris-racism.htm
+title: When Will Media Call Out Te Pāti Māori's Racism?
+date: 2023-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00052/when-will-media-call-out-te-pati-maoris-racism.htm
 author: act-new-zealand
+permalink: /archive/2023/07/12/when-will-media-call-out-te-p/index.html
+layout: layout.njk
 ---
 When Will Media Call Out Te Pāti Māori's Racism?
 ================================================

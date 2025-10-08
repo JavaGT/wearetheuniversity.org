@@ -1,9 +1,12 @@
 ---
 slug: productivity-gains-from-workplace-protection
-title: "Productivity Gains From Workplace Protection"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/PA1507/S00358/productivity-gains-from-workplace-protection.htm
+title: Productivity Gains From Workplace Protection
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00358/productivity-gains-from-workplace-protection.htm
 author: new-zealand-first-party
+permalink: /archive/2015/07/22/productivity-gains-from-workplace-protection/index.html
+layout: layout.njk
 ---
 Productivity Gains From Workplace Protection
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-histories-curriculum-at-aut
-title: "NZ Histories Curriculum At AUT"
-date: 2022-05-26
-source-url: https://www.scoop.co.nz/stories/ED2205/S00051/nz-histories-curriculum-at-aut.htm
+title: NZ Histories Curriculum At AUT
+date: 2022-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00051/nz-histories-curriculum-at-aut.htm
 author: aut-university
+permalink: /archive/2022/05/26/nz-histories-curriculum-at-aut/index.html
+layout: layout.njk
 ---
 NZ Histories Curriculum At AUT
 ==============================

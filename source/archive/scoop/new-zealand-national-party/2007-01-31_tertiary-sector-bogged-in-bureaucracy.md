@@ -1,9 +1,12 @@
 ---
 slug: tertiary-sector-bogged-in-bureaucracy
-title: "Tertiary sector bogged in bureaucracy"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/PA0701/S00222/tertiary-sector-bogged-in-bureaucracy.htm
+title: Tertiary sector bogged in bureaucracy
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00222/tertiary-sector-bogged-in-bureaucracy.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/31/tertiary-sector-bogged-in-bureaucracy/index.html
+layout: layout.njk
 ---
 Tertiary sector bogged in bureaucracy
 =====================================

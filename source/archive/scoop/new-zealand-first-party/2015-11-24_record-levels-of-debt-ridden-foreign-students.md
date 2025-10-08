@@ -1,9 +1,12 @@
 ---
 slug: record-levels-of-debt-ridden-foreign-students
-title: "Record Levels of Debt-Ridden Foreign Students"
-date: 2015-11-24
-source-url: https://www.scoop.co.nz/stories/PA1511/S00445/record-levels-of-debt-ridden-foreign-students.htm
+title: Record Levels of Debt-Ridden Foreign Students
+date: 2015-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00445/record-levels-of-debt-ridden-foreign-students.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/24/record-levels-of-debt-ridden-foreign-students/index.html
+layout: layout.njk
 ---
 Record Levels of Debt-Ridden Foreign Students
 =============================================

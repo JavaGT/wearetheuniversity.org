@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-ki-a-kahurangi-raiha-mahuta
-title: "Poroporoaki ki a Kahurangi Raiha Mahuta"
-date: 2010-03-23
-source-url: https://www.scoop.co.nz/stories/PA1003/S00320/poroporoaki-ki-a-kahurangi-raiha-mahuta.htm
+title: Poroporoaki ki a Kahurangi Raiha Mahuta
+date: 2010-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00320/poroporoaki-ki-a-kahurangi-raiha-mahuta.htm
 author: te-pati-maori
+permalink: /archive/2010/03/23/poroporoaki-ki-a-kahurangi-raiha-mahuta/index.html
+layout: layout.njk
 ---
 Poroporoaki ki a Kahurangi Raiha Mahuta
 =======================================

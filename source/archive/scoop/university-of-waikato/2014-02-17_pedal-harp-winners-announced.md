@@ -1,9 +1,11 @@
 ---
 slug: pedal-harp-winners-announced
-title: "Pedal Harp Winners Announced"
-date: 2014-02-17
+title: Pedal Harp Winners Announced
+date: 2014-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1402/S00302/pedal-harp-winners-announced.htm
 author: university-of-waikato
+permalink: /archive/2014/02/17/pedal-harp-winners-announced/index.html
+layout: layout.njk
 ---
 Pedal Harp Winners Announced
 ============================

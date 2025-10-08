@@ -1,9 +1,13 @@
 ---
 slug: otago-signs-mou-with-bishops-action-foundation-in-taranaki
-title: "Otago signs MOU with Bishop’s Action Foundation in Taranaki"
-date: 2015-03-03
-source-url: https://www.scoop.co.nz/stories/AK1503/S00058/otago-signs-mou-with-bishops-action-foundation-in-taranaki.htm
+title: Otago signs MOU with Bishop’s Action Foundation in Taranaki
+date: 2015-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00058/otago-signs-mou-with-bishops-action-foundation-in-taranaki.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/03/otago-signs-mou-with-bishops-action-foundation-in-taranaki/index.html
+layout: layout.njk
 ---
 Otago signs MOU with Bishop’s Action Foundation in Taranaki
 ===========================================================

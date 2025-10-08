@@ -1,9 +1,11 @@
 ---
 slug: building-new-nations
-title: "Building new \"nations\""
-date: 2003-09-08
+title: Building new "nations"
+date: 2003-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00023/building-new-nations.htm
 author: waikato-university
+permalink: /archive/2003/09/08/building-new-nations/index.html
+layout: layout.njk
 ---
 Building new “nations”
 ======================

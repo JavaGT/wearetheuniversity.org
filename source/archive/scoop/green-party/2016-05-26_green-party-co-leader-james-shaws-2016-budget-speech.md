@@ -1,9 +1,13 @@
 ---
 slug: green-party-co-leader-james-shaws-2016-budget-speech
-title: "Green Party Co-leader James Shaw's 2016 Budget Speech"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00555/green-party-co-leader-james-shaws-2016-budget-speech.htm
+title: Green Party Co-leader James Shaw's 2016 Budget Speech
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00555/green-party-co-leader-james-shaws-2016-budget-speech.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/26/green-party-co-leader-james-shaws-2016-budget-speech/index.html
+layout: layout.njk
 ---
 Green Party Co-leader James Shaw's 2016 Budget Speech
 =====================================================

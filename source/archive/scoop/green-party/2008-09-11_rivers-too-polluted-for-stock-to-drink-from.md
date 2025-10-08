@@ -1,9 +1,12 @@
 ---
 slug: rivers-too-polluted-for-stock-to-drink-from
-title: "Rivers too polluted for stock to drink from"
-date: 2008-09-11
-source-url: https://www.scoop.co.nz/stories/PA0809/S00258/rivers-too-polluted-for-stock-to-drink-from.htm
+title: Rivers too polluted for stock to drink from
+date: 2008-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00258/rivers-too-polluted-for-stock-to-drink-from.htm
 author: green-party
+permalink: /archive/2008/09/11/rivers-too-polluted-for-stock-to-drink-from/index.html
+layout: layout.njk
 ---
 Rivers too polluted for stock to drink from
 ===========================================

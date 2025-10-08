@@ -1,9 +1,12 @@
 ---
 slug: how-to-reduce-alcohol-harm-amongst-young-people
-title: "How to reduce alcohol harm amongst young people"
-date: 2010-09-27
-source-url: https://www.scoop.co.nz/stories/CU1009/S00288/how-to-reduce-alcohol-harm-amongst-young-people.htm
+title: How to reduce alcohol harm amongst young people
+date: 2010-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00288/how-to-reduce-alcohol-harm-amongst-young-people.htm
 author: university-of-otago
+permalink: /archive/2010/09/27/how-to-reduce-alcohol-harm-amongst-young-people/index.html
+layout: layout.njk
 ---
 How to reduce alcohol harm amongst young people
 ===============================================

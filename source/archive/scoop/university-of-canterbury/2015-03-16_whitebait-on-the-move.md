@@ -1,9 +1,11 @@
 ---
 slug: whitebait-on-the-move
-title: "Whitebait on the move"
-date: 2015-03-16
+title: Whitebait on the move
+date: 2015-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1503/S00058/whitebait-on-the-move.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/16/whitebait-on-the-move/index.html
+layout: layout.njk
 ---
 Whitebait on the move
 =====================

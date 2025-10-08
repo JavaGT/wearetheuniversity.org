@@ -1,9 +1,12 @@
 ---
 slug: researcher-awarded-$500000-fellowship
-title: "Researcher awarded $500,000 fellowship"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/GE0611/S00104/researcher-awarded-500000-fellowship.htm
+title: Researcher awarded $500,000 fellowship
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0611/S00104/researcher-awarded-500000-fellowship.htm
 author: university-of-canterbury
+permalink: /archive/2006/11/24/researcher-awarded-/index.html
+layout: layout.njk
 ---
 Researcher awarded $500,000 fellowship
 ======================================

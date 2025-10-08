@@ -1,9 +1,12 @@
 ---
 slug: policing-cost-recovery-targets-wrong-areas
-title: "Policing Cost Recovery Targets Wrong Areas"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/PA1411/S00045/policing-cost-recovery-targets-wrong-areas.htm
+title: Policing Cost Recovery Targets Wrong Areas
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00045/policing-cost-recovery-targets-wrong-areas.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/04/policing-cost-recovery-targets-wrong-areas/index.html
+layout: layout.njk
 ---
 Policing Cost Recovery Targets Wrong Areas
 ==========================================

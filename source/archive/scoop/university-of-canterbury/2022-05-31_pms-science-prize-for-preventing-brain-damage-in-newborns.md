@@ -1,9 +1,13 @@
 ---
 slug: pms-science-prize-for-preventing-brain-damage-in-newborns
-title: "PM’s Science Prize For Preventing Brain Damage In Newborns"
-date: 2022-05-31
-source-url: https://www.scoop.co.nz/stories/SC2205/S00054/pms-science-prize-for-preventing-brain-damage-in-newborns.htm
+title: PM’s Science Prize For Preventing Brain Damage In Newborns
+date: 2022-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2205/S00054/pms-science-prize-for-preventing-brain-damage-in-newborns.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/31/pms-science-prize-for-preventing-brain-damage-in-newborns/index.html
+layout: layout.njk
 ---
 PM’s Science Prize For Preventing Brain Damage In Newborns
 ==========================================================

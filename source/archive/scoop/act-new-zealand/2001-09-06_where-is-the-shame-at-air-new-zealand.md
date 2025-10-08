@@ -1,9 +1,12 @@
 ---
 slug: where-is-the-shame-at-air-new-zealand
-title: "Where Is The Shame At Air New Zealand?"
-date: 2001-09-06
-source-url: https://www.scoop.co.nz/stories/PA0109/S00082/where-is-the-shame-at-air-new-zealand.htm
+title: Where Is The Shame At Air New Zealand?
+date: 2001-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00082/where-is-the-shame-at-air-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2001/09/06/where-is-the-shame-at-air-new-zealand/index.html
+layout: layout.njk
 ---
 Where Is The Shame At Air New Zealand?
 ======================================

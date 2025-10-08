@@ -1,9 +1,12 @@
 ---
 slug: hodgsons-attack-on-putin-advisor-unfortunate
-title: "Hodgson's attack on Putin advisor unfortunate"
-date: 2004-12-22
-source-url: https://www.scoop.co.nz/stories/PA0412/S00568/hodgsons-attack-on-putin-advisor-unfortunate.htm
+title: Hodgson's attack on Putin advisor unfortunate
+date: 2004-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00568/hodgsons-attack-on-putin-advisor-unfortunate.htm
 author: act-new-zealand
+permalink: /archive/2004/12/22/hodgsons-attack-on-putin-advisor-unfortunate/index.html
+layout: layout.njk
 ---
 Hodgson's attack on Putin advisor unfortunate
 =============================================

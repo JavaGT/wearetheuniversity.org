@@ -1,9 +1,12 @@
 ---
 slug: new-light-shed-on-male-&-female-brain-differences
-title: "New light shed on male & female brain differences"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/SC0904/S00011/new-light-shed-on-male-female-brain-differences.htm
+title: New light shed on male & female brain differences
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00011/new-light-shed-on-male-female-brain-differences.htm
 author: university-of-otago
+permalink: /archive/2009/04/07/new-light-shed-on-male-/index.html
+layout: layout.njk
 ---
 New light shed on male & female brain differences
 =================================================

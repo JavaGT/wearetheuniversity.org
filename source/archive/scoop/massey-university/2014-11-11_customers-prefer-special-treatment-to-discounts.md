@@ -1,9 +1,12 @@
 ---
 slug: customers-prefer-special-treatment-to-discounts
-title: "Customers prefer special treatment to discounts"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/ED1411/S00068/customers-prefer-special-treatment-to-discounts.htm
+title: Customers prefer special treatment to discounts
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00068/customers-prefer-special-treatment-to-discounts.htm
 author: massey-university
+permalink: /archive/2014/11/11/customers-prefer-special-treatment-to-discounts/index.html
+layout: layout.njk
 ---
 Customers prefer special treatment to discounts
 ===============================================

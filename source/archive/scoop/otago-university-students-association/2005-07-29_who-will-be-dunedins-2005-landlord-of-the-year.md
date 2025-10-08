@@ -1,9 +1,12 @@
 ---
 slug: who-will-be-dunedins-2005-landlord-of-the-year
-title: "Who Will Be Dunedin’s 2005 Landlord of the Year?"
-date: 2005-07-29
-source-url: https://www.scoop.co.nz/stories/ED0507/S00136/who-will-be-dunedins-2005-landlord-of-the-year.htm
+title: Who Will Be Dunedin’s 2005 Landlord of the Year?
+date: 2005-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00136/who-will-be-dunedins-2005-landlord-of-the-year.htm
 author: otago-university-students-association
+permalink: /archive/2005/07/29/who-will-be-dunedins-2005-landlord-of-the-year/index.html
+layout: layout.njk
 ---
 Who Will Be Dunedin’s 2005 Landlord of the Year?
 ================================================

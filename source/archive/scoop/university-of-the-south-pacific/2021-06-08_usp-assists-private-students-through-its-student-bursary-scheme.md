@@ -1,9 +1,13 @@
 ---
 slug: usp-assists-private-students-through-its-student-bursary-scheme
-title: "USP Assists Private Students Through Its Student Bursary Scheme"
-date: 2021-06-08
-source-url: https://www.scoop.co.nz/stories/ED2106/S00011/usp-assists-private-students-through-its-student-bursary-scheme.htm
+title: USP Assists Private Students Through Its Student Bursary Scheme
+date: 2021-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00011/usp-assists-private-students-through-its-student-bursary-scheme.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2021/06/08/usp-assists-private-students-through-its-student-bursary-scheme/index.html
+layout: layout.njk
 ---
 USP Assists Private Students Through Its Student Bursary Scheme
 ===============================================================

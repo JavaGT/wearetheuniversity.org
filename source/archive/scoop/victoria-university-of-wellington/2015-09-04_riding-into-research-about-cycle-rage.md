@@ -1,9 +1,12 @@
 ---
 slug: riding-into-research-about-cycle-rage
-title: "Riding into research about cycle rage"
-date: 2015-09-04
-source-url: https://www.scoop.co.nz/stories/CU1509/S00054/riding-into-research-about-cycle-rage.htm
+title: Riding into research about cycle rage
+date: 2015-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1509/S00054/riding-into-research-about-cycle-rage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/09/04/riding-into-research-about-cycle-rage/index.html
+layout: layout.njk
 ---
 Riding into research about cycle rage
 =====================================

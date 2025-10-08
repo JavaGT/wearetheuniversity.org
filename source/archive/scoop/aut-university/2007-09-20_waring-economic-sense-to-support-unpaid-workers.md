@@ -1,9 +1,12 @@
 ---
 slug: waring-economic-sense-to-support-unpaid-workers
-title: "Waring: Economic sense to support unpaid workers"
-date: 2007-09-20
-source-url: https://www.scoop.co.nz/stories/PO0709/S00291/waring-economic-sense-to-support-unpaid-workers.htm
+title: 'Waring: Economic sense to support unpaid workers'
+date: 2007-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0709/S00291/waring-economic-sense-to-support-unpaid-workers.htm
 author: aut-university
+permalink: /archive/2007/09/20/waring-economic-sense-to-support-unpaid-workers/index.html
+layout: layout.njk
 ---
 Waring: Economic sense to support unpaid workers
 ================================================

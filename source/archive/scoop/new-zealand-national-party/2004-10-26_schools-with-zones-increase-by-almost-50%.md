@@ -1,9 +1,12 @@
 ---
 slug: schools-with-zones-increase-by-almost-50%
-title: "Schools with zones increase by almost 50%"
-date: 2004-10-26
-source-url: https://www.scoop.co.nz/stories/PA0410/S00423/schools-with-zones-increase-by-almost-50.htm
+title: Schools with zones increase by almost 50%
+date: 2004-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00423/schools-with-zones-increase-by-almost-50.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/26/schools-with-zones-increase-by-almost-50/index.html
+layout: layout.njk
 ---
 Schools with zones increase by almost 50%
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: aucklands-destiny-is-longer-lockdowns
-title: "Auckland’s Destiny Is Longer Lockdowns"
-date: 2021-10-02
-source-url: https://www.scoop.co.nz/stories/PA2110/S00018/aucklands-destiny-is-longer-lockdowns.htm
+title: Auckland’s Destiny Is Longer Lockdowns
+date: 2021-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00018/aucklands-destiny-is-longer-lockdowns.htm
 author: act-new-zealand
+permalink: /archive/2021/10/02/aucklands-destiny-is-longer-lockdowns/index.html
+layout: layout.njk
 ---
 Auckland’s Destiny Is Longer Lockdowns
 ======================================

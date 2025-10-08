@@ -1,9 +1,12 @@
 ---
 slug: struggling-kiwis-already-know-how-tough-it-is
-title: "Struggling Kiwis already know how tough it is"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/PA1105/S00269/struggling-kiwis-already-know-how-tough-it-is.htm
+title: Struggling Kiwis already know how tough it is
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00269/struggling-kiwis-already-know-how-tough-it-is.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/12/struggling-kiwis-already-know-how-tough-it-is/index.html
+layout: layout.njk
 ---
 Struggling Kiwis already know how tough it is
 =============================================

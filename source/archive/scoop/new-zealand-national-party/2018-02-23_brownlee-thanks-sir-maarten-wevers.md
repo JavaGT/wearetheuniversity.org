@@ -1,9 +1,12 @@
 ---
 slug: brownlee-thanks-sir-maarten-wevers
-title: "Brownlee thanks Sir Maarten Wevers"
-date: 2018-02-23
-source-url: https://www.scoop.co.nz/stories/PA1802/S00241/brownlee-thanks-sir-maarten-wevers.htm
+title: Brownlee thanks Sir Maarten Wevers
+date: 2018-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00241/brownlee-thanks-sir-maarten-wevers.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/23/brownlee-thanks-sir-maarten-wevers/index.html
+layout: layout.njk
 ---
 Brownlee thanks Sir Maarten Wevers
 ==================================

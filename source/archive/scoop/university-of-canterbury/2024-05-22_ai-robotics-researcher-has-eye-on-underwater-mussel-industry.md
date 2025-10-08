@@ -1,9 +1,13 @@
 ---
 slug: ai-robotics-researcher-has-eye-on-underwater-mussel-industry
-title: "AI Robotics Researcher Has Eye On Underwater Mussel Industry"
-date: 2024-05-22
-source-url: https://www.scoop.co.nz/stories/SC2405/S00069/ai-robotics-researcher-has-eye-on-underwater-mussel-industry.htm
+title: AI Robotics Researcher Has Eye On Underwater Mussel Industry
+date: 2024-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00069/ai-robotics-researcher-has-eye-on-underwater-mussel-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/22/ai-robotics-researcher-has-eye-on-underwater-mussel-industry/index.html
+layout: layout.njk
 ---
 AI Robotics Researcher Has Eye On Underwater Mussel Industry
 ============================================================

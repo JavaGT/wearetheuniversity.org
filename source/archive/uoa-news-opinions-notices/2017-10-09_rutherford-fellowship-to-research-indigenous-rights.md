@@ -1,8 +1,12 @@
 ---
 slug: rutherford-fellowship-to-research-indigenous-rights
-title: "Rutherford Fellowship to research indigenous rights"
-date: 2017-10-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/rutherford-fellowship-to-research-indigenous-rights.html
+title: Rutherford Fellowship to research indigenous rights
+date: 2017-10-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/rutherford-fellowship-to-research-indigenous-rights.html
+permalink: >-
+  /archive/2017/10/09/rutherford-fellowship-to-research-indigenous-rights/index.html
+layout: layout.njk
 ---
 Rutherford Fellowship to research indigenous rights
 ===================================================

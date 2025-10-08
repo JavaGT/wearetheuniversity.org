@@ -1,9 +1,13 @@
 ---
 slug: budget-must-try-harder-on-high-youth-unemployment
-title: "Budget must try harder on high youth unemployment"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/PO1005/S00169/budget-must-try-harder-on-high-youth-unemployment.htm
+title: Budget must try harder on high youth unemployment
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1005/S00169/budget-must-try-harder-on-high-youth-unemployment.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/05/18/budget-must-try-harder-on-high-youth-unemployment/index.html
+layout: layout.njk
 ---
 Budget must try harder on high youth unemployment
 =================================================

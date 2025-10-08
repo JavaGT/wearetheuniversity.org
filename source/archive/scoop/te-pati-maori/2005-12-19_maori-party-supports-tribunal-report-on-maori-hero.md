@@ -1,9 +1,13 @@
 ---
 slug: maori-party-supports-tribunal-report-on-maori-hero
-title: "Maori Party Supports Tribunal Report on Maori Hero"
-date: 2005-12-19
-source-url: https://www.scoop.co.nz/stories/PA0512/S00287/maori-party-supports-tribunal-report-on-maori-hero.htm
+title: Maori Party Supports Tribunal Report on Maori Hero
+date: 2005-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00287/maori-party-supports-tribunal-report-on-maori-hero.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2005/12/19/maori-party-supports-tribunal-report-on-maori-hero/index.html
+layout: layout.njk
 ---
 Maori Party Supports Tribunal Report on Maori Hero
 ==================================================

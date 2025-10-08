@@ -1,9 +1,12 @@
 ---
 slug: broadcasting-allocations-disappointing
-title: "Broadcasting Allocations Disappointing"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/PA0504/S00390/broadcasting-allocations-disappointing.htm
+title: Broadcasting Allocations Disappointing
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00390/broadcasting-allocations-disappointing.htm
 author: te-pati-maori
+permalink: /archive/2005/04/19/broadcasting-allocations-disappointing/index.html
+layout: layout.njk
 ---
 Broadcasting Allocations Disappointing
 ======================================

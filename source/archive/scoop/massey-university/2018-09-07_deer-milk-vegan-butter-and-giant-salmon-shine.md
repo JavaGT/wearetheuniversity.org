@@ -1,9 +1,12 @@
 ---
 slug: deer-milk-vegan-butter-and-giant-salmon-shine
-title: "Deer milk, vegan butter and giant salmon shine"
-date: 2018-09-07
-source-url: https://www.scoop.co.nz/stories/CU1809/S00091/deer-milk-vegan-butter-and-giant-salmon-shine.htm
+title: Deer milk, vegan butter and giant salmon shine
+date: 2018-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1809/S00091/deer-milk-vegan-butter-and-giant-salmon-shine.htm
 author: massey-university
+permalink: /archive/2018/09/07/deer-milk-vegan-butter-and-giant-salmon-shine/index.html
+layout: layout.njk
 ---
 Deer milk, vegan butter and giant salmon shine
 ==============================================

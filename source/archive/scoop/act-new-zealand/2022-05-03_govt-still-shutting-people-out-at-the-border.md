@@ -1,9 +1,12 @@
 ---
 slug: govt-still-shutting-people-out-at-the-border
-title: "Govt Still Shutting People Out At The Border"
-date: 2022-05-03
-source-url: https://www.scoop.co.nz/stories/PA2205/S00025/govt-still-shutting-people-out-at-the-border.htm
+title: Govt Still Shutting People Out At The Border
+date: 2022-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00025/govt-still-shutting-people-out-at-the-border.htm
 author: act-new-zealand
+permalink: /archive/2022/05/03/govt-still-shutting-people-out-at-the-border/index.html
+layout: layout.njk
 ---
 Govt Still Shutting People Out At The Border
 ============================================

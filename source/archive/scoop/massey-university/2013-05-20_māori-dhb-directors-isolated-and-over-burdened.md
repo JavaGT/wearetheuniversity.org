@@ -1,9 +1,12 @@
 ---
 slug: māori-dhb-directors-isolated-and-over-burdened
-title: "Māori DHB directors isolated and over-burdened"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/PO1305/S00297/maori-dhb-directors-isolated-and-over-burdened.htm
+title: Māori DHB directors isolated and over-burdened
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00297/maori-dhb-directors-isolated-and-over-burdened.htm
 author: massey-university
+permalink: /archive/2013/05/20/m/index.html
+layout: layout.njk
 ---
 Māori DHB directors isolated and over-burdened
 ==============================================

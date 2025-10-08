@@ -1,9 +1,12 @@
 ---
 slug: sir-howard-to-be-awarded-honorary-doctorate
-title: "Sir Howard to be awarded honorary doctorate"
-date: 2006-03-09
-source-url: https://www.scoop.co.nz/stories/ED0603/S00027/sir-howard-to-be-awarded-honorary-doctorate.htm
+title: Sir Howard to be awarded honorary doctorate
+date: 2006-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00027/sir-howard-to-be-awarded-honorary-doctorate.htm
 author: waikato-university
+permalink: /archive/2006/03/09/sir-howard-to-be-awarded-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Sir Howard to be awarded honorary doctorate
 ===========================================

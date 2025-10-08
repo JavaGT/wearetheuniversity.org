@@ -1,9 +1,12 @@
 ---
 slug: earthquake-does-not-hurt-academic-performance
-title: "Earthquake Does Not Hurt Academic Performance"
-date: 2011-01-24
-source-url: https://www.scoop.co.nz/stories/ED1101/S00031/earthquake-does-not-hurt-academic-performance.htm
+title: Earthquake Does Not Hurt Academic Performance
+date: 2011-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00031/earthquake-does-not-hurt-academic-performance.htm
 author: university-of-canterbury
+permalink: /archive/2011/01/24/earthquake-does-not-hurt-academic-performance/index.html
+layout: layout.njk
 ---
 Earthquake Does Not Hurt Academic Performance
 =============================================

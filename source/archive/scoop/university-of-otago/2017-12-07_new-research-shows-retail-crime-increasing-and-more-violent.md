@@ -1,9 +1,13 @@
 ---
 slug: new-research-shows-retail-crime-increasing-and-more-violent
-title: "New research shows retail crime increasing and more violent"
-date: 2017-12-07
-source-url: https://www.scoop.co.nz/stories/BU1712/S00206/new-research-shows-retail-crime-increasing-and-more-violent.htm
+title: New research shows retail crime increasing and more violent
+date: 2017-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1712/S00206/new-research-shows-retail-crime-increasing-and-more-violent.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/12/07/new-research-shows-retail-crime-increasing-and-more-violent/index.html
+layout: layout.njk
 ---
 New research shows retail crime increasing and more violent
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: better-planning-needed-in-rebuild-of-japanese-coast
-title: "Better planning needed in rebuild of Japanese coast"
-date: 2012-08-17
-source-url: https://www.scoop.co.nz/stories/WO1208/S00279/better-planning-needed-in-rebuild-of-japanese-coast.htm
+title: Better planning needed in rebuild of Japanese coast
+date: 2012-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1208/S00279/better-planning-needed-in-rebuild-of-japanese-coast.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/17/better-planning-needed-in-rebuild-of-japanese-coast/index.html
+layout: layout.njk
 ---
 Better planning needed in rebuild of Japanese coast
 ===================================================

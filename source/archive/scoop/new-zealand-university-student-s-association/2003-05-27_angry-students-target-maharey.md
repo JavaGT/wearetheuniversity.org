@@ -1,9 +1,12 @@
 ---
 slug: angry-students-target-maharey
-title: "Angry students target Maharey"
-date: 2003-05-27
-source-url: https://www.scoop.co.nz/stories/ED0305/S00090/angry-students-target-maharey.htm
+title: Angry students target Maharey
+date: 2003-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00090/angry-students-target-maharey.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/05/27/angry-students-target-maharey/index.html
+layout: layout.njk
 ---
 Angry students target Maharey
 =============================

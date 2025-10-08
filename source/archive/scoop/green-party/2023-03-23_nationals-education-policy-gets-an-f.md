@@ -1,9 +1,12 @@
 ---
 slug: nationals-education-policy-gets-an-f
-title: "National’s Education Policy Gets An F"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/PA2303/S00200/nationals-education-policy-gets-an-f.htm
+title: National’s Education Policy Gets An F
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00200/nationals-education-policy-gets-an-f.htm
 author: green-party
+permalink: /archive/2023/03/23/nationals-education-policy-gets-an-f/index.html
+layout: layout.njk
 ---
 National’s Education Policy Gets An F
 =====================================

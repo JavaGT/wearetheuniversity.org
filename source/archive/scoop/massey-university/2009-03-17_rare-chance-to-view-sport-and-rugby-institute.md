@@ -1,9 +1,12 @@
 ---
 slug: rare-chance-to-view-sport-and-rugby-institute
-title: "Rare chance to view Sport and Rugby Institute"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/ED0903/S00059/rare-chance-to-view-sport-and-rugby-institute.htm
+title: Rare chance to view Sport and Rugby Institute
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00059/rare-chance-to-view-sport-and-rugby-institute.htm
 author: massey-university
+permalink: /archive/2009/03/17/rare-chance-to-view-sport-and-rugby-institute/index.html
+layout: layout.njk
 ---
 Rare chance to view Sport and Rugby Institute
 =============================================

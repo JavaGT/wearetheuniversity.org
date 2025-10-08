@@ -1,9 +1,12 @@
 ---
 slug: supporting-new-zealands-young-care-givers
-title: "Supporting New Zealand's Young Care-givers"
-date: 2007-08-29
-source-url: https://www.scoop.co.nz/stories/GE0708/S00127/supporting-new-zealands-young-care-givers.htm
+title: Supporting New Zealand's Young Care-givers
+date: 2007-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0708/S00127/supporting-new-zealands-young-care-givers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/29/supporting-new-zealands-young-care-givers/index.html
+layout: layout.njk
 ---
 Supporting New Zealand's Young Care-givers
 ==========================================

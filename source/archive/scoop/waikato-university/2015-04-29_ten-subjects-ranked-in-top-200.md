@@ -1,9 +1,12 @@
 ---
 slug: ten-subjects-ranked-in-top-200
-title: "Ten subjects ranked in top 200"
-date: 2015-04-29
-source-url: https://www.scoop.co.nz/stories/ED1504/S00080/ten-subjects-ranked-in-top-200.htm
+title: Ten subjects ranked in top 200
+date: 2015-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00080/ten-subjects-ranked-in-top-200.htm
 author: waikato-university
+permalink: /archive/2015/04/29/ten-subjects-ranked-in-top-200/index.html
+layout: layout.njk
 ---
 Ten subjects ranked in top 200
 ==============================

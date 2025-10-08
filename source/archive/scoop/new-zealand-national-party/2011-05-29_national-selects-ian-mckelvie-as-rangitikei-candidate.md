@@ -1,9 +1,13 @@
 ---
 slug: national-selects-ian-mckelvie-as-rangitikei-candidate
-title: "National Selects Ian McKelvie as Rangitikei Candidate"
-date: 2011-05-29
-source-url: https://www.scoop.co.nz/stories/PO1105/S00464/national-selects-ian-mckelvie-as-rangitikei-candidate.htm
+title: National Selects Ian McKelvie as Rangitikei Candidate
+date: 2011-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00464/national-selects-ian-mckelvie-as-rangitikei-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/05/29/national-selects-ian-mckelvie-as-rangitikei-candidate/index.html
+layout: layout.njk
 ---
 National Selects Ian McKelvie as Rangitikei Candidate
 =====================================================

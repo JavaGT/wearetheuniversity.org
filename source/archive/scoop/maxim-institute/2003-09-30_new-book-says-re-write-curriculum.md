@@ -1,9 +1,12 @@
 ---
 slug: new-book-says-re-write-curriculum
-title: "New Book Says Re-Write Curriculum"
-date: 2003-09-30
-source-url: https://www.scoop.co.nz/stories/ED0309/S00138/new-book-says-re-write-curriculum.htm
+title: New Book Says Re-Write Curriculum
+date: 2003-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00138/new-book-says-re-write-curriculum.htm
 author: maxim-institute
+permalink: /archive/2003/09/30/new-book-says-re-write-curriculum/index.html
+layout: layout.njk
 ---
 New Book Says Re-Write Curriculum
 =================================

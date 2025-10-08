@@ -1,9 +1,12 @@
 ---
 slug: should-we-restrict-foreign-investment-in-land
-title: "Should We Restrict Foreign Investment in Land?"
-date: 2010-10-08
-source-url: https://www.scoop.co.nz/stories/BU1010/S00223/should-we-restrict-foreign-investment-in-land.htm
+title: Should We Restrict Foreign Investment in Land?
+date: 2010-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1010/S00223/should-we-restrict-foreign-investment-in-land.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2010/10/08/should-we-restrict-foreign-investment-in-land/index.html
+layout: layout.njk
 ---
 Should We Restrict Foreign Investment in Land?
 ==============================================

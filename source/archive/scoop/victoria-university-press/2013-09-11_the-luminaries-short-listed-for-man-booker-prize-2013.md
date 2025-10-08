@@ -1,9 +1,13 @@
 ---
 slug: the-luminaries-short-listed-for-man-booker-prize-2013
-title: "The Luminaries Short Listed For Man Booker Prize 2013"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/CU1309/S00189/the-luminaries-short-listed-for-man-booker-prize-2013.htm
+title: The Luminaries Short Listed For Man Booker Prize 2013
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00189/the-luminaries-short-listed-for-man-booker-prize-2013.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2013/09/11/the-luminaries-short-listed-for-man-booker-prize-2013/index.html
+layout: layout.njk
 ---
 The Luminaries Short Listed For Man Booker Prize 2013
 =====================================================

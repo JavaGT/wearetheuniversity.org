@@ -1,9 +1,12 @@
 ---
 slug: underwater-exploration-of-underwater-geysers
-title: "Underwater exploration of underwater geysers"
-date: 2008-11-14
-source-url: https://www.scoop.co.nz/stories/SC0811/S00023/underwater-exploration-of-underwater-geysers.htm
+title: Underwater exploration of underwater geysers
+date: 2008-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0811/S00023/underwater-exploration-of-underwater-geysers.htm
 author: university-of-waikato
+permalink: /archive/2008/11/14/underwater-exploration-of-underwater-geysers/index.html
+layout: layout.njk
 ---
 Underwater exploration of underwater geysers
 ============================================

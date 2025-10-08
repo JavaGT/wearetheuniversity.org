@@ -1,9 +1,12 @@
 ---
 slug: 43000-and-rising-the-aussie-exodus-accelerates
-title: "43,000 and rising - the Aussie exodus accelerates"
-date: 2008-04-21
-source-url: https://www.scoop.co.nz/stories/PA0804/S00507/43000-and-rising-the-aussie-exodus-accelerates.htm
+title: 43,000 and rising - the Aussie exodus accelerates
+date: 2008-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00507/43000-and-rising-the-aussie-exodus-accelerates.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/21/43000-and-rising-the-aussie-exodus-accelerates/index.html
+layout: layout.njk
 ---
 43,000 and rising - the Aussie exodus accelerates
 =================================================

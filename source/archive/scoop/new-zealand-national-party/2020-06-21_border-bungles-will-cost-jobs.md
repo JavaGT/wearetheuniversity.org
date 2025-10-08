@@ -1,9 +1,12 @@
 ---
 slug: border-bungles-will-cost-jobs
-title: "Border Bungles Will Cost Jobs"
-date: 2020-06-21
-source-url: https://www.scoop.co.nz/stories/PA2006/S00200/border-bungles-will-cost-jobs.htm
+title: Border Bungles Will Cost Jobs
+date: 2020-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00200/border-bungles-will-cost-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/21/border-bungles-will-cost-jobs/index.html
+layout: layout.njk
 ---
 Border Bungles Will Cost Jobs
 =============================

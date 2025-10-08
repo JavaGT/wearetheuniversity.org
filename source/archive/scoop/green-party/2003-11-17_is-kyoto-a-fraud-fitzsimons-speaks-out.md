@@ -1,9 +1,12 @@
 ---
 slug: is-kyoto-a-fraud-fitzsimons-speaks-out
-title: "Is Kyoto a fraud? Fitzsimons speaks out"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/PA0311/S00339/is-kyoto-a-fraud-fitzsimons-speaks-out.htm
+title: Is Kyoto a fraud? Fitzsimons speaks out
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00339/is-kyoto-a-fraud-fitzsimons-speaks-out.htm
 author: green-party
+permalink: /archive/2003/11/17/is-kyoto-a-fraud-fitzsimons-speaks-out/index.html
+layout: layout.njk
 ---
 Is Kyoto a fraud? Fitzsimons speaks out
 =======================================

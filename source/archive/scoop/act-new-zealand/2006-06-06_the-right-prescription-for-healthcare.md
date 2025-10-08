@@ -1,9 +1,12 @@
 ---
 slug: the-right-prescription-for-healthcare
-title: "The Right Prescription For Healthcare"
-date: 2006-06-06
-source-url: https://www.scoop.co.nz/stories/PA0606/S00061/the-right-prescription-for-healthcare.htm
+title: The Right Prescription For Healthcare
+date: 2006-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00061/the-right-prescription-for-healthcare.htm
 author: act-new-zealand
+permalink: /archive/2006/06/06/the-right-prescription-for-healthcare/index.html
+layout: layout.njk
 ---
 The Right Prescription For Healthcare
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: outstanding-canterbury-engineers-honoured
-title: "Outstanding Canterbury Engineers Honoured"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/ED0403/S00117/outstanding-canterbury-engineers-honoured.htm
+title: Outstanding Canterbury Engineers Honoured
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00117/outstanding-canterbury-engineers-honoured.htm
 author: university-of-canterbury
+permalink: /archive/2004/03/29/outstanding-canterbury-engineers-honoured/index.html
+layout: layout.njk
 ---
 Outstanding Canterbury Engineers Honoured
 =========================================

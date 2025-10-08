@@ -1,9 +1,13 @@
 ---
 slug: more-investment-in-training-needed-to-fix-housing-shortage
-title: "More investment in training needed to fix housing shortage"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/PA1703/S00363/more-investment-in-training-needed-to-fix-housing-shortage.htm
+title: More investment in training needed to fix housing shortage
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00363/more-investment-in-training-needed-to-fix-housing-shortage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/03/22/more-investment-in-training-needed-to-fix-housing-shortage/index.html
+layout: layout.njk
 ---
 More investment in training needed to fix housing shortage
 ==========================================================

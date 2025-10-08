@@ -1,9 +1,13 @@
 ---
 slug: different-flavour-of-businesses-in-christchurch-cbd
-title: "Different flavour of businesses in Christchurch CBD"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/BU1209/S00856/different-flavour-of-businesses-in-christchurch-cbd.htm
+title: Different flavour of businesses in Christchurch CBD
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1209/S00856/different-flavour-of-businesses-in-christchurch-cbd.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/25/different-flavour-of-businesses-in-christchurch-cbd/index.html
+layout: layout.njk
 ---
 Different flavour of businesses in Christchurch CBD
 ===================================================

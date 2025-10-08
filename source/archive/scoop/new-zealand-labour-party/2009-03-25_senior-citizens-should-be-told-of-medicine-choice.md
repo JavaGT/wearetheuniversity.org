@@ -1,9 +1,13 @@
 ---
 slug: senior-citizens-should-be-told-of-medicine-choice
-title: "Senior citizens should be told of medicine choice"
-date: 2009-03-25
-source-url: https://www.scoop.co.nz/stories/PA0903/S00358/senior-citizens-should-be-told-of-medicine-choice.htm
+title: Senior citizens should be told of medicine choice
+date: 2009-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00358/senior-citizens-should-be-told-of-medicine-choice.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/03/25/senior-citizens-should-be-told-of-medicine-choice/index.html
+layout: layout.njk
 ---
 Senior citizens should be told of medicine choice
 =================================================

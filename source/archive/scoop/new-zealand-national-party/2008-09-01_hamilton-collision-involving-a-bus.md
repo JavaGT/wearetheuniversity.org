@@ -1,9 +1,12 @@
 ---
 slug: hamilton-collision-involving-a-bus
-title: "Hamilton Collision Involving A Bus"
-date: 2008-09-01
-source-url: https://www.scoop.co.nz/stories/PA0809/S00011/hamilton-collision-involving-a-bus.htm
+title: Hamilton Collision Involving A Bus
+date: 2008-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00011/hamilton-collision-involving-a-bus.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/01/hamilton-collision-involving-a-bus/index.html
+layout: layout.njk
 ---
 Hamilton Collision Involving A Bus
 ==================================

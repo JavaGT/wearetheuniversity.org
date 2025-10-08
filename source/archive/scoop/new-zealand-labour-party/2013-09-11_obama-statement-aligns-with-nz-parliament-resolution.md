@@ -1,9 +1,13 @@
 ---
 slug: obama-statement-aligns-with-nz-parliament-resolution
-title: "Obama statement aligns with NZ Parliament resolution"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/PA1309/S00209/obama-statement-aligns-with-nz-parliament-resolution.htm
+title: Obama statement aligns with NZ Parliament resolution
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00209/obama-statement-aligns-with-nz-parliament-resolution.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/11/obama-statement-aligns-with-nz-parliament-resolution/index.html
+layout: layout.njk
 ---
 Obama statement aligns with NZ Parliament resolution
 ====================================================

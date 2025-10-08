@@ -1,9 +1,12 @@
 ---
 slug: books-and-boots-a-h-reed-biography-published
-title: "Books and Boots: A.H. Reed Biography Published"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/CU0511/S00116/books-and-boots-ah-reed-biography-published.htm
+title: 'Books and Boots: A.H. Reed Biography Published'
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0511/S00116/books-and-boots-ah-reed-biography-published.htm
 author: university-of-otago
+permalink: /archive/2005/11/14/books-and-boots-a-h-reed-biography-published/index.html
+layout: layout.njk
 ---
 Books and Boots: A.H. Reed Biography Published
 ==============================================

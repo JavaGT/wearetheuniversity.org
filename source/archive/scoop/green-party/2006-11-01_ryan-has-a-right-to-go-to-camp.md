@@ -1,9 +1,12 @@
 ---
 slug: ryan-has-a-right-to-go-to-camp
-title: "Ryan has a right to go to camp"
-date: 2006-11-01
-source-url: https://www.scoop.co.nz/stories/PA0611/S00021/ryan-has-a-right-to-go-to-camp.htm
+title: Ryan has a right to go to camp
+date: 2006-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00021/ryan-has-a-right-to-go-to-camp.htm
 author: green-party
+permalink: /archive/2006/11/01/ryan-has-a-right-to-go-to-camp/index.html
+layout: layout.njk
 ---
 Ryan has a right to go to camp
 ==============================

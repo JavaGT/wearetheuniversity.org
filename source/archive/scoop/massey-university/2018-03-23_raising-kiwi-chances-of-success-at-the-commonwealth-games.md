@@ -1,9 +1,13 @@
 ---
 slug: raising-kiwi-chances-of-success-at-the-commonwealth-games
-title: "Raising Kiwi chances of success at the Commonwealth Games"
-date: 2018-03-23
-source-url: https://www.scoop.co.nz/stories/GE1803/S00067/raising-kiwi-chances-of-success-at-the-commonwealth-games.htm
+title: Raising Kiwi chances of success at the Commonwealth Games
+date: 2018-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00067/raising-kiwi-chances-of-success-at-the-commonwealth-games.htm
 author: massey-university
+permalink: >-
+  /archive/2018/03/23/raising-kiwi-chances-of-success-at-the-commonwealth-games/index.html
+layout: layout.njk
 ---
 Raising Kiwi chances of success at the Commonwealth Games
 =========================================================

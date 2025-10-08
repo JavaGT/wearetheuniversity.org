@@ -1,9 +1,11 @@
 ---
 slug: state-of-the-nation-address
-title: "State Of The Nation Address"
-date: 2022-03-06
+title: State Of The Nation Address
+date: 2022-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2203/S00035/state-of-the-nation-address.htm
 author: new-zealand-national-party
+permalink: /archive/2022/03/06/state-of-the-nation-address/index.html
+layout: layout.njk
 ---
 State Of The Nation Address
 ===========================

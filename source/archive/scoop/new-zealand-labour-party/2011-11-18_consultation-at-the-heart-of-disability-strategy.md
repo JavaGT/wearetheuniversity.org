@@ -1,9 +1,13 @@
 ---
 slug: consultation-at-the-heart-of-disability-strategy
-title: "Consultation at the heart of disability strategy"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00390/consultation-at-the-heart-of-disability-strategy.htm
+title: Consultation at the heart of disability strategy
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00390/consultation-at-the-heart-of-disability-strategy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/18/consultation-at-the-heart-of-disability-strategy/index.html
+layout: layout.njk
 ---
 Consultation at the heart of disability strategy
 ================================================

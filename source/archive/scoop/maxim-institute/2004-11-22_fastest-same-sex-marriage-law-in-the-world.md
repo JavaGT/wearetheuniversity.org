@@ -1,9 +1,12 @@
 ---
 slug: fastest-same-sex-marriage-law-in-the-world
-title: "Fastest 'Same-Sex Marriage' Law In The World"
-date: 2004-11-22
-source-url: https://www.scoop.co.nz/stories/PO0411/S00186/fastest-same-sex-marriage-law-in-the-world.htm
+title: Fastest 'Same-Sex Marriage' Law In The World
+date: 2004-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0411/S00186/fastest-same-sex-marriage-law-in-the-world.htm
 author: maxim-institute
+permalink: /archive/2004/11/22/fastest-same-sex-marriage-law-in-the-world/index.html
+layout: layout.njk
 ---
 Fastest 'Same-Sex Marriage' Law In The World
 ============================================

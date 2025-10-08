@@ -1,9 +1,12 @@
 ---
 slug: excellence-in-it-education-recognised
-title: "Excellence in IT education recognised"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/ED1410/S00128/excellence-in-it-education-recognised.htm
+title: Excellence in IT education recognised
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00128/excellence-in-it-education-recognised.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/23/excellence-in-it-education-recognised/index.html
+layout: layout.njk
 ---
 Excellence in IT education recognised
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: maternity-proposals-disastrous-for-womens-choice
-title: "Maternity Proposals Disastrous For Women's Choice"
-date: 2001-09-10
-source-url: https://www.scoop.co.nz/stories/PA0109/S00126/maternity-proposals-disastrous-for-womens-choice.htm
+title: Maternity Proposals Disastrous For Women's Choice
+date: 2001-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00126/maternity-proposals-disastrous-for-womens-choice.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/09/10/maternity-proposals-disastrous-for-womens-choice/index.html
+layout: layout.njk
 ---
 Maternity Proposals Disastrous For Women's Choice
 =================================================

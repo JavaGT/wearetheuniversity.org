@@ -1,9 +1,13 @@
 ---
 slug: future-eruptions-could-pose-threat-to-power-supply
-title: "Future Eruptions Could Pose Threat To Power Supply"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/SC1210/S00048/future-eruptions-could-pose-threat-to-power-supply.htm
+title: Future Eruptions Could Pose Threat To Power Supply
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00048/future-eruptions-could-pose-threat-to-power-supply.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/25/future-eruptions-could-pose-threat-to-power-supply/index.html
+layout: layout.njk
 ---
 Future Eruptions Could Pose Threat To Power Supply
 ==================================================

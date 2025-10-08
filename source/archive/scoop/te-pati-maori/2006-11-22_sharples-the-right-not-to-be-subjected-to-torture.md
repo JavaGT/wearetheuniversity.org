@@ -1,9 +1,13 @@
 ---
 slug: sharples-the-right-not-to-be-subjected-to-torture
-title: "Sharples: The right not to be subjected to torture"
-date: 2006-11-22
-source-url: https://www.scoop.co.nz/stories/PA0611/S00405/sharples-the-right-not-to-be-subjected-to-torture.htm
+title: 'Sharples: The right not to be subjected to torture'
+date: 2006-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00405/sharples-the-right-not-to-be-subjected-to-torture.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/11/22/sharples-the-right-not-to-be-subjected-to-torture/index.html
+layout: layout.njk
 ---
 Sharples: The right not to be subjected to torture
 ==================================================

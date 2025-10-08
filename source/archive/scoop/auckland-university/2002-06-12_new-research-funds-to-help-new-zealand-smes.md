@@ -1,9 +1,12 @@
 ---
 slug: new-research-funds-to-help-new-zealand-smes
-title: "New Research Funds To Help New Zealand Smes"
-date: 2002-06-12
-source-url: https://www.scoop.co.nz/stories/ED0206/S00024/new-research-funds-to-help-new-zealand-smes.htm
+title: New Research Funds To Help New Zealand Smes
+date: 2002-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00024/new-research-funds-to-help-new-zealand-smes.htm
 author: auckland-university
+permalink: /archive/2002/06/12/new-research-funds-to-help-new-zealand-smes/index.html
+layout: layout.njk
 ---
 New Research Funds To Help New Zealand Smes
 ===========================================

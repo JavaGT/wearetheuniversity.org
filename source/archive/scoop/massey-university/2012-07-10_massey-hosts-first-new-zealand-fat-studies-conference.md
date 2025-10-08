@@ -1,9 +1,13 @@
 ---
 slug: massey-hosts-first-new-zealand-fat-studies-conference
-title: "Massey hosts first New Zealand Fat Studies conference"
-date: 2012-07-10
-source-url: https://www.scoop.co.nz/stories/CU1207/S00137/massey-hosts-first-new-zealand-fat-studies-conference.htm
+title: Massey hosts first New Zealand Fat Studies conference
+date: 2012-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00137/massey-hosts-first-new-zealand-fat-studies-conference.htm
 author: massey-university
+permalink: >-
+  /archive/2012/07/10/massey-hosts-first-new-zealand-fat-studies-conference/index.html
+layout: layout.njk
 ---
 Massey hosts first New Zealand Fat Studies conference
 =====================================================

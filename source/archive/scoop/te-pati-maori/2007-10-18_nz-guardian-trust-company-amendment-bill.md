@@ -1,9 +1,12 @@
 ---
 slug: nz-guardian-trust-company-amendment-bill
-title: "NZ Guardian Trust Company Amendment Bill"
-date: 2007-10-18
-source-url: https://www.scoop.co.nz/stories/PA0710/S00338/nz-guardian-trust-company-amendment-bill.htm
+title: NZ Guardian Trust Company Amendment Bill
+date: 2007-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00338/nz-guardian-trust-company-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/10/18/nz-guardian-trust-company-amendment-bill/index.html
+layout: layout.njk
 ---
 NZ Guardian Trust Company Amendment Bill
 ========================================

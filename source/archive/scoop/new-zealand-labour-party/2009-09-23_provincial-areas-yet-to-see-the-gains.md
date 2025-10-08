@@ -1,9 +1,12 @@
 ---
 slug: provincial-areas-yet-to-see-the-gains
-title: "Provincial areas yet to see the gains"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/PA0909/S00339/provincial-areas-yet-to-see-the-gains.htm
+title: Provincial areas yet to see the gains
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00339/provincial-areas-yet-to-see-the-gains.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/23/provincial-areas-yet-to-see-the-gains/index.html
+layout: layout.njk
 ---
 Provincial areas yet to see the gains
 =====================================

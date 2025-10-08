@@ -1,8 +1,12 @@
 ---
 slug: climathon-invites-aucklanders-to-help-shape-citys-future
-title: "Climathon invites Aucklanders to help shape city’s future"
-date: 2017-09-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/climathon-invites-aucklanders-to-help-shape-city-future.html
+title: Climathon invites Aucklanders to help shape city’s future
+date: 2017-09-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/09/climathon-invites-aucklanders-to-help-shape-city-future.html
+permalink: >-
+  /archive/2017/09/05/climathon-invites-aucklanders-to-help-shape-citys-future/index.html
+layout: layout.njk
 ---
 Climathon invites Aucklanders to help shape city’s future
 =========================================================

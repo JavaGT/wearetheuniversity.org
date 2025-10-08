@@ -1,9 +1,12 @@
 ---
 slug: lincoln-research-showcased-in-brazil
-title: "Lincoln research showcased in Brazil"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/ED1210/S00085/lincoln-research-showcased-in-brazil.htm
+title: Lincoln research showcased in Brazil
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00085/lincoln-research-showcased-in-brazil.htm
 author: lincoln-university
+permalink: /archive/2012/10/15/lincoln-research-showcased-in-brazil/index.html
+layout: layout.njk
 ---
 Lincoln research showcased in Brazil
 ====================================

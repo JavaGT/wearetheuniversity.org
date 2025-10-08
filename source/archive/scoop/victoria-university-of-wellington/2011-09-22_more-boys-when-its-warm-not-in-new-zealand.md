@@ -1,9 +1,12 @@
 ---
 slug: more-boys-when-its-warm-not-in-new-zealand
-title: "More boys when it’s warm? Not in New Zealand"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/ED1109/S00101/more-boys-when-its-warm-not-in-new-zealand.htm
+title: More boys when it’s warm? Not in New Zealand
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00101/more-boys-when-its-warm-not-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/22/more-boys-when-its-warm-not-in-new-zealand/index.html
+layout: layout.njk
 ---
 More boys when it’s warm? Not in New Zealand
 ============================================

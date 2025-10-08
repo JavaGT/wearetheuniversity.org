@@ -1,9 +1,12 @@
 ---
 slug: growing-the-pool-of-future-female-leaders
-title: "Growing the pool of future female leaders"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/BU1507/S00784/growing-the-pool-of-future-female-leaders.htm
+title: Growing the pool of future female leaders
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1507/S00784/growing-the-pool-of-future-female-leaders.htm
 author: massey-university
+permalink: /archive/2015/07/24/growing-the-pool-of-future-female-leaders/index.html
+layout: layout.njk
 ---
 Growing the pool of future female leaders
 =========================================

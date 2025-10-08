@@ -1,9 +1,13 @@
 ---
 slug: uc-engineer-wins-major-nz-earthquake-engineering-award
-title: "UC Engineer Wins Major NZ Earthquake Engineering Award"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/SC1305/S00011/uc-engineer-wins-major-nz-earthquake-engineering-award.htm
+title: UC Engineer Wins Major NZ Earthquake Engineering Award
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00011/uc-engineer-wins-major-nz-earthquake-engineering-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/02/uc-engineer-wins-major-nz-earthquake-engineering-award/index.html
+layout: layout.njk
 ---
 UC Engineer Wins Major NZ Earthquake Engineering Award
 ======================================================

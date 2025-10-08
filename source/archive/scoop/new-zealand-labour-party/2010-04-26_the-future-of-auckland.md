@@ -1,9 +1,11 @@
 ---
 slug: the-future-of-auckland
-title: "The future of Auckland"
-date: 2010-04-26
+title: The future of Auckland
+date: 2010-04-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1004/S00319/the-future-of-auckland.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/26/the-future-of-auckland/index.html
+layout: layout.njk
 ---
 The future of Auckland
 ======================

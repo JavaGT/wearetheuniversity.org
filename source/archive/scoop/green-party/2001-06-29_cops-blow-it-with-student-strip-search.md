@@ -1,9 +1,12 @@
 ---
 slug: cops-blow-it-with-student-strip-search
-title: "Cops Blow It With Student Strip Search"
-date: 2001-06-29
-source-url: https://www.scoop.co.nz/stories/PA0106/S00463/cops-blow-it-with-student-strip-search.htm
+title: Cops Blow It With Student Strip Search
+date: 2001-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00463/cops-blow-it-with-student-strip-search.htm
 author: green-party
+permalink: /archive/2001/06/29/cops-blow-it-with-student-strip-search/index.html
+layout: layout.njk
 ---
 Cops Blow It With Student Strip Search
 ======================================

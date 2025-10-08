@@ -1,9 +1,13 @@
 ---
 slug: economists-warnings-show-need-for-economic-upgrade
-title: "Economists’ warnings show need for Economic Upgrade"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/PA1408/S00394/economists-warnings-show-need-for-economic-upgrade.htm
+title: Economists’ warnings show need for Economic Upgrade
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00394/economists-warnings-show-need-for-economic-upgrade.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/26/economists-warnings-show-need-for-economic-upgrade/index.html
+layout: layout.njk
 ---
 Economists’ warnings show need for Economic Upgrade
 ===================================================

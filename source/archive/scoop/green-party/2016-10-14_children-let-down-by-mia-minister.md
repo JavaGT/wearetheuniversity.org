@@ -1,9 +1,12 @@
 ---
 slug: children-let-down-by-mia-minister
-title: "Children let down by MIA Minister"
-date: 2016-10-14
-source-url: https://www.scoop.co.nz/stories/PA1610/S00220/children-let-down-by-mia-minister.htm
+title: Children let down by MIA Minister
+date: 2016-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00220/children-let-down-by-mia-minister.htm
 author: green-party
+permalink: /archive/2016/10/14/children-let-down-by-mia-minister/index.html
+layout: layout.njk
 ---
 Children let down by MIA Minister
 =================================

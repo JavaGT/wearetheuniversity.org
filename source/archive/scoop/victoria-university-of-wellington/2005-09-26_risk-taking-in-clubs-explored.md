@@ -1,9 +1,12 @@
 ---
 slug: risk-taking-in-clubs-explored
-title: "Risk-taking in clubs explored"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/ED0509/S00081/risk-taking-in-clubs-explored.htm
+title: Risk-taking in clubs explored
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00081/risk-taking-in-clubs-explored.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/09/26/risk-taking-in-clubs-explored/index.html
+layout: layout.njk
 ---
 Risk-taking in clubs explored
 =============================

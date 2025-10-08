@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-nz-first-coalition-position
-title: "Speech: Peters - NZ First Coalition Position"
-date: 2011-11-06
-source-url: https://www.scoop.co.nz/stories/PO1111/S00151/speech-peters-nz-first-coalition-position.htm
+title: 'Speech: Peters - NZ First Coalition Position'
+date: 2011-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00151/speech-peters-nz-first-coalition-position.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/06/speech-peters-nz-first-coalition-position/index.html
+layout: layout.njk
 ---
 Speech: Peters - NZ First Coalition Position
 ============================================

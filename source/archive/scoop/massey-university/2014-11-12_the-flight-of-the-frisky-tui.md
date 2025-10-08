@@ -1,9 +1,11 @@
 ---
 slug: the-flight-of-the-frisky-tui
-title: "The flight of the frisky tui"
-date: 2014-11-12
+title: The flight of the frisky tui
+date: 2014-11-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1411/S00073/the-flight-of-the-frisky-tui.htm
 author: massey-university
+permalink: /archive/2014/11/12/the-flight-of-the-frisky-tui/index.html
+layout: layout.njk
 ---
 The flight of the frisky tui
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: what-could-the-black-caps-batsmen-gain-from-game-sense
-title: "What could the Black Caps batsmen gain from Game Sense?"
-date: 2014-11-18
-source-url: https://www.scoop.co.nz/stories/CU1411/S00310/what-could-the-black-caps-batsmen-gain-from-game-sense.htm
+title: What could the Black Caps batsmen gain from Game Sense?
+date: 2014-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00310/what-could-the-black-caps-batsmen-gain-from-game-sense.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/18/what-could-the-black-caps-batsmen-gain-from-game-sense/index.html
+layout: layout.njk
 ---
 What could the Black Caps batsmen gain from Game Sense?
 =======================================================

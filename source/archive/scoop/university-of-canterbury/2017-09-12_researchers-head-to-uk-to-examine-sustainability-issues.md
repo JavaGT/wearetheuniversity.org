@@ -1,9 +1,13 @@
 ---
 slug: researchers-head-to-uk-to-examine-sustainability-issues
-title: "Researchers head to UK to examine sustainability issues"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/SC1709/S00015/researchers-head-to-uk-to-examine-sustainability-issues.htm
+title: Researchers head to UK to examine sustainability issues
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1709/S00015/researchers-head-to-uk-to-examine-sustainability-issues.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/12/researchers-head-to-uk-to-examine-sustainability-issues/index.html
+layout: layout.njk
 ---
 Researchers head to UK to examine sustainability issues
 =======================================================

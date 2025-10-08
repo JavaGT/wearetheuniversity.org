@@ -1,9 +1,13 @@
 ---
 slug: uc-investigating-new-zealands-gross-national-happiness
-title: "UC Investigating New Zealand’s Gross National Happiness"
-date: 2013-04-16
-source-url: https://www.scoop.co.nz/stories/ED1304/S00100/uc-investigating-new-zealands-gross-national-happiness.htm
+title: UC Investigating New Zealand’s Gross National Happiness
+date: 2013-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00100/uc-investigating-new-zealands-gross-national-happiness.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/16/uc-investigating-new-zealands-gross-national-happiness/index.html
+layout: layout.njk
 ---
 UC Investigating New Zealand’s Gross National Happiness
 =======================================================

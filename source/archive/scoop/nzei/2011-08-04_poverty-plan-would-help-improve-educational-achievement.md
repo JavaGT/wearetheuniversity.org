@@ -1,9 +1,13 @@
 ---
 slug: poverty-plan-would-help-improve-educational-achievement
-title: "Poverty plan would help improve educational achievement"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/ED1108/S00029/poverty-plan-would-help-improve-educational-achievement.htm
+title: Poverty plan would help improve educational achievement
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00029/poverty-plan-would-help-improve-educational-achievement.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/04/poverty-plan-would-help-improve-educational-achievement/index.html
+layout: layout.njk
 ---
 Poverty plan would help improve educational achievement
 =======================================================

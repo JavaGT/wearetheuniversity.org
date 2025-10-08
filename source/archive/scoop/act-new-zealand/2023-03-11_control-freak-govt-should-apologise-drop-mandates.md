@@ -1,9 +1,13 @@
 ---
 slug: control-freak-govt-should-apologise-drop-mandates
-title: "Control Freak Govt Should Apologise, Drop Mandates"
-date: 2023-03-11
-source-url: https://www.scoop.co.nz/stories/PA2303/S00083/control-freak-govt-should-apologise-drop-mandates.htm
+title: Control Freak Govt Should Apologise, Drop Mandates
+date: 2023-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00083/control-freak-govt-should-apologise-drop-mandates.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/03/11/control-freak-govt-should-apologise-drop-mandates/index.html
+layout: layout.njk
 ---
 Control Freak Govt Should Apologise, Drop Mandates
 ==================================================

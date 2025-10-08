@@ -1,9 +1,12 @@
 ---
 slug: arrogant-ppta-is-out-of-touch-with-reality
-title: "Arrogant PPTA is Out of Touch With Reality"
-date: 2001-03-16
-source-url: https://www.scoop.co.nz/stories/PA0103/S00284/arrogant-ppta-is-out-of-touch-with-reality.htm
+title: Arrogant PPTA is Out of Touch With Reality
+date: 2001-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00284/arrogant-ppta-is-out-of-touch-with-reality.htm
 author: act-new-zealand
+permalink: /archive/2001/03/16/arrogant-ppta-is-out-of-touch-with-reality/index.html
+layout: layout.njk
 ---
 Arrogant PPTA is Out of Touch With Reality
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: int-criminal-court-judge-to-give-public-lecture
-title: "Int. Criminal Court Judge to give Public Lecture"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/ED0404/S00026/int-criminal-court-judge-to-give-public-lecture.htm
+title: Int. Criminal Court Judge to give Public Lecture
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00026/int-criminal-court-judge-to-give-public-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/04/08/int-criminal-court-judge-to-give-public-lecture/index.html
+layout: layout.njk
 ---
 Int. Criminal Court Judge to give Public Lecture
 ================================================

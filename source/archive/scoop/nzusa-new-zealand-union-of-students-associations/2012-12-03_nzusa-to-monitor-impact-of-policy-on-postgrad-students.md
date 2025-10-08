@@ -1,9 +1,13 @@
 ---
 slug: nzusa-to-monitor-impact-of-policy-on-postgrad-students
-title: "NZUSA to monitor impact of policy on Postgrad students"
-date: 2012-12-03
-source-url: https://www.scoop.co.nz/stories/ED1212/S00009/nzusa-to-monitor-impact-of-policy-on-postgrad-students.htm
+title: NZUSA to monitor impact of policy on Postgrad students
+date: 2012-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00009/nzusa-to-monitor-impact-of-policy-on-postgrad-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/12/03/nzusa-to-monitor-impact-of-policy-on-postgrad-students/index.html
+layout: layout.njk
 ---
 NZUSA to monitor impact of policy on Postgrad students
 ======================================================

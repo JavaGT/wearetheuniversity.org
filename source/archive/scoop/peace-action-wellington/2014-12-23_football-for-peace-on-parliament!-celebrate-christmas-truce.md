@@ -1,9 +1,12 @@
 ---
 slug: football-for-peace-on-parliament!-celebrate-christmas-truce
-title: "Football for Peace on Parliament! Celebrate Christmas Truce"
-date: 2014-12-23
-source-url: https://www.scoop.co.nz/stories/CU1412/S00416/football-for-peace-on-parliament-celebrate-christmas-truce.htm
+title: Football for Peace on Parliament! Celebrate Christmas Truce
+date: 2014-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00416/football-for-peace-on-parliament-celebrate-christmas-truce.htm
 author: peace-action-wellington
+permalink: /archive/2014/12/23/football-for-peace-on-parliament/index.html
+layout: layout.njk
 ---
 Football for Peace on Parliament! Celebrate Christmas Truce
 ===========================================================

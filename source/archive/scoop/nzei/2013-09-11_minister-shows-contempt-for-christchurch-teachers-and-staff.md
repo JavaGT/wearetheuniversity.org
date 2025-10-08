@@ -1,9 +1,13 @@
 ---
 slug: minister-shows-contempt-for-christchurch-teachers-and-staff
-title: "Minister shows contempt for Christchurch teachers and staff"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/ED1309/S00064/minister-shows-contempt-for-christchurch-teachers-and-staff.htm
+title: Minister shows contempt for Christchurch teachers and staff
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00064/minister-shows-contempt-for-christchurch-teachers-and-staff.htm
 author: nzei
+permalink: >-
+  /archive/2013/09/11/minister-shows-contempt-for-christchurch-teachers-and-staff/index.html
+layout: layout.njk
 ---
 Minister shows contempt for Christchurch teachers and staff
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-collect-100000-signatures-to-keep-our-assets
-title: "Greens collect 100,000 signatures to keep our assets"
-date: 2012-07-27
-source-url: https://www.scoop.co.nz/stories/PA1207/S00388/greens-collect-100000-signatures-to-keep-our-assets.htm
+title: Greens collect 100,000 signatures to keep our assets
+date: 2012-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00388/greens-collect-100000-signatures-to-keep-our-assets.htm
 author: green-party
+permalink: >-
+  /archive/2012/07/27/greens-collect-100000-signatures-to-keep-our-assets/index.html
+layout: layout.njk
 ---
 Greens collect 100,000 signatures to keep our assets
 ====================================================

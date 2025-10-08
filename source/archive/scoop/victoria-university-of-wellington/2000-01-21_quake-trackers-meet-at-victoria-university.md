@@ -1,9 +1,12 @@
 ---
 slug: quake-trackers-meet-at-victoria-university
-title: "'Quake Trackers' meet at Victoria University"
-date: 2000-01-21
-source-url: https://www.scoop.co.nz/stories/ED0001/S00013/quake-trackers-meet-at-victoria-university.htm
+title: '''Quake Trackers'' meet at Victoria University'
+date: 2000-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00013/quake-trackers-meet-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/01/21/quake-trackers-meet-at-victoria-university/index.html
+layout: layout.njk
 ---
 'Quake Trackers' meet at Victoria University
 ============================================

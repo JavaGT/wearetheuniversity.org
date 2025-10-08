@@ -1,9 +1,12 @@
 ---
 slug: an-offer-charter-schools-couldnt-refuse
-title: "An offer charter schools couldn’t refuse"
-date: 2018-05-15
-source-url: https://www.scoop.co.nz/stories/PA1805/S00188/an-offer-charter-schools-couldnt-refuse.htm
+title: An offer charter schools couldn’t refuse
+date: 2018-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00188/an-offer-charter-schools-couldnt-refuse.htm
 author: act-new-zealand
+permalink: /archive/2018/05/15/an-offer-charter-schools-couldnt-refuse/index.html
+layout: layout.njk
 ---
 An offer charter schools couldn’t refuse
 ========================================

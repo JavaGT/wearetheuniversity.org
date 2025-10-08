@@ -1,9 +1,13 @@
 ---
 slug: dame-anne-salmond-to-start-rutherford-lecture-series
-title: "Dame Anne Salmond to start Rutherford lecture series"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/CU1410/S00318/dame-anne-salmond-to-start-rutherford-lecture-series.htm
+title: Dame Anne Salmond to start Rutherford lecture series
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00318/dame-anne-salmond-to-start-rutherford-lecture-series.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/10/15/dame-anne-salmond-to-start-rutherford-lecture-series/index.html
+layout: layout.njk
 ---
 Dame Anne Salmond to start Rutherford lecture series
 ====================================================

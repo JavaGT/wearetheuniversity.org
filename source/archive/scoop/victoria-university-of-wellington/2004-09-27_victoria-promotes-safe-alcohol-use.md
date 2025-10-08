@@ -1,9 +1,12 @@
 ---
 slug: victoria-promotes-safe-alcohol-use
-title: "Victoria promotes safe alcohol use"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/ED0409/S00125/victoria-promotes-safe-alcohol-use.htm
+title: Victoria promotes safe alcohol use
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00125/victoria-promotes-safe-alcohol-use.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/27/victoria-promotes-safe-alcohol-use/index.html
+layout: layout.njk
 ---
 Victoria promotes safe alcohol use
 ==================================

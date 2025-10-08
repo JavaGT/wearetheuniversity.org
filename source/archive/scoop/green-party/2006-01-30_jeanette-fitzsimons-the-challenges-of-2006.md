@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-the-challenges-of-2006
-title: "Jeanette Fitzsimons: The Challenges of 2006"
-date: 2006-01-30
-source-url: https://www.scoop.co.nz/stories/PA0601/S00162/jeanette-fitzsimons-the-challenges-of-2006.htm
+title: 'Jeanette Fitzsimons: The Challenges of 2006'
+date: 2006-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00162/jeanette-fitzsimons-the-challenges-of-2006.htm
 author: green-party
+permalink: /archive/2006/01/30/jeanette-fitzsimons-the-challenges-of-2006/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons: The Challenges of 2006
 ===========================================

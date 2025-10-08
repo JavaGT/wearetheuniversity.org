@@ -1,9 +1,12 @@
 ---
 slug: teachers-to-launch-urgent-claim-on-class-size
-title: "Teachers to launch urgent claim on class size"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/PO1205/S00449/teachers-to-launch-urgent-claim-on-class-size.htm
+title: Teachers to launch urgent claim on class size
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00449/teachers-to-launch-urgent-claim-on-class-size.htm
 author: nzei
+permalink: /archive/2012/05/28/teachers-to-launch-urgent-claim-on-class-size/index.html
+layout: layout.njk
 ---
 Teachers to launch urgent claim on class size
 =============================================

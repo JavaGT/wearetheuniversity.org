@@ -1,9 +1,13 @@
 ---
 slug: loss-of-qe-ii-stadium-has-affected-performance-of-athletes
-title: "Loss of QE II Stadium has affected performance of athletes"
-date: 2014-07-25
-source-url: https://www.scoop.co.nz/stories/AK1407/S00501/loss-of-qe-ii-stadium-has-affected-performance-of-athletes.htm
+title: Loss of QE II Stadium has affected performance of athletes
+date: 2014-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1407/S00501/loss-of-qe-ii-stadium-has-affected-performance-of-athletes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/25/loss-of-qe-ii-stadium-has-affected-performance-of-athletes/index.html
+layout: layout.njk
 ---
 Loss of QE II Stadium has affected performance of athletes
 ==========================================================

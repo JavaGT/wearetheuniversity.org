@@ -1,9 +1,12 @@
 ---
 slug: govt-must-tackle-climate-and-economy-together
-title: "Govt must tackle climate and economy together"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/PA0903/S00086/govt-must-tackle-climate-and-economy-together.htm
+title: Govt must tackle climate and economy together
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00086/govt-must-tackle-climate-and-economy-together.htm
 author: green-party
+permalink: /archive/2009/03/05/govt-must-tackle-climate-and-economy-together/index.html
+layout: layout.njk
 ---
 Govt must tackle climate and economy together
 =============================================

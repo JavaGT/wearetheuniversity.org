@@ -1,9 +1,13 @@
 ---
 slug: public-should-have-been-told-about-dangerous-incident
-title: "Public should have been told about dangerous incident"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/PA1504/S00145/public-should-have-been-told-about-dangerous-incident.htm
+title: Public should have been told about dangerous incident
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00145/public-should-have-been-told-about-dangerous-incident.htm
 author: green-party
+permalink: >-
+  /archive/2015/04/14/public-should-have-been-told-about-dangerous-incident/index.html
+layout: layout.njk
 ---
 Public should have been told about dangerous incident
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: research-looks-to-combat-soil-water-shortage-on-farms
-title: "Research looks to combat soil water shortage on farms"
-date: 2014-04-10
-source-url: https://www.scoop.co.nz/stories/SC1404/S00041/research-looks-to-combat-soil-water-shortage-on-farms.htm
+title: Research looks to combat soil water shortage on farms
+date: 2014-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00041/research-looks-to-combat-soil-water-shortage-on-farms.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/10/research-looks-to-combat-soil-water-shortage-on-farms/index.html
+layout: layout.njk
 ---
 Research looks to combat soil water shortage on farms
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-2000-speech-richard-prebble
-title: "BUDGET 2000 SPEECH - Richard Prebble"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/PA0006/S00302/budget-2000-speech-richard-prebble.htm
+title: BUDGET 2000 SPEECH - Richard Prebble
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00302/budget-2000-speech-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2000/06/15/budget-2000-speech-richard-prebble/index.html
+layout: layout.njk
 ---
 BUDGET 2000 SPEECH - Richard Prebble
 ====================================

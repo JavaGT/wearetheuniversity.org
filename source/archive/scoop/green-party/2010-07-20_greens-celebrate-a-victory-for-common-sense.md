@@ -1,9 +1,12 @@
 ---
 slug: greens-celebrate-a-victory-for-common-sense
-title: "Greens celebrate a victory for common sense"
-date: 2010-07-20
-source-url: https://www.scoop.co.nz/stories/PA1007/S00299/greens-celebrate-a-victory-for-common-sense.htm
+title: Greens celebrate a victory for common sense
+date: 2010-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00299/greens-celebrate-a-victory-for-common-sense.htm
 author: green-party
+permalink: /archive/2010/07/20/greens-celebrate-a-victory-for-common-sense/index.html
+layout: layout.njk
 ---
 Greens celebrate a victory for common sense
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: act-will-repeal-undemocratic-māori-wards
-title: "ACT Will Repeal Undemocratic Māori Wards"
-date: 2023-08-27
-source-url: https://www.scoop.co.nz/stories/PO2308/S00255/act-will-repeal-undemocratic-maori-wards.htm
+title: ACT Will Repeal Undemocratic Māori Wards
+date: 2023-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00255/act-will-repeal-undemocratic-maori-wards.htm
 author: act-new-zealand
+permalink: /archive/2023/08/27/act-will-repeal-undemocratic-m/index.html
+layout: layout.njk
 ---
 ACT Will Repeal Undemocratic Māori Wards
 ========================================

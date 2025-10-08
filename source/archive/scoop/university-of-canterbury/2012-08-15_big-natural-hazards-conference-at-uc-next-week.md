@@ -1,9 +1,12 @@
 ---
 slug: big-natural-hazards-conference-at-uc-next-week
-title: "Big natural hazards conference at UC next week"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/AK1208/S00327/big-natural-hazards-conference-at-uc-next-week.htm
+title: Big natural hazards conference at UC next week
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00327/big-natural-hazards-conference-at-uc-next-week.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/15/big-natural-hazards-conference-at-uc-next-week/index.html
+layout: layout.njk
 ---
 Big natural hazards conference at UC next week
 ==============================================

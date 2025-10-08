@@ -1,9 +1,12 @@
 ---
 slug: act-selects-stephen-berry-for-northcote
-title: "ACT selects Stephen Berry for Northcote"
-date: 2018-05-06
-source-url: https://www.scoop.co.nz/stories/PA1805/S00066/act-selects-stephen-berry-for-northcote.htm
+title: ACT selects Stephen Berry for Northcote
+date: 2018-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00066/act-selects-stephen-berry-for-northcote.htm
 author: act-new-zealand
+permalink: /archive/2018/05/06/act-selects-stephen-berry-for-northcote/index.html
+layout: layout.njk
 ---
 ACT selects Stephen Berry for Northcote
 =======================================

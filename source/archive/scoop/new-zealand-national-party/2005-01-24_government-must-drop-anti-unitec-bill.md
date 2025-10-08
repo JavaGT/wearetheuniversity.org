@@ -1,9 +1,12 @@
 ---
 slug: government-must-drop-anti-unitec-bill
-title: "Government must drop anti-Unitec bill"
-date: 2005-01-24
-source-url: https://www.scoop.co.nz/stories/PA0501/S00186/government-must-drop-anti-unitec-bill.htm
+title: Government must drop anti-Unitec bill
+date: 2005-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00186/government-must-drop-anti-unitec-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/24/government-must-drop-anti-unitec-bill/index.html
+layout: layout.njk
 ---
 Government must drop anti-Unitec bill
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: poverty-hurting-our-kids-education
-title: "Poverty hurting our kids’ education"
-date: 2012-09-23
-source-url: https://www.scoop.co.nz/stories/PA1209/S00357/poverty-hurting-our-kids-education.htm
+title: Poverty hurting our kids’ education
+date: 2012-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00357/poverty-hurting-our-kids-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/23/poverty-hurting-our-kids-education/index.html
+layout: layout.njk
 ---
 Poverty hurting our kids’ education
 ===================================

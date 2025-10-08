@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-address-&-reply-debate-speech
-title: "Winston Peters Address & Reply Debate Speech"
-date: 2004-02-10
-source-url: https://www.scoop.co.nz/stories/PA0402/S00140/winston-peters-address-reply-debate-speech.htm
+title: Winston Peters Address & Reply Debate Speech
+date: 2004-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00140/winston-peters-address-reply-debate-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2004/02/10/winston-peters-address-/index.html
+layout: layout.njk
 ---
 Winston Peters Address & Reply Debate Speech
 ============================================

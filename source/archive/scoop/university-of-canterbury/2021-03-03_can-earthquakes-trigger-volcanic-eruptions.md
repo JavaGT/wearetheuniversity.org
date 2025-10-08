@@ -1,9 +1,12 @@
 ---
 slug: can-earthquakes-trigger-volcanic-eruptions
-title: "Can Earthquakes Trigger Volcanic Eruptions?"
-date: 2021-03-03
-source-url: https://www.scoop.co.nz/stories/SC2103/S00005/can-earthquakes-trigger-volcanic-eruptions.htm
+title: Can Earthquakes Trigger Volcanic Eruptions?
+date: 2021-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2103/S00005/can-earthquakes-trigger-volcanic-eruptions.htm
 author: university-of-canterbury
+permalink: /archive/2021/03/03/can-earthquakes-trigger-volcanic-eruptions/index.html
+layout: layout.njk
 ---
 Can Earthquakes Trigger Volcanic Eruptions?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: education-minister-announces-decade-old-policy
-title: "Education Minister Announces Decade-Old Policy"
-date: 2015-12-09
-source-url: https://www.scoop.co.nz/stories/PA1512/S00205/education-minister-announces-decade-old-policy.htm
+title: Education Minister Announces Decade-Old Policy
+date: 2015-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00205/education-minister-announces-decade-old-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2015/12/09/education-minister-announces-decade-old-policy/index.html
+layout: layout.njk
 ---
 Education Minister Announces Decade-Old Policy
 ==============================================

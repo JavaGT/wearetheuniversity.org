@@ -1,9 +1,12 @@
 ---
 slug: pink-ladies-ripe-for-the-picking
-title: "Pink Ladies ripe for the picking"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/SC0704/S00051/pink-ladies-ripe-for-the-picking.htm
+title: Pink Ladies ripe for the picking
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0704/S00051/pink-ladies-ripe-for-the-picking.htm
 author: massey-university
+permalink: /archive/2007/04/26/pink-ladies-ripe-for-the-picking/index.html
+layout: layout.njk
 ---
 Pink Ladies ripe for the picking
 ================================

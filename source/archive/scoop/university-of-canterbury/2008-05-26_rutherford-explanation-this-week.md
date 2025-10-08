@@ -1,9 +1,12 @@
 ---
 slug: rutherford-explanation-this-week
-title: "Rutherford Explanation This Week"
-date: 2008-05-26
-source-url: https://www.scoop.co.nz/stories/SC0805/S00061/rutherford-explanation-this-week.htm
+title: Rutherford Explanation This Week
+date: 2008-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0805/S00061/rutherford-explanation-this-week.htm
 author: university-of-canterbury
+permalink: /archive/2008/05/26/rutherford-explanation-this-week/index.html
+layout: layout.njk
 ---
 Rutherford Explanation This Week
 ================================

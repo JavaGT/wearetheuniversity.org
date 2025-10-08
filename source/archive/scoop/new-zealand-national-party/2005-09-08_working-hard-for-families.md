@@ -1,9 +1,11 @@
 ---
 slug: working-hard-for-families
-title: "Working Hard for Families"
-date: 2005-09-08
+title: Working Hard for Families
+date: 2005-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00200/working-hard-for-families.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/08/working-hard-for-families/index.html
+layout: layout.njk
 ---
 Working Hard for Families
 =========================

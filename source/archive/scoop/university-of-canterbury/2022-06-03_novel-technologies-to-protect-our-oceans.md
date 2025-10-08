@@ -1,9 +1,12 @@
 ---
 slug: novel-technologies-to-protect-our-oceans
-title: "Novel Technologies To Protect Our Oceans"
-date: 2022-06-03
-source-url: https://www.scoop.co.nz/stories/SC2206/S00005/novel-technologies-to-protect-our-oceans.htm
+title: Novel Technologies To Protect Our Oceans
+date: 2022-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2206/S00005/novel-technologies-to-protect-our-oceans.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/03/novel-technologies-to-protect-our-oceans/index.html
+layout: layout.njk
 ---
 Novel Technologies To Protect Our Oceans
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: exodus-to-australia-worsens
-title: "Exodus to Australia Worsens"
-date: 2011-11-22
+title: Exodus to Australia Worsens
+date: 2011-11-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1111/S00598/exodus-to-australia-worsens.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/11/22/exodus-to-australia-worsens/index.html
+layout: layout.njk
 ---
 Exodus to Australia Worsens
 ===========================

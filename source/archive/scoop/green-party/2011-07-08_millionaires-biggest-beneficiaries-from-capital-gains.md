@@ -1,9 +1,13 @@
 ---
 slug: millionaires-biggest-beneficiaries-from-capital-gains
-title: "Millionaires biggest beneficiaries from capital gains"
-date: 2011-07-08
-source-url: https://www.scoop.co.nz/stories/PA1107/S00141/millionaires-biggest-beneficiaries-from-capital-gains.htm
+title: Millionaires biggest beneficiaries from capital gains
+date: 2011-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00141/millionaires-biggest-beneficiaries-from-capital-gains.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/08/millionaires-biggest-beneficiaries-from-capital-gains/index.html
+layout: layout.njk
 ---
 Millionaires biggest beneficiaries from capital gains
 =====================================================

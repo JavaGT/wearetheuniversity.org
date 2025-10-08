@@ -1,9 +1,13 @@
 ---
 slug: ilam-lec-to-confirm-james-dann-as-labour-candidate
-title: "Ilam LEC to confirm James Dann as Labour candidate"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PO1404/S00208/ilam-lec-to-confirm-james-dann-as-labour-candidate.htm
+title: Ilam LEC to confirm James Dann as Labour candidate
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00208/ilam-lec-to-confirm-james-dann-as-labour-candidate.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/14/ilam-lec-to-confirm-james-dann-as-labour-candidate/index.html
+layout: layout.njk
 ---
 Ilam LEC to confirm James Dann as Labour candidate
 ==================================================

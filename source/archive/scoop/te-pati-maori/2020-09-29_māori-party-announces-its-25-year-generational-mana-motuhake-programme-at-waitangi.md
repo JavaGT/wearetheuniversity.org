@@ -1,9 +1,15 @@
 ---
-slug: māori-party-announces-its-25-year-generational-mana-motuhake-programme-at-waitangi
-title: "Māori Party Announces Its 25 Year Generational Mana Motuhake Programme At Waitangi"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/PO2009/S00429/maori-party-announces-its-25-year-generational-mana-motuhake-programme-at-waitangi.htm
+slug: >-
+  māori-party-announces-its-25-year-generational-mana-motuhake-programme-at-waitangi
+title: >-
+  Māori Party Announces Its 25 Year Generational Mana Motuhake Programme At
+  Waitangi
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00429/maori-party-announces-its-25-year-generational-mana-motuhake-programme-at-waitangi.htm
 author: te-pati-maori
+permalink: /archive/2020/09/29/m/index.html
+layout: layout.njk
 ---
 Māori Party Announces Its 25 Year Generational Mana Motuhake Programme At Waitangi
 ==================================================================================

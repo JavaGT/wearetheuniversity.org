@@ -1,9 +1,12 @@
 ---
 slug: flavell-hui-for-maori-and-pacific-literacy
-title: "Flavell: Hui for Maori and Pacific Literacy"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/PA0902/S00227/flavell-hui-for-maori-and-pacific-literacy.htm
+title: 'Flavell: Hui for Maori and Pacific Literacy'
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00227/flavell-hui-for-maori-and-pacific-literacy.htm
 author: te-pati-maori
+permalink: /archive/2009/02/17/flavell-hui-for-maori-and-pacific-literacy/index.html
+layout: layout.njk
 ---
 Flavell: Hui for Maori and Pacific Literacy
 ===========================================

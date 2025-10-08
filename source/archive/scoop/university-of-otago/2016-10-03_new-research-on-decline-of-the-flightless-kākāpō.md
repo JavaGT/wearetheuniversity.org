@@ -1,9 +1,12 @@
 ---
 slug: new-research-on-decline-of-the-flightless-kākāpō
-title: "New research on decline of the flightless Kākāpō"
-date: 2016-10-03
-source-url: https://www.scoop.co.nz/stories/SC1610/S00001/new-research-on-decline-of-the-flightless-kakapo.htm
+title: New research on decline of the flightless Kākāpō
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00001/new-research-on-decline-of-the-flightless-kakapo.htm
 author: university-of-otago
+permalink: /archive/2016/10/03/new-research-on-decline-of-the-flightless-k/index.html
+layout: layout.njk
 ---
 New research on decline of the flightless Kākāpō
 ================================================

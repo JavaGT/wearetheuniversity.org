@@ -1,9 +1,33 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>University of Auckland enters into partnership with essential news venture – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>University of Auckland enters into partnership with essential news venture</h2><h3><span></span></h3><p>Mon Mar 13 2017 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>University of Auckland enters into partnership with essential news venture</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>University of Auckland enters into partnership with essential news venture</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>University of Auckland enters into partnership with essential news venture</h1>
 <p>13 March 2017</p>
 <p>The University of Auckland is a leading supporter of <em>Newsroom</em>, a new independent current affairs and news website.</p>
-<p><em>Newsroom</em> is being developed by former head of news at MediaWorks (which includes television channel <em>Three</em>) Mark Jennings, and Tim Murphy, former editor-in-chief of the <em>New Zealand Herald</em>.  The website, which launched today, has an editorial team of 16 based in Auckland and Wellington.  </p>
+<p><em>Newsroom</em> is being developed by former head of news at MediaWorks (which includes television channel <em>Three</em>) Mark Jennings, and Tim Murphy, former editor-in-chief of the <em>New Zealand Herald</em>.  The website, which launched today, has an editorial team of 16 based in Auckland and Wellington.</p>
 <p>The University, as a founding partner of the news venture, will provide high-quality content and expert commentary for the site. It will join Holden New Zealand, telecommunications company Chorus, and Victoria University of Wellington as initial sponsors.</p>
-<p>University of Auckland Vice-Chancellor, Professor Stuart McCutcheon says the University is uniquely placed to provide informed content and research-based analysis on issues which are critical to the country&#39;s future.</p>
+<p>University of Auckland Vice-Chancellor, Professor Stuart McCutcheon says the University is uniquely placed to provide informed content and research-based analysis on issues which are critical to the country's future.</p>
 <p>“In this rapidly changing world there is an appetite for high-grade, trusted content and our researchers and academics are already leaders in providing authoritative and informed news and expert commentary.</p>
 <p>“<em>Newsroom</em> is committed to credible and balanced journalism, and this is an opportunity for us to work together and generate a thoughtful New Zealand perspective, which adds to a broader global view. We also look forward to working with Victoria University on this initiative.”</p>
 <p>Mark Jennings says universities have a vital role in informing the public.</p>
@@ -14,4 +38,25 @@
 <p>Email: <a href="mailto:g.davila@auckland.ac.nz">g.davila@auckland.ac.nz</a></p>
 <p>Pete Barnao | Media Relations Adviser – Team Leader</p>
 <p>Email: <a href="mailto:p.barnao@auckland.ac.nz">p.barnao@auckland.ac.nz</a></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

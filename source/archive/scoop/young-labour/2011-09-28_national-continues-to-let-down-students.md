@@ -1,9 +1,12 @@
 ---
 slug: national-continues-to-let-down-students
-title: "National continues to let down students"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00433/national-continues-to-let-down-students.htm
+title: National continues to let down students
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00433/national-continues-to-let-down-students.htm
 author: young-labour
+permalink: /archive/2011/09/28/national-continues-to-let-down-students/index.html
+layout: layout.njk
 ---
 National continues to let down students
 =======================================

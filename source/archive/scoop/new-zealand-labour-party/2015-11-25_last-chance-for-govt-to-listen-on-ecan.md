@@ -1,9 +1,12 @@
 ---
 slug: last-chance-for-govt-to-listen-on-ecan
-title: "Last chance for Govt to listen on ECan"
-date: 2015-11-25
-source-url: https://www.scoop.co.nz/stories/PA1511/S00469/last-chance-for-govt-to-listen-on-ecan.htm
+title: Last chance for Govt to listen on ECan
+date: 2015-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00469/last-chance-for-govt-to-listen-on-ecan.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/25/last-chance-for-govt-to-listen-on-ecan/index.html
+layout: layout.njk
 ---
 Last chance for Govt to listen on ECan
 ======================================

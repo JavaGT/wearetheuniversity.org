@@ -1,9 +1,12 @@
 ---
 slug: debt-monster-to-steal-christmas
-title: "Debt Monster to Steal Christmas"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/ED0512/S00046/debt-monster-to-steal-christmas.htm
+title: Debt Monster to Steal Christmas
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00046/debt-monster-to-steal-christmas.htm
 author: auckland-university-students-association
+permalink: /archive/2005/12/12/debt-monster-to-steal-christmas/index.html
+layout: layout.njk
 ---
 Debt Monster to Steal Christmas
 ===============================

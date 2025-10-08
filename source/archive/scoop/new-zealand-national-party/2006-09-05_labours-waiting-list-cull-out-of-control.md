@@ -1,9 +1,12 @@
 ---
 slug: labours-waiting-list-cull-out-of-control
-title: "Labour's waiting list cull out of control"
-date: 2006-09-05
-source-url: https://www.scoop.co.nz/stories/PA0609/S00089/labours-waiting-list-cull-out-of-control.htm
+title: Labour's waiting list cull out of control
+date: 2006-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00089/labours-waiting-list-cull-out-of-control.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/05/labours-waiting-list-cull-out-of-control/index.html
+layout: layout.njk
 ---
 Labour's waiting list cull out of control
 =========================================

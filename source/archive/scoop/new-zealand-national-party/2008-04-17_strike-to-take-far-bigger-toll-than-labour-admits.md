@@ -1,9 +1,13 @@
 ---
 slug: strike-to-take-far-bigger-toll-than-labour-admits
-title: "Strike to take far bigger toll than Labour admits"
-date: 2008-04-17
-source-url: https://www.scoop.co.nz/stories/PA0804/S00449/strike-to-take-far-bigger-toll-than-labour-admits.htm
+title: Strike to take far bigger toll than Labour admits
+date: 2008-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00449/strike-to-take-far-bigger-toll-than-labour-admits.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/04/17/strike-to-take-far-bigger-toll-than-labour-admits/index.html
+layout: layout.njk
 ---
 Strike to take far bigger toll than Labour admits
 =================================================

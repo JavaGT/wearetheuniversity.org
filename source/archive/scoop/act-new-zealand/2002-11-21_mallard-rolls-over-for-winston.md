@@ -1,9 +1,12 @@
 ---
 slug: mallard-rolls-over-for-winston
-title: "Mallard Rolls Over For Winston"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/PA0211/S00491/mallard-rolls-over-for-winston.htm
+title: Mallard Rolls Over For Winston
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00491/mallard-rolls-over-for-winston.htm
 author: act-new-zealand
+permalink: /archive/2002/11/21/mallard-rolls-over-for-winston/index.html
+layout: layout.njk
 ---
 Mallard Rolls Over For Winston
 ==============================

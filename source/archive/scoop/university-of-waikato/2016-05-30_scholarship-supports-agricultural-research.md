@@ -1,9 +1,12 @@
 ---
 slug: scholarship-supports-agricultural-research
-title: "Scholarship supports agricultural research"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/ED1605/S00127/scholarship-supports-agricultural-research.htm
+title: Scholarship supports agricultural research
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00127/scholarship-supports-agricultural-research.htm
 author: university-of-waikato
+permalink: /archive/2016/05/30/scholarship-supports-agricultural-research/index.html
+layout: layout.njk
 ---
 Scholarship supports agricultural research
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: motion-in-house-to-commemorate-hungarian-uprising
-title: "Motion in House to commemorate Hungarian uprising"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/PA0610/S00436/motion-in-house-to-commemorate-hungarian-uprising.htm
+title: Motion in House to commemorate Hungarian uprising
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00436/motion-in-house-to-commemorate-hungarian-uprising.htm
 author: green-party
+permalink: >-
+  /archive/2006/10/24/motion-in-house-to-commemorate-hungarian-uprising/index.html
+layout: layout.njk
 ---
 Motion in House to commemorate Hungarian uprising
 =================================================

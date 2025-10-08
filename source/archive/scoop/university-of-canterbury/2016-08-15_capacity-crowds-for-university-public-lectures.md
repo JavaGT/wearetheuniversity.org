@@ -1,9 +1,12 @@
 ---
 slug: capacity-crowds-for-university-public-lectures
-title: "Capacity crowds for University public lectures"
-date: 2016-08-15
-source-url: https://www.scoop.co.nz/stories/PO1608/S00164/capacity-crowds-for-university-public-lectures.htm
+title: Capacity crowds for University public lectures
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00164/capacity-crowds-for-university-public-lectures.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/15/capacity-crowds-for-university-public-lectures/index.html
+layout: layout.njk
 ---
 Capacity crowds for University public lectures
 ==============================================

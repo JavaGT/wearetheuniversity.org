@@ -1,9 +1,12 @@
 ---
 slug: nzei-supports-language-teaching-in-schools
-title: "Nzei Supports Language Teaching In Schools"
-date: 2003-06-17
-source-url: https://www.scoop.co.nz/stories/ED0306/S00034/nzei-supports-language-teaching-in-schools.htm
+title: Nzei Supports Language Teaching In Schools
+date: 2003-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00034/nzei-supports-language-teaching-in-schools.htm
 author: nzei
+permalink: /archive/2003/06/17/nzei-supports-language-teaching-in-schools/index.html
+layout: layout.njk
 ---
 Nzei Supports Language Teaching In Schools
 ==========================================

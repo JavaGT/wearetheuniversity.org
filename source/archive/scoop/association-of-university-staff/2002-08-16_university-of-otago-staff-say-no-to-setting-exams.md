@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-staff-say-no-to-setting-exams
-title: "University of Otago staff say no to setting exams"
-date: 2002-08-16
-source-url: https://www.scoop.co.nz/stories/ED0208/S00020/university-of-otago-staff-say-no-to-setting-exams.htm
+title: University of Otago staff say no to setting exams
+date: 2002-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00020/university-of-otago-staff-say-no-to-setting-exams.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2002/08/16/university-of-otago-staff-say-no-to-setting-exams/index.html
+layout: layout.njk
 ---
 University of Otago staff say no to setting exams
 =================================================

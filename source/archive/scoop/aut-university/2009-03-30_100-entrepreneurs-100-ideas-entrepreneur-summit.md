@@ -1,9 +1,12 @@
 ---
 slug: 100-entrepreneurs-100-ideas-entrepreneur-summit
-title: "100 entrepreneurs, 100 ideas: Entrepreneur Summit"
-date: 2009-03-30
-source-url: https://www.scoop.co.nz/stories/BU0903/S00687/100-entrepreneurs-100-ideas-entrepreneur-summit.htm
+title: '100 entrepreneurs, 100 ideas: Entrepreneur Summit'
+date: 2009-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0903/S00687/100-entrepreneurs-100-ideas-entrepreneur-summit.htm
 author: aut-university
+permalink: /archive/2009/03/30/100-entrepreneurs-100-ideas-entrepreneur-summit/index.html
+layout: layout.njk
 ---
 100 entrepreneurs, 100 ideas: Entrepreneur Summit
 =================================================

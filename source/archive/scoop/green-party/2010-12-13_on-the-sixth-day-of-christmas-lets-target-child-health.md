@@ -1,9 +1,13 @@
 ---
 slug: on-the-sixth-day-of-christmas-lets-target-child-health
-title: "On the sixth day of Christmas, let’s target child health"
-date: 2010-12-13
-source-url: https://www.scoop.co.nz/stories/PA1012/S00228/on-the-sixth-day-of-christmas-lets-target-child-health.htm
+title: On the sixth day of Christmas, let’s target child health
+date: 2010-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00228/on-the-sixth-day-of-christmas-lets-target-child-health.htm
 author: green-party
+permalink: >-
+  /archive/2010/12/13/on-the-sixth-day-of-christmas-lets-target-child-health/index.html
+layout: layout.njk
 ---
 On the sixth day of Christmas, let’s target child health
 ========================================================

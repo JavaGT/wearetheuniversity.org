@@ -1,9 +1,12 @@
 ---
 slug: community-mentor-earns-victoria-degrees
-title: "Community mentor earns Victoria degrees"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/ED1212/S00105/community-mentor-earns-victoria-degrees.htm
+title: Community mentor earns Victoria degrees
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00105/community-mentor-earns-victoria-degrees.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/12/14/community-mentor-earns-victoria-degrees/index.html
+layout: layout.njk
 ---
 Community mentor earns Victoria degrees
 =======================================

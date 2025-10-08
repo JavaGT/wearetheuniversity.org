@@ -1,9 +1,12 @@
 ---
 slug: wimpy-response-by-minister-over-velvetleaf
-title: "Wimpy Response by Minister Over Velvetleaf"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/PA1605/S00238/wimpy-response-by-minister-over-velvetleaf.htm
+title: Wimpy Response by Minister Over Velvetleaf
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00238/wimpy-response-by-minister-over-velvetleaf.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/12/wimpy-response-by-minister-over-velvetleaf/index.html
+layout: layout.njk
 ---
 Wimpy Response by Minister Over Velvetleaf
 ==========================================

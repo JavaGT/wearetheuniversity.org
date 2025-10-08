@@ -1,9 +1,12 @@
 ---
 slug: better-home-heating-improves-childhood-asthma
-title: "Better Home Heating Improves Childhood Asthma"
-date: 2008-09-24
-source-url: https://www.scoop.co.nz/stories/GE0809/S00145/better-home-heating-improves-childhood-asthma.htm
+title: Better Home Heating Improves Childhood Asthma
+date: 2008-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00145/better-home-heating-improves-childhood-asthma.htm
 author: university-of-otago
+permalink: /archive/2008/09/24/better-home-heating-improves-childhood-asthma/index.html
+layout: layout.njk
 ---
 Better Home Heating Improves Childhood Asthma
 =============================================

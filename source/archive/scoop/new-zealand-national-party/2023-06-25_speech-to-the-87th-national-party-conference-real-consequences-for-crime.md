@@ -1,9 +1,13 @@
 ---
 slug: speech-to-the-87th-national-party-conference-real-consequences-for-crime
-title: "Speech To The 87th National Party Conference: Real Consequences For Crime"
-date: 2023-06-25
-source-url: https://www.scoop.co.nz/stories/PA2306/S00160/speech-to-the-87th-national-party-conference-real-consequences-for-crime.htm
+title: 'Speech To The 87th National Party Conference: Real Consequences For Crime'
+date: 2023-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00160/speech-to-the-87th-national-party-conference-real-consequences-for-crime.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/25/speech-to-the-87th-national-party-conference-real-consequences-for-crime/index.html
+layout: layout.njk
 ---
 Speech To The 87th National Party Conference: Real Consequences For Crime
 =========================================================================

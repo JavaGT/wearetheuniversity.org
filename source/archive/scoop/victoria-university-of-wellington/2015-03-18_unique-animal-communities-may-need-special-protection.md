@@ -1,9 +1,13 @@
 ---
 slug: unique-animal-communities-may-need-special-protection
-title: "Unique animal communities may need special protection"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/SC1503/S00068/unique-animal-communities-may-need-special-protection.htm
+title: Unique animal communities may need special protection
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00068/unique-animal-communities-may-need-special-protection.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/03/18/unique-animal-communities-may-need-special-protection/index.html
+layout: layout.njk
 ---
 Unique animal communities may need special protection
 =====================================================

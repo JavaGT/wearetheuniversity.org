@@ -1,9 +1,13 @@
 ---
 slug: beaumont-urges-parties-to-support-loan-shark-bill
-title: "Beaumont urges parties to support loan shark bill"
-date: 2010-07-20
-source-url: https://www.scoop.co.nz/stories/PA1007/S00300/beaumont-urges-parties-to-support-loan-shark-bill.htm
+title: Beaumont urges parties to support loan shark bill
+date: 2010-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00300/beaumont-urges-parties-to-support-loan-shark-bill.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/20/beaumont-urges-parties-to-support-loan-shark-bill/index.html
+layout: layout.njk
 ---
 Beaumont urges parties to support loan shark bill
 =================================================

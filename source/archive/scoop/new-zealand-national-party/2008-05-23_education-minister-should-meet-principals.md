@@ -1,9 +1,12 @@
 ---
 slug: education-minister-should-meet-principals
-title: "Education Minister should meet principals"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/PA0805/S00468/education-minister-should-meet-principals.htm
+title: Education Minister should meet principals
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00468/education-minister-should-meet-principals.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/23/education-minister-should-meet-principals/index.html
+layout: layout.njk
 ---
 Education Minister should meet principals
 =========================================

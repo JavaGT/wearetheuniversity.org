@@ -1,9 +1,13 @@
 ---
 slug: oecd-report-shows-huge-impact-of-poverty-on-education
-title: "OECD report shows huge impact of poverty on education"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/ED1602/S00044/oecd-report-shows-huge-impact-of-poverty-on-education.htm
+title: OECD report shows huge impact of poverty on education
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00044/oecd-report-shows-huge-impact-of-poverty-on-education.htm
 author: nzei
+permalink: >-
+  /archive/2016/02/11/oecd-report-shows-huge-impact-of-poverty-on-education/index.html
+layout: layout.njk
 ---
 OECD report shows huge impact of poverty on education
 =====================================================

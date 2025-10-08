@@ -1,9 +1,13 @@
 ---
 slug: two-uc-teams-in-australasian-autonomous-robot-competition
-title: "Two UC teams in Australasian autonomous robot competition"
-date: 2012-09-18
-source-url: https://www.scoop.co.nz/stories/ED1209/S00130/two-uc-teams-in-australasian-autonomous-robot-competition.htm
+title: Two UC teams in Australasian autonomous robot competition
+date: 2012-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00130/two-uc-teams-in-australasian-autonomous-robot-competition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/18/two-uc-teams-in-australasian-autonomous-robot-competition/index.html
+layout: layout.njk
 ---
 Two UC teams in Australasian autonomous robot competition
 =========================================================

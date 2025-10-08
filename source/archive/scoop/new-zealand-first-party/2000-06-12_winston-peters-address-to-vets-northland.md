@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-address-to-vets-northland
-title: "Winston Peters Address To Vets, Northland"
-date: 2000-06-12
-source-url: https://www.scoop.co.nz/stories/PA0006/S00200/winston-peters-address-to-vets-northland.htm
+title: Winston Peters Address To Vets, Northland
+date: 2000-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00200/winston-peters-address-to-vets-northland.htm
 author: new-zealand-first-party
+permalink: /archive/2000/06/12/winston-peters-address-to-vets-northland/index.html
+layout: layout.njk
 ---
 Winston Peters Address To Vets, Northland
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: burning-effigies-a-sign-of-despair
-title: "Burning Effigies a sign of despair."
-date: 2014-08-14
-source-url: https://www.scoop.co.nz/stories/PO1408/S00209/burning-effigies-a-sign-of-despair.htm
+title: Burning Effigies a sign of despair.
+date: 2014-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00209/burning-effigies-a-sign-of-despair.htm
 author: act-new-zealand
+permalink: /archive/2014/08/14/burning-effigies-a-sign-of-despair/index.html
+layout: layout.njk
 ---
 Burning Effigies a sign of despair.
 ===================================

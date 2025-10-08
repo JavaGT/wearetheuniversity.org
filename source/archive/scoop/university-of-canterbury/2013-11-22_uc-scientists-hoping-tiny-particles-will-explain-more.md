@@ -1,9 +1,13 @@
 ---
 slug: uc-scientists-hoping-tiny-particles-will-explain-more
-title: "UC scientists hoping tiny particles will explain more"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/SC1311/S00076/uc-scientists-hoping-tiny-particles-will-explain-more.htm
+title: UC scientists hoping tiny particles will explain more
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00076/uc-scientists-hoping-tiny-particles-will-explain-more.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/22/uc-scientists-hoping-tiny-particles-will-explain-more/index.html
+layout: layout.njk
 ---
 UC scientists hoping tiny particles will explain more
 =====================================================

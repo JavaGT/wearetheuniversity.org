@@ -1,9 +1,12 @@
 ---
 slug: profit-potential-in-organic-farming
-title: "Profit potential in organic farming"
-date: 2005-11-21
-source-url: https://www.scoop.co.nz/stories/BU0511/S00343/profit-potential-in-organic-farming.htm
+title: Profit potential in organic farming
+date: 2005-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0511/S00343/profit-potential-in-organic-farming.htm
 author: massey-university
+permalink: /archive/2005/11/21/profit-potential-in-organic-farming/index.html
+layout: layout.njk
 ---
 Profit potential in organic farming
 ===================================

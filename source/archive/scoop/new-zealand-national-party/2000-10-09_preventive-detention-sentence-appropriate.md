@@ -1,9 +1,12 @@
 ---
 slug: preventive-detention-sentence-appropriate
-title: "Preventive Detention Sentence Appropriate"
-date: 2000-10-09
-source-url: https://www.scoop.co.nz/stories/PA0010/S00166/preventive-detention-sentence-appropriate.htm
+title: Preventive Detention Sentence Appropriate
+date: 2000-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00166/preventive-detention-sentence-appropriate.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/09/preventive-detention-sentence-appropriate/index.html
+layout: layout.njk
 ---
 Preventive Detention Sentence Appropriate
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-day-bittersweet-for-kiwis
-title: "Labour Day bittersweet for Kiwis"
-date: 2012-10-21
-source-url: https://www.scoop.co.nz/stories/PA1210/S00365/labour-day-bittersweet-for-kiwis.htm
+title: Labour Day bittersweet for Kiwis
+date: 2012-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00365/labour-day-bittersweet-for-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/21/labour-day-bittersweet-for-kiwis/index.html
+layout: layout.njk
 ---
 Labour Day bittersweet for Kiwis
 ================================

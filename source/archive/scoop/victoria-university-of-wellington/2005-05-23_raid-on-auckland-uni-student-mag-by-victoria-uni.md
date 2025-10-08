@@ -1,9 +1,13 @@
 ---
 slug: raid-on-auckland-uni-student-mag-by-victoria-uni
-title: "Raid on Auckland Uni student mag by Victoria Uni"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/ED0505/S00098/raid-on-auckland-uni-student-mag-by-victoria-uni.htm
+title: Raid on Auckland Uni student mag by Victoria Uni
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00098/raid-on-auckland-uni-student-mag-by-victoria-uni.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2005/05/23/raid-on-auckland-uni-student-mag-by-victoria-uni/index.html
+layout: layout.njk
 ---
 Raid on Auckland Uni student mag by Victoria Uni
 ================================================

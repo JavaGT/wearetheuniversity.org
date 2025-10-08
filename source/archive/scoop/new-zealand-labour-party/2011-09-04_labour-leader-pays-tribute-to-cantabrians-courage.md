@@ -1,9 +1,13 @@
 ---
 slug: labour-leader-pays-tribute-to-cantabrians-courage
-title: "Labour Leader Pays Tribute To Cantabrians’ Courage"
-date: 2011-09-04
-source-url: https://www.scoop.co.nz/stories/PA1109/S00060/labour-leader-pays-tribute-to-cantabrians-courage.htm
+title: Labour Leader Pays Tribute To Cantabrians’ Courage
+date: 2011-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00060/labour-leader-pays-tribute-to-cantabrians-courage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/04/labour-leader-pays-tribute-to-cantabrians-courage/index.html
+layout: layout.njk
 ---
 Labour Leader Pays Tribute To Cantabrians’ Courage
 ==================================================

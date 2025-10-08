@@ -1,9 +1,13 @@
 ---
 slug: cypress-mine-a-poisonous-solution-to-energy-crisis
-title: "Cypress Mine a poisonous solution to energy crisis"
-date: 2004-04-15
-source-url: https://www.scoop.co.nz/stories/PA0404/S00243/cypress-mine-a-poisonous-solution-to-energy-crisis.htm
+title: Cypress Mine a poisonous solution to energy crisis
+date: 2004-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00243/cypress-mine-a-poisonous-solution-to-energy-crisis.htm
 author: green-party
+permalink: >-
+  /archive/2004/04/15/cypress-mine-a-poisonous-solution-to-energy-crisis/index.html
+layout: layout.njk
 ---
 Cypress Mine a poisonous solution to energy crisis
 ==================================================

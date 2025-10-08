@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-students-left-in-the-lurch
-title: "Thousands of Students Left in the Lurch"
-date: 2015-05-14
-source-url: https://www.scoop.co.nz/stories/PA1505/S00229/thousands-of-students-left-in-the-lurch.htm
+title: Thousands of Students Left in the Lurch
+date: 2015-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00229/thousands-of-students-left-in-the-lurch.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/14/thousands-of-students-left-in-the-lurch/index.html
+layout: layout.njk
 ---
 Thousands of Students Left in the Lurch
 =======================================

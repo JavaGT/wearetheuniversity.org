@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-seek-parents-for-survey-of-school-costs
-title: "Otago researchers seek parents for survey of school costs"
-date: 2014-09-26
-source-url: https://www.scoop.co.nz/stories/ED1409/S00158/otago-researchers-seek-parents-for-survey-of-school-costs.htm
+title: Otago researchers seek parents for survey of school costs
+date: 2014-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00158/otago-researchers-seek-parents-for-survey-of-school-costs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/09/26/otago-researchers-seek-parents-for-survey-of-school-costs/index.html
+layout: layout.njk
 ---
 Otago researchers seek parents for survey of school costs
 =========================================================

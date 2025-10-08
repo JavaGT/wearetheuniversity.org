@@ -1,9 +1,13 @@
 ---
 slug: lincoln-offers-strong-support-for-students-audit
-title: "Lincoln offers strong support for students – audit"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/ED1612/S00048/lincoln-offers-strong-support-for-students-audit.htm
+title: Lincoln offers strong support for students – audit
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00048/lincoln-offers-strong-support-for-students-audit.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/12/13/lincoln-offers-strong-support-for-students-audit/index.html
+layout: layout.njk
 ---
 Lincoln offers strong support for students – audit
 ==================================================

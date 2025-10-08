@@ -1,9 +1,12 @@
 ---
 slug: new-items-added-to-logie-collection
-title: "New items added to Logie Collection"
-date: 2015-05-18
-source-url: https://www.scoop.co.nz/stories/CU1505/S00297/new-items-added-to-logie-collection.htm
+title: New items added to Logie Collection
+date: 2015-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1505/S00297/new-items-added-to-logie-collection.htm
 author: university-of-canterbury
+permalink: /archive/2015/05/18/new-items-added-to-logie-collection/index.html
+layout: layout.njk
 ---
 New items added to Logie Collection
 ===================================

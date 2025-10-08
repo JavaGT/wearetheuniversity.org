@@ -1,9 +1,12 @@
 ---
 slug: mama-and-pepi-packs-deserve-national-roll-out
-title: "Mama And Pepi Packs Deserve National Roll Out"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/PA1504/S00276/mama-and-pepi-packs-deserve-national-roll-out.htm
+title: Mama And Pepi Packs Deserve National Roll Out
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00276/mama-and-pepi-packs-deserve-national-roll-out.htm
 author: new-zealand-first-party
+permalink: /archive/2015/04/22/mama-and-pepi-packs-deserve-national-roll-out/index.html
+layout: layout.njk
 ---
 Mama And Pepi Packs Deserve National Roll Out
 =============================================

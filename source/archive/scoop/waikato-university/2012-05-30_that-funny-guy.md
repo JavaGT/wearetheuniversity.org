@@ -1,9 +1,11 @@
 ---
 slug: that-funny-guy
-title: "That Funny Guy"
-date: 2012-05-30
+title: That Funny Guy
+date: 2012-05-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1205/S00416/that-funny-guy.htm
 author: waikato-university
+permalink: /archive/2012/05/30/that-funny-guy/index.html
+layout: layout.njk
 ---
 That Funny Guy
 ==============

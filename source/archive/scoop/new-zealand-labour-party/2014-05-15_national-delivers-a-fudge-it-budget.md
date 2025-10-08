@@ -1,9 +1,12 @@
 ---
 slug: national-delivers-a-fudge-it-budget
-title: "National delivers a fudge-it budget"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PA1405/S00283/national-delivers-a-fudge-it-budget.htm
+title: National delivers a fudge-it budget
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00283/national-delivers-a-fudge-it-budget.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/15/national-delivers-a-fudge-it-budget/index.html
+layout: layout.njk
 ---
 National delivers a fudge-it budget
 ===================================

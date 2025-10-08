@@ -1,9 +1,12 @@
 ---
 slug: new-historians-showcase-research
-title: "New historians showcase research"
-date: 2006-08-21
-source-url: https://www.scoop.co.nz/stories/ED0608/S00065/new-historians-showcase-research.htm
+title: New historians showcase research
+date: 2006-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00065/new-historians-showcase-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/21/new-historians-showcase-research/index.html
+layout: layout.njk
 ---
 New historians showcase research
 ================================

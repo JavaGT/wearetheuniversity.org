@@ -1,9 +1,12 @@
 ---
 slug: bail-for-algerian-affairs-spokesperson
-title: "Bail for Algerian Affairs Spokesperson"
-date: 2004-12-09
-source-url: https://www.scoop.co.nz/stories/PO0412/S00116/bail-for-algerian-affairs-spokesperson.htm
+title: Bail for Algerian Affairs Spokesperson
+date: 2004-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00116/bail-for-algerian-affairs-spokesperson.htm
 author: auckland-university-students-association
+permalink: /archive/2004/12/09/bail-for-algerian-affairs-spokesperson/index.html
+layout: layout.njk
 ---
 Bail for Algerian Affairs Spokesperson
 ======================================

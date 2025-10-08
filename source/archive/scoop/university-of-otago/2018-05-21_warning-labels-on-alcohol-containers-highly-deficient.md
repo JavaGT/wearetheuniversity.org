@@ -1,9 +1,13 @@
 ---
 slug: warning-labels-on-alcohol-containers-highly-deficient
-title: "Warning labels on alcohol containers highly deficient"
-date: 2018-05-21
-source-url: https://www.scoop.co.nz/stories/GE1805/S00091/warning-labels-on-alcohol-containers-highly-deficient.htm
+title: Warning labels on alcohol containers highly deficient
+date: 2018-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00091/warning-labels-on-alcohol-containers-highly-deficient.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/21/warning-labels-on-alcohol-containers-highly-deficient/index.html
+layout: layout.njk
 ---
 Warning labels on alcohol containers highly deficient
 =====================================================

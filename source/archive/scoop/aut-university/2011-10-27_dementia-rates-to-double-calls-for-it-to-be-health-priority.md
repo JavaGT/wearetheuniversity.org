@@ -1,9 +1,13 @@
 ---
 slug: dementia-rates-to-double-calls-for-it-to-be-health-priority
-title: "Dementia rates to double, calls for it to be health priority"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/GE1110/S00136/dementia-rates-to-double-calls-for-it-to-be-health-priority.htm
+title: Dementia rates to double, calls for it to be health priority
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1110/S00136/dementia-rates-to-double-calls-for-it-to-be-health-priority.htm
 author: aut-university
+permalink: >-
+  /archive/2011/10/27/dementia-rates-to-double-calls-for-it-to-be-health-priority/index.html
+layout: layout.njk
 ---
 Dementia rates to double, calls for it to be health priority
 ============================================================

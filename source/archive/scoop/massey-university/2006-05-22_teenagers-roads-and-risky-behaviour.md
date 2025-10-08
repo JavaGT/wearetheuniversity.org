@@ -1,9 +1,12 @@
 ---
 slug: teenagers-roads-and-risky-behaviour
-title: "Teenagers, roads, and risky behaviour"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/ED0605/S00076/teenagers-roads-and-risky-behaviour.htm
+title: Teenagers, roads, and risky behaviour
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00076/teenagers-roads-and-risky-behaviour.htm
 author: massey-university
+permalink: /archive/2006/05/22/teenagers-roads-and-risky-behaviour/index.html
+layout: layout.njk
 ---
 Teenagers, roads, and risky behaviour
 =====================================

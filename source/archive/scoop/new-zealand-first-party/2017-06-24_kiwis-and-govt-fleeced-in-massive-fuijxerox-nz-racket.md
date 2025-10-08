@@ -1,9 +1,13 @@
 ---
 slug: kiwis-and-govt-fleeced-in-massive-fuijxerox-nz-racket
-title: "Kiwis And Govt Fleeced in Massive Fuijxerox NZ Racket"
-date: 2017-06-24
-source-url: https://www.scoop.co.nz/stories/PO1706/S00328/kiwis-and-govt-fleeced-in-massive-fuijxerox-nz-racket.htm
+title: Kiwis And Govt Fleeced in Massive Fuijxerox NZ Racket
+date: 2017-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00328/kiwis-and-govt-fleeced-in-massive-fuijxerox-nz-racket.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/24/kiwis-and-govt-fleeced-in-massive-fuijxerox-nz-racket/index.html
+layout: layout.njk
 ---
 Kiwis And Govt Fleeced in Massive Fuijxerox NZ Racket
 =====================================================

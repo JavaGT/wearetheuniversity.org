@@ -1,9 +1,13 @@
 ---
 slug: green-party-candidate-to-share-lessons-in-leadership
-title: "Green Party candidate  to share lessons in leadership"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/PO1406/S00366/green-party-candidate-to-share-lessons-in-leadership.htm
+title: Green Party candidate  to share lessons in leadership
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00366/green-party-candidate-to-share-lessons-in-leadership.htm
 author: green-party
+permalink: >-
+  /archive/2014/06/23/green-party-candidate-to-share-lessons-in-leadership/index.html
+layout: layout.njk
 ---
 Green Party candidate to share lessons in leadership
 ====================================================

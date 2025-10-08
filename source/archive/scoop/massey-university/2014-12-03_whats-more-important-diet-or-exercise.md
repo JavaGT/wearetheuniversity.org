@@ -1,9 +1,12 @@
 ---
 slug: whats-more-important-diet-or-exercise
-title: "What’s more important - diet or exercise?"
-date: 2014-12-03
-source-url: https://www.scoop.co.nz/stories/ED1412/S00026/whats-more-important-diet-or-exercise.htm
+title: What’s more important - diet or exercise?
+date: 2014-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00026/whats-more-important-diet-or-exercise.htm
 author: massey-university
+permalink: /archive/2014/12/03/whats-more-important-diet-or-exercise/index.html
+layout: layout.njk
 ---
 What’s more important - diet or exercise?
 =========================================

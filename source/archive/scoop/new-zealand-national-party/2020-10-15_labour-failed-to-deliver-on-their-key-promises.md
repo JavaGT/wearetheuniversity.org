@@ -1,9 +1,12 @@
 ---
 slug: labour-failed-to-deliver-on-their-key-promises
-title: "Labour Failed To Deliver On Their Key Promises"
-date: 2020-10-15
-source-url: https://www.scoop.co.nz/stories/PA2010/S00098/labour-failed-to-deliver-on-their-key-promises.htm
+title: Labour Failed To Deliver On Their Key Promises
+date: 2020-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00098/labour-failed-to-deliver-on-their-key-promises.htm
 author: new-zealand-national-party
+permalink: /archive/2020/10/15/labour-failed-to-deliver-on-their-key-promises/index.html
+layout: layout.njk
 ---
 Labour Failed To Deliver On Their Key Promises
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-misses-the-bus-with-transport-bias
-title: "Government misses the bus with transport bias"
-date: 2021-09-08
-source-url: https://www.scoop.co.nz/stories/PA2109/S00070/government-misses-the-bus-with-transport-bias.htm
+title: Government misses the bus with transport bias
+date: 2021-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00070/government-misses-the-bus-with-transport-bias.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/08/government-misses-the-bus-with-transport-bias/index.html
+layout: layout.njk
 ---
 Government misses the bus with transport bias
 =============================================

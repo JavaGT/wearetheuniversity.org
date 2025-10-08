@@ -1,9 +1,12 @@
 ---
 slug: english-pulling-a-fast-one-on-state-house-build
-title: "English pulling a fast one on state house build"
-date: 2017-02-08
-source-url: https://www.scoop.co.nz/stories/PA1702/S00101/english-pulling-a-fast-one-on-state-house-build.htm
+title: English pulling a fast one on state house build
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00101/english-pulling-a-fast-one-on-state-house-build.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/02/08/english-pulling-a-fast-one-on-state-house-build/index.html
+layout: layout.njk
 ---
 English pulling a fast one on state house build
 ===============================================

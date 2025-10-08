@@ -1,9 +1,13 @@
 ---
 slug: teachers-parents-preparing-for-action-on-charter-schools
-title: "Teachers/parents preparing for action on charter schools"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/ED1208/S00118/teachersparents-preparing-for-action-on-charter-schools.htm
+title: Teachers/parents preparing for action on charter schools
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00118/teachersparents-preparing-for-action-on-charter-schools.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/22/teachers-parents-preparing-for-action-on-charter-schools/index.html
+layout: layout.njk
 ---
 Teachers/parents preparing for action on charter schools
 ========================================================

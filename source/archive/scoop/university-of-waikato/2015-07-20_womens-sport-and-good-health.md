@@ -1,9 +1,11 @@
 ---
 slug: womens-sport-and-good-health
-title: "Women’s sport and good health"
-date: 2015-07-20
+title: Women’s sport and good health
+date: 2015-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1507/S00290/womens-sport-and-good-health.htm
 author: university-of-waikato
+permalink: /archive/2015/07/20/womens-sport-and-good-health/index.html
+layout: layout.njk
 ---
 Women’s sport and good health
 =============================

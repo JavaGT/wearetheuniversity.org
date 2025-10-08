@@ -1,9 +1,13 @@
 ---
 slug: statement-from-labour-education-spokesperson-jan-tinetti
-title: "Statement From Labour Education Spokesperson Jan Tinetti"
-date: 2024-07-11
-source-url: https://www.scoop.co.nz/stories/PA2407/S00079/statement-from-labour-education-spokesperson-jan-tinetti.htm
+title: Statement From Labour Education Spokesperson Jan Tinetti
+date: 2024-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00079/statement-from-labour-education-spokesperson-jan-tinetti.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/07/11/statement-from-labour-education-spokesperson-jan-tinetti/index.html
+layout: layout.njk
 ---
 Statement From Labour Education Spokesperson Jan Tinetti
 ========================================================

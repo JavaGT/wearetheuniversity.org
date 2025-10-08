@@ -1,9 +1,12 @@
 ---
 slug: wood-burning-fires-a-winter-health-hazard
-title: "Wood burning fires a winter health hazard"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/SC1305/S00029/wood-burning-fires-a-winter-health-hazard.htm
+title: Wood burning fires a winter health hazard
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00029/wood-burning-fires-a-winter-health-hazard.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/07/wood-burning-fires-a-winter-health-hazard/index.html
+layout: layout.njk
 ---
 Wood burning fires a winter health hazard
 =========================================

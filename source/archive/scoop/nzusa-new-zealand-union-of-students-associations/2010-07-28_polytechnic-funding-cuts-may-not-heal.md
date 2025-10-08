@@ -1,9 +1,12 @@
 ---
 slug: polytechnic-funding-cuts-may-not-heal
-title: "Polytechnic funding cuts may not heal"
-date: 2010-07-28
-source-url: https://www.scoop.co.nz/stories/ED1007/S00102/polytechnic-funding-cuts-may-not-heal.htm
+title: Polytechnic funding cuts may not heal
+date: 2010-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00102/polytechnic-funding-cuts-may-not-heal.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/07/28/polytechnic-funding-cuts-may-not-heal/index.html
+layout: layout.njk
 ---
 Polytechnic funding cuts may not heal
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: virtual-reality-providing-real-world-literacy-tool
-title: "Virtual Reality providing real-world literacy tool"
-date: 2018-08-17
-source-url: https://www.scoop.co.nz/stories/ED1808/S00041/virtual-reality-providing-real-world-literacy-tool.htm
+title: Virtual Reality providing real-world literacy tool
+date: 2018-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00041/virtual-reality-providing-real-world-literacy-tool.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/17/virtual-reality-providing-real-world-literacy-tool/index.html
+layout: layout.njk
 ---
 Virtual Reality providing real-world literacy tool
 ==================================================

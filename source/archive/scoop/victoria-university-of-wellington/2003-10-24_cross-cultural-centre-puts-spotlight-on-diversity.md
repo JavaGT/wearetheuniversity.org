@@ -1,9 +1,13 @@
 ---
 slug: cross-cultural-centre-puts-spotlight-on-diversity
-title: "Cross-Cultural Centre puts Spotlight on Diversity"
-date: 2003-10-24
-source-url: https://www.scoop.co.nz/stories/ED0310/S00100/cross-cultural-centre-puts-spotlight-on-diversity.htm
+title: Cross-Cultural Centre puts Spotlight on Diversity
+date: 2003-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00100/cross-cultural-centre-puts-spotlight-on-diversity.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/10/24/cross-cultural-centre-puts-spotlight-on-diversity/index.html
+layout: layout.njk
 ---
 Cross-Cultural Centre puts Spotlight on Diversity
 =================================================

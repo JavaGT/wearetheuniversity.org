@@ -1,9 +1,12 @@
 ---
 slug: future-investment-fund-rort-revealed
-title: "Future Investment Fund Rort Revealed"
-date: 2016-06-06
-source-url: https://www.scoop.co.nz/stories/PA1606/S00102/future-investment-fund-rort-revealed.htm
+title: Future Investment Fund Rort Revealed
+date: 2016-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00102/future-investment-fund-rort-revealed.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/06/future-investment-fund-rort-revealed/index.html
+layout: layout.njk
 ---
 Future Investment Fund Rort Revealed
 ====================================

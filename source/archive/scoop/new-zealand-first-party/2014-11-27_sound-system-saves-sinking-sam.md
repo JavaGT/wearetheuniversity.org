@@ -1,9 +1,12 @@
 ---
 slug: sound-system-saves-sinking-sam
-title: "Sound System Saves Sinking Sam"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/PA1411/S00393/sound-system-saves-sinking-sam.htm
+title: Sound System Saves Sinking Sam
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00393/sound-system-saves-sinking-sam.htm
 author: new-zealand-first-party
+permalink: /archive/2014/11/27/sound-system-saves-sinking-sam/index.html
+layout: layout.njk
 ---
 Sound System Saves Sinking Sam
 ==============================

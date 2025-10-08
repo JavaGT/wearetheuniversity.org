@@ -1,9 +1,12 @@
 ---
 slug: déjà-vu-in-ncea-05-says-bill-english
-title: "Déjà vu in NCEA ‘05 says Bill English"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00416/deja-vu-in-ncea-05-says-bill-english.htm
+title: Déjà vu in NCEA ‘05 says Bill English
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00416/deja-vu-in-ncea-05-says-bill-english.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/21/d/index.html
+layout: layout.njk
 ---
 Déjà vu in NCEA ‘05 says Bill English
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: dunne-&-key-at-odds-over-asset-sales
-title: "Dunne & Key at odds over asset sales"
-date: 2012-03-01
-source-url: https://www.scoop.co.nz/stories/PA1203/S00006/dunne-key-at-odds-over-asset-sales.htm
+title: Dunne & Key at odds over asset sales
+date: 2012-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00006/dunne-key-at-odds-over-asset-sales.htm
 author: green-party
+permalink: /archive/2012/03/01/dunne-/index.html
+layout: layout.njk
 ---
 Dunne & Key at odds over asset sales
 ====================================

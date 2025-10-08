@@ -1,9 +1,12 @@
 ---
 slug: deportations-of-students-a-disgrace
-title: "Deportations of Students a Disgrace"
-date: 2017-02-03
-source-url: https://www.scoop.co.nz/stories/PA1702/S00045/deportations-of-students-a-disgrace.htm
+title: Deportations of Students a Disgrace
+date: 2017-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00045/deportations-of-students-a-disgrace.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/03/deportations-of-students-a-disgrace/index.html
+layout: layout.njk
 ---
 Deportations of Students a Disgrace
 ===================================

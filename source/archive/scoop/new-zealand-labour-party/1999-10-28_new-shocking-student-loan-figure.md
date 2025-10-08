@@ -1,9 +1,12 @@
 ---
 slug: new-shocking-student-loan-figure
-title: "New shocking student loan figure"
-date: 1999-10-28
-source-url: https://www.scoop.co.nz/stories/PA9910/S00634/new-shocking-student-loan-figure.htm
+title: New shocking student loan figure
+date: 1999-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00634/new-shocking-student-loan-figure.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/28/new-shocking-student-loan-figure/index.html
+layout: layout.njk
 ---
 New shocking student loan figure
 ================================

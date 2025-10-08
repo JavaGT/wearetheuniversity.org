@@ -1,9 +1,12 @@
 ---
 slug: waikato-grad-takes-on-ey-in-uk
-title: "Waikato grad takes on EY in UK"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/ED1609/S00143/waikato-grad-takes-on-ey-in-uk.htm
+title: Waikato grad takes on EY in UK
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00143/waikato-grad-takes-on-ey-in-uk.htm
 author: university-of-waikato
+permalink: /archive/2016/09/28/waikato-grad-takes-on-ey-in-uk/index.html
+layout: layout.njk
 ---
 Waikato grad takes on EY in UK
 ==============================

@@ -1,9 +1,16 @@
 ---
-slug: air-nzs-possible-assistance-to-saudi-military-ships-committing-atrocities-in-yemen-appalling
-title: "Air NZ’s Possible Assistance To Saudi Military Ships Committing Atrocities In Yemen Appalling"
-date: 2021-02-08
-source-url: https://www.scoop.co.nz/stories/PO2102/S00057/air-nzs-possible-assistance-to-saudi-military-ships-committing-atrocities-in-yemen-appalling.htm
+slug: >-
+  air-nzs-possible-assistance-to-saudi-military-ships-committing-atrocities-in-yemen-appalling
+title: >-
+  Air NZ’s Possible Assistance To Saudi Military Ships Committing Atrocities In
+  Yemen Appalling
+date: 2021-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2102/S00057/air-nzs-possible-assistance-to-saudi-military-ships-committing-atrocities-in-yemen-appalling.htm
 author: green-party
+permalink: >-
+  /archive/2021/02/08/air-nzs-possible-assistance-to-saudi-military-ships-committing-atrocities-in-yemen-appalling/index.html
+layout: layout.njk
 ---
 Air NZ’s Possible Assistance To Saudi Military Ships Committing Atrocities In Yemen Appalling
 =============================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-farewells-dame-whetu-tirikatene-sullivan
-title: "Labour farewells Dame Whetu Tirikatene-Sullivan"
-date: 2011-07-22
-source-url: https://www.scoop.co.nz/stories/PA1107/S00383/labour-farewells-dame-whetu-tirikatene-sullivan.htm
+title: Labour farewells Dame Whetu Tirikatene-Sullivan
+date: 2011-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00383/labour-farewells-dame-whetu-tirikatene-sullivan.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/22/labour-farewells-dame-whetu-tirikatene-sullivan/index.html
+layout: layout.njk
 ---
 Labour farewells Dame Whetu Tirikatene-Sullivan
 ===============================================

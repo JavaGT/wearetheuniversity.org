@@ -1,9 +1,12 @@
 ---
 slug: home-affordability-declines-in-most-regions
-title: "Home Affordability Declines in Most Regions"
-date: 2017-07-20
-source-url: https://www.scoop.co.nz/stories/BU1707/S00510/home-affordability-declines-in-most-regions.htm
+title: Home Affordability Declines in Most Regions
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1707/S00510/home-affordability-declines-in-most-regions.htm
 author: massey-university
+permalink: /archive/2017/07/20/home-affordability-declines-in-most-regions/index.html
+layout: layout.njk
 ---
 Home Affordability Declines in Most Regions
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-forgets-south-island-again
-title: "Government Forgets South Island Again"
-date: 2022-12-08
-source-url: https://www.scoop.co.nz/stories/PA2212/S00071/government-forgets-south-island-again.htm
+title: Government Forgets South Island Again
+date: 2022-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00071/government-forgets-south-island-again.htm
 author: act-new-zealand
+permalink: /archive/2022/12/08/government-forgets-south-island-again/index.html
+layout: layout.njk
 ---
 Government Forgets South Island Again
 =====================================

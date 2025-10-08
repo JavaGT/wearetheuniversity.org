@@ -1,9 +1,12 @@
 ---
 slug: hitler-plot-movie-omits-key-facts-expert
-title: "Hitler plot movie omits key facts – expert"
-date: 2009-02-25
-source-url: https://www.scoop.co.nz/stories/CU0902/S00420/hitler-plot-movie-omits-key-facts-expert.htm
+title: Hitler plot movie omits key facts – expert
+date: 2009-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00420/hitler-plot-movie-omits-key-facts-expert.htm
 author: university-of-waikato
+permalink: /archive/2009/02/25/hitler-plot-movie-omits-key-facts-expert/index.html
+layout: layout.njk
 ---
 Hitler plot movie omits key facts – expert
 ==========================================

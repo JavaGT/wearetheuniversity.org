@@ -1,9 +1,13 @@
 ---
 slug: recognition-of-nz-university-degrees-hugely-important
-title: "Recognition of NZ university degrees hugely important"
-date: 2016-01-21
-source-url: https://www.scoop.co.nz/stories/ED1601/S00028/recognition-of-nz-university-degrees-hugely-important.htm
+title: Recognition of NZ university degrees hugely important
+date: 2016-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00028/recognition-of-nz-university-degrees-hugely-important.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/01/21/recognition-of-nz-university-degrees-hugely-important/index.html
+layout: layout.njk
 ---
 Recognition of NZ university degrees hugely important
 =====================================================

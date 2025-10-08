@@ -1,8 +1,12 @@
 ---
 slug: artificial-intelligence-how-much-will-it-change-our-lives
-title: "Artificial Intelligence: how much will it change our lives?"
-date: 2017-04-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/artificial-intelligence-how-much-will-it-change-our-lives.html
+title: 'Artificial Intelligence: how much will it change our lives?'
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/artificial-intelligence-how-much-will-it-change-our-lives.html
+permalink: >-
+  /archive/2017/04/19/artificial-intelligence-how-much-will-it-change-our-lives/index.html
+layout: layout.njk
 ---
 Artificial Intelligence: how much will it change our lives?
 ===========================================================

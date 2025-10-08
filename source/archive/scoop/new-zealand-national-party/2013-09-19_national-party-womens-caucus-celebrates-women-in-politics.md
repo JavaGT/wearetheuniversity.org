@@ -1,9 +1,13 @@
 ---
 slug: national-party-womens-caucus-celebrates-women-in-politics
-title: "National Party Women’s Caucus celebrates Women in Politics"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/PO1309/S00209/national-party-womens-caucus-celebrates-women-in-politics.htm
+title: National Party Women’s Caucus celebrates Women in Politics
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00209/national-party-womens-caucus-celebrates-women-in-politics.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2013/09/19/national-party-womens-caucus-celebrates-women-in-politics/index.html
+layout: layout.njk
 ---
 National Party Women’s Caucus celebrates Women in Politics
 ==========================================================

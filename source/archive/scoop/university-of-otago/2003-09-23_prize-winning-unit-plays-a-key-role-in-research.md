@@ -1,9 +1,12 @@
 ---
 slug: prize-winning-unit-plays-a-key-role-in-research
-title: "Prize Winning Unit Plays A Key Role In Research"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/GE0309/S00078/prize-winning-unit-plays-a-key-role-in-research.htm
+title: Prize Winning Unit Plays A Key Role In Research
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0309/S00078/prize-winning-unit-plays-a-key-role-in-research.htm
 author: university-of-otago
+permalink: /archive/2003/09/23/prize-winning-unit-plays-a-key-role-in-research/index.html
+layout: layout.njk
 ---
 Prize Winning Unit Plays A Key Role In Research
 ===============================================

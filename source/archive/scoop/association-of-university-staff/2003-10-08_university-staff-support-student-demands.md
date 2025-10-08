@@ -1,9 +1,12 @@
 ---
 slug: university-staff-support-student-demands
-title: "University staff support student demands"
-date: 2003-10-08
-source-url: https://www.scoop.co.nz/stories/ED0310/S00028/university-staff-support-student-demands.htm
+title: University staff support student demands
+date: 2003-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00028/university-staff-support-student-demands.htm
 author: association-of-university-staff
+permalink: /archive/2003/10/08/university-staff-support-student-demands/index.html
+layout: layout.njk
 ---
 University staff support student demands
 ========================================

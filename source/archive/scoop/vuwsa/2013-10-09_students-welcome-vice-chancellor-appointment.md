@@ -1,9 +1,12 @@
 ---
 slug: students-welcome-vice-chancellor-appointment
-title: "Students welcome Vice-Chancellor Appointment"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/AK1310/S00362/students-welcome-vice-chancellor-appointment.htm
+title: Students welcome Vice-Chancellor Appointment
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1310/S00362/students-welcome-vice-chancellor-appointment.htm
 author: vuwsa
+permalink: /archive/2013/10/09/students-welcome-vice-chancellor-appointment/index.html
+layout: layout.njk
 ---
 Students welcome Vice-Chancellor Appointment
 ============================================

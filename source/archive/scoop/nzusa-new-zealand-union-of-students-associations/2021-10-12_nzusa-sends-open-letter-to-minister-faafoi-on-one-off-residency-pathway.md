@@ -1,9 +1,13 @@
 ---
 slug: nzusa-sends-open-letter-to-minister-faafoi-on-one-off-residency-pathway
-title: "NZUSA Sends Open Letter To Minister Faafoi On One-off Residency Pathway"
-date: 2021-10-12
-source-url: https://www.scoop.co.nz/stories/PO2110/S00097/nzusa-sends-open-letter-to-minister-faafoi-on-one-off-residency-pathway.htm
+title: NZUSA Sends Open Letter To Minister Faafoi On One-off Residency Pathway
+date: 2021-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2110/S00097/nzusa-sends-open-letter-to-minister-faafoi-on-one-off-residency-pathway.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/10/12/nzusa-sends-open-letter-to-minister-faafoi-on-one-off-residency-pathway/index.html
+layout: layout.njk
 ---
 NZUSA Sends Open Letter To Minister Faafoi On One-off Residency Pathway
 =======================================================================

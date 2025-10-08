@@ -1,9 +1,12 @@
 ---
 slug: push-go-button-minister-to-save-whales
-title: "Push \"Go Button\" Minister to Save Whales"
-date: 2017-02-11
-source-url: https://www.scoop.co.nz/stories/PO1702/S00109/push-go-button-minister-to-save-whales.htm
+title: Push "Go Button" Minister to Save Whales
+date: 2017-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00109/push-go-button-minister-to-save-whales.htm
 author: new-zealand-first-party
+permalink: /archive/2017/02/11/push-go-button-minister-to-save-whales/index.html
+layout: layout.njk
 ---
 Push “Go Button” Minister to Save Whales
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: nationals-plan-for-auckland-roads
-title: "National's plan for Auckland roads"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/PA0509/S00091/nationals-plan-for-auckland-roads.htm
+title: National's plan for Auckland roads
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00091/nationals-plan-for-auckland-roads.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/05/nationals-plan-for-auckland-roads/index.html
+layout: layout.njk
 ---
 National's plan for Auckland roads
 ==================================

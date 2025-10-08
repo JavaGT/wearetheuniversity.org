@@ -1,9 +1,11 @@
 ---
 slug: shipley-on-short-leash
-title: "Shipley on short leash"
-date: 1999-10-26
+title: Shipley on short leash
+date: 1999-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9910/S00609/shipley-on-short-leash.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/26/shipley-on-short-leash/index.html
+layout: layout.njk
 ---
 Shipley on short leash
 ======================

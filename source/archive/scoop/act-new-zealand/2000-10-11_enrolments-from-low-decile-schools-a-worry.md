@@ -1,9 +1,12 @@
 ---
 slug: enrolments-from-low-decile-schools-a-worry
-title: "Enrolments From Low Decile Schools a Worry"
-date: 2000-10-11
-source-url: https://www.scoop.co.nz/stories/PA0010/S00227/enrolments-from-low-decile-schools-a-worry.htm
+title: Enrolments From Low Decile Schools a Worry
+date: 2000-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00227/enrolments-from-low-decile-schools-a-worry.htm
 author: act-new-zealand
+permalink: /archive/2000/10/11/enrolments-from-low-decile-schools-a-worry/index.html
+layout: layout.njk
 ---
 Enrolments From Low Decile Schools a Worry
 ==========================================

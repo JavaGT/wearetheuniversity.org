@@ -1,9 +1,13 @@
 ---
 slug: university-of-auckland-brings-jazz-great-to-town
-title: "University Of Auckland Brings Jazz Great To Town"
-date: 2002-04-12
-source-url: https://www.scoop.co.nz/stories/CU0204/S00026/university-of-auckland-brings-jazz-great-to-town.htm
+title: University Of Auckland Brings Jazz Great To Town
+date: 2002-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0204/S00026/university-of-auckland-brings-jazz-great-to-town.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/04/12/university-of-auckland-brings-jazz-great-to-town/index.html
+layout: layout.njk
 ---
 University Of Auckland Brings Jazz Great To Town
 ================================================

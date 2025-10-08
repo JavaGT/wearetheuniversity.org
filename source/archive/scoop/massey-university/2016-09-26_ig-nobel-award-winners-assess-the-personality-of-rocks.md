@@ -1,9 +1,13 @@
 ---
 slug: ig-nobel-award-winners-assess-the-personality-of-rocks
-title: "Ig Nobel award winners assess the personality of rocks"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00127/ig-nobel-award-winners-assess-the-personality-of-rocks.htm
+title: Ig Nobel award winners assess the personality of rocks
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00127/ig-nobel-award-winners-assess-the-personality-of-rocks.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/26/ig-nobel-award-winners-assess-the-personality-of-rocks/index.html
+layout: layout.njk
 ---
 Ig Nobel award winners assess the personality of rocks
 ======================================================

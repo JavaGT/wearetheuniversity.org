@@ -1,9 +1,13 @@
 ---
 slug: julie-anne-genter-gags-kiwis-opposed-to-her-car-tax
-title: "Julie Anne Genter gags Kiwis opposed to her car tax"
-date: 2019-09-29
-source-url: https://www.scoop.co.nz/stories/PA1909/S00266/julie-anne-genter-gags-kiwis-opposed-to-her-car-tax.htm
+title: Julie Anne Genter gags Kiwis opposed to her car tax
+date: 2019-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00266/julie-anne-genter-gags-kiwis-opposed-to-her-car-tax.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/29/julie-anne-genter-gags-kiwis-opposed-to-her-car-tax/index.html
+layout: layout.njk
 ---
 Julie Anne Genter gags Kiwis opposed to her car tax
 ===================================================

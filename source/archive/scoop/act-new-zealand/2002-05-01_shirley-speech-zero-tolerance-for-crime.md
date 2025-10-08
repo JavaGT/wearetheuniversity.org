@@ -1,9 +1,12 @@
 ---
 slug: shirley-speech-zero-tolerance-for-crime
-title: "Shirley Speech: Zero Tolerance For Crime"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/PA0205/S00010/shirley-speech-zero-tolerance-for-crime.htm
+title: 'Shirley Speech: Zero Tolerance For Crime'
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00010/shirley-speech-zero-tolerance-for-crime.htm
 author: act-new-zealand
+permalink: /archive/2002/05/01/shirley-speech-zero-tolerance-for-crime/index.html
+layout: layout.njk
 ---
 Shirley Speech: Zero Tolerance For Crime
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: no-confusion-created-in-avoidance-law
-title: "No confusion created in avoidance law"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/PO1108/S00344/no-confusion-created-in-avoidance-law.htm
+title: No confusion created in avoidance law
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1108/S00344/no-confusion-created-in-avoidance-law.htm
 author: aut-university
+permalink: /archive/2011/08/25/no-confusion-created-in-avoidance-law/index.html
+layout: layout.njk
 ---
 No confusion created in avoidance law
 =====================================

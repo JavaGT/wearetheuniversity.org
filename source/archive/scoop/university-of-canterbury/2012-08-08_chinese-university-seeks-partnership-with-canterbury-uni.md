@@ -1,9 +1,13 @@
 ---
 slug: chinese-university-seeks-partnership-with-canterbury-uni
-title: "Chinese university seeks partnership with Canterbury Uni"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/ED1208/S00049/chinese-university-seeks-partnership-with-canterbury-uni.htm
+title: Chinese university seeks partnership with Canterbury Uni
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00049/chinese-university-seeks-partnership-with-canterbury-uni.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/08/chinese-university-seeks-partnership-with-canterbury-uni/index.html
+layout: layout.njk
 ---
 Chinese university seeks partnership with Canterbury Uni
 ========================================================

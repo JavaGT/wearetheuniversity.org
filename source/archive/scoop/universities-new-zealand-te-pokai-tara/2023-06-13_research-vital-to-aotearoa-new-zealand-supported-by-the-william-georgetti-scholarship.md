@@ -1,9 +1,16 @@
 ---
-slug: research-vital-to-aotearoa-new-zealand-supported-by-the-william-georgetti-scholarship
-title: "Research Vital To Aotearoa New Zealand Supported By The William Georgetti Scholarship"
-date: 2023-06-13
-source-url: https://www.scoop.co.nz/stories/ED2306/S00016/research-vital-to-aotearoa-new-zealand-supported-by-the-william-georgetti-scholarship.htm
+slug: >-
+  research-vital-to-aotearoa-new-zealand-supported-by-the-william-georgetti-scholarship
+title: >-
+  Research Vital To Aotearoa New Zealand Supported By The William Georgetti
+  Scholarship
+date: 2023-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2306/S00016/research-vital-to-aotearoa-new-zealand-supported-by-the-william-georgetti-scholarship.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/06/13/research-vital-to-aotearoa-new-zealand-supported-by-the-william-georgetti-scholarship/index.html
+layout: layout.njk
 ---
 Research Vital To Aotearoa New Zealand Supported By The William Georgetti Scholarship
 =====================================================================================

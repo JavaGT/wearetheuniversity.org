@@ -1,9 +1,12 @@
 ---
 slug: from-hiva-to-hip-hop-dance-in-oceania-on-show
-title: "From hiva to hip-hop – dance in Oceania on show"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/CU0509/S00106/from-hiva-to-hip-hop-dance-in-oceania-on-show.htm
+title: From hiva to hip-hop – dance in Oceania on show
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0509/S00106/from-hiva-to-hip-hop-dance-in-oceania-on-show.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/09/15/from-hiva-to-hip-hop-dance-in-oceania-on-show/index.html
+layout: layout.njk
 ---
 From hiva to hip-hop – dance in Oceania on show
 ===============================================

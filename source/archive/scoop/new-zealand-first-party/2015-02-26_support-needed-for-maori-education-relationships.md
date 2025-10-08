@@ -1,9 +1,13 @@
 ---
 slug: support-needed-for-maori-education-relationships
-title: "Support Needed for Maori Education Relationships"
-date: 2015-02-26
-source-url: https://www.scoop.co.nz/stories/PA1502/S00344/support-needed-for-maori-education-relationships.htm
+title: Support Needed for Maori Education Relationships
+date: 2015-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00344/support-needed-for-maori-education-relationships.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/02/26/support-needed-for-maori-education-relationships/index.html
+layout: layout.njk
 ---
 Support Needed for Maori Education Relationships
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: good-marketing-doesnt-end-when-your-customers-are-dead
-title: "Good marketing doesn’t end when your customers are dead"
-date: 2015-10-12
-source-url: https://www.scoop.co.nz/stories/ED1510/S00055/good-marketing-doesnt-end-when-your-customers-are-dead.htm
+title: Good marketing doesn’t end when your customers are dead
+date: 2015-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00055/good-marketing-doesnt-end-when-your-customers-are-dead.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/10/12/good-marketing-doesnt-end-when-your-customers-are-dead/index.html
+layout: layout.njk
 ---
 Good marketing doesn’t end when your customers are dead
 =======================================================

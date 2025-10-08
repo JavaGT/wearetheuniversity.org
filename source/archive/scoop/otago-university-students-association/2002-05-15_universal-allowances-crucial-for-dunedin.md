@@ -1,9 +1,12 @@
 ---
 slug: universal-allowances-crucial-for-dunedin
-title: "Universal Allowances Crucial for Dunedin"
-date: 2002-05-15
-source-url: https://www.scoop.co.nz/stories/ED0205/S00025/universal-allowances-crucial-for-dunedin.htm
+title: Universal Allowances Crucial for Dunedin
+date: 2002-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00025/universal-allowances-crucial-for-dunedin.htm
 author: otago-university-students-association
+permalink: /archive/2002/05/15/universal-allowances-crucial-for-dunedin/index.html
+layout: layout.njk
 ---
 Universal Allowances Crucial for Dunedin
 ========================================

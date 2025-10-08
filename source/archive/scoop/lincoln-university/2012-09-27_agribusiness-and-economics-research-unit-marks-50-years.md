@@ -1,9 +1,13 @@
 ---
 slug: agribusiness-and-economics-research-unit-marks-50-years
-title: "Agribusiness and Economics Research Unit marks 50 years"
-date: 2012-09-27
-source-url: https://www.scoop.co.nz/stories/ED1209/S00207/agribusiness-and-economics-research-unit-marks-50-years.htm
+title: Agribusiness and Economics Research Unit marks 50 years
+date: 2012-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00207/agribusiness-and-economics-research-unit-marks-50-years.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/09/27/agribusiness-and-economics-research-unit-marks-50-years/index.html
+layout: layout.njk
 ---
 Agribusiness and Economics Research Unit marks 50 years
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: centre-gets-worldwide-remit-for-animal-welfare
-title: "Centre gets worldwide remit for animal welfare"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/ED0706/S00038/centre-gets-worldwide-remit-for-animal-welfare.htm
+title: Centre gets worldwide remit for animal welfare
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00038/centre-gets-worldwide-remit-for-animal-welfare.htm
 author: massey-university
+permalink: /archive/2007/06/11/centre-gets-worldwide-remit-for-animal-welfare/index.html
+layout: layout.njk
 ---
 Centre gets worldwide remit for animal welfare
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: fulbright-award;-waikato-academic-now-sporting-ambassador
-title: "Fulbright award; Waikato academic now sporting ambassador"
-date: 2011-10-26
-source-url: https://www.scoop.co.nz/stories/ED1110/S00115/fulbright-award-waikato-academic-now-sporting-ambassador.htm
+title: Fulbright award; Waikato academic now sporting ambassador
+date: 2011-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00115/fulbright-award-waikato-academic-now-sporting-ambassador.htm
 author: waikato-university
+permalink: /archive/2011/10/26/fulbright-award/index.html
+layout: layout.njk
 ---
 Fulbright award; Waikato academic now sporting ambassador
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: united-youth-voice-transcends-politics
-title: "United youth voice transcends politics"
-date: 2003-07-08
-source-url: https://www.scoop.co.nz/stories/PA0307/S00179/united-youth-voice-transcends-politics.htm
+title: United youth voice transcends politics
+date: 2003-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00179/united-youth-voice-transcends-politics.htm
 author: green-party
+permalink: /archive/2003/07/08/united-youth-voice-transcends-politics/index.html
+layout: layout.njk
 ---
 United youth voice transcends politics
 ======================================

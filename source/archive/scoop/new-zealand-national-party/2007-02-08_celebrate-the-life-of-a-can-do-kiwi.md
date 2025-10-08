@@ -1,9 +1,12 @@
 ---
 slug: celebrate-the-life-of-a-can-do-kiwi
-title: "Celebrate the life of a can-do Kiwi"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/PA0702/S00104/celebrate-the-life-of-a-can-do-kiwi.htm
+title: Celebrate the life of a can-do Kiwi
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00104/celebrate-the-life-of-a-can-do-kiwi.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/08/celebrate-the-life-of-a-can-do-kiwi/index.html
+layout: layout.njk
 ---
 Celebrate the life of a can-do Kiwi
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: christmas-shopping-can-be-done-online-but-still-stressful
-title: "Christmas shopping – can be done online, but still stressful"
-date: 2012-11-25
-source-url: https://www.scoop.co.nz/stories/BU1211/S00966/christmas-shopping-can-be-done-online-but-still-stressful.htm
+title: Christmas shopping – can be done online, but still stressful
+date: 2012-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00966/christmas-shopping-can-be-done-online-but-still-stressful.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/25/christmas-shopping-can-be-done-online-but-still-stressful/index.html
+layout: layout.njk
 ---
 Christmas shopping – can be done online, but still stressful
 ============================================================

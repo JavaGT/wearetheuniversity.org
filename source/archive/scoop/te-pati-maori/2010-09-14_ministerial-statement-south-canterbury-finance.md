@@ -1,9 +1,12 @@
 ---
 slug: ministerial-statement-south-canterbury-finance
-title: "Ministerial Statement South Canterbury Finance"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/PA1009/S00220/ministerial-statement-south-canterbury-finance.htm
+title: Ministerial Statement South Canterbury Finance
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00220/ministerial-statement-south-canterbury-finance.htm
 author: te-pati-maori
+permalink: /archive/2010/09/14/ministerial-statement-south-canterbury-finance/index.html
+layout: layout.njk
 ---
 Ministerial Statement South Canterbury Finance
 ==============================================

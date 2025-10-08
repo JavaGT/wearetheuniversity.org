@@ -1,9 +1,12 @@
 ---
 slug: employment-relations-bill-another-business-cost
-title: "Employment Relations Bill – Another Business Cost"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/PA0004/S00214/employment-relations-bill-another-business-cost.htm
+title: Employment Relations Bill – Another Business Cost
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00214/employment-relations-bill-another-business-cost.htm
 author: act-new-zealand
+permalink: /archive/2000/04/17/employment-relations-bill-another-business-cost/index.html
+layout: layout.njk
 ---
 Employment Relations Bill – Another Business Cost
 =================================================

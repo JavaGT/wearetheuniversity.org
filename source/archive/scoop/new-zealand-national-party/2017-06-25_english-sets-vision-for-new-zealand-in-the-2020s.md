@@ -1,9 +1,13 @@
 ---
 slug: english-sets-vision-for-new-zealand-in-the-2020s
-title: "English sets vision for New Zealand in the 2020s"
-date: 2017-06-25
-source-url: https://www.scoop.co.nz/stories/PA1706/S00413/english-sets-vision-for-new-zealand-in-the-2020s.htm
+title: English sets vision for New Zealand in the 2020s
+date: 2017-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00413/english-sets-vision-for-new-zealand-in-the-2020s.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/06/25/english-sets-vision-for-new-zealand-in-the-2020s/index.html
+layout: layout.njk
 ---
 English sets vision for New Zealand in the 2020s
 ================================================

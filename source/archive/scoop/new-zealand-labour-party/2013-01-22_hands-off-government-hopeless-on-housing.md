@@ -1,9 +1,12 @@
 ---
 slug: hands-off-government-hopeless-on-housing
-title: "Hands-off Government hopeless on housing"
-date: 2013-01-22
-source-url: https://www.scoop.co.nz/stories/PA1301/S00072/hands-off-government-hopeless-on-housing.htm
+title: Hands-off Government hopeless on housing
+date: 2013-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00072/hands-off-government-hopeless-on-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/22/hands-off-government-hopeless-on-housing/index.html
+layout: layout.njk
 ---
 Hands-off Government hopeless on housing
 ========================================

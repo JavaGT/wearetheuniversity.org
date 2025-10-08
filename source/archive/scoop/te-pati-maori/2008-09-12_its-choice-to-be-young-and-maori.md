@@ -1,9 +1,12 @@
 ---
 slug: its-choice-to-be-young-and-maori
-title: "It’s choice to be young and Maori"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/PO0809/S00191/its-choice-to-be-young-and-maori.htm
+title: It’s choice to be young and Maori
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00191/its-choice-to-be-young-and-maori.htm
 author: te-pati-maori
+permalink: /archive/2008/09/12/its-choice-to-be-young-and-maori/index.html
+layout: layout.njk
 ---
 It’s choice to be young and Maori
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: aus-criticism-of-research-funding-absurd
-title: "AUS: Criticism of research funding absurd"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/ED0803/S00028/aus-criticism-of-research-funding-absurd.htm
+title: 'AUS: Criticism of research funding absurd'
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00028/aus-criticism-of-research-funding-absurd.htm
 author: association-of-university-staff
+permalink: /archive/2008/03/12/aus-criticism-of-research-funding-absurd/index.html
+layout: layout.njk
 ---
 AUS: Criticism of research funding absurd
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: million-dollar-funding-to-fight-antibiotic-resistant-bugs
-title: "Million-dollar funding to fight antibiotic resistant bugs"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00049/million-dollar-funding-to-fight-antibiotic-resistant-bugs.htm
+title: Million-dollar funding to fight antibiotic resistant bugs
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00049/million-dollar-funding-to-fight-antibiotic-resistant-bugs.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/06/15/million-dollar-funding-to-fight-antibiotic-resistant-bugs/index.html
+layout: layout.njk
 ---
 Million-dollar funding to fight antibiotic resistant bugs
 =========================================================

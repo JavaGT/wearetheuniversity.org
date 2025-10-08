@@ -1,9 +1,12 @@
 ---
 slug: new-pro-vice-chancellor-appointed
-title: "New Pro-Vice-Chancellor appointed"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/ED0709/S00088/new-pro-vice-chancellor-appointed.htm
+title: New Pro-Vice-Chancellor appointed
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00088/new-pro-vice-chancellor-appointed.htm
 author: university-of-otago
+permalink: /archive/2007/09/26/new-pro-vice-chancellor-appointed/index.html
+layout: layout.njk
 ---
 New Pro-Vice-Chancellor appointed
 =================================

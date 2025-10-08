@@ -1,9 +1,12 @@
 ---
 slug: cancer-research-wins-us-funding
-title: "Cancer research wins US funding"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/GE0704/S00081/cancer-research-wins-us-funding.htm
+title: Cancer research wins US funding
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0704/S00081/cancer-research-wins-us-funding.htm
 author: massey-university
+permalink: /archive/2007/04/20/cancer-research-wins-us-funding/index.html
+layout: layout.njk
 ---
 Cancer research wins US funding
 ===============================

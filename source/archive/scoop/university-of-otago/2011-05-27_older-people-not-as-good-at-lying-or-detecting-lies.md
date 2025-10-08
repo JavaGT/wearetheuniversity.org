@@ -1,9 +1,13 @@
 ---
 slug: older-people-not-as-good-at-lying-or-detecting-lies
-title: "Older people not as good at lying or detecting lies"
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/SC1105/S00074/older-people-not-as-good-at-lying-or-detecting-lies.htm
+title: Older people not as good at lying or detecting lies
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00074/older-people-not-as-good-at-lying-or-detecting-lies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/27/older-people-not-as-good-at-lying-or-detecting-lies/index.html
+layout: layout.njk
 ---
 Older people not as good at lying or detecting lies
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: short-sighted-savings-package-will-increase-costs
-title: "Short-sighted savings package will increase costs"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/PA1205/S00084/short-sighted-savings-package-will-increase-costs.htm
+title: Short-sighted savings package will increase costs
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00084/short-sighted-savings-package-will-increase-costs.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/05/04/short-sighted-savings-package-will-increase-costs/index.html
+layout: layout.njk
 ---
 Short-sighted savings package will increase costs
 =================================================

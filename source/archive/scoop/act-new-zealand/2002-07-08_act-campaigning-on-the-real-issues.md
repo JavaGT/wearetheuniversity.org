@@ -1,9 +1,12 @@
 ---
 slug: act-campaigning-on-the-real-issues
-title: "ACT Campaigning on the Real Issues"
-date: 2002-07-08
-source-url: https://www.scoop.co.nz/stories/PA0207/S00212/act-campaigning-on-the-real-issues.htm
+title: ACT Campaigning on the Real Issues
+date: 2002-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00212/act-campaigning-on-the-real-issues.htm
 author: act-new-zealand
+permalink: /archive/2002/07/08/act-campaigning-on-the-real-issues/index.html
+layout: layout.njk
 ---
 ACT Campaigning on the Real Issues
 ==================================

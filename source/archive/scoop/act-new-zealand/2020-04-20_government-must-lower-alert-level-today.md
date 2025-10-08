@@ -1,9 +1,12 @@
 ---
 slug: government-must-lower-alert-level-today
-title: "Government Must Lower Alert Level Today"
-date: 2020-04-20
-source-url: https://www.scoop.co.nz/stories/PA2004/S00105/government-must-lower-alert-level-today.htm
+title: Government Must Lower Alert Level Today
+date: 2020-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00105/government-must-lower-alert-level-today.htm
 author: act-new-zealand
+permalink: /archive/2020/04/20/government-must-lower-alert-level-today/index.html
+layout: layout.njk
 ---
 Government Must Lower Alert Level Today
 =======================================

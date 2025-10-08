@@ -1,9 +1,12 @@
 ---
 slug: climate-change-impacts-tuatara-population
-title: "Climate change impacts tuatara population"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/SC1404/S00039/climate-change-impacts-tuatara-population.htm
+title: Climate change impacts tuatara population
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00039/climate-change-impacts-tuatara-population.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/09/climate-change-impacts-tuatara-population/index.html
+layout: layout.njk
 ---
 Climate change impacts tuatara population
 =========================================

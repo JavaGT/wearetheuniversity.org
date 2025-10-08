@@ -1,9 +1,13 @@
 ---
 slug: police-arrest-and-charge-over-death-of-forestry-worker
-title: "Police arrest and charge over death of forestry worker"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/BU1409/S00127/police-arrest-and-charge-over-death-of-forestry-worker.htm
+title: Police arrest and charge over death of forestry worker
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00127/police-arrest-and-charge-over-death-of-forestry-worker.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/09/03/police-arrest-and-charge-over-death-of-forestry-worker/index.html
+layout: layout.njk
 ---
 Police arrest and charge over death of forestry worker
 ======================================================

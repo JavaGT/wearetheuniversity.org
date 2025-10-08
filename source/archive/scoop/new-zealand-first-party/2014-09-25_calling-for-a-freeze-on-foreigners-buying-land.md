@@ -1,9 +1,12 @@
 ---
 slug: calling-for-a-freeze-on-foreigners-buying-land
-title: "Calling for a Freeze on Foreigners Buying Land"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/PA1409/S00310/calling-for-a-freeze-on-foreigners-buying-land.htm
+title: Calling for a Freeze on Foreigners Buying Land
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00310/calling-for-a-freeze-on-foreigners-buying-land.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/25/calling-for-a-freeze-on-foreigners-buying-land/index.html
+layout: layout.njk
 ---
 Calling for a Freeze on Foreigners Buying Land
 ==============================================

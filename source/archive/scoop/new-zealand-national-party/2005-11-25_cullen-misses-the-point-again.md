@@ -1,9 +1,12 @@
 ---
 slug: cullen-misses-the-point-again
-title: "Cullen misses the point - again"
-date: 2005-11-25
-source-url: https://www.scoop.co.nz/stories/PA0511/S00392/cullen-misses-the-point-again.htm
+title: Cullen misses the point - again
+date: 2005-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00392/cullen-misses-the-point-again.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/25/cullen-misses-the-point-again/index.html
+layout: layout.njk
 ---
 Cullen misses the point - again
 ===============================

@@ -1,9 +1,13 @@
 ---
 slug: english-towns-with-a-jewish-heritage-more-tolerant
-title: "English towns with a Jewish heritage more tolerant"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/ED1602/S00015/english-towns-with-a-jewish-heritage-more-tolerant.htm
+title: English towns with a Jewish heritage more tolerant
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00015/english-towns-with-a-jewish-heritage-more-tolerant.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/02/02/english-towns-with-a-jewish-heritage-more-tolerant/index.html
+layout: layout.njk
 ---
 English towns with a Jewish heritage more tolerant
 ==================================================

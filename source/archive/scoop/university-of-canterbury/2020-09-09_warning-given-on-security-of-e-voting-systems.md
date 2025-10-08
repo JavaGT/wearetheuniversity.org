@@ -1,9 +1,12 @@
 ---
 slug: warning-given-on-security-of-e-voting-systems
-title: "Warning Given On Security Of E-voting Systems"
-date: 2020-09-09
-source-url: https://www.scoop.co.nz/stories/PO2009/S00087/warning-given-on-security-of-e-voting-systems.htm
+title: Warning Given On Security Of E-voting Systems
+date: 2020-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00087/warning-given-on-security-of-e-voting-systems.htm
 author: university-of-canterbury
+permalink: /archive/2020/09/09/warning-given-on-security-of-e-voting-systems/index.html
+layout: layout.njk
 ---
 Warning Given On Security Of E-voting Systems
 =============================================

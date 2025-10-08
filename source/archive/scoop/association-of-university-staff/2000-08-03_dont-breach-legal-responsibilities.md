@@ -1,9 +1,12 @@
 ---
 slug: dont-breach-legal-responsibilities
-title: "\"Don't breach legal responsibilities\""
-date: 2000-08-03
-source-url: https://www.scoop.co.nz/stories/ED0008/S00006/dont-breach-legal-responsibilities.htm
+title: '"Don''t breach legal responsibilities"'
+date: 2000-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00006/dont-breach-legal-responsibilities.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/03/dont-breach-legal-responsibilities/index.html
+layout: layout.njk
 ---
 \"Don't breach legal responsibilities"
 =====================================

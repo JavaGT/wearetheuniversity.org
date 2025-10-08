@@ -1,9 +1,12 @@
 ---
 slug: vic-uni-offers-nzs-first-pacific-studies-major
-title: "Vic Uni offers NZ's first Pacific Studies major"
-date: 2000-03-10
-source-url: https://www.scoop.co.nz/stories/ED0003/S00019/vic-uni-offers-nzs-first-pacific-studies-major.htm
+title: Vic Uni offers NZ's first Pacific Studies major
+date: 2000-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00019/vic-uni-offers-nzs-first-pacific-studies-major.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/10/vic-uni-offers-nzs-first-pacific-studies-major/index.html
+layout: layout.njk
 ---
 Vic Uni offers NZ's first Pacific Studies major
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: action-now-say-petitioners-on-auckland-rail
-title: "Action now, say petitioners on Auckland rail"
-date: 2007-05-01
-source-url: https://www.scoop.co.nz/stories/PA0705/S00031/action-now-say-petitioners-on-auckland-rail.htm
+title: Action now, say petitioners on Auckland rail
+date: 2007-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00031/action-now-say-petitioners-on-auckland-rail.htm
 author: green-party
+permalink: /archive/2007/05/01/action-now-say-petitioners-on-auckland-rail/index.html
+layout: layout.njk
 ---
 Action now, say petitioners on Auckland rail
 ============================================

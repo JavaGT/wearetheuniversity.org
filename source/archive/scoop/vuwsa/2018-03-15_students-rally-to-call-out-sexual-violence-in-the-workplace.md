@@ -1,9 +1,13 @@
 ---
 slug: students-rally-to-call-out-sexual-violence-in-the-workplace
-title: "Students rally to call out sexual violence in the workplace"
-date: 2018-03-15
-source-url: https://www.scoop.co.nz/stories/PO1803/S00233/students-rally-to-call-out-sexual-violence-in-the-workplace.htm
+title: Students rally to call out sexual violence in the workplace
+date: 2018-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00233/students-rally-to-call-out-sexual-violence-in-the-workplace.htm
 author: vuwsa
+permalink: >-
+  /archive/2018/03/15/students-rally-to-call-out-sexual-violence-in-the-workplace/index.html
+layout: layout.njk
 ---
 Students rally to call out sexual violence in the workplace
 ===========================================================

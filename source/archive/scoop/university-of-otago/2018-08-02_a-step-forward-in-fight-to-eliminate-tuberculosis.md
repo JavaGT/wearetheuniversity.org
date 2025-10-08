@@ -1,9 +1,13 @@
 ---
 slug: a-step-forward-in-fight-to-eliminate-tuberculosis
-title: "A step forward in fight to eliminate tuberculosis"
-date: 2018-08-02
-source-url: https://www.scoop.co.nz/stories/SC1808/S00005/a-step-forward-in-fight-to-eliminate-tuberculosis.htm
+title: A step forward in fight to eliminate tuberculosis
+date: 2018-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1808/S00005/a-step-forward-in-fight-to-eliminate-tuberculosis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/02/a-step-forward-in-fight-to-eliminate-tuberculosis/index.html
+layout: layout.njk
 ---
 A step forward in fight to eliminate tuberculosis
 =================================================

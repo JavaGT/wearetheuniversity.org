@@ -1,9 +1,11 @@
 ---
 slug: women-students-against-war
-title: "Women Students Against War"
-date: 2003-03-07
+title: Women Students Against War
+date: 2003-03-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0303/S00045/women-students-against-war.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/03/07/women-students-against-war/index.html
+layout: layout.njk
 ---
 Women Students Against War
 ==========================

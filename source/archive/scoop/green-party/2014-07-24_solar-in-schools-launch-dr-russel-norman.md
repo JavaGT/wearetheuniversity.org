@@ -1,9 +1,12 @@
 ---
 slug: solar-in-schools-launch-dr-russel-norman
-title: "Solar in Schools launch – Dr Russel Norman"
-date: 2014-07-24
-source-url: https://www.scoop.co.nz/stories/PA1407/S00460/solar-in-schools-launch-dr-russel-norman.htm
+title: Solar in Schools launch – Dr Russel Norman
+date: 2014-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00460/solar-in-schools-launch-dr-russel-norman.htm
 author: green-party
+permalink: /archive/2014/07/24/solar-in-schools-launch-dr-russel-norman/index.html
+layout: layout.njk
 ---
 Solar in Schools launch – Dr Russel Norman
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-releases-tertiary-education-policy
-title: "Labour releases tertiary education policy"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PA9909/S00613/labour-releases-tertiary-education-policy.htm
+title: Labour releases tertiary education policy
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00613/labour-releases-tertiary-education-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/29/labour-releases-tertiary-education-policy/index.html
+layout: layout.njk
 ---
 Labour releases tertiary education policy
 =========================================

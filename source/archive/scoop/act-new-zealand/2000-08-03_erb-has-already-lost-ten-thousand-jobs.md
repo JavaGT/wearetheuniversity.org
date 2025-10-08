@@ -1,9 +1,12 @@
 ---
 slug: erb-has-already-lost-ten-thousand-jobs
-title: "ERB Has Already Lost Ten Thousand Jobs"
-date: 2000-08-03
-source-url: https://www.scoop.co.nz/stories/PA0008/S00076/erb-has-already-lost-ten-thousand-jobs.htm
+title: ERB Has Already Lost Ten Thousand Jobs
+date: 2000-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00076/erb-has-already-lost-ten-thousand-jobs.htm
 author: act-new-zealand
+permalink: /archive/2000/08/03/erb-has-already-lost-ten-thousand-jobs/index.html
+layout: layout.njk
 ---
 ERB Has Already Lost Ten Thousand Jobs
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: nine-charges-dropped-in-farcical-case-against-activists
-title: "Nine charges dropped in farcical case against activists"
-date: 2017-02-14
-source-url: https://www.scoop.co.nz/stories/PO1702/S00144/nine-charges-dropped-in-farcical-case-against-activists.htm
+title: Nine charges dropped in farcical case against activists
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00144/nine-charges-dropped-in-farcical-case-against-activists.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2017/02/14/nine-charges-dropped-in-farcical-case-against-activists/index.html
+layout: layout.njk
 ---
 Nine charges dropped in farcical case against activists
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: blame-the-fat-jockey-not-the-horse-brash
-title: "Blame The Fat Jockey Not The Horse: Brash"
-date: 2002-07-09
-source-url: https://www.scoop.co.nz/stories/PO0207/S00097/blame-the-fat-jockey-not-the-horse-brash.htm
+title: 'Blame The Fat Jockey Not The Horse: Brash'
+date: 2002-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00097/blame-the-fat-jockey-not-the-horse-brash.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/09/blame-the-fat-jockey-not-the-horse-brash/index.html
+layout: layout.njk
 ---
 Blame The Fat Jockey Not The Horse: Brash
 =========================================

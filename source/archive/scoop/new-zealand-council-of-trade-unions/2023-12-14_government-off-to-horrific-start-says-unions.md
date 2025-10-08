@@ -1,9 +1,12 @@
 ---
 slug: government-off-to-horrific-start-says-unions
-title: "Government ‘Off To Horrific Start’ Says Unions"
-date: 2023-12-14
-source-url: https://www.scoop.co.nz/stories/PO2312/S00122/government-off-to-horrific-start-says-unions.htm
+title: Government ‘Off To Horrific Start’ Says Unions
+date: 2023-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2312/S00122/government-off-to-horrific-start-says-unions.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2023/12/14/government-off-to-horrific-start-says-unions/index.html
+layout: layout.njk
 ---
 Government ‘Off To Horrific Start’ Says Unions
 ==============================================

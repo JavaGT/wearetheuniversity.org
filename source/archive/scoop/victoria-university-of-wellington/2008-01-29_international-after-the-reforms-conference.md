@@ -1,9 +1,12 @@
 ---
 slug: international-after-the-reforms-conference
-title: "International 'After the Reforms' Conference"
-date: 2008-01-29
-source-url: https://www.scoop.co.nz/stories/PO0801/S00213/international-after-the-reforms-conference.htm
+title: International 'After the Reforms' Conference
+date: 2008-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0801/S00213/international-after-the-reforms-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/01/29/international-after-the-reforms-conference/index.html
+layout: layout.njk
 ---
 International 'After the Reforms' Conference
 ============================================

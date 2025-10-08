@@ -1,9 +1,12 @@
 ---
 slug: fitzsimons-in-dunedin-to-launch-peak-oil-plan
-title: "Fitzsimons in Dunedin to launch Peak Oil plan"
-date: 2005-08-19
-source-url: https://www.scoop.co.nz/stories/PA0508/S00521/fitzsimons-in-dunedin-to-launch-peak-oil-plan.htm
+title: Fitzsimons in Dunedin to launch Peak Oil plan
+date: 2005-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00521/fitzsimons-in-dunedin-to-launch-peak-oil-plan.htm
 author: green-party
+permalink: /archive/2005/08/19/fitzsimons-in-dunedin-to-launch-peak-oil-plan/index.html
+layout: layout.njk
 ---
 Fitzsimons in Dunedin to launch Peak Oil plan
 =============================================

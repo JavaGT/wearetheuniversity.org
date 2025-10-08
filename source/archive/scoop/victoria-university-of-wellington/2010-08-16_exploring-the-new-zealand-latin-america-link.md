@@ -1,9 +1,12 @@
 ---
 slug: exploring-the-new-zealand-latin-america-link
-title: "Exploring the New Zealand-Latin America link"
-date: 2010-08-16
-source-url: https://www.scoop.co.nz/stories/CU1008/S00221/exploring-the-new-zealand-latin-america-link.htm
+title: Exploring the New Zealand-Latin America link
+date: 2010-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00221/exploring-the-new-zealand-latin-america-link.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/08/16/exploring-the-new-zealand-latin-america-link/index.html
+layout: layout.njk
 ---
 Exploring the New Zealand-Latin America link
 ============================================

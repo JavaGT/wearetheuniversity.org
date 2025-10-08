@@ -1,9 +1,12 @@
 ---
 slug: otago-announces-2004-arts-fellowship-recipients
-title: "Otago Announces 2004 Arts Fellowship Recipients"
-date: 2003-10-14
-source-url: https://www.scoop.co.nz/stories/ED0310/S00063/otago-announces-2004-arts-fellowship-recipients.htm
+title: Otago Announces 2004 Arts Fellowship Recipients
+date: 2003-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00063/otago-announces-2004-arts-fellowship-recipients.htm
 author: university-of-otago
+permalink: /archive/2003/10/14/otago-announces-2004-arts-fellowship-recipients/index.html
+layout: layout.njk
 ---
 Otago Announces 2004 Arts Fellowship Recipients
 ===============================================

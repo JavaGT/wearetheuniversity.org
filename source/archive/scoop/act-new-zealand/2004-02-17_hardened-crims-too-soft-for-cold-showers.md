@@ -1,9 +1,12 @@
 ---
 slug: hardened-crims-too-soft-for-cold-showers
-title: "Hardened Crims Too Soft For Cold Showers?"
-date: 2004-02-17
-source-url: https://www.scoop.co.nz/stories/PA0402/S00264/hardened-crims-too-soft-for-cold-showers.htm
+title: Hardened Crims Too Soft For Cold Showers?
+date: 2004-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0402/S00264/hardened-crims-too-soft-for-cold-showers.htm
 author: act-new-zealand
+permalink: /archive/2004/02/17/hardened-crims-too-soft-for-cold-showers/index.html
+layout: layout.njk
 ---
 Hardened Crims Too Soft For Cold Showers?
 =========================================

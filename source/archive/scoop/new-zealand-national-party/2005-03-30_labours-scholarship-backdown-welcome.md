@@ -1,9 +1,12 @@
 ---
 slug: labours-scholarship-backdown-welcome
-title: "Labour’s scholarship backdown welcome"
-date: 2005-03-30
-source-url: https://www.scoop.co.nz/stories/PA0503/S00568/labours-scholarship-backdown-welcome.htm
+title: Labour’s scholarship backdown welcome
+date: 2005-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00568/labours-scholarship-backdown-welcome.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/30/labours-scholarship-backdown-welcome/index.html
+layout: layout.njk
 ---
 Labour’s scholarship backdown welcome
 =====================================

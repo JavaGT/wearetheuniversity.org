@@ -1,9 +1,12 @@
 ---
 slug: compulsory-wsu-blows-$60k-on-o-weeks
-title: "Compulsory WSU Blows $60k On O-Weeks"
-date: 2003-08-18
-source-url: https://www.scoop.co.nz/stories/ED0308/S00062/compulsory-wsu-blows-60k-on-o-weeks.htm
+title: Compulsory WSU Blows $60k On O-Weeks
+date: 2003-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00062/compulsory-wsu-blows-60k-on-o-weeks.htm
 author: student-choice
+permalink: /archive/2003/08/18/compulsory-wsu-blows-/index.html
+layout: layout.njk
 ---
 Compulsory WSU Blows $60k On O-Weeks
 ====================================

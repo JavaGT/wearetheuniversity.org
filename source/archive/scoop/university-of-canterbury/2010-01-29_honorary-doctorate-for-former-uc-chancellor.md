@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-former-uc-chancellor
-title: "Honorary Doctorate For Former UC Chancellor"
-date: 2010-01-29
-source-url: https://www.scoop.co.nz/stories/ED1001/S00047/honorary-doctorate-for-former-uc-chancellor.htm
+title: Honorary Doctorate For Former UC Chancellor
+date: 2010-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00047/honorary-doctorate-for-former-uc-chancellor.htm
 author: university-of-canterbury
+permalink: /archive/2010/01/29/honorary-doctorate-for-former-uc-chancellor/index.html
+layout: layout.njk
 ---
 Honorary Doctorate For Former UC Chancellor
 ===========================================

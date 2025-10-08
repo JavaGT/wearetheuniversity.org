@@ -1,9 +1,13 @@
 ---
 slug: heating-new-zealands-stake-in-premium-beef-market
-title: "Heating New Zealand’s Stake In Premium Beef Market"
-date: 2024-09-24
-source-url: https://www.scoop.co.nz/stories/BU2409/S00375/heating-new-zealands-stake-in-premium-beef-market.htm
+title: Heating New Zealand’s Stake In Premium Beef Market
+date: 2024-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2409/S00375/heating-new-zealands-stake-in-premium-beef-market.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/09/24/heating-new-zealands-stake-in-premium-beef-market/index.html
+layout: layout.njk
 ---
 Heating New Zealand’s Stake In Premium Beef Market
 ==================================================

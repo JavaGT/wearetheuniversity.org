@@ -1,9 +1,12 @@
 ---
 slug: moko-masks-withdrawn-sharples-praises-media
-title: "Moko Masks Withdrawn - Sharples Praises Media"
-date: 2006-08-14
-source-url: https://www.scoop.co.nz/stories/PA0608/S00220/moko-masks-withdrawn-sharples-praises-media.htm
+title: Moko Masks Withdrawn - Sharples Praises Media
+date: 2006-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00220/moko-masks-withdrawn-sharples-praises-media.htm
 author: te-pati-maori
+permalink: /archive/2006/08/14/moko-masks-withdrawn-sharples-praises-media/index.html
+layout: layout.njk
 ---
 Moko Masks Withdrawn - Sharples Praises Media
 =============================================

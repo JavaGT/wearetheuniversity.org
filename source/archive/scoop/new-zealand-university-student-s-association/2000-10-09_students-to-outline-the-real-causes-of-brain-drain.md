@@ -1,9 +1,13 @@
 ---
 slug: students-to-outline-the-real-causes-of-brain-drain
-title: "Students to outline the real causes of brain drain"
-date: 2000-10-09
-source-url: https://www.scoop.co.nz/stories/ED0010/S00007/students-to-outline-the-real-causes-of-brain-drain.htm
+title: Students to outline the real causes of brain drain
+date: 2000-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00007/students-to-outline-the-real-causes-of-brain-drain.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/10/09/students-to-outline-the-real-causes-of-brain-drain/index.html
+layout: layout.njk
 ---
 Students to outline the real causes of brain drain
 ==================================================

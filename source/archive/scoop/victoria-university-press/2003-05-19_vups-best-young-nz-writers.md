@@ -1,9 +1,11 @@
 ---
 slug: vups-best-young-nz-writers
-title: "VUP's Best Young NZ Writers"
-date: 2003-05-19
+title: VUP's Best Young NZ Writers
+date: 2003-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0305/S00076/vups-best-young-nz-writers.htm
 author: victoria-university-press
+permalink: /archive/2003/05/19/vups-best-young-nz-writers/index.html
+layout: layout.njk
 ---
 VUP's Best Young NZ Writers
 ===========================

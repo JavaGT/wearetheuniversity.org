@@ -1,9 +1,13 @@
 ---
 slug: paula-boock-will-be-the-2009-writer-in-residence
-title: "Paula Boock will be the 2009 Writer in Residence"
-date: 2008-12-02
-source-url: https://www.scoop.co.nz/stories/CU0812/S00031/paula-boock-will-be-the-2009-writer-in-residence.htm
+title: Paula Boock will be the 2009 Writer in Residence
+date: 2008-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0812/S00031/paula-boock-will-be-the-2009-writer-in-residence.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/12/02/paula-boock-will-be-the-2009-writer-in-residence/index.html
+layout: layout.njk
 ---
 Paula Boock will be the 2009 Writer in Residence
 ================================================

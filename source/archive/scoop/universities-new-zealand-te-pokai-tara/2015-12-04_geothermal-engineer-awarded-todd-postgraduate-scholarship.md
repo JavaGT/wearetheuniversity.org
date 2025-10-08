@@ -1,9 +1,13 @@
 ---
 slug: geothermal-engineer-awarded-todd-postgraduate-scholarship
-title: "Geothermal engineer awarded Todd postgraduate scholarship"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/ED1512/S00020/geothermal-engineer-awarded-todd-postgraduate-scholarship.htm
+title: Geothermal engineer awarded Todd postgraduate scholarship
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00020/geothermal-engineer-awarded-todd-postgraduate-scholarship.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/12/04/geothermal-engineer-awarded-todd-postgraduate-scholarship/index.html
+layout: layout.njk
 ---
 Geothermal engineer awarded Todd postgraduate scholarship
 =========================================================

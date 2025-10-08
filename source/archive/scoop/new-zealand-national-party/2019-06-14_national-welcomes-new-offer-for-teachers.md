@@ -1,9 +1,12 @@
 ---
 slug: national-welcomes-new-offer-for-teachers
-title: "National welcomes new offer for teachers"
-date: 2019-06-14
-source-url: https://www.scoop.co.nz/stories/PA1906/S00125/national-welcomes-new-offer-for-teachers.htm
+title: National welcomes new offer for teachers
+date: 2019-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00125/national-welcomes-new-offer-for-teachers.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/14/national-welcomes-new-offer-for-teachers/index.html
+layout: layout.njk
 ---
 National welcomes new offer for teachers
 ========================================

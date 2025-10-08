@@ -1,9 +1,13 @@
 ---
 slug: domestic-violence-still-being-minimised-by-decision-makers
-title: "Domestic violence still being minimised by decision makers"
-date: 2011-12-14
-source-url: https://www.scoop.co.nz/stories/PO1112/S00182/domestic-violence-still-being-minimised-by-decision-makers.htm
+title: Domestic violence still being minimised by decision makers
+date: 2011-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1112/S00182/domestic-violence-still-being-minimised-by-decision-makers.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/12/14/domestic-violence-still-being-minimised-by-decision-makers/index.html
+layout: layout.njk
 ---
 Domestic violence still being minimised by decision makers
 ==========================================================

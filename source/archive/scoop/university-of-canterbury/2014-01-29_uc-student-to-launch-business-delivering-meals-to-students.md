@@ -1,9 +1,13 @@
 ---
 slug: uc-student-to-launch-business-delivering-meals-to-students
-title: "UC student to launch business delivering meals to students"
-date: 2014-01-29
-source-url: https://www.scoop.co.nz/stories/ED1401/S00050/uc-student-to-launch-business-delivering-meals-to-students.htm
+title: UC student to launch business delivering meals to students
+date: 2014-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00050/uc-student-to-launch-business-delivering-meals-to-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/29/uc-student-to-launch-business-delivering-meals-to-students/index.html
+layout: layout.njk
 ---
 UC student to launch business delivering meals to students
 ==========================================================

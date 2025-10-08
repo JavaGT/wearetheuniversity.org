@@ -1,9 +1,12 @@
 ---
 slug: valedictory-statement-don-mckinnon
-title: "Valedictory Statement -  Don Mckinnon"
-date: 2000-02-28
-source-url: https://www.scoop.co.nz/stories/PA0002/S00361/valedictory-statement-don-mckinnon.htm
+title: Valedictory Statement -  Don Mckinnon
+date: 2000-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00361/valedictory-statement-don-mckinnon.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/28/valedictory-statement-don-mckinnon/index.html
+layout: layout.njk
 ---
 Valedictory Statement - Don Mckinnon
 ====================================

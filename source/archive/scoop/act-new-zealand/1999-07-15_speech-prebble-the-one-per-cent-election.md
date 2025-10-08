@@ -1,9 +1,12 @@
 ---
 slug: speech-prebble-the-one-per-cent-election
-title: "Speech: Prebble - The One Per Cent Election"
-date: 1999-07-15
-source-url: https://www.scoop.co.nz/stories/PA9907/S00281/speech-prebble-the-one-per-cent-election.htm
+title: 'Speech: Prebble - The One Per Cent Election'
+date: 1999-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00281/speech-prebble-the-one-per-cent-election.htm
 author: act-new-zealand
+permalink: /archive/1999/07/15/speech-prebble-the-one-per-cent-election/index.html
+layout: layout.njk
 ---
 Speech: Prebble - The One Per Cent Election
 ===========================================

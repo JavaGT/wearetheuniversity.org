@@ -1,9 +1,16 @@
 ---
-slug: lincoln-universitys-iconic-new-zealand-art-collection-now-available-for-viewing-online
-title: "Lincoln University’s Iconic New Zealand Art Collection Now Available For Viewing Online"
-date: 2020-08-27
-source-url: https://www.scoop.co.nz/stories/CU2008/S00181/lincoln-universitys-iconic-new-zealand-art-collection-now-available-for-viewing-online.htm
+slug: >-
+  lincoln-universitys-iconic-new-zealand-art-collection-now-available-for-viewing-online
+title: >-
+  Lincoln University’s Iconic New Zealand Art Collection Now Available For
+  Viewing Online
+date: 2020-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2008/S00181/lincoln-universitys-iconic-new-zealand-art-collection-now-available-for-viewing-online.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/08/27/lincoln-universitys-iconic-new-zealand-art-collection-now-available-for-viewing-online/index.html
+layout: layout.njk
 ---
 Lincoln University’s Iconic New Zealand Art Collection Now Available For Viewing Online
 =======================================================================================

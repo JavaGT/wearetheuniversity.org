@@ -1,9 +1,13 @@
 ---
 slug: auckland-mp-says-answers-needed-over-heart-surgery
-title: "Auckland MP Says Answers Needed Over Heart Surgery"
-date: 2000-10-11
-source-url: https://www.scoop.co.nz/stories/PA0010/S00240/auckland-mp-says-answers-needed-over-heart-surgery.htm
+title: Auckland MP Says Answers Needed Over Heart Surgery
+date: 2000-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00240/auckland-mp-says-answers-needed-over-heart-surgery.htm
 author: green-party
+permalink: >-
+  /archive/2000/10/11/auckland-mp-says-answers-needed-over-heart-surgery/index.html
+layout: layout.njk
 ---
 Auckland MP Says Answers Needed Over Heart Surgery
 ==================================================

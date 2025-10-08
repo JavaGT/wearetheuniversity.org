@@ -1,9 +1,13 @@
 ---
 slug: national-will-encourage-more-drivers-to-get-insurance
-title: "National will encourage more drivers to get insurance"
-date: 2020-08-10
-source-url: https://www.scoop.co.nz/stories/PA2008/S00097/national-will-encourage-more-drivers-to-get-insurance.htm
+title: National will encourage more drivers to get insurance
+date: 2020-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00097/national-will-encourage-more-drivers-to-get-insurance.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/10/national-will-encourage-more-drivers-to-get-insurance/index.html
+layout: layout.njk
 ---
 National will encourage more drivers to get insurance
 =====================================================

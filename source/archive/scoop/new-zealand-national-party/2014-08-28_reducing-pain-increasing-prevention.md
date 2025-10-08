@@ -1,9 +1,12 @@
 ---
 slug: reducing-pain-increasing-prevention
-title: "Reducing pain, increasing prevention"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/PA1408/S00436/reducing-pain-increasing-prevention.htm
+title: Reducing pain, increasing prevention
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00436/reducing-pain-increasing-prevention.htm
 author: new-zealand-national-party
+permalink: /archive/2014/08/28/reducing-pain-increasing-prevention/index.html
+layout: layout.njk
 ---
 Reducing pain, increasing prevention
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: the-reason-we-share-food
-title: "The reason we share food"
-date: 2012-11-01
+title: The reason we share food
+date: 2012-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1211/S00009/the-reason-we-share-food.htm
 author: university-of-waikato
+permalink: /archive/2012/11/01/the-reason-we-share-food/index.html
+layout: layout.njk
 ---
 The reason we share food
 ========================

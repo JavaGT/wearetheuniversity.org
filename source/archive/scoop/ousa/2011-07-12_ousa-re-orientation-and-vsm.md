@@ -1,9 +1,11 @@
 ---
 slug: ousa-re-orientation-and-vsm
-title: "OUSA: Re-Orientation and VSM"
-date: 2011-07-12
+title: 'OUSA: Re-Orientation and VSM'
+date: 2011-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1107/S00044/ousa-re-orientation-and-vsm.htm
 author: ousa
+permalink: /archive/2011/07/12/ousa-re-orientation-and-vsm/index.html
+layout: layout.njk
 ---
 OUSA: Re-Orientation and VSM
 ============================

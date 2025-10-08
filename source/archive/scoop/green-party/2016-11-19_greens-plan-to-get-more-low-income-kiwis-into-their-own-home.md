@@ -1,9 +1,13 @@
 ---
 slug: greens-plan-to-get-more-low-income-kiwis-into-their-own-home
-title: "Greens plan to get more low-income Kiwis into their own home"
-date: 2016-11-19
-source-url: https://www.scoop.co.nz/stories/PA1611/S00351/greens-plan-to-get-more-low-income-kiwis-into-their-own-home.htm
+title: Greens plan to get more low-income Kiwis into their own home
+date: 2016-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00351/greens-plan-to-get-more-low-income-kiwis-into-their-own-home.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/19/greens-plan-to-get-more-low-income-kiwis-into-their-own-home/index.html
+layout: layout.njk
 ---
 Greens plan to get more low-income Kiwis into their own home
 ============================================================

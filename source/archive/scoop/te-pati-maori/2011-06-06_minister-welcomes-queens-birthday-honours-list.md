@@ -1,9 +1,12 @@
 ---
 slug: minister-welcomes-queens-birthday-honours-list
-title: "Minister welcomes Queen’s Birthday honours list"
-date: 2011-06-06
-source-url: https://www.scoop.co.nz/stories/PA1106/S00086/minister-welcomes-queens-birthday-honours-list.htm
+title: Minister welcomes Queen’s Birthday honours list
+date: 2011-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00086/minister-welcomes-queens-birthday-honours-list.htm
 author: te-pati-maori
+permalink: /archive/2011/06/06/minister-welcomes-queens-birthday-honours-list/index.html
+layout: layout.njk
 ---
 Minister welcomes Queen’s Birthday honours list
 ===============================================

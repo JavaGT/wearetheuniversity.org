@@ -1,9 +1,12 @@
 ---
 slug: biosecurity-a-sick-cow-under-nathan-guy
-title: "Biosecurity a Sick Cow under Nathan Guy"
-date: 2017-08-02
-source-url: https://www.scoop.co.nz/stories/PA1708/S00048/biosecurity-a-sick-cow-under-nathan-guy.htm
+title: Biosecurity a Sick Cow under Nathan Guy
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00048/biosecurity-a-sick-cow-under-nathan-guy.htm
 author: new-zealand-first-party
+permalink: /archive/2017/08/02/biosecurity-a-sick-cow-under-nathan-guy/index.html
+layout: layout.njk
 ---
 Biosecurity a Sick Cow under Nathan Guy
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: fulbright-award-for-sleep-scientist
-title: "Fulbright award for sleep scientist"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/SC0703/S00053/fulbright-award-for-sleep-scientist.htm
+title: Fulbright award for sleep scientist
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00053/fulbright-award-for-sleep-scientist.htm
 author: massey-university
+permalink: /archive/2007/03/21/fulbright-award-for-sleep-scientist/index.html
+layout: layout.njk
 ---
 Fulbright award for sleep scientist
 ===================================

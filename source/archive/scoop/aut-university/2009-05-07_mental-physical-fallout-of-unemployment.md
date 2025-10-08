@@ -1,9 +1,12 @@
 ---
 slug: mental-physical-fallout-of-unemployment
-title: "Mental/physical fallout of unemployment"
-date: 2009-05-07
-source-url: https://www.scoop.co.nz/stories/BU0905/S00206/mentalphysical-fallout-of-unemployment.htm
+title: Mental/physical fallout of unemployment
+date: 2009-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00206/mentalphysical-fallout-of-unemployment.htm
 author: aut-university
+permalink: /archive/2009/05/07/mental-physical-fallout-of-unemployment/index.html
+layout: layout.njk
 ---
 Mental/physical fallout of unemployment
 =======================================

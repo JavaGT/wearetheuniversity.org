@@ -1,9 +1,13 @@
 ---
 slug: engineering-student-and-world-champion-keeping-busy
-title: "Engineering student and world champion keeping busy"
-date: 2014-04-22
-source-url: https://www.scoop.co.nz/stories/CU1404/S00314/engineering-student-and-world-champion-keeping-busy.htm
+title: Engineering student and world champion keeping busy
+date: 2014-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00314/engineering-student-and-world-champion-keeping-busy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/22/engineering-student-and-world-champion-keeping-busy/index.html
+layout: layout.njk
 ---
 Engineering student and world champion keeping busy
 ===================================================

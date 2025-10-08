@@ -1,9 +1,12 @@
 ---
 slug: surge-in-enrolments-for-waikato-university
-title: "Surge in enrolments for Waikato University"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/ED0903/S00005/surge-in-enrolments-for-waikato-university.htm
+title: Surge in enrolments for Waikato University
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00005/surge-in-enrolments-for-waikato-university.htm
 author: university-of-waikato
+permalink: /archive/2009/03/02/surge-in-enrolments-for-waikato-university/index.html
+layout: layout.njk
 ---
 Surge in enrolments for Waikato University
 ==========================================

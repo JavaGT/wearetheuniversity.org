@@ -1,9 +1,13 @@
 ---
 slug: turia-wellington-memorial-service-for-nelson-mandela
-title: "Turia: Wellington Memorial Service for Nelson Mandela"
-date: 2013-12-12
-source-url: https://www.scoop.co.nz/stories/PA1312/S00277/turia-wellington-memorial-service-for-nelson-mandela.htm
+title: 'Turia: Wellington Memorial Service for Nelson Mandela'
+date: 2013-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00277/turia-wellington-memorial-service-for-nelson-mandela.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/12/12/turia-wellington-memorial-service-for-nelson-mandela/index.html
+layout: layout.njk
 ---
 Turia: Wellington Memorial Service for Nelson Mandela
 =====================================================

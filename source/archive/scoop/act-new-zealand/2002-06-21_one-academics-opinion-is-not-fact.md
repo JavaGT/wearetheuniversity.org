@@ -1,9 +1,12 @@
 ---
 slug: one-academics-opinion-is-not-fact
-title: "One Academic's Opinion Is Not Fact"
-date: 2002-06-21
-source-url: https://www.scoop.co.nz/stories/PA0206/S00374/one-academics-opinion-is-not-fact.htm
+title: One Academic's Opinion Is Not Fact
+date: 2002-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00374/one-academics-opinion-is-not-fact.htm
 author: act-new-zealand
+permalink: /archive/2002/06/21/one-academics-opinion-is-not-fact/index.html
+layout: layout.njk
 ---
 One Academic's Opinion Is Not Fact
 ==================================

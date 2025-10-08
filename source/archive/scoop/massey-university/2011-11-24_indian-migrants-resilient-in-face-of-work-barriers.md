@@ -1,9 +1,13 @@
 ---
 slug: indian-migrants-resilient-in-face-of-work-barriers
-title: "Indian migrants resilient in face of work barriers"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/ED1111/S00172/indian-migrants-resilient-in-face-of-work-barriers.htm
+title: Indian migrants resilient in face of work barriers
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00172/indian-migrants-resilient-in-face-of-work-barriers.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/24/indian-migrants-resilient-in-face-of-work-barriers/index.html
+layout: layout.njk
 ---
 Indian migrants resilient in face of work barriers
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: hide-needs-to-release-special-education-review
-title: "Hide needs to release Special Education review"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/PA1008/S00254/hide-needs-to-release-special-education-review.htm
+title: Hide needs to release Special Education review
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00254/hide-needs-to-release-special-education-review.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/17/hide-needs-to-release-special-education-review/index.html
+layout: layout.njk
 ---
 Hide needs to release Special Education review
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: act-conferences-focus-on-rural-new-zealand
-title: "ACT Conferences Focus On Rural New Zealand"
-date: 1999-06-27
-source-url: https://www.scoop.co.nz/stories/PA9906/S00278/act-conferences-focus-on-rural-new-zealand.htm
+title: ACT Conferences Focus On Rural New Zealand
+date: 1999-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00278/act-conferences-focus-on-rural-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/1999/06/27/act-conferences-focus-on-rural-new-zealand/index.html
+layout: layout.njk
 ---
 ACT Conferences Focus On Rural New Zealand
 ==========================================

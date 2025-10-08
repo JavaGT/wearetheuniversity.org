@@ -1,9 +1,12 @@
 ---
 slug: budget-falls-short-on-student-support
-title: "Budget Falls Short on Student Support"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/ED0205/S00051/budget-falls-short-on-student-support.htm
+title: Budget Falls Short on Student Support
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00051/budget-falls-short-on-student-support.htm
 author: auckland-university-students-association
+permalink: /archive/2002/05/23/budget-falls-short-on-student-support/index.html
+layout: layout.njk
 ---
 Budget Falls Short on Student Support
 =====================================

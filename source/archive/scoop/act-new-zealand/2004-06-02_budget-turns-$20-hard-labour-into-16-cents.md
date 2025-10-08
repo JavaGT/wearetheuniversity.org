@@ -1,9 +1,12 @@
 ---
 slug: budget-turns-$20-hard-labour-into-16-cents
-title: "Budget Turns $20 Hard Labour Into 16 Cents"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/PA0406/S00041/budget-turns-20-hard-labour-into-16-cents.htm
+title: Budget Turns $20 Hard Labour Into 16 Cents
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00041/budget-turns-20-hard-labour-into-16-cents.htm
 author: act-new-zealand
+permalink: /archive/2004/06/02/budget-turns-/index.html
+layout: layout.njk
 ---
 Budget Turns $20 Hard Labour Into 16 Cents
 ==========================================

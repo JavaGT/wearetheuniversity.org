@@ -1,9 +1,13 @@
 ---
 slug: new-evidence-shows-charter-school-experiment-not-working
-title: "New evidence shows charter school experiment not working"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/PA1510/S00473/new-evidence-shows-charter-school-experiment-not-working.htm
+title: New evidence shows charter school experiment not working
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00473/new-evidence-shows-charter-school-experiment-not-working.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/28/new-evidence-shows-charter-school-experiment-not-working/index.html
+layout: layout.njk
 ---
 New evidence shows charter school experiment not working
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: lochinver-farm-sale-highlights-weak-foreign-ownership-laws
-title: "Lochinver farm sale highlights weak foreign ownership laws"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/PA1402/S00394/lochinver-farm-sale-highlights-weak-foreign-ownership-laws.htm
+title: Lochinver farm sale highlights weak foreign ownership laws
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00394/lochinver-farm-sale-highlights-weak-foreign-ownership-laws.htm
 author: green-party
+permalink: >-
+  /archive/2014/02/27/lochinver-farm-sale-highlights-weak-foreign-ownership-laws/index.html
+layout: layout.njk
 ---
 Lochinver farm sale highlights weak foreign ownership laws
 ==========================================================

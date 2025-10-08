@@ -1,9 +1,13 @@
 ---
 slug: giant-knitted-periodic-table-to-be-unveiled-at-waikato-uni
-title: "Giant knitted periodic table to be unveiled at Waikato Uni"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/ED1111/S00166/giant-knitted-periodic-table-to-be-unveiled-at-waikato-uni.htm
+title: Giant knitted periodic table to be unveiled at Waikato Uni
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00166/giant-knitted-periodic-table-to-be-unveiled-at-waikato-uni.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/11/23/giant-knitted-periodic-table-to-be-unveiled-at-waikato-uni/index.html
+layout: layout.njk
 ---
 Giant knitted periodic table to be unveiled at Waikato Uni
 ==========================================================

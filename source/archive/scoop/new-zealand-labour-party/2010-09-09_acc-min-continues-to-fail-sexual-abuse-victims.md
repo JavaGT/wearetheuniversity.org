@@ -1,9 +1,12 @@
 ---
 slug: acc-min-continues-to-fail-sexual-abuse-victims
-title: "ACC Min. continues to fail sexual abuse victims"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00172/acc-min-continues-to-fail-sexual-abuse-victims.htm
+title: ACC Min. continues to fail sexual abuse victims
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00172/acc-min-continues-to-fail-sexual-abuse-victims.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/09/acc-min-continues-to-fail-sexual-abuse-victims/index.html
+layout: layout.njk
 ---
 ACC Min. continues to fail sexual abuse victims
 ===============================================

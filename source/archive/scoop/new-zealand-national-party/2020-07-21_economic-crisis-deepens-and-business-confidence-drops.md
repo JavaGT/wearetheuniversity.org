@@ -1,9 +1,13 @@
 ---
 slug: economic-crisis-deepens-and-business-confidence-drops
-title: "Economic Crisis Deepens And Business Confidence Drops"
-date: 2020-07-21
-source-url: https://www.scoop.co.nz/stories/PA2007/S00193/economic-crisis-deepens-and-business-confidence-drops.htm
+title: Economic Crisis Deepens And Business Confidence Drops
+date: 2020-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00193/economic-crisis-deepens-and-business-confidence-drops.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/07/21/economic-crisis-deepens-and-business-confidence-drops/index.html
+layout: layout.njk
 ---
 Economic Crisis Deepens And Business Confidence Drops
 =====================================================

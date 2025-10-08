@@ -1,9 +1,13 @@
 ---
 slug: vice-chancellor-childish-over-student-opposition
-title: "Vice Chancellor childish over student opposition"
-date: 2004-09-09
-source-url: https://www.scoop.co.nz/stories/ED0409/S00034/vice-chancellor-childish-over-student-opposition.htm
+title: Vice Chancellor childish over student opposition
+date: 2004-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00034/vice-chancellor-childish-over-student-opposition.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/09/09/vice-chancellor-childish-over-student-opposition/index.html
+layout: layout.njk
 ---
 Vice Chancellor childish over student opposition
 ================================================

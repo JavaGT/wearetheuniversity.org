@@ -1,9 +1,12 @@
 ---
 slug: bill-english-new-zealand-at-a-turning-point
-title: "Bill English: New Zealand At A Turning Point"
-date: 2007-08-04
-source-url: https://www.scoop.co.nz/stories/PA0708/S00071/bill-english-new-zealand-at-a-turning-point.htm
+title: 'Bill English: New Zealand At A Turning Point'
+date: 2007-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00071/bill-english-new-zealand-at-a-turning-point.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/04/bill-english-new-zealand-at-a-turning-point/index.html
+layout: layout.njk
 ---
 Bill English: New Zealand At A Turning Point
 ============================================

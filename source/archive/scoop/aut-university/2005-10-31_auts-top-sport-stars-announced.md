@@ -1,9 +1,12 @@
 ---
 slug: auts-top-sport-stars-announced
-title: "AUT’s top sport stars announced"
-date: 2005-10-31
-source-url: https://www.scoop.co.nz/stories/ED0510/S00090/auts-top-sport-stars-announced.htm
+title: AUT’s top sport stars announced
+date: 2005-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00090/auts-top-sport-stars-announced.htm
 author: aut-university
+permalink: /archive/2005/10/31/auts-top-sport-stars-announced/index.html
+layout: layout.njk
 ---
 AUT’s top sport stars announced
 ===============================

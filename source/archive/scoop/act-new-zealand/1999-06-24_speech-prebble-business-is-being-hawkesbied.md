@@ -1,9 +1,12 @@
 ---
 slug: speech-prebble-business-is-being-hawkesbied
-title: "Speech: Prebble - Business is being Hawkesbied"
-date: 1999-06-24
-source-url: https://www.scoop.co.nz/stories/PA9906/S00230/speech-prebble-business-is-being-hawkesbied.htm
+title: 'Speech: Prebble - Business is being Hawkesbied'
+date: 1999-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00230/speech-prebble-business-is-being-hawkesbied.htm
 author: act-new-zealand
+permalink: /archive/1999/06/24/speech-prebble-business-is-being-hawkesbied/index.html
+layout: layout.njk
 ---
 Speech: Prebble - Business is being Hawkesbied
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: encouraging-childrens-skills-through-play
-title: "Encouraging children’s skills through play"
-date: 2009-04-22
-source-url: https://www.scoop.co.nz/stories/ED0904/S00047/encouraging-childrens-skills-through-play.htm
+title: Encouraging children’s skills through play
+date: 2009-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00047/encouraging-childrens-skills-through-play.htm
 author: massey-university
+permalink: /archive/2009/04/22/encouraging-childrens-skills-through-play/index.html
+layout: layout.njk
 ---
 Encouraging children’s skills through play
 ==========================================

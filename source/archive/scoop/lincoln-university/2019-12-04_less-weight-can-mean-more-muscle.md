@@ -1,9 +1,12 @@
 ---
 slug: less-weight-can-mean-more-muscle
-title: "Less weight can mean more muscle"
-date: 2019-12-04
-source-url: https://www.scoop.co.nz/stories/SC1912/S00010/less-weight-can-mean-more-muscle.htm
+title: Less weight can mean more muscle
+date: 2019-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1912/S00010/less-weight-can-mean-more-muscle.htm
 author: lincoln-university
+permalink: /archive/2019/12/04/less-weight-can-mean-more-muscle/index.html
+layout: layout.njk
 ---
 Less weight can mean more muscle
 ================================

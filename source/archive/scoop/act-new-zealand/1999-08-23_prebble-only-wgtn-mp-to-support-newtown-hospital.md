@@ -1,9 +1,13 @@
 ---
 slug: prebble-only-wgtn-mp-to-support-newtown-hospital
-title: "Prebble Only Wgtn. MP To Support Newtown Hospital"
-date: 1999-08-23
-source-url: https://www.scoop.co.nz/stories/PA9908/S00369/prebble-only-wgtn-mp-to-support-newtown-hospital.htm
+title: Prebble Only Wgtn. MP To Support Newtown Hospital
+date: 1999-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00369/prebble-only-wgtn-mp-to-support-newtown-hospital.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/08/23/prebble-only-wgtn-mp-to-support-newtown-hospital/index.html
+layout: layout.njk
 ---
 Prebble Only Wgtn. MP To Support Newtown Hospital
 =================================================

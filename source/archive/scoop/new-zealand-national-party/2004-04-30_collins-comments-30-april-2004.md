@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-30-april-2004
-title: "Collins Comments 30 April 2004"
-date: 2004-04-30
-source-url: https://www.scoop.co.nz/stories/PA0404/S00510/collins-comments-30-april-2004.htm
+title: Collins Comments 30 April 2004
+date: 2004-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00510/collins-comments-30-april-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/30/collins-comments-30-april-2004/index.html
+layout: layout.njk
 ---
 Collins Comments 30 April 2004
 ==============================

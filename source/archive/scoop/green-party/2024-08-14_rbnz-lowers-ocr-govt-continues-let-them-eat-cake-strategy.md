@@ -1,9 +1,13 @@
 ---
 slug: rbnz-lowers-ocr-govt-continues-let-them-eat-cake-strategy
-title: "RBNZ Lowers OCR, Govt Continues 'Let Them Eat Cake’ Strategy"
-date: 2024-08-14
-source-url: https://www.scoop.co.nz/stories/PA2408/S00096/rbnz-lowers-ocr-govt-continues-let-them-eat-cake-strategy.htm
+title: RBNZ Lowers OCR, Govt Continues 'Let Them Eat Cake’ Strategy
+date: 2024-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00096/rbnz-lowers-ocr-govt-continues-let-them-eat-cake-strategy.htm
 author: green-party
+permalink: >-
+  /archive/2024/08/14/rbnz-lowers-ocr-govt-continues-let-them-eat-cake-strategy/index.html
+layout: layout.njk
 ---
 RBNZ Lowers OCR, Govt Continues 'Let Them Eat Cake’ Strategy
 ============================================================

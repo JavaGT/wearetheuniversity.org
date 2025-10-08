@@ -1,9 +1,12 @@
 ---
 slug: tertiary-staff-suffering-under-national
-title: "Tertiary staff suffering under National"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/PA1703/S00500/tertiary-staff-suffering-under-national.htm
+title: Tertiary staff suffering under National
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00500/tertiary-staff-suffering-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/29/tertiary-staff-suffering-under-national/index.html
+layout: layout.njk
 ---
 Tertiary staff suffering under National
 =======================================

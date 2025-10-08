@@ -1,9 +1,13 @@
 ---
 slug: canterbury-uni-students-at-the-bottom-of-the-world
-title: "Canterbury Uni students at the bottom of the world"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/ED0404/S00070/canterbury-uni-students-at-the-bottom-of-the-world.htm
+title: Canterbury Uni students at the bottom of the world
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00070/canterbury-uni-students-at-the-bottom-of-the-world.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/04/20/canterbury-uni-students-at-the-bottom-of-the-world/index.html
+layout: layout.njk
 ---
 Canterbury Uni students at the bottom of the world
 ==================================================

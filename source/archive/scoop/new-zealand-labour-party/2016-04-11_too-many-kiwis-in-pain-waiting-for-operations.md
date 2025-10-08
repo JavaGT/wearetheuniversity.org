@@ -1,9 +1,12 @@
 ---
 slug: too-many-kiwis-in-pain-waiting-for-operations
-title: "Too many Kiwis in pain waiting for operations"
-date: 2016-04-11
-source-url: https://www.scoop.co.nz/stories/PA1604/S00171/too-many-kiwis-in-pain-waiting-for-operations.htm
+title: Too many Kiwis in pain waiting for operations
+date: 2016-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00171/too-many-kiwis-in-pain-waiting-for-operations.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/11/too-many-kiwis-in-pain-waiting-for-operations/index.html
+layout: layout.njk
 ---
 Too many Kiwis in pain waiting for operations
 =============================================

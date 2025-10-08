@@ -1,9 +1,12 @@
 ---
 slug: researchers-turn-to-wisdom-of-elders
-title: "Researchers turn to \"wisdom of elders\""
-date: 2012-11-05
-source-url: https://www.scoop.co.nz/stories/SC1211/S00018/researchers-turn-to-wisdom-of-elders.htm
+title: Researchers turn to "wisdom of elders"
+date: 2012-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00018/researchers-turn-to-wisdom-of-elders.htm
 author: university-of-waikato
+permalink: /archive/2012/11/05/researchers-turn-to-wisdom-of-elders/index.html
+layout: layout.njk
 ---
 Researchers turn to “wisdom of elders”
 ======================================

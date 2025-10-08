@@ -1,9 +1,12 @@
 ---
 slug: new-healthier-lives-challenge
-title: "New Healthier Lives Challenge"
-date: 2015-12-04
-source-url: https://www.scoop.co.nz/stories/GE1512/S00023/new-healthier-lives-challenge.htm
+title: New Healthier Lives Challenge
+date: 2015-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1512/S00023/new-healthier-lives-challenge.htm
 author: university-of-otago
+permalink: /archive/2015/12/04/new-healthier-lives-challenge/index.html
+layout: layout.njk
 ---
 New Healthier Lives Challenge
 =============================

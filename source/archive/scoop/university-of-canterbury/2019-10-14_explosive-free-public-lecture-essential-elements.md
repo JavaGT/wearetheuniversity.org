@@ -1,9 +1,13 @@
 ---
 slug: explosive-free-public-lecture-essential-elements
-title: "Explosive free public lecture: Essential elements"
-date: 2019-10-14
-source-url: https://www.scoop.co.nz/stories/ED1910/S00029/explosive-free-public-lecture-essential-elements.htm
+title: 'Explosive free public lecture: Essential elements'
+date: 2019-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00029/explosive-free-public-lecture-essential-elements.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/10/14/explosive-free-public-lecture-essential-elements/index.html
+layout: layout.njk
 ---
 Explosive free public lecture: Essential elements
 =================================================

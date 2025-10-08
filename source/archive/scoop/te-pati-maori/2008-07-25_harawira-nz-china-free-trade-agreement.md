@@ -1,9 +1,12 @@
 ---
 slug: harawira-nz-china-free-trade-agreement
-title: "Harawira: NZ China Free Trade Agreement"
-date: 2008-07-25
-source-url: https://www.scoop.co.nz/stories/PA0807/S00459/harawira-nz-china-free-trade-agreement.htm
+title: 'Harawira: NZ China Free Trade Agreement'
+date: 2008-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00459/harawira-nz-china-free-trade-agreement.htm
 author: te-pati-maori
+permalink: /archive/2008/07/25/harawira-nz-china-free-trade-agreement/index.html
+layout: layout.njk
 ---
 Harawira: NZ China Free Trade Agreement
 =======================================

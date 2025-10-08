@@ -1,9 +1,12 @@
 ---
 slug: labour-taking-action-on-school-donations
-title: "Labour taking action on school donations"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/PA1707/S00318/labour-taking-action-on-school-donations.htm
+title: Labour taking action on school donations
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00318/labour-taking-action-on-school-donations.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/07/21/labour-taking-action-on-school-donations/index.html
+layout: layout.njk
 ---
 Labour taking action on school donations
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: invermay-shows-nationals-concern-for-regions-a-lie
-title: "Invermay Shows National’s Concern for Regions a Lie"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00072/invermay-shows-nationals-concern-for-regions-a-lie.htm
+title: Invermay Shows National’s Concern for Regions a Lie
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00072/invermay-shows-nationals-concern-for-regions-a-lie.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/06/03/invermay-shows-nationals-concern-for-regions-a-lie/index.html
+layout: layout.njk
 ---
 Invermay Shows National’s Concern for Regions a Lie
 ===================================================

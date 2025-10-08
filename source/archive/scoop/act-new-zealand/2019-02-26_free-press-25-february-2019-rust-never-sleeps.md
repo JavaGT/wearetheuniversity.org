@@ -1,9 +1,12 @@
 ---
 slug: free-press-25-february-2019-rust-never-sleeps
-title: "Free Press, 25 February 2019 - Rust Never Sleeps"
-date: 2019-02-26
-source-url: https://www.scoop.co.nz/stories/PA1902/S00213/free-press-25-february-2019-rust-never-sleeps.htm
+title: Free Press, 25 February 2019 - Rust Never Sleeps
+date: 2019-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00213/free-press-25-february-2019-rust-never-sleeps.htm
 author: act-new-zealand
+permalink: /archive/2019/02/26/free-press-25-february-2019-rust-never-sleeps/index.html
+layout: layout.njk
 ---
 Free Press, 25 February 2019 - Rust Never Sleeps
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: minister-needs-to-stop-housing-new-zealand-heartlessness
-title: "Minister needs to stop Housing New Zealand heartlessness"
-date: 2016-11-04
-source-url: https://www.scoop.co.nz/stories/PA1611/S00103/minister-needs-to-stop-housing-new-zealand-heartlessness.htm
+title: Minister needs to stop Housing New Zealand heartlessness
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00103/minister-needs-to-stop-housing-new-zealand-heartlessness.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/11/04/minister-needs-to-stop-housing-new-zealand-heartlessness/index.html
+layout: layout.njk
 ---
 Minister needs to stop Housing New Zealand heartlessness
 ========================================================

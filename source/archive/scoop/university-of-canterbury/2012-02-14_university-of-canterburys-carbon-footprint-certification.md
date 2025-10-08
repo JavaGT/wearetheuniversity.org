@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterburys-carbon-footprint-certification
-title: "University of Canterbury's carbon footprint certification"
-date: 2012-02-14
-source-url: https://www.scoop.co.nz/stories/ED1202/S00061/university-of-canterburys-carbon-footprint-certification.htm
+title: University of Canterbury's carbon footprint certification
+date: 2012-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00061/university-of-canterburys-carbon-footprint-certification.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/02/14/university-of-canterburys-carbon-footprint-certification/index.html
+layout: layout.njk
 ---
 University of Canterbury's carbon footprint certification
 =========================================================

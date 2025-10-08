@@ -1,9 +1,13 @@
 ---
 slug: professorial-lecture-series-to-link-town-and-gown
-title: "Professorial Lecture Series to link town and gown"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00044/professorial-lecture-series-to-link-town-and-gown.htm
+title: Professorial Lecture Series to link town and gown
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00044/professorial-lecture-series-to-link-town-and-gown.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/08/10/professorial-lecture-series-to-link-town-and-gown/index.html
+layout: layout.njk
 ---
 Professorial Lecture Series to link town and gown
 =================================================

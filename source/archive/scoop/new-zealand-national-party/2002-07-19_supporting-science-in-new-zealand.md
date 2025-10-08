@@ -1,9 +1,12 @@
 ---
 slug: supporting-science-in-new-zealand
-title: "Supporting Science In New Zealand"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/PA0207/S00540/supporting-science-in-new-zealand.htm
+title: Supporting Science In New Zealand
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00540/supporting-science-in-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/19/supporting-science-in-new-zealand/index.html
+layout: layout.njk
 ---
 Supporting Science In New Zealand
 =================================

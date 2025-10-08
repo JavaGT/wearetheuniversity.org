@@ -1,9 +1,12 @@
 ---
 slug: harawira-securities-legislation-reform-bill
-title: "Harawira - Securities Legislation Reform Bill"
-date: 2006-02-22
-source-url: https://www.scoop.co.nz/stories/PA0602/S00319/harawira-securities-legislation-reform-bill.htm
+title: Harawira - Securities Legislation Reform Bill
+date: 2006-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00319/harawira-securities-legislation-reform-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/02/22/harawira-securities-legislation-reform-bill/index.html
+layout: layout.njk
 ---
 Harawira - Securities Legislation Reform Bill
 =============================================

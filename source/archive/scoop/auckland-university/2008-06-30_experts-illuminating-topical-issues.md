@@ -1,9 +1,12 @@
 ---
 slug: experts-illuminating-topical-issues
-title: "Experts Illuminating Topical Issues"
-date: 2008-06-30
-source-url: https://www.scoop.co.nz/stories/ED0806/S00085/experts-illuminating-topical-issues.htm
+title: Experts Illuminating Topical Issues
+date: 2008-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00085/experts-illuminating-topical-issues.htm
 author: auckland-university
+permalink: /archive/2008/06/30/experts-illuminating-topical-issues/index.html
+layout: layout.njk
 ---
 Experts Illuminating Topical Issues
 ===================================

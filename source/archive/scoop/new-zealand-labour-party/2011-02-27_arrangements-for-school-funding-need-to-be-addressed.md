@@ -1,9 +1,13 @@
 ---
 slug: arrangements-for-school-funding-need-to-be-addressed
-title: "Arrangements for school funding need to be addressed"
-date: 2011-02-27
-source-url: https://www.scoop.co.nz/stories/PA1102/S00408/arrangements-for-school-funding-need-to-be-addressed.htm
+title: Arrangements for school funding need to be addressed
+date: 2011-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00408/arrangements-for-school-funding-need-to-be-addressed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/27/arrangements-for-school-funding-need-to-be-addressed/index.html
+layout: layout.njk
 ---
 Arrangements for school funding need to be addressed
 ====================================================

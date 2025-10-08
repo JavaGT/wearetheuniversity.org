@@ -1,9 +1,12 @@
 ---
 slug: goff-hiding-the-truth-on-youth-crime-figures
-title: "Goff hiding the truth on youth crime figures"
-date: 2002-06-06
-source-url: https://www.scoop.co.nz/stories/PA0206/S00065/goff-hiding-the-truth-on-youth-crime-figures.htm
+title: Goff hiding the truth on youth crime figures
+date: 2002-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00065/goff-hiding-the-truth-on-youth-crime-figures.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/06/goff-hiding-the-truth-on-youth-crime-figures/index.html
+layout: layout.njk
 ---
 Goff hiding the truth on youth crime figures
 ============================================

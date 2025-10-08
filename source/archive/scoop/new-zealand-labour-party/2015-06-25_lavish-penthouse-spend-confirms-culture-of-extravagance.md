@@ -1,9 +1,13 @@
 ---
 slug: lavish-penthouse-spend-confirms-culture-of-extravagance
-title: "Lavish penthouse spend confirms culture of extravagance"
-date: 2015-06-25
-source-url: https://www.scoop.co.nz/stories/PA1506/S00471/lavish-penthouse-spend-confirms-culture-of-extravagance.htm
+title: Lavish penthouse spend confirms culture of extravagance
+date: 2015-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00471/lavish-penthouse-spend-confirms-culture-of-extravagance.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/06/25/lavish-penthouse-spend-confirms-culture-of-extravagance/index.html
+layout: layout.njk
 ---
 Lavish penthouse spend confirms culture of extravagance
 =======================================================

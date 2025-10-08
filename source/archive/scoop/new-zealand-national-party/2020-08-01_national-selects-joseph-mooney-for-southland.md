@@ -1,9 +1,12 @@
 ---
 slug: national-selects-joseph-mooney-for-southland
-title: "National Selects Joseph Mooney For Southland"
-date: 2020-08-01
-source-url: https://www.scoop.co.nz/stories/PO2008/S00001/national-selects-joseph-mooney-for-southland.htm
+title: National Selects Joseph Mooney For Southland
+date: 2020-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00001/national-selects-joseph-mooney-for-southland.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/01/national-selects-joseph-mooney-for-southland/index.html
+layout: layout.njk
 ---
 National Selects Joseph Mooney For Southland
 ============================================

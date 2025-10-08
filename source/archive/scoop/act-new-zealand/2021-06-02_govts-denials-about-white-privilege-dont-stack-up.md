@@ -1,9 +1,13 @@
 ---
 slug: govts-denials-about-white-privilege-dont-stack-up
-title: "Govt's Denials About 'white Privilege' Don't Stack Up"
-date: 2021-06-02
-source-url: https://www.scoop.co.nz/stories/PA2106/S00022/govts-denials-about-white-privilege-dont-stack-up.htm
+title: Govt's Denials About 'white Privilege' Don't Stack Up
+date: 2021-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00022/govts-denials-about-white-privilege-dont-stack-up.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/06/02/govts-denials-about-white-privilege-dont-stack-up/index.html
+layout: layout.njk
 ---
 Govt's Denials About 'white Privilege' Don't Stack Up
 =====================================================

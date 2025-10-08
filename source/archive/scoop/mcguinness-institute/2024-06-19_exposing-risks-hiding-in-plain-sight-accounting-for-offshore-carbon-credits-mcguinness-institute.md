@@ -1,9 +1,16 @@
 ---
-slug: exposing-risks-hiding-in-plain-sight-accounting-for-offshore-carbon-credits-mcguinness-institute
-title: "Exposing ‘Risks Hiding In Plain Sight’ – Accounting For Offshore Carbon Credits: McGuinness Institute"
-date: 2024-06-19
-source-url: https://www.scoop.co.nz/stories/BU2406/S00324/exposing-risks-hiding-in-plain-sight-accounting-for-offshore-carbon-credits-mcguinness-institute.htm
+slug: >-
+  exposing-risks-hiding-in-plain-sight-accounting-for-offshore-carbon-credits-mcguinness-institute
+title: >-
+  Exposing ‘Risks Hiding In Plain Sight’ – Accounting For Offshore Carbon
+  Credits: McGuinness Institute
+date: 2024-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2406/S00324/exposing-risks-hiding-in-plain-sight-accounting-for-offshore-carbon-credits-mcguinness-institute.htm
 author: mcguinness-institute
+permalink: >-
+  /archive/2024/06/19/exposing-risks-hiding-in-plain-sight-accounting-for-offshore-carbon-credits-mcguinness-institute/index.html
+layout: layout.njk
 ---
 Exposing ‘Risks Hiding In Plain Sight’ – Accounting For Offshore Carbon Credits: McGuinness Institute
 =====================================================================================================

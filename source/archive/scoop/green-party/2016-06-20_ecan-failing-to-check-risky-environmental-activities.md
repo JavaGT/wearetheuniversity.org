@@ -1,9 +1,13 @@
 ---
 slug: ecan-failing-to-check-risky-environmental-activities
-title: "ECan failing to check risky environmental activities"
-date: 2016-06-20
-source-url: https://www.scoop.co.nz/stories/AK1606/S00638/ecan-failing-to-check-risky-environmental-activities.htm
+title: ECan failing to check risky environmental activities
+date: 2016-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1606/S00638/ecan-failing-to-check-risky-environmental-activities.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/20/ecan-failing-to-check-risky-environmental-activities/index.html
+layout: layout.njk
 ---
 ECan failing to check risky environmental activities
 ====================================================

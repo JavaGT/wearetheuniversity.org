@@ -1,9 +1,12 @@
 ---
 slug: government-gets-reality-check-on-rma-reforms
-title: "Government gets reality-check on RMA reforms"
-date: 2009-08-18
-source-url: https://www.scoop.co.nz/stories/PA0908/S00230/government-gets-reality-check-on-rma-reforms.htm
+title: Government gets reality-check on RMA reforms
+date: 2009-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00230/government-gets-reality-check-on-rma-reforms.htm
 author: green-party
+permalink: /archive/2009/08/18/government-gets-reality-check-on-rma-reforms/index.html
+layout: layout.njk
 ---
 Government gets reality-check on RMA reforms
 ============================================

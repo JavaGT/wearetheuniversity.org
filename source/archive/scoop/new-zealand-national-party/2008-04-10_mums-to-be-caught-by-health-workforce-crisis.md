@@ -1,9 +1,12 @@
 ---
 slug: mums-to-be-caught-by-health-workforce-crisis
-title: "Mums-to-be caught by health workforce crisis"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00260/mums-to-be-caught-by-health-workforce-crisis.htm
+title: Mums-to-be caught by health workforce crisis
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00260/mums-to-be-caught-by-health-workforce-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/10/mums-to-be-caught-by-health-workforce-crisis/index.html
+layout: layout.njk
 ---
 Mums-to-be caught by health workforce crisis
 ============================================

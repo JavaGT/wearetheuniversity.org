@@ -1,9 +1,11 @@
 ---
 slug: planning-for-her-future
-title: "Planning for her future"
-date: 2014-04-10
+title: Planning for her future
+date: 2014-04-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1404/S00048/planning-for-her-future.htm
 author: university-of-waikato
+permalink: /archive/2014/04/10/planning-for-her-future/index.html
+layout: layout.njk
 ---
 Planning for her future
 =======================

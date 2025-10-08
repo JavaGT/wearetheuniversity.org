@@ -1,9 +1,12 @@
 ---
 slug: the-mapp-report-looks-at-defence
-title: "The Mapp Report Looks At Defence"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/PA0703/S00654/the-mapp-report-looks-at-defence.htm
+title: The Mapp Report Looks At Defence
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00654/the-mapp-report-looks-at-defence.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/30/the-mapp-report-looks-at-defence/index.html
+layout: layout.njk
 ---
 The Mapp Report Looks At Defence
 ================================

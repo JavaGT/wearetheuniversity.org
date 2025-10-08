@@ -1,9 +1,13 @@
 ---
 slug: increase-in-beneficiaries-no-cause-for-celebration
-title: "Increase in beneficiaries no cause for celebration"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00155/increase-in-beneficiaries-no-cause-for-celebration.htm
+title: Increase in beneficiaries no cause for celebration
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00155/increase-in-beneficiaries-no-cause-for-celebration.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/07/increase-in-beneficiaries-no-cause-for-celebration/index.html
+layout: layout.njk
 ---
 Increase in beneficiaries no cause for celebration
 ==================================================

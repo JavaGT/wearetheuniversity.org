@@ -1,9 +1,12 @@
 ---
 slug: election-critical-for-private-tertiary-training
-title: "Election Critical for Private Tertiary Training"
-date: 2002-07-24
-source-url: https://www.scoop.co.nz/stories/PA0207/S00641/election-critical-for-private-tertiary-training.htm
+title: Election Critical for Private Tertiary Training
+date: 2002-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00641/election-critical-for-private-tertiary-training.htm
 author: act-new-zealand
+permalink: /archive/2002/07/24/election-critical-for-private-tertiary-training/index.html
+layout: layout.njk
 ---
 Election Critical for Private Tertiary Training
 ===============================================

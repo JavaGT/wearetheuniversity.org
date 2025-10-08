@@ -1,9 +1,12 @@
 ---
 slug: icons-of-architecture-on-show-at-victoria
-title: "Icons of architecture on show at Victoria"
-date: 2007-02-19
-source-url: https://www.scoop.co.nz/stories/ED0702/S00067/icons-of-architecture-on-show-at-victoria.htm
+title: Icons of architecture on show at Victoria
+date: 2007-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00067/icons-of-architecture-on-show-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/19/icons-of-architecture-on-show-at-victoria/index.html
+layout: layout.njk
 ---
 Icons of architecture on show at Victoria
 =========================================

@@ -1,9 +1,11 @@
 ---
 slug: roy-welcomes-bakers-comments
-title: "Roy Welcomes Baker's Comments"
-date: 2003-03-10
+title: Roy Welcomes Baker's Comments
+date: 2003-03-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0303/S00151/roy-welcomes-bakers-comments.htm
 author: act-new-zealand
+permalink: /archive/2003/03/10/roy-welcomes-bakers-comments/index.html
+layout: layout.njk
 ---
 Roy Welcomes Baker's Comments
 =============================

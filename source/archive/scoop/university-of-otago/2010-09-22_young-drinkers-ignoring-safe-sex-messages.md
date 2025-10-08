@@ -1,9 +1,12 @@
 ---
 slug: young-drinkers-ignoring-safe-sex-messages
-title: "Young drinkers ignoring safe sex messages"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/ED1009/S00098/young-drinkers-ignoring-safe-sex-messages.htm
+title: Young drinkers ignoring safe sex messages
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00098/young-drinkers-ignoring-safe-sex-messages.htm
 author: university-of-otago
+permalink: /archive/2010/09/22/young-drinkers-ignoring-safe-sex-messages/index.html
+layout: layout.njk
 ---
 Young drinkers ignoring safe sex messages
 =========================================

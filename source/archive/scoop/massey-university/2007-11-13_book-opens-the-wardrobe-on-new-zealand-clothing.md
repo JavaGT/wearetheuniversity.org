@@ -1,9 +1,12 @@
 ---
 slug: book-opens-the-wardrobe-on-new-zealand-clothing
-title: "Book opens the wardrobe on New Zealand clothing"
-date: 2007-11-13
-source-url: https://www.scoop.co.nz/stories/ED0711/S00063/book-opens-the-wardrobe-on-new-zealand-clothing.htm
+title: Book opens the wardrobe on New Zealand clothing
+date: 2007-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00063/book-opens-the-wardrobe-on-new-zealand-clothing.htm
 author: massey-university
+permalink: /archive/2007/11/13/book-opens-the-wardrobe-on-new-zealand-clothing/index.html
+layout: layout.njk
 ---
 Book opens the wardrobe on New Zealand clothing
 ===============================================

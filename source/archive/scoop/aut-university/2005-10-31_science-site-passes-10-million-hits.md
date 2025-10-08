@@ -1,9 +1,12 @@
 ---
 slug: science-site-passes-10-million-hits
-title: "Science Site Passes 10 Million Hits"
-date: 2005-10-31
-source-url: https://www.scoop.co.nz/stories/SC0510/S00066/science-site-passes-10-million-hits.htm
+title: Science Site Passes 10 Million Hits
+date: 2005-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00066/science-site-passes-10-million-hits.htm
 author: aut-university
+permalink: /archive/2005/10/31/science-site-passes-10-million-hits/index.html
+layout: layout.njk
 ---
 Science Site Passes 10 Million Hits
 ===================================

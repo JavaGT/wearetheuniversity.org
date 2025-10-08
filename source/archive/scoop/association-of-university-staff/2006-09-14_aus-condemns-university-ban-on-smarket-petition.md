@@ -1,9 +1,12 @@
 ---
 slug: aus-condemns-university-ban-on-smarket-petition
-title: "AUS Condemns University Ban on S'market Petition"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00062/aus-condemns-university-ban-on-smarket-petition.htm
+title: AUS Condemns University Ban on S'market Petition
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00062/aus-condemns-university-ban-on-smarket-petition.htm
 author: association-of-university-staff
+permalink: /archive/2006/09/14/aus-condemns-university-ban-on-smarket-petition/index.html
+layout: layout.njk
 ---
 AUS Condemns University Ban on S'market Petition
 ================================================

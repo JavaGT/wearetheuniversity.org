@@ -1,9 +1,13 @@
 ---
 slug: researchers-helping-to-reduce-traffic-jam-disruptions
-title: "Researchers helping to reduce traffic jam disruptions"
-date: 2015-04-02
-source-url: https://www.scoop.co.nz/stories/ED1504/S00006/researchers-helping-to-reduce-traffic-jam-disruptions.htm
+title: Researchers helping to reduce traffic jam disruptions
+date: 2015-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00006/researchers-helping-to-reduce-traffic-jam-disruptions.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/02/researchers-helping-to-reduce-traffic-jam-disruptions/index.html
+layout: layout.njk
 ---
 Researchers helping to reduce traffic jam disruptions
 =====================================================

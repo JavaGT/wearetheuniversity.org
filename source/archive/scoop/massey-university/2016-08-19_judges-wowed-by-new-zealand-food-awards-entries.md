@@ -1,9 +1,12 @@
 ---
 slug: judges-wowed-by-new-zealand-food-awards-entries
-title: "Judges wowed by New Zealand Food Awards entries"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/BU1608/S00651/judges-wowed-by-new-zealand-food-awards-entries.htm
+title: Judges wowed by New Zealand Food Awards entries
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1608/S00651/judges-wowed-by-new-zealand-food-awards-entries.htm
 author: massey-university
+permalink: /archive/2016/08/19/judges-wowed-by-new-zealand-food-awards-entries/index.html
+layout: layout.njk
 ---
 Judges wowed by New Zealand Food Awards entries
 ===============================================

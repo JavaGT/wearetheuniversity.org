@@ -1,9 +1,12 @@
 ---
 slug: 50-students-attain-sporting-excellence
-title: "50 Students Attain Sporting Excellence"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/ED0210/S00037/50-students-attain-sporting-excellence.htm
+title: 50 Students Attain Sporting Excellence
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00037/50-students-attain-sporting-excellence.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/10/11/50-students-attain-sporting-excellence/index.html
+layout: layout.njk
 ---
 50 Students Attain Sporting Excellence
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-research-challenges-views-on-problem-gambling
-title: "NZ research challenges views on problem gambling"
-date: 2004-09-20
-source-url: https://www.scoop.co.nz/stories/GE0409/S00083/nz-research-challenges-views-on-problem-gambling.htm
+title: NZ research challenges views on problem gambling
+date: 2004-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0409/S00083/nz-research-challenges-views-on-problem-gambling.htm
 author: aut-university
+permalink: >-
+  /archive/2004/09/20/nz-research-challenges-views-on-problem-gambling/index.html
+layout: layout.njk
 ---
 NZ research challenges views on problem gambling
 ================================================

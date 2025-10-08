@@ -1,9 +1,12 @@
 ---
 slug: visiting-economist-to-speak-on-globalisation
-title: "Visiting Economist to speak on Globalisation"
-date: 2005-07-11
-source-url: https://www.scoop.co.nz/stories/BU0507/S00135/visiting-economist-to-speak-on-globalisation.htm
+title: Visiting Economist to speak on Globalisation
+date: 2005-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0507/S00135/visiting-economist-to-speak-on-globalisation.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2005/07/11/visiting-economist-to-speak-on-globalisation/index.html
+layout: layout.njk
 ---
 Visiting Economist to speak on Globalisation
 ============================================

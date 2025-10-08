@@ -1,9 +1,12 @@
 ---
 slug: reply-to-the-prime-ministers-statement
-title: "Reply To The Prime Minister’s Statement"
-date: 2013-01-29
-source-url: https://www.scoop.co.nz/stories/PA1301/S00146/reply-to-the-prime-ministers-statement.htm
+title: Reply To The Prime Minister’s Statement
+date: 2013-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00146/reply-to-the-prime-ministers-statement.htm
 author: new-zealand-first-party
+permalink: /archive/2013/01/29/reply-to-the-prime-ministers-statement/index.html
+layout: layout.njk
 ---
 Reply To The Prime Minister’s Statement
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: refusal-to-release-information-arouses-suspicion
-title: "Refusal to release information arouses suspicion"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/PA1208/S00386/refusal-to-release-information-arouses-suspicion.htm
+title: Refusal to release information arouses suspicion
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00386/refusal-to-release-information-arouses-suspicion.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/27/refusal-to-release-information-arouses-suspicion/index.html
+layout: layout.njk
 ---
 Refusal to release information arouses suspicion
 ================================================

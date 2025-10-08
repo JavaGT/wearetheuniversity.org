@@ -1,9 +1,12 @@
 ---
 slug: kindergarten-teachers-vote-to-strike
-title: "Kindergarten Teachers Vote To Strike"
-date: 2005-12-02
-source-url: https://www.scoop.co.nz/stories/ED0512/S00007/kindergarten-teachers-vote-to-strike.htm
+title: Kindergarten Teachers Vote To Strike
+date: 2005-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00007/kindergarten-teachers-vote-to-strike.htm
 author: nzei
+permalink: /archive/2005/12/02/kindergarten-teachers-vote-to-strike/index.html
+layout: layout.njk
 ---
 Kindergarten Teachers Vote To Strike
 ====================================

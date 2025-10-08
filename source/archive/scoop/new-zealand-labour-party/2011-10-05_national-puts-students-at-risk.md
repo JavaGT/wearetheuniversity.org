@@ -1,9 +1,12 @@
 ---
 slug: national-puts-students-at-risk
-title: "National puts students at risk"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/PA1110/S00109/national-puts-students-at-risk.htm
+title: National puts students at risk
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00109/national-puts-students-at-risk.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/05/national-puts-students-at-risk/index.html
+layout: layout.njk
 ---
 National puts students at risk
 ==============================

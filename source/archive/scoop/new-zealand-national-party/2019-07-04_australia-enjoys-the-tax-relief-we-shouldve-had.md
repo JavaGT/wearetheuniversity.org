@@ -1,9 +1,12 @@
 ---
 slug: australia-enjoys-the-tax-relief-we-shouldve-had
-title: "Australia enjoys the tax relief we should’ve had"
-date: 2019-07-04
-source-url: https://www.scoop.co.nz/stories/PA1907/S00034/australia-enjoys-the-tax-relief-we-shouldve-had.htm
+title: Australia enjoys the tax relief we should’ve had
+date: 2019-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00034/australia-enjoys-the-tax-relief-we-shouldve-had.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/04/australia-enjoys-the-tax-relief-we-shouldve-had/index.html
+layout: layout.njk
 ---
 Australia enjoys the tax relief we should’ve had
 ================================================

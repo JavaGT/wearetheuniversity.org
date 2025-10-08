@@ -1,9 +1,12 @@
 ---
 slug: faster-assessments-for-treatment-under-labour
-title: "Faster assessments for treatment under Labour"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/PA0605/S00201/faster-assessments-for-treatment-under-labour.htm
+title: Faster assessments for treatment under Labour
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00201/faster-assessments-for-treatment-under-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/05/09/faster-assessments-for-treatment-under-labour/index.html
+layout: layout.njk
 ---
 Faster assessments for treatment under Labour
 =============================================

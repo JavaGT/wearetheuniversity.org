@@ -1,9 +1,12 @@
 ---
 slug: electricity-inquiry-work-already-done-nats
-title: "Electricity Inquiry Work Already Done - Nats"
-date: 2000-02-03
-source-url: https://www.scoop.co.nz/stories/PA0002/S00037/electricity-inquiry-work-already-done-nats.htm
+title: Electricity Inquiry Work Already Done - Nats
+date: 2000-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00037/electricity-inquiry-work-already-done-nats.htm
 author: new-zealand-national-party
+permalink: /archive/2000/02/03/electricity-inquiry-work-already-done-nats/index.html
+layout: layout.njk
 ---
 Electricity Inquiry Work Already Done - Nats
 ============================================

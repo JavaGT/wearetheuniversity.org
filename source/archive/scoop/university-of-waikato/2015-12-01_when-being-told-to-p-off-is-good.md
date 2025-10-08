@@ -1,9 +1,12 @@
 ---
 slug: when-being-told-to-p-off-is-good
-title: "When being told to p-off is good"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/ED1512/S00003/when-being-told-to-p-off-is-good.htm
+title: When being told to p-off is good
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00003/when-being-told-to-p-off-is-good.htm
 author: university-of-waikato
+permalink: /archive/2015/12/01/when-being-told-to-p-off-is-good/index.html
+layout: layout.njk
 ---
 When being told to p-off is good
 ================================

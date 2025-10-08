@@ -1,9 +1,13 @@
 ---
 slug: phd-student-spends-year-researching-issues-at-nz-high-school
-title: "PhD student spends year researching issues at NZ high school"
-date: 2014-01-31
-source-url: https://www.scoop.co.nz/stories/ED1401/S00065/phd-student-spends-year-researching-issues-at-nz-high-school.htm
+title: PhD student spends year researching issues at NZ high school
+date: 2014-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00065/phd-student-spends-year-researching-issues-at-nz-high-school.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/31/phd-student-spends-year-researching-issues-at-nz-high-school/index.html
+layout: layout.njk
 ---
 PhD student spends year researching issues at NZ high school
 ============================================================

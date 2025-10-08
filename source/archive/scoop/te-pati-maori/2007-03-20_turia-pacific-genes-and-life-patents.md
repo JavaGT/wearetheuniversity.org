@@ -1,9 +1,12 @@
 ---
 slug: turia-pacific-genes-and-life-patents
-title: "Turia: Pacific Genes and Life Patents"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/PA0703/S00400/turia-pacific-genes-and-life-patents.htm
+title: 'Turia: Pacific Genes and Life Patents'
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00400/turia-pacific-genes-and-life-patents.htm
 author: te-pati-maori
+permalink: /archive/2007/03/20/turia-pacific-genes-and-life-patents/index.html
+layout: layout.njk
 ---
 Turia: Pacific Genes and Life Patents
 =====================================

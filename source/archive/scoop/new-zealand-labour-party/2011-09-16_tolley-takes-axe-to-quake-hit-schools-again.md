@@ -1,9 +1,12 @@
 ---
 slug: tolley-takes-axe-to-quake-hit-schools-again
-title: "Tolley takes axe to quake-hit schools again"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/PA1109/S00359/tolley-takes-axe-to-quake-hit-schools-again.htm
+title: Tolley takes axe to quake-hit schools again
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00359/tolley-takes-axe-to-quake-hit-schools-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/16/tolley-takes-axe-to-quake-hit-schools-again/index.html
+layout: layout.njk
 ---
 Tolley takes axe to quake-hit schools again
 ===========================================

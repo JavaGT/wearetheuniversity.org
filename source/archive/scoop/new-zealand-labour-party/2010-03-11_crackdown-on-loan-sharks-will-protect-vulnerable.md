@@ -1,9 +1,13 @@
 ---
 slug: crackdown-on-loan-sharks-will-protect-vulnerable
-title: "Crackdown on Loan Sharks will protect vulnerable"
-date: 2010-03-11
-source-url: https://www.scoop.co.nz/stories/PA1003/S00154/crackdown-on-loan-sharks-will-protect-vulnerable.htm
+title: Crackdown on Loan Sharks will protect vulnerable
+date: 2010-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00154/crackdown-on-loan-sharks-will-protect-vulnerable.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/03/11/crackdown-on-loan-sharks-will-protect-vulnerable/index.html
+layout: layout.njk
 ---
 Crackdown on Loan Sharks will protect vulnerable
 ================================================

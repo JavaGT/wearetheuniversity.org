@@ -1,9 +1,13 @@
 ---
 slug: methane-and-hydrogen-could-be-the-key-to-life-on-mars
-title: "Methane And Hydrogen Could Be The Key To Life On Mars"
-date: 2012-06-22
-source-url: https://www.scoop.co.nz/stories/SC1206/S00046/methane-and-hydrogen-could-be-the-key-to-life-on-mars.htm
+title: Methane And Hydrogen Could Be The Key To Life On Mars
+date: 2012-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00046/methane-and-hydrogen-could-be-the-key-to-life-on-mars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/06/22/methane-and-hydrogen-could-be-the-key-to-life-on-mars/index.html
+layout: layout.njk
 ---
 Methane And Hydrogen Could Be The Key To Life On Mars
 =====================================================

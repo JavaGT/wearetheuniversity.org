@@ -1,9 +1,12 @@
 ---
 slug: 90%-of-teachers-graduate-with-student-debt
-title: "90% of teachers graduate with student debt"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/ED0504/S00093/90-of-teachers-graduate-with-student-debt.htm
+title: 90% of teachers graduate with student debt
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00093/90-of-teachers-graduate-with-student-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/04/29/90/index.html
+layout: layout.njk
 ---
 90% of teachers graduate with student debt
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: judd-speech-the-centre-right-can-win
-title: "Judd Speech: The Centre-Right Can Win"
-date: 2005-03-14
-source-url: https://www.scoop.co.nz/stories/PA0503/S00265/judd-speech-the-centre-right-can-win.htm
+title: 'Judd Speech: The Centre-Right Can Win'
+date: 2005-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00265/judd-speech-the-centre-right-can-win.htm
 author: act-new-zealand
+permalink: /archive/2005/03/14/judd-speech-the-centre-right-can-win/index.html
+layout: layout.njk
 ---
 Judd Speech: The Centre-Right Can Win
 =====================================

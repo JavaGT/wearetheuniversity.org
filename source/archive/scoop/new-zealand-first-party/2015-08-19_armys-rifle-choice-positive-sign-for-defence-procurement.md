@@ -1,9 +1,13 @@
 ---
 slug: armys-rifle-choice-positive-sign-for-defence-procurement
-title: "Army’s Rifle Choice Positive Sign for Defence Procurement"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/PA1508/S00315/armys-rifle-choice-positive-sign-for-defence-procurement.htm
+title: Army’s Rifle Choice Positive Sign for Defence Procurement
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00315/armys-rifle-choice-positive-sign-for-defence-procurement.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/19/armys-rifle-choice-positive-sign-for-defence-procurement/index.html
+layout: layout.njk
 ---
 Army’s Rifle Choice Positive Sign for Defence Procurement
 =========================================================

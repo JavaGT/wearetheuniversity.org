@@ -1,9 +1,12 @@
 ---
 slug: bridges-and-brownlee-to-visit-india-and-china
-title: "Bridges and Brownlee to visit India and China"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/PA1908/S00288/bridges-and-brownlee-to-visit-india-and-china.htm
+title: Bridges and Brownlee to visit India and China
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00288/bridges-and-brownlee-to-visit-india-and-china.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/29/bridges-and-brownlee-to-visit-india-and-china/index.html
+layout: layout.njk
 ---
 Bridges and Brownlee to visit India and China
 =============================================

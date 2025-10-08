@@ -1,9 +1,12 @@
 ---
 slug: labour-fails-again-on-crime-promise
-title: "Labour fails again on crime promise"
-date: 2006-04-03
-source-url: https://www.scoop.co.nz/stories/PA0604/S00025/labour-fails-again-on-crime-promise.htm
+title: Labour fails again on crime promise
+date: 2006-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00025/labour-fails-again-on-crime-promise.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/03/labour-fails-again-on-crime-promise/index.html
+layout: layout.njk
 ---
 Labour fails again on crime promise
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: urgency-to-consider-mental-health-ramping-up
-title: "Urgency to consider mental health ramping up"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/GE0809/S00169/urgency-to-consider-mental-health-ramping-up.htm
+title: Urgency to consider mental health ramping up
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0809/S00169/urgency-to-consider-mental-health-ramping-up.htm
 author: aut-university
+permalink: /archive/2008/09/29/urgency-to-consider-mental-health-ramping-up/index.html
+layout: layout.njk
 ---
 Urgency to consider mental health ramping up
 ============================================

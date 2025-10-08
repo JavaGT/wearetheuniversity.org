@@ -1,9 +1,12 @@
 ---
 slug: mexican-photography-expo-at-waikato-university
-title: "Mexican Photography Expo at Waikato University"
-date: 2004-03-26
-source-url: https://www.scoop.co.nz/stories/CU0403/S00159/mexican-photography-expo-at-waikato-university.htm
+title: Mexican Photography Expo at Waikato University
+date: 2004-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0403/S00159/mexican-photography-expo-at-waikato-university.htm
 author: waikato-university
+permalink: /archive/2004/03/26/mexican-photography-expo-at-waikato-university/index.html
+layout: layout.njk
 ---
 Mexican Photography Expo at Waikato University
 ==============================================

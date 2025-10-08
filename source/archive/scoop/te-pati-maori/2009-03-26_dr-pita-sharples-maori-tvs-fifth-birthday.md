@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-maori-tvs-fifth-birthday
-title: "Dr Pita Sharples - Maori TV's Fifth Birthday"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/PA0903/S00374/dr-pita-sharples-maori-tvs-fifth-birthday.htm
+title: Dr Pita Sharples - Maori TV's Fifth Birthday
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00374/dr-pita-sharples-maori-tvs-fifth-birthday.htm
 author: te-pati-maori
+permalink: /archive/2009/03/26/dr-pita-sharples-maori-tvs-fifth-birthday/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples - Maori TV's Fifth Birthday
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-students-march-for-freedom
-title: "Māori students march for Freedom"
-date: 2016-08-25
-source-url: https://www.scoop.co.nz/stories/ED1608/S00089/maori-students-march-for-freedom.htm
+title: Māori students march for Freedom
+date: 2016-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00089/maori-students-march-for-freedom.htm
 author: te-mana-akonga
+permalink: /archive/2016/08/25/m/index.html
+layout: layout.njk
 ---
 Māori students march for Freedom
 ================================

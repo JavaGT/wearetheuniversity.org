@@ -1,9 +1,13 @@
 ---
 slug: glacier-tourism-potentially-under-threat-researcher-says
-title: "Glacier tourism potentially under threat, researcher says"
-date: 2014-05-09
-source-url: https://www.scoop.co.nz/stories/BU1405/S00315/glacier-tourism-potentially-under-threat-researcher-says.htm
+title: Glacier tourism potentially under threat, researcher says
+date: 2014-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00315/glacier-tourism-potentially-under-threat-researcher-says.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/09/glacier-tourism-potentially-under-threat-researcher-says/index.html
+layout: layout.njk
 ---
 Glacier tourism potentially under threat, researcher says
 =========================================================

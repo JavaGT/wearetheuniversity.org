@@ -1,9 +1,12 @@
 ---
 slug: uc-innovators-winning-ideas-announced
-title: "UC Innovators winning ideas announced"
-date: 2016-02-05
-source-url: https://www.scoop.co.nz/stories/ED1602/S00027/uc-innovators-winning-ideas-announced.htm
+title: UC Innovators winning ideas announced
+date: 2016-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00027/uc-innovators-winning-ideas-announced.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/05/uc-innovators-winning-ideas-announced/index.html
+layout: layout.njk
 ---
 UC Innovators winning ideas announced
 =====================================

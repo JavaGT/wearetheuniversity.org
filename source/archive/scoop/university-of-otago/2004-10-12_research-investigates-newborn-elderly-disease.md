@@ -1,9 +1,12 @@
 ---
 slug: research-investigates-newborn-elderly-disease
-title: "Research Investigates Newborn/Elderly Disease"
-date: 2004-10-12
-source-url: https://www.scoop.co.nz/stories/ED0410/S00042/research-investigates-newbornelderly-disease.htm
+title: Research Investigates Newborn/Elderly Disease
+date: 2004-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00042/research-investigates-newbornelderly-disease.htm
 author: university-of-otago
+permalink: /archive/2004/10/12/research-investigates-newborn-elderly-disease/index.html
+layout: layout.njk
 ---
 Research Investigates Newborn/Elderly Disease
 =============================================

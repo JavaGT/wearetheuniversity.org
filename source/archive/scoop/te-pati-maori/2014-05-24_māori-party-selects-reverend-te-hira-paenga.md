@@ -1,9 +1,12 @@
 ---
 slug: māori-party-selects-reverend-te-hira-paenga
-title: "Māori Party Selects Reverend Te Hira Paenga"
-date: 2014-05-24
-source-url: https://www.scoop.co.nz/stories/PO1405/S00403/maori-party-selects-reverend-te-hira-paenga.htm
+title: Māori Party Selects Reverend Te Hira Paenga
+date: 2014-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00403/maori-party-selects-reverend-te-hira-paenga.htm
 author: te-pati-maori
+permalink: /archive/2014/05/24/m/index.html
+layout: layout.njk
 ---
 Māori Party Selects Reverend Te Hira Paenga
 ===========================================

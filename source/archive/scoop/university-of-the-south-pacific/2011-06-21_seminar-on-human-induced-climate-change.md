@@ -1,9 +1,12 @@
 ---
 slug: seminar-on-human-induced-climate-change
-title: "Seminar on Human-Induced Climate Change"
-date: 2011-06-21
-source-url: https://www.scoop.co.nz/stories/WO1106/S00495/seminar-on-human-induced-climate-change.htm
+title: Seminar on Human-Induced Climate Change
+date: 2011-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1106/S00495/seminar-on-human-induced-climate-change.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/06/21/seminar-on-human-induced-climate-change/index.html
+layout: layout.njk
 ---
 Seminar on Human-Induced Climate Change
 =======================================

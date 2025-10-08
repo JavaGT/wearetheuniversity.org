@@ -1,9 +1,12 @@
 ---
 slug: zero-tolerance-for-drug-pushers-peters
-title: "Zero Tolerance For Drug Pushers - Peters"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/PA0310/S00192/zero-tolerance-for-drug-pushers-peters.htm
+title: Zero Tolerance For Drug Pushers - Peters
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00192/zero-tolerance-for-drug-pushers-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/09/zero-tolerance-for-drug-pushers-peters/index.html
+layout: layout.njk
 ---
 Zero Tolerance For Drug Pushers - Peters
 ========================================

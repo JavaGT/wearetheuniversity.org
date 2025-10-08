@@ -1,9 +1,12 @@
 ---
 slug: massey-researcher-wins-top-māori-award
-title: "Massey researcher wins top Māori award"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/ED1312/S00030/massey-researcher-wins-top-maori-award.htm
+title: Massey researcher wins top Māori award
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00030/massey-researcher-wins-top-maori-award.htm
 author: massey-university
+permalink: /archive/2013/12/04/massey-researcher-wins-top-m/index.html
+layout: layout.njk
 ---
 Massey researcher wins top Māori award
 ======================================

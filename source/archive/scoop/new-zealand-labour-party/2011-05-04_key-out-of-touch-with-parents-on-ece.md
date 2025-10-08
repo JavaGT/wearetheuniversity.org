@@ -1,9 +1,12 @@
 ---
 slug: key-out-of-touch-with-parents-on-ece
-title: "Key out of touch with parents on ECE"
-date: 2011-05-04
-source-url: https://www.scoop.co.nz/stories/PA1105/S00085/key-out-of-touch-with-parents-on-ece.htm
+title: Key out of touch with parents on ECE
+date: 2011-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00085/key-out-of-touch-with-parents-on-ece.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/04/key-out-of-touch-with-parents-on-ece/index.html
+layout: layout.njk
 ---
 Key out of touch with parents on ECE
 ====================================

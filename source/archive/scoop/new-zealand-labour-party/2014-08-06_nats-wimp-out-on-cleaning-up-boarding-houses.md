@@ -1,9 +1,12 @@
 ---
 slug: nats-wimp-out-on-cleaning-up-boarding-houses
-title: "Nats wimp out on cleaning up boarding houses"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/PA1408/S00106/nats-wimp-out-on-cleaning-up-boarding-houses.htm
+title: Nats wimp out on cleaning up boarding houses
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00106/nats-wimp-out-on-cleaning-up-boarding-houses.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/06/nats-wimp-out-on-cleaning-up-boarding-houses/index.html
+layout: layout.njk
 ---
 Nats wimp out on cleaning up boarding houses
 ============================================

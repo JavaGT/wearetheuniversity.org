@@ -1,9 +1,13 @@
 ---
 slug: new-cbt-degrees-to-help-address-inequality-in-new-zealand
-title: "New CBT Degrees To Help Address Inequality In New Zealand"
-date: 2020-11-23
-source-url: https://www.scoop.co.nz/stories/ED2011/S00043/new-cbt-degrees-to-help-address-inequality-in-new-zealand.htm
+title: New CBT Degrees To Help Address Inequality In New Zealand
+date: 2020-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00043/new-cbt-degrees-to-help-address-inequality-in-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/23/new-cbt-degrees-to-help-address-inequality-in-new-zealand/index.html
+layout: layout.njk
 ---
 New CBT Degrees To Help Address Inequality In New Zealand
 =========================================================

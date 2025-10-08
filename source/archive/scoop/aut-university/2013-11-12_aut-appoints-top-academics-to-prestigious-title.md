@@ -1,9 +1,12 @@
 ---
 slug: aut-appoints-top-academics-to-prestigious-title
-title: "AUT appoints top academics to prestigious title"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/ED1311/S00086/aut-appoints-top-academics-to-prestigious-title.htm
+title: AUT appoints top academics to prestigious title
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00086/aut-appoints-top-academics-to-prestigious-title.htm
 author: aut-university
+permalink: /archive/2013/11/12/aut-appoints-top-academics-to-prestigious-title/index.html
+layout: layout.njk
 ---
 AUT appoints top academics to prestigious title
 ===============================================

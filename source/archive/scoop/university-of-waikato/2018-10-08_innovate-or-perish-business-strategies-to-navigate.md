@@ -1,9 +1,13 @@
 ---
 slug: innovate-or-perish-business-strategies-to-navigate
-title: "Innovate or perish: Business strategies to navigate"
-date: 2018-10-08
-source-url: https://www.scoop.co.nz/stories/BU1810/S00228/innovate-or-perish-business-strategies-to-navigate.htm
+title: 'Innovate or perish: Business strategies to navigate'
+date: 2018-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1810/S00228/innovate-or-perish-business-strategies-to-navigate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/10/08/innovate-or-perish-business-strategies-to-navigate/index.html
+layout: layout.njk
 ---
 Innovate or perish: Business strategies to navigate
 ===================================================

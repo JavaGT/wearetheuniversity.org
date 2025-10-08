@@ -1,9 +1,13 @@
 ---
 slug: turia-telecommunications-amendment-bill-2nd-reading
-title: "Turia: Telecommunications Amendment Bill, 2nd reading"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/PA1106/S00216/turia-telecommunications-amendment-bill-2nd-reading.htm
+title: 'Turia: Telecommunications Amendment Bill, 2nd reading'
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00216/turia-telecommunications-amendment-bill-2nd-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/14/turia-telecommunications-amendment-bill-2nd-reading/index.html
+layout: layout.njk
 ---
 Turia: Telecommunications Amendment Bill, 2nd reading
 =====================================================

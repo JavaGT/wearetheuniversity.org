@@ -1,9 +1,13 @@
 ---
 slug: important-milestone-in-combatting-student-sexual-violence
-title: "Important Milestone in Combatting Student Sexual Violence"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/ED1708/S00032/important-milestone-in-combatting-student-sexual-violence.htm
+title: Important Milestone in Combatting Student Sexual Violence
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00032/important-milestone-in-combatting-student-sexual-violence.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2017/08/10/important-milestone-in-combatting-student-sexual-violence/index.html
+layout: layout.njk
 ---
 Important Milestone in Combatting Student Sexual Violence
 =========================================================

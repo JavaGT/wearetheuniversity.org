@@ -1,9 +1,12 @@
 ---
 slug: rod-donald-speech-in-response-to-pms-statement
-title: "Rod Donald Speech In Response To PM's Statement"
-date: 2002-02-12
-source-url: https://www.scoop.co.nz/stories/PA0202/S00139/rod-donald-speech-in-response-to-pms-statement.htm
+title: Rod Donald Speech In Response To PM's Statement
+date: 2002-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00139/rod-donald-speech-in-response-to-pms-statement.htm
 author: green-party
+permalink: /archive/2002/02/12/rod-donald-speech-in-response-to-pms-statement/index.html
+layout: layout.njk
 ---
 Rod Donald Speech In Response To PM's Statement
 ===============================================

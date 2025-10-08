@@ -1,9 +1,12 @@
 ---
 slug: glib-talk-cant-mask-reliance-on-immigration
-title: "Glib Talk Can’t Mask Reliance on Immigration"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00663/glib-talk-cant-mask-reliance-on-immigration.htm
+title: Glib Talk Can’t Mask Reliance on Immigration
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00663/glib-talk-cant-mask-reliance-on-immigration.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/31/glib-talk-cant-mask-reliance-on-immigration/index.html
+layout: layout.njk
 ---
 Glib Talk Can’t Mask Reliance on Immigration
 ============================================

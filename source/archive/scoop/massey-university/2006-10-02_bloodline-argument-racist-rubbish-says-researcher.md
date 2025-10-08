@@ -1,9 +1,13 @@
 ---
 slug: bloodline-argument-racist-rubbish-says-researcher
-title: "Bloodline argument racist rubbish, says researcher"
-date: 2006-10-02
-source-url: https://www.scoop.co.nz/stories/ED0610/S00003/bloodline-argument-racist-rubbish-says-researcher.htm
+title: Bloodline argument racist rubbish, says researcher
+date: 2006-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00003/bloodline-argument-racist-rubbish-says-researcher.htm
 author: massey-university
+permalink: >-
+  /archive/2006/10/02/bloodline-argument-racist-rubbish-says-researcher/index.html
+layout: layout.njk
 ---
 Bloodline argument racist rubbish, says researcher
 ==================================================

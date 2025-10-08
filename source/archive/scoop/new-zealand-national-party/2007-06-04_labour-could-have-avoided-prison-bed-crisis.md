@@ -1,9 +1,12 @@
 ---
 slug: labour-could-have-avoided-prison-bed-crisis
-title: "Labour could have avoided prison bed crisis"
-date: 2007-06-04
-source-url: https://www.scoop.co.nz/stories/PA0706/S00041/labour-could-have-avoided-prison-bed-crisis.htm
+title: Labour could have avoided prison bed crisis
+date: 2007-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00041/labour-could-have-avoided-prison-bed-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/04/labour-could-have-avoided-prison-bed-crisis/index.html
+layout: layout.njk
 ---
 Labour could have avoided prison bed crisis
 ===========================================

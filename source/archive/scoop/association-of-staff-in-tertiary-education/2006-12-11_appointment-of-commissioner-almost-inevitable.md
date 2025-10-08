@@ -1,9 +1,12 @@
 ---
 slug: appointment-of-commissioner-almost-inevitable
 title: \\"Appointment of Commissioner \"almost inevitable\""
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/ED0612/S00032/appointment-of-commissioner-almost-inevitable.htm
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00032/appointment-of-commissioner-almost-inevitable.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/12/11/appointment-of-commissioner-almost-inevitable/index.html
+layout: layout.njk
 ---
 Appointment of Commissioner “almost inevitable"
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: free-press-november-23-2015
-title: "Free Press, November 23 2015"
-date: 2015-11-23
+title: Free Press, November 23 2015
+date: 2015-11-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1511/S00423/free-press-november-23-2015.htm
 author: act-new-zealand
+permalink: /archive/2015/11/23/free-press-november-23-2015/index.html
+layout: layout.njk
 ---
 Free Press, November 23 2015
 ============================

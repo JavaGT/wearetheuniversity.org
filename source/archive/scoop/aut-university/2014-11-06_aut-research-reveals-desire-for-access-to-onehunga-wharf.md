@@ -1,9 +1,13 @@
 ---
 slug: aut-research-reveals-desire-for-access-to-onehunga-wharf
-title: "AUT research reveals desire for access to Onehunga Wharf"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/AK1411/S00100/aut-research-reveals-desire-for-access-to-onehunga-wharf.htm
+title: AUT research reveals desire for access to Onehunga Wharf
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00100/aut-research-reveals-desire-for-access-to-onehunga-wharf.htm
 author: aut-university
+permalink: >-
+  /archive/2014/11/06/aut-research-reveals-desire-for-access-to-onehunga-wharf/index.html
+layout: layout.njk
 ---
 AUT research reveals desire for access to Onehunga Wharf
 ========================================================

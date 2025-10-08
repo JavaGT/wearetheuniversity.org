@@ -1,9 +1,12 @@
 ---
 slug: computer-science-team-off-to-russia
-title: "Computer Science team off to Russia"
-date: 2013-10-24
-source-url: https://www.scoop.co.nz/stories/ED1310/S00155/computer-science-team-off-to-russia.htm
+title: Computer Science team off to Russia
+date: 2013-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00155/computer-science-team-off-to-russia.htm
 author: waikato-university
+permalink: /archive/2013/10/24/computer-science-team-off-to-russia/index.html
+layout: layout.njk
 ---
 Computer Science team off to Russia
 ===================================

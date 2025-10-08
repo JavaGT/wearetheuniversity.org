@@ -1,9 +1,13 @@
 ---
 slug: cutting-red-tape-to-ease-the-health-workforce-crisis
-title: "Cutting Red Tape To Ease The Health Workforce Crisis"
-date: 2023-08-08
-source-url: https://www.scoop.co.nz/stories/PA2308/S00051/cutting-red-tape-to-ease-the-health-workforce-crisis.htm
+title: Cutting Red Tape To Ease The Health Workforce Crisis
+date: 2023-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00051/cutting-red-tape-to-ease-the-health-workforce-crisis.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/08/cutting-red-tape-to-ease-the-health-workforce-crisis/index.html
+layout: layout.njk
 ---
 Cutting Red Tape To Ease The Health Workforce Crisis
 ====================================================

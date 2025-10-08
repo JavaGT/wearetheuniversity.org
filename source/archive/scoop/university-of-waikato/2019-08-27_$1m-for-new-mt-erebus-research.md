@@ -1,9 +1,12 @@
 ---
 slug: $1m-for-new-mt-erebus-research
-title: "$1m for new Mt Erebus research"
-date: 2019-08-27
-source-url: https://www.scoop.co.nz/stories/SC1908/S00063/1m-for-new-mt-erebus-research.htm
+title: $1m for new Mt Erebus research
+date: 2019-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1908/S00063/1m-for-new-mt-erebus-research.htm
 author: university-of-waikato
+permalink: /archive/2019/08/27/1m-for-new-mt-erebus-research/index.html
+layout: layout.njk
 ---
 $1m for new Mt Erebus research
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: a-new-voice-for-schizophrenia
-title: "A new voice for schizophrenia"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/SC1404/S00024/a-new-voice-for-schizophrenia.htm
+title: A new voice for schizophrenia
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00024/a-new-voice-for-schizophrenia.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/04/04/a-new-voice-for-schizophrenia/index.html
+layout: layout.njk
 ---
 A new voice for schizophrenia
 =============================

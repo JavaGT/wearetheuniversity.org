@@ -1,9 +1,12 @@
 ---
 slug: carters-convolutions-over-college-continue
-title: "Carter's convolutions over college continue"
-date: 2007-11-21
-source-url: https://www.scoop.co.nz/stories/PA0711/S00408/carters-convolutions-over-college-continue.htm
+title: Carter's convolutions over college continue
+date: 2007-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00408/carters-convolutions-over-college-continue.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/21/carters-convolutions-over-college-continue/index.html
+layout: layout.njk
 ---
 Carter's convolutions over college continue
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: small-particles-require-big-computers
-title: "Small particles require big computers"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/SC1305/S00051/small-particles-require-big-computers.htm
+title: Small particles require big computers
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00051/small-particles-require-big-computers.htm
 author: university-of-canterbury
+permalink: /archive/2013/05/14/small-particles-require-big-computers/index.html
+layout: layout.njk
 ---
 Small particles require big computers
 =====================================

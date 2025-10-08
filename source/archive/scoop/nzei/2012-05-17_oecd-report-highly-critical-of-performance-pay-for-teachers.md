@@ -1,9 +1,13 @@
 ---
 slug: oecd-report-highly-critical-of-performance-pay-for-teachers
-title: "OECD Report highly critical of performance pay for teachers"
-date: 2012-05-17
-source-url: https://www.scoop.co.nz/stories/ED1205/S00073/oecd-report-highly-critical-of-performance-pay-for-teachers.htm
+title: OECD Report highly critical of performance pay for teachers
+date: 2012-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00073/oecd-report-highly-critical-of-performance-pay-for-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/17/oecd-report-highly-critical-of-performance-pay-for-teachers/index.html
+layout: layout.njk
 ---
 OECD Report highly critical of performance pay for teachers
 ===========================================================

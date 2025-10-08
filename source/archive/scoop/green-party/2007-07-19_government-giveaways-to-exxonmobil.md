@@ -1,9 +1,12 @@
 ---
 slug: government-giveaways-to-exxonmobil
-title: "Government giveaways to ExxonMobil"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00320/government-giveaways-to-exxonmobil.htm
+title: Government giveaways to ExxonMobil
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00320/government-giveaways-to-exxonmobil.htm
 author: green-party
+permalink: /archive/2007/07/19/government-giveaways-to-exxonmobil/index.html
+layout: layout.njk
 ---
 Government giveaways to ExxonMobil
 ==================================

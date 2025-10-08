@@ -1,9 +1,13 @@
 ---
 slug: health-status-of-maori-children-and-young-people
-title: "Health Status of Maori Children and Young People"
-date: 2012-12-07
-source-url: https://www.scoop.co.nz/stories/PA1212/S00139/health-status-of-maori-children-and-young-people.htm
+title: Health Status of Maori Children and Young People
+date: 2012-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00139/health-status-of-maori-children-and-young-people.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/12/07/health-status-of-maori-children-and-young-people/index.html
+layout: layout.njk
 ---
 Health Status of Maori Children and Young People
 ================================================

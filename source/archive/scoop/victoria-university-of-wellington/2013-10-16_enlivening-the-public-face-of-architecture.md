@@ -1,9 +1,12 @@
 ---
 slug: enlivening-the-public-face-of-architecture
-title: "Enlivening the public face of architecture"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/CU1310/S00299/enlivening-the-public-face-of-architecture.htm
+title: Enlivening the public face of architecture
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00299/enlivening-the-public-face-of-architecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/10/16/enlivening-the-public-face-of-architecture/index.html
+layout: layout.njk
 ---
 Enlivening the public face of architecture
 ==========================================

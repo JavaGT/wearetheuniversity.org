@@ -1,9 +1,12 @@
 ---
 slug: having-teachers-in-classrooms-will-need-a-plan
-title: "Having teachers in classrooms will need a plan"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/PA1705/S00365/having-teachers-in-classrooms-will-need-a-plan.htm
+title: Having teachers in classrooms will need a plan
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00365/having-teachers-in-classrooms-will-need-a-plan.htm
 author: green-party
+permalink: /archive/2017/05/17/having-teachers-in-classrooms-will-need-a-plan/index.html
+layout: layout.njk
 ---
 Having teachers in classrooms will need a plan
 ==============================================

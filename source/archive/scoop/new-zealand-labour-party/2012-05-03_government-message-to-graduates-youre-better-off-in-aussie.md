@@ -1,9 +1,13 @@
 ---
 slug: government-message-to-graduates-youre-better-off-in-aussie
-title: "Government message to graduates: you're better off in Aussie"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/PA1205/S00069/government-message-to-graduates-youre-better-off-in-aussie.htm
+title: 'Government message to graduates: you''re better off in Aussie'
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00069/government-message-to-graduates-youre-better-off-in-aussie.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/03/government-message-to-graduates-youre-better-off-in-aussie/index.html
+layout: layout.njk
 ---
 Government message to graduates: you're better off in Aussie
 ============================================================

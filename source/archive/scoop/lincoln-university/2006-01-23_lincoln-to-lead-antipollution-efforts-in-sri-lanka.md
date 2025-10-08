@@ -1,9 +1,13 @@
 ---
 slug: lincoln-to-lead-antipollution-efforts-in-sri-lanka
-title: "Lincoln to Lead AntiPollution Efforts in Sri Lanka"
-date: 2006-01-23
-source-url: https://www.scoop.co.nz/stories/ED0601/S00017/lincoln-to-lead-antipollution-efforts-in-sri-lanka.htm
+title: Lincoln to Lead AntiPollution Efforts in Sri Lanka
+date: 2006-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00017/lincoln-to-lead-antipollution-efforts-in-sri-lanka.htm
 author: lincoln-university
+permalink: >-
+  /archive/2006/01/23/lincoln-to-lead-antipollution-efforts-in-sri-lanka/index.html
+layout: layout.njk
 ---
 Lincoln to Lead AntiPollution Efforts in Sri Lanka
 ==================================================

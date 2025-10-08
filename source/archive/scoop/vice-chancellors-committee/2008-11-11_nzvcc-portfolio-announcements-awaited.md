@@ -1,9 +1,12 @@
 ---
 slug: nzvcc-portfolio-announcements-awaited
-title: "NZVCC - Portfolio announcements awaited"
-date: 2008-11-11
-source-url: https://www.scoop.co.nz/stories/ED0811/S00028/nzvcc-portfolio-announcements-awaited.htm
+title: NZVCC - Portfolio announcements awaited
+date: 2008-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00028/nzvcc-portfolio-announcements-awaited.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/11/11/nzvcc-portfolio-announcements-awaited/index.html
+layout: layout.njk
 ---
 NZVCC - Portfolio announcements awaited
 =======================================

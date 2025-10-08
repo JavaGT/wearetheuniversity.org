@@ -1,9 +1,12 @@
 ---
 slug: musical-excellence-enhanced-in-capital
-title: "Musical excellence enhanced in Capital"
-date: 2003-09-05
-source-url: https://www.scoop.co.nz/stories/ED0309/S00013/musical-excellence-enhanced-in-capital.htm
+title: Musical excellence enhanced in Capital
+date: 2003-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00013/musical-excellence-enhanced-in-capital.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/05/musical-excellence-enhanced-in-capital/index.html
+layout: layout.njk
 ---
 Musical excellence enhanced in Capital
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: auckland-university-forges-peking-uni-relationship
-title: "Auckland University Forges Peking Uni Relationship"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/ED0406/S00101/auckland-university-forges-peking-uni-relationship.htm
+title: Auckland University Forges Peking Uni Relationship
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00101/auckland-university-forges-peking-uni-relationship.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/06/28/auckland-university-forges-peking-uni-relationship/index.html
+layout: layout.njk
 ---
 Auckland University Forges Peking Uni Relationship
 ==================================================

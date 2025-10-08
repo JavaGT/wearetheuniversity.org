@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-01-april-2005
-title: "Beehive Bulletin - Friday, 01 April 2005"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/PA0504/S00032/beehive-bulletin-friday-01-april-2005.htm
+title: Beehive Bulletin - Friday, 01 April 2005
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00032/beehive-bulletin-friday-01-april-2005.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/04/01/beehive-bulletin-friday-01-april-2005/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - Friday, 01 April 2005
 ========================================

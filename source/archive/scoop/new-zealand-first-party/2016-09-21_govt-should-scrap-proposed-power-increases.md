@@ -1,9 +1,12 @@
 ---
 slug: govt-should-scrap-proposed-power-increases
-title: "Govt Should ‘Scrap Proposed Power Increases’"
-date: 2016-09-21
-source-url: https://www.scoop.co.nz/stories/PA1609/S00397/govt-should-scrap-proposed-power-increases.htm
+title: Govt Should ‘Scrap Proposed Power Increases’
+date: 2016-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00397/govt-should-scrap-proposed-power-increases.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/21/govt-should-scrap-proposed-power-increases/index.html
+layout: layout.njk
 ---
 Govt Should ‘Scrap Proposed Power Increases’
 ============================================

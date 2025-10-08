@@ -1,9 +1,12 @@
 ---
 slug: government-policy-changes-encourage-higher-fees
-title: "Government policy changes encourage higher fees"
-date: 2008-08-27
-source-url: https://www.scoop.co.nz/stories/ED0808/S00085/government-policy-changes-encourage-higher-fees.htm
+title: Government policy changes encourage higher fees
+date: 2008-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00085/government-policy-changes-encourage-higher-fees.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/08/27/government-policy-changes-encourage-higher-fees/index.html
+layout: layout.njk
 ---
 Government policy changes encourage higher fees
 ===============================================

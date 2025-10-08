@@ -1,9 +1,13 @@
 ---
 slug: act-proposes-to-increase-gdp-growth-by-one-third
-title: "ACT Proposes to increase GDP growth by One Third"
-date: 2014-08-03
-source-url: https://www.scoop.co.nz/stories/PO1408/S00027/act-proposes-to-increase-gdp-growth-by-one-third.htm
+title: ACT Proposes to increase GDP growth by One Third
+date: 2014-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00027/act-proposes-to-increase-gdp-growth-by-one-third.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/08/03/act-proposes-to-increase-gdp-growth-by-one-third/index.html
+layout: layout.njk
 ---
 ACT Proposes to increase GDP growth by One Third
 ================================================

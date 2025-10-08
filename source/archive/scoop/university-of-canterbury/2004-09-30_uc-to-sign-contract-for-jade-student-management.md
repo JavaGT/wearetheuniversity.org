@@ -1,9 +1,12 @@
 ---
 slug: uc-to-sign-contract-for-jade-student-management
-title: "UC to sign contract for Jade student management"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/BU0409/S00379/uc-to-sign-contract-for-jade-student-management.htm
+title: UC to sign contract for Jade student management
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0409/S00379/uc-to-sign-contract-for-jade-student-management.htm
 author: university-of-canterbury
+permalink: /archive/2004/09/30/uc-to-sign-contract-for-jade-student-management/index.html
+layout: layout.njk
 ---
 UC to sign contract for Jade student management
 ===============================================

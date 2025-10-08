@@ -1,9 +1,12 @@
 ---
 slug: a-week-to-identify-close-contacts-is-too-long
-title: "A Week To Identify Close Contacts Is Too Long"
-date: 2022-01-30
-source-url: https://www.scoop.co.nz/stories/PA2201/S00120/a-week-to-identify-close-contacts-is-too-long.htm
+title: A Week To Identify Close Contacts Is Too Long
+date: 2022-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00120/a-week-to-identify-close-contacts-is-too-long.htm
 author: act-new-zealand
+permalink: /archive/2022/01/30/a-week-to-identify-close-contacts-is-too-long/index.html
+layout: layout.njk
 ---
 A Week To Identify Close Contacts Is Too Long
 =============================================

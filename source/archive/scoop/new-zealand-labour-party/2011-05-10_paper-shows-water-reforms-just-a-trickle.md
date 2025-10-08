@@ -1,9 +1,12 @@
 ---
 slug: paper-shows-water-reforms-just-a-trickle
-title: "Paper Shows Water Reforms Just a Trickle"
-date: 2011-05-10
-source-url: https://www.scoop.co.nz/stories/PA1105/S00203/paper-shows-water-reforms-just-a-trickle.htm
+title: Paper Shows Water Reforms Just a Trickle
+date: 2011-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00203/paper-shows-water-reforms-just-a-trickle.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/10/paper-shows-water-reforms-just-a-trickle/index.html
+layout: layout.njk
 ---
 Paper Shows Water Reforms Just a Trickle
 ========================================

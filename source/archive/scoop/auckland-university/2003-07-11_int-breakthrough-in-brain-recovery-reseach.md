@@ -1,9 +1,12 @@
 ---
 slug: int-breakthrough-in-brain-recovery-reseach
-title: "Int Breakthrough in Brain Recovery Reseach"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/ED0307/S00031/int-breakthrough-in-brain-recovery-reseach.htm
+title: Int Breakthrough in Brain Recovery Reseach
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00031/int-breakthrough-in-brain-recovery-reseach.htm
 author: auckland-university
+permalink: /archive/2003/07/11/int-breakthrough-in-brain-recovery-reseach/index.html
+layout: layout.njk
 ---
 Int Breakthrough in Brain Recovery Reseach
 ==========================================

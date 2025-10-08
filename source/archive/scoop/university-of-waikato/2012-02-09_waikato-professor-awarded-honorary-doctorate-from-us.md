@@ -1,9 +1,13 @@
 ---
 slug: waikato-professor-awarded-honorary-doctorate-from-us
-title: "Waikato professor awarded honorary doctorate from US"
-date: 2012-02-09
-source-url: https://www.scoop.co.nz/stories/ED1202/S00041/waikato-professor-awarded-honorary-doctorate-from-us.htm
+title: Waikato professor awarded honorary doctorate from US
+date: 2012-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00041/waikato-professor-awarded-honorary-doctorate-from-us.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/02/09/waikato-professor-awarded-honorary-doctorate-from-us/index.html
+layout: layout.njk
 ---
 Waikato professor awarded honorary doctorate from US
 ====================================================

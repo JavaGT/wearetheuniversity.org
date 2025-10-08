@@ -1,9 +1,13 @@
 ---
 slug: uc-students-monitoring-human-impact-in-the-antarctica
-title: "UC students monitoring human impact in the Antarctica"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/SC1211/S00081/uc-students-monitoring-human-impact-in-the-antarctica.htm
+title: UC students monitoring human impact in the Antarctica
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00081/uc-students-monitoring-human-impact-in-the-antarctica.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/29/uc-students-monitoring-human-impact-in-the-antarctica/index.html
+layout: layout.njk
 ---
 UC students monitoring human impact in the Antarctica
 =====================================================

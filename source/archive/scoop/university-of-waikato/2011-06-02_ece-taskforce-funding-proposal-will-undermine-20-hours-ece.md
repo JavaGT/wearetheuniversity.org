@@ -1,9 +1,13 @@
 ---
 slug: ece-taskforce-funding-proposal-will-undermine-20-hours-ece
-title: "ECE Taskforce funding proposal will undermine 20 hours ECE"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/ED1106/S00011/ece-taskforce-funding-proposal-will-undermine-20-hours-ece.htm
+title: ECE Taskforce funding proposal will undermine 20 hours ECE
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00011/ece-taskforce-funding-proposal-will-undermine-20-hours-ece.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/06/02/ece-taskforce-funding-proposal-will-undermine-20-hours-ece/index.html
+layout: layout.njk
 ---
 ECE Taskforce funding proposal will undermine 20 hours ECE
 ==========================================================

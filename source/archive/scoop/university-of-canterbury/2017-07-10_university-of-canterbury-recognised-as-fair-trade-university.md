@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-recognised-as-fair-trade-university
-title: "University of Canterbury recognised as Fair Trade University"
-date: 2017-07-10
-source-url: https://www.scoop.co.nz/stories/PO1707/S00125/university-of-canterbury-recognised-as-fair-trade-university.htm
+title: University of Canterbury recognised as Fair Trade University
+date: 2017-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1707/S00125/university-of-canterbury-recognised-as-fair-trade-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/07/10/university-of-canterbury-recognised-as-fair-trade-university/index.html
+layout: layout.njk
 ---
 University of Canterbury recognised as Fair Trade University
 ============================================================

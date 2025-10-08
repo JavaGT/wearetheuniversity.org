@@ -1,9 +1,12 @@
 ---
 slug: uc-seminar-on-food-safety-next-week
-title: "UC seminar on food safety next week"
-date: 2012-09-21
-source-url: https://www.scoop.co.nz/stories/ED1209/S00159/uc-seminar-on-food-safety-next-week.htm
+title: UC seminar on food safety next week
+date: 2012-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00159/uc-seminar-on-food-safety-next-week.htm
 author: university-of-canterbury
+permalink: /archive/2012/09/21/uc-seminar-on-food-safety-next-week/index.html
+layout: layout.njk
 ---
 UC seminar on food safety next week
 ===================================

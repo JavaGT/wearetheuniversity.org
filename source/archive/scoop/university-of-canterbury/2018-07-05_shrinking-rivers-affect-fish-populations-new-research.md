@@ -1,9 +1,13 @@
 ---
 slug: shrinking-rivers-affect-fish-populations-new-research
-title: "Shrinking rivers affect fish populations – new research"
-date: 2018-07-05
-source-url: https://www.scoop.co.nz/stories/SC1807/S00011/shrinking-rivers-affect-fish-populations-new-research.htm
+title: Shrinking rivers affect fish populations – new research
+date: 2018-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00011/shrinking-rivers-affect-fish-populations-new-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/07/05/shrinking-rivers-affect-fish-populations-new-research/index.html
+layout: layout.njk
 ---
 Shrinking rivers affect fish populations – new research
 =======================================================

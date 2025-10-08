@@ -1,9 +1,12 @@
 ---
 slug: fostering-female-leaders-through-sport
-title: "Fostering female leaders through sport"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/BU1703/S00270/fostering-female-leaders-through-sport.htm
+title: Fostering female leaders through sport
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1703/S00270/fostering-female-leaders-through-sport.htm
 author: massey-university
+permalink: /archive/2017/03/08/fostering-female-leaders-through-sport/index.html
+layout: layout.njk
 ---
 Fostering female leaders through sport
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: rugby-destination-well-represented-in-national-squads
-title: "‘Rugby destination’ well represented in national squads"
-date: 2015-04-23
-source-url: https://www.scoop.co.nz/stories/CU1504/S00441/rugby-destination-well-represented-in-national-squads.htm
+title: ‘Rugby destination’ well represented in national squads
+date: 2015-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1504/S00441/rugby-destination-well-represented-in-national-squads.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/04/23/rugby-destination-well-represented-in-national-squads/index.html
+layout: layout.njk
 ---
 ‘Rugby destination’ well represented in national squads
 =======================================================

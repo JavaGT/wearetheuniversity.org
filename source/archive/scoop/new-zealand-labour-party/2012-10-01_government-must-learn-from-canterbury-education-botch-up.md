@@ -1,9 +1,13 @@
 ---
 slug: government-must-learn-from-canterbury-education-botch-up
-title: "Government Must Learn From Canterbury Education Botch-Up"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/PA1210/S00009/government-must-learn-from-canterbury-education-botch-up.htm
+title: Government Must Learn From Canterbury Education Botch-Up
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00009/government-must-learn-from-canterbury-education-botch-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/01/government-must-learn-from-canterbury-education-botch-up/index.html
+layout: layout.njk
 ---
 Government Must Learn From Canterbury Education Botch-Up
 ========================================================

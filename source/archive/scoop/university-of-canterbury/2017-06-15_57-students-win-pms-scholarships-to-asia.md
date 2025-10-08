@@ -1,9 +1,12 @@
 ---
 slug: 57-students-win-pms-scholarships-to-asia
-title: "57 students win PM’s scholarships to Asia"
-date: 2017-06-15
-source-url: https://www.scoop.co.nz/stories/ED1706/S00047/57-students-win-pms-scholarships-to-asia.htm
+title: 57 students win PM’s scholarships to Asia
+date: 2017-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00047/57-students-win-pms-scholarships-to-asia.htm
 author: university-of-canterbury
+permalink: /archive/2017/06/15/57-students-win-pms-scholarships-to-asia/index.html
+layout: layout.njk
 ---
 57 students win PM’s scholarships to Asia
 =========================================

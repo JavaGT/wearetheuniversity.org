@@ -1,9 +1,12 @@
 ---
 slug: honours-recognise-years-of-research-endeavour
-title: "Honours recognise years of research endeavour"
-date: 2008-06-03
-source-url: https://www.scoop.co.nz/stories/ED0806/S00003/honours-recognise-years-of-research-endeavour.htm
+title: Honours recognise years of research endeavour
+date: 2008-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00003/honours-recognise-years-of-research-endeavour.htm
 author: lincoln-university
+permalink: /archive/2008/06/03/honours-recognise-years-of-research-endeavour/index.html
+layout: layout.njk
 ---
 Honours recognise years of research endeavour
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: prestigious-2021-girdlers-scholarship-awarded-to-taurangas-benjamin-adams
-title: "Prestigious 2021 Girdlers’ Scholarship Awarded To Tauranga’s Benjamin Adams"
-date: 2021-04-07
-source-url: https://www.scoop.co.nz/stories/ED2104/S00005/prestigious-2021-girdlers-scholarship-awarded-to-taurangas-benjamin-adams.htm
+title: Prestigious 2021 Girdlers’ Scholarship Awarded To Tauranga’s Benjamin Adams
+date: 2021-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00005/prestigious-2021-girdlers-scholarship-awarded-to-taurangas-benjamin-adams.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/04/07/prestigious-2021-girdlers-scholarship-awarded-to-taurangas-benjamin-adams/index.html
+layout: layout.njk
 ---
 Prestigious 2021 Girdlers’ Scholarship Awarded To Tauranga’s Benjamin Adams
 ===========================================================================

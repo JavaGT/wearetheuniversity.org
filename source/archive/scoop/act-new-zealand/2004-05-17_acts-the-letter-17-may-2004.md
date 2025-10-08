@@ -1,9 +1,11 @@
 ---
 slug: acts-the-letter-17-may-2004
-title: "Act's The Letter - 17 May 2004"
-date: 2004-05-17
+title: Act's The Letter - 17 May 2004
+date: 2004-05-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00339/acts-the-letter-17-may-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/05/17/acts-the-letter-17-may-2004/index.html
+layout: layout.njk
 ---
 Act's The Letter - 17 May 2004
 ==============================

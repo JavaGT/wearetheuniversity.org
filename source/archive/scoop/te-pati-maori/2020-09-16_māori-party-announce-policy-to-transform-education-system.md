@@ -1,9 +1,12 @@
 ---
 slug: māori-party-announce-policy-to-transform-education-system
-title: "Māori Party Announce Policy To Transform Education System"
-date: 2020-09-16
-source-url: https://www.scoop.co.nz/stories/PO2009/S00236/maori-party-announce-policy-to-transform-education-system.htm
+title: Māori Party Announce Policy To Transform Education System
+date: 2020-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00236/maori-party-announce-policy-to-transform-education-system.htm
 author: te-pati-maori
+permalink: /archive/2020/09/16/m/index.html
+layout: layout.njk
 ---
 Māori Party Announce Policy To Transform Education System
 =========================================================

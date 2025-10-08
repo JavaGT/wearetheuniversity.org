@@ -1,9 +1,13 @@
 ---
 slug: former-lawn-produces-hundreds-of-kilos-of-veggies-for-students
-title: "Former Lawn Produces Hundreds Of Kilos Of Veggies For Students"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/AK2210/S00412/former-lawn-produces-hundreds-of-kilos-of-veggies-for-students.htm
+title: Former Lawn Produces Hundreds Of Kilos Of Veggies For Students
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2210/S00412/former-lawn-produces-hundreds-of-kilos-of-veggies-for-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/10/20/former-lawn-produces-hundreds-of-kilos-of-veggies-for-students/index.html
+layout: layout.njk
 ---
 Former Lawn Produces Hundreds Of Kilos Of Veggies For Students
 ==============================================================

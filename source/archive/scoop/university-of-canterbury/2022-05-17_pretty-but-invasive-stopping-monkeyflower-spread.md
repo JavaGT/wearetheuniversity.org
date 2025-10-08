@@ -1,9 +1,13 @@
 ---
 slug: pretty-but-invasive-stopping-monkeyflower-spread
-title: "Pretty But Invasive: Stopping Monkeyflower Spread"
-date: 2022-05-17
-source-url: https://www.scoop.co.nz/stories/ED2205/S00033/pretty-but-invasive-stopping-monkeyflower-spread.htm
+title: 'Pretty But Invasive: Stopping Monkeyflower Spread'
+date: 2022-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00033/pretty-but-invasive-stopping-monkeyflower-spread.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/17/pretty-but-invasive-stopping-monkeyflower-spread/index.html
+layout: layout.njk
 ---
 Pretty But Invasive: Stopping Monkeyflower Spread
 =================================================

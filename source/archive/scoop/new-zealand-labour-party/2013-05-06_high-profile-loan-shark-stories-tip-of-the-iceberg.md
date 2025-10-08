@@ -1,9 +1,13 @@
 ---
 slug: high-profile-loan-shark-stories-tip-of-the-iceberg
-title: "High Profile Loan Shark Stories Tip of the Iceberg"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/PA1305/S00049/high-profile-loan-shark-stories-tip-of-the-iceberg.htm
+title: High Profile Loan Shark Stories Tip of the Iceberg
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00049/high-profile-loan-shark-stories-tip-of-the-iceberg.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/06/high-profile-loan-shark-stories-tip-of-the-iceberg/index.html
+layout: layout.njk
 ---
 High Profile Loan Shark Stories Tip of the Iceberg
 ==================================================

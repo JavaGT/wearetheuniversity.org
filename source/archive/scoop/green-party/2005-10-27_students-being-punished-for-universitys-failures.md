@@ -1,9 +1,13 @@
 ---
 slug: students-being-punished-for-universitys-failures
-title: "Students being punished for university's failures"
-date: 2005-10-27
-source-url: https://www.scoop.co.nz/stories/PA0510/S00164/students-being-punished-for-universitys-failures.htm
+title: Students being punished for university's failures
+date: 2005-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00164/students-being-punished-for-universitys-failures.htm
 author: green-party
+permalink: >-
+  /archive/2005/10/27/students-being-punished-for-universitys-failures/index.html
+layout: layout.njk
 ---
 Students being punished for university's failures
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: cabinet-papers-close-schools-pocket-millions
-title: "Cabinet Papers: Close Schools - Pocket Millions"
-date: 2004-01-05
-source-url: https://www.scoop.co.nz/stories/PA0401/S00012/cabinet-papers-close-schools-pocket-millions.htm
+title: 'Cabinet Papers: Close Schools - Pocket Millions'
+date: 2004-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00012/cabinet-papers-close-schools-pocket-millions.htm
 author: act-new-zealand
+permalink: /archive/2004/01/05/cabinet-papers-close-schools-pocket-millions/index.html
+layout: layout.njk
 ---
 Cabinet Papers: Close Schools - Pocket Millions
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: hummus-trips-up-business-new-zealand
-title: "Hummus trips up Business New Zealand"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/PA0702/S00540/hummus-trips-up-business-new-zealand.htm
+title: Hummus trips up Business New Zealand
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00540/hummus-trips-up-business-new-zealand.htm
 author: green-party
+permalink: /archive/2007/02/28/hummus-trips-up-business-new-zealand/index.html
+layout: layout.njk
 ---
 Hummus trips up Business New Zealand
 ====================================

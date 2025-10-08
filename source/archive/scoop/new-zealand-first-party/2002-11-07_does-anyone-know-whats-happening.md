@@ -1,9 +1,12 @@
 ---
 slug: does-anyone-know-whats-happening
-title: "\"Does Anyone Know What’s Happening?\""
-date: 2002-11-07
-source-url: https://www.scoop.co.nz/stories/PA0211/S00117/does-anyone-know-whats-happening.htm
+title: '"Does Anyone Know What’s Happening?"'
+date: 2002-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00117/does-anyone-know-whats-happening.htm
 author: new-zealand-first-party
+permalink: /archive/2002/11/07/does-anyone-know-whats-happening/index.html
+layout: layout.njk
 ---
 “Does Anyone Know What’s Happening?”
 ====================================

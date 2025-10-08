@@ -1,9 +1,13 @@
 ---
 slug: study-shows-most-nz-playgrounds-lack-smokefree-signs
-title: "Study shows most NZ playgrounds lack smokefree signs"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/ED1708/S00088/study-shows-most-nz-playgrounds-lack-smokefree-signs.htm
+title: Study shows most NZ playgrounds lack smokefree signs
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00088/study-shows-most-nz-playgrounds-lack-smokefree-signs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/24/study-shows-most-nz-playgrounds-lack-smokefree-signs/index.html
+layout: layout.njk
 ---
 Study shows most NZ playgrounds lack smokefree signs
 ====================================================

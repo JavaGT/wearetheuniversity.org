@@ -1,9 +1,11 @@
 ---
 slug: speech-the-lessons-of-brexit
-title: "Speech: The Lessons of Brexit"
-date: 2016-06-27
+title: 'Speech: The Lessons of Brexit'
+date: 2016-06-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1606/S00426/speech-the-lessons-of-brexit.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/27/speech-the-lessons-of-brexit/index.html
+layout: layout.njk
 ---
 Speech: The Lessons of Brexit
 =============================

@@ -1,9 +1,11 @@
 ---
 slug: cunliffe-securing-savings
-title: "Cunliffe: Securing Savings"
-date: 2011-10-27
+title: 'Cunliffe: Securing Savings'
+date: 2011-10-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1110/S00423/cunliffe-securing-savings.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/27/cunliffe-securing-savings/index.html
+layout: layout.njk
 ---
 Cunliffe: Securing Savings
 ==========================

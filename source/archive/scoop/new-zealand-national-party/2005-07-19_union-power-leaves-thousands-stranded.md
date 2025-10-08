@@ -1,9 +1,12 @@
 ---
 slug: union-power-leaves-thousands-stranded
-title: "Union power leaves thousands stranded"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/PA0507/S00390/union-power-leaves-thousands-stranded.htm
+title: Union power leaves thousands stranded
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00390/union-power-leaves-thousands-stranded.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/19/union-power-leaves-thousands-stranded/index.html
+layout: layout.njk
 ---
 Union power leaves thousands stranded
 =====================================

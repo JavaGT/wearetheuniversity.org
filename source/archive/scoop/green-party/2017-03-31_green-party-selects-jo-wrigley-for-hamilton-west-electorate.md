@@ -1,9 +1,13 @@
 ---
 slug: green-party-selects-jo-wrigley-for-hamilton-west-electorate
-title: "Green Party selects Jo Wrigley for Hamilton West electorate"
-date: 2017-03-31
-source-url: https://www.scoop.co.nz/stories/PO1703/S00379/green-party-selects-jo-wrigley-for-hamilton-west-electorate.htm
+title: Green Party selects Jo Wrigley for Hamilton West electorate
+date: 2017-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00379/green-party-selects-jo-wrigley-for-hamilton-west-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2017/03/31/green-party-selects-jo-wrigley-for-hamilton-west-electorate/index.html
+layout: layout.njk
 ---
 Green Party selects Jo Wrigley for Hamilton West electorate
 ===========================================================

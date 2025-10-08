@@ -1,9 +1,13 @@
 ---
 slug: political-scientists-lead-post-15-march-conversations
-title: "Political scientists lead post 15 March conversations"
-date: 2019-11-26
-source-url: https://www.scoop.co.nz/stories/ED1911/S00066/political-scientists-lead-post-15-march-conversations.htm
+title: Political scientists lead post 15 March conversations
+date: 2019-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00066/political-scientists-lead-post-15-march-conversations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/11/26/political-scientists-lead-post-15-march-conversations/index.html
+layout: layout.njk
 ---
 Political scientists lead post 15 March conversations
 =====================================================

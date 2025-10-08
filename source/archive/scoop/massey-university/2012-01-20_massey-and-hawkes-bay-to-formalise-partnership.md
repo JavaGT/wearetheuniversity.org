@@ -1,9 +1,12 @@
 ---
 slug: massey-and-hawkes-bay-to-formalise-partnership
-title: "Massey and Hawke’s Bay to formalise partnership"
-date: 2012-01-20
-source-url: https://www.scoop.co.nz/stories/ED1201/S00036/massey-and-hawkes-bay-to-formalise-partnership.htm
+title: Massey and Hawke’s Bay to formalise partnership
+date: 2012-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00036/massey-and-hawkes-bay-to-formalise-partnership.htm
 author: massey-university
+permalink: /archive/2012/01/20/massey-and-hawkes-bay-to-formalise-partnership/index.html
+layout: layout.njk
 ---
 Massey and Hawke’s Bay to formalise partnership
 ===============================================

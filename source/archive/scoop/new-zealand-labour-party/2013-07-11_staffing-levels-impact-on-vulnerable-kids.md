@@ -1,9 +1,12 @@
 ---
 slug: staffing-levels-impact-on-vulnerable-kids
-title: "Staffing levels impact on vulnerable kids"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/PA1307/S00213/staffing-levels-impact-on-vulnerable-kids.htm
+title: Staffing levels impact on vulnerable kids
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00213/staffing-levels-impact-on-vulnerable-kids.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/11/staffing-levels-impact-on-vulnerable-kids/index.html
+layout: layout.njk
 ---
 Staffing levels impact on vulnerable kids
 =========================================

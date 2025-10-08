@@ -1,9 +1,12 @@
 ---
 slug: lost-opportunity-for-a-real-stepchange
-title: "Lost opportunity for a real ‘stepchange’"
-date: 2010-05-20
-source-url: https://www.scoop.co.nz/stories/ED1005/S00085/lost-opportunity-for-a-real-stepchange.htm
+title: Lost opportunity for a real ‘stepchange’
+date: 2010-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00085/lost-opportunity-for-a-real-stepchange.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/05/20/lost-opportunity-for-a-real-stepchange/index.html
+layout: layout.njk
 ---
 Lost opportunity for a real ‘stepchange’
 ========================================

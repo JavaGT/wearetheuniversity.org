@@ -1,9 +1,13 @@
 ---
 slug: critically-endangered-parakeets-back-from-the-brink
-title: "Critically endangered parakeets back from the brink"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/SC1212/S00034/critically-endangered-parakeets-back-from-the-brink.htm
+title: Critically endangered parakeets back from the brink
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00034/critically-endangered-parakeets-back-from-the-brink.htm
 author: massey-university
+permalink: >-
+  /archive/2012/12/14/critically-endangered-parakeets-back-from-the-brink/index.html
+layout: layout.njk
 ---
 Critically endangered parakeets back from the brink
 ===================================================

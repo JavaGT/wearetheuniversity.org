@@ -1,9 +1,13 @@
 ---
 slug: black-flu-why-should-we-remember-1918-influenza-pandemic
-title: "Black Flu: Why should we remember 1918 influenza pandemic?"
-date: 2018-10-12
-source-url: https://www.scoop.co.nz/stories/GE1810/S00066/black-flu-why-should-we-remember-1918-influenza-pandemic.htm
+title: 'Black Flu: Why should we remember 1918 influenza pandemic?'
+date: 2018-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00066/black-flu-why-should-we-remember-1918-influenza-pandemic.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/10/12/black-flu-why-should-we-remember-1918-influenza-pandemic/index.html
+layout: layout.njk
 ---
 Black Flu: Why should we remember 1918 influenza pandemic?
 ==========================================================

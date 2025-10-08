@@ -1,9 +1,13 @@
 ---
 slug: medical-students-support-legal-challenge-on-climate-change
-title: "Medical Students support Legal Challenge on Climate Change"
-date: 2017-06-30
-source-url: https://www.scoop.co.nz/stories/PO1706/S00438/medical-students-support-legal-challenge-on-climate-change.htm
+title: Medical Students support Legal Challenge on Climate Change
+date: 2017-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00438/medical-students-support-legal-challenge-on-climate-change.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2017/06/30/medical-students-support-legal-challenge-on-climate-change/index.html
+layout: layout.njk
 ---
 Medical Students support Legal Challenge on Climate Change
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-compete-in-48-hour-challenge-to-improve-wellbeing
-title: "Students Compete in 48-Hour Challenge to Improve Wellbeing"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/ED1709/S00082/students-compete-in-48-hour-challenge-to-improve-wellbeing.htm
+title: Students Compete in 48-Hour Challenge to Improve Wellbeing
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00082/students-compete-in-48-hour-challenge-to-improve-wellbeing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/21/students-compete-in-48-hour-challenge-to-improve-wellbeing/index.html
+layout: layout.njk
 ---
 Students Compete in 48-Hour Challenge to Improve Wellbeing
 ==========================================================

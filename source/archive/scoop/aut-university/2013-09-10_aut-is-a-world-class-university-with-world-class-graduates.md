@@ -1,9 +1,13 @@
 ---
 slug: aut-is-a-world-class-university-with-world-class-graduates
-title: "AUT is a world-class university with world-class graduates"
-date: 2013-09-10
-source-url: https://www.scoop.co.nz/stories/ED1309/S00054/aut-is-a-world-class-university-with-world-class-graduates.htm
+title: AUT is a world-class university with world-class graduates
+date: 2013-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00054/aut-is-a-world-class-university-with-world-class-graduates.htm
 author: aut-university
+permalink: >-
+  /archive/2013/09/10/aut-is-a-world-class-university-with-world-class-graduates/index.html
+layout: layout.njk
 ---
 AUT is a world-class university with world-class graduates
 ==========================================================

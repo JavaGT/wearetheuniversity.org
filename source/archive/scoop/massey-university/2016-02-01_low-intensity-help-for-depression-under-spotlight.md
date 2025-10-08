@@ -1,9 +1,13 @@
 ---
 slug: low-intensity-help-for-depression-under-spotlight
-title: "Low Intensity Help for Depression under Spotlight"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/GE1602/S00003/low-intensity-help-for-depression-under-spotlight.htm
+title: Low Intensity Help for Depression under Spotlight
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00003/low-intensity-help-for-depression-under-spotlight.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/01/low-intensity-help-for-depression-under-spotlight/index.html
+layout: layout.njk
 ---
 Low Intensity Help for Depression under Spotlight
 =================================================

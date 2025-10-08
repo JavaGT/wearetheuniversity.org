@@ -1,9 +1,11 @@
 ---
 slug: labour-bullies-ihc
-title: "Labour bullies IHC"
-date: 2007-02-10
+title: Labour bullies IHC
+date: 2007-02-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0702/S00150/labour-bullies-ihc.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/10/labour-bullies-ihc/index.html
+layout: layout.njk
 ---
 Labour bullies IHC
 ==================

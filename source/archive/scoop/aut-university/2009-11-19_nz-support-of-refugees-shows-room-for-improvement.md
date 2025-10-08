@@ -1,9 +1,13 @@
 ---
 slug: nz-support-of-refugees-shows-room-for-improvement
-title: "NZ support of refugees shows room for improvement"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/PO0911/S00204/nz-support-of-refugees-shows-room-for-improvement.htm
+title: NZ support of refugees shows room for improvement
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0911/S00204/nz-support-of-refugees-shows-room-for-improvement.htm
 author: aut-university
+permalink: >-
+  /archive/2009/11/19/nz-support-of-refugees-shows-room-for-improvement/index.html
+layout: layout.njk
 ---
 NZ support of refugees shows room for improvement
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: government-falls-announcement-falls-short-of-reality
-title: "Government falls announcement falls short of reality"
-date: 2011-08-15
-source-url: https://www.scoop.co.nz/stories/PA1108/S00292/government-falls-announcement-falls-short-of-reality.htm
+title: Government falls announcement falls short of reality
+date: 2011-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00292/government-falls-announcement-falls-short-of-reality.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/08/15/government-falls-announcement-falls-short-of-reality/index.html
+layout: layout.njk
 ---
 Government falls announcement falls short of reality
 ====================================================

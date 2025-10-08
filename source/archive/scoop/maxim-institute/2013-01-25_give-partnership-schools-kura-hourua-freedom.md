@@ -1,9 +1,12 @@
 ---
 slug: give-partnership-schools-kura-hourua-freedom
-title: "Give Partnership Schools Kura Hourua Freedom"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/ED1301/S00079/give-partnership-schools-kura-hourua-freedom.htm
+title: Give Partnership Schools Kura Hourua Freedom
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00079/give-partnership-schools-kura-hourua-freedom.htm
 author: maxim-institute
+permalink: /archive/2013/01/25/give-partnership-schools-kura-hourua-freedom/index.html
+layout: layout.njk
 ---
 Give Partnership Schools Kura Hourua Freedom
 ============================================

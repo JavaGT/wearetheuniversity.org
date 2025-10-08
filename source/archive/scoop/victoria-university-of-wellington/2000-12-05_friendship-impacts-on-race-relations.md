@@ -1,9 +1,12 @@
 ---
 slug: friendship-impacts-on-race-relations
-title: "Friendship impacts on race relations"
-date: 2000-12-05
-source-url: https://www.scoop.co.nz/stories/GE0012/S00008/friendship-impacts-on-race-relations.htm
+title: Friendship impacts on race relations
+date: 2000-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0012/S00008/friendship-impacts-on-race-relations.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/12/05/friendship-impacts-on-race-relations/index.html
+layout: layout.njk
 ---
 Friendship impacts on race relations
 ====================================

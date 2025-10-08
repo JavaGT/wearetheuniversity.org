@@ -1,9 +1,13 @@
 ---
 slug: govt-turns-back-on-agricultural-training-provider
-title: "Govt turns back on agricultural training provider"
-date: 2018-12-20
-source-url: https://www.scoop.co.nz/stories/PA1812/S00270/govt-turns-back-on-agricultural-training-provider.htm
+title: Govt turns back on agricultural training provider
+date: 2018-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00270/govt-turns-back-on-agricultural-training-provider.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/12/20/govt-turns-back-on-agricultural-training-provider/index.html
+layout: layout.njk
 ---
 Govt turns back on agricultural training provider
 =================================================

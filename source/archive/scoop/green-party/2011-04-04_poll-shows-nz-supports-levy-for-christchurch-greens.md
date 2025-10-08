@@ -1,9 +1,13 @@
 ---
 slug: poll-shows-nz-supports-levy-for-christchurch-greens
-title: "Poll shows NZ supports levy for Christchurch - Greens"
-date: 2011-04-04
-source-url: https://www.scoop.co.nz/stories/PA1104/S00041/poll-shows-nz-supports-levy-for-christchurch-greens.htm
+title: Poll shows NZ supports levy for Christchurch - Greens
+date: 2011-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00041/poll-shows-nz-supports-levy-for-christchurch-greens.htm
 author: green-party
+permalink: >-
+  /archive/2011/04/04/poll-shows-nz-supports-levy-for-christchurch-greens/index.html
+layout: layout.njk
 ---
 Poll shows NZ supports levy for Christchurch - Greens
 =====================================================

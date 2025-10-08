@@ -1,9 +1,12 @@
 ---
 slug: maori-author-to-receive-honorary-doctorate
-title: "Maori author to receive Honorary Doctorate"
-date: 2003-01-28
-source-url: https://www.scoop.co.nz/stories/ED0301/S00017/maori-author-to-receive-honorary-doctorate.htm
+title: Maori author to receive Honorary Doctorate
+date: 2003-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00017/maori-author-to-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/01/28/maori-author-to-receive-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Maori author to receive Honorary Doctorate
 ==========================================

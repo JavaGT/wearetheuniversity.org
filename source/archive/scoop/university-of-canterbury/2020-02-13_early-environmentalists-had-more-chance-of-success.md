@@ -1,9 +1,13 @@
 ---
 slug: early-environmentalists-had-more-chance-of-success
-title: "Early Environmentalists Had More Chance Of Success"
-date: 2020-02-13
-source-url: https://www.scoop.co.nz/stories/WO2002/S00083/early-environmentalists-had-more-chance-of-success.htm
+title: Early Environmentalists Had More Chance Of Success
+date: 2020-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2002/S00083/early-environmentalists-had-more-chance-of-success.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/02/13/early-environmentalists-had-more-chance-of-success/index.html
+layout: layout.njk
 ---
 Early Environmentalists Had More Chance Of Success
 ==================================================

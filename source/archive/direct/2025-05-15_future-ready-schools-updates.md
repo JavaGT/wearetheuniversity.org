@@ -1,9 +1,12 @@
 ---
-slug: "future-ready-schools-updates"
-date: 2025-05-15
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/intranet/faculty-group-spaces/arts-education/improvement-transformation/future-ready-schools/future-ready-schools-updates.html
-title: "Future Ready Schools Updates"
+slug: future-ready-schools-updates
+date: 2025-05-15T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/faculty-group-spaces/arts-education/improvement-transformation/future-ready-schools/future-ready-schools-updates.html
+title: Future Ready Schools Updates
+permalink: /archive/2025/05/15/future-ready-schools-updates/index.html
+layout: layout.njk
 ---
 
 # Future Ready Schools Updates

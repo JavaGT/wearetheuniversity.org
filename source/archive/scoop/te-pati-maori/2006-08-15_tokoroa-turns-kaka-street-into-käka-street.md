@@ -1,9 +1,12 @@
 ---
 slug: tokoroa-turns-kaka-street-into-käka-street
-title: "Tokoroa turns Kaka Street into Käka Street"
-date: 2006-08-15
-source-url: https://www.scoop.co.nz/stories/PA0608/S00235/tokoroa-turns-kaka-street-into-kaka-street.htm
+title: Tokoroa turns Kaka Street into Käka Street
+date: 2006-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00235/tokoroa-turns-kaka-street-into-kaka-street.htm
 author: te-pati-maori
+permalink: /archive/2006/08/15/tokoroa-turns-kaka-street-into-k/index.html
+layout: layout.njk
 ---
 Tokoroa turns Kaka Street into Käka Street
 ==========================================

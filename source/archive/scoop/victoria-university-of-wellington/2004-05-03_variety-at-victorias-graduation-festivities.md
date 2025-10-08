@@ -1,9 +1,12 @@
 ---
 slug: variety-at-victorias-graduation-festivities
-title: "Variety at Victoria’s Graduation Festivities"
-date: 2004-05-03
-source-url: https://www.scoop.co.nz/stories/ED0405/S00008/variety-at-victorias-graduation-festivities.htm
+title: Variety at Victoria’s Graduation Festivities
+date: 2004-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00008/variety-at-victorias-graduation-festivities.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/05/03/variety-at-victorias-graduation-festivities/index.html
+layout: layout.njk
 ---
 Variety at Victoria’s Graduation Festivities
 ============================================

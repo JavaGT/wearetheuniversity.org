@@ -1,9 +1,13 @@
 ---
 slug: crunch-time-for-government-on-national-standards
-title: "Crunch Time for Government on National Standards"
-date: 2010-07-02
-source-url: https://www.scoop.co.nz/stories/ED1007/S00008/crunch-time-for-government-on-national-standards.htm
+title: Crunch Time for Government on National Standards
+date: 2010-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00008/crunch-time-for-government-on-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2010/07/02/crunch-time-for-government-on-national-standards/index.html
+layout: layout.njk
 ---
 Crunch Time for Government on National Standards
 ================================================

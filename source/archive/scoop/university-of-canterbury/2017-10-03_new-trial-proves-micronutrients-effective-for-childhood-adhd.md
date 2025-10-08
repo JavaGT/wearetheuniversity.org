@@ -1,9 +1,13 @@
 ---
 slug: new-trial-proves-micronutrients-effective-for-childhood-adhd
-title: "New Trial Proves Micronutrients Effective for Childhood ADHD"
-date: 2017-10-03
-source-url: https://www.scoop.co.nz/stories/ED1710/S00007/new-trial-proves-micronutrients-effective-for-childhood-adhd.htm
+title: New Trial Proves Micronutrients Effective for Childhood ADHD
+date: 2017-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00007/new-trial-proves-micronutrients-effective-for-childhood-adhd.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/10/03/new-trial-proves-micronutrients-effective-for-childhood-adhd/index.html
+layout: layout.njk
 ---
 New Trial Proves Micronutrients Effective for Childhood ADHD
 ============================================================

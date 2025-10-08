@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-27
-title: "AUS Tertiary Update Vol.3 No.27"
-date: 2000-08-31
-source-url: https://www.scoop.co.nz/stories/ED0008/S00060/aus-tertiary-update-vol3-no27.htm
+title: AUS Tertiary Update Vol.3 No.27
+date: 2000-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00060/aus-tertiary-update-vol3-no27.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/31/aus-tertiary-update-vol-3-no-27/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.27
 ===============================

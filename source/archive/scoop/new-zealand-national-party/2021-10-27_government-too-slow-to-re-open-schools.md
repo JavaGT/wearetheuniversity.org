@@ -1,9 +1,12 @@
 ---
 slug: government-too-slow-to-re-open-schools
-title: "Government Too Slow To Re-open Schools"
-date: 2021-10-27
-source-url: https://www.scoop.co.nz/stories/PA2110/S00273/government-too-slow-to-re-open-schools.htm
+title: Government Too Slow To Re-open Schools
+date: 2021-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00273/government-too-slow-to-re-open-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/27/government-too-slow-to-re-open-schools/index.html
+layout: layout.njk
 ---
 Government Too Slow To Re-open Schools
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: highlanders-colours-decision-the-right-one
-title: "Highlanders colours decision the right one"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PA1109/S00124/highlanders-colours-decision-the-right-one.htm
+title: Highlanders colours decision the right one
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00124/highlanders-colours-decision-the-right-one.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/07/highlanders-colours-decision-the-right-one/index.html
+layout: layout.njk
 ---
 Highlanders colours decision the right one
 ==========================================

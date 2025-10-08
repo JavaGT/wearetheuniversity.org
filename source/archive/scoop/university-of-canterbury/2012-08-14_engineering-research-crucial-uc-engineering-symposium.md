@@ -1,9 +1,13 @@
 ---
 slug: engineering-research-crucial-uc-engineering-symposium
-title: "Engineering research crucial - UC engineering symposium"
-date: 2012-08-14
-source-url: https://www.scoop.co.nz/stories/BU1208/S00469/engineering-research-crucial-uc-engineering-symposium.htm
+title: Engineering research crucial - UC engineering symposium
+date: 2012-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S00469/engineering-research-crucial-uc-engineering-symposium.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/14/engineering-research-crucial-uc-engineering-symposium/index.html
+layout: layout.njk
 ---
 Engineering research crucial - UC engineering symposium
 =======================================================

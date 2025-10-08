@@ -1,9 +1,13 @@
 ---
 slug: new-president-driven-by-desire-for-quality-education-for-all
-title: "New president driven by desire for quality education for all"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/ED1609/S00142/new-president-driven-by-desire-for-quality-education-for-all.htm
+title: New president driven by desire for quality education for all
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00142/new-president-driven-by-desire-for-quality-education-for-all.htm
 author: nzei
+permalink: >-
+  /archive/2016/09/28/new-president-driven-by-desire-for-quality-education-for-all/index.html
+layout: layout.njk
 ---
 New president driven by desire for quality education for all
 ============================================================

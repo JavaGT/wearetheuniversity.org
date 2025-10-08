@@ -1,9 +1,12 @@
 ---
 slug: setting-international-students-up-for-success
-title: "Setting international students up for success"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/ED1305/S00195/setting-international-students-up-for-success.htm
+title: Setting international students up for success
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00195/setting-international-students-up-for-success.htm
 author: massey-university
+permalink: /archive/2013/05/29/setting-international-students-up-for-success/index.html
+layout: layout.njk
 ---
 Setting international students up for success
 =============================================

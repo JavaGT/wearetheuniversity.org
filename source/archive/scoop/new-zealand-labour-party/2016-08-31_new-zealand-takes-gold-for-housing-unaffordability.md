@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-takes-gold-for-housing-unaffordability
-title: "New Zealand takes gold – for housing unaffordability"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/PA1608/S00548/new-zealand-takes-gold-for-housing-unaffordability.htm
+title: New Zealand takes gold – for housing unaffordability
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00548/new-zealand-takes-gold-for-housing-unaffordability.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/31/new-zealand-takes-gold-for-housing-unaffordability/index.html
+layout: layout.njk
 ---
 New Zealand takes gold – for housing unaffordability
 ====================================================

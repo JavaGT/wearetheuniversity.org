@@ -1,9 +1,13 @@
 ---
 slug: whanau-ora-pre-conference-hapai-te-hauora-orakei-auckland
-title: "Whanau Ora Pre-conference  Hapai Te Hauora  Orakei, Auckland"
-date: 2012-02-22
-source-url: https://www.scoop.co.nz/stories/SP1202/S00029/whanau-ora-pre-conference-hapai-te-hauora-orakei-auckland.htm
+title: Whanau Ora Pre-conference  Hapai Te Hauora  Orakei, Auckland
+date: 2012-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1202/S00029/whanau-ora-pre-conference-hapai-te-hauora-orakei-auckland.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/02/22/whanau-ora-pre-conference-hapai-te-hauora-orakei-auckland/index.html
+layout: layout.njk
 ---
 Whanau Ora Pre-conference Hapai Te Hauora Orakei, Auckland
 ==========================================================

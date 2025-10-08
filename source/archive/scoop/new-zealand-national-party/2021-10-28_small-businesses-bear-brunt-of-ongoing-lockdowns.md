@@ -1,9 +1,13 @@
 ---
 slug: small-businesses-bear-brunt-of-ongoing-lockdowns
-title: "Small Businesses Bear Brunt Of Ongoing Lockdowns"
-date: 2021-10-28
-source-url: https://www.scoop.co.nz/stories/PA2110/S00290/small-businesses-bear-brunt-of-ongoing-lockdowns.htm
+title: Small Businesses Bear Brunt Of Ongoing Lockdowns
+date: 2021-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00290/small-businesses-bear-brunt-of-ongoing-lockdowns.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/28/small-businesses-bear-brunt-of-ongoing-lockdowns/index.html
+layout: layout.njk
 ---
 Small Businesses Bear Brunt Of Ongoing Lockdowns
 ================================================

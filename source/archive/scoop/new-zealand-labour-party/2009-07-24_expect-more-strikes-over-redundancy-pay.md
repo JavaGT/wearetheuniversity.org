@@ -1,9 +1,12 @@
 ---
 slug: expect-more-strikes-over-redundancy-pay
-title: "Expect more strikes over redundancy pay"
-date: 2009-07-24
-source-url: https://www.scoop.co.nz/stories/PA0907/S00294/expect-more-strikes-over-redundancy-pay.htm
+title: Expect more strikes over redundancy pay
+date: 2009-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00294/expect-more-strikes-over-redundancy-pay.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/24/expect-more-strikes-over-redundancy-pay/index.html
+layout: layout.njk
 ---
 Expect more strikes over redundancy pay
 =======================================

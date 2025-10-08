@@ -1,9 +1,13 @@
 ---
 slug: 92-years-of-resilience-and-perseverance-for-uc-grad
-title: "92 Years Of Resilience And Perseverance For UC Grad"
-date: 2023-12-11
-source-url: https://www.scoop.co.nz/stories/ED2312/S00017/92-years-of-resilience-and-perseverance-for-uc-grad.htm
+title: 92 Years Of Resilience And Perseverance For UC Grad
+date: 2023-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2312/S00017/92-years-of-resilience-and-perseverance-for-uc-grad.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/12/11/92-years-of-resilience-and-perseverance-for-uc-grad/index.html
+layout: layout.njk
 ---
 92 Years Of Resilience And Perseverance For UC Grad
 ===================================================

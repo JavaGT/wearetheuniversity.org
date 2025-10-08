@@ -1,9 +1,13 @@
 ---
 slug: solutions-to-aviations-climate-change-crisis-explored
-title: "Solutions to aviation’s climate change crisis explored"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/SC1603/S00016/solutions-to-aviations-climate-change-crisis-explored.htm
+title: Solutions to aviation’s climate change crisis explored
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1603/S00016/solutions-to-aviations-climate-change-crisis-explored.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/07/solutions-to-aviations-climate-change-crisis-explored/index.html
+layout: layout.njk
 ---
 Solutions to aviation’s climate change crisis explored
 ======================================================

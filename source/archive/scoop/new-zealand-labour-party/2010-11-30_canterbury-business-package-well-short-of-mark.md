@@ -1,9 +1,12 @@
 ---
 slug: canterbury-business-package-well-short-of-mark
-title: "Canterbury business package well short of mark"
-date: 2010-11-30
-source-url: https://www.scoop.co.nz/stories/PA1011/S00578/canterbury-business-package-well-short-of-mark.htm
+title: Canterbury business package well short of mark
+date: 2010-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00578/canterbury-business-package-well-short-of-mark.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/30/canterbury-business-package-well-short-of-mark/index.html
+layout: layout.njk
 ---
 Canterbury business package well short of mark
 ==============================================

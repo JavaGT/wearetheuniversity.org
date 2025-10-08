@@ -1,9 +1,12 @@
 ---
 slug: act-demands-urgent-debate-on-covid-deaths
-title: "ACT Demands Urgent Debate On COVID Deaths"
-date: 2021-12-07
-source-url: https://www.scoop.co.nz/stories/PO2112/S00069/act-demands-urgent-debate-on-covid-deaths.htm
+title: ACT Demands Urgent Debate On COVID Deaths
+date: 2021-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2112/S00069/act-demands-urgent-debate-on-covid-deaths.htm
 author: act-new-zealand
+permalink: /archive/2021/12/07/act-demands-urgent-debate-on-covid-deaths/index.html
+layout: layout.njk
 ---
 ACT Demands Urgent Debate On COVID Deaths
 =========================================

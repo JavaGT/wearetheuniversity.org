@@ -1,9 +1,13 @@
 ---
 slug: research-indicates-new-hope-for-parkinsons-sufferers
-title: "Research indicates new hope for Parkinson’s sufferers"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/SC1501/S00062/research-indicates-new-hope-for-parkinsons-sufferers.htm
+title: Research indicates new hope for Parkinson’s sufferers
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1501/S00062/research-indicates-new-hope-for-parkinsons-sufferers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/01/30/research-indicates-new-hope-for-parkinsons-sufferers/index.html
+layout: layout.njk
 ---
 Research indicates new hope for Parkinson’s sufferers
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: harawira-terrorism-suppression-amendment-bill
-title: "Harawira - Terrorism Suppression Amendment Bill"
-date: 2007-03-29
-source-url: https://www.scoop.co.nz/stories/PA0703/S00636/harawira-terrorism-suppression-amendment-bill.htm
+title: Harawira - Terrorism Suppression Amendment Bill
+date: 2007-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00636/harawira-terrorism-suppression-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/03/29/harawira-terrorism-suppression-amendment-bill/index.html
+layout: layout.njk
 ---
 Harawira - Terrorism Suppression Amendment Bill
 ===============================================

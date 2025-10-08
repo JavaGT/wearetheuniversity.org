@@ -1,9 +1,12 @@
 ---
 slug: goff-must-prove-hes-on-the-side-of-students
-title: "Goff Must Prove He’s on the Side of Students"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/ED1511/S00033/goff-must-prove-hes-on-the-side-of-students.htm
+title: Goff Must Prove He’s on the Side of Students
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00033/goff-must-prove-hes-on-the-side-of-students.htm
 author: auckland-university-students-association
+permalink: /archive/2015/11/05/goff-must-prove-hes-on-the-side-of-students/index.html
+layout: layout.njk
 ---
 Goff Must Prove He’s on the Side of Students
 ============================================

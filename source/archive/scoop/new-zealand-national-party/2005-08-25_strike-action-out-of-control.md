@@ -1,9 +1,11 @@
 ---
 slug: strike-action-out-of-control
-title: "Strike action out of control"
-date: 2005-08-25
+title: Strike action out of control
+date: 2005-08-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00659/strike-action-out-of-control.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/25/strike-action-out-of-control/index.html
+layout: layout.njk
 ---
 Strike action out of control
 ============================

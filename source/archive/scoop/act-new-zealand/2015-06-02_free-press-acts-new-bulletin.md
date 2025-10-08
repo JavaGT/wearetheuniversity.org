@@ -1,9 +1,11 @@
 ---
 slug: free-press-acts-new-bulletin
-title: "\"Free Press\" Act’s New Bulletin"
-date: 2015-06-02
+title: '"Free Press" Act’s New Bulletin'
+date: 2015-06-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1506/S00017/free-press-acts-new-bulletin.htm
 author: act-new-zealand
+permalink: /archive/2015/06/02/free-press-acts-new-bulletin/index.html
+layout: layout.njk
 ---
 “Free Press” Act’s New Bulletin
 ===============================

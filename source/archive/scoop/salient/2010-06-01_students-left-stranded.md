@@ -1,9 +1,11 @@
 ---
 slug: students-left-stranded
-title: "Students Left Stranded"
-date: 2010-06-01
+title: Students Left Stranded
+date: 2010-06-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1006/S00001/students-left-stranded.htm
 author: salient
+permalink: /archive/2010/06/01/students-left-stranded/index.html
+layout: layout.njk
 ---
 Students Left Stranded
 ======================

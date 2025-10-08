@@ -1,9 +1,13 @@
 ---
 slug: process-for-handling-submissions-on-bills-vulnerable
-title: "Process for handling submissions on Bills vulnerable"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/PO1406/S00363/process-for-handling-submissions-on-bills-vulnerable.htm
+title: Process for handling submissions on Bills vulnerable
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00363/process-for-handling-submissions-on-bills-vulnerable.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/06/23/process-for-handling-submissions-on-bills-vulnerable/index.html
+layout: layout.njk
 ---
 Process for handling submissions on Bills vulnerable
 ====================================================

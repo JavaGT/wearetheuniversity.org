@@ -1,9 +1,12 @@
 ---
 slug: marine-fungi-may-help-cure-for-cancer
-title: "Marine Fungi May Help Cure For Cancer"
-date: 2000-09-29
-source-url: https://www.scoop.co.nz/stories/SC0009/S00058/marine-fungi-may-help-cure-for-cancer.htm
+title: Marine Fungi May Help Cure For Cancer
+date: 2000-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0009/S00058/marine-fungi-may-help-cure-for-cancer.htm
 author: university-of-canterbury
+permalink: /archive/2000/09/29/marine-fungi-may-help-cure-for-cancer/index.html
+layout: layout.njk
 ---
 Marine Fungi May Help Cure For Cancer
 =====================================

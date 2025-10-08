@@ -1,9 +1,12 @@
 ---
 slug: spread-of-marine-pests-due-to-lack-of-resources
-title: "Spread of marine pests due to lack of resources"
-date: 2013-05-06
-source-url: https://www.scoop.co.nz/stories/PA1305/S00058/spread-of-marine-pests-due-to-lack-of-resources.htm
+title: Spread of marine pests due to lack of resources
+date: 2013-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00058/spread-of-marine-pests-due-to-lack-of-resources.htm
 author: green-party
+permalink: /archive/2013/05/06/spread-of-marine-pests-due-to-lack-of-resources/index.html
+layout: layout.njk
 ---
 Spread of marine pests due to lack of resources
 ===============================================

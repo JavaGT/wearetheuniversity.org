@@ -1,9 +1,13 @@
 ---
 slug: prize-winning-research-helps-predict-stock-markets
-title: "Prize-winning research helps predict stock markets"
-date: 2009-02-18
-source-url: https://www.scoop.co.nz/stories/ED0902/S00061/prize-winning-research-helps-predict-stock-markets.htm
+title: Prize-winning research helps predict stock markets
+date: 2009-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00061/prize-winning-research-helps-predict-stock-markets.htm
 author: massey-university
+permalink: >-
+  /archive/2009/02/18/prize-winning-research-helps-predict-stock-markets/index.html
+layout: layout.njk
 ---
 Prize-winning research helps predict stock markets
 ==================================================

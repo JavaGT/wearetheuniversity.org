@@ -1,9 +1,12 @@
 ---
 slug: key-tax-relief-for-middle-new-zealand
-title: "Key: Tax Relief For Middle New Zealand"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/PA0506/S00640/key-tax-relief-for-middle-new-zealand.htm
+title: 'Key: Tax Relief For Middle New Zealand'
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00640/key-tax-relief-for-middle-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/27/key-tax-relief-for-middle-new-zealand/index.html
+layout: layout.njk
 ---
 Key: Tax Relief For Middle New Zealand
 ======================================

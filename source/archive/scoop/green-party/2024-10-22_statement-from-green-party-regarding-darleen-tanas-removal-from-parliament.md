@@ -1,9 +1,13 @@
 ---
 slug: statement-from-green-party-regarding-darleen-tanas-removal-from-parliament
-title: "Statement From Green Party Regarding Darleen Tana’s Removal From Parliament"
-date: 2024-10-22
-source-url: https://www.scoop.co.nz/stories/PA2410/S00168/statement-from-green-party-regarding-darleen-tanas-removal-from-parliament.htm
+title: Statement From Green Party Regarding Darleen Tana’s Removal From Parliament
+date: 2024-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00168/statement-from-green-party-regarding-darleen-tanas-removal-from-parliament.htm
 author: green-party
+permalink: >-
+  /archive/2024/10/22/statement-from-green-party-regarding-darleen-tanas-removal-from-parliament/index.html
+layout: layout.njk
 ---
 Statement From Green Party Regarding Darleen Tana’s Removal From Parliament
 ===========================================================================

@@ -1,9 +1,12 @@
 ---
 slug: civil-union-bill-hits-the-ground-running
-title: "Civil Union Bill Hits The Ground Running"
-date: 2004-11-30
-source-url: https://www.scoop.co.nz/stories/PO0411/S00256/civil-union-bill-hits-the-ground-running.htm
+title: Civil Union Bill Hits The Ground Running
+date: 2004-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0411/S00256/civil-union-bill-hits-the-ground-running.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/11/30/civil-union-bill-hits-the-ground-running/index.html
+layout: layout.njk
 ---
 Civil Union Bill Hits The Ground Running
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: it-courses-face-endless-demand
-title: "IT courses face \"endless demand\""
-date: 2000-11-20
-source-url: https://www.scoop.co.nz/stories/ED0011/S00028/it-courses-face-endless-demand.htm
+title: IT courses face "endless demand"
+date: 2000-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00028/it-courses-face-endless-demand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/11/20/it-courses-face-endless-demand/index.html
+layout: layout.njk
 ---
 IT courses face \"endless demand"
 ================================

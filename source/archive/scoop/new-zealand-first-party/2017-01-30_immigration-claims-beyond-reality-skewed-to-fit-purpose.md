@@ -1,9 +1,13 @@
 ---
 slug: immigration-claims-beyond-reality-skewed-to-fit-purpose
-title: "Immigration Claims Beyond Reality - Skewed to Fit Purpose"
-date: 2017-01-30
-source-url: https://www.scoop.co.nz/stories/PA1701/S00143/immigration-claims-beyond-reality-skewed-to-fit-purpose.htm
+title: Immigration Claims Beyond Reality - Skewed to Fit Purpose
+date: 2017-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00143/immigration-claims-beyond-reality-skewed-to-fit-purpose.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/01/30/immigration-claims-beyond-reality-skewed-to-fit-purpose/index.html
+layout: layout.njk
 ---
 Immigration Claims Beyond Reality - Skewed to Fit Purpose
 =========================================================

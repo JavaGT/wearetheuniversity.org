@@ -1,9 +1,12 @@
 ---
 slug: another-immigration-backflip-from-labour
-title: "Another Immigration Backflip From Labour"
-date: 2023-02-28
-source-url: https://www.scoop.co.nz/stories/PA2302/S00147/another-immigration-backflip-from-labour.htm
+title: Another Immigration Backflip From Labour
+date: 2023-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00147/another-immigration-backflip-from-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2023/02/28/another-immigration-backflip-from-labour/index.html
+layout: layout.njk
 ---
 Another Immigration Backflip From Labour
 ========================================

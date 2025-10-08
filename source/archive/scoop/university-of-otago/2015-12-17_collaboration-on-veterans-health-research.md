@@ -1,9 +1,12 @@
 ---
 slug: collaboration-on-veterans-health-research
-title: "Collaboration on veterans’ health research"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/SC1512/S00069/collaboration-on-veterans-health-research.htm
+title: Collaboration on veterans’ health research
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00069/collaboration-on-veterans-health-research.htm
 author: university-of-otago
+permalink: /archive/2015/12/17/collaboration-on-veterans-health-research/index.html
+layout: layout.njk
 ---
 Collaboration on veterans’ health research
 ==========================================

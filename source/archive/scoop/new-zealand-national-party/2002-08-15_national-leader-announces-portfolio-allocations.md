@@ -1,9 +1,12 @@
 ---
 slug: national-leader-announces-portfolio-allocations
-title: "National Leader Announces Portfolio Allocations"
-date: 2002-08-15
-source-url: https://www.scoop.co.nz/stories/PA0208/S00118/national-leader-announces-portfolio-allocations.htm
+title: National Leader Announces Portfolio Allocations
+date: 2002-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00118/national-leader-announces-portfolio-allocations.htm
 author: new-zealand-national-party
+permalink: /archive/2002/08/15/national-leader-announces-portfolio-allocations/index.html
+layout: layout.njk
 ---
 National Leader Announces Portfolio Allocations
 ===============================================

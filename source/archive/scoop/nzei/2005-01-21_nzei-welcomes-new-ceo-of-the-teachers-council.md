@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-new-ceo-of-the-teachers-council
-title: "NZEI Welcomes New CEO Of The Teachers Council"
-date: 2005-01-21
-source-url: https://www.scoop.co.nz/stories/ED0501/S00041/nzei-welcomes-new-ceo-of-the-teachers-council.htm
+title: NZEI Welcomes New CEO Of The Teachers Council
+date: 2005-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00041/nzei-welcomes-new-ceo-of-the-teachers-council.htm
 author: nzei
+permalink: /archive/2005/01/21/nzei-welcomes-new-ceo-of-the-teachers-council/index.html
+layout: layout.njk
 ---
 NZEI Welcomes New CEO Of The Teachers Council
 =============================================

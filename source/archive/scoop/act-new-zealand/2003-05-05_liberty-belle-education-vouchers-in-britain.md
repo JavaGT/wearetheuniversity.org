@@ -1,9 +1,12 @@
 ---
 slug: liberty-belle-education-vouchers-in-britain
-title: "Liberty Belle: Education Vouchers In Britain"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/PA0305/S00083/liberty-belle-education-vouchers-in-britain.htm
+title: 'Liberty Belle: Education Vouchers In Britain'
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00083/liberty-belle-education-vouchers-in-britain.htm
 author: act-new-zealand
+permalink: /archive/2003/05/05/liberty-belle-education-vouchers-in-britain/index.html
+layout: layout.njk
 ---
 Liberty Belle: Education Vouchers In Britain
 ============================================

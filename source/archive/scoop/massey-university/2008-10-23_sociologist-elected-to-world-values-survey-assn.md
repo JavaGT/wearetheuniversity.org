@@ -1,9 +1,12 @@
 ---
 slug: sociologist-elected-to-world-values-survey-assn
-title: "Sociologist elected to World Values Survey Assn"
-date: 2008-10-23
-source-url: https://www.scoop.co.nz/stories/ED0810/S00103/sociologist-elected-to-world-values-survey-assn.htm
+title: Sociologist elected to World Values Survey Assn
+date: 2008-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00103/sociologist-elected-to-world-values-survey-assn.htm
 author: massey-university
+permalink: /archive/2008/10/23/sociologist-elected-to-world-values-survey-assn/index.html
+layout: layout.njk
 ---
 Sociologist elected to World Values Survey Assn
 ===============================================

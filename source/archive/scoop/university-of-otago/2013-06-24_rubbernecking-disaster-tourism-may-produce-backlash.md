@@ -1,9 +1,13 @@
 ---
 slug: rubbernecking-disaster-tourism-may-produce-backlash
-title: "‘Rubbernecking’ disaster tourism may produce backlash"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/BU1306/S00790/rubbernecking-disaster-tourism-may-produce-backlash.htm
+title: ‘Rubbernecking’ disaster tourism may produce backlash
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1306/S00790/rubbernecking-disaster-tourism-may-produce-backlash.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/06/24/rubbernecking-disaster-tourism-may-produce-backlash/index.html
+layout: layout.njk
 ---
 ‘Rubbernecking’ disaster tourism may produce backlash
 =====================================================

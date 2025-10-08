@@ -1,9 +1,12 @@
 ---
 slug: douglas-bill-bad-for-students
-title: "Douglas' bill bad for students"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/ED0909/S00085/douglas-bill-bad-for-students.htm
+title: Douglas' bill bad for students
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00085/douglas-bill-bad-for-students.htm
 author: victoria-university-students-association
+permalink: /archive/2009/09/23/douglas-bill-bad-for-students/index.html
+layout: layout.njk
 ---
 Douglas' bill bad for students
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: celebrating-the-rugby-league-world-cup
-title: "Celebrating the Rugby League World Cup"
-date: 2013-11-28
-source-url: https://www.scoop.co.nz/stories/HL1311/S00249/celebrating-the-rugby-league-world-cup.htm
+title: Celebrating the Rugby League World Cup
+date: 2013-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1311/S00249/celebrating-the-rugby-league-world-cup.htm
 author: university-of-canterbury
+permalink: /archive/2013/11/28/celebrating-the-rugby-league-world-cup/index.html
+layout: layout.njk
 ---
 Celebrating the Rugby League World Cup
 ======================================

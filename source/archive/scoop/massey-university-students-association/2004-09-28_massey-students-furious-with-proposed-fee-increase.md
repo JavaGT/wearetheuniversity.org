@@ -1,9 +1,13 @@
 ---
 slug: massey-students-furious-with-proposed-fee-increase
-title: "Massey students furious with proposed fee increase"
-date: 2004-09-28
-source-url: https://www.scoop.co.nz/stories/ED0409/S00128/massey-students-furious-with-proposed-fee-increase.htm
+title: Massey students furious with proposed fee increase
+date: 2004-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00128/massey-students-furious-with-proposed-fee-increase.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2004/09/28/massey-students-furious-with-proposed-fee-increase/index.html
+layout: layout.njk
 ---
 Massey students furious with proposed fee increase
 ==================================================

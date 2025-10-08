@@ -1,9 +1,13 @@
 ---
 slug: ryall-not-distracted-by-draft-health-policy-releas
-title: "Ryall not distracted by draft health policy releas"
-date: 2008-09-10
-source-url: https://www.scoop.co.nz/stories/PA0809/S00228/ryall-not-distracted-by-draft-health-policy-releas.htm
+title: Ryall not distracted by draft health policy releas
+date: 2008-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00228/ryall-not-distracted-by-draft-health-policy-releas.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/09/10/ryall-not-distracted-by-draft-health-policy-releas/index.html
+layout: layout.njk
 ---
 Ryall not distracted by draft health policy releas
 ==================================================

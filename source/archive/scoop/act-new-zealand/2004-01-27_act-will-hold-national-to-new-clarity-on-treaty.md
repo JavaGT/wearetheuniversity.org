@@ -1,9 +1,12 @@
 ---
 slug: act-will-hold-national-to-new-clarity-on-treaty
-title: "ACT Will Hold National To New Clarity On Treaty"
-date: 2004-01-27
-source-url: https://www.scoop.co.nz/stories/PA0401/S00208/act-will-hold-national-to-new-clarity-on-treaty.htm
+title: ACT Will Hold National To New Clarity On Treaty
+date: 2004-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00208/act-will-hold-national-to-new-clarity-on-treaty.htm
 author: act-new-zealand
+permalink: /archive/2004/01/27/act-will-hold-national-to-new-clarity-on-treaty/index.html
+layout: layout.njk
 ---
 ACT Will Hold National To New Clarity On Treaty
 ===============================================

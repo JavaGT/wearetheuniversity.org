@@ -1,9 +1,13 @@
 ---
 slug: cost-of-providing-free-period-sanitary-items-minimal
-title: "Cost of providing free period sanitary items minimal"
-date: 2019-06-24
-source-url: https://www.scoop.co.nz/stories/ED1906/S00054/cost-of-providing-free-period-sanitary-items-minimal.htm
+title: Cost of providing free period sanitary items minimal
+date: 2019-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00054/cost-of-providing-free-period-sanitary-items-minimal.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/06/24/cost-of-providing-free-period-sanitary-items-minimal/index.html
+layout: layout.njk
 ---
 Cost of providing free period sanitary items minimal
 ====================================================

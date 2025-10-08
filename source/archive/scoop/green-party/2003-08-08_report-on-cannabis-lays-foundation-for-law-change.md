@@ -1,9 +1,13 @@
 ---
 slug: report-on-cannabis-lays-foundation-for-law-change
-title: "Report on cannabis lays foundation for law change"
-date: 2003-08-08
-source-url: https://www.scoop.co.nz/stories/PA0308/S00159/report-on-cannabis-lays-foundation-for-law-change.htm
+title: Report on cannabis lays foundation for law change
+date: 2003-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00159/report-on-cannabis-lays-foundation-for-law-change.htm
 author: green-party
+permalink: >-
+  /archive/2003/08/08/report-on-cannabis-lays-foundation-for-law-change/index.html
+layout: layout.njk
 ---
 Report on cannabis lays foundation for law change
 =================================================

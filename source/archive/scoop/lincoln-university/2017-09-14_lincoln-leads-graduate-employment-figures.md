@@ -1,9 +1,12 @@
 ---
 slug: lincoln-leads-graduate-employment-figures
-title: "Lincoln leads graduate employment figures"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/ED1709/S00051/lincoln-leads-graduate-employment-figures.htm
+title: Lincoln leads graduate employment figures
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00051/lincoln-leads-graduate-employment-figures.htm
 author: lincoln-university
+permalink: /archive/2017/09/14/lincoln-leads-graduate-employment-figures/index.html
+layout: layout.njk
 ---
 Lincoln leads graduate employment figures
 =========================================

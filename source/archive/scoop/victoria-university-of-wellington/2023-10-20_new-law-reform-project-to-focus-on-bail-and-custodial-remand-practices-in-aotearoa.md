@@ -1,9 +1,16 @@
 ---
-slug: new-law-reform-project-to-focus-on-bail-and-custodial-remand-practices-in-aotearoa
-title: "New Law Reform Project To Focus On Bail And Custodial Remand Practices In Aotearoa"
-date: 2023-10-20
-source-url: https://www.scoop.co.nz/stories/ED2310/S00028/new-law-reform-project-to-focus-on-bail-and-custodial-remand-practices-in-aotearoa.htm
+slug: >-
+  new-law-reform-project-to-focus-on-bail-and-custodial-remand-practices-in-aotearoa
+title: >-
+  New Law Reform Project To Focus On Bail And Custodial Remand Practices In
+  Aotearoa
+date: 2023-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00028/new-law-reform-project-to-focus-on-bail-and-custodial-remand-practices-in-aotearoa.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2023/10/20/new-law-reform-project-to-focus-on-bail-and-custodial-remand-practices-in-aotearoa/index.html
+layout: layout.njk
 ---
 New Law Reform Project To Focus On Bail And Custodial Remand Practices In Aotearoa
 ==================================================================================

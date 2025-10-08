@@ -1,9 +1,12 @@
 ---
 slug: aut-re-forms-faculties-for-2005
-title: "AUT Re-forms Faculties For 2005"
-date: 2004-08-23
-source-url: https://www.scoop.co.nz/stories/ED0408/S00097/aut-re-forms-faculties-for-2005.htm
+title: AUT Re-forms Faculties For 2005
+date: 2004-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00097/aut-re-forms-faculties-for-2005.htm
 author: aut-university
+permalink: /archive/2004/08/23/aut-re-forms-faculties-for-2005/index.html
+layout: layout.njk
 ---
 AUT Re-forms Faculties For 2005
 ===============================

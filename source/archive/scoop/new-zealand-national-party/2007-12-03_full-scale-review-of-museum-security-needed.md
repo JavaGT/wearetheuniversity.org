@@ -1,9 +1,12 @@
 ---
 slug: full-scale-review-of-museum-security-needed
-title: "Full-scale review of museum security needed"
-date: 2007-12-03
-source-url: https://www.scoop.co.nz/stories/PA0712/S00023/full-scale-review-of-museum-security-needed.htm
+title: Full-scale review of museum security needed
+date: 2007-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00023/full-scale-review-of-museum-security-needed.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/03/full-scale-review-of-museum-security-needed/index.html
+layout: layout.njk
 ---
 Full-scale review of museum security needed
 ===========================================

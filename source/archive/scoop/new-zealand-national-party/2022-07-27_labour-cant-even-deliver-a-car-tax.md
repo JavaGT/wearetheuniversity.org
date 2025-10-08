@@ -1,9 +1,12 @@
 ---
 slug: labour-cant-even-deliver-a-car-tax
-title: "Labour Can’t Even Deliver A Car Tax"
-date: 2022-07-27
-source-url: https://www.scoop.co.nz/stories/PA2207/S00187/labour-cant-even-deliver-a-car-tax.htm
+title: Labour Can’t Even Deliver A Car Tax
+date: 2022-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00187/labour-cant-even-deliver-a-car-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/27/labour-cant-even-deliver-a-car-tax/index.html
+layout: layout.njk
 ---
 Labour Can’t Even Deliver A Car Tax
 ===================================

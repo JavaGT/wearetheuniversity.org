@@ -1,9 +1,12 @@
 ---
 slug: speech-by-jeanette-fitzsimons-mp
-title: "Speech by Jeanette Fitzsimons MP"
-date: 2000-08-03
-source-url: https://www.scoop.co.nz/stories/PA0008/S00071/speech-by-jeanette-fitzsimons-mp.htm
+title: Speech by Jeanette Fitzsimons MP
+date: 2000-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00071/speech-by-jeanette-fitzsimons-mp.htm
 author: green-party
+permalink: /archive/2000/08/03/speech-by-jeanette-fitzsimons-mp/index.html
+layout: layout.njk
 ---
 Speech by Jeanette Fitzsimons MP
 ================================

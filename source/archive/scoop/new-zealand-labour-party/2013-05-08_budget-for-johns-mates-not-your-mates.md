@@ -1,9 +1,12 @@
 ---
 slug: budget-for-johns-mates-not-your-mates
-title: "Budget For John’s Mates Not Your Mates"
-date: 2013-05-08
-source-url: https://www.scoop.co.nz/stories/PA1305/S00099/budget-for-johns-mates-not-your-mates.htm
+title: Budget For John’s Mates Not Your Mates
+date: 2013-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00099/budget-for-johns-mates-not-your-mates.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/08/budget-for-johns-mates-not-your-mates/index.html
+layout: layout.njk
 ---
 Budget For John’s Mates Not Your Mates
 ======================================

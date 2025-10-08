@@ -1,9 +1,12 @@
 ---
 slug: rapist-still-on-police-payroll
-title: "Rapist still on police payroll"
-date: 2001-05-01
-source-url: https://www.scoop.co.nz/stories/PA0105/S00024/rapist-still-on-police-payroll.htm
+title: Rapist still on police payroll
+date: 2001-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00024/rapist-still-on-police-payroll.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/01/rapist-still-on-police-payroll/index.html
+layout: layout.njk
 ---
 Rapist still on police payroll
 ==============================

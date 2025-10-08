@@ -1,9 +1,12 @@
 ---
 slug: smaller-class-sizes-under-a-labour-government
-title: "Smaller class sizes under a Labour Government"
-date: 2014-07-06
-source-url: https://www.scoop.co.nz/stories/PA1407/S00113/smaller-class-sizes-under-a-labour-government.htm
+title: Smaller class sizes under a Labour Government
+date: 2014-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00113/smaller-class-sizes-under-a-labour-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/06/smaller-class-sizes-under-a-labour-government/index.html
+layout: layout.njk
 ---
 Smaller class sizes under a Labour Government
 =============================================

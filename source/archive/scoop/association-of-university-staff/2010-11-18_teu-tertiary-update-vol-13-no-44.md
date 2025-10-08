@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-13-no-44
-title: "TEU Tertiary Update Vol 13 No 44"
-date: 2010-11-18
-source-url: https://www.scoop.co.nz/stories/ED1011/S00071/teu-tertiary-update-vol-13-no-44.htm
+title: TEU Tertiary Update Vol 13 No 44
+date: 2010-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00071/teu-tertiary-update-vol-13-no-44.htm
 author: association-of-university-staff
+permalink: /archive/2010/11/18/teu-tertiary-update-vol-13-no-44/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 13 No 44
 ================================

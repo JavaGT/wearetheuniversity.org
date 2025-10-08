@@ -1,9 +1,12 @@
 ---
 slug: poaching-expert-studies-roaring-trade
-title: "Poaching expert studies roaring trade"
-date: 2009-05-03
-source-url: https://www.scoop.co.nz/stories/PO0905/S00033/poaching-expert-studies-roaring-trade.htm
+title: Poaching expert studies roaring trade
+date: 2009-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00033/poaching-expert-studies-roaring-trade.htm
 author: massey-university
+permalink: /archive/2009/05/03/poaching-expert-studies-roaring-trade/index.html
+layout: layout.njk
 ---
 Poaching expert studies roaring trade
 =====================================

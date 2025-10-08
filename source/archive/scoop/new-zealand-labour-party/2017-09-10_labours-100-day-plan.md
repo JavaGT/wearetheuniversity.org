@@ -1,9 +1,11 @@
 ---
 slug: labours-100-day-plan
-title: "Labour’s 100 Day Plan"
-date: 2017-09-10
+title: Labour’s 100 Day Plan
+date: 2017-09-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1709/S00107/labours-100-day-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/10/labours-100-day-plan/index.html
+layout: layout.njk
 ---
 Labour’s 100 Day Plan
 =====================

@@ -1,9 +1,13 @@
 ---
 slug: more-support-needed-for-families-affected-by-problem-gambling
-title: "More Support Needed For Families Affected By Problem Gambling"
-date: 2022-07-21
-source-url: https://www.scoop.co.nz/stories/PO2207/S00122/more-support-needed-for-families-affected-by-problem-gambling.htm
+title: More Support Needed For Families Affected By Problem Gambling
+date: 2022-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2207/S00122/more-support-needed-for-families-affected-by-problem-gambling.htm
 author: aut-university
+permalink: >-
+  /archive/2022/07/21/more-support-needed-for-families-affected-by-problem-gambling/index.html
+layout: layout.njk
 ---
 More Support Needed For Families Affected By Problem Gambling
 =============================================================

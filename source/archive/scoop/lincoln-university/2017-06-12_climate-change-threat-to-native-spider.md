@@ -1,9 +1,12 @@
 ---
 slug: climate-change-threat-to-native-spider
-title: "Climate change threat to native spider"
-date: 2017-06-12
-source-url: https://www.scoop.co.nz/stories/SC1706/S00028/climate-change-threat-to-native-spider.htm
+title: Climate change threat to native spider
+date: 2017-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1706/S00028/climate-change-threat-to-native-spider.htm
 author: lincoln-university
+permalink: /archive/2017/06/12/climate-change-threat-to-native-spider/index.html
+layout: layout.njk
 ---
 Climate change threat to native spider
 ======================================

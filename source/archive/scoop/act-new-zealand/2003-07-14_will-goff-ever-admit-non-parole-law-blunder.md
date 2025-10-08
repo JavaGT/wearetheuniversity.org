@@ -1,9 +1,12 @@
 ---
 slug: will-goff-ever-admit-non-parole-law-blunder
-title: "Will Goff Ever Admit Non-Parole Law Blunder?"
-date: 2003-07-14
-source-url: https://www.scoop.co.nz/stories/PA0307/S00235/will-goff-ever-admit-non-parole-law-blunder.htm
+title: Will Goff Ever Admit Non-Parole Law Blunder?
+date: 2003-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00235/will-goff-ever-admit-non-parole-law-blunder.htm
 author: act-new-zealand
+permalink: /archive/2003/07/14/will-goff-ever-admit-non-parole-law-blunder/index.html
+layout: layout.njk
 ---
 Will Goff Ever Admit Non-Parole Law Blunder?
 ============================================

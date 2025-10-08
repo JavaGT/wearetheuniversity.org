@@ -1,9 +1,12 @@
 ---
 slug: open-lecture-my-father-was-a-race-alien
-title: "Open Lecture: My Father was a Race Alien"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/ED1407/S00020/open-lecture-my-father-was-a-race-alien.htm
+title: 'Open Lecture: My Father was a Race Alien'
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00020/open-lecture-my-father-was-a-race-alien.htm
 author: university-of-waikato
+permalink: /archive/2014/07/02/open-lecture-my-father-was-a-race-alien/index.html
+layout: layout.njk
 ---
 Open Lecture: My Father was a Race Alien
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: a-cosmic-year-for-uc-astrophysicist
-title: "A Cosmic Year For UC Astrophysicist"
-date: 2020-11-03
-source-url: https://www.scoop.co.nz/stories/SC2011/S00002/a-cosmic-year-for-uc-astrophysicist.htm
+title: A Cosmic Year For UC Astrophysicist
+date: 2020-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00002/a-cosmic-year-for-uc-astrophysicist.htm
 author: university-of-canterbury
+permalink: /archive/2020/11/03/a-cosmic-year-for-uc-astrophysicist/index.html
+layout: layout.njk
 ---
 A Cosmic Year For UC Astrophysicist
 ===================================

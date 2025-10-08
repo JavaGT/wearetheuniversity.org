@@ -1,9 +1,12 @@
 ---
 slug: a-glimpse-of-hell-newman-speech
-title: "A Glimpse of Hell - Newman Speech"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/PA0110/S00031/a-glimpse-of-hell-newman-speech.htm
+title: A Glimpse of Hell - Newman Speech
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00031/a-glimpse-of-hell-newman-speech.htm
 author: act-new-zealand
+permalink: /archive/2001/10/01/a-glimpse-of-hell-newman-speech/index.html
+layout: layout.njk
 ---
 A Glimpse of Hell - Newman Speech
 =================================

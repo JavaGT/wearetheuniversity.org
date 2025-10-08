@@ -1,9 +1,12 @@
 ---
 slug: learning-support-needs-proper-support
-title: "Learning support needs proper support"
-date: 2017-08-11
-source-url: https://www.scoop.co.nz/stories/PA1708/S00224/learning-support-needs-proper-support.htm
+title: Learning support needs proper support
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00224/learning-support-needs-proper-support.htm
 author: green-party
+permalink: /archive/2017/08/11/learning-support-needs-proper-support/index.html
+layout: layout.njk
 ---
 Learning support needs proper support
 =====================================

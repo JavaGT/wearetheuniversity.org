@@ -1,9 +1,13 @@
 ---
 slug: education-system-world-class-for-some-but-not-yet-for-all
-title: "Education System World Class For Some, But Not Yet For All"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/PA1210/S00501/education-system-world-class-for-some-but-not-yet-for-all.htm
+title: Education System World Class For Some, But Not Yet For All
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00501/education-system-world-class-for-some-but-not-yet-for-all.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2012/10/30/education-system-world-class-for-some-but-not-yet-for-all/index.html
+layout: layout.njk
 ---
 Education System World Class For Some, But Not Yet For All
 ==========================================================

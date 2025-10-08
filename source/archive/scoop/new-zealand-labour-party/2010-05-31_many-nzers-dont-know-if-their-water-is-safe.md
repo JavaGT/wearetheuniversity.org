@@ -1,9 +1,12 @@
 ---
 slug: many-nzers-dont-know-if-their-water-is-safe
-title: "Many NZers don’t know if their water is safe"
-date: 2010-05-31
-source-url: https://www.scoop.co.nz/stories/PA1005/S00522/many-nzers-dont-know-if-their-water-is-safe.htm
+title: Many NZers don’t know if their water is safe
+date: 2010-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00522/many-nzers-dont-know-if-their-water-is-safe.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/31/many-nzers-dont-know-if-their-water-is-safe/index.html
+layout: layout.njk
 ---
 Many NZers don’t know if their water is safe
 ============================================

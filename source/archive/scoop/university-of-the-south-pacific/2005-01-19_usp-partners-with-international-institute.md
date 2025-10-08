@@ -1,9 +1,12 @@
 ---
 slug: usp-partners-with-international-institute
-title: "USP partners with International Institute"
-date: 2005-01-19
-source-url: https://www.scoop.co.nz/stories/SC0501/S00027/usp-partners-with-international-institute.htm
+title: USP partners with International Institute
+date: 2005-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0501/S00027/usp-partners-with-international-institute.htm
 author: university-of-the-south-pacific
+permalink: /archive/2005/01/19/usp-partners-with-international-institute/index.html
+layout: layout.njk
 ---
 USP partners with International Institute
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: government-makes-a-pigs-ear-of-biosecurity-risks
-title: "Government makes a pig’s ear of biosecurity risks"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00321/government-makes-a-pigs-ear-of-biosecurity-risks.htm
+title: Government makes a pig’s ear of biosecurity risks
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00321/government-makes-a-pigs-ear-of-biosecurity-risks.htm
 author: green-party
+permalink: >-
+  /archive/2011/04/14/government-makes-a-pigs-ear-of-biosecurity-risks/index.html
+layout: layout.njk
 ---
 Government makes a pig’s ear of biosecurity risks
 =================================================

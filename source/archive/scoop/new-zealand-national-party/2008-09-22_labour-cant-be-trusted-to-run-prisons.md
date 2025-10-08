@@ -1,9 +1,12 @@
 ---
 slug: labour-cant-be-trusted-to-run-prisons
-title: "Labour can’t be trusted to run prisons"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/PA0809/S00452/labour-cant-be-trusted-to-run-prisons.htm
+title: Labour can’t be trusted to run prisons
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00452/labour-cant-be-trusted-to-run-prisons.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/22/labour-cant-be-trusted-to-run-prisons/index.html
+layout: layout.njk
 ---
 Labour can’t be trusted to run prisons
 ======================================

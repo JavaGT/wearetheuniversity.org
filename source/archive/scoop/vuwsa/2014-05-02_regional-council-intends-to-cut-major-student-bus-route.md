@@ -1,9 +1,13 @@
 ---
 slug: regional-council-intends-to-cut-major-student-bus-route
-title: "Regional Council Intends to Cut Major Student Bus Route"
-date: 2014-05-02
-source-url: https://www.scoop.co.nz/stories/ED1405/S00008/regional-council-intends-to-cut-major-student-bus-route.htm
+title: Regional Council Intends to Cut Major Student Bus Route
+date: 2014-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00008/regional-council-intends-to-cut-major-student-bus-route.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/05/02/regional-council-intends-to-cut-major-student-bus-route/index.html
+layout: layout.njk
 ---
 Regional Council Intends to Cut Major Student Bus Route
 =======================================================

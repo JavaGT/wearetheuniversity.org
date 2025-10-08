@@ -1,9 +1,13 @@
 ---
 slug: new-massey-university-portal-tracks-gdp-in-real-time
-title: "New Massey University portal tracks GDP in real time"
-date: 2018-12-17
-source-url: https://www.scoop.co.nz/stories/BU1812/S00430/new-massey-university-portal-tracks-gdp-in-real-time.htm
+title: New Massey University portal tracks GDP in real time
+date: 2018-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1812/S00430/new-massey-university-portal-tracks-gdp-in-real-time.htm
 author: massey-university
+permalink: >-
+  /archive/2018/12/17/new-massey-university-portal-tracks-gdp-in-real-time/index.html
+layout: layout.njk
 ---
 New Massey University portal tracks GDP in real time
 ====================================================

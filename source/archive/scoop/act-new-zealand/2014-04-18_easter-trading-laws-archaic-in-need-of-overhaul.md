@@ -1,9 +1,12 @@
 ---
 slug: easter-trading-laws-archaic-in-need-of-overhaul
-title: "Easter trading laws archaic, in need of overhaul"
-date: 2014-04-18
-source-url: https://www.scoop.co.nz/stories/PO1404/S00302/easter-trading-laws-archaic-in-need-of-overhaul.htm
+title: Easter trading laws archaic, in need of overhaul
+date: 2014-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00302/easter-trading-laws-archaic-in-need-of-overhaul.htm
 author: act-new-zealand
+permalink: /archive/2014/04/18/easter-trading-laws-archaic-in-need-of-overhaul/index.html
+layout: layout.njk
 ---
 Easter trading laws archaic, in need of overhaul
 ================================================

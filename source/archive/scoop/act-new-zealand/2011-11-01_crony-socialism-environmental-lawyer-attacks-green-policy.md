@@ -1,9 +1,13 @@
 ---
 slug: crony-socialism-environmental-lawyer-attacks-green-policy
-title: "Crony Socialism: Environmental Lawyer Attacks Green Policy"
-date: 2011-11-01
-source-url: https://www.scoop.co.nz/stories/PO1111/S00009/crony-socialism-environmental-lawyer-attacks-green-policy.htm
+title: 'Crony Socialism: Environmental Lawyer Attacks Green Policy'
+date: 2011-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00009/crony-socialism-environmental-lawyer-attacks-green-policy.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/01/crony-socialism-environmental-lawyer-attacks-green-policy/index.html
+layout: layout.njk
 ---
 Crony Socialism: Environmental Lawyer Attacks Green Policy
 ==========================================================

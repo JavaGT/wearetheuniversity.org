@@ -1,9 +1,12 @@
 ---
 slug: smart-students-set-to-grow-new-zealand
-title: "Smart students set to grow New Zealand"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00047/smart-students-set-to-grow-new-zealand.htm
+title: Smart students set to grow New Zealand
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00047/smart-students-set-to-grow-new-zealand.htm
 author: massey-university
+permalink: /archive/2008/10/13/smart-students-set-to-grow-new-zealand/index.html
+layout: layout.njk
 ---
 Smart students set to grow New Zealand
 ======================================

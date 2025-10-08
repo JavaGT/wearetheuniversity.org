@@ -1,9 +1,12 @@
 ---
 slug: students-&-cullen-to-celebrate-interest-free-loans
-title: "Students & Cullen to celebrate interest free loans"
-date: 2005-12-14
-source-url: https://www.scoop.co.nz/stories/ED0512/S00063/students-cullen-to-celebrate-interest-free-loans.htm
+title: Students & Cullen to celebrate interest free loans
+date: 2005-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00063/students-cullen-to-celebrate-interest-free-loans.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/12/14/students-/index.html
+layout: layout.njk
 ---
 Students & Cullen to celebrate interest free loans
 ==================================================

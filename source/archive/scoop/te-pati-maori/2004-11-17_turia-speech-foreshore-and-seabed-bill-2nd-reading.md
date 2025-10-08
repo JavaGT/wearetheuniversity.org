@@ -1,9 +1,13 @@
 ---
 slug: turia-speech-foreshore-and-seabed-bill-2nd-reading
-title: "Turia Speech Foreshore and Seabed Bill 2nd Reading"
-date: 2004-11-17
-source-url: https://www.scoop.co.nz/stories/PA0411/S00369/turia-speech-foreshore-and-seabed-bill-2nd-reading.htm
+title: Turia Speech Foreshore and Seabed Bill 2nd Reading
+date: 2004-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00369/turia-speech-foreshore-and-seabed-bill-2nd-reading.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2004/11/17/turia-speech-foreshore-and-seabed-bill-2nd-reading/index.html
+layout: layout.njk
 ---
 Turia Speech Foreshore and Seabed Bill 2nd Reading
 ==================================================

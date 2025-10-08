@@ -1,9 +1,12 @@
 ---
 slug: are-votes-more-important-than-jobs
-title: "\"Are votes more important than jobs?\""
-date: 1999-09-20
-source-url: https://www.scoop.co.nz/stories/PO9909/S00087/are-votes-more-important-than-jobs.htm
+title: '"Are votes more important than jobs?"'
+date: 1999-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00087/are-votes-more-important-than-jobs.htm
 author: new-zealand-young-nationals
+permalink: /archive/1999/09/20/are-votes-more-important-than-jobs/index.html
+layout: layout.njk
 ---
 \"Are votes more important than jobs?"
 =====================================

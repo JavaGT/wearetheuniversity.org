@@ -1,9 +1,11 @@
 ---
 slug: dyslexia-awareness-week
-title: "Dyslexia Awareness Week"
-date: 2015-03-16
+title: Dyslexia Awareness Week
+date: 2015-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1503/S00223/dyslexia-awareness-week.htm
 author: new-zealand-first-party
+permalink: /archive/2015/03/16/dyslexia-awareness-week/index.html
+layout: layout.njk
 ---
 Dyslexia Awareness Week
 =======================

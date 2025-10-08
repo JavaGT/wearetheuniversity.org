@@ -1,9 +1,12 @@
 ---
 slug: reading-recovery-not-the-solution
-title: "Reading Recovery Not The Solution"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/ED1209/S00063/reading-recovery-not-the-solution.htm
+title: Reading Recovery Not The Solution
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00063/reading-recovery-not-the-solution.htm
 author: massey-university
+permalink: /archive/2012/09/10/reading-recovery-not-the-solution/index.html
+layout: layout.njk
 ---
 Reading Recovery Not The Solution
 =================================

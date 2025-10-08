@@ -1,9 +1,12 @@
 ---
 slug: volunteer-awareness-week-(19-25-june)
-title: "Volunteer Awareness Week (19-25 June)"
-date: 2011-06-20
-source-url: https://www.scoop.co.nz/stories/PA1106/S00313/volunteer-awareness-week-19-25-june.htm
+title: Volunteer Awareness Week (19-25 June)
+date: 2011-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00313/volunteer-awareness-week-19-25-june.htm
 author: new-zealand-national-party
+permalink: /archive/2011/06/20/volunteer-awareness-week-/index.html
+layout: layout.njk
 ---
 Volunteer Awareness Week (19-25 June)
 =====================================

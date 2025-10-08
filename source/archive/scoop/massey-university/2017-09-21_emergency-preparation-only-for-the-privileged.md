@@ -1,9 +1,12 @@
 ---
 slug: emergency-preparation-only-for-the-privileged
-title: "Emergency preparation – only for the privileged?"
-date: 2017-09-21
-source-url: https://www.scoop.co.nz/stories/ED1709/S00083/emergency-preparation-only-for-the-privileged.htm
+title: Emergency preparation – only for the privileged?
+date: 2017-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00083/emergency-preparation-only-for-the-privileged.htm
 author: massey-university
+permalink: /archive/2017/09/21/emergency-preparation-only-for-the-privileged/index.html
+layout: layout.njk
 ---
 Emergency preparation – only for the privileged?
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-little-bit-of-honesty-please-nzusa
-title: "A little bit of honesty please, NZUSA"
-date: 2008-07-18
-source-url: https://www.scoop.co.nz/stories/ED0807/S00062/a-little-bit-of-honesty-please-nzusa.htm
+title: A little bit of honesty please, NZUSA
+date: 2008-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00062/a-little-bit-of-honesty-please-nzusa.htm
 author: student-choice
+permalink: /archive/2008/07/18/a-little-bit-of-honesty-please-nzusa/index.html
+layout: layout.njk
 ---
 A little bit of honesty please, NZUSA
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: prestigious-innovation-award-for-university-based-website
-title: "Prestigious innovation award for university-based website"
-date: 2011-07-25
-source-url: https://www.scoop.co.nz/stories/ED1107/S00108/prestigious-innovation-award-for-university-based-website.htm
+title: Prestigious innovation award for university-based website
+date: 2011-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00108/prestigious-innovation-award-for-university-based-website.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/07/25/prestigious-innovation-award-for-university-based-website/index.html
+layout: layout.njk
 ---
 Prestigious innovation award for university-based website
 =========================================================

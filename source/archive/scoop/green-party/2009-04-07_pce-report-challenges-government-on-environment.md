@@ -1,9 +1,12 @@
 ---
 slug: pce-report-challenges-government-on-environment
-title: "PCE report challenges Government on environment"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/PA0904/S00098/pce-report-challenges-government-on-environment.htm
+title: PCE report challenges Government on environment
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00098/pce-report-challenges-government-on-environment.htm
 author: green-party
+permalink: /archive/2009/04/07/pce-report-challenges-government-on-environment/index.html
+layout: layout.njk
 ---
 PCE report challenges Government on environment
 ===============================================

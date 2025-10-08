@@ -1,9 +1,12 @@
 ---
 slug: scholarship-students-get-extra-from-experts
-title: "Scholarship students get extra from experts"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/ED1508/S00081/scholarship-students-get-extra-from-experts.htm
+title: Scholarship students get extra from experts
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00081/scholarship-students-get-extra-from-experts.htm
 author: lincoln-university
+permalink: /archive/2015/08/17/scholarship-students-get-extra-from-experts/index.html
+layout: layout.njk
 ---
 Scholarship students get extra from experts
 ===========================================

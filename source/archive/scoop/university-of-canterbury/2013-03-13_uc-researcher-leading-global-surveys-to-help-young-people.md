@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-leading-global-surveys-to-help-young-people
-title: "UC Researcher Leading Global Surveys To Help Young People"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/ED1303/S00088/uc-researcher-leading-global-surveys-to-help-young-people.htm
+title: UC Researcher Leading Global Surveys To Help Young People
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00088/uc-researcher-leading-global-surveys-to-help-young-people.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/13/uc-researcher-leading-global-surveys-to-help-young-people/index.html
+layout: layout.njk
 ---
 UC Researcher Leading Global Surveys To Help Young People
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: 45000-nzei-members-oppose-mapp-bill
-title: "45,000 NZEI Members Oppose Mapp Bill"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/ED0607/S00087/45000-nzei-members-oppose-mapp-bill.htm
+title: 45,000 NZEI Members Oppose Mapp Bill
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0607/S00087/45000-nzei-members-oppose-mapp-bill.htm
 author: nzei
+permalink: /archive/2006/07/27/45000-nzei-members-oppose-mapp-bill/index.html
+layout: layout.njk
 ---
 45,000 NZEI Members Oppose Mapp Bill
 ====================================

@@ -1,9 +1,11 @@
 ---
 slug: aste-celebrates-diversity
-title: "ASTE Celebrates Diversity"
-date: 2006-10-10
+title: ASTE Celebrates Diversity
+date: 2006-10-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0610/S00033/aste-celebrates-diversity.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2006/10/10/aste-celebrates-diversity/index.html
+layout: layout.njk
 ---
 ASTE Celebrates Diversity
 =========================

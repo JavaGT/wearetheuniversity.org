@@ -1,9 +1,12 @@
 ---
 slug: minister-to-launch-asian-health-programme
-title: "Minister to launch Asian health programme"
-date: 2010-12-06
-source-url: https://www.scoop.co.nz/stories/ED1012/S00028/minister-to-launch-asian-health-programme.htm
+title: Minister to launch Asian health programme
+date: 2010-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00028/minister-to-launch-asian-health-programme.htm
 author: massey-university
+permalink: /archive/2010/12/06/minister-to-launch-asian-health-programme/index.html
+layout: layout.njk
 ---
 Minister to launch Asian health programme
 =========================================

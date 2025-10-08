@@ -1,9 +1,12 @@
 ---
 slug: dealing-with-negative-thinking
-title: "Dealing with negative thinking"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/SC1405/S00053/dealing-with-negative-thinking.htm
+title: Dealing with negative thinking
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1405/S00053/dealing-with-negative-thinking.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/22/dealing-with-negative-thinking/index.html
+layout: layout.njk
 ---
 Dealing with negative thinking
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: fifty-years-of-mahi-a-milestone-for-the-university-of-otago-christchurch
-title: "Fifty Years Of Mahi – A Milestone For The University Of Otago, Christchurch"
-date: 2023-03-07
-source-url: https://www.scoop.co.nz/stories/ED2303/S00006/fifty-years-of-mahi-a-milestone-for-the-university-of-otago-christchurch.htm
+title: Fifty Years Of Mahi – A Milestone For The University Of Otago, Christchurch
+date: 2023-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00006/fifty-years-of-mahi-a-milestone-for-the-university-of-otago-christchurch.htm
 author: university-of-otago
+permalink: >-
+  /archive/2023/03/07/fifty-years-of-mahi-a-milestone-for-the-university-of-otago-christchurch/index.html
+layout: layout.njk
 ---
 Fifty Years Of Mahi – A Milestone For The University Of Otago, Christchurch
 ===========================================================================

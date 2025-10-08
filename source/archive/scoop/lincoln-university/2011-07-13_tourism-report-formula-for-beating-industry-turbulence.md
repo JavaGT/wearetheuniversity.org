@@ -1,9 +1,13 @@
 ---
 slug: tourism-report-formula-for-beating-industry-turbulence
-title: "Tourism report: Formula for beating industry ‘turbulence'"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/ED1107/S00054/tourism-report-formula-for-beating-industry-turbulence.htm
+title: 'Tourism report: Formula for beating industry ‘turbulence'''
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00054/tourism-report-formula-for-beating-industry-turbulence.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/07/13/tourism-report-formula-for-beating-industry-turbulence/index.html
+layout: layout.njk
 ---
 Tourism report: Formula for beating industry ‘turbulence'
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: making-cigarette-sticks-unattractive-next-step
-title: "Making cigarette sticks unattractive next step"
-date: 2016-03-23
-source-url: https://www.scoop.co.nz/stories/PO1603/S00374/making-cigarette-sticks-unattractive-next-step.htm
+title: Making cigarette sticks unattractive next step
+date: 2016-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00374/making-cigarette-sticks-unattractive-next-step.htm
 author: university-of-otago
+permalink: /archive/2016/03/23/making-cigarette-sticks-unattractive-next-step/index.html
+layout: layout.njk
 ---
 Making cigarette sticks unattractive next step
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-party-welcomes-oral-health-collaboration
-title: "Māori Party welcomes oral health collaboration"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/PO1410/S00068/maori-party-welcomes-oral-health-collaboration.htm
+title: Māori Party welcomes oral health collaboration
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1410/S00068/maori-party-welcomes-oral-health-collaboration.htm
 author: te-pati-maori
+permalink: /archive/2014/10/06/m/index.html
+layout: layout.njk
 ---
 Māori Party welcomes oral health collaboration
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: jake-mahaffy-wins-the-orizzonti-award
-title: "Jake Mahaffy wins the Orizzonti Award"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/CU1509/S00198/jake-mahaffy-wins-the-orizzonti-award.htm
+title: Jake Mahaffy wins the Orizzonti Award
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1509/S00198/jake-mahaffy-wins-the-orizzonti-award.htm
 author: auckland-university
+permalink: /archive/2015/09/14/jake-mahaffy-wins-the-orizzonti-award/index.html
+layout: layout.njk
 ---
 Jake Mahaffy wins the Orizzonti Award
 =====================================

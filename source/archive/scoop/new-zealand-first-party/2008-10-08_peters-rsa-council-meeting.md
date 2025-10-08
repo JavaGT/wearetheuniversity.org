@@ -1,9 +1,11 @@
 ---
 slug: peters-rsa-council-meeting
-title: "Peters: RSA Council Meeting"
-date: 2008-10-08
+title: 'Peters: RSA Council Meeting'
+date: 2008-10-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00162/peters-rsa-council-meeting.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/08/peters-rsa-council-meeting/index.html
+layout: layout.njk
 ---
 Peters: RSA Council Meeting
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: northland-firm-misses-out-on-college-rebuilding-project
-title: "Northland Firm Misses Out on College Rebuilding Project"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/PA1511/S00049/northland-firm-misses-out-on-college-rebuilding-project.htm
+title: Northland Firm Misses Out on College Rebuilding Project
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00049/northland-firm-misses-out-on-college-rebuilding-project.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/03/northland-firm-misses-out-on-college-rebuilding-project/index.html
+layout: layout.njk
 ---
 Northland Firm Misses Out on College Rebuilding Project
 =======================================================

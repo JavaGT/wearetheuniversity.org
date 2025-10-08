@@ -1,9 +1,12 @@
 ---
 slug: uc-faces-budget-challenge-with-determination
-title: "UC faces budget challenge with determination"
-date: 2011-12-01
-source-url: https://www.scoop.co.nz/stories/ED1112/S00005/uc-faces-budget-challenge-with-determination.htm
+title: UC faces budget challenge with determination
+date: 2011-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00005/uc-faces-budget-challenge-with-determination.htm
 author: university-of-canterbury
+permalink: /archive/2011/12/01/uc-faces-budget-challenge-with-determination/index.html
+layout: layout.njk
 ---
 UC faces budget challenge with determination
 ============================================

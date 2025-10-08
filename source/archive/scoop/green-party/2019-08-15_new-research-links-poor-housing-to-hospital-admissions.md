@@ -1,9 +1,13 @@
 ---
 slug: new-research-links-poor-housing-to-hospital-admissions
-title: "New research links poor housing to hospital admissions"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/PA1908/S00158/new-research-links-poor-housing-to-hospital-admissions.htm
+title: New research links poor housing to hospital admissions
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00158/new-research-links-poor-housing-to-hospital-admissions.htm
 author: green-party
+permalink: >-
+  /archive/2019/08/15/new-research-links-poor-housing-to-hospital-admissions/index.html
+layout: layout.njk
 ---
 New research links poor housing to hospital admissions
 ======================================================

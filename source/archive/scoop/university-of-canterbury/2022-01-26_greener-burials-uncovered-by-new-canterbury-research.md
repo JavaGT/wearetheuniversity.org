@@ -1,9 +1,13 @@
 ---
 slug: greener-burials-uncovered-by-new-canterbury-research
-title: "Greener Burials Uncovered By New Canterbury Research"
-date: 2022-01-26
-source-url: https://www.scoop.co.nz/stories/SC2201/S00035/greener-burials-uncovered-by-new-canterbury-research.htm
+title: Greener Burials Uncovered By New Canterbury Research
+date: 2022-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2201/S00035/greener-burials-uncovered-by-new-canterbury-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/01/26/greener-burials-uncovered-by-new-canterbury-research/index.html
+layout: layout.njk
 ---
 Greener Burials Uncovered By New Canterbury Research
 ====================================================

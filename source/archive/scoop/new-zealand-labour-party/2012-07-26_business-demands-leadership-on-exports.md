@@ -1,9 +1,12 @@
 ---
 slug: business-demands-leadership-on-exports
-title: "Business demands leadership on exports"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/PA1207/S00354/business-demands-leadership-on-exports.htm
+title: Business demands leadership on exports
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00354/business-demands-leadership-on-exports.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/26/business-demands-leadership-on-exports/index.html
+layout: layout.njk
 ---
 Business demands leadership on exports
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-nationals-post-election-action-plan
-title: "Pansy Speak: National’s Post-Election Action Plan"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PA0811/S00086/pansy-speak-nationals-post-election-action-plan.htm
+title: 'Pansy Speak: National’s Post-Election Action Plan'
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00086/pansy-speak-nationals-post-election-action-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/05/pansy-speak-nationals-post-election-action-plan/index.html
+layout: layout.njk
 ---
 Pansy Speak: National’s Post-Election Action Plan
 =================================================

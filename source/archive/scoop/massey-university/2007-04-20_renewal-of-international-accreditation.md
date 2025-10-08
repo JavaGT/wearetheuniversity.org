@@ -1,9 +1,12 @@
 ---
 slug: renewal-of-international-accreditation
-title: "Renewal of international accreditation"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/ED0704/S00071/renewal-of-international-accreditation.htm
+title: Renewal of international accreditation
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00071/renewal-of-international-accreditation.htm
 author: massey-university
+permalink: /archive/2007/04/20/renewal-of-international-accreditation/index.html
+layout: layout.njk
 ---
 Renewal of international accreditation
 ======================================

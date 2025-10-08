@@ -1,9 +1,12 @@
 ---
 slug: international-award-for-massey-entomologist
-title: "International award for Massey entomologist"
-date: 2012-09-17
-source-url: https://www.scoop.co.nz/stories/SC1209/S00034/international-award-for-massey-entomologist.htm
+title: International award for Massey entomologist
+date: 2012-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1209/S00034/international-award-for-massey-entomologist.htm
 author: massey-university
+permalink: /archive/2012/09/17/international-award-for-massey-entomologist/index.html
+layout: layout.njk
 ---
 International award for Massey entomologist
 ===========================================

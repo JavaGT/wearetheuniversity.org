@@ -1,9 +1,11 @@
 ---
 slug: seeing-what-you-see
-title: "Seeing What You See"
-date: 2009-04-09
+title: Seeing What You See
+date: 2009-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0904/S00032/seeing-what-you-see.htm
 author: university-of-waikato
+permalink: /archive/2009/04/09/seeing-what-you-see/index.html
+layout: layout.njk
 ---
 Seeing What You See
 ===================

@@ -1,9 +1,12 @@
 ---
 slug: government-must-act-to-fix-acc-rot
-title: "Government must act to fix ACC rot"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/PA1507/S00374/government-must-act-to-fix-acc-rot.htm
+title: Government must act to fix ACC rot
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00374/government-must-act-to-fix-acc-rot.htm
 author: green-party
+permalink: /archive/2015/07/23/government-must-act-to-fix-acc-rot/index.html
+layout: layout.njk
 ---
 Government must act to fix ACC rot
 ==================================

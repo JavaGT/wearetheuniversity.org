@@ -1,9 +1,12 @@
 ---
 slug: new-college-of-arts-showcases-its-wares
-title: "New College of Arts showcases its wares"
-date: 2004-03-18
-source-url: https://www.scoop.co.nz/stories/ED0403/S00073/new-college-of-arts-showcases-its-wares.htm
+title: New College of Arts showcases its wares
+date: 2004-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00073/new-college-of-arts-showcases-its-wares.htm
 author: university-of-canterbury
+permalink: /archive/2004/03/18/new-college-of-arts-showcases-its-wares/index.html
+layout: layout.njk
 ---
 New College of Arts showcases its wares
 =======================================

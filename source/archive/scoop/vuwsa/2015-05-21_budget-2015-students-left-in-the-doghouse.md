@@ -1,9 +1,12 @@
 ---
 slug: budget-2015-students-left-in-the-doghouse
-title: "Budget 2015: Students left in the doghouse"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PO1505/S00272/budget-2015-students-left-in-the-doghouse.htm
+title: 'Budget 2015: Students left in the doghouse'
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00272/budget-2015-students-left-in-the-doghouse.htm
 author: vuwsa
+permalink: /archive/2015/05/21/budget-2015-students-left-in-the-doghouse/index.html
+layout: layout.njk
 ---
 Budget 2015: Students left in the doghouse
 ==========================================

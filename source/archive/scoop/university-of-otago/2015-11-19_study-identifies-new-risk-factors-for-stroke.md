@@ -1,9 +1,12 @@
 ---
 slug: study-identifies-new-risk-factors-for-stroke
-title: "Study identifies new risk factors for stroke"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/SC1511/S00070/study-identifies-new-risk-factors-for-stroke.htm
+title: Study identifies new risk factors for stroke
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00070/study-identifies-new-risk-factors-for-stroke.htm
 author: university-of-otago
+permalink: /archive/2015/11/19/study-identifies-new-risk-factors-for-stroke/index.html
+layout: layout.njk
 ---
 Study identifies new risk factors for stroke
 ============================================

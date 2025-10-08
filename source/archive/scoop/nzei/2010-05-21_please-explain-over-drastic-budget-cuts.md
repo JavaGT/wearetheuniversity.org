@@ -1,9 +1,12 @@
 ---
 slug: please-explain-over-drastic-budget-cuts
-title: "\"Please Explain\" Over Drastic Budget Cuts"
-date: 2010-05-21
-source-url: https://www.scoop.co.nz/stories/ED1005/S00099/please-explain-over-drastic-budget-cuts.htm
+title: '"Please Explain" Over Drastic Budget Cuts'
+date: 2010-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00099/please-explain-over-drastic-budget-cuts.htm
 author: nzei
+permalink: /archive/2010/05/21/please-explain-over-drastic-budget-cuts/index.html
+layout: layout.njk
 ---
 “Please Explain” Over Drastic Budget Cuts
 =========================================

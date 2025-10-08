@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-to-annual-conference
-title: "Winston Peters Speech To Annual Conference"
-date: 2001-09-03
-source-url: https://www.scoop.co.nz/stories/PA0109/S00014/winston-peters-speech-to-annual-conference.htm
+title: Winston Peters Speech To Annual Conference
+date: 2001-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00014/winston-peters-speech-to-annual-conference.htm
 author: new-zealand-first-party
+permalink: /archive/2001/09/03/winston-peters-speech-to-annual-conference/index.html
+layout: layout.njk
 ---
 Winston Peters Speech To Annual Conference
 ==========================================

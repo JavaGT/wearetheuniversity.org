@@ -1,9 +1,12 @@
 ---
 slug: heather-roy-speech-to-regional-conference
-title: "Heather Roy Speech to Regional Conference"
-date: 2007-03-18
-source-url: https://www.scoop.co.nz/stories/PA0703/S00349/heather-roy-speech-to-regional-conference.htm
+title: Heather Roy Speech to Regional Conference
+date: 2007-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00349/heather-roy-speech-to-regional-conference.htm
 author: act-new-zealand
+permalink: /archive/2007/03/18/heather-roy-speech-to-regional-conference/index.html
+layout: layout.njk
 ---
 Heather Roy Speech to Regional Conference
 =========================================

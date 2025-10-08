@@ -1,9 +1,12 @@
 ---
 slug: penny-drops-but-what-about-seymour-and-peters
-title: "Penny Drops – But What About Seymour And Peters?"
-date: 2024-04-24
-source-url: https://www.scoop.co.nz/stories/PA2404/S00151/penny-drops-but-what-about-seymour-and-peters.htm
+title: Penny Drops – But What About Seymour And Peters?
+date: 2024-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00151/penny-drops-but-what-about-seymour-and-peters.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/04/24/penny-drops-but-what-about-seymour-and-peters/index.html
+layout: layout.njk
 ---
 Penny Drops – But What About Seymour And Peters?
 ================================================

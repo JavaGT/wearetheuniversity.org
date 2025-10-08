@@ -1,9 +1,13 @@
 ---
 slug: uc-conference-highlights-valuable-lessons-from-disaster
-title: "UC Conference Highlights Valuable Lessons from Disaster"
-date: 2013-05-27
-source-url: https://www.scoop.co.nz/stories/ED1305/S00172/uc-conference-highlights-valuable-lessons-from-disaster.htm
+title: UC Conference Highlights Valuable Lessons from Disaster
+date: 2013-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00172/uc-conference-highlights-valuable-lessons-from-disaster.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/27/uc-conference-highlights-valuable-lessons-from-disaster/index.html
+layout: layout.njk
 ---
 UC Conference Highlights Valuable Lessons from Disaster
 =======================================================

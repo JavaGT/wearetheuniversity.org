@@ -1,9 +1,13 @@
 ---
 slug: impacts-of-future-volcanic-eruptions-highlighted
-title: "Impacts of future volcanic eruptions  highlighted"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/SC1412/S00030/impacts-of-future-volcanic-eruptions-highlighted.htm
+title: Impacts of future volcanic eruptions  highlighted
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00030/impacts-of-future-volcanic-eruptions-highlighted.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/08/impacts-of-future-volcanic-eruptions-highlighted/index.html
+layout: layout.njk
 ---
 Impacts of future volcanic eruptions highlighted
 ================================================

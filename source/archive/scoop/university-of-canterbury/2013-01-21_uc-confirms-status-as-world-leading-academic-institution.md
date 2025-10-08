@@ -1,9 +1,13 @@
 ---
 slug: uc-confirms-status-as-world-leading-academic-institution
-title: "UC confirms status as world-leading academic institution"
-date: 2013-01-21
-source-url: https://www.scoop.co.nz/stories/SC1301/S00037/uc-confirms-status-as-world-leading-academic-institution.htm
+title: UC confirms status as world-leading academic institution
+date: 2013-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1301/S00037/uc-confirms-status-as-world-leading-academic-institution.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/21/uc-confirms-status-as-world-leading-academic-institution/index.html
+layout: layout.njk
 ---
 UC confirms status as world-leading academic institution
 ========================================================

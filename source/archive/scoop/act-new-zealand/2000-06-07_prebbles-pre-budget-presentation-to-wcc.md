@@ -1,9 +1,12 @@
 ---
 slug: prebbles-pre-budget-presentation-to-wcc
-title: "Prebble's Pre-Budget Presentation To WCC"
-date: 2000-06-07
-source-url: https://www.scoop.co.nz/stories/PA0006/S00121/prebbles-pre-budget-presentation-to-wcc.htm
+title: Prebble's Pre-Budget Presentation To WCC
+date: 2000-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00121/prebbles-pre-budget-presentation-to-wcc.htm
 author: act-new-zealand
+permalink: /archive/2000/06/07/prebbles-pre-budget-presentation-to-wcc/index.html
+layout: layout.njk
 ---
 Prebble's Pre-Budget Presentation To WCC
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: anzac-cove-must-be-preserved
-title: "Anzac Cove Must Be Preserved"
-date: 2005-03-02
+title: Anzac Cove Must Be Preserved
+date: 2005-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00044/anzac-cove-must-be-preserved.htm
 author: new-zealand-first-party
+permalink: /archive/2005/03/02/anzac-cove-must-be-preserved/index.html
+layout: layout.njk
 ---
 Anzac Cove Must Be Preserved
 ============================

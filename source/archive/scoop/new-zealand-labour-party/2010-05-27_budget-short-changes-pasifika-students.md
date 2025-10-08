@@ -1,9 +1,12 @@
 ---
 slug: budget-short-changes-pasifika-students
-title: "Budget short-changes Pasifika students"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/PA1005/S00456/budget-short-changes-pasifika-students.htm
+title: Budget short-changes Pasifika students
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00456/budget-short-changes-pasifika-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/27/budget-short-changes-pasifika-students/index.html
+layout: layout.njk
 ---
 Budget short-changes Pasifika students
 ======================================

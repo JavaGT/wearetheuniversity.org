@@ -1,9 +1,13 @@
 ---
 slug: researchers-help-find-answers-to-growing-typhoid-problem
-title: "Researchers help find answers to growing typhoid problem"
-date: 2018-06-26
-source-url: https://www.scoop.co.nz/stories/SC1806/S00064/researchers-help-find-answers-to-growing-typhoid-problem.htm
+title: Researchers help find answers to growing typhoid problem
+date: 2018-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00064/researchers-help-find-answers-to-growing-typhoid-problem.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/26/researchers-help-find-answers-to-growing-typhoid-problem/index.html
+layout: layout.njk
 ---
 Researchers help find answers to growing typhoid problem
 ========================================================

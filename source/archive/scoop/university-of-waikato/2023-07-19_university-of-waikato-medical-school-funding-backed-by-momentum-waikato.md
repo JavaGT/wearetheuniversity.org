@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-medical-school-funding-backed-by-momentum-waikato
-title: "University Of Waikato Medical School Funding Backed By Momentum Waikato"
-date: 2023-07-19
-source-url: https://www.scoop.co.nz/stories/ED2307/S00021/university-of-waikato-medical-school-funding-backed-by-momentum-waikato.htm
+title: University Of Waikato Medical School Funding Backed By Momentum Waikato
+date: 2023-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2307/S00021/university-of-waikato-medical-school-funding-backed-by-momentum-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/07/19/university-of-waikato-medical-school-funding-backed-by-momentum-waikato/index.html
+layout: layout.njk
 ---
 University Of Waikato Medical School Funding Backed By Momentum Waikato
 =======================================================================

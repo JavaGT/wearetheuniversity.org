@@ -1,9 +1,12 @@
 ---
 slug: new-dental-teaching-facility-in-south-auckland
-title: "New dental teaching facility in South Auckland"
-date: 2018-08-27
-source-url: https://www.scoop.co.nz/stories/GE1808/S00080/new-dental-teaching-facility-in-south-auckland.htm
+title: New dental teaching facility in South Auckland
+date: 2018-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00080/new-dental-teaching-facility-in-south-auckland.htm
 author: university-of-otago
+permalink: /archive/2018/08/27/new-dental-teaching-facility-in-south-auckland/index.html
+layout: layout.njk
 ---
 New dental teaching facility in South Auckland
 ==============================================

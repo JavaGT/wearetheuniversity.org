@@ -1,9 +1,13 @@
 ---
 slug: come-home-from-china-and-sort-out-your-immigration-mess!
-title: "Come Home from China and Sort Out Your Immigration Mess!"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/PA1308/S00020/come-home-from-china-and-sort-out-your-immigration-mess.htm
+title: Come Home from China and Sort Out Your Immigration Mess!
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00020/come-home-from-china-and-sort-out-your-immigration-mess.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/08/01/come-home-from-china-and-sort-out-your-immigration-mess/index.html
+layout: layout.njk
 ---
 Come Home from China and Sort Out Your Immigration Mess!
 ========================================================

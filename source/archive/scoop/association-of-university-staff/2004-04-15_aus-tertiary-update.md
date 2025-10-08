@@ -1,9 +1,11 @@
 ---
 slug: aus-tertiary-update
-title: "AUS Tertiary Update"
-date: 2004-04-15
+title: AUS Tertiary Update
+date: 2004-04-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0404/S00046/aus-tertiary-update.htm
 author: association-of-university-staff
+permalink: /archive/2004/04/15/aus-tertiary-update/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update
 ===================

@@ -1,9 +1,12 @@
 ---
 slug: wayne-mapp-employment-opportunity-squashed
-title: "Wayne Mapp: Employment opportunity squashed"
-date: 2006-08-25
-source-url: https://www.scoop.co.nz/stories/PA0608/S00457/wayne-mapp-employment-opportunity-squashed.htm
+title: 'Wayne Mapp: Employment opportunity squashed'
+date: 2006-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00457/wayne-mapp-employment-opportunity-squashed.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/25/wayne-mapp-employment-opportunity-squashed/index.html
+layout: layout.njk
 ---
 Wayne Mapp: Employment opportunity squashed
 ===========================================

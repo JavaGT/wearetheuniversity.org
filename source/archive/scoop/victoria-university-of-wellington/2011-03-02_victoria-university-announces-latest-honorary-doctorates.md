@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-announces-latest-honorary-doctorates
-title: "Victoria University announces latest Honorary Doctorates"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/ED1103/S00009/victoria-university-announces-latest-honorary-doctorates.htm
+title: Victoria University announces latest Honorary Doctorates
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00009/victoria-university-announces-latest-honorary-doctorates.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/03/02/victoria-university-announces-latest-honorary-doctorates/index.html
+layout: layout.njk
 ---
 Victoria University announces latest Honorary Doctorates
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: trevor-mallard-feeling-heat-on-school-closures
-title: "Trevor Mallard Feeling Heat On School Closures"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/PA0312/S00100/trevor-mallard-feeling-heat-on-school-closures.htm
+title: Trevor Mallard Feeling Heat On School Closures
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00100/trevor-mallard-feeling-heat-on-school-closures.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/04/trevor-mallard-feeling-heat-on-school-closures/index.html
+layout: layout.njk
 ---
 Trevor Mallard Feeling Heat On School Closures
 ==============================================

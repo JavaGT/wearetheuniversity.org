@@ -1,9 +1,12 @@
 ---
 slug: green-party-promises-free-dental-for-all
-title: "Green Party Promises Free Dental For All"
-date: 2023-08-06
-source-url: https://www.scoop.co.nz/stories/PO2308/S00055/green-party-promises-free-dental-for-all.htm
+title: Green Party Promises Free Dental For All
+date: 2023-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00055/green-party-promises-free-dental-for-all.htm
 author: green-party
+permalink: /archive/2023/08/06/green-party-promises-free-dental-for-all/index.html
+layout: layout.njk
 ---
 Green Party Promises Free Dental For All
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: graduates-told-to-value-international-dimension
-title: "Graduates told to value ‘international dimension’"
-date: 2007-04-20
-source-url: https://www.scoop.co.nz/stories/ED0704/S00073/graduates-told-to-value-international-dimension.htm
+title: Graduates told to value ‘international dimension’
+date: 2007-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00073/graduates-told-to-value-international-dimension.htm
 author: lincoln-university
+permalink: /archive/2007/04/20/graduates-told-to-value-international-dimension/index.html
+layout: layout.njk
 ---
 Graduates told to value ‘international dimension’
 =================================================

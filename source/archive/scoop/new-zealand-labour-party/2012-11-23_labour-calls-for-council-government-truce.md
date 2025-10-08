@@ -1,9 +1,12 @@
 ---
 slug: labour-calls-for-council-government-truce
-title: "Labour Calls For Council-Government Truce"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/PA1211/S00395/labour-calls-for-council-government-truce.htm
+title: Labour Calls For Council-Government Truce
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00395/labour-calls-for-council-government-truce.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/23/labour-calls-for-council-government-truce/index.html
+layout: layout.njk
 ---
 Labour Calls For Council-Government Truce
 =========================================

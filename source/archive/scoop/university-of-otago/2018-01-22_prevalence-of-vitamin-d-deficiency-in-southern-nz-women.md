@@ -1,9 +1,13 @@
 ---
 slug: prevalence-of-vitamin-d-deficiency-in-southern-nz-women
-title: "Prevalence of vitamin D deficiency in Southern NZ women"
-date: 2018-01-22
-source-url: https://www.scoop.co.nz/stories/GE1801/S00039/prevalence-of-vitamin-d-deficiency-in-southern-nz-women.htm
+title: Prevalence of vitamin D deficiency in Southern NZ women
+date: 2018-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1801/S00039/prevalence-of-vitamin-d-deficiency-in-southern-nz-women.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/01/22/prevalence-of-vitamin-d-deficiency-in-southern-nz-women/index.html
+layout: layout.njk
 ---
 Prevalence of vitamin D deficiency in Southern NZ women
 =======================================================

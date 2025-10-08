@@ -1,9 +1,12 @@
 ---
 slug: fashionable-graduate-on-the-verge-of-success
-title: "Fashionable graduate on the verge of success"
-date: 2008-09-18
-source-url: https://www.scoop.co.nz/stories/ED0809/S00057/fashionable-graduate-on-the-verge-of-success.htm
+title: Fashionable graduate on the verge of success
+date: 2008-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00057/fashionable-graduate-on-the-verge-of-success.htm
 author: massey-university
+permalink: /archive/2008/09/18/fashionable-graduate-on-the-verge-of-success/index.html
+layout: layout.njk
 ---
 Fashionable graduate on the verge of success
 ============================================

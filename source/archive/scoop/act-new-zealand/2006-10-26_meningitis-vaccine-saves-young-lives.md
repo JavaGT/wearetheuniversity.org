@@ -1,9 +1,12 @@
 ---
 slug: meningitis-vaccine-saves-young-lives
-title: "Meningitis Vaccine Saves Young Lives"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/PA0610/S00485/meningitis-vaccine-saves-young-lives.htm
+title: Meningitis Vaccine Saves Young Lives
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00485/meningitis-vaccine-saves-young-lives.htm
 author: act-new-zealand
+permalink: /archive/2006/10/26/meningitis-vaccine-saves-young-lives/index.html
+layout: layout.njk
 ---
 Meningitis Vaccine Saves Young Lives
 ====================================

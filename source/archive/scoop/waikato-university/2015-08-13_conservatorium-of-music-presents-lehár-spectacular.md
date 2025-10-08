@@ -1,9 +1,12 @@
 ---
 slug: conservatorium-of-music-presents-lehár-spectacular
-title: "Conservatorium of Music Presents Lehár Spectacular"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/CU1508/S00204/conservatorium-of-music-presents-lehar-spectacular.htm
+title: Conservatorium of Music Presents Lehár Spectacular
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00204/conservatorium-of-music-presents-lehar-spectacular.htm
 author: waikato-university
+permalink: /archive/2015/08/13/conservatorium-of-music-presents-leh/index.html
+layout: layout.njk
 ---
 Conservatorium of Music Presents Lehár Spectacular
 ==================================================

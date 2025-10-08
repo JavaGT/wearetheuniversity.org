@@ -1,9 +1,13 @@
 ---
 slug: phil-goff-closing-remarks-at-labour-policy-launch
-title: "Phil Goff - Closing Remarks at Labour Policy Launch"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/PA1107/S00267/phil-goff-closing-remarks-at-labour-policy-launch.htm
+title: Phil Goff - Closing Remarks at Labour Policy Launch
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00267/phil-goff-closing-remarks-at-labour-policy-launch.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/07/14/phil-goff-closing-remarks-at-labour-policy-launch/index.html
+layout: layout.njk
 ---
 Phil Goff - Closing Remarks at Labour Policy Launch
 ===================================================

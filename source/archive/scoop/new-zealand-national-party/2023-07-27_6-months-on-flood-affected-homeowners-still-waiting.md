@@ -1,9 +1,13 @@
 ---
 slug: 6-months-on-flood-affected-homeowners-still-waiting
-title: "6-months On, Flood-affected Homeowners Still Waiting"
-date: 2023-07-27
-source-url: https://www.scoop.co.nz/stories/PA2307/S00158/6-months-on-flood-affected-homeowners-still-waiting.htm
+title: 6-months On, Flood-affected Homeowners Still Waiting
+date: 2023-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00158/6-months-on-flood-affected-homeowners-still-waiting.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/07/27/6-months-on-flood-affected-homeowners-still-waiting/index.html
+layout: layout.njk
 ---
 6-months On, Flood-affected Homeowners Still Waiting
 ====================================================

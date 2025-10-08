@@ -1,9 +1,13 @@
 ---
 slug: criticism-of-attendance-reward-education-beat-up
-title: "Criticism of Attendance Reward Education Beat-Up"
-date: 2006-02-17
-source-url: https://www.scoop.co.nz/stories/PA0602/S00253/criticism-of-attendance-reward-education-beat-up.htm
+title: Criticism of Attendance Reward Education Beat-Up
+date: 2006-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00253/criticism-of-attendance-reward-education-beat-up.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2006/02/17/criticism-of-attendance-reward-education-beat-up/index.html
+layout: layout.njk
 ---
 Criticism of Attendance Reward Education Beat-Up
 ================================================

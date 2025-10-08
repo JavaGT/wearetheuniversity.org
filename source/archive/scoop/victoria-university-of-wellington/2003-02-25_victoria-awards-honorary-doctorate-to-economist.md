@@ -1,9 +1,12 @@
 ---
 slug: victoria-awards-honorary-doctorate-to-economist
-title: "Victoria awards honorary doctorate to economist"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/ED0302/S00046/victoria-awards-honorary-doctorate-to-economist.htm
+title: Victoria awards honorary doctorate to economist
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00046/victoria-awards-honorary-doctorate-to-economist.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/02/25/victoria-awards-honorary-doctorate-to-economist/index.html
+layout: layout.njk
 ---
 Victoria awards honorary doctorate to economist
 ===============================================

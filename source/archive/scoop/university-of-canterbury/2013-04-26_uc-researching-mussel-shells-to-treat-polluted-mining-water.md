@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-mussel-shells-to-treat-polluted-mining-water
-title: "UC Researching Mussel Shells to Treat Polluted Mining Water"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/SC1304/S00042/uc-researching-mussel-shells-to-treat-polluted-mining-water.htm
+title: UC Researching Mussel Shells to Treat Polluted Mining Water
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00042/uc-researching-mussel-shells-to-treat-polluted-mining-water.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/26/uc-researching-mussel-shells-to-treat-polluted-mining-water/index.html
+layout: layout.njk
 ---
 UC Researching Mussel Shells to Treat Polluted Mining Water
 ===========================================================

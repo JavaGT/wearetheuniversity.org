@@ -1,9 +1,12 @@
 ---
 slug: banning-legal-highs-is-a-good-thing-right
-title: "Banning ‘legal highs’ is a good thing, right?"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PO1405/S00458/banning-legal-highs-is-a-good-thing-right.htm
+title: Banning ‘legal highs’ is a good thing, right?
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00458/banning-legal-highs-is-a-good-thing-right.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/28/banning-legal-highs-is-a-good-thing-right/index.html
+layout: layout.njk
 ---
 Banning ‘legal highs’ is a good thing, right?
 =============================================

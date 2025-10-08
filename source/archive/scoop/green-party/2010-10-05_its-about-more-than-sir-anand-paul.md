@@ -1,9 +1,12 @@
 ---
 slug: its-about-more-than-sir-anand-paul
-title: "It’s about more than Sir Anand, Paul"
-date: 2010-10-05
-source-url: https://www.scoop.co.nz/stories/PA1010/S00040/its-about-more-than-sir-anand-paul.htm
+title: It’s about more than Sir Anand, Paul
+date: 2010-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00040/its-about-more-than-sir-anand-paul.htm
 author: green-party
+permalink: /archive/2010/10/05/its-about-more-than-sir-anand-paul/index.html
+layout: layout.njk
 ---
 It’s about more than Sir Anand, Paul
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: accelerator-or-brake-health-is-not-a-toy-mr-ryall
-title: "Accelerator or brake? Health is not a toy Mr Ryall"
-date: 2009-09-24
-source-url: https://www.scoop.co.nz/stories/GE0909/S00120/accelerator-or-brake-health-is-not-a-toy-mr-ryall.htm
+title: Accelerator or brake? Health is not a toy Mr Ryall
+date: 2009-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0909/S00120/accelerator-or-brake-health-is-not-a-toy-mr-ryall.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/24/accelerator-or-brake-health-is-not-a-toy-mr-ryall/index.html
+layout: layout.njk
 ---
 Accelerator or brake? Health is not a toy Mr Ryall
 ==================================================

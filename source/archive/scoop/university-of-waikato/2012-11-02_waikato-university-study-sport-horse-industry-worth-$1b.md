@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-study-sport-horse-industry-worth-$1b
-title: "Waikato University study: Sport horse industry worth $1B"
-date: 2012-11-02
-source-url: https://www.scoop.co.nz/stories/BU1211/S00109/waikato-university-study-sport-horse-industry-worth-1b.htm
+title: 'Waikato University study: Sport horse industry worth $1B'
+date: 2012-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1211/S00109/waikato-university-study-sport-horse-industry-worth-1b.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/11/02/waikato-university-study-sport-horse-industry-worth-/index.html
+layout: layout.njk
 ---
 Waikato University study: Sport horse industry worth $1B
 ========================================================

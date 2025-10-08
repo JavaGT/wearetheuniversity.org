@@ -1,9 +1,12 @@
 ---
 slug: uc-alumni-represent-nz-at-rio-olympics-2016
-title: "UC alumni represent NZ at Rio Olympics 2016"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/CU1608/S00152/uc-alumni-represent-nz-at-rio-olympics-2016.htm
+title: UC alumni represent NZ at Rio Olympics 2016
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1608/S00152/uc-alumni-represent-nz-at-rio-olympics-2016.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/11/uc-alumni-represent-nz-at-rio-olympics-2016/index.html
+layout: layout.njk
 ---
 UC alumni represent NZ at Rio Olympics 2016
 ===========================================

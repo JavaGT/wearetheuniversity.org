@@ -1,9 +1,12 @@
 ---
 slug: book-on-relationship-property-after-death
-title: "Book on relationship property after death"
-date: 2005-05-26
-source-url: https://www.scoop.co.nz/stories/CU0505/S00226/book-on-relationship-property-after-death.htm
+title: Book on relationship property after death
+date: 2005-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0505/S00226/book-on-relationship-property-after-death.htm
 author: university-of-otago
+permalink: /archive/2005/05/26/book-on-relationship-property-after-death/index.html
+layout: layout.njk
 ---
 Book on relationship property after death
 =========================================

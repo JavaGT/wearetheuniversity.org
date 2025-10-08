@@ -1,9 +1,13 @@
 ---
 slug: conference-to-explore-property-for-resilient-communities
-title: "Conference to explore property for resilient communities"
-date: 2014-01-15
-source-url: https://www.scoop.co.nz/stories/BU1401/S00174/conference-to-explore-property-for-resilient-communities.htm
+title: Conference to explore property for resilient communities
+date: 2014-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1401/S00174/conference-to-explore-property-for-resilient-communities.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/01/15/conference-to-explore-property-for-resilient-communities/index.html
+layout: layout.njk
 ---
 Conference to explore property for resilient communities
 ========================================================

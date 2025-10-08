@@ -1,9 +1,12 @@
 ---
 slug: otago-announces-professorial-promotions
-title: "Otago announces professorial promotions"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/ED1212/S00129/otago-announces-professorial-promotions.htm
+title: Otago announces professorial promotions
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00129/otago-announces-professorial-promotions.htm
 author: university-of-otago
+permalink: /archive/2012/12/20/otago-announces-professorial-promotions/index.html
+layout: layout.njk
 ---
 Otago announces professorial promotions
 =======================================

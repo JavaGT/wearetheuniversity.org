@@ -1,9 +1,12 @@
 ---
 slug: students-support-staff-strike
-title: "Students support staff strike"
-date: 2005-07-19
-source-url: https://www.scoop.co.nz/stories/ED0507/S00073/students-support-staff-strike.htm
+title: Students support staff strike
+date: 2005-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00073/students-support-staff-strike.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/07/19/students-support-staff-strike/index.html
+layout: layout.njk
 ---
 Students support staff strike
 =============================

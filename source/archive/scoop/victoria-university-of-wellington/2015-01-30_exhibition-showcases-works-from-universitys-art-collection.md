@@ -1,9 +1,13 @@
 ---
 slug: exhibition-showcases-works-from-universitys-art-collection
-title: "Exhibition showcases works from university's art collection"
-date: 2015-01-30
-source-url: https://www.scoop.co.nz/stories/CU1501/S00394/exhibition-showcases-works-from-universitys-art-collection.htm
+title: Exhibition showcases works from university's art collection
+date: 2015-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1501/S00394/exhibition-showcases-works-from-universitys-art-collection.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/01/30/exhibition-showcases-works-from-universitys-art-collection/index.html
+layout: layout.njk
 ---
 Exhibition showcases works from university's art collection
 ===========================================================

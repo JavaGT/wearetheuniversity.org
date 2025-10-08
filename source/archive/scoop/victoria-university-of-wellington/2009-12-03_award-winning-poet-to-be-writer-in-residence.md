@@ -1,9 +1,12 @@
 ---
 slug: award-winning-poet-to-be-writer-in-residence
-title: "Award winning poet to be Writer in Residence"
-date: 2009-12-03
-source-url: https://www.scoop.co.nz/stories/CU0912/S00035/award-winning-poet-to-be-writer-in-residence.htm
+title: Award winning poet to be Writer in Residence
+date: 2009-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0912/S00035/award-winning-poet-to-be-writer-in-residence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/12/03/award-winning-poet-to-be-writer-in-residence/index.html
+layout: layout.njk
 ---
 Award winning poet to be Writer in Residence
 ============================================

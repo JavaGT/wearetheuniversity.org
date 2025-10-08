@@ -1,9 +1,12 @@
 ---
 slug: critics-miss-the-point-says-researcher
-title: "Critics miss the point, says researcher"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00101/critics-miss-the-point-says-researcher.htm
+title: Critics miss the point, says researcher
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00101/critics-miss-the-point-says-researcher.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/27/critics-miss-the-point-says-researcher/index.html
+layout: layout.njk
 ---
 Critics miss the point, says researcher
 =======================================

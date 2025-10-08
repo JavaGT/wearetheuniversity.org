@@ -1,9 +1,12 @@
 ---
 slug: uc-staff-clean-up-delayed-by-24-hours
-title: "UC Staff clean-up delayed by 24 hours"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/ED1009/S00029/uc-staff-clean-up-delayed-by-24-hours.htm
+title: UC Staff clean-up delayed by 24 hours
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00029/uc-staff-clean-up-delayed-by-24-hours.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/08/uc-staff-clean-up-delayed-by-24-hours/index.html
+layout: layout.njk
 ---
 UC Staff clean-up delayed by 24 hours
 =====================================

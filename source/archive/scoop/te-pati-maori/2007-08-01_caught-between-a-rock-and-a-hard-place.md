@@ -1,9 +1,12 @@
 ---
 slug: caught-between-a-rock-and-a-hard-place
-title: "'Caught between a Rock and a Hard Place'"
-date: 2007-08-01
-source-url: https://www.scoop.co.nz/stories/PA0708/S00024/caught-between-a-rock-and-a-hard-place.htm
+title: '''Caught between a Rock and a Hard Place'''
+date: 2007-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00024/caught-between-a-rock-and-a-hard-place.htm
 author: te-pati-maori
+permalink: /archive/2007/08/01/caught-between-a-rock-and-a-hard-place/index.html
+layout: layout.njk
 ---
 'Caught between a Rock and a Hard Place'
 ========================================

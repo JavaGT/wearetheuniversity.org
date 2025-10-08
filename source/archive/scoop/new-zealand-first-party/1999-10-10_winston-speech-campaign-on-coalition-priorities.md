@@ -1,9 +1,12 @@
 ---
 slug: winston-speech-campaign-on-coalition-priorities
-title: "Winston Speech \"Campaign On Coalition Priorities\""
-date: 1999-10-10
-source-url: https://www.scoop.co.nz/stories/PA9910/S00171/winston-speech-campaign-on-coalition-priorities.htm
+title: Winston Speech "Campaign On Coalition Priorities"
+date: 1999-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00171/winston-speech-campaign-on-coalition-priorities.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/10/winston-speech-campaign-on-coalition-priorities/index.html
+layout: layout.njk
 ---
 Winston Speech “ Campaign On Coalition Priorities"
 ==================================================

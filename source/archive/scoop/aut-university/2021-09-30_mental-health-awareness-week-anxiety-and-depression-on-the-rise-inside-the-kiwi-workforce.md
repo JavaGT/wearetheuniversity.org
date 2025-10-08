@@ -1,9 +1,16 @@
 ---
-slug: mental-health-awareness-week-anxiety-and-depression-on-the-rise-inside-the-kiwi-workforce
-title: "Mental Health Awareness Week: Anxiety And Depression On The Rise Inside The Kiwi Workforce"
-date: 2021-09-30
-source-url: https://www.scoop.co.nz/stories/GE2109/S00213/mental-health-awareness-week-anxiety-and-depression-on-the-rise-inside-the-kiwi-workforce.htm
+slug: >-
+  mental-health-awareness-week-anxiety-and-depression-on-the-rise-inside-the-kiwi-workforce
+title: >-
+  Mental Health Awareness Week: Anxiety And Depression On The Rise Inside The
+  Kiwi Workforce
+date: 2021-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2109/S00213/mental-health-awareness-week-anxiety-and-depression-on-the-rise-inside-the-kiwi-workforce.htm
 author: aut-university
+permalink: >-
+  /archive/2021/09/30/mental-health-awareness-week-anxiety-and-depression-on-the-rise-inside-the-kiwi-workforce/index.html
+layout: layout.njk
 ---
 Mental Health Awareness Week: Anxiety And Depression On The Rise Inside The Kiwi Workforce
 ==========================================================================================

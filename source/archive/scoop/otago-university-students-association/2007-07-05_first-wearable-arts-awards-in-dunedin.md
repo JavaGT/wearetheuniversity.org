@@ -1,9 +1,12 @@
 ---
 slug: first-wearable-arts-awards-in-dunedin
-title: "First Wearable Arts Awards in Dunedin"
-date: 2007-07-05
-source-url: https://www.scoop.co.nz/stories/CU0707/S00055/first-wearable-arts-awards-in-dunedin.htm
+title: First Wearable Arts Awards in Dunedin
+date: 2007-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0707/S00055/first-wearable-arts-awards-in-dunedin.htm
 author: otago-university-students-association
+permalink: /archive/2007/07/05/first-wearable-arts-awards-in-dunedin/index.html
+layout: layout.njk
 ---
 First Wearable Arts Awards in Dunedin
 =====================================

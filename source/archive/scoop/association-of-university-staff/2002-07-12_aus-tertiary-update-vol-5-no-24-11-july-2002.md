@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-24-11-july-2002
-title: "AUS Tertiary Update Vol. 5  No. 24, 11 July  2002"
-date: 2002-07-12
-source-url: https://www.scoop.co.nz/stories/ED0207/S00023/aus-tertiary-update-vol-5-no-24-11-july-2002.htm
+title: AUS Tertiary Update Vol. 5  No. 24, 11 July  2002
+date: 2002-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00023/aus-tertiary-update-vol-5-no-24-11-july-2002.htm
 author: association-of-university-staff
+permalink: /archive/2002/07/12/aus-tertiary-update-vol-5-no-24-11-july-2002/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 5 No. 24, 11 July 2002
 ===============================================

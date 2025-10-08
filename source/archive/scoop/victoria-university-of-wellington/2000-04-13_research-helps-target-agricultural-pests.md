@@ -1,9 +1,12 @@
 ---
 slug: research-helps-target-agricultural-pests
-title: "Research helps target agricultural pests"
-date: 2000-04-13
-source-url: https://www.scoop.co.nz/stories/SC0004/S00009/research-helps-target-agricultural-pests.htm
+title: Research helps target agricultural pests
+date: 2000-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0004/S00009/research-helps-target-agricultural-pests.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/04/13/research-helps-target-agricultural-pests/index.html
+layout: layout.njk
 ---
 Research helps target agricultural pests
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: otago-to-return-to-the-fold
-title: "Otago to return to the fold"
-date: 2015-10-16
+title: Otago to return to the fold
+date: 2015-10-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1510/S00268/otago-to-return-to-the-fold.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/10/16/otago-to-return-to-the-fold/index.html
+layout: layout.njk
 ---
 Otago to return to the fold
 ===========================

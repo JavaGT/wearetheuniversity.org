@@ -1,9 +1,12 @@
 ---
 slug: national-to-fund-trenz-for-two-years
-title: "National To Fund TRENZ For Two Years"
-date: 2020-09-11
-source-url: https://www.scoop.co.nz/stories/PA2009/S00094/national-to-fund-trenz-for-two-years.htm
+title: National To Fund TRENZ For Two Years
+date: 2020-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00094/national-to-fund-trenz-for-two-years.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/11/national-to-fund-trenz-for-two-years/index.html
+layout: layout.njk
 ---
 National To Fund TRENZ For Two Years
 ====================================

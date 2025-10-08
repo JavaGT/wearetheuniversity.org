@@ -1,9 +1,12 @@
 ---
 slug: students-receive-scholarships-to-latin-america
-title: "Students receive scholarships to Latin America"
-date: 2017-08-01
-source-url: https://www.scoop.co.nz/stories/ED1708/S00002/students-receive-scholarships-to-latin-america.htm
+title: Students receive scholarships to Latin America
+date: 2017-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00002/students-receive-scholarships-to-latin-america.htm
 author: university-of-canterbury
+permalink: /archive/2017/08/01/students-receive-scholarships-to-latin-america/index.html
+layout: layout.njk
 ---
 Students receive scholarships to Latin America
 ==============================================

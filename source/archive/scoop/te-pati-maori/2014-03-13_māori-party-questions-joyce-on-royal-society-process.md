@@ -1,9 +1,12 @@
 ---
 slug: māori-party-questions-joyce-on-royal-society-process
-title: "Māori Party questions Joyce on Royal Society process"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/PA1403/S00259/maori-party-questions-joyce-on-royal-society-process.htm
+title: Māori Party questions Joyce on Royal Society process
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00259/maori-party-questions-joyce-on-royal-society-process.htm
 author: te-pati-maori
+permalink: /archive/2014/03/13/m/index.html
+layout: layout.njk
 ---
 Māori Party questions Joyce on Royal Society process
 ====================================================

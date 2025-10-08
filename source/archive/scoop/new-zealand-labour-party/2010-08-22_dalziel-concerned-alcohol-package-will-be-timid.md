@@ -1,9 +1,12 @@
 ---
 slug: dalziel-concerned-alcohol-package-will-be-timid
-title: "Dalziel Concerned Alcohol Package Will Be Timid"
-date: 2010-08-22
-source-url: https://www.scoop.co.nz/stories/PA1008/S00322/dalziel-concerned-alcohol-package-will-be-timid.htm
+title: Dalziel Concerned Alcohol Package Will Be Timid
+date: 2010-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00322/dalziel-concerned-alcohol-package-will-be-timid.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/22/dalziel-concerned-alcohol-package-will-be-timid/index.html
+layout: layout.njk
 ---
 Dalziel Concerned Alcohol Package Will Be Timid
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: pointers-to-psychosocial-recovery-in-christchurch
-title: "Pointers to psychosocial recovery in Christchurch"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/GE1202/S00052/pointers-to-psychosocial-recovery-in-christchurch.htm
+title: Pointers to psychosocial recovery in Christchurch
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00052/pointers-to-psychosocial-recovery-in-christchurch.htm
 author: massey-university
+permalink: >-
+  /archive/2012/02/17/pointers-to-psychosocial-recovery-in-christchurch/index.html
+layout: layout.njk
 ---
 Pointers to psychosocial recovery in Christchurch
 =================================================

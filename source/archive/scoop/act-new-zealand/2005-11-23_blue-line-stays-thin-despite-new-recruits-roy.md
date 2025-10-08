@@ -1,9 +1,12 @@
 ---
 slug: blue-line-stays-thin-despite-new-recruits-roy
-title: "Blue Line Stays Thin, Despite New Recruits - Roy"
-date: 2005-11-23
-source-url: https://www.scoop.co.nz/stories/PA0511/S00339/blue-line-stays-thin-despite-new-recruits-roy.htm
+title: Blue Line Stays Thin, Despite New Recruits - Roy
+date: 2005-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00339/blue-line-stays-thin-despite-new-recruits-roy.htm
 author: act-new-zealand
+permalink: /archive/2005/11/23/blue-line-stays-thin-despite-new-recruits-roy/index.html
+layout: layout.njk
 ---
 Blue Line Stays Thin, Despite New Recruits - Roy
 ================================================

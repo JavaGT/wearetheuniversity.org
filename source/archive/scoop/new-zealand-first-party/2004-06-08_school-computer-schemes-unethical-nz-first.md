@@ -1,9 +1,12 @@
 ---
 slug: school-computer-schemes-unethical-nz-first
-title: "School Computer Schemes Unethical – NZ First"
-date: 2004-06-08
-source-url: https://www.scoop.co.nz/stories/PA0406/S00108/school-computer-schemes-unethical-nz-first.htm
+title: School Computer Schemes Unethical – NZ First
+date: 2004-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00108/school-computer-schemes-unethical-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/08/school-computer-schemes-unethical-nz-first/index.html
+layout: layout.njk
 ---
 School Computer Schemes Unethical – NZ First
 ============================================

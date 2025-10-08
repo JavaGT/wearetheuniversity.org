@@ -1,9 +1,12 @@
 ---
 slug: changing-cat-containment-to-keep-cats-content
-title: "Changing Cat-containment To Keep Cats Content"
-date: 2022-06-01
-source-url: https://www.scoop.co.nz/stories/ED2206/S00004/changing-cat-containment-to-keep-cats-content.htm
+title: Changing Cat-containment To Keep Cats Content
+date: 2022-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00004/changing-cat-containment-to-keep-cats-content.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/01/changing-cat-containment-to-keep-cats-content/index.html
+layout: layout.njk
 ---
 Changing Cat-containment To Keep Cats Content
 =============================================

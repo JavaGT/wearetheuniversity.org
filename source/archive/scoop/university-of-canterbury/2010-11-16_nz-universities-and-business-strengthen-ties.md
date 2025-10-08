@@ -1,9 +1,12 @@
 ---
 slug: nz-universities-and-business-strengthen-ties
-title: "NZ Universities And Business strengthen ties"
-date: 2010-11-16
-source-url: https://www.scoop.co.nz/stories/ED1011/S00059/nz-universities-and-business-strengthen-ties.htm
+title: NZ Universities And Business strengthen ties
+date: 2010-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00059/nz-universities-and-business-strengthen-ties.htm
 author: university-of-canterbury
+permalink: /archive/2010/11/16/nz-universities-and-business-strengthen-ties/index.html
+layout: layout.njk
 ---
 NZ Universities And Business strengthen ties
 ============================================

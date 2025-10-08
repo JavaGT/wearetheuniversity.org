@@ -1,9 +1,12 @@
 ---
 slug: doctorate-tackles-hush-hush-subject
-title: "Doctorate tackles hush-hush subject"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00041/doctorate-tackles-hush-hush-subject.htm
+title: Doctorate tackles hush-hush subject
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00041/doctorate-tackles-hush-hush-subject.htm
 author: university-of-waikato
+permalink: /archive/2014/07/07/doctorate-tackles-hush-hush-subject/index.html
+layout: layout.njk
 ---
 Doctorate tackles hush-hush subject
 ===================================

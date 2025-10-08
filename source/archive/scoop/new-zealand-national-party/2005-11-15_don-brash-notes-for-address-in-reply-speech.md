@@ -1,9 +1,12 @@
 ---
 slug: don-brash-notes-for-address-in-reply-speech
-title: "Don Brash: Notes For Address In Reply Speech"
-date: 2005-11-15
-source-url: https://www.scoop.co.nz/stories/PA0511/S00193/don-brash-notes-for-address-in-reply-speech.htm
+title: 'Don Brash: Notes For Address In Reply Speech'
+date: 2005-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00193/don-brash-notes-for-address-in-reply-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/15/don-brash-notes-for-address-in-reply-speech/index.html
+layout: layout.njk
 ---
 Don Brash: Notes For Address In Reply Speech
 ============================================

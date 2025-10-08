@@ -1,9 +1,12 @@
 ---
 slug: another-talk-fest-wont-stop-workers-dying
-title: "Another talk fest won't stop workers dying"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/PA0908/S00131/another-talk-fest-wont-stop-workers-dying.htm
+title: Another talk fest won't stop workers dying
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00131/another-talk-fest-wont-stop-workers-dying.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/10/another-talk-fest-wont-stop-workers-dying/index.html
+layout: layout.njk
 ---
 Another talk fest won't stop workers dying
 ==========================================

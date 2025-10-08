@@ -1,9 +1,13 @@
 ---
 slug: price-increases-hitting-low-incomes-and-people-in-canterbury
-title: "Price increases hitting low incomes and people in Canterbury"
-date: 2013-10-16
-source-url: https://www.scoop.co.nz/stories/PO1310/S00170/price-increases-hitting-low-incomes-and-people-in-canterbury.htm
+title: Price increases hitting low incomes and people in Canterbury
+date: 2013-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1310/S00170/price-increases-hitting-low-incomes-and-people-in-canterbury.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/10/16/price-increases-hitting-low-incomes-and-people-in-canterbury/index.html
+layout: layout.njk
 ---
 Price increases hitting low incomes and people in Canterbury
 ============================================================

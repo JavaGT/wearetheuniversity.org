@@ -1,9 +1,12 @@
 ---
 slug: boost-to-inclusive-education-funding-applauded
-title: "Boost to inclusive education funding applauded"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/ED1708/S00121/boost-to-inclusive-education-funding-applauded.htm
+title: Boost to inclusive education funding applauded
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00121/boost-to-inclusive-education-funding-applauded.htm
 author: nzei
+permalink: /archive/2017/08/31/boost-to-inclusive-education-funding-applauded/index.html
+layout: layout.njk
 ---
 Boost to inclusive education funding applauded
 ==============================================

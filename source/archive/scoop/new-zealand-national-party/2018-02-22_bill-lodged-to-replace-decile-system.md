@@ -1,9 +1,12 @@
 ---
 slug: bill-lodged-to-replace-decile-system
-title: "Bill lodged to replace decile system"
-date: 2018-02-22
-source-url: https://www.scoop.co.nz/stories/PA1802/S00195/bill-lodged-to-replace-decile-system.htm
+title: Bill lodged to replace decile system
+date: 2018-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00195/bill-lodged-to-replace-decile-system.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/22/bill-lodged-to-replace-decile-system/index.html
+layout: layout.njk
 ---
 Bill lodged to replace decile system
 ====================================

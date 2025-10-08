@@ -1,9 +1,13 @@
 ---
 slug: study-links-childhood-fitness-to-healthy-lungs-in-adulthood
-title: "Study links childhood fitness to healthy lungs in adulthood"
-date: 2018-02-01
-source-url: https://www.scoop.co.nz/stories/GE1802/S00005/study-links-childhood-fitness-to-healthy-lungs-in-adulthood.htm
+title: Study links childhood fitness to healthy lungs in adulthood
+date: 2018-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00005/study-links-childhood-fitness-to-healthy-lungs-in-adulthood.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/01/study-links-childhood-fitness-to-healthy-lungs-in-adulthood/index.html
+layout: layout.njk
 ---
 Study links childhood fitness to healthy lungs in adulthood
 ===========================================================

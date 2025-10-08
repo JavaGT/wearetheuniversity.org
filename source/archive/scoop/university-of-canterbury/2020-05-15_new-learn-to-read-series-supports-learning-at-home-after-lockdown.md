@@ -1,9 +1,13 @@
 ---
 slug: new-learn-to-read-series-supports-learning-at-home-after-lockdown
-title: "New Learn-to-read Series Supports Learning At Home After Lockdown"
-date: 2020-05-15
-source-url: https://www.scoop.co.nz/stories/ED2005/S00037/new-learn-to-read-series-supports-learning-at-home-after-lockdown.htm
+title: New Learn-to-read Series Supports Learning At Home After Lockdown
+date: 2020-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00037/new-learn-to-read-series-supports-learning-at-home-after-lockdown.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/15/new-learn-to-read-series-supports-learning-at-home-after-lockdown/index.html
+layout: layout.njk
 ---
 New Learn-to-read Series Supports Learning At Home After Lockdown
 =================================================================

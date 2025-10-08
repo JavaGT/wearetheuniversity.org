@@ -1,9 +1,13 @@
 ---
 slug: nationals-housing-solutions-need-a-reality-check
-title: "National's housing solutions need a reality check,"
-date: 2007-08-06
-source-url: https://www.scoop.co.nz/stories/PA0708/S00085/nationals-housing-solutions-need-a-reality-check.htm
+title: National's housing solutions need a reality check,
+date: 2007-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00085/nationals-housing-solutions-need-a-reality-check.htm
 author: green-party
+permalink: >-
+  /archive/2007/08/06/nationals-housing-solutions-need-a-reality-check/index.html
+layout: layout.njk
 ---
 National's housing solutions need a reality check,
 ==================================================

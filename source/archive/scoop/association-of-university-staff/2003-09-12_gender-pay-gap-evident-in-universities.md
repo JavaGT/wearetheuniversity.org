@@ -1,9 +1,12 @@
 ---
 slug: gender-pay-gap-evident-in-universities
-title: "Gender pay gap evident in universities"
-date: 2003-09-12
-source-url: https://www.scoop.co.nz/stories/ED0309/S00058/gender-pay-gap-evident-in-universities.htm
+title: Gender pay gap evident in universities
+date: 2003-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00058/gender-pay-gap-evident-in-universities.htm
 author: association-of-university-staff
+permalink: /archive/2003/09/12/gender-pay-gap-evident-in-universities/index.html
+layout: layout.njk
 ---
 Gender pay gap evident in universities
 ======================================

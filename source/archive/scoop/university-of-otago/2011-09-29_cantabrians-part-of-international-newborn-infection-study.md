@@ -1,9 +1,13 @@
 ---
 slug: cantabrians-part-of-international-newborn-infection-study
-title: "Cantabrians part of international newborn infection study"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/ED1109/S00130/cantabrians-part-of-international-newborn-infection-study.htm
+title: Cantabrians part of international newborn infection study
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00130/cantabrians-part-of-international-newborn-infection-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/29/cantabrians-part-of-international-newborn-infection-study/index.html
+layout: layout.njk
 ---
 Cantabrians part of international newborn infection study
 =========================================================

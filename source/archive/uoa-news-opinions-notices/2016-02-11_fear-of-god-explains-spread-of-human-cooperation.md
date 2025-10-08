@@ -1,8 +1,12 @@
 ---
 slug: fear-of-god-explains-spread-of-human-cooperation
-title: "Fear of god explains spread of human cooperation"
-date: 2016-02-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/fear-of-god-explains-spread-of-human-cooperation.html
+title: Fear of god explains spread of human cooperation
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/fear-of-god-explains-spread-of-human-cooperation.html
+permalink: >-
+  /archive/2016/02/11/fear-of-god-explains-spread-of-human-cooperation/index.html
+layout: layout.njk
 ---
 Fear of god explains spread of human cooperation
 ================================================

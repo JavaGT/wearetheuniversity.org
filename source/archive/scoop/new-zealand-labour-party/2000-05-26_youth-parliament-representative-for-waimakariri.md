@@ -1,9 +1,12 @@
 ---
 slug: youth-parliament-representative-for-waimakariri
-title: "Youth Parliament Representative for Waimakariri"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/PA0005/S00581/youth-parliament-representative-for-waimakariri.htm
+title: Youth Parliament Representative for Waimakariri
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00581/youth-parliament-representative-for-waimakariri.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/05/26/youth-parliament-representative-for-waimakariri/index.html
+layout: layout.njk
 ---
 Youth Parliament Representative for Waimakariri
 ===============================================

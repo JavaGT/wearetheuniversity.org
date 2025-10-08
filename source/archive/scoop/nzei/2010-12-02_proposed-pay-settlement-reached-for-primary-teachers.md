@@ -1,9 +1,13 @@
 ---
 slug: proposed-pay-settlement-reached-for-primary-teachers
-title: "Proposed Pay Settlement Reached For Primary Teachers"
-date: 2010-12-02
-source-url: https://www.scoop.co.nz/stories/PO1012/S00016/proposed-pay-settlement-reached-for-primary-teachers.htm
+title: Proposed Pay Settlement Reached For Primary Teachers
+date: 2010-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00016/proposed-pay-settlement-reached-for-primary-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2010/12/02/proposed-pay-settlement-reached-for-primary-teachers/index.html
+layout: layout.njk
 ---
 Proposed Pay Settlement Reached For Primary Teachers
 ====================================================

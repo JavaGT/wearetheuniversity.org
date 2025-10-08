@@ -1,9 +1,12 @@
 ---
 slug: ryall-clearing-the-decks-for-more-cutbacks
-title: "Ryall clearing the decks for more cutbacks"
-date: 2010-03-10
-source-url: https://www.scoop.co.nz/stories/PA1003/S00142/ryall-clearing-the-decks-for-more-cutbacks.htm
+title: Ryall clearing the decks for more cutbacks
+date: 2010-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00142/ryall-clearing-the-decks-for-more-cutbacks.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/10/ryall-clearing-the-decks-for-more-cutbacks/index.html
+layout: layout.njk
 ---
 Ryall clearing the decks for more cutbacks
 ==========================================

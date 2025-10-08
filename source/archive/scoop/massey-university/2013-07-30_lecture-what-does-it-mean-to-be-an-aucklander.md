@@ -1,9 +1,12 @@
 ---
 slug: lecture-what-does-it-mean-to-be-an-aucklander
-title: "Lecture: What does it mean to be an Aucklander?"
-date: 2013-07-30
-source-url: https://www.scoop.co.nz/stories/CU1307/S00515/lecture-what-does-it-mean-to-be-an-aucklander.htm
+title: 'Lecture: What does it mean to be an Aucklander?'
+date: 2013-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00515/lecture-what-does-it-mean-to-be-an-aucklander.htm
 author: massey-university
+permalink: /archive/2013/07/30/lecture-what-does-it-mean-to-be-an-aucklander/index.html
+layout: layout.njk
 ---
 Lecture: What does it mean to be an Aucklander?
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: thousands-rally-against-govt-assault-on-west-coast
-title: "Thousands rally against Govt assault on West Coast"
-date: 2019-11-17
-source-url: https://www.scoop.co.nz/stories/PA1911/S00134/thousands-rally-against-govt-assault-on-west-coast.htm
+title: Thousands rally against Govt assault on West Coast
+date: 2019-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00134/thousands-rally-against-govt-assault-on-west-coast.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/11/17/thousands-rally-against-govt-assault-on-west-coast/index.html
+layout: layout.njk
 ---
 Thousands rally against Govt assault on West Coast
 ==================================================

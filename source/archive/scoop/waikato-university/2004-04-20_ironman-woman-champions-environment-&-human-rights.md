@@ -1,9 +1,12 @@
 ---
 slug: ironman-woman-champions-environment-&-human-rights
-title: "IronMan Woman Champions Environment & Human Rights"
-date: 2004-04-20
-source-url: https://www.scoop.co.nz/stories/ED0404/S00066/ironman-woman-champions-environment-human-rights.htm
+title: IronMan Woman Champions Environment & Human Rights
+date: 2004-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00066/ironman-woman-champions-environment-human-rights.htm
 author: waikato-university
+permalink: /archive/2004/04/20/ironman-woman-champions-environment-/index.html
+layout: layout.njk
 ---
 IronMan Woman Champions Environment & Human Rights
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: super-matcher-study-seeks-sherlock-skills
-title: "‘Super-matcher’ Study Seeks Sherlock Skills"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/ED2309/S00043/super-matcher-study-seeks-sherlock-skills.htm
+title: ‘Super-matcher’ Study Seeks Sherlock Skills
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2309/S00043/super-matcher-study-seeks-sherlock-skills.htm
 author: university-of-canterbury
+permalink: /archive/2023/09/26/super-matcher-study-seeks-sherlock-skills/index.html
+layout: layout.njk
 ---
 ‘Super-matcher’ Study Seeks Sherlock Skills
 ===========================================

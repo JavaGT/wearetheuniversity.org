@@ -1,9 +1,12 @@
 ---
 slug: welfare-policy-workshop-reportback
-title: "Welfare Policy Workshop Reportback"
-date: 2001-03-12
-source-url: https://www.scoop.co.nz/stories/PA0103/S00160/welfare-policy-workshop-reportback.htm
+title: Welfare Policy Workshop Reportback
+date: 2001-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00160/welfare-policy-workshop-reportback.htm
 author: act-new-zealand
+permalink: /archive/2001/03/12/welfare-policy-workshop-reportback/index.html
+layout: layout.njk
 ---
 Welfare Policy Workshop Reportback
 ==================================

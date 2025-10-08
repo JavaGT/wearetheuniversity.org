@@ -1,9 +1,12 @@
 ---
 slug: why-fightback-waikato-opposes-use-of-police
-title: "Why Fightback Waikato Opposes Use Of Police"
-date: 2000-04-05
-source-url: https://www.scoop.co.nz/stories/ED0004/S00006/why-fightback-waikato-opposes-use-of-police.htm
+title: Why Fightback Waikato Opposes Use Of Police
+date: 2000-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0004/S00006/why-fightback-waikato-opposes-use-of-police.htm
 author: fightback
+permalink: /archive/2000/04/05/why-fightback-waikato-opposes-use-of-police/index.html
+layout: layout.njk
 ---
 Why Fightback Waikato Opposes Use Of Police
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: ousa-launches-flatting-blitz
-title: "OUSA Launches Flatting Blitz"
-date: 2005-04-29
+title: OUSA Launches Flatting Blitz
+date: 2005-04-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0504/S00095/ousa-launches-flatting-blitz.htm
 author: otago-university-students-association
+permalink: /archive/2005/04/29/ousa-launches-flatting-blitz/index.html
+layout: layout.njk
 ---
 OUSA Launches Flatting Blitz
 ============================

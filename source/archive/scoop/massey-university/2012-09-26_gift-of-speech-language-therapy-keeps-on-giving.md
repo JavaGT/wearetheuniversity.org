@@ -1,9 +1,12 @@
 ---
 slug: gift-of-speech-language-therapy-keeps-on-giving
-title: "Gift of speech language therapy keeps on giving"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/ED1209/S00192/gift-of-speech-language-therapy-keeps-on-giving.htm
+title: Gift of speech language therapy keeps on giving
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00192/gift-of-speech-language-therapy-keeps-on-giving.htm
 author: massey-university
+permalink: /archive/2012/09/26/gift-of-speech-language-therapy-keeps-on-giving/index.html
+layout: layout.njk
 ---
 Gift of speech language therapy keeps on giving
 ===============================================

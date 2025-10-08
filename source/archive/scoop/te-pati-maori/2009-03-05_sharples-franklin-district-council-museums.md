@@ -1,9 +1,12 @@
 ---
 slug: sharples-franklin-district-council-museums
-title: "Sharples: Franklin District Council, museums"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/PA0903/S00071/sharples-franklin-district-council-museums.htm
+title: 'Sharples: Franklin District Council, museums'
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00071/sharples-franklin-district-council-museums.htm
 author: te-pati-maori
+permalink: /archive/2009/03/05/sharples-franklin-district-council-museums/index.html
+layout: layout.njk
 ---
 Sharples: Franklin District Council, museums
 ============================================

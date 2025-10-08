@@ -1,9 +1,13 @@
 ---
 slug: some-front-line-police-still-w-out-protective-vest
-title: "Some front-line police still w/out protective vest"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/PA0803/S00216/some-front-line-police-still-wout-protective-vest.htm
+title: Some front-line police still w/out protective vest
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00216/some-front-line-police-still-wout-protective-vest.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/03/12/some-front-line-police-still-w-out-protective-vest/index.html
+layout: layout.njk
 ---
 Some front-line police still w/out protective vest
 ==================================================

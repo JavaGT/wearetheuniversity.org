@@ -1,9 +1,13 @@
 ---
 slug: doctors-should-keep-mum-about-homebirth-concerns
-title: "Doctors should keep Mum about homebirth concerns"
-date: 2006-05-16
-source-url: https://www.scoop.co.nz/stories/PA0605/S00351/doctors-should-keep-mum-about-homebirth-concerns.htm
+title: Doctors should keep Mum about homebirth concerns
+date: 2006-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00351/doctors-should-keep-mum-about-homebirth-concerns.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2006/05/16/doctors-should-keep-mum-about-homebirth-concerns/index.html
+layout: layout.njk
 ---
 Doctors should keep Mum about homebirth concerns
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: rushed-firearms-law-the-years-biggest-political-failure
-title: "Rushed firearms law the year’s biggest political failure"
-date: 2019-12-20
-source-url: https://www.scoop.co.nz/stories/PA1912/S00198/rushed-firearms-law-the-years-biggest-political-failure.htm
+title: Rushed firearms law the year’s biggest political failure
+date: 2019-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00198/rushed-firearms-law-the-years-biggest-political-failure.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/12/20/rushed-firearms-law-the-years-biggest-political-failure/index.html
+layout: layout.njk
 ---
 Rushed firearms law the year’s biggest political failure
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: provincial-town-reeling-under-nationals-inept-management
-title: "Provincial town reeling under National’s inept management"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/PA1301/S00204/provincial-town-reeling-under-nationals-inept-management.htm
+title: Provincial town reeling under National’s inept management
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00204/provincial-town-reeling-under-nationals-inept-management.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/01/31/provincial-town-reeling-under-nationals-inept-management/index.html
+layout: layout.njk
 ---
 Provincial town reeling under National’s inept management
 =========================================================

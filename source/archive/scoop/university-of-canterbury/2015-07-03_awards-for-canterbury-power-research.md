@@ -1,9 +1,12 @@
 ---
 slug: awards-for-canterbury-power-research
-title: "Awards for Canterbury power research"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/SC1507/S00009/awards-for-canterbury-power-research.htm
+title: Awards for Canterbury power research
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00009/awards-for-canterbury-power-research.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/03/awards-for-canterbury-power-research/index.html
+layout: layout.njk
 ---
 Awards for Canterbury power research
 ====================================

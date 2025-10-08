@@ -1,9 +1,12 @@
 ---
 slug: victoria-creates-lord-cooke-of-thorndon-lecture
-title: "Victoria creates Lord Cooke of Thorndon lecture"
-date: 2001-05-11
-source-url: https://www.scoop.co.nz/stories/ED0105/S00021/victoria-creates-lord-cooke-of-thorndon-lecture.htm
+title: Victoria creates Lord Cooke of Thorndon lecture
+date: 2001-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00021/victoria-creates-lord-cooke-of-thorndon-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/05/11/victoria-creates-lord-cooke-of-thorndon-lecture/index.html
+layout: layout.njk
 ---
 Victoria creates Lord Cooke of Thorndon lecture
 ===============================================

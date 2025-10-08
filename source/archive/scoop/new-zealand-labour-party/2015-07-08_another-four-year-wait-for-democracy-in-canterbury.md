@@ -1,9 +1,13 @@
 ---
 slug: another-four-year-wait-for-democracy-in-canterbury
-title: "Another four year wait for democracy in Canterbury"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/PA1507/S00155/another-four-year-wait-for-democracy-in-canterbury.htm
+title: Another four year wait for democracy in Canterbury
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00155/another-four-year-wait-for-democracy-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/07/08/another-four-year-wait-for-democracy-in-canterbury/index.html
+layout: layout.njk
 ---
 Another four year wait for democracy in Canterbury
 ==================================================

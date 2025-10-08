@@ -1,9 +1,12 @@
 ---
 slug: maharey-plays-on-as-ship-goes-down
-title: "Maharey plays on as ship goes down"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/PA0412/S00373/maharey-plays-on-as-ship-goes-down.htm
+title: Maharey plays on as ship goes down
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00373/maharey-plays-on-as-ship-goes-down.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/15/maharey-plays-on-as-ship-goes-down/index.html
+layout: layout.njk
 ---
 Maharey plays on as ship goes down
 ==================================

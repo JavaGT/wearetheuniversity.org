@@ -1,9 +1,12 @@
 ---
 slug: budget-2011-frequently-asked-questions
-title: "Budget 2011: Frequently Asked Questions"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PO1105/S00289/budget-2011-frequently-asked-questions.htm
+title: 'Budget 2011: Frequently Asked Questions'
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00289/budget-2011-frequently-asked-questions.htm
 author: te-pati-maori
+permalink: /archive/2011/05/19/budget-2011-frequently-asked-questions/index.html
+layout: layout.njk
 ---
 Budget 2011: Frequently Asked Questions
 =======================================

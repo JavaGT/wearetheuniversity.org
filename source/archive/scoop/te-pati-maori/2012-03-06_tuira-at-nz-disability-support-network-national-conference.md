@@ -1,9 +1,13 @@
 ---
 slug: tuira-at-nz-disability-support-network-national-conference
-title: "Tuira at NZ Disability Support Network National Conference"
-date: 2012-03-06
-source-url: https://www.scoop.co.nz/stories/PA1203/S00082/tuira-at-nz-disability-support-network-national-conference.htm
+title: Tuira at NZ Disability Support Network National Conference
+date: 2012-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00082/tuira-at-nz-disability-support-network-national-conference.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/03/06/tuira-at-nz-disability-support-network-national-conference/index.html
+layout: layout.njk
 ---
 Tuira at NZ Disability Support Network National Conference
 ==========================================================

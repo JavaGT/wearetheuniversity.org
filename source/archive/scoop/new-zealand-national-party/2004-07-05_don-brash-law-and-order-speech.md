@@ -1,9 +1,12 @@
 ---
 slug: don-brash-law-and-order-speech
-title: "Don Brash: Law and Order Speech"
-date: 2004-07-05
-source-url: https://www.scoop.co.nz/stories/PA0407/S00080/don-brash-law-and-order-speech.htm
+title: 'Don Brash: Law and Order Speech'
+date: 2004-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00080/don-brash-law-and-order-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/05/don-brash-law-and-order-speech/index.html
+layout: layout.njk
 ---
 Don Brash: Law and Order Speech
 ===============================

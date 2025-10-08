@@ -1,9 +1,13 @@
 ---
 slug: peters-speech-north-canterbury-federated-farmers-agm
-title: "Peters Speech:  North Canterbury Federated Farmers AGM"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/PA1704/S00096/peters-speech-north-canterbury-federated-farmers-agm.htm
+title: 'Peters Speech:  North Canterbury Federated Farmers AGM'
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00096/peters-speech-north-canterbury-federated-farmers-agm.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/07/peters-speech-north-canterbury-federated-farmers-agm/index.html
+layout: layout.njk
 ---
 Peters Speech: North Canterbury Federated Farmers AGM
 =====================================================

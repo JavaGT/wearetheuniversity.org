@@ -1,9 +1,12 @@
 ---
 slug: otago-success-in-inaugural-funding-round
-title: "Otago success in inaugural funding round"
-date: 2008-03-25
-source-url: https://www.scoop.co.nz/stories/ED0803/S00061/otago-success-in-inaugural-funding-round.htm
+title: Otago success in inaugural funding round
+date: 2008-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00061/otago-success-in-inaugural-funding-round.htm
 author: university-of-otago
+permalink: /archive/2008/03/25/otago-success-in-inaugural-funding-round/index.html
+layout: layout.njk
 ---
 Otago success in inaugural funding round
 ========================================

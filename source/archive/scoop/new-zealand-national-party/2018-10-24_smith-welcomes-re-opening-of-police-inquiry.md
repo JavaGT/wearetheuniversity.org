@@ -1,9 +1,12 @@
 ---
 slug: smith-welcomes-re-opening-of-police-inquiry
-title: "Smith welcomes re-opening of police inquiry"
-date: 2018-10-24
-source-url: https://www.scoop.co.nz/stories/PA1810/S00219/smith-welcomes-re-opening-of-police-inquiry.htm
+title: Smith welcomes re-opening of police inquiry
+date: 2018-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00219/smith-welcomes-re-opening-of-police-inquiry.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/24/smith-welcomes-re-opening-of-police-inquiry/index.html
+layout: layout.njk
 ---
 Smith welcomes re-opening of police inquiry
 ===========================================

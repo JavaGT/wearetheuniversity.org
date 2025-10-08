@@ -1,9 +1,13 @@
 ---
 slug: nzdf-crisis-an-opportunity-to-abolish-the-military
-title: "NZDF ‘Crisis’ An Opportunity To Abolish The Military"
-date: 2024-01-10
-source-url: https://www.scoop.co.nz/stories/PO2401/S00009/nzdf-crisis-an-opportunity-to-abolish-the-military.htm
+title: NZDF ‘Crisis’ An Opportunity To Abolish The Military
+date: 2024-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2401/S00009/nzdf-crisis-an-opportunity-to-abolish-the-military.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2024/01/10/nzdf-crisis-an-opportunity-to-abolish-the-military/index.html
+layout: layout.njk
 ---
 NZDF ‘Crisis’ An Opportunity To Abolish The Military
 ====================================================

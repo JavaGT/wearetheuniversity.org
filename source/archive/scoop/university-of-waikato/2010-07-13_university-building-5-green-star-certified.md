@@ -1,9 +1,12 @@
 ---
 slug: university-building-5-green-star-certified
-title: "University building 5 Green Star certified"
-date: 2010-07-13
-source-url: https://www.scoop.co.nz/stories/ED1007/S00043/university-building-5-green-star-certified.htm
+title: University building 5 Green Star certified
+date: 2010-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00043/university-building-5-green-star-certified.htm
 author: university-of-waikato
+permalink: /archive/2010/07/13/university-building-5-green-star-certified/index.html
+layout: layout.njk
 ---
 University building 5 Green Star certified
 ==========================================

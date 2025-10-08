@@ -1,9 +1,12 @@
 ---
 slug: flawed-system-rates-death-traps-as-safe
-title: "Flawed system rates death traps as safe"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/PA1507/S00010/flawed-system-rates-death-traps-as-safe.htm
+title: Flawed system rates death traps as safe
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00010/flawed-system-rates-death-traps-as-safe.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/01/flawed-system-rates-death-traps-as-safe/index.html
+layout: layout.njk
 ---
 Flawed system rates death traps as safe
 =======================================

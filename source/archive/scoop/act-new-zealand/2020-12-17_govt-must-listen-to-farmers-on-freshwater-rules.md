@@ -1,9 +1,12 @@
 ---
 slug: govt-must-listen-to-farmers-on-freshwater-rules
-title: "Govt Must Listen To Farmers On Freshwater Rules"
-date: 2020-12-17
-source-url: https://www.scoop.co.nz/stories/PO2012/S00151/govt-must-listen-to-farmers-on-freshwater-rules.htm
+title: Govt Must Listen To Farmers On Freshwater Rules
+date: 2020-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2012/S00151/govt-must-listen-to-farmers-on-freshwater-rules.htm
 author: act-new-zealand
+permalink: /archive/2020/12/17/govt-must-listen-to-farmers-on-freshwater-rules/index.html
+layout: layout.njk
 ---
 Govt Must Listen To Farmers On Freshwater Rules
 ===============================================

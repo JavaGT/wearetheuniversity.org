@@ -1,9 +1,12 @@
 ---
 slug: slashing-of-tertiary-education-commission-jobs
-title: "Slashing of Tertiary Education Commission jobs"
-date: 2009-03-05
-source-url: https://www.scoop.co.nz/stories/PA0903/S00072/slashing-of-tertiary-education-commission-jobs.htm
+title: Slashing of Tertiary Education Commission jobs
+date: 2009-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00072/slashing-of-tertiary-education-commission-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/05/slashing-of-tertiary-education-commission-jobs/index.html
+layout: layout.njk
 ---
 Slashing of Tertiary Education Commission jobs
 ==============================================

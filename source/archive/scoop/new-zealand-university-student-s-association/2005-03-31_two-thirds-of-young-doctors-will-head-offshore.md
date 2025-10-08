@@ -1,9 +1,12 @@
 ---
 slug: two-thirds-of-young-doctors-will-head-offshore
-title: "Two thirds of young doctors will head offshore"
-date: 2005-03-31
-source-url: https://www.scoop.co.nz/stories/ED0503/S00102/two-thirds-of-young-doctors-will-head-offshore.htm
+title: Two thirds of young doctors will head offshore
+date: 2005-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00102/two-thirds-of-young-doctors-will-head-offshore.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/03/31/two-thirds-of-young-doctors-will-head-offshore/index.html
+layout: layout.njk
 ---
 Two thirds of young doctors will head offshore
 ==============================================

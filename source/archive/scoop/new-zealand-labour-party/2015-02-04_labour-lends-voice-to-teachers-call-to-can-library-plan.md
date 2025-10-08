@@ -1,9 +1,13 @@
 ---
 slug: labour-lends-voice-to-teachers-call-to-can-library-plan
-title: "Labour lends voice to teachers’ call to can library plan"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/PA1502/S00021/labour-lends-voice-to-teachers-call-to-can-library-plan.htm
+title: Labour lends voice to teachers’ call to can library plan
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00021/labour-lends-voice-to-teachers-call-to-can-library-plan.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/02/04/labour-lends-voice-to-teachers-call-to-can-library-plan/index.html
+layout: layout.njk
 ---
 Labour lends voice to teachers’ call to can library plan
 ========================================================

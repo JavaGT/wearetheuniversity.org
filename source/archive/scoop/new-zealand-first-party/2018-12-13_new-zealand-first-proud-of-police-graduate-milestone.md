@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-proud-of-police-graduate-milestone
-title: "New Zealand First Proud of Police Graduate Milestone"
-date: 2018-12-13
-source-url: https://www.scoop.co.nz/stories/PA1812/S00164/new-zealand-first-proud-of-police-graduate-milestone.htm
+title: New Zealand First Proud of Police Graduate Milestone
+date: 2018-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00164/new-zealand-first-proud-of-police-graduate-milestone.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/12/13/new-zealand-first-proud-of-police-graduate-milestone/index.html
+layout: layout.njk
 ---
 New Zealand First Proud of Police Graduate Milestone
 ====================================================

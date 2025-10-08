@@ -1,9 +1,11 @@
 ---
 slug: girdlers-scholar-for-2007
-title: "Girdlers’ Scholar For 2007"
-date: 2007-05-07
+title: Girdlers’ Scholar For 2007
+date: 2007-05-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0705/S00027/girdlers-scholar-for-2007.htm
 author: vice-chancellors-committee
+permalink: /archive/2007/05/07/girdlers-scholar-for-2007/index.html
+layout: layout.njk
 ---
 Girdlers’ Scholar For 2007
 ==========================

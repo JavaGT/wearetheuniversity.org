@@ -1,9 +1,12 @@
 ---
 slug: a-year-later-kiwis-already-see-acts-real-change
-title: "A Year Later, Kiwis Already See ACT's Real Change"
-date: 2024-10-14
-source-url: https://www.scoop.co.nz/stories/PA2410/S00104/a-year-later-kiwis-already-see-acts-real-change.htm
+title: A Year Later, Kiwis Already See ACT's Real Change
+date: 2024-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00104/a-year-later-kiwis-already-see-acts-real-change.htm
 author: act-new-zealand
+permalink: /archive/2024/10/14/a-year-later-kiwis-already-see-acts-real-change/index.html
+layout: layout.njk
 ---
 A Year Later, Kiwis Already See ACT's Real Change
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: social-report-lots-done-more-to-do
-title: "Social Report: Lots done, more to do"
-date: 2008-08-28
-source-url: https://www.scoop.co.nz/stories/PO0808/S00374/social-report-lots-done-more-to-do.htm
+title: 'Social Report: Lots done, more to do'
+date: 2008-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0808/S00374/social-report-lots-done-more-to-do.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2008/08/28/social-report-lots-done-more-to-do/index.html
+layout: layout.njk
 ---
 Social Report: Lots done, more to do
 ====================================

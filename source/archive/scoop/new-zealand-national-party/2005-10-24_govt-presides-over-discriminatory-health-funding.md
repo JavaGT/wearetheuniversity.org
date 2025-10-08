@@ -1,9 +1,13 @@
 ---
 slug: govt-presides-over-discriminatory-health-funding
-title: "Govt presides over discriminatory health funding"
-date: 2005-10-24
-source-url: https://www.scoop.co.nz/stories/PA0510/S00145/govt-presides-over-discriminatory-health-funding.htm
+title: Govt presides over discriminatory health funding
+date: 2005-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00145/govt-presides-over-discriminatory-health-funding.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/10/24/govt-presides-over-discriminatory-health-funding/index.html
+layout: layout.njk
 ---
 Govt presides over discriminatory health funding
 ================================================

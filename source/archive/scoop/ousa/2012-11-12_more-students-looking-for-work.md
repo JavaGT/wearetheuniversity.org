@@ -1,9 +1,12 @@
 ---
 slug: more-students-looking-for-work
-title: "More Students Looking For Work"
-date: 2012-11-12
-source-url: https://www.scoop.co.nz/stories/ED1211/S00082/more-students-looking-for-work.htm
+title: More Students Looking For Work
+date: 2012-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00082/more-students-looking-for-work.htm
 author: ousa
+permalink: /archive/2012/11/12/more-students-looking-for-work/index.html
+layout: layout.njk
 ---
 More Students Looking For Work
 ==============================

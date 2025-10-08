@@ -1,9 +1,13 @@
 ---
 slug: minister-contradicting-ministry-on-school-league-tables
-title: "Minister contradicting Ministry on school league tables"
-date: 2012-05-08
-source-url: https://www.scoop.co.nz/stories/PA1205/S00117/minister-contradicting-ministry-on-school-league-tables.htm
+title: Minister contradicting Ministry on school league tables
+date: 2012-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00117/minister-contradicting-ministry-on-school-league-tables.htm
 author: green-party
+permalink: >-
+  /archive/2012/05/08/minister-contradicting-ministry-on-school-league-tables/index.html
+layout: layout.njk
 ---
 Minister contradicting Ministry on school league tables
 =======================================================

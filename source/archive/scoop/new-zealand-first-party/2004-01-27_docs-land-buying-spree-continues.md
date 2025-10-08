@@ -1,9 +1,12 @@
 ---
 slug: docs-land-buying-spree-continues
-title: "DOC's Land Buying Spree Continues"
-date: 2004-01-27
-source-url: https://www.scoop.co.nz/stories/PA0401/S00207/docs-land-buying-spree-continues.htm
+title: DOC's Land Buying Spree Continues
+date: 2004-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00207/docs-land-buying-spree-continues.htm
 author: new-zealand-first-party
+permalink: /archive/2004/01/27/docs-land-buying-spree-continues/index.html
+layout: layout.njk
 ---
 DOC's Land Buying Spree Continues
 =================================

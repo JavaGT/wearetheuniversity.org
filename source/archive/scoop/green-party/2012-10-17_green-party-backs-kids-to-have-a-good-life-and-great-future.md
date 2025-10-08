@@ -1,9 +1,13 @@
 ---
 slug: green-party-backs-kids-to-have-a-good-life-and-great-future
-title: "Green Party backs kids to have a good life and great future"
-date: 2012-10-17
-source-url: https://www.scoop.co.nz/stories/PA1210/S00285/green-party-backs-kids-to-have-a-good-life-and-great-future.htm
+title: Green Party backs kids to have a good life and great future
+date: 2012-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00285/green-party-backs-kids-to-have-a-good-life-and-great-future.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/17/green-party-backs-kids-to-have-a-good-life-and-great-future/index.html
+layout: layout.njk
 ---
 Green Party backs kids to have a good life and great future
 ===========================================================

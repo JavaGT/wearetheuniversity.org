@@ -1,9 +1,12 @@
 ---
 slug: stand-up-for-the-south-mp-tells-future-leaders
-title: "Stand Up For The South, MP Tells Future Leaders"
-date: 2012-04-27
-source-url: https://www.scoop.co.nz/stories/PA1204/S00341/stand-up-for-the-south-mp-tells-future-leaders.htm
+title: Stand Up For The South, MP Tells Future Leaders
+date: 2012-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00341/stand-up-for-the-south-mp-tells-future-leaders.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/27/stand-up-for-the-south-mp-tells-future-leaders/index.html
+layout: layout.njk
 ---
 Stand Up For The South, MP Tells Future Leaders
 ===============================================

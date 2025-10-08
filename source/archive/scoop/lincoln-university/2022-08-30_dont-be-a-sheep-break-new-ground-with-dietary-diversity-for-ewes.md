@@ -1,9 +1,13 @@
 ---
 slug: dont-be-a-sheep-break-new-ground-with-dietary-diversity-for-ewes
-title: "Don’t Be A Sheep – Break New Ground With Dietary Diversity For Ewes"
-date: 2022-08-30
-source-url: https://www.scoop.co.nz/stories/ED2208/S00049/dont-be-a-sheep-break-new-ground-with-dietary-diversity-for-ewes.htm
+title: Don’t Be A Sheep – Break New Ground With Dietary Diversity For Ewes
+date: 2022-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00049/dont-be-a-sheep-break-new-ground-with-dietary-diversity-for-ewes.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/08/30/dont-be-a-sheep-break-new-ground-with-dietary-diversity-for-ewes/index.html
+layout: layout.njk
 ---
 Don’t Be A Sheep – Break New Ground With Dietary Diversity For Ewes
 ===================================================================

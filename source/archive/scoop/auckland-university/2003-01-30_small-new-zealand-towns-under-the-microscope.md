@@ -1,9 +1,12 @@
 ---
 slug: small-new-zealand-towns-under-the-microscope
-title: "Small New Zealand Towns under the Microscope"
-date: 2003-01-30
-source-url: https://www.scoop.co.nz/stories/ED0301/S00027/small-new-zealand-towns-under-the-microscope.htm
+title: Small New Zealand Towns under the Microscope
+date: 2003-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00027/small-new-zealand-towns-under-the-microscope.htm
 author: auckland-university
+permalink: /archive/2003/01/30/small-new-zealand-towns-under-the-microscope/index.html
+layout: layout.njk
 ---
 Small New Zealand Towns under the Microscope
 ============================================

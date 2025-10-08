@@ -1,9 +1,12 @@
 ---
 slug: who-were-the-first-people-in-the-pacific
-title: "Who were the first people in the Pacific?"
-date: 2016-10-04
-source-url: https://www.scoop.co.nz/stories/SC1610/S00006/who-were-the-first-people-in-the-pacific.htm
+title: Who were the first people in the Pacific?
+date: 2016-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00006/who-were-the-first-people-in-the-pacific.htm
 author: massey-university
+permalink: /archive/2016/10/04/who-were-the-first-people-in-the-pacific/index.html
+layout: layout.njk
 ---
 Who were the first people in the Pacific?
 =========================================

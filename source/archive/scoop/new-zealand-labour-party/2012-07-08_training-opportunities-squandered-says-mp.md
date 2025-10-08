@@ -1,9 +1,12 @@
 ---
 slug: training-opportunities-squandered-says-mp
-title: "Training opportunities squandered, says MP"
-date: 2012-07-08
-source-url: https://www.scoop.co.nz/stories/PA1207/S00097/training-opportunities-squandered-says-mp.htm
+title: Training opportunities squandered, says MP
+date: 2012-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00097/training-opportunities-squandered-says-mp.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/08/training-opportunities-squandered-says-mp/index.html
+layout: layout.njk
 ---
 Training opportunities squandered, says MP
 ==========================================

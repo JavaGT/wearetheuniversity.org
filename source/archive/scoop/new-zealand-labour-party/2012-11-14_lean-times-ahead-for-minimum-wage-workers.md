@@ -1,9 +1,12 @@
 ---
 slug: lean-times-ahead-for-minimum-wage-workers
-title: "Lean Times Ahead For Minimum Wage Workers"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PA1211/S00234/lean-times-ahead-for-minimum-wage-workers.htm
+title: Lean Times Ahead For Minimum Wage Workers
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00234/lean-times-ahead-for-minimum-wage-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/14/lean-times-ahead-for-minimum-wage-workers/index.html
+layout: layout.njk
 ---
 Lean Times Ahead For Minimum Wage Workers
 =========================================

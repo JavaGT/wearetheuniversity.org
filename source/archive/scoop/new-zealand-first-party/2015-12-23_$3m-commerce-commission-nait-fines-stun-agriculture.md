@@ -1,9 +1,13 @@
 ---
 slug: $3m-commerce-commission-nait-fines-stun-agriculture
-title: "$3m Commerce Commission Nait Fines Stun Agriculture"
-date: 2015-12-23
-source-url: https://www.scoop.co.nz/stories/PA1512/S00433/3m-commerce-commission-nait-fines-stun-agriculture.htm
+title: $3m Commerce Commission Nait Fines Stun Agriculture
+date: 2015-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00433/3m-commerce-commission-nait-fines-stun-agriculture.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/12/23/3m-commerce-commission-nait-fines-stun-agriculture/index.html
+layout: layout.njk
 ---
 $3m Commerce Commission Nait Fines Stun Agriculture
 ===================================================

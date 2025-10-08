@@ -1,9 +1,13 @@
 ---
 slug: university-centre-to-open-in-the-heart-of-creative-industry
-title: "University centre to open in the heart of creative industry"
-date: 2017-01-27
-source-url: https://www.scoop.co.nz/stories/ED1701/S00050/university-centre-to-open-in-the-heart-of-creative-industry.htm
+title: University centre to open in the heart of creative industry
+date: 2017-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00050/university-centre-to-open-in-the-heart-of-creative-industry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/01/27/university-centre-to-open-in-the-heart-of-creative-industry/index.html
+layout: layout.njk
 ---
 University centre to open in the heart of creative industry
 ===========================================================

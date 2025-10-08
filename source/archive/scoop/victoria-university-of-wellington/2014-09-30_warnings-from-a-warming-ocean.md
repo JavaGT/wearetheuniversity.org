@@ -1,9 +1,12 @@
 ---
 slug: warnings-from-a-warming-ocean
-title: "Warnings from a warming ocean"
-date: 2014-09-30
-source-url: https://www.scoop.co.nz/stories/SC1409/S00123/warnings-from-a-warming-ocean.htm
+title: Warnings from a warming ocean
+date: 2014-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00123/warnings-from-a-warming-ocean.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/30/warnings-from-a-warming-ocean/index.html
+layout: layout.njk
 ---
 Warnings from a warming ocean
 =============================

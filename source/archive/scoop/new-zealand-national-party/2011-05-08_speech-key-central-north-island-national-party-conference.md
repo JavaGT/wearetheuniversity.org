@@ -1,9 +1,13 @@
 ---
 slug: speech-key-central-north-island-national-party-conference
-title: "Speech: Key - Central North Island National Party Conference"
-date: 2011-05-08
-source-url: https://www.scoop.co.nz/stories/PA1105/S00158/speech-key-central-north-island-national-party-conference.htm
+title: 'Speech: Key - Central North Island National Party Conference'
+date: 2011-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00158/speech-key-central-north-island-national-party-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/05/08/speech-key-central-north-island-national-party-conference/index.html
+layout: layout.njk
 ---
 Speech: Key - Central North Island National Party Conference
 ============================================================

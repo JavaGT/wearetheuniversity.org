@@ -1,9 +1,13 @@
 ---
 slug: green-party-celebrates-tackling-wellbeing-of-maori-children
-title: "Green Party celebrates tackling wellbeing of Maori children"
-date: 2012-06-06
-source-url: https://www.scoop.co.nz/stories/PA1206/S00056/green-party-celebrates-tackling-wellbeing-of-maori-children.htm
+title: Green Party celebrates tackling wellbeing of Maori children
+date: 2012-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00056/green-party-celebrates-tackling-wellbeing-of-maori-children.htm
 author: green-party
+permalink: >-
+  /archive/2012/06/06/green-party-celebrates-tackling-wellbeing-of-maori-children/index.html
+layout: layout.njk
 ---
 Green Party celebrates tackling wellbeing of Maori children
 ===========================================================

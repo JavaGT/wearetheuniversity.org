@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Young scientists funded for breast cancer research – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Young scientists funded for breast cancer research</h2><h3><span></span></h3><p>Fri May 27 2016 12:00:00 GMT+1200 (New Zealand Standard Time)</p><p><h1>Young scientists funded for breast cancer research</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Young scientists funded for breast cancer research</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Young scientists funded for breast cancer research</h1>
 <p>27 May 2016</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/05/young-scientists-funded-for-breast-cancer-research/_jcr_content/par/textimage/image.img.jpg/1464305278444.jpg" alt="Dean Singleton" title="Dean Singleton"></p>
 <p>Dr Dean Singleton</p>
@@ -24,11 +48,33 @@
 <p>The Fellowships are funded by donations from the New Zealand public to the Foundation, through various fundraising activities like the Pink Ribbon Breakfast in Mayand other fundraising events during October, as well as sponsor donations.</p>
 <p><strong>Quick facts about breast cancer in New Zealand:</strong></p>
 <ul>
-<li>More than 3000 women a year are diagnosed with breast cancer in New Zealand – that’s eight women a day<br>90-95 percent of women who are diagnosed with breast cancer have no family history of the disease</li>
+<li>More than 3000 women a year are diagnosed with breast cancer in New Zealand – that’s eight women a day<br>
+90-95 percent of women who are diagnosed with breast cancer have no family history of the disease</li>
 <li>Around 350 New Zealand women under the age of 45 (when free mammograms start) will be diagnosed with breast cancer this year – that’s one woman a day</li>
 <li>While breast cancer has a good cure rate when found early, many women have their cancer come back: only 73 percent will be disease-free 10 years after diagnosis</li>
 <li>More than 600 women will die of breast cancer this year – about the size of a large primary school.</li>
-<li>The New Zealand Breast Cancer Foundation recommends women consider having yearly breast screening mammograms at age 40-49 years of age, then screen every two years from age 50. For more information go to <a href="http://www.nzbcf.org.nz">www.nzbcf.org.nz</a></li>
+<li>The New Zealand Breast Cancer Foundation recommends women consider having yearly breast screening mammograms at age 40-49 years of age, then screen every two years from age 50. For more information go to www.nzbcf.org.nz</li>
 </ul>
 <p>For media enquiries <a href="mailto:s.phillips@auckland.ac.nz">email Suzi Phillips</a>, Media Advisor Medical and Health Sciences.</p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

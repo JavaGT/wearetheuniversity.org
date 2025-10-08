@@ -1,9 +1,12 @@
 ---
 slug: augmented-reality-to-help-get-the-mail-through
-title: "Augmented Reality to help get the mail through"
-date: 2012-06-20
-source-url: https://www.scoop.co.nz/stories/BU1206/S00613/augmented-reality-to-help-get-the-mail-through.htm
+title: Augmented Reality to help get the mail through
+date: 2012-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1206/S00613/augmented-reality-to-help-get-the-mail-through.htm
 author: university-of-canterbury
+permalink: /archive/2012/06/20/augmented-reality-to-help-get-the-mail-through/index.html
+layout: layout.njk
 ---
 Augmented Reality to help get the mail through
 ==============================================

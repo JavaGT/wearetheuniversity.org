@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-23-april-2008
-title: "Collins Comments - 23 April 2008"
-date: 2008-04-23
-source-url: https://www.scoop.co.nz/stories/PA0804/S00542/collins-comments-23-april-2008.htm
+title: Collins Comments - 23 April 2008
+date: 2008-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00542/collins-comments-23-april-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/23/collins-comments-23-april-2008/index.html
+layout: layout.njk
 ---
 Collins Comments - 23 April 2008
 ================================

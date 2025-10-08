@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-the-new-zealand-revolution
-title: "Peters Speech: \"The New Zealand Revolution\""
-date: 2003-04-11
-source-url: https://www.scoop.co.nz/stories/PA0304/S00239/peters-speech-the-new-zealand-revolution.htm
+title: 'Peters Speech: "The New Zealand Revolution"'
+date: 2003-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00239/peters-speech-the-new-zealand-revolution.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/11/peters-speech-the-new-zealand-revolution/index.html
+layout: layout.njk
 ---
 Peters Speech: “The New Zealand Revolution”
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: research-to-enable-better-management-of-rock-lobster
-title: "Research to enable better management of rock lobster"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/SC1308/S00044/research-to-enable-better-management-of-rock-lobster.htm
+title: Research to enable better management of rock lobster
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00044/research-to-enable-better-management-of-rock-lobster.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/20/research-to-enable-better-management-of-rock-lobster/index.html
+layout: layout.njk
 ---
 Research to enable better management of rock lobster
 ====================================================

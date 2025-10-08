@@ -1,9 +1,13 @@
 ---
 slug: corby-case-a-chilling-reminder-for-people-travelling-abroad
-title: "Corby case a chilling reminder for people travelling abroad"
-date: 2014-02-12
-source-url: https://www.scoop.co.nz/stories/PO1402/S00116/corby-case-a-chilling-reminder-for-people-travelling-abroad.htm
+title: Corby case a chilling reminder for people travelling abroad
+date: 2014-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1402/S00116/corby-case-a-chilling-reminder-for-people-travelling-abroad.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/12/corby-case-a-chilling-reminder-for-people-travelling-abroad/index.html
+layout: layout.njk
 ---
 Corby case a chilling reminder for people travelling abroad
 ===========================================================

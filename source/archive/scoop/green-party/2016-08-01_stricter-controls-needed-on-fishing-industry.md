@@ -1,9 +1,12 @@
 ---
 slug: stricter-controls-needed-on-fishing-industry
-title: "Stricter controls needed on fishing industry"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/PA1608/S00007/stricter-controls-needed-on-fishing-industry.htm
+title: Stricter controls needed on fishing industry
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00007/stricter-controls-needed-on-fishing-industry.htm
 author: green-party
+permalink: /archive/2016/08/01/stricter-controls-needed-on-fishing-industry/index.html
+layout: layout.njk
 ---
 Stricter controls needed on fishing industry
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-cant-take-credit-for-olympics-captioning
-title: "Govt can’t take credit for Olympics captioning"
-date: 2016-08-18
-source-url: https://www.scoop.co.nz/stories/PA1608/S00314/govt-cant-take-credit-for-olympics-captioning.htm
+title: Govt can’t take credit for Olympics captioning
+date: 2016-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00314/govt-cant-take-credit-for-olympics-captioning.htm
 author: green-party
+permalink: /archive/2016/08/18/govt-cant-take-credit-for-olympics-captioning/index.html
+layout: layout.njk
 ---
 Govt can’t take credit for Olympics captioning
 ==============================================

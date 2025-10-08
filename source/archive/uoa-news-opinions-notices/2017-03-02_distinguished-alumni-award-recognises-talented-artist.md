@@ -1,8 +1,12 @@
 ---
 slug: distinguished-alumni-award-recognises-talented-artist
-title: "Distinguished Alumni Award recognises talented artist"
-date: 2017-03-02
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/distinguished-alumni-award-recognises-talented-artist-.html
+title: Distinguished Alumni Award recognises talented artist
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/distinguished-alumni-award-recognises-talented-artist-.html
+permalink: >-
+  /archive/2017/03/02/distinguished-alumni-award-recognises-talented-artist/index.html
+layout: layout.njk
 ---
 Distinguished Alumni Award recognises talented artist
 =====================================================

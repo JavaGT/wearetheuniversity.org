@@ -1,9 +1,12 @@
 ---
 slug: labour-in-disarray-over-charter-schools
-title: "Labour in disarray over charter schools"
-date: 2017-07-24
-source-url: https://www.scoop.co.nz/stories/PA1707/S00346/labour-in-disarray-over-charter-schools.htm
+title: Labour in disarray over charter schools
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00346/labour-in-disarray-over-charter-schools.htm
 author: te-pati-maori
+permalink: /archive/2017/07/24/labour-in-disarray-over-charter-schools/index.html
+layout: layout.njk
 ---
 Labour in disarray over charter schools
 =======================================

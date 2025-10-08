@@ -1,9 +1,12 @@
 ---
 slug: chinese-diplomats-show-stunning-hypocrisy
-title: "Chinese diplomats show stunning hypocrisy"
-date: 2019-08-09
-source-url: https://www.scoop.co.nz/stories/PA1908/S00114/chinese-diplomats-show-stunning-hypocrisy.htm
+title: Chinese diplomats show stunning hypocrisy
+date: 2019-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00114/chinese-diplomats-show-stunning-hypocrisy.htm
 author: act-new-zealand
+permalink: /archive/2019/08/09/chinese-diplomats-show-stunning-hypocrisy/index.html
+layout: layout.njk
 ---
 Chinese diplomats show stunning hypocrisy
 =========================================

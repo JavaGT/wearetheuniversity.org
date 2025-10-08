@@ -1,9 +1,12 @@
 ---
 slug: wraparound-solution-needed-for-family-violence
-title: "‘Wraparound’ solution needed for family violence"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/ED1507/S00053/wraparound-solution-needed-for-family-violence.htm
+title: ‘Wraparound’ solution needed for family violence
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00053/wraparound-solution-needed-for-family-violence.htm
 author: massey-university
+permalink: /archive/2015/07/09/wraparound-solution-needed-for-family-violence/index.html
+layout: layout.njk
 ---
 ‘Wraparound’ solution needed for family violence
 ================================================

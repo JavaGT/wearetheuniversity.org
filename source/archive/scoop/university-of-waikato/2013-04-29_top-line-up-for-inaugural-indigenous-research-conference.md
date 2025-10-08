@@ -1,9 +1,13 @@
 ---
 slug: top-line-up-for-inaugural-indigenous-research-conference
-title: "Top line-up for inaugural indigenous research conference"
-date: 2013-04-29
-source-url: https://www.scoop.co.nz/stories/ED1304/S00155/top-line-up-for-inaugural-indigenous-research-conference.htm
+title: Top line-up for inaugural indigenous research conference
+date: 2013-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00155/top-line-up-for-inaugural-indigenous-research-conference.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/29/top-line-up-for-inaugural-indigenous-research-conference/index.html
+layout: layout.njk
 ---
 Top line-up for inaugural indigenous research conference
 ========================================================

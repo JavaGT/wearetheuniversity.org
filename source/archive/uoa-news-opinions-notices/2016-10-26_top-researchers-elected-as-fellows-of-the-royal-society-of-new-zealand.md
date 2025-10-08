@@ -1,8 +1,12 @@
 ---
 slug: top-researchers-elected-as-fellows-of-the-royal-society-of-new-zealand
-title: "Top researchers elected as Fellows of the Royal Society of New Zealand"
-date: 2016-10-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/top-researchers-elected-fellows-of-the-royal-society-of-nz.html
+title: Top researchers elected as Fellows of the Royal Society of New Zealand
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/top-researchers-elected-fellows-of-the-royal-society-of-nz.html
+permalink: >-
+  /archive/2016/10/26/top-researchers-elected-as-fellows-of-the-royal-society-of-new-zealand/index.html
+layout: layout.njk
 ---
 Top researchers elected as Fellows of the Royal Society of New Zealand
 ======================================================================

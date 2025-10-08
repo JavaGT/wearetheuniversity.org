@@ -1,9 +1,12 @@
 ---
 slug: canterbury-university-protest-first-of-many
-title: "Canterbury University Protest First Of Many"
-date: 2001-05-18
-source-url: https://www.scoop.co.nz/stories/PA0105/S00381/canterbury-university-protest-first-of-many.htm
+title: Canterbury University Protest First Of Many
+date: 2001-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00381/canterbury-university-protest-first-of-many.htm
 author: new-zealand-national-party
+permalink: /archive/2001/05/18/canterbury-university-protest-first-of-many/index.html
+layout: layout.njk
 ---
 Canterbury University Protest First Of Many
 ===========================================

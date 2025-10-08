@@ -1,9 +1,12 @@
 ---
 slug: no-imagination-from-phil-goff
-title: "No Imagination from Phil Goff"
-date: 2011-01-26
-source-url: https://www.scoop.co.nz/stories/PA1101/S00091/no-imagination-from-phil-goff.htm
+title: No Imagination from Phil Goff
+date: 2011-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00091/no-imagination-from-phil-goff.htm
 author: act-new-zealand
+permalink: /archive/2011/01/26/no-imagination-from-phil-goff/index.html
+layout: layout.njk
 ---
 No Imagination from Phil Goff
 =============================

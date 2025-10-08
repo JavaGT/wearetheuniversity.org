@@ -1,9 +1,12 @@
 ---
 slug: window-dressing-nats-dont-tackle-issues
-title: "‘Window-dressing’ Nat's don't tackle issues"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/PA0812/S00147/window-dressing-nats-dont-tackle-issues.htm
+title: ‘Window-dressing’ Nat's don't tackle issues
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00147/window-dressing-nats-dont-tackle-issues.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/12/12/window-dressing-nats-dont-tackle-issues/index.html
+layout: layout.njk
 ---
 ‘Window-dressing’ Nat's don't tackle issues
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: select-committee-endorses-cover-up
-title: "Select Committee endorses cover-up"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/PA0503/S00311/select-committee-endorses-cover-up.htm
+title: Select Committee endorses cover-up
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00311/select-committee-endorses-cover-up.htm
 author: green-party
+permalink: /archive/2005/03/15/select-committee-endorses-cover-up/index.html
+layout: layout.njk
 ---
 Select Committee endorses cover-up
 ==================================

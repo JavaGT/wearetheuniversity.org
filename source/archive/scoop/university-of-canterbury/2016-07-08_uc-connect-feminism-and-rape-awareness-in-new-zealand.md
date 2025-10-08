@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-feminism-and-rape-awareness-in-new-zealand
-title: "UC Connect: Feminism and Rape Awareness in New Zealand"
-date: 2016-07-08
-source-url: https://www.scoop.co.nz/stories/ED1607/S00040/uc-connect-feminism-and-rape-awareness-in-new-zealand.htm
+title: 'UC Connect: Feminism and Rape Awareness in New Zealand'
+date: 2016-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00040/uc-connect-feminism-and-rape-awareness-in-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/07/08/uc-connect-feminism-and-rape-awareness-in-new-zealand/index.html
+layout: layout.njk
 ---
 UC Connect: Feminism and Rape Awareness in New Zealand
 ======================================================

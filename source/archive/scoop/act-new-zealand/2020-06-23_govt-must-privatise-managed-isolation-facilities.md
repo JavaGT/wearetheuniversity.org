@@ -1,9 +1,13 @@
 ---
 slug: govt-must-privatise-managed-isolation-facilities
-title: "Govt Must Privatise Managed Isolation Facilities"
-date: 2020-06-23
-source-url: https://www.scoop.co.nz/stories/PA2006/S00211/govt-must-privatise-managed-isolation-facilities.htm
+title: Govt Must Privatise Managed Isolation Facilities
+date: 2020-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00211/govt-must-privatise-managed-isolation-facilities.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/23/govt-must-privatise-managed-isolation-facilities/index.html
+layout: layout.njk
 ---
 Govt Must Privatise Managed Isolation Facilities
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-different-way-of-valuing-assets
-title: "A different way of valuing assets"
-date: 2012-08-10
-source-url: https://www.scoop.co.nz/stories/ED1208/S00070/a-different-way-of-valuing-assets.htm
+title: A different way of valuing assets
+date: 2012-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00070/a-different-way-of-valuing-assets.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/10/a-different-way-of-valuing-assets/index.html
+layout: layout.njk
 ---
 A different way of valuing assets
 =================================

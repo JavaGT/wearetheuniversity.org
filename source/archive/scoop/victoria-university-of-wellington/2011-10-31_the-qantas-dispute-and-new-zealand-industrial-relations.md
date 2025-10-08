@@ -1,9 +1,13 @@
 ---
 slug: the-qantas-dispute-and-new-zealand-industrial-relations
-title: "The Qantas dispute and New Zealand Industrial Relations"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/ED1110/S00151/the-qantas-dispute-and-new-zealand-industrial-relations.htm
+title: The Qantas dispute and New Zealand Industrial Relations
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00151/the-qantas-dispute-and-new-zealand-industrial-relations.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/10/31/the-qantas-dispute-and-new-zealand-industrial-relations/index.html
+layout: layout.njk
 ---
 The Qantas dispute and New Zealand Industrial Relations
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: show-you-care-fonterra-dont-pick-up-the-milk
-title: "Show you care Fonterra - don’t pick up the milk"
-date: 2008-02-26
-source-url: https://www.scoop.co.nz/stories/PA0802/S00425/show-you-care-fonterra-dont-pick-up-the-milk.htm
+title: Show you care Fonterra - don’t pick up the milk
+date: 2008-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00425/show-you-care-fonterra-dont-pick-up-the-milk.htm
 author: green-party
+permalink: /archive/2008/02/26/show-you-care-fonterra-dont-pick-up-the-milk/index.html
+layout: layout.njk
 ---
 Show you care Fonterra - don’t pick up the milk
 ===============================================

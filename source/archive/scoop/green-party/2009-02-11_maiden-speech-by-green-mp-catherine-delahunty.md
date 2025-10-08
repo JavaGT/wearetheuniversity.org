@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-by-green-mp-catherine-delahunty
-title: "Maiden Speech by Green MP Catherine Delahunty"
-date: 2009-02-11
-source-url: https://www.scoop.co.nz/stories/PA0902/S00170/maiden-speech-by-green-mp-catherine-delahunty.htm
+title: Maiden Speech by Green MP Catherine Delahunty
+date: 2009-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00170/maiden-speech-by-green-mp-catherine-delahunty.htm
 author: green-party
+permalink: /archive/2009/02/11/maiden-speech-by-green-mp-catherine-delahunty/index.html
+layout: layout.njk
 ---
 Maiden Speech by Green MP Catherine Delahunty
 =============================================

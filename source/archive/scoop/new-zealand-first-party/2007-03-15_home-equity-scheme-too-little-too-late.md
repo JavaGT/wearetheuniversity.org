@@ -1,9 +1,12 @@
 ---
 slug: home-equity-scheme-too-little-too-late
-title: "Home Equity Scheme Too Little, Too Late"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/PA0703/S00293/home-equity-scheme-too-little-too-late.htm
+title: Home Equity Scheme Too Little, Too Late
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00293/home-equity-scheme-too-little-too-late.htm
 author: new-zealand-first-party
+permalink: /archive/2007/03/15/home-equity-scheme-too-little-too-late/index.html
+layout: layout.njk
 ---
 Home Equity Scheme Too Little, Too Late
 =======================================

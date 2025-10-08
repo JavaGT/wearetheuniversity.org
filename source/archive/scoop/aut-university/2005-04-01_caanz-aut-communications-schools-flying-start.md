@@ -1,9 +1,12 @@
 ---
 slug: caanz-aut-communications-schools-flying-start
-title: "CAANZ/AUT Communications School's Flying Start"
-date: 2005-04-01
-source-url: https://www.scoop.co.nz/stories/ED0504/S00003/caanzaut-communications-schools-flying-start.htm
+title: CAANZ/AUT Communications School's Flying Start
+date: 2005-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00003/caanzaut-communications-schools-flying-start.htm
 author: aut-university
+permalink: /archive/2005/04/01/caanz-aut-communications-schools-flying-start/index.html
+layout: layout.njk
 ---
 CAANZ/AUT Communications School's Flying Start
 ==============================================

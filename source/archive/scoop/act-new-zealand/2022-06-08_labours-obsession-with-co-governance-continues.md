@@ -1,9 +1,12 @@
 ---
 slug: labours-obsession-with-co-governance-continues
-title: "Labour’s Obsession With Co-governance Continues"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/PA2206/S00059/labours-obsession-with-co-governance-continues.htm
+title: Labour’s Obsession With Co-governance Continues
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00059/labours-obsession-with-co-governance-continues.htm
 author: act-new-zealand
+permalink: /archive/2022/06/08/labours-obsession-with-co-governance-continues/index.html
+layout: layout.njk
 ---
 Labour’s Obsession With Co-governance Continues
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: awards-no-substitute-for-equity-funding
-title: "Awards no substitute for equity funding"
-date: 2010-11-22
-source-url: https://www.scoop.co.nz/stories/PA1011/S00444/awards-no-substitute-for-equity-funding.htm
+title: Awards no substitute for equity funding
+date: 2010-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00444/awards-no-substitute-for-equity-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/22/awards-no-substitute-for-equity-funding/index.html
+layout: layout.njk
 ---
 Awards no substitute for equity funding
 =======================================

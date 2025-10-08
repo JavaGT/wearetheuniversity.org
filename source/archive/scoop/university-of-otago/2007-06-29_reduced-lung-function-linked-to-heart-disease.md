@@ -1,9 +1,12 @@
 ---
 slug: reduced-lung-function-linked-to-heart-disease
-title: "Reduced lung function linked to heart disease"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/GE0706/S00110/reduced-lung-function-linked-to-heart-disease.htm
+title: Reduced lung function linked to heart disease
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00110/reduced-lung-function-linked-to-heart-disease.htm
 author: university-of-otago
+permalink: /archive/2007/06/29/reduced-lung-function-linked-to-heart-disease/index.html
+layout: layout.njk
 ---
 Reduced lung function linked to heart disease
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-2022-arts-fellows-announcement
-title: "University of Otago 2022 Arts Fellows announcement"
-date: 2021-09-17
-source-url: https://www.scoop.co.nz/stories/CU2109/S00148/university-of-otago-2022-arts-fellows-announcement.htm
+title: University of Otago 2022 Arts Fellows announcement
+date: 2021-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2109/S00148/university-of-otago-2022-arts-fellows-announcement.htm
 author: university-of-otago
+permalink: >-
+  /archive/2021/09/17/university-of-otago-2022-arts-fellows-announcement/index.html
+layout: layout.njk
 ---
 University of Otago 2022 Arts Fellows announcement
 ==================================================

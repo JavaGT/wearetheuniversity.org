@@ -1,9 +1,12 @@
 ---
 slug: new-title-from-victoria-university-press
-title: "New title from Victoria University Press"
-date: 2009-02-17
-source-url: https://www.scoop.co.nz/stories/CU0902/S00282/new-title-from-victoria-university-press.htm
+title: New title from Victoria University Press
+date: 2009-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00282/new-title-from-victoria-university-press.htm
 author: victoria-university-press
+permalink: /archive/2009/02/17/new-title-from-victoria-university-press/index.html
+layout: layout.njk
 ---
 New title from Victoria University Press
 ========================================

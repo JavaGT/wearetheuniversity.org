@@ -1,9 +1,13 @@
 ---
 slug: hours-of-sleep-and-body-fat-linked-for-teenage-boys
-title: "Hours of Sleep and Body Fat Linked For Teenage Boys"
-date: 2013-09-19
-source-url: https://www.scoop.co.nz/stories/ED1309/S00115/hours-of-sleep-and-body-fat-linked-for-teenage-boys.htm
+title: Hours of Sleep and Body Fat Linked For Teenage Boys
+date: 2013-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00115/hours-of-sleep-and-body-fat-linked-for-teenage-boys.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/19/hours-of-sleep-and-body-fat-linked-for-teenage-boys/index.html
+layout: layout.njk
 ---
 Hours of Sleep and Body Fat Linked For Teenage Boys
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: too-much-tv-in-childhood-affects-adult-health
-title: "Too Much Tv In Childhood Affects Adult Health"
-date: 2004-07-16
-source-url: https://www.scoop.co.nz/stories/ED0407/S00054/too-much-tv-in-childhood-affects-adult-health.htm
+title: Too Much Tv In Childhood Affects Adult Health
+date: 2004-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00054/too-much-tv-in-childhood-affects-adult-health.htm
 author: university-of-otago
+permalink: /archive/2004/07/16/too-much-tv-in-childhood-affects-adult-health/index.html
+layout: layout.njk
 ---
 Too Much Tv In Childhood Affects Adult Health
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: roundtable-hosts-distinguished-economic-journalist
-title: "Roundtable Hosts Distinguished Economic Journalist"
-date: 2004-08-27
-source-url: https://www.scoop.co.nz/stories/PO0408/S00260/roundtable-hosts-distinguished-economic-journalist.htm
+title: Roundtable Hosts Distinguished Economic Journalist
+date: 2004-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0408/S00260/roundtable-hosts-distinguished-economic-journalist.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2004/08/27/roundtable-hosts-distinguished-economic-journalist/index.html
+layout: layout.njk
 ---
 Roundtable Hosts Distinguished Economic Journalist
 ==================================================

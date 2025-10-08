@@ -1,9 +1,12 @@
 ---
 slug: labour-ppta-agree-to-version-of-bulk-funding
-title: "Labour, PPTA agree to version of bulk-funding"
-date: 2005-04-14
-source-url: https://www.scoop.co.nz/stories/PA0504/S00331/labour-ppta-agree-to-version-of-bulk-funding.htm
+title: Labour, PPTA agree to version of bulk-funding
+date: 2005-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00331/labour-ppta-agree-to-version-of-bulk-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/14/labour-ppta-agree-to-version-of-bulk-funding/index.html
+layout: layout.njk
 ---
 Labour, PPTA agree to version of bulk-funding
 =============================================

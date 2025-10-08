@@ -1,9 +1,13 @@
 ---
 slug: time-to-question-university-affirmative-action-schemes
-title: "Time To Question University Affirmative Action Schemes"
-date: 2023-08-31
-source-url: https://www.scoop.co.nz/stories/PA2308/S00205/time-to-question-university-affirmative-action-schemes.htm
+title: Time To Question University Affirmative Action Schemes
+date: 2023-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00205/time-to-question-university-affirmative-action-schemes.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/31/time-to-question-university-affirmative-action-schemes/index.html
+layout: layout.njk
 ---
 Time To Question University Affirmative Action Schemes
 ======================================================

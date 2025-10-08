@@ -1,9 +1,13 @@
 ---
 slug: student-leaders-will-work-with-joyce-to-seek-progress
-title: "Student leaders will work with Joyce to seek progress"
-date: 2011-12-12
-source-url: https://www.scoop.co.nz/stories/ED1112/S00061/student-leaders-will-work-with-joyce-to-seek-progress.htm
+title: Student leaders will work with Joyce to seek progress
+date: 2011-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00061/student-leaders-will-work-with-joyce-to-seek-progress.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/12/12/student-leaders-will-work-with-joyce-to-seek-progress/index.html
+layout: layout.njk
 ---
 Student leaders will work with Joyce to seek progress
 =====================================================

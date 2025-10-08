@@ -1,9 +1,12 @@
 ---
 slug: speech-little-labour-party-conference
-title: "Speech: Little - Labour Party Conference"
-date: 2016-11-06
-source-url: https://www.scoop.co.nz/stories/PA1611/S00111/speech-little-labour-party-conference.htm
+title: 'Speech: Little - Labour Party Conference'
+date: 2016-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00111/speech-little-labour-party-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/06/speech-little-labour-party-conference/index.html
+layout: layout.njk
 ---
 Speech: Little - Labour Party Conference
 ========================================

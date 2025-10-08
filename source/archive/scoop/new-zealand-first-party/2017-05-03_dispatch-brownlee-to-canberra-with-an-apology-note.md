@@ -1,9 +1,13 @@
 ---
 slug: dispatch-brownlee-to-canberra-with-an-apology-note
-title: "Dispatch Brownlee to Canberra with an Apology Note"
-date: 2017-05-03
-source-url: https://www.scoop.co.nz/stories/PA1705/S00044/dispatch-brownlee-to-canberra-with-an-apology-note.htm
+title: Dispatch Brownlee to Canberra with an Apology Note
+date: 2017-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00044/dispatch-brownlee-to-canberra-with-an-apology-note.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/03/dispatch-brownlee-to-canberra-with-an-apology-note/index.html
+layout: layout.njk
 ---
 Dispatch Brownlee to Canberra with an Apology Note
 ==================================================

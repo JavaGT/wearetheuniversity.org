@@ -1,9 +1,13 @@
 ---
 slug: new-uc-research-institutes-praised-in-new-zealand
-title: "New UC research institutes praised in New Zealand"
-date: 2010-09-20
-source-url: https://www.scoop.co.nz/stories/ED1009/S00089/new-uc-research-institutes-praised-in-new-zealand.htm
+title: New UC research institutes praised in New Zealand
+date: 2010-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00089/new-uc-research-institutes-praised-in-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/09/20/new-uc-research-institutes-praised-in-new-zealand/index.html
+layout: layout.njk
 ---
 New UC research institutes praised in New Zealand
 =================================================

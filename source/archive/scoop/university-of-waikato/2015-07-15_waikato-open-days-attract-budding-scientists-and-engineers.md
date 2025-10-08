@@ -1,9 +1,13 @@
 ---
 slug: waikato-open-days-attract-budding-scientists-and-engineers
-title: "Waikato open days attract budding scientists and engineers"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/ED1507/S00077/waikato-open-days-attract-budding-scientists-and-engineers.htm
+title: Waikato open days attract budding scientists and engineers
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00077/waikato-open-days-attract-budding-scientists-and-engineers.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/07/15/waikato-open-days-attract-budding-scientists-and-engineers/index.html
+layout: layout.njk
 ---
 Waikato open days attract budding scientists and engineers
 ==========================================================

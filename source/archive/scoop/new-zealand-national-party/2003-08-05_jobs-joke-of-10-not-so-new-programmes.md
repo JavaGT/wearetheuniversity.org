@@ -1,9 +1,12 @@
 ---
 slug: jobs-joke-of-10-not-so-new-programmes
-title: "Jobs Joke of 10 'not so new' programmes"
-date: 2003-08-05
-source-url: https://www.scoop.co.nz/stories/PA0308/S00082/jobs-joke-of-10-not-so-new-programmes.htm
+title: Jobs Joke of 10 'not so new' programmes
+date: 2003-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00082/jobs-joke-of-10-not-so-new-programmes.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/05/jobs-joke-of-10-not-so-new-programmes/index.html
+layout: layout.njk
 ---
 Jobs Joke of 10 'not so new' programmes
 =======================================

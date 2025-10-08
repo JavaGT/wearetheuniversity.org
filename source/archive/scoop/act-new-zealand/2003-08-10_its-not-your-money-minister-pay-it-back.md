@@ -1,9 +1,12 @@
 ---
 slug: its-not-your-money-minister-pay-it-back
-title: "It's Not Your Money Minister, Pay It Back"
-date: 2003-08-10
-source-url: https://www.scoop.co.nz/stories/PA0308/S00190/its-not-your-money-minister-pay-it-back.htm
+title: It's Not Your Money Minister, Pay It Back
+date: 2003-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00190/its-not-your-money-minister-pay-it-back.htm
 author: act-new-zealand
+permalink: /archive/2003/08/10/its-not-your-money-minister-pay-it-back/index.html
+layout: layout.njk
 ---
 It's Not Your Money Minister, Pay It Back
 =========================================

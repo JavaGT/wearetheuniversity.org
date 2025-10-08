@@ -1,9 +1,12 @@
 ---
 slug: areti-metuamate-a-beautiful-mind
-title: "Areti Metuamate: A beautiful mind"
-date: 2010-06-17
-source-url: https://www.scoop.co.nz/stories/PA1006/S00255/areti-metuamate-a-beautiful-mind.htm
+title: 'Areti Metuamate: A beautiful mind'
+date: 2010-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00255/areti-metuamate-a-beautiful-mind.htm
 author: te-pati-maori
+permalink: /archive/2010/06/17/areti-metuamate-a-beautiful-mind/index.html
+layout: layout.njk
 ---
 Areti Metuamate: A beautiful mind
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-family-court-matters-second-reading
-title: "Flavell: Family Court Matters Second Reading"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00282/flavell-family-court-matters-second-reading.htm
+title: 'Flavell: Family Court Matters Second Reading'
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00282/flavell-family-court-matters-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2008/04/10/flavell-family-court-matters-second-reading/index.html
+layout: layout.njk
 ---
 Flavell: Family Court Matters Second Reading
 ============================================

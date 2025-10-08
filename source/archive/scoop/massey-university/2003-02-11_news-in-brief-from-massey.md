@@ -1,9 +1,11 @@
 ---
 slug: news-in-brief-from-massey
-title: "News In Brief From Massey"
-date: 2003-02-11
+title: News In Brief From Massey
+date: 2003-02-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0302/S00015/news-in-brief-from-massey.htm
 author: massey-university
+permalink: /archive/2003/02/11/news-in-brief-from-massey/index.html
+layout: layout.njk
 ---
 News In Brief From Massey
 =========================

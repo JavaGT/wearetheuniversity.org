@@ -1,9 +1,13 @@
 ---
 slug: collaboration-to-concentrate-conservation-expertis
-title: "Collaboration to concentrate conservation expertis"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/ED0706/S00075/collaboration-to-concentrate-conservation-expertis.htm
+title: Collaboration to concentrate conservation expertis
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00075/collaboration-to-concentrate-conservation-expertis.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/06/18/collaboration-to-concentrate-conservation-expertis/index.html
+layout: layout.njk
 ---
 Collaboration to concentrate conservation expertis
 ==================================================

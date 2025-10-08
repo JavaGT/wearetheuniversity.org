@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-dairy-the-last-political-chapter
-title: "Heather Roy’s Dairy - The Last Political Chapter"
-date: 2011-10-03
-source-url: https://www.scoop.co.nz/stories/PA1110/S00026/heather-roys-dairy-the-last-political-chapter.htm
+title: Heather Roy’s Dairy - The Last Political Chapter
+date: 2011-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00026/heather-roys-dairy-the-last-political-chapter.htm
 author: act-new-zealand
+permalink: /archive/2011/10/03/heather-roys-dairy-the-last-political-chapter/index.html
+layout: layout.njk
 ---
 Heather Roy’s Dairy - The Last Political Chapter
 ================================================

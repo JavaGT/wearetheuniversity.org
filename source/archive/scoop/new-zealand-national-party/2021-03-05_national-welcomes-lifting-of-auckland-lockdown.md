@@ -1,9 +1,12 @@
 ---
 slug: national-welcomes-lifting-of-auckland-lockdown
-title: "National Welcomes Lifting Of Auckland Lockdown"
-date: 2021-03-05
-source-url: https://www.scoop.co.nz/stories/PA2103/S00033/national-welcomes-lifting-of-auckland-lockdown.htm
+title: National Welcomes Lifting Of Auckland Lockdown
+date: 2021-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00033/national-welcomes-lifting-of-auckland-lockdown.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/05/national-welcomes-lifting-of-auckland-lockdown/index.html
+layout: layout.njk
 ---
 National Welcomes Lifting Of Auckland Lockdown
 ==============================================
@@ -26,14 +29,7 @@ But given the Government’s confidence that this outbreak is under control, Nat
 “Unfortunately, this latest outbreak has further exposed the rough edges of the Government’s Covid-19 response. Contact tracing still isn’t the ‘gold standard’ that the Government would have us think it is. Letting numerous calls and texts to close contacts go unanswered, and not knocking on doors, isn’t good enough.
 
 “These lockdowns are costing the economy half a billion dollars each week. It’s the reason this yo-yoing in and out of lockdown must be avoided.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “The Government should consider the safeguards in National’s [five-point plan](https://www.national.org.nz/five-point-plan-to-get-new-zealand-out-of-lockdown) for managing community cases, particularly rapid antigen testing – nasal swab tests that return results in 15 minutes – and increased monitoring of people in self-isolation, including spot checks.
+“The Government should consider the safeguards in National’s [five-point plan](https://www.national.org.nz/five-point-plan-to-get-new-zealand-out-of-lockdown) for managing community cases, particularly rapid antigen testing – nasal swab tests that return results in 15 minutes – and increased monitoring of people in self-isolation, including spot checks.
 
 “Jacinda Ardern should also reconsider National’s proposal to pay 100 per cent of a person’s wages and salary for two weeks if they are ordered to self-isolate. This will incentivise people to stay home and save lives. It is the right thing to do; it’s the kind thing to do.”
 

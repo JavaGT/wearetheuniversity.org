@@ -1,9 +1,12 @@
 ---
 slug: exemptions-balloon-under-labour
-title: "Exemptions balloon under Labour"
-date: 2005-01-18
-source-url: https://www.scoop.co.nz/stories/PA0501/S00122/exemptions-balloon-under-labour.htm
+title: Exemptions balloon under Labour
+date: 2005-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00122/exemptions-balloon-under-labour.htm
 author: act-new-zealand
+permalink: /archive/2005/01/18/exemptions-balloon-under-labour/index.html
+layout: layout.njk
 ---
 Exemptions balloon under Labour
 ===============================

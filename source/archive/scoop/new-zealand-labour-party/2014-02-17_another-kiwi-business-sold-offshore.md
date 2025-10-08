@@ -1,9 +1,12 @@
 ---
 slug: another-kiwi-business-sold-offshore
-title: "Another Kiwi business sold offshore"
-date: 2014-02-17
-source-url: https://www.scoop.co.nz/stories/PA1402/S00196/another-kiwi-business-sold-offshore.htm
+title: Another Kiwi business sold offshore
+date: 2014-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00196/another-kiwi-business-sold-offshore.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/17/another-kiwi-business-sold-offshore/index.html
+layout: layout.njk
 ---
 Another Kiwi business sold offshore
 ===================================

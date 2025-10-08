@@ -1,9 +1,13 @@
 ---
 slug: 2-8-billion-reasons-govt-creating-tertiary-risks
-title: "2.8 billion reasons Govt creating tertiary risks"
-date: 2018-08-23
-source-url: https://www.scoop.co.nz/stories/PA1808/S00280/28-billion-reasons-govt-creating-tertiary-risks.htm
+title: 2.8 billion reasons Govt creating tertiary risks
+date: 2018-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00280/28-billion-reasons-govt-creating-tertiary-risks.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/08/23/2-8-billion-reasons-govt-creating-tertiary-risks/index.html
+layout: layout.njk
 ---
 2.8 billion reasons Govt creating tertiary risks
 ================================================

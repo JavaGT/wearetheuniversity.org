@@ -1,9 +1,12 @@
 ---
 slug: gould-challenged-over-wsu-legitimacy
-title: "Gould Challenged Over WSU Legitimacy"
-date: 2002-07-26
-source-url: https://www.scoop.co.nz/stories/ED0207/S00068/gould-challenged-over-wsu-legitimacy.htm
+title: Gould Challenged Over WSU Legitimacy
+date: 2002-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00068/gould-challenged-over-wsu-legitimacy.htm
 author: student-choice
+permalink: /archive/2002/07/26/gould-challenged-over-wsu-legitimacy/index.html
+layout: layout.njk
 ---
 Gould Challenged Over WSU Legitimacy
 ====================================

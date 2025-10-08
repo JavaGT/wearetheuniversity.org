@@ -1,9 +1,12 @@
 ---
 slug: you-do-the-talking-winston-well-do-the-thinking
-title: "You Do The Talking, Winston, We'll Do The Thinking"
-date: 2003-03-07
-source-url: https://www.scoop.co.nz/stories/PA0303/S00133/you-do-the-talking-winston-well-do-the-thinking.htm
+title: You Do The Talking, Winston, We'll Do The Thinking
+date: 2003-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00133/you-do-the-talking-winston-well-do-the-thinking.htm
 author: act-new-zealand
+permalink: /archive/2003/03/07/you-do-the-talking-winston-well-do-the-thinking/index.html
+layout: layout.njk
 ---
 You Do The Talking, Winston, We'll Do The Thinking
 ==================================================

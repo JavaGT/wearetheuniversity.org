@@ -1,9 +1,13 @@
 ---
 slug: aut-hosts-international-forum-on-auckland-region
-title: "AUT hosts international forum on Auckland region"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/AK0605/S00005/aut-hosts-international-forum-on-auckland-region.htm
+title: AUT hosts international forum on Auckland region
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0605/S00005/aut-hosts-international-forum-on-auckland-region.htm
 author: aut-university
+permalink: >-
+  /archive/2006/05/01/aut-hosts-international-forum-on-auckland-region/index.html
+layout: layout.njk
 ---
 AUT hosts international forum on Auckland region
 ================================================

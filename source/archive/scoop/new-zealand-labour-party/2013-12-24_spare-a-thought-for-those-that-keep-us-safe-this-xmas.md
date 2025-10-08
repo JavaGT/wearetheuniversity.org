@@ -1,9 +1,13 @@
 ---
 slug: spare-a-thought-for-those-that-keep-us-safe-this-xmas
-title: "Spare a thought for those that keep us safe this Xmas"
-date: 2013-12-24
-source-url: https://www.scoop.co.nz/stories/PA1312/S00422/spare-a-thought-for-those-that-keep-us-safe-this-xmas.htm
+title: Spare a thought for those that keep us safe this Xmas
+date: 2013-12-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00422/spare-a-thought-for-those-that-keep-us-safe-this-xmas.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/12/24/spare-a-thought-for-those-that-keep-us-safe-this-xmas/index.html
+layout: layout.njk
 ---
 Spare a thought for those that keep us safe this Xmas
 =====================================================

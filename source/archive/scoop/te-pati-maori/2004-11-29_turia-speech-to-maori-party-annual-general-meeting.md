@@ -1,9 +1,13 @@
 ---
 slug: turia-speech-to-maori-party-annual-general-meeting
-title: "Turia Speech to Maori Party Annual General Meeting"
-date: 2004-11-29
-source-url: https://www.scoop.co.nz/stories/PA0411/S00600/turia-speech-to-maori-party-annual-general-meeting.htm
+title: Turia Speech to Maori Party Annual General Meeting
+date: 2004-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00600/turia-speech-to-maori-party-annual-general-meeting.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2004/11/29/turia-speech-to-maori-party-annual-general-meeting/index.html
+layout: layout.njk
 ---
 Turia Speech to Maori Party Annual General Meeting
 ==================================================

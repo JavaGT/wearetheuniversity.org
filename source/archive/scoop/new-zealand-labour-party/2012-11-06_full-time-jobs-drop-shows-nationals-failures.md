@@ -1,9 +1,12 @@
 ---
 slug: full-time-jobs-drop-shows-nationals-failures
-title: "Full time jobs drop shows National’s failures"
-date: 2012-11-06
-source-url: https://www.scoop.co.nz/stories/PA1211/S00080/full-time-jobs-drop-shows-nationals-failures.htm
+title: Full time jobs drop shows National’s failures
+date: 2012-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00080/full-time-jobs-drop-shows-nationals-failures.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/06/full-time-jobs-drop-shows-nationals-failures/index.html
+layout: layout.njk
 ---
 Full time jobs drop shows National’s failures
 =============================================

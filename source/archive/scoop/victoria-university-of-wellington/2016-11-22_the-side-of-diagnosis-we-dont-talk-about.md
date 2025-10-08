@@ -1,9 +1,12 @@
 ---
 slug: the-side-of-diagnosis-we-dont-talk-about
-title: "The side of diagnosis we don’t talk about"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/ED1611/S00095/the-side-of-diagnosis-we-dont-talk-about.htm
+title: The side of diagnosis we don’t talk about
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00095/the-side-of-diagnosis-we-dont-talk-about.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/11/22/the-side-of-diagnosis-we-dont-talk-about/index.html
+layout: layout.njk
 ---
 The side of diagnosis we don’t talk about
 =========================================

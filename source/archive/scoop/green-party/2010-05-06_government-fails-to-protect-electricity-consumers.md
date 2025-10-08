@@ -1,9 +1,13 @@
 ---
 slug: government-fails-to-protect-electricity-consumers
-title: "Government fails to protect electricity consumers"
-date: 2010-05-06
-source-url: https://www.scoop.co.nz/stories/PA1005/S00075/government-fails-to-protect-electricity-consumers.htm
+title: Government fails to protect electricity consumers
+date: 2010-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00075/government-fails-to-protect-electricity-consumers.htm
 author: green-party
+permalink: >-
+  /archive/2010/05/06/government-fails-to-protect-electricity-consumers/index.html
+layout: layout.njk
 ---
 Government fails to protect electricity consumers
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: climate-change-a-human-rights-issue
-title: "Climate Change–A Human Rights Issue"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/WO1109/S00880/climate-change-a-human-rights-issue.htm
+title: Climate Change–A Human Rights Issue
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1109/S00880/climate-change-a-human-rights-issue.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/09/29/climate-change-a-human-rights-issue/index.html
+layout: layout.njk
 ---
 Climate Change–A Human Rights Issue
 ===================================

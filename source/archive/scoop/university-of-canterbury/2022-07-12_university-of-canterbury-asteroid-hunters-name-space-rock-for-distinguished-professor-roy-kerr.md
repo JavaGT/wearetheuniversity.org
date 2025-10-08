@@ -1,9 +1,16 @@
 ---
-slug: university-of-canterbury-asteroid-hunters-name-space-rock-for-distinguished-professor-roy-kerr
-title: "University Of Canterbury Asteroid Hunters Name Space Rock For Distinguished Professor Roy Kerr"
-date: 2022-07-12
-source-url: https://www.scoop.co.nz/stories/ED2207/S00016/university-of-canterbury-asteroid-hunters-name-space-rock-for-distinguished-professor-roy-kerr.htm
+slug: >-
+  university-of-canterbury-asteroid-hunters-name-space-rock-for-distinguished-professor-roy-kerr
+title: >-
+  University Of Canterbury Asteroid Hunters Name Space Rock For Distinguished
+  Professor Roy Kerr
+date: 2022-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2207/S00016/university-of-canterbury-asteroid-hunters-name-space-rock-for-distinguished-professor-roy-kerr.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/07/12/university-of-canterbury-asteroid-hunters-name-space-rock-for-distinguished-professor-roy-kerr/index.html
+layout: layout.njk
 ---
 University Of Canterbury Asteroid Hunters Name Space Rock For Distinguished Professor Roy Kerr
 ==============================================================================================

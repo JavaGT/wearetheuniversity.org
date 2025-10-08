@@ -1,9 +1,12 @@
 ---
 slug: byron-clark-for-christchurch-mayor
-title: "Byron Clark for Christchurch Mayor"
-date: 2007-08-20
-source-url: https://www.scoop.co.nz/stories/AK0708/S00224/byron-clark-for-christchurch-mayor.htm
+title: Byron Clark for Christchurch Mayor
+date: 2007-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0708/S00224/byron-clark-for-christchurch-mayor.htm
 author: workers-party-of-new-zealand
+permalink: /archive/2007/08/20/byron-clark-for-christchurch-mayor/index.html
+layout: layout.njk
 ---
 Byron Clark for Christchurch Mayor
 ==================================

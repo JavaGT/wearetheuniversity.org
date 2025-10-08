@@ -1,9 +1,13 @@
 ---
 slug: margaret-wilson-to-be-awarded-honorary-doctorate
-title: "Margaret Wilson to be awarded honorary doctorate"
-date: 2004-01-05
-source-url: https://www.scoop.co.nz/stories/ED0401/S00001/margaret-wilson-to-be-awarded-honorary-doctorate.htm
+title: Margaret Wilson to be awarded honorary doctorate
+date: 2004-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00001/margaret-wilson-to-be-awarded-honorary-doctorate.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/01/05/margaret-wilson-to-be-awarded-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Margaret Wilson to be awarded honorary doctorate
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: litmus-international-curatorial-fellowship-blog
-title: "Litmus International Curatorial Fellowship blog"
-date: 2006-12-05
-source-url: https://www.scoop.co.nz/stories/ED0612/S00009/litmus-international-curatorial-fellowship-blog.htm
+title: Litmus International Curatorial Fellowship blog
+date: 2006-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00009/litmus-international-curatorial-fellowship-blog.htm
 author: massey-university
+permalink: /archive/2006/12/05/litmus-international-curatorial-fellowship-blog/index.html
+layout: layout.njk
 ---
 Litmus International Curatorial Fellowship blog
 ===============================================

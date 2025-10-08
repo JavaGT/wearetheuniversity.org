@@ -1,9 +1,12 @@
 ---
 slug: key-bennett-fail-to-understand-people-want-jobs
-title: "Key, Bennett fail to understand people want jobs"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00079/key-bennett-fail-to-understand-people-want-jobs.htm
+title: Key, Bennett fail to understand people want jobs
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00079/key-bennett-fail-to-understand-people-want-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/05/key-bennett-fail-to-understand-people-want-jobs/index.html
+layout: layout.njk
 ---
 Key, Bennett fail to understand people want jobs
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: hide-a-bold-new-start
-title: "Hide: A Bold New Start"
-date: 2006-10-12
+title: 'Hide: A Bold New Start'
+date: 2006-10-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0610/S00221/hide-a-bold-new-start.htm
 author: act-new-zealand
+permalink: /archive/2006/10/12/hide-a-bold-new-start/index.html
+layout: layout.njk
 ---
 Hide: A Bold New Start
 ======================

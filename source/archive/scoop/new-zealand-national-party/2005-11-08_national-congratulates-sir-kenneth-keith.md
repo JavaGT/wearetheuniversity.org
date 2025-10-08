@@ -1,9 +1,12 @@
 ---
 slug: national-congratulates-sir-kenneth-keith
-title: "National congratulates Sir Kenneth Keith"
-date: 2005-11-08
-source-url: https://www.scoop.co.nz/stories/PA0511/S00101/national-congratulates-sir-kenneth-keith.htm
+title: National congratulates Sir Kenneth Keith
+date: 2005-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00101/national-congratulates-sir-kenneth-keith.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/08/national-congratulates-sir-kenneth-keith/index.html
+layout: layout.njk
 ---
 National congratulates Sir Kenneth Keith
 ========================================

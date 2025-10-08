@@ -1,9 +1,12 @@
 ---
 slug: flexible-working-hours-bill-clears-first-hurdle
-title: "Flexible Working Hours Bill clears first hurdle"
-date: 2005-04-08
-source-url: https://www.scoop.co.nz/stories/PA0504/S00173/flexible-working-hours-bill-clears-first-hurdle.htm
+title: Flexible Working Hours Bill clears first hurdle
+date: 2005-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00173/flexible-working-hours-bill-clears-first-hurdle.htm
 author: green-party
+permalink: /archive/2005/04/08/flexible-working-hours-bill-clears-first-hurdle/index.html
+layout: layout.njk
 ---
 Flexible Working Hours Bill clears first hurdle
 ===============================================

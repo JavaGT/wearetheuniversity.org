@@ -1,9 +1,12 @@
 ---
 slug: an-interview-with-hone-harawira-candidate
-title: "An Interview With Hone Harawira - Candidate"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PO0501/S00227/an-interview-with-hone-harawira-candidate.htm
+title: An Interview With Hone Harawira - Candidate
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0501/S00227/an-interview-with-hone-harawira-candidate.htm
 author: te-pati-maori
+permalink: /archive/2005/01/31/an-interview-with-hone-harawira-candidate/index.html
+layout: layout.njk
 ---
 An Interview With Hone Harawira - Candidate
 ===========================================

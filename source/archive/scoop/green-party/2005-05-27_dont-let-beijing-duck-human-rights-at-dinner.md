@@ -1,9 +1,12 @@
 ---
 slug: dont-let-beijing-duck-human-rights-at-dinner
-title: "Don't Let Beijing Duck Human Rights At  Dinner"
-date: 2005-05-27
-source-url: https://www.scoop.co.nz/stories/PA0505/S00698/dont-let-beijing-duck-human-rights-at-dinner.htm
+title: Don't Let Beijing Duck Human Rights At  Dinner
+date: 2005-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00698/dont-let-beijing-duck-human-rights-at-dinner.htm
 author: green-party
+permalink: /archive/2005/05/27/dont-let-beijing-duck-human-rights-at-dinner/index.html
+layout: layout.njk
 ---
 Don't Let Beijing Duck Human Rights At Dinner
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: exclusive-royal-society-is-investigating-academics-for-defending-science
-title: "Exclusive: Royal Society Is Investigating Academics For Defending Science"
-date: 2021-11-17
-source-url: https://www.scoop.co.nz/stories/PO2111/S00170/exclusive-royal-society-is-investigating-academics-for-defending-science.htm
+title: 'Exclusive: Royal Society Is Investigating Academics For Defending Science'
+date: 2021-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00170/exclusive-royal-society-is-investigating-academics-for-defending-science.htm
 author: free-speech-union
+permalink: >-
+  /archive/2021/11/17/exclusive-royal-society-is-investigating-academics-for-defending-science/index.html
+layout: layout.njk
 ---
 Exclusive: Royal Society Is Investigating Academics For Defending Science
 =========================================================================

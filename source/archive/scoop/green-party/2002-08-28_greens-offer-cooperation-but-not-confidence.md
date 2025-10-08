@@ -1,9 +1,12 @@
 ---
 slug: greens-offer-cooperation-but-not-confidence
-title: "Greens offer cooperation, but not confidence"
-date: 2002-08-28
-source-url: https://www.scoop.co.nz/stories/PA0208/S00267/greens-offer-cooperation-but-not-confidence.htm
+title: Greens offer cooperation, but not confidence
+date: 2002-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00267/greens-offer-cooperation-but-not-confidence.htm
 author: green-party
+permalink: /archive/2002/08/28/greens-offer-cooperation-but-not-confidence/index.html
+layout: layout.njk
 ---
 Greens offer cooperation, but not confidence
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: paeroa-central-school-right-to-stand-its-ground
-title: "Paeroa Central School right to stand its ground"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/PA1306/S00101/paeroa-central-school-right-to-stand-its-ground.htm
+title: Paeroa Central School right to stand its ground
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00101/paeroa-central-school-right-to-stand-its-ground.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/06/06/paeroa-central-school-right-to-stand-its-ground/index.html
+layout: layout.njk
 ---
 Paeroa Central School right to stand its ground
 ===============================================

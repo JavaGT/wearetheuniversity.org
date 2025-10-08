@@ -1,9 +1,13 @@
 ---
 slug: act-says-the-government-should-rebate-tobacco-sellers
-title: "ACT Says the Government Should Rebate Tobacco Sellers"
-date: 2017-05-21
-source-url: https://www.scoop.co.nz/stories/PA1705/S00424/act-says-the-government-should-rebate-tobacco-sellers.htm
+title: ACT Says the Government Should Rebate Tobacco Sellers
+date: 2017-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00424/act-says-the-government-should-rebate-tobacco-sellers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/05/21/act-says-the-government-should-rebate-tobacco-sellers/index.html
+layout: layout.njk
 ---
 ACT Says the Government Should Rebate Tobacco Sellers
 =====================================================

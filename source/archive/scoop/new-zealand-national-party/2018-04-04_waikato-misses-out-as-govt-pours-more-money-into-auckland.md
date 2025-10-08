@@ -1,9 +1,13 @@
 ---
 slug: waikato-misses-out-as-govt-pours-more-money-into-auckland
-title: "Waikato misses out as Govt pours more money into Auckland"
-date: 2018-04-04
-source-url: https://www.scoop.co.nz/stories/PA1804/S00026/waikato-misses-out-as-govt-pours-more-money-into-auckland.htm
+title: Waikato misses out as Govt pours more money into Auckland
+date: 2018-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00026/waikato-misses-out-as-govt-pours-more-money-into-auckland.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/04/04/waikato-misses-out-as-govt-pours-more-money-into-auckland/index.html
+layout: layout.njk
 ---
 Waikato misses out as Govt pours more money into Auckland
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: blindly-defending-failed-charter-schools-experiment
-title: "Blindly Defending Failed Charter Schools Experiment"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/PA1409/S00160/blindly-defending-failed-charter-schools-experiment.htm
+title: Blindly Defending Failed Charter Schools Experiment
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00160/blindly-defending-failed-charter-schools-experiment.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/09/10/blindly-defending-failed-charter-schools-experiment/index.html
+layout: layout.njk
 ---
 Blindly Defending Failed Charter Schools Experiment
 ===================================================

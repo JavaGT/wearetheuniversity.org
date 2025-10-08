@@ -1,9 +1,13 @@
 ---
 slug: universities-must-uphold-free-speech-or-have-funding-cut
-title: "Universities must uphold free speech or have funding cut"
-date: 2019-11-16
-source-url: https://www.scoop.co.nz/stories/PA1911/S00133/universities-must-uphold-free-speech-or-have-funding-cut.htm
+title: Universities must uphold free speech or have funding cut
+date: 2019-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00133/universities-must-uphold-free-speech-or-have-funding-cut.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/11/16/universities-must-uphold-free-speech-or-have-funding-cut/index.html
+layout: layout.njk
 ---
 Universities must uphold free speech or have funding cut
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: families-and-the-state-correcting-the-balance
-title: "Families And The State - Correcting The Balance"
-date: 2004-05-31
-source-url: https://www.scoop.co.nz/stories/PA0405/S00691/families-and-the-state-correcting-the-balance.htm
+title: Families And The State - Correcting The Balance
+date: 2004-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00691/families-and-the-state-correcting-the-balance.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/31/families-and-the-state-correcting-the-balance/index.html
+layout: layout.njk
 ---
 Families And The State - Correcting The Balance
 ===============================================

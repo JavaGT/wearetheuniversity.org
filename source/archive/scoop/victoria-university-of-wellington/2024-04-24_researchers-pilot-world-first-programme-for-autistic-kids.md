@@ -1,9 +1,13 @@
 ---
 slug: researchers-pilot-world-first-programme-for-autistic-kids
-title: "Researchers Pilot World-first Programme For Autistic Kids"
-date: 2024-04-24
-source-url: https://www.scoop.co.nz/stories/GE2404/S00059/researchers-pilot-world-first-programme-for-autistic-kids.htm
+title: Researchers Pilot World-first Programme For Autistic Kids
+date: 2024-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2404/S00059/researchers-pilot-world-first-programme-for-autistic-kids.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2024/04/24/researchers-pilot-world-first-programme-for-autistic-kids/index.html
+layout: layout.njk
 ---
 Researchers Pilot World-first Programme For Autistic Kids
 =========================================================

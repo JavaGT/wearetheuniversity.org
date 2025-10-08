@@ -1,9 +1,12 @@
 ---
 slug: new-academic-leaders-for-te-kawa-a-mâui
-title: "New academic leaders for Te Kawa a Mâui"
-date: 2005-01-28
-source-url: https://www.scoop.co.nz/stories/ED0501/S00064/new-academic-leaders-for-te-kawa-a-maui.htm
+title: New academic leaders for Te Kawa a Mâui
+date: 2005-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00064/new-academic-leaders-for-te-kawa-a-maui.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/01/28/new-academic-leaders-for-te-kawa-a-m/index.html
+layout: layout.njk
 ---
 New academic leaders for Te Kawa a Mâui
 =======================================

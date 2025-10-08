@@ -1,9 +1,12 @@
 ---
 slug: iconic-chch-radio-station-rdus-future-secured
-title: "Iconic Chch Radio Station RDU's Future Secured"
-date: 2006-11-28
-source-url: https://www.scoop.co.nz/stories/CU0611/S00305/iconic-chch-radio-station-rdus-future-secured.htm
+title: Iconic Chch Radio Station RDU's Future Secured
+date: 2006-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0611/S00305/iconic-chch-radio-station-rdus-future-secured.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2006/11/28/iconic-chch-radio-station-rdus-future-secured/index.html
+layout: layout.njk
 ---
 Iconic Chch Radio Station RDU's Future Secured
 ==============================================

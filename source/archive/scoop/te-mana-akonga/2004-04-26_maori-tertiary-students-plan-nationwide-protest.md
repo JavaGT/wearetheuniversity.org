@@ -1,9 +1,12 @@
 ---
 slug: maori-tertiary-students-plan-nationwide-protest
-title: "Maori Tertiary Students Plan Nationwide Protest"
-date: 2004-04-26
-source-url: https://www.scoop.co.nz/stories/PO0404/S00161/maori-tertiary-students-plan-nationwide-protest.htm
+title: Maori Tertiary Students Plan Nationwide Protest
+date: 2004-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0404/S00161/maori-tertiary-students-plan-nationwide-protest.htm
 author: te-mana-akonga
+permalink: /archive/2004/04/26/maori-tertiary-students-plan-nationwide-protest/index.html
+layout: layout.njk
 ---
 Maori Tertiary Students Plan Nationwide Protest
 ===============================================

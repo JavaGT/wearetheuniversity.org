@@ -1,9 +1,12 @@
 ---
 slug: cops-on-bikes-will-crims-play-by-the-new-rules
-title: "Cops on bikes - will crims play by the new rules?"
-date: 2009-10-28
-source-url: https://www.scoop.co.nz/stories/PA0910/S00417/cops-on-bikes-will-crims-play-by-the-new-rules.htm
+title: Cops on bikes - will crims play by the new rules?
+date: 2009-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00417/cops-on-bikes-will-crims-play-by-the-new-rules.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/28/cops-on-bikes-will-crims-play-by-the-new-rules/index.html
+layout: layout.njk
 ---
 Cops on bikes - will crims play by the new rules?
 =================================================

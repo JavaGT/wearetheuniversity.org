@@ -1,9 +1,13 @@
 ---
 slug: travel-funding-available-to-meet-nobel-prize-winne
-title: "Travel funding available to meet Nobel Prize winne"
-date: 2001-05-25
-source-url: https://www.scoop.co.nz/stories/SC0105/S00080/travel-funding-available-to-meet-nobel-prize-winne.htm
+title: Travel funding available to meet Nobel Prize winne
+date: 2001-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0105/S00080/travel-funding-available-to-meet-nobel-prize-winne.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/05/25/travel-funding-available-to-meet-nobel-prize-winne/index.html
+layout: layout.njk
 ---
 Travel funding available to meet Nobel Prize winne
 ==================================================

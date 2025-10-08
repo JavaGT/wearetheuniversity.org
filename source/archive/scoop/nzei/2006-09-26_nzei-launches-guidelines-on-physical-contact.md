@@ -1,9 +1,12 @@
 ---
 slug: nzei-launches-guidelines-on-physical-contact
-title: "NZEI Launches Guidelines On Physical Contact"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/ED0609/S00097/nzei-launches-guidelines-on-physical-contact.htm
+title: NZEI Launches Guidelines On Physical Contact
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00097/nzei-launches-guidelines-on-physical-contact.htm
 author: nzei
+permalink: /archive/2006/09/26/nzei-launches-guidelines-on-physical-contact/index.html
+layout: layout.njk
 ---
 NZEI Launches Guidelines On Physical Contact
 ============================================

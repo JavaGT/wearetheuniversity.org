@@ -1,9 +1,13 @@
 ---
 slug: barak-obamas-advisor-indirectly-helping-uc-students-enjoy-l
-title: "Barak Obama’s Advisor Indirectly Helping UC Students Enjoy L"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/ED1303/S00023/barak-obamas-advisor-indirectly-helping-uc-students-enjoy-l.htm
+title: Barak Obama’s Advisor Indirectly Helping UC Students Enjoy L
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00023/barak-obamas-advisor-indirectly-helping-uc-students-enjoy-l.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/05/barak-obamas-advisor-indirectly-helping-uc-students-enjoy-l/index.html
+layout: layout.njk
 ---
 Barak Obama’s Advisor Indirectly Helping UC Students Enjoy L
 ============================================================

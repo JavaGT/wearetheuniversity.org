@@ -1,9 +1,13 @@
 ---
 slug: single-sex-schools-reduce-gender-gap-in-education
-title: "Single-sex schools reduce gender gap in education"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/ED0908/S00066/single-sex-schools-reduce-gender-gap-in-education.htm
+title: Single-sex schools reduce gender gap in education
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00066/single-sex-schools-reduce-gender-gap-in-education.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/08/20/single-sex-schools-reduce-gender-gap-in-education/index.html
+layout: layout.njk
 ---
 Single-sex schools reduce gender gap in education
 =================================================

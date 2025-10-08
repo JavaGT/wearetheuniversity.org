@@ -1,9 +1,12 @@
 ---
 slug: smaller-class-sizes-questions-and-answers
-title: "Smaller Class Sizes - Questions and Answers"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00655/smaller-class-sizes-questions-and-answers.htm
+title: Smaller Class Sizes - Questions and Answers
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00655/smaller-class-sizes-questions-and-answers.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/25/smaller-class-sizes-questions-and-answers/index.html
+layout: layout.njk
 ---
 Smaller Class Sizes - Questions and Answers
 ===========================================

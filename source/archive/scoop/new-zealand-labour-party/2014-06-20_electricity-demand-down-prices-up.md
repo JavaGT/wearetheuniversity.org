@@ -1,9 +1,12 @@
 ---
 slug: electricity-demand-down-prices-up
-title: "Electricity demand down – prices up"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/PA1406/S00330/electricity-demand-down-prices-up.htm
+title: Electricity demand down – prices up
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00330/electricity-demand-down-prices-up.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/20/electricity-demand-down-prices-up/index.html
+layout: layout.njk
 ---
 Electricity demand down – prices up
 ===================================

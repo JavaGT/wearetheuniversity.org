@@ -1,9 +1,12 @@
 ---
 slug: national-releases-notes-from-us-meeting
-title: "National releases notes from US meeting"
-date: 2005-08-03
-source-url: https://www.scoop.co.nz/stories/PA0508/S00095/national-releases-notes-from-us-meeting.htm
+title: National releases notes from US meeting
+date: 2005-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00095/national-releases-notes-from-us-meeting.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/03/national-releases-notes-from-us-meeting/index.html
+layout: layout.njk
 ---
 National releases notes from US meeting
 =======================================

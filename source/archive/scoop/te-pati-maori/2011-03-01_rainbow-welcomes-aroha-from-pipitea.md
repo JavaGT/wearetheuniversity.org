@@ -1,9 +1,12 @@
 ---
 slug: rainbow-welcomes-aroha-from-pipitea
-title: "Rainbow Welcomes Aroha from Pipitea"
-date: 2011-03-01
-source-url: https://www.scoop.co.nz/stories/PA1103/S00007/rainbow-welcomes-aroha-from-pipitea.htm
+title: Rainbow Welcomes Aroha from Pipitea
+date: 2011-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00007/rainbow-welcomes-aroha-from-pipitea.htm
 author: te-pati-maori
+permalink: /archive/2011/03/01/rainbow-welcomes-aroha-from-pipitea/index.html
+layout: layout.njk
 ---
 Rainbow Welcomes Aroha from Pipitea
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: government-wont-front-up-to-students
-title: "Government won’t front up to students"
-date: 2009-05-27
-source-url: https://www.scoop.co.nz/stories/ED0905/S00110/government-wont-front-up-to-students.htm
+title: Government won’t front up to students
+date: 2009-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00110/government-wont-front-up-to-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/05/27/government-wont-front-up-to-students/index.html
+layout: layout.njk
 ---
 Government won’t front up to students
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: campus-communists-embrace-capitalism
-title: "Campus Communists Embrace Capitalism"
-date: 2000-09-08
-source-url: https://www.scoop.co.nz/stories/ED0009/S00013/campus-communists-embrace-capitalism.htm
+title: Campus Communists Embrace Capitalism
+date: 2000-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00013/campus-communists-embrace-capitalism.htm
 author: prebble-s-rebels
+permalink: /archive/2000/09/08/campus-communists-embrace-capitalism/index.html
+layout: layout.njk
 ---
 Campus Communists Embrace Capitalism
 ====================================

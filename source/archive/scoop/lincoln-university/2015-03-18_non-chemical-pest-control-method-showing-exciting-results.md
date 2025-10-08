@@ -1,9 +1,13 @@
 ---
 slug: non-chemical-pest-control-method-showing-exciting-results
-title: "Non-chemical pest control method showing exciting results"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/SC1503/S00069/non-chemical-pest-control-method-showing-exciting-results.htm
+title: Non-chemical pest control method showing exciting results
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00069/non-chemical-pest-control-method-showing-exciting-results.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/03/18/non-chemical-pest-control-method-showing-exciting-results/index.html
+layout: layout.njk
 ---
 Non-chemical pest control method showing exciting results
 =========================================================

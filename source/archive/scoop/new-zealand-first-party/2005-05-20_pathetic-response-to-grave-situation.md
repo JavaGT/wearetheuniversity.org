@@ -1,9 +1,12 @@
 ---
 slug: pathetic-response-to-grave-situation
-title: "Pathetic Response To Grave Situation"
-date: 2005-05-20
-source-url: https://www.scoop.co.nz/stories/PA0505/S00561/pathetic-response-to-grave-situation.htm
+title: Pathetic Response To Grave Situation
+date: 2005-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00561/pathetic-response-to-grave-situation.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/20/pathetic-response-to-grave-situation/index.html
+layout: layout.njk
 ---
 Pathetic Response To Grave Situation
 ====================================

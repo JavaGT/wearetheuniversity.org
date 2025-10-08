@@ -1,9 +1,12 @@
 ---
 slug: campaigner-against-global-warming-in-auckland
-title: "Campaigner against global warming in Auckland"
-date: 2006-03-27
-source-url: https://www.scoop.co.nz/stories/SC0603/S00066/campaigner-against-global-warming-in-auckland.htm
+title: Campaigner against global warming in Auckland
+date: 2006-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0603/S00066/campaigner-against-global-warming-in-auckland.htm
 author: auckland-university
+permalink: /archive/2006/03/27/campaigner-against-global-warming-in-auckland/index.html
+layout: layout.njk
 ---
 Campaigner against global warming in Auckland
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: entries-open-for-nz-food-awards
-title: "Entries Open for NZ Food Awards"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/AK1205/S00651/entries-open-for-nz-food-awards.htm
+title: Entries Open for NZ Food Awards
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1205/S00651/entries-open-for-nz-food-awards.htm
 author: massey-university
+permalink: /archive/2012/05/29/entries-open-for-nz-food-awards/index.html
+layout: layout.njk
 ---
 Entries Open for NZ Food Awards
 ===============================

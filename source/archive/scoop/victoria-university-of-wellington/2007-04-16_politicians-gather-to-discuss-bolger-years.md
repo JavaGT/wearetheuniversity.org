@@ -1,9 +1,12 @@
 ---
 slug: politicians-gather-to-discuss-bolger-years
-title: "Politicians gather to discuss Bolger Years"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/PO0704/S00190/politicians-gather-to-discuss-bolger-years.htm
+title: Politicians gather to discuss Bolger Years
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0704/S00190/politicians-gather-to-discuss-bolger-years.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/04/16/politicians-gather-to-discuss-bolger-years/index.html
+layout: layout.njk
 ---
 Politicians gather to discuss Bolger Years
 ==========================================

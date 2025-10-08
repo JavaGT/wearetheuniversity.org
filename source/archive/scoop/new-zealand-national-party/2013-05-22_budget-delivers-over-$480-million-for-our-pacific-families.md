@@ -1,9 +1,12 @@
 ---
 slug: budget-delivers-over-$480-million-for-our-pacific-families
-title: "Budget delivers over $480 million for our Pacific Families"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/PO1305/S00321/budget-delivers-over-480-million-for-our-pacific-families.htm
+title: Budget delivers over $480 million for our Pacific Families
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00321/budget-delivers-over-480-million-for-our-pacific-families.htm
 author: new-zealand-national-party
+permalink: /archive/2013/05/22/budget-delivers-over-/index.html
+layout: layout.njk
 ---
 Budget delivers over $480 million for our Pacific Families
 ==========================================================

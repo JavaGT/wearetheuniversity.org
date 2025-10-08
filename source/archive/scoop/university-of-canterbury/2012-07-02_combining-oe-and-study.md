@@ -1,9 +1,11 @@
 ---
 slug: combining-oe-and-study
-title: "Combining OE and study"
-date: 2012-07-02
+title: Combining OE and study
+date: 2012-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1207/S00004/combining-oe-and-study.htm
 author: university-of-canterbury
+permalink: /archive/2012/07/02/combining-oe-and-study/index.html
+layout: layout.njk
 ---
 Combining OE and study
 ======================

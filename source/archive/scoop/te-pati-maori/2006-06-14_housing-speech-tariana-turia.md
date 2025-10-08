@@ -1,9 +1,11 @@
 ---
 slug: housing-speech-tariana-turia
-title: "Housing Speech -Tariana Turia,"
-date: 2006-06-14
+title: Housing Speech -Tariana Turia,
+date: 2006-06-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00221/housing-speech-tariana-turia.htm
 author: te-pati-maori
+permalink: /archive/2006/06/14/housing-speech-tariana-turia/index.html
+layout: layout.njk
 ---
 Housing Speech -Tariana Turia,
 ==============================

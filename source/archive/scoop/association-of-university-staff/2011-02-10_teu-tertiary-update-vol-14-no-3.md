@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-14-no-3
-title: "TEU Tertiary Update Vol 14 No 3"
-date: 2011-02-10
-source-url: https://www.scoop.co.nz/stories/ED1102/S00030/teu-tertiary-update-vol-14-no-3.htm
+title: TEU Tertiary Update Vol 14 No 3
+date: 2011-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00030/teu-tertiary-update-vol-14-no-3.htm
 author: association-of-university-staff
+permalink: /archive/2011/02/10/teu-tertiary-update-vol-14-no-3/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 14 No 3
 ===============================

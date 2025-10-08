@@ -1,9 +1,12 @@
 ---
 slug: reading-programme-a-real-page-turner
-title: "Reading programme a real page turner"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/ED0903/S00006/reading-programme-a-real-page-turner.htm
+title: Reading programme a real page turner
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00006/reading-programme-a-real-page-turner.htm
 author: massey-university
+permalink: /archive/2009/03/02/reading-programme-a-real-page-turner/index.html
+layout: layout.njk
 ---
 Reading programme a real page turner
 ====================================

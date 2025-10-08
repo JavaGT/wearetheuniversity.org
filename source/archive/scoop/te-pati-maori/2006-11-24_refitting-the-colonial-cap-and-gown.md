@@ -1,9 +1,12 @@
 ---
 slug: refitting-the-colonial-cap-and-gown
-title: "Refitting the Colonial Cap and Gown"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/PA0611/S00485/refitting-the-colonial-cap-and-gown.htm
+title: Refitting the Colonial Cap and Gown
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00485/refitting-the-colonial-cap-and-gown.htm
 author: te-pati-maori
+permalink: /archive/2006/11/24/refitting-the-colonial-cap-and-gown/index.html
+layout: layout.njk
 ---
 Refitting the Colonial Cap and Gown
 ===================================

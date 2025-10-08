@@ -1,9 +1,11 @@
 ---
 slug: may-4-2006-collins-comments
-title: "May 4 2006 - Collins Comments"
-date: 2006-05-05
+title: May 4 2006 - Collins Comments
+date: 2006-05-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00131/may-4-2006-collins-comments.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/05/may-4-2006-collins-comments/index.html
+layout: layout.njk
 ---
 May 4 2006 - Collins Comments
 =============================

@@ -1,9 +1,16 @@
 ---
-slug: budget-a-chance-to-unlock-universities-full-potential-to-enhance-new-zealanders-wellbeing-and-prosperity
-title: "Budget A Chance To Unlock Universities’ Full Potential To Enhance New Zealanders’ Wellbeing And Prosperity"
-date: 2022-05-10
-source-url: https://www.scoop.co.nz/stories/PO2205/S00076/budget-a-chance-to-unlock-universities-full-potential-to-enhance-new-zealanders-wellbeing-and-prosperity.htm
+slug: >-
+  budget-a-chance-to-unlock-universities-full-potential-to-enhance-new-zealanders-wellbeing-and-prosperity
+title: >-
+  Budget A Chance To Unlock Universities’ Full Potential To Enhance New
+  Zealanders’ Wellbeing And Prosperity
+date: 2022-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00076/budget-a-chance-to-unlock-universities-full-potential-to-enhance-new-zealanders-wellbeing-and-prosperity.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/05/10/budget-a-chance-to-unlock-universities-full-potential-to-enhance-new-zealanders-wellbeing-and-prosperity/index.html
+layout: layout.njk
 ---
 Budget A Chance To Unlock Universities’ Full Potential To Enhance New Zealanders’ Wellbeing And Prosperity
 ==========================================================================================================

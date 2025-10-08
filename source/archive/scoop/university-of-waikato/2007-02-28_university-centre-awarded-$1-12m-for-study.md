@@ -1,9 +1,12 @@
 ---
 slug: university-centre-awarded-$1-12m-for-study
-title: "University Centre awarded $1.12m for study"
-date: 2007-02-28
-source-url: https://www.scoop.co.nz/stories/SC0702/S00066/university-centre-awarded-112m-for-study.htm
+title: University Centre awarded $1.12m for study
+date: 2007-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00066/university-centre-awarded-112m-for-study.htm
 author: university-of-waikato
+permalink: /archive/2007/02/28/university-centre-awarded-/index.html
+layout: layout.njk
 ---
 University Centre awarded $1.12m for study
 ==========================================

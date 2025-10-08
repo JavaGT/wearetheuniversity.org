@@ -1,9 +1,11 @@
 ---
 slug: rebel-parents-take-on-tolley
-title: "Rebel parents take on Tolley"
-date: 2010-11-03
+title: Rebel parents take on Tolley
+date: 2010-11-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1011/S00043/rebel-parents-take-on-tolley.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/03/rebel-parents-take-on-tolley/index.html
+layout: layout.njk
 ---
 Rebel parents take on Tolley
 ============================

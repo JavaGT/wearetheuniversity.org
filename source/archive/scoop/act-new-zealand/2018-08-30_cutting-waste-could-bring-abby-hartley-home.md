@@ -1,9 +1,12 @@
 ---
 slug: cutting-waste-could-bring-abby-hartley-home
-title: "Cutting waste could bring Abby Hartley home"
-date: 2018-08-30
-source-url: https://www.scoop.co.nz/stories/PA1808/S00334/cutting-waste-could-bring-abby-hartley-home.htm
+title: Cutting waste could bring Abby Hartley home
+date: 2018-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00334/cutting-waste-could-bring-abby-hartley-home.htm
 author: act-new-zealand
+permalink: /archive/2018/08/30/cutting-waste-could-bring-abby-hartley-home/index.html
+layout: layout.njk
 ---
 Cutting waste could bring Abby Hartley home
 ===========================================

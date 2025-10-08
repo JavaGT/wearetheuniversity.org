@@ -1,9 +1,12 @@
 ---
 slug: emeritus-professors-history-wins-biennial-prize
-title: "Emeritus Professor's History Wins Biennial Prize"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/ED0404/S00028/emeritus-professors-history-wins-biennial-prize.htm
+title: Emeritus Professor's History Wins Biennial Prize
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00028/emeritus-professors-history-wins-biennial-prize.htm
 author: auckland-university-press
+permalink: /archive/2004/04/08/emeritus-professors-history-wins-biennial-prize/index.html
+layout: layout.njk
 ---
 Emeritus Professor's History Wins Biennial Prize
 ================================================

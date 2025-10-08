@@ -1,9 +1,13 @@
 ---
 slug: warrant-of-fitness-to-start-in-wellington-and-dunedin
-title: "‘Warrant of Fitness’ to start in Wellington and Dunedin"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/AK1512/S00505/warrant-of-fitness-to-start-in-wellington-and-dunedin.htm
+title: ‘Warrant of Fitness’ to start in Wellington and Dunedin
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1512/S00505/warrant-of-fitness-to-start-in-wellington-and-dunedin.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/17/warrant-of-fitness-to-start-in-wellington-and-dunedin/index.html
+layout: layout.njk
 ---
 ‘Warrant of Fitness’ to start in Wellington and Dunedin
 =======================================================

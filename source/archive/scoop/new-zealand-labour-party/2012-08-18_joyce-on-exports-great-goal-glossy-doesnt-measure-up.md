@@ -1,9 +1,13 @@
 ---
 slug: joyce-on-exports-great-goal-glossy-doesnt-measure-up
-title: "Joyce on exports: great goal, glossy doesn’t measure up"
-date: 2012-08-18
-source-url: https://www.scoop.co.nz/stories/PA1208/S00264/joyce-on-exports-great-goal-glossy-doesnt-measure-up.htm
+title: 'Joyce on exports: great goal, glossy doesn’t measure up'
+date: 2012-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00264/joyce-on-exports-great-goal-glossy-doesnt-measure-up.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/18/joyce-on-exports-great-goal-glossy-doesnt-measure-up/index.html
+layout: layout.njk
 ---
 Joyce on exports: great goal, glossy doesn’t measure up
 =======================================================

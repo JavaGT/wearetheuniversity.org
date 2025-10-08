@@ -1,9 +1,12 @@
 ---
 slug: medical-students-protest-against-fee-rises
-title: "Medical students protest against fee rises"
-date: 2004-12-07
-source-url: https://www.scoop.co.nz/stories/ED0412/S00025/medical-students-protest-against-fee-rises.htm
+title: Medical students protest against fee rises
+date: 2004-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00025/medical-students-protest-against-fee-rises.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/12/07/medical-students-protest-against-fee-rises/index.html
+layout: layout.njk
 ---
 Medical students protest against fee rises
 ==========================================

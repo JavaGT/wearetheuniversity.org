@@ -1,9 +1,12 @@
 ---
 slug: call-for-independent-inquiry-into-chch-prisons
-title: "Call For Independent Inquiry Into Chch Prisons"
-date: 2001-06-11
-source-url: https://www.scoop.co.nz/stories/PA0106/S00117/call-for-independent-inquiry-into-chch-prisons.htm
+title: Call For Independent Inquiry Into Chch Prisons
+date: 2001-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00117/call-for-independent-inquiry-into-chch-prisons.htm
 author: new-zealand-first-party
+permalink: /archive/2001/06/11/call-for-independent-inquiry-into-chch-prisons/index.html
+layout: layout.njk
 ---
 Call For Independent Inquiry Into Chch Prisons
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: 37000-great-reasons-for-pasifika-business
-title: "37,000 great reasons for Pasifika business"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/AK0609/S00231/37000-great-reasons-for-pasifika-business.htm
+title: 37,000 great reasons for Pasifika business
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0609/S00231/37000-great-reasons-for-pasifika-business.htm
 author: aut-university
+permalink: /archive/2006/09/25/37000-great-reasons-for-pasifika-business/index.html
+layout: layout.njk
 ---
 37,000 great reasons for Pasifika business
 ==========================================

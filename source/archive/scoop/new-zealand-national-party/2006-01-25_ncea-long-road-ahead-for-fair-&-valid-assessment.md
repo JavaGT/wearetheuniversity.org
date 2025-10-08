@@ -1,9 +1,12 @@
 ---
 slug: ncea-long-road-ahead-for-fair-&-valid-assessment
-title: "NCEA: Long road ahead for fair & valid assessment"
-date: 2006-01-25
-source-url: https://www.scoop.co.nz/stories/PA0601/S00127/ncea-long-road-ahead-for-fair-valid-assessment.htm
+title: 'NCEA: Long road ahead for fair & valid assessment'
+date: 2006-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00127/ncea-long-road-ahead-for-fair-valid-assessment.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/25/ncea-long-road-ahead-for-fair-/index.html
+layout: layout.njk
 ---
 NCEA: Long road ahead for fair & valid assessment
 =================================================

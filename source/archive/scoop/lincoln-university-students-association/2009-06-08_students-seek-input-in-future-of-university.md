@@ -1,9 +1,12 @@
 ---
 slug: students-seek-input-in-future-of-university
-title: "Students seek input in future of university"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/ED0906/S00025/students-seek-input-in-future-of-university.htm
+title: Students seek input in future of university
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00025/students-seek-input-in-future-of-university.htm
 author: lincoln-university-students-association
+permalink: /archive/2009/06/08/students-seek-input-in-future-of-university/index.html
+layout: layout.njk
 ---
 Students seek input in future of university
 ===========================================

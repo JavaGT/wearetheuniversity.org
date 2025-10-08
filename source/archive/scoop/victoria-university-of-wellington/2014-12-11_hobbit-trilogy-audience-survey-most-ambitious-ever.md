@@ -1,9 +1,13 @@
 ---
 slug: hobbit-trilogy-audience-survey-most-ambitious-ever
-title: "Hobbit trilogy audience survey ‘most ambitious ever’"
-date: 2014-12-11
-source-url: https://www.scoop.co.nz/stories/CU1412/S00246/hobbit-trilogy-audience-survey-most-ambitious-ever.htm
+title: Hobbit trilogy audience survey ‘most ambitious ever’
+date: 2014-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00246/hobbit-trilogy-audience-survey-most-ambitious-ever.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/11/hobbit-trilogy-audience-survey-most-ambitious-ever/index.html
+layout: layout.njk
 ---
 Hobbit trilogy audience survey ‘most ambitious ever’
 ====================================================

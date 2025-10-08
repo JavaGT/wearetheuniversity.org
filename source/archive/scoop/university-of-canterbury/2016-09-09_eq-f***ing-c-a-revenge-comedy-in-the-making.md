@@ -1,9 +1,12 @@
 ---
 slug: eq-f***ing-c-a-revenge-comedy-in-the-making
-title: "‘EQ f***ing C’ – A Revenge Comedy in the making"
-date: 2016-09-09
-source-url: https://www.scoop.co.nz/stories/AK1609/S00277/eq-fing-c-a-revenge-comedy-in-the-making.htm
+title: ‘EQ f***ing C’ – A Revenge Comedy in the making
+date: 2016-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00277/eq-fing-c-a-revenge-comedy-in-the-making.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/09/eq-f/index.html
+layout: layout.njk
 ---
 ‘EQ f\*\*\*ing C’ – A Revenge Comedy in the making
 ==================================================

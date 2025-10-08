@@ -1,9 +1,13 @@
 ---
 slug: new-research-centre-formed-at-victoria-university
-title: "New research centre formed at Victoria University"
-date: 2001-04-27
-source-url: https://www.scoop.co.nz/stories/BU0104/S00180/new-research-centre-formed-at-victoria-university.htm
+title: New research centre formed at Victoria University
+date: 2001-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0104/S00180/new-research-centre-formed-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2001/04/27/new-research-centre-formed-at-victoria-university/index.html
+layout: layout.njk
 ---
 New research centre formed at Victoria University
 =================================================

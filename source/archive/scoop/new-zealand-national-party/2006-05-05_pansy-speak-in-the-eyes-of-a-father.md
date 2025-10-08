@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-in-the-eyes-of-a-father
-title: "Pansy Speak: In the eyes of a Father"
-date: 2006-05-05
-source-url: https://www.scoop.co.nz/stories/PA0605/S00139/pansy-speak-in-the-eyes-of-a-father.htm
+title: 'Pansy Speak: In the eyes of a Father'
+date: 2006-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00139/pansy-speak-in-the-eyes-of-a-father.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/05/pansy-speak-in-the-eyes-of-a-father/index.html
+layout: layout.njk
 ---
 Pansy Speak: In the eyes of a Father
 ====================================

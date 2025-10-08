@@ -1,9 +1,12 @@
 ---
 slug: acts-the-letter-monday-april-11th-2005
-title: "ACT's The Letter - Monday April 11th, 2005"
-date: 2005-04-11
-source-url: https://www.scoop.co.nz/stories/PA0504/S00214/acts-the-letter-monday-april-11th-2005.htm
+title: ACT's The Letter - Monday April 11th, 2005
+date: 2005-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00214/acts-the-letter-monday-april-11th-2005.htm
 author: act-new-zealand
+permalink: /archive/2005/04/11/acts-the-letter-monday-april-11th-2005/index.html
+layout: layout.njk
 ---
 ACT's The Letter - Monday April 11th, 2005
 ==========================================

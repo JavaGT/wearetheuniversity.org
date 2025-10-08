@@ -1,9 +1,12 @@
 ---
 slug: famed-japanese-architect-to-give-public-lecture
-title: "Famed Japanese architect to give public lecture"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/CU0909/S00098/famed-japanese-architect-to-give-public-lecture.htm
+title: Famed Japanese architect to give public lecture
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00098/famed-japanese-architect-to-give-public-lecture.htm
 author: auckland-university
+permalink: /archive/2009/09/07/famed-japanese-architect-to-give-public-lecture/index.html
+layout: layout.njk
 ---
 Famed Japanese architect to give public lecture
 ===============================================

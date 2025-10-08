@@ -1,9 +1,11 @@
 ---
 slug: kiwis-want-jobs-not-excuses
-title: "Kiwis want jobs, not excuses"
-date: 2013-02-12
+title: Kiwis want jobs, not excuses
+date: 2013-02-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1302/S00132/kiwis-want-jobs-not-excuses.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/12/kiwis-want-jobs-not-excuses/index.html
+layout: layout.njk
 ---
 Kiwis want jobs, not excuses
 ============================

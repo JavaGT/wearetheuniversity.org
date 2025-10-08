@@ -1,9 +1,13 @@
 ---
 slug: seven-years-of-national-standards-and-nothing-to-show
-title: "Seven years of National Standards and nothing to show"
-date: 2017-08-18
-source-url: https://www.scoop.co.nz/stories/PO1708/S00387/seven-years-of-national-standards-and-nothing-to-show.htm
+title: Seven years of National Standards and nothing to show
+date: 2017-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00387/seven-years-of-national-standards-and-nothing-to-show.htm
 author: nzei
+permalink: >-
+  /archive/2017/08/18/seven-years-of-national-standards-and-nothing-to-show/index.html
+layout: layout.njk
 ---
 Seven years of National Standards and nothing to show
 =====================================================

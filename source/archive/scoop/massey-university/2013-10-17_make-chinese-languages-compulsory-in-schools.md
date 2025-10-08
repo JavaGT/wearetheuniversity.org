@@ -1,9 +1,12 @@
 ---
 slug: make-chinese-languages-compulsory-in-schools
-title: "Make Chinese languages compulsory in schools"
-date: 2013-10-17
-source-url: https://www.scoop.co.nz/stories/ED1310/S00116/make-chinese-languages-compulsory-in-schools.htm
+title: Make Chinese languages compulsory in schools
+date: 2013-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00116/make-chinese-languages-compulsory-in-schools.htm
 author: massey-university
+permalink: /archive/2013/10/17/make-chinese-languages-compulsory-in-schools/index.html
+layout: layout.njk
 ---
 Make Chinese languages compulsory in schools
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: joyce-passing-buck-over-foreign-students
-title: "Joyce Passing Buck Over Foreign Students"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/PA1609/S00369/joyce-passing-buck-over-foreign-students.htm
+title: Joyce Passing Buck Over Foreign Students
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00369/joyce-passing-buck-over-foreign-students.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/20/joyce-passing-buck-over-foreign-students/index.html
+layout: layout.njk
 ---
 Joyce Passing Buck Over Foreign Students
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: former-volunteer-army-leader-everyday-systems-are-priority
-title: "Former Volunteer Army leader: everyday systems are priority"
-date: 2014-11-21
-source-url: https://www.scoop.co.nz/stories/ED1411/S00138/former-volunteer-army-leader-everyday-systems-are-priority.htm
+title: 'Former Volunteer Army leader: everyday systems are priority'
+date: 2014-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00138/former-volunteer-army-leader-everyday-systems-are-priority.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/21/former-volunteer-army-leader-everyday-systems-are-priority/index.html
+layout: layout.njk
 ---
 Former Volunteer Army leader: everyday systems are priority
 ===========================================================

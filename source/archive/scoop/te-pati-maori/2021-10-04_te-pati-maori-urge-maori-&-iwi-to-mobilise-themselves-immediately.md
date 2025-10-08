@@ -1,9 +1,12 @@
 ---
 slug: te-pati-maori-urge-maori-&-iwi-to-mobilise-themselves-immediately
-title: "Te Pati Maori Urge Maori & Iwi To Mobilise Themselves Immediately"
-date: 2021-10-04
-source-url: https://www.scoop.co.nz/stories/PA2110/S00033/te-pati-maori-urge-maori-iwi-to-mobilise-themselves-immediately.htm
+title: Te Pati Maori Urge Maori & Iwi To Mobilise Themselves Immediately
+date: 2021-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00033/te-pati-maori-urge-maori-iwi-to-mobilise-themselves-immediately.htm
 author: te-pati-maori
+permalink: /archive/2021/10/04/te-pati-maori-urge-maori-/index.html
+layout: layout.njk
 ---
 Te Pati Maori Urge Maori & Iwi To Mobilise Themselves Immediately
 =================================================================

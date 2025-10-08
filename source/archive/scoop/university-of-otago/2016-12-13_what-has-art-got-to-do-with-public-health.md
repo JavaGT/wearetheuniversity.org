@@ -1,9 +1,12 @@
 ---
 slug: what-has-art-got-to-do-with-public-health
-title: "What has Art got to do with Public Health?"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/ED1612/S00052/what-has-art-got-to-do-with-public-health.htm
+title: What has Art got to do with Public Health?
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00052/what-has-art-got-to-do-with-public-health.htm
 author: university-of-otago
+permalink: /archive/2016/12/13/what-has-art-got-to-do-with-public-health/index.html
+layout: layout.njk
 ---
 What has Art got to do with Public Health?
 ==========================================

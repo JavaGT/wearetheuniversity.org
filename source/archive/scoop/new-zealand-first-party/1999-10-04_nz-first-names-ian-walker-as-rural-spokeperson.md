@@ -1,9 +1,12 @@
 ---
 slug: nz-first-names-ian-walker-as-rural-spokeperson
-title: "NZ First Names Ian Walker as rural spokeperson"
-date: 1999-10-04
-source-url: https://www.scoop.co.nz/stories/PA9910/S00050/nz-first-names-ian-walker-as-rural-spokeperson.htm
+title: NZ First Names Ian Walker as rural spokeperson
+date: 1999-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00050/nz-first-names-ian-walker-as-rural-spokeperson.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/04/nz-first-names-ian-walker-as-rural-spokeperson/index.html
+layout: layout.njk
 ---
 NZ First Names Ian Walker as rural spokeperson
 ==============================================

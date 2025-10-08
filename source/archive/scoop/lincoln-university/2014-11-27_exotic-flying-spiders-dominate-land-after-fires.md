@@ -1,9 +1,12 @@
 ---
 slug: exotic-flying-spiders-dominate-land-after-fires
-title: "Exotic flying spiders dominate land after fires"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/SC1411/S00078/exotic-flying-spiders-dominate-land-after-fires.htm
+title: Exotic flying spiders dominate land after fires
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00078/exotic-flying-spiders-dominate-land-after-fires.htm
 author: lincoln-university
+permalink: /archive/2014/11/27/exotic-flying-spiders-dominate-land-after-fires/index.html
+layout: layout.njk
 ---
 Exotic flying spiders dominate land after fires
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: progress-can-be-made-on-paid-parental-leave
-title: "Progress can be made on paid parental leave"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/PA1204/S00186/progress-can-be-made-on-paid-parental-leave.htm
+title: Progress can be made on paid parental leave
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00186/progress-can-be-made-on-paid-parental-leave.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/16/progress-can-be-made-on-paid-parental-leave/index.html
+layout: layout.njk
 ---
 Progress can be made on paid parental leave
 ===========================================

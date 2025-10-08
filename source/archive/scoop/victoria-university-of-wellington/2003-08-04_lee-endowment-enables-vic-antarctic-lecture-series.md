@@ -1,9 +1,13 @@
 ---
 slug: lee-endowment-enables-vic-antarctic-lecture-series
-title: "Lee endowment enables Vic Antarctic lecture series"
-date: 2003-08-04
-source-url: https://www.scoop.co.nz/stories/ED0308/S00013/lee-endowment-enables-vic-antarctic-lecture-series.htm
+title: Lee endowment enables Vic Antarctic lecture series
+date: 2003-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00013/lee-endowment-enables-vic-antarctic-lecture-series.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/08/04/lee-endowment-enables-vic-antarctic-lecture-series/index.html
+layout: layout.njk
 ---
 Lee endowment enables Vic Antarctic lecture series
 ==================================================

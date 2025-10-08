@@ -1,9 +1,13 @@
 ---
 slug: nitrogen-loss-research-benefits-from-scholarship
-title: "Nitrogen loss research benefits from scholarship"
-date: 2016-04-19
-source-url: https://www.scoop.co.nz/stories/SC1604/S00039/nitrogen-loss-research-benefits-from-scholarship.htm
+title: Nitrogen loss research benefits from scholarship
+date: 2016-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00039/nitrogen-loss-research-benefits-from-scholarship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/04/19/nitrogen-loss-research-benefits-from-scholarship/index.html
+layout: layout.njk
 ---
 Nitrogen loss research benefits from scholarship
 ================================================

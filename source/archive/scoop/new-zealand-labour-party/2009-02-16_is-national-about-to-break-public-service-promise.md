@@ -1,9 +1,13 @@
 ---
 slug: is-national-about-to-break-public-service-promise
-title: "Is National about to break public service promise?"
-date: 2009-02-16
-source-url: https://www.scoop.co.nz/stories/PA0902/S00219/is-national-about-to-break-public-service-promise.htm
+title: Is National about to break public service promise?
+date: 2009-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00219/is-national-about-to-break-public-service-promise.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/02/16/is-national-about-to-break-public-service-promise/index.html
+layout: layout.njk
 ---
 Is National about to break public service promise?
 ==================================================

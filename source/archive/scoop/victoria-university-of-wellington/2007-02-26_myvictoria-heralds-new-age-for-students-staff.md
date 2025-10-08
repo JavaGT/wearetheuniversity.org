@@ -1,9 +1,12 @@
 ---
 slug: myvictoria-heralds-new-age-for-students-staff
-title: "MyVictoria heralds new age for students, staff"
-date: 2007-02-26
-source-url: https://www.scoop.co.nz/stories/ED0702/S00093/myvictoria-heralds-new-age-for-students-staff.htm
+title: MyVictoria heralds new age for students, staff
+date: 2007-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00093/myvictoria-heralds-new-age-for-students-staff.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/02/26/myvictoria-heralds-new-age-for-students-staff/index.html
+layout: layout.njk
 ---
 MyVictoria heralds new age for students, staff
 ==============================================

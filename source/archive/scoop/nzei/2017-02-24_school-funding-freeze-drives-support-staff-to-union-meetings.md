@@ -1,9 +1,13 @@
 ---
 slug: school-funding-freeze-drives-support-staff-to-union-meetings
-title: "School funding freeze drives support staff to union meetings"
-date: 2017-02-24
-source-url: https://www.scoop.co.nz/stories/PO1702/S00277/school-funding-freeze-drives-support-staff-to-union-meetings.htm
+title: School funding freeze drives support staff to union meetings
+date: 2017-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00277/school-funding-freeze-drives-support-staff-to-union-meetings.htm
 author: nzei
+permalink: >-
+  /archive/2017/02/24/school-funding-freeze-drives-support-staff-to-union-meetings/index.html
+layout: layout.njk
 ---
 School funding freeze drives support staff to union meetings
 ============================================================

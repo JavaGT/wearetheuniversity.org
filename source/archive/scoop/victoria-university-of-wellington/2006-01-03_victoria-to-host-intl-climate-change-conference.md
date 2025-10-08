@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-host-intl-climate-change-conference
-title: "Victoria to host intl. climate change conference"
-date: 2006-01-03
-source-url: https://www.scoop.co.nz/stories/SC0601/S00001/victoria-to-host-intl-climate-change-conference.htm
+title: Victoria to host intl. climate change conference
+date: 2006-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0601/S00001/victoria-to-host-intl-climate-change-conference.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/01/03/victoria-to-host-intl-climate-change-conference/index.html
+layout: layout.njk
 ---
 Victoria to host intl. climate change conference
 ================================================

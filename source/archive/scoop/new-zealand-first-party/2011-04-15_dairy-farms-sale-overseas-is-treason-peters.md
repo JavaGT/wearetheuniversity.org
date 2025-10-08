@@ -1,9 +1,12 @@
 ---
 slug: dairy-farms-sale-overseas-is-treason-peters
-title: "Dairy Farms Sale Overseas is \"Treason\" - Peters"
-date: 2011-04-15
-source-url: https://www.scoop.co.nz/stories/PO1104/S00212/dairy-farms-sale-overseas-is-treason-peters.htm
+title: Dairy Farms Sale Overseas is "Treason" - Peters
+date: 2011-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00212/dairy-farms-sale-overseas-is-treason-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2011/04/15/dairy-farms-sale-overseas-is-treason-peters/index.html
+layout: layout.njk
 ---
 Dairy Farms Sale Overseas is “Treason” - Peters
 ===============================================

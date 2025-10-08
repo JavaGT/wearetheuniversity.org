@@ -1,9 +1,12 @@
 ---
 slug: waikato-teams-win-at-microsoft-imagine-cup
-title: "Waikato Teams Win At Microsoft Imagine Cup"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/ED1303/S00200/waikato-teams-win-at-microsoft-imagine-cup.htm
+title: Waikato Teams Win At Microsoft Imagine Cup
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00200/waikato-teams-win-at-microsoft-imagine-cup.htm
 author: university-of-waikato
+permalink: /archive/2013/03/28/waikato-teams-win-at-microsoft-imagine-cup/index.html
+layout: layout.njk
 ---
 Waikato Teams Win At Microsoft Imagine Cup
 ==========================================

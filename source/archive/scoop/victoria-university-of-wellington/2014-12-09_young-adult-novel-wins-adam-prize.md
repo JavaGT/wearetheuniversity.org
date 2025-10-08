@@ -1,9 +1,12 @@
 ---
 slug: young-adult-novel-wins-adam-prize
-title: "Young Adult novel wins Adam Prize"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/CU1412/S00195/young-adult-novel-wins-adam-prize.htm
+title: Young Adult novel wins Adam Prize
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00195/young-adult-novel-wins-adam-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/09/young-adult-novel-wins-adam-prize/index.html
+layout: layout.njk
 ---
 Young Adult novel wins Adam Prize
 =================================

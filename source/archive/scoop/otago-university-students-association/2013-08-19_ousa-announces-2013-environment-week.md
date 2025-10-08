@@ -1,9 +1,12 @@
 ---
 slug: ousa-announces-2013-environment-week
-title: "OUSA Announces 2013 Environment Week"
-date: 2013-08-19
-source-url: https://www.scoop.co.nz/stories/ED1308/S00091/ousa-announces-2013-environment-week.htm
+title: OUSA Announces 2013 Environment Week
+date: 2013-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00091/ousa-announces-2013-environment-week.htm
 author: otago-university-students-association
+permalink: /archive/2013/08/19/ousa-announces-2013-environment-week/index.html
+layout: layout.njk
 ---
 OUSA Announces 2013 Environment Week
 ====================================

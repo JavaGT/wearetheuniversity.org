@@ -1,9 +1,12 @@
 ---
 slug: today-the-real-bludgers-are-at-the-top
-title: "\"Today The Real Bludgers Are At The Top\""
-date: 1999-09-20
-source-url: https://www.scoop.co.nz/stories/PA9909/S00385/today-the-real-bludgers-are-at-the-top.htm
+title: '"Today The Real Bludgers Are At The Top"'
+date: 1999-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00385/today-the-real-bludgers-are-at-the-top.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/20/today-the-real-bludgers-are-at-the-top/index.html
+layout: layout.njk
 ---
 \"Today The Real Bludgers Are At The Top"
 ========================================

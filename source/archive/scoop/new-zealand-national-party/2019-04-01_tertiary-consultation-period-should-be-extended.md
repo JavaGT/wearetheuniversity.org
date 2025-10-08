@@ -1,9 +1,12 @@
 ---
 slug: tertiary-consultation-period-should-be-extended
-title: "Tertiary consultation period should be extended"
-date: 2019-04-01
-source-url: https://www.scoop.co.nz/stories/PA1904/S00009/tertiary-consultation-period-should-be-extended.htm
+title: Tertiary consultation period should be extended
+date: 2019-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00009/tertiary-consultation-period-should-be-extended.htm
 author: new-zealand-national-party
+permalink: /archive/2019/04/01/tertiary-consultation-period-should-be-extended/index.html
+layout: layout.njk
 ---
 Tertiary consultation period should be extended
 ===============================================

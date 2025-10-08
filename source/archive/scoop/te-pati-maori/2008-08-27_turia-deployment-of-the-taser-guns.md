@@ -1,9 +1,12 @@
 ---
 slug: turia-deployment-of-the-taser-guns
-title: "Turia: Deployment of the Taser Guns"
-date: 2008-08-27
-source-url: https://www.scoop.co.nz/stories/PA0808/S00422/turia-deployment-of-the-taser-guns.htm
+title: 'Turia: Deployment of the Taser Guns'
+date: 2008-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00422/turia-deployment-of-the-taser-guns.htm
 author: te-pati-maori
+permalink: /archive/2008/08/27/turia-deployment-of-the-taser-guns/index.html
+layout: layout.njk
 ---
 Turia: Deployment of the Taser Guns
 ===================================

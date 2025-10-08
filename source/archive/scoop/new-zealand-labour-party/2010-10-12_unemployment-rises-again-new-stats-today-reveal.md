@@ -1,9 +1,12 @@
 ---
 slug: unemployment-rises-again-new-stats-today-reveal
-title: "Unemployment rises again - new stats today reveal"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00157/unemployment-rises-again-new-stats-today-reveal.htm
+title: Unemployment rises again - new stats today reveal
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00157/unemployment-rises-again-new-stats-today-reveal.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/12/unemployment-rises-again-new-stats-today-reveal/index.html
+layout: layout.njk
 ---
 Unemployment rises again - new stats today reveal
 =================================================

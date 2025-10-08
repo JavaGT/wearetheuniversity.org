@@ -1,9 +1,13 @@
 ---
 slug: national-selects-nuk-korako-as-port-hills-candidate
-title: "National selects Nuk Korako as Port Hills candidate"
-date: 2014-06-12
-source-url: https://www.scoop.co.nz/stories/PO1406/S00177/national-selects-nuk-korako-as-port-hills-candidate.htm
+title: National selects Nuk Korako as Port Hills candidate
+date: 2014-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00177/national-selects-nuk-korako-as-port-hills-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/12/national-selects-nuk-korako-as-port-hills-candidate/index.html
+layout: layout.njk
 ---
 National selects Nuk Korako as Port Hills candidate
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: refugee-conference-to-launch-inspirational-book
-title: "Refugee Conference to Launch Inspirational Book"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/ED1111/S00146/refugee-conference-to-launch-inspirational-book.htm
+title: Refugee Conference to Launch Inspirational Book
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00146/refugee-conference-to-launch-inspirational-book.htm
 author: aut-university
+permalink: /archive/2011/11/22/refugee-conference-to-launch-inspirational-book/index.html
+layout: layout.njk
 ---
 Refugee Conference to Launch Inspirational Book
 ===============================================

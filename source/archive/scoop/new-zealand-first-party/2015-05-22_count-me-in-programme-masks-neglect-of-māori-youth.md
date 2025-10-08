@@ -1,9 +1,12 @@
 ---
 slug: count-me-in-programme-masks-neglect-of-māori-youth
-title: "Count Me In  Programme Masks Neglect of Māori Youth"
-date: 2015-05-22
-source-url: https://www.scoop.co.nz/stories/PA1505/S00401/count-me-in-programme-masks-neglect-of-maori-youth.htm
+title: Count Me In  Programme Masks Neglect of Māori Youth
+date: 2015-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00401/count-me-in-programme-masks-neglect-of-maori-youth.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/22/count-me-in-programme-masks-neglect-of-m/index.html
+layout: layout.njk
 ---
 Count Me In Programme Masks Neglect of Māori Youth
 ==================================================

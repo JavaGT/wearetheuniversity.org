@@ -1,9 +1,12 @@
 ---
 slug: minister-hides-benefit-cut-in-`good-news
-title: "Minister hides benefit cut in `good news'"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/PA0603/S00272/minister-hides-benefit-cut-in-good-news.htm
+title: Minister hides benefit cut in `good news'
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00272/minister-hides-benefit-cut-in-good-news.htm
 author: green-party
+permalink: /archive/2006/03/16/minister-hides-benefit-cut-in-/index.html
+layout: layout.njk
 ---
 Minister hides benefit cut in \`good news'
 ==========================================

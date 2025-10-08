@@ -1,9 +1,12 @@
 ---
 slug: banking-is-too-important-to-be-left-to-bankers
-title: "Banking is too important to be left to Bankers"
-date: 1999-08-18
-source-url: https://www.scoop.co.nz/stories/PA9908/S00314/banking-is-too-important-to-be-left-to-bankers.htm
+title: Banking is too important to be left to Bankers
+date: 1999-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00314/banking-is-too-important-to-be-left-to-bankers.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/18/banking-is-too-important-to-be-left-to-bankers/index.html
+layout: layout.njk
 ---
 Banking is too important to be left to Bankers
 ==============================================

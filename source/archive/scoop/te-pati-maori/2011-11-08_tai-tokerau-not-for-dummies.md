@@ -1,9 +1,11 @@
 ---
 slug: tai-tokerau-not-for-dummies
-title: "Tai Tokerau not for dummies"
-date: 2011-11-08
+title: Tai Tokerau not for dummies
+date: 2011-11-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1111/S00183/tai-tokerau-not-for-dummies.htm
 author: te-pati-maori
+permalink: /archive/2011/11/08/tai-tokerau-not-for-dummies/index.html
+layout: layout.njk
 ---
 Tai Tokerau not for dummies
 ===========================

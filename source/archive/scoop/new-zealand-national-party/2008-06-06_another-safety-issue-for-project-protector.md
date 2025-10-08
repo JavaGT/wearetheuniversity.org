@@ -1,9 +1,12 @@
 ---
 slug: another-safety-issue-for-project-protector
-title: "Another safety issue for Project Protector"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/PA0806/S00090/another-safety-issue-for-project-protector.htm
+title: Another safety issue for Project Protector
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00090/another-safety-issue-for-project-protector.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/06/another-safety-issue-for-project-protector/index.html
+layout: layout.njk
 ---
 Another safety issue for Project Protector
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: wise-teachers-will-see-through-warm-fuzzies
-title: "Wise Teachers Will See through Warm Fuzzies"
-date: 2014-02-11
-source-url: https://www.scoop.co.nz/stories/PA1402/S00127/wise-teachers-will-see-through-warm-fuzzies.htm
+title: Wise Teachers Will See through Warm Fuzzies
+date: 2014-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00127/wise-teachers-will-see-through-warm-fuzzies.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/11/wise-teachers-will-see-through-warm-fuzzies/index.html
+layout: layout.njk
 ---
 Wise Teachers Will See through Warm Fuzzies
 ===========================================

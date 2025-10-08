@@ -1,9 +1,12 @@
 ---
 slug: pre-budget-speech-barbara-edmonds
-title: "Pre-Budget Speech: Barbara Edmonds"
-date: 2024-05-21
-source-url: https://www.scoop.co.nz/stories/PA2405/S00142/pre-budget-speech-barbara-edmonds.htm
+title: 'Pre-Budget Speech: Barbara Edmonds'
+date: 2024-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00142/pre-budget-speech-barbara-edmonds.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/05/21/pre-budget-speech-barbara-edmonds/index.html
+layout: layout.njk
 ---
 Pre-Budget Speech: Barbara Edmonds
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: digital-immortality-in-an-online-age
-title: "Digital immortality in an online age"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/ED1403/S00023/digital-immortality-in-an-online-age.htm
+title: Digital immortality in an online age
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00023/digital-immortality-in-an-online-age.htm
 author: massey-university
+permalink: /archive/2014/03/05/digital-immortality-in-an-online-age/index.html
+layout: layout.njk
 ---
 Digital immortality in an online age
 ====================================

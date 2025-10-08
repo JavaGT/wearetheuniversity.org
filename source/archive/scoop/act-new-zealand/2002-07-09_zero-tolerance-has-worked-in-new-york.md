@@ -1,9 +1,12 @@
 ---
 slug: zero-tolerance-has-worked-in-new-york
-title: "Zero Tolerance Has Worked In New York"
-date: 2002-07-09
-source-url: https://www.scoop.co.nz/stories/PA0207/S00277/zero-tolerance-has-worked-in-new-york.htm
+title: Zero Tolerance Has Worked In New York
+date: 2002-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00277/zero-tolerance-has-worked-in-new-york.htm
 author: act-new-zealand
+permalink: /archive/2002/07/09/zero-tolerance-has-worked-in-new-york/index.html
+layout: layout.njk
 ---
 Zero Tolerance Has Worked In New York
 =====================================

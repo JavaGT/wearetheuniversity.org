@@ -1,9 +1,13 @@
 ---
 slug: full-impacts-of-education-policy-changes-were-not-revealed
-title: "Full impacts of education policy changes were not revealed"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/PA1206/S00007/full-impacts-of-education-policy-changes-were-not-revealed.htm
+title: Full impacts of education policy changes were not revealed
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00007/full-impacts-of-education-policy-changes-were-not-revealed.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/06/01/full-impacts-of-education-policy-changes-were-not-revealed/index.html
+layout: layout.njk
 ---
 Full impacts of education policy changes were not revealed
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-plunges-digital-future-into-uncertainty
-title: "Govt plunges digital future into uncertainty"
-date: 2009-02-05
-source-url: https://www.scoop.co.nz/stories/PA0902/S00082/govt-plunges-digital-future-into-uncertainty.htm
+title: Govt plunges digital future into uncertainty
+date: 2009-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00082/govt-plunges-digital-future-into-uncertainty.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/05/govt-plunges-digital-future-into-uncertainty/index.html
+layout: layout.njk
 ---
 Govt plunges digital future into uncertainty
 ============================================

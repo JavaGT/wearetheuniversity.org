@@ -1,9 +1,12 @@
 ---
 slug: health-minister-out-of-step-on-drug-law
-title: "Health Minister out of step on drug law"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/PA1603/S00497/health-minister-out-of-step-on-drug-law.htm
+title: Health Minister out of step on drug law
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00497/health-minister-out-of-step-on-drug-law.htm
 author: green-party
+permalink: /archive/2016/03/31/health-minister-out-of-step-on-drug-law/index.html
+layout: layout.njk
 ---
 Health Minister out of step on drug law
 =======================================

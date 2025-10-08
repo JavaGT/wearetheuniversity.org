@@ -1,9 +1,13 @@
 ---
 slug: bradford-welcomes-support-for-green-acc-amendment
-title: "Bradford Welcomes Support For Green ACC Amendment"
-date: 2001-09-10
-source-url: https://www.scoop.co.nz/stories/PA0109/S00117/bradford-welcomes-support-for-green-acc-amendment.htm
+title: Bradford Welcomes Support For Green ACC Amendment
+date: 2001-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00117/bradford-welcomes-support-for-green-acc-amendment.htm
 author: green-party
+permalink: >-
+  /archive/2001/09/10/bradford-welcomes-support-for-green-acc-amendment/index.html
+layout: layout.njk
 ---
 Bradford Welcomes Support For Green ACC Amendment
 =================================================

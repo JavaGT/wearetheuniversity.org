@@ -1,9 +1,13 @@
 ---
 slug: gorillas-unlike-humans-gorge-protein-yet-stay-slim
-title: "Gorillas, unlike humans, gorge protein yet stay slim"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/ED1106/S00096/gorillas-unlike-humans-gorge-protein-yet-stay-slim.htm
+title: Gorillas, unlike humans, gorge protein yet stay slim
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00096/gorillas-unlike-humans-gorge-protein-yet-stay-slim.htm
 author: massey-university
+permalink: >-
+  /archive/2011/06/23/gorillas-unlike-humans-gorge-protein-yet-stay-slim/index.html
+layout: layout.njk
 ---
 Gorillas, unlike humans, gorge protein yet stay slim
 ====================================================

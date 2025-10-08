@@ -1,9 +1,12 @@
 ---
 slug: engineering-design-on-show-at-waikato
-title: "Engineering design on show at Waikato"
-date: 2010-10-26
-source-url: https://www.scoop.co.nz/stories/ED1010/S00094/engineering-design-on-show-at-waikato.htm
+title: Engineering design on show at Waikato
+date: 2010-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00094/engineering-design-on-show-at-waikato.htm
 author: waikato-university
+permalink: /archive/2010/10/26/engineering-design-on-show-at-waikato/index.html
+layout: layout.njk
 ---
 Engineering design on show at Waikato
 =====================================

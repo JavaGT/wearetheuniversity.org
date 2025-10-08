@@ -1,9 +1,13 @@
 ---
 slug: act-the-right-partner-for-the-john-key-government
-title: "ACT: The Right Partner for the John Key Government"
-date: 2011-11-13
-source-url: https://www.scoop.co.nz/stories/PA1111/S00250/act-the-right-partner-for-the-john-key-government.htm
+title: 'ACT: The Right Partner for the John Key Government'
+date: 2011-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00250/act-the-right-partner-for-the-john-key-government.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/13/act-the-right-partner-for-the-john-key-government/index.html
+layout: layout.njk
 ---
 ACT: The Right Partner for the John Key Government
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-parliamentary-service-bill
-title: "Hone Harawira: Parliamentary Service Bill"
-date: 2008-08-08
-source-url: https://www.scoop.co.nz/stories/PA0808/S00137/hone-harawira-parliamentary-service-bill.htm
+title: 'Hone Harawira: Parliamentary Service Bill'
+date: 2008-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00137/hone-harawira-parliamentary-service-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/08/08/hone-harawira-parliamentary-service-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Parliamentary Service Bill
 =========================================

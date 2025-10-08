@@ -1,9 +1,12 @@
 ---
 slug: bill-to-reduce-violence-towards-children
-title: "Bill To Reduce Violence Towards Children"
-date: 2003-08-07
-source-url: https://www.scoop.co.nz/stories/PA0308/S00145/bill-to-reduce-violence-towards-children.htm
+title: Bill To Reduce Violence Towards Children
+date: 2003-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00145/bill-to-reduce-violence-towards-children.htm
 author: new-zealand-first-party
+permalink: /archive/2003/08/07/bill-to-reduce-violence-towards-children/index.html
+layout: layout.njk
 ---
 Bill To Reduce Violence Towards Children
 ========================================

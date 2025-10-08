@@ -1,9 +1,12 @@
 ---
 slug: p-scourge-casts-ever-darkening-shadow
-title: "‘P’ scourge casts ever-darkening shadow"
-date: 2005-03-02
-source-url: https://www.scoop.co.nz/stories/PA0503/S00069/p-scourge-casts-ever-darkening-shadow.htm
+title: ‘P’ scourge casts ever-darkening shadow
+date: 2005-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00069/p-scourge-casts-ever-darkening-shadow.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/02/p-scourge-casts-ever-darkening-shadow/index.html
+layout: layout.njk
 ---
 ‘P’ scourge casts ever-darkening shadow
 =======================================

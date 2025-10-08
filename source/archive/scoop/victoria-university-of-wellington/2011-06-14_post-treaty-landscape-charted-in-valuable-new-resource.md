@@ -1,9 +1,13 @@
 ---
 slug: post-treaty-landscape-charted-in-valuable-new-resource
-title: "Post-Treaty landscape charted in valuable new resource"
-date: 2011-06-14
-source-url: https://www.scoop.co.nz/stories/CU1106/S00166/post-treaty-landscape-charted-in-valuable-new-resource.htm
+title: Post-Treaty landscape charted in valuable new resource
+date: 2011-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1106/S00166/post-treaty-landscape-charted-in-valuable-new-resource.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/14/post-treaty-landscape-charted-in-valuable-new-resource/index.html
+layout: layout.njk
 ---
 Post-Treaty landscape charted in valuable new resource
 ======================================================

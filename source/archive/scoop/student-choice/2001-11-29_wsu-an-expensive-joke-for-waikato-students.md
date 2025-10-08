@@ -1,9 +1,12 @@
 ---
 slug: wsu-an-expensive-joke-for-waikato-students
-title: "WSU An Expensive Joke For Waikato Students"
-date: 2001-11-29
-source-url: https://www.scoop.co.nz/stories/ED0111/S00049/wsu-an-expensive-joke-for-waikato-students.htm
+title: WSU An Expensive Joke For Waikato Students
+date: 2001-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00049/wsu-an-expensive-joke-for-waikato-students.htm
 author: student-choice
+permalink: /archive/2001/11/29/wsu-an-expensive-joke-for-waikato-students/index.html
+layout: layout.njk
 ---
 WSU An Expensive Joke For Waikato Students
 ==========================================

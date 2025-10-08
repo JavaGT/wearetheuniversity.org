@@ -1,9 +1,12 @@
 ---
 slug: pacific-sojourn-becomes-life-project
-title: "Pacific sojourn becomes life project"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/CU1007/S00415/pacific-sojourn-becomes-life-project.htm
+title: Pacific sojourn becomes life project
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00415/pacific-sojourn-becomes-life-project.htm
 author: university-of-waikato
+permalink: /archive/2010/07/29/pacific-sojourn-becomes-life-project/index.html
+layout: layout.njk
 ---
 Pacific sojourn becomes life project
 ====================================

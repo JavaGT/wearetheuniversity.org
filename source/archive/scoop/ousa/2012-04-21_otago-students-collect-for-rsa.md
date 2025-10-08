@@ -1,9 +1,12 @@
 ---
 slug: otago-students-collect-for-rsa
-title: "Otago students collect for RSA"
-date: 2012-04-21
-source-url: https://www.scoop.co.nz/stories/AK1204/S00509/otago-students-collect-for-rsa.htm
+title: Otago students collect for RSA
+date: 2012-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1204/S00509/otago-students-collect-for-rsa.htm
 author: ousa
+permalink: /archive/2012/04/21/otago-students-collect-for-rsa/index.html
+layout: layout.njk
 ---
 Otago students collect for RSA
 ==============================

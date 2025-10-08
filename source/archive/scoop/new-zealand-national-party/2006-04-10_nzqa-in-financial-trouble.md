@@ -1,9 +1,11 @@
 ---
 slug: nzqa-in-financial-trouble
-title: "NZQA in financial trouble"
-date: 2006-04-10
+title: NZQA in financial trouble
+date: 2006-04-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0604/S00168/nzqa-in-financial-trouble.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/10/nzqa-in-financial-trouble/index.html
+layout: layout.njk
 ---
 NZQA in financial trouble
 =========================

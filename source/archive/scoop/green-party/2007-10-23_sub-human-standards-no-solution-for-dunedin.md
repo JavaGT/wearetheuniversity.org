@@ -1,9 +1,12 @@
 ---
 slug: sub-human-standards-no-solution-for-dunedin
-title: "Sub-human standards no solution for Dunedin"
-date: 2007-10-23
-source-url: https://www.scoop.co.nz/stories/PA0710/S00402/sub-human-standards-no-solution-for-dunedin.htm
+title: Sub-human standards no solution for Dunedin
+date: 2007-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00402/sub-human-standards-no-solution-for-dunedin.htm
 author: green-party
+permalink: /archive/2007/10/23/sub-human-standards-no-solution-for-dunedin/index.html
+layout: layout.njk
 ---
 Sub-human standards no solution for Dunedin
 ===========================================

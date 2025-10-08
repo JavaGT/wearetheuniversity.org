@@ -1,9 +1,12 @@
 ---
 slug: save-saddle-hill-petition-launched
-title: "Save Saddle Hill Petition Launched"
-date: 2014-12-22
-source-url: https://www.scoop.co.nz/stories/PA1412/S00361/save-saddle-hill-petition-launched.htm
+title: Save Saddle Hill Petition Launched
+date: 2014-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00361/save-saddle-hill-petition-launched.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/22/save-saddle-hill-petition-launched/index.html
+layout: layout.njk
 ---
 Save Saddle Hill Petition Launched
 ==================================

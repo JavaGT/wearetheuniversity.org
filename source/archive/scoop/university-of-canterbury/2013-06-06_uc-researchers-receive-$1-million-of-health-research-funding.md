@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-receive-$1-million-of-health-research-funding
-title: "UC Researchers Receive $1 Million of Health Research Funding"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/GE1306/S00016/uc-researchers-receive-1-million-of-health-research-funding.htm
+title: UC Researchers Receive $1 Million of Health Research Funding
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1306/S00016/uc-researchers-receive-1-million-of-health-research-funding.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/06/uc-researchers-receive-/index.html
+layout: layout.njk
 ---
 UC Researchers Receive $1 Million of Health Research Funding
 ============================================================

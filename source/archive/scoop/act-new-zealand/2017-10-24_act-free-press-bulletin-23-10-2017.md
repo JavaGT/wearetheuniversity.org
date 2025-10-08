@@ -1,9 +1,12 @@
 ---
 slug: act-free-press-bulletin-23-10-2017
-title: "ACT Free Press Bulletin - 23/10/2017"
-date: 2017-10-24
-source-url: https://www.scoop.co.nz/stories/PO1710/S00186/act-free-press-bulletin-23102017.htm
+title: ACT Free Press Bulletin - 23/10/2017
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00186/act-free-press-bulletin-23102017.htm
 author: act-new-zealand
+permalink: /archive/2017/10/24/act-free-press-bulletin-23-10-2017/index.html
+layout: layout.njk
 ---
 ACT Free Press Bulletin - 23/10/2017
 ====================================

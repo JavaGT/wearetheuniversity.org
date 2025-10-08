@@ -1,9 +1,12 @@
 ---
 slug: compulsory-wintec-student-assn-bites-the-dust
-title: "Compulsory WINTEC student assn bites the dust"
-date: 2003-11-17
-source-url: https://www.scoop.co.nz/stories/ED0311/S00055/compulsory-wintec-student-assn-bites-the-dust.htm
+title: Compulsory WINTEC student assn bites the dust
+date: 2003-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00055/compulsory-wintec-student-assn-bites-the-dust.htm
 author: student-choice
+permalink: /archive/2003/11/17/compulsory-wintec-student-assn-bites-the-dust/index.html
+layout: layout.njk
 ---
 Compulsory WINTEC student assn bites the dust
 =============================================

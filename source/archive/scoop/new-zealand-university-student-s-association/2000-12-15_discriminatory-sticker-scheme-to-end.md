@@ -1,9 +1,12 @@
 ---
 slug: discriminatory-sticker-scheme-to-end
-title: "Discriminatory Sticker Scheme To End"
-date: 2000-12-15
-source-url: https://www.scoop.co.nz/stories/ED0012/S00013/discriminatory-sticker-scheme-to-end.htm
+title: Discriminatory Sticker Scheme To End
+date: 2000-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00013/discriminatory-sticker-scheme-to-end.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/12/15/discriminatory-sticker-scheme-to-end/index.html
+layout: layout.njk
 ---
 Discriminatory Sticker Scheme To End
 ====================================

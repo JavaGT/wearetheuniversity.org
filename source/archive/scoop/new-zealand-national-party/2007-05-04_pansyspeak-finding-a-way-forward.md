@@ -1,9 +1,12 @@
 ---
 slug: pansyspeak-finding-a-way-forward
-title: "Pansyspeak - Finding a way forward"
-date: 2007-05-04
-source-url: https://www.scoop.co.nz/stories/PA0705/S00137/pansyspeak-finding-a-way-forward.htm
+title: Pansyspeak - Finding a way forward
+date: 2007-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00137/pansyspeak-finding-a-way-forward.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/04/pansyspeak-finding-a-way-forward/index.html
+layout: layout.njk
 ---
 Pansyspeak - Finding a way forward
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: health-boards-past-their-use-by-date
-title: "Health boards past their use-by date"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/PO1907/S00190/health-boards-past-their-use-by-date.htm
+title: Health boards past their use-by date
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1907/S00190/health-boards-past-their-use-by-date.htm
 author: lincoln-university
+permalink: /archive/2019/07/16/health-boards-past-their-use-by-date/index.html
+layout: layout.njk
 ---
 Health boards past their use-by date
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: tolley-refuses-to-bat-for-better-tertiary-ed
-title: "Tolley refuses to bat for better tertiary ed"
-date: 2009-07-01
-source-url: https://www.scoop.co.nz/stories/PA0907/S00029/tolley-refuses-to-bat-for-better-tertiary-ed.htm
+title: Tolley refuses to bat for better tertiary ed
+date: 2009-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00029/tolley-refuses-to-bat-for-better-tertiary-ed.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/01/tolley-refuses-to-bat-for-better-tertiary-ed/index.html
+layout: layout.njk
 ---
 Tolley refuses to bat for better tertiary ed
 ============================================

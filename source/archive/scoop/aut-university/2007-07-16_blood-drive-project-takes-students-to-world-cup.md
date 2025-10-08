@@ -1,9 +1,12 @@
 ---
 slug: blood-drive-project-takes-students-to-world-cup
-title: "Blood drive project takes students to World Cup"
-date: 2007-07-16
-source-url: https://www.scoop.co.nz/stories/ED0707/S00050/blood-drive-project-takes-students-to-world-cup.htm
+title: Blood drive project takes students to World Cup
+date: 2007-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00050/blood-drive-project-takes-students-to-world-cup.htm
 author: aut-university
+permalink: /archive/2007/07/16/blood-drive-project-takes-students-to-world-cup/index.html
+layout: layout.njk
 ---
 Blood drive project takes students to World Cup
 ===============================================

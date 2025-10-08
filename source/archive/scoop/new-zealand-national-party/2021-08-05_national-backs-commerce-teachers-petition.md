@@ -1,9 +1,12 @@
 ---
 slug: national-backs-commerce-teachers-petition
-title: "National Backs Commerce Teachers’ Petition"
-date: 2021-08-05
-source-url: https://www.scoop.co.nz/stories/PA2108/S00044/national-backs-commerce-teachers-petition.htm
+title: National Backs Commerce Teachers’ Petition
+date: 2021-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00044/national-backs-commerce-teachers-petition.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/05/national-backs-commerce-teachers-petition/index.html
+layout: layout.njk
 ---
 National Backs Commerce Teachers’ Petition
 ==========================================

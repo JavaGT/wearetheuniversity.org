@@ -1,8 +1,11 @@
 ---
 slug: elam-artist-wins-glaister-ennor-award
-title: "Elam artist wins Glaister Ennor Award"
-date: 2017-06-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/elam-artist-wins-glaister-ennor-award.html
+title: Elam artist wins Glaister Ennor Award
+date: 2017-06-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/elam-artist-wins-glaister-ennor-award.html
+permalink: /archive/2017/06/20/elam-artist-wins-glaister-ennor-award/index.html
+layout: layout.njk
 ---
 Elam artist wins Glaister Ennor Award
 =====================================

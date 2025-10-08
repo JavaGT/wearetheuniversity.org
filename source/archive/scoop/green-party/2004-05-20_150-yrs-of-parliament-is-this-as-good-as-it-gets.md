@@ -1,9 +1,13 @@
 ---
 slug: 150-yrs-of-parliament-is-this-as-good-as-it-gets
-title: "150 yrs of Parliament: Is this as good as it gets?"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/PA0405/S00415/150-yrs-of-parliament-is-this-as-good-as-it-gets.htm
+title: '150 yrs of Parliament: Is this as good as it gets?'
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00415/150-yrs-of-parliament-is-this-as-good-as-it-gets.htm
 author: green-party
+permalink: >-
+  /archive/2004/05/20/150-yrs-of-parliament-is-this-as-good-as-it-gets/index.html
+layout: layout.njk
 ---
 150 yrs of Parliament: Is this as good as it gets?
 ==================================================

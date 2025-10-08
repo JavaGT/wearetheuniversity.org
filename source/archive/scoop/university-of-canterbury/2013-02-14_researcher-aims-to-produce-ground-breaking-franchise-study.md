@@ -1,9 +1,13 @@
 ---
 slug: researcher-aims-to-produce-ground-breaking-franchise-study
-title: "Researcher Aims To Produce Ground-Breaking Franchise Study"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/ED1302/S00067/researcher-aims-to-produce-ground-breaking-franchise-study.htm
+title: Researcher Aims To Produce Ground-Breaking Franchise Study
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00067/researcher-aims-to-produce-ground-breaking-franchise-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/14/researcher-aims-to-produce-ground-breaking-franchise-study/index.html
+layout: layout.njk
 ---
 Researcher Aims To Produce Ground-Breaking Franchise Study
 ==========================================================

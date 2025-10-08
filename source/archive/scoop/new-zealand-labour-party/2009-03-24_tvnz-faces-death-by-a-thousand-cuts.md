@@ -1,9 +1,12 @@
 ---
 slug: tvnz-faces-death-by-a-thousand-cuts
-title: "TVNZ faces death by a thousand cuts"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/PA0903/S00332/tvnz-faces-death-by-a-thousand-cuts.htm
+title: TVNZ faces death by a thousand cuts
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00332/tvnz-faces-death-by-a-thousand-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/24/tvnz-faces-death-by-a-thousand-cuts/index.html
+layout: layout.njk
 ---
 TVNZ faces death by a thousand cuts
 ===================================

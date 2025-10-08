@@ -1,9 +1,13 @@
 ---
 slug: exciting-start-to-2015-for-the-university-of-canterbury
-title: "Exciting start to 2015 for the University of Canterbury"
-date: 2015-02-19
-source-url: https://www.scoop.co.nz/stories/ED1502/S00071/exciting-start-to-2015-for-the-university-of-canterbury.htm
+title: Exciting start to 2015 for the University of Canterbury
+date: 2015-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00071/exciting-start-to-2015-for-the-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/19/exciting-start-to-2015-for-the-university-of-canterbury/index.html
+layout: layout.njk
 ---
 Exciting start to 2015 for the University of Canterbury
 =======================================================

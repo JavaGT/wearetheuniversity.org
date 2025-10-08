@@ -1,9 +1,11 @@
 ---
 slug: nationals-water-sell-out
-title: "National’s Water Sell Out"
-date: 2017-09-13
+title: National’s Water Sell Out
+date: 2017-09-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1709/S00237/nationals-water-sell-out.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/13/nationals-water-sell-out/index.html
+layout: layout.njk
 ---
 National’s Water Sell Out
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: business-profits-&-economic-progress-roger-kerr
-title: "Business, Profits & Economic Progress - Roger Kerr"
-date: 2004-08-16
-source-url: https://www.scoop.co.nz/stories/BU0408/S00180/business-profits-economic-progress-roger-kerr.htm
+title: Business, Profits & Economic Progress - Roger Kerr
+date: 2004-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0408/S00180/business-profits-economic-progress-roger-kerr.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/08/16/business-profits-/index.html
+layout: layout.njk
 ---
 Business, Profits & Economic Progress - Roger Kerr
 ==================================================

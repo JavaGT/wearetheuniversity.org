@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-faces-off-student-debt
-title: "Helen Clark faces off Student Debt"
-date: 2003-04-07
-source-url: https://www.scoop.co.nz/stories/ED0304/S00014/helen-clark-faces-off-student-debt.htm
+title: Helen Clark faces off Student Debt
+date: 2003-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00014/helen-clark-faces-off-student-debt.htm
 author: otago-university-students-association
+permalink: /archive/2003/04/07/helen-clark-faces-off-student-debt/index.html
+layout: layout.njk
 ---
 Helen Clark faces off Student Debt
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: quality-of-massey-researchers-recognised
-title: "Quality of Massey researchers recognised"
-date: 2019-04-30
-source-url: https://www.scoop.co.nz/stories/ED1904/S00055/quality-of-massey-researchers-recognised.htm
+title: Quality of Massey researchers recognised
+date: 2019-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1904/S00055/quality-of-massey-researchers-recognised.htm
 author: massey-university
+permalink: /archive/2019/04/30/quality-of-massey-researchers-recognised/index.html
+layout: layout.njk
 ---
 Quality of Massey researchers recognised
 ========================================

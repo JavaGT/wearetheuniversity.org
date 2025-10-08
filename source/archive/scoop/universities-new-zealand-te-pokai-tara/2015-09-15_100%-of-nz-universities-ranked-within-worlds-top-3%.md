@@ -1,9 +1,12 @@
 ---
 slug: 100%-of-nz-universities-ranked-within-worlds-top-3%
-title: "100% of NZ universities ranked within world’s top 3%"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/ED1509/S00088/100-of-nz-universities-ranked-within-worlds-top-3.htm
+title: 100% of NZ universities ranked within world’s top 3%
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00088/100-of-nz-universities-ranked-within-worlds-top-3.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/09/15/100/index.html
+layout: layout.njk
 ---
 100% of NZ universities ranked within world’s top 3%
 ====================================================

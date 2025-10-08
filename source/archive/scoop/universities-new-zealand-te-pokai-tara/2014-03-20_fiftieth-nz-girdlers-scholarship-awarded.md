@@ -1,9 +1,12 @@
 ---
 slug: fiftieth-nz-girdlers-scholarship-awarded
-title: "Fiftieth NZ Girdlers’ Scholarship awarded"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/ED1403/S00108/fiftieth-nz-girdlers-scholarship-awarded.htm
+title: Fiftieth NZ Girdlers’ Scholarship awarded
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00108/fiftieth-nz-girdlers-scholarship-awarded.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2014/03/20/fiftieth-nz-girdlers-scholarship-awarded/index.html
+layout: layout.njk
 ---
 Fiftieth NZ Girdlers’ Scholarship awarded
 =========================================

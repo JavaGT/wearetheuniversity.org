@@ -1,9 +1,12 @@
 ---
 slug: ict-giants-all-under-the-one-roof-at-canterbury
-title: "ICT giants all under the one roof at Canterbury"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/SC0605/S00058/ict-giants-all-under-the-one-roof-at-canterbury.htm
+title: ICT giants all under the one roof at Canterbury
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0605/S00058/ict-giants-all-under-the-one-roof-at-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2006/05/22/ict-giants-all-under-the-one-roof-at-canterbury/index.html
+layout: layout.njk
 ---
 ICT giants all under the one roof at Canterbury
 ===============================================

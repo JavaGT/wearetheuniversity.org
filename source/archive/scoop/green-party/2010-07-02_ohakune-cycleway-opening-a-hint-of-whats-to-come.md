@@ -1,9 +1,13 @@
 ---
 slug: ohakune-cycleway-opening-a-hint-of-whats-to-come
-title: "Ohakune Cycleway opening a hint of what’s to come"
-date: 2010-07-02
-source-url: https://www.scoop.co.nz/stories/PA1007/S00069/ohakune-cycleway-opening-a-hint-of-whats-to-come.htm
+title: Ohakune Cycleway opening a hint of what’s to come
+date: 2010-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00069/ohakune-cycleway-opening-a-hint-of-whats-to-come.htm
 author: green-party
+permalink: >-
+  /archive/2010/07/02/ohakune-cycleway-opening-a-hint-of-whats-to-come/index.html
+layout: layout.njk
 ---
 Ohakune Cycleway opening a hint of what’s to come
 =================================================

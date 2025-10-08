@@ -1,9 +1,12 @@
 ---
 slug: talk-fest-wont-clean-up-waterways
-title: "Talk-Fest Won't Clean Up Waterways"
-date: 2002-07-02
-source-url: https://www.scoop.co.nz/stories/PA0207/S00065/talk-fest-wont-clean-up-waterways.htm
+title: Talk-Fest Won't Clean Up Waterways
+date: 2002-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00065/talk-fest-wont-clean-up-waterways.htm
 author: green-party
+permalink: /archive/2002/07/02/talk-fest-wont-clean-up-waterways/index.html
+layout: layout.njk
 ---
 Talk-Fest Won't Clean Up Waterways
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: speech-goff-govts-deals-to-reward-privilege
-title: "Speech: Goff - Govt’s deals to reward privilege"
-date: 2009-12-03
-source-url: https://www.scoop.co.nz/stories/PA0912/S00059/speech-goff-govts-deals-to-reward-privilege.htm
+title: 'Speech: Goff - Govt’s deals to reward privilege'
+date: 2009-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00059/speech-goff-govts-deals-to-reward-privilege.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/03/speech-goff-govts-deals-to-reward-privilege/index.html
+layout: layout.njk
 ---
 Speech: Goff - Govt’s deals to reward privilege
 ===============================================

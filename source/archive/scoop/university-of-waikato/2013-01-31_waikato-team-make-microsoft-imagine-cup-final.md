@@ -1,9 +1,12 @@
 ---
 slug: waikato-team-make-microsoft-imagine-cup-final
-title: "Waikato Team Make Microsoft Imagine Cup Final"
-date: 2013-01-31
-source-url: https://www.scoop.co.nz/stories/ED1301/S00110/waikato-team-make-microsoft-imagine-cup-final.htm
+title: Waikato Team Make Microsoft Imagine Cup Final
+date: 2013-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00110/waikato-team-make-microsoft-imagine-cup-final.htm
 author: university-of-waikato
+permalink: /archive/2013/01/31/waikato-team-make-microsoft-imagine-cup-final/index.html
+layout: layout.njk
 ---
 Waikato Team Make Microsoft Imagine Cup Final
 =============================================

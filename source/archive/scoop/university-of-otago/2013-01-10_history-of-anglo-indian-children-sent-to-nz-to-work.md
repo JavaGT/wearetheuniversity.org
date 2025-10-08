@@ -1,9 +1,13 @@
 ---
 slug: history-of-anglo-indian-children-sent-to-nz-to-work
-title: "History of Anglo-Indian children sent to NZ to work"
-date: 2013-01-10
-source-url: https://www.scoop.co.nz/stories/ED1301/S00007/history-of-anglo-indian-children-sent-to-nz-to-work.htm
+title: History of Anglo-Indian children sent to NZ to work
+date: 2013-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00007/history-of-anglo-indian-children-sent-to-nz-to-work.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/01/10/history-of-anglo-indian-children-sent-to-nz-to-work/index.html
+layout: layout.njk
 ---
 History of Anglo-Indian children sent to NZ to work
 ===================================================

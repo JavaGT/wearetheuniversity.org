@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-cello-student-wins-concerto-competition
-title: "Waikato University Cello Student Wins Concerto Competition"
-date: 2016-03-14
-source-url: https://www.scoop.co.nz/stories/CU1603/S00268/waikato-university-cello-student-wins-concerto-competition.htm
+title: Waikato University Cello Student Wins Concerto Competition
+date: 2016-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1603/S00268/waikato-university-cello-student-wins-concerto-competition.htm
 author: waikato-university
+permalink: >-
+  /archive/2016/03/14/waikato-university-cello-student-wins-concerto-competition/index.html
+layout: layout.njk
 ---
 Waikato University Cello Student Wins Concerto Competition
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: pacific-students-deepest-in-debt
-title: "Pacific Students Deepest In Debt"
-date: 2002-04-18
-source-url: https://www.scoop.co.nz/stories/ED0204/S00028/pacific-students-deepest-in-debt.htm
+title: Pacific Students Deepest In Debt
+date: 2002-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00028/pacific-students-deepest-in-debt.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/04/18/pacific-students-deepest-in-debt/index.html
+layout: layout.njk
 ---
 Pacific Students Deepest In Debt
 ================================

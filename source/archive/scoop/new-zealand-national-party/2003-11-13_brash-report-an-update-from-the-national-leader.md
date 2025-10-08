@@ -1,9 +1,12 @@
 ---
 slug: brash-report-an-update-from-the-national-leader
-title: "Brash Report: An Update From The National Leader"
-date: 2003-11-13
-source-url: https://www.scoop.co.nz/stories/PA0311/S00291/brash-report-an-update-from-the-national-leader.htm
+title: 'Brash Report: An Update From The National Leader'
+date: 2003-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00291/brash-report-an-update-from-the-national-leader.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/13/brash-report-an-update-from-the-national-leader/index.html
+layout: layout.njk
 ---
 Brash Report: An Update From The National Leader
 ================================================

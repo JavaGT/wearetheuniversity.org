@@ -1,9 +1,13 @@
 ---
 slug: vitamin-c-has-vital-role-in-battle-against-cancer
-title: "Vitamin C has vital role in battle against cancer"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/SC1007/S00032/vitamin-c-has-vital-role-in-battle-against-cancer.htm
+title: Vitamin C has vital role in battle against cancer
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1007/S00032/vitamin-c-has-vital-role-in-battle-against-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/07/19/vitamin-c-has-vital-role-in-battle-against-cancer/index.html
+layout: layout.njk
 ---
 Vitamin C has vital role in battle against cancer
 =================================================

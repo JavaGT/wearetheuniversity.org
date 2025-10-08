@@ -1,9 +1,12 @@
 ---
 slug: culture-in-the-global-village-public-lecture
-title: "Culture in the global village – public lecture"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/ED0407/S00031/culture-in-the-global-village-public-lecture.htm
+title: Culture in the global village – public lecture
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00031/culture-in-the-global-village-public-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/09/culture-in-the-global-village-public-lecture/index.html
+layout: layout.njk
 ---
 Culture in the global village – public lecture
 ==============================================

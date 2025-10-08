@@ -1,9 +1,13 @@
 ---
 slug: ministry-report-national-government-changes-not-working
-title: "Ministry report: National Government changes not working"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PO1406/S00138/ministry-report-national-government-changes-not-working.htm
+title: 'Ministry report: National Government changes not working'
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00138/ministry-report-national-government-changes-not-working.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2014/06/11/ministry-report-national-government-changes-not-working/index.html
+layout: layout.njk
 ---
 Ministry report: National Government changes not working
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: student-allowances-announcement-welcomed
-title: "Student Allowances Announcement Welcomed"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/ED0810/S00048/student-allowances-announcement-welcomed.htm
+title: Student Allowances Announcement Welcomed
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00048/student-allowances-announcement-welcomed.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/10/14/student-allowances-announcement-welcomed/index.html
+layout: layout.njk
 ---
 Student Allowances Announcement Welcomed
 ========================================

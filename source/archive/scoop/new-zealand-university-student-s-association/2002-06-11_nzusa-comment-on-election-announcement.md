@@ -1,9 +1,12 @@
 ---
 slug: nzusa-comment-on-election-announcement
-title: "NZUSA Comment On Election Announcement"
-date: 2002-06-11
-source-url: https://www.scoop.co.nz/stories/ED0206/S00015/nzusa-comment-on-election-announcement.htm
+title: NZUSA Comment On Election Announcement
+date: 2002-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00015/nzusa-comment-on-election-announcement.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/06/11/nzusa-comment-on-election-announcement/index.html
+layout: layout.njk
 ---
 NZUSA Comment On Election Announcement
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: researcher-seeking-to-dissolve-the-cost-of-secondary-surgery
-title: "Researcher seeking to dissolve the cost of secondary surgery"
-date: 2014-06-08
-source-url: https://www.scoop.co.nz/stories/SC1406/S00019/researcher-seeking-to-dissolve-the-cost-of-secondary-surgery.htm
+title: Researcher seeking to dissolve the cost of secondary surgery
+date: 2014-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00019/researcher-seeking-to-dissolve-the-cost-of-secondary-surgery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/08/researcher-seeking-to-dissolve-the-cost-of-secondary-surgery/index.html
+layout: layout.njk
 ---
 Researcher seeking to dissolve the cost of secondary surgery
 ============================================================

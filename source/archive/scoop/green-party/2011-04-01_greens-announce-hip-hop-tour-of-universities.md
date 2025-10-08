@@ -1,9 +1,12 @@
 ---
 slug: greens-announce-hip-hop-tour-of-universities
-title: "Greens announce hip hop tour of universities"
-date: 2011-04-01
-source-url: https://www.scoop.co.nz/stories/PA1104/S00001/greens-announce-hip-hop-tour-of-universities.htm
+title: Greens announce hip hop tour of universities
+date: 2011-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00001/greens-announce-hip-hop-tour-of-universities.htm
 author: green-party
+permalink: /archive/2011/04/01/greens-announce-hip-hop-tour-of-universities/index.html
+layout: layout.njk
 ---
 Greens announce hip hop tour of universities
 ============================================

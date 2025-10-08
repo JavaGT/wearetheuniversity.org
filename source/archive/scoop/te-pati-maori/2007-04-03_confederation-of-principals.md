@@ -1,9 +1,11 @@
 ---
 slug: confederation-of-principals
-title: "Confederation of Principals"
-date: 2007-04-03
+title: Confederation of Principals
+date: 2007-04-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0704/S00062/confederation-of-principals.htm
 author: te-pati-maori
+permalink: /archive/2007/04/03/confederation-of-principals/index.html
+layout: layout.njk
 ---
 Confederation of Principals
 ===========================

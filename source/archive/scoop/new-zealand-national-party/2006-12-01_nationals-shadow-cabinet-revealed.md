@@ -1,9 +1,12 @@
 ---
 slug: nationals-shadow-cabinet-revealed
-title: "National’s Shadow Cabinet revealed"
-date: 2006-12-01
-source-url: https://www.scoop.co.nz/stories/PA0612/S00011/nationals-shadow-cabinet-revealed.htm
+title: National’s Shadow Cabinet revealed
+date: 2006-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00011/nationals-shadow-cabinet-revealed.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/01/nationals-shadow-cabinet-revealed/index.html
+layout: layout.njk
 ---
 National’s Shadow Cabinet revealed
 ==================================

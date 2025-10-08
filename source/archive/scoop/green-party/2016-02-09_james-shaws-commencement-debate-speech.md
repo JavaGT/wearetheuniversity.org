@@ -1,9 +1,12 @@
 ---
 slug: james-shaws-commencement-debate-speech
-title: "James Shaw's Commencement Debate Speech"
-date: 2016-02-09
-source-url: https://www.scoop.co.nz/stories/PA1602/S00094/james-shaws-commencement-debate-speech.htm
+title: James Shaw's Commencement Debate Speech
+date: 2016-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00094/james-shaws-commencement-debate-speech.htm
 author: green-party
+permalink: /archive/2016/02/09/james-shaws-commencement-debate-speech/index.html
+layout: layout.njk
 ---
 James Shaw's Commencement Debate Speech
 =======================================

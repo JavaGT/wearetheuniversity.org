@@ -1,9 +1,12 @@
 ---
 slug: reassessment-exposes-inequities
-title: "Reassessment exposes inequities"
-date: 2001-06-05
-source-url: https://www.scoop.co.nz/stories/PA0106/S00048/reassessment-exposes-inequities.htm
+title: Reassessment exposes inequities
+date: 2001-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00048/reassessment-exposes-inequities.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/05/reassessment-exposes-inequities/index.html
+layout: layout.njk
 ---
 Reassessment exposes inequities
 ===============================

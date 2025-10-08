@@ -1,9 +1,13 @@
 ---
 slug: women-exercisers-face-health-risk-if-not-eating-enough
-title: "Women exercisers face health risk if not eating enough"
-date: 2017-01-10
-source-url: https://www.scoop.co.nz/stories/GE1701/S00016/women-exercisers-face-health-risk-if-not-eating-enough.htm
+title: Women exercisers face health risk if not eating enough
+date: 2017-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1701/S00016/women-exercisers-face-health-risk-if-not-eating-enough.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/01/10/women-exercisers-face-health-risk-if-not-eating-enough/index.html
+layout: layout.njk
 ---
 Women exercisers face health risk if not eating enough
 ======================================================

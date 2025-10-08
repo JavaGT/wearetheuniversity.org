@@ -1,9 +1,13 @@
 ---
 slug: independent-trial-best-way-forward-for-national-st
-title: "Independent Trial Best Way Forward for National St"
-date: 2010-02-04
-source-url: https://www.scoop.co.nz/stories/PA1002/S00061/independent-trial-best-way-forward-for-national-st.htm
+title: Independent Trial Best Way Forward for National St
+date: 2010-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00061/independent-trial-best-way-forward-for-national-st.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/04/independent-trial-best-way-forward-for-national-st/index.html
+layout: layout.njk
 ---
 Independent Trial Best Way Forward for National St
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-early-childhood-forum
-title: "Te Ururoa Flavell - Early Childhood Forum"
-date: 2008-05-03
-source-url: https://www.scoop.co.nz/stories/ED0805/S00009/te-ururoa-flavell-early-childhood-forum.htm
+title: Te Ururoa Flavell - Early Childhood Forum
+date: 2008-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00009/te-ururoa-flavell-early-childhood-forum.htm
 author: te-pati-maori
+permalink: /archive/2008/05/03/te-ururoa-flavell-early-childhood-forum/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Early Childhood Forum
 =========================================

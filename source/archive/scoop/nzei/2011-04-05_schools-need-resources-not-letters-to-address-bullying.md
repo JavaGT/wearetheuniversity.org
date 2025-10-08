@@ -1,9 +1,13 @@
 ---
 slug: schools-need-resources-not-letters-to-address-bullying
-title: "Schools need resources not letters to address bullying"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/ED1104/S00014/schools-need-resources-not-letters-to-address-bullying.htm
+title: Schools need resources not letters to address bullying
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00014/schools-need-resources-not-letters-to-address-bullying.htm
 author: nzei
+permalink: >-
+  /archive/2011/04/05/schools-need-resources-not-letters-to-address-bullying/index.html
+layout: layout.njk
 ---
 Schools need resources not letters to address bullying
 ======================================================

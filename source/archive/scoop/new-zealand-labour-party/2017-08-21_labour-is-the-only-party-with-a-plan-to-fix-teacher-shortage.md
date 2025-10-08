@@ -1,9 +1,13 @@
 ---
 slug: labour-is-the-only-party-with-a-plan-to-fix-teacher-shortage
-title: "Labour is the only party with a plan to fix teacher shortage"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/PO1708/S00404/labour-is-the-only-party-with-a-plan-to-fix-teacher-shortage.htm
+title: Labour is the only party with a plan to fix teacher shortage
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00404/labour-is-the-only-party-with-a-plan-to-fix-teacher-shortage.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/21/labour-is-the-only-party-with-a-plan-to-fix-teacher-shortage/index.html
+layout: layout.njk
 ---
 Labour is the only party with a plan to fix teacher shortage
 ============================================================

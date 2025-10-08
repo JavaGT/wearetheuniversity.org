@@ -1,9 +1,12 @@
 ---
 slug: no-amount-of-joyces-spin-can-hide-the-facts
-title: "No amount of Joyce’s spin can hide the facts"
-date: 2013-11-24
-source-url: https://www.scoop.co.nz/stories/PA1311/S00450/no-amount-of-joyces-spin-can-hide-the-facts.htm
+title: No amount of Joyce’s spin can hide the facts
+date: 2013-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00450/no-amount-of-joyces-spin-can-hide-the-facts.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/24/no-amount-of-joyces-spin-can-hide-the-facts/index.html
+layout: layout.njk
 ---
 No amount of Joyce’s spin can hide the facts
 ============================================

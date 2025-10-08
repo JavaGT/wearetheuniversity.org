@@ -1,9 +1,13 @@
 ---
 slug: youth-alcohol-drug-services-deal-w-complex-needs
-title: "Youth alcohol, drug services deal w complex needs"
-date: 2009-02-10
-source-url: https://www.scoop.co.nz/stories/GE0902/S00037/youth-alcohol-drug-services-deal-w-complex-needs.htm
+title: Youth alcohol, drug services deal w complex needs
+date: 2009-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00037/youth-alcohol-drug-services-deal-w-complex-needs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/02/10/youth-alcohol-drug-services-deal-w-complex-needs/index.html
+layout: layout.njk
 ---
 Youth alcohol, drug services deal w complex needs
 =================================================

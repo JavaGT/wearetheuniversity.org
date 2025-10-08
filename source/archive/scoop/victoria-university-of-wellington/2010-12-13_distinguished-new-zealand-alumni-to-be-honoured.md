@@ -1,9 +1,12 @@
 ---
 slug: distinguished-new-zealand-alumni-to-be-honoured
-title: "Distinguished New Zealand Alumni to be Honoured"
-date: 2010-12-13
-source-url: https://www.scoop.co.nz/stories/AK1012/S00386/distinguished-new-zealand-alumni-to-be-honoured.htm
+title: Distinguished New Zealand Alumni to be Honoured
+date: 2010-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1012/S00386/distinguished-new-zealand-alumni-to-be-honoured.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/13/distinguished-new-zealand-alumni-to-be-honoured/index.html
+layout: layout.njk
 ---
 Distinguished New Zealand Alumni to be Honoured
 ===============================================

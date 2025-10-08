@@ -1,9 +1,13 @@
 ---
 slug: start-your-uc-mba-this-september-with-a-futureu-study-grant
-title: "Start Your UC MBA This September With A FutureU Study Grant"
-date: 2020-08-17
-source-url: https://www.scoop.co.nz/stories/ED2008/S00021/start-your-uc-mba-this-september-with-a-futureu-study-grant.htm
+title: Start Your UC MBA This September With A FutureU Study Grant
+date: 2020-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00021/start-your-uc-mba-this-september-with-a-futureu-study-grant.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/17/start-your-uc-mba-this-september-with-a-futureu-study-grant/index.html
+layout: layout.njk
 ---
 Start Your UC MBA This September With A FutureU Study Grant
 ===========================================================

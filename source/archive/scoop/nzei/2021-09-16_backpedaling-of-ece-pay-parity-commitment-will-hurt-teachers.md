@@ -1,9 +1,13 @@
 ---
 slug: backpedaling-of-ece-pay-parity-commitment-will-hurt-teachers
-title: "Backpedaling of ECE pay parity commitment will hurt teachers"
-date: 2021-09-16
-source-url: https://www.scoop.co.nz/stories/PO2109/S00069/backpedaling-of-ece-pay-parity-commitment-will-hurt-teachers.htm
+title: Backpedaling of ECE pay parity commitment will hurt teachers
+date: 2021-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2109/S00069/backpedaling-of-ece-pay-parity-commitment-will-hurt-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2021/09/16/backpedaling-of-ece-pay-parity-commitment-will-hurt-teachers/index.html
+layout: layout.njk
 ---
 Backpedaling of ECE pay parity commitment will hurt teachers
 ============================================================

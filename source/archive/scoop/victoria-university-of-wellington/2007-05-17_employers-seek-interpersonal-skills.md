@@ -1,9 +1,12 @@
 ---
 slug: employers-seek-interpersonal-skills
-title: "Employers seek interpersonal skills"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/BU0705/S00377/employers-seek-interpersonal-skills.htm
+title: Employers seek interpersonal skills
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0705/S00377/employers-seek-interpersonal-skills.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/05/17/employers-seek-interpersonal-skills/index.html
+layout: layout.njk
 ---
 Employers seek interpersonal skills
 ===================================

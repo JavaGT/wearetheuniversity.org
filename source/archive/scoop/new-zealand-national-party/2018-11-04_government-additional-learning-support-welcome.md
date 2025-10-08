@@ -1,9 +1,12 @@
 ---
 slug: government-additional-learning-support-welcome
-title: "Government additional learning support welcome"
-date: 2018-11-04
-source-url: https://www.scoop.co.nz/stories/PA1811/S00034/government-additional-learning-support-welcome.htm
+title: Government additional learning support welcome
+date: 2018-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00034/government-additional-learning-support-welcome.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/04/government-additional-learning-support-welcome/index.html
+layout: layout.njk
 ---
 Government additional learning support welcome
 ==============================================

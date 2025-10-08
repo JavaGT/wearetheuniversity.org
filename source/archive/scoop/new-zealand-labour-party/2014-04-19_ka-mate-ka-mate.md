@@ -1,9 +1,11 @@
 ---
 slug: ka-mate-ka-mate
-title: "Ka Mate, Ka Mate"
-date: 2014-04-19
+title: Ka Mate, Ka Mate
+date: 2014-04-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1404/S00343/ka-mate-ka-mate.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/19/ka-mate-ka-mate/index.html
+layout: layout.njk
 ---
 Ka Mate, Ka Mate
 ================

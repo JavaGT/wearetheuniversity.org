@@ -1,9 +1,12 @@
 ---
 slug: co-operation-benefits-whanau-and-papatuanuku
-title: "Co-operation Benefits Whanau and Papatuanuku"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/PA1208/S00372/co-operation-benefits-whanau-and-papatuanuku.htm
+title: Co-operation Benefits Whanau and Papatuanuku
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00372/co-operation-benefits-whanau-and-papatuanuku.htm
 author: te-pati-maori
+permalink: /archive/2012/08/24/co-operation-benefits-whanau-and-papatuanuku/index.html
+layout: layout.njk
 ---
 Co-operation Benefits Whanau and Papatuanuku
 ============================================

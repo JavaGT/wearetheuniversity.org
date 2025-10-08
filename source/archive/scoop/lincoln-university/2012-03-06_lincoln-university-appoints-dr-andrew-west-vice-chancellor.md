@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-appoints-dr-andrew-west-vice-chancellor
-title: "Lincoln University appoints Dr Andrew West Vice-Chancellor"
-date: 2012-03-06
-source-url: https://www.scoop.co.nz/stories/ED1203/S00019/lincoln-university-appoints-dr-andrew-west-vice-chancellor.htm
+title: Lincoln University appoints Dr Andrew West Vice-Chancellor
+date: 2012-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00019/lincoln-university-appoints-dr-andrew-west-vice-chancellor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/03/06/lincoln-university-appoints-dr-andrew-west-vice-chancellor/index.html
+layout: layout.njk
 ---
 Lincoln University appoints Dr Andrew West Vice-Chancellor
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: oia-documents-prove-pharmacs-independent-inquiry-is-a-toothless-whitewash
-title: "OIA Documents Prove Pharmac’s Independent Inquiry Is A Toothless Whitewash"
-date: 2021-10-11
-source-url: https://www.scoop.co.nz/stories/PA2110/S00099/oia-documents-prove-pharmacs-independent-inquiry-is-a-toothless-whitewash.htm
+title: OIA Documents Prove Pharmac’s Independent Inquiry Is A Toothless Whitewash
+date: 2021-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00099/oia-documents-prove-pharmacs-independent-inquiry-is-a-toothless-whitewash.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/11/oia-documents-prove-pharmacs-independent-inquiry-is-a-toothless-whitewash/index.html
+layout: layout.njk
 ---
 OIA Documents Prove Pharmac’s Independent Inquiry Is A Toothless Whitewash
 ==========================================================================

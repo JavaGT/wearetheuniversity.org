@@ -1,9 +1,13 @@
 ---
 slug: death-anxiety-increases-atheists-unconscious-belief-in-god
-title: "Death anxiety increases atheists’ unconscious belief in God"
-date: 2012-04-02
-source-url: https://www.scoop.co.nz/stories/ED1204/S00003/death-anxiety-increases-atheists-unconscious-belief-in-god.htm
+title: Death anxiety increases atheists’ unconscious belief in God
+date: 2012-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00003/death-anxiety-increases-atheists-unconscious-belief-in-god.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/04/02/death-anxiety-increases-atheists-unconscious-belief-in-god/index.html
+layout: layout.njk
 ---
 Death anxiety increases atheists’ unconscious belief in God
 ===========================================================

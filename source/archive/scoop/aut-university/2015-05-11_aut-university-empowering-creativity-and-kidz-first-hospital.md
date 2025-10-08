@@ -1,9 +1,13 @@
 ---
 slug: aut-university-empowering-creativity-and-kidz-first-hospital
-title: "AUT University empowering creativity and Kidz First Hospital"
-date: 2015-05-11
-source-url: https://www.scoop.co.nz/stories/ED1505/S00048/aut-university-empowering-creativity-and-kidz-first-hospital.htm
+title: AUT University empowering creativity and Kidz First Hospital
+date: 2015-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00048/aut-university-empowering-creativity-and-kidz-first-hospital.htm
 author: aut-university
+permalink: >-
+  /archive/2015/05/11/aut-university-empowering-creativity-and-kidz-first-hospital/index.html
+layout: layout.njk
 ---
 AUT University empowering creativity and Kidz First Hospital
 ============================================================

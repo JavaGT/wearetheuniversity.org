@@ -1,9 +1,13 @@
 ---
 slug: uc-student-wins-pms-pacific-youth-leadership-award
-title: "UC student wins PM’s Pacific Youth leadership award"
-date: 2016-12-01
-source-url: https://www.scoop.co.nz/stories/ED1612/S00003/uc-student-wins-pms-pacific-youth-leadership-award.htm
+title: UC student wins PM’s Pacific Youth leadership award
+date: 2016-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00003/uc-student-wins-pms-pacific-youth-leadership-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/12/01/uc-student-wins-pms-pacific-youth-leadership-award/index.html
+layout: layout.njk
 ---
 UC student wins PM’s Pacific Youth leadership award
 ===================================================

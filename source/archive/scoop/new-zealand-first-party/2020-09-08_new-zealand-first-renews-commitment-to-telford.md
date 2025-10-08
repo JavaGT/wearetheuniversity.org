@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-renews-commitment-to-telford
-title: "New Zealand First Renews Commitment To Telford."
-date: 2020-09-08
-source-url: https://www.scoop.co.nz/stories/PA2009/S00066/new-zealand-first-renews-commitment-to-telford.htm
+title: New Zealand First Renews Commitment To Telford.
+date: 2020-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00066/new-zealand-first-renews-commitment-to-telford.htm
 author: new-zealand-first-party
+permalink: /archive/2020/09/08/new-zealand-first-renews-commitment-to-telford/index.html
+layout: layout.njk
 ---
 New Zealand First Renews Commitment To Telford.
 ===============================================

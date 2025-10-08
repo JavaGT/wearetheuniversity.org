@@ -1,9 +1,12 @@
 ---
 slug: appeal-court-president-to-speak-at-waikato-uni
-title: "Appeal Court President To Speak At Waikato Uni."
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/ED0408/S00117/appeal-court-president-to-speak-at-waikato-uni.htm
+title: Appeal Court President To Speak At Waikato Uni.
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00117/appeal-court-president-to-speak-at-waikato-uni.htm
 author: waikato-university
+permalink: /archive/2004/08/26/appeal-court-president-to-speak-at-waikato-uni/index.html
+layout: layout.njk
 ---
 Appeal Court President To Speak At Waikato Uni.
 ===============================================

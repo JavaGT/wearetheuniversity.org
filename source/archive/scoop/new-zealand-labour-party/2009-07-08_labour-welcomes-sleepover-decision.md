@@ -1,9 +1,12 @@
 ---
 slug: labour-welcomes-sleepover-decision
-title: "Labour welcomes sleepover decision"
-date: 2009-07-08
-source-url: https://www.scoop.co.nz/stories/PA0907/S00126/labour-welcomes-sleepover-decision.htm
+title: Labour welcomes sleepover decision
+date: 2009-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00126/labour-welcomes-sleepover-decision.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/08/labour-welcomes-sleepover-decision/index.html
+layout: layout.njk
 ---
 Labour welcomes sleepover decision
 ==================================

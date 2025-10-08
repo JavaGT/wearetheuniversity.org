@@ -1,9 +1,11 @@
 ---
 slug: sam-johnson-heading-to-nepal
-title: "Sam Johnson heading to Nepal"
-date: 2015-04-28
+title: Sam Johnson heading to Nepal
+date: 2015-04-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/WO1504/S00328/sam-johnson-heading-to-nepal.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/28/sam-johnson-heading-to-nepal/index.html
+layout: layout.njk
 ---
 Sam Johnson heading to Nepal
 ============================

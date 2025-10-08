@@ -1,9 +1,12 @@
 ---
 slug: kiwi-author-kickstarts-fantasy-novel
-title: "Kiwi author Kickstarts fantasy novel"
-date: 2017-10-26
-source-url: https://www.scoop.co.nz/stories/CU1710/S00486/kiwi-author-kickstarts-fantasy-novel.htm
+title: Kiwi author Kickstarts fantasy novel
+date: 2017-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00486/kiwi-author-kickstarts-fantasy-novel.htm
 author: university-of-canterbury
+permalink: /archive/2017/10/26/kiwi-author-kickstarts-fantasy-novel/index.html
+layout: layout.njk
 ---
 Kiwi author Kickstarts fantasy novel
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: ministers-pass-buck-on-pasifika-centre
-title: "Ministers pass buck on Pasifika centre"
-date: 2015-09-16
-source-url: https://www.scoop.co.nz/stories/PA1509/S00271/ministers-pass-buck-on-pasifika-centre.htm
+title: Ministers pass buck on Pasifika centre
+date: 2015-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00271/ministers-pass-buck-on-pasifika-centre.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/16/ministers-pass-buck-on-pasifika-centre/index.html
+layout: layout.njk
 ---
 Ministers pass buck on Pasifika centre
 ======================================

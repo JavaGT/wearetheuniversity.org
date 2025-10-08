@@ -1,9 +1,16 @@
 ---
-slug: thousands-call-for-parliament-to-keep-terrorist-charges-for-terrorist-activities-and-material-only
-title: "Thousands Call For Parliament To Keep Terrorist Charges For Terrorist Activities And Material Only"
-date: 2022-11-30
-source-url: https://www.scoop.co.nz/stories/PO2211/S00227/thousands-call-for-parliament-to-keep-terrorist-charges-for-terrorist-activities-and-material-only.htm
+slug: >-
+  thousands-call-for-parliament-to-keep-terrorist-charges-for-terrorist-activities-and-material-only
+title: >-
+  Thousands Call For Parliament To Keep Terrorist Charges For Terrorist
+  Activities And Material Only
+date: 2022-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2211/S00227/thousands-call-for-parliament-to-keep-terrorist-charges-for-terrorist-activities-and-material-only.htm
 author: free-speech-union
+permalink: >-
+  /archive/2022/11/30/thousands-call-for-parliament-to-keep-terrorist-charges-for-terrorist-activities-and-material-only/index.html
+layout: layout.njk
 ---
 Thousands Call For Parliament To Keep Terrorist Charges For Terrorist Activities And Material Only
 ==================================================================================================

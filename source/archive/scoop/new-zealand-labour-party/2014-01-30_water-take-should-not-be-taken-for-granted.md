@@ -1,9 +1,12 @@
 ---
 slug: water-take-should-not-be-taken-for-granted
-title: "Water Take Should Not Be Taken For Granted"
-date: 2014-01-30
-source-url: https://www.scoop.co.nz/stories/PA1401/S00217/water-take-should-not-be-taken-for-granted.htm
+title: Water Take Should Not Be Taken For Granted
+date: 2014-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00217/water-take-should-not-be-taken-for-granted.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/01/30/water-take-should-not-be-taken-for-granted/index.html
+layout: layout.njk
 ---
 Water Take Should Not Be Taken For Granted
 ==========================================

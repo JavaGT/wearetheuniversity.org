@@ -1,9 +1,12 @@
 ---
 slug: nationals-veto-power-makes-skycity-deal-dirtier
-title: "National’s veto power makes SkyCity deal dirtier"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/PA1307/S00299/nationals-veto-power-makes-skycity-deal-dirtier.htm
+title: National’s veto power makes SkyCity deal dirtier
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00299/nationals-veto-power-makes-skycity-deal-dirtier.htm
 author: green-party
+permalink: /archive/2013/07/18/nationals-veto-power-makes-skycity-deal-dirtier/index.html
+layout: layout.njk
 ---
 National’s veto power makes SkyCity deal dirtier
 ================================================

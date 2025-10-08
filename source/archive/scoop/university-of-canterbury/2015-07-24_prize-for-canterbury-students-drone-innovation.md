@@ -1,9 +1,12 @@
 ---
 slug: prize-for-canterbury-students-drone-innovation
-title: "Prize for Canterbury student’s drone innovation"
-date: 2015-07-24
-source-url: https://www.scoop.co.nz/stories/ED1507/S00109/prize-for-canterbury-students-drone-innovation.htm
+title: Prize for Canterbury student’s drone innovation
+date: 2015-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00109/prize-for-canterbury-students-drone-innovation.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/24/prize-for-canterbury-students-drone-innovation/index.html
+layout: layout.njk
 ---
 Prize for Canterbury student’s drone innovation
 ===============================================

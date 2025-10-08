@@ -1,9 +1,11 @@
 ---
 slug: nzei-too-partisan
-title: "NZEI too partisan"
-date: 2006-09-27
+title: NZEI too partisan
+date: 2006-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0609/S00591/nzei-too-partisan.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/27/nzei-too-partisan/index.html
+layout: layout.njk
 ---
 NZEI too partisan
 =================

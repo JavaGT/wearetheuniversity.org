@@ -1,9 +1,12 @@
 ---
 slug: public-policy-saying-one-thing-doing-another
-title: "Public Policy: Saying One Thing, Doing Another"
-date: 2009-08-25
-source-url: https://www.scoop.co.nz/stories/ED0908/S00086/public-policy-saying-one-thing-doing-another.htm
+title: 'Public Policy: Saying One Thing, Doing Another'
+date: 2009-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0908/S00086/public-policy-saying-one-thing-doing-another.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/08/25/public-policy-saying-one-thing-doing-another/index.html
+layout: layout.njk
 ---
 Public Policy: Saying One Thing, Doing Another
 ==============================================

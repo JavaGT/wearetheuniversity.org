@@ -1,9 +1,12 @@
 ---
 slug: matariki-the-people-making-it-happen…
-title: "Matariki – the People Making It Happen…"
-date: 2018-01-24
-source-url: https://www.scoop.co.nz/stories/SC1801/S00026/matariki-the-people-making-it-happen.htm
+title: Matariki – the People Making It Happen…
+date: 2018-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00026/matariki-the-people-making-it-happen.htm
 author: university-of-waikato
+permalink: /archive/2018/01/24/matariki-the-people-making-it-happen/index.html
+layout: layout.njk
 ---
 Matariki – the People Making It Happen…
 =======================================

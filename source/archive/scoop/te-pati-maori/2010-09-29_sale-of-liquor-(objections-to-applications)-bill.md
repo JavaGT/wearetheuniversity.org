@@ -1,9 +1,12 @@
 ---
 slug: sale-of-liquor-(objections-to-applications)-bill
-title: "Sale of Liquor (Objections to Applications) Bill"
-date: 2010-09-29
-source-url: https://www.scoop.co.nz/stories/PA1009/S00431/sale-of-liquor-objections-to-applications-bill.htm
+title: Sale of Liquor (Objections to Applications) Bill
+date: 2010-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00431/sale-of-liquor-objections-to-applications-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/09/29/sale-of-liquor-/index.html
+layout: layout.njk
 ---
 Sale of Liquor (Objections to Applications) Bill
 ================================================

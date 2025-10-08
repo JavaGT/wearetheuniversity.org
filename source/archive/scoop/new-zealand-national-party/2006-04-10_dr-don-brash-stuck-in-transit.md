@@ -1,9 +1,12 @@
 ---
 slug: dr-don-brash-stuck-in-transit
-title: "Dr Don Brash: Stuck In Transit"
-date: 2006-04-10
-source-url: https://www.scoop.co.nz/stories/PA0604/S00195/dr-don-brash-stuck-in-transit.htm
+title: 'Dr Don Brash: Stuck In Transit'
+date: 2006-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00195/dr-don-brash-stuck-in-transit.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/10/dr-don-brash-stuck-in-transit/index.html
+layout: layout.njk
 ---
 Dr Don Brash: Stuck In Transit
 ==============================

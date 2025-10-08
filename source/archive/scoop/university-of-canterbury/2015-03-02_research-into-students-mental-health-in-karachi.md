@@ -1,9 +1,12 @@
 ---
 slug: research-into-students-mental-health-in-karachi
-title: "Research into students’ mental health in Karachi"
-date: 2015-03-02
-source-url: https://www.scoop.co.nz/stories/SC1503/S00003/research-into-students-mental-health-in-karachi.htm
+title: Research into students’ mental health in Karachi
+date: 2015-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00003/research-into-students-mental-health-in-karachi.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/02/research-into-students-mental-health-in-karachi/index.html
+layout: layout.njk
 ---
 Research into students’ mental health in Karachi
 ================================================

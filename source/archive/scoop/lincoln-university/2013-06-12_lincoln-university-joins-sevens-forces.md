@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-joins-sevens-forces
-title: "Lincoln University joins ‘Sevens’ forces"
-date: 2013-06-12
-source-url: https://www.scoop.co.nz/stories/ED1306/S00067/lincoln-university-joins-sevens-forces.htm
+title: Lincoln University joins ‘Sevens’ forces
+date: 2013-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00067/lincoln-university-joins-sevens-forces.htm
 author: lincoln-university
+permalink: /archive/2013/06/12/lincoln-university-joins-sevens-forces/index.html
+layout: layout.njk
 ---
 Lincoln University joins ‘Sevens’ forces
 ========================================

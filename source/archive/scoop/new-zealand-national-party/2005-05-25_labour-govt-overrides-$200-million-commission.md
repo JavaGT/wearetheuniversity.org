@@ -1,9 +1,12 @@
 ---
 slug: labour-govt-overrides-$200-million-commission
-title: "Labour Govt overrides $200 million commission"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/PA0505/S00655/labour-govt-overrides-200-million-commission.htm
+title: Labour Govt overrides $200 million commission
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00655/labour-govt-overrides-200-million-commission.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/25/labour-govt-overrides-/index.html
+layout: layout.njk
 ---
 Labour Govt overrides $200 million commission
 =============================================

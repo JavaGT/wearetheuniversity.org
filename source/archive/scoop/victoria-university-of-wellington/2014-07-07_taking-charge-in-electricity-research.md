@@ -1,9 +1,12 @@
 ---
 slug: taking-charge-in-electricity-research
-title: "Taking charge in electricity research"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00037/taking-charge-in-electricity-research.htm
+title: Taking charge in electricity research
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00037/taking-charge-in-electricity-research.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/07/taking-charge-in-electricity-research/index.html
+layout: layout.njk
 ---
 Taking charge in electricity research
 =====================================

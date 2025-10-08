@@ -1,9 +1,12 @@
 ---
 slug: students-reject-accomodation-characterisations
-title: "Students reject accomodation characterisations"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/ED0804/S00033/students-reject-accomodation-characterisations.htm
+title: Students reject accomodation characterisations
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00033/students-reject-accomodation-characterisations.htm
 author: auckland-university-students-association
+permalink: /archive/2008/04/10/students-reject-accomodation-characterisations/index.html
+layout: layout.njk
 ---
 Students reject accomodation characterisations
 ==============================================

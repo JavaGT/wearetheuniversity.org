@@ -1,9 +1,13 @@
 ---
 slug: computing-expert-wants-more-women-learning-computer-science
-title: "Computing Expert Wants More Women Learning Computer Science"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/SC1305/S00062/computing-expert-wants-more-women-learning-computer-science.htm
+title: Computing Expert Wants More Women Learning Computer Science
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00062/computing-expert-wants-more-women-learning-computer-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/20/computing-expert-wants-more-women-learning-computer-science/index.html
+layout: layout.njk
 ---
 Computing Expert Wants More Women Learning Computer Science
 ===========================================================

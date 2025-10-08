@@ -1,9 +1,12 @@
 ---
 slug: waikato-prison-process-gets-murkier
-title: "Waikato prison process gets murkier"
-date: 2004-03-24
-source-url: https://www.scoop.co.nz/stories/PA0403/S00538/waikato-prison-process-gets-murkier.htm
+title: Waikato prison process gets murkier
+date: 2004-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00538/waikato-prison-process-gets-murkier.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/24/waikato-prison-process-gets-murkier/index.html
+layout: layout.njk
 ---
 Waikato prison process gets murkier
 ===================================

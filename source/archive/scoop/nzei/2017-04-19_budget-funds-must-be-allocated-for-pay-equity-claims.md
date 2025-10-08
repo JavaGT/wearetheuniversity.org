@@ -1,9 +1,13 @@
 ---
 slug: budget-funds-must-be-allocated-for-pay-equity-claims
-title: "Budget funds must be allocated for pay equity claims"
-date: 2017-04-19
-source-url: https://www.scoop.co.nz/stories/PO1704/S00199/budget-funds-must-be-allocated-for-pay-equity-claims.htm
+title: Budget funds must be allocated for pay equity claims
+date: 2017-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00199/budget-funds-must-be-allocated-for-pay-equity-claims.htm
 author: nzei
+permalink: >-
+  /archive/2017/04/19/budget-funds-must-be-allocated-for-pay-equity-claims/index.html
+layout: layout.njk
 ---
 Budget funds must be allocated for pay equity claims
 ====================================================

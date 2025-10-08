@@ -1,9 +1,12 @@
 ---
 slug: product-design-gives-new-meaning-to-fill-er-up
-title: "Product Design Gives New Meaning to \"Fill ‘Er Up\""
-date: 2017-11-03
-source-url: https://www.scoop.co.nz/stories/BU1711/S00104/product-design-gives-new-meaning-to-fill-er-up.htm
+title: Product Design Gives New Meaning to "Fill ‘Er Up"
+date: 2017-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1711/S00104/product-design-gives-new-meaning-to-fill-er-up.htm
 author: massey-university
+permalink: /archive/2017/11/03/product-design-gives-new-meaning-to-fill-er-up/index.html
+layout: layout.njk
 ---
 Product Design Gives New Meaning to \"Fill ‘Er Up"
 =================================================

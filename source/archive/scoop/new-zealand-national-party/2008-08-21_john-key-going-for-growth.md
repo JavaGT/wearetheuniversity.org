@@ -1,9 +1,11 @@
 ---
 slug: john-key-going-for-growth
-title: "John Key: Going For Growth"
-date: 2008-08-21
+title: 'John Key: Going For Growth'
+date: 2008-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00320/john-key-going-for-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/21/john-key-going-for-growth/index.html
+layout: layout.njk
 ---
 John Key: Going For Growth
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-snares-10%-of-marsden-funding
-title: "University of Canterbury snares 10% of Marsden Funding"
-date: 2016-11-03
-source-url: https://www.scoop.co.nz/stories/ED1611/S00015/university-of-canterbury-snares-10-of-marsden-funding.htm
+title: University of Canterbury snares 10% of Marsden Funding
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00015/university-of-canterbury-snares-10-of-marsden-funding.htm
 author: university-of-canterbury
+permalink: /archive/2016/11/03/university-of-canterbury-snares-10/index.html
+layout: layout.njk
 ---
 University of Canterbury snares 10% of Marsden Funding
 ======================================================

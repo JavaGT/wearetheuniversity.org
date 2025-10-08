@@ -1,9 +1,12 @@
 ---
 slug: power-and-propaganda-at-the-adam-art-gallery
-title: "Power And Propaganda At The Adam Art Gallery"
-date: 2003-06-24
-source-url: https://www.scoop.co.nz/stories/CU0306/S00112/power-and-propaganda-at-the-adam-art-gallery.htm
+title: Power And Propaganda At The Adam Art Gallery
+date: 2003-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0306/S00112/power-and-propaganda-at-the-adam-art-gallery.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/24/power-and-propaganda-at-the-adam-art-gallery/index.html
+layout: layout.njk
 ---
 Power And Propaganda At The Adam Art Gallery
 ============================================

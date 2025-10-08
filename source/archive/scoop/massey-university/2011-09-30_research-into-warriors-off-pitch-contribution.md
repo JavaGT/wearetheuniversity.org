@@ -1,9 +1,12 @@
 ---
 slug: research-into-warriors-off-pitch-contribution
-title: "Research into Warriors off-pitch contribution"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/ED1109/S00146/research-into-warriors-off-pitch-contribution.htm
+title: Research into Warriors off-pitch contribution
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00146/research-into-warriors-off-pitch-contribution.htm
 author: massey-university
+permalink: /archive/2011/09/30/research-into-warriors-off-pitch-contribution/index.html
+layout: layout.njk
 ---
 Research into Warriors off-pitch contribution
 =============================================

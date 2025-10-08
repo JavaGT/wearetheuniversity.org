@@ -1,9 +1,12 @@
 ---
 slug: using-mathematics-to-understand-volcanoes
-title: "Using Mathematics to Understand Volcanoes"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/ED1305/S00126/using-mathematics-to-understand-volcanoes.htm
+title: Using Mathematics to Understand Volcanoes
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00126/using-mathematics-to-understand-volcanoes.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/05/20/using-mathematics-to-understand-volcanoes/index.html
+layout: layout.njk
 ---
 Using Mathematics to Understand Volcanoes
 =========================================

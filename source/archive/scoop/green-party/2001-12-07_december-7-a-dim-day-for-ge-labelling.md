@@ -1,9 +1,12 @@
 ---
 slug: december-7-a-dim-day-for-ge-labelling
-title: "December 7 a dim day for GE labelling"
-date: 2001-12-07
-source-url: https://www.scoop.co.nz/stories/PA0112/S00126/december-7-a-dim-day-for-ge-labelling.htm
+title: December 7 a dim day for GE labelling
+date: 2001-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00126/december-7-a-dim-day-for-ge-labelling.htm
 author: green-party
+permalink: /archive/2001/12/07/december-7-a-dim-day-for-ge-labelling/index.html
+layout: layout.njk
 ---
 December 7 a dim day for GE labelling
 =====================================

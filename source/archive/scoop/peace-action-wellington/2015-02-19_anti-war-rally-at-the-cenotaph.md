@@ -1,9 +1,12 @@
 ---
 slug: anti-war-rally-at-the-cenotaph
-title: "Anti-War Rally at the Cenotaph"
-date: 2015-02-19
-source-url: https://www.scoop.co.nz/stories/PO1502/S00215/anti-war-rally-at-the-cenotaph.htm
+title: Anti-War Rally at the Cenotaph
+date: 2015-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00215/anti-war-rally-at-the-cenotaph.htm
 author: peace-action-wellington
+permalink: /archive/2015/02/19/anti-war-rally-at-the-cenotaph/index.html
+layout: layout.njk
 ---
 Anti-War Rally at the Cenotaph
 ==============================

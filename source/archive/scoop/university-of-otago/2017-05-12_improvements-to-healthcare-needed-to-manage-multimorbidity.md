@@ -1,9 +1,13 @@
 ---
 slug: improvements-to-healthcare-needed-to-manage-multimorbidity
-title: "Improvements to healthcare needed to manage multimorbidity"
-date: 2017-05-12
-source-url: https://www.scoop.co.nz/stories/GE1705/S00082/improvements-to-healthcare-needed-to-manage-multimorbidity.htm
+title: Improvements to healthcare needed to manage multimorbidity
+date: 2017-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00082/improvements-to-healthcare-needed-to-manage-multimorbidity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/12/improvements-to-healthcare-needed-to-manage-multimorbidity/index.html
+layout: layout.njk
 ---
 Improvements to healthcare needed to manage multimorbidity
 ==========================================================

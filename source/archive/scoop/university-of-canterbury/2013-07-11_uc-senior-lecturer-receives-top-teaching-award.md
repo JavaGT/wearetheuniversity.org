@@ -1,9 +1,12 @@
 ---
 slug: uc-senior-lecturer-receives-top-teaching-award
-title: "UC senior lecturer receives top teaching award"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/ED1307/S00063/uc-senior-lecturer-receives-top-teaching-award.htm
+title: UC senior lecturer receives top teaching award
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00063/uc-senior-lecturer-receives-top-teaching-award.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/11/uc-senior-lecturer-receives-top-teaching-award/index.html
+layout: layout.njk
 ---
 UC senior lecturer receives top teaching award
 ==============================================

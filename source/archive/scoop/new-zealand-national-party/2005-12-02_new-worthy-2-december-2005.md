@@ -1,9 +1,11 @@
 ---
 slug: new-worthy-2-december-2005
-title: "New Worthy, 2 December 2005"
-date: 2005-12-02
+title: New Worthy, 2 December 2005
+date: 2005-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00035/new-worthy-2-december-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/02/new-worthy-2-december-2005/index.html
+layout: layout.njk
 ---
 New Worthy, 2 December 2005
 ===========================

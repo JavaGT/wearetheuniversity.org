@@ -1,9 +1,12 @@
 ---
 slug: 1000-new-zealand-classics-released-as-ebooks
-title: "1000 New Zealand classics released as eBooks"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/ED0909/S00027/1000-new-zealand-classics-released-as-ebooks.htm
+title: 1000 New Zealand classics released as eBooks
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00027/1000-new-zealand-classics-released-as-ebooks.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/09/1000-new-zealand-classics-released-as-ebooks/index.html
+layout: layout.njk
 ---
 1000 New Zealand classics released as eBooks
 ============================================

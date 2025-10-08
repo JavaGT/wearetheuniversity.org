@@ -1,9 +1,12 @@
 ---
 slug: research-how-body-movement-changes-in-pregnancy
-title: "Research: How Body Movement Changes In Pregnancy"
-date: 2021-07-05
-source-url: https://www.scoop.co.nz/stories/GE2107/S00009/research-how-body-movement-changes-in-pregnancy.htm
+title: 'Research: How Body Movement Changes In Pregnancy'
+date: 2021-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2107/S00009/research-how-body-movement-changes-in-pregnancy.htm
 author: aut-university
+permalink: /archive/2021/07/05/research-how-body-movement-changes-in-pregnancy/index.html
+layout: layout.njk
 ---
 Research: How Body Movement Changes In Pregnancy
 ================================================

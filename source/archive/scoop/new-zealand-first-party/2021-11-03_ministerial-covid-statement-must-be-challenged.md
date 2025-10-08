@@ -1,9 +1,12 @@
 ---
 slug: ministerial-covid-statement-must-be-challenged
-title: "Ministerial Covid Statement Must Be Challenged"
-date: 2021-11-03
-source-url: https://www.scoop.co.nz/stories/PO2111/S00027/ministerial-covid-statement-must-be-challenged.htm
+title: Ministerial Covid Statement Must Be Challenged
+date: 2021-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00027/ministerial-covid-statement-must-be-challenged.htm
 author: new-zealand-first-party
+permalink: /archive/2021/11/03/ministerial-covid-statement-must-be-challenged/index.html
+layout: layout.njk
 ---
 Ministerial Covid Statement Must Be Challenged
 ==============================================

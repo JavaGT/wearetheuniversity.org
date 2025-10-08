@@ -1,9 +1,12 @@
 ---
 slug: are-there-any-winners-under-a-socialist-govt
-title: "Are There Any Winners Under A Socialist Govt?"
-date: 2000-11-15
-source-url: https://www.scoop.co.nz/stories/PA0011/S00255/are-there-any-winners-under-a-socialist-govt.htm
+title: Are There Any Winners Under A Socialist Govt?
+date: 2000-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00255/are-there-any-winners-under-a-socialist-govt.htm
 author: act-new-zealand
+permalink: /archive/2000/11/15/are-there-any-winners-under-a-socialist-govt/index.html
+layout: layout.njk
 ---
 Are There Any Winners Under A Socialist Govt?
 =============================================

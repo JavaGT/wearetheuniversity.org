@@ -1,9 +1,13 @@
 ---
 slug: unions-welcome-release-of-labours-industrial-relations-policy
-title: "Unions Welcome Release Of Labour’s Industrial Relations Policy"
-date: 2020-09-19
-source-url: https://www.scoop.co.nz/stories/PO2009/S00290/unions-welcome-release-of-labours-industrial-relations-policy.htm
+title: Unions Welcome Release Of Labour’s Industrial Relations Policy
+date: 2020-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00290/unions-welcome-release-of-labours-industrial-relations-policy.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2020/09/19/unions-welcome-release-of-labours-industrial-relations-policy/index.html
+layout: layout.njk
 ---
 Unions Welcome Release Of Labour’s Industrial Relations Policy
 ==============================================================

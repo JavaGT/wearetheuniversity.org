@@ -1,9 +1,13 @@
 ---
 slug: professor-of-law-candidate-for-international-court
-title: "Professor of Law Candidate for International Court"
-date: 2003-08-26
-source-url: https://www.scoop.co.nz/stories/ED0308/S00091/professor-of-law-candidate-for-international-court.htm
+title: Professor of Law Candidate for International Court
+date: 2003-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00091/professor-of-law-candidate-for-international-court.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/08/26/professor-of-law-candidate-for-international-court/index.html
+layout: layout.njk
 ---
 Professor of Law Candidate for International Court
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: hooligans-gentlemen-and-the-footy
-title: "Hooligans, Gentlemen and the Footy"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/CU0908/S00151/hooligans-gentlemen-and-the-footy.htm
+title: Hooligans, Gentlemen and the Footy
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0908/S00151/hooligans-gentlemen-and-the-footy.htm
 author: salient
+permalink: /archive/2009/08/10/hooligans-gentlemen-and-the-footy/index.html
+layout: layout.njk
 ---
 Hooligans, Gentlemen and the Footy
 ==================================

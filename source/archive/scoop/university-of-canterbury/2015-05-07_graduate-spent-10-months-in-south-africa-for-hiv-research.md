@@ -1,9 +1,13 @@
 ---
 slug: graduate-spent-10-months-in-south-africa-for-hiv-research
-title: "Graduate spent 10 months in South Africa for HIV research"
-date: 2015-05-07
-source-url: https://www.scoop.co.nz/stories/ED1505/S00032/graduate-spent-10-months-in-south-africa-for-hiv-research.htm
+title: Graduate spent 10 months in South Africa for HIV research
+date: 2015-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00032/graduate-spent-10-months-in-south-africa-for-hiv-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/05/07/graduate-spent-10-months-in-south-africa-for-hiv-research/index.html
+layout: layout.njk
 ---
 Graduate spent 10 months in South Africa for HIV research
 =========================================================

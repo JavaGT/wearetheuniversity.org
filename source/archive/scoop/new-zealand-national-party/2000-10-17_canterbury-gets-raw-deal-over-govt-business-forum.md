@@ -1,9 +1,13 @@
 ---
 slug: canterbury-gets-raw-deal-over-govt-business-forum
-title: "Canterbury Gets Raw Deal Over Govt Business Forum"
-date: 2000-10-17
-source-url: https://www.scoop.co.nz/stories/PA0010/S00323/canterbury-gets-raw-deal-over-govt-business-forum.htm
+title: Canterbury Gets Raw Deal Over Govt Business Forum
+date: 2000-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00323/canterbury-gets-raw-deal-over-govt-business-forum.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/10/17/canterbury-gets-raw-deal-over-govt-business-forum/index.html
+layout: layout.njk
 ---
 Canterbury Gets Raw Deal Over Govt Business Forum
 =================================================

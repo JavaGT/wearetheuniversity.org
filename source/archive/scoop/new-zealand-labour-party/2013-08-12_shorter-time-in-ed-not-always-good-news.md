@@ -1,9 +1,12 @@
 ---
 slug: shorter-time-in-ed-not-always-good-news
-title: "Shorter time in ED not always good news"
-date: 2013-08-12
-source-url: https://www.scoop.co.nz/stories/PA1308/S00192/shorter-time-in-ed-not-always-good-news.htm
+title: Shorter time in ED not always good news
+date: 2013-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00192/shorter-time-in-ed-not-always-good-news.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/12/shorter-time-in-ed-not-always-good-news/index.html
+layout: layout.njk
 ---
 Shorter time in ED not always good news
 =======================================

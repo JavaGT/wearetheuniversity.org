@@ -1,9 +1,12 @@
 ---
 slug: councils-conduct-codes-gag-elected-members
-title: "Councils’ conduct codes gag elected members"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PO1412/S00026/councils-conduct-codes-gag-elected-members.htm
+title: Councils’ conduct codes gag elected members
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1412/S00026/councils-conduct-codes-gag-elected-members.htm
 author: massey-university
+permalink: /archive/2014/12/02/councils-conduct-codes-gag-elected-members/index.html
+layout: layout.njk
 ---
 Councils’ conduct codes gag elected members
 ===========================================

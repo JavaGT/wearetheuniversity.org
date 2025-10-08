@@ -1,9 +1,13 @@
 ---
 slug: pacific-art-students-see-exhibition-as-launching-pad
-title: "Pacific art students see exhibition as launching pad"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/ED1107/S00096/pacific-art-students-see-exhibition-as-launching-pad.htm
+title: Pacific art students see exhibition as launching pad
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00096/pacific-art-students-see-exhibition-as-launching-pad.htm
 author: aut-university
+permalink: >-
+  /archive/2011/07/21/pacific-art-students-see-exhibition-as-launching-pad/index.html
+layout: layout.njk
 ---
 Pacific art students see exhibition as launching pad
 ====================================================

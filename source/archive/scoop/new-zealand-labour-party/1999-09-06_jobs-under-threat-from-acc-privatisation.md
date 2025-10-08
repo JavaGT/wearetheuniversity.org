@@ -1,9 +1,12 @@
 ---
 slug: jobs-under-threat-from-acc-privatisation
-title: "Jobs under threat from ACC privatisation"
-date: 1999-09-06
-source-url: https://www.scoop.co.nz/stories/BU9909/S00039/jobs-under-threat-from-acc-privatisation.htm
+title: Jobs under threat from ACC privatisation
+date: 1999-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU9909/S00039/jobs-under-threat-from-acc-privatisation.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/06/jobs-under-threat-from-acc-privatisation/index.html
+layout: layout.njk
 ---
 Jobs under threat from ACC privatisation
 ========================================

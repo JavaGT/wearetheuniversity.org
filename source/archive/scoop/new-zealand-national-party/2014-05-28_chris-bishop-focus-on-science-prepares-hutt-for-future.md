@@ -1,9 +1,13 @@
 ---
 slug: chris-bishop-focus-on-science-prepares-hutt-for-future
-title: "Chris Bishop - Focus on science prepares Hutt for future"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PO1405/S00463/chris-bishop-focus-on-science-prepares-hutt-for-future.htm
+title: Chris Bishop - Focus on science prepares Hutt for future
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00463/chris-bishop-focus-on-science-prepares-hutt-for-future.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/28/chris-bishop-focus-on-science-prepares-hutt-for-future/index.html
+layout: layout.njk
 ---
 Chris Bishop - Focus on science prepares Hutt for future
 ========================================================

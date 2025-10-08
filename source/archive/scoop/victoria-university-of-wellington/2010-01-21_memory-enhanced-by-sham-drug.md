@@ -1,9 +1,11 @@
 ---
 slug: memory-enhanced-by-sham-drug
-title: "Memory enhanced by ‘sham’ drug"
-date: 2010-01-21
+title: Memory enhanced by ‘sham’ drug
+date: 2010-01-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1001/S00028/memory-enhanced-by-sham-drug.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/21/memory-enhanced-by-sham-drug/index.html
+layout: layout.njk
 ---
 Memory enhanced by ‘sham’ drug
 ==============================

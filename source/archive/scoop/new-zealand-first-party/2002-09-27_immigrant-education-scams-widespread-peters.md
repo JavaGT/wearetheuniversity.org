@@ -1,9 +1,12 @@
 ---
 slug: immigrant-education-scams-widespread-peters
-title: "Immigrant Education Scams Widespread - Peters"
-date: 2002-09-27
-source-url: https://www.scoop.co.nz/stories/PA0209/S00447/immigrant-education-scams-widespread-peters.htm
+title: Immigrant Education Scams Widespread - Peters
+date: 2002-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00447/immigrant-education-scams-widespread-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/09/27/immigrant-education-scams-widespread-peters/index.html
+layout: layout.njk
 ---
 Immigrant Education Scams Widespread - Peters
 =============================================

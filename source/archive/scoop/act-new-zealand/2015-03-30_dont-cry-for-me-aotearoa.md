@@ -1,9 +1,11 @@
 ---
 slug: dont-cry-for-me-aotearoa
-title: "Don’t Cry for Me Aotearoa"
-date: 2015-03-30
+title: Don’t Cry for Me Aotearoa
+date: 2015-03-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1503/S00360/dont-cry-for-me-aotearoa.htm
 author: act-new-zealand
+permalink: /archive/2015/03/30/dont-cry-for-me-aotearoa/index.html
+layout: layout.njk
 ---
 Don’t Cry for Me Aotearoa
 =========================

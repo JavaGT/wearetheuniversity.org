@@ -1,8 +1,12 @@
 ---
 slug: crows-specialised-bill-might-explain-clever-tool-skills
-title: "Crows’ specialised bill might explain clever tool skills"
-date: 2016-03-10
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/crows_-specialised-bill-might-explain-clever-tool-skills-.html
+title: Crows’ specialised bill might explain clever tool skills
+date: 2016-03-10T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/crows_-specialised-bill-might-explain-clever-tool-skills-.html
+permalink: >-
+  /archive/2016/03/10/crows-specialised-bill-might-explain-clever-tool-skills/index.html
+layout: layout.njk
 ---
 Crows’ specialised bill might explain clever tool skills
 ========================================================

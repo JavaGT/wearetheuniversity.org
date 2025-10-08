@@ -1,9 +1,12 @@
 ---
 slug: nz-lowly-ranked-on-personal-wellbeing
-title: "NZ lowly ranked on personal wellbeing"
-date: 2013-09-08
-source-url: https://www.scoop.co.nz/stories/GE1309/S00032/nz-lowly-ranked-on-personal-wellbeing.htm
+title: NZ lowly ranked on personal wellbeing
+date: 2013-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1309/S00032/nz-lowly-ranked-on-personal-wellbeing.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/08/nz-lowly-ranked-on-personal-wellbeing/index.html
+layout: layout.njk
 ---
 NZ lowly ranked on personal wellbeing
 =====================================

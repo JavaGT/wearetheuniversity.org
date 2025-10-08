@@ -1,9 +1,11 @@
 ---
 slug: brian-connell-carbon-tax
-title: "Brian Connell: Carbon Tax"
-date: 2004-10-04
+title: 'Brian Connell: Carbon Tax'
+date: 2004-10-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0410/S00052/brian-connell-carbon-tax.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/04/brian-connell-carbon-tax/index.html
+layout: layout.njk
 ---
 Brian Connell: Carbon Tax
 =========================

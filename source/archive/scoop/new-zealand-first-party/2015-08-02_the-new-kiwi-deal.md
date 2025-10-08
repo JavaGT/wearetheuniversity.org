@@ -1,9 +1,11 @@
 ---
 slug: the-new-kiwi-deal
-title: "The New Kiwi Deal"
-date: 2015-08-02
+title: The New Kiwi Deal
+date: 2015-08-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1508/S00008/the-new-kiwi-deal.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/02/the-new-kiwi-deal/index.html
+layout: layout.njk
 ---
 The New Kiwi Deal
 =================

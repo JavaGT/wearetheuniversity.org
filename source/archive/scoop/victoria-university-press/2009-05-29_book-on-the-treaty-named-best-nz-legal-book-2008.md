@@ -1,9 +1,13 @@
 ---
 slug: book-on-the-treaty-named-best-nz-legal-book-2008
-title: "Book on the Treaty Named Best NZ Legal Book 2008"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/PO0905/S00416/book-on-the-treaty-named-best-nz-legal-book-2008.htm
+title: Book on the Treaty Named Best NZ Legal Book 2008
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0905/S00416/book-on-the-treaty-named-best-nz-legal-book-2008.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2009/05/29/book-on-the-treaty-named-best-nz-legal-book-2008/index.html
+layout: layout.njk
 ---
 Book on the Treaty Named Best NZ Legal Book 2008
 ================================================

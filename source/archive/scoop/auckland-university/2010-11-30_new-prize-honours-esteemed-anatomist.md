@@ -1,9 +1,12 @@
 ---
 slug: new-prize-honours-esteemed-anatomist
-title: "New prize honours esteemed anatomist"
-date: 2010-11-30
-source-url: https://www.scoop.co.nz/stories/ED1011/S00118/new-prize-honours-esteemed-anatomist.htm
+title: New prize honours esteemed anatomist
+date: 2010-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00118/new-prize-honours-esteemed-anatomist.htm
 author: auckland-university
+permalink: /archive/2010/11/30/new-prize-honours-esteemed-anatomist/index.html
+layout: layout.njk
 ---
 New prize honours esteemed anatomist
 ====================================

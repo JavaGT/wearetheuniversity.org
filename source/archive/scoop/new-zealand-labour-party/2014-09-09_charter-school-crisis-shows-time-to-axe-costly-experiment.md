@@ -1,9 +1,13 @@
 ---
 slug: charter-school-crisis-shows-time-to-axe-costly-experiment
-title: "Charter school crisis shows time to axe costly experiment"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/PA1409/S00129/charter-school-crisis-shows-time-to-axe-costly-experiment.htm
+title: Charter school crisis shows time to axe costly experiment
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00129/charter-school-crisis-shows-time-to-axe-costly-experiment.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/09/09/charter-school-crisis-shows-time-to-axe-costly-experiment/index.html
+layout: layout.njk
 ---
 Charter school crisis shows time to axe costly experiment
 =========================================================

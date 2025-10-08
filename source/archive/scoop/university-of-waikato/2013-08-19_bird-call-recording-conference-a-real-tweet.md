@@ -1,9 +1,12 @@
 ---
 slug: bird-call-recording-conference-a-real-tweet
-title: "Bird-call recording conference a real tweet"
-date: 2013-08-19
-source-url: https://www.scoop.co.nz/stories/ED1308/S00092/bird-call-recording-conference-a-real-tweet.htm
+title: Bird-call recording conference a real tweet
+date: 2013-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00092/bird-call-recording-conference-a-real-tweet.htm
 author: university-of-waikato
+permalink: /archive/2013/08/19/bird-call-recording-conference-a-real-tweet/index.html
+layout: layout.njk
 ---
 Bird-call recording conference a real tweet
 ===========================================

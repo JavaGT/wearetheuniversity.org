@@ -1,9 +1,12 @@
 ---
 slug: launch-of-family-violence-programme-of-action
-title: "Launch of Family Violence Programme of Action"
-date: 2009-09-01
-source-url: https://www.scoop.co.nz/stories/PA0909/S00003/launch-of-family-violence-programme-of-action.htm
+title: Launch of Family Violence Programme of Action
+date: 2009-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00003/launch-of-family-violence-programme-of-action.htm
 author: te-pati-maori
+permalink: /archive/2009/09/01/launch-of-family-violence-programme-of-action/index.html
+layout: layout.njk
 ---
 Launch of Family Violence Programme of Action
 =============================================

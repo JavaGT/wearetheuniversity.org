@@ -1,9 +1,12 @@
 ---
 slug: dont-leave-town-til-youve-seen-the-country
-title: "Don't leave town 'til you've seen the country"
-date: 2007-02-14
-source-url: https://www.scoop.co.nz/stories/PA0702/S00241/dont-leave-town-til-youve-seen-the-country.htm
+title: Don't leave town 'til you've seen the country
+date: 2007-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00241/dont-leave-town-til-youve-seen-the-country.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/14/dont-leave-town-til-youve-seen-the-country/index.html
+layout: layout.njk
 ---
 Don't leave town 'til you've seen the country
 =============================================

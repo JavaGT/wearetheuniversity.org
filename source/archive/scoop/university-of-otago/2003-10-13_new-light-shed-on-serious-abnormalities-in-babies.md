@@ -1,9 +1,13 @@
 ---
 slug: new-light-shed-on-serious-abnormalities-in-babies
-title: "New Light Shed On Serious Abnormalities In Babies"
-date: 2003-10-13
-source-url: https://www.scoop.co.nz/stories/GE0310/S00044/new-light-shed-on-serious-abnormalities-in-babies.htm
+title: New Light Shed On Serious Abnormalities In Babies
+date: 2003-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0310/S00044/new-light-shed-on-serious-abnormalities-in-babies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2003/10/13/new-light-shed-on-serious-abnormalities-in-babies/index.html
+layout: layout.njk
 ---
 New Light Shed On Serious Abnormalities In Babies
 =================================================

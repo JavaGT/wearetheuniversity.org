@@ -1,9 +1,12 @@
 ---
 slug: turia-national-maori-womens-refuge-hui-speech
-title: "Turia: National Maori Women's Refuge Hui Speech"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/PA0803/S00205/turia-national-maori-womens-refuge-hui-speech.htm
+title: 'Turia: National Maori Women''s Refuge Hui Speech'
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00205/turia-national-maori-womens-refuge-hui-speech.htm
 author: te-pati-maori
+permalink: /archive/2008/03/12/turia-national-maori-womens-refuge-hui-speech/index.html
+layout: layout.njk
 ---
 Turia: National Maori Women's Refuge Hui Speech
 ===============================================

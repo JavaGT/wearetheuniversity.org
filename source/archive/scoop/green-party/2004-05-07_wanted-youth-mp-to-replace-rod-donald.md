@@ -1,9 +1,12 @@
 ---
 slug: wanted-youth-mp-to-replace-rod-donald
-title: "Wanted: Youth MP to replace Rod Donald"
-date: 2004-05-07
-source-url: https://www.scoop.co.nz/stories/PA0405/S00137/wanted-youth-mp-to-replace-rod-donald.htm
+title: 'Wanted: Youth MP to replace Rod Donald'
+date: 2004-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00137/wanted-youth-mp-to-replace-rod-donald.htm
 author: green-party
+permalink: /archive/2004/05/07/wanted-youth-mp-to-replace-rod-donald/index.html
+layout: layout.njk
 ---
 Wanted: Youth MP to replace Rod Donald
 ======================================

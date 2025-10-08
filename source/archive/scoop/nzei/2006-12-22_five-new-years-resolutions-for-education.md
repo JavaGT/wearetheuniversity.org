@@ -1,9 +1,12 @@
 ---
 slug: five-new-years-resolutions-for-education
-title: "Five New Year’s Resolutions for Education"
-date: 2006-12-22
-source-url: https://www.scoop.co.nz/stories/ED0612/S00074/five-new-years-resolutions-for-education.htm
+title: Five New Year’s Resolutions for Education
+date: 2006-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00074/five-new-years-resolutions-for-education.htm
 author: nzei
+permalink: /archive/2006/12/22/five-new-years-resolutions-for-education/index.html
+layout: layout.njk
 ---
 Five New Year’s Resolutions for Education
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-2015-good-for-the-hutt-valley
-title: "Budget 2015 good for the Hutt Valley"
-date: 2015-05-26
-source-url: https://www.scoop.co.nz/stories/PA1505/S00478/budget-2015-good-for-the-hutt-valley.htm
+title: Budget 2015 good for the Hutt Valley
+date: 2015-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00478/budget-2015-good-for-the-hutt-valley.htm
 author: new-zealand-national-party
+permalink: /archive/2015/05/26/budget-2015-good-for-the-hutt-valley/index.html
+layout: layout.njk
 ---
 Budget 2015 good for the Hutt Valley
 ====================================

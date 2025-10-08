@@ -1,9 +1,12 @@
 ---
 slug: emergency-housing-inevitable-in-national-crisis
-title: "Emergency housing inevitable in national crisis"
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/PA1605/S00138/emergency-housing-inevitable-in-national-crisis.htm
+title: Emergency housing inevitable in national crisis
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00138/emergency-housing-inevitable-in-national-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/09/emergency-housing-inevitable-in-national-crisis/index.html
+layout: layout.njk
 ---
 Emergency housing inevitable in national crisis
 ===============================================

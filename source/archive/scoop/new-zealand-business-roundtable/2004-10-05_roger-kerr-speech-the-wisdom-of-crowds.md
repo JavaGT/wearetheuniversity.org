@@ -1,9 +1,12 @@
 ---
 slug: roger-kerr-speech-the-wisdom-of-crowds
-title: "Roger Kerr: Speech - \"The Wisdom Of Crowds\""
-date: 2004-10-05
-source-url: https://www.scoop.co.nz/stories/BU0410/S00027/roger-kerr-speech-the-wisdom-of-crowds.htm
+title: 'Roger Kerr: Speech - "The Wisdom Of Crowds"'
+date: 2004-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0410/S00027/roger-kerr-speech-the-wisdom-of-crowds.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/10/05/roger-kerr-speech-the-wisdom-of-crowds/index.html
+layout: layout.njk
 ---
 Roger Kerr: Speech - \"The Wisdom Of Crowds"
 ===========================================

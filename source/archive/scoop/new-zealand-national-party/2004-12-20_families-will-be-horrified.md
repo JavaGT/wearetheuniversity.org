@@ -1,9 +1,11 @@
 ---
 slug: families-will-be-horrified
-title: "Families will be horrified"
-date: 2004-12-20
+title: Families will be horrified
+date: 2004-12-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00504/families-will-be-horrified.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/20/families-will-be-horrified/index.html
+layout: layout.njk
 ---
 Families will be horrified
 ==========================

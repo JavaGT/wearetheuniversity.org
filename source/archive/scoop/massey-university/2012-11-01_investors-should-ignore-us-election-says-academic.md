@@ -1,9 +1,13 @@
 ---
 slug: investors-should-ignore-us-election-says-academic
-title: "Investors Should Ignore US election, Says Academic"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/ED1211/S00003/investors-should-ignore-us-election-says-academic.htm
+title: Investors Should Ignore US election, Says Academic
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00003/investors-should-ignore-us-election-says-academic.htm
 author: massey-university
+permalink: >-
+  /archive/2012/11/01/investors-should-ignore-us-election-says-academic/index.html
+layout: layout.njk
 ---
 Investors Should Ignore US election, Says Academic
 ==================================================

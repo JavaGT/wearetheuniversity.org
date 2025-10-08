@@ -1,9 +1,12 @@
 ---
 slug: fruit-for-the-fridge-or-the-bowl
-title: "Fruit for the fridge or the bowl?"
-date: 2007-03-12
-source-url: https://www.scoop.co.nz/stories/SC0703/S00023/fruit-for-the-fridge-or-the-bowl.htm
+title: Fruit for the fridge or the bowl?
+date: 2007-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00023/fruit-for-the-fridge-or-the-bowl.htm
 author: massey-university
+permalink: /archive/2007/03/12/fruit-for-the-fridge-or-the-bowl/index.html
+layout: layout.njk
 ---
 Fruit for the fridge or the bowl?
 =================================

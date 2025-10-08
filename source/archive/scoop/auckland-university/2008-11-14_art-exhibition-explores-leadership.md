@@ -1,9 +1,12 @@
 ---
 slug: art-exhibition-explores-leadership
-title: "Art Exhibition Explores Leadership"
-date: 2008-11-14
-source-url: https://www.scoop.co.nz/stories/AK0811/S00126/art-exhibition-explores-leadership.htm
+title: Art Exhibition Explores Leadership
+date: 2008-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0811/S00126/art-exhibition-explores-leadership.htm
 author: auckland-university
+permalink: /archive/2008/11/14/art-exhibition-explores-leadership/index.html
+layout: layout.njk
 ---
 Art Exhibition Explores Leadership
 ==================================

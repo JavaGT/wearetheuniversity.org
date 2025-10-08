@@ -1,9 +1,12 @@
 ---
 slug: dentistry-students-deserve-refund
-title: "Dentistry Students Deserve Refund"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/ED0205/S00002/dentistry-students-deserve-refund.htm
+title: Dentistry Students Deserve Refund
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00002/dentistry-students-deserve-refund.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/01/dentistry-students-deserve-refund/index.html
+layout: layout.njk
 ---
 Dentistry Students Deserve Refund
 =================================

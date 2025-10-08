@@ -1,9 +1,12 @@
 ---
 slug: parker-must-front-over-crime-stats
-title: "Parker Must Front Over Crime Stats"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PA0403/S00192/parker-must-front-over-crime-stats.htm
+title: Parker Must Front Over Crime Stats
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00192/parker-must-front-over-crime-stats.htm
 author: act-new-zealand
+permalink: /archive/2004/03/09/parker-must-front-over-crime-stats/index.html
+layout: layout.njk
 ---
 Parker Must Front Over Crime Stats
 ==================================

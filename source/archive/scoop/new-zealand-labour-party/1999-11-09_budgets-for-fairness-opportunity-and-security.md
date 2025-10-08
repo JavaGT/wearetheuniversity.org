@@ -1,9 +1,12 @@
 ---
 slug: budgets-for-fairness-opportunity-and-security
-title: "Budgets for fairness, opportunity and security"
-date: 1999-11-09
-source-url: https://www.scoop.co.nz/stories/PO9911/S00065/budgets-for-fairness-opportunity-and-security.htm
+title: Budgets for fairness, opportunity and security
+date: 1999-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00065/budgets-for-fairness-opportunity-and-security.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/09/budgets-for-fairness-opportunity-and-security/index.html
+layout: layout.njk
 ---
 Budgets for fairness, opportunity and security
 ==============================================

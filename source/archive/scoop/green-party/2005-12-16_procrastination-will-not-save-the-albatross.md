@@ -1,9 +1,12 @@
 ---
 slug: procrastination-will-not-save-the-albatross
-title: "Procrastination will not save the albatross"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/PA0512/S00265/procrastination-will-not-save-the-albatross.htm
+title: Procrastination will not save the albatross
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00265/procrastination-will-not-save-the-albatross.htm
 author: green-party
+permalink: /archive/2005/12/16/procrastination-will-not-save-the-albatross/index.html
+layout: layout.njk
 ---
 Procrastination will not save the albatross
 ===========================================

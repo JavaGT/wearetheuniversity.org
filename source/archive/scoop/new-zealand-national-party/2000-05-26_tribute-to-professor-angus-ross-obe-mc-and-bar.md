@@ -1,9 +1,12 @@
 ---
 slug: tribute-to-professor-angus-ross-obe-mc-and-bar
-title: "Tribute to Professor Angus Ross OBE, MC and Bar"
-date: 2000-05-26
-source-url: https://www.scoop.co.nz/stories/PA0005/S00585/tribute-to-professor-angus-ross-obe-mc-and-bar.htm
+title: Tribute to Professor Angus Ross OBE, MC and Bar
+date: 2000-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00585/tribute-to-professor-angus-ross-obe-mc-and-bar.htm
 author: new-zealand-national-party
+permalink: /archive/2000/05/26/tribute-to-professor-angus-ross-obe-mc-and-bar/index.html
+layout: layout.njk
 ---
 Tribute to Professor Angus Ross OBE, MC and Bar
 ===============================================

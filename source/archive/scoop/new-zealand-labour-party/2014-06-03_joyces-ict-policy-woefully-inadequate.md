@@ -1,9 +1,12 @@
 ---
 slug: joyces-ict-policy-woefully-inadequate
-title: "Joyce’s ICT policy woefully inadequate"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/PA1406/S00024/joyces-ict-policy-woefully-inadequate.htm
+title: Joyce’s ICT policy woefully inadequate
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00024/joyces-ict-policy-woefully-inadequate.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/03/joyces-ict-policy-woefully-inadequate/index.html
+layout: layout.njk
 ---
 Joyce’s ICT policy woefully inadequate
 ======================================

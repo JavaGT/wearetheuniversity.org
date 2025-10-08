@@ -1,9 +1,12 @@
 ---
 slug: deep-sea-hot-vent-creatures-not-so-keen-on-heat
-title: "Deep-sea hot vent creatures not so keen on heat"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/SC1005/S00014/deep-sea-hot-vent-creatures-not-so-keen-on-heat.htm
+title: Deep-sea hot vent creatures not so keen on heat
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1005/S00014/deep-sea-hot-vent-creatures-not-so-keen-on-heat.htm
 author: university-of-otago
+permalink: /archive/2010/05/05/deep-sea-hot-vent-creatures-not-so-keen-on-heat/index.html
+layout: layout.njk
 ---
 Deep-sea hot vent creatures not so keen on heat
 ===============================================

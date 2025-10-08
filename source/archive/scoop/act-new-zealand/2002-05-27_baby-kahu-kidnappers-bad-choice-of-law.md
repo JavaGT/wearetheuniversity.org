@@ -1,9 +1,12 @@
 ---
 slug: baby-kahu-kidnappers-bad-choice-of-law
-title: "Baby Kahu Kidnapper's Bad Choice Of Law"
-date: 2002-05-27
-source-url: https://www.scoop.co.nz/stories/PA0205/S00620/baby-kahu-kidnappers-bad-choice-of-law.htm
+title: Baby Kahu Kidnapper's Bad Choice Of Law
+date: 2002-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00620/baby-kahu-kidnappers-bad-choice-of-law.htm
 author: act-new-zealand
+permalink: /archive/2002/05/27/baby-kahu-kidnappers-bad-choice-of-law/index.html
+layout: layout.njk
 ---
 Baby Kahu Kidnapper's Bad Choice Of Law
 =======================================

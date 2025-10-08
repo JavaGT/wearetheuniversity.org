@@ -1,9 +1,12 @@
 ---
 slug: loan-amnesty-a-positive-move-donnelly
-title: "Loan Amnesty A Positive Move - Donnelly"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/PA0611/S00239/loan-amnesty-a-positive-move-donnelly.htm
+title: Loan Amnesty A Positive Move - Donnelly
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00239/loan-amnesty-a-positive-move-donnelly.htm
 author: new-zealand-first-party
+permalink: /archive/2006/11/13/loan-amnesty-a-positive-move-donnelly/index.html
+layout: layout.njk
 ---
 Loan Amnesty A Positive Move - Donnelly
 =======================================

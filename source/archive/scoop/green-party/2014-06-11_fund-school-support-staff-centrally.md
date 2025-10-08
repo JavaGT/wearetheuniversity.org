@@ -1,9 +1,12 @@
 ---
 slug: fund-school-support-staff-centrally
-title: "Fund school support staff centrally"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PA1406/S00132/fund-school-support-staff-centrally.htm
+title: Fund school support staff centrally
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00132/fund-school-support-staff-centrally.htm
 author: green-party
+permalink: /archive/2014/06/11/fund-school-support-staff-centrally/index.html
+layout: layout.njk
 ---
 Fund school support staff centrally
 ===================================

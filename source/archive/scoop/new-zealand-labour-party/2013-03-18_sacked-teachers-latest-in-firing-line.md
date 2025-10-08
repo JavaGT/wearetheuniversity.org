@@ -1,9 +1,12 @@
 ---
 slug: sacked-teachers-latest-in-firing-line
-title: "‘Sacked’ teachers latest in firing line"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/PA1303/S00290/sacked-teachers-latest-in-firing-line.htm
+title: ‘Sacked’ teachers latest in firing line
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00290/sacked-teachers-latest-in-firing-line.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/18/sacked-teachers-latest-in-firing-line/index.html
+layout: layout.njk
 ---
 ‘Sacked’ teachers latest in firing line
 =======================================

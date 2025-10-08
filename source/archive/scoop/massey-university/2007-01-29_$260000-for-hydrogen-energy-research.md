@@ -1,9 +1,12 @@
 ---
 slug: $260000-for-hydrogen-energy-research
-title: "$260,000 for hydrogen energy research"
-date: 2007-01-29
-source-url: https://www.scoop.co.nz/stories/SC0701/S00051/260000-for-hydrogen-energy-research.htm
+title: $260,000 for hydrogen energy research
+date: 2007-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0701/S00051/260000-for-hydrogen-energy-research.htm
 author: massey-university
+permalink: /archive/2007/01/29/260-000-for-hydrogen-energy-research/index.html
+layout: layout.njk
 ---
 $260,000 for hydrogen energy research
 =====================================

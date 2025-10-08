@@ -1,9 +1,13 @@
 ---
 slug: national-taking-heartland-new-zealand-for-a-ride
-title: "National taking heartland New Zealand for a ride"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PA1208/S00137/national-taking-heartland-new-zealand-for-a-ride.htm
+title: National taking heartland New Zealand for a ride
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00137/national-taking-heartland-new-zealand-for-a-ride.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/09/national-taking-heartland-new-zealand-for-a-ride/index.html
+layout: layout.njk
 ---
 National taking heartland New Zealand for a ride
 ================================================

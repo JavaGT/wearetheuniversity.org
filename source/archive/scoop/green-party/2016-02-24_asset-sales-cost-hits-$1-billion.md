@@ -1,9 +1,12 @@
 ---
 slug: asset-sales-cost-hits-$1-billion
-title: "Asset sales cost hits $1 billion"
-date: 2016-02-24
-source-url: https://www.scoop.co.nz/stories/PA1602/S00347/asset-sales-cost-hits-1-billion.htm
+title: Asset sales cost hits $1 billion
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00347/asset-sales-cost-hits-1-billion.htm
 author: green-party
+permalink: /archive/2016/02/24/asset-sales-cost-hits-/index.html
+layout: layout.njk
 ---
 Asset sales cost hits $1 billion
 ================================

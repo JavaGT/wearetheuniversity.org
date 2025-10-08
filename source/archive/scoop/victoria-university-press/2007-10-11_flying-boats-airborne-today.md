@@ -1,9 +1,11 @@
 ---
 slug: flying-boats-airborne-today
-title: "\"Flying Boats\" Airborne Today"
-date: 2007-10-11
+title: '"Flying Boats" Airborne Today'
+date: 2007-10-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0710/S00131/flying-boats-airborne-today.htm
 author: victoria-university-press
+permalink: /archive/2007/10/11/flying-boats-airborne-today/index.html
+layout: layout.njk
 ---
 “Flying Boats” Airborne Today
 =============================

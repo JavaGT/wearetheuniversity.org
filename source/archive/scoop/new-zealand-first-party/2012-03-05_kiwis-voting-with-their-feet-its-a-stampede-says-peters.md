@@ -1,9 +1,13 @@
 ---
 slug: kiwis-voting-with-their-feet-its-a-stampede-says-peters
-title: "Kiwis voting with their feet – It’s a stampede, says Peters"
-date: 2012-03-05
-source-url: https://www.scoop.co.nz/stories/PA1203/S00063/kiwis-voting-with-their-feet-its-a-stampede-says-peters.htm
+title: Kiwis voting with their feet – It’s a stampede, says Peters
+date: 2012-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00063/kiwis-voting-with-their-feet-its-a-stampede-says-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/03/05/kiwis-voting-with-their-feet-its-a-stampede-says-peters/index.html
+layout: layout.njk
 ---
 Kiwis voting with their feet – It’s a stampede, says Peters
 ===========================================================

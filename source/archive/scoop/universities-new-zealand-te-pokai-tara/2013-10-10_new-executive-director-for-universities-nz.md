@@ -1,9 +1,12 @@
 ---
 slug: new-executive-director-for-universities-nz
-title: "New Executive Director for Universities NZ"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/BU1310/S00362/new-executive-director-for-universities-nz.htm
+title: New Executive Director for Universities NZ
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1310/S00362/new-executive-director-for-universities-nz.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2013/10/10/new-executive-director-for-universities-nz/index.html
+layout: layout.njk
 ---
 New Executive Director for Universities NZ
 ==========================================

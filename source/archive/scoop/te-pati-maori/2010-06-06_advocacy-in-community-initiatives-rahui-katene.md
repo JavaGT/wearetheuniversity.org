@@ -1,9 +1,12 @@
 ---
 slug: advocacy-in-community-initiatives-rahui-katene
-title: "Advocacy In Community Initiatives: Rahui Katene"
-date: 2010-06-06
-source-url: https://www.scoop.co.nz/stories/PA1006/S00123/advocacy-in-community-initiatives-rahui-katene.htm
+title: 'Advocacy In Community Initiatives: Rahui Katene'
+date: 2010-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00123/advocacy-in-community-initiatives-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2010/06/06/advocacy-in-community-initiatives-rahui-katene/index.html
+layout: layout.njk
 ---
 Advocacy In Community Initiatives: Rahui Katene
 ===============================================

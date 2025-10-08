@@ -1,9 +1,12 @@
 ---
 slug: inclusive-economy-requires-more-than-rhetoric
-title: "'Inclusive Economy' requires more than rhetoric"
-date: 2001-08-01
-source-url: https://www.scoop.co.nz/stories/PA0108/S00008/inclusive-economy-requires-more-than-rhetoric.htm
+title: '''Inclusive Economy'' requires more than rhetoric'
+date: 2001-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00008/inclusive-economy-requires-more-than-rhetoric.htm
 author: new-zealand-national-party
+permalink: /archive/2001/08/01/inclusive-economy-requires-more-than-rhetoric/index.html
+layout: layout.njk
 ---
 'Inclusive Economy' requires more than rhetoric
 ===============================================

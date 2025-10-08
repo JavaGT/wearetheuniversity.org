@@ -1,8 +1,11 @@
 ---
 slug: meet-the-inaugural-40-under-40
-title: "Meet the inaugural 40 under 40"
-date: 2017-10-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/meet-the-inaugural-40-under-40-.html
+title: Meet the inaugural 40 under 40
+date: 2017-10-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/meet-the-inaugural-40-under-40-.html
+permalink: /archive/2017/10/12/meet-the-inaugural-40-under-40/index.html
+layout: layout.njk
 ---
 Meet the inaugural 40 under 40
 ==============================

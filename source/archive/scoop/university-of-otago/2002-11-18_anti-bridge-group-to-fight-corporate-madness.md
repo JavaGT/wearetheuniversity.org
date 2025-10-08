@@ -1,9 +1,12 @@
 ---
 slug: anti-bridge-group-to-fight-corporate-madness
-title: "Anti-Bridge Group to Fight \"Corporate Madness\""
-date: 2002-11-18
-source-url: https://www.scoop.co.nz/stories/ED0211/S00037/anti-bridge-group-to-fight-corporate-madness.htm
+title: Anti-Bridge Group to Fight "Corporate Madness"
+date: 2002-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00037/anti-bridge-group-to-fight-corporate-madness.htm
 author: university-of-otago
+permalink: /archive/2002/11/18/anti-bridge-group-to-fight-corporate-madness/index.html
+layout: layout.njk
 ---
 Anti-Bridge Group to Fight \"Corporate Madness"
 ==============================================

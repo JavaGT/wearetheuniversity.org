@@ -1,9 +1,12 @@
 ---
 slug: te-kāhui-a-kiwa-driving-awareness-and-dialogue-on-indigenous-trade
-title: "Te Kāhui A Kiwa - Driving Awareness And Dialogue On Indigenous Trade"
-date: 2023-06-27
-source-url: https://www.scoop.co.nz/stories/BU2306/S00387/te-kahui-a-kiwa-driving-awareness-and-dialogue-on-indigenous-trade.htm
+title: Te Kāhui A Kiwa - Driving Awareness And Dialogue On Indigenous Trade
+date: 2023-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2306/S00387/te-kahui-a-kiwa-driving-awareness-and-dialogue-on-indigenous-trade.htm
 author: university-of-waikato
+permalink: /archive/2023/06/27/te-k/index.html
+layout: layout.njk
 ---
 Te Kāhui A Kiwa - Driving Awareness And Dialogue On Indigenous Trade
 ====================================================================

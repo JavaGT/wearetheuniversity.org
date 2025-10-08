@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-inflames-not-inflates
-title: "University of Otago Inflames, not Inflates"
-date: 2005-11-09
-source-url: https://www.scoop.co.nz/stories/ED0511/S00037/university-of-otago-inflames-not-inflates.htm
+title: University of Otago Inflames, not Inflates
+date: 2005-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00037/university-of-otago-inflames-not-inflates.htm
 author: otago-university-students-association
+permalink: /archive/2005/11/09/university-of-otago-inflames-not-inflates/index.html
+layout: layout.njk
 ---
 University of Otago Inflames, not Inflates
 ==========================================

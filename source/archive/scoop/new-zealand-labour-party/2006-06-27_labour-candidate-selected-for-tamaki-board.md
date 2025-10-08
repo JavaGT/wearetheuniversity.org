@@ -1,9 +1,12 @@
 ---
 slug: labour-candidate-selected-for-tamaki-board
-title: "Labour candidate selected for Tamaki Board"
-date: 2006-06-27
-source-url: https://www.scoop.co.nz/stories/AK0606/S00300/labour-candidate-selected-for-tamaki-board.htm
+title: Labour candidate selected for Tamaki Board
+date: 2006-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0606/S00300/labour-candidate-selected-for-tamaki-board.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/06/27/labour-candidate-selected-for-tamaki-board/index.html
+layout: layout.njk
 ---
 Labour candidate selected for Tamaki Board
 ==========================================

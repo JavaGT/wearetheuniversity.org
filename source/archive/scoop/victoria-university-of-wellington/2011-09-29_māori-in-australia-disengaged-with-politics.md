@@ -1,9 +1,12 @@
 ---
 slug: māori-in-australia-disengaged-with-politics
-title: "Māori in Australia disengaged with politics"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/BU1109/S00866/maori-in-australia-disengaged-with-politics.htm
+title: Māori in Australia disengaged with politics
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00866/maori-in-australia-disengaged-with-politics.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/29/m/index.html
+layout: layout.njk
 ---
 Māori in Australia disengaged with politics
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: pm-to-give-paterson-oration-at-victoria-university
-title: "PM to give Paterson Oration at Victoria University"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/ED0406/S00104/pm-to-give-paterson-oration-at-victoria-university.htm
+title: PM to give Paterson Oration at Victoria University
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00104/pm-to-give-paterson-oration-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/06/28/pm-to-give-paterson-oration-at-victoria-university/index.html
+layout: layout.njk
 ---
 PM to give Paterson Oration at Victoria University
 ==================================================

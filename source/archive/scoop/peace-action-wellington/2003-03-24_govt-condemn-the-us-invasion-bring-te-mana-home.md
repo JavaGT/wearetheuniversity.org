@@ -1,9 +1,12 @@
 ---
 slug: govt-condemn-the-us-invasion-bring-te-mana-home
-title: "Govt Condemn the US Invasion, Bring Te Mana Home"
-date: 2003-03-24
-source-url: https://www.scoop.co.nz/stories/PO0303/S00201/govt-condemn-the-us-invasion-bring-te-mana-home.htm
+title: Govt Condemn the US Invasion, Bring Te Mana Home
+date: 2003-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00201/govt-condemn-the-us-invasion-bring-te-mana-home.htm
 author: peace-action-wellington
+permalink: /archive/2003/03/24/govt-condemn-the-us-invasion-bring-te-mana-home/index.html
+layout: layout.njk
 ---
 Govt Condemn the US Invasion, Bring Te Mana Home
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: privatisation-nz-swimming-against-the-tide
-title: "Privatisation: NZ Swimming Against the Tide"
-date: 2008-05-08
-source-url: https://www.scoop.co.nz/stories/BU0805/S00143/privatisation-nz-swimming-against-the-tide.htm
+title: 'Privatisation: NZ Swimming Against the Tide'
+date: 2008-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0805/S00143/privatisation-nz-swimming-against-the-tide.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/05/08/privatisation-nz-swimming-against-the-tide/index.html
+layout: layout.njk
 ---
 Privatisation: NZ Swimming Against the Tide
 ===========================================

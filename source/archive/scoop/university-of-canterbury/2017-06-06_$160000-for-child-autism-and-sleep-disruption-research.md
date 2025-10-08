@@ -1,9 +1,13 @@
 ---
 slug: $160000-for-child-autism-and-sleep-disruption-research
-title: "$160,000 for child autism and sleep disruption research"
-date: 2017-06-06
-source-url: https://www.scoop.co.nz/stories/GE1706/S00018/160000-for-child-autism-and-sleep-disruption-research.htm
+title: $160,000 for child autism and sleep disruption research
+date: 2017-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1706/S00018/160000-for-child-autism-and-sleep-disruption-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/06/160-000-for-child-autism-and-sleep-disruption-research/index.html
+layout: layout.njk
 ---
 $160,000 for child autism and sleep disruption research
 =======================================================

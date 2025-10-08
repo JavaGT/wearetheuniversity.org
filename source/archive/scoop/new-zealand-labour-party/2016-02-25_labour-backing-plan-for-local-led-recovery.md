@@ -1,9 +1,12 @@
 ---
 slug: labour-backing-plan-for-local-led-recovery
-title: "Labour backing plan for local led recovery"
-date: 2016-02-25
-source-url: https://www.scoop.co.nz/stories/PA1602/S00385/labour-backing-plan-for-local-led-recovery.htm
+title: Labour backing plan for local led recovery
+date: 2016-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00385/labour-backing-plan-for-local-led-recovery.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/25/labour-backing-plan-for-local-led-recovery/index.html
+layout: layout.njk
 ---
 Labour backing plan for local led recovery
 ==========================================

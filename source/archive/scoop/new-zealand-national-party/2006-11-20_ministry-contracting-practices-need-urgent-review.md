@@ -1,9 +1,13 @@
 ---
 slug: ministry-contracting-practices-need-urgent-review
-title: "Ministry contracting practices need urgent review"
-date: 2006-11-20
-source-url: https://www.scoop.co.nz/stories/PA0611/S00378/ministry-contracting-practices-need-urgent-review.htm
+title: Ministry contracting practices need urgent review
+date: 2006-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00378/ministry-contracting-practices-need-urgent-review.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/11/20/ministry-contracting-practices-need-urgent-review/index.html
+layout: layout.njk
 ---
 Ministry contracting practices need urgent review
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: wit-and-eroticism-of-the-greek-symposium-revealed
-title: "Wit and eroticism of the Greek Symposium, revealed"
-date: 2019-09-09
-source-url: https://www.scoop.co.nz/stories/ED1909/S00022/wit-and-eroticism-of-the-greek-symposium-revealed.htm
+title: Wit and eroticism of the Greek Symposium, revealed
+date: 2019-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00022/wit-and-eroticism-of-the-greek-symposium-revealed.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/09/09/wit-and-eroticism-of-the-greek-symposium-revealed/index.html
+layout: layout.njk
 ---
 Wit and eroticism of the Greek Symposium, revealed
 ==================================================

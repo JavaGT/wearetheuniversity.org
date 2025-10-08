@@ -1,9 +1,12 @@
 ---
 slug: heather-roy-excellence-in-education
-title: "Heather Roy - Excellence In Education"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/PA1002/S00212/heather-roy-excellence-in-education.htm
+title: Heather Roy - Excellence In Education
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00212/heather-roy-excellence-in-education.htm
 author: act-new-zealand
+permalink: /archive/2010/02/17/heather-roy-excellence-in-education/index.html
+layout: layout.njk
 ---
 Heather Roy - Excellence In Education
 =====================================

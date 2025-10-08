@@ -1,9 +1,12 @@
 ---
 slug: fiji-rugby-centenary-conference-update
-title: "Fiji Rugby Centenary Conference Update"
-date: 2013-06-20
-source-url: https://www.scoop.co.nz/stories/WO1306/S00535/fiji-rugby-centenary-conference-update.htm
+title: Fiji Rugby Centenary Conference Update
+date: 2013-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1306/S00535/fiji-rugby-centenary-conference-update.htm
 author: university-of-the-south-pacific
+permalink: /archive/2013/06/20/fiji-rugby-centenary-conference-update/index.html
+layout: layout.njk
 ---
 Fiji Rugby Centenary Conference Update
 ======================================

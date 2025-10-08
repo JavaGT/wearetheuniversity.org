@@ -1,9 +1,13 @@
 ---
 slug: travellers-transiting-through-or-travelling-to-the-us
-date: 2025-05-30
-source: "University of Auckland"
-source-url: "https://www.auckland.ac.nz/en/intranet/stay-informed/staff-communications/notices/USA-travel-advisory.html#Additional-advice-for-travellers"
-title: "Travellers transiting through or travelling to the US"
+date: 2025-05-30T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/stay-informed/staff-communications/notices/USA-travel-advisory.html#Additional-advice-for-travellers
+title: Travellers transiting through or travelling to the US
+permalink: >-
+  /archive/2025/05/30/travellers-transiting-through-or-travelling-to-the-us/index.html
+layout: layout.njk
 ---
 # Travellers transiting through or travelling to the US
 

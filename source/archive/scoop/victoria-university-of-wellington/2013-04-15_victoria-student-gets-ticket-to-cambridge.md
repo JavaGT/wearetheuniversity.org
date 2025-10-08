@@ -1,9 +1,12 @@
 ---
 slug: victoria-student-gets-ticket-to-cambridge
-title: "Victoria student gets ticket to Cambridge"
-date: 2013-04-15
-source-url: https://www.scoop.co.nz/stories/ED1304/S00096/victoria-student-gets-ticket-to-cambridge.htm
+title: Victoria student gets ticket to Cambridge
+date: 2013-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00096/victoria-student-gets-ticket-to-cambridge.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/04/15/victoria-student-gets-ticket-to-cambridge/index.html
+layout: layout.njk
 ---
 Victoria student gets ticket to Cambridge
 =========================================

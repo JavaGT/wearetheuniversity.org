@@ -1,9 +1,12 @@
 ---
 slug: act-is-holding-the-balance-of-power
-title: "ACT is holding the Balance of Power"
-date: 2014-09-14
-source-url: https://www.scoop.co.nz/stories/PO1409/S00316/act-is-holding-the-balance-of-power.htm
+title: ACT is holding the Balance of Power
+date: 2014-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00316/act-is-holding-the-balance-of-power.htm
 author: act-new-zealand
+permalink: /archive/2014/09/14/act-is-holding-the-balance-of-power/index.html
+layout: layout.njk
 ---
 ACT is holding the Balance of Power
 ===================================

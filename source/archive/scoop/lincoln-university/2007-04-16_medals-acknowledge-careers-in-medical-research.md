@@ -1,9 +1,12 @@
 ---
 slug: medals-acknowledge-careers-in-medical-research
-title: "Medals acknowledge careers in medical research"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/ED0704/S00044/medals-acknowledge-careers-in-medical-research.htm
+title: Medals acknowledge careers in medical research
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00044/medals-acknowledge-careers-in-medical-research.htm
 author: lincoln-university
+permalink: /archive/2007/04/16/medals-acknowledge-careers-in-medical-research/index.html
+layout: layout.njk
 ---
 Medals acknowledge careers in medical research
 ==============================================

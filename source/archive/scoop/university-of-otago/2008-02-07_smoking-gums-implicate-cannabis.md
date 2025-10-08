@@ -1,9 +1,12 @@
 ---
 slug: smoking-gums-implicate-cannabis
-title: "Smoking gums implicate cannabis"
-date: 2008-02-07
-source-url: https://www.scoop.co.nz/stories/SC0802/S00012/smoking-gums-implicate-cannabis.htm
+title: Smoking gums implicate cannabis
+date: 2008-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0802/S00012/smoking-gums-implicate-cannabis.htm
 author: university-of-otago
+permalink: /archive/2008/02/07/smoking-gums-implicate-cannabis/index.html
+layout: layout.njk
 ---
 Smoking gums implicate cannabis
 ===============================

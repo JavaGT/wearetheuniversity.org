@@ -1,9 +1,12 @@
 ---
 slug: albany-migrant-study-launched-at-massey
-title: "Albany migrant study launched at Massey"
-date: 2010-04-01
-source-url: https://www.scoop.co.nz/stories/ED1004/S00002/albany-migrant-study-launched-at-massey.htm
+title: Albany migrant study launched at Massey
+date: 2010-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00002/albany-migrant-study-launched-at-massey.htm
 author: massey-university
+permalink: /archive/2010/04/01/albany-migrant-study-launched-at-massey/index.html
+layout: layout.njk
 ---
 Albany migrant study launched at Massey
 =======================================

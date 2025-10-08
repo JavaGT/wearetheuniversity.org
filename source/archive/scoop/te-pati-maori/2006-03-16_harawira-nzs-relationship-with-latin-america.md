@@ -1,9 +1,12 @@
 ---
 slug: harawira-nzs-relationship-with-latin-america
-title: "Harawira - NZ's relationship with Latin America"
-date: 2006-03-16
-source-url: https://www.scoop.co.nz/stories/PA0603/S00257/harawira-nzs-relationship-with-latin-america.htm
+title: Harawira - NZ's relationship with Latin America
+date: 2006-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00257/harawira-nzs-relationship-with-latin-america.htm
 author: te-pati-maori
+permalink: /archive/2006/03/16/harawira-nzs-relationship-with-latin-america/index.html
+layout: layout.njk
 ---
 Harawira - NZ's relationship with Latin America
 ===============================================

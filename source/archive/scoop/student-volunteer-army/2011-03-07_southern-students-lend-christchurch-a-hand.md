@@ -1,9 +1,12 @@
 ---
 slug: southern-students-lend-christchurch-a-hand
-title: "Southern Students Lend Christchurch A Hand"
-date: 2011-03-07
-source-url: https://www.scoop.co.nz/stories/AK1103/S00305/southern-students-lend-christchurch-a-hand.htm
+title: Southern Students Lend Christchurch A Hand
+date: 2011-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00305/southern-students-lend-christchurch-a-hand.htm
 author: student-volunteer-army
+permalink: /archive/2011/03/07/southern-students-lend-christchurch-a-hand/index.html
+layout: layout.njk
 ---
 Southern Students Lend Christchurch A Hand
 ==========================================

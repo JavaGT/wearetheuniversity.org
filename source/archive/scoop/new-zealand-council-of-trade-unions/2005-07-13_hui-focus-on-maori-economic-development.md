@@ -1,9 +1,12 @@
 ---
 slug: hui-focus-on-maori-economic-development
-title: "Hui Focus on Maori Economic Development"
-date: 2005-07-13
-source-url: https://www.scoop.co.nz/stories/PO0507/S00124/hui-focus-on-maori-economic-development.htm
+title: Hui Focus on Maori Economic Development
+date: 2005-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00124/hui-focus-on-maori-economic-development.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/07/13/hui-focus-on-maori-economic-development/index.html
+layout: layout.njk
 ---
 Hui Focus on Maori Economic Development
 =======================================

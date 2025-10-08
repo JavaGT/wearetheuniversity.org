@@ -1,9 +1,13 @@
 ---
 slug: professor-yifan-chen-receives-engineering-new-zealand-fello
-title: "Professor Yifan Chen receives Engineering New Zealand Fello"
-date: 2020-03-30
-source-url: https://www.scoop.co.nz/stories/SC2003/S00050/professor-yifan-chen-receives-engineering-new-zealand-fello.htm
+title: Professor Yifan Chen receives Engineering New Zealand Fello
+date: 2020-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2003/S00050/professor-yifan-chen-receives-engineering-new-zealand-fello.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/03/30/professor-yifan-chen-receives-engineering-new-zealand-fello/index.html
+layout: layout.njk
 ---
 Professor Yifan Chen receives Engineering New Zealand Fello
 ===========================================================

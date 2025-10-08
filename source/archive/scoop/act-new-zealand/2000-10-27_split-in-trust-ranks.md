@@ -1,9 +1,11 @@
 ---
 slug: split-in-trust-ranks
-title: "Split In Trust Ranks"
-date: 2000-10-27
+title: Split In Trust Ranks
+date: 2000-10-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0010/S00501/split-in-trust-ranks.htm
 author: act-new-zealand
+permalink: /archive/2000/10/27/split-in-trust-ranks/index.html
+layout: layout.njk
 ---
 Split In Trust Ranks
 ====================

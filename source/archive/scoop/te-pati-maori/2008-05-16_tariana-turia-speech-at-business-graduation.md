@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-at-business-graduation
-title: "Tariana Turia: Speech At Business Graduation"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/PA0805/S00288/tariana-turia-speech-at-business-graduation.htm
+title: 'Tariana Turia: Speech At Business Graduation'
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00288/tariana-turia-speech-at-business-graduation.htm
 author: te-pati-maori
+permalink: /archive/2008/05/16/tariana-turia-speech-at-business-graduation/index.html
+layout: layout.njk
 ---
 Tariana Turia: Speech At Business Graduation
 ============================================

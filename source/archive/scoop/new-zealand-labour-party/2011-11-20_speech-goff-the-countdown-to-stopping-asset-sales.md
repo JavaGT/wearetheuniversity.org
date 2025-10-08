@@ -1,9 +1,13 @@
 ---
 slug: speech-goff-the-countdown-to-stopping-asset-sales
-title: "Speech: Goff -  The countdown to stopping asset   sales"
-date: 2011-11-20
-source-url: https://www.scoop.co.nz/stories/PA1111/S00403/speech-goff-the-countdown-to-stopping-asset-sales.htm
+title: 'Speech: Goff -  The countdown to stopping asset   sales'
+date: 2011-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00403/speech-goff-the-countdown-to-stopping-asset-sales.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/20/speech-goff-the-countdown-to-stopping-asset-sales/index.html
+layout: layout.njk
 ---
 Speech: Goff - The countdown to stopping asset sales
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: special-needs-taxi-announcement-underwhelming
-title: "Special Needs Taxi Announcement Underwhelming"
-date: 2013-07-30
-source-url: https://www.scoop.co.nz/stories/PA1307/S00441/special-needs-taxi-announcement-underwhelming.htm
+title: Special Needs Taxi Announcement Underwhelming
+date: 2013-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00441/special-needs-taxi-announcement-underwhelming.htm
 author: new-zealand-first-party
+permalink: /archive/2013/07/30/special-needs-taxi-announcement-underwhelming/index.html
+layout: layout.njk
 ---
 Special Needs Taxi Announcement Underwhelming
 =============================================

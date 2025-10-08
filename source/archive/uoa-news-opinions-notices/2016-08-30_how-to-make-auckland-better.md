@@ -1,8 +1,11 @@
 ---
 slug: how-to-make-auckland-better
-title: "How to make Auckland better"
-date: 2016-08-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/ballot-box-making-auckland-better.html
+title: How to make Auckland better
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/ballot-box-making-auckland-better.html
+permalink: /archive/2016/08/30/how-to-make-auckland-better/index.html
+layout: layout.njk
 ---
 How to make Auckland better
 ===========================

@@ -1,9 +1,13 @@
 ---
 slug: tickets-now-on-sale-for-the-waikato-international-cello-fest
-title: "Tickets Now on Sale for the Waikato International Cello Fest"
-date: 2016-06-07
-source-url: https://www.scoop.co.nz/stories/CU1606/S00054/tickets-now-on-sale-for-the-waikato-international-cello-fest.htm
+title: Tickets Now on Sale for the Waikato International Cello Fest
+date: 2016-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1606/S00054/tickets-now-on-sale-for-the-waikato-international-cello-fest.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/06/07/tickets-now-on-sale-for-the-waikato-international-cello-fest/index.html
+layout: layout.njk
 ---
 Tickets Now on Sale for the Waikato International Cello Fest
 ============================================================

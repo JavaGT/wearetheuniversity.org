@@ -1,9 +1,13 @@
 ---
 slug: open-letter-to-increase-te-matatini-funding-delivered-to-government
-title: "Open Letter To Increase Te Matatini Funding Delivered To Government"
-date: 2022-07-04
-source-url: https://www.scoop.co.nz/stories/PA2207/S00019/open-letter-to-increase-te-matatini-funding-delivered-to-government.htm
+title: Open Letter To Increase Te Matatini Funding Delivered To Government
+date: 2022-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00019/open-letter-to-increase-te-matatini-funding-delivered-to-government.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2022/07/04/open-letter-to-increase-te-matatini-funding-delivered-to-government/index.html
+layout: layout.njk
 ---
 Open Letter To Increase Te Matatini Funding Delivered To Government
 ===================================================================

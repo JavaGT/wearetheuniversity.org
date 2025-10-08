@@ -1,9 +1,12 @@
 ---
 slug: warning-signs-in-fonterra-deal
-title: "Warning Signs in Fonterra Deal"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/PA1408/S00444/warning-signs-in-fonterra-deal.htm
+title: Warning Signs in Fonterra Deal
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00444/warning-signs-in-fonterra-deal.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/29/warning-signs-in-fonterra-deal/index.html
+layout: layout.njk
 ---
 Warning Signs in Fonterra Deal
 ==============================

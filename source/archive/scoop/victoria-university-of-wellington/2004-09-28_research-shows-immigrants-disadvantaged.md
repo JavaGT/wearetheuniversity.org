@@ -1,9 +1,12 @@
 ---
 slug: research-shows-immigrants-disadvantaged
-title: "Research shows immigrants disadvantaged"
-date: 2004-09-28
-source-url: https://www.scoop.co.nz/stories/ED0409/S00129/research-shows-immigrants-disadvantaged.htm
+title: Research shows immigrants disadvantaged
+date: 2004-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00129/research-shows-immigrants-disadvantaged.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/09/28/research-shows-immigrants-disadvantaged/index.html
+layout: layout.njk
 ---
 Research shows immigrants disadvantaged
 =======================================

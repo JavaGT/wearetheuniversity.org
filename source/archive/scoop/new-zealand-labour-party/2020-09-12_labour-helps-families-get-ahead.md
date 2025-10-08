@@ -1,9 +1,12 @@
 ---
 slug: labour-helps-families-get-ahead
-title: "Labour Helps Families Get Ahead"
-date: 2020-09-12
-source-url: https://www.scoop.co.nz/stories/PA2009/S00104/labour-helps-families-get-ahead.htm
+title: Labour Helps Families Get Ahead
+date: 2020-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00104/labour-helps-families-get-ahead.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/09/12/labour-helps-families-get-ahead/index.html
+layout: layout.njk
 ---
 Labour Helps Families Get Ahead
 ===============================

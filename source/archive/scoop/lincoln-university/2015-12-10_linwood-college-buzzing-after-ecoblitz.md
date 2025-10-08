@@ -1,9 +1,12 @@
 ---
 slug: linwood-college-buzzing-after-ecoblitz
-title: "Linwood College buzzing after EcoBlitz"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/ED1512/S00048/linwood-college-buzzing-after-ecoblitz.htm
+title: Linwood College buzzing after EcoBlitz
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00048/linwood-college-buzzing-after-ecoblitz.htm
 author: lincoln-university
+permalink: /archive/2015/12/10/linwood-college-buzzing-after-ecoblitz/index.html
+layout: layout.njk
 ---
 Linwood College buzzing after EcoBlitz
 ======================================

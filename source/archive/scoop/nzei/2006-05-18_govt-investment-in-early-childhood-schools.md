@@ -1,9 +1,12 @@
 ---
 slug: govt-investment-in-early-childhood-schools
-title: "Govt Investment in Early Childhood, Schools"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/ED0605/S00061/govt-investment-in-early-childhood-schools.htm
+title: Govt Investment in Early Childhood, Schools
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00061/govt-investment-in-early-childhood-schools.htm
 author: nzei
+permalink: /archive/2006/05/18/govt-investment-in-early-childhood-schools/index.html
+layout: layout.njk
 ---
 Govt Investment in Early Childhood, Schools
 ===========================================

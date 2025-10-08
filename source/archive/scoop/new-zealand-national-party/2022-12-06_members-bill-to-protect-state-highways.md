@@ -1,9 +1,12 @@
 ---
 slug: members-bill-to-protect-state-highways
-title: "Member’s Bill To Protect State Highways"
-date: 2022-12-06
-source-url: https://www.scoop.co.nz/stories/PA2212/S00051/members-bill-to-protect-state-highways.htm
+title: Member’s Bill To Protect State Highways
+date: 2022-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00051/members-bill-to-protect-state-highways.htm
 author: new-zealand-national-party
+permalink: /archive/2022/12/06/members-bill-to-protect-state-highways/index.html
+layout: layout.njk
 ---
 Member’s Bill To Protect State Highways
 =======================================

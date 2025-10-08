@@ -1,9 +1,12 @@
 ---
 slug: uc-library-building-wins-excellence-award
-title: "UC Library building wins excellence award"
-date: 2018-10-25
-source-url: https://www.scoop.co.nz/stories/AK1810/S00619/uc-library-building-wins-excellence-award.htm
+title: UC Library building wins excellence award
+date: 2018-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1810/S00619/uc-library-building-wins-excellence-award.htm
 author: university-of-canterbury
+permalink: /archive/2018/10/25/uc-library-building-wins-excellence-award/index.html
+layout: layout.njk
 ---
 UC Library building wins excellence award
 =========================================

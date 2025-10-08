@@ -1,9 +1,13 @@
 ---
 slug: support-from-spouses-softened-impact-of-earthquakes
-title: "Support from spouses softened impact of earthquakes"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/GE1407/S00115/support-from-spouses-softened-impact-of-earthquakes.htm
+title: Support from spouses softened impact of earthquakes
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1407/S00115/support-from-spouses-softened-impact-of-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/30/support-from-spouses-softened-impact-of-earthquakes/index.html
+layout: layout.njk
 ---
 Support from spouses softened impact of earthquakes
 ===================================================

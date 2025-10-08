@@ -1,9 +1,12 @@
 ---
 slug: greens-challenge-govt-over-child-poverty
-title: "Greens challenge Govt. over child poverty"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/PA0211/S00413/greens-challenge-govt-over-child-poverty.htm
+title: Greens challenge Govt. over child poverty
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00413/greens-challenge-govt-over-child-poverty.htm
 author: green-party
+permalink: /archive/2002/11/19/greens-challenge-govt-over-child-poverty/index.html
+layout: layout.njk
 ---
 Greens challenge Govt. over child poverty
 =========================================

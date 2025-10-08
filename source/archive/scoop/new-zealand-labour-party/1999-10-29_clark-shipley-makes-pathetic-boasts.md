@@ -1,9 +1,12 @@
 ---
 slug: clark-shipley-makes-pathetic-boasts
-title: "Clark: Shipley makes pathetic boasts"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PA9910/S00687/clark-shipley-makes-pathetic-boasts.htm
+title: 'Clark: Shipley makes pathetic boasts'
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00687/clark-shipley-makes-pathetic-boasts.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/29/clark-shipley-makes-pathetic-boasts/index.html
+layout: layout.njk
 ---
 Clark: Shipley makes pathetic boasts
 ====================================

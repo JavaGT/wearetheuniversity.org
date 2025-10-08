@@ -1,9 +1,13 @@
 ---
 slug: students-tell-parliament-about-their-mouldy-flats
-title: "Students tell Parliament about their mouldy flats"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/PO1602/S00126/students-tell-parliament-about-their-mouldy-flats.htm
+title: Students tell Parliament about their mouldy flats
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00126/students-tell-parliament-about-their-mouldy-flats.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/02/11/students-tell-parliament-about-their-mouldy-flats/index.html
+layout: layout.njk
 ---
 Students tell Parliament about their mouldy flats
 =================================================

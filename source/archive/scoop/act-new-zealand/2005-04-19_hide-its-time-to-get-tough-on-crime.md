@@ -1,9 +1,12 @@
 ---
 slug: hide-its-time-to-get-tough-on-crime
-title: "Hide - It's time to get tough on crime"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/PA0504/S00397/hide-its-time-to-get-tough-on-crime.htm
+title: Hide - It's time to get tough on crime
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00397/hide-its-time-to-get-tough-on-crime.htm
 author: act-new-zealand
+permalink: /archive/2005/04/19/hide-its-time-to-get-tough-on-crime/index.html
+layout: layout.njk
 ---
 Hide - It's time to get tough on crime
 ======================================

@@ -1,8 +1,11 @@
 ---
 slug: third-medical-school-not-in-national-interest
-title: "Third medical school not in national interest"
-date: 2016-10-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/third-medical-school-not-in-national-interest.html
+title: Third medical school not in national interest
+date: 2016-10-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/third-medical-school-not-in-national-interest.html
+permalink: /archive/2016/10/18/third-medical-school-not-in-national-interest/index.html
+layout: layout.njk
 ---
 Third medical school not in national interest
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: national-selects-simeon-brown-as-manurewa-candidate
-title: "National selects Simeon Brown as Manurewa candidate"
-date: 2014-06-21
-source-url: https://www.scoop.co.nz/stories/PO1406/S00345/national-selects-simeon-brown-as-manurewa-candidate.htm
+title: National selects Simeon Brown as Manurewa candidate
+date: 2014-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00345/national-selects-simeon-brown-as-manurewa-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/21/national-selects-simeon-brown-as-manurewa-candidate/index.html
+layout: layout.njk
 ---
 National selects Simeon Brown as Manurewa candidate
 ===================================================

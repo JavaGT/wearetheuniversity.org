@@ -1,9 +1,12 @@
 ---
 slug: best-of-chinese-cinema-at-film-festival
-title: "Best of Chinese cinema at film festival"
-date: 2013-09-27
-source-url: https://www.scoop.co.nz/stories/CU1309/S00511/best-of-chinese-cinema-at-film-festival.htm
+title: Best of Chinese cinema at film festival
+date: 2013-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1309/S00511/best-of-chinese-cinema-at-film-festival.htm
 author: massey-university
+permalink: /archive/2013/09/27/best-of-chinese-cinema-at-film-festival/index.html
+layout: layout.njk
 ---
 Best of Chinese cinema at film festival
 =======================================

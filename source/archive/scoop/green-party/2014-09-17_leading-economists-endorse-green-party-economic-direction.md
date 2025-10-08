@@ -1,9 +1,13 @@
 ---
 slug: leading-economists-endorse-green-party-economic-direction
-title: "Leading economists endorse Green Party economic direction"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/PA1409/S00256/leading-economists-endorse-green-party-economic-direction.htm
+title: Leading economists endorse Green Party economic direction
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00256/leading-economists-endorse-green-party-economic-direction.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/17/leading-economists-endorse-green-party-economic-direction/index.html
+layout: layout.njk
 ---
 Leading economists endorse Green Party economic direction
 =========================================================

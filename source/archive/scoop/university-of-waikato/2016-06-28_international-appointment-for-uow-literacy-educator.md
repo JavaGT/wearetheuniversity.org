@@ -1,9 +1,13 @@
 ---
 slug: international-appointment-for-uow-literacy-educator
-title: "International appointment for UoW literacy educator"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/ED1606/S00104/international-appointment-for-uow-literacy-educator.htm
+title: International appointment for UoW literacy educator
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00104/international-appointment-for-uow-literacy-educator.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/06/28/international-appointment-for-uow-literacy-educator/index.html
+layout: layout.njk
 ---
 International appointment for UoW literacy educator
 ===================================================

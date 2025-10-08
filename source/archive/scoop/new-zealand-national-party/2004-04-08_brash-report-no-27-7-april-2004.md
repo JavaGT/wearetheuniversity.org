@@ -1,9 +1,12 @@
 ---
 slug: brash-report-no-27-7-april-2004
-title: "Brash-Report - No. 27, 7 April 2004"
-date: 2004-04-08
-source-url: https://www.scoop.co.nz/stories/PA0404/S00151/brash-report-no-27-7-april-2004.htm
+title: Brash-Report - No. 27, 7 April 2004
+date: 2004-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00151/brash-report-no-27-7-april-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/08/brash-report-no-27-7-april-2004/index.html
+layout: layout.njk
 ---
 Brash-Report - No. 27, 7 April 2004
 ===================================

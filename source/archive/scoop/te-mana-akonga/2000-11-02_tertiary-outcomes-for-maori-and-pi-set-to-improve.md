@@ -1,9 +1,13 @@
 ---
 slug: tertiary-outcomes-for-maori-and-pi-set-to-improve
-title: "Tertiary Outcomes For Maori And PI Set To Improve"
-date: 2000-11-02
-source-url: https://www.scoop.co.nz/stories/ED0011/S00005/tertiary-outcomes-for-maori-and-pi-set-to-improve.htm
+title: Tertiary Outcomes For Maori And PI Set To Improve
+date: 2000-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00005/tertiary-outcomes-for-maori-and-pi-set-to-improve.htm
 author: te-mana-akonga
+permalink: >-
+  /archive/2000/11/02/tertiary-outcomes-for-maori-and-pi-set-to-improve/index.html
+layout: layout.njk
 ---
 Tertiary Outcomes For Maori And PI Set To Improve
 =================================================

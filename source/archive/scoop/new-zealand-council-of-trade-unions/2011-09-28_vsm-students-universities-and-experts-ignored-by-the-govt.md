@@ -1,9 +1,13 @@
 ---
 slug: vsm-students-universities-and-experts-ignored-by-the-govt
-title: "VSM: Students, universities and experts ignored by the Govt"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00414/vsm-students-universities-and-experts-ignored-by-the-govt.htm
+title: 'VSM: Students, universities and experts ignored by the Govt'
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00414/vsm-students-universities-and-experts-ignored-by-the-govt.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/09/28/vsm-students-universities-and-experts-ignored-by-the-govt/index.html
+layout: layout.njk
 ---
 VSM: Students, universities and experts ignored by the Govt
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-welcomes-pūhoi-to-warkworth-motorway
-title: "National Welcomes Pūhoi To Warkworth Motorway"
-date: 2023-06-16
-source-url: https://www.scoop.co.nz/stories/PA2306/S00101/national-welcomes-puhoi-to-warkworth-motorway.htm
+title: National Welcomes Pūhoi To Warkworth Motorway
+date: 2023-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00101/national-welcomes-puhoi-to-warkworth-motorway.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/16/national-welcomes-p/index.html
+layout: layout.njk
 ---
 National Welcomes Pūhoi To Warkworth Motorway
 =============================================

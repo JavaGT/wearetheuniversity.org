@@ -1,9 +1,13 @@
 ---
 slug: education-in-schools-needed-to-address-gender-equality
-title: "Education in schools needed to address gender equality"
-date: 2019-03-07
-source-url: https://www.scoop.co.nz/stories/ED1903/S00019/education-in-schools-needed-to-address-gender-equality.htm
+title: Education in schools needed to address gender equality
+date: 2019-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1903/S00019/education-in-schools-needed-to-address-gender-equality.htm
 author: aut-university
+permalink: >-
+  /archive/2019/03/07/education-in-schools-needed-to-address-gender-equality/index.html
+layout: layout.njk
 ---
 Education in schools needed to address gender equality
 ======================================================

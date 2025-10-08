@@ -1,9 +1,12 @@
 ---
 slug: massey-academics-join-treaty-debates
-title: "Massey academics join Treaty debates"
-date: 2010-01-27
-source-url: https://www.scoop.co.nz/stories/ED1001/S00040/massey-academics-join-treaty-debates.htm
+title: Massey academics join Treaty debates
+date: 2010-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00040/massey-academics-join-treaty-debates.htm
 author: massey-university
+permalink: /archive/2010/01/27/massey-academics-join-treaty-debates/index.html
+layout: layout.njk
 ---
 Massey academics join Treaty debates
 ====================================

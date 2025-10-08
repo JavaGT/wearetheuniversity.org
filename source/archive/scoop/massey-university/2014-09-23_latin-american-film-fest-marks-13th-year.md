@@ -1,9 +1,12 @@
 ---
 slug: latin-american-film-fest-marks-13th-year
-title: "Latin American film fest marks 13th year"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/CU1409/S00449/latin-american-film-fest-marks-13th-year.htm
+title: Latin American film fest marks 13th year
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00449/latin-american-film-fest-marks-13th-year.htm
 author: massey-university
+permalink: /archive/2014/09/23/latin-american-film-fest-marks-13th-year/index.html
+layout: layout.njk
 ---
 Latin American film fest marks 13th year
 ========================================

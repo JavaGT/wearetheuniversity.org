@@ -1,9 +1,13 @@
 ---
 slug: multimorbidity-impacts-on-employment-and-financial-wellbeing
-title: "Multimorbidity impacts on employment and financial wellbeing"
-date: 2018-06-24
-source-url: https://www.scoop.co.nz/stories/GE1806/S00086/multimorbidity-impacts-on-employment-and-financial-wellbeing.htm
+title: Multimorbidity impacts on employment and financial wellbeing
+date: 2018-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00086/multimorbidity-impacts-on-employment-and-financial-wellbeing.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/24/multimorbidity-impacts-on-employment-and-financial-wellbeing/index.html
+layout: layout.njk
 ---
 Multimorbidity impacts on employment and financial wellbeing
 ============================================================

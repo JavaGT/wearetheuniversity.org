@@ -1,9 +1,12 @@
 ---
 slug: devil-in-detail-of-nationals-compulsory-testing
-title: "Devil in Detail of National's Compulsory Testing"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/ED0704/S00008/devil-in-detail-of-nationals-compulsory-testing.htm
+title: Devil in Detail of National's Compulsory Testing
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00008/devil-in-detail-of-nationals-compulsory-testing.htm
 author: nzei
+permalink: /archive/2007/04/02/devil-in-detail-of-nationals-compulsory-testing/index.html
+layout: layout.njk
 ---
 Devil in Detail of National's Compulsory Testing
 ================================================

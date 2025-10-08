@@ -1,9 +1,12 @@
 ---
 slug: rents-not-reducing-school-transciency
-title: "Rents Not Reducing School Transciency"
-date: 2002-05-23
-source-url: https://www.scoop.co.nz/stories/PA0205/S00557/rents-not-reducing-school-transciency.htm
+title: Rents Not Reducing School Transciency
+date: 2002-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00557/rents-not-reducing-school-transciency.htm
 author: new-zealand-first-party
+permalink: /archive/2002/05/23/rents-not-reducing-school-transciency/index.html
+layout: layout.njk
 ---
 Rents Not Reducing School Transciency
 =====================================

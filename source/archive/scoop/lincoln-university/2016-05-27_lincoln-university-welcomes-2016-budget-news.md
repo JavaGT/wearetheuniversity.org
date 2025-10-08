@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-welcomes-2016-budget-news
-title: "Lincoln University welcomes 2016 budget news"
-date: 2016-05-27
-source-url: https://www.scoop.co.nz/stories/ED1605/S00121/lincoln-university-welcomes-2016-budget-news.htm
+title: Lincoln University welcomes 2016 budget news
+date: 2016-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00121/lincoln-university-welcomes-2016-budget-news.htm
 author: lincoln-university
+permalink: /archive/2016/05/27/lincoln-university-welcomes-2016-budget-news/index.html
+layout: layout.njk
 ---
 Lincoln University welcomes 2016 budget news
 ============================================

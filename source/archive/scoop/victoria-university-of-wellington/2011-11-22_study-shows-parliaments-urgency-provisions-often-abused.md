@@ -1,9 +1,13 @@
 ---
 slug: study-shows-parliaments-urgency-provisions-often-abused
-title: "Study shows Parliament’s urgency provisions often abused"
-date: 2011-11-22
-source-url: https://www.scoop.co.nz/stories/ED1111/S00137/study-shows-parliaments-urgency-provisions-often-abused.htm
+title: Study shows Parliament’s urgency provisions often abused
+date: 2011-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00137/study-shows-parliaments-urgency-provisions-often-abused.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/11/22/study-shows-parliaments-urgency-provisions-often-abused/index.html
+layout: layout.njk
 ---
 Study shows Parliament’s urgency provisions often abused
 ========================================================

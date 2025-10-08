@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-benefit-fraud-debt
-title: "Heather Roy's Diary: Benefit Fraud Debt"
-date: 2006-09-01
-source-url: https://www.scoop.co.nz/stories/PA0609/S00034/heather-roys-diary-benefit-fraud-debt.htm
+title: 'Heather Roy''s Diary: Benefit Fraud Debt'
+date: 2006-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00034/heather-roys-diary-benefit-fraud-debt.htm
 author: act-new-zealand
+permalink: /archive/2006/09/01/heather-roys-diary-benefit-fraud-debt/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Benefit Fraud Debt
 =======================================

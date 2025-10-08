@@ -1,9 +1,13 @@
 ---
 slug: nz-trains-40-per-cent-fewer-medical-professionals
-title: "NZ Trains 40 Per Cent Fewer Medical Professionals"
-date: 2022-10-30
-source-url: https://www.scoop.co.nz/stories/PA2210/S00223/nz-trains-40-per-cent-fewer-medical-professionals.htm
+title: NZ Trains 40 Per Cent Fewer Medical Professionals
+date: 2022-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00223/nz-trains-40-per-cent-fewer-medical-professionals.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/30/nz-trains-40-per-cent-fewer-medical-professionals/index.html
+layout: layout.njk
 ---
 NZ Trains 40 Per Cent Fewer Medical Professionals
 =================================================

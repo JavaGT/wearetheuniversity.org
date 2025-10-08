@@ -1,9 +1,11 @@
 ---
 slug: news-still-bad-for-kiwi
-title: "News still bad for kiwi"
-date: 1999-11-19
+title: News still bad for kiwi
+date: 1999-11-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00466/news-still-bad-for-kiwi.htm
 author: green-party
+permalink: /archive/1999/11/19/news-still-bad-for-kiwi/index.html
+layout: layout.njk
 ---
 News still bad for kiwi
 =======================

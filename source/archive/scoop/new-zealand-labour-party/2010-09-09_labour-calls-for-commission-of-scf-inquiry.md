@@ -1,9 +1,12 @@
 ---
 slug: labour-calls-for-commission-of-scf-inquiry
-title: "Labour calls for commission of SCF inquiry"
-date: 2010-09-09
-source-url: https://www.scoop.co.nz/stories/PA1009/S00154/labour-calls-for-commission-of-scf-inquiry.htm
+title: Labour calls for commission of SCF inquiry
+date: 2010-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00154/labour-calls-for-commission-of-scf-inquiry.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/09/labour-calls-for-commission-of-scf-inquiry/index.html
+layout: layout.njk
 ---
 Labour calls for commission of SCF inquiry
 ==========================================

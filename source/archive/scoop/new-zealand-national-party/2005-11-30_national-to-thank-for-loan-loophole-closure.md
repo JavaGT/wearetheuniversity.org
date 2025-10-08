@@ -1,9 +1,12 @@
 ---
 slug: national-to-thank-for-loan-loophole-closure
-title: "National to thank for loan loophole closure"
-date: 2005-11-30
-source-url: https://www.scoop.co.nz/stories/PA0511/S00426/national-to-thank-for-loan-loophole-closure.htm
+title: National to thank for loan loophole closure
+date: 2005-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00426/national-to-thank-for-loan-loophole-closure.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/30/national-to-thank-for-loan-loophole-closure/index.html
+layout: layout.njk
 ---
 National to thank for loan loophole closure
 ===========================================

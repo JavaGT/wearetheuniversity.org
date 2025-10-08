@@ -1,9 +1,12 @@
 ---
 slug: make-way-for-vibrant-victoria-graduates
-title: "Make way for vibrant Victoria graduates"
-date: 2008-05-12
-source-url: https://www.scoop.co.nz/stories/ED0805/S00038/make-way-for-vibrant-victoria-graduates.htm
+title: Make way for vibrant Victoria graduates
+date: 2008-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00038/make-way-for-vibrant-victoria-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/12/make-way-for-vibrant-victoria-graduates/index.html
+layout: layout.njk
 ---
 Make way for vibrant Victoria graduates
 =======================================

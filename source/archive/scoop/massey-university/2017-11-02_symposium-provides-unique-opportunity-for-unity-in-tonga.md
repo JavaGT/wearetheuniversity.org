@@ -1,9 +1,13 @@
 ---
 slug: symposium-provides-unique-opportunity-for-unity-in-tonga
-title: "Symposium Provides Unique Opportunity for Unity in Tonga"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/WO1711/S00018/symposium-provides-unique-opportunity-for-unity-in-tonga.htm
+title: Symposium Provides Unique Opportunity for Unity in Tonga
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1711/S00018/symposium-provides-unique-opportunity-for-unity-in-tonga.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/02/symposium-provides-unique-opportunity-for-unity-in-tonga/index.html
+layout: layout.njk
 ---
 Symposium Provides Unique Opportunity for Unity in Tonga
 ========================================================

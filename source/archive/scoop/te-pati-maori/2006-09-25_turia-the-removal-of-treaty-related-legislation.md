@@ -1,9 +1,12 @@
 ---
 slug: turia-the-removal-of-treaty-related-legislation
-title: "Turia: The Removal of Treaty Related Legislation"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/PA0609/S00514/turia-the-removal-of-treaty-related-legislation.htm
+title: 'Turia: The Removal of Treaty Related Legislation'
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00514/turia-the-removal-of-treaty-related-legislation.htm
 author: te-pati-maori
+permalink: /archive/2006/09/25/turia-the-removal-of-treaty-related-legislation/index.html
+layout: layout.njk
 ---
 Turia: The Removal of Treaty Related Legislation
 ================================================

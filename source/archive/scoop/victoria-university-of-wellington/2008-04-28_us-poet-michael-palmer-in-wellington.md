@@ -1,9 +1,12 @@
 ---
 slug: us-poet-michael-palmer-in-wellington
-title: "US poet Michael Palmer in Wellington"
-date: 2008-04-28
-source-url: https://www.scoop.co.nz/stories/CU0804/S00273/us-poet-michael-palmer-in-wellington.htm
+title: US poet Michael Palmer in Wellington
+date: 2008-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0804/S00273/us-poet-michael-palmer-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/28/us-poet-michael-palmer-in-wellington/index.html
+layout: layout.njk
 ---
 US poet Michael Palmer in Wellington
 ====================================

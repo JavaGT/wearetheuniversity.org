@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-30-march-2007
-title: "Heather Roy's Diary – 30 March 2007"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/PA0703/S00655/heather-roys-diary-30-march-2007.htm
+title: Heather Roy's Diary – 30 March 2007
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00655/heather-roys-diary-30-march-2007.htm
 author: act-new-zealand
+permalink: /archive/2007/03/30/heather-roys-diary-30-march-2007/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary – 30 March 2007
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: big-announcements-are-easy-but-delivery-counts
-title: "Big Announcements Are Easy But Delivery Counts"
-date: 2020-05-16
-source-url: https://www.scoop.co.nz/stories/PA2005/S00159/big-announcements-are-easy-but-delivery-counts.htm
+title: Big Announcements Are Easy But Delivery Counts
+date: 2020-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00159/big-announcements-are-easy-but-delivery-counts.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/16/big-announcements-are-easy-but-delivery-counts/index.html
+layout: layout.njk
 ---
 Big Announcements Are Easy But Delivery Counts
 ==============================================

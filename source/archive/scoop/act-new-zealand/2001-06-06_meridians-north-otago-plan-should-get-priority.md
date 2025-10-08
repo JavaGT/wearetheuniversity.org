@@ -1,9 +1,12 @@
 ---
 slug: meridians-north-otago-plan-should-get-priority
-title: "Meridian’s North Otago Plan Should Get Priority"
-date: 2001-06-06
-source-url: https://www.scoop.co.nz/stories/PA0106/S00060/meridians-north-otago-plan-should-get-priority.htm
+title: Meridian’s North Otago Plan Should Get Priority
+date: 2001-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00060/meridians-north-otago-plan-should-get-priority.htm
 author: act-new-zealand
+permalink: /archive/2001/06/06/meridians-north-otago-plan-should-get-priority/index.html
+layout: layout.njk
 ---
 Meridian’s North Otago Plan Should Get Priority
 ===============================================

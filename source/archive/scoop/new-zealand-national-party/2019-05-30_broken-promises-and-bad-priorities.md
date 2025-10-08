@@ -1,9 +1,12 @@
 ---
 slug: broken-promises-and-bad-priorities
-title: "Broken promises and bad priorities"
-date: 2019-05-30
-source-url: https://www.scoop.co.nz/stories/PA1905/S00315/broken-promises-and-bad-priorities.htm
+title: Broken promises and bad priorities
+date: 2019-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1905/S00315/broken-promises-and-bad-priorities.htm
 author: new-zealand-national-party
+permalink: /archive/2019/05/30/broken-promises-and-bad-priorities/index.html
+layout: layout.njk
 ---
 Broken promises and bad priorities
 ==================================

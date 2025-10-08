@@ -1,9 +1,12 @@
 ---
 slug: national-fails-financially-stressed-out-kiwis
-title: "National Fails Financially Stressed-Out Kiwis"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/PA1304/S00495/national-fails-financially-stressed-out-kiwis.htm
+title: National Fails Financially Stressed-Out Kiwis
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00495/national-fails-financially-stressed-out-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/26/national-fails-financially-stressed-out-kiwis/index.html
+layout: layout.njk
 ---
 National Fails Financially Stressed-Out Kiwis
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: teachers-welcome-labours-plans-to-drop-ropey-standards
-title: "Teachers welcome Labour’s plans to drop \"ropey\" Standards"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/PO1306/S00123/teachers-welcome-labours-plans-to-drop-ropey-standards.htm
+title: Teachers welcome Labour’s plans to drop "ropey" Standards
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00123/teachers-welcome-labours-plans-to-drop-ropey-standards.htm
 author: nzei
+permalink: >-
+  /archive/2013/06/11/teachers-welcome-labours-plans-to-drop-ropey-standards/index.html
+layout: layout.njk
 ---
 Teachers welcome Labour’s plans to drop “ropey" Standards
 =========================================================

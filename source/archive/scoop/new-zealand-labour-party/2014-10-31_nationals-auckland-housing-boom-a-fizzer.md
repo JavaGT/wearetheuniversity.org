@@ -1,9 +1,12 @@
 ---
 slug: nationals-auckland-housing-boom-a-fizzer
-title: "National’s \"Auckland housing boom\" a fizzer"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/PA1410/S00269/nationals-auckland-housing-boom-a-fizzer.htm
+title: National’s "Auckland housing boom" a fizzer
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00269/nationals-auckland-housing-boom-a-fizzer.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/31/nationals-auckland-housing-boom-a-fizzer/index.html
+layout: layout.njk
 ---
 National’s “Auckland housing boom” a fizzer
 ===========================================

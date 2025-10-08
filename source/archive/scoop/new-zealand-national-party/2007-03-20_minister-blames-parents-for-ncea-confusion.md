@@ -1,9 +1,12 @@
 ---
 slug: minister-blames-parents-for-ncea-confusion
-title: "Minister blames parents for NCEA confusion"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/PA0703/S00398/minister-blames-parents-for-ncea-confusion.htm
+title: Minister blames parents for NCEA confusion
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00398/minister-blames-parents-for-ncea-confusion.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/20/minister-blames-parents-for-ncea-confusion/index.html
+layout: layout.njk
 ---
 Minister blames parents for NCEA confusion
 ==========================================

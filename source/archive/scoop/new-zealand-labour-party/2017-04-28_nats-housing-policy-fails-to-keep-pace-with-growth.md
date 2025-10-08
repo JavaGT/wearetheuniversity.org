@@ -1,9 +1,13 @@
 ---
 slug: nats-housing-policy-fails-to-keep-pace-with-growth
-title: "Nats’ housing policy fails to keep pace with growth"
-date: 2017-04-28
-source-url: https://www.scoop.co.nz/stories/PA1704/S00353/nats-housing-policy-fails-to-keep-pace-with-growth.htm
+title: Nats’ housing policy fails to keep pace with growth
+date: 2017-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00353/nats-housing-policy-fails-to-keep-pace-with-growth.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/28/nats-housing-policy-fails-to-keep-pace-with-growth/index.html
+layout: layout.njk
 ---
 Nats’ housing policy fails to keep pace with growth
 ===================================================

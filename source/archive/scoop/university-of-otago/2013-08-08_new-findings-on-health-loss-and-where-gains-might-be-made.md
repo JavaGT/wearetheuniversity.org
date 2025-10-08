@@ -1,9 +1,13 @@
 ---
 slug: new-findings-on-health-loss-and-where-gains-might-be-made
-title: "New findings on health loss and where gains might be made"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/ED1308/S00038/new-findings-on-health-loss-and-where-gains-might-be-made.htm
+title: New findings on health loss and where gains might be made
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00038/new-findings-on-health-loss-and-where-gains-might-be-made.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/08/08/new-findings-on-health-loss-and-where-gains-might-be-made/index.html
+layout: layout.njk
 ---
 New findings on health loss and where gains might be made
 =========================================================

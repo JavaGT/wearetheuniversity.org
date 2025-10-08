@@ -1,9 +1,12 @@
 ---
 slug: no-health-data-despite-ed-closure
-title: "No Health Data Despite ED Closure"
-date: 2023-08-15
-source-url: https://www.scoop.co.nz/stories/PA2308/S00090/no-health-data-despite-ed-closure.htm
+title: No Health Data Despite ED Closure
+date: 2023-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00090/no-health-data-despite-ed-closure.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/15/no-health-data-despite-ed-closure/index.html
+layout: layout.njk
 ---
 No Health Data Despite ED Closure
 =================================

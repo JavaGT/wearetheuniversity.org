@@ -1,9 +1,11 @@
 ---
 slug: do-milkshakes-fill-the-gap
-title: "Do milkshakes fill the gap?"
-date: 2007-02-19
+title: Do milkshakes fill the gap?
+date: 2007-02-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0702/S00046/do-milkshakes-fill-the-gap.htm
 author: massey-university
+permalink: /archive/2007/02/19/do-milkshakes-fill-the-gap/index.html
+layout: layout.njk
 ---
 Do milkshakes fill the gap?
 ===========================

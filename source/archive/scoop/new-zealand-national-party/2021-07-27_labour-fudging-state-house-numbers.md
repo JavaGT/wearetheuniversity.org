@@ -1,9 +1,12 @@
 ---
 slug: labour-fudging-state-house-numbers
-title: "Labour Fudging State House Numbers"
-date: 2021-07-27
-source-url: https://www.scoop.co.nz/stories/PA2107/S00193/labour-fudging-state-house-numbers.htm
+title: Labour Fudging State House Numbers
+date: 2021-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00193/labour-fudging-state-house-numbers.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/27/labour-fudging-state-house-numbers/index.html
+layout: layout.njk
 ---
 Labour Fudging State House Numbers
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: students-protest-mahareys-public-good-fee-rises
-title: "Students protest Maharey’s \"public good\" fee rises"
-date: 2003-05-28
-source-url: https://www.scoop.co.nz/stories/ED0305/S00094/students-protest-mahareys-public-good-fee-rises.htm
+title: Students protest Maharey’s "public good" fee rises
+date: 2003-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00094/students-protest-mahareys-public-good-fee-rises.htm
 author: victoria-university-students-association
+permalink: /archive/2003/05/28/students-protest-mahareys-public-good-fee-rises/index.html
+layout: layout.njk
 ---
 Students protest Maharey’s “public good” fee rises
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-quote-of-the-year-finalists-chosen
-title: "NZ Quote of the Year finalists chosen"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/CU1312/S00157/nz-quote-of-the-year-finalists-chosen.htm
+title: NZ Quote of the Year finalists chosen
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00157/nz-quote-of-the-year-finalists-chosen.htm
 author: massey-university
+permalink: /archive/2013/12/09/nz-quote-of-the-year-finalists-chosen/index.html
+layout: layout.njk
 ---
 NZ Quote of the Year finalists chosen
 =====================================

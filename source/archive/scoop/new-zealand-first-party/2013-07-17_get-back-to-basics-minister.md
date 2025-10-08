@@ -1,9 +1,11 @@
 ---
 slug: get-back-to-basics-minister
-title: "Get Back to Basics Minister"
-date: 2013-07-17
+title: Get Back to Basics Minister
+date: 2013-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1307/S00276/get-back-to-basics-minister.htm
 author: new-zealand-first-party
+permalink: /archive/2013/07/17/get-back-to-basics-minister/index.html
+layout: layout.njk
 ---
 Get Back to Basics Minister
 ===========================

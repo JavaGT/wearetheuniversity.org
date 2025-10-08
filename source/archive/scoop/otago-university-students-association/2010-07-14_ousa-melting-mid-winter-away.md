@@ -1,9 +1,11 @@
 ---
 slug: ousa-melting-mid-winter-away
-title: "OUSA: Melting Mid-Winter Away"
-date: 2010-07-14
+title: 'OUSA: Melting Mid-Winter Away'
+date: 2010-07-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1007/S00199/ousa-melting-mid-winter-away.htm
 author: otago-university-students-association
+permalink: /archive/2010/07/14/ousa-melting-mid-winter-away/index.html
+layout: layout.njk
 ---
 OUSA: Melting Mid-Winter Away
 =============================

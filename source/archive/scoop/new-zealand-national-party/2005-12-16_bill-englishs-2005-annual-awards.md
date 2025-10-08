@@ -1,9 +1,12 @@
 ---
 slug: bill-englishs-2005-annual-awards
-title: "Bill English's 2005 Annual Awards"
-date: 2005-12-16
-source-url: https://www.scoop.co.nz/stories/PA0512/S00262/bill-englishs-2005-annual-awards.htm
+title: Bill English's 2005 Annual Awards
+date: 2005-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00262/bill-englishs-2005-annual-awards.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/16/bill-englishs-2005-annual-awards/index.html
+layout: layout.njk
 ---
 Bill English's 2005 Annual Awards
 =================================

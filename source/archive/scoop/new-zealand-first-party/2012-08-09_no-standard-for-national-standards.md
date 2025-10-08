@@ -1,9 +1,12 @@
 ---
 slug: no-standard-for-national-standards
-title: "No Standard for National Standards"
-date: 2012-08-09
-source-url: https://www.scoop.co.nz/stories/PA1208/S00128/no-standard-for-national-standards.htm
+title: No Standard for National Standards
+date: 2012-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00128/no-standard-for-national-standards.htm
 author: new-zealand-first-party
+permalink: /archive/2012/08/09/no-standard-for-national-standards/index.html
+layout: layout.njk
 ---
 No Standard for National Standards
 ==================================

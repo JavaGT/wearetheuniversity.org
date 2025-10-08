@@ -1,9 +1,16 @@
 ---
-slug: waikato-ranked-top-60-in-the-world-for-research-that-impacts-economic-growth-and-reducing-inequality
-title: "Waikato Ranked Top 60 In The World For Research That Impacts Economic Growth And Reducing Inequality"
-date: 2021-04-22
-source-url: https://www.scoop.co.nz/stories/ED2104/S00023/waikato-ranked-top-60-in-the-world-for-research-that-impacts-economic-growth-and-reducing-inequality.htm
+slug: >-
+  waikato-ranked-top-60-in-the-world-for-research-that-impacts-economic-growth-and-reducing-inequality
+title: >-
+  Waikato Ranked Top 60 In The World For Research That Impacts Economic Growth
+  And Reducing Inequality
+date: 2021-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00023/waikato-ranked-top-60-in-the-world-for-research-that-impacts-economic-growth-and-reducing-inequality.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/04/22/waikato-ranked-top-60-in-the-world-for-research-that-impacts-economic-growth-and-reducing-inequality/index.html
+layout: layout.njk
 ---
 Waikato Ranked Top 60 In The World For Research That Impacts Economic Growth And Reducing Inequality
 ====================================================================================================

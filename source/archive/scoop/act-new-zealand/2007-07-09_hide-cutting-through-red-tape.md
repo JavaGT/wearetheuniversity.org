@@ -1,9 +1,12 @@
 ---
 slug: hide-cutting-through-red-tape
-title: "Hide: Cutting Through Red Tape"
-date: 2007-07-09
-source-url: https://www.scoop.co.nz/stories/PA0707/S00131/hide-cutting-through-red-tape.htm
+title: 'Hide: Cutting Through Red Tape'
+date: 2007-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00131/hide-cutting-through-red-tape.htm
 author: act-new-zealand
+permalink: /archive/2007/07/09/hide-cutting-through-red-tape/index.html
+layout: layout.njk
 ---
 Hide: Cutting Through Red Tape
 ==============================

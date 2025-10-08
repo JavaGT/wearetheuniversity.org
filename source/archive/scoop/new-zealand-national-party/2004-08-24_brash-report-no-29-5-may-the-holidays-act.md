@@ -1,9 +1,12 @@
 ---
 slug: brash-report-no-29-5-may-the-holidays-act
-title: "Brash-Report - No. 29, 5 May - The Holidays Act"
-date: 2004-08-24
-source-url: https://www.scoop.co.nz/stories/HL0408/S00241/brash-report-no-29-5-may-the-holidays-act.htm
+title: Brash-Report - No. 29, 5 May - The Holidays Act
+date: 2004-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0408/S00241/brash-report-no-29-5-may-the-holidays-act.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/24/brash-report-no-29-5-may-the-holidays-act/index.html
+layout: layout.njk
 ---
 Brash-Report - No. 29, 5 May - The Holidays Act
 ===============================================

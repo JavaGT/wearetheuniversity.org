@@ -1,9 +1,12 @@
 ---
 slug: what-if-more-people-could-understand-the-law
-title: "What if more people could understand the law?"
-date: 2015-04-28
-source-url: https://www.scoop.co.nz/stories/ED1504/S00071/what-if-more-people-could-understand-the-law.htm
+title: What if more people could understand the law?
+date: 2015-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00071/what-if-more-people-could-understand-the-law.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/28/what-if-more-people-could-understand-the-law/index.html
+layout: layout.njk
 ---
 What if more people could understand the law?
 =============================================

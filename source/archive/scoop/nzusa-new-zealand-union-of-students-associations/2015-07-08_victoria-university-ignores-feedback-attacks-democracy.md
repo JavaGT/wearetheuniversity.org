@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-ignores-feedback-attacks-democracy
-title: "Victoria University ignores feedback, attacks democracy"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/ED1507/S00050/victoria-university-ignores-feedback-attacks-democracy.htm
+title: Victoria University ignores feedback, attacks democracy
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00050/victoria-university-ignores-feedback-attacks-democracy.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/07/08/victoria-university-ignores-feedback-attacks-democracy/index.html
+layout: layout.njk
 ---
 Victoria University ignores feedback, attacks democracy
 =======================================================

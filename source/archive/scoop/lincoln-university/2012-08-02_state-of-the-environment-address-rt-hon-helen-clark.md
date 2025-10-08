@@ -1,9 +1,13 @@
 ---
 slug: state-of-the-environment-address-rt-hon-helen-clark
-title: "State of the Environment Address Rt Hon Helen Clark"
-date: 2012-08-02
-source-url: https://www.scoop.co.nz/stories/PO1208/S00035/state-of-the-environment-address-rt-hon-helen-clark.htm
+title: State of the Environment Address Rt Hon Helen Clark
+date: 2012-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00035/state-of-the-environment-address-rt-hon-helen-clark.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/08/02/state-of-the-environment-address-rt-hon-helen-clark/index.html
+layout: layout.njk
 ---
 State of the Environment Address Rt Hon Helen Clark
 ===================================================

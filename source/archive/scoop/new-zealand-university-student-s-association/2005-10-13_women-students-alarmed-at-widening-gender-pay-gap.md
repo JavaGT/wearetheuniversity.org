@@ -1,9 +1,13 @@
 ---
 slug: women-students-alarmed-at-widening-gender-pay-gap
-title: "Women students alarmed at widening gender pay gap"
-date: 2005-10-13
-source-url: https://www.scoop.co.nz/stories/PO0510/S00099/women-students-alarmed-at-widening-gender-pay-gap.htm
+title: Women students alarmed at widening gender pay gap
+date: 2005-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0510/S00099/women-students-alarmed-at-widening-gender-pay-gap.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2005/10/13/women-students-alarmed-at-widening-gender-pay-gap/index.html
+layout: layout.njk
 ---
 Women students alarmed at widening gender pay gap
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: indigenous-language-immersion-classes-gain-from-partnership
-title: "Indigenous Language Immersion Classes Gain from Partnership"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/ED1709/S00044/indigenous-language-immersion-classes-gain-from-partnership.htm
+title: Indigenous Language Immersion Classes Gain from Partnership
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00044/indigenous-language-immersion-classes-gain-from-partnership.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/09/13/indigenous-language-immersion-classes-gain-from-partnership/index.html
+layout: layout.njk
 ---
 Indigenous Language Immersion Classes Gain from Partnership
 ===========================================================

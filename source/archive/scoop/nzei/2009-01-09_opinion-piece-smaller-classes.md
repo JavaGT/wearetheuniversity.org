@@ -1,9 +1,12 @@
 ---
 slug: opinion-piece-smaller-classes
-title: "Opinion Piece: Smaller Classes"
-date: 2009-01-09
-source-url: https://www.scoop.co.nz/stories/ED0901/S00008/opinion-piece-smaller-classes.htm
+title: 'Opinion Piece: Smaller Classes'
+date: 2009-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00008/opinion-piece-smaller-classes.htm
 author: nzei
+permalink: /archive/2009/01/09/opinion-piece-smaller-classes/index.html
+layout: layout.njk
 ---
 Opinion Piece: Smaller Classes
 ==============================

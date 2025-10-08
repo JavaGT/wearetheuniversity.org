@@ -1,9 +1,11 @@
 ---
 slug: aut-literacy-teacher-is-ace
-title: "AUT literacy teacher is ace"
-date: 2005-09-08
+title: AUT literacy teacher is ace
+date: 2005-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0509/S00026/aut-literacy-teacher-is-ace.htm
 author: aut-university
+permalink: /archive/2005/09/08/aut-literacy-teacher-is-ace/index.html
+layout: layout.njk
 ---
 AUT literacy teacher is ace
 ===========================

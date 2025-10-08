@@ -1,9 +1,13 @@
 ---
 slug: otagos-international-tb-research-efforts-gain-major-support
-title: "Otago’s international TB research efforts gain major support"
-date: 2015-08-03
-source-url: https://www.scoop.co.nz/stories/SC1508/S00003/otagos-international-tb-research-efforts-gain-major-support.htm
+title: Otago’s international TB research efforts gain major support
+date: 2015-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1508/S00003/otagos-international-tb-research-efforts-gain-major-support.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/08/03/otagos-international-tb-research-efforts-gain-major-support/index.html
+layout: layout.njk
 ---
 Otago’s international TB research efforts gain major support
 ============================================================

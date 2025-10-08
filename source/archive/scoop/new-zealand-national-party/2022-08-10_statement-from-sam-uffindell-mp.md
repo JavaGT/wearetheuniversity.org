@@ -1,9 +1,12 @@
 ---
 slug: statement-from-sam-uffindell-mp
-title: "Statement From Sam Uffindell MP"
-date: 2022-08-10
-source-url: https://www.scoop.co.nz/stories/PO2208/S00077/statement-from-sam-uffindell-mp.htm
+title: Statement From Sam Uffindell MP
+date: 2022-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00077/statement-from-sam-uffindell-mp.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/10/statement-from-sam-uffindell-mp/index.html
+layout: layout.njk
 ---
 Statement From Sam Uffindell MP
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: revolutionary-3d-colour-x-ray-for-medicine
-title: "Revolutionary 3D colour X-ray for medicine"
-date: 2018-10-03
-source-url: https://www.scoop.co.nz/stories/SC1810/S00014/revolutionary-3d-colour-x-ray-for-medicine.htm
+title: Revolutionary 3D colour X-ray for medicine
+date: 2018-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00014/revolutionary-3d-colour-x-ray-for-medicine.htm
 author: university-of-canterbury
+permalink: /archive/2018/10/03/revolutionary-3d-colour-x-ray-for-medicine/index.html
+layout: layout.njk
 ---
 Revolutionary 3D colour X-ray for medicine
 ==========================================

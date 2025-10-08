@@ -1,9 +1,13 @@
 ---
 slug: the-priority-for-tax-reforms-a-flatter-tax-scale
-title: "The Priority for Tax Reforms: A Flatter Tax Scale"
-date: 2007-11-16
-source-url: https://www.scoop.co.nz/stories/BU0711/S00327/the-priority-for-tax-reforms-a-flatter-tax-scale.htm
+title: 'The Priority for Tax Reforms: A Flatter Tax Scale'
+date: 2007-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0711/S00327/the-priority-for-tax-reforms-a-flatter-tax-scale.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2007/11/16/the-priority-for-tax-reforms-a-flatter-tax-scale/index.html
+layout: layout.njk
 ---
 The Priority for Tax Reforms: A Flatter Tax Scale
 =================================================

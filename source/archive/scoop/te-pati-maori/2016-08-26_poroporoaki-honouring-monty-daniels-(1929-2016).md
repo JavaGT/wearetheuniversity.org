@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-honouring-monty-daniels-(1929-2016)
-title: "POROPOROAKI: Honouring Monty Daniels (1929-2016)"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/PA1608/S00494/poroporoaki-honouring-monty-daniels-1929-2016.htm
+title: 'POROPOROAKI: Honouring Monty Daniels (1929-2016)'
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00494/poroporoaki-honouring-monty-daniels-1929-2016.htm
 author: te-pati-maori
+permalink: /archive/2016/08/26/poroporoaki-honouring-monty-daniels-/index.html
+layout: layout.njk
 ---
 POROPOROAKI: Honouring Monty Daniels (1929-2016)
 ================================================

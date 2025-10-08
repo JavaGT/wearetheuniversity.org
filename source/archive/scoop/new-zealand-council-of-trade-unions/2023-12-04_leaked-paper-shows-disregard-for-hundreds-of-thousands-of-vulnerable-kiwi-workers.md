@@ -1,9 +1,16 @@
 ---
-slug: leaked-paper-shows-disregard-for-hundreds-of-thousands-of-vulnerable-kiwi-workers
-title: "Leaked Paper Shows Disregard For Hundreds Of Thousands Of Vulnerable Kiwi Workers"
-date: 2023-12-04
-source-url: https://www.scoop.co.nz/stories/BU2312/S00036/leaked-paper-shows-disregard-for-hundreds-of-thousands-of-vulnerable-kiwi-workers.htm
+slug: >-
+  leaked-paper-shows-disregard-for-hundreds-of-thousands-of-vulnerable-kiwi-workers
+title: >-
+  Leaked Paper Shows Disregard For Hundreds Of Thousands Of Vulnerable Kiwi
+  Workers
+date: 2023-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2312/S00036/leaked-paper-shows-disregard-for-hundreds-of-thousands-of-vulnerable-kiwi-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2023/12/04/leaked-paper-shows-disregard-for-hundreds-of-thousands-of-vulnerable-kiwi-workers/index.html
+layout: layout.njk
 ---
 Leaked Paper Shows Disregard For Hundreds Of Thousands Of Vulnerable Kiwi Workers
 =================================================================================

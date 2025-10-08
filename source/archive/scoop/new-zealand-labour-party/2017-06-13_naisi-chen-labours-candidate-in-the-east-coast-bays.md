@@ -1,9 +1,13 @@
 ---
 slug: naisi-chen-labours-candidate-in-the-east-coast-bays
-title: "Naisi Chen Labour’s candidate in the East Coast Bays"
-date: 2017-06-13
-source-url: https://www.scoop.co.nz/stories/PO1706/S00174/naisi-chen-labours-candidate-in-the-east-coast-bays.htm
+title: Naisi Chen Labour’s candidate in the East Coast Bays
+date: 2017-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00174/naisi-chen-labours-candidate-in-the-east-coast-bays.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/06/13/naisi-chen-labours-candidate-in-the-east-coast-bays/index.html
+layout: layout.njk
 ---
 Naisi Chen Labour’s candidate in the East Coast Bays
 ====================================================

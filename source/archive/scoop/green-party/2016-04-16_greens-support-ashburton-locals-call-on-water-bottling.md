@@ -1,9 +1,13 @@
 ---
 slug: greens-support-ashburton-locals-call-on-water-bottling
-title: "Greens support Ashburton locals’ call on water bottling"
-date: 2016-04-16
-source-url: https://www.scoop.co.nz/stories/PA1604/S00288/greens-support-ashburton-locals-call-on-water-bottling.htm
+title: Greens support Ashburton locals’ call on water bottling
+date: 2016-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00288/greens-support-ashburton-locals-call-on-water-bottling.htm
 author: green-party
+permalink: >-
+  /archive/2016/04/16/greens-support-ashburton-locals-call-on-water-bottling/index.html
+layout: layout.njk
 ---
 Greens support Ashburton locals’ call on water bottling
 =======================================================

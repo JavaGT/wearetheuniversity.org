@@ -1,9 +1,11 @@
 ---
 slug: goff-auckland-rotary-lunch
-title: "Goff: Auckland Rotary Lunch"
-date: 2009-09-21
+title: 'Goff: Auckland Rotary Lunch'
+date: 2009-09-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0909/S00290/goff-auckland-rotary-lunch.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/21/goff-auckland-rotary-lunch/index.html
+layout: layout.njk
 ---
 Goff: Auckland Rotary Lunch
 ===========================

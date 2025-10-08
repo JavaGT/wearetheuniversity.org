@@ -1,9 +1,12 @@
 ---
 slug: chch-150+-cafés-restaurants-&-bars-opened-since-christmas
-title: "Chch: 150+ Cafés, Restaurants & Bars Opened Since Christmas"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/ED1303/S00013/chch-150-cafes-restaurants-bars-opened-since-christmas.htm
+title: 'Chch: 150+ Cafés, Restaurants & Bars Opened Since Christmas'
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00013/chch-150-cafes-restaurants-bars-opened-since-christmas.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/04/chch-150/index.html
+layout: layout.njk
 ---
 Chch: 150+ Cafés, Restaurants & Bars Opened Since Christmas
 ===========================================================

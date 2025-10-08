@@ -1,9 +1,11 @@
 ---
 slug: nzusa-going-going
-title: "NZUSA: Going, Going...."
-date: 1999-07-19
+title: 'NZUSA: Going, Going....'
+date: 1999-07-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED9907/S00016/nzusa-going-going.htm
 author: student-choice
+permalink: /archive/1999/07/19/nzusa-going-going/index.html
+layout: layout.njk
 ---
 NZUSA: Going, Going....
 =======================

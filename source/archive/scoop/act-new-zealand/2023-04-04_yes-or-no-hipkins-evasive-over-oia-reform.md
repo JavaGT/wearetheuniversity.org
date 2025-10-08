@@ -1,9 +1,12 @@
 ---
 slug: yes-or-no-hipkins-evasive-over-oia-reform
-title: "Yes Or No? Hipkins Evasive Over OIA Reform"
-date: 2023-04-04
-source-url: https://www.scoop.co.nz/stories/PA2304/S00018/yes-or-no-hipkins-evasive-over-oia-reform.htm
+title: Yes Or No? Hipkins Evasive Over OIA Reform
+date: 2023-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00018/yes-or-no-hipkins-evasive-over-oia-reform.htm
 author: act-new-zealand
+permalink: /archive/2023/04/04/yes-or-no-hipkins-evasive-over-oia-reform/index.html
+layout: layout.njk
 ---
 Yes Or No? Hipkins Evasive Over OIA Reform
 ==========================================

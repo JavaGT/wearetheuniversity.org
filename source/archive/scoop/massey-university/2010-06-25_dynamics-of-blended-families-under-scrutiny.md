@@ -1,9 +1,12 @@
 ---
 slug: dynamics-of-blended-families-under-scrutiny
-title: "Dynamics of blended families under scrutiny"
-date: 2010-06-25
-source-url: https://www.scoop.co.nz/stories/CU1006/S00332/dynamics-of-blended-families-under-scrutiny.htm
+title: Dynamics of blended families under scrutiny
+date: 2010-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1006/S00332/dynamics-of-blended-families-under-scrutiny.htm
 author: massey-university
+permalink: /archive/2010/06/25/dynamics-of-blended-families-under-scrutiny/index.html
+layout: layout.njk
 ---
 Dynamics of blended families under scrutiny
 ===========================================

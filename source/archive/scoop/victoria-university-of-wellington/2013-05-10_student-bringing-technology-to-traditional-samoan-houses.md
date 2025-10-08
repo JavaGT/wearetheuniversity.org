@@ -1,9 +1,13 @@
 ---
 slug: student-bringing-technology-to-traditional-samoan-houses
-title: "Student bringing technology to traditional Samoan houses"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/ED1305/S00063/student-bringing-technology-to-traditional-samoan-houses.htm
+title: Student bringing technology to traditional Samoan houses
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00063/student-bringing-technology-to-traditional-samoan-houses.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/05/10/student-bringing-technology-to-traditional-samoan-houses/index.html
+layout: layout.njk
 ---
 Student bringing technology to traditional Samoan houses
 ========================================================

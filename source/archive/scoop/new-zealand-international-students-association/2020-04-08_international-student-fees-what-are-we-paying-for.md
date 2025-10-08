@@ -1,9 +1,13 @@
 ---
 slug: international-student-fees-what-are-we-paying-for
-title: "International Student Fees: What Are We Paying For?"
-date: 2020-04-08
-source-url: https://www.scoop.co.nz/stories/ED2004/S00015/international-student-fees-what-are-we-paying-for.htm
+title: 'International Student Fees: What Are We Paying For?'
+date: 2020-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2004/S00015/international-student-fees-what-are-we-paying-for.htm
 author: new-zealand-international-students-association
+permalink: >-
+  /archive/2020/04/08/international-student-fees-what-are-we-paying-for/index.html
+layout: layout.njk
 ---
 International Student Fees: What Are We Paying For?
 ===================================================

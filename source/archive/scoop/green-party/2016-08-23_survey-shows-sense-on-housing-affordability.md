@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-sense-on-housing-affordability
-title: "Survey shows sense on housing affordability"
-date: 2016-08-23
-source-url: https://www.scoop.co.nz/stories/PA1608/S00415/survey-shows-sense-on-housing-affordability.htm
+title: Survey shows sense on housing affordability
+date: 2016-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00415/survey-shows-sense-on-housing-affordability.htm
 author: green-party
+permalink: /archive/2016/08/23/survey-shows-sense-on-housing-affordability/index.html
+layout: layout.njk
 ---
 Survey shows sense on housing affordability
 ===========================================

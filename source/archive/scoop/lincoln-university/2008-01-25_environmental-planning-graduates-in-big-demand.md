@@ -1,9 +1,12 @@
 ---
 slug: environmental-planning-graduates-in-big-demand
-title: "Environmental Planning Graduates in Big Demand"
-date: 2008-01-25
-source-url: https://www.scoop.co.nz/stories/ED0801/S00028/environmental-planning-graduates-in-big-demand.htm
+title: Environmental Planning Graduates in Big Demand
+date: 2008-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00028/environmental-planning-graduates-in-big-demand.htm
 author: lincoln-university
+permalink: /archive/2008/01/25/environmental-planning-graduates-in-big-demand/index.html
+layout: layout.njk
 ---
 Environmental Planning Graduates in Big Demand
 ==============================================

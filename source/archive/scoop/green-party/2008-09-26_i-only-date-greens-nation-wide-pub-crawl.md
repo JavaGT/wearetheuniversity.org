@@ -1,9 +1,12 @@
 ---
 slug: i-only-date-greens-nation-wide-pub-crawl
-title: "'I only date Greens' - nation-wide pub crawl"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/PO0809/S00391/i-only-date-greens-nation-wide-pub-crawl.htm
+title: '''I only date Greens'' - nation-wide pub crawl'
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00391/i-only-date-greens-nation-wide-pub-crawl.htm
 author: green-party
+permalink: /archive/2008/09/26/i-only-date-greens-nation-wide-pub-crawl/index.html
+layout: layout.njk
 ---
 'I only date Greens' - nation-wide pub crawl
 ============================================

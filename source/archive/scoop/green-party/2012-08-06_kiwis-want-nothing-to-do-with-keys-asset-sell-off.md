@@ -1,9 +1,13 @@
 ---
 slug: kiwis-want-nothing-to-do-with-keys-asset-sell-off
-title: "Kiwis want nothing to do with Key’s asset sell-off"
-date: 2012-08-06
-source-url: https://www.scoop.co.nz/stories/PA1208/S00080/kiwis-want-nothing-to-do-with-keys-asset-sell-off.htm
+title: Kiwis want nothing to do with Key’s asset sell-off
+date: 2012-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00080/kiwis-want-nothing-to-do-with-keys-asset-sell-off.htm
 author: green-party
+permalink: >-
+  /archive/2012/08/06/kiwis-want-nothing-to-do-with-keys-asset-sell-off/index.html
+layout: layout.njk
 ---
 Kiwis want nothing to do with Key’s asset sell-off
 ==================================================

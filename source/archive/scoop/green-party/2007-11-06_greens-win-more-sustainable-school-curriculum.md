@@ -1,9 +1,12 @@
 ---
 slug: greens-win-more-sustainable-school-curriculum
-title: "Greens win more sustainable school curriculum"
-date: 2007-11-06
-source-url: https://www.scoop.co.nz/stories/PA0711/S00068/greens-win-more-sustainable-school-curriculum.htm
+title: Greens win more sustainable school curriculum
+date: 2007-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00068/greens-win-more-sustainable-school-curriculum.htm
 author: green-party
+permalink: /archive/2007/11/06/greens-win-more-sustainable-school-curriculum/index.html
+layout: layout.njk
 ---
 Greens win more sustainable school curriculum
 =============================================

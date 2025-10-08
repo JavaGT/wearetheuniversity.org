@@ -1,9 +1,12 @@
 ---
 slug: bigger-bodies-require-bigger-servings-of-5+-a-day
-title: "Bigger bodies require bigger servings of 5+ a day"
-date: 2020-01-14
-source-url: https://www.scoop.co.nz/stories/GE2001/S00012/bigger-bodies-require-bigger-servings-of-5-a-day.htm
+title: Bigger bodies require bigger servings of 5+ a day
+date: 2020-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2001/S00012/bigger-bodies-require-bigger-servings-of-5-a-day.htm
 author: aut-university
+permalink: /archive/2020/01/14/bigger-bodies-require-bigger-servings-of-5/index.html
+layout: layout.njk
 ---
 Bigger bodies require bigger servings of 5+ a day
 =================================================

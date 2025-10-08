@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-rule-out-serco-buying-our-state-houses
-title: "Govt needs to rule out Serco buying our state houses"
-date: 2015-09-01
-source-url: https://www.scoop.co.nz/stories/PA1509/S00008/govt-needs-to-rule-out-serco-buying-our-state-houses.htm
+title: Govt needs to rule out Serco buying our state houses
+date: 2015-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00008/govt-needs-to-rule-out-serco-buying-our-state-houses.htm
 author: green-party
+permalink: >-
+  /archive/2015/09/01/govt-needs-to-rule-out-serco-buying-our-state-houses/index.html
+layout: layout.njk
 ---
 Govt needs to rule out Serco buying our state houses
 ====================================================

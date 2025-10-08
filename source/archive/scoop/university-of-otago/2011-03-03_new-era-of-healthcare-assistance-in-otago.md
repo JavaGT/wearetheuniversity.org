@@ -1,9 +1,12 @@
 ---
 slug: new-era-of-healthcare-assistance-in-otago
-title: "New era of healthcare assistance in Otago"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00013/new-era-of-healthcare-assistance-in-otago.htm
+title: New era of healthcare assistance in Otago
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00013/new-era-of-healthcare-assistance-in-otago.htm
 author: university-of-otago
+permalink: /archive/2011/03/03/new-era-of-healthcare-assistance-in-otago/index.html
+layout: layout.njk
 ---
 New era of healthcare assistance in Otago
 =========================================

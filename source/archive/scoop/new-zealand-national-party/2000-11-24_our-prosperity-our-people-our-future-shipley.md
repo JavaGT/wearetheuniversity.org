@@ -1,9 +1,12 @@
 ---
 slug: our-prosperity-our-people-our-future-shipley
-title: "Our Prosperity, Our People, Our Future - Shipley"
-date: 2000-11-24
-source-url: https://www.scoop.co.nz/stories/PA0011/S00449/our-prosperity-our-people-our-future-shipley.htm
+title: Our Prosperity, Our People, Our Future - Shipley
+date: 2000-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00449/our-prosperity-our-people-our-future-shipley.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/24/our-prosperity-our-people-our-future-shipley/index.html
+layout: layout.njk
 ---
 Our Prosperity, Our People, Our Future - Shipley
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-to-rail-&-maritime-transport-union
-title: "Winston Peters Speech to Rail & Maritime Transport Union"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/PA1312/S00151/winston-peters-speech-to-rail-maritime-transport-union.htm
+title: Winston Peters Speech to Rail & Maritime Transport Union
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00151/winston-peters-speech-to-rail-maritime-transport-union.htm
 author: new-zealand-first-party
+permalink: /archive/2013/12/06/winston-peters-speech-to-rail-/index.html
+layout: layout.njk
 ---
 Winston Peters Speech to Rail & Maritime Transport Union
 ========================================================

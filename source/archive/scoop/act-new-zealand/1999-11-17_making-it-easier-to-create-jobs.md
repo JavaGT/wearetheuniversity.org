@@ -1,9 +1,12 @@
 ---
 slug: making-it-easier-to-create-jobs
-title: "Making It Easier To Create Jobs"
-date: 1999-11-17
-source-url: https://www.scoop.co.nz/stories/PA9911/S00406/making-it-easier-to-create-jobs.htm
+title: Making It Easier To Create Jobs
+date: 1999-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00406/making-it-easier-to-create-jobs.htm
 author: act-new-zealand
+permalink: /archive/1999/11/17/making-it-easier-to-create-jobs/index.html
+layout: layout.njk
 ---
 Making It Easier To Create Jobs
 ===============================

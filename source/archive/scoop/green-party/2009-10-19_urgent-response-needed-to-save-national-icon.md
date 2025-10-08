@@ -1,9 +1,12 @@
 ---
 slug: urgent-response-needed-to-save-national-icon
-title: "Urgent response needed to save national icon"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/PA0910/S00237/urgent-response-needed-to-save-national-icon.htm
+title: Urgent response needed to save national icon
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00237/urgent-response-needed-to-save-national-icon.htm
 author: green-party
+permalink: /archive/2009/10/19/urgent-response-needed-to-save-national-icon/index.html
+layout: layout.njk
 ---
 Urgent response needed to save national icon
 ============================================

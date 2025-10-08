@@ -1,9 +1,11 @@
 ---
 slug: labours-flexi-wage-a-flop
-title: "Labour’s Flexi-wage A Flop"
-date: 2021-10-07
+title: Labour’s Flexi-wage A Flop
+date: 2021-10-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2110/S00068/labours-flexi-wage-a-flop.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/07/labours-flexi-wage-a-flop/index.html
+layout: layout.njk
 ---
 Labour’s Flexi-wage A Flop
 ==========================

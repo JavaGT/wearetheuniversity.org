@@ -1,9 +1,12 @@
 ---
 slug: uc-awards-2015-research-medal
-title: "UC awards 2015 Research Medal"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/ED1507/S00030/uc-awards-2015-research-medal.htm
+title: UC awards 2015 Research Medal
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00030/uc-awards-2015-research-medal.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/03/uc-awards-2015-research-medal/index.html
+layout: layout.njk
 ---
 UC awards 2015 Research Medal
 =============================

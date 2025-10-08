@@ -1,9 +1,13 @@
 ---
 slug: nzei-disappointed-at-response-unified-profession
-title: "NZEI Disappointed At Response Unified Profession"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/ED0309/S00114/nzei-disappointed-at-response-unified-profession.htm
+title: NZEI Disappointed At Response Unified Profession
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00114/nzei-disappointed-at-response-unified-profession.htm
 author: nzei
+permalink: >-
+  /archive/2003/09/23/nzei-disappointed-at-response-unified-profession/index.html
+layout: layout.njk
 ---
 NZEI Disappointed At Response Unified Profession
 ================================================

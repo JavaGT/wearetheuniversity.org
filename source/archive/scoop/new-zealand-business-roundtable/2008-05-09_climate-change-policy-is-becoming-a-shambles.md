@@ -1,9 +1,12 @@
 ---
 slug: climate-change-policy-is-becoming-a-shambles
-title: "Climate Change Policy is Becoming a Shambles"
-date: 2008-05-09
-source-url: https://www.scoop.co.nz/stories/BU0805/S00158/climate-change-policy-is-becoming-a-shambles.htm
+title: Climate Change Policy is Becoming a Shambles
+date: 2008-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0805/S00158/climate-change-policy-is-becoming-a-shambles.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/05/09/climate-change-policy-is-becoming-a-shambles/index.html
+layout: layout.njk
 ---
 Climate Change Policy is Becoming a Shambles
 ============================================

@@ -1,8 +1,12 @@
 ---
 slug: trial-finds-aspirin-does-not-speed-leg-ulcer-healing
-title: "Trial finds aspirin does not speed leg ulcer healing"
-date: 2017-11-28
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/trial-finds-aspirin-does-not-speed-leg-ulcer-healing.html
+title: Trial finds aspirin does not speed leg ulcer healing
+date: 2017-11-28T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/trial-finds-aspirin-does-not-speed-leg-ulcer-healing.html
+permalink: >-
+  /archive/2017/11/28/trial-finds-aspirin-does-not-speed-leg-ulcer-healing/index.html
+layout: layout.njk
 ---
 Trial finds aspirin does not speed leg ulcer healing
 ====================================================

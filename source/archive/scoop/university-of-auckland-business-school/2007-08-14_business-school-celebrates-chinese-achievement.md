@@ -1,9 +1,12 @@
 ---
 slug: business-school-celebrates-chinese-achievement
-title: "Business School celebrates Chinese achievement"
-date: 2007-08-14
-source-url: https://www.scoop.co.nz/stories/CU0708/S00171/business-school-celebrates-chinese-achievement.htm
+title: Business School celebrates Chinese achievement
+date: 2007-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0708/S00171/business-school-celebrates-chinese-achievement.htm
 author: university-of-auckland-business-school
+permalink: /archive/2007/08/14/business-school-celebrates-chinese-achievement/index.html
+layout: layout.njk
 ---
 Business School celebrates Chinese achievement
 ==============================================

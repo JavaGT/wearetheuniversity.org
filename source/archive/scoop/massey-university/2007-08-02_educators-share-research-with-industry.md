@@ -1,9 +1,12 @@
 ---
 slug: educators-share-research-with-industry
-title: "Educators Share Research With Industry"
-date: 2007-08-02
-source-url: https://www.scoop.co.nz/stories/BU0708/S00044/educators-share-research-with-industry.htm
+title: Educators Share Research With Industry
+date: 2007-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0708/S00044/educators-share-research-with-industry.htm
 author: massey-university
+permalink: /archive/2007/08/02/educators-share-research-with-industry/index.html
+layout: layout.njk
 ---
 Educators Share Research With Industry
 ======================================

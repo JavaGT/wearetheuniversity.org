@@ -1,9 +1,12 @@
 ---
 slug: christchurch-earthquake-bulletin-edition-56
-title: "Christchurch Earthquake bulletin edition 56"
-date: 2011-06-09
-source-url: https://www.scoop.co.nz/stories/PA1106/S00151/christchurch-earthquake-bulletin-edition-56.htm
+title: Christchurch Earthquake bulletin edition 56
+date: 2011-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00151/christchurch-earthquake-bulletin-edition-56.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/09/christchurch-earthquake-bulletin-edition-56/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake bulletin edition 56
 ===========================================

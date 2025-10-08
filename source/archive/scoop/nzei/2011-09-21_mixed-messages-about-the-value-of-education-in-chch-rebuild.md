@@ -1,9 +1,13 @@
 ---
 slug: mixed-messages-about-the-value-of-education-in-chch-rebuild
-title: "Mixed messages about the value of education in Chch rebuild"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/ED1109/S00095/mixed-messages-about-the-value-of-education-in-chch-rebuild.htm
+title: Mixed messages about the value of education in Chch rebuild
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00095/mixed-messages-about-the-value-of-education-in-chch-rebuild.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/21/mixed-messages-about-the-value-of-education-in-chch-rebuild/index.html
+layout: layout.njk
 ---
 Mixed messages about the value of education in Chch rebuild
 ===========================================================

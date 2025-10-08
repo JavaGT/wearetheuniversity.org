@@ -1,9 +1,12 @@
 ---
 slug: scholarship-to-boost-research-outcomes
-title: "Scholarship to boost research outcomes"
-date: 2015-01-13
-source-url: https://www.scoop.co.nz/stories/ED1501/S00019/scholarship-to-boost-research-outcomes.htm
+title: Scholarship to boost research outcomes
+date: 2015-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00019/scholarship-to-boost-research-outcomes.htm
 author: university-of-waikato
+permalink: /archive/2015/01/13/scholarship-to-boost-research-outcomes/index.html
+layout: layout.njk
 ---
 Scholarship to boost research outcomes
 ======================================

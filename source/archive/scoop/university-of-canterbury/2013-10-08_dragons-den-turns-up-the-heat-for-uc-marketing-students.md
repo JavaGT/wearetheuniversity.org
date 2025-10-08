@@ -1,9 +1,13 @@
 ---
 slug: dragons-den-turns-up-the-heat-for-uc-marketing-students
-title: "Dragons’ Den turns up the heat for UC marketing students"
-date: 2013-10-08
-source-url: https://www.scoop.co.nz/stories/ED1310/S00062/dragons-den-turns-up-the-heat-for-uc-marketing-students.htm
+title: Dragons’ Den turns up the heat for UC marketing students
+date: 2013-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00062/dragons-den-turns-up-the-heat-for-uc-marketing-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/08/dragons-den-turns-up-the-heat-for-uc-marketing-students/index.html
+layout: layout.njk
 ---
 Dragons’ Den turns up the heat for UC marketing students
 ========================================================

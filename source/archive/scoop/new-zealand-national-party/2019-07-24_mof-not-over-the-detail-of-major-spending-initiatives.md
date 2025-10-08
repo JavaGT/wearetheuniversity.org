@@ -1,9 +1,13 @@
 ---
 slug: mof-not-over-the-detail-of-major-spending-initiatives
-title: "MoF not over the detail of major spending initiatives"
-date: 2019-07-24
-source-url: https://www.scoop.co.nz/stories/PA1907/S00192/mof-not-over-the-detail-of-major-spending-initiatives.htm
+title: MoF not over the detail of major spending initiatives
+date: 2019-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00192/mof-not-over-the-detail-of-major-spending-initiatives.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/07/24/mof-not-over-the-detail-of-major-spending-initiatives/index.html
+layout: layout.njk
 ---
 MoF not over the detail of major spending initiatives
 =====================================================

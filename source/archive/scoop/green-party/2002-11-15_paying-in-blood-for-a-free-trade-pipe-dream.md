@@ -1,9 +1,12 @@
 ---
 slug: paying-in-blood-for-a-free-trade-pipe-dream
-title: "Paying in blood for a free trade pipe-dream"
-date: 2002-11-15
-source-url: https://www.scoop.co.nz/stories/PA0211/S00364/paying-in-blood-for-a-free-trade-pipe-dream.htm
+title: Paying in blood for a free trade pipe-dream
+date: 2002-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00364/paying-in-blood-for-a-free-trade-pipe-dream.htm
 author: green-party
+permalink: /archive/2002/11/15/paying-in-blood-for-a-free-trade-pipe-dream/index.html
+layout: layout.njk
 ---
 Paying in blood for a free trade pipe-dream
 ===========================================

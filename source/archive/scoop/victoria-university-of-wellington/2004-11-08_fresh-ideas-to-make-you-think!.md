@@ -1,9 +1,12 @@
 ---
 slug: fresh-ideas-to-make-you-think!
-title: "Fresh ideas to make you THINK!"
-date: 2004-11-08
-source-url: https://www.scoop.co.nz/stories/ED0411/S00021/fresh-ideas-to-make-you-think.htm
+title: Fresh ideas to make you THINK!
+date: 2004-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00021/fresh-ideas-to-make-you-think.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/08/fresh-ideas-to-make-you-think/index.html
+layout: layout.njk
 ---
 Fresh ideas to make you THINK!
 ==============================

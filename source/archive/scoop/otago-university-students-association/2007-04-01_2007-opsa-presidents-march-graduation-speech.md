@@ -1,9 +1,12 @@
 ---
 slug: 2007-opsa-presidents-march-graduation-speech
-title: "2007 OPSA President's March Graduation Speech"
-date: 2007-04-01
-source-url: https://www.scoop.co.nz/stories/ED0704/S00001/2007-opsa-presidents-march-graduation-speech.htm
+title: 2007 OPSA President's March Graduation Speech
+date: 2007-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00001/2007-opsa-presidents-march-graduation-speech.htm
 author: otago-university-students-association
+permalink: /archive/2007/04/01/2007-opsa-presidents-march-graduation-speech/index.html
+layout: layout.njk
 ---
 2007 OPSA President's March Graduation Speech
 =============================================

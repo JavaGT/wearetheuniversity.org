@@ -1,9 +1,12 @@
 ---
 slug: labours-dirt-campaign-exposed-with-media-help
-title: "Labour’s Dirt Campaign Exposed With Media Help"
-date: 2023-09-28
-source-url: https://www.scoop.co.nz/stories/PO2309/S00247/labours-dirt-campaign-exposed-with-media-help.htm
+title: Labour’s Dirt Campaign Exposed With Media Help
+date: 2023-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2309/S00247/labours-dirt-campaign-exposed-with-media-help.htm
 author: new-zealand-first-party
+permalink: /archive/2023/09/28/labours-dirt-campaign-exposed-with-media-help/index.html
+layout: layout.njk
 ---
 Labour’s Dirt Campaign Exposed With Media Help
 ==============================================

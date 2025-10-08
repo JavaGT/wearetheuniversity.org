@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-performing-arts-school-head
-title: "University Appoints Performing Arts School Head"
-date: 2001-01-31
-source-url: https://www.scoop.co.nz/stories/ED0101/S00019/university-appoints-performing-arts-school-head.htm
+title: University Appoints Performing Arts School Head
+date: 2001-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00019/university-appoints-performing-arts-school-head.htm
 author: auckland-university
+permalink: /archive/2001/01/31/university-appoints-performing-arts-school-head/index.html
+layout: layout.njk
 ---
 University Appoints Performing Arts School Head
 ===============================================

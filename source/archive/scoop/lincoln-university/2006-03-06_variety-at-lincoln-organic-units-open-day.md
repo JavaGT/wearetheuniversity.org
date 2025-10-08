@@ -1,9 +1,12 @@
 ---
 slug: variety-at-lincoln-organic-units-open-day
-title: "Variety at Lincoln organic unit’s open day"
-date: 2006-03-06
-source-url: https://www.scoop.co.nz/stories/BU0603/S00097/variety-at-lincoln-organic-units-open-day.htm
+title: Variety at Lincoln organic unit’s open day
+date: 2006-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0603/S00097/variety-at-lincoln-organic-units-open-day.htm
 author: lincoln-university
+permalink: /archive/2006/03/06/variety-at-lincoln-organic-units-open-day/index.html
+layout: layout.njk
 ---
 Variety at Lincoln organic unit’s open day
 ==========================================

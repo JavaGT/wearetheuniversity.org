@@ -1,9 +1,12 @@
 ---
 slug: drawing-the-line-at-online-services
-title: "Drawing The Line At Online Services"
-date: 2021-05-18
-source-url: https://www.scoop.co.nz/stories/PA2105/S00148/drawing-the-line-at-online-services.htm
+title: Drawing The Line At Online Services
+date: 2021-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00148/drawing-the-line-at-online-services.htm
 author: new-zealand-national-party
+permalink: /archive/2021/05/18/drawing-the-line-at-online-services/index.html
+layout: layout.njk
 ---
 Drawing The Line At Online Services
 ===================================

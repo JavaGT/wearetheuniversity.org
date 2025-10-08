@@ -1,9 +1,11 @@
 ---
 slug: no-shortage-of-rimu-labour
-title: "No shortage of rimu - Labour"
-date: 1999-09-16
+title: No shortage of rimu - Labour
+date: 1999-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9909/S00348/no-shortage-of-rimu-labour.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/16/no-shortage-of-rimu-labour/index.html
+layout: layout.njk
 ---
 No shortage of rimu - Labour
 ============================

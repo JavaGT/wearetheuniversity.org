@@ -1,9 +1,12 @@
 ---
 slug: dozens-rally-for-uoa-to-ditch-fossil-fuels
-title: "Dozens rally for UOA to ditch fossil fuels"
-date: 2016-06-13
-source-url: https://www.scoop.co.nz/stories/PO1606/S00139/dozens-rally-for-uoa-to-ditch-fossil-fuels.htm
+title: Dozens rally for UOA to ditch fossil fuels
+date: 2016-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00139/dozens-rally-for-uoa-to-ditch-fossil-fuels.htm
 author: fossil-free-uoa
+permalink: /archive/2016/06/13/dozens-rally-for-uoa-to-ditch-fossil-fuels/index.html
+layout: layout.njk
 ---
 Dozens rally for UOA to ditch fossil fuels
 ==========================================

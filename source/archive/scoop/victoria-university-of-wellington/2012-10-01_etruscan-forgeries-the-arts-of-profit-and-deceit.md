@@ -1,9 +1,13 @@
 ---
 slug: etruscan-forgeries-the-arts-of-profit-and-deceit
-title: "Etruscan Forgeries: The Arts of Profit and Deceit"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/ED1210/S00001/etruscan-forgeries-the-arts-of-profit-and-deceit.htm
+title: 'Etruscan Forgeries: The Arts of Profit and Deceit'
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00001/etruscan-forgeries-the-arts-of-profit-and-deceit.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/10/01/etruscan-forgeries-the-arts-of-profit-and-deceit/index.html
+layout: layout.njk
 ---
 Etruscan Forgeries: The Arts of Profit and Deceit
 =================================================

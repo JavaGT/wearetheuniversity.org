@@ -1,9 +1,13 @@
 ---
 slug: use-of-national-standards-to-select-top-teachers
-title: "Use of National Standards to select \"top teachers\""
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/PO1401/S00093/use-of-national-standards-to-select-top-teachers.htm
+title: Use of National Standards to select "top teachers"
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1401/S00093/use-of-national-standards-to-select-top-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2014/01/24/use-of-national-standards-to-select-top-teachers/index.html
+layout: layout.njk
 ---
 Use of National Standards to select \"top teachers"
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-must-accept-responsibility-for-strife
-title: "Labour must accept responsibility for strife"
-date: 2001-02-20
-source-url: https://www.scoop.co.nz/stories/PA0102/S00307/labour-must-accept-responsibility-for-strife.htm
+title: Labour must accept responsibility for strife
+date: 2001-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00307/labour-must-accept-responsibility-for-strife.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/20/labour-must-accept-responsibility-for-strife/index.html
+layout: layout.njk
 ---
 Labour must accept responsibility for strife
 ============================================

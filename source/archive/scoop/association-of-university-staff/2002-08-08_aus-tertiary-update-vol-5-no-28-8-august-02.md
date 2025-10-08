@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-5-no-28-8-august-02
-title: "AUS Tertiary Update Vol 5 No 28 8 August 02"
-date: 2002-08-08
-source-url: https://www.scoop.co.nz/stories/ED0208/S00007/aus-tertiary-update-vol-5-no-28-8-august-02.htm
+title: AUS Tertiary Update Vol 5 No 28 8 August 02
+date: 2002-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00007/aus-tertiary-update-vol-5-no-28-8-august-02.htm
 author: association-of-university-staff
+permalink: /archive/2002/08/08/aus-tertiary-update-vol-5-no-28-8-august-02/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 5 No 28 8 August 02
 ===========================================

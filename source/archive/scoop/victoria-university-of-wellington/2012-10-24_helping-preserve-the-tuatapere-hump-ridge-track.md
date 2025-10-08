@@ -1,9 +1,12 @@
 ---
 slug: helping-preserve-the-tuatapere-hump-ridge-track
-title: "Helping preserve the Tuatapere Hump Ridge Track"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/ED1210/S00138/helping-preserve-the-tuatapere-hump-ridge-track.htm
+title: Helping preserve the Tuatapere Hump Ridge Track
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00138/helping-preserve-the-tuatapere-hump-ridge-track.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/10/24/helping-preserve-the-tuatapere-hump-ridge-track/index.html
+layout: layout.njk
 ---
 Helping preserve the Tuatapere Hump Ridge Track
 ===============================================

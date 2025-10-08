@@ -1,9 +1,12 @@
 ---
 slug: threats-over-booze-sales-costing-ratepayers
-title: "Threats over booze sales costing ratepayers"
-date: 2014-03-03
-source-url: https://www.scoop.co.nz/stories/PA1403/S00017/threats-over-booze-sales-costing-ratepayers.htm
+title: Threats over booze sales costing ratepayers
+date: 2014-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00017/threats-over-booze-sales-costing-ratepayers.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/03/threats-over-booze-sales-costing-ratepayers/index.html
+layout: layout.njk
 ---
 Threats over booze sales costing ratepayers
 ===========================================

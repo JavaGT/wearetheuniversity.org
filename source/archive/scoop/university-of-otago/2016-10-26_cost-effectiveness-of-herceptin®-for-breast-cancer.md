@@ -1,9 +1,12 @@
 ---
 slug: cost-effectiveness-of-herceptin®-for-breast-cancer
-title: "Cost-effectiveness of Herceptin® for breast cancer"
-date: 2016-10-26
-source-url: https://www.scoop.co.nz/stories/GE1610/S00140/cost-effectiveness-of-herceptin-for-breast-cancer.htm
+title: Cost-effectiveness of Herceptin® for breast cancer
+date: 2016-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1610/S00140/cost-effectiveness-of-herceptin-for-breast-cancer.htm
 author: university-of-otago
+permalink: /archive/2016/10/26/cost-effectiveness-of-herceptin/index.html
+layout: layout.njk
 ---
 Cost-effectiveness of Herceptin® for breast cancer
 ==================================================

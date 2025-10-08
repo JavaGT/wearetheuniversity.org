@@ -1,9 +1,13 @@
 ---
 slug: uc-media-training-wins-international-innovation-award
-title: "UC media training wins international innovation award"
-date: 2015-09-07
-source-url: https://www.scoop.co.nz/stories/ED1509/S00041/uc-media-training-wins-international-innovation-award.htm
+title: UC media training wins international innovation award
+date: 2015-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00041/uc-media-training-wins-international-innovation-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/09/07/uc-media-training-wins-international-innovation-award/index.html
+layout: layout.njk
 ---
 UC media training wins international innovation award
 =====================================================

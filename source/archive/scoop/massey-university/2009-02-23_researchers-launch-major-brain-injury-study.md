@@ -1,9 +1,12 @@
 ---
 slug: researchers-launch-major-brain-injury-study
-title: "Researchers launch major brain injury study"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/GE0902/S00085/researchers-launch-major-brain-injury-study.htm
+title: Researchers launch major brain injury study
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00085/researchers-launch-major-brain-injury-study.htm
 author: massey-university
+permalink: /archive/2009/02/23/researchers-launch-major-brain-injury-study/index.html
+layout: layout.njk
 ---
 Researchers launch major brain injury study
 ===========================================

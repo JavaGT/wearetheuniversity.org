@@ -1,9 +1,13 @@
 ---
 slug: greens-call-for-fresh-fruit-in-all-primary-schools
-title: "Greens call for fresh fruit in all primary schools"
-date: 2007-02-08
-source-url: https://www.scoop.co.nz/stories/PA0702/S00098/greens-call-for-fresh-fruit-in-all-primary-schools.htm
+title: Greens call for fresh fruit in all primary schools
+date: 2007-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00098/greens-call-for-fresh-fruit-in-all-primary-schools.htm
 author: green-party
+permalink: >-
+  /archive/2007/02/08/greens-call-for-fresh-fruit-in-all-primary-schools/index.html
+layout: layout.njk
 ---
 Greens call for fresh fruit in all primary schools
 ==================================================

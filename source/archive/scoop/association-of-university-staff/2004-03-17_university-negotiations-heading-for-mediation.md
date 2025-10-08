@@ -1,9 +1,12 @@
 ---
 slug: university-negotiations-heading-for-mediation
-title: "University negotiations heading for mediation"
-date: 2004-03-17
-source-url: https://www.scoop.co.nz/stories/ED0403/S00067/university-negotiations-heading-for-mediation.htm
+title: University negotiations heading for mediation
+date: 2004-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00067/university-negotiations-heading-for-mediation.htm
 author: association-of-university-staff
+permalink: /archive/2004/03/17/university-negotiations-heading-for-mediation/index.html
+layout: layout.njk
 ---
 University negotiations heading for mediation
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: dazzling-digital-artistry-on-display-at-otago
-title: "Dazzling Digital Artistry on Display at Otago"
-date: 2005-11-25
-source-url: https://www.scoop.co.nz/stories/ED0511/S00086/dazzling-digital-artistry-on-display-at-otago.htm
+title: Dazzling Digital Artistry on Display at Otago
+date: 2005-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00086/dazzling-digital-artistry-on-display-at-otago.htm
 author: university-of-otago
+permalink: /archive/2005/11/25/dazzling-digital-artistry-on-display-at-otago/index.html
+layout: layout.njk
 ---
 Dazzling Digital Artistry on Display at Otago
 =============================================

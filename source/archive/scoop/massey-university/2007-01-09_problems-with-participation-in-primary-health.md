@@ -1,9 +1,12 @@
 ---
 slug: problems-with-participation-in-primary-health
-title: "Problems With Participation In Primary Health"
-date: 2007-01-09
-source-url: https://www.scoop.co.nz/stories/GE0701/S00014/problems-with-participation-in-primary-health.htm
+title: Problems With Participation In Primary Health
+date: 2007-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0701/S00014/problems-with-participation-in-primary-health.htm
 author: massey-university
+permalink: /archive/2007/01/09/problems-with-participation-in-primary-health/index.html
+layout: layout.njk
 ---
 Problems With Participation In Primary Health
 =============================================

@@ -1,8 +1,12 @@
 ---
 slug: taking-probiotics-may-reduce-postnatal-depression
-title: "Taking probiotics may reduce postnatal depression"
-date: 2017-10-18
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/taking-probiotics-may-reduce-postnatal-depression.html
+title: Taking probiotics may reduce postnatal depression
+date: 2017-10-18T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/10/taking-probiotics-may-reduce-postnatal-depression.html
+permalink: >-
+  /archive/2017/10/18/taking-probiotics-may-reduce-postnatal-depression/index.html
+layout: layout.njk
 ---
 Taking probiotics may reduce postnatal depression
 =================================================

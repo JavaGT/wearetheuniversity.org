@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-believes-sex-offenders-can-be-rehabilitated
-title: "UC expert believes sex offenders can be rehabilitated"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/AK1308/S00435/uc-expert-believes-sex-offenders-can-be-rehabilitated.htm
+title: UC expert believes sex offenders can be rehabilitated
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00435/uc-expert-believes-sex-offenders-can-be-rehabilitated.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/15/uc-expert-believes-sex-offenders-can-be-rehabilitated/index.html
+layout: layout.njk
 ---
 UC expert believes sex offenders can be rehabilitated
 =====================================================

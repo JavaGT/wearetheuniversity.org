@@ -1,9 +1,12 @@
 ---
 slug: massey-expands-worldwide-education
-title: "Massey expands worldwide education"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/ED1402/S00094/massey-expands-worldwide-education.htm
+title: Massey expands worldwide education
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00094/massey-expands-worldwide-education.htm
 author: massey-university
+permalink: /archive/2014/02/24/massey-expands-worldwide-education/index.html
+layout: layout.njk
 ---
 Massey expands worldwide education
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: computer-science-graduates-celebrate-a-first
-title: "Computer Science graduates celebrate a first"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/ED1204/S00059/computer-science-graduates-celebrate-a-first.htm
+title: Computer Science graduates celebrate a first
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00059/computer-science-graduates-celebrate-a-first.htm
 author: university-of-waikato
+permalink: /archive/2012/04/16/computer-science-graduates-celebrate-a-first/index.html
+layout: layout.njk
 ---
 Computer Science graduates celebrate a first
 ============================================

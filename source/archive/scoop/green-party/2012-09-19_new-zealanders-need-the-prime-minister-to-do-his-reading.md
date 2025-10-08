@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-need-the-prime-minister-to-do-his-reading
-title: "New Zealanders need the Prime Minister to do his reading"
-date: 2012-09-19
-source-url: https://www.scoop.co.nz/stories/PA1209/S00304/new-zealanders-need-the-prime-minister-to-do-his-reading.htm
+title: New Zealanders need the Prime Minister to do his reading
+date: 2012-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00304/new-zealanders-need-the-prime-minister-to-do-his-reading.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/19/new-zealanders-need-the-prime-minister-to-do-his-reading/index.html
+layout: layout.njk
 ---
 New Zealanders need the Prime Minister to do his reading
 ========================================================

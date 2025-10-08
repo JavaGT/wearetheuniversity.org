@@ -1,9 +1,13 @@
 ---
 slug: emergency-measures-needed-to-accelerate-housing-supply
-title: "Emergency Measures Needed To Accelerate Housing Supply"
-date: 2020-12-08
-source-url: https://www.scoop.co.nz/stories/PA2012/S00052/emergency-measures-needed-to-accelerate-housing-supply.htm
+title: Emergency Measures Needed To Accelerate Housing Supply
+date: 2020-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00052/emergency-measures-needed-to-accelerate-housing-supply.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/12/08/emergency-measures-needed-to-accelerate-housing-supply/index.html
+layout: layout.njk
 ---
 Emergency Measures Needed To Accelerate Housing Supply
 ======================================================

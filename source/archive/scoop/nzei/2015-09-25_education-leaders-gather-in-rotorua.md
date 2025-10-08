@@ -1,9 +1,12 @@
 ---
 slug: education-leaders-gather-in-rotorua
-title: "Education leaders gather in Rotorua"
-date: 2015-09-25
-source-url: https://www.scoop.co.nz/stories/ED1509/S00150/education-leaders-gather-in-rotorua.htm
+title: Education leaders gather in Rotorua
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00150/education-leaders-gather-in-rotorua.htm
 author: nzei
+permalink: /archive/2015/09/25/education-leaders-gather-in-rotorua/index.html
+layout: layout.njk
 ---
 Education leaders gather in Rotorua
 ===================================

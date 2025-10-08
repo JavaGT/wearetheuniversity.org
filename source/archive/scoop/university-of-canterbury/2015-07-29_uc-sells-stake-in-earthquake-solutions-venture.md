@@ -1,9 +1,12 @@
 ---
 slug: uc-sells-stake-in-earthquake-solutions-venture
-title: "UC sells stake in earthquake solutions venture"
-date: 2015-07-29
-source-url: https://www.scoop.co.nz/stories/SC1507/S00076/uc-sells-stake-in-earthquake-solutions-venture.htm
+title: UC sells stake in earthquake solutions venture
+date: 2015-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1507/S00076/uc-sells-stake-in-earthquake-solutions-venture.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/29/uc-sells-stake-in-earthquake-solutions-venture/index.html
+layout: layout.njk
 ---
 UC sells stake in earthquake solutions venture
 ==============================================

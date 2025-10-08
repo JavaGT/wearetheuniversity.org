@@ -1,9 +1,13 @@
 ---
 slug: turkish-pm-introduced-to-nz-argicultural-expertise
-title: "Turkish PM introduced to NZ argicultural expertise"
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/ED0512/S00022/turkish-pm-introduced-to-nz-argicultural-expertise.htm
+title: Turkish PM introduced to NZ argicultural expertise
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00022/turkish-pm-introduced-to-nz-argicultural-expertise.htm
 author: lincoln-university
+permalink: >-
+  /archive/2005/12/05/turkish-pm-introduced-to-nz-argicultural-expertise/index.html
+layout: layout.njk
 ---
 Turkish PM introduced to NZ argicultural expertise
 ==================================================

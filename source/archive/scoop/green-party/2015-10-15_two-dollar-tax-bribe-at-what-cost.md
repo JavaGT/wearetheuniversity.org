@@ -1,9 +1,12 @@
 ---
 slug: two-dollar-tax-bribe-at-what-cost
-title: "Two dollar tax bribe at what cost?"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00243/two-dollar-tax-bribe-at-what-cost.htm
+title: Two dollar tax bribe at what cost?
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00243/two-dollar-tax-bribe-at-what-cost.htm
 author: green-party
+permalink: /archive/2015/10/15/two-dollar-tax-bribe-at-what-cost/index.html
+layout: layout.njk
 ---
 Two dollar tax bribe at what cost?
 ==================================

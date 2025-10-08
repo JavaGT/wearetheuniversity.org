@@ -1,9 +1,13 @@
 ---
 slug: victoria-students-lead-youth-engagement-publication
-title: "Victoria students lead youth engagement publication"
-date: 2014-09-03
-source-url: https://www.scoop.co.nz/stories/PO1409/S00063/victoria-students-lead-youth-engagement-publication.htm
+title: Victoria students lead youth engagement publication
+date: 2014-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00063/victoria-students-lead-youth-engagement-publication.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/03/victoria-students-lead-youth-engagement-publication/index.html
+layout: layout.njk
 ---
 Victoria students lead youth engagement publication
 ===================================================

@@ -1,9 +1,17 @@
 ---
 title: Resources For Senate Members
 slug: resources-for-senate-members
-date: 2024-08-24
+date: 2024-08-24T00:00:00.000Z
 author: anonymous
 author-slug: anonymous
+layout: layout.njk
+permalink: /blog/2024/08/24/resources-for-senate-members/index.html
+excerpt: >-
+  <button onclick="window.print" style="display: block; margin: 0 auto;"PRINT
+  THIS PAGE</button Summary Students need you to physically attend the special
+  Senate meeting on Tuesday the 27th of August Management's newly added
+  requirements, inperson only, no proxy votes, set up to stop Senate from
+  speaking out against course cuts Please tell fellow Senate...
 ---
 <button onclick="window.print()" style="display: block; margin: 0 auto;">PRINT THIS PAGE</button>
 

@@ -1,9 +1,12 @@
 ---
 slug: whakaraupo-carving-centre-opening
-title: "Whakaraupo Carving Centre Opening"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/PA1007/S00097/whakaraupo-carving-centre-opening.htm
+title: Whakaraupo Carving Centre Opening
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00097/whakaraupo-carving-centre-opening.htm
 author: te-pati-maori
+permalink: /archive/2010/07/05/whakaraupo-carving-centre-opening/index.html
+layout: layout.njk
 ---
 Whakaraupo Carving Centre Opening
 =================================

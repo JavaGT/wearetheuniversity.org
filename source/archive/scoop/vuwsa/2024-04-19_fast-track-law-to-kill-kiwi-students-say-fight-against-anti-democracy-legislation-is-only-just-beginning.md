@@ -1,9 +1,16 @@
 ---
-slug: fast-track-law-to-kill-kiwi-students-say-fight-against-anti-democracy-legislation-is-only-just-beginning
-title: "\"Fast-track Law To Kill Kiwi\": Students Say Fight Against Anti-democracy Legislation Is Only Just Beginning"
-date: 2024-04-19
-source-url: https://www.scoop.co.nz/stories/PO2404/S00125/fast-track-law-to-kill-kiwi-students-say-fight-against-anti-democracy-legislation-is-only-just-beginning.htm
+slug: >-
+  fast-track-law-to-kill-kiwi-students-say-fight-against-anti-democracy-legislation-is-only-just-beginning
+title: >-
+  "Fast-track Law To Kill Kiwi": Students Say Fight Against Anti-democracy
+  Legislation Is Only Just Beginning
+date: 2024-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2404/S00125/fast-track-law-to-kill-kiwi-students-say-fight-against-anti-democracy-legislation-is-only-just-beginning.htm
 author: vuwsa
+permalink: >-
+  /archive/2024/04/19/fast-track-law-to-kill-kiwi-students-say-fight-against-anti-democracy-legislation-is-only-just-beginning/index.html
+layout: layout.njk
 ---
 “Fast-track Law To Kill Kiwi”: Students Say Fight Against Anti-democracy Legislation Is Only Just Beginning
 ===========================================================================================================

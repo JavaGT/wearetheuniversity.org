@@ -1,9 +1,11 @@
 ---
 slug: sucky-spelln-rools-ok
-title: "Sucky spelln rools, ok?"
-date: 2007-11-21
+title: Sucky spelln rools, ok?
+date: 2007-11-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0711/S00385/sucky-spelln-rools-ok.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/21/sucky-spelln-rools-ok/index.html
+layout: layout.njk
 ---
 Sucky spelln rools, ok?
 =======================

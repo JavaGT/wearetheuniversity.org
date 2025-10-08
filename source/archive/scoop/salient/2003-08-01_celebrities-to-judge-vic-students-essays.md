@@ -1,9 +1,12 @@
 ---
 slug: celebrities-to-judge-vic-students-essays
-title: "Celebrities to judge Vic students’ essays"
-date: 2003-08-01
-source-url: https://www.scoop.co.nz/stories/ED0308/S00006/celebrities-to-judge-vic-students-essays.htm
+title: Celebrities to judge Vic students’ essays
+date: 2003-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00006/celebrities-to-judge-vic-students-essays.htm
 author: salient
+permalink: /archive/2003/08/01/celebrities-to-judge-vic-students-essays/index.html
+layout: layout.njk
 ---
 Celebrities to judge Vic students’ essays
 =========================================

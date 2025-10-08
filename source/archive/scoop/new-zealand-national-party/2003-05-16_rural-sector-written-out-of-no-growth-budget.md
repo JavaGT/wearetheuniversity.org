@@ -1,9 +1,12 @@
 ---
 slug: rural-sector-written-out-of-no-growth-budget
-title: "Rural sector written out of 'no growth' Budget"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/PA0305/S00448/rural-sector-written-out-of-no-growth-budget.htm
+title: Rural sector written out of 'no growth' Budget
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00448/rural-sector-written-out-of-no-growth-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/16/rural-sector-written-out-of-no-growth-budget/index.html
+layout: layout.njk
 ---
 Rural sector written out of 'no growth' Budget
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: government-dithers-while-shareholders-hurt
-title: "Government dithers while shareholders hurt"
-date: 2001-09-25
-source-url: https://www.scoop.co.nz/stories/PA0109/S00402/government-dithers-while-shareholders-hurt.htm
+title: Government dithers while shareholders hurt
+date: 2001-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00402/government-dithers-while-shareholders-hurt.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/25/government-dithers-while-shareholders-hurt/index.html
+layout: layout.njk
 ---
 Government dithers while shareholders hurt
 ==========================================

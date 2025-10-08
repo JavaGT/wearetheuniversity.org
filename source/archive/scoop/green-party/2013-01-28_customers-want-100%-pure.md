@@ -1,9 +1,11 @@
 ---
 slug: customers-want-100%-pure
-title: "Customers want 100% pure"
-date: 2013-01-28
+title: Customers want 100% pure
+date: 2013-01-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1301/S00124/customers-want-100-pure.htm
 author: green-party
+permalink: /archive/2013/01/28/customers-want-100/index.html
+layout: layout.njk
 ---
 Customers want 100% pure
 ========================

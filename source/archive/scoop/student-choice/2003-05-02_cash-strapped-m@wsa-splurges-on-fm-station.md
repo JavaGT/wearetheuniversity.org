@@ -1,9 +1,12 @@
 ---
 slug: cash-strapped-m@wsa-splurges-on-fm-station
-title: "'Cash-Strapped' M@Wsa Splurges On Fm Station"
-date: 2003-05-02
-source-url: https://www.scoop.co.nz/stories/ED0305/S00008/cash-strapped-mwsa-splurges-on-fm-station.htm
+title: '''Cash-Strapped'' M@Wsa Splurges On Fm Station'
+date: 2003-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00008/cash-strapped-mwsa-splurges-on-fm-station.htm
 author: student-choice
+permalink: /archive/2003/05/02/cash-strapped-m/index.html
+layout: layout.njk
 ---
 'Cash-Strapped' M@Wsa Splurges On Fm Station
 ============================================

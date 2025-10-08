@@ -1,9 +1,12 @@
 ---
 slug: sowing-the-seeds-of-pasifika-business
-title: "Sowing the seeds of Pasifika business"
-date: 2005-09-22
-source-url: https://www.scoop.co.nz/stories/ED0509/S00070/sowing-the-seeds-of-pasifika-business.htm
+title: Sowing the seeds of Pasifika business
+date: 2005-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00070/sowing-the-seeds-of-pasifika-business.htm
 author: aut-university
+permalink: /archive/2005/09/22/sowing-the-seeds-of-pasifika-business/index.html
+layout: layout.njk
 ---
 Sowing the seeds of Pasifika business
 =====================================

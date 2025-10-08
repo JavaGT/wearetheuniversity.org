@@ -1,9 +1,11 @@
 ---
 slug: aut-open-day
-title: "AUT Open Day"
-date: 2005-04-06
+title: AUT Open Day
+date: 2005-04-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0504/S00011/aut-open-day.htm
 author: aut-university
+permalink: /archive/2005/04/06/aut-open-day/index.html
+layout: layout.njk
 ---
 AUT Open Day
 ============

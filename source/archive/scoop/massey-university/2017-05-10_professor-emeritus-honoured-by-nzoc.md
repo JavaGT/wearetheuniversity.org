@@ -1,9 +1,12 @@
 ---
 slug: professor-emeritus-honoured-by-nzoc
-title: "Professor Emeritus honoured by NZOC"
-date: 2017-05-10
-source-url: https://www.scoop.co.nz/stories/ED1705/S00049/professor-emeritus-honoured-by-nzoc.htm
+title: Professor Emeritus honoured by NZOC
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00049/professor-emeritus-honoured-by-nzoc.htm
 author: massey-university
+permalink: /archive/2017/05/10/professor-emeritus-honoured-by-nzoc/index.html
+layout: layout.njk
 ---
 Professor Emeritus honoured by NZOC
 ===================================

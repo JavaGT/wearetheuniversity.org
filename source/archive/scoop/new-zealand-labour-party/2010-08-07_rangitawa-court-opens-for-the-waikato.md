@@ -1,9 +1,12 @@
 ---
 slug: rangitawa-court-opens-for-the-waikato
-title: "Rangitawa Court opens for the Waikato"
-date: 2010-08-07
-source-url: https://www.scoop.co.nz/stories/PA1008/S00139/rangitawa-court-opens-for-the-waikato.htm
+title: Rangitawa Court opens for the Waikato
+date: 2010-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00139/rangitawa-court-opens-for-the-waikato.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/07/rangitawa-court-opens-for-the-waikato/index.html
+layout: layout.njk
 ---
 Rangitawa Court opens for the Waikato
 =====================================

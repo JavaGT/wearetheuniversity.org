@@ -1,9 +1,12 @@
 ---
 slug: mp-katrina-shanks-welcomes-$20000-to-support-challenge-2000
-title: "MP Katrina Shanks welcomes $20,000 to support Challenge 2000"
-date: 2010-11-23
-source-url: https://www.scoop.co.nz/stories/PA1011/S00461/mp-katrina-shanks-welcomes-20000-to-support-challenge-2000.htm
+title: MP Katrina Shanks welcomes $20,000 to support Challenge 2000
+date: 2010-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00461/mp-katrina-shanks-welcomes-20000-to-support-challenge-2000.htm
 author: new-zealand-national-party
+permalink: /archive/2010/11/23/mp-katrina-shanks-welcomes-/index.html
+layout: layout.njk
 ---
 MP Katrina Shanks welcomes $20,000 to support Challenge 2000
 ============================================================

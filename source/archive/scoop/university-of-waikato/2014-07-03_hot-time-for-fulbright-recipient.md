@@ -1,9 +1,12 @@
 ---
 slug: hot-time-for-fulbright-recipient
-title: "Hot time for Fulbright recipient"
-date: 2014-07-03
-source-url: https://www.scoop.co.nz/stories/ED1407/S00027/hot-time-for-fulbright-recipient.htm
+title: Hot time for Fulbright recipient
+date: 2014-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00027/hot-time-for-fulbright-recipient.htm
 author: university-of-waikato
+permalink: /archive/2014/07/03/hot-time-for-fulbright-recipient/index.html
+layout: layout.njk
 ---
 Hot time for Fulbright recipient
 ================================

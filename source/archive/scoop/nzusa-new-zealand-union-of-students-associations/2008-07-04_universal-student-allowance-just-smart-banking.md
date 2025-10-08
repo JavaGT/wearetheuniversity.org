@@ -1,9 +1,12 @@
 ---
 slug: universal-student-allowance-just-smart-banking
-title: "Universal student allowance – just smart banking"
-date: 2008-07-04
-source-url: https://www.scoop.co.nz/stories/ED0807/S00018/universal-student-allowance-just-smart-banking.htm
+title: Universal student allowance – just smart banking
+date: 2008-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00018/universal-student-allowance-just-smart-banking.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/07/04/universal-student-allowance-just-smart-banking/index.html
+layout: layout.njk
 ---
 Universal student allowance – just smart banking
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: leaky-home-loan-scheme-cruel-hoax
-title: "Leaky home loan scheme cruel hoax"
-date: 2008-02-21
-source-url: https://www.scoop.co.nz/stories/PA0802/S00350/leaky-home-loan-scheme-cruel-hoax.htm
+title: Leaky home loan scheme cruel hoax
+date: 2008-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00350/leaky-home-loan-scheme-cruel-hoax.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/21/leaky-home-loan-scheme-cruel-hoax/index.html
+layout: layout.njk
 ---
 Leaky home loan scheme cruel hoax
 =================================

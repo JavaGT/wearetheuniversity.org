@@ -1,9 +1,12 @@
 ---
 slug: health-ministry-must-not-dither-on-guidelines
-title: "Health Ministry Must Not Dither On Guidelines"
-date: 2003-12-09
-source-url: https://www.scoop.co.nz/stories/PA0312/S00182/health-ministry-must-not-dither-on-guidelines.htm
+title: Health Ministry Must Not Dither On Guidelines
+date: 2003-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00182/health-ministry-must-not-dither-on-guidelines.htm
 author: act-new-zealand
+permalink: /archive/2003/12/09/health-ministry-must-not-dither-on-guidelines/index.html
+layout: layout.njk
 ---
 Health Ministry Must Not Dither On Guidelines
 =============================================

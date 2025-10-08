@@ -1,9 +1,12 @@
 ---
 slug: rma-reforms-will-get-business-moving-again
-title: "RMA reforms will get business moving again"
-date: 2008-09-30
-source-url: https://www.scoop.co.nz/stories/PA0809/S00665/rma-reforms-will-get-business-moving-again.htm
+title: RMA reforms will get business moving again
+date: 2008-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00665/rma-reforms-will-get-business-moving-again.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/30/rma-reforms-will-get-business-moving-again/index.html
+layout: layout.njk
 ---
 RMA reforms will get business moving again
 ==========================================

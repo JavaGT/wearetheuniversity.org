@@ -1,9 +1,13 @@
 ---
 slug: full-range-of-massey-expertise-at-national-fielday
-title: "Full range of Massey expertise at National Fielday"
-date: 2010-06-14
-source-url: https://www.scoop.co.nz/stories/ED1006/S00050/full-range-of-massey-expertise-at-national-fielday.htm
+title: Full range of Massey expertise at National Fielday
+date: 2010-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00050/full-range-of-massey-expertise-at-national-fielday.htm
 author: massey-university
+permalink: >-
+  /archive/2010/06/14/full-range-of-massey-expertise-at-national-fielday/index.html
+layout: layout.njk
 ---
 Full range of Massey expertise at National Fielday
 ==================================================

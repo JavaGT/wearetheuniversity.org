@@ -1,9 +1,13 @@
 ---
 slug: announcement-on-learning-support-a-big-win-for-teachers
-title: "Announcement on learning support a big win for teachers"
-date: 2018-11-04
-source-url: https://www.scoop.co.nz/stories/PO1811/S00040/announcement-on-learning-support-a-big-win-for-teachers.htm
+title: Announcement on learning support a big win for teachers
+date: 2018-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00040/announcement-on-learning-support-a-big-win-for-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2018/11/04/announcement-on-learning-support-a-big-win-for-teachers/index.html
+layout: layout.njk
 ---
 Announcement on learning support a big win for teachers
 =======================================================

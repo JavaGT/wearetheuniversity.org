@@ -1,9 +1,13 @@
 ---
 slug: law-students-contribute-to-international-research-project
-title: "Law students contribute to international research project"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/PO1504/S00183/law-students-contribute-to-international-research-project.htm
+title: Law students contribute to international research project
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00183/law-students-contribute-to-international-research-project.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/04/21/law-students-contribute-to-international-research-project/index.html
+layout: layout.njk
 ---
 Law students contribute to international research project
 =========================================================

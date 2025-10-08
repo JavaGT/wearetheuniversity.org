@@ -1,9 +1,12 @@
 ---
 slug: leading-historian-accepts-waikato-professorship
-title: "Leading historian accepts Waikato professorship"
-date: 2007-03-01
-source-url: https://www.scoop.co.nz/stories/ED0703/S00007/leading-historian-accepts-waikato-professorship.htm
+title: Leading historian accepts Waikato professorship
+date: 2007-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00007/leading-historian-accepts-waikato-professorship.htm
 author: university-of-waikato
+permalink: /archive/2007/03/01/leading-historian-accepts-waikato-professorship/index.html
+layout: layout.njk
 ---
 Leading historian accepts Waikato professorship
 ===============================================

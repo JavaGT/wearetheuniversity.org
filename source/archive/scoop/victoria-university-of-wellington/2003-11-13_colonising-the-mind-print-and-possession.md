@@ -1,9 +1,12 @@
 ---
 slug: colonising-the-mind-print-and-possession
-title: "Colonising the mind – print and possession"
-date: 2003-11-13
-source-url: https://www.scoop.co.nz/stories/ED0311/S00048/colonising-the-mind-print-and-possession.htm
+title: Colonising the mind – print and possession
+date: 2003-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00048/colonising-the-mind-print-and-possession.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/13/colonising-the-mind-print-and-possession/index.html
+layout: layout.njk
 ---
 Colonising the mind – print and possession
 ==========================================

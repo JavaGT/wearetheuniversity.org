@@ -1,9 +1,12 @@
 ---
 slug: blitz-study-a-youth-vision-for-porirua-city
-title: "BLITZ study: A youth vision for Porirua City"
-date: 2016-09-19
-source-url: https://www.scoop.co.nz/stories/AK1609/S00604/blitz-study-a-youth-vision-for-porirua-city.htm
+title: 'BLITZ study: A youth vision for Porirua City'
+date: 2016-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00604/blitz-study-a-youth-vision-for-porirua-city.htm
 author: university-of-otago
+permalink: /archive/2016/09/19/blitz-study-a-youth-vision-for-porirua-city/index.html
+layout: layout.njk
 ---
 BLITZ study: A youth vision for Porirua City
 ============================================

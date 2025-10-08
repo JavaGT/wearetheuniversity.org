@@ -1,9 +1,12 @@
 ---
 slug: genter-disingenuous-on-vaccination-numbers
-title: "Genter disingenuous on vaccination numbers"
-date: 2019-10-23
-source-url: https://www.scoop.co.nz/stories/PA1910/S00185/genter-disingenuous-on-vaccination-numbers.htm
+title: Genter disingenuous on vaccination numbers
+date: 2019-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00185/genter-disingenuous-on-vaccination-numbers.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/23/genter-disingenuous-on-vaccination-numbers/index.html
+layout: layout.njk
 ---
 Genter disingenuous on vaccination numbers
 ==========================================

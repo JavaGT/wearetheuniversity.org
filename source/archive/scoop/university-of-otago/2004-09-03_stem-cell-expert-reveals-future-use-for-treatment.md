@@ -1,9 +1,13 @@
 ---
 slug: stem-cell-expert-reveals-future-use-for-treatment
-title: "Stem Cell Expert Reveals Future Use For Treatment"
-date: 2004-09-03
-source-url: https://www.scoop.co.nz/stories/ED0409/S00013/stem-cell-expert-reveals-future-use-for-treatment.htm
+title: Stem Cell Expert Reveals Future Use For Treatment
+date: 2004-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00013/stem-cell-expert-reveals-future-use-for-treatment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/09/03/stem-cell-expert-reveals-future-use-for-treatment/index.html
+layout: layout.njk
 ---
 Stem Cell Expert Reveals Future Use For Treatment
 =================================================

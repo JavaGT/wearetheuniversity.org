@@ -1,9 +1,12 @@
 ---
 slug: student-creation-lights-the-way
-title: "Student creation lights the way"
-date: 2011-12-01
-source-url: https://www.scoop.co.nz/stories/PA1112/S00001/student-creation-lights-the-way.htm
+title: Student creation lights the way
+date: 2011-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00001/student-creation-lights-the-way.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/01/student-creation-lights-the-way/index.html
+layout: layout.njk
 ---
 Student creation lights the way
 ===============================

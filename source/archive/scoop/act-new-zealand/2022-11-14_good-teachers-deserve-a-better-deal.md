@@ -1,9 +1,12 @@
 ---
 slug: good-teachers-deserve-a-better-deal
-title: "Good Teachers Deserve A Better Deal"
-date: 2022-11-14
-source-url: https://www.scoop.co.nz/stories/PA2211/S00117/good-teachers-deserve-a-better-deal.htm
+title: Good Teachers Deserve A Better Deal
+date: 2022-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00117/good-teachers-deserve-a-better-deal.htm
 author: act-new-zealand
+permalink: /archive/2022/11/14/good-teachers-deserve-a-better-deal/index.html
+layout: layout.njk
 ---
 Good Teachers Deserve A Better Deal
 ===================================

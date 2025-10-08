@@ -1,9 +1,13 @@
 ---
 slug: unacceptable-threats-made-to-schools-over-national-standards
-title: "Unacceptable threats made to schools over National Standards"
-date: 2011-09-16
-source-url: https://www.scoop.co.nz/stories/PO1109/S00243/unacceptable-threats-made-to-schools-over-national-standards.htm
+title: Unacceptable threats made to schools over National Standards
+date: 2011-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00243/unacceptable-threats-made-to-schools-over-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/16/unacceptable-threats-made-to-schools-over-national-standards/index.html
+layout: layout.njk
 ---
 Unacceptable threats made to schools over National Standards
 ============================================================

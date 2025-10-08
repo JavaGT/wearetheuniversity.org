@@ -1,9 +1,12 @@
 ---
 slug: pansy-speak-spin-spreads-to-internatl-education
-title: "Pansy Speak: spin spreads to internat'l education"
-date: 2006-09-29
-source-url: https://www.scoop.co.nz/stories/PA0609/S00628/pansy-speak-spin-spreads-to-internatl-education.htm
+title: 'Pansy Speak: spin spreads to internat''l education'
+date: 2006-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00628/pansy-speak-spin-spreads-to-internatl-education.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/29/pansy-speak-spin-spreads-to-internatl-education/index.html
+layout: layout.njk
 ---
 Pansy Speak: spin spreads to internat'l education
 =================================================

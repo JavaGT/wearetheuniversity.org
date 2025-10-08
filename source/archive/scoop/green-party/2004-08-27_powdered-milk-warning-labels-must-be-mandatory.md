@@ -1,9 +1,12 @@
 ---
 slug: powdered-milk-warning-labels-must-be-mandatory
-title: "Powdered milk warning labels must be mandatory"
-date: 2004-08-27
-source-url: https://www.scoop.co.nz/stories/PA0408/S00494/powdered-milk-warning-labels-must-be-mandatory.htm
+title: Powdered milk warning labels must be mandatory
+date: 2004-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00494/powdered-milk-warning-labels-must-be-mandatory.htm
 author: green-party
+permalink: /archive/2004/08/27/powdered-milk-warning-labels-must-be-mandatory/index.html
+layout: layout.njk
 ---
 Powdered milk warning labels must be mandatory
 ==============================================

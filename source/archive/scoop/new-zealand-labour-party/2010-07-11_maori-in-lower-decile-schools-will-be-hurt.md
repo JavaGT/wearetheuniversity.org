@@ -1,9 +1,12 @@
 ---
 slug: maori-in-lower-decile-schools-will-be-hurt
-title: "Maori In Lower Decile Schools Will Be Hurt"
-date: 2010-07-11
-source-url: https://www.scoop.co.nz/stories/PA1007/S00180/maori-in-lower-decile-schools-will-be-hurt.htm
+title: Maori In Lower Decile Schools Will Be Hurt
+date: 2010-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00180/maori-in-lower-decile-schools-will-be-hurt.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/11/maori-in-lower-decile-schools-will-be-hurt/index.html
+layout: layout.njk
 ---
 Maori In Lower Decile Schools Will Be Hurt
 ==========================================

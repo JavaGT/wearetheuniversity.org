@@ -1,9 +1,11 @@
 ---
 slug: plain-english-june-30-2006
-title: "Plain English - June 30 2006"
-date: 2006-06-30
+title: Plain English - June 30 2006
+date: 2006-06-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00621/plain-english-june-30-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/30/plain-english-june-30-2006/index.html
+layout: layout.njk
 ---
 Plain English - June 30 2006
 ============================

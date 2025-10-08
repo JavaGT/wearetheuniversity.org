@@ -1,9 +1,12 @@
 ---
 slug: aut-on-track-to-a-more-sustainable-future
-title: "Aut On Track To A More Sustainable Future"
-date: 2022-08-04
-source-url: https://www.scoop.co.nz/stories/ED2208/S00003/aut-on-track-to-a-more-sustainable-future.htm
+title: Aut On Track To A More Sustainable Future
+date: 2022-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2208/S00003/aut-on-track-to-a-more-sustainable-future.htm
 author: aut-university
+permalink: /archive/2022/08/04/aut-on-track-to-a-more-sustainable-future/index.html
+layout: layout.njk
 ---
 Aut On Track To A More Sustainable Future
 =========================================

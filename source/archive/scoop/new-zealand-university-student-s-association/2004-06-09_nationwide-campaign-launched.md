@@ -1,9 +1,11 @@
 ---
 slug: nationwide-campaign-launched
-title: "Nationwide campaign launched"
-date: 2004-06-09
+title: Nationwide campaign launched
+date: 2004-06-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0406/S00041/nationwide-campaign-launched.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/06/09/nationwide-campaign-launched/index.html
+layout: layout.njk
 ---
 Nationwide campaign launched
 ============================

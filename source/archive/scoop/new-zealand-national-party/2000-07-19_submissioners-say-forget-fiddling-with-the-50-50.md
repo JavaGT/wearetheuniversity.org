@@ -1,9 +1,13 @@
 ---
 slug: submissioners-say-forget-fiddling-with-the-50-50
-title: "Submissioners say forget fiddling with the 50/50"
-date: 2000-07-19
-source-url: https://www.scoop.co.nz/stories/PA0007/S00278/submissioners-say-forget-fiddling-with-the-5050.htm
+title: Submissioners say forget fiddling with the 50/50
+date: 2000-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00278/submissioners-say-forget-fiddling-with-the-5050.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/07/19/submissioners-say-forget-fiddling-with-the-50-50/index.html
+layout: layout.njk
 ---
 Submissioners say forget fiddling with the 50/50
 ================================================

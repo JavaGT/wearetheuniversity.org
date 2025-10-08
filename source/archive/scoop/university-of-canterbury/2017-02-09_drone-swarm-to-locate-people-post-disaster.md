@@ -1,9 +1,12 @@
 ---
 slug: drone-swarm-to-locate-people-post-disaster
-title: "Drone swarm to locate people post-disaster"
-date: 2017-02-09
-source-url: https://www.scoop.co.nz/stories/SC1702/S00026/drone-swarm-to-locate-people-post-disaster.htm
+title: Drone swarm to locate people post-disaster
+date: 2017-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00026/drone-swarm-to-locate-people-post-disaster.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/09/drone-swarm-to-locate-people-post-disaster/index.html
+layout: layout.njk
 ---
 Drone swarm to locate people post-disaster
 ==========================================

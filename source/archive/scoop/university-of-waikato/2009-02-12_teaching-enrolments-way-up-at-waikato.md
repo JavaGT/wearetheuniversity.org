@@ -1,9 +1,12 @@
 ---
 slug: teaching-enrolments-way-up-at-waikato
-title: "Teaching enrolments way up at Waikato"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/ED0902/S00042/teaching-enrolments-way-up-at-waikato.htm
+title: Teaching enrolments way up at Waikato
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00042/teaching-enrolments-way-up-at-waikato.htm
 author: university-of-waikato
+permalink: /archive/2009/02/12/teaching-enrolments-way-up-at-waikato/index.html
+layout: layout.njk
 ---
 Teaching enrolments way up at Waikato
 =====================================

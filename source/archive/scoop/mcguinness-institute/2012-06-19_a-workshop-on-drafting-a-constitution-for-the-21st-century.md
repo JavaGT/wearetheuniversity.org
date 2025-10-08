@@ -1,9 +1,13 @@
 ---
 slug: a-workshop-on-drafting-a-constitution-for-the-21st-century
-title: "A Workshop on Drafting a Constitution for the 21st Century"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/PO1206/S00246/a-workshop-on-drafting-a-constitution-for-the-21st-century.htm
+title: A Workshop on Drafting a Constitution for the 21st Century
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00246/a-workshop-on-drafting-a-constitution-for-the-21st-century.htm
 author: mcguinness-institute
+permalink: >-
+  /archive/2012/06/19/a-workshop-on-drafting-a-constitution-for-the-21st-century/index.html
+layout: layout.njk
 ---
 A Workshop on Drafting a Constitution for the 21st Century
 ==========================================================

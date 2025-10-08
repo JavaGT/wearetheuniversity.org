@@ -1,9 +1,12 @@
 ---
 slug: ideological-maths-teaching-a-cruel-distraction
-title: "Ideological Maths Teaching A Cruel Distraction"
-date: 2023-04-05
-source-url: https://www.scoop.co.nz/stories/PO2304/S00021/ideological-maths-teaching-a-cruel-distraction.htm
+title: Ideological Maths Teaching A Cruel Distraction
+date: 2023-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2304/S00021/ideological-maths-teaching-a-cruel-distraction.htm
 author: act-new-zealand
+permalink: /archive/2023/04/05/ideological-maths-teaching-a-cruel-distraction/index.html
+layout: layout.njk
 ---
 Ideological Maths Teaching A Cruel Distraction
 ==============================================

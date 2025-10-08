@@ -1,9 +1,12 @@
 ---
 slug: shirley-calls-for-urgent-debate-on-wananga
-title: "Shirley calls for urgent debate on wananga"
-date: 2005-03-01
-source-url: https://www.scoop.co.nz/stories/PA0503/S00002/shirley-calls-for-urgent-debate-on-wananga.htm
+title: Shirley calls for urgent debate on wananga
+date: 2005-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00002/shirley-calls-for-urgent-debate-on-wananga.htm
 author: act-new-zealand
+permalink: /archive/2005/03/01/shirley-calls-for-urgent-debate-on-wananga/index.html
+layout: layout.njk
 ---
 Shirley calls for urgent debate on wananga
 ==========================================

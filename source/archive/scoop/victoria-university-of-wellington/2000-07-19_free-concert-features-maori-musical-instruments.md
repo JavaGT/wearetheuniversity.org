@@ -1,9 +1,12 @@
 ---
 slug: free-concert-features-maori-musical-instruments
-title: "Free concert features Maori musical instruments"
-date: 2000-07-19
-source-url: https://www.scoop.co.nz/stories/CU0007/S00034/free-concert-features-maori-musical-instruments.htm
+title: Free concert features Maori musical instruments
+date: 2000-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0007/S00034/free-concert-features-maori-musical-instruments.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/19/free-concert-features-maori-musical-instruments/index.html
+layout: layout.njk
 ---
 Free concert features Maori musical instruments
 ===============================================

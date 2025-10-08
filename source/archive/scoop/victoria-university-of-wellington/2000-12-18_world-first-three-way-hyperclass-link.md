@@ -1,9 +1,12 @@
 ---
 slug: world-first-three-way-hyperclass-link
-title: "World first: three-way HyperClass link"
-date: 2000-12-18
-source-url: https://www.scoop.co.nz/stories/ED0012/S00015/world-first-three-way-hyperclass-link.htm
+title: 'World first: three-way HyperClass link'
+date: 2000-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00015/world-first-three-way-hyperclass-link.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/12/18/world-first-three-way-hyperclass-link/index.html
+layout: layout.njk
 ---
 World first: three-way HyperClass link
 ======================================

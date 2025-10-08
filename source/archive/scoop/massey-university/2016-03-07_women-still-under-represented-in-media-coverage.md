@@ -1,9 +1,12 @@
 ---
 slug: women-still-under-represented-in-media-coverage
-title: "Women still under-represented in media coverage"
-date: 2016-03-07
-source-url: https://www.scoop.co.nz/stories/PO1603/S00099/women-still-under-represented-in-media-coverage.htm
+title: Women still under-represented in media coverage
+date: 2016-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00099/women-still-under-represented-in-media-coverage.htm
 author: massey-university
+permalink: /archive/2016/03/07/women-still-under-represented-in-media-coverage/index.html
+layout: layout.njk
 ---
 Women still under-represented in media coverage
 ===============================================

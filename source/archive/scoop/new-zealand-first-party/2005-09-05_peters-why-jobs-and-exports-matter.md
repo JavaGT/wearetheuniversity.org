@@ -1,9 +1,12 @@
 ---
 slug: peters-why-jobs-and-exports-matter
-title: "Peters: Why Jobs And Exports Matter"
-date: 2005-09-05
-source-url: https://www.scoop.co.nz/stories/PA0509/S00096/peters-why-jobs-and-exports-matter.htm
+title: 'Peters: Why Jobs And Exports Matter'
+date: 2005-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00096/peters-why-jobs-and-exports-matter.htm
 author: new-zealand-first-party
+permalink: /archive/2005/09/05/peters-why-jobs-and-exports-matter/index.html
+layout: layout.njk
 ---
 Peters: Why Jobs And Exports Matter
 ===================================

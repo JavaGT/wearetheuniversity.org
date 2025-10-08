@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-exec-member-guilty-of-misconduct
-title: "VUWSA Exec Member Guilty of Misconduct"
-date: 2010-06-01
-source-url: https://www.scoop.co.nz/stories/ED1006/S00002/vuwsa-exec-member-guilty-of-misconduct.htm
+title: VUWSA Exec Member Guilty of Misconduct
+date: 2010-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00002/vuwsa-exec-member-guilty-of-misconduct.htm
 author: salient
+permalink: /archive/2010/06/01/vuwsa-exec-member-guilty-of-misconduct/index.html
+layout: layout.njk
 ---
 VUWSA Exec Member Guilty of Misconduct
 ======================================

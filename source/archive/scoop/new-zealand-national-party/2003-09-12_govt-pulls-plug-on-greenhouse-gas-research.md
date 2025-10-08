@@ -1,9 +1,12 @@
 ---
 slug: govt-pulls-plug-on-greenhouse-gas-research
-title: "Govt pulls plug on greenhouse gas research"
-date: 2003-09-12
-source-url: https://www.scoop.co.nz/stories/PA0309/S00291/govt-pulls-plug-on-greenhouse-gas-research.htm
+title: Govt pulls plug on greenhouse gas research
+date: 2003-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00291/govt-pulls-plug-on-greenhouse-gas-research.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/12/govt-pulls-plug-on-greenhouse-gas-research/index.html
+layout: layout.njk
 ---
 Govt pulls plug on greenhouse gas research
 ==========================================

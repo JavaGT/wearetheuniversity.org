@@ -1,9 +1,12 @@
 ---
 slug: rise-in-minimum-wage-could-hurt-maori
-title: "Rise In Minimum Wage Could Hurt Maori"
-date: 2006-05-24
-source-url: https://www.scoop.co.nz/stories/BU0605/S00525/rise-in-minimum-wage-could-hurt-maori.htm
+title: Rise In Minimum Wage Could Hurt Maori
+date: 2006-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0605/S00525/rise-in-minimum-wage-could-hurt-maori.htm
 author: aut-university
+permalink: /archive/2006/05/24/rise-in-minimum-wage-could-hurt-maori/index.html
+layout: layout.njk
 ---
 Rise In Minimum Wage Could Hurt Maori
 =====================================

@@ -1,9 +1,11 @@
 ---
 slug: ncea-english-backs-markers
-title: "NCEA: English backs markers"
-date: 2005-12-13
+title: 'NCEA: English backs markers'
+date: 2005-12-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0512/S00179/ncea-english-backs-markers.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/13/ncea-english-backs-markers/index.html
+layout: layout.njk
 ---
 NCEA: English backs markers
 ===========================

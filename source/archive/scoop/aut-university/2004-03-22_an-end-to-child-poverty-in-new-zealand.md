@@ -1,9 +1,12 @@
 ---
 slug: an-end-to-child-poverty-in-new-zealand
-title: "An End To Child Poverty In New Zealand"
-date: 2004-03-22
-source-url: https://www.scoop.co.nz/stories/ED0403/S00088/an-end-to-child-poverty-in-new-zealand.htm
+title: An End To Child Poverty In New Zealand
+date: 2004-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00088/an-end-to-child-poverty-in-new-zealand.htm
 author: aut-university
+permalink: /archive/2004/03/22/an-end-to-child-poverty-in-new-zealand/index.html
+layout: layout.njk
 ---
 An End To Child Poverty In New Zealand
 ======================================

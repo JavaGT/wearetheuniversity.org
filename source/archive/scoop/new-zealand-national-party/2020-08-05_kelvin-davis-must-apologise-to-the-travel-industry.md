@@ -1,9 +1,13 @@
 ---
 slug: kelvin-davis-must-apologise-to-the-travel-industry
-title: "Kelvin Davis Must Apologise To The Travel Industry"
-date: 2020-08-05
-source-url: https://www.scoop.co.nz/stories/PA2008/S00046/kelvin-davis-must-apologise-to-the-travel-industry.htm
+title: Kelvin Davis Must Apologise To The Travel Industry
+date: 2020-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00046/kelvin-davis-must-apologise-to-the-travel-industry.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/08/05/kelvin-davis-must-apologise-to-the-travel-industry/index.html
+layout: layout.njk
 ---
 Kelvin Davis Must Apologise To The Travel Industry
 ==================================================

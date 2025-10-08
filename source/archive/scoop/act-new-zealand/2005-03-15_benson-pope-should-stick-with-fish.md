@@ -1,9 +1,12 @@
 ---
 slug: benson-pope-should-stick-with-fish
-title: "Benson-Pope should stick with fish"
-date: 2005-03-15
-source-url: https://www.scoop.co.nz/stories/PA0503/S00304/benson-pope-should-stick-with-fish.htm
+title: Benson-Pope should stick with fish
+date: 2005-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00304/benson-pope-should-stick-with-fish.htm
 author: act-new-zealand
+permalink: /archive/2005/03/15/benson-pope-should-stick-with-fish/index.html
+layout: layout.njk
 ---
 Benson-Pope should stick with fish
 ==================================

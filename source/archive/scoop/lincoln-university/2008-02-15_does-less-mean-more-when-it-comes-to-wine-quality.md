@@ -1,9 +1,13 @@
 ---
 slug: does-less-mean-more-when-it-comes-to-wine-quality
-title: "Does less mean more when it comes to wine quality?"
-date: 2008-02-15
-source-url: https://www.scoop.co.nz/stories/SC0802/S00033/does-less-mean-more-when-it-comes-to-wine-quality.htm
+title: Does less mean more when it comes to wine quality?
+date: 2008-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0802/S00033/does-less-mean-more-when-it-comes-to-wine-quality.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/02/15/does-less-mean-more-when-it-comes-to-wine-quality/index.html
+layout: layout.njk
 ---
 Does less mean more when it comes to wine quality?
 ==================================================

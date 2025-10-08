@@ -1,9 +1,12 @@
 ---
 slug: simon-power-speech-to-institute-of-intl-affairs
-title: "Simon Power Speech To Institute Of Intl. Affairs"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/PA0305/S00456/simon-power-speech-to-institute-of-intl-affairs.htm
+title: Simon Power Speech To Institute Of Intl. Affairs
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00456/simon-power-speech-to-institute-of-intl-affairs.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/16/simon-power-speech-to-institute-of-intl-affairs/index.html
+layout: layout.njk
 ---
 Simon Power Speech To Institute Of Intl. Affairs
 ================================================

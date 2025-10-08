@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-support-for-rental-housing-wof
-title: "Green Party welcomes support for rental housing WOF"
-date: 2013-11-04
-source-url: https://www.scoop.co.nz/stories/PA1311/S00026/green-party-welcomes-support-for-rental-housing-wof.htm
+title: Green Party welcomes support for rental housing WOF
+date: 2013-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00026/green-party-welcomes-support-for-rental-housing-wof.htm
 author: green-party
+permalink: >-
+  /archive/2013/11/04/green-party-welcomes-support-for-rental-housing-wof/index.html
+layout: layout.njk
 ---
 Green Party welcomes support for rental housing WOF
 ===================================================

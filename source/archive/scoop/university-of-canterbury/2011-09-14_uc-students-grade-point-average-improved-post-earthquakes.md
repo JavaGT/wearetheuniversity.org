@@ -1,9 +1,13 @@
 ---
 slug: uc-students-grade-point-average-improved-post-earthquakes
-title: "UC students’ grade point average improved post-earthquakes"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/ED1109/S00051/uc-students-grade-point-average-improved-post-earthquakes.htm
+title: UC students’ grade point average improved post-earthquakes
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00051/uc-students-grade-point-average-improved-post-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/09/14/uc-students-grade-point-average-improved-post-earthquakes/index.html
+layout: layout.njk
 ---
 UC students’ grade point average improved post-earthquakes
 ==========================================================

@@ -1,9 +1,11 @@
 ---
 slug: their-honours-do-the-honours
-title: "Their Honours do the honours"
-date: 2014-03-07
+title: Their Honours do the honours
+date: 2014-03-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1403/S00191/their-honours-do-the-honours.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/03/07/their-honours-do-the-honours/index.html
+layout: layout.njk
 ---
 Their Honours do the honours
 ============================

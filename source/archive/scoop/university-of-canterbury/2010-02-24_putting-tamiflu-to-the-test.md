@@ -1,9 +1,11 @@
 ---
 slug: putting-tamiflu-to-the-test
-title: "Putting Tamiflu to the test"
-date: 2010-02-24
+title: Putting Tamiflu to the test
+date: 2010-02-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1002/S00097/putting-tamiflu-to-the-test.htm
 author: university-of-canterbury
+permalink: /archive/2010/02/24/putting-tamiflu-to-the-test/index.html
+layout: layout.njk
 ---
 Putting Tamiflu to the test
 ===========================

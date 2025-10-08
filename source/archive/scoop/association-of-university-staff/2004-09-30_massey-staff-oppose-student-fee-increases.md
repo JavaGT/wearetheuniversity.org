@@ -1,9 +1,12 @@
 ---
 slug: massey-staff-oppose-student-fee-increases
-title: "Massey Staff Oppose Student Fee Increases"
-date: 2004-09-30
-source-url: https://www.scoop.co.nz/stories/ED0409/S00142/massey-staff-oppose-student-fee-increases.htm
+title: Massey Staff Oppose Student Fee Increases
+date: 2004-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00142/massey-staff-oppose-student-fee-increases.htm
 author: association-of-university-staff
+permalink: /archive/2004/09/30/massey-staff-oppose-student-fee-increases/index.html
+layout: layout.njk
 ---
 Massey Staff Oppose Student Fee Increases
 =========================================

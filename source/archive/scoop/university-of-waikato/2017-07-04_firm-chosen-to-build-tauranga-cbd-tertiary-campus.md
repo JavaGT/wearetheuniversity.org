@@ -1,9 +1,13 @@
 ---
 slug: firm-chosen-to-build-tauranga-cbd-tertiary-campus
-title: "Firm chosen to build Tauranga CBD tertiary campus"
-date: 2017-07-04
-source-url: https://www.scoop.co.nz/stories/ED1707/S00007/firm-chosen-to-build-tauranga-cbd-tertiary-campus.htm
+title: Firm chosen to build Tauranga CBD tertiary campus
+date: 2017-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00007/firm-chosen-to-build-tauranga-cbd-tertiary-campus.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/07/04/firm-chosen-to-build-tauranga-cbd-tertiary-campus/index.html
+layout: layout.njk
 ---
 Firm chosen to build Tauranga CBD tertiary campus
 =================================================

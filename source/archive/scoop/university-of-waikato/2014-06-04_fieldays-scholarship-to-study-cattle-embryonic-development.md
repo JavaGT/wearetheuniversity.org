@@ -1,9 +1,13 @@
 ---
 slug: fieldays-scholarship-to-study-cattle-embryonic-development
-title: "Fieldays scholarship to study cattle embryonic development"
-date: 2014-06-04
-source-url: https://www.scoop.co.nz/stories/ED1406/S00020/fieldays-scholarship-to-study-cattle-embryonic-development.htm
+title: Fieldays scholarship to study cattle embryonic development
+date: 2014-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00020/fieldays-scholarship-to-study-cattle-embryonic-development.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/04/fieldays-scholarship-to-study-cattle-embryonic-development/index.html
+layout: layout.njk
 ---
 Fieldays scholarship to study cattle embryonic development
 ==========================================================

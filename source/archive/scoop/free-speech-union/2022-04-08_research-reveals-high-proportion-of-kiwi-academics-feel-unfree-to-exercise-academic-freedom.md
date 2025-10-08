@@ -1,9 +1,16 @@
 ---
-slug: research-reveals-high-proportion-of-kiwi-academics-feel-unfree-to-exercise-academic-freedom
-title: "Research Reveals High Proportion Of Kiwi Academics Feel Unfree To Exercise Academic Freedom"
-date: 2022-04-08
-source-url: https://www.scoop.co.nz/stories/ED2204/S00010/research-reveals-high-proportion-of-kiwi-academics-feel-unfree-to-exercise-academic-freedom.htm
+slug: >-
+  research-reveals-high-proportion-of-kiwi-academics-feel-unfree-to-exercise-academic-freedom
+title: >-
+  Research Reveals High Proportion Of Kiwi Academics Feel Unfree To Exercise
+  Academic Freedom
+date: 2022-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00010/research-reveals-high-proportion-of-kiwi-academics-feel-unfree-to-exercise-academic-freedom.htm
 author: free-speech-union
+permalink: >-
+  /archive/2022/04/08/research-reveals-high-proportion-of-kiwi-academics-feel-unfree-to-exercise-academic-freedom/index.html
+layout: layout.njk
 ---
 Research Reveals High Proportion Of Kiwi Academics Feel Unfree To Exercise Academic Freedom
 ===========================================================================================

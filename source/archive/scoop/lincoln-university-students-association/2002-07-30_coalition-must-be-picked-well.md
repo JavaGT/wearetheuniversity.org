@@ -1,9 +1,12 @@
 ---
 slug: coalition-must-be-picked-well
-title: "Coalition must be picked well"
-date: 2002-07-30
-source-url: https://www.scoop.co.nz/stories/ED0207/S00073/coalition-must-be-picked-well.htm
+title: Coalition must be picked well
+date: 2002-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00073/coalition-must-be-picked-well.htm
 author: lincoln-university-students-association
+permalink: /archive/2002/07/30/coalition-must-be-picked-well/index.html
+layout: layout.njk
 ---
 Coalition must be picked well
 =============================

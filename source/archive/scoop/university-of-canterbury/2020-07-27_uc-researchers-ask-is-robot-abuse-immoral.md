@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-ask-is-robot-abuse-immoral
-title: "UC Researchers Ask: Is Robot Abuse Immoral?"
-date: 2020-07-27
-source-url: https://www.scoop.co.nz/stories/SC2007/S00050/uc-researchers-ask-is-robot-abuse-immoral.htm
+title: 'UC Researchers Ask: Is Robot Abuse Immoral?'
+date: 2020-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2007/S00050/uc-researchers-ask-is-robot-abuse-immoral.htm
 author: university-of-canterbury
+permalink: /archive/2020/07/27/uc-researchers-ask-is-robot-abuse-immoral/index.html
+layout: layout.njk
 ---
 UC Researchers Ask: Is Robot Abuse Immoral?
 ===========================================

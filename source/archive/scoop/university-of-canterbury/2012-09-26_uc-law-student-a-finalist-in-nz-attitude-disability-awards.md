@@ -1,9 +1,13 @@
 ---
 slug: uc-law-student-a-finalist-in-nz-attitude-disability-awards
-title: "UC law student a finalist in NZ Attitude disability awards"
-date: 2012-09-26
-source-url: https://www.scoop.co.nz/stories/CU1209/S00473/uc-law-student-a-finalist-in-nz-attitude-disability-awards.htm
+title: UC law student a finalist in NZ Attitude disability awards
+date: 2012-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1209/S00473/uc-law-student-a-finalist-in-nz-attitude-disability-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/26/uc-law-student-a-finalist-in-nz-attitude-disability-awards/index.html
+layout: layout.njk
 ---
 UC law student a finalist in NZ Attitude disability awards
 ==========================================================

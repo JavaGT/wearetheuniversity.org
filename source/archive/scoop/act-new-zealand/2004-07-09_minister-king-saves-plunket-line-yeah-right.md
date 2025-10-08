@@ -1,9 +1,12 @@
 ---
 slug: minister-king-saves-plunket-line-yeah-right
-title: "Minister King 'Saves' Plunket Line - Yeah Right"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/PA0407/S00164/minister-king-saves-plunket-line-yeah-right.htm
+title: Minister King 'Saves' Plunket Line - Yeah Right
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00164/minister-king-saves-plunket-line-yeah-right.htm
 author: act-new-zealand
+permalink: /archive/2004/07/09/minister-king-saves-plunket-line-yeah-right/index.html
+layout: layout.njk
 ---
 Minister King 'Saves' Plunket Line - Yeah Right
 ===============================================

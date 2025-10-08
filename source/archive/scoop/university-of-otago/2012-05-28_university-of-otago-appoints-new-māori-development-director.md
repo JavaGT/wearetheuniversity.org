@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-appoints-new-māori-development-director
-title: "University of Otago appoints new Māori Development Director"
-date: 2012-05-28
-source-url: https://www.scoop.co.nz/stories/BU1205/S00949/university-of-otago-appoints-new-maori-development-director.htm
+title: University of Otago appoints new Māori Development Director
+date: 2012-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1205/S00949/university-of-otago-appoints-new-maori-development-director.htm
 author: university-of-otago
+permalink: /archive/2012/05/28/university-of-otago-appoints-new-m/index.html
+layout: layout.njk
 ---
 University of Otago appoints new Māori Development Director
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-federation-of-maori-authorities-annual-conference
-title: "Speech: Federation of Maori Authorities Annual Conference"
-date: 2014-09-28
-source-url: https://www.scoop.co.nz/stories/PA1409/S00313/speech-federation-of-maori-authorities-annual-conference.htm
+title: 'Speech: Federation of Maori Authorities Annual Conference'
+date: 2014-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00313/speech-federation-of-maori-authorities-annual-conference.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/09/28/speech-federation-of-maori-authorities-annual-conference/index.html
+layout: layout.njk
 ---
 Speech: Federation of Maori Authorities Annual Conference
 =========================================================

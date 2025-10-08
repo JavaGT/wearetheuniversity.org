@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-births-deaths-and-marriages-bill
-title: "Hone Harawira: Births, Deaths And Marriages Bill"
-date: 2008-05-14
-source-url: https://www.scoop.co.nz/stories/PA0805/S00220/hone-harawira-births-deaths-and-marriages-bill.htm
+title: 'Hone Harawira: Births, Deaths And Marriages Bill'
+date: 2008-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00220/hone-harawira-births-deaths-and-marriages-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/05/14/hone-harawira-births-deaths-and-marriages-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Births, Deaths And Marriages Bill
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: researchers-tackle-wicked-problems-in-shipping-industry
-title: "Researchers Tackle Wicked Problems In Shipping Industry"
-date: 2022-04-29
-source-url: https://www.scoop.co.nz/stories/ED2204/S00025/researchers-tackle-wicked-problems-in-shipping-industry.htm
+title: Researchers Tackle Wicked Problems In Shipping Industry
+date: 2022-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00025/researchers-tackle-wicked-problems-in-shipping-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/04/29/researchers-tackle-wicked-problems-in-shipping-industry/index.html
+layout: layout.njk
 ---
 Researchers Tackle Wicked Problems In Shipping Industry
 =======================================================

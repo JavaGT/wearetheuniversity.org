@@ -1,9 +1,12 @@
 ---
 slug: victoria-phd-graduates-at-5-year-high
-title: "Victoria PhD Graduates at 5 year high"
-date: 2003-12-04
-source-url: https://www.scoop.co.nz/stories/ED0312/S00030/victoria-phd-graduates-at-5-year-high.htm
+title: Victoria PhD Graduates at 5 year high
+date: 2003-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00030/victoria-phd-graduates-at-5-year-high.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/12/04/victoria-phd-graduates-at-5-year-high/index.html
+layout: layout.njk
 ---
 Victoria PhD Graduates at 5 year high
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-puts-nats-in-time-warp-peters
-title: "Budget Puts Nats in Time Warp – Peters"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/PA1205/S00444/budget-puts-nats-in-time-warp-peters.htm
+title: Budget Puts Nats in Time Warp – Peters
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00444/budget-puts-nats-in-time-warp-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/24/budget-puts-nats-in-time-warp-peters/index.html
+layout: layout.njk
 ---
 Budget Puts Nats in Time Warp – Peters
 ======================================

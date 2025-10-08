@@ -1,9 +1,12 @@
 ---
 slug: keys-kick-in-the-teeth-to-first-home-buyers
-title: "Key’s kick in the teeth to first home buyers"
-date: 2013-07-15
-source-url: https://www.scoop.co.nz/stories/PA1307/S00242/keys-kick-in-the-teeth-to-first-home-buyers.htm
+title: Key’s kick in the teeth to first home buyers
+date: 2013-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00242/keys-kick-in-the-teeth-to-first-home-buyers.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/15/keys-kick-in-the-teeth-to-first-home-buyers/index.html
+layout: layout.njk
 ---
 Key’s kick in the teeth to first home buyers
 ============================================

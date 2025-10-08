@@ -1,9 +1,12 @@
 ---
 slug: cycling-and-walking-in-nz-cities
-title: "Cycling and walking in NZ cities"
-date: 2016-08-25
-source-url: https://www.scoop.co.nz/stories/ED1608/S00095/cycling-and-walking-in-nz-cities.htm
+title: Cycling and walking in NZ cities
+date: 2016-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00095/cycling-and-walking-in-nz-cities.htm
 author: university-of-otago
+permalink: /archive/2016/08/25/cycling-and-walking-in-nz-cities/index.html
+layout: layout.njk
 ---
 Cycling and walking in NZ cities
 ================================

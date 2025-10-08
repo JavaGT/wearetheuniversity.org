@@ -1,9 +1,13 @@
 ---
 slug: first-batch-of-environmental-planning-students-graduate
-title: "First Batch Of Environmental Planning Students Graduate"
-date: 2013-04-24
-source-url: https://www.scoop.co.nz/stories/ED1304/S00143/first-batch-of-environmental-planning-students-graduate.htm
+title: First Batch Of Environmental Planning Students Graduate
+date: 2013-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00143/first-batch-of-environmental-planning-students-graduate.htm
 author: waikato-university
+permalink: >-
+  /archive/2013/04/24/first-batch-of-environmental-planning-students-graduate/index.html
+layout: layout.njk
 ---
 First Batch Of Environmental Planning Students Graduate
 =======================================================

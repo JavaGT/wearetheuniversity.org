@@ -1,9 +1,12 @@
 ---
 slug: knowledge-wave-or-capitalist-tsunami
-title: "Knowledge Wave Or Capitalist Tsunami?"
-date: 2001-08-03
-source-url: https://www.scoop.co.nz/stories/ED0108/S00017/knowledge-wave-or-capitalist-tsunami.htm
+title: Knowledge Wave Or Capitalist Tsunami?
+date: 2001-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00017/knowledge-wave-or-capitalist-tsunami.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/08/03/knowledge-wave-or-capitalist-tsunami/index.html
+layout: layout.njk
 ---
 Knowledge Wave Or Capitalist Tsunami?
 =====================================

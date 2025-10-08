@@ -1,9 +1,12 @@
 ---
 slug: american-environmental-historian-to-visit-otago
-title: "American environmental historian to visit Otago"
-date: 2005-05-18
-source-url: https://www.scoop.co.nz/stories/ED0505/S00075/american-environmental-historian-to-visit-otago.htm
+title: American environmental historian to visit Otago
+date: 2005-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00075/american-environmental-historian-to-visit-otago.htm
 author: university-of-otago
+permalink: /archive/2005/05/18/american-environmental-historian-to-visit-otago/index.html
+layout: layout.njk
 ---
 American environmental historian to visit Otago
 ===============================================

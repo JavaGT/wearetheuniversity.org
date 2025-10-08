@@ -1,9 +1,13 @@
 ---
 slug: uc-astronomy-camp-participant-invited-to-nasa-space-camp
-title: "UC Astronomy Camp Participant Invited to NASA Space Camp"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/ED1305/S00056/uc-astronomy-camp-participant-invited-to-nasa-space-camp.htm
+title: UC Astronomy Camp Participant Invited to NASA Space Camp
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00056/uc-astronomy-camp-participant-invited-to-nasa-space-camp.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/09/uc-astronomy-camp-participant-invited-to-nasa-space-camp/index.html
+layout: layout.njk
 ---
 UC Astronomy Camp Participant Invited to NASA Space Camp
 ========================================================

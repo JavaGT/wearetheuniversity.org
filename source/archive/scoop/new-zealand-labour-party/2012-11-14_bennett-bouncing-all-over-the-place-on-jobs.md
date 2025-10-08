@@ -1,9 +1,12 @@
 ---
 slug: bennett-bouncing-all-over-the-place-on-jobs
-title: "Bennett bouncing all over the place on jobs"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/PA1211/S00242/bennett-bouncing-all-over-the-place-on-jobs.htm
+title: Bennett bouncing all over the place on jobs
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00242/bennett-bouncing-all-over-the-place-on-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/14/bennett-bouncing-all-over-the-place-on-jobs/index.html
+layout: layout.njk
 ---
 Bennett bouncing all over the place on jobs
 ===========================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-to-nethui
-title: "Speech to NetHui"
-date: 2012-07-12
+title: Speech to NetHui
+date: 2012-07-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1207/S00156/speech-to-nethui.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/12/speech-to-nethui/index.html
+layout: layout.njk
 ---
 Speech to NetHui
 ================

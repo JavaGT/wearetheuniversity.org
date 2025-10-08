@@ -1,9 +1,12 @@
 ---
 slug: huawei-to-boost-wellingtons-tech-sector
-title: "Huawei to boost Wellington's tech sector"
-date: 2017-03-22
-source-url: https://www.scoop.co.nz/stories/AK1703/S00714/huawei-to-boost-wellingtons-tech-sector.htm
+title: Huawei to boost Wellington's tech sector
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1703/S00714/huawei-to-boost-wellingtons-tech-sector.htm
 author: new-zealand-national-party
+permalink: /archive/2017/03/22/huawei-to-boost-wellingtons-tech-sector/index.html
+layout: layout.njk
 ---
 Huawei to boost Wellington's tech sector
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: roof-top-research-to-pave-way-to-greener-buildings
-title: "Roof top research to pave way to greener buildings"
-date: 2006-09-18
-source-url: https://www.scoop.co.nz/stories/AK0609/S00150/roof-top-research-to-pave-way-to-greener-buildings.htm
+title: Roof top research to pave way to greener buildings
+date: 2006-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0609/S00150/roof-top-research-to-pave-way-to-greener-buildings.htm
 author: auckland-university
+permalink: >-
+  /archive/2006/09/18/roof-top-research-to-pave-way-to-greener-buildings/index.html
+layout: layout.njk
 ---
 Roof top research to pave way to greener buildings
 ==================================================

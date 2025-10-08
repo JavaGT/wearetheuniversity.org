@@ -1,8 +1,11 @@
 ---
 slug: applying-for-a-new-student-visa-in-new-zealand
-title: "Applying for a new student visa in New Zealand"
-date: 2016-03-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/applying-for-a-new-student-visa.html
+title: Applying for a new student visa in New Zealand
+date: 2016-03-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2016/applying-for-a-new-student-visa.html
+permalink: /archive/2016/03/01/applying-for-a-new-student-visa-in-new-zealand/index.html
+layout: layout.njk
 ---
 Applying for a new student visa in New Zealand
 ==============================================

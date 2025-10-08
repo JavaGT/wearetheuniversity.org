@@ -1,9 +1,12 @@
 ---
 slug: need-to-address-post-school-pathways
-title: "Need To Address Post-School Pathways"
-date: 2007-01-26
-source-url: https://www.scoop.co.nz/stories/PA0701/S00165/need-to-address-post-school-pathways.htm
+title: Need To Address Post-School Pathways
+date: 2007-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00165/need-to-address-post-school-pathways.htm
 author: te-pati-maori
+permalink: /archive/2007/01/26/need-to-address-post-school-pathways/index.html
+layout: layout.njk
 ---
 Need To Address Post-School Pathways
 ====================================

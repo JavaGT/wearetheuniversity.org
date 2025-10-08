@@ -1,9 +1,12 @@
 ---
 slug: oecd-confirms-need-for-more-student-allowances
-title: "OECD Confirms Need for More Student Allowances"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/PO0701/S00160/oecd-confirms-need-for-more-student-allowances.htm
+title: OECD Confirms Need for More Student Allowances
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0701/S00160/oecd-confirms-need-for-more-student-allowances.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/01/30/oecd-confirms-need-for-more-student-allowances/index.html
+layout: layout.njk
 ---
 OECD Confirms Need for More Student Allowances
 ==============================================

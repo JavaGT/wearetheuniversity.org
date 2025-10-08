@@ -1,9 +1,13 @@
 ---
 slug: top-unionist-calls-for-partnership-with-business
-title: "Top Unionist calls for partnership with business"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/ED0209/S00030/top-unionist-calls-for-partnership-with-business.htm
+title: Top Unionist calls for partnership with business
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00030/top-unionist-calls-for-partnership-with-business.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/09/18/top-unionist-calls-for-partnership-with-business/index.html
+layout: layout.njk
 ---
 Top Unionist calls for partnership with business
 ================================================

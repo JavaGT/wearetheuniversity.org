@@ -1,9 +1,12 @@
 ---
 slug: regional-gdp-another-benchmark-for-new-govt
-title: "Regional GDP another benchmark for new Govt"
-date: 2018-03-21
-source-url: https://www.scoop.co.nz/stories/PA1803/S00222/regional-gdp-another-benchmark-for-new-govt.htm
+title: Regional GDP another benchmark for new Govt
+date: 2018-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00222/regional-gdp-another-benchmark-for-new-govt.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/21/regional-gdp-another-benchmark-for-new-govt/index.html
+layout: layout.njk
 ---
 Regional GDP another benchmark for new Govt
 ===========================================

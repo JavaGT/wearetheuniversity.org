@@ -1,9 +1,12 @@
 ---
 slug: failing-education-standards-wont-help-wellbeing
-title: "Failing Education Standards Won’t Help Wellbeing"
-date: 2020-12-09
-source-url: https://www.scoop.co.nz/stories/PA2012/S00058/failing-education-standards-wont-help-wellbeing.htm
+title: Failing Education Standards Won’t Help Wellbeing
+date: 2020-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00058/failing-education-standards-wont-help-wellbeing.htm
 author: new-zealand-national-party
+permalink: /archive/2020/12/09/failing-education-standards-wont-help-wellbeing/index.html
+layout: layout.njk
 ---
 Failing Education Standards Won’t Help Wellbeing
 ================================================

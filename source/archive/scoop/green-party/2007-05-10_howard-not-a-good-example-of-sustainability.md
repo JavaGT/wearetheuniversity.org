@@ -1,9 +1,12 @@
 ---
 slug: howard-not-a-good-example-of-sustainability
-title: "Howard not a good example of sustainability"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00235/howard-not-a-good-example-of-sustainability.htm
+title: Howard not a good example of sustainability
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00235/howard-not-a-good-example-of-sustainability.htm
 author: green-party
+permalink: /archive/2007/05/10/howard-not-a-good-example-of-sustainability/index.html
+layout: layout.njk
 ---
 Howard not a good example of sustainability
 ===========================================

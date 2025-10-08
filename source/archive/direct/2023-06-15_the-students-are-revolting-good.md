@@ -1,12 +1,16 @@
 ---
 title: The students are revolting – good!
-subtitle: As students see their futures threatened by older generations’ madcap pursuit of growth, their concerns should not be dismissed as ‘ideological’
-date: 2023-06-15
+subtitle: >-
+  As students see their futures threatened by older generations’ madcap pursuit
+  of growth, their concerns should not be dismissed as ‘ideological’
+date: 2023-06-15T00:00:00.000Z
 slug: the-students-are-revolting-good
 source: https://newsroom.co.nz/2023/06/15/the-students-are-revolting-good/
 source-name: newsroom
 author: Nicolas Lewis
 author-slug: nicolas-lewis
+permalink: /archive/2023/06/15/the-students-are-revolting-good/index.html
+layout: layout.njk
 ---
 
 ![](https://i0.wp.com/newsroom.co.nz/wp-content/uploads/2023/04/nYwE7KuotLOWrCmqGg18-scaled.jpg?fit=1200%2C800&ssl=1)

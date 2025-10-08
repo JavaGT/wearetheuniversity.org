@@ -1,9 +1,13 @@
 ---
 slug: govt-decision-pushes-sea-lions-closer-to-extinction
-title: "Govt decision pushes sea lions closer to extinction"
-date: 2011-12-04
-source-url: https://www.scoop.co.nz/stories/PA1112/S00021/govt-decision-pushes-sea-lions-closer-to-extinction.htm
+title: Govt decision pushes sea lions closer to extinction
+date: 2011-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00021/govt-decision-pushes-sea-lions-closer-to-extinction.htm
 author: green-party
+permalink: >-
+  /archive/2011/12/04/govt-decision-pushes-sea-lions-closer-to-extinction/index.html
+layout: layout.njk
 ---
 Govt decision pushes sea lions closer to extinction
 ===================================================

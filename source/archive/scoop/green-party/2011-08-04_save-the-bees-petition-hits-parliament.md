@@ -1,9 +1,12 @@
 ---
 slug: save-the-bees-petition-hits-parliament
-title: "Save the Bees Petition Hits Parliament"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/PA1108/S00076/save-the-bees-petition-hits-parliament.htm
+title: Save the Bees Petition Hits Parliament
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00076/save-the-bees-petition-hits-parliament.htm
 author: green-party
+permalink: /archive/2011/08/04/save-the-bees-petition-hits-parliament/index.html
+layout: layout.njk
 ---
 Save the Bees Petition Hits Parliament
 ======================================

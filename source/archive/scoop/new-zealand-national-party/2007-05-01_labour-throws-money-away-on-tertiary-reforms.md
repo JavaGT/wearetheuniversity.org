@@ -1,9 +1,12 @@
 ---
 slug: labour-throws-money-away-on-tertiary-reforms
-title: "Labour throws money away on tertiary reforms"
-date: 2007-05-01
-source-url: https://www.scoop.co.nz/stories/PA0705/S00005/labour-throws-money-away-on-tertiary-reforms.htm
+title: Labour throws money away on tertiary reforms
+date: 2007-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00005/labour-throws-money-away-on-tertiary-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/01/labour-throws-money-away-on-tertiary-reforms/index.html
+layout: layout.njk
 ---
 Labour throws money away on tertiary reforms
 ============================================

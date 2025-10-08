@@ -1,9 +1,12 @@
 ---
 slug: green-led-budget-bid-helps-secure-hakatere-park
-title: "Green-led Budget bid helps secure Hakatere park"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/PA0710/S00503/green-led-budget-bid-helps-secure-hakatere-park.htm
+title: Green-led Budget bid helps secure Hakatere park
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00503/green-led-budget-bid-helps-secure-hakatere-park.htm
 author: green-party
+permalink: /archive/2007/10/26/green-led-budget-bid-helps-secure-hakatere-park/index.html
+layout: layout.njk
 ---
 Green-led Budget bid helps secure Hakatere park
 ===============================================

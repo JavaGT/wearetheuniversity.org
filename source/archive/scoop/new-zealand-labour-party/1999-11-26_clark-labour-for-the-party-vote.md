@@ -1,9 +1,12 @@
 ---
 slug: clark-labour-for-the-party-vote
-title: "Clark: Labour for the party vote"
-date: 1999-11-26
-source-url: https://www.scoop.co.nz/stories/PA9911/S00619/clark-labour-for-the-party-vote.htm
+title: 'Clark: Labour for the party vote'
+date: 1999-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00619/clark-labour-for-the-party-vote.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/26/clark-labour-for-the-party-vote/index.html
+layout: layout.njk
 ---
 Clark: Labour for the party vote
 ================================

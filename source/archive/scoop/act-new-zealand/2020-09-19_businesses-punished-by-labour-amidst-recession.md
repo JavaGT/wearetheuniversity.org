@@ -1,9 +1,12 @@
 ---
 slug: businesses-punished-by-labour-amidst-recession
-title: "Businesses Punished By Labour Amidst Recession"
-date: 2020-09-19
-source-url: https://www.scoop.co.nz/stories/PA2009/S00172/businesses-punished-by-labour-amidst-recession.htm
+title: Businesses Punished By Labour Amidst Recession
+date: 2020-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00172/businesses-punished-by-labour-amidst-recession.htm
 author: act-new-zealand
+permalink: /archive/2020/09/19/businesses-punished-by-labour-amidst-recession/index.html
+layout: layout.njk
 ---
 Businesses Punished By Labour Amidst Recession
 ==============================================

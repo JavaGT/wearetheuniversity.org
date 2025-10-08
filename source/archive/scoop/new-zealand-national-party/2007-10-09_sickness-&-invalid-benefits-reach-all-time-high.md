@@ -1,9 +1,12 @@
 ---
 slug: sickness-&-invalid-benefits-reach-all-time-high
-title: "Sickness & Invalid benefits reach all time high"
-date: 2007-10-09
-source-url: https://www.scoop.co.nz/stories/PA0710/S00138/sickness-invalid-benefits-reach-all-time-high.htm
+title: Sickness & Invalid benefits reach all time high
+date: 2007-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00138/sickness-invalid-benefits-reach-all-time-high.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/09/sickness-/index.html
+layout: layout.njk
 ---
 Sickness & Invalid benefits reach all time high
 ===============================================

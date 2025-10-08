@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-6-no-4-20-feb-2003
-title: "AUS Tertiary Update  Vol. 6  No. 4, 20 Feb  2003"
-date: 2003-02-20
-source-url: https://www.scoop.co.nz/stories/ED0302/S00036/aus-tertiary-update-vol-6-no-4-20-feb-2003.htm
+title: AUS Tertiary Update  Vol. 6  No. 4, 20 Feb  2003
+date: 2003-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00036/aus-tertiary-update-vol-6-no-4-20-feb-2003.htm
 author: association-of-university-staff
+permalink: /archive/2003/02/20/aus-tertiary-update-vol-6-no-4-20-feb-2003/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol. 6 No. 4, 20 Feb 2003
 =============================================

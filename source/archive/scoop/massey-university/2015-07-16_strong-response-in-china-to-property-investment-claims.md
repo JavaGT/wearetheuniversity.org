@@ -1,9 +1,13 @@
 ---
 slug: strong-response-in-china-to-property-investment-claims
-title: "Strong response in China to property investment claims"
-date: 2015-07-16
-source-url: https://www.scoop.co.nz/stories/PO1507/S00137/strong-response-in-china-to-property-investment-claims.htm
+title: Strong response in China to property investment claims
+date: 2015-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1507/S00137/strong-response-in-china-to-property-investment-claims.htm
 author: massey-university
+permalink: >-
+  /archive/2015/07/16/strong-response-in-china-to-property-investment-claims/index.html
+layout: layout.njk
 ---
 Strong response in China to property investment claims
 ======================================================

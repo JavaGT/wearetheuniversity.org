@@ -1,9 +1,12 @@
 ---
 slug: tie-up-aratere-now-warns-peters
-title: "Tie Up Aratere Now Warns Peters"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/PO1111/S00039/tie-up-aratere-now-warns-peters.htm
+title: Tie Up Aratere Now Warns Peters
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00039/tie-up-aratere-now-warns-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2011/11/02/tie-up-aratere-now-warns-peters/index.html
+layout: layout.njk
 ---
 Tie Up Aratere Now Warns Peters
 ===============================

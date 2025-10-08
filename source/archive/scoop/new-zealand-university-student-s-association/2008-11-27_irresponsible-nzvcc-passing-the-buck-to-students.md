@@ -1,9 +1,13 @@
 ---
 slug: irresponsible-nzvcc-passing-the-buck-to-students
-title: "Irresponsible NZVCC passing the buck to students"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/ED0811/S00085/irresponsible-nzvcc-passing-the-buck-to-students.htm
+title: Irresponsible NZVCC passing the buck to students
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00085/irresponsible-nzvcc-passing-the-buck-to-students.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2008/11/27/irresponsible-nzvcc-passing-the-buck-to-students/index.html
+layout: layout.njk
 ---
 Irresponsible NZVCC passing the buck to students
 ================================================

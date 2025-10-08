@@ -1,9 +1,13 @@
 ---
 slug: faulty-science-and-ethics-in-dna-analyses-of-ata
-title: "Faulty science and ethics in DNA analyses of ‘Ata’"
-date: 2018-07-18
-source-url: https://www.scoop.co.nz/stories/SC1807/S00039/faulty-science-and-ethics-in-dna-analyses-of-ata.htm
+title: Faulty science and ethics in DNA analyses of ‘Ata’
+date: 2018-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00039/faulty-science-and-ethics-in-dna-analyses-of-ata.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/18/faulty-science-and-ethics-in-dna-analyses-of-ata/index.html
+layout: layout.njk
 ---
 Faulty science and ethics in DNA analyses of ‘Ata’
 ==================================================

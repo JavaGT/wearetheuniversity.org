@@ -1,9 +1,12 @@
 ---
 slug: student-debt-burden-set-to-skyrocket
-title: "Student Debt Burden Set To Skyrocket"
-date: 1999-12-20
-source-url: https://www.scoop.co.nz/stories/PA9912/S00087/student-debt-burden-set-to-skyrocket.htm
+title: Student Debt Burden Set To Skyrocket
+date: 1999-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00087/student-debt-burden-set-to-skyrocket.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/20/student-debt-burden-set-to-skyrocket/index.html
+layout: layout.njk
 ---
 Student Debt Burden Set To Skyrocket
 ====================================

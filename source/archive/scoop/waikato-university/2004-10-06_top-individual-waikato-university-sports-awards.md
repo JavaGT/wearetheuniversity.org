@@ -1,9 +1,12 @@
 ---
 slug: top-individual-waikato-university-sports-awards
-title: "Top Individual Waikato University Sports Awards"
-date: 2004-10-06
-source-url: https://www.scoop.co.nz/stories/ED0410/S00022/top-individual-waikato-university-sports-awards.htm
+title: Top Individual Waikato University Sports Awards
+date: 2004-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00022/top-individual-waikato-university-sports-awards.htm
 author: waikato-university
+permalink: /archive/2004/10/06/top-individual-waikato-university-sports-awards/index.html
+layout: layout.njk
 ---
 Top Individual Waikato University Sports Awards
 ===============================================

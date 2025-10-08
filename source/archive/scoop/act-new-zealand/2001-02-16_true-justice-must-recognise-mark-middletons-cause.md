@@ -1,9 +1,13 @@
 ---
 slug: true-justice-must-recognise-mark-middletons-cause
-title: "True Justice Must Recognise Mark Middleton’s Cause"
-date: 2001-02-16
-source-url: https://www.scoop.co.nz/stories/PA0102/S00240/true-justice-must-recognise-mark-middletons-cause.htm
+title: True Justice Must Recognise Mark Middleton’s Cause
+date: 2001-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00240/true-justice-must-recognise-mark-middletons-cause.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/02/16/true-justice-must-recognise-mark-middletons-cause/index.html
+layout: layout.njk
 ---
 True Justice Must Recognise Mark Middleton’s Cause
 ==================================================

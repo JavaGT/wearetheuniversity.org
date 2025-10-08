@@ -1,9 +1,12 @@
 ---
 slug: james-bonifacio-is-ucs-latest-rhodes-scholar
-title: "James Bonifacio is UC’s latest Rhodes Scholar"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/ED1211/S00087/james-bonifacio-is-ucs-latest-rhodes-scholar.htm
+title: James Bonifacio is UC’s latest Rhodes Scholar
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00087/james-bonifacio-is-ucs-latest-rhodes-scholar.htm
 author: university-of-canterbury
+permalink: /archive/2012/11/13/james-bonifacio-is-ucs-latest-rhodes-scholar/index.html
+layout: layout.njk
 ---
 James Bonifacio is UC’s latest Rhodes Scholar
 =============================================

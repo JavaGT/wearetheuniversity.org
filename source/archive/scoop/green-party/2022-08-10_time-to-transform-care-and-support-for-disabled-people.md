@@ -1,9 +1,13 @@
 ---
 slug: time-to-transform-care-and-support-for-disabled-people
-title: "Time To Transform Care And Support For Disabled People"
-date: 2022-08-10
-source-url: https://www.scoop.co.nz/stories/PA2208/S00097/time-to-transform-care-and-support-for-disabled-people.htm
+title: Time To Transform Care And Support For Disabled People
+date: 2022-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00097/time-to-transform-care-and-support-for-disabled-people.htm
 author: green-party
+permalink: >-
+  /archive/2022/08/10/time-to-transform-care-and-support-for-disabled-people/index.html
+layout: layout.njk
 ---
 Time To Transform Care And Support For Disabled People
 ======================================================

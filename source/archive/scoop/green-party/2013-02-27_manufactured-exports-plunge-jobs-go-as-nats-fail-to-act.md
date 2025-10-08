@@ -1,9 +1,13 @@
 ---
 slug: manufactured-exports-plunge-jobs-go-as-nats-fail-to-act
-title: "Manufactured exports plunge, jobs go as Nats fail to act"
-date: 2013-02-27
-source-url: https://www.scoop.co.nz/stories/PA1302/S00429/manufactured-exports-plunge-jobs-go-as-nats-fail-to-act.htm
+title: Manufactured exports plunge, jobs go as Nats fail to act
+date: 2013-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00429/manufactured-exports-plunge-jobs-go-as-nats-fail-to-act.htm
 author: green-party
+permalink: >-
+  /archive/2013/02/27/manufactured-exports-plunge-jobs-go-as-nats-fail-to-act/index.html
+layout: layout.njk
 ---
 Manufactured exports plunge, jobs go as Nats fail to act
 ========================================================

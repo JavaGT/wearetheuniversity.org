@@ -1,9 +1,12 @@
 ---
 slug: victoria-needs-to-be-cautious-about-reform
-title: "Victoria Needs to be Cautious About Reform"
-date: 2000-03-28
-source-url: https://www.scoop.co.nz/stories/ED0003/S00057/victoria-needs-to-be-cautious-about-reform.htm
+title: Victoria Needs to be Cautious About Reform
+date: 2000-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0003/S00057/victoria-needs-to-be-cautious-about-reform.htm
 author: victoria-university-students-association
+permalink: /archive/2000/03/28/victoria-needs-to-be-cautious-about-reform/index.html
+layout: layout.njk
 ---
 Victoria Needs to be Cautious About Reform
 ==========================================

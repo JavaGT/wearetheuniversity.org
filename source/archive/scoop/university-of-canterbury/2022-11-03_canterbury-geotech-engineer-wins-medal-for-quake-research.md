@@ -1,9 +1,13 @@
 ---
 slug: canterbury-geotech-engineer-wins-medal-for-quake-research
-title: "Canterbury Geotech Engineer Wins Medal For Quake Research"
-date: 2022-11-03
-source-url: https://www.scoop.co.nz/stories/SC2211/S00004/canterbury-geotech-engineer-wins-medal-for-quake-research.htm
+title: Canterbury Geotech Engineer Wins Medal For Quake Research
+date: 2022-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2211/S00004/canterbury-geotech-engineer-wins-medal-for-quake-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/03/canterbury-geotech-engineer-wins-medal-for-quake-research/index.html
+layout: layout.njk
 ---
 Canterbury Geotech Engineer Wins Medal For Quake Research
 =========================================================

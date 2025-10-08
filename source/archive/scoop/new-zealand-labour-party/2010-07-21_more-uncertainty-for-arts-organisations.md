@@ -1,9 +1,12 @@
 ---
 slug: more-uncertainty-for-arts-organisations
-title: "More uncertainty for arts organisations"
-date: 2010-07-21
-source-url: https://www.scoop.co.nz/stories/PA1007/S00329/more-uncertainty-for-arts-organisations.htm
+title: More uncertainty for arts organisations
+date: 2010-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00329/more-uncertainty-for-arts-organisations.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/21/more-uncertainty-for-arts-organisations/index.html
+layout: layout.njk
 ---
 More uncertainty for arts organisations
 =======================================

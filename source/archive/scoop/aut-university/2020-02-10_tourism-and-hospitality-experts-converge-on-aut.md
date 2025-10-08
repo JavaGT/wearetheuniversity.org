@@ -1,9 +1,12 @@
 ---
 slug: tourism-and-hospitality-experts-converge-on-aut
-title: "Tourism And Hospitality Experts Converge On AUT"
-date: 2020-02-10
-source-url: https://www.scoop.co.nz/stories/ED2002/S00014/tourism-and-hospitality-experts-converge-on-aut.htm
+title: Tourism And Hospitality Experts Converge On AUT
+date: 2020-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2002/S00014/tourism-and-hospitality-experts-converge-on-aut.htm
 author: aut-university
+permalink: /archive/2020/02/10/tourism-and-hospitality-experts-converge-on-aut/index.html
+layout: layout.njk
 ---
 Tourism And Hospitality Experts Converge On AUT
 ===============================================

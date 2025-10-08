@@ -1,9 +1,12 @@
 ---
 slug: thousands-spent-on-covering-up-rotting-homes
-title: "Thousands spent on covering up rotting homes"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00031/thousands-spent-on-covering-up-rotting-homes.htm
+title: Thousands spent on covering up rotting homes
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00031/thousands-spent-on-covering-up-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/02/thousands-spent-on-covering-up-rotting-homes/index.html
+layout: layout.njk
 ---
 Thousands spent on covering up rotting homes
 ============================================

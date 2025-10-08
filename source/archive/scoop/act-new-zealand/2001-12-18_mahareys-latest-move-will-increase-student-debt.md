@@ -1,9 +1,12 @@
 ---
 slug: mahareys-latest-move-will-increase-student-debt
-title: "Maharey's Latest Move Will Increase Student Debt"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/PA0112/S00310/mahareys-latest-move-will-increase-student-debt.htm
+title: Maharey's Latest Move Will Increase Student Debt
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00310/mahareys-latest-move-will-increase-student-debt.htm
 author: act-new-zealand
+permalink: /archive/2001/12/18/mahareys-latest-move-will-increase-student-debt/index.html
+layout: layout.njk
 ---
 Maharey's Latest Move Will Increase Student Debt
 ================================================

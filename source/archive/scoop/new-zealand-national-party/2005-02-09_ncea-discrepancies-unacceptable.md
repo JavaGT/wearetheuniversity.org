@@ -1,9 +1,12 @@
 ---
 slug: ncea-discrepancies-unacceptable
-title: "NCEA discrepancies unacceptable"
-date: 2005-02-09
-source-url: https://www.scoop.co.nz/stories/PA0502/S00175/ncea-discrepancies-unacceptable.htm
+title: NCEA discrepancies unacceptable
+date: 2005-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00175/ncea-discrepancies-unacceptable.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/09/ncea-discrepancies-unacceptable/index.html
+layout: layout.njk
 ---
 NCEA discrepancies unacceptable
 ===============================

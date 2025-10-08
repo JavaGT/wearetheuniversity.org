@@ -1,9 +1,11 @@
 ---
 slug: chris-brown-cancels-nz
-title: "Chris Brown cancels NZ"
-date: 2015-12-02
+title: Chris Brown cancels NZ
+date: 2015-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1512/S00052/chris-brown-cancels-nz.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/02/chris-brown-cancels-nz/index.html
+layout: layout.njk
 ---
 Chris Brown cancels NZ
 ======================

@@ -1,9 +1,12 @@
 ---
 slug: managing-an-ageing-workforce-nz-research-report
-title: "Managing an Ageing Workforce:  NZ Research Report"
-date: 2015-03-13
-source-url: https://www.scoop.co.nz/stories/BU1503/S00456/managing-an-ageing-workforce-nz-research-report.htm
+title: 'Managing an Ageing Workforce:  NZ Research Report'
+date: 2015-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1503/S00456/managing-an-ageing-workforce-nz-research-report.htm
 author: aut-university
+permalink: /archive/2015/03/13/managing-an-ageing-workforce-nz-research-report/index.html
+layout: layout.njk
 ---
 Managing an Ageing Workforce: NZ Research Report
 ================================================

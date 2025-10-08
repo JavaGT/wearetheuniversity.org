@@ -1,9 +1,12 @@
 ---
 slug: ncea-is-corrupt-$78-million-wont-help
-title: "NCEA is Corrupt: $78 Million Won't Help"
-date: 2003-05-02
-source-url: https://www.scoop.co.nz/stories/PA0305/S00061/ncea-is-corrupt-78-million-wont-help.htm
+title: 'NCEA is Corrupt: $78 Million Won''t Help'
+date: 2003-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00061/ncea-is-corrupt-78-million-wont-help.htm
 author: act-new-zealand
+permalink: /archive/2003/05/02/ncea-is-corrupt-/index.html
+layout: layout.njk
 ---
 NCEA is Corrupt: $78 Million Won't Help
 =======================================

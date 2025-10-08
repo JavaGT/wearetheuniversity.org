@@ -1,9 +1,12 @@
 ---
 slug: maharey-should-scrap-religion-guideline
-title: "Maharey should scrap religion guideline"
-date: 2006-08-24
-source-url: https://www.scoop.co.nz/stories/PA0608/S00419/maharey-should-scrap-religion-guideline.htm
+title: Maharey should scrap religion guideline
+date: 2006-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00419/maharey-should-scrap-religion-guideline.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/24/maharey-should-scrap-religion-guideline/index.html
+layout: layout.njk
 ---
 Maharey should scrap religion guideline
 =======================================

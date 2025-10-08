@@ -1,9 +1,13 @@
 ---
 slug: cinematic-installations-emerge-from-uc-collaboration
-title: "Cinematic Installations Emerge From UC Collaboration"
-date: 2021-02-26
-source-url: https://www.scoop.co.nz/stories/CU2102/S00231/cinematic-installations-emerge-from-uc-collaboration.htm
+title: Cinematic Installations Emerge From UC Collaboration
+date: 2021-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2102/S00231/cinematic-installations-emerge-from-uc-collaboration.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/02/26/cinematic-installations-emerge-from-uc-collaboration/index.html
+layout: layout.njk
 ---
 Cinematic Installations Emerge From UC Collaboration
 ====================================================

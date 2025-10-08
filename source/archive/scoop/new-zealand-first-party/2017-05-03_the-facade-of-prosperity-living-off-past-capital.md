@@ -1,9 +1,13 @@
 ---
 slug: the-facade-of-prosperity-living-off-past-capital
-title: "The facade of prosperity, living off past capital"
-date: 2017-05-03
-source-url: https://www.scoop.co.nz/stories/PA1705/S00037/the-facade-of-prosperity-living-off-past-capital.htm
+title: The facade of prosperity, living off past capital
+date: 2017-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00037/the-facade-of-prosperity-living-off-past-capital.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/03/the-facade-of-prosperity-living-off-past-capital/index.html
+layout: layout.njk
 ---
 The facade of prosperity, living off past capital
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: clark-turns-blind-eye-to-jones-double-dipping
-title: "Clark turns blind eye to Jones' double-dipping"
-date: 2007-01-19
-source-url: https://www.scoop.co.nz/stories/PA0701/S00101/clark-turns-blind-eye-to-jones-double-dipping.htm
+title: Clark turns blind eye to Jones' double-dipping
+date: 2007-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00101/clark-turns-blind-eye-to-jones-double-dipping.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/19/clark-turns-blind-eye-to-jones-double-dipping/index.html
+layout: layout.njk
 ---
 Clark turns blind eye to Jones' double-dipping
 ==============================================

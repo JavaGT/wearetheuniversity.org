@@ -1,9 +1,13 @@
 ---
 slug: parekowhai-artwork-opens-in-wellington-for-one-day
-title: "Parekowhai Artwork Opens In Wellington For One Day"
-date: 2009-05-20
-source-url: https://www.scoop.co.nz/stories/CU0905/S00264/parekowhai-artwork-opens-in-wellington-for-one-day.htm
+title: Parekowhai Artwork Opens In Wellington For One Day
+date: 2009-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0905/S00264/parekowhai-artwork-opens-in-wellington-for-one-day.htm
 author: massey-university
+permalink: >-
+  /archive/2009/05/20/parekowhai-artwork-opens-in-wellington-for-one-day/index.html
+layout: layout.njk
 ---
 Parekowhai Artwork Opens In Wellington For One Day
 ==================================================

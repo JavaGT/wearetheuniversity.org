@@ -1,9 +1,11 @@
 ---
 slug: sva-appoints-new-ceo
-title: "SVA Appoints New CEO"
-date: 2023-05-16
+title: SVA Appoints New CEO
+date: 2023-05-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU2305/S00242/sva-appoints-new-ceo.htm
 author: student-volunteer-army
+permalink: /archive/2023/05/16/sva-appoints-new-ceo/index.html
+layout: layout.njk
 ---
 SVA Appoints New CEO
 ====================

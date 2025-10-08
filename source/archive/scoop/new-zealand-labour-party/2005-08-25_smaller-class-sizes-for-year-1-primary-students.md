@@ -1,9 +1,12 @@
 ---
 slug: smaller-class-sizes-for-year-1-primary-students
-title: "Smaller Class Sizes for Year 1 Primary Students"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00656/smaller-class-sizes-for-year-1-primary-students.htm
+title: Smaller Class Sizes for Year 1 Primary Students
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00656/smaller-class-sizes-for-year-1-primary-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/25/smaller-class-sizes-for-year-1-primary-students/index.html
+layout: layout.njk
 ---
 Smaller Class Sizes for Year 1 Primary Students
 ===============================================

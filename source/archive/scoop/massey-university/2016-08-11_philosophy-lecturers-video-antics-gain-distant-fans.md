@@ -1,9 +1,13 @@
 ---
 slug: philosophy-lecturers-video-antics-gain-distant-fans
-title: "Philosophy lecturer’s video antics gain distant fans"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/ED1608/S00025/philosophy-lecturers-video-antics-gain-distant-fans.htm
+title: Philosophy lecturer’s video antics gain distant fans
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00025/philosophy-lecturers-video-antics-gain-distant-fans.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/11/philosophy-lecturers-video-antics-gain-distant-fans/index.html
+layout: layout.njk
 ---
 Philosophy lecturer’s video antics gain distant fans
 ====================================================

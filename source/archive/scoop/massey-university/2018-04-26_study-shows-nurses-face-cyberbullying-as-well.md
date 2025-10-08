@@ -1,9 +1,12 @@
 ---
 slug: study-shows-nurses-face-cyberbullying-as-well
-title: "Study shows nurses face cyberbullying as well"
-date: 2018-04-26
-source-url: https://www.scoop.co.nz/stories/GE1804/S00082/study-shows-nurses-face-cyberbullying-as-well.htm
+title: Study shows nurses face cyberbullying as well
+date: 2018-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00082/study-shows-nurses-face-cyberbullying-as-well.htm
 author: massey-university
+permalink: /archive/2018/04/26/study-shows-nurses-face-cyberbullying-as-well/index.html
+layout: layout.njk
 ---
 Study shows nurses face cyberbullying as well
 =============================================

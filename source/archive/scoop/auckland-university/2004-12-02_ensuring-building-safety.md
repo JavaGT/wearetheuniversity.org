@@ -1,9 +1,11 @@
 ---
 slug: ensuring-building-safety
-title: "Ensuring Building Safety"
-date: 2004-12-02
+title: Ensuring Building Safety
+date: 2004-12-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0412/S00006/ensuring-building-safety.htm
 author: auckland-university
+permalink: /archive/2004/12/02/ensuring-building-safety/index.html
+layout: layout.njk
 ---
 Ensuring Building Safety
 ========================

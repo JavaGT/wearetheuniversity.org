@@ -1,9 +1,13 @@
 ---
 slug: nicola-willis-speech-to-the-auckland-chamber-of-commerce
-title: "Nicola Willis: Speech To The Auckland Chamber Of Commerce"
-date: 2023-09-26
-source-url: https://www.scoop.co.nz/stories/PA2309/S00147/nicola-willis-speech-to-the-auckland-chamber-of-commerce.htm
+title: 'Nicola Willis: Speech To The Auckland Chamber Of Commerce'
+date: 2023-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00147/nicola-willis-speech-to-the-auckland-chamber-of-commerce.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/26/nicola-willis-speech-to-the-auckland-chamber-of-commerce/index.html
+layout: layout.njk
 ---
 Nicola Willis: Speech To The Auckland Chamber Of Commerce
 =========================================================

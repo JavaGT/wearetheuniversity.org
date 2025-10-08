@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-welcomes-action-plan-for-pacific-education
-title: "NZEI Te Riu Roa Welcomes Action Plan For Pacific Education"
-date: 2020-07-22
-source-url: https://www.scoop.co.nz/stories/ED2007/S00027/nzei-te-riu-roa-welcomes-action-plan-for-pacific-education.htm
+title: NZEI Te Riu Roa Welcomes Action Plan For Pacific Education
+date: 2020-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00027/nzei-te-riu-roa-welcomes-action-plan-for-pacific-education.htm
 author: nzei
+permalink: >-
+  /archive/2020/07/22/nzei-te-riu-roa-welcomes-action-plan-for-pacific-education/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Welcomes Action Plan For Pacific Education
 ==========================================================

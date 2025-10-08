@@ -1,9 +1,12 @@
 ---
 slug: arts-and-design-students-exposed
-title: "Arts and design students exposed"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/ED0711/S00052/arts-and-design-students-exposed.htm
+title: Arts and design students exposed
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00052/arts-and-design-students-exposed.htm
 author: massey-university
+permalink: /archive/2007/11/08/arts-and-design-students-exposed/index.html
+layout: layout.njk
 ---
 Arts and design students exposed
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: investigating-the-reasons-behind-memory-difficulties
-title: "Investigating the reasons behind memory difficulties"
-date: 2018-06-01
-source-url: https://www.scoop.co.nz/stories/GE1806/S00002/investigating-the-reasons-behind-memory-difficulties.htm
+title: Investigating the reasons behind memory difficulties
+date: 2018-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00002/investigating-the-reasons-behind-memory-difficulties.htm
 author: massey-university
+permalink: >-
+  /archive/2018/06/01/investigating-the-reasons-behind-memory-difficulties/index.html
+layout: layout.njk
 ---
 Investigating the reasons behind memory difficulties
 ====================================================

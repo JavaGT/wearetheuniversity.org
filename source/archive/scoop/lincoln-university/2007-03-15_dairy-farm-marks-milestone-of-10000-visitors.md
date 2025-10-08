@@ -1,9 +1,12 @@
 ---
 slug: dairy-farm-marks-milestone-of-10000-visitors
-title: "Dairy Farm marks milestone of 10,000 visitors"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/ED0703/S00052/dairy-farm-marks-milestone-of-10000-visitors.htm
+title: Dairy Farm marks milestone of 10,000 visitors
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00052/dairy-farm-marks-milestone-of-10000-visitors.htm
 author: lincoln-university
+permalink: /archive/2007/03/15/dairy-farm-marks-milestone-of-10000-visitors/index.html
+layout: layout.njk
 ---
 Dairy Farm marks milestone of 10,000 visitors
 =============================================

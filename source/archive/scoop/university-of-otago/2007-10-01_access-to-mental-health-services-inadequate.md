@@ -1,9 +1,12 @@
 ---
 slug: access-to-mental-health-services-inadequate
-title: "Access to mental health services inadequate"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/GE0710/S00004/access-to-mental-health-services-inadequate.htm
+title: Access to mental health services inadequate
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0710/S00004/access-to-mental-health-services-inadequate.htm
 author: university-of-otago
+permalink: /archive/2007/10/01/access-to-mental-health-services-inadequate/index.html
+layout: layout.njk
 ---
 Access to mental health services inadequate
 ===========================================

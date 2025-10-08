@@ -1,9 +1,13 @@
 ---
 slug: uc-team-seeking-breakthrough-in-next-generation-electronics
-title: "UC Team Seeking Breakthrough In Next Generation Electronics"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/SC1305/S00035/uc-team-seeking-breakthrough-in-next-generation-electronics.htm
+title: UC Team Seeking Breakthrough In Next Generation Electronics
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00035/uc-team-seeking-breakthrough-in-next-generation-electronics.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/07/uc-team-seeking-breakthrough-in-next-generation-electronics/index.html
+layout: layout.njk
 ---
 UC Team Seeking Breakthrough In Next Generation Electronics
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: danger-christchurchs-past-will-be-forgotten
-title: "Danger Christchurch’s past will be forgotten"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/AK1210/S00298/danger-christchurchs-past-will-be-forgotten.htm
+title: Danger Christchurch’s past will be forgotten
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00298/danger-christchurchs-past-will-be-forgotten.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/11/danger-christchurchs-past-will-be-forgotten/index.html
+layout: layout.njk
 ---
 Danger Christchurch’s past will be forgotten
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: peace-week-highlights-plight-of-refugees
-title: "Peace Week highlights plight of refugees"
-date: 2014-09-23
-source-url: https://www.scoop.co.nz/stories/AK1409/S00533/peace-week-highlights-plight-of-refugees.htm
+title: Peace Week highlights plight of refugees
+date: 2014-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1409/S00533/peace-week-highlights-plight-of-refugees.htm
 author: massey-university
+permalink: /archive/2014/09/23/peace-week-highlights-plight-of-refugees/index.html
+layout: layout.njk
 ---
 Peace Week highlights plight of refugees
 ========================================

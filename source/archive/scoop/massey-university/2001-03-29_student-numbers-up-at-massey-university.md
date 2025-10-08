@@ -1,9 +1,12 @@
 ---
 slug: student-numbers-up-at-massey-university
-title: "Student Numbers Up At Massey University"
-date: 2001-03-29
-source-url: https://www.scoop.co.nz/stories/ED0103/S00057/student-numbers-up-at-massey-university.htm
+title: Student Numbers Up At Massey University
+date: 2001-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00057/student-numbers-up-at-massey-university.htm
 author: massey-university
+permalink: /archive/2001/03/29/student-numbers-up-at-massey-university/index.html
+layout: layout.njk
 ---
 Student Numbers Up At Massey University
 =======================================

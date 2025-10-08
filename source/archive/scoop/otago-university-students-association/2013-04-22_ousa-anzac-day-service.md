@@ -1,9 +1,11 @@
 ---
 slug: ousa-anzac-day-service
-title: "OUSA Anzac Day service"
-date: 2013-04-22
+title: OUSA Anzac Day service
+date: 2013-04-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1304/S00136/ousa-anzac-day-service.htm
 author: otago-university-students-association
+permalink: /archive/2013/04/22/ousa-anzac-day-service/index.html
+layout: layout.njk
 ---
 OUSA Anzac Day service
 ======================

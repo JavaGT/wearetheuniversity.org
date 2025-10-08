@@ -1,9 +1,12 @@
 ---
 slug: students-ask-brash-to-stop-attacking-maori
-title: "Students ask Brash to stop attacking Maori"
-date: 2004-02-20
-source-url: https://www.scoop.co.nz/stories/ED0402/S00051/students-ask-brash-to-stop-attacking-maori.htm
+title: Students ask Brash to stop attacking Maori
+date: 2004-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00051/students-ask-brash-to-stop-attacking-maori.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/02/20/students-ask-brash-to-stop-attacking-maori/index.html
+layout: layout.njk
 ---
 Students ask Brash to stop attacking Maori
 ==========================================

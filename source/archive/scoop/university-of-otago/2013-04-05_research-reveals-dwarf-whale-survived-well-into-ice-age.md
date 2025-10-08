@@ -1,9 +1,13 @@
 ---
 slug: research-reveals-dwarf-whale-survived-well-into-ice-age
-title: "Research reveals dwarf whale survived well into Ice Age"
-date: 2013-04-05
-source-url: https://www.scoop.co.nz/stories/SC1304/S00011/research-reveals-dwarf-whale-survived-well-into-ice-age.htm
+title: Research reveals dwarf whale survived well into Ice Age
+date: 2013-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00011/research-reveals-dwarf-whale-survived-well-into-ice-age.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/05/research-reveals-dwarf-whale-survived-well-into-ice-age/index.html
+layout: layout.njk
 ---
 Research reveals dwarf whale survived well into Ice Age
 =======================================================

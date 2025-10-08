@@ -1,9 +1,12 @@
 ---
 slug: real-issues-no-305-abortion-juvenile-crime
-title: "Real Issues No. 305 – Abortion, Juvenile Crime"
-date: 2008-06-13
-source-url: https://www.scoop.co.nz/stories/PO0806/S00157/real-issues-no-305-abortion-juvenile-crime.htm
+title: Real Issues No. 305 – Abortion, Juvenile Crime
+date: 2008-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0806/S00157/real-issues-no-305-abortion-juvenile-crime.htm
 author: maxim-institute
+permalink: /archive/2008/06/13/real-issues-no-305-abortion-juvenile-crime/index.html
+layout: layout.njk
 ---
 Real Issues No. 305 – Abortion, Juvenile Crime
 ==============================================

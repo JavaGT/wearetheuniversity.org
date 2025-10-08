@@ -1,9 +1,12 @@
 ---
 slug: detecting-harmful-molecules-in-the-environment
-title: "Detecting harmful molecules in the environment"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/SC1407/S00014/detecting-harmful-molecules-in-the-environment.htm
+title: Detecting harmful molecules in the environment
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00014/detecting-harmful-molecules-in-the-environment.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/04/detecting-harmful-molecules-in-the-environment/index.html
+layout: layout.njk
 ---
 Detecting harmful molecules in the environment
 ==============================================

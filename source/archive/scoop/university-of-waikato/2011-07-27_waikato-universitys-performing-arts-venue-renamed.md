@@ -1,9 +1,13 @@
 ---
 slug: waikato-universitys-performing-arts-venue-renamed
-title: "Waikato University’s performing arts venue renamed"
-date: 2011-07-27
-source-url: https://www.scoop.co.nz/stories/AK1107/S00715/waikato-universitys-performing-arts-venue-renamed.htm
+title: Waikato University’s performing arts venue renamed
+date: 2011-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1107/S00715/waikato-universitys-performing-arts-venue-renamed.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/07/27/waikato-universitys-performing-arts-venue-renamed/index.html
+layout: layout.njk
 ---
 Waikato University’s performing arts venue renamed
 ==================================================

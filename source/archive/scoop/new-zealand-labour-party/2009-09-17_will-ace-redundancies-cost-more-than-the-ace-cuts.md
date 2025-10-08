@@ -1,9 +1,13 @@
 ---
 slug: will-ace-redundancies-cost-more-than-the-ace-cuts
-title: "Will ACE redundancies cost more than the ACE cuts?"
-date: 2009-09-17
-source-url: https://www.scoop.co.nz/stories/PA0909/S00254/will-ace-redundancies-cost-more-than-the-ace-cuts.htm
+title: Will ACE redundancies cost more than the ACE cuts?
+date: 2009-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00254/will-ace-redundancies-cost-more-than-the-ace-cuts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/09/17/will-ace-redundancies-cost-more-than-the-ace-cuts/index.html
+layout: layout.njk
 ---
 Will ACE redundancies cost more than the ACE cuts?
 ==================================================

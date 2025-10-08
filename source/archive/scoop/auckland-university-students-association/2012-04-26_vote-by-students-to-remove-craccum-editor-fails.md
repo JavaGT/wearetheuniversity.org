@@ -1,9 +1,12 @@
 ---
 slug: vote-by-students-to-remove-craccum-editor-fails
-title: "Vote By Students To Remove Craccum Editor Fails"
-date: 2012-04-26
-source-url: https://www.scoop.co.nz/stories/ED1204/S00105/vote-by-students-to-remove-craccum-editor-fails.htm
+title: Vote By Students To Remove Craccum Editor Fails
+date: 2012-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00105/vote-by-students-to-remove-craccum-editor-fails.htm
 author: auckland-university-students-association
+permalink: /archive/2012/04/26/vote-by-students-to-remove-craccum-editor-fails/index.html
+layout: layout.njk
 ---
 Vote By Students To Remove Craccum Editor Fails
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: permanent-emergency-law-must-have-checks-&-balance
-title: "Permanent emergency law must have checks & balance"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/PA1009/S00408/permanent-emergency-law-must-have-checks-balance.htm
+title: Permanent emergency law must have checks & balance
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00408/permanent-emergency-law-must-have-checks-balance.htm
 author: green-party
+permalink: /archive/2010/09/28/permanent-emergency-law-must-have-checks-/index.html
+layout: layout.njk
 ---
 Permanent emergency law must have checks & balance
 ==================================================

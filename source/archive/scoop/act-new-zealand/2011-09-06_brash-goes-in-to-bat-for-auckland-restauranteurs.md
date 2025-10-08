@@ -1,9 +1,13 @@
 ---
 slug: brash-goes-in-to-bat-for-auckland-restauranteurs
-title: "Brash Goes In to Bat for Auckland Restauranteurs"
-date: 2011-09-06
-source-url: https://www.scoop.co.nz/stories/PA1109/S00091/brash-goes-in-to-bat-for-auckland-restauranteurs.htm
+title: Brash Goes In to Bat for Auckland Restauranteurs
+date: 2011-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00091/brash-goes-in-to-bat-for-auckland-restauranteurs.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/09/06/brash-goes-in-to-bat-for-auckland-restauranteurs/index.html
+layout: layout.njk
 ---
 Brash Goes In to Bat for Auckland Restauranteurs
 ================================================

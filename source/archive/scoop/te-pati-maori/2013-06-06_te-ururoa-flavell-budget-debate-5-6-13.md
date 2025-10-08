@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-budget-debate-5-6-13
-title: "Te Ururoa Flavell - Budget Debate 5/6/13"
-date: 2013-06-06
-source-url: https://www.scoop.co.nz/stories/PA1306/S00102/te-ururoa-flavell-budget-debate-5613.htm
+title: Te Ururoa Flavell - Budget Debate 5/6/13
+date: 2013-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00102/te-ururoa-flavell-budget-debate-5613.htm
 author: te-pati-maori
+permalink: /archive/2013/06/06/te-ururoa-flavell-budget-debate-5-6-13/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Budget Debate 5/6/13
 ========================================

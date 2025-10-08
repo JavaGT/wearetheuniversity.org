@@ -1,9 +1,13 @@
 ---
 slug: national-selects-alfred-ngaro-as-te-atatu-candidate
-title: "National selects Alfred Ngaro as Te Atatu candidate"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/PO1406/S00032/national-selects-alfred-ngaro-as-te-atatu-candidate.htm
+title: National selects Alfred Ngaro as Te Atatu candidate
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00032/national-selects-alfred-ngaro-as-te-atatu-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/06/03/national-selects-alfred-ngaro-as-te-atatu-candidate/index.html
+layout: layout.njk
 ---
 National selects Alfred Ngaro as Te Atatu candidate
 ===================================================

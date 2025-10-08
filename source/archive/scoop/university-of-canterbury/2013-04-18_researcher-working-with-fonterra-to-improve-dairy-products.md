@@ -1,9 +1,13 @@
 ---
 slug: researcher-working-with-fonterra-to-improve-dairy-products
-title: "Researcher Working With Fonterra To Improve Dairy Products"
-date: 2013-04-18
-source-url: https://www.scoop.co.nz/stories/ED1304/S00118/researcher-working-with-fonterra-to-improve-dairy-products.htm
+title: Researcher Working With Fonterra To Improve Dairy Products
+date: 2013-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00118/researcher-working-with-fonterra-to-improve-dairy-products.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/18/researcher-working-with-fonterra-to-improve-dairy-products/index.html
+layout: layout.njk
 ---
 Researcher Working With Fonterra To Improve Dairy Products
 ==========================================================

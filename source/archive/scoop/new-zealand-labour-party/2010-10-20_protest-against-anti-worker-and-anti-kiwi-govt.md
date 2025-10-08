@@ -1,9 +1,12 @@
 ---
 slug: protest-against-anti-worker-and-anti-kiwi-govt
-title: "Protest against anti-worker and anti-Kiwi govt"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00338/protest-against-anti-worker-and-anti-kiwi-govt.htm
+title: Protest against anti-worker and anti-Kiwi govt
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00338/protest-against-anti-worker-and-anti-kiwi-govt.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/20/protest-against-anti-worker-and-anti-kiwi-govt/index.html
+layout: layout.njk
 ---
 Protest against anti-worker and anti-Kiwi govt
 ==============================================

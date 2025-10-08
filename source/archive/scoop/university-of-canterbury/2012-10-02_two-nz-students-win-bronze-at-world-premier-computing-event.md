@@ -1,9 +1,13 @@
 ---
 slug: two-nz-students-win-bronze-at-world-premier-computing-event
-title: "Two NZ students win bronze at world premier computing event"
-date: 2012-10-02
-source-url: https://www.scoop.co.nz/stories/ED1210/S00010/two-nz-students-win-bronze-at-world-premier-computing-event.htm
+title: Two NZ students win bronze at world premier computing event
+date: 2012-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00010/two-nz-students-win-bronze-at-world-premier-computing-event.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/02/two-nz-students-win-bronze-at-world-premier-computing-event/index.html
+layout: layout.njk
 ---
 Two NZ students win bronze at world premier computing event
 ===========================================================

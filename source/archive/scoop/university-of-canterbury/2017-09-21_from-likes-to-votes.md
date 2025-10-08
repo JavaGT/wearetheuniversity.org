@@ -1,9 +1,11 @@
 ---
 slug: from-likes-to-votes
-title: "From ‘likes’ to votes"
-date: 2017-09-21
+title: From ‘likes’ to votes
+date: 2017-09-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1709/S00376/from-likes-to-votes.htm
 author: university-of-canterbury
+permalink: /archive/2017/09/21/from-likes-to-votes/index.html
+layout: layout.njk
 ---
 From ‘likes’ to votes
 =====================

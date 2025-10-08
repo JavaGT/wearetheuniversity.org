@@ -1,9 +1,12 @@
 ---
 slug: govt-should-withdraw-appeal-over-special-needs
-title: "Govt. Should Withdraw Appeal Over Special Needs"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/PA0205/S00013/govt-should-withdraw-appeal-over-special-needs.htm
+title: Govt. Should Withdraw Appeal Over Special Needs
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00013/govt-should-withdraw-appeal-over-special-needs.htm
 author: green-party
+permalink: /archive/2002/05/01/govt-should-withdraw-appeal-over-special-needs/index.html
+layout: layout.njk
 ---
 Govt. Should Withdraw Appeal Over Special Needs
 ===============================================

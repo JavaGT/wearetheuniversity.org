@@ -1,9 +1,12 @@
 ---
 slug: contact-tracing-data-missing;-past-performance-terrible
-title: "Contact Tracing Data Missing; Past Performance Terrible"
-date: 2021-03-02
-source-url: https://www.scoop.co.nz/stories/PA2103/S00005/contact-tracing-data-missing-past-performance-terrible.htm
+title: Contact Tracing Data Missing; Past Performance Terrible
+date: 2021-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00005/contact-tracing-data-missing-past-performance-terrible.htm
 author: act-new-zealand
+permalink: /archive/2021/03/02/contact-tracing-data-missing/index.html
+layout: layout.njk
 ---
 Contact Tracing Data Missing; Past Performance Terrible
 =======================================================

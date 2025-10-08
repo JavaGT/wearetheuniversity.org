@@ -1,9 +1,12 @@
 ---
 slug: treaty-irrelevant-to-new-zealand-says-academic
-title: "Treaty irrelevant to New Zealand, says academic"
-date: 2007-09-05
-source-url: https://www.scoop.co.nz/stories/CU0709/S00046/treaty-irrelevant-to-new-zealand-says-academic.htm
+title: Treaty irrelevant to New Zealand, says academic
+date: 2007-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0709/S00046/treaty-irrelevant-to-new-zealand-says-academic.htm
 author: aut-university
+permalink: /archive/2007/09/05/treaty-irrelevant-to-new-zealand-says-academic/index.html
+layout: layout.njk
 ---
 Treaty irrelevant to New Zealand, says academic
 ===============================================

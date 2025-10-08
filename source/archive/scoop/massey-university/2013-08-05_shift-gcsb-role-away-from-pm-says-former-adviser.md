@@ -1,9 +1,13 @@
 ---
 slug: shift-gcsb-role-away-from-pm-says-former-adviser
-title: "'Shift GCSB role away from PM' says former adviser"
-date: 2013-08-05
-source-url: https://www.scoop.co.nz/stories/PO1308/S00058/shift-gcsb-role-away-from-pm-says-former-adviser.htm
+title: '''Shift GCSB role away from PM'' says former adviser'
+date: 2013-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00058/shift-gcsb-role-away-from-pm-says-former-adviser.htm
 author: massey-university
+permalink: >-
+  /archive/2013/08/05/shift-gcsb-role-away-from-pm-says-former-adviser/index.html
+layout: layout.njk
 ---
 'Shift GCSB role away from PM' says former adviser
 ==================================================

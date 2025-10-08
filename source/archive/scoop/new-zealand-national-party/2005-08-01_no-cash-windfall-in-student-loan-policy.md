@@ -1,9 +1,12 @@
 ---
 slug: no-cash-windfall-in-student-loan-policy
-title: "No cash windfall in student loan policy"
-date: 2005-08-01
-source-url: https://www.scoop.co.nz/stories/PA0508/S00006/no-cash-windfall-in-student-loan-policy.htm
+title: No cash windfall in student loan policy
+date: 2005-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00006/no-cash-windfall-in-student-loan-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/01/no-cash-windfall-in-student-loan-policy/index.html
+layout: layout.njk
 ---
 No cash windfall in student loan policy
 =======================================

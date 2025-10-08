@@ -1,9 +1,12 @@
 ---
 slug: maori-party-backs-botany-candidate-wetex-kang
-title: "Maori Party Backs Botany Candidate Wetex Kang"
-date: 2017-08-03
-source-url: https://www.scoop.co.nz/stories/PO1708/S00068/maori-party-backs-botany-candidate-wetex-kang.htm
+title: Maori Party Backs Botany Candidate Wetex Kang
+date: 2017-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00068/maori-party-backs-botany-candidate-wetex-kang.htm
 author: te-pati-maori
+permalink: /archive/2017/08/03/maori-party-backs-botany-candidate-wetex-kang/index.html
+layout: layout.njk
 ---
 Maori Party Backs Botany Candidate Wetex Kang
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: reserve-bank-under-the-microscope
-title: "Reserve Bank under the microscope"
-date: 2006-06-12
-source-url: https://www.scoop.co.nz/stories/BU0606/S00153/reserve-bank-under-the-microscope.htm
+title: Reserve Bank under the microscope
+date: 2006-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0606/S00153/reserve-bank-under-the-microscope.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/06/12/reserve-bank-under-the-microscope/index.html
+layout: layout.njk
 ---
 Reserve Bank under the microscope
 =================================

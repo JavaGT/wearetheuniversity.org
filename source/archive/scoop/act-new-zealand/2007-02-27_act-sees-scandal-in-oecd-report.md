@@ -1,9 +1,12 @@
 ---
 slug: act-sees-scandal-in-oecd-report
-title: "ACT Sees Scandal In OECD Report"
-date: 2007-02-27
-source-url: https://www.scoop.co.nz/stories/PA0702/S00500/act-sees-scandal-in-oecd-report.htm
+title: ACT Sees Scandal In OECD Report
+date: 2007-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00500/act-sees-scandal-in-oecd-report.htm
 author: act-new-zealand
+permalink: /archive/2007/02/27/act-sees-scandal-in-oecd-report/index.html
+layout: layout.njk
 ---
 ACT Sees Scandal In OECD Report
 ===============================

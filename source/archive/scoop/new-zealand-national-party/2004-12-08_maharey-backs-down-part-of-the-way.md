@@ -1,9 +1,12 @@
 ---
 slug: maharey-backs-down-part-of-the-way
-title: "Maharey backs down part of the way"
-date: 2004-12-08
-source-url: https://www.scoop.co.nz/stories/PA0412/S00190/maharey-backs-down-part-of-the-way.htm
+title: Maharey backs down part of the way
+date: 2004-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00190/maharey-backs-down-part-of-the-way.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/08/maharey-backs-down-part-of-the-way/index.html
+layout: layout.njk
 ---
 Maharey backs down part of the way
 ==================================

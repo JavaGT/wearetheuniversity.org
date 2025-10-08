@@ -1,9 +1,12 @@
 ---
 slug: building-boom-falls-flat-as-consents-tumble
-title: "Building boom falls flat as consents tumble"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/PA1608/S00539/building-boom-falls-flat-as-consents-tumble.htm
+title: Building boom falls flat as consents tumble
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00539/building-boom-falls-flat-as-consents-tumble.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/30/building-boom-falls-flat-as-consents-tumble/index.html
+layout: layout.njk
 ---
 Building boom falls flat as consents tumble
 ===========================================

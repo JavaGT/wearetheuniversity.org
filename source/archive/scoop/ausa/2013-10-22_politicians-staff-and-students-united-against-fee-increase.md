@@ -1,9 +1,13 @@
 ---
 slug: politicians-staff-and-students-united-against-fee-increase
-title: "Politicians, Staff, and Students United Against Fee Increase"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/PO1310/S00217/politicians-staff-and-students-united-against-fee-increase.htm
+title: Politicians, Staff, and Students United Against Fee Increase
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1310/S00217/politicians-staff-and-students-united-against-fee-increase.htm
 author: ausa
+permalink: >-
+  /archive/2013/10/22/politicians-staff-and-students-united-against-fee-increase/index.html
+layout: layout.njk
 ---
 Politicians, Staff, and Students United Against Fee Increase
 ============================================================

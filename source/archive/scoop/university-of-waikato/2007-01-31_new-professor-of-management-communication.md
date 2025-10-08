@@ -1,9 +1,12 @@
 ---
 slug: new-professor-of-management-communication
-title: "New professor of management communication"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/BU0701/S00301/new-professor-of-management-communication.htm
+title: New professor of management communication
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0701/S00301/new-professor-of-management-communication.htm
 author: university-of-waikato
+permalink: /archive/2007/01/31/new-professor-of-management-communication/index.html
+layout: layout.njk
 ---
 New professor of management communication
 =========================================

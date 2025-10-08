@@ -1,9 +1,12 @@
 ---
 slug: peters-your-future-is-in-your-hands
-title: "Peters: \"Your Future Is In Your Hands\""
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/PA0807/S00549/peters-your-future-is-in-your-hands.htm
+title: 'Peters: "Your Future Is In Your Hands"'
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00549/peters-your-future-is-in-your-hands.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/30/peters-your-future-is-in-your-hands/index.html
+layout: layout.njk
 ---
 Peters: \"Your Future Is In Your Hands"
 ======================================

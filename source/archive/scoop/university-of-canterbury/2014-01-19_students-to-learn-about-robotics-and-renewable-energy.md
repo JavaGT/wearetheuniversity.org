@@ -1,9 +1,13 @@
 ---
 slug: students-to-learn-about-robotics-and-renewable-energy
-title: "Students to learn about robotics and renewable energy"
-date: 2014-01-19
-source-url: https://www.scoop.co.nz/stories/ED1401/S00019/students-to-learn-about-robotics-and-renewable-energy.htm
+title: Students to learn about robotics and renewable energy
+date: 2014-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00019/students-to-learn-about-robotics-and-renewable-energy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/19/students-to-learn-about-robotics-and-renewable-energy/index.html
+layout: layout.njk
 ---
 Students to learn about robotics and renewable energy
 =====================================================

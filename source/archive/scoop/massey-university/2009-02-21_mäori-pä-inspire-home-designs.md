@@ -1,9 +1,12 @@
 ---
 slug: mäori-pä-inspire-home-designs
-title: "Mäori pä inspire home designs"
-date: 2009-02-21
-source-url: https://www.scoop.co.nz/stories/BU0902/S00402/maori-pa-inspire-home-designs.htm
+title: Mäori pä inspire home designs
+date: 2009-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0902/S00402/maori-pa-inspire-home-designs.htm
 author: massey-university
+permalink: /archive/2009/02/21/m/index.html
+layout: layout.njk
 ---
 Mäori pä inspire home designs
 =============================

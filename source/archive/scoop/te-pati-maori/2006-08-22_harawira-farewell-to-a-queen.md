@@ -1,9 +1,11 @@
 ---
 slug: harawira-farewell-to-a-queen
-title: "Harawira: Farewell to a Queen"
-date: 2006-08-22
+title: 'Harawira: Farewell to a Queen'
+date: 2006-08-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00371/harawira-farewell-to-a-queen.htm
 author: te-pati-maori
+permalink: /archive/2006/08/22/harawira-farewell-to-a-queen/index.html
+layout: layout.njk
 ---
 Harawira: Farewell to a Queen
 =============================

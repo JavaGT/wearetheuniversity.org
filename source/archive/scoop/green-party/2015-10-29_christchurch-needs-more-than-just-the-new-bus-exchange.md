@@ -1,9 +1,13 @@
 ---
 slug: christchurch-needs-more-than-just-the-new-bus-exchange
-title: "Christchurch needs more than just the new Bus Exchange"
-date: 2015-10-29
-source-url: https://www.scoop.co.nz/stories/PA1510/S00509/christchurch-needs-more-than-just-the-new-bus-exchange.htm
+title: Christchurch needs more than just the new Bus Exchange
+date: 2015-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00509/christchurch-needs-more-than-just-the-new-bus-exchange.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/29/christchurch-needs-more-than-just-the-new-bus-exchange/index.html
+layout: layout.njk
 ---
 Christchurch needs more than just the new Bus Exchange
 ======================================================

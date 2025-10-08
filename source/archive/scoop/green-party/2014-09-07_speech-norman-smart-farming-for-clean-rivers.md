@@ -1,9 +1,12 @@
 ---
 slug: speech-norman-smart-farming-for-clean-rivers
-title: "Speech: Norman - Smart Farming for Clean Rivers"
-date: 2014-09-07
-source-url: https://www.scoop.co.nz/stories/PA1409/S00103/speech-norman-smart-farming-for-clean-rivers.htm
+title: 'Speech: Norman - Smart Farming for Clean Rivers'
+date: 2014-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00103/speech-norman-smart-farming-for-clean-rivers.htm
 author: green-party
+permalink: /archive/2014/09/07/speech-norman-smart-farming-for-clean-rivers/index.html
+layout: layout.njk
 ---
 Speech: Norman - Smart Farming for Clean Rivers
 ===============================================

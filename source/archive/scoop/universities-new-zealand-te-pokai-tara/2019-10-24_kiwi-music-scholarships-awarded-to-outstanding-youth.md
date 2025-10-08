@@ -1,9 +1,13 @@
 ---
 slug: kiwi-music-scholarships-awarded-to-outstanding-youth
-title: "Kiwi Music scholarships awarded to outstanding youth"
-date: 2019-10-24
-source-url: https://www.scoop.co.nz/stories/ED1910/S00053/kiwi-music-scholarships-awarded-to-outstanding-youth.htm
+title: Kiwi Music scholarships awarded to outstanding youth
+date: 2019-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00053/kiwi-music-scholarships-awarded-to-outstanding-youth.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2019/10/24/kiwi-music-scholarships-awarded-to-outstanding-youth/index.html
+layout: layout.njk
 ---
 Kiwi Music scholarships awarded to outstanding youth
 ====================================================

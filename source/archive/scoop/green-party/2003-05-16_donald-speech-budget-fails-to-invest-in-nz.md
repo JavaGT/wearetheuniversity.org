@@ -1,9 +1,12 @@
 ---
 slug: donald-speech-budget-fails-to-invest-in-nz
-title: "Donald Speech - Budget fails to invest in NZ"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/PA0305/S00449/donald-speech-budget-fails-to-invest-in-nz.htm
+title: Donald Speech - Budget fails to invest in NZ
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00449/donald-speech-budget-fails-to-invest-in-nz.htm
 author: green-party
+permalink: /archive/2003/05/16/donald-speech-budget-fails-to-invest-in-nz/index.html
+layout: layout.njk
 ---
 Donald Speech - Budget fails to invest in NZ
 ============================================

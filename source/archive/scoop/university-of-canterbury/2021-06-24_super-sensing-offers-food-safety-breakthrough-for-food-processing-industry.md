@@ -1,9 +1,13 @@
 ---
 slug: super-sensing-offers-food-safety-breakthrough-for-food-processing-industry
-title: "Super-sensing Offers Food Safety Breakthrough For Food Processing Industry"
-date: 2021-06-24
-source-url: https://www.scoop.co.nz/stories/ED2106/S00044/super-sensing-offers-food-safety-breakthrough-for-food-processing-industry.htm
+title: Super-sensing Offers Food Safety Breakthrough For Food Processing Industry
+date: 2021-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00044/super-sensing-offers-food-safety-breakthrough-for-food-processing-industry.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/24/super-sensing-offers-food-safety-breakthrough-for-food-processing-industry/index.html
+layout: layout.njk
 ---
 Super-sensing Offers Food Safety Breakthrough For Food Processing Industry
 ==========================================================================

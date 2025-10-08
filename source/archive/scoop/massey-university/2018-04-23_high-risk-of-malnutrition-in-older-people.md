@@ -1,9 +1,12 @@
 ---
 slug: high-risk-of-malnutrition-in-older-people
-title: "High risk of malnutrition in older people"
-date: 2018-04-23
-source-url: https://www.scoop.co.nz/stories/GE1804/S00075/high-risk-of-malnutrition-in-older-people.htm
+title: High risk of malnutrition in older people
+date: 2018-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00075/high-risk-of-malnutrition-in-older-people.htm
 author: massey-university
+permalink: /archive/2018/04/23/high-risk-of-malnutrition-in-older-people/index.html
+layout: layout.njk
 ---
 High risk of malnutrition in older people
 =========================================

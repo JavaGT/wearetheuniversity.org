@@ -1,9 +1,11 @@
 ---
 slug: a-welfare-system-gone-wrong
-title: "A Welfare System Gone Wrong"
-date: 2004-02-19
+title: A Welfare System Gone Wrong
+date: 2004-02-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0402/S00310/a-welfare-system-gone-wrong.htm
 author: act-new-zealand
+permalink: /archive/2004/02/19/a-welfare-system-gone-wrong/index.html
+layout: layout.njk
 ---
 A Welfare System Gone Wrong
 ===========================

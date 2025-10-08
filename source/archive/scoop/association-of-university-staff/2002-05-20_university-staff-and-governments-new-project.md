@@ -1,9 +1,12 @@
 ---
 slug: university-staff-and-governments-new-project
-title: "University staff and Government's new project"
-date: 2002-05-20
-source-url: https://www.scoop.co.nz/stories/ED0205/S00033/university-staff-and-governments-new-project.htm
+title: University staff and Government's new project
+date: 2002-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00033/university-staff-and-governments-new-project.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/20/university-staff-and-governments-new-project/index.html
+layout: layout.njk
 ---
 University staff and Government's new project
 =============================================

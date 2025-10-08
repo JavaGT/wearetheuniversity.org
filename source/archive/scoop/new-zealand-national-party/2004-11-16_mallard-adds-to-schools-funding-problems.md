@@ -1,9 +1,12 @@
 ---
 slug: mallard-adds-to-schools-funding-problems
-title: "Mallard adds to schools' funding problems"
-date: 2004-11-16
-source-url: https://www.scoop.co.nz/stories/ED0411/S00054/mallard-adds-to-schools-funding-problems.htm
+title: Mallard adds to schools' funding problems
+date: 2004-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00054/mallard-adds-to-schools-funding-problems.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/16/mallard-adds-to-schools-funding-problems/index.html
+layout: layout.njk
 ---
 Mallard adds to schools' funding problems
 =========================================

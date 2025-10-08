@@ -1,9 +1,12 @@
 ---
 slug: medical-student-fee-rise-is-deplorable
-title: "Medical Student Fee Rise Is Deplorable"
-date: 2004-12-17
-source-url: https://www.scoop.co.nz/stories/PA0412/S00465/medical-student-fee-rise-is-deplorable.htm
+title: Medical Student Fee Rise Is Deplorable
+date: 2004-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00465/medical-student-fee-rise-is-deplorable.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/17/medical-student-fee-rise-is-deplorable/index.html
+layout: layout.njk
 ---
 Medical Student Fee Rise Is Deplorable
 ======================================

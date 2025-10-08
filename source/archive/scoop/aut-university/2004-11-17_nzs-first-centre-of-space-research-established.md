@@ -1,9 +1,12 @@
 ---
 slug: nzs-first-centre-of-space-research-established
-title: "NZ's First Centre of Space Research Established"
-date: 2004-11-17
-source-url: https://www.scoop.co.nz/stories/ED0411/S00058/nzs-first-centre-of-space-research-established.htm
+title: NZ's First Centre of Space Research Established
+date: 2004-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00058/nzs-first-centre-of-space-research-established.htm
 author: aut-university
+permalink: /archive/2004/11/17/nzs-first-centre-of-space-research-established/index.html
+layout: layout.njk
 ---
 NZ's First Centre of Space Research Established
 ===============================================

@@ -1,9 +1,11 @@
 ---
 slug: eco-bling-not-enough
-title: "Eco bling not enough"
-date: 2011-04-07
+title: Eco bling not enough
+date: 2011-04-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1104/S00017/eco-bling-not-enough.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/04/07/eco-bling-not-enough/index.html
+layout: layout.njk
 ---
 Eco bling not enough
 ====================

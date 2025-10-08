@@ -1,9 +1,11 @@
 ---
 slug: student-debts-getting-bigger
-title: "Student debts getting bigger"
-date: 2004-10-19
+title: Student debts getting bigger
+date: 2004-10-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0410/S00075/student-debts-getting-bigger.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/10/19/student-debts-getting-bigger/index.html
+layout: layout.njk
 ---
 Student debts getting bigger
 ============================

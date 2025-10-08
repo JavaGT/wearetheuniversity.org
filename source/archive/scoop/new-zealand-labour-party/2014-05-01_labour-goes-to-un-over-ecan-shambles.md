@@ -1,9 +1,12 @@
 ---
 slug: labour-goes-to-un-over-ecan-shambles
-title: "Labour goes to UN over ECan shambles"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/PA1405/S00002/labour-goes-to-un-over-ecan-shambles.htm
+title: Labour goes to UN over ECan shambles
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00002/labour-goes-to-un-over-ecan-shambles.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/01/labour-goes-to-un-over-ecan-shambles/index.html
+layout: layout.njk
 ---
 Labour goes to UN over ECan shambles
 ====================================

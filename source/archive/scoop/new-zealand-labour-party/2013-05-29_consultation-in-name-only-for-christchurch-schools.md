@@ -1,9 +1,13 @@
 ---
 slug: consultation-in-name-only-for-christchurch-schools
-title: "Consultation in name only for Christchurch schools"
-date: 2013-05-29
-source-url: https://www.scoop.co.nz/stories/PA1305/S00576/consultation-in-name-only-for-christchurch-schools.htm
+title: Consultation in name only for Christchurch schools
+date: 2013-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00576/consultation-in-name-only-for-christchurch-schools.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/05/29/consultation-in-name-only-for-christchurch-schools/index.html
+layout: layout.njk
 ---
 Consultation in name only for Christchurch schools
 ==================================================

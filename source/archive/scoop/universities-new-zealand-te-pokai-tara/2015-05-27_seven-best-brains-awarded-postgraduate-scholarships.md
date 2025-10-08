@@ -1,9 +1,13 @@
 ---
 slug: seven-best-brains-awarded-postgraduate-scholarships
-title: "Seven \"best brains\" awarded postgraduate scholarships"
-date: 2015-05-27
-source-url: https://www.scoop.co.nz/stories/ED1505/S00099/seven-best-brains-awarded-postgraduate-scholarships.htm
+title: Seven "best brains" awarded postgraduate scholarships
+date: 2015-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00099/seven-best-brains-awarded-postgraduate-scholarships.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/05/27/seven-best-brains-awarded-postgraduate-scholarships/index.html
+layout: layout.njk
 ---
 Seven “best brains” awarded postgraduate scholarships
 =====================================================

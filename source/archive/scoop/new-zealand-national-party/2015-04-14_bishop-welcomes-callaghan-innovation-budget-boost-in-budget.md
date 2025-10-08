@@ -1,9 +1,13 @@
 ---
 slug: bishop-welcomes-callaghan-innovation-budget-boost-in-budget
-title: "Bishop welcomes Callaghan Innovation budget boost in Budget"
-date: 2015-04-14
-source-url: https://www.scoop.co.nz/stories/PA1504/S00161/bishop-welcomes-callaghan-innovation-budget-boost-in-budget.htm
+title: Bishop welcomes Callaghan Innovation budget boost in Budget
+date: 2015-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00161/bishop-welcomes-callaghan-innovation-budget-boost-in-budget.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/04/14/bishop-welcomes-callaghan-innovation-budget-boost-in-budget/index.html
+layout: layout.njk
 ---
 Bishop welcomes Callaghan Innovation budget boost in Budget
 ===========================================================

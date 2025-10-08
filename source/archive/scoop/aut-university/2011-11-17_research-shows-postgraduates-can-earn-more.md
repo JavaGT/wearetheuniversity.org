@@ -1,9 +1,12 @@
 ---
 slug: research-shows-postgraduates-can-earn-more
-title: "Research shows postgraduates can earn more"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/ED1111/S00118/research-shows-postgraduates-can-earn-more.htm
+title: Research shows postgraduates can earn more
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00118/research-shows-postgraduates-can-earn-more.htm
 author: aut-university
+permalink: /archive/2011/11/17/research-shows-postgraduates-can-earn-more/index.html
+layout: layout.njk
 ---
 Research shows postgraduates can earn more
 ==========================================

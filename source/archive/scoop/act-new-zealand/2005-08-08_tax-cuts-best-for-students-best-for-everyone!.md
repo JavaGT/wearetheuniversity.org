@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-best-for-students-best-for-everyone!
-title: "Tax Cuts Best for Students – Best For Everyone!"
-date: 2005-08-08
-source-url: https://www.scoop.co.nz/stories/PA0508/S00202/tax-cuts-best-for-students-best-for-everyone.htm
+title: Tax Cuts Best for Students – Best For Everyone!
+date: 2005-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00202/tax-cuts-best-for-students-best-for-everyone.htm
 author: act-new-zealand
+permalink: /archive/2005/08/08/tax-cuts-best-for-students-best-for-everyone/index.html
+layout: layout.njk
 ---
 Tax Cuts Best for Students – Best For Everyone!
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: lifetime-achiever-generous-of-investment-in-whanau-ora
-title: "Lifetime Achiever Generous of Investment in Whanau Ora"
-date: 2014-09-14
-source-url: https://www.scoop.co.nz/stories/PO1409/S00323/lifetime-achiever-generous-of-investment-in-whanau-ora.htm
+title: Lifetime Achiever Generous of Investment in Whanau Ora
+date: 2014-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00323/lifetime-achiever-generous-of-investment-in-whanau-ora.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/09/14/lifetime-achiever-generous-of-investment-in-whanau-ora/index.html
+layout: layout.njk
 ---
 Lifetime Achiever Generous of Investment in Whanau Ora
 ======================================================

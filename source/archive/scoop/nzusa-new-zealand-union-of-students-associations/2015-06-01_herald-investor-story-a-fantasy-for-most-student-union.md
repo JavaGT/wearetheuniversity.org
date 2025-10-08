@@ -1,9 +1,13 @@
 ---
 slug: herald-investor-story-a-fantasy-for-most-student-union
-title: "Herald investor story a fantasy for most – student union"
-date: 2015-06-01
-source-url: https://www.scoop.co.nz/stories/PO1506/S00003/herald-investor-story-a-fantasy-for-most-student-union.htm
+title: Herald investor story a fantasy for most – student union
+date: 2015-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1506/S00003/herald-investor-story-a-fantasy-for-most-student-union.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/06/01/herald-investor-story-a-fantasy-for-most-student-union/index.html
+layout: layout.njk
 ---
 Herald investor story a fantasy for most – student union
 ========================================================

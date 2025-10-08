@@ -1,9 +1,12 @@
 ---
 slug: call-for-gambling-harm-bill-renewed
-title: "Call for Gambling Harm Bill renewed"
-date: 2011-08-25
-source-url: https://www.scoop.co.nz/stories/PA1108/S00502/call-for-gambling-harm-bill-renewed.htm
+title: Call for Gambling Harm Bill renewed
+date: 2011-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00502/call-for-gambling-harm-bill-renewed.htm
 author: te-pati-maori
+permalink: /archive/2011/08/25/call-for-gambling-harm-bill-renewed/index.html
+layout: layout.njk
 ---
 Call for Gambling Harm Bill renewed
 ===================================

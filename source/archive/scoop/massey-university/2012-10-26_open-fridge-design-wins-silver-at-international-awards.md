@@ -1,9 +1,13 @@
 ---
 slug: open-fridge-design-wins-silver-at-international-awards
-title: "Open fridge design wins silver at international awards"
-date: 2012-10-26
-source-url: https://www.scoop.co.nz/stories/BU1210/S01058/open-fridge-design-wins-silver-at-international-awards.htm
+title: Open fridge design wins silver at international awards
+date: 2012-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S01058/open-fridge-design-wins-silver-at-international-awards.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/26/open-fridge-design-wins-silver-at-international-awards/index.html
+layout: layout.njk
 ---
 Open fridge design wins silver at international awards
 ======================================================

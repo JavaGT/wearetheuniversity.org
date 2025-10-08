@@ -1,9 +1,11 @@
 ---
 slug: end-ethnic-precincts-peters
-title: "End ‘Ethnic Precincts’ – Peters"
-date: 2012-05-15
+title: End ‘Ethnic Precincts’ – Peters
+date: 2012-05-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1205/S00247/end-ethnic-precincts-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/15/end-ethnic-precincts-peters/index.html
+layout: layout.njk
 ---
 End ‘Ethnic Precincts’ – Peters
 ===============================

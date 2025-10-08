@@ -1,9 +1,13 @@
 ---
 slug: action-on-climate-change-policy-falls-well-short
-title: "Action on climate change policy falls well short"
-date: 2011-11-04
-source-url: https://www.scoop.co.nz/stories/PO1111/S00110/action-on-climate-change-policy-falls-well-short.htm
+title: Action on climate change policy falls well short
+date: 2011-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00110/action-on-climate-change-policy-falls-well-short.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/04/action-on-climate-change-policy-falls-well-short/index.html
+layout: layout.njk
 ---
 Action on climate change policy falls well short
 ================================================

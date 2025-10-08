@@ -1,9 +1,12 @@
 ---
 slug: labour-lets-down-domestic-violence-victims
-title: "Labour lets down domestic violence victims"
-date: 2008-03-12
-source-url: https://www.scoop.co.nz/stories/PA0803/S00211/labour-lets-down-domestic-violence-victims.htm
+title: Labour lets down domestic violence victims
+date: 2008-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0803/S00211/labour-lets-down-domestic-violence-victims.htm
 author: new-zealand-national-party
+permalink: /archive/2008/03/12/labour-lets-down-domestic-violence-victims/index.html
+layout: layout.njk
 ---
 Labour lets down domestic violence victims
 ==========================================

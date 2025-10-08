@@ -1,9 +1,12 @@
 ---
 slug: dna-packaging-proteins-and-cancer-development
-title: "DNA-packaging proteins and cancer development"
-date: 2018-09-27
-source-url: https://www.scoop.co.nz/stories/SC1809/S00043/dna-packaging-proteins-and-cancer-development.htm
+title: DNA-packaging proteins and cancer development
+date: 2018-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1809/S00043/dna-packaging-proteins-and-cancer-development.htm
 author: university-of-otago
+permalink: /archive/2018/09/27/dna-packaging-proteins-and-cancer-development/index.html
+layout: layout.njk
 ---
 DNA-packaging proteins and cancer development
 =============================================

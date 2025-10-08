@@ -1,9 +1,12 @@
 ---
 slug: british-junk-food-rules-an-example-to-follow
-title: "British junk food rules an example to follow"
-date: 2006-05-22
-source-url: https://www.scoop.co.nz/stories/PA0605/S00513/british-junk-food-rules-an-example-to-follow.htm
+title: British junk food rules an example to follow
+date: 2006-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00513/british-junk-food-rules-an-example-to-follow.htm
 author: green-party
+permalink: /archive/2006/05/22/british-junk-food-rules-an-example-to-follow/index.html
+layout: layout.njk
 ---
 British junk food rules an example to follow
 ============================================

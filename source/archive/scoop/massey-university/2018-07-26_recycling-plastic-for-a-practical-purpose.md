@@ -1,9 +1,12 @@
 ---
 slug: recycling-plastic-for-a-practical-purpose
-title: "Recycling plastic for a practical purpose"
-date: 2018-07-26
-source-url: https://www.scoop.co.nz/stories/ED1807/S00062/recycling-plastic-for-a-practical-purpose.htm
+title: Recycling plastic for a practical purpose
+date: 2018-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00062/recycling-plastic-for-a-practical-purpose.htm
 author: massey-university
+permalink: /archive/2018/07/26/recycling-plastic-for-a-practical-purpose/index.html
+layout: layout.njk
 ---
 Recycling plastic for a practical purpose
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: camera-policy-nothing-but-revenue-seeking-ploy
-title: "Camera Policy Nothing But Revenue Seeking Ploy"
-date: 2000-07-01
-source-url: https://www.scoop.co.nz/stories/PA0007/S00001/camera-policy-nothing-but-revenue-seeking-ploy.htm
+title: Camera Policy Nothing But Revenue Seeking Ploy
+date: 2000-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00001/camera-policy-nothing-but-revenue-seeking-ploy.htm
 author: act-new-zealand
+permalink: /archive/2000/07/01/camera-policy-nothing-but-revenue-seeking-ploy/index.html
+layout: layout.njk
 ---
 Camera Policy Nothing But Revenue Seeking Ploy
 ==============================================

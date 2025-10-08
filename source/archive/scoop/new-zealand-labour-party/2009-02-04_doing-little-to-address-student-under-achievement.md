@@ -1,9 +1,13 @@
 ---
 slug: doing-little-to-address-student-under-achievement
-title: "Doing little to address student under-achievement"
-date: 2009-02-04
-source-url: https://www.scoop.co.nz/stories/PA0902/S00059/doing-little-to-address-student-under-achievement.htm
+title: Doing little to address student under-achievement
+date: 2009-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00059/doing-little-to-address-student-under-achievement.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/02/04/doing-little-to-address-student-under-achievement/index.html
+layout: layout.njk
 ---
 Doing little to address student under-achievement
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: climate-change-policy-under-the-spotlight
-title: "Climate change policy under the spotlight"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/ED0609/S00010/climate-change-policy-under-the-spotlight.htm
+title: Climate change policy under the spotlight
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00010/climate-change-policy-under-the-spotlight.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/04/climate-change-policy-under-the-spotlight/index.html
+layout: layout.njk
 ---
 Climate change policy under the spotlight
 =========================================

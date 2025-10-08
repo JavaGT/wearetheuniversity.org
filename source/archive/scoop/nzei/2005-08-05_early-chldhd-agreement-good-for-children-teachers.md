@@ -1,9 +1,13 @@
 ---
 slug: early-chldhd-agreement-good-for-children-teachers
-title: "Early Chldhd Agreement Good For Children, Teachers"
-date: 2005-08-05
-source-url: https://www.scoop.co.nz/stories/ED0508/S00030/early-chldhd-agreement-good-for-children-teachers.htm
+title: Early Chldhd Agreement Good For Children, Teachers
+date: 2005-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00030/early-chldhd-agreement-good-for-children-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2005/08/05/early-chldhd-agreement-good-for-children-teachers/index.html
+layout: layout.njk
 ---
 Early Chldhd Agreement Good For Children, Teachers
 ==================================================

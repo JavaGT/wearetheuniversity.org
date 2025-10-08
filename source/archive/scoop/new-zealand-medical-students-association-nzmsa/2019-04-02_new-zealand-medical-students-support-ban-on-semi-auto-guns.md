@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-medical-students-support-ban-on-semi-auto-guns
-title: "New Zealand Medical Students Support Ban on Semi-Auto Guns"
-date: 2019-04-02
-source-url: https://www.scoop.co.nz/stories/PO1904/S00026/new-zealand-medical-students-support-ban-on-semi-auto-guns.htm
+title: New Zealand Medical Students Support Ban on Semi-Auto Guns
+date: 2019-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1904/S00026/new-zealand-medical-students-support-ban-on-semi-auto-guns.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2019/04/02/new-zealand-medical-students-support-ban-on-semi-auto-guns/index.html
+layout: layout.njk
 ---
 New Zealand Medical Students Support Ban on Semi-Auto Guns
 ==========================================================

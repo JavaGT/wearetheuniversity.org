@@ -1,9 +1,13 @@
 ---
 slug: fewer-sheep-and-more-trees-outcome-of-freshwater-proposals
-title: "Fewer sheep and more trees outcome of freshwater proposals"
-date: 2019-09-12
-source-url: https://www.scoop.co.nz/stories/PA1909/S00094/fewer-sheep-and-more-trees-outcome-of-freshwater-proposals.htm
+title: Fewer sheep and more trees outcome of freshwater proposals
+date: 2019-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00094/fewer-sheep-and-more-trees-outcome-of-freshwater-proposals.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/12/fewer-sheep-and-more-trees-outcome-of-freshwater-proposals/index.html
+layout: layout.njk
 ---
 Fewer sheep and more trees outcome of freshwater proposals
 ==========================================================

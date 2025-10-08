@@ -1,9 +1,12 @@
 ---
 slug: students-fear-another-winz-debacle
-title: "Students Fear Another WINZ Debacle"
-date: 2000-02-08
-source-url: https://www.scoop.co.nz/stories/ED0002/S00005/students-fear-another-winz-debacle.htm
+title: Students Fear Another WINZ Debacle
+date: 2000-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00005/students-fear-another-winz-debacle.htm
 author: victoria-university-students-association
+permalink: /archive/2000/02/08/students-fear-another-winz-debacle/index.html
+layout: layout.njk
 ---
 Students Fear Another WINZ Debacle
 ==================================

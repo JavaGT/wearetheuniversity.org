@@ -1,9 +1,12 @@
 ---
 slug: soccer-match-a-community-get-together
-title: "Soccer Match a Community Get Together"
-date: 2009-06-19
-source-url: https://www.scoop.co.nz/stories/PA0906/S00262/soccer-match-a-community-get-together.htm
+title: Soccer Match a Community Get Together
+date: 2009-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00262/soccer-match-a-community-get-together.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/19/soccer-match-a-community-get-together/index.html
+layout: layout.njk
 ---
 Soccer Match a Community Get Together
 =====================================

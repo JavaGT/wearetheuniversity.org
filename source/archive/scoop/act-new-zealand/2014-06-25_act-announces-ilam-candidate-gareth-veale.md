@@ -1,9 +1,12 @@
 ---
 slug: act-announces-ilam-candidate-gareth-veale
-title: "ACT announces Ilam candidate Gareth Veale"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/PA1406/S00396/act-announces-ilam-candidate-gareth-veale.htm
+title: ACT announces Ilam candidate Gareth Veale
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00396/act-announces-ilam-candidate-gareth-veale.htm
 author: act-new-zealand
+permalink: /archive/2014/06/25/act-announces-ilam-candidate-gareth-veale/index.html
+layout: layout.njk
 ---
 ACT announces Ilam candidate Gareth Veale
 =========================================

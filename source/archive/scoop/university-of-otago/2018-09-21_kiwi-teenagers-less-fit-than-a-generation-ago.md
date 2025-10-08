@@ -1,9 +1,12 @@
 ---
 slug: kiwi-teenagers-less-fit-than-a-generation-ago
-title: "Kiwi teenagers less fit than a generation ago"
-date: 2018-09-21
-source-url: https://www.scoop.co.nz/stories/GE1809/S00073/kiwi-teenagers-less-fit-than-a-generation-ago.htm
+title: Kiwi teenagers less fit than a generation ago
+date: 2018-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00073/kiwi-teenagers-less-fit-than-a-generation-ago.htm
 author: university-of-otago
+permalink: /archive/2018/09/21/kiwi-teenagers-less-fit-than-a-generation-ago/index.html
+layout: layout.njk
 ---
 Kiwi teenagers less fit than a generation ago
 =============================================

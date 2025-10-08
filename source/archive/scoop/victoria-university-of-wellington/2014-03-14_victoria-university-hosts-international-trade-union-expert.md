@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-hosts-international-trade-union-expert
-title: "Victoria University hosts international trade union expert"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/ED1403/S00082/victoria-university-hosts-international-trade-union-expert.htm
+title: Victoria University hosts international trade union expert
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00082/victoria-university-hosts-international-trade-union-expert.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/03/14/victoria-university-hosts-international-trade-union-expert/index.html
+layout: layout.njk
 ---
 Victoria University hosts international trade union expert
 ==========================================================

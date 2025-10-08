@@ -1,9 +1,13 @@
 ---
 slug: labours-economic-pathway-more-progressive-more-prudent
-title: "Labour’s economic pathway more progressive, more prudent"
-date: 2010-11-25
-source-url: https://www.scoop.co.nz/stories/PA1011/S00523/labours-economic-pathway-more-progressive-more-prudent.htm
+title: Labour’s economic pathway more progressive, more prudent
+date: 2010-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00523/labours-economic-pathway-more-progressive-more-prudent.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/11/25/labours-economic-pathway-more-progressive-more-prudent/index.html
+layout: layout.njk
 ---
 Labour’s economic pathway more progressive, more prudent
 ========================================================

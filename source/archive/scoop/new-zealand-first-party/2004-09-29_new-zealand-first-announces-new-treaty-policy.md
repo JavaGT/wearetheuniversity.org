@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-announces-new-treaty-policy
-title: "New Zealand First Announces New Treaty Policy"
-date: 2004-09-29
-source-url: https://www.scoop.co.nz/stories/PA0409/S00580/new-zealand-first-announces-new-treaty-policy.htm
+title: New Zealand First Announces New Treaty Policy
+date: 2004-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00580/new-zealand-first-announces-new-treaty-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2004/09/29/new-zealand-first-announces-new-treaty-policy/index.html
+layout: layout.njk
 ---
 New Zealand First Announces New Treaty Policy
 =============================================

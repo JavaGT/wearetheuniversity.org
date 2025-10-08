@@ -1,9 +1,12 @@
 ---
 slug: action-needed-on-dodgy-tourist-tax-websites
-title: "Action needed on dodgy tourist tax websites"
-date: 2019-10-14
-source-url: https://www.scoop.co.nz/stories/PA1910/S00094/action-needed-on-dodgy-tourist-tax-websites.htm
+title: Action needed on dodgy tourist tax websites
+date: 2019-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00094/action-needed-on-dodgy-tourist-tax-websites.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/14/action-needed-on-dodgy-tourist-tax-websites/index.html
+layout: layout.njk
 ---
 Action needed on dodgy tourist tax websites
 ===========================================

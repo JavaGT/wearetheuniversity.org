@@ -1,9 +1,12 @@
 ---
 slug: new-director-of-external-relations-appointed
-title: "New director of external relations appointed"
-date: 2008-10-09
-source-url: https://www.scoop.co.nz/stories/BU0810/S00188/new-director-of-external-relations-appointed.htm
+title: New director of external relations appointed
+date: 2008-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0810/S00188/new-director-of-external-relations-appointed.htm
 author: massey-university
+permalink: /archive/2008/10/09/new-director-of-external-relations-appointed/index.html
+layout: layout.njk
 ---
 New director of external relations appointed
 ============================================

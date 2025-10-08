@@ -1,9 +1,13 @@
 ---
 slug: key-should-appoint-new-minister-after-salisbury-consultation
-title: "Key should appoint new Minister after Salisbury consultation"
-date: 2013-02-14
-source-url: https://www.scoop.co.nz/stories/PA1302/S00188/key-should-appoint-new-minister-after-salisbury-consultation.htm
+title: Key should appoint new Minister after Salisbury consultation
+date: 2013-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00188/key-should-appoint-new-minister-after-salisbury-consultation.htm
 author: green-party
+permalink: >-
+  /archive/2013/02/14/key-should-appoint-new-minister-after-salisbury-consultation/index.html
+layout: layout.njk
 ---
 Key should appoint new Minister after Salisbury consultation
 ============================================================

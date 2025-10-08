@@ -1,9 +1,11 @@
 ---
 slug: wheres-the-rest-don
-title: "Where’s the rest, Don?"
-date: 2005-07-22
+title: Where’s the rest, Don?
+date: 2005-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0507/S00087/wheres-the-rest-don.htm
 author: auckland-university-students-association
+permalink: /archive/2005/07/22/wheres-the-rest-don/index.html
+layout: layout.njk
 ---
 Where’s the rest, Don?
 ======================

@@ -1,9 +1,13 @@
 ---
 slug: govts-tourism-fund-will-help-less-than-1-per-cent-of-businesses
-title: "Govt’s Tourism Fund Will Help Less Than 1 Per Cent Of Businesses"
-date: 2020-06-16
-source-url: https://www.scoop.co.nz/stories/PA2006/S00140/govts-tourism-fund-will-help-less-than-1-per-cent-of-businesses.htm
+title: Govt’s Tourism Fund Will Help Less Than 1 Per Cent Of Businesses
+date: 2020-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00140/govts-tourism-fund-will-help-less-than-1-per-cent-of-businesses.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/06/16/govts-tourism-fund-will-help-less-than-1-per-cent-of-businesses/index.html
+layout: layout.njk
 ---
 Govt’s Tourism Fund Will Help Less Than 1 Per Cent Of Businesses
 ================================================================

@@ -1,9 +1,12 @@
 ---
 slug: forcing-through-assets-sales-may-cost-millions
-title: "Forcing through assets sales may cost millions"
-date: 2012-07-17
-source-url: https://www.scoop.co.nz/stories/PA1207/S00194/forcing-through-assets-sales-may-cost-millions.htm
+title: Forcing through assets sales may cost millions
+date: 2012-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00194/forcing-through-assets-sales-may-cost-millions.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/17/forcing-through-assets-sales-may-cost-millions/index.html
+layout: layout.njk
 ---
 Forcing through assets sales may cost millions
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: government-targets-put-ahead-of-students-education
-title: "Government targets put ahead of students’ education"
-date: 2015-08-25
-source-url: https://www.scoop.co.nz/stories/PA1508/S00425/government-targets-put-ahead-of-students-education.htm
+title: Government targets put ahead of students’ education
+date: 2015-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00425/government-targets-put-ahead-of-students-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/25/government-targets-put-ahead-of-students-education/index.html
+layout: layout.njk
 ---
 Government targets put ahead of students’ education
 ===================================================

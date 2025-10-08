@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-will-see-pay-packet-increase
-title: "School Support Staff Will See Pay Packet Increase"
-date: 2010-03-22
-source-url: https://www.scoop.co.nz/stories/ED1003/S00096/school-support-staff-will-see-pay-packet-increase.htm
+title: School Support Staff Will See Pay Packet Increase
+date: 2010-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00096/school-support-staff-will-see-pay-packet-increase.htm
 author: nzei
+permalink: >-
+  /archive/2010/03/22/school-support-staff-will-see-pay-packet-increase/index.html
+layout: layout.njk
 ---
 School Support Staff Will See Pay Packet Increase
 =================================================

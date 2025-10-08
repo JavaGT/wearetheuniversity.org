@@ -1,9 +1,13 @@
 ---
 slug: nz-first-marks-world-teachers-day-with-visit-to-christchurch
-title: "NZ First Marks World Teachers Day With Visit To Christchurch"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/PA1210/S00441/nz-first-marks-world-teachers-day-with-visit-to-christchurch.htm
+title: NZ First Marks World Teachers Day With Visit To Christchurch
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00441/nz-first-marks-world-teachers-day-with-visit-to-christchurch.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/10/25/nz-first-marks-world-teachers-day-with-visit-to-christchurch/index.html
+layout: layout.njk
 ---
 NZ First Marks World Teachers Day With Visit To Christchurch
 ============================================================

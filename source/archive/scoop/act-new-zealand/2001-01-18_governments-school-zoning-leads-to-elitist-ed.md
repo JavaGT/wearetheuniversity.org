@@ -1,9 +1,12 @@
 ---
 slug: governments-school-zoning-leads-to-elitist-ed
-title: "Government's School Zoning Leads To Elitist Ed"
-date: 2001-01-18
-source-url: https://www.scoop.co.nz/stories/PA0101/S00051/governments-school-zoning-leads-to-elitist-ed.htm
+title: Government's School Zoning Leads To Elitist Ed
+date: 2001-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00051/governments-school-zoning-leads-to-elitist-ed.htm
 author: act-new-zealand
+permalink: /archive/2001/01/18/governments-school-zoning-leads-to-elitist-ed/index.html
+layout: layout.njk
 ---
 Government's School Zoning Leads To Elitist Ed
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: lets-vaccinate-ece-teachers-to-keep-kids-safe
-title: "Let’s vaccinate ECE teachers to keep kids safe"
-date: 2019-09-27
-source-url: https://www.scoop.co.nz/stories/PA1909/S00256/lets-vaccinate-ece-teachers-to-keep-kids-safe.htm
+title: Let’s vaccinate ECE teachers to keep kids safe
+date: 2019-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00256/lets-vaccinate-ece-teachers-to-keep-kids-safe.htm
 author: new-zealand-national-party
+permalink: /archive/2019/09/27/lets-vaccinate-ece-teachers-to-keep-kids-safe/index.html
+layout: layout.njk
 ---
 Let’s vaccinate ECE teachers to keep kids safe
 ==============================================

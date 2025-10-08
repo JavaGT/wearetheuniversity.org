@@ -1,9 +1,12 @@
 ---
 slug: budget-leak-another-humiliation-for-te-pūkenga
-title: "Budget Leak Another Humiliation For Te Pūkenga"
-date: 2023-03-20
-source-url: https://www.scoop.co.nz/stories/PA2303/S00175/budget-leak-another-humiliation-for-te-pukenga.htm
+title: Budget Leak Another Humiliation For Te Pūkenga
+date: 2023-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00175/budget-leak-another-humiliation-for-te-pukenga.htm
 author: new-zealand-national-party
+permalink: /archive/2023/03/20/budget-leak-another-humiliation-for-te-p/index.html
+layout: layout.njk
 ---
 Budget Leak Another Humiliation For Te Pūkenga
 ==============================================

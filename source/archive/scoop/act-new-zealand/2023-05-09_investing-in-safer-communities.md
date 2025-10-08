@@ -1,9 +1,12 @@
 ---
 slug: investing-in-safer-communities
-title: "Investing In Safer Communities"
-date: 2023-05-09
-source-url: https://www.scoop.co.nz/stories/PA2305/S00060/investing-in-safer-communities.htm
+title: Investing In Safer Communities
+date: 2023-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00060/investing-in-safer-communities.htm
 author: act-new-zealand
+permalink: /archive/2023/05/09/investing-in-safer-communities/index.html
+layout: layout.njk
 ---
 Investing In Safer Communities
 ==============================

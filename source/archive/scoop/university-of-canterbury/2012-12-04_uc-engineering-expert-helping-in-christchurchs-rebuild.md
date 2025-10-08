@@ -1,9 +1,13 @@
 ---
 slug: uc-engineering-expert-helping-in-christchurchs-rebuild
-title: "UC engineering expert helping in Christchurch’s rebuild"
-date: 2012-12-04
-source-url: https://www.scoop.co.nz/stories/AK1212/S00042/uc-engineering-expert-helping-in-christchurchs-rebuild.htm
+title: UC engineering expert helping in Christchurch’s rebuild
+date: 2012-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00042/uc-engineering-expert-helping-in-christchurchs-rebuild.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/04/uc-engineering-expert-helping-in-christchurchs-rebuild/index.html
+layout: layout.njk
 ---
 UC engineering expert helping in Christchurch’s rebuild
 =======================================================

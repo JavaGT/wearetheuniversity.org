@@ -1,9 +1,12 @@
 ---
 slug: record-growth-in-union-membership
-title: "Record growth in union membership"
-date: 2006-10-27
-source-url: https://www.scoop.co.nz/stories/PO0610/S00314/record-growth-in-union-membership.htm
+title: Record growth in union membership
+date: 2006-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00314/record-growth-in-union-membership.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/27/record-growth-in-union-membership/index.html
+layout: layout.njk
 ---
 Record growth in union membership
 =================================

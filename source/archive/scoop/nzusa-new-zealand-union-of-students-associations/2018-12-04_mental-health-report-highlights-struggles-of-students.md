@@ -1,9 +1,13 @@
 ---
 slug: mental-health-report-highlights-struggles-of-students
-title: "Mental Health Report highlights struggles of students"
-date: 2018-12-04
-source-url: https://www.scoop.co.nz/stories/GE1812/S00021/mental-health-report-highlights-struggles-of-students.htm
+title: Mental Health Report highlights struggles of students
+date: 2018-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1812/S00021/mental-health-report-highlights-struggles-of-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2018/12/04/mental-health-report-highlights-struggles-of-students/index.html
+layout: layout.njk
 ---
 Mental Health Report highlights struggles of students
 =====================================================

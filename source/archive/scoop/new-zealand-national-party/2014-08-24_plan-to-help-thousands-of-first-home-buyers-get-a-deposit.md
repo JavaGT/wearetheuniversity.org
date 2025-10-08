@@ -1,9 +1,13 @@
 ---
 slug: plan-to-help-thousands-of-first-home-buyers-get-a-deposit
-title: "Plan to help thousands of first home buyers get a deposit"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00371/plan-to-help-thousands-of-first-home-buyers-get-a-deposit.htm
+title: Plan to help thousands of first home buyers get a deposit
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00371/plan-to-help-thousands-of-first-home-buyers-get-a-deposit.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/08/24/plan-to-help-thousands-of-first-home-buyers-get-a-deposit/index.html
+layout: layout.njk
 ---
 Plan to help thousands of first home buyers get a deposit
 =========================================================

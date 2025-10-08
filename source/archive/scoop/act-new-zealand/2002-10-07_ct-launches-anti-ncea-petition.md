@@ -1,9 +1,12 @@
 ---
 slug: ct-launches-anti-ncea-petition
-title: "CT Launches Anti-NCEA Petition"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/PA0210/S00135/ct-launches-anti-ncea-petition.htm
+title: CT Launches Anti-NCEA Petition
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00135/ct-launches-anti-ncea-petition.htm
 author: act-new-zealand
+permalink: /archive/2002/10/07/ct-launches-anti-ncea-petition/index.html
+layout: layout.njk
 ---
 CT Launches Anti-NCEA Petition
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: flavell-immigration-advisors-licensing-bill
-title: "Flavell: Immigration Advisors Licensing Bill"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/PA0703/S00570/flavell-immigration-advisors-licensing-bill.htm
+title: 'Flavell: Immigration Advisors Licensing Bill'
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00570/flavell-immigration-advisors-licensing-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/03/28/flavell-immigration-advisors-licensing-bill/index.html
+layout: layout.njk
 ---
 Flavell: Immigration Advisors Licensing Bill
 ============================================

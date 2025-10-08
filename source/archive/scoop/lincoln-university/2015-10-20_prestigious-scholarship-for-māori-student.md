@@ -1,9 +1,12 @@
 ---
 slug: prestigious-scholarship-for-māori-student
-title: "Prestigious scholarship for Māori student"
-date: 2015-10-20
-source-url: https://www.scoop.co.nz/stories/ED1510/S00103/prestigious-scholarship-for-maori-student.htm
+title: Prestigious scholarship for Māori student
+date: 2015-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00103/prestigious-scholarship-for-maori-student.htm
 author: lincoln-university
+permalink: /archive/2015/10/20/prestigious-scholarship-for-m/index.html
+layout: layout.njk
 ---
 Prestigious scholarship for Māori student
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: nationals-fudge-it-budget-doesnt-fix-it
-title: "National’s fudge-it budget doesn’t fix it"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/PA1405/S00289/nationals-fudge-it-budget-doesnt-fix-it.htm
+title: National’s fudge-it budget doesn’t fix it
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00289/nationals-fudge-it-budget-doesnt-fix-it.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/15/nationals-fudge-it-budget-doesnt-fix-it/index.html
+layout: layout.njk
 ---
 National’s fudge-it budget doesn’t fix it
 =========================================

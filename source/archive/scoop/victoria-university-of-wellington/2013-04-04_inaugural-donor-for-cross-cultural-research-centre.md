@@ -1,9 +1,13 @@
 ---
 slug: inaugural-donor-for-cross-cultural-research-centre
-title: "Inaugural Donor for Cross-cultural Research Centre"
-date: 2013-04-04
-source-url: https://www.scoop.co.nz/stories/ED1304/S00015/inaugural-donor-for-cross-cultural-research-centre.htm
+title: Inaugural Donor for Cross-cultural Research Centre
+date: 2013-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00015/inaugural-donor-for-cross-cultural-research-centre.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/04/inaugural-donor-for-cross-cultural-research-centre/index.html
+layout: layout.njk
 ---
 Inaugural Donor for Cross-cultural Research Centre
 ==================================================

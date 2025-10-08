@@ -1,8 +1,12 @@
 ---
 slug: university-mourns-the-loss-of-acclaimed-photographer-dr-marti-friedlander-cnzm
-title: "University mourns the loss of acclaimed photographer Dr Marti Friedlander CNZM"
-date: 2016-11-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-mourns-the-loss-of-acclaimed-photographer-dr-marti-fr.html
+title: University mourns the loss of acclaimed photographer Dr Marti Friedlander CNZM
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-mourns-the-loss-of-acclaimed-photographer-dr-marti-fr.html
+permalink: >-
+  /archive/2016/11/21/university-mourns-the-loss-of-acclaimed-photographer-dr-marti-friedlander-cnzm/index.html
+layout: layout.njk
 ---
 University mourns the loss of acclaimed photographer Dr Marti Friedlander CNZM
 ==============================================================================

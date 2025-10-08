@@ -1,9 +1,12 @@
 ---
 slug: auditor-general-slates-govt-polytech-reforms
-title: "Auditor-General slates Govt polytech reforms"
-date: 2019-04-10
-source-url: https://www.scoop.co.nz/stories/PA1904/S00092/auditor-general-slates-govt-polytech-reforms.htm
+title: Auditor-General slates Govt polytech reforms
+date: 2019-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00092/auditor-general-slates-govt-polytech-reforms.htm
 author: new-zealand-national-party
+permalink: /archive/2019/04/10/auditor-general-slates-govt-polytech-reforms/index.html
+layout: layout.njk
 ---
 Auditor-General slates Govt polytech reforms
 ============================================

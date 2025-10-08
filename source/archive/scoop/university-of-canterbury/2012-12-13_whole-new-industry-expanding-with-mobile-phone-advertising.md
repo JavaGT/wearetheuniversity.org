@@ -1,9 +1,13 @@
 ---
 slug: whole-new-industry-expanding-with-mobile-phone-advertising
-title: "Whole New Industry Expanding With Mobile Phone Advertising"
-date: 2012-12-13
-source-url: https://www.scoop.co.nz/stories/ED1212/S00093/whole-new-industry-expanding-with-mobile-phone-advertising.htm
+title: Whole New Industry Expanding With Mobile Phone Advertising
+date: 2012-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00093/whole-new-industry-expanding-with-mobile-phone-advertising.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/13/whole-new-industry-expanding-with-mobile-phone-advertising/index.html
+layout: layout.njk
 ---
 Whole New Industry Expanding With Mobile Phone Advertising
 ==========================================================

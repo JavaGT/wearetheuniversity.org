@@ -1,9 +1,13 @@
 ---
 slug: student-entrepreneur-crowdfunds-yak-wool-clothing
-title: "Student entrepreneur crowdfunds yak-wool clothing"
-date: 2016-11-28
-source-url: https://www.scoop.co.nz/stories/BU1611/S01083/student-entrepreneur-crowdfunds-yak-wool-clothing.htm
+title: Student entrepreneur crowdfunds yak-wool clothing
+date: 2016-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1611/S01083/student-entrepreneur-crowdfunds-yak-wool-clothing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/11/28/student-entrepreneur-crowdfunds-yak-wool-clothing/index.html
+layout: layout.njk
 ---
 Student entrepreneur crowdfunds yak-wool clothing
 =================================================

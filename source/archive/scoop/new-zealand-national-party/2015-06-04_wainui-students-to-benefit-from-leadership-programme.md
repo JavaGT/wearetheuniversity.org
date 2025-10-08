@@ -1,9 +1,13 @@
 ---
 slug: wainui-students-to-benefit-from-leadership-programme
-title: "Wainui students to benefit from leadership programme"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00078/wainui-students-to-benefit-from-leadership-programme.htm
+title: Wainui students to benefit from leadership programme
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00078/wainui-students-to-benefit-from-leadership-programme.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/06/04/wainui-students-to-benefit-from-leadership-programme/index.html
+layout: layout.njk
 ---
 Wainui students to benefit from leadership programme
 ====================================================

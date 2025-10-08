@@ -1,9 +1,12 @@
 ---
 slug: nz-first-to-keep-up-the-good-fight
-title: "NZ First To Keep Up The Good Fight"
-date: 2008-11-11
-source-url: https://www.scoop.co.nz/stories/PA0811/S00155/nz-first-to-keep-up-the-good-fight.htm
+title: NZ First To Keep Up The Good Fight
+date: 2008-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00155/nz-first-to-keep-up-the-good-fight.htm
 author: new-zealand-first-party
+permalink: /archive/2008/11/11/nz-first-to-keep-up-the-good-fight/index.html
+layout: layout.njk
 ---
 NZ First To Keep Up The Good Fight
 ==================================

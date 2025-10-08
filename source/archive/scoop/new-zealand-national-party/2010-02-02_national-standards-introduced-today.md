@@ -1,9 +1,12 @@
 ---
 slug: national-standards-introduced-today
-title: "National Standards introduced today"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/PA1002/S00032/national-standards-introduced-today.htm
+title: National Standards introduced today
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00032/national-standards-introduced-today.htm
 author: new-zealand-national-party
+permalink: /archive/2010/02/02/national-standards-introduced-today/index.html
+layout: layout.njk
 ---
 National Standards introduced today
 ===================================

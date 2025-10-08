@@ -1,9 +1,12 @@
 ---
 slug: no-justice-at-all-in-rma-changes
-title: "No justice at all in RMA changes"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/PA0902/S00192/no-justice-at-all-in-rma-changes.htm
+title: No justice at all in RMA changes
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00192/no-justice-at-all-in-rma-changes.htm
 author: green-party
+permalink: /archive/2009/02/12/no-justice-at-all-in-rma-changes/index.html
+layout: layout.njk
 ---
 No justice at all in RMA changes
 ================================

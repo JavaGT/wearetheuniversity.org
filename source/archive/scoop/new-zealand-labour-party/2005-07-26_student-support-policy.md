@@ -1,9 +1,11 @@
 ---
 slug: student-support-policy
-title: "Student Support Policy"
-date: 2005-07-26
+title: Student Support Policy
+date: 2005-07-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00554/student-support-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/07/26/student-support-policy/index.html
+layout: layout.njk
 ---
 Student Support Policy
 ======================

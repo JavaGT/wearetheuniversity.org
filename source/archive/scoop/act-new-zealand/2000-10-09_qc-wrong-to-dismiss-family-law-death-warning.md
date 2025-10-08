@@ -1,9 +1,12 @@
 ---
 slug: qc-wrong-to-dismiss-family-law-death-warning
-title: "QC Wrong To Dismiss Family Law Death Warning"
-date: 2000-10-09
-source-url: https://www.scoop.co.nz/stories/PA0010/S00157/qc-wrong-to-dismiss-family-law-death-warning.htm
+title: QC Wrong To Dismiss Family Law Death Warning
+date: 2000-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00157/qc-wrong-to-dismiss-family-law-death-warning.htm
 author: act-new-zealand
+permalink: /archive/2000/10/09/qc-wrong-to-dismiss-family-law-death-warning/index.html
+layout: layout.njk
 ---
 QC Wrong To Dismiss Family Law Death Warning
 ============================================

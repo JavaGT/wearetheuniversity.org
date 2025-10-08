@@ -1,9 +1,12 @@
 ---
 slug: government-continues-to-fail-maori-in-education
-title: "Government continues to fail Maori in education"
-date: 2007-03-15
-source-url: https://www.scoop.co.nz/stories/PA0703/S00296/government-continues-to-fail-maori-in-education.htm
+title: Government continues to fail Maori in education
+date: 2007-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00296/government-continues-to-fail-maori-in-education.htm
 author: green-party
+permalink: /archive/2007/03/15/government-continues-to-fail-maori-in-education/index.html
+layout: layout.njk
 ---
 Government continues to fail Maori in education
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: how-large-is-the-pro-gun-lobby
-title: "How large is the pro-gun lobby?"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/ED1908/S00036/how-large-is-the-pro-gun-lobby.htm
+title: How large is the pro-gun lobby?
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00036/how-large-is-the-pro-gun-lobby.htm
 author: university-of-otago
+permalink: /archive/2019/08/15/how-large-is-the-pro-gun-lobby/index.html
+layout: layout.njk
 ---
 How large is the pro-gun lobby?
 ===============================

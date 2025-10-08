@@ -1,9 +1,13 @@
 ---
 slug: herlihy-blames-vets-strike-on-union-expectations
-title: "Herlihy blames vets' strike on union expectations"
-date: 2001-02-15
-source-url: https://www.scoop.co.nz/stories/PA0102/S00235/herlihy-blames-vets-strike-on-union-expectations.htm
+title: Herlihy blames vets' strike on union expectations
+date: 2001-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00235/herlihy-blames-vets-strike-on-union-expectations.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/02/15/herlihy-blames-vets-strike-on-union-expectations/index.html
+layout: layout.njk
 ---
 Herlihy blames vets' strike on union expectations
 =================================================

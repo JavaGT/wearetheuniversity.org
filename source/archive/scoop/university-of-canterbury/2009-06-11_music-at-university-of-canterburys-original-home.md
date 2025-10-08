@@ -1,9 +1,13 @@
 ---
 slug: music-at-university-of-canterburys-original-home
-title: "Music at University of Canterbury’s original home"
-date: 2009-06-11
-source-url: https://www.scoop.co.nz/stories/ED0906/S00037/music-at-university-of-canterburys-original-home.htm
+title: Music at University of Canterbury’s original home
+date: 2009-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00037/music-at-university-of-canterburys-original-home.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2009/06/11/music-at-university-of-canterburys-original-home/index.html
+layout: layout.njk
 ---
 Music at University of Canterbury’s original home
 =================================================

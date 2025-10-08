@@ -1,9 +1,12 @@
 ---
 slug: greens-need-to-back-up-commitment
-title: "Greens need to back up commitment"
-date: 2001-04-26
-source-url: https://www.scoop.co.nz/stories/PA0104/S00379/greens-need-to-back-up-commitment.htm
+title: Greens need to back up commitment
+date: 2001-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00379/greens-need-to-back-up-commitment.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/26/greens-need-to-back-up-commitment/index.html
+layout: layout.njk
 ---
 Greens need to back up commitment
 =================================

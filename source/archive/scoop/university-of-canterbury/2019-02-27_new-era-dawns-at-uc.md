@@ -1,9 +1,11 @@
 ---
 slug: new-era-dawns-at-uc
-title: "New era dawns at UC"
-date: 2019-02-27
+title: New era dawns at UC
+date: 2019-02-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1902/S00092/new-era-dawns-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2019/02/27/new-era-dawns-at-uc/index.html
+layout: layout.njk
 ---
 New era dawns at UC
 ===================

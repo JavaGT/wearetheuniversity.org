@@ -1,9 +1,12 @@
 ---
 slug: massey-takes-its-creativity-to-china
-title: "Massey takes its creativity to China"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/ED1506/S00054/massey-takes-its-creativity-to-china.htm
+title: Massey takes its creativity to China
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00054/massey-takes-its-creativity-to-china.htm
 author: massey-university
+permalink: /archive/2015/06/09/massey-takes-its-creativity-to-china/index.html
+layout: layout.njk
 ---
 Massey takes its creativity to China
 ====================================

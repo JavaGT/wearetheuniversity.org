@@ -1,9 +1,13 @@
 ---
 slug: dr-jane-goodall-inspires-canterbury-students-of-all-ages
-title: "Dr Jane Goodall inspires Canterbury students of all ages"
-date: 2017-06-30
-source-url: https://www.scoop.co.nz/stories/AK1706/S00751/dr-jane-goodall-inspires-canterbury-students-of-all-ages.htm
+title: Dr Jane Goodall inspires Canterbury students of all ages
+date: 2017-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1706/S00751/dr-jane-goodall-inspires-canterbury-students-of-all-ages.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/06/30/dr-jane-goodall-inspires-canterbury-students-of-all-ages/index.html
+layout: layout.njk
 ---
 Dr Jane Goodall inspires Canterbury students of all ages
 ========================================================

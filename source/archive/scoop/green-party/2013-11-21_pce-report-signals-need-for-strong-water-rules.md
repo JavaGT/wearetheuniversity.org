@@ -1,9 +1,12 @@
 ---
 slug: pce-report-signals-need-for-strong-water-rules
-title: "PCE report signals need for strong water rules"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/PA1311/S00387/pce-report-signals-need-for-strong-water-rules.htm
+title: PCE report signals need for strong water rules
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00387/pce-report-signals-need-for-strong-water-rules.htm
 author: green-party
+permalink: /archive/2013/11/21/pce-report-signals-need-for-strong-water-rules/index.html
+layout: layout.njk
 ---
 PCE report signals need for strong water rules
 ==============================================

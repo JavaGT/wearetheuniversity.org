@@ -1,9 +1,13 @@
 ---
 slug: agri-food-sector-crucial-for-new-zealanders-wellbeing
-title: "Agri-food sector crucial for New Zealanders’ wellbeing"
-date: 2016-03-21
-source-url: https://www.scoop.co.nz/stories/BU1603/S00692/agri-food-sector-crucial-for-new-zealanders-wellbeing.htm
+title: Agri-food sector crucial for New Zealanders’ wellbeing
+date: 2016-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1603/S00692/agri-food-sector-crucial-for-new-zealanders-wellbeing.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/03/21/agri-food-sector-crucial-for-new-zealanders-wellbeing/index.html
+layout: layout.njk
 ---
 Agri-food sector crucial for New Zealanders’ wellbeing
 ======================================================

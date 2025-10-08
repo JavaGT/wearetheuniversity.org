@@ -1,9 +1,12 @@
 ---
 slug: doubtful-sound-dolphins-in-dire-straits
-title: "Doubtful Sound dolphins in dire straits"
-date: 2007-07-25
-source-url: https://www.scoop.co.nz/stories/PO0707/S00305/doubtful-sound-dolphins-in-dire-straits.htm
+title: Doubtful Sound dolphins in dire straits
+date: 2007-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0707/S00305/doubtful-sound-dolphins-in-dire-straits.htm
 author: green-party
+permalink: /archive/2007/07/25/doubtful-sound-dolphins-in-dire-straits/index.html
+layout: layout.njk
 ---
 Doubtful Sound dolphins in dire straits
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: action-needed-on-firearms-licensing-delays
-title: "Action Needed On Firearms Licensing Delays"
-date: 2022-10-24
-source-url: https://www.scoop.co.nz/stories/PA2210/S00171/action-needed-on-firearms-licensing-delays.htm
+title: Action Needed On Firearms Licensing Delays
+date: 2022-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00171/action-needed-on-firearms-licensing-delays.htm
 author: act-new-zealand
+permalink: /archive/2022/10/24/action-needed-on-firearms-licensing-delays/index.html
+layout: layout.njk
 ---
 Action Needed On Firearms Licensing Delays
 ==========================================

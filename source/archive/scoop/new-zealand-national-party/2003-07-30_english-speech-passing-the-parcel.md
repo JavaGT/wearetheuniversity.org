@@ -1,9 +1,12 @@
 ---
 slug: english-speech-passing-the-parcel
-title: "English Speech: Passing The Parcel"
-date: 2003-07-30
-source-url: https://www.scoop.co.nz/stories/PA0307/S00544/english-speech-passing-the-parcel.htm
+title: 'English Speech: Passing The Parcel'
+date: 2003-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00544/english-speech-passing-the-parcel.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/30/english-speech-passing-the-parcel/index.html
+layout: layout.njk
 ---
 English Speech: Passing The Parcel
 ==================================

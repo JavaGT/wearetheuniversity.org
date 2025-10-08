@@ -1,9 +1,12 @@
 ---
 slug: first-associate-dean-pacific-in-christchurch
-title: "FIRST ASSOCIATE DEAN PACIFIC IN CHRISTCHURCH"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/PO1408/S00128/first-associate-dean-pacific-in-christchurch.htm
+title: FIRST ASSOCIATE DEAN PACIFIC IN CHRISTCHURCH
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00128/first-associate-dean-pacific-in-christchurch.htm
 author: new-zealand-first-party
+permalink: /archive/2014/08/08/first-associate-dean-pacific-in-christchurch/index.html
+layout: layout.njk
 ---
 FIRST ASSOCIATE DEAN PACIFIC IN CHRISTCHURCH
 ============================================

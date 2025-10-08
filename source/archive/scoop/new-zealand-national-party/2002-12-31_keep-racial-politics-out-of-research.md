@@ -1,9 +1,12 @@
 ---
 slug: keep-racial-politics-out-of-research
-title: "Keep racial politics out of research"
-date: 2002-12-31
-source-url: https://www.scoop.co.nz/stories/PA0212/S00590/keep-racial-politics-out-of-research.htm
+title: Keep racial politics out of research
+date: 2002-12-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00590/keep-racial-politics-out-of-research.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/31/keep-racial-politics-out-of-research/index.html
+layout: layout.njk
 ---
 Keep racial politics out of research
 ====================================

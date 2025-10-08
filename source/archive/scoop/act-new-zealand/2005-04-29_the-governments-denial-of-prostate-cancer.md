@@ -1,9 +1,12 @@
 ---
 slug: the-governments-denial-of-prostate-cancer
-title: "The Government’s denial of prostate cancer"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/PA0504/S00612/the-governments-denial-of-prostate-cancer.htm
+title: The Government’s denial of prostate cancer
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00612/the-governments-denial-of-prostate-cancer.htm
 author: act-new-zealand
+permalink: /archive/2005/04/29/the-governments-denial-of-prostate-cancer/index.html
+layout: layout.njk
 ---
 The Government’s denial of prostate cancer
 ==========================================

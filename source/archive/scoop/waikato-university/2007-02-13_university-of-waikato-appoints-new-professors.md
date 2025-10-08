@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-appoints-new-professors
-title: "University of Waikato appoints new professors"
-date: 2007-02-13
-source-url: https://www.scoop.co.nz/stories/ED0702/S00039/university-of-waikato-appoints-new-professors.htm
+title: University of Waikato appoints new professors
+date: 2007-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00039/university-of-waikato-appoints-new-professors.htm
 author: waikato-university
+permalink: /archive/2007/02/13/university-of-waikato-appoints-new-professors/index.html
+layout: layout.njk
 ---
 University of Waikato appoints new professors
 =============================================

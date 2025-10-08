@@ -1,9 +1,12 @@
 ---
 slug: turia-marine-reserves-(consultation)-amendmt-bill
-title: "Turia: Marine Reserves (Consultation) Amendmt Bill"
-date: 2006-05-18
-source-url: https://www.scoop.co.nz/stories/PA0605/S00394/turia-marine-reserves-consultation-amendmt-bill.htm
+title: 'Turia: Marine Reserves (Consultation) Amendmt Bill'
+date: 2006-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00394/turia-marine-reserves-consultation-amendmt-bill.htm
 author: te-pati-maori
+permalink: /archive/2006/05/18/turia-marine-reserves-/index.html
+layout: layout.njk
 ---
 Turia: Marine Reserves (Consultation) Amendmt Bill
 ==================================================

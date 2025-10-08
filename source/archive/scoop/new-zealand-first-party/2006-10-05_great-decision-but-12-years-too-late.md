@@ -1,9 +1,12 @@
 ---
 slug: great-decision-but-12-years-too-late
-title: "Great Decision But 12 Years Too Late"
-date: 2006-10-05
-source-url: https://www.scoop.co.nz/stories/PA0610/S00074/great-decision-but-12-years-too-late.htm
+title: Great Decision But 12 Years Too Late
+date: 2006-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00074/great-decision-but-12-years-too-late.htm
 author: new-zealand-first-party
+permalink: /archive/2006/10/05/great-decision-but-12-years-too-late/index.html
+layout: layout.njk
 ---
 Great Decision But 12 Years Too Late
 ====================================

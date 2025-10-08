@@ -1,9 +1,13 @@
 ---
 slug: bringing-the-world-of-science-to-new-zealands-future-scientists
-title: "Bringing The World Of Science To New Zealand’s Future Scientists"
-date: 2020-08-31
-source-url: https://www.scoop.co.nz/stories/ED2008/S00040/bringing-the-world-of-science-to-new-zealands-future-scientists.htm
+title: Bringing The World Of Science To New Zealand’s Future Scientists
+date: 2020-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2008/S00040/bringing-the-world-of-science-to-new-zealands-future-scientists.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/31/bringing-the-world-of-science-to-new-zealands-future-scientists/index.html
+layout: layout.njk
 ---
 Bringing The World Of Science To New Zealand’s Future Scientists
 ================================================================

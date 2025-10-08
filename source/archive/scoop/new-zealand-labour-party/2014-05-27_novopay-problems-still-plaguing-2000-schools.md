@@ -1,9 +1,12 @@
 ---
 slug: novopay-problems-still-plaguing-2000-schools
-title: "Novopay problems still plaguing 2000 schools"
-date: 2014-05-27
-source-url: https://www.scoop.co.nz/stories/PA1405/S00503/novopay-problems-still-plaguing-2000-schools.htm
+title: Novopay problems still plaguing 2000 schools
+date: 2014-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00503/novopay-problems-still-plaguing-2000-schools.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/27/novopay-problems-still-plaguing-2000-schools/index.html
+layout: layout.njk
 ---
 Novopay problems still plaguing 2000 schools
 ============================================

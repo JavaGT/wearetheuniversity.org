@@ -1,9 +1,12 @@
 ---
 slug: increased-university-funding-a-good-start
-title: "Increased University Funding A Good Start"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/ED0705/S00051/increased-university-funding-a-good-start.htm
+title: Increased University Funding A Good Start
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00051/increased-university-funding-a-good-start.htm
 author: otago-university-students-association
+permalink: /archive/2007/05/10/increased-university-funding-a-good-start/index.html
+layout: layout.njk
 ---
 Increased University Funding A Good Start
 =========================================

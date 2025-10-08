@@ -1,9 +1,13 @@
 ---
 slug: ex-students-paying-price-for-govt-economic-mismanagement
-title: "Ex-Students paying price for Govt Economic Mismanagement"
-date: 2012-07-01
-source-url: https://www.scoop.co.nz/stories/PO1207/S00007/ex-students-paying-price-for-govt-economic-mismanagement.htm
+title: Ex-Students paying price for Govt Economic Mismanagement
+date: 2012-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00007/ex-students-paying-price-for-govt-economic-mismanagement.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/07/01/ex-students-paying-price-for-govt-economic-mismanagement/index.html
+layout: layout.njk
 ---
 Ex-Students paying price for Govt Economic Mismanagement
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-students-welcome-a-new-vice-chancellor
-title: "Lincoln University Students Welcome a New Vice Chancellor"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/ED1205/S00092/lincoln-university-students-welcome-a-new-vice-chancellor.htm
+title: Lincoln University Students Welcome a New Vice Chancellor
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00092/lincoln-university-students-welcome-a-new-vice-chancellor.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2012/05/23/lincoln-university-students-welcome-a-new-vice-chancellor/index.html
+layout: layout.njk
 ---
 Lincoln University Students Welcome a New Vice Chancellor
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: business-achieves-prestigious-equis-accreditation
-title: "Business Achieves Prestigious Equis Accreditation"
-date: 2004-11-25
-source-url: https://www.scoop.co.nz/stories/BU0411/S00328/business-achieves-prestigious-equis-accreditation.htm
+title: Business Achieves Prestigious Equis Accreditation
+date: 2004-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0411/S00328/business-achieves-prestigious-equis-accreditation.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/11/25/business-achieves-prestigious-equis-accreditation/index.html
+layout: layout.njk
 ---
 Business Achieves Prestigious Equis Accreditation
 =================================================

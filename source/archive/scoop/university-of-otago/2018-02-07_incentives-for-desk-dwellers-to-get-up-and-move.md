@@ -1,9 +1,12 @@
 ---
 slug: incentives-for-desk-dwellers-to-get-up-and-move
-title: "Incentives for desk-dwellers to get up and move"
-date: 2018-02-07
-source-url: https://www.scoop.co.nz/stories/GE1802/S00021/incentives-for-desk-dwellers-to-get-up-and-move.htm
+title: Incentives for desk-dwellers to get up and move
+date: 2018-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1802/S00021/incentives-for-desk-dwellers-to-get-up-and-move.htm
 author: university-of-otago
+permalink: /archive/2018/02/07/incentives-for-desk-dwellers-to-get-up-and-move/index.html
+layout: layout.njk
 ---
 Incentives for desk-dwellers to get up and move
 ===============================================

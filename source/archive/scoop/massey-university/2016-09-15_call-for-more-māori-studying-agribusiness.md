@@ -1,9 +1,12 @@
 ---
 slug: call-for-more-māori-studying-agribusiness
-title: "Call for more Māori studying agribusiness"
-date: 2016-09-15
-source-url: https://www.scoop.co.nz/stories/BU1609/S00517/call-for-more-maori-studying-agribusiness.htm
+title: Call for more Māori studying agribusiness
+date: 2016-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1609/S00517/call-for-more-maori-studying-agribusiness.htm
 author: massey-university
+permalink: /archive/2016/09/15/call-for-more-m/index.html
+layout: layout.njk
 ---
 Call for more Māori studying agribusiness
 =========================================

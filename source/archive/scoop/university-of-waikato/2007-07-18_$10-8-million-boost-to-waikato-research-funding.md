@@ -1,9 +1,12 @@
 ---
 slug: $10-8-million-boost-to-waikato-research-funding
-title: "$10.8 million boost to Waikato research funding"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/ED0707/S00059/108-million-boost-to-waikato-research-funding.htm
+title: $10.8 million boost to Waikato research funding
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00059/108-million-boost-to-waikato-research-funding.htm
 author: university-of-waikato
+permalink: /archive/2007/07/18/10-8-million-boost-to-waikato-research-funding/index.html
+layout: layout.njk
 ---
 $10.8 million boost to Waikato research funding
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: nzusa-welcomes-learner-wellbeing-and-safety-code-consultation
-title: "NZUSA Welcomes Learner Wellbeing And Safety Code Consultation"
-date: 2021-04-07
-source-url: https://www.scoop.co.nz/stories/ED2104/S00008/nzusa-welcomes-learner-wellbeing-and-safety-code-consultation.htm
+title: NZUSA Welcomes Learner Wellbeing And Safety Code Consultation
+date: 2021-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2104/S00008/nzusa-welcomes-learner-wellbeing-and-safety-code-consultation.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/04/07/nzusa-welcomes-learner-wellbeing-and-safety-code-consultation/index.html
+layout: layout.njk
 ---
 NZUSA Welcomes Learner Wellbeing And Safety Code Consultation
 =============================================================

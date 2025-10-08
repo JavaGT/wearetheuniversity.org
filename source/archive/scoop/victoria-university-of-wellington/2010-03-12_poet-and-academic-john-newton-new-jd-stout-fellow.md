@@ -1,9 +1,13 @@
 ---
 slug: poet-and-academic-john-newton-new-jd-stout-fellow
-title: "Poet and academic John Newton new JD Stout Fellow"
-date: 2010-03-12
-source-url: https://www.scoop.co.nz/stories/CU1003/S00203/poet-and-academic-john-newton-new-jd-stout-fellow.htm
+title: Poet and academic John Newton new JD Stout Fellow
+date: 2010-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00203/poet-and-academic-john-newton-new-jd-stout-fellow.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/03/12/poet-and-academic-john-newton-new-jd-stout-fellow/index.html
+layout: layout.njk
 ---
 Poet and academic John Newton new JD Stout Fellow
 =================================================

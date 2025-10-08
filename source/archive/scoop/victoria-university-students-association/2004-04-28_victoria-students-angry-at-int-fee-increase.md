@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-angry-at-int-fee-increase
-title: "Victoria Students Angry At Int. Fee Increase"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/ED0404/S00099/victoria-students-angry-at-int-fee-increase.htm
+title: Victoria Students Angry At Int. Fee Increase
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00099/victoria-students-angry-at-int-fee-increase.htm
 author: victoria-university-students-association
+permalink: /archive/2004/04/28/victoria-students-angry-at-int-fee-increase/index.html
+layout: layout.njk
 ---
 Victoria Students Angry At Int. Fee Increase
 ============================================

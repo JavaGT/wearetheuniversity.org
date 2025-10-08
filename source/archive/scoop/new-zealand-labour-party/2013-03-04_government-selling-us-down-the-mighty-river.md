@@ -1,9 +1,12 @@
 ---
 slug: government-selling-us-down-the-mighty-river
-title: "Government selling us down the Mighty River"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/PA1303/S00046/government-selling-us-down-the-mighty-river.htm
+title: Government selling us down the Mighty River
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00046/government-selling-us-down-the-mighty-river.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/04/government-selling-us-down-the-mighty-river/index.html
+layout: layout.njk
 ---
 Government selling us down the Mighty River
 ===========================================

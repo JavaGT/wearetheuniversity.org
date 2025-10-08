@@ -1,9 +1,12 @@
 ---
 slug: government-offer-enough-to-freeze-fees
-title: "Government Offer Enough To Freeze Fees"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/ED0105/S00048/government-offer-enough-to-freeze-fees.htm
+title: Government Offer Enough To Freeze Fees
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00048/government-offer-enough-to-freeze-fees.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/24/government-offer-enough-to-freeze-fees/index.html
+layout: layout.njk
 ---
 Government Offer Enough To Freeze Fees
 ======================================

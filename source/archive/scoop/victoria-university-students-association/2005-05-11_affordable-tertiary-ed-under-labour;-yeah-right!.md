@@ -1,9 +1,12 @@
 ---
 slug: affordable-tertiary-ed-under-labour;-yeah-right!
-title: "Affordable Tertiary Ed. under Labour; Yeah Right!"
-date: 2005-05-11
-source-url: https://www.scoop.co.nz/stories/ED0505/S00043/affordable-tertiary-ed-under-labour-yeah-right.htm
+title: Affordable Tertiary Ed. under Labour; Yeah Right!
+date: 2005-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00043/affordable-tertiary-ed-under-labour-yeah-right.htm
 author: victoria-university-students-association
+permalink: /archive/2005/05/11/affordable-tertiary-ed-under-labour/index.html
+layout: layout.njk
 ---
 Affordable Tertiary Ed. under Labour; Yeah Right!
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: allowances-number-1-election-issue-for-students
-title: "Allowances Number 1 Election Issue For Students"
-date: 2002-05-15
-source-url: https://www.scoop.co.nz/stories/ED0205/S00023/allowances-number-1-election-issue-for-students.htm
+title: Allowances Number 1 Election Issue For Students
+date: 2002-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00023/allowances-number-1-election-issue-for-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/05/15/allowances-number-1-election-issue-for-students/index.html
+layout: layout.njk
 ---
 Allowances Number 1 Election Issue For Students
 ===============================================

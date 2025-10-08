@@ -1,9 +1,12 @@
 ---
 slug: aotearoas-richest-short-story-prize-awarded
-title: "Aotearoa’s Richest Short Story Prize Awarded"
-date: 2022-10-13
-source-url: https://www.scoop.co.nz/stories/CU2210/S00090/aotearoas-richest-short-story-prize-awarded.htm
+title: Aotearoa’s Richest Short Story Prize Awarded
+date: 2022-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2210/S00090/aotearoas-richest-short-story-prize-awarded.htm
 author: university-of-waikato
+permalink: /archive/2022/10/13/aotearoas-richest-short-story-prize-awarded/index.html
+layout: layout.njk
 ---
 Aotearoa’s Richest Short Story Prize Awarded
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: jennings-seeks-widespread-support-for-bill
-title: "Jennings Seeks Widespread Support for Bill"
-date: 2000-10-20
-source-url: https://www.scoop.co.nz/stories/PA0010/S00423/jennings-seeks-widespread-support-for-bill.htm
+title: Jennings Seeks Widespread Support for Bill
+date: 2000-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00423/jennings-seeks-widespread-support-for-bill.htm
 author: act-new-zealand
+permalink: /archive/2000/10/20/jennings-seeks-widespread-support-for-bill/index.html
+layout: layout.njk
 ---
 Jennings Seeks Widespread Support for Bill
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: government-abandoning-homeowners-as-eqc-mess-gets-worse
-title: "Government abandoning homeowners as EQC mess gets worse"
-date: 2016-08-10
-source-url: https://www.scoop.co.nz/stories/PA1608/S00164/government-abandoning-homeowners-as-eqc-mess-gets-worse.htm
+title: Government abandoning homeowners as EQC mess gets worse
+date: 2016-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00164/government-abandoning-homeowners-as-eqc-mess-gets-worse.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/08/10/government-abandoning-homeowners-as-eqc-mess-gets-worse/index.html
+layout: layout.njk
 ---
 Government abandoning homeowners as EQC mess gets worse
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: bay-of-plentys-infrastructure-organisation-above-average
-title: "Bay of Plenty’s infrastructure organisation above-average"
-date: 2014-11-26
-source-url: https://www.scoop.co.nz/stories/ED1411/S00157/bay-of-plentys-infrastructure-organisation-above-average.htm
+title: Bay of Plenty’s infrastructure organisation above-average
+date: 2014-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00157/bay-of-plentys-infrastructure-organisation-above-average.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/26/bay-of-plentys-infrastructure-organisation-above-average/index.html
+layout: layout.njk
 ---
 Bay of Plenty’s infrastructure organisation above-average
 =========================================================

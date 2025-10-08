@@ -1,9 +1,12 @@
 ---
 slug: urgent-support-needed-to-help-people-eat
-title: "Urgent Support Needed To Help People Eat"
-date: 2022-10-13
-source-url: https://www.scoop.co.nz/stories/PA2210/S00088/urgent-support-needed-to-help-people-eat.htm
+title: Urgent Support Needed To Help People Eat
+date: 2022-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00088/urgent-support-needed-to-help-people-eat.htm
 author: green-party
+permalink: /archive/2022/10/13/urgent-support-needed-to-help-people-eat/index.html
+layout: layout.njk
 ---
 Urgent Support Needed To Help People Eat
 ========================================

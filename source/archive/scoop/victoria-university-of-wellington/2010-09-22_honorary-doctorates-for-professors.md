@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorates-for-professors
-title: "Honorary Doctorates for Professors"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/ED1009/S00100/honorary-doctorates-for-professors.htm
+title: Honorary Doctorates for Professors
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00100/honorary-doctorates-for-professors.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/22/honorary-doctorates-for-professors/index.html
+layout: layout.njk
 ---
 Honorary Doctorates for Professors
 ==================================

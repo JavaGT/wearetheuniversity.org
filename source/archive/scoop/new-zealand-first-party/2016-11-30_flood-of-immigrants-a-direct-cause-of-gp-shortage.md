@@ -1,9 +1,13 @@
 ---
 slug: flood-of-immigrants-a-direct-cause-of-gp-shortage
-title: "Flood of Immigrants a Direct Cause of GP Shortage"
-date: 2016-11-30
-source-url: https://www.scoop.co.nz/stories/PA1611/S00578/flood-of-immigrants-a-direct-cause-of-gp-shortage.htm
+title: Flood of Immigrants a Direct Cause of GP Shortage
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00578/flood-of-immigrants-a-direct-cause-of-gp-shortage.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/30/flood-of-immigrants-a-direct-cause-of-gp-shortage/index.html
+layout: layout.njk
 ---
 Flood of Immigrants a Direct Cause of GP Shortage
 =================================================

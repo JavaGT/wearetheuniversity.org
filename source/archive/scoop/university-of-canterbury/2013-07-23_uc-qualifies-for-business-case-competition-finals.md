@@ -1,9 +1,13 @@
 ---
 slug: uc-qualifies-for-business-case-competition-finals
-title: "UC qualifies for business case competition finals"
-date: 2013-07-23
-source-url: https://www.scoop.co.nz/stories/BU1307/S00821/uc-qualifies-for-business-case-competition-finals.htm
+title: UC qualifies for business case competition finals
+date: 2013-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00821/uc-qualifies-for-business-case-competition-finals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/23/uc-qualifies-for-business-case-competition-finals/index.html
+layout: layout.njk
 ---
 UC qualifies for business case competition finals
 =================================================

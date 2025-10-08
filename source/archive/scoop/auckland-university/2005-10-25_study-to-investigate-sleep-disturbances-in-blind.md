@@ -1,9 +1,13 @@
 ---
 slug: study-to-investigate-sleep-disturbances-in-blind
-title: "Study to investigate sleep disturbances in blind"
-date: 2005-10-25
-source-url: https://www.scoop.co.nz/stories/SC0510/S00056/study-to-investigate-sleep-disturbances-in-blind.htm
+title: Study to investigate sleep disturbances in blind
+date: 2005-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0510/S00056/study-to-investigate-sleep-disturbances-in-blind.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/10/25/study-to-investigate-sleep-disturbances-in-blind/index.html
+layout: layout.njk
 ---
 Study to investigate sleep disturbances in blind
 ================================================

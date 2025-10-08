@@ -1,9 +1,12 @@
 ---
 slug: new-fine-arts-and-music-partnership-established
-title: "New Fine Arts and Music partnership established"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/CU0701/S00183/new-fine-arts-and-music-partnership-established.htm
+title: New Fine Arts and Music partnership established
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0701/S00183/new-fine-arts-and-music-partnership-established.htm
 author: massey-university
+permalink: /archive/2007/01/30/new-fine-arts-and-music-partnership-established/index.html
+layout: layout.njk
 ---
 New Fine Arts and Music partnership established
 ===============================================

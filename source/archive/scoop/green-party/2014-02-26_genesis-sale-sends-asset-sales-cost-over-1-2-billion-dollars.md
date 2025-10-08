@@ -1,9 +1,13 @@
 ---
 slug: genesis-sale-sends-asset-sales-cost-over-1-2-billion-dollars
-title: "Genesis sale sends asset sales cost over 1/2 billion dollars"
-date: 2014-02-26
-source-url: https://www.scoop.co.nz/stories/PA1402/S00380/genesis-sale-sends-asset-sales-cost-over-12-billion-dollars.htm
+title: Genesis sale sends asset sales cost over 1/2 billion dollars
+date: 2014-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00380/genesis-sale-sends-asset-sales-cost-over-12-billion-dollars.htm
 author: green-party
+permalink: >-
+  /archive/2014/02/26/genesis-sale-sends-asset-sales-cost-over-1-2-billion-dollars/index.html
+layout: layout.njk
 ---
 Genesis sale sends asset sales cost over 1/2 billion dollars
 ============================================================

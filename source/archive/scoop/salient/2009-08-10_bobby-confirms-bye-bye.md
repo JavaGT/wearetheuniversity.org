@@ -1,9 +1,11 @@
 ---
 slug: bobby-confirms-bye-bye
-title: "Bobby confirms bye bye"
-date: 2009-08-10
+title: Bobby confirms bye bye
+date: 2009-08-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0908/S00031/bobby-confirms-bye-bye.htm
 author: salient
+permalink: /archive/2009/08/10/bobby-confirms-bye-bye/index.html
+layout: layout.njk
 ---
 Bobby confirms bye bye
 ======================

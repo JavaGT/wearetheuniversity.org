@@ -1,9 +1,16 @@
 ---
-slug: gritty-confronting-and-beautifully-told-newcomer-takes-out-aotearoas-richest-short-story-prize
-title: "Gritty, Confronting And Beautifully Told - Newcomer Takes Out Aotearoa’s Richest Short Story Prize"
-date: 2022-10-14
-source-url: https://www.scoop.co.nz/stories/CU2210/S00098/gritty-confronting-and-beautifully-told-newcomer-takes-out-aotearoas-richest-short-story-prize.htm
+slug: >-
+  gritty-confronting-and-beautifully-told-newcomer-takes-out-aotearoas-richest-short-story-prize
+title: >-
+  Gritty, Confronting And Beautifully Told - Newcomer Takes Out Aotearoa’s
+  Richest Short Story Prize
+date: 2022-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2210/S00098/gritty-confronting-and-beautifully-told-newcomer-takes-out-aotearoas-richest-short-story-prize.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2022/10/14/gritty-confronting-and-beautifully-told-newcomer-takes-out-aotearoas-richest-short-story-prize/index.html
+layout: layout.njk
 ---
 Gritty, Confronting And Beautifully Told - Newcomer Takes Out Aotearoa’s Richest Short Story Prize
 ==================================================================================================

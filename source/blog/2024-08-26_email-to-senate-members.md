@@ -1,9 +1,17 @@
 ---
+layout: layout.njk
 title: Email to Senate Members
 slug: email-to-senate-members
-date: 2024-08-26
+date: 2024-08-26T00:00:00.000Z
 author: We Are The University
 author-slug: we-are-the-university
+permalink: /blog/2024/08/26/email-to-senate-members/index.html
+excerpt: >-
+  From: email@wearetheuniversity.org To: some Members of Senate Date: 20240826
+  10:39AM Ata mārie members of Senate. You will be aware of recent student
+  activism regarding university management's pressure for faculties to identify
+  courses to cut. We the students urge you to attend the upcoming Senate
+  meeting. Management, despite the rapid developments...
 ---
 
 From: email@wearetheuniversity.org

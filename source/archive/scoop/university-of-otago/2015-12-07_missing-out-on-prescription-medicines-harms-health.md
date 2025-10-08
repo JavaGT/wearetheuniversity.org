@@ -1,9 +1,13 @@
 ---
 slug: missing-out-on-prescription-medicines-harms-health
-title: "Missing out on prescription medicines harms health"
-date: 2015-12-07
-source-url: https://www.scoop.co.nz/stories/SC1512/S00037/missing-out-on-prescription-medicines-harms-health.htm
+title: Missing out on prescription medicines harms health
+date: 2015-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00037/missing-out-on-prescription-medicines-harms-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/07/missing-out-on-prescription-medicines-harms-health/index.html
+layout: layout.njk
 ---
 Missing out on prescription medicines harms health
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: leading-interactive-designers-to-play-wellington
-title: "Leading Interactive Designers to \"Play\" Wellington"
-date: 2010-10-21
-source-url: https://www.scoop.co.nz/stories/CU1010/S00296/leading-interactive-designers-to-play-wellington.htm
+title: Leading Interactive Designers to "Play" Wellington
+date: 2010-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1010/S00296/leading-interactive-designers-to-play-wellington.htm
 author: massey-university
+permalink: >-
+  /archive/2010/10/21/leading-interactive-designers-to-play-wellington/index.html
+layout: layout.njk
 ---
 Leading Interactive Designers to “Play” Wellington
 ==================================================

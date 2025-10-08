@@ -1,9 +1,12 @@
 ---
 slug: ag-rugby-pride-on-the-line-in-annual-fixture
-title: "Ag rugby pride on the line in annual fixture"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/CU1108/S00524/ag-rugby-pride-on-the-line-in-annual-fixture.htm
+title: Ag rugby pride on the line in annual fixture
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1108/S00524/ag-rugby-pride-on-the-line-in-annual-fixture.htm
 author: massey-university
+permalink: /archive/2011/08/30/ag-rugby-pride-on-the-line-in-annual-fixture/index.html
+layout: layout.njk
 ---
 Ag rugby pride on the line in annual fixture
 ============================================

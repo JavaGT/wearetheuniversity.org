@@ -1,9 +1,12 @@
 ---
 slug: why-the-country-needs-the-greens
-title: "Why the country needs the Greens"
-date: 2005-02-01
-source-url: https://www.scoop.co.nz/stories/PA0502/S00026/why-the-country-needs-the-greens.htm
+title: Why the country needs the Greens
+date: 2005-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00026/why-the-country-needs-the-greens.htm
 author: green-party
+permalink: /archive/2005/02/01/why-the-country-needs-the-greens/index.html
+layout: layout.njk
 ---
 Why the country needs the Greens
 ================================

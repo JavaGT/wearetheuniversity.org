@@ -1,9 +1,12 @@
 ---
 slug: back-down-on-expert-teacher-plan-welcomed
-title: "Back-down on expert teacher plan welcomed"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/PA1412/S00229/back-down-on-expert-teacher-plan-welcomed.htm
+title: Back-down on expert teacher plan welcomed
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00229/back-down-on-expert-teacher-plan-welcomed.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/10/back-down-on-expert-teacher-plan-welcomed/index.html
+layout: layout.njk
 ---
 Back-down on expert teacher plan welcomed
 =========================================

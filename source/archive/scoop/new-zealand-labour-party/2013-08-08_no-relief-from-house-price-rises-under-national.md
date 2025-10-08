@@ -1,9 +1,12 @@
 ---
 slug: no-relief-from-house-price-rises-under-national
-title: "No relief from house price rises under National"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/PA1308/S00156/no-relief-from-house-price-rises-under-national.htm
+title: No relief from house price rises under National
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00156/no-relief-from-house-price-rises-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/08/no-relief-from-house-price-rises-under-national/index.html
+layout: layout.njk
 ---
 No relief from house price rises under National
 ===============================================

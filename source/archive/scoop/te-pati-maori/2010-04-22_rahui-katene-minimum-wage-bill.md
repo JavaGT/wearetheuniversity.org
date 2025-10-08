@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-minimum-wage-bill
-title: "Rahui Katene: Minimum Wage Bill"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PA1004/S00252/rahui-katene-minimum-wage-bill.htm
+title: 'Rahui Katene: Minimum Wage Bill'
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00252/rahui-katene-minimum-wage-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/04/22/rahui-katene-minimum-wage-bill/index.html
+layout: layout.njk
 ---
 Rahui Katene: Minimum Wage Bill
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: biennale-report-misses-the-point
-title: "Biennale report misses the point"
-date: 2006-05-31
-source-url: https://www.scoop.co.nz/stories/PA0605/S00717/biennale-report-misses-the-point.htm
+title: Biennale report misses the point
+date: 2006-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00717/biennale-report-misses-the-point.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/31/biennale-report-misses-the-point/index.html
+layout: layout.njk
 ---
 Biennale report misses the point
 ================================

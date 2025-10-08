@@ -1,9 +1,12 @@
 ---
 slug: on-balance-harawira-doing-the-right-thing
-title: "On balance, Harawira doing the right thing"
-date: 2007-08-10
-source-url: https://www.scoop.co.nz/stories/PA0708/S00179/on-balance-harawira-doing-the-right-thing.htm
+title: On balance, Harawira doing the right thing
+date: 2007-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00179/on-balance-harawira-doing-the-right-thing.htm
 author: green-party
+permalink: /archive/2007/08/10/on-balance-harawira-doing-the-right-thing/index.html
+layout: layout.njk
 ---
 On balance, Harawira doing the right thing
 ==========================================

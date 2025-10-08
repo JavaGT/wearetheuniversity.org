@@ -1,9 +1,12 @@
 ---
 slug: peters-the-many-faces-of-new-zealand-inc
-title: "Peters: The Many Faces Of New Zealand Inc"
-date: 2006-06-15
-source-url: https://www.scoop.co.nz/stories/PA0606/S00268/peters-the-many-faces-of-new-zealand-inc.htm
+title: 'Peters: The Many Faces Of New Zealand Inc'
+date: 2006-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00268/peters-the-many-faces-of-new-zealand-inc.htm
 author: new-zealand-first-party
+permalink: /archive/2006/06/15/peters-the-many-faces-of-new-zealand-inc/index.html
+layout: layout.njk
 ---
 Peters: The Many Faces Of New Zealand Inc
 =========================================

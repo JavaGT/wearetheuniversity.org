@@ -1,9 +1,12 @@
 ---
 slug: no-more-sweet-talk-on-obesity
-title: "No more sweet talk on obesity"
-date: 2015-04-17
-source-url: https://www.scoop.co.nz/stories/PA1504/S00215/no-more-sweet-talk-on-obesity.htm
+title: No more sweet talk on obesity
+date: 2015-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00215/no-more-sweet-talk-on-obesity.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/04/17/no-more-sweet-talk-on-obesity/index.html
+layout: layout.njk
 ---
 No more sweet talk on obesity
 =============================

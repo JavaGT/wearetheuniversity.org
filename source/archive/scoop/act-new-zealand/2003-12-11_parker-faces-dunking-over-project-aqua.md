@@ -1,9 +1,12 @@
 ---
 slug: parker-faces-dunking-over-project-aqua
-title: "Parker Faces Dunking Over Project Aqua"
-date: 2003-12-11
-source-url: https://www.scoop.co.nz/stories/PA0312/S00258/parker-faces-dunking-over-project-aqua.htm
+title: Parker Faces Dunking Over Project Aqua
+date: 2003-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00258/parker-faces-dunking-over-project-aqua.htm
 author: act-new-zealand
+permalink: /archive/2003/12/11/parker-faces-dunking-over-project-aqua/index.html
+layout: layout.njk
 ---
 Parker Faces Dunking Over Project Aqua
 ======================================

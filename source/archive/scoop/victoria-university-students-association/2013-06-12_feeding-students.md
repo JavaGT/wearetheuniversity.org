@@ -1,9 +1,11 @@
 ---
 slug: feeding-students
-title: "Feeding students"
-date: 2013-06-12
+title: Feeding students
+date: 2013-06-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1306/S00071/feeding-students.htm
 author: victoria-university-students-association
+permalink: /archive/2013/06/12/feeding-students/index.html
+layout: layout.njk
 ---
 Feeding students
 ================

@@ -1,9 +1,13 @@
 ---
 slug: history-curriculum-a-major-step-in-nation-building
-title: "History Curriculum ‘a Major Step In Nation Building’"
-date: 2021-02-03
-source-url: https://www.scoop.co.nz/stories/ED2102/S00006/history-curriculum-a-major-step-in-nation-building.htm
+title: History Curriculum ‘a Major Step In Nation Building’
+date: 2021-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00006/history-curriculum-a-major-step-in-nation-building.htm
 author: aut-university
+permalink: >-
+  /archive/2021/02/03/history-curriculum-a-major-step-in-nation-building/index.html
+layout: layout.njk
 ---
 History Curriculum ‘a Major Step In Nation Building’
 ====================================================

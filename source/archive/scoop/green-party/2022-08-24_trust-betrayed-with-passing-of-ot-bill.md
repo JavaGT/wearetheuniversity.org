@@ -1,9 +1,12 @@
 ---
 slug: trust-betrayed-with-passing-of-ot-bill
-title: "Trust Betrayed With Passing Of OT Bill"
-date: 2022-08-24
-source-url: https://www.scoop.co.nz/stories/PO2208/S00159/trust-betrayed-with-passing-of-ot-bill.htm
+title: Trust Betrayed With Passing Of OT Bill
+date: 2022-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00159/trust-betrayed-with-passing-of-ot-bill.htm
 author: green-party
+permalink: /archive/2022/08/24/trust-betrayed-with-passing-of-ot-bill/index.html
+layout: layout.njk
 ---
 Trust Betrayed With Passing Of OT Bill
 ======================================

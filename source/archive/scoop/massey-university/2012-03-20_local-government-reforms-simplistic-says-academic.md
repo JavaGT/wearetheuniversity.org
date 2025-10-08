@@ -1,9 +1,13 @@
 ---
 slug: local-government-reforms-simplistic-says-academic
-title: "Local government reforms ‘simplistic’, says academic"
-date: 2012-03-20
-source-url: https://www.scoop.co.nz/stories/PO1203/S00261/local-government-reforms-simplistic-says-academic.htm
+title: Local government reforms ‘simplistic’, says academic
+date: 2012-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1203/S00261/local-government-reforms-simplistic-says-academic.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/20/local-government-reforms-simplistic-says-academic/index.html
+layout: layout.njk
 ---
 Local government reforms ‘simplistic’, says academic
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-makes-meagre-effort-to-fix-big-problem
-title: "Minister makes meagre effort to fix big problem"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/PA1505/S00099/minister-makes-meagre-effort-to-fix-big-problem.htm
+title: Minister makes meagre effort to fix big problem
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00099/minister-makes-meagre-effort-to-fix-big-problem.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/05/06/minister-makes-meagre-effort-to-fix-big-problem/index.html
+layout: layout.njk
 ---
 Minister makes meagre effort to fix big problem
 ===============================================

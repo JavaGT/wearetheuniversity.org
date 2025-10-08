@@ -1,9 +1,13 @@
 ---
 slug: how-temperature-affects-our-response-to-advertising
-title: "How temperature affects our response to advertising"
-date: 2018-05-25
-source-url: https://www.scoop.co.nz/stories/SC1805/S00067/how-temperature-affects-our-response-to-advertising.htm
+title: How temperature affects our response to advertising
+date: 2018-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00067/how-temperature-affects-our-response-to-advertising.htm
 author: massey-university
+permalink: >-
+  /archive/2018/05/25/how-temperature-affects-our-response-to-advertising/index.html
+layout: layout.njk
 ---
 How temperature affects our response to advertising
 ===================================================

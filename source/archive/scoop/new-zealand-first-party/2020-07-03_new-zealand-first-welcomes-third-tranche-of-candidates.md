@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-welcomes-third-tranche-of-candidates
-title: "New Zealand First Welcomes Third Tranche of Candidates"
-date: 2020-07-03
-source-url: https://www.scoop.co.nz/stories/PA2007/S00048/new-zealand-first-welcomes-third-tranche-of-candidates.htm
+title: New Zealand First Welcomes Third Tranche of Candidates
+date: 2020-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00048/new-zealand-first-welcomes-third-tranche-of-candidates.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2020/07/03/new-zealand-first-welcomes-third-tranche-of-candidates/index.html
+layout: layout.njk
 ---
 New Zealand First Welcomes Third Tranche of Candidates
 ======================================================

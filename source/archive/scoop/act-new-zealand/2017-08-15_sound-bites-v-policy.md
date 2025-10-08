@@ -1,9 +1,11 @@
 ---
 slug: sound-bites-v-policy
-title: "Sound bites v policy"
-date: 2017-08-15
+title: Sound bites v policy
+date: 2017-08-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1708/S00292/sound-bites-v-policy.htm
 author: act-new-zealand
+permalink: /archive/2017/08/15/sound-bites-v-policy/index.html
+layout: layout.njk
 ---
 Sound bites v policy
 ====================

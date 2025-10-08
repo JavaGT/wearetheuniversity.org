@@ -1,9 +1,13 @@
 ---
 slug: urgent-action-on-biosecurity-called-for-in-southland
-title: "Urgent Action on Biosecurity Called for in Southland"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/PA1604/S00208/urgent-action-on-biosecurity-called-for-in-southland.htm
+title: Urgent Action on Biosecurity Called for in Southland
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00208/urgent-action-on-biosecurity-called-for-in-southland.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/13/urgent-action-on-biosecurity-called-for-in-southland/index.html
+layout: layout.njk
 ---
 Urgent Action on Biosecurity Called for in Southland
 ====================================================

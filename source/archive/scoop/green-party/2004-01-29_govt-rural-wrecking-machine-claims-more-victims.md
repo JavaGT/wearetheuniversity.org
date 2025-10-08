@@ -1,9 +1,12 @@
 ---
 slug: govt-rural-wrecking-machine-claims-more-victims
-title: "Govt Rural-Wrecking Machine Claims More Victims"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/PA0401/S00270/govt-rural-wrecking-machine-claims-more-victims.htm
+title: Govt Rural-Wrecking Machine Claims More Victims
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00270/govt-rural-wrecking-machine-claims-more-victims.htm
 author: green-party
+permalink: /archive/2004/01/29/govt-rural-wrecking-machine-claims-more-victims/index.html
+layout: layout.njk
 ---
 Govt Rural-Wrecking Machine Claims More Victims
 ===============================================

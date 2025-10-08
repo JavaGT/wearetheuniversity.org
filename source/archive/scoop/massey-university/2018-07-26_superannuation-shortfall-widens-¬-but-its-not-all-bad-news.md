@@ -1,9 +1,12 @@
 ---
 slug: superannuation-shortfall-widens-¬-but-its-not-all-bad-news
-title: "Superannuation shortfall widens –¬ but it’s not all bad news"
-date: 2018-07-26
-source-url: https://www.scoop.co.nz/stories/BU1807/S00644/superannuation-shortfall-widens--but-its-not-all-bad-news.htm
+title: Superannuation shortfall widens –¬ but it’s not all bad news
+date: 2018-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1807/S00644/superannuation-shortfall-widens--but-its-not-all-bad-news.htm
 author: massey-university
+permalink: /archive/2018/07/26/superannuation-shortfall-widens-/index.html
+layout: layout.njk
 ---
 Superannuation shortfall widens –¬ but it’s not all bad news
 ============================================================

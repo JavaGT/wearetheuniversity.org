@@ -1,9 +1,12 @@
 ---
 slug: loan-scheme-a-goldmine-for-student-politicians
-title: "Loan scheme a goldmine for student politicians"
-date: 2008-04-09
-source-url: https://www.scoop.co.nz/stories/PO0804/S00149/loan-scheme-a-goldmine-for-student-politicians.htm
+title: Loan scheme a goldmine for student politicians
+date: 2008-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00149/loan-scheme-a-goldmine-for-student-politicians.htm
 author: student-choice
+permalink: /archive/2008/04/09/loan-scheme-a-goldmine-for-student-politicians/index.html
+layout: layout.njk
 ---
 Loan scheme a goldmine for student politicians
 ==============================================

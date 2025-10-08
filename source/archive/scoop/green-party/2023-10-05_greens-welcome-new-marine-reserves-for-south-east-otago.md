@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-new-marine-reserves-for-south-east-otago
-title: "Greens Welcome New Marine Reserves For South East Otago"
-date: 2023-10-05
-source-url: https://www.scoop.co.nz/stories/PA2310/S00042/greens-welcome-new-marine-reserves-for-south-east-otago.htm
+title: Greens Welcome New Marine Reserves For South East Otago
+date: 2023-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00042/greens-welcome-new-marine-reserves-for-south-east-otago.htm
 author: green-party
+permalink: >-
+  /archive/2023/10/05/greens-welcome-new-marine-reserves-for-south-east-otago/index.html
+layout: layout.njk
 ---
 Greens Welcome New Marine Reserves For South East Otago
 =======================================================

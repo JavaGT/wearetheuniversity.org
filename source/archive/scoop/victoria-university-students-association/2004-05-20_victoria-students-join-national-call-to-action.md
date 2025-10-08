@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-join-national-call-to-action
-title: "Victoria Students Join National Call To Action"
-date: 2004-05-20
-source-url: https://www.scoop.co.nz/stories/ED0405/S00073/victoria-students-join-national-call-to-action.htm
+title: Victoria Students Join National Call To Action
+date: 2004-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00073/victoria-students-join-national-call-to-action.htm
 author: victoria-university-students-association
+permalink: /archive/2004/05/20/victoria-students-join-national-call-to-action/index.html
+layout: layout.njk
 ---
 Victoria Students Join National Call To Action
 ==============================================

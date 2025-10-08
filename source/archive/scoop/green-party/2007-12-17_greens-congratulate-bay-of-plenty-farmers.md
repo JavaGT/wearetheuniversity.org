@@ -1,9 +1,12 @@
 ---
 slug: greens-congratulate-bay-of-plenty-farmers
-title: "Greens congratulate Bay of Plenty farmers"
-date: 2007-12-17
-source-url: https://www.scoop.co.nz/stories/PA0712/S00382/greens-congratulate-bay-of-plenty-farmers.htm
+title: Greens congratulate Bay of Plenty farmers
+date: 2007-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00382/greens-congratulate-bay-of-plenty-farmers.htm
 author: green-party
+permalink: /archive/2007/12/17/greens-congratulate-bay-of-plenty-farmers/index.html
+layout: layout.njk
 ---
 Greens congratulate Bay of Plenty farmers
 =========================================

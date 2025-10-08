@@ -1,9 +1,13 @@
 ---
 slug: act-mp-denies-opportunity-to-help-victims-of-gambling-crime
-title: "ACT MP denies opportunity to help victims of gambling crime"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/PA1211/S00217/act-mp-denies-opportunity-to-help-victims-of-gambling-crime.htm
+title: ACT MP denies opportunity to help victims of gambling crime
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00217/act-mp-denies-opportunity-to-help-victims-of-gambling-crime.htm
 author: green-party
+permalink: >-
+  /archive/2012/11/13/act-mp-denies-opportunity-to-help-victims-of-gambling-crime/index.html
+layout: layout.njk
 ---
 ACT MP denies opportunity to help victims of gambling crime
 ===========================================================

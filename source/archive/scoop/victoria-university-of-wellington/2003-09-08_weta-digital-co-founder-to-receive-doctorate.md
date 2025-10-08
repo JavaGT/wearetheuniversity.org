@@ -1,9 +1,12 @@
 ---
 slug: weta-digital-co-founder-to-receive-doctorate
-title: "Weta Digital co-founder to receive doctorate"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/ED0309/S00021/weta-digital-co-founder-to-receive-doctorate.htm
+title: Weta Digital co-founder to receive doctorate
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00021/weta-digital-co-founder-to-receive-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/09/08/weta-digital-co-founder-to-receive-doctorate/index.html
+layout: layout.njk
 ---
 Weta Digital co-founder to receive doctorate
 ============================================

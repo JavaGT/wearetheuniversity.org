@@ -1,9 +1,12 @@
 ---
 slug: key-complicit-in-first-home-buyers-plight
-title: "Key complicit in first home buyers’ plight"
-date: 2013-07-23
-source-url: https://www.scoop.co.nz/stories/PA1307/S00348/key-complicit-in-first-home-buyers-plight.htm
+title: Key complicit in first home buyers’ plight
+date: 2013-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00348/key-complicit-in-first-home-buyers-plight.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/23/key-complicit-in-first-home-buyers-plight/index.html
+layout: layout.njk
 ---
 Key complicit in first home buyers’ plight
 ==========================================

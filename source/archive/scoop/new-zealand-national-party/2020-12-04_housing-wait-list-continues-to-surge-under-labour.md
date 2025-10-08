@@ -1,9 +1,13 @@
 ---
 slug: housing-wait-list-continues-to-surge-under-labour
-title: "Housing Wait List Continues To Surge Under Labour"
-date: 2020-12-04
-source-url: https://www.scoop.co.nz/stories/PA2012/S00032/housing-wait-list-continues-to-surge-under-labour.htm
+title: Housing Wait List Continues To Surge Under Labour
+date: 2020-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00032/housing-wait-list-continues-to-surge-under-labour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/12/04/housing-wait-list-continues-to-surge-under-labour/index.html
+layout: layout.njk
 ---
 Housing Wait List Continues To Surge Under Labour
 =================================================

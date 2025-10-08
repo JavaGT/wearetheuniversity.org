@@ -1,9 +1,13 @@
 ---
 slug: nats-tenancy-law-changes-unfair-and-poorly-timed
-title: "Nat's tenancy law changes unfair and poorly timed"
-date: 2009-02-19
-source-url: https://www.scoop.co.nz/stories/PA0902/S00276/nats-tenancy-law-changes-unfair-and-poorly-timed.htm
+title: Nat's tenancy law changes unfair and poorly timed
+date: 2009-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00276/nats-tenancy-law-changes-unfair-and-poorly-timed.htm
 author: green-party
+permalink: >-
+  /archive/2009/02/19/nats-tenancy-law-changes-unfair-and-poorly-timed/index.html
+layout: layout.njk
 ---
 Nat's tenancy law changes unfair and poorly timed
 =================================================

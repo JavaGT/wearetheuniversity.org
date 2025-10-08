@@ -1,9 +1,13 @@
 ---
 slug: important-changes-needed-to-freedom-camping-bill
-title: "Important Changes Needed To Freedom Camping Bill"
-date: 2023-02-23
-source-url: https://www.scoop.co.nz/stories/PA2302/S00121/important-changes-needed-to-freedom-camping-bill.htm
+title: Important Changes Needed To Freedom Camping Bill
+date: 2023-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00121/important-changes-needed-to-freedom-camping-bill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/02/23/important-changes-needed-to-freedom-camping-bill/index.html
+layout: layout.njk
 ---
 Important Changes Needed To Freedom Camping Bill
 ================================================

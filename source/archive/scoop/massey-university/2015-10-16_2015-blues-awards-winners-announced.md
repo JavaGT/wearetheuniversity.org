@@ -1,9 +1,12 @@
 ---
 slug: 2015-blues-awards-winners-announced
-title: "2015 Blues Awards winners announced"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/ED1510/S00089/2015-blues-awards-winners-announced.htm
+title: 2015 Blues Awards winners announced
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00089/2015-blues-awards-winners-announced.htm
 author: massey-university
+permalink: /archive/2015/10/16/2015-blues-awards-winners-announced/index.html
+layout: layout.njk
 ---
 2015 Blues Awards winners announced
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: inaugural-gold-&-supreme-club-awards
-title: "Inaugural Gold & Supreme Club Awards"
-date: 2016-10-07
-source-url: https://www.scoop.co.nz/stories/CU1610/S00085/inaugural-gold-supreme-club-awards.htm
+title: Inaugural Gold & Supreme Club Awards
+date: 2016-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00085/inaugural-gold-supreme-club-awards.htm
 author: vuwsa
+permalink: /archive/2016/10/07/inaugural-gold-/index.html
+layout: layout.njk
 ---
 Inaugural Gold & Supreme Club Awards
 ====================================

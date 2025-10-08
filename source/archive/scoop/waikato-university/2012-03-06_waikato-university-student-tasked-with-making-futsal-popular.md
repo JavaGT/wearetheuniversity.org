@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-student-tasked-with-making-futsal-popular
-title: "Waikato University student tasked with making futsal popular"
-date: 2012-03-06
-source-url: https://www.scoop.co.nz/stories/CU1203/S00111/waikato-university-student-tasked-with-making-futsal-popular.htm
+title: Waikato University student tasked with making futsal popular
+date: 2012-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1203/S00111/waikato-university-student-tasked-with-making-futsal-popular.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/03/06/waikato-university-student-tasked-with-making-futsal-popular/index.html
+layout: layout.njk
 ---
 Waikato University student tasked with making futsal popular
 ============================================================

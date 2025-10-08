@@ -1,9 +1,12 @@
 ---
 slug: national-offers-bonus-to-student-loan-borrowers
-title: "National offers bonus to student loan borrowers"
-date: 2008-01-31
-source-url: https://www.scoop.co.nz/stories/PA0801/S00261/national-offers-bonus-to-student-loan-borrowers.htm
+title: National offers bonus to student loan borrowers
+date: 2008-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00261/national-offers-bonus-to-student-loan-borrowers.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/31/national-offers-bonus-to-student-loan-borrowers/index.html
+layout: layout.njk
 ---
 National offers bonus to student loan borrowers
 ===============================================

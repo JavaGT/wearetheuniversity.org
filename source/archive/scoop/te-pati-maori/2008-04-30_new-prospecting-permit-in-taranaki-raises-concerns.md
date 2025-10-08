@@ -1,9 +1,13 @@
 ---
 slug: new-prospecting-permit-in-taranaki-raises-concerns
-title: "New Prospecting Permit in Taranaki raises Concerns"
-date: 2008-04-30
-source-url: https://www.scoop.co.nz/stories/PA0804/S00662/new-prospecting-permit-in-taranaki-raises-concerns.htm
+title: New Prospecting Permit in Taranaki raises Concerns
+date: 2008-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00662/new-prospecting-permit-in-taranaki-raises-concerns.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/04/30/new-prospecting-permit-in-taranaki-raises-concerns/index.html
+layout: layout.njk
 ---
 New Prospecting Permit in Taranaki raises Concerns
 ==================================================

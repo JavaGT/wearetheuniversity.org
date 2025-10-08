@@ -1,9 +1,12 @@
 ---
 slug: real-issue-is-no-focus-on-attendance-at-all
-title: "Real Issue Is No Focus On Attendance At All"
-date: 2023-06-08
-source-url: https://www.scoop.co.nz/stories/PA2306/S00046/real-issue-is-no-focus-on-attendance-at-all.htm
+title: Real Issue Is No Focus On Attendance At All
+date: 2023-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00046/real-issue-is-no-focus-on-attendance-at-all.htm
 author: act-new-zealand
+permalink: /archive/2023/06/08/real-issue-is-no-focus-on-attendance-at-all/index.html
+layout: layout.njk
 ---
 Real Issue Is No Focus On Attendance At All
 ===========================================

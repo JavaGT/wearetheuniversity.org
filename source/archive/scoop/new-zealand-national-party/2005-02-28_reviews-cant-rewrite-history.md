@@ -1,9 +1,11 @@
 ---
 slug: reviews-cant-rewrite-history
-title: "Reviews can't rewrite history"
-date: 2005-02-28
+title: Reviews can't rewrite history
+date: 2005-02-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0502/S00587/reviews-cant-rewrite-history.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/28/reviews-cant-rewrite-history/index.html
+layout: layout.njk
 ---
 Reviews can't rewrite history
 =============================

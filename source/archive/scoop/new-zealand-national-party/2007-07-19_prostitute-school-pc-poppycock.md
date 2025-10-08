@@ -1,9 +1,12 @@
 ---
 slug: prostitute-school-pc-poppycock
-title: "Prostitute School - PC poppycock"
-date: 2007-07-19
-source-url: https://www.scoop.co.nz/stories/PA0707/S00313/prostitute-school-pc-poppycock.htm
+title: Prostitute School - PC poppycock
+date: 2007-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00313/prostitute-school-pc-poppycock.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/19/prostitute-school-pc-poppycock/index.html
+layout: layout.njk
 ---
 Prostitute School - PC poppycock
 ================================

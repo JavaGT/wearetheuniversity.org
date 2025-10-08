@@ -1,9 +1,13 @@
 ---
 slug: lowering-salt-intake-in-diets-important-and-very-feasible
-title: "Lowering salt intake in diets important and very feasible"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/GE1303/S00044/lowering-salt-intake-in-diets-important-and-very-feasible.htm
+title: Lowering salt intake in diets important and very feasible
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1303/S00044/lowering-salt-intake-in-diets-important-and-very-feasible.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/03/11/lowering-salt-intake-in-diets-important-and-very-feasible/index.html
+layout: layout.njk
 ---
 Lowering salt intake in diets important and very feasible
 =========================================================

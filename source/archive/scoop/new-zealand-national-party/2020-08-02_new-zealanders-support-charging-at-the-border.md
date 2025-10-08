@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-support-charging-at-the-border
-title: "New Zealanders Support Charging At The Border"
-date: 2020-08-02
-source-url: https://www.scoop.co.nz/stories/PA2008/S00009/new-zealanders-support-charging-at-the-border.htm
+title: New Zealanders Support Charging At The Border
+date: 2020-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00009/new-zealanders-support-charging-at-the-border.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/02/new-zealanders-support-charging-at-the-border/index.html
+layout: layout.njk
 ---
 New Zealanders Support Charging At The Border
 =============================================

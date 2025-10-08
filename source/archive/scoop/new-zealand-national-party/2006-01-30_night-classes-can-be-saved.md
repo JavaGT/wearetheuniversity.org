@@ -1,9 +1,11 @@
 ---
 slug: night-classes-can-be-saved
-title: "Night classes can be saved"
-date: 2006-01-30
+title: Night classes can be saved
+date: 2006-01-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0601/S00164/night-classes-can-be-saved.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/30/night-classes-can-be-saved/index.html
+layout: layout.njk
 ---
 Night classes can be saved
 ==========================

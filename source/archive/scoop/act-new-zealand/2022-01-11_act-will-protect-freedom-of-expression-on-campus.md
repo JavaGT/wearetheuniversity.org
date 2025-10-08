@@ -1,9 +1,13 @@
 ---
 slug: act-will-protect-freedom-of-expression-on-campus
-title: "ACT Will Protect Freedom Of Expression On Campus"
-date: 2022-01-11
-source-url: https://www.scoop.co.nz/stories/PA2201/S00028/act-will-protect-freedom-of-expression-on-campus.htm
+title: ACT Will Protect Freedom Of Expression On Campus
+date: 2022-01-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00028/act-will-protect-freedom-of-expression-on-campus.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/01/11/act-will-protect-freedom-of-expression-on-campus/index.html
+layout: layout.njk
 ---
 ACT Will Protect Freedom Of Expression On Campus
 ================================================

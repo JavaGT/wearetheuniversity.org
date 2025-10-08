@@ -1,9 +1,12 @@
 ---
 slug: royal-shakespeare-companys-writer-goes-gory
-title: "Royal Shakespeare Company's Writer Goes Gory"
-date: 2003-11-04
-source-url: https://www.scoop.co.nz/stories/ED0311/S00009/royal-shakespeare-companys-writer-goes-gory.htm
+title: Royal Shakespeare Company's Writer Goes Gory
+date: 2003-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00009/royal-shakespeare-companys-writer-goes-gory.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/11/04/royal-shakespeare-companys-writer-goes-gory/index.html
+layout: layout.njk
 ---
 Royal Shakespeare Company's Writer Goes Gory
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: novel-follows-family-history-after-wwi
-title: "Novel follows family history after WWI"
-date: 2015-06-18
-source-url: https://www.scoop.co.nz/stories/ED1506/S00090/novel-follows-family-history-after-wwi.htm
+title: Novel follows family history after WWI
+date: 2015-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00090/novel-follows-family-history-after-wwi.htm
 author: massey-university
+permalink: /archive/2015/06/18/novel-follows-family-history-after-wwi/index.html
+layout: layout.njk
 ---
 Novel follows family history after WWI
 ======================================

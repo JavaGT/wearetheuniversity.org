@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-auckland-tornado-a-furious-image-on-the-radar
-title: "UC Expert: Auckland Tornado A Furious Image On The Radar"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/SC1212/S00012/uc-expert-auckland-tornado-a-furious-image-on-the-radar.htm
+title: 'UC Expert: Auckland Tornado A Furious Image On The Radar'
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1212/S00012/uc-expert-auckland-tornado-a-furious-image-on-the-radar.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/06/uc-expert-auckland-tornado-a-furious-image-on-the-radar/index.html
+layout: layout.njk
 ---
 UC Expert: Auckland Tornado A Furious Image On The Radar
 ========================================================

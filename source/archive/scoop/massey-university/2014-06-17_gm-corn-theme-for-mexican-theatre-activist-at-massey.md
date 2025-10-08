@@ -1,9 +1,13 @@
 ---
 slug: gm-corn-theme-for-mexican-theatre-activist-at-massey
-title: "GM corn theme for Mexican theatre activist at Massey"
-date: 2014-06-17
-source-url: https://www.scoop.co.nz/stories/CU1406/S00225/gm-corn-theme-for-mexican-theatre-activist-at-massey.htm
+title: GM corn theme for Mexican theatre activist at Massey
+date: 2014-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00225/gm-corn-theme-for-mexican-theatre-activist-at-massey.htm
 author: massey-university
+permalink: >-
+  /archive/2014/06/17/gm-corn-theme-for-mexican-theatre-activist-at-massey/index.html
+layout: layout.njk
 ---
 GM corn theme for Mexican theatre activist at Massey
 ====================================================

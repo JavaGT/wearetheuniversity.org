@@ -1,9 +1,12 @@
 ---
 slug: the-days-of-the-cheats-are-numbered
-title: "The Days Of The Cheats Are Numbered"
-date: 2002-10-24
-source-url: https://www.scoop.co.nz/stories/ED0210/S00057/the-days-of-the-cheats-are-numbered.htm
+title: The Days Of The Cheats Are Numbered
+date: 2002-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00057/the-days-of-the-cheats-are-numbered.htm
 author: auckland-university
+permalink: /archive/2002/10/24/the-days-of-the-cheats-are-numbered/index.html
+layout: layout.njk
 ---
 The Days Of The Cheats Are Numbered
 ===================================

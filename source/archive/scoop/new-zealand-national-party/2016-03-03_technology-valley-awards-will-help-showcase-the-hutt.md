@@ -1,9 +1,13 @@
 ---
 slug: technology-valley-awards-will-help-showcase-the-hutt
-title: "Technology Valley Awards will help showcase the Hutt"
-date: 2016-03-03
-source-url: https://www.scoop.co.nz/stories/PA1603/S00055/technology-valley-awards-will-help-showcase-the-hutt.htm
+title: Technology Valley Awards will help showcase the Hutt
+date: 2016-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00055/technology-valley-awards-will-help-showcase-the-hutt.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/03/03/technology-valley-awards-will-help-showcase-the-hutt/index.html
+layout: layout.njk
 ---
 Technology Valley Awards will help showcase the Hutt
 ====================================================

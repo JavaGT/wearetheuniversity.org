@@ -1,9 +1,12 @@
 ---
 slug: syrian-families-need-resettlement-not-rhetoric
-title: "Syrian families need resettlement, not rhetoric"
-date: 2016-09-21
-source-url: https://www.scoop.co.nz/stories/PA1609/S00381/syrian-families-need-resettlement-not-rhetoric.htm
+title: Syrian families need resettlement, not rhetoric
+date: 2016-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00381/syrian-families-need-resettlement-not-rhetoric.htm
 author: green-party
+permalink: /archive/2016/09/21/syrian-families-need-resettlement-not-rhetoric/index.html
+layout: layout.njk
 ---
 Syrian families need resettlement, not rhetoric
 ===============================================

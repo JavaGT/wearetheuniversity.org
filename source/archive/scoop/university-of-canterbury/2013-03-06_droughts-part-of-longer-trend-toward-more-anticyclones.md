@@ -1,9 +1,13 @@
 ---
 slug: droughts-part-of-longer-trend-toward-more-anticyclones
-title: "Droughts part of longer trend toward more anticyclones"
-date: 2013-03-06
-source-url: https://www.scoop.co.nz/stories/SC1303/S00007/droughts-part-of-longer-trend-toward-more-anticyclones.htm
+title: Droughts part of longer trend toward more anticyclones
+date: 2013-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1303/S00007/droughts-part-of-longer-trend-toward-more-anticyclones.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/06/droughts-part-of-longer-trend-toward-more-anticyclones/index.html
+layout: layout.njk
 ---
 Droughts part of longer trend toward more anticyclones
 ======================================================

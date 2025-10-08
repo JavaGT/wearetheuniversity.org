@@ -1,9 +1,12 @@
 ---
 slug: nz-tertiary-fees-must-come-down
-title: "NZ tertiary fees must come down"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/ED0504/S00071/nz-tertiary-fees-must-come-down.htm
+title: NZ tertiary fees must come down
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00071/nz-tertiary-fees-must-come-down.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/04/19/nz-tertiary-fees-must-come-down/index.html
+layout: layout.njk
 ---
 NZ tertiary fees must come down
 ===============================

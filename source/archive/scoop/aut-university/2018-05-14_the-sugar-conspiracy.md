@@ -1,9 +1,11 @@
 ---
 slug: the-sugar-conspiracy
-title: "The Sugar Conspiracy"
-date: 2018-05-14
+title: The Sugar Conspiracy
+date: 2018-05-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1805/S00057/the-sugar-conspiracy.htm
 author: aut-university
+permalink: /archive/2018/05/14/the-sugar-conspiracy/index.html
+layout: layout.njk
 ---
 The Sugar Conspiracy
 ====================

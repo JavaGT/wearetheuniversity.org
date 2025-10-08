@@ -1,9 +1,12 @@
 ---
 slug: computers-in-home-taranaki-graduation
-title: "Computers in Home Taranaki Graduation"
-date: 2010-12-10
-source-url: https://www.scoop.co.nz/stories/PA1012/S00176/computers-in-home-taranaki-graduation.htm
+title: Computers in Home Taranaki Graduation
+date: 2010-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00176/computers-in-home-taranaki-graduation.htm
 author: te-pati-maori
+permalink: /archive/2010/12/10/computers-in-home-taranaki-graduation/index.html
+layout: layout.njk
 ---
 Computers in Home Taranaki Graduation
 =====================================

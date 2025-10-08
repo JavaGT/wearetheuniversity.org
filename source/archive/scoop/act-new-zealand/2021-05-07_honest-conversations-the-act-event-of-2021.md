@@ -1,9 +1,12 @@
 ---
 slug: honest-conversations-the-act-event-of-2021
-title: "Honest Conversations: The ACT Event Of 2021"
-date: 2021-05-07
-source-url: https://www.scoop.co.nz/stories/PA2105/S00065/honest-conversations-the-act-event-of-2021.htm
+title: 'Honest Conversations: The ACT Event Of 2021'
+date: 2021-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00065/honest-conversations-the-act-event-of-2021.htm
 author: act-new-zealand
+permalink: /archive/2021/05/07/honest-conversations-the-act-event-of-2021/index.html
+layout: layout.njk
 ---
 Honest Conversations: The ACT Event Of 2021
 ===========================================

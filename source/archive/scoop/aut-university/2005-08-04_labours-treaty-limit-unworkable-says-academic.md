@@ -1,9 +1,12 @@
 ---
 slug: labours-treaty-limit-unworkable-says-academic
-title: "Labour’s Treaty limit unworkable, says academic"
-date: 2005-08-04
-source-url: https://www.scoop.co.nz/stories/ED0508/S00025/labours-treaty-limit-unworkable-says-academic.htm
+title: Labour’s Treaty limit unworkable, says academic
+date: 2005-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00025/labours-treaty-limit-unworkable-says-academic.htm
 author: aut-university
+permalink: /archive/2005/08/04/labours-treaty-limit-unworkable-says-academic/index.html
+layout: layout.njk
 ---
 Labour’s Treaty limit unworkable, says academic
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: government-must-invest-in-quality-of-science-labs
-title: "Government must invest in quality of science labs"
-date: 2018-02-09
-source-url: https://www.scoop.co.nz/stories/PA1802/S00075/government-must-invest-in-quality-of-science-labs.htm
+title: Government must invest in quality of science labs
+date: 2018-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00075/government-must-invest-in-quality-of-science-labs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/09/government-must-invest-in-quality-of-science-labs/index.html
+layout: layout.njk
 ---
 Government must invest in quality of science labs
 =================================================

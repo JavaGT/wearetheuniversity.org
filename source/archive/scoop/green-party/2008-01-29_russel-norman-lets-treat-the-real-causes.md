@@ -1,9 +1,12 @@
 ---
 slug: russel-norman-lets-treat-the-real-causes
-title: "Russel Norman: Let's treat the real causes"
-date: 2008-01-29
-source-url: https://www.scoop.co.nz/stories/PA0801/S00221/russel-norman-lets-treat-the-real-causes.htm
+title: 'Russel Norman: Let''s treat the real causes'
+date: 2008-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00221/russel-norman-lets-treat-the-real-causes.htm
 author: green-party
+permalink: /archive/2008/01/29/russel-norman-lets-treat-the-real-causes/index.html
+layout: layout.njk
 ---
 Russel Norman: Let's treat the real causes
 ==========================================

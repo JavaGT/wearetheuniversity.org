@@ -1,9 +1,12 @@
 ---
 slug: parliament-asked-to-reject-intolerance
-title: "Parliament Asked to Reject Intolerance"
-date: 2002-11-13
-source-url: https://www.scoop.co.nz/stories/PA0211/S00297/parliament-asked-to-reject-intolerance.htm
+title: Parliament Asked to Reject Intolerance
+date: 2002-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00297/parliament-asked-to-reject-intolerance.htm
 author: act-new-zealand
+permalink: /archive/2002/11/13/parliament-asked-to-reject-intolerance/index.html
+layout: layout.njk
 ---
 Parliament Asked to Reject Intolerance
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: palestinian-women-bear-burden-of-conflict
-title: "Palestinian women bear burden of conflict"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/GE0607/S00060/palestinian-women-bear-burden-of-conflict.htm
+title: Palestinian women bear burden of conflict
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0607/S00060/palestinian-women-bear-burden-of-conflict.htm
 author: auckland-university
+permalink: /archive/2006/07/14/palestinian-women-bear-burden-of-conflict/index.html
+layout: layout.njk
 ---
 Palestinian women bear burden of conflict
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-vague-on-lockdown-education
-title: "Government vague on lockdown education"
-date: 2021-08-25
-source-url: https://www.scoop.co.nz/stories/PA2108/S00211/government-vague-on-lockdown-education.htm
+title: Government vague on lockdown education
+date: 2021-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00211/government-vague-on-lockdown-education.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/25/government-vague-on-lockdown-education/index.html
+layout: layout.njk
 ---
 Government vague on lockdown education
 ======================================

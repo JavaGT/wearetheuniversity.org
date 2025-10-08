@@ -1,9 +1,12 @@
 ---
 slug: government-fails-to-tackle-skills-shortages
-title: "Government fails to tackle skills shortages"
-date: 2012-01-13
-source-url: https://www.scoop.co.nz/stories/PA1201/S00032/government-fails-to-tackle-skills-shortages.htm
+title: Government fails to tackle skills shortages
+date: 2012-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00032/government-fails-to-tackle-skills-shortages.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/01/13/government-fails-to-tackle-skills-shortages/index.html
+layout: layout.njk
 ---
 Government fails to tackle skills shortages
 ===========================================

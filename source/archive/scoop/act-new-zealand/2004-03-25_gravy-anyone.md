@@ -1,9 +1,11 @@
 ---
 slug: gravy-anyone
-title: "Gravy, Anyone?"
-date: 2004-03-25
+title: Gravy, Anyone?
+date: 2004-03-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00562/gravy-anyone.htm
 author: act-new-zealand
+permalink: /archive/2004/03/25/gravy-anyone/index.html
+layout: layout.njk
 ---
 Gravy, Anyone?
 ==============

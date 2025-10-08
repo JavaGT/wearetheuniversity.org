@@ -1,9 +1,12 @@
 ---
 slug: greens-pick-up-labours-chemical-trespass-bill
-title: "Greens Pick Up Labour's Chemical Trespass Bill"
-date: 2000-08-17
-source-url: https://www.scoop.co.nz/stories/PA0008/S00353/greens-pick-up-labours-chemical-trespass-bill.htm
+title: Greens Pick Up Labour's Chemical Trespass Bill
+date: 2000-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00353/greens-pick-up-labours-chemical-trespass-bill.htm
 author: green-party
+permalink: /archive/2000/08/17/greens-pick-up-labours-chemical-trespass-bill/index.html
+layout: layout.njk
 ---
 Greens Pick Up Labour's Chemical Trespass Bill
 ==============================================

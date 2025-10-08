@@ -1,9 +1,12 @@
 ---
 slug: turia-speech-on-transformation-august-24-2005
-title: "Turia Speech on Transformation August 24 2005"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/PA0508/S00628/turia-speech-on-transformation-august-24-2005.htm
+title: Turia Speech on Transformation August 24 2005
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00628/turia-speech-on-transformation-august-24-2005.htm
 author: te-pati-maori
+permalink: /archive/2005/08/24/turia-speech-on-transformation-august-24-2005/index.html
+layout: layout.njk
 ---
 Turia Speech on Transformation August 24 2005
 =============================================

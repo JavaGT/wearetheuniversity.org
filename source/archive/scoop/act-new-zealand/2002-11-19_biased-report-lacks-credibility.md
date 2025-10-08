@@ -1,9 +1,12 @@
 ---
 slug: biased-report-lacks-credibility
-title: "Biased Report Lacks Credibility"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/PA0211/S00420/biased-report-lacks-credibility.htm
+title: Biased Report Lacks Credibility
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00420/biased-report-lacks-credibility.htm
 author: act-new-zealand
+permalink: /archive/2002/11/19/biased-report-lacks-credibility/index.html
+layout: layout.njk
 ---
 Biased Report Lacks Credibility
 ===============================

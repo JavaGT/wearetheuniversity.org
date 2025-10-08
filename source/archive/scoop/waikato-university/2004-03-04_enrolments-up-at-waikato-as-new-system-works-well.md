@@ -1,9 +1,13 @@
 ---
 slug: enrolments-up-at-waikato-as-new-system-works-well
-title: "Enrolments Up At Waikato As New System Works Well"
-date: 2004-03-04
-source-url: https://www.scoop.co.nz/stories/ED0403/S00025/enrolments-up-at-waikato-as-new-system-works-well.htm
+title: Enrolments Up At Waikato As New System Works Well
+date: 2004-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00025/enrolments-up-at-waikato-as-new-system-works-well.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/03/04/enrolments-up-at-waikato-as-new-system-works-well/index.html
+layout: layout.njk
 ---
 Enrolments Up At Waikato As New System Works Well
 =================================================

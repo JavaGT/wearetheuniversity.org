@@ -1,9 +1,13 @@
 ---
 slug: covid-19-modelling-expert-wins-international-maths-medal
-title: "Covid-19 Modelling Expert Wins International Maths Medal"
-date: 2021-05-27
-source-url: https://www.scoop.co.nz/stories/ED2105/S00054/covid-19-modelling-expert-wins-international-maths-medal.htm
+title: Covid-19 Modelling Expert Wins International Maths Medal
+date: 2021-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00054/covid-19-modelling-expert-wins-international-maths-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/27/covid-19-modelling-expert-wins-international-maths-medal/index.html
+layout: layout.njk
 ---
 Covid-19 Modelling Expert Wins International Maths Medal
 ========================================================

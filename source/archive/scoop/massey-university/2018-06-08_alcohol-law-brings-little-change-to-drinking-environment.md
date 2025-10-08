@@ -1,9 +1,13 @@
 ---
 slug: alcohol-law-brings-little-change-to-drinking-environment
-title: "Alcohol Law Brings Little Change to Drinking Environment"
-date: 2018-06-08
-source-url: https://www.scoop.co.nz/stories/PO1806/S00089/alcohol-law-brings-little-change-to-drinking-environment.htm
+title: Alcohol Law Brings Little Change to Drinking Environment
+date: 2018-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00089/alcohol-law-brings-little-change-to-drinking-environment.htm
 author: massey-university
+permalink: >-
+  /archive/2018/06/08/alcohol-law-brings-little-change-to-drinking-environment/index.html
+layout: layout.njk
 ---
 Alcohol Law Brings Little Change to Drinking Environment
 ========================================================

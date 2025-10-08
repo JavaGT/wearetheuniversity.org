@@ -1,9 +1,12 @@
 ---
 slug: jo-mclean-selected-as-labours-selwyn-candidate
-title: "Jo Mclean selected as Labour’s Selwyn Candidate"
-date: 2011-07-24
-source-url: https://www.scoop.co.nz/stories/PO1107/S00275/jo-mclean-selected-as-labours-selwyn-candidate.htm
+title: Jo Mclean selected as Labour’s Selwyn Candidate
+date: 2011-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00275/jo-mclean-selected-as-labours-selwyn-candidate.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/24/jo-mclean-selected-as-labours-selwyn-candidate/index.html
+layout: layout.njk
 ---
 Jo Mclean selected as Labour’s Selwyn Candidate
 ===============================================

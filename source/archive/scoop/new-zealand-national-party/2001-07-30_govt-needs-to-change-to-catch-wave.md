@@ -1,9 +1,12 @@
 ---
 slug: govt-needs-to-change-to-catch-wave
-title: "Govt Needs To Change To Catch Wave"
-date: 2001-07-30
-source-url: https://www.scoop.co.nz/stories/PA0107/S00496/govt-needs-to-change-to-catch-wave.htm
+title: Govt Needs To Change To Catch Wave
+date: 2001-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00496/govt-needs-to-change-to-catch-wave.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/30/govt-needs-to-change-to-catch-wave/index.html
+layout: layout.njk
 ---
 Govt Needs To Change To Catch Wave
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: government-notice-of-motion-no-8
-title: "Government Notice of Motion No 8"
-date: 2011-05-11
-source-url: https://www.scoop.co.nz/stories/PA1105/S00211/government-notice-of-motion-no-8.htm
+title: Government Notice of Motion No 8
+date: 2011-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00211/government-notice-of-motion-no-8.htm
 author: te-pati-maori
+permalink: /archive/2011/05/11/government-notice-of-motion-no-8/index.html
+layout: layout.njk
 ---
 Government Notice of Motion No 8
 ================================

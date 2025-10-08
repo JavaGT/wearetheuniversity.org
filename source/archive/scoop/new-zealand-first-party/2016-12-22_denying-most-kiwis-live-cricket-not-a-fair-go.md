@@ -1,9 +1,12 @@
 ---
 slug: denying-most-kiwis-live-cricket-not-a-fair-go
-title: "Denying Most Kiwis Live Cricket Not a Fair Go"
-date: 2016-12-22
-source-url: https://www.scoop.co.nz/stories/PA1612/S00343/denying-most-kiwis-live-cricket-not-a-fair-go.htm
+title: Denying Most Kiwis Live Cricket Not a Fair Go
+date: 2016-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00343/denying-most-kiwis-live-cricket-not-a-fair-go.htm
 author: new-zealand-first-party
+permalink: /archive/2016/12/22/denying-most-kiwis-live-cricket-not-a-fair-go/index.html
+layout: layout.njk
 ---
 Denying Most Kiwis Live Cricket Not a Fair Go
 =============================================

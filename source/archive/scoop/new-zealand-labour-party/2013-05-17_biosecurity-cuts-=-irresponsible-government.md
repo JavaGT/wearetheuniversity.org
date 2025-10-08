@@ -1,9 +1,12 @@
 ---
 slug: biosecurity-cuts-=-irresponsible-government
-title: "Biosecurity cuts = irresponsible Government"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00384/biosecurity-cuts-irresponsible-government.htm
+title: Biosecurity cuts = irresponsible Government
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00384/biosecurity-cuts-irresponsible-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/17/biosecurity-cuts-/index.html
+layout: layout.njk
 ---
 Biosecurity cuts = irresponsible Government
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: partnership-to-enhance-interactive-online-driving-programmes
-title: "Partnership to enhance interactive online driving programmes"
-date: 2017-05-29
-source-url: https://www.scoop.co.nz/stories/ED1705/S00112/partnership-to-enhance-interactive-online-driving-programmes.htm
+title: Partnership to enhance interactive online driving programmes
+date: 2017-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00112/partnership-to-enhance-interactive-online-driving-programmes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/05/29/partnership-to-enhance-interactive-online-driving-programmes/index.html
+layout: layout.njk
 ---
 Partnership to enhance interactive online driving programmes
 ============================================================

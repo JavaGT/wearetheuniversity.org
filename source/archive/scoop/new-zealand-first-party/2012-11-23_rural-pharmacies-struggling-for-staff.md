@@ -1,9 +1,12 @@
 ---
 slug: rural-pharmacies-struggling-for-staff
-title: "Rural Pharmacies Struggling for Staff"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/PA1211/S00403/rural-pharmacies-struggling-for-staff.htm
+title: Rural Pharmacies Struggling for Staff
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00403/rural-pharmacies-struggling-for-staff.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/23/rural-pharmacies-struggling-for-staff/index.html
+layout: layout.njk
 ---
 Rural Pharmacies Struggling for Staff
 =====================================

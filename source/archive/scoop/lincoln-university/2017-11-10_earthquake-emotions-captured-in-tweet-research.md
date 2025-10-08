@@ -1,9 +1,12 @@
 ---
 slug: earthquake-emotions-captured-in-tweet-research
-title: "Earthquake emotions captured in tweet research"
-date: 2017-11-10
-source-url: https://www.scoop.co.nz/stories/AK1711/S00267/earthquake-emotions-captured-in-tweet-research.htm
+title: Earthquake emotions captured in tweet research
+date: 2017-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1711/S00267/earthquake-emotions-captured-in-tweet-research.htm
 author: lincoln-university
+permalink: /archive/2017/11/10/earthquake-emotions-captured-in-tweet-research/index.html
+layout: layout.njk
 ---
 Earthquake emotions captured in tweet research
 ==============================================

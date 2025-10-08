@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-special-education-needs-inquiry
-title: "NZEI welcomes special education needs Inquiry"
-date: 2015-08-19
-source-url: https://www.scoop.co.nz/stories/ED1508/S00100/nzei-welcomes-special-education-needs-inquiry.htm
+title: NZEI welcomes special education needs Inquiry
+date: 2015-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00100/nzei-welcomes-special-education-needs-inquiry.htm
 author: nzei
+permalink: /archive/2015/08/19/nzei-welcomes-special-education-needs-inquiry/index.html
+layout: layout.njk
 ---
 NZEI welcomes special education needs Inquiry
 =============================================

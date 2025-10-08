@@ -1,9 +1,13 @@
 ---
 slug: no-commitment-to-affordability-in-nationals-housing-plans
-title: "No commitment to affordability in National’s housing plans"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/PA1310/S00150/no-commitment-to-affordability-in-nationals-housing-plans.htm
+title: No commitment to affordability in National’s housing plans
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00150/no-commitment-to-affordability-in-nationals-housing-plans.htm
 author: green-party
+permalink: >-
+  /archive/2013/10/09/no-commitment-to-affordability-in-nationals-housing-plans/index.html
+layout: layout.njk
 ---
 No commitment to affordability in National’s housing plans
 ==========================================================

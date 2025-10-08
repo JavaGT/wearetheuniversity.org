@@ -1,9 +1,12 @@
 ---
 slug: 10-pike-rivers-since-keys-broken-promise-widow
-title: "10 Pike Rivers since Key's \"broken\" promise - widow"
-date: 2015-07-26
-source-url: https://www.scoop.co.nz/stories/AK1507/S00493/10-pike-rivers-since-keys-broken-promise-widow.htm
+title: 10 Pike Rivers since Key's "broken" promise - widow
+date: 2015-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1507/S00493/10-pike-rivers-since-keys-broken-promise-widow.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/07/26/10-pike-rivers-since-keys-broken-promise-widow/index.html
+layout: layout.njk
 ---
 10 Pike Rivers since Key's "broken" promise - widow
 ===================================================

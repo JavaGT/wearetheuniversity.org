@@ -1,9 +1,12 @@
 ---
 slug: dr-kim-workman-prisoners-need-to-be-heard
-title: "Dr Kim Workman - Prisoners need to be heard"
-date: 2017-05-10
-source-url: https://www.scoop.co.nz/stories/PO1705/S00128/dr-kim-workman-prisoners-need-to-be-heard.htm
+title: Dr Kim Workman - Prisoners need to be heard
+date: 2017-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1705/S00128/dr-kim-workman-prisoners-need-to-be-heard.htm
 author: massey-university
+permalink: /archive/2017/05/10/dr-kim-workman-prisoners-need-to-be-heard/index.html
+layout: layout.njk
 ---
 Dr Kim Workman - Prisoners need to be heard
 ===========================================

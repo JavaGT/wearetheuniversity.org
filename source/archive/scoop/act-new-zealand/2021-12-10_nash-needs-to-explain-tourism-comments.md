@@ -1,9 +1,12 @@
 ---
 slug: nash-needs-to-explain-tourism-comments
-title: "Nash Needs To Explain Tourism Comments"
-date: 2021-12-10
-source-url: https://www.scoop.co.nz/stories/PA2112/S00088/nash-needs-to-explain-tourism-comments.htm
+title: Nash Needs To Explain Tourism Comments
+date: 2021-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00088/nash-needs-to-explain-tourism-comments.htm
 author: act-new-zealand
+permalink: /archive/2021/12/10/nash-needs-to-explain-tourism-comments/index.html
+layout: layout.njk
 ---
 Nash Needs To Explain Tourism Comments
 ======================================

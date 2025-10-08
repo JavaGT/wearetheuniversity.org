@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-uncover-new-zealands-first-fossils
-title: "Otago researchers uncover New Zealand's first fossils"
-date: 2018-02-08
-source-url: https://www.scoop.co.nz/stories/SC1802/S00017/otago-researchers-uncover-new-zealands-first-fossils.htm
+title: Otago researchers uncover New Zealand's first fossils
+date: 2018-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00017/otago-researchers-uncover-new-zealands-first-fossils.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/08/otago-researchers-uncover-new-zealands-first-fossils/index.html
+layout: layout.njk
 ---
 Otago researchers uncover New Zealand's first fossils
 =====================================================

@@ -1,9 +1,11 @@
 ---
 slug: the-art-of-heavy-breathing
-title: "The art of heavy breathing"
-date: 2005-10-26
+title: The art of heavy breathing
+date: 2005-10-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC0510/S00060/the-art-of-heavy-breathing.htm
 author: aut-university
+permalink: /archive/2005/10/26/the-art-of-heavy-breathing/index.html
+layout: layout.njk
 ---
 The art of heavy breathing
 ==========================

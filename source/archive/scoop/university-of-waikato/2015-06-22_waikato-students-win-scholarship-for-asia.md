@@ -1,9 +1,12 @@
 ---
 slug: waikato-students-win-scholarship-for-asia
-title: "Waikato students win scholarship for Asia"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/ED1506/S00115/waikato-students-win-scholarship-for-asia.htm
+title: Waikato students win scholarship for Asia
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00115/waikato-students-win-scholarship-for-asia.htm
 author: university-of-waikato
+permalink: /archive/2015/06/22/waikato-students-win-scholarship-for-asia/index.html
+layout: layout.njk
 ---
 Waikato students win scholarship for Asia
 =========================================

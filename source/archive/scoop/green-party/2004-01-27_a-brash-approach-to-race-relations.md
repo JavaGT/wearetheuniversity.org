@@ -1,9 +1,12 @@
 ---
 slug: a-brash-approach-to-race-relations
-title: "A Brash approach to race relations"
-date: 2004-01-27
-source-url: https://www.scoop.co.nz/stories/PA0401/S00222/a-brash-approach-to-race-relations.htm
+title: A Brash approach to race relations
+date: 2004-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00222/a-brash-approach-to-race-relations.htm
 author: green-party
+permalink: /archive/2004/01/27/a-brash-approach-to-race-relations/index.html
+layout: layout.njk
 ---
 A Brash approach to race relations
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: great-drama-unfolds
-title: "Great Drama Unfolds"
-date: 2006-09-12
+title: Great Drama Unfolds
+date: 2006-09-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0609/S00104/great-drama-unfolds.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/12/great-drama-unfolds/index.html
+layout: layout.njk
 ---
 Great Drama Unfolds
 ===================

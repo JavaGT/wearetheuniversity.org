@@ -1,9 +1,13 @@
 ---
 slug: helen-clark-bill-english-tour-solar-kiwi-bach-in-us-capital
-title: "Helen Clark, Bill English tour solar Kiwi bach in US capital"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/BU1109/S00852/helen-clark-bill-english-tour-solar-kiwi-bach-in-us-capital.htm
+title: Helen Clark, Bill English tour solar Kiwi bach in US capital
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1109/S00852/helen-clark-bill-english-tour-solar-kiwi-bach-in-us-capital.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/09/29/helen-clark-bill-english-tour-solar-kiwi-bach-in-us-capital/index.html
+layout: layout.njk
 ---
 Helen Clark, Bill English tour solar Kiwi bach in US capital
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: wider-use-of-sir-peter-blake-memorial-funds-urged
-title: "Wider use of Sir Peter Blake memorial funds urged"
-date: 2003-03-07
-source-url: https://www.scoop.co.nz/stories/PA0303/S00123/wider-use-of-sir-peter-blake-memorial-funds-urged.htm
+title: Wider use of Sir Peter Blake memorial funds urged
+date: 2003-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00123/wider-use-of-sir-peter-blake-memorial-funds-urged.htm
 author: green-party
+permalink: >-
+  /archive/2003/03/07/wider-use-of-sir-peter-blake-memorial-funds-urged/index.html
+layout: layout.njk
 ---
 Wider use of Sir Peter Blake memorial funds urged
 =================================================

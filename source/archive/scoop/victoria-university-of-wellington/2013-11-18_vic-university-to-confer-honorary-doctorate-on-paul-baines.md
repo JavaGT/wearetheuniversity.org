@@ -1,9 +1,13 @@
 ---
 slug: vic-university-to-confer-honorary-doctorate-on-paul-baines
-title: "Vic University to confer honorary doctorate on Paul Baines"
-date: 2013-11-18
-source-url: https://www.scoop.co.nz/stories/ED1311/S00121/vic-university-to-confer-honorary-doctorate-on-paul-baines.htm
+title: Vic University to confer honorary doctorate on Paul Baines
+date: 2013-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00121/vic-university-to-confer-honorary-doctorate-on-paul-baines.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/11/18/vic-university-to-confer-honorary-doctorate-on-paul-baines/index.html
+layout: layout.njk
 ---
 Vic University to confer honorary doctorate on Paul Baines
 ==========================================================

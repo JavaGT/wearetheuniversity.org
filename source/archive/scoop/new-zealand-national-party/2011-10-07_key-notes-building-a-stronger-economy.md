@@ -1,9 +1,12 @@
 ---
 slug: key-notes-building-a-stronger-economy
-title: "Key Notes - Building a Stronger Economy"
-date: 2011-10-07
-source-url: https://www.scoop.co.nz/stories/PA1110/S00179/key-notes-building-a-stronger-economy.htm
+title: Key Notes - Building a Stronger Economy
+date: 2011-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00179/key-notes-building-a-stronger-economy.htm
 author: new-zealand-national-party
+permalink: /archive/2011/10/07/key-notes-building-a-stronger-economy/index.html
+layout: layout.njk
 ---
 Key Notes - Building a Stronger Economy
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: shiny-new-objects-should-not-distract-from-learning
-title: "Shiny New Objects Should Not Distract From Learning"
-date: 2013-01-30
-source-url: https://www.scoop.co.nz/stories/PA1301/S00168/shiny-new-objects-should-not-distract-from-learning.htm
+title: Shiny New Objects Should Not Distract From Learning
+date: 2013-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00168/shiny-new-objects-should-not-distract-from-learning.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/01/30/shiny-new-objects-should-not-distract-from-learning/index.html
+layout: layout.njk
 ---
 Shiny New Objects Should Not Distract From Learning
 ===================================================

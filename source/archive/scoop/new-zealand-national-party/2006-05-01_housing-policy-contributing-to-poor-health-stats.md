@@ -1,9 +1,13 @@
 ---
 slug: housing-policy-contributing-to-poor-health-stats
-title: "Housing policy contributing to poor health stats"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/PA0605/S00017/housing-policy-contributing-to-poor-health-stats.htm
+title: Housing policy contributing to poor health stats
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00017/housing-policy-contributing-to-poor-health-stats.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/05/01/housing-policy-contributing-to-poor-health-stats/index.html
+layout: layout.njk
 ---
 Housing policy contributing to poor health stats
 ================================================

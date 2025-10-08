@@ -1,9 +1,12 @@
 ---
 slug: home-affordability-improves-but-market-subdued
-title: "Home affordability improves but market subdued"
-date: 2010-06-25
-source-url: https://www.scoop.co.nz/stories/ED1006/S00095/home-affordability-improves-but-market-subdued.htm
+title: Home affordability improves but market subdued
+date: 2010-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00095/home-affordability-improves-but-market-subdued.htm
 author: massey-university
+permalink: /archive/2010/06/25/home-affordability-improves-but-market-subdued/index.html
+layout: layout.njk
 ---
 Home affordability improves but market subdued
 ==============================================

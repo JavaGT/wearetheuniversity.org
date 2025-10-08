@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-personal-and-property-rights
-title: "Te Ururoa Flavell: Personal And Property Rights"
-date: 2007-09-19
-source-url: https://www.scoop.co.nz/stories/PA0709/S00309/te-ururoa-flavell-personal-and-property-rights.htm
+title: 'Te Ururoa Flavell: Personal And Property Rights'
+date: 2007-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00309/te-ururoa-flavell-personal-and-property-rights.htm
 author: te-pati-maori
+permalink: /archive/2007/09/19/te-ururoa-flavell-personal-and-property-rights/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell: Personal And Property Rights
 ===============================================

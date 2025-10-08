@@ -1,9 +1,12 @@
 ---
 slug: speech-roy-anti-smacking-referendum
-title: "Speech: Roy - Anti-Smacking Referendum"
-date: 2009-06-24
-source-url: https://www.scoop.co.nz/stories/PA0906/S00329/speech-roy-anti-smacking-referendum.htm
+title: 'Speech: Roy - Anti-Smacking Referendum'
+date: 2009-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00329/speech-roy-anti-smacking-referendum.htm
 author: act-new-zealand
+permalink: /archive/2009/06/24/speech-roy-anti-smacking-referendum/index.html
+layout: layout.njk
 ---
 Speech: Roy - Anti-Smacking Referendum
 ======================================

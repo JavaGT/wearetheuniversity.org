@@ -1,9 +1,12 @@
 ---
 slug: speech-text-of-speech-by-rt-hon-winston-peters
-title: "Speech text of Speech by Rt Hon Winston Peters"
-date: 2002-02-14
-source-url: https://www.scoop.co.nz/stories/PA0202/S00176/speech-text-of-speech-by-rt-hon-winston-peters.htm
+title: Speech text of Speech by Rt Hon Winston Peters
+date: 2002-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0202/S00176/speech-text-of-speech-by-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/02/14/speech-text-of-speech-by-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 Speech text of Speech by Rt Hon Winston Peters
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: ministers-target-put-above-giving-kids-the-best-start
-title: "Minister’s target put above giving kids the best start"
-date: 2016-05-03
-source-url: https://www.scoop.co.nz/stories/PA1605/S00033/ministers-target-put-above-giving-kids-the-best-start.htm
+title: Minister’s target put above giving kids the best start
+date: 2016-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00033/ministers-target-put-above-giving-kids-the-best-start.htm
 author: green-party
+permalink: >-
+  /archive/2016/05/03/ministers-target-put-above-giving-kids-the-best-start/index.html
+layout: layout.njk
 ---
 Minister’s target put above giving kids the best start
 ======================================================

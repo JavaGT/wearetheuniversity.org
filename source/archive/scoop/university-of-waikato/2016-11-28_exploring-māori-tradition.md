@@ -1,9 +1,11 @@
 ---
 slug: exploring-māori-tradition
-title: "Exploring Māori tradition"
-date: 2016-11-28
+title: Exploring Māori tradition
+date: 2016-11-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1611/S00126/exploring-maori-tradition.htm
 author: university-of-waikato
+permalink: /archive/2016/11/28/exploring-m/index.html
+layout: layout.njk
 ---
 Exploring Māori tradition
 =========================

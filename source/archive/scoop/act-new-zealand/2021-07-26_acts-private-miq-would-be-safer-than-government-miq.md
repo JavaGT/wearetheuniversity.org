@@ -1,9 +1,13 @@
 ---
 slug: acts-private-miq-would-be-safer-than-government-miq
-title: "ACT’s Private MIQ Would Be Safer Than Government MIQ"
-date: 2021-07-26
-source-url: https://www.scoop.co.nz/stories/PA2107/S00187/acts-private-miq-would-be-safer-than-government-miq.htm
+title: ACT’s Private MIQ Would Be Safer Than Government MIQ
+date: 2021-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00187/acts-private-miq-would-be-safer-than-government-miq.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/07/26/acts-private-miq-would-be-safer-than-government-miq/index.html
+layout: layout.njk
 ---
 ACT’s Private MIQ Would Be Safer Than Government MIQ
 ====================================================

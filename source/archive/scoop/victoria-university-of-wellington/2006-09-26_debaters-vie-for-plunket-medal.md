@@ -1,9 +1,12 @@
 ---
 slug: debaters-vie-for-plunket-medal
-title: "Debaters vie for Plunket Medal"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/ED0609/S00098/debaters-vie-for-plunket-medal.htm
+title: Debaters vie for Plunket Medal
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00098/debaters-vie-for-plunket-medal.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/26/debaters-vie-for-plunket-medal/index.html
+layout: layout.njk
 ---
 Debaters vie for Plunket Medal
 ==============================

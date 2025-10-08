@@ -1,9 +1,13 @@
 ---
 slug: grey-skies-and-a-green-lake-winner-at-waikato-biology-conf
-title: "Grey skies and a green lake winner at Waikato Biology conf."
-date: 2011-11-03
-source-url: https://www.scoop.co.nz/stories/ED1111/S00022/grey-skies-and-a-green-lake-winner-at-waikato-biology-conf.htm
+title: Grey skies and a green lake winner at Waikato Biology conf.
+date: 2011-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00022/grey-skies-and-a-green-lake-winner-at-waikato-biology-conf.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/03/grey-skies-and-a-green-lake-winner-at-waikato-biology-conf/index.html
+layout: layout.njk
 ---
 Grey skies and a green lake winner at Waikato Biology conf.
 ===========================================================

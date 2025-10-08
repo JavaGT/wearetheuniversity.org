@@ -1,8 +1,12 @@
 ---
 slug: auckland-cancer-scientist-gains-global-recognition
-title: "Auckland cancer scientist gains global recognition"
-date: 2015-11-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/auckland-cancer-scientist-gains-global-recognition.html
+title: Auckland cancer scientist gains global recognition
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/auckland-cancer-scientist-gains-global-recognition.html
+permalink: >-
+  /archive/2015/11/09/auckland-cancer-scientist-gains-global-recognition/index.html
+layout: layout.njk
 ---
 Auckland cancer scientist gains global recognition
 ==================================================

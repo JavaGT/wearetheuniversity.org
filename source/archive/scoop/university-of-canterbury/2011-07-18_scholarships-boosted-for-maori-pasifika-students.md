@@ -1,9 +1,13 @@
 ---
 slug: scholarships-boosted-for-maori-pasifika-students
-title: "Scholarships boosted for Maori/Pasifika Students"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/ED1107/S00069/scholarships-boosted-for-maoripasifika-students.htm
+title: Scholarships boosted for Maori/Pasifika Students
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00069/scholarships-boosted-for-maoripasifika-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/07/18/scholarships-boosted-for-maori-pasifika-students/index.html
+layout: layout.njk
 ---
 Scholarships boosted for Maori/Pasifika Students
 ================================================

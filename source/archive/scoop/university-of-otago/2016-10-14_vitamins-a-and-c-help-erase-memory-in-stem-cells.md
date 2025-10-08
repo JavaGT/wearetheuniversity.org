@@ -1,9 +1,13 @@
 ---
 slug: vitamins-a-and-c-help-erase-memory-in-stem-cells
-title: "Vitamins A and C help erase \"memory\" in stem cells"
-date: 2016-10-14
-source-url: https://www.scoop.co.nz/stories/SC1610/S00039/vitamins-a-and-c-help-erase-memory-in-stem-cells.htm
+title: Vitamins A and C help erase "memory" in stem cells
+date: 2016-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1610/S00039/vitamins-a-and-c-help-erase-memory-in-stem-cells.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/14/vitamins-a-and-c-help-erase-memory-in-stem-cells/index.html
+layout: layout.njk
 ---
 Vitamins A and C help erase “memory” in stem cells
 ==================================================

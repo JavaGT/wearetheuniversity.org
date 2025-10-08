@@ -1,9 +1,12 @@
 ---
 slug: rbnz-report-shows-kiwis-finances-on-the-brink
-title: "RBNZ Report Shows Kiwis’ Finances On The Brink"
-date: 2023-05-04
-source-url: https://www.scoop.co.nz/stories/PA2305/S00025/rbnz-report-shows-kiwis-finances-on-the-brink.htm
+title: RBNZ Report Shows Kiwis’ Finances On The Brink
+date: 2023-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00025/rbnz-report-shows-kiwis-finances-on-the-brink.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/04/rbnz-report-shows-kiwis-finances-on-the-brink/index.html
+layout: layout.njk
 ---
 RBNZ Report Shows Kiwis’ Finances On The Brink
 ==============================================

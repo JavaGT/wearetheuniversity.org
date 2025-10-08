@@ -1,9 +1,12 @@
 ---
 slug: students-associations-release-no-more-excuses!
-title: "Students’ Associations Release \"No More Excuses!\""
-date: 2023-08-06
-source-url: https://www.scoop.co.nz/stories/PO2308/S00060/students-associations-release-no-more-excuses.htm
+title: Students’ Associations Release "No More Excuses!"
+date: 2023-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2308/S00060/students-associations-release-no-more-excuses.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2023/08/06/students-associations-release-no-more-excuses/index.html
+layout: layout.njk
 ---
 Students’ Associations Release “No More Excuses!”
 =================================================

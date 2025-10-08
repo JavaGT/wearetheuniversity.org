@@ -1,9 +1,12 @@
 ---
 slug: more-charter-schools-not-the-answer
-title: "More charter schools not the answer"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/PA1605/S00391/more-charter-schools-not-the-answer.htm
+title: More charter schools not the answer
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00391/more-charter-schools-not-the-answer.htm
 author: green-party
+permalink: /archive/2016/05/20/more-charter-schools-not-the-answer/index.html
+layout: layout.njk
 ---
 More charter schools not the answer
 ===================================

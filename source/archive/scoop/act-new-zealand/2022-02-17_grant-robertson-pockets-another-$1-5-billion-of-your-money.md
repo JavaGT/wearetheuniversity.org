@@ -1,9 +1,12 @@
 ---
 slug: grant-robertson-pockets-another-$1-5-billion-of-your-money
-title: "Grant Robertson Pockets Another $1.5 Billion Of Your Money"
-date: 2022-02-17
-source-url: https://www.scoop.co.nz/stories/PA2202/S00118/grant-robertson-pockets-another-15-billion-of-your-money.htm
+title: Grant Robertson Pockets Another $1.5 Billion Of Your Money
+date: 2022-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00118/grant-robertson-pockets-another-15-billion-of-your-money.htm
 author: act-new-zealand
+permalink: /archive/2022/02/17/grant-robertson-pockets-another-/index.html
+layout: layout.njk
 ---
 Grant Robertson Pockets Another $1.5 Billion Of Your Money
 ==========================================================

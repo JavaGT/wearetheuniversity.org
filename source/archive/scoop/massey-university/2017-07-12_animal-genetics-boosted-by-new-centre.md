@@ -1,9 +1,12 @@
 ---
 slug: animal-genetics-boosted-by-new-centre
-title: "Animal genetics boosted by new Centre"
-date: 2017-07-12
-source-url: https://www.scoop.co.nz/stories/ED1707/S00048/animal-genetics-boosted-by-new-centre.htm
+title: Animal genetics boosted by new Centre
+date: 2017-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00048/animal-genetics-boosted-by-new-centre.htm
 author: massey-university
+permalink: /archive/2017/07/12/animal-genetics-boosted-by-new-centre/index.html
+layout: layout.njk
 ---
 Animal genetics boosted by new Centre
 =====================================

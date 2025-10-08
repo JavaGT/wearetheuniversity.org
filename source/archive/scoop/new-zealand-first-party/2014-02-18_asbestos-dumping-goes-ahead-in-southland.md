@@ -1,9 +1,12 @@
 ---
 slug: asbestos-dumping-goes-ahead-in-southland
-title: "Asbestos dumping goes ahead in Southland"
-date: 2014-02-18
-source-url: https://www.scoop.co.nz/stories/PA1402/S00226/asbestos-dumping-goes-ahead-in-southland.htm
+title: Asbestos dumping goes ahead in Southland
+date: 2014-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00226/asbestos-dumping-goes-ahead-in-southland.htm
 author: new-zealand-first-party
+permalink: /archive/2014/02/18/asbestos-dumping-goes-ahead-in-southland/index.html
+layout: layout.njk
 ---
 Asbestos dumping goes ahead in Southland
 ========================================

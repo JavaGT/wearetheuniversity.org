@@ -1,9 +1,12 @@
 ---
 slug: mixed-messages-on-commitment-to-quality-ece
-title: "Mixed Messages On Commitment To Quality ECE"
-date: 2009-02-03
-source-url: https://www.scoop.co.nz/stories/ED0902/S00011/mixed-messages-on-commitment-to-quality-ece.htm
+title: Mixed Messages On Commitment To Quality ECE
+date: 2009-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00011/mixed-messages-on-commitment-to-quality-ece.htm
 author: nzei
+permalink: /archive/2009/02/03/mixed-messages-on-commitment-to-quality-ece/index.html
+layout: layout.njk
 ---
 Mixed Messages On Commitment To Quality ECE
 ===========================================

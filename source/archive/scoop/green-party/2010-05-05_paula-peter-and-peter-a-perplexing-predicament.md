@@ -1,9 +1,12 @@
 ---
 slug: paula-peter-and-peter-a-perplexing-predicament
-title: "Paula, Peter and Peter: a perplexing predicament"
-date: 2010-05-05
-source-url: https://www.scoop.co.nz/stories/PA1005/S00058/paula-peter-and-peter-a-perplexing-predicament.htm
+title: 'Paula, Peter and Peter: a perplexing predicament'
+date: 2010-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00058/paula-peter-and-peter-a-perplexing-predicament.htm
 author: green-party
+permalink: /archive/2010/05/05/paula-peter-and-peter-a-perplexing-predicament/index.html
+layout: layout.njk
 ---
 Paula, Peter and Peter: a perplexing predicament
 ================================================

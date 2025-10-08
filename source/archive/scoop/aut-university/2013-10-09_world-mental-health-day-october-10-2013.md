@@ -1,9 +1,12 @@
 ---
 slug: world-mental-health-day-october-10-2013
-title: "World Mental Health Day: October 10, 2013"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/GE1310/S00051/world-mental-health-day-october-10-2013.htm
+title: 'World Mental Health Day: October 10, 2013'
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00051/world-mental-health-day-october-10-2013.htm
 author: aut-university
+permalink: /archive/2013/10/09/world-mental-health-day-october-10-2013/index.html
+layout: layout.njk
 ---
 World Mental Health Day: October 10, 2013
 =========================================

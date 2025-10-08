@@ -1,9 +1,12 @@
 ---
 slug: students-paying-for-others-bad-debt
-title: "Students Paying For Others Bad Debt"
-date: 1999-10-05
-source-url: https://www.scoop.co.nz/stories/PA9910/S00079/students-paying-for-others-bad-debt.htm
+title: Students Paying For Others Bad Debt
+date: 1999-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00079/students-paying-for-others-bad-debt.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/05/students-paying-for-others-bad-debt/index.html
+layout: layout.njk
 ---
 Students Paying For Others Bad Debt
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: growth-maximising-fiscal-policies
-title: "Growth-maximising fiscal policies"
-date: 2016-04-06
-source-url: https://www.scoop.co.nz/stories/PO1604/S00058/growth-maximising-fiscal-policies.htm
+title: Growth-maximising fiscal policies
+date: 2016-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00058/growth-maximising-fiscal-policies.htm
 author: motu
+permalink: /archive/2016/04/06/growth-maximising-fiscal-policies/index.html
+layout: layout.njk
 ---
 Growth-maximising fiscal policies
 =================================

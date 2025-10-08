@@ -1,9 +1,12 @@
 ---
 slug: national-to-balance-the-books-sooner-repay-debt
-title: "National to balance the books sooner, repay debt"
-date: 2011-10-31
-source-url: https://www.scoop.co.nz/stories/PA1110/S00486/national-to-balance-the-books-sooner-repay-debt.htm
+title: National to balance the books sooner, repay debt
+date: 2011-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00486/national-to-balance-the-books-sooner-repay-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2011/10/31/national-to-balance-the-books-sooner-repay-debt/index.html
+layout: layout.njk
 ---
 National to balance the books sooner, repay debt
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: elam-artist-in-residence-rose-nolan
-title: "Elam Artist in Residence: Rose Nolan"
-date: 2002-08-15
-source-url: https://www.scoop.co.nz/stories/CU0208/S00028/elam-artist-in-residence-rose-nolan.htm
+title: 'Elam Artist in Residence: Rose Nolan'
+date: 2002-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0208/S00028/elam-artist-in-residence-rose-nolan.htm
 author: auckland-university
+permalink: /archive/2002/08/15/elam-artist-in-residence-rose-nolan/index.html
+layout: layout.njk
 ---
 Elam Artist in Residence: Rose Nolan
 ====================================

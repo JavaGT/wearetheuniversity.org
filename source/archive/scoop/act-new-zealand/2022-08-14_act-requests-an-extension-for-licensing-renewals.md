@@ -1,9 +1,13 @@
 ---
 slug: act-requests-an-extension-for-licensing-renewals
-title: "ACT Requests An Extension For Licensing Renewals"
-date: 2022-08-14
-source-url: https://www.scoop.co.nz/stories/PA2208/S00133/act-requests-an-extension-for-licensing-renewals.htm
+title: ACT Requests An Extension For Licensing Renewals
+date: 2022-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00133/act-requests-an-extension-for-licensing-renewals.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/08/14/act-requests-an-extension-for-licensing-renewals/index.html
+layout: layout.njk
 ---
 ACT Requests An Extension For Licensing Renewals
 ================================================

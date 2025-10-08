@@ -1,9 +1,12 @@
 ---
 slug: webguide-manual-for-community-groups
-title: "Webguide manual for community groups"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/SC0703/S00044/webguide-manual-for-community-groups.htm
+title: Webguide manual for community groups
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00044/webguide-manual-for-community-groups.htm
 author: waikato-university
+permalink: /archive/2007/03/19/webguide-manual-for-community-groups/index.html
+layout: layout.njk
 ---
 Webguide manual for community groups
 ====================================

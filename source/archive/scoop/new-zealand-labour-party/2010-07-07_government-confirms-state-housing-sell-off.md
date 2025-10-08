@@ -1,9 +1,12 @@
 ---
 slug: government-confirms-state-housing-sell-off
-title: "Government confirms state housing sell off"
-date: 2010-07-07
-source-url: https://www.scoop.co.nz/stories/PA1007/S00141/government-confirms-state-housing-sell-off.htm
+title: Government confirms state housing sell off
+date: 2010-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00141/government-confirms-state-housing-sell-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/07/government-confirms-state-housing-sell-off/index.html
+layout: layout.njk
 ---
 Government confirms state housing sell off
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: marsden-fund-delivers-largest-amount-ever
-title: "Marsden Fund delivers largest amount ever"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/PA0809/S00485/marsden-fund-delivers-largest-amount-ever.htm
+title: Marsden Fund delivers largest amount ever
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00485/marsden-fund-delivers-largest-amount-ever.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/23/marsden-fund-delivers-largest-amount-ever/index.html
+layout: layout.njk
 ---
 Marsden Fund delivers largest amount ever
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: ausa-irate-at-governments-betrayal-of-students
-title: "AUSA irate at Government’s betrayal of students"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/ED0305/S00048/ausa-irate-at-governments-betrayal-of-students.htm
+title: AUSA irate at Government’s betrayal of students
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00048/ausa-irate-at-governments-betrayal-of-students.htm
 author: auckland-university-students-association
+permalink: /archive/2003/05/15/ausa-irate-at-governments-betrayal-of-students/index.html
+layout: layout.njk
 ---
 AUSA irate at Government’s betrayal of students
 ===============================================

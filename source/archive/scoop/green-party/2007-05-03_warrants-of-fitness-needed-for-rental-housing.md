@@ -1,9 +1,12 @@
 ---
 slug: warrants-of-fitness-needed-for-rental-housing
-title: "Warrants of Fitness needed for rental housing,"
-date: 2007-05-03
-source-url: https://www.scoop.co.nz/stories/PA0705/S00100/warrants-of-fitness-needed-for-rental-housing.htm
+title: Warrants of Fitness needed for rental housing,
+date: 2007-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00100/warrants-of-fitness-needed-for-rental-housing.htm
 author: green-party
+permalink: /archive/2007/05/03/warrants-of-fitness-needed-for-rental-housing/index.html
+layout: layout.njk
 ---
 Warrants of Fitness needed for rental housing,
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: market-fundamentalism-is-an-obstacle-to-social-progress
-title: "‘Market Fundamentalism’ Is An Obstacle To Social Progress"
-date: 2023-05-19
-source-url: https://www.scoop.co.nz/stories/PO2305/S00137/market-fundamentalism-is-an-obstacle-to-social-progress.htm
+title: ‘Market Fundamentalism’ Is An Obstacle To Social Progress
+date: 2023-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00137/market-fundamentalism-is-an-obstacle-to-social-progress.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2023/05/19/market-fundamentalism-is-an-obstacle-to-social-progress/index.html
+layout: layout.njk
 ---
 ‘Market Fundamentalism’ Is An Obstacle To Social Progress
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: employment-relations-amendment-bill-(no-2)
-title: "Employment Relations Amendment Bill (no 2)"
-date: 2010-11-24
-source-url: https://www.scoop.co.nz/stories/PA1011/S00482/employment-relations-amendment-bill-no-2.htm
+title: Employment Relations Amendment Bill (no 2)
+date: 2010-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00482/employment-relations-amendment-bill-no-2.htm
 author: te-pati-maori
+permalink: /archive/2010/11/24/employment-relations-amendment-bill-/index.html
+layout: layout.njk
 ---
 Employment Relations Amendment Bill (no 2)
 ==========================================

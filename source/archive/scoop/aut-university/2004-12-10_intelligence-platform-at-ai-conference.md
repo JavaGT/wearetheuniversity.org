@@ -1,9 +1,12 @@
 ---
 slug: intelligence-platform-at-ai-conference
-title: "Intelligence platform at AI conference"
-date: 2004-12-10
-source-url: https://www.scoop.co.nz/stories/SC0412/S00025/intelligence-platform-at-ai-conference.htm
+title: Intelligence platform at AI conference
+date: 2004-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0412/S00025/intelligence-platform-at-ai-conference.htm
 author: aut-university
+permalink: /archive/2004/12/10/intelligence-platform-at-ai-conference/index.html
+layout: layout.njk
 ---
 Intelligence platform at AI conference
 ======================================

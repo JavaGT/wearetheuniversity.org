@@ -1,9 +1,13 @@
 ---
 slug: more-traffic-congestion-with-closure-of-christchurch-schools
-title: "More traffic congestion with closure of Christchurch schools"
-date: 2012-10-01
-source-url: https://www.scoop.co.nz/stories/AK1210/S00004/more-traffic-congestion-with-closure-of-christchurch-schools.htm
+title: More traffic congestion with closure of Christchurch schools
+date: 2012-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00004/more-traffic-congestion-with-closure-of-christchurch-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/01/more-traffic-congestion-with-closure-of-christchurch-schools/index.html
+layout: layout.njk
 ---
 More traffic congestion with closure of Christchurch schools
 ============================================================

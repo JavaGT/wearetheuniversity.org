@@ -1,9 +1,12 @@
 ---
 slug: time-for-maturity-on-nuclear-ships
-title: "Time For Maturity On Nuclear Ships"
-date: 2003-07-11
-source-url: https://www.scoop.co.nz/stories/PA0307/S00219/time-for-maturity-on-nuclear-ships.htm
+title: Time For Maturity On Nuclear Ships
+date: 2003-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00219/time-for-maturity-on-nuclear-ships.htm
 author: act-new-zealand
+permalink: /archive/2003/07/11/time-for-maturity-on-nuclear-ships/index.html
+layout: layout.njk
 ---
 Time For Maturity On Nuclear Ships
 ==================================

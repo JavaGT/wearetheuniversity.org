@@ -1,9 +1,13 @@
 ---
 slug: we-have-a-flag-and-dont-need-a-referendum-peters
-title: "We Have a Flag And Don’t Need a Referendum - Peters"
-date: 2015-04-28
-source-url: https://www.scoop.co.nz/stories/PA1504/S00353/we-have-a-flag-and-dont-need-a-referendum-peters.htm
+title: We Have a Flag And Don’t Need a Referendum - Peters
+date: 2015-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00353/we-have-a-flag-and-dont-need-a-referendum-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/04/28/we-have-a-flag-and-dont-need-a-referendum-peters/index.html
+layout: layout.njk
 ---
 We Have a Flag And Don’t Need a Referendum - Peters
 ===================================================

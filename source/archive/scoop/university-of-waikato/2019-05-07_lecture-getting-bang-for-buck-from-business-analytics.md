@@ -1,9 +1,13 @@
 ---
 slug: lecture-getting-bang-for-buck-from-business-analytics
-title: "Lecture: Getting bang for buck from business analytics"
-date: 2019-05-07
-source-url: https://www.scoop.co.nz/stories/ED1905/S00022/lecture-getting-bang-for-buck-from-business-analytics.htm
+title: 'Lecture: Getting bang for buck from business analytics'
+date: 2019-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00022/lecture-getting-bang-for-buck-from-business-analytics.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/05/07/lecture-getting-bang-for-buck-from-business-analytics/index.html
+layout: layout.njk
 ---
 Lecture: Getting bang for buck from business analytics
 ======================================================

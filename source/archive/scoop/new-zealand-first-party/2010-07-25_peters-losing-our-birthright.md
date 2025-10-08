@@ -1,9 +1,11 @@
 ---
 slug: peters-losing-our-birthright
-title: "Peters: \"Losing Our Birthright\""
-date: 2010-07-25
+title: 'Peters: "Losing Our Birthright"'
+date: 2010-07-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1007/S00302/peters-losing-our-birthright.htm
 author: new-zealand-first-party
+permalink: /archive/2010/07/25/peters-losing-our-birthright/index.html
+layout: layout.njk
 ---
 Peters: “Losing Our Birthright”
 ===============================

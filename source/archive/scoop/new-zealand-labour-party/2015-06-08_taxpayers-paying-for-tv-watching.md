@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-paying-for-tv-watching
-title: "Taxpayers paying for TV watching"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/PA1506/S00123/taxpayers-paying-for-tv-watching.htm
+title: Taxpayers paying for TV watching
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00123/taxpayers-paying-for-tv-watching.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/08/taxpayers-paying-for-tv-watching/index.html
+layout: layout.njk
 ---
 Taxpayers paying for TV watching
 ================================

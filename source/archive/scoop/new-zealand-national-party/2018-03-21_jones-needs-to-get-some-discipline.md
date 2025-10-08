@@ -1,9 +1,12 @@
 ---
 slug: jones-needs-to-get-some-discipline
-title: "Jones needs to get some discipline"
-date: 2018-03-21
-source-url: https://www.scoop.co.nz/stories/PA1803/S00218/jones-needs-to-get-some-discipline.htm
+title: Jones needs to get some discipline
+date: 2018-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00218/jones-needs-to-get-some-discipline.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/21/jones-needs-to-get-some-discipline/index.html
+layout: layout.njk
 ---
 Jones needs to get some discipline
 ==================================

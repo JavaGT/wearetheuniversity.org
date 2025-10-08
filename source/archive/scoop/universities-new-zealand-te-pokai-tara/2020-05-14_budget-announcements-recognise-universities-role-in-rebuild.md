@@ -1,9 +1,13 @@
 ---
 slug: budget-announcements-recognise-universities-role-in-rebuild
-title: "Budget Announcements Recognise Universities’ Role In Rebuild"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PO2005/S00209/budget-announcements-recognise-universities-role-in-rebuild.htm
+title: Budget Announcements Recognise Universities’ Role In Rebuild
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00209/budget-announcements-recognise-universities-role-in-rebuild.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2020/05/14/budget-announcements-recognise-universities-role-in-rebuild/index.html
+layout: layout.njk
 ---
 Budget Announcements Recognise Universities’ Role In Rebuild
 ============================================================

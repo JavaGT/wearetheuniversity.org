@@ -1,9 +1,12 @@
 ---
 slug: time-for-key-to-rein-in-ryall-and-tolley
-title: "Time for Key to rein in Ryall and Tolley"
-date: 2009-09-03
-source-url: https://www.scoop.co.nz/stories/PA0909/S00034/time-for-key-to-rein-in-ryall-and-tolley.htm
+title: Time for Key to rein in Ryall and Tolley
+date: 2009-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00034/time-for-key-to-rein-in-ryall-and-tolley.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/03/time-for-key-to-rein-in-ryall-and-tolley/index.html
+layout: layout.njk
 ---
 Time for Key to rein in Ryall and Tolley
 ========================================

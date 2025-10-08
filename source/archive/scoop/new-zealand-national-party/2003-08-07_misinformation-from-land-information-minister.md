@@ -1,9 +1,12 @@
 ---
 slug: misinformation-from-land-information-minister
-title: "Misinformation from Land Information Minister"
-date: 2003-08-07
-source-url: https://www.scoop.co.nz/stories/PA0308/S00125/misinformation-from-land-information-minister.htm
+title: Misinformation from Land Information Minister
+date: 2003-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00125/misinformation-from-land-information-minister.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/07/misinformation-from-land-information-minister/index.html
+layout: layout.njk
 ---
 Misinformation from Land Information Minister
 =============================================

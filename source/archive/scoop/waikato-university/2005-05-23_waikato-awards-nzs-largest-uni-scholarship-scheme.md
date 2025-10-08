@@ -1,9 +1,13 @@
 ---
 slug: waikato-awards-nzs-largest-uni-scholarship-scheme
-title: "Waikato awards NZ's largest uni scholarship scheme"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/ED0505/S00102/waikato-awards-nzs-largest-uni-scholarship-scheme.htm
+title: Waikato awards NZ's largest uni scholarship scheme
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00102/waikato-awards-nzs-largest-uni-scholarship-scheme.htm
 author: waikato-university
+permalink: >-
+  /archive/2005/05/23/waikato-awards-nzs-largest-uni-scholarship-scheme/index.html
+layout: layout.njk
 ---
 Waikato awards NZ's largest uni scholarship scheme
 ==================================================

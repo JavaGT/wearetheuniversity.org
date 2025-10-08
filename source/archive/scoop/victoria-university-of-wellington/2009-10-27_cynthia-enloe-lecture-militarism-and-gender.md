@@ -1,9 +1,12 @@
 ---
 slug: cynthia-enloe-lecture-militarism-and-gender
-title: "Cynthia Enloe Lecture: Militarism and Gender"
-date: 2009-10-27
-source-url: https://www.scoop.co.nz/stories/ED0910/S00114/cynthia-enloe-lecture-militarism-and-gender.htm
+title: 'Cynthia Enloe Lecture: Militarism and Gender'
+date: 2009-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00114/cynthia-enloe-lecture-militarism-and-gender.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/27/cynthia-enloe-lecture-militarism-and-gender/index.html
+layout: layout.njk
 ---
 Cynthia Enloe Lecture: Militarism and Gender
 ============================================

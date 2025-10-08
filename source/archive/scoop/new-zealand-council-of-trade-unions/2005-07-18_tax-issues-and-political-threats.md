@@ -1,9 +1,12 @@
 ---
 slug: tax-issues-and-political-threats
-title: "Tax issues and political threats"
-date: 2005-07-18
-source-url: https://www.scoop.co.nz/stories/PO0507/S00162/tax-issues-and-political-threats.htm
+title: Tax issues and political threats
+date: 2005-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00162/tax-issues-and-political-threats.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/07/18/tax-issues-and-political-threats/index.html
+layout: layout.njk
 ---
 Tax issues and political threats
 ================================

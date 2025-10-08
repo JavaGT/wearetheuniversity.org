@@ -1,9 +1,12 @@
 ---
 slug: turia-how-to-enhance-well-being-of-our-elderly
-title: "Turia: How to enhance well-being of our elderly"
-date: 2006-11-08
-source-url: https://www.scoop.co.nz/stories/PA0611/S00136/turia-how-to-enhance-well-being-of-our-elderly.htm
+title: 'Turia: How to enhance well-being of our elderly'
+date: 2006-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00136/turia-how-to-enhance-well-being-of-our-elderly.htm
 author: te-pati-maori
+permalink: /archive/2006/11/08/turia-how-to-enhance-well-being-of-our-elderly/index.html
+layout: layout.njk
 ---
 Turia: How to enhance well-being of our elderly
 ===============================================

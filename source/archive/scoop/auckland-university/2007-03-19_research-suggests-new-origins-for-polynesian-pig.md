@@ -1,9 +1,13 @@
 ---
 slug: research-suggests-new-origins-for-polynesian-pig
-title: "Research suggests new origins for Polynesian pig"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/AK0703/S00224/research-suggests-new-origins-for-polynesian-pig.htm
+title: Research suggests new origins for Polynesian pig
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0703/S00224/research-suggests-new-origins-for-polynesian-pig.htm
 author: auckland-university
+permalink: >-
+  /archive/2007/03/19/research-suggests-new-origins-for-polynesian-pig/index.html
+layout: layout.njk
 ---
 Research suggests new origins for Polynesian pig
 ================================================

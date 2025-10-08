@@ -1,9 +1,13 @@
 ---
 slug: student-allowances-the-answer-to-a-tight-job-mar
-title: "Student allowances:  The answer to a tight job mar"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/PO0903/S00094/student-allowances-the-answer-to-a-tight-job-mar.htm
+title: 'Student allowances:  The answer to a tight job mar'
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00094/student-allowances-the-answer-to-a-tight-job-mar.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2009/03/09/student-allowances-the-answer-to-a-tight-job-mar/index.html
+layout: layout.njk
 ---
 Student allowances: The answer to a tight job mar
 =================================================

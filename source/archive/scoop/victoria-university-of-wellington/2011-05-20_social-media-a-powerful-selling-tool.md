@@ -1,9 +1,12 @@
 ---
 slug: social-media-a-powerful-selling-tool
-title: "Social media a powerful selling tool"
-date: 2011-05-20
-source-url: https://www.scoop.co.nz/stories/ED1105/S00086/social-media-a-powerful-selling-tool.htm
+title: Social media a powerful selling tool
+date: 2011-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00086/social-media-a-powerful-selling-tool.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/20/social-media-a-powerful-selling-tool/index.html
+layout: layout.njk
 ---
 Social media a powerful selling tool
 ====================================

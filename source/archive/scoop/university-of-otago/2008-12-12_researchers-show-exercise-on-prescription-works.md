@@ -1,9 +1,12 @@
 ---
 slug: researchers-show-exercise-on-prescription-works
-title: "Researchers show \"exercise on prescription\" works"
-date: 2008-12-12
-source-url: https://www.scoop.co.nz/stories/GE0812/S00077/researchers-show-exercise-on-prescription-works.htm
+title: Researchers show "exercise on prescription" works
+date: 2008-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0812/S00077/researchers-show-exercise-on-prescription-works.htm
 author: university-of-otago
+permalink: /archive/2008/12/12/researchers-show-exercise-on-prescription-works/index.html
+layout: layout.njk
 ---
 Researchers show “exercise on prescription” works
 =================================================

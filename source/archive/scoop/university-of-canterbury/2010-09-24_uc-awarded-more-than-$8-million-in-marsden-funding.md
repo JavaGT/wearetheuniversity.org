@@ -1,9 +1,12 @@
 ---
 slug: uc-awarded-more-than-$8-million-in-marsden-funding
-title: "UC awarded more than $8 million in Marsden funding"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/ED1009/S00117/uc-awarded-more-than-8-million-in-marsden-funding.htm
+title: UC awarded more than $8 million in Marsden funding
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00117/uc-awarded-more-than-8-million-in-marsden-funding.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/24/uc-awarded-more-than-/index.html
+layout: layout.njk
 ---
 UC awarded more than $8 million in Marsden funding
 ==================================================

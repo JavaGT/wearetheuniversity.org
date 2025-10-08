@@ -1,9 +1,13 @@
 ---
 slug: public-talks-a-highlight-of-uc-alumni-reunion-week
-title: "Public talks a highlight of UC alumni reunion week"
-date: 2010-09-30
-source-url: https://www.scoop.co.nz/stories/ED1009/S00154/public-talks-a-highlight-of-uc-alumni-reunion-week.htm
+title: Public talks a highlight of UC alumni reunion week
+date: 2010-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00154/public-talks-a-highlight-of-uc-alumni-reunion-week.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/09/30/public-talks-a-highlight-of-uc-alumni-reunion-week/index.html
+layout: layout.njk
 ---
 Public talks a highlight of UC alumni reunion week
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: engagement-role-key-to-victorias-future-plans
-title: "Engagement role key to Victoria’s future plans"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/ED1409/S00117/engagement-role-key-to-victorias-future-plans.htm
+title: Engagement role key to Victoria’s future plans
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00117/engagement-role-key-to-victorias-future-plans.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/19/engagement-role-key-to-victorias-future-plans/index.html
+layout: layout.njk
 ---
 Engagement role key to Victoria’s future plans
 ==============================================

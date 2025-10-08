@@ -1,9 +1,13 @@
 ---
 slug: focus-should-be-learning-and-teaching-not-testing-and-typing
-title: "Focus should be learning and teaching not testing and typing"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/PA1307/S00161/focus-should-be-learning-and-teaching-not-testing-and-typing.htm
+title: Focus should be learning and teaching not testing and typing
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00161/focus-should-be-learning-and-teaching-not-testing-and-typing.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/07/10/focus-should-be-learning-and-teaching-not-testing-and-typing/index.html
+layout: layout.njk
 ---
 Focus should be learning and teaching not testing and typing
 ============================================================

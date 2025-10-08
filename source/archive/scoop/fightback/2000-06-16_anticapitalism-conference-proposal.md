@@ -1,9 +1,12 @@
 ---
 slug: anticapitalism-conference-proposal
-title: "Anticapitalism Conference Proposal"
-date: 2000-06-16
-source-url: https://www.scoop.co.nz/stories/PO0006/S00059/anticapitalism-conference-proposal.htm
+title: Anticapitalism Conference Proposal
+date: 2000-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0006/S00059/anticapitalism-conference-proposal.htm
 author: fightback
+permalink: /archive/2000/06/16/anticapitalism-conference-proposal/index.html
+layout: layout.njk
 ---
 Anticapitalism Conference Proposal
 ==================================

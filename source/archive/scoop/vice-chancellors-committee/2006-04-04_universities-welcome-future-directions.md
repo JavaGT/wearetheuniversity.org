@@ -1,9 +1,12 @@
 ---
 slug: universities-welcome-future-directions
-title: "Universities Welcome Future Directions"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/ED0604/S00012/universities-welcome-future-directions.htm
+title: Universities Welcome Future Directions
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00012/universities-welcome-future-directions.htm
 author: vice-chancellors-committee
+permalink: /archive/2006/04/04/universities-welcome-future-directions/index.html
+layout: layout.njk
 ---
 Universities Welcome Future Directions
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: ucs-expert-heading-to-london-to-address-global-summit
-title: "UC’s expert heading to London to address Global Summit"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/SC1306/S00009/ucs-expert-heading-to-london-to-address-global-summit.htm
+title: UC’s expert heading to London to address Global Summit
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00009/ucs-expert-heading-to-london-to-address-global-summit.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/05/ucs-expert-heading-to-london-to-address-global-summit/index.html
+layout: layout.njk
 ---
 UC’s expert heading to London to address Global Summit
 ======================================================

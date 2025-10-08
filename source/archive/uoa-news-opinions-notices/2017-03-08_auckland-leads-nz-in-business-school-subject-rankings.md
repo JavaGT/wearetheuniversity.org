@@ -1,8 +1,12 @@
 ---
 slug: auckland-leads-nz-in-business-school-subject-rankings
-title: "Auckland leads NZ in Business School subject rankings"
-date: 2017-03-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/auckland-leads-nz-in-business-school-subject-rankings.html
+title: Auckland leads NZ in Business School subject rankings
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/auckland-leads-nz-in-business-school-subject-rankings.html
+permalink: >-
+  /archive/2017/03/08/auckland-leads-nz-in-business-school-subject-rankings/index.html
+layout: layout.njk
 ---
 Auckland leads NZ in Business School subject rankings
 =====================================================

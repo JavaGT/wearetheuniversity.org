@@ -1,10 +1,13 @@
 ---
 slug: trumps-battle-for-u-s-sports
-title: "Trump’s Battle For U.S. Sports"
-date: 2024-08-04
+title: Trump’s Battle For U.S. Sports
+date: 2024-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/WO2408/S00028/trumps-battle-for-us-sports.htm
 author: independent-media-institute
+permalink: /archive/2024/08/04/trumps-battle-for-u-s-sports/index.html
+layout: layout.njk
 ---
+
 Trump’s Battle For U.S. Sports
 ==============================
 
@@ -15,13 +18,7 @@ Following conservative outrage over the 2024 Summer Olympics opening ceremony an
 
 Sporting events, from national competitions to the Olympic Games, help elevate regional and national pride and provide a powerful platform for cultural and political statements. Alongside international events, domestic U.S. sports leagues and events are deeply embedded into national identity. Their commercialization into billion-dollar businesses, alongside associated media, advertising, gambling, and other industries, has not only increased their scale but also added pressure to avoid controversies that threaten revenue.
 
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> Trump’s relationship with major U.S. sporting leagues and entertainment has historically involved financial interests, and, more recently, political maneuvering. He has sought to align with or challenge established American sports leagues for economic and political benefit. By doing so, he has disrupted the stability of the U.S. domestic sports scene, upsetting the traditional balance of bread and circuses in the country. As the U.S. Olympic team competes in Paris, any conflict with Trump may escalate tensions with some domestic leagues—which could have larger implications if he is reelected.
+Trump’s relationship with major U.S. sporting leagues and entertainment has historically involved financial interests, and, more recently, political maneuvering. He has sought to align with or challenge established American sports leagues for economic and political benefit. By doing so, he has disrupted the stability of the U.S. domestic sports scene, upsetting the traditional balance of bread and circuses in the country. As the U.S. Olympic team competes in Paris, any conflict with Trump may escalate tensions with some domestic leagues—which could have larger implications if he is reelected.
 
 Team USA’s flagbearer at the Olympics, LeBron James, quickly found himself at odds with Trump shortly after the former president took office, trading comments in the media and on social media. Many in the NBA echoed James’s sentiment. The Golden State Warriors’ reluctance to accept Trump’s invitation to the White House after winning the 2016–17 NBA championship saw Trump criticize the team and rescind the invitation, while the former president routinely went back and forth with Dallas Mavericks owner Mark Cuban throughout his term.
 

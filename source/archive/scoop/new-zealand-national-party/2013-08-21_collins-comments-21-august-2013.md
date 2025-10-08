@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-21-august-2013
-title: "Collins Comments 21 August 2013"
-date: 2013-08-21
-source-url: https://www.scoop.co.nz/stories/PA1308/S00347/collins-comments-21-august-2013.htm
+title: Collins Comments 21 August 2013
+date: 2013-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00347/collins-comments-21-august-2013.htm
 author: new-zealand-national-party
+permalink: /archive/2013/08/21/collins-comments-21-august-2013/index.html
+layout: layout.njk
 ---
 Collins Comments 21 August 2013
 ===============================

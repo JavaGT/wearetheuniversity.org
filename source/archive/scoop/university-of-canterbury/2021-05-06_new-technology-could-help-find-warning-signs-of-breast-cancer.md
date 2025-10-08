@@ -1,9 +1,13 @@
 ---
 slug: new-technology-could-help-find-warning-signs-of-breast-cancer
-title: "New Technology Could Help Find Warning Signs Of Breast Cancer"
-date: 2021-05-06
-source-url: https://www.scoop.co.nz/stories/GE2105/S00020/new-technology-could-help-find-warning-signs-of-breast-cancer.htm
+title: New Technology Could Help Find Warning Signs Of Breast Cancer
+date: 2021-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2105/S00020/new-technology-could-help-find-warning-signs-of-breast-cancer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/06/new-technology-could-help-find-warning-signs-of-breast-cancer/index.html
+layout: layout.njk
 ---
 New Technology Could Help Find Warning Signs Of Breast Cancer
 =============================================================

@@ -1,9 +1,13 @@
 ---
 slug: will-another-sroubek-be-granted-ministerial-favour
-title: "Will another Sroubek be granted Ministerial favour?"
-date: 2018-11-27
-source-url: https://www.scoop.co.nz/stories/PA1811/S00273/will-another-sroubek-be-granted-ministerial-favour.htm
+title: Will another Sroubek be granted Ministerial favour?
+date: 2018-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00273/will-another-sroubek-be-granted-ministerial-favour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/27/will-another-sroubek-be-granted-ministerial-favour/index.html
+layout: layout.njk
 ---
 Will another Sroubek be granted Ministerial favour?
 ===================================================

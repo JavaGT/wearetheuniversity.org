@@ -1,9 +1,12 @@
 ---
 slug: roy-hodgsons-choice-wait-wait-or-wait
-title: "Roy: Hodgson's Choice: Wait, Wait, Or ... Wait"
-date: 2007-07-09
-source-url: https://www.scoop.co.nz/stories/PA0707/S00130/roy-hodgsons-choice-wait-wait-or-wait.htm
+title: 'Roy: Hodgson''s Choice: Wait, Wait, Or ... Wait'
+date: 2007-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00130/roy-hodgsons-choice-wait-wait-or-wait.htm
 author: act-new-zealand
+permalink: /archive/2007/07/09/roy-hodgsons-choice-wait-wait-or-wait/index.html
+layout: layout.njk
 ---
 Roy: Hodgson's Choice: Wait, Wait, Or ... Wait
 ==============================================

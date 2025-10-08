@@ -1,9 +1,12 @@
 ---
 slug: roll-call-of-blunders-marks-asset-sales-agenda
-title: "Roll-call of blunders marks asset sales agenda"
-date: 2012-09-04
-source-url: https://www.scoop.co.nz/stories/PA1209/S00038/roll-call-of-blunders-marks-asset-sales-agenda.htm
+title: Roll-call of blunders marks asset sales agenda
+date: 2012-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00038/roll-call-of-blunders-marks-asset-sales-agenda.htm
 author: green-party
+permalink: /archive/2012/09/04/roll-call-of-blunders-marks-asset-sales-agenda/index.html
+layout: layout.njk
 ---
 Roll-call of blunders marks asset sales agenda
 ==============================================

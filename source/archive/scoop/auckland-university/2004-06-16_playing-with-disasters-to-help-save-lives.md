@@ -1,9 +1,12 @@
 ---
 slug: playing-with-disasters-to-help-save-lives
-title: "Playing with disasters to help save lives"
-date: 2004-06-16
-source-url: https://www.scoop.co.nz/stories/ED0406/S00065/playing-with-disasters-to-help-save-lives.htm
+title: Playing with disasters to help save lives
+date: 2004-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00065/playing-with-disasters-to-help-save-lives.htm
 author: auckland-university
+permalink: /archive/2004/06/16/playing-with-disasters-to-help-save-lives/index.html
+layout: layout.njk
 ---
 Playing with disasters to help save lives
 =========================================

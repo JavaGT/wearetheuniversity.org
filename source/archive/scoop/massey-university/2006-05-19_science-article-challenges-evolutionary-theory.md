@@ -1,9 +1,12 @@
 ---
 slug: science-article-challenges-evolutionary-theory
-title: "Science article challenges evolutionary theory"
-date: 2006-05-19
-source-url: https://www.scoop.co.nz/stories/SC0605/S00055/science-article-challenges-evolutionary-theory.htm
+title: Science article challenges evolutionary theory
+date: 2006-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0605/S00055/science-article-challenges-evolutionary-theory.htm
 author: massey-university
+permalink: /archive/2006/05/19/science-article-challenges-evolutionary-theory/index.html
+layout: layout.njk
 ---
 Science article challenges evolutionary theory
 ==============================================

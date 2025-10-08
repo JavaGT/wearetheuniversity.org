@@ -1,9 +1,12 @@
 ---
 slug: national-appalled-at-leaky-home-injustice
-title: "National appalled at leaky home injustice"
-date: 2007-05-09
-source-url: https://www.scoop.co.nz/stories/PA0705/S00229/national-appalled-at-leaky-home-injustice.htm
+title: National appalled at leaky home injustice
+date: 2007-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00229/national-appalled-at-leaky-home-injustice.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/09/national-appalled-at-leaky-home-injustice/index.html
+layout: layout.njk
 ---
 National appalled at leaky home injustice
 =========================================

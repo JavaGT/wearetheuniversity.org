@@ -1,9 +1,12 @@
 ---
 slug: labour-time-to-talk-about-the-true-costs
-title: "Labour: time to talk about the true costs"
-date: 2009-05-15
-source-url: https://www.scoop.co.nz/stories/PA0905/S00294/labour-time-to-talk-about-the-true-costs.htm
+title: 'Labour: time to talk about the true costs'
+date: 2009-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00294/labour-time-to-talk-about-the-true-costs.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/15/labour-time-to-talk-about-the-true-costs/index.html
+layout: layout.njk
 ---
 Labour: time to talk about the true costs
 =========================================

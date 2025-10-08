@@ -1,9 +1,12 @@
 ---
 slug: students-showcase-diverse-culture
-title: "Students Showcase Diverse Culture"
-date: 2008-07-14
-source-url: https://www.scoop.co.nz/stories/ED0807/S00037/students-showcase-diverse-culture.htm
+title: Students Showcase Diverse Culture
+date: 2008-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00037/students-showcase-diverse-culture.htm
 author: otago-university-students-association
+permalink: /archive/2008/07/14/students-showcase-diverse-culture/index.html
+layout: layout.njk
 ---
 Students Showcase Diverse Culture
 =================================

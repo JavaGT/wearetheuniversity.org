@@ -1,9 +1,13 @@
 ---
 slug: polytechnic-reforms-victimise-vulnerable-workers
-title: "Polytechnic reforms victimise vulnerable workers"
-date: 2019-08-29
-source-url: https://www.scoop.co.nz/stories/PA1908/S00300/polytechnic-reforms-victimise-vulnerable-workers.htm
+title: Polytechnic reforms victimise vulnerable workers
+date: 2019-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00300/polytechnic-reforms-victimise-vulnerable-workers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/08/29/polytechnic-reforms-victimise-vulnerable-workers/index.html
+layout: layout.njk
 ---
 Polytechnic reforms victimise vulnerable workers
 ================================================

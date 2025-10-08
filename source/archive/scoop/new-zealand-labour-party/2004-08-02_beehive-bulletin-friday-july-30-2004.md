@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-july-30-2004
-title: "Beehive Bulletin - Friday, July 30, 2004"
-date: 2004-08-02
-source-url: https://www.scoop.co.nz/stories/PA0408/S00027/beehive-bulletin-friday-july-30-2004.htm
+title: Beehive Bulletin - Friday, July 30, 2004
+date: 2004-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00027/beehive-bulletin-friday-july-30-2004.htm
 author: new-zealand-labour-party
+permalink: /archive/2004/08/02/beehive-bulletin-friday-july-30-2004/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - Friday, July 30, 2004
 ========================================

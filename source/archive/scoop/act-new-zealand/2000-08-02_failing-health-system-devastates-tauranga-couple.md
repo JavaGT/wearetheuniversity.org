@@ -1,9 +1,13 @@
 ---
 slug: failing-health-system-devastates-tauranga-couple
-title: "Failing Health System Devastates Tauranga Couple"
-date: 2000-08-02
-source-url: https://www.scoop.co.nz/stories/PA0008/S00046/failing-health-system-devastates-tauranga-couple.htm
+title: Failing Health System Devastates Tauranga Couple
+date: 2000-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00046/failing-health-system-devastates-tauranga-couple.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/08/02/failing-health-system-devastates-tauranga-couple/index.html
+layout: layout.njk
 ---
 Failing Health System Devastates Tauranga Couple
 ================================================

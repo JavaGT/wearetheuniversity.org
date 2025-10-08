@@ -1,9 +1,13 @@
 ---
 slug: springfree-trampoline-inventor-to-receive-innovation-medal
-title: "Springfree Trampoline inventor to receive Innovation Medal"
-date: 2011-10-25
-source-url: https://www.scoop.co.nz/stories/ED1110/S00106/springfree-trampoline-inventor-to-receive-innovation-medal.htm
+title: Springfree Trampoline inventor to receive Innovation Medal
+date: 2011-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00106/springfree-trampoline-inventor-to-receive-innovation-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/10/25/springfree-trampoline-inventor-to-receive-innovation-medal/index.html
+layout: layout.njk
 ---
 Springfree Trampoline inventor to receive Innovation Medal
 ==========================================================

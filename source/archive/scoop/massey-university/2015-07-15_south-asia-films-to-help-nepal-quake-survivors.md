@@ -1,9 +1,12 @@
 ---
 slug: south-asia-films-to-help-nepal-quake-survivors
-title: "South Asia films to help Nepal quake survivors"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/ED1507/S00073/south-asia-films-to-help-nepal-quake-survivors.htm
+title: South Asia films to help Nepal quake survivors
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00073/south-asia-films-to-help-nepal-quake-survivors.htm
 author: massey-university
+permalink: /archive/2015/07/15/south-asia-films-to-help-nepal-quake-survivors/index.html
+layout: layout.njk
 ---
 South Asia films to help Nepal quake survivors
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: helen-please-dont-buy-thai-pms-dirty-deal
-title: "Helen, please don't buy Thai PM's dirty deal"
-date: 2004-07-05
-source-url: https://www.scoop.co.nz/stories/PA0407/S00091/helen-please-dont-buy-thai-pms-dirty-deal.htm
+title: Helen, please don't buy Thai PM's dirty deal
+date: 2004-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00091/helen-please-dont-buy-thai-pms-dirty-deal.htm
 author: green-party
+permalink: /archive/2004/07/05/helen-please-dont-buy-thai-pms-dirty-deal/index.html
+layout: layout.njk
 ---
 Helen, please don't buy Thai PM's dirty deal
 ============================================

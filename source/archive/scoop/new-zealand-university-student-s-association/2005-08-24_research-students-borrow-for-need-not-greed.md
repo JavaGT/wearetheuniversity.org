@@ -1,9 +1,12 @@
 ---
 slug: research-students-borrow-for-need-not-greed
-title: "Research: students borrow for need, not greed"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/ED0508/S00102/research-students-borrow-for-need-not-greed.htm
+title: 'Research: students borrow for need, not greed'
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00102/research-students-borrow-for-need-not-greed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/08/24/research-students-borrow-for-need-not-greed/index.html
+layout: layout.njk
 ---
 Research: students borrow for need, not greed
 =============================================

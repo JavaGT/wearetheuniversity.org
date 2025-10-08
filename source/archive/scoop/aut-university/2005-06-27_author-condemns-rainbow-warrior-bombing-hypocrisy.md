@@ -1,9 +1,13 @@
 ---
 slug: author-condemns-rainbow-warrior-bombing-hypocrisy
-title: "Author condemns Rainbow Warrior bombing hypocrisy"
-date: 2005-06-27
-source-url: https://www.scoop.co.nz/stories/ED0506/S00074/author-condemns-rainbow-warrior-bombing-hypocrisy.htm
+title: Author condemns Rainbow Warrior bombing hypocrisy
+date: 2005-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00074/author-condemns-rainbow-warrior-bombing-hypocrisy.htm
 author: aut-university
+permalink: >-
+  /archive/2005/06/27/author-condemns-rainbow-warrior-bombing-hypocrisy/index.html
+layout: layout.njk
 ---
 Author condemns Rainbow Warrior bombing hypocrisy
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-creates-safe-spaces-protects-feelings-not-speech
-title: "Massey creates 'safe spaces', protects feelings not speech"
-date: 2019-11-12
-source-url: https://www.scoop.co.nz/stories/PA1911/S00079/massey-creates-safe-spaces-protects-feelings-not-speech.htm
+title: Massey creates 'safe spaces', protects feelings not speech
+date: 2019-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00079/massey-creates-safe-spaces-protects-feelings-not-speech.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/11/12/massey-creates-safe-spaces-protects-feelings-not-speech/index.html
+layout: layout.njk
 ---
 Massey creates 'safe spaces', protects feelings not speech
 ==========================================================

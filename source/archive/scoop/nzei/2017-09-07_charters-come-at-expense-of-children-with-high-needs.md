@@ -1,9 +1,13 @@
 ---
 slug: charters-come-at-expense-of-children-with-high-needs
-title: "Charters come at expense of children with high needs"
-date: 2017-09-07
-source-url: https://www.scoop.co.nz/stories/ED1709/S00025/charters-come-at-expense-of-children-with-high-needs.htm
+title: Charters come at expense of children with high needs
+date: 2017-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00025/charters-come-at-expense-of-children-with-high-needs.htm
 author: nzei
+permalink: >-
+  /archive/2017/09/07/charters-come-at-expense-of-children-with-high-needs/index.html
+layout: layout.njk
 ---
 Charters come at expense of children with high needs
 ====================================================

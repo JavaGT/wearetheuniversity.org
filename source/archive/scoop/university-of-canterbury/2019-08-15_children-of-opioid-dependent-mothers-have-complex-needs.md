@@ -1,9 +1,13 @@
 ---
 slug: children-of-opioid-dependent-mothers-have-complex-needs
-title: "Children of opioid-dependent mothers have complex needs"
-date: 2019-08-15
-source-url: https://www.scoop.co.nz/stories/GE1908/S00053/children-of-opioid-dependent-mothers-have-complex-needs.htm
+title: Children of opioid-dependent mothers have complex needs
+date: 2019-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1908/S00053/children-of-opioid-dependent-mothers-have-complex-needs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/08/15/children-of-opioid-dependent-mothers-have-complex-needs/index.html
+layout: layout.njk
 ---
 Children of opioid-dependent mothers have complex needs
 =======================================================

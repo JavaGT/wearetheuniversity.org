@@ -1,9 +1,12 @@
 ---
 slug: maori-party-farewells-young-gifted-lawyer
-title: "Maori Party farewells young gifted lawyer"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/PA1006/S00398/maori-party-farewells-young-gifted-lawyer.htm
+title: Maori Party farewells young gifted lawyer
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00398/maori-party-farewells-young-gifted-lawyer.htm
 author: te-pati-maori
+permalink: /archive/2010/06/24/maori-party-farewells-young-gifted-lawyer/index.html
+layout: layout.njk
 ---
 Maori Party farewells young gifted lawyer
 =========================================

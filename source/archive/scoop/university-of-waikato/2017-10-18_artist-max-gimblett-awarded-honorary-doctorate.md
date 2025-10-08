@@ -1,9 +1,12 @@
 ---
 slug: artist-max-gimblett-awarded-honorary-doctorate
-title: "Artist Max Gimblett Awarded Honorary Doctorate"
-date: 2017-10-18
-source-url: https://www.scoop.co.nz/stories/CU1710/S00333/artist-max-gimblett-awarded-honorary-doctorate.htm
+title: Artist Max Gimblett Awarded Honorary Doctorate
+date: 2017-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1710/S00333/artist-max-gimblett-awarded-honorary-doctorate.htm
 author: university-of-waikato
+permalink: /archive/2017/10/18/artist-max-gimblett-awarded-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Artist Max Gimblett Awarded Honorary Doctorate
 ==============================================

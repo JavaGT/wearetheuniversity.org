@@ -1,8 +1,12 @@
 ---
 slug: student-and-applicant-online-services-unavailable-this-weekend
-title: "Student and applicant online services unavailable this weekend"
-date: 2011-09-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/09/20/Student-and-applicant-online-services-unavailable-this-weekend.html
+title: Student and applicant online services unavailable this weekend
+date: 2011-09-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/09/20/Student-and-applicant-online-services-unavailable-this-weekend.html
+permalink: >-
+  /archive/2011/09/20/student-and-applicant-online-services-unavailable-this-weekend/index.html
+layout: layout.njk
 ---
 Student and applicant online services unavailable this weekend
 ==============================================================

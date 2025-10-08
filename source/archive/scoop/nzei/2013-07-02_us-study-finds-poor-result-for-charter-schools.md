@@ -1,9 +1,12 @@
 ---
 slug: us-study-finds-poor-result-for-charter-schools
-title: "US study finds poor result for charter schools"
-date: 2013-07-02
-source-url: https://www.scoop.co.nz/stories/ED1307/S00007/us-study-finds-poor-result-for-charter-schools.htm
+title: US study finds poor result for charter schools
+date: 2013-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00007/us-study-finds-poor-result-for-charter-schools.htm
 author: nzei
+permalink: /archive/2013/07/02/us-study-finds-poor-result-for-charter-schools/index.html
+layout: layout.njk
 ---
 US study finds poor result for charter schools
 ==============================================

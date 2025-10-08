@@ -1,9 +1,13 @@
 ---
 slug: early-literacy-success-is-critical-to-childrens-wellbeing
-title: "Early literacy success is critical to children’s wellbeing"
-date: 2019-08-30
-source-url: https://www.scoop.co.nz/stories/ED1908/S00066/early-literacy-success-is-critical-to-childrens-wellbeing.htm
+title: Early literacy success is critical to children’s wellbeing
+date: 2019-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00066/early-literacy-success-is-critical-to-childrens-wellbeing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/08/30/early-literacy-success-is-critical-to-childrens-wellbeing/index.html
+layout: layout.njk
 ---
 Early literacy success is critical to children’s wellbeing
 ==========================================================

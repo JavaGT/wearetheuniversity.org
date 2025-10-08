@@ -1,9 +1,12 @@
 ---
 slug: budget-speech-rt-hon-winston-peters
-title: "Budget Speech Rt Hon Winston Peters"
-date: 2003-05-15
-source-url: https://www.scoop.co.nz/stories/PA0305/S00410/budget-speech-rt-hon-winston-peters.htm
+title: Budget Speech Rt Hon Winston Peters
+date: 2003-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00410/budget-speech-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/15/budget-speech-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 Budget Speech Rt Hon Winston Peters
 ===================================

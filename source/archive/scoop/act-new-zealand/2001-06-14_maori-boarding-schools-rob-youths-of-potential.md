@@ -1,9 +1,12 @@
 ---
 slug: maori-boarding-schools-rob-youths-of-potential
-title: "Maori Boarding Schools Rob Youths of Potential"
-date: 2001-06-14
-source-url: https://www.scoop.co.nz/stories/PA0106/S00188/maori-boarding-schools-rob-youths-of-potential.htm
+title: Maori Boarding Schools Rob Youths of Potential
+date: 2001-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00188/maori-boarding-schools-rob-youths-of-potential.htm
 author: act-new-zealand
+permalink: /archive/2001/06/14/maori-boarding-schools-rob-youths-of-potential/index.html
+layout: layout.njk
 ---
 Maori Boarding Schools Rob Youths of Potential
 ==============================================

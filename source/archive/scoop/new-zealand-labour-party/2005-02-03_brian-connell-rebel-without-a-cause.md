@@ -1,9 +1,12 @@
 ---
 slug: brian-connell-rebel-without-a-cause
-title: "Brian Connell - Rebel without a cause"
-date: 2005-02-03
-source-url: https://www.scoop.co.nz/stories/PO0502/S00030/brian-connell-rebel-without-a-cause.htm
+title: Brian Connell - Rebel without a cause
+date: 2005-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0502/S00030/brian-connell-rebel-without-a-cause.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/02/03/brian-connell-rebel-without-a-cause/index.html
+layout: layout.njk
 ---
 Brian Connell - Rebel without a cause
 =====================================

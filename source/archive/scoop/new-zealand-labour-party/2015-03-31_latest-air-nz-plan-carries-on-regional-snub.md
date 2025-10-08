@@ -1,9 +1,12 @@
 ---
 slug: latest-air-nz-plan-carries-on-regional-snub
-title: "Latest Air NZ plan carries on regional snub"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/PA1503/S00460/latest-air-nz-plan-carries-on-regional-snub.htm
+title: Latest Air NZ plan carries on regional snub
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00460/latest-air-nz-plan-carries-on-regional-snub.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/03/31/latest-air-nz-plan-carries-on-regional-snub/index.html
+layout: layout.njk
 ---
 Latest Air NZ plan carries on regional snub
 ===========================================

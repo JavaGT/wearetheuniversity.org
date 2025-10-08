@@ -1,9 +1,12 @@
 ---
 slug: govt-pays-new-zealanders-to-do-nothing
-title: "Govt Pays New Zealanders to Do Nothing"
-date: 2001-08-14
-source-url: https://www.scoop.co.nz/stories/PA0108/S00260/govt-pays-new-zealanders-to-do-nothing.htm
+title: Govt Pays New Zealanders to Do Nothing
+date: 2001-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00260/govt-pays-new-zealanders-to-do-nothing.htm
 author: act-new-zealand
+permalink: /archive/2001/08/14/govt-pays-new-zealanders-to-do-nothing/index.html
+layout: layout.njk
 ---
 Govt Pays New Zealanders to Do Nothing
 ======================================

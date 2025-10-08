@@ -1,9 +1,13 @@
 ---
 slug: heavy-cannabis-use-may-lead-to-psychotic-symptoms
-title: "Heavy Cannabis Use May Lead To Psychotic Symptoms"
-date: 2005-03-01
-source-url: https://www.scoop.co.nz/stories/GE0503/S00002/heavy-cannabis-use-may-lead-to-psychotic-symptoms.htm
+title: Heavy Cannabis Use May Lead To Psychotic Symptoms
+date: 2005-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0503/S00002/heavy-cannabis-use-may-lead-to-psychotic-symptoms.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/03/01/heavy-cannabis-use-may-lead-to-psychotic-symptoms/index.html
+layout: layout.njk
 ---
 Heavy Cannabis Use May Lead To Psychotic Symptoms
 =================================================

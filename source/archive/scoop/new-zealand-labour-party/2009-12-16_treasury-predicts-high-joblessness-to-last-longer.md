@@ -1,9 +1,13 @@
 ---
 slug: treasury-predicts-high-joblessness-to-last-longer
-title: "Treasury predicts high joblessness to last longer"
-date: 2009-12-16
-source-url: https://www.scoop.co.nz/stories/PA0912/S00275/treasury-predicts-high-joblessness-to-last-longer.htm
+title: Treasury predicts high joblessness to last longer
+date: 2009-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00275/treasury-predicts-high-joblessness-to-last-longer.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2009/12/16/treasury-predicts-high-joblessness-to-last-longer/index.html
+layout: layout.njk
 ---
 Treasury predicts high joblessness to last longer
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: turia-where-do-babies-come-from-ask-your-koro!
-title: "Turia: Where do babies come from?  Ask your koro!"
-date: 2006-10-16
-source-url: https://www.scoop.co.nz/stories/PA0610/S00284/turia-where-do-babies-come-from-ask-your-koro.htm
+title: 'Turia: Where do babies come from?  Ask your koro!'
+date: 2006-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00284/turia-where-do-babies-come-from-ask-your-koro.htm
 author: te-pati-maori
+permalink: /archive/2006/10/16/turia-where-do-babies-come-from-ask-your-koro/index.html
+layout: layout.njk
 ---
 Turia: Where do babies come from? Ask your koro!
 ================================================

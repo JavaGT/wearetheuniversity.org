@@ -1,9 +1,12 @@
 ---
 slug: parlez-vous-magnetohydrodynamics
-title: "Parlez-vous magnetohydrodynamics?"
-date: 2010-04-09
-source-url: https://www.scoop.co.nz/stories/ED1004/S00010/parlez-vous-magnetohydrodynamics.htm
+title: Parlez-vous magnetohydrodynamics?
+date: 2010-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00010/parlez-vous-magnetohydrodynamics.htm
 author: university-of-waikato
+permalink: /archive/2010/04/09/parlez-vous-magnetohydrodynamics/index.html
+layout: layout.njk
 ---
 Parlez-vous magnetohydrodynamics?
 =================================

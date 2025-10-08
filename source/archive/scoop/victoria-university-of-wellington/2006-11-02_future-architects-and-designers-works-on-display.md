@@ -1,9 +1,13 @@
 ---
 slug: future-architects-and-designers-works-on-display
-title: "Future architects’ and designers’ works on display"
-date: 2006-11-02
-source-url: https://www.scoop.co.nz/stories/ED0611/S00005/future-architects-and-designers-works-on-display.htm
+title: Future architects’ and designers’ works on display
+date: 2006-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00005/future-architects-and-designers-works-on-display.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/11/02/future-architects-and-designers-works-on-display/index.html
+layout: layout.njk
 ---
 Future architects’ and designers’ works on display
 ==================================================

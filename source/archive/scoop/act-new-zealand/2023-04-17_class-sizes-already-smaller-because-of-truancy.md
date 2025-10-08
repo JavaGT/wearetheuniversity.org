@@ -1,9 +1,12 @@
 ---
 slug: class-sizes-already-smaller-because-of-truancy
-title: "Class Sizes Already Smaller Because Of Truancy"
-date: 2023-04-17
-source-url: https://www.scoop.co.nz/stories/PA2304/S00097/class-sizes-already-smaller-because-of-truancy.htm
+title: Class Sizes Already Smaller Because Of Truancy
+date: 2023-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00097/class-sizes-already-smaller-because-of-truancy.htm
 author: act-new-zealand
+permalink: /archive/2023/04/17/class-sizes-already-smaller-because-of-truancy/index.html
+layout: layout.njk
 ---
 Class Sizes Already Smaller Because Of Truancy
 ==============================================

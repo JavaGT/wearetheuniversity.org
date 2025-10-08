@@ -1,9 +1,13 @@
 ---
 slug: prestigious-girdlers-scholarship-awarded-to-law-student
-title: "Prestigious Girdlers’ Scholarship awarded to law student"
-date: 2015-04-02
-source-url: https://www.scoop.co.nz/stories/ED1504/S00007/prestigious-girdlers-scholarship-awarded-to-law-student.htm
+title: Prestigious Girdlers’ Scholarship awarded to law student
+date: 2015-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00007/prestigious-girdlers-scholarship-awarded-to-law-student.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/04/02/prestigious-girdlers-scholarship-awarded-to-law-student/index.html
+layout: layout.njk
 ---
 Prestigious Girdlers’ Scholarship awarded to law student
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: unit-titles-members-bill-passes-first-reading
-title: "Unit Titles Member’s Bill Passes First Reading"
-date: 2021-03-11
-source-url: https://www.scoop.co.nz/stories/PA2103/S00067/unit-titles-members-bill-passes-first-reading.htm
+title: Unit Titles Member’s Bill Passes First Reading
+date: 2021-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00067/unit-titles-members-bill-passes-first-reading.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/11/unit-titles-members-bill-passes-first-reading/index.html
+layout: layout.njk
 ---
 Unit Titles Member’s Bill Passes First Reading
 ==============================================

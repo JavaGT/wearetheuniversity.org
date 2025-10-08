@@ -1,9 +1,12 @@
 ---
 slug: new-opportunities-with-chinese-universities
-title: "New opportunities with Chinese universities"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/ED1411/S00131/new-opportunities-with-chinese-universities.htm
+title: New opportunities with Chinese universities
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00131/new-opportunities-with-chinese-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2014/11/20/new-opportunities-with-chinese-universities/index.html
+layout: layout.njk
 ---
 New opportunities with Chinese universities
 ===========================================

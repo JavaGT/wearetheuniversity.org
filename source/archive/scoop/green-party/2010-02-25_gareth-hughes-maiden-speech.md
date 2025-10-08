@@ -1,9 +1,11 @@
 ---
 slug: gareth-hughes-maiden-speech
-title: "Gareth Hughes Maiden Speech"
-date: 2010-02-25
+title: Gareth Hughes Maiden Speech
+date: 2010-02-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1002/S00348/gareth-hughes-maiden-speech.htm
 author: green-party
+permalink: /archive/2010/02/25/gareth-hughes-maiden-speech/index.html
+layout: layout.njk
 ---
 Gareth Hughes Maiden Speech
 ===========================

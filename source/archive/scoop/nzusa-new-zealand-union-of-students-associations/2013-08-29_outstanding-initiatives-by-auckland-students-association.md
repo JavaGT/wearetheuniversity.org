@@ -1,9 +1,13 @@
 ---
 slug: outstanding-initiatives-by-auckland-students-association
-title: "Outstanding initiatives by Auckland Students’ Association"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/ED1308/S00152/outstanding-initiatives-by-auckland-students-association.htm
+title: Outstanding initiatives by Auckland Students’ Association
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00152/outstanding-initiatives-by-auckland-students-association.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/08/29/outstanding-initiatives-by-auckland-students-association/index.html
+layout: layout.njk
 ---
 Outstanding initiatives by Auckland Students’ Association
 =========================================================

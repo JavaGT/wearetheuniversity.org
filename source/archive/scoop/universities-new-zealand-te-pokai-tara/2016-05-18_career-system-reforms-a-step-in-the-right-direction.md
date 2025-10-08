@@ -1,9 +1,13 @@
 ---
 slug: career-system-reforms-a-step-in-the-right-direction
-title: "Career system reforms a step in the right direction"
-date: 2016-05-18
-source-url: https://www.scoop.co.nz/stories/ED1605/S00075/career-system-reforms-a-step-in-the-right-direction.htm
+title: Career system reforms a step in the right direction
+date: 2016-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00075/career-system-reforms-a-step-in-the-right-direction.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2016/05/18/career-system-reforms-a-step-in-the-right-direction/index.html
+layout: layout.njk
 ---
 Career system reforms a step in the right direction
 ===================================================

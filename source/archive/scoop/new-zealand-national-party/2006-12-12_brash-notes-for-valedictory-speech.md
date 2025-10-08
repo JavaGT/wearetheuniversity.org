@@ -1,9 +1,12 @@
 ---
 slug: brash-notes-for-valedictory-speech
-title: "Brash: Notes for Valedictory Speech"
-date: 2006-12-12
-source-url: https://www.scoop.co.nz/stories/PA0612/S00238/brash-notes-for-valedictory-speech.htm
+title: 'Brash: Notes for Valedictory Speech'
+date: 2006-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00238/brash-notes-for-valedictory-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/12/brash-notes-for-valedictory-speech/index.html
+layout: layout.njk
 ---
 Brash: Notes for Valedictory Speech
 ===================================

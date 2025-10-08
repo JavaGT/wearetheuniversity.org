@@ -1,9 +1,12 @@
 ---
 slug: pulsating-white-dwarfs-explained
-title: "Pulsating White Dwarfs explained"
-date: 2009-07-28
-source-url: https://www.scoop.co.nz/stories/SC0907/S00050/pulsating-white-dwarfs-explained.htm
+title: Pulsating White Dwarfs explained
+date: 2009-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00050/pulsating-white-dwarfs-explained.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/28/pulsating-white-dwarfs-explained/index.html
+layout: layout.njk
 ---
 Pulsating White Dwarfs explained
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: national-welcomes-waikato-expressway-opening
-title: "National Welcomes Waikato Expressway Opening"
-date: 2022-07-12
-source-url: https://www.scoop.co.nz/stories/PA2207/S00076/national-welcomes-waikato-expressway-opening.htm
+title: National Welcomes Waikato Expressway Opening
+date: 2022-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00076/national-welcomes-waikato-expressway-opening.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/12/national-welcomes-waikato-expressway-opening/index.html
+layout: layout.njk
 ---
 National Welcomes Waikato Expressway Opening
 ============================================

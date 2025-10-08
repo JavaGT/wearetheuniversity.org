@@ -1,9 +1,13 @@
 ---
 slug: christchurch-city-council-must-reject-privatisation-agenda
-title: "Christchurch City Council must reject privatisation agenda"
-date: 2012-05-21
-source-url: https://www.scoop.co.nz/stories/PO1205/S00300/christchurch-city-council-must-reject-privatisation-agenda.htm
+title: Christchurch City Council must reject privatisation agenda
+date: 2012-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00300/christchurch-city-council-must-reject-privatisation-agenda.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2012/05/21/christchurch-city-council-must-reject-privatisation-agenda/index.html
+layout: layout.njk
 ---
 Christchurch City Council must reject privatisation agenda
 ==========================================================

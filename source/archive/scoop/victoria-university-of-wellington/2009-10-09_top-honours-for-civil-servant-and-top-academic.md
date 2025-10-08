@@ -1,9 +1,12 @@
 ---
 slug: top-honours-for-civil-servant-and-top-academic
-title: "Top Honours for Civil Servant and Top Academic"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/ED0910/S00042/top-honours-for-civil-servant-and-top-academic.htm
+title: Top Honours for Civil Servant and Top Academic
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00042/top-honours-for-civil-servant-and-top-academic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/10/09/top-honours-for-civil-servant-and-top-academic/index.html
+layout: layout.njk
 ---
 Top Honours for Civil Servant and Top Academic
 ==============================================

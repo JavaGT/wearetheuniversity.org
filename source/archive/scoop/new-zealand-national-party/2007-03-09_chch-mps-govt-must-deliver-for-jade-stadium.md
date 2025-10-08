@@ -1,9 +1,12 @@
 ---
 slug: chch-mps-govt-must-deliver-for-jade-stadium
-title: "Chch MPs: Govt must deliver for Jade Stadium"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/PA0703/S00185/chch-mps-govt-must-deliver-for-jade-stadium.htm
+title: 'Chch MPs: Govt must deliver for Jade Stadium'
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00185/chch-mps-govt-must-deliver-for-jade-stadium.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/09/chch-mps-govt-must-deliver-for-jade-stadium/index.html
+layout: layout.njk
 ---
 Chch MPs: Govt must deliver for Jade Stadium
 ============================================

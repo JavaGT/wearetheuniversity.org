@@ -1,9 +1,12 @@
 ---
 slug: crash-in-housing-consents-needs-leadership
-title: "Crash in housing consents needs leadership"
-date: 2017-08-30
-source-url: https://www.scoop.co.nz/stories/PA1708/S00538/crash-in-housing-consents-needs-leadership.htm
+title: Crash in housing consents needs leadership
+date: 2017-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00538/crash-in-housing-consents-needs-leadership.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/30/crash-in-housing-consents-needs-leadership/index.html
+layout: layout.njk
 ---
 Crash in housing consents needs leadership
 ==========================================

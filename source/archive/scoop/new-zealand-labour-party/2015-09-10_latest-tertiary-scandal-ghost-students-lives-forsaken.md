@@ -1,9 +1,13 @@
 ---
 slug: latest-tertiary-scandal-ghost-students-lives-forsaken
-title: "Latest tertiary scandal: ‘Ghost students’, ‘lives forsaken’"
-date: 2015-09-10
-source-url: https://www.scoop.co.nz/stories/PA1509/S00187/latest-tertiary-scandal-ghost-students-lives-forsaken.htm
+title: 'Latest tertiary scandal: ‘Ghost students’, ‘lives forsaken’'
+date: 2015-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00187/latest-tertiary-scandal-ghost-students-lives-forsaken.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/10/latest-tertiary-scandal-ghost-students-lives-forsaken/index.html
+layout: layout.njk
 ---
 Latest tertiary scandal: ‘Ghost students’, ‘lives forsaken’
 ===========================================================

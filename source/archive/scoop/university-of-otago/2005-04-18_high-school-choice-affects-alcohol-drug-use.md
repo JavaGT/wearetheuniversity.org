@@ -1,9 +1,12 @@
 ---
 slug: high-school-choice-affects-alcohol-drug-use
-title: "High school choice affects alcohol, drug use"
-date: 2005-04-18
-source-url: https://www.scoop.co.nz/stories/ED0504/S00065/high-school-choice-affects-alcohol-drug-use.htm
+title: High school choice affects alcohol, drug use
+date: 2005-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00065/high-school-choice-affects-alcohol-drug-use.htm
 author: university-of-otago
+permalink: /archive/2005/04/18/high-school-choice-affects-alcohol-drug-use/index.html
+layout: layout.njk
 ---
 High school choice affects alcohol, drug use
 ============================================

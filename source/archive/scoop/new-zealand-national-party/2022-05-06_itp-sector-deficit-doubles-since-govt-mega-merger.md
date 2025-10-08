@@ -1,9 +1,13 @@
 ---
 slug: itp-sector-deficit-doubles-since-govt-mega-merger
-title: "ITP Sector Deficit Doubles Since Govt Mega-merger"
-date: 2022-05-06
-source-url: https://www.scoop.co.nz/stories/PA2205/S00051/itp-sector-deficit-doubles-since-govt-mega-merger.htm
+title: ITP Sector Deficit Doubles Since Govt Mega-merger
+date: 2022-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00051/itp-sector-deficit-doubles-since-govt-mega-merger.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/05/06/itp-sector-deficit-doubles-since-govt-mega-merger/index.html
+layout: layout.njk
 ---
 ITP Sector Deficit Doubles Since Govt Mega-merger
 =================================================

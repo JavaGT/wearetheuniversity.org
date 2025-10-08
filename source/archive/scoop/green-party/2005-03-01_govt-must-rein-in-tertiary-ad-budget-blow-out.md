@@ -1,9 +1,12 @@
 ---
 slug: govt-must-rein-in-tertiary-ad-budget-blow-out
-title: "Govt must rein in tertiary ad budget blow-out"
-date: 2005-03-01
-source-url: https://www.scoop.co.nz/stories/PA0503/S00004/govt-must-rein-in-tertiary-ad-budget-blow-out.htm
+title: Govt must rein in tertiary ad budget blow-out
+date: 2005-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00004/govt-must-rein-in-tertiary-ad-budget-blow-out.htm
 author: green-party
+permalink: /archive/2005/03/01/govt-must-rein-in-tertiary-ad-budget-blow-out/index.html
+layout: layout.njk
 ---
 Govt must rein in tertiary ad budget blow-out
 =============================================

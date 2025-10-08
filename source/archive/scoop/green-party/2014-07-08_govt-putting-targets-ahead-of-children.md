@@ -1,9 +1,12 @@
 ---
 slug: govt-putting-targets-ahead-of-children
-title: "Govt putting targets ahead of children"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/PA1407/S00150/govt-putting-targets-ahead-of-children.htm
+title: Govt putting targets ahead of children
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00150/govt-putting-targets-ahead-of-children.htm
 author: green-party
+permalink: /archive/2014/07/08/govt-putting-targets-ahead-of-children/index.html
+layout: layout.njk
 ---
 Govt putting targets ahead of children
 ======================================

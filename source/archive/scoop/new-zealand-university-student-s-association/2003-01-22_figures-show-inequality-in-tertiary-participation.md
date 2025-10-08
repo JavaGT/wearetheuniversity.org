@@ -1,9 +1,13 @@
 ---
 slug: figures-show-inequality-in-tertiary-participation
-title: "Figures show inequality in tertiary participation"
-date: 2003-01-22
-source-url: https://www.scoop.co.nz/stories/ED0301/S00008/figures-show-inequality-in-tertiary-participation.htm
+title: Figures show inequality in tertiary participation
+date: 2003-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00008/figures-show-inequality-in-tertiary-participation.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2003/01/22/figures-show-inequality-in-tertiary-participation/index.html
+layout: layout.njk
 ---
 Figures show inequality in tertiary participation
 =================================================

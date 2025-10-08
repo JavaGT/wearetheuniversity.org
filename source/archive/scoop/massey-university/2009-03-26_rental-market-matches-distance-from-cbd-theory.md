@@ -1,9 +1,12 @@
 ---
 slug: rental-market-matches-distance-from-cbd-theory
-title: "Rental market matches 'distance from CBD' theory"
-date: 2009-03-26
-source-url: https://www.scoop.co.nz/stories/AK0903/S00403/rental-market-matches-distance-from-cbd-theory.htm
+title: Rental market matches 'distance from CBD' theory
+date: 2009-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0903/S00403/rental-market-matches-distance-from-cbd-theory.htm
 author: massey-university
+permalink: /archive/2009/03/26/rental-market-matches-distance-from-cbd-theory/index.html
+layout: layout.njk
 ---
 Rental market matches 'distance from CBD' theory
 ================================================

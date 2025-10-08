@@ -1,9 +1,12 @@
 ---
 slug: lincoln-first-to-set-programme-price
-title: "Lincoln first to set programme price"
-date: 2015-05-08
-source-url: https://www.scoop.co.nz/stories/ED1505/S00043/lincoln-first-to-set-programme-price.htm
+title: Lincoln first to set programme price
+date: 2015-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00043/lincoln-first-to-set-programme-price.htm
 author: lincoln-university
+permalink: /archive/2015/05/08/lincoln-first-to-set-programme-price/index.html
+layout: layout.njk
 ---
 Lincoln first to set programme price
 ====================================

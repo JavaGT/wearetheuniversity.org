@@ -1,9 +1,12 @@
 ---
 slug: hamilton-mayor-set-to-cuddle-campus-communists
-title: "Hamilton Mayor Set to Cuddle Campus Communists"
-date: 2000-08-21
-source-url: https://www.scoop.co.nz/stories/ED0008/S00035/hamilton-mayor-set-to-cuddle-campus-communists.htm
+title: Hamilton Mayor Set to Cuddle Campus Communists
+date: 2000-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00035/hamilton-mayor-set-to-cuddle-campus-communists.htm
 author: prebble-s-rebels
+permalink: /archive/2000/08/21/hamilton-mayor-set-to-cuddle-campus-communists/index.html
+layout: layout.njk
 ---
 Hamilton Mayor Set to Cuddle Campus Communists
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: family-incomes-package-will-have-a-big-impact-for-southland
-title: "Family Incomes Package will have a big impact for Southland"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/PA1705/S00547/family-incomes-package-will-have-a-big-impact-for-southland.htm
+title: Family Incomes Package will have a big impact for Southland
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00547/family-incomes-package-will-have-a-big-impact-for-southland.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2017/05/25/family-incomes-package-will-have-a-big-impact-for-southland/index.html
+layout: layout.njk
 ---
 Family Incomes Package will have a big impact for Southland
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: scientists-seek-meteorite-footage
-title: "Scientists Seek Meteorite Footage"
-date: 2022-07-22
-source-url: https://www.scoop.co.nz/stories/SC2207/S00037/scientists-seek-meteorite-footage.htm
+title: Scientists Seek Meteorite Footage
+date: 2022-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2207/S00037/scientists-seek-meteorite-footage.htm
 author: university-of-canterbury
+permalink: /archive/2022/07/22/scientists-seek-meteorite-footage/index.html
+layout: layout.njk
 ---
 Scientists Seek Meteorite Footage
 =================================

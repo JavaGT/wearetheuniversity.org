@@ -1,9 +1,13 @@
 ---
 slug: miq-nurses-need-our-thanks-not-our-fear-researchers
-title: "MIQ Nurses Need Our Thanks Not Our Fear - Researchers"
-date: 2021-06-01
-source-url: https://www.scoop.co.nz/stories/GE2106/S00002/miq-nurses-need-our-thanks-not-our-fear-researchers.htm
+title: MIQ Nurses Need Our Thanks Not Our Fear - Researchers
+date: 2021-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2106/S00002/miq-nurses-need-our-thanks-not-our-fear-researchers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/06/01/miq-nurses-need-our-thanks-not-our-fear-researchers/index.html
+layout: layout.njk
 ---
 MIQ Nurses Need Our Thanks Not Our Fear - Researchers
 =====================================================

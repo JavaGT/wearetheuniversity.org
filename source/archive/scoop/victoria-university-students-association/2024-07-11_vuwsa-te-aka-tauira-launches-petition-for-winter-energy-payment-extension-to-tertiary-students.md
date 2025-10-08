@@ -1,9 +1,16 @@
 ---
-slug: vuwsa-te-aka-tauira-launches-petition-for-winter-energy-payment-extension-to-tertiary-students
-title: "VUWSA - Te Aka Tauira Launches Petition for Winter Energy Payment Extension to Tertiary Students"
-date: 2024-07-11
-source-url: https://www.scoop.co.nz/stories/ED2407/S00030/vuwsa-te-aka-tauira-launches-petition-for-winter-energy-payment-extension-to-tertiary-students.htm
+slug: >-
+  vuwsa-te-aka-tauira-launches-petition-for-winter-energy-payment-extension-to-tertiary-students
+title: >-
+  VUWSA - Te Aka Tauira Launches Petition for Winter Energy Payment Extension to
+  Tertiary Students
+date: 2024-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00030/vuwsa-te-aka-tauira-launches-petition-for-winter-energy-payment-extension-to-tertiary-students.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2024/07/11/vuwsa-te-aka-tauira-launches-petition-for-winter-energy-payment-extension-to-tertiary-students/index.html
+layout: layout.njk
 ---
 VUWSA - Te Aka Tauira Launches Petition for Winter Energy Payment Extension to Tertiary Students
 ================================================================================================

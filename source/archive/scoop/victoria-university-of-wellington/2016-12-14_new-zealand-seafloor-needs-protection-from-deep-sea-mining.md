@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-seafloor-needs-protection-from-deep-sea-mining
-title: "New Zealand seafloor needs protection from deep-sea mining"
-date: 2016-12-14
-source-url: https://www.scoop.co.nz/stories/SC1612/S00033/new-zealand-seafloor-needs-protection-from-deep-sea-mining.htm
+title: New Zealand seafloor needs protection from deep-sea mining
+date: 2016-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1612/S00033/new-zealand-seafloor-needs-protection-from-deep-sea-mining.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/12/14/new-zealand-seafloor-needs-protection-from-deep-sea-mining/index.html
+layout: layout.njk
 ---
 New Zealand seafloor needs protection from deep-sea mining
 ==========================================================

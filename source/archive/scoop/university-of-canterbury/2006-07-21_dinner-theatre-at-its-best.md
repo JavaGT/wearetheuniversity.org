@@ -1,9 +1,11 @@
 ---
 slug: dinner-theatre-at-its-best
-title: "Dinner theatre at its best"
-date: 2006-07-21
+title: Dinner theatre at its best
+date: 2006-07-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0607/S00183/dinner-theatre-at-its-best.htm
 author: university-of-canterbury
+permalink: /archive/2006/07/21/dinner-theatre-at-its-best/index.html
+layout: layout.njk
 ---
 Dinner theatre at its best
 ==========================

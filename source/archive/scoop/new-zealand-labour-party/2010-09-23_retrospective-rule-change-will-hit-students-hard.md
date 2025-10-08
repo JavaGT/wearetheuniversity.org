@@ -1,9 +1,13 @@
 ---
 slug: retrospective-rule-change-will-hit-students-hard
-title: "Retrospective rule change will hit students hard"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/PA1009/S00345/retrospective-rule-change-will-hit-students-hard.htm
+title: Retrospective rule change will hit students hard
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00345/retrospective-rule-change-will-hit-students-hard.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/23/retrospective-rule-change-will-hit-students-hard/index.html
+layout: layout.njk
 ---
 Retrospective rule change will hit students hard
 ================================================

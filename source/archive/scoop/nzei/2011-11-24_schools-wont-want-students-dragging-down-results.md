@@ -1,9 +1,13 @@
 ---
 slug: schools-wont-want-students-dragging-down-results
-title: "Schools won’t want students dragging down results"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/PO1111/S00675/schools-wont-want-students-dragging-down-results.htm
+title: Schools won’t want students dragging down results
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00675/schools-wont-want-students-dragging-down-results.htm
 author: nzei
+permalink: >-
+  /archive/2011/11/24/schools-wont-want-students-dragging-down-results/index.html
+layout: layout.njk
 ---
 Schools won’t want students dragging down results
 =================================================

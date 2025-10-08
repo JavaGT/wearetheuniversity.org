@@ -1,9 +1,13 @@
 ---
 slug: help-needed-to-reduce-prevalence-of-harmful-pacific-drinking
-title: "Help needed to reduce prevalence of harmful Pacific drinking"
-date: 2013-02-10
-source-url: https://www.scoop.co.nz/stories/AK1302/S00192/help-needed-to-reduce-prevalence-of-harmful-pacific-drinking.htm
+title: Help needed to reduce prevalence of harmful Pacific drinking
+date: 2013-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1302/S00192/help-needed-to-reduce-prevalence-of-harmful-pacific-drinking.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/10/help-needed-to-reduce-prevalence-of-harmful-pacific-drinking/index.html
+layout: layout.njk
 ---
 Help needed to reduce prevalence of harmful Pacific drinking
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: pm-launches-new-governance-course-at-waikato
-title: "PM Launches New Governance Course At Waikato"
-date: 2013-02-15
-source-url: https://www.scoop.co.nz/stories/ED1302/S00079/pm-launches-new-governance-course-at-waikato.htm
+title: PM Launches New Governance Course At Waikato
+date: 2013-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00079/pm-launches-new-governance-course-at-waikato.htm
 author: university-of-waikato
+permalink: /archive/2013/02/15/pm-launches-new-governance-course-at-waikato/index.html
+layout: layout.njk
 ---
 PM Launches New Governance Course At Waikato
 ============================================

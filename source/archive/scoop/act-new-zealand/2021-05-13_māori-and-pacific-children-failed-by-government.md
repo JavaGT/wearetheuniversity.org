@@ -1,9 +1,12 @@
 ---
 slug: māori-and-pacific-children-failed-by-government
-title: "Māori And Pacific Children Failed By Government"
-date: 2021-05-13
-source-url: https://www.scoop.co.nz/stories/PA2105/S00111/maori-and-pacific-children-failed-by-government.htm
+title: Māori And Pacific Children Failed By Government
+date: 2021-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00111/maori-and-pacific-children-failed-by-government.htm
 author: act-new-zealand
+permalink: /archive/2021/05/13/m/index.html
+layout: layout.njk
 ---
 Māori And Pacific Children Failed By Government
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: bill-english-speech-to-nz-institute-of-directors
-title: "Bill English Speech to NZ Institute of Directors"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/PA0211/S00405/bill-english-speech-to-nz-institute-of-directors.htm
+title: Bill English Speech to NZ Institute of Directors
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00405/bill-english-speech-to-nz-institute-of-directors.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/11/19/bill-english-speech-to-nz-institute-of-directors/index.html
+layout: layout.njk
 ---
 Bill English Speech to NZ Institute of Directors
 ================================================

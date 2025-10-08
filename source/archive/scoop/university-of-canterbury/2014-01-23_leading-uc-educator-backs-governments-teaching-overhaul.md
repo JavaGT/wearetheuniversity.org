@@ -1,9 +1,13 @@
 ---
 slug: leading-uc-educator-backs-governments-teaching-overhaul
-title: "Leading UC educator backs Government’s teaching overhaul"
-date: 2014-01-23
-source-url: https://www.scoop.co.nz/stories/PO1401/S00075/leading-uc-educator-backs-governments-teaching-overhaul.htm
+title: Leading UC educator backs Government’s teaching overhaul
+date: 2014-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1401/S00075/leading-uc-educator-backs-governments-teaching-overhaul.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/23/leading-uc-educator-backs-governments-teaching-overhaul/index.html
+layout: layout.njk
 ---
 Leading UC educator backs Government’s teaching overhaul
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: nzvcc-news-bulletin
-title: "NZVCC News Bulletin"
-date: 2007-12-05
+title: NZVCC News Bulletin
+date: 2007-12-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0712/S00017/nzvcc-news-bulletin.htm
 author: vice-chancellors-committee
+permalink: /archive/2007/12/05/nzvcc-news-bulletin/index.html
+layout: layout.njk
 ---
 NZVCC News Bulletin
 ===================

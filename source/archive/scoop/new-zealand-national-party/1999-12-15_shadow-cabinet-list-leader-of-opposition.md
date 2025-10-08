@@ -1,9 +1,12 @@
 ---
 slug: shadow-cabinet-list-leader-of-opposition
-title: "Shadow Cabinet List - Leader Of Opposition"
-date: 1999-12-15
-source-url: https://www.scoop.co.nz/stories/PA9912/S00057/shadow-cabinet-list-leader-of-opposition.htm
+title: Shadow Cabinet List - Leader Of Opposition
+date: 1999-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9912/S00057/shadow-cabinet-list-leader-of-opposition.htm
 author: new-zealand-national-party
+permalink: /archive/1999/12/15/shadow-cabinet-list-leader-of-opposition/index.html
+layout: layout.njk
 ---
 Shadow Cabinet List - Leader Of Opposition
 ==========================================

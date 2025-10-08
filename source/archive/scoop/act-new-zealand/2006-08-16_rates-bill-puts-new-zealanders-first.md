@@ -1,9 +1,12 @@
 ---
 slug: rates-bill-puts-new-zealanders-first
-title: "Rates Bill Puts New Zealanders First"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/PA0608/S00273/rates-bill-puts-new-zealanders-first.htm
+title: Rates Bill Puts New Zealanders First
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00273/rates-bill-puts-new-zealanders-first.htm
 author: act-new-zealand
+permalink: /archive/2006/08/16/rates-bill-puts-new-zealanders-first/index.html
+layout: layout.njk
 ---
 Rates Bill Puts New Zealanders First
 ====================================

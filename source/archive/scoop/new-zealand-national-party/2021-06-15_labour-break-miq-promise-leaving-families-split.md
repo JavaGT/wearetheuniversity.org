@@ -1,9 +1,12 @@
 ---
 slug: labour-break-miq-promise-leaving-families-split
-title: "Labour Break MIQ Promise Leaving Families Split"
-date: 2021-06-15
-source-url: https://www.scoop.co.nz/stories/PA2106/S00109/labour-break-miq-promise-leaving-families-split.htm
+title: Labour Break MIQ Promise Leaving Families Split
+date: 2021-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00109/labour-break-miq-promise-leaving-families-split.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/15/labour-break-miq-promise-leaving-families-split/index.html
+layout: layout.njk
 ---
 Labour Break MIQ Promise Leaving Families Split
 ===============================================

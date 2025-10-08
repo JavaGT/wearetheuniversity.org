@@ -1,9 +1,12 @@
 ---
 slug: board-appointment-for-senior-lecturer
-title: "Board appointment for senior lecturer"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/ED1404/S00044/board-appointment-for-senior-lecturer.htm
+title: Board appointment for senior lecturer
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00044/board-appointment-for-senior-lecturer.htm
 author: university-of-waikato
+permalink: /archive/2014/04/09/board-appointment-for-senior-lecturer/index.html
+layout: layout.njk
 ---
 Board appointment for senior lecturer
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: doco-directed-by-uc-lecturer-screening-at-nz-film-festival
-title: "Doco Directed By UC Lecturer Screening At NZ Film Festival"
-date: 2023-08-11
-source-url: https://www.scoop.co.nz/stories/CU2308/S00084/doco-directed-by-uc-lecturer-screening-at-nz-film-festival.htm
+title: Doco Directed By UC Lecturer Screening At NZ Film Festival
+date: 2023-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2308/S00084/doco-directed-by-uc-lecturer-screening-at-nz-film-festival.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/08/11/doco-directed-by-uc-lecturer-screening-at-nz-film-festival/index.html
+layout: layout.njk
 ---
 Doco Directed By UC Lecturer Screening At NZ Film Festival
 ==========================================================

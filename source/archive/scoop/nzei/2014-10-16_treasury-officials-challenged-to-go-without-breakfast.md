@@ -1,9 +1,13 @@
 ---
 slug: treasury-officials-challenged-to-go-without-breakfast
-title: "Treasury officials challenged to go without breakfast"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/ED1410/S00097/treasury-officials-challenged-to-go-without-breakfast.htm
+title: Treasury officials challenged to go without breakfast
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00097/treasury-officials-challenged-to-go-without-breakfast.htm
 author: nzei
+permalink: >-
+  /archive/2014/10/16/treasury-officials-challenged-to-go-without-breakfast/index.html
+layout: layout.njk
 ---
 Treasury officials challenged to go without breakfast
 =====================================================

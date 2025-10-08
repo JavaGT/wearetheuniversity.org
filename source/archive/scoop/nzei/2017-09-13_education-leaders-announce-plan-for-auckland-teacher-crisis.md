@@ -1,9 +1,13 @@
 ---
 slug: education-leaders-announce-plan-for-auckland-teacher-crisis
-title: "Education Leaders Announce Plan for Auckland Teacher Crisis"
-date: 2017-09-13
-source-url: https://www.scoop.co.nz/stories/ED1709/S00041/education-leaders-announce-plan-for-auckland-teacher-crisis.htm
+title: Education Leaders Announce Plan for Auckland Teacher Crisis
+date: 2017-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00041/education-leaders-announce-plan-for-auckland-teacher-crisis.htm
 author: nzei
+permalink: >-
+  /archive/2017/09/13/education-leaders-announce-plan-for-auckland-teacher-crisis/index.html
+layout: layout.njk
 ---
 Education Leaders Announce Plan for Auckland Teacher Crisis
 ===========================================================

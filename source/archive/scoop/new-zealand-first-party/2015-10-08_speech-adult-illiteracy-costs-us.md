@@ -1,9 +1,12 @@
 ---
 slug: speech-adult-illiteracy-costs-us
-title: "Speech: Adult Illiteracy Costs Us"
-date: 2015-10-08
-source-url: https://www.scoop.co.nz/stories/PA1510/S00111/speech-adult-illiteracy-costs-us.htm
+title: 'Speech: Adult Illiteracy Costs Us'
+date: 2015-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00111/speech-adult-illiteracy-costs-us.htm
 author: new-zealand-first-party
+permalink: /archive/2015/10/08/speech-adult-illiteracy-costs-us/index.html
+layout: layout.njk
 ---
 Speech: Adult Illiteracy Costs Us
 =================================

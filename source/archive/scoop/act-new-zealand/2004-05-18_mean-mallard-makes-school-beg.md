@@ -1,9 +1,12 @@
 ---
 slug: mean-mallard-makes-school-beg
-title: "Mean Mallard Makes School Beg"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PA0405/S00370/mean-mallard-makes-school-beg.htm
+title: Mean Mallard Makes School Beg
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00370/mean-mallard-makes-school-beg.htm
 author: act-new-zealand
+permalink: /archive/2004/05/18/mean-mallard-makes-school-beg/index.html
+layout: layout.njk
 ---
 Mean Mallard Makes School Beg
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: kiwis-health-suffers-due-to-government-spin-machine
-title: "Kiwi's health suffers due to Government spin machine"
-date: 2015-09-11
-source-url: https://www.scoop.co.nz/stories/PA1509/S00201/kiwis-health-suffers-due-to-government-spin-machine.htm
+title: Kiwi's health suffers due to Government spin machine
+date: 2015-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00201/kiwis-health-suffers-due-to-government-spin-machine.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/11/kiwis-health-suffers-due-to-government-spin-machine/index.html
+layout: layout.njk
 ---
 Kiwi's health suffers due to Government spin machine
 ====================================================

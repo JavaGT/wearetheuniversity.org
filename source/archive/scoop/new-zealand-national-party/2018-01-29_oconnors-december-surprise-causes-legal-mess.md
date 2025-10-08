@@ -1,9 +1,12 @@
 ---
 slug: oconnors-december-surprise-causes-legal-mess
-title: "O’Connor’s December surprise causes legal mess"
-date: 2018-01-29
-source-url: https://www.scoop.co.nz/stories/PA1801/S00086/oconnors-december-surprise-causes-legal-mess.htm
+title: O’Connor’s December surprise causes legal mess
+date: 2018-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1801/S00086/oconnors-december-surprise-causes-legal-mess.htm
 author: new-zealand-national-party
+permalink: /archive/2018/01/29/oconnors-december-surprise-causes-legal-mess/index.html
+layout: layout.njk
 ---
 O’Connor’s December surprise causes legal mess
 ==============================================

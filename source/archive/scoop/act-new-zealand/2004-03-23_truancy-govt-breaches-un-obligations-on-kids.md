@@ -1,9 +1,12 @@
 ---
 slug: truancy-govt-breaches-un-obligations-on-kids
-title: "Truancy: Govt Breaches UN Obligations On Kids"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/PA0403/S00480/truancy-govt-breaches-un-obligations-on-kids.htm
+title: 'Truancy: Govt Breaches UN Obligations On Kids'
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00480/truancy-govt-breaches-un-obligations-on-kids.htm
 author: act-new-zealand
+permalink: /archive/2004/03/23/truancy-govt-breaches-un-obligations-on-kids/index.html
+layout: layout.njk
 ---
 Truancy: Govt Breaches UN Obligations On Kids
 =============================================

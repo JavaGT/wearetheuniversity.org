@@ -1,9 +1,13 @@
 ---
 slug: association-shames-statistics-for-women-in-leadership
-title: "Association shames statistics for women in leadership"
-date: 2013-09-09
-source-url: https://www.scoop.co.nz/stories/ED1309/S00051/association-shames-statistics-for-women-in-leadership.htm
+title: Association shames statistics for women in leadership
+date: 2013-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00051/association-shames-statistics-for-women-in-leadership.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2013/09/09/association-shames-statistics-for-women-in-leadership/index.html
+layout: layout.njk
 ---
 Association shames statistics for women in leadership
 =====================================================

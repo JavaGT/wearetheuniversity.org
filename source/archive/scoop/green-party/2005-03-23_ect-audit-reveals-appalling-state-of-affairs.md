@@ -1,9 +1,12 @@
 ---
 slug: ect-audit-reveals-appalling-state-of-affairs
-title: "ECT audit reveals appalling state of affairs"
-date: 2005-03-23
-source-url: https://www.scoop.co.nz/stories/PA0503/S00475/ect-audit-reveals-appalling-state-of-affairs.htm
+title: ECT audit reveals appalling state of affairs
+date: 2005-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00475/ect-audit-reveals-appalling-state-of-affairs.htm
 author: green-party
+permalink: /archive/2005/03/23/ect-audit-reveals-appalling-state-of-affairs/index.html
+layout: layout.njk
 ---
 ECT audit reveals appalling state of affairs
 ============================================

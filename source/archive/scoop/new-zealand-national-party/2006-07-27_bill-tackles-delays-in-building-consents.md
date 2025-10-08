@@ -1,9 +1,12 @@
 ---
 slug: bill-tackles-delays-in-building-consents
-title: "Bill tackles delays in building consents"
-date: 2006-07-27
-source-url: https://www.scoop.co.nz/stories/PA0607/S00475/bill-tackles-delays-in-building-consents.htm
+title: Bill tackles delays in building consents
+date: 2006-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00475/bill-tackles-delays-in-building-consents.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/27/bill-tackles-delays-in-building-consents/index.html
+layout: layout.njk
 ---
 Bill tackles delays in building consents
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: seminars-wrap-antarctica-art-science-and-policy
-title: "Seminars wrap Antarctica art, science and policy"
-date: 2008-04-14
-source-url: https://www.scoop.co.nz/stories/SC0804/S00029/seminars-wrap-antarctica-art-science-and-policy.htm
+title: Seminars wrap Antarctica art, science and policy
+date: 2008-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0804/S00029/seminars-wrap-antarctica-art-science-and-policy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/14/seminars-wrap-antarctica-art-science-and-policy/index.html
+layout: layout.njk
 ---
 Seminars wrap Antarctica art, science and policy
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: more-pc-rubbish-over-gypsy-day
-title: "More PC Rubbish Over Gypsy Day"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00637/more-pc-rubbish-over-gypsy-day.htm
+title: More PC Rubbish Over Gypsy Day
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00637/more-pc-rubbish-over-gypsy-day.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/31/more-pc-rubbish-over-gypsy-day/index.html
+layout: layout.njk
 ---
 More PC Rubbish Over Gypsy Day
 ==============================

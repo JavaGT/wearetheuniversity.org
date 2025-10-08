@@ -1,9 +1,12 @@
 ---
 slug: government-must-plan-for-rising-sea-levels
-title: "Government must plan for rising sea levels"
-date: 2015-07-03
-source-url: https://www.scoop.co.nz/stories/PA1507/S00076/government-must-plan-for-rising-sea-levels.htm
+title: Government must plan for rising sea levels
+date: 2015-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00076/government-must-plan-for-rising-sea-levels.htm
 author: green-party
+permalink: /archive/2015/07/03/government-must-plan-for-rising-sea-levels/index.html
+layout: layout.njk
 ---
 Government must plan for rising sea levels
 ==========================================

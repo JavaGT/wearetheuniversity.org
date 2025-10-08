@@ -1,9 +1,13 @@
 ---
 slug: older-caregivers-and-entrepreneurs-a-focus-of-study
-title: "Older caregivers and entrepreneurs a focus of study"
-date: 2018-10-10
-source-url: https://www.scoop.co.nz/stories/BU1810/S00307/older-caregivers-and-entrepreneurs-a-focus-of-study.htm
+title: Older caregivers and entrepreneurs a focus of study
+date: 2018-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1810/S00307/older-caregivers-and-entrepreneurs-a-focus-of-study.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/10/older-caregivers-and-entrepreneurs-a-focus-of-study/index.html
+layout: layout.njk
 ---
 Older caregivers and entrepreneurs a focus of study
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: wellington-community-prepares-for-weapons-conference-protest
-title: "Wellington community prepares for Weapons Conference protest"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/PO1511/S00043/wellington-community-prepares-for-weapons-conference-protest.htm
+title: Wellington community prepares for Weapons Conference protest
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00043/wellington-community-prepares-for-weapons-conference-protest.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2015/11/03/wellington-community-prepares-for-weapons-conference-protest/index.html
+layout: layout.njk
 ---
 Wellington community prepares for Weapons Conference protest
 ============================================================

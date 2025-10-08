@@ -1,9 +1,12 @@
 ---
 slug: enrol-online-save-time-and-win
-title: "Enrol online – save time and win"
-date: 2003-10-01
-source-url: https://www.scoop.co.nz/stories/ED0310/S00004/enrol-online-save-time-and-win.htm
+title: Enrol online – save time and win
+date: 2003-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00004/enrol-online-save-time-and-win.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/10/01/enrol-online-save-time-and-win/index.html
+layout: layout.njk
 ---
 Enrol online – save time and win
 ================================

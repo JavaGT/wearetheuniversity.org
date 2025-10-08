@@ -1,9 +1,12 @@
 ---
 slug: is-sex-ed-failing-the-#metoo-generation
-title: "Is ‘sex ed’ failing the #metoo generation?"
-date: 2019-02-22
-source-url: https://www.scoop.co.nz/stories/ED1902/S00076/is-sex-ed-failing-the-metoo-generation.htm
+title: 'Is ‘sex ed’ failing the #metoo generation?'
+date: 2019-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1902/S00076/is-sex-ed-failing-the-metoo-generation.htm
 author: university-of-canterbury
+permalink: /archive/2019/02/22/is-sex-ed-failing-the-/index.html
+layout: layout.njk
 ---
 Is ‘sex ed’ failing the #metoo generation?
 ==========================================

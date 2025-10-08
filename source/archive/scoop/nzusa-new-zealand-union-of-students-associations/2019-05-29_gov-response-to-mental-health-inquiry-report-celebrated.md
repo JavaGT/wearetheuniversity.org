@@ -1,9 +1,13 @@
 ---
 slug: gov-response-to-mental-health-inquiry-report-celebrated
-title: "Gov response to mental health inquiry report celebrated"
-date: 2019-05-29
-source-url: https://www.scoop.co.nz/stories/PO1905/S00430/gov-response-to-mental-health-inquiry-report-celebrated.htm
+title: Gov response to mental health inquiry report celebrated
+date: 2019-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00430/gov-response-to-mental-health-inquiry-report-celebrated.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2019/05/29/gov-response-to-mental-health-inquiry-report-celebrated/index.html
+layout: layout.njk
 ---
 Gov response to mental health inquiry report celebrated
 =======================================================

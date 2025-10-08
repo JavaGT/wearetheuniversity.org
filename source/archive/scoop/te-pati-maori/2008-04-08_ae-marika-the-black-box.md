@@ -1,9 +1,11 @@
 ---
 slug: ae-marika-the-black-box
-title: "Ae Marika: The Black Box"
-date: 2008-04-08
+title: 'Ae Marika: The Black Box'
+date: 2008-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0804/S00211/ae-marika-the-black-box.htm
 author: te-pati-maori
+permalink: /archive/2008/04/08/ae-marika-the-black-box/index.html
+layout: layout.njk
 ---
 Ae Marika: The Black Box
 ========================

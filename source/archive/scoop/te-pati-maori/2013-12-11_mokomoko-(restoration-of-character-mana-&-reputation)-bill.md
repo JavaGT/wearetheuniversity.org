@@ -1,9 +1,12 @@
 ---
 slug: mokomoko-(restoration-of-character-mana-&-reputation)-bill
-title: "Mokomoko (Restoration of Character, Mana, & Reputation) Bill"
-date: 2013-12-11
-source-url: https://www.scoop.co.nz/stories/PA1312/S00245/mokomoko-restoration-of-character-mana-reputation-bill.htm
+title: Mokomoko (Restoration of Character, Mana, & Reputation) Bill
+date: 2013-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00245/mokomoko-restoration-of-character-mana-reputation-bill.htm
 author: te-pati-maori
+permalink: /archive/2013/12/11/mokomoko-/index.html
+layout: layout.njk
 ---
 Mokomoko (Restoration of Character, Mana, & Reputation) Bill
 ============================================================

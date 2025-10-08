@@ -1,9 +1,12 @@
 ---
 slug: soaring-organics-sales-show-nzs-true-advantage
-title: "Soaring Organics Sales Show NZ's True Advantage"
-date: 2001-08-20
-source-url: https://www.scoop.co.nz/stories/PA0108/S00393/soaring-organics-sales-show-nzs-true-advantage.htm
+title: Soaring Organics Sales Show NZ's True Advantage
+date: 2001-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00393/soaring-organics-sales-show-nzs-true-advantage.htm
 author: green-party
+permalink: /archive/2001/08/20/soaring-organics-sales-show-nzs-true-advantage/index.html
+layout: layout.njk
 ---
 Soaring Organics Sales Show NZ's True Advantage
 ===============================================

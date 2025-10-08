@@ -1,9 +1,12 @@
 ---
 slug: summer-school-financial-necessity-for-students
-title: "Summer school financial necessity for students"
-date: 2002-11-13
-source-url: https://www.scoop.co.nz/stories/ED0211/S00028/summer-school-financial-necessity-for-students.htm
+title: Summer school financial necessity for students
+date: 2002-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00028/summer-school-financial-necessity-for-students.htm
 author: victoria-university-students-association
+permalink: /archive/2002/11/13/summer-school-financial-necessity-for-students/index.html
+layout: layout.njk
 ---
 Summer school financial necessity for students
 ==============================================

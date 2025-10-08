@@ -1,9 +1,12 @@
 ---
 slug: universities-to-face-prolonged-disruption
-title: "Universities to face prolonged disruption"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/ED0506/S00024/universities-to-face-prolonged-disruption.htm
+title: Universities to face prolonged disruption
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00024/universities-to-face-prolonged-disruption.htm
 author: association-of-university-staff
+permalink: /archive/2005/06/10/universities-to-face-prolonged-disruption/index.html
+layout: layout.njk
 ---
 Universities to face prolonged disruption
 =========================================

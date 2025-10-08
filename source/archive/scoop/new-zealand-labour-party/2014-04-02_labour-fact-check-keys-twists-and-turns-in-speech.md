@@ -1,9 +1,13 @@
 ---
 slug: labour-fact-check-keys-twists-and-turns-in-speech
-title: "Labour fact check: Key’s twists and turns in speech"
-date: 2014-04-02
-source-url: https://www.scoop.co.nz/stories/PA1404/S00057/labour-fact-check-keys-twists-and-turns-in-speech.htm
+title: 'Labour fact check: Key’s twists and turns in speech'
+date: 2014-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00057/labour-fact-check-keys-twists-and-turns-in-speech.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/02/labour-fact-check-keys-twists-and-turns-in-speech/index.html
+layout: layout.njk
 ---
 Labour fact check: Key’s twists and turns in speech
 ===================================================

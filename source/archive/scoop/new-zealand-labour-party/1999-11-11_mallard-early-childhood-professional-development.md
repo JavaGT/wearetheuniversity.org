@@ -1,9 +1,13 @@
 ---
 slug: mallard-early-childhood-professional-development
-title: "Mallard:  Early Childhood Professional Development"
-date: 1999-11-11
-source-url: https://www.scoop.co.nz/stories/PA9911/S00282/mallard-early-childhood-professional-development.htm
+title: 'Mallard:  Early Childhood Professional Development'
+date: 1999-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00282/mallard-early-childhood-professional-development.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/11/11/mallard-early-childhood-professional-development/index.html
+layout: layout.njk
 ---
 Mallard: Early Childhood Professional Development
 =================================================

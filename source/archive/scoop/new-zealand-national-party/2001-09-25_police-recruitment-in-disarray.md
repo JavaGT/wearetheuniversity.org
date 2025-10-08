@@ -1,9 +1,12 @@
 ---
 slug: police-recruitment-in-disarray
-title: "Police recruitment in disarray"
-date: 2001-09-25
-source-url: https://www.scoop.co.nz/stories/PA0109/S00404/police-recruitment-in-disarray.htm
+title: Police recruitment in disarray
+date: 2001-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00404/police-recruitment-in-disarray.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/25/police-recruitment-in-disarray/index.html
+layout: layout.njk
 ---
 Police recruitment in disarray
 ==============================

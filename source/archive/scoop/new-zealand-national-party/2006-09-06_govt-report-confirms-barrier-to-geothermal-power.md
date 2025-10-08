@@ -1,9 +1,13 @@
 ---
 slug: govt-report-confirms-barrier-to-geothermal-power
-title: "Govt report confirms barrier to geothermal power"
-date: 2006-09-06
-source-url: https://www.scoop.co.nz/stories/PA0609/S00128/govt-report-confirms-barrier-to-geothermal-power.htm
+title: Govt report confirms barrier to geothermal power
+date: 2006-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00128/govt-report-confirms-barrier-to-geothermal-power.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/09/06/govt-report-confirms-barrier-to-geothermal-power/index.html
+layout: layout.njk
 ---
 Govt report confirms barrier to geothermal power
 ================================================

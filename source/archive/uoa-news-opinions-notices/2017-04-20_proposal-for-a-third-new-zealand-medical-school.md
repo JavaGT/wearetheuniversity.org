@@ -1,8 +1,11 @@
 ---
 slug: proposal-for-a-third-new-zealand-medical-school
-title: "Proposal for a third New Zealand medical school"
-date: 2017-04-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/proposal-for-a-third-new-zealand-medical-school.html
+title: Proposal for a third New Zealand medical school
+date: 2017-04-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2017/04/proposal-for-a-third-new-zealand-medical-school.html
+permalink: /archive/2017/04/20/proposal-for-a-third-new-zealand-medical-school/index.html
+layout: layout.njk
 ---
 Proposal for a third New Zealand medical school
 ===============================================

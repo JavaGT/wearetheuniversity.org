@@ -1,9 +1,12 @@
 ---
 slug: school-shows-inadequacy-of-zoning-law
-title: "School shows inadequacy of zoning law"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PA9910/S00686/school-shows-inadequacy-of-zoning-law.htm
+title: School shows inadequacy of zoning law
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00686/school-shows-inadequacy-of-zoning-law.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/29/school-shows-inadequacy-of-zoning-law/index.html
+layout: layout.njk
 ---
 School shows inadequacy of zoning law
 =====================================

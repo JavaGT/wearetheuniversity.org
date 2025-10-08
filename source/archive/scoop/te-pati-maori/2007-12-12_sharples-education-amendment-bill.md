@@ -1,9 +1,12 @@
 ---
 slug: sharples-education-amendment-bill
-title: "Sharples: Education Amendment Bill"
-date: 2007-12-12
-source-url: https://www.scoop.co.nz/stories/PA0712/S00224/sharples-education-amendment-bill.htm
+title: 'Sharples: Education Amendment Bill'
+date: 2007-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00224/sharples-education-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/12/sharples-education-amendment-bill/index.html
+layout: layout.njk
 ---
 Sharples: Education Amendment Bill
 ==================================

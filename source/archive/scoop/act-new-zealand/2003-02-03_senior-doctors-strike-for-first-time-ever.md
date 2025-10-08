@@ -1,9 +1,12 @@
 ---
 slug: senior-doctors-strike-for-first-time-ever
-title: "Senior Doctors Strike For First Time Ever"
-date: 2003-02-03
-source-url: https://www.scoop.co.nz/stories/PA0302/S00005/senior-doctors-strike-for-first-time-ever.htm
+title: Senior Doctors Strike For First Time Ever
+date: 2003-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00005/senior-doctors-strike-for-first-time-ever.htm
 author: act-new-zealand
+permalink: /archive/2003/02/03/senior-doctors-strike-for-first-time-ever/index.html
+layout: layout.njk
 ---
 Senior Doctors Strike For First Time Ever
 =========================================

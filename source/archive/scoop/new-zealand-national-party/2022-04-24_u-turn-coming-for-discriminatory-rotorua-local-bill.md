@@ -1,9 +1,13 @@
 ---
 slug: u-turn-coming-for-discriminatory-rotorua-local-bill
-title: "U-turn Coming For Discriminatory Rotorua Local Bill?"
-date: 2022-04-24
-source-url: https://www.scoop.co.nz/stories/PA2204/S00172/u-turn-coming-for-discriminatory-rotorua-local-bill.htm
+title: U-turn Coming For Discriminatory Rotorua Local Bill?
+date: 2022-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00172/u-turn-coming-for-discriminatory-rotorua-local-bill.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/04/24/u-turn-coming-for-discriminatory-rotorua-local-bill/index.html
+layout: layout.njk
 ---
 U-turn Coming For Discriminatory Rotorua Local Bill?
 ====================================================

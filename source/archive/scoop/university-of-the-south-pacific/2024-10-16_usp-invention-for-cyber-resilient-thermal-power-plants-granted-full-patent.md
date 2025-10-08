@@ -1,9 +1,13 @@
 ---
 slug: usp-invention-for-cyber-resilient-thermal-power-plants-granted-full-patent
-title: "USP Invention For Cyber Resilient Thermal Power Plants Granted Full Patent"
-date: 2024-10-16
-source-url: https://www.scoop.co.nz/stories/SC2410/S00031/usp-invention-for-cyber-resilient-thermal-power-plants-granted-full-patent.htm
+title: USP Invention For Cyber Resilient Thermal Power Plants Granted Full Patent
+date: 2024-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2410/S00031/usp-invention-for-cyber-resilient-thermal-power-plants-granted-full-patent.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/10/16/usp-invention-for-cyber-resilient-thermal-power-plants-granted-full-patent/index.html
+layout: layout.njk
 ---
 USP Invention For Cyber Resilient Thermal Power Plants Granted Full Patent
 ==========================================================================

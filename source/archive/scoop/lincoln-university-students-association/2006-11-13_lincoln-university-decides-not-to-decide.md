@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-decides-not-to-decide
-title: "Lincoln University decides not to decide"
-date: 2006-11-13
-source-url: https://www.scoop.co.nz/stories/ED0611/S00047/lincoln-university-decides-not-to-decide.htm
+title: Lincoln University decides not to decide
+date: 2006-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00047/lincoln-university-decides-not-to-decide.htm
 author: lincoln-university-students-association
+permalink: /archive/2006/11/13/lincoln-university-decides-not-to-decide/index.html
+layout: layout.njk
 ---
 Lincoln University decides not to decide
 ========================================

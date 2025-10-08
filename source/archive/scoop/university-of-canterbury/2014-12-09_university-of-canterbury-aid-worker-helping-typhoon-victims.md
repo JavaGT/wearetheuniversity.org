@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-aid-worker-helping-typhoon-victims
-title: "University of Canterbury aid worker helping typhoon victims"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/ED1412/S00054/university-of-canterbury-aid-worker-helping-typhoon-victims.htm
+title: University of Canterbury aid worker helping typhoon victims
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00054/university-of-canterbury-aid-worker-helping-typhoon-victims.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/09/university-of-canterbury-aid-worker-helping-typhoon-victims/index.html
+layout: layout.njk
 ---
 University of Canterbury aid worker helping typhoon victims
 ===========================================================

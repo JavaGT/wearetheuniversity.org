@@ -1,9 +1,12 @@
 ---
 slug: otago-announces-2007-arts-fellowships
-title: "Otago Announces 2007 Arts Fellowships"
-date: 2006-11-15
-source-url: https://www.scoop.co.nz/stories/CU0611/S00164/otago-announces-2007-arts-fellowships.htm
+title: Otago Announces 2007 Arts Fellowships
+date: 2006-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0611/S00164/otago-announces-2007-arts-fellowships.htm
 author: university-of-otago
+permalink: /archive/2006/11/15/otago-announces-2007-arts-fellowships/index.html
+layout: layout.njk
 ---
 Otago Announces 2007 Arts Fellowships
 =====================================

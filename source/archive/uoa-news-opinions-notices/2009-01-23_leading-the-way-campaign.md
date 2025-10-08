@@ -1,8 +1,11 @@
 ---
 slug: leading-the-way-campaign
-title: "Leading the Way Campaign."
-date: 2009-01-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/01/23/Leading-the-Way-Campaign..html
+title: Leading the Way Campaign.
+date: 2009-01-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2009/2009/01/23/Leading-the-Way-Campaign..html
+permalink: /archive/2009/01/23/leading-the-way-campaign/index.html
+layout: layout.njk
 ---
 Leading the Way Campaign.
 =========================

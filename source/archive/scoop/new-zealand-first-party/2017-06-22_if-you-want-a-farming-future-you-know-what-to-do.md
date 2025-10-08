@@ -1,9 +1,13 @@
 ---
 slug: if-you-want-a-farming-future-you-know-what-to-do
-title: "If You Want a Farming Future You Know What To Do ..."
-date: 2017-06-22
-source-url: https://www.scoop.co.nz/stories/PO1706/S00304/if-you-want-a-farming-future-you-know-what-to-do.htm
+title: If You Want a Farming Future You Know What To Do ...
+date: 2017-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1706/S00304/if-you-want-a-farming-future-you-know-what-to-do.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/22/if-you-want-a-farming-future-you-know-what-to-do/index.html
+layout: layout.njk
 ---
 If You Want a Farming Future You Know What To Do ...
 ====================================================

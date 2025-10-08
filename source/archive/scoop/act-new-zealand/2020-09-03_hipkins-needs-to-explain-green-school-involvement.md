@@ -1,9 +1,13 @@
 ---
 slug: hipkins-needs-to-explain-green-school-involvement
-title: "Hipkins Needs To Explain Green School Involvement"
-date: 2020-09-03
-source-url: https://www.scoop.co.nz/stories/PA2009/S00016/hipkins-needs-to-explain-green-school-involvement.htm
+title: Hipkins Needs To Explain Green School Involvement
+date: 2020-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00016/hipkins-needs-to-explain-green-school-involvement.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/09/03/hipkins-needs-to-explain-green-school-involvement/index.html
+layout: layout.njk
 ---
 Hipkins Needs To Explain Green School Involvement
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: further-inaccurate-data-from-national-standards
-title: "Further Inaccurate Data from National Standards"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/PA1309/S00080/further-inaccurate-data-from-national-standards.htm
+title: Further Inaccurate Data from National Standards
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00080/further-inaccurate-data-from-national-standards.htm
 author: new-zealand-first-party
+permalink: /archive/2013/09/04/further-inaccurate-data-from-national-standards/index.html
+layout: layout.njk
 ---
 Further Inaccurate Data from National Standards
 ===============================================

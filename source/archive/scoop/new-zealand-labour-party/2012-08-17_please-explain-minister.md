@@ -1,9 +1,11 @@
 ---
 slug: please-explain-minister
-title: "Please explain, Minister"
-date: 2012-08-17
+title: Please explain, Minister
+date: 2012-08-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1208/S00257/please-explain-minister.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/17/please-explain-minister/index.html
+layout: layout.njk
 ---
 Please explain, Minister
 ========================

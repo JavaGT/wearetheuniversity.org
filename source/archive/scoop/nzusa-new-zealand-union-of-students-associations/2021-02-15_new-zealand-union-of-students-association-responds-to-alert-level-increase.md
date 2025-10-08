@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-union-of-students-association-responds-to-alert-level-increase
-title: "New Zealand Union Of Students’ Association Responds To Alert Level Increase"
-date: 2021-02-15
-source-url: https://www.scoop.co.nz/stories/PO2102/S00117/new-zealand-union-of-students-association-responds-to-alert-level-increase.htm
+title: New Zealand Union Of Students’ Association Responds To Alert Level Increase
+date: 2021-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2102/S00117/new-zealand-union-of-students-association-responds-to-alert-level-increase.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/02/15/new-zealand-union-of-students-association-responds-to-alert-level-increase/index.html
+layout: layout.njk
 ---
 New Zealand Union Of Students’ Association Responds To Alert Level Increase
 ===========================================================================

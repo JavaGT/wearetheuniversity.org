@@ -1,9 +1,12 @@
 ---
 slug: what-if…-we-could-predict-game-of-thrones
-title: "What if… We could predict Game of Thrones?"
-date: 2014-10-06
-source-url: https://www.scoop.co.nz/stories/CU1410/S00111/what-if-we-could-predict-game-of-thrones.htm
+title: What if… We could predict Game of Thrones?
+date: 2014-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00111/what-if-we-could-predict-game-of-thrones.htm
 author: university-of-canterbury
+permalink: /archive/2014/10/06/what-if/index.html
+layout: layout.njk
 ---
 What if… We could predict Game of Thrones?
 ==========================================

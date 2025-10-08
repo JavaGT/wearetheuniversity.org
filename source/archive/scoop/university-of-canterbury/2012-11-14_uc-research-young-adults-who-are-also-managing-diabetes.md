@@ -1,9 +1,13 @@
 ---
 slug: uc-research-young-adults-who-are-also-managing-diabetes
-title: "UC Research: Young Adults Who Are Also Managing Diabetes"
-date: 2012-11-14
-source-url: https://www.scoop.co.nz/stories/SC1211/S00039/uc-research-young-adults-who-are-also-managing-diabetes.htm
+title: 'UC Research: Young Adults Who Are Also Managing Diabetes'
+date: 2012-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00039/uc-research-young-adults-who-are-also-managing-diabetes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/14/uc-research-young-adults-who-are-also-managing-diabetes/index.html
+layout: layout.njk
 ---
 UC Research: Young Adults Who Are Also Managing Diabetes
 ========================================================

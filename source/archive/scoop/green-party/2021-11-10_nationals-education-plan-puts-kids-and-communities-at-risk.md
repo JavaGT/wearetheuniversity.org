@@ -1,9 +1,13 @@
 ---
 slug: nationals-education-plan-puts-kids-and-communities-at-risk
-title: "National’s Education Plan Puts Kids And Communities At Risk"
-date: 2021-11-10
-source-url: https://www.scoop.co.nz/stories/PA2111/S00107/nationals-education-plan-puts-kids-and-communities-at-risk.htm
+title: National’s Education Plan Puts Kids And Communities At Risk
+date: 2021-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00107/nationals-education-plan-puts-kids-and-communities-at-risk.htm
 author: green-party
+permalink: >-
+  /archive/2021/11/10/nationals-education-plan-puts-kids-and-communities-at-risk/index.html
+layout: layout.njk
 ---
 National’s Education Plan Puts Kids And Communities At Risk
 ===========================================================

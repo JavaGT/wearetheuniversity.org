@@ -1,9 +1,13 @@
 ---
 slug: further-funding-for-innovative-otago-health-research
-title: "Further funding for innovative Otago health research"
-date: 2013-06-21
-source-url: https://www.scoop.co.nz/stories/SC1306/S00055/further-funding-for-innovative-otago-health-research.htm
+title: Further funding for innovative Otago health research
+date: 2013-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00055/further-funding-for-innovative-otago-health-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/06/21/further-funding-for-innovative-otago-health-research/index.html
+layout: layout.njk
 ---
 Further funding for innovative Otago health research
 ====================================================

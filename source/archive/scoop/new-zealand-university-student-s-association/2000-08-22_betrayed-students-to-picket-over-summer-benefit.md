@@ -1,9 +1,12 @@
 ---
 slug: betrayed-students-to-picket-over-summer-benefit
-title: "Betrayed Students To Picket Over Summer Benefit"
-date: 2000-08-22
-source-url: https://www.scoop.co.nz/stories/PO0008/S00137/betrayed-students-to-picket-over-summer-benefit.htm
+title: Betrayed Students To Picket Over Summer Benefit
+date: 2000-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00137/betrayed-students-to-picket-over-summer-benefit.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/08/22/betrayed-students-to-picket-over-summer-benefit/index.html
+layout: layout.njk
 ---
 Betrayed Students To Picket Over Summer Benefit
 ===============================================

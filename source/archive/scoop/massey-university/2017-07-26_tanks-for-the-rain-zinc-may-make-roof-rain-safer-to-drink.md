@@ -1,9 +1,13 @@
 ---
 slug: tanks-for-the-rain-zinc-may-make-roof-rain-safer-to-drink
-title: "Tanks for the Rain - Zinc May Make Roof Rain Safer to Drink"
-date: 2017-07-26
-source-url: https://www.scoop.co.nz/stories/ED1707/S00086/tanks-for-the-rain-zinc-may-make-roof-rain-safer-to-drink.htm
+title: Tanks for the Rain - Zinc May Make Roof Rain Safer to Drink
+date: 2017-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00086/tanks-for-the-rain-zinc-may-make-roof-rain-safer-to-drink.htm
 author: massey-university
+permalink: >-
+  /archive/2017/07/26/tanks-for-the-rain-zinc-may-make-roof-rain-safer-to-drink/index.html
+layout: layout.njk
 ---
 Tanks for the Rain - Zinc May Make Roof Rain Safer to Drink
 ===========================================================

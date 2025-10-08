@@ -1,9 +1,13 @@
 ---
 slug: canterbury-graduate-hopes-to-improve-research-in-nz
-title: "Canterbury graduate hopes to improve research in NZ"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/ED1501/S00079/canterbury-graduate-hopes-to-improve-research-in-nz.htm
+title: Canterbury graduate hopes to improve research in NZ
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00079/canterbury-graduate-hopes-to-improve-research-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/28/canterbury-graduate-hopes-to-improve-research-in-nz/index.html
+layout: layout.njk
 ---
 Canterbury graduate hopes to improve research in NZ
 ===================================================

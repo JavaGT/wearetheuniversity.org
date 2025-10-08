@@ -1,9 +1,13 @@
 ---
 slug: victorias-accounting-research-among-best-in-the-world
-title: "Victoria’s accounting research among best in the world"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/ED1306/S00087/victorias-accounting-research-among-best-in-the-world.htm
+title: Victoria’s accounting research among best in the world
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00087/victorias-accounting-research-among-best-in-the-world.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/06/17/victorias-accounting-research-among-best-in-the-world/index.html
+layout: layout.njk
 ---
 Victoria’s accounting research among best in the world
 ======================================================

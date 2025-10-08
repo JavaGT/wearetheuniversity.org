@@ -1,9 +1,12 @@
 ---
 slug: stand-for-safety-in-the-classroom-backed-by-ctu
-title: "Stand for Safety in the Classroom Backed by CTU"
-date: 2006-09-27
-source-url: https://www.scoop.co.nz/stories/ED0609/S00111/stand-for-safety-in-the-classroom-backed-by-ctu.htm
+title: Stand for Safety in the Classroom Backed by CTU
+date: 2006-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00111/stand-for-safety-in-the-classroom-backed-by-ctu.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/09/27/stand-for-safety-in-the-classroom-backed-by-ctu/index.html
+layout: layout.njk
 ---
 Stand for Safety in the Classroom Backed by CTU
 ===============================================

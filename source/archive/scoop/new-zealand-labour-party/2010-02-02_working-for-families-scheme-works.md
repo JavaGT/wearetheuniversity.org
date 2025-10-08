@@ -1,9 +1,12 @@
 ---
 slug: working-for-families-scheme-works
-title: "Working for Families scheme works"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/PA1002/S00030/working-for-families-scheme-works.htm
+title: Working for Families scheme works
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00030/working-for-families-scheme-works.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/02/working-for-families-scheme-works/index.html
+layout: layout.njk
 ---
 Working for Families scheme works
 =================================

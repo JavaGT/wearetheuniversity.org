@@ -1,9 +1,12 @@
 ---
 slug: students-used-as-cash-cows-new-research
-title: "Students Used As Cash Cows - New Research"
-date: 2001-05-07
-source-url: https://www.scoop.co.nz/stories/ED0105/S00013/students-used-as-cash-cows-new-research.htm
+title: Students Used As Cash Cows - New Research
+date: 2001-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0105/S00013/students-used-as-cash-cows-new-research.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/05/07/students-used-as-cash-cows-new-research/index.html
+layout: layout.njk
 ---
 Students Used As Cash Cows - New Research
 =========================================

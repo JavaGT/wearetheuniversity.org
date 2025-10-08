@@ -1,9 +1,12 @@
 ---
 slug: brash-vows-focus-on-policies-for-new-zealand
-title: "Brash Vows Focus on Policies for New Zealand"
-date: 2005-07-22
-source-url: https://www.scoop.co.nz/stories/PA0507/S00462/brash-vows-focus-on-policies-for-new-zealand.htm
+title: Brash Vows Focus on Policies for New Zealand
+date: 2005-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00462/brash-vows-focus-on-policies-for-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/22/brash-vows-focus-on-policies-for-new-zealand/index.html
+layout: layout.njk
 ---
 Brash Vows Focus on Policies for New Zealand
 ============================================

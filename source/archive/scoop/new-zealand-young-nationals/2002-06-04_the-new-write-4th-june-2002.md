@@ -1,9 +1,11 @@
 ---
 slug: the-new-write-4th-june-2002
-title: "The New Write - 4th June 2002"
-date: 2002-06-04
+title: The New Write - 4th June 2002
+date: 2002-06-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0206/S00011/the-new-write-4th-june-2002.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/06/04/the-new-write-4th-june-2002/index.html
+layout: layout.njk
 ---
 The New Write - 4th June 2002
 =============================

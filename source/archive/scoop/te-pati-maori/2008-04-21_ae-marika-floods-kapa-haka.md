@@ -1,9 +1,11 @@
 ---
 slug: ae-marika-floods-kapa-haka
-title: "Ae Marika: Floods, Kapa Haka"
-date: 2008-04-21
+title: 'Ae Marika: Floods, Kapa Haka'
+date: 2008-04-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0804/S00499/ae-marika-floods-kapa-haka.htm
 author: te-pati-maori
+permalink: /archive/2008/04/21/ae-marika-floods-kapa-haka/index.html
+layout: layout.njk
 ---
 Ae Marika: Floods, Kapa Haka
 ============================

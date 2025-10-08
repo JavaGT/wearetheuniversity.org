@@ -1,9 +1,13 @@
 ---
 slug: canterbury-scientist-helping-critically-endangered-kakī
-title: "Canterbury scientist helping critically endangered kakī"
-date: 2015-03-27
-source-url: https://www.scoop.co.nz/stories/ED1503/S00115/canterbury-scientist-helping-critically-endangered-kaki.htm
+title: Canterbury scientist helping critically endangered kakī
+date: 2015-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00115/canterbury-scientist-helping-critically-endangered-kaki.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/27/canterbury-scientist-helping-critically-endangered-kak/index.html
+layout: layout.njk
 ---
 Canterbury scientist helping critically endangered kakī
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: earthquake-minister-must-resign-nz-first
-title: "Earthquake Minister Must Resign – NZ First"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/PA1204/S00170/earthquake-minister-must-resign-nz-first.htm
+title: Earthquake Minister Must Resign – NZ First
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00170/earthquake-minister-must-resign-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2012/04/16/earthquake-minister-must-resign-nz-first/index.html
+layout: layout.njk
 ---
 Earthquake Minister Must Resign – NZ First
 ==========================================

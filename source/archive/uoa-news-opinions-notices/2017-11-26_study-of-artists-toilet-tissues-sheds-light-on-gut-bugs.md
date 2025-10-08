@@ -1,8 +1,12 @@
 ---
 slug: study-of-artists-toilet-tissues-sheds-light-on-gut-bugs
-title: "Study of artist’s toilet tissues sheds light on gut bugs"
-date: 2017-11-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/study-of-artists-toilet-tissues-sheds-light-on-gut-bugs.html
+title: Study of artist’s toilet tissues sheds light on gut bugs
+date: 2017-11-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/study-of-artists-toilet-tissues-sheds-light-on-gut-bugs.html
+permalink: >-
+  /archive/2017/11/26/study-of-artists-toilet-tissues-sheds-light-on-gut-bugs/index.html
+layout: layout.njk
 ---
 Study of artist’s toilet tissues sheds light on gut bugs
 ========================================================

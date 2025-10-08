@@ -1,9 +1,12 @@
 ---
 slug: study-to-encourage-workplace-breastfeeding
-title: "Study to encourage workplace breastfeeding"
-date: 2005-07-20
-source-url: https://www.scoop.co.nz/stories/GE0507/S00071/study-to-encourage-workplace-breastfeeding.htm
+title: Study to encourage workplace breastfeeding
+date: 2005-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0507/S00071/study-to-encourage-workplace-breastfeeding.htm
 author: aut-university
+permalink: /archive/2005/07/20/study-to-encourage-workplace-breastfeeding/index.html
+layout: layout.njk
 ---
 Study to encourage workplace breastfeeding
 ==========================================

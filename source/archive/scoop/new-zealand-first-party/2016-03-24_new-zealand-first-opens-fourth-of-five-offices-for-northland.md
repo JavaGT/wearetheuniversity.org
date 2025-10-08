@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-first-opens-fourth-of-five-offices-for-northland
-title: "New Zealand First opens Fourth of Five offices for Northland"
-date: 2016-03-24
-source-url: https://www.scoop.co.nz/stories/PA1603/S00420/new-zealand-first-opens-fourth-of-five-offices-for-northland.htm
+title: New Zealand First opens Fourth of Five offices for Northland
+date: 2016-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00420/new-zealand-first-opens-fourth-of-five-offices-for-northland.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/03/24/new-zealand-first-opens-fourth-of-five-offices-for-northland/index.html
+layout: layout.njk
 ---
 New Zealand First opens Fourth of Five offices for Northland
 ============================================================

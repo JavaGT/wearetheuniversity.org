@@ -1,9 +1,12 @@
 ---
 slug: massey-university-surplus-greed
-title: "Massey University – Surplus Greed"
-date: 1999-12-02
-source-url: https://www.scoop.co.nz/stories/ED9912/S00002/massey-university-surplus-greed.htm
+title: Massey University – Surplus Greed
+date: 1999-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9912/S00002/massey-university-surplus-greed.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/1999/12/02/massey-university-surplus-greed/index.html
+layout: layout.njk
 ---
 Massey University – Surplus Greed
 =================================

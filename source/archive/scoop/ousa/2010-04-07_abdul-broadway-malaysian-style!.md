@@ -1,9 +1,12 @@
 ---
 slug: abdul-broadway-malaysian-style!
-title: "Abdul Broadway – Malaysian Style!"
-date: 2010-04-07
-source-url: https://www.scoop.co.nz/stories/CU1004/S00068/abdul-broadway-malaysian-style.htm
+title: Abdul Broadway – Malaysian Style!
+date: 2010-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1004/S00068/abdul-broadway-malaysian-style.htm
 author: ousa
+permalink: /archive/2010/04/07/abdul-broadway-malaysian-style/index.html
+layout: layout.njk
 ---
 Abdul ” Broadway – Malaysian Style!
 ===================================

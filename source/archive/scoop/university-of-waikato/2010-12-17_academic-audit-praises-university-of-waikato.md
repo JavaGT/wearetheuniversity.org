@@ -1,9 +1,12 @@
 ---
 slug: academic-audit-praises-university-of-waikato
-title: "Academic audit praises University of Waikato"
-date: 2010-12-17
-source-url: https://www.scoop.co.nz/stories/ED1012/S00074/academic-audit-praises-university-of-waikato.htm
+title: Academic audit praises University of Waikato
+date: 2010-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00074/academic-audit-praises-university-of-waikato.htm
 author: university-of-waikato
+permalink: /archive/2010/12/17/academic-audit-praises-university-of-waikato/index.html
+layout: layout.njk
 ---
 Academic audit praises University of Waikato
 ============================================

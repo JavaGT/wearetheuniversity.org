@@ -1,9 +1,12 @@
 ---
 slug: higher-fees-another-hidden-cost-of-asset-sales
-title: "Higher fees another hidden cost of asset sales"
-date: 2012-06-26
-source-url: https://www.scoop.co.nz/stories/PA1206/S00372/higher-fees-another-hidden-cost-of-asset-sales.htm
+title: Higher fees another hidden cost of asset sales
+date: 2012-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00372/higher-fees-another-hidden-cost-of-asset-sales.htm
 author: green-party
+permalink: /archive/2012/06/26/higher-fees-another-hidden-cost-of-asset-sales/index.html
+layout: layout.njk
 ---
 Higher fees another hidden cost of asset sales
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-scriptwriters-second-film-in-nz-competition
-title: "Massey scriptwriter’s second film in NZ competition"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/ED1506/S00123/massey-scriptwriters-second-film-in-nz-competition.htm
+title: Massey scriptwriter’s second film in NZ competition
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00123/massey-scriptwriters-second-film-in-nz-competition.htm
 author: massey-university
+permalink: >-
+  /archive/2015/06/23/massey-scriptwriters-second-film-in-nz-competition/index.html
+layout: layout.njk
 ---
 Massey scriptwriter’s second film in NZ competition
 ===================================================

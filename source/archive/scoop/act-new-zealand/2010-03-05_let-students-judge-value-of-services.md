@@ -1,9 +1,12 @@
 ---
 slug: let-students-judge-value-of-services
-title: "Let Students Judge Value Of Services"
-date: 2010-03-05
-source-url: https://www.scoop.co.nz/stories/PA1003/S00085/let-students-judge-value-of-services.htm
+title: Let Students Judge Value Of Services
+date: 2010-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00085/let-students-judge-value-of-services.htm
 author: act-new-zealand
+permalink: /archive/2010/03/05/let-students-judge-value-of-services/index.html
+layout: layout.njk
 ---
 Let Students Judge Value Of Services
 ====================================

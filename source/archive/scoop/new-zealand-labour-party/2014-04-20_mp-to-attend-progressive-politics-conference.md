@@ -1,9 +1,12 @@
 ---
 slug: mp-to-attend-progressive-politics-conference
-title: "MP to attend progressive politics conference"
-date: 2014-04-20
-source-url: https://www.scoop.co.nz/stories/PA1404/S00347/mp-to-attend-progressive-politics-conference.htm
+title: MP to attend progressive politics conference
+date: 2014-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00347/mp-to-attend-progressive-politics-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/20/mp-to-attend-progressive-politics-conference/index.html
+layout: layout.njk
 ---
 MP to attend progressive politics conference
 ============================================

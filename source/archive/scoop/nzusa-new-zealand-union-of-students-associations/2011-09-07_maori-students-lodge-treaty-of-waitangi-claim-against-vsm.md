@@ -1,9 +1,13 @@
 ---
 slug: maori-students-lodge-treaty-of-waitangi-claim-against-vsm
-title: "Maori students lodge Treaty of Waitangi claim against VSM"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/PO1109/S00102/maori-students-lodge-treaty-of-waitangi-claim-against-vsm.htm
+title: Maori students lodge Treaty of Waitangi claim against VSM
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00102/maori-students-lodge-treaty-of-waitangi-claim-against-vsm.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/07/maori-students-lodge-treaty-of-waitangi-claim-against-vsm/index.html
+layout: layout.njk
 ---
 Maori students lodge Treaty of Waitangi claim against VSM
 =========================================================

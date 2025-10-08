@@ -1,9 +1,12 @@
 ---
 slug: innovation-needed-in-the-state-sector
-title: "Innovation needed in the state sector"
-date: 2011-11-15
-source-url: https://www.scoop.co.nz/stories/PA1111/S00300/innovation-needed-in-the-state-sector.htm
+title: Innovation needed in the state sector
+date: 2011-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00300/innovation-needed-in-the-state-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/15/innovation-needed-in-the-state-sector/index.html
+layout: layout.njk
 ---
 Innovation needed in the state sector
 =====================================

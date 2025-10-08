@@ -1,9 +1,12 @@
 ---
 slug: a-polar-law-approach-to-climate-change
-title: "A Polar Law Approach To Climate Change?"
-date: 2021-02-25
-source-url: https://www.scoop.co.nz/stories/ED2102/S00038/a-polar-law-approach-to-climate-change.htm
+title: A Polar Law Approach To Climate Change?
+date: 2021-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00038/a-polar-law-approach-to-climate-change.htm
 author: university-of-canterbury
+permalink: /archive/2021/02/25/a-polar-law-approach-to-climate-change/index.html
+layout: layout.njk
 ---
 A Polar Law Approach To Climate Change?
 =======================================

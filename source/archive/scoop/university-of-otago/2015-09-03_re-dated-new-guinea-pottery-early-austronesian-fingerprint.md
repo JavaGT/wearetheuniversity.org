@@ -1,9 +1,13 @@
 ---
 slug: re-dated-new-guinea-pottery-early-austronesian-fingerprint
-title: "Re-dated New Guinea pottery: early Austronesian fingerprint"
-date: 2015-09-03
-source-url: https://www.scoop.co.nz/stories/SC1509/S00013/re-dated-new-guinea-pottery-early-austronesian-fingerprint.htm
+title: 'Re-dated New Guinea pottery: early Austronesian fingerprint'
+date: 2015-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1509/S00013/re-dated-new-guinea-pottery-early-austronesian-fingerprint.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/09/03/re-dated-new-guinea-pottery-early-austronesian-fingerprint/index.html
+layout: layout.njk
 ---
 Re-dated New Guinea pottery: early Austronesian fingerprint
 ===========================================================

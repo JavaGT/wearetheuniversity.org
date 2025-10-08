@@ -1,9 +1,13 @@
 ---
 slug: christchurch-the-engine-room-of-nz-as-rebuild-steps-up
-title: "Christchurch the engine room of NZ as rebuild steps up"
-date: 2013-02-22
-source-url: https://www.scoop.co.nz/stories/AK1302/S00490/christchurch-the-engine-room-of-nz-as-rebuild-steps-up.htm
+title: Christchurch the engine room of NZ as rebuild steps up
+date: 2013-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1302/S00490/christchurch-the-engine-room-of-nz-as-rebuild-steps-up.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/22/christchurch-the-engine-room-of-nz-as-rebuild-steps-up/index.html
+layout: layout.njk
 ---
 Christchurch the engine room of NZ as rebuild steps up
 ======================================================

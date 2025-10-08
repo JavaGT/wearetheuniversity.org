@@ -1,9 +1,13 @@
 ---
 slug: canterbury-water-decision-sends-confusing-message
-title: "Canterbury water decision sends confusing message"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00671/canterbury-water-decision-sends-confusing-message.htm
+title: Canterbury water decision sends confusing message
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00671/canterbury-water-decision-sends-confusing-message.htm
 author: green-party
+permalink: >-
+  /archive/2005/08/25/canterbury-water-decision-sends-confusing-message/index.html
+layout: layout.njk
 ---
 Canterbury water decision sends confusing message
 =================================================

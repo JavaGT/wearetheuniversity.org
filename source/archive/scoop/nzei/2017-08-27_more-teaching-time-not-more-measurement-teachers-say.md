@@ -1,9 +1,13 @@
 ---
 slug: more-teaching-time-not-more-measurement-teachers-say
-title: "More teaching time, not more measurement, teachers say"
-date: 2017-08-27
-source-url: https://www.scoop.co.nz/stories/PO1708/S00533/more-teaching-time-not-more-measurement-teachers-say.htm
+title: More teaching time, not more measurement, teachers say
+date: 2017-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00533/more-teaching-time-not-more-measurement-teachers-say.htm
 author: nzei
+permalink: >-
+  /archive/2017/08/27/more-teaching-time-not-more-measurement-teachers-say/index.html
+layout: layout.njk
 ---
 More teaching time, not more measurement, teachers say
 ======================================================

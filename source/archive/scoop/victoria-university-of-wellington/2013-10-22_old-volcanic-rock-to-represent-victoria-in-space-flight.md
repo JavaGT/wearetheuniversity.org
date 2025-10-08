@@ -1,9 +1,13 @@
 ---
 slug: old-volcanic-rock-to-represent-victoria-in-space-flight
-title: "Old volcanic rock to represent Victoria in space flight"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/SC1310/S00058/old-volcanic-rock-to-represent-victoria-in-space-flight.htm
+title: Old volcanic rock to represent Victoria in space flight
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00058/old-volcanic-rock-to-represent-victoria-in-space-flight.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/22/old-volcanic-rock-to-represent-victoria-in-space-flight/index.html
+layout: layout.njk
 ---
 Old volcanic rock to represent Victoria in space flight
 =======================================================

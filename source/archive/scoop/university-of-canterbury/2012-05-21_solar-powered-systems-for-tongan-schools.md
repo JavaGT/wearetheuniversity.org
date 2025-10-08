@@ -1,9 +1,12 @@
 ---
 slug: solar-powered-systems-for-tongan-schools
-title: "Solar Powered Systems for Tongan Schools"
-date: 2012-05-21
-source-url: https://www.scoop.co.nz/stories/ED1205/S00087/solar-powered-systems-for-tongan-schools.htm
+title: Solar Powered Systems for Tongan Schools
+date: 2012-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00087/solar-powered-systems-for-tongan-schools.htm
 author: university-of-canterbury
+permalink: /archive/2012/05/21/solar-powered-systems-for-tongan-schools/index.html
+layout: layout.njk
 ---
 Solar Powered Systems for Tongan Schools
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: andrew-little-pre-budget-speech-2016
-title: "Andrew Little: Pre-Budget Speech 2016"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/PA1605/S00407/andrew-little-pre-budget-speech-2016.htm
+title: 'Andrew Little: Pre-Budget Speech 2016'
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00407/andrew-little-pre-budget-speech-2016.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/23/andrew-little-pre-budget-speech-2016/index.html
+layout: layout.njk
 ---
 Andrew Little: Pre-Budget Speech 2016
 =====================================

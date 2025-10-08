@@ -1,9 +1,13 @@
 ---
 slug: students-mourn-the-death-of-affordable-education
-title: "Students mourn the death of affordable education"
-date: 2003-10-07
-source-url: https://www.scoop.co.nz/stories/ED0310/S00019/students-mourn-the-death-of-affordable-education.htm
+title: Students mourn the death of affordable education
+date: 2003-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00019/students-mourn-the-death-of-affordable-education.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2003/10/07/students-mourn-the-death-of-affordable-education/index.html
+layout: layout.njk
 ---
 Students mourn the death of affordable education
 ================================================

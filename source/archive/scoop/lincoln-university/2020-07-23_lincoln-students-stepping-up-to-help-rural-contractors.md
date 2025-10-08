@@ -1,9 +1,13 @@
 ---
 slug: lincoln-students-stepping-up-to-help-rural-contractors
-title: "Lincoln Students Stepping Up To Help Rural Contractors"
-date: 2020-07-23
-source-url: https://www.scoop.co.nz/stories/ED2007/S00031/lincoln-students-stepping-up-to-help-rural-contractors.htm
+title: Lincoln Students Stepping Up To Help Rural Contractors
+date: 2020-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00031/lincoln-students-stepping-up-to-help-rural-contractors.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/07/23/lincoln-students-stepping-up-to-help-rural-contractors/index.html
+layout: layout.njk
 ---
 Lincoln Students Stepping Up To Help Rural Contractors
 ======================================================

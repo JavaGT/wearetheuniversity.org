@@ -1,9 +1,12 @@
 ---
 slug: average-rates-rise-nearly-three-times-inflation
-title: "Average rates rise nearly three times inflation"
-date: 2006-07-03
-source-url: https://www.scoop.co.nz/stories/PA0607/S00025/average-rates-rise-nearly-three-times-inflation.htm
+title: Average rates rise nearly three times inflation
+date: 2006-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00025/average-rates-rise-nearly-three-times-inflation.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/03/average-rates-rise-nearly-three-times-inflation/index.html
+layout: layout.njk
 ---
 Average rates rise nearly three times inflation
 ===============================================

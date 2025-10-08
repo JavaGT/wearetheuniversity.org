@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-address-and-reply-debate
-title: "Heather Roy's Diary Address And Reply Debate"
-date: 2007-02-16
-source-url: https://www.scoop.co.nz/stories/PA0702/S00312/heather-roys-diary-address-and-reply-debate.htm
+title: Heather Roy's Diary Address And Reply Debate
+date: 2007-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00312/heather-roys-diary-address-and-reply-debate.htm
 author: act-new-zealand
+permalink: /archive/2007/02/16/heather-roys-diary-address-and-reply-debate/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary Address And Reply Debate
 ============================================

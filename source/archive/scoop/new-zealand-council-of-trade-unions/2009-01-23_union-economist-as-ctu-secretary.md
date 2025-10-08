@@ -1,9 +1,12 @@
 ---
 slug: union-economist-as-ctu-secretary
-title: "Union Economist as CTU Secretary"
-date: 2009-01-23
-source-url: https://www.scoop.co.nz/stories/PO0901/S00148/union-economist-as-ctu-secretary.htm
+title: Union Economist as CTU Secretary
+date: 2009-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0901/S00148/union-economist-as-ctu-secretary.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/01/23/union-economist-as-ctu-secretary/index.html
+layout: layout.njk
 ---
 Union Economist as CTU Secretary
 ================================

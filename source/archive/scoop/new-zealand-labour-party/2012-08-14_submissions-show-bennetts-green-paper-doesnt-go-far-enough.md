@@ -1,9 +1,13 @@
 ---
 slug: submissions-show-bennetts-green-paper-doesnt-go-far-enough
-title: "Submissions Show Bennett’s Green Paper Doesn’t Go Far Enough"
-date: 2012-08-14
-source-url: https://www.scoop.co.nz/stories/PA1208/S00180/submissions-show-bennetts-green-paper-doesnt-go-far-enough.htm
+title: Submissions Show Bennett’s Green Paper Doesn’t Go Far Enough
+date: 2012-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00180/submissions-show-bennetts-green-paper-doesnt-go-far-enough.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/08/14/submissions-show-bennetts-green-paper-doesnt-go-far-enough/index.html
+layout: layout.njk
 ---
 Submissions Show Bennett’s Green Paper Doesn’t Go Far Enough
 ============================================================

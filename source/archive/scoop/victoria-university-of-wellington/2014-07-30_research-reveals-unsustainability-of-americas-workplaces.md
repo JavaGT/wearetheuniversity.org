@@ -1,9 +1,13 @@
 ---
 slug: research-reveals-unsustainability-of-americas-workplaces
-title: "Research reveals unsustainability of America’s workplaces"
-date: 2014-07-30
-source-url: https://www.scoop.co.nz/stories/ED1407/S00147/research-reveals-unsustainability-of-americas-workplaces.htm
+title: Research reveals unsustainability of America’s workplaces
+date: 2014-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00147/research-reveals-unsustainability-of-americas-workplaces.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/07/30/research-reveals-unsustainability-of-americas-workplaces/index.html
+layout: layout.njk
 ---
 Research reveals unsustainability of America’s workplaces
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: conservationists-commitment-congratulated
-title: "Conservationists' commitment congratulated"
-date: 2007-01-29
-source-url: https://www.scoop.co.nz/stories/PA0701/S00180/conservationists-commitment-congratulated.htm
+title: Conservationists' commitment congratulated
+date: 2007-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00180/conservationists-commitment-congratulated.htm
 author: green-party
+permalink: /archive/2007/01/29/conservationists-commitment-congratulated/index.html
+layout: layout.njk
 ---
 Conservationists' commitment congratulated
 ==========================================

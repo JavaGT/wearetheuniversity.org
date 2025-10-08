@@ -1,9 +1,13 @@
 ---
 slug: understanding-food-waste-behaviour-in-student-households
-title: "Understanding Food Waste Behaviour In Student Households"
-date: 2024-05-01
-source-url: https://www.scoop.co.nz/stories/ED2405/S00006/understanding-food-waste-behaviour-in-student-households.htm
+title: Understanding Food Waste Behaviour In Student Households
+date: 2024-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00006/understanding-food-waste-behaviour-in-student-households.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/01/understanding-food-waste-behaviour-in-student-households/index.html
+layout: layout.njk
 ---
 Understanding Food Waste Behaviour In Student Households
 ========================================================

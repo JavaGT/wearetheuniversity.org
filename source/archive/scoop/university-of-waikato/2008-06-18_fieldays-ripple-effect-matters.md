@@ -1,9 +1,12 @@
 ---
 slug: fieldays-ripple-effect-matters
-title: "Fieldays ripple effect matters"
-date: 2008-06-18
-source-url: https://www.scoop.co.nz/stories/BU0806/S00314/fieldays-ripple-effect-matters.htm
+title: Fieldays ripple effect matters
+date: 2008-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0806/S00314/fieldays-ripple-effect-matters.htm
 author: university-of-waikato
+permalink: /archive/2008/06/18/fieldays-ripple-effect-matters/index.html
+layout: layout.njk
 ---
 Fieldays ripple effect matters
 ==============================

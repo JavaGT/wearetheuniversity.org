@@ -1,9 +1,12 @@
 ---
 slug: one-year-on-sexy-pr-ugly-policies
-title: "One Year On – Sexy PR, Ugly Policies"
-date: 2018-10-26
-source-url: https://www.scoop.co.nz/stories/PA1810/S00260/one-year-on-sexy-pr-ugly-policies.htm
+title: One Year On – Sexy PR, Ugly Policies
+date: 2018-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00260/one-year-on-sexy-pr-ugly-policies.htm
 author: act-new-zealand
+permalink: /archive/2018/10/26/one-year-on-sexy-pr-ugly-policies/index.html
+layout: layout.njk
 ---
 One Year On – Sexy PR, Ugly Policies
 ====================================

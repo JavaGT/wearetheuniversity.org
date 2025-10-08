@@ -1,9 +1,12 @@
 ---
 slug: new-nzei-president-starts-work
-title: "New NZEI President Starts Work"
-date: 2006-01-19
-source-url: https://www.scoop.co.nz/stories/ED0601/S00013/new-nzei-president-starts-work.htm
+title: New NZEI President Starts Work
+date: 2006-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00013/new-nzei-president-starts-work.htm
 author: nzei
+permalink: /archive/2006/01/19/new-nzei-president-starts-work/index.html
+layout: layout.njk
 ---
 New NZEI President Starts Work
 ==============================

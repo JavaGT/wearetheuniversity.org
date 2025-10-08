@@ -1,9 +1,12 @@
 ---
 slug: want-more-scientists-cut-fees-say-students
-title: "Want More Scientists? Cut Fees, Say Students"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/ED1405/S00122/want-more-scientists-cut-fees-say-students.htm
+title: Want More Scientists? Cut Fees, Say Students
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00122/want-more-scientists-cut-fees-say-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/05/23/want-more-scientists-cut-fees-say-students/index.html
+layout: layout.njk
 ---
 Want More Scientists? Cut Fees, Say Students
 ============================================

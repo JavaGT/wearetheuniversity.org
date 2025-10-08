@@ -1,9 +1,12 @@
 ---
 slug: sponsors-line-up-to-secure-great-races-future
-title: "Sponsors Line Up To Secure Great Race’s Future"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/ED0309/S00020/sponsors-line-up-to-secure-great-races-future.htm
+title: Sponsors Line Up To Secure Great Race’s Future
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00020/sponsors-line-up-to-secure-great-races-future.htm
 author: waikato-university
+permalink: /archive/2003/09/08/sponsors-line-up-to-secure-great-races-future/index.html
+layout: layout.njk
 ---
 Sponsors Line Up To Secure Great Race’s Future
 ==============================================

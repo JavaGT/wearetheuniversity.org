@@ -1,9 +1,12 @@
 ---
 slug: licensing-fraud-blooms-under-authorities-eyes
-title: "Licensing fraud blooms under authorities' eyes"
-date: 2005-04-06
-source-url: https://www.scoop.co.nz/stories/PA0504/S00117/licensing-fraud-blooms-under-authorities-eyes.htm
+title: Licensing fraud blooms under authorities' eyes
+date: 2005-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00117/licensing-fraud-blooms-under-authorities-eyes.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/06/licensing-fraud-blooms-under-authorities-eyes/index.html
+layout: layout.njk
 ---
 Licensing fraud blooms under authorities' eyes
 ==============================================

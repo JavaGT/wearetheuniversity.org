@@ -1,9 +1,12 @@
 ---
 slug: celebrating-families-23-august-2004
-title: "Celebrating Families 23 August 2004"
-date: 2004-08-23
-source-url: https://www.scoop.co.nz/stories/PA0408/S00385/celebrating-families-23-august-2004.htm
+title: Celebrating Families 23 August 2004
+date: 2004-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00385/celebrating-families-23-august-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/23/celebrating-families-23-august-2004/index.html
+layout: layout.njk
 ---
 Celebrating Families 23 August 2004
 ===================================

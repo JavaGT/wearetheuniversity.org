@@ -1,9 +1,13 @@
 ---
 slug: sir-edmund-lends-name-to-waikato-uni-scholarships
-title: "Sir Edmund Lends Name To Waikato Uni Scholarships"
-date: 2004-11-23
-source-url: https://www.scoop.co.nz/stories/ED0411/S00072/sir-edmund-lends-name-to-waikato-uni-scholarships.htm
+title: Sir Edmund Lends Name To Waikato Uni Scholarships
+date: 2004-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00072/sir-edmund-lends-name-to-waikato-uni-scholarships.htm
 author: waikato-university
+permalink: >-
+  /archive/2004/11/23/sir-edmund-lends-name-to-waikato-uni-scholarships/index.html
+layout: layout.njk
 ---
 Sir Edmund Lends Name To Waikato Uni Scholarships
 =================================================

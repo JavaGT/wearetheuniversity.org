@@ -1,9 +1,12 @@
 ---
 slug: new-china-opportunities-says-shipley
-title: "New China opportunities, says Shipley"
-date: 2006-11-22
-source-url: https://www.scoop.co.nz/stories/ED0611/S00085/new-china-opportunities-says-shipley.htm
+title: New China opportunities, says Shipley
+date: 2006-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00085/new-china-opportunities-says-shipley.htm
 author: aut-university
+permalink: /archive/2006/11/22/new-china-opportunities-says-shipley/index.html
+layout: layout.njk
 ---
 New China opportunities, says Shipley
 =====================================

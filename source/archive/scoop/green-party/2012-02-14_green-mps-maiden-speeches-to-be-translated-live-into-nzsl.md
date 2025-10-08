@@ -1,9 +1,13 @@
 ---
 slug: green-mps-maiden-speeches-to-be-translated-live-into-nzsl
-title: "Green MPs’ maiden speeches to be translated live into NZSL"
-date: 2012-02-14
-source-url: https://www.scoop.co.nz/stories/PA1202/S00144/green-mps-maiden-speeches-to-be-translated-live-into-nzsl.htm
+title: Green MPs’ maiden speeches to be translated live into NZSL
+date: 2012-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00144/green-mps-maiden-speeches-to-be-translated-live-into-nzsl.htm
 author: green-party
+permalink: >-
+  /archive/2012/02/14/green-mps-maiden-speeches-to-be-translated-live-into-nzsl/index.html
+layout: layout.njk
 ---
 Green MPs’ maiden speeches to be translated live into NZSL
 ==========================================================

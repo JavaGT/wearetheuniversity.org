@@ -1,9 +1,13 @@
 ---
 slug: high-unmet-need-for-dental-care-among-syrian-refugees
-title: "High unmet need for dental care among Syrian refugees"
-date: 2018-09-30
-source-url: https://www.scoop.co.nz/stories/GE1809/S00094/high-unmet-need-for-dental-care-among-syrian-refugees.htm
+title: High unmet need for dental care among Syrian refugees
+date: 2018-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00094/high-unmet-need-for-dental-care-among-syrian-refugees.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/30/high-unmet-need-for-dental-care-among-syrian-refugees/index.html
+layout: layout.njk
 ---
 High unmet need for dental care among Syrian refugees
 =====================================================

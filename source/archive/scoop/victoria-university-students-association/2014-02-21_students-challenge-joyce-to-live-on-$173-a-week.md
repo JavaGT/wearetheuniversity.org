@@ -1,9 +1,12 @@
 ---
 slug: students-challenge-joyce-to-live-on-$173-a-week
-title: "Students Challenge Joyce to live on $173 a week"
-date: 2014-02-21
-source-url: https://www.scoop.co.nz/stories/ED1402/S00092/students-challenge-joyce-to-live-on-173-a-week.htm
+title: Students Challenge Joyce to live on $173 a week
+date: 2014-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00092/students-challenge-joyce-to-live-on-173-a-week.htm
 author: victoria-university-students-association
+permalink: /archive/2014/02/21/students-challenge-joyce-to-live-on-/index.html
+layout: layout.njk
 ---
 Students Challenge Joyce to live on $173 a week
 ===============================================

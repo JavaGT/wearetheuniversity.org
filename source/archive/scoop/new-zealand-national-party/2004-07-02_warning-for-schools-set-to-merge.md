@@ -1,9 +1,12 @@
 ---
 slug: warning-for-schools-set-to-merge
-title: "Warning for schools set to merge"
-date: 2004-07-02
-source-url: https://www.scoop.co.nz/stories/ED0407/S00009/warning-for-schools-set-to-merge.htm
+title: Warning for schools set to merge
+date: 2004-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00009/warning-for-schools-set-to-merge.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/02/warning-for-schools-set-to-merge/index.html
+layout: layout.njk
 ---
 Warning for schools set to merge
 ================================

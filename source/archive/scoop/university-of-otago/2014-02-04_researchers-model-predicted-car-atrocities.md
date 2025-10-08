@@ -1,9 +1,12 @@
 ---
 slug: researchers-model-predicted-car-atrocities
-title: "Researchers’ model predicted CAR atrocities"
-date: 2014-02-04
-source-url: https://www.scoop.co.nz/stories/WO1402/S00044/researchers-model-predicted-car-atrocities.htm
+title: Researchers’ model predicted CAR atrocities
+date: 2014-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1402/S00044/researchers-model-predicted-car-atrocities.htm
 author: university-of-otago
+permalink: /archive/2014/02/04/researchers-model-predicted-car-atrocities/index.html
+layout: layout.njk
 ---
 Researchers’ model predicted CAR atrocities
 ===========================================

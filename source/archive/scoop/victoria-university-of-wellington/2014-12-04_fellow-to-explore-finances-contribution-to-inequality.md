@@ -1,9 +1,13 @@
 ---
 slug: fellow-to-explore-finances-contribution-to-inequality
-title: "Fellow to explore finance’s contribution to inequality"
-date: 2014-12-04
-source-url: https://www.scoop.co.nz/stories/ED1412/S00027/fellow-to-explore-finances-contribution-to-inequality.htm
+title: Fellow to explore finance’s contribution to inequality
+date: 2014-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00027/fellow-to-explore-finances-contribution-to-inequality.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/04/fellow-to-explore-finances-contribution-to-inequality/index.html
+layout: layout.njk
 ---
 Fellow to explore finance’s contribution to inequality
 ======================================================

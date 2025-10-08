@@ -1,9 +1,12 @@
 ---
 slug: how-communities-recover-from-disasters
-title: "How communities recover from disasters"
-date: 2008-02-14
-source-url: https://www.scoop.co.nz/stories/ED0802/S00031/how-communities-recover-from-disasters.htm
+title: How communities recover from disasters
+date: 2008-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00031/how-communities-recover-from-disasters.htm
 author: massey-university
+permalink: /archive/2008/02/14/how-communities-recover-from-disasters/index.html
+layout: layout.njk
 ---
 How communities recover from disasters
 ======================================

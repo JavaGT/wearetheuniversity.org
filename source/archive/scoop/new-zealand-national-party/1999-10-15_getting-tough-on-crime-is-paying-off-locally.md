@@ -1,9 +1,12 @@
 ---
 slug: getting-tough-on-crime-is-paying-off-locally
-title: "Getting tough on crime is paying off locally"
-date: 1999-10-15
-source-url: https://www.scoop.co.nz/stories/PA9910/S00338/getting-tough-on-crime-is-paying-off-locally.htm
+title: Getting tough on crime is paying off locally
+date: 1999-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00338/getting-tough-on-crime-is-paying-off-locally.htm
 author: new-zealand-national-party
+permalink: /archive/1999/10/15/getting-tough-on-crime-is-paying-off-locally/index.html
+layout: layout.njk
 ---
 Getting tough on crime is paying off locally
 ============================================

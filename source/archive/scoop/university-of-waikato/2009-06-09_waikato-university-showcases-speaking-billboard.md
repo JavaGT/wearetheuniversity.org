@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-showcases-speaking-billboard
-title: "Waikato University showcases ‘speaking billboard’"
-date: 2009-06-09
-source-url: https://www.scoop.co.nz/stories/BU0906/S00205/waikato-university-showcases-speaking-billboard.htm
+title: Waikato University showcases ‘speaking billboard’
+date: 2009-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00205/waikato-university-showcases-speaking-billboard.htm
 author: university-of-waikato
+permalink: /archive/2009/06/09/waikato-university-showcases-speaking-billboard/index.html
+layout: layout.njk
 ---
 Waikato University showcases ‘speaking billboard’
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: markets-slow-but-first-home-buyers-still-hurting
-title: "Markets slow but first home buyers still hurting"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/PA1408/S00212/markets-slow-but-first-home-buyers-still-hurting.htm
+title: Markets slow but first home buyers still hurting
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00212/markets-slow-but-first-home-buyers-still-hurting.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/13/markets-slow-but-first-home-buyers-still-hurting/index.html
+layout: layout.njk
 ---
 Markets slow but first home buyers still hurting
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: leading-nz-olympic-academic-honoured-by-olympic-committee
-title: "Leading NZ Olympic academic honoured by Olympic Committee"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/ED1403/S00070/leading-nz-olympic-academic-honoured-by-olympic-committee.htm
+title: Leading NZ Olympic academic honoured by Olympic Committee
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00070/leading-nz-olympic-academic-honoured-by-olympic-committee.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/13/leading-nz-olympic-academic-honoured-by-olympic-committee/index.html
+layout: layout.njk
 ---
 Leading NZ Olympic academic honoured by Olympic Committee
 =========================================================

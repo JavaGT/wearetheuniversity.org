@@ -1,9 +1,13 @@
 ---
 slug: ruataniwha-dam-has-already-cost-ratepayers-too-much
-title: "Ruataniwha dam has already cost ratepayers too much"
-date: 2015-06-26
-source-url: https://www.scoop.co.nz/stories/PA1506/S00484/ruataniwha-dam-has-already-cost-ratepayers-too-much.htm
+title: Ruataniwha dam has already cost ratepayers too much
+date: 2015-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00484/ruataniwha-dam-has-already-cost-ratepayers-too-much.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/26/ruataniwha-dam-has-already-cost-ratepayers-too-much/index.html
+layout: layout.njk
 ---
 Ruataniwha dam has already cost ratepayers too much
 ===================================================

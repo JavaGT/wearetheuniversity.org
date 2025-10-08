@@ -1,9 +1,12 @@
 ---
 slug: unions-do-have-evidence-over-90-day-trial
-title: "Unions do have evidence over 90 Day trial"
-date: 2010-07-19
-source-url: https://www.scoop.co.nz/stories/PO1007/S00206/unions-do-have-evidence-over-90-day-trial.htm
+title: Unions do have evidence over 90 Day trial
+date: 2010-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1007/S00206/unions-do-have-evidence-over-90-day-trial.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/07/19/unions-do-have-evidence-over-90-day-trial/index.html
+layout: layout.njk
 ---
 Unions do have evidence over 90 Day trial
 =========================================

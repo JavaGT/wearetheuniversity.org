@@ -1,9 +1,11 @@
 ---
 slug: quakebox-take-2
-title: "QuakeBox Take 2"
-date: 2019-11-13
+title: QuakeBox Take 2
+date: 2019-11-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1911/S00289/quakebox-take-2.htm
 author: university-of-canterbury
+permalink: /archive/2019/11/13/quakebox-take-2/index.html
+layout: layout.njk
 ---
 QuakeBox Take 2
 ===============

@@ -1,9 +1,12 @@
 ---
 slug: who-is-going-to-benefit-from-gdp-growth
-title: "Who is going to benefit from GDP growth?"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/PO1403/S00253/who-is-going-to-benefit-from-gdp-growth.htm
+title: Who is going to benefit from GDP growth?
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00253/who-is-going-to-benefit-from-gdp-growth.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/03/20/who-is-going-to-benefit-from-gdp-growth/index.html
+layout: layout.njk
 ---
 Who is going to benefit from GDP growth?
 ========================================

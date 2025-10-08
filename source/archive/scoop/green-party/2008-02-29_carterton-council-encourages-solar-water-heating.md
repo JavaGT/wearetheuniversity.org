@@ -1,9 +1,13 @@
 ---
 slug: carterton-council-encourages-solar-water-heating
-title: "Carterton council encourages solar water heating"
-date: 2008-02-29
-source-url: https://www.scoop.co.nz/stories/PA0802/S00497/carterton-council-encourages-solar-water-heating.htm
+title: Carterton council encourages solar water heating
+date: 2008-02-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00497/carterton-council-encourages-solar-water-heating.htm
 author: green-party
+permalink: >-
+  /archive/2008/02/29/carterton-council-encourages-solar-water-heating/index.html
+layout: layout.njk
 ---
 Carterton council encourages solar water heating
 ================================================

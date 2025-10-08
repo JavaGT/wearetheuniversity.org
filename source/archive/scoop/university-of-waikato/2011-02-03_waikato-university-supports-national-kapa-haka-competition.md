@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-supports-national-kapa-haka-competition
-title: "Waikato University supports national kapa haka competition"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/CU1102/S00037/waikato-university-supports-national-kapa-haka-competition.htm
+title: Waikato University supports national kapa haka competition
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1102/S00037/waikato-university-supports-national-kapa-haka-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/02/03/waikato-university-supports-national-kapa-haka-competition/index.html
+layout: layout.njk
 ---
 Waikato University supports national kapa haka competition
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: how-childhood-family-income-affects-adulthood
-title: "How childhood family income affects adulthood"
-date: 2012-04-24
-source-url: https://www.scoop.co.nz/stories/ED1204/S00091/how-childhood-family-income-affects-adulthood.htm
+title: How childhood family income affects adulthood
+date: 2012-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00091/how-childhood-family-income-affects-adulthood.htm
 author: university-of-otago
+permalink: /archive/2012/04/24/how-childhood-family-income-affects-adulthood/index.html
+layout: layout.njk
 ---
 How childhood family income affects adulthood
 =============================================

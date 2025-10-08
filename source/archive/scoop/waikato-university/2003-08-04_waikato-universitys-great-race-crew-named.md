@@ -1,9 +1,12 @@
 ---
 slug: waikato-universitys-great-race-crew-named
-title: "Waikato University’s ‘Great Race’ Crew Named"
-date: 2003-08-04
-source-url: https://www.scoop.co.nz/stories/ED0308/S00016/waikato-universitys-great-race-crew-named.htm
+title: Waikato University’s ‘Great Race’ Crew Named
+date: 2003-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00016/waikato-universitys-great-race-crew-named.htm
 author: waikato-university
+permalink: /archive/2003/08/04/waikato-universitys-great-race-crew-named/index.html
+layout: layout.njk
 ---
 Waikato University’s ‘Great Race’ Crew Named
 ============================================

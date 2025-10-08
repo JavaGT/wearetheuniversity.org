@@ -1,9 +1,12 @@
 ---
 slug: tasmania-the-latest-to-progress-human-rights
-title: "Tasmania The Latest To Progress Human Rights"
-date: 2021-03-24
-source-url: https://www.scoop.co.nz/stories/PA2103/S00184/tasmania-the-latest-to-progress-human-rights.htm
+title: Tasmania The Latest To Progress Human Rights
+date: 2021-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00184/tasmania-the-latest-to-progress-human-rights.htm
 author: act-new-zealand
+permalink: /archive/2021/03/24/tasmania-the-latest-to-progress-human-rights/index.html
+layout: layout.njk
 ---
 Tasmania The Latest To Progress Human Rights
 ============================================

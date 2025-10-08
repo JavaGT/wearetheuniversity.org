@@ -1,9 +1,12 @@
 ---
 slug: cigarette-marketing-must-be-stubbed-out
-title: "Cigarette marketing must be stubbed out"
-date: 2006-11-22
-source-url: https://www.scoop.co.nz/stories/PA0611/S00415/cigarette-marketing-must-be-stubbed-out.htm
+title: Cigarette marketing must be stubbed out
+date: 2006-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00415/cigarette-marketing-must-be-stubbed-out.htm
 author: green-party
+permalink: /archive/2006/11/22/cigarette-marketing-must-be-stubbed-out/index.html
+layout: layout.njk
 ---
 Cigarette marketing must be stubbed out
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: record-immigration-stretching-hospitals-schools-housing
-title: "Record Immigration Stretching Hospitals, Schools, Housing"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/PA1511/S00046/record-immigration-stretching-hospitals-schools-housing.htm
+title: Record Immigration Stretching Hospitals, Schools, Housing
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00046/record-immigration-stretching-hospitals-schools-housing.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/03/record-immigration-stretching-hospitals-schools-housing/index.html
+layout: layout.njk
 ---
 Record Immigration Stretching Hospitals, Schools, Housing
 =========================================================

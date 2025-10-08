@@ -1,9 +1,13 @@
 ---
 slug: appt-of-jane-huria-as-deputy-chair-of-electoral-commission
-title: "Appt of Jane Huria as Deputy Chair of Electoral Commission"
-date: 2011-06-23
-source-url: https://www.scoop.co.nz/stories/PA1106/S00426/appt-of-jane-huria-as-deputy-chair-of-electoral-commission.htm
+title: Appt of Jane Huria as Deputy Chair of Electoral Commission
+date: 2011-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00426/appt-of-jane-huria-as-deputy-chair-of-electoral-commission.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/06/23/appt-of-jane-huria-as-deputy-chair-of-electoral-commission/index.html
+layout: layout.njk
 ---
 Appt of Jane Huria as Deputy Chair of Electoral Commission
 ==========================================================

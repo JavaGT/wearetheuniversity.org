@@ -1,9 +1,13 @@
 ---
 slug: climate-change-throws-tree-seeding-out-of-sync-new-study
-title: "Climate Change Throws Tree Seeding Out Of Sync – New Study"
-date: 2020-02-11
-source-url: https://www.scoop.co.nz/stories/SC2002/S00021/climate-change-throws-tree-seeding-out-of-sync-new-study.htm
+title: Climate Change Throws Tree Seeding Out Of Sync – New Study
+date: 2020-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2002/S00021/climate-change-throws-tree-seeding-out-of-sync-new-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/02/11/climate-change-throws-tree-seeding-out-of-sync-new-study/index.html
+layout: layout.njk
 ---
 Climate Change Throws Tree Seeding Out Of Sync – New Study
 ==========================================================

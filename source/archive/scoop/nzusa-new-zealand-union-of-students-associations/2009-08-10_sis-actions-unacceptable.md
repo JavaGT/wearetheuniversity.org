@@ -1,9 +1,11 @@
 ---
 slug: sis-actions-unacceptable
-title: "SIS Actions Unacceptable"
-date: 2009-08-10
+title: SIS Actions Unacceptable
+date: 2009-08-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0908/S00030/sis-actions-unacceptable.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/08/10/sis-actions-unacceptable/index.html
+layout: layout.njk
 ---
 SIS Actions Unacceptable
 ========================

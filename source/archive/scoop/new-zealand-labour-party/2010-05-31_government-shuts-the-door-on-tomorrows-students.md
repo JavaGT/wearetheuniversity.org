@@ -1,9 +1,12 @@
 ---
 slug: government-shuts-the-door-on-tomorrows-students
-title: "Government shuts the door on tomorrow’s students"
-date: 2010-05-31
-source-url: https://www.scoop.co.nz/stories/PA1005/S00525/government-shuts-the-door-on-tomorrows-students.htm
+title: Government shuts the door on tomorrow’s students
+date: 2010-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00525/government-shuts-the-door-on-tomorrows-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/31/government-shuts-the-door-on-tomorrows-students/index.html
+layout: layout.njk
 ---
 Government shuts the door on tomorrow’s students
 ================================================

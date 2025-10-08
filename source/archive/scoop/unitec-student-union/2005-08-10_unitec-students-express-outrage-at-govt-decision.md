@@ -1,9 +1,13 @@
 ---
 slug: unitec-students-express-outrage-at-govt-decision
-title: "Unitec students express outrage at Govt decision"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/ED0508/S00053/unitec-students-express-outrage-at-govt-decision.htm
+title: Unitec students express outrage at Govt decision
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00053/unitec-students-express-outrage-at-govt-decision.htm
 author: unitec-student-union
+permalink: >-
+  /archive/2005/08/10/unitec-students-express-outrage-at-govt-decision/index.html
+layout: layout.njk
 ---
 Unitec students express outrage at Govt decision
 ================================================

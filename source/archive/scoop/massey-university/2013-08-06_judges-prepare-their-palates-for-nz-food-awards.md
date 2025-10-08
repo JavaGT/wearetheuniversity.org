@@ -1,9 +1,12 @@
 ---
 slug: judges-prepare-their-palates-for-nz-food-awards
-title: "Judges prepare their palates for NZ Food Awards"
-date: 2013-08-06
-source-url: https://www.scoop.co.nz/stories/CU1308/S00091/judges-prepare-their-palates-for-nz-food-awards.htm
+title: Judges prepare their palates for NZ Food Awards
+date: 2013-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1308/S00091/judges-prepare-their-palates-for-nz-food-awards.htm
 author: massey-university
+permalink: /archive/2013/08/06/judges-prepare-their-palates-for-nz-food-awards/index.html
+layout: layout.njk
 ---
 Judges prepare their palates for NZ Food Awards
 ===============================================

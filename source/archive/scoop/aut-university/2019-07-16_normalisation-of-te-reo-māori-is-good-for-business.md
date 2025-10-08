@@ -1,9 +1,12 @@
 ---
 slug: normalisation-of-te-reo-māori-is-good-for-business
-title: "Normalisation of Te Reo Māori is Good for Business"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/BU1907/S00403/normalisation-of-te-reo-maori-is-good-for-business.htm
+title: Normalisation of Te Reo Māori is Good for Business
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1907/S00403/normalisation-of-te-reo-maori-is-good-for-business.htm
 author: aut-university
+permalink: /archive/2019/07/16/normalisation-of-te-reo-m/index.html
+layout: layout.njk
 ---
 Normalisation of Te Reo Māori is Good for Business
 ==================================================

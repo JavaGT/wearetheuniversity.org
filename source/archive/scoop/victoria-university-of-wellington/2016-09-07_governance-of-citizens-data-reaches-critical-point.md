@@ -1,9 +1,13 @@
 ---
 slug: governance-of-citizens-data-reaches-critical-point
-title: "Governance of citizens’ data reaches \"critical point\""
-date: 2016-09-07
-source-url: https://www.scoop.co.nz/stories/ED1609/S00041/governance-of-citizens-data-reaches-critical-point.htm
+title: Governance of citizens’ data reaches "critical point"
+date: 2016-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00041/governance-of-citizens-data-reaches-critical-point.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/09/07/governance-of-citizens-data-reaches-critical-point/index.html
+layout: layout.njk
 ---
 Governance of citizens’ data reaches “critical point”
 =====================================================

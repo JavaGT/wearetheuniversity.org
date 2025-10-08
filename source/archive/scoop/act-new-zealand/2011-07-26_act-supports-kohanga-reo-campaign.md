@@ -1,9 +1,12 @@
 ---
 slug: act-supports-kohanga-reo-campaign
-title: "ACT Supports Kohanga Reo Campaign"
-date: 2011-07-26
-source-url: https://www.scoop.co.nz/stories/PA1107/S00416/act-supports-kohanga-reo-campaign.htm
+title: ACT Supports Kohanga Reo Campaign
+date: 2011-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00416/act-supports-kohanga-reo-campaign.htm
 author: act-new-zealand
+permalink: /archive/2011/07/26/act-supports-kohanga-reo-campaign/index.html
+layout: layout.njk
 ---
 ACT Supports Kohanga Reo Campaign
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: union-acknowledges-death-of-monte-ohia
-title: "Union acknowledges death of Monte Ohia"
-date: 2008-06-16
-source-url: https://www.scoop.co.nz/stories/ED0806/S00045/union-acknowledges-death-of-monte-ohia.htm
+title: Union acknowledges death of Monte Ohia
+date: 2008-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00045/union-acknowledges-death-of-monte-ohia.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2008/06/16/union-acknowledges-death-of-monte-ohia/index.html
+layout: layout.njk
 ---
 Union acknowledges death of Monte Ohia
 ======================================

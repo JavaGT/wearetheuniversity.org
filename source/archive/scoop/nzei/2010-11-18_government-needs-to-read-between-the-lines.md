@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-read-between-the-lines
-title: "Government Needs To Read Between The Lines"
-date: 2010-11-18
-source-url: https://www.scoop.co.nz/stories/ED1011/S00074/government-needs-to-read-between-the-lines.htm
+title: Government Needs To Read Between The Lines
+date: 2010-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00074/government-needs-to-read-between-the-lines.htm
 author: nzei
+permalink: /archive/2010/11/18/government-needs-to-read-between-the-lines/index.html
+layout: layout.njk
 ---
 Government Needs To Read Between The Lines
 ==========================================

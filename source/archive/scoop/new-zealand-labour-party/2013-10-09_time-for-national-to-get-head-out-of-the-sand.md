@@ -1,9 +1,12 @@
 ---
 slug: time-for-national-to-get-head-out-of-the-sand
-title: "Time for National to get head out of the sand"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/PA1310/S00146/time-for-national-to-get-head-out-of-the-sand.htm
+title: Time for National to get head out of the sand
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00146/time-for-national-to-get-head-out-of-the-sand.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/09/time-for-national-to-get-head-out-of-the-sand/index.html
+layout: layout.njk
 ---
 Time for National to get head out of the sand
 =============================================

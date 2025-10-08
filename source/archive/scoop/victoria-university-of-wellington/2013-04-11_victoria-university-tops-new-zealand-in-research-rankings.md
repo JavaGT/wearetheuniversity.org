@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-tops-new-zealand-in-research-rankings
-title: "Victoria University tops New Zealand in research rankings"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00059/victoria-university-tops-new-zealand-in-research-rankings.htm
+title: Victoria University tops New Zealand in research rankings
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00059/victoria-university-tops-new-zealand-in-research-rankings.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/11/victoria-university-tops-new-zealand-in-research-rankings/index.html
+layout: layout.njk
 ---
 Victoria University tops New Zealand in research rankings
 =========================================================

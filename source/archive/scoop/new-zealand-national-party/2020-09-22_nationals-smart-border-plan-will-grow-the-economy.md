@@ -1,9 +1,13 @@
 ---
 slug: nationals-smart-border-plan-will-grow-the-economy
-title: "National’s Smart Border Plan Will Grow The Economy"
-date: 2020-09-22
-source-url: https://www.scoop.co.nz/stories/PA2009/S00181/nationals-smart-border-plan-will-grow-the-economy.htm
+title: National’s Smart Border Plan Will Grow The Economy
+date: 2020-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00181/nationals-smart-border-plan-will-grow-the-economy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/09/22/nationals-smart-border-plan-will-grow-the-economy/index.html
+layout: layout.njk
 ---
 National’s Smart Border Plan Will Grow The Economy
 ==================================================

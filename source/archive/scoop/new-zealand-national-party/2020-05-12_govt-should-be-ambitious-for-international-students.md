@@ -1,9 +1,13 @@
 ---
 slug: govt-should-be-ambitious-for-international-students
-title: "Govt Should Be Ambitious For International Students"
-date: 2020-05-12
-source-url: https://www.scoop.co.nz/stories/PA2005/S00093/govt-should-be-ambitious-for-international-students.htm
+title: Govt Should Be Ambitious For International Students
+date: 2020-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00093/govt-should-be-ambitious-for-international-students.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/05/12/govt-should-be-ambitious-for-international-students/index.html
+layout: layout.njk
 ---
 Govt Should Be Ambitious For International Students
 ===================================================

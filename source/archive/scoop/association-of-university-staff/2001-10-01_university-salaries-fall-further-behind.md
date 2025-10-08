@@ -1,9 +1,12 @@
 ---
 slug: university-salaries-fall-further-behind
-title: "University salaries fall further behind"
-date: 2001-10-01
-source-url: https://www.scoop.co.nz/stories/ED0110/S00002/university-salaries-fall-further-behind.htm
+title: University salaries fall further behind
+date: 2001-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00002/university-salaries-fall-further-behind.htm
 author: association-of-university-staff
+permalink: /archive/2001/10/01/university-salaries-fall-further-behind/index.html
+layout: layout.njk
 ---
 University salaries fall further behind
 =======================================

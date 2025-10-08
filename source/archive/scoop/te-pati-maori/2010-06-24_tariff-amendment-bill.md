@@ -1,9 +1,11 @@
 ---
 slug: tariff-amendment-bill
-title: "Tariff Amendment Bill"
-date: 2010-06-24
+title: Tariff Amendment Bill
+date: 2010-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1006/S00378/tariff-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/06/24/tariff-amendment-bill/index.html
+layout: layout.njk
 ---
 Tariff Amendment Bill
 =====================

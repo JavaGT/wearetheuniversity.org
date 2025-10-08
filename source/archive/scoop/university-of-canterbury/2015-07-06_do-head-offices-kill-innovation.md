@@ -1,9 +1,12 @@
 ---
 slug: do-head-offices-kill-innovation
-title: "Do head offices kill innovation?"
-date: 2015-07-06
-source-url: https://www.scoop.co.nz/stories/ED1507/S00037/do-head-offices-kill-innovation.htm
+title: Do head offices kill innovation?
+date: 2015-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00037/do-head-offices-kill-innovation.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/06/do-head-offices-kill-innovation/index.html
+layout: layout.njk
 ---
 Do head offices kill innovation?
 ================================

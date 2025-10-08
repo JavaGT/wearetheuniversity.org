@@ -1,8 +1,11 @@
 ---
 slug: slow-progress-on-stillbirth-prevention
-title: "Slow progress on stillbirth prevention"
-date: 2016-01-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/slow-progress-on-stillbirth-prevention-.html
+title: Slow progress on stillbirth prevention
+date: 2016-01-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/slow-progress-on-stillbirth-prevention-.html
+permalink: /archive/2016/01/19/slow-progress-on-stillbirth-prevention/index.html
+layout: layout.njk
 ---
 Slow progress on stillbirth prevention
 ======================================

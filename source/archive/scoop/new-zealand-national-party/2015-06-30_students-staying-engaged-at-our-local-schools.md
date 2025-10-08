@@ -1,9 +1,12 @@
 ---
 slug: students-staying-engaged-at-our-local-schools
-title: "Students staying engaged at our local schools"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/PA1506/S00546/students-staying-engaged-at-our-local-schools.htm
+title: Students staying engaged at our local schools
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00546/students-staying-engaged-at-our-local-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2015/06/30/students-staying-engaged-at-our-local-schools/index.html
+layout: layout.njk
 ---
 Students staying engaged at our local schools
 =============================================

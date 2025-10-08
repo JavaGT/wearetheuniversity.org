@@ -1,9 +1,12 @@
 ---
 slug: katene-justice-wilson-urgent-debate
-title: "Katene: Justice Wilson – Urgent Debate"
-date: 2010-11-09
-source-url: https://www.scoop.co.nz/stories/PA1011/S00162/katene-justice-wilson-urgent-debate.htm
+title: 'Katene: Justice Wilson – Urgent Debate'
+date: 2010-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00162/katene-justice-wilson-urgent-debate.htm
 author: te-pati-maori
+permalink: /archive/2010/11/09/katene-justice-wilson-urgent-debate/index.html
+layout: layout.njk
 ---
 Katene: Justice Wilson – Urgent Debate
 ======================================

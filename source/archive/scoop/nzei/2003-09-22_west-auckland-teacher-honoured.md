@@ -1,9 +1,12 @@
 ---
 slug: west-auckland-teacher-honoured
-title: "West Auckland Teacher Honoured"
-date: 2003-09-22
-source-url: https://www.scoop.co.nz/stories/ED0309/S00092/west-auckland-teacher-honoured.htm
+title: West Auckland Teacher Honoured
+date: 2003-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00092/west-auckland-teacher-honoured.htm
 author: nzei
+permalink: /archive/2003/09/22/west-auckland-teacher-honoured/index.html
+layout: layout.njk
 ---
 West Auckland Teacher Honoured
 ==============================

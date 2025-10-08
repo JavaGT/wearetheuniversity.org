@@ -1,9 +1,12 @@
 ---
 slug: benefit-rise-costs-workers-$300-million-more
-title: "Benefit Rise Costs Workers $300 Million More"
-date: 2003-03-19
-source-url: https://www.scoop.co.nz/stories/PA0303/S00353/benefit-rise-costs-workers-300-million-more.htm
+title: Benefit Rise Costs Workers $300 Million More
+date: 2003-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00353/benefit-rise-costs-workers-300-million-more.htm
 author: act-new-zealand
+permalink: /archive/2003/03/19/benefit-rise-costs-workers-/index.html
+layout: layout.njk
 ---
 Benefit Rise Costs Workers $300 Million More
 ============================================

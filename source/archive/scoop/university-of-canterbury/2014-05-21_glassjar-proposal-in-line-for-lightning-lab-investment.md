@@ -1,9 +1,13 @@
 ---
 slug: glassjar-proposal-in-line-for-lightning-lab-investment
-title: "Glassjar proposal in line for Lightning Lab investment"
-date: 2014-05-21
-source-url: https://www.scoop.co.nz/stories/ED1405/S00102/glassjar-proposal-in-line-for-lightning-lab-investment.htm
+title: Glassjar proposal in line for Lightning Lab investment
+date: 2014-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00102/glassjar-proposal-in-line-for-lightning-lab-investment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/21/glassjar-proposal-in-line-for-lightning-lab-investment/index.html
+layout: layout.njk
 ---
 Glassjar proposal in line for Lightning Lab investment
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: refugee-expert-warns-nz-against-immigration-law-change
-title: "Refugee expert warns NZ against immigration law change"
-date: 2012-06-28
-source-url: https://www.scoop.co.nz/stories/PO1206/S00381/refugee-expert-warns-nz-against-immigration-law-change.htm
+title: Refugee expert warns NZ against immigration law change
+date: 2012-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00381/refugee-expert-warns-nz-against-immigration-law-change.htm
 author: aut-university
+permalink: >-
+  /archive/2012/06/28/refugee-expert-warns-nz-against-immigration-law-change/index.html
+layout: layout.njk
 ---
 Refugee expert warns NZ against immigration law change
 ======================================================

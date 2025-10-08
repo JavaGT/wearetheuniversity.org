@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-candidates-list-2005-election
-title: "New Zealand First Candidates List – 2005 Election"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00573/new-zealand-first-candidates-list-2005-election.htm
+title: New Zealand First Candidates List – 2005 Election
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00573/new-zealand-first-candidates-list-2005-election.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/23/new-zealand-first-candidates-list-2005-election/index.html
+layout: layout.njk
 ---
 New Zealand First Candidates List – 2005 Election
 =================================================

@@ -1,8 +1,12 @@
 ---
 slug: soft-drinks-have-devastating-impact-on-public-health
-title: "Soft drinks have devastating impact on public health"
-date: 2016-01-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/soft-drinks-have-devastating-impact-on-public-health.html
+title: Soft drinks have devastating impact on public health
+date: 2016-01-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/01/soft-drinks-have-devastating-impact-on-public-health.html
+permalink: >-
+  /archive/2016/01/14/soft-drinks-have-devastating-impact-on-public-health/index.html
+layout: layout.njk
 ---
 Soft drinks have devastating impact on public health
 ====================================================

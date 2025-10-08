@@ -1,9 +1,12 @@
 ---
 slug: 55km-cable-to-nowhere-serves-one-customer
-title: "55km Cable to Nowhere serves one customer"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/PA1510/S00422/55km-cable-to-nowhere-serves-one-customer.htm
+title: 55km Cable to Nowhere serves one customer
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00422/55km-cable-to-nowhere-serves-one-customer.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/22/55km-cable-to-nowhere-serves-one-customer/index.html
+layout: layout.njk
 ---
 55km Cable to Nowhere serves one customer
 =========================================

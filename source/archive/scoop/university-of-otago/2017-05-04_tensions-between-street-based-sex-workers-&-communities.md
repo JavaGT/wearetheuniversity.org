@@ -1,9 +1,12 @@
 ---
 slug: tensions-between-street-based-sex-workers-&-communities
-title: "Tensions between street-based sex workers & communities"
-date: 2017-05-04
-source-url: https://www.scoop.co.nz/stories/AK1705/S00113/tensions-between-street-based-sex-workers-communities.htm
+title: Tensions between street-based sex workers & communities
+date: 2017-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1705/S00113/tensions-between-street-based-sex-workers-communities.htm
 author: university-of-otago
+permalink: /archive/2017/05/04/tensions-between-street-based-sex-workers-/index.html
+layout: layout.njk
 ---
 Tensions between street-based sex workers & communities
 =======================================================

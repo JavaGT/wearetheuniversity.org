@@ -1,9 +1,13 @@
 ---
 slug: phillipstown-school-a-good-case-for-judicial-review
-title: "Phillipstown School a good case for judicial review"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00161/phillipstown-school-a-good-case-for-judicial-review.htm
+title: Phillipstown School a good case for judicial review
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00161/phillipstown-school-a-good-case-for-judicial-review.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/22/phillipstown-school-a-good-case-for-judicial-review/index.html
+layout: layout.njk
 ---
 Phillipstown School a good case for judicial review
 ===================================================

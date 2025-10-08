@@ -1,9 +1,13 @@
 ---
 slug: care-workers-victims-of-nationals-low-wage-economy
-title: "Care Workers Victims of National’s Low Wage Economy"
-date: 2013-02-20
-source-url: https://www.scoop.co.nz/stories/PA1302/S00303/care-workers-victims-of-nationals-low-wage-economy.htm
+title: Care Workers Victims of National’s Low Wage Economy
+date: 2013-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00303/care-workers-victims-of-nationals-low-wage-economy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/02/20/care-workers-victims-of-nationals-low-wage-economy/index.html
+layout: layout.njk
 ---
 Care Workers Victims of National’s Low Wage Economy
 ===================================================

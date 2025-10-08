@@ -1,9 +1,13 @@
 ---
 slug: near-quadrupling-in-cyf-legal-bills-under-labour
-title: "Near quadrupling in CYF legal bills under Labour"
-date: 2005-05-18
-source-url: https://www.scoop.co.nz/stories/PA0505/S00419/near-quadrupling-in-cyf-legal-bills-under-labour.htm
+title: Near quadrupling in CYF legal bills under Labour
+date: 2005-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00419/near-quadrupling-in-cyf-legal-bills-under-labour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/05/18/near-quadrupling-in-cyf-legal-bills-under-labour/index.html
+layout: layout.njk
 ---
 Near quadrupling in CYF legal bills under Labour
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: app-helps-health-professionals-learn-medical-terms-in-te-reo
-title: "App helps health professionals learn medical terms in Te Reo"
-date: 2017-02-10
-source-url: https://www.scoop.co.nz/stories/GE1702/S00041/app-helps-health-professionals-learn-medical-terms-in-te-reo.htm
+title: App helps health professionals learn medical terms in Te Reo
+date: 2017-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1702/S00041/app-helps-health-professionals-learn-medical-terms-in-te-reo.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/02/10/app-helps-health-professionals-learn-medical-terms-in-te-reo/index.html
+layout: layout.njk
 ---
 App helps health professionals learn medical terms in Te Reo
 ============================================================

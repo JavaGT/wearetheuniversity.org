@@ -1,9 +1,12 @@
 ---
 slug: laws-to-learn-the-hard-health-lesson
-title: "Laws To Learn The Hard Health Lesson"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/PA0711/S00118/laws-to-learn-the-hard-health-lesson.htm
+title: Laws To Learn The Hard Health Lesson
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00118/laws-to-learn-the-hard-health-lesson.htm
 author: act-new-zealand
+permalink: /archive/2007/11/07/laws-to-learn-the-hard-health-lesson/index.html
+layout: layout.njk
 ---
 Laws To Learn The Hard Health Lesson
 ====================================

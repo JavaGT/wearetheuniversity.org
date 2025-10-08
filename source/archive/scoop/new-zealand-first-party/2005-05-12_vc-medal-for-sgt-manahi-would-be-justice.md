@@ -1,9 +1,12 @@
 ---
 slug: vc-medal-for-sgt-manahi-would-be-justice
-title: "VC Medal for Sgt Manahi Would Be Justice"
-date: 2005-05-12
-source-url: https://www.scoop.co.nz/stories/PA0505/S00281/vc-medal-for-sgt-manahi-would-be-justice.htm
+title: VC Medal for Sgt Manahi Would Be Justice
+date: 2005-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00281/vc-medal-for-sgt-manahi-would-be-justice.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/12/vc-medal-for-sgt-manahi-would-be-justice/index.html
+layout: layout.njk
 ---
 VC Medal for Sgt Manahi Would Be Justice
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: more-than-half-of-kiwi-kids-not-at-school-regularly
-title: "More Than Half Of Kiwi Kids Not At School Regularly"
-date: 2022-07-25
-source-url: https://www.scoop.co.nz/stories/PA2207/S00161/more-than-half-of-kiwi-kids-not-at-school-regularly.htm
+title: More Than Half Of Kiwi Kids Not At School Regularly
+date: 2022-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00161/more-than-half-of-kiwi-kids-not-at-school-regularly.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/07/25/more-than-half-of-kiwi-kids-not-at-school-regularly/index.html
+layout: layout.njk
 ---
 More Than Half Of Kiwi Kids Not At School Regularly
 ===================================================

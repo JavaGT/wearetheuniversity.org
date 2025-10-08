@@ -1,9 +1,11 @@
 ---
 slug: let-the-people-free
-title: "Let The People Free"
-date: 2004-03-12
+title: Let The People Free
+date: 2004-03-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0403/S00261/let-the-people-free.htm
 author: act-new-zealand
+permalink: /archive/2004/03/12/let-the-people-free/index.html
+layout: layout.njk
 ---
 Let The People Free
 ===================

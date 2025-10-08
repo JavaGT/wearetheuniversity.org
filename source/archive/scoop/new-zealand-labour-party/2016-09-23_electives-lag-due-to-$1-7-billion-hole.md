@@ -1,9 +1,12 @@
 ---
 slug: electives-lag-due-to-$1-7-billion-hole
-title: "Electives lag due to $1.7 billion hole"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/PA1609/S00430/electives-lag-due-to-17-billion-hole.htm
+title: Electives lag due to $1.7 billion hole
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00430/electives-lag-due-to-17-billion-hole.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/23/electives-lag-due-to-/index.html
+layout: layout.njk
 ---
 Electives lag due to $1.7 billion hole
 ======================================

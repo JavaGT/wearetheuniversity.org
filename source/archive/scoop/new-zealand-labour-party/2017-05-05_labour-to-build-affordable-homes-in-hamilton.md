@@ -1,9 +1,12 @@
 ---
 slug: labour-to-build-affordable-homes-in-hamilton
-title: "Labour to build affordable homes in Hamilton"
-date: 2017-05-05
-source-url: https://www.scoop.co.nz/stories/PA1705/S00122/labour-to-build-affordable-homes-in-hamilton.htm
+title: Labour to build affordable homes in Hamilton
+date: 2017-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00122/labour-to-build-affordable-homes-in-hamilton.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/05/labour-to-build-affordable-homes-in-hamilton/index.html
+layout: layout.njk
 ---
 Labour to build affordable homes in Hamilton
 ============================================

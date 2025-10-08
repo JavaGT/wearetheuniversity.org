@@ -1,9 +1,12 @@
 ---
 slug: unattractive-massey-faces-recruitment-crisis
-title: "Unattractive Massey faces recruitment crisis"
-date: 2018-08-09
-source-url: https://www.scoop.co.nz/stories/PA1808/S00113/unattractive-massey-faces-recruitment-crisis.htm
+title: Unattractive Massey faces recruitment crisis
+date: 2018-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00113/unattractive-massey-faces-recruitment-crisis.htm
 author: act-new-zealand
+permalink: /archive/2018/08/09/unattractive-massey-faces-recruitment-crisis/index.html
+layout: layout.njk
 ---
 Unattractive Massey faces recruitment crisis
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: black-stick-ready-for-london-and-beyond
-title: "Black Stick ready for London and beyond"
-date: 2012-07-19
-source-url: https://www.scoop.co.nz/stories/ED1207/S00081/black-stick-ready-for-london-and-beyond.htm
+title: Black Stick ready for London and beyond
+date: 2012-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00081/black-stick-ready-for-london-and-beyond.htm
 author: massey-university
+permalink: /archive/2012/07/19/black-stick-ready-for-london-and-beyond/index.html
+layout: layout.njk
 ---
 Black Stick ready for London and beyond
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: two-thirds-of-students-fail-ncea-pilot
-title: "Two-thirds Of Students Fail NCEA Pilot"
-date: 2022-07-19
-source-url: https://www.scoop.co.nz/stories/PA2207/S00128/two-thirds-of-students-fail-ncea-pilot.htm
+title: Two-thirds Of Students Fail NCEA Pilot
+date: 2022-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2207/S00128/two-thirds-of-students-fail-ncea-pilot.htm
 author: new-zealand-national-party
+permalink: /archive/2022/07/19/two-thirds-of-students-fail-ncea-pilot/index.html
+layout: layout.njk
 ---
 Two-thirds Of Students Fail NCEA Pilot
 ======================================

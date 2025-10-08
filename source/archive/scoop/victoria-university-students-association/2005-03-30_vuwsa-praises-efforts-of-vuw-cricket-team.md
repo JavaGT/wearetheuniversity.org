@@ -1,9 +1,12 @@
 ---
 slug: vuwsa-praises-efforts-of-vuw-cricket-team
-title: "VUWSA Praises Efforts of VUW Cricket Team"
-date: 2005-03-30
-source-url: https://www.scoop.co.nz/stories/ED0503/S00098/vuwsa-praises-efforts-of-vuw-cricket-team.htm
+title: VUWSA Praises Efforts of VUW Cricket Team
+date: 2005-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00098/vuwsa-praises-efforts-of-vuw-cricket-team.htm
 author: victoria-university-students-association
+permalink: /archive/2005/03/30/vuwsa-praises-efforts-of-vuw-cricket-team/index.html
+layout: layout.njk
 ---
 VUWSA Praises Efforts of VUW Cricket Team
 =========================================

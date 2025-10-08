@@ -1,9 +1,12 @@
 ---
 slug: home-insulation-scheme-a-green-success-story
-title: "Home insulation scheme a green success story"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/PA1211/S00484/home-insulation-scheme-a-green-success-story.htm
+title: Home insulation scheme a green success story
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00484/home-insulation-scheme-a-green-success-story.htm
 author: green-party
+permalink: /archive/2012/11/29/home-insulation-scheme-a-green-success-story/index.html
+layout: layout.njk
 ---
 Home insulation scheme a green success story
 ============================================

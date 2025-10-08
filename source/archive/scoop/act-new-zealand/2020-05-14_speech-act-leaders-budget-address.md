@@ -1,9 +1,12 @@
 ---
 slug: speech-act-leaders-budget-address
-title: "Speech: ACT Leader's Budget Address"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00140/speech-act-leaders-budget-address.htm
+title: 'Speech: ACT Leader''s Budget Address'
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00140/speech-act-leaders-budget-address.htm
 author: act-new-zealand
+permalink: /archive/2020/05/14/speech-act-leaders-budget-address/index.html
+layout: layout.njk
 ---
 Speech: ACT Leader's Budget Address
 ===================================

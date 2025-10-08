@@ -1,9 +1,12 @@
 ---
 slug: come-clean-over-timaru-oil-spill-says-peters
-title: "Come clean Over Timaru Oil Spill Says Peters"
-date: 2012-05-05
-source-url: https://www.scoop.co.nz/stories/PA1205/S00099/come-clean-over-timaru-oil-spill-says-peters.htm
+title: Come clean Over Timaru Oil Spill Says Peters
+date: 2012-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00099/come-clean-over-timaru-oil-spill-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/05/come-clean-over-timaru-oil-spill-says-peters/index.html
+layout: layout.njk
 ---
 Come clean Over Timaru Oil Spill Says Peters
 ============================================

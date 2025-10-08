@@ -1,9 +1,12 @@
 ---
 slug: clark-abdicates-responsibility-for-maori-policy
-title: "Clark abdicates responsibility for Maori policy"
-date: 2004-03-10
-source-url: https://www.scoop.co.nz/stories/PA0403/S00221/clark-abdicates-responsibility-for-maori-policy.htm
+title: Clark abdicates responsibility for Maori policy
+date: 2004-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00221/clark-abdicates-responsibility-for-maori-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/10/clark-abdicates-responsibility-for-maori-policy/index.html
+layout: layout.njk
 ---
 Clark abdicates responsibility for Maori policy
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-engineer-wins-royal-society-award-for-quake-safe-building
-title: "UC Engineer Wins Royal Society Award for Quake-Safe Building"
-date: 2017-10-11
-source-url: https://www.scoop.co.nz/stories/ED1710/S00035/uc-engineer-wins-royal-society-award-for-quake-safe-building.htm
+title: UC Engineer Wins Royal Society Award for Quake-Safe Building
+date: 2017-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00035/uc-engineer-wins-royal-society-award-for-quake-safe-building.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/10/11/uc-engineer-wins-royal-society-award-for-quake-safe-building/index.html
+layout: layout.njk
 ---
 UC Engineer Wins Royal Society Award for Quake-Safe Building
 ============================================================

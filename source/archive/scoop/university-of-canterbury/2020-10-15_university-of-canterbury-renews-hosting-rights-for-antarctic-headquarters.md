@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-renews-hosting-rights-for-antarctic-headquarters
-title: "University Of Canterbury Renews Hosting Rights For Antarctic Headquarters"
-date: 2020-10-15
-source-url: https://www.scoop.co.nz/stories/ED2010/S00025/university-of-canterbury-renews-hosting-rights-for-antarctic-headquarters.htm
+title: University Of Canterbury Renews Hosting Rights For Antarctic Headquarters
+date: 2020-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00025/university-of-canterbury-renews-hosting-rights-for-antarctic-headquarters.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/15/university-of-canterbury-renews-hosting-rights-for-antarctic-headquarters/index.html
+layout: layout.njk
 ---
 University Of Canterbury Renews Hosting Rights For Antarctic Headquarters
 =========================================================================

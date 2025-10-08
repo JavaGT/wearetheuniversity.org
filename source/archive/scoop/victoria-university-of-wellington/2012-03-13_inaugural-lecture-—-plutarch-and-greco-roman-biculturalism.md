@@ -1,9 +1,12 @@
 ---
 slug: inaugural-lecture-—-plutarch-and-greco-roman-biculturalism
-title: "Inaugural Lecture — Plutarch and Greco-Roman Biculturalism"
-date: 2012-03-13
-source-url: https://www.scoop.co.nz/stories/ED1203/S00061/inaugural-lecture-plutarch-and-greco-roman-biculturalism.htm
+title: Inaugural Lecture — Plutarch and Greco-Roman Biculturalism
+date: 2012-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00061/inaugural-lecture-plutarch-and-greco-roman-biculturalism.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/03/13/inaugural-lecture-/index.html
+layout: layout.njk
 ---
 Inaugural Lecture — Plutarch and Greco-Roman Biculturalism
 ==========================================================

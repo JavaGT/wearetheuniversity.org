@@ -1,9 +1,12 @@
 ---
 slug: disability-and-reproductive-rights-in-nz
-title: "Disability and reproductive rights in NZ"
-date: 2009-08-10
-source-url: https://www.scoop.co.nz/stories/GE0908/S00041/disability-and-reproductive-rights-in-nz.htm
+title: Disability and reproductive rights in NZ
+date: 2009-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0908/S00041/disability-and-reproductive-rights-in-nz.htm
 author: salient
+permalink: /archive/2009/08/10/disability-and-reproductive-rights-in-nz/index.html
+layout: layout.njk
 ---
 Disability and reproductive rights in NZ
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-renames-building-in-honour-of-bruce-&-gill-ross
-title: "Lincoln University Renames Building In Honour Of Bruce & Gill Ross"
-date: 2022-05-31
-source-url: https://www.scoop.co.nz/stories/ED2205/S00063/lincoln-university-renames-building-in-honour-of-bruce-gill-ross.htm
+title: Lincoln University Renames Building In Honour Of Bruce & Gill Ross
+date: 2022-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00063/lincoln-university-renames-building-in-honour-of-bruce-gill-ross.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/05/31/lincoln-university-renames-building-in-honour-of-bruce-/index.html
+layout: layout.njk
 ---
 Lincoln University Renames Building In Honour Of Bruce & Gill Ross
 ==================================================================

@@ -1,9 +1,13 @@
 ---
 slug: ngati-tuwharetoa-raukawa-and-te-arawa-river-bill
-title: "Ngati Tuwharetoa, Raukawa, and Te Arawa River Bill"
-date: 2010-07-29
-source-url: https://www.scoop.co.nz/stories/PA1007/S00452/ngati-tuwharetoa-raukawa-and-te-arawa-river-bill.htm
+title: Ngati Tuwharetoa, Raukawa, and Te Arawa River Bill
+date: 2010-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00452/ngati-tuwharetoa-raukawa-and-te-arawa-river-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/07/29/ngati-tuwharetoa-raukawa-and-te-arawa-river-bill/index.html
+layout: layout.njk
 ---
 Ngati Tuwharetoa, Raukawa, and Te Arawa River Bill
 ==================================================

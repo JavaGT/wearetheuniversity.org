@@ -1,9 +1,13 @@
 ---
 slug: canterbury-youth-mentoring-researcher-wins-national-award
-title: "Canterbury Youth Mentoring Researcher Wins National Award"
-date: 2021-11-02
-source-url: https://www.scoop.co.nz/stories/ED2111/S00005/canterbury-youth-mentoring-researcher-wins-national-award.htm
+title: Canterbury Youth Mentoring Researcher Wins National Award
+date: 2021-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2111/S00005/canterbury-youth-mentoring-researcher-wins-national-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/11/02/canterbury-youth-mentoring-researcher-wins-national-award/index.html
+layout: layout.njk
 ---
 Canterbury Youth Mentoring Researcher Wins National Award
 =========================================================

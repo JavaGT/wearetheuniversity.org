@@ -1,9 +1,12 @@
 ---
 slug: government-must-commit-to-kiwi-jobs
-title: "Government must commit to Kiwi jobs"
-date: 2011-06-20
-source-url: https://www.scoop.co.nz/stories/PA1106/S00320/government-must-commit-to-kiwi-jobs.htm
+title: Government must commit to Kiwi jobs
+date: 2011-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00320/government-must-commit-to-kiwi-jobs.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/20/government-must-commit-to-kiwi-jobs/index.html
+layout: layout.njk
 ---
 Government must commit to Kiwi jobs
 ===================================

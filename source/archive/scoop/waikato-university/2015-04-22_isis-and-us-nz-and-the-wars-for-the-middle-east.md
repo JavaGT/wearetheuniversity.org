@@ -1,9 +1,12 @@
 ---
 slug: isis-and-us-nz-and-the-wars-for-the-middle-east
-title: "ISIS and us: NZ and the wars for the Middle East"
-date: 2015-04-22
-source-url: https://www.scoop.co.nz/stories/PO1504/S00196/isis-and-us-nz-and-the-wars-for-the-middle-east.htm
+title: 'ISIS and us: NZ and the wars for the Middle East'
+date: 2015-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00196/isis-and-us-nz-and-the-wars-for-the-middle-east.htm
 author: waikato-university
+permalink: /archive/2015/04/22/isis-and-us-nz-and-the-wars-for-the-middle-east/index.html
+layout: layout.njk
 ---
 ISIS and us: NZ and the wars for the Middle East
 ================================================

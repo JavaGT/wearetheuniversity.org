@@ -1,9 +1,12 @@
 ---
 slug: uc-pacific-academic-wins-fulbright-award
-title: "UC Pacific academic wins Fulbright award"
-date: 2017-02-14
-source-url: https://www.scoop.co.nz/stories/ED1702/S00039/uc-pacific-academic-wins-fulbright-award.htm
+title: UC Pacific academic wins Fulbright award
+date: 2017-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00039/uc-pacific-academic-wins-fulbright-award.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/14/uc-pacific-academic-wins-fulbright-award/index.html
+layout: layout.njk
 ---
 UC Pacific academic wins Fulbright award
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: nzs-first-doctor-in-creative-writing-to-graduate
-title: "NZ's first Doctor in Creative Writing to graduate"
-date: 2010-05-11
-source-url: https://www.scoop.co.nz/stories/ED1005/S00035/nzs-first-doctor-in-creative-writing-to-graduate.htm
+title: NZ's first Doctor in Creative Writing to graduate
+date: 2010-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00035/nzs-first-doctor-in-creative-writing-to-graduate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/05/11/nzs-first-doctor-in-creative-writing-to-graduate/index.html
+layout: layout.njk
 ---
 NZ's first Doctor in Creative Writing to graduate
 =================================================

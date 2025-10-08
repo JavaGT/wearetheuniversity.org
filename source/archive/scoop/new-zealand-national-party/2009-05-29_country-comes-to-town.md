@@ -1,9 +1,11 @@
 ---
 slug: country-comes-to-town
-title: "Country Comes to Town"
-date: 2009-05-29
+title: Country Comes to Town
+date: 2009-05-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00570/country-comes-to-town.htm
 author: new-zealand-national-party
+permalink: /archive/2009/05/29/country-comes-to-town/index.html
+layout: layout.njk
 ---
 Country Comes to Town
 =====================

@@ -1,9 +1,12 @@
 ---
 slug: labours-liable-parent-lethargy-laid-bare
-title: "Labour’s liable parent lethargy laid bare"
-date: 2007-01-29
-source-url: https://www.scoop.co.nz/stories/PA0701/S00169/labours-liable-parent-lethargy-laid-bare.htm
+title: Labour’s liable parent lethargy laid bare
+date: 2007-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00169/labours-liable-parent-lethargy-laid-bare.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/29/labours-liable-parent-lethargy-laid-bare/index.html
+layout: layout.njk
 ---
 Labour’s liable parent lethargy laid bare
 =========================================

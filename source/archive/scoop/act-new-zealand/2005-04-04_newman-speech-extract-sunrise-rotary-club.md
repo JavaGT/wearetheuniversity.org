@@ -1,9 +1,12 @@
 ---
 slug: newman-speech-extract-sunrise-rotary-club
-title: "Newman Speech Extract  -  Sunrise Rotary Club"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/PA0504/S00053/newman-speech-extract-sunrise-rotary-club.htm
+title: Newman Speech Extract  -  Sunrise Rotary Club
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00053/newman-speech-extract-sunrise-rotary-club.htm
 author: act-new-zealand
+permalink: /archive/2005/04/04/newman-speech-extract-sunrise-rotary-club/index.html
+layout: layout.njk
 ---
 Newman Speech Extract - Sunrise Rotary Club
 ===========================================

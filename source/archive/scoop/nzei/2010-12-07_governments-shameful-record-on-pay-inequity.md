@@ -1,9 +1,12 @@
 ---
 slug: governments-shameful-record-on-pay-inequity
-title: "Government’s Shameful Record on Pay Inequity"
-date: 2010-12-07
-source-url: https://www.scoop.co.nz/stories/PO1012/S00066/governments-shameful-record-on-pay-inequity.htm
+title: Government’s Shameful Record on Pay Inequity
+date: 2010-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00066/governments-shameful-record-on-pay-inequity.htm
 author: nzei
+permalink: /archive/2010/12/07/governments-shameful-record-on-pay-inequity/index.html
+layout: layout.njk
 ---
 Government’s Shameful Record on Pay Inequity
 ============================================

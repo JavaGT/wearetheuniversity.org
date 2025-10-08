@@ -1,9 +1,12 @@
 ---
 slug: $65000-in-student-debt-for-aucklands-doctors
-title: "$65,000 in student debt for Auckland's doctors"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/ED0504/S00059/65000-in-student-debt-for-aucklands-doctors.htm
+title: $65,000 in student debt for Auckland's doctors
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00059/65000-in-student-debt-for-aucklands-doctors.htm
 author: auckland-university-students-association
+permalink: /archive/2005/04/15//index.html
+layout: layout.njk
 ---
 $65,000 in student debt for Auckland's doctors
 ==============================================

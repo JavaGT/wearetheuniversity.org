@@ -1,9 +1,12 @@
 ---
 slug: stopping-our-sleepwalk-to-the-third-world
-title: "Stopping Our Sleepwalk To The Third World"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/PA0206/S00276/stopping-our-sleepwalk-to-the-third-world.htm
+title: Stopping Our Sleepwalk To The Third World
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00276/stopping-our-sleepwalk-to-the-third-world.htm
 author: new-zealand-first-party
+permalink: /archive/2002/06/17/stopping-our-sleepwalk-to-the-third-world/index.html
+layout: layout.njk
 ---
 Stopping Our Sleepwalk To The Third World
 =========================================

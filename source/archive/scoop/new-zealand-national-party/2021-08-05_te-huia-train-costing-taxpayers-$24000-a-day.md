@@ -1,9 +1,12 @@
 ---
 slug: te-huia-train-costing-taxpayers-$24000-a-day
-title: "Te Huia Train Costing Taxpayers $24,000 A Day"
-date: 2021-08-05
-source-url: https://www.scoop.co.nz/stories/PA2108/S00043/te-huia-train-costing-taxpayers-24000-a-day.htm
+title: Te Huia Train Costing Taxpayers $24,000 A Day
+date: 2021-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00043/te-huia-train-costing-taxpayers-24000-a-day.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/05/te-huia-train-costing-taxpayers-/index.html
+layout: layout.njk
 ---
 Te Huia Train Costing Taxpayers $24,000 A Day
 =============================================

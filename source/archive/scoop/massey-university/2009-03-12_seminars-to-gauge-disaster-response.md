@@ -1,9 +1,12 @@
 ---
 slug: seminars-to-gauge-disaster-response
-title: "Seminars to gauge disaster response"
-date: 2009-03-12
-source-url: https://www.scoop.co.nz/stories/ED0903/S00045/seminars-to-gauge-disaster-response.htm
+title: Seminars to gauge disaster response
+date: 2009-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00045/seminars-to-gauge-disaster-response.htm
 author: massey-university
+permalink: /archive/2009/03/12/seminars-to-gauge-disaster-response/index.html
+layout: layout.njk
 ---
 Seminars to gauge disaster response
 ===================================

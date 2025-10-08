@@ -1,9 +1,12 @@
 ---
 slug: action-plan-a-winner-for-women-workers
-title: "Action Plan a Winner for Women Workers"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/PO0403/S00063/action-plan-a-winner-for-women-workers.htm
+title: Action Plan a Winner for Women Workers
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0403/S00063/action-plan-a-winner-for-women-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/03/09/action-plan-a-winner-for-women-workers/index.html
+layout: layout.njk
 ---
 Action Plan a Winner for Women Workers
 ======================================

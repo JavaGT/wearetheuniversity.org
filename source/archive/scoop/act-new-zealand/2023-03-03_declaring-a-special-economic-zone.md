@@ -1,9 +1,12 @@
 ---
 slug: declaring-a-special-economic-zone
-title: "Declaring A Special Economic Zone"
-date: 2023-03-03
-source-url: https://www.scoop.co.nz/stories/PA2303/S00017/declaring-a-special-economic-zone.htm
+title: Declaring A Special Economic Zone
+date: 2023-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00017/declaring-a-special-economic-zone.htm
 author: act-new-zealand
+permalink: /archive/2023/03/03/declaring-a-special-economic-zone/index.html
+layout: layout.njk
 ---
 Declaring A Special Economic Zone
 =================================

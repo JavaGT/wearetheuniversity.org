@@ -1,9 +1,12 @@
 ---
 slug: world-wars-inspire-student-to-be-creative
-title: "World wars inspire student to be creative"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/CU1409/S00486/world-wars-inspire-student-to-be-creative.htm
+title: World wars inspire student to be creative
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1409/S00486/world-wars-inspire-student-to-be-creative.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/09/25/world-wars-inspire-student-to-be-creative/index.html
+layout: layout.njk
 ---
 World wars inspire student to be creative
 =========================================

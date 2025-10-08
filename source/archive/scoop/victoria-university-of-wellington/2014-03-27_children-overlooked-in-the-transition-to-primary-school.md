@@ -1,9 +1,13 @@
 ---
 slug: children-overlooked-in-the-transition-to-primary-school
-title: "Children overlooked in the transition to primary school"
-date: 2014-03-27
-source-url: https://www.scoop.co.nz/stories/ED1403/S00160/children-overlooked-in-the-transition-to-primary-school.htm
+title: Children overlooked in the transition to primary school
+date: 2014-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00160/children-overlooked-in-the-transition-to-primary-school.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/03/27/children-overlooked-in-the-transition-to-primary-school/index.html
+layout: layout.njk
 ---
 Children overlooked in the transition to primary school
 =======================================================

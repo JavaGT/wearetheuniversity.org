@@ -1,9 +1,11 @@
 ---
 slug: measuring-health-for-wealth
-title: "Measuring health for wealth"
-date: 2012-02-22
+title: Measuring health for wealth
+date: 2012-02-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1202/S00096/measuring-health-for-wealth.htm
 author: waikato-university
+permalink: /archive/2012/02/22/measuring-health-for-wealth/index.html
+layout: layout.njk
 ---
 Measuring health for wealth
 ===========================

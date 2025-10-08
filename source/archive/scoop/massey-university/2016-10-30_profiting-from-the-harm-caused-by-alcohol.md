@@ -1,9 +1,12 @@
 ---
 slug: profiting-from-the-harm-caused-by-alcohol
-title: "Profiting from the harm caused by alcohol"
-date: 2016-10-30
-source-url: https://www.scoop.co.nz/stories/GE1610/S00160/profiting-from-the-harm-caused-by-alcohol.htm
+title: Profiting from the harm caused by alcohol
+date: 2016-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1610/S00160/profiting-from-the-harm-caused-by-alcohol.htm
 author: massey-university
+permalink: /archive/2016/10/30/profiting-from-the-harm-caused-by-alcohol/index.html
+layout: layout.njk
 ---
 Profiting from the harm caused by alcohol
 =========================================

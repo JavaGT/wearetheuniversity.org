@@ -1,9 +1,12 @@
 ---
 slug: micro-brewerys-pilot-pils-a-good-kiwi-brew
-title: "Micro brewery’s Pilot Pils a good Kiwi brew"
-date: 2008-04-05
-source-url: https://www.scoop.co.nz/stories/SC0804/S00015/micro-brewerys-pilot-pils-a-good-kiwi-brew.htm
+title: Micro brewery’s Pilot Pils a good Kiwi brew
+date: 2008-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0804/S00015/micro-brewerys-pilot-pils-a-good-kiwi-brew.htm
 author: massey-university
+permalink: /archive/2008/04/05/micro-brewerys-pilot-pils-a-good-kiwi-brew/index.html
+layout: layout.njk
 ---
 Micro brewery’s Pilot Pils a good Kiwi brew
 ===========================================

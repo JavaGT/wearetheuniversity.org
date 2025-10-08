@@ -1,9 +1,13 @@
 ---
 slug: zero-tolerance-means-no-apologies-for-punishment
-title: "Zero tolerance means no apologies for punishment"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00801/zero-tolerance-means-no-apologies-for-punishment.htm
+title: Zero tolerance means no apologies for punishment
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00801/zero-tolerance-means-no-apologies-for-punishment.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2005/08/30/zero-tolerance-means-no-apologies-for-punishment/index.html
+layout: layout.njk
 ---
 Zero tolerance means no apologies for punishment
 ================================================

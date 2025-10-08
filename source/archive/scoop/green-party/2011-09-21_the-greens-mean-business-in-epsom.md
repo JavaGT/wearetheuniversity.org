@@ -1,9 +1,12 @@
 ---
 slug: the-greens-mean-business-in-epsom
-title: "The Greens Mean Business in Epsom"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/PA1109/S00411/the-greens-mean-business-in-epsom.htm
+title: The Greens Mean Business in Epsom
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00411/the-greens-mean-business-in-epsom.htm
 author: green-party
+permalink: /archive/2011/09/21/the-greens-mean-business-in-epsom/index.html
+layout: layout.njk
 ---
 The Greens Mean Business in Epsom
 =================================

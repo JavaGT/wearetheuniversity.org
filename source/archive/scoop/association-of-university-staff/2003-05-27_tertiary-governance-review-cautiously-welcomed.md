@@ -1,9 +1,12 @@
 ---
 slug: tertiary-governance-review-cautiously-welcomed
-title: "Tertiary governance review cautiously welcomed"
-date: 2003-05-27
-source-url: https://www.scoop.co.nz/stories/ED0305/S00091/tertiary-governance-review-cautiously-welcomed.htm
+title: Tertiary governance review cautiously welcomed
+date: 2003-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00091/tertiary-governance-review-cautiously-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2003/05/27/tertiary-governance-review-cautiously-welcomed/index.html
+layout: layout.njk
 ---
 Tertiary governance review cautiously welcomed
 ==============================================

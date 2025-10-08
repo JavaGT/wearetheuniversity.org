@@ -1,9 +1,13 @@
 ---
 slug: reducing-salt-in-food-good-for-the-heart-and-health-budgets
-title: "Reducing salt in food good for the heart and health budgets"
-date: 2015-05-04
-source-url: https://www.scoop.co.nz/stories/GE1505/S00008/reducing-salt-in-food-good-for-the-heart-and-health-budgets.htm
+title: Reducing salt in food good for the heart and health budgets
+date: 2015-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1505/S00008/reducing-salt-in-food-good-for-the-heart-and-health-budgets.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/05/04/reducing-salt-in-food-good-for-the-heart-and-health-budgets/index.html
+layout: layout.njk
 ---
 Reducing salt in food good for the heart and health budgets
 ===========================================================

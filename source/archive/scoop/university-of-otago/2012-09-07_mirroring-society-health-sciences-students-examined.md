@@ -1,9 +1,13 @@
 ---
 slug: mirroring-society-health-sciences-students-examined
-title: "Mirroring society? Health Sciences students examined"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/GE1209/S00033/mirroring-society-health-sciences-students-examined.htm
+title: Mirroring society? Health Sciences students examined
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1209/S00033/mirroring-society-health-sciences-students-examined.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/09/07/mirroring-society-health-sciences-students-examined/index.html
+layout: layout.njk
 ---
 Mirroring society? Health Sciences students examined
 ====================================================

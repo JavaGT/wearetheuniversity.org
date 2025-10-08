@@ -1,9 +1,12 @@
 ---
 slug: more-certainty-needed-to-save-air-nz-jobs
-title: "More Certainty Needed To Save Air NZ Jobs"
-date: 2020-04-29
-source-url: https://www.scoop.co.nz/stories/PA2004/S00172/more-certainty-needed-to-save-air-nz-jobs.htm
+title: More Certainty Needed To Save Air NZ Jobs
+date: 2020-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2004/S00172/more-certainty-needed-to-save-air-nz-jobs.htm
 author: new-zealand-national-party
+permalink: /archive/2020/04/29/more-certainty-needed-to-save-air-nz-jobs/index.html
+layout: layout.njk
 ---
 More Certainty Needed To Save Air NZ Jobs
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: presidential-prison-vsm-protest
-title: "Presidential Prison – VSM Protest"
-date: 2011-07-18
-source-url: https://www.scoop.co.nz/stories/PO1107/S00200/presidential-prison-vsm-protest.htm
+title: Presidential Prison – VSM Protest
+date: 2011-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1107/S00200/presidential-prison-vsm-protest.htm
 author: otago-university-students-association
+permalink: /archive/2011/07/18/presidential-prison-vsm-protest/index.html
+layout: layout.njk
 ---
 Presidential Prison – VSM Protest
 =================================

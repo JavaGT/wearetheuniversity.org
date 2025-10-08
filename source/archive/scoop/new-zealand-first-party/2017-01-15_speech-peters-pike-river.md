@@ -1,9 +1,11 @@
 ---
 slug: speech-peters-pike-river
-title: "Speech: Peters - Pike River"
-date: 2017-01-15
+title: 'Speech: Peters - Pike River'
+date: 2017-01-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1701/S00036/speech-peters-pike-river.htm
 author: new-zealand-first-party
+permalink: /archive/2017/01/15/speech-peters-pike-river/index.html
+layout: layout.njk
 ---
 Speech: Peters - Pike River
 ===========================

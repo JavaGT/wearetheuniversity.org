@@ -1,9 +1,12 @@
 ---
 slug: fine-arts-lecturer-takes-artwork-to-ny-paris
-title: "Fine arts lecturer takes artwork to NY, Paris"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/ED0809/S00101/fine-arts-lecturer-takes-artwork-to-ny-paris.htm
+title: Fine arts lecturer takes artwork to NY, Paris
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00101/fine-arts-lecturer-takes-artwork-to-ny-paris.htm
 author: massey-university
+permalink: /archive/2008/09/29/fine-arts-lecturer-takes-artwork-to-ny-paris/index.html
+layout: layout.njk
 ---
 Fine arts lecturer takes artwork to NY, Paris
 =============================================

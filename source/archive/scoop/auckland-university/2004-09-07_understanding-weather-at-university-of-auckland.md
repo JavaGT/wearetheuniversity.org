@@ -1,9 +1,12 @@
 ---
 slug: understanding-weather-at-university-of-auckland
-title: "Understanding Weather at University of Auckland"
-date: 2004-09-07
-source-url: https://www.scoop.co.nz/stories/ED0409/S00023/understanding-weather-at-university-of-auckland.htm
+title: Understanding Weather at University of Auckland
+date: 2004-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00023/understanding-weather-at-university-of-auckland.htm
 author: auckland-university
+permalink: /archive/2004/09/07/understanding-weather-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 Understanding Weather at University of Auckland
 ===============================================

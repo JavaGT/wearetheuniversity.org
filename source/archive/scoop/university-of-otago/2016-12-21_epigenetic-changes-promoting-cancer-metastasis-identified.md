@@ -1,9 +1,13 @@
 ---
 slug: epigenetic-changes-promoting-cancer-metastasis-identified
-title: "Epigenetic changes promoting cancer metastasis identified"
-date: 2016-12-21
-source-url: https://www.scoop.co.nz/stories/GE1612/S00107/epigenetic-changes-promoting-cancer-metastasis-identified.htm
+title: Epigenetic changes promoting cancer metastasis identified
+date: 2016-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1612/S00107/epigenetic-changes-promoting-cancer-metastasis-identified.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/21/epigenetic-changes-promoting-cancer-metastasis-identified/index.html
+layout: layout.njk
 ---
 Epigenetic changes promoting cancer metastasis identified
 =========================================================

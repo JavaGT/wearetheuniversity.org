@@ -1,9 +1,12 @@
 ---
 slug: higher-standards-for-teacher-registration
-title: "Higher Standards For Teacher Registration"
-date: 2021-05-23
-source-url: https://www.scoop.co.nz/stories/PA2105/S00203/higher-standards-for-teacher-registration.htm
+title: Higher Standards For Teacher Registration
+date: 2021-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00203/higher-standards-for-teacher-registration.htm
 author: act-new-zealand
+permalink: /archive/2021/05/23/higher-standards-for-teacher-registration/index.html
+layout: layout.njk
 ---
 Higher Standards For Teacher Registration
 =========================================

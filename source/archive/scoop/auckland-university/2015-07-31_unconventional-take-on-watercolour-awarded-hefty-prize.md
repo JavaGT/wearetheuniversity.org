@@ -1,9 +1,13 @@
 ---
 slug: unconventional-take-on-watercolour-awarded-hefty-prize
-title: "Unconventional take on watercolour awarded hefty prize"
-date: 2015-07-31
-source-url: https://www.scoop.co.nz/stories/ED1507/S00132/unconventional-take-on-watercolour-awarded-hefty-prize.htm
+title: Unconventional take on watercolour awarded hefty prize
+date: 2015-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00132/unconventional-take-on-watercolour-awarded-hefty-prize.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/07/31/unconventional-take-on-watercolour-awarded-hefty-prize/index.html
+layout: layout.njk
 ---
 Unconventional take on watercolour awarded hefty prize
 ======================================================

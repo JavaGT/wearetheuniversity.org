@@ -1,9 +1,11 @@
 ---
 slug: exam-fee-hike-an-outrage
-title: "Exam fee hike an outrage"
-date: 2003-02-10
+title: Exam fee hike an outrage
+date: 2003-02-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0302/S00103/exam-fee-hike-an-outrage.htm
 author: new-zealand-national-party
+permalink: /archive/2003/02/10/exam-fee-hike-an-outrage/index.html
+layout: layout.njk
 ---
 Exam fee hike an outrage
 ========================

@@ -1,9 +1,11 @@
 ---
 slug: hone-harawira-policing-bill
-title: "Hone Harawira: Policing Bill"
-date: 2008-08-06
+title: 'Hone Harawira: Policing Bill'
+date: 2008-08-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00069/hone-harawira-policing-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/08/06/hone-harawira-policing-bill/index.html
+layout: layout.njk
 ---
 Hone Harawira: Policing Bill
 ============================

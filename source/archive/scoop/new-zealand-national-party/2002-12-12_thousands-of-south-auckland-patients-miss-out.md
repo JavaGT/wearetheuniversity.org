@@ -1,9 +1,12 @@
 ---
 slug: thousands-of-south-auckland-patients-miss-out
-title: "Thousands of South Auckland patients miss out"
-date: 2002-12-12
-source-url: https://www.scoop.co.nz/stories/PA0212/S00279/thousands-of-south-auckland-patients-miss-out.htm
+title: Thousands of South Auckland patients miss out
+date: 2002-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00279/thousands-of-south-auckland-patients-miss-out.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/12/thousands-of-south-auckland-patients-miss-out/index.html
+layout: layout.njk
 ---
 Thousands of South Auckland patients miss out
 =============================================

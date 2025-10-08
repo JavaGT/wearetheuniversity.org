@@ -1,9 +1,11 @@
 ---
 slug: hide-hits-new-low
-title: "Hide hits new low"
-date: 2009-12-11
+title: Hide hits new low
+date: 2009-12-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0912/S00184/hide-hits-new-low.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/11/hide-hits-new-low/index.html
+layout: layout.njk
 ---
 Hide hits new low
 =================

@@ -1,9 +1,13 @@
 ---
 slug: massey-extramural-students-society-offer-hardship-support
-title: "Massey Extramural Students’ Society offer hardship support"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00023/massey-extramural-students-society-offer-hardship-support.htm
+title: Massey Extramural Students’ Society offer hardship support
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00023/massey-extramural-students-society-offer-hardship-support.htm
 author: massey-university
+permalink: >-
+  /archive/2011/03/03/massey-extramural-students-society-offer-hardship-support/index.html
+layout: layout.njk
 ---
 Massey Extramural Students’ Society offer hardship support
 ==========================================================

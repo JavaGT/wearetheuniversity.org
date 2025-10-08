@@ -1,9 +1,11 @@
 ---
 slug: remembering-ida-gaskin
-title: "Remembering Ida Gaskin"
-date: 2016-01-08
+title: Remembering Ida Gaskin
+date: 2016-01-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1601/S00012/remembering-ida-gaskin.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/01/08/remembering-ida-gaskin/index.html
+layout: layout.njk
 ---
 Remembering Ida Gaskin
 ======================

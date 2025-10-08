@@ -1,9 +1,13 @@
 ---
 slug: new-analysis-shows-government-cut-tertiary-education-funding
-title: "New Analysis Shows Government Cut Tertiary Education Funding"
-date: 2014-10-21
-source-url: https://www.scoop.co.nz/stories/PA1410/S00109/new-analysis-shows-government-cut-tertiary-education-funding.htm
+title: New Analysis Shows Government Cut Tertiary Education Funding
+date: 2014-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00109/new-analysis-shows-government-cut-tertiary-education-funding.htm
 author: green-party
+permalink: >-
+  /archive/2014/10/21/new-analysis-shows-government-cut-tertiary-education-funding/index.html
+layout: layout.njk
 ---
 New Analysis Shows Government Cut Tertiary Education Funding
 ============================================================

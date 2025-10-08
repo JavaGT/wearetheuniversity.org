@@ -1,9 +1,12 @@
 ---
 slug: university-announces-new-wellington-campus-dean
-title: "University announces new Wellington campus Dean"
-date: 2007-11-22
-source-url: https://www.scoop.co.nz/stories/GE0711/S00113/university-announces-new-wellington-campus-dean.htm
+title: University announces new Wellington campus Dean
+date: 2007-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0711/S00113/university-announces-new-wellington-campus-dean.htm
 author: university-of-otago
+permalink: /archive/2007/11/22/university-announces-new-wellington-campus-dean/index.html
+layout: layout.njk
 ---
 University announces new Wellington campus Dean
 ===============================================

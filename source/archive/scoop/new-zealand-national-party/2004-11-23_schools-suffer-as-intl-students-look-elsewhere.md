@@ -1,9 +1,12 @@
 ---
 slug: schools-suffer-as-intl-students-look-elsewhere
-title: "Schools suffer as intl’ students look elsewhere"
-date: 2004-11-23
-source-url: https://www.scoop.co.nz/stories/PA0411/S00499/schools-suffer-as-intl-students-look-elsewhere.htm
+title: Schools suffer as intl’ students look elsewhere
+date: 2004-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00499/schools-suffer-as-intl-students-look-elsewhere.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/23/schools-suffer-as-intl-students-look-elsewhere/index.html
+layout: layout.njk
 ---
 Schools suffer as intl’ students look elsewhere
 ===============================================

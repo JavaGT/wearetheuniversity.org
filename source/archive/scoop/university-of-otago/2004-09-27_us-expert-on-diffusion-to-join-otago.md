@@ -1,9 +1,12 @@
 ---
 slug: us-expert-on-diffusion-to-join-otago
-title: "US Expert On Diffusion To Join Otago"
-date: 2004-09-27
-source-url: https://www.scoop.co.nz/stories/ED0409/S00123/us-expert-on-diffusion-to-join-otago.htm
+title: US Expert On Diffusion To Join Otago
+date: 2004-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00123/us-expert-on-diffusion-to-join-otago.htm
 author: university-of-otago
+permalink: /archive/2004/09/27/us-expert-on-diffusion-to-join-otago/index.html
+layout: layout.njk
 ---
 US Expert On Diffusion To Join Otago
 ====================================

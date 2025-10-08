@@ -1,9 +1,12 @@
 ---
 slug: nz-first-kiwisaver-policy-misguided
-title: "NZ First KiwiSaver policy misguided"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/PO1408/S00150/nz-first-kiwisaver-policy-misguided.htm
+title: NZ First KiwiSaver policy misguided
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00150/nz-first-kiwisaver-policy-misguided.htm
 author: massey-university
+permalink: /archive/2014/08/11/nz-first-kiwisaver-policy-misguided/index.html
+layout: layout.njk
 ---
 NZ First KiwiSaver policy misguided
 ===================================

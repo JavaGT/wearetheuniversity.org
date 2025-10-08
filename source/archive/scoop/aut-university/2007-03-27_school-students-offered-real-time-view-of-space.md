@@ -1,9 +1,12 @@
 ---
 slug: school-students-offered-real-time-view-of-space
-title: "School students offered real-time view of space"
-date: 2007-03-27
-source-url: https://www.scoop.co.nz/stories/ED0703/S00101/school-students-offered-real-time-view-of-space.htm
+title: School students offered real-time view of space
+date: 2007-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00101/school-students-offered-real-time-view-of-space.htm
 author: aut-university
+permalink: /archive/2007/03/27/school-students-offered-real-time-view-of-space/index.html
+layout: layout.njk
 ---
 School students offered real-time view of space
 ===============================================

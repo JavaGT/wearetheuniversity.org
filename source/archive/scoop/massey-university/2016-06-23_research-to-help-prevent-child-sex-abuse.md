@@ -1,9 +1,12 @@
 ---
 slug: research-to-help-prevent-child-sex-abuse
-title: "Research to help prevent child sex abuse"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/ED1606/S00083/research-to-help-prevent-child-sex-abuse.htm
+title: Research to help prevent child sex abuse
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00083/research-to-help-prevent-child-sex-abuse.htm
 author: massey-university
+permalink: /archive/2016/06/23/research-to-help-prevent-child-sex-abuse/index.html
+layout: layout.njk
 ---
 Research to help prevent child sex abuse
 ========================================

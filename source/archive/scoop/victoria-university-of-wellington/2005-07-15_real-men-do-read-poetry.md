@@ -1,9 +1,11 @@
 ---
 slug: real-men-do-read-poetry
-title: "Real men do read poetry"
-date: 2005-07-15
+title: Real men do read poetry
+date: 2005-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0507/S00117/real-men-do-read-poetry.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/15/real-men-do-read-poetry/index.html
+layout: layout.njk
 ---
 Real men do read poetry
 =======================

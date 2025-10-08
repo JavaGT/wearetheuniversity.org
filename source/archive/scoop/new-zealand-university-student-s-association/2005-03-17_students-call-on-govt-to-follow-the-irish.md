@@ -1,9 +1,12 @@
 ---
 slug: students-call-on-govt-to-follow-the-irish
-title: "Students call on Govt to follow the Irish"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/ED0503/S00053/students-call-on-govt-to-follow-the-irish.htm
+title: Students call on Govt to follow the Irish
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00053/students-call-on-govt-to-follow-the-irish.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/03/17/students-call-on-govt-to-follow-the-irish/index.html
+layout: layout.njk
 ---
 Students call on Govt to follow the Irish
 =========================================

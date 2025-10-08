@@ -1,9 +1,12 @@
 ---
 slug: double-standard-operating-over-wananga
-title: "Double Standard Operating Over Wananga"
-date: 2005-02-15
-source-url: https://www.scoop.co.nz/stories/PA0502/S00331/double-standard-operating-over-wananga.htm
+title: Double Standard Operating Over Wananga
+date: 2005-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00331/double-standard-operating-over-wananga.htm
 author: te-pati-maori
+permalink: /archive/2005/02/15/double-standard-operating-over-wananga/index.html
+layout: layout.njk
 ---
 Double Standard Operating Over Wananga
 ======================================

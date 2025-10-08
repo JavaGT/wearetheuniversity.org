@@ -1,9 +1,16 @@
 ---
-slug: community-schools-are-a-game-changer-for-students-in-this-big-city-school-district
-title: "Community Schools Are A ‘Game Changer’ For Students In This Big-City School District"
-date: 2024-07-10
-source-url: https://www.scoop.co.nz/stories/WO2407/S00086/community-schools-are-a-game-changer-for-students-in-this-big-city-school-district.htm
+slug: >-
+  community-schools-are-a-game-changer-for-students-in-this-big-city-school-district
+title: >-
+  Community Schools Are A ‘Game Changer’ For Students In This Big-City School
+  District
+date: 2024-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2407/S00086/community-schools-are-a-game-changer-for-students-in-this-big-city-school-district.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/07/10/community-schools-are-a-game-changer-for-students-in-this-big-city-school-district/index.html
+layout: layout.njk
 ---
 Community Schools Are A ‘Game Changer’ For Students In This Big-City School District
 ====================================================================================

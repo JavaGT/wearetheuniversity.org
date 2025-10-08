@@ -1,9 +1,12 @@
 ---
 slug: historic-european-elections-begin
-title: "Historic European Elections Begin"
-date: 2004-06-11
-source-url: https://www.scoop.co.nz/stories/WO0406/S00116/historic-european-elections-begin.htm
+title: Historic European Elections Begin
+date: 2004-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0406/S00116/historic-european-elections-begin.htm
 author: university-of-canterbury
+permalink: /archive/2004/06/11/historic-european-elections-begin/index.html
+layout: layout.njk
 ---
 Historic European Elections Begin
 =================================

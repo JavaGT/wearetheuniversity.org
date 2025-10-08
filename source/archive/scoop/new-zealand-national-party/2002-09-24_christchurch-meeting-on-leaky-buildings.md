@@ -1,9 +1,12 @@
 ---
 slug: christchurch-meeting-on-leaky-buildings
-title: "Christchurch meeting on leaky buildings"
-date: 2002-09-24
-source-url: https://www.scoop.co.nz/stories/PA0209/S00396/christchurch-meeting-on-leaky-buildings.htm
+title: Christchurch meeting on leaky buildings
+date: 2002-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00396/christchurch-meeting-on-leaky-buildings.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/24/christchurch-meeting-on-leaky-buildings/index.html
+layout: layout.njk
 ---
 Christchurch meeting on leaky buildings
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: need-for-more-than-a-sticking-plaster
-title: "Need for More Than a ‘Sticking Plaster’"
-date: 2001-04-18
-source-url: https://www.scoop.co.nz/stories/PA0104/S00271/need-for-more-than-a-sticking-plaster.htm
+title: Need for More Than a ‘Sticking Plaster’
+date: 2001-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00271/need-for-more-than-a-sticking-plaster.htm
 author: act-new-zealand
+permalink: /archive/2001/04/18/need-for-more-than-a-sticking-plaster/index.html
+layout: layout.njk
 ---
 Need for More Than a ‘Sticking Plaster’
 =======================================

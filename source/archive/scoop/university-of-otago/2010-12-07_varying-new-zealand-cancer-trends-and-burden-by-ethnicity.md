@@ -1,9 +1,13 @@
 ---
 slug: varying-new-zealand-cancer-trends-and-burden-by-ethnicity
-title: "Varying New Zealand cancer trends and burden by ethnicity"
-date: 2010-12-07
-source-url: https://www.scoop.co.nz/stories/GE1012/S00029/varying-new-zealand-cancer-trends-and-burden-by-ethnicity.htm
+title: Varying New Zealand cancer trends and burden by ethnicity
+date: 2010-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1012/S00029/varying-new-zealand-cancer-trends-and-burden-by-ethnicity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/12/07/varying-new-zealand-cancer-trends-and-burden-by-ethnicity/index.html
+layout: layout.njk
 ---
 Varying New Zealand cancer trends and burden by ethnicity
 =========================================================

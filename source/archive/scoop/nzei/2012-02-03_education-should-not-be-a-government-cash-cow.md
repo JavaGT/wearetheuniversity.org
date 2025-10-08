@@ -1,9 +1,12 @@
 ---
 slug: education-should-not-be-a-government-cash-cow
-title: "Education should not be a government cash cow"
-date: 2012-02-03
-source-url: https://www.scoop.co.nz/stories/PO1202/S00036/education-should-not-be-a-government-cash-cow.htm
+title: Education should not be a government cash cow
+date: 2012-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00036/education-should-not-be-a-government-cash-cow.htm
 author: nzei
+permalink: /archive/2012/02/03/education-should-not-be-a-government-cash-cow/index.html
+layout: layout.njk
 ---
 Education should not be a government cash cow
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: more-cracks-appear-in-health-funding
-title: "More cracks appear in health funding"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/PA1609/S00482/more-cracks-appear-in-health-funding.htm
+title: More cracks appear in health funding
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00482/more-cracks-appear-in-health-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/28/more-cracks-appear-in-health-funding/index.html
+layout: layout.njk
 ---
 More cracks appear in health funding
 ====================================

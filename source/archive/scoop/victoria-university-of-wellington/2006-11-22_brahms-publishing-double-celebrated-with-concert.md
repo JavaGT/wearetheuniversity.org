@@ -1,9 +1,13 @@
 ---
 slug: brahms-publishing-double-celebrated-with-concert
-title: "Brahms publishing double celebrated with concert"
-date: 2006-11-22
-source-url: https://www.scoop.co.nz/stories/ED0611/S00082/brahms-publishing-double-celebrated-with-concert.htm
+title: Brahms publishing double celebrated with concert
+date: 2006-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00082/brahms-publishing-double-celebrated-with-concert.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/11/22/brahms-publishing-double-celebrated-with-concert/index.html
+layout: layout.njk
 ---
 Brahms publishing double celebrated with concert
 ================================================

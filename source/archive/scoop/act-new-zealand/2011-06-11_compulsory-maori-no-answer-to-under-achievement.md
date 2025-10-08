@@ -1,9 +1,12 @@
 ---
 slug: compulsory-maori-no-answer-to-under-achievement
-title: "Compulsory Maori No Answer To Under-Achievement"
-date: 2011-06-11
-source-url: https://www.scoop.co.nz/stories/PO1106/S00129/compulsory-maori-no-answer-to-under-achievement.htm
+title: Compulsory Maori No Answer To Under-Achievement
+date: 2011-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00129/compulsory-maori-no-answer-to-under-achievement.htm
 author: act-new-zealand
+permalink: /archive/2011/06/11/compulsory-maori-no-answer-to-under-achievement/index.html
+layout: layout.njk
 ---
 Compulsory Maori No Answer To Under-Achievement
 ===============================================

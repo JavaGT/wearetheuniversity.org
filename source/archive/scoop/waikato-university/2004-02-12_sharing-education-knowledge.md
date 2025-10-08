@@ -1,9 +1,11 @@
 ---
 slug: sharing-education-knowledge
-title: "Sharing Education Knowledge"
-date: 2004-02-12
+title: Sharing Education Knowledge
+date: 2004-02-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0402/S00027/sharing-education-knowledge.htm
 author: waikato-university
+permalink: /archive/2004/02/12/sharing-education-knowledge/index.html
+layout: layout.njk
 ---
 Sharing Education Knowledge
 ===========================

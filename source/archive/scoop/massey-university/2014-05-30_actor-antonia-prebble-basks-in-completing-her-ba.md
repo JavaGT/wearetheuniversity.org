@@ -1,9 +1,13 @@
 ---
 slug: actor-antonia-prebble-basks-in-completing-her-ba
-title: "Actor Antonia Prebble basks in completing her BA"
-date: 2014-05-30
-source-url: https://www.scoop.co.nz/stories/ED1405/S00158/actor-antonia-prebble-basks-in-completing-her-ba.htm
+title: Actor Antonia Prebble basks in completing her BA
+date: 2014-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00158/actor-antonia-prebble-basks-in-completing-her-ba.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/30/actor-antonia-prebble-basks-in-completing-her-ba/index.html
+layout: layout.njk
 ---
 Actor Antonia Prebble basks in completing her BA
 ================================================

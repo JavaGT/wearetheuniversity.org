@@ -1,9 +1,11 @@
 ---
 slug: its-people-not-pixies-mr-key
-title: "It’s people, not pixies, Mr Key"
-date: 2009-07-22
+title: It’s people, not pixies, Mr Key
+date: 2009-07-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0907/S00248/its-people-not-pixies-mr-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/07/22/its-people-not-pixies-mr-key/index.html
+layout: layout.njk
 ---
 It’s people, not pixies, Mr Key
 ===============================

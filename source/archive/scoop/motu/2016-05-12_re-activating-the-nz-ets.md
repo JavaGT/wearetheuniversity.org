@@ -1,9 +1,11 @@
 ---
 slug: re-activating-the-nz-ets
-title: "Re-activating the NZ ETS"
-date: 2016-05-12
+title: Re-activating the NZ ETS
+date: 2016-05-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1605/S00147/re-activating-the-nz-ets.htm
 author: motu
+permalink: /archive/2016/05/12/re-activating-the-nz-ets/index.html
+layout: layout.njk
 ---
 Re-activating the NZ ETS
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: new-building-law-a-brave-move
-title: "New building law ‘a brave move’"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/PO1605/S00150/new-building-law-a-brave-move.htm
+title: New building law ‘a brave move’
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00150/new-building-law-a-brave-move.htm
 author: lincoln-university
+permalink: /archive/2016/05/12/new-building-law-a-brave-move/index.html
+layout: layout.njk
 ---
 New building law ‘a brave move’
 ===============================

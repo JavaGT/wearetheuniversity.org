@@ -1,9 +1,13 @@
 ---
 slug: agrifood-sector-is-tech-savvy-but-not-ready-for-disruption
-title: "Agrifood sector is tech-savvy but not ready for disruption"
-date: 2017-08-30
-source-url: https://www.scoop.co.nz/stories/BU1708/S01054/agrifood-sector-is-tech-savvy-but-not-ready-for-disruption.htm
+title: Agrifood sector is tech-savvy but not ready for disruption
+date: 2017-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1708/S01054/agrifood-sector-is-tech-savvy-but-not-ready-for-disruption.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/30/agrifood-sector-is-tech-savvy-but-not-ready-for-disruption/index.html
+layout: layout.njk
 ---
 Agrifood sector is tech-savvy but not ready for disruption
 ==========================================================

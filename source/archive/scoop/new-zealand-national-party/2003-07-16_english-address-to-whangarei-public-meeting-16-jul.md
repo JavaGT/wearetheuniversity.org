@@ -1,9 +1,13 @@
 ---
 slug: english-address-to-whangarei-public-meeting-16-jul
-title: "English Address to Whangarei public meeting 16 Jul"
-date: 2003-07-16
-source-url: https://www.scoop.co.nz/stories/PA0307/S00286/english-address-to-whangarei-public-meeting-16-jul.htm
+title: English Address to Whangarei public meeting 16 Jul
+date: 2003-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00286/english-address-to-whangarei-public-meeting-16-jul.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/07/16/english-address-to-whangarei-public-meeting-16-jul/index.html
+layout: layout.njk
 ---
 English Address to Whangarei public meeting 16 Jul
 ==================================================

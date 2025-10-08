@@ -1,9 +1,13 @@
 ---
 slug: self-management-techniques-helping-suicidal-people
-title: "Self-management techniques helping suicidal people"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/GE1506/S00121/self-management-techniques-helping-suicidal-people.htm
+title: Self-management techniques helping suicidal people
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1506/S00121/self-management-techniques-helping-suicidal-people.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/06/23/self-management-techniques-helping-suicidal-people/index.html
+layout: layout.njk
 ---
 Self-management techniques helping suicidal people
 ==================================================

@@ -1,9 +1,12 @@
 ---
-slug: māori-workplace-language-research-revealed
-title: "Māori workplace language research revealed"
-date: 2009-07-31
-source-url: https://www.scoop.co.nz/stories/AK0907/S00442/maori-workplace-language-research-revealed.htm
+slug: m-2āori-workplace-language-research-revealed
+title: Māori workplace language research revealed
+date: 2009-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0907/S00442/maori-workplace-language-research-revealed.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/31/m-2/index.html
+layout: layout.njk
 ---
 Māori workplace language research revealed
 ==========================================

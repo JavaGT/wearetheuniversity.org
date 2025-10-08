@@ -1,9 +1,13 @@
 ---
 slug: suspension-figures-point-to-problems-with-system
-title: "Suspension Figures Point to Problems With System"
-date: 2000-11-20
-source-url: https://www.scoop.co.nz/stories/PA0011/S00339/suspension-figures-point-to-problems-with-system.htm
+title: Suspension Figures Point to Problems With System
+date: 2000-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00339/suspension-figures-point-to-problems-with-system.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/11/20/suspension-figures-point-to-problems-with-system/index.html
+layout: layout.njk
 ---
 Suspension Figures Point to Problems With System
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: two-fellowships-for-maori-doctoral-researchers
-title: "Two fellowships for Maori doctoral researchers"
-date: 2007-10-31
-source-url: https://www.scoop.co.nz/stories/ED0710/S00098/two-fellowships-for-maori-doctoral-researchers.htm
+title: Two fellowships for Maori doctoral researchers
+date: 2007-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00098/two-fellowships-for-maori-doctoral-researchers.htm
 author: massey-university
+permalink: /archive/2007/10/31/two-fellowships-for-maori-doctoral-researchers/index.html
+layout: layout.njk
 ---
 Two fellowships for Maori doctoral researchers
 ==============================================

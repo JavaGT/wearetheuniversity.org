@@ -1,9 +1,12 @@
 ---
 slug: australian-student-president-visits-new-zealand
-title: "Australian student President visits New Zealand"
-date: 2009-11-16
-source-url: https://www.scoop.co.nz/stories/ED0911/S00065/australian-student-president-visits-new-zealand.htm
+title: Australian student President visits New Zealand
+date: 2009-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00065/australian-student-president-visits-new-zealand.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/11/16/australian-student-president-visits-new-zealand/index.html
+layout: layout.njk
 ---
 Australian student President visits New Zealand
 ===============================================

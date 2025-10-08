@@ -1,9 +1,11 @@
 ---
 slug: tertiary-update-vol-13-no-26
-title: "Tertiary Update Vol 13 No 26"
-date: 2010-07-15
+title: Tertiary Update Vol 13 No 26
+date: 2010-07-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1007/S00053/tertiary-update-vol-13-no-26.htm
 author: association-of-university-staff
+permalink: /archive/2010/07/15/tertiary-update-vol-13-no-26/index.html
+layout: layout.njk
 ---
 Tertiary Update Vol 13 No 26
 ============================

@@ -1,9 +1,12 @@
 ---
 slug: qantas-deal-turns-sour-for-workers
-title: "Qantas deal turns sour for workers"
-date: 2002-11-28
-source-url: https://www.scoop.co.nz/stories/PA0211/S00639/qantas-deal-turns-sour-for-workers.htm
+title: Qantas deal turns sour for workers
+date: 2002-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00639/qantas-deal-turns-sour-for-workers.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/28/qantas-deal-turns-sour-for-workers/index.html
+layout: layout.njk
 ---
 Qantas deal turns sour for workers
 ==================================

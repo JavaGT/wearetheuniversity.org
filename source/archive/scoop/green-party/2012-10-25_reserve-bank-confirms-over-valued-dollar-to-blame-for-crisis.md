@@ -1,9 +1,13 @@
 ---
 slug: reserve-bank-confirms-over-valued-dollar-to-blame-for-crisis
-title: "Reserve Bank confirms over-valued dollar to blame for crisis"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/PA1210/S00429/reserve-bank-confirms-over-valued-dollar-to-blame-for-crisis.htm
+title: Reserve Bank confirms over-valued dollar to blame for crisis
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00429/reserve-bank-confirms-over-valued-dollar-to-blame-for-crisis.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/25/reserve-bank-confirms-over-valued-dollar-to-blame-for-crisis/index.html
+layout: layout.njk
 ---
 Reserve Bank confirms over-valued dollar to blame for crisis
 ============================================================

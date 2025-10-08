@@ -1,9 +1,11 @@
 ---
 slug: goff-saving-for-our-future
-title: "Goff: Saving For Our Future"
-date: 2011-10-27
+title: 'Goff: Saving For Our Future'
+date: 2011-10-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1110/S00425/goff-saving-for-our-future.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/27/goff-saving-for-our-future/index.html
+layout: layout.njk
 ---
 Goff: Saving For Our Future
 ===========================

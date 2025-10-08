@@ -1,9 +1,12 @@
 ---
 slug: act-appoints-experienced-political-operator
-title: "ACT Appoints Experienced Political Operator"
-date: 2001-11-05
-source-url: https://www.scoop.co.nz/stories/PO0111/S00020/act-appoints-experienced-political-operator.htm
+title: ACT Appoints Experienced Political Operator
+date: 2001-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0111/S00020/act-appoints-experienced-political-operator.htm
 author: act-new-zealand
+permalink: /archive/2001/11/05/act-appoints-experienced-political-operator/index.html
+layout: layout.njk
 ---
 ACT Appoints Experienced Political Operator
 ===========================================

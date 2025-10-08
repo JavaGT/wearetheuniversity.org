@@ -1,9 +1,12 @@
 ---
 slug: brand-new-zealand-clean-green-and-clever
-title: "Brand New Zealand: clean, green and clever"
-date: 2011-11-05
-source-url: https://www.scoop.co.nz/stories/PA1111/S00093/brand-new-zealand-clean-green-and-clever.htm
+title: 'Brand New Zealand: clean, green and clever'
+date: 2011-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00093/brand-new-zealand-clean-green-and-clever.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/05/brand-new-zealand-clean-green-and-clever/index.html
+layout: layout.njk
 ---
 Brand New Zealand: clean, green and clever
 ==========================================

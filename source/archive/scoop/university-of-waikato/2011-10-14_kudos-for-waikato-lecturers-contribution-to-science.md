@@ -1,9 +1,13 @@
 ---
 slug: kudos-for-waikato-lecturers-contribution-to-science
-title: "Kudos for Waikato lecturer’s contribution to science"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/ED1110/S00059/kudos-for-waikato-lecturers-contribution-to-science.htm
+title: Kudos for Waikato lecturer’s contribution to science
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00059/kudos-for-waikato-lecturers-contribution-to-science.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/10/14/kudos-for-waikato-lecturers-contribution-to-science/index.html
+layout: layout.njk
 ---
 Kudos for Waikato lecturer’s contribution to science
 ====================================================

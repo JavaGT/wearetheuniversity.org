@@ -1,9 +1,12 @@
 ---
 slug: health-sector-work-stoppages-spiral
-title: "Health sector work stoppages spiral"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/PA0704/S00434/health-sector-work-stoppages-spiral.htm
+title: Health sector work stoppages spiral
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00434/health-sector-work-stoppages-spiral.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/26/health-sector-work-stoppages-spiral/index.html
+layout: layout.njk
 ---
 Health sector work stoppages spiral
 ===================================

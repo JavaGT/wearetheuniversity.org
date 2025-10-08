@@ -1,9 +1,12 @@
 ---
 slug: new-take-on-new-zealands-classic-literature
-title: "New take on New Zealand’s classic literature"
-date: 2013-11-07
-source-url: https://www.scoop.co.nz/stories/CU1311/S00160/new-take-on-new-zealands-classic-literature.htm
+title: New take on New Zealand’s classic literature
+date: 2013-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00160/new-take-on-new-zealands-classic-literature.htm
 author: university-of-waikato
+permalink: /archive/2013/11/07/new-take-on-new-zealands-classic-literature/index.html
+layout: layout.njk
 ---
 New take on New Zealand’s classic literature
 ============================================

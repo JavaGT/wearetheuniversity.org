@@ -1,9 +1,12 @@
 ---
 slug: christchurch-earthquake-bulletin-edition-117
-title: "Christchurch Earthquake bulletin edition 117"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/PA1109/S00457/christchurch-earthquake-bulletin-edition-117.htm
+title: Christchurch Earthquake bulletin edition 117
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00457/christchurch-earthquake-bulletin-edition-117.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/26/christchurch-earthquake-bulletin-edition-117/index.html
+layout: layout.njk
 ---
 Christchurch Earthquake bulletin edition 117
 ============================================

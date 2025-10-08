@@ -1,9 +1,13 @@
 ---
 slug: goff-says-monetary-policy-must-support-exporters
-title: "Goff says monetary policy must support exporters"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/PA1006/S00386/goff-says-monetary-policy-must-support-exporters.htm
+title: Goff says monetary policy must support exporters
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00386/goff-says-monetary-policy-must-support-exporters.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/06/24/goff-says-monetary-policy-must-support-exporters/index.html
+layout: layout.njk
 ---
 Goff says monetary policy must support exporters
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: exposure-to-second-hand-smoke-doubles-rates-of-asthma
-title: "Exposure to second hand smoke doubles rates of asthma"
-date: 2018-05-10
-source-url: https://www.scoop.co.nz/stories/GE1805/S00054/exposure-to-second-hand-smoke-doubles-rates-of-asthma.htm
+title: Exposure to second hand smoke doubles rates of asthma
+date: 2018-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00054/exposure-to-second-hand-smoke-doubles-rates-of-asthma.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/10/exposure-to-second-hand-smoke-doubles-rates-of-asthma/index.html
+layout: layout.njk
 ---
 Exposure to second hand smoke doubles rates of asthma
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: community-wins-in-battle-between-staff-and-students
-title: "Community Wins in Battle Between Staff and Students"
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/AK1204/S00489/community-wins-in-battle-between-staff-and-students.htm
+title: Community Wins in Battle Between Staff and Students
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1204/S00489/community-wins-in-battle-between-staff-and-students.htm
 author: ousa
+permalink: >-
+  /archive/2012/04/20/community-wins-in-battle-between-staff-and-students/index.html
+layout: layout.njk
 ---
 Community Wins in Battle Between Staff and Students
 ===================================================

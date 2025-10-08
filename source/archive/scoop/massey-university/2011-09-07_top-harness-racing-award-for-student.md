@@ -1,9 +1,12 @@
 ---
 slug: top-harness-racing-award-for-student
-title: "Top harness racing award for student"
-date: 2011-09-07
-source-url: https://www.scoop.co.nz/stories/ED1109/S00022/top-harness-racing-award-for-student.htm
+title: Top harness racing award for student
+date: 2011-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00022/top-harness-racing-award-for-student.htm
 author: massey-university
+permalink: /archive/2011/09/07/top-harness-racing-award-for-student/index.html
+layout: layout.njk
 ---
 Top harness racing award for student
 ====================================

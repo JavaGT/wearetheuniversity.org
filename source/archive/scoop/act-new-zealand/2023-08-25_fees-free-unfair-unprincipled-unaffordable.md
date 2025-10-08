@@ -1,9 +1,12 @@
 ---
 slug: fees-free-unfair-unprincipled-unaffordable
-title: "Fees-Free Unfair, Unprincipled, Unaffordable"
-date: 2023-08-25
-source-url: https://www.scoop.co.nz/stories/PA2308/S00168/fees-free-unfair-unprincipled-unaffordable.htm
+title: Fees-Free Unfair, Unprincipled, Unaffordable
+date: 2023-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00168/fees-free-unfair-unprincipled-unaffordable.htm
 author: act-new-zealand
+permalink: /archive/2023/08/25/fees-free-unfair-unprincipled-unaffordable/index.html
+layout: layout.njk
 ---
 Fees-Free Unfair, Unprincipled, Unaffordable
 ============================================

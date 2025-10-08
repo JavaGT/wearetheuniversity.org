@@ -1,9 +1,12 @@
 ---
 slug: neat-places-app-launched-by-canterbury-graduate
-title: "Neat places app launched by Canterbury graduate"
-date: 2014-11-24
-source-url: https://www.scoop.co.nz/stories/AK1411/S00548/neat-places-app-launched-by-canterbury-graduate.htm
+title: Neat places app launched by Canterbury graduate
+date: 2014-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00548/neat-places-app-launched-by-canterbury-graduate.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/24/neat-places-app-launched-by-canterbury-graduate/index.html
+layout: layout.njk
 ---
 Neat places app launched by Canterbury graduate
 ===============================================

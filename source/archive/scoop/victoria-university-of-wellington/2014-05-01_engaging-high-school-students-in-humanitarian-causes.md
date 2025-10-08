@@ -1,9 +1,13 @@
 ---
 slug: engaging-high-school-students-in-humanitarian-causes
-title: "Engaging high school students in humanitarian causes"
-date: 2014-05-01
-source-url: https://www.scoop.co.nz/stories/ED1405/S00003/engaging-high-school-students-in-humanitarian-causes.htm
+title: Engaging high school students in humanitarian causes
+date: 2014-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00003/engaging-high-school-students-in-humanitarian-causes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/01/engaging-high-school-students-in-humanitarian-causes/index.html
+layout: layout.njk
 ---
 Engaging high school students in humanitarian causes
 ====================================================

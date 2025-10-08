@@ -1,9 +1,12 @@
 ---
 slug: student-to-contest-wellington-seat-for-nz-first
-title: "Student To Contest Wellington Seat For NZ First"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PO1109/S00168/student-to-contest-wellington-seat-for-nz-first.htm
+title: Student To Contest Wellington Seat For NZ First
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00168/student-to-contest-wellington-seat-for-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2011/09/13/student-to-contest-wellington-seat-for-nz-first/index.html
+layout: layout.njk
 ---
 Student To Contest Wellington Seat For NZ First
 ===============================================

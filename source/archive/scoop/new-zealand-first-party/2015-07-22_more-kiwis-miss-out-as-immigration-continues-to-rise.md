@@ -1,9 +1,13 @@
 ---
 slug: more-kiwis-miss-out-as-immigration-continues-to-rise
-title: "More Kiwis Miss Out as Immigration Continues to Rise"
-date: 2015-07-22
-source-url: https://www.scoop.co.nz/stories/PA1507/S00351/more-kiwis-miss-out-as-immigration-continues-to-rise.htm
+title: More Kiwis Miss Out as Immigration Continues to Rise
+date: 2015-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00351/more-kiwis-miss-out-as-immigration-continues-to-rise.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/07/22/more-kiwis-miss-out-as-immigration-continues-to-rise/index.html
+layout: layout.njk
 ---
 More Kiwis Miss Out as Immigration Continues to Rise
 ====================================================

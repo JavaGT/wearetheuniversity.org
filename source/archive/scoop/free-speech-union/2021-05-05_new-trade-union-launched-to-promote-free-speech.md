@@ -1,9 +1,12 @@
 ---
 slug: new-trade-union-launched-to-promote-free-speech
-title: "New Trade Union Launched To Promote Free Speech"
-date: 2021-05-05
-source-url: https://www.scoop.co.nz/stories/AK2105/S00092/new-trade-union-launched-to-promote-free-speech.htm
+title: New Trade Union Launched To Promote Free Speech
+date: 2021-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2105/S00092/new-trade-union-launched-to-promote-free-speech.htm
 author: free-speech-union
+permalink: /archive/2021/05/05/new-trade-union-launched-to-promote-free-speech/index.html
+layout: layout.njk
 ---
 New Trade Union Launched To Promote Free Speech
 ===============================================

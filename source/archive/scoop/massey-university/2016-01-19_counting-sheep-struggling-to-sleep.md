@@ -1,9 +1,12 @@
 ---
 slug: counting-sheep-struggling-to-sleep
-title: "Counting sheep? Struggling to sleep?"
-date: 2016-01-19
-source-url: https://www.scoop.co.nz/stories/GE1601/S00032/counting-sheep-struggling-to-sleep.htm
+title: Counting sheep? Struggling to sleep?
+date: 2016-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1601/S00032/counting-sheep-struggling-to-sleep.htm
 author: massey-university
+permalink: /archive/2016/01/19/counting-sheep-struggling-to-sleep/index.html
+layout: layout.njk
 ---
 Counting sheep? Struggling to sleep?
 ====================================

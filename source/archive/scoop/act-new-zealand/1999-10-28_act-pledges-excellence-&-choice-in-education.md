@@ -1,9 +1,12 @@
 ---
 slug: act-pledges-excellence-&-choice-in-education
-title: "ACT Pledges Excellence & Choice In Education"
-date: 1999-10-28
-source-url: https://www.scoop.co.nz/stories/PA9910/S00644/act-pledges-excellence-choice-in-education.htm
+title: ACT Pledges Excellence & Choice In Education
+date: 1999-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00644/act-pledges-excellence-choice-in-education.htm
 author: act-new-zealand
+permalink: /archive/1999/10/28/act-pledges-excellence-/index.html
+layout: layout.njk
 ---
 ACT Pledges Excellence & Choice In Education
 ============================================

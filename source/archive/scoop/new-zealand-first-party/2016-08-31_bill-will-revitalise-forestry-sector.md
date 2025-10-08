@@ -1,9 +1,12 @@
 ---
 slug: bill-will-revitalise-forestry-sector
-title: "Bill will revitalise forestry sector"
-date: 2016-08-31
-source-url: https://www.scoop.co.nz/stories/PA1608/S00553/bill-will-revitalise-forestry-sector.htm
+title: Bill will revitalise forestry sector
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00553/bill-will-revitalise-forestry-sector.htm
 author: new-zealand-first-party
+permalink: /archive/2016/08/31/bill-will-revitalise-forestry-sector/index.html
+layout: layout.njk
 ---
 Bill will revitalise forestry sector
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: taewa-researcher-tracks-crops-to-united-states
-title: "Taewa researcher tracks crops to United States"
-date: 2013-03-11
-source-url: https://www.scoop.co.nz/stories/ED1303/S00071/taewa-researcher-tracks-crops-to-united-states.htm
+title: Taewa researcher tracks crops to United States
+date: 2013-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00071/taewa-researcher-tracks-crops-to-united-states.htm
 author: massey-university
+permalink: /archive/2013/03/11/taewa-researcher-tracks-crops-to-united-states/index.html
+layout: layout.njk
 ---
 Taewa researcher tracks crops to United States
 ==============================================

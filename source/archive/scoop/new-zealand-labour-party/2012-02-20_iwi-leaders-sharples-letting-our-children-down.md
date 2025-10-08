@@ -1,9 +1,12 @@
 ---
 slug: iwi-leaders-sharples-letting-our-children-down
-title: "Iwi leaders, Sharples letting our children down"
-date: 2012-02-20
-source-url: https://www.scoop.co.nz/stories/PA1202/S00230/iwi-leaders-sharples-letting-our-children-down.htm
+title: Iwi leaders, Sharples letting our children down
+date: 2012-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00230/iwi-leaders-sharples-letting-our-children-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/20/iwi-leaders-sharples-letting-our-children-down/index.html
+layout: layout.njk
 ---
 Iwi leaders, Sharples letting our children down
 ===============================================

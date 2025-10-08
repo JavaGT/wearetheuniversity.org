@@ -1,9 +1,12 @@
 ---
 slug: gastro-bug-appears-in-retreat
-title: "Gastro bug appears in retreat"
-date: 2008-11-03
-source-url: https://www.scoop.co.nz/stories/GE0811/S00003/gastro-bug-appears-in-retreat.htm
+title: Gastro bug appears in retreat
+date: 2008-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0811/S00003/gastro-bug-appears-in-retreat.htm
 author: massey-university
+permalink: /archive/2008/11/03/gastro-bug-appears-in-retreat/index.html
+layout: layout.njk
 ---
 Gastro bug appears in retreat
 =============================

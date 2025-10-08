@@ -1,9 +1,12 @@
 ---
 slug: train-teachers-for-kiwi-classrooms
-title: "Train teachers for Kiwi classrooms"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/PA1210/S00241/train-teachers-for-kiwi-classrooms.htm
+title: Train teachers for Kiwi classrooms
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00241/train-teachers-for-kiwi-classrooms.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/15/train-teachers-for-kiwi-classrooms/index.html
+layout: layout.njk
 ---
 Train teachers for Kiwi classrooms
 ==================================

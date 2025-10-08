@@ -1,9 +1,13 @@
 ---
 slug: canterburys-antarctic-researchers-react-to-budgets-scott-base-news
-title: "Canterbury’s Antarctic Researchers React To Budget’s Scott Base News"
-date: 2021-05-20
-source-url: https://www.scoop.co.nz/stories/BU2105/S00363/canterburys-antarctic-researchers-react-to-budgets-scott-base-news.htm
+title: Canterbury’s Antarctic Researchers React To Budget’s Scott Base News
+date: 2021-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2105/S00363/canterburys-antarctic-researchers-react-to-budgets-scott-base-news.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/20/canterburys-antarctic-researchers-react-to-budgets-scott-base-news/index.html
+layout: layout.njk
 ---
 Canterbury’s Antarctic Researchers React To Budget’s Scott Base News
 ====================================================================

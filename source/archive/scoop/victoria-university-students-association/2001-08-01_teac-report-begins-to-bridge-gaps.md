@@ -1,9 +1,12 @@
 ---
 slug: teac-report-begins-to-bridge-gaps
-title: "TEAC Report Begins To Bridge Gaps"
-date: 2001-08-01
-source-url: https://www.scoop.co.nz/stories/ED0108/S00008/teac-report-begins-to-bridge-gaps.htm
+title: TEAC Report Begins To Bridge Gaps
+date: 2001-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00008/teac-report-begins-to-bridge-gaps.htm
 author: victoria-university-students-association
+permalink: /archive/2001/08/01/teac-report-begins-to-bridge-gaps/index.html
+layout: layout.njk
 ---
 TEAC Report Begins To Bridge Gaps
 =================================

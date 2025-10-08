@@ -1,9 +1,13 @@
 ---
 slug: call-for-independent-authority-on-miscarriages-of-justice
-title: "Call for independent authority on miscarriages of justice"
-date: 2014-01-02
-source-url: https://www.scoop.co.nz/stories/PA1401/S00002/call-for-independent-authority-on-miscarriages-of-justice.htm
+title: Call for independent authority on miscarriages of justice
+date: 2014-01-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00002/call-for-independent-authority-on-miscarriages-of-justice.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/01/02/call-for-independent-authority-on-miscarriages-of-justice/index.html
+layout: layout.njk
 ---
 Call for independent authority on miscarriages of justice
 =========================================================

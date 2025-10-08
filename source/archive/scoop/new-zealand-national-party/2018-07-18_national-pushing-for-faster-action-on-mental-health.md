@@ -1,9 +1,13 @@
 ---
 slug: national-pushing-for-faster-action-on-mental-health
-title: "National pushing for faster action on mental health"
-date: 2018-07-18
-source-url: https://www.scoop.co.nz/stories/PA1807/S00145/national-pushing-for-faster-action-on-mental-health.htm
+title: National pushing for faster action on mental health
+date: 2018-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00145/national-pushing-for-faster-action-on-mental-health.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/07/18/national-pushing-for-faster-action-on-mental-health/index.html
+layout: layout.njk
 ---
 National pushing for faster action on mental health
 ===================================================

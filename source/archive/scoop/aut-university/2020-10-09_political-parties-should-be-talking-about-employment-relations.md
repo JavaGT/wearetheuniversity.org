@@ -1,9 +1,13 @@
 ---
 slug: political-parties-should-be-talking-about-employment-relations
-title: "Political Parties Should Be Talking About Employment Relations"
-date: 2020-10-09
-source-url: https://www.scoop.co.nz/stories/PO2010/S00130/political-parties-should-be-talking-about-employment-relations.htm
+title: Political Parties Should Be Talking About Employment Relations
+date: 2020-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00130/political-parties-should-be-talking-about-employment-relations.htm
 author: aut-university
+permalink: >-
+  /archive/2020/10/09/political-parties-should-be-talking-about-employment-relations/index.html
+layout: layout.njk
 ---
 Political Parties Should Be Talking About Employment Relations
 ==============================================================

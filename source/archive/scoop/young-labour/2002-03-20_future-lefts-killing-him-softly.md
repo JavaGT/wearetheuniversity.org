@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-killing-him-softly
-title: "Future Lefts – Killing him softly"
-date: 2002-03-20
-source-url: https://www.scoop.co.nz/stories/PO0203/S00100/future-lefts-killing-him-softly.htm
+title: Future Lefts – Killing him softly
+date: 2002-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0203/S00100/future-lefts-killing-him-softly.htm
 author: young-labour
+permalink: /archive/2002/03/20/future-lefts-killing-him-softly/index.html
+layout: layout.njk
 ---
 Future Lefts – Killing him softly
 =================================

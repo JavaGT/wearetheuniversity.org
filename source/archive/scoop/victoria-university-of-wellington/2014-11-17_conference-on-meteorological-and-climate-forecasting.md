@@ -1,9 +1,13 @@
 ---
 slug: conference-on-meteorological-and-climate-forecasting
-title: "Conference on meteorological and climate forecasting"
-date: 2014-11-17
-source-url: https://www.scoop.co.nz/stories/SC1411/S00050/conference-on-meteorological-and-climate-forecasting.htm
+title: Conference on meteorological and climate forecasting
+date: 2014-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00050/conference-on-meteorological-and-climate-forecasting.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/11/17/conference-on-meteorological-and-climate-forecasting/index.html
+layout: layout.njk
 ---
 Conference on meteorological and climate forecasting
 ====================================================

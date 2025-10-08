@@ -1,9 +1,12 @@
 ---
 slug: health-system-working-but-could-do-better
-title: "Health System Working - But Could Do Better"
-date: 2007-05-02
-source-url: https://www.scoop.co.nz/stories/PA0705/S00055/health-system-working-but-could-do-better.htm
+title: Health System Working - But Could Do Better
+date: 2007-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00055/health-system-working-but-could-do-better.htm
 author: new-zealand-first-party
+permalink: /archive/2007/05/02/health-system-working-but-could-do-better/index.html
+layout: layout.njk
 ---
 Health System Working - But Could Do Better
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: partnership-will-create-new-routes-to-markets
-title: "Partnership Will Create New Routes To Markets"
-date: 2007-06-20
-source-url: https://www.scoop.co.nz/stories/BU0706/S00321/partnership-will-create-new-routes-to-markets.htm
+title: Partnership Will Create New Routes To Markets
+date: 2007-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0706/S00321/partnership-will-create-new-routes-to-markets.htm
 author: massey-university
+permalink: /archive/2007/06/20/partnership-will-create-new-routes-to-markets/index.html
+layout: layout.njk
 ---
 Partnership Will Create New Routes To Markets
 =============================================

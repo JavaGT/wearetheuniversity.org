@@ -1,9 +1,13 @@
 ---
 slug: sheep-dairying-and-slam-poetry-at-massey-open-day
-title: "Sheep dairying and slam poetry at Massey Open Day"
-date: 2016-08-01
-source-url: https://www.scoop.co.nz/stories/ED1608/S00003/sheep-dairying-and-slam-poetry-at-massey-open-day.htm
+title: Sheep dairying and slam poetry at Massey Open Day
+date: 2016-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00003/sheep-dairying-and-slam-poetry-at-massey-open-day.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/01/sheep-dairying-and-slam-poetry-at-massey-open-day/index.html
+layout: layout.njk
 ---
 Sheep dairying and slam poetry at Massey Open Day
 =================================================

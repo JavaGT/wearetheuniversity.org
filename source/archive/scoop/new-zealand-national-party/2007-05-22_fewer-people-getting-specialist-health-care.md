@@ -1,9 +1,12 @@
 ---
 slug: fewer-people-getting-specialist-health-care
-title: "Fewer people getting specialist health care"
-date: 2007-05-22
-source-url: https://www.scoop.co.nz/stories/PA0705/S00587/fewer-people-getting-specialist-health-care.htm
+title: Fewer people getting specialist health care
+date: 2007-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00587/fewer-people-getting-specialist-health-care.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/22/fewer-people-getting-specialist-health-care/index.html
+layout: layout.njk
 ---
 Fewer people getting specialist health care
 ===========================================

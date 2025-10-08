@@ -1,9 +1,12 @@
 ---
 slug: be-open-on-exit-payment-urges-national
-title: "Be open on ‘exit payment’ urges National"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/PA0701/S00216/be-open-on-exit-payment-urges-national.htm
+title: Be open on ‘exit payment’ urges National
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00216/be-open-on-exit-payment-urges-national.htm
 author: new-zealand-national-party
+permalink: /archive/2007/01/31/be-open-on-exit-payment-urges-national/index.html
+layout: layout.njk
 ---
 Be open on ‘exit payment’ urges National
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: national-reneges-on-assurance-about-anti-student-bill
-title: "National Reneges on Assurance About Anti-student Bill"
-date: 2011-08-03
-source-url: https://www.scoop.co.nz/stories/ED1108/S00024/national-reneges-on-assurance-about-anti-student-bill.htm
+title: National Reneges on Assurance About Anti-student Bill
+date: 2011-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00024/national-reneges-on-assurance-about-anti-student-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/08/03/national-reneges-on-assurance-about-anti-student-bill/index.html
+layout: layout.njk
 ---
 National Reneges on Assurance About Anti-student Bill
 =====================================================

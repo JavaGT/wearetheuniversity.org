@@ -1,9 +1,12 @@
 ---
 slug: music-biggest-highlight-of-moana
-title: "Music – Biggest Highlight of Moana"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/CU1611/S00334/music-biggest-highlight-of-moana.htm
+title: Music – Biggest Highlight of Moana
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1611/S00334/music-biggest-highlight-of-moana.htm
 author: university-of-the-south-pacific
+permalink: /archive/2016/11/24/music-biggest-highlight-of-moana/index.html
+layout: layout.njk
 ---
 Music – Biggest Highlight of Moana
 ==================================

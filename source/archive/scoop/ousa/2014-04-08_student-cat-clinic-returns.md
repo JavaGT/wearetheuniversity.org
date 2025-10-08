@@ -1,9 +1,11 @@
 ---
 slug: student-cat-clinic-returns
-title: "Student Cat Clinic Returns"
-date: 2014-04-08
+title: Student Cat Clinic Returns
+date: 2014-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1404/S00155/student-cat-clinic-returns.htm
 author: ousa
+permalink: /archive/2014/04/08/student-cat-clinic-returns/index.html
+layout: layout.njk
 ---
 Student Cat Clinic Returns
 ==========================

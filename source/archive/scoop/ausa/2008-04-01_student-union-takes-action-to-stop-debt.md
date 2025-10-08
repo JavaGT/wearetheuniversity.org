@@ -1,9 +1,12 @@
 ---
 slug: student-union-takes-action-to-stop-debt
-title: "Student union takes action to stop debt"
-date: 2008-04-01
-source-url: https://www.scoop.co.nz/stories/PO0804/S00005/student-union-takes-action-to-stop-debt.htm
+title: Student union takes action to stop debt
+date: 2008-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0804/S00005/student-union-takes-action-to-stop-debt.htm
 author: ausa
+permalink: /archive/2008/04/01/student-union-takes-action-to-stop-debt/index.html
+layout: layout.njk
 ---
 Student union takes action to stop debt
 =======================================

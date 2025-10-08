@@ -1,9 +1,12 @@
 ---
 slug: key-shouldnt-take-new-zealand-to-war
-title: "Key shouldn’t take New Zealand to war"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/PA1411/S00025/key-shouldnt-take-new-zealand-to-war.htm
+title: Key shouldn’t take New Zealand to war
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00025/key-shouldnt-take-new-zealand-to-war.htm
 author: green-party
+permalink: /archive/2014/11/04/key-shouldnt-take-new-zealand-to-war/index.html
+layout: layout.njk
 ---
 Key shouldn’t take New Zealand to war
 =====================================

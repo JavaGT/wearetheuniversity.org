@@ -1,9 +1,12 @@
 ---
 slug: campaign-against-lomborg-is-discredited
-title: "Campaign Against Lomborg Is Discredited"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/BU0312/S00211/campaign-against-lomborg-is-discredited.htm
+title: Campaign Against Lomborg Is Discredited
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0312/S00211/campaign-against-lomborg-is-discredited.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2003/12/18/campaign-against-lomborg-is-discredited/index.html
+layout: layout.njk
 ---
 Campaign Against Lomborg Is Discredited
 =======================================

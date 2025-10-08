@@ -1,9 +1,12 @@
 ---
 slug: future-dim-for-bright-future-scholarships
-title: "Future Dim For Bright Future Scholarships?"
-date: 2000-11-22
-source-url: https://www.scoop.co.nz/stories/PA0011/S00384/future-dim-for-bright-future-scholarships.htm
+title: Future Dim For Bright Future Scholarships?
+date: 2000-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00384/future-dim-for-bright-future-scholarships.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/22/future-dim-for-bright-future-scholarships/index.html
+layout: layout.njk
 ---
 Future Dim For Bright Future Scholarships?
 ==========================================

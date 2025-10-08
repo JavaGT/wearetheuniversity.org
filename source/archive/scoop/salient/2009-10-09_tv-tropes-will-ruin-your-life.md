@@ -1,9 +1,12 @@
 ---
 slug: tv-tropes-will-ruin-your-life
-title: "TV Tropes Will Ruin Your Life"
-date: 2009-10-09
-source-url: https://www.scoop.co.nz/stories/HL0910/S00084/tv-tropes-will-ruin-your-life.htm
+title: TV Tropes Will Ruin Your Life
+date: 2009-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0910/S00084/tv-tropes-will-ruin-your-life.htm
 author: salient
+permalink: /archive/2009/10/09/tv-tropes-will-ruin-your-life/index.html
+layout: layout.njk
 ---
 TV Tropes Will Ruin Your Life
 =============================

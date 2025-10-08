@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-to-help-with-forestry-safety
-title: "University of Canterbury to help with forestry safety"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PO1409/S00035/university-of-canterbury-to-help-with-forestry-safety.htm
+title: University of Canterbury to help with forestry safety
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00035/university-of-canterbury-to-help-with-forestry-safety.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/02/university-of-canterbury-to-help-with-forestry-safety/index.html
+layout: layout.njk
 ---
 University of Canterbury to help with forestry safety
 =====================================================

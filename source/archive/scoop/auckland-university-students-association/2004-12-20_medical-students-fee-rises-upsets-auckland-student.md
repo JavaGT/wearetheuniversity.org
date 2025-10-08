@@ -1,9 +1,13 @@
 ---
 slug: medical-students-fee-rises-upsets-auckland-student
-title: "Medical Students Fee Rises Upsets Auckland Student"
-date: 2004-12-20
-source-url: https://www.scoop.co.nz/stories/ED0412/S00070/medical-students-fee-rises-upsets-auckland-student.htm
+title: Medical Students Fee Rises Upsets Auckland Student
+date: 2004-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00070/medical-students-fee-rises-upsets-auckland-student.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2004/12/20/medical-students-fee-rises-upsets-auckland-student/index.html
+layout: layout.njk
 ---
 Medical Students Fee Rises Upsets Auckland Student
 ==================================================

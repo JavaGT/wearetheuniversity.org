@@ -1,9 +1,12 @@
 ---
 slug: whats-2-pies-a-week-a-bad-joke!
-title: "What’s 2 pies a week? A bad joke!"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PO0805/S00348/whats-2-pies-a-week-a-bad-joke.htm
+title: What’s 2 pies a week? A bad joke!
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0805/S00348/whats-2-pies-a-week-a-bad-joke.htm
 author: ausa
+permalink: /archive/2008/05/22/whats-2-pies-a-week-a-bad-joke/index.html
+layout: layout.njk
 ---
 What’s 2 pies a week? A bad joke!
 =================================

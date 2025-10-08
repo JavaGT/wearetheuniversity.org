@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-restore-confidence-in-fisheries-management
-title: "Govt needs to restore confidence in fisheries management"
-date: 2016-02-10
-source-url: https://www.scoop.co.nz/stories/PA1602/S00103/govt-needs-to-restore-confidence-in-fisheries-management.htm
+title: Govt needs to restore confidence in fisheries management
+date: 2016-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00103/govt-needs-to-restore-confidence-in-fisheries-management.htm
 author: green-party
+permalink: >-
+  /archive/2016/02/10/govt-needs-to-restore-confidence-in-fisheries-management/index.html
+layout: layout.njk
 ---
 Govt needs to restore confidence in fisheries management
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: noel-leeming-acquisition-will-strengthen-the-warehouse
-title: "Noel Leeming Acquisition Will Strengthen The Warehouse"
-date: 2012-12-10
-source-url: https://www.scoop.co.nz/stories/BU1212/S00321/noel-leeming-acquisition-will-strengthen-the-warehouse.htm
+title: Noel Leeming Acquisition Will Strengthen The Warehouse
+date: 2012-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1212/S00321/noel-leeming-acquisition-will-strengthen-the-warehouse.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/10/noel-leeming-acquisition-will-strengthen-the-warehouse/index.html
+layout: layout.njk
 ---
 Noel Leeming Acquisition Will Strengthen The Warehouse
 ======================================================

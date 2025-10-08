@@ -1,9 +1,12 @@
 ---
 slug: flavell-mauao-historic-reserve-vesting-bill
-title: "Flavell: Mauao Historic Reserve Vesting Bill"
-date: 2007-12-13
-source-url: https://www.scoop.co.nz/stories/PA0712/S00295/flavell-mauao-historic-reserve-vesting-bill.htm
+title: 'Flavell: Mauao Historic Reserve Vesting Bill'
+date: 2007-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00295/flavell-mauao-historic-reserve-vesting-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/13/flavell-mauao-historic-reserve-vesting-bill/index.html
+layout: layout.njk
 ---
 Flavell: Mauao Historic Reserve Vesting Bill
 ============================================

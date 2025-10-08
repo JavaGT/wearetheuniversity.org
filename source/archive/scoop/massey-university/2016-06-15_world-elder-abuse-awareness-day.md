@@ -1,9 +1,12 @@
 ---
 slug: world-elder-abuse-awareness-day
-title: "World Elder Abuse Awareness Day"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00050/world-elder-abuse-awareness-day.htm
+title: World Elder Abuse Awareness Day
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00050/world-elder-abuse-awareness-day.htm
 author: massey-university
+permalink: /archive/2016/06/15/world-elder-abuse-awareness-day/index.html
+layout: layout.njk
 ---
 World Elder Abuse Awareness Day
 ===============================

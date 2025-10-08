@@ -1,9 +1,12 @@
 ---
 slug: act-bill-an-attack-on-students
-title: "Act Bill an attack on students"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/ED0909/S00089/act-bill-an-attack-on-students.htm
+title: Act Bill an attack on students
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00089/act-bill-an-attack-on-students.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/09/23/act-bill-an-attack-on-students/index.html
+layout: layout.njk
 ---
 Act Bill an attack on students
 ==============================

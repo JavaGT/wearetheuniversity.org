@@ -1,9 +1,13 @@
 ---
 slug: race-guilty-verdict-a-disaster-for-all-nz-events
-title: "Race guilty verdict a disaster for all NZ events"
-date: 2003-08-10
-source-url: https://www.scoop.co.nz/stories/PA0308/S00191/race-guilty-verdict-a-disaster-for-all-nz-events.htm
+title: Race guilty verdict a disaster for all NZ events
+date: 2003-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00191/race-guilty-verdict-a-disaster-for-all-nz-events.htm
 author: green-party
+permalink: >-
+  /archive/2003/08/10/race-guilty-verdict-a-disaster-for-all-nz-events/index.html
+layout: layout.njk
 ---
 Race guilty verdict a disaster for all NZ events
 ================================================

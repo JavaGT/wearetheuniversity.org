@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-next-director-of-development
-title: "Otago appoints next Director of Development"
-date: 2011-12-13
-source-url: https://www.scoop.co.nz/stories/ED1112/S00067/otago-appoints-next-director-of-development.htm
+title: Otago appoints next Director of Development
+date: 2011-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00067/otago-appoints-next-director-of-development.htm
 author: university-of-otago
+permalink: /archive/2011/12/13/otago-appoints-next-director-of-development/index.html
+layout: layout.njk
 ---
 Otago appoints next Director of Development
 ===========================================

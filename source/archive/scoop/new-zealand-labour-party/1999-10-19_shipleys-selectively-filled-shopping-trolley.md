@@ -1,9 +1,12 @@
 ---
 slug: shipleys-selectively-filled-shopping-trolley
-title: "Shipley's selectively filled shopping trolley"
-date: 1999-10-19
-source-url: https://www.scoop.co.nz/stories/PA9910/S00427/shipleys-selectively-filled-shopping-trolley.htm
+title: Shipley's selectively filled shopping trolley
+date: 1999-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00427/shipleys-selectively-filled-shopping-trolley.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/19/shipleys-selectively-filled-shopping-trolley/index.html
+layout: layout.njk
 ---
 Shipley's selectively filled shopping trolley
 =============================================

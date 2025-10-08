@@ -1,9 +1,12 @@
 ---
 slug: osh-law-another-business-stranglehold
-title: "OSH law another business stranglehold"
-date: 2001-11-23
-source-url: https://www.scoop.co.nz/stories/PA0111/S00409/osh-law-another-business-stranglehold.htm
+title: OSH law another business stranglehold
+date: 2001-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00409/osh-law-another-business-stranglehold.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/23/osh-law-another-business-stranglehold/index.html
+layout: layout.njk
 ---
 OSH law another business stranglehold
 =====================================

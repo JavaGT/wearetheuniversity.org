@@ -1,9 +1,12 @@
 ---
 slug: curran-launches-campaign-for-dunedin-south
-title: "Curran launches campaign for Dunedin South"
-date: 2008-09-05
-source-url: https://www.scoop.co.nz/stories/PO0809/S00067/curran-launches-campaign-for-dunedin-south.htm
+title: Curran launches campaign for Dunedin South
+date: 2008-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00067/curran-launches-campaign-for-dunedin-south.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/09/05/curran-launches-campaign-for-dunedin-south/index.html
+layout: layout.njk
 ---
 Curran launches campaign for Dunedin South
 ==========================================

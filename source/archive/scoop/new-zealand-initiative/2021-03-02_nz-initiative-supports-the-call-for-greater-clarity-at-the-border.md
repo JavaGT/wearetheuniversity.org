@@ -1,9 +1,13 @@
 ---
 slug: nz-initiative-supports-the-call-for-greater-clarity-at-the-border
-title: "NZ Initiative Supports The Call For Greater Clarity At The Border"
-date: 2021-03-02
-source-url: https://www.scoop.co.nz/stories/PO2103/S00017/nz-initiative-supports-the-call-for-greater-clarity-at-the-border.htm
+title: NZ Initiative Supports The Call For Greater Clarity At The Border
+date: 2021-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2103/S00017/nz-initiative-supports-the-call-for-greater-clarity-at-the-border.htm
 author: new-zealand-initiative
+permalink: >-
+  /archive/2021/03/02/nz-initiative-supports-the-call-for-greater-clarity-at-the-border/index.html
+layout: layout.njk
 ---
 NZ Initiative Supports The Call For Greater Clarity At The Border
 =================================================================

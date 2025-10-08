@@ -1,9 +1,12 @@
 ---
 slug: parents-bail-labour-out-on-school-funding
-title: "Parents bail Labour out on school funding"
-date: 2007-08-28
-source-url: https://www.scoop.co.nz/stories/PA0708/S00482/parents-bail-labour-out-on-school-funding.htm
+title: Parents bail Labour out on school funding
+date: 2007-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00482/parents-bail-labour-out-on-school-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/28/parents-bail-labour-out-on-school-funding/index.html
+layout: layout.njk
 ---
 Parents bail Labour out on school funding
 =========================================

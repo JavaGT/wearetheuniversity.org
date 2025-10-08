@@ -1,9 +1,13 @@
 ---
 slug: future-generations-could-face-sea-levels-20-metres-higher
-title: "Future generations could face sea levels 20 metres higher"
-date: 2012-03-20
-source-url: https://www.scoop.co.nz/stories/SC1203/S00042/future-generations-could-face-sea-levels-20-metres-higher.htm
+title: Future generations could face sea levels 20 metres higher
+date: 2012-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1203/S00042/future-generations-could-face-sea-levels-20-metres-higher.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/03/20/future-generations-could-face-sea-levels-20-metres-higher/index.html
+layout: layout.njk
 ---
 Future generations could face sea levels 20 metres higher
 =========================================================

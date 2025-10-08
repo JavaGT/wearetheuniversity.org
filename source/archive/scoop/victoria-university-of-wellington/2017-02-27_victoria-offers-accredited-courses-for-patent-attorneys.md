@@ -1,9 +1,13 @@
 ---
 slug: victoria-offers-accredited-courses-for-patent-attorneys
-title: "Victoria offers accredited courses for patent attorneys"
-date: 2017-02-27
-source-url: https://www.scoop.co.nz/stories/ED1702/S00076/victoria-offers-accredited-courses-for-patent-attorneys.htm
+title: Victoria offers accredited courses for patent attorneys
+date: 2017-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00076/victoria-offers-accredited-courses-for-patent-attorneys.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/02/27/victoria-offers-accredited-courses-for-patent-attorneys/index.html
+layout: layout.njk
 ---
 Victoria offers accredited courses for patent attorneys
 =======================================================

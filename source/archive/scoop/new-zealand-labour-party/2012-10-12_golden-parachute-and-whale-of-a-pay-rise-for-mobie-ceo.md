@@ -1,9 +1,13 @@
 ---
 slug: golden-parachute-and-whale-of-a-pay-rise-for-mobie-ceo
-title: "Golden parachute and whale of a pay rise for MoBIE CEO"
-date: 2012-10-12
-source-url: https://www.scoop.co.nz/stories/PA1210/S00228/golden-parachute-and-whale-of-a-pay-rise-for-mobie-ceo.htm
+title: Golden parachute and whale of a pay rise for MoBIE CEO
+date: 2012-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00228/golden-parachute-and-whale-of-a-pay-rise-for-mobie-ceo.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/12/golden-parachute-and-whale-of-a-pay-rise-for-mobie-ceo/index.html
+layout: layout.njk
 ---
 Golden parachute and whale of a pay rise for MoBIE CEO
 ======================================================

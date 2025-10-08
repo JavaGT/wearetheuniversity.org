@@ -1,9 +1,13 @@
 ---
 slug: student-voters-to-be-better-informed-for-the-election
-title: "Student voters to be better informed for the election"
-date: 2011-10-27
-source-url: https://www.scoop.co.nz/stories/ED1110/S00124/student-voters-to-be-better-informed-for-the-election.htm
+title: Student voters to be better informed for the election
+date: 2011-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00124/student-voters-to-be-better-informed-for-the-election.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/10/27/student-voters-to-be-better-informed-for-the-election/index.html
+layout: layout.njk
 ---
 Student voters to be better informed for the election
 =====================================================

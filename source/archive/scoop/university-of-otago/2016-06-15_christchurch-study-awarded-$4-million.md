@@ -1,9 +1,12 @@
 ---
 slug: christchurch-study-awarded-$4-million
-title: "Christchurch study awarded $4 million"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/ED1606/S00045/christchurch-study-awarded-4-million.htm
+title: Christchurch study awarded $4 million
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00045/christchurch-study-awarded-4-million.htm
 author: university-of-otago
+permalink: /archive/2016/06/15/christchurch-study-awarded-/index.html
+layout: layout.njk
 ---
 Christchurch study awarded $4 million
 =====================================

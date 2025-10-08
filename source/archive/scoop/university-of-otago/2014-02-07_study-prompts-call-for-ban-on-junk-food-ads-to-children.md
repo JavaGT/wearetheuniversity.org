@@ -1,9 +1,13 @@
 ---
 slug: study-prompts-call-for-ban-on-junk-food-ads-to-children
-title: "Study prompts call for ban on junk food ads to children"
-date: 2014-02-07
-source-url: https://www.scoop.co.nz/stories/GE1402/S00028/study-prompts-call-for-ban-on-junk-food-ads-to-children.htm
+title: Study prompts call for ban on junk food ads to children
+date: 2014-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1402/S00028/study-prompts-call-for-ban-on-junk-food-ads-to-children.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/07/study-prompts-call-for-ban-on-junk-food-ads-to-children/index.html
+layout: layout.njk
 ---
 Study prompts call for ban on junk food ads to children
 =======================================================

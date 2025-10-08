@@ -1,9 +1,12 @@
 ---
 slug: incompetence-shatters-optimism
-title: "Incompetence Shatters Optimism"
-date: 2020-06-19
-source-url: https://www.scoop.co.nz/stories/PA2006/S00184/incompetence-shatters-optimism.htm
+title: Incompetence Shatters Optimism
+date: 2020-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00184/incompetence-shatters-optimism.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/19/incompetence-shatters-optimism/index.html
+layout: layout.njk
 ---
 Incompetence Shatters Optimism
 ==============================

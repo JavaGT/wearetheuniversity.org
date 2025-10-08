@@ -1,9 +1,13 @@
 ---
 slug: investing-in-start-ups-or-funding-incubator-managers
-title: "Investing in start-ups or funding incubator managers?"
-date: 2013-07-25
-source-url: https://www.scoop.co.nz/stories/BU1307/S00956/investing-in-start-ups-or-funding-incubator-managers.htm
+title: Investing in start-ups or funding incubator managers?
+date: 2013-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00956/investing-in-start-ups-or-funding-incubator-managers.htm
 author: aut-university
+permalink: >-
+  /archive/2013/07/25/investing-in-start-ups-or-funding-incubator-managers/index.html
+layout: layout.njk
 ---
 Investing in start-ups or funding incubator managers?
 =====================================================

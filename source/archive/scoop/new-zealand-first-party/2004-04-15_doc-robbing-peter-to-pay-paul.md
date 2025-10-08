@@ -1,9 +1,12 @@
 ---
 slug: doc-robbing-peter-to-pay-paul
-title: "DOC Robbing Peter To Pay Paul"
-date: 2004-04-15
-source-url: https://www.scoop.co.nz/stories/PA0404/S00246/doc-robbing-peter-to-pay-paul.htm
+title: DOC Robbing Peter To Pay Paul
+date: 2004-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00246/doc-robbing-peter-to-pay-paul.htm
 author: new-zealand-first-party
+permalink: /archive/2004/04/15/doc-robbing-peter-to-pay-paul/index.html
+layout: layout.njk
 ---
 DOC Robbing Peter To Pay Paul
 =============================

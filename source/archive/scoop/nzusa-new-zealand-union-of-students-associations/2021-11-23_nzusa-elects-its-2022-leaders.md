@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-its-2022-leaders
-title: "NZUSA Elects Its 2022 Leaders"
-date: 2021-11-23
-source-url: https://www.scoop.co.nz/stories/PO2111/S00219/nzusa-elects-its-2022-leaders.htm
+title: NZUSA Elects Its 2022 Leaders
+date: 2021-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00219/nzusa-elects-its-2022-leaders.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2021/11/23/nzusa-elects-its-2022-leaders/index.html
+layout: layout.njk
 ---
 NZUSA Elects Its 2022 Leaders
 =============================

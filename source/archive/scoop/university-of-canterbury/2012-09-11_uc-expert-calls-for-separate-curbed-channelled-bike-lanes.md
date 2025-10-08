@@ -1,9 +1,13 @@
 ---
 slug: uc-expert-calls-for-separate-curbed-channelled-bike-lanes
-title: "UC expert calls for separate curbed-channelled bike lanes"
-date: 2012-09-11
-source-url: https://www.scoop.co.nz/stories/PO1209/S00130/uc-expert-calls-for-separate-curbed-channelled-bike-lanes.htm
+title: UC expert calls for separate curbed-channelled bike lanes
+date: 2012-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1209/S00130/uc-expert-calls-for-separate-curbed-channelled-bike-lanes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/11/uc-expert-calls-for-separate-curbed-channelled-bike-lanes/index.html
+layout: layout.njk
 ---
 UC expert calls for separate curbed-channelled bike lanes
 =========================================================

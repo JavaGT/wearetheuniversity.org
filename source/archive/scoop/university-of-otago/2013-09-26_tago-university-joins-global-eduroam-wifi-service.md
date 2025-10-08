@@ -1,9 +1,13 @@
 ---
 slug: tago-university-joins-global-eduroam-wifi-service
-title: "tago University joins global eduroam™ WiFi service"
-date: 2013-09-26
-source-url: https://www.scoop.co.nz/stories/ED1309/S00156/tago-university-joins-global-eduroam-wifi-service.htm
+title: tago University joins global eduroam™ WiFi service
+date: 2013-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00156/tago-university-joins-global-eduroam-wifi-service.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/09/26/tago-university-joins-global-eduroam-wifi-service/index.html
+layout: layout.njk
 ---
 tago University joins global eduroam™ WiFi service
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: getting-research-answers-off-pat
-title: "Getting research answers off pat"
-date: 2007-03-09
-source-url: https://www.scoop.co.nz/stories/ED0703/S00031/getting-research-answers-off-pat.htm
+title: Getting research answers off pat
+date: 2007-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00031/getting-research-answers-off-pat.htm
 author: lincoln-university
+permalink: /archive/2007/03/09/getting-research-answers-off-pat/index.html
+layout: layout.njk
 ---
 Getting research answers off pat
 ================================

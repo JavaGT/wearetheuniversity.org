@@ -1,9 +1,13 @@
 ---
 slug: deport-organised-criminals-dont-hold-your-breath
-title: "Deport Organised Criminals? Don't Hold Your Breath"
-date: 2004-06-01
-source-url: https://www.scoop.co.nz/stories/PA0406/S00015/deport-organised-criminals-dont-hold-your-breath.htm
+title: Deport Organised Criminals? Don't Hold Your Breath
+date: 2004-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00015/deport-organised-criminals-dont-hold-your-breath.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2004/06/01/deport-organised-criminals-dont-hold-your-breath/index.html
+layout: layout.njk
 ---
 Deport Organised Criminals? Don't Hold Your Breath
 ==================================================

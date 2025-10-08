@@ -1,9 +1,13 @@
 ---
 slug: reduced-quality-of-education-reflected-in-qs-rankings
-title: "Reduced quality of education reflected in QS Rankings"
-date: 2013-09-13
-source-url: https://www.scoop.co.nz/stories/ED1309/S00075/reduced-quality-of-education-reflected-in-qs-rankings.htm
+title: Reduced quality of education reflected in QS Rankings
+date: 2013-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00075/reduced-quality-of-education-reflected-in-qs-rankings.htm
 author: ausa
+permalink: >-
+  /archive/2013/09/13/reduced-quality-of-education-reflected-in-qs-rankings/index.html
+layout: layout.njk
 ---
 Reduced quality of education reflected in QS Rankings
 =====================================================

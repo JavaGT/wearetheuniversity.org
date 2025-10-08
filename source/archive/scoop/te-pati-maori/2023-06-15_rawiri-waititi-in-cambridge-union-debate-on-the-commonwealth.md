@@ -1,9 +1,13 @@
 ---
 slug: rawiri-waititi-in-cambridge-union-debate-on-the-commonwealth
-title: "Rawiri Waititi In Cambridge Union Debate On The Commonwealth"
-date: 2023-06-15
-source-url: https://www.scoop.co.nz/stories/PA2306/S00094/rawiri-waititi-in-cambridge-union-debate-on-the-commonwealth.htm
+title: Rawiri Waititi In Cambridge Union Debate On The Commonwealth
+date: 2023-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00094/rawiri-waititi-in-cambridge-union-debate-on-the-commonwealth.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2023/06/15/rawiri-waititi-in-cambridge-union-debate-on-the-commonwealth/index.html
+layout: layout.njk
 ---
 Rawiri Waititi In Cambridge Union Debate On The Commonwealth
 ============================================================

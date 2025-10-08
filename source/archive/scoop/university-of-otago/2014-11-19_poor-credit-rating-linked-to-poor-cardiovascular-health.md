@@ -1,9 +1,13 @@
 ---
 slug: poor-credit-rating-linked-to-poor-cardiovascular-health
-title: "Poor credit rating linked to poor cardiovascular health"
-date: 2014-11-19
-source-url: https://www.scoop.co.nz/stories/PO1411/S00193/poor-credit-rating-linked-to-poor-cardiovascular-health.htm
+title: Poor credit rating linked to poor cardiovascular health
+date: 2014-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00193/poor-credit-rating-linked-to-poor-cardiovascular-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/19/poor-credit-rating-linked-to-poor-cardiovascular-health/index.html
+layout: layout.njk
 ---
 Poor credit rating linked to poor cardiovascular health
 =======================================================

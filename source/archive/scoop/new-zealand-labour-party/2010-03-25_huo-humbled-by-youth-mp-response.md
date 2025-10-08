@@ -1,9 +1,12 @@
 ---
 slug: huo-humbled-by-youth-mp-response
-title: "Huo humbled by Youth MP response"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/PA1003/S00392/huo-humbled-by-youth-mp-response.htm
+title: Huo humbled by Youth MP response
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00392/huo-humbled-by-youth-mp-response.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/25/huo-humbled-by-youth-mp-response/index.html
+layout: layout.njk
 ---
 Huo humbled by Youth MP response
 ================================

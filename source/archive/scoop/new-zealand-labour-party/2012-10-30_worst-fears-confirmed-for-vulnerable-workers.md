@@ -1,9 +1,12 @@
 ---
 slug: worst-fears-confirmed-for-vulnerable-workers
-title: "Worst fears confirmed for vulnerable workers"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/PA1210/S00510/worst-fears-confirmed-for-vulnerable-workers.htm
+title: Worst fears confirmed for vulnerable workers
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00510/worst-fears-confirmed-for-vulnerable-workers.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/30/worst-fears-confirmed-for-vulnerable-workers/index.html
+layout: layout.njk
 ---
 Worst fears confirmed for vulnerable workers
 ============================================

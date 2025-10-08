@@ -1,9 +1,12 @@
 ---
 slug: waikato-pr-students-focus-on-membership
-title: "Waikato PR students focus on membership"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00083/waikato-pr-students-focus-on-membership.htm
+title: Waikato PR students focus on membership
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00083/waikato-pr-students-focus-on-membership.htm
 author: waikato-university
+permalink: /archive/2009/10/19/waikato-pr-students-focus-on-membership/index.html
+layout: layout.njk
 ---
 Waikato PR students focus on membership
 =======================================

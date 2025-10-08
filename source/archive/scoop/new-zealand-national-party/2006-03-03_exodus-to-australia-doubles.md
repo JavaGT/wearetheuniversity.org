@@ -1,9 +1,11 @@
 ---
 slug: exodus-to-australia-doubles
-title: "Exodus to Australia doubles"
-date: 2006-03-03
+title: Exodus to Australia doubles
+date: 2006-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00064/exodus-to-australia-doubles.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/03/exodus-to-australia-doubles/index.html
+layout: layout.njk
 ---
 Exodus to Australia doubles
 ===========================

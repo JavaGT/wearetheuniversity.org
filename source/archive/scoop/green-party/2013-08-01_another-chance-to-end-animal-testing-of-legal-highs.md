@@ -1,9 +1,13 @@
 ---
 slug: another-chance-to-end-animal-testing-of-legal-highs
-title: "Another chance to end animal testing of legal highs"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/PA1308/S00013/another-chance-to-end-animal-testing-of-legal-highs.htm
+title: Another chance to end animal testing of legal highs
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00013/another-chance-to-end-animal-testing-of-legal-highs.htm
 author: green-party
+permalink: >-
+  /archive/2013/08/01/another-chance-to-end-animal-testing-of-legal-highs/index.html
+layout: layout.njk
 ---
 Another chance to end animal testing of legal highs
 ===================================================

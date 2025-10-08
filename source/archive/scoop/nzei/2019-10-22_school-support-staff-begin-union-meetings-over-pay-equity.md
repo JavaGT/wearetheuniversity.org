@@ -1,9 +1,13 @@
 ---
 slug: school-support-staff-begin-union-meetings-over-pay-equity
-title: "School support staff begin union meetings over pay equity"
-date: 2019-10-22
-source-url: https://www.scoop.co.nz/stories/PO1910/S00222/school-support-staff-begin-union-meetings-over-pay-equity.htm
+title: School support staff begin union meetings over pay equity
+date: 2019-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1910/S00222/school-support-staff-begin-union-meetings-over-pay-equity.htm
 author: nzei
+permalink: >-
+  /archive/2019/10/22/school-support-staff-begin-union-meetings-over-pay-equity/index.html
+layout: layout.njk
 ---
 School support staff begin union meetings over pay equity
 =========================================================

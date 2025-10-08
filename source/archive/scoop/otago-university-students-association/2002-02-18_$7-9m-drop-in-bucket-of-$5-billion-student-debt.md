@@ -1,9 +1,12 @@
 ---
 slug: $7-9m-drop-in-bucket-of-$5-billion-student-debt
-title: "$7.9m Drop in Bucket of $5 billion Student Debt"
-date: 2002-02-18
-source-url: https://www.scoop.co.nz/stories/ED0202/S00014/79m-drop-in-bucket-of-5-billion-student-debt.htm
+title: $7.9m Drop in Bucket of $5 billion Student Debt
+date: 2002-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0202/S00014/79m-drop-in-bucket-of-5-billion-student-debt.htm
 author: otago-university-students-association
+permalink: /archive/2002/02/18/7-9m-drop-in-bucket-of-5-billion-student-debt/index.html
+layout: layout.njk
 ---
 $7.9m Drop in Bucket of $5 billion Student Debt
 ===============================================

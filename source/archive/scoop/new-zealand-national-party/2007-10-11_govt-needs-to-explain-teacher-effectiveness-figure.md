@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-explain-teacher-effectiveness-figure
-title: "Govt needs to explain teacher effectiveness figure"
-date: 2007-10-11
-source-url: https://www.scoop.co.nz/stories/PA0710/S00198/govt-needs-to-explain-teacher-effectiveness-figure.htm
+title: Govt needs to explain teacher effectiveness figure
+date: 2007-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00198/govt-needs-to-explain-teacher-effectiveness-figure.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/10/11/govt-needs-to-explain-teacher-effectiveness-figure/index.html
+layout: layout.njk
 ---
 Govt needs to explain teacher effectiveness figure
 ==================================================

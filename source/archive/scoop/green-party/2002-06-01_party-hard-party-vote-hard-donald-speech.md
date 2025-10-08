@@ -1,9 +1,12 @@
 ---
 slug: party-hard-party-vote-hard-donald-speech
-title: "Party Hard, Party Vote Hard - Donald Speech"
-date: 2002-06-01
-source-url: https://www.scoop.co.nz/stories/PA0206/S00003/party-hard-party-vote-hard-donald-speech.htm
+title: Party Hard, Party Vote Hard - Donald Speech
+date: 2002-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00003/party-hard-party-vote-hard-donald-speech.htm
 author: green-party
+permalink: /archive/2002/06/01/party-hard-party-vote-hard-donald-speech/index.html
+layout: layout.njk
 ---
 Party Hard, Party Vote Hard - Donald Speech
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: korea-holds-clues-to-aucklands-volcanic-future
-title: "Korea holds clues to Auckland’s volcanic future"
-date: 2009-01-15
-source-url: https://www.scoop.co.nz/stories/SC0901/S00020/korea-holds-clues-to-aucklands-volcanic-future.htm
+title: Korea holds clues to Auckland’s volcanic future
+date: 2009-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0901/S00020/korea-holds-clues-to-aucklands-volcanic-future.htm
 author: massey-university
+permalink: /archive/2009/01/15/korea-holds-clues-to-aucklands-volcanic-future/index.html
+layout: layout.njk
 ---
 Korea holds clues to Auckland’s volcanic future
 ===============================================

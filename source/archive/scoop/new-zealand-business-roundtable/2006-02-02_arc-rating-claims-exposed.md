@@ -1,9 +1,11 @@
 ---
 slug: arc-rating-claims-exposed
-title: "ARC Rating Claims Exposed"
-date: 2006-02-02
+title: ARC Rating Claims Exposed
+date: 2006-02-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0602/S00023/arc-rating-claims-exposed.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/02/02/arc-rating-claims-exposed/index.html
+layout: layout.njk
 ---
 ARC Rating Claims Exposed
 =========================

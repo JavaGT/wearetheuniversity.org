@@ -1,9 +1,13 @@
 ---
 slug: youth-mental-wellbeing-no-longer-a-priority-for-child-poverty-minister
-title: "Youth Mental Wellbeing No Longer A Priority For Child Poverty Minister"
-date: 2024-11-21
-source-url: https://www.scoop.co.nz/stories/PA2411/S00163/youth-mental-wellbeing-no-longer-a-priority-for-child-poverty-minister.htm
+title: Youth Mental Wellbeing No Longer A Priority For Child Poverty Minister
+date: 2024-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00163/youth-mental-wellbeing-no-longer-a-priority-for-child-poverty-minister.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/11/21/youth-mental-wellbeing-no-longer-a-priority-for-child-poverty-minister/index.html
+layout: layout.njk
 ---
 Youth Mental Wellbeing No Longer A Priority For Child Poverty Minister
 ======================================================================

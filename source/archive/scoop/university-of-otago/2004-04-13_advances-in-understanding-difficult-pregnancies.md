@@ -1,9 +1,12 @@
 ---
 slug: advances-in-understanding-difficult-pregnancies
-title: "Advances In Understanding  ‘Difficult’ Pregnancies"
-date: 2004-04-13
-source-url: https://www.scoop.co.nz/stories/SC0404/S00038/advances-in-understanding-difficult-pregnancies.htm
+title: Advances In Understanding  ‘Difficult’ Pregnancies
+date: 2004-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0404/S00038/advances-in-understanding-difficult-pregnancies.htm
 author: university-of-otago
+permalink: /archive/2004/04/13/advances-in-understanding-difficult-pregnancies/index.html
+layout: layout.njk
 ---
 Advances In Understanding ‘Difficult’ Pregnancies
 =================================================

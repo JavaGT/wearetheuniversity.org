@@ -1,9 +1,12 @@
 ---
 slug: ict-needs-industry-plan-joyce-wont-make-one
-title: "ICT needs industry plan, Joyce won’t make one"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/PA1303/S00401/ict-needs-industry-plan-joyce-wont-make-one.htm
+title: ICT needs industry plan, Joyce won’t make one
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00401/ict-needs-industry-plan-joyce-wont-make-one.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/22/ict-needs-industry-plan-joyce-wont-make-one/index.html
+layout: layout.njk
 ---
 ICT needs industry plan, Joyce won’t make one
 =============================================

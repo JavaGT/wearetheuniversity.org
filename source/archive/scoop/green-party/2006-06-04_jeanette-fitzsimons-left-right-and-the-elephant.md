@@ -1,9 +1,12 @@
 ---
 slug: jeanette-fitzsimons-left-right-and-the-elephant
-title: "Jeanette Fitzsimons: Left, Right and the Elephant"
-date: 2006-06-04
-source-url: https://www.scoop.co.nz/stories/PA0606/S00036/jeanette-fitzsimons-left-right-and-the-elephant.htm
+title: 'Jeanette Fitzsimons: Left, Right and the Elephant'
+date: 2006-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00036/jeanette-fitzsimons-left-right-and-the-elephant.htm
 author: green-party
+permalink: /archive/2006/06/04/jeanette-fitzsimons-left-right-and-the-elephant/index.html
+layout: layout.njk
 ---
 Jeanette Fitzsimons: Left, Right and the Elephant
 =================================================

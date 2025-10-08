@@ -1,9 +1,12 @@
 ---
 slug: nationals-failed-education-plans-leave-$120m-unspent
-title: "National's failed education plans leave $120m unspent"
-date: 2016-03-04
-source-url: https://www.scoop.co.nz/stories/PA1603/S00084/nationals-failed-education-plans-leave-120m-unspent.htm
+title: National's failed education plans leave $120m unspent
+date: 2016-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00084/nationals-failed-education-plans-leave-120m-unspent.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/04/nationals-failed-education-plans-leave-/index.html
+layout: layout.njk
 ---
 National's failed education plans leave $120m unspent
 =====================================================

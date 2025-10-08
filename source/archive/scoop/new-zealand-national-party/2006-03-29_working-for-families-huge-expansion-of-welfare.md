@@ -1,9 +1,12 @@
 ---
 slug: working-for-families-huge-expansion-of-welfare
-title: "Working for Families huge expansion of welfare"
-date: 2006-03-29
-source-url: https://www.scoop.co.nz/stories/PA0603/S00516/working-for-families-huge-expansion-of-welfare.htm
+title: Working for Families huge expansion of welfare
+date: 2006-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00516/working-for-families-huge-expansion-of-welfare.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/29/working-for-families-huge-expansion-of-welfare/index.html
+layout: layout.njk
 ---
 Working for Families huge expansion of welfare
 ==============================================

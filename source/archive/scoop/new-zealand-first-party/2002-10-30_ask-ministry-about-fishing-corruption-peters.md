@@ -1,9 +1,12 @@
 ---
 slug: ask-ministry-about-fishing-corruption-peters
-title: "Ask Ministry About Fishing Corruption - Peters"
-date: 2002-10-30
-source-url: https://www.scoop.co.nz/stories/PA0210/S00577/ask-ministry-about-fishing-corruption-peters.htm
+title: Ask Ministry About Fishing Corruption - Peters
+date: 2002-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00577/ask-ministry-about-fishing-corruption-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/10/30/ask-ministry-about-fishing-corruption-peters/index.html
+layout: layout.njk
 ---
 Ask Ministry About Fishing Corruption - Peters
 ==============================================

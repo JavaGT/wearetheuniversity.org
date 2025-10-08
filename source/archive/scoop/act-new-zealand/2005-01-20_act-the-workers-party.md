@@ -1,9 +1,11 @@
 ---
 slug: act-the-workers-party
-title: "ACT - The Workers' Party"
-date: 2005-01-20
+title: ACT - The Workers' Party
+date: 2005-01-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0501/S00157/act-the-workers-party.htm
 author: act-new-zealand
+permalink: /archive/2005/01/20/act-the-workers-party/index.html
+layout: layout.njk
 ---
 ACT - The Workers' Party
 ========================

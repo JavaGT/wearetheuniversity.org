@@ -1,9 +1,13 @@
 ---
 slug: businesses-need-to-plan-better-for-faster-disaster-recovery
-title: "Businesses need to plan better for faster disaster recovery"
-date: 2014-11-14
-source-url: https://www.scoop.co.nz/stories/ED1411/S00095/businesses-need-to-plan-better-for-faster-disaster-recovery.htm
+title: Businesses need to plan better for faster disaster recovery
+date: 2014-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00095/businesses-need-to-plan-better-for-faster-disaster-recovery.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/14/businesses-need-to-plan-better-for-faster-disaster-recovery/index.html
+layout: layout.njk
 ---
 Businesses need to plan better for faster disaster recovery
 ===========================================================

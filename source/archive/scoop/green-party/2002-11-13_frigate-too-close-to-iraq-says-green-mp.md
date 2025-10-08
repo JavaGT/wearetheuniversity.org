@@ -1,9 +1,12 @@
 ---
 slug: frigate-too-close-to-iraq-says-green-mp
-title: "Frigate too close to Iraq, says Green MP"
-date: 2002-11-13
-source-url: https://www.scoop.co.nz/stories/PA0211/S00282/frigate-too-close-to-iraq-says-green-mp.htm
+title: Frigate too close to Iraq, says Green MP
+date: 2002-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00282/frigate-too-close-to-iraq-says-green-mp.htm
 author: green-party
+permalink: /archive/2002/11/13/frigate-too-close-to-iraq-says-green-mp/index.html
+layout: layout.njk
 ---
 Frigate too close to Iraq, says Green MP
 ========================================

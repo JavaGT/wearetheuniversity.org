@@ -1,9 +1,12 @@
 ---
 slug: isnt-that-an-oxymoron-no-just-shipley
-title: "'Isn't that an oxymoron?' No, just Shipley...'"
-date: 2000-05-04
-source-url: https://www.scoop.co.nz/stories/PO0005/S00024/isnt-that-an-oxymoron-no-just-shipley.htm
+title: '''Isn''t that an oxymoron?'' No, just Shipley...'''
+date: 2000-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0005/S00024/isnt-that-an-oxymoron-no-just-shipley.htm
 author: young-labour
+permalink: /archive/2000/05/04/isnt-that-an-oxymoron-no-just-shipley/index.html
+layout: layout.njk
 ---
 \`Isn't that an oxymoron?' \`No, just Shipley...'
 =================================================

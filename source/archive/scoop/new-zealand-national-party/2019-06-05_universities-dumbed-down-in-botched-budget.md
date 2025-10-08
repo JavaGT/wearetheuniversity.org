@@ -1,9 +1,12 @@
 ---
 slug: universities-dumbed-down-in-botched-budget
-title: "Universities ‘dumbed down’ in Botched Budget"
-date: 2019-06-05
-source-url: https://www.scoop.co.nz/stories/PA1906/S00031/universities-dumbed-down-in-botched-budget.htm
+title: Universities ‘dumbed down’ in Botched Budget
+date: 2019-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00031/universities-dumbed-down-in-botched-budget.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/05/universities-dumbed-down-in-botched-budget/index.html
+layout: layout.njk
 ---
 Universities ‘dumbed down’ in Botched Budget
 ============================================

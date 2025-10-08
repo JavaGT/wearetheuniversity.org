@@ -1,9 +1,12 @@
 ---
 slug: student-fury-to-confront-maharey
-title: "Student fury to confront Maharey"
-date: 2003-05-23
-source-url: https://www.scoop.co.nz/stories/ED0305/S00084/student-fury-to-confront-maharey.htm
+title: Student fury to confront Maharey
+date: 2003-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00084/student-fury-to-confront-maharey.htm
 author: massey-university-students-association
+permalink: /archive/2003/05/23/student-fury-to-confront-maharey/index.html
+layout: layout.njk
 ---
 Student fury to confront Maharey
 ================================

@@ -1,9 +1,11 @@
 ---
 slug: ncea-will-be-trashed
-title: "NCEA Will Be Trashed"
-date: 2003-07-07
+title: NCEA Will Be Trashed
+date: 2003-07-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0307/S00160/ncea-will-be-trashed.htm
 author: act-new-zealand
+permalink: /archive/2003/07/07/ncea-will-be-trashed/index.html
+layout: layout.njk
 ---
 NCEA Will Be Trashed
 ====================

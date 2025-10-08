@@ -1,9 +1,11 @@
 ---
 slug: www-mccully-co-nz-6-june-2008
-title: "www.mccully.co.nz 6 June 2008"
-date: 2008-06-06
+title: www.mccully.co.nz 6 June 2008
+date: 2008-06-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0806/S00096/wwwmccullyconz-6-june-2008.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/06/www-mccully-co-nz-6-june-2008/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz 6 June 2008
 =============================

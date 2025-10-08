@@ -1,9 +1,12 @@
 ---
 slug: student-diary-cover-design-competition
-title: "Student Diary Cover Design Competition"
-date: 2004-08-11
-source-url: https://www.scoop.co.nz/stories/ED0408/S00048/student-diary-cover-design-competition.htm
+title: Student Diary Cover Design Competition
+date: 2004-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00048/student-diary-cover-design-competition.htm
 author: otago-university-students-association
+permalink: /archive/2004/08/11/student-diary-cover-design-competition/index.html
+layout: layout.njk
 ---
 Student Diary Cover Design Competition
 ======================================

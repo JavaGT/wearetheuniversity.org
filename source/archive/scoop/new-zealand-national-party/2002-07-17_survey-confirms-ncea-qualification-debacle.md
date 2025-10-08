@@ -1,9 +1,12 @@
 ---
 slug: survey-confirms-ncea-qualification-debacle
-title: "Survey Confirms NCEA Qualification Debacle"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/PA0207/S00463/survey-confirms-ncea-qualification-debacle.htm
+title: Survey Confirms NCEA Qualification Debacle
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00463/survey-confirms-ncea-qualification-debacle.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/17/survey-confirms-ncea-qualification-debacle/index.html
+layout: layout.njk
 ---
 Survey Confirms NCEA Qualification Debacle
 ==========================================

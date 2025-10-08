@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-west-auckland-speech
-title: "Winston Peters West Auckland Speech"
-date: 1999-08-23
-source-url: https://www.scoop.co.nz/stories/PA9908/S00374/winston-peters-west-auckland-speech.htm
+title: Winston Peters West Auckland Speech
+date: 1999-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00374/winston-peters-west-auckland-speech.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/23/winston-peters-west-auckland-speech/index.html
+layout: layout.njk
 ---
 Winston Peters West Auckland Speech
 ===================================

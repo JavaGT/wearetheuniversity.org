@@ -1,9 +1,13 @@
 ---
 slug: growth-and-development-attracts-excellence-funding
-title: "Growth and Development Attracts Excellence Funding"
-date: 2002-11-19
-source-url: https://www.scoop.co.nz/stories/ED0211/S00046/growth-and-development-attracts-excellence-funding.htm
+title: Growth and Development Attracts Excellence Funding
+date: 2002-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00046/growth-and-development-attracts-excellence-funding.htm
 author: auckland-university
+permalink: >-
+  /archive/2002/11/19/growth-and-development-attracts-excellence-funding/index.html
+layout: layout.njk
 ---
 Growth and Development Attracts Excellence Funding
 ==================================================

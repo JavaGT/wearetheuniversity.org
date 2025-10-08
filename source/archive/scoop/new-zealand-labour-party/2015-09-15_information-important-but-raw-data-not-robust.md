@@ -1,9 +1,12 @@
 ---
 slug: information-important-but-raw-data-not-robust
-title: "Information important, but raw data not robust"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/PA1509/S00233/information-important-but-raw-data-not-robust.htm
+title: Information important, but raw data not robust
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00233/information-important-but-raw-data-not-robust.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/15/information-important-but-raw-data-not-robust/index.html
+layout: layout.njk
 ---
 Information important, but raw data not robust
 ==============================================

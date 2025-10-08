@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-budget-blather-&-frothing-fundies
-title: "Future Lefts - Budget Blather & Frothing Fundies"
-date: 2004-06-16
-source-url: https://www.scoop.co.nz/stories/PO0406/S00164/future-lefts-budget-blather-frothing-fundies.htm
+title: Future Lefts - Budget Blather & Frothing Fundies
+date: 2004-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00164/future-lefts-budget-blather-frothing-fundies.htm
 author: young-labour
+permalink: /archive/2004/06/16/future-lefts-budget-blather-/index.html
+layout: layout.njk
 ---
 Future Lefts - Budget Blather & Frothing Fundies
 ================================================

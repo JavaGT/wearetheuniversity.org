@@ -1,9 +1,12 @@
 ---
 slug: education-minister-hiding-from-hard-questions
-title: "Education Minister hiding from hard questions"
-date: 2019-06-12
-source-url: https://www.scoop.co.nz/stories/PA1906/S00090/education-minister-hiding-from-hard-questions.htm
+title: Education Minister hiding from hard questions
+date: 2019-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00090/education-minister-hiding-from-hard-questions.htm
 author: new-zealand-national-party
+permalink: /archive/2019/06/12/education-minister-hiding-from-hard-questions/index.html
+layout: layout.njk
 ---
 Education Minister hiding from hard questions
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: crony-health-appointments-appalling
-title: "Crony health appointments appalling"
-date: 2018-09-04
-source-url: https://www.scoop.co.nz/stories/PA1809/S00025/crony-health-appointments-appalling.htm
+title: Crony health appointments appalling
+date: 2018-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00025/crony-health-appointments-appalling.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/04/crony-health-appointments-appalling/index.html
+layout: layout.njk
 ---
 Crony health appointments appalling
 ===================================

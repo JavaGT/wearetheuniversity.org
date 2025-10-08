@@ -1,9 +1,12 @@
 ---
 slug: hides-hypocrisy-stretches-from-north-to-south
-title: "Hide’s hypocrisy stretches from north to south"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/PA1004/S00241/hides-hypocrisy-stretches-from-north-to-south.htm
+title: Hide’s hypocrisy stretches from north to south
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00241/hides-hypocrisy-stretches-from-north-to-south.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/21/hides-hypocrisy-stretches-from-north-to-south/index.html
+layout: layout.njk
 ---
 Hide’s hypocrisy stretches from north to south
 ==============================================

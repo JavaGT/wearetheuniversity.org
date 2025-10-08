@@ -1,9 +1,12 @@
 ---
 slug: call-for-dhbs-to-administer-herceptin
-title: "Call for DHBs to administer Herceptin"
-date: 2006-04-05
-source-url: https://www.scoop.co.nz/stories/PA0604/S00095/call-for-dhbs-to-administer-herceptin.htm
+title: Call for DHBs to administer Herceptin
+date: 2006-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00095/call-for-dhbs-to-administer-herceptin.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/05/call-for-dhbs-to-administer-herceptin/index.html
+layout: layout.njk
 ---
 Call for DHBs to administer Herceptin
 =====================================

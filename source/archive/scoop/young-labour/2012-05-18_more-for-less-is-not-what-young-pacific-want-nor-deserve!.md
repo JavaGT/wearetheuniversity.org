@@ -1,9 +1,13 @@
 ---
 slug: more-for-less-is-not-what-young-pacific-want-nor-deserve!
-title: "More For Less Is Not What Young Pacific Want Nor Deserve!"
-date: 2012-05-18
-source-url: https://www.scoop.co.nz/stories/PO1205/S00280/more-for-less-is-not-what-young-pacific-want-nor-deserve.htm
+title: More For Less Is Not What Young Pacific Want Nor Deserve!
+date: 2012-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00280/more-for-less-is-not-what-young-pacific-want-nor-deserve.htm
 author: young-labour
+permalink: >-
+  /archive/2012/05/18/more-for-less-is-not-what-young-pacific-want-nor-deserve/index.html
+layout: layout.njk
 ---
 More For Less Is Not What Young Pacific Want Nor Deserve!
 =========================================================

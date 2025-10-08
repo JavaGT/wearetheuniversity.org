@@ -1,9 +1,13 @@
 ---
 slug: child-support-amendment-bill-sue-bradford-speech
-title: "Child Support Amendment Bill - Sue Bradford Speech"
-date: 2001-11-02
-source-url: https://www.scoop.co.nz/stories/PA0111/S00032/child-support-amendment-bill-sue-bradford-speech.htm
+title: Child Support Amendment Bill - Sue Bradford Speech
+date: 2001-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00032/child-support-amendment-bill-sue-bradford-speech.htm
 author: green-party
+permalink: >-
+  /archive/2001/11/02/child-support-amendment-bill-sue-bradford-speech/index.html
+layout: layout.njk
 ---
 Child Support Amendment Bill - Sue Bradford Speech
 ==================================================

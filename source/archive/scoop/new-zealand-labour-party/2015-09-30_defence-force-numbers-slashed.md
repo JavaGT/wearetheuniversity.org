@@ -1,9 +1,12 @@
 ---
 slug: defence-force-numbers-slashed
-title: "Defence Force numbers slashed"
-date: 2015-09-30
-source-url: https://www.scoop.co.nz/stories/PA1509/S00497/defence-force-numbers-slashed.htm
+title: Defence Force numbers slashed
+date: 2015-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00497/defence-force-numbers-slashed.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/30/defence-force-numbers-slashed/index.html
+layout: layout.njk
 ---
 Defence Force numbers slashed
 =============================

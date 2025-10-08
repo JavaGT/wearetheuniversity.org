@@ -1,9 +1,12 @@
 ---
 slug: second-massive-privacy-breach-at-eqc-revealed
-title: "Second massive privacy breach at EQC revealed"
-date: 2013-03-28
-source-url: https://www.scoop.co.nz/stories/PA1303/S00510/second-massive-privacy-breach-at-eqc-revealed.htm
+title: Second massive privacy breach at EQC revealed
+date: 2013-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00510/second-massive-privacy-breach-at-eqc-revealed.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/28/second-massive-privacy-breach-at-eqc-revealed/index.html
+layout: layout.njk
 ---
 Second massive privacy breach at EQC revealed
 =============================================

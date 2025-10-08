@@ -1,9 +1,12 @@
 ---
 slug: ero-report-confirms-high-quality-support-needed
-title: "ERO Report Confirms High Quality Support Needed"
-date: 2010-10-06
-source-url: https://www.scoop.co.nz/stories/ED1010/S00015/ero-report-confirms-high-quality-support-needed.htm
+title: ERO Report Confirms High Quality Support Needed
+date: 2010-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00015/ero-report-confirms-high-quality-support-needed.htm
 author: nzei
+permalink: /archive/2010/10/06/ero-report-confirms-high-quality-support-needed/index.html
+layout: layout.njk
 ---
 ERO Report Confirms High Quality Support Needed
 ===============================================

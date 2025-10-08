@@ -1,9 +1,13 @@
 ---
 slug: stephen-whittington-speech-to-wesley-methodist-church
-title: "Stephen Whittington Speech to Wesley Methodist Church"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/PO1111/S00644/stephen-whittington-speech-to-wesley-methodist-church.htm
+title: Stephen Whittington Speech to Wesley Methodist Church
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1111/S00644/stephen-whittington-speech-to-wesley-methodist-church.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/23/stephen-whittington-speech-to-wesley-methodist-church/index.html
+layout: layout.njk
 ---
 Stephen Whittington Speech to Wesley Methodist Church
 =====================================================

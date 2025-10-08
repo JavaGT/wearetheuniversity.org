@@ -1,9 +1,13 @@
 ---
 slug: minister-cant-give-assurance-on-nz-on-air-funding
-title: "Minister can’t give assurance on NZ on Air funding"
-date: 2010-07-01
-source-url: https://www.scoop.co.nz/stories/PA1007/S00007/minister-cant-give-assurance-on-nz-on-air-funding.htm
+title: Minister can’t give assurance on NZ on Air funding
+date: 2010-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00007/minister-cant-give-assurance-on-nz-on-air-funding.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/01/minister-cant-give-assurance-on-nz-on-air-funding/index.html
+layout: layout.njk
 ---
 Minister can’t give assurance on NZ on Air funding
 ==================================================

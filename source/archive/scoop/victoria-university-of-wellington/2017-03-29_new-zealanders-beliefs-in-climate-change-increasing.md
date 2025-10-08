@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-beliefs-in-climate-change-increasing
-title: "New Zealanders’ beliefs in climate change increasing"
-date: 2017-03-29
-source-url: https://www.scoop.co.nz/stories/SC1703/S00067/new-zealanders-beliefs-in-climate-change-increasing.htm
+title: New Zealanders’ beliefs in climate change increasing
+date: 2017-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1703/S00067/new-zealanders-beliefs-in-climate-change-increasing.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/03/29/new-zealanders-beliefs-in-climate-change-increasing/index.html
+layout: layout.njk
 ---
 New Zealanders’ beliefs in climate change increasing
 ====================================================

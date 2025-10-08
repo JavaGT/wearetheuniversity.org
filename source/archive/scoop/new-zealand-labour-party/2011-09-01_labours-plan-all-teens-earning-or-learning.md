@@ -1,9 +1,12 @@
 ---
 slug: labours-plan-all-teens-earning-or-learning
-title: "Labour’s plan: all teens earning or learning"
-date: 2011-09-01
-source-url: https://www.scoop.co.nz/stories/PA1109/S00017/labours-plan-all-teens-earning-or-learning.htm
+title: 'Labour’s plan: all teens earning or learning'
+date: 2011-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00017/labours-plan-all-teens-earning-or-learning.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/01/labours-plan-all-teens-earning-or-learning/index.html
+layout: layout.njk
 ---
 Labour’s plan: all teens earning or learning
 ============================================

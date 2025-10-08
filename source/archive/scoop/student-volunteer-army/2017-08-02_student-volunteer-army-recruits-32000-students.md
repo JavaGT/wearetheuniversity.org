@@ -1,9 +1,12 @@
 ---
 slug: student-volunteer-army-recruits-32000-students
-title: "Student Volunteer Army Recruits 32,000 Students"
-date: 2017-08-02
-source-url: https://www.scoop.co.nz/stories/AK1708/S00041/student-volunteer-army-recruits-32000-students.htm
+title: Student Volunteer Army Recruits 32,000 Students
+date: 2017-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1708/S00041/student-volunteer-army-recruits-32000-students.htm
 author: student-volunteer-army
+permalink: /archive/2017/08/02/student-volunteer-army-recruits-32000-students/index.html
+layout: layout.njk
 ---
 Student Volunteer Army Recruits 32,000 Students
 ===============================================

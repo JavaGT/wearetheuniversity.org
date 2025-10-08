@@ -1,9 +1,13 @@
 ---
 slug: trust-could-benefit-from-canterbury-student-research
-title: "Trust could benefit from Canterbury student research"
-date: 2014-06-11
-source-url: https://www.scoop.co.nz/stories/PO1406/S00143/trust-could-benefit-from-canterbury-student-research.htm
+title: Trust could benefit from Canterbury student research
+date: 2014-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00143/trust-could-benefit-from-canterbury-student-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/11/trust-could-benefit-from-canterbury-student-research/index.html
+layout: layout.njk
 ---
 Trust could benefit from Canterbury student research
 ====================================================

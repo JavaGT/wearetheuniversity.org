@@ -1,9 +1,12 @@
 ---
 slug: four-generations-of-chemists-at-graduation
-title: "Four ‘generations’ of chemists at graduation"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/ED1005/S00073/four-generations-of-chemists-at-graduation.htm
+title: Four ‘generations’ of chemists at graduation
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00073/four-generations-of-chemists-at-graduation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/05/18/four-generations-of-chemists-at-graduation/index.html
+layout: layout.njk
 ---
 Four ‘generations’ of chemists at graduation
 ============================================

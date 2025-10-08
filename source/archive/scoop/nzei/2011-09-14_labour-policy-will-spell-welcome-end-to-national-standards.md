@@ -1,9 +1,13 @@
 ---
 slug: labour-policy-will-spell-welcome-end-to-national-standards
-title: "Labour policy will spell welcome end to ‘National Standards'"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/ED1109/S00052/labour-policy-will-spell-welcome-end-to-national-standards.htm
+title: Labour policy will spell welcome end to ‘National Standards'
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00052/labour-policy-will-spell-welcome-end-to-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/09/14/labour-policy-will-spell-welcome-end-to-national-standards/index.html
+layout: layout.njk
 ---
 Labour policy will spell welcome end to ‘National Standards'
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: greens-release-ground-breaking-education-report
-title: "Greens release ground-breaking education report"
-date: 2011-02-04
-source-url: https://www.scoop.co.nz/stories/PA1102/S00056/greens-release-ground-breaking-education-report.htm
+title: Greens release ground-breaking education report
+date: 2011-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00056/greens-release-ground-breaking-education-report.htm
 author: green-party
+permalink: /archive/2011/02/04/greens-release-ground-breaking-education-report/index.html
+layout: layout.njk
 ---
 Greens release ground-breaking education report
 ===============================================

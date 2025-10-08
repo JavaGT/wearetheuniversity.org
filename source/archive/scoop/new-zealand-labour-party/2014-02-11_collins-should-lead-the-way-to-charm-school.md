@@ -1,9 +1,12 @@
 ---
 slug: collins-should-lead-the-way-to-charm-school
-title: "Collins should lead the way to charm school"
-date: 2014-02-11
-source-url: https://www.scoop.co.nz/stories/PA1402/S00119/collins-should-lead-the-way-to-charm-school.htm
+title: Collins should lead the way to charm school
+date: 2014-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00119/collins-should-lead-the-way-to-charm-school.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/11/collins-should-lead-the-way-to-charm-school/index.html
+layout: layout.njk
 ---
 Collins should lead the way to charm school
 ===========================================

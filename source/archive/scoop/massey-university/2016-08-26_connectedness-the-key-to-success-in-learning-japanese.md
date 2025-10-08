@@ -1,9 +1,13 @@
 ---
 slug: connectedness-the-key-to-success-in-learning-japanese
-title: "Connectedness the key to success in learning Japanese"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/ED1608/S00106/connectedness-the-key-to-success-in-learning-japanese.htm
+title: Connectedness the key to success in learning Japanese
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00106/connectedness-the-key-to-success-in-learning-japanese.htm
 author: massey-university
+permalink: >-
+  /archive/2016/08/26/connectedness-the-key-to-success-in-learning-japanese/index.html
+layout: layout.njk
 ---
 Connectedness the key to success in learning Japanese
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: assisted-dying-and-the-social-consequences
-title: "Assisted Dying And The Social Consequences"
-date: 2020-06-26
-source-url: https://www.scoop.co.nz/stories/AK2006/S00602/assisted-dying-and-the-social-consequences.htm
+title: Assisted Dying And The Social Consequences
+date: 2020-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2006/S00602/assisted-dying-and-the-social-consequences.htm
 author: aut-university
+permalink: /archive/2020/06/26/assisted-dying-and-the-social-consequences/index.html
+layout: layout.njk
 ---
 Assisted Dying And The Social Consequences
 ==========================================

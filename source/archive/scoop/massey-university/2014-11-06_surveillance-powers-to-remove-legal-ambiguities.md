@@ -1,9 +1,12 @@
 ---
 slug: surveillance-powers-to-remove-legal-ambiguities
-title: "Surveillance powers to remove legal ambiguities"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/PO1411/S00049/surveillance-powers-to-remove-legal-ambiguities.htm
+title: Surveillance powers to remove legal ambiguities
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00049/surveillance-powers-to-remove-legal-ambiguities.htm
 author: massey-university
+permalink: /archive/2014/11/06/surveillance-powers-to-remove-legal-ambiguities/index.html
+layout: layout.njk
 ---
 Surveillance powers to remove legal ambiguities
 ===============================================

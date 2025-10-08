@@ -1,9 +1,12 @@
 ---
 slug: students-oppose-conscription-calls
-title: "Students oppose conscription calls"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/PO1307/S00098/students-oppose-conscription-calls.htm
+title: Students oppose conscription calls
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00098/students-oppose-conscription-calls.htm
 author: vuwsa
+permalink: /archive/2013/07/09/students-oppose-conscription-calls/index.html
+layout: layout.njk
 ---
 Students oppose conscription calls
 ==================================

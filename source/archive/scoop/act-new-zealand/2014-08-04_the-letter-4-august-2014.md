@@ -1,9 +1,11 @@
 ---
 slug: the-letter-4-august-2014
-title: "The Letter - 4 August 2014"
-date: 2014-08-04
+title: The Letter - 4 August 2014
+date: 2014-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1408/S00051/the-letter-4-august-2014.htm
 author: act-new-zealand
+permalink: /archive/2014/08/04/the-letter-4-august-2014/index.html
+layout: layout.njk
 ---
 The Letter - 4 August 2014
 ==========================

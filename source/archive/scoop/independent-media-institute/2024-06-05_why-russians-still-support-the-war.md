@@ -1,9 +1,12 @@
 ---
 slug: why-russians-still-support-the-war
-title: "Why Russians Still Support The War"
-date: 2024-06-05
-source-url: https://www.scoop.co.nz/stories/WO2406/S00046/why-russians-still-support-the-war.htm
+title: Why Russians Still Support The War
+date: 2024-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2406/S00046/why-russians-still-support-the-war.htm
 author: independent-media-institute
+permalink: /archive/2024/06/05/why-russians-still-support-the-war/index.html
+layout: layout.njk
 ---
 Why Russians Still Support The War
 ==================================

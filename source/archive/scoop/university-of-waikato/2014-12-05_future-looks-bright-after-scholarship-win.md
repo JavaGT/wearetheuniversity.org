@@ -1,9 +1,12 @@
 ---
 slug: future-looks-bright-after-scholarship-win
-title: "Future looks bright after scholarship win"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/ED1412/S00039/future-looks-bright-after-scholarship-win.htm
+title: Future looks bright after scholarship win
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00039/future-looks-bright-after-scholarship-win.htm
 author: university-of-waikato
+permalink: /archive/2014/12/05/future-looks-bright-after-scholarship-win/index.html
+layout: layout.njk
 ---
 Future looks bright after scholarship win
 =========================================

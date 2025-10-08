@@ -1,9 +1,12 @@
 ---
 slug: building-on-the-māori-trades-training-legacy
-title: "Building on the Māori trades training legacy"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00369/building-on-the-maori-trades-training-legacy.htm
+title: Building on the Māori trades training legacy
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00369/building-on-the-maori-trades-training-legacy.htm
 author: te-pati-maori
+permalink: /archive/2016/05/19/building-on-the-m/index.html
+layout: layout.njk
 ---
 Building on the Māori trades training legacy
 ============================================

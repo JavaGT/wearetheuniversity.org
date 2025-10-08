@@ -1,9 +1,13 @@
 ---
 slug: joint-education-agreement-is-good-news-for-kids-education
-title: "Joint education agreement is good news for kids’ education"
-date: 2015-07-21
-source-url: https://www.scoop.co.nz/stories/ED1507/S00089/joint-education-agreement-is-good-news-for-kids-education.htm
+title: Joint education agreement is good news for kids’ education
+date: 2015-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00089/joint-education-agreement-is-good-news-for-kids-education.htm
 author: nzei
+permalink: >-
+  /archive/2015/07/21/joint-education-agreement-is-good-news-for-kids-education/index.html
+layout: layout.njk
 ---
 Joint education agreement is good news for kids’ education
 ==========================================================

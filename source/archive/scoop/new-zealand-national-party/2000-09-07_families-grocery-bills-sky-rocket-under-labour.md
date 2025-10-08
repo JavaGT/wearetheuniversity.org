@@ -1,9 +1,12 @@
 ---
 slug: families-grocery-bills-sky-rocket-under-labour
-title: "Families' grocery bills sky-rocket under Labour"
-date: 2000-09-07
-source-url: https://www.scoop.co.nz/stories/PA0009/S00113/families-grocery-bills-sky-rocket-under-labour.htm
+title: Families' grocery bills sky-rocket under Labour
+date: 2000-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00113/families-grocery-bills-sky-rocket-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/07/families-grocery-bills-sky-rocket-under-labour/index.html
+layout: layout.njk
 ---
 Families' grocery bills sky-rocket under Labour
 ===============================================

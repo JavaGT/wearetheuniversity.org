@@ -1,9 +1,12 @@
 ---
 slug: auckland-students-call-for-tax-cuts
-title: "Auckland Students Call for Tax Cuts"
-date: 2004-04-30
-source-url: https://www.scoop.co.nz/stories/ED0404/S00116/auckland-students-call-for-tax-cuts.htm
+title: Auckland Students Call for Tax Cuts
+date: 2004-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00116/auckland-students-call-for-tax-cuts.htm
 author: student-choice
+permalink: /archive/2004/04/30/auckland-students-call-for-tax-cuts/index.html
+layout: layout.njk
 ---
 Auckland Students Call for Tax Cuts
 ===================================

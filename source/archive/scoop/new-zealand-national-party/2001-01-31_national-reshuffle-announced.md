@@ -1,9 +1,11 @@
 ---
 slug: national-reshuffle-announced
-title: "National Reshuffle Announced"
-date: 2001-01-31
+title: National Reshuffle Announced
+date: 2001-01-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0101/S00177/national-reshuffle-announced.htm
 author: new-zealand-national-party
+permalink: /archive/2001/01/31/national-reshuffle-announced/index.html
+layout: layout.njk
 ---
 National Reshuffle Announced
 ============================

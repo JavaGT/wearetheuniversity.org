@@ -1,9 +1,12 @@
 ---
 slug: businesses-back-delay-to-emissions-trading
-title: "Businesses back delay to emissions trading"
-date: 2009-09-17
-source-url: https://www.scoop.co.nz/stories/BU0909/S00483/businesses-back-delay-to-emissions-trading.htm
+title: Businesses back delay to emissions trading
+date: 2009-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0909/S00483/businesses-back-delay-to-emissions-trading.htm
 author: massey-university
+permalink: /archive/2009/09/17/businesses-back-delay-to-emissions-trading/index.html
+layout: layout.njk
 ---
 Businesses back delay to emissions trading
 ==========================================

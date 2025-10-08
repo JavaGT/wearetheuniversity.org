@@ -1,9 +1,12 @@
 ---
 slug: 2012-report-card-hekia-must-try-harder
-title: "2012 Report Card – Hekia must try harder"
-date: 2012-12-19
-source-url: https://www.scoop.co.nz/stories/PA1212/S00345/2012-report-card-hekia-must-try-harder.htm
+title: 2012 Report Card – Hekia must try harder
+date: 2012-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00345/2012-report-card-hekia-must-try-harder.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/19/2012-report-card-hekia-must-try-harder/index.html
+layout: layout.njk
 ---
 2012 Report Card – Hekia must try harder
 ========================================

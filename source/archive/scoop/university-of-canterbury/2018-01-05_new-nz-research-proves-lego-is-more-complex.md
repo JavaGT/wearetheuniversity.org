@@ -1,9 +1,12 @@
 ---
 slug: new-nz-research-proves-lego-is-more-complex
-title: "New NZ research proves LEGO is more complex"
-date: 2018-01-05
-source-url: https://www.scoop.co.nz/stories/ED1801/S00005/new-nz-research-proves-lego-is-more-complex.htm
+title: New NZ research proves LEGO is more complex
+date: 2018-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1801/S00005/new-nz-research-proves-lego-is-more-complex.htm
 author: university-of-canterbury
+permalink: /archive/2018/01/05/new-nz-research-proves-lego-is-more-complex/index.html
+layout: layout.njk
 ---
 New NZ research proves LEGO is more complex
 ===========================================

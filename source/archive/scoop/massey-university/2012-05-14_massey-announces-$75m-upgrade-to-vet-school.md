@@ -1,9 +1,12 @@
 ---
 slug: massey-announces-$75m-upgrade-to-vet-school
-title: "Massey announces $75m upgrade to Vet School"
-date: 2012-05-14
-source-url: https://www.scoop.co.nz/stories/ED1205/S00052/massey-announces-75m-upgrade-to-vet-school.htm
+title: Massey announces $75m upgrade to Vet School
+date: 2012-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00052/massey-announces-75m-upgrade-to-vet-school.htm
 author: massey-university
+permalink: /archive/2012/05/14/massey-announces-/index.html
+layout: layout.njk
 ---
 Massey announces $75m upgrade to Vet School
 ===========================================

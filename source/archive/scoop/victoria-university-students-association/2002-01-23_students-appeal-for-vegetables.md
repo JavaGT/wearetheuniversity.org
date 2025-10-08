@@ -1,9 +1,12 @@
 ---
 slug: students-appeal-for-vegetables
-title: "Students Appeal For Vegetables"
-date: 2002-01-23
-source-url: https://www.scoop.co.nz/stories/ED0201/S00006/students-appeal-for-vegetables.htm
+title: Students Appeal For Vegetables
+date: 2002-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0201/S00006/students-appeal-for-vegetables.htm
 author: victoria-university-students-association
+permalink: /archive/2002/01/23/students-appeal-for-vegetables/index.html
+layout: layout.njk
 ---
 Students Appeal For Vegetables
 ==============================

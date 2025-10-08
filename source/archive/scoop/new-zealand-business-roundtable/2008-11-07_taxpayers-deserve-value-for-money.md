@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-deserve-value-for-money
-title: "Taxpayers Deserve Value for Money"
-date: 2008-11-07
-source-url: https://www.scoop.co.nz/stories/BU0811/S00111/taxpayers-deserve-value-for-money.htm
+title: Taxpayers Deserve Value for Money
+date: 2008-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0811/S00111/taxpayers-deserve-value-for-money.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/11/07/taxpayers-deserve-value-for-money/index.html
+layout: layout.njk
 ---
 Taxpayers Deserve Value for Money
 =================================

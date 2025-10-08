@@ -1,9 +1,11 @@
 ---
 slug: dhbs-big-budget-blowout
-title: "DHBs’ big budget blowout"
-date: 2017-05-08
+title: DHBs’ big budget blowout
+date: 2017-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1705/S00148/dhbs-big-budget-blowout.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/08/dhbs-big-budget-blowout/index.html
+layout: layout.njk
 ---
 DHBs’ big budget blowout
 ========================

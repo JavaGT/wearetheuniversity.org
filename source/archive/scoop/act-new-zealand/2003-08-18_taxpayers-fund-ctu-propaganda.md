@@ -1,9 +1,12 @@
 ---
 slug: taxpayers-fund-ctu-propaganda
-title: "Taxpayers Fund CTU Propaganda"
-date: 2003-08-18
-source-url: https://www.scoop.co.nz/stories/PA0308/S00349/taxpayers-fund-ctu-propaganda.htm
+title: Taxpayers Fund CTU Propaganda
+date: 2003-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00349/taxpayers-fund-ctu-propaganda.htm
 author: act-new-zealand
+permalink: /archive/2003/08/18/taxpayers-fund-ctu-propaganda/index.html
+layout: layout.njk
 ---
 Taxpayers Fund CTU Propaganda
 =============================

@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-dame-kahurangi-nganeko-minhinnick
-title: "Poroporoaki: Dame Kahurangi Nganeko Minhinnick"
-date: 2017-06-16
-source-url: https://www.scoop.co.nz/stories/PA1706/S00271/poroporoaki-dame-kahurangi-nganeko-minhinnick.htm
+title: 'Poroporoaki: Dame Kahurangi Nganeko Minhinnick'
+date: 2017-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00271/poroporoaki-dame-kahurangi-nganeko-minhinnick.htm
 author: te-pati-maori
+permalink: /archive/2017/06/16/poroporoaki-dame-kahurangi-nganeko-minhinnick/index.html
+layout: layout.njk
 ---
 Poroporoaki: Dame Kahurangi Nganeko Minhinnick
 ==============================================

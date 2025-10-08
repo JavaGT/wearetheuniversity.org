@@ -1,9 +1,12 @@
 ---
 slug: teenagers-doing-worse-at-school
-title: "Teenagers doing worse at school"
-date: 2011-04-05
-source-url: https://www.scoop.co.nz/stories/PA1104/S00062/teenagers-doing-worse-at-school.htm
+title: Teenagers doing worse at school
+date: 2011-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00062/teenagers-doing-worse-at-school.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/05/teenagers-doing-worse-at-school/index.html
+layout: layout.njk
 ---
 Teenagers doing worse at school
 ===============================

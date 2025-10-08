@@ -1,9 +1,12 @@
 ---
 slug: innovative-māori-mba-an-international-winner
-title: "Innovative ‘Māori MBA’ an international winner"
-date: 2011-10-21
-source-url: https://www.scoop.co.nz/stories/ED1110/S00102/innovative-maori-mba-an-international-winner.htm
+title: Innovative ‘Māori MBA’ an international winner
+date: 2011-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00102/innovative-maori-mba-an-international-winner.htm
 author: waikato-university
+permalink: /archive/2011/10/21/innovative-m/index.html
+layout: layout.njk
 ---
 Innovative ‘Māori MBA’ an international winner
 ==============================================

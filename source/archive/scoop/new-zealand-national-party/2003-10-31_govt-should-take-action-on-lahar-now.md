@@ -1,9 +1,12 @@
 ---
 slug: govt-should-take-action-on-lahar-now
-title: "Govt should take action on lahar now"
-date: 2003-10-31
-source-url: https://www.scoop.co.nz/stories/PA0310/S00704/govt-should-take-action-on-lahar-now.htm
+title: Govt should take action on lahar now
+date: 2003-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00704/govt-should-take-action-on-lahar-now.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/31/govt-should-take-action-on-lahar-now/index.html
+layout: layout.njk
 ---
 Govt should take action on lahar now
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-student-leaders-for-2009
-title: "NZUSA elects student leaders for 2009"
-date: 2009-01-06
-source-url: https://www.scoop.co.nz/stories/ED0901/S00001/nzusa-elects-student-leaders-for-2009.htm
+title: NZUSA elects student leaders for 2009
+date: 2009-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00001/nzusa-elects-student-leaders-for-2009.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2009/01/06/nzusa-elects-student-leaders-for-2009/index.html
+layout: layout.njk
 ---
 NZUSA elects student leaders for 2009
 =====================================

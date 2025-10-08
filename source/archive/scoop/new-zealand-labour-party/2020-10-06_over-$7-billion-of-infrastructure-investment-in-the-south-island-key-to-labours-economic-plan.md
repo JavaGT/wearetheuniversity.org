@@ -1,9 +1,15 @@
 ---
-slug: over-$7-billion-of-infrastructure-investment-in-the-south-island-key-to-labours-economic-plan
-title: "Over $7 Billion Of Infrastructure Investment In The South Island Key To Labour’s Economic Plan"
-date: 2020-10-06
-source-url: https://www.scoop.co.nz/stories/PO2010/S00072/over-7-billion-of-infrastructure-investment-in-the-south-island-key-to-labours-economic-plan.htm
+slug: >-
+  over-$7-billion-of-infrastructure-investment-in-the-south-island-key-to-labours-economic-plan
+title: >-
+  Over $7 Billion Of Infrastructure Investment In The South Island Key To
+  Labour’s Economic Plan
+date: 2020-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00072/over-7-billion-of-infrastructure-investment-in-the-south-island-key-to-labours-economic-plan.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/10/06/over-/index.html
+layout: layout.njk
 ---
 Over $7 Billion Of Infrastructure Investment In The South Island Key To Labour’s Economic Plan
 ==============================================================================================

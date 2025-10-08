@@ -1,9 +1,13 @@
 ---
 slug: ucsa-events-centre-at-the-university-of-canterbury
-title: "UCSA Events centre at the University of Canterbury"
-date: 2012-07-14
-source-url: https://www.scoop.co.nz/stories/AK1207/S00275/ucsa-events-centre-at-the-university-of-canterbury.htm
+title: UCSA Events centre at the University of Canterbury
+date: 2012-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1207/S00275/ucsa-events-centre-at-the-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/07/14/ucsa-events-centre-at-the-university-of-canterbury/index.html
+layout: layout.njk
 ---
 UCSA Events centre at the University of Canterbury
 ==================================================

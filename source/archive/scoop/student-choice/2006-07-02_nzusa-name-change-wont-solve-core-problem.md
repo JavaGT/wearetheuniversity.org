@@ -1,9 +1,12 @@
 ---
 slug: nzusa-name-change-wont-solve-core-problem
-title: "NZUSA name change won't solve core problem"
-date: 2006-07-02
-source-url: https://www.scoop.co.nz/stories/PO0607/S00003/nzusa-name-change-wont-solve-core-problem.htm
+title: NZUSA name change won't solve core problem
+date: 2006-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0607/S00003/nzusa-name-change-wont-solve-core-problem.htm
 author: student-choice
+permalink: /archive/2006/07/02/nzusa-name-change-wont-solve-core-problem/index.html
+layout: layout.njk
 ---
 NZUSA name change won't solve core problem
 ==========================================

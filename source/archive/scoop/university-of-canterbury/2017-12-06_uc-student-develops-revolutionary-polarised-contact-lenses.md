@@ -1,9 +1,13 @@
 ---
 slug: uc-student-develops-revolutionary-polarised-contact-lenses
-title: "UC Student Develops Revolutionary Polarised Contact Lenses"
-date: 2017-12-06
-source-url: https://www.scoop.co.nz/stories/ED1712/S00022/uc-student-develops-revolutionary-polarised-contact-lenses.htm
+title: UC Student Develops Revolutionary Polarised Contact Lenses
+date: 2017-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00022/uc-student-develops-revolutionary-polarised-contact-lenses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/06/uc-student-develops-revolutionary-polarised-contact-lenses/index.html
+layout: layout.njk
 ---
 UC Student Develops Revolutionary Polarised Contact Lenses
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: patient-distress-needs-national-study
-title: "Patient distress needs national study"
-date: 2003-10-21
-source-url: https://www.scoop.co.nz/stories/PA0310/S00464/patient-distress-needs-national-study.htm
+title: Patient distress needs national study
+date: 2003-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00464/patient-distress-needs-national-study.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/21/patient-distress-needs-national-study/index.html
+layout: layout.njk
 ---
 Patient distress needs national study
 =====================================

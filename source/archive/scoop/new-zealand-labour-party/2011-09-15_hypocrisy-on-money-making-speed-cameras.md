@@ -1,9 +1,12 @@
 ---
 slug: hypocrisy-on-money-making-speed-cameras
-title: "Hypocrisy on money-making speed cameras"
-date: 2011-09-15
-source-url: https://www.scoop.co.nz/stories/PA1109/S00310/hypocrisy-on-money-making-speed-cameras.htm
+title: Hypocrisy on money-making speed cameras
+date: 2011-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00310/hypocrisy-on-money-making-speed-cameras.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/15/hypocrisy-on-money-making-speed-cameras/index.html
+layout: layout.njk
 ---
 Hypocrisy on money-making speed cameras
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: bill-english-national-education-may-5-2006
-title: "Bill English - National Education May 5 2006"
-date: 2006-05-08
-source-url: https://www.scoop.co.nz/stories/PA0605/S00177/bill-english-national-education-may-5-2006.htm
+title: Bill English - National Education May 5 2006
+date: 2006-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00177/bill-english-national-education-may-5-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/08/bill-english-national-education-may-5-2006/index.html
+layout: layout.njk
 ---
 Bill English - National Education May 5 2006
 ============================================

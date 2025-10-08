@@ -1,9 +1,12 @@
 ---
 slug: govt-benefit-target-even-further-out-of-reach
-title: "Govt Benefit Target Even Further Out Of Reach"
-date: 2024-12-02
-source-url: https://www.scoop.co.nz/stories/PA2412/S00024/govt-benefit-target-even-further-out-of-reach.htm
+title: Govt Benefit Target Even Further Out Of Reach
+date: 2024-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00024/govt-benefit-target-even-further-out-of-reach.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/12/02/govt-benefit-target-even-further-out-of-reach/index.html
+layout: layout.njk
 ---
 Govt Benefit Target Even Further Out Of Reach
 =============================================

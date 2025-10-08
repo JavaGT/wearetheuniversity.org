@@ -1,9 +1,13 @@
 ---
 slug: universities-welcome-tertiary-education-strategy
-title: "Universities welcome Tertiary Education Strategy"
-date: 2014-03-05
-source-url: https://www.scoop.co.nz/stories/ED1403/S00022/universities-welcome-tertiary-education-strategy.htm
+title: Universities welcome Tertiary Education Strategy
+date: 2014-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00022/universities-welcome-tertiary-education-strategy.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2014/03/05/universities-welcome-tertiary-education-strategy/index.html
+layout: layout.njk
 ---
 Universities welcome Tertiary Education Strategy
 ================================================

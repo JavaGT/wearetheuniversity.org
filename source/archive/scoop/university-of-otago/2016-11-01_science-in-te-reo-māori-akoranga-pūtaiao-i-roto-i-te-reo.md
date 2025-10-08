@@ -1,9 +1,12 @@
 ---
 slug: science-in-te-reo-māori-akoranga-pūtaiao-i-roto-i-te-reo
-title: "Science in te reo Māori - Akoranga pūtaiao i roto i te reo"
-date: 2016-11-01
-source-url: https://www.scoop.co.nz/stories/ED1611/S00004/science-in-te-reo-maori-akoranga-putaiao-i-roto-i-te-reo.htm
+title: Science in te reo Māori - Akoranga pūtaiao i roto i te reo
+date: 2016-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00004/science-in-te-reo-maori-akoranga-putaiao-i-roto-i-te-reo.htm
 author: university-of-otago
+permalink: /archive/2016/11/01/science-in-te-reo-m/index.html
+layout: layout.njk
 ---
 Science in te reo Māori - Akoranga pūtaiao i roto i te reo
 ==========================================================

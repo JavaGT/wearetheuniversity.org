@@ -1,9 +1,11 @@
 ---
 slug: a-helping-hand-for-parents
-title: "A Helping Hand For Parents"
-date: 2009-10-03
+title: A Helping Hand For Parents
+date: 2009-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0910/S00038/a-helping-hand-for-parents.htm
 author: act-new-zealand
+permalink: /archive/2009/10/03/a-helping-hand-for-parents/index.html
+layout: layout.njk
 ---
 A Helping Hand For Parents
 ==========================

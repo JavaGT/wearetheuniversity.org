@@ -1,9 +1,12 @@
 ---
 slug: changing-face-of-the-community-in-howick
-title: "Changing face of the community in Howick"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/AK1608/S00492/changing-face-of-the-community-in-howick.htm
+title: Changing face of the community in Howick
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1608/S00492/changing-face-of-the-community-in-howick.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/16/changing-face-of-the-community-in-howick/index.html
+layout: layout.njk
 ---
 Changing face of the community in Howick
 ========================================

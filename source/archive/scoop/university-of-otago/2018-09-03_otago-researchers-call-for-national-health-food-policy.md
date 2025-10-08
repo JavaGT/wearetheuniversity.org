@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-call-for-national-health-food-policy
-title: "Otago researchers call for national health food policy"
-date: 2018-09-03
-source-url: https://www.scoop.co.nz/stories/GE1809/S00010/otago-researchers-call-for-national-health-food-policy.htm
+title: Otago researchers call for national health food policy
+date: 2018-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00010/otago-researchers-call-for-national-health-food-policy.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/03/otago-researchers-call-for-national-health-food-policy/index.html
+layout: layout.njk
 ---
 Otago researchers call for national health food policy
 ======================================================

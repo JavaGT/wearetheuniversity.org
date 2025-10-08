@@ -1,9 +1,13 @@
 ---
 slug: government-not-using-major-tool-to-attract-teachers
-title: "Government not using major tool to attract teachers"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/ED1708/S00072/government-not-using-major-tool-to-attract-teachers.htm
+title: Government not using major tool to attract teachers
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00072/government-not-using-major-tool-to-attract-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2017/08/21/government-not-using-major-tool-to-attract-teachers/index.html
+layout: layout.njk
 ---
 Government not using major tool to attract teachers
 ===================================================

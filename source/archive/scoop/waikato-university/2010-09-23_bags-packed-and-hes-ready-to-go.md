@@ -1,9 +1,12 @@
 ---
 slug: bags-packed-and-hes-ready-to-go
-title: "Bags packed and he’s ready to go"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/ED1009/S00106/bags-packed-and-hes-ready-to-go.htm
+title: Bags packed and he’s ready to go
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00106/bags-packed-and-hes-ready-to-go.htm
 author: waikato-university
+permalink: /archive/2010/09/23/bags-packed-and-hes-ready-to-go/index.html
+layout: layout.njk
 ---
 Bags packed and he’s ready to go
 ================================

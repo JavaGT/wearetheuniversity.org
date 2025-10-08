@@ -1,9 +1,12 @@
 ---
 slug: troubled-past-for-student-loan-scheme-borrowers
-title: "Troubled past for student loan scheme borrowers"
-date: 2005-11-30
-source-url: https://www.scoop.co.nz/stories/ED0511/S00100/troubled-past-for-student-loan-scheme-borrowers.htm
+title: Troubled past for student loan scheme borrowers
+date: 2005-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00100/troubled-past-for-student-loan-scheme-borrowers.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/11/30/troubled-past-for-student-loan-scheme-borrowers/index.html
+layout: layout.njk
 ---
 Troubled past for student loan scheme borrowers
 ===============================================

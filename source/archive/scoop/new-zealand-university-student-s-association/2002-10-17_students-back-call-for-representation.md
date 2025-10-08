@@ -1,9 +1,12 @@
 ---
 slug: students-back-call-for-representation
-title: "Students Back Call For Representation"
-date: 2002-10-17
-source-url: https://www.scoop.co.nz/stories/ED0210/S00044/students-back-call-for-representation.htm
+title: Students Back Call For Representation
+date: 2002-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00044/students-back-call-for-representation.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/10/17/students-back-call-for-representation/index.html
+layout: layout.njk
 ---
 Students Back Call For Representation
 =====================================

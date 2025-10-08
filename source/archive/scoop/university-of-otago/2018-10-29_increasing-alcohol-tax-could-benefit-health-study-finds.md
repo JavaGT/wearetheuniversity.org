@@ -1,9 +1,13 @@
 ---
 slug: increasing-alcohol-tax-could-benefit-health-study-finds
-title: "Increasing alcohol tax could benefit health, study finds"
-date: 2018-10-29
-source-url: https://www.scoop.co.nz/stories/GE1810/S00119/increasing-alcohol-tax-could-benefit-health-study-finds.htm
+title: Increasing alcohol tax could benefit health, study finds
+date: 2018-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00119/increasing-alcohol-tax-could-benefit-health-study-finds.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/10/29/increasing-alcohol-tax-could-benefit-health-study-finds/index.html
+layout: layout.njk
 ---
 Increasing alcohol tax could benefit health, study finds
 ========================================================

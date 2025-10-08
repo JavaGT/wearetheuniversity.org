@@ -1,9 +1,13 @@
 ---
 slug: fibre-glass-a-serious-alternative-for-bridge-reinforcement
-title: "Fibre glass a serious alternative for bridge reinforcement"
-date: 2013-09-06
-source-url: https://www.scoop.co.nz/stories/AK1309/S00196/fibre-glass-a-serious-alternative-for-bridge-reinforcement.htm
+title: Fibre glass a serious alternative for bridge reinforcement
+date: 2013-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00196/fibre-glass-a-serious-alternative-for-bridge-reinforcement.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/06/fibre-glass-a-serious-alternative-for-bridge-reinforcement/index.html
+layout: layout.njk
 ---
 Fibre glass a serious alternative for bridge reinforcement
 ==========================================================

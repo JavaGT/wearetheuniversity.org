@@ -1,9 +1,13 @@
 ---
 slug: new-book-highlights-endurance-athletes-tough-life-choices
-title: "New book highlights endurance athletes’ tough life choices"
-date: 2018-08-20
-source-url: https://www.scoop.co.nz/stories/CU1808/S00199/new-book-highlights-endurance-athletes-tough-life-choices.htm
+title: New book highlights endurance athletes’ tough life choices
+date: 2018-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1808/S00199/new-book-highlights-endurance-athletes-tough-life-choices.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/08/20/new-book-highlights-endurance-athletes-tough-life-choices/index.html
+layout: layout.njk
 ---
 New book highlights endurance athletes’ tough life choices
 ==========================================================

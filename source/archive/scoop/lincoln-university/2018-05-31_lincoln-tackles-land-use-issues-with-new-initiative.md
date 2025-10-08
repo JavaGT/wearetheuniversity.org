@@ -1,9 +1,13 @@
 ---
 slug: lincoln-tackles-land-use-issues-with-new-initiative
-title: "Lincoln tackles land-use issues with new initiative"
-date: 2018-05-31
-source-url: https://www.scoop.co.nz/stories/BU1805/S00979/lincoln-tackles-land-use-issues-with-new-initiative.htm
+title: Lincoln tackles land-use issues with new initiative
+date: 2018-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1805/S00979/lincoln-tackles-land-use-issues-with-new-initiative.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/05/31/lincoln-tackles-land-use-issues-with-new-initiative/index.html
+layout: layout.njk
 ---
 Lincoln tackles land-use issues with new initiative
 ===================================================

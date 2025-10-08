@@ -1,9 +1,12 @@
 ---
 slug: speech-to-the-national-distribution-union
-title: "Speech to the National Distribution Union"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PA1010/S00191/speech-to-the-national-distribution-union.htm
+title: Speech to the National Distribution Union
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00191/speech-to-the-national-distribution-union.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/13/speech-to-the-national-distribution-union/index.html
+layout: layout.njk
 ---
 Speech to the National Distribution Union
 =========================================

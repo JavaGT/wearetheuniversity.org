@@ -1,9 +1,13 @@
 ---
 slug: green-party-announces-candidate-for-taieri-electorate
-title: "Green Party Announces Candidate For Taieri Electorate"
-date: 2023-02-20
-source-url: https://www.scoop.co.nz/stories/PO2302/S00099/green-party-announces-candidate-for-taieri-electorate.htm
+title: Green Party Announces Candidate For Taieri Electorate
+date: 2023-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2302/S00099/green-party-announces-candidate-for-taieri-electorate.htm
 author: green-party
+permalink: >-
+  /archive/2023/02/20/green-party-announces-candidate-for-taieri-electorate/index.html
+layout: layout.njk
 ---
 Green Party Announces Candidate For Taieri Electorate
 =====================================================

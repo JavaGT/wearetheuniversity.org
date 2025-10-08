@@ -1,9 +1,12 @@
 ---
 slug: green-party-saddened-by-death-of-nelson-mandela
-title: "Green Party saddened by death of Nelson Mandela"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/PA1312/S00161/green-party-saddened-by-death-of-nelson-mandela.htm
+title: Green Party saddened by death of Nelson Mandela
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00161/green-party-saddened-by-death-of-nelson-mandela.htm
 author: green-party
+permalink: /archive/2013/12/06/green-party-saddened-by-death-of-nelson-mandela/index.html
+layout: layout.njk
 ---
 Green Party saddened by death of Nelson Mandela
 ===============================================

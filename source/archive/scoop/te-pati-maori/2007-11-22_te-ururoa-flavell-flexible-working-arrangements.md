@@ -1,9 +1,12 @@
 ---
 slug: te-ururoa-flavell-flexible-working-arrangements
-title: "Te Ururoa Flavell - Flexible Working Arrangements"
-date: 2007-11-22
-source-url: https://www.scoop.co.nz/stories/PA0711/S00429/te-ururoa-flavell-flexible-working-arrangements.htm
+title: Te Ururoa Flavell - Flexible Working Arrangements
+date: 2007-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00429/te-ururoa-flavell-flexible-working-arrangements.htm
 author: te-pati-maori
+permalink: /archive/2007/11/22/te-ururoa-flavell-flexible-working-arrangements/index.html
+layout: layout.njk
 ---
 Te Ururoa Flavell - Flexible Working Arrangements
 =================================================

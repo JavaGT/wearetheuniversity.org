@@ -1,9 +1,13 @@
 ---
 slug: legitimate-case-to-retrieve-gst-from-online-shopping
-title: "Legitimate case to retrieve GST from online shopping"
-date: 2013-07-13
-source-url: https://www.scoop.co.nz/stories/PO1307/S00153/legitimate-case-to-retrieve-gst-from-online-shopping.htm
+title: Legitimate case to retrieve GST from online shopping
+date: 2013-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1307/S00153/legitimate-case-to-retrieve-gst-from-online-shopping.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/13/legitimate-case-to-retrieve-gst-from-online-shopping/index.html
+layout: layout.njk
 ---
 Legitimate case to retrieve GST from online shopping
 ====================================================

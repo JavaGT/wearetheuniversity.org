@@ -1,9 +1,12 @@
 ---
 slug: government-to-add-oil-and-gas-to-climate-fire
-title: "Government To Add Oil And Gas To Climate Fire"
-date: 2024-06-09
-source-url: https://www.scoop.co.nz/stories/PA2406/S00045/government-to-add-oil-and-gas-to-climate-fire.htm
+title: Government To Add Oil And Gas To Climate Fire
+date: 2024-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00045/government-to-add-oil-and-gas-to-climate-fire.htm
 author: green-party
+permalink: /archive/2024/06/09/government-to-add-oil-and-gas-to-climate-fire/index.html
+layout: layout.njk
 ---
 Government To Add Oil And Gas To Climate Fire
 =============================================

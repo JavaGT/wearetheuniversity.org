@@ -1,9 +1,12 @@
 ---
 slug: action-on-ufb-barriers-better-late-than-never
-title: "Action on UFB barriers better late than never"
-date: 2015-06-09
-source-url: https://www.scoop.co.nz/stories/PA1506/S00154/action-on-ufb-barriers-better-late-than-never.htm
+title: Action on UFB barriers better late than never
+date: 2015-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00154/action-on-ufb-barriers-better-late-than-never.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/09/action-on-ufb-barriers-better-late-than-never/index.html
+layout: layout.njk
 ---
 Action on UFB barriers better late than never
 =============================================

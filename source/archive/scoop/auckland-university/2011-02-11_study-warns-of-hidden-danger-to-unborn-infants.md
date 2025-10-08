@@ -1,9 +1,12 @@
 ---
 slug: study-warns-of-hidden-danger-to-unborn-infants
-title: "Study warns of hidden danger to unborn infants"
-date: 2011-02-11
-source-url: https://www.scoop.co.nz/stories/ED1102/S00037/study-warns-of-hidden-danger-to-unborn-infants.htm
+title: Study warns of hidden danger to unborn infants
+date: 2011-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00037/study-warns-of-hidden-danger-to-unborn-infants.htm
 author: auckland-university
+permalink: /archive/2011/02/11/study-warns-of-hidden-danger-to-unborn-infants/index.html
+layout: layout.njk
 ---
 Study warns of hidden danger to unborn infants
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: volunteers-contribution-vital
-title: "Volunteers' contribution vital"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/PA0712/S00090/volunteers-contribution-vital.htm
+title: Volunteers' contribution vital
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00090/volunteers-contribution-vital.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/05/volunteers-contribution-vital/index.html
+layout: layout.njk
 ---
 Volunteers' contribution vital
 ==============================

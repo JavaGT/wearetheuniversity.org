@@ -1,9 +1,12 @@
 ---
 slug: kinetika-connects-with-massey-for-2014
-title: "kinetika connects with Massey for 2014"
-date: 2013-11-22
-source-url: https://www.scoop.co.nz/stories/ED1311/S00156/kinetika-connects-with-massey-for-2014.htm
+title: kinetika connects with Massey for 2014
+date: 2013-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00156/kinetika-connects-with-massey-for-2014.htm
 author: massey-university
+permalink: /archive/2013/11/22/kinetika-connects-with-massey-for-2014/index.html
+layout: layout.njk
 ---
 kinetika connects with Massey for 2014
 ======================================

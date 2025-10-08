@@ -1,9 +1,12 @@
 ---
 slug: greens-will-fight-ruahine-law-change
-title: "Greens will fight Ruahine law change"
-date: 2017-07-07
-source-url: https://www.scoop.co.nz/stories/PA1707/S00112/greens-will-fight-ruahine-law-change.htm
+title: Greens will fight Ruahine law change
+date: 2017-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00112/greens-will-fight-ruahine-law-change.htm
 author: green-party
+permalink: /archive/2017/07/07/greens-will-fight-ruahine-law-change/index.html
+layout: layout.njk
 ---
 Greens will fight Ruahine law change
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: material-testing-technique-could-boost-safety-for-travellers
-title: "Material Testing Technique Could Boost Safety For Travellers"
-date: 2024-06-10
-source-url: https://www.scoop.co.nz/stories/SC2406/S00030/material-testing-technique-could-boost-safety-for-travellers.htm
+title: Material Testing Technique Could Boost Safety For Travellers
+date: 2024-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2406/S00030/material-testing-technique-could-boost-safety-for-travellers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/06/10/material-testing-technique-could-boost-safety-for-travellers/index.html
+layout: layout.njk
 ---
 Material Testing Technique Could Boost Safety For Travellers
 ============================================================

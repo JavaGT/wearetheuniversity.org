@@ -1,9 +1,12 @@
 ---
 slug: investigating-stalking-in-new-zealand
-title: "Investigating Stalking in New Zealand"
-date: 2005-08-16
-source-url: https://www.scoop.co.nz/stories/ED0508/S00077/investigating-stalking-in-new-zealand.htm
+title: Investigating Stalking in New Zealand
+date: 2005-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00077/investigating-stalking-in-new-zealand.htm
 author: auckland-university
+permalink: /archive/2005/08/16/investigating-stalking-in-new-zealand/index.html
+layout: layout.njk
 ---
 Investigating Stalking in New Zealand
 =====================================

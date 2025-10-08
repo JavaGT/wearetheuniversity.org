@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-address-financial-problems
-title: "Victoria to address financial problems"
-date: 2000-06-20
-source-url: https://www.scoop.co.nz/stories/ED0006/S00030/victoria-to-address-financial-problems.htm
+title: Victoria to address financial problems
+date: 2000-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00030/victoria-to-address-financial-problems.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/06/20/victoria-to-address-financial-problems/index.html
+layout: layout.njk
 ---
 Victoria to address financial problems
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: fee-maxima-fails-tertiary-sector
-title: "Fee Maxima Fails Tertiary Sector"
-date: 2003-08-21
-source-url: https://www.scoop.co.nz/stories/PA0308/S00423/fee-maxima-fails-tertiary-sector.htm
+title: Fee Maxima Fails Tertiary Sector
+date: 2003-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00423/fee-maxima-fails-tertiary-sector.htm
 author: green-party
+permalink: /archive/2003/08/21/fee-maxima-fails-tertiary-sector/index.html
+layout: layout.njk
 ---
 Fee Maxima Fails Tertiary Sector
 ================================

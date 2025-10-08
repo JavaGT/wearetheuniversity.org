@@ -1,9 +1,12 @@
 ---
 slug: don-brash-needs-to-speak-for-himself
-title: "Don Brash needs to speak for himself"
-date: 2006-09-25
-source-url: https://www.scoop.co.nz/stories/PA0609/S00525/don-brash-needs-to-speak-for-himself.htm
+title: Don Brash needs to speak for himself
+date: 2006-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00525/don-brash-needs-to-speak-for-himself.htm
 author: new-zealand-labour-party
+permalink: /archive/2006/09/25/don-brash-needs-to-speak-for-himself/index.html
+layout: layout.njk
 ---
 Don Brash needs to speak for himself
 ====================================

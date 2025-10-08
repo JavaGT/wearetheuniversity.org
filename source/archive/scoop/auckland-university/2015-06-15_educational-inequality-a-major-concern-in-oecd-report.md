@@ -1,9 +1,13 @@
 ---
 slug: educational-inequality-a-major-concern-in-oecd-report
-title: "Educational inequality a major concern in OECD report"
-date: 2015-06-15
-source-url: https://www.scoop.co.nz/stories/ED1506/S00067/educational-inequality-a-major-concern-in-oecd-report.htm
+title: Educational inequality a major concern in OECD report
+date: 2015-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00067/educational-inequality-a-major-concern-in-oecd-report.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/06/15/educational-inequality-a-major-concern-in-oecd-report/index.html
+layout: layout.njk
 ---
 Educational inequality a major concern in OECD report
 =====================================================

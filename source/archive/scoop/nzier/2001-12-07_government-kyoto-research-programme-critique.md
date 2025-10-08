@@ -1,9 +1,12 @@
 ---
 slug: government-kyoto-research-programme-critique
-title: "Government Kyoto Research Programme Critique"
-date: 2001-12-07
-source-url: https://www.scoop.co.nz/stories/BU0112/S00046/government-kyoto-research-programme-critique.htm
+title: Government Kyoto Research Programme Critique
+date: 2001-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0112/S00046/government-kyoto-research-programme-critique.htm
 author: nzier
+permalink: /archive/2001/12/07/government-kyoto-research-programme-critique/index.html
+layout: layout.njk
 ---
 Government Kyoto Research Programme Critique
 ============================================

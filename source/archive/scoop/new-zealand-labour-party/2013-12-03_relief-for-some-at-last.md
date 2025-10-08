@@ -1,9 +1,11 @@
 ---
 slug: relief-for-some-at-last
-title: "Relief  for some at last"
-date: 2013-12-03
+title: Relief  for some at last
+date: 2013-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1312/S00061/relief-for-some-at-last.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/12/03/relief-for-some-at-last/index.html
+layout: layout.njk
 ---
 Relief for some at last
 =======================

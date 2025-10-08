@@ -1,9 +1,12 @@
 ---
 slug: harshest-welfare-changes-on-the-table
-title: "Harshest Welfare Changes on the Table"
-date: 2011-03-15
-source-url: https://www.scoop.co.nz/stories/PA1103/S00228/harshest-welfare-changes-on-the-table.htm
+title: Harshest Welfare Changes on the Table
+date: 2011-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00228/harshest-welfare-changes-on-the-table.htm
 author: green-party
+permalink: /archive/2011/03/15/harshest-welfare-changes-on-the-table/index.html
+layout: layout.njk
 ---
 Harshest Welfare Changes on the Table
 =====================================

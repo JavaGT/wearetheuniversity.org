@@ -1,9 +1,12 @@
 ---
 slug: elderly-need-services-not-a-booklet
-title: "Elderly need services not a booklet"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/PA1109/S00408/elderly-need-services-not-a-booklet.htm
+title: Elderly need services not a booklet
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00408/elderly-need-services-not-a-booklet.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/21/elderly-need-services-not-a-booklet/index.html
+layout: layout.njk
 ---
 Elderly need services not a booklet
 ===================================

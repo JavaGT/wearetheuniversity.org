@@ -1,9 +1,12 @@
 ---
 slug: victoria-celebrates-its-newest-graduates
-title: "Victoria celebrates its newest graduates"
-date: 2009-12-11
-source-url: https://www.scoop.co.nz/stories/ED0912/S00028/victoria-celebrates-its-newest-graduates.htm
+title: Victoria celebrates its newest graduates
+date: 2009-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0912/S00028/victoria-celebrates-its-newest-graduates.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/12/11/victoria-celebrates-its-newest-graduates/index.html
+layout: layout.njk
 ---
 Victoria celebrates its newest graduates
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: the-problem-of-hunger-in-our-schools
-title: "The problem of hunger in our schools"
-date: 2014-10-17
-source-url: https://www.scoop.co.nz/stories/GE1410/S00122/the-problem-of-hunger-in-our-schools.htm
+title: The problem of hunger in our schools
+date: 2014-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1410/S00122/the-problem-of-hunger-in-our-schools.htm
 author: nzei
+permalink: /archive/2014/10/17/the-problem-of-hunger-in-our-schools/index.html
+layout: layout.njk
 ---
 The problem of hunger in our schools
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: mahareys-words-ring-hollow-with-indebted-students
-title: "Maharey’s Words Ring Hollow with Indebted Students"
-date: 2004-09-23
-source-url: https://www.scoop.co.nz/stories/ED0409/S00109/mahareys-words-ring-hollow-with-indebted-students.htm
+title: Maharey’s Words Ring Hollow with Indebted Students
+date: 2004-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00109/mahareys-words-ring-hollow-with-indebted-students.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/09/23/mahareys-words-ring-hollow-with-indebted-students/index.html
+layout: layout.njk
 ---
 Maharey’s Words Ring Hollow with Indebted Students
 ==================================================

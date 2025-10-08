@@ -1,9 +1,12 @@
 ---
 slug: lack-of-action-on-tb-disturbing
-title: "Lack Of Action On TB Disturbing"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/PA0809/S00491/lack-of-action-on-tb-disturbing.htm
+title: Lack Of Action On TB Disturbing
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00491/lack-of-action-on-tb-disturbing.htm
 author: new-zealand-first-party
+permalink: /archive/2008/09/23/lack-of-action-on-tb-disturbing/index.html
+layout: layout.njk
 ---
 Lack Of Action On TB Disturbing
 ===============================

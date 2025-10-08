@@ -1,9 +1,11 @@
 ---
 slug: prof-roy-crawford-cnzm
-title: "Prof Roy Crawford CNZM"
-date: 2016-06-24
+title: Prof Roy Crawford CNZM
+date: 2016-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1606/S00090/prof-roy-crawford-cnzm.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/06/24/prof-roy-crawford-cnzm/index.html
+layout: layout.njk
 ---
 Prof Roy Crawford CNZM
 ======================

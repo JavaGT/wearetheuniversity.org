@@ -1,9 +1,13 @@
 ---
 slug: vic-uni-invites-students-to-discuss-fees-at-forum
-title: "Vic Uni invites students to discuss fees at forum"
-date: 2009-09-07
-source-url: https://www.scoop.co.nz/stories/HL0909/S00042/vic-uni-invites-students-to-discuss-fees-at-forum.htm
+title: Vic Uni invites students to discuss fees at forum
+date: 2009-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0909/S00042/vic-uni-invites-students-to-discuss-fees-at-forum.htm
 author: salient
+permalink: >-
+  /archive/2009/09/07/vic-uni-invites-students-to-discuss-fees-at-forum/index.html
+layout: layout.njk
 ---
 Vic Uni invites students to discuss fees at forum
 =================================================

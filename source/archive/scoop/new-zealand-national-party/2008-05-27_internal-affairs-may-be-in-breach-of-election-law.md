@@ -1,9 +1,13 @@
 ---
 slug: internal-affairs-may-be-in-breach-of-election-law
-title: "Internal Affairs may be in breach of election law"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/PA0805/S00534/internal-affairs-may-be-in-breach-of-election-law.htm
+title: Internal Affairs may be in breach of election law
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00534/internal-affairs-may-be-in-breach-of-election-law.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/05/27/internal-affairs-may-be-in-breach-of-election-law/index.html
+layout: layout.njk
 ---
 Internal Affairs may be in breach of election law
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-campaign-promotes-critical-thought
-title: "Victoria campaign promotes critical thought"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/ED0609/S00038/victoria-campaign-promotes-critical-thought.htm
+title: Victoria campaign promotes critical thought
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00038/victoria-campaign-promotes-critical-thought.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/11/victoria-campaign-promotes-critical-thought/index.html
+layout: layout.njk
 ---
 Victoria campaign promotes critical thought
 ===========================================

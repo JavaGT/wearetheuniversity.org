@@ -1,9 +1,12 @@
 ---
 slug: japan-trip-to-broaden-horizons-boost-economy
-title: "Japan trip to broaden horizons, boost economy"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/ED1406/S00009/japan-trip-to-broaden-horizons-boost-economy.htm
+title: Japan trip to broaden horizons, boost economy
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00009/japan-trip-to-broaden-horizons-boost-economy.htm
 author: university-of-waikato
+permalink: /archive/2014/06/03/japan-trip-to-broaden-horizons-boost-economy/index.html
+layout: layout.njk
 ---
 Japan trip to broaden horizons, boost economy
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: everyone-deserves-a-warm-healthy-home
-title: "Everyone deserves a warm healthy home"
-date: 2010-07-23
-source-url: https://www.scoop.co.nz/stories/PA1007/S00374/everyone-deserves-a-warm-healthy-home.htm
+title: Everyone deserves a warm healthy home
+date: 2010-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00374/everyone-deserves-a-warm-healthy-home.htm
 author: green-party
+permalink: /archive/2010/07/23/everyone-deserves-a-warm-healthy-home/index.html
+layout: layout.njk
 ---
 Everyone deserves a warm healthy home
 =====================================

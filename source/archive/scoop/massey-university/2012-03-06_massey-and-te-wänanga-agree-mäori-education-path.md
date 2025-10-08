@@ -1,9 +1,12 @@
 ---
 slug: massey-and-te-wänanga-agree-mäori-education-path
-title: "Massey And Te Wänanga Agree Mäori Education Path"
-date: 2012-03-06
-source-url: https://www.scoop.co.nz/stories/ED1203/S00023/massey-and-te-wananga-agree-maori-education-path.htm
+title: Massey And Te Wänanga Agree Mäori Education Path
+date: 2012-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00023/massey-and-te-wananga-agree-maori-education-path.htm
 author: massey-university
+permalink: /archive/2012/03/06/massey-and-te-w/index.html
+layout: layout.njk
 ---
 Massey And Te Wänanga Agree Mäori Education Path
 ================================================

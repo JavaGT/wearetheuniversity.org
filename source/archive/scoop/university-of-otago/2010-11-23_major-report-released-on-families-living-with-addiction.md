@@ -1,9 +1,13 @@
 ---
 slug: major-report-released-on-families-living-with-addiction
-title: "Major report released on families living with addiction"
-date: 2010-11-23
-source-url: https://www.scoop.co.nz/stories/GE1011/S00118/major-report-released-on-families-living-with-addiction.htm
+title: Major report released on families living with addiction
+date: 2010-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1011/S00118/major-report-released-on-families-living-with-addiction.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/11/23/major-report-released-on-families-living-with-addiction/index.html
+layout: layout.njk
 ---
 Major report released on families living with addiction
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: joyce-promises-to-look-after-quake-hit-businesses
-title: "Joyce Promises to Look After Quake-Hit Businesses"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/PA1706/S00153/joyce-promises-to-look-after-quake-hit-businesses.htm
+title: Joyce Promises to Look After Quake-Hit Businesses
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00153/joyce-promises-to-look-after-quake-hit-businesses.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/06/08/joyce-promises-to-look-after-quake-hit-businesses/index.html
+layout: layout.njk
 ---
 Joyce Promises to Look After Quake-Hit Businesses
 =================================================

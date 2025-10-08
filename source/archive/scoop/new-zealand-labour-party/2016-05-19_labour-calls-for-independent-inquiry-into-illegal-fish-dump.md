@@ -1,9 +1,13 @@
 ---
 slug: labour-calls-for-independent-inquiry-into-illegal-fish-dump
-title: "Labour calls for independent inquiry into illegal fish dump"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/PA1605/S00352/labour-calls-for-independent-inquiry-into-illegal-fish-dump.htm
+title: Labour calls for independent inquiry into illegal fish dump
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00352/labour-calls-for-independent-inquiry-into-illegal-fish-dump.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/19/labour-calls-for-independent-inquiry-into-illegal-fish-dump/index.html
+layout: layout.njk
 ---
 Labour calls for independent inquiry into illegal fish dump
 ===========================================================

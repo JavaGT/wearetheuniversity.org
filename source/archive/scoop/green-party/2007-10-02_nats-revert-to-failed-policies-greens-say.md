@@ -1,9 +1,12 @@
 ---
 slug: nats-revert-to-failed-policies-greens-say
-title: "Nats revert to failed policies, Greens say"
-date: 2007-10-02
-source-url: https://www.scoop.co.nz/stories/PA0710/S00036/nats-revert-to-failed-policies-greens-say.htm
+title: Nats revert to failed policies, Greens say
+date: 2007-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00036/nats-revert-to-failed-policies-greens-say.htm
 author: green-party
+permalink: /archive/2007/10/02/nats-revert-to-failed-policies-greens-say/index.html
+layout: layout.njk
 ---
 Nats revert to failed policies, Greens say
 ==========================================

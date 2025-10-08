@@ -1,9 +1,13 @@
 ---
 slug: marsden-research-to-investigate-english-language
-title: "Marsden research to investigate English language"
-date: 2010-01-29
-source-url: https://www.scoop.co.nz/stories/ED1001/S00046/marsden-research-to-investigate-english-language.htm
+title: Marsden research to investigate English language
+date: 2010-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00046/marsden-research-to-investigate-english-language.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/01/29/marsden-research-to-investigate-english-language/index.html
+layout: layout.njk
 ---
 Marsden research to investigate English language
 ================================================

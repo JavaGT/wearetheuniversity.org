@@ -1,9 +1,12 @@
 ---
 slug: right-to-roam-still-costing-bundles
-title: "Right to roam still costing bundles"
-date: 2007-04-16
-source-url: https://www.scoop.co.nz/stories/PA0704/S00263/right-to-roam-still-costing-bundles.htm
+title: Right to roam still costing bundles
+date: 2007-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00263/right-to-roam-still-costing-bundles.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/16/right-to-roam-still-costing-bundles/index.html
+layout: layout.njk
 ---
 Right to roam still costing bundles
 ===================================

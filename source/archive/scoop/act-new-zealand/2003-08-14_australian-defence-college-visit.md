@@ -1,9 +1,12 @@
 ---
 slug: australian-defence-college-visit
-title: "Australian Defence College Visit"
-date: 2003-08-14
-source-url: https://www.scoop.co.nz/stories/PA0308/S00286/australian-defence-college-visit.htm
+title: Australian Defence College Visit
+date: 2003-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00286/australian-defence-college-visit.htm
 author: act-new-zealand
+permalink: /archive/2003/08/14/australian-defence-college-visit/index.html
+layout: layout.njk
 ---
 Australian Defence College Visit
 ================================

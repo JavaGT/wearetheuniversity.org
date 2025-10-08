@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-to-muslim-womens-hui
-title: "Tariana Turia Speech to Muslim Women’s Hui"
-date: 2005-05-16
-source-url: https://www.scoop.co.nz/stories/PA0505/S00346/tariana-turia-speech-to-muslim-womens-hui.htm
+title: Tariana Turia Speech to Muslim Women’s Hui
+date: 2005-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00346/tariana-turia-speech-to-muslim-womens-hui.htm
 author: te-pati-maori
+permalink: /archive/2005/05/16/tariana-turia-speech-to-muslim-womens-hui/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech to Muslim Women’s Hui
 ==========================================

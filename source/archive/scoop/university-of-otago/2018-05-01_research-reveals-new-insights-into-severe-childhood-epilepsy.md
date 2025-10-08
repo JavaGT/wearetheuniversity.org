@@ -1,9 +1,13 @@
 ---
 slug: research-reveals-new-insights-into-severe-childhood-epilepsy
-title: "Research reveals new insights into severe childhood epilepsy"
-date: 2018-05-01
-source-url: https://www.scoop.co.nz/stories/SC1805/S00001/research-reveals-new-insights-into-severe-childhood-epilepsy.htm
+title: Research reveals new insights into severe childhood epilepsy
+date: 2018-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1805/S00001/research-reveals-new-insights-into-severe-childhood-epilepsy.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/01/research-reveals-new-insights-into-severe-childhood-epilepsy/index.html
+layout: layout.njk
 ---
 Research reveals new insights into severe childhood epilepsy
 ============================================================

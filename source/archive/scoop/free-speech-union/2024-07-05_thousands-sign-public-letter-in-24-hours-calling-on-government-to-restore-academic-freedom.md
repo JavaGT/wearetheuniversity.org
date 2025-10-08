@@ -1,9 +1,16 @@
 ---
-slug: thousands-sign-public-letter-in-24-hours-calling-on-government-to-restore-academic-freedom
-title: "Thousands Sign Public Letter In 24 Hours, Calling On Government To Restore Academic Freedom"
-date: 2024-07-05
-source-url: https://www.scoop.co.nz/stories/PO2407/S00034/thousands-sign-public-letter-in-24-hours-calling-on-government-to-restore-academic-freedom.htm
+slug: >-
+  thousands-sign-public-letter-in-24-hours-calling-on-government-to-restore-academic-freedom
+title: >-
+  Thousands Sign Public Letter In 24 Hours, Calling On Government To Restore
+  Academic Freedom
+date: 2024-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2407/S00034/thousands-sign-public-letter-in-24-hours-calling-on-government-to-restore-academic-freedom.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/07/05/thousands-sign-public-letter-in-24-hours-calling-on-government-to-restore-academic-freedom/index.html
+layout: layout.njk
 ---
 Thousands Sign Public Letter In 24 Hours, Calling On Government To Restore Academic Freedom
 ===========================================================================================

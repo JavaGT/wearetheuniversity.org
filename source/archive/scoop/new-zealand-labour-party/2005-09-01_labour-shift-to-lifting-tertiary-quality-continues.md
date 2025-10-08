@@ -1,9 +1,13 @@
 ---
 slug: labour-shift-to-lifting-tertiary-quality-continues
-title: "Labour shift to lifting tertiary quality continues"
-date: 2005-09-01
-source-url: https://www.scoop.co.nz/stories/PA0509/S00013/labour-shift-to-lifting-tertiary-quality-continues.htm
+title: Labour shift to lifting tertiary quality continues
+date: 2005-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00013/labour-shift-to-lifting-tertiary-quality-continues.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/09/01/labour-shift-to-lifting-tertiary-quality-continues/index.html
+layout: layout.njk
 ---
 Labour shift to lifting tertiary quality continues
 ==================================================

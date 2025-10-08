@@ -1,9 +1,12 @@
 ---
 slug: human-rights-1-dr-fogelberg-0
-title: "Human Rights 1, Dr Fogelberg 0"
-date: 2000-09-10
-source-url: https://www.scoop.co.nz/stories/ED0009/S00019/human-rights-1-dr-fogelberg-0.htm
+title: Human Rights 1, Dr Fogelberg 0
+date: 2000-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00019/human-rights-1-dr-fogelberg-0.htm
 author: new-zealand-young-nationals
+permalink: /archive/2000/09/10/human-rights-1-dr-fogelberg-0/index.html
+layout: layout.njk
 ---
 Human Rights 1, Dr Fogelberg 0
 ==============================

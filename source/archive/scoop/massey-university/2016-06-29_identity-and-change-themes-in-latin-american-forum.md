@@ -1,9 +1,13 @@
 ---
 slug: identity-and-change-themes-in-latin-american-forum
-title: "Identity and change themes in Latin American forum"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/ED1606/S00112/identity-and-change-themes-in-latin-american-forum.htm
+title: Identity and change themes in Latin American forum
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00112/identity-and-change-themes-in-latin-american-forum.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/29/identity-and-change-themes-in-latin-american-forum/index.html
+layout: layout.njk
 ---
 Identity and change themes in Latin American forum
 ==================================================

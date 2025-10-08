@@ -1,9 +1,12 @@
 ---
 slug: health-&-safety-reforms-another-we-told-you-so
 title: \\"Health & Safety Reforms – Another \"We Told You So\""
-date: 2015-07-20
-source-url: https://www.scoop.co.nz/stories/PA1507/S00316/health-safety-reforms-another-we-told-you-so.htm
+date: 2015-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00316/health-safety-reforms-another-we-told-you-so.htm
 author: new-zealand-first-party
+permalink: /archive/2015/07/20/health-/index.html
+layout: layout.njk
 ---
 Health & Safety Reforms – Another “We Told You So"
 ==================================================

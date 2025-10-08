@@ -1,9 +1,12 @@
 ---
 slug: helping-farmers-as-receivership-threatens
-title: "Helping Farmers as Receivership Threatens"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/PA1505/S00215/helping-farmers-as-receivership-threatens.htm
+title: Helping Farmers as Receivership Threatens
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00215/helping-farmers-as-receivership-threatens.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/13/helping-farmers-as-receivership-threatens/index.html
+layout: layout.njk
 ---
 Helping Farmers as Receivership Threatens
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: students-stand-up-for-democratic-universities
-title: "Students stand up for democratic universities"
-date: 2015-03-19
-source-url: https://www.scoop.co.nz/stories/ED1503/S00084/students-stand-up-for-democratic-universities.htm
+title: Students stand up for democratic universities
+date: 2015-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00084/students-stand-up-for-democratic-universities.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/03/19/students-stand-up-for-democratic-universities/index.html
+layout: layout.njk
 ---
 Students stand up for democratic universities
 =============================================

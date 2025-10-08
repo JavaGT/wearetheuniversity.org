@@ -1,9 +1,13 @@
 ---
 slug: herbicides-can-cause-bacterial-antibiotic-resistance
-title: "Herbicides can cause bacterial antibiotic resistance"
-date: 2015-03-24
-source-url: https://www.scoop.co.nz/stories/GE1503/S00100/herbicides-can-cause-bacterial-antibiotic-resistance.htm
+title: Herbicides can cause bacterial antibiotic resistance
+date: 2015-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1503/S00100/herbicides-can-cause-bacterial-antibiotic-resistance.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/24/herbicides-can-cause-bacterial-antibiotic-resistance/index.html
+layout: layout.njk
 ---
 Herbicides can cause bacterial antibiotic resistance
 ====================================================

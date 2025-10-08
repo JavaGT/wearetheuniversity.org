@@ -1,9 +1,13 @@
 ---
 slug: women-in-space-is-on-a-mission-to-reach-for-the-stars
-title: "Women In Space Is On A Mission To Reach For The Stars"
-date: 2022-02-18
-source-url: https://www.scoop.co.nz/stories/SC2202/S00038/women-in-space-is-on-a-mission-to-reach-for-the-stars.htm
+title: Women In Space Is On A Mission To Reach For The Stars
+date: 2022-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2202/S00038/women-in-space-is-on-a-mission-to-reach-for-the-stars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/02/18/women-in-space-is-on-a-mission-to-reach-for-the-stars/index.html
+layout: layout.njk
 ---
 Women In Space Is On A Mission To Reach For The Stars
 =====================================================

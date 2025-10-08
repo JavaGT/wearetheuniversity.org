@@ -1,9 +1,12 @@
 ---
 slug: aucklanders-in-more-danger-under-labour
-title: "Aucklanders In More Danger Under Labour"
-date: 2021-08-13
-source-url: https://www.scoop.co.nz/stories/PA2108/S00130/aucklanders-in-more-danger-under-labour.htm
+title: Aucklanders In More Danger Under Labour
+date: 2021-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00130/aucklanders-in-more-danger-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2021/08/13/aucklanders-in-more-danger-under-labour/index.html
+layout: layout.njk
 ---
 Aucklanders In More Danger Under Labour
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: $40-million-peace-dividend-amendments-to-budget
-title: "$40 million \"Peace Dividend\" Amendments To Budget"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PA0008/S00435/40-million-peace-dividend-amendments-to-budget.htm
+title: $40 million "Peace Dividend" Amendments To Budget
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00435/40-million-peace-dividend-amendments-to-budget.htm
 author: green-party
+permalink: /archive/2000/08/23/40-million/index.html
+layout: layout.njk
 ---
 $40 million "Peace Dividend" Amendments To Budget
 =================================================

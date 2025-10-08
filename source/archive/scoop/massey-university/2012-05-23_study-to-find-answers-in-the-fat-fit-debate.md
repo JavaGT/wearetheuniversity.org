@@ -1,9 +1,12 @@
 ---
 slug: study-to-find-answers-in-the-fat-fit-debate
-title: "Study to find answers in the fat-fit debate"
-date: 2012-05-23
-source-url: https://www.scoop.co.nz/stories/SC1205/S00048/study-to-find-answers-in-the-fat-fit-debate.htm
+title: Study to find answers in the fat-fit debate
+date: 2012-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00048/study-to-find-answers-in-the-fat-fit-debate.htm
 author: massey-university
+permalink: /archive/2012/05/23/study-to-find-answers-in-the-fat-fit-debate/index.html
+layout: layout.njk
 ---
 Study to find answers in the fat-fit debate
 ===========================================

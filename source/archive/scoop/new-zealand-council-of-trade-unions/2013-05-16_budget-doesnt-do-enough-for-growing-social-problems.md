@@ -1,9 +1,13 @@
 ---
 slug: budget-doesnt-do-enough-for-growing-social-problems
-title: "Budget doesn’t do enough for growing social problems"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PO1305/S00231/budget-doesnt-do-enough-for-growing-social-problems.htm
+title: Budget doesn’t do enough for growing social problems
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00231/budget-doesnt-do-enough-for-growing-social-problems.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2013/05/16/budget-doesnt-do-enough-for-growing-social-problems/index.html
+layout: layout.njk
 ---
 Budget doesn’t do enough for growing social problems
 ====================================================

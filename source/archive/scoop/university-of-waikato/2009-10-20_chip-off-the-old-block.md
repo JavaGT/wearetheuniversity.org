@@ -1,9 +1,11 @@
 ---
 slug: chip-off-the-old-block
-title: "Chip off the old block"
-date: 2009-10-20
+title: Chip off the old block
+date: 2009-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0910/S00090/chip-off-the-old-block.htm
 author: university-of-waikato
+permalink: /archive/2009/10/20/chip-off-the-old-block/index.html
+layout: layout.njk
 ---
 Chip off the old block
 ======================

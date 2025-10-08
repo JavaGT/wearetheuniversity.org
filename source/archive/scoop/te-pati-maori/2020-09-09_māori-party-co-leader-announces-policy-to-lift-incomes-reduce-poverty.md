@@ -1,9 +1,12 @@
 ---
 slug: māori-party-co-leader-announces-policy-to-lift-incomes-reduce-poverty
-title: "Māori Party Co-leader Announces Policy To Lift Incomes, Reduce Poverty"
-date: 2020-09-09
-source-url: https://www.scoop.co.nz/stories/PO2009/S00094/maori-party-co-leader-announces-policy-to-lift-incomes-reduce-poverty.htm
+title: Māori Party Co-leader Announces Policy To Lift Incomes, Reduce Poverty
+date: 2020-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00094/maori-party-co-leader-announces-policy-to-lift-incomes-reduce-poverty.htm
 author: te-pati-maori
+permalink: /archive/2020/09/09/m/index.html
+layout: layout.njk
 ---
 Māori Party Co-leader Announces Policy To Lift Incomes, Reduce Poverty
 ======================================================================

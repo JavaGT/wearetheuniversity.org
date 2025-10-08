@@ -1,9 +1,12 @@
 ---
 slug: socialising-paramount-for-young-rowers
-title: "Socialising paramount for young rowers"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/CU1511/S00248/socialising-paramount-for-young-rowers.htm
+title: Socialising paramount for young rowers
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1511/S00248/socialising-paramount-for-young-rowers.htm
 author: lincoln-university
+permalink: /archive/2015/11/18/socialising-paramount-for-young-rowers/index.html
+layout: layout.njk
 ---
 Socialising paramount for young rowers
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: supercomputer-to-boost-ska-chances
-title: "Supercomputer to boost SKA chances"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/ED1104/S00041/supercomputer-to-boost-ska-chances.htm
+title: Supercomputer to boost SKA chances
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00041/supercomputer-to-boost-ska-chances.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/04/12/supercomputer-to-boost-ska-chances/index.html
+layout: layout.njk
 ---
 Supercomputer to boost SKA chances
 ==================================

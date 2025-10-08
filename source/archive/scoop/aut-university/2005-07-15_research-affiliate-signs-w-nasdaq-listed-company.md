@@ -1,9 +1,13 @@
 ---
 slug: research-affiliate-signs-w-nasdaq-listed-company
-title: "Research affiliate signs w NASDAQ listed company"
-date: 2005-07-15
-source-url: https://www.scoop.co.nz/stories/ED0507/S00054/research-affiliate-signs-w-nasdaq-listed-company.htm
+title: Research affiliate signs w NASDAQ listed company
+date: 2005-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00054/research-affiliate-signs-w-nasdaq-listed-company.htm
 author: aut-university
+permalink: >-
+  /archive/2005/07/15/research-affiliate-signs-w-nasdaq-listed-company/index.html
+layout: layout.njk
 ---
 Research affiliate signs w NASDAQ listed company
 ================================================

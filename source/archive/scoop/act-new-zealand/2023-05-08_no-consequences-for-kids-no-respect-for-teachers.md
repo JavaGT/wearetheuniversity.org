@@ -1,9 +1,13 @@
 ---
 slug: no-consequences-for-kids-no-respect-for-teachers
-title: "No Consequences For Kids, No Respect For Teachers"
-date: 2023-05-08
-source-url: https://www.scoop.co.nz/stories/PA2305/S00047/no-consequences-for-kids-no-respect-for-teachers.htm
+title: No Consequences For Kids, No Respect For Teachers
+date: 2023-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00047/no-consequences-for-kids-no-respect-for-teachers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/05/08/no-consequences-for-kids-no-respect-for-teachers/index.html
+layout: layout.njk
 ---
 No Consequences For Kids, No Respect For Teachers
 =================================================

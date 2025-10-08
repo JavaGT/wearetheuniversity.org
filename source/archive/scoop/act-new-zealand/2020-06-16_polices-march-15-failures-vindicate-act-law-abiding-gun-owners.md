@@ -1,9 +1,13 @@
 ---
 slug: polices-march-15-failures-vindicate-act-law-abiding-gun-owners
-title: "Police’s March 15 Failures Vindicate ACT, Law-abiding Gun Owners"
-date: 2020-06-16
-source-url: https://www.scoop.co.nz/stories/PA2006/S00134/polices-march-15-failures-vindicate-act-law-abiding-gun-owners.htm
+title: Police’s March 15 Failures Vindicate ACT, Law-abiding Gun Owners
+date: 2020-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00134/polices-march-15-failures-vindicate-act-law-abiding-gun-owners.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/16/polices-march-15-failures-vindicate-act-law-abiding-gun-owners/index.html
+layout: layout.njk
 ---
 Police’s March 15 Failures Vindicate ACT, Law-abiding Gun Owners
 ================================================================

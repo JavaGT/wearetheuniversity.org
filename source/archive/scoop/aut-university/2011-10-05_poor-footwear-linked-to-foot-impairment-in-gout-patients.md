@@ -1,9 +1,13 @@
 ---
 slug: poor-footwear-linked-to-foot-impairment-in-gout-patients
-title: "Poor footwear linked to foot impairment in gout patients"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/GE1110/S00016/poor-footwear-linked-to-foot-impairment-in-gout-patients.htm
+title: Poor footwear linked to foot impairment in gout patients
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1110/S00016/poor-footwear-linked-to-foot-impairment-in-gout-patients.htm
 author: aut-university
+permalink: >-
+  /archive/2011/10/05/poor-footwear-linked-to-foot-impairment-in-gout-patients/index.html
+layout: layout.njk
 ---
 Poor footwear linked to foot impairment in gout patients
 ========================================================

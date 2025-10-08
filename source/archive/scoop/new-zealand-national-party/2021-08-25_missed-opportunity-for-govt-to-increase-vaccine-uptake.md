@@ -1,9 +1,13 @@
 ---
 slug: missed-opportunity-for-govt-to-increase-vaccine-uptake
-title: "Missed opportunity for Govt to increase vaccine uptake"
-date: 2021-08-25
-source-url: https://www.scoop.co.nz/stories/PA2108/S00217/missed-opportunity-for-govt-to-increase-vaccine-uptake.htm
+title: Missed opportunity for Govt to increase vaccine uptake
+date: 2021-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00217/missed-opportunity-for-govt-to-increase-vaccine-uptake.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/08/25/missed-opportunity-for-govt-to-increase-vaccine-uptake/index.html
+layout: layout.njk
 ---
 Missed opportunity for Govt to increase vaccine uptake
 ======================================================

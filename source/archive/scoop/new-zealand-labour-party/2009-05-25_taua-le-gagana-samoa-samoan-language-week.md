@@ -1,9 +1,12 @@
 ---
 slug: taua-le-gagana-samoa-samoan-language-week
-title: "\"Taua le Gagana Samoa\" - Samoan Language Week"
-date: 2009-05-25
-source-url: https://www.scoop.co.nz/stories/PA0905/S00422/taua-le-gagana-samoa-samoan-language-week.htm
+title: '"Taua le Gagana Samoa" - Samoan Language Week'
+date: 2009-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00422/taua-le-gagana-samoa-samoan-language-week.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/25/taua-le-gagana-samoa-samoan-language-week/index.html
+layout: layout.njk
 ---
 "Taua le Gagana Samoa" - Samoan Language Week
 =============================================

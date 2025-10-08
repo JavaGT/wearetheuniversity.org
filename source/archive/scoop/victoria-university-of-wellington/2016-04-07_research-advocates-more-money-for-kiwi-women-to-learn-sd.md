@@ -1,9 +1,13 @@
 ---
 slug: research-advocates-more-money-for-kiwi-women-to-learn-sd
-title: "Research advocates more money for Kiwi women to learn SD"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/ED1604/S00018/research-advocates-more-money-for-kiwi-women-to-learn-sd.htm
+title: Research advocates more money for Kiwi women to learn SD
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00018/research-advocates-more-money-for-kiwi-women-to-learn-sd.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/04/07/research-advocates-more-money-for-kiwi-women-to-learn-sd/index.html
+layout: layout.njk
 ---
 Research advocates more money for Kiwi women to learn SD
 ========================================================

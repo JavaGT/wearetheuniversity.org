@@ -1,9 +1,13 @@
 ---
 slug: university-attempts-to-induce-staff-to-leave-union
-title: "University attempts to induce staff to leave union"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/ED0503/S00073/university-attempts-to-induce-staff-to-leave-union.htm
+title: University attempts to induce staff to leave union
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00073/university-attempts-to-induce-staff-to-leave-union.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2005/03/21/university-attempts-to-induce-staff-to-leave-union/index.html
+layout: layout.njk
 ---
 University attempts to induce staff to leave union
 ==================================================

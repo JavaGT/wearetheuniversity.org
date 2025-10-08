@@ -1,9 +1,11 @@
 ---
 slug: contrasts-in-punishment
-title: "Contrasts in Punishment"
-date: 2013-01-29
+title: Contrasts in Punishment
+date: 2013-01-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1301/S00099/contrasts-in-punishment.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/01/29/contrasts-in-punishment/index.html
+layout: layout.njk
 ---
 Contrasts in Punishment
 =======================

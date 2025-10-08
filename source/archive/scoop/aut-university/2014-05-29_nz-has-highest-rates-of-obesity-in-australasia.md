@@ -1,9 +1,12 @@
 ---
 slug: nz-has-highest-rates-of-obesity-in-australasia
-title: "NZ has highest rates of  obesity in Australasia"
-date: 2014-05-29
-source-url: https://www.scoop.co.nz/stories/GE1405/S00163/nz-has-highest-rates-of-obesity-in-australasia.htm
+title: NZ has highest rates of  obesity in Australasia
+date: 2014-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00163/nz-has-highest-rates-of-obesity-in-australasia.htm
 author: aut-university
+permalink: /archive/2014/05/29/nz-has-highest-rates-of-obesity-in-australasia/index.html
+layout: layout.njk
 ---
 NZ has highest rates of obesity in Australasia
 ==============================================

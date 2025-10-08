@@ -1,9 +1,13 @@
 ---
 slug: bridges-doesnt-build-bridges-to-west-coast-miners
-title: "Bridges Doesn’t Build Bridges to West Coast Miners"
-date: 2017-07-14
-source-url: https://www.scoop.co.nz/stories/PA1707/S00212/bridges-doesnt-build-bridges-to-west-coast-miners.htm
+title: Bridges Doesn’t Build Bridges to West Coast Miners
+date: 2017-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00212/bridges-doesnt-build-bridges-to-west-coast-miners.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/07/14/bridges-doesnt-build-bridges-to-west-coast-miners/index.html
+layout: layout.njk
 ---
 Bridges Doesn’t Build Bridges to West Coast Miners
 ==================================================

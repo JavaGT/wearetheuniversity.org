@@ -1,9 +1,11 @@
 ---
 slug: burglary-response-times
-title: "Burglary Response Times"
-date: 2003-03-05
+title: Burglary Response Times
+date: 2003-03-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0303/S00065/burglary-response-times.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/05/burglary-response-times/index.html
+layout: layout.njk
 ---
 Burglary Response Times
 =======================

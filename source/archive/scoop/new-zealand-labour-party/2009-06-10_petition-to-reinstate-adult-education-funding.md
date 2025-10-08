@@ -1,9 +1,12 @@
 ---
 slug: petition-to-reinstate-adult-education-funding
-title: "Petition to reinstate adult education funding"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/PA0906/S00130/petition-to-reinstate-adult-education-funding.htm
+title: Petition to reinstate adult education funding
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00130/petition-to-reinstate-adult-education-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/10/petition-to-reinstate-adult-education-funding/index.html
+layout: layout.njk
 ---
 Petition to reinstate adult education funding
 =============================================

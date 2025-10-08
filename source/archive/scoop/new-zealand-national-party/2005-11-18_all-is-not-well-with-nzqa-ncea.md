@@ -1,9 +1,12 @@
 ---
 slug: all-is-not-well-with-nzqa-ncea
-title: "All is not well with NZQA, NCEA"
-date: 2005-11-18
-source-url: https://www.scoop.co.nz/stories/PA0511/S00262/all-is-not-well-with-nzqa-ncea.htm
+title: All is not well with NZQA, NCEA
+date: 2005-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00262/all-is-not-well-with-nzqa-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/18/all-is-not-well-with-nzqa-ncea/index.html
+layout: layout.njk
 ---
 All is not well with NZQA, NCEA
 ===============================

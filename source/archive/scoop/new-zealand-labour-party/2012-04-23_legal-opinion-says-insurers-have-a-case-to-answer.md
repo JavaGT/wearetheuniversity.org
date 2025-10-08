@@ -1,9 +1,13 @@
 ---
 slug: legal-opinion-says-insurers-have-a-case-to-answer
-title: "Legal Opinion Says Insurers Have A Case To Answer"
-date: 2012-04-23
-source-url: https://www.scoop.co.nz/stories/PA1204/S00281/legal-opinion-says-insurers-have-a-case-to-answer.htm
+title: Legal Opinion Says Insurers Have A Case To Answer
+date: 2012-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00281/legal-opinion-says-insurers-have-a-case-to-answer.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/04/23/legal-opinion-says-insurers-have-a-case-to-answer/index.html
+layout: layout.njk
 ---
 Legal Opinion Says Insurers Have A Case To Answer
 =================================================

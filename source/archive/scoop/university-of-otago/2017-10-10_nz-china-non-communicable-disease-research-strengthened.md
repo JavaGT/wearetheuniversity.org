@@ -1,9 +1,13 @@
 ---
 slug: nz-china-non-communicable-disease-research-strengthened
-title: "NZ-China non-communicable disease research strengthened"
-date: 2017-10-10
-source-url: https://www.scoop.co.nz/stories/SC1710/S00019/nz-china-non-communicable-disease-research-strengthened.htm
+title: NZ-China non-communicable disease research strengthened
+date: 2017-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1710/S00019/nz-china-non-communicable-disease-research-strengthened.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/10/nz-china-non-communicable-disease-research-strengthened/index.html
+layout: layout.njk
 ---
 NZ-China non-communicable disease research strengthened
 =======================================================

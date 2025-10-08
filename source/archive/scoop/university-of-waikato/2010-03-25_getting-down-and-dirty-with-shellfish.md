@@ -1,9 +1,12 @@
 ---
 slug: getting-down-and-dirty-with-shellfish
-title: "Getting down and dirty with shellfish"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/ED1003/S00114/getting-down-and-dirty-with-shellfish.htm
+title: Getting down and dirty with shellfish
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00114/getting-down-and-dirty-with-shellfish.htm
 author: university-of-waikato
+permalink: /archive/2010/03/25/getting-down-and-dirty-with-shellfish/index.html
+layout: layout.njk
 ---
 Getting down and dirty with shellfish
 =====================================

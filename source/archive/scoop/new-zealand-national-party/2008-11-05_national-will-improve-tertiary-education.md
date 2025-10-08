@@ -1,9 +1,12 @@
 ---
 slug: national-will-improve-tertiary-education
-title: "National will improve tertiary education"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PA0811/S00107/national-will-improve-tertiary-education.htm
+title: National will improve tertiary education
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00107/national-will-improve-tertiary-education.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/05/national-will-improve-tertiary-education/index.html
+layout: layout.njk
 ---
 National will improve tertiary education
 ========================================

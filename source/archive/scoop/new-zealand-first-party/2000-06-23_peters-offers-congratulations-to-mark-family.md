@@ -1,9 +1,12 @@
 ---
 slug: peters-offers-congratulations-to-mark-family
-title: "Peters Offers Congratulations To Mark Family"
-date: 2000-06-23
-source-url: https://www.scoop.co.nz/stories/PA0006/S00531/peters-offers-congratulations-to-mark-family.htm
+title: Peters Offers Congratulations To Mark Family
+date: 2000-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00531/peters-offers-congratulations-to-mark-family.htm
 author: new-zealand-first-party
+permalink: /archive/2000/06/23/peters-offers-congratulations-to-mark-family/index.html
+layout: layout.njk
 ---
 Peters Offers Congratulations To Mark Family
 ============================================

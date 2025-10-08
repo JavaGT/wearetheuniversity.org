@@ -1,9 +1,12 @@
 ---
 slug: education-minister-should-be-more-upfront
-title: "Education Minister Should Be More Upfront"
-date: 2001-05-04
-source-url: https://www.scoop.co.nz/stories/PA0105/S00102/education-minister-should-be-more-upfront.htm
+title: Education Minister Should Be More Upfront
+date: 2001-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00102/education-minister-should-be-more-upfront.htm
 author: green-party
+permalink: /archive/2001/05/04/education-minister-should-be-more-upfront/index.html
+layout: layout.njk
 ---
 Education Minister Should Be More Upfront
 =========================================

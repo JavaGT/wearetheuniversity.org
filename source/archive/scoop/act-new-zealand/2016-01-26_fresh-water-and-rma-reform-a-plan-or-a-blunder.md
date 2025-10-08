@@ -1,9 +1,12 @@
 ---
 slug: fresh-water-and-rma-reform-a-plan-or-a-blunder
-title: "Fresh Water and RMA reform: a plan or a blunder?"
-date: 2016-01-26
-source-url: https://www.scoop.co.nz/stories/PA1601/S00104/fresh-water-and-rma-reform-a-plan-or-a-blunder.htm
+title: 'Fresh Water and RMA reform: a plan or a blunder?'
+date: 2016-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00104/fresh-water-and-rma-reform-a-plan-or-a-blunder.htm
 author: act-new-zealand
+permalink: /archive/2016/01/26/fresh-water-and-rma-reform-a-plan-or-a-blunder/index.html
+layout: layout.njk
 ---
 Fresh Water and RMA reform: a plan or a blunder?
 ================================================

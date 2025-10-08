@@ -1,9 +1,11 @@
 ---
 slug: housing-crisis-what-crisis
-title: "Housing crisis, what crisis?"
-date: 2013-04-18
+title: Housing crisis, what crisis?
+date: 2013-04-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1304/S00374/housing-crisis-what-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/18/housing-crisis-what-crisis/index.html
+layout: layout.njk
 ---
 Housing crisis, what crisis?
 ============================

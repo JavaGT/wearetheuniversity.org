@@ -1,9 +1,13 @@
 ---
 slug: new-research-reveals-climate-change-origins-of-great-barrier-reef
-title: "New Research Reveals Climate Change Origins Of Great Barrier Reef"
-date: 2022-11-15
-source-url: https://www.scoop.co.nz/stories/SC2211/S00026/new-research-reveals-climate-change-origins-of-great-barrier-reef.htm
+title: New Research Reveals Climate Change Origins Of Great Barrier Reef
+date: 2022-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2211/S00026/new-research-reveals-climate-change-origins-of-great-barrier-reef.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/11/15/new-research-reveals-climate-change-origins-of-great-barrier-reef/index.html
+layout: layout.njk
 ---
 New Research Reveals Climate Change Origins Of Great Barrier Reef
 =================================================================

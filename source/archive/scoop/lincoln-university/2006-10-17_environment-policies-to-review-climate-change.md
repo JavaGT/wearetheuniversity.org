@@ -1,9 +1,12 @@
 ---
 slug: environment-policies-to-review-climate-change
-title: "Environment Policies to Review Climate Change"
-date: 2006-10-17
-source-url: https://www.scoop.co.nz/stories/SC0610/S00032/environment-policies-to-review-climate-change.htm
+title: Environment Policies to Review Climate Change
+date: 2006-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0610/S00032/environment-policies-to-review-climate-change.htm
 author: lincoln-university
+permalink: /archive/2006/10/17/environment-policies-to-review-climate-change/index.html
+layout: layout.njk
 ---
 Environment Policies to Review Climate Change
 =============================================

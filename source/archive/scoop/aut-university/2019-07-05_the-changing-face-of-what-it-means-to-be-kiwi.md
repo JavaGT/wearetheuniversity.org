@@ -1,9 +1,12 @@
 ---
 slug: the-changing-face-of-what-it-means-to-be-kiwi
-title: "The changing face of what it means to be Kiwi"
-date: 2019-07-05
-source-url: https://www.scoop.co.nz/stories/CU1907/S00062/the-changing-face-of-what-it-means-to-be-kiwi.htm
+title: The changing face of what it means to be Kiwi
+date: 2019-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1907/S00062/the-changing-face-of-what-it-means-to-be-kiwi.htm
 author: aut-university
+permalink: /archive/2019/07/05/the-changing-face-of-what-it-means-to-be-kiwi/index.html
+layout: layout.njk
 ---
 The changing face of what it means to be Kiwi
 =============================================

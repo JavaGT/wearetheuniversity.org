@@ -1,9 +1,13 @@
 ---
 slug: labours-manurewa-papakura-auckland-council-candidates
-title: "Labour's Manurewa-Papakura Auckland Council Candidates"
-date: 2019-06-20
-source-url: https://www.scoop.co.nz/stories/AK1906/S00479/labours-manurewa-papakura-auckland-council-candidates.htm
+title: Labour's Manurewa-Papakura Auckland Council Candidates
+date: 2019-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1906/S00479/labours-manurewa-papakura-auckland-council-candidates.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2019/06/20/labours-manurewa-papakura-auckland-council-candidates/index.html
+layout: layout.njk
 ---
 Labour's Manurewa-Papakura Auckland Council Candidates
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: recognition-for-unselfish-fellow
-title: "Recognition for unselfish Fellow"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/ED1506/S00021/recognition-for-unselfish-fellow.htm
+title: Recognition for unselfish Fellow
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00021/recognition-for-unselfish-fellow.htm
 author: lincoln-university
+permalink: /archive/2015/06/04/recognition-for-unselfish-fellow/index.html
+layout: layout.njk
 ---
 Recognition for unselfish Fellow
 ================================

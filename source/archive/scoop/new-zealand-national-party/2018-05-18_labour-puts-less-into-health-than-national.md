@@ -1,9 +1,12 @@
 ---
 slug: labour-puts-less-into-health-than-national
-title: "Labour puts less into Health than National"
-date: 2018-05-18
-source-url: https://www.scoop.co.nz/stories/PA1805/S00272/labour-puts-less-into-health-than-national.htm
+title: Labour puts less into Health than National
+date: 2018-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00272/labour-puts-less-into-health-than-national.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/18/labour-puts-less-into-health-than-national/index.html
+layout: layout.njk
 ---
 Labour puts less into Health than National
 ==========================================

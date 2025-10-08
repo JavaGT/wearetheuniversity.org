@@ -1,9 +1,12 @@
 ---
 slug: volunteer-expo-can-open-doors-to-jobs
-title: "Volunteer expo can open doors to jobs"
-date: 2015-05-13
-source-url: https://www.scoop.co.nz/stories/ED1505/S00059/volunteer-expo-can-open-doors-to-jobs.htm
+title: Volunteer expo can open doors to jobs
+date: 2015-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00059/volunteer-expo-can-open-doors-to-jobs.htm
 author: massey-university
+permalink: /archive/2015/05/13/volunteer-expo-can-open-doors-to-jobs/index.html
+layout: layout.njk
 ---
 Volunteer expo can open doors to jobs
 =====================================

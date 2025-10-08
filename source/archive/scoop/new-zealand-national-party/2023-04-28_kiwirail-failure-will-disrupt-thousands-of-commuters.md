@@ -1,9 +1,13 @@
 ---
 slug: kiwirail-failure-will-disrupt-thousands-of-commuters
-title: "KiwiRail failure will disrupt thousands of commuters"
-date: 2023-04-28
-source-url: https://www.scoop.co.nz/stories/PA2304/S00184/kiwirail-failure-will-disrupt-thousands-of-commuters.htm
+title: KiwiRail failure will disrupt thousands of commuters
+date: 2023-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00184/kiwirail-failure-will-disrupt-thousands-of-commuters.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/04/28/kiwirail-failure-will-disrupt-thousands-of-commuters/index.html
+layout: layout.njk
 ---
 KiwiRail failure will disrupt thousands of commuters
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: lecture-to-celebrate-achievements-of-women
-title: "Lecture to celebrate achievements of women"
-date: 2016-09-02
-source-url: https://www.scoop.co.nz/stories/PA1609/S00036/lecture-to-celebrate-achievements-of-women.htm
+title: Lecture to celebrate achievements of women
+date: 2016-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00036/lecture-to-celebrate-achievements-of-women.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/02/lecture-to-celebrate-achievements-of-women/index.html
+layout: layout.njk
 ---
 Lecture to celebrate achievements of women
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-spin-wont-hide-tenancy-cuts
-title: "Government spin won’t hide tenancy cuts"
-date: 2005-11-03
-source-url: https://www.scoop.co.nz/stories/PA0511/S00049/government-spin-wont-hide-tenancy-cuts.htm
+title: Government spin won’t hide tenancy cuts
+date: 2005-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00049/government-spin-wont-hide-tenancy-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/03/government-spin-wont-hide-tenancy-cuts/index.html
+layout: layout.njk
 ---
 Government spin won’t hide tenancy cuts
 =======================================

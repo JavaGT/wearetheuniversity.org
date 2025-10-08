@@ -1,9 +1,12 @@
 ---
 slug: dhbs-child-health-programme-applauded
-title: "DHB's Child Health Programme Applauded"
-date: 2004-06-02
-source-url: https://www.scoop.co.nz/stories/PA0406/S00060/dhbs-child-health-programme-applauded.htm
+title: DHB's Child Health Programme Applauded
+date: 2004-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00060/dhbs-child-health-programme-applauded.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/02/dhbs-child-health-programme-applauded/index.html
+layout: layout.njk
 ---
 DHB's Child Health Programme Applauded
 ======================================

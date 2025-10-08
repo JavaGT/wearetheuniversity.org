@@ -1,9 +1,13 @@
 ---
 slug: lab-inaction-sees-auckland-teacher-crisis-implode
-title: "Lab inaction sees Auckland teacher crisis implode"
-date: 2007-11-30
-source-url: https://www.scoop.co.nz/stories/PA0711/S00624/lab-inaction-sees-auckland-teacher-crisis-implode.htm
+title: Lab inaction sees Auckland teacher crisis implode
+date: 2007-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00624/lab-inaction-sees-auckland-teacher-crisis-implode.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/11/30/lab-inaction-sees-auckland-teacher-crisis-implode/index.html
+layout: layout.njk
 ---
 Lab inaction sees Auckland teacher crisis implode
 =================================================

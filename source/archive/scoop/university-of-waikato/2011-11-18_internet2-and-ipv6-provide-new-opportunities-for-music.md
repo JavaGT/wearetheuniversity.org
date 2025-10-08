@@ -1,9 +1,13 @@
 ---
 slug: internet2-and-ipv6-provide-new-opportunities-for-music
-title: "Internet2 and IPV6 provide new opportunities for music"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/SC1111/S00035/internet2-and-ipv6-provide-new-opportunities-for-music.htm
+title: Internet2 and IPV6 provide new opportunities for music
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00035/internet2-and-ipv6-provide-new-opportunities-for-music.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/11/18/internet2-and-ipv6-provide-new-opportunities-for-music/index.html
+layout: layout.njk
 ---
 Internet2 and IPV6 provide new opportunities for music
 ======================================================

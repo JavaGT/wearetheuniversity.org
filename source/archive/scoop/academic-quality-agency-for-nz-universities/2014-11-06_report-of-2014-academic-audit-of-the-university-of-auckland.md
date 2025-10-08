@@ -1,9 +1,13 @@
 ---
 slug: report-of-2014-academic-audit-of-the-university-of-auckland
-title: "Report of 2014 Academic Audit of the University of Auckland"
-date: 2014-11-06
-source-url: https://www.scoop.co.nz/stories/ED1411/S00034/report-of-2014-academic-audit-of-the-university-of-auckland.htm
+title: Report of 2014 Academic Audit of the University of Auckland
+date: 2014-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00034/report-of-2014-academic-audit-of-the-university-of-auckland.htm
 author: academic-quality-agency-for-nz-universities
+permalink: >-
+  /archive/2014/11/06/report-of-2014-academic-audit-of-the-university-of-auckland/index.html
+layout: layout.njk
 ---
 Report of 2014 Academic Audit of the University of Auckland
 ===========================================================

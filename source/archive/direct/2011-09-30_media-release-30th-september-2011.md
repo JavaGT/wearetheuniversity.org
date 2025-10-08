@@ -1,11 +1,14 @@
 ---
 title: Media Release – 30th September 2011
 slug: media-release-30th-september-2011
-date: 2011-09-30
-source: https://web.archive.org/web/20130208031040/http://wearetheuniversity.org.nz/press-releases/media-release-30th-september-2011/
+date: 2011-09-30T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208031040/http://wearetheuniversity.org.nz/press-releases/media-release-30th-september-2011/
 source-name: wearetheuniversity.org.nz (archived)
 author: We Are The University
 author-slug: we-are-the-university
+permalink: /archive/2011/09/30/media-release-30th-september-2011/index.html
+layout: layout.njk
 ---
 
 **Media Release – 30th September 2011**

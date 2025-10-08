@@ -1,9 +1,12 @@
 ---
 slug: inquiry-needed-into-building-supplies-monopoly
-title: "Inquiry needed into building supplies monopoly"
-date: 2014-11-12
-source-url: https://www.scoop.co.nz/stories/PA1411/S00151/inquiry-needed-into-building-supplies-monopoly.htm
+title: Inquiry needed into building supplies monopoly
+date: 2014-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00151/inquiry-needed-into-building-supplies-monopoly.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/12/inquiry-needed-into-building-supplies-monopoly/index.html
+layout: layout.njk
 ---
 Inquiry needed into building supplies monopoly
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: twin-ambitions-for-twin-brothers
-title: "Twin ambitions for twin brothers"
-date: 2014-12-12
-source-url: https://www.scoop.co.nz/stories/ED1412/S00084/twin-ambitions-for-twin-brothers.htm
+title: Twin ambitions for twin brothers
+date: 2014-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00084/twin-ambitions-for-twin-brothers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/12/12/twin-ambitions-for-twin-brothers/index.html
+layout: layout.njk
 ---
 Twin ambitions for twin brothers
 ================================

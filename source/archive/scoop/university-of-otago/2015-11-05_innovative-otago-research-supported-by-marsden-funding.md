@@ -1,9 +1,13 @@
 ---
 slug: innovative-otago-research-supported-by-marsden-funding
-title: "Innovative Otago research supported by Marsden funding"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/SC1511/S00017/innovative-otago-research-supported-by-marsden-funding.htm
+title: Innovative Otago research supported by Marsden funding
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00017/innovative-otago-research-supported-by-marsden-funding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/11/05/innovative-otago-research-supported-by-marsden-funding/index.html
+layout: layout.njk
 ---
 Innovative Otago research supported by Marsden funding
 ======================================================

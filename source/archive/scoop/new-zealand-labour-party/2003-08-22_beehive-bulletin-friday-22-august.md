@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-friday-22-august
-title: "Beehive Bulletin  Friday 22 August"
-date: 2003-08-22
-source-url: https://www.scoop.co.nz/stories/PA0308/S00454/beehive-bulletin-friday-22-august.htm
+title: Beehive Bulletin  Friday 22 August
+date: 2003-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00454/beehive-bulletin-friday-22-august.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/08/22/beehive-bulletin-friday-22-august/index.html
+layout: layout.njk
 ---
 Beehive Bulletin Friday 22 August
 =================================

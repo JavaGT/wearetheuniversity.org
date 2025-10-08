@@ -1,9 +1,12 @@
 ---
 slug: honours-for-dedicated-friend-of-victoria
-title: "Honours for dedicated friend of Victoria"
-date: 2007-11-02
-source-url: https://www.scoop.co.nz/stories/ED0711/S00011/honours-for-dedicated-friend-of-victoria.htm
+title: Honours for dedicated friend of Victoria
+date: 2007-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00011/honours-for-dedicated-friend-of-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/11/02/honours-for-dedicated-friend-of-victoria/index.html
+layout: layout.njk
 ---
 Honours for dedicated friend of Victoria
 ========================================

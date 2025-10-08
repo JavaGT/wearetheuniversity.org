@@ -1,9 +1,12 @@
 ---
 slug: open-letter-to-the-minister-of-education
-title: "Open Letter to the Minister of Education"
-date: 2009-11-25
-source-url: https://www.scoop.co.nz/stories/ED0911/S00107/open-letter-to-the-minister-of-education.htm
+title: Open Letter to the Minister of Education
+date: 2009-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00107/open-letter-to-the-minister-of-education.htm
 author: university-of-otago
+permalink: /archive/2009/11/25/open-letter-to-the-minister-of-education/index.html
+layout: layout.njk
 ---
 Open Letter to the Minister of Education
 ========================================

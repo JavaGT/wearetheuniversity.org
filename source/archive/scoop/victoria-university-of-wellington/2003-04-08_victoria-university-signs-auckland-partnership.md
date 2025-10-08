@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-signs-auckland-partnership
-title: "Victoria University signs Auckland partnership"
-date: 2003-04-08
-source-url: https://www.scoop.co.nz/stories/ED0304/S00016/victoria-university-signs-auckland-partnership.htm
+title: Victoria University signs Auckland partnership
+date: 2003-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00016/victoria-university-signs-auckland-partnership.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/04/08/victoria-university-signs-auckland-partnership/index.html
+layout: layout.njk
 ---
 Victoria University signs Auckland partnership
 ==============================================

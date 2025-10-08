@@ -1,9 +1,13 @@
 ---
 slug: world-economic-forum-uc-graduate-a-2013-young-global-leader
-title: "World Economic Forum: UC Graduate A 2013 Young Global Leader"
-date: 2013-03-21
-source-url: https://www.scoop.co.nz/stories/ED1303/S00146/world-economic-forum-uc-graduate-a-2013-young-global-leader.htm
+title: 'World Economic Forum: UC Graduate A 2013 Young Global Leader'
+date: 2013-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00146/world-economic-forum-uc-graduate-a-2013-young-global-leader.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/21/world-economic-forum-uc-graduate-a-2013-young-global-leader/index.html
+layout: layout.njk
 ---
 World Economic Forum: UC Graduate A 2013 Young Global Leader
 ============================================================

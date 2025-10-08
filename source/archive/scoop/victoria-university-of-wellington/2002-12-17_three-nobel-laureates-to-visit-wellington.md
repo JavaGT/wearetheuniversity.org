@@ -1,9 +1,12 @@
 ---
 slug: three-nobel-laureates-to-visit-wellington
-title: "Three Nobel Laureates to visit Wellington"
-date: 2002-12-17
-source-url: https://www.scoop.co.nz/stories/ED0212/S00033/three-nobel-laureates-to-visit-wellington.htm
+title: Three Nobel Laureates to visit Wellington
+date: 2002-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0212/S00033/three-nobel-laureates-to-visit-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/12/17/three-nobel-laureates-to-visit-wellington/index.html
+layout: layout.njk
 ---
 Three Nobel Laureates to visit Wellington
 =========================================

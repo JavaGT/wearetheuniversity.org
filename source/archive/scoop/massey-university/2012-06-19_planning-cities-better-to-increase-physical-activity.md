@@ -1,9 +1,13 @@
 ---
 slug: planning-cities-better-to-increase-physical-activity
-title: "Planning cities better to increase physical activity"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/CU1206/S00244/planning-cities-better-to-increase-physical-activity.htm
+title: Planning cities better to increase physical activity
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00244/planning-cities-better-to-increase-physical-activity.htm
 author: massey-university
+permalink: >-
+  /archive/2012/06/19/planning-cities-better-to-increase-physical-activity/index.html
+layout: layout.njk
 ---
 Planning cities better to increase physical activity
 ====================================================

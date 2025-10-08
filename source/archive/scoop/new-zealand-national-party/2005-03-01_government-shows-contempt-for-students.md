@@ -1,9 +1,12 @@
 ---
 slug: government-shows-contempt-for-students
-title: "Government shows contempt for students"
-date: 2005-03-01
-source-url: https://www.scoop.co.nz/stories/PA0503/S00032/government-shows-contempt-for-students.htm
+title: Government shows contempt for students
+date: 2005-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00032/government-shows-contempt-for-students.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/01/government-shows-contempt-for-students/index.html
+layout: layout.njk
 ---
 Government shows contempt for students
 ======================================

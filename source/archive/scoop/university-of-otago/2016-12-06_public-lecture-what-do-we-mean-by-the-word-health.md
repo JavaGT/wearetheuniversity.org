@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-what-do-we-mean-by-the-word-health
-title: "Public Lecture: \"What do we mean by the word 'health'\"?"
-date: 2016-12-06
-source-url: https://www.scoop.co.nz/stories/GE1612/S00023/public-lecture-what-do-we-mean-by-the-word-health.htm
+title: 'Public Lecture: "What do we mean by the word ''health''"?'
+date: 2016-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1612/S00023/public-lecture-what-do-we-mean-by-the-word-health.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/06/public-lecture-what-do-we-mean-by-the-word-health/index.html
+layout: layout.njk
 ---
 Public Lecture: "What do we mean by the word 'health'"?
 =======================================================

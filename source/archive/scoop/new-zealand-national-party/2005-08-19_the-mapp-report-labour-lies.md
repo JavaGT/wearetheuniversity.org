@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-labour-lies
-title: "The Mapp Report - Labour Lies"
-date: 2005-08-19
+title: The Mapp Report - Labour Lies
+date: 2005-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00501/the-mapp-report-labour-lies.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/19/the-mapp-report-labour-lies/index.html
+layout: layout.njk
 ---
 The Mapp Report - Labour Lies
 =============================

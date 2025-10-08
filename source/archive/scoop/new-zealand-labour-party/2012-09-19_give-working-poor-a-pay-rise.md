@@ -1,9 +1,11 @@
 ---
 slug: give-working-poor-a-pay-rise
-title: "Give working poor a pay rise"
-date: 2012-09-19
+title: Give working poor a pay rise
+date: 2012-09-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1209/S00291/give-working-poor-a-pay-rise.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/19/give-working-poor-a-pay-rise/index.html
+layout: layout.njk
 ---
 Give working poor a pay rise
 ============================

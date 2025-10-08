@@ -1,9 +1,12 @@
 ---
 slug: singapore-free-trade-agreement-speech
-title: "Singapore Free Trade Agreement Speech"
-date: 2000-08-09
-source-url: https://www.scoop.co.nz/stories/PA0008/S00178/singapore-free-trade-agreement-speech.htm
+title: Singapore Free Trade Agreement Speech
+date: 2000-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00178/singapore-free-trade-agreement-speech.htm
 author: green-party
+permalink: /archive/2000/08/09/singapore-free-trade-agreement-speech/index.html
+layout: layout.njk
 ---
 Singapore Free Trade Agreement Speech
 =====================================

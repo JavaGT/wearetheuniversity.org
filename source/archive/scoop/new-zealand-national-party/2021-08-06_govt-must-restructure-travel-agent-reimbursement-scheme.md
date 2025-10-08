@@ -1,9 +1,13 @@
 ---
 slug: govt-must-restructure-travel-agent-reimbursement-scheme
-title: "Govt Must Restructure Travel Agent Reimbursement Scheme"
-date: 2021-08-06
-source-url: https://www.scoop.co.nz/stories/PA2108/S00063/govt-must-restructure-travel-agent-reimbursement-scheme.htm
+title: Govt Must Restructure Travel Agent Reimbursement Scheme
+date: 2021-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00063/govt-must-restructure-travel-agent-reimbursement-scheme.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/08/06/govt-must-restructure-travel-agent-reimbursement-scheme/index.html
+layout: layout.njk
 ---
 Govt Must Restructure Travel Agent Reimbursement Scheme
 =======================================================

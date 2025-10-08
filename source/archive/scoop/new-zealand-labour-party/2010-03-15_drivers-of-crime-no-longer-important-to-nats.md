@@ -1,9 +1,12 @@
 ---
 slug: drivers-of-crime-no-longer-important-to-nats
-title: "Drivers of crime no longer important to Nats?"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/PA1003/S00201/drivers-of-crime-no-longer-important-to-nats.htm
+title: Drivers of crime no longer important to Nats?
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00201/drivers-of-crime-no-longer-important-to-nats.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/15/drivers-of-crime-no-longer-important-to-nats/index.html
+layout: layout.njk
 ---
 Drivers of crime no longer important to Nats?
 =============================================

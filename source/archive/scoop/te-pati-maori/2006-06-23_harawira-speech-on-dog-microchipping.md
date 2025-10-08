@@ -1,9 +1,12 @@
 ---
 slug: harawira-speech-on-dog-microchipping
-title: "Harawira - Speech On Dog Microchipping"
-date: 2006-06-23
-source-url: https://www.scoop.co.nz/stories/PA0606/S00478/harawira-speech-on-dog-microchipping.htm
+title: Harawira - Speech On Dog Microchipping
+date: 2006-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00478/harawira-speech-on-dog-microchipping.htm
 author: te-pati-maori
+permalink: /archive/2006/06/23/harawira-speech-on-dog-microchipping/index.html
+layout: layout.njk
 ---
 Harawira - Speech On Dog Microchipping
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: new-research-into-tackling-loneliness-at-work
-title: "New Research Into Tackling Loneliness At Work"
-date: 2024-12-18
-source-url: https://www.scoop.co.nz/stories/BU2412/S00337/new-research-into-tackling-loneliness-at-work.htm
+title: New Research Into Tackling Loneliness At Work
+date: 2024-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2412/S00337/new-research-into-tackling-loneliness-at-work.htm
 author: university-of-canterbury
+permalink: /archive/2024/12/18/new-research-into-tackling-loneliness-at-work/index.html
+layout: layout.njk
 ---
 New Research Into Tackling Loneliness At Work
 =============================================

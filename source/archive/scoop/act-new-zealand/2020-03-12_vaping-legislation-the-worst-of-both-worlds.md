@@ -1,9 +1,12 @@
 ---
 slug: vaping-legislation-the-worst-of-both-worlds
-title: "Vaping Legislation The Worst Of Both Worlds"
-date: 2020-03-12
-source-url: https://www.scoop.co.nz/stories/PA2003/S00098/vaping-legislation-the-worst-of-both-worlds.htm
+title: Vaping Legislation The Worst Of Both Worlds
+date: 2020-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00098/vaping-legislation-the-worst-of-both-worlds.htm
 author: act-new-zealand
+permalink: /archive/2020/03/12/vaping-legislation-the-worst-of-both-worlds/index.html
+layout: layout.njk
 ---
 Vaping Legislation The Worst Of Both Worlds
 ===========================================

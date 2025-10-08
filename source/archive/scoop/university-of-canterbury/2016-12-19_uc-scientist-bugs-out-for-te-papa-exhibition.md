@@ -1,9 +1,12 @@
 ---
 slug: uc-scientist-bugs-out-for-te-papa-exhibition
-title: "UC scientist bugs out for Te Papa exhibition"
-date: 2016-12-19
-source-url: https://www.scoop.co.nz/stories/SC1612/S00049/uc-scientist-bugs-out-for-te-papa-exhibition.htm
+title: UC scientist bugs out for Te Papa exhibition
+date: 2016-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1612/S00049/uc-scientist-bugs-out-for-te-papa-exhibition.htm
 author: university-of-canterbury
+permalink: /archive/2016/12/19/uc-scientist-bugs-out-for-te-papa-exhibition/index.html
+layout: layout.njk
 ---
 UC scientist bugs out for Te Papa exhibition
 ============================================

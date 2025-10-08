@@ -1,9 +1,13 @@
 ---
 slug: invasive-ants-found-to-carry-novel-virus-and-bee-pathogens
-title: "Invasive ants found to carry novel virus and bee pathogens"
-date: 2015-09-09
-source-url: https://www.scoop.co.nz/stories/ED1509/S00054/invasive-ants-found-to-carry-novel-virus-and-bee-pathogens.htm
+title: Invasive ants found to carry novel virus and bee pathogens
+date: 2015-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00054/invasive-ants-found-to-carry-novel-virus-and-bee-pathogens.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/09/09/invasive-ants-found-to-carry-novel-virus-and-bee-pathogens/index.html
+layout: layout.njk
 ---
 Invasive ants found to carry novel virus and bee pathogens
 ==========================================================

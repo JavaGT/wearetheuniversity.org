@@ -1,9 +1,12 @@
 ---
 slug: water-and-governance-under-scrutiny-at-massey
-title: "Water and governance under scrutiny at Massey"
-date: 2014-06-09
-source-url: https://www.scoop.co.nz/stories/PO1406/S00109/water-and-governance-under-scrutiny-at-massey.htm
+title: Water and governance under scrutiny at Massey
+date: 2014-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1406/S00109/water-and-governance-under-scrutiny-at-massey.htm
 author: massey-university
+permalink: /archive/2014/06/09/water-and-governance-under-scrutiny-at-massey/index.html
+layout: layout.njk
 ---
 Water and governance under scrutiny at Massey
 =============================================

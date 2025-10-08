@@ -1,8 +1,12 @@
 ---
 slug: university-of-auckland-engineering-gets-marsden-funding-of-$1-7-million
-title: "University of Auckland Engineering gets Marsden funding of $1.7 million"
-date: 2016-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-of-auckland-engineering-marsden-funding-1-point-7-million.html
+title: University of Auckland Engineering gets Marsden funding of $1.7 million
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-of-auckland-engineering-marsden-funding-1-point-7-million.html
+permalink: >-
+  /archive/2016/11/03/university-of-auckland-engineering-gets-marsden-funding-of-/index.html
+layout: layout.njk
 ---
 University of Auckland Engineering gets Marsden funding of $1.7 million
 =======================================================================

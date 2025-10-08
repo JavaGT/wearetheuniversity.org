@@ -1,9 +1,13 @@
 ---
 slug: fijian-academic-to-head-macmillan-brown-research-centre
-title: "Fijian academic to head Macmillan Brown Research Centre"
-date: 2014-10-23
-source-url: https://www.scoop.co.nz/stories/ED1410/S00131/fijian-academic-to-head-macmillan-brown-research-centre.htm
+title: Fijian academic to head Macmillan Brown Research Centre
+date: 2014-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00131/fijian-academic-to-head-macmillan-brown-research-centre.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/10/23/fijian-academic-to-head-macmillan-brown-research-centre/index.html
+layout: layout.njk
 ---
 Fijian academic to head Macmillan Brown Research Centre
 =======================================================

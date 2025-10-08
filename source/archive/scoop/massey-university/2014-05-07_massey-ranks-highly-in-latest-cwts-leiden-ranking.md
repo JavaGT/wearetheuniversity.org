@@ -1,9 +1,13 @@
 ---
 slug: massey-ranks-highly-in-latest-cwts-leiden-ranking
-title: "Massey ranks highly in latest CWTS Leiden Ranking"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00036/massey-ranks-highly-in-latest-cwts-leiden-ranking.htm
+title: Massey ranks highly in latest CWTS Leiden Ranking
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00036/massey-ranks-highly-in-latest-cwts-leiden-ranking.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/07/massey-ranks-highly-in-latest-cwts-leiden-ranking/index.html
+layout: layout.njk
 ---
 Massey ranks highly in latest CWTS Leiden Ranking
 =================================================

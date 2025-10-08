@@ -1,9 +1,12 @@
 ---
 slug: canterburys-future-must-be-canterburys-choice
-title: "Canterbury’s future must be Canterbury’s choice"
-date: 2014-07-10
-source-url: https://www.scoop.co.nz/stories/PA1407/S00203/canterburys-future-must-be-canterburys-choice.htm
+title: Canterbury’s future must be Canterbury’s choice
+date: 2014-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00203/canterburys-future-must-be-canterburys-choice.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/10/canterburys-future-must-be-canterburys-choice/index.html
+layout: layout.njk
 ---
 Canterbury’s future must be Canterbury’s choice
 ===============================================

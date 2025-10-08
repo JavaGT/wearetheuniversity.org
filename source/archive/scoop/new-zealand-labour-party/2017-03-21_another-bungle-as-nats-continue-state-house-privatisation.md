@@ -1,9 +1,13 @@
 ---
 slug: another-bungle-as-nats-continue-state-house-privatisation
-title: "Another bungle as Nats’ continue state house privatisation"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/PA1703/S00338/another-bungle-as-nats-continue-state-house-privatisation.htm
+title: Another bungle as Nats’ continue state house privatisation
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00338/another-bungle-as-nats-continue-state-house-privatisation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/03/21/another-bungle-as-nats-continue-state-house-privatisation/index.html
+layout: layout.njk
 ---
 Another bungle as Nats’ continue state house privatisation
 ==========================================================

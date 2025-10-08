@@ -1,9 +1,12 @@
 ---
 slug: university-students-to-freeze-for-their-fees
-title: "University Students To Freeze For Their Fees"
-date: 2004-08-19
-source-url: https://www.scoop.co.nz/stories/ED0408/S00090/university-students-to-freeze-for-their-fees.htm
+title: University Students To Freeze For Their Fees
+date: 2004-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00090/university-students-to-freeze-for-their-fees.htm
 author: victoria-university-students-association
+permalink: /archive/2004/08/19/university-students-to-freeze-for-their-fees/index.html
+layout: layout.njk
 ---
 University Students To Freeze For Their Fees
 ============================================

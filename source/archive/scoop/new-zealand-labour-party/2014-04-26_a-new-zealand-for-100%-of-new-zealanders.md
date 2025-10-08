@@ -1,9 +1,12 @@
 ---
 slug: a-new-zealand-for-100%-of-new-zealanders
-title: "A New Zealand for 100% of New Zealanders"
-date: 2014-04-26
-source-url: https://www.scoop.co.nz/stories/PA1404/S00392/a-new-zealand-for-100-of-new-zealanders.htm
+title: A New Zealand for 100% of New Zealanders
+date: 2014-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00392/a-new-zealand-for-100-of-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/26/a-new-zealand-for-100/index.html
+layout: layout.njk
 ---
 A New Zealand for 100% of New Zealanders
 ========================================

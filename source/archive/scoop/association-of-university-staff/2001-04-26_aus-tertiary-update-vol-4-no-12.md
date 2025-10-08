@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-4-no-12
-title: "AUS Tertiary Update Vol 4 No 12"
-date: 2001-04-26
-source-url: https://www.scoop.co.nz/stories/ED0104/S00021/aus-tertiary-update-vol-4-no-12.htm
+title: AUS Tertiary Update Vol 4 No 12
+date: 2001-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0104/S00021/aus-tertiary-update-vol-4-no-12.htm
 author: association-of-university-staff
+permalink: /archive/2001/04/26/aus-tertiary-update-vol-4-no-12/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol 4 No 12
 ===============================

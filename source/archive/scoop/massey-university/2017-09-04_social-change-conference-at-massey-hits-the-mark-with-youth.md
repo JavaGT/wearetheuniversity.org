@@ -1,9 +1,13 @@
 ---
 slug: social-change-conference-at-massey-hits-the-mark-with-youth
-title: "Social change conference at Massey hits the mark with youth"
-date: 2017-09-04
-source-url: https://www.scoop.co.nz/stories/ED1709/S00016/social-change-conference-at-massey-hits-the-mark-with-youth.htm
+title: Social change conference at Massey hits the mark with youth
+date: 2017-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00016/social-change-conference-at-massey-hits-the-mark-with-youth.htm
 author: massey-university
+permalink: >-
+  /archive/2017/09/04/social-change-conference-at-massey-hits-the-mark-with-youth/index.html
+layout: layout.njk
 ---
 Social change conference at Massey hits the mark with youth
 ===========================================================

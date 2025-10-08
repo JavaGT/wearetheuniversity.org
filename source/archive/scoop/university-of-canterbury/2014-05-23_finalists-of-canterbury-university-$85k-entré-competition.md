@@ -1,9 +1,12 @@
 ---
 slug: finalists-of-canterbury-university-$85k-entré-competition
-title: "Finalists of Canterbury University $85k entré competition"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/ED1405/S00114/finalists-of-canterbury-university-85k-entre-competition.htm
+title: Finalists of Canterbury University $85k entré competition
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00114/finalists-of-canterbury-university-85k-entre-competition.htm
 author: university-of-canterbury
+permalink: /archive/2014/05/23/finalists-of-canterbury-university-/index.html
+layout: layout.njk
 ---
 Finalists of Canterbury University $85k entré competition
 =========================================================

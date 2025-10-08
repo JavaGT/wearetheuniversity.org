@@ -1,9 +1,13 @@
 ---
 slug: maori-party-keeps-its-promise-as-bill-passes-second-stage
-title: "Maori Party keeps its promise as Bill passes second stage"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/PA1103/S00110/maori-party-keeps-its-promise-as-bill-passes-second-stage.htm
+title: Maori Party keeps its promise as Bill passes second stage
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00110/maori-party-keeps-its-promise-as-bill-passes-second-stage.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/03/08/maori-party-keeps-its-promise-as-bill-passes-second-stage/index.html
+layout: layout.njk
 ---
 Maori Party keeps its promise as Bill passes second stage
 =========================================================

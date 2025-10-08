@@ -1,9 +1,11 @@
 ---
 slug: alliance-wrong-again-hide
-title: "Alliance Wrong Again - Hide"
-date: 1999-06-24
+title: Alliance Wrong Again - Hide
+date: 1999-06-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9906/S00234/alliance-wrong-again-hide.htm
 author: act-new-zealand
+permalink: /archive/1999/06/24/alliance-wrong-again-hide/index.html
+layout: layout.njk
 ---
 Alliance Wrong Again - Hide
 ===========================

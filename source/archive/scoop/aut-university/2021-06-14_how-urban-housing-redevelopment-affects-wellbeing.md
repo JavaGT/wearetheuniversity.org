@@ -1,9 +1,13 @@
 ---
 slug: how-urban-housing-redevelopment-affects-wellbeing
-title: "How Urban Housing Redevelopment Affects Wellbeing"
-date: 2021-06-14
-source-url: https://www.scoop.co.nz/stories/SC2106/S00027/how-urban-housing-redevelopment-affects-wellbeing.htm
+title: How Urban Housing Redevelopment Affects Wellbeing
+date: 2021-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2106/S00027/how-urban-housing-redevelopment-affects-wellbeing.htm
 author: aut-university
+permalink: >-
+  /archive/2021/06/14/how-urban-housing-redevelopment-affects-wellbeing/index.html
+layout: layout.njk
 ---
 How Urban Housing Redevelopment Affects Wellbeing
 =================================================

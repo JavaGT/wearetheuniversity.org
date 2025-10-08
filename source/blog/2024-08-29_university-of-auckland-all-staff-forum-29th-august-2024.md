@@ -1,10 +1,19 @@
 ---
+layout: layout.njk
 title: University of Auckland All Staff Forum 29th August 2024
 slug: university-of-auckland-all-staff-forum-29th-august-2024
-date: 2024-08-29
+date: 2024-08-29T00:00:00.000Z
 source: https://pastebin.com/kfq2M4Ex
 author: Anonymous
 author-slug: anonymous
+permalink: >-
+  /blog/2024/08/29/university-of-auckland-all-staff-forum-29th-august-2024/index.html
+excerpt: >-
+  The below transcript is from an All Staff Zoom meeting at the University of
+  Auckland. The meeting was held on 29th of August 2024. Thank you to staff and
+  students who leak information to us. You can contribute by emailing us at
+  email@wearetheuniversity.orgmailto:email@wearetheuniversity.org. We will
+  protect your anonymity, however be...
 ---
 
 The below transcript is from an All Staff Zoom meeting at the University of Auckland. The meeting was held on 29th of August 2024.

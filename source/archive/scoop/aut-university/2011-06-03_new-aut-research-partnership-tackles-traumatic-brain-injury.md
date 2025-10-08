@@ -1,9 +1,13 @@
 ---
 slug: new-aut-research-partnership-tackles-traumatic-brain-injury
-title: "New AUT research partnership tackles traumatic brain injury"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/SC1106/S00017/new-aut-research-partnership-tackles-traumatic-brain-injury.htm
+title: New AUT research partnership tackles traumatic brain injury
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00017/new-aut-research-partnership-tackles-traumatic-brain-injury.htm
 author: aut-university
+permalink: >-
+  /archive/2011/06/03/new-aut-research-partnership-tackles-traumatic-brain-injury/index.html
+layout: layout.njk
 ---
 New AUT research partnership tackles traumatic brain injury
 ===========================================================

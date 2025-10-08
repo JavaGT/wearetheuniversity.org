@@ -1,9 +1,12 @@
 ---
 slug: government-hiding-cannabis-reports
-title: "Government hiding cannabis reports"
-date: 2020-09-02
-source-url: https://www.scoop.co.nz/stories/PA2009/S00007/government-hiding-cannabis-reports.htm
+title: Government hiding cannabis reports
+date: 2020-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00007/government-hiding-cannabis-reports.htm
 author: new-zealand-national-party
+permalink: /archive/2020/09/02/government-hiding-cannabis-reports/index.html
+layout: layout.njk
 ---
 Government hiding cannabis reports
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: university-must-condemn-civil-war-statement
-title: "University must condemn 'civil war' statement"
-date: 2004-08-31
-source-url: https://www.scoop.co.nz/stories/PA0408/S00546/university-must-condemn-civil-war-statement.htm
+title: University must condemn 'civil war' statement
+date: 2004-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00546/university-must-condemn-civil-war-statement.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/31/university-must-condemn-civil-war-statement/index.html
+layout: layout.njk
 ---
 University must condemn 'civil war' statement
 =============================================

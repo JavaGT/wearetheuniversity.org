@@ -1,9 +1,13 @@
 ---
 slug: the-national-led-government-is-happy-to-leave-students-out-in-the-cold
-title: "The National-led Government Is Happy To Leave Student’s Out In The Cold"
-date: 2024-08-01
-source-url: https://www.scoop.co.nz/stories/PO2408/S00007/the-national-led-government-is-happy-to-leave-students-out-in-the-cold.htm
+title: The National-led Government Is Happy To Leave Student’s Out In The Cold
+date: 2024-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2408/S00007/the-national-led-government-is-happy-to-leave-students-out-in-the-cold.htm
 author: young-labour
+permalink: >-
+  /archive/2024/08/01/the-national-led-government-is-happy-to-leave-students-out-in-the-cold/index.html
+layout: layout.njk
 ---
 The National-led Government Is Happy To Leave Student’s Out In The Cold
 =======================================================================

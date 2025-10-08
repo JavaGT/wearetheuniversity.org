@@ -1,9 +1,13 @@
 ---
 slug: quality-teachers-the-best-investment-in-our-future
-title: "Quality teachers the best investment in our future"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/PA1009/S00218/quality-teachers-the-best-investment-in-our-future.htm
+title: Quality teachers the best investment in our future
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00218/quality-teachers-the-best-investment-in-our-future.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/09/14/quality-teachers-the-best-investment-in-our-future/index.html
+layout: layout.njk
 ---
 Quality teachers the best investment in our future
 ==================================================

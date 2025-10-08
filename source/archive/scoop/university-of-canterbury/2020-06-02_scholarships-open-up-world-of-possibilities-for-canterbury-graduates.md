@@ -1,9 +1,13 @@
 ---
 slug: scholarships-open-up-world-of-possibilities-for-canterbury-graduates
-title: "Scholarships Open Up World Of Possibilities For Canterbury Graduates"
-date: 2020-06-02
-source-url: https://www.scoop.co.nz/stories/ED2006/S00001/scholarships-open-up-world-of-possibilities-for-canterbury-graduates.htm
+title: Scholarships Open Up World Of Possibilities For Canterbury Graduates
+date: 2020-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00001/scholarships-open-up-world-of-possibilities-for-canterbury-graduates.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/02/scholarships-open-up-world-of-possibilities-for-canterbury-graduates/index.html
+layout: layout.njk
 ---
 Scholarships Open Up World Of Possibilities For Canterbury Graduates
 ====================================================================

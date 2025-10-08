@@ -1,9 +1,11 @@
 ---
 slug: family-day-at-usp-a-success
-title: "Family Day at USP A Success"
-date: 2011-10-18
+title: Family Day at USP A Success
+date: 2011-10-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/WO1110/S00499/family-day-at-usp-a-success.htm
 author: university-of-the-south-pacific
+permalink: /archive/2011/10/18/family-day-at-usp-a-success/index.html
+layout: layout.njk
 ---
 Family Day at USP A Success
 ===========================

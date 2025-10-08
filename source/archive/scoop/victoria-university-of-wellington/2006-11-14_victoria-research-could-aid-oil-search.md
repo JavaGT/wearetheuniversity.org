@@ -1,9 +1,12 @@
 ---
 slug: victoria-research-could-aid-oil-search
-title: "Victoria research could aid oil search"
-date: 2006-11-14
-source-url: https://www.scoop.co.nz/stories/SC0611/S00033/victoria-research-could-aid-oil-search.htm
+title: Victoria research could aid oil search
+date: 2006-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0611/S00033/victoria-research-could-aid-oil-search.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/14/victoria-research-could-aid-oil-search/index.html
+layout: layout.njk
 ---
 Victoria research could aid oil search
 ======================================

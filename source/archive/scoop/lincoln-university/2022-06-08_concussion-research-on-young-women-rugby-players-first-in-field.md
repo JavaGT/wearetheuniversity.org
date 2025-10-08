@@ -1,9 +1,13 @@
 ---
 slug: concussion-research-on-young-women-rugby-players-first-in-field
-title: "Concussion Research On Young Women Rugby Players First In Field"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/GE2206/S00027/concussion-research-on-young-women-rugby-players-first-in-field.htm
+title: Concussion Research On Young Women Rugby Players First In Field
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2206/S00027/concussion-research-on-young-women-rugby-players-first-in-field.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/06/08/concussion-research-on-young-women-rugby-players-first-in-field/index.html
+layout: layout.njk
 ---
 Concussion Research On Young Women Rugby Players First In Field
 ===============================================================

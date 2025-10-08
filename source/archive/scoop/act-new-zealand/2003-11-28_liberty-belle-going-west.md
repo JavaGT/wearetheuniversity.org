@@ -1,9 +1,11 @@
 ---
 slug: liberty-belle-going-west
-title: "Liberty Belle: Going West"
-date: 2003-11-28
+title: 'Liberty Belle: Going West'
+date: 2003-11-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00567/liberty-belle-going-west.htm
 author: act-new-zealand
+permalink: /archive/2003/11/28/liberty-belle-going-west/index.html
+layout: layout.njk
 ---
 Liberty Belle: Going West
 =========================

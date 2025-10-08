@@ -1,9 +1,12 @@
 ---
 slug: massive-timber-backlog-shows-true-logging-scale
-title: "Massive timber backlog shows true logging scale"
-date: 2000-05-11
-source-url: https://www.scoop.co.nz/stories/PA0005/S00260/massive-timber-backlog-shows-true-logging-scale.htm
+title: Massive timber backlog shows true logging scale
+date: 2000-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00260/massive-timber-backlog-shows-true-logging-scale.htm
 author: green-party
+permalink: /archive/2000/05/11/massive-timber-backlog-shows-true-logging-scale/index.html
+layout: layout.njk
 ---
 Massive timber backlog shows true logging scale
 ===============================================

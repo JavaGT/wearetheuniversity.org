@@ -1,9 +1,13 @@
 ---
 slug: significant-increase-in-applications-at-canterbury-uni
-title: "Significant increase in applications at Canterbury Uni"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/ED1212/S00106/significant-increase-in-applications-at-canterbury-uni.htm
+title: Significant increase in applications at Canterbury Uni
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00106/significant-increase-in-applications-at-canterbury-uni.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/14/significant-increase-in-applications-at-canterbury-uni/index.html
+layout: layout.njk
 ---
 Significant increase in applications at Canterbury Uni
 ======================================================

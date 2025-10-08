@@ -1,9 +1,12 @@
 ---
 slug: english-hands-box-over-to-nzqa
-title: "English hands box over to NZQA"
-date: 2004-08-27
-source-url: https://www.scoop.co.nz/stories/PA0408/S00509/english-hands-box-over-to-nzqa.htm
+title: English hands box over to NZQA
+date: 2004-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00509/english-hands-box-over-to-nzqa.htm
 author: new-zealand-national-party
+permalink: /archive/2004/08/27/english-hands-box-over-to-nzqa/index.html
+layout: layout.njk
 ---
 English hands box over to NZQA
 ==============================

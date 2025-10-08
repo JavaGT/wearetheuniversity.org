@@ -1,9 +1,11 @@
 ---
 slug: the-science-of-life
-title: "The Science of Life"
-date: 2004-03-16
+title: The Science of Life
+date: 2004-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0403/S00063/the-science-of-life.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/16/the-science-of-life/index.html
+layout: layout.njk
 ---
 The Science of Life
 ===================

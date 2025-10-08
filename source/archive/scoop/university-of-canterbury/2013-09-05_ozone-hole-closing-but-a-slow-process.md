@@ -1,9 +1,12 @@
 ---
 slug: ozone-hole-closing-but-a-slow-process
-title: "Ozone hole closing but a slow process"
-date: 2013-09-05
-source-url: https://www.scoop.co.nz/stories/SC1309/S00011/ozone-hole-closing-but-a-slow-process.htm
+title: Ozone hole closing but a slow process
+date: 2013-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1309/S00011/ozone-hole-closing-but-a-slow-process.htm
 author: university-of-canterbury
+permalink: /archive/2013/09/05/ozone-hole-closing-but-a-slow-process/index.html
+layout: layout.njk
 ---
 Ozone hole closing but a slow process
 =====================================

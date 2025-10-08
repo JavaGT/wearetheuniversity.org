@@ -1,8 +1,12 @@
 ---
 slug: major-donation-boosts-new-zealand-medtech-and-neuroscience-research
-title: "Major donation boosts New Zealand medtech and neuroscience research"
-date: 2016-10-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/major-donation-boosts-new-zealand-medtech-and-neuroscience-resea.html
+title: Major donation boosts New Zealand medtech and neuroscience research
+date: 2016-10-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/major-donation-boosts-new-zealand-medtech-and-neuroscience-resea.html
+permalink: >-
+  /archive/2016/10/05/major-donation-boosts-new-zealand-medtech-and-neuroscience-research/index.html
+layout: layout.njk
 ---
 Major donation boosts New Zealand medtech and neuroscience research
 ===================================================================

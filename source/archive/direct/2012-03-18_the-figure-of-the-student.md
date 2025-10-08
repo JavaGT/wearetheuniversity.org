@@ -1,10 +1,13 @@
 ---
 title: The Figure of the Student
 slug: the-figure-of-the-student
-date: 2012-03-18
-source: https://web.archive.org/web/20130208081703/http://wearetheuniversity.org.nz/2012/03/18/the-figure-of-the-student/
+date: 2012-03-18T00:00:00.000Z
+source: >-
+  https://web.archive.org/web/20130208081703/http://wearetheuniversity.org.nz/2012/03/18/the-figure-of-the-student/
 author: Guy Cohn
 author-slug: guy-cohn
+permalink: /archive/2012/03/18/the-figure-of-the-student/index.html
+layout: layout.njk
 ---
 It is now undeniable. The university is fucked. There is no other way of putting it. Any form of life that is not fully subsumed by the logic of capital is currently being expelled from campus. The administration at Victoria University of Wellington, having made it clear that patriarchy is no longer up for debate, has now informed us that what goes on between States stays between States. Meanwhile, the administration at the University of Auckland has just failed in the most obscene of power grabs which, had it been successful, would have lead to the sort of intellectual terrorism that makes Norwegian neo-Nazis smile. All this, without even mentioning the government’s recent strike against the collective power of the student body.
 

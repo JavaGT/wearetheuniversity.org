@@ -1,9 +1,12 @@
 ---
 slug: speech-smoke-free-environments-bill-instruction
-title: "Speech: Smoke-free Environments Bill, Instruction"
-date: 2011-07-14
-source-url: https://www.scoop.co.nz/stories/PA1107/S00253/speech-smoke-free-environments-bill-instruction.htm
+title: 'Speech: Smoke-free Environments Bill, Instruction'
+date: 2011-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00253/speech-smoke-free-environments-bill-instruction.htm
 author: te-pati-maori
+permalink: /archive/2011/07/14/speech-smoke-free-environments-bill-instruction/index.html
+layout: layout.njk
 ---
 Speech: Smoke-free Environments Bill, Instruction
 =================================================

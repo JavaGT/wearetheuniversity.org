@@ -1,9 +1,12 @@
 ---
 slug: better-radio-&-television-programmes-are-coming
-title: "\"Better Radio & Television Programmes Are Coming\""
-date: 1999-10-17
-source-url: https://www.scoop.co.nz/stories/PA9910/S00366/better-radio-television-programmes-are-coming.htm
+title: '"Better Radio & Television Programmes Are Coming"'
+date: 1999-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00366/better-radio-television-programmes-are-coming.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/17/better-radio-/index.html
+layout: layout.njk
 ---
 \"Better Radio & Television Programmes Are Coming"
 =================================================

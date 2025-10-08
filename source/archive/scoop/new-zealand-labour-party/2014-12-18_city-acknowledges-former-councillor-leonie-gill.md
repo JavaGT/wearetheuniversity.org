@@ -1,9 +1,12 @@
 ---
 slug: city-acknowledges-former-councillor-leonie-gill
-title: "City acknowledges former Councillor, Leonie Gill"
-date: 2014-12-18
-source-url: https://www.scoop.co.nz/stories/PA1412/S00325/city-acknowledges-former-councillor-leonie-gill.htm
+title: City acknowledges former Councillor, Leonie Gill
+date: 2014-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00325/city-acknowledges-former-councillor-leonie-gill.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/18/city-acknowledges-former-councillor-leonie-gill/index.html
+layout: layout.njk
 ---
 City acknowledges former Councillor, Leonie Gill
 ================================================

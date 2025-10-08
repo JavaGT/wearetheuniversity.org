@@ -1,9 +1,13 @@
 ---
 slug: school-closures-clark-should-show-shes-listening
-title: "School Closures: Clark should show she's listening"
-date: 2004-03-01
-source-url: https://www.scoop.co.nz/stories/PA0403/S00007/school-closures-clark-should-show-shes-listening.htm
+title: 'School Closures: Clark should show she''s listening'
+date: 2004-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00007/school-closures-clark-should-show-shes-listening.htm
 author: green-party
+permalink: >-
+  /archive/2004/03/01/school-closures-clark-should-show-shes-listening/index.html
+layout: layout.njk
 ---
 School Closures: Clark should show she's listening
 ==================================================

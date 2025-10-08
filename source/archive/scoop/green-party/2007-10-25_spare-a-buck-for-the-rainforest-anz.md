@@ -1,9 +1,12 @@
 ---
 slug: spare-a-buck-for-the-rainforest-anz
-title: "Spare a buck for the rainforest ANZ"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/PA0710/S00472/spare-a-buck-for-the-rainforest-anz.htm
+title: Spare a buck for the rainforest ANZ
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00472/spare-a-buck-for-the-rainforest-anz.htm
 author: green-party
+permalink: /archive/2007/10/25/spare-a-buck-for-the-rainforest-anz/index.html
+layout: layout.njk
 ---
 Spare a buck for the rainforest ANZ
 ===================================

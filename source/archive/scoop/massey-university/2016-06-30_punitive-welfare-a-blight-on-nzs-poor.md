@@ -1,9 +1,12 @@
 ---
 slug: punitive-welfare-a-blight-on-nzs-poor
-title: "Punitive welfare a blight on NZ’s poor"
-date: 2016-06-30
-source-url: https://www.scoop.co.nz/stories/PO1606/S00362/punitive-welfare-a-blight-on-nzs-poor.htm
+title: Punitive welfare a blight on NZ’s poor
+date: 2016-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00362/punitive-welfare-a-blight-on-nzs-poor.htm
 author: massey-university
+permalink: /archive/2016/06/30/punitive-welfare-a-blight-on-nzs-poor/index.html
+layout: layout.njk
 ---
 Punitive welfare a blight on NZ’s poor
 ======================================

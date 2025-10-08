@@ -1,9 +1,13 @@
 ---
 slug: research-confirms-the-realities-for-health-workers
-title: "Research confirms the realities for health workers"
-date: 2011-11-14
-source-url: https://www.scoop.co.nz/stories/GE1111/S00098/research-confirms-the-realities-for-health-workers.htm
+title: Research confirms the realities for health workers
+date: 2011-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1111/S00098/research-confirms-the-realities-for-health-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/11/14/research-confirms-the-realities-for-health-workers/index.html
+layout: layout.njk
 ---
 Research confirms the realities for health workers
 ==================================================

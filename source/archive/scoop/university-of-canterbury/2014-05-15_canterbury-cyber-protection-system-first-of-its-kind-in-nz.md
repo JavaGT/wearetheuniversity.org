@@ -1,9 +1,13 @@
 ---
 slug: canterbury-cyber-protection-system-first-of-its-kind-in-nz
-title: "Canterbury cyber protection system first of its kind in NZ"
-date: 2014-05-15
-source-url: https://www.scoop.co.nz/stories/ED1405/S00076/canterbury-cyber-protection-system-first-of-its-kind-in-nz.htm
+title: Canterbury cyber protection system first of its kind in NZ
+date: 2014-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00076/canterbury-cyber-protection-system-first-of-its-kind-in-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/15/canterbury-cyber-protection-system-first-of-its-kind-in-nz/index.html
+layout: layout.njk
 ---
 Canterbury cyber protection system first of its kind in NZ
 ==========================================================

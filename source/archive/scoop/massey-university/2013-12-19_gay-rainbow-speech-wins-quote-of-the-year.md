@@ -1,9 +1,12 @@
 ---
 slug: gay-rainbow-speech-wins-quote-of-the-year
-title: "‘Gay rainbow’ speech wins Quote of the Year"
-date: 2013-12-19
-source-url: https://www.scoop.co.nz/stories/CU1312/S00389/gay-rainbow-speech-wins-quote-of-the-year.htm
+title: ‘Gay rainbow’ speech wins Quote of the Year
+date: 2013-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00389/gay-rainbow-speech-wins-quote-of-the-year.htm
 author: massey-university
+permalink: /archive/2013/12/19/gay-rainbow-speech-wins-quote-of-the-year/index.html
+layout: layout.njk
 ---
 ‘Gay rainbow’ speech wins Quote of the Year
 ===========================================

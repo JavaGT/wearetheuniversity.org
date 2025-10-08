@@ -1,9 +1,12 @@
 ---
 slug: budget-a-disappointment-for-auckland
-title: "Budget a disappointment for Auckland"
-date: 2017-05-25
-source-url: https://www.scoop.co.nz/stories/PA1705/S00542/budget-a-disappointment-for-auckland.htm
+title: Budget a disappointment for Auckland
+date: 2017-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00542/budget-a-disappointment-for-auckland.htm
 author: green-party
+permalink: /archive/2017/05/25/budget-a-disappointment-for-auckland/index.html
+layout: layout.njk
 ---
 Budget a disappointment for Auckland
 ====================================

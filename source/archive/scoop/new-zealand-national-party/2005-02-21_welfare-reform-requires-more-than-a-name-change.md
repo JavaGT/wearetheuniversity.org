@@ -1,9 +1,12 @@
 ---
 slug: welfare-reform-requires-more-than-a-name-change
-title: "Welfare reform requires more than a name change"
-date: 2005-02-21
-source-url: https://www.scoop.co.nz/stories/PA0502/S00458/welfare-reform-requires-more-than-a-name-change.htm
+title: Welfare reform requires more than a name change
+date: 2005-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00458/welfare-reform-requires-more-than-a-name-change.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/21/welfare-reform-requires-more-than-a-name-change/index.html
+layout: layout.njk
 ---
 Welfare reform requires more than a name change
 ===============================================

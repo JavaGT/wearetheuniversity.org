@@ -1,9 +1,12 @@
 ---
 slug: who-will-pay-for-privatisation-of-road-safety
-title: "Who Will Pay For Privatisation Of Road Safety?"
-date: 2012-11-01
-source-url: https://www.scoop.co.nz/stories/PA1211/S00001/who-will-pay-for-privatisation-of-road-safety.htm
+title: Who Will Pay For Privatisation Of Road Safety?
+date: 2012-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00001/who-will-pay-for-privatisation-of-road-safety.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/01/who-will-pay-for-privatisation-of-road-safety/index.html
+layout: layout.njk
 ---
 Who Will Pay For Privatisation Of Road Safety?
 ==============================================

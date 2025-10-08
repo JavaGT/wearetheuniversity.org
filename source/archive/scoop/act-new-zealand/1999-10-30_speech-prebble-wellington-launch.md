@@ -1,9 +1,12 @@
 ---
 slug: speech-prebble-wellington-launch
-title: "Speech: Prebble - Wellington Launch"
-date: 1999-10-30
-source-url: https://www.scoop.co.nz/stories/PA9910/S00707/speech-prebble-wellington-launch.htm
+title: 'Speech: Prebble - Wellington Launch'
+date: 1999-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00707/speech-prebble-wellington-launch.htm
 author: act-new-zealand
+permalink: /archive/1999/10/30/speech-prebble-wellington-launch/index.html
+layout: layout.njk
 ---
 Speech: Prebble - Wellington Launch
 ===================================

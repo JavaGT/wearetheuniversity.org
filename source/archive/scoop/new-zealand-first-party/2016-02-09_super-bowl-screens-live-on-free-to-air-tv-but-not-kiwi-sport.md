@@ -1,9 +1,13 @@
 ---
 slug: super-bowl-screens-live-on-free-to-air-tv-but-not-kiwi-sport
-title: "Super Bowl Screens Live on Free-to-Air TV But Not Kiwi Sport"
-date: 2016-02-09
-source-url: https://www.scoop.co.nz/stories/PA1602/S00084/super-bowl-screens-live-on-free-to-air-tv-but-not-kiwi-sport.htm
+title: Super Bowl Screens Live on Free-to-Air TV But Not Kiwi Sport
+date: 2016-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00084/super-bowl-screens-live-on-free-to-air-tv-but-not-kiwi-sport.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/02/09/super-bowl-screens-live-on-free-to-air-tv-but-not-kiwi-sport/index.html
+layout: layout.njk
 ---
 Super Bowl Screens Live on Free-to-Air TV But Not Kiwi Sport
 ============================================================

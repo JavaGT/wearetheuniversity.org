@@ -1,9 +1,13 @@
 ---
 slug: otago-uni-students-on-the-constitution-conversation
-title: "Otago Uni students  on the Constitution Conversation"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/PO1302/S00256/otago-uni-students-on-the-constitution-conversation.htm
+title: Otago Uni students  on the Constitution Conversation
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00256/otago-uni-students-on-the-constitution-conversation.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/02/26/otago-uni-students-on-the-constitution-conversation/index.html
+layout: layout.njk
 ---
 Otago Uni students on the Constitution Conversation
 ===================================================

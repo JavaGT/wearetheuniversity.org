@@ -1,9 +1,12 @@
 ---
 slug: lee-to-run-for-national-in-maungakiekie
-title: "Lee to run for National in Maungakiekie"
-date: 2017-03-08
-source-url: https://www.scoop.co.nz/stories/PO1703/S00089/lee-to-run-for-national-in-maungakiekie.htm
+title: Lee to run for National in Maungakiekie
+date: 2017-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00089/lee-to-run-for-national-in-maungakiekie.htm
 author: new-zealand-national-party
+permalink: /archive/2017/03/08/lee-to-run-for-national-in-maungakiekie/index.html
+layout: layout.njk
 ---
 Lee to run for National in Maungakiekie
 =======================================

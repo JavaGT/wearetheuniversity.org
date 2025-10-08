@@ -1,9 +1,12 @@
 ---
 slug: accessing-traditional-knowledge-key-to-exports
-title: "Accessing traditional knowledge key to exports"
-date: 2008-09-26
-source-url: https://www.scoop.co.nz/stories/ED0809/S00094/accessing-traditional-knowledge-key-to-exports.htm
+title: Accessing traditional knowledge key to exports
+date: 2008-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00094/accessing-traditional-knowledge-key-to-exports.htm
 author: massey-university
+permalink: /archive/2008/09/26/accessing-traditional-knowledge-key-to-exports/index.html
+layout: layout.njk
 ---
 Accessing traditional knowledge key to exports
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: massey-biologist-to-save-darwins-mockingbird-muse
-title: "Massey biologist to save Darwin's mockingbird muse"
-date: 2010-08-23
-source-url: https://www.scoop.co.nz/stories/ED1008/S00088/massey-biologist-to-save-darwins-mockingbird-muse.htm
+title: Massey biologist to save Darwin's mockingbird muse
+date: 2010-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00088/massey-biologist-to-save-darwins-mockingbird-muse.htm
 author: massey-university
+permalink: >-
+  /archive/2010/08/23/massey-biologist-to-save-darwins-mockingbird-muse/index.html
+layout: layout.njk
 ---
 Massey biologist to save Darwin's mockingbird muse
 ==================================================

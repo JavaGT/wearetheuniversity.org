@@ -1,9 +1,12 @@
 ---
 slug: hort-industry-wants-workers-not-workshops
-title: "Hort Industry Wants Workers Not Workshops"
-date: 2021-03-19
-source-url: https://www.scoop.co.nz/stories/PA2103/S00150/hort-industry-wants-workers-not-workshops.htm
+title: Hort Industry Wants Workers Not Workshops
+date: 2021-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00150/hort-industry-wants-workers-not-workshops.htm
 author: act-new-zealand
+permalink: /archive/2021/03/19/hort-industry-wants-workers-not-workshops/index.html
+layout: layout.njk
 ---
 Hort Industry Wants Workers Not Workshops
 =========================================

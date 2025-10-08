@@ -1,9 +1,13 @@
 ---
 slug: phd-student-researching-blood-sugar-levels-of-icu-patients
-title: "PhD student researching blood sugar levels of ICU patients"
-date: 2013-07-14
-source-url: https://www.scoop.co.nz/stories/ED1307/S00078/phd-student-researching-blood-sugar-levels-of-icu-patients.htm
+title: PhD student researching blood sugar levels of ICU patients
+date: 2013-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00078/phd-student-researching-blood-sugar-levels-of-icu-patients.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/14/phd-student-researching-blood-sugar-levels-of-icu-patients/index.html
+layout: layout.njk
 ---
 PhD student researching blood sugar levels of ICU patients
 ==========================================================

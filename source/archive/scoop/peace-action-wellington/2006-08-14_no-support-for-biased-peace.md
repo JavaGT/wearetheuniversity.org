@@ -1,9 +1,11 @@
 ---
 slug: no-support-for-biased-peace
-title: "No support for biased peace"
-date: 2006-08-14
+title: No support for biased peace
+date: 2006-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0608/S00148/no-support-for-biased-peace.htm
 author: peace-action-wellington
+permalink: /archive/2006/08/14/no-support-for-biased-peace/index.html
+layout: layout.njk
 ---
 No support for biased peace
 ===========================

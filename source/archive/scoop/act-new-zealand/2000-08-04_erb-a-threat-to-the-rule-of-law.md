@@ -1,9 +1,12 @@
 ---
 slug: erb-a-threat-to-the-rule-of-law
-title: "\"ERB – A Threat To The Rule Of Law\""
-date: 2000-08-04
-source-url: https://www.scoop.co.nz/stories/PA0008/S00088/erb-a-threat-to-the-rule-of-law.htm
+title: '"ERB – A Threat To The Rule Of Law"'
+date: 2000-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00088/erb-a-threat-to-the-rule-of-law.htm
 author: act-new-zealand
+permalink: /archive/2000/08/04/erb-a-threat-to-the-rule-of-law/index.html
+layout: layout.njk
 ---
 “ERB – A Threat To The Rule Of Law”
 ===================================

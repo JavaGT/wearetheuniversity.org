@@ -1,9 +1,13 @@
 ---
 slug: prisoner-payout-should-go-to-victims-says-peters
-title: "Prisoner Payout Should Go To Victims Says Peters"
-date: 2004-09-03
-source-url: https://www.scoop.co.nz/stories/PA0409/S00076/prisoner-payout-should-go-to-victims-says-peters.htm
+title: Prisoner Payout Should Go To Victims Says Peters
+date: 2004-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00076/prisoner-payout-should-go-to-victims-says-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2004/09/03/prisoner-payout-should-go-to-victims-says-peters/index.html
+layout: layout.njk
 ---
 Prisoner Payout Should Go To Victims Says Peters
 ================================================

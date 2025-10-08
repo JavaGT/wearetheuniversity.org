@@ -1,9 +1,13 @@
 ---
 slug: current-issues-under-microscope-in-new-public-square-series
-title: "Current issues under microscope in new Public Square series"
-date: 2011-09-19
-source-url: https://www.scoop.co.nz/stories/ED1109/S00080/current-issues-under-microscope-in-new-public-square-series.htm
+title: Current issues under microscope in new Public Square series
+date: 2011-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00080/current-issues-under-microscope-in-new-public-square-series.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/19/current-issues-under-microscope-in-new-public-square-series/index.html
+layout: layout.njk
 ---
 Current issues under microscope in new Public Square series
 ===========================================================

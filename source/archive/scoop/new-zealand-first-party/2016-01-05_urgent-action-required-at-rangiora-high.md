@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-required-at-rangiora-high
-title: "Urgent Action Required at Rangiora High"
-date: 2016-01-05
-source-url: https://www.scoop.co.nz/stories/PA1601/S00006/urgent-action-required-at-rangiora-high.htm
+title: Urgent Action Required at Rangiora High
+date: 2016-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00006/urgent-action-required-at-rangiora-high.htm
 author: new-zealand-first-party
+permalink: /archive/2016/01/05/urgent-action-required-at-rangiora-high/index.html
+layout: layout.njk
 ---
 Urgent Action Required at Rangiora High
 =======================================

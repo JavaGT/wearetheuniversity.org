@@ -1,9 +1,13 @@
 ---
 slug: helen-white-labours-2017-candidate-for-auckland-central
-title: "Helen White Labour’s 2017 candidate for Auckland Central"
-date: 2017-02-18
-source-url: https://www.scoop.co.nz/stories/PO1702/S00209/helen-white-labours-2017-candidate-for-auckland-central.htm
+title: Helen White Labour’s 2017 candidate for Auckland Central
+date: 2017-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1702/S00209/helen-white-labours-2017-candidate-for-auckland-central.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/02/18/helen-white-labours-2017-candidate-for-auckland-central/index.html
+layout: layout.njk
 ---
 Helen White Labour’s 2017 candidate for Auckland Central
 ========================================================

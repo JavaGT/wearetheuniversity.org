@@ -1,9 +1,13 @@
 ---
 slug: english-joyce-put-boot-into-young-new-zealanders
-title: "English, Joyce Put Boot into Young New Zealanders"
-date: 2016-04-14
-source-url: https://www.scoop.co.nz/stories/PA1604/S00251/english-joyce-put-boot-into-young-new-zealanders.htm
+title: English, Joyce Put Boot into Young New Zealanders
+date: 2016-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00251/english-joyce-put-boot-into-young-new-zealanders.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/14/english-joyce-put-boot-into-young-new-zealanders/index.html
+layout: layout.njk
 ---
 English, Joyce Put Boot into Young New Zealanders
 =================================================

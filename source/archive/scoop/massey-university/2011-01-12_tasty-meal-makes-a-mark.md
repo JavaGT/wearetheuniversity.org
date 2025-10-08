@@ -1,9 +1,11 @@
 ---
 slug: tasty-meal-makes-a-mark
-title: "Tasty meal makes a mark"
-date: 2011-01-12
+title: Tasty meal makes a mark
+date: 2011-01-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1101/S00058/tasty-meal-makes-a-mark.htm
 author: massey-university
+permalink: /archive/2011/01/12/tasty-meal-makes-a-mark/index.html
+layout: layout.njk
 ---
 Tasty meal makes a mark
 =======================

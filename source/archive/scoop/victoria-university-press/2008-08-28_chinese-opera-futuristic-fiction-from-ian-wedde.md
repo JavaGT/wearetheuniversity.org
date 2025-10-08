@@ -1,9 +1,12 @@
 ---
 slug: chinese-opera-futuristic-fiction-from-ian-wedde
-title: "Chinese Opera - futuristic fiction from Ian Wedde"
-date: 2008-08-28
-source-url: https://www.scoop.co.nz/stories/CU0808/S00300/chinese-opera-futuristic-fiction-from-ian-wedde.htm
+title: Chinese Opera - futuristic fiction from Ian Wedde
+date: 2008-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0808/S00300/chinese-opera-futuristic-fiction-from-ian-wedde.htm
 author: victoria-university-press
+permalink: /archive/2008/08/28/chinese-opera-futuristic-fiction-from-ian-wedde/index.html
+layout: layout.njk
 ---
 Chinese Opera - futuristic fiction from Ian Wedde
 =================================================

@@ -1,9 +1,11 @@
 ---
 slug: zonta-honours-top-designers
-title: "Zonta honours top designers"
-date: 2007-11-27
+title: Zonta honours top designers
+date: 2007-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0711/S00109/zonta-honours-top-designers.htm
 author: massey-university
+permalink: /archive/2007/11/27/zonta-honours-top-designers/index.html
+layout: layout.njk
 ---
 Zonta honours top designers
 ===========================

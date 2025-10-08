@@ -1,9 +1,12 @@
 ---
 slug: most-nzers-enjoy-good-health-as-they-age-report
-title: "Most NZers enjoy good health as they age: report"
-date: 2018-07-31
-source-url: https://www.scoop.co.nz/stories/SC1807/S00067/most-nzers-enjoy-good-health-as-they-age-report.htm
+title: 'Most NZers enjoy good health as they age: report'
+date: 2018-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1807/S00067/most-nzers-enjoy-good-health-as-they-age-report.htm
 author: massey-university
+permalink: /archive/2018/07/31/most-nzers-enjoy-good-health-as-they-age-report/index.html
+layout: layout.njk
 ---
 Most NZers enjoy good health as they age: report
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-to-launch-robotic-company-in-christchurch
-title: "Canterbury student to launch robotic company in Christchurch"
-date: 2014-06-15
-source-url: https://www.scoop.co.nz/stories/BU1406/S00504/canterbury-student-to-launch-robotic-company-in-christchurch.htm
+title: Canterbury student to launch robotic company in Christchurch
+date: 2014-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1406/S00504/canterbury-student-to-launch-robotic-company-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/15/canterbury-student-to-launch-robotic-company-in-christchurch/index.html
+layout: layout.njk
 ---
 Canterbury student to launch robotic company in Christchurch
 ============================================================

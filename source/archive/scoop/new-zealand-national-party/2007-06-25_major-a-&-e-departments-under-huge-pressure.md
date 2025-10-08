@@ -1,9 +1,12 @@
 ---
 slug: major-a-&-e-departments-under-huge-pressure
-title: "Major A & E departments under huge pressure"
-date: 2007-06-25
-source-url: https://www.scoop.co.nz/stories/PA0706/S00481/major-a-e-departments-under-huge-pressure.htm
+title: Major A & E departments under huge pressure
+date: 2007-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00481/major-a-e-departments-under-huge-pressure.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/25/major-a-/index.html
+layout: layout.njk
 ---
 Major A & E departments under huge pressure
 ===========================================

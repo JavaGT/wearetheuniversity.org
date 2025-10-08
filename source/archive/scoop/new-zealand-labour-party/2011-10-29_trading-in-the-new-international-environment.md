@@ -1,9 +1,12 @@
 ---
 slug: trading-in-the-new-international-environment
-title: "Trading in the new international environment"
-date: 2011-10-29
-source-url: https://www.scoop.co.nz/stories/PA1110/S00459/trading-in-the-new-international-environment.htm
+title: Trading in the new international environment
+date: 2011-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00459/trading-in-the-new-international-environment.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/29/trading-in-the-new-international-environment/index.html
+layout: layout.njk
 ---
 Trading in the new international environment
 ============================================

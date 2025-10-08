@@ -1,9 +1,12 @@
 ---
 slug: international-study-on-serious-disease
-title: "International study on serious disease"
-date: 2009-03-16
-source-url: https://www.scoop.co.nz/stories/GE0903/S00079/international-study-on-serious-disease.htm
+title: International study on serious disease
+date: 2009-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0903/S00079/international-study-on-serious-disease.htm
 author: university-of-otago
+permalink: /archive/2009/03/16/international-study-on-serious-disease/index.html
+layout: layout.njk
 ---
 International study on serious disease
 ======================================

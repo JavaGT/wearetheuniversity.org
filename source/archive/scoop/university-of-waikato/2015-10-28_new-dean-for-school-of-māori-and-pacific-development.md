@@ -1,9 +1,12 @@
 ---
 slug: new-dean-for-school-of-māori-and-pacific-development
-title: "New Dean for School of Māori and Pacific Development"
-date: 2015-10-28
-source-url: https://www.scoop.co.nz/stories/ED1510/S00133/new-dean-for-school-of-maori-and-pacific-development.htm
+title: New Dean for School of Māori and Pacific Development
+date: 2015-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00133/new-dean-for-school-of-maori-and-pacific-development.htm
 author: university-of-waikato
+permalink: /archive/2015/10/28/new-dean-for-school-of-m/index.html
+layout: layout.njk
 ---
 New Dean for School of Māori and Pacific Development
 ====================================================

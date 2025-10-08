@@ -1,9 +1,13 @@
 ---
 slug: aut-and-helius-partner-on-medicinal-cannabis-products
-title: "AUT and Helius partner on medicinal cannabis products"
-date: 2021-09-15
-source-url: https://www.scoop.co.nz/stories/SC2109/S00033/aut-and-helius-partner-on-medicinal-cannabis-products.htm
+title: AUT and Helius partner on medicinal cannabis products
+date: 2021-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00033/aut-and-helius-partner-on-medicinal-cannabis-products.htm
 author: aut-university
+permalink: >-
+  /archive/2021/09/15/aut-and-helius-partner-on-medicinal-cannabis-products/index.html
+layout: layout.njk
 ---
 AUT and Helius partner on medicinal cannabis products
 =====================================================

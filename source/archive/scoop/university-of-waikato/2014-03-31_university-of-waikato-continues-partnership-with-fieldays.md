@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-continues-partnership-with-fieldays
-title: "University of Waikato continues partnership with Fieldays"
-date: 2014-03-31
-source-url: https://www.scoop.co.nz/stories/ED1403/S00179/university-of-waikato-continues-partnership-with-fieldays.htm
+title: University of Waikato continues partnership with Fieldays
+date: 2014-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00179/university-of-waikato-continues-partnership-with-fieldays.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/31/university-of-waikato-continues-partnership-with-fieldays/index.html
+layout: layout.njk
 ---
 University of Waikato continues partnership with Fieldays
 =========================================================

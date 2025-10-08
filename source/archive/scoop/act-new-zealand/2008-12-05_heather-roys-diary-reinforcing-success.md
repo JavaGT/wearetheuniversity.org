@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-reinforcing-success
-title: "Heather Roy's Diary - Reinforcing Success"
-date: 2008-12-05
-source-url: https://www.scoop.co.nz/stories/PA0812/S00044/heather-roys-diary-reinforcing-success.htm
+title: Heather Roy's Diary - Reinforcing Success
+date: 2008-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00044/heather-roys-diary-reinforcing-success.htm
 author: act-new-zealand
+permalink: /archive/2008/12/05/heather-roys-diary-reinforcing-success/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary - Reinforcing Success
 =========================================

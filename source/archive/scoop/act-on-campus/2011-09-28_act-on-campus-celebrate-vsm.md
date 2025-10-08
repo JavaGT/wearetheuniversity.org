@@ -1,9 +1,11 @@
 ---
 slug: act-on-campus-celebrate-vsm
-title: "ACT on Campus Celebrate VSM"
-date: 2011-09-28
+title: ACT on Campus Celebrate VSM
+date: 2011-09-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1109/S00128/act-on-campus-celebrate-vsm.htm
 author: act-on-campus
+permalink: /archive/2011/09/28/act-on-campus-celebrate-vsm/index.html
+layout: layout.njk
 ---
 ACT on Campus Celebrate VSM
 ===========================

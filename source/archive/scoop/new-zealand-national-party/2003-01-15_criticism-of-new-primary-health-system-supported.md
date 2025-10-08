@@ -1,9 +1,13 @@
 ---
 slug: criticism-of-new-primary-health-system-supported
-title: "Criticism of new primary health system supported"
-date: 2003-01-15
-source-url: https://www.scoop.co.nz/stories/PA0301/S00081/criticism-of-new-primary-health-system-supported.htm
+title: Criticism of new primary health system supported
+date: 2003-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00081/criticism-of-new-primary-health-system-supported.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/01/15/criticism-of-new-primary-health-system-supported/index.html
+layout: layout.njk
 ---
 Criticism of new primary health system supported
 ================================================

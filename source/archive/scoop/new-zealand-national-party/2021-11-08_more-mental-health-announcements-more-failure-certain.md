@@ -1,9 +1,13 @@
 ---
 slug: more-mental-health-announcements-more-failure-certain
-title: "More Mental Health Announcements, More Failure Certain"
-date: 2021-11-08
-source-url: https://www.scoop.co.nz/stories/PA2111/S00082/more-mental-health-announcements-more-failure-certain.htm
+title: More Mental Health Announcements, More Failure Certain
+date: 2021-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00082/more-mental-health-announcements-more-failure-certain.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/11/08/more-mental-health-announcements-more-failure-certain/index.html
+layout: layout.njk
 ---
 More Mental Health Announcements, More Failure Certain
 ======================================================

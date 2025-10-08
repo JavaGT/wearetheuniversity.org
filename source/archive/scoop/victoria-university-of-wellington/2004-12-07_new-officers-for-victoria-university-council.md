@@ -1,9 +1,12 @@
 ---
 slug: new-officers-for-victoria-university-council
-title: "New officers for Victoria University Council"
-date: 2004-12-07
-source-url: https://www.scoop.co.nz/stories/ED0412/S00026/new-officers-for-victoria-university-council.htm
+title: New officers for Victoria University Council
+date: 2004-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00026/new-officers-for-victoria-university-council.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/12/07/new-officers-for-victoria-university-council/index.html
+layout: layout.njk
 ---
 New officers for Victoria University Council
 ============================================

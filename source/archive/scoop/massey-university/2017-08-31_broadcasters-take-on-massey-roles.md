@@ -1,9 +1,12 @@
 ---
 slug: broadcasters-take-on-massey-roles
-title: "Broadcasters take on Massey roles"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/ED1708/S00122/broadcasters-take-on-massey-roles.htm
+title: Broadcasters take on Massey roles
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00122/broadcasters-take-on-massey-roles.htm
 author: massey-university
+permalink: /archive/2017/08/31/broadcasters-take-on-massey-roles/index.html
+layout: layout.njk
 ---
 Broadcasters take on Massey roles
 =================================

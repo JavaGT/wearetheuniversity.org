@@ -1,9 +1,12 @@
 ---
 slug: police-must-not-compromise-on-fitness
-title: "Police must not compromise on fitness"
-date: 2006-04-24
-source-url: https://www.scoop.co.nz/stories/PA0604/S00348/police-must-not-compromise-on-fitness.htm
+title: Police must not compromise on fitness
+date: 2006-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00348/police-must-not-compromise-on-fitness.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/24/police-must-not-compromise-on-fitness/index.html
+layout: layout.njk
 ---
 Police must not compromise on fitness
 =====================================

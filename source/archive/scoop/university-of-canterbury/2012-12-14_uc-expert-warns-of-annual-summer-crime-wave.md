@@ -1,9 +1,12 @@
 ---
 slug: uc-expert-warns-of-annual-summer-crime-wave
-title: "UC expert warns of annual summer crime wave"
-date: 2012-12-14
-source-url: https://www.scoop.co.nz/stories/PO1212/S00232/uc-expert-warns-of-annual-summer-crime-wave.htm
+title: UC expert warns of annual summer crime wave
+date: 2012-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1212/S00232/uc-expert-warns-of-annual-summer-crime-wave.htm
 author: university-of-canterbury
+permalink: /archive/2012/12/14/uc-expert-warns-of-annual-summer-crime-wave/index.html
+layout: layout.njk
 ---
 UC expert warns of annual summer crime wave
 ===========================================

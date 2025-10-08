@@ -1,9 +1,16 @@
 ---
-slug: rare-parrot-games-warrior-chef-becomes-the-recipe-for-kiwi-game-starter-success
-title: "Rare Parrot Games’ Warrior Chef Becomes The Recipe For Kiwi Game Starter Success"
-date: 2022-08-22
-source-url: https://www.scoop.co.nz/stories/CU2208/S00136/rare-parrot-games-warrior-chef-becomes-the-recipe-for-kiwi-game-starter-success.htm
+slug: >-
+  rare-parrot-games-warrior-chef-becomes-the-recipe-for-kiwi-game-starter-success
+title: >-
+  Rare Parrot Games’ Warrior Chef Becomes The Recipe For Kiwi Game Starter
+  Success
+date: 2022-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2208/S00136/rare-parrot-games-warrior-chef-becomes-the-recipe-for-kiwi-game-starter-success.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/08/22/rare-parrot-games-warrior-chef-becomes-the-recipe-for-kiwi-game-starter-success/index.html
+layout: layout.njk
 ---
 Rare Parrot Games’ Warrior Chef Becomes The Recipe For Kiwi Game Starter Success
 ================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: maori-women-have-biggest-increase-in-breast-cancer-rates
-title: "Maori women have biggest increase in breast cancer rates"
-date: 2011-02-15
-source-url: https://www.scoop.co.nz/stories/GE1102/S00063/maori-women-have-biggest-increase-in-breast-cancer-rates.htm
+title: Maori women have biggest increase in breast cancer rates
+date: 2011-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1102/S00063/maori-women-have-biggest-increase-in-breast-cancer-rates.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/02/15/maori-women-have-biggest-increase-in-breast-cancer-rates/index.html
+layout: layout.njk
 ---
 Maori women have biggest increase in breast cancer rates
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: jobs-for-the-boys-and-girls-when-is-it-going-to-end
-title: "Jobs for the Boys And Girls  – When is It Going to End?"
-date: 2015-11-17
-source-url: https://www.scoop.co.nz/stories/PA1511/S00303/jobs-for-the-boys-and-girls-when-is-it-going-to-end.htm
+title: Jobs for the Boys And Girls  – When is It Going to End?
+date: 2015-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00303/jobs-for-the-boys-and-girls-when-is-it-going-to-end.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/11/17/jobs-for-the-boys-and-girls-when-is-it-going-to-end/index.html
+layout: layout.njk
 ---
 Jobs for the Boys And Girls – When is It Going to End?
 ======================================================

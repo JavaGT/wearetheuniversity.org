@@ -1,9 +1,13 @@
 ---
 slug: freshwater-ecosystems-under-threat-in-a-warming-aotearoa
-title: "Freshwater Ecosystems Under Threat In A Warming Aotearoa"
-date: 2022-05-16
-source-url: https://www.scoop.co.nz/stories/ED2205/S00029/freshwater-ecosystems-under-threat-in-a-warming-aotearoa.htm
+title: Freshwater Ecosystems Under Threat In A Warming Aotearoa
+date: 2022-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00029/freshwater-ecosystems-under-threat-in-a-warming-aotearoa.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/16/freshwater-ecosystems-under-threat-in-a-warming-aotearoa/index.html
+layout: layout.njk
 ---
 Freshwater Ecosystems Under Threat In A Warming Aotearoa
 ========================================================

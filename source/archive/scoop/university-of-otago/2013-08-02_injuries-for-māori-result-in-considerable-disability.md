@@ -1,9 +1,12 @@
 ---
 slug: injuries-for-māori-result-in-considerable-disability
-title: "Injuries for Māori result in considerable disability"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/GE1308/S00013/injuries-for-maori-result-in-considerable-disability.htm
+title: Injuries for Māori result in considerable disability
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00013/injuries-for-maori-result-in-considerable-disability.htm
 author: university-of-otago
+permalink: /archive/2013/08/02/injuries-for-m/index.html
+layout: layout.njk
 ---
 Injuries for Māori result in considerable disability
 ====================================================

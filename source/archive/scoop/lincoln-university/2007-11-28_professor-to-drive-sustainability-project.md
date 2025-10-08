@@ -1,9 +1,12 @@
 ---
 slug: professor-to-drive-sustainability-project
-title: "Professor to Drive Sustainability Project"
-date: 2007-11-28
-source-url: https://www.scoop.co.nz/stories/SC0711/S00075/professor-to-drive-sustainability-project.htm
+title: Professor to Drive Sustainability Project
+date: 2007-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00075/professor-to-drive-sustainability-project.htm
 author: lincoln-university
+permalink: /archive/2007/11/28/professor-to-drive-sustainability-project/index.html
+layout: layout.njk
 ---
 Professor to Drive Sustainability Project
 =========================================

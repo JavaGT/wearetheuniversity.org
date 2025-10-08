@@ -1,9 +1,13 @@
 ---
 slug: waikato-hospital-dependent-on-foreign-qualified-doctors
-title: "Waikato Hospital Dependent on Foreign Qualified Doctors"
-date: 2015-07-28
-source-url: https://www.scoop.co.nz/stories/PA1507/S00470/waikato-hospital-dependent-on-foreign-qualified-doctors.htm
+title: Waikato Hospital Dependent on Foreign Qualified Doctors
+date: 2015-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00470/waikato-hospital-dependent-on-foreign-qualified-doctors.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/07/28/waikato-hospital-dependent-on-foreign-qualified-doctors/index.html
+layout: layout.njk
 ---
 Waikato Hospital Dependent on Foreign Qualified Doctors
 =======================================================

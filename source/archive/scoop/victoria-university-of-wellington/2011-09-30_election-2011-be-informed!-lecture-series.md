@@ -1,9 +1,12 @@
 ---
 slug: election-2011-be-informed!-lecture-series
-title: "Election 2011: Be Informed! lecture series"
-date: 2011-09-30
-source-url: https://www.scoop.co.nz/stories/PO1109/S00459/election-2011-be-informed-lecture-series.htm
+title: 'Election 2011: Be Informed! lecture series'
+date: 2011-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00459/election-2011-be-informed-lecture-series.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/30/election-2011-be-informed/index.html
+layout: layout.njk
 ---
 Election 2011: Be Informed! lecture series
 ==========================================

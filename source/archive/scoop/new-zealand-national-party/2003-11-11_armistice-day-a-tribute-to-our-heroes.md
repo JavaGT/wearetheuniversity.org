@@ -1,9 +1,12 @@
 ---
 slug: armistice-day-a-tribute-to-our-heroes
-title: "Armistice Day a tribute to our heroes"
-date: 2003-11-11
-source-url: https://www.scoop.co.nz/stories/PA0311/S00217/armistice-day-a-tribute-to-our-heroes.htm
+title: Armistice Day a tribute to our heroes
+date: 2003-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00217/armistice-day-a-tribute-to-our-heroes.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/11/armistice-day-a-tribute-to-our-heroes/index.html
+layout: layout.njk
 ---
 Armistice Day a tribute to our heroes
 =====================================

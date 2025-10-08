@@ -1,9 +1,13 @@
 ---
 slug: govt-must-compensate-artists-musicians-and-creatives-immediately
-title: "Govt Must Compensate Artists, Musicians And Creatives Immediately"
-date: 2022-01-28
-source-url: https://www.scoop.co.nz/stories/PA2201/S00114/govt-must-compensate-artists-musicians-and-creatives-immediately.htm
+title: Govt Must Compensate Artists, Musicians And Creatives Immediately
+date: 2022-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00114/govt-must-compensate-artists-musicians-and-creatives-immediately.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2022/01/28/govt-must-compensate-artists-musicians-and-creatives-immediately/index.html
+layout: layout.njk
 ---
 Govt Must Compensate Artists, Musicians And Creatives Immediately
 =================================================================

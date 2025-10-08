@@ -1,9 +1,13 @@
 ---
 slug: longer-waiting-times-for-majority-of-visa-categories
-title: "Longer waiting times for majority of visa categories"
-date: 2019-08-09
-source-url: https://www.scoop.co.nz/stories/PA1908/S00107/longer-waiting-times-for-majority-of-visa-categories.htm
+title: Longer waiting times for majority of visa categories
+date: 2019-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1908/S00107/longer-waiting-times-for-majority-of-visa-categories.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/08/09/longer-waiting-times-for-majority-of-visa-categories/index.html
+layout: layout.njk
 ---
 Longer waiting times for majority of visa categories
 ====================================================

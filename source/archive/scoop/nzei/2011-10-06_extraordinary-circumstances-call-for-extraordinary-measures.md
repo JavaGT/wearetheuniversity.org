@@ -1,9 +1,13 @@
 ---
 slug: extraordinary-circumstances-call-for-extraordinary-measures
-title: "Extraordinary circumstances call for extraordinary measures"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/ED1110/S00027/extraordinary-circumstances-call-for-extraordinary-measures.htm
+title: Extraordinary circumstances call for extraordinary measures
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00027/extraordinary-circumstances-call-for-extraordinary-measures.htm
 author: nzei
+permalink: >-
+  /archive/2011/10/06/extraordinary-circumstances-call-for-extraordinary-measures/index.html
+layout: layout.njk
 ---
 Extraordinary circumstances call for extraordinary measures
 ===========================================================

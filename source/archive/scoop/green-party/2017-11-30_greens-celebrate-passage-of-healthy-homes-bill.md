@@ -1,9 +1,12 @@
 ---
 slug: greens-celebrate-passage-of-healthy-homes-bill
-title: "Greens celebrate passage of Healthy Homes Bill"
-date: 2017-11-30
-source-url: https://www.scoop.co.nz/stories/PA1711/S00201/greens-celebrate-passage-of-healthy-homes-bill.htm
+title: Greens celebrate passage of Healthy Homes Bill
+date: 2017-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00201/greens-celebrate-passage-of-healthy-homes-bill.htm
 author: green-party
+permalink: /archive/2017/11/30/greens-celebrate-passage-of-healthy-homes-bill/index.html
+layout: layout.njk
 ---
 Greens celebrate passage of Healthy Homes Bill
 ==============================================

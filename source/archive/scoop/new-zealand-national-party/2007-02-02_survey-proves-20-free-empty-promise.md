@@ -1,9 +1,12 @@
 ---
 slug: survey-proves-20-free-empty-promise
-title: "Survey proves ‘20 free’ empty promise"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/PA0702/S00030/survey-proves-20-free-empty-promise.htm
+title: Survey proves ‘20 free’ empty promise
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00030/survey-proves-20-free-empty-promise.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/02/survey-proves-20-free-empty-promise/index.html
+layout: layout.njk
 ---
 Survey proves ‘20 free’ empty promise
 =====================================

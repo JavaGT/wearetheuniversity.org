@@ -1,9 +1,12 @@
 ---
 slug: plain-english-fri-14-jun-2002
-title: "Plain English - Fri, 14 Jun 2002"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00246/plain-english-fri-14-jun-2002.htm
+title: Plain English - Fri, 14 Jun 2002
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00246/plain-english-fri-14-jun-2002.htm
 author: new-zealand-national-party
+permalink: /archive/2002/06/14/plain-english-fri-14-jun-2002/index.html
+layout: layout.njk
 ---
 Plain English - Fri, 14 Jun 2002
 ================================

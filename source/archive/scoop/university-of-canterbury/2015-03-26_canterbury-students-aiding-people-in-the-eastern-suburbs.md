@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-aiding-people-in-the-eastern-suburbs
-title: "Canterbury students aiding people in the eastern suburbs"
-date: 2015-03-26
-source-url: https://www.scoop.co.nz/stories/AK1503/S00719/canterbury-students-aiding-people-in-the-eastern-suburbs.htm
+title: Canterbury students aiding people in the eastern suburbs
+date: 2015-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00719/canterbury-students-aiding-people-in-the-eastern-suburbs.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/26/canterbury-students-aiding-people-in-the-eastern-suburbs/index.html
+layout: layout.njk
 ---
 Canterbury students aiding people in the eastern suburbs
 ========================================================

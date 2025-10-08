@@ -1,9 +1,12 @@
 ---
 slug: students-to-rally-in-run-up-to-vsm-bill
-title: "Students to rally in run-up to VSM Bill"
-date: 2011-09-25
-source-url: https://www.scoop.co.nz/stories/PO1109/S00359/students-to-rally-in-run-up-to-vsm-bill.htm
+title: Students to rally in run-up to VSM Bill
+date: 2011-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00359/students-to-rally-in-run-up-to-vsm-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/09/25/students-to-rally-in-run-up-to-vsm-bill/index.html
+layout: layout.njk
 ---
 Students to rally in run-up to VSM Bill
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: mallard-misleads-parents-must-continue-fight
-title: "Mallard Misleads - Parents  Must Continue Fight"
-date: 2004-03-10
-source-url: https://www.scoop.co.nz/stories/PA0403/S00229/mallard-misleads-parents-must-continue-fight.htm
+title: Mallard Misleads - Parents  Must Continue Fight
+date: 2004-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00229/mallard-misleads-parents-must-continue-fight.htm
 author: act-new-zealand
+permalink: /archive/2004/03/10/mallard-misleads-parents-must-continue-fight/index.html
+layout: layout.njk
 ---
 Mallard Misleads - Parents Must Continue Fight
 ==============================================

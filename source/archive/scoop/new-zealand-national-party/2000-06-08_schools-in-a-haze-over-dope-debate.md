@@ -1,9 +1,12 @@
 ---
 slug: schools-in-a-haze-over-dope-debate
-title: "Schools in a haze over dope debate"
-date: 2000-06-08
-source-url: https://www.scoop.co.nz/stories/PA0006/S00124/schools-in-a-haze-over-dope-debate.htm
+title: Schools in a haze over dope debate
+date: 2000-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00124/schools-in-a-haze-over-dope-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/08/schools-in-a-haze-over-dope-debate/index.html
+layout: layout.njk
 ---
 Schools in a haze over dope debate
 ==================================

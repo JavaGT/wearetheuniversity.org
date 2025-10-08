@@ -1,9 +1,12 @@
 ---
 slug: canterbury-mega-dump-first-of-many
-title: "Canterbury mega-dump first of many"
-date: 1999-10-14
-source-url: https://www.scoop.co.nz/stories/PA9910/S00319/canterbury-mega-dump-first-of-many.htm
+title: Canterbury mega-dump first of many
+date: 1999-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00319/canterbury-mega-dump-first-of-many.htm
 author: green-party
+permalink: /archive/1999/10/14/canterbury-mega-dump-first-of-many/index.html
+layout: layout.njk
 ---
 Canterbury mega-dump first of many
 ==================================

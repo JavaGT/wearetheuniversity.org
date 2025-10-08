@@ -1,9 +1,12 @@
 ---
 slug: malleable-maharey-resorts-to-bribery
-title: "Malleable Maharey Resorts To Bribery"
-date: 2001-08-08
-source-url: https://www.scoop.co.nz/stories/PA0108/S00149/malleable-maharey-resorts-to-bribery.htm
+title: Malleable Maharey Resorts To Bribery
+date: 2001-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00149/malleable-maharey-resorts-to-bribery.htm
 author: act-new-zealand
+permalink: /archive/2001/08/08/malleable-maharey-resorts-to-bribery/index.html
+layout: layout.njk
 ---
 Malleable Maharey Resorts To Bribery
 ====================================

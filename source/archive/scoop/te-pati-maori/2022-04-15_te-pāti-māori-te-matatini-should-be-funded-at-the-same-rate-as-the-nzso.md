@@ -1,9 +1,12 @@
 ---
 slug: te-pāti-māori-te-matatini-should-be-funded-at-the-same-rate-as-the-nzso
-title: "Te Pāti Māori: Te Matatini Should Be Funded At The Same Rate As The NZSO"
-date: 2022-04-15
-source-url: https://www.scoop.co.nz/stories/AK2204/S00319/te-pati-maori-te-matatini-should-be-funded-at-the-same-rate-as-the-nzso.htm
+title: 'Te Pāti Māori: Te Matatini Should Be Funded At The Same Rate As The NZSO'
+date: 2022-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2204/S00319/te-pati-maori-te-matatini-should-be-funded-at-the-same-rate-as-the-nzso.htm
 author: te-pati-maori
+permalink: /archive/2022/04/15/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori: Te Matatini Should Be Funded At The Same Rate As The NZSO
 ========================================================================

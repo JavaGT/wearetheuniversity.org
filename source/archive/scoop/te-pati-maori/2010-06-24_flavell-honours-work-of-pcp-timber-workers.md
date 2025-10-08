@@ -1,9 +1,12 @@
 ---
 slug: flavell-honours-work-of-pcp-timber-workers
-title: "Flavell honours work of PCP timber workers"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/PA1006/S00375/flavell-honours-work-of-pcp-timber-workers.htm
+title: Flavell honours work of PCP timber workers
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00375/flavell-honours-work-of-pcp-timber-workers.htm
 author: te-pati-maori
+permalink: /archive/2010/06/24/flavell-honours-work-of-pcp-timber-workers/index.html
+layout: layout.njk
 ---
 Flavell honours work of PCP timber workers
 ==========================================

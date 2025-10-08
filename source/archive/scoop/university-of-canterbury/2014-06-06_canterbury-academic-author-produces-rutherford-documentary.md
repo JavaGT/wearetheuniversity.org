@@ -1,9 +1,13 @@
 ---
 slug: canterbury-academic-author-produces-rutherford-documentary
-title: "Canterbury academic author produces Rutherford documentary"
-date: 2014-06-06
-source-url: https://www.scoop.co.nz/stories/CU1406/S00072/canterbury-academic-author-produces-rutherford-documentary.htm
+title: Canterbury academic author produces Rutherford documentary
+date: 2014-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00072/canterbury-academic-author-produces-rutherford-documentary.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/06/canterbury-academic-author-produces-rutherford-documentary/index.html
+layout: layout.njk
 ---
 Canterbury academic author produces Rutherford documentary
 ==========================================================

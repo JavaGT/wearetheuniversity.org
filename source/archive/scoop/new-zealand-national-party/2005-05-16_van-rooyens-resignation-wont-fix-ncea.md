@@ -1,9 +1,12 @@
 ---
 slug: van-rooyens-resignation-wont-fix-ncea
-title: "Van Rooyen's resignation won't fix NCEA"
-date: 2005-05-16
-source-url: https://www.scoop.co.nz/stories/PA0505/S00371/van-rooyens-resignation-wont-fix-ncea.htm
+title: Van Rooyen's resignation won't fix NCEA
+date: 2005-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00371/van-rooyens-resignation-wont-fix-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/16/van-rooyens-resignation-wont-fix-ncea/index.html
+layout: layout.njk
 ---
 Van Rooyen's resignation won't fix NCEA
 =======================================

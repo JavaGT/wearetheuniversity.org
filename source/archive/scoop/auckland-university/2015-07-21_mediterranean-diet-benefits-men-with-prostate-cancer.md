@@ -1,9 +1,13 @@
 ---
 slug: mediterranean-diet-benefits-men-with-prostate-cancer
-title: "Mediterranean diet benefits men with prostate cancer"
-date: 2015-07-21
-source-url: https://www.scoop.co.nz/stories/GE1507/S00081/mediterranean-diet-benefits-men-with-prostate-cancer.htm
+title: Mediterranean diet benefits men with prostate cancer
+date: 2015-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1507/S00081/mediterranean-diet-benefits-men-with-prostate-cancer.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/07/21/mediterranean-diet-benefits-men-with-prostate-cancer/index.html
+layout: layout.njk
 ---
 Mediterranean diet benefits men with prostate cancer
 ====================================================

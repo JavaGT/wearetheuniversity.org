@@ -1,9 +1,13 @@
 ---
 slug: applications-open-for-vuwsas-executive-elections
-title: "Applications open for VUWSA’s executive elections"
-date: 2016-08-19
-source-url: https://www.scoop.co.nz/stories/PO1608/S00210/applications-open-for-vuwsas-executive-elections.htm
+title: Applications open for VUWSA’s executive elections
+date: 2016-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1608/S00210/applications-open-for-vuwsas-executive-elections.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/08/19/applications-open-for-vuwsas-executive-elections/index.html
+layout: layout.njk
 ---
 Applications open for VUWSA’s executive elections
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: digital-infant-in-world-first-psychology-research
-title: "Digital Infant In World-first Psychology Research"
-date: 2024-05-24
-source-url: https://www.scoop.co.nz/stories/SC2405/S00073/digital-infant-in-world-first-psychology-research.htm
+title: Digital Infant In World-first Psychology Research
+date: 2024-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00073/digital-infant-in-world-first-psychology-research.htm
 author: waipapa-taumata-rau
+permalink: >-
+  /archive/2024/05/24/digital-infant-in-world-first-psychology-research/index.html
+layout: layout.njk
 ---
 Digital Infant In World-first Psychology Research
 =================================================

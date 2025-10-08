@@ -1,9 +1,12 @@
 ---
 slug: science-on-display-art-on-a-chip
-title: "Science On Display: 'Art-on-a-Chip'"
-date: 2020-08-26
-source-url: https://www.scoop.co.nz/stories/SC2008/S00053/science-on-display-art-on-a-chip.htm
+title: 'Science On Display: ''Art-on-a-Chip'''
+date: 2020-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2008/S00053/science-on-display-art-on-a-chip.htm
 author: university-of-canterbury
+permalink: /archive/2020/08/26/science-on-display-art-on-a-chip/index.html
+layout: layout.njk
 ---
 Science On Display: 'Art-on-a-Chip'
 ===================================

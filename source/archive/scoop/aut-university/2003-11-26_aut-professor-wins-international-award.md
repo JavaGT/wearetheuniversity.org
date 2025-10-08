@@ -1,9 +1,12 @@
 ---
 slug: aut-professor-wins-international-award
-title: "AUT Professor Wins International Award"
-date: 2003-11-26
-source-url: https://www.scoop.co.nz/stories/ED0311/S00088/aut-professor-wins-international-award.htm
+title: AUT Professor Wins International Award
+date: 2003-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00088/aut-professor-wins-international-award.htm
 author: aut-university
+permalink: /archive/2003/11/26/aut-professor-wins-international-award/index.html
+layout: layout.njk
 ---
 AUT Professor Wins International Award
 ======================================

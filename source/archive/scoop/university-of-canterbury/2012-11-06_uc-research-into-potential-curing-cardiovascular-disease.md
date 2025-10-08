@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-potential-curing-cardiovascular-disease
-title: "UC research into potential curing cardiovascular disease"
-date: 2012-11-06
-source-url: https://www.scoop.co.nz/stories/SC1211/S00021/uc-research-into-potential-curing-cardiovascular-disease.htm
+title: UC research into potential curing cardiovascular disease
+date: 2012-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00021/uc-research-into-potential-curing-cardiovascular-disease.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/06/uc-research-into-potential-curing-cardiovascular-disease/index.html
+layout: layout.njk
 ---
 UC research into potential curing cardiovascular disease
 ========================================================

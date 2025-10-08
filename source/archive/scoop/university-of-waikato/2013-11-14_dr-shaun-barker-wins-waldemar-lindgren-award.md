@@ -1,9 +1,12 @@
 ---
 slug: dr-shaun-barker-wins-waldemar-lindgren-award
-title: "Dr Shaun Barker wins Waldemar Lindgren Award"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/SC1311/S00047/dr-shaun-barker-wins-waldemar-lindgren-award.htm
+title: Dr Shaun Barker wins Waldemar Lindgren Award
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1311/S00047/dr-shaun-barker-wins-waldemar-lindgren-award.htm
 author: university-of-waikato
+permalink: /archive/2013/11/14/dr-shaun-barker-wins-waldemar-lindgren-award/index.html
+layout: layout.njk
 ---
 Dr Shaun Barker wins Waldemar Lindgren Award
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: peters-2006-budget-speech
-title: "Peters’ 2006 Budget Speech"
-date: 2006-05-18
+title: Peters’ 2006 Budget Speech
+date: 2006-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0605/S00462/peters-2006-budget-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2006/05/18/peters-2006-budget-speech/index.html
+layout: layout.njk
 ---
 Peters’ 2006 Budget Speech
 ==========================

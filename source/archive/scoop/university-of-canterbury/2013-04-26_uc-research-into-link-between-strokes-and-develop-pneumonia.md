@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-link-between-strokes-and-develop-pneumonia
-title: "UC Research Into Link Between Strokes and Develop Pneumonia"
-date: 2013-04-26
-source-url: https://www.scoop.co.nz/stories/SC1304/S00043/uc-research-into-link-between-strokes-and-develop-pneumonia.htm
+title: UC Research Into Link Between Strokes and Develop Pneumonia
+date: 2013-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1304/S00043/uc-research-into-link-between-strokes-and-develop-pneumonia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/26/uc-research-into-link-between-strokes-and-develop-pneumonia/index.html
+layout: layout.njk
 ---
 UC Research Into Link Between Strokes and Develop Pneumonia
 ===========================================================

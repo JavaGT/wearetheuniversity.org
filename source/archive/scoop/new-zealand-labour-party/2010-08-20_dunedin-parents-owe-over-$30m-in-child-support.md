@@ -1,9 +1,12 @@
 ---
 slug: dunedin-parents-owe-over-$30m-in-child-support
-title: "Dunedin parents owe over $30m in child support"
-date: 2010-08-20
-source-url: https://www.scoop.co.nz/stories/PA1008/S00312/dunedin-parents-owe-over-30m-in-child-support.htm
+title: Dunedin parents owe over $30m in child support
+date: 2010-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00312/dunedin-parents-owe-over-30m-in-child-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/20/dunedin-parents-owe-over-/index.html
+layout: layout.njk
 ---
 Dunedin parents owe over $30m in child support
 ==============================================

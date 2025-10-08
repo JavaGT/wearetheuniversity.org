@@ -1,9 +1,13 @@
 ---
 slug: ge-research-probes-community-and-scientists-views
-title: "GE research probes community and scientists' views"
-date: 2004-12-02
-source-url: https://www.scoop.co.nz/stories/SC0412/S00004/ge-research-probes-community-and-scientists-views.htm
+title: GE research probes community and scientists' views
+date: 2004-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0412/S00004/ge-research-probes-community-and-scientists-views.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2004/12/02/ge-research-probes-community-and-scientists-views/index.html
+layout: layout.njk
 ---
 GE research probes community and scientists' views
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: hansard-of-hone-harawira-on-terror-amendment-bill
-title: "Hansard Of Hone Harawira On Terror Amendment Bill"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/PA0711/S00121/hansard-of-hone-harawira-on-terror-amendment-bill.htm
+title: Hansard Of Hone Harawira On Terror Amendment Bill
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00121/hansard-of-hone-harawira-on-terror-amendment-bill.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2007/11/07/hansard-of-hone-harawira-on-terror-amendment-bill/index.html
+layout: layout.njk
 ---
 Hansard Of Hone Harawira On Terror Amendment Bill
 =================================================

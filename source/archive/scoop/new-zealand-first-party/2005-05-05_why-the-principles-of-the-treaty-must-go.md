@@ -1,9 +1,12 @@
 ---
 slug: why-the-principles-of-the-treaty-must-go
-title: "Why The Principles Of The Treaty Must Go"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00108/why-the-principles-of-the-treaty-must-go.htm
+title: Why The Principles Of The Treaty Must Go
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00108/why-the-principles-of-the-treaty-must-go.htm
 author: new-zealand-first-party
+permalink: /archive/2005/05/05/why-the-principles-of-the-treaty-must-go/index.html
+layout: layout.njk
 ---
 Why The Principles Of The Treaty Must Go
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: parliament-too-soft-on-rural-crime
-title: "Parliament too soft on rural crime"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/PO1408/S00190/parliament-too-soft-on-rural-crime.htm
+title: Parliament too soft on rural crime
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00190/parliament-too-soft-on-rural-crime.htm
 author: act-new-zealand
+permalink: /archive/2014/08/13/parliament-too-soft-on-rural-crime/index.html
+layout: layout.njk
 ---
 Parliament too soft on rural crime
 ==================================

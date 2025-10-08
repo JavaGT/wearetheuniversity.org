@@ -1,9 +1,13 @@
 ---
 slug: otago-union-delegates-gather-for-meeting-with-pm
-title: "Otago Union Delegates Gather for Meeting with PM"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/PO0407/S00127/otago-union-delegates-gather-for-meeting-with-pm.htm
+title: Otago Union Delegates Gather for Meeting with PM
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0407/S00127/otago-union-delegates-gather-for-meeting-with-pm.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2004/07/13/otago-union-delegates-gather-for-meeting-with-pm/index.html
+layout: layout.njk
 ---
 Otago Union Delegates Gather for Meeting with PM
 ================================================

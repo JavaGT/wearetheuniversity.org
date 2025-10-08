@@ -1,9 +1,12 @@
 ---
 slug: strong-economy-responsible-people-good-stewards
-title: "Strong Economy, Responsible People, Good Stewards"
-date: 1999-11-09
-source-url: https://www.scoop.co.nz/stories/PA9911/S00212/strong-economy-responsible-people-good-stewards.htm
+title: Strong Economy, Responsible People, Good Stewards
+date: 1999-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00212/strong-economy-responsible-people-good-stewards.htm
 author: act-new-zealand
+permalink: /archive/1999/11/09/strong-economy-responsible-people-good-stewards/index.html
+layout: layout.njk
 ---
 Strong Economy, Responsible People, Good Stewards
 =================================================

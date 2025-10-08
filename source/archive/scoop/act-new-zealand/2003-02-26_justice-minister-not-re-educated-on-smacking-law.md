@@ -1,9 +1,13 @@
 ---
 slug: justice-minister-not-re-educated-on-smacking-law
-title: "Justice Minister Not \"Re-Educated\" On Smacking Law"
-date: 2003-02-26
-source-url: https://www.scoop.co.nz/stories/PA0302/S00472/justice-minister-not-re-educated-on-smacking-law.htm
+title: Justice Minister Not "Re-Educated" On Smacking Law
+date: 2003-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00472/justice-minister-not-re-educated-on-smacking-law.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2003/02/26/justice-minister-not-re-educated-on-smacking-law/index.html
+layout: layout.njk
 ---
 Justice Minister Not "Re-Educated" On Smacking Law
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: dr-wham-awarded-dietitians-nz-award-of-excellence
-title: "Dr Wham awarded Dietitians NZ Award of Excellence"
-date: 2017-09-18
-source-url: https://www.scoop.co.nz/stories/ED1709/S00064/dr-wham-awarded-dietitians-nz-award-of-excellence.htm
+title: Dr Wham awarded Dietitians NZ Award of Excellence
+date: 2017-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1709/S00064/dr-wham-awarded-dietitians-nz-award-of-excellence.htm
 author: massey-university
+permalink: >-
+  /archive/2017/09/18/dr-wham-awarded-dietitians-nz-award-of-excellence/index.html
+layout: layout.njk
 ---
 Dr Wham awarded Dietitians NZ Award of Excellence
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: somali-refugees-struggling-to-integrate-in-nz
-title: "Somali Refugees Struggling To Integrate in NZ"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/ED1303/S00156/somali-refugees-struggling-to-integrate-in-nz.htm
+title: Somali Refugees Struggling To Integrate in NZ
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00156/somali-refugees-struggling-to-integrate-in-nz.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/22/somali-refugees-struggling-to-integrate-in-nz/index.html
+layout: layout.njk
 ---
 Somali Refugees Struggling To Integrate in NZ
 =============================================

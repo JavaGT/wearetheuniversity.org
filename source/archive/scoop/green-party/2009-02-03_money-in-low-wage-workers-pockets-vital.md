@@ -1,9 +1,12 @@
 ---
 slug: money-in-low-wage-workers-pockets-vital
-title: "Money in low-wage workers' pockets vital"
-date: 2009-02-03
-source-url: https://www.scoop.co.nz/stories/PA0902/S00016/money-in-low-wage-workers-pockets-vital.htm
+title: Money in low-wage workers' pockets vital
+date: 2009-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00016/money-in-low-wage-workers-pockets-vital.htm
 author: green-party
+permalink: /archive/2009/02/03/money-in-low-wage-workers-pockets-vital/index.html
+layout: layout.njk
 ---
 Money in low-wage workers' pockets vital
 ========================================

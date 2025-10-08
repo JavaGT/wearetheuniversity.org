@@ -1,9 +1,13 @@
 ---
 slug: canterbury-astronomers-spot-quadruple-stars-which-may-spark-supernova
-title: "Canterbury Astronomers Spot Quadruple Stars Which May Spark Supernova"
-date: 2022-05-13
-source-url: https://www.scoop.co.nz/stories/ED2205/S00026/canterbury-astronomers-spot-quadruple-stars-which-may-spark-supernova.htm
+title: Canterbury Astronomers Spot Quadruple Stars Which May Spark Supernova
+date: 2022-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2205/S00026/canterbury-astronomers-spot-quadruple-stars-which-may-spark-supernova.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/05/13/canterbury-astronomers-spot-quadruple-stars-which-may-spark-supernova/index.html
+layout: layout.njk
 ---
 Canterbury Astronomers Spot Quadruple Stars Which May Spark Supernova
 =====================================================================

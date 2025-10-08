@@ -1,9 +1,12 @@
 ---
 slug: women-keeping-the-spirit-alive
-title: "Women keeping the Spirit alive"
-date: 2012-04-13
-source-url: https://www.scoop.co.nz/stories/PA1204/S00158/women-keeping-the-spirit-alive.htm
+title: Women keeping the Spirit alive
+date: 2012-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00158/women-keeping-the-spirit-alive.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/04/13/women-keeping-the-spirit-alive/index.html
+layout: layout.njk
 ---
 Women keeping the Spirit alive
 ==============================

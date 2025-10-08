@@ -1,9 +1,12 @@
 ---
 slug: call-for-referendum-on-privy-council
-title: "Call for Referendum on Privy Council"
-date: 2003-04-03
-source-url: https://www.scoop.co.nz/stories/PA0304/S00051/call-for-referendum-on-privy-council.htm
+title: Call for Referendum on Privy Council
+date: 2003-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00051/call-for-referendum-on-privy-council.htm
 author: act-new-zealand
+permalink: /archive/2003/04/03/call-for-referendum-on-privy-council/index.html
+layout: layout.njk
 ---
 Call for Referendum on Privy Council
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: students-to-work-with-mayor-on-healthier-homes
-title: "Students to work with Mayor on Healthier Homes"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/AK1309/S00378/students-to-work-with-mayor-on-healthier-homes.htm
+title: Students to work with Mayor on Healthier Homes
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00378/students-to-work-with-mayor-on-healthier-homes.htm
 author: vuwsa
+permalink: /archive/2013/09/11/students-to-work-with-mayor-on-healthier-homes/index.html
+layout: layout.njk
 ---
 Students to work with Mayor on Healthier Homes
 ==============================================

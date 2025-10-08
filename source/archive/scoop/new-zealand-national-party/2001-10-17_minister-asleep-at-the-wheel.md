@@ -1,9 +1,11 @@
 ---
 slug: minister-asleep-at-the-wheel
-title: "Minister asleep at the wheel"
-date: 2001-10-17
+title: Minister asleep at the wheel
+date: 2001-10-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0110/S00335/minister-asleep-at-the-wheel.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/17/minister-asleep-at-the-wheel/index.html
+layout: layout.njk
 ---
 Minister asleep at the wheel
 ============================

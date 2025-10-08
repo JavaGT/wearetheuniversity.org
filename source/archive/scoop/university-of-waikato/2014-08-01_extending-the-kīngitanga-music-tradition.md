@@ -1,9 +1,12 @@
 ---
 slug: extending-the-kīngitanga-music-tradition
-title: "Extending the Kīngitanga music tradition"
-date: 2014-08-01
-source-url: https://www.scoop.co.nz/stories/ED1408/S00003/extending-the-kingitanga-music-tradition.htm
+title: Extending the Kīngitanga music tradition
+date: 2014-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00003/extending-the-kingitanga-music-tradition.htm
 author: university-of-waikato
+permalink: /archive/2014/08/01/extending-the-k/index.html
+layout: layout.njk
 ---
 Extending the Kīngitanga music tradition
 ========================================

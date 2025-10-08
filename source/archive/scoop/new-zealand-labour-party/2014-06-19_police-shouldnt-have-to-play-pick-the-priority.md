@@ -1,9 +1,12 @@
 ---
 slug: police-shouldnt-have-to-play-pick-the-priority
-title: "Police shouldn’t have to play ‘pick the priority’"
-date: 2014-06-19
-source-url: https://www.scoop.co.nz/stories/PA1406/S00288/police-shouldnt-have-to-play-pick-the-priority.htm
+title: Police shouldn’t have to play ‘pick the priority’
+date: 2014-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00288/police-shouldnt-have-to-play-pick-the-priority.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/19/police-shouldnt-have-to-play-pick-the-priority/index.html
+layout: layout.njk
 ---
 Police shouldn’t have to play ‘pick the priority’
 =================================================

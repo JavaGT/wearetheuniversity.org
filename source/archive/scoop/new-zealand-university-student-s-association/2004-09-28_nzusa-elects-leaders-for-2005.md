@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-leaders-for-2005
-title: "NZUSA elects leaders for 2005"
-date: 2004-09-28
-source-url: https://www.scoop.co.nz/stories/ED0409/S00127/nzusa-elects-leaders-for-2005.htm
+title: NZUSA elects leaders for 2005
+date: 2004-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00127/nzusa-elects-leaders-for-2005.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/09/28/nzusa-elects-leaders-for-2005/index.html
+layout: layout.njk
 ---
 NZUSA elects leaders for 2005
 =============================

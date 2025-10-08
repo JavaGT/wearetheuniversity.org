@@ -1,9 +1,12 @@
 ---
 slug: students-begin-battle-against-fee-hikes
-title: "Students begin battle against fee hikes"
-date: 2003-09-17
-source-url: https://www.scoop.co.nz/stories/ED0309/S00067/students-begin-battle-against-fee-hikes.htm
+title: Students begin battle against fee hikes
+date: 2003-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00067/students-begin-battle-against-fee-hikes.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/09/17/students-begin-battle-against-fee-hikes/index.html
+layout: layout.njk
 ---
 Students begin battle against fee hikes
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: students-support-supersizemypay-com-campaign
-title: "Students Support \"SuperSizeMyPay.com\" Campaign"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/ED0603/S00058/students-support-supersizemypaycom-campaign.htm
+title: Students Support "SuperSizeMyPay.com" Campaign
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00058/students-support-supersizemypaycom-campaign.htm
 author: auckland-university-students-association
+permalink: /archive/2006/03/22/students-support-supersizemypay-com-campaign/index.html
+layout: layout.njk
 ---
 Students Support “SuperSizeMyPay.com” Campaign
 ==============================================

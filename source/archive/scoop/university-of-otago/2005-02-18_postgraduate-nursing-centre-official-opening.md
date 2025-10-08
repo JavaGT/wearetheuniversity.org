@@ -1,9 +1,12 @@
 ---
 slug: postgraduate-nursing-centre-official-opening
-title: "Postgraduate Nursing Centre Official Opening"
-date: 2005-02-18
-source-url: https://www.scoop.co.nz/stories/ED0502/S00064/postgraduate-nursing-centre-official-opening.htm
+title: Postgraduate Nursing Centre Official Opening
+date: 2005-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00064/postgraduate-nursing-centre-official-opening.htm
 author: university-of-otago
+permalink: /archive/2005/02/18/postgraduate-nursing-centre-official-opening/index.html
+layout: layout.njk
 ---
 Postgraduate Nursing Centre Official Opening
 ============================================

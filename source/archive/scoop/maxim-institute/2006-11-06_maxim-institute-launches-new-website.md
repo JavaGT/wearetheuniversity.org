@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-launches-new-website
-title: "Maxim Institute launches new website"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/PO0611/S00071/maxim-institute-launches-new-website.htm
+title: Maxim Institute launches new website
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0611/S00071/maxim-institute-launches-new-website.htm
 author: maxim-institute
+permalink: /archive/2006/11/06/maxim-institute-launches-new-website/index.html
+layout: layout.njk
 ---
 Maxim Institute launches new website
 ====================================

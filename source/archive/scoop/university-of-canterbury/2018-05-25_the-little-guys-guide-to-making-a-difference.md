@@ -1,9 +1,12 @@
 ---
 slug: the-little-guys-guide-to-making-a-difference
-title: "The Little Guy’s Guide to Making a Difference"
-date: 2018-05-25
-source-url: https://www.scoop.co.nz/stories/PO1805/S00380/the-little-guys-guide-to-making-a-difference.htm
+title: The Little Guy’s Guide to Making a Difference
+date: 2018-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00380/the-little-guys-guide-to-making-a-difference.htm
 author: university-of-canterbury
+permalink: /archive/2018/05/25/the-little-guys-guide-to-making-a-difference/index.html
+layout: layout.njk
 ---
 The Little Guy’s Guide to Making a Difference
 =============================================

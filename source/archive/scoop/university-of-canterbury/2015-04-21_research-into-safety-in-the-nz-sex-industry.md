@@ -1,9 +1,12 @@
 ---
 slug: research-into-safety-in-the-nz-sex-industry
-title: "Research into safety in the NZ sex industry"
-date: 2015-04-21
-source-url: https://www.scoop.co.nz/stories/ED1504/S00055/research-into-safety-in-the-nz-sex-industry.htm
+title: Research into safety in the NZ sex industry
+date: 2015-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00055/research-into-safety-in-the-nz-sex-industry.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/21/research-into-safety-in-the-nz-sex-industry/index.html
+layout: layout.njk
 ---
 Research into safety in the NZ sex industry
 ===========================================

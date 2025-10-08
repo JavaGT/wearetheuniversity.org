@@ -1,9 +1,12 @@
 ---
 slug: turbine-2011-full-of-literary-gems
-title: "Turbine 2011 full of literary gems"
-date: 2011-12-15
-source-url: https://www.scoop.co.nz/stories/ED1112/S00081/turbine-2011-full-of-literary-gems.htm
+title: Turbine 2011 full of literary gems
+date: 2011-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00081/turbine-2011-full-of-literary-gems.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/15/turbine-2011-full-of-literary-gems/index.html
+layout: layout.njk
 ---
 Turbine 2011 full of literary gems
 ==================================

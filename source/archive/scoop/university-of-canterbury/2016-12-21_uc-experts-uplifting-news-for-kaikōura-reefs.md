@@ -1,9 +1,12 @@
 ---
 slug: uc-experts-uplifting-news-for-kaikōura-reefs
-title: "UC experts’ uplifting news for Kaikōura reefs"
-date: 2016-12-21
-source-url: https://www.scoop.co.nz/stories/AK1612/S00661/uc-experts-uplifting-news-for-kaikoura-reefs.htm
+title: UC experts’ uplifting news for Kaikōura reefs
+date: 2016-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1612/S00661/uc-experts-uplifting-news-for-kaikoura-reefs.htm
 author: university-of-canterbury
+permalink: /archive/2016/12/21/uc-experts-uplifting-news-for-kaik/index.html
+layout: layout.njk
 ---
 UC experts’ uplifting news for Kaikōura reefs
 =============================================

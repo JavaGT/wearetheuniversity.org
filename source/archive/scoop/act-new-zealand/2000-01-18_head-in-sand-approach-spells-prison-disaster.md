@@ -1,9 +1,12 @@
 ---
 slug: head-in-sand-approach-spells-prison-disaster
-title: "Head In Sand Approach Spells Prison Disaster"
-date: 2000-01-18
-source-url: https://www.scoop.co.nz/stories/PA0001/S00045/head-in-sand-approach-spells-prison-disaster.htm
+title: Head In Sand Approach Spells Prison Disaster
+date: 2000-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00045/head-in-sand-approach-spells-prison-disaster.htm
 author: act-new-zealand
+permalink: /archive/2000/01/18/head-in-sand-approach-spells-prison-disaster/index.html
+layout: layout.njk
 ---
 Head In Sand Approach Spells Prison Disaster
 ============================================

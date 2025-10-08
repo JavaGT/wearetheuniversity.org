@@ -1,9 +1,13 @@
 ---
 slug: children-continue-to-be-exposed-to-second-hand-smoke-in-cars
-title: "Children continue to be exposed to second-hand smoke in cars"
-date: 2017-07-07
-source-url: https://www.scoop.co.nz/stories/GE1707/S00021/children-continue-to-be-exposed-to-second-hand-smoke-in-cars.htm
+title: Children continue to be exposed to second-hand smoke in cars
+date: 2017-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1707/S00021/children-continue-to-be-exposed-to-second-hand-smoke-in-cars.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/07/07/children-continue-to-be-exposed-to-second-hand-smoke-in-cars/index.html
+layout: layout.njk
 ---
 Children continue to be exposed to second-hand smoke in cars
 ============================================================

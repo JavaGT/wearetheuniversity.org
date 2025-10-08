@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-produce-findings-of-green-planted-roof-study
-title: "UC Researchers Produce Findings Of Green Planted-Roof Study"
-date: 2013-04-18
-source-url: https://www.scoop.co.nz/stories/ED1304/S00117/uc-researchers-produce-findings-of-green-planted-roof-study.htm
+title: UC Researchers Produce Findings Of Green Planted-Roof Study
+date: 2013-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00117/uc-researchers-produce-findings-of-green-planted-roof-study.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/18/uc-researchers-produce-findings-of-green-planted-roof-study/index.html
+layout: layout.njk
 ---
 UC Researchers Produce Findings Of Green Planted-Roof Study
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: further-steps-needed-to-unlock-build-to-rent
-title: "Further Steps Needed To Unlock Build-to-Rent"
-date: 2022-08-12
-source-url: https://www.scoop.co.nz/stories/PA2208/S00129/further-steps-needed-to-unlock-build-to-rent.htm
+title: Further Steps Needed To Unlock Build-to-Rent
+date: 2022-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00129/further-steps-needed-to-unlock-build-to-rent.htm
 author: new-zealand-national-party
+permalink: /archive/2022/08/12/further-steps-needed-to-unlock-build-to-rent/index.html
+layout: layout.njk
 ---
 Further Steps Needed To Unlock Build-to-Rent
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: ongoing-lunches-a-win-but-teacher-and-whānau-involvement-still-needed
-title: "Ongoing Lunches A Win, But Teacher And Whānau Involvement Still Needed"
-date: 2024-05-08
-source-url: https://www.scoop.co.nz/stories/ED2405/S00030/ongoing-lunches-a-win-but-teacher-and-whanau-involvement-still-needed.htm
+title: Ongoing Lunches A Win, But Teacher And Whānau Involvement Still Needed
+date: 2024-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2405/S00030/ongoing-lunches-a-win-but-teacher-and-whanau-involvement-still-needed.htm
 author: nzei
+permalink: /archive/2024/05/08/ongoing-lunches-a-win-but-teacher-and-wh/index.html
+layout: layout.njk
 ---
 Ongoing Lunches A Win, But Teacher And Whānau Involvement Still Needed
 ======================================================================

@@ -1,9 +1,13 @@
 ---
 slug: chinese-school-certificate-announcement-welcomed
-title: "Chinese school certificate announcement welcomed"
-date: 2000-03-20
-source-url: https://www.scoop.co.nz/stories/PA0003/S00313/chinese-school-certificate-announcement-welcomed.htm
+title: Chinese school certificate announcement welcomed
+date: 2000-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00313/chinese-school-certificate-announcement-welcomed.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/03/20/chinese-school-certificate-announcement-welcomed/index.html
+layout: layout.njk
 ---
 Chinese school certificate announcement welcomed
 ================================================

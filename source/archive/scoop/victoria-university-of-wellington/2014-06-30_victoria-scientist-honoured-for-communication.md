@@ -1,9 +1,12 @@
 ---
 slug: victoria-scientist-honoured-for-communication
-title: "Victoria scientist honoured for communication"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/ED1406/S00162/victoria-scientist-honoured-for-communication.htm
+title: Victoria scientist honoured for communication
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00162/victoria-scientist-honoured-for-communication.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/30/victoria-scientist-honoured-for-communication/index.html
+layout: layout.njk
 ---
 Victoria scientist honoured for communication
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-engineering-student-wins-german-traineeship
-title: "Waikato engineering student wins German traineeship"
-date: 2015-10-22
-source-url: https://www.scoop.co.nz/stories/ED1510/S00111/waikato-engineering-student-wins-german-traineeship.htm
+title: Waikato engineering student wins German traineeship
+date: 2015-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00111/waikato-engineering-student-wins-german-traineeship.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/10/22/waikato-engineering-student-wins-german-traineeship/index.html
+layout: layout.njk
 ---
 Waikato engineering student wins German traineeship
 ===================================================

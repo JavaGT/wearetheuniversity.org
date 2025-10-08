@@ -1,9 +1,12 @@
 ---
 slug: dolphins-in-danger-need-human-help
-title: "Dolphins in danger need human help"
-date: 2007-09-04
-source-url: https://www.scoop.co.nz/stories/PA0709/S00033/dolphins-in-danger-need-human-help.htm
+title: Dolphins in danger need human help
+date: 2007-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00033/dolphins-in-danger-need-human-help.htm
 author: green-party
+permalink: /archive/2007/09/04/dolphins-in-danger-need-human-help/index.html
+layout: layout.njk
 ---
 Dolphins in danger need human help
 ==================================

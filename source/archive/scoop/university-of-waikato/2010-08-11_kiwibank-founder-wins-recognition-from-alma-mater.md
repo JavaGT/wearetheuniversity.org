@@ -1,9 +1,13 @@
 ---
 slug: kiwibank-founder-wins-recognition-from-alma-mater
-title: "Kiwibank founder wins recognition from alma mater"
-date: 2010-08-11
-source-url: https://www.scoop.co.nz/stories/BU1008/S00322/kiwibank-founder-wins-recognition-from-alma-mater.htm
+title: Kiwibank founder wins recognition from alma mater
+date: 2010-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1008/S00322/kiwibank-founder-wins-recognition-from-alma-mater.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/08/11/kiwibank-founder-wins-recognition-from-alma-mater/index.html
+layout: layout.njk
 ---
 Kiwibank founder wins recognition from alma mater
 =================================================

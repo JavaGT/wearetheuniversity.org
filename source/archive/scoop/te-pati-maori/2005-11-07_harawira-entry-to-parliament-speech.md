@@ -1,9 +1,12 @@
 ---
 slug: harawira-entry-to-parliament-speech
-title: "Harawira: Entry to Parliament Speech"
-date: 2005-11-07
-source-url: https://www.scoop.co.nz/stories/PA0511/S00081/harawira-entry-to-parliament-speech.htm
+title: 'Harawira: Entry to Parliament Speech'
+date: 2005-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00081/harawira-entry-to-parliament-speech.htm
 author: te-pati-maori
+permalink: /archive/2005/11/07/harawira-entry-to-parliament-speech/index.html
+layout: layout.njk
 ---
 Harawira: Entry to Parliament Speech
 ====================================

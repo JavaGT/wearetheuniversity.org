@@ -1,9 +1,12 @@
 ---
 slug: grass-alone-wont-grow-the-economy
-title: "Grass alone won’t grow the economy"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/BU1308/S00559/grass-alone-wont-grow-the-economy.htm
+title: Grass alone won’t grow the economy
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00559/grass-alone-wont-grow-the-economy.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/08/15/grass-alone-wont-grow-the-economy/index.html
+layout: layout.njk
 ---
 Grass alone won’t grow the economy
 ==================================

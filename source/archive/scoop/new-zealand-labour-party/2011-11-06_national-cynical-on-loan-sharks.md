@@ -1,9 +1,12 @@
 ---
 slug: national-cynical-on-loan-sharks
-title: "National cynical on loan sharks"
-date: 2011-11-06
-source-url: https://www.scoop.co.nz/stories/PA1111/S00110/national-cynical-on-loan-sharks.htm
+title: National cynical on loan sharks
+date: 2011-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00110/national-cynical-on-loan-sharks.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/06/national-cynical-on-loan-sharks/index.html
+layout: layout.njk
 ---
 National cynical on loan sharks
 ===============================

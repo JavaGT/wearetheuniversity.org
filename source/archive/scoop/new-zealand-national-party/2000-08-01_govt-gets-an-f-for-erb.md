@@ -1,9 +1,11 @@
 ---
 slug: govt-gets-an-f-for-erb
-title: "\"Govt. gets an \"F\" for ERB\""
-date: 2000-08-01
+title: '"Govt. gets an "F" for ERB"'
+date: 2000-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0008/S00016/govt-gets-an-f-for-erb.htm
 author: new-zealand-national-party
+permalink: /archive/2000/08/01/govt-gets-an-f-for-erb/index.html
+layout: layout.njk
 ---
 \"Govt. gets an "F" for ERB"
 ===========================

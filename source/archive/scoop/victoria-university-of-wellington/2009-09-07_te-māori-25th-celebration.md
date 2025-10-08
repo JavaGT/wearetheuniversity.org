@@ -1,9 +1,11 @@
 ---
 slug: te-māori-25th-celebration
-title: "Te Māori 25th Celebration"
-date: 2009-09-07
+title: Te Māori 25th Celebration
+date: 2009-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0909/S00099/te-maori-25th-celebration.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/09/07/te-m/index.html
+layout: layout.njk
 ---
 Te Māori 25th Celebration
 =========================

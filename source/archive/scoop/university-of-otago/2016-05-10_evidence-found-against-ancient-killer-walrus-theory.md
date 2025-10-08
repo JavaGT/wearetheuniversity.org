@@ -1,9 +1,13 @@
 ---
 slug: evidence-found-against-ancient-killer-walrus-theory
-title: "Evidence found against ancient \"killer walrus\" theory"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/ED1605/S00033/evidence-found-against-ancient-killer-walrus-theory.htm
+title: Evidence found against ancient "killer walrus" theory
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00033/evidence-found-against-ancient-killer-walrus-theory.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/10/evidence-found-against-ancient-killer-walrus-theory/index.html
+layout: layout.njk
 ---
 Evidence found against ancient “killer walrus” theory
 =====================================================

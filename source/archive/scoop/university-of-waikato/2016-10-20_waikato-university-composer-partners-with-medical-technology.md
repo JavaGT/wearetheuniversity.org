@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-composer-partners-with-medical-technology
-title: "Waikato University composer partners with medical technology"
-date: 2016-10-20
-source-url: https://www.scoop.co.nz/stories/CU1610/S00294/waikato-university-composer-partners-with-medical-technology.htm
+title: Waikato University composer partners with medical technology
+date: 2016-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00294/waikato-university-composer-partners-with-medical-technology.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/10/20/waikato-university-composer-partners-with-medical-technology/index.html
+layout: layout.njk
 ---
 Waikato University composer partners with medical technology
 ============================================================

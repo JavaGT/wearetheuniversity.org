@@ -1,9 +1,12 @@
 ---
 slug: weapons-discovery-alarming-mark
-title: "Weapons Discovery Alarming - Mark"
-date: 2007-02-02
-source-url: https://www.scoop.co.nz/stories/PA0702/S00042/weapons-discovery-alarming-mark.htm
+title: Weapons Discovery Alarming - Mark
+date: 2007-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00042/weapons-discovery-alarming-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2007/02/02/weapons-discovery-alarming-mark/index.html
+layout: layout.njk
 ---
 Weapons Discovery Alarming - Mark
 =================================

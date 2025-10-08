@@ -1,9 +1,13 @@
 ---
 slug: uc-engineers-develop-in-situ-damage-detection-for-steel
-title: "UC Engineers develop in-situ damage detection for steel"
-date: 2018-01-24
-source-url: https://www.scoop.co.nz/stories/SC1801/S00025/uc-engineers-develop-in-situ-damage-detection-for-steel.htm
+title: UC Engineers develop in-situ damage detection for steel
+date: 2018-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00025/uc-engineers-develop-in-situ-damage-detection-for-steel.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/01/24/uc-engineers-develop-in-situ-damage-detection-for-steel/index.html
+layout: layout.njk
 ---
 UC Engineers develop in-situ damage detection for steel
 =======================================================

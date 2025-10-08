@@ -1,9 +1,13 @@
 ---
 slug: otago-memory-philosopher-receives-prestigious-medal
-title: "Otago memory philosopher receives prestigious medal"
-date: 2017-08-14
-source-url: https://www.scoop.co.nz/stories/SC1708/S00029/otago-memory-philosopher-receives-prestigious-medal.htm
+title: Otago memory philosopher receives prestigious medal
+date: 2017-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1708/S00029/otago-memory-philosopher-receives-prestigious-medal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/08/14/otago-memory-philosopher-receives-prestigious-medal/index.html
+layout: layout.njk
 ---
 Otago memory philosopher receives prestigious medal
 ===================================================

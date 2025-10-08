@@ -1,9 +1,12 @@
 ---
 slug: otago-students-earn-over-1-million-in-1-month
-title: "Otago students earn over 1 million in 1 month"
-date: 2011-12-14
-source-url: https://www.scoop.co.nz/stories/ED1112/S00075/otago-students-earn-over-1-million-in-1-month.htm
+title: Otago students earn over 1 million in 1 month
+date: 2011-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00075/otago-students-earn-over-1-million-in-1-month.htm
 author: ousa
+permalink: /archive/2011/12/14/otago-students-earn-over-1-million-in-1-month/index.html
+layout: layout.njk
 ---
 Otago students earn over 1 million in 1 month
 =============================================

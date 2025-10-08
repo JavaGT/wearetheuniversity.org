@@ -1,9 +1,12 @@
 ---
 slug: nz-equivalent-of-rhodes-scholarships
-title: "‘NZ Equivalent Of Rhodes Scholarships’"
-date: 2004-10-06
-source-url: https://www.scoop.co.nz/stories/ED0410/S00023/nz-equivalent-of-rhodes-scholarships.htm
+title: ‘NZ Equivalent Of Rhodes Scholarships’
+date: 2004-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00023/nz-equivalent-of-rhodes-scholarships.htm
 author: waikato-university
+permalink: /archive/2004/10/06/nz-equivalent-of-rhodes-scholarships/index.html
+layout: layout.njk
 ---
 ‘NZ Equivalent Of Rhodes Scholarships’
 ======================================

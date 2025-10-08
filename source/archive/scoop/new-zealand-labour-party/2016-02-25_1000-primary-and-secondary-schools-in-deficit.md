@@ -1,9 +1,12 @@
 ---
 slug: 1000-primary-and-secondary-schools-in-deficit
-title: "1000 primary and secondary schools in deficit"
-date: 2016-02-25
-source-url: https://www.scoop.co.nz/stories/PA1602/S00372/1000-primary-and-secondary-schools-in-deficit.htm
+title: 1000 primary and secondary schools in deficit
+date: 2016-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00372/1000-primary-and-secondary-schools-in-deficit.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/25/1000-primary-and-secondary-schools-in-deficit/index.html
+layout: layout.njk
 ---
 1000 primary and secondary schools in deficit
 =============================================

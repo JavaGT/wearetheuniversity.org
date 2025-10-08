@@ -1,9 +1,12 @@
 ---
 slug: does-new-zealand-law-legitimise-organised-crime
-title: "Does New Zealand law legitimise organised crime?"
-date: 2018-09-26
-source-url: https://www.scoop.co.nz/stories/PO1809/S00321/does-new-zealand-law-legitimise-organised-crime.htm
+title: Does New Zealand law legitimise organised crime?
+date: 2018-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00321/does-new-zealand-law-legitimise-organised-crime.htm
 author: university-of-canterbury
+permalink: /archive/2018/09/26/does-new-zealand-law-legitimise-organised-crime/index.html
+layout: layout.njk
 ---
 Does New Zealand law legitimise organised crime?
 ================================================

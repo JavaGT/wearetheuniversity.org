@@ -1,9 +1,13 @@
 ---
 slug: vote-for-the-maori-party-is-a-vote-for-papatuanuku
-title: "Vote for the Maori Party is a Vote for Papatuanuku"
-date: 2008-11-03
-source-url: https://www.scoop.co.nz/stories/PO0811/S00027/vote-for-the-maori-party-is-a-vote-for-papatuanuku.htm
+title: Vote for the Maori Party is a Vote for Papatuanuku
+date: 2008-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00027/vote-for-the-maori-party-is-a-vote-for-papatuanuku.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/11/03/vote-for-the-maori-party-is-a-vote-for-papatuanuku/index.html
+layout: layout.njk
 ---
 Vote for the Maori Party is a Vote for Papatuanuku
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-vet-students-are-barely-there…again
-title: "Massey Vet Students Are Barely There…Again"
-date: 2011-05-24
-source-url: https://www.scoop.co.nz/stories/ED1105/S00098/massey-vet-students-are-barely-thereagain.htm
+title: Massey Vet Students Are Barely There…Again
+date: 2011-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00098/massey-vet-students-are-barely-thereagain.htm
 author: massey-university
+permalink: /archive/2011/05/24/massey-vet-students-are-barely-there/index.html
+layout: layout.njk
 ---
 Massey Vet Students Are Barely There…Again
 ==========================================

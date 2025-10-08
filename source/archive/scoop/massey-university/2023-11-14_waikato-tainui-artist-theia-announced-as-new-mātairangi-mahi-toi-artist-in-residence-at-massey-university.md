@@ -1,9 +1,15 @@
 ---
-slug: waikato-tainui-artist-theia-announced-as-new-mātairangi-mahi-toi-artist-in-residence-at-massey-university
-title: "Waikato-tainui Artist Theia Announced As New Mātairangi Mahi Toi: Artist In Residence At Massey University"
-date: 2023-11-14
-source-url: https://www.scoop.co.nz/stories/CU2311/S00104/waikato-tainui-artist-theia-announced-as-new-matairangi-mahi-toi-artist-in-residence-at-massey-university.htm
+slug: >-
+  waikato-tainui-artist-theia-announced-as-new-mātairangi-mahi-toi-artist-in-residence-at-massey-university
+title: >-
+  Waikato-tainui Artist Theia Announced As New Mātairangi Mahi Toi: Artist In
+  Residence At Massey University
+date: 2023-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2311/S00104/waikato-tainui-artist-theia-announced-as-new-matairangi-mahi-toi-artist-in-residence-at-massey-university.htm
 author: massey-university
+permalink: /archive/2023/11/14/waikato-tainui-artist-theia-announced-as-new-m/index.html
+layout: layout.njk
 ---
 Waikato-tainui Artist Theia Announced As New Mātairangi Mahi Toi: Artist In Residence At Massey University
 ==========================================================================================================

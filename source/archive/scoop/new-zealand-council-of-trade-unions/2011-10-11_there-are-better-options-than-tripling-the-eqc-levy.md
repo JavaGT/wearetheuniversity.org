@@ -1,9 +1,13 @@
 ---
 slug: there-are-better-options-than-tripling-the-eqc-levy
-title: "There are better options than tripling the EQC levy"
-date: 2011-10-11
-source-url: https://www.scoop.co.nz/stories/PO1110/S00159/there-are-better-options-than-tripling-the-eqc-levy.htm
+title: There are better options than tripling the EQC levy
+date: 2011-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1110/S00159/there-are-better-options-than-tripling-the-eqc-levy.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/10/11/there-are-better-options-than-tripling-the-eqc-levy/index.html
+layout: layout.njk
 ---
 There are better options than tripling the EQC levy
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-map-of-world-vegetation-reveals-substantial-changes
-title: "New map of world vegetation reveals substantial changes"
-date: 2016-08-15
-source-url: https://www.scoop.co.nz/stories/SC1608/S00050/new-map-of-world-vegetation-reveals-substantial-changes.htm
+title: New map of world vegetation reveals substantial changes
+date: 2016-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1608/S00050/new-map-of-world-vegetation-reveals-substantial-changes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/15/new-map-of-world-vegetation-reveals-substantial-changes/index.html
+layout: layout.njk
 ---
 New map of world vegetation reveals substantial changes
 =======================================================

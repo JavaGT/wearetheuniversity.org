@@ -1,9 +1,12 @@
 ---
 slug: time-to-give-kiwis-in-australia-a-fair-go
-title: "Time to give Kiwis in Australia a fair go"
-date: 2013-11-27
-source-url: https://www.scoop.co.nz/stories/PA1311/S00509/time-to-give-kiwis-in-australia-a-fair-go.htm
+title: Time to give Kiwis in Australia a fair go
+date: 2013-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00509/time-to-give-kiwis-in-australia-a-fair-go.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/27/time-to-give-kiwis-in-australia-a-fair-go/index.html
+layout: layout.njk
 ---
 Time to give Kiwis in Australia a fair go
 =========================================

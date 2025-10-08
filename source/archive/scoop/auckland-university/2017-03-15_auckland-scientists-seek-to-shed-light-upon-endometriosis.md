@@ -1,9 +1,13 @@
 ---
 slug: auckland-scientists-seek-to-shed-light-upon-endometriosis
-title: "Auckland scientists seek to shed light upon endometriosis"
-date: 2017-03-15
-source-url: https://www.scoop.co.nz/stories/GE1703/S00040/auckland-scientists-seek-to-shed-light-upon-endometriosis.htm
+title: Auckland scientists seek to shed light upon endometriosis
+date: 2017-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00040/auckland-scientists-seek-to-shed-light-upon-endometriosis.htm
 author: auckland-university
+permalink: >-
+  /archive/2017/03/15/auckland-scientists-seek-to-shed-light-upon-endometriosis/index.html
+layout: layout.njk
 ---
 Auckland scientists seek to shed light upon endometriosis
 =========================================================

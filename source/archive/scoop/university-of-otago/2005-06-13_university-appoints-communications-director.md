@@ -1,9 +1,12 @@
 ---
 slug: university-appoints-communications-director
-title: "University appoints Communications Director"
-date: 2005-06-13
-source-url: https://www.scoop.co.nz/stories/ED0506/S00029/university-appoints-communications-director.htm
+title: University appoints Communications Director
+date: 2005-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00029/university-appoints-communications-director.htm
 author: university-of-otago
+permalink: /archive/2005/06/13/university-appoints-communications-director/index.html
+layout: layout.njk
 ---
 University appoints Communications Director
 ===========================================

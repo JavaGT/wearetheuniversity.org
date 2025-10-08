@@ -1,9 +1,13 @@
 ---
 slug: joyce-heading-in-wrong-direction-on-two-speed-economy
-title: "Joyce heading in wrong direction on two-speed economy"
-date: 2015-03-19
-source-url: https://www.scoop.co.nz/stories/PA1503/S00304/joyce-heading-in-wrong-direction-on-two-speed-economy.htm
+title: Joyce heading in wrong direction on two-speed economy
+date: 2015-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00304/joyce-heading-in-wrong-direction-on-two-speed-economy.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/03/19/joyce-heading-in-wrong-direction-on-two-speed-economy/index.html
+layout: layout.njk
 ---
 Joyce heading in wrong direction on two-speed economy
 =====================================================

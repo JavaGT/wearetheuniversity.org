@@ -1,9 +1,13 @@
 ---
 slug: joyce-content-to-sit-on-sidelines-on-tertiary-ed
-title: "Joyce content to sit on sidelines on Tertiary Ed"
-date: 2010-06-23
-source-url: https://www.scoop.co.nz/stories/PA1006/S00368/joyce-content-to-sit-on-sidelines-on-tertiary-ed.htm
+title: Joyce content to sit on sidelines on Tertiary Ed
+date: 2010-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00368/joyce-content-to-sit-on-sidelines-on-tertiary-ed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/06/23/joyce-content-to-sit-on-sidelines-on-tertiary-ed/index.html
+layout: layout.njk
 ---
 Joyce content to sit on sidelines on Tertiary Ed
 ================================================

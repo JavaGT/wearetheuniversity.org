@@ -1,9 +1,12 @@
 ---
 slug: pure-spin-from-key-on-water-quality
-title: "Pure spin from Key on water quality"
-date: 2011-07-12
-source-url: https://www.scoop.co.nz/stories/PA1107/S00199/pure-spin-from-key-on-water-quality.htm
+title: Pure spin from Key on water quality
+date: 2011-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00199/pure-spin-from-key-on-water-quality.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/12/pure-spin-from-key-on-water-quality/index.html
+layout: layout.njk
 ---
 Pure spin from Key on water quality
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: cave-tour-a-highlight-at-science-summer-school
-title: "Cave tour a highlight at Science Summer School"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/SC1412/S00037/cave-tour-a-highlight-at-science-summer-school.htm
+title: Cave tour a highlight at Science Summer School
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00037/cave-tour-a-highlight-at-science-summer-school.htm
 author: university-of-waikato
+permalink: /archive/2014/12/10/cave-tour-a-highlight-at-science-summer-school/index.html
+layout: layout.njk
 ---
 Cave tour a highlight at Science Summer School
 ==============================================

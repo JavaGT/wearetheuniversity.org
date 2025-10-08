@@ -1,9 +1,13 @@
 ---
 slug: plumber-shortfall-highlights-gaps-in-trades-training
-title: "Plumber shortfall highlights gaps in trades training"
-date: 2016-05-05
-source-url: https://www.scoop.co.nz/stories/PA1605/S00095/plumber-shortfall-highlights-gaps-in-trades-training.htm
+title: Plumber shortfall highlights gaps in trades training
+date: 2016-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00095/plumber-shortfall-highlights-gaps-in-trades-training.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/05/plumber-shortfall-highlights-gaps-in-trades-training/index.html
+layout: layout.njk
 ---
 Plumber shortfall highlights gaps in trades training
 ====================================================

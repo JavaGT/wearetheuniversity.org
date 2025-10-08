@@ -1,9 +1,12 @@
 ---
 slug: speech-sentencing-amendment-bill-rahui-katene
-title: "Speech: Sentencing Amendment Bill - Rahui Katene"
-date: 2009-02-13
-source-url: https://www.scoop.co.nz/stories/PA0902/S00200/speech-sentencing-amendment-bill-rahui-katene.htm
+title: 'Speech: Sentencing Amendment Bill - Rahui Katene'
+date: 2009-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00200/speech-sentencing-amendment-bill-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2009/02/13/speech-sentencing-amendment-bill-rahui-katene/index.html
+layout: layout.njk
 ---
 Speech: Sentencing Amendment Bill - Rahui Katene
 ================================================

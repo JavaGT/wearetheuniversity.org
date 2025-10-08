@@ -1,9 +1,12 @@
 ---
 slug: green-party-candidate-in-uk-speech
-title: "Green Party candidate in UK - speech"
-date: 2002-07-17
-source-url: https://www.scoop.co.nz/stories/PO0207/S00168/green-party-candidate-in-uk-speech.htm
+title: Green Party candidate in UK - speech
+date: 2002-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00168/green-party-candidate-in-uk-speech.htm
 author: green-party
+permalink: /archive/2002/07/17/green-party-candidate-in-uk-speech/index.html
+layout: layout.njk
 ---
 Green Party candidate in UK - speech
 ====================================

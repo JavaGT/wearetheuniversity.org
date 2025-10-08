@@ -1,9 +1,12 @@
 ---
 slug: universities-positive-on-high-level-rs&t-direction
-title: "Universities Positive On High-Level Rs&T Direction"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/ED0910/S00106/universities-positive-on-high-level-rst-direction.htm
+title: Universities Positive On High-Level Rs&T Direction
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00106/universities-positive-on-high-level-rst-direction.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/10/23/universities-positive-on-high-level-rs/index.html
+layout: layout.njk
 ---
 Universities Positive On High-Level Rs&T Direction
 ==================================================

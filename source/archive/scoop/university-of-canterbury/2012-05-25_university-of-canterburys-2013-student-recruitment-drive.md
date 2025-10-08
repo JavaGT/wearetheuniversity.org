@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterburys-2013-student-recruitment-drive
-title: "University of Canterbury's 2013 student recruitment drive"
-date: 2012-05-25
-source-url: https://www.scoop.co.nz/stories/ED1205/S00128/university-of-canterburys-2013-student-recruitment-drive.htm
+title: University of Canterbury's 2013 student recruitment drive
+date: 2012-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00128/university-of-canterburys-2013-student-recruitment-drive.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/05/25/university-of-canterburys-2013-student-recruitment-drive/index.html
+layout: layout.njk
 ---
 University of Canterbury's 2013 student recruitment drive
 =========================================================

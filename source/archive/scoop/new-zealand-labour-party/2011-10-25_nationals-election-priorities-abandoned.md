@@ -1,9 +1,12 @@
 ---
 slug: nationals-election-priorities-abandoned
-title: "National's  election 'priorities'  abandoned"
-date: 2011-10-25
-source-url: https://www.scoop.co.nz/stories/PA1110/S00383/nationals-election-priorities-abandoned.htm
+title: National's  election 'priorities'  abandoned
+date: 2011-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1110/S00383/nationals-election-priorities-abandoned.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/10/25/nationals-election-priorities-abandoned/index.html
+layout: layout.njk
 ---
 National's election 'priorities' abandoned
 ==========================================

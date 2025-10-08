@@ -1,9 +1,12 @@
 ---
 slug: greens-support-inquiry-into-police-intelligence
-title: "Greens support inquiry into police intelligence"
-date: 2000-05-12
-source-url: https://www.scoop.co.nz/stories/BU0005/S00072/greens-support-inquiry-into-police-intelligence.htm
+title: Greens support inquiry into police intelligence
+date: 2000-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0005/S00072/greens-support-inquiry-into-police-intelligence.htm
 author: green-party
+permalink: /archive/2000/05/12/greens-support-inquiry-into-police-intelligence/index.html
+layout: layout.njk
 ---
 Greens support inquiry into police intelligence
 ===============================================

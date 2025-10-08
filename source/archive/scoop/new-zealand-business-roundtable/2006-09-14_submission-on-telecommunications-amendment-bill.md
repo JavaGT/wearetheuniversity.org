@@ -1,9 +1,12 @@
 ---
 slug: submission-on-telecommunications-amendment-bill
-title: "Submission on Telecommunications Amendment Bill"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/BU0609/S00263/submission-on-telecommunications-amendment-bill.htm
+title: Submission on Telecommunications Amendment Bill
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0609/S00263/submission-on-telecommunications-amendment-bill.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/09/14/submission-on-telecommunications-amendment-bill/index.html
+layout: layout.njk
 ---
 Submission on Telecommunications Amendment Bill
 ===============================================

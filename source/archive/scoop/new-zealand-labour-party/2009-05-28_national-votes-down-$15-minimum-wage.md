@@ -1,9 +1,12 @@
 ---
 slug: national-votes-down-$15-minimum-wage
-title: "National votes down $15 minimum wage"
-date: 2009-05-28
-source-url: https://www.scoop.co.nz/stories/PA0905/S00466/national-votes-down-15-minimum-wage.htm
+title: National votes down $15 minimum wage
+date: 2009-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00466/national-votes-down-15-minimum-wage.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/28/national-votes-down-/index.html
+layout: layout.njk
 ---
 National votes down $15 minimum wage
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: māori-book-award-finalists-announced
-title: "Māori Book Award finalists announced"
-date: 2015-08-06
-source-url: https://www.scoop.co.nz/stories/CU1508/S00097/maori-book-award-finalists-announced.htm
+title: Māori Book Award finalists announced
+date: 2015-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00097/maori-book-award-finalists-announced.htm
 author: massey-university
+permalink: /archive/2015/08/06/m/index.html
+layout: layout.njk
 ---
 Māori Book Award finalists announced
 ====================================

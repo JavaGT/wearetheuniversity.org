@@ -1,9 +1,13 @@
 ---
 slug: maori-claiming-british-pensions-may-have-case-say
-title: "Maori claiming British pensions may have case, say"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/PO0610/S00138/maori-claiming-british-pensions-may-have-case-say.htm
+title: Maori claiming British pensions may have case, say
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00138/maori-claiming-british-pensions-may-have-case-say.htm
 author: aut-university
+permalink: >-
+  /archive/2006/10/13/maori-claiming-british-pensions-may-have-case-say/index.html
+layout: layout.njk
 ---
 Maori claiming British pensions may have case, say
 ==================================================

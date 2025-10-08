@@ -1,8 +1,11 @@
 ---
 slug: marijuana-influences-visual-development
-title: "Marijuana influences visual development"
-date: 2015-11-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/marijuana-influences-visual-development-.html
+title: Marijuana influences visual development
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/marijuana-influences-visual-development-.html
+permalink: /archive/2015/11/20/marijuana-influences-visual-development/index.html
+layout: layout.njk
 ---
 Marijuana influences visual development
 =======================================

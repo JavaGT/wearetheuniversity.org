@@ -1,9 +1,12 @@
 ---
 slug: unis-cant-spend-millions-on-marketing-campaigns
-title: "Unis Can’t Spend Millions On Marketing Campaigns?"
-date: 2001-07-23
-source-url: https://www.scoop.co.nz/stories/ED0107/S00032/unis-cant-spend-millions-on-marketing-campaigns.htm
+title: Unis Can’t Spend Millions On Marketing Campaigns?
+date: 2001-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0107/S00032/unis-cant-spend-millions-on-marketing-campaigns.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/07/23/unis-cant-spend-millions-on-marketing-campaigns/index.html
+layout: layout.njk
 ---
 Unis Can’t Spend Millions On Marketing Campaigns?
 =================================================

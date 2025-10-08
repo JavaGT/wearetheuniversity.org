@@ -1,9 +1,13 @@
 ---
 slug: food-in-schools-a-band-aid-that-wont-fix-the-real-problem
-title: "Food In Schools A Band-Aid That Won’t Fix The Real Problem"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/PA1305/S00553/food-in-schools-a-band-aid-that-wont-fix-the-real-problem.htm
+title: Food In Schools A Band-Aid That Won’t Fix The Real Problem
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00553/food-in-schools-a-band-aid-that-wont-fix-the-real-problem.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2013/05/28/food-in-schools-a-band-aid-that-wont-fix-the-real-problem/index.html
+layout: layout.njk
 ---
 Food In Schools A Band-Aid That Won’t Fix The Real Problem
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: ageing-immigrants-add-to-taxpayer-burden
-title: "Ageing Immigrants Add To Taxpayer Burden"
-date: 2002-12-10
-source-url: https://www.scoop.co.nz/stories/PA0212/S00236/ageing-immigrants-add-to-taxpayer-burden.htm
+title: Ageing Immigrants Add To Taxpayer Burden
+date: 2002-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00236/ageing-immigrants-add-to-taxpayer-burden.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/10/ageing-immigrants-add-to-taxpayer-burden/index.html
+layout: layout.njk
 ---
 Ageing Immigrants Add To Taxpayer Burden
 ========================================

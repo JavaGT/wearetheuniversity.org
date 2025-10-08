@@ -1,9 +1,12 @@
 ---
 slug: reducing-class-size-will-enhance-education
-title: "Reducing Class Size Will Enhance Education"
-date: 2005-08-25
-source-url: https://www.scoop.co.nz/stories/PA0508/S00669/reducing-class-size-will-enhance-education.htm
+title: Reducing Class Size Will Enhance Education
+date: 2005-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00669/reducing-class-size-will-enhance-education.htm
 author: nzei
+permalink: /archive/2005/08/25/reducing-class-size-will-enhance-education/index.html
+layout: layout.njk
 ---
 Reducing Class Size Will Enhance Education
 ==========================================

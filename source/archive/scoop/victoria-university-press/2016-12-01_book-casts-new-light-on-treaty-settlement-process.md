@@ -1,9 +1,13 @@
 ---
 slug: book-casts-new-light-on-treaty-settlement-process
-title: "Book casts new light on Treaty settlement process"
-date: 2016-12-01
-source-url: https://www.scoop.co.nz/stories/CU1612/S00020/book-casts-new-light-on-treaty-settlement-process.htm
+title: Book casts new light on Treaty settlement process
+date: 2016-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1612/S00020/book-casts-new-light-on-treaty-settlement-process.htm
 author: victoria-university-press
+permalink: >-
+  /archive/2016/12/01/book-casts-new-light-on-treaty-settlement-process/index.html
+layout: layout.njk
 ---
 Book casts new light on Treaty settlement process
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: amalgamation-to-improve-aut-graduate-work-readiness
-title: "Amalgamation to improve AUT graduate work readiness"
-date: 2015-04-02
-source-url: https://www.scoop.co.nz/stories/ED1504/S00011/amalgamation-to-improve-aut-graduate-work-readiness.htm
+title: Amalgamation to improve AUT graduate work readiness
+date: 2015-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00011/amalgamation-to-improve-aut-graduate-work-readiness.htm
 author: aut-university
+permalink: >-
+  /archive/2015/04/02/amalgamation-to-improve-aut-graduate-work-readiness/index.html
+layout: layout.njk
 ---
 Amalgamation to improve AUT graduate work readiness
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-not-working-for-workers
-title: "Labour Not Working For Workers"
-date: 2023-03-28
-source-url: https://www.scoop.co.nz/stories/PA2303/S00225/labour-not-working-for-workers.htm
+title: Labour Not Working For Workers
+date: 2023-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00225/labour-not-working-for-workers.htm
 author: act-new-zealand
+permalink: /archive/2023/03/28/labour-not-working-for-workers/index.html
+layout: layout.njk
 ---
 Labour Not Working For Workers
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: new-model-for-tertiary-funding-good-for-students
-title: "New model for tertiary funding good for students"
-date: 2010-08-04
-source-url: https://www.scoop.co.nz/stories/PO1008/S00044/new-model-for-tertiary-funding-good-for-students.htm
+title: New model for tertiary funding good for students
+date: 2010-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00044/new-model-for-tertiary-funding-good-for-students.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2010/08/04/new-model-for-tertiary-funding-good-for-students/index.html
+layout: layout.njk
 ---
 New model for tertiary funding good for students
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: economic-growth-still-benefiting-only-a-few
-title: "Economic growth still benefiting only a few"
-date: 2013-06-21
-source-url: https://www.scoop.co.nz/stories/PO1306/S00279/economic-growth-still-benefiting-only-a-few.htm
+title: Economic growth still benefiting only a few
+date: 2013-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00279/economic-growth-still-benefiting-only-a-few.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/06/21/economic-growth-still-benefiting-only-a-few/index.html
+layout: layout.njk
 ---
 Economic growth still benefiting only a few
 ===========================================

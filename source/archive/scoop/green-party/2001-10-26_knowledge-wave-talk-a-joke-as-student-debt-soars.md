@@ -1,9 +1,13 @@
 ---
 slug: knowledge-wave-talk-a-joke-as-student-debt-soars
-title: "'Knowledge wave' talk a joke as student debt soars"
-date: 2001-10-26
-source-url: https://www.scoop.co.nz/stories/PA0110/S00465/knowledge-wave-talk-a-joke-as-student-debt-soars.htm
+title: '''Knowledge wave'' talk a joke as student debt soars'
+date: 2001-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00465/knowledge-wave-talk-a-joke-as-student-debt-soars.htm
 author: green-party
+permalink: >-
+  /archive/2001/10/26/knowledge-wave-talk-a-joke-as-student-debt-soars/index.html
+layout: layout.njk
 ---
 'Knowledge wave' talk a joke as student debt soars
 ==================================================

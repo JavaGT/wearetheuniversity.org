@@ -1,9 +1,13 @@
 ---
 slug: boosting-medical-student-numbers-not-the-solution
-title: "Boosting Medical Student Numbers Not The Solution"
-date: 2008-10-02
-source-url: https://www.scoop.co.nz/stories/GE0810/S00009/boosting-medical-student-numbers-not-the-solution.htm
+title: Boosting Medical Student Numbers Not The Solution
+date: 2008-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0810/S00009/boosting-medical-student-numbers-not-the-solution.htm
 author: aut-university
+permalink: >-
+  /archive/2008/10/02/boosting-medical-student-numbers-not-the-solution/index.html
+layout: layout.njk
 ---
 Boosting Medical Student Numbers Not The Solution
 =================================================

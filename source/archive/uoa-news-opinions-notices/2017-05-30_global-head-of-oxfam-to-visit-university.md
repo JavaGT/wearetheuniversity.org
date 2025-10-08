@@ -1,8 +1,11 @@
 ---
 slug: global-head-of-oxfam-to-visit-university
-title: "Global head of Oxfam to visit University"
-date: 2017-05-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/global-head-of-oxfam-to-visit-university.html
+title: Global head of Oxfam to visit University
+date: 2017-05-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/05/global-head-of-oxfam-to-visit-university.html
+permalink: /archive/2017/05/30/global-head-of-oxfam-to-visit-university/index.html
+layout: layout.njk
 ---
 Global head of Oxfam to visit University
 ========================================

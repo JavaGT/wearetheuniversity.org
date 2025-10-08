@@ -1,9 +1,13 @@
 ---
 slug: more-commitment-needed-to-achieve-smokefree-2025
-title: "More commitment needed to achieve Smokefree 2025"
-date: 2018-03-29
-source-url: https://www.scoop.co.nz/stories/GE1803/S00089/more-commitment-needed-to-achieve-smokefree-2025.htm
+title: More commitment needed to achieve Smokefree 2025
+date: 2018-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1803/S00089/more-commitment-needed-to-achieve-smokefree-2025.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/03/29/more-commitment-needed-to-achieve-smokefree-2025/index.html
+layout: layout.njk
 ---
 More commitment needed to achieve Smokefree 2025
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: medical-researcher-authors-major-who-report
-title: "Medical researcher authors major WHO report"
-date: 2002-10-18
-source-url: https://www.scoop.co.nz/stories/ED0210/S00051/medical-researcher-authors-major-who-report.htm
+title: Medical researcher authors major WHO report
+date: 2002-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00051/medical-researcher-authors-major-who-report.htm
 author: auckland-university
+permalink: /archive/2002/10/18/medical-researcher-authors-major-who-report/index.html
+layout: layout.njk
 ---
 Medical researcher authors major WHO report
 ===========================================

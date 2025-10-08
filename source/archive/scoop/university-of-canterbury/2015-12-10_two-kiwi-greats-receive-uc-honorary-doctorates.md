@@ -1,9 +1,12 @@
 ---
 slug: two-kiwi-greats-receive-uc-honorary-doctorates
-title: "Two Kiwi greats receive UC Honorary Doctorates"
-date: 2015-12-10
-source-url: https://www.scoop.co.nz/stories/SC1512/S00047/two-kiwi-greats-receive-uc-honorary-doctorates.htm
+title: Two Kiwi greats receive UC Honorary Doctorates
+date: 2015-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00047/two-kiwi-greats-receive-uc-honorary-doctorates.htm
 author: university-of-canterbury
+permalink: /archive/2015/12/10/two-kiwi-greats-receive-uc-honorary-doctorates/index.html
+layout: layout.njk
 ---
 Two Kiwi greats receive UC Honorary Doctorates
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: ramadi-still-not-liberated-us-department-of-defence
-title: "Ramadi Still Not Liberated – US Department of Defence"
-date: 2016-01-21
-source-url: https://www.scoop.co.nz/stories/PA1601/S00077/ramadi-still-not-liberated-us-department-of-defence.htm
+title: Ramadi Still Not Liberated – US Department of Defence
+date: 2016-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1601/S00077/ramadi-still-not-liberated-us-department-of-defence.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/01/21/ramadi-still-not-liberated-us-department-of-defence/index.html
+layout: layout.njk
 ---
 Ramadi Still Not Liberated – US Department of Defence
 =====================================================

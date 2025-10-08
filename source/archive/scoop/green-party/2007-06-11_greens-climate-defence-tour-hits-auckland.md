@@ -1,9 +1,12 @@
 ---
 slug: greens-climate-defence-tour-hits-auckland
-title: "Greens’ Climate Defence Tour hits Auckland"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/PO0706/S00132/greens-climate-defence-tour-hits-auckland.htm
+title: Greens’ Climate Defence Tour hits Auckland
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0706/S00132/greens-climate-defence-tour-hits-auckland.htm
 author: green-party
+permalink: /archive/2007/06/11/greens-climate-defence-tour-hits-auckland/index.html
+layout: layout.njk
 ---
 Greens’ Climate Defence Tour hits Auckland
 ==========================================

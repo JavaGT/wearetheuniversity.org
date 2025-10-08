@@ -1,9 +1,13 @@
 ---
 slug: eleanor-catton-receives-honorary-doctorate-from-victoria
-title: "Eleanor Catton receives Honorary Doctorate from Victoria"
-date: 2014-05-13
-source-url: https://www.scoop.co.nz/stories/AK1405/S00245/eleanor-catton-receives-honorary-doctorate-from-victoria.htm
+title: Eleanor Catton receives Honorary Doctorate from Victoria
+date: 2014-05-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1405/S00245/eleanor-catton-receives-honorary-doctorate-from-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/13/eleanor-catton-receives-honorary-doctorate-from-victoria/index.html
+layout: layout.njk
 ---
 Eleanor Catton receives Honorary Doctorate from Victoria
 ========================================================

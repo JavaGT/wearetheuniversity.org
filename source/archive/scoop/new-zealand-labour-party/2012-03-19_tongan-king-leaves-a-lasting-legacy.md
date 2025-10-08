@@ -1,9 +1,12 @@
 ---
 slug: tongan-king-leaves-a-lasting-legacy
-title: "Tongan King Leaves A Lasting Legacy"
-date: 2012-03-19
-source-url: https://www.scoop.co.nz/stories/PA1203/S00239/tongan-king-leaves-a-lasting-legacy.htm
+title: Tongan King Leaves A Lasting Legacy
+date: 2012-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00239/tongan-king-leaves-a-lasting-legacy.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/19/tongan-king-leaves-a-lasting-legacy/index.html
+layout: layout.njk
 ---
 Tongan King Leaves A Lasting Legacy
 ===================================

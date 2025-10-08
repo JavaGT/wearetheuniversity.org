@@ -1,9 +1,12 @@
 ---
 slug: young-nationals-show-true-colours
-title: "Young Nationals show true colours"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/PO0910/S00113/young-nationals-show-true-colours.htm
+title: Young Nationals show true colours
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00113/young-nationals-show-true-colours.htm
 author: young-labour
+permalink: /archive/2009/10/08/young-nationals-show-true-colours/index.html
+layout: layout.njk
 ---
 Young Nationals show true colours
 =================================

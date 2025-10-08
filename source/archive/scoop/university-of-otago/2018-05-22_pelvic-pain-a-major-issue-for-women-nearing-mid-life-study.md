@@ -1,9 +1,13 @@
 ---
 slug: pelvic-pain-a-major-issue-for-women-nearing-mid-life-study
-title: "Pelvic pain a major issue for women nearing mid-life: study"
-date: 2018-05-22
-source-url: https://www.scoop.co.nz/stories/GE1805/S00098/pelvic-pain-a-major-issue-for-women-nearing-mid-life-study.htm
+title: 'Pelvic pain a major issue for women nearing mid-life: study'
+date: 2018-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00098/pelvic-pain-a-major-issue-for-women-nearing-mid-life-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/22/pelvic-pain-a-major-issue-for-women-nearing-mid-life-study/index.html
+layout: layout.njk
 ---
 Pelvic pain a major issue for women nearing mid-life: study
 ===========================================================

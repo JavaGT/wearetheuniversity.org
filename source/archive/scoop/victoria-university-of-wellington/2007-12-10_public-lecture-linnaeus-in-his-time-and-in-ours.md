@@ -1,9 +1,12 @@
 ---
 slug: public-lecture-linnaeus-in-his-time-and-in-ours
-title: "Public Lecture: Linnaeus in his time and in ours"
-date: 2007-12-10
-source-url: https://www.scoop.co.nz/stories/ED0712/S00035/public-lecture-linnaeus-in-his-time-and-in-ours.htm
+title: 'Public Lecture: Linnaeus in his time and in ours'
+date: 2007-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00035/public-lecture-linnaeus-in-his-time-and-in-ours.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/10/public-lecture-linnaeus-in-his-time-and-in-ours/index.html
+layout: layout.njk
 ---
 Public Lecture: Linnaeus in his time and in ours
 ================================================

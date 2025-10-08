@@ -1,9 +1,11 @@
 ---
 slug: meet-jack-yan
-title: "Meet Jack Yan"
-date: 2009-10-09
+title: Meet Jack Yan
+date: 2009-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/HL0910/S00083/meet-jack-yan.htm
 author: salient
+permalink: /archive/2009/10/09/meet-jack-yan/index.html
+layout: layout.njk
 ---
 Meet Jack Yan
 =============

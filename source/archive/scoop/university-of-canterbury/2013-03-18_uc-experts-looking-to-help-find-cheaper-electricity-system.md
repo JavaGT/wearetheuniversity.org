@@ -1,9 +1,13 @@
 ---
 slug: uc-experts-looking-to-help-find-cheaper-electricity-system
-title: "UC Experts Looking To Help Find Cheaper Electricity System"
-date: 2013-03-18
-source-url: https://www.scoop.co.nz/stories/ED1303/S00114/uc-experts-looking-to-help-find-cheaper-electricity-system.htm
+title: UC Experts Looking To Help Find Cheaper Electricity System
+date: 2013-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00114/uc-experts-looking-to-help-find-cheaper-electricity-system.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/18/uc-experts-looking-to-help-find-cheaper-electricity-system/index.html
+layout: layout.njk
 ---
 UC Experts Looking To Help Find Cheaper Electricity System
 ==========================================================

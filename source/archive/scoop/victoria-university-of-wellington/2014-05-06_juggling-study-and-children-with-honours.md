@@ -1,9 +1,12 @@
 ---
 slug: juggling-study-and-children-with-honours
-title: "Juggling study and children, with honours"
-date: 2014-05-06
-source-url: https://www.scoop.co.nz/stories/ED1405/S00026/juggling-study-and-children-with-honours.htm
+title: Juggling study and children, with honours
+date: 2014-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00026/juggling-study-and-children-with-honours.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/06/juggling-study-and-children-with-honours/index.html
+layout: layout.njk
 ---
 Juggling study and children, with honours
 =========================================

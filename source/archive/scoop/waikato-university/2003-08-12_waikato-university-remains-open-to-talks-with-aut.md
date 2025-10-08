@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-remains-open-to-talks-with-aut
-title: "Waikato University Remains Open To Talks With AUT"
-date: 2003-08-12
-source-url: https://www.scoop.co.nz/stories/ED0308/S00039/waikato-university-remains-open-to-talks-with-aut.htm
+title: Waikato University Remains Open To Talks With AUT
+date: 2003-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00039/waikato-university-remains-open-to-talks-with-aut.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/08/12/waikato-university-remains-open-to-talks-with-aut/index.html
+layout: layout.njk
 ---
 Waikato University Remains Open To Talks With AUT
 =================================================

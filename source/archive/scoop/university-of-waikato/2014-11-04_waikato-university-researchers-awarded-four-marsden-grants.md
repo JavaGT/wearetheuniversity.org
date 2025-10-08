@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-researchers-awarded-four-marsden-grants
-title: "Waikato University researchers awarded four Marsden grants"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/ED1411/S00017/waikato-university-researchers-awarded-four-marsden-grants.htm
+title: Waikato University researchers awarded four Marsden grants
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00017/waikato-university-researchers-awarded-four-marsden-grants.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/11/04/waikato-university-researchers-awarded-four-marsden-grants/index.html
+layout: layout.njk
 ---
 Waikato University researchers awarded four Marsden grants
 ==========================================================

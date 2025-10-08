@@ -1,9 +1,13 @@
 ---
 slug: new-research-into-kidney-failure-in-intensive-care
-title: "New Research Into Kidney Failure In Intensive Care"
-date: 2004-03-09
-source-url: https://www.scoop.co.nz/stories/ED0403/S00034/new-research-into-kidney-failure-in-intensive-care.htm
+title: New Research Into Kidney Failure In Intensive Care
+date: 2004-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00034/new-research-into-kidney-failure-in-intensive-care.htm
 author: university-of-otago
+permalink: >-
+  /archive/2004/03/09/new-research-into-kidney-failure-in-intensive-care/index.html
+layout: layout.njk
 ---
 New Research Into Kidney Failure In Intensive Care
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: students-back-allowances-bill
-title: "Students Back Allowances Bill"
-date: 2002-10-03
-source-url: https://www.scoop.co.nz/stories/ED0210/S00008/students-back-allowances-bill.htm
+title: Students Back Allowances Bill
+date: 2002-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00008/students-back-allowances-bill.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/10/03/students-back-allowances-bill/index.html
+layout: layout.njk
 ---
 Students Back Allowances Bill
 =============================

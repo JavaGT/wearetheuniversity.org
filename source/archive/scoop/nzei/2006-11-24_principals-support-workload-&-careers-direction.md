@@ -1,9 +1,12 @@
 ---
 slug: principals-support-workload-&-careers-direction
-title: "Principals Support Workload & Careers Direction"
-date: 2006-11-24
-source-url: https://www.scoop.co.nz/stories/ED0611/S00093/principals-support-workload-careers-direction.htm
+title: Principals Support Workload & Careers Direction
+date: 2006-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00093/principals-support-workload-careers-direction.htm
 author: nzei
+permalink: /archive/2006/11/24/principals-support-workload-/index.html
+layout: layout.njk
 ---
 Principals Support Workload & Careers Direction
 ===============================================

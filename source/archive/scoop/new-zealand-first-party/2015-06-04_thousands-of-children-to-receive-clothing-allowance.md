@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-children-to-receive-clothing-allowance
-title: "Thousands  of Children to Receive Clothing Allowance"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00060/thousands-of-children-to-receive-clothing-allowance.htm
+title: Thousands  of Children to Receive Clothing Allowance
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00060/thousands-of-children-to-receive-clothing-allowance.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/06/04/thousands-of-children-to-receive-clothing-allowance/index.html
+layout: layout.njk
 ---
 Thousands of Children to Receive Clothing Allowance
 ===================================================

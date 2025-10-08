@@ -1,9 +1,12 @@
 ---
 slug: call-for-new-zealand-specific-autism-research
-title: "Call For New Zealand Specific Autism Research"
-date: 2022-06-09
-source-url: https://www.scoop.co.nz/stories/GE2206/S00033/call-for-new-zealand-specific-autism-research.htm
+title: Call For New Zealand Specific Autism Research
+date: 2022-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2206/S00033/call-for-new-zealand-specific-autism-research.htm
 author: university-of-canterbury
+permalink: /archive/2022/06/09/call-for-new-zealand-specific-autism-research/index.html
+layout: layout.njk
 ---
 Call For New Zealand Specific Autism Research
 =============================================

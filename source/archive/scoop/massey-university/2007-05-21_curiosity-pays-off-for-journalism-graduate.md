@@ -1,9 +1,12 @@
 ---
 slug: curiosity-pays-off-for-journalism-graduate
-title: "Curiosity pays off for journalism graduate"
-date: 2007-05-21
-source-url: https://www.scoop.co.nz/stories/ED0705/S00082/curiosity-pays-off-for-journalism-graduate.htm
+title: Curiosity pays off for journalism graduate
+date: 2007-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00082/curiosity-pays-off-for-journalism-graduate.htm
 author: massey-university
+permalink: /archive/2007/05/21/curiosity-pays-off-for-journalism-graduate/index.html
+layout: layout.njk
 ---
 Curiosity pays off for journalism graduate
 ==========================================

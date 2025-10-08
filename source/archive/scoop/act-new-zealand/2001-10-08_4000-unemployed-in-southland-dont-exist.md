@@ -1,9 +1,12 @@
 ---
 slug: 4000-unemployed-in-southland-dont-exist
-title: "4,000 Unemployed in Southland Don't Exist"
-date: 2001-10-08
-source-url: https://www.scoop.co.nz/stories/PA0110/S00172/4000-unemployed-in-southland-dont-exist.htm
+title: 4,000 Unemployed in Southland Don't Exist
+date: 2001-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00172/4000-unemployed-in-southland-dont-exist.htm
 author: act-new-zealand
+permalink: /archive/2001/10/08/4000-unemployed-in-southland-dont-exist/index.html
+layout: layout.njk
 ---
 4,000 Unemployed in Southland Don't Exist
 =========================================

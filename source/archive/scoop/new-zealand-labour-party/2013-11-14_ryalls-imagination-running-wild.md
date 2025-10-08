@@ -1,9 +1,12 @@
 ---
 slug: ryalls-imagination-running-wild
-title: "Ryall’s imagination running wild"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/PA1311/S00246/ryalls-imagination-running-wild.htm
+title: Ryall’s imagination running wild
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00246/ryalls-imagination-running-wild.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/14/ryalls-imagination-running-wild/index.html
+layout: layout.njk
 ---
 Ryall’s imagination running wild
 ================================

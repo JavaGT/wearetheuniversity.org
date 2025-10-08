@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-change-proposal-outcomes
-title: "Lincoln University change proposal outcomes"
-date: 2014-05-30
-source-url: https://www.scoop.co.nz/stories/ED1405/S00161/lincoln-university-change-proposal-outcomes.htm
+title: Lincoln University change proposal outcomes
+date: 2014-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00161/lincoln-university-change-proposal-outcomes.htm
 author: lincoln-university
+permalink: /archive/2014/05/30/lincoln-university-change-proposal-outcomes/index.html
+layout: layout.njk
 ---
 Lincoln University change proposal outcomes
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: future-leader-awarded-prestigious-robertson-scholarship
-title: "Future Leader Awarded Prestigious Robertson Scholarship"
-date: 2021-02-26
-source-url: https://www.scoop.co.nz/stories/ED2102/S00041/future-leader-awarded-prestigious-robertson-scholarship.htm
+title: Future Leader Awarded Prestigious Robertson Scholarship
+date: 2021-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2102/S00041/future-leader-awarded-prestigious-robertson-scholarship.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/02/26/future-leader-awarded-prestigious-robertson-scholarship/index.html
+layout: layout.njk
 ---
 Future Leader Awarded Prestigious Robertson Scholarship
 =======================================================

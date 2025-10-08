@@ -1,9 +1,11 @@
 ---
 slug: a-post-doctoral-roadshow
-title: "A post-doctoral roadshow"
-date: 2014-06-06
+title: A post-doctoral roadshow
+date: 2014-06-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1406/S00033/a-post-doctoral-roadshow.htm
 author: university-of-waikato
+permalink: /archive/2014/06/06/a-post-doctoral-roadshow/index.html
+layout: layout.njk
 ---
 A post-doctoral roadshow
 ========================

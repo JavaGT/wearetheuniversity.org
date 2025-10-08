@@ -1,9 +1,13 @@
 ---
 slug: salmon-farm-decision-opens-coastline-for-marine-farms
-title: "Salmon farm decision opens coastline for marine farms"
-date: 2012-12-20
-source-url: https://www.scoop.co.nz/stories/PA1212/S00379/salmon-farm-decision-opens-coastline-for-marine-farms.htm
+title: Salmon farm decision opens coastline for marine farms
+date: 2012-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00379/salmon-farm-decision-opens-coastline-for-marine-farms.htm
 author: green-party
+permalink: >-
+  /archive/2012/12/20/salmon-farm-decision-opens-coastline-for-marine-farms/index.html
+layout: layout.njk
 ---
 Salmon farm decision opens coastline for marine farms
 =====================================================

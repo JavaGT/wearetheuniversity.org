@@ -1,9 +1,12 @@
 ---
 slug: te-reo-and-tikanga-māori-for-better-tertiary-teaching
-title: "Te Reo And Tikanga Māori For Better Tertiary Teaching"
-date: 2022-03-10
-source-url: https://www.scoop.co.nz/stories/ED2203/S00018/te-reo-and-tikanga-maori-for-better-tertiary-teaching.htm
+title: Te Reo And Tikanga Māori For Better Tertiary Teaching
+date: 2022-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2203/S00018/te-reo-and-tikanga-maori-for-better-tertiary-teaching.htm
 author: university-of-canterbury
+permalink: /archive/2022/03/10/te-reo-and-tikanga-m/index.html
+layout: layout.njk
 ---
 Te Reo And Tikanga Māori For Better Tertiary Teaching
 =====================================================

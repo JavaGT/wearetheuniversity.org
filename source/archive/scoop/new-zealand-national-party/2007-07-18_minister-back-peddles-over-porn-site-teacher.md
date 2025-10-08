@@ -1,9 +1,12 @@
 ---
 slug: minister-back-peddles-over-porn-site-teacher
-title: "Minister back-peddles over porn-site teacher"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/PA0707/S00293/minister-back-peddles-over-porn-site-teacher.htm
+title: Minister back-peddles over porn-site teacher
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00293/minister-back-peddles-over-porn-site-teacher.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/18/minister-back-peddles-over-porn-site-teacher/index.html
+layout: layout.njk
 ---
 Minister back-peddles over porn-site teacher
 ============================================

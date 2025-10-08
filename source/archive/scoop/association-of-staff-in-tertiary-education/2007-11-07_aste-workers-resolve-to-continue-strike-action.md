@@ -1,9 +1,12 @@
 ---
 slug: aste-workers-resolve-to-continue-strike-action
-title: "ASTE Workers resolve to continue strike action"
-date: 2007-11-07
-source-url: https://www.scoop.co.nz/stories/ED0711/S00034/aste-workers-resolve-to-continue-strike-action.htm
+title: ASTE Workers resolve to continue strike action
+date: 2007-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00034/aste-workers-resolve-to-continue-strike-action.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2007/11/07/aste-workers-resolve-to-continue-strike-action/index.html
+layout: layout.njk
 ---
 ASTE Workers resolve to continue strike action
 ==============================================

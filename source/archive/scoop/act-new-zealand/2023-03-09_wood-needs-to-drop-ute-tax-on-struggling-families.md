@@ -1,9 +1,13 @@
 ---
 slug: wood-needs-to-drop-ute-tax-on-struggling-families
-title: "Wood Needs To Drop Ute Tax On Struggling Families"
-date: 2023-03-09
-source-url: https://www.scoop.co.nz/stories/PA2303/S00068/wood-needs-to-drop-ute-tax-on-struggling-families.htm
+title: Wood Needs To Drop Ute Tax On Struggling Families
+date: 2023-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00068/wood-needs-to-drop-ute-tax-on-struggling-families.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/03/09/wood-needs-to-drop-ute-tax-on-struggling-families/index.html
+layout: layout.njk
 ---
 Wood Needs To Drop Ute Tax On Struggling Families
 =================================================

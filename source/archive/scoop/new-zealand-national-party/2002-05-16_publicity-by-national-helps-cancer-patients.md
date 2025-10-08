@@ -1,9 +1,12 @@
 ---
 slug: publicity-by-national-helps-cancer-patients
-title: "Publicity By National Helps Cancer Patients"
-date: 2002-05-16
-source-url: https://www.scoop.co.nz/stories/PA0205/S00320/publicity-by-national-helps-cancer-patients.htm
+title: Publicity By National Helps Cancer Patients
+date: 2002-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00320/publicity-by-national-helps-cancer-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/16/publicity-by-national-helps-cancer-patients/index.html
+layout: layout.njk
 ---
 Publicity By National Helps Cancer Patients
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: forcing-through-an-insidious-bill-at-night
-title: "Forcing through an insidious bill at night"
-date: 2010-11-17
-source-url: https://www.scoop.co.nz/stories/PA1011/S00350/forcing-through-an-insidious-bill-at-night.htm
+title: Forcing through an insidious bill at night
+date: 2010-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00350/forcing-through-an-insidious-bill-at-night.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/17/forcing-through-an-insidious-bill-at-night/index.html
+layout: layout.njk
 ---
 Forcing through an insidious bill at night
 ==========================================

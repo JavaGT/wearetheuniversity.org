@@ -1,9 +1,11 @@
 ---
 slug: david-cross-hold
-title: "David Cross: Hold"
-date: 2007-05-09
+title: 'David Cross: Hold'
+date: 2007-05-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0705/S00082/david-cross-hold.htm
 author: massey-university
+permalink: /archive/2007/05/09/david-cross-hold/index.html
+layout: layout.njk
 ---
 David Cross: Hold
 =================

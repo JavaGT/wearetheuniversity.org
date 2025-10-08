@@ -1,9 +1,12 @@
 ---
 slug: pull-plug-on-canterbury-water-plan-greens
-title: "Pull plug on Canterbury water plan - Greens"
-date: 2007-06-05
-source-url: https://www.scoop.co.nz/stories/PA0706/S00057/pull-plug-on-canterbury-water-plan-greens.htm
+title: Pull plug on Canterbury water plan - Greens
+date: 2007-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00057/pull-plug-on-canterbury-water-plan-greens.htm
 author: green-party
+permalink: /archive/2007/06/05/pull-plug-on-canterbury-water-plan-greens/index.html
+layout: layout.njk
 ---
 Pull plug on Canterbury water plan - Greens
 ===========================================

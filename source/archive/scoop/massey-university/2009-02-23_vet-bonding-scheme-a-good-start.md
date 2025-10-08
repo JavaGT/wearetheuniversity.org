@@ -1,9 +1,12 @@
 ---
 slug: vet-bonding-scheme-a-good-start
-title: "Vet bonding scheme a good start"
-date: 2009-02-23
-source-url: https://www.scoop.co.nz/stories/BU0902/S00431/vet-bonding-scheme-a-good-start.htm
+title: Vet bonding scheme a good start
+date: 2009-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0902/S00431/vet-bonding-scheme-a-good-start.htm
 author: massey-university
+permalink: /archive/2009/02/23/vet-bonding-scheme-a-good-start/index.html
+layout: layout.njk
 ---
 Vet bonding scheme a good start
 ===============================

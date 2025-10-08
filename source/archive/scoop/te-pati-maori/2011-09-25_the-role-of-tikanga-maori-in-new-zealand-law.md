@@ -1,9 +1,12 @@
 ---
 slug: the-role-of-tikanga-maori-in-new-zealand-law
-title: "The role of Tikanga Maori in New Zealand Law"
-date: 2011-09-25
-source-url: https://www.scoop.co.nz/stories/PA1109/S00450/the-role-of-tikanga-maori-in-new-zealand-law.htm
+title: The role of Tikanga Maori in New Zealand Law
+date: 2011-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00450/the-role-of-tikanga-maori-in-new-zealand-law.htm
 author: te-pati-maori
+permalink: /archive/2011/09/25/the-role-of-tikanga-maori-in-new-zealand-law/index.html
+layout: layout.njk
 ---
 The role of Tikanga Maori in New Zealand Law
 ============================================

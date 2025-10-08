@@ -1,8 +1,12 @@
 ---
 slug: digging-deep-developing-second-foreign-language-expertise
-title: "Digging Deep: Developing Second/Foreign Language Expertise"
-date: 2017-08-11
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/digging-deep--developing-second-foreign-language-expertise.html
+title: 'Digging Deep: Developing Second/Foreign Language Expertise'
+date: 2017-08-11T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/digging-deep--developing-second-foreign-language-expertise.html
+permalink: >-
+  /archive/2017/08/11/digging-deep-developing-second-foreign-language-expertise/index.html
+layout: layout.njk
 ---
 Digging Deep: Developing Second/Foreign Language Expertise
 ==========================================================

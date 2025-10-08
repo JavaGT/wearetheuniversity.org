@@ -1,9 +1,13 @@
 ---
 slug: robertson-scholarships-awarded-to-outstanding-future-leaders
-title: "Robertson scholarships awarded to outstanding future leaders"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/ED1503/S00103/robertson-scholarships-awarded-to-outstanding-future-leaders.htm
+title: Robertson scholarships awarded to outstanding future leaders
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00103/robertson-scholarships-awarded-to-outstanding-future-leaders.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2015/03/25/robertson-scholarships-awarded-to-outstanding-future-leaders/index.html
+layout: layout.njk
 ---
 Robertson scholarships awarded to outstanding future leaders
 ============================================================

@@ -1,9 +1,11 @@
 ---
 slug: check-your-database-winz
-title: "Check Your Database, WINZ"
-date: 2022-06-27
+title: Check Your Database, WINZ
+date: 2022-06-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2206/S00206/check-your-database-winz.htm
 author: act-new-zealand
+permalink: /archive/2022/06/27/check-your-database-winz/index.html
+layout: layout.njk
 ---
 Check Your Database, WINZ
 =========================

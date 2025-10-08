@@ -1,9 +1,12 @@
 ---
 slug: government-must-look-at-tourist-crashes
-title: "Government must look at tourist crashes"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PA1412/S00038/government-must-look-at-tourist-crashes.htm
+title: Government must look at tourist crashes
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00038/government-must-look-at-tourist-crashes.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/12/02/government-must-look-at-tourist-crashes/index.html
+layout: layout.njk
 ---
 Government must look at tourist crashes
 =======================================

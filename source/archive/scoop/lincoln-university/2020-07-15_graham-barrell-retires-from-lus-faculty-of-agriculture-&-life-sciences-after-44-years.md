@@ -1,9 +1,16 @@
 ---
-slug: graham-barrell-retires-from-lus-faculty-of-agriculture-&-life-sciences-after-44-years
-title: "Graham Barrell Retires From LU’s Faculty Of Agriculture & Life Sciences After 44 Years"
-date: 2020-07-15
-source-url: https://www.scoop.co.nz/stories/ED2007/S00015/graham-barrell-retires-from-lus-faculty-of-agriculture-life-sciences-after-44-years.htm
+slug: >-
+  graham-barrell-retires-from-lus-faculty-of-agriculture-&-life-sciences-after-44-years
+title: >-
+  Graham Barrell Retires From LU’s Faculty Of Agriculture & Life Sciences After
+  44 Years
+date: 2020-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2007/S00015/graham-barrell-retires-from-lus-faculty-of-agriculture-life-sciences-after-44-years.htm
 author: lincoln-university
+permalink: >-
+  /archive/2020/07/15/graham-barrell-retires-from-lus-faculty-of-agriculture-/index.html
+layout: layout.njk
 ---
 Graham Barrell Retires From LU’s Faculty Of Agriculture & Life Sciences After 44 Years
 ======================================================================================

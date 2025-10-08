@@ -1,9 +1,12 @@
 ---
 slug: speech-on-prime-ministers-statement
-title: "Speech on Prime Minister’s Statement"
-date: 2010-02-09
-source-url: https://www.scoop.co.nz/stories/PA1002/S00101/speech-on-prime-ministers-statement.htm
+title: Speech on Prime Minister’s Statement
+date: 2010-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00101/speech-on-prime-ministers-statement.htm
 author: act-new-zealand
+permalink: /archive/2010/02/09/speech-on-prime-ministers-statement/index.html
+layout: layout.njk
 ---
 Speech on Prime Minister’s Statement
 ====================================

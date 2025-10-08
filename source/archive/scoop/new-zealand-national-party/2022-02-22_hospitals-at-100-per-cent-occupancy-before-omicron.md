@@ -1,9 +1,13 @@
 ---
 slug: hospitals-at-100-per-cent-occupancy-before-omicron
-title: "Hospitals At 100 Per Cent Occupancy Before Omicron"
-date: 2022-02-22
-source-url: https://www.scoop.co.nz/stories/PA2202/S00158/hospitals-at-100-per-cent-occupancy-before-omicron.htm
+title: Hospitals At 100 Per Cent Occupancy Before Omicron
+date: 2022-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00158/hospitals-at-100-per-cent-occupancy-before-omicron.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/02/22/hospitals-at-100-per-cent-occupancy-before-omicron/index.html
+layout: layout.njk
 ---
 Hospitals At 100 Per Cent Occupancy Before Omicron
 ==================================================

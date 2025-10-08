@@ -1,9 +1,12 @@
 ---
 slug: public-meeting-to-discuss-music-conservatorium
-title: "Public meeting to discuss Music Conservatorium"
-date: 2009-07-07
-source-url: https://www.scoop.co.nz/stories/ED0907/S00033/public-meeting-to-discuss-music-conservatorium.htm
+title: Public meeting to discuss Music Conservatorium
+date: 2009-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00033/public-meeting-to-discuss-music-conservatorium.htm
 author: university-of-canterbury
+permalink: /archive/2009/07/07/public-meeting-to-discuss-music-conservatorium/index.html
+layout: layout.njk
 ---
 Public meeting to discuss Music Conservatorium
 ==============================================

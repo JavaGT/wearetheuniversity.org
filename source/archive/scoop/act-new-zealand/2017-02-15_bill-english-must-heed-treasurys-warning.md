@@ -1,9 +1,12 @@
 ---
 slug: bill-english-must-heed-treasurys-warning
-title: "Bill English must heed Treasury’s warning"
-date: 2017-02-15
-source-url: https://www.scoop.co.nz/stories/PA1702/S00197/bill-english-must-heed-treasurys-warning.htm
+title: Bill English must heed Treasury’s warning
+date: 2017-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00197/bill-english-must-heed-treasurys-warning.htm
 author: act-new-zealand
+permalink: /archive/2017/02/15/bill-english-must-heed-treasurys-warning/index.html
+layout: layout.njk
 ---
 Bill English must heed Treasury’s warning
 =========================================

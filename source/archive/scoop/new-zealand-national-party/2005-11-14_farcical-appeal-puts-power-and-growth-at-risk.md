@@ -1,9 +1,12 @@
 ---
 slug: farcical-appeal-puts-power-and-growth-at-risk
-title: "Farcical appeal puts power and growth at risk"
-date: 2005-11-14
-source-url: https://www.scoop.co.nz/stories/PA0511/S00168/farcical-appeal-puts-power-and-growth-at-risk.htm
+title: Farcical appeal puts power and growth at risk
+date: 2005-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00168/farcical-appeal-puts-power-and-growth-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/14/farcical-appeal-puts-power-and-growth-at-risk/index.html
+layout: layout.njk
 ---
 Farcical appeal puts power and growth at risk
 =============================================

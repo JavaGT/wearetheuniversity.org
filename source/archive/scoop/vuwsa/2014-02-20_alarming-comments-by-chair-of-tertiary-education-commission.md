@@ -1,9 +1,13 @@
 ---
 slug: alarming-comments-by-chair-of-tertiary-education-commission
-title: "Alarming Comments by Chair of Tertiary Education Commission"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/ED1402/S00084/alarming-comments-by-chair-of-tertiary-education-commission.htm
+title: Alarming Comments by Chair of Tertiary Education Commission
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00084/alarming-comments-by-chair-of-tertiary-education-commission.htm
 author: vuwsa
+permalink: >-
+  /archive/2014/02/20/alarming-comments-by-chair-of-tertiary-education-commission/index.html
+layout: layout.njk
 ---
 Alarming Comments by Chair of Tertiary Education Commission
 ===========================================================

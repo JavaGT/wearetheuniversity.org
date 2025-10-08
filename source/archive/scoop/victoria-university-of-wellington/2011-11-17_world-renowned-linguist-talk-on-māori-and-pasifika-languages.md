@@ -1,9 +1,12 @@
 ---
 slug: world-renowned-linguist-talk-on-māori-and-pasifika-languages
-title: "World renowned linguist talk on Māori and Pasifika languages"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/ED1111/S00116/world-renowned-linguist-talk-on-maori-and-pasifika-languages.htm
+title: World renowned linguist talk on Māori and Pasifika languages
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00116/world-renowned-linguist-talk-on-maori-and-pasifika-languages.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/11/17/world-renowned-linguist-talk-on-m/index.html
+layout: layout.njk
 ---
 World renowned linguist talk on Māori and Pasifika languages
 ============================================================

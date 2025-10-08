@@ -1,9 +1,13 @@
 ---
 slug: ex-mp-examines-the-politics-of-education-in-new-uc-paper
-title: "Ex-MP examines ‘The Politics of Education’ in new UC paper"
-date: 2015-11-16
-source-url: https://www.scoop.co.nz/stories/BU1511/S00535/ex-mp-examines-the-politics-of-education-in-new-uc-paper.htm
+title: Ex-MP examines ‘The Politics of Education’ in new UC paper
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1511/S00535/ex-mp-examines-the-politics-of-education-in-new-uc-paper.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/11/16/ex-mp-examines-the-politics-of-education-in-new-uc-paper/index.html
+layout: layout.njk
 ---
 Ex-MP examines ‘The Politics of Education’ in new UC paper
 ==========================================================

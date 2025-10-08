@@ -1,9 +1,12 @@
 ---
 slug: nzusa-welcomes-proposed-student-job-initiatives
-title: "NZUSA welcomes proposed student job initiatives"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/ED0905/S00004/nzusa-welcomes-proposed-student-job-initiatives.htm
+title: NZUSA welcomes proposed student job initiatives
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00004/nzusa-welcomes-proposed-student-job-initiatives.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2009/05/01/nzusa-welcomes-proposed-student-job-initiatives/index.html
+layout: layout.njk
 ---
 NZUSA welcomes proposed student job initiatives
 ===============================================

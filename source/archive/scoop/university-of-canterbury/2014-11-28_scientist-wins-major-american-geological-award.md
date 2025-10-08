@@ -1,9 +1,12 @@
 ---
 slug: scientist-wins-major-american-geological-award
-title: "Scientist wins major American geological award"
-date: 2014-11-28
-source-url: https://www.scoop.co.nz/stories/ED1411/S00179/scientist-wins-major-american-geological-award.htm
+title: Scientist wins major American geological award
+date: 2014-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00179/scientist-wins-major-american-geological-award.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/28/scientist-wins-major-american-geological-award/index.html
+layout: layout.njk
 ---
 Scientist wins major American geological award
 ==============================================

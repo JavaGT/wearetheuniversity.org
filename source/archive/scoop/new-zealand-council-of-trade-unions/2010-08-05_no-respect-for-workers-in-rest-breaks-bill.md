@@ -1,9 +1,12 @@
 ---
 slug: no-respect-for-workers-in-rest-breaks-bill
-title: "No respect for workers in rest breaks Bill"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/PO1008/S00047/no-respect-for-workers-in-rest-breaks-bill.htm
+title: No respect for workers in rest breaks Bill
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1008/S00047/no-respect-for-workers-in-rest-breaks-bill.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/08/05/no-respect-for-workers-in-rest-breaks-bill/index.html
+layout: layout.njk
 ---
 No respect for workers in rest breaks Bill
 ==========================================

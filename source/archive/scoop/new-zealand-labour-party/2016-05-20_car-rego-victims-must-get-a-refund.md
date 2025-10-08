@@ -1,9 +1,12 @@
 ---
 slug: car-rego-victims-must-get-a-refund
-title: "Car rego victims must get a refund"
-date: 2016-05-20
-source-url: https://www.scoop.co.nz/stories/PA1605/S00390/car-rego-victims-must-get-a-refund.htm
+title: Car rego victims must get a refund
+date: 2016-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00390/car-rego-victims-must-get-a-refund.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/20/car-rego-victims-must-get-a-refund/index.html
+layout: layout.njk
 ---
 Car rego victims must get a refund
 ==================================

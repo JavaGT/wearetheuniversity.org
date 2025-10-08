@@ -1,9 +1,12 @@
 ---
 slug: progress-of-women-to-senior-positions-glacial
-title: "Progress of women to senior positions glacial"
-date: 2008-03-31
-source-url: https://www.scoop.co.nz/stories/ED0803/S00079/progress-of-women-to-senior-positions-glacial.htm
+title: Progress of women to senior positions glacial
+date: 2008-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00079/progress-of-women-to-senior-positions-glacial.htm
 author: association-of-university-staff
+permalink: /archive/2008/03/31/progress-of-women-to-senior-positions-glacial/index.html
+layout: layout.njk
 ---
 Progress of women to senior positions glacial
 =============================================

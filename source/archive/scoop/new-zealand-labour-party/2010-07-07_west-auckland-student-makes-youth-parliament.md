@@ -1,9 +1,12 @@
 ---
 slug: west-auckland-student-makes-youth-parliament
-title: "West Auckland student makes Youth Parliament"
-date: 2010-07-07
-source-url: https://www.scoop.co.nz/stories/PA1007/S00139/west-auckland-student-makes-youth-parliament.htm
+title: West Auckland student makes Youth Parliament
+date: 2010-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00139/west-auckland-student-makes-youth-parliament.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/07/west-auckland-student-makes-youth-parliament/index.html
+layout: layout.njk
 ---
 West Auckland student makes Youth Parliament
 ============================================

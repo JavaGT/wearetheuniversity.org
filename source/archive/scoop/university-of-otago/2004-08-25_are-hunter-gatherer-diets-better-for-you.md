@@ -1,9 +1,12 @@
 ---
 slug: are-hunter-gatherer-diets-better-for-you
-title: "Are Hunter-Gatherer Diets Better For You?"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00110/are-hunter-gatherer-diets-better-for-you.htm
+title: Are Hunter-Gatherer Diets Better For You?
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00110/are-hunter-gatherer-diets-better-for-you.htm
 author: university-of-otago
+permalink: /archive/2004/08/25/are-hunter-gatherer-diets-better-for-you/index.html
+layout: layout.njk
 ---
 Are Hunter-Gatherer Diets Better For You?
 =========================================

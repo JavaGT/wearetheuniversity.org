@@ -1,9 +1,12 @@
 ---
 slug: hide-prosperity-and-how-to-achieve-it
-title: "Hide: Prosperity and how to achieve it"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/PA0502/S00515/hide-prosperity-and-how-to-achieve-it.htm
+title: 'Hide: Prosperity and how to achieve it'
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00515/hide-prosperity-and-how-to-achieve-it.htm
 author: act-new-zealand
+permalink: /archive/2005/02/24/hide-prosperity-and-how-to-achieve-it/index.html
+layout: layout.njk
 ---
 Hide: Prosperity and how to achieve it
 ======================================

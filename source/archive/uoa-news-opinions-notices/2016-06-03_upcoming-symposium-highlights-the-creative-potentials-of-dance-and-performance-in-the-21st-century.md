@@ -1,8 +1,15 @@
 ---
-slug: upcoming-symposium-highlights-the-creative-potentials-of-dance-and-performance-in-the-21st-century
-title: "Upcoming symposium highlights the creative potentials of dance and performance in the 21st Century"
-date: 2016-06-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/upcoming-symposium-highlights-the-creative-potentials-of-dance-a.html
+slug: >-
+  upcoming-symposium-highlights-the-creative-potentials-of-dance-and-performance-in-the-21st-century
+title: >-
+  Upcoming symposium highlights the creative potentials of dance and performance
+  in the 21st Century
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/upcoming-symposium-highlights-the-creative-potentials-of-dance-a.html
+permalink: >-
+  /archive/2016/06/03/upcoming-symposium-highlights-the-creative-potentials-of-dance-and-performance-in-the-21st-century/index.html
+layout: layout.njk
 ---
 Upcoming symposium highlights the creative potentials of dance and performance in the 21st Century
 ==================================================================================================

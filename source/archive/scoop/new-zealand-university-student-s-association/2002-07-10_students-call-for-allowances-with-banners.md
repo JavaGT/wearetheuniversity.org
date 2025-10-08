@@ -1,9 +1,12 @@
 ---
 slug: students-call-for-allowances-with-banners
-title: "Students Call For Allowances With Banners"
-date: 2002-07-10
-source-url: https://www.scoop.co.nz/stories/ED0207/S00014/students-call-for-allowances-with-banners.htm
+title: Students Call For Allowances With Banners
+date: 2002-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00014/students-call-for-allowances-with-banners.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/07/10/students-call-for-allowances-with-banners/index.html
+layout: layout.njk
 ---
 Students Call For Allowances With Banners
 =========================================

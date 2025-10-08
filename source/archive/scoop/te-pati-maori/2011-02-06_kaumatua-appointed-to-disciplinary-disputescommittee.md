@@ -1,9 +1,13 @@
 ---
 slug: kaumatua-appointed-to-disciplinary-disputescommittee
-title: "Kaumatua appointed to Disciplinary/DisputesCommittee"
-date: 2011-02-06
-source-url: https://www.scoop.co.nz/stories/PO1102/S00051/kaumatua-appointed-to-disciplinarydisputescommittee.htm
+title: Kaumatua appointed to Disciplinary/DisputesCommittee
+date: 2011-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1102/S00051/kaumatua-appointed-to-disciplinarydisputescommittee.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/02/06/kaumatua-appointed-to-disciplinary-disputescommittee/index.html
+layout: layout.njk
 ---
 Kaumatua appointed to Disciplinary/DisputesCommittee
 ====================================================

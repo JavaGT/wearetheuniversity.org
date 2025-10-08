@@ -1,9 +1,12 @@
 ---
 slug: cost-of-living-too-much-for-poorest-families
-title: "Cost of living too much for poorest families"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PA1109/S00239/cost-of-living-too-much-for-poorest-families.htm
+title: Cost of living too much for poorest families
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00239/cost-of-living-too-much-for-poorest-families.htm
 author: green-party
+permalink: /archive/2011/09/13/cost-of-living-too-much-for-poorest-families/index.html
+layout: layout.njk
 ---
 Cost of living too much for poorest families
 ============================================

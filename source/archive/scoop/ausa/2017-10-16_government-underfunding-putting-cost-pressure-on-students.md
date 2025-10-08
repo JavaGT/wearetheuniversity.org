@@ -1,9 +1,13 @@
 ---
 slug: government-underfunding-putting-cost-pressure-on-students
-title: "Government Underfunding Putting Cost Pressure on Students"
-date: 2017-10-16
-source-url: https://www.scoop.co.nz/stories/ED1710/S00044/government-underfunding-putting-cost-pressure-on-students.htm
+title: Government Underfunding Putting Cost Pressure on Students
+date: 2017-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00044/government-underfunding-putting-cost-pressure-on-students.htm
 author: ausa
+permalink: >-
+  /archive/2017/10/16/government-underfunding-putting-cost-pressure-on-students/index.html
+layout: layout.njk
 ---
 Government Underfunding Putting Cost Pressure on Students
 =========================================================

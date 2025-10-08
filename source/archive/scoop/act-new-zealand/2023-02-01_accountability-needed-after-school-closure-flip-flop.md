@@ -1,9 +1,13 @@
 ---
 slug: accountability-needed-after-school-closure-flip-flop
-title: "Accountability Needed After School Closure Flip Flop"
-date: 2023-02-01
-source-url: https://www.scoop.co.nz/stories/PA2302/S00009/accountability-needed-after-school-closure-flip-flop.htm
+title: Accountability Needed After School Closure Flip Flop
+date: 2023-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00009/accountability-needed-after-school-closure-flip-flop.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/02/01/accountability-needed-after-school-closure-flip-flop/index.html
+layout: layout.njk
 ---
 Accountability Needed After School Closure Flip Flop
 ====================================================

@@ -1,8 +1,12 @@
 ---
 slug: international-accolade-for-director-of-the-bioengineering-institute
-title: "International accolade for director of the Bioengineering Institute"
-date: 2017-06-26
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/accolade-for-director-of-bioengineering.html
+title: International accolade for director of the Bioengineering Institute
+date: 2017-06-26T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/06/accolade-for-director-of-bioengineering.html
+permalink: >-
+  /archive/2017/06/26/international-accolade-for-director-of-the-bioengineering-institute/index.html
+layout: layout.njk
 ---
 International accolade for director of the Bioengineering Institute
 ===================================================================

@@ -1,9 +1,12 @@
 ---
 slug: govt-undermining-brand-new-zealand-on-ge
-title: "Govt undermining brand New Zealand on GE"
-date: 2013-12-02
-source-url: https://www.scoop.co.nz/stories/PA1312/S00010/govt-undermining-brand-new-zealand-on-ge.htm
+title: Govt undermining brand New Zealand on GE
+date: 2013-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00010/govt-undermining-brand-new-zealand-on-ge.htm
 author: green-party
+permalink: /archive/2013/12/02/govt-undermining-brand-new-zealand-on-ge/index.html
+layout: layout.njk
 ---
 Govt undermining brand New Zealand on GE
 ========================================

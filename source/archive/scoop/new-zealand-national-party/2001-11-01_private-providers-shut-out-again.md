@@ -1,9 +1,12 @@
 ---
 slug: private-providers-shut-out-again
-title: "Private providers shut out - again"
-date: 2001-11-01
-source-url: https://www.scoop.co.nz/stories/PA0111/S00026/private-providers-shut-out-again.htm
+title: Private providers shut out - again
+date: 2001-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00026/private-providers-shut-out-again.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/01/private-providers-shut-out-again/index.html
+layout: layout.njk
 ---
 Private providers shut out - again
 ==================================

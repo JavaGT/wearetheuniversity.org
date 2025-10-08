@@ -1,9 +1,13 @@
 ---
 slug: students-e-cigarette-use-increases-after-legalisation
-title: "Students’ E-cigarette Use Increases After Legalisation"
-date: 2021-10-13
-source-url: https://www.scoop.co.nz/stories/SC2110/S00036/students-e-cigarette-use-increases-after-legalisation.htm
+title: Students’ E-cigarette Use Increases After Legalisation
+date: 2021-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2110/S00036/students-e-cigarette-use-increases-after-legalisation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/10/13/students-e-cigarette-use-increases-after-legalisation/index.html
+layout: layout.njk
 ---
 Students’ E-cigarette Use Increases After Legalisation
 ======================================================

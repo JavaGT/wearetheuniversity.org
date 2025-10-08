@@ -1,9 +1,12 @@
 ---
 slug: falealii-prime-candidate-for-life-means-life
-title: "Falealii Prime Candidate For Life Means Life"
-date: 2002-07-19
-source-url: https://www.scoop.co.nz/stories/PA0207/S00535/falealii-prime-candidate-for-life-means-life.htm
+title: Falealii Prime Candidate For Life Means Life
+date: 2002-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00535/falealii-prime-candidate-for-life-means-life.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/19/falealii-prime-candidate-for-life-means-life/index.html
+layout: layout.njk
 ---
 Falealii Prime Candidate For Life Means Life
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-tertiary-education-funding-a-short-history
-title: "NZ Tertiary Education Funding - A Short History"
-date: 2009-04-27
-source-url: https://www.scoop.co.nz/stories/ED0904/S00057/nz-tertiary-education-funding-a-short-history.htm
+title: NZ Tertiary Education Funding - A Short History
+date: 2009-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00057/nz-tertiary-education-funding-a-short-history.htm
 author: salient
+permalink: /archive/2009/04/27/nz-tertiary-education-funding-a-short-history/index.html
+layout: layout.njk
 ---
 NZ Tertiary Education Funding - A Short History
 ===============================================

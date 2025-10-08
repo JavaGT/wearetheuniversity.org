@@ -1,9 +1,13 @@
 ---
 slug: $4-2m-grant-funds-new-directions-for-research-centre
-title: "$4.2m grant funds new directions for research centre"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/SC1206/S00016/42m-grant-funds-new-directions-for-research-centre.htm
+title: $4.2m grant funds new directions for research centre
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1206/S00016/42m-grant-funds-new-directions-for-research-centre.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/06/07/4-2m-grant-funds-new-directions-for-research-centre/index.html
+layout: layout.njk
 ---
 $4.2m grant funds new directions for research centre
 ====================================================

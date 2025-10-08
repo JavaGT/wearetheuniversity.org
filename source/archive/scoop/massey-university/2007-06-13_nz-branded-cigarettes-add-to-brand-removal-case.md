@@ -1,9 +1,12 @@
 ---
 slug: nz-branded-cigarettes-add-to-brand-removal-case
-title: "NZ-branded cigarettes add to brand removal case"
-date: 2007-06-13
-source-url: https://www.scoop.co.nz/stories/PO0706/S00173/nz-branded-cigarettes-add-to-brand-removal-case.htm
+title: NZ-branded cigarettes add to brand removal case
+date: 2007-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0706/S00173/nz-branded-cigarettes-add-to-brand-removal-case.htm
 author: massey-university
+permalink: /archive/2007/06/13/nz-branded-cigarettes-add-to-brand-removal-case/index.html
+layout: layout.njk
 ---
 NZ-branded cigarettes add to brand removal case
 ===============================================

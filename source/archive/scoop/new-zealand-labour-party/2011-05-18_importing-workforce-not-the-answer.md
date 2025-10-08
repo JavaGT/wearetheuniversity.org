@@ -1,9 +1,12 @@
 ---
 slug: importing-workforce-not-the-answer
-title: "Importing workforce not the answer"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/PA1105/S00387/importing-workforce-not-the-answer.htm
+title: Importing workforce not the answer
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00387/importing-workforce-not-the-answer.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/18/importing-workforce-not-the-answer/index.html
+layout: layout.njk
 ---
 Importing workforce not the answer
 ==================================

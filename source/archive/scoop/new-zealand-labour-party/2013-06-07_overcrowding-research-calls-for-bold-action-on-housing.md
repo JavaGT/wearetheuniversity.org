@@ -1,9 +1,13 @@
 ---
 slug: overcrowding-research-calls-for-bold-action-on-housing
-title: "Overcrowding research calls for bold action on housing"
-date: 2013-06-07
-source-url: https://www.scoop.co.nz/stories/PA1306/S00118/overcrowding-research-calls-for-bold-action-on-housing.htm
+title: Overcrowding research calls for bold action on housing
+date: 2013-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00118/overcrowding-research-calls-for-bold-action-on-housing.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/06/07/overcrowding-research-calls-for-bold-action-on-housing/index.html
+layout: layout.njk
 ---
 Overcrowding research calls for bold action on housing
 ======================================================

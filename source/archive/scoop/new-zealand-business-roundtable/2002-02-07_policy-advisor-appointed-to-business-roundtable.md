@@ -1,9 +1,12 @@
 ---
 slug: policy-advisor-appointed-to-business-roundtable
-title: "Policy Advisor Appointed To Business Roundtable"
-date: 2002-02-07
-source-url: https://www.scoop.co.nz/stories/BU0202/S00038/policy-advisor-appointed-to-business-roundtable.htm
+title: Policy Advisor Appointed To Business Roundtable
+date: 2002-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0202/S00038/policy-advisor-appointed-to-business-roundtable.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2002/02/07/policy-advisor-appointed-to-business-roundtable/index.html
+layout: layout.njk
 ---
 Policy Advisor Appointed To Business Roundtable
 ===============================================

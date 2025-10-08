@@ -1,9 +1,13 @@
 ---
 slug: jo-goodhew-address-to-college-of-general-practice
-title: "Jo Goodhew Address To College Of General Practice"
-date: 2008-07-20
-source-url: https://www.scoop.co.nz/stories/PA0807/S00350/jo-goodhew-address-to-college-of-general-practice.htm
+title: Jo Goodhew Address To College Of General Practice
+date: 2008-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00350/jo-goodhew-address-to-college-of-general-practice.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/07/20/jo-goodhew-address-to-college-of-general-practice/index.html
+layout: layout.njk
 ---
 Jo Goodhew Address To College Of General Practice
 =================================================

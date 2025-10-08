@@ -1,9 +1,13 @@
 ---
 slug: why-is-national-copying-australias-failed-highway-ppps
-title: "Why is National copying Australia’s failed highway PPPs?"
-date: 2012-09-06
-source-url: https://www.scoop.co.nz/stories/PA1209/S00070/why-is-national-copying-australias-failed-highway-ppps.htm
+title: Why is National copying Australia’s failed highway PPPs?
+date: 2012-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00070/why-is-national-copying-australias-failed-highway-ppps.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/06/why-is-national-copying-australias-failed-highway-ppps/index.html
+layout: layout.njk
 ---
 Why is National copying Australia’s failed highway PPPs?
 ========================================================

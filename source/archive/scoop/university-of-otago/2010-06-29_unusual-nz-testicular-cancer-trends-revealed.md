@@ -1,9 +1,12 @@
 ---
 slug: unusual-nz-testicular-cancer-trends-revealed
-title: "Unusual NZ testicular cancer trends revealed"
-date: 2010-06-29
-source-url: https://www.scoop.co.nz/stories/GE1006/S00114/unusual-nz-testicular-cancer-trends-revealed.htm
+title: Unusual NZ testicular cancer trends revealed
+date: 2010-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1006/S00114/unusual-nz-testicular-cancer-trends-revealed.htm
 author: university-of-otago
+permalink: /archive/2010/06/29/unusual-nz-testicular-cancer-trends-revealed/index.html
+layout: layout.njk
 ---
 Unusual NZ testicular cancer trends revealed
 ============================================

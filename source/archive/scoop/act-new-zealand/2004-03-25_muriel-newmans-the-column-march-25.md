@@ -1,9 +1,12 @@
 ---
 slug: muriel-newmans-the-column-march-25
-title: "Muriel Newman’s The Column - March 25"
-date: 2004-03-25
-source-url: https://www.scoop.co.nz/stories/PA0403/S00563/muriel-newmans-the-column-march-25.htm
+title: Muriel Newman’s The Column - March 25
+date: 2004-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00563/muriel-newmans-the-column-march-25.htm
 author: act-new-zealand
+permalink: /archive/2004/03/25/muriel-newmans-the-column-march-25/index.html
+layout: layout.njk
 ---
 Muriel Newman’s The Column - March 25
 =====================================

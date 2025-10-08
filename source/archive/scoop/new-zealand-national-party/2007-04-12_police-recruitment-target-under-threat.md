@@ -1,9 +1,12 @@
 ---
 slug: police-recruitment-target-under-threat
-title: "Police recruitment target under threat"
-date: 2007-04-12
-source-url: https://www.scoop.co.nz/stories/PA0704/S00210/police-recruitment-target-under-threat.htm
+title: Police recruitment target under threat
+date: 2007-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00210/police-recruitment-target-under-threat.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/12/police-recruitment-target-under-threat/index.html
+layout: layout.njk
 ---
 Police recruitment target under threat
 ======================================

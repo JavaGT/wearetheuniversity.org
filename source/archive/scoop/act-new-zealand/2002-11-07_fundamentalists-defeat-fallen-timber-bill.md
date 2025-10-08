@@ -1,9 +1,12 @@
 ---
 slug: fundamentalists-defeat-fallen-timber-bill
-title: "Fundamentalists Defeat Fallen Timber Bill"
-date: 2002-11-07
-source-url: https://www.scoop.co.nz/stories/PA0211/S00153/fundamentalists-defeat-fallen-timber-bill.htm
+title: Fundamentalists Defeat Fallen Timber Bill
+date: 2002-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00153/fundamentalists-defeat-fallen-timber-bill.htm
 author: act-new-zealand
+permalink: /archive/2002/11/07/fundamentalists-defeat-fallen-timber-bill/index.html
+layout: layout.njk
 ---
 Fundamentalists Defeat Fallen Timber Bill
 =========================================

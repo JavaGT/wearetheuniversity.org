@@ -1,9 +1,12 @@
 ---
 slug: research-to-improve-web-search
-title: "Research to improve web search"
-date: 2012-01-16
-source-url: https://www.scoop.co.nz/stories/ED1201/S00013/research-to-improve-web-search.htm
+title: Research to improve web search
+date: 2012-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00013/research-to-improve-web-search.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/01/16/research-to-improve-web-search/index.html
+layout: layout.njk
 ---
 Research to improve web search
 ==============================

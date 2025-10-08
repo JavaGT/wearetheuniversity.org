@@ -1,9 +1,12 @@
 ---
 slug: buck-stops-with-gerry-brownlee
-title: "Buck stops with Gerry Brownlee"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/PA1704/S00141/buck-stops-with-gerry-brownlee.htm
+title: Buck stops with Gerry Brownlee
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00141/buck-stops-with-gerry-brownlee.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/11/buck-stops-with-gerry-brownlee/index.html
+layout: layout.njk
 ---
 Buck stops with Gerry Brownlee
 ==============================

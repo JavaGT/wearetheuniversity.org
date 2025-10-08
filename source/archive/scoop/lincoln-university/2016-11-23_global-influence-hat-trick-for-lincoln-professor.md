@@ -1,9 +1,13 @@
 ---
 slug: global-influence-hat-trick-for-lincoln-professor
-title: "Global influence hat trick for Lincoln professor"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/SC1611/S00072/global-influence-hat-trick-for-lincoln-professor.htm
+title: Global influence hat trick for Lincoln professor
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00072/global-influence-hat-trick-for-lincoln-professor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2016/11/23/global-influence-hat-trick-for-lincoln-professor/index.html
+layout: layout.njk
 ---
 Global influence hat trick for Lincoln professor
 ================================================

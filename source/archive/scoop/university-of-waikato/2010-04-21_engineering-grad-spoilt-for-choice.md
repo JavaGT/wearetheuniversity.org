@@ -1,9 +1,12 @@
 ---
 slug: engineering-grad-spoilt-for-choice
-title: "Engineering grad spoilt for choice"
-date: 2010-04-21
-source-url: https://www.scoop.co.nz/stories/ED1004/S00056/engineering-grad-spoilt-for-choice.htm
+title: Engineering grad spoilt for choice
+date: 2010-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00056/engineering-grad-spoilt-for-choice.htm
 author: university-of-waikato
+permalink: /archive/2010/04/21/engineering-grad-spoilt-for-choice/index.html
+layout: layout.njk
 ---
 Engineering grad spoilt for choice
 ==================================

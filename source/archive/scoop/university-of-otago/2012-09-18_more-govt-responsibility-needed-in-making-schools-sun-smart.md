@@ -1,9 +1,13 @@
 ---
 slug: more-govt-responsibility-needed-in-making-schools-sun-smart
-title: "More govt responsibility needed in making schools sun-smart"
-date: 2012-09-18
-source-url: https://www.scoop.co.nz/stories/GE1209/S00073/more-govt-responsibility-needed-in-making-schools-sun-smart.htm
+title: More govt responsibility needed in making schools sun-smart
+date: 2012-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1209/S00073/more-govt-responsibility-needed-in-making-schools-sun-smart.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/09/18/more-govt-responsibility-needed-in-making-schools-sun-smart/index.html
+layout: layout.njk
 ---
 More govt responsibility needed in making schools sun-smart
 ===========================================================

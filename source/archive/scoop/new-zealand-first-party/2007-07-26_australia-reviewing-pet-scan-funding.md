@@ -1,9 +1,12 @@
 ---
 slug: australia-reviewing-pet-scan-funding
-title: "Australia Reviewing Pet Scan Funding"
-date: 2007-07-26
-source-url: https://www.scoop.co.nz/stories/PA0707/S00449/australia-reviewing-pet-scan-funding.htm
+title: Australia Reviewing Pet Scan Funding
+date: 2007-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00449/australia-reviewing-pet-scan-funding.htm
 author: new-zealand-first-party
+permalink: /archive/2007/07/26/australia-reviewing-pet-scan-funding/index.html
+layout: layout.njk
 ---
 Australia Reviewing Pet Scan Funding
 ====================================

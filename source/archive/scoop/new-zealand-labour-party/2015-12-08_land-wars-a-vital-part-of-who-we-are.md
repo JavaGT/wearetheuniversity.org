@@ -1,9 +1,12 @@
 ---
 slug: land-wars-a-vital-part-of-who-we-are
-title: "Land wars a vital part of who we are"
-date: 2015-12-08
-source-url: https://www.scoop.co.nz/stories/PA1512/S00184/land-wars-a-vital-part-of-who-we-are.htm
+title: Land wars a vital part of who we are
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00184/land-wars-a-vital-part-of-who-we-are.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/08/land-wars-a-vital-part-of-who-we-are/index.html
+layout: layout.njk
 ---
 Land wars a vital part of who we are
 ====================================

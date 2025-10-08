@@ -1,9 +1,13 @@
 ---
 slug: canterbury-aid-worker-distributing-philipines-relief
-title: "Canterbury aid worker distributing Philipines relief"
-date: 2014-12-10
-source-url: https://www.scoop.co.nz/stories/ED1412/S00073/canterbury-aid-worker-distributing-philipines-relief.htm
+title: Canterbury aid worker distributing Philipines relief
+date: 2014-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00073/canterbury-aid-worker-distributing-philipines-relief.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/10/canterbury-aid-worker-distributing-philipines-relief/index.html
+layout: layout.njk
 ---
 Canterbury aid worker distributing Philipines relief
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: maori-party-warns-tangata-whenua
-title: "Maori Party Warns Tangata Whenua"
-date: 2006-09-13
-source-url: https://www.scoop.co.nz/stories/PA0609/S00299/maori-party-warns-tangata-whenua.htm
+title: Maori Party Warns Tangata Whenua
+date: 2006-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00299/maori-party-warns-tangata-whenua.htm
 author: te-pati-maori
+permalink: /archive/2006/09/13/maori-party-warns-tangata-whenua/index.html
+layout: layout.njk
 ---
 Maori Party Warns Tangata Whenua
 ================================

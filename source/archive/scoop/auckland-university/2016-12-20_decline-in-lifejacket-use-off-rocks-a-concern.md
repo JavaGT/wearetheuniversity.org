@@ -1,9 +1,12 @@
 ---
 slug: decline-in-lifejacket-use-off-rocks-a-concern
-title: "Decline in lifejacket use off rocks a concern"
-date: 2016-12-20
-source-url: https://www.scoop.co.nz/stories/ED1612/S00075/decline-in-lifejacket-use-off-rocks-a-concern.htm
+title: Decline in lifejacket use off rocks a concern
+date: 2016-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00075/decline-in-lifejacket-use-off-rocks-a-concern.htm
 author: auckland-university
+permalink: /archive/2016/12/20/decline-in-lifejacket-use-off-rocks-a-concern/index.html
+layout: layout.njk
 ---
 Decline in lifejacket use off rocks a concern
 =============================================

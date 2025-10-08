@@ -1,9 +1,13 @@
 ---
 slug: uc-graduate-and-successful-business-entrepreneur-in-nz-final
-title: "UC graduate and successful business entrepreneur in NZ final"
-date: 2013-08-23
-source-url: https://www.scoop.co.nz/stories/BU1308/S00895/uc-graduate-and-successful-business-entrepreneur-in-nz-final.htm
+title: UC graduate and successful business entrepreneur in NZ final
+date: 2013-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S00895/uc-graduate-and-successful-business-entrepreneur-in-nz-final.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/23/uc-graduate-and-successful-business-entrepreneur-in-nz-final/index.html
+layout: layout.njk
 ---
 UC graduate and successful business entrepreneur in NZ final
 ============================================================

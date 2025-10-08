@@ -1,9 +1,13 @@
 ---
 slug: government-housing-failure-forces-up-interest-rates
-title: "Government housing failure forces up interest rates"
-date: 2014-03-13
-source-url: https://www.scoop.co.nz/stories/PA1403/S00230/government-housing-failure-forces-up-interest-rates.htm
+title: Government housing failure forces up interest rates
+date: 2014-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00230/government-housing-failure-forces-up-interest-rates.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/03/13/government-housing-failure-forces-up-interest-rates/index.html
+layout: layout.njk
 ---
 Government housing failure forces up interest rates
 ===================================================

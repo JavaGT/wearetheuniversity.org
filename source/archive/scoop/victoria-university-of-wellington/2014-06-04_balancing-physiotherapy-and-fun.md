@@ -1,9 +1,12 @@
 ---
 slug: balancing-physiotherapy-and-fun
-title: "Balancing physiotherapy and fun"
-date: 2014-06-04
-source-url: https://www.scoop.co.nz/stories/GE1406/S00008/balancing-physiotherapy-and-fun.htm
+title: Balancing physiotherapy and fun
+date: 2014-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1406/S00008/balancing-physiotherapy-and-fun.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/04/balancing-physiotherapy-and-fun/index.html
+layout: layout.njk
 ---
 Balancing physiotherapy and fun
 ===============================

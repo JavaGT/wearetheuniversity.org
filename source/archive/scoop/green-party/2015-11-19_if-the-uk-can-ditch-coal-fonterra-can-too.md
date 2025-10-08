@@ -1,9 +1,12 @@
 ---
 slug: if-the-uk-can-ditch-coal-fonterra-can-too
-title: "If the UK can ditch coal, Fonterra can too"
-date: 2015-11-19
-source-url: https://www.scoop.co.nz/stories/PA1511/S00355/if-the-uk-can-ditch-coal-fonterra-can-too.htm
+title: If the UK can ditch coal, Fonterra can too
+date: 2015-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00355/if-the-uk-can-ditch-coal-fonterra-can-too.htm
 author: green-party
+permalink: /archive/2015/11/19/if-the-uk-can-ditch-coal-fonterra-can-too/index.html
+layout: layout.njk
 ---
 If the UK can ditch coal, Fonterra can too
 ==========================================

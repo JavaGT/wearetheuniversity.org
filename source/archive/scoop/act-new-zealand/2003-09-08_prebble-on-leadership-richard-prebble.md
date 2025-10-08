@@ -1,9 +1,12 @@
 ---
 slug: prebble-on-leadership-richard-prebble
-title: "Prebble On Leadership -- Richard Prebble"
-date: 2003-09-08
-source-url: https://www.scoop.co.nz/stories/PA0309/S00148/prebble-on-leadership-richard-prebble.htm
+title: Prebble On Leadership -- Richard Prebble
+date: 2003-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00148/prebble-on-leadership-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/2003/09/08/prebble-on-leadership-richard-prebble/index.html
+layout: layout.njk
 ---
 Prebble On Leadership -- Richard Prebble
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: can-kiwi-companies-compete-in-staff-development
-title: "Can Kiwi companies compete in staff development?"
-date: 2017-03-06
-source-url: https://www.scoop.co.nz/stories/BU1703/S00176/can-kiwi-companies-compete-in-staff-development.htm
+title: Can Kiwi companies compete in staff development?
+date: 2017-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1703/S00176/can-kiwi-companies-compete-in-staff-development.htm
 author: massey-university
+permalink: /archive/2017/03/06/can-kiwi-companies-compete-in-staff-development/index.html
+layout: layout.njk
 ---
 Can Kiwi companies compete in staff development?
 ================================================

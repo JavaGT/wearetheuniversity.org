@@ -1,9 +1,13 @@
 ---
 slug: government-should-adopt-the-mr-whippy-business-model
-title: "Government should adopt the Mr Whippy business model"
-date: 2021-09-14
-source-url: https://www.scoop.co.nz/stories/PA2109/S00122/government-should-adopt-the-mr-whippy-business-model.htm
+title: Government should adopt the Mr Whippy business model
+date: 2021-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00122/government-should-adopt-the-mr-whippy-business-model.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/09/14/government-should-adopt-the-mr-whippy-business-model/index.html
+layout: layout.njk
 ---
 Government should adopt the Mr Whippy business model
 ====================================================

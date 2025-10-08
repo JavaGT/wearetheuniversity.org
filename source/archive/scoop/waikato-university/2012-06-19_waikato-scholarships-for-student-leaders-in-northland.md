@@ -1,9 +1,13 @@
 ---
 slug: waikato-scholarships-for-student-leaders-in-northland
-title: "Waikato scholarships for student leaders in Northland"
-date: 2012-06-19
-source-url: https://www.scoop.co.nz/stories/ED1206/S00078/waikato-scholarships-for-student-leaders-in-northland.htm
+title: Waikato scholarships for student leaders in Northland
+date: 2012-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00078/waikato-scholarships-for-student-leaders-in-northland.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/06/19/waikato-scholarships-for-student-leaders-in-northland/index.html
+layout: layout.njk
 ---
 Waikato scholarships for student leaders in Northland
 =====================================================

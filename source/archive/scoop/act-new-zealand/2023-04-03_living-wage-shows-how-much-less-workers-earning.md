@@ -1,9 +1,12 @@
 ---
 slug: living-wage-shows-how-much-less-workers-earning
-title: "Living Wage Shows How Much Less Workers Earning"
-date: 2023-04-03
-source-url: https://www.scoop.co.nz/stories/PA2304/S00007/living-wage-shows-how-much-less-workers-earning.htm
+title: Living Wage Shows How Much Less Workers Earning
+date: 2023-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00007/living-wage-shows-how-much-less-workers-earning.htm
 author: act-new-zealand
+permalink: /archive/2023/04/03/living-wage-shows-how-much-less-workers-earning/index.html
+layout: layout.njk
 ---
 Living Wage Shows How Much Less Workers Earning
 ===============================================

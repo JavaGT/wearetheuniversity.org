@@ -1,9 +1,12 @@
 ---
 slug: student-loan-election-bribe-will-haunt-labour
-title: "Student Loan Election Bribe Will Haunt Labour"
-date: 2000-06-02
-source-url: https://www.scoop.co.nz/stories/PA0006/S00050/student-loan-election-bribe-will-haunt-labour.htm
+title: Student Loan Election Bribe Will Haunt Labour
+date: 2000-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00050/student-loan-election-bribe-will-haunt-labour.htm
 author: act-new-zealand
+permalink: /archive/2000/06/02/student-loan-election-bribe-will-haunt-labour/index.html
+layout: layout.njk
 ---
 Student Loan Election Bribe Will Haunt Labour
 =============================================

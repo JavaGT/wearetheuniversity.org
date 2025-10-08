@@ -1,9 +1,12 @@
 ---
 slug: otago-honours-academic-leader-and-govt-advisor
-title: "Otago Honours Academic Leader and Govt Advisor"
-date: 2006-12-14
-source-url: https://www.scoop.co.nz/stories/ED0612/S00042/otago-honours-academic-leader-and-govt-advisor.htm
+title: Otago Honours Academic Leader and Govt Advisor
+date: 2006-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00042/otago-honours-academic-leader-and-govt-advisor.htm
 author: university-of-otago
+permalink: /archive/2006/12/14/otago-honours-academic-leader-and-govt-advisor/index.html
+layout: layout.njk
 ---
 Otago Honours Academic Leader and Govt Advisor
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-runners-up
-title: "Victoria University Runners-Up"
-date: 2009-07-15
-source-url: https://www.scoop.co.nz/stories/CU0907/S00190/victoria-university-runners-up.htm
+title: Victoria University Runners-Up
+date: 2009-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00190/victoria-university-runners-up.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/15/victoria-university-runners-up/index.html
+layout: layout.njk
 ---
 Victoria University Runners-Up
 ==============================

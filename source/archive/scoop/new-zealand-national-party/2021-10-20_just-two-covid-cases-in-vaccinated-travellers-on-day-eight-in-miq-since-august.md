@@ -1,9 +1,13 @@
 ---
 slug: just-two-covid-cases-in-vaccinated-travellers-on-day-eight-in-miq-since-august
-title: "Just Two Covid Cases In Vaccinated Travellers On Day Eight In MIQ Since August"
-date: 2021-10-20
-source-url: https://www.scoop.co.nz/stories/PA2110/S00199/just-two-covid-cases-in-vaccinated-travellers-on-day-eight-in-miq-since-august.htm
+title: Just Two Covid Cases In Vaccinated Travellers On Day Eight In MIQ Since August
+date: 2021-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00199/just-two-covid-cases-in-vaccinated-travellers-on-day-eight-in-miq-since-august.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/20/just-two-covid-cases-in-vaccinated-travellers-on-day-eight-in-miq-since-august/index.html
+layout: layout.njk
 ---
 Just Two Covid Cases In Vaccinated Travellers On Day Eight In MIQ Since August
 ==============================================================================

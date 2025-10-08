@@ -1,9 +1,12 @@
 ---
 slug: buchanan-dismissal-unjustified-says-era
-title: "Buchanan dismissal unjustified, says ERA"
-date: 2008-03-27
-source-url: https://www.scoop.co.nz/stories/ED0803/S00065/buchanan-dismissal-unjustified-says-era.htm
+title: Buchanan dismissal unjustified, says ERA
+date: 2008-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00065/buchanan-dismissal-unjustified-says-era.htm
 author: association-of-university-staff
+permalink: /archive/2008/03/27/buchanan-dismissal-unjustified-says-era/index.html
+layout: layout.njk
 ---
 Buchanan dismissal unjustified, says ERA
 ========================================

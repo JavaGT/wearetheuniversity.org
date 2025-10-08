@@ -1,9 +1,12 @@
 ---
 slug: bill-provides-for-redundancy-notice-and-pay
-title: "Bill provides for redundancy notice and pay"
-date: 2009-05-24
-source-url: https://www.scoop.co.nz/stories/PA0905/S00412/bill-provides-for-redundancy-notice-and-pay.htm
+title: Bill provides for redundancy notice and pay
+date: 2009-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00412/bill-provides-for-redundancy-notice-and-pay.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/24/bill-provides-for-redundancy-notice-and-pay/index.html
+layout: layout.njk
 ---
 Bill provides for redundancy notice and pay
 ===========================================

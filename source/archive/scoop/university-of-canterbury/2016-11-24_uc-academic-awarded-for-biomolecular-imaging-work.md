@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-awarded-for-biomolecular-imaging-work
-title: "UC academic awarded for biomolecular imaging work"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/SC1611/S00075/uc-academic-awarded-for-biomolecular-imaging-work.htm
+title: UC academic awarded for biomolecular imaging work
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00075/uc-academic-awarded-for-biomolecular-imaging-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/11/24/uc-academic-awarded-for-biomolecular-imaging-work/index.html
+layout: layout.njk
 ---
 UC academic awarded for biomolecular imaging work
 =================================================

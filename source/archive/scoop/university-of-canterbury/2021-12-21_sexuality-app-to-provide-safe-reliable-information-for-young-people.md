@@ -1,9 +1,13 @@
 ---
 slug: sexuality-app-to-provide-safe-reliable-information-for-young-people
-title: "Sexuality App To Provide Safe, Reliable Information For Young People"
-date: 2021-12-21
-source-url: https://www.scoop.co.nz/stories/ED2112/S00036/sexuality-app-to-provide-safe-reliable-information-for-young-people.htm
+title: Sexuality App To Provide Safe, Reliable Information For Young People
+date: 2021-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00036/sexuality-app-to-provide-safe-reliable-information-for-young-people.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/12/21/sexuality-app-to-provide-safe-reliable-information-for-young-people/index.html
+layout: layout.njk
 ---
 Sexuality App To Provide Safe, Reliable Information For Young People
 ====================================================================

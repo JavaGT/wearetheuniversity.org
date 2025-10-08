@@ -1,9 +1,13 @@
 ---
 slug: james-shaws-speech-to-the-nz-council-of-trade-unions
-title: "James Shaw’s speech to the NZ Council of Trade Unions"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00232/james-shaws-speech-to-the-nz-council-of-trade-unions.htm
+title: James Shaw’s speech to the NZ Council of Trade Unions
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00232/james-shaws-speech-to-the-nz-council-of-trade-unions.htm
 author: green-party
+permalink: >-
+  /archive/2015/10/15/james-shaws-speech-to-the-nz-council-of-trade-unions/index.html
+layout: layout.njk
 ---
 James Shaw’s speech to the NZ Council of Trade Unions
 =====================================================

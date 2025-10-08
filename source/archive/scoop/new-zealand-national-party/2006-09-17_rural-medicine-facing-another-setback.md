@@ -1,9 +1,12 @@
 ---
 slug: rural-medicine-facing-another-setback
-title: "Rural medicine facing another setback"
-date: 2006-09-17
-source-url: https://www.scoop.co.nz/stories/PA0609/S00389/rural-medicine-facing-another-setback.htm
+title: Rural medicine facing another setback
+date: 2006-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00389/rural-medicine-facing-another-setback.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/17/rural-medicine-facing-another-setback/index.html
+layout: layout.njk
 ---
 Rural medicine facing another setback
 =====================================

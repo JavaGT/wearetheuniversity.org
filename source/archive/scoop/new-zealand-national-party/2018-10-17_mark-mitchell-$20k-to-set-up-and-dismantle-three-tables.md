@@ -1,9 +1,12 @@
 ---
 slug: mark-mitchell-$20k-to-set-up-and-dismantle-three-tables
-title: "Mark Mitchell - $20k to set up and dismantle three tables"
-date: 2018-10-17
-source-url: https://www.scoop.co.nz/stories/PA1810/S00155/mark-mitchell-20k-to-set-up-and-dismantle-three-tables.htm
+title: Mark Mitchell - $20k to set up and dismantle three tables
+date: 2018-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00155/mark-mitchell-20k-to-set-up-and-dismantle-three-tables.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/17/mark-mitchell-/index.html
+layout: layout.njk
 ---
 Mark Mitchell - $20k to set up and dismantle three tables
 =========================================================

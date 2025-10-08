@@ -1,9 +1,12 @@
 ---
 slug: augmented-reality-for-learning-on-the-move
-title: "'Augmented reality' for learning on the move"
-date: 2010-07-05
-source-url: https://www.scoop.co.nz/stories/ED1007/S00018/augmented-reality-for-learning-on-the-move.htm
+title: '''Augmented reality'' for learning on the move'
+date: 2010-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00018/augmented-reality-for-learning-on-the-move.htm
 author: massey-university
+permalink: /archive/2010/07/05/augmented-reality-for-learning-on-the-move/index.html
+layout: layout.njk
 ---
 'Augmented reality' for learning on the move
 ============================================

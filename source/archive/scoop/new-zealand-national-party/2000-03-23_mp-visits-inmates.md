@@ -1,9 +1,11 @@
 ---
 slug: mp-visits-inmates
-title: "MP Visits Inmates"
-date: 2000-03-23
+title: MP Visits Inmates
+date: 2000-03-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0003/S00399/mp-visits-inmates.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/23/mp-visits-inmates/index.html
+layout: layout.njk
 ---
 MP Visits Inmates
 =================

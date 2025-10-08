@@ -1,9 +1,16 @@
 ---
-slug: findings-of-independent-review-into-public-claims-of-racism-at-the-university-of-waikato-released
-title: "Findings Of Independent Review Into Public Claims Of Racism At The University Of Waikato Released"
-date: 2020-09-25
-source-url: https://www.scoop.co.nz/stories/PO2009/S00391/findings-of-independent-review-into-public-claims-of-racism-at-the-university-of-waikato-released.htm
+slug: >-
+  findings-of-independent-review-into-public-claims-of-racism-at-the-university-of-waikato-released
+title: >-
+  Findings Of Independent Review Into Public Claims Of Racism At The University
+  Of Waikato Released
+date: 2020-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2009/S00391/findings-of-independent-review-into-public-claims-of-racism-at-the-university-of-waikato-released.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/09/25/findings-of-independent-review-into-public-claims-of-racism-at-the-university-of-waikato-released/index.html
+layout: layout.njk
 ---
 Findings Of Independent Review Into Public Claims Of Racism At The University Of Waikato Released
 =================================================================================================

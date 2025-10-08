@@ -1,9 +1,12 @@
 ---
 slug: christchurch-nightlife-continues-to-rise
-title: "Christchurch nightlife continues to rise"
-date: 2013-07-30
-source-url: https://www.scoop.co.nz/stories/AK1307/S00757/christchurch-nightlife-continues-to-rise.htm
+title: Christchurch nightlife continues to rise
+date: 2013-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00757/christchurch-nightlife-continues-to-rise.htm
 author: university-of-canterbury
+permalink: /archive/2013/07/30/christchurch-nightlife-continues-to-rise/index.html
+layout: layout.njk
 ---
 Christchurch nightlife continues to rise
 ========================================

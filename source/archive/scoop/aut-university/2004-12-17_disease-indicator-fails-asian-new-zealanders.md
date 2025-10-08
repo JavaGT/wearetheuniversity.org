@@ -1,9 +1,12 @@
 ---
 slug: disease-indicator-fails-asian-new-zealanders
-title: "Disease indicator fails Asian New Zealanders"
-date: 2004-12-17
-source-url: https://www.scoop.co.nz/stories/ED0412/S00066/disease-indicator-fails-asian-new-zealanders.htm
+title: Disease indicator fails Asian New Zealanders
+date: 2004-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00066/disease-indicator-fails-asian-new-zealanders.htm
 author: aut-university
+permalink: /archive/2004/12/17/disease-indicator-fails-asian-new-zealanders/index.html
+layout: layout.njk
 ---
 Disease indicator fails Asian New Zealanders
 ============================================

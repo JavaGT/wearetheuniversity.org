@@ -1,9 +1,12 @@
 ---
 slug: retirement-age-situation-clarified
-title: "Retirement age situation clarified"
-date: 2000-09-08
-source-url: https://www.scoop.co.nz/stories/BU0009/S00036/retirement-age-situation-clarified.htm
+title: Retirement age situation clarified
+date: 2000-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0009/S00036/retirement-age-situation-clarified.htm
 author: association-of-university-staff
+permalink: /archive/2000/09/08/retirement-age-situation-clarified/index.html
+layout: layout.njk
 ---
 Retirement age situation clarified
 ==================================

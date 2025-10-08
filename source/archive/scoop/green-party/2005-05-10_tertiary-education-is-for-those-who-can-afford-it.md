@@ -1,9 +1,13 @@
 ---
 slug: tertiary-education-is-for-those-who-can-afford-it
-title: "Tertiary education is for those who can afford it"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/PA0505/S00223/tertiary-education-is-for-those-who-can-afford-it.htm
+title: Tertiary education is for those who can afford it
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00223/tertiary-education-is-for-those-who-can-afford-it.htm
 author: green-party
+permalink: >-
+  /archive/2005/05/10/tertiary-education-is-for-those-who-can-afford-it/index.html
+layout: layout.njk
 ---
 Tertiary education is for those who can afford it
 =================================================

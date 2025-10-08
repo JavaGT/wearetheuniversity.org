@@ -1,9 +1,13 @@
 ---
 slug: drop-in-unemployment-means-nothing-for-pacific-people
-title: "Drop in Unemployment Means Nothing for Pacific People"
-date: 2013-05-10
-source-url: https://www.scoop.co.nz/stories/PA1305/S00179/drop-in-unemployment-means-nothing-for-pacific-people.htm
+title: Drop in Unemployment Means Nothing for Pacific People
+date: 2013-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00179/drop-in-unemployment-means-nothing-for-pacific-people.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/05/10/drop-in-unemployment-means-nothing-for-pacific-people/index.html
+layout: layout.njk
 ---
 Drop in Unemployment Means Nothing for Pacific People
 =====================================================

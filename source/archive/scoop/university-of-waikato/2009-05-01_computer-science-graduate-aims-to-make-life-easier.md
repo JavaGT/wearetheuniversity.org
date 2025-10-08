@@ -1,9 +1,13 @@
 ---
 slug: computer-science-graduate-aims-to-make-life-easier
-title: "Computer science graduate aims to make life easier"
-date: 2009-05-01
-source-url: https://www.scoop.co.nz/stories/BU0905/S00013/computer-science-graduate-aims-to-make-life-easier.htm
+title: Computer science graduate aims to make life easier
+date: 2009-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00013/computer-science-graduate-aims-to-make-life-easier.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2009/05/01/computer-science-graduate-aims-to-make-life-easier/index.html
+layout: layout.njk
 ---
 Computer science graduate aims to make life easier
 ==================================================

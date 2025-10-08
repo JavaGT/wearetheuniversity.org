@@ -1,9 +1,12 @@
 ---
 slug: more-concerns-about-maternity-services
-title: "More Concerns About Maternity Services"
-date: 2008-10-30
-source-url: https://www.scoop.co.nz/stories/PA0810/S00669/more-concerns-about-maternity-services.htm
+title: More Concerns About Maternity Services
+date: 2008-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00669/more-concerns-about-maternity-services.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/30/more-concerns-about-maternity-services/index.html
+layout: layout.njk
 ---
 More Concerns About Maternity Services
 ======================================

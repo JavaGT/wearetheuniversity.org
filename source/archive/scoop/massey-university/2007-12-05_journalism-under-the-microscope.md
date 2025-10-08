@@ -1,9 +1,12 @@
 ---
 slug: journalism-under-the-microscope
-title: "Journalism under the microscope"
-date: 2007-12-05
-source-url: https://www.scoop.co.nz/stories/ED0712/S00018/journalism-under-the-microscope.htm
+title: Journalism under the microscope
+date: 2007-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00018/journalism-under-the-microscope.htm
 author: massey-university
+permalink: /archive/2007/12/05/journalism-under-the-microscope/index.html
+layout: layout.njk
 ---
 Journalism under the microscope
 ===============================

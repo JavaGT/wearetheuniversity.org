@@ -1,9 +1,12 @@
 ---
 slug: shameful-cuts-to-elderly-services
-title: "Shameful Cuts to Elderly Services"
-date: 2001-07-27
-source-url: https://www.scoop.co.nz/stories/PA0107/S00475/shameful-cuts-to-elderly-services.htm
+title: Shameful Cuts to Elderly Services
+date: 2001-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00475/shameful-cuts-to-elderly-services.htm
 author: new-zealand-first-party
+permalink: /archive/2001/07/27/shameful-cuts-to-elderly-services/index.html
+layout: layout.njk
 ---
 Shameful Cuts to Elderly Services
 =================================

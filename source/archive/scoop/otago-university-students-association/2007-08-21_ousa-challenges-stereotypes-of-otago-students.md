@@ -1,9 +1,12 @@
 ---
 slug: ousa-challenges-stereotypes-of-otago-students
-title: "OUSA challenges stereotypes of Otago students"
-date: 2007-08-21
-source-url: https://www.scoop.co.nz/stories/AK0708/S00238/ousa-challenges-stereotypes-of-otago-students.htm
+title: OUSA challenges stereotypes of Otago students
+date: 2007-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0708/S00238/ousa-challenges-stereotypes-of-otago-students.htm
 author: otago-university-students-association
+permalink: /archive/2007/08/21/ousa-challenges-stereotypes-of-otago-students/index.html
+layout: layout.njk
 ---
 OUSA challenges stereotypes of Otago students
 =============================================

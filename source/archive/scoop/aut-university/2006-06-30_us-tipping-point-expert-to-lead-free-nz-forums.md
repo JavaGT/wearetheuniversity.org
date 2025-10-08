@@ -1,9 +1,12 @@
 ---
 slug: us-tipping-point-expert-to-lead-free-nz-forums
-title: "US tipping point expert to lead free NZ forums"
-date: 2006-06-30
-source-url: https://www.scoop.co.nz/stories/ED0606/S00091/us-tipping-point-expert-to-lead-free-nz-forums.htm
+title: US tipping point expert to lead free NZ forums
+date: 2006-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00091/us-tipping-point-expert-to-lead-free-nz-forums.htm
 author: aut-university
+permalink: /archive/2006/06/30/us-tipping-point-expert-to-lead-free-nz-forums/index.html
+layout: layout.njk
 ---
 US tipping point expert to lead free NZ forums
 ==============================================

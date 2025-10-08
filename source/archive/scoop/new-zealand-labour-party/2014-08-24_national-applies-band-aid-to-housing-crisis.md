@@ -1,9 +1,12 @@
 ---
 slug: national-applies-band-aid-to-housing-crisis
-title: "National applies band-aid to housing crisis"
-date: 2014-08-24
-source-url: https://www.scoop.co.nz/stories/PA1408/S00370/national-applies-band-aid-to-housing-crisis.htm
+title: National applies band-aid to housing crisis
+date: 2014-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00370/national-applies-band-aid-to-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/24/national-applies-band-aid-to-housing-crisis/index.html
+layout: layout.njk
 ---
 National applies band-aid to housing crisis
 ===========================================

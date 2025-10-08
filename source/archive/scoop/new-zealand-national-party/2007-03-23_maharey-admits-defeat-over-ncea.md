@@ -1,9 +1,12 @@
 ---
 slug: maharey-admits-defeat-over-ncea
-title: "Maharey admits defeat over NCEA"
-date: 2007-03-23
-source-url: https://www.scoop.co.nz/stories/PA0703/S00480/maharey-admits-defeat-over-ncea.htm
+title: Maharey admits defeat over NCEA
+date: 2007-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00480/maharey-admits-defeat-over-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/23/maharey-admits-defeat-over-ncea/index.html
+layout: layout.njk
 ---
 Maharey admits defeat over NCEA
 ===============================

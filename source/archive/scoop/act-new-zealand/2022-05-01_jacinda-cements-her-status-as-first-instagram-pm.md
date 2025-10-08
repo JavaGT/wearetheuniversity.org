@@ -1,9 +1,13 @@
 ---
 slug: jacinda-cements-her-status-as-first-instagram-pm
-title: "Jacinda Cements Her Status As First Instagram PM"
-date: 2022-05-01
-source-url: https://www.scoop.co.nz/stories/PA2205/S00002/jacinda-cements-her-status-as-first-instagram-pm.htm
+title: Jacinda Cements Her Status As First Instagram PM
+date: 2022-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2205/S00002/jacinda-cements-her-status-as-first-instagram-pm.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/05/01/jacinda-cements-her-status-as-first-instagram-pm/index.html
+layout: layout.njk
 ---
 Jacinda Cements Her Status As First Instagram PM
 ================================================

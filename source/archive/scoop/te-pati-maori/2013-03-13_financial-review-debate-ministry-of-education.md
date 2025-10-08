@@ -1,9 +1,12 @@
 ---
 slug: financial-review-debate-ministry-of-education
-title: "Financial Review Debate - Ministry of Education"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/PA1303/S00200/financial-review-debate-ministry-of-education.htm
+title: Financial Review Debate - Ministry of Education
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00200/financial-review-debate-ministry-of-education.htm
 author: te-pati-maori
+permalink: /archive/2013/03/13/financial-review-debate-ministry-of-education/index.html
+layout: layout.njk
 ---
 Financial Review Debate - Ministry of Education
 ===============================================

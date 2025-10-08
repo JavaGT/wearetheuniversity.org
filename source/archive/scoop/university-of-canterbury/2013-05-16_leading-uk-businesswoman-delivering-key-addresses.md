@@ -1,9 +1,13 @@
 ---
 slug: leading-uk-businesswoman-delivering-key-addresses
-title: "Leading UK businesswoman delivering key addresses"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/BU1305/S00599/leading-uk-businesswoman-delivering-key-addresses.htm
+title: Leading UK businesswoman delivering key addresses
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00599/leading-uk-businesswoman-delivering-key-addresses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/16/leading-uk-businesswoman-delivering-key-addresses/index.html
+layout: layout.njk
 ---
 Leading UK businesswoman delivering key addresses
 =================================================

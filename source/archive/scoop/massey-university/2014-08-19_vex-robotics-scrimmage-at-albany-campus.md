@@ -1,9 +1,12 @@
 ---
 slug: vex-robotics-scrimmage-at-albany-campus
-title: "VEX Robotics scrimmage at Albany campus"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/SC1408/S00053/vex-robotics-scrimmage-at-albany-campus.htm
+title: VEX Robotics scrimmage at Albany campus
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00053/vex-robotics-scrimmage-at-albany-campus.htm
 author: massey-university
+permalink: /archive/2014/08/19/vex-robotics-scrimmage-at-albany-campus/index.html
+layout: layout.njk
 ---
 VEX Robotics scrimmage at Albany campus
 =======================================

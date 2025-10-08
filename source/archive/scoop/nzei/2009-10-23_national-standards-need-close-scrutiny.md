@@ -1,9 +1,12 @@
 ---
 slug: national-standards-need-close-scrutiny
-title: "National Standards Need Close Scrutiny"
-date: 2009-10-23
-source-url: https://www.scoop.co.nz/stories/ED0910/S00105/national-standards-need-close-scrutiny.htm
+title: National Standards Need Close Scrutiny
+date: 2009-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00105/national-standards-need-close-scrutiny.htm
 author: nzei
+permalink: /archive/2009/10/23/national-standards-need-close-scrutiny/index.html
+layout: layout.njk
 ---
 National Standards Need Close Scrutiny
 ======================================

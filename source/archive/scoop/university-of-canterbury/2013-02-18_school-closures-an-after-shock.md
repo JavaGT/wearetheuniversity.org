@@ -1,9 +1,12 @@
 ---
 slug: school-closures-an-after-shock
-title: "School closures an after-shock"
-date: 2013-02-18
-source-url: https://www.scoop.co.nz/stories/ED1302/S00088/school-closures-an-after-shock.htm
+title: School closures an after-shock
+date: 2013-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00088/school-closures-an-after-shock.htm
 author: university-of-canterbury
+permalink: /archive/2013/02/18/school-closures-an-after-shock/index.html
+layout: layout.njk
 ---
 School closures an after-shock
 ==============================

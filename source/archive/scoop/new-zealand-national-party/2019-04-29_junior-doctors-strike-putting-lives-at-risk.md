@@ -1,9 +1,12 @@
 ---
 slug: junior-doctors-strike-putting-lives-at-risk
-title: "Junior doctors’ strike putting lives at risk"
-date: 2019-04-29
-source-url: https://www.scoop.co.nz/stories/PA1904/S00219/junior-doctors-strike-putting-lives-at-risk.htm
+title: Junior doctors’ strike putting lives at risk
+date: 2019-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00219/junior-doctors-strike-putting-lives-at-risk.htm
 author: new-zealand-national-party
+permalink: /archive/2019/04/29/junior-doctors-strike-putting-lives-at-risk/index.html
+layout: layout.njk
 ---
 Junior doctors’ strike putting lives at risk
 ============================================

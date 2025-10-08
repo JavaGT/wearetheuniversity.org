@@ -1,9 +1,12 @@
 ---
 slug: mark-powell-to-become-masseys-ceo-in-residence
-title: "Mark Powell to become Massey’s CEO-in-Residence"
-date: 2015-11-16
-source-url: https://www.scoop.co.nz/stories/ED1511/S00080/mark-powell-to-become-masseys-ceo-in-residence.htm
+title: Mark Powell to become Massey’s CEO-in-Residence
+date: 2015-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00080/mark-powell-to-become-masseys-ceo-in-residence.htm
 author: massey-university
+permalink: /archive/2015/11/16/mark-powell-to-become-masseys-ceo-in-residence/index.html
+layout: layout.njk
 ---
 Mark Powell to become Massey’s CEO-in-Residence
 ===============================================

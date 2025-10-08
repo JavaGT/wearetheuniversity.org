@@ -1,8 +1,11 @@
 ---
 slug: new-insights-on-limb-evolution-from-auckland
-title: "New insights on limb evolution from Auckland"
-date: 2016-11-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/new-insights-on-limb-evolution-from-auckland-.html
+title: New insights on limb evolution from Auckland
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/new-insights-on-limb-evolution-from-auckland-.html
+permalink: /archive/2016/11/30/new-insights-on-limb-evolution-from-auckland/index.html
+layout: layout.njk
 ---
 New insights on limb evolution from Auckland
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: older-is-not-always-wiser-when-it-comes-to-social-gaffes
-title: "Older is not always wiser when it comes to social gaffes"
-date: 2011-02-02
-source-url: https://www.scoop.co.nz/stories/GE1102/S00005/older-is-not-always-wiser-when-it-comes-to-social-gaffes.htm
+title: Older is not always wiser when it comes to social gaffes
+date: 2011-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1102/S00005/older-is-not-always-wiser-when-it-comes-to-social-gaffes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/02/02/older-is-not-always-wiser-when-it-comes-to-social-gaffes/index.html
+layout: layout.njk
 ---
 Older is not always wiser when it comes to social gaffes
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: does-grooming-lead-to-stockholm-syndrome
-title: "Does grooming lead to Stockholm syndrome?"
-date: 2017-07-20
-source-url: https://www.scoop.co.nz/stories/AK1707/S00486/does-grooming-lead-to-stockholm-syndrome.htm
+title: Does grooming lead to Stockholm syndrome?
+date: 2017-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1707/S00486/does-grooming-lead-to-stockholm-syndrome.htm
 author: massey-university
+permalink: /archive/2017/07/20/does-grooming-lead-to-stockholm-syndrome/index.html
+layout: layout.njk
 ---
 Does grooming lead to Stockholm syndrome?
 =========================================

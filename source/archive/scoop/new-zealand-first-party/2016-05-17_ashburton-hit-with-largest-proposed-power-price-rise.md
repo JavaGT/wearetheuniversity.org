@@ -1,9 +1,13 @@
 ---
 slug: ashburton-hit-with-largest-proposed-power-price-rise
-title: "Ashburton Hit with Largest Proposed Power Price Rise"
-date: 2016-05-17
-source-url: https://www.scoop.co.nz/stories/PA1605/S00303/ashburton-hit-with-largest-proposed-power-price-rise.htm
+title: Ashburton Hit with Largest Proposed Power Price Rise
+date: 2016-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00303/ashburton-hit-with-largest-proposed-power-price-rise.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/05/17/ashburton-hit-with-largest-proposed-power-price-rise/index.html
+layout: layout.njk
 ---
 Ashburton Hit with Largest Proposed Power Price Rise
 ====================================================

@@ -1,9 +1,11 @@
 ---
 slug: healthcare-by-postcode
-title: "Healthcare by postcode"
-date: 2006-08-28
+title: Healthcare by postcode
+date: 2006-08-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00478/healthcare-by-postcode.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/28/healthcare-by-postcode/index.html
+layout: layout.njk
 ---
 Healthcare by postcode
 ======================

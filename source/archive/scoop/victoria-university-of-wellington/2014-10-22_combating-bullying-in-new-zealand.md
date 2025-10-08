@@ -1,9 +1,12 @@
 ---
 slug: combating-bullying-in-new-zealand
-title: "Combating bullying in New Zealand"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/CU1410/S00440/combating-bullying-in-new-zealand.htm
+title: Combating bullying in New Zealand
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1410/S00440/combating-bullying-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/22/combating-bullying-in-new-zealand/index.html
+layout: layout.njk
 ---
 Combating bullying in New Zealand
 =================================

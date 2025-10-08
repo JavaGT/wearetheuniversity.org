@@ -1,9 +1,12 @@
 ---
 slug: tolley-snubs-adult-learners-week
-title: "Tolley snubs Adult Learners’ Week"
-date: 2009-09-16
-source-url: https://www.scoop.co.nz/stories/PA0909/S00218/tolley-snubs-adult-learners-week.htm
+title: Tolley snubs Adult Learners’ Week
+date: 2009-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00218/tolley-snubs-adult-learners-week.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/16/tolley-snubs-adult-learners-week/index.html
+layout: layout.njk
 ---
 Tolley snubs Adult Learners’ Week
 =================================

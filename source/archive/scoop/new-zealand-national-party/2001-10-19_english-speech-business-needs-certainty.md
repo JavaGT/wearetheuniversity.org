@@ -1,9 +1,12 @@
 ---
 slug: english-speech-business-needs-certainty
-title: "English Speech - Business Needs Certainty"
-date: 2001-10-19
-source-url: https://www.scoop.co.nz/stories/PA0110/S00394/english-speech-business-needs-certainty.htm
+title: English Speech - Business Needs Certainty
+date: 2001-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00394/english-speech-business-needs-certainty.htm
 author: new-zealand-national-party
+permalink: /archive/2001/10/19/english-speech-business-needs-certainty/index.html
+layout: layout.njk
 ---
 English Speech - Business Needs Certainty
 =========================================

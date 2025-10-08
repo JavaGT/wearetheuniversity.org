@@ -1,9 +1,12 @@
 ---
 slug: head-on-a-pest-hunt-this-summer
-title: "Head On A Pest Hunt This Summer"
-date: 2023-12-04
-source-url: https://www.scoop.co.nz/stories/SC2312/S00004/head-on-a-pest-hunt-this-summer.htm
+title: Head On A Pest Hunt This Summer
+date: 2023-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2312/S00004/head-on-a-pest-hunt-this-summer.htm
 author: university-of-canterbury
+permalink: /archive/2023/12/04/head-on-a-pest-hunt-this-summer/index.html
+layout: layout.njk
 ---
 Head On A Pest Hunt This Summer
 ===============================

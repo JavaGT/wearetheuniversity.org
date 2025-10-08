@@ -1,9 +1,12 @@
 ---
 slug: lamp-to-tour-in-international-exhibition
-title: "Lamp to tour in international exhibition"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/CU1406/S00240/lamp-to-tour-in-international-exhibition.htm
+title: Lamp to tour in international exhibition
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1406/S00240/lamp-to-tour-in-international-exhibition.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/18/lamp-to-tour-in-international-exhibition/index.html
+layout: layout.njk
 ---
 Lamp to tour in international exhibition
 ========================================

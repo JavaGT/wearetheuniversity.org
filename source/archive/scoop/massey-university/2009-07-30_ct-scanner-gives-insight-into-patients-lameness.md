@@ -1,9 +1,12 @@
 ---
 slug: ct-scanner-gives-insight-into-patients-lameness
-title: "CT scanner gives insight into patient’s lameness"
-date: 2009-07-30
-source-url: https://www.scoop.co.nz/stories/SC0907/S00055/ct-scanner-gives-insight-into-patients-lameness.htm
+title: CT scanner gives insight into patient’s lameness
+date: 2009-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0907/S00055/ct-scanner-gives-insight-into-patients-lameness.htm
 author: massey-university
+permalink: /archive/2009/07/30/ct-scanner-gives-insight-into-patients-lameness/index.html
+layout: layout.njk
 ---
 CT scanner gives insight into patient’s lameness
 ================================================

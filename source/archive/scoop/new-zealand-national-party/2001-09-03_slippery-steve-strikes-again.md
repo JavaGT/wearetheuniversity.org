@@ -1,9 +1,11 @@
 ---
 slug: slippery-steve-strikes-again
-title: "Slippery Steve strikes again"
-date: 2001-09-03
+title: Slippery Steve strikes again
+date: 2001-09-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0109/S00022/slippery-steve-strikes-again.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/03/slippery-steve-strikes-again/index.html
+layout: layout.njk
 ---
 Slippery Steve strikes again
 ============================

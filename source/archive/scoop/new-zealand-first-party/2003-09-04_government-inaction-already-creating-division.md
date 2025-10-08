@@ -1,9 +1,12 @@
 ---
 slug: government-inaction-already-creating-division
-title: "Government Inaction Already Creating Division"
-date: 2003-09-04
-source-url: https://www.scoop.co.nz/stories/PA0309/S00076/government-inaction-already-creating-division.htm
+title: Government Inaction Already Creating Division
+date: 2003-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00076/government-inaction-already-creating-division.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/04/government-inaction-already-creating-division/index.html
+layout: layout.njk
 ---
 Government Inaction Already Creating Division
 =============================================

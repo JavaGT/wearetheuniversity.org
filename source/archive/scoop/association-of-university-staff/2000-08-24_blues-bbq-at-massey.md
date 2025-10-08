@@ -1,9 +1,11 @@
 ---
 slug: blues-bbq-at-massey
-title: "Blues BBQ at Massey"
-date: 2000-08-24
+title: Blues BBQ at Massey
+date: 2000-08-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0008/S00045/blues-bbq-at-massey.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/24/blues-bbq-at-massey/index.html
+layout: layout.njk
 ---
 Blues BBQ at Massey
 ===================

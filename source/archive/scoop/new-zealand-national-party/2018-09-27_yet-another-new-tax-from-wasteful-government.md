@@ -1,9 +1,12 @@
 ---
 slug: yet-another-new-tax-from-wasteful-government
-title: "Yet another new tax from wasteful Government"
-date: 2018-09-27
-source-url: https://www.scoop.co.nz/stories/PA1809/S00372/yet-another-new-tax-from-wasteful-government.htm
+title: Yet another new tax from wasteful Government
+date: 2018-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00372/yet-another-new-tax-from-wasteful-government.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/27/yet-another-new-tax-from-wasteful-government/index.html
+layout: layout.njk
 ---
 Yet another new tax from wasteful Government
 ============================================

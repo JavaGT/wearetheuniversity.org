@@ -1,9 +1,12 @@
 ---
 slug: rural-health-needs-more-than-another-review
-title: "Rural health needs more than another review"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/PA0807/S00536/rural-health-needs-more-than-another-review.htm
+title: Rural health needs more than another review
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00536/rural-health-needs-more-than-another-review.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/30/rural-health-needs-more-than-another-review/index.html
+layout: layout.njk
 ---
 Rural health needs more than another review
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-scientists-software-finds-orphan-planets
-title: "Massey scientist’s software finds ‘orphan’ planets"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/SC1105/S00049/massey-scientists-software-finds-orphan-planets.htm
+title: Massey scientist’s software finds ‘orphan’ planets
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00049/massey-scientists-software-finds-orphan-planets.htm
 author: massey-university
+permalink: /archive/2011/05/19/massey-scientists-software-finds-orphan-planets/index.html
+layout: layout.njk
 ---
 Massey scientist’s software finds ‘orphan’ planets
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: stigma-of-chronic-fatigue-illness-adds-to-suffering
-title: "Stigma of chronic fatigue illness adds to suffering"
-date: 2014-05-09
-source-url: https://www.scoop.co.nz/stories/GE1405/S00051/stigma-of-chronic-fatigue-illness-adds-to-suffering.htm
+title: Stigma of chronic fatigue illness adds to suffering
+date: 2014-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1405/S00051/stigma-of-chronic-fatigue-illness-adds-to-suffering.htm
 author: massey-university
+permalink: >-
+  /archive/2014/05/09/stigma-of-chronic-fatigue-illness-adds-to-suffering/index.html
+layout: layout.njk
 ---
 Stigma of chronic fatigue illness adds to suffering
 ===================================================

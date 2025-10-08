@@ -1,9 +1,13 @@
 ---
 slug: international-partnership-in-food-science-and-nutrition
-title: "International partnership in food science and nutrition"
-date: 2017-02-01
-source-url: https://www.scoop.co.nz/stories/ED1702/S00006/international-partnership-in-food-science-and-nutrition.htm
+title: International partnership in food science and nutrition
+date: 2017-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00006/international-partnership-in-food-science-and-nutrition.htm
 author: massey-university
+permalink: >-
+  /archive/2017/02/01/international-partnership-in-food-science-and-nutrition/index.html
+layout: layout.njk
 ---
 International partnership in food science and nutrition
 =======================================================

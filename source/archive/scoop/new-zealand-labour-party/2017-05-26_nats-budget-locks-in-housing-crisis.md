@@ -1,9 +1,12 @@
 ---
 slug: nats-budget-locks-in-housing-crisis
-title: "Nats’ Budget locks in housing crisis"
-date: 2017-05-26
-source-url: https://www.scoop.co.nz/stories/PA1705/S00563/nats-budget-locks-in-housing-crisis.htm
+title: Nats’ Budget locks in housing crisis
+date: 2017-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00563/nats-budget-locks-in-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/26/nats-budget-locks-in-housing-crisis/index.html
+layout: layout.njk
 ---
 Nats’ Budget locks in housing crisis
 ====================================

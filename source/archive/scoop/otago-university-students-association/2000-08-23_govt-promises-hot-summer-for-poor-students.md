@@ -1,9 +1,12 @@
 ---
 slug: govt-promises-hot-summer-for-poor-students
-title: "Govt. Promises Hot Summer For Poor Students"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/PO0008/S00151/govt-promises-hot-summer-for-poor-students.htm
+title: Govt. Promises Hot Summer For Poor Students
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0008/S00151/govt-promises-hot-summer-for-poor-students.htm
 author: otago-university-students-association
+permalink: /archive/2000/08/23/govt-promises-hot-summer-for-poor-students/index.html
+layout: layout.njk
 ---
 Govt. Promises Hot Summer For Poor Students
 ===========================================

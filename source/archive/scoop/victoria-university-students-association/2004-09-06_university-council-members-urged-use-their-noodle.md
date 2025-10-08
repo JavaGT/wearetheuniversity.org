@@ -1,9 +1,13 @@
 ---
 slug: university-council-members-urged-use-their-noodle
-title: "University Council Members Urged Use Their Noodle"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/ED0409/S00014/university-council-members-urged-use-their-noodle.htm
+title: University Council Members Urged Use Their Noodle
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00014/university-council-members-urged-use-their-noodle.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/09/06/university-council-members-urged-use-their-noodle/index.html
+layout: layout.njk
 ---
 University Council Members Urged Use Their Noodle
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: cut-bureaucracy-not-disability-funding
-title: "Cut bureaucracy not disability funding"
-date: 2008-01-09
-source-url: https://www.scoop.co.nz/stories/PA0801/S00052/cut-bureaucracy-not-disability-funding.htm
+title: Cut bureaucracy not disability funding
+date: 2008-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00052/cut-bureaucracy-not-disability-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/09/cut-bureaucracy-not-disability-funding/index.html
+layout: layout.njk
 ---
 Cut bureaucracy not disability funding
 ======================================

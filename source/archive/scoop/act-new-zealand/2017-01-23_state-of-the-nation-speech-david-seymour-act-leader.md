@@ -1,9 +1,13 @@
 ---
 slug: state-of-the-nation-speech-david-seymour-act-leader
-title: "State of the Nation Speech David Seymour ACT Leader"
-date: 2017-01-23
-source-url: https://www.scoop.co.nz/stories/PA1701/S00077/state-of-the-nation-speech-david-seymour-act-leader.htm
+title: State of the Nation Speech David Seymour ACT Leader
+date: 2017-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1701/S00077/state-of-the-nation-speech-david-seymour-act-leader.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/01/23/state-of-the-nation-speech-david-seymour-act-leader/index.html
+layout: layout.njk
 ---
 State of the Nation Speech David Seymour ACT Leader
 ===================================================

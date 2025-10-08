@@ -1,9 +1,12 @@
 ---
 slug: study-to-find-best-exercises-for-maori-men
-title: "Study to find best exercises for Maori men"
-date: 2012-07-16
-source-url: https://www.scoop.co.nz/stories/GE1207/S00054/study-to-find-best-exercises-for-maori-men.htm
+title: Study to find best exercises for Maori men
+date: 2012-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1207/S00054/study-to-find-best-exercises-for-maori-men.htm
 author: massey-university
+permalink: /archive/2012/07/16/study-to-find-best-exercises-for-maori-men/index.html
+layout: layout.njk
 ---
 Study to find best exercises for Maori men
 ==========================================

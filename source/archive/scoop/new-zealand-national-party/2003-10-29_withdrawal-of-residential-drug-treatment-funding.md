@@ -1,9 +1,13 @@
 ---
 slug: withdrawal-of-residential-drug-treatment-funding
-title: "Withdrawal of residential drug treatment funding"
-date: 2003-10-29
-source-url: https://www.scoop.co.nz/stories/PA0310/S00661/withdrawal-of-residential-drug-treatment-funding.htm
+title: Withdrawal of residential drug treatment funding
+date: 2003-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00661/withdrawal-of-residential-drug-treatment-funding.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2003/10/29/withdrawal-of-residential-drug-treatment-funding/index.html
+layout: layout.njk
 ---
 Withdrawal of residential drug treatment funding
 ================================================

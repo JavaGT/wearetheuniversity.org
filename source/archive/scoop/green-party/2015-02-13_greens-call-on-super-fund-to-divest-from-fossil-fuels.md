@@ -1,9 +1,13 @@
 ---
 slug: greens-call-on-super-fund-to-divest-from-fossil-fuels
-title: "Greens call on Super Fund to divest from fossil fuels"
-date: 2015-02-13
-source-url: https://www.scoop.co.nz/stories/PA1502/S00143/greens-call-on-super-fund-to-divest-from-fossil-fuels.htm
+title: Greens call on Super Fund to divest from fossil fuels
+date: 2015-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00143/greens-call-on-super-fund-to-divest-from-fossil-fuels.htm
 author: green-party
+permalink: >-
+  /archive/2015/02/13/greens-call-on-super-fund-to-divest-from-fossil-fuels/index.html
+layout: layout.njk
 ---
 Greens call on Super Fund to divest from fossil fuels
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-announces-key-partnerships-with-more-to-come
-title: "University announces key partnerships with more to come"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/ED1502/S00016/university-announces-key-partnerships-with-more-to-come.htm
+title: University announces key partnerships with more to come
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00016/university-announces-key-partnerships-with-more-to-come.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/04/university-announces-key-partnerships-with-more-to-come/index.html
+layout: layout.njk
 ---
 University announces key partnerships with more to come
 =======================================================

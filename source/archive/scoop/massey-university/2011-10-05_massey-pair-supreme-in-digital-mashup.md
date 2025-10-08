@@ -1,9 +1,12 @@
 ---
 slug: massey-pair-supreme-in-digital-mashup
-title: "Massey pair supreme in digital mashup"
-date: 2011-10-05
-source-url: https://www.scoop.co.nz/stories/SC1110/S00015/massey-pair-supreme-in-digital-mashup.htm
+title: Massey pair supreme in digital mashup
+date: 2011-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00015/massey-pair-supreme-in-digital-mashup.htm
 author: massey-university
+permalink: /archive/2011/10/05/massey-pair-supreme-in-digital-mashup/index.html
+layout: layout.njk
 ---
 Massey pair supreme in digital mashup
 =====================================

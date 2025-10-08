@@ -1,9 +1,12 @@
 ---
 slug: refugees-conservation-and-science-in-one-job
-title: "Refugees, conservation and science in one job"
-date: 2016-02-12
-source-url: https://www.scoop.co.nz/stories/PO1602/S00140/refugees-conservation-and-science-in-one-job.htm
+title: Refugees, conservation and science in one job
+date: 2016-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00140/refugees-conservation-and-science-in-one-job.htm
 author: university-of-waikato
+permalink: /archive/2016/02/12/refugees-conservation-and-science-in-one-job/index.html
+layout: layout.njk
 ---
 Refugees, conservation and science in one job
 =============================================

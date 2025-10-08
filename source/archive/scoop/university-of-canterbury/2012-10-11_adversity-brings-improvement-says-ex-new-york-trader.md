@@ -1,9 +1,13 @@
 ---
 slug: adversity-brings-improvement-says-ex-new-york-trader
-title: "Adversity brings improvement says ex-New York trader"
-date: 2012-10-11
-source-url: https://www.scoop.co.nz/stories/AK1210/S00299/adversity-brings-improvement-says-ex-new-york-trader.htm
+title: Adversity brings improvement says ex-New York trader
+date: 2012-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00299/adversity-brings-improvement-says-ex-new-york-trader.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/11/adversity-brings-improvement-says-ex-new-york-trader/index.html
+layout: layout.njk
 ---
 Adversity brings improvement says ex-New York trader
 ====================================================

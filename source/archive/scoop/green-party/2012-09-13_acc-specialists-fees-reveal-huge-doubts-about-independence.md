@@ -1,9 +1,13 @@
 ---
 slug: acc-specialists-fees-reveal-huge-doubts-about-independence
-title: "ACC specialists fees reveal huge doubts about independence"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/PA1209/S00211/acc-specialists-fees-reveal-huge-doubts-about-independence.htm
+title: ACC specialists fees reveal huge doubts about independence
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00211/acc-specialists-fees-reveal-huge-doubts-about-independence.htm
 author: green-party
+permalink: >-
+  /archive/2012/09/13/acc-specialists-fees-reveal-huge-doubts-about-independence/index.html
+layout: layout.njk
 ---
 ACC specialists fees reveal huge doubts about independence
 ==========================================================

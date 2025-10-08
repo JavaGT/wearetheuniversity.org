@@ -1,9 +1,12 @@
 ---
 slug: king-reacts-to-wellington-hospital-decision
-title: "King reacts to Wellington Hospital decision"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00659/king-reacts-to-wellington-hospital-decision.htm
+title: King reacts to Wellington Hospital decision
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00659/king-reacts-to-wellington-hospital-decision.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/30/king-reacts-to-wellington-hospital-decision/index.html
+layout: layout.njk
 ---
 King reacts to Wellington Hospital decision
 ===========================================

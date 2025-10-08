@@ -1,9 +1,12 @@
 ---
 slug: turei-building-a-good-society
-title: "Turei: Building a good society"
-date: 2013-09-17
-source-url: https://www.scoop.co.nz/stories/PA1309/S00308/turei-building-a-good-society.htm
+title: 'Turei: Building a good society'
+date: 2013-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00308/turei-building-a-good-society.htm
 author: green-party
+permalink: /archive/2013/09/17/turei-building-a-good-society/index.html
+layout: layout.njk
 ---
 Turei: Building a good society
 ==============================

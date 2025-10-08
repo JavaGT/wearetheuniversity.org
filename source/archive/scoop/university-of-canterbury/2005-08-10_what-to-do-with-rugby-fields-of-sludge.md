@@ -1,9 +1,12 @@
 ---
 slug: what-to-do-with-rugby-fields-of-sludge
-title: "What to do with rugby fields of sludge?"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/AK0508/S00065/what-to-do-with-rugby-fields-of-sludge.htm
+title: What to do with rugby fields of sludge?
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0508/S00065/what-to-do-with-rugby-fields-of-sludge.htm
 author: university-of-canterbury
+permalink: /archive/2005/08/10/what-to-do-with-rugby-fields-of-sludge/index.html
+layout: layout.njk
 ---
 What to do with rugby fields of sludge?
 =======================================

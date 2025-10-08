@@ -1,9 +1,12 @@
 ---
 slug: labours-winter-of-discontent-starts-tomorrow
-title: "Labour’s winter of discontent starts tomorrow"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/PA0504/S00052/labours-winter-of-discontent-starts-tomorrow.htm
+title: Labour’s winter of discontent starts tomorrow
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00052/labours-winter-of-discontent-starts-tomorrow.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/04/labours-winter-of-discontent-starts-tomorrow/index.html
+layout: layout.njk
 ---
 Labour’s winter of discontent starts tomorrow
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: banks-pocket-ocr-cut-while-making-$90m-a-week
-title: "Banks pocket OCR cut while making $90m a week"
-date: 2016-03-17
-source-url: https://www.scoop.co.nz/stories/PA1603/S00292/banks-pocket-ocr-cut-while-making-90m-a-week.htm
+title: Banks pocket OCR cut while making $90m a week
+date: 2016-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00292/banks-pocket-ocr-cut-while-making-90m-a-week.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/03/17/banks-pocket-ocr-cut-while-making-/index.html
+layout: layout.njk
 ---
 Banks pocket OCR cut while making $90m a week
 =============================================

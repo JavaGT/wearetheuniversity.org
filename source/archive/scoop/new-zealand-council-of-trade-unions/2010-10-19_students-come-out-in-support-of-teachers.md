@@ -1,9 +1,12 @@
 ---
 slug: students-come-out-in-support-of-teachers
-title: "Students come out in support of teachers"
-date: 2010-10-19
-source-url: https://www.scoop.co.nz/stories/ED1010/S00063/students-come-out-in-support-of-teachers.htm
+title: Students come out in support of teachers
+date: 2010-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00063/students-come-out-in-support-of-teachers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/10/19/students-come-out-in-support-of-teachers/index.html
+layout: layout.njk
 ---
 Students come out in support of teachers
 ========================================

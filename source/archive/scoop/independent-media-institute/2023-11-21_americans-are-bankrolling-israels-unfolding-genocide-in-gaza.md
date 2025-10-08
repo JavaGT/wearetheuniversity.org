@@ -1,9 +1,13 @@
 ---
 slug: americans-are-bankrolling-israels-unfolding-genocide-in-gaza
-title: "Americans Are Bankrolling Israel’s Unfolding Genocide In Gaza"
-date: 2023-11-21
-source-url: https://www.scoop.co.nz/stories/HL2311/S00037/americans-are-bankrolling-israels-unfolding-genocide-in-gaza.htm
+title: Americans Are Bankrolling Israel’s Unfolding Genocide In Gaza
+date: 2023-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2311/S00037/americans-are-bankrolling-israels-unfolding-genocide-in-gaza.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2023/11/21/americans-are-bankrolling-israels-unfolding-genocide-in-gaza/index.html
+layout: layout.njk
 ---
 Americans Are Bankrolling Israel’s Unfolding Genocide In Gaza
 =============================================================

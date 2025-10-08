@@ -1,9 +1,12 @@
 ---
 slug: retail-researcher-warns-of-post-christmas-blues
-title: "Retail researcher warns of ‘post-Christmas blues’"
-date: 2015-12-16
-source-url: https://www.scoop.co.nz/stories/ED1512/S00073/retail-researcher-warns-of-post-christmas-blues.htm
+title: Retail researcher warns of ‘post-Christmas blues’
+date: 2015-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00073/retail-researcher-warns-of-post-christmas-blues.htm
 author: massey-university
+permalink: /archive/2015/12/16/retail-researcher-warns-of-post-christmas-blues/index.html
+layout: layout.njk
 ---
 Retail researcher warns of ‘post-Christmas blues’
 =================================================

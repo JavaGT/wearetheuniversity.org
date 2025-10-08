@@ -1,9 +1,13 @@
 ---
 slug: ousa-re-orientation-2014-final-programme-announcement
-title: "OUSA Re-Orientation 2014: Final Programme Announcement"
-date: 2014-06-24
-source-url: https://www.scoop.co.nz/stories/ED1406/S00125/ousa-re-orientation-2014-final-programme-announcement.htm
+title: 'OUSA Re-Orientation 2014: Final Programme Announcement'
+date: 2014-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00125/ousa-re-orientation-2014-final-programme-announcement.htm
 author: ousa
+permalink: >-
+  /archive/2014/06/24/ousa-re-orientation-2014-final-programme-announcement/index.html
+layout: layout.njk
 ---
 OUSA Re-Orientation 2014: Final Programme Announcement
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-campus-bustling-with-new-students
-title: "University Of Canterbury Campus Bustling With New Students"
-date: 2021-03-10
-source-url: https://www.scoop.co.nz/stories/ED2103/S00016/university-of-canterbury-campus-bustling-with-new-students.htm
+title: University Of Canterbury Campus Bustling With New Students
+date: 2021-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00016/university-of-canterbury-campus-bustling-with-new-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/03/10/university-of-canterbury-campus-bustling-with-new-students/index.html
+layout: layout.njk
 ---
 University Of Canterbury Campus Bustling With New Students
 ==========================================================

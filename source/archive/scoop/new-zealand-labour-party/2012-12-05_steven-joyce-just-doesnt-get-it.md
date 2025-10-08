@@ -1,9 +1,12 @@
 ---
 slug: steven-joyce-just-doesnt-get-it
-title: "Steven Joyce just doesn’t get it"
-date: 2012-12-05
-source-url: https://www.scoop.co.nz/stories/PA1212/S00055/steven-joyce-just-doesnt-get-it.htm
+title: Steven Joyce just doesn’t get it
+date: 2012-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1212/S00055/steven-joyce-just-doesnt-get-it.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/12/05/steven-joyce-just-doesnt-get-it/index.html
+layout: layout.njk
 ---
 Steven Joyce just doesn’t get it
 ================================

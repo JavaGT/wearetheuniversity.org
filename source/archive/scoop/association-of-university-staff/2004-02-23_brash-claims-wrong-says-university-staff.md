@@ -1,9 +1,12 @@
 ---
 slug: brash-claims-wrong-says-university-staff
-title: "Brash claims wrong says university staff"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/ED0402/S00060/brash-claims-wrong-says-university-staff.htm
+title: Brash claims wrong says university staff
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00060/brash-claims-wrong-says-university-staff.htm
 author: association-of-university-staff
+permalink: /archive/2004/02/23/brash-claims-wrong-says-university-staff/index.html
+layout: layout.njk
 ---
 Brash claims wrong says university staff
 ========================================

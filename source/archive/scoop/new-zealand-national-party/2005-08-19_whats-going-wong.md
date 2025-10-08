@@ -1,9 +1,11 @@
 ---
 slug: whats-going-wong
-title: "What's Going wONg"
-date: 2005-08-19
+title: What's Going wONg
+date: 2005-08-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0508/S00516/whats-going-wong.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/19/whats-going-wong/index.html
+layout: layout.njk
 ---
 What's Going wONg
 =================

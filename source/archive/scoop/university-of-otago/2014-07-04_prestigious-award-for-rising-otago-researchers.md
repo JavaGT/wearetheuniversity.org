@@ -1,9 +1,12 @@
 ---
 slug: prestigious-award-for-rising-otago-researchers
-title: "Prestigious award for rising Otago researchers"
-date: 2014-07-04
-source-url: https://www.scoop.co.nz/stories/ED1407/S00030/prestigious-award-for-rising-otago-researchers.htm
+title: Prestigious award for rising Otago researchers
+date: 2014-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00030/prestigious-award-for-rising-otago-researchers.htm
 author: university-of-otago
+permalink: /archive/2014/07/04/prestigious-award-for-rising-otago-researchers/index.html
+layout: layout.njk
 ---
 Prestigious award for rising Otago researchers
 ==============================================

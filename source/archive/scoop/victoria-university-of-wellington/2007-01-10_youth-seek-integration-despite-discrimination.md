@@ -1,9 +1,12 @@
 ---
 slug: youth-seek-integration-despite-discrimination
-title: "Youth Seek Integration Despite Discrimination"
-date: 2007-01-10
-source-url: https://www.scoop.co.nz/stories/CU0701/S00038/youth-seek-integration-despite-discrimination.htm
+title: Youth Seek Integration Despite Discrimination
+date: 2007-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0701/S00038/youth-seek-integration-despite-discrimination.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/01/10/youth-seek-integration-despite-discrimination/index.html
+layout: layout.njk
 ---
 Youth Seek Integration Despite Discrimination
 =============================================

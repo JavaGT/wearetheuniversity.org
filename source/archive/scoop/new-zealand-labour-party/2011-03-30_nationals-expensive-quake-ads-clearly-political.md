@@ -1,9 +1,12 @@
 ---
 slug: nationals-expensive-quake-ads-clearly-political
-title: "National’s expensive quake ads clearly political"
-date: 2011-03-30
-source-url: https://www.scoop.co.nz/stories/PA1103/S00497/nationals-expensive-quake-ads-clearly-political.htm
+title: National’s expensive quake ads clearly political
+date: 2011-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00497/nationals-expensive-quake-ads-clearly-political.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/03/30/nationals-expensive-quake-ads-clearly-political/index.html
+layout: layout.njk
 ---
 National’s expensive quake ads clearly political
 ================================================

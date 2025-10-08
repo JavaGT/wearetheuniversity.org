@@ -1,9 +1,13 @@
 ---
 slug: otago-animations-developed-to-demystify-the-court-room
-title: "Otago animations developed to demystify the court room"
-date: 2018-04-04
-source-url: https://www.scoop.co.nz/stories/PO1804/S00024/otago-animations-developed-to-demystify-the-court-room.htm
+title: Otago animations developed to demystify the court room
+date: 2018-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1804/S00024/otago-animations-developed-to-demystify-the-court-room.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/04/otago-animations-developed-to-demystify-the-court-room/index.html
+layout: layout.njk
 ---
 Otago animations developed to demystify the court room
 ======================================================

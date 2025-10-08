@@ -1,9 +1,12 @@
 ---
 slug: demand-the-debate-on-our-justice-system
-title: "Demand The Debate On Our Justice System"
-date: 2021-07-25
-source-url: https://www.scoop.co.nz/stories/PA2107/S00181/demand-the-debate-on-our-justice-system.htm
+title: Demand The Debate On Our Justice System
+date: 2021-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00181/demand-the-debate-on-our-justice-system.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/25/demand-the-debate-on-our-justice-system/index.html
+layout: layout.njk
 ---
 Demand The Debate On Our Justice System
 =======================================

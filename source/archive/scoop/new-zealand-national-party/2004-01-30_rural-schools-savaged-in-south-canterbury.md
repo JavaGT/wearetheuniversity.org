@@ -1,9 +1,12 @@
 ---
 slug: rural-schools-savaged-in-south-canterbury
-title: "Rural schools savaged in South Canterbury"
-date: 2004-01-30
-source-url: https://www.scoop.co.nz/stories/PA0401/S00293/rural-schools-savaged-in-south-canterbury.htm
+title: Rural schools savaged in South Canterbury
+date: 2004-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00293/rural-schools-savaged-in-south-canterbury.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/30/rural-schools-savaged-in-south-canterbury/index.html
+layout: layout.njk
 ---
 Rural schools savaged in South Canterbury
 =========================================

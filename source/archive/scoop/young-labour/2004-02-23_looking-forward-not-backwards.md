@@ -1,9 +1,12 @@
 ---
 slug: looking-forward-not-backwards
-title: "Looking Forward, not Backwards"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/PO0402/S00130/looking-forward-not-backwards.htm
+title: Looking Forward, not Backwards
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0402/S00130/looking-forward-not-backwards.htm
 author: young-labour
+permalink: /archive/2004/02/23/looking-forward-not-backwards/index.html
+layout: layout.njk
 ---
 Looking Forward, not Backwards
 ==============================

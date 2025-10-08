@@ -1,9 +1,12 @@
 ---
 slug: otago-defers-decision-on-some-student-fees
-title: "Otago Defers Decision On Some Student Fees"
-date: 2004-11-10
-source-url: https://www.scoop.co.nz/stories/ED0411/S00030/otago-defers-decision-on-some-student-fees.htm
+title: Otago Defers Decision On Some Student Fees
+date: 2004-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00030/otago-defers-decision-on-some-student-fees.htm
 author: university-of-otago
+permalink: /archive/2004/11/10/otago-defers-decision-on-some-student-fees/index.html
+layout: layout.njk
 ---
 Otago Defers Decision On Some Student Fees
 ==========================================

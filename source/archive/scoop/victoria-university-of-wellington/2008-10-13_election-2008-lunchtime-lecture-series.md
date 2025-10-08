@@ -1,9 +1,12 @@
 ---
 slug: election-2008-lunchtime-lecture-series
-title: "Election 2008 – Lunchtime Lecture Series"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/ED0810/S00038/election-2008-lunchtime-lecture-series.htm
+title: Election 2008 – Lunchtime Lecture Series
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00038/election-2008-lunchtime-lecture-series.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/10/13/election-2008-lunchtime-lecture-series/index.html
+layout: layout.njk
 ---
 Election 2008 – Lunchtime Lecture Series
 ========================================

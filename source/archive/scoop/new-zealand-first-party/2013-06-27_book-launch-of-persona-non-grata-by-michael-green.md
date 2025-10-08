@@ -1,9 +1,13 @@
 ---
 slug: book-launch-of-persona-non-grata-by-michael-green
-title: "Book launch of ‘Persona Non Grata’ by Michael Green"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/PA1306/S00454/book-launch-of-persona-non-grata-by-michael-green.htm
+title: Book launch of ‘Persona Non Grata’ by Michael Green
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00454/book-launch-of-persona-non-grata-by-michael-green.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/06/27/book-launch-of-persona-non-grata-by-michael-green/index.html
+layout: layout.njk
 ---
 Book launch of ‘Persona Non Grata’ by Michael Green
 ===================================================

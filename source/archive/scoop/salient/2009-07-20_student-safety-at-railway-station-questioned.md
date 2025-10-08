@@ -1,9 +1,12 @@
 ---
 slug: student-safety-at-railway-station-questioned
-title: "Student safety at Railway Station questioned"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/ED0907/S00080/student-safety-at-railway-station-questioned.htm
+title: Student safety at Railway Station questioned
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00080/student-safety-at-railway-station-questioned.htm
 author: salient
+permalink: /archive/2009/07/20/student-safety-at-railway-station-questioned/index.html
+layout: layout.njk
 ---
 Student safety at Railway Station questioned
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealanders-ignorance-of-the-holocaust-must-change
-title: "New Zealanders’ ignorance of the Holocaust must change"
-date: 2019-08-07
-source-url: https://www.scoop.co.nz/stories/ED1908/S00019/new-zealanders-ignorance-of-the-holocaust-must-change.htm
+title: New Zealanders’ ignorance of the Holocaust must change
+date: 2019-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1908/S00019/new-zealanders-ignorance-of-the-holocaust-must-change.htm
 author: aut-university
+permalink: >-
+  /archive/2019/08/07/new-zealanders-ignorance-of-the-holocaust-must-change/index.html
+layout: layout.njk
 ---
 New Zealanders’ ignorance of the Holocaust must change
 ======================================================

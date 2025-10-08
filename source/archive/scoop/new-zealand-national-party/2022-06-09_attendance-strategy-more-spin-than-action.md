@@ -1,9 +1,12 @@
 ---
 slug: attendance-strategy-more-spin-than-action
-title: "Attendance Strategy More Spin Than Action"
-date: 2022-06-09
-source-url: https://www.scoop.co.nz/stories/PA2206/S00080/attendance-strategy-more-spin-than-action.htm
+title: Attendance Strategy More Spin Than Action
+date: 2022-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00080/attendance-strategy-more-spin-than-action.htm
 author: new-zealand-national-party
+permalink: /archive/2022/06/09/attendance-strategy-more-spin-than-action/index.html
+layout: layout.njk
 ---
 Attendance Strategy More Spin Than Action
 =========================================

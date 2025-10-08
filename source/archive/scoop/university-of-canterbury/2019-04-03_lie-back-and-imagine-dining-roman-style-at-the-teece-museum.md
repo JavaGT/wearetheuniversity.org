@@ -1,9 +1,13 @@
 ---
 slug: lie-back-and-imagine-dining-roman-style-at-the-teece-museum
-title: "Lie back and imagine dining Roman-style at the Teece Museum"
-date: 2019-04-03
-source-url: https://www.scoop.co.nz/stories/CU1904/S00057/lie-back-and-imagine-dining-roman-style-at-the-teece-museum.htm
+title: Lie back and imagine dining Roman-style at the Teece Museum
+date: 2019-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1904/S00057/lie-back-and-imagine-dining-roman-style-at-the-teece-museum.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/04/03/lie-back-and-imagine-dining-roman-style-at-the-teece-museum/index.html
+layout: layout.njk
 ---
 Lie back and imagine dining Roman-style at the Teece Museum
 ===========================================================

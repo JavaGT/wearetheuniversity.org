@@ -1,9 +1,13 @@
 ---
 slug: sleep-one-of-the-keys-to-productivity-and-positive-emotions
-title: "Sleep One Of The Keys To Productivity And Positive Emotions"
-date: 2020-04-15
-source-url: https://www.scoop.co.nz/stories/GE2004/S00119/sleep-one-of-the-keys-to-productivity-and-positive-emotions.htm
+title: Sleep One Of The Keys To Productivity And Positive Emotions
+date: 2020-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2004/S00119/sleep-one-of-the-keys-to-productivity-and-positive-emotions.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/04/15/sleep-one-of-the-keys-to-productivity-and-positive-emotions/index.html
+layout: layout.njk
 ---
 Sleep One Of The Keys To Productivity And Positive Emotions
 ===========================================================

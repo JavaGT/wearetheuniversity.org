@@ -1,9 +1,12 @@
 ---
 slug: stop-misleading-dr-sharples-mr-key
-title: "Stop misleading Dr Sharples, Mr Key"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/PA1002/S00023/stop-misleading-dr-sharples-mr-key.htm
+title: Stop misleading Dr Sharples, Mr Key
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00023/stop-misleading-dr-sharples-mr-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/02/stop-misleading-dr-sharples-mr-key/index.html
+layout: layout.njk
 ---
 Stop misleading Dr Sharples, Mr Key
 ===================================

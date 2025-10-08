@@ -1,9 +1,12 @@
 ---
 slug: act-releases-minority-view-on-ipwg-report
-title: "ACT Releases Minority View On IPWG Report"
-date: 2010-02-17
-source-url: https://www.scoop.co.nz/stories/PA1002/S00226/act-releases-minority-view-on-ipwg-report.htm
+title: ACT Releases Minority View On IPWG Report
+date: 2010-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00226/act-releases-minority-view-on-ipwg-report.htm
 author: act-new-zealand
+permalink: /archive/2010/02/17/act-releases-minority-view-on-ipwg-report/index.html
+layout: layout.njk
 ---
 ACT Releases Minority View On IPWG Report
 =========================================

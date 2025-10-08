@@ -1,9 +1,12 @@
 ---
 slug: maori-party-angered-by-loss-of-nz-maori
-title: "Maori Party Angered by loss of NZ Maori"
-date: 2008-12-19
-source-url: https://www.scoop.co.nz/stories/PA0812/S00243/maori-party-angered-by-loss-of-nz-maori.htm
+title: Maori Party Angered by loss of NZ Maori
+date: 2008-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00243/maori-party-angered-by-loss-of-nz-maori.htm
 author: te-pati-maori
+permalink: /archive/2008/12/19/maori-party-angered-by-loss-of-nz-maori/index.html
+layout: layout.njk
 ---
 Maori Party Angered by loss of NZ Maori
 =======================================

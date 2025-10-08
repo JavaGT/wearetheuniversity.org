@@ -1,9 +1,13 @@
 ---
 slug: better-govt-reforms-needed-for-nz-coronial-system
-title: "Better Govt reforms needed for NZ coronial system"
-date: 2015-01-07
-source-url: https://www.scoop.co.nz/stories/PO1501/S00011/better-govt-reforms-needed-for-nz-coronial-system.htm
+title: Better Govt reforms needed for NZ coronial system
+date: 2015-01-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1501/S00011/better-govt-reforms-needed-for-nz-coronial-system.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/01/07/better-govt-reforms-needed-for-nz-coronial-system/index.html
+layout: layout.njk
 ---
 Better Govt reforms needed for NZ coronial system
 =================================================

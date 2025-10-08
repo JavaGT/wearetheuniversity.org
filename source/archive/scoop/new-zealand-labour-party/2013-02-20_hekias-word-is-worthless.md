@@ -1,9 +1,11 @@
 ---
 slug: hekias-word-is-worthless
-title: "Hekia’s word is worthless"
-date: 2013-02-20
+title: Hekia’s word is worthless
+date: 2013-02-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1302/S00298/hekias-word-is-worthless.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/20/hekias-word-is-worthless/index.html
+layout: layout.njk
 ---
 Hekia’s word is worthless
 =========================

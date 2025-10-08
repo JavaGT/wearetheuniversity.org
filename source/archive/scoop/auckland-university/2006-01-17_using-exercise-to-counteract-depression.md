@@ -1,9 +1,12 @@
 ---
 slug: using-exercise-to-counteract-depression
-title: "Using Exercise To Counteract Depression"
-date: 2006-01-17
-source-url: https://www.scoop.co.nz/stories/GE0601/S00029/using-exercise-to-counteract-depression.htm
+title: Using Exercise To Counteract Depression
+date: 2006-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0601/S00029/using-exercise-to-counteract-depression.htm
 author: auckland-university
+permalink: /archive/2006/01/17/using-exercise-to-counteract-depression/index.html
+layout: layout.njk
 ---
 Using Exercise To Counteract Depression
 =======================================

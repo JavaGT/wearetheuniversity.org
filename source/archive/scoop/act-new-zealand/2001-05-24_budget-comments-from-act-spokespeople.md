@@ -1,9 +1,12 @@
 ---
 slug: budget-comments-from-act-spokespeople
-title: "Budget Comments From ACT Spokespeople"
-date: 2001-05-24
-source-url: https://www.scoop.co.nz/stories/PA0105/S00545/budget-comments-from-act-spokespeople.htm
+title: Budget Comments From ACT Spokespeople
+date: 2001-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00545/budget-comments-from-act-spokespeople.htm
 author: act-new-zealand
+permalink: /archive/2001/05/24/budget-comments-from-act-spokespeople/index.html
+layout: layout.njk
 ---
 Budget Comments From ACT Spokespeople
 =====================================

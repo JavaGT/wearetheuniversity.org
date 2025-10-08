@@ -1,9 +1,11 @@
 ---
 slug: new-zealands-natural-capital
-title: "New Zealand’s Natural Capital"
-date: 2001-02-22
+title: New Zealand’s Natural Capital
+date: 2001-02-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0102/S00355/new-zealands-natural-capital.htm
 author: act-new-zealand
+permalink: /archive/2001/02/22/new-zealands-natural-capital/index.html
+layout: layout.njk
 ---
 New Zealand’s Natural Capital
 =============================

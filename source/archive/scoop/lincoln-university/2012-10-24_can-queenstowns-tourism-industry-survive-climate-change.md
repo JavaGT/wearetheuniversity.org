@@ -1,9 +1,13 @@
 ---
 slug: can-queenstowns-tourism-industry-survive-climate-change
-title: "Can Queenstown’s tourism industry survive climate change?"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/BU1210/S00919/can-queenstowns-tourism-industry-survive-climate-change.htm
+title: Can Queenstown’s tourism industry survive climate change?
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S00919/can-queenstowns-tourism-industry-survive-climate-change.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/10/24/can-queenstowns-tourism-industry-survive-climate-change/index.html
+layout: layout.njk
 ---
 Can Queenstown’s tourism industry survive climate change?
 =========================================================

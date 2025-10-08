@@ -1,9 +1,12 @@
 ---
 slug: new-scholarship-for-german-language-students
-title: "New Scholarship for German Language Students"
-date: 2016-04-01
-source-url: https://www.scoop.co.nz/stories/ED1604/S00001/new-scholarship-for-german-language-students.htm
+title: New Scholarship for German Language Students
+date: 2016-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00001/new-scholarship-for-german-language-students.htm
 author: university-of-waikato
+permalink: /archive/2016/04/01/new-scholarship-for-german-language-students/index.html
+layout: layout.njk
 ---
 New Scholarship for German Language Students
 ============================================

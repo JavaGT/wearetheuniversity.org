@@ -1,9 +1,12 @@
 ---
 slug: speech-sharples-notice-of-motion-samoa
-title: "Speech: Sharples - Notice of Motion: Samoa"
-date: 2009-10-13
-source-url: https://www.scoop.co.nz/stories/PA0910/S00140/speech-sharples-notice-of-motion-samoa.htm
+title: 'Speech: Sharples - Notice of Motion: Samoa'
+date: 2009-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00140/speech-sharples-notice-of-motion-samoa.htm
 author: te-pati-maori
+permalink: /archive/2009/10/13/speech-sharples-notice-of-motion-samoa/index.html
+layout: layout.njk
 ---
 Speech: Sharples - Notice of Motion: Samoa
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: manufacturing-job-losses-a-disaster-for-waikato-families
-title: "Manufacturing Job Losses a Disaster for Waikato Families"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/PA1407/S00432/manufacturing-job-losses-a-disaster-for-waikato-families.htm
+title: Manufacturing Job Losses a Disaster for Waikato Families
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00432/manufacturing-job-losses-a-disaster-for-waikato-families.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/07/23/manufacturing-job-losses-a-disaster-for-waikato-families/index.html
+layout: layout.njk
 ---
 Manufacturing Job Losses a Disaster for Waikato Families
 ========================================================

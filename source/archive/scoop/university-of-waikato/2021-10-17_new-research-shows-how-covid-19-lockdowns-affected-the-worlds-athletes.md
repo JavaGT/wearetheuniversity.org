@@ -1,9 +1,13 @@
 ---
 slug: new-research-shows-how-covid-19-lockdowns-affected-the-worlds-athletes
-title: "New Research Shows How Covid-19 Lockdowns Affected The World’s Athletes"
-date: 2021-10-17
-source-url: https://www.scoop.co.nz/stories/ED2110/S00011/new-research-shows-how-covid-19-lockdowns-affected-the-worlds-athletes.htm
+title: New Research Shows How Covid-19 Lockdowns Affected The World’s Athletes
+date: 2021-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2110/S00011/new-research-shows-how-covid-19-lockdowns-affected-the-worlds-athletes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/10/17/new-research-shows-how-covid-19-lockdowns-affected-the-worlds-athletes/index.html
+layout: layout.njk
 ---
 New Research Shows How Covid-19 Lockdowns Affected The World’s Athletes
 =======================================================================

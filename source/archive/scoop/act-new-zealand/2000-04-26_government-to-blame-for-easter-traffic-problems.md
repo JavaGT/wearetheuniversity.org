@@ -1,9 +1,12 @@
 ---
 slug: government-to-blame-for-easter-traffic-problems
-title: "Government to blame for Easter traffic problems"
-date: 2000-04-26
-source-url: https://www.scoop.co.nz/stories/PA0004/S00322/government-to-blame-for-easter-traffic-problems.htm
+title: Government to blame for Easter traffic problems
+date: 2000-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00322/government-to-blame-for-easter-traffic-problems.htm
 author: act-new-zealand
+permalink: /archive/2000/04/26/government-to-blame-for-easter-traffic-problems/index.html
+layout: layout.njk
 ---
 Government to blame for Easter traffic problems
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealanders-have-a-choice-on-inequality
-title: "New Zealanders have a choice on inequality"
-date: 2012-07-30
-source-url: https://www.scoop.co.nz/stories/PA1207/S00402/new-zealanders-have-a-choice-on-inequality.htm
+title: New Zealanders have a choice on inequality
+date: 2012-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00402/new-zealanders-have-a-choice-on-inequality.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/07/30/new-zealanders-have-a-choice-on-inequality/index.html
+layout: layout.njk
 ---
 New Zealanders have a choice on inequality
 ==========================================

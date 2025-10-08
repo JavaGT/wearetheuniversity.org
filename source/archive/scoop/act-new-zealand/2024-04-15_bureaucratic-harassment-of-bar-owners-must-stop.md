@@ -1,9 +1,12 @@
 ---
 slug: bureaucratic-harassment-of-bar-owners-must-stop
-title: "Bureaucratic Harassment Of Bar Owners Must Stop"
-date: 2024-04-15
-source-url: https://www.scoop.co.nz/stories/PA2404/S00087/bureaucratic-harassment-of-bar-owners-must-stop.htm
+title: Bureaucratic Harassment Of Bar Owners Must Stop
+date: 2024-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2404/S00087/bureaucratic-harassment-of-bar-owners-must-stop.htm
 author: act-new-zealand
+permalink: /archive/2024/04/15/bureaucratic-harassment-of-bar-owners-must-stop/index.html
+layout: layout.njk
 ---
 Bureaucratic Harassment Of Bar Owners Must Stop
 ===============================================

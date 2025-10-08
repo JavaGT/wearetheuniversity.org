@@ -1,9 +1,13 @@
 ---
 slug: low-fixed-income-kiwis-wont-get-gst-compensation
-title: "Low, Fixed Income Kiwis won’t get GST compensation"
-date: 2010-04-23
-source-url: https://www.scoop.co.nz/stories/PA1004/S00303/low-fixed-income-kiwis-wont-get-gst-compensation.htm
+title: Low, Fixed Income Kiwis won’t get GST compensation
+date: 2010-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00303/low-fixed-income-kiwis-wont-get-gst-compensation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/23/low-fixed-income-kiwis-wont-get-gst-compensation/index.html
+layout: layout.njk
 ---
 Low, Fixed Income Kiwis won’t get GST compensation
 ==================================================

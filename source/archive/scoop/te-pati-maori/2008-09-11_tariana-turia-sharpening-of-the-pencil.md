@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-sharpening-of-the-pencil
-title: "Tariana Turia: ‘Sharpening of the Pencil’"
-date: 2008-09-11
-source-url: https://www.scoop.co.nz/stories/PA0809/S00249/tariana-turia-sharpening-of-the-pencil.htm
+title: 'Tariana Turia: ‘Sharpening of the Pencil’'
+date: 2008-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00249/tariana-turia-sharpening-of-the-pencil.htm
 author: te-pati-maori
+permalink: /archive/2008/09/11/tariana-turia-sharpening-of-the-pencil/index.html
+layout: layout.njk
 ---
 Tariana Turia: ‘Sharpening of the Pencil’
 =========================================

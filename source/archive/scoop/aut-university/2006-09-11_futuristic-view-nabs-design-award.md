@@ -1,9 +1,12 @@
 ---
 slug: futuristic-view-nabs-design-award
-title: "Futuristic view nabs design award"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/ED0609/S00037/futuristic-view-nabs-design-award.htm
+title: Futuristic view nabs design award
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00037/futuristic-view-nabs-design-award.htm
 author: aut-university
+permalink: /archive/2006/09/11/futuristic-view-nabs-design-award/index.html
+layout: layout.njk
 ---
 Futuristic view nabs design award
 =================================

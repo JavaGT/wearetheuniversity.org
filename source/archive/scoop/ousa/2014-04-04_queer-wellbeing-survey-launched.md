@@ -1,9 +1,12 @@
 ---
 slug: queer-wellbeing-survey-launched
-title: "Queer Wellbeing Survey Launched"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/CU1404/S00085/queer-wellbeing-survey-launched.htm
+title: Queer Wellbeing Survey Launched
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00085/queer-wellbeing-survey-launched.htm
 author: ousa
+permalink: /archive/2014/04/04/queer-wellbeing-survey-launched/index.html
+layout: layout.njk
 ---
 Queer Wellbeing Survey Launched
 ===============================

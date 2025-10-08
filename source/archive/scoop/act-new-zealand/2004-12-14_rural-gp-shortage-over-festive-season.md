@@ -1,9 +1,12 @@
 ---
 slug: rural-gp-shortage-over-festive-season
-title: "Rural GP shortage over festive season"
-date: 2004-12-14
-source-url: https://www.scoop.co.nz/stories/PA0412/S00330/rural-gp-shortage-over-festive-season.htm
+title: Rural GP shortage over festive season
+date: 2004-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00330/rural-gp-shortage-over-festive-season.htm
 author: act-new-zealand
+permalink: /archive/2004/12/14/rural-gp-shortage-over-festive-season/index.html
+layout: layout.njk
 ---
 Rural GP shortage over festive season
 =====================================

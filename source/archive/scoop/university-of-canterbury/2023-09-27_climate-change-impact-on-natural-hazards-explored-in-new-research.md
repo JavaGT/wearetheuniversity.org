@@ -1,9 +1,13 @@
 ---
 slug: climate-change-impact-on-natural-hazards-explored-in-new-research
-title: "Climate Change Impact On Natural Hazards Explored In New Research"
-date: 2023-09-27
-source-url: https://www.scoop.co.nz/stories/SC2309/S00044/climate-change-impact-on-natural-hazards-explored-in-new-research.htm
+title: Climate Change Impact On Natural Hazards Explored In New Research
+date: 2023-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2309/S00044/climate-change-impact-on-natural-hazards-explored-in-new-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/09/27/climate-change-impact-on-natural-hazards-explored-in-new-research/index.html
+layout: layout.njk
 ---
 Climate Change Impact On Natural Hazards Explored In New Research
 =================================================================

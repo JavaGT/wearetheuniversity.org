@@ -1,9 +1,12 @@
 ---
 slug: south-seas-success-excites-turia
-title: "South Seas Success Excites Turia"
-date: 2008-01-31
-source-url: https://www.scoop.co.nz/stories/PA0801/S00251/south-seas-success-excites-turia.htm
+title: South Seas Success Excites Turia
+date: 2008-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00251/south-seas-success-excites-turia.htm
 author: te-pati-maori
+permalink: /archive/2008/01/31/south-seas-success-excites-turia/index.html
+layout: layout.njk
 ---
 South Seas Success Excites Turia
 ================================

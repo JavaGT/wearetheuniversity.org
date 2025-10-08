@@ -1,9 +1,13 @@
 ---
 slug: speech-props-promises-propaganda-and-phoney-politics
-title: "Speech: Props, Promises, Propaganda And Phoney Politics"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/PA1705/S00348/speech-props-promises-propaganda-and-phoney-politics.htm
+title: 'Speech: Props, Promises, Propaganda And Phoney Politics'
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00348/speech-props-promises-propaganda-and-phoney-politics.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/05/17/speech-props-promises-propaganda-and-phoney-politics/index.html
+layout: layout.njk
 ---
 Speech: Props, Promises, Propaganda And Phoney Politics
 =======================================================

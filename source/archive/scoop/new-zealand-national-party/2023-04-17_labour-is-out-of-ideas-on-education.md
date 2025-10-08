@@ -1,9 +1,12 @@
 ---
 slug: labour-is-out-of-ideas-on-education
-title: "Labour Is Out Of Ideas On Education"
-date: 2023-04-17
-source-url: https://www.scoop.co.nz/stories/PA2304/S00100/labour-is-out-of-ideas-on-education.htm
+title: Labour Is Out Of Ideas On Education
+date: 2023-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00100/labour-is-out-of-ideas-on-education.htm
 author: new-zealand-national-party
+permalink: /archive/2023/04/17/labour-is-out-of-ideas-on-education/index.html
+layout: layout.njk
 ---
 Labour Is Out Of Ideas On Education
 ===================================

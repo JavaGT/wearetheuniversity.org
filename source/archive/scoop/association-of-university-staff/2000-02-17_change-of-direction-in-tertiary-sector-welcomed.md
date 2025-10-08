@@ -1,9 +1,12 @@
 ---
 slug: change-of-direction-in-tertiary-sector-welcomed
-title: "Change of direction in tertiary sector welcomed"
-date: 2000-02-17
-source-url: https://www.scoop.co.nz/stories/ED0002/S00021/change-of-direction-in-tertiary-sector-welcomed.htm
+title: Change of direction in tertiary sector welcomed
+date: 2000-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0002/S00021/change-of-direction-in-tertiary-sector-welcomed.htm
 author: association-of-university-staff
+permalink: /archive/2000/02/17/change-of-direction-in-tertiary-sector-welcomed/index.html
+layout: layout.njk
 ---
 Change of direction in tertiary sector welcomed
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: refreshing-prose-poetry-collection-wins-adam-prize
-title: "Refreshing prose poetry collection wins Adam prize"
-date: 2011-12-15
-source-url: https://www.scoop.co.nz/stories/CU1112/S00241/refreshing-prose-poetry-collection-wins-adam-prize.htm
+title: Refreshing prose poetry collection wins Adam prize
+date: 2011-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1112/S00241/refreshing-prose-poetry-collection-wins-adam-prize.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/12/15/refreshing-prose-poetry-collection-wins-adam-prize/index.html
+layout: layout.njk
 ---
 Refreshing prose poetry collection wins Adam prize
 ==================================================

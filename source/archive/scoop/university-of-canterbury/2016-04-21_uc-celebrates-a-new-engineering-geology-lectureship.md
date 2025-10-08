@@ -1,9 +1,13 @@
 ---
 slug: uc-celebrates-a-new-engineering-geology-lectureship
-title: "UC celebrates a new Engineering Geology lectureship"
-date: 2016-04-21
-source-url: https://www.scoop.co.nz/stories/ED1604/S00079/uc-celebrates-a-new-engineering-geology-lectureship.htm
+title: UC celebrates a new Engineering Geology lectureship
+date: 2016-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00079/uc-celebrates-a-new-engineering-geology-lectureship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/21/uc-celebrates-a-new-engineering-geology-lectureship/index.html
+layout: layout.njk
 ---
 UC celebrates a new Engineering Geology lectureship
 ===================================================

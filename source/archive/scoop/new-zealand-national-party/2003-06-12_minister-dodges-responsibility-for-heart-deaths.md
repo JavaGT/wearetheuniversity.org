@@ -1,9 +1,12 @@
 ---
 slug: minister-dodges-responsibility-for-heart-deaths
-title: "Minister dodges responsibility for heart deaths"
-date: 2003-06-12
-source-url: https://www.scoop.co.nz/stories/PA0306/S00220/minister-dodges-responsibility-for-heart-deaths.htm
+title: Minister dodges responsibility for heart deaths
+date: 2003-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00220/minister-dodges-responsibility-for-heart-deaths.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/12/minister-dodges-responsibility-for-heart-deaths/index.html
+layout: layout.njk
 ---
 Minister dodges responsibility for heart deaths
 ===============================================

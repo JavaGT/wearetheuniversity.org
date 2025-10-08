@@ -1,9 +1,12 @@
 ---
 slug: export-education-package-pure-cosmetics
-title: "Export education package pure cosmetics"
-date: 2004-05-12
-source-url: https://www.scoop.co.nz/stories/PA0405/S00207/export-education-package-pure-cosmetics.htm
+title: Export education package pure cosmetics
+date: 2004-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00207/export-education-package-pure-cosmetics.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/12/export-education-package-pure-cosmetics/index.html
+layout: layout.njk
 ---
 Export education package pure cosmetics
 =======================================

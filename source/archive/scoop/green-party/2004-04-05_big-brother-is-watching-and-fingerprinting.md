@@ -1,9 +1,12 @@
 ---
 slug: big-brother-is-watching-and-fingerprinting
-title: "Big Brother is watching...and fingerprinting"
-date: 2004-04-05
-source-url: https://www.scoop.co.nz/stories/PA0404/S00081/big-brother-is-watchingand-fingerprinting.htm
+title: Big Brother is watching...and fingerprinting
+date: 2004-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00081/big-brother-is-watchingand-fingerprinting.htm
 author: green-party
+permalink: /archive/2004/04/05/big-brother-is-watching-and-fingerprinting/index.html
+layout: layout.njk
 ---
 Big Brother is watching...and fingerprinting
 ============================================

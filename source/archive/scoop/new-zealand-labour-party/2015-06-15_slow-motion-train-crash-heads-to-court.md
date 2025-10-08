@@ -1,9 +1,12 @@
 ---
 slug: slow-motion-train-crash-heads-to-court
-title: "Slow motion train crash heads to court"
-date: 2015-06-15
-source-url: https://www.scoop.co.nz/stories/PA1506/S00230/slow-motion-train-crash-heads-to-court.htm
+title: Slow motion train crash heads to court
+date: 2015-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00230/slow-motion-train-crash-heads-to-court.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/15/slow-motion-train-crash-heads-to-court/index.html
+layout: layout.njk
 ---
 Slow motion train crash heads to court
 ======================================

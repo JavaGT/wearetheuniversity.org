@@ -1,9 +1,13 @@
 ---
 slug: maori-party-to-campaign-for-party-electorate-vote
-title: "Maori Party to campaign for party, electorate vote"
-date: 2008-06-03
-source-url: https://www.scoop.co.nz/stories/PA0806/S00014/maori-party-to-campaign-for-party-electorate-vote.htm
+title: Maori Party to campaign for party, electorate vote
+date: 2008-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00014/maori-party-to-campaign-for-party-electorate-vote.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/06/03/maori-party-to-campaign-for-party-electorate-vote/index.html
+layout: layout.njk
 ---
 Maori Party to campaign for party, electorate vote
 ==================================================

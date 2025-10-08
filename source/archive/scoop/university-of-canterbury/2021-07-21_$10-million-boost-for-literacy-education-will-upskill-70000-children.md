@@ -1,9 +1,13 @@
 ---
 slug: $10-million-boost-for-literacy-education-will-upskill-70000-children
-title: "$10 Million Boost For Literacy Education Will Upskill 70,000 Children"
-date: 2021-07-21
-source-url: https://www.scoop.co.nz/stories/ED2107/S00033/10-million-boost-for-literacy-education-will-upskill-70000-children.htm
+title: $10 Million Boost For Literacy Education Will Upskill 70,000 Children
+date: 2021-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2107/S00033/10-million-boost-for-literacy-education-will-upskill-70000-children.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/21/10-million-boost-for-literacy-education-will-upskill-70-000-children/index.html
+layout: layout.njk
 ---
 $10 Million Boost For Literacy Education Will Upskill 70,000 Children
 =====================================================================

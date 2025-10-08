@@ -1,9 +1,12 @@
 ---
 slug: party-pill-users-likely-to-party-on-other-drugs
-title: "Party Pill users likely to party on other drugs"
-date: 2007-10-12
-source-url: https://www.scoop.co.nz/stories/GE0710/S00065/party-pill-users-likely-to-party-on-other-drugs.htm
+title: Party Pill users likely to party on other drugs
+date: 2007-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0710/S00065/party-pill-users-likely-to-party-on-other-drugs.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/12/party-pill-users-likely-to-party-on-other-drugs/index.html
+layout: layout.njk
 ---
 Party Pill users likely to party on other drugs
 ===============================================

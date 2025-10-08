@@ -1,9 +1,13 @@
 ---
 slug: waikato-entrepreneurs-grateful-for-internship-programme
-title: "Waikato entrepreneurs grateful for internship programme"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/ED1410/S00124/waikato-entrepreneurs-grateful-for-internship-programme.htm
+title: Waikato entrepreneurs grateful for internship programme
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00124/waikato-entrepreneurs-grateful-for-internship-programme.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/10/22/waikato-entrepreneurs-grateful-for-internship-programme/index.html
+layout: layout.njk
 ---
 Waikato entrepreneurs grateful for internship programme
 =======================================================

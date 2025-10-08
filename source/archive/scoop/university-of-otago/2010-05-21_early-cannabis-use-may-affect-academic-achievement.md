@@ -1,9 +1,13 @@
 ---
 slug: early-cannabis-use-may-affect-academic-achievement
-title: "Early cannabis use may affect academic achievement"
-date: 2010-05-21
-source-url: https://www.scoop.co.nz/stories/GE1005/S00107/early-cannabis-use-may-affect-academic-achievement.htm
+title: Early cannabis use may affect academic achievement
+date: 2010-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1005/S00107/early-cannabis-use-may-affect-academic-achievement.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/05/21/early-cannabis-use-may-affect-academic-achievement/index.html
+layout: layout.njk
 ---
 Early cannabis use may affect academic achievement
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: first-in-family-scholarships-to-open-the-door-for-university
-title: "First-in-Family Scholarships to open the door for university"
-date: 2014-09-22
-source-url: https://www.scoop.co.nz/stories/ED1409/S00126/first-in-family-scholarships-to-open-the-door-for-university.htm
+title: First-in-Family Scholarships to open the door for university
+date: 2014-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00126/first-in-family-scholarships-to-open-the-door-for-university.htm
 author: aut-university
+permalink: >-
+  /archive/2014/09/22/first-in-family-scholarships-to-open-the-door-for-university/index.html
+layout: layout.njk
 ---
 First-in-Family Scholarships to open the door for university
 ============================================================

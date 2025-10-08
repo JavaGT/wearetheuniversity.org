@@ -1,9 +1,12 @@
 ---
 slug: labour-must-drop-scholarship-fix-it-fee
-title: "Labour Must Drop Scholarship Fix-It Fee"
-date: 2005-02-10
-source-url: https://www.scoop.co.nz/stories/PA0502/S00247/labour-must-drop-scholarship-fix-it-fee.htm
+title: Labour Must Drop Scholarship Fix-It Fee
+date: 2005-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00247/labour-must-drop-scholarship-fix-it-fee.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/10/labour-must-drop-scholarship-fix-it-fee/index.html
+layout: layout.njk
 ---
 Labour Must Drop Scholarship Fix-It Fee
 =======================================

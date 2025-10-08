@@ -1,9 +1,13 @@
 ---
 slug: minister-comments-on-nzier-saving-report-incorrect
-title: "Minister Comments on NZIER Saving Report Incorrect"
-date: 2007-10-16
-source-url: https://www.scoop.co.nz/stories/BU0710/S00264/minister-comments-on-nzier-saving-report-incorrect.htm
+title: Minister Comments on NZIER Saving Report Incorrect
+date: 2007-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0710/S00264/minister-comments-on-nzier-saving-report-incorrect.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2007/10/16/minister-comments-on-nzier-saving-report-incorrect/index.html
+layout: layout.njk
 ---
 Minister Comments on NZIER Saving Report Incorrect
 ==================================================

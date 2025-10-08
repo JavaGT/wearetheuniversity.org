@@ -1,9 +1,12 @@
 ---
 slug: deborah-coddingtons-liberty-belle-may-7-2004
-title: "Deborah Coddington's Liberty Belle May 7 2004"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PA0405/S00375/deborah-coddingtons-liberty-belle-may-7-2004.htm
+title: Deborah Coddington's Liberty Belle May 7 2004
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00375/deborah-coddingtons-liberty-belle-may-7-2004.htm
 author: act-new-zealand
+permalink: /archive/2004/05/18/deborah-coddingtons-liberty-belle-may-7-2004/index.html
+layout: layout.njk
 ---
 Deborah Coddington's Liberty Belle May 7 2004
 =============================================

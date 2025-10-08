@@ -1,9 +1,12 @@
 ---
 slug: corporate-manslaughter-law-needed
-title: "Corporate Manslaughter Law Needed"
-date: 2002-05-01
-source-url: https://www.scoop.co.nz/stories/BU0205/S00004/corporate-manslaughter-law-needed.htm
+title: Corporate Manslaughter Law Needed
+date: 2002-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0205/S00004/corporate-manslaughter-law-needed.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/05/01/corporate-manslaughter-law-needed/index.html
+layout: layout.njk
 ---
 Corporate Manslaughter Law Needed
 =================================

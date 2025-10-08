@@ -1,9 +1,12 @@
 ---
 slug: the-mouse-on-a-treadmill-budget
-title: "\"The Mouse On A Treadmill Budget\""
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/PA1305/S00339/the-mouse-on-a-treadmill-budget.htm
+title: '"The Mouse On A Treadmill Budget"'
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00339/the-mouse-on-a-treadmill-budget.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/16/the-mouse-on-a-treadmill-budget/index.html
+layout: layout.njk
 ---
 “The Mouse On A Treadmill Budget”
 =================================

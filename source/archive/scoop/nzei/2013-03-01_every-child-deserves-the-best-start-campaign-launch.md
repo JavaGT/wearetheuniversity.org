@@ -1,9 +1,13 @@
 ---
 slug: every-child-deserves-the-best-start-campaign-launch
-title: "Every child deserves the Best Start – campaign launch"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/PO1303/S00007/every-child-deserves-the-best-start-campaign-launch.htm
+title: Every child deserves the Best Start – campaign launch
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00007/every-child-deserves-the-best-start-campaign-launch.htm
 author: nzei
+permalink: >-
+  /archive/2013/03/01/every-child-deserves-the-best-start-campaign-launch/index.html
+layout: layout.njk
 ---
 Every child deserves the Best Start – campaign launch
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: aut-graduates-trade-kiwi-summer-for-winter-internships
-title: "AUT graduates trade Kiwi summer for winter internships"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/ED1412/S00040/aut-graduates-trade-kiwi-summer-for-winter-internships.htm
+title: AUT graduates trade Kiwi summer for winter internships
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00040/aut-graduates-trade-kiwi-summer-for-winter-internships.htm
 author: aut-university
+permalink: >-
+  /archive/2014/12/05/aut-graduates-trade-kiwi-summer-for-winter-internships/index.html
+layout: layout.njk
 ---
 AUT graduates trade Kiwi summer for winter internships
 ======================================================

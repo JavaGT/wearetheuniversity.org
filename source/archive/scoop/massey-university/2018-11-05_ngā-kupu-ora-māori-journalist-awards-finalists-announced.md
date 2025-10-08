@@ -1,9 +1,12 @@
 ---
 slug: ngā-kupu-ora-māori-journalist-awards-finalists-announced
-title: "Ngā Kupu Ora Māori Journalist Awards - Finalists announced"
-date: 2018-11-05
-source-url: https://www.scoop.co.nz/stories/BU1811/S00098/nga-kupu-ora-maori-journalist-awards-finalists-announced.htm
+title: Ngā Kupu Ora Māori Journalist Awards - Finalists announced
+date: 2018-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1811/S00098/nga-kupu-ora-maori-journalist-awards-finalists-announced.htm
 author: massey-university
+permalink: /archive/2018/11/05/ng/index.html
+layout: layout.njk
 ---
 Ngā Kupu Ora Māori Journalist Awards - Finalists announced
 ==========================================================

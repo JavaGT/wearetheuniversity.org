@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-26-may-2006
-title: "Heather Roy's Diary – 26 May 2006"
-date: 2006-05-26
-source-url: https://www.scoop.co.nz/stories/PA0605/S00639/heather-roys-diary-26-may-2006.htm
+title: Heather Roy's Diary – 26 May 2006
+date: 2006-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00639/heather-roys-diary-26-may-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/05/26/heather-roys-diary-26-may-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary – 26 May 2006
 =================================

@@ -1,9 +1,13 @@
 ---
 slug: tweets-and-web-data-help-track-languages-around-the-globe
-title: "Tweets And Web Data Help Track Languages Around The Globe"
-date: 2020-08-11
-source-url: https://www.scoop.co.nz/stories/CU2008/S00090/tweets-and-web-data-help-track-languages-around-the-globe.htm
+title: Tweets And Web Data Help Track Languages Around The Globe
+date: 2020-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2008/S00090/tweets-and-web-data-help-track-languages-around-the-globe.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/08/11/tweets-and-web-data-help-track-languages-around-the-globe/index.html
+layout: layout.njk
 ---
 Tweets And Web Data Help Track Languages Around The Globe
 =========================================================

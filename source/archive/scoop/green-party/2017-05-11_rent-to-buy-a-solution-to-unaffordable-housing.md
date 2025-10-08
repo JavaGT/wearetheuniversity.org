@@ -1,9 +1,12 @@
 ---
 slug: rent-to-buy-a-solution-to-unaffordable-housing
-title: "Rent-to-buy a solution to unaffordable housing"
-date: 2017-05-11
-source-url: https://www.scoop.co.nz/stories/PA1705/S00227/rent-to-buy-a-solution-to-unaffordable-housing.htm
+title: Rent-to-buy a solution to unaffordable housing
+date: 2017-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00227/rent-to-buy-a-solution-to-unaffordable-housing.htm
 author: green-party
+permalink: /archive/2017/05/11/rent-to-buy-a-solution-to-unaffordable-housing/index.html
+layout: layout.njk
 ---
 Rent-to-buy a solution to unaffordable housing
 ==============================================

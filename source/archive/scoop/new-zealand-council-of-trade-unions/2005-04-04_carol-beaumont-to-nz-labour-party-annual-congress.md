@@ -1,9 +1,13 @@
 ---
 slug: carol-beaumont-to-nz-labour-party-annual-congress
-title: "Carol Beaumont to NZ Labour Party Annual Congress"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/PO0504/S00031/carol-beaumont-to-nz-labour-party-annual-congress.htm
+title: Carol Beaumont to NZ Labour Party Annual Congress
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00031/carol-beaumont-to-nz-labour-party-annual-congress.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2005/04/04/carol-beaumont-to-nz-labour-party-annual-congress/index.html
+layout: layout.njk
 ---
 Carol Beaumont to NZ Labour Party Annual Congress
 =================================================

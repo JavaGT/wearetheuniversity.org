@@ -1,9 +1,12 @@
 ---
 slug: minister-of-finance-out-of-touch-with-business
-title: "Minister Of Finance Out-of-touch With Business"
-date: 2021-11-23
-source-url: https://www.scoop.co.nz/stories/PA2111/S00253/minister-of-finance-out-of-touch-with-business.htm
+title: Minister Of Finance Out-of-touch With Business
+date: 2021-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00253/minister-of-finance-out-of-touch-with-business.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/23/minister-of-finance-out-of-touch-with-business/index.html
+layout: layout.njk
 ---
 Minister Of Finance Out-of-touch With Business
 ==============================================

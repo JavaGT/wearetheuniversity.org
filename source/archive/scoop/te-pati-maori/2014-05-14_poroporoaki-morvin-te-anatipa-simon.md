@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-morvin-te-anatipa-simon
-title: "Poroporoaki - Morvin Te Anatipa Simon"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/PA1405/S00221/poroporoaki-morvin-te-anatipa-simon.htm
+title: Poroporoaki - Morvin Te Anatipa Simon
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00221/poroporoaki-morvin-te-anatipa-simon.htm
 author: te-pati-maori
+permalink: /archive/2014/05/14/poroporoaki-morvin-te-anatipa-simon/index.html
+layout: layout.njk
 ---
 Poroporoaki - Morvin Te Anatipa Simon
 =====================================

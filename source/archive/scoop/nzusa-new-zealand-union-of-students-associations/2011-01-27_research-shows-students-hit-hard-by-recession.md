@@ -1,9 +1,12 @@
 ---
 slug: research-shows-students-hit-hard-by-recession
-title: "Research shows students hit hard by recession"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/AK1101/S00611/research-shows-students-hit-hard-by-recession.htm
+title: Research shows students hit hard by recession
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1101/S00611/research-shows-students-hit-hard-by-recession.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/01/27/research-shows-students-hit-hard-by-recession/index.html
+layout: layout.njk
 ---
 Research shows students hit hard by recession
 =============================================

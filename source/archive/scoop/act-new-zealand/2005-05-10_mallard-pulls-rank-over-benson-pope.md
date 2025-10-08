@@ -1,9 +1,12 @@
 ---
 slug: mallard-pulls-rank-over-benson-pope
-title: "Mallard pulls rank over Benson-Pope"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/PA0505/S00236/mallard-pulls-rank-over-benson-pope.htm
+title: Mallard pulls rank over Benson-Pope
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00236/mallard-pulls-rank-over-benson-pope.htm
 author: act-new-zealand
+permalink: /archive/2005/05/10/mallard-pulls-rank-over-benson-pope/index.html
+layout: layout.njk
 ---
 Mallard pulls rank over Benson-Pope
 ===================================

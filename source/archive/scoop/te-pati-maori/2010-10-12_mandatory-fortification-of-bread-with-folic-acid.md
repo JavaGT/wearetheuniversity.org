@@ -1,9 +1,13 @@
 ---
 slug: mandatory-fortification-of-bread-with-folic-acid
-title: "Mandatory Fortification of Bread with Folic Acid"
-date: 2010-10-12
-source-url: https://www.scoop.co.nz/stories/PA1010/S00163/mandatory-fortification-of-bread-with-folic-acid.htm
+title: Mandatory Fortification of Bread with Folic Acid
+date: 2010-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00163/mandatory-fortification-of-bread-with-folic-acid.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/10/12/mandatory-fortification-of-bread-with-folic-acid/index.html
+layout: layout.njk
 ---
 Mandatory Fortification of Bread with Folic Acid
 ================================================

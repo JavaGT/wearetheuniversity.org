@@ -1,9 +1,12 @@
 ---
 slug: nationals-policies-will-not-enhance-learning
-title: "National's Policies Will Not Enhance Learning"
-date: 2005-07-01
-source-url: https://www.scoop.co.nz/stories/ED0507/S00007/nationals-policies-will-not-enhance-learning.htm
+title: National's Policies Will Not Enhance Learning
+date: 2005-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00007/nationals-policies-will-not-enhance-learning.htm
 author: nzei
+permalink: /archive/2005/07/01/nationals-policies-will-not-enhance-learning/index.html
+layout: layout.njk
 ---
 National's Policies Will Not Enhance Learning
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-overwhelmingly-oppose-iraq-war
-title: "Students Overwhelmingly oppose Iraq War"
-date: 2003-03-19
-source-url: https://www.scoop.co.nz/stories/PO0303/S00166/students-overwhelmingly-oppose-iraq-war.htm
+title: Students Overwhelmingly oppose Iraq War
+date: 2003-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00166/students-overwhelmingly-oppose-iraq-war.htm
 author: victoria-university-students-association
+permalink: /archive/2003/03/19/students-overwhelmingly-oppose-iraq-war/index.html
+layout: layout.njk
 ---
 Students Overwhelmingly oppose Iraq War
 =======================================

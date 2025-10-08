@@ -1,9 +1,13 @@
 ---
 slug: usp-leads-in-promoting-womens-access-to-higher-education
-title: "USP Leads In Promoting Women’s Access To Higher Education"
-date: 2024-09-18
-source-url: https://www.scoop.co.nz/stories/WO2409/S00087/usp-leads-in-promoting-womens-access-to-higher-education.htm
+title: USP Leads In Promoting Women’s Access To Higher Education
+date: 2024-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2409/S00087/usp-leads-in-promoting-womens-access-to-higher-education.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2024/09/18/usp-leads-in-promoting-womens-access-to-higher-education/index.html
+layout: layout.njk
 ---
 USP Leads In Promoting Women’s Access To Higher Education
 =========================================================

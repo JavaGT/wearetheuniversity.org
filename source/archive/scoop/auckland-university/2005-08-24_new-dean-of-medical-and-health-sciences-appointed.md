@@ -1,9 +1,13 @@
 ---
 slug: new-dean-of-medical-and-health-sciences-appointed
-title: "New Dean Of Medical And Health Sciences Appointed"
-date: 2005-08-24
-source-url: https://www.scoop.co.nz/stories/ED0508/S00103/new-dean-of-medical-and-health-sciences-appointed.htm
+title: New Dean Of Medical And Health Sciences Appointed
+date: 2005-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00103/new-dean-of-medical-and-health-sciences-appointed.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/08/24/new-dean-of-medical-and-health-sciences-appointed/index.html
+layout: layout.njk
 ---
 New Dean Of Medical And Health Sciences Appointed
 =================================================

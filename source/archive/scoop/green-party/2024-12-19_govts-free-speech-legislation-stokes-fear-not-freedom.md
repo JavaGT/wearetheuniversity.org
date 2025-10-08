@@ -1,9 +1,13 @@
 ---
 slug: govts-free-speech-legislation-stokes-fear-not-freedom
-title: "Govt’s ‘free Speech’ Legislation Stokes Fear, Not Freedom"
-date: 2024-12-19
-source-url: https://www.scoop.co.nz/stories/PA2412/S00238/govts-free-speech-legislation-stokes-fear-not-freedom.htm
+title: Govt’s ‘free Speech’ Legislation Stokes Fear, Not Freedom
+date: 2024-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2412/S00238/govts-free-speech-legislation-stokes-fear-not-freedom.htm
 author: green-party
+permalink: >-
+  /archive/2024/12/19/govts-free-speech-legislation-stokes-fear-not-freedom/index.html
+layout: layout.njk
 ---
 Govt’s ‘free Speech’ Legislation Stokes Fear, Not Freedom
 =========================================================

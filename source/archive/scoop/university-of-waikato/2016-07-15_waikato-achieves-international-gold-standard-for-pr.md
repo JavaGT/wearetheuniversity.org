@@ -1,9 +1,13 @@
 ---
 slug: waikato-achieves-international-gold-standard-for-pr
-title: "Waikato achieves international gold standard for PR"
-date: 2016-07-15
-source-url: https://www.scoop.co.nz/stories/ED1607/S00063/waikato-achieves-international-gold-standard-for-pr.htm
+title: Waikato achieves international gold standard for PR
+date: 2016-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1607/S00063/waikato-achieves-international-gold-standard-for-pr.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/07/15/waikato-achieves-international-gold-standard-for-pr/index.html
+layout: layout.njk
 ---
 Waikato achieves international gold standard for PR
 ===================================================

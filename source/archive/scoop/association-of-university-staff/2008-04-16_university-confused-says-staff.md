@@ -1,9 +1,12 @@
 ---
 slug: university-confused-says-staff
-title: "University confused, says staff"
-date: 2008-04-16
-source-url: https://www.scoop.co.nz/stories/ED0804/S00044/university-confused-says-staff.htm
+title: University confused, says staff
+date: 2008-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00044/university-confused-says-staff.htm
 author: association-of-university-staff
+permalink: /archive/2008/04/16/university-confused-says-staff/index.html
+layout: layout.njk
 ---
 University confused, says staff
 ===============================

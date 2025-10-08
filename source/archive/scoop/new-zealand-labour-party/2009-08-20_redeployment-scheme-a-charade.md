@@ -1,9 +1,12 @@
 ---
 slug: redeployment-scheme-a-charade
-title: "Redeployment scheme a charade"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/PA0908/S00282/redeployment-scheme-a-charade.htm
+title: Redeployment scheme a charade
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00282/redeployment-scheme-a-charade.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/20/redeployment-scheme-a-charade/index.html
+layout: layout.njk
 ---
 Redeployment scheme a charade
 =============================

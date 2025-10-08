@@ -1,9 +1,12 @@
 ---
 slug: ausa-supports-jaffna-students-in-sri-lanka
-title: "AUSA Supports Jaffna Students In Sri Lanka"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/PO0705/S00292/ausa-supports-jaffna-students-in-sri-lanka.htm
+title: AUSA Supports Jaffna Students In Sri Lanka
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0705/S00292/ausa-supports-jaffna-students-in-sri-lanka.htm
 author: ausa
+permalink: /archive/2007/05/17/ausa-supports-jaffna-students-in-sri-lanka/index.html
+layout: layout.njk
 ---
 AUSA Supports Jaffna Students In Sri Lanka
 ==========================================

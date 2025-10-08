@@ -1,9 +1,12 @@
 ---
 slug: green-light-moves-nz-forward-on-rail-and-road
-title: "Green Light Moves NZ Forward on Rail And Road"
-date: 2014-07-14
-source-url: https://www.scoop.co.nz/stories/PA1407/S00252/green-light-moves-nz-forward-on-rail-and-road.htm
+title: Green Light Moves NZ Forward on Rail And Road
+date: 2014-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00252/green-light-moves-nz-forward-on-rail-and-road.htm
 author: new-zealand-first-party
+permalink: /archive/2014/07/14/green-light-moves-nz-forward-on-rail-and-road/index.html
+layout: layout.njk
 ---
 Green Light Moves NZ Forward on Rail And Road
 =============================================

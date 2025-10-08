@@ -1,9 +1,13 @@
 ---
 slug: university-establishment-law-clarification-welcome
-title: "University Establishment Law Clarification Welcome"
-date: 2004-09-17
-source-url: https://www.scoop.co.nz/stories/ED0409/S00079/university-establishment-law-clarification-welcome.htm
+title: University Establishment Law Clarification Welcome
+date: 2004-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00079/university-establishment-law-clarification-welcome.htm
 author: vice-chancellors-committee
+permalink: >-
+  /archive/2004/09/17/university-establishment-law-clarification-welcome/index.html
+layout: layout.njk
 ---
 University Establishment Law Clarification Welcome
 ==================================================

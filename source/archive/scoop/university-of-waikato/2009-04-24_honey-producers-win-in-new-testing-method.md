@@ -1,9 +1,12 @@
 ---
 slug: honey-producers-win-in-new-testing-method
-title: "Honey producers win in new testing method"
-date: 2009-04-24
-source-url: https://www.scoop.co.nz/stories/SC0904/S00044/honey-producers-win-in-new-testing-method.htm
+title: Honey producers win in new testing method
+date: 2009-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00044/honey-producers-win-in-new-testing-method.htm
 author: university-of-waikato
+permalink: /archive/2009/04/24/honey-producers-win-in-new-testing-method/index.html
+layout: layout.njk
 ---
 Honey producers win in new testing method
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-and-the-world-challenges-we-must-meet
-title: "New Zealand and the World: Challenges We Must Meet"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/PA1402/S00256/new-zealand-and-the-world-challenges-we-must-meet.htm
+title: 'New Zealand and the World: Challenges We Must Meet'
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00256/new-zealand-and-the-world-challenges-we-must-meet.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/02/20/new-zealand-and-the-world-challenges-we-must-meet/index.html
+layout: layout.njk
 ---
 New Zealand and the World: Challenges We Must Meet
 ==================================================

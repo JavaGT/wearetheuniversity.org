@@ -1,9 +1,12 @@
 ---
 slug: documents-prove-crown-land-sell-off-a-fiasco
-title: "Documents prove Crown land sell-off a fiasco"
-date: 2016-04-13
-source-url: https://www.scoop.co.nz/stories/PA1604/S00203/documents-prove-crown-land-sell-off-a-fiasco.htm
+title: Documents prove Crown land sell-off a fiasco
+date: 2016-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00203/documents-prove-crown-land-sell-off-a-fiasco.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/04/13/documents-prove-crown-land-sell-off-a-fiasco/index.html
+layout: layout.njk
 ---
 Documents prove Crown land sell-off a fiasco
 ============================================

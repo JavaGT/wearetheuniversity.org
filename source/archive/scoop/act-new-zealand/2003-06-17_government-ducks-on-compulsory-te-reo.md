@@ -1,9 +1,12 @@
 ---
 slug: government-ducks-on-compulsory-te-reo
-title: "Government Ducks On Compulsory Te Reo"
-date: 2003-06-17
-source-url: https://www.scoop.co.nz/stories/PA0306/S00303/government-ducks-on-compulsory-te-reo.htm
+title: Government Ducks On Compulsory Te Reo
+date: 2003-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00303/government-ducks-on-compulsory-te-reo.htm
 author: act-new-zealand
+permalink: /archive/2003/06/17/government-ducks-on-compulsory-te-reo/index.html
+layout: layout.njk
 ---
 Government Ducks On Compulsory Te Reo
 =====================================

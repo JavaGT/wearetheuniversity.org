@@ -1,9 +1,12 @@
 ---
 slug: nzei-te-riu-roa-pleased-government-has-listened
-title: "NZEI Te Riu Roa pleased Government has listened"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PO1206/S00085/nzei-te-riu-roa-pleased-government-has-listened.htm
+title: NZEI Te Riu Roa pleased Government has listened
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00085/nzei-te-riu-roa-pleased-government-has-listened.htm
 author: nzei
+permalink: /archive/2012/06/07/nzei-te-riu-roa-pleased-government-has-listened/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa pleased Government has listened
 ===============================================

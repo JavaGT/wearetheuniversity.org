@@ -1,9 +1,13 @@
 ---
 slug: peoples-bank-of-china-deputy-governor-to-lecture-at-uc
-title: "People’s Bank of China Deputy Governor to Lecture at UC"
-date: 2014-02-24
-source-url: https://www.scoop.co.nz/stories/BU1402/S00646/peoples-bank-of-china-deputy-governor-to-lecture-at-uc.htm
+title: People’s Bank of China Deputy Governor to Lecture at UC
+date: 2014-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1402/S00646/peoples-bank-of-china-deputy-governor-to-lecture-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/24/peoples-bank-of-china-deputy-governor-to-lecture-at-uc/index.html
+layout: layout.njk
 ---
 People’s Bank of China Deputy Governor to Lecture at UC
 =======================================================

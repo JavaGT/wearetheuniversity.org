@@ -1,9 +1,13 @@
 ---
 slug: use-of-population-housing-census-results-with-genderconcerns
-title: "Use of Population/Housing Census Results with GenderConcerns"
-date: 2011-08-01
-source-url: https://www.scoop.co.nz/stories/WO1108/S00024/use-of-populationhousing-census-results-with-genderconcerns.htm
+title: Use of Population/Housing Census Results with GenderConcerns
+date: 2011-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1108/S00024/use-of-populationhousing-census-results-with-genderconcerns.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2011/08/01/use-of-population-housing-census-results-with-genderconcerns/index.html
+layout: layout.njk
 ---
 Use of Population/Housing Census Results with GenderConcerns
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: is-austerity-bad-for-your-health
-title: "Is austerity bad for your health?"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/GE1602/S00056/is-austerity-bad-for-your-health.htm
+title: Is austerity bad for your health?
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00056/is-austerity-bad-for-your-health.htm
 author: university-of-otago
+permalink: /archive/2016/02/17/is-austerity-bad-for-your-health/index.html
+layout: layout.njk
 ---
 Is austerity bad for your health?
 =================================

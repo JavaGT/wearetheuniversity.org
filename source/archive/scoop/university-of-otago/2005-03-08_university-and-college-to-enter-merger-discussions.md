@@ -1,9 +1,13 @@
 ---
 slug: university-and-college-to-enter-merger-discussions
-title: "University and College to enter Merger discussions"
-date: 2005-03-08
-source-url: https://www.scoop.co.nz/stories/ED0503/S00022/university-and-college-to-enter-merger-discussions.htm
+title: University and College to enter Merger discussions
+date: 2005-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00022/university-and-college-to-enter-merger-discussions.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/03/08/university-and-college-to-enter-merger-discussions/index.html
+layout: layout.njk
 ---
 University and College to enter Merger discussions
 ==================================================

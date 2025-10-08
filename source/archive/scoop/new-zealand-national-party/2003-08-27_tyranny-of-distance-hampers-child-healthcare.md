@@ -1,9 +1,12 @@
 ---
 slug: tyranny-of-distance-hampers-child-healthcare
-title: "Tyranny of distance hampers child healthcare"
-date: 2003-08-27
-source-url: https://www.scoop.co.nz/stories/PA0308/S00531/tyranny-of-distance-hampers-child-healthcare.htm
+title: Tyranny of distance hampers child healthcare
+date: 2003-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00531/tyranny-of-distance-hampers-child-healthcare.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/27/tyranny-of-distance-hampers-child-healthcare/index.html
+layout: layout.njk
 ---
 Tyranny of distance hampers child healthcare
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: 33000-people-have-joined-the-dole-queue
-title: "33,000 People Have Joined The Dole Queue"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/PA2005/S00066/33000-people-have-joined-the-dole-queue.htm
+title: 33,000 People Have Joined The Dole Queue
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00066/33000-people-have-joined-the-dole-queue.htm
 author: new-zealand-national-party
+permalink: /archive/2020/05/08/33000-people-have-joined-the-dole-queue/index.html
+layout: layout.njk
 ---
 33,000 People Have Joined The Dole Queue
 ========================================

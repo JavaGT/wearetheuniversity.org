@@ -1,9 +1,12 @@
 ---
 slug: students-to-battle-it-out-over-business
-title: "Students To Battle It Out Over Business"
-date: 2004-07-08
-source-url: https://www.scoop.co.nz/stories/ED0407/S00024/students-to-battle-it-out-over-business.htm
+title: Students To Battle It Out Over Business
+date: 2004-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00024/students-to-battle-it-out-over-business.htm
 author: waikato-university
+permalink: /archive/2004/07/08/students-to-battle-it-out-over-business/index.html
+layout: layout.njk
 ---
 Students To Battle It Out Over Business
 =======================================

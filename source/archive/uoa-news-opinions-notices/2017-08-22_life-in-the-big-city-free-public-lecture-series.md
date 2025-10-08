@@ -1,8 +1,11 @@
 ---
 slug: life-in-the-big-city-free-public-lecture-series
-title: "Life in the big city – free public lecture series"
-date: 2017-08-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/life-in-the-big-city-free-public-lecture-series.html
+title: Life in the big city – free public lecture series
+date: 2017-08-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/08/life-in-the-big-city-free-public-lecture-series.html
+permalink: /archive/2017/08/22/life-in-the-big-city-free-public-lecture-series/index.html
+layout: layout.njk
 ---
 Life in the big city – free public lecture series
 =================================================

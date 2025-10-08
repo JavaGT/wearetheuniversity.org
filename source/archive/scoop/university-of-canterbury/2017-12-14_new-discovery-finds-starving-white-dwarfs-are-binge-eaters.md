@@ -1,9 +1,13 @@
 ---
 slug: new-discovery-finds-starving-white-dwarfs-are-binge-eaters
-title: "New discovery finds starving white dwarfs are binge eaters"
-date: 2017-12-14
-source-url: https://www.scoop.co.nz/stories/SC1712/S00025/new-discovery-finds-starving-white-dwarfs-are-binge-eaters.htm
+title: New discovery finds starving white dwarfs are binge eaters
+date: 2017-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1712/S00025/new-discovery-finds-starving-white-dwarfs-are-binge-eaters.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/12/14/new-discovery-finds-starving-white-dwarfs-are-binge-eaters/index.html
+layout: layout.njk
 ---
 New discovery finds starving white dwarfs are binge eaters
 ==========================================================

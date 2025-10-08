@@ -1,9 +1,13 @@
 ---
 slug: education-bill-signals-public-private-partnerships
-title: "Education Bill Signals Public Private Partnerships"
-date: 2010-05-06
-source-url: https://www.scoop.co.nz/stories/PA1005/S00090/education-bill-signals-public-private-partnerships.htm
+title: Education Bill Signals Public Private Partnerships
+date: 2010-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00090/education-bill-signals-public-private-partnerships.htm
 author: green-party
+permalink: >-
+  /archive/2010/05/06/education-bill-signals-public-private-partnerships/index.html
+layout: layout.njk
 ---
 Education Bill Signals Public Private Partnerships
 ==================================================

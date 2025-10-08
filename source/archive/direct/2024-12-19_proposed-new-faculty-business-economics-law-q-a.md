@@ -1,11 +1,16 @@
 ---
-title: "Staff-focused Q&A on proposed new faculty arrangements: Business and Economics, Law"
-slug: "proposed-new-faculty-business-economics-law-q-a"
-date: 2024-12-19
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/intranet/stay-informed/staff-communications/notices/proposed-new-faculty-business-economics-law-q-a.html
+title: >-
+  Staff-focused Q&A on proposed new faculty arrangements: Business and
+  Economics, Law
+slug: proposed-new-faculty-business-economics-law-q-a
+date: 2024-12-19T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/stay-informed/staff-communications/notices/proposed-new-faculty-business-economics-law-q-a.html
 author: University of Auckland
 author-slug: university-of-auckland
+permalink: /archive/2024/12/19/proposed-new-faculty-business-economics-law-q-a/index.html
+layout: layout.njk
 ---
 
 # Staff-focused Q&A on proposed new faculty arrangements: Business and Economics, Law

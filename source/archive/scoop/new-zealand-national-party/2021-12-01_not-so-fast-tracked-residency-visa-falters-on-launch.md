@@ -1,9 +1,13 @@
 ---
 slug: not-so-fast-tracked-residency-visa-falters-on-launch
-title: "Not-so-fast Tracked Residency Visa Falters On Launch"
-date: 2021-12-01
-source-url: https://www.scoop.co.nz/stories/PA2112/S00014/not-so-fast-tracked-residency-visa-falters-on-launch.htm
+title: Not-so-fast Tracked Residency Visa Falters On Launch
+date: 2021-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00014/not-so-fast-tracked-residency-visa-falters-on-launch.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/12/01/not-so-fast-tracked-residency-visa-falters-on-launch/index.html
+layout: layout.njk
 ---
 Not-so-fast Tracked Residency Visa Falters On Launch
 ====================================================

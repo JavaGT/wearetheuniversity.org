@@ -1,9 +1,13 @@
 ---
 slug: one-third-of-students-diets-affected-by-lack-of-funds
-title: "One-third of Students’ Diets Affected By Lack of Funds"
-date: 2013-06-11
-source-url: https://www.scoop.co.nz/stories/GE1306/S00032/one-third-of-students-diets-affected-by-lack-of-funds.htm
+title: One-third of Students’ Diets Affected By Lack of Funds
+date: 2013-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1306/S00032/one-third-of-students-diets-affected-by-lack-of-funds.htm
 author: massey-university
+permalink: >-
+  /archive/2013/06/11/one-third-of-students-diets-affected-by-lack-of-funds/index.html
+layout: layout.njk
 ---
 One-third of Students’ Diets Affected By Lack of Funds
 ======================================================

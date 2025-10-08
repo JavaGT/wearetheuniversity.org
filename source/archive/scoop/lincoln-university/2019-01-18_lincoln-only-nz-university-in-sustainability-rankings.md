@@ -1,9 +1,13 @@
 ---
 slug: lincoln-only-nz-university-in-sustainability-rankings
-title: "Lincoln only NZ university in sustainability rankings"
-date: 2019-01-18
-source-url: https://www.scoop.co.nz/stories/ED1901/S00014/lincoln-only-nz-university-in-sustainability-rankings.htm
+title: Lincoln only NZ university in sustainability rankings
+date: 2019-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1901/S00014/lincoln-only-nz-university-in-sustainability-rankings.htm
 author: lincoln-university
+permalink: >-
+  /archive/2019/01/18/lincoln-only-nz-university-in-sustainability-rankings/index.html
+layout: layout.njk
 ---
 Lincoln only NZ university in sustainability rankings
 =====================================================

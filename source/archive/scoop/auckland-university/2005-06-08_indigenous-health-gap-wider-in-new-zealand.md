@@ -1,9 +1,12 @@
 ---
 slug: indigenous-health-gap-wider-in-new-zealand
-title: "Indigenous Health Gap Wider in New Zealand"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/GE0506/S00031/indigenous-health-gap-wider-in-new-zealand.htm
+title: Indigenous Health Gap Wider in New Zealand
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00031/indigenous-health-gap-wider-in-new-zealand.htm
 author: auckland-university
+permalink: /archive/2005/06/08/indigenous-health-gap-wider-in-new-zealand/index.html
+layout: layout.njk
 ---
 Indigenous Health Gap Wider in New Zealand
 ==========================================

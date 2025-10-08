@@ -1,9 +1,12 @@
 ---
 slug: mallard-labour-keeping-workers-rights-safe
-title: "Mallard: Labour - Keeping workers' rights safe"
-date: 2008-10-16
-source-url: https://www.scoop.co.nz/stories/PA0810/S00359/mallard-labour-keeping-workers-rights-safe.htm
+title: 'Mallard: Labour - Keeping workers'' rights safe'
+date: 2008-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00359/mallard-labour-keeping-workers-rights-safe.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/16/mallard-labour-keeping-workers-rights-safe/index.html
+layout: layout.njk
 ---
 Mallard: Labour - Keeping workers' rights safe
 ==============================================

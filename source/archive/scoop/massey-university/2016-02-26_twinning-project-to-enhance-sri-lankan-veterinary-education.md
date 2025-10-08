@@ -1,9 +1,13 @@
 ---
 slug: twinning-project-to-enhance-sri-lankan-veterinary-education
-title: "Twinning project to enhance Sri Lankan veterinary education"
-date: 2016-02-26
-source-url: https://www.scoop.co.nz/stories/SC1602/S00069/twinning-project-to-enhance-sri-lankan-veterinary-education.htm
+title: Twinning project to enhance Sri Lankan veterinary education
+date: 2016-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1602/S00069/twinning-project-to-enhance-sri-lankan-veterinary-education.htm
 author: massey-university
+permalink: >-
+  /archive/2016/02/26/twinning-project-to-enhance-sri-lankan-veterinary-education/index.html
+layout: layout.njk
 ---
 Twinning project to enhance Sri Lankan veterinary education
 ===========================================================

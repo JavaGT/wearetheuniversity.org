@@ -1,9 +1,11 @@
 ---
 slug: acts-new-agenda
-title: "\"Act’s New Agenda\""
-date: 2000-11-06
+title: '"Act’s New Agenda"'
+date: 2000-11-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0011/S00084/acts-new-agenda.htm
 author: act-new-zealand
+permalink: /archive/2000/11/06/acts-new-agenda/index.html
+layout: layout.njk
 ---
 \"Act’s New Agenda"
 ==================

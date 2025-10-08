@@ -1,9 +1,13 @@
 ---
 slug: declining-opportunities-grim-for-struggling-kiwis
-title: "Declining opportunities grim for struggling Kiwis"
-date: 2010-02-02
-source-url: https://www.scoop.co.nz/stories/PA1002/S00029/declining-opportunities-grim-for-struggling-kiwis.htm
+title: Declining opportunities grim for struggling Kiwis
+date: 2010-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00029/declining-opportunities-grim-for-struggling-kiwis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/02/declining-opportunities-grim-for-struggling-kiwis/index.html
+layout: layout.njk
 ---
 Declining opportunities grim for struggling Kiwis
 =================================================

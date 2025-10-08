@@ -1,9 +1,12 @@
 ---
 slug: government-should-give-more-than-a-little
-title: "Government should give more than a little"
-date: 2016-02-09
-source-url: https://www.scoop.co.nz/stories/PA1602/S00082/government-should-give-more-than-a-little.htm
+title: Government should give more than a little
+date: 2016-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00082/government-should-give-more-than-a-little.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/09/government-should-give-more-than-a-little/index.html
+layout: layout.njk
 ---
 Government should give more than a little
 =========================================

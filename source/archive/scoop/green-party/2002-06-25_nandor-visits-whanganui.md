@@ -1,9 +1,11 @@
 ---
 slug: nandor-visits-whanganui
-title: "Nandor Visits Whanganui"
-date: 2002-06-25
+title: Nandor Visits Whanganui
+date: 2002-06-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00439/nandor-visits-whanganui.htm
 author: green-party
+permalink: /archive/2002/06/25/nandor-visits-whanganui/index.html
+layout: layout.njk
 ---
 Nandor Visits Whanganui
 =======================

@@ -1,9 +1,12 @@
 ---
 slug: hospital-productivity-in-nz-bucks-the-trend
-title: "Hospital productivity in NZ bucks the trend"
-date: 2012-05-01
-source-url: https://www.scoop.co.nz/stories/GE1205/S00002/hospital-productivity-in-nz-bucks-the-trend.htm
+title: Hospital productivity in NZ bucks the trend
+date: 2012-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1205/S00002/hospital-productivity-in-nz-bucks-the-trend.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/05/01/hospital-productivity-in-nz-bucks-the-trend/index.html
+layout: layout.njk
 ---
 Hospital productivity in NZ bucks the trend
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: tppa-still-needs-an-independent-health-impact-assessment
-title: "TPPA Still Needs an Independent Health Impact Assessment"
-date: 2016-02-04
-source-url: https://www.scoop.co.nz/stories/PO1602/S00071/tppa-still-needs-an-independent-health-impact-assessment.htm
+title: TPPA Still Needs an Independent Health Impact Assessment
+date: 2016-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1602/S00071/tppa-still-needs-an-independent-health-impact-assessment.htm
 author: new-zealand-medical-students-association-nzmsa
+permalink: >-
+  /archive/2016/02/04/tppa-still-needs-an-independent-health-impact-assessment/index.html
+layout: layout.njk
 ---
 TPPA Still Needs an Independent Health Impact Assessment
 ========================================================

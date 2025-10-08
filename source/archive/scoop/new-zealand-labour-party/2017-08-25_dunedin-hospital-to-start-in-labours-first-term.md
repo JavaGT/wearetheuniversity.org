@@ -1,9 +1,12 @@
 ---
 slug: dunedin-hospital-to-start-in-labours-first-term
-title: "Dunedin Hospital to start in Labour’s first term"
-date: 2017-08-25
-source-url: https://www.scoop.co.nz/stories/PA1708/S00475/dunedin-hospital-to-start-in-labours-first-term.htm
+title: Dunedin Hospital to start in Labour’s first term
+date: 2017-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00475/dunedin-hospital-to-start-in-labours-first-term.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/08/25/dunedin-hospital-to-start-in-labours-first-term/index.html
+layout: layout.njk
 ---
 Dunedin Hospital to start in Labour’s first term
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: research-supports-ferns-hunger-busting-properties
-title: "Research supports fern’s hunger-busting properties"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/SC1011/S00040/research-supports-ferns-hunger-busting-properties.htm
+title: Research supports fern’s hunger-busting properties
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00040/research-supports-ferns-hunger-busting-properties.htm
 author: massey-university
+permalink: >-
+  /archive/2010/11/15/research-supports-ferns-hunger-busting-properties/index.html
+layout: layout.njk
 ---
 Research supports fern’s hunger-busting properties
 ==================================================

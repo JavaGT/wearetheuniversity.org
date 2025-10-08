@@ -1,9 +1,12 @@
 ---
 slug: 1950s-new-zealand-captured-in-flash-fiction
-title: "1950s New Zealand captured in flash fiction"
-date: 2016-08-16
-source-url: https://www.scoop.co.nz/stories/ED1608/S00038/1950s-new-zealand-captured-in-flash-fiction.htm
+title: 1950s New Zealand captured in flash fiction
+date: 2016-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1608/S00038/1950s-new-zealand-captured-in-flash-fiction.htm
 author: university-of-canterbury
+permalink: /archive/2016/08/16/1950s-new-zealand-captured-in-flash-fiction/index.html
+layout: layout.njk
 ---
 1950s New Zealand captured in flash fiction
 ===========================================

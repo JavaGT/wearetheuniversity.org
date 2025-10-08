@@ -1,9 +1,12 @@
 ---
 slug: media-collaboration-good-news-for-ratepayers
-title: "Media collaboration good news for ratepayers"
-date: 2019-05-28
-source-url: https://www.scoop.co.nz/stories/AK1905/S00603/media-collaboration-good-news-for-ratepayers.htm
+title: Media collaboration good news for ratepayers
+date: 2019-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1905/S00603/media-collaboration-good-news-for-ratepayers.htm
 author: massey-university
+permalink: /archive/2019/05/28/media-collaboration-good-news-for-ratepayers/index.html
+layout: layout.njk
 ---
 Media collaboration good news for ratepayers
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: media-commentator-on-north-korea
-title: "Media commentator on North Korea"
-date: 2017-08-07
-source-url: https://www.scoop.co.nz/stories/WO1708/S00015/media-commentator-on-north-korea.htm
+title: Media commentator on North Korea
+date: 2017-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1708/S00015/media-commentator-on-north-korea.htm
 author: massey-university
+permalink: /archive/2017/08/07/media-commentator-on-north-korea/index.html
+layout: layout.njk
 ---
 Media commentator on North Korea
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-welcomes-new-pro-vice-chancellor
-title: "Victoria welcomes new Pro Vice-Chancellor"
-date: 2013-07-02
-source-url: https://www.scoop.co.nz/stories/ED1307/S00005/victoria-welcomes-new-pro-vice-chancellor.htm
+title: Victoria welcomes new Pro Vice-Chancellor
+date: 2013-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00005/victoria-welcomes-new-pro-vice-chancellor.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/07/02/victoria-welcomes-new-pro-vice-chancellor/index.html
+layout: layout.njk
 ---
 Victoria welcomes new Pro Vice-Chancellor
 =========================================

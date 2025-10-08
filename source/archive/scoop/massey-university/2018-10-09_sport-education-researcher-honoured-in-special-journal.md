@@ -1,9 +1,13 @@
 ---
 slug: sport-education-researcher-honoured-in-special-journal
-title: "Sport education researcher honoured in special journal"
-date: 2018-10-09
-source-url: https://www.scoop.co.nz/stories/ED1810/S00017/sport-education-researcher-honoured-in-special-journal.htm
+title: Sport education researcher honoured in special journal
+date: 2018-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1810/S00017/sport-education-researcher-honoured-in-special-journal.htm
 author: massey-university
+permalink: >-
+  /archive/2018/10/09/sport-education-researcher-honoured-in-special-journal/index.html
+layout: layout.njk
 ---
 Sport education researcher honoured in special journal
 ======================================================

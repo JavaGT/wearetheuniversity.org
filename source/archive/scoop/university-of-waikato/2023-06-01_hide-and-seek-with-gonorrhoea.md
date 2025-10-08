@@ -1,9 +1,12 @@
 ---
 slug: hide-and-seek-with-gonorrhoea
-title: "Hide And Seek With Gonorrhoea"
-date: 2023-06-01
-source-url: https://www.scoop.co.nz/stories/GE2306/S00003/hide-and-seek-with-gonorrhoea.htm
+title: Hide And Seek With Gonorrhoea
+date: 2023-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2306/S00003/hide-and-seek-with-gonorrhoea.htm
 author: university-of-waikato
+permalink: /archive/2023/06/01/hide-and-seek-with-gonorrhoea/index.html
+layout: layout.njk
 ---
 Hide And Seek With Gonorrhoea
 =============================

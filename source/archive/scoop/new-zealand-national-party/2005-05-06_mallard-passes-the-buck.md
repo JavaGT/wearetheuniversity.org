@@ -1,9 +1,11 @@
 ---
 slug: mallard-passes-the-buck
-title: "Mallard passes the buck"
-date: 2005-05-06
+title: Mallard passes the buck
+date: 2005-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0505/S00151/mallard-passes-the-buck.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/06/mallard-passes-the-buck/index.html
+layout: layout.njk
 ---
 Mallard passes the buck
 =======================

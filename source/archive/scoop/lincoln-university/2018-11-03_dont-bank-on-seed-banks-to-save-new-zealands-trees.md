@@ -1,9 +1,13 @@
 ---
 slug: dont-bank-on-seed-banks-to-save-new-zealands-trees
-title: "Don’t bank on seed banks to save New Zealand’s trees"
-date: 2018-11-03
-source-url: https://www.scoop.co.nz/stories/SC1811/S00009/dont-bank-on-seed-banks-to-save-new-zealands-trees.htm
+title: Don’t bank on seed banks to save New Zealand’s trees
+date: 2018-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1811/S00009/dont-bank-on-seed-banks-to-save-new-zealands-trees.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/11/03/dont-bank-on-seed-banks-to-save-new-zealands-trees/index.html
+layout: layout.njk
 ---
 Don’t bank on seed banks to save New Zealand’s trees
 ====================================================

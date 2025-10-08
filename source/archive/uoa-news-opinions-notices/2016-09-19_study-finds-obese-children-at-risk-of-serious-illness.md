@@ -1,8 +1,12 @@
 ---
 slug: study-finds-obese-children-at-risk-of-serious-illness
-title: "Study finds obese children at risk of serious illness"
-date: 2016-09-19
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/study-finds-obese-children-at-risk-of-serious-illness.html
+title: Study finds obese children at risk of serious illness
+date: 2016-09-19T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/09/study-finds-obese-children-at-risk-of-serious-illness.html
+permalink: >-
+  /archive/2016/09/19/study-finds-obese-children-at-risk-of-serious-illness/index.html
+layout: layout.njk
 ---
 Study finds obese children at risk of serious illness
 =====================================================

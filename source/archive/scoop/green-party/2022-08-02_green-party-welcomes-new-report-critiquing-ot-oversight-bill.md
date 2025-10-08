@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-new-report-critiquing-ot-oversight-bill
-title: "Green Party Welcomes New Report Critiquing OT Oversight Bill"
-date: 2022-08-02
-source-url: https://www.scoop.co.nz/stories/PA2208/S00011/green-party-welcomes-new-report-critiquing-ot-oversight-bill.htm
+title: Green Party Welcomes New Report Critiquing OT Oversight Bill
+date: 2022-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00011/green-party-welcomes-new-report-critiquing-ot-oversight-bill.htm
 author: green-party
+permalink: >-
+  /archive/2022/08/02/green-party-welcomes-new-report-critiquing-ot-oversight-bill/index.html
+layout: layout.njk
 ---
 Green Party Welcomes New Report Critiquing OT Oversight Bill
 ============================================================

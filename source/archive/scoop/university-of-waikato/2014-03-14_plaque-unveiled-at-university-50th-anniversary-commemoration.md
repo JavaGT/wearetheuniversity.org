@@ -1,9 +1,13 @@
 ---
 slug: plaque-unveiled-at-university-50th-anniversary-commemoration
-title: "Plaque unveiled at University 50th anniversary commemoration"
-date: 2014-03-14
-source-url: https://www.scoop.co.nz/stories/ED1403/S00084/plaque-unveiled-at-university-50th-anniversary-commemoration.htm
+title: Plaque unveiled at University 50th anniversary commemoration
+date: 2014-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00084/plaque-unveiled-at-university-50th-anniversary-commemoration.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/03/14/plaque-unveiled-at-university-50th-anniversary-commemoration/index.html
+layout: layout.njk
 ---
 Plaque unveiled at University 50th anniversary commemoration
 ============================================================

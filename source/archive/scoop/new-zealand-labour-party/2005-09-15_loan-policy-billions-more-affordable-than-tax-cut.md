@@ -1,9 +1,13 @@
 ---
 slug: loan-policy-billions-more-affordable-than-tax-cut
-title: "Loan policy billions more affordable than tax cut"
-date: 2005-09-15
-source-url: https://www.scoop.co.nz/stories/PA0509/S00404/loan-policy-billions-more-affordable-than-tax-cut.htm
+title: Loan policy billions more affordable than tax cut
+date: 2005-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00404/loan-policy-billions-more-affordable-than-tax-cut.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/09/15/loan-policy-billions-more-affordable-than-tax-cut/index.html
+layout: layout.njk
 ---
 Loan policy billions more affordable than tax cut
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: oecd-trade-leader-joins-lincoln-team
-title: "OECD Trade Leader Joins Lincoln Team"
-date: 2015-05-01
-source-url: https://www.scoop.co.nz/stories/ED1505/S00005/oecd-trade-leader-joins-lincoln-team.htm
+title: OECD Trade Leader Joins Lincoln Team
+date: 2015-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00005/oecd-trade-leader-joins-lincoln-team.htm
 author: lincoln-university
+permalink: /archive/2015/05/01/oecd-trade-leader-joins-lincoln-team/index.html
+layout: layout.njk
 ---
 OECD Trade Leader Joins Lincoln Team
 ====================================

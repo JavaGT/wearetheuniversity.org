@@ -1,9 +1,12 @@
 ---
 slug: communication-student-in-international-pageant
-title: "Communication student in international pageant"
-date: 2009-09-16
-source-url: https://www.scoop.co.nz/stories/CU0909/S00233/communication-student-in-international-pageant.htm
+title: Communication student in international pageant
+date: 2009-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0909/S00233/communication-student-in-international-pageant.htm
 author: massey-university
+permalink: /archive/2009/09/16/communication-student-in-international-pageant/index.html
+layout: layout.njk
 ---
 Communication student in international pageant
 ==============================================

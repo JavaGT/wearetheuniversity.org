@@ -1,9 +1,12 @@
 ---
 slug: luxon-gives-another-reason-taxpayers-need-act
-title: "Luxon Gives Another Reason Taxpayers Need ACT"
-date: 2023-09-05
-source-url: https://www.scoop.co.nz/stories/PA2309/S00024/luxon-gives-another-reason-taxpayers-need-act.htm
+title: Luxon Gives Another Reason Taxpayers Need ACT
+date: 2023-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00024/luxon-gives-another-reason-taxpayers-need-act.htm
 author: act-new-zealand
+permalink: /archive/2023/09/05/luxon-gives-another-reason-taxpayers-need-act/index.html
+layout: layout.njk
 ---
 Luxon Gives Another Reason Taxpayers Need ACT
 =============================================

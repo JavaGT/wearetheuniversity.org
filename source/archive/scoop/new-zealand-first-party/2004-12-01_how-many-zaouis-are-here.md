@@ -1,9 +1,11 @@
 ---
 slug: how-many-zaouis-are-here
-title: "How Many Zaouis Are Here?"
-date: 2004-12-01
+title: How Many Zaouis Are Here?
+date: 2004-12-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0412/S00040/how-many-zaouis-are-here.htm
 author: new-zealand-first-party
+permalink: /archive/2004/12/01/how-many-zaouis-are-here/index.html
+layout: layout.njk
 ---
 How Many Zaouis Are Here?
 =========================

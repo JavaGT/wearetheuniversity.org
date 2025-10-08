@@ -1,9 +1,13 @@
 ---
 slug: teacher-graduates-give-teaching-profession-a-miss
-title: "Teacher graduates Give Teaching Profession A Miss"
-date: 2008-01-02
-source-url: https://www.scoop.co.nz/stories/PA0801/S00004/teacher-graduates-give-teaching-profession-a-miss.htm
+title: Teacher graduates Give Teaching Profession A Miss
+date: 2008-01-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00004/teacher-graduates-give-teaching-profession-a-miss.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2008/01/02/teacher-graduates-give-teaching-profession-a-miss/index.html
+layout: layout.njk
 ---
 Teacher graduates Give Teaching Profession A Miss
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: government-sanctioned-sexism-must-stop
-title: "Government sanctioned sexism must stop"
-date: 2005-10-24
-source-url: https://www.scoop.co.nz/stories/PA0510/S00144/government-sanctioned-sexism-must-stop.htm
+title: Government sanctioned sexism must stop
+date: 2005-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00144/government-sanctioned-sexism-must-stop.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/24/government-sanctioned-sexism-must-stop/index.html
+layout: layout.njk
 ---
 Government sanctioned sexism must stop
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: survey-to-measure-stress-levels-in-pregnancy
-title: "Survey to measure stress levels in pregnancy"
-date: 2015-05-28
-source-url: https://www.scoop.co.nz/stories/SC1505/S00093/survey-to-measure-stress-levels-in-pregnancy.htm
+title: Survey to measure stress levels in pregnancy
+date: 2015-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00093/survey-to-measure-stress-levels-in-pregnancy.htm
 author: waikato-university
+permalink: /archive/2015/05/28/survey-to-measure-stress-levels-in-pregnancy/index.html
+layout: layout.njk
 ---
 Survey to measure stress levels in pregnancy
 ============================================

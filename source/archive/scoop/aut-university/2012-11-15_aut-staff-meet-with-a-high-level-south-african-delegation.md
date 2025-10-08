@@ -1,9 +1,13 @@
 ---
 slug: aut-staff-meet-with-a-high-level-south-african-delegation
-title: "AUT staff meet with a high-level South African delegation"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/ED1211/S00117/aut-staff-meet-with-a-high-level-south-african-delegation.htm
+title: AUT staff meet with a high-level South African delegation
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00117/aut-staff-meet-with-a-high-level-south-african-delegation.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/15/aut-staff-meet-with-a-high-level-south-african-delegation/index.html
+layout: layout.njk
 ---
 AUT staff meet with a high-level South African delegation
 =========================================================

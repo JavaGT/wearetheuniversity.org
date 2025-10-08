@@ -1,9 +1,12 @@
 ---
 slug: willie-apiatas-remarkable-anzac-day-gift
-title: "Willie Apiata’s Remarkable ANZAC Day Gift"
-date: 2008-04-25
-source-url: https://www.scoop.co.nz/stories/PA0804/S00577/willie-apiatas-remarkable-anzac-day-gift.htm
+title: Willie Apiata’s Remarkable ANZAC Day Gift
+date: 2008-04-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00577/willie-apiatas-remarkable-anzac-day-gift.htm
 author: te-pati-maori
+permalink: /archive/2008/04/25/willie-apiatas-remarkable-anzac-day-gift/index.html
+layout: layout.njk
 ---
 Willie Apiata’s Remarkable ANZAC Day Gift
 =========================================

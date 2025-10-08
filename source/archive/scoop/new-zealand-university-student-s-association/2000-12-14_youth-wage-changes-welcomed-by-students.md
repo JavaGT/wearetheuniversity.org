@@ -1,9 +1,12 @@
 ---
 slug: youth-wage-changes-welcomed-by-students
-title: "Youth Wage Changes Welcomed By Students"
-date: 2000-12-14
-source-url: https://www.scoop.co.nz/stories/ED0012/S00012/youth-wage-changes-welcomed-by-students.htm
+title: Youth Wage Changes Welcomed By Students
+date: 2000-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0012/S00012/youth-wage-changes-welcomed-by-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/12/14/youth-wage-changes-welcomed-by-students/index.html
+layout: layout.njk
 ---
 Youth Wage Changes Welcomed By Students
 =======================================

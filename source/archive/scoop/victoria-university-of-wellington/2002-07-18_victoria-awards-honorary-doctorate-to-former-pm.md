@@ -1,9 +1,12 @@
 ---
 slug: victoria-awards-honorary-doctorate-to-former-pm
-title: "Victoria Awards Honorary Doctorate To Former PM"
-date: 2002-07-18
-source-url: https://www.scoop.co.nz/stories/NM0207/S00015/victoria-awards-honorary-doctorate-to-former-pm.htm
+title: Victoria Awards Honorary Doctorate To Former PM
+date: 2002-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/NM0207/S00015/victoria-awards-honorary-doctorate-to-former-pm.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/07/18/victoria-awards-honorary-doctorate-to-former-pm/index.html
+layout: layout.njk
 ---
 Victoria Awards Honorary Doctorate To Former PM
 ===============================================

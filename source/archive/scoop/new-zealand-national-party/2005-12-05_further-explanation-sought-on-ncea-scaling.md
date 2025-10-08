@@ -1,9 +1,12 @@
 ---
 slug: further-explanation-sought-on-ncea-scaling
-title: "Further explanation sought on NCEA ‘scaling’"
-date: 2005-12-05
-source-url: https://www.scoop.co.nz/stories/PA0512/S00049/further-explanation-sought-on-ncea-scaling.htm
+title: Further explanation sought on NCEA ‘scaling’
+date: 2005-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00049/further-explanation-sought-on-ncea-scaling.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/05/further-explanation-sought-on-ncea-scaling/index.html
+layout: layout.njk
 ---
 Further explanation sought on NCEA ‘scaling’
 ============================================

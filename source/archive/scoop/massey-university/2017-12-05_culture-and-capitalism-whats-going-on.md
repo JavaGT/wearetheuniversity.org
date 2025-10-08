@@ -1,9 +1,12 @@
 ---
 slug: culture-and-capitalism-whats-going-on
-title: "Culture and capitalism – what’s going on?"
-date: 2017-12-05
-source-url: https://www.scoop.co.nz/stories/PO1712/S00039/culture-and-capitalism-whats-going-on.htm
+title: Culture and capitalism – what’s going on?
+date: 2017-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1712/S00039/culture-and-capitalism-whats-going-on.htm
 author: massey-university
+permalink: /archive/2017/12/05/culture-and-capitalism-whats-going-on/index.html
+layout: layout.njk
 ---
 Culture and capitalism – what’s going on?
 =========================================

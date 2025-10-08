@@ -1,9 +1,12 @@
 ---
 slug: vintage-visit-for-lincoln-professor
-title: "Vintage visit for Lincoln Professor"
-date: 2010-12-14
-source-url: https://www.scoop.co.nz/stories/ED1012/S00063/vintage-visit-for-lincoln-professor.htm
+title: Vintage visit for Lincoln Professor
+date: 2010-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00063/vintage-visit-for-lincoln-professor.htm
 author: lincoln-university
+permalink: /archive/2010/12/14/vintage-visit-for-lincoln-professor/index.html
+layout: layout.njk
 ---
 Vintage visit for Lincoln Professor
 ===================================

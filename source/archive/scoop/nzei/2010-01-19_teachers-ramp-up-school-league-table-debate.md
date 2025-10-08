@@ -1,9 +1,12 @@
 ---
 slug: teachers-ramp-up-school-league-table-debate
-title: "Teachers Ramp Up School League Table Debate"
-date: 2010-01-19
-source-url: https://www.scoop.co.nz/stories/ED1001/S00018/teachers-ramp-up-school-league-table-debate.htm
+title: Teachers Ramp Up School League Table Debate
+date: 2010-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1001/S00018/teachers-ramp-up-school-league-table-debate.htm
 author: nzei
+permalink: /archive/2010/01/19/teachers-ramp-up-school-league-table-debate/index.html
+layout: layout.njk
 ---
 Teachers Ramp Up School League Table Debate
 ===========================================

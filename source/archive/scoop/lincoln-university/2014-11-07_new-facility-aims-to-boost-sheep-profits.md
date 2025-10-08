@@ -1,9 +1,12 @@
 ---
 slug: new-facility-aims-to-boost-sheep-profits
-title: "New facility aims to boost sheep profits"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/BU1411/S00256/new-facility-aims-to-boost-sheep-profits.htm
+title: New facility aims to boost sheep profits
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1411/S00256/new-facility-aims-to-boost-sheep-profits.htm
 author: lincoln-university
+permalink: /archive/2014/11/07/new-facility-aims-to-boost-sheep-profits/index.html
+layout: layout.njk
 ---
 New facility aims to boost sheep profits
 ========================================

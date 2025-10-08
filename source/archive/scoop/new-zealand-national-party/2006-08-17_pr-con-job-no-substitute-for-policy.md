@@ -1,9 +1,12 @@
 ---
 slug: pr-con-job-no-substitute-for-policy
-title: "PR con-job no substitute for policy"
-date: 2006-08-17
-source-url: https://www.scoop.co.nz/stories/PA0608/S00313/pr-con-job-no-substitute-for-policy.htm
+title: PR con-job no substitute for policy
+date: 2006-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00313/pr-con-job-no-substitute-for-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/17/pr-con-job-no-substitute-for-policy/index.html
+layout: layout.njk
 ---
 PR con-job no substitute for policy
 ===================================

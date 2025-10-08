@@ -1,9 +1,12 @@
 ---
 slug: flats-for-rats-dunedins-next-top-flat-awards
-title: "Flats for Rats? Dunedin’s Next Top Flat Awards"
-date: 2012-10-12
-source-url: https://www.scoop.co.nz/stories/AK1210/S00360/flats-for-rats-dunedins-next-top-flat-awards.htm
+title: Flats for Rats? Dunedin’s Next Top Flat Awards
+date: 2012-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1210/S00360/flats-for-rats-dunedins-next-top-flat-awards.htm
 author: ousa
+permalink: /archive/2012/10/12/flats-for-rats-dunedins-next-top-flat-awards/index.html
+layout: layout.njk
 ---
 Flats for Rats? Dunedin’s Next Top Flat Awards
 ==============================================

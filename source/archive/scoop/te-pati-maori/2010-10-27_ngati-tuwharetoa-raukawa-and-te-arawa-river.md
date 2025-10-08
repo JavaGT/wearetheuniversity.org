@@ -1,9 +1,12 @@
 ---
 slug: ngati-tuwharetoa-raukawa-and-te-arawa-river
-title: "Ngati Tuwharetoa, Raukawa, and Te Arawa River"
-date: 2010-10-27
-source-url: https://www.scoop.co.nz/stories/PA1010/S00456/ngati-tuwharetoa-raukawa-and-te-arawa-river.htm
+title: Ngati Tuwharetoa, Raukawa, and Te Arawa River
+date: 2010-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00456/ngati-tuwharetoa-raukawa-and-te-arawa-river.htm
 author: te-pati-maori
+permalink: /archive/2010/10/27/ngati-tuwharetoa-raukawa-and-te-arawa-river/index.html
+layout: layout.njk
 ---
 Ngati Tuwharetoa, Raukawa, and Te Arawa River
 =============================================

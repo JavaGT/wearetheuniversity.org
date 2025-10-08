@@ -1,9 +1,11 @@
 ---
 slug: big-hole-in-govt-finances
-title: "Big Hole in Govt Finances"
-date: 2001-06-03
+title: Big Hole in Govt Finances
+date: 2001-06-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0106/S00020/big-hole-in-govt-finances.htm
 author: act-new-zealand
+permalink: /archive/2001/06/03/big-hole-in-govt-finances/index.html
+layout: layout.njk
 ---
 Big Hole in Govt Finances
 =========================

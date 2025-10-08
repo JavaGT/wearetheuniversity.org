@@ -1,9 +1,12 @@
 ---
 slug: māori-party-commits-to-much-more-spend-for-whānau-ora
-title: "Māori Party commits to much more spend for Whānau Ora"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PO1709/S00197/maori-party-commits-to-much-more-spend-for-whanau-ora.htm
+title: Māori Party commits to much more spend for Whānau Ora
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1709/S00197/maori-party-commits-to-much-more-spend-for-whanau-ora.htm
 author: te-pati-maori
+permalink: /archive/2017/09/12/m/index.html
+layout: layout.njk
 ---
 Māori Party commits to much more spend for Whānau Ora
 =====================================================

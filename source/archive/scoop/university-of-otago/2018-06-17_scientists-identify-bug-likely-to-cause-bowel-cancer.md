@@ -1,9 +1,13 @@
 ---
 slug: scientists-identify-bug-likely-to-cause-bowel-cancer
-title: "Scientists identify bug likely to cause bowel cancer"
-date: 2018-06-17
-source-url: https://www.scoop.co.nz/stories/GE1806/S00058/scientists-identify-bug-likely-to-cause-bowel-cancer.htm
+title: Scientists identify bug likely to cause bowel cancer
+date: 2018-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1806/S00058/scientists-identify-bug-likely-to-cause-bowel-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/17/scientists-identify-bug-likely-to-cause-bowel-cancer/index.html
+layout: layout.njk
 ---
 Scientists identify bug likely to cause bowel cancer
 ====================================================

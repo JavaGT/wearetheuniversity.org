@@ -1,9 +1,12 @@
 ---
 slug: former-k9-natural-ceo-guest-speaker-at-entré-launch
-title: "Former K9 Natural CEO guest speaker at entré launch"
-date: 2015-03-11
-source-url: https://www.scoop.co.nz/stories/ED1503/S00044/former-k9-natural-ceo-guest-speaker-at-entre-launch.htm
+title: Former K9 Natural CEO guest speaker at entré launch
+date: 2015-03-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00044/former-k9-natural-ceo-guest-speaker-at-entre-launch.htm
 author: university-of-canterbury
+permalink: /archive/2015/03/11/former-k9-natural-ceo-guest-speaker-at-entr/index.html
+layout: layout.njk
 ---
 Former K9 Natural CEO guest speaker at entré launch
 ===================================================

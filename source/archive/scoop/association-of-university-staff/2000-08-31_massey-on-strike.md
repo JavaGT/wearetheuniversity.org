@@ -1,9 +1,11 @@
 ---
 slug: massey-on-strike
-title: "Massey on Strike"
-date: 2000-08-31
+title: Massey on Strike
+date: 2000-08-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0008/S00062/massey-on-strike.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/31/massey-on-strike/index.html
+layout: layout.njk
 ---
 Massey on Strike
 ================

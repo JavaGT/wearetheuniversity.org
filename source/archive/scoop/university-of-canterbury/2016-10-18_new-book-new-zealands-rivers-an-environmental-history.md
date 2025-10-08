@@ -1,9 +1,13 @@
 ---
 slug: new-book-new-zealands-rivers-an-environmental-history
-title: "New book - New Zealand’s Rivers: An environmental history"
-date: 2016-10-18
-source-url: https://www.scoop.co.nz/stories/CU1610/S00248/new-book-new-zealands-rivers-an-environmental-history.htm
+title: 'New book - New Zealand’s Rivers: An environmental history'
+date: 2016-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1610/S00248/new-book-new-zealands-rivers-an-environmental-history.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/10/18/new-book-new-zealands-rivers-an-environmental-history/index.html
+layout: layout.njk
 ---
 New book - New Zealand’s Rivers: An environmental history
 =========================================================

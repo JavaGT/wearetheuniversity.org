@@ -1,9 +1,12 @@
 ---
 slug: award-for-research-into-transnational-crime
-title: "Award for research into transnational crime"
-date: 2014-02-27
-source-url: https://www.scoop.co.nz/stories/ED1402/S00122/award-for-research-into-transnational-crime.htm
+title: Award for research into transnational crime
+date: 2014-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00122/award-for-research-into-transnational-crime.htm
 author: university-of-waikato
+permalink: /archive/2014/02/27/award-for-research-into-transnational-crime/index.html
+layout: layout.njk
 ---
 Award for research into transnational crime
 ===========================================

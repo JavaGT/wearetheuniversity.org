@@ -1,8 +1,11 @@
 ---
 slug: wanted-9000-pregnant-auckland-women
-title: "Wanted: 9000 pregnant Auckland women"
-date: 2016-11-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/wanted-9000-pregnant-auckland-women.html
+title: 'Wanted: 9000 pregnant Auckland women'
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/wanted-9000-pregnant-auckland-women.html
+permalink: /archive/2016/11/23/wanted-9000-pregnant-auckland-women/index.html
+layout: layout.njk
 ---
 Wanted: 9000 pregnant Auckland women
 ====================================

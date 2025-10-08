@@ -1,9 +1,12 @@
 ---
 slug: how-can-we-live-well-on-a-finite-planet
-title: "How can we live well on a finite planet?"
-date: 2017-02-03
-source-url: https://www.scoop.co.nz/stories/ED1702/S00018/how-can-we-live-well-on-a-finite-planet.htm
+title: How can we live well on a finite planet?
+date: 2017-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1702/S00018/how-can-we-live-well-on-a-finite-planet.htm
 author: university-of-canterbury
+permalink: /archive/2017/02/03/how-can-we-live-well-on-a-finite-planet/index.html
+layout: layout.njk
 ---
 How can we live well on a finite planet?
 ========================================

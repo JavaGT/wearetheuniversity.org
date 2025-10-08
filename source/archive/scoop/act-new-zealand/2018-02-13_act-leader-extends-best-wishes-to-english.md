@@ -1,9 +1,12 @@
 ---
 slug: act-leader-extends-best-wishes-to-english
-title: "ACT Leader Extends Best Wishes to English"
-date: 2018-02-13
-source-url: https://www.scoop.co.nz/stories/PA1802/S00102/act-leader-extends-best-wishes-to-english.htm
+title: ACT Leader Extends Best Wishes to English
+date: 2018-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00102/act-leader-extends-best-wishes-to-english.htm
 author: act-new-zealand
+permalink: /archive/2018/02/13/act-leader-extends-best-wishes-to-english/index.html
+layout: layout.njk
 ---
 ACT Leader Extends Best Wishes to English
 =========================================

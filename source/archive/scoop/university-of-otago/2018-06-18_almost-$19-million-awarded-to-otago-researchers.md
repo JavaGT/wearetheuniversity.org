@@ -1,9 +1,12 @@
 ---
 slug: almost-$19-million-awarded-to-otago-researchers
-title: "Almost $19 million awarded to Otago researchers"
-date: 2018-06-18
-source-url: https://www.scoop.co.nz/stories/SC1806/S00048/almost-19-million-awarded-to-otago-researchers.htm
+title: Almost $19 million awarded to Otago researchers
+date: 2018-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00048/almost-19-million-awarded-to-otago-researchers.htm
 author: university-of-otago
+permalink: /archive/2018/06/18/almost-/index.html
+layout: layout.njk
 ---
 Almost $19 million awarded to Otago researchers
 ===============================================

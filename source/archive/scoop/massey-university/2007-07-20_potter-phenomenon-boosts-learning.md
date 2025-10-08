@@ -1,9 +1,12 @@
 ---
 slug: potter-phenomenon-boosts-learning
-title: "Potter phenomenon boosts learning"
-date: 2007-07-20
-source-url: https://www.scoop.co.nz/stories/ED0707/S00068/potter-phenomenon-boosts-learning.htm
+title: Potter phenomenon boosts learning
+date: 2007-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00068/potter-phenomenon-boosts-learning.htm
 author: massey-university
+permalink: /archive/2007/07/20/potter-phenomenon-boosts-learning/index.html
+layout: layout.njk
 ---
 Potter phenomenon boosts learning
 =================================

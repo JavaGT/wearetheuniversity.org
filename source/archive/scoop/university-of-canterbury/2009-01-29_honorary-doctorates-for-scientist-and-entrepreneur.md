@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorates-for-scientist-and-entrepreneur
-title: "Honorary doctorates for scientist and entrepreneur"
-date: 2009-01-29
-source-url: https://www.scoop.co.nz/stories/ED0901/S00044/honorary-doctorates-for-scientist-and-entrepreneur.htm
+title: Honorary doctorates for scientist and entrepreneur
+date: 2009-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00044/honorary-doctorates-for-scientist-and-entrepreneur.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2009/01/29/honorary-doctorates-for-scientist-and-entrepreneur/index.html
+layout: layout.njk
 ---
 Honorary doctorates for scientist and entrepreneur
 ==================================================

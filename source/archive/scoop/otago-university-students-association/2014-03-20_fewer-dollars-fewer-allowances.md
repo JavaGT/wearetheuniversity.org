@@ -1,9 +1,12 @@
 ---
 slug: fewer-dollars-fewer-allowances
-title: "Fewer dollars, fewer Allowances"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/ED1403/S00116/fewer-dollars-fewer-allowances.htm
+title: Fewer dollars, fewer Allowances
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00116/fewer-dollars-fewer-allowances.htm
 author: otago-university-students-association
+permalink: /archive/2014/03/20/fewer-dollars-fewer-allowances/index.html
+layout: layout.njk
 ---
 Fewer dollars, fewer Allowances
 ===============================

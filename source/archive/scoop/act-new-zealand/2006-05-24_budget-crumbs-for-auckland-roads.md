@@ -1,9 +1,12 @@
 ---
 slug: budget-crumbs-for-auckland-roads
-title: "Budget Crumbs For Auckland Roads"
-date: 2006-05-24
-source-url: https://www.scoop.co.nz/stories/PA0605/S00579/budget-crumbs-for-auckland-roads.htm
+title: Budget Crumbs For Auckland Roads
+date: 2006-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00579/budget-crumbs-for-auckland-roads.htm
 author: act-new-zealand
+permalink: /archive/2006/05/24/budget-crumbs-for-auckland-roads/index.html
+layout: layout.njk
 ---
 Budget Crumbs For Auckland Roads
 ================================

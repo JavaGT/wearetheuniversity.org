@@ -1,9 +1,12 @@
 ---
 slug: pr-staff-triple-at-education-ministry
-title: "PR staff triple at Education Ministry"
-date: 2008-01-08
-source-url: https://www.scoop.co.nz/stories/PA0801/S00039/pr-staff-triple-at-education-ministry.htm
+title: PR staff triple at Education Ministry
+date: 2008-01-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0801/S00039/pr-staff-triple-at-education-ministry.htm
 author: new-zealand-national-party
+permalink: /archive/2008/01/08/pr-staff-triple-at-education-ministry/index.html
+layout: layout.njk
 ---
 PR staff triple at Education Ministry
 =====================================

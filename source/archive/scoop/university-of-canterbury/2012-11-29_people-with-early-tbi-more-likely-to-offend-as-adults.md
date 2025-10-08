@@ -1,9 +1,13 @@
 ---
 slug: people-with-early-tbi-more-likely-to-offend-as-adults
-title: "People with early TBI more likely to offend as adults"
-date: 2012-11-29
-source-url: https://www.scoop.co.nz/stories/SC1211/S00082/people-with-early-tbi-more-likely-to-offend-as-adults.htm
+title: People with early TBI more likely to offend as adults
+date: 2012-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00082/people-with-early-tbi-more-likely-to-offend-as-adults.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/29/people-with-early-tbi-more-likely-to-offend-as-adults/index.html
+layout: layout.njk
 ---
 People with early TBI more likely to offend as adults
 =====================================================

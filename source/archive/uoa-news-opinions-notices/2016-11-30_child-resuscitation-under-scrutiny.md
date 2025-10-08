@@ -1,8 +1,11 @@
 ---
 slug: child-resuscitation-under-scrutiny
-title: "Child resuscitation under scrutiny"
-date: 2016-11-30
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/child-resuscitation-under-scrutiny.html
+title: Child resuscitation under scrutiny
+date: 2016-11-30T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/child-resuscitation-under-scrutiny.html
+permalink: /archive/2016/11/30/child-resuscitation-under-scrutiny/index.html
+layout: layout.njk
 ---
 Child resuscitation under scrutiny
 ==================================

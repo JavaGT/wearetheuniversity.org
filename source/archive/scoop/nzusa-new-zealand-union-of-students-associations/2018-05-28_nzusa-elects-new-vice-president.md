@@ -1,9 +1,12 @@
 ---
 slug: nzusa-elects-new-vice-president
-title: "NZUSA elects new Vice President"
-date: 2018-05-28
-source-url: https://www.scoop.co.nz/stories/ED1805/S00063/nzusa-elects-new-vice-president.htm
+title: NZUSA elects new Vice President
+date: 2018-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1805/S00063/nzusa-elects-new-vice-president.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2018/05/28/nzusa-elects-new-vice-president/index.html
+layout: layout.njk
 ---
 NZUSA elects new Vice President
 ===============================

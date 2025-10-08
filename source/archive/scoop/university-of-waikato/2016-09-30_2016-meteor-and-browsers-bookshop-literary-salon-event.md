@@ -1,9 +1,13 @@
 ---
 slug: 2016-meteor-and-browsers-bookshop-literary-salon-event
-title: "2016 Meteor and Browsers Bookshop Literary Salon Event"
-date: 2016-09-30
-source-url: https://www.scoop.co.nz/stories/CU1609/S00483/2016-meteor-and-browsers-bookshop-literary-salon-event.htm
+title: 2016 Meteor and Browsers Bookshop Literary Salon Event
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00483/2016-meteor-and-browsers-bookshop-literary-salon-event.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/09/30/2016-meteor-and-browsers-bookshop-literary-salon-event/index.html
+layout: layout.njk
 ---
 2016 Meteor and Browsers Bookshop Literary Salon Event
 ======================================================

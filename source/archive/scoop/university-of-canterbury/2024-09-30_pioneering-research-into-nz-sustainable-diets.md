@@ -1,9 +1,12 @@
 ---
 slug: pioneering-research-into-nz-sustainable-diets
-title: "Pioneering Research Into NZ Sustainable Diets"
-date: 2024-09-30
-source-url: https://www.scoop.co.nz/stories/GE2409/S00123/pioneering-research-into-nz-sustainable-diets.htm
+title: Pioneering Research Into NZ Sustainable Diets
+date: 2024-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2409/S00123/pioneering-research-into-nz-sustainable-diets.htm
 author: university-of-canterbury
+permalink: /archive/2024/09/30/pioneering-research-into-nz-sustainable-diets/index.html
+layout: layout.njk
 ---
 Pioneering Research Into NZ Sustainable Diets
 =============================================

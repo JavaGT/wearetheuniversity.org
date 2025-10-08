@@ -1,9 +1,12 @@
 ---
 slug: death-studies-symposium-to-hear-from-coroner
-title: "Death studies symposium to hear from coroner"
-date: 2010-11-04
-source-url: https://www.scoop.co.nz/stories/SC1011/S00011/death-studies-symposium-to-hear-from-coroner.htm
+title: Death studies symposium to hear from coroner
+date: 2010-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00011/death-studies-symposium-to-hear-from-coroner.htm
 author: university-of-waikato
+permalink: /archive/2010/11/04/death-studies-symposium-to-hear-from-coroner/index.html
+layout: layout.njk
 ---
 Death studies symposium to hear from coroner
 ============================================

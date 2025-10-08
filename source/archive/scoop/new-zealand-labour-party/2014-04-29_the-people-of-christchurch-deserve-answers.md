@@ -1,9 +1,12 @@
 ---
 slug: the-people-of-christchurch-deserve-answers
-title: "The people of Christchurch deserve answers"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/PA1404/S00440/the-people-of-christchurch-deserve-answers.htm
+title: The people of Christchurch deserve answers
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00440/the-people-of-christchurch-deserve-answers.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/29/the-people-of-christchurch-deserve-answers/index.html
+layout: layout.njk
 ---
 The people of Christchurch deserve answers
 ==========================================

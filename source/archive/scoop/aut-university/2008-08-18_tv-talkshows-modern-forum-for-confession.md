@@ -1,9 +1,12 @@
 ---
 slug: tv-talkshows-modern-forum-for-confession
-title: "TV talkshows modern forum for confession"
-date: 2008-08-18
-source-url: https://www.scoop.co.nz/stories/ED0808/S00042/tv-talkshows-modern-forum-for-confession.htm
+title: TV talkshows modern forum for confession
+date: 2008-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00042/tv-talkshows-modern-forum-for-confession.htm
 author: aut-university
+permalink: /archive/2008/08/18/tv-talkshows-modern-forum-for-confession/index.html
+layout: layout.njk
 ---
 TV talkshows modern forum for confession
 ========================================

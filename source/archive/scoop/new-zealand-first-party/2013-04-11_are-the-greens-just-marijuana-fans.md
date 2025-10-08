@@ -1,9 +1,12 @@
 ---
 slug: are-the-greens-just-marijuana-fans
-title: "Are the Greens Just Marijuana Fans?"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/PA1304/S00224/are-the-greens-just-marijuana-fans.htm
+title: Are the Greens Just Marijuana Fans?
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00224/are-the-greens-just-marijuana-fans.htm
 author: new-zealand-first-party
+permalink: /archive/2013/04/11/are-the-greens-just-marijuana-fans/index.html
+layout: layout.njk
 ---
 Are the Greens Just Marijuana Fans?
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: international-students-funding-just-a-band-aid
-title: "International Students Funding Just A Band Aid"
-date: 2020-07-27
-source-url: https://www.scoop.co.nz/stories/PA2007/S00264/international-students-funding-just-a-band-aid.htm
+title: International Students Funding Just A Band Aid
+date: 2020-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00264/international-students-funding-just-a-band-aid.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/27/international-students-funding-just-a-band-aid/index.html
+layout: layout.njk
 ---
 International Students Funding Just A Band Aid
 ==============================================

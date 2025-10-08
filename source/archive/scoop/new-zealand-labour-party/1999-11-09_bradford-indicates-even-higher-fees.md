@@ -1,9 +1,12 @@
 ---
 slug: bradford-indicates-even-higher-fees
-title: "Bradford indicates even higher fees"
-date: 1999-11-09
-source-url: https://www.scoop.co.nz/stories/PA9911/S00196/bradford-indicates-even-higher-fees.htm
+title: Bradford indicates even higher fees
+date: 1999-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00196/bradford-indicates-even-higher-fees.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/09/bradford-indicates-even-higher-fees/index.html
+layout: layout.njk
 ---
 Bradford indicates even higher fees
 ===================================

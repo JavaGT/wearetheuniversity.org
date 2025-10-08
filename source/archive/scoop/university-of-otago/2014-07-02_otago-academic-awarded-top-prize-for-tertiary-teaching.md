@@ -1,9 +1,13 @@
 ---
 slug: otago-academic-awarded-top-prize-for-tertiary-teaching
-title: "Otago academic awarded top prize for tertiary teaching"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/ED1407/S00014/otago-academic-awarded-top-prize-for-tertiary-teaching.htm
+title: Otago academic awarded top prize for tertiary teaching
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00014/otago-academic-awarded-top-prize-for-tertiary-teaching.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/02/otago-academic-awarded-top-prize-for-tertiary-teaching/index.html
+layout: layout.njk
 ---
 Otago academic awarded top prize for tertiary teaching
 ======================================================

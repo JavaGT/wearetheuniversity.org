@@ -1,9 +1,12 @@
 ---
 slug: scanning-the-brain-to-understand-stuttering
-title: "Scanning the brain to understand stuttering"
-date: 2020-02-02
-source-url: https://www.scoop.co.nz/stories/GE2002/S00001/scanning-the-brain-to-understand-stuttering.htm
+title: Scanning the brain to understand stuttering
+date: 2020-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2002/S00001/scanning-the-brain-to-understand-stuttering.htm
 author: university-of-canterbury
+permalink: /archive/2020/02/02/scanning-the-brain-to-understand-stuttering/index.html
+layout: layout.njk
 ---
 Scanning the brain to understand stuttering
 ===========================================

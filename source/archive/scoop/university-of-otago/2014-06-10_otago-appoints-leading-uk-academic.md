@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-leading-uk-academic
-title: "Otago appoints leading UK academic"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/ED1406/S00048/otago-appoints-leading-uk-academic.htm
+title: Otago appoints leading UK academic
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00048/otago-appoints-leading-uk-academic.htm
 author: university-of-otago
+permalink: /archive/2014/06/10/otago-appoints-leading-uk-academic/index.html
+layout: layout.njk
 ---
 Otago appoints leading UK academic
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: do-you-want-wages-with-your-fries
-title: "Do you want wages with your fries?"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PO0811/S00088/do-you-want-wages-with-your-fries.htm
+title: Do you want wages with your fries?
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00088/do-you-want-wages-with-your-fries.htm
 author: te-pati-maori
+permalink: /archive/2008/11/05/do-you-want-wages-with-your-fries/index.html
+layout: layout.njk
 ---
 Do you want wages with your fries?
 ==================================

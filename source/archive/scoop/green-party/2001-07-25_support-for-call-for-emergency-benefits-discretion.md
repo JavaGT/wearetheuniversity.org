@@ -1,9 +1,13 @@
 ---
 slug: support-for-call-for-emergency-benefits-discretion
-title: "Support for call for emergency benefits discretion"
-date: 2001-07-25
-source-url: https://www.scoop.co.nz/stories/PA0107/S00430/support-for-call-for-emergency-benefits-discretion.htm
+title: Support for call for emergency benefits discretion
+date: 2001-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00430/support-for-call-for-emergency-benefits-discretion.htm
 author: green-party
+permalink: >-
+  /archive/2001/07/25/support-for-call-for-emergency-benefits-discretion/index.html
+layout: layout.njk
 ---
 Support for call for emergency benefits discretion
 ==================================================

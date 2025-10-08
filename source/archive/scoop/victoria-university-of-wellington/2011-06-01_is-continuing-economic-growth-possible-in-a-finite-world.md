@@ -1,9 +1,13 @@
 ---
 slug: is-continuing-economic-growth-possible-in-a-finite-world
-title: "Is continuing economic growth possible in a finite world?"
-date: 2011-06-01
-source-url: https://www.scoop.co.nz/stories/ED1106/S00003/is-continuing-economic-growth-possible-in-a-finite-world.htm
+title: Is continuing economic growth possible in a finite world?
+date: 2011-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00003/is-continuing-economic-growth-possible-in-a-finite-world.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/06/01/is-continuing-economic-growth-possible-in-a-finite-world/index.html
+layout: layout.njk
 ---
 Is continuing economic growth possible in a finite world?
 =========================================================

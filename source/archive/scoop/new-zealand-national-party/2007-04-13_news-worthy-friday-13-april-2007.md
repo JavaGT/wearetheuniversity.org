@@ -1,9 +1,12 @@
 ---
 slug: news-worthy-friday-13-april-2007
-title: "News Worthy - Friday 13 April 2007"
-date: 2007-04-13
-source-url: https://www.scoop.co.nz/stories/PA0704/S00224/news-worthy-friday-13-april-2007.htm
+title: News Worthy - Friday 13 April 2007
+date: 2007-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00224/news-worthy-friday-13-april-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/13/news-worthy-friday-13-april-2007/index.html
+layout: layout.njk
 ---
 News Worthy - Friday 13 April 2007
 ==================================

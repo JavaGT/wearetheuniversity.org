@@ -1,9 +1,13 @@
 ---
 slug: labour-confirms-soraya-peke-mason-for-te-tai-hauauru
-title: "Labour confirms Soraya Peke-Mason for Te Tai Hauauru"
-date: 2010-12-17
-source-url: https://www.scoop.co.nz/stories/PO1012/S00206/labour-confirms-soraya-peke-mason-for-te-tai-hauauru.htm
+title: Labour confirms Soraya Peke-Mason for Te Tai Hauauru
+date: 2010-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00206/labour-confirms-soraya-peke-mason-for-te-tai-hauauru.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/12/17/labour-confirms-soraya-peke-mason-for-te-tai-hauauru/index.html
+layout: layout.njk
 ---
 Labour confirms Soraya Peke-Mason for Te Tai Hauauru
 ====================================================

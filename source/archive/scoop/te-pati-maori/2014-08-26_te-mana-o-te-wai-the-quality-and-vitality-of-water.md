@@ -1,9 +1,13 @@
 ---
 slug: te-mana-o-te-wai-the-quality-and-vitality-of-water
-title: "Te Mana o Te Wai – the quality and vitality of water"
-date: 2014-08-26
-source-url: https://www.scoop.co.nz/stories/PO1408/S00430/te-mana-o-te-wai-the-quality-and-vitality-of-water.htm
+title: Te Mana o Te Wai – the quality and vitality of water
+date: 2014-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00430/te-mana-o-te-wai-the-quality-and-vitality-of-water.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2014/08/26/te-mana-o-te-wai-the-quality-and-vitality-of-water/index.html
+layout: layout.njk
 ---
 Te Mana o Te Wai – the quality and vitality of water
 ====================================================

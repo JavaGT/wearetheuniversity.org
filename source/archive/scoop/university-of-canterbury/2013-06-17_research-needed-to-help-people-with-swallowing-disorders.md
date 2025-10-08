@@ -1,9 +1,13 @@
 ---
 slug: research-needed-to-help-people-with-swallowing-disorders
-title: "Research needed to help people with swallowing disorders"
-date: 2013-06-17
-source-url: https://www.scoop.co.nz/stories/GE1306/S00059/research-needed-to-help-people-with-swallowing-disorders.htm
+title: Research needed to help people with swallowing disorders
+date: 2013-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1306/S00059/research-needed-to-help-people-with-swallowing-disorders.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/17/research-needed-to-help-people-with-swallowing-disorders/index.html
+layout: layout.njk
 ---
 Research needed to help people with swallowing disorders
 ========================================================

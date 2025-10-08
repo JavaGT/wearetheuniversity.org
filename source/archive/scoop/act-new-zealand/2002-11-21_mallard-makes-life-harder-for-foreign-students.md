@@ -1,9 +1,12 @@
 ---
 slug: mallard-makes-life-harder-for-foreign-students
-title: "Mallard Makes Life Harder for Foreign Students"
-date: 2002-11-21
-source-url: https://www.scoop.co.nz/stories/PA0211/S00489/mallard-makes-life-harder-for-foreign-students.htm
+title: Mallard Makes Life Harder for Foreign Students
+date: 2002-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00489/mallard-makes-life-harder-for-foreign-students.htm
 author: act-new-zealand
+permalink: /archive/2002/11/21/mallard-makes-life-harder-for-foreign-students/index.html
+layout: layout.njk
 ---
 Mallard Makes Life Harder for Foreign Students
 ==============================================

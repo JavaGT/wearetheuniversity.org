@@ -1,9 +1,12 @@
 ---
 slug: conference-hosts-leading-management-minds
-title: "Conference Hosts Leading Management Minds"
-date: 2004-12-01
-source-url: https://www.scoop.co.nz/stories/ED0412/S00001/conference-hosts-leading-management-minds.htm
+title: Conference Hosts Leading Management Minds
+date: 2004-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00001/conference-hosts-leading-management-minds.htm
 author: university-of-otago
+permalink: /archive/2004/12/01/conference-hosts-leading-management-minds/index.html
+layout: layout.njk
 ---
 Conference Hosts Leading Management Minds
 =========================================

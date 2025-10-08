@@ -1,9 +1,12 @@
 ---
 slug: speech-to-canterbury-mens-centre
-title: "Speech to Canterbury Men’s Centre"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00374/speech-to-canterbury-mens-centre.htm
+title: Speech to Canterbury Men’s Centre
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00374/speech-to-canterbury-mens-centre.htm
 author: te-pati-maori
+permalink: /archive/2016/04/22/speech-to-canterbury-mens-centre/index.html
+layout: layout.njk
 ---
 Speech to Canterbury Men’s Centre
 =================================

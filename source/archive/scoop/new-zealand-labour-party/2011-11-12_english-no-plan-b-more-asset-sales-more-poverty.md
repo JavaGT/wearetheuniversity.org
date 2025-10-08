@@ -1,9 +1,12 @@
 ---
 slug: english-no-plan-b-more-asset-sales-more-poverty
-title: "English: No plan B, more asset sales, more poverty"
-date: 2011-11-12
-source-url: https://www.scoop.co.nz/stories/PA1111/S00237/english-no-plan-b-more-asset-sales-more-poverty.htm
+title: 'English: No plan B, more asset sales, more poverty'
+date: 2011-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00237/english-no-plan-b-more-asset-sales-more-poverty.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/12/english-no-plan-b-more-asset-sales-more-poverty/index.html
+layout: layout.njk
 ---
 English: No plan B, more asset sales, more poverty
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: uc-māori-research-group-wins-excellence-award
-title: "UC Māori research group wins excellence award"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/ED1611/S00102/uc-maori-research-group-wins-excellence-award.htm
+title: UC Māori research group wins excellence award
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00102/uc-maori-research-group-wins-excellence-award.htm
 author: university-of-canterbury
+permalink: /archive/2016/11/22/uc-m/index.html
+layout: layout.njk
 ---
 UC Māori research group wins excellence award
 =============================================

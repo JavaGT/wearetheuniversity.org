@@ -1,9 +1,13 @@
 ---
 slug: borrowing-to-live-unfair-and-reduces-nations-productivity
-title: "Borrowing To Live Unfair And Reduces Nation’s Productivity"
-date: 2012-03-02
-source-url: https://www.scoop.co.nz/stories/ED1203/S00003/borrowing-to-live-unfair-and-reduces-nations-productivity.htm
+title: Borrowing To Live Unfair And Reduces Nation’s Productivity
+date: 2012-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00003/borrowing-to-live-unfair-and-reduces-nations-productivity.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/03/02/borrowing-to-live-unfair-and-reduces-nations-productivity/index.html
+layout: layout.njk
 ---
 Borrowing To Live Unfair And Reduces Nation’s Productivity
 ==========================================================

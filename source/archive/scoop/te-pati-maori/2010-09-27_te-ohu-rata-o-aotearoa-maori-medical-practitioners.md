@@ -1,9 +1,13 @@
 ---
 slug: te-ohu-rata-o-aotearoa-maori-medical-practitioners
-title: "Te Ohu Rata o Aotearoa Maori Medical Practitioners"
-date: 2010-09-27
-source-url: https://www.scoop.co.nz/stories/PA1009/S00387/te-ohu-rata-o-aotearoa-maori-medical-practitioners.htm
+title: Te Ohu Rata o Aotearoa Maori Medical Practitioners
+date: 2010-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00387/te-ohu-rata-o-aotearoa-maori-medical-practitioners.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/09/27/te-ohu-rata-o-aotearoa-maori-medical-practitioners/index.html
+layout: layout.njk
 ---
 Te Ohu Rata o Aotearoa Maori Medical Practitioners
 ==================================================

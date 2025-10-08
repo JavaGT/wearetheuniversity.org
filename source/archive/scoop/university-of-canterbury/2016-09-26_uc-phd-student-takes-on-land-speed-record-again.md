@@ -1,9 +1,12 @@
 ---
 slug: uc-phd-student-takes-on-land-speed-record-again
-title: "UC PhD student takes on land speed record again"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/CU1609/S00390/uc-phd-student-takes-on-land-speed-record-again.htm
+title: UC PhD student takes on land speed record again
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1609/S00390/uc-phd-student-takes-on-land-speed-record-again.htm
 author: university-of-canterbury
+permalink: /archive/2016/09/26/uc-phd-student-takes-on-land-speed-record-again/index.html
+layout: layout.njk
 ---
 UC PhD student takes on land speed record again
 ===============================================

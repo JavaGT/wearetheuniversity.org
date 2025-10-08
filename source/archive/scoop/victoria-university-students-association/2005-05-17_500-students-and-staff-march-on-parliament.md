@@ -1,9 +1,12 @@
 ---
 slug: 500-students-and-staff-march-on-parliament
-title: "500 Students and Staff March on Parliament"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/ED0505/S00070/500-students-and-staff-march-on-parliament.htm
+title: 500 Students and Staff March on Parliament
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00070/500-students-and-staff-march-on-parliament.htm
 author: victoria-university-students-association
+permalink: /archive/2005/05/17/500-students-and-staff-march-on-parliament/index.html
+layout: layout.njk
 ---
 500 Students and Staff March on Parliament
 ==========================================

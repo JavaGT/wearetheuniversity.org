@@ -1,9 +1,12 @@
 ---
-title: "Proposed new faculty arrangements: Law, and Business & Economics"
+title: 'Proposed new faculty arrangements: Law, and Business & Economics'
 slug: proposed-new-faculty-arrangements-law-business-economics
-date: 2024-11-12
+date: 2024-11-12T00:00:00.000Z
 author: Dawn Freshwater
 author-slug: dawn-freshwater
+permalink: >-
+  /archive/2024/11/12/proposed-new-faculty-arrangements-law-business-economics/index.html
+layout: layout.njk
 ---
 
 all-staff-request@list.auckland.ac.nz on behalf of Dawn Freshwater<vice-chancellor@auckland.ac.nz>

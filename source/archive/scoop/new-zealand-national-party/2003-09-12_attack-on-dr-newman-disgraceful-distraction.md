@@ -1,9 +1,12 @@
 ---
 slug: attack-on-dr-newman-disgraceful-distraction
-title: "Attack on Dr Newman 'disgraceful distraction'"
-date: 2003-09-12
-source-url: https://www.scoop.co.nz/stories/PA0309/S00283/attack-on-dr-newman-disgraceful-distraction.htm
+title: Attack on Dr Newman 'disgraceful distraction'
+date: 2003-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00283/attack-on-dr-newman-disgraceful-distraction.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/12/attack-on-dr-newman-disgraceful-distraction/index.html
+layout: layout.njk
 ---
 Attack on Dr Newman 'disgraceful distraction'
 =============================================

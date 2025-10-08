@@ -1,9 +1,13 @@
 ---
 slug: international-conference-to-reflect-on-european-history
-title: "International conference to reflect on European history"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/ED1306/S00153/international-conference-to-reflect-on-european-history.htm
+title: International conference to reflect on European history
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00153/international-conference-to-reflect-on-european-history.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/06/27/international-conference-to-reflect-on-european-history/index.html
+layout: layout.njk
 ---
 International conference to reflect on European history
 =======================================================

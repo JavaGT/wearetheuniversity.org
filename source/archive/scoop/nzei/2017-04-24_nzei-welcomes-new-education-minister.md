@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-new-education-minister
-title: "NZEI welcomes new Education Minister"
-date: 2017-04-24
-source-url: https://www.scoop.co.nz/stories/ED1704/S00060/nzei-welcomes-new-education-minister.htm
+title: NZEI welcomes new Education Minister
+date: 2017-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1704/S00060/nzei-welcomes-new-education-minister.htm
 author: nzei
+permalink: /archive/2017/04/24/nzei-welcomes-new-education-minister/index.html
+layout: layout.njk
 ---
 NZEI welcomes new Education Minister
 ====================================

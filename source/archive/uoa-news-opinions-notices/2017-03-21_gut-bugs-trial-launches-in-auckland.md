@@ -1,8 +1,11 @@
 ---
 slug: gut-bugs-trial-launches-in-auckland
-title: "Gut Bugs Trial launches in Auckland"
-date: 2017-03-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/gut-bugs-trial-launches-in-auckland.html
+title: Gut Bugs Trial launches in Auckland
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/gut-bugs-trial-launches-in-auckland.html
+permalink: /archive/2017/03/21/gut-bugs-trial-launches-in-auckland/index.html
+layout: layout.njk
 ---
 Gut Bugs Trial launches in Auckland
 ===================================

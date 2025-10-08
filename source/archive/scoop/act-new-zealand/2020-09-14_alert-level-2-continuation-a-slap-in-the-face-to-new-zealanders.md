@@ -1,9 +1,13 @@
 ---
 slug: alert-level-2-continuation-a-slap-in-the-face-to-new-zealanders
-title: "Alert Level 2 Continuation A Slap In The Face To New Zealanders"
-date: 2020-09-14
-source-url: https://www.scoop.co.nz/stories/PA2009/S00118/alert-level-2-continuation-a-slap-in-the-face-to-new-zealanders.htm
+title: Alert Level 2 Continuation A Slap In The Face To New Zealanders
+date: 2020-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2009/S00118/alert-level-2-continuation-a-slap-in-the-face-to-new-zealanders.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/09/14/alert-level-2-continuation-a-slap-in-the-face-to-new-zealanders/index.html
+layout: layout.njk
 ---
 Alert Level 2 Continuation A Slap In The Face To New Zealanders
 ===============================================================

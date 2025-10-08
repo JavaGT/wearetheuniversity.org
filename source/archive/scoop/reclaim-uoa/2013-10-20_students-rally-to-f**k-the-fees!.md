@@ -1,9 +1,12 @@
 ---
 slug: students-rally-to-f**k-the-fees!
-title: "Students Rally to F**k the Fees!"
-date: 2013-10-20
-source-url: https://www.scoop.co.nz/stories/ED1310/S00128/students-rally-to-fk-the-fees.htm
+title: Students Rally to F**k the Fees!
+date: 2013-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00128/students-rally-to-fk-the-fees.htm
 author: reclaim-uoa
+permalink: /archive/2013/10/20/students-rally-to-f/index.html
+layout: layout.njk
 ---
 Students Rally to F\*\*k the Fees!
 ==================================

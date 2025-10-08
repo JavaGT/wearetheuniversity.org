@@ -1,9 +1,13 @@
 ---
 slug: winston-peters-address-to-otago-university-nz-foreign-policy-class
-title: "Winston Peters: Address To Otago University NZ Foreign Policy Class"
-date: 2022-05-23
-source-url: https://www.scoop.co.nz/stories/PO2205/S00214/winston-peters-address-to-otago-university-nz-foreign-policy-class.htm
+title: 'Winston Peters: Address To Otago University NZ Foreign Policy Class'
+date: 2022-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00214/winston-peters-address-to-otago-university-nz-foreign-policy-class.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/05/23/winston-peters-address-to-otago-university-nz-foreign-policy-class/index.html
+layout: layout.njk
 ---
 Winston Peters: Address To Otago University NZ Foreign Policy Class
 ===================================================================

@@ -1,9 +1,13 @@
 ---
 slug: govt-must-provide-farmers-clarity-on-freshwater-rules
-title: "Govt Must Provide Farmers Clarity On Freshwater Rules"
-date: 2020-10-29
-source-url: https://www.scoop.co.nz/stories/PO2010/S00296/govt-must-provide-farmers-clarity-on-freshwater-rules.htm
+title: Govt Must Provide Farmers Clarity On Freshwater Rules
+date: 2020-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00296/govt-must-provide-farmers-clarity-on-freshwater-rules.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/10/29/govt-must-provide-farmers-clarity-on-freshwater-rules/index.html
+layout: layout.njk
 ---
 Govt Must Provide Farmers Clarity On Freshwater Rules
 =====================================================

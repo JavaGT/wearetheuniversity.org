@@ -1,9 +1,12 @@
 ---
 slug: performance-based-pay-for-teachers-long-overdue
-title: "Performance Based Pay for Teachers Long Overdue"
-date: 2012-05-16
-source-url: https://www.scoop.co.nz/stories/PA1205/S00276/performance-based-pay-for-teachers-long-overdue.htm
+title: Performance Based Pay for Teachers Long Overdue
+date: 2012-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00276/performance-based-pay-for-teachers-long-overdue.htm
 author: act-new-zealand
+permalink: /archive/2012/05/16/performance-based-pay-for-teachers-long-overdue/index.html
+layout: layout.njk
 ---
 Performance Based Pay for Teachers Long Overdue
 ===============================================

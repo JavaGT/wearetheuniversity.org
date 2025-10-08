@@ -1,9 +1,12 @@
 ---
 slug: moratorium-on-waiting-list-cull-national
-title: "Moratorium on waiting list cull - National"
-date: 2006-05-07
-source-url: https://www.scoop.co.nz/stories/PA0605/S00164/moratorium-on-waiting-list-cull-national.htm
+title: Moratorium on waiting list cull - National
+date: 2006-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00164/moratorium-on-waiting-list-cull-national.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/07/moratorium-on-waiting-list-cull-national/index.html
+layout: layout.njk
 ---
 Moratorium on waiting list cull - National
 ==========================================

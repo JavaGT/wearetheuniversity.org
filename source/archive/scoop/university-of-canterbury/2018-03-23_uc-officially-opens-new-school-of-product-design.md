@@ -1,9 +1,13 @@
 ---
 slug: uc-officially-opens-new-school-of-product-design
-title: "UC officially opens new School of Product Design"
-date: 2018-03-23
-source-url: https://www.scoop.co.nz/stories/ED1803/S00075/uc-officially-opens-new-school-of-product-design.htm
+title: UC officially opens new School of Product Design
+date: 2018-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1803/S00075/uc-officially-opens-new-school-of-product-design.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/03/23/uc-officially-opens-new-school-of-product-design/index.html
+layout: layout.njk
 ---
 UC officially opens new School of Product Design
 ================================================

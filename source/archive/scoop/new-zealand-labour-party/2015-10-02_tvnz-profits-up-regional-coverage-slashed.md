@@ -1,9 +1,12 @@
 ---
 slug: tvnz-profits-up-regional-coverage-slashed
-title: "TVNZ profits up, regional coverage slashed"
-date: 2015-10-02
-source-url: https://www.scoop.co.nz/stories/PA1510/S00030/tvnz-profits-up-regional-coverage-slashed.htm
+title: TVNZ profits up, regional coverage slashed
+date: 2015-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00030/tvnz-profits-up-regional-coverage-slashed.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/10/02/tvnz-profits-up-regional-coverage-slashed/index.html
+layout: layout.njk
 ---
 TVNZ profits up, regional coverage slashed
 ==========================================

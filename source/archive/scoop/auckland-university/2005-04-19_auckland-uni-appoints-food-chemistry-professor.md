@@ -1,9 +1,12 @@
 ---
 slug: auckland-uni-appoints-food-chemistry-professor
-title: "Auckland Uni Appoints Food Chemistry Professor"
-date: 2005-04-19
-source-url: https://www.scoop.co.nz/stories/ED0504/S00068/auckland-uni-appoints-food-chemistry-professor.htm
+title: Auckland Uni Appoints Food Chemistry Professor
+date: 2005-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00068/auckland-uni-appoints-food-chemistry-professor.htm
 author: auckland-university
+permalink: /archive/2005/04/19/auckland-uni-appoints-food-chemistry-professor/index.html
+layout: layout.njk
 ---
 Auckland Uni Appoints Food Chemistry Professor
 ==============================================

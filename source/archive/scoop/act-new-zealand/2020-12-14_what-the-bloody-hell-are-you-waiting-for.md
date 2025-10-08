@@ -1,9 +1,12 @@
 ---
 slug: what-the-bloody-hell-are-you-waiting-for
-title: "What The Bloody Hell Are You Waiting For?"
-date: 2020-12-14
-source-url: https://www.scoop.co.nz/stories/PA2012/S00081/what-the-bloody-hell-are-you-waiting-for.htm
+title: What The Bloody Hell Are You Waiting For?
+date: 2020-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2012/S00081/what-the-bloody-hell-are-you-waiting-for.htm
 author: act-new-zealand
+permalink: /archive/2020/12/14/what-the-bloody-hell-are-you-waiting-for/index.html
+layout: layout.njk
 ---
 What The Bloody Hell Are You Waiting For?
 =========================================

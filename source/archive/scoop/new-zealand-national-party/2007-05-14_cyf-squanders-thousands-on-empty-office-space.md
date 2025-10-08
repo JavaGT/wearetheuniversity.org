@@ -1,9 +1,12 @@
 ---
 slug: cyf-squanders-thousands-on-empty-office-space
-title: "CYF squanders thousands on empty office space"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/PA0705/S00324/cyf-squanders-thousands-on-empty-office-space.htm
+title: CYF squanders thousands on empty office space
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00324/cyf-squanders-thousands-on-empty-office-space.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/14/cyf-squanders-thousands-on-empty-office-space/index.html
+layout: layout.njk
 ---
 CYF squanders thousands on empty office space
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-ip-commercialisation-set-to-accelerate
-title: "Victoria University IP commercialisation set to accelerate"
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/ED1605/S00025/victoria-university-ip-commercialisation-set-to-accelerate.htm
+title: Victoria University IP commercialisation set to accelerate
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00025/victoria-university-ip-commercialisation-set-to-accelerate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2016/05/09/victoria-university-ip-commercialisation-set-to-accelerate/index.html
+layout: layout.njk
 ---
 Victoria University IP commercialisation set to accelerate
 ==========================================================

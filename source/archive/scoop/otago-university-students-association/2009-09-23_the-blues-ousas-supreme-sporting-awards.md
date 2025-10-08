@@ -1,9 +1,12 @@
 ---
 slug: the-blues-ousas-supreme-sporting-awards
-title: "The Blues: OUSA’s Supreme Sporting Awards"
-date: 2009-09-23
-source-url: https://www.scoop.co.nz/stories/ED0909/S00087/the-blues-ousas-supreme-sporting-awards.htm
+title: 'The Blues: OUSA’s Supreme Sporting Awards'
+date: 2009-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00087/the-blues-ousas-supreme-sporting-awards.htm
 author: otago-university-students-association
+permalink: /archive/2009/09/23/the-blues-ousas-supreme-sporting-awards/index.html
+layout: layout.njk
 ---
 The Blues: OUSA’s Supreme Sporting Awards
 =========================================

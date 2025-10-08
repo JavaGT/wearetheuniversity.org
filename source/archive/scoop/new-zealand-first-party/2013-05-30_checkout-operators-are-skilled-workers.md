@@ -1,9 +1,12 @@
 ---
 slug: checkout-operators-are-skilled-workers
-title: "Checkout Operators Are Skilled Workers"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/PA1305/S00597/checkout-operators-are-skilled-workers.htm
+title: Checkout Operators Are Skilled Workers
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00597/checkout-operators-are-skilled-workers.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/30/checkout-operators-are-skilled-workers/index.html
+layout: layout.njk
 ---
 Checkout Operators Are Skilled Workers
 ======================================

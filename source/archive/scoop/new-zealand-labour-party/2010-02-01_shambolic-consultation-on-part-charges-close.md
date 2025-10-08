@@ -1,9 +1,12 @@
 ---
 slug: shambolic-consultation-on-part-charges-close
-title: "Shambolic Consultation On Part Charges Close"
-date: 2010-02-01
-source-url: https://www.scoop.co.nz/stories/PA1002/S00006/shambolic-consultation-on-part-charges-close.htm
+title: Shambolic Consultation On Part Charges Close
+date: 2010-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00006/shambolic-consultation-on-part-charges-close.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/01/shambolic-consultation-on-part-charges-close/index.html
+layout: layout.njk
 ---
 Shambolic Consultation On Part Charges Close
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: captains-of-industry-and-sport-receive-lincoln-uni-awards
-title: "Captains of industry and sport receive Lincoln Uni awards"
-date: 2011-12-15
-source-url: https://www.scoop.co.nz/stories/ED1112/S00080/captains-of-industry-and-sport-receive-lincoln-uni-awards.htm
+title: Captains of industry and sport receive Lincoln Uni awards
+date: 2011-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00080/captains-of-industry-and-sport-receive-lincoln-uni-awards.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/12/15/captains-of-industry-and-sport-receive-lincoln-uni-awards/index.html
+layout: layout.njk
 ---
 Captains of industry and sport receive Lincoln Uni awards
 =========================================================

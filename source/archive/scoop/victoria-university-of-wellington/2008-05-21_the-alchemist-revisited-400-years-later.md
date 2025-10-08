@@ -1,9 +1,12 @@
 ---
 slug: the-alchemist-revisited-400-years-later
-title: "The Alchemist revisited 400 years later"
-date: 2008-05-21
-source-url: https://www.scoop.co.nz/stories/CU0805/S00222/the-alchemist-revisited-400-years-later.htm
+title: The Alchemist revisited 400 years later
+date: 2008-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0805/S00222/the-alchemist-revisited-400-years-later.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/21/the-alchemist-revisited-400-years-later/index.html
+layout: layout.njk
 ---
 The Alchemist revisited 400 years later
 =======================================

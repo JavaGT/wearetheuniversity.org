@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-2017-post-election-conference
-title: "Speech: Peters - 2017 Post-Election Conference"
-date: 2017-12-06
-source-url: https://www.scoop.co.nz/stories/PA1712/S00058/speech-peters-2017-post-election-conference.htm
+title: 'Speech: Peters - 2017 Post-Election Conference'
+date: 2017-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00058/speech-peters-2017-post-election-conference.htm
 author: new-zealand-first-party
+permalink: /archive/2017/12/06/speech-peters-2017-post-election-conference/index.html
+layout: layout.njk
 ---
 Speech: Peters - 2017 Post-Election Conference
 ==============================================

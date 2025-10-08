@@ -1,9 +1,12 @@
 ---
 slug: dunedin-meeting-on-rotting-homes
-title: "Dunedin meeting on rotting homes"
-date: 2002-10-11
-source-url: https://www.scoop.co.nz/stories/PA0210/S00253/dunedin-meeting-on-rotting-homes.htm
+title: Dunedin meeting on rotting homes
+date: 2002-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00253/dunedin-meeting-on-rotting-homes.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/11/dunedin-meeting-on-rotting-homes/index.html
+layout: layout.njk
 ---
 Dunedin meeting on rotting homes
 ================================

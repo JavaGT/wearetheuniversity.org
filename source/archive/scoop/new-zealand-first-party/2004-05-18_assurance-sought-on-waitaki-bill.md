@@ -1,9 +1,12 @@
 ---
 slug: assurance-sought-on-waitaki-bill
-title: "Assurance Sought On Waitaki Bill"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PA0405/S00368/assurance-sought-on-waitaki-bill.htm
+title: Assurance Sought On Waitaki Bill
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00368/assurance-sought-on-waitaki-bill.htm
 author: new-zealand-first-party
+permalink: /archive/2004/05/18/assurance-sought-on-waitaki-bill/index.html
+layout: layout.njk
 ---
 Assurance Sought On Waitaki Bill
 ================================

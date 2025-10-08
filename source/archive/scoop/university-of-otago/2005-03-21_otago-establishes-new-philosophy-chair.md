@@ -1,9 +1,12 @@
 ---
 slug: otago-establishes-new-philosophy-chair
-title: "Otago Establishes New Philosophy Chair"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/ED0503/S00071/otago-establishes-new-philosophy-chair.htm
+title: Otago Establishes New Philosophy Chair
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0503/S00071/otago-establishes-new-philosophy-chair.htm
 author: university-of-otago
+permalink: /archive/2005/03/21/otago-establishes-new-philosophy-chair/index.html
+layout: layout.njk
 ---
 Otago Establishes New Philosophy Chair
 ======================================

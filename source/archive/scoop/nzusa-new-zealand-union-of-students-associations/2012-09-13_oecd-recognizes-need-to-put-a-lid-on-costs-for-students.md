@@ -1,9 +1,13 @@
 ---
 slug: oecd-recognizes-need-to-put-a-lid-on-costs-for-students
-title: "OECD recognizes need to put a lid on costs for students"
-date: 2012-09-13
-source-url: https://www.scoop.co.nz/stories/ED1209/S00105/oecd-recognizes-need-to-put-a-lid-on-costs-for-students.htm
+title: OECD recognizes need to put a lid on costs for students
+date: 2012-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00105/oecd-recognizes-need-to-put-a-lid-on-costs-for-students.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/09/13/oecd-recognizes-need-to-put-a-lid-on-costs-for-students/index.html
+layout: layout.njk
 ---
 OECD recognizes need to put a lid on costs for students
 =======================================================

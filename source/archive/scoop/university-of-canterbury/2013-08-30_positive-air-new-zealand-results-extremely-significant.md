@@ -1,9 +1,13 @@
 ---
 slug: positive-air-new-zealand-results-extremely-significant
-title: "Positive Air New Zealand results extremely significant"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/BU1308/S01164/positive-air-new-zealand-results-extremely-significant.htm
+title: Positive Air New Zealand results extremely significant
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1308/S01164/positive-air-new-zealand-results-extremely-significant.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/30/positive-air-new-zealand-results-extremely-significant/index.html
+layout: layout.njk
 ---
 Positive Air New Zealand results extremely significant
 ======================================================

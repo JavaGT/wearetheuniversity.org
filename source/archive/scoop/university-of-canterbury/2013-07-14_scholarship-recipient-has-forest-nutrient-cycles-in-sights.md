@@ -1,9 +1,13 @@
 ---
 slug: scholarship-recipient-has-forest-nutrient-cycles-in-sights
-title: "Scholarship recipient has forest nutrient cycles in sights"
-date: 2013-07-14
-source-url: https://www.scoop.co.nz/stories/AK1307/S00377/scholarship-recipient-has-forest-nutrient-cycles-in-sights.htm
+title: Scholarship recipient has forest nutrient cycles in sights
+date: 2013-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1307/S00377/scholarship-recipient-has-forest-nutrient-cycles-in-sights.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/07/14/scholarship-recipient-has-forest-nutrient-cycles-in-sights/index.html
+layout: layout.njk
 ---
 Scholarship recipient has forest nutrient cycles in sights
 ==========================================================

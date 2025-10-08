@@ -1,9 +1,13 @@
 ---
 slug: council-of-trade-unions-calls-for-end-to-anti-mandate-protest
-title: "Council Of Trade Unions Calls For End To Anti-mandate Protest"
-date: 2022-02-18
-source-url: https://www.scoop.co.nz/stories/PO2202/S00160/council-of-trade-unions-calls-for-end-to-anti-mandate-protest.htm
+title: Council Of Trade Unions Calls For End To Anti-mandate Protest
+date: 2022-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2202/S00160/council-of-trade-unions-calls-for-end-to-anti-mandate-protest.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2022/02/18/council-of-trade-unions-calls-for-end-to-anti-mandate-protest/index.html
+layout: layout.njk
 ---
 Council Of Trade Unions Calls For End To Anti-mandate Protest
 =============================================================

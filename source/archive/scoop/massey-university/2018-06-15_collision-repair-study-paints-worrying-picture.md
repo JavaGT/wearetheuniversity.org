@@ -1,9 +1,12 @@
 ---
 slug: collision-repair-study-paints-worrying-picture
-title: "Collision repair study paints worrying picture"
-date: 2018-06-15
-source-url: https://www.scoop.co.nz/stories/BU1806/S00343/collision-repair-study-paints-worrying-picture.htm
+title: Collision repair study paints worrying picture
+date: 2018-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1806/S00343/collision-repair-study-paints-worrying-picture.htm
 author: massey-university
+permalink: /archive/2018/06/15/collision-repair-study-paints-worrying-picture/index.html
+layout: layout.njk
 ---
 Collision repair study paints worrying picture
 ==============================================

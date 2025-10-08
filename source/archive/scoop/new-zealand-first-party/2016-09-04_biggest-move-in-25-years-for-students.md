@@ -1,9 +1,12 @@
 ---
 slug: biggest-move-in-25-years-for-students
-title: "Biggest Move in 25 Years for Students"
-date: 2016-09-04
-source-url: https://www.scoop.co.nz/stories/PA1609/S00046/biggest-move-in-25-years-for-students.htm
+title: Biggest Move in 25 Years for Students
+date: 2016-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00046/biggest-move-in-25-years-for-students.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/04/biggest-move-in-25-years-for-students/index.html
+layout: layout.njk
 ---
 Biggest Move in 25 Years for Students
 =====================================

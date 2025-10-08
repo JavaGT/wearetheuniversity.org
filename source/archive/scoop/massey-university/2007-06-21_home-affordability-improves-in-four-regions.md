@@ -1,9 +1,12 @@
 ---
 slug: home-affordability-improves-in-four-regions
-title: "Home affordability improves in four regions"
-date: 2007-06-21
-source-url: https://www.scoop.co.nz/stories/BU0706/S00369/home-affordability-improves-in-four-regions.htm
+title: Home affordability improves in four regions
+date: 2007-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0706/S00369/home-affordability-improves-in-four-regions.htm
 author: massey-university
+permalink: /archive/2007/06/21/home-affordability-improves-in-four-regions/index.html
+layout: layout.njk
 ---
 Home affordability improves in four regions
 ===========================================

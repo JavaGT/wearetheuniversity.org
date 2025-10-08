@@ -1,9 +1,12 @@
 ---
 slug: grim-warnings-on-nationals-next-targets
-title: "Grim warnings on National’s next targets"
-date: 2010-07-02
-source-url: https://www.scoop.co.nz/stories/PA1007/S00068/grim-warnings-on-nationals-next-targets.htm
+title: Grim warnings on National’s next targets
+date: 2010-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00068/grim-warnings-on-nationals-next-targets.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/07/02/grim-warnings-on-nationals-next-targets/index.html
+layout: layout.njk
 ---
 Grim warnings on National’s next targets
 ========================================

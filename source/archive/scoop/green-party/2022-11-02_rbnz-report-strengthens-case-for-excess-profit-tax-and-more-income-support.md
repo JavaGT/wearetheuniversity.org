@@ -1,9 +1,13 @@
 ---
 slug: rbnz-report-strengthens-case-for-excess-profit-tax-and-more-income-support
-title: "RBNZ Report Strengthens Case For Excess Profit Tax And More Income Support"
-date: 2022-11-02
-source-url: https://www.scoop.co.nz/stories/PA2211/S00013/rbnz-report-strengthens-case-for-excess-profit-tax-and-more-income-support.htm
+title: RBNZ Report Strengthens Case For Excess Profit Tax And More Income Support
+date: 2022-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00013/rbnz-report-strengthens-case-for-excess-profit-tax-and-more-income-support.htm
 author: green-party
+permalink: >-
+  /archive/2022/11/02/rbnz-report-strengthens-case-for-excess-profit-tax-and-more-income-support/index.html
+layout: layout.njk
 ---
 RBNZ Report Strengthens Case For Excess Profit Tax And More Income Support
 ==========================================================================

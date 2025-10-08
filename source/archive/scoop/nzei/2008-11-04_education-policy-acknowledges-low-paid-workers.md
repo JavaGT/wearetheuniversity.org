@@ -1,9 +1,12 @@
 ---
 slug: education-policy-acknowledges-low-paid-workers
-title: "Education Policy Acknowledges Low Paid Workers"
-date: 2008-11-04
-source-url: https://www.scoop.co.nz/stories/ED0811/S00007/education-policy-acknowledges-low-paid-workers.htm
+title: Education Policy Acknowledges Low Paid Workers
+date: 2008-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00007/education-policy-acknowledges-low-paid-workers.htm
 author: nzei
+permalink: /archive/2008/11/04/education-policy-acknowledges-low-paid-workers/index.html
+layout: layout.njk
 ---
 Education Policy Acknowledges Low Paid Workers
 ==============================================

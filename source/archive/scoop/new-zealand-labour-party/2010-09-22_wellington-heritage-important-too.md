@@ -1,9 +1,12 @@
 ---
 slug: wellington-heritage-important-too
-title: "Wellington heritage important too"
-date: 2010-09-22
-source-url: https://www.scoop.co.nz/stories/PA1009/S00316/wellington-heritage-important-too.htm
+title: Wellington heritage important too
+date: 2010-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00316/wellington-heritage-important-too.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/22/wellington-heritage-important-too/index.html
+layout: layout.njk
 ---
 Wellington heritage important too
 =================================

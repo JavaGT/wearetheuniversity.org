@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-can-boost-investment-and-lift-growth
-title: "Tax cuts can boost investment and lift growth"
-date: 2003-05-08
-source-url: https://www.scoop.co.nz/stories/PA0305/S00181/tax-cuts-can-boost-investment-and-lift-growth.htm
+title: Tax cuts can boost investment and lift growth
+date: 2003-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00181/tax-cuts-can-boost-investment-and-lift-growth.htm
 author: new-zealand-national-party
+permalink: /archive/2003/05/08/tax-cuts-can-boost-investment-and-lift-growth/index.html
+layout: layout.njk
 ---
 Tax cuts can boost investment and lift growth
 =============================================

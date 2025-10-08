@@ -1,9 +1,13 @@
 ---
 slug: positive-attitude-minimises-agricultural-sector-covid-losses
-title: "Positive Attitude Minimises Agricultural Sector COVID Losses"
-date: 2021-02-03
-source-url: https://www.scoop.co.nz/stories/BU2102/S00041/positive-attitude-minimises-agricultural-sector-covid-losses.htm
+title: Positive Attitude Minimises Agricultural Sector COVID Losses
+date: 2021-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2102/S00041/positive-attitude-minimises-agricultural-sector-covid-losses.htm
 author: lincoln-university
+permalink: >-
+  /archive/2021/02/03/positive-attitude-minimises-agricultural-sector-covid-losses/index.html
+layout: layout.njk
 ---
 Positive Attitude Minimises Agricultural Sector COVID Losses
 ============================================================

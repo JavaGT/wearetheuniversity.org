@@ -1,9 +1,12 @@
 ---
 slug: double-degree-graduate-balances-24-jobs
-title: "Double degree graduate balances 24 jobs"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/AK1405/S00263/double-degree-graduate-balances-24-jobs.htm
+title: Double degree graduate balances 24 jobs
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1405/S00263/double-degree-graduate-balances-24-jobs.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/14/double-degree-graduate-balances-24-jobs/index.html
+layout: layout.njk
 ---
 Double degree graduate balances 24 jobs
 =======================================

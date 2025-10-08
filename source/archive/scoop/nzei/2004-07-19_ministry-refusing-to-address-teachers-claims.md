@@ -1,9 +1,12 @@
 ---
 slug: ministry-refusing-to-address-teachers-claims
-title: "Ministry Refusing To Address Teachers Claims"
-date: 2004-07-19
-source-url: https://www.scoop.co.nz/stories/ED0407/S00058/ministry-refusing-to-address-teachers-claims.htm
+title: Ministry Refusing To Address Teachers Claims
+date: 2004-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00058/ministry-refusing-to-address-teachers-claims.htm
 author: nzei
+permalink: /archive/2004/07/19/ministry-refusing-to-address-teachers-claims/index.html
+layout: layout.njk
 ---
 Ministry Refusing To Address Teachers Claims
 ============================================

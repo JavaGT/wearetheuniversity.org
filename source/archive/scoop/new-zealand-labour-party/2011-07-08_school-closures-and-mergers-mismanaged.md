@@ -1,9 +1,12 @@
 ---
 slug: school-closures-and-mergers-mismanaged
-title: "School closures and mergers mismanaged"
-date: 2011-07-08
-source-url: https://www.scoop.co.nz/stories/PA1107/S00145/school-closures-and-mergers-mismanaged.htm
+title: School closures and mergers mismanaged
+date: 2011-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00145/school-closures-and-mergers-mismanaged.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/08/school-closures-and-mergers-mismanaged/index.html
+layout: layout.njk
 ---
 School closures and mergers mismanaged
 ======================================

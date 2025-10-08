@@ -1,9 +1,13 @@
 ---
 slug: repositioning-virus-spreads-to-victoria-university
-title: "Repositioning virus spreads to Victoria University"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/ED0006/S00018/repositioning-virus-spreads-to-victoria-university.htm
+title: Repositioning virus spreads to Victoria University
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0006/S00018/repositioning-virus-spreads-to-victoria-university.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2000/06/15/repositioning-virus-spreads-to-victoria-university/index.html
+layout: layout.njk
 ---
 Repositioning virus spreads to Victoria University
 ==================================================

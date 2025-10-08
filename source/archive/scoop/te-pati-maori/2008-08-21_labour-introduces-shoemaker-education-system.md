@@ -1,9 +1,12 @@
 ---
 slug: labour-introduces-shoemaker-education-system
-title: "Labour Introduces Shoemaker Education System"
-date: 2008-08-21
-source-url: https://www.scoop.co.nz/stories/PA0808/S00308/labour-introduces-shoemaker-education-system.htm
+title: Labour Introduces Shoemaker Education System
+date: 2008-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00308/labour-introduces-shoemaker-education-system.htm
 author: te-pati-maori
+permalink: /archive/2008/08/21/labour-introduces-shoemaker-education-system/index.html
+layout: layout.njk
 ---
 Labour Introduces Shoemaker Education System
 ============================================

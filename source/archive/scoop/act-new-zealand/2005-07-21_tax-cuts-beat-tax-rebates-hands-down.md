@@ -1,9 +1,12 @@
 ---
 slug: tax-cuts-beat-tax-rebates-hands-down
-title: "Tax Cuts Beat Tax Rebates Hands Down"
-date: 2005-07-21
-source-url: https://www.scoop.co.nz/stories/PA0507/S00440/tax-cuts-beat-tax-rebates-hands-down.htm
+title: Tax Cuts Beat Tax Rebates Hands Down
+date: 2005-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00440/tax-cuts-beat-tax-rebates-hands-down.htm
 author: act-new-zealand
+permalink: /archive/2005/07/21/tax-cuts-beat-tax-rebates-hands-down/index.html
+layout: layout.njk
 ---
 Tax Cuts Beat Tax Rebates Hands Down
 ====================================

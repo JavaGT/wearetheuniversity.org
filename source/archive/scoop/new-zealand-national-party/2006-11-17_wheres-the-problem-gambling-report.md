@@ -1,9 +1,12 @@
 ---
 slug: wheres-the-problem-gambling-report
-title: "Where’s the problem-gambling report?"
-date: 2006-11-17
-source-url: https://www.scoop.co.nz/stories/PA0611/S00342/wheres-the-problem-gambling-report.htm
+title: Where’s the problem-gambling report?
+date: 2006-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00342/wheres-the-problem-gambling-report.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/17/wheres-the-problem-gambling-report/index.html
+layout: layout.njk
 ---
 Where’s the problem-gambling report?
 ====================================

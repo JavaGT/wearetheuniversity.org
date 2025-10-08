@@ -1,9 +1,13 @@
 ---
 slug: new-research-on-women-involved-in-theunfortunate-experiment
-title: "New research on women involved in theUnfortunate Experiment"
-date: 2018-02-07
-source-url: https://www.scoop.co.nz/stories/SC1802/S00013/new-research-on-women-involved-in-theunfortunate-experiment.htm
+title: New research on women involved in theUnfortunate Experiment
+date: 2018-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00013/new-research-on-women-involved-in-theunfortunate-experiment.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/02/07/new-research-on-women-involved-in-theunfortunate-experiment/index.html
+layout: layout.njk
 ---
 New research on women involved in theUnfortunate Experiment
 ===========================================================

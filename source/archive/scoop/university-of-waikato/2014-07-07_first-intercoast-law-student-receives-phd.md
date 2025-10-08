@@ -1,9 +1,12 @@
 ---
 slug: first-intercoast-law-student-receives-phd
-title: "First INTERCOAST law student receives PhD"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/ED1407/S00036/first-intercoast-law-student-receives-phd.htm
+title: First INTERCOAST law student receives PhD
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00036/first-intercoast-law-student-receives-phd.htm
 author: university-of-waikato
+permalink: /archive/2014/07/07/first-intercoast-law-student-receives-phd/index.html
+layout: layout.njk
 ---
 First INTERCOAST law student receives PhD
 =========================================

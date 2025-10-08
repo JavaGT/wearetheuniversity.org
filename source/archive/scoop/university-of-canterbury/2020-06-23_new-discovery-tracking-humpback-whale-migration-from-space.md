@@ -1,9 +1,13 @@
 ---
 slug: new-discovery-tracking-humpback-whale-migration-from-space
-title: "New Discovery Tracking Humpback Whale Migration From Space"
-date: 2020-06-23
-source-url: https://www.scoop.co.nz/stories/SC2006/S00048/new-discovery-tracking-humpback-whale-migration-from-space.htm
+title: New Discovery Tracking Humpback Whale Migration From Space
+date: 2020-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2006/S00048/new-discovery-tracking-humpback-whale-migration-from-space.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/23/new-discovery-tracking-humpback-whale-migration-from-space/index.html
+layout: layout.njk
 ---
 New Discovery Tracking Humpback Whale Migration From Space
 ==========================================================

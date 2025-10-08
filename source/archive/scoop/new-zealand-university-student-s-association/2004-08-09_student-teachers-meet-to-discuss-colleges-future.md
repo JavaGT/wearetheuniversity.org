@@ -1,9 +1,13 @@
 ---
 slug: student-teachers-meet-to-discuss-colleges-future
-title: "Student teachers meet to discuss Colleges future"
-date: 2004-08-09
-source-url: https://www.scoop.co.nz/stories/ED0408/S00025/student-teachers-meet-to-discuss-colleges-future.htm
+title: Student teachers meet to discuss Colleges future
+date: 2004-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00025/student-teachers-meet-to-discuss-colleges-future.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2004/08/09/student-teachers-meet-to-discuss-colleges-future/index.html
+layout: layout.njk
 ---
 Student teachers meet to discuss Colleges future
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: act-education-policy
-title: "ACT Education Policy"
-date: 2014-07-08
+title: ACT Education Policy
+date: 2014-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1407/S00150/act-education-policy.htm
 author: act-new-zealand
+permalink: /archive/2014/07/08/act-education-policy/index.html
+layout: layout.njk
 ---
 ACT Education Policy
 ====================

@@ -1,9 +1,12 @@
 ---
 slug: dame-malvina-gives-back-with-musical-showcase
-title: "Dame Malvina gives back with musical showcase"
-date: 2014-10-09
-source-url: https://www.scoop.co.nz/stories/ED1410/S00055/dame-malvina-gives-back-with-musical-showcase.htm
+title: Dame Malvina gives back with musical showcase
+date: 2014-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00055/dame-malvina-gives-back-with-musical-showcase.htm
 author: university-of-waikato
+permalink: /archive/2014/10/09/dame-malvina-gives-back-with-musical-showcase/index.html
+layout: layout.njk
 ---
 Dame Malvina gives back with musical showcase
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: erica-stanford-mp-maiden-speech
-title: "Erica Stanford MP: Maiden Speech"
-date: 2017-11-14
-source-url: https://www.scoop.co.nz/stories/PA1711/S00083/erica-stanford-mp-maiden-speech.htm
+title: 'Erica Stanford MP: Maiden Speech'
+date: 2017-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00083/erica-stanford-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/erica-stanford-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Erica Stanford MP: Maiden Speech
 ================================

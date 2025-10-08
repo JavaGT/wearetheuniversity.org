@@ -1,9 +1,12 @@
 ---
 slug: police-recruitment-numbers-still-in-negative
-title: "Police recruitment numbers still in negative"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/PA0610/S00425/police-recruitment-numbers-still-in-negative.htm
+title: Police recruitment numbers still in negative
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00425/police-recruitment-numbers-still-in-negative.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/24/police-recruitment-numbers-still-in-negative/index.html
+layout: layout.njk
 ---
 Police recruitment numbers still in negative
 ============================================

@@ -1,9 +1,11 @@
 ---
 slug: act-new-zealand
-title: "Act New Zealand"
-date: 2021-04-06
+title: Act New Zealand
+date: 2021-04-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2104/S00015/act-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2021/04/06/act-new-zealand/index.html
+layout: layout.njk
 ---
 Act New Zealand
 ===============

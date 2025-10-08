@@ -1,9 +1,12 @@
 ---
 slug: post-earthquake-trust-donation-strengthens-ties
-title: "Post-earthquake trust donation strengthens ties"
-date: 2011-11-30
-source-url: https://www.scoop.co.nz/stories/ED1111/S00205/post-earthquake-trust-donation-strengthens-ties.htm
+title: Post-earthquake trust donation strengthens ties
+date: 2011-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00205/post-earthquake-trust-donation-strengthens-ties.htm
 author: university-of-canterbury
+permalink: /archive/2011/11/30/post-earthquake-trust-donation-strengthens-ties/index.html
+layout: layout.njk
 ---
 Post-earthquake trust donation strengthens ties
 ===============================================

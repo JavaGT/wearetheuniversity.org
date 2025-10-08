@@ -1,9 +1,12 @@
 ---
 slug: men-and-pregnancy-showing-the-symptoms
-title: "Men and pregnancy – showing the symptoms"
-date: 2010-03-17
-source-url: https://www.scoop.co.nz/stories/ED1003/S00078/men-and-pregnancy-showing-the-symptoms.htm
+title: Men and pregnancy – showing the symptoms
+date: 2010-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00078/men-and-pregnancy-showing-the-symptoms.htm
 author: university-of-waikato
+permalink: /archive/2010/03/17/men-and-pregnancy-showing-the-symptoms/index.html
+layout: layout.njk
 ---
 Men and pregnancy – showing the symptoms
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: nzei-te-riu-roa-honours-contributions-to-education
-title: "NZEI Te Riu Roa Honours Contributions to Education"
-date: 2006-09-19
-source-url: https://www.scoop.co.nz/stories/ED0609/S00073/nzei-te-riu-roa-honours-contributions-to-education.htm
+title: NZEI Te Riu Roa Honours Contributions to Education
+date: 2006-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00073/nzei-te-riu-roa-honours-contributions-to-education.htm
 author: nzei
+permalink: >-
+  /archive/2006/09/19/nzei-te-riu-roa-honours-contributions-to-education/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Honours Contributions to Education
 ==================================================

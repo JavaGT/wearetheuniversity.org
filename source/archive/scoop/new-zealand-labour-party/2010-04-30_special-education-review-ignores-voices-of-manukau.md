@@ -1,9 +1,13 @@
 ---
 slug: special-education-review-ignores-voices-of-manukau
-title: "Special Education Review Ignores Voices of Manukau"
-date: 2010-04-30
-source-url: https://www.scoop.co.nz/stories/ED1004/S00105/special-education-review-ignores-voices-of-manukau.htm
+title: Special Education Review Ignores Voices of Manukau
+date: 2010-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00105/special-education-review-ignores-voices-of-manukau.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/04/30/special-education-review-ignores-voices-of-manukau/index.html
+layout: layout.njk
 ---
 Special Education Review Ignores Voices of Manukau
 ==================================================

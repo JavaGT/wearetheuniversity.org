@@ -1,9 +1,11 @@
 ---
 slug: get-it-together-maharey
-title: "Get It Together, Maharey"
-date: 2003-02-05
+title: Get It Together, Maharey
+date: 2003-02-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0302/S00054/get-it-together-maharey.htm
 author: act-new-zealand
+permalink: /archive/2003/02/05/get-it-together-maharey/index.html
+layout: layout.njk
 ---
 Get It Together, Maharey
 ========================

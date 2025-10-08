@@ -1,9 +1,12 @@
 ---
 slug: research-examines-child-poverty-in-new-zealand
-title: "Research Examines Child Poverty in New Zealand"
-date: 2002-09-13
-source-url: https://www.scoop.co.nz/stories/PA0209/S00236/research-examines-child-poverty-in-new-zealand.htm
+title: Research Examines Child Poverty in New Zealand
+date: 2002-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00236/research-examines-child-poverty-in-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2002/09/13/research-examines-child-poverty-in-new-zealand/index.html
+layout: layout.njk
 ---
 Research Examines Child Poverty in New Zealand
 ==============================================

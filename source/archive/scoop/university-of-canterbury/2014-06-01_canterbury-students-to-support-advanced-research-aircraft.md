@@ -1,9 +1,13 @@
 ---
 slug: canterbury-students-to-support-advanced-research-aircraft
-title: "Canterbury students to support advanced research aircraft"
-date: 2014-06-01
-source-url: https://www.scoop.co.nz/stories/ED1406/S00001/canterbury-students-to-support-advanced-research-aircraft.htm
+title: Canterbury students to support advanced research aircraft
+date: 2014-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00001/canterbury-students-to-support-advanced-research-aircraft.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/01/canterbury-students-to-support-advanced-research-aircraft/index.html
+layout: layout.njk
 ---
 Canterbury students to support advanced research aircraft
 =========================================================

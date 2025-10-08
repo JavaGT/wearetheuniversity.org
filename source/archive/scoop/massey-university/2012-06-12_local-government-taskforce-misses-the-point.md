@@ -1,9 +1,12 @@
 ---
 slug: local-government-taskforce-misses-the-point
-title: "Local government taskforce ‘misses the point’"
-date: 2012-06-12
-source-url: https://www.scoop.co.nz/stories/PO1206/S00143/local-government-taskforce-misses-the-point.htm
+title: Local government taskforce ‘misses the point’
+date: 2012-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00143/local-government-taskforce-misses-the-point.htm
 author: massey-university
+permalink: /archive/2012/06/12/local-government-taskforce-misses-the-point/index.html
+layout: layout.njk
 ---
 Local government taskforce ‘misses the point’
 =============================================

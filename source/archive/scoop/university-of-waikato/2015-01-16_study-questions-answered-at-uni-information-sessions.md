@@ -1,9 +1,13 @@
 ---
 slug: study-questions-answered-at-uni-information-sessions
-title: "Study questions answered at uni information sessions"
-date: 2015-01-16
-source-url: https://www.scoop.co.nz/stories/ED1501/S00035/study-questions-answered-at-uni-information-sessions.htm
+title: Study questions answered at uni information sessions
+date: 2015-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00035/study-questions-answered-at-uni-information-sessions.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/01/16/study-questions-answered-at-uni-information-sessions/index.html
+layout: layout.njk
 ---
 Study questions answered at uni information sessions
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: partnership-mode-best-for-future-of-agresearch
-title: "Partnership mode best for  future of AgResearch"
-date: 2009-06-08
-source-url: https://www.scoop.co.nz/stories/ED0906/S00020/partnership-mode-best-for-future-of-agresearch.htm
+title: Partnership mode best for  future of AgResearch
+date: 2009-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00020/partnership-mode-best-for-future-of-agresearch.htm
 author: lincoln-university
+permalink: /archive/2009/06/08/partnership-mode-best-for-future-of-agresearch/index.html
+layout: layout.njk
 ---
 Partnership mode best for future of AgResearch
 ==============================================

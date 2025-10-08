@@ -1,9 +1,11 @@
 ---
 slug: barker-should-go-john-carter
-title: "Barker should go - John Carter"
-date: 2006-06-20
+title: Barker should go - John Carter
+date: 2006-06-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0606/S00364/barker-should-go-john-carter.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/20/barker-should-go-john-carter/index.html
+layout: layout.njk
 ---
 Barker should go - John Carter
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: the-ultimate-earth-day-present
-title: "The ultimate Earth Day present"
-date: 2010-04-22
-source-url: https://www.scoop.co.nz/stories/PA1004/S00264/the-ultimate-earth-day-present.htm
+title: The ultimate Earth Day present
+date: 2010-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1004/S00264/the-ultimate-earth-day-present.htm
 author: green-party
+permalink: /archive/2010/04/22/the-ultimate-earth-day-present/index.html
+layout: layout.njk
 ---
 The ultimate Earth Day present
 ==============================

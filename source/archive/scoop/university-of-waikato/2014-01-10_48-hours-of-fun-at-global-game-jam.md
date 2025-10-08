@@ -1,9 +1,12 @@
 ---
 slug: 48-hours-of-fun-at-global-game-jam
-title: "48 hours of fun at Global Game Jam"
-date: 2014-01-10
-source-url: https://www.scoop.co.nz/stories/CU1401/S00153/48-hours-of-fun-at-global-game-jam.htm
+title: 48 hours of fun at Global Game Jam
+date: 2014-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00153/48-hours-of-fun-at-global-game-jam.htm
 author: university-of-waikato
+permalink: /archive/2014/01/10/48-hours-of-fun-at-global-game-jam/index.html
+layout: layout.njk
 ---
 48 hours of fun at Global Game Jam
 ==================================

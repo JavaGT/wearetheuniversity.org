@@ -1,9 +1,13 @@
 ---
 slug: move-back-to-democracy-for-christchurch-too-slow
-title: "Move back to democracy for Christchurch too slow"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/PA1507/S00056/move-back-to-democracy-for-christchurch-too-slow.htm
+title: Move back to democracy for Christchurch too slow
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00056/move-back-to-democracy-for-christchurch-too-slow.htm
 author: green-party
+permalink: >-
+  /archive/2015/07/02/move-back-to-democracy-for-christchurch-too-slow/index.html
+layout: layout.njk
 ---
 Move back to democracy for Christchurch too slow
 ================================================

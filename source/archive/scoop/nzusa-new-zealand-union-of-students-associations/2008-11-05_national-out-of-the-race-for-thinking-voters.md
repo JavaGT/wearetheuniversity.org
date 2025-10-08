@@ -1,9 +1,12 @@
 ---
 slug: national-out-of-the-race-for-thinking-voters
-title: "National out of the race for thinking voters"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PO0811/S00081/national-out-of-the-race-for-thinking-voters.htm
+title: National out of the race for thinking voters
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00081/national-out-of-the-race-for-thinking-voters.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2008/11/05/national-out-of-the-race-for-thinking-voters/index.html
+layout: layout.njk
 ---
 National out of the race for thinking voters
 ============================================

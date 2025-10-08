@@ -1,9 +1,12 @@
 ---
 slug: health-cuts-and-more-bureaucracy
-title: "Health cuts and more bureaucracy"
-date: 2009-08-16
-source-url: https://www.scoop.co.nz/stories/PA0908/S00210/health-cuts-and-more-bureaucracy.htm
+title: Health cuts and more bureaucracy
+date: 2009-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00210/health-cuts-and-more-bureaucracy.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/16/health-cuts-and-more-bureaucracy/index.html
+layout: layout.njk
 ---
 Health cuts and more bureaucracy
 ================================

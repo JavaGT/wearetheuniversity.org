@@ -1,9 +1,12 @@
 ---
 slug: prostitution-referendum-a-return-to-dark-ages
-title: "Prostitution referendum a return to dark ages"
-date: 2003-07-31
-source-url: https://www.scoop.co.nz/stories/PA0307/S00578/prostitution-referendum-a-return-to-dark-ages.htm
+title: Prostitution referendum a return to dark ages
+date: 2003-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00578/prostitution-referendum-a-return-to-dark-ages.htm
 author: green-party
+permalink: /archive/2003/07/31/prostitution-referendum-a-return-to-dark-ages/index.html
+layout: layout.njk
 ---
 Prostitution referendum a return to dark ages
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: sticker-discount-for-earthquake-prone-commercial-buildings
-title: "Sticker discount for earthquake-prone commercial buildings"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/AK1511/S00261/sticker-discount-for-earthquake-prone-commercial-buildings.htm
+title: Sticker discount for earthquake-prone commercial buildings
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1511/S00261/sticker-discount-for-earthquake-prone-commercial-buildings.htm
 author: motu
+permalink: >-
+  /archive/2015/11/11/sticker-discount-for-earthquake-prone-commercial-buildings/index.html
+layout: layout.njk
 ---
 Sticker discount for earthquake-prone commercial buildings
 ==========================================================

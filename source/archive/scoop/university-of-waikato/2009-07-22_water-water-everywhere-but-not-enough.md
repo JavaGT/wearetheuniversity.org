@@ -1,9 +1,12 @@
 ---
 slug: water-water-everywhere-but-not-enough
-title: "Water, water everywhere – but not enough"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/AK0907/S00330/water-water-everywhere-but-not-enough.htm
+title: Water, water everywhere – but not enough
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0907/S00330/water-water-everywhere-but-not-enough.htm
 author: university-of-waikato
+permalink: /archive/2009/07/22/water-water-everywhere-but-not-enough/index.html
+layout: layout.njk
 ---
 Water, water everywhere – but not enough
 ========================================

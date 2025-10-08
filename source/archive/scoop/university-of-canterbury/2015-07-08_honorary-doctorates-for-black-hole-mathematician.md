@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorates-for-black-hole-mathematician
-title: "Honorary doctorates for black hole mathematician"
-date: 2015-07-08
-source-url: https://www.scoop.co.nz/stories/ED1507/S00048/honorary-doctorates-for-black-hole-mathematician.htm
+title: Honorary doctorates for black hole mathematician
+date: 2015-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00048/honorary-doctorates-for-black-hole-mathematician.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/07/08/honorary-doctorates-for-black-hole-mathematician/index.html
+layout: layout.njk
 ---
 Honorary doctorates for black hole mathematician
 ================================================

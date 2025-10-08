@@ -1,9 +1,11 @@
 ---
 slug: carbon-neutral-victoria
-title: "Carbon Neutral Victoria?"
-date: 2009-07-20
+title: Carbon Neutral Victoria?
+date: 2009-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00078/carbon-neutral-victoria.htm
 author: salient
+permalink: /archive/2009/07/20/carbon-neutral-victoria/index.html
+layout: layout.njk
 ---
 Carbon Neutral Victoria?
 ========================

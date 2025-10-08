@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-scoops-hrc-funding
-title: "University Of Otago Scoops HRC Funding"
-date: 2002-05-17
-source-url: https://www.scoop.co.nz/stories/ED0205/S00032/university-of-otago-scoops-hrc-funding.htm
+title: University Of Otago Scoops HRC Funding
+date: 2002-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00032/university-of-otago-scoops-hrc-funding.htm
 author: university-of-otago
+permalink: /archive/2002/05/17/university-of-otago-scoops-hrc-funding/index.html
+layout: layout.njk
 ---
 University Of Otago Scoops HRC Funding
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: ursula-bethell-writer-in-residence-in-2011
-title: "Ursula Bethell Writer In Residence in 2011"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/ED1008/S00044/ursula-bethell-writer-in-residence-in-2011.htm
+title: Ursula Bethell Writer In Residence in 2011
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00044/ursula-bethell-writer-in-residence-in-2011.htm
 author: university-of-canterbury
+permalink: /archive/2010/08/10/ursula-bethell-writer-in-residence-in-2011/index.html
+layout: layout.njk
 ---
 Ursula Bethell Writer In Residence in 2011
 ==========================================

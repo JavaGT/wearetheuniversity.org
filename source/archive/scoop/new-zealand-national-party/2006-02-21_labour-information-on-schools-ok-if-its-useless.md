@@ -1,9 +1,12 @@
 ---
 slug: labour-information-on-schools-ok-if-its-useless
-title: "Labour: Information on schools ok if it's useless"
-date: 2006-02-21
-source-url: https://www.scoop.co.nz/stories/PA0602/S00310/labour-information-on-schools-ok-if-its-useless.htm
+title: 'Labour: Information on schools ok if it''s useless'
+date: 2006-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00310/labour-information-on-schools-ok-if-its-useless.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/21/labour-information-on-schools-ok-if-its-useless/index.html
+layout: layout.njk
 ---
 Labour: Information on schools ok if it's useless
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: asking-questions-the-answer-to-better-maths
-title: "Asking questions the answer to better maths"
-date: 2006-08-15
-source-url: https://www.scoop.co.nz/stories/ED0608/S00050/asking-questions-the-answer-to-better-maths.htm
+title: Asking questions the answer to better maths
+date: 2006-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00050/asking-questions-the-answer-to-better-maths.htm
 author: massey-university
+permalink: /archive/2006/08/15/asking-questions-the-answer-to-better-maths/index.html
+layout: layout.njk
 ---
 Asking questions the answer to better maths
 ===========================================

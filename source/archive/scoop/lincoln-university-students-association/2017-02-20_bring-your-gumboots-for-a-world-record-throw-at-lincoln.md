@@ -1,9 +1,13 @@
 ---
 slug: bring-your-gumboots-for-a-world-record-throw-at-lincoln
-title: "Bring your gumboots for a world record throw at Lincoln"
-date: 2017-02-20
-source-url: https://www.scoop.co.nz/stories/CU1702/S00343/bring-your-gumboots-for-a-world-record-throw-at-lincoln.htm
+title: Bring your gumboots for a world record throw at Lincoln
+date: 2017-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1702/S00343/bring-your-gumboots-for-a-world-record-throw-at-lincoln.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2017/02/20/bring-your-gumboots-for-a-world-record-throw-at-lincoln/index.html
+layout: layout.njk
 ---
 Bring your gumboots for a world record throw at Lincoln
 =======================================================

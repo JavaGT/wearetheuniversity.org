@@ -1,8 +1,12 @@
 ---
 slug: liggins-institute-namesakes-and-directors-daughters-graduate
-title: "Liggins Institute namesake’s and director’s daughters graduate"
-date: 2016-10-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/liggins-institute-daughters-graduate.html
+title: Liggins Institute namesake’s and director’s daughters graduate
+date: 2016-10-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/liggins-institute-daughters-graduate.html
+permalink: >-
+  /archive/2016/10/03/liggins-institute-namesakes-and-directors-daughters-graduate/index.html
+layout: layout.njk
 ---
 Liggins Institute namesake’s and director’s daughters graduate
 ==============================================================

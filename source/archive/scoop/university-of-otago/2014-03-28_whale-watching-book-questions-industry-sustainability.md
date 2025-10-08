@@ -1,9 +1,13 @@
 ---
 slug: whale-watching-book-questions-industry-sustainability
-title: "Whale-watching book questions industry sustainability"
-date: 2014-03-28
-source-url: https://www.scoop.co.nz/stories/SC1403/S00068/whale-watching-book-questions-industry-sustainability.htm
+title: Whale-watching book questions industry sustainability
+date: 2014-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1403/S00068/whale-watching-book-questions-industry-sustainability.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/03/28/whale-watching-book-questions-industry-sustainability/index.html
+layout: layout.njk
 ---
 Whale-watching book questions industry sustainability
 =====================================================

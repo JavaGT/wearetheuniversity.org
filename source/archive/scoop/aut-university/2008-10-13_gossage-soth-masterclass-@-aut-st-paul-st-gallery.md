@@ -1,9 +1,12 @@
 ---
 slug: gossage-soth-masterclass-@-aut-st-paul-st-gallery
-title: "Gossage/Soth masterclass @ AUT, St PAUL St Gallery"
-date: 2008-10-13
-source-url: https://www.scoop.co.nz/stories/CU0810/S00125/gossagesoth-masterclass-aut-st-paul-st-gallery.htm
+title: Gossage/Soth masterclass @ AUT, St PAUL St Gallery
+date: 2008-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0810/S00125/gossagesoth-masterclass-aut-st-paul-st-gallery.htm
 author: aut-university
+permalink: /archive/2008/10/13/gossage-soth-masterclass-/index.html
+layout: layout.njk
 ---
 Gossage/Soth masterclass @ AUT, St PAUL St Gallery
 ==================================================

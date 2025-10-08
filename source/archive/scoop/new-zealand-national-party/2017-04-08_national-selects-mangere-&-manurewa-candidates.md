@@ -1,9 +1,12 @@
 ---
 slug: national-selects-mangere-&-manurewa-candidates
-title: "National selects Mangere & Manurewa candidates"
-date: 2017-04-08
-source-url: https://www.scoop.co.nz/stories/PO1704/S00090/national-selects-mangere-manurewa-candidates.htm
+title: National selects Mangere & Manurewa candidates
+date: 2017-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00090/national-selects-mangere-manurewa-candidates.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/08/national-selects-mangere-/index.html
+layout: layout.njk
 ---
 National selects Mangere & Manurewa candidates
 ==============================================

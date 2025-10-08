@@ -1,9 +1,12 @@
 ---
 slug: victoria-community-comes-together-for-vanuatu
-title: "Victoria community comes together for Vanuatu"
-date: 2015-03-18
-source-url: https://www.scoop.co.nz/stories/AK1503/S00496/victoria-community-comes-together-for-vanuatu.htm
+title: Victoria community comes together for Vanuatu
+date: 2015-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00496/victoria-community-comes-together-for-vanuatu.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/03/18/victoria-community-comes-together-for-vanuatu/index.html
+layout: layout.njk
 ---
 Victoria community comes together for Vanuatu
 =============================================

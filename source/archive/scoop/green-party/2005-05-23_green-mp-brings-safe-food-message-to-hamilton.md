@@ -1,9 +1,12 @@
 ---
 slug: green-mp-brings-safe-food-message-to-hamilton
-title: "Green MP brings safe food message to Hamilton"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/PA0505/S00585/green-mp-brings-safe-food-message-to-hamilton.htm
+title: Green MP brings safe food message to Hamilton
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00585/green-mp-brings-safe-food-message-to-hamilton.htm
 author: green-party
+permalink: /archive/2005/05/23/green-mp-brings-safe-food-message-to-hamilton/index.html
+layout: layout.njk
 ---
 Green MP brings safe food message to Hamilton
 =============================================

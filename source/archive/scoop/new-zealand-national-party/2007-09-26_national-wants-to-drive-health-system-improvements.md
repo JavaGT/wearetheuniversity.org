@@ -1,9 +1,13 @@
 ---
 slug: national-wants-to-drive-health-system-improvements
-title: "National wants to drive health system improvements"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/PA0709/S00462/national-wants-to-drive-health-system-improvements.htm
+title: National wants to drive health system improvements
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00462/national-wants-to-drive-health-system-improvements.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/09/26/national-wants-to-drive-health-system-improvements/index.html
+layout: layout.njk
 ---
 National wants to drive health system improvements
 ==================================================

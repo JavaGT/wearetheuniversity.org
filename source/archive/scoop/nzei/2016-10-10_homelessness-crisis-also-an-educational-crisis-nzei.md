@@ -1,9 +1,13 @@
 ---
 slug: homelessness-crisis-also-an-educational-crisis-nzei
-title: "Homelessness crisis also an educational crisis - NZEI"
-date: 2016-10-10
-source-url: https://www.scoop.co.nz/stories/PO1610/S00147/homelessness-crisis-also-an-educational-crisis-nzei.htm
+title: Homelessness crisis also an educational crisis - NZEI
+date: 2016-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1610/S00147/homelessness-crisis-also-an-educational-crisis-nzei.htm
 author: nzei
+permalink: >-
+  /archive/2016/10/10/homelessness-crisis-also-an-educational-crisis-nzei/index.html
+layout: layout.njk
 ---
 Homelessness crisis also an educational crisis - NZEI
 =====================================================

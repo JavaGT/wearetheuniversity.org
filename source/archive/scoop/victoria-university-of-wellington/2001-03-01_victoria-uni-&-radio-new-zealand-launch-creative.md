@@ -1,9 +1,12 @@
 ---
 slug: victoria-uni-&-radio-new-zealand-launch-creative
-title: "Victoria Uni & Radio New Zealand Launch Creative"
-date: 2001-03-01
-source-url: https://www.scoop.co.nz/stories/CU0103/S00004/victoria-uni-radio-new-zealand-launch-creative.htm
+title: Victoria Uni & Radio New Zealand Launch Creative
+date: 2001-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0103/S00004/victoria-uni-radio-new-zealand-launch-creative.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/03/01/victoria-uni-/index.html
+layout: layout.njk
 ---
 Victoria Uni & Radio New Zealand Launch Creative
 ================================================

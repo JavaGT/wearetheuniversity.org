@@ -1,9 +1,12 @@
 ---
 slug: study-shows-retailers-in-breach-of-legislation
-title: "Study shows retailers in breach of legislation"
-date: 2006-10-16
-source-url: https://www.scoop.co.nz/stories/GE0610/S00053/study-shows-retailers-in-breach-of-legislation.htm
+title: Study shows retailers in breach of legislation
+date: 2006-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0610/S00053/study-shows-retailers-in-breach-of-legislation.htm
 author: university-of-otago
+permalink: /archive/2006/10/16/study-shows-retailers-in-breach-of-legislation/index.html
+layout: layout.njk
 ---
 Study shows retailers in breach of legislation
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: certificate-for-working-with-pacific-communities
-title: "Certificate for working with Pacific communities"
-date: 2009-09-25
-source-url: https://www.scoop.co.nz/stories/ED0909/S00105/certificate-for-working-with-pacific-communities.htm
+title: Certificate for working with Pacific communities
+date: 2009-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00105/certificate-for-working-with-pacific-communities.htm
 author: massey-university
+permalink: >-
+  /archive/2009/09/25/certificate-for-working-with-pacific-communities/index.html
+layout: layout.njk
 ---
 Certificate for working with Pacific communities
 ================================================

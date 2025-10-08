@@ -1,9 +1,12 @@
 ---
 slug: petition-living-allowance-for-students-launched
-title: "Petition: Living allowance for students launched"
-date: 2004-02-23
-source-url: https://www.scoop.co.nz/stories/ED0402/S00057/petition-living-allowance-for-students-launched.htm
+title: 'Petition: Living allowance for students launched'
+date: 2004-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00057/petition-living-allowance-for-students-launched.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/02/23/petition-living-allowance-for-students-launched/index.html
+layout: layout.njk
 ---
 Petition: Living allowance for students launched
 ================================================

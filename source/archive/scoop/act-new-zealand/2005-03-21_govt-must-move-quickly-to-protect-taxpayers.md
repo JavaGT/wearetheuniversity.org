@@ -1,9 +1,12 @@
 ---
 slug: govt-must-move-quickly-to-protect-taxpayers
-title: "Govt must move quickly to protect taxpayers"
-date: 2005-03-21
-source-url: https://www.scoop.co.nz/stories/PA0503/S00441/govt-must-move-quickly-to-protect-taxpayers.htm
+title: Govt must move quickly to protect taxpayers
+date: 2005-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00441/govt-must-move-quickly-to-protect-taxpayers.htm
 author: act-new-zealand
+permalink: /archive/2005/03/21/govt-must-move-quickly-to-protect-taxpayers/index.html
+layout: layout.njk
 ---
 Govt must move quickly to protect taxpayers
 ===========================================

@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-cyber-resilience-failing-under-labour
-title: "New Zealand’s Cyber-resilience Failing Under Labour"
-date: 2021-07-20
-source-url: https://www.scoop.co.nz/stories/PA2107/S00152/new-zealands-cyber-resilience-failing-under-labour.htm
+title: New Zealand’s Cyber-resilience Failing Under Labour
+date: 2021-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00152/new-zealands-cyber-resilience-failing-under-labour.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/07/20/new-zealands-cyber-resilience-failing-under-labour/index.html
+layout: layout.njk
 ---
 New Zealand’s Cyber-resilience Failing Under Labour
 ===================================================

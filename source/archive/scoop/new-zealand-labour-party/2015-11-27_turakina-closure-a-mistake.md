@@ -1,9 +1,11 @@
 ---
 slug: turakina-closure-a-mistake
-title: "Turakina closure a mistake"
-date: 2015-11-27
+title: Turakina closure a mistake
+date: 2015-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1511/S00535/turakina-closure-a-mistake.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/27/turakina-closure-a-mistake/index.html
+layout: layout.njk
 ---
 Turakina closure a mistake
 ==========================

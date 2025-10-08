@@ -1,9 +1,13 @@
 ---
 slug: citizens-jury-highlights-complex-euthanasia-debate
-title: "Citizens’ Jury highlights complex euthanasia debate"
-date: 2018-05-24
-source-url: https://www.scoop.co.nz/stories/PO1805/S00357/citizens-jury-highlights-complex-euthanasia-debate.htm
+title: Citizens’ Jury highlights complex euthanasia debate
+date: 2018-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00357/citizens-jury-highlights-complex-euthanasia-debate.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/24/citizens-jury-highlights-complex-euthanasia-debate/index.html
+layout: layout.njk
 ---
 Citizens’ Jury highlights complex euthanasia debate
 ===================================================

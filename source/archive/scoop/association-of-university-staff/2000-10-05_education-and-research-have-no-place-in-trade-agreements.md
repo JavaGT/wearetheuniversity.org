@@ -1,9 +1,13 @@
 ---
 slug: education-and-research-have-no-place-in-trade-agreements
-title: "Education and research have no place in trade agreements"
-date: 2000-10-05
-source-url: https://www.scoop.co.nz/stories/ED0010/S00004/education-and-research-have-no-place-in-trade-agreements.htm
+title: Education and research have no place in trade agreements
+date: 2000-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00004/education-and-research-have-no-place-in-trade-agreements.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2000/10/05/education-and-research-have-no-place-in-trade-agreements/index.html
+layout: layout.njk
 ---
 Education and research have no place in trade agreements
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: wheres-the-education-urgency
-title: "Where’s The Education Urgency?"
-date: 2021-11-17
+title: Where’s The Education Urgency?
+date: 2021-11-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2111/S00207/wheres-the-education-urgency.htm
 author: new-zealand-national-party
+permalink: /archive/2021/11/17/wheres-the-education-urgency/index.html
+layout: layout.njk
 ---
 Where’s The Education Urgency?
 ==============================

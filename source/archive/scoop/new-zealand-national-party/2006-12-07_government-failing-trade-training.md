@@ -1,9 +1,12 @@
 ---
 slug: government-failing-trade-training
-title: "Government failing trade training"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/PA0612/S00153/government-failing-trade-training.htm
+title: Government failing trade training
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00153/government-failing-trade-training.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/07/government-failing-trade-training/index.html
+layout: layout.njk
 ---
 Government failing trade training
 =================================

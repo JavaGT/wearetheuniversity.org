@@ -1,9 +1,12 @@
 ---
 slug: can-we-increase-our-savings-don-brash-speech
-title: "Can We Increase Our Savings? - Don Brash Speech"
-date: 2002-07-18
-source-url: https://www.scoop.co.nz/stories/PO0207/S00188/can-we-increase-our-savings-don-brash-speech.htm
+title: Can We Increase Our Savings? - Don Brash Speech
+date: 2002-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0207/S00188/can-we-increase-our-savings-don-brash-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/18/can-we-increase-our-savings-don-brash-speech/index.html
+layout: layout.njk
 ---
 Can We Increase Our Savings? - Don Brash Speech
 ===============================================

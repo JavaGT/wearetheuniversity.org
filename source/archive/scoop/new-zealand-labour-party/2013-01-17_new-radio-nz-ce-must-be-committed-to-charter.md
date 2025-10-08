@@ -1,9 +1,12 @@
 ---
 slug: new-radio-nz-ce-must-be-committed-to-charter
-title: "New Radio NZ CE must be committed to charter"
-date: 2013-01-17
-source-url: https://www.scoop.co.nz/stories/PA1301/S00053/new-radio-nz-ce-must-be-committed-to-charter.htm
+title: New Radio NZ CE must be committed to charter
+date: 2013-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00053/new-radio-nz-ce-must-be-committed-to-charter.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/17/new-radio-nz-ce-must-be-committed-to-charter/index.html
+layout: layout.njk
 ---
 New Radio NZ CE must be committed to charter
 ============================================

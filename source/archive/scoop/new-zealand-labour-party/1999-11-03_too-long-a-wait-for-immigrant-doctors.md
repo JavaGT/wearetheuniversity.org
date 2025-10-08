@@ -1,9 +1,12 @@
 ---
 slug: too-long-a-wait-for-immigrant-doctors
-title: "Too long a wait for immigrant doctors"
-date: 1999-11-03
-source-url: https://www.scoop.co.nz/stories/PA9911/S00060/too-long-a-wait-for-immigrant-doctors.htm
+title: Too long a wait for immigrant doctors
+date: 1999-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00060/too-long-a-wait-for-immigrant-doctors.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/03/too-long-a-wait-for-immigrant-doctors/index.html
+layout: layout.njk
 ---
 Too long a wait for immigrant doctors
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: canterburys-gets-leading-edge-of-ict-research
-title: "Canterbury's gets leading edge of ICT research"
-date: 2004-06-15
-source-url: https://www.scoop.co.nz/stories/ED0406/S00058/canterburys-gets-leading-edge-of-ict-research.htm
+title: Canterbury's gets leading edge of ICT research
+date: 2004-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00058/canterburys-gets-leading-edge-of-ict-research.htm
 author: university-of-canterbury
+permalink: /archive/2004/06/15/canterburys-gets-leading-edge-of-ict-research/index.html
+layout: layout.njk
 ---
 Canterbury's gets leading edge of ICT research
 ==============================================

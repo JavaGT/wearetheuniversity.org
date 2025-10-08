@@ -1,9 +1,12 @@
 ---
 slug: burger-rings-labours-healthy-option
-title: "Burger Rings - Labour's 'healthy' option"
-date: 2007-06-12
-source-url: https://www.scoop.co.nz/stories/PA0706/S00210/burger-rings-labours-healthy-option.htm
+title: Burger Rings - Labour's 'healthy' option
+date: 2007-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00210/burger-rings-labours-healthy-option.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/12/burger-rings-labours-healthy-option/index.html
+layout: layout.njk
 ---
 Burger Rings - Labour's 'healthy' option
 ========================================

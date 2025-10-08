@@ -1,9 +1,11 @@
 ---
 slug: turning-trash-into-treasure
-title: "Turning trash into treasure"
-date: 2016-05-18
+title: Turning trash into treasure
+date: 2016-05-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1605/S00043/turning-trash-into-treasure.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/05/18/turning-trash-into-treasure/index.html
+layout: layout.njk
 ---
 Turning trash into treasure
 ===========================

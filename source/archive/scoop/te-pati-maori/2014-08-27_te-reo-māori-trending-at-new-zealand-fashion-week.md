@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māori-trending-at-new-zealand-fashion-week
-title: "Te reo Māori trending at New Zealand Fashion Week"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/PO1408/S00462/te-reo-maori-trending-at-new-zealand-fashion-week.htm
+title: Te reo Māori trending at New Zealand Fashion Week
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00462/te-reo-maori-trending-at-new-zealand-fashion-week.htm
 author: te-pati-maori
+permalink: /archive/2014/08/27/te-reo-m/index.html
+layout: layout.njk
 ---
 Te reo Māori trending at New Zealand Fashion Week
 =================================================

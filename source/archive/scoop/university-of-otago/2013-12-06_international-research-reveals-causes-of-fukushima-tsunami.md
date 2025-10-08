@@ -1,9 +1,13 @@
 ---
 slug: international-research-reveals-causes-of-fukushima-tsunami
-title: "International research reveals causes of Fukushima tsunami"
-date: 2013-12-06
-source-url: https://www.scoop.co.nz/stories/SC1312/S00027/international-research-reveals-causes-of-fukushima-tsunami.htm
+title: International research reveals causes of Fukushima tsunami
+date: 2013-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00027/international-research-reveals-causes-of-fukushima-tsunami.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/12/06/international-research-reveals-causes-of-fukushima-tsunami/index.html
+layout: layout.njk
 ---
 International research reveals causes of Fukushima tsunami
 ==========================================================

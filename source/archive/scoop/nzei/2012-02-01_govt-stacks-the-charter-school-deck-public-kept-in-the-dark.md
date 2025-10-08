@@ -1,9 +1,13 @@
 ---
 slug: govt-stacks-the-charter-school-deck-public-kept-in-the-dark
-title: "Govt stacks the charter school deck, public kept in the dark"
-date: 2012-02-01
-source-url: https://www.scoop.co.nz/stories/PO1202/S00002/govt-stacks-the-charter-school-deck-public-kept-in-the-dark.htm
+title: Govt stacks the charter school deck, public kept in the dark
+date: 2012-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00002/govt-stacks-the-charter-school-deck-public-kept-in-the-dark.htm
 author: nzei
+permalink: >-
+  /archive/2012/02/01/govt-stacks-the-charter-school-deck-public-kept-in-the-dark/index.html
+layout: layout.njk
 ---
 Govt stacks the charter school deck, public kept in the dark
 ============================================================

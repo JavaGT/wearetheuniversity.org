@@ -1,9 +1,12 @@
 ---
 slug: let-seniors-know-there-is-a-choice-of-medicines
-title: "Let seniors know there is a choice of medicines"
-date: 2009-03-25
-source-url: https://www.scoop.co.nz/stories/PA0903/S00350/let-seniors-know-there-is-a-choice-of-medicines.htm
+title: Let seniors know there is a choice of medicines
+date: 2009-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00350/let-seniors-know-there-is-a-choice-of-medicines.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/25/let-seniors-know-there-is-a-choice-of-medicines/index.html
+layout: layout.njk
 ---
 Let seniors know there is a choice of medicines
 ===============================================

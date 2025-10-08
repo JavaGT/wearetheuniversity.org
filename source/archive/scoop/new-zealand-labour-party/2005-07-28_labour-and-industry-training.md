@@ -1,9 +1,11 @@
 ---
 slug: labour-and-industry-training
-title: "Labour and Industry Training"
-date: 2005-07-28
+title: Labour and Industry Training
+date: 2005-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0507/S00614/labour-and-industry-training.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/07/28/labour-and-industry-training/index.html
+layout: layout.njk
 ---
 Labour and Industry Training
 ============================

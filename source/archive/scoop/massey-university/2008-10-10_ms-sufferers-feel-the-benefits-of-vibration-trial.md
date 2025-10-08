@@ -1,9 +1,13 @@
 ---
 slug: ms-sufferers-feel-the-benefits-of-vibration-trial
-title: "MS sufferers feel the benefits of vibration trial"
-date: 2008-10-10
-source-url: https://www.scoop.co.nz/stories/ED0810/S00035/ms-sufferers-feel-the-benefits-of-vibration-trial.htm
+title: MS sufferers feel the benefits of vibration trial
+date: 2008-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00035/ms-sufferers-feel-the-benefits-of-vibration-trial.htm
 author: massey-university
+permalink: >-
+  /archive/2008/10/10/ms-sufferers-feel-the-benefits-of-vibration-trial/index.html
+layout: layout.njk
 ---
 MS sufferers feel the benefits of vibration trial
 =================================================

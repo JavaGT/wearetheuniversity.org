@@ -1,9 +1,11 @@
 ---
 slug: reveal-drug-importers-mark
-title: "Reveal Drug Importers - Mark"
-date: 2008-07-08
+title: Reveal Drug Importers - Mark
+date: 2008-07-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0807/S00160/reveal-drug-importers-mark.htm
 author: new-zealand-first-party
+permalink: /archive/2008/07/08/reveal-drug-importers-mark/index.html
+layout: layout.njk
 ---
 Reveal Drug Importers - Mark
 ============================

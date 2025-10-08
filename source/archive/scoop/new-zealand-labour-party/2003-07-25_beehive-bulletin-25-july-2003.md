@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-25-july-2003
-title: "Beehive Bulletin, 25 July 2003"
-date: 2003-07-25
-source-url: https://www.scoop.co.nz/stories/PA0307/S00476/beehive-bulletin-25-july-2003.htm
+title: Beehive Bulletin, 25 July 2003
+date: 2003-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00476/beehive-bulletin-25-july-2003.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/07/25/beehive-bulletin-25-july-2003/index.html
+layout: layout.njk
 ---
 Beehive Bulletin, 25 July 2003
 ==============================

@@ -1,9 +1,13 @@
 ---
 slug: greens-seek-crackdown-on-illicit-casino-proceeds
-title: "Greens seek crackdown on illicit casino proceeds"
-date: 2012-07-15
-source-url: https://www.scoop.co.nz/stories/PA1207/S00173/greens-seek-crackdown-on-illicit-casino-proceeds.htm
+title: Greens seek crackdown on illicit casino proceeds
+date: 2012-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00173/greens-seek-crackdown-on-illicit-casino-proceeds.htm
 author: green-party
+permalink: >-
+  /archive/2012/07/15/greens-seek-crackdown-on-illicit-casino-proceeds/index.html
+layout: layout.njk
 ---
 Greens seek crackdown on illicit casino proceeds
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: online-evolution
-title: "Online evolution"
-date: 2004-03-23
+title: Online evolution
+date: 2004-03-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0403/S00094/online-evolution.htm
 author: waikato-university
+permalink: /archive/2004/03/23/online-evolution/index.html
+layout: layout.njk
 ---
 Online evolution
 ================

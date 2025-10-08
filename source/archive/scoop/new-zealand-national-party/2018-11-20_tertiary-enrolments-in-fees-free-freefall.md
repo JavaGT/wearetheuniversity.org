@@ -1,9 +1,12 @@
 ---
 slug: tertiary-enrolments-in-fees-free-freefall
-title: "Tertiary enrolments in fees-free freefall"
-date: 2018-11-20
-source-url: https://www.scoop.co.nz/stories/PA1811/S00208/tertiary-enrolments-in-fees-free-freefall.htm
+title: Tertiary enrolments in fees-free freefall
+date: 2018-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00208/tertiary-enrolments-in-fees-free-freefall.htm
 author: new-zealand-national-party
+permalink: /archive/2018/11/20/tertiary-enrolments-in-fees-free-freefall/index.html
+layout: layout.njk
 ---
 Tertiary enrolments in fees-free freefall
 =========================================

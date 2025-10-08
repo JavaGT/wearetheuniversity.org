@@ -1,9 +1,12 @@
 ---
 slug: minerals-&-mining-conference-2000-cosgrove-spch
-title: "Minerals & Mining Conference 2000 - Cosgrove Spch"
-date: 2000-10-30
-source-url: https://www.scoop.co.nz/stories/PA0010/S00531/minerals-mining-conference-2000-cosgrove-spch.htm
+title: Minerals & Mining Conference 2000 - Cosgrove Spch
+date: 2000-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00531/minerals-mining-conference-2000-cosgrove-spch.htm
 author: new-zealand-labour-party
+permalink: /archive/2000/10/30/minerals-/index.html
+layout: layout.njk
 ---
 Minerals & Mining Conference 2000 - Cosgrove Spch
 =================================================

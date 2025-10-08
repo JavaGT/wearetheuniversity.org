@@ -1,9 +1,13 @@
 ---
 slug: nz-researchers-lead-new-international-book-on-human-robot-interaction
-title: "NZ Researchers Lead New International Book On Human-Robot Interaction"
-date: 2020-05-08
-source-url: https://www.scoop.co.nz/stories/SC2005/S00017/nz-researchers-lead-new-international-book-on-human-robot-interaction.htm
+title: NZ Researchers Lead New International Book On Human-Robot Interaction
+date: 2020-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00017/nz-researchers-lead-new-international-book-on-human-robot-interaction.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/05/08/nz-researchers-lead-new-international-book-on-human-robot-interaction/index.html
+layout: layout.njk
 ---
 NZ Researchers Lead New International Book On Human-Robot Interaction
 =====================================================================

@@ -1,9 +1,12 @@
 ---
 slug: study-to-weigh-up-body-fat-and-health-risks
-title: "Study to weigh up body fat and health risks"
-date: 2009-04-02
-source-url: https://www.scoop.co.nz/stories/SC0904/S00007/study-to-weigh-up-body-fat-and-health-risks.htm
+title: Study to weigh up body fat and health risks
+date: 2009-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00007/study-to-weigh-up-body-fat-and-health-risks.htm
 author: massey-university
+permalink: /archive/2009/04/02/study-to-weigh-up-body-fat-and-health-risks/index.html
+layout: layout.njk
 ---
 Study to weigh up body fat and health risks
 ===========================================

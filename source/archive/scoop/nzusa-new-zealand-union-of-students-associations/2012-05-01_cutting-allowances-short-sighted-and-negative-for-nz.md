@@ -1,9 +1,13 @@
 ---
 slug: cutting-allowances-short-sighted-and-negative-for-nz
-title: "Cutting Allowances Short-sighted and Negative for NZ"
-date: 2012-05-01
-source-url: https://www.scoop.co.nz/stories/ED1205/S00004/cutting-allowances-short-sighted-and-negative-for-nz.htm
+title: Cutting Allowances Short-sighted and Negative for NZ
+date: 2012-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00004/cutting-allowances-short-sighted-and-negative-for-nz.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/05/01/cutting-allowances-short-sighted-and-negative-for-nz/index.html
+layout: layout.njk
 ---
 Cutting Allowances Short-sighted and Negative for NZ
 ====================================================

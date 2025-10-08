@@ -1,9 +1,12 @@
 ---
 slug: pm-must-ask-greg-oconnor-to-please-explain
-title: "PM Must Ask Greg O’Connor To Please Explain"
-date: 2023-05-14
-source-url: https://www.scoop.co.nz/stories/PA2305/S00092/pm-must-ask-greg-oconnor-to-please-explain.htm
+title: PM Must Ask Greg O’Connor To Please Explain
+date: 2023-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00092/pm-must-ask-greg-oconnor-to-please-explain.htm
 author: new-zealand-national-party
+permalink: /archive/2023/05/14/pm-must-ask-greg-oconnor-to-please-explain/index.html
+layout: layout.njk
 ---
 PM Must Ask Greg O’Connor To Please Explain
 ===========================================

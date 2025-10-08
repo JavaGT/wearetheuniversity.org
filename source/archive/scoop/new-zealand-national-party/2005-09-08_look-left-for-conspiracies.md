@@ -1,9 +1,11 @@
 ---
 slug: look-left-for-conspiracies
-title: "Look left for conspiracies"
-date: 2005-09-08
+title: Look left for conspiracies
+date: 2005-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00218/look-left-for-conspiracies.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/08/look-left-for-conspiracies/index.html
+layout: layout.njk
 ---
 Look left for conspiracies
 ==========================

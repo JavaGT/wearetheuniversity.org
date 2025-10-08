@@ -1,9 +1,12 @@
 ---
 slug: uk-expert-appointed;-otago-geography-professorship
-title: "UK Expert Appointed; Otago Geography Professorship"
-date: 2004-10-08
-source-url: https://www.scoop.co.nz/stories/ED0410/S00032/uk-expert-appointed-otago-geography-professorship.htm
+title: UK Expert Appointed; Otago Geography Professorship
+date: 2004-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00032/uk-expert-appointed-otago-geography-professorship.htm
 author: university-of-otago
+permalink: /archive/2004/10/08/uk-expert-appointed/index.html
+layout: layout.njk
 ---
 UK Expert Appointed; Otago Geography Professorship
 ==================================================

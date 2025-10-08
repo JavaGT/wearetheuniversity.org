@@ -1,9 +1,11 @@
 ---
 slug: savvy-science-goes-live
-title: "Savvy science goes live"
-date: 2007-07-02
+title: Savvy science goes live
+date: 2007-07-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0707/S00004/savvy-science-goes-live.htm
 author: university-of-waikato
+permalink: /archive/2007/07/02/savvy-science-goes-live/index.html
+layout: layout.njk
 ---
 Savvy science goes live
 =======================

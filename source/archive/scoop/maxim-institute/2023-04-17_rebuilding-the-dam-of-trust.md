@@ -1,9 +1,11 @@
 ---
 slug: rebuilding-the-dam-of-trust
-title: "Rebuilding The Dam Of Trust"
-date: 2023-04-17
+title: Rebuilding The Dam Of Trust
+date: 2023-04-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO2304/S00100/rebuilding-the-dam-of-trust.htm
 author: maxim-institute
+permalink: /archive/2023/04/17/rebuilding-the-dam-of-trust/index.html
+layout: layout.njk
 ---
 Rebuilding The Dam Of Trust
 ===========================

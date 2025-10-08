@@ -1,9 +1,12 @@
 ---
 slug: the-antarctic-ice-sheet-and-rising-sea-levels
-title: "The Antarctic ice sheet and rising sea levels"
-date: 2008-05-16
-source-url: https://www.scoop.co.nz/stories/ED0805/S00054/the-antarctic-ice-sheet-and-rising-sea-levels.htm
+title: The Antarctic ice sheet and rising sea levels
+date: 2008-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00054/the-antarctic-ice-sheet-and-rising-sea-levels.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/05/16/the-antarctic-ice-sheet-and-rising-sea-levels/index.html
+layout: layout.njk
 ---
 The Antarctic ice sheet and rising sea levels
 =============================================

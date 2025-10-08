@@ -1,9 +1,12 @@
 ---
 slug: speech-shearer-cullen-breakfast-club
-title: "Speech: Shearer - Cullen Breakfast Club"
-date: 2012-03-15
-source-url: https://www.scoop.co.nz/stories/PA1203/S00200/speech-shearer-cullen-breakfast-club.htm
+title: 'Speech: Shearer - Cullen Breakfast Club'
+date: 2012-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00200/speech-shearer-cullen-breakfast-club.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/03/15/speech-shearer-cullen-breakfast-club/index.html
+layout: layout.njk
 ---
 Speech: Shearer - Cullen Breakfast Club
 =======================================

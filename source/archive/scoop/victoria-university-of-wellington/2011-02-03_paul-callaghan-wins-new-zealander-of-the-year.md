@@ -1,9 +1,12 @@
 ---
 slug: paul-callaghan-wins-new-zealander-of-the-year
-title: "Paul Callaghan wins New Zealander of the Year"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/AK1102/S00102/paul-callaghan-wins-new-zealander-of-the-year.htm
+title: Paul Callaghan wins New Zealander of the Year
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00102/paul-callaghan-wins-new-zealander-of-the-year.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/02/03/paul-callaghan-wins-new-zealander-of-the-year/index.html
+layout: layout.njk
 ---
 Paul Callaghan wins New Zealander of the Year
 =============================================

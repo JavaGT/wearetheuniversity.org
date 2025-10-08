@@ -1,9 +1,13 @@
 ---
 slug: grant-to-research-pivotal-female-nz-classics-scholar
-title: "Grant to research pivotal female NZ Classics scholar"
-date: 2018-06-01
-source-url: https://www.scoop.co.nz/stories/ED1806/S00007/grant-to-research-pivotal-female-nz-classics-scholar.htm
+title: Grant to research pivotal female NZ Classics scholar
+date: 2018-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1806/S00007/grant-to-research-pivotal-female-nz-classics-scholar.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/01/grant-to-research-pivotal-female-nz-classics-scholar/index.html
+layout: layout.njk
 ---
 Grant to research pivotal female NZ Classics scholar
 ====================================================

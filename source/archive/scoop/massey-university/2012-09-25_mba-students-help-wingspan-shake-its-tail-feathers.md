@@ -1,9 +1,13 @@
 ---
 slug: mba-students-help-wingspan-shake-its-tail-feathers
-title: "MBA students help Wingspan shake its tail feathers"
-date: 2012-09-25
-source-url: https://www.scoop.co.nz/stories/ED1209/S00186/mba-students-help-wingspan-shake-its-tail-feathers.htm
+title: MBA students help Wingspan shake its tail feathers
+date: 2012-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00186/mba-students-help-wingspan-shake-its-tail-feathers.htm
 author: massey-university
+permalink: >-
+  /archive/2012/09/25/mba-students-help-wingspan-shake-its-tail-feathers/index.html
+layout: layout.njk
 ---
 MBA students help Wingspan shake its tail feathers
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-to-host-international-business-students
-title: "Lincoln University to host international business students"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/ED1508/S00126/lincoln-university-to-host-international-business-students.htm
+title: Lincoln University to host international business students
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00126/lincoln-university-to-host-international-business-students.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/08/26/lincoln-university-to-host-international-business-students/index.html
+layout: layout.njk
 ---
 Lincoln University to host international business students
 ==========================================================

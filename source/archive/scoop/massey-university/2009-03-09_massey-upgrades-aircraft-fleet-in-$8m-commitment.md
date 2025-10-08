@@ -1,9 +1,12 @@
 ---
 slug: massey-upgrades-aircraft-fleet-in-$8m-commitment
-title: "Massey upgrades aircraft fleet in $8m commitment"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/ED0903/S00028/massey-upgrades-aircraft-fleet-in-8m-commitment.htm
+title: Massey upgrades aircraft fleet in $8m commitment
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00028/massey-upgrades-aircraft-fleet-in-8m-commitment.htm
 author: massey-university
+permalink: /archive/2009/03/09/massey-upgrades-aircraft-fleet-in-/index.html
+layout: layout.njk
 ---
 Massey upgrades aircraft fleet in $8m commitment
 ================================================

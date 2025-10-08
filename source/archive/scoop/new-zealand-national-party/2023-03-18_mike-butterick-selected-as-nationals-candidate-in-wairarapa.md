@@ -1,9 +1,13 @@
 ---
 slug: mike-butterick-selected-as-nationals-candidate-in-wairarapa
-title: "Mike Butterick Selected As National’s Candidate In Wairarapa"
-date: 2023-03-18
-source-url: https://www.scoop.co.nz/stories/PA2303/S00158/mike-butterick-selected-as-nationals-candidate-in-wairarapa.htm
+title: Mike Butterick Selected As National’s Candidate In Wairarapa
+date: 2023-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00158/mike-butterick-selected-as-nationals-candidate-in-wairarapa.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/03/18/mike-butterick-selected-as-nationals-candidate-in-wairarapa/index.html
+layout: layout.njk
 ---
 Mike Butterick Selected As National’s Candidate In Wairarapa
 ============================================================

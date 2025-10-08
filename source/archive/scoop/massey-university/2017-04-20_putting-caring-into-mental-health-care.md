@@ -1,9 +1,12 @@
 ---
 slug: putting-caring-into-mental-health-care
-title: "Putting caring into mental health care"
-date: 2017-04-20
-source-url: https://www.scoop.co.nz/stories/GE1704/S00080/putting-caring-into-mental-health-care.htm
+title: Putting caring into mental health care
+date: 2017-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1704/S00080/putting-caring-into-mental-health-care.htm
 author: massey-university
+permalink: /archive/2017/04/20/putting-caring-into-mental-health-care/index.html
+layout: layout.njk
 ---
 Putting caring into mental health care
 ======================================

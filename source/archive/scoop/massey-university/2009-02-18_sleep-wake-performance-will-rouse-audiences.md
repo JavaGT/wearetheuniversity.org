@@ -1,9 +1,12 @@
 ---
 slug: sleep-wake-performance-will-rouse-audiences
-title: "Sleep/Wake performance will rouse audiences"
-date: 2009-02-18
-source-url: https://www.scoop.co.nz/stories/CU0902/S00320/sleepwake-performance-will-rouse-audiences.htm
+title: Sleep/Wake performance will rouse audiences
+date: 2009-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00320/sleepwake-performance-will-rouse-audiences.htm
 author: massey-university
+permalink: /archive/2009/02/18/sleep-wake-performance-will-rouse-audiences/index.html
+layout: layout.njk
 ---
 Sleep/Wake performance will rouse audiences
 ===========================================

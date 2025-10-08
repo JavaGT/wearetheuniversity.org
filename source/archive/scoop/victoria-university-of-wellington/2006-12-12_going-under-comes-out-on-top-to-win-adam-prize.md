@@ -1,9 +1,12 @@
 ---
 slug: going-under-comes-out-on-top-to-win-adam-prize
-title: "Going Under comes out on top to win Adam Prize"
-date: 2006-12-12
-source-url: https://www.scoop.co.nz/stories/CU0612/S00086/going-under-comes-out-on-top-to-win-adam-prize.htm
+title: Going Under comes out on top to win Adam Prize
+date: 2006-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0612/S00086/going-under-comes-out-on-top-to-win-adam-prize.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/12/12/going-under-comes-out-on-top-to-win-adam-prize/index.html
+layout: layout.njk
 ---
 Going Under comes out on top to win Adam Prize
 ==============================================

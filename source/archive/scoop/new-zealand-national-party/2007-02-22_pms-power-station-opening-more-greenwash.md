@@ -1,9 +1,12 @@
 ---
 slug: pms-power-station-opening-more-greenwash
-title: "PM’s power station opening more greenwash"
-date: 2007-02-22
-source-url: https://www.scoop.co.nz/stories/PA0702/S00414/pms-power-station-opening-more-greenwash.htm
+title: PM’s power station opening more greenwash
+date: 2007-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00414/pms-power-station-opening-more-greenwash.htm
 author: new-zealand-national-party
+permalink: /archive/2007/02/22/pms-power-station-opening-more-greenwash/index.html
+layout: layout.njk
 ---
 PM’s power station opening more greenwash
 =========================================

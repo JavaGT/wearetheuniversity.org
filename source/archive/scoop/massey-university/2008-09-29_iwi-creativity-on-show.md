@@ -1,9 +1,11 @@
 ---
 slug: iwi-creativity-on-show
-title: "Iwi Creativity on show"
-date: 2008-09-29
+title: Iwi Creativity on show
+date: 2008-09-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0809/S00104/iwi-creativity-on-show.htm
 author: massey-university
+permalink: /archive/2008/09/29/iwi-creativity-on-show/index.html
+layout: layout.njk
 ---
 Iwi Creativity on show
 ======================

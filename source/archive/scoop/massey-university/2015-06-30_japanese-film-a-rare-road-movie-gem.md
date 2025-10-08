@@ -1,9 +1,12 @@
 ---
 slug: japanese-film-a-rare-road-movie-gem
-title: "Japanese film a rare road movie gem"
-date: 2015-06-30
-source-url: https://www.scoop.co.nz/stories/ED1506/S00143/japanese-film-a-rare-road-movie-gem.htm
+title: Japanese film a rare road movie gem
+date: 2015-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00143/japanese-film-a-rare-road-movie-gem.htm
 author: massey-university
+permalink: /archive/2015/06/30/japanese-film-a-rare-road-movie-gem/index.html
+layout: layout.njk
 ---
 Japanese film a rare road movie gem
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: greens-even-sillier-with-call-to-students-to-wag
-title: "Greens even sillier with call to students to wag"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PO0603/S00149/greens-even-sillier-with-call-to-students-to-wag.htm
+title: Greens even sillier with call to students to wag
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0603/S00149/greens-even-sillier-with-call-to-students-to-wag.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2006/03/20/greens-even-sillier-with-call-to-students-to-wag/index.html
+layout: layout.njk
 ---
 Greens even sillier with call to students to wag
 ================================================

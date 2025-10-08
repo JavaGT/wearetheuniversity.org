@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-accepted-to-aust-national-academy-of-music
-title: "Waikato Student Accepted to Aust. National Academy of Music"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/ED1412/S00002/waikato-student-accepted-to-aust-national-academy-of-music.htm
+title: Waikato Student Accepted to Aust. National Academy of Music
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00002/waikato-student-accepted-to-aust-national-academy-of-music.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/12/01/waikato-student-accepted-to-aust-national-academy-of-music/index.html
+layout: layout.njk
 ---
 Waikato Student Accepted to Aust. National Academy of Music
 ===========================================================

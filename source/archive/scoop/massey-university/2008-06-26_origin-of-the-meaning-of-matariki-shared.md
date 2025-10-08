@@ -1,9 +1,12 @@
 ---
 slug: origin-of-the-meaning-of-matariki-shared
-title: "Origin of the meaning of Matariki shared"
-date: 2008-06-26
-source-url: https://www.scoop.co.nz/stories/ED0806/S00077/origin-of-the-meaning-of-matariki-shared.htm
+title: Origin of the meaning of Matariki shared
+date: 2008-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0806/S00077/origin-of-the-meaning-of-matariki-shared.htm
 author: massey-university
+permalink: /archive/2008/06/26/origin-of-the-meaning-of-matariki-shared/index.html
+layout: layout.njk
 ---
 Origin of the meaning of Matariki shared
 ========================================

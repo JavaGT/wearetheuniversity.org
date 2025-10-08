@@ -1,9 +1,12 @@
 ---
 slug: 20000-manufacturing-jobs-lost-under-national
-title: "20,000 manufacturing jobs lost under National"
-date: 2012-08-12
-source-url: https://www.scoop.co.nz/stories/PO1208/S00162/20000-manufacturing-jobs-lost-under-national.htm
+title: 20,000 manufacturing jobs lost under National
+date: 2012-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00162/20000-manufacturing-jobs-lost-under-national.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/12/20000-manufacturing-jobs-lost-under-national/index.html
+layout: layout.njk
 ---
 20,000 manufacturing jobs lost under National
 =============================================

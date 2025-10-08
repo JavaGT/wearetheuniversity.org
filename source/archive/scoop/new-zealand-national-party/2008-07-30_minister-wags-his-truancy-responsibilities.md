@@ -1,9 +1,12 @@
 ---
 slug: minister-wags-his-truancy-responsibilities
-title: "Minister wags his truancy responsibilities"
-date: 2008-07-30
-source-url: https://www.scoop.co.nz/stories/PA0807/S00560/minister-wags-his-truancy-responsibilities.htm
+title: Minister wags his truancy responsibilities
+date: 2008-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0807/S00560/minister-wags-his-truancy-responsibilities.htm
 author: new-zealand-national-party
+permalink: /archive/2008/07/30/minister-wags-his-truancy-responsibilities/index.html
+layout: layout.njk
 ---
 Minister wags his truancy responsibilities
 ==========================================

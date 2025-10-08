@@ -1,9 +1,13 @@
 ---
 slug: labour-should-admit-it-botched-teacher-sex-inquiry
-title: "Labour should admit it botched teacher sex inquiry"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/PA0711/S00276/labour-should-admit-it-botched-teacher-sex-inquiry.htm
+title: Labour should admit it botched teacher sex inquiry
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00276/labour-should-admit-it-botched-teacher-sex-inquiry.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/11/14/labour-should-admit-it-botched-teacher-sex-inquiry/index.html
+layout: layout.njk
 ---
 Labour should admit it botched teacher sex inquiry
 ==================================================

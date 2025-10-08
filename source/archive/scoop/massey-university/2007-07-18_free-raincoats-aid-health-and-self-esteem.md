@@ -1,9 +1,12 @@
 ---
 slug: free-raincoats-aid-health-and-self-esteem
-title: "Free raincoats aid health and self esteem"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/ED0707/S00055/free-raincoats-aid-health-and-self-esteem.htm
+title: Free raincoats aid health and self esteem
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00055/free-raincoats-aid-health-and-self-esteem.htm
 author: massey-university
+permalink: /archive/2007/07/18/free-raincoats-aid-health-and-self-esteem/index.html
+layout: layout.njk
 ---
 Free raincoats aid health and self esteem
 =========================================

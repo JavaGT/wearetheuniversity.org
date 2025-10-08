@@ -1,9 +1,12 @@
 ---
 slug: universities-nz-welcomes-incoming-minister
-title: "Universities NZ welcomes incoming Minister"
-date: 2011-12-12
-source-url: https://www.scoop.co.nz/stories/PO1112/S00147/universities-nz-welcomes-incoming-minister.htm
+title: Universities NZ welcomes incoming Minister
+date: 2011-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1112/S00147/universities-nz-welcomes-incoming-minister.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2011/12/12/universities-nz-welcomes-incoming-minister/index.html
+layout: layout.njk
 ---
 Universities NZ welcomes incoming Minister
 ==========================================

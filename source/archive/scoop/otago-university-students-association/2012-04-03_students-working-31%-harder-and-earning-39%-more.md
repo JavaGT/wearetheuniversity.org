@@ -1,9 +1,12 @@
 ---
 slug: students-working-31%-harder-and-earning-39%-more
-title: "Students Working 31% Harder and Earning 39% More"
-date: 2012-04-03
-source-url: https://www.scoop.co.nz/stories/ED1204/S00016/students-working-31-harder-and-earning-39-more.htm
+title: Students Working 31% Harder and Earning 39% More
+date: 2012-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00016/students-working-31-harder-and-earning-39-more.htm
 author: otago-university-students-association
+permalink: /archive/2012/04/03/students-working-31/index.html
+layout: layout.njk
 ---
 Students Working 31% Harder and Earning 39% More
 ================================================

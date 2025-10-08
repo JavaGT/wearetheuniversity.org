@@ -1,9 +1,13 @@
 ---
 slug: uc-sets-up-wireless-monitoring-to-protect-threatened-species
-title: "UC Sets Up Wireless Monitoring to Protect Threatened Species"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/SC1305/S00043/uc-sets-up-wireless-monitoring-to-protect-threatened-species.htm
+title: UC Sets Up Wireless Monitoring to Protect Threatened Species
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1305/S00043/uc-sets-up-wireless-monitoring-to-protect-threatened-species.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/09/uc-sets-up-wireless-monitoring-to-protect-threatened-species/index.html
+layout: layout.njk
 ---
 UC Sets Up Wireless Monitoring to Protect Threatened Species
 ============================================================

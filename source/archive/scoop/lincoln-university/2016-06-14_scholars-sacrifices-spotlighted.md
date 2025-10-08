@@ -1,9 +1,12 @@
 ---
 slug: scholars-sacrifices-spotlighted
-title: "Scholars’ sacrifices spotlighted"
-date: 2016-06-14
-source-url: https://www.scoop.co.nz/stories/ED1606/S00036/scholars-sacrifices-spotlighted.htm
+title: Scholars’ sacrifices spotlighted
+date: 2016-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00036/scholars-sacrifices-spotlighted.htm
 author: lincoln-university
+permalink: /archive/2016/06/14/scholars-sacrifices-spotlighted/index.html
+layout: layout.njk
 ---
 Scholars’ sacrifices spotlighted
 ================================

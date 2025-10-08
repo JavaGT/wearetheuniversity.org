@@ -1,9 +1,12 @@
 ---
 slug: first-year-student-takes-top-prize-for-year
-title: "First-year student takes top prize for year"
-date: 2013-08-08
-source-url: https://www.scoop.co.nz/stories/ED1308/S00029/first-year-student-takes-top-prize-for-year.htm
+title: First-year student takes top prize for year
+date: 2013-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00029/first-year-student-takes-top-prize-for-year.htm
 author: university-of-waikato
+permalink: /archive/2013/08/08/first-year-student-takes-top-prize-for-year/index.html
+layout: layout.njk
 ---
 First-year student takes top prize for year
 ===========================================

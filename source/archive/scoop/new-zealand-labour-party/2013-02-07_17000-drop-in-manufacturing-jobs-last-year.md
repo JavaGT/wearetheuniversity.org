@@ -1,9 +1,12 @@
 ---
 slug: 17000-drop-in-manufacturing-jobs-last-year
-title: "17,000 drop in manufacturing jobs last year"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/PA1302/S00076/17000-drop-in-manufacturing-jobs-last-year.htm
+title: 17,000 drop in manufacturing jobs last year
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00076/17000-drop-in-manufacturing-jobs-last-year.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/07/17000-drop-in-manufacturing-jobs-last-year/index.html
+layout: layout.njk
 ---
 17,000 drop in manufacturing jobs last year
 ===========================================

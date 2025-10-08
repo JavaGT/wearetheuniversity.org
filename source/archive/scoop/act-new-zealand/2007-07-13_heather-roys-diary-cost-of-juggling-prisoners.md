@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-cost-of-juggling-prisoners
-title: "Heather Roy's Diary: Cost Of Juggling Prisoners"
-date: 2007-07-13
-source-url: https://www.scoop.co.nz/stories/PA0707/S00212/heather-roys-diary-cost-of-juggling-prisoners.htm
+title: 'Heather Roy''s Diary: Cost Of Juggling Prisoners'
+date: 2007-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00212/heather-roys-diary-cost-of-juggling-prisoners.htm
 author: act-new-zealand
+permalink: /archive/2007/07/13/heather-roys-diary-cost-of-juggling-prisoners/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Cost Of Juggling Prisoners
 ===============================================

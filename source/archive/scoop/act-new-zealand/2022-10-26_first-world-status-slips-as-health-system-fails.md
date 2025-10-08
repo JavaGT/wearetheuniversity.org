@@ -1,9 +1,12 @@
 ---
 slug: first-world-status-slips-as-health-system-fails
-title: "First World Status Slips As Health System Fails"
-date: 2022-10-26
-source-url: https://www.scoop.co.nz/stories/PA2210/S00193/first-world-status-slips-as-health-system-fails.htm
+title: First World Status Slips As Health System Fails
+date: 2022-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00193/first-world-status-slips-as-health-system-fails.htm
 author: act-new-zealand
+permalink: /archive/2022/10/26/first-world-status-slips-as-health-system-fails/index.html
+layout: layout.njk
 ---
 First World Status Slips As Health System Fails
 ===============================================

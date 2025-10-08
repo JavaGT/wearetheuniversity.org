@@ -1,9 +1,12 @@
 ---
 slug: kiwi-astronomers-find-new-planet
-title: "Kiwi astronomers find new planet"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/ED0601/S00022/kiwi-astronomers-find-new-planet.htm
+title: Kiwi astronomers find new planet
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0601/S00022/kiwi-astronomers-find-new-planet.htm
 author: auckland-university
+permalink: /archive/2006/01/26/kiwi-astronomers-find-new-planet/index.html
+layout: layout.njk
 ---
 Kiwi astronomers find new planet
 ================================

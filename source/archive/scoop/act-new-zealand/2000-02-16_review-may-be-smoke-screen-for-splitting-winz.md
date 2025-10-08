@@ -1,9 +1,12 @@
 ---
 slug: review-may-be-smoke-screen-for-splitting-winz
-title: "Review may be smoke screen for splitting WINZ"
-date: 2000-02-16
-source-url: https://www.scoop.co.nz/stories/PA0002/S00219/review-may-be-smoke-screen-for-splitting-winz.htm
+title: Review may be smoke screen for splitting WINZ
+date: 2000-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00219/review-may-be-smoke-screen-for-splitting-winz.htm
 author: act-new-zealand
+permalink: /archive/2000/02/16/review-may-be-smoke-screen-for-splitting-winz/index.html
+layout: layout.njk
 ---
 Review may be smoke screen for splitting WINZ
 =============================================

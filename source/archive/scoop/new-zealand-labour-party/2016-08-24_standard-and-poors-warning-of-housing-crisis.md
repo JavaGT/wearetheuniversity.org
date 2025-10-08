@@ -1,9 +1,12 @@
 ---
 slug: standard-and-poors-warning-of-housing-crisis
-title: "Standard and Poor’s warning of housing crisis"
-date: 2016-08-24
-source-url: https://www.scoop.co.nz/stories/PA1608/S00437/standard-and-poors-warning-of-housing-crisis.htm
+title: Standard and Poor’s warning of housing crisis
+date: 2016-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00437/standard-and-poors-warning-of-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/24/standard-and-poors-warning-of-housing-crisis/index.html
+layout: layout.njk
 ---
 Standard and Poor’s warning of housing crisis
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-68
-title: "Maxim Institute - real issues - No. 68"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PO0306/S00120/maxim-institute-real-issues-no-68.htm
+title: Maxim Institute - real issues - No. 68
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0306/S00120/maxim-institute-real-issues-no-68.htm
 author: maxim-institute
+permalink: /archive/2003/06/20/maxim-institute-real-issues-no-68/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 68
 ======================================

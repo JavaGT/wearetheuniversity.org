@@ -1,9 +1,12 @@
 ---
 slug: split-enz-i-see-red-i-see-red-i-see-red
-title: "Split Enz ‘I See Red, I See Red, I See Red’"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PA1505/S00382/split-enz-i-see-red-i-see-red-i-see-red.htm
+title: Split Enz ‘I See Red, I See Red, I See Red’
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00382/split-enz-i-see-red-i-see-red-i-see-red.htm
 author: new-zealand-first-party
+permalink: /archive/2015/05/21/split-enz-i-see-red-i-see-red-i-see-red/index.html
+layout: layout.njk
 ---
 Split Enz ‘I See Red, I See Red, I See Red’
 ===========================================

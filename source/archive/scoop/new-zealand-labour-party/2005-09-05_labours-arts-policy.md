@@ -1,9 +1,11 @@
 ---
 slug: labours-arts-policy
-title: "Labour's Arts Policy"
-date: 2005-09-05
+title: Labour's Arts Policy
+date: 2005-09-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0509/S00084/labours-arts-policy.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/05/labours-arts-policy/index.html
+layout: layout.njk
 ---
 Labour's Arts Policy
 ====================

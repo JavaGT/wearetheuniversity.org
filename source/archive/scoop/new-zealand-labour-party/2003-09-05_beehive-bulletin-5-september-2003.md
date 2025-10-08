@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-5-september-2003
-title: "Beehive Bulletin -- 5 September 2003"
-date: 2003-09-05
-source-url: https://www.scoop.co.nz/stories/PA0309/S00120/beehive-bulletin-5-september-2003.htm
+title: Beehive Bulletin -- 5 September 2003
+date: 2003-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00120/beehive-bulletin-5-september-2003.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/09/05/beehive-bulletin-5-september-2003/index.html
+layout: layout.njk
 ---
 Beehive Bulletin -- 5 September 2003
 ====================================

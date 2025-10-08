@@ -1,9 +1,12 @@
 ---
 slug: governments-suicide-approach-disappoints
-title: "Government’s suicide approach disappoints"
-date: 2017-05-15
-source-url: https://www.scoop.co.nz/stories/PA1705/S00318/governments-suicide-approach-disappoints.htm
+title: Government’s suicide approach disappoints
+date: 2017-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00318/governments-suicide-approach-disappoints.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/05/15/governments-suicide-approach-disappoints/index.html
+layout: layout.njk
 ---
 Government’s suicide approach disappoints
 =========================================

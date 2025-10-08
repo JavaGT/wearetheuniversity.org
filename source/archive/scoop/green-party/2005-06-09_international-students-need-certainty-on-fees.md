@@ -1,9 +1,12 @@
 ---
 slug: international-students-need-certainty-on-fees
-title: "International students need certainty on fees"
-date: 2005-06-09
-source-url: https://www.scoop.co.nz/stories/PA0506/S00169/international-students-need-certainty-on-fees.htm
+title: International students need certainty on fees
+date: 2005-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00169/international-students-need-certainty-on-fees.htm
 author: green-party
+permalink: /archive/2005/06/09/international-students-need-certainty-on-fees/index.html
+layout: layout.njk
 ---
 International students need certainty on fees
 =============================================

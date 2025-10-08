@@ -1,9 +1,12 @@
 ---
 slug: eminent-british-design-guru-visits-wellington
-title: "Eminent British design guru visits Wellington"
-date: 2010-03-04
-source-url: https://www.scoop.co.nz/stories/ED1003/S00023/eminent-british-design-guru-visits-wellington.htm
+title: Eminent British design guru visits Wellington
+date: 2010-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00023/eminent-british-design-guru-visits-wellington.htm
 author: massey-university
+permalink: /archive/2010/03/04/eminent-british-design-guru-visits-wellington/index.html
+layout: layout.njk
 ---
 Eminent British design guru visits Wellington
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: efficient-biofilters-can-slow-climate-change
-title: "Efficient Biofilters Can Slow Climate Change"
-date: 2021-06-22
-source-url: https://www.scoop.co.nz/stories/SC2106/S00048/efficient-biofilters-can-slow-climate-change.htm
+title: Efficient Biofilters Can Slow Climate Change
+date: 2021-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2106/S00048/efficient-biofilters-can-slow-climate-change.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/22/efficient-biofilters-can-slow-climate-change/index.html
+layout: layout.njk
 ---
 Efficient Biofilters Can Slow Climate Change
 ============================================

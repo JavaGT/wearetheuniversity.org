@@ -1,9 +1,12 @@
 ---
 slug: university-explains-proposed-intl-fee-rises
-title: "University explains proposed int'l fee rises"
-date: 2004-06-04
-source-url: https://www.scoop.co.nz/stories/ED0406/S00025/university-explains-proposed-intl-fee-rises.htm
+title: University explains proposed int'l fee rises
+date: 2004-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00025/university-explains-proposed-intl-fee-rises.htm
 author: waikato-university
+permalink: /archive/2004/06/04/university-explains-proposed-intl-fee-rises/index.html
+layout: layout.njk
 ---
 University explains proposed int'l fee rises
 ============================================

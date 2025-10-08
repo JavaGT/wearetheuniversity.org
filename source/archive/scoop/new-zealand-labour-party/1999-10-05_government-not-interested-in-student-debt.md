@@ -1,9 +1,12 @@
 ---
 slug: government-not-interested-in-student-debt
-title: "Government not interested in student debt"
-date: 1999-10-05
-source-url: https://www.scoop.co.nz/stories/PA9910/S00067/government-not-interested-in-student-debt.htm
+title: Government not interested in student debt
+date: 1999-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00067/government-not-interested-in-student-debt.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/05/government-not-interested-in-student-debt/index.html
+layout: layout.njk
 ---
 Government not interested in student debt
 =========================================

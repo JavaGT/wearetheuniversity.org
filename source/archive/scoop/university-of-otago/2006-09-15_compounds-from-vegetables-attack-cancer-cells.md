@@ -1,9 +1,12 @@
 ---
 slug: compounds-from-vegetables-attack-cancer-cells
-title: "Compounds From Vegetables Attack Cancer Cells"
-date: 2006-09-15
-source-url: https://www.scoop.co.nz/stories/GE0609/S00065/compounds-from-vegetables-attack-cancer-cells.htm
+title: Compounds From Vegetables Attack Cancer Cells
+date: 2006-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0609/S00065/compounds-from-vegetables-attack-cancer-cells.htm
 author: university-of-otago
+permalink: /archive/2006/09/15/compounds-from-vegetables-attack-cancer-cells/index.html
+layout: layout.njk
 ---
 Compounds From Vegetables Attack Cancer Cells
 =============================================

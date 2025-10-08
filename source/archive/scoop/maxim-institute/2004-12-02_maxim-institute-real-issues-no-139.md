@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-139
-title: "Maxim Institute - real issues - No. 139"
-date: 2004-12-02
-source-url: https://www.scoop.co.nz/stories/PO0412/S00038/maxim-institute-real-issues-no-139.htm
+title: Maxim Institute - real issues - No. 139
+date: 2004-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00038/maxim-institute-real-issues-no-139.htm
 author: maxim-institute
+permalink: /archive/2004/12/02/maxim-institute-real-issues-no-139/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 139
 =======================================

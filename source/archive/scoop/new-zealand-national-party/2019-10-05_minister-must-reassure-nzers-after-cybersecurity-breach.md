@@ -1,9 +1,13 @@
 ---
 slug: minister-must-reassure-nzers-after-cybersecurity-breach
-title: "Minister must reassure NZers after cybersecurity breach"
-date: 2019-10-05
-source-url: https://www.scoop.co.nz/stories/PA1910/S00034/minister-must-reassure-nzers-after-cybersecurity-breach.htm
+title: Minister must reassure NZers after cybersecurity breach
+date: 2019-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00034/minister-must-reassure-nzers-after-cybersecurity-breach.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/10/05/minister-must-reassure-nzers-after-cybersecurity-breach/index.html
+layout: layout.njk
 ---
 Minister must reassure NZers after cybersecurity breach
 =======================================================

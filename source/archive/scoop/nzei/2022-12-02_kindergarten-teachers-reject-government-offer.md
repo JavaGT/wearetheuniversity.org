@@ -1,9 +1,12 @@
 ---
 slug: kindergarten-teachers-reject-government-offer
-title: "Kindergarten Teachers Reject Government Offer"
-date: 2022-12-02
-source-url: https://www.scoop.co.nz/stories/PO2212/S00014/kindergarten-teachers-reject-government-offer.htm
+title: Kindergarten Teachers Reject Government Offer
+date: 2022-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00014/kindergarten-teachers-reject-government-offer.htm
 author: nzei
+permalink: /archive/2022/12/02/kindergarten-teachers-reject-government-offer/index.html
+layout: layout.njk
 ---
 Kindergarten Teachers Reject Government Offer
 =============================================

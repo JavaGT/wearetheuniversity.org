@@ -1,9 +1,13 @@
 ---
 slug: livestock-threatened-farmers-face-unfair-competition
-title: "Livestock Threatened, Farmers Face Unfair Competition"
-date: 2015-07-01
-source-url: https://www.scoop.co.nz/stories/PA1507/S00030/livestock-threatened-farmers-face-unfair-competition.htm
+title: Livestock Threatened, Farmers Face Unfair Competition
+date: 2015-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00030/livestock-threatened-farmers-face-unfair-competition.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/07/01/livestock-threatened-farmers-face-unfair-competition/index.html
+layout: layout.njk
 ---
 Livestock Threatened, Farmers Face Unfair Competition
 =====================================================

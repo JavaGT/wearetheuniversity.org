@@ -1,9 +1,12 @@
 ---
 slug: urgent-action-needed-to-support-families
-title: "Urgent Action Needed To Support Families"
-date: 2023-01-25
-source-url: https://www.scoop.co.nz/stories/PA2301/S00064/urgent-action-needed-to-support-families.htm
+title: Urgent Action Needed To Support Families
+date: 2023-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00064/urgent-action-needed-to-support-families.htm
 author: green-party
+permalink: /archive/2023/01/25/urgent-action-needed-to-support-families/index.html
+layout: layout.njk
 ---
 Urgent Action Needed To Support Families
 ========================================

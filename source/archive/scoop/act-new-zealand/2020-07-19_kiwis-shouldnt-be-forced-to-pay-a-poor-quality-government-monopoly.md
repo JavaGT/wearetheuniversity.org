@@ -1,9 +1,13 @@
 ---
 slug: kiwis-shouldnt-be-forced-to-pay-a-poor-quality-government-monopoly
-title: "Kiwis Shouldn’t Be Forced To Pay A Poor-quality, Government Monopoly"
-date: 2020-07-19
-source-url: https://www.scoop.co.nz/stories/PO2007/S00242/kiwis-shouldnt-be-forced-to-pay-a-poor-quality-government-monopoly.htm
+title: Kiwis Shouldn’t Be Forced To Pay A Poor-quality, Government Monopoly
+date: 2020-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2007/S00242/kiwis-shouldnt-be-forced-to-pay-a-poor-quality-government-monopoly.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/19/kiwis-shouldnt-be-forced-to-pay-a-poor-quality-government-monopoly/index.html
+layout: layout.njk
 ---
 Kiwis Shouldn’t Be Forced To Pay A Poor-quality, Government Monopoly
 ====================================================================

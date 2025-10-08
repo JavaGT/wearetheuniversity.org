@@ -1,9 +1,12 @@
 ---
 slug: ministers-integrity-in-tatters-from-the-start
-title: "Minister's integrity in tatters from the start"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/PA0510/S00107/ministers-integrity-in-tatters-from-the-start.htm
+title: Minister's integrity in tatters from the start
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00107/ministers-integrity-in-tatters-from-the-start.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/19/ministers-integrity-in-tatters-from-the-start/index.html
+layout: layout.njk
 ---
 Minister's integrity in tatters from the start
 ==============================================

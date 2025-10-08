@@ -1,9 +1,13 @@
 ---
 slug: pasifika-director-calls-for-media-cultural-awareness
-title: "Pasifika Director calls for media cultural awareness"
-date: 2019-04-05
-source-url: https://www.scoop.co.nz/stories/CU1904/S00086/pasifika-director-calls-for-media-cultural-awareness.htm
+title: Pasifika Director calls for media cultural awareness
+date: 2019-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1904/S00086/pasifika-director-calls-for-media-cultural-awareness.htm
 author: massey-university
+permalink: >-
+  /archive/2019/04/05/pasifika-director-calls-for-media-cultural-awareness/index.html
+layout: layout.njk
 ---
 Pasifika Director calls for media cultural awareness
 ====================================================

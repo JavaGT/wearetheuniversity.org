@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-submits-in-opposition-to-law-commission-consultation-on-amendments-to-human-rights-act
-title: "Free Speech Union Submits In Opposition To Law Commission Consultation On Amendments To Human Rights Act"
-date: 2024-09-14
-source-url: https://www.scoop.co.nz/stories/PO2409/S00009/free-speech-union-submits-in-opposition-to-law-commission-consultation-on-amendments-to-human-rights-act.htm
+slug: >-
+  free-speech-union-submits-in-opposition-to-law-commission-consultation-on-amendments-to-human-rights-act
+title: >-
+  Free Speech Union Submits In Opposition To Law Commission Consultation On
+  Amendments To Human Rights Act
+date: 2024-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2409/S00009/free-speech-union-submits-in-opposition-to-law-commission-consultation-on-amendments-to-human-rights-act.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/09/14/free-speech-union-submits-in-opposition-to-law-commission-consultation-on-amendments-to-human-rights-act/index.html
+layout: layout.njk
 ---
 Free Speech Union Submits In Opposition To Law Commission Consultation On Amendments To Human Rights Act
 ========================================================================================================

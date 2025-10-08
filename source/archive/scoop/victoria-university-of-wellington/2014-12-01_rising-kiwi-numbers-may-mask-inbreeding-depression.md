@@ -1,9 +1,13 @@
 ---
 slug: rising-kiwi-numbers-may-mask-inbreeding-depression
-title: "Rising kiwi numbers may mask inbreeding depression"
-date: 2014-12-01
-source-url: https://www.scoop.co.nz/stories/SC1412/S00002/rising-kiwi-numbers-may-mask-inbreeding-depression.htm
+title: Rising kiwi numbers may mask inbreeding depression
+date: 2014-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00002/rising-kiwi-numbers-may-mask-inbreeding-depression.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/01/rising-kiwi-numbers-may-mask-inbreeding-depression/index.html
+layout: layout.njk
 ---
 Rising kiwi numbers may mask inbreeding depression
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: appalling-record-on-pasifika-employment
-title: "Appalling Record on Pasifika Employment"
-date: 2014-05-28
-source-url: https://www.scoop.co.nz/stories/PA1405/S00534/appalling-record-on-pasifika-employment.htm
+title: Appalling Record on Pasifika Employment
+date: 2014-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00534/appalling-record-on-pasifika-employment.htm
 author: new-zealand-first-party
+permalink: /archive/2014/05/28/appalling-record-on-pasifika-employment/index.html
+layout: layout.njk
 ---
 Appalling Record on Pasifika Employment
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: john-key-rma-changes-to-support-growth-create-jobs
-title: "John Key: RMA changes to support growth, create jobs"
-date: 2011-11-02
-source-url: https://www.scoop.co.nz/stories/PA1111/S00026/john-key-rma-changes-to-support-growth-create-jobs.htm
+title: 'John Key: RMA changes to support growth, create jobs'
+date: 2011-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00026/john-key-rma-changes-to-support-growth-create-jobs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2011/11/02/john-key-rma-changes-to-support-growth-create-jobs/index.html
+layout: layout.njk
 ---
 John Key: RMA changes to support growth, create jobs
 ====================================================

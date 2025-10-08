@@ -1,9 +1,13 @@
 ---
 slug: researchers-reveal-history-with-exhumation-of-otago-graves
-title: "Researchers reveal history with exhumation of Otago graves"
-date: 2018-04-11
-source-url: https://www.scoop.co.nz/stories/SC1804/S00012/researchers-reveal-history-with-exhumation-of-otago-graves.htm
+title: Researchers reveal history with exhumation of Otago graves
+date: 2018-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1804/S00012/researchers-reveal-history-with-exhumation-of-otago-graves.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/11/researchers-reveal-history-with-exhumation-of-otago-graves/index.html
+layout: layout.njk
 ---
 Researchers reveal history with exhumation of Otago graves
 ==========================================================

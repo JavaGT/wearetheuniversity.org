@@ -1,9 +1,16 @@
 ---
-slug: transgender-people-who-experience-discrimination-are-more-likely-to-have-poor-mental-health-outcomes
-title: "Transgender People Who Experience Discrimination Are More Likely To Have Poor Mental Health Outcomes"
-date: 2020-10-13
-source-url: https://www.scoop.co.nz/stories/GE2010/S00063/transgender-people-who-experience-discrimination-are-more-likely-to-have-poor-mental-health-outcomes.htm
+slug: >-
+  transgender-people-who-experience-discrimination-are-more-likely-to-have-poor-mental-health-outcomes
+title: >-
+  Transgender People Who Experience Discrimination Are More Likely To Have Poor
+  Mental Health Outcomes
+date: 2020-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2010/S00063/transgender-people-who-experience-discrimination-are-more-likely-to-have-poor-mental-health-outcomes.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/10/13/transgender-people-who-experience-discrimination-are-more-likely-to-have-poor-mental-health-outcomes/index.html
+layout: layout.njk
 ---
 Transgender People Who Experience Discrimination Are More Likely To Have Poor Mental Health Outcomes
 ====================================================================================================

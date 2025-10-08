@@ -1,9 +1,12 @@
 ---
 slug: get-back-to-negotiating-on-teachers-row
-title: "Get Back To Negotiating On Teachers' Row"
-date: 2002-07-09
-source-url: https://www.scoop.co.nz/stories/PA0207/S00261/get-back-to-negotiating-on-teachers-row.htm
+title: Get Back To Negotiating On Teachers' Row
+date: 2002-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00261/get-back-to-negotiating-on-teachers-row.htm
 author: new-zealand-national-party
+permalink: /archive/2002/07/09/get-back-to-negotiating-on-teachers-row/index.html
+layout: layout.njk
 ---
 Get Back To Negotiating On Teachers' Row
 ========================================

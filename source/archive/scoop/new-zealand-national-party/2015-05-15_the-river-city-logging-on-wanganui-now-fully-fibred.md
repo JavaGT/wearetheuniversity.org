@@ -1,9 +1,13 @@
 ---
 slug: the-river-city-logging-on-wanganui-now-fully-fibred
-title: "The River City logging on – Wanganui now fully-fibred"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/PA1505/S00242/the-river-city-logging-on-wanganui-now-fully-fibred.htm
+title: The River City logging on – Wanganui now fully-fibred
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00242/the-river-city-logging-on-wanganui-now-fully-fibred.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/05/15/the-river-city-logging-on-wanganui-now-fully-fibred/index.html
+layout: layout.njk
 ---
 The River City logging on – Wanganui now fully-fibred
 =====================================================

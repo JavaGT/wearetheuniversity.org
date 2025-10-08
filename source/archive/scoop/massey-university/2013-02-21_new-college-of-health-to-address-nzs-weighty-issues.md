@@ -1,9 +1,13 @@
 ---
 slug: new-college-of-health-to-address-nzs-weighty-issues
-title: "New College of Health to address NZ’s weighty issues"
-date: 2013-02-21
-source-url: https://www.scoop.co.nz/stories/ED1302/S00117/new-college-of-health-to-address-nzs-weighty-issues.htm
+title: New College of Health to address NZ’s weighty issues
+date: 2013-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00117/new-college-of-health-to-address-nzs-weighty-issues.htm
 author: massey-university
+permalink: >-
+  /archive/2013/02/21/new-college-of-health-to-address-nzs-weighty-issues/index.html
+layout: layout.njk
 ---
 New College of Health to address NZ’s weighty issues
 ====================================================

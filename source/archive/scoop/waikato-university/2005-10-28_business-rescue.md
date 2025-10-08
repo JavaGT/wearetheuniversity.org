@@ -1,9 +1,11 @@
 ---
 slug: business-rescue
-title: "Business Rescue"
-date: 2005-10-28
+title: Business Rescue
+date: 2005-10-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0510/S00085/business-rescue.htm
 author: waikato-university
+permalink: /archive/2005/10/28/business-rescue/index.html
+layout: layout.njk
 ---
 Business Rescue
 ===============

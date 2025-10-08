@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-writing-thrives-in-covid-19-lockdown
-title: "New Zealand Writing Thrives In Covid-19 Lockdown"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/CU2009/S00200/new-zealand-writing-thrives-in-covid-19-lockdown.htm
+title: New Zealand Writing Thrives In Covid-19 Lockdown
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2009/S00200/new-zealand-writing-thrives-in-covid-19-lockdown.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/09/29/new-zealand-writing-thrives-in-covid-19-lockdown/index.html
+layout: layout.njk
 ---
 New Zealand Writing Thrives In Covid-19 Lockdown
 ================================================

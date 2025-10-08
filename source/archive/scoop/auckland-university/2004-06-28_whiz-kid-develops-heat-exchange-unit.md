@@ -1,9 +1,12 @@
 ---
 slug: whiz-kid-develops-heat-exchange-unit
-title: "Whiz kid develops heat exchange unit"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/ED0406/S00103/whiz-kid-develops-heat-exchange-unit.htm
+title: Whiz kid develops heat exchange unit
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00103/whiz-kid-develops-heat-exchange-unit.htm
 author: auckland-university
+permalink: /archive/2004/06/28/whiz-kid-develops-heat-exchange-unit/index.html
+layout: layout.njk
 ---
 Whiz kid develops heat exchange unit
 ====================================

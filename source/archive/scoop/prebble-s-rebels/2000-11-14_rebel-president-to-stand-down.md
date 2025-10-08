@@ -1,9 +1,12 @@
 ---
 slug: rebel-president-to-stand-down
-title: "Rebel President to Stand Down"
-date: 2000-11-14
-source-url: https://www.scoop.co.nz/stories/PO0011/S00054/rebel-president-to-stand-down.htm
+title: Rebel President to Stand Down
+date: 2000-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0011/S00054/rebel-president-to-stand-down.htm
 author: prebble-s-rebels
+permalink: /archive/2000/11/14/rebel-president-to-stand-down/index.html
+layout: layout.njk
 ---
 Rebel President to Stand Down
 =============================

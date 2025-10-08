@@ -1,9 +1,12 @@
 ---
 slug: costs-force-vic-students-into-boxes
-title: "Costs Force Vic Students Into Boxes"
-date: 2007-08-03
-source-url: https://www.scoop.co.nz/stories/ED0708/S00009/costs-force-vic-students-into-boxes.htm
+title: Costs Force Vic Students Into Boxes
+date: 2007-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00009/costs-force-vic-students-into-boxes.htm
 author: victoria-university-students-association
+permalink: /archive/2007/08/03/costs-force-vic-students-into-boxes/index.html
+layout: layout.njk
 ---
 Costs Force Vic Students Into Boxes
 ===================================

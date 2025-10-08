@@ -1,9 +1,13 @@
 ---
 slug: widespread-concern-about-new-welfare-legislation
-title: "Widespread concern about new welfare legislation"
-date: 2007-03-21
-source-url: https://www.scoop.co.nz/stories/PA0703/S00421/widespread-concern-about-new-welfare-legislation.htm
+title: Widespread concern about new welfare legislation
+date: 2007-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00421/widespread-concern-about-new-welfare-legislation.htm
 author: green-party
+permalink: >-
+  /archive/2007/03/21/widespread-concern-about-new-welfare-legislation/index.html
+layout: layout.njk
 ---
 Widespread concern about new welfare legislation
 ================================================

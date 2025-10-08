@@ -1,9 +1,13 @@
 ---
 slug: fish-from-the-frozen-continent-can-handle-the-heat
-title: "Fish from the frozen continent can handle the heat"
-date: 2005-05-03
-source-url: https://www.scoop.co.nz/stories/ED0505/S00009/fish-from-the-frozen-continent-can-handle-the-heat.htm
+title: Fish from the frozen continent can handle the heat
+date: 2005-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00009/fish-from-the-frozen-continent-can-handle-the-heat.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2005/05/03/fish-from-the-frozen-continent-can-handle-the-heat/index.html
+layout: layout.njk
 ---
 Fish from the frozen continent can handle the heat
 ==================================================

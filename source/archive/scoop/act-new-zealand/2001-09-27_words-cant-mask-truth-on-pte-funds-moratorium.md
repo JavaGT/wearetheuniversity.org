@@ -1,9 +1,12 @@
 ---
 slug: words-cant-mask-truth-on-pte-funds-moratorium
-title: "Words Can't Mask Truth on PTE Funds Moratorium"
-date: 2001-09-27
-source-url: https://www.scoop.co.nz/stories/PA0109/S00446/words-cant-mask-truth-on-pte-funds-moratorium.htm
+title: Words Can't Mask Truth on PTE Funds Moratorium
+date: 2001-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00446/words-cant-mask-truth-on-pte-funds-moratorium.htm
 author: act-new-zealand
+permalink: /archive/2001/09/27/words-cant-mask-truth-on-pte-funds-moratorium/index.html
+layout: layout.njk
 ---
 Words Can't Mask Truth on PTE Funds Moratorium
 ==============================================

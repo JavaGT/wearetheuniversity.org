@@ -1,9 +1,13 @@
 ---
 slug: top-international-wine-prize-for-lincoln-student
-title: "Top international wine prize for Lincoln student"
-date: 2010-06-08
-source-url: https://www.scoop.co.nz/stories/SC1006/S00018/top-international-wine-prize-for-lincoln-student.htm
+title: Top international wine prize for Lincoln student
+date: 2010-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1006/S00018/top-international-wine-prize-for-lincoln-student.htm
 author: lincoln-university
+permalink: >-
+  /archive/2010/06/08/top-international-wine-prize-for-lincoln-student/index.html
+layout: layout.njk
 ---
 Top international wine prize for Lincoln student
 ================================================

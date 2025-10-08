@@ -1,9 +1,13 @@
 ---
 slug: ctu-welcomes-labour-party-leadership-on-the-future-of-work
-title: "CTU welcomes Labour Party leadership on the future of work"
-date: 2016-03-24
-source-url: https://www.scoop.co.nz/stories/PO1603/S00389/ctu-welcomes-labour-party-leadership-on-the-future-of-work.htm
+title: CTU welcomes Labour Party leadership on the future of work
+date: 2016-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00389/ctu-welcomes-labour-party-leadership-on-the-future-of-work.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/03/24/ctu-welcomes-labour-party-leadership-on-the-future-of-work/index.html
+layout: layout.njk
 ---
 CTU welcomes Labour Party leadership on the future of work
 ==========================================================

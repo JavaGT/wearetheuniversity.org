@@ -1,9 +1,13 @@
 ---
 slug: waikato-mba-students-smartphone-voice-messaging-venture
-title: "Waikato MBA students' smartphone voice messaging venture"
-date: 2012-07-31
-source-url: https://www.scoop.co.nz/stories/ED1207/S00115/waikato-mba-students-smartphone-voice-messaging-venture.htm
+title: Waikato MBA students' smartphone voice messaging venture
+date: 2012-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00115/waikato-mba-students-smartphone-voice-messaging-venture.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/31/waikato-mba-students-smartphone-voice-messaging-venture/index.html
+layout: layout.njk
 ---
 Waikato MBA students' smartphone voice messaging venture
 ========================================================

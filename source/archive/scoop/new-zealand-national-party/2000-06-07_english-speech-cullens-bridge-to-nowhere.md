@@ -1,9 +1,12 @@
 ---
 slug: english-speech-cullens-bridge-to-nowhere
-title: "English Speech: Cullen's Bridge to Nowhere"
-date: 2000-06-07
-source-url: https://www.scoop.co.nz/stories/PA0006/S00120/english-speech-cullens-bridge-to-nowhere.htm
+title: 'English Speech: Cullen''s Bridge to Nowhere'
+date: 2000-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00120/english-speech-cullens-bridge-to-nowhere.htm
 author: new-zealand-national-party
+permalink: /archive/2000/06/07/english-speech-cullens-bridge-to-nowhere/index.html
+layout: layout.njk
 ---
 English Speech: Cullen's Bridge to Nowhere
 ==========================================

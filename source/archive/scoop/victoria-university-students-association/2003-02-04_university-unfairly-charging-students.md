@@ -1,9 +1,12 @@
 ---
 slug: university-unfairly-charging-students
-title: "University unfairly charging students"
-date: 2003-02-04
-source-url: https://www.scoop.co.nz/stories/ED0302/S00008/university-unfairly-charging-students.htm
+title: University unfairly charging students
+date: 2003-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00008/university-unfairly-charging-students.htm
 author: victoria-university-students-association
+permalink: /archive/2003/02/04/university-unfairly-charging-students/index.html
+layout: layout.njk
 ---
 University unfairly charging students
 =====================================

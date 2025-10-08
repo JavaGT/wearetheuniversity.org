@@ -1,9 +1,12 @@
 ---
 slug: heart-foundation-funds-womens-lifestyle-study
-title: "Heart Foundation Funds Women’s Lifestyle Study"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/GE0409/S00015/heart-foundation-funds-womens-lifestyle-study.htm
+title: Heart Foundation Funds Women’s Lifestyle Study
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0409/S00015/heart-foundation-funds-womens-lifestyle-study.htm
 author: university-of-otago
+permalink: /archive/2004/09/06/heart-foundation-funds-womens-lifestyle-study/index.html
+layout: layout.njk
 ---
 Heart Foundation Funds Women’s Lifestyle Study
 ==============================================

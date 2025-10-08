@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-turmoil-continues
-title: "Tertiary education turmoil continues"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/PA0711/S00025/tertiary-education-turmoil-continues.htm
+title: Tertiary education turmoil continues
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00025/tertiary-education-turmoil-continues.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/01/tertiary-education-turmoil-continues/index.html
+layout: layout.njk
 ---
 Tertiary education turmoil continues
 ====================================

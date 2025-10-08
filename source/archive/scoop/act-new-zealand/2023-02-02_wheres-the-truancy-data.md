@@ -1,9 +1,11 @@
 ---
 slug: wheres-the-truancy-data
-title: "Where’s The Truancy Data?"
-date: 2023-02-02
+title: Where’s The Truancy Data?
+date: 2023-02-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2302/S00020/wheres-the-truancy-data.htm
 author: act-new-zealand
+permalink: /archive/2023/02/02/wheres-the-truancy-data/index.html
+layout: layout.njk
 ---
 Where’s The Truancy Data?
 =========================

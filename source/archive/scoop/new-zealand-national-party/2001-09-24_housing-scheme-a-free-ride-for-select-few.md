@@ -1,9 +1,12 @@
 ---
 slug: housing-scheme-a-free-ride-for-select-few
-title: "Housing scheme a free ride for select few"
-date: 2001-09-24
-source-url: https://www.scoop.co.nz/stories/PA0109/S00387/housing-scheme-a-free-ride-for-select-few.htm
+title: Housing scheme a free ride for select few
+date: 2001-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00387/housing-scheme-a-free-ride-for-select-few.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/24/housing-scheme-a-free-ride-for-select-few/index.html
+layout: layout.njk
 ---
 Housing scheme a free ride for select few
 =========================================

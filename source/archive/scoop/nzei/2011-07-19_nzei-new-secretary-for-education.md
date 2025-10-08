@@ -1,9 +1,12 @@
 ---
 slug: nzei-new-secretary-for-education
-title: "NZEI: New Secretary for Education"
-date: 2011-07-19
-source-url: https://www.scoop.co.nz/stories/ED1107/S00079/nzei-new-secretary-for-education.htm
+title: 'NZEI: New Secretary for Education'
+date: 2011-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00079/nzei-new-secretary-for-education.htm
 author: nzei
+permalink: /archive/2011/07/19/nzei-new-secretary-for-education/index.html
+layout: layout.njk
 ---
 NZEI: New Secretary for Education
 =================================

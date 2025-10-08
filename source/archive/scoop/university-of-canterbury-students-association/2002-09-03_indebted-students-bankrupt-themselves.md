@@ -1,9 +1,12 @@
 ---
 slug: indebted-students-bankrupt-themselves
-title: "Indebted students bankrupt themselves"
-date: 2002-09-03
-source-url: https://www.scoop.co.nz/stories/ED0209/S00004/indebted-students-bankrupt-themselves.htm
+title: Indebted students bankrupt themselves
+date: 2002-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0209/S00004/indebted-students-bankrupt-themselves.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2002/09/03/indebted-students-bankrupt-themselves/index.html
+layout: layout.njk
 ---
 Indebted students bankrupt themselves
 =====================================

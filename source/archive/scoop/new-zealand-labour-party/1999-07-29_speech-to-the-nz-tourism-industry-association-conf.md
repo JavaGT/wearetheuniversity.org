@@ -1,9 +1,13 @@
 ---
 slug: speech-to-the-nz-tourism-industry-association-conf
-title: "Speech to the NZ Tourism Industry Association Conf"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PO9907/S00076/speech-to-the-nz-tourism-industry-association-conf.htm
+title: Speech to the NZ Tourism Industry Association Conf
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9907/S00076/speech-to-the-nz-tourism-industry-association-conf.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/1999/07/29/speech-to-the-nz-tourism-industry-association-conf/index.html
+layout: layout.njk
 ---
 Speech to the NZ Tourism Industry Association Conf
 ==================================================

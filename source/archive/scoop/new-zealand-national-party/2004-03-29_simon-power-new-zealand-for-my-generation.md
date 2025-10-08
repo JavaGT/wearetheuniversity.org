@@ -1,9 +1,12 @@
 ---
 slug: simon-power-new-zealand-for-my-generation
-title: "Simon Power - New Zealand For My Generation"
-date: 2004-03-29
-source-url: https://www.scoop.co.nz/stories/PA0403/S00620/simon-power-new-zealand-for-my-generation.htm
+title: Simon Power - New Zealand For My Generation
+date: 2004-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00620/simon-power-new-zealand-for-my-generation.htm
 author: new-zealand-national-party
+permalink: /archive/2004/03/29/simon-power-new-zealand-for-my-generation/index.html
+layout: layout.njk
 ---
 Simon Power - New Zealand For My Generation
 ===========================================

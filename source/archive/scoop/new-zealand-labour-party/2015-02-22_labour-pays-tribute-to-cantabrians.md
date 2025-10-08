@@ -1,9 +1,12 @@
 ---
 slug: labour-pays-tribute-to-cantabrians
-title: "Labour pays tribute to Cantabrians"
-date: 2015-02-22
-source-url: https://www.scoop.co.nz/stories/PA1502/S00255/labour-pays-tribute-to-cantabrians.htm
+title: Labour pays tribute to Cantabrians
+date: 2015-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00255/labour-pays-tribute-to-cantabrians.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/22/labour-pays-tribute-to-cantabrians/index.html
+layout: layout.njk
 ---
 Labour pays tribute to Cantabrians
 ==================================

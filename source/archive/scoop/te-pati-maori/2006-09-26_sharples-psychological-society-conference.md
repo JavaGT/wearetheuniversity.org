@@ -1,9 +1,12 @@
 ---
 slug: sharples-psychological-society-conference
-title: "Sharples: Psychological Society Conference"
-date: 2006-09-26
-source-url: https://www.scoop.co.nz/stories/PA0609/S00547/sharples-psychological-society-conference.htm
+title: 'Sharples: Psychological Society Conference'
+date: 2006-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00547/sharples-psychological-society-conference.htm
 author: te-pati-maori
+permalink: /archive/2006/09/26/sharples-psychological-society-conference/index.html
+layout: layout.njk
 ---
 Sharples: Psychological Society Conference
 ==========================================

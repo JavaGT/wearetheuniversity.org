@@ -1,9 +1,13 @@
 ---
 slug: govt-speech-concern-for-workers-poor-environment
-title: "Govt speech concern for workers, poor, environment"
-date: 2010-02-10
-source-url: https://www.scoop.co.nz/stories/PO1002/S00105/govt-speech-concern-for-workers-poor-environment.htm
+title: Govt speech concern for workers, poor, environment
+date: 2010-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1002/S00105/govt-speech-concern-for-workers-poor-environment.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2010/02/10/govt-speech-concern-for-workers-poor-environment/index.html
+layout: layout.njk
 ---
 Govt speech concern for workers, poor, environment
 ==================================================

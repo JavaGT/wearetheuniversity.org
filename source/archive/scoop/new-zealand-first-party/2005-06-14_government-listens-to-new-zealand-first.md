@@ -1,9 +1,12 @@
 ---
 slug: government-listens-to-new-zealand-first
-title: "Government Listens To  New Zealand First"
-date: 2005-06-14
-source-url: https://www.scoop.co.nz/stories/PA0506/S00293/government-listens-to-new-zealand-first.htm
+title: Government Listens To  New Zealand First
+date: 2005-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00293/government-listens-to-new-zealand-first.htm
 author: new-zealand-first-party
+permalink: /archive/2005/06/14/government-listens-to-new-zealand-first/index.html
+layout: layout.njk
 ---
 Government Listens To New Zealand First
 =======================================

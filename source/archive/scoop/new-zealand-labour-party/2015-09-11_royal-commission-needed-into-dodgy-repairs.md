@@ -1,9 +1,12 @@
 ---
 slug: royal-commission-needed-into-dodgy-repairs
-title: "Royal Commission needed into dodgy repairs"
-date: 2015-09-11
-source-url: https://www.scoop.co.nz/stories/PA1509/S00205/royal-commission-needed-into-dodgy-repairs.htm
+title: Royal Commission needed into dodgy repairs
+date: 2015-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00205/royal-commission-needed-into-dodgy-repairs.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/11/royal-commission-needed-into-dodgy-repairs/index.html
+layout: layout.njk
 ---
 Royal Commission needed into dodgy repairs
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: tolley-talk-august-2015
-title: "Tolley Talk: August 2015"
-date: 2015-09-02
+title: 'Tolley Talk: August 2015'
+date: 2015-09-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1509/S00032/tolley-talk-august-2015.htm
 author: new-zealand-national-party
+permalink: /archive/2015/09/02/tolley-talk-august-2015/index.html
+layout: layout.njk
 ---
 Tolley Talk: August 2015
 ========================

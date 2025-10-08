@@ -1,9 +1,12 @@
 ---
 slug: greens-salute-east-timor-mission
-title: "Greens salute East Timor mission"
-date: 2003-02-10
-source-url: https://www.scoop.co.nz/stories/PA0302/S00090/greens-salute-east-timor-mission.htm
+title: Greens salute East Timor mission
+date: 2003-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00090/greens-salute-east-timor-mission.htm
 author: green-party
+permalink: /archive/2003/02/10/greens-salute-east-timor-mission/index.html
+layout: layout.njk
 ---
 Greens salute East Timor mission
 ================================

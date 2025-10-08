@@ -1,9 +1,12 @@
 ---
 slug: mathematician-to-receive-innovation-medal
-title: "Mathematician to receive Innovation Medal"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/ED1510/S00026/mathematician-to-receive-innovation-medal.htm
+title: Mathematician to receive Innovation Medal
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00026/mathematician-to-receive-innovation-medal.htm
 author: university-of-canterbury
+permalink: /archive/2015/10/05/mathematician-to-receive-innovation-medal/index.html
+layout: layout.njk
 ---
 Mathematician to receive Innovation Medal
 =========================================

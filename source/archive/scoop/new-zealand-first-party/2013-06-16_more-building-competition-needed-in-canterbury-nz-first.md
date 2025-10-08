@@ -1,9 +1,13 @@
 ---
 slug: more-building-competition-needed-in-canterbury-nz-first
-title: "More Building Competition Needed in Canterbury - NZ First"
-date: 2013-06-16
-source-url: https://www.scoop.co.nz/stories/PA1306/S00269/more-building-competition-needed-in-canterbury-nz-first.htm
+title: More Building Competition Needed in Canterbury - NZ First
+date: 2013-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00269/more-building-competition-needed-in-canterbury-nz-first.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/06/16/more-building-competition-needed-in-canterbury-nz-first/index.html
+layout: layout.njk
 ---
 More Building Competition Needed in Canterbury - NZ First
 =========================================================

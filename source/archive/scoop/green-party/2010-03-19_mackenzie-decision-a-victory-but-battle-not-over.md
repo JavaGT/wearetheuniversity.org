@@ -1,9 +1,13 @@
 ---
 slug: mackenzie-decision-a-victory-but-battle-not-over
-title: "Mackenzie decision a victory, but battle not over"
-date: 2010-03-19
-source-url: https://www.scoop.co.nz/stories/PA1003/S00284/mackenzie-decision-a-victory-but-battle-not-over.htm
+title: Mackenzie decision a victory, but battle not over
+date: 2010-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00284/mackenzie-decision-a-victory-but-battle-not-over.htm
 author: green-party
+permalink: >-
+  /archive/2010/03/19/mackenzie-decision-a-victory-but-battle-not-over/index.html
+layout: layout.njk
 ---
 Mackenzie decision a victory, but battle not over
 =================================================

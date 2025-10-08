@@ -1,9 +1,12 @@
 ---
 slug: maori-call-for-seat-on-university-council
-title: "Maori call for seat on university council"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/ED0907/S00079/maori-call-for-seat-on-university-council.htm
+title: Maori call for seat on university council
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00079/maori-call-for-seat-on-university-council.htm
 author: salient
+permalink: /archive/2009/07/20/maori-call-for-seat-on-university-council/index.html
+layout: layout.njk
 ---
 Maori call for seat on university council
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: cullen-ignores-maori-students-pleas
-title: "Cullen Ignores Maori Students Pleas"
-date: 2007-02-23
-source-url: https://www.scoop.co.nz/stories/ED0702/S00088/cullen-ignores-maori-students-pleas.htm
+title: Cullen Ignores Maori Students Pleas
+date: 2007-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00088/cullen-ignores-maori-students-pleas.htm
 author: te-mana-akonga
+permalink: /archive/2007/02/23/cullen-ignores-maori-students-pleas/index.html
+layout: layout.njk
 ---
 Cullen Ignores Maori Students Pleas
 ===================================

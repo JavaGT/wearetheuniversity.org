@@ -1,9 +1,12 @@
 ---
 slug: government-all-talk-on-vulnerable-children
-title: "Government all talk on vulnerable children"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/PA1208/S00318/government-all-talk-on-vulnerable-children.htm
+title: Government all talk on vulnerable children
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00318/government-all-talk-on-vulnerable-children.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/22/government-all-talk-on-vulnerable-children/index.html
+layout: layout.njk
 ---
 Government all talk on vulnerable children
 ==========================================

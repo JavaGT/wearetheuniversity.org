@@ -1,9 +1,12 @@
 ---
 slug: us-historian-commemorates-memory-images-of-wwi
-title: "US Historian Commemorates Memory, Images of WWI"
-date: 2017-11-22
-source-url: https://www.scoop.co.nz/stories/ED1711/S00082/us-historian-commemorates-memory-images-of-wwi.htm
+title: US Historian Commemorates Memory, Images of WWI
+date: 2017-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00082/us-historian-commemorates-memory-images-of-wwi.htm
 author: massey-university
+permalink: /archive/2017/11/22/us-historian-commemorates-memory-images-of-wwi/index.html
+layout: layout.njk
 ---
 US Historian Commemorates Memory, Images of WWI
 ===============================================

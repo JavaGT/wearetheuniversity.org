@@ -1,9 +1,12 @@
 ---
 slug: monte-ohia;-miriama-kahu-and-maketu-john-simpson
-title: "Monte Ohia; Miriama Kahu and Maketu John Simpson"
-date: 2008-10-11
-source-url: https://www.scoop.co.nz/stories/PA0810/S00251/monte-ohia-miriama-kahu-and-maketu-john-simpson.htm
+title: Monte Ohia; Miriama Kahu and Maketu John Simpson
+date: 2008-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00251/monte-ohia-miriama-kahu-and-maketu-john-simpson.htm
 author: te-pati-maori
+permalink: /archive/2008/10/11/monte-ohia/index.html
+layout: layout.njk
 ---
 Monte Ohia; Miriama Kahu and Maketu John Simpson
 ================================================

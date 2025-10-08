@@ -1,9 +1,13 @@
 ---
 slug: more-than-half-of-mental-disorders-begin-in-teenage-years
-title: "More than half of mental disorders begin in teenage years"
-date: 2018-10-05
-source-url: https://www.scoop.co.nz/stories/GE1810/S00031/more-than-half-of-mental-disorders-begin-in-teenage-years.htm
+title: More than half of mental disorders begin in teenage years
+date: 2018-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1810/S00031/more-than-half-of-mental-disorders-begin-in-teenage-years.htm
 author: aut-university
+permalink: >-
+  /archive/2018/10/05/more-than-half-of-mental-disorders-begin-in-teenage-years/index.html
+layout: layout.njk
 ---
 More than half of mental disorders begin in teenage years
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: budgeting-services-overwhelmed-as-working-families-seek-help
-title: "Budgeting services overwhelmed as working families seek help"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/PA1111/S00165/budgeting-services-overwhelmed-as-working-families-seek-help.htm
+title: Budgeting services overwhelmed as working families seek help
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00165/budgeting-services-overwhelmed-as-working-families-seek-help.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/11/09/budgeting-services-overwhelmed-as-working-families-seek-help/index.html
+layout: layout.njk
 ---
 Budgeting services overwhelmed as working families seek help
 ============================================================

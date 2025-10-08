@@ -1,9 +1,13 @@
 ---
 slug: dental-plaque-reveals-key-plant-in-easter-island-diet
-title: "Dental plaque reveals key plant in Easter Island diet"
-date: 2014-12-16
-source-url: https://www.scoop.co.nz/stories/SC1412/S00048/dental-plaque-reveals-key-plant-in-easter-island-diet.htm
+title: Dental plaque reveals key plant in Easter Island diet
+date: 2014-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1412/S00048/dental-plaque-reveals-key-plant-in-easter-island-diet.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/12/16/dental-plaque-reveals-key-plant-in-easter-island-diet/index.html
+layout: layout.njk
 ---
 Dental plaque reveals key plant in Easter Island diet
 =====================================================

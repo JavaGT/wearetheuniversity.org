@@ -1,9 +1,12 @@
 ---
 slug: labours-diversity-is-taxpayers-burden
-title: "Labour’s \"Diversity\" Is Taxpayers’ Burden"
-date: 2004-06-22
-source-url: https://www.scoop.co.nz/stories/PA0406/S00312/labours-diversity-is-taxpayers-burden.htm
+title: Labour’s "Diversity" Is Taxpayers’ Burden
+date: 2004-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00312/labours-diversity-is-taxpayers-burden.htm
 author: new-zealand-first-party
+permalink: /archive/2004/06/22/labours-diversity-is-taxpayers-burden/index.html
+layout: layout.njk
 ---
 Labour’s “Diversity” Is Taxpayers’ Burden
 =========================================

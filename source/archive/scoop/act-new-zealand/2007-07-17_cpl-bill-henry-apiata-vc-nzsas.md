@@ -1,9 +1,12 @@
 ---
 slug: cpl-bill-henry-apiata-vc-nzsas
-title: "Cpl Bill Henry Apiata VC NZSAS"
-date: 2007-07-17
-source-url: https://www.scoop.co.nz/stories/PA0707/S00255/cpl-bill-henry-apiata-vc-nzsas.htm
+title: Cpl Bill Henry Apiata VC NZSAS
+date: 2007-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00255/cpl-bill-henry-apiata-vc-nzsas.htm
 author: act-new-zealand
+permalink: /archive/2007/07/17/cpl-bill-henry-apiata-vc-nzsas/index.html
+layout: layout.njk
 ---
 Cpl Bill Henry Apiata VC NZSAS
 ==============================

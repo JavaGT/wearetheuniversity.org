@@ -1,9 +1,12 @@
 ---
 slug: new-book-tells-tax-victims-stories
-title: "New Book Tells Tax Victims' Stories"
-date: 1999-10-29
-source-url: https://www.scoop.co.nz/stories/PA9910/S00675/new-book-tells-tax-victims-stories.htm
+title: New Book Tells Tax Victims' Stories
+date: 1999-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00675/new-book-tells-tax-victims-stories.htm
 author: act-new-zealand
+permalink: /archive/1999/10/29/new-book-tells-tax-victims-stories/index.html
+layout: layout.njk
 ---
 New Book Tells Tax Victims' Stories
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-land-transport-amendment-bill-#1
-title: "Hone Harawira: Land Transport  Amendment Bill #1"
-date: 2010-09-16
-source-url: https://www.scoop.co.nz/stories/PA1009/S00256/hone-harawira-land-transport-amendment-bill-1.htm
+title: 'Hone Harawira: Land Transport  Amendment Bill #1'
+date: 2010-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00256/hone-harawira-land-transport-amendment-bill-1.htm
 author: te-pati-maori
+permalink: /archive/2010/09/16/hone-harawira-land-transport-amendment-bill-/index.html
+layout: layout.njk
 ---
 Hone Harawira: Land Transport Amendment Bill #1
 ===============================================

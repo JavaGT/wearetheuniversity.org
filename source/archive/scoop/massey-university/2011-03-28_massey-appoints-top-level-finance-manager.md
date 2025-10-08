@@ -1,9 +1,12 @@
 ---
 slug: massey-appoints-top-level-finance-manager
-title: "Massey Appoints Top Level Finance Manager"
-date: 2011-03-28
-source-url: https://www.scoop.co.nz/stories/ED1103/S00115/massey-appoints-top-level-finance-manager.htm
+title: Massey Appoints Top Level Finance Manager
+date: 2011-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00115/massey-appoints-top-level-finance-manager.htm
 author: massey-university
+permalink: /archive/2011/03/28/massey-appoints-top-level-finance-manager/index.html
+layout: layout.njk
 ---
 Massey Appoints Top Level Finance Manager
 =========================================

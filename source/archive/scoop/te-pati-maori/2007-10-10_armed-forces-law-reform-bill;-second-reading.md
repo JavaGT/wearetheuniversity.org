@@ -1,9 +1,12 @@
 ---
 slug: armed-forces-law-reform-bill;-second-reading
-title: "Armed Forces Law Reform Bill; Second Reading"
-date: 2007-10-10
-source-url: https://www.scoop.co.nz/stories/PA0710/S00157/armed-forces-law-reform-bill-second-reading.htm
+title: Armed Forces Law Reform Bill; Second Reading
+date: 2007-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00157/armed-forces-law-reform-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2007/10/10/armed-forces-law-reform-bill/index.html
+layout: layout.njk
 ---
 Armed Forces Law Reform Bill; Second Reading
 ============================================

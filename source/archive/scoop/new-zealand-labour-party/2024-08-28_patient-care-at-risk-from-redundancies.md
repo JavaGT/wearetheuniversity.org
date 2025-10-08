@@ -1,9 +1,12 @@
 ---
 slug: patient-care-at-risk-from-redundancies
-title: "Patient Care At Risk From Redundancies"
-date: 2024-08-28
-source-url: https://www.scoop.co.nz/stories/PA2408/S00193/patient-care-at-risk-from-redundancies.htm
+title: Patient Care At Risk From Redundancies
+date: 2024-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2408/S00193/patient-care-at-risk-from-redundancies.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/08/28/patient-care-at-risk-from-redundancies/index.html
+layout: layout.njk
 ---
 Patient Care At Risk From Redundancies
 ======================================

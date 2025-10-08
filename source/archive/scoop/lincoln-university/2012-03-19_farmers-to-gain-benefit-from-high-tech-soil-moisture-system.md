@@ -1,9 +1,13 @@
 ---
 slug: farmers-to-gain-benefit-from-high-tech-soil-moisture-system
-title: "Farmers To Gain Benefit From High-Tech Soil Moisture System"
-date: 2012-03-19
-source-url: https://www.scoop.co.nz/stories/ED1203/S00080/farmers-to-gain-benefit-from-high-tech-soil-moisture-system.htm
+title: Farmers To Gain Benefit From High-Tech Soil Moisture System
+date: 2012-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00080/farmers-to-gain-benefit-from-high-tech-soil-moisture-system.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/03/19/farmers-to-gain-benefit-from-high-tech-soil-moisture-system/index.html
+layout: layout.njk
 ---
 Farmers To Gain Benefit From High-Tech Soil Moisture System
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-awards-to-recognise-contribution-of-hutt-valley-youth
-title: "New awards to recognise contribution of Hutt Valley Youth"
-date: 2015-09-14
-source-url: https://www.scoop.co.nz/stories/PA1509/S00222/new-awards-to-recognise-contribution-of-hutt-valley-youth.htm
+title: New awards to recognise contribution of Hutt Valley Youth
+date: 2015-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00222/new-awards-to-recognise-contribution-of-hutt-valley-youth.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/09/14/new-awards-to-recognise-contribution-of-hutt-valley-youth/index.html
+layout: layout.njk
 ---
 New awards to recognise contribution of Hutt Valley Youth
 =========================================================

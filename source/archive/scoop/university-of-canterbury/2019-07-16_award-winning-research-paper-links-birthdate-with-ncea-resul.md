@@ -1,9 +1,13 @@
 ---
 slug: award-winning-research-paper-links-birthdate-with-ncea-resul
-title: "Award-winning research paper links birthdate with NCEA resul"
-date: 2019-07-16
-source-url: https://www.scoop.co.nz/stories/ED1907/S00028/award-winning-research-paper-links-birthdate-with-ncea-resul.htm
+title: Award-winning research paper links birthdate with NCEA resul
+date: 2019-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1907/S00028/award-winning-research-paper-links-birthdate-with-ncea-resul.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/07/16/award-winning-research-paper-links-birthdate-with-ncea-resul/index.html
+layout: layout.njk
 ---
 Award-winning research paper links birthdate with NCEA resul
 ============================================================

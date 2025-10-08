@@ -1,9 +1,13 @@
 ---
 slug: ethnic-disparities-in-hospital-care-in-new-zealand
-title: "Ethnic disparities in hospital care in New Zealand"
-date: 2009-06-19
-source-url: https://www.scoop.co.nz/stories/GE0906/S00118/ethnic-disparities-in-hospital-care-in-new-zealand.htm
+title: Ethnic disparities in hospital care in New Zealand
+date: 2009-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0906/S00118/ethnic-disparities-in-hospital-care-in-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/06/19/ethnic-disparities-in-hospital-care-in-new-zealand/index.html
+layout: layout.njk
 ---
 Ethnic disparities in hospital care in New Zealand
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: domestic-designs-with-a-twist-in-global-competition
-title: "Domestic designs with a twist in global competition"
-date: 2011-07-07
-source-url: https://www.scoop.co.nz/stories/ED1107/S00026/domestic-designs-with-a-twist-in-global-competition.htm
+title: Domestic designs with a twist in global competition
+date: 2011-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00026/domestic-designs-with-a-twist-in-global-competition.htm
 author: massey-university
+permalink: >-
+  /archive/2011/07/07/domestic-designs-with-a-twist-in-global-competition/index.html
+layout: layout.njk
 ---
 Domestic designs with a twist in global competition
 ===================================================

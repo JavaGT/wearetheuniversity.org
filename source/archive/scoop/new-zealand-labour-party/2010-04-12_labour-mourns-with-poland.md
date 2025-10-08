@@ -1,9 +1,11 @@
 ---
 slug: labour-mourns-with-poland
-title: "Labour mourns with Poland"
-date: 2010-04-12
+title: Labour mourns with Poland
+date: 2010-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1004/S00098/labour-mourns-with-poland.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/04/12/labour-mourns-with-poland/index.html
+layout: layout.njk
 ---
 Labour mourns with Poland
 =========================

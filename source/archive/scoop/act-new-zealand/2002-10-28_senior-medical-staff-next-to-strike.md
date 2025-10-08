@@ -1,9 +1,12 @@
 ---
 slug: senior-medical-staff-next-to-strike
-title: "Senior Medical Staff Next to Strike"
-date: 2002-10-28
-source-url: https://www.scoop.co.nz/stories/PA0210/S00545/senior-medical-staff-next-to-strike.htm
+title: Senior Medical Staff Next to Strike
+date: 2002-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00545/senior-medical-staff-next-to-strike.htm
 author: act-new-zealand
+permalink: /archive/2002/10/28/senior-medical-staff-next-to-strike/index.html
+layout: layout.njk
 ---
 Senior Medical Staff Next to Strike
 ===================================

@@ -1,9 +1,11 @@
 ---
 slug: easy-credits-demotivate
-title: "Easy credits demotivate"
-date: 2006-11-13
+title: Easy credits demotivate
+date: 2006-11-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0611/S00219/easy-credits-demotivate.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/13/easy-credits-demotivate/index.html
+layout: layout.njk
 ---
 Easy credits demotivate
 =======================

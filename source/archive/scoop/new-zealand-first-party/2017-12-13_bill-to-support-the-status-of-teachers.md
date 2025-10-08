@@ -1,9 +1,12 @@
 ---
 slug: bill-to-support-the-status-of-teachers
-title: "Bill to support the status of teachers"
-date: 2017-12-13
-source-url: https://www.scoop.co.nz/stories/PA1712/S00136/bill-to-support-the-status-of-teachers.htm
+title: Bill to support the status of teachers
+date: 2017-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00136/bill-to-support-the-status-of-teachers.htm
 author: new-zealand-first-party
+permalink: /archive/2017/12/13/bill-to-support-the-status-of-teachers/index.html
+layout: layout.njk
 ---
 Bill to support the status of teachers
 ======================================

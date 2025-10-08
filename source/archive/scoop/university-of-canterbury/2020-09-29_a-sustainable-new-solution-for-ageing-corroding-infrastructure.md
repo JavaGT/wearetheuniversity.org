@@ -1,9 +1,13 @@
 ---
 slug: a-sustainable-new-solution-for-ageing-corroding-infrastructure
-title: "A Sustainable New Solution For Ageing, Corroding Infrastructure"
-date: 2020-09-29
-source-url: https://www.scoop.co.nz/stories/ED2009/S00059/a-sustainable-new-solution-for-ageing-corroding-infrastructure.htm
+title: A Sustainable New Solution For Ageing, Corroding Infrastructure
+date: 2020-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2009/S00059/a-sustainable-new-solution-for-ageing-corroding-infrastructure.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/09/29/a-sustainable-new-solution-for-ageing-corroding-infrastructure/index.html
+layout: layout.njk
 ---
 A Sustainable New Solution For Ageing, Corroding Infrastructure
 ===============================================================

@@ -1,9 +1,12 @@
 ---
 slug: sir-richard-taylor-appointed-honorary-professor
-title: "Sir Richard Taylor appointed honorary professor"
-date: 2018-06-05
-source-url: https://www.scoop.co.nz/stories/CU1806/S00032/sir-richard-taylor-appointed-honorary-professor.htm
+title: Sir Richard Taylor appointed honorary professor
+date: 2018-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1806/S00032/sir-richard-taylor-appointed-honorary-professor.htm
 author: massey-university
+permalink: /archive/2018/06/05/sir-richard-taylor-appointed-honorary-professor/index.html
+layout: layout.njk
 ---
 Sir Richard Taylor appointed honorary professor
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: changes-to-special-needs-education-letting-parents-down
-title: "Changes to Special Needs Education Letting Parents Down"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/PA1611/S00366/changes-to-special-needs-education-letting-parents-down.htm
+title: Changes to Special Needs Education Letting Parents Down
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00366/changes-to-special-needs-education-letting-parents-down.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/21/changes-to-special-needs-education-letting-parents-down/index.html
+layout: layout.njk
 ---
 Changes to Special Needs Education Letting Parents Down
 =======================================================

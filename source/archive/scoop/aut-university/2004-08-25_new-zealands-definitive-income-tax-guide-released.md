@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-definitive-income-tax-guide-released
-title: "New Zealand’s Definitive Income Tax Guide Released"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00115/new-zealands-definitive-income-tax-guide-released.htm
+title: New Zealand’s Definitive Income Tax Guide Released
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00115/new-zealands-definitive-income-tax-guide-released.htm
 author: aut-university
+permalink: >-
+  /archive/2004/08/25/new-zealands-definitive-income-tax-guide-released/index.html
+layout: layout.njk
 ---
 New Zealand’s Definitive Income Tax Guide Released
 ==================================================

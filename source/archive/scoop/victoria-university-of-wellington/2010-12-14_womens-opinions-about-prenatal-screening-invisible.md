@@ -1,9 +1,13 @@
 ---
 slug: womens-opinions-about-prenatal-screening-invisible
-title: "Women’s opinions about prenatal screening invisible"
-date: 2010-12-14
-source-url: https://www.scoop.co.nz/stories/SC1012/S00041/womens-opinions-about-prenatal-screening-invisible.htm
+title: Women’s opinions about prenatal screening invisible
+date: 2010-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1012/S00041/womens-opinions-about-prenatal-screening-invisible.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/12/14/womens-opinions-about-prenatal-screening-invisible/index.html
+layout: layout.njk
 ---
 Women’s opinions about prenatal screening invisible
 ===================================================

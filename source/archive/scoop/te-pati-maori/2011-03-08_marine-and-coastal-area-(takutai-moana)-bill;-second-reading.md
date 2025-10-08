@@ -1,9 +1,12 @@
 ---
 slug: marine-and-coastal-area-(takutai-moana)-bill;-second-reading
-title: "Marine and Coastal Area (Takutai Moana) Bill; Second Reading"
-date: 2011-03-08
-source-url: https://www.scoop.co.nz/stories/PA1103/S00103/marine-and-coastal-area-takutai-moana-bill-second-reading.htm
+title: Marine and Coastal Area (Takutai Moana) Bill; Second Reading
+date: 2011-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00103/marine-and-coastal-area-takutai-moana-bill-second-reading.htm
 author: te-pati-maori
+permalink: /archive/2011/03/08/marine-and-coastal-area-/index.html
+layout: layout.njk
 ---
 Marine and Coastal Area (Takutai Moana) Bill; Second Reading
 ============================================================

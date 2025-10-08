@@ -1,9 +1,12 @@
 ---
 slug: vital-that-acc-contracts-are-sorted
-title: "Vital that ACC contracts are sorted"
-date: 2003-03-31
-source-url: https://www.scoop.co.nz/stories/PA0303/S00568/vital-that-acc-contracts-are-sorted.htm
+title: Vital that ACC contracts are sorted
+date: 2003-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00568/vital-that-acc-contracts-are-sorted.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/31/vital-that-acc-contracts-are-sorted/index.html
+layout: layout.njk
 ---
 Vital that ACC contracts are sorted
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-super-charge-leadership-talent
-title: "New Scholarships \"super-charge\" Leadership Talent"
-date: 2021-12-21
-source-url: https://www.scoop.co.nz/stories/ED2112/S00037/new-scholarships-super-charge-leadership-talent.htm
+title: New Scholarships "super-charge" Leadership Talent
+date: 2021-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2112/S00037/new-scholarships-super-charge-leadership-talent.htm
 author: university-of-canterbury
+permalink: /archive/2021/12/21/new-scholarships-super-charge-leadership-talent/index.html
+layout: layout.njk
 ---
 New Scholarships “super-charge” Leadership Talent
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: trust-statement-doesnt-get-hekia-off-hook
-title: "Trust statement doesn’t get Hekia off hook"
-date: 2014-03-24
-source-url: https://www.scoop.co.nz/stories/PA1403/S00460/trust-statement-doesnt-get-hekia-off-hook.htm
+title: Trust statement doesn’t get Hekia off hook
+date: 2014-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1403/S00460/trust-statement-doesnt-get-hekia-off-hook.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/03/24/trust-statement-doesnt-get-hekia-off-hook/index.html
+layout: layout.njk
 ---
 Trust statement doesn’t get Hekia off hook
 ==========================================

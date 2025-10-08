@@ -1,9 +1,12 @@
 ---
 slug: government-back-flipping-worthy-of-gold
-title: "Government back-flipping worthy of Gold"
-date: 2018-04-11
-source-url: https://www.scoop.co.nz/stories/PA1804/S00123/government-back-flipping-worthy-of-gold.htm
+title: Government back-flipping worthy of Gold
+date: 2018-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00123/government-back-flipping-worthy-of-gold.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/11/government-back-flipping-worthy-of-gold/index.html
+layout: layout.njk
 ---
 Government back-flipping worthy of Gold
 =======================================

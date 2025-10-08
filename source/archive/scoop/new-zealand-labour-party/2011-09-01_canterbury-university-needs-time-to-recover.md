@@ -1,9 +1,12 @@
 ---
 slug: canterbury-university-needs-time-to-recover
-title: "Canterbury University needs time to recover"
-date: 2011-09-01
-source-url: https://www.scoop.co.nz/stories/PA1109/S00029/canterbury-university-needs-time-to-recover.htm
+title: Canterbury University needs time to recover
+date: 2011-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00029/canterbury-university-needs-time-to-recover.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/09/01/canterbury-university-needs-time-to-recover/index.html
+layout: layout.njk
 ---
 Canterbury University needs time to recover
 ===========================================

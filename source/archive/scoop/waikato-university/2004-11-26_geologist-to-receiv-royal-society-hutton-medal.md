@@ -1,9 +1,12 @@
 ---
 slug: geologist-to-receiv-royal-society-hutton-medal
-title: "Geologist To Receiv Royal Society Hutton Medal"
-date: 2004-11-26
-source-url: https://www.scoop.co.nz/stories/SC0411/S00072/geologist-to-receiv-royal-society-hutton-medal.htm
+title: Geologist To Receiv Royal Society Hutton Medal
+date: 2004-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0411/S00072/geologist-to-receiv-royal-society-hutton-medal.htm
 author: waikato-university
+permalink: /archive/2004/11/26/geologist-to-receiv-royal-society-hutton-medal/index.html
+layout: layout.njk
 ---
 Geologist To Receiv Royal Society Hutton Medal
 ==============================================

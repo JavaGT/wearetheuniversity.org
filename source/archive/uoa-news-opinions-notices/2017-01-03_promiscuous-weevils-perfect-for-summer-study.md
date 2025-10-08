@@ -1,8 +1,11 @@
 ---
 slug: promiscuous-weevils-perfect-for-summer-study
-title: "Promiscuous weevils perfect for summer study"
-date: 2017-01-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/Promiscuous-weevils-perfect-for-summer-study.html
+title: Promiscuous weevils perfect for summer study
+date: 2017-01-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/Promiscuous-weevils-perfect-for-summer-study.html
+permalink: /archive/2017/01/03/promiscuous-weevils-perfect-for-summer-study/index.html
+layout: layout.njk
 ---
 Promiscuous weevils perfect for summer study
 ============================================

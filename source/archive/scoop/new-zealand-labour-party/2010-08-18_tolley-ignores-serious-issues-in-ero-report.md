@@ -1,9 +1,12 @@
 ---
 slug: tolley-ignores-serious-issues-in-ero-report
-title: "Tolley ignores serious issues in ERO report"
-date: 2010-08-18
-source-url: https://www.scoop.co.nz/stories/PA1008/S00268/tolley-ignores-serious-issues-in-ero-report.htm
+title: Tolley ignores serious issues in ERO report
+date: 2010-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00268/tolley-ignores-serious-issues-in-ero-report.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/18/tolley-ignores-serious-issues-in-ero-report/index.html
+layout: layout.njk
 ---
 Tolley ignores serious issues in ERO report
 ===========================================

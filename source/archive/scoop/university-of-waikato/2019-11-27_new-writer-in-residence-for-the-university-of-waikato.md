@@ -1,9 +1,13 @@
 ---
 slug: new-writer-in-residence-for-the-university-of-waikato
-title: "New writer in residence for the University of Waikato"
-date: 2019-11-27
-source-url: https://www.scoop.co.nz/stories/CU1911/S00346/new-writer-in-residence-for-the-university-of-waikato.htm
+title: New writer in residence for the University of Waikato
+date: 2019-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1911/S00346/new-writer-in-residence-for-the-university-of-waikato.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/11/27/new-writer-in-residence-for-the-university-of-waikato/index.html
+layout: layout.njk
 ---
 New writer in residence for the University of Waikato
 =====================================================

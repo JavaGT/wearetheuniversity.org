@@ -1,9 +1,12 @@
 ---
 slug: rma-changes-a-town-&-country-planning-act-in-drag
-title: "RMA Changes a Town & Country Planning Act in Drag"
-date: 2015-01-22
-source-url: https://www.scoop.co.nz/stories/PA1501/S00096/rma-changes-a-town-country-planning-act-in-drag.htm
+title: RMA Changes a Town & Country Planning Act in Drag
+date: 2015-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00096/rma-changes-a-town-country-planning-act-in-drag.htm
 author: new-zealand-first-party
+permalink: /archive/2015/01/22/rma-changes-a-town-/index.html
+layout: layout.njk
 ---
 RMA Changes a Town & Country Planning Act in Drag
 =================================================

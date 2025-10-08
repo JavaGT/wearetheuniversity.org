@@ -1,9 +1,12 @@
 ---
 slug: jade-makes-finals-of-prestigious-award
-title: "Jade Makes Finals Of Prestigious Award"
-date: 2004-05-04
-source-url: https://www.scoop.co.nz/stories/ED0405/S00014/jade-makes-finals-of-prestigious-award.htm
+title: Jade Makes Finals Of Prestigious Award
+date: 2004-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00014/jade-makes-finals-of-prestigious-award.htm
 author: waikato-university
+permalink: /archive/2004/05/04/jade-makes-finals-of-prestigious-award/index.html
+layout: layout.njk
 ---
 Jade Makes Finals Of Prestigious Award
 ======================================

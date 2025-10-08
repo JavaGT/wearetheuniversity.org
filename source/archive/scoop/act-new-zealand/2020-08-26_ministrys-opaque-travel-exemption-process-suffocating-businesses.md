@@ -1,9 +1,13 @@
 ---
 slug: ministrys-opaque-travel-exemption-process-suffocating-businesses
-title: "Ministry’s Opaque Travel Exemption Process Suffocating Businesses"
-date: 2020-08-26
-source-url: https://www.scoop.co.nz/stories/PA2008/S00198/ministrys-opaque-travel-exemption-process-suffocating-businesses.htm
+title: Ministry’s Opaque Travel Exemption Process Suffocating Businesses
+date: 2020-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2008/S00198/ministrys-opaque-travel-exemption-process-suffocating-businesses.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/08/26/ministrys-opaque-travel-exemption-process-suffocating-businesses/index.html
+layout: layout.njk
 ---
 Ministry’s Opaque Travel Exemption Process Suffocating Businesses
 =================================================================

@@ -1,9 +1,13 @@
 ---
 slug: runners-lace-up-for-campus-5km-fun-run-and-walk-series
-title: "Runners lace up for Campus 5km fun run and walk series"
-date: 2014-01-28
-source-url: https://www.scoop.co.nz/stories/AK1401/S00593/runners-lace-up-for-campus-5km-fun-run-and-walk-series.htm
+title: Runners lace up for Campus 5km fun run and walk series
+date: 2014-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00593/runners-lace-up-for-campus-5km-fun-run-and-walk-series.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/01/28/runners-lace-up-for-campus-5km-fun-run-and-walk-series/index.html
+layout: layout.njk
 ---
 Runners lace up for Campus 5km fun run and walk series
 ======================================================

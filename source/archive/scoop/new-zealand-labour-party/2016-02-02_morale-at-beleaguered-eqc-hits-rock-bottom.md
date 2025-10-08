@@ -1,9 +1,12 @@
 ---
 slug: morale-at-beleaguered-eqc-hits-rock-bottom
-title: "Morale at beleaguered EQC hits rock bottom"
-date: 2016-02-02
-source-url: https://www.scoop.co.nz/stories/PA1602/S00024/morale-at-beleaguered-eqc-hits-rock-bottom.htm
+title: Morale at beleaguered EQC hits rock bottom
+date: 2016-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00024/morale-at-beleaguered-eqc-hits-rock-bottom.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/02/morale-at-beleaguered-eqc-hits-rock-bottom/index.html
+layout: layout.njk
 ---
 Morale at beleaguered EQC hits rock bottom
 ==========================================

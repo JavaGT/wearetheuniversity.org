@@ -1,9 +1,13 @@
 ---
 slug: govt-only-interested-in-tick-the-box-standards-compliance
-title: "Govt only interested in ‘tick-the-box’ standards compliance"
-date: 2011-07-07
-source-url: https://www.scoop.co.nz/stories/ED1107/S00025/govt-only-interested-in-tick-the-box-standards-compliance.htm
+title: Govt only interested in ‘tick-the-box’ standards compliance
+date: 2011-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00025/govt-only-interested-in-tick-the-box-standards-compliance.htm
 author: nzei
+permalink: >-
+  /archive/2011/07/07/govt-only-interested-in-tick-the-box-standards-compliance/index.html
+layout: layout.njk
 ---
 Govt only interested in ‘tick-the-box’ standards compliance
 ===========================================================

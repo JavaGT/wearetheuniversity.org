@@ -1,9 +1,11 @@
 ---
 slug: home-is-how-the-heart-is
-title: "Home is how the heart is"
-date: 2011-10-18
+title: Home is how the heart is
+date: 2011-10-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1110/S00074/home-is-how-the-heart-is.htm
 author: university-of-waikato
+permalink: /archive/2011/10/18/home-is-how-the-heart-is/index.html
+layout: layout.njk
 ---
 Home is how the heart is
 ========================

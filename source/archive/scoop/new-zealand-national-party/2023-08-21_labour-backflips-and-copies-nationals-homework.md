@@ -1,9 +1,12 @@
 ---
 slug: labour-backflips-and-copies-nationals-homework
-title: "Labour Backflips And Copies National’s Homework"
-date: 2023-08-21
-source-url: https://www.scoop.co.nz/stories/PA2308/S00136/labour-backflips-and-copies-nationals-homework.htm
+title: Labour Backflips And Copies National’s Homework
+date: 2023-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00136/labour-backflips-and-copies-nationals-homework.htm
 author: new-zealand-national-party
+permalink: /archive/2023/08/21/labour-backflips-and-copies-nationals-homework/index.html
+layout: layout.njk
 ---
 Labour Backflips And Copies National’s Homework
 ===============================================

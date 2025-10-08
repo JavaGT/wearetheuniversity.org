@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-24-february-2006
-title: "www.mccully.co.nz 24 February 2006"
-date: 2006-02-24
-source-url: https://www.scoop.co.nz/stories/PA0602/S00392/wwwmccullyconz-24-february-2006.htm
+title: www.mccully.co.nz 24 February 2006
+date: 2006-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00392/wwwmccullyconz-24-february-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/24/www-mccully-co-nz-24-february-2006/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz 24 February 2006
 ==================================

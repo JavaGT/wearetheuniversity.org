@@ -1,9 +1,13 @@
 ---
 slug: nz-mums-not-getting-message-about-iodine-and-folic-acid
-title: "NZ mums not getting message about iodine and folic acid"
-date: 2017-10-16
-source-url: https://www.scoop.co.nz/stories/GE1710/S00077/nz-mums-not-getting-message-about-iodine-and-folic-acid.htm
+title: NZ mums not getting message about iodine and folic acid
+date: 2017-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00077/nz-mums-not-getting-message-about-iodine-and-folic-acid.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/16/nz-mums-not-getting-message-about-iodine-and-folic-acid/index.html
+layout: layout.njk
 ---
 NZ mums not getting message about iodine and folic acid
 =======================================================

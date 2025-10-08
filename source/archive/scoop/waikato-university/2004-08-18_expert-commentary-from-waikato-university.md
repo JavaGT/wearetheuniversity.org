@@ -1,9 +1,12 @@
 ---
 slug: expert-commentary-from-waikato-university
-title: "Expert Commentary From Waikato University"
-date: 2004-08-18
-source-url: https://www.scoop.co.nz/stories/ED0408/S00080/expert-commentary-from-waikato-university.htm
+title: Expert Commentary From Waikato University
+date: 2004-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00080/expert-commentary-from-waikato-university.htm
 author: waikato-university
+permalink: /archive/2004/08/18/expert-commentary-from-waikato-university/index.html
+layout: layout.njk
 ---
 Expert Commentary From Waikato University
 =========================================

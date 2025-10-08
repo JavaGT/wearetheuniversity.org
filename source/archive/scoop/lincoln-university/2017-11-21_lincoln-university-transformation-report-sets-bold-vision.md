@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-transformation-report-sets-bold-vision
-title: "Lincoln University transformation report sets bold vision"
-date: 2017-11-21
-source-url: https://www.scoop.co.nz/stories/ED1711/S00080/lincoln-university-transformation-report-sets-bold-vision.htm
+title: Lincoln University transformation report sets bold vision
+date: 2017-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00080/lincoln-university-transformation-report-sets-bold-vision.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/11/21/lincoln-university-transformation-report-sets-bold-vision/index.html
+layout: layout.njk
 ---
 Lincoln University transformation report sets bold vision
 =========================================================

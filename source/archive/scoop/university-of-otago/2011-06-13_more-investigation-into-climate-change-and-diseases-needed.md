@@ -1,9 +1,13 @@
 ---
 slug: more-investigation-into-climate-change-and-diseases-needed
-title: "More investigation into climate change and diseases needed"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/SC1106/S00041/more-investigation-into-climate-change-and-diseases-needed.htm
+title: More investigation into climate change and diseases needed
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1106/S00041/more-investigation-into-climate-change-and-diseases-needed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/06/13/more-investigation-into-climate-change-and-diseases-needed/index.html
+layout: layout.njk
 ---
 More investigation into climate change and diseases needed
 ==========================================================

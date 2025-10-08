@@ -1,9 +1,12 @@
 ---
 slug: toogood-band-headlines-vnzma-artisan-awards
-title: "Toogood band headlines VNZMA Artisan Awards"
-date: 2018-10-16
-source-url: https://www.scoop.co.nz/stories/CU1810/S00214/toogood-band-headlines-vnzma-artisan-awards.htm
+title: Toogood band headlines VNZMA Artisan Awards
+date: 2018-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00214/toogood-band-headlines-vnzma-artisan-awards.htm
 author: massey-university
+permalink: /archive/2018/10/16/toogood-band-headlines-vnzma-artisan-awards/index.html
+layout: layout.njk
 ---
 Toogood band headlines VNZMA Artisan Awards
 ===========================================

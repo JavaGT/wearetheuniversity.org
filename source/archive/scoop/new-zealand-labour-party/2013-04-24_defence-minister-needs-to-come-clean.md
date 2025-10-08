@@ -1,9 +1,12 @@
 ---
 slug: defence-minister-needs-to-come-clean
-title: "Defence Minister needs to come clean"
-date: 2013-04-24
-source-url: https://www.scoop.co.nz/stories/PA1304/S00475/defence-minister-needs-to-come-clean.htm
+title: Defence Minister needs to come clean
+date: 2013-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00475/defence-minister-needs-to-come-clean.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/04/24/defence-minister-needs-to-come-clean/index.html
+layout: layout.njk
 ---
 Defence Minister needs to come clean
 ====================================

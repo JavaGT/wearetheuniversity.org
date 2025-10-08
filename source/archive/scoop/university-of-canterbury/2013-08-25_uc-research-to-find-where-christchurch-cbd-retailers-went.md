@@ -1,9 +1,13 @@
 ---
 slug: uc-research-to-find-where-christchurch-cbd-retailers-went
-title: "UC research to find where Christchurch CBD retailers went"
-date: 2013-08-25
-source-url: https://www.scoop.co.nz/stories/AK1308/S00739/uc-research-to-find-where-christchurch-cbd-retailers-went.htm
+title: UC research to find where Christchurch CBD retailers went
+date: 2013-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00739/uc-research-to-find-where-christchurch-cbd-retailers-went.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/25/uc-research-to-find-where-christchurch-cbd-retailers-went/index.html
+layout: layout.njk
 ---
 UC research to find where Christchurch CBD retailers went
 =========================================================

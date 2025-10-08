@@ -1,9 +1,12 @@
 ---
 slug: time-to-rein-in-max-on-defence
-title: "Time to rein in Max on defence"
-date: 1999-07-27
-source-url: https://www.scoop.co.nz/stories/PA9907/S00494/time-to-rein-in-max-on-defence.htm
+title: Time to rein in Max on defence
+date: 1999-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00494/time-to-rein-in-max-on-defence.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/27/time-to-rein-in-max-on-defence/index.html
+layout: layout.njk
 ---
 Time to rein in Max on defence
 ==============================

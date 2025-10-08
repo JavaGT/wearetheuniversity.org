@@ -1,9 +1,12 @@
 ---
 slug: free-earthquake-lecture-series
-title: "Free earthquake lecture series"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/ED1107/S00023/free-earthquake-lecture-series.htm
+title: Free earthquake lecture series
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00023/free-earthquake-lecture-series.htm
 author: university-of-canterbury
+permalink: /archive/2011/07/06/free-earthquake-lecture-series/index.html
+layout: layout.njk
 ---
 Free earthquake lecture series
 ==============================

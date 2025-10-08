@@ -1,9 +1,12 @@
 ---
 slug: teachers-deserve-a-democratic-education-council
-title: "Teachers deserve a democratic Education Council"
-date: 2017-04-11
-source-url: https://www.scoop.co.nz/stories/PA1704/S00136/teachers-deserve-a-democratic-education-council.htm
+title: Teachers deserve a democratic Education Council
+date: 2017-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00136/teachers-deserve-a-democratic-education-council.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/04/11/teachers-deserve-a-democratic-education-council/index.html
+layout: layout.njk
 ---
 Teachers deserve a democratic Education Council
 ===============================================

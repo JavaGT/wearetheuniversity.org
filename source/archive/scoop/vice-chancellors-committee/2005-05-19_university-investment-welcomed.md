@@ -1,9 +1,12 @@
 ---
 slug: university-investment-welcomed
-title: "University Investment Welcomed"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/ED0505/S00083/university-investment-welcomed.htm
+title: University Investment Welcomed
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00083/university-investment-welcomed.htm
 author: vice-chancellors-committee
+permalink: /archive/2005/05/19/university-investment-welcomed/index.html
+layout: layout.njk
 ---
 University Investment Welcomed
 ==============================

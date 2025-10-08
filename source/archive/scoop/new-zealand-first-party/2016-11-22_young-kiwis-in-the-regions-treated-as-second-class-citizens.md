@@ -1,9 +1,13 @@
 ---
 slug: young-kiwis-in-the-regions-treated-as-second-class-citizens
-title: "Young Kiwis in the Regions Treated as Second-Class Citizens"
-date: 2016-11-22
-source-url: https://www.scoop.co.nz/stories/PA1611/S00418/young-kiwis-in-the-regions-treated-as-second-class-citizens.htm
+title: Young Kiwis in the Regions Treated as Second-Class Citizens
+date: 2016-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00418/young-kiwis-in-the-regions-treated-as-second-class-citizens.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/22/young-kiwis-in-the-regions-treated-as-second-class-citizens/index.html
+layout: layout.njk
 ---
 Young Kiwis in the Regions Treated as Second-Class Citizens
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-graduates-scrutinise-presidents-address
-title: "Massey Graduates Scrutinise President's Address"
-date: 2009-01-14
-source-url: https://www.scoop.co.nz/stories/ED0901/S00017/massey-graduates-scrutinise-presidents-address.htm
+title: Massey Graduates Scrutinise President's Address
+date: 2009-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0901/S00017/massey-graduates-scrutinise-presidents-address.htm
 author: massey-university
+permalink: /archive/2009/01/14/massey-graduates-scrutinise-presidents-address/index.html
+layout: layout.njk
 ---
 Massey Graduates Scrutinise President's Address
 ===============================================

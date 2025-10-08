@@ -1,9 +1,12 @@
 ---
 slug: health-centres-key-primary-health-tool
-title: "Health Centres Key Primary Health Tool"
-date: 2005-06-15
-source-url: https://www.scoop.co.nz/stories/GE0506/S00076/health-centres-key-primary-health-tool.htm
+title: Health Centres Key Primary Health Tool
+date: 2005-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0506/S00076/health-centres-key-primary-health-tool.htm
 author: auckland-university
+permalink: /archive/2005/06/15/health-centres-key-primary-health-tool/index.html
+layout: layout.njk
 ---
 Health Centres Key Primary Health Tool
 ======================================

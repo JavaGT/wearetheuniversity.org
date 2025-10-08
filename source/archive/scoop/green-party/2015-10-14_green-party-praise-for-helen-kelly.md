@@ -1,9 +1,12 @@
 ---
 slug: green-party-praise-for-helen-kelly
-title: "Green Party praise for Helen Kelly"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00203/green-party-praise-for-helen-kelly.htm
+title: Green Party praise for Helen Kelly
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00203/green-party-praise-for-helen-kelly.htm
 author: green-party
+permalink: /archive/2015/10/14/green-party-praise-for-helen-kelly/index.html
+layout: layout.njk
 ---
 Green Party praise for Helen Kelly
 ==================================

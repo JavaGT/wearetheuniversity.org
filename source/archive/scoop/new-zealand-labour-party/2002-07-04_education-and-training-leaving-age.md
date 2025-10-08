@@ -1,9 +1,12 @@
 ---
 slug: education-and-training-leaving-age
-title: "Education and Training Leaving Age"
-date: 2002-07-04
-source-url: https://www.scoop.co.nz/stories/PA0207/S00129/education-and-training-leaving-age.htm
+title: Education and Training Leaving Age
+date: 2002-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00129/education-and-training-leaving-age.htm
 author: new-zealand-labour-party
+permalink: /archive/2002/07/04/education-and-training-leaving-age/index.html
+layout: layout.njk
 ---
 Education and Training Leaving Age
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: it-shouldnt-take-the-army-to-house-the-homeless
-title: "It shouldn’t take the Army to house the homeless"
-date: 2014-10-07
-source-url: https://www.scoop.co.nz/stories/PA1410/S00037/it-shouldnt-take-the-army-to-house-the-homeless.htm
+title: It shouldn’t take the Army to house the homeless
+date: 2014-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00037/it-shouldnt-take-the-army-to-house-the-homeless.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/07/it-shouldnt-take-the-army-to-house-the-homeless/index.html
+layout: layout.njk
 ---
 It shouldn’t take the Army to house the homeless
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: australian-company-chooses-nz-as-training-venue
-title: "Australian company chooses NZ as training venue"
-date: 2000-11-29
-source-url: https://www.scoop.co.nz/stories/BU0011/S00199/australian-company-chooses-nz-as-training-venue.htm
+title: Australian company chooses NZ as training venue
+date: 2000-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0011/S00199/australian-company-chooses-nz-as-training-venue.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/11/29/australian-company-chooses-nz-as-training-venue/index.html
+layout: layout.njk
 ---
 Australian company chooses NZ as training venue
 ===============================================

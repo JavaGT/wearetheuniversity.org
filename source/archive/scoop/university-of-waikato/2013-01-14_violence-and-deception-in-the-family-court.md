@@ -1,9 +1,12 @@
 ---
 slug: violence-and-deception-in-the-family-court
-title: "Violence and deception in the family court"
-date: 2013-01-14
-source-url: https://www.scoop.co.nz/stories/ED1301/S00017/violence-and-deception-in-the-family-court.htm
+title: Violence and deception in the family court
+date: 2013-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00017/violence-and-deception-in-the-family-court.htm
 author: university-of-waikato
+permalink: /archive/2013/01/14/violence-and-deception-in-the-family-court/index.html
+layout: layout.njk
 ---
 Violence and deception in the family court
 ==========================================

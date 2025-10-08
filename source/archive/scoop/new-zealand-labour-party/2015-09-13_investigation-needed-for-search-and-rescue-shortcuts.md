@@ -1,9 +1,13 @@
 ---
 slug: investigation-needed-for-search-and-rescue-shortcuts
-title: "Investigation needed for search and rescue shortcuts"
-date: 2015-09-13
-source-url: https://www.scoop.co.nz/stories/PA1509/S00218/investigation-needed-for-search-and-rescue-shortcuts.htm
+title: Investigation needed for search and rescue shortcuts
+date: 2015-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00218/investigation-needed-for-search-and-rescue-shortcuts.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/13/investigation-needed-for-search-and-rescue-shortcuts/index.html
+layout: layout.njk
 ---
 Investigation needed for search and rescue shortcuts
 ====================================================

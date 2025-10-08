@@ -1,9 +1,13 @@
 ---
 slug: researchers-reveal-how-ocean-bacteria-use-light-to-grow
-title: "Researchers reveal how ocean bacteria use light to grow"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/SC1408/S00052/researchers-reveal-how-ocean-bacteria-use-light-to-grow.htm
+title: Researchers reveal how ocean bacteria use light to grow
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1408/S00052/researchers-reveal-how-ocean-bacteria-use-light-to-grow.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/08/19/researchers-reveal-how-ocean-bacteria-use-light-to-grow/index.html
+layout: layout.njk
 ---
 Researchers reveal how ocean bacteria use light to grow
 =======================================================

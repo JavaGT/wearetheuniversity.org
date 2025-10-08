@@ -1,9 +1,13 @@
 ---
 slug: mp-seeks-to-widen-converge-05-conference-inquiry
-title: "MP seeks to widen Converge ‘05 conference inquiry"
-date: 2005-12-12
-source-url: https://www.scoop.co.nz/stories/PA0512/S00147/mp-seeks-to-widen-converge-05-conference-inquiry.htm
+title: MP seeks to widen Converge ‘05 conference inquiry
+date: 2005-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00147/mp-seeks-to-widen-converge-05-conference-inquiry.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/12/12/mp-seeks-to-widen-converge-05-conference-inquiry/index.html
+layout: layout.njk
 ---
 MP seeks to widen Converge ‘05 conference inquiry
 =================================================

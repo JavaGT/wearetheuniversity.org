@@ -1,9 +1,12 @@
 ---
 slug: addressing-the-problems-the-5-point-plan
-title: "Addressing the Problems: The 5-Point Plan"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/PA0311/S00096/addressing-the-problems-the-5-point-plan.htm
+title: 'Addressing the Problems: The 5-Point Plan'
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00096/addressing-the-problems-the-5-point-plan.htm
 author: act-new-zealand
+permalink: /archive/2003/11/06/addressing-the-problems-the-5-point-plan/index.html
+layout: layout.njk
 ---
 Addressing the Problems: The 5-Point Plan
 =========================================

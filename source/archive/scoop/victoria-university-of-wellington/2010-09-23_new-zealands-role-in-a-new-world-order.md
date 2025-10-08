@@ -1,9 +1,12 @@
 ---
 slug: new-zealands-role-in-a-new-world-order
-title: "New Zealand’s role in a new world order"
-date: 2010-09-23
-source-url: https://www.scoop.co.nz/stories/ED1009/S00113/new-zealands-role-in-a-new-world-order.htm
+title: New Zealand’s role in a new world order
+date: 2010-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00113/new-zealands-role-in-a-new-world-order.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/23/new-zealands-role-in-a-new-world-order/index.html
+layout: layout.njk
 ---
 New Zealand’s role in a new world order
 =======================================

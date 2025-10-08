@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-foundation-sth-island-farmer-of-the-year
-title: "Lincoln University Foundation Sth Island Farmer of the year"
-date: 2011-11-05
-source-url: https://www.scoop.co.nz/stories/BU1111/S00186/lincoln-university-foundation-sth-island-farmer-of-the-year.htm
+title: Lincoln University Foundation Sth Island Farmer of the year
+date: 2011-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1111/S00186/lincoln-university-foundation-sth-island-farmer-of-the-year.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/11/05/lincoln-university-foundation-sth-island-farmer-of-the-year/index.html
+layout: layout.njk
 ---
 Lincoln University Foundation Sth Island Farmer of the year
 ===========================================================

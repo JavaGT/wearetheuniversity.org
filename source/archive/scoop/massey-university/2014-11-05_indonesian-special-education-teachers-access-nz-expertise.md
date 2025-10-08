@@ -1,9 +1,13 @@
 ---
 slug: indonesian-special-education-teachers-access-nz-expertise
-title: "Indonesian special education teachers access NZ expertise"
-date: 2014-11-05
-source-url: https://www.scoop.co.nz/stories/ED1411/S00031/indonesian-special-education-teachers-access-nz-expertise.htm
+title: Indonesian special education teachers access NZ expertise
+date: 2014-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00031/indonesian-special-education-teachers-access-nz-expertise.htm
 author: massey-university
+permalink: >-
+  /archive/2014/11/05/indonesian-special-education-teachers-access-nz-expertise/index.html
+layout: layout.njk
 ---
 Indonesian special education teachers access NZ expertise
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: a-phone-app-might-encourage-more-people-to-take-buses
-title: "A phone app might encourage more people to take buses"
-date: 2014-12-05
-source-url: https://www.scoop.co.nz/stories/CU1412/S00147/a-phone-app-might-encourage-more-people-to-take-buses.htm
+title: A phone app might encourage more people to take buses
+date: 2014-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00147/a-phone-app-might-encourage-more-people-to-take-buses.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/05/a-phone-app-might-encourage-more-people-to-take-buses/index.html
+layout: layout.njk
 ---
 A phone app might encourage more people to take buses
 =====================================================

@@ -1,9 +1,11 @@
 ---
 slug: kerr-moral-markets
-title: "Kerr: Moral Markets"
-date: 2008-10-02
+title: 'Kerr: Moral Markets'
+date: 2008-10-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0810/S00047/kerr-moral-markets.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/10/02/kerr-moral-markets/index.html
+layout: layout.njk
 ---
 Kerr: Moral Markets
 ===================

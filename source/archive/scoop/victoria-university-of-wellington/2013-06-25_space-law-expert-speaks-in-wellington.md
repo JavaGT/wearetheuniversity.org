@@ -1,9 +1,12 @@
 ---
 slug: space-law-expert-speaks-in-wellington
-title: "Space law expert speaks in Wellington"
-date: 2013-06-25
-source-url: https://www.scoop.co.nz/stories/PO1306/S00312/space-law-expert-speaks-in-wellington.htm
+title: Space law expert speaks in Wellington
+date: 2013-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1306/S00312/space-law-expert-speaks-in-wellington.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/06/25/space-law-expert-speaks-in-wellington/index.html
+layout: layout.njk
 ---
 Space law expert speaks in Wellington
 =====================================

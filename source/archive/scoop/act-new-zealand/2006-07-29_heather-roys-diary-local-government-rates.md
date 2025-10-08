@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-local-government-rates
-title: "Heather Roy's Diary: Local Government Rates"
-date: 2006-07-29
-source-url: https://www.scoop.co.nz/stories/PA0607/S00528/heather-roys-diary-local-government-rates.htm
+title: 'Heather Roy''s Diary: Local Government Rates'
+date: 2006-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00528/heather-roys-diary-local-government-rates.htm
 author: act-new-zealand
+permalink: /archive/2006/07/29/heather-roys-diary-local-government-rates/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: Local Government Rates
 ===========================================

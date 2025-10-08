@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-appoints-publicis-mojo
-title: "Waikato University Appoints Publicis Mojo"
-date: 2003-09-01
-source-url: https://www.scoop.co.nz/stories/ED0309/S00001/waikato-university-appoints-publicis-mojo.htm
+title: Waikato University Appoints Publicis Mojo
+date: 2003-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00001/waikato-university-appoints-publicis-mojo.htm
 author: waikato-university
+permalink: /archive/2003/09/01/waikato-university-appoints-publicis-mojo/index.html
+layout: layout.njk
 ---
 Waikato University Appoints Publicis Mojo
 =========================================

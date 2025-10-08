@@ -1,9 +1,12 @@
 ---
 slug: quake-legal-fund-welcome-news
-title: "Quake legal  fund welcome news"
-date: 2011-04-19
-source-url: https://www.scoop.co.nz/stories/PA1104/S00401/quake-legal-fund-welcome-news.htm
+title: Quake legal  fund welcome news
+date: 2011-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00401/quake-legal-fund-welcome-news.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/19/quake-legal-fund-welcome-news/index.html
+layout: layout.njk
 ---
 Quake legal fund welcome news
 =============================

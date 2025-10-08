@@ -1,9 +1,13 @@
 ---
 slug: award-lets-writers-take-message-of-poverty-in-education
-title: "Award lets writers take message of poverty in education"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/ED1507/S00054/award-lets-writers-take-message-of-poverty-in-education.htm
+title: Award lets writers take message of poverty in education
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00054/award-lets-writers-take-message-of-poverty-in-education.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/07/09/award-lets-writers-take-message-of-poverty-in-education/index.html
+layout: layout.njk
 ---
 Award lets writers take message of poverty in education
 =======================================================

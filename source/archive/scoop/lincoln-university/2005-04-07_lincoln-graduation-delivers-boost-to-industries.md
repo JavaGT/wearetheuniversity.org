@@ -1,9 +1,12 @@
 ---
 slug: lincoln-graduation-delivers-boost-to-industries
-title: "Lincoln graduation delivers boost to industries"
-date: 2005-04-07
-source-url: https://www.scoop.co.nz/stories/ED0504/S00017/lincoln-graduation-delivers-boost-to-industries.htm
+title: Lincoln graduation delivers boost to industries
+date: 2005-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00017/lincoln-graduation-delivers-boost-to-industries.htm
 author: lincoln-university
+permalink: /archive/2005/04/07/lincoln-graduation-delivers-boost-to-industries/index.html
+layout: layout.njk
 ---
 Lincoln graduation delivers boost to industries
 ===============================================

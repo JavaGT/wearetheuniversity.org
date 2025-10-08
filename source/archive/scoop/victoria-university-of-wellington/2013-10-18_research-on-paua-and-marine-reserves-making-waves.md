@@ -1,9 +1,13 @@
 ---
 slug: research-on-paua-and-marine-reserves-making-waves
-title: "Research on paua and marine reserves making waves"
-date: 2013-10-18
-source-url: https://www.scoop.co.nz/stories/SC1310/S00044/research-on-paua-and-marine-reserves-making-waves.htm
+title: Research on paua and marine reserves making waves
+date: 2013-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00044/research-on-paua-and-marine-reserves-making-waves.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/18/research-on-paua-and-marine-reserves-making-waves/index.html
+layout: layout.njk
 ---
 Research on paua and marine reserves making waves
 =================================================

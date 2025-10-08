@@ -1,9 +1,12 @@
 ---
 slug: labour-just-cant-get-ncea-right
-title: "Labour just can't get NCEA right"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/PA0607/S00225/labour-just-cant-get-ncea-right.htm
+title: Labour just can't get NCEA right
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00225/labour-just-cant-get-ncea-right.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/17/labour-just-cant-get-ncea-right/index.html
+layout: layout.njk
 ---
 Labour just can't get NCEA right
 ================================

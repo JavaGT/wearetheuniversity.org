@@ -1,9 +1,11 @@
 ---
 slug: wheres-roger-hiding
-title: "Where's Roger hiding?"
-date: 1999-07-23
+title: Where's Roger hiding?
+date: 1999-07-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9907/S00459/wheres-roger-hiding.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/23/wheres-roger-hiding/index.html
+layout: layout.njk
 ---
 Where's Roger hiding?
 =====================

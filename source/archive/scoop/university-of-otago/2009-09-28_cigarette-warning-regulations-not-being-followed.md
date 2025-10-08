@@ -1,9 +1,13 @@
 ---
 slug: cigarette-warning-regulations-not-being-followed
-title: "Cigarette warning regulations not being followed"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/PO0909/S00315/cigarette-warning-regulations-not-being-followed.htm
+title: Cigarette warning regulations not being followed
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0909/S00315/cigarette-warning-regulations-not-being-followed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2009/09/28/cigarette-warning-regulations-not-being-followed/index.html
+layout: layout.njk
 ---
 Cigarette warning regulations not being followed
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: consult-river-users-on-tainui-negotiations
-title: "Consult river users on Tainui negotiations"
-date: 2006-05-02
-source-url: https://www.scoop.co.nz/stories/PA0605/S00062/consult-river-users-on-tainui-negotiations.htm
+title: Consult river users on Tainui negotiations
+date: 2006-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00062/consult-river-users-on-tainui-negotiations.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/02/consult-river-users-on-tainui-negotiations/index.html
+layout: layout.njk
 ---
 Consult river users on Tainui negotiations
 ==========================================

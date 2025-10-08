@@ -1,9 +1,12 @@
 ---
 slug: labour-sets-new-exodus-record
-title: "Labour sets new exodus record"
-date: 2008-09-21
-source-url: https://www.scoop.co.nz/stories/PA0809/S00442/labour-sets-new-exodus-record.htm
+title: Labour sets new exodus record
+date: 2008-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00442/labour-sets-new-exodus-record.htm
 author: new-zealand-national-party
+permalink: /archive/2008/09/21/labour-sets-new-exodus-record/index.html
+layout: layout.njk
 ---
 Labour sets new exodus record
 =============================

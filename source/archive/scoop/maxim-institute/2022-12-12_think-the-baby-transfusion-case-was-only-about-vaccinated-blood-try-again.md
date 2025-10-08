@@ -1,9 +1,13 @@
 ---
 slug: think-the-baby-transfusion-case-was-only-about-vaccinated-blood-try-again
-title: "Think The Baby Transfusion Case Was Only About Vaccinated Blood? Try Again."
-date: 2022-12-12
-source-url: https://www.scoop.co.nz/stories/PO2212/S00084/think-the-baby-transfusion-case-was-only-about-vaccinated-blood-try-again.htm
+title: Think The Baby Transfusion Case Was Only About Vaccinated Blood? Try Again.
+date: 2022-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00084/think-the-baby-transfusion-case-was-only-about-vaccinated-blood-try-again.htm
 author: maxim-institute
+permalink: >-
+  /archive/2022/12/12/think-the-baby-transfusion-case-was-only-about-vaccinated-blood-try-again/index.html
+layout: layout.njk
 ---
 Think The Baby Transfusion Case Was Only About Vaccinated Blood? Try Again.
 ===========================================================================

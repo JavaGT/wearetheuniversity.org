@@ -1,8 +1,12 @@
 ---
 slug: new-operating-room-training-to-improve-communications
-title: "New operating room training to improve communications"
-date: 2016-10-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/new-operating-room-training-to-improve-communications.html
+title: New operating room training to improve communications
+date: 2016-10-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/new-operating-room-training-to-improve-communications.html
+permalink: >-
+  /archive/2016/10/14/new-operating-room-training-to-improve-communications/index.html
+layout: layout.njk
 ---
 New operating room training to improve communications
 =====================================================

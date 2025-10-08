@@ -1,9 +1,11 @@
 ---
 slug: brendan-horan-maiden-speech
-title: "Brendan Horan: Maiden Speech"
-date: 2012-02-08
+title: 'Brendan Horan: Maiden Speech'
+date: 2012-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SP1202/S00009/brendan-horan-maiden-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2012/02/08/brendan-horan-maiden-speech/index.html
+layout: layout.njk
 ---
 Brendan Horan: Maiden Speech
 ============================

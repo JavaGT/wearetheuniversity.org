@@ -1,9 +1,13 @@
 ---
 slug: stop-knocking-new-zealanders-employ-kiwis-not-cheap-labour
-title: "Stop Knocking New Zealanders, Employ Kiwis Not Cheap Labour"
-date: 2016-11-23
-source-url: https://www.scoop.co.nz/stories/PA1611/S00440/stop-knocking-new-zealanders-employ-kiwis-not-cheap-labour.htm
+title: Stop Knocking New Zealanders, Employ Kiwis Not Cheap Labour
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00440/stop-knocking-new-zealanders-employ-kiwis-not-cheap-labour.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/23/stop-knocking-new-zealanders-employ-kiwis-not-cheap-labour/index.html
+layout: layout.njk
 ---
 Stop Knocking New Zealanders, Employ Kiwis Not Cheap Labour
 ===========================================================

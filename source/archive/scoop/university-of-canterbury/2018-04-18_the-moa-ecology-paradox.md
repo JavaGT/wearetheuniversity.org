@@ -1,9 +1,11 @@
 ---
 slug: the-moa-ecology-paradox
-title: "The moa ecology paradox"
-date: 2018-04-18
+title: The moa ecology paradox
+date: 2018-04-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1804/S00019/the-moa-ecology-paradox.htm
 author: university-of-canterbury
+permalink: /archive/2018/04/18/the-moa-ecology-paradox/index.html
+layout: layout.njk
 ---
 The moa ecology paradox
 =======================

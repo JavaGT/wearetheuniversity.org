@@ -1,9 +1,12 @@
 ---
 slug: prestigious-award-for-uc-alumnus
-title: "Prestigious Award for UC Alumnus"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/ED0706/S00118/prestigious-award-for-uc-alumnus.htm
+title: Prestigious Award for UC Alumnus
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00118/prestigious-award-for-uc-alumnus.htm
 author: university-of-canterbury
+permalink: /archive/2007/06/29/prestigious-award-for-uc-alumnus/index.html
+layout: layout.njk
 ---
 Prestigious Award for UC Alumnus
 ================================

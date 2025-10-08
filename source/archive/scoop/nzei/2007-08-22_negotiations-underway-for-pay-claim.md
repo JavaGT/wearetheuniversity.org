@@ -1,9 +1,12 @@
 ---
 slug: negotiations-underway-for-pay-claim
-title: "Negotiations underway for pay claim"
-date: 2007-08-22
-source-url: https://www.scoop.co.nz/stories/ED0708/S00062/negotiations-underway-for-pay-claim.htm
+title: Negotiations underway for pay claim
+date: 2007-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00062/negotiations-underway-for-pay-claim.htm
 author: nzei
+permalink: /archive/2007/08/22/negotiations-underway-for-pay-claim/index.html
+layout: layout.njk
 ---
 Negotiations underway for pay claim
 ===================================

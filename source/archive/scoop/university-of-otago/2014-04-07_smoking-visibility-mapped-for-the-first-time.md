@@ -1,9 +1,12 @@
 ---
 slug: smoking-visibility-mapped-for-the-first-time
-title: "Smoking visibility mapped for the first time"
-date: 2014-04-07
-source-url: https://www.scoop.co.nz/stories/SC1404/S00030/smoking-visibility-mapped-for-the-first-time.htm
+title: Smoking visibility mapped for the first time
+date: 2014-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00030/smoking-visibility-mapped-for-the-first-time.htm
 author: university-of-otago
+permalink: /archive/2014/04/07/smoking-visibility-mapped-for-the-first-time/index.html
+layout: layout.njk
 ---
 Smoking visibility mapped for the first time
 ============================================

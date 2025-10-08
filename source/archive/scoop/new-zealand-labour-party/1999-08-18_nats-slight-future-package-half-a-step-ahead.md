@@ -1,9 +1,12 @@
 ---
 slug: nats-slight-future-package-half-a-step-ahead
-title: "Nats' Slight Future package: half a step ahead"
-date: 1999-08-18
-source-url: https://www.scoop.co.nz/stories/PA9908/S00310/nats-slight-future-package-half-a-step-ahead.htm
+title: 'Nats'' Slight Future package: half a step ahead'
+date: 1999-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00310/nats-slight-future-package-half-a-step-ahead.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/18/nats-slight-future-package-half-a-step-ahead/index.html
+layout: layout.njk
 ---
 Nats' Slight Future package: half a step ahead
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: code-of-practice-needed-for-workplace-bullying
-title: "Code of practice needed for workplace bullying"
-date: 2012-08-24
-source-url: https://www.scoop.co.nz/stories/PO1208/S00372/code-of-practice-needed-for-workplace-bullying.htm
+title: Code of practice needed for workplace bullying
+date: 2012-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00372/code-of-practice-needed-for-workplace-bullying.htm
 author: massey-university
+permalink: /archive/2012/08/24/code-of-practice-needed-for-workplace-bullying/index.html
+layout: layout.njk
 ---
 Code of practice needed for workplace bullying
 ==============================================

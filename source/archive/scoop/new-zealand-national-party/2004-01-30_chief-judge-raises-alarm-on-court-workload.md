@@ -1,9 +1,12 @@
 ---
 slug: chief-judge-raises-alarm-on-court-workload
-title: "Chief Judge raises alarm on court workload"
-date: 2004-01-30
-source-url: https://www.scoop.co.nz/stories/PA0401/S00282/chief-judge-raises-alarm-on-court-workload.htm
+title: Chief Judge raises alarm on court workload
+date: 2004-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00282/chief-judge-raises-alarm-on-court-workload.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/30/chief-judge-raises-alarm-on-court-workload/index.html
+layout: layout.njk
 ---
 Chief Judge raises alarm on court workload
 ==========================================

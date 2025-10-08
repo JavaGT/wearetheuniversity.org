@@ -1,9 +1,12 @@
 ---
 slug: massey-researchers-study-impact-of-living-wage
-title: "Massey researchers study impact of living wage"
-date: 2013-11-14
-source-url: https://www.scoop.co.nz/stories/PO1311/S00175/massey-researchers-study-impact-of-living-wage.htm
+title: Massey researchers study impact of living wage
+date: 2013-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1311/S00175/massey-researchers-study-impact-of-living-wage.htm
 author: massey-university
+permalink: /archive/2013/11/14/massey-researchers-study-impact-of-living-wage/index.html
+layout: layout.njk
 ---
 Massey researchers study impact of living wage
 ==============================================

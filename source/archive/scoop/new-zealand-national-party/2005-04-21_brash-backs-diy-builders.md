@@ -1,9 +1,11 @@
 ---
 slug: brash-backs-diy-builders
-title: "Brash backs DIY builders"
-date: 2005-04-21
+title: Brash backs DIY builders
+date: 2005-04-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0504/S00465/brash-backs-diy-builders.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/21/brash-backs-diy-builders/index.html
+layout: layout.njk
 ---
 Brash backs DIY builders
 ========================

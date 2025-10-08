@@ -1,9 +1,12 @@
 ---
 slug: arresting-at-customs-is-an-extreme-measure
-title: "Arresting at customs is an extreme measure"
-date: 2016-01-22
-source-url: https://www.scoop.co.nz/stories/PO1601/S00128/arresting-at-customs-is-an-extreme-measure.htm
+title: Arresting at customs is an extreme measure
+date: 2016-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1601/S00128/arresting-at-customs-is-an-extreme-measure.htm
 author: vuwsa
+permalink: /archive/2016/01/22/arresting-at-customs-is-an-extreme-measure/index.html
+layout: layout.njk
 ---
 Arresting at customs is an extreme measure
 ==========================================

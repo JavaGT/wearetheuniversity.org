@@ -1,9 +1,12 @@
 ---
 slug: road-safety-bear-gets-phone-app
-title: "Road safety bear gets phone app"
-date: 2012-11-19
-source-url: https://www.scoop.co.nz/stories/SC1211/S00047/road-safety-bear-gets-phone-app.htm
+title: Road safety bear gets phone app
+date: 2012-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00047/road-safety-bear-gets-phone-app.htm
 author: university-of-waikato
+permalink: /archive/2012/11/19/road-safety-bear-gets-phone-app/index.html
+layout: layout.njk
 ---
 Road safety bear gets phone app
 ===============================

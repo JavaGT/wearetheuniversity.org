@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-universities-tumble-down-world-rankings
-title: "New Zealand Universities Tumble Down World Rankings"
-date: 2014-10-02
-source-url: https://www.scoop.co.nz/stories/ED1410/S00023/new-zealand-universities-tumble-down-world-rankings.htm
+title: New Zealand Universities Tumble Down World Rankings
+date: 2014-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00023/new-zealand-universities-tumble-down-world-rankings.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2014/10/02/new-zealand-universities-tumble-down-world-rankings/index.html
+layout: layout.njk
 ---
 New Zealand Universities Tumble Down World Rankings
 ===================================================

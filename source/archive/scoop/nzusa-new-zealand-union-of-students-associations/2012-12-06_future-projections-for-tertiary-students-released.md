@@ -1,9 +1,13 @@
 ---
 slug: future-projections-for-tertiary-students-released
-title: "Future projections for tertiary students released"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/ED1212/S00040/future-projections-for-tertiary-students-released.htm
+title: Future projections for tertiary students released
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00040/future-projections-for-tertiary-students-released.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/12/06/future-projections-for-tertiary-students-released/index.html
+layout: layout.njk
 ---
 Future projections for tertiary students released
 =================================================

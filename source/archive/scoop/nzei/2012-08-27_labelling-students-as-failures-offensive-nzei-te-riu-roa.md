@@ -1,9 +1,13 @@
 ---
 slug: labelling-students-as-failures-offensive-nzei-te-riu-roa
-title: "Labelling students as failures \"offensive\" - NZEI Te Riu Roa"
-date: 2012-08-27
-source-url: https://www.scoop.co.nz/stories/ED1208/S00147/labelling-students-as-failures-offensive-nzei-te-riu-roa.htm
+title: Labelling students as failures "offensive" - NZEI Te Riu Roa
+date: 2012-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00147/labelling-students-as-failures-offensive-nzei-te-riu-roa.htm
 author: nzei
+permalink: >-
+  /archive/2012/08/27/labelling-students-as-failures-offensive-nzei-te-riu-roa/index.html
+layout: layout.njk
 ---
 Labelling students as failures “offensive” - NZEI Te Riu Roa
 ============================================================

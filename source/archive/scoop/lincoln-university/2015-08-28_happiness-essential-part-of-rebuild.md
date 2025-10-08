@@ -1,9 +1,12 @@
 ---
 slug: happiness-essential-part-of-rebuild
-title: "Happiness essential part of rebuild"
-date: 2015-08-28
-source-url: https://www.scoop.co.nz/stories/AK1508/S00570/happiness-essential-part-of-rebuild.htm
+title: Happiness essential part of rebuild
+date: 2015-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1508/S00570/happiness-essential-part-of-rebuild.htm
 author: lincoln-university
+permalink: /archive/2015/08/28/happiness-essential-part-of-rebuild/index.html
+layout: layout.njk
 ---
 Happiness essential part of rebuild
 ===================================

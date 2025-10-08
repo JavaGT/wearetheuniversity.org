@@ -1,9 +1,13 @@
 ---
 slug: condemning-zionism-and-the-state-of-israel-for-ongoing-genocide
-title: "Condemning Zionism And The State Of Israel For Ongoing Genocide"
-date: 2024-05-16
-source-url: https://www.scoop.co.nz/stories/AK2405/S00549/condemning-zionism-and-the-state-of-israel-for-ongoing-genocide.htm
+title: Condemning Zionism And The State Of Israel For Ongoing Genocide
+date: 2024-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2405/S00549/condemning-zionism-and-the-state-of-israel-for-ongoing-genocide.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2024/05/16/condemning-zionism-and-the-state-of-israel-for-ongoing-genocide/index.html
+layout: layout.njk
 ---
 Condemning Zionism And The State Of Israel For Ongoing Genocide
 ===============================================================

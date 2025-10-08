@@ -1,9 +1,13 @@
 ---
 slug: fees-free-policy-will-widen-educational-inequality
-title: "Fees-Free Policy Will Widen Educational Inequality"
-date: 2017-12-05
-source-url: https://www.scoop.co.nz/stories/ED1712/S00014/fees-free-policy-will-widen-educational-inequality.htm
+title: Fees-Free Policy Will Widen Educational Inequality
+date: 2017-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1712/S00014/fees-free-policy-will-widen-educational-inequality.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2017/12/05/fees-free-policy-will-widen-educational-inequality/index.html
+layout: layout.njk
 ---
 Fees-Free Policy Will Widen Educational Inequality
 ==================================================

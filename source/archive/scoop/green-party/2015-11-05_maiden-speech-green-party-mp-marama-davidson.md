@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-green-party-mp-marama-davidson
-title: "Maiden Speech – Green Party MP Marama Davidson"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/PA1511/S00078/maiden-speech-green-party-mp-marama-davidson.htm
+title: Maiden Speech – Green Party MP Marama Davidson
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00078/maiden-speech-green-party-mp-marama-davidson.htm
 author: green-party
+permalink: /archive/2015/11/05/maiden-speech-green-party-mp-marama-davidson/index.html
+layout: layout.njk
 ---
 Maiden Speech – Green Party MP Marama Davidson
 ==============================================

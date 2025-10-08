@@ -1,9 +1,11 @@
 ---
 slug: lincoln-legacy-hat-trick
-title: "Lincoln legacy hat trick"
-date: 2016-04-08
+title: Lincoln legacy hat trick
+date: 2016-04-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1604/S00026/lincoln-legacy-hat-trick.htm
 author: lincoln-university
+permalink: /archive/2016/04/08/lincoln-legacy-hat-trick/index.html
+layout: layout.njk
 ---
 Lincoln legacy hat trick
 ========================

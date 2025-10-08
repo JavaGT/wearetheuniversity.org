@@ -1,9 +1,12 @@
 ---
 slug: more-low-skilled-students-becoming-residents
-title: "More low-skilled students becoming residents"
-date: 2016-09-18
-source-url: https://www.scoop.co.nz/stories/PA1609/S00316/more-low-skilled-students-becoming-residents.htm
+title: More low-skilled students becoming residents
+date: 2016-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00316/more-low-skilled-students-becoming-residents.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/18/more-low-skilled-students-becoming-residents/index.html
+layout: layout.njk
 ---
 More low-skilled students becoming residents
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: language-specialist-appointed-assistant-v-c
-title: "Language specialist appointed Assistant V-C"
-date: 2006-11-07
-source-url: https://www.scoop.co.nz/stories/ED0611/S00025/language-specialist-appointed-assistant-v-c.htm
+title: Language specialist appointed Assistant V-C
+date: 2006-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00025/language-specialist-appointed-assistant-v-c.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/07/language-specialist-appointed-assistant-v-c/index.html
+layout: layout.njk
 ---
 Language specialist appointed Assistant V-C
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: emergency-housing-costing-taxpayers-$1m-a-day
-title: "Emergency Housing Costing Taxpayers $1m A Day"
-date: 2021-03-09
-source-url: https://www.scoop.co.nz/stories/PA2103/S00050/emergency-housing-costing-taxpayers-1m-a-day.htm
+title: Emergency Housing Costing Taxpayers $1m A Day
+date: 2021-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00050/emergency-housing-costing-taxpayers-1m-a-day.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/09/emergency-housing-costing-taxpayers-/index.html
+layout: layout.njk
 ---
 Emergency Housing Costing Taxpayers $1m A Day
 =============================================

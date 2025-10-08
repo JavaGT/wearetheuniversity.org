@@ -1,9 +1,12 @@
 ---
 slug: exciting-prospects-ahead-for-lincoln
-title: "Exciting prospects ahead for Lincoln"
-date: 2016-04-12
-source-url: https://www.scoop.co.nz/stories/ED1604/S00033/exciting-prospects-ahead-for-lincoln.htm
+title: Exciting prospects ahead for Lincoln
+date: 2016-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00033/exciting-prospects-ahead-for-lincoln.htm
 author: lincoln-university
+permalink: /archive/2016/04/12/exciting-prospects-ahead-for-lincoln/index.html
+layout: layout.njk
 ---
 Exciting prospects ahead for Lincoln
 ====================================

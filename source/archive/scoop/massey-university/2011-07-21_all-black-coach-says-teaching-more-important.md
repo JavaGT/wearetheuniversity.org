@@ -1,9 +1,12 @@
 ---
 slug: all-black-coach-says-teaching-more-important
-title: "All Black coach says teaching more important"
-date: 2011-07-21
-source-url: https://www.scoop.co.nz/stories/ED1107/S00093/all-black-coach-says-teaching-more-important.htm
+title: All Black coach says teaching more important
+date: 2011-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00093/all-black-coach-says-teaching-more-important.htm
 author: massey-university
+permalink: /archive/2011/07/21/all-black-coach-says-teaching-more-important/index.html
+layout: layout.njk
 ---
 All Black coach says teaching more important
 ============================================

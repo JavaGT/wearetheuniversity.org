@@ -1,9 +1,11 @@
 ---
 slug: pathways-to-public-health
-title: "Pathways to public health"
-date: 2016-09-26
+title: Pathways to public health
+date: 2016-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE1609/S00142/pathways-to-public-health.htm
 author: massey-university
+permalink: /archive/2016/09/26/pathways-to-public-health/index.html
+layout: layout.njk
 ---
 Pathways to public health
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: canterbury-celebrates-world-year-of-physics
-title: "Canterbury celebrates World Year of Physics"
-date: 2005-01-17
-source-url: https://www.scoop.co.nz/stories/ED0501/S00027/canterbury-celebrates-world-year-of-physics.htm
+title: Canterbury celebrates World Year of Physics
+date: 2005-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00027/canterbury-celebrates-world-year-of-physics.htm
 author: university-of-canterbury
+permalink: /archive/2005/01/17/canterbury-celebrates-world-year-of-physics/index.html
+layout: layout.njk
 ---
 Canterbury celebrates World Year of Physics
 ===========================================

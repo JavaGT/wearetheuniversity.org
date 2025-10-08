@@ -1,9 +1,12 @@
 ---
 slug: fire-hide-and-help-keep-kiwis-in-jobs
-title: "Fire Hide and help keep Kiwis in jobs"
-date: 2009-11-05
-source-url: https://www.scoop.co.nz/stories/PA0911/S00064/fire-hide-and-help-keep-kiwis-in-jobs.htm
+title: Fire Hide and help keep Kiwis in jobs
+date: 2009-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00064/fire-hide-and-help-keep-kiwis-in-jobs.htm
 author: green-party
+permalink: /archive/2009/11/05/fire-hide-and-help-keep-kiwis-in-jobs/index.html
+layout: layout.njk
 ---
 Fire Hide and help keep Kiwis in jobs
 =====================================

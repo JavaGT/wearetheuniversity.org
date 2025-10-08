@@ -1,9 +1,12 @@
 ---
 slug: young-hamilton-musician-gets-head-start-at-uni
-title: "Young Hamilton musician gets head-start at uni"
-date: 2016-04-04
-source-url: https://www.scoop.co.nz/stories/AK1604/S00058/young-hamilton-musician-gets-head-start-at-uni.htm
+title: Young Hamilton musician gets head-start at uni
+date: 2016-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1604/S00058/young-hamilton-musician-gets-head-start-at-uni.htm
 author: university-of-waikato
+permalink: /archive/2016/04/04/young-hamilton-musician-gets-head-start-at-uni/index.html
+layout: layout.njk
 ---
 Young Hamilton musician gets head-start at uni
 ==============================================

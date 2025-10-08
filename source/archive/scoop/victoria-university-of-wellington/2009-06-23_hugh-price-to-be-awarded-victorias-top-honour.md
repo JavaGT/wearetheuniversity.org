@@ -1,9 +1,12 @@
 ---
 slug: hugh-price-to-be-awarded-victorias-top-honour
-title: "Hugh Price to be awarded Victoria’s top honour"
-date: 2009-06-23
-source-url: https://www.scoop.co.nz/stories/ED0906/S00065/hugh-price-to-be-awarded-victorias-top-honour.htm
+title: Hugh Price to be awarded Victoria’s top honour
+date: 2009-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0906/S00065/hugh-price-to-be-awarded-victorias-top-honour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/06/23/hugh-price-to-be-awarded-victorias-top-honour/index.html
+layout: layout.njk
 ---
 Hugh Price to be awarded Victoria’s top honour
 ==============================================

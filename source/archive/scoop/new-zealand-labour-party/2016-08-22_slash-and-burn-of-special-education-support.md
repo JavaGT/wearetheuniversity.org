@@ -1,9 +1,12 @@
 ---
 slug: slash-and-burn-of-special-education-support
-title: "Slash and burn of special education support"
-date: 2016-08-22
-source-url: https://www.scoop.co.nz/stories/PA1608/S00379/slash-and-burn-of-special-education-support.htm
+title: Slash and burn of special education support
+date: 2016-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00379/slash-and-burn-of-special-education-support.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/08/22/slash-and-burn-of-special-education-support/index.html
+layout: layout.njk
 ---
 Slash and burn of special education support
 ===========================================

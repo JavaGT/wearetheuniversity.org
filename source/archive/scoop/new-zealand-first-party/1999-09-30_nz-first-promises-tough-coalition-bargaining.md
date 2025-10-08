@@ -1,9 +1,12 @@
 ---
 slug: nz-first-promises-tough-coalition-bargaining
-title: "NZ First Promises Tough Coalition Bargaining"
-date: 1999-09-30
-source-url: https://www.scoop.co.nz/stories/PA9909/S00675/nz-first-promises-tough-coalition-bargaining.htm
+title: NZ First Promises Tough Coalition Bargaining
+date: 1999-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00675/nz-first-promises-tough-coalition-bargaining.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/30/nz-first-promises-tough-coalition-bargaining/index.html
+layout: layout.njk
 ---
 NZ First Promises Tough Coalition Bargaining
 ============================================

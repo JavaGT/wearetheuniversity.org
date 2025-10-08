@@ -1,9 +1,12 @@
 ---
 slug: should-nz-taxpayers-fund-aussie-investment
-title: "Should NZ taxpayers fund Aussie investment?"
-date: 2003-06-04
-source-url: https://www.scoop.co.nz/stories/PA0306/S00026/should-nz-taxpayers-fund-aussie-investment.htm
+title: Should NZ taxpayers fund Aussie investment?
+date: 2003-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00026/should-nz-taxpayers-fund-aussie-investment.htm
 author: new-zealand-national-party
+permalink: /archive/2003/06/04/should-nz-taxpayers-fund-aussie-investment/index.html
+layout: layout.njk
 ---
 Should NZ taxpayers fund Aussie investment?
 ===========================================

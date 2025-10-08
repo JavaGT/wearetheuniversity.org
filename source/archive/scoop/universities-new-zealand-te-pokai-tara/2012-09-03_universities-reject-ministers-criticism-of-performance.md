@@ -1,9 +1,13 @@
 ---
 slug: universities-reject-ministers-criticism-of-performance
-title: "Universities reject Minister’s criticism of performance"
-date: 2012-09-03
-source-url: https://www.scoop.co.nz/stories/ED1209/S00005/universities-reject-ministers-criticism-of-performance.htm
+title: Universities reject Minister’s criticism of performance
+date: 2012-09-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00005/universities-reject-ministers-criticism-of-performance.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/09/03/universities-reject-ministers-criticism-of-performance/index.html
+layout: layout.njk
 ---
 Universities reject Minister’s criticism of performance
 =======================================================

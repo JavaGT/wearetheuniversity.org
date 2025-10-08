@@ -1,9 +1,13 @@
 ---
 slug: voices-of-the-future-an-incredible-experience-say-alumni-organisers
-title: "Voices Of The Future An Incredible Experience, Say Alumni Organisers"
-date: 2021-10-21
-source-url: https://www.scoop.co.nz/stories/PO2110/S00200/voices-of-the-future-an-incredible-experience-say-alumni-organisers.htm
+title: Voices Of The Future An Incredible Experience, Say Alumni Organisers
+date: 2021-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2110/S00200/voices-of-the-future-an-incredible-experience-say-alumni-organisers.htm
 author: aut-university
+permalink: >-
+  /archive/2021/10/21/voices-of-the-future-an-incredible-experience-say-alumni-organisers/index.html
+layout: layout.njk
 ---
 Voices Of The Future An Incredible Experience, Say Alumni Organisers
 ====================================================================

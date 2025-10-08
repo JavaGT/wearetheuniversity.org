@@ -1,9 +1,12 @@
 ---
 slug: link-between-iron-and-vitamin-d-deficiency
-title: "Link between iron and vitamin D deficiency?"
-date: 2018-10-10
-source-url: https://www.scoop.co.nz/stories/SC1810/S00041/link-between-iron-and-vitamin-d-deficiency.htm
+title: Link between iron and vitamin D deficiency?
+date: 2018-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1810/S00041/link-between-iron-and-vitamin-d-deficiency.htm
 author: massey-university
+permalink: /archive/2018/10/10/link-between-iron-and-vitamin-d-deficiency/index.html
+layout: layout.njk
 ---
 Link between iron and vitamin D deficiency?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: locke-rebuts-peters-accusations
-title: "Locke rebuts Peters' accusations"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/PA0701/S00211/locke-rebuts-peters-accusations.htm
+title: Locke rebuts Peters' accusations
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0701/S00211/locke-rebuts-peters-accusations.htm
 author: green-party
+permalink: /archive/2007/01/31/locke-rebuts-peters-accusations/index.html
+layout: layout.njk
 ---
 Locke rebuts Peters' accusations
 ================================

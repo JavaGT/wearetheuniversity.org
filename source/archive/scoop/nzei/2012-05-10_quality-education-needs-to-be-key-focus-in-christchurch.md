@@ -1,9 +1,13 @@
 ---
 slug: quality-education-needs-to-be-key-focus-in-christchurch
-title: "Quality Education needs to be key focus in Christchurch"
-date: 2012-05-10
-source-url: https://www.scoop.co.nz/stories/ED1205/S00047/quality-education-needs-to-be-key-focus-in-christchurch.htm
+title: Quality Education needs to be key focus in Christchurch
+date: 2012-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00047/quality-education-needs-to-be-key-focus-in-christchurch.htm
 author: nzei
+permalink: >-
+  /archive/2012/05/10/quality-education-needs-to-be-key-focus-in-christchurch/index.html
+layout: layout.njk
 ---
 Quality Education needs to be key focus in Christchurch
 =======================================================

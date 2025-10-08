@@ -1,9 +1,13 @@
 ---
 slug: the-minister-was-right-we-need-cultural-competency
-title: "The Minister Was Right: We Need Cultural Competency"
-date: 2012-10-05
-source-url: https://www.scoop.co.nz/stories/PA1210/S00110/the-minister-was-right-we-need-cultural-competency.htm
+title: 'The Minister Was Right: We Need Cultural Competency'
+date: 2012-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00110/the-minister-was-right-we-need-cultural-competency.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/10/05/the-minister-was-right-we-need-cultural-competency/index.html
+layout: layout.njk
 ---
 The Minister Was Right: We Need Cultural Competency
 ===================================================

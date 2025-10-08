@@ -1,9 +1,12 @@
 ---
 slug: immigration-changes-wrong-for-queenstown
-title: "Immigration Changes Wrong For Queenstown"
-date: 2007-11-06
-source-url: https://www.scoop.co.nz/stories/PA0711/S00066/immigration-changes-wrong-for-queenstown.htm
+title: Immigration Changes Wrong For Queenstown
+date: 2007-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00066/immigration-changes-wrong-for-queenstown.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/06/immigration-changes-wrong-for-queenstown/index.html
+layout: layout.njk
 ---
 Immigration Changes Wrong For Queenstown
 ========================================

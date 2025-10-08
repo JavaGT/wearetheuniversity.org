@@ -1,9 +1,13 @@
 ---
 slug: freeze-property-sales-to-foreign-buyers-urges-peters
-title: "Freeze Property Sales to Foreign Buyers Urges Peters"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/PA1307/S00404/freeze-property-sales-to-foreign-buyers-urges-peters.htm
+title: Freeze Property Sales to Foreign Buyers Urges Peters
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00404/freeze-property-sales-to-foreign-buyers-urges-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2013/07/29/freeze-property-sales-to-foreign-buyers-urges-peters/index.html
+layout: layout.njk
 ---
 Freeze Property Sales to Foreign Buyers Urges Peters
 ====================================================

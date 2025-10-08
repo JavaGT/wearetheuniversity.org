@@ -1,9 +1,12 @@
 ---
 slug: no-such-thing-as-a-win-win-negotiation
-title: "No such thing as a 'win-win' negotiation"
-date: 2000-08-16
-source-url: https://www.scoop.co.nz/stories/BU0008/S00112/no-such-thing-as-a-win-win-negotiation.htm
+title: No such thing as a 'win-win' negotiation
+date: 2000-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0008/S00112/no-such-thing-as-a-win-win-negotiation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/08/16/no-such-thing-as-a-win-win-negotiation/index.html
+layout: layout.njk
 ---
 No such thing as a 'win-win' negotiation
 ========================================

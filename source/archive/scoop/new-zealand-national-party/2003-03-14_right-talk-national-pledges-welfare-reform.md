@@ -1,9 +1,12 @@
 ---
 slug: right-talk-national-pledges-welfare-reform
-title: "Right Talk: National Pledges Welfare Reform"
-date: 2003-03-14
-source-url: https://www.scoop.co.nz/stories/PA0303/S00262/right-talk-national-pledges-welfare-reform.htm
+title: 'Right Talk: National Pledges Welfare Reform'
+date: 2003-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00262/right-talk-national-pledges-welfare-reform.htm
 author: new-zealand-national-party
+permalink: /archive/2003/03/14/right-talk-national-pledges-welfare-reform/index.html
+layout: layout.njk
 ---
 Right Talk: National Pledges Welfare Reform
 ===========================================

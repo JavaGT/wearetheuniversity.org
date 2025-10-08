@@ -1,9 +1,12 @@
 ---
 slug: marketing-20-hours-free-is-misleading
-title: "Marketing ‘20 hours free’ is misleading"
-date: 2007-03-12
-source-url: https://www.scoop.co.nz/stories/PA0703/S00208/marketing-20-hours-free-is-misleading.htm
+title: Marketing ‘20 hours free’ is misleading
+date: 2007-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00208/marketing-20-hours-free-is-misleading.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/12/marketing-20-hours-free-is-misleading/index.html
+layout: layout.njk
 ---
 Marketing ‘20 hours free’ is misleading
 =======================================

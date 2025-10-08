@@ -1,9 +1,13 @@
 ---
 slug: greens-say-nz-importing-glow-in-the-dark-ge-mice
-title: "Greens Say NZ Importing Glow-In-The-Dark GE Mice"
-date: 1999-09-20
-source-url: https://www.scoop.co.nz/stories/PA9909/S00387/greens-say-nz-importing-glow-in-the-dark-ge-mice.htm
+title: Greens Say NZ Importing Glow-In-The-Dark GE Mice
+date: 1999-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00387/greens-say-nz-importing-glow-in-the-dark-ge-mice.htm
 author: green-party
+permalink: >-
+  /archive/1999/09/20/greens-say-nz-importing-glow-in-the-dark-ge-mice/index.html
+layout: layout.njk
 ---
 Greens Say NZ Importing Glow-In-The-Dark GE Mice
 ================================================

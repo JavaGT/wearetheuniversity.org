@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-health-and-safety-in-employment-legislation
-title: "UC research into health and safety in employment legislation"
-date: 2012-11-26
-source-url: https://www.scoop.co.nz/stories/PO1211/S00363/uc-research-into-health-and-safety-in-employment-legislation.htm
+title: UC research into health and safety in employment legislation
+date: 2012-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1211/S00363/uc-research-into-health-and-safety-in-employment-legislation.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/26/uc-research-into-health-and-safety-in-employment-legislation/index.html
+layout: layout.njk
 ---
 UC research into health and safety in employment legislation
 ============================================================

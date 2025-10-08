@@ -1,9 +1,13 @@
 ---
 slug: lolly-scramble-budget-with-no-strategic-direction
-title: "Lolly-scramble Budget with no strategic direction"
-date: 2000-06-15
-source-url: https://www.scoop.co.nz/stories/PA0006/S00297/lolly-scramble-budget-with-no-strategic-direction.htm
+title: Lolly-scramble Budget with no strategic direction
+date: 2000-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0006/S00297/lolly-scramble-budget-with-no-strategic-direction.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2000/06/15/lolly-scramble-budget-with-no-strategic-direction/index.html
+layout: layout.njk
 ---
 Lolly-scramble Budget with no strategic direction
 =================================================

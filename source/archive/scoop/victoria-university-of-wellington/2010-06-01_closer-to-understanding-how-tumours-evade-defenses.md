@@ -1,9 +1,13 @@
 ---
 slug: closer-to-understanding-how-tumours-evade-defenses
-title: "Closer to understanding how tumours evade defenses"
-date: 2010-06-01
-source-url: https://www.scoop.co.nz/stories/SC1006/S00002/closer-to-understanding-how-tumours-evade-defenses.htm
+title: Closer to understanding how tumours evade defenses
+date: 2010-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1006/S00002/closer-to-understanding-how-tumours-evade-defenses.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2010/06/01/closer-to-understanding-how-tumours-evade-defenses/index.html
+layout: layout.njk
 ---
 Closer to understanding how tumours evade defenses
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: sharples-2009-innovation-icons-evening
-title: "Sharples: 2009 Innovation Icons Evening"
-date: 2009-07-06
-source-url: https://www.scoop.co.nz/stories/PA0907/S00089/sharples-2009-innovation-icons-evening.htm
+title: 'Sharples: 2009 Innovation Icons Evening'
+date: 2009-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00089/sharples-2009-innovation-icons-evening.htm
 author: te-pati-maori
+permalink: /archive/2009/07/06/sharples-2009-innovation-icons-evening/index.html
+layout: layout.njk
 ---
 Sharples: 2009 Innovation Icons Evening
 =======================================

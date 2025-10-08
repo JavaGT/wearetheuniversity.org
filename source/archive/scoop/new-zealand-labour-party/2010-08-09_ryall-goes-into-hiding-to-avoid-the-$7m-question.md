@@ -1,9 +1,12 @@
 ---
 slug: ryall-goes-into-hiding-to-avoid-the-$7m-question
-title: "Ryall goes into hiding to avoid the $7m question"
-date: 2010-08-09
-source-url: https://www.scoop.co.nz/stories/PA1008/S00145/ryall-goes-into-hiding-to-avoid-the-7m-question.htm
+title: Ryall goes into hiding to avoid the $7m question
+date: 2010-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00145/ryall-goes-into-hiding-to-avoid-the-7m-question.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/09/ryall-goes-into-hiding-to-avoid-the-/index.html
+layout: layout.njk
 ---
 Ryall goes into hiding to avoid the $7m question
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-study-aims-to-improve-symptoms-of-depression-and-anxiety
-title: "UC study aims to improve symptoms of depression and anxiety"
-date: 2017-07-19
-source-url: https://www.scoop.co.nz/stories/GE1707/S00046/uc-study-aims-to-improve-symptoms-of-depression-and-anxiety.htm
+title: UC study aims to improve symptoms of depression and anxiety
+date: 2017-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1707/S00046/uc-study-aims-to-improve-symptoms-of-depression-and-anxiety.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/07/19/uc-study-aims-to-improve-symptoms-of-depression-and-anxiety/index.html
+layout: layout.njk
 ---
 UC study aims to improve symptoms of depression and anxiety
 ===========================================================

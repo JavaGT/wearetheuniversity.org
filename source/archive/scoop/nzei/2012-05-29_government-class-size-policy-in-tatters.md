@@ -1,9 +1,12 @@
 ---
 slug: government-class-size-policy-in-tatters
-title: "Government Class Size Policy in Tatters"
-date: 2012-05-29
-source-url: https://www.scoop.co.nz/stories/PO1205/S00482/government-class-size-policy-in-tatters.htm
+title: Government Class Size Policy in Tatters
+date: 2012-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00482/government-class-size-policy-in-tatters.htm
 author: nzei
+permalink: /archive/2012/05/29/government-class-size-policy-in-tatters/index.html
+layout: layout.njk
 ---
 Government Class Size Policy in Tatters
 =======================================

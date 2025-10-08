@@ -1,9 +1,12 @@
 ---
 slug: ncea-fails-homeschooled-students
-title: "NCEA fails homeschooled students"
-date: 2005-02-21
-source-url: https://www.scoop.co.nz/stories/PA0502/S00453/ncea-fails-homeschooled-students.htm
+title: NCEA fails homeschooled students
+date: 2005-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00453/ncea-fails-homeschooled-students.htm
 author: act-new-zealand
+permalink: /archive/2005/02/21/ncea-fails-homeschooled-students/index.html
+layout: layout.njk
 ---
 NCEA fails homeschooled students
 ================================

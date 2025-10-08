@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-22-september-2006
-title: "www.mccully.co.nz - 22 September 2006"
-date: 2006-09-22
-source-url: https://www.scoop.co.nz/stories/PA0609/S00483/wwwmccullyconz-22-september-2006.htm
+title: www.mccully.co.nz - 22 September 2006
+date: 2006-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00483/wwwmccullyconz-22-september-2006.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/22/www-mccully-co-nz-22-september-2006/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz - 22 September 2006
 =====================================

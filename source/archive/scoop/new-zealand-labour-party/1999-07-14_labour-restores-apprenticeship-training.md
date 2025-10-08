@@ -1,9 +1,12 @@
 ---
 slug: labour-restores-apprenticeship-training
-title: "Labour restores apprenticeship training"
-date: 1999-07-14
-source-url: https://www.scoop.co.nz/stories/PA9907/S00220/labour-restores-apprenticeship-training.htm
+title: Labour restores apprenticeship training
+date: 1999-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00220/labour-restores-apprenticeship-training.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/07/14/labour-restores-apprenticeship-training/index.html
+layout: layout.njk
 ---
 Labour restores apprenticeship training
 =======================================

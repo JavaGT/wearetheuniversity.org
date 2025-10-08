@@ -1,9 +1,12 @@
 ---
 slug: improving-the-labelling-of-food-for-health
-title: "Improving the labelling of food for health"
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/GE1204/S00077/improving-the-labelling-of-food-for-health.htm
+title: Improving the labelling of food for health
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1204/S00077/improving-the-labelling-of-food-for-health.htm
 author: university-of-otago
+permalink: /archive/2012/04/20/improving-the-labelling-of-food-for-health/index.html
+layout: layout.njk
 ---
 Improving the labelling of food for health
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-says-time-to-review-vehicle-testing-governance
-title: "UC Researcher Says Time To Review Vehicle Testing Governance"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/ED1302/S00014/uc-researcher-says-time-to-review-vehicle-testing-governance.htm
+title: UC Researcher Says Time To Review Vehicle Testing Governance
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00014/uc-researcher-says-time-to-review-vehicle-testing-governance.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/02/05/uc-researcher-says-time-to-review-vehicle-testing-governance/index.html
+layout: layout.njk
 ---
 UC Researcher Says Time To Review Vehicle Testing Governance
 ============================================================

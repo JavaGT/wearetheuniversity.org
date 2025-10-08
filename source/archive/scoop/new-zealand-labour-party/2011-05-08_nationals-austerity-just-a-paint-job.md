@@ -1,9 +1,12 @@
 ---
 slug: nationals-austerity-just-a-paint-job
-title: "National’s austerity just a ‘paint job’"
-date: 2011-05-08
-source-url: https://www.scoop.co.nz/stories/PA1105/S00157/nationals-austerity-just-a-paint-job.htm
+title: National’s austerity just a ‘paint job’
+date: 2011-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00157/nationals-austerity-just-a-paint-job.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/05/08/nationals-austerity-just-a-paint-job/index.html
+layout: layout.njk
 ---
 National’s austerity just a ‘paint job’
 =======================================

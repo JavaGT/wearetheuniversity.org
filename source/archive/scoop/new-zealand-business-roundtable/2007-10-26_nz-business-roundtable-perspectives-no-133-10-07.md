@@ -1,9 +1,13 @@
 ---
 slug: nz-business-roundtable-perspectives-no-133-10-07
-title: "NZ Business Roundtable Perspectives No. 133 10/07"
-date: 2007-10-26
-source-url: https://www.scoop.co.nz/stories/BU0710/S00385/nz-business-roundtable-perspectives-no-133-1007.htm
+title: NZ Business Roundtable Perspectives No. 133 10/07
+date: 2007-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0710/S00385/nz-business-roundtable-perspectives-no-133-1007.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2007/10/26/nz-business-roundtable-perspectives-no-133-10-07/index.html
+layout: layout.njk
 ---
 NZ Business Roundtable Perspectives No. 133 10/07
 =================================================

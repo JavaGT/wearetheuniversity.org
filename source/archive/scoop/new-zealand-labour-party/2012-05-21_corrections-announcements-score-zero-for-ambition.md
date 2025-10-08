@@ -1,9 +1,13 @@
 ---
 slug: corrections-announcements-score-zero-for-ambition
-title: "Corrections Announcements Score Zero for Ambition"
-date: 2012-05-21
-source-url: https://www.scoop.co.nz/stories/PA1205/S00342/corrections-announcements-score-zero-for-ambition.htm
+title: Corrections Announcements Score Zero for Ambition
+date: 2012-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00342/corrections-announcements-score-zero-for-ambition.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/21/corrections-announcements-score-zero-for-ambition/index.html
+layout: layout.njk
 ---
 Corrections Announcements Score Zero for Ambition
 =================================================

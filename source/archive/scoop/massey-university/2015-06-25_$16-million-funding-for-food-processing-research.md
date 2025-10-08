@@ -1,9 +1,12 @@
 ---
 slug: $16-million-funding-for-food-processing-research
-title: "$16 million funding for food processing research"
-date: 2015-06-25
-source-url: https://www.scoop.co.nz/stories/ED1506/S00130/16-million-funding-for-food-processing-research.htm
+title: $16 million funding for food processing research
+date: 2015-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00130/16-million-funding-for-food-processing-research.htm
 author: massey-university
+permalink: /archive/2015/06/25/16-million-funding-for-food-processing-research/index.html
+layout: layout.njk
 ---
 $16 million funding for food processing research
 ================================================

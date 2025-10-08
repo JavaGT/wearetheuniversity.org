@@ -1,9 +1,12 @@
 ---
 slug: rugby-world-cup-2011-(empowering)-bill
-title: "Rugby World Cup 2011 (Empowering) Bill"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00351/rugby-world-cup-2011-empowering-bill.htm
+title: Rugby World Cup 2011 (Empowering) Bill
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00351/rugby-world-cup-2011-empowering-bill.htm
 author: te-pati-maori
+permalink: /archive/2010/10/20/rugby-world-cup-2011-/index.html
+layout: layout.njk
 ---
 Rugby World Cup 2011 (Empowering) Bill
 ======================================

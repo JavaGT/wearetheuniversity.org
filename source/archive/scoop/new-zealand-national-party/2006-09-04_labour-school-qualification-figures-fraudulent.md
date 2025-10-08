@@ -1,9 +1,12 @@
 ---
 slug: labour-school-qualification-figures-fraudulent
-title: "Labour school qualification figures fraudulent"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00058/labour-school-qualification-figures-fraudulent.htm
+title: Labour school qualification figures fraudulent
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00058/labour-school-qualification-figures-fraudulent.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/labour-school-qualification-figures-fraudulent/index.html
+layout: layout.njk
 ---
 Labour school qualification figures fraudulent
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: landlords-and-developers-winners-from-state-home-selloff
-title: "Landlords and developers winners from state home selloff"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/PA1501/S00132/landlords-and-developers-winners-from-state-home-selloff.htm
+title: Landlords and developers winners from state home selloff
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1501/S00132/landlords-and-developers-winners-from-state-home-selloff.htm
 author: green-party
+permalink: >-
+  /archive/2015/01/28/landlords-and-developers-winners-from-state-home-selloff/index.html
+layout: layout.njk
 ---
 Landlords and developers winners from state home selloff
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-nationals-tax-plan
-title: "Gerry in the House: National's tax plan"
-date: 2005-08-23
-source-url: https://www.scoop.co.nz/stories/PA0508/S00575/gerry-in-the-house-nationals-tax-plan.htm
+title: 'Gerry in the House: National''s tax plan'
+date: 2005-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00575/gerry-in-the-house-nationals-tax-plan.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/23/gerry-in-the-house-nationals-tax-plan/index.html
+layout: layout.njk
 ---
 Gerry in the House: National's tax plan
 =======================================

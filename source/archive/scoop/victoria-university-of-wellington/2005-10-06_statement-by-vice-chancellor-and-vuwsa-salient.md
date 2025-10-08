@@ -1,9 +1,12 @@
 ---
 slug: statement-by-vice-chancellor-and-vuwsa-salient
-title: "Statement by Vice-Chancellor and VUWSA/Salient"
-date: 2005-10-06
-source-url: https://www.scoop.co.nz/stories/ED0510/S00021/statement-by-vice-chancellor-and-vuwsasalient.htm
+title: Statement by Vice-Chancellor and VUWSA/Salient
+date: 2005-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00021/statement-by-vice-chancellor-and-vuwsasalient.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/10/06/statement-by-vice-chancellor-and-vuwsa-salient/index.html
+layout: layout.njk
 ---
 Statement by Vice-Chancellor and VUWSA/Salient
 ==============================================

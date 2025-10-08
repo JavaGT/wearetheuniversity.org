@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-looks-at-of-post-earthquake-social-services
-title: "UC academic looks at of post-earthquake social services"
-date: 2014-11-07
-source-url: https://www.scoop.co.nz/stories/AK1411/S00149/uc-academic-looks-at-of-post-earthquake-social-services.htm
+title: UC academic looks at of post-earthquake social services
+date: 2014-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00149/uc-academic-looks-at-of-post-earthquake-social-services.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/07/uc-academic-looks-at-of-post-earthquake-social-services/index.html
+layout: layout.njk
 ---
 UC academic looks at of post-earthquake social services
 =======================================================

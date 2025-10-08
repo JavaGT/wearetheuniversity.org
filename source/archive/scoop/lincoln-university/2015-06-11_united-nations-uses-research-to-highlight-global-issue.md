@@ -1,9 +1,13 @@
 ---
 slug: united-nations-uses-research-to-highlight-global-issue
-title: "United Nations uses research to highlight global issue"
-date: 2015-06-11
-source-url: https://www.scoop.co.nz/stories/SC1506/S00058/united-nations-uses-research-to-highlight-global-issue.htm
+title: United Nations uses research to highlight global issue
+date: 2015-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1506/S00058/united-nations-uses-research-to-highlight-global-issue.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/06/11/united-nations-uses-research-to-highlight-global-issue/index.html
+layout: layout.njk
 ---
 United Nations uses research to highlight global issue
 ======================================================

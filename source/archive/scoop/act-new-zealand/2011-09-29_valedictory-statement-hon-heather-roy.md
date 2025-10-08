@@ -1,9 +1,12 @@
 ---
 slug: valedictory-statement-hon-heather-roy
-title: "Valedictory Statement - Hon Heather Roy"
-date: 2011-09-29
-source-url: https://www.scoop.co.nz/stories/PA1109/S00598/valedictory-statement-hon-heather-roy.htm
+title: Valedictory Statement - Hon Heather Roy
+date: 2011-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00598/valedictory-statement-hon-heather-roy.htm
 author: act-new-zealand
+permalink: /archive/2011/09/29/valedictory-statement-hon-heather-roy/index.html
+layout: layout.njk
 ---
 Valedictory Statement - Hon Heather Roy
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: family-assistance-package-too-little-too-late
-title: "Family assistance package: too little, too late"
-date: 2003-12-18
-source-url: https://www.scoop.co.nz/stories/PA0312/S00449/family-assistance-package-too-little-too-late.htm
+title: 'Family assistance package: too little, too late'
+date: 2003-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00449/family-assistance-package-too-little-too-late.htm
 author: green-party
+permalink: /archive/2003/12/18/family-assistance-package-too-little-too-late/index.html
+layout: layout.njk
 ---
 Family assistance package: too little, too late
 ===============================================

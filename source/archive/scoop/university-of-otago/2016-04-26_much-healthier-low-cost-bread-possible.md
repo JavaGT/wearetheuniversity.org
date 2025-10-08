@@ -1,9 +1,12 @@
 ---
 slug: much-healthier-low-cost-bread-possible
-title: "Much healthier low-cost bread possible"
-date: 2016-04-26
-source-url: https://www.scoop.co.nz/stories/SC1604/S00043/much-healthier-low-cost-bread-possible.htm
+title: Much healthier low-cost bread possible
+date: 2016-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1604/S00043/much-healthier-low-cost-bread-possible.htm
 author: university-of-otago
+permalink: /archive/2016/04/26/much-healthier-low-cost-bread-possible/index.html
+layout: layout.njk
 ---
 Much healthier low-cost bread possible
 ======================================

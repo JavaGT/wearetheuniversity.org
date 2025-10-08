@@ -1,9 +1,13 @@
 ---
 slug: expertise-helps-achieve-sustainability-goals-in-borneo
-title: "Expertise helps achieve sustainability goals in Borneo"
-date: 2015-04-09
-source-url: https://www.scoop.co.nz/stories/ED1504/S00021/expertise-helps-achieve-sustainability-goals-in-borneo.htm
+title: Expertise helps achieve sustainability goals in Borneo
+date: 2015-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00021/expertise-helps-achieve-sustainability-goals-in-borneo.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/04/09/expertise-helps-achieve-sustainability-goals-in-borneo/index.html
+layout: layout.njk
 ---
 Expertise helps achieve sustainability goals in Borneo
 ======================================================

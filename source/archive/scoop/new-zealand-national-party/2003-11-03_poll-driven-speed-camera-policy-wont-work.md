@@ -1,9 +1,12 @@
 ---
 slug: poll-driven-speed-camera-policy-wont-work
-title: "Poll-driven speed camera policy won't work"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/PA0311/S00029/poll-driven-speed-camera-policy-wont-work.htm
+title: Poll-driven speed camera policy won't work
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00029/poll-driven-speed-camera-policy-wont-work.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/03/poll-driven-speed-camera-policy-wont-work/index.html
+layout: layout.njk
 ---
 Poll-driven speed camera policy won't work
 ==========================================

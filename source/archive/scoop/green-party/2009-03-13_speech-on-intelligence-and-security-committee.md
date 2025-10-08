@@ -1,9 +1,12 @@
 ---
 slug: speech-on-intelligence-and-security-committee
-title: "Speech on Intelligence and Security Committee"
-date: 2009-03-13
-source-url: https://www.scoop.co.nz/stories/PA0903/S00200/speech-on-intelligence-and-security-committee.htm
+title: Speech on Intelligence and Security Committee
+date: 2009-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00200/speech-on-intelligence-and-security-committee.htm
 author: green-party
+permalink: /archive/2009/03/13/speech-on-intelligence-and-security-committee/index.html
+layout: layout.njk
 ---
 Speech on Intelligence and Security Committee
 =============================================

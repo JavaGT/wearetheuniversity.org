@@ -1,9 +1,13 @@
 ---
 slug: open-day-aims-to-give-public-a-peak-at-primary-sector
-title: "Open Day aims to give public a peak at primary sector"
-date: 2014-11-10
-source-url: https://www.scoop.co.nz/stories/AK1411/S00204/open-day-aims-to-give-public-a-peak-at-primary-sector.htm
+title: Open Day aims to give public a peak at primary sector
+date: 2014-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00204/open-day-aims-to-give-public-a-peak-at-primary-sector.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/11/10/open-day-aims-to-give-public-a-peak-at-primary-sector/index.html
+layout: layout.njk
 ---
 Open Day aims to give public a peak at primary sector
 =====================================================

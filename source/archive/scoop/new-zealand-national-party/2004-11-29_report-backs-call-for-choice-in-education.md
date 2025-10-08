@@ -1,9 +1,12 @@
 ---
 slug: report-backs-call-for-choice-in-education
-title: "Report backs call for choice in education"
-date: 2004-11-29
-source-url: https://www.scoop.co.nz/stories/PA0411/S00593/report-backs-call-for-choice-in-education.htm
+title: Report backs call for choice in education
+date: 2004-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0411/S00593/report-backs-call-for-choice-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2004/11/29/report-backs-call-for-choice-in-education/index.html
+layout: layout.njk
 ---
 Report backs call for choice in education
 =========================================

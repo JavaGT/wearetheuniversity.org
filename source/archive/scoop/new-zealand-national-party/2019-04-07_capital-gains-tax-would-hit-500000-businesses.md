@@ -1,9 +1,12 @@
 ---
 slug: capital-gains-tax-would-hit-500000-businesses
-title: "Capital Gains Tax would hit 500,000 businesses"
-date: 2019-04-07
-source-url: https://www.scoop.co.nz/stories/PA1904/S00061/capital-gains-tax-would-hit-500000-businesses.htm
+title: Capital Gains Tax would hit 500,000 businesses
+date: 2019-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00061/capital-gains-tax-would-hit-500000-businesses.htm
 author: new-zealand-national-party
+permalink: /archive/2019/04/07/capital-gains-tax-would-hit-500000-businesses/index.html
+layout: layout.njk
 ---
 Capital Gains Tax would hit 500,000 businesses
 ==============================================

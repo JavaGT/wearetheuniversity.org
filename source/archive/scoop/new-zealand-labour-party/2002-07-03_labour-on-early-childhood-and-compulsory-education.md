@@ -1,9 +1,13 @@
 ---
 slug: labour-on-early-childhood-and-compulsory-education
-title: "Labour On Early Childhood And Compulsory Education"
-date: 2002-07-03
-source-url: https://www.scoop.co.nz/stories/PA0207/S00089/labour-on-early-childhood-and-compulsory-education.htm
+title: Labour On Early Childhood And Compulsory Education
+date: 2002-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00089/labour-on-early-childhood-and-compulsory-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2002/07/03/labour-on-early-childhood-and-compulsory-education/index.html
+layout: layout.njk
 ---
 Labour On Early Childhood And Compulsory Education
 ==================================================

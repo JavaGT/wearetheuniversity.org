@@ -1,9 +1,12 @@
 ---
 slug: how-butterfish-buck-the-system
-title: "How butterfish  \"buck the system\""
-date: 2005-03-07
-source-url: https://www.scoop.co.nz/stories/SC0503/S00019/how-butterfish-buck-the-system.htm
+title: How butterfish  "buck the system"
+date: 2005-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0503/S00019/how-butterfish-buck-the-system.htm
 author: auckland-university
+permalink: /archive/2005/03/07/how-butterfish-buck-the-system/index.html
+layout: layout.njk
 ---
 How butterfish \"buck the system"
 ================================

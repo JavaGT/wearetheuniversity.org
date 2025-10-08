@@ -1,9 +1,12 @@
 ---
 slug: old-halloween-investment-adage-still-holds-true
-title: "Old Halloween investment adage still holds true"
-date: 2012-10-29
-source-url: https://www.scoop.co.nz/stories/BU1210/S01086/old-halloween-investment-adage-still-holds-true.htm
+title: Old Halloween investment adage still holds true
+date: 2012-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1210/S01086/old-halloween-investment-adage-still-holds-true.htm
 author: massey-university
+permalink: /archive/2012/10/29/old-halloween-investment-adage-still-holds-true/index.html
+layout: layout.njk
 ---
 Old Halloween investment adage still holds true
 ===============================================

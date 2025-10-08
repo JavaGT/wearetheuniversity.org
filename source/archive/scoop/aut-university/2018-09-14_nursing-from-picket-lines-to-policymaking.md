@@ -1,9 +1,12 @@
 ---
 slug: nursing-from-picket-lines-to-policymaking
-title: "Nursing: from picket lines to policymaking"
-date: 2018-09-14
-source-url: https://www.scoop.co.nz/stories/ED1809/S00037/nursing-from-picket-lines-to-policymaking.htm
+title: 'Nursing: from picket lines to policymaking'
+date: 2018-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00037/nursing-from-picket-lines-to-policymaking.htm
 author: aut-university
+permalink: /archive/2018/09/14/nursing-from-picket-lines-to-policymaking/index.html
+layout: layout.njk
 ---
 Nursing: from picket lines to policymaking
 ==========================================

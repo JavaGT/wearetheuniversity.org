@@ -1,9 +1,12 @@
 ---
 slug: greens-support-removal-of-tobacco-displays
-title: "Greens support removal of tobacco displays"
-date: 2008-09-29
-source-url: https://www.scoop.co.nz/stories/PA0809/S00626/greens-support-removal-of-tobacco-displays.htm
+title: Greens support removal of tobacco displays
+date: 2008-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00626/greens-support-removal-of-tobacco-displays.htm
 author: green-party
+permalink: /archive/2008/09/29/greens-support-removal-of-tobacco-displays/index.html
+layout: layout.njk
 ---
 Greens support removal of tobacco displays
 ==========================================

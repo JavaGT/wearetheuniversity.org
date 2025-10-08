@@ -1,9 +1,12 @@
 ---
 slug: eureka-moment-for-waikato-engineering-student
-title: "Eureka moment for Waikato engineering student"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/ED1410/S00087/eureka-moment-for-waikato-engineering-student.htm
+title: Eureka moment for Waikato engineering student
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00087/eureka-moment-for-waikato-engineering-student.htm
 author: waikato-university
+permalink: /archive/2014/10/15/eureka-moment-for-waikato-engineering-student/index.html
+layout: layout.njk
 ---
 Eureka moment for Waikato engineering student
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: tiwai-closure-points-to-end-of-heavy-industry-under-ardern
-title: "Tiwai Closure Points To End Of Heavy Industry Under Ardern"
-date: 2020-07-09
-source-url: https://www.scoop.co.nz/stories/PA2007/S00094/tiwai-closure-points-to-end-of-heavy-industry-under-ardern.htm
+title: Tiwai Closure Points To End Of Heavy Industry Under Ardern
+date: 2020-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00094/tiwai-closure-points-to-end-of-heavy-industry-under-ardern.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/09/tiwai-closure-points-to-end-of-heavy-industry-under-ardern/index.html
+layout: layout.njk
 ---
 Tiwai Closure Points To End Of Heavy Industry Under Ardern
 ==========================================================

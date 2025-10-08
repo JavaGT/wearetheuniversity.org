@@ -1,9 +1,16 @@
 ---
-slug: highlander-research-and-education-center-brings-old-school-expertise-to-present-day-issues
-title: "Highlander Research And Education Center Brings Old-School Expertise To Present-Day Issues"
-date: 2024-10-04
-source-url: https://www.scoop.co.nz/stories/WO2410/S00067/highlander-research-and-education-center-brings-old-school-expertise-to-present-day-issues.htm
+slug: >-
+  highlander-research-and-education-center-brings-old-school-expertise-to-present-day-issues
+title: >-
+  Highlander Research And Education Center Brings Old-School Expertise To
+  Present-Day Issues
+date: 2024-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2410/S00067/highlander-research-and-education-center-brings-old-school-expertise-to-present-day-issues.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/10/04/highlander-research-and-education-center-brings-old-school-expertise-to-present-day-issues/index.html
+layout: layout.njk
 ---
 Highlander Research And Education Center Brings Old-School Expertise To Present-Day Issues
 ==========================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: scientists-film-hagfish-anti-shark-slime-weapon
-title: "Scientists film hagfish anti-shark slime weapon"
-date: 2011-10-28
-source-url: https://www.scoop.co.nz/stories/SC1110/S00069/scientists-film-hagfish-anti-shark-slime-weapon.htm
+title: Scientists film hagfish anti-shark slime weapon
+date: 2011-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00069/scientists-film-hagfish-anti-shark-slime-weapon.htm
 author: massey-university
+permalink: /archive/2011/10/28/scientists-film-hagfish-anti-shark-slime-weapon/index.html
+layout: layout.njk
 ---
 Scientists film hagfish anti-shark slime weapon
 ===============================================

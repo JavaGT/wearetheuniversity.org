@@ -1,9 +1,12 @@
 ---
 slug: how-will-you-manage-your-farms-footprint
-title: "How will you manage your farm’s footprint?"
-date: 2016-09-02
-source-url: https://www.scoop.co.nz/stories/BU1609/S00065/how-will-you-manage-your-farms-footprint.htm
+title: How will you manage your farm’s footprint?
+date: 2016-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1609/S00065/how-will-you-manage-your-farms-footprint.htm
 author: lincoln-university
+permalink: /archive/2016/09/02/how-will-you-manage-your-farms-footprint/index.html
+layout: layout.njk
 ---
 How will you manage your farm’s footprint?
 ==========================================

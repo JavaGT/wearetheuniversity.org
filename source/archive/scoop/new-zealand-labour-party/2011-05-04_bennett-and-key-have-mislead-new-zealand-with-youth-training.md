@@ -1,9 +1,13 @@
 ---
 slug: bennett-and-key-have-mislead-new-zealand-with-youth-training
-title: "Bennett and Key have mislead New Zealand with youth training"
-date: 2011-05-04
-source-url: https://www.scoop.co.nz/stories/PA1105/S00073/bennett-and-key-have-mislead-new-zealand-with-youth-training.htm
+title: Bennett and Key have mislead New Zealand with youth training
+date: 2011-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00073/bennett-and-key-have-mislead-new-zealand-with-youth-training.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/04/bennett-and-key-have-mislead-new-zealand-with-youth-training/index.html
+layout: layout.njk
 ---
 Bennett and Key have mislead New Zealand with youth training
 ============================================================

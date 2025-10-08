@@ -1,9 +1,12 @@
 ---
 slug: middle-schools-the-way-forward-nz-first
-title: "Middle Schools The Way Forward – NZ FIRST"
-date: 2006-05-24
-source-url: https://www.scoop.co.nz/stories/PA0605/S00569/middle-schools-the-way-forward-nz-first.htm
+title: Middle Schools The Way Forward – NZ FIRST
+date: 2006-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00569/middle-schools-the-way-forward-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2006/05/24/middle-schools-the-way-forward-nz-first/index.html
+layout: layout.njk
 ---
 Middle Schools The Way Forward – NZ FIRST
 =========================================

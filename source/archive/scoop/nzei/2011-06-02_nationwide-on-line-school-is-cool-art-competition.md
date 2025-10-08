@@ -1,9 +1,13 @@
 ---
 slug: nationwide-on-line-school-is-cool-art-competition
-title: "Nationwide on-line \"School is Cool\" art competition"
-date: 2011-06-02
-source-url: https://www.scoop.co.nz/stories/ED1106/S00013/nationwide-on-line-school-is-cool-art-competition.htm
+title: Nationwide on-line "School is Cool" art competition
+date: 2011-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1106/S00013/nationwide-on-line-school-is-cool-art-competition.htm
 author: nzei
+permalink: >-
+  /archive/2011/06/02/nationwide-on-line-school-is-cool-art-competition/index.html
+layout: layout.njk
 ---
 Nationwide on-line “School is Cool” art competition
 ===================================================

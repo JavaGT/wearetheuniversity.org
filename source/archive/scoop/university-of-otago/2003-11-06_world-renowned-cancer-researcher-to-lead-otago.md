@@ -1,9 +1,12 @@
 ---
 slug: world-renowned-cancer-researcher-to-lead-otago
-title: "World-Renowned Cancer Researcher To Lead Otago"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/ED0311/S00018/world-renowned-cancer-researcher-to-lead-otago.htm
+title: World-Renowned Cancer Researcher To Lead Otago
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00018/world-renowned-cancer-researcher-to-lead-otago.htm
 author: university-of-otago
+permalink: /archive/2003/11/06/world-renowned-cancer-researcher-to-lead-otago/index.html
+layout: layout.njk
 ---
 World-Renowned Cancer Researcher To Lead Otago
 ==============================================

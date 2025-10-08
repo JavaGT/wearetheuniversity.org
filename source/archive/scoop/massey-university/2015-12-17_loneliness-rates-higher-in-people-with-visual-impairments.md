@@ -1,9 +1,13 @@
 ---
 slug: loneliness-rates-higher-in-people-with-visual-impairments
-title: "Loneliness rates higher in people with visual impairments"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/CU1512/S00288/loneliness-rates-higher-in-people-with-visual-impairments.htm
+title: Loneliness rates higher in people with visual impairments
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00288/loneliness-rates-higher-in-people-with-visual-impairments.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/17/loneliness-rates-higher-in-people-with-visual-impairments/index.html
+layout: layout.njk
 ---
 Loneliness rates higher in people with visual impairments
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: governments-approach-to-bullying-just-a-publicity-stunt
-title: "Government’s Approach to Bullying Just a Publicity Stunt"
-date: 2011-04-14
-source-url: https://www.scoop.co.nz/stories/PA1104/S00339/governments-approach-to-bullying-just-a-publicity-stunt.htm
+title: Government’s Approach to Bullying Just a Publicity Stunt
+date: 2011-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00339/governments-approach-to-bullying-just-a-publicity-stunt.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/04/14/governments-approach-to-bullying-just-a-publicity-stunt/index.html
+layout: layout.njk
 ---
 Government’s Approach to Bullying Just a Publicity Stunt
 ========================================================

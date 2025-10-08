@@ -1,9 +1,12 @@
 ---
 slug: schools-flouting-corporal-punishment-law
-title: "Schools flouting corporal punishment law"
-date: 2007-02-13
-source-url: https://www.scoop.co.nz/stories/PA0702/S00195/schools-flouting-corporal-punishment-law.htm
+title: Schools flouting corporal punishment law
+date: 2007-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00195/schools-flouting-corporal-punishment-law.htm
 author: green-party
+permalink: /archive/2007/02/13/schools-flouting-corporal-punishment-law/index.html
+layout: layout.njk
 ---
 Schools flouting corporal punishment law
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: greens-say-no-to-super-dumps
-title: "Greens say No to Super Dumps"
-date: 1999-11-25
+title: Greens say No to Super Dumps
+date: 1999-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9911/S00606/greens-say-no-to-super-dumps.htm
 author: green-party
+permalink: /archive/1999/11/25/greens-say-no-to-super-dumps/index.html
+layout: layout.njk
 ---
 Greens say No to Super Dumps
 ============================

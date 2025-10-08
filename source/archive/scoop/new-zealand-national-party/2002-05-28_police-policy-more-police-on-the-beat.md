@@ -1,9 +1,12 @@
 ---
 slug: police-policy-more-police-on-the-beat
-title: "Police policy - More Police on the beat"
-date: 2002-05-28
-source-url: https://www.scoop.co.nz/stories/PA0205/S00638/police-policy-more-police-on-the-beat.htm
+title: Police policy - More Police on the beat
+date: 2002-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00638/police-policy-more-police-on-the-beat.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/28/police-policy-more-police-on-the-beat/index.html
+layout: layout.njk
 ---
 Police policy - More Police on the beat
 =======================================

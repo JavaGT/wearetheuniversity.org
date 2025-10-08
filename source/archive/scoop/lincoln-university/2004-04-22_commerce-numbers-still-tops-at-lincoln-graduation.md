@@ -1,9 +1,13 @@
 ---
 slug: commerce-numbers-still-tops-at-lincoln-graduation
-title: "Commerce numbers still tops at Lincoln graduation"
-date: 2004-04-22
-source-url: https://www.scoop.co.nz/stories/ED0404/S00076/commerce-numbers-still-tops-at-lincoln-graduation.htm
+title: Commerce numbers still tops at Lincoln graduation
+date: 2004-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00076/commerce-numbers-still-tops-at-lincoln-graduation.htm
 author: lincoln-university
+permalink: >-
+  /archive/2004/04/22/commerce-numbers-still-tops-at-lincoln-graduation/index.html
+layout: layout.njk
 ---
 Commerce numbers still tops at Lincoln graduation
 =================================================

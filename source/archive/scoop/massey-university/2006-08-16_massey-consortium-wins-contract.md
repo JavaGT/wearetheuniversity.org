@@ -1,9 +1,12 @@
 ---
 slug: massey-consortium-wins-contract
-title: "Massey consortium wins contract"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/ED0608/S00055/massey-consortium-wins-contract.htm
+title: Massey consortium wins contract
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00055/massey-consortium-wins-contract.htm
 author: massey-university
+permalink: /archive/2006/08/16/massey-consortium-wins-contract/index.html
+layout: layout.njk
 ---
 Massey consortium wins contract
 ===============================

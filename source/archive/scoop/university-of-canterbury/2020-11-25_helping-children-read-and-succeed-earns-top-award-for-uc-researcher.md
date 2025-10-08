@@ -1,9 +1,13 @@
 ---
 slug: helping-children-read-and-succeed-earns-top-award-for-uc-researcher
-title: "Helping Children Read And Succeed Earns Top Award For UC Researcher"
-date: 2020-11-25
-source-url: https://www.scoop.co.nz/stories/ED2011/S00049/helping-children-read-and-succeed-earns-top-award-for-uc-researcher.htm
+title: Helping Children Read And Succeed Earns Top Award For UC Researcher
+date: 2020-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2011/S00049/helping-children-read-and-succeed-earns-top-award-for-uc-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/11/25/helping-children-read-and-succeed-earns-top-award-for-uc-researcher/index.html
+layout: layout.njk
 ---
 Helping Children Read And Succeed Earns Top Award For UC Researcher
 ===================================================================

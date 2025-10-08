@@ -1,9 +1,13 @@
 ---
 slug: lure-of-the-ice-entices-bright-young-researchers
-title: "Lure of The Ice entices bright young researchers"
-date: 2019-05-21
-source-url: https://www.scoop.co.nz/stories/SC1905/S00038/lure-of-the-ice-entices-bright-young-researchers.htm
+title: Lure of The Ice entices bright young researchers
+date: 2019-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1905/S00038/lure-of-the-ice-entices-bright-young-researchers.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/05/21/lure-of-the-ice-entices-bright-young-researchers/index.html
+layout: layout.njk
 ---
 Lure of The Ice entices bright young researchers
 ================================================

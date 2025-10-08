@@ -1,9 +1,12 @@
 ---
 slug: bill-english-chapman-lecture-3-october-2005
-title: "Bill English Chapman Lecture – 3 October 2005"
-date: 2005-10-04
-source-url: https://www.scoop.co.nz/stories/PA0510/S00015/bill-english-chapman-lecture-3-october-2005.htm
+title: Bill English Chapman Lecture – 3 October 2005
+date: 2005-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00015/bill-english-chapman-lecture-3-october-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/10/04/bill-english-chapman-lecture-3-october-2005/index.html
+layout: layout.njk
 ---
 Bill English Chapman Lecture – 3 October 2005
 =============================================

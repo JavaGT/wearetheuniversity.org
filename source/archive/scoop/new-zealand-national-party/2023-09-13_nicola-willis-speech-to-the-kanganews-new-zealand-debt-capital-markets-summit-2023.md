@@ -1,9 +1,16 @@
 ---
-slug: nicola-willis-speech-to-the-kanganews-new-zealand-debt-capital-markets-summit-2023
-title: "Nicola Willis: Speech To The KangaNews New Zealand Debt Capital Markets Summit 2023"
-date: 2023-09-13
-source-url: https://www.scoop.co.nz/stories/PA2309/S00073/nicola-willis-speech-to-the-kanganews-new-zealand-debt-capital-markets-summit-2023.htm
+slug: >-
+  nicola-willis-speech-to-the-kanganews-new-zealand-debt-capital-markets-summit-2023
+title: >-
+  Nicola Willis: Speech To The KangaNews New Zealand Debt Capital Markets Summit
+  2023
+date: 2023-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00073/nicola-willis-speech-to-the-kanganews-new-zealand-debt-capital-markets-summit-2023.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/09/13/nicola-willis-speech-to-the-kanganews-new-zealand-debt-capital-markets-summit-2023/index.html
+layout: layout.njk
 ---
 Nicola Willis: Speech To The KangaNews New Zealand Debt Capital Markets Summit 2023
 ===================================================================================

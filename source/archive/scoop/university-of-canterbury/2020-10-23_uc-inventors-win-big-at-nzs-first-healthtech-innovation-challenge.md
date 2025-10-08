@@ -1,9 +1,13 @@
 ---
 slug: uc-inventors-win-big-at-nzs-first-healthtech-innovation-challenge
-title: "UC Inventors Win Big At NZ’s First HealthTech Innovation Challenge"
-date: 2020-10-23
-source-url: https://www.scoop.co.nz/stories/ED2010/S00042/uc-inventors-win-big-at-nzs-first-healthtech-innovation-challenge.htm
+title: UC Inventors Win Big At NZ’s First HealthTech Innovation Challenge
+date: 2020-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00042/uc-inventors-win-big-at-nzs-first-healthtech-innovation-challenge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/23/uc-inventors-win-big-at-nzs-first-healthtech-innovation-challenge/index.html
+layout: layout.njk
 ---
 UC Inventors Win Big At NZ’s First HealthTech Innovation Challenge
 ==================================================================

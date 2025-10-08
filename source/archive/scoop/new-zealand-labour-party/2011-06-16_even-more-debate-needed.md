@@ -1,9 +1,11 @@
 ---
 slug: even-more-debate-needed
-title: "Even More Debate Needed"
-date: 2011-06-16
+title: Even More Debate Needed
+date: 2011-06-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1106/S00283/even-more-debate-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/16/even-more-debate-needed/index.html
+layout: layout.njk
 ---
 Even More Debate Needed
 =======================

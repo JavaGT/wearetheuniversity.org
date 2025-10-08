@@ -1,9 +1,13 @@
 ---
 slug: reserve-bank-reveals-threat-to-first-home-buyers
-title: "Reserve Bank reveals threat to first home buyers"
-date: 2017-05-07
-source-url: https://www.scoop.co.nz/stories/PA1705/S00139/reserve-bank-reveals-threat-to-first-home-buyers.htm
+title: Reserve Bank reveals threat to first home buyers
+date: 2017-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00139/reserve-bank-reveals-threat-to-first-home-buyers.htm
 author: green-party
+permalink: >-
+  /archive/2017/05/07/reserve-bank-reveals-threat-to-first-home-buyers/index.html
+layout: layout.njk
 ---
 Reserve Bank reveals threat to first home buyers
 ================================================

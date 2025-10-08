@@ -1,9 +1,12 @@
 ---
 slug: in-praise-of-private-property-investment
-title: "In Praise of Private Property Investment"
-date: 2001-11-14
-source-url: https://www.scoop.co.nz/stories/PA0111/S00272/in-praise-of-private-property-investment.htm
+title: In Praise of Private Property Investment
+date: 2001-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00272/in-praise-of-private-property-investment.htm
 author: act-new-zealand
+permalink: /archive/2001/11/14/in-praise-of-private-property-investment/index.html
+layout: layout.njk
 ---
 In Praise of Private Property Investment
 ========================================

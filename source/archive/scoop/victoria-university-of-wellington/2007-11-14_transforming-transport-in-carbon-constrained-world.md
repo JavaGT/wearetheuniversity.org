@@ -1,9 +1,13 @@
 ---
 slug: transforming-transport-in-carbon-constrained-world
-title: "Transforming transport in carbon-constrained world"
-date: 2007-11-14
-source-url: https://www.scoop.co.nz/stories/SC0711/S00046/transforming-transport-in-carbon-constrained-world.htm
+title: Transforming transport in carbon-constrained world
+date: 2007-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0711/S00046/transforming-transport-in-carbon-constrained-world.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/11/14/transforming-transport-in-carbon-constrained-world/index.html
+layout: layout.njk
 ---
 Transforming transport in carbon-constrained world
 ==================================================

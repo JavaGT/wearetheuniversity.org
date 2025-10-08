@@ -1,9 +1,13 @@
 ---
 slug: nzers-not-taking-advantage-of-university-education
-title: "NZers not taking advantage of university education"
-date: 2003-01-22
-source-url: https://www.scoop.co.nz/stories/ED0301/S00009/nzers-not-taking-advantage-of-university-education.htm
+title: NZers not taking advantage of university education
+date: 2003-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00009/nzers-not-taking-advantage-of-university-education.htm
 author: association-of-university-staff
+permalink: >-
+  /archive/2003/01/22/nzers-not-taking-advantage-of-university-education/index.html
+layout: layout.njk
 ---
 NZers not taking advantage of university education
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: mallard-forced-to-explain-mfe-bungles-again
-title: "Mallard forced to explain MfE bungles - again"
-date: 2008-05-18
-source-url: https://www.scoop.co.nz/stories/PA0805/S00313/mallard-forced-to-explain-mfe-bungles-again.htm
+title: Mallard forced to explain MfE bungles - again
+date: 2008-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00313/mallard-forced-to-explain-mfe-bungles-again.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/18/mallard-forced-to-explain-mfe-bungles-again/index.html
+layout: layout.njk
 ---
 Mallard forced to explain MfE bungles - again
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: covid-19-has-caused-a-further-decline-in-wellbeing-for-teachers-and-principals
-title: "Covid-19 Has Caused A Further Decline In Wellbeing For Teachers And Principals"
-date: 2021-12-07
-source-url: https://www.scoop.co.nz/stories/PO2112/S00053/covid-19-has-caused-a-further-decline-in-wellbeing-for-teachers-and-principals.htm
+title: Covid-19 Has Caused A Further Decline In Wellbeing For Teachers And Principals
+date: 2021-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2112/S00053/covid-19-has-caused-a-further-decline-in-wellbeing-for-teachers-and-principals.htm
 author: nzei
+permalink: >-
+  /archive/2021/12/07/covid-19-has-caused-a-further-decline-in-wellbeing-for-teachers-and-principals/index.html
+layout: layout.njk
 ---
 Covid-19 Has Caused A Further Decline In Wellbeing For Teachers And Principals
 ==============================================================================

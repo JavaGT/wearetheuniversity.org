@@ -1,9 +1,13 @@
 ---
 slug: massey-university-launches-shared-prosperity-index
-title: "Massey University launches Shared Prosperity Index"
-date: 2019-05-23
-source-url: https://www.scoop.co.nz/stories/PO1905/S00356/massey-university-launches-shared-prosperity-index.htm
+title: Massey University launches Shared Prosperity Index
+date: 2019-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1905/S00356/massey-university-launches-shared-prosperity-index.htm
 author: massey-university
+permalink: >-
+  /archive/2019/05/23/massey-university-launches-shared-prosperity-index/index.html
+layout: layout.njk
 ---
 Massey University launches Shared Prosperity Index
 ==================================================

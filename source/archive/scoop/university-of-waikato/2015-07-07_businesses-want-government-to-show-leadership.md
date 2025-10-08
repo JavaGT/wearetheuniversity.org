@@ -1,9 +1,12 @@
 ---
 slug: businesses-want-government-to-show-leadership
-title: "Businesses want government to show leadership"
-date: 2015-07-07
-source-url: https://www.scoop.co.nz/stories/BU1507/S00229/businesses-want-government-to-show-leadership.htm
+title: Businesses want government to show leadership
+date: 2015-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1507/S00229/businesses-want-government-to-show-leadership.htm
 author: university-of-waikato
+permalink: /archive/2015/07/07/businesses-want-government-to-show-leadership/index.html
+layout: layout.njk
 ---
 Businesses want government to show leadership
 =============================================

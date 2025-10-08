@@ -1,9 +1,11 @@
 ---
 slug: act-calls-for-faster-growth
-title: "ACT Calls for Faster Growth"
-date: 2001-05-23
+title: ACT Calls for Faster Growth
+date: 2001-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0105/S00457/act-calls-for-faster-growth.htm
 author: act-new-zealand
+permalink: /archive/2001/05/23/act-calls-for-faster-growth/index.html
+layout: layout.njk
 ---
 ACT Calls for Faster Growth
 ===========================

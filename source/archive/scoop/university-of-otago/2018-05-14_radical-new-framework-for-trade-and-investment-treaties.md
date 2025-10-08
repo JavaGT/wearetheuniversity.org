@@ -1,9 +1,13 @@
 ---
 slug: radical-new-framework-for-trade-and-investment-treaties
-title: "Radical new framework for trade and investment treaties"
-date: 2018-05-14
-source-url: https://www.scoop.co.nz/stories/PO1805/S00165/radical-new-framework-for-trade-and-investment-treaties.htm
+title: Radical new framework for trade and investment treaties
+date: 2018-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00165/radical-new-framework-for-trade-and-investment-treaties.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/05/14/radical-new-framework-for-trade-and-investment-treaties/index.html
+layout: layout.njk
 ---
 Radical new framework for trade and investment treaties
 =======================================================

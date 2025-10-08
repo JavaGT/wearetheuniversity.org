@@ -1,9 +1,13 @@
 ---
 slug: nurses-strike-another-symptom-of-health-system-decline
-title: "Nurses Strike Another Symptom Of Health System Decline"
-date: 2022-10-27
-source-url: https://www.scoop.co.nz/stories/PA2210/S00199/nurses-strike-another-symptom-of-health-system-decline.htm
+title: Nurses Strike Another Symptom Of Health System Decline
+date: 2022-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00199/nurses-strike-another-symptom-of-health-system-decline.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/27/nurses-strike-another-symptom-of-health-system-decline/index.html
+layout: layout.njk
 ---
 Nurses Strike Another Symptom Of Health System Decline
 ======================================================

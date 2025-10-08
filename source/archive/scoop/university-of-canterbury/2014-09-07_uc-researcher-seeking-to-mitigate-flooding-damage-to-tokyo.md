@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-seeking-to-mitigate-flooding-damage-to-tokyo
-title: "UC Researcher Seeking to Mitigate Flooding Damage to Tokyo"
-date: 2014-09-07
-source-url: https://www.scoop.co.nz/stories/ED1409/S00039/uc-researcher-seeking-to-mitigate-flooding-damage-to-tokyo.htm
+title: UC Researcher Seeking to Mitigate Flooding Damage to Tokyo
+date: 2014-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00039/uc-researcher-seeking-to-mitigate-flooding-damage-to-tokyo.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/07/uc-researcher-seeking-to-mitigate-flooding-damage-to-tokyo/index.html
+layout: layout.njk
 ---
 UC Researcher Seeking to Mitigate Flooding Damage to Tokyo
 ==========================================================

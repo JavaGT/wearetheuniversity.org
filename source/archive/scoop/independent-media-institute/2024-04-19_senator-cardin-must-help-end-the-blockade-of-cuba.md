@@ -1,9 +1,13 @@
 ---
 slug: senator-cardin-must-help-end-the-blockade-of-cuba
-title: "Senator Cardin Must Help End The Blockade Of Cuba"
-date: 2024-04-19
-source-url: https://www.scoop.co.nz/stories/WO2404/S00132/senator-cardin-must-help-end-the-blockade-of-cuba.htm
+title: Senator Cardin Must Help End The Blockade Of Cuba
+date: 2024-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2404/S00132/senator-cardin-must-help-end-the-blockade-of-cuba.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/04/19/senator-cardin-must-help-end-the-blockade-of-cuba/index.html
+layout: layout.njk
 ---
 Senator Cardin Must Help End The Blockade Of Cuba
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: poor-analysis-a-cause-of-gaps-shambles
-title: "Poor Analysis a Cause of Gaps Shambles?"
-date: 2000-12-18
-source-url: https://www.scoop.co.nz/stories/PA0012/S00297/poor-analysis-a-cause-of-gaps-shambles.htm
+title: Poor Analysis a Cause of Gaps Shambles?
+date: 2000-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00297/poor-analysis-a-cause-of-gaps-shambles.htm
 author: act-new-zealand
+permalink: /archive/2000/12/18/poor-analysis-a-cause-of-gaps-shambles/index.html
+layout: layout.njk
 ---
 Poor Analysis a Cause of Gaps Shambles?
 =======================================

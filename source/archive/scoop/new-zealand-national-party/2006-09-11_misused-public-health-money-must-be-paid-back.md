@@ -1,9 +1,12 @@
 ---
 slug: misused-public-health-money-must-be-paid-back
-title: "Misused public health money must be paid back"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/PA0609/S00228/misused-public-health-money-must-be-paid-back.htm
+title: Misused public health money must be paid back
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00228/misused-public-health-money-must-be-paid-back.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/11/misused-public-health-money-must-be-paid-back/index.html
+layout: layout.njk
 ---
 Misused public health money must be paid back
 =============================================

@@ -1,8 +1,12 @@
 ---
 slug: waka-ama-paddlers-blow-competition-out-of-the-water
-title: "Waka Ama paddlers blow competition out of the water"
-date: 2017-03-22
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/waka-ama-paddlers-blow-competition-out-of-the-water.html
+title: Waka Ama paddlers blow competition out of the water
+date: 2017-03-22T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/waka-ama-paddlers-blow-competition-out-of-the-water.html
+permalink: >-
+  /archive/2017/03/22/waka-ama-paddlers-blow-competition-out-of-the-water/index.html
+layout: layout.njk
 ---
 Waka Ama paddlers blow competition out of the water
 ===================================================

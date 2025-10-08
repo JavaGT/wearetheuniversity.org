@@ -1,9 +1,12 @@
 ---
 slug: temporary-portfolio-allocations
-title: "Temporary portfolio allocations"
-date: 2014-10-07
-source-url: https://www.scoop.co.nz/stories/PA1410/S00038/temporary-portfolio-allocations.htm
+title: Temporary portfolio allocations
+date: 2014-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00038/temporary-portfolio-allocations.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/07/temporary-portfolio-allocations/index.html
+layout: layout.njk
 ---
 Temporary portfolio allocations
 ===============================

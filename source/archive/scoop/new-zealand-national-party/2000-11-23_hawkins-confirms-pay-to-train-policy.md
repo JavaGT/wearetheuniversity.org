@@ -1,9 +1,12 @@
 ---
 slug: hawkins-confirms-pay-to-train-policy
-title: "Hawkins Confirms Pay To Train Policy"
-date: 2000-11-23
-source-url: https://www.scoop.co.nz/stories/PA0011/S00426/hawkins-confirms-pay-to-train-policy.htm
+title: Hawkins Confirms Pay To Train Policy
+date: 2000-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00426/hawkins-confirms-pay-to-train-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/23/hawkins-confirms-pay-to-train-policy/index.html
+layout: layout.njk
 ---
 Hawkins Confirms Pay To Train Policy
 ====================================

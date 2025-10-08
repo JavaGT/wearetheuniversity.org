@@ -1,9 +1,11 @@
 ---
 slug: womens-privacy-threatened
-title: "Women's Privacy Threatened"
-date: 2001-06-06
+title: Women's Privacy Threatened
+date: 2001-06-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0106/S00066/womens-privacy-threatened.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/06/womens-privacy-threatened/index.html
+layout: layout.njk
 ---
 Women's Privacy Threatened
 ==========================

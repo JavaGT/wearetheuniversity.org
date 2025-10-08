@@ -1,9 +1,12 @@
 ---
 slug: abolition-of-bursary-premature
-title: "Abolition of Bursary premature"
-date: 2002-10-29
-source-url: https://www.scoop.co.nz/stories/PA0210/S00566/abolition-of-bursary-premature.htm
+title: Abolition of Bursary premature
+date: 2002-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00566/abolition-of-bursary-premature.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/29/abolition-of-bursary-premature/index.html
+layout: layout.njk
 ---
 Abolition of Bursary premature
 ==============================

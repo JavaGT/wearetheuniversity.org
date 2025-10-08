@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-25th-annual-new-zealand-first-convention
-title: "Speech: Peters - 25th Annual New Zealand First Convention"
-date: 2018-09-30
-source-url: https://www.scoop.co.nz/stories/PA1809/S00404/speech-peters-25th-annual-new-zealand-first-convention.htm
+title: 'Speech: Peters - 25th Annual New Zealand First Convention'
+date: 2018-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00404/speech-peters-25th-annual-new-zealand-first-convention.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/09/30/speech-peters-25th-annual-new-zealand-first-convention/index.html
+layout: layout.njk
 ---
 Speech: Peters - 25th Annual New Zealand First Convention
 =========================================================

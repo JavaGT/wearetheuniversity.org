@@ -1,9 +1,12 @@
 ---
 slug: women-journalists-flee-newspaper-careers
-title: "Women journalists flee newspaper careers"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/BU1112/S00093/women-journalists-flee-newspaper-careers.htm
+title: Women journalists flee newspaper careers
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1112/S00093/women-journalists-flee-newspaper-careers.htm
 author: massey-university
+permalink: /archive/2011/12/02/women-journalists-flee-newspaper-careers/index.html
+layout: layout.njk
 ---
 Women journalists flee newspaper careers
 ========================================

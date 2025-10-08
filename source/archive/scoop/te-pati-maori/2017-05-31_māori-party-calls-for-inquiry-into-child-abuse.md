@@ -1,9 +1,12 @@
 ---
 slug: māori-party-calls-for-inquiry-into-child-abuse
-title: "Māori Party calls for Inquiry into child abuse"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/PA1705/S00655/maori-party-calls-for-inquiry-into-child-abuse.htm
+title: Māori Party calls for Inquiry into child abuse
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00655/maori-party-calls-for-inquiry-into-child-abuse.htm
 author: te-pati-maori
+permalink: /archive/2017/05/31/m/index.html
+layout: layout.njk
 ---
 Māori Party calls for Inquiry into child abuse
 ==============================================

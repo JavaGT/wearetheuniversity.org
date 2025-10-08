@@ -1,9 +1,12 @@
 ---
 slug: defence-minister-faces-battle-roy
-title: "Defence Minister Faces Battle - Roy"
-date: 2005-10-19
-source-url: https://www.scoop.co.nz/stories/PA0510/S00110/defence-minister-faces-battle-roy.htm
+title: Defence Minister Faces Battle - Roy
+date: 2005-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0510/S00110/defence-minister-faces-battle-roy.htm
 author: act-new-zealand
+permalink: /archive/2005/10/19/defence-minister-faces-battle-roy/index.html
+layout: layout.njk
 ---
 Defence Minister Faces Battle - Roy
 ===================================

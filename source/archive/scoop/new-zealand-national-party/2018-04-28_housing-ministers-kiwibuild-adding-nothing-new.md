@@ -1,9 +1,12 @@
 ---
 slug: housing-ministers-kiwibuild-adding-nothing-new
-title: "Housing Minister’s KiwiBuild adding nothing new"
-date: 2018-04-28
-source-url: https://www.scoop.co.nz/stories/PA1804/S00295/housing-ministers-kiwibuild-adding-nothing-new.htm
+title: Housing Minister’s KiwiBuild adding nothing new
+date: 2018-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00295/housing-ministers-kiwibuild-adding-nothing-new.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/28/housing-ministers-kiwibuild-adding-nothing-new/index.html
+layout: layout.njk
 ---
 Housing Minister’s KiwiBuild adding nothing new
 ===============================================

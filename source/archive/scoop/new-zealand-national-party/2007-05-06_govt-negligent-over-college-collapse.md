@@ -1,9 +1,12 @@
 ---
 slug: govt-negligent-over-college-collapse
-title: "Govt negligent over college collapse"
-date: 2007-05-06
-source-url: https://www.scoop.co.nz/stories/ED0705/S00021/govt-negligent-over-college-collapse.htm
+title: Govt negligent over college collapse
+date: 2007-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0705/S00021/govt-negligent-over-college-collapse.htm
 author: new-zealand-national-party
+permalink: /archive/2007/05/06/govt-negligent-over-college-collapse/index.html
+layout: layout.njk
 ---
 Govt negligent over college collapse
 ====================================

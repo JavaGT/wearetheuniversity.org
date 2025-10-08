@@ -1,9 +1,13 @@
 ---
 slug: free-fares-campaign-disappointed-with-emissions-reduction-plan
-title: "Free Fares Campaign Disappointed With Emissions Reduction Plan"
-date: 2022-05-16
-source-url: https://www.scoop.co.nz/stories/PO2205/S00128/free-fares-campaign-disappointed-with-emissions-reduction-plan.htm
+title: Free Fares Campaign Disappointed With Emissions Reduction Plan
+date: 2022-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2205/S00128/free-fares-campaign-disappointed-with-emissions-reduction-plan.htm
 author: free-fares-nz
+permalink: >-
+  /archive/2022/05/16/free-fares-campaign-disappointed-with-emissions-reduction-plan/index.html
+layout: layout.njk
 ---
 Free Fares Campaign Disappointed With Emissions Reduction Plan
 ==============================================================

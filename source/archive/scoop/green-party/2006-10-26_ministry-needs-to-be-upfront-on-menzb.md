@@ -1,9 +1,12 @@
 ---
 slug: ministry-needs-to-be-upfront-on-menzb
-title: "Ministry needs to be upfront on MeNZB"
-date: 2006-10-26
-source-url: https://www.scoop.co.nz/stories/PA0610/S00505/ministry-needs-to-be-upfront-on-menzb.htm
+title: Ministry needs to be upfront on MeNZB
+date: 2006-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00505/ministry-needs-to-be-upfront-on-menzb.htm
 author: green-party
+permalink: /archive/2006/10/26/ministry-needs-to-be-upfront-on-menzb/index.html
+layout: layout.njk
 ---
 Ministry needs to be upfront on MeNZB
 =====================================

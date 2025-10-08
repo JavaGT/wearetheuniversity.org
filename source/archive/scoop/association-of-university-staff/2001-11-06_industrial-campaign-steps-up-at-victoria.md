@@ -1,9 +1,12 @@
 ---
 slug: industrial-campaign-steps-up-at-victoria
-title: "Industrial Campaign Steps up at Victoria"
-date: 2001-11-06
-source-url: https://www.scoop.co.nz/stories/ED0111/S00012/industrial-campaign-steps-up-at-victoria.htm
+title: Industrial Campaign Steps up at Victoria
+date: 2001-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0111/S00012/industrial-campaign-steps-up-at-victoria.htm
 author: association-of-university-staff
+permalink: /archive/2001/11/06/industrial-campaign-steps-up-at-victoria/index.html
+layout: layout.njk
 ---
 Industrial Campaign Steps up at Victoria
 ========================================

@@ -1,9 +1,11 @@
 ---
 slug: speech-rahui-katene-acc
-title: "Speech: Rahui Katene - ACC"
-date: 2009-03-10
+title: 'Speech: Rahui Katene - ACC'
+date: 2009-03-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0903/S00140/speech-rahui-katene-acc.htm
 author: te-pati-maori
+permalink: /archive/2009/03/10/speech-rahui-katene-acc/index.html
+layout: layout.njk
 ---
 Speech: Rahui Katene - ACC
 ==========================

@@ -1,9 +1,11 @@
 ---
 slug: richard-prebbles-the-letter
-title: "Richard Prebble’s The Letter"
-date: 2003-06-23
+title: Richard Prebble’s The Letter
+date: 2003-06-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0306/S00419/richard-prebbles-the-letter.htm
 author: act-new-zealand
+permalink: /archive/2003/06/23/richard-prebbles-the-letter/index.html
+layout: layout.njk
 ---
 Richard Prebble’s The Letter
 ============================

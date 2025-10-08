@@ -1,9 +1,12 @@
 ---
 slug: heartland-tour-finds-anger-in-canterbury
-title: "Heartland Tour finds anger in Canterbury"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00469/heartland-tour-finds-anger-in-canterbury.htm
+title: Heartland Tour finds anger in Canterbury
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00469/heartland-tour-finds-anger-in-canterbury.htm
 author: act-new-zealand
+permalink: /archive/1999/10/20/heartland-tour-finds-anger-in-canterbury/index.html
+layout: layout.njk
 ---
 Heartland Tour finds anger in Canterbury
 ========================================

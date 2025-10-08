@@ -1,9 +1,12 @@
 ---
 slug: lincoln-alumni-bursaries-provide-incentive
-title: "Lincoln Alumni Bursaries Provide Incentive"
-date: 2007-05-30
-source-url: https://www.scoop.co.nz/stories/BU0705/S00647/lincoln-alumni-bursaries-provide-incentive.htm
+title: Lincoln Alumni Bursaries Provide Incentive
+date: 2007-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0705/S00647/lincoln-alumni-bursaries-provide-incentive.htm
 author: lincoln-university
+permalink: /archive/2007/05/30/lincoln-alumni-bursaries-provide-incentive/index.html
+layout: layout.njk
 ---
 Lincoln Alumni Bursaries Provide Incentive
 ==========================================

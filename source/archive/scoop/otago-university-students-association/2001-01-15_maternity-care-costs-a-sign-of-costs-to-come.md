@@ -1,9 +1,12 @@
 ---
 slug: maternity-care-costs-a-sign-of-costs-to-come
-title: "Maternity Care Costs a Sign of Costs to Come"
-date: 2001-01-15
-source-url: https://www.scoop.co.nz/stories/ED0101/S00003/maternity-care-costs-a-sign-of-costs-to-come.htm
+title: Maternity Care Costs a Sign of Costs to Come
+date: 2001-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0101/S00003/maternity-care-costs-a-sign-of-costs-to-come.htm
 author: otago-university-students-association
+permalink: /archive/2001/01/15/maternity-care-costs-a-sign-of-costs-to-come/index.html
+layout: layout.njk
 ---
 Maternity Care Costs a Sign of Costs to Come
 ============================================

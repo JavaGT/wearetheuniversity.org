@@ -1,8 +1,12 @@
 ---
 slug: chris-liddell-funds-scholarships-to-take-kiwis-to-oxford
-title: "Chris Liddell funds scholarships to take Kiwis to Oxford"
-date: 2017-11-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/chris-liddell-funds-scholarships-to-take-kiwis-to-oxford.html
+title: Chris Liddell funds scholarships to take Kiwis to Oxford
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/chris-liddell-funds-scholarships-to-take-kiwis-to-oxford.html
+permalink: >-
+  /archive/2017/11/27/chris-liddell-funds-scholarships-to-take-kiwis-to-oxford/index.html
+layout: layout.njk
 ---
 Chris Liddell funds scholarships to take Kiwis to Oxford
 ========================================================

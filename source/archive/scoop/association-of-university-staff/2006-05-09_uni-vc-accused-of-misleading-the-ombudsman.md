@@ -1,9 +1,12 @@
 ---
 slug: uni-vc-accused-of-misleading-the-ombudsman
-title: "Uni. VC Accused Of Misleading the Ombudsman"
-date: 2006-05-09
-source-url: https://www.scoop.co.nz/stories/ED0605/S00031/uni-vc-accused-of-misleading-the-ombudsman.htm
+title: Uni. VC Accused Of Misleading the Ombudsman
+date: 2006-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00031/uni-vc-accused-of-misleading-the-ombudsman.htm
 author: association-of-university-staff
+permalink: /archive/2006/05/09/uni-vc-accused-of-misleading-the-ombudsman/index.html
+layout: layout.njk
 ---
 Uni. VC Accused Of Misleading the Ombudsman
 ===========================================

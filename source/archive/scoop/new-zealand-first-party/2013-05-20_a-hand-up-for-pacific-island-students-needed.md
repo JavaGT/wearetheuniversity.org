@@ -1,9 +1,12 @@
 ---
 slug: a-hand-up-for-pacific-island-students-needed
-title: "A Hand Up For Pacific Island Students Needed"
-date: 2013-05-20
-source-url: https://www.scoop.co.nz/stories/PA1305/S00415/a-hand-up-for-pacific-island-students-needed.htm
+title: A Hand Up For Pacific Island Students Needed
+date: 2013-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00415/a-hand-up-for-pacific-island-students-needed.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/20/a-hand-up-for-pacific-island-students-needed/index.html
+layout: layout.njk
 ---
 A Hand Up For Pacific Island Students Needed
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: charitable-blue-collar-workers-most-frequent-body-donors
-title: "Charitable blue collar workers most frequent body donors"
-date: 2012-04-20
-source-url: https://www.scoop.co.nz/stories/GE1204/S00075/charitable-blue-collar-workers-most-frequent-body-donors.htm
+title: Charitable blue collar workers most frequent body donors
+date: 2012-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1204/S00075/charitable-blue-collar-workers-most-frequent-body-donors.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/04/20/charitable-blue-collar-workers-most-frequent-body-donors/index.html
+layout: layout.njk
 ---
 Charitable blue collar workers most frequent body donors
 ========================================================

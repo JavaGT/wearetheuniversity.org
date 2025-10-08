@@ -1,9 +1,11 @@
 ---
 slug: university-fees-deal
-title: "University Fees Deal"
-date: 2001-08-21
+title: University Fees Deal
+date: 2001-08-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0108/S00053/university-fees-deal.htm
 author: auckland-university
+permalink: /archive/2001/08/21/university-fees-deal/index.html
+layout: layout.njk
 ---
 University Fees Deal
 ====================

@@ -1,9 +1,12 @@
 ---
 slug: symposium-to-remember-mahys-fantastic-fiction
-title: "Symposium to remember Mahy’s fantastic fiction"
-date: 2012-09-14
-source-url: https://www.scoop.co.nz/stories/CU1209/S00262/symposium-to-remember-mahys-fantastic-fiction.htm
+title: Symposium to remember Mahy’s fantastic fiction
+date: 2012-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1209/S00262/symposium-to-remember-mahys-fantastic-fiction.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/09/14/symposium-to-remember-mahys-fantastic-fiction/index.html
+layout: layout.njk
 ---
 Symposium to remember Mahy’s fantastic fiction
 ==============================================

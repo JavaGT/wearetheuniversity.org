@@ -1,9 +1,13 @@
 ---
 slug: capital-gains-tax-would-hit-13000-southland-businesses
-title: "Capital Gains Tax would hit 13,000 Southland businesses"
-date: 2019-04-05
-source-url: https://www.scoop.co.nz/stories/PA1904/S00056/capital-gains-tax-would-hit-13000-southland-businesses.htm
+title: Capital Gains Tax would hit 13,000 Southland businesses
+date: 2019-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00056/capital-gains-tax-would-hit-13000-southland-businesses.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/05/capital-gains-tax-would-hit-13000-southland-businesses/index.html
+layout: layout.njk
 ---
 Capital Gains Tax would hit 13,000 Southland businesses
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: methamphetamine-use-and-its-impact-on-violence-laid-bare-in-world-first-study
-title: "Methamphetamine Use And Its Impact On Violence Laid Bare In World-first Study"
-date: 2020-02-19
-source-url: https://www.scoop.co.nz/stories/PO2002/S00160/methamphetamine-use-and-its-impact-on-violence-laid-bare-in-world-first-study.htm
+title: Methamphetamine Use And Its Impact On Violence Laid Bare In World-first Study
+date: 2020-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2002/S00160/methamphetamine-use-and-its-impact-on-violence-laid-bare-in-world-first-study.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/02/19/methamphetamine-use-and-its-impact-on-violence-laid-bare-in-world-first-study/index.html
+layout: layout.njk
 ---
 Methamphetamine Use And Its Impact On Violence Laid Bare In World-first Study
 =============================================================================

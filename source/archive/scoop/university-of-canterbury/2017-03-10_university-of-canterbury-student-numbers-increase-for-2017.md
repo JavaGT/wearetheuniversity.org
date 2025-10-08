@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-student-numbers-increase-for-2017
-title: "University of Canterbury student numbers increase for 2017"
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/ED1703/S00054/university-of-canterbury-student-numbers-increase-for-2017.htm
+title: University of Canterbury student numbers increase for 2017
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1703/S00054/university-of-canterbury-student-numbers-increase-for-2017.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/10/university-of-canterbury-student-numbers-increase-for-2017/index.html
+layout: layout.njk
 ---
 University of Canterbury student numbers increase for 2017
 ==========================================================

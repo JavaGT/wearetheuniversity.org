@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-becomes-ucs-largest-student-club
-title: "Student Volunteer Army becomes UC’s largest student club"
-date: 2016-05-12
-source-url: https://www.scoop.co.nz/stories/ED1605/S00047/student-volunteer-army-becomes-ucs-largest-student-club.htm
+title: Student Volunteer Army becomes UC’s largest student club
+date: 2016-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00047/student-volunteer-army-becomes-ucs-largest-student-club.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2016/05/12/student-volunteer-army-becomes-ucs-largest-student-club/index.html
+layout: layout.njk
 ---
 Student Volunteer Army becomes UC’s largest student club
 ========================================================

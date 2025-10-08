@@ -1,9 +1,12 @@
 ---
 slug: no-accountability-for-charter-school-millions
-title: "No accountability for charter school millions"
-date: 2014-02-12
-source-url: https://www.scoop.co.nz/stories/PA1402/S00150/no-accountability-for-charter-school-millions.htm
+title: No accountability for charter school millions
+date: 2014-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00150/no-accountability-for-charter-school-millions.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/12/no-accountability-for-charter-school-millions/index.html
+layout: layout.njk
 ---
 No accountability for charter school millions
 =============================================

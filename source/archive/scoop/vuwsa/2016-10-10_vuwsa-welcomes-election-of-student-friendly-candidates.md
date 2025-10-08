@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-welcomes-election-of-student-friendly-candidates
-title: "VUWSA welcomes election of student-friendly candidates"
-date: 2016-10-10
-source-url: https://www.scoop.co.nz/stories/AK1610/S00210/vuwsa-welcomes-election-of-student-friendly-candidates.htm
+title: VUWSA welcomes election of student-friendly candidates
+date: 2016-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1610/S00210/vuwsa-welcomes-election-of-student-friendly-candidates.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/10/10/vuwsa-welcomes-election-of-student-friendly-candidates/index.html
+layout: layout.njk
 ---
 VUWSA welcomes election of student-friendly candidates
 ======================================================

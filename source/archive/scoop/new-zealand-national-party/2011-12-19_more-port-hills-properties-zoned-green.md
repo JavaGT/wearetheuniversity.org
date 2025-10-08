@@ -1,9 +1,12 @@
 ---
 slug: more-port-hills-properties-zoned-green
-title: "More Port Hills properties zoned green"
-date: 2011-12-19
-source-url: https://www.scoop.co.nz/stories/PA1112/S00130/more-port-hills-properties-zoned-green.htm
+title: More Port Hills properties zoned green
+date: 2011-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00130/more-port-hills-properties-zoned-green.htm
 author: new-zealand-national-party
+permalink: /archive/2011/12/19/more-port-hills-properties-zoned-green/index.html
+layout: layout.njk
 ---
 More Port Hills properties zoned green
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: serious-allegations-requires-independent-investigation
-title: "Serious allegations requires independent investigation"
-date: 2019-09-05
-source-url: https://www.scoop.co.nz/stories/PA1909/S00040/serious-allegations-requires-independent-investigation.htm
+title: Serious allegations requires independent investigation
+date: 2019-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1909/S00040/serious-allegations-requires-independent-investigation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/09/05/serious-allegations-requires-independent-investigation/index.html
+layout: layout.njk
 ---
 Serious allegations requires independent investigation
 ======================================================

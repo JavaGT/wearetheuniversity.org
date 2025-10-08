@@ -1,9 +1,11 @@
 ---
 slug: free-press-august-18-2015
-title: "Free Press - August 18 2015"
-date: 2015-08-18
+title: Free Press - August 18 2015
+date: 2015-08-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1508/S00275/free-press-august-18-2015.htm
 author: act-new-zealand
+permalink: /archive/2015/08/18/free-press-august-18-2015/index.html
+layout: layout.njk
 ---
 Free Press - August 18 2015
 ===========================

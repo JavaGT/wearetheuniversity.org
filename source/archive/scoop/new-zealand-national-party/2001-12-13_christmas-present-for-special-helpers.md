@@ -1,9 +1,12 @@
 ---
 slug: christmas-present-for-special-helpers
-title: "Christmas Present For Special Helpers"
-date: 2001-12-13
-source-url: https://www.scoop.co.nz/stories/PA0112/S00249/christmas-present-for-special-helpers.htm
+title: Christmas Present For Special Helpers
+date: 2001-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00249/christmas-present-for-special-helpers.htm
 author: new-zealand-national-party
+permalink: /archive/2001/12/13/christmas-present-for-special-helpers/index.html
+layout: layout.njk
 ---
 Christmas Present For Special Helpers
 =====================================

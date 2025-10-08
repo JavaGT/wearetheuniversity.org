@@ -1,9 +1,12 @@
 ---
 slug: corruption-perceptions-index-biased-and-flawed
-title: "Corruption Perceptions Index ‘biased’ and ‘flawed’"
-date: 2020-01-24
-source-url: https://www.scoop.co.nz/stories/PO2001/S00090/corruption-perceptions-index-biased-and-flawed.htm
+title: Corruption Perceptions Index ‘biased’ and ‘flawed’
+date: 2020-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2001/S00090/corruption-perceptions-index-biased-and-flawed.htm
 author: university-of-waikato
+permalink: /archive/2020/01/24/corruption-perceptions-index-biased-and-flawed/index.html
+layout: layout.njk
 ---
 Corruption Perceptions Index ‘biased’ and ‘flawed’
 ==================================================

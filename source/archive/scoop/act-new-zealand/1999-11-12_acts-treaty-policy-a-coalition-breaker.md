@@ -1,9 +1,12 @@
 ---
 slug: acts-treaty-policy-a-coalition-breaker
-title: "ACT’s Treaty Policy A Coalition Breaker"
-date: 1999-11-12
-source-url: https://www.scoop.co.nz/stories/PA9911/S00295/acts-treaty-policy-a-coalition-breaker.htm
+title: ACT’s Treaty Policy A Coalition Breaker
+date: 1999-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00295/acts-treaty-policy-a-coalition-breaker.htm
 author: act-new-zealand
+permalink: /archive/1999/11/12/acts-treaty-policy-a-coalition-breaker/index.html
+layout: layout.njk
 ---
 ACT’s Treaty Policy A Coalition Breaker
 =======================================

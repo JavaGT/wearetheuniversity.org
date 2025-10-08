@@ -1,9 +1,12 @@
 ---
 slug: green-party-co-leader-metiria-tureis-speech
-title: "Green Party Co-Leader Metiria Turei's Speech"
-date: 2009-06-01
-source-url: https://www.scoop.co.nz/stories/PA0906/S00006/green-party-co-leader-metiria-tureis-speech.htm
+title: Green Party Co-Leader Metiria Turei's Speech
+date: 2009-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00006/green-party-co-leader-metiria-tureis-speech.htm
 author: green-party
+permalink: /archive/2009/06/01/green-party-co-leader-metiria-tureis-speech/index.html
+layout: layout.njk
 ---
 Green Party Co-Leader Metiria Turei's Speech
 ============================================

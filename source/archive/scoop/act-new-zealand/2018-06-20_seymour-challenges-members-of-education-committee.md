@@ -1,9 +1,13 @@
 ---
 slug: seymour-challenges-members-of-education-committee
-title: "Seymour challenges members of education committee"
-date: 2018-06-20
-source-url: https://www.scoop.co.nz/stories/PA1806/S00200/seymour-challenges-members-of-education-committee.htm
+title: Seymour challenges members of education committee
+date: 2018-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00200/seymour-challenges-members-of-education-committee.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2018/06/20/seymour-challenges-members-of-education-committee/index.html
+layout: layout.njk
 ---
 Seymour challenges members of education committee
 =================================================

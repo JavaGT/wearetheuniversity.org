@@ -1,9 +1,12 @@
 ---
 slug: brash-improving-health-policy-speech
-title: "Brash: Improving Health Policy Speech"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/PA0508/S00289/brash-improving-health-policy-speech.htm
+title: 'Brash: Improving Health Policy Speech'
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00289/brash-improving-health-policy-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2005/08/10/brash-improving-health-policy-speech/index.html
+layout: layout.njk
 ---
 Brash: Improving Health Policy Speech
 =====================================

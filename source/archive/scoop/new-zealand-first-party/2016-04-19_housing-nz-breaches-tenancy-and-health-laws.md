@@ -1,9 +1,12 @@
 ---
 slug: housing-nz-breaches-tenancy-and-health-laws
-title: "Housing NZ Breaches Tenancy And Health Laws"
-date: 2016-04-19
-source-url: https://www.scoop.co.nz/stories/PA1604/S00318/housing-nz-breaches-tenancy-and-health-laws.htm
+title: Housing NZ Breaches Tenancy And Health Laws
+date: 2016-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00318/housing-nz-breaches-tenancy-and-health-laws.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/19/housing-nz-breaches-tenancy-and-health-laws/index.html
+layout: layout.njk
 ---
 Housing NZ Breaches Tenancy And Health Laws
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: trust-act-speech-richard-prebble
-title: "Trust Act  - Speech -- Richard Prebble"
-date: 1999-10-24
-source-url: https://www.scoop.co.nz/stories/PA9910/S00558/trust-act-speech-richard-prebble.htm
+title: Trust Act  - Speech -- Richard Prebble
+date: 1999-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00558/trust-act-speech-richard-prebble.htm
 author: act-new-zealand
+permalink: /archive/1999/10/24/trust-act-speech-richard-prebble/index.html
+layout: layout.njk
 ---
 Trust Act - Speech -- Richard Prebble
 =====================================

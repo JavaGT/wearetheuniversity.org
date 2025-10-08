@@ -1,9 +1,13 @@
 ---
 slug: national-teaching-award-for-otago-frog-biologist
-title: "National teaching award for Otago frog biologist"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00024/national-teaching-award-for-otago-frog-biologist.htm
+title: National teaching award for Otago frog biologist
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00024/national-teaching-award-for-otago-frog-biologist.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/08/05/national-teaching-award-for-otago-frog-biologist/index.html
+layout: layout.njk
 ---
 National teaching award for Otago frog biologist
 ================================================

@@ -1,9 +1,11 @@
 ---
 slug: waikato-result-welcomed
-title: "Waikato Result Welcomed"
-date: 2000-10-20
+title: Waikato Result Welcomed
+date: 2000-10-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0010/S00029/waikato-result-welcomed.htm
 author: victoria-university-students-association
+permalink: /archive/2000/10/20/waikato-result-welcomed/index.html
+layout: layout.njk
 ---
 Waikato Result Welcomed
 =======================

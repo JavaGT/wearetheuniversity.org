@@ -1,9 +1,13 @@
 ---
 slug: government-must-not-cut-off-options-for-special-ed
-title: "Government must not cut off options for Special Ed"
-date: 2010-07-23
-source-url: https://www.scoop.co.nz/stories/PA1007/S00373/government-must-not-cut-off-options-for-special-ed.htm
+title: Government must not cut off options for Special Ed
+date: 2010-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00373/government-must-not-cut-off-options-for-special-ed.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/07/23/government-must-not-cut-off-options-for-special-ed/index.html
+layout: layout.njk
 ---
 Government must not cut off options for Special Ed
 ==================================================

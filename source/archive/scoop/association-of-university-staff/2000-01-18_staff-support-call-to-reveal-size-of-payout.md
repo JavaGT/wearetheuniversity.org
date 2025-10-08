@@ -1,9 +1,12 @@
 ---
 slug: staff-support-call-to-reveal-size-of-payout
-title: "Staff support call to reveal size of payout"
-date: 2000-01-18
-source-url: https://www.scoop.co.nz/stories/ED0001/S00005/staff-support-call-to-reveal-size-of-payout.htm
+title: Staff support call to reveal size of payout
+date: 2000-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00005/staff-support-call-to-reveal-size-of-payout.htm
 author: association-of-university-staff
+permalink: /archive/2000/01/18/staff-support-call-to-reveal-size-of-payout/index.html
+layout: layout.njk
 ---
 Staff support call to reveal size of payout
 ===========================================

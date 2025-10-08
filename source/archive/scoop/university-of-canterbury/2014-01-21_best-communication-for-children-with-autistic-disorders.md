@@ -1,9 +1,13 @@
 ---
 slug: best-communication-for-children-with-autistic-disorders
-title: "Best communication for children with autistic disorders"
-date: 2014-01-21
-source-url: https://www.scoop.co.nz/stories/GE1401/S00046/best-communication-for-children-with-autistic-disorders.htm
+title: Best communication for children with autistic disorders
+date: 2014-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1401/S00046/best-communication-for-children-with-autistic-disorders.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/21/best-communication-for-children-with-autistic-disorders/index.html
+layout: layout.njk
 ---
 Best communication for children with autistic disorders
 =======================================================

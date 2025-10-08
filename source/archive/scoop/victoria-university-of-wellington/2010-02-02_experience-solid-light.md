@@ -1,9 +1,11 @@
 ---
 slug: experience-solid-light
-title: "Experience solid light"
-date: 2010-02-02
+title: Experience solid light
+date: 2010-02-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1002/S00022/experience-solid-light.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/02/02/experience-solid-light/index.html
+layout: layout.njk
 ---
 Experience solid light
 ======================

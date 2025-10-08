@@ -1,9 +1,13 @@
 ---
 slug: is-my-chair-real-and-other-philosophical-quandaries
-title: "Is my chair real? and other philosophical quandaries"
-date: 2013-11-15
-source-url: https://www.scoop.co.nz/stories/ED1311/S00108/is-my-chair-real-and-other-philosophical-quandaries.htm
+title: Is my chair real? and other philosophical quandaries
+date: 2013-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00108/is-my-chair-real-and-other-philosophical-quandaries.htm
 author: massey-university
+permalink: >-
+  /archive/2013/11/15/is-my-chair-real-and-other-philosophical-quandaries/index.html
+layout: layout.njk
 ---
 Is my chair real? and other philosophical quandaries
 ====================================================

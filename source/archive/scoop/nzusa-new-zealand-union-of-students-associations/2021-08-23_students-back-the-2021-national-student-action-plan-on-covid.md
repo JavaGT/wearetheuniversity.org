@@ -1,9 +1,13 @@
 ---
 slug: students-back-the-2021-national-student-action-plan-on-covid
-title: "Students back the 2021 National Student Action Plan on COVID"
-date: 2021-08-23
-source-url: https://www.scoop.co.nz/stories/ED2108/S00035/students-back-the-2021-national-student-action-plan-on-covid.htm
+title: Students back the 2021 National Student Action Plan on COVID
+date: 2021-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00035/students-back-the-2021-national-student-action-plan-on-covid.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/08/23/students-back-the-2021-national-student-action-plan-on-covid/index.html
+layout: layout.njk
 ---
 Students back the 2021 National Student Action Plan on COVID
 ============================================================

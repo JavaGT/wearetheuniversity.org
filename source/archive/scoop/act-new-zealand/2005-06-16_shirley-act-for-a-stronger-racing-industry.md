@@ -1,9 +1,12 @@
 ---
 slug: shirley-act-for-a-stronger-racing-industry
-title: "Shirley - ACT for a stronger racing industry"
-date: 2005-06-16
-source-url: https://www.scoop.co.nz/stories/PA0506/S00363/shirley-act-for-a-stronger-racing-industry.htm
+title: Shirley - ACT for a stronger racing industry
+date: 2005-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00363/shirley-act-for-a-stronger-racing-industry.htm
 author: act-new-zealand
+permalink: /archive/2005/06/16/shirley-act-for-a-stronger-racing-industry/index.html
+layout: layout.njk
 ---
 Shirley - ACT for a stronger racing industry
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: kiwisaver-product-disclosure-statements
-title: "KiwiSaver product disclosure statements"
-date: 2017-08-21
-source-url: https://www.scoop.co.nz/stories/ED1708/S00073/kiwisaver-product-disclosure-statements.htm
+title: KiwiSaver product disclosure statements
+date: 2017-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00073/kiwisaver-product-disclosure-statements.htm
 author: aut-university
+permalink: /archive/2017/08/21/kiwisaver-product-disclosure-statements/index.html
+layout: layout.njk
 ---
 KiwiSaver product disclosure statements
 =======================================

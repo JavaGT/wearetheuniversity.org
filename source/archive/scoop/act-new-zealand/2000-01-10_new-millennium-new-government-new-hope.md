@@ -1,9 +1,12 @@
 ---
 slug: new-millennium-new-government-new-hope
-title: "New millennium, new government, new hope"
-date: 2000-01-10
-source-url: https://www.scoop.co.nz/stories/PA0001/S00002/new-millennium-new-government-new-hope.htm
+title: New millennium, new government, new hope
+date: 2000-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00002/new-millennium-new-government-new-hope.htm
 author: act-new-zealand
+permalink: /archive/2000/01/10/new-millennium-new-government-new-hope/index.html
+layout: layout.njk
 ---
 New millennium, new government, new hope
 ========================================

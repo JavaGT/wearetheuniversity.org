@@ -1,9 +1,12 @@
 ---
 slug: industry-advocate-challenged-to-debate-obesity
-title: "Industry advocate challenged to debate Obesity"
-date: 2006-08-18
-source-url: https://www.scoop.co.nz/stories/GE0608/S00075/industry-advocate-challenged-to-debate-obesity.htm
+title: Industry advocate challenged to debate Obesity
+date: 2006-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0608/S00075/industry-advocate-challenged-to-debate-obesity.htm
 author: massey-university
+permalink: /archive/2006/08/18/industry-advocate-challenged-to-debate-obesity/index.html
+layout: layout.njk
 ---
 Industry advocate challenged to debate Obesity
 ==============================================

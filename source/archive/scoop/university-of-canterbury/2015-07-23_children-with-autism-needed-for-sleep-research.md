@@ -1,9 +1,12 @@
 ---
 slug: children-with-autism-needed-for-sleep-research
-title: "Children with autism needed for sleep research"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/ED1507/S00103/children-with-autism-needed-for-sleep-research.htm
+title: Children with autism needed for sleep research
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00103/children-with-autism-needed-for-sleep-research.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/23/children-with-autism-needed-for-sleep-research/index.html
+layout: layout.njk
 ---
 Children with autism needed for sleep research
 ==============================================

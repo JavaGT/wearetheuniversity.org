@@ -1,9 +1,13 @@
 ---
 slug: world-leading-electrical-engineer-wins-uc-research-medal
-title: "World-leading electrical engineer wins UC Research Medal"
-date: 2018-07-30
-source-url: https://www.scoop.co.nz/stories/ED1807/S00069/world-leading-electrical-engineer-wins-uc-research-medal.htm
+title: World-leading electrical engineer wins UC Research Medal
+date: 2018-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00069/world-leading-electrical-engineer-wins-uc-research-medal.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/07/30/world-leading-electrical-engineer-wins-uc-research-medal/index.html
+layout: layout.njk
 ---
 World-leading electrical engineer wins UC Research Medal
 ========================================================

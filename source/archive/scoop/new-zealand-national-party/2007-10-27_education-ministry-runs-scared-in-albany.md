@@ -1,9 +1,12 @@
 ---
 slug: education-ministry-runs-scared-in-albany
-title: "Education Ministry runs scared in Albany"
-date: 2007-10-27
-source-url: https://www.scoop.co.nz/stories/PA0710/S00526/education-ministry-runs-scared-in-albany.htm
+title: Education Ministry runs scared in Albany
+date: 2007-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00526/education-ministry-runs-scared-in-albany.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/27/education-ministry-runs-scared-in-albany/index.html
+layout: layout.njk
 ---
 Education Ministry runs scared in Albany
 ========================================

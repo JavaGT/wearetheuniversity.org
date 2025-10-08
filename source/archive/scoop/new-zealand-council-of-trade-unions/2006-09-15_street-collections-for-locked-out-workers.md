@@ -1,9 +1,12 @@
 ---
 slug: street-collections-for-locked-out-workers
-title: "Street Collections For Locked Out Workers"
-date: 2006-09-15
-source-url: https://www.scoop.co.nz/stories/PO0609/S00165/street-collections-for-locked-out-workers.htm
+title: Street Collections For Locked Out Workers
+date: 2006-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0609/S00165/street-collections-for-locked-out-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/09/15/street-collections-for-locked-out-workers/index.html
+layout: layout.njk
 ---
 Street Collections For Locked Out Workers
 =========================================

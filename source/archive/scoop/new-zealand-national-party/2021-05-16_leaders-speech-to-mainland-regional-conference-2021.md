@@ -1,9 +1,13 @@
 ---
 slug: leaders-speech-to-mainland-regional-conference-2021
-title: "Leader’s Speech To Mainland Regional Conference 2021"
-date: 2021-05-16
-source-url: https://www.scoop.co.nz/stories/PA2105/S00134/leaders-speech-to-mainland-regional-conference-2021.htm
+title: Leader’s Speech To Mainland Regional Conference 2021
+date: 2021-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2105/S00134/leaders-speech-to-mainland-regional-conference-2021.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/05/16/leaders-speech-to-mainland-regional-conference-2021/index.html
+layout: layout.njk
 ---
 Leader’s Speech To Mainland Regional Conference 2021
 ====================================================

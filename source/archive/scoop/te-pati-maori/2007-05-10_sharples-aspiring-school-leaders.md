@@ -1,9 +1,12 @@
 ---
 slug: sharples-aspiring-school-leaders
-title: "Sharples: Aspiring School Leaders"
-date: 2007-05-10
-source-url: https://www.scoop.co.nz/stories/PA0705/S00268/sharples-aspiring-school-leaders.htm
+title: 'Sharples: Aspiring School Leaders'
+date: 2007-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00268/sharples-aspiring-school-leaders.htm
 author: te-pati-maori
+permalink: /archive/2007/05/10/sharples-aspiring-school-leaders/index.html
+layout: layout.njk
 ---
 Sharples: Aspiring School Leaders
 =================================

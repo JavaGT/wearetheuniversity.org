@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-well-ranked-and-striving-for-excellence
-title: "Lincoln University well ranked and striving for excellence"
-date: 2017-07-06
-source-url: https://www.scoop.co.nz/stories/ED1707/S00023/lincoln-university-well-ranked-and-striving-for-excellence.htm
+title: Lincoln University well ranked and striving for excellence
+date: 2017-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00023/lincoln-university-well-ranked-and-striving-for-excellence.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/07/06/lincoln-university-well-ranked-and-striving-for-excellence/index.html
+layout: layout.njk
 ---
 Lincoln University well ranked and striving for excellence
 ==========================================================

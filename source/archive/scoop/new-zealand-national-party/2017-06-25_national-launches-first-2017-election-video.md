@@ -1,9 +1,12 @@
 ---
 slug: national-launches-first-2017-election-video
-title: "National launches first 2017 election video"
-date: 2017-06-25
-source-url: https://www.scoop.co.nz/stories/PA1706/S00418/national-launches-first-2017-election-video.htm
+title: National launches first 2017 election video
+date: 2017-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00418/national-launches-first-2017-election-video.htm
 author: new-zealand-national-party
+permalink: /archive/2017/06/25/national-launches-first-2017-election-video/index.html
+layout: layout.njk
 ---
 National launches first 2017 election video
 ===========================================

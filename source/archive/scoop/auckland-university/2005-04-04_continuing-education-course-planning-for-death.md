@@ -1,9 +1,12 @@
 ---
 slug: continuing-education-course-planning-for-death
-title: "Continuing Education Course - Planning for Death"
-date: 2005-04-04
-source-url: https://www.scoop.co.nz/stories/ED0504/S00008/continuing-education-course-planning-for-death.htm
+title: Continuing Education Course - Planning for Death
+date: 2005-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00008/continuing-education-course-planning-for-death.htm
 author: auckland-university
+permalink: /archive/2005/04/04/continuing-education-course-planning-for-death/index.html
+layout: layout.njk
 ---
 Continuing Education Course - Planning for Death
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: stand-irwin-aside-says-national
-title: "Stand Irwin Aside Says National"
-date: 2002-03-27
-source-url: https://www.scoop.co.nz/stories/PA0203/S00528/stand-irwin-aside-says-national.htm
+title: Stand Irwin Aside Says National
+date: 2002-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00528/stand-irwin-aside-says-national.htm
 author: new-zealand-national-party
+permalink: /archive/2002/03/27/stand-irwin-aside-says-national/index.html
+layout: layout.njk
 ---
 Stand Irwin Aside Says National
 ===============================

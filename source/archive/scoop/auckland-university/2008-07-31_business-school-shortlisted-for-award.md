@@ -1,9 +1,12 @@
 ---
 slug: business-school-shortlisted-for-award
-title: "Business School shortlisted for Award"
-date: 2008-07-31
-source-url: https://www.scoop.co.nz/stories/ED0807/S00097/business-school-shortlisted-for-award.htm
+title: Business School shortlisted for Award
+date: 2008-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00097/business-school-shortlisted-for-award.htm
 author: auckland-university
+permalink: /archive/2008/07/31/business-school-shortlisted-for-award/index.html
+layout: layout.njk
 ---
 Business School shortlisted for Award
 =====================================

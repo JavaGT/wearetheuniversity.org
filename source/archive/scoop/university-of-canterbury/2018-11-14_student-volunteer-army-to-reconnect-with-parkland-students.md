@@ -1,9 +1,13 @@
 ---
 slug: student-volunteer-army-to-reconnect-with-parkland-students
-title: "Student Volunteer Army to reconnect with Parkland students"
-date: 2018-11-14
-source-url: https://www.scoop.co.nz/stories/PO1811/S00150/student-volunteer-army-to-reconnect-with-parkland-students.htm
+title: Student Volunteer Army to reconnect with Parkland students
+date: 2018-11-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1811/S00150/student-volunteer-army-to-reconnect-with-parkland-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/11/14/student-volunteer-army-to-reconnect-with-parkland-students/index.html
+layout: layout.njk
 ---
 Student Volunteer Army to reconnect with Parkland students
 ==========================================================

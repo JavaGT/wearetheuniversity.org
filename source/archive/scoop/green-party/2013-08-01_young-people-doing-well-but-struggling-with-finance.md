@@ -1,9 +1,13 @@
 ---
 slug: young-people-doing-well-but-struggling-with-finance
-title: "Young people doing well but struggling with finance"
-date: 2013-08-01
-source-url: https://www.scoop.co.nz/stories/PA1308/S00039/young-people-doing-well-but-struggling-with-finance.htm
+title: Young people doing well but struggling with finance
+date: 2013-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00039/young-people-doing-well-but-struggling-with-finance.htm
 author: green-party
+permalink: >-
+  /archive/2013/08/01/young-people-doing-well-but-struggling-with-finance/index.html
+layout: layout.njk
 ---
 Young people doing well but struggling with finance
 ===================================================

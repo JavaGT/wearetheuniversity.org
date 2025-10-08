@@ -1,8 +1,12 @@
 ---
 slug: vitamin-d-supplements-unnecessary-for-healthy-adults
-title: "Vitamin D supplements unnecessary for healthy adults"
-date: 2016-11-29
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/vitamin-d-supplements-unnecessary-for-healthy-adults.html
+title: Vitamin D supplements unnecessary for healthy adults
+date: 2016-11-29T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/vitamin-d-supplements-unnecessary-for-healthy-adults.html
+permalink: >-
+  /archive/2016/11/29/vitamin-d-supplements-unnecessary-for-healthy-adults/index.html
+layout: layout.njk
 ---
 Vitamin D supplements unnecessary for healthy adults
 ====================================================

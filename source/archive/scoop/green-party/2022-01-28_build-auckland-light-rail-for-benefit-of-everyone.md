@@ -1,9 +1,13 @@
 ---
 slug: build-auckland-light-rail-for-benefit-of-everyone
-title: "Build Auckland Light Rail For Benefit Of Everyone"
-date: 2022-01-28
-source-url: https://www.scoop.co.nz/stories/PA2201/S00106/build-auckland-light-rail-for-benefit-of-everyone.htm
+title: Build Auckland Light Rail For Benefit Of Everyone
+date: 2022-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00106/build-auckland-light-rail-for-benefit-of-everyone.htm
 author: green-party
+permalink: >-
+  /archive/2022/01/28/build-auckland-light-rail-for-benefit-of-everyone/index.html
+layout: layout.njk
 ---
 Build Auckland Light Rail For Benefit Of Everyone
 =================================================

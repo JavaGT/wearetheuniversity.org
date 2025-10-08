@@ -1,9 +1,12 @@
 ---
 slug: alliance-policy-sets-standard-for-other-parties
-title: "Alliance Policy Sets Standard for Other Parties"
-date: 2002-06-20
-source-url: https://www.scoop.co.nz/stories/PO0206/S00126/alliance-policy-sets-standard-for-other-parties.htm
+title: Alliance Policy Sets Standard for Other Parties
+date: 2002-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0206/S00126/alliance-policy-sets-standard-for-other-parties.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/06/20/alliance-policy-sets-standard-for-other-parties/index.html
+layout: layout.njk
 ---
 Alliance Policy Sets Standard for Other Parties
 ===============================================

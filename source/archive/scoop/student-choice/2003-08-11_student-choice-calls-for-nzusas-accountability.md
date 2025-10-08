@@ -1,9 +1,12 @@
 ---
 slug: student-choice-calls-for-nzusas-accountability
-title: "Student Choice Calls for NZUSA's Accountability"
-date: 2003-08-11
-source-url: https://www.scoop.co.nz/stories/ED0308/S00032/student-choice-calls-for-nzusas-accountability.htm
+title: Student Choice Calls for NZUSA's Accountability
+date: 2003-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00032/student-choice-calls-for-nzusas-accountability.htm
 author: student-choice
+permalink: /archive/2003/08/11/student-choice-calls-for-nzusas-accountability/index.html
+layout: layout.njk
 ---
 Student Choice Calls for NZUSA's Accountability
 ===============================================

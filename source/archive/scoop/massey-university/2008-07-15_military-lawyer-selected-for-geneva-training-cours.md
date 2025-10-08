@@ -1,9 +1,13 @@
 ---
 slug: military-lawyer-selected-for-geneva-training-cours
-title: "Military lawyer selected for Geneva training cours"
-date: 2008-07-15
-source-url: https://www.scoop.co.nz/stories/ED0807/S00043/military-lawyer-selected-for-geneva-training-cours.htm
+title: Military lawyer selected for Geneva training cours
+date: 2008-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00043/military-lawyer-selected-for-geneva-training-cours.htm
 author: massey-university
+permalink: >-
+  /archive/2008/07/15/military-lawyer-selected-for-geneva-training-cours/index.html
+layout: layout.njk
 ---
 Military lawyer selected for Geneva training cours
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-speech-to-financial-planners
-title: "Winston Peters Speech to Financial Planners"
-date: 2005-02-23
-source-url: https://www.scoop.co.nz/stories/PA0502/S00494/winston-peters-speech-to-financial-planners.htm
+title: Winston Peters Speech to Financial Planners
+date: 2005-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00494/winston-peters-speech-to-financial-planners.htm
 author: new-zealand-first-party
+permalink: /archive/2005/02/23/winston-peters-speech-to-financial-planners/index.html
+layout: layout.njk
 ---
 Winston Peters Speech to Financial Planners
 ===========================================

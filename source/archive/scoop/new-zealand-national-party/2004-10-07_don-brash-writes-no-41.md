@@ -1,9 +1,11 @@
 ---
 slug: don-brash-writes-no-41
-title: "Don Brash Writes: No. 41"
-date: 2004-10-07
+title: 'Don Brash Writes: No. 41'
+date: 2004-10-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0410/S00102/don-brash-writes-no-41.htm
 author: new-zealand-national-party
+permalink: /archive/2004/10/07/don-brash-writes-no-41/index.html
+layout: layout.njk
 ---
 Don Brash Writes: No. 41
 ========================

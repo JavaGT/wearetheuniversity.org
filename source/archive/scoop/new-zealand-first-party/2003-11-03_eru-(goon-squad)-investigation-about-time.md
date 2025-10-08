@@ -1,9 +1,12 @@
 ---
 slug: eru-(goon-squad)-investigation-about-time
-title: "ERU (Goon Squad) Investigation – About Time"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/PA0311/S00035/eru-goon-squad-investigation-about-time.htm
+title: ERU (Goon Squad) Investigation – About Time
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00035/eru-goon-squad-investigation-about-time.htm
 author: new-zealand-first-party
+permalink: /archive/2003/11/03/eru-/index.html
+layout: layout.njk
 ---
 ERU (Goon Squad) Investigation – About Time
 ===========================================

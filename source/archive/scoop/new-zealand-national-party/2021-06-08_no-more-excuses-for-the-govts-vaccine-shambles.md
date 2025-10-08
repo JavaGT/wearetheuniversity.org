@@ -1,9 +1,12 @@
 ---
 slug: no-more-excuses-for-the-govts-vaccine-shambles
-title: "No More Excuses For The Govt’s Vaccine Shambles"
-date: 2021-06-08
-source-url: https://www.scoop.co.nz/stories/PA2106/S00061/no-more-excuses-for-the-govts-vaccine-shambles.htm
+title: No More Excuses For The Govt’s Vaccine Shambles
+date: 2021-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2106/S00061/no-more-excuses-for-the-govts-vaccine-shambles.htm
 author: new-zealand-national-party
+permalink: /archive/2021/06/08/no-more-excuses-for-the-govts-vaccine-shambles/index.html
+layout: layout.njk
 ---
 No More Excuses For The Govt’s Vaccine Shambles
 ===============================================

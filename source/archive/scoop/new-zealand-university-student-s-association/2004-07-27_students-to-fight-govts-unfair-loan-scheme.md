@@ -1,9 +1,12 @@
 ---
 slug: students-to-fight-govts-unfair-loan-scheme
-title: "Students To fight Govt's \"Unfair\" Loan Scheme"
-date: 2004-07-27
-source-url: https://www.scoop.co.nz/stories/ED0407/S00073/students-to-fight-govts-unfair-loan-scheme.htm
+title: Students To fight Govt's "Unfair" Loan Scheme
+date: 2004-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00073/students-to-fight-govts-unfair-loan-scheme.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/07/27/students-to-fight-govts-unfair-loan-scheme/index.html
+layout: layout.njk
 ---
 Students To fight Govt's "Unfair" Loan Scheme
 =============================================

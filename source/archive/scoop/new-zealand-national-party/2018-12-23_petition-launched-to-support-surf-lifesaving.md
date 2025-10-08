@@ -1,9 +1,12 @@
 ---
 slug: petition-launched-to-support-surf-lifesaving
-title: "Petition launched to support surf lifesaving"
-date: 2018-12-23
-source-url: https://www.scoop.co.nz/stories/PA1812/S00287/petition-launched-to-support-surf-lifesaving.htm
+title: Petition launched to support surf lifesaving
+date: 2018-12-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00287/petition-launched-to-support-surf-lifesaving.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/23/petition-launched-to-support-surf-lifesaving/index.html
+layout: layout.njk
 ---
 Petition launched to support surf lifesaving
 ============================================

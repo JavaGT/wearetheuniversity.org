@@ -1,9 +1,11 @@
 ---
 slug: no-more-ielts
-title: "No more IELTS"
-date: 2004-03-03
+title: No more IELTS
+date: 2004-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0403/S00016/no-more-ielts.htm
 author: university-of-canterbury
+permalink: /archive/2004/03/03/no-more-ielts/index.html
+layout: layout.njk
 ---
 No more IELTS
 =============

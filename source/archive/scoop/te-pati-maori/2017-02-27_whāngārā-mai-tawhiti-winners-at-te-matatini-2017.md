@@ -1,9 +1,12 @@
 ---
 slug: whāngārā-mai-tawhiti-winners-at-te-matatini-2017
-title: "Whāngārā mai Tawhiti winners at Te Matatini 2017"
-date: 2017-02-27
-source-url: https://www.scoop.co.nz/stories/PA1702/S00361/whangara-mai-tawhiti-winners-at-te-matatini-2017.htm
+title: Whāngārā mai Tawhiti winners at Te Matatini 2017
+date: 2017-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00361/whangara-mai-tawhiti-winners-at-te-matatini-2017.htm
 author: te-pati-maori
+permalink: /archive/2017/02/27/wh/index.html
+layout: layout.njk
 ---
 Whāngārā mai Tawhiti winners at Te Matatini 2017
 ================================================

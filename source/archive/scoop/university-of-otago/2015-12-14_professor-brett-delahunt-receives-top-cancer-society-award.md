@@ -1,9 +1,13 @@
 ---
 slug: professor-brett-delahunt-receives-top-cancer-society-award
-title: "Professor Brett Delahunt receives top Cancer Society award"
-date: 2015-12-14
-source-url: https://www.scoop.co.nz/stories/GE1512/S00069/professor-brett-delahunt-receives-top-cancer-society-award.htm
+title: Professor Brett Delahunt receives top Cancer Society award
+date: 2015-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1512/S00069/professor-brett-delahunt-receives-top-cancer-society-award.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/12/14/professor-brett-delahunt-receives-top-cancer-society-award/index.html
+layout: layout.njk
 ---
 Professor Brett Delahunt receives top Cancer Society award
 ==========================================================

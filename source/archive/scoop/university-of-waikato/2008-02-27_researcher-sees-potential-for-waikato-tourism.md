@@ -1,9 +1,12 @@
 ---
 slug: researcher-sees-potential-for-waikato-tourism
-title: "Researcher sees potential for Waikato tourism"
-date: 2008-02-27
-source-url: https://www.scoop.co.nz/stories/AK0802/S00290/researcher-sees-potential-for-waikato-tourism.htm
+title: Researcher sees potential for Waikato tourism
+date: 2008-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0802/S00290/researcher-sees-potential-for-waikato-tourism.htm
 author: university-of-waikato
+permalink: /archive/2008/02/27/researcher-sees-potential-for-waikato-tourism/index.html
+layout: layout.njk
 ---
 Researcher sees potential for Waikato tourism
 =============================================

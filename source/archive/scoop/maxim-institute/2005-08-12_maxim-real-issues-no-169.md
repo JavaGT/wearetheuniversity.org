@@ -1,9 +1,11 @@
 ---
 slug: maxim-real-issues-no-169
-title: "Maxim Real Issues No. 169"
-date: 2005-08-12
+title: Maxim Real Issues No. 169
+date: 2005-08-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0508/S00143/maxim-real-issues-no-169.htm
 author: maxim-institute
+permalink: /archive/2005/08/12/maxim-real-issues-no-169/index.html
+layout: layout.njk
 ---
 Maxim Real Issues No. 169
 =========================

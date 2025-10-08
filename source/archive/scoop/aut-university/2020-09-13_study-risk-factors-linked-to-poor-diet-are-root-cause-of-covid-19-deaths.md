@@ -1,9 +1,13 @@
 ---
 slug: study-risk-factors-linked-to-poor-diet-are-root-cause-of-covid-19-deaths
-title: "Study - Risk Factors Linked To Poor Diet Are Root Cause Of COVID-19 Deaths"
-date: 2020-09-13
-source-url: https://www.scoop.co.nz/stories/GE2009/S00058/study-risk-factors-linked-to-poor-diet-are-root-cause-of-covid-19-deaths.htm
+title: Study - Risk Factors Linked To Poor Diet Are Root Cause Of COVID-19 Deaths
+date: 2020-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2009/S00058/study-risk-factors-linked-to-poor-diet-are-root-cause-of-covid-19-deaths.htm
 author: aut-university
+permalink: >-
+  /archive/2020/09/13/study-risk-factors-linked-to-poor-diet-are-root-cause-of-covid-19-deaths/index.html
+layout: layout.njk
 ---
 Study - Risk Factors Linked To Poor Diet Are Root Cause Of COVID-19 Deaths
 ==========================================================================

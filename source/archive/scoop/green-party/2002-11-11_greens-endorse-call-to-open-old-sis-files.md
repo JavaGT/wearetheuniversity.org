@@ -1,9 +1,12 @@
 ---
 slug: greens-endorse-call-to-open-old-sis-files
-title: "Greens Endorse Call To Open Old SIS Files"
-date: 2002-11-11
-source-url: https://www.scoop.co.nz/stories/PA0211/S00242/greens-endorse-call-to-open-old-sis-files.htm
+title: Greens Endorse Call To Open Old SIS Files
+date: 2002-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00242/greens-endorse-call-to-open-old-sis-files.htm
 author: green-party
+permalink: /archive/2002/11/11/greens-endorse-call-to-open-old-sis-files/index.html
+layout: layout.njk
 ---
 Greens Endorse Call To Open Old SIS Files
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: climate-change-reinforces-need-for-kyoto-protocol
-title: "Climate Change Reinforces Need For Kyoto Protocol"
-date: 2005-07-04
-source-url: https://www.scoop.co.nz/stories/PA0507/S00053/climate-change-reinforces-need-for-kyoto-protocol.htm
+title: Climate Change Reinforces Need For Kyoto Protocol
+date: 2005-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00053/climate-change-reinforces-need-for-kyoto-protocol.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2005/07/04/climate-change-reinforces-need-for-kyoto-protocol/index.html
+layout: layout.njk
 ---
 Climate Change Reinforces Need For Kyoto Protocol
 =================================================

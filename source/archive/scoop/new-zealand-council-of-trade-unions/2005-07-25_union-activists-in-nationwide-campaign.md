@@ -1,9 +1,12 @@
 ---
 slug: union-activists-in-nationwide-campaign
-title: "Union Activists in Nationwide Campaign"
-date: 2005-07-25
-source-url: https://www.scoop.co.nz/stories/PO0507/S00256/union-activists-in-nationwide-campaign.htm
+title: Union Activists in Nationwide Campaign
+date: 2005-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0507/S00256/union-activists-in-nationwide-campaign.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2005/07/25/union-activists-in-nationwide-campaign/index.html
+layout: layout.njk
 ---
 Union Activists in Nationwide Campaign
 ======================================

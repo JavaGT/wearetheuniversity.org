@@ -1,9 +1,12 @@
 ---
 slug: speech-evidence-bill-dr-pita-sharples
-title: "Speech: Evidence Bill / Dr Pita Sharples"
-date: 2007-06-20
-source-url: https://www.scoop.co.nz/stories/PA0706/S00387/speech-evidence-bill-dr-pita-sharples.htm
+title: 'Speech: Evidence Bill / Dr Pita Sharples'
+date: 2007-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00387/speech-evidence-bill-dr-pita-sharples.htm
 author: te-pati-maori
+permalink: /archive/2007/06/20/speech-evidence-bill-dr-pita-sharples/index.html
+layout: layout.njk
 ---
 Speech: Evidence Bill / Dr Pita Sharples
 ========================================

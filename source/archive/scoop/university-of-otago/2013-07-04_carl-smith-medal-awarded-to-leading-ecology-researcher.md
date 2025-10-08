@@ -1,9 +1,13 @@
 ---
 slug: carl-smith-medal-awarded-to-leading-ecology-researcher
-title: "Carl Smith Medal awarded to leading ecology researcher"
-date: 2013-07-04
-source-url: https://www.scoop.co.nz/stories/SC1307/S00014/carl-smith-medal-awarded-to-leading-ecology-researcher.htm
+title: Carl Smith Medal awarded to leading ecology researcher
+date: 2013-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1307/S00014/carl-smith-medal-awarded-to-leading-ecology-researcher.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/07/04/carl-smith-medal-awarded-to-leading-ecology-researcher/index.html
+layout: layout.njk
 ---
 Carl Smith Medal awarded to leading ecology researcher
 ======================================================

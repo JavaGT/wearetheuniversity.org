@@ -1,9 +1,12 @@
 ---
 slug: far-reaching-benefits-for-town-and-gown
-title: "Far-reaching benefits for town and gown"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/CU1412/S00059/far-reaching-benefits-for-town-and-gown.htm
+title: Far-reaching benefits for town and gown
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00059/far-reaching-benefits-for-town-and-gown.htm
 author: university-of-otago
+permalink: /archive/2014/12/02/far-reaching-benefits-for-town-and-gown/index.html
+layout: layout.njk
 ---
 Far-reaching benefits for town and gown
 =======================================

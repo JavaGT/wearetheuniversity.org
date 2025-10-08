@@ -1,8 +1,11 @@
 ---
 slug: nominations-for-blues-awards
-title: "Nominations for Blues awards"
-date: 2011-06-09
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/06/09/Nominations-for-Blues-awards.html
+title: Nominations for Blues awards
+date: 2011-06-09T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/06/09/Nominations-for-Blues-awards.html
+permalink: /archive/2011/06/09/nominations-for-blues-awards/index.html
+layout: layout.njk
 ---
 Nominations for Blues awards
 ============================

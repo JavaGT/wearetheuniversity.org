@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-unveils-muldoon-biography
-title: "Helen Clark Unveils Muldoon Biography"
-date: 2000-08-23
-source-url: https://www.scoop.co.nz/stories/CU0008/S00037/helen-clark-unveils-muldoon-biography.htm
+title: Helen Clark Unveils Muldoon Biography
+date: 2000-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0008/S00037/helen-clark-unveils-muldoon-biography.htm
 author: auckland-university-press
+permalink: /archive/2000/08/23/helen-clark-unveils-muldoon-biography/index.html
+layout: layout.njk
 ---
 Helen Clark Unveils Muldoon Biography
 =====================================

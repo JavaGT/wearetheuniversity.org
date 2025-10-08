@@ -1,9 +1,12 @@
 ---
 slug: free-market-best-for-energy-consumers
-title: "Free Market Best for Energy Consumers"
-date: 2006-04-11
-source-url: https://www.scoop.co.nz/stories/PA0604/S00212/free-market-best-for-energy-consumers.htm
+title: Free Market Best for Energy Consumers
+date: 2006-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00212/free-market-best-for-energy-consumers.htm
 author: act-new-zealand
+permalink: /archive/2006/04/11/free-market-best-for-energy-consumers/index.html
+layout: layout.njk
 ---
 Free Market Best for Energy Consumers
 =====================================

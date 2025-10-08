@@ -1,9 +1,13 @@
 ---
 slug: govt-misleads-nz-public-over-training-indonesians
-title: "Govt. Misleads NZ Public Over Training Indonesians"
-date: 1999-09-21
-source-url: https://www.scoop.co.nz/stories/PO9909/S00090/govt-misleads-nz-public-over-training-indonesians.htm
+title: Govt. Misleads NZ Public Over Training Indonesians
+date: 1999-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9909/S00090/govt-misleads-nz-public-over-training-indonesians.htm
 author: green-party
+permalink: >-
+  /archive/1999/09/21/govt-misleads-nz-public-over-training-indonesians/index.html
+layout: layout.njk
 ---
 Govt. Misleads NZ Public Over Training Indonesians
 ==================================================

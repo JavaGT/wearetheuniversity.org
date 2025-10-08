@@ -1,9 +1,11 @@
 ---
 slug: cut-the-cull-minister-sage
-title: "Cut the cull Minister Sage"
-date: 2018-09-19
+title: Cut the cull Minister Sage
+date: 2018-09-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1809/S00251/cut-the-cull-minister-sage.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/19/cut-the-cull-minister-sage/index.html
+layout: layout.njk
 ---
 Cut the cull Minister Sage
 ==========================

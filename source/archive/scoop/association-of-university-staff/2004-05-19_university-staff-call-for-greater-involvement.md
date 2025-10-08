@@ -1,9 +1,12 @@
 ---
 slug: university-staff-call-for-greater-involvement
-title: "University staff call for greater involvement"
-date: 2004-05-19
-source-url: https://www.scoop.co.nz/stories/ED0405/S00066/university-staff-call-for-greater-involvement.htm
+title: University staff call for greater involvement
+date: 2004-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00066/university-staff-call-for-greater-involvement.htm
 author: association-of-university-staff
+permalink: /archive/2004/05/19/university-staff-call-for-greater-involvement/index.html
+layout: layout.njk
 ---
 University staff call for greater involvement
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: students-reject-racial-quotas-and-brash-bashing
-title: "Students reject racial quotas and Brash bashing"
-date: 2004-04-30
-source-url: https://www.scoop.co.nz/stories/ED0404/S00115/students-reject-racial-quotas-and-brash-bashing.htm
+title: Students reject racial quotas and Brash bashing
+date: 2004-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00115/students-reject-racial-quotas-and-brash-bashing.htm
 author: student-choice
+permalink: /archive/2004/04/30/students-reject-racial-quotas-and-brash-bashing/index.html
+layout: layout.njk
 ---
 Students reject racial quotas and Brash bashing
 ===============================================

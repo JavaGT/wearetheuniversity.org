@@ -1,9 +1,13 @@
 ---
 slug: governments-tourist-driving-campaign-pathetic-nz-first
-title: "Government’s Tourist Driving Campaign Pathetic – NZ First"
-date: 2016-11-29
-source-url: https://www.scoop.co.nz/stories/PA1611/S00530/governments-tourist-driving-campaign-pathetic-nz-first.htm
+title: Government’s Tourist Driving Campaign Pathetic – NZ First
+date: 2016-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00530/governments-tourist-driving-campaign-pathetic-nz-first.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/11/29/governments-tourist-driving-campaign-pathetic-nz-first/index.html
+layout: layout.njk
 ---
 Government’s Tourist Driving Campaign Pathetic – NZ First
 =========================================================

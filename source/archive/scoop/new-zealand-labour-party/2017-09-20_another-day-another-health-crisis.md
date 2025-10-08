@@ -1,9 +1,12 @@
 ---
 slug: another-day-another-health-crisis
-title: "Another day – another health crisis"
-date: 2017-09-20
-source-url: https://www.scoop.co.nz/stories/PA1709/S00245/another-day-another-health-crisis.htm
+title: Another day – another health crisis
+date: 2017-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00245/another-day-another-health-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/20/another-day-another-health-crisis/index.html
+layout: layout.njk
 ---
 Another day – another health crisis
 ===================================

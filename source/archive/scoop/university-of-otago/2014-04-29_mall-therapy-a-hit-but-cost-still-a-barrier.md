@@ -1,9 +1,12 @@
 ---
 slug: mall-therapy-a-hit-but-cost-still-a-barrier
-title: "Mall therapy a hit, but cost still a barrier"
-date: 2014-04-29
-source-url: https://www.scoop.co.nz/stories/SC1404/S00094/mall-therapy-a-hit-but-cost-still-a-barrier.htm
+title: Mall therapy a hit, but cost still a barrier
+date: 2014-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1404/S00094/mall-therapy-a-hit-but-cost-still-a-barrier.htm
 author: university-of-otago
+permalink: /archive/2014/04/29/mall-therapy-a-hit-but-cost-still-a-barrier/index.html
+layout: layout.njk
 ---
 Mall therapy a hit, but cost still a barrier
 ============================================

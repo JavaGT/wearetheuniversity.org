@@ -1,9 +1,13 @@
 ---
 slug: maori-health-in-hauraki-waikato-deserves-priority
-title: "Maori Health in Hauraki-Waikato deserves priority"
-date: 2008-11-05
-source-url: https://www.scoop.co.nz/stories/PO0811/S00083/maori-health-in-hauraki-waikato-deserves-priority.htm
+title: Maori Health in Hauraki-Waikato deserves priority
+date: 2008-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00083/maori-health-in-hauraki-waikato-deserves-priority.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/11/05/maori-health-in-hauraki-waikato-deserves-priority/index.html
+layout: layout.njk
 ---
 Maori Health in Hauraki-Waikato deserves priority
 =================================================

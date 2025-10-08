@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-enough-of-arrogance-and-cover-ups
-title: "Peters Speech: Enough of Arrogance and Cover Ups"
-date: 2017-06-23
-source-url: https://www.scoop.co.nz/stories/PA1706/S00396/peters-speech-enough-of-arrogance-and-cover-ups.htm
+title: 'Peters Speech: Enough of Arrogance and Cover Ups'
+date: 2017-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1706/S00396/peters-speech-enough-of-arrogance-and-cover-ups.htm
 author: new-zealand-first-party
+permalink: /archive/2017/06/23/peters-speech-enough-of-arrogance-and-cover-ups/index.html
+layout: layout.njk
 ---
 Peters Speech: Enough of Arrogance and Cover Ups
 ================================================

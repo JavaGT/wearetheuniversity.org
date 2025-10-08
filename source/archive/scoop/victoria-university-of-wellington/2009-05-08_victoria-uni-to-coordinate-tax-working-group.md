@@ -1,9 +1,12 @@
 ---
 slug: victoria-uni-to-coordinate-tax-working-group
-title: "Victoria Uni to coordinate Tax Working Group"
-date: 2009-05-08
-source-url: https://www.scoop.co.nz/stories/BU0905/S00236/victoria-uni-to-coordinate-tax-working-group.htm
+title: Victoria Uni to coordinate Tax Working Group
+date: 2009-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0905/S00236/victoria-uni-to-coordinate-tax-working-group.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/05/08/victoria-uni-to-coordinate-tax-working-group/index.html
+layout: layout.njk
 ---
 Victoria Uni to coordinate Tax Working Group
 ============================================

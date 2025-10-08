@@ -1,9 +1,12 @@
 ---
 slug: tuckshops-still-offering-staple-diet-of-junk
-title: "Tuckshops still offering staple diet of junk"
-date: 2006-05-16
-source-url: https://www.scoop.co.nz/stories/PA0605/S00332/tuckshops-still-offering-staple-diet-of-junk.htm
+title: Tuckshops still offering staple diet of junk
+date: 2006-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00332/tuckshops-still-offering-staple-diet-of-junk.htm
 author: green-party
+permalink: /archive/2006/05/16/tuckshops-still-offering-staple-diet-of-junk/index.html
+layout: layout.njk
 ---
 Tuckshops still offering staple diet of junk
 ============================================

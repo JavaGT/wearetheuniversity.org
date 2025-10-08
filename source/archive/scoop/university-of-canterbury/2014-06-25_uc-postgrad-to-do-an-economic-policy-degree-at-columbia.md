@@ -1,9 +1,13 @@
 ---
 slug: uc-postgrad-to-do-an-economic-policy-degree-at-columbia
-title: "UC postgrad to do an economic policy degree at Columbia"
-date: 2014-06-25
-source-url: https://www.scoop.co.nz/stories/ED1406/S00133/uc-postgrad-to-do-an-economic-policy-degree-at-columbia.htm
+title: UC postgrad to do an economic policy degree at Columbia
+date: 2014-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00133/uc-postgrad-to-do-an-economic-policy-degree-at-columbia.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/25/uc-postgrad-to-do-an-economic-policy-degree-at-columbia/index.html
+layout: layout.njk
 ---
 UC postgrad to do an economic policy degree at Columbia
 =======================================================

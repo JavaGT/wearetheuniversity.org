@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-world-leading-planetary-scientist
-title: "Public Lecture: world-leading planetary scientist"
-date: 2006-11-06
-source-url: https://www.scoop.co.nz/stories/ED0611/S00017/public-lecture-world-leading-planetary-scientist.htm
+title: 'Public Lecture: world-leading planetary scientist'
+date: 2006-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00017/public-lecture-world-leading-planetary-scientist.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/11/06/public-lecture-world-leading-planetary-scientist/index.html
+layout: layout.njk
 ---
 Public Lecture: world-leading planetary scientist
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: defeated-housing-minister-drops-kiwibuild-target
-title: "Defeated Housing Minister drops KiwiBuild target"
-date: 2019-01-23
-source-url: https://www.scoop.co.nz/stories/PA1901/S00057/defeated-housing-minister-drops-kiwibuild-target.htm
+title: Defeated Housing Minister drops KiwiBuild target
+date: 2019-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00057/defeated-housing-minister-drops-kiwibuild-target.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/01/23/defeated-housing-minister-drops-kiwibuild-target/index.html
+layout: layout.njk
 ---
 Defeated Housing Minister drops KiwiBuild target
 ================================================

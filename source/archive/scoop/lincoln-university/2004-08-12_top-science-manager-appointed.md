@@ -1,9 +1,12 @@
 ---
 slug: top-science-manager-appointed
-title: "Top science manager appointed"
-date: 2004-08-12
-source-url: https://www.scoop.co.nz/stories/ED0408/S00054/top-science-manager-appointed.htm
+title: Top science manager appointed
+date: 2004-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00054/top-science-manager-appointed.htm
 author: lincoln-university
+permalink: /archive/2004/08/12/top-science-manager-appointed/index.html
+layout: layout.njk
 ---
 Top science manager appointed
 =============================

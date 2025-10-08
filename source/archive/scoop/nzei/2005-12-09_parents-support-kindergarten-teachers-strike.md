@@ -1,9 +1,12 @@
 ---
 slug: parents-support-kindergarten-teachers-strike
-title: "Parents Support Kindergarten Teachers Strike"
-date: 2005-12-09
-source-url: https://www.scoop.co.nz/stories/ED0512/S00042/parents-support-kindergarten-teachers-strike.htm
+title: Parents Support Kindergarten Teachers Strike
+date: 2005-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00042/parents-support-kindergarten-teachers-strike.htm
 author: nzei
+permalink: /archive/2005/12/09/parents-support-kindergarten-teachers-strike/index.html
+layout: layout.njk
 ---
 Parents Support Kindergarten Teachers Strike
 ============================================

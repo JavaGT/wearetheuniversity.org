@@ -1,9 +1,13 @@
 ---
 slug: doc-appoints-lincoln-professor-as-chief-science-advisor
-title: "DOC appoints Lincoln Professor as Chief Science Advisor"
-date: 2014-09-30
-source-url: https://www.scoop.co.nz/stories/ED1409/S00175/doc-appoints-lincoln-professor-as-chief-science-advisor.htm
+title: DOC appoints Lincoln Professor as Chief Science Advisor
+date: 2014-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00175/doc-appoints-lincoln-professor-as-chief-science-advisor.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/09/30/doc-appoints-lincoln-professor-as-chief-science-advisor/index.html
+layout: layout.njk
 ---
 DOC appoints Lincoln Professor as Chief Science Advisor
 =======================================================

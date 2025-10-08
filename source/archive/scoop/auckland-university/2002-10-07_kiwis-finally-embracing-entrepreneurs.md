@@ -1,9 +1,12 @@
 ---
 slug: kiwis-finally-embracing-entrepreneurs
-title: "Kiwis Finally Embracing Entrepreneurs"
-date: 2002-10-07
-source-url: https://www.scoop.co.nz/stories/ED0210/S00016/kiwis-finally-embracing-entrepreneurs.htm
+title: Kiwis Finally Embracing Entrepreneurs
+date: 2002-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0210/S00016/kiwis-finally-embracing-entrepreneurs.htm
 author: auckland-university
+permalink: /archive/2002/10/07/kiwis-finally-embracing-entrepreneurs/index.html
+layout: layout.njk
 ---
 Kiwis Finally Embracing Entrepreneurs
 =====================================

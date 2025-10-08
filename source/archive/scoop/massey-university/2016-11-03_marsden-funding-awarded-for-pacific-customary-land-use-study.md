@@ -1,9 +1,13 @@
 ---
 slug: marsden-funding-awarded-for-pacific-customary-land-use-study
-title: "Marsden funding awarded for Pacific customary land use study"
-date: 2016-11-03
-source-url: https://www.scoop.co.nz/stories/ED1611/S00016/marsden-funding-awarded-for-pacific-customary-land-use-study.htm
+title: Marsden funding awarded for Pacific customary land use study
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00016/marsden-funding-awarded-for-pacific-customary-land-use-study.htm
 author: massey-university
+permalink: >-
+  /archive/2016/11/03/marsden-funding-awarded-for-pacific-customary-land-use-study/index.html
+layout: layout.njk
 ---
 Marsden funding awarded for Pacific customary land use study
 ============================================================

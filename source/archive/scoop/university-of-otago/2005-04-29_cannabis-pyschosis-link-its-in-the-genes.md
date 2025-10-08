@@ -1,9 +1,12 @@
 ---
 slug: cannabis-pyschosis-link-its-in-the-genes
-title: "Cannabis-pyschosis link – it’s in the genes"
-date: 2005-04-29
-source-url: https://www.scoop.co.nz/stories/GE0504/S00103/cannabis-pyschosis-link-its-in-the-genes.htm
+title: Cannabis-pyschosis link – it’s in the genes
+date: 2005-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0504/S00103/cannabis-pyschosis-link-its-in-the-genes.htm
 author: university-of-otago
+permalink: /archive/2005/04/29/cannabis-pyschosis-link-its-in-the-genes/index.html
+layout: layout.njk
 ---
 Cannabis-pyschosis link – it’s in the genes
 ===========================================

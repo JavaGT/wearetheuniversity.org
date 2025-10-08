@@ -1,9 +1,12 @@
 ---
 slug: want-more-kids-make-housing-affordable
-title: "Want More Kids? Make Housing Affordable"
-date: 2023-06-12
-source-url: https://www.scoop.co.nz/stories/PA2306/S00057/want-more-kids-make-housing-affordable.htm
+title: Want More Kids? Make Housing Affordable
+date: 2023-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00057/want-more-kids-make-housing-affordable.htm
 author: act-new-zealand
+permalink: /archive/2023/06/12/want-more-kids-make-housing-affordable/index.html
+layout: layout.njk
 ---
 Want More Kids? Make Housing Affordable
 =======================================

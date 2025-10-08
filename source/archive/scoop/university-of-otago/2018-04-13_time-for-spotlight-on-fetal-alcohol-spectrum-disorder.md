@@ -1,9 +1,13 @@
 ---
 slug: time-for-spotlight-on-fetal-alcohol-spectrum-disorder
-title: "Time for spotlight on Fetal Alcohol Spectrum Disorder"
-date: 2018-04-13
-source-url: https://www.scoop.co.nz/stories/GE1804/S00038/time-for-spotlight-on-fetal-alcohol-spectrum-disorder.htm
+title: Time for spotlight on Fetal Alcohol Spectrum Disorder
+date: 2018-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1804/S00038/time-for-spotlight-on-fetal-alcohol-spectrum-disorder.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/04/13/time-for-spotlight-on-fetal-alcohol-spectrum-disorder/index.html
+layout: layout.njk
 ---
 Time for spotlight on Fetal Alcohol Spectrum Disorder
 =====================================================

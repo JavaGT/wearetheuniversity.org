@@ -1,9 +1,12 @@
 ---
 slug: the-biochemistry-behind-tuberculosis
-title: "The biochemistry behind tuberculosis"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/GE0607/S00066/the-biochemistry-behind-tuberculosis.htm
+title: The biochemistry behind tuberculosis
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0607/S00066/the-biochemistry-behind-tuberculosis.htm
 author: massey-university
+permalink: /archive/2006/07/17/the-biochemistry-behind-tuberculosis/index.html
+layout: layout.njk
 ---
 The biochemistry behind tuberculosis
 ====================================

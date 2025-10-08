@@ -1,9 +1,13 @@
 ---
 slug: millions-paid-by-taxpayers-sign-of-things-to-come
-title: "Millions Paid By Taxpayers Sign of Things To Come"
-date: 2012-11-02
-source-url: https://www.scoop.co.nz/stories/ED1211/S00020/millions-paid-by-taxpayers-sign-of-things-to-come.htm
+title: Millions Paid By Taxpayers Sign of Things To Come
+date: 2012-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00020/millions-paid-by-taxpayers-sign-of-things-to-come.htm
 author: nzei
+permalink: >-
+  /archive/2012/11/02/millions-paid-by-taxpayers-sign-of-things-to-come/index.html
+layout: layout.njk
 ---
 Millions Paid By Taxpayers Sign of Things To Come
 =================================================

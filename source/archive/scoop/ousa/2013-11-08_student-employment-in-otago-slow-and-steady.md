@@ -1,9 +1,12 @@
 ---
 slug: student-employment-in-otago-slow-and-steady
-title: "Student Employment in Otago ‘Slow and Steady’"
-date: 2013-11-08
-source-url: https://www.scoop.co.nz/stories/ED1311/S00058/student-employment-in-otago-slow-and-steady.htm
+title: Student Employment in Otago ‘Slow and Steady’
+date: 2013-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00058/student-employment-in-otago-slow-and-steady.htm
 author: ousa
+permalink: /archive/2013/11/08/student-employment-in-otago-slow-and-steady/index.html
+layout: layout.njk
 ---
 Student Employment in Otago ‘Slow and Steady’
 =============================================

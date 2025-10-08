@@ -1,9 +1,12 @@
 ---
 slug: university-announces-professor-of-accountancy
-title: "University announces Professor of Accountancy"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/ED0805/S00098/university-announces-professor-of-accountancy.htm
+title: University announces Professor of Accountancy
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00098/university-announces-professor-of-accountancy.htm
 author: university-of-otago
+permalink: /archive/2008/05/23/university-announces-professor-of-accountancy/index.html
+layout: layout.njk
 ---
 University announces Professor of Accountancy
 =============================================

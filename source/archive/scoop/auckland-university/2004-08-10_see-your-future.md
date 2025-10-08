@@ -1,9 +1,11 @@
 ---
 slug: see-your-future
-title: "See Your Future"
-date: 2004-08-10
+title: See Your Future
+date: 2004-08-10T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0408/S00033/see-your-future.htm
 author: auckland-university
+permalink: /archive/2004/08/10/see-your-future/index.html
+layout: layout.njk
 ---
 See Your Future
 ===============

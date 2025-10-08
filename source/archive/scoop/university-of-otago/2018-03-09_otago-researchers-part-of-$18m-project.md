@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-part-of-$18m-project
-title: "Otago researchers part of $18M project"
-date: 2018-03-09
-source-url: https://www.scoop.co.nz/stories/SC1803/S00018/otago-researchers-part-of-18m-project.htm
+title: Otago researchers part of $18M project
+date: 2018-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1803/S00018/otago-researchers-part-of-18m-project.htm
 author: university-of-otago
+permalink: /archive/2018/03/09/otago-researchers-part-of-/index.html
+layout: layout.njk
 ---
 Otago researchers part of $18M project
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: budget-falls-flat-on-tertiary-education
-title: "Budget Falls Flat On Tertiary Education"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/WO1305/S00428/budget-falls-flat-on-tertiary-education.htm
+title: Budget Falls Flat On Tertiary Education
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1305/S00428/budget-falls-flat-on-tertiary-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2013/05/17/budget-falls-flat-on-tertiary-education/index.html
+layout: layout.njk
 ---
 Budget Falls Flat On Tertiary Education
 =======================================

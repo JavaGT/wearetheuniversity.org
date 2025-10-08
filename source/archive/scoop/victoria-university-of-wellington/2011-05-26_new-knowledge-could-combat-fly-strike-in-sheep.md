@@ -1,9 +1,12 @@
 ---
 slug: new-knowledge-could-combat-fly-strike-in-sheep
-title: "New knowledge could combat fly strike in sheep"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/SC1105/S00071/new-knowledge-could-combat-fly-strike-in-sheep.htm
+title: New knowledge could combat fly strike in sheep
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00071/new-knowledge-could-combat-fly-strike-in-sheep.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/05/26/new-knowledge-could-combat-fly-strike-in-sheep/index.html
+layout: layout.njk
 ---
 New knowledge could combat fly strike in sheep
 ==============================================

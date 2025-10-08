@@ -1,9 +1,12 @@
 ---
 slug: greens-support-ppta-over-non-contact-time
-title: "Greens Support PPTA Over Non-Contact Time"
-date: 2001-10-23
-source-url: https://www.scoop.co.nz/stories/PA0110/S00402/greens-support-ppta-over-non-contact-time.htm
+title: Greens Support PPTA Over Non-Contact Time
+date: 2001-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00402/greens-support-ppta-over-non-contact-time.htm
 author: green-party
+permalink: /archive/2001/10/23/greens-support-ppta-over-non-contact-time/index.html
+layout: layout.njk
 ---
 Greens Support PPTA Over Non-Contact Time
 =========================================

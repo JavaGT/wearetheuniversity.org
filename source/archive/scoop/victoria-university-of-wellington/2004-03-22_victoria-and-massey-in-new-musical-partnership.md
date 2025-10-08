@@ -1,9 +1,12 @@
 ---
 slug: victoria-and-massey-in-new-musical-partnership
-title: "Victoria and Massey in new musical partnership"
-date: 2004-03-22
-source-url: https://www.scoop.co.nz/stories/CU0403/S00129/victoria-and-massey-in-new-musical-partnership.htm
+title: Victoria and Massey in new musical partnership
+date: 2004-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0403/S00129/victoria-and-massey-in-new-musical-partnership.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/22/victoria-and-massey-in-new-musical-partnership/index.html
+layout: layout.njk
 ---
 Victoria and Massey in new musical partnership
 ==============================================

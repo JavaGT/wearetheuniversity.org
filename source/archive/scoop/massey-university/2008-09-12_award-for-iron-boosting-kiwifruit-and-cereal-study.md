@@ -1,9 +1,13 @@
 ---
 slug: award-for-iron-boosting-kiwifruit-and-cereal-study
-title: "Award for iron-boosting kiwifruit and cereal study"
-date: 2008-09-12
-source-url: https://www.scoop.co.nz/stories/ED0809/S00039/award-for-iron-boosting-kiwifruit-and-cereal-study.htm
+title: Award for iron-boosting kiwifruit and cereal study
+date: 2008-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00039/award-for-iron-boosting-kiwifruit-and-cereal-study.htm
 author: massey-university
+permalink: >-
+  /archive/2008/09/12/award-for-iron-boosting-kiwifruit-and-cereal-study/index.html
+layout: layout.njk
 ---
 Award for iron-boosting kiwifruit and cereal study
 ==================================================

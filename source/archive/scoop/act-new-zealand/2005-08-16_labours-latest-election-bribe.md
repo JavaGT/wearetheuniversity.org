@@ -1,9 +1,12 @@
 ---
 slug: labours-latest-election-bribe
-title: "Labour's latest election bribe"
-date: 2005-08-16
-source-url: https://www.scoop.co.nz/stories/PA0508/S00400/labours-latest-election-bribe.htm
+title: Labour's latest election bribe
+date: 2005-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00400/labours-latest-election-bribe.htm
 author: act-new-zealand
+permalink: /archive/2005/08/16/labours-latest-election-bribe/index.html
+layout: layout.njk
 ---
 Labour's latest election bribe
 ==============================

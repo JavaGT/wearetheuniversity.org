@@ -1,9 +1,13 @@
 ---
 slug: government-to-make-public-transport-more-expensive…-again
-title: "Government To Make Public Transport More Expensive… Again"
-date: 2024-11-27
-source-url: https://www.scoop.co.nz/stories/PA2411/S00220/government-to-make-public-transport-more-expensive-again.htm
+title: Government To Make Public Transport More Expensive… Again
+date: 2024-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00220/government-to-make-public-transport-more-expensive-again.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/11/27/government-to-make-public-transport-more-expensive/index.html
+layout: layout.njk
 ---
 Government To Make Public Transport More Expensive… Again
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: nz-fine-arts-student-features-in-venice-exhibition
-title: "NZ Fine Arts student features in Venice exhibition"
-date: 2017-03-02
-source-url: https://www.scoop.co.nz/stories/CU1703/S00051/nz-fine-arts-student-features-in-venice-exhibition.htm
+title: NZ Fine Arts student features in Venice exhibition
+date: 2017-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1703/S00051/nz-fine-arts-student-features-in-venice-exhibition.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/03/02/nz-fine-arts-student-features-in-venice-exhibition/index.html
+layout: layout.njk
 ---
 NZ Fine Arts student features in Venice exhibition
 ==================================================

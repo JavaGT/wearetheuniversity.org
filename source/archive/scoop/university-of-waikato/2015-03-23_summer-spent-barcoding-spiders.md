@@ -1,9 +1,12 @@
 ---
 slug: summer-spent-barcoding-spiders
-title: "Summer spent barcoding spiders"
-date: 2015-03-23
-source-url: https://www.scoop.co.nz/stories/SC1503/S00082/summer-spent-barcoding-spiders.htm
+title: Summer spent barcoding spiders
+date: 2015-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00082/summer-spent-barcoding-spiders.htm
 author: university-of-waikato
+permalink: /archive/2015/03/23/summer-spent-barcoding-spiders/index.html
+layout: layout.njk
 ---
 Summer spent barcoding spiders
 ==============================

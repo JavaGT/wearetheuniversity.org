@@ -1,9 +1,13 @@
 ---
 slug: outstanding-rotorua-student-wins-myers-scholarship-to-cambridge
-title: "Outstanding Rotorua Student Wins Myers Scholarship To Cambridge"
-date: 2021-03-22
-source-url: https://www.scoop.co.nz/stories/ED2103/S00040/outstanding-rotorua-student-wins-myers-scholarship-to-cambridge.htm
+title: Outstanding Rotorua Student Wins Myers Scholarship To Cambridge
+date: 2021-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00040/outstanding-rotorua-student-wins-myers-scholarship-to-cambridge.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2021/03/22/outstanding-rotorua-student-wins-myers-scholarship-to-cambridge/index.html
+layout: layout.njk
 ---
 Outstanding Rotorua Student Wins Myers Scholarship To Cambridge
 ===============================================================

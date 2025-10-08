@@ -1,9 +1,12 @@
 ---
 slug: china-deal-threatens-future-of-manufacturing
-title: "China Deal Threatens Future of Manufacturing"
-date: 2004-09-02
-source-url: https://www.scoop.co.nz/stories/PO0409/S00020/china-deal-threatens-future-of-manufacturing.htm
+title: China Deal Threatens Future of Manufacturing
+date: 2004-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0409/S00020/china-deal-threatens-future-of-manufacturing.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/09/02/china-deal-threatens-future-of-manufacturing/index.html
+layout: layout.njk
 ---
 China Deal Threatens Future of Manufacturing
 ============================================

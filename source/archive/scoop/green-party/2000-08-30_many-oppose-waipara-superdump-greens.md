@@ -1,9 +1,12 @@
 ---
 slug: many-oppose-waipara-superdump-greens
-title: "Many Oppose Waipara Superdump - Greens"
-date: 2000-08-30
-source-url: https://www.scoop.co.nz/stories/PA0008/S00574/many-oppose-waipara-superdump-greens.htm
+title: Many Oppose Waipara Superdump - Greens
+date: 2000-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00574/many-oppose-waipara-superdump-greens.htm
 author: green-party
+permalink: /archive/2000/08/30/many-oppose-waipara-superdump-greens/index.html
+layout: layout.njk
 ---
 Many Oppose Waipara Superdump - Greens
 ======================================

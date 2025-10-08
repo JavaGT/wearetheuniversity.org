@@ -1,9 +1,12 @@
 ---
 slug: all-the-the-botanical-gardens-a-stage
-title: "All the the Botanical Gardens a stage"
-date: 2007-01-30
-source-url: https://www.scoop.co.nz/stories/CU0701/S00181/all-the-the-botanical-gardens-a-stage.htm
+title: All the the Botanical Gardens a stage
+date: 2007-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0701/S00181/all-the-the-botanical-gardens-a-stage.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/01/30/all-the-the-botanical-gardens-a-stage/index.html
+layout: layout.njk
 ---
 All the the Botanical Gardens a stage
 =====================================

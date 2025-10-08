@@ -1,9 +1,12 @@
 ---
 slug: canterburys-student-earns-rhodes-scholarship
-title: "Canterbury’s student earns Rhodes scholarship"
-date: 2014-11-16
-source-url: https://www.scoop.co.nz/stories/ED1411/S00099/canterburys-student-earns-rhodes-scholarship.htm
+title: Canterbury’s student earns Rhodes scholarship
+date: 2014-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00099/canterburys-student-earns-rhodes-scholarship.htm
 author: university-of-canterbury
+permalink: /archive/2014/11/16/canterburys-student-earns-rhodes-scholarship/index.html
+layout: layout.njk
 ---
 Canterbury’s student earns Rhodes scholarship
 =============================================

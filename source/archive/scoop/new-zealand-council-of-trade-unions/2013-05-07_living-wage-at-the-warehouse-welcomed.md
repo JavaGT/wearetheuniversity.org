@@ -1,9 +1,12 @@
 ---
 slug: living-wage-at-the-warehouse-welcomed
-title: "Living wage at The Warehouse welcomed"
-date: 2013-05-07
-source-url: https://www.scoop.co.nz/stories/PO1305/S00071/living-wage-at-the-warehouse-welcomed.htm
+title: Living wage at The Warehouse welcomed
+date: 2013-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00071/living-wage-at-the-warehouse-welcomed.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/05/07/living-wage-at-the-warehouse-welcomed/index.html
+layout: layout.njk
 ---
 Living wage at The Warehouse welcomed
 =====================================

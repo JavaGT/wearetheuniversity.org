@@ -1,9 +1,12 @@
 ---
 slug: fonterra-insults-environment-and-farmers
-title: "Fonterra insults environment, and farmers"
-date: 2009-03-06
-source-url: https://www.scoop.co.nz/stories/PA0903/S00100/fonterra-insults-environment-and-farmers.htm
+title: Fonterra insults environment, and farmers
+date: 2009-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00100/fonterra-insults-environment-and-farmers.htm
 author: green-party
+permalink: /archive/2009/03/06/fonterra-insults-environment-and-farmers/index.html
+layout: layout.njk
 ---
 Fonterra insults environment, and farmers
 =========================================

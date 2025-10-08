@@ -1,9 +1,13 @@
 ---
 slug: med-school-future-depends-on-newtown-hospital-site
-title: "Med School Future Depends On Newtown Hospital Site"
-date: 1999-08-12
-source-url: https://www.scoop.co.nz/stories/PA9908/S00214/med-school-future-depends-on-newtown-hospital-site.htm
+title: Med School Future Depends On Newtown Hospital Site
+date: 1999-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00214/med-school-future-depends-on-newtown-hospital-site.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/08/12/med-school-future-depends-on-newtown-hospital-site/index.html
+layout: layout.njk
 ---
 Med School Future Depends On Newtown Hospital Site
 ==================================================

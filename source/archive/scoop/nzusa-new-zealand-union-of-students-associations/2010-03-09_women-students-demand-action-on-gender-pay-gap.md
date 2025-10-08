@@ -1,9 +1,12 @@
 ---
 slug: women-students-demand-action-on-gender-pay-gap
-title: "Women students demand action on gender pay gap"
-date: 2010-03-09
-source-url: https://www.scoop.co.nz/stories/PO1003/S00128/women-students-demand-action-on-gender-pay-gap.htm
+title: Women students demand action on gender pay gap
+date: 2010-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00128/women-students-demand-action-on-gender-pay-gap.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/03/09/women-students-demand-action-on-gender-pay-gap/index.html
+layout: layout.njk
 ---
 Women students demand action on gender pay gap
 ==============================================

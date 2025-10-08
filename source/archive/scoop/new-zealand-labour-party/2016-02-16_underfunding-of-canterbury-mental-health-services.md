@@ -1,9 +1,13 @@
 ---
 slug: underfunding-of-canterbury-mental-health-services
-title: "Underfunding of Canterbury mental health services"
-date: 2016-02-16
-source-url: https://www.scoop.co.nz/stories/PA1602/S00199/underfunding-of-canterbury-mental-health-services.htm
+title: Underfunding of Canterbury mental health services
+date: 2016-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00199/underfunding-of-canterbury-mental-health-services.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/16/underfunding-of-canterbury-mental-health-services/index.html
+layout: layout.njk
 ---
 Underfunding of Canterbury mental health services
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: study-of-fielding-in-one-day-cricket-internationals
-title: "Study of fielding in one day cricket internationals"
-date: 2012-09-04
-source-url: https://www.scoop.co.nz/stories/ED1209/S00018/study-of-fielding-in-one-day-cricket-internationals.htm
+title: Study of fielding in one day cricket internationals
+date: 2012-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00018/study-of-fielding-in-one-day-cricket-internationals.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/04/study-of-fielding-in-one-day-cricket-internationals/index.html
+layout: layout.njk
 ---
 Study of fielding in one day cricket internationals
 ===================================================

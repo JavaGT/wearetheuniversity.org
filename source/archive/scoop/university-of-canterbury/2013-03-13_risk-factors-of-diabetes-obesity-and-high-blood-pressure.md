@@ -1,9 +1,13 @@
 ---
 slug: risk-factors-of-diabetes-obesity-and-high-blood-pressure
-title: "Risk Factors Of Diabetes, Obesity And High Blood Pressure"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/ED1303/S00089/risk-factors-of-diabetes-obesity-and-high-blood-pressure.htm
+title: Risk Factors Of Diabetes, Obesity And High Blood Pressure
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00089/risk-factors-of-diabetes-obesity-and-high-blood-pressure.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/03/13/risk-factors-of-diabetes-obesity-and-high-blood-pressure/index.html
+layout: layout.njk
 ---
 Risk Factors Of Diabetes, Obesity And High Blood Pressure
 =========================================================

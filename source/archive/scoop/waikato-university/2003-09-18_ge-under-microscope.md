@@ -1,9 +1,11 @@
 ---
 slug: ge-under-microscope
-title: "GE under microscope"
-date: 2003-09-18
+title: GE under microscope
+date: 2003-09-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0309/S00075/ge-under-microscope.htm
 author: waikato-university
+permalink: /archive/2003/09/18/ge-under-microscope/index.html
+layout: layout.njk
 ---
 GE under microscope
 ===================

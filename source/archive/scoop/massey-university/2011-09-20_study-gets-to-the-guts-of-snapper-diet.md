@@ -1,9 +1,12 @@
 ---
 slug: study-gets-to-the-guts-of-snapper-diet
-title: "Study gets to the guts of snapper diet"
-date: 2011-09-20
-source-url: https://www.scoop.co.nz/stories/SC1109/S00043/study-gets-to-the-guts-of-snapper-diet.htm
+title: Study gets to the guts of snapper diet
+date: 2011-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00043/study-gets-to-the-guts-of-snapper-diet.htm
 author: massey-university
+permalink: /archive/2011/09/20/study-gets-to-the-guts-of-snapper-diet/index.html
+layout: layout.njk
 ---
 Study gets to the guts of snapper diet
 ======================================

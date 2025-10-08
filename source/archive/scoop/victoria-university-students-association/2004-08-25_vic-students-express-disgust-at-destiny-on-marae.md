@@ -1,9 +1,13 @@
 ---
 slug: vic-students-express-disgust-at-destiny-on-marae
-title: "Vic Students Express Disgust At Destiny On Marae"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/ED0408/S00106/vic-students-express-disgust-at-destiny-on-marae.htm
+title: Vic Students Express Disgust At Destiny On Marae
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00106/vic-students-express-disgust-at-destiny-on-marae.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2004/08/25/vic-students-express-disgust-at-destiny-on-marae/index.html
+layout: layout.njk
 ---
 Vic Students Express Disgust At Destiny On Marae
 ================================================

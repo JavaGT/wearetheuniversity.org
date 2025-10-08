@@ -1,9 +1,12 @@
 ---
 slug: lincoln-receives-positive-audit-report
-title: "Lincoln Receives Positive Audit Report"
-date: 2000-11-03
-source-url: https://www.scoop.co.nz/stories/ED0011/S00010/lincoln-receives-positive-audit-report.htm
+title: Lincoln Receives Positive Audit Report
+date: 2000-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00010/lincoln-receives-positive-audit-report.htm
 author: lincoln-university
+permalink: /archive/2000/11/03/lincoln-receives-positive-audit-report/index.html
+layout: layout.njk
 ---
 Lincoln Receives Positive Audit Report
 ======================================

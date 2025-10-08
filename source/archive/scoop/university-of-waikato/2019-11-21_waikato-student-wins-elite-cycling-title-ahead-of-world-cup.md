@@ -1,9 +1,13 @@
 ---
 slug: waikato-student-wins-elite-cycling-title-ahead-of-world-cup
-title: "Waikato student wins elite cycling title ahead of world cup"
-date: 2019-11-21
-source-url: https://www.scoop.co.nz/stories/CU1911/S00272/waikato-student-wins-elite-cycling-title-ahead-of-world-cup.htm
+title: Waikato student wins elite cycling title ahead of world cup
+date: 2019-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1911/S00272/waikato-student-wins-elite-cycling-title-ahead-of-world-cup.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/11/21/waikato-student-wins-elite-cycling-title-ahead-of-world-cup/index.html
+layout: layout.njk
 ---
 Waikato student wins elite cycling title ahead of world cup
 ===========================================================

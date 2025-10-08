@@ -1,9 +1,13 @@
 ---
 slug: sigmoidoscopy-bowel-screening-method-urged-for-new-zealand
-title: "Sigmoidoscopy bowel-screening method urged for New Zealand"
-date: 2016-02-19
-source-url: https://www.scoop.co.nz/stories/GE1602/S00063/sigmoidoscopy-bowel-screening-method-urged-for-new-zealand.htm
+title: Sigmoidoscopy bowel-screening method urged for New Zealand
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1602/S00063/sigmoidoscopy-bowel-screening-method-urged-for-new-zealand.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/02/19/sigmoidoscopy-bowel-screening-method-urged-for-new-zealand/index.html
+layout: layout.njk
 ---
 Sigmoidoscopy bowel-screening method urged for New Zealand
 ==========================================================

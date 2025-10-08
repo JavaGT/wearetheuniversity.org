@@ -1,9 +1,13 @@
 ---
 slug: dna-confirms-existence-of-nz-bird-thought-extinct
-title: "DNA confirms existence of NZ bird thought extinct"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/SC1109/S00060/dna-confirms-existence-of-nz-bird-thought-extinct.htm
+title: DNA confirms existence of NZ bird thought extinct
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1109/S00060/dna-confirms-existence-of-nz-bird-thought-extinct.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/26/dna-confirms-existence-of-nz-bird-thought-extinct/index.html
+layout: layout.njk
 ---
 DNA confirms existence of NZ bird thought extinct
 =================================================

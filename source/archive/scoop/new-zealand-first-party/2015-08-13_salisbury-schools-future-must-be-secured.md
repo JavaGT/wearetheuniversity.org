@@ -1,9 +1,12 @@
 ---
 slug: salisbury-schools-future-must-be-secured
-title: "Salisbury School’s Future Must Be Secured"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/PA1508/S00192/salisbury-schools-future-must-be-secured.htm
+title: Salisbury School’s Future Must Be Secured
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00192/salisbury-schools-future-must-be-secured.htm
 author: new-zealand-first-party
+permalink: /archive/2015/08/13/salisbury-schools-future-must-be-secured/index.html
+layout: layout.njk
 ---
 Salisbury School’s Future Must Be Secured
 =========================================

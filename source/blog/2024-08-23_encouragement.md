@@ -1,10 +1,17 @@
 ---
+layout: layout.njk
 title: Encouragement
 slug: encouragement
-date: 2024-08-23
+date: 2024-08-23T00:00:00.000Z
 source: private communications
 author: anonymous
 author-slug: anonymous
+permalink: /blog/2024/08/23/encouragement/index.html
+excerpt: >-
+  Kia ora, Java. Thank you kindly for the mahi that you and your colleagues
+  undertook with yesterday’s forum. It was great to hear questions asked of what
+  is an underthought, dictatorial and clumsily implemented kaupapa. I thought
+  that the Provost didn’t defend it at all well – although that seems...
 ---
 Kia ora, Java.
 

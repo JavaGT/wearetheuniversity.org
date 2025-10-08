@@ -1,9 +1,13 @@
 ---
 slug: private-members-bill-will-protect-the-protectors
-title: "Private members bill will protect the protectors"
-date: 2000-05-25
-source-url: https://www.scoop.co.nz/stories/PA0005/S00547/private-members-bill-will-protect-the-protectors.htm
+title: Private members bill will protect the protectors
+date: 2000-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00547/private-members-bill-will-protect-the-protectors.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/05/25/private-members-bill-will-protect-the-protectors/index.html
+layout: layout.njk
 ---
 Private members bill will protect the protectors
 ================================================

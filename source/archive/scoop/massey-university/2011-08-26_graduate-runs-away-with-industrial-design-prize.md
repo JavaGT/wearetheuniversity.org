@@ -1,9 +1,12 @@
 ---
 slug: graduate-runs-away-with-industrial-design-prize
-title: "Graduate runs away with industrial design prize"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/ED1108/S00138/graduate-runs-away-with-industrial-design-prize.htm
+title: Graduate runs away with industrial design prize
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00138/graduate-runs-away-with-industrial-design-prize.htm
 author: massey-university
+permalink: /archive/2011/08/26/graduate-runs-away-with-industrial-design-prize/index.html
+layout: layout.njk
 ---
 Graduate runs away with industrial design prize
 ===============================================

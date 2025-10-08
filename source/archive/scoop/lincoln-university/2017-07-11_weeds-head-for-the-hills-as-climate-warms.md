@@ -1,9 +1,12 @@
 ---
 slug: weeds-head-for-the-hills-as-climate-warms
-title: "Weeds Head for The Hills as Climate Warms"
-date: 2017-07-11
-source-url: https://www.scoop.co.nz/stories/ED1707/S00036/weeds-head-for-the-hills-as-climate-warms.htm
+title: Weeds Head for The Hills as Climate Warms
+date: 2017-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00036/weeds-head-for-the-hills-as-climate-warms.htm
 author: lincoln-university
+permalink: /archive/2017/07/11/weeds-head-for-the-hills-as-climate-warms/index.html
+layout: layout.njk
 ---
 Weeds Head for The Hills as Climate Warms
 =========================================

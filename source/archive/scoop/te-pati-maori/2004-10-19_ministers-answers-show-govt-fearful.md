@@ -1,9 +1,12 @@
 ---
 slug: ministers-answers-show-govt-fearful
-title: "Minister's Answers Show Govt Fearful"
-date: 2004-10-19
-source-url: https://www.scoop.co.nz/stories/PA0410/S00342/ministers-answers-show-govt-fearful.htm
+title: Minister's Answers Show Govt Fearful
+date: 2004-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00342/ministers-answers-show-govt-fearful.htm
 author: te-pati-maori
+permalink: /archive/2004/10/19/ministers-answers-show-govt-fearful/index.html
+layout: layout.njk
 ---
 Minister's Answers Show Govt Fearful
 ====================================

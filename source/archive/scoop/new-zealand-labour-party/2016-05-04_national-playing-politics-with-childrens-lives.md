@@ -1,9 +1,12 @@
 ---
 slug: national-playing-politics-with-childrens-lives
-title: "National playing politics with children’s lives"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/PA1605/S00054/national-playing-politics-with-childrens-lives.htm
+title: National playing politics with children’s lives
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00054/national-playing-politics-with-childrens-lives.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/05/04/national-playing-politics-with-childrens-lives/index.html
+layout: layout.njk
 ---
 National playing politics with children’s lives
 ===============================================

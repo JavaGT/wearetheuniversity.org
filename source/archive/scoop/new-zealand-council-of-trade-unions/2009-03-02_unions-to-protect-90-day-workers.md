@@ -1,9 +1,12 @@
 ---
 slug: unions-to-protect-90-day-workers
-title: "Unions to protect ‘90 Day’ workers"
-date: 2009-03-02
-source-url: https://www.scoop.co.nz/stories/PO0903/S00012/unions-to-protect-90-day-workers.htm
+title: Unions to protect ‘90 Day’ workers
+date: 2009-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0903/S00012/unions-to-protect-90-day-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/03/02/unions-to-protect-90-day-workers/index.html
+layout: layout.njk
 ---
 Unions to protect ‘90 Day’ workers
 ==================================

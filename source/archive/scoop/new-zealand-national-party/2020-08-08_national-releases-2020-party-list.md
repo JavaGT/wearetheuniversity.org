@@ -1,9 +1,12 @@
 ---
 slug: national-releases-2020-party-list
-title: "National Releases 2020 Party List"
-date: 2020-08-08
-source-url: https://www.scoop.co.nz/stories/PO2008/S00092/national-releases-2020-party-list.htm
+title: National Releases 2020 Party List
+date: 2020-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2008/S00092/national-releases-2020-party-list.htm
 author: new-zealand-national-party
+permalink: /archive/2020/08/08/national-releases-2020-party-list/index.html
+layout: layout.njk
 ---
 National Releases 2020 Party List
 =================================

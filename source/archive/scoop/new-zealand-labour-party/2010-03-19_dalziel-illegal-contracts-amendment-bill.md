@@ -1,9 +1,12 @@
 ---
 slug: dalziel-illegal-contracts-amendment-bill
-title: "Dalziel: Illegal Contracts Amendment Bill"
-date: 2010-03-19
-source-url: https://www.scoop.co.nz/stories/PA1003/S00290/dalziel-illegal-contracts-amendment-bill.htm
+title: 'Dalziel: Illegal Contracts Amendment Bill'
+date: 2010-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00290/dalziel-illegal-contracts-amendment-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/19/dalziel-illegal-contracts-amendment-bill/index.html
+layout: layout.njk
 ---
 Dalziel: Illegal Contracts Amendment Bill
 =========================================

@@ -1,9 +1,11 @@
 ---
 slug: yet-more-taxes-on-the-way
-title: "Yet more taxes on the way"
-date: 2018-10-30
+title: Yet more taxes on the way
+date: 2018-10-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1810/S00287/yet-more-taxes-on-the-way.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/30/yet-more-taxes-on-the-way/index.html
+layout: layout.njk
 ---
 Yet more taxes on the way
 =========================

@@ -1,9 +1,13 @@
 ---
 slug: so-where-was-the-benefit-in-all-the-other-farm-sales
-title: "So Where was the benefit in all the other farm sales?"
-date: 2015-09-17
-source-url: https://www.scoop.co.nz/stories/PA1509/S00302/so-where-was-the-benefit-in-all-the-other-farm-sales.htm
+title: So Where was the benefit in all the other farm sales?
+date: 2015-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00302/so-where-was-the-benefit-in-all-the-other-farm-sales.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/09/17/so-where-was-the-benefit-in-all-the-other-farm-sales/index.html
+layout: layout.njk
 ---
 So Where was the benefit in all the other farm sales?
 =====================================================

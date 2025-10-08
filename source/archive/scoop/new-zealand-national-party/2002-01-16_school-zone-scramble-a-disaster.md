@@ -1,9 +1,12 @@
 ---
 slug: school-zone-scramble-a-disaster
-title: "School Zone Scramble A Disaster"
-date: 2002-01-16
-source-url: https://www.scoop.co.nz/stories/PA0201/S00060/school-zone-scramble-a-disaster.htm
+title: School Zone Scramble A Disaster
+date: 2002-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00060/school-zone-scramble-a-disaster.htm
 author: new-zealand-national-party
+permalink: /archive/2002/01/16/school-zone-scramble-a-disaster/index.html
+layout: layout.njk
 ---
 School Zone Scramble A Disaster
 ===============================

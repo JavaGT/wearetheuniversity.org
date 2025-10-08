@@ -1,9 +1,12 @@
 ---
 slug: epic-story-of-nutrition-revealed-in-new-book
-title: "Epic Story of Nutrition Revealed in New Book"
-date: 2012-05-07
-source-url: https://www.scoop.co.nz/stories/SC1205/S00016/epic-story-of-nutrition-revealed-in-new-book.htm
+title: Epic Story of Nutrition Revealed in New Book
+date: 2012-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00016/epic-story-of-nutrition-revealed-in-new-book.htm
 author: massey-university
+permalink: /archive/2012/05/07/epic-story-of-nutrition-revealed-in-new-book/index.html
+layout: layout.njk
 ---
 Epic Story of Nutrition Revealed in New Book
 ============================================

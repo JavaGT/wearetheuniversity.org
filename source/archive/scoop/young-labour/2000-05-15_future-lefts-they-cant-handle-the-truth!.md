@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-they-cant-handle-the-truth!
-title: "Future Lefts - They can't handle the truth!"
-date: 2000-05-15
-source-url: https://www.scoop.co.nz/stories/PO0005/S00081/future-lefts-they-cant-handle-the-truth.htm
+title: Future Lefts - They can't handle the truth!
+date: 2000-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0005/S00081/future-lefts-they-cant-handle-the-truth.htm
 author: young-labour
+permalink: /archive/2000/05/15/future-lefts-they-cant-handle-the-truth/index.html
+layout: layout.njk
 ---
 Future Lefts - They can't handle the truth!
 ===========================================

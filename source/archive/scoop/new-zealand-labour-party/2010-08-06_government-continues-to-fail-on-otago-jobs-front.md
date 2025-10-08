@@ -1,9 +1,13 @@
 ---
 slug: government-continues-to-fail-on-otago-jobs-front
-title: "Government continues to fail on Otago jobs front"
-date: 2010-08-06
-source-url: https://www.scoop.co.nz/stories/PA1008/S00132/government-continues-to-fail-on-otago-jobs-front.htm
+title: Government continues to fail on Otago jobs front
+date: 2010-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00132/government-continues-to-fail-on-otago-jobs-front.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/08/06/government-continues-to-fail-on-otago-jobs-front/index.html
+layout: layout.njk
 ---
 Government continues to fail on Otago jobs front
 ================================================

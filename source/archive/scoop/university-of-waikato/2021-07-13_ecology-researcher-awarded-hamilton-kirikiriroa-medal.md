@@ -1,9 +1,13 @@
 ---
 slug: ecology-researcher-awarded-hamilton-kirikiriroa-medal
-title: "Ecology Researcher Awarded Hamilton Kirikiriroa Medal"
-date: 2021-07-13
-source-url: https://www.scoop.co.nz/stories/SC2107/S00031/ecology-researcher-awarded-hamilton-kirikiriroa-medal.htm
+title: Ecology Researcher Awarded Hamilton Kirikiriroa Medal
+date: 2021-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2107/S00031/ecology-researcher-awarded-hamilton-kirikiriroa-medal.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2021/07/13/ecology-researcher-awarded-hamilton-kirikiriroa-medal/index.html
+layout: layout.njk
 ---
 Ecology Researcher Awarded Hamilton Kirikiriroa Medal
 =====================================================

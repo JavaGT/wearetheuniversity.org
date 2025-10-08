@@ -1,9 +1,12 @@
 ---
 slug: uni-games-kick-off-in-taranaki
-title: "Uni Games kick off in Taranaki"
-date: 2009-04-16
-source-url: https://www.scoop.co.nz/stories/CU0904/S00205/uni-games-kick-off-in-taranaki.htm
+title: Uni Games kick off in Taranaki
+date: 2009-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0904/S00205/uni-games-kick-off-in-taranaki.htm
 author: nz-university-games
+permalink: /archive/2009/04/16/uni-games-kick-off-in-taranaki/index.html
+layout: layout.njk
 ---
 Uni Games kick off in Taranaki
 ==============================

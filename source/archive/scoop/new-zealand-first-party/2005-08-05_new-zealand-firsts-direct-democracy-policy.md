@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-firsts-direct-democracy-policy
-title: "New Zealand First’s Direct Democracy Policy"
-date: 2005-08-05
-source-url: https://www.scoop.co.nz/stories/PA0508/S00163/new-zealand-firsts-direct-democracy-policy.htm
+title: New Zealand First’s Direct Democracy Policy
+date: 2005-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00163/new-zealand-firsts-direct-democracy-policy.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/05/new-zealand-firsts-direct-democracy-policy/index.html
+layout: layout.njk
 ---
 New Zealand First’s Direct Democracy Policy
 ===========================================

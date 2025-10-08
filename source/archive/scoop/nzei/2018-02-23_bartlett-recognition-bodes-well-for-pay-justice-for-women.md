@@ -1,9 +1,13 @@
 ---
 slug: bartlett-recognition-bodes-well-for-pay-justice-for-women
-title: "Bartlett recognition bodes well for pay justice for women"
-date: 2018-02-23
-source-url: https://www.scoop.co.nz/stories/PO1802/S00276/bartlett-recognition-bodes-well-for-pay-justice-for-women.htm
+title: Bartlett recognition bodes well for pay justice for women
+date: 2018-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1802/S00276/bartlett-recognition-bodes-well-for-pay-justice-for-women.htm
 author: nzei
+permalink: >-
+  /archive/2018/02/23/bartlett-recognition-bodes-well-for-pay-justice-for-women/index.html
+layout: layout.njk
 ---
 Bartlett recognition bodes well for pay justice for women
 =========================================================

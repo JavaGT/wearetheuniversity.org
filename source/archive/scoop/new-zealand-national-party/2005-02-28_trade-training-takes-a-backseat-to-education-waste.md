@@ -1,9 +1,13 @@
 ---
 slug: trade-training-takes-a-backseat-to-education-waste
-title: "Trade training takes a backseat to education waste"
-date: 2005-02-28
-source-url: https://www.scoop.co.nz/stories/PA0502/S00572/trade-training-takes-a-backseat-to-education-waste.htm
+title: Trade training takes a backseat to education waste
+date: 2005-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00572/trade-training-takes-a-backseat-to-education-waste.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/02/28/trade-training-takes-a-backseat-to-education-waste/index.html
+layout: layout.njk
 ---
 Trade training takes a backseat to education waste
 ==================================================

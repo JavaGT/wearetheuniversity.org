@@ -1,9 +1,12 @@
 ---
 slug: wearableart-founder-awarded-honorary-doctorate
-title: "WearableArt founder awarded honorary doctorate"
-date: 2014-03-26
-source-url: https://www.scoop.co.nz/stories/CU1403/S00437/wearableart-founder-awarded-honorary-doctorate.htm
+title: WearableArt founder awarded honorary doctorate
+date: 2014-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1403/S00437/wearableart-founder-awarded-honorary-doctorate.htm
 author: massey-university
+permalink: /archive/2014/03/26/wearableart-founder-awarded-honorary-doctorate/index.html
+layout: layout.njk
 ---
 WearableArt founder awarded honorary doctorate
 ==============================================

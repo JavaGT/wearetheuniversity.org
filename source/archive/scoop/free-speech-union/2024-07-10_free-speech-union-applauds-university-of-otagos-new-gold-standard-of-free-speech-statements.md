@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-applauds-university-of-otagos-new-gold-standard-of-free-speech-statements
-title: "Free Speech Union Applauds University Of Otago’s New Gold Standard Of Free Speech Statements"
-date: 2024-07-10
-source-url: https://www.scoop.co.nz/stories/ED2407/S00022/free-speech-union-applauds-university-of-otagos-new-gold-standard-of-free-speech-statements.htm
+slug: >-
+  free-speech-union-applauds-university-of-otagos-new-gold-standard-of-free-speech-statements
+title: >-
+  Free Speech Union Applauds University Of Otago’s New Gold Standard Of Free
+  Speech Statements
+date: 2024-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2407/S00022/free-speech-union-applauds-university-of-otagos-new-gold-standard-of-free-speech-statements.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/07/10/free-speech-union-applauds-university-of-otagos-new-gold-standard-of-free-speech-statements/index.html
+layout: layout.njk
 ---
 Free Speech Union Applauds University Of Otago’s New Gold Standard Of Free Speech Statements
 ============================================================================================

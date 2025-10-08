@@ -1,9 +1,12 @@
 ---
 slug: key-notes-standing-beside-cantabrians
-title: "Key Notes: Standing beside Cantabrians"
-date: 2012-02-24
-source-url: https://www.scoop.co.nz/stories/PA1202/S00288/key-notes-standing-beside-cantabrians.htm
+title: 'Key Notes: Standing beside Cantabrians'
+date: 2012-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00288/key-notes-standing-beside-cantabrians.htm
 author: new-zealand-national-party
+permalink: /archive/2012/02/24/key-notes-standing-beside-cantabrians/index.html
+layout: layout.njk
 ---
 Key Notes: Standing beside Cantabrians
 ======================================

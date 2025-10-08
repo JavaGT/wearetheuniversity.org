@@ -1,9 +1,12 @@
 ---
 slug: national-panicked-by-polls-on-immigration
-title: "National Panicked by Polls on Immigration"
-date: 2016-10-11
-source-url: https://www.scoop.co.nz/stories/PA1610/S00142/national-panicked-by-polls-on-immigration.htm
+title: National Panicked by Polls on Immigration
+date: 2016-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00142/national-panicked-by-polls-on-immigration.htm
 author: new-zealand-first-party
+permalink: /archive/2016/10/11/national-panicked-by-polls-on-immigration/index.html
+layout: layout.njk
 ---
 National Panicked by Polls on Immigration
 =========================================

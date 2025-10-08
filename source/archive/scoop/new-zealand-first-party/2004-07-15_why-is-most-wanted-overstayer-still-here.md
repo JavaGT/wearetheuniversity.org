@@ -1,9 +1,12 @@
 ---
 slug: why-is-most-wanted-overstayer-still-here
-title: "Why Is 'Most Wanted' Overstayer Still Here?"
-date: 2004-07-15
-source-url: https://www.scoop.co.nz/stories/PA0407/S00266/why-is-most-wanted-overstayer-still-here.htm
+title: Why Is 'Most Wanted' Overstayer Still Here?
+date: 2004-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00266/why-is-most-wanted-overstayer-still-here.htm
 author: new-zealand-first-party
+permalink: /archive/2004/07/15/why-is-most-wanted-overstayer-still-here/index.html
+layout: layout.njk
 ---
 Why Is 'Most Wanted' Overstayer Still Here?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: media-lobby-group-a-welcome-watchdog
-title: "Media lobby group a welcome watchdog"
-date: 2011-07-11
-source-url: https://www.scoop.co.nz/stories/PA1107/S00172/media-lobby-group-a-welcome-watchdog.htm
+title: Media lobby group a welcome watchdog
+date: 2011-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00172/media-lobby-group-a-welcome-watchdog.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/11/media-lobby-group-a-welcome-watchdog/index.html
+layout: layout.njk
 ---
 Media lobby group a welcome watchdog
 ====================================

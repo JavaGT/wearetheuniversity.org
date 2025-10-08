@@ -1,9 +1,12 @@
 ---
 slug: a-brief-history-of-hekias-mistakes
-title: "A Brief History Of Hekia’s Mistakes"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/PA1301/S00101/a-brief-history-of-hekias-mistakes.htm
+title: A Brief History Of Hekia’s Mistakes
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00101/a-brief-history-of-hekias-mistakes.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/25/a-brief-history-of-hekias-mistakes/index.html
+layout: layout.njk
 ---
 A Brief History Of Hekia’s Mistakes
 ===================================

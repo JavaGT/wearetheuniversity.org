@@ -1,9 +1,13 @@
 ---
 slug: dame-malvina-major-in-kiss-my-arts-series-at-baycourt-centre
-title: "Dame Malvina Major in Kiss my Arts series at Baycourt Centre"
-date: 2014-08-12
-source-url: https://www.scoop.co.nz/stories/CU1408/S00156/dame-malvina-major-in-kiss-my-arts-series-at-baycourt-centre.htm
+title: Dame Malvina Major in Kiss my Arts series at Baycourt Centre
+date: 2014-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00156/dame-malvina-major-in-kiss-my-arts-series-at-baycourt-centre.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/08/12/dame-malvina-major-in-kiss-my-arts-series-at-baycourt-centre/index.html
+layout: layout.njk
 ---
 Dame Malvina Major in Kiss my Arts series at Baycourt Centre
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: seminar-explores-workplace-health-and-safety-systems-in-nz
-title: "Seminar explores workplace health and safety systems in NZ"
-date: 2013-09-02
-source-url: https://www.scoop.co.nz/stories/ED1309/S00006/seminar-explores-workplace-health-and-safety-systems-in-nz.htm
+title: Seminar explores workplace health and safety systems in NZ
+date: 2013-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00006/seminar-explores-workplace-health-and-safety-systems-in-nz.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/09/02/seminar-explores-workplace-health-and-safety-systems-in-nz/index.html
+layout: layout.njk
 ---
 Seminar explores workplace health and safety systems in NZ
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-to-host-unesco-ethics-conference
-title: "Otago To Host Unesco Ethics Conference"
-date: 2005-09-29
-source-url: https://www.scoop.co.nz/stories/ED0509/S00093/otago-to-host-unesco-ethics-conference.htm
+title: Otago To Host Unesco Ethics Conference
+date: 2005-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00093/otago-to-host-unesco-ethics-conference.htm
 author: university-of-otago
+permalink: /archive/2005/09/29/otago-to-host-unesco-ethics-conference/index.html
+layout: layout.njk
 ---
 Otago To Host Unesco Ethics Conference
 ======================================

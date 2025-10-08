@@ -1,9 +1,13 @@
 ---
 slug: academics-invited-to-respond-to-survey-for-report-on-academic-freedom
-title: "Academics Invited To Respond To Survey For Report On Academic Freedom"
-date: 2023-03-22
-source-url: https://www.scoop.co.nz/stories/PO2303/S00174/academics-invited-to-respond-to-survey-for-report-on-academic-freedom.htm
+title: Academics Invited To Respond To Survey For Report On Academic Freedom
+date: 2023-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2303/S00174/academics-invited-to-respond-to-survey-for-report-on-academic-freedom.htm
 author: free-speech-union
+permalink: >-
+  /archive/2023/03/22/academics-invited-to-respond-to-survey-for-report-on-academic-freedom/index.html
+layout: layout.njk
 ---
 Academics Invited To Respond To Survey For Report On Academic Freedom
 =====================================================================

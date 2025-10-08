@@ -1,9 +1,12 @@
 ---
 slug: trevor-mallard-gives-up-on-10262-kids
-title: "Trevor Mallard Gives Up On 10,262 Kids"
-date: 2001-08-13
-source-url: https://www.scoop.co.nz/stories/PA0108/S00250/trevor-mallard-gives-up-on-10262-kids.htm
+title: Trevor Mallard Gives Up On 10,262 Kids
+date: 2001-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0108/S00250/trevor-mallard-gives-up-on-10262-kids.htm
 author: act-new-zealand
+permalink: /archive/2001/08/13/trevor-mallard-gives-up-on-10262-kids/index.html
+layout: layout.njk
 ---
 Trevor Mallard Gives Up On 10,262 Kids
 ======================================

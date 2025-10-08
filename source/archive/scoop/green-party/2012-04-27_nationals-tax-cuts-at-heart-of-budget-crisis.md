@@ -1,9 +1,12 @@
 ---
 slug: nationals-tax-cuts-at-heart-of-budget-crisis
-title: "National’s Tax Cuts At Heart Of Budget 'Crisis'"
-date: 2012-04-27
-source-url: https://www.scoop.co.nz/stories/PA1204/S00343/nationals-tax-cuts-at-heart-of-budget-crisis.htm
+title: National’s Tax Cuts At Heart Of Budget 'Crisis'
+date: 2012-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00343/nationals-tax-cuts-at-heart-of-budget-crisis.htm
 author: green-party
+permalink: /archive/2012/04/27/nationals-tax-cuts-at-heart-of-budget-crisis/index.html
+layout: layout.njk
 ---
 National’s Tax Cuts At Heart Of Budget 'Crisis'
 ===============================================

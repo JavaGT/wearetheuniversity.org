@@ -1,9 +1,11 @@
 ---
 slug: mallard-in-fairyland
-title: "Mallard in fairyland"
-date: 2001-09-26
+title: Mallard in fairyland
+date: 2001-09-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0109/S00433/mallard-in-fairyland.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/26/mallard-in-fairyland/index.html
+layout: layout.njk
 ---
 Mallard in fairyland
 ====================

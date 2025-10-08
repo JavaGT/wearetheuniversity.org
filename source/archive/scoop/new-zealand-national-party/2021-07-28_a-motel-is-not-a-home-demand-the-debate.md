@@ -1,9 +1,12 @@
 ---
 slug: a-motel-is-not-a-home-demand-the-debate
-title: "A Motel Is Not A Home – Demand The Debate"
-date: 2021-07-28
-source-url: https://www.scoop.co.nz/stories/PA2107/S00205/a-motel-is-not-a-home-demand-the-debate.htm
+title: A Motel Is Not A Home – Demand The Debate
+date: 2021-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00205/a-motel-is-not-a-home-demand-the-debate.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/28/a-motel-is-not-a-home-demand-the-debate/index.html
+layout: layout.njk
 ---
 A Motel Is Not A Home – Demand The Debate
 =========================================

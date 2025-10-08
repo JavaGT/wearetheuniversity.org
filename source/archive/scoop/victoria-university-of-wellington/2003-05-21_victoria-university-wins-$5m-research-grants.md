@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-wins-$5m-research-grants
-title: "Victoria University Wins $5m Research Grants"
-date: 2003-05-21
-source-url: https://www.scoop.co.nz/stories/ED0305/S00066/victoria-university-wins-5m-research-grants.htm
+title: Victoria University Wins $5m Research Grants
+date: 2003-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00066/victoria-university-wins-5m-research-grants.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/05/21/victoria-university-wins-/index.html
+layout: layout.njk
 ---
 Victoria University Wins $5m Research Grants
 ============================================

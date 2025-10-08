@@ -1,9 +1,12 @@
 ---
 slug: sustainability-the-total-package
-title: "Sustainability – the total package"
-date: 2015-11-26
-source-url: https://www.scoop.co.nz/stories/ED1511/S00125/sustainability-the-total-package.htm
+title: Sustainability – the total package
+date: 2015-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00125/sustainability-the-total-package.htm
 author: university-of-waikato
+permalink: /archive/2015/11/26/sustainability-the-total-package/index.html
+layout: layout.njk
 ---
 Sustainability – the total package
 ==================================

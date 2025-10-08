@@ -1,9 +1,11 @@
 ---
 slug: nandor-in-new-plymouth
-title: "Nandor in New Plymouth"
-date: 2002-06-12
+title: Nandor in New Plymouth
+date: 2002-06-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0206/S00166/nandor-in-new-plymouth.htm
 author: green-party
+permalink: /archive/2002/06/12/nandor-in-new-plymouth/index.html
+layout: layout.njk
 ---
 Nandor in New Plymouth
 ======================

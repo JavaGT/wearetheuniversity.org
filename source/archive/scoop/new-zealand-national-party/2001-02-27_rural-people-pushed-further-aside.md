@@ -1,9 +1,12 @@
 ---
 slug: rural-people-pushed-further-aside
-title: "Rural People Pushed Further Aside"
-date: 2001-02-27
-source-url: https://www.scoop.co.nz/stories/PA0102/S00413/rural-people-pushed-further-aside.htm
+title: Rural People Pushed Further Aside
+date: 2001-02-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00413/rural-people-pushed-further-aside.htm
 author: new-zealand-national-party
+permalink: /archive/2001/02/27/rural-people-pushed-further-aside/index.html
+layout: layout.njk
 ---
 Rural People Pushed Further Aside
 =================================

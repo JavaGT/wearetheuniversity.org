@@ -1,9 +1,13 @@
 ---
 slug: act-on-campus-today-criticised-staff-wage-action
-title: "ACT on Campus today criticised staff wage action"
-date: 2005-06-01
-source-url: https://www.scoop.co.nz/stories/PO0506/S00002/act-on-campus-today-criticised-staff-wage-action.htm
+title: ACT on Campus today criticised staff wage action
+date: 2005-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0506/S00002/act-on-campus-today-criticised-staff-wage-action.htm
 author: act-on-campus
+permalink: >-
+  /archive/2005/06/01/act-on-campus-today-criticised-staff-wage-action/index.html
+layout: layout.njk
 ---
 ACT on Campus today criticised staff wage action
 ================================================

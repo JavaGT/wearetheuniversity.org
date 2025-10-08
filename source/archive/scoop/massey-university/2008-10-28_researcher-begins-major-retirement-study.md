@@ -1,9 +1,12 @@
 ---
 slug: researcher-begins-major-retirement-study
-title: "Researcher begins major retirement study"
-date: 2008-10-28
-source-url: https://www.scoop.co.nz/stories/ED0810/S00110/researcher-begins-major-retirement-study.htm
+title: Researcher begins major retirement study
+date: 2008-10-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00110/researcher-begins-major-retirement-study.htm
 author: massey-university
+permalink: /archive/2008/10/28/researcher-begins-major-retirement-study/index.html
+layout: layout.njk
 ---
 Researcher begins major retirement study
 ========================================

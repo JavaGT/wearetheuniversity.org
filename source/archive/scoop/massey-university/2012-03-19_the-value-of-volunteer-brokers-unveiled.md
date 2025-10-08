@@ -1,9 +1,12 @@
 ---
 slug: the-value-of-volunteer-brokers-unveiled
-title: "The Value Of Volunteer Brokers Unveiled"
-date: 2012-03-19
-source-url: https://www.scoop.co.nz/stories/ED1203/S00081/the-value-of-volunteer-brokers-unveiled.htm
+title: The Value Of Volunteer Brokers Unveiled
+date: 2012-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00081/the-value-of-volunteer-brokers-unveiled.htm
 author: massey-university
+permalink: /archive/2012/03/19/the-value-of-volunteer-brokers-unveiled/index.html
+layout: layout.njk
 ---
 The Value Of Volunteer Brokers Unveiled
 =======================================

@@ -1,9 +1,13 @@
 ---
 slug: treasury-sends-contradictory-messages-on-tertiary-education
-title: "Treasury sends contradictory messages on tertiary education"
-date: 2013-07-12
-source-url: https://www.scoop.co.nz/stories/ED1307/S00077/treasury-sends-contradictory-messages-on-tertiary-education.htm
+title: Treasury sends contradictory messages on tertiary education
+date: 2013-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00077/treasury-sends-contradictory-messages-on-tertiary-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/07/12/treasury-sends-contradictory-messages-on-tertiary-education/index.html
+layout: layout.njk
 ---
 Treasury sends contradictory messages on tertiary education
 ===========================================================

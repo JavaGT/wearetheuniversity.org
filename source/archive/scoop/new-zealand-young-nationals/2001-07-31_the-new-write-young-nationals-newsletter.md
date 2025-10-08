@@ -1,9 +1,12 @@
 ---
 slug: the-new-write-young-nationals-newsletter
-title: "The New Write:  Young Nationals Newsletter"
-date: 2001-07-31
-source-url: https://www.scoop.co.nz/stories/PO0107/S00128/the-new-write-young-nationals-newsletter.htm
+title: 'The New Write:  Young Nationals Newsletter'
+date: 2001-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0107/S00128/the-new-write-young-nationals-newsletter.htm
 author: new-zealand-young-nationals
+permalink: /archive/2001/07/31/the-new-write-young-nationals-newsletter/index.html
+layout: layout.njk
 ---
 The New Write: Young Nationals Newsletter
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: building-consents-drop-cause-for-concern
-title: "Building consents drop cause for concern"
-date: 2017-03-06
-source-url: https://www.scoop.co.nz/stories/PA1703/S00076/building-consents-drop-cause-for-concern.htm
+title: Building consents drop cause for concern
+date: 2017-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00076/building-consents-drop-cause-for-concern.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/06/building-consents-drop-cause-for-concern/index.html
+layout: layout.njk
 ---
 Building consents drop cause for concern
 ========================================

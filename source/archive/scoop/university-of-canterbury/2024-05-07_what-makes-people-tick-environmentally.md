@@ -1,9 +1,12 @@
 ---
 slug: what-makes-people-tick-environmentally
-title: "What Makes People Tick Environmentally?"
-date: 2024-05-07
-source-url: https://www.scoop.co.nz/stories/SC2405/S00021/what-makes-people-tick-environmentally.htm
+title: What Makes People Tick Environmentally?
+date: 2024-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00021/what-makes-people-tick-environmentally.htm
 author: university-of-canterbury
+permalink: /archive/2024/05/07/what-makes-people-tick-environmentally/index.html
+layout: layout.njk
 ---
 What Makes People Tick Environmentally?
 =======================================

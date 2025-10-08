@@ -1,9 +1,12 @@
 ---
 slug: speech-key-party-northern-region-conference
-title: "Speech: Key - Party Northern Region Conference"
-date: 2011-05-29
-source-url: https://www.scoop.co.nz/stories/PA1105/S00601/speech-key-party-northern-region-conference.htm
+title: 'Speech: Key - Party Northern Region Conference'
+date: 2011-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00601/speech-key-party-northern-region-conference.htm
 author: new-zealand-national-party
+permalink: /archive/2011/05/29/speech-key-party-northern-region-conference/index.html
+layout: layout.njk
 ---
 Speech: Key - Party Northern Region Conference
 ==============================================

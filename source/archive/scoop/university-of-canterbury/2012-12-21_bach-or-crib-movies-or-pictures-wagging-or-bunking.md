@@ -1,9 +1,13 @@
 ---
 slug: bach-or-crib-movies-or-pictures-wagging-or-bunking
-title: "Bach or crib, movies or pictures, wagging or bunking?"
-date: 2012-12-21
-source-url: https://www.scoop.co.nz/stories/CU1212/S00354/bach-or-crib-movies-or-pictures-wagging-or-bunking.htm
+title: Bach or crib, movies or pictures, wagging or bunking?
+date: 2012-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1212/S00354/bach-or-crib-movies-or-pictures-wagging-or-bunking.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/21/bach-or-crib-movies-or-pictures-wagging-or-bunking/index.html
+layout: layout.njk
 ---
 Bach or crib, movies or pictures, wagging or bunking?
 =====================================================

@@ -1,9 +1,13 @@
 ---
 slug: links-between-anti-biotic-resistance-and-herbicide
-title: "Links between anti-biotic resistance and herbicide"
-date: 2015-11-22
-source-url: https://www.scoop.co.nz/stories/PA1511/S00409/links-between-anti-biotic-resistance-and-herbicide.htm
+title: Links between anti-biotic resistance and herbicide
+date: 2015-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00409/links-between-anti-biotic-resistance-and-herbicide.htm
 author: green-party
+permalink: >-
+  /archive/2015/11/22/links-between-anti-biotic-resistance-and-herbicide/index.html
+layout: layout.njk
 ---
 Links between anti-biotic resistance and herbicide
 ==================================================

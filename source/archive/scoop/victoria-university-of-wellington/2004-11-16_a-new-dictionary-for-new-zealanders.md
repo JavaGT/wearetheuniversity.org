@@ -1,9 +1,12 @@
 ---
 slug: a-new-dictionary-for-new-zealanders
-title: "A New Dictionary for New Zealanders"
-date: 2004-11-16
-source-url: https://www.scoop.co.nz/stories/ED0411/S00049/a-new-dictionary-for-new-zealanders.htm
+title: A New Dictionary for New Zealanders
+date: 2004-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0411/S00049/a-new-dictionary-for-new-zealanders.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/11/16/a-new-dictionary-for-new-zealanders/index.html
+layout: layout.njk
 ---
 A New Dictionary for New Zealanders
 ===================================

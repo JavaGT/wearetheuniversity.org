@@ -1,9 +1,12 @@
 ---
 slug: rahui-katene-imprisonment-in-the-21st-century
-title: "Rahui Katene: Imprisonment in the 21st Century"
-date: 2010-03-18
-source-url: https://www.scoop.co.nz/stories/PA1003/S00248/rahui-katene-imprisonment-in-the-21st-century.htm
+title: 'Rahui Katene: Imprisonment in the 21st Century'
+date: 2010-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00248/rahui-katene-imprisonment-in-the-21st-century.htm
 author: te-pati-maori
+permalink: /archive/2010/03/18/rahui-katene-imprisonment-in-the-21st-century/index.html
+layout: layout.njk
 ---
 Rahui Katene: Imprisonment in the 21st Century
 ==============================================

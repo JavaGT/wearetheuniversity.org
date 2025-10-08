@@ -1,9 +1,12 @@
 ---
 slug: how-long-ago-was-the-ancestor-of-everyone
-title: "How long ago was the ancestor of everyone?"
-date: 2015-06-08
-source-url: https://www.scoop.co.nz/stories/ED1506/S00049/how-long-ago-was-the-ancestor-of-everyone.htm
+title: How long ago was the ancestor of everyone?
+date: 2015-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00049/how-long-ago-was-the-ancestor-of-everyone.htm
 author: university-of-canterbury
+permalink: /archive/2015/06/08/how-long-ago-was-the-ancestor-of-everyone/index.html
+layout: layout.njk
 ---
 How long ago was the ancestor of everyone?
 ==========================================

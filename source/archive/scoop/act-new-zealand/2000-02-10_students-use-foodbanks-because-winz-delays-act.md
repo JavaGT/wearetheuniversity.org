@@ -1,9 +1,12 @@
 ---
 slug: students-use-foodbanks-because-winz-delays-act
-title: "Students Use Foodbanks Because WINZ Delays - ACT"
-date: 2000-02-10
-source-url: https://www.scoop.co.nz/stories/PA0002/S00118/students-use-foodbanks-because-winz-delays-act.htm
+title: Students Use Foodbanks Because WINZ Delays - ACT
+date: 2000-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00118/students-use-foodbanks-because-winz-delays-act.htm
 author: act-new-zealand
+permalink: /archive/2000/02/10/students-use-foodbanks-because-winz-delays-act/index.html
+layout: layout.njk
 ---
 Students Use Foodbanks Because WINZ Delays - ACT
 ================================================

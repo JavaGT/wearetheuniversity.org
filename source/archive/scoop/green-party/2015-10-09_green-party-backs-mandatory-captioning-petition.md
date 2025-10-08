@@ -1,9 +1,12 @@
 ---
 slug: green-party-backs-mandatory-captioning-petition
-title: "Green Party backs mandatory captioning petition"
-date: 2015-10-09
-source-url: https://www.scoop.co.nz/stories/PA1510/S00131/green-party-backs-mandatory-captioning-petition.htm
+title: Green Party backs mandatory captioning petition
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00131/green-party-backs-mandatory-captioning-petition.htm
 author: green-party
+permalink: /archive/2015/10/09/green-party-backs-mandatory-captioning-petition/index.html
+layout: layout.njk
 ---
 Green Party backs mandatory captioning petition
 ===============================================

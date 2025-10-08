@@ -1,9 +1,12 @@
 ---
 slug: the-effect-of-the-pandemic-on-our-social-lives
-title: "The Effect Of The Pandemic On Our Social Lives"
-date: 2021-11-17
-source-url: https://www.scoop.co.nz/stories/GE2111/S00107/the-effect-of-the-pandemic-on-our-social-lives.htm
+title: The Effect Of The Pandemic On Our Social Lives
+date: 2021-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2111/S00107/the-effect-of-the-pandemic-on-our-social-lives.htm
 author: aut-university
+permalink: /archive/2021/11/17/the-effect-of-the-pandemic-on-our-social-lives/index.html
+layout: layout.njk
 ---
 The Effect Of The Pandemic On Our Social Lives
 ==============================================

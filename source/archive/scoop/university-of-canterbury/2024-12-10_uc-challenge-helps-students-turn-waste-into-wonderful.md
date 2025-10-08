@@ -1,9 +1,13 @@
 ---
 slug: uc-challenge-helps-students-turn-waste-into-wonderful
-title: "UC Challenge Helps Students Turn Waste Into Wonderful"
-date: 2024-12-10
-source-url: https://www.scoop.co.nz/stories/ED2412/S00031/uc-challenge-helps-students-turn-waste-into-wonderful.htm
+title: UC Challenge Helps Students Turn Waste Into Wonderful
+date: 2024-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2412/S00031/uc-challenge-helps-students-turn-waste-into-wonderful.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/12/10/uc-challenge-helps-students-turn-waste-into-wonderful/index.html
+layout: layout.njk
 ---
 UC Challenge Helps Students Turn Waste Into Wonderful
 =====================================================

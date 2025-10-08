@@ -1,9 +1,12 @@
 ---
 slug: taxation-a-real-issue-in-this-campaign
-title: "Taxation a Real Issue in this Campaign"
-date: 2002-07-05
-source-url: https://www.scoop.co.nz/stories/PA0207/S00191/taxation-a-real-issue-in-this-campaign.htm
+title: Taxation a Real Issue in this Campaign
+date: 2002-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00191/taxation-a-real-issue-in-this-campaign.htm
 author: act-new-zealand
+permalink: /archive/2002/07/05/taxation-a-real-issue-in-this-campaign/index.html
+layout: layout.njk
 ---
 Taxation a Real Issue in this Campaign
 ======================================

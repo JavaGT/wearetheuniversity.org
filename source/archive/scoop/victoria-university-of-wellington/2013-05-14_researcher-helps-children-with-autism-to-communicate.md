@@ -1,9 +1,13 @@
 ---
 slug: researcher-helps-children-with-autism-to-communicate
-title: "Researcher helps children with autism to communicate"
-date: 2013-05-14
-source-url: https://www.scoop.co.nz/stories/ED1305/S00082/researcher-helps-children-with-autism-to-communicate.htm
+title: Researcher helps children with autism to communicate
+date: 2013-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00082/researcher-helps-children-with-autism-to-communicate.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/05/14/researcher-helps-children-with-autism-to-communicate/index.html
+layout: layout.njk
 ---
 Researcher helps children with autism to communicate
 ====================================================

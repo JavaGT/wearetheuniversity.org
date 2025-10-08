@@ -1,9 +1,15 @@
 ---
 slug: international-volunteers-day-a-year-of-doing-more-with-less-for-our-volunteers
-title: "International Volunteers Day: A Year Of Doing More, With Less For Our Volunteers"
-date: 2021-12-05
-source-url: https://www.scoop.co.nz/stories/PA2112/S00041/international-volunteers-day-a-year-of-doing-more-with-less-for-our-volunteers.htm
+title: >-
+  International Volunteers Day: A Year Of Doing More, With Less For Our
+  Volunteers
+date: 2021-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00041/international-volunteers-day-a-year-of-doing-more-with-less-for-our-volunteers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/12/05/international-volunteers-day-a-year-of-doing-more-with-less-for-our-volunteers/index.html
+layout: layout.njk
 ---
 International Volunteers Day: A Year Of Doing More, With Less For Our Volunteers
 ================================================================================

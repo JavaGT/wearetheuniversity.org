@@ -1,9 +1,12 @@
 ---
 slug: is-internet-bigger-than-universe
-title: "Is internet bigger than universe?"
-date: 2009-09-28
-source-url: https://www.scoop.co.nz/stories/HL0909/S00246/is-internet-bigger-than-universe.htm
+title: Is internet bigger than universe?
+date: 2009-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0909/S00246/is-internet-bigger-than-universe.htm
 author: salient
+permalink: /archive/2009/09/28/is-internet-bigger-than-universe/index.html
+layout: layout.njk
 ---
 Is internet bigger than universe?
 =================================

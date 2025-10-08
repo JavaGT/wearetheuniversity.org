@@ -1,9 +1,13 @@
 ---
 slug: labours-biggest-fails-no-material-improvements-in-mental-health
-title: "Labour’s Biggest Fails: No Material Improvements In Mental Health"
-date: 2022-11-07
-source-url: https://www.scoop.co.nz/stories/PA2211/S00055/labours-biggest-fails-no-material-improvements-in-mental-health.htm
+title: 'Labour’s Biggest Fails: No Material Improvements In Mental Health'
+date: 2022-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00055/labours-biggest-fails-no-material-improvements-in-mental-health.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2022/11/07/labours-biggest-fails-no-material-improvements-in-mental-health/index.html
+layout: layout.njk
 ---
 Labour’s Biggest Fails: No Material Improvements In Mental Health
 =================================================================

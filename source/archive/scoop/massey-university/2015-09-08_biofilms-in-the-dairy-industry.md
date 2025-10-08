@@ -1,9 +1,12 @@
 ---
 slug: biofilms-in-the-dairy-industry
-title: "Biofilms in the Dairy Industry"
-date: 2015-09-08
-source-url: https://www.scoop.co.nz/stories/BU1509/S00293/biofilms-in-the-dairy-industry.htm
+title: Biofilms in the Dairy Industry
+date: 2015-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1509/S00293/biofilms-in-the-dairy-industry.htm
 author: massey-university
+permalink: /archive/2015/09/08/biofilms-in-the-dairy-industry/index.html
+layout: layout.njk
 ---
 Biofilms in the Dairy Industry
 ==============================

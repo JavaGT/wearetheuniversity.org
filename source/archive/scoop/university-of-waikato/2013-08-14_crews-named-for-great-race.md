@@ -1,9 +1,11 @@
 ---
 slug: crews-named-for-great-race
-title: "Crews Named For Great Race"
-date: 2013-08-14
+title: Crews Named For Great Race
+date: 2013-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SP1308/S00052/crews-named-for-great-race.htm
 author: university-of-waikato
+permalink: /archive/2013/08/14/crews-named-for-great-race/index.html
+layout: layout.njk
 ---
 Crews Named For Great Race
 ==========================

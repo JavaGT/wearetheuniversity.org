@@ -1,9 +1,12 @@
 ---
 slug: government-must-raise-the-age-of-youth-justice
-title: "Government must raise the age of youth justice"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/PA1606/S00256/government-must-raise-the-age-of-youth-justice.htm
+title: Government must raise the age of youth justice
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00256/government-must-raise-the-age-of-youth-justice.htm
 author: green-party
+permalink: /archive/2016/06/15/government-must-raise-the-age-of-youth-justice/index.html
+layout: layout.njk
 ---
 Government must raise the age of youth justice
 ==============================================

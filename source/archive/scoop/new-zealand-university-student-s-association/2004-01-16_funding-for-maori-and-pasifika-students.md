@@ -1,9 +1,12 @@
 ---
 slug: funding-for-maori-and-pasifika-students
-title: "Funding for Maori and Pasifika students"
-date: 2004-01-16
-source-url: https://www.scoop.co.nz/stories/ED0401/S00016/funding-for-maori-and-pasifika-students.htm
+title: Funding for Maori and Pasifika students
+date: 2004-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00016/funding-for-maori-and-pasifika-students.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/01/16/funding-for-maori-and-pasifika-students/index.html
+layout: layout.njk
 ---
 Funding for Maori and Pasifika students
 =======================================

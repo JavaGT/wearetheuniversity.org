@@ -1,9 +1,13 @@
 ---
 slug: debbie-ngarewa-packer-labour-must-get-off-the-fence-on-seabed-mining
-title: "Debbie Ngarewa-Packer: Labour Must Get Off The Fence On Seabed Mining"
-date: 2022-06-08
-source-url: https://www.scoop.co.nz/stories/PA2206/S00062/debbie-ngarewa-packer-labour-must-get-off-the-fence-on-seabed-mining.htm
+title: 'Debbie Ngarewa-Packer: Labour Must Get Off The Fence On Seabed Mining'
+date: 2022-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00062/debbie-ngarewa-packer-labour-must-get-off-the-fence-on-seabed-mining.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2022/06/08/debbie-ngarewa-packer-labour-must-get-off-the-fence-on-seabed-mining/index.html
+layout: layout.njk
 ---
 Debbie Ngarewa-Packer: Labour Must Get Off The Fence On Seabed Mining
 =====================================================================

@@ -1,9 +1,13 @@
 ---
 slug: early-environmental-anxieties-revealed-in-new-book
-title: "Early environmental anxieties revealed in new book"
-date: 2011-09-12
-source-url: https://www.scoop.co.nz/stories/ED1109/S00037/early-environmental-anxieties-revealed-in-new-book.htm
+title: Early environmental anxieties revealed in new book
+date: 2011-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00037/early-environmental-anxieties-revealed-in-new-book.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/09/12/early-environmental-anxieties-revealed-in-new-book/index.html
+layout: layout.njk
 ---
 Early environmental anxieties revealed in new book
 ==================================================

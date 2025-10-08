@@ -1,9 +1,12 @@
 ---
 slug: are-we-prepared-for-the-big-one
-title: "Are we prepared for the Big One?"
-date: 2010-06-10
-source-url: https://www.scoop.co.nz/stories/ED1006/S00035/are-we-prepared-for-the-big-one.htm
+title: Are we prepared for the Big One?
+date: 2010-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00035/are-we-prepared-for-the-big-one.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/06/10/are-we-prepared-for-the-big-one/index.html
+layout: layout.njk
 ---
 Are we prepared for the Big One?
 ================================

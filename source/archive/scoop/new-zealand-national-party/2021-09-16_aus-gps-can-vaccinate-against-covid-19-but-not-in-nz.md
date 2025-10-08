@@ -1,9 +1,13 @@
 ---
 slug: aus-gps-can-vaccinate-against-covid-19-but-not-in-nz
-title: "Aus GPs can vaccinate against Covid-19, but not in NZ"
-date: 2021-09-16
-source-url: https://www.scoop.co.nz/stories/PA2109/S00147/aus-gps-can-vaccinate-against-covid-19-but-not-in-nz.htm
+title: Aus GPs can vaccinate against Covid-19, but not in NZ
+date: 2021-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00147/aus-gps-can-vaccinate-against-covid-19-but-not-in-nz.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/09/16/aus-gps-can-vaccinate-against-covid-19-but-not-in-nz/index.html
+layout: layout.njk
 ---
 Aus GPs can vaccinate against Covid-19, but not in NZ
 =====================================================

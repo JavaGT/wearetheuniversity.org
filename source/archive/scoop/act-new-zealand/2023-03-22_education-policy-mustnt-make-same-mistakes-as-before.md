@@ -1,9 +1,13 @@
 ---
 slug: education-policy-mustnt-make-same-mistakes-as-before
-title: "Education Policy Mustn't Make Same Mistakes As Before"
-date: 2023-03-22
-source-url: https://www.scoop.co.nz/stories/PA2303/S00185/education-policy-mustnt-make-same-mistakes-as-before.htm
+title: Education Policy Mustn't Make Same Mistakes As Before
+date: 2023-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00185/education-policy-mustnt-make-same-mistakes-as-before.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/03/22/education-policy-mustnt-make-same-mistakes-as-before/index.html
+layout: layout.njk
 ---
 Education Policy Mustn't Make Same Mistakes As Before
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-turners-&-growers-leader
-title: "Honorary doctorate for Turners & Growers leader"
-date: 2009-03-16
-source-url: https://www.scoop.co.nz/stories/BU0903/S00353/honorary-doctorate-for-turners-growers-leader.htm
+title: Honorary doctorate for Turners & Growers leader
+date: 2009-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0903/S00353/honorary-doctorate-for-turners-growers-leader.htm
 author: massey-university
+permalink: /archive/2009/03/16/honorary-doctorate-for-turners-/index.html
+layout: layout.njk
 ---
 Honorary doctorate for Turners & Growers leader
 ===============================================

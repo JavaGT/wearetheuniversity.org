@@ -1,9 +1,13 @@
 ---
 slug: existing-oil-and-gas-permit-holders-will-be-protected
-title: "Existing Oil And Gas Permit Holders Will Be Protected"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00136/existing-oil-and-gas-permit-holders-will-be-protected.htm
+title: Existing Oil And Gas Permit Holders Will Be Protected
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00136/existing-oil-and-gas-permit-holders-will-be-protected.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/04/12/existing-oil-and-gas-permit-holders-will-be-protected/index.html
+layout: layout.njk
 ---
 Existing Oil And Gas Permit Holders Will Be Protected
 =====================================================

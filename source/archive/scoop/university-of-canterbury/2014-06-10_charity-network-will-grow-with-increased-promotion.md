@@ -1,9 +1,13 @@
 ---
 slug: charity-network-will-grow-with-increased-promotion
-title: "Charity network will grow with increased promotion"
-date: 2014-06-10
-source-url: https://www.scoop.co.nz/stories/AK1406/S00180/charity-network-will-grow-with-increased-promotion.htm
+title: Charity network will grow with increased promotion
+date: 2014-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00180/charity-network-will-grow-with-increased-promotion.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/06/10/charity-network-will-grow-with-increased-promotion/index.html
+layout: layout.njk
 ---
 Charity network will grow with increased promotion
 ==================================================

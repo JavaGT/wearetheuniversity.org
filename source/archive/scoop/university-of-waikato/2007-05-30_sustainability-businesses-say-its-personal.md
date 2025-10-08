@@ -1,9 +1,12 @@
 ---
 slug: sustainability-businesses-say-its-personal
-title: "Sustainability: Businesses say it’s personal"
-date: 2007-05-30
-source-url: https://www.scoop.co.nz/stories/BU0705/S00623/sustainability-businesses-say-its-personal.htm
+title: 'Sustainability: Businesses say it’s personal'
+date: 2007-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0705/S00623/sustainability-businesses-say-its-personal.htm
 author: university-of-waikato
+permalink: /archive/2007/05/30/sustainability-businesses-say-its-personal/index.html
+layout: layout.njk
 ---
 Sustainability: Businesses say it’s personal
 ============================================

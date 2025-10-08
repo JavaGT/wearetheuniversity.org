@@ -1,8 +1,12 @@
 ---
 slug: southern-seas-warming-faster-than-northern-new-zealand
-title: "Southern seas warming faster than northern New Zealand"
-date: 2017-11-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/southern-seas-warming-faster-than-northern-new-zealand.html
+title: Southern seas warming faster than northern New Zealand
+date: 2017-11-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/11/southern-seas-warming-faster-than-northern-new-zealand.html
+permalink: >-
+  /archive/2017/11/08/southern-seas-warming-faster-than-northern-new-zealand/index.html
+layout: layout.njk
 ---
 Southern seas warming faster than northern New Zealand
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-environment-research-institute-looks-at-the-big-picture
-title: "New environment research institute looks at the big picture"
-date: 2011-08-23
-source-url: https://www.scoop.co.nz/stories/SC1108/S00062/new-environment-research-institute-looks-at-the-big-picture.htm
+title: New environment research institute looks at the big picture
+date: 2011-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00062/new-environment-research-institute-looks-at-the-big-picture.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/08/23/new-environment-research-institute-looks-at-the-big-picture/index.html
+layout: layout.njk
 ---
 New environment research institute looks at the big picture
 ===========================================================

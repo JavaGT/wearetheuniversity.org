@@ -1,9 +1,12 @@
 ---
 slug: shared-parenting-experts-visiting-new-zealand
-title: "Shared Parenting Experts Visiting New Zealand"
-date: 2000-04-12
-source-url: https://www.scoop.co.nz/stories/PA0004/S00154/shared-parenting-experts-visiting-new-zealand.htm
+title: Shared Parenting Experts Visiting New Zealand
+date: 2000-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00154/shared-parenting-experts-visiting-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2000/04/12/shared-parenting-experts-visiting-new-zealand/index.html
+layout: layout.njk
 ---
 Shared Parenting Experts Visiting New Zealand
 =============================================

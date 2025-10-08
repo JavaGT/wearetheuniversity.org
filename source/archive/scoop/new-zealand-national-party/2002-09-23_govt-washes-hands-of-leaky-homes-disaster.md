@@ -1,9 +1,12 @@
 ---
 slug: govt-washes-hands-of-leaky-homes-disaster
-title: "Govt washes hands of leaky homes disaster"
-date: 2002-09-23
-source-url: https://www.scoop.co.nz/stories/PA0209/S00370/govt-washes-hands-of-leaky-homes-disaster.htm
+title: Govt washes hands of leaky homes disaster
+date: 2002-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00370/govt-washes-hands-of-leaky-homes-disaster.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/23/govt-washes-hands-of-leaky-homes-disaster/index.html
+layout: layout.njk
 ---
 Govt washes hands of leaky homes disaster
 =========================================

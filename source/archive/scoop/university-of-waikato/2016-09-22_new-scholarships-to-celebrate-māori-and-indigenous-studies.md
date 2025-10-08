@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-to-celebrate-māori-and-indigenous-studies
-title: "New scholarships to celebrate Māori and Indigenous studies"
-date: 2016-09-22
-source-url: https://www.scoop.co.nz/stories/ED1609/S00107/new-scholarships-to-celebrate-maori-and-indigenous-studies.htm
+title: New scholarships to celebrate Māori and Indigenous studies
+date: 2016-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00107/new-scholarships-to-celebrate-maori-and-indigenous-studies.htm
 author: university-of-waikato
+permalink: /archive/2016/09/22/new-scholarships-to-celebrate-m/index.html
+layout: layout.njk
 ---
 New scholarships to celebrate Māori and Indigenous studies
 ==========================================================

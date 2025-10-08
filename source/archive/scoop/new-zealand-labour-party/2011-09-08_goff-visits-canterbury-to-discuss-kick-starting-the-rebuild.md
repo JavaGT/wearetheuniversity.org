@@ -1,9 +1,13 @@
 ---
 slug: goff-visits-canterbury-to-discuss-kick-starting-the-rebuild
-title: "Goff visits Canterbury to discuss kick-starting the rebuild"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/PA1109/S00167/goff-visits-canterbury-to-discuss-kick-starting-the-rebuild.htm
+title: Goff visits Canterbury to discuss kick-starting the rebuild
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00167/goff-visits-canterbury-to-discuss-kick-starting-the-rebuild.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/08/goff-visits-canterbury-to-discuss-kick-starting-the-rebuild/index.html
+layout: layout.njk
 ---
 Goff visits Canterbury to discuss kick-starting the rebuild
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: fund-new-school-qualification-properly-says-nats
-title: "Fund New School Qualification Properly Says Nats"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PA0203/S00021/fund-new-school-qualification-properly-says-nats.htm
+title: Fund New School Qualification Properly Says Nats
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00021/fund-new-school-qualification-properly-says-nats.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/03/01/fund-new-school-qualification-properly-says-nats/index.html
+layout: layout.njk
 ---
 Fund New School Qualification Properly Says Nats
 ================================================

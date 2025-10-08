@@ -1,9 +1,13 @@
 ---
 slug: in-work-tax-credit-does-not-improve-health-of-parents
-title: "In-Work Tax Credit does not improve health of parents"
-date: 2013-05-30
-source-url: https://www.scoop.co.nz/stories/GE1305/S00175/in-work-tax-credit-does-not-improve-health-of-parents.htm
+title: In-Work Tax Credit does not improve health of parents
+date: 2013-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1305/S00175/in-work-tax-credit-does-not-improve-health-of-parents.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/05/30/in-work-tax-credit-does-not-improve-health-of-parents/index.html
+layout: layout.njk
 ---
 In-Work Tax Credit does not improve health of parents
 =====================================================

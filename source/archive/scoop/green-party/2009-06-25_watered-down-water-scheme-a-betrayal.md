@@ -1,9 +1,12 @@
 ---
 slug: watered-down-water-scheme-a-betrayal
-title: "Watered Down Water Scheme A Betrayal"
-date: 2009-06-25
-source-url: https://www.scoop.co.nz/stories/PA0906/S00342/watered-down-water-scheme-a-betrayal.htm
+title: Watered Down Water Scheme A Betrayal
+date: 2009-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00342/watered-down-water-scheme-a-betrayal.htm
 author: green-party
+permalink: /archive/2009/06/25/watered-down-water-scheme-a-betrayal/index.html
+layout: layout.njk
 ---
 Watered Down Water Scheme A Betrayal
 ====================================

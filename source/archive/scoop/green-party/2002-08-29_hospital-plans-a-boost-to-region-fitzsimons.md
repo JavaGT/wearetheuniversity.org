@@ -1,9 +1,12 @@
 ---
 slug: hospital-plans-a-boost-to-region-fitzsimons
-title: "Hospital Plans A Boost To Region – Fitzsimons"
-date: 2002-08-29
-source-url: https://www.scoop.co.nz/stories/PA0208/S00287/hospital-plans-a-boost-to-region-fitzsimons.htm
+title: Hospital Plans A Boost To Region – Fitzsimons
+date: 2002-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00287/hospital-plans-a-boost-to-region-fitzsimons.htm
 author: green-party
+permalink: /archive/2002/08/29/hospital-plans-a-boost-to-region-fitzsimons/index.html
+layout: layout.njk
 ---
 Hospital Plans A Boost To Region – Fitzsimons
 =============================================

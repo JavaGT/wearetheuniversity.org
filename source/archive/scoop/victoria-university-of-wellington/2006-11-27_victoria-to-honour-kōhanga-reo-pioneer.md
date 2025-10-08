@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-honour-kōhanga-reo-pioneer
-title: "Victoria to honour kōhanga reo pioneer"
-date: 2006-11-27
-source-url: https://www.scoop.co.nz/stories/ED0611/S00098/victoria-to-honour-kohanga-reo-pioneer.htm
+title: Victoria to honour kōhanga reo pioneer
+date: 2006-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00098/victoria-to-honour-kohanga-reo-pioneer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/11/27/victoria-to-honour-k/index.html
+layout: layout.njk
 ---
 Victoria to honour kōhanga reo pioneer
 ======================================

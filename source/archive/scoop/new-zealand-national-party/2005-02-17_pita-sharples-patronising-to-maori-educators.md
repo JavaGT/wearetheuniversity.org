@@ -1,9 +1,12 @@
 ---
 slug: pita-sharples-patronising-to-maori-educators
-title: "Pita Sharples patronising to Maori educators"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/PA0502/S00386/pita-sharples-patronising-to-maori-educators.htm
+title: Pita Sharples patronising to Maori educators
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00386/pita-sharples-patronising-to-maori-educators.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/17/pita-sharples-patronising-to-maori-educators/index.html
+layout: layout.njk
 ---
 Pita Sharples patronising to Maori educators
 ============================================

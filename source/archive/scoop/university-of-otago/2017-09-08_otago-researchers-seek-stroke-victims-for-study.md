@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-seek-stroke-victims-for-study
-title: "Otago researchers seek stroke victims for study"
-date: 2017-09-08
-source-url: https://www.scoop.co.nz/stories/SC1709/S00007/otago-researchers-seek-stroke-victims-for-study.htm
+title: Otago researchers seek stroke victims for study
+date: 2017-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1709/S00007/otago-researchers-seek-stroke-victims-for-study.htm
 author: university-of-otago
+permalink: /archive/2017/09/08/otago-researchers-seek-stroke-victims-for-study/index.html
+layout: layout.njk
 ---
 Otago researchers seek stroke victims for study
 ===============================================

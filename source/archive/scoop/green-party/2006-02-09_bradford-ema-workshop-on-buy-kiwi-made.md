@@ -1,9 +1,12 @@
 ---
 slug: bradford-ema-workshop-on-buy-kiwi-made
-title: "Bradford: EMA Workshop on Buy Kiwi-Made"
-date: 2006-02-09
-source-url: https://www.scoop.co.nz/stories/PA0602/S00116/bradford-ema-workshop-on-buy-kiwi-made.htm
+title: 'Bradford: EMA Workshop on Buy Kiwi-Made'
+date: 2006-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00116/bradford-ema-workshop-on-buy-kiwi-made.htm
 author: green-party
+permalink: /archive/2006/02/09/bradford-ema-workshop-on-buy-kiwi-made/index.html
+layout: layout.njk
 ---
 Bradford: EMA Workshop on Buy Kiwi-Made
 =======================================

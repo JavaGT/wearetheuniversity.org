@@ -1,9 +1,12 @@
 ---
 slug: much-to-be-remembered-and-learned-peters
-title: "Much to be Remembered and Learned - Peters"
-date: 2001-10-23
-source-url: https://www.scoop.co.nz/stories/PA0110/S00408/much-to-be-remembered-and-learned-peters.htm
+title: Much to be Remembered and Learned - Peters
+date: 2001-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00408/much-to-be-remembered-and-learned-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2001/10/23/much-to-be-remembered-and-learned-peters/index.html
+layout: layout.njk
 ---
 Much to be Remembered and Learned - Peters
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: a-rare-slice-of-nz-railway-history-now-online
-title: "A rare slice of NZ railway history now online"
-date: 2008-07-02
-source-url: https://www.scoop.co.nz/stories/ED0807/S00003/a-rare-slice-of-nz-railway-history-now-online.htm
+title: A rare slice of NZ railway history now online
+date: 2008-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00003/a-rare-slice-of-nz-railway-history-now-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/07/02/a-rare-slice-of-nz-railway-history-now-online/index.html
+layout: layout.njk
 ---
 A rare slice of NZ railway history now online
 =============================================

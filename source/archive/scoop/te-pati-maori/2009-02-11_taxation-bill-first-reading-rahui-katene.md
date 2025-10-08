@@ -1,9 +1,12 @@
 ---
 slug: taxation-bill-first-reading-rahui-katene
-title: "Taxation Bill: First Reading - Rahui Katene"
-date: 2009-02-11
-source-url: https://www.scoop.co.nz/stories/PA0902/S00134/taxation-bill-first-reading-rahui-katene.htm
+title: 'Taxation Bill: First Reading - Rahui Katene'
+date: 2009-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0902/S00134/taxation-bill-first-reading-rahui-katene.htm
 author: te-pati-maori
+permalink: /archive/2009/02/11/taxation-bill-first-reading-rahui-katene/index.html
+layout: layout.njk
 ---
 Taxation Bill: First Reading - Rahui Katene
 ===========================================

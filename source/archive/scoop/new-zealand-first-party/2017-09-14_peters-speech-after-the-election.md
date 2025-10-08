@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-after-the-election
-title: "Peters Speech: After The Election"
-date: 2017-09-14
-source-url: https://www.scoop.co.nz/stories/PA1709/S00168/peters-speech-after-the-election.htm
+title: 'Peters Speech: After The Election'
+date: 2017-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00168/peters-speech-after-the-election.htm
 author: new-zealand-first-party
+permalink: /archive/2017/09/14/peters-speech-after-the-election/index.html
+layout: layout.njk
 ---
 Peters Speech: After The Election
 =================================

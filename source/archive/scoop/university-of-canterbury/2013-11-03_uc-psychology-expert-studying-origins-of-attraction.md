@@ -1,9 +1,13 @@
 ---
 slug: uc-psychology-expert-studying-origins-of-attraction
-title: "UC psychology expert studying origins of attraction"
-date: 2013-11-03
-source-url: https://www.scoop.co.nz/stories/ED1311/S00019/uc-psychology-expert-studying-origins-of-attraction.htm
+title: UC psychology expert studying origins of attraction
+date: 2013-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00019/uc-psychology-expert-studying-origins-of-attraction.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/03/uc-psychology-expert-studying-origins-of-attraction/index.html
+layout: layout.njk
 ---
 UC psychology expert studying origins of attraction
 ===================================================

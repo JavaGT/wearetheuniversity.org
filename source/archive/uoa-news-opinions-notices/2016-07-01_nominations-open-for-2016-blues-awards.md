@@ -1,8 +1,11 @@
 ---
 slug: nominations-open-for-2016-blues-awards
-title: "Nominations open for 2016 Blues Awards"
-date: 2016-07-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/blues-awards.html
+title: Nominations open for 2016 Blues Awards
+date: 2016-07-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/07/blues-awards.html
+permalink: /archive/2016/07/01/nominations-open-for-2016-blues-awards/index.html
+layout: layout.njk
 ---
 Nominations open for 2016 Blues Awards
 ======================================

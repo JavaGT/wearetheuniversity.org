@@ -1,9 +1,13 @@
 ---
 slug: uc-quake-research-in-world-first-ferrari-overbridge
-title: "UC quake research in world-first ‘Ferrari’ overbridge"
-date: 2016-07-25
-source-url: https://www.scoop.co.nz/stories/AK1607/S00699/uc-quake-research-in-world-first-ferrari-overbridge.htm
+title: UC quake research in world-first ‘Ferrari’ overbridge
+date: 2016-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1607/S00699/uc-quake-research-in-world-first-ferrari-overbridge.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/07/25/uc-quake-research-in-world-first-ferrari-overbridge/index.html
+layout: layout.njk
 ---
 UC quake research in world-first ‘Ferrari’ overbridge
 =====================================================

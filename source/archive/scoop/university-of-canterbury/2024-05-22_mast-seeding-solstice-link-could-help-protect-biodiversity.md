@@ -1,9 +1,13 @@
 ---
 slug: mast-seeding-solstice-link-could-help-protect-biodiversity
-title: "Mast Seeding Solstice Link Could Help Protect Biodiversity"
-date: 2024-05-22
-source-url: https://www.scoop.co.nz/stories/SC2405/S00068/mast-seeding-solstice-link-could-help-protect-biodiversity.htm
+title: Mast Seeding Solstice Link Could Help Protect Biodiversity
+date: 2024-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2405/S00068/mast-seeding-solstice-link-could-help-protect-biodiversity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/05/22/mast-seeding-solstice-link-could-help-protect-biodiversity/index.html
+layout: layout.njk
 ---
 Mast Seeding Solstice Link Could Help Protect Biodiversity
 ==========================================================

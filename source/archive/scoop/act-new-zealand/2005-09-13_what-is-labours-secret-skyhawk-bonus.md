@@ -1,9 +1,12 @@
 ---
 slug: what-is-labours-secret-skyhawk-bonus
-title: "What is Labour’s secret Skyhawk bonus?"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PA0509/S00332/what-is-labours-secret-skyhawk-bonus.htm
+title: What is Labour’s secret Skyhawk bonus?
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00332/what-is-labours-secret-skyhawk-bonus.htm
 author: act-new-zealand
+permalink: /archive/2005/09/13/what-is-labours-secret-skyhawk-bonus/index.html
+layout: layout.njk
 ---
 What is Labour’s secret Skyhawk bonus?
 ======================================

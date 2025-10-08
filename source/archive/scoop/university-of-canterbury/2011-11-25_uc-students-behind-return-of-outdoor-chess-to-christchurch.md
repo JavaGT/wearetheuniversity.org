@@ -1,9 +1,13 @@
 ---
 slug: uc-students-behind-return-of-outdoor-chess-to-christchurch
-title: "UC students behind return of outdoor chess to Christchurch"
-date: 2011-11-25
-source-url: https://www.scoop.co.nz/stories/ED1111/S00179/uc-students-behind-return-of-outdoor-chess-to-christchurch.htm
+title: UC students behind return of outdoor chess to Christchurch
+date: 2011-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00179/uc-students-behind-return-of-outdoor-chess-to-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/11/25/uc-students-behind-return-of-outdoor-chess-to-christchurch/index.html
+layout: layout.njk
 ---
 UC students behind return of outdoor chess to Christchurch
 ==========================================================

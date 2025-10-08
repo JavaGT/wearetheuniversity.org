@@ -1,9 +1,12 @@
 ---
 slug: labour-fails-to-deliver-more-surgery
-title: "Labour fails to deliver more surgery"
-date: 2004-01-21
-source-url: https://www.scoop.co.nz/stories/PA0401/S00137/labour-fails-to-deliver-more-surgery.htm
+title: Labour fails to deliver more surgery
+date: 2004-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00137/labour-fails-to-deliver-more-surgery.htm
 author: new-zealand-national-party
+permalink: /archive/2004/01/21/labour-fails-to-deliver-more-surgery/index.html
+layout: layout.njk
 ---
 Labour fails to deliver more surgery
 ====================================

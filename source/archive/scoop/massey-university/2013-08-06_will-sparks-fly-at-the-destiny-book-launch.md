@@ -1,9 +1,12 @@
 ---
 slug: will-sparks-fly-at-the-destiny-book-launch
-title: "Will sparks fly at the Destiny Book launch?"
-date: 2013-08-06
-source-url: https://www.scoop.co.nz/stories/PO1308/S00084/will-sparks-fly-at-the-destiny-book-launch.htm
+title: Will sparks fly at the Destiny Book launch?
+date: 2013-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00084/will-sparks-fly-at-the-destiny-book-launch.htm
 author: massey-university
+permalink: /archive/2013/08/06/will-sparks-fly-at-the-destiny-book-launch/index.html
+layout: layout.njk
 ---
 Will sparks fly at the Destiny Book launch?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-leadership-candidates-in-napier
-title: "Labour leadership candidates in Napier"
-date: 2014-10-31
-source-url: https://www.scoop.co.nz/stories/PA1410/S00271/labour-leadership-candidates-in-napier.htm
+title: Labour leadership candidates in Napier
+date: 2014-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00271/labour-leadership-candidates-in-napier.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/31/labour-leadership-candidates-in-napier/index.html
+layout: layout.njk
 ---
 Labour leadership candidates in Napier
 ======================================

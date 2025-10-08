@@ -1,9 +1,13 @@
 ---
 slug: defence-force-connection-to-military-violence-in-west-papua
-title: "Defence Force connection to military violence in West Papua"
-date: 2012-06-17
-source-url: https://www.scoop.co.nz/stories/PA1206/S00221/defence-force-connection-to-military-violence-in-west-papua.htm
+title: Defence Force connection to military violence in West Papua
+date: 2012-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00221/defence-force-connection-to-military-violence-in-west-papua.htm
 author: green-party
+permalink: >-
+  /archive/2012/06/17/defence-force-connection-to-military-violence-in-west-papua/index.html
+layout: layout.njk
 ---
 Defence Force connection to military violence in West Papua
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: mallard-tries-to-duck-another-one
-title: "Mallard tries to duck another one"
-date: 2005-06-16
-source-url: https://www.scoop.co.nz/stories/PA0506/S00351/mallard-tries-to-duck-another-one.htm
+title: Mallard tries to duck another one
+date: 2005-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00351/mallard-tries-to-duck-another-one.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/16/mallard-tries-to-duck-another-one/index.html
+layout: layout.njk
 ---
 Mallard tries to duck another one
 =================================

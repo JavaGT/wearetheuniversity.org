@@ -1,9 +1,13 @@
 ---
 slug: we-need-real-change-in-education-not-ncea-tinkering
-title: "We Need Real Change In Education, Not NCEA Tinkering"
-date: 2022-10-22
-source-url: https://www.scoop.co.nz/stories/PA2210/S00164/we-need-real-change-in-education-not-ncea-tinkering.htm
+title: We Need Real Change In Education, Not NCEA Tinkering
+date: 2022-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00164/we-need-real-change-in-education-not-ncea-tinkering.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/10/22/we-need-real-change-in-education-not-ncea-tinkering/index.html
+layout: layout.njk
 ---
 We Need Real Change In Education, Not NCEA Tinkering
 ====================================================

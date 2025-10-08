@@ -1,9 +1,13 @@
 ---
 slug: university-of-waikato-research-institute-scholarships
-title: "University of Waikato Research Institute Scholarships"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/ED1305/S00208/university-of-waikato-research-institute-scholarships.htm
+title: University of Waikato Research Institute Scholarships
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00208/university-of-waikato-research-institute-scholarships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/05/31/university-of-waikato-research-institute-scholarships/index.html
+layout: layout.njk
 ---
 University of Waikato Research Institute Scholarships
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-doesnt-care-about-homeowners
-title: "Helen Clark doesn’t care about homeowners"
-date: 2002-11-26
-source-url: https://www.scoop.co.nz/stories/PA0211/S00594/helen-clark-doesnt-care-about-homeowners.htm
+title: Helen Clark doesn’t care about homeowners
+date: 2002-11-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00594/helen-clark-doesnt-care-about-homeowners.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/26/helen-clark-doesnt-care-about-homeowners/index.html
+layout: layout.njk
 ---
 Helen Clark doesn’t care about homeowners
 =========================================

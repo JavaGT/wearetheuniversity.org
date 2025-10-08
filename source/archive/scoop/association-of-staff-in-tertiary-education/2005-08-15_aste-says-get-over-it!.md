@@ -1,9 +1,11 @@
 ---
 slug: aste-says-get-over-it!
-title: "ASTE says \"get over it!\""
-date: 2005-08-15
+title: ASTE says "get over it!"
+date: 2005-08-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0508/S00074/aste-says-get-over-it.htm
 author: association-of-staff-in-tertiary-education
+permalink: /archive/2005/08/15/aste-says-get-over-it/index.html
+layout: layout.njk
 ---
 ASTE says “get over it!”
 ========================

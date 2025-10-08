@@ -1,9 +1,13 @@
 ---
 slug: a-sense-of-belonging-for-refugee-and-immigrant-families
-title: "A sense of belonging for refugee and immigrant families"
-date: 2019-11-01
-source-url: https://www.scoop.co.nz/stories/ED1911/S00002/a-sense-of-belonging-for-refugee-and-immigrant-families.htm
+title: A sense of belonging for refugee and immigrant families
+date: 2019-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1911/S00002/a-sense-of-belonging-for-refugee-and-immigrant-families.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2019/11/01/a-sense-of-belonging-for-refugee-and-immigrant-families/index.html
+layout: layout.njk
 ---
 A sense of belonging for refugee and immigrant families
 =======================================================

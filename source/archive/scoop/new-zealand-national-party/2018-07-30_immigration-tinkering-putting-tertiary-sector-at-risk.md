@@ -1,9 +1,13 @@
 ---
 slug: immigration-tinkering-putting-tertiary-sector-at-risk
-title: "Immigration tinkering putting tertiary sector at risk"
-date: 2018-07-30
-source-url: https://www.scoop.co.nz/stories/PA1807/S00262/immigration-tinkering-putting-tertiary-sector-at-risk.htm
+title: Immigration tinkering putting tertiary sector at risk
+date: 2018-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1807/S00262/immigration-tinkering-putting-tertiary-sector-at-risk.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/07/30/immigration-tinkering-putting-tertiary-sector-at-risk/index.html
+layout: layout.njk
 ---
 Immigration tinkering putting tertiary sector at risk
 =====================================================

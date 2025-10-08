@@ -1,9 +1,13 @@
 ---
 slug: $5-4m-marsden-funding-boost-for-massey-researchers
-title: "$5.4m Marsden funding boost for Massey researchers"
-date: 2008-09-23
-source-url: https://www.scoop.co.nz/stories/ED0809/S00074/54m-marsden-funding-boost-for-massey-researchers.htm
+title: $5.4m Marsden funding boost for Massey researchers
+date: 2008-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0809/S00074/54m-marsden-funding-boost-for-massey-researchers.htm
 author: massey-university
+permalink: >-
+  /archive/2008/09/23/5-4m-marsden-funding-boost-for-massey-researchers/index.html
+layout: layout.njk
 ---
 $5.4m Marsden funding boost for Massey researchers
 ==================================================

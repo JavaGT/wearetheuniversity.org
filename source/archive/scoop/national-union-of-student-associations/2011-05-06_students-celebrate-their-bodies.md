@@ -1,9 +1,12 @@
 ---
 slug: students-celebrate-their-bodies
-title: "Students celebrate their bodies"
-date: 2011-05-06
-source-url: https://www.scoop.co.nz/stories/GE1105/S00048/students-celebrate-their-bodies.htm
+title: Students celebrate their bodies
+date: 2011-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1105/S00048/students-celebrate-their-bodies.htm
 author: national-union-of-student-associations
+permalink: /archive/2011/05/06/students-celebrate-their-bodies/index.html
+layout: layout.njk
 ---
 Students celebrate their bodies
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: political-correctness-on-the-march
-title: "Political correctness on the march"
-date: 2005-02-21
-source-url: https://www.scoop.co.nz/stories/PA0502/S00444/political-correctness-on-the-march.htm
+title: Political correctness on the march
+date: 2005-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00444/political-correctness-on-the-march.htm
 author: act-new-zealand
+permalink: /archive/2005/02/21/political-correctness-on-the-march/index.html
+layout: layout.njk
 ---
 Political correctness on the march
 ==================================

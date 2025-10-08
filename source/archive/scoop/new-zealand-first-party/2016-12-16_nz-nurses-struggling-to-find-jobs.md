@@ -1,9 +1,12 @@
 ---
 slug: nz-nurses-struggling-to-find-jobs
-title: "NZ Nurses Struggling to Find Jobs"
-date: 2016-12-16
-source-url: https://www.scoop.co.nz/stories/PA1612/S00297/nz-nurses-struggling-to-find-jobs.htm
+title: NZ Nurses Struggling to Find Jobs
+date: 2016-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1612/S00297/nz-nurses-struggling-to-find-jobs.htm
 author: new-zealand-first-party
+permalink: /archive/2016/12/16/nz-nurses-struggling-to-find-jobs/index.html
+layout: layout.njk
 ---
 NZ Nurses Struggling to Find Jobs
 =================================

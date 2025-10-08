@@ -1,9 +1,12 @@
 ---
 slug: ballerinas-needed-for-vitamin-d-study
-title: "Ballerinas needed for vitamin D study"
-date: 2012-04-02
-source-url: https://www.scoop.co.nz/stories/ED1204/S00005/ballerinas-needed-for-vitamin-d-study.htm
+title: Ballerinas needed for vitamin D study
+date: 2012-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00005/ballerinas-needed-for-vitamin-d-study.htm
 author: massey-university
+permalink: /archive/2012/04/02/ballerinas-needed-for-vitamin-d-study/index.html
+layout: layout.njk
 ---
 Ballerinas needed for vitamin D study
 =====================================

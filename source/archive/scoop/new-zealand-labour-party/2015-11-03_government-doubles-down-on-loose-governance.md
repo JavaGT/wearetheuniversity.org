@@ -1,9 +1,12 @@
 ---
 slug: government-doubles-down-on-loose-governance
-title: "Government doubles down on loose governance"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/PA1511/S00038/government-doubles-down-on-loose-governance.htm
+title: Government doubles down on loose governance
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00038/government-doubles-down-on-loose-governance.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/03/government-doubles-down-on-loose-governance/index.html
+layout: layout.njk
 ---
 Government doubles down on loose governance
 ===========================================

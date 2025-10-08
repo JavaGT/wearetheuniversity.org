@@ -1,9 +1,12 @@
 ---
 slug: a-healthy-stable-home-for-every-child
-title: "A healthy stable home for every child"
-date: 2011-11-07
-source-url: https://www.scoop.co.nz/stories/PA1111/S00129/a-healthy-stable-home-for-every-child.htm
+title: A healthy stable home for every child
+date: 2011-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00129/a-healthy-stable-home-for-every-child.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/11/07/a-healthy-stable-home-for-every-child/index.html
+layout: layout.njk
 ---
 A healthy stable home for every child
 =====================================

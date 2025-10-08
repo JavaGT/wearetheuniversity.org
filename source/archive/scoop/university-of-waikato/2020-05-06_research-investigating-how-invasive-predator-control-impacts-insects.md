@@ -1,9 +1,13 @@
 ---
 slug: research-investigating-how-invasive-predator-control-impacts-insects
-title: "Research Investigating How Invasive Predator Control Impacts Insects"
-date: 2020-05-06
-source-url: https://www.scoop.co.nz/stories/SC2005/S00011/research-investigating-how-invasive-predator-control-impacts-insects.htm
+title: Research Investigating How Invasive Predator Control Impacts Insects
+date: 2020-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2005/S00011/research-investigating-how-invasive-predator-control-impacts-insects.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/05/06/research-investigating-how-invasive-predator-control-impacts-insects/index.html
+layout: layout.njk
 ---
 Research Investigating How Invasive Predator Control Impacts Insects
 ====================================================================

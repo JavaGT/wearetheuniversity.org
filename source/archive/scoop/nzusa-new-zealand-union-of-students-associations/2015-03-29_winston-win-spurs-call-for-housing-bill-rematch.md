@@ -1,9 +1,12 @@
 ---
 slug: winston-win-spurs-call-for-housing-bill-rematch
-title: "Winston win spurs call for housing bill rematch"
-date: 2015-03-29
-source-url: https://www.scoop.co.nz/stories/PA1503/S00420/winston-win-spurs-call-for-housing-bill-rematch.htm
+title: Winston win spurs call for housing bill rematch
+date: 2015-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00420/winston-win-spurs-call-for-housing-bill-rematch.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/03/29/winston-win-spurs-call-for-housing-bill-rematch/index.html
+layout: layout.njk
 ---
 Winston win spurs call for housing bill rematch
 ===============================================

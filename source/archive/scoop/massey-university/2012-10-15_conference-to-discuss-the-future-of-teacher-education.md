@@ -1,9 +1,13 @@
 ---
 slug: conference-to-discuss-the-future-of-teacher-education
-title: "Conference to discuss the future of teacher education"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/ED1210/S00083/conference-to-discuss-the-future-of-teacher-education.htm
+title: Conference to discuss the future of teacher education
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00083/conference-to-discuss-the-future-of-teacher-education.htm
 author: massey-university
+permalink: >-
+  /archive/2012/10/15/conference-to-discuss-the-future-of-teacher-education/index.html
+layout: layout.njk
 ---
 Conference to discuss the future of teacher education
 =====================================================

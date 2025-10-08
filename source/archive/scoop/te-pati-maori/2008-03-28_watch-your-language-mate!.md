@@ -1,9 +1,11 @@
 ---
 slug: watch-your-language-mate!
-title: "\"Watch your language, mate!\""
-date: 2008-03-28
+title: '"Watch your language, mate!"'
+date: 2008-03-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0803/S00480/watch-your-language-mate.htm
 author: te-pati-maori
+permalink: /archive/2008/03/28/watch-your-language-mate/index.html
+layout: layout.njk
 ---
 “Watch your language, mate!”
 ============================

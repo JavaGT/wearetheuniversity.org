@@ -1,9 +1,13 @@
 ---
 slug: helping-to-save-the-billion-dollar-kiwifruit-industry
-title: "Helping to save the billion-dollar kiwifruit industry"
-date: 2012-03-01
-source-url: https://www.scoop.co.nz/stories/SC1203/S00001/helping-to-save-the-billion-dollar-kiwifruit-industry.htm
+title: Helping to save the billion-dollar kiwifruit industry
+date: 2012-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1203/S00001/helping-to-save-the-billion-dollar-kiwifruit-industry.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/03/01/helping-to-save-the-billion-dollar-kiwifruit-industry/index.html
+layout: layout.njk
 ---
 Helping to save the billion-dollar kiwifruit industry
 =====================================================

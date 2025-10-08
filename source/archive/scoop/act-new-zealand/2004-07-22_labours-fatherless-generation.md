@@ -1,9 +1,12 @@
 ---
 slug: labours-fatherless-generation
-title: "Labour's Fatherless Generation"
-date: 2004-07-22
-source-url: https://www.scoop.co.nz/stories/PA0407/S00368/labours-fatherless-generation.htm
+title: Labour's Fatherless Generation
+date: 2004-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00368/labours-fatherless-generation.htm
 author: act-new-zealand
+permalink: /archive/2004/07/22/labours-fatherless-generation/index.html
+layout: layout.njk
 ---
 Labour's Fatherless Generation
 ==============================

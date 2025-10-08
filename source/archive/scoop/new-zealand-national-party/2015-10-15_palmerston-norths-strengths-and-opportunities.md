@@ -1,9 +1,12 @@
 ---
 slug: palmerston-norths-strengths-and-opportunities
-title: "Palmerston North’s strengths and opportunities"
-date: 2015-10-15
-source-url: https://www.scoop.co.nz/stories/PA1510/S00247/palmerston-norths-strengths-and-opportunities.htm
+title: Palmerston North’s strengths and opportunities
+date: 2015-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00247/palmerston-norths-strengths-and-opportunities.htm
 author: new-zealand-national-party
+permalink: /archive/2015/10/15/palmerston-norths-strengths-and-opportunities/index.html
+layout: layout.njk
 ---
 Palmerston North’s strengths and opportunities
 ==============================================

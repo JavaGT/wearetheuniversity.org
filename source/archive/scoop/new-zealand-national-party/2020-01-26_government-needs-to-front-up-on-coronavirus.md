@@ -1,9 +1,12 @@
 ---
 slug: government-needs-to-front-up-on-coronavirus
-title: "Government needs to front up on coronavirus"
-date: 2020-01-26
-source-url: https://www.scoop.co.nz/stories/PA2001/S00096/government-needs-to-front-up-on-coronavirus.htm
+title: Government needs to front up on coronavirus
+date: 2020-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00096/government-needs-to-front-up-on-coronavirus.htm
 author: new-zealand-national-party
+permalink: /archive/2020/01/26/government-needs-to-front-up-on-coronavirus/index.html
+layout: layout.njk
 ---
 Government needs to front up on coronavirus
 ===========================================

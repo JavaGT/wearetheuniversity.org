@@ -1,9 +1,12 @@
 ---
 slug: labour-inconsistent-over-tertiary-funding
-title: "Labour inconsistent over tertiary funding"
-date: 2008-02-12
-source-url: https://www.scoop.co.nz/stories/PA0802/S00132/labour-inconsistent-over-tertiary-funding.htm
+title: Labour inconsistent over tertiary funding
+date: 2008-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00132/labour-inconsistent-over-tertiary-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2008/02/12/labour-inconsistent-over-tertiary-funding/index.html
+layout: layout.njk
 ---
 Labour inconsistent over tertiary funding
 =========================================

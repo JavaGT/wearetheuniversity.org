@@ -1,9 +1,12 @@
 ---
 slug: police-minister-misleads-over-new-police
-title: "Police Minister misleads over new police"
-date: 2006-05-10
-source-url: https://www.scoop.co.nz/stories/PA0605/S00234/police-minister-misleads-over-new-police.htm
+title: Police Minister misleads over new police
+date: 2006-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00234/police-minister-misleads-over-new-police.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/10/police-minister-misleads-over-new-police/index.html
+layout: layout.njk
 ---
 Police Minister misleads over new police
 ========================================

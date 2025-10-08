@@ -1,9 +1,12 @@
 ---
 slug: electricity-changes-may-increase-hydro-spills
-title: "Electricity changes may increase hydro spills"
-date: 2009-12-10
-source-url: https://www.scoop.co.nz/stories/PO0912/S00144/electricity-changes-may-increase-hydro-spills.htm
+title: Electricity changes may increase hydro spills
+date: 2009-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00144/electricity-changes-may-increase-hydro-spills.htm
 author: waikato-university
+permalink: /archive/2009/12/10/electricity-changes-may-increase-hydro-spills/index.html
+layout: layout.njk
 ---
 Electricity changes may increase hydro spills
 =============================================

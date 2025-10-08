@@ -1,11 +1,14 @@
 ---
-title: "Concerns for Reduced Science Content at Radio NZ"
+title: Concerns for Reduced Science Content at Radio NZ
 slug: concerns-for-reduced-science-content-at-radio-nz
-date: 2016-05-08
+date: 2016-05-08T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: >-
+  /archive/2016/05/08/concerns-for-reduced-science-content-at-radio-nz/index.html
+layout: layout.njk
 ---
 
 The New Zealand Association of Scientists (Inc.)

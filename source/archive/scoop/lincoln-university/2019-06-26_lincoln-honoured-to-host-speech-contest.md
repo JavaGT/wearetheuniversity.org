@@ -1,9 +1,12 @@
 ---
 slug: lincoln-honoured-to-host-speech-contest
-title: "Lincoln honoured to host speech contest"
-date: 2019-06-26
-source-url: https://www.scoop.co.nz/stories/ED1906/S00063/lincoln-honoured-to-host-speech-contest.htm
+title: Lincoln honoured to host speech contest
+date: 2019-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1906/S00063/lincoln-honoured-to-host-speech-contest.htm
 author: lincoln-university
+permalink: /archive/2019/06/26/lincoln-honoured-to-host-speech-contest/index.html
+layout: layout.njk
 ---
 Lincoln honoured to host speech contest
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: tony-tells-fibs
-title: "Tony tells fibs"
-date: 1999-09-17
+title: Tony tells fibs
+date: 1999-09-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9909/S00363/tony-tells-fibs.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/17/tony-tells-fibs/index.html
+layout: layout.njk
 ---
 Tony tells fibs
 ===============

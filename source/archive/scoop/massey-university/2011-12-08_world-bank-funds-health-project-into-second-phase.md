@@ -1,9 +1,13 @@
 ---
 slug: world-bank-funds-health-project-into-second-phase
-title: "World Bank funds health project into second phase"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/ED1112/S00039/world-bank-funds-health-project-into-second-phase.htm
+title: World Bank funds health project into second phase
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00039/world-bank-funds-health-project-into-second-phase.htm
 author: massey-university
+permalink: >-
+  /archive/2011/12/08/world-bank-funds-health-project-into-second-phase/index.html
+layout: layout.njk
 ---
 World Bank funds health project into second phase
 =================================================

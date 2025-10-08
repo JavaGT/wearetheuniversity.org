@@ -1,9 +1,12 @@
 ---
 slug: reclaiming-our-childrens-birth-right
-title: "Reclaiming our children’s birth right"
-date: 2014-01-26
-source-url: https://www.scoop.co.nz/stories/PA1401/S00139/reclaiming-our-childrens-birth-right.htm
+title: Reclaiming our children’s birth right
+date: 2014-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00139/reclaiming-our-childrens-birth-right.htm
 author: green-party
+permalink: /archive/2014/01/26/reclaiming-our-childrens-birth-right/index.html
+layout: layout.njk
 ---
 Reclaiming our children’s birth right
 =====================================

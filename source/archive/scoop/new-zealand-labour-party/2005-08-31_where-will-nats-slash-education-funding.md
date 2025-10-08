@@ -1,9 +1,12 @@
 ---
 slug: where-will-nats-slash-education-funding
-title: "Where will Nats slash education funding?"
-date: 2005-08-31
-source-url: https://www.scoop.co.nz/stories/PA0508/S00834/where-will-nats-slash-education-funding.htm
+title: Where will Nats slash education funding?
+date: 2005-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00834/where-will-nats-slash-education-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/31/where-will-nats-slash-education-funding/index.html
+layout: layout.njk
 ---
 Where will Nats slash education funding?
 ========================================

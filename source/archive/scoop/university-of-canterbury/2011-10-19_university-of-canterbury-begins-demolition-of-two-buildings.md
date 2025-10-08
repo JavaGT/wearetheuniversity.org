@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-begins-demolition-of-two-buildings
-title: "University of Canterbury begins demolition of two buildings"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/ED1110/S00089/university-of-canterbury-begins-demolition-of-two-buildings.htm
+title: University of Canterbury begins demolition of two buildings
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00089/university-of-canterbury-begins-demolition-of-two-buildings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/10/19/university-of-canterbury-begins-demolition-of-two-buildings/index.html
+layout: layout.njk
 ---
 University of Canterbury begins demolition of two buildings
 ===========================================================

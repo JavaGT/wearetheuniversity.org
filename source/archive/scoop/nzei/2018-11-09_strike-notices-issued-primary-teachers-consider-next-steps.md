@@ -1,9 +1,13 @@
 ---
 slug: strike-notices-issued-primary-teachers-consider-next-steps
-title: "Strike notices issued, primary teachers consider next steps"
-date: 2018-11-09
-source-url: https://www.scoop.co.nz/stories/ED1811/S00021/strike-notices-issued-primary-teachers-consider-next-steps.htm
+title: Strike notices issued, primary teachers consider next steps
+date: 2018-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1811/S00021/strike-notices-issued-primary-teachers-consider-next-steps.htm
 author: nzei
+permalink: >-
+  /archive/2018/11/09/strike-notices-issued-primary-teachers-consider-next-steps/index.html
+layout: layout.njk
 ---
 Strike notices issued, primary teachers consider next steps
 ===========================================================

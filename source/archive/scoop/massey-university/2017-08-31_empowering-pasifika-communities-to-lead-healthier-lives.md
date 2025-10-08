@@ -1,9 +1,13 @@
 ---
 slug: empowering-pasifika-communities-to-lead-healthier-lives
-title: "Empowering Pasifika communities to lead healthier lives"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/GE1708/S00142/empowering-pasifika-communities-to-lead-healthier-lives.htm
+title: Empowering Pasifika communities to lead healthier lives
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1708/S00142/empowering-pasifika-communities-to-lead-healthier-lives.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/31/empowering-pasifika-communities-to-lead-healthier-lives/index.html
+layout: layout.njk
 ---
 Empowering Pasifika communities to lead healthier lives
 =======================================================

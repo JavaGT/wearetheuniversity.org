@@ -1,9 +1,13 @@
 ---
 slug: greens-welcome-huge-new-investment-in-sustainable-projects
-title: "Greens Welcome Huge New Investment In Sustainable Projects"
-date: 2020-07-01
-source-url: https://www.scoop.co.nz/stories/PA2007/S00003/greens-welcome-huge-new-investment-in-sustainable-projects.htm
+title: Greens Welcome Huge New Investment In Sustainable Projects
+date: 2020-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00003/greens-welcome-huge-new-investment-in-sustainable-projects.htm
 author: green-party
+permalink: >-
+  /archive/2020/07/01/greens-welcome-huge-new-investment-in-sustainable-projects/index.html
+layout: layout.njk
 ---
 Greens Welcome Huge New Investment In Sustainable Projects
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: study-to-test-omega-3-effect-on-brain-power
-title: "Study to test omega-3 effect on brain power"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/SC1003/S00068/study-to-test-omega-3-effect-on-brain-power.htm
+title: Study to test omega-3 effect on brain power
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1003/S00068/study-to-test-omega-3-effect-on-brain-power.htm
 author: massey-university
+permalink: /archive/2010/03/24/study-to-test-omega-3-effect-on-brain-power/index.html
+layout: layout.njk
 ---
 Study to test omega-3 effect on brain power
 ===========================================

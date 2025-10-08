@@ -1,9 +1,12 @@
 ---
 slug: uc-academic-wins-award-for-forestry-research
-title: "UC academic wins award for forestry research"
-date: 2016-10-19
-source-url: https://www.scoop.co.nz/stories/ED1610/S00077/uc-academic-wins-award-for-forestry-research.htm
+title: UC academic wins award for forestry research
+date: 2016-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00077/uc-academic-wins-award-for-forestry-research.htm
 author: university-of-canterbury
+permalink: /archive/2016/10/19/uc-academic-wins-award-for-forestry-research/index.html
+layout: layout.njk
 ---
 UC academic wins award for forestry research
 ============================================

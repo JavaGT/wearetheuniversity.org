@@ -1,9 +1,13 @@
 ---
 slug: outstanding-result-for-university-of-waikatos-faculty-of-ed
-title: "Outstanding result for University of Waikato’s Faculty of Ed"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00066/outstanding-result-for-university-of-waikatos-faculty-of-ed.htm
+title: Outstanding result for University of Waikato’s Faculty of Ed
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00066/outstanding-result-for-university-of-waikatos-faculty-of-ed.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/04/11/outstanding-result-for-university-of-waikatos-faculty-of-ed/index.html
+layout: layout.njk
 ---
 Outstanding result for University of Waikato’s Faculty of Ed
 ============================================================

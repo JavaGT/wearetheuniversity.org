@@ -1,9 +1,12 @@
 ---
 slug: over-$1000000-received-for-life-changing-tertiary-scholarships
-title: "Over $1,000,000 Received For \"life-changing\" Tertiary Scholarships"
-date: 2023-04-28
-source-url: https://www.scoop.co.nz/stories/ED2304/S00024/over-1000000-received-for-life-changing-tertiary-scholarships.htm
+title: Over $1,000,000 Received For "life-changing" Tertiary Scholarships
+date: 2023-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2304/S00024/over-1000000-received-for-life-changing-tertiary-scholarships.htm
 author: university-of-canterbury
+permalink: /archive/2023/04/28/over-/index.html
+layout: layout.njk
 ---
 Over $1,000,000 Received For “life-changing” Tertiary Scholarships
 ==================================================================

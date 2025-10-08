@@ -1,9 +1,13 @@
 ---
 slug: national-just-paying-lip-service-to-conservation
-title: "National just paying lip service to conservation"
-date: 2011-01-30
-source-url: https://www.scoop.co.nz/stories/PA1101/S00156/national-just-paying-lip-service-to-conservation.htm
+title: National just paying lip service to conservation
+date: 2011-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00156/national-just-paying-lip-service-to-conservation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/01/30/national-just-paying-lip-service-to-conservation/index.html
+layout: layout.njk
 ---
 National just paying lip service to conservation
 ================================================

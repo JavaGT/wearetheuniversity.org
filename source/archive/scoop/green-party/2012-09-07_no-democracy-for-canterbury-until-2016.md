@@ -1,9 +1,12 @@
 ---
 slug: no-democracy-for-canterbury-until-2016
-title: "No democracy for Canterbury until 2016"
-date: 2012-09-07
-source-url: https://www.scoop.co.nz/stories/PA1209/S00091/no-democracy-for-canterbury-until-2016.htm
+title: No democracy for Canterbury until 2016
+date: 2012-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00091/no-democracy-for-canterbury-until-2016.htm
 author: green-party
+permalink: /archive/2012/09/07/no-democracy-for-canterbury-until-2016/index.html
+layout: layout.njk
 ---
 No democracy for Canterbury until 2016
 ======================================

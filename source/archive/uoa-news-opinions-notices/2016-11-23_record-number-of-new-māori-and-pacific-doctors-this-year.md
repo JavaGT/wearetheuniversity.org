@@ -1,8 +1,11 @@
 ---
 slug: record-number-of-new-māori-and-pacific-doctors-this-year
-title: "Record number of new Māori and Pacific doctors this year"
-date: 2016-11-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/record-number-of-new-mori-and-pacific-doctors-this-year.html
+title: Record number of new Māori and Pacific doctors this year
+date: 2016-11-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/record-number-of-new-mori-and-pacific-doctors-this-year.html
+permalink: /archive/2016/11/23/record-number-of-new-m/index.html
+layout: layout.njk
 ---
 Record number of new Māori and Pacific doctors this year
 ========================================================

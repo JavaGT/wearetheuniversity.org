@@ -1,9 +1,12 @@
 ---
 slug: lotu-iiga-must-come-clean-on-rumoured-u-turn
-title: "Lotu Iiga must come clean on rumoured u-turn"
-date: 2015-12-14
-source-url: https://www.scoop.co.nz/stories/PA1512/S00318/lotu-iiga-must-come-clean-on-rumoured-u-turn.htm
+title: Lotu Iiga must come clean on rumoured u-turn
+date: 2015-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00318/lotu-iiga-must-come-clean-on-rumoured-u-turn.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/12/14/lotu-iiga-must-come-clean-on-rumoured-u-turn/index.html
+layout: layout.njk
 ---
 Lotu Iiga must come clean on rumoured u-turn
 ============================================

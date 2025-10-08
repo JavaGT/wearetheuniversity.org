@@ -1,9 +1,13 @@
 ---
 slug: $4-5bn-international-education-industry-under-threat
-title: "$4.5bn international education industry under threat"
-date: 2018-02-26
-source-url: https://www.scoop.co.nz/stories/PA1802/S00253/45bn-international-education-industry-under-threat.htm
+title: $4.5bn international education industry under threat
+date: 2018-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00253/45bn-international-education-industry-under-threat.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/02/26/4-5bn-international-education-industry-under-threat/index.html
+layout: layout.njk
 ---
 $4.5bn international education industry under threat
 ====================================================

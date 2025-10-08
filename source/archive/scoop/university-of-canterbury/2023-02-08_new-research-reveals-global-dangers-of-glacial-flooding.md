@@ -1,9 +1,13 @@
 ---
 slug: new-research-reveals-global-dangers-of-glacial-flooding
-title: "New Research Reveals Global Dangers Of Glacial Flooding"
-date: 2023-02-08
-source-url: https://www.scoop.co.nz/stories/SC2302/S00010/new-research-reveals-global-dangers-of-glacial-flooding.htm
+title: New Research Reveals Global Dangers Of Glacial Flooding
+date: 2023-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2302/S00010/new-research-reveals-global-dangers-of-glacial-flooding.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/02/08/new-research-reveals-global-dangers-of-glacial-flooding/index.html
+layout: layout.njk
 ---
 New Research Reveals Global Dangers Of Glacial Flooding
 =======================================================

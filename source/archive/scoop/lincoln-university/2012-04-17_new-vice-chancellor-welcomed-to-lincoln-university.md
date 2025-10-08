@@ -1,9 +1,13 @@
 ---
 slug: new-vice-chancellor-welcomed-to-lincoln-university
-title: "New Vice-Chancellor Welcomed To Lincoln University"
-date: 2012-04-17
-source-url: https://www.scoop.co.nz/stories/ED1204/S00064/new-vice-chancellor-welcomed-to-lincoln-university.htm
+title: New Vice-Chancellor Welcomed To Lincoln University
+date: 2012-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00064/new-vice-chancellor-welcomed-to-lincoln-university.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/04/17/new-vice-chancellor-welcomed-to-lincoln-university/index.html
+layout: layout.njk
 ---
 New Vice-Chancellor Welcomed To Lincoln University
 ==================================================

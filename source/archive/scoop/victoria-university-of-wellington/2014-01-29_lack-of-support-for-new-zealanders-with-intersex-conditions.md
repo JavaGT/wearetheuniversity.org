@@ -1,9 +1,13 @@
 ---
 slug: lack-of-support-for-new-zealanders-with-intersex-conditions
-title: "Lack of support for New Zealanders with intersex conditions"
-date: 2014-01-29
-source-url: https://www.scoop.co.nz/stories/ED1401/S00052/lack-of-support-for-new-zealanders-with-intersex-conditions.htm
+title: Lack of support for New Zealanders with intersex conditions
+date: 2014-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1401/S00052/lack-of-support-for-new-zealanders-with-intersex-conditions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/01/29/lack-of-support-for-new-zealanders-with-intersex-conditions/index.html
+layout: layout.njk
 ---
 Lack of support for New Zealanders with intersex conditions
 ===========================================================

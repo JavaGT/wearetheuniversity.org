@@ -1,9 +1,12 @@
 ---
 slug: time-to-test-that-great-business-idea…
-title: "Time to test that great business idea…"
-date: 2008-02-01
-source-url: https://www.scoop.co.nz/stories/ED0802/S00003/time-to-test-that-great-business-idea.htm
+title: Time to test that great business idea…
+date: 2008-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0802/S00003/time-to-test-that-great-business-idea.htm
 author: university-of-otago
+permalink: /archive/2008/02/01/time-to-test-that-great-business-idea/index.html
+layout: layout.njk
 ---
 Time to test that great business idea…
 ======================================

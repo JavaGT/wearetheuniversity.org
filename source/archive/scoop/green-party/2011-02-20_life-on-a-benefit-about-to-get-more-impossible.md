@@ -1,9 +1,12 @@
 ---
 slug: life-on-a-benefit-about-to-get-more-impossible
-title: "Life on a benefit about to get more impossible"
-date: 2011-02-20
-source-url: https://www.scoop.co.nz/stories/PA1102/S00305/life-on-a-benefit-about-to-get-more-impossible.htm
+title: Life on a benefit about to get more impossible
+date: 2011-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00305/life-on-a-benefit-about-to-get-more-impossible.htm
 author: green-party
+permalink: /archive/2011/02/20/life-on-a-benefit-about-to-get-more-impossible/index.html
+layout: layout.njk
 ---
 Life on a benefit about to get more impossible
 ==============================================

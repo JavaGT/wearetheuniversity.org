@@ -1,9 +1,13 @@
 ---
 slug: massey-helps-entrepreneurs-bungee-jump-into-business
-title: "Massey helps entrepreneurs ‘bungee jump’ into business"
-date: 2011-11-15
-source-url: https://www.scoop.co.nz/stories/ED1111/S00096/massey-helps-entrepreneurs-bungee-jump-into-business.htm
+title: Massey helps entrepreneurs ‘bungee jump’ into business
+date: 2011-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00096/massey-helps-entrepreneurs-bungee-jump-into-business.htm
 author: massey-university
+permalink: >-
+  /archive/2011/11/15/massey-helps-entrepreneurs-bungee-jump-into-business/index.html
+layout: layout.njk
 ---
 Massey helps entrepreneurs ‘bungee jump’ into business
 ======================================================

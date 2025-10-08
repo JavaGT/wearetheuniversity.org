@@ -1,9 +1,12 @@
 ---
 slug: celebrating-ten-years-of-māori-academic-achievement
-title: "Celebrating ten years of Māori academic achievement"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/ED1508/S00048/celebrating-ten-years-of-maori-academic-achievement.htm
+title: Celebrating ten years of Māori academic achievement
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00048/celebrating-ten-years-of-maori-academic-achievement.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/08/12/celebrating-ten-years-of-m/index.html
+layout: layout.njk
 ---
 Celebrating ten years of Māori academic achievement
 ===================================================

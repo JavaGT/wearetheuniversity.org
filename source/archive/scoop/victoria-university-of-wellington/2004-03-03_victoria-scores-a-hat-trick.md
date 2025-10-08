@@ -1,9 +1,11 @@
 ---
 slug: victoria-scores-a-hat-trick
-title: "Victoria scores a hat trick"
-date: 2004-03-03
+title: Victoria scores a hat trick
+date: 2004-03-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0403/S00018/victoria-scores-a-hat-trick.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/03/victoria-scores-a-hat-trick/index.html
+layout: layout.njk
 ---
 Victoria scores a hat trick
 ===========================

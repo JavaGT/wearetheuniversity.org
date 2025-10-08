@@ -1,9 +1,12 @@
 ---
 slug: massey-marae-opens-to-acclaim
-title: "Massey Marae Opens To Acclaim"
-date: 2021-03-29
-source-url: https://www.scoop.co.nz/stories/ED2103/S00051/massey-marae-opens-to-acclaim.htm
+title: Massey Marae Opens To Acclaim
+date: 2021-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2103/S00051/massey-marae-opens-to-acclaim.htm
 author: massey-university
+permalink: /archive/2021/03/29/massey-marae-opens-to-acclaim/index.html
+layout: layout.njk
 ---
 Massey Marae Opens To Acclaim
 =============================

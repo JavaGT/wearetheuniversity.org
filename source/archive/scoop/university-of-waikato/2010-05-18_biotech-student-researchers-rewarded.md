@@ -1,9 +1,12 @@
 ---
 slug: biotech-student-researchers-rewarded
-title: "Biotech student researchers rewarded"
-date: 2010-05-18
-source-url: https://www.scoop.co.nz/stories/ED1005/S00067/biotech-student-researchers-rewarded.htm
+title: Biotech student researchers rewarded
+date: 2010-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1005/S00067/biotech-student-researchers-rewarded.htm
 author: university-of-waikato
+permalink: /archive/2010/05/18/biotech-student-researchers-rewarded/index.html
+layout: layout.njk
 ---
 Biotech student researchers rewarded
 ====================================

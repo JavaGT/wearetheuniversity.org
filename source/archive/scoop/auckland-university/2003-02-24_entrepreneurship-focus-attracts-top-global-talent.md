@@ -1,9 +1,13 @@
 ---
 slug: entrepreneurship-focus-attracts-top-global-talent
-title: "Entrepreneurship Focus Attracts Top Global Talent"
-date: 2003-02-24
-source-url: https://www.scoop.co.nz/stories/ED0302/S00039/entrepreneurship-focus-attracts-top-global-talent.htm
+title: Entrepreneurship Focus Attracts Top Global Talent
+date: 2003-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0302/S00039/entrepreneurship-focus-attracts-top-global-talent.htm
 author: auckland-university
+permalink: >-
+  /archive/2003/02/24/entrepreneurship-focus-attracts-top-global-talent/index.html
+layout: layout.njk
 ---
 Entrepreneurship Focus Attracts Top Global Talent
 =================================================

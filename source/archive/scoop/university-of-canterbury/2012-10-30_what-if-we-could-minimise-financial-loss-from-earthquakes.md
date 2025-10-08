@@ -1,9 +1,13 @@
 ---
 slug: what-if-we-could-minimise-financial-loss-from-earthquakes
-title: "What if we could minimise financial loss from earthquakes?"
-date: 2012-10-30
-source-url: https://www.scoop.co.nz/stories/PO1210/S00467/what-if-we-could-minimise-financial-loss-from-earthquakes.htm
+title: What if we could minimise financial loss from earthquakes?
+date: 2012-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00467/what-if-we-could-minimise-financial-loss-from-earthquakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/30/what-if-we-could-minimise-financial-loss-from-earthquakes/index.html
+layout: layout.njk
 ---
 What if we could minimise financial loss from earthquakes?
 ==========================================================

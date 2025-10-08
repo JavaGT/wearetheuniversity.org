@@ -1,9 +1,13 @@
 ---
 slug: kudos-award-win-for-waikato-university-technician
-title: "KuDos Award win for Waikato University technician"
-date: 2014-10-10
-source-url: https://www.scoop.co.nz/stories/ED1410/S00066/kudos-award-win-for-waikato-university-technician.htm
+title: KuDos Award win for Waikato University technician
+date: 2014-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00066/kudos-award-win-for-waikato-university-technician.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/10/10/kudos-award-win-for-waikato-university-technician/index.html
+layout: layout.njk
 ---
 KuDos Award win for Waikato University technician
 =================================================

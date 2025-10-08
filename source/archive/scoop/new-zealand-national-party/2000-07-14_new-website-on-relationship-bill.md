@@ -1,9 +1,12 @@
 ---
 slug: new-website-on-relationship-bill
-title: "New website on Relationship Bill"
-date: 2000-07-14
-source-url: https://www.scoop.co.nz/stories/PA0007/S00229/new-website-on-relationship-bill.htm
+title: New website on Relationship Bill
+date: 2000-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00229/new-website-on-relationship-bill.htm
 author: new-zealand-national-party
+permalink: /archive/2000/07/14/new-website-on-relationship-bill/index.html
+layout: layout.njk
 ---
 New website on Relationship Bill
 ================================

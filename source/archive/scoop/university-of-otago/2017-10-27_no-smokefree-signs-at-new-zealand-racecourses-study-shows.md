@@ -1,9 +1,13 @@
 ---
 slug: no-smokefree-signs-at-new-zealand-racecourses-study-shows
-title: "No smokefree signs at New Zealand racecourses, study shows"
-date: 2017-10-27
-source-url: https://www.scoop.co.nz/stories/GE1710/S00117/no-smokefree-signs-at-new-zealand-racecourses-study-shows.htm
+title: No smokefree signs at New Zealand racecourses, study shows
+date: 2017-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1710/S00117/no-smokefree-signs-at-new-zealand-racecourses-study-shows.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/10/27/no-smokefree-signs-at-new-zealand-racecourses-study-shows/index.html
+layout: layout.njk
 ---
 No smokefree signs at New Zealand racecourses, study shows
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-could-win-hamilton-east
-title: "National Could Win Hamilton East"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/PA0311/S00006/national-could-win-hamilton-east.htm
+title: National Could Win Hamilton East
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00006/national-could-win-hamilton-east.htm
 author: act-new-zealand
+permalink: /archive/2003/11/03/national-could-win-hamilton-east/index.html
+layout: layout.njk
 ---
 National Could Win Hamilton East
 ================================

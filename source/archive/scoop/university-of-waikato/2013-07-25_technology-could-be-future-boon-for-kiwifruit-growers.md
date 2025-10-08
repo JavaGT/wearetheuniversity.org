@@ -1,9 +1,13 @@
 ---
 slug: technology-could-be-future-boon-for-kiwifruit-growers
-title: "Technology could be future boon for kiwifruit growers"
-date: 2013-07-25
-source-url: https://www.scoop.co.nz/stories/BU1307/S00925/technology-could-be-future-boon-for-kiwifruit-growers.htm
+title: Technology could be future boon for kiwifruit growers
+date: 2013-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00925/technology-could-be-future-boon-for-kiwifruit-growers.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/07/25/technology-could-be-future-boon-for-kiwifruit-growers/index.html
+layout: layout.njk
 ---
 Technology could be future boon for kiwifruit growers
 =====================================================

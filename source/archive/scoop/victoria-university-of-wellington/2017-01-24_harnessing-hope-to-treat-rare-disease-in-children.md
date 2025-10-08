@@ -1,9 +1,13 @@
 ---
 slug: harnessing-hope-to-treat-rare-disease-in-children
-title: "Harnessing hope to treat rare disease in children"
-date: 2017-01-24
-source-url: https://www.scoop.co.nz/stories/SC1701/S00037/harnessing-hope-to-treat-rare-disease-in-children.htm
+title: Harnessing hope to treat rare disease in children
+date: 2017-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1701/S00037/harnessing-hope-to-treat-rare-disease-in-children.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2017/01/24/harnessing-hope-to-treat-rare-disease-in-children/index.html
+layout: layout.njk
 ---
 Harnessing hope to treat rare disease in children
 =================================================

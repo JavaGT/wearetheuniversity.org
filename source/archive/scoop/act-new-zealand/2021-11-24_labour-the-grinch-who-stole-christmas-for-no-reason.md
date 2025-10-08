@@ -1,9 +1,13 @@
 ---
 slug: labour-the-grinch-who-stole-christmas-for-no-reason
-title: "Labour, The Grinch Who Stole Christmas For No Reason"
-date: 2021-11-24
-source-url: https://www.scoop.co.nz/stories/PA2111/S00269/labour-the-grinch-who-stole-christmas-for-no-reason.htm
+title: Labour, The Grinch Who Stole Christmas For No Reason
+date: 2021-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00269/labour-the-grinch-who-stole-christmas-for-no-reason.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/11/24/labour-the-grinch-who-stole-christmas-for-no-reason/index.html
+layout: layout.njk
 ---
 Labour, The Grinch Who Stole Christmas For No Reason
 ====================================================

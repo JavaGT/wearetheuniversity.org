@@ -1,9 +1,12 @@
 ---
 slug: new-election-prediction-method
-title: "New election prediction method"
-date: 2018-08-10
-source-url: https://www.scoop.co.nz/stories/PO1808/S00124/new-election-prediction-method.htm
+title: New election prediction method
+date: 2018-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1808/S00124/new-election-prediction-method.htm
 author: university-of-otago
+permalink: /archive/2018/08/10/new-election-prediction-method/index.html
+layout: layout.njk
 ---
 New election prediction method
 ==============================

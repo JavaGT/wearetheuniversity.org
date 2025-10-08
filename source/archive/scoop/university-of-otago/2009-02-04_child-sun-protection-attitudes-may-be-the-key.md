@@ -1,9 +1,12 @@
 ---
 slug: child-sun-protection-attitudes-may-be-the-key
-title: "Child sun protection: Attitudes may be the key"
-date: 2009-02-04
-source-url: https://www.scoop.co.nz/stories/GE0902/S00014/child-sun-protection-attitudes-may-be-the-key.htm
+title: 'Child sun protection: Attitudes may be the key'
+date: 2009-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0902/S00014/child-sun-protection-attitudes-may-be-the-key.htm
 author: university-of-otago
+permalink: /archive/2009/02/04/child-sun-protection-attitudes-may-be-the-key/index.html
+layout: layout.njk
 ---
 Child sun protection: Attitudes may be the key
 ==============================================

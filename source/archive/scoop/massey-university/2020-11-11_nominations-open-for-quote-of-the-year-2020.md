@@ -1,9 +1,12 @@
 ---
 slug: nominations-open-for-quote-of-the-year-2020
-title: "Nominations Open For Quote Of The Year 2020"
-date: 2020-11-11
-source-url: https://www.scoop.co.nz/stories/CU2011/S00114/nominations-open-for-quote-of-the-year-2020.htm
+title: Nominations Open For Quote Of The Year 2020
+date: 2020-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2011/S00114/nominations-open-for-quote-of-the-year-2020.htm
 author: massey-university
+permalink: /archive/2020/11/11/nominations-open-for-quote-of-the-year-2020/index.html
+layout: layout.njk
 ---
 Nominations Open For Quote Of The Year 2020
 ===========================================

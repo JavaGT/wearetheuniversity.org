@@ -1,9 +1,12 @@
 ---
 slug: teachers-claim-win-after-scheme-extended
-title: "Teachers claim win after scheme extended"
-date: 2017-08-25
-source-url: https://www.scoop.co.nz/stories/PO1708/S00520/teachers-claim-win-after-scheme-extended.htm
+title: Teachers claim win after scheme extended
+date: 2017-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00520/teachers-claim-win-after-scheme-extended.htm
 author: nzei
+permalink: /archive/2017/08/25/teachers-claim-win-after-scheme-extended/index.html
+layout: layout.njk
 ---
 Teachers claim win after scheme extended
 ========================================

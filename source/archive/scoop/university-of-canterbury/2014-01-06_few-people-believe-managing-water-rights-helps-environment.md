@@ -1,9 +1,13 @@
 ---
 slug: few-people-believe-managing-water-rights-helps-environment
-title: "Few people believe managing water rights helps environment"
-date: 2014-01-06
-source-url: https://www.scoop.co.nz/stories/SC1401/S00007/few-people-believe-managing-water-rights-helps-environment.htm
+title: Few people believe managing water rights helps environment
+date: 2014-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1401/S00007/few-people-believe-managing-water-rights-helps-environment.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/01/06/few-people-believe-managing-water-rights-helps-environment/index.html
+layout: layout.njk
 ---
 Few people believe managing water rights helps environment
 ==========================================================

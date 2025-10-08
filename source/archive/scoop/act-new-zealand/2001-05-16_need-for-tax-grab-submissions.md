@@ -1,9 +1,12 @@
 ---
 slug: need-for-tax-grab-submissions
-title: "Need for Tax Grab Submissions"
-date: 2001-05-16
-source-url: https://www.scoop.co.nz/stories/PA0105/S00338/need-for-tax-grab-submissions.htm
+title: Need for Tax Grab Submissions
+date: 2001-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00338/need-for-tax-grab-submissions.htm
 author: act-new-zealand
+permalink: /archive/2001/05/16/need-for-tax-grab-submissions/index.html
+layout: layout.njk
 ---
 Need for Tax Grab Submissions
 =============================

@@ -1,9 +1,13 @@
 ---
 slug: increasing-use-of-internet-to-buy-and-sell-drugs
-title: "Increasing use of internet to buy and sell drugs"
-date: 2016-04-20
-source-url: https://www.scoop.co.nz/stories/PO1604/S00260/increasing-use-of-internet-to-buy-and-sell-drugs.htm
+title: Increasing use of internet to buy and sell drugs
+date: 2016-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1604/S00260/increasing-use-of-internet-to-buy-and-sell-drugs.htm
 author: massey-university
+permalink: >-
+  /archive/2016/04/20/increasing-use-of-internet-to-buy-and-sell-drugs/index.html
+layout: layout.njk
 ---
 Increasing use of internet to buy and sell drugs
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: zero-waste-should-still-be-dunedins-goal
-title: "Zero Waste Should Still Be Dunedin's Goal"
-date: 2004-04-28
-source-url: https://www.scoop.co.nz/stories/PA0404/S00457/zero-waste-should-still-be-dunedins-goal.htm
+title: Zero Waste Should Still Be Dunedin's Goal
+date: 2004-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00457/zero-waste-should-still-be-dunedins-goal.htm
 author: green-party
+permalink: /archive/2004/04/28/zero-waste-should-still-be-dunedins-goal/index.html
+layout: layout.njk
 ---
 Zero Waste Should Still Be Dunedin's Goal
 =========================================

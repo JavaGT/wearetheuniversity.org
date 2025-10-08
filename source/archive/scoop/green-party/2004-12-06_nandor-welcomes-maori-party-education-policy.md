@@ -1,9 +1,12 @@
 ---
 slug: nandor-welcomes-maori-party-education-policy
-title: "Nandor welcomes Maori Party education policy"
-date: 2004-12-06
-source-url: https://www.scoop.co.nz/stories/PA0412/S00143/nandor-welcomes-maori-party-education-policy.htm
+title: Nandor welcomes Maori Party education policy
+date: 2004-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00143/nandor-welcomes-maori-party-education-policy.htm
 author: green-party
+permalink: /archive/2004/12/06/nandor-welcomes-maori-party-education-policy/index.html
+layout: layout.njk
 ---
 Nandor welcomes Maori Party education policy
 ============================================

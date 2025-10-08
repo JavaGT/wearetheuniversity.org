@@ -1,9 +1,12 @@
 ---
 slug: national-testing-key-to-raising-standards
-title: "National testing key to raising standards"
-date: 2003-09-23
-source-url: https://www.scoop.co.nz/stories/PA0309/S00489/national-testing-key-to-raising-standards.htm
+title: National testing key to raising standards
+date: 2003-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00489/national-testing-key-to-raising-standards.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/23/national-testing-key-to-raising-standards/index.html
+layout: layout.njk
 ---
 National testing key to raising standards
 =========================================

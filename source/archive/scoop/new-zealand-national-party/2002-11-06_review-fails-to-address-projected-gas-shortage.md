@@ -1,9 +1,12 @@
 ---
 slug: review-fails-to-address-projected-gas-shortage
-title: "Review fails to address projected gas shortage"
-date: 2002-11-06
-source-url: https://www.scoop.co.nz/stories/PA0211/S00092/review-fails-to-address-projected-gas-shortage.htm
+title: Review fails to address projected gas shortage
+date: 2002-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00092/review-fails-to-address-projected-gas-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/06/review-fails-to-address-projected-gas-shortage/index.html
+layout: layout.njk
 ---
 Review fails to address projected gas shortage
 ==============================================

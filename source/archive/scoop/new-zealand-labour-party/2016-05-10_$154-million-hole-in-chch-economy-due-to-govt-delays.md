@@ -1,9 +1,13 @@
 ---
 slug: $154-million-hole-in-chch-economy-due-to-govt-delays
-title: "$154 million hole in Chch economy due to Govt delays"
-date: 2016-05-10
-source-url: https://www.scoop.co.nz/stories/PA1605/S00171/154-million-hole-in-chch-economy-due-to-govt-delays.htm
+title: $154 million hole in Chch economy due to Govt delays
+date: 2016-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00171/154-million-hole-in-chch-economy-due-to-govt-delays.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/10/154-million-hole-in-chch-economy-due-to-govt-delays/index.html
+layout: layout.njk
 ---
 $154 million hole in Chch economy due to Govt delays
 ====================================================

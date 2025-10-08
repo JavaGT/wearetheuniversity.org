@@ -1,9 +1,12 @@
 ---
 slug: real-solutions-for-truancy-crisis
-title: "Real Solutions For Truancy Crisis"
-date: 2023-02-12
-source-url: https://www.scoop.co.nz/stories/PA2302/S00066/real-solutions-for-truancy-crisis.htm
+title: Real Solutions For Truancy Crisis
+date: 2023-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2302/S00066/real-solutions-for-truancy-crisis.htm
 author: act-new-zealand
+permalink: /archive/2023/02/12/real-solutions-for-truancy-crisis/index.html
+layout: layout.njk
 ---
 Real Solutions For Truancy Crisis
 =================================

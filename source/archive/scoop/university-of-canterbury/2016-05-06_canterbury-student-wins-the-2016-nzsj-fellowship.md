@@ -1,9 +1,13 @@
 ---
 slug: canterbury-student-wins-the-2016-nzsj-fellowship
-title: "Canterbury student wins the 2016 NZSJ Fellowship"
-date: 2016-05-06
-source-url: https://www.scoop.co.nz/stories/ED1605/S00019/canterbury-student-wins-the-2016-nzsj-fellowship.htm
+title: Canterbury student wins the 2016 NZSJ Fellowship
+date: 2016-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00019/canterbury-student-wins-the-2016-nzsj-fellowship.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/05/06/canterbury-student-wins-the-2016-nzsj-fellowship/index.html
+layout: layout.njk
 ---
 Canterbury student wins the 2016 NZSJ Fellowship
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: talented-students-to-attend-entrepreneur-course
-title: "Talented students to attend entrepreneur course"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/ED0804/S00030/talented-students-to-attend-entrepreneur-course.htm
+title: Talented students to attend entrepreneur course
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00030/talented-students-to-attend-entrepreneur-course.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/04/10/talented-students-to-attend-entrepreneur-course/index.html
+layout: layout.njk
 ---
 Talented students to attend entrepreneur course
 ===============================================

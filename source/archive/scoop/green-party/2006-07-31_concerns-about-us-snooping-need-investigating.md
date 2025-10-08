@@ -1,9 +1,12 @@
 ---
 slug: concerns-about-us-snooping-need-investigating
-title: "Concerns about US snooping need investigating"
-date: 2006-07-31
-source-url: https://www.scoop.co.nz/stories/PA0607/S00542/concerns-about-us-snooping-need-investigating.htm
+title: Concerns about US snooping need investigating
+date: 2006-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00542/concerns-about-us-snooping-need-investigating.htm
 author: green-party
+permalink: /archive/2006/07/31/concerns-about-us-snooping-need-investigating/index.html
+layout: layout.njk
 ---
 Concerns about US snooping need investigating
 =============================================

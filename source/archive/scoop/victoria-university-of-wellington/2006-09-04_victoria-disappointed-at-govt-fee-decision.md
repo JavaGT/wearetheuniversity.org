@@ -1,9 +1,12 @@
 ---
 slug: victoria-disappointed-at-govt-fee-decision
-title: "Victoria disappointed at Govt fee decision"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/ED0609/S00012/victoria-disappointed-at-govt-fee-decision.htm
+title: Victoria disappointed at Govt fee decision
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00012/victoria-disappointed-at-govt-fee-decision.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/09/04/victoria-disappointed-at-govt-fee-decision/index.html
+layout: layout.njk
 ---
 Victoria disappointed at Govt fee decision
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: water-funding-delays-put-more-kiwis-at-risk
-title: "Water Funding Delays Put More Kiwis At Risk"
-date: 2010-05-03
-source-url: https://www.scoop.co.nz/stories/PA1005/S00017/water-funding-delays-put-more-kiwis-at-risk.htm
+title: Water Funding Delays Put More Kiwis At Risk
+date: 2010-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00017/water-funding-delays-put-more-kiwis-at-risk.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/05/03/water-funding-delays-put-more-kiwis-at-risk/index.html
+layout: layout.njk
 ---
 Water Funding Delays Put More Kiwis At Risk
 ===========================================

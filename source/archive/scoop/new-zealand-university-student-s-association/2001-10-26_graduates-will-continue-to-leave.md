@@ -1,9 +1,12 @@
 ---
 slug: graduates-will-continue-to-leave
-title: "Graduates Will Continue To Leave"
-date: 2001-10-26
-source-url: https://www.scoop.co.nz/stories/ED0110/S00031/graduates-will-continue-to-leave.htm
+title: Graduates Will Continue To Leave
+date: 2001-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00031/graduates-will-continue-to-leave.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/10/26/graduates-will-continue-to-leave/index.html
+layout: layout.njk
 ---
 Graduates Will Continue To Leave
 ================================

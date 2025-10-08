@@ -1,9 +1,12 @@
 ---
 slug: researcher-to-study-sound-and-fury
-title: "Researcher to study sound and fury"
-date: 2009-04-09
-source-url: https://www.scoop.co.nz/stories/SC0904/S00014/researcher-to-study-sound-and-fury.htm
+title: Researcher to study sound and fury
+date: 2009-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0904/S00014/researcher-to-study-sound-and-fury.htm
 author: university-of-waikato
+permalink: /archive/2009/04/09/researcher-to-study-sound-and-fury/index.html
+layout: layout.njk
 ---
 Researcher to study sound and fury
 ==================================

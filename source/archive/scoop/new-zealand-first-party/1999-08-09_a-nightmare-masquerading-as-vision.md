@@ -1,9 +1,12 @@
 ---
 slug: a-nightmare-masquerading-as-vision
-title: "A Nightmare Masquerading As Vision"
-date: 1999-08-09
-source-url: https://www.scoop.co.nz/stories/PA9908/S00131/a-nightmare-masquerading-as-vision.htm
+title: A Nightmare Masquerading As Vision
+date: 1999-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00131/a-nightmare-masquerading-as-vision.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/09/a-nightmare-masquerading-as-vision/index.html
+layout: layout.njk
 ---
 A Nightmare Masquerading As Vision
 ==================================

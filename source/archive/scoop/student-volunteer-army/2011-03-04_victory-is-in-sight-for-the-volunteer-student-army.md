@@ -1,9 +1,13 @@
 ---
 slug: victory-is-in-sight-for-the-volunteer-student-army
-title: "Victory is in sight for the Volunteer Student Army"
-date: 2011-03-04
-source-url: https://www.scoop.co.nz/stories/AK1103/S00201/victory-is-in-sight-for-the-volunteer-student-army.htm
+title: Victory is in sight for the Volunteer Student Army
+date: 2011-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00201/victory-is-in-sight-for-the-volunteer-student-army.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2011/03/04/victory-is-in-sight-for-the-volunteer-student-army/index.html
+layout: layout.njk
 ---
 Victory is in sight for the Volunteer Student Army
 ==================================================

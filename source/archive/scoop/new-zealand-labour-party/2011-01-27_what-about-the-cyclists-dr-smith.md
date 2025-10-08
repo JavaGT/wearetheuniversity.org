@@ -1,9 +1,12 @@
 ---
 slug: what-about-the-cyclists-dr-smith
-title: "What about the cyclists Dr Smith?"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/PA1101/S00121/what-about-the-cyclists-dr-smith.htm
+title: What about the cyclists Dr Smith?
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00121/what-about-the-cyclists-dr-smith.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/27/what-about-the-cyclists-dr-smith/index.html
+layout: layout.njk
 ---
 What about the cyclists Dr Smith?
 =================================

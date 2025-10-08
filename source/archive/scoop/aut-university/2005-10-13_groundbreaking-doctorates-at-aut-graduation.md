@@ -1,9 +1,12 @@
 ---
 slug: groundbreaking-doctorates-at-aut-graduation
-title: "Groundbreaking doctorates at AUT graduation"
-date: 2005-10-13
-source-url: https://www.scoop.co.nz/stories/ED0510/S00037/groundbreaking-doctorates-at-aut-graduation.htm
+title: Groundbreaking doctorates at AUT graduation
+date: 2005-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00037/groundbreaking-doctorates-at-aut-graduation.htm
 author: aut-university
+permalink: /archive/2005/10/13/groundbreaking-doctorates-at-aut-graduation/index.html
+layout: layout.njk
 ---
 Groundbreaking doctorates at AUT graduation
 ===========================================

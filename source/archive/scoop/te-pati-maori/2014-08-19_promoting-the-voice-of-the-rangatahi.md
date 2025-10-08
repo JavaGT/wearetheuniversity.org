@@ -1,9 +1,12 @@
 ---
 slug: promoting-the-voice-of-the-rangatahi
-title: "Promoting the Voice of the Rangatahi"
-date: 2014-08-19
-source-url: https://www.scoop.co.nz/stories/PO1408/S00316/promoting-the-voice-of-the-rangatahi.htm
+title: Promoting the Voice of the Rangatahi
+date: 2014-08-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00316/promoting-the-voice-of-the-rangatahi.htm
 author: te-pati-maori
+permalink: /archive/2014/08/19/promoting-the-voice-of-the-rangatahi/index.html
+layout: layout.njk
 ---
 Promoting the Voice of the Rangatahi
 ====================================

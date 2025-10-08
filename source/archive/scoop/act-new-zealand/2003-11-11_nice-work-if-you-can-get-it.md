@@ -1,9 +1,11 @@
 ---
 slug: nice-work-if-you-can-get-it
-title: "Nice Work If You Can Get It"
-date: 2003-11-11
+title: Nice Work If You Can Get It
+date: 2003-11-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00216/nice-work-if-you-can-get-it.htm
 author: act-new-zealand
+permalink: /archive/2003/11/11/nice-work-if-you-can-get-it/index.html
+layout: layout.njk
 ---
 Nice Work If You Can Get It
 ===========================

@@ -1,9 +1,11 @@
 ---
 slug: masters-creativity-on-show
-title: "Masters creativity on show"
-date: 2014-02-03
+title: Masters creativity on show
+date: 2014-02-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1402/S00005/masters-creativity-on-show.htm
 author: massey-university
+permalink: /archive/2014/02/03/masters-creativity-on-show/index.html
+layout: layout.njk
 ---
 Masters creativity on show
 ==========================

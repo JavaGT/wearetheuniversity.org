@@ -1,9 +1,13 @@
 ---
 slug: green-budget-boosts-funds-for-environment-centres
-title: "Green Budget Boosts Funds For Environment Centres"
-date: 2000-12-20
-source-url: https://www.scoop.co.nz/stories/PA0012/S00362/green-budget-boosts-funds-for-environment-centres.htm
+title: Green Budget Boosts Funds For Environment Centres
+date: 2000-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00362/green-budget-boosts-funds-for-environment-centres.htm
 author: green-party
+permalink: >-
+  /archive/2000/12/20/green-budget-boosts-funds-for-environment-centres/index.html
+layout: layout.njk
 ---
 Green Budget Boosts Funds For Environment Centres
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: so-why-did-mallard-go-to-asia
-title: "So Why Did Mallard Go to Asia?"
-date: 2002-11-25
-source-url: https://www.scoop.co.nz/stories/PA0211/S00554/so-why-did-mallard-go-to-asia.htm
+title: So Why Did Mallard Go to Asia?
+date: 2002-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00554/so-why-did-mallard-go-to-asia.htm
 author: act-new-zealand
+permalink: /archive/2002/11/25/so-why-did-mallard-go-to-asia/index.html
+layout: layout.njk
 ---
 So Why Did Mallard Go to Asia?
 ==============================

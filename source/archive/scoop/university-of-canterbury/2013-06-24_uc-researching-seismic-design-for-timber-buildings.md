@@ -1,9 +1,13 @@
 ---
 slug: uc-researching-seismic-design-for-timber-buildings
-title: "UC Researching Seismic Design For Timber Buildings"
-date: 2013-06-24
-source-url: https://www.scoop.co.nz/stories/SC1306/S00059/uc-researching-seismic-design-for-timber-buildings.htm
+title: UC Researching Seismic Design For Timber Buildings
+date: 2013-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00059/uc-researching-seismic-design-for-timber-buildings.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/24/uc-researching-seismic-design-for-timber-buildings/index.html
+layout: layout.njk
 ---
 UC Researching Seismic Design For Timber Buildings
 ==================================================

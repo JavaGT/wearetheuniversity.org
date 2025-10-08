@@ -1,9 +1,12 @@
 ---
 slug: government-mistakes-motion-for-movement
-title: "Government Mistakes Motion for Movement"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/PA1104/S00235/government-mistakes-motion-for-movement.htm
+title: Government Mistakes Motion for Movement
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00235/government-mistakes-motion-for-movement.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/12/government-mistakes-motion-for-movement/index.html
+layout: layout.njk
 ---
 Government Mistakes Motion for Movement
 =======================================

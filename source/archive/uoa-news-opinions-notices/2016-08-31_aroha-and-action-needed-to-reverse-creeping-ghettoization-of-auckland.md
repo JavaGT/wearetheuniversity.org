@@ -1,8 +1,12 @@
 ---
 slug: aroha-and-action-needed-to-reverse-creeping-ghettoization-of-auckland
-title: "Aroha and action needed to reverse creeping \"ghettoization\" of Auckland"
-date: 2016-08-31
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/inequality-auckland-ballot-box-2016.html
+title: Aroha and action needed to reverse creeping "ghettoization" of Auckland
+date: 2016-08-31T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/inequality-auckland-ballot-box-2016.html
+permalink: >-
+  /archive/2016/08/31/aroha-and-action-needed-to-reverse-creeping-ghettoization-of-auckland/index.html
+layout: layout.njk
 ---
 
 Aroha and action needed to reverse creeping "ghettoization" of Auckland

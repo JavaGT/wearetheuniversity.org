@@ -1,9 +1,13 @@
 ---
 slug: budget-misses-opportunity-to-train-more-nz-doctors
-title: "Budget Misses Opportunity To Train More NZ Doctors"
-date: 2023-05-18
-source-url: https://www.scoop.co.nz/stories/ED2305/S00029/budget-misses-opportunity-to-train-more-nz-doctors.htm
+title: Budget Misses Opportunity To Train More NZ Doctors
+date: 2023-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2305/S00029/budget-misses-opportunity-to-train-more-nz-doctors.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/05/18/budget-misses-opportunity-to-train-more-nz-doctors/index.html
+layout: layout.njk
 ---
 Budget Misses Opportunity To Train More NZ Doctors
 ==================================================

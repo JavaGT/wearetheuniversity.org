@@ -1,9 +1,12 @@
 ---
 slug: uc-helps-power-tongan-schools
-title: "UC helps power Tongan schools"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/ED1110/S00051/uc-helps-power-tongan-schools.htm
+title: UC helps power Tongan schools
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00051/uc-helps-power-tongan-schools.htm
 author: university-of-canterbury
+permalink: /archive/2011/10/13/uc-helps-power-tongan-schools/index.html
+layout: layout.njk
 ---
 UC helps power Tongan schools
 =============================

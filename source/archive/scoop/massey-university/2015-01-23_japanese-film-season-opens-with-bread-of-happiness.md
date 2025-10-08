@@ -1,9 +1,13 @@
 ---
 slug: japanese-film-season-opens-with-bread-of-happiness
-title: "Japanese film season opens with Bread of Happiness"
-date: 2015-01-23
-source-url: https://www.scoop.co.nz/stories/CU1501/S00263/japanese-film-season-opens-with-bread-of-happiness.htm
+title: Japanese film season opens with Bread of Happiness
+date: 2015-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1501/S00263/japanese-film-season-opens-with-bread-of-happiness.htm
 author: massey-university
+permalink: >-
+  /archive/2015/01/23/japanese-film-season-opens-with-bread-of-happiness/index.html
+layout: layout.njk
 ---
 Japanese film season opens with Bread of Happiness
 ==================================================

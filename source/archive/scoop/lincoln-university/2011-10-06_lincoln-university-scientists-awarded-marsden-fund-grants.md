@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-scientists-awarded-marsden-fund-grants
-title: "Lincoln University scientists awarded Marsden Fund grants"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/SC1110/S00017/lincoln-university-scientists-awarded-marsden-fund-grants.htm
+title: Lincoln University scientists awarded Marsden Fund grants
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00017/lincoln-university-scientists-awarded-marsden-fund-grants.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/10/06/lincoln-university-scientists-awarded-marsden-fund-grants/index.html
+layout: layout.njk
 ---
 Lincoln University scientists awarded Marsden Fund grants
 =========================================================

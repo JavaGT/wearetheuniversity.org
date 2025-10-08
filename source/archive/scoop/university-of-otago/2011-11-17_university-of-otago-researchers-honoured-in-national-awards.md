@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-researchers-honoured-in-national-awards
-title: "University of Otago researchers honoured in national awards"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/ED1111/S00111/university-of-otago-researchers-honoured-in-national-awards.htm
+title: University of Otago researchers honoured in national awards
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00111/university-of-otago-researchers-honoured-in-national-awards.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/17/university-of-otago-researchers-honoured-in-national-awards/index.html
+layout: layout.njk
 ---
 University of Otago researchers honoured in national awards
 ===========================================================

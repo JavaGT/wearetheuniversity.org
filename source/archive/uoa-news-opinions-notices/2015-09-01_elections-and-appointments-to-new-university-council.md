@@ -1,8 +1,12 @@
 ---
 slug: elections-and-appointments-to-new-university-council
-title: "Elections and appointments to new University Council"
-date: 2015-09-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/appointments-to-university-of-auckland-council.html
+title: Elections and appointments to new University Council
+date: 2015-09-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2015/appointments-to-university-of-auckland-council.html
+permalink: >-
+  /archive/2015/09/01/elections-and-appointments-to-new-university-council/index.html
+layout: layout.njk
 ---
 Elections and appointments to new University Council
 ====================================================

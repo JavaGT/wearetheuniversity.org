@@ -1,9 +1,11 @@
 ---
 slug: coming-to-a-river-near-you
-title: "Coming to a river near you"
-date: 2004-07-28
+title: Coming to a river near you
+date: 2004-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0407/S00469/coming-to-a-river-near-you.htm
 author: green-party
+permalink: /archive/2004/07/28/coming-to-a-river-near-you/index.html
+layout: layout.njk
 ---
 Coming to a river near you
 ==========================

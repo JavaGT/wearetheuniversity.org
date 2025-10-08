@@ -1,9 +1,12 @@
 ---
 slug: mothers-cry-shame-on-john-key
-title: "Mother’s cry: Shame on John Key"
-date: 2010-10-20
-source-url: https://www.scoop.co.nz/stories/PA1010/S00346/mothers-cry-shame-on-john-key.htm
+title: 'Mother’s cry: Shame on John Key'
+date: 2010-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00346/mothers-cry-shame-on-john-key.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/20/mothers-cry-shame-on-john-key/index.html
+layout: layout.njk
 ---
 Mother’s cry: Shame on John Key
 ===============================

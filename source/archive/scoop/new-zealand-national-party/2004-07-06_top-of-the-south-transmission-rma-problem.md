@@ -1,9 +1,12 @@
 ---
 slug: top-of-the-south-transmission-rma-problem
-title: "Top of the South Transmission/RMA problem"
-date: 2004-07-06
-source-url: https://www.scoop.co.nz/stories/PA0407/S00120/top-of-the-south-transmissionrma-problem.htm
+title: Top of the South Transmission/RMA problem
+date: 2004-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00120/top-of-the-south-transmissionrma-problem.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/06/top-of-the-south-transmission-rma-problem/index.html
+layout: layout.njk
 ---
 Top of the South Transmission/RMA problem
 =========================================

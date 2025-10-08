@@ -1,9 +1,12 @@
 ---
 slug: students-get-a-taste-of-life-in-the-it-industry
-title: "Students get a taste of life in the IT industry"
-date: 2011-10-19
-source-url: https://www.scoop.co.nz/stories/ED1110/S00086/students-get-a-taste-of-life-in-the-it-industry.htm
+title: Students get a taste of life in the IT industry
+date: 2011-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00086/students-get-a-taste-of-life-in-the-it-industry.htm
 author: aut-university
+permalink: /archive/2011/10/19/students-get-a-taste-of-life-in-the-it-industry/index.html
+layout: layout.njk
 ---
 Students get a taste of life in the IT industry
 ===============================================

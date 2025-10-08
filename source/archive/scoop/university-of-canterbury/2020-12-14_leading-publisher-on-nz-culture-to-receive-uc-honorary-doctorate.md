@@ -1,9 +1,13 @@
 ---
 slug: leading-publisher-on-nz-culture-to-receive-uc-honorary-doctorate
-title: "Leading Publisher On NZ Culture To Receive UC Honorary Doctorate"
-date: 2020-12-14
-source-url: https://www.scoop.co.nz/stories/ED2012/S00025/leading-publisher-on-nz-culture-to-receive-uc-honorary-doctorate.htm
+title: Leading Publisher On NZ Culture To Receive UC Honorary Doctorate
+date: 2020-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2012/S00025/leading-publisher-on-nz-culture-to-receive-uc-honorary-doctorate.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/12/14/leading-publisher-on-nz-culture-to-receive-uc-honorary-doctorate/index.html
+layout: layout.njk
 ---
 Leading Publisher On NZ Culture To Receive UC Honorary Doctorate
 ================================================================

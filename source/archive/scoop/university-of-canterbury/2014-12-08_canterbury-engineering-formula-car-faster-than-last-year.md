@@ -1,9 +1,13 @@
 ---
 slug: canterbury-engineering-formula-car-faster-than-last-year
-title: "Canterbury engineering formula car faster than last year"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/CU1412/S00164/canterbury-engineering-formula-car-faster-than-last-year.htm
+title: Canterbury engineering formula car faster than last year
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00164/canterbury-engineering-formula-car-faster-than-last-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/08/canterbury-engineering-formula-car-faster-than-last-year/index.html
+layout: layout.njk
 ---
 Canterbury engineering formula car faster than last year
 ========================================================

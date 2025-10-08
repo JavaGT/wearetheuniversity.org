@@ -1,9 +1,12 @@
 ---
 slug: big-improvement-in-maths-and-science
-title: "Big Improvement In Maths And Science"
-date: 2004-12-15
-source-url: https://www.scoop.co.nz/stories/ED0412/S00052/big-improvement-in-maths-and-science.htm
+title: Big Improvement In Maths And Science
+date: 2004-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00052/big-improvement-in-maths-and-science.htm
 author: nzei
+permalink: /archive/2004/12/15/big-improvement-in-maths-and-science/index.html
+layout: layout.njk
 ---
 Big Improvement In Maths And Science
 ====================================

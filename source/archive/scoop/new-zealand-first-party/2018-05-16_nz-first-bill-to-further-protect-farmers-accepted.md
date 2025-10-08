@@ -1,9 +1,13 @@
 ---
 slug: nz-first-bill-to-further-protect-farmers-accepted
-title: "NZ First Bill to Further Protect Farmers Accepted"
-date: 2018-05-16
-source-url: https://www.scoop.co.nz/stories/PA1805/S00211/nz-first-bill-to-further-protect-farmers-accepted.htm
+title: NZ First Bill to Further Protect Farmers Accepted
+date: 2018-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00211/nz-first-bill-to-further-protect-farmers-accepted.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/05/16/nz-first-bill-to-further-protect-farmers-accepted/index.html
+layout: layout.njk
 ---
 NZ First Bill to Further Protect Farmers Accepted
 =================================================

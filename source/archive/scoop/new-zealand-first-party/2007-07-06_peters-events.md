@@ -1,9 +1,11 @@
 ---
 slug: peters-events
-title: "Peters: Events"
-date: 2007-07-06
+title: 'Peters: Events'
+date: 2007-07-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0707/S00126/peters-events.htm
 author: new-zealand-first-party
+permalink: /archive/2007/07/06/peters-events/index.html
+layout: layout.njk
 ---
 Peters: Events
 ==============

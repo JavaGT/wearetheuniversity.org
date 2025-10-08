@@ -1,9 +1,13 @@
 ---
 slug: ctu-welcomes-lowest-unemployment-rate-in-a-decade
-title: "CTU welcomes lowest unemployment rate in a decade"
-date: 2019-08-06
-source-url: https://www.scoop.co.nz/stories/PO1908/S00076/ctu-welcomes-lowest-unemployment-rate-in-a-decade.htm
+title: CTU welcomes lowest unemployment rate in a decade
+date: 2019-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00076/ctu-welcomes-lowest-unemployment-rate-in-a-decade.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2019/08/06/ctu-welcomes-lowest-unemployment-rate-in-a-decade/index.html
+layout: layout.njk
 ---
 CTU welcomes lowest unemployment rate in a decade
 =================================================

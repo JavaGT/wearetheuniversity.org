@@ -1,9 +1,13 @@
 ---
 slug: greens-condemn-israel-boarding-of-aid-ship-to-gaza
-title: "Greens condemn Israel boarding of aid ship to Gaza"
-date: 2009-07-01
-source-url: https://www.scoop.co.nz/stories/PA0907/S00031/greens-condemn-israel-boarding-of-aid-ship-to-gaza.htm
+title: Greens condemn Israel boarding of aid ship to Gaza
+date: 2009-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0907/S00031/greens-condemn-israel-boarding-of-aid-ship-to-gaza.htm
 author: green-party
+permalink: >-
+  /archive/2009/07/01/greens-condemn-israel-boarding-of-aid-ship-to-gaza/index.html
+layout: layout.njk
 ---
 Greens condemn Israel boarding of aid ship to Gaza
 ==================================================

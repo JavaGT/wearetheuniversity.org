@@ -1,9 +1,13 @@
 ---
 slug: skilled-education-workforce-essential-to-christchurch-rebuild
-title: "Skilled education workforce essential to Christchurch rebuild"
-date: 2011-08-04
-source-url: https://www.scoop.co.nz/stories/ED1108/S00030/skilled-education-workforce-essential-to-christchurch-rebuild.htm
+title: Skilled education workforce essential to Christchurch rebuild
+date: 2011-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00030/skilled-education-workforce-essential-to-christchurch-rebuild.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/04/skilled-education-workforce-essential-to-christchurch-rebuild/index.html
+layout: layout.njk
 ---
 Skilled education workforce essential to Christchurch rebuild
 =============================================================

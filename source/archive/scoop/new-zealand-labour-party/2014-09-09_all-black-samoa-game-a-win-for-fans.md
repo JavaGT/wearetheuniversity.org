@@ -1,9 +1,12 @@
 ---
 slug: all-black-samoa-game-a-win-for-fans
-title: "All Black-Samoa game a win for fans"
-date: 2014-09-09
-source-url: https://www.scoop.co.nz/stories/PA1409/S00144/all-black-samoa-game-a-win-for-fans.htm
+title: All Black-Samoa game a win for fans
+date: 2014-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00144/all-black-samoa-game-a-win-for-fans.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/09/09/all-black-samoa-game-a-win-for-fans/index.html
+layout: layout.njk
 ---
 All Black-Samoa game a win for fans
 ===================================

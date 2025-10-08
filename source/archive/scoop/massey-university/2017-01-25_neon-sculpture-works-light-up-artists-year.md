@@ -1,9 +1,12 @@
 ---
 slug: neon-sculpture-works-light-up-artists-year
-title: "Neon sculpture works light up artist’s year"
-date: 2017-01-25
-source-url: https://www.scoop.co.nz/stories/CU1701/S00245/neon-sculpture-works-light-up-artists-year.htm
+title: Neon sculpture works light up artist’s year
+date: 2017-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1701/S00245/neon-sculpture-works-light-up-artists-year.htm
 author: massey-university
+permalink: /archive/2017/01/25/neon-sculpture-works-light-up-artists-year/index.html
+layout: layout.njk
 ---
 Neon sculpture works light up artist’s year
 ===========================================

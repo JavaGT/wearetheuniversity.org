@@ -1,9 +1,12 @@
 ---
 slug: international-rugby-dream-beckons-cantabrian
-title: "International rugby dream beckons Cantabrian"
-date: 2016-02-17
-source-url: https://www.scoop.co.nz/stories/CU1602/S00347/international-rugby-dream-beckons-cantabrian.htm
+title: International rugby dream beckons Cantabrian
+date: 2016-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1602/S00347/international-rugby-dream-beckons-cantabrian.htm
 author: university-of-canterbury
+permalink: /archive/2016/02/17/international-rugby-dream-beckons-cantabrian/index.html
+layout: layout.njk
 ---
 International rugby dream beckons Cantabrian
 ============================================

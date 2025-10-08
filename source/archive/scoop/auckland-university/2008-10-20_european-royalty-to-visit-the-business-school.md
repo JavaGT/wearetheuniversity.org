@@ -1,9 +1,12 @@
 ---
 slug: european-royalty-to-visit-the-business-school
-title: "European royalty to visit the Business School"
-date: 2008-10-20
-source-url: https://www.scoop.co.nz/stories/ED0810/S00082/european-royalty-to-visit-the-business-school.htm
+title: European royalty to visit the Business School
+date: 2008-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0810/S00082/european-royalty-to-visit-the-business-school.htm
 author: auckland-university
+permalink: /archive/2008/10/20/european-royalty-to-visit-the-business-school/index.html
+layout: layout.njk
 ---
 European royalty to visit the Business School
 =============================================

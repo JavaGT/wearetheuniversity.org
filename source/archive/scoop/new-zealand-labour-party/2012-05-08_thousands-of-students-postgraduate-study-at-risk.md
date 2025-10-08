@@ -1,9 +1,13 @@
 ---
 slug: thousands-of-students-postgraduate-study-at-risk
-title: "Thousands of Students’ Postgraduate Study at Risk"
-date: 2012-05-08
-source-url: https://www.scoop.co.nz/stories/PA1205/S00127/thousands-of-students-postgraduate-study-at-risk.htm
+title: Thousands of Students’ Postgraduate Study at Risk
+date: 2012-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00127/thousands-of-students-postgraduate-study-at-risk.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/08/thousands-of-students-postgraduate-study-at-risk/index.html
+layout: layout.njk
 ---
 Thousands of Students’ Postgraduate Study at Risk
 =================================================

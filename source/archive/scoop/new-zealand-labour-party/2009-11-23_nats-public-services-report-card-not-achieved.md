@@ -1,9 +1,12 @@
 ---
 slug: nats-public-services-report-card-not-achieved
-title: "Nat's Public Services Report Card: Not Achieved"
-date: 2009-11-23
-source-url: https://www.scoop.co.nz/stories/PA0911/S00312/nats-public-services-report-card-not-achieved.htm
+title: 'Nat''s Public Services Report Card: Not Achieved'
+date: 2009-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0911/S00312/nats-public-services-report-card-not-achieved.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/11/23/nats-public-services-report-card-not-achieved/index.html
+layout: layout.njk
 ---
 Nat's Public Services Report Card: Not Achieved
 ===============================================

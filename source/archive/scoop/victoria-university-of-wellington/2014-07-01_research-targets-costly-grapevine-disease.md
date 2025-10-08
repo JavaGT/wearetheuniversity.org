@@ -1,9 +1,12 @@
 ---
 slug: research-targets-costly-grapevine-disease
-title: "Research targets costly grapevine disease"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/SC1407/S00002/research-targets-costly-grapevine-disease.htm
+title: Research targets costly grapevine disease
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00002/research-targets-costly-grapevine-disease.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/01/research-targets-costly-grapevine-disease/index.html
+layout: layout.njk
 ---
 Research targets costly grapevine disease
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: government-failing-to-enhance-our-marine-reserves
-title: "Government failing to enhance our marine reserves"
-date: 2020-01-21
-source-url: https://www.scoop.co.nz/stories/PA2001/S00054/government-failing-to-enhance-our-marine-reserves.htm
+title: Government failing to enhance our marine reserves
+date: 2020-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00054/government-failing-to-enhance-our-marine-reserves.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/01/21/government-failing-to-enhance-our-marine-reserves/index.html
+layout: layout.njk
 ---
 Government failing to enhance our marine reserves
 =================================================

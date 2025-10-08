@@ -1,9 +1,12 @@
 ---
 slug: performance-data-under-performs
-title: "Performance data under performs"
-date: 2010-09-08
-source-url: https://www.scoop.co.nz/stories/ED1009/S00034/performance-data-under-performs.htm
+title: Performance data under performs
+date: 2010-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00034/performance-data-under-performs.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/09/08/performance-data-under-performs/index.html
+layout: layout.njk
 ---
 Performance data under performs
 ===============================

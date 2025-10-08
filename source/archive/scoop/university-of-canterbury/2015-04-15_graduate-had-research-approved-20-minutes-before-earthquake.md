@@ -1,9 +1,13 @@
 ---
 slug: graduate-had-research-approved-20-minutes-before-earthquake
-title: "Graduate had research approved 20 minutes before earthquake"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/ED1504/S00037/graduate-had-research-approved-20-minutes-before-earthquake.htm
+title: Graduate had research approved 20 minutes before earthquake
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00037/graduate-had-research-approved-20-minutes-before-earthquake.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/04/15/graduate-had-research-approved-20-minutes-before-earthquake/index.html
+layout: layout.njk
 ---
 Graduate had research approved 20 minutes before earthquake
 ===========================================================

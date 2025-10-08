@@ -1,9 +1,13 @@
 ---
 slug: disaster-if-the-korean-stalemate-collapsed-uc-scientist
-title: "Disaster if the Korean stalemate collapsed - UC scientist"
-date: 2013-05-31
-source-url: https://www.scoop.co.nz/stories/PO1305/S00456/disaster-if-the-korean-stalemate-collapsed-uc-scientist.htm
+title: Disaster if the Korean stalemate collapsed - UC scientist
+date: 2013-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1305/S00456/disaster-if-the-korean-stalemate-collapsed-uc-scientist.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/31/disaster-if-the-korean-stalemate-collapsed-uc-scientist/index.html
+layout: layout.njk
 ---
 Disaster if the Korean stalemate collapsed - UC scientist
 =========================================================

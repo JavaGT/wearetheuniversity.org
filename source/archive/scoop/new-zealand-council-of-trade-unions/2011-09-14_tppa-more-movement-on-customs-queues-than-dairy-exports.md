@@ -1,9 +1,13 @@
 ---
 slug: tppa-more-movement-on-customs-queues-than-dairy-exports
-title: "TPPA - More movement on customs queues than dairy exports"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/PO1109/S00195/tppa-more-movement-on-customs-queues-than-dairy-exports.htm
+title: TPPA - More movement on customs queues than dairy exports
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00195/tppa-more-movement-on-customs-queues-than-dairy-exports.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/09/14/tppa-more-movement-on-customs-queues-than-dairy-exports/index.html
+layout: layout.njk
 ---
 TPPA - More movement on customs queues than dairy exports
 =========================================================

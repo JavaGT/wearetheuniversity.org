@@ -1,9 +1,12 @@
 ---
 slug: government-deletes-gender-along-with-treaty
-title: "Government Deletes Gender Along with Treaty"
-date: 2006-08-02
-source-url: https://www.scoop.co.nz/stories/PA0608/S00041/government-deletes-gender-along-with-treaty.htm
+title: Government Deletes Gender Along with Treaty
+date: 2006-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00041/government-deletes-gender-along-with-treaty.htm
 author: te-pati-maori
+permalink: /archive/2006/08/02/government-deletes-gender-along-with-treaty/index.html
+layout: layout.njk
 ---
 Government Deletes Gender Along with Treaty
 ===========================================

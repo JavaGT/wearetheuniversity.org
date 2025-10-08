@@ -1,9 +1,12 @@
 ---
 slug: creating-a-cultural-hub-for-the-pipitea-campus
-title: "Creating a cultural hub for the Pipitea campus"
-date: 2007-09-26
-source-url: https://www.scoop.co.nz/stories/ED0709/S00086/creating-a-cultural-hub-for-the-pipitea-campus.htm
+title: Creating a cultural hub for the Pipitea campus
+date: 2007-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00086/creating-a-cultural-hub-for-the-pipitea-campus.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/09/26/creating-a-cultural-hub-for-the-pipitea-campus/index.html
+layout: layout.njk
 ---
 Creating a cultural hub for the Pipitea campus
 ==============================================

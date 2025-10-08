@@ -1,9 +1,12 @@
 ---
 slug: inquiry-shows-depth-of-concern-over-ncea
-title: "Inquiry shows depth of concern over NCEA"
-date: 2002-10-16
-source-url: https://www.scoop.co.nz/stories/PA0210/S00338/inquiry-shows-depth-of-concern-over-ncea.htm
+title: Inquiry shows depth of concern over NCEA
+date: 2002-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00338/inquiry-shows-depth-of-concern-over-ncea.htm
 author: new-zealand-national-party
+permalink: /archive/2002/10/16/inquiry-shows-depth-of-concern-over-ncea/index.html
+layout: layout.njk
 ---
 Inquiry shows depth of concern over NCEA
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: homelessness-soars-as-housing-crisis-deepens
-title: "Homelessness soars as housing crisis deepens"
-date: 2016-06-03
-source-url: https://www.scoop.co.nz/stories/PA1606/S00070/homelessness-soars-as-housing-crisis-deepens.htm
+title: Homelessness soars as housing crisis deepens
+date: 2016-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00070/homelessness-soars-as-housing-crisis-deepens.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/03/homelessness-soars-as-housing-crisis-deepens/index.html
+layout: layout.njk
 ---
 Homelessness soars as housing crisis deepens
 ============================================

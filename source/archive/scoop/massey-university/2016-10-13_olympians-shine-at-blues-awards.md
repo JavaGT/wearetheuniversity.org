@@ -1,9 +1,12 @@
 ---
 slug: olympians-shine-at-blues-awards
-title: "Olympians shine at Blues Awards"
-date: 2016-10-13
-source-url: https://www.scoop.co.nz/stories/ED1610/S00033/olympians-shine-at-blues-awards.htm
+title: Olympians shine at Blues Awards
+date: 2016-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00033/olympians-shine-at-blues-awards.htm
 author: massey-university
+permalink: /archive/2016/10/13/olympians-shine-at-blues-awards/index.html
+layout: layout.njk
 ---
 Olympians shine at Blues Awards
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: new-appointment-for-dean-of-school-of-law
-title: "New appointment for Dean of School of Law"
-date: 2014-06-30
-source-url: https://www.scoop.co.nz/stories/AK1406/S00678/new-appointment-for-dean-of-school-of-law.htm
+title: New appointment for Dean of School of Law
+date: 2014-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1406/S00678/new-appointment-for-dean-of-school-of-law.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/06/30/new-appointment-for-dean-of-school-of-law/index.html
+layout: layout.njk
 ---
 New appointment for Dean of School of Law
 =========================================

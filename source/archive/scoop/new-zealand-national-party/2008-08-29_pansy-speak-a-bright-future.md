@@ -1,9 +1,11 @@
 ---
 slug: pansy-speak-a-bright-future
-title: "Pansy Speak: A bright future"
-date: 2008-08-29
+title: 'Pansy Speak: A bright future'
+date: 2008-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0808/S00496/pansy-speak-a-bright-future.htm
 author: new-zealand-national-party
+permalink: /archive/2008/08/29/pansy-speak-a-bright-future/index.html
+layout: layout.njk
 ---
 Pansy Speak: A bright future
 ============================

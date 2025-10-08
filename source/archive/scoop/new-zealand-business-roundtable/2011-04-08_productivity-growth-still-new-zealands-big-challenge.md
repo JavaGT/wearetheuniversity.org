@@ -1,9 +1,13 @@
 ---
 slug: productivity-growth-still-new-zealands-big-challenge
-title: "Productivity Growth Still New Zealand's Big Challenge"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/BU1104/S00249/productivity-growth-still-new-zealands-big-challenge.htm
+title: Productivity Growth Still New Zealand's Big Challenge
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1104/S00249/productivity-growth-still-new-zealands-big-challenge.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2011/04/08/productivity-growth-still-new-zealands-big-challenge/index.html
+layout: layout.njk
 ---
 Productivity Growth Still New Zealand's Big Challenge
 =====================================================

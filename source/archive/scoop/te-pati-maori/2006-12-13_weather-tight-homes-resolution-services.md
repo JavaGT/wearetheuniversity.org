@@ -1,9 +1,12 @@
 ---
 slug: weather-tight-homes-resolution-services
-title: "Weather-tight Homes Resolution Services"
-date: 2006-12-13
-source-url: https://www.scoop.co.nz/stories/PA0612/S00265/weather-tight-homes-resolution-services.htm
+title: Weather-tight Homes Resolution Services
+date: 2006-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00265/weather-tight-homes-resolution-services.htm
 author: te-pati-maori
+permalink: /archive/2006/12/13/weather-tight-homes-resolution-services/index.html
+layout: layout.njk
 ---
 Weather-tight Homes Resolution Services
 =======================================

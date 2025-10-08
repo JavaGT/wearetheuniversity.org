@@ -1,9 +1,13 @@
 ---
 slug: ties-between-local-chinese-and-non-chinese-busine
-title: "Ties Between  Local Chinese And Non-Chinese Busine"
-date: 2009-02-12
-source-url: https://www.scoop.co.nz/stories/BU0902/S00228/ties-between-local-chinese-and-non-chinese-busine.htm
+title: Ties Between  Local Chinese And Non-Chinese Busine
+date: 2009-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0902/S00228/ties-between-local-chinese-and-non-chinese-busine.htm
 author: massey-university
+permalink: >-
+  /archive/2009/02/12/ties-between-local-chinese-and-non-chinese-busine/index.html
+layout: layout.njk
 ---
 Ties Between Local Chinese And Non-Chinese Busine
 =================================================

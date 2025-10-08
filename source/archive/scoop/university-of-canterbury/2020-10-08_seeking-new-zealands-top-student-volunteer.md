@@ -1,9 +1,12 @@
 ---
 slug: seeking-new-zealands-top-student-volunteer
-title: "Seeking New Zealand's Top Student Volunteer"
-date: 2020-10-08
-source-url: https://www.scoop.co.nz/stories/ED2010/S00013/seeking-new-zealands-top-student-volunteer.htm
+title: Seeking New Zealand's Top Student Volunteer
+date: 2020-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2010/S00013/seeking-new-zealands-top-student-volunteer.htm
 author: university-of-canterbury
+permalink: /archive/2020/10/08/seeking-new-zealands-top-student-volunteer/index.html
+layout: layout.njk
 ---
 Seeking New Zealand's Top Student Volunteer
 ===========================================

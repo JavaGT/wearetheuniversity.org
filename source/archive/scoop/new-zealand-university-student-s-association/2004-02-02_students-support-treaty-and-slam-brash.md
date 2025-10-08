@@ -1,9 +1,12 @@
 ---
 slug: students-support-treaty-and-slam-brash
-title: "Students support Treaty and slam Brash"
-date: 2004-02-02
-source-url: https://www.scoop.co.nz/stories/PO0402/S00009/students-support-treaty-and-slam-brash.htm
+title: Students support Treaty and slam Brash
+date: 2004-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0402/S00009/students-support-treaty-and-slam-brash.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/02/02/students-support-treaty-and-slam-brash/index.html
+layout: layout.njk
 ---
 Students support Treaty and slam Brash
 ======================================

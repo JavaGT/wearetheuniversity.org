@@ -1,9 +1,12 @@
 ---
 slug: cmon-helen-honour-your-plunketline-pledge
-title: "C'mon Helen - honour your PlunketLine pledge"
-date: 2006-12-15
-source-url: https://www.scoop.co.nz/stories/PA0612/S00326/cmon-helen-honour-your-plunketline-pledge.htm
+title: C'mon Helen - honour your PlunketLine pledge
+date: 2006-12-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00326/cmon-helen-honour-your-plunketline-pledge.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/15/cmon-helen-honour-your-plunketline-pledge/index.html
+layout: layout.njk
 ---
 C'mon Helen - honour your PlunketLine pledge
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: major-funding-for-otago-research-programmes
-title: "Major funding for Otago research programmes"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/ED0707/S00058/major-funding-for-otago-research-programmes.htm
+title: Major funding for Otago research programmes
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00058/major-funding-for-otago-research-programmes.htm
 author: university-of-otago
+permalink: /archive/2007/07/18/major-funding-for-otago-research-programmes/index.html
+layout: layout.njk
 ---
 Major funding for Otago research programmes
 ===========================================

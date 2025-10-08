@@ -1,9 +1,13 @@
 ---
 slug: new-zealand-pine-bark-used-to-treat-brain-injuries
-title: "New Zealand pine bark used to treat brain injuries"
-date: 2011-11-21
-source-url: https://www.scoop.co.nz/stories/SC1111/S00040/new-zealand-pine-bark-used-to-treat-brain-injuries.htm
+title: New Zealand pine bark used to treat brain injuries
+date: 2011-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00040/new-zealand-pine-bark-used-to-treat-brain-injuries.htm
 author: aut-university
+permalink: >-
+  /archive/2011/11/21/new-zealand-pine-bark-used-to-treat-brain-injuries/index.html
+layout: layout.njk
 ---
 New Zealand pine bark used to treat brain injuries
 ==================================================

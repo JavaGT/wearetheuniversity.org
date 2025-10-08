@@ -1,9 +1,12 @@
 ---
 slug: night-class-cuts-to-be-revisited
-title: "Night class cuts to be revisited"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PA1003/S00357/night-class-cuts-to-be-revisited.htm
+title: Night class cuts to be revisited
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00357/night-class-cuts-to-be-revisited.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/24/night-class-cuts-to-be-revisited/index.html
+layout: layout.njk
 ---
 Night class cuts to be revisited
 ================================

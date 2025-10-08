@@ -1,9 +1,12 @@
 ---
 slug: collins-hits-back-at-kiwisaver-funds-manager
-title: "Collins Hits Back At KiwiSaver Funds Manager"
-date: 2020-07-29
-source-url: https://www.scoop.co.nz/stories/PA2007/S00298/collins-hits-back-at-kiwisaver-funds-manager.htm
+title: Collins Hits Back At KiwiSaver Funds Manager
+date: 2020-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00298/collins-hits-back-at-kiwisaver-funds-manager.htm
 author: new-zealand-national-party
+permalink: /archive/2020/07/29/collins-hits-back-at-kiwisaver-funds-manager/index.html
+layout: layout.njk
 ---
 Collins Hits Back At KiwiSaver Funds Manager
 ============================================

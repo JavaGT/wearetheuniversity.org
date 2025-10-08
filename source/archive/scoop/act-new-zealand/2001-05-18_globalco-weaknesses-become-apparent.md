@@ -1,9 +1,12 @@
 ---
 slug: globalco-weaknesses-become-apparent
-title: "GlobalCo Weaknesses Become Apparent"
-date: 2001-05-18
-source-url: https://www.scoop.co.nz/stories/PA0105/S00377/globalco-weaknesses-become-apparent.htm
+title: GlobalCo Weaknesses Become Apparent
+date: 2001-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00377/globalco-weaknesses-become-apparent.htm
 author: act-new-zealand
+permalink: /archive/2001/05/18/globalco-weaknesses-become-apparent/index.html
+layout: layout.njk
 ---
 GlobalCo Weaknesses Become Apparent
 ===================================

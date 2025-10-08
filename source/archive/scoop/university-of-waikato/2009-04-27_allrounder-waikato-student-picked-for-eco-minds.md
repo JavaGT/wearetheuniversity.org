@@ -1,9 +1,12 @@
 ---
 slug: allrounder-waikato-student-picked-for-eco-minds
-title: "Allrounder Waikato student picked for Eco-Minds"
-date: 2009-04-27
-source-url: https://www.scoop.co.nz/stories/ED0904/S00058/allrounder-waikato-student-picked-for-eco-minds.htm
+title: Allrounder Waikato student picked for Eco-Minds
+date: 2009-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00058/allrounder-waikato-student-picked-for-eco-minds.htm
 author: university-of-waikato
+permalink: /archive/2009/04/27/allrounder-waikato-student-picked-for-eco-minds/index.html
+layout: layout.njk
 ---
 Allrounder Waikato student picked for Eco-Minds
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: more-confusion-on-overseas-students-policy
-title: "More confusion on overseas students policy"
-date: 2003-04-03
-source-url: https://www.scoop.co.nz/stories/PA0304/S00050/more-confusion-on-overseas-students-policy.htm
+title: More confusion on overseas students policy
+date: 2003-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00050/more-confusion-on-overseas-students-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2003/04/03/more-confusion-on-overseas-students-policy/index.html
+layout: layout.njk
 ---
 More confusion on overseas students policy
 ==========================================

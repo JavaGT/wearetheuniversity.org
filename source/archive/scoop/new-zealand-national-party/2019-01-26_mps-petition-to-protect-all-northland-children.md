@@ -1,9 +1,12 @@
 ---
 slug: mps-petition-to-protect-all-northland-children
-title: "MPs petition to protect all Northland children"
-date: 2019-01-26
-source-url: https://www.scoop.co.nz/stories/PA1901/S00071/mps-petition-to-protect-all-northland-children.htm
+title: MPs petition to protect all Northland children
+date: 2019-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1901/S00071/mps-petition-to-protect-all-northland-children.htm
 author: new-zealand-national-party
+permalink: /archive/2019/01/26/mps-petition-to-protect-all-northland-children/index.html
+layout: layout.njk
 ---
 MPs petition to protect all Northland children
 ==============================================

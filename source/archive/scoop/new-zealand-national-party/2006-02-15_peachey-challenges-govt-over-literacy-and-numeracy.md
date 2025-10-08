@@ -1,9 +1,13 @@
 ---
 slug: peachey-challenges-govt-over-literacy-and-numeracy
-title: "Peachey challenges Govt over literacy and numeracy"
-date: 2006-02-15
-source-url: https://www.scoop.co.nz/stories/PA0602/S00202/peachey-challenges-govt-over-literacy-and-numeracy.htm
+title: Peachey challenges Govt over literacy and numeracy
+date: 2006-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00202/peachey-challenges-govt-over-literacy-and-numeracy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2006/02/15/peachey-challenges-govt-over-literacy-and-numeracy/index.html
+layout: layout.njk
 ---
 Peachey challenges Govt over literacy and numeracy
 ==================================================

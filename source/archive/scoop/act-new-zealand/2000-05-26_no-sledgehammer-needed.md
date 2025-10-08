@@ -1,9 +1,11 @@
 ---
 slug: no-sledgehammer-needed
-title: "No Sledgehammer Needed"
-date: 2000-05-26
+title: No Sledgehammer Needed
+date: 2000-05-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0005/S00586/no-sledgehammer-needed.htm
 author: act-new-zealand
+permalink: /archive/2000/05/26/no-sledgehammer-needed/index.html
+layout: layout.njk
 ---
 No Sledgehammer Needed
 ======================

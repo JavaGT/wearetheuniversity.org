@@ -1,9 +1,13 @@
 ---
 slug: education-minister-challenged-to-come-clean-on-charters
-title: "Education Minister challenged to come clean on charters"
-date: 2015-06-04
-source-url: https://www.scoop.co.nz/stories/PA1506/S00065/education-minister-challenged-to-come-clean-on-charters.htm
+title: Education Minister challenged to come clean on charters
+date: 2015-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00065/education-minister-challenged-to-come-clean-on-charters.htm
 author: green-party
+permalink: >-
+  /archive/2015/06/04/education-minister-challenged-to-come-clean-on-charters/index.html
+layout: layout.njk
 ---
 Education Minister challenged to come clean on charters
 =======================================================

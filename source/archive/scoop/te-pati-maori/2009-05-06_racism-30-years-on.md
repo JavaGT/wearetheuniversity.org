@@ -1,9 +1,11 @@
 ---
 slug: racism-30-years-on
-title: "Racism – 30 Years On"
-date: 2009-05-06
+title: Racism – 30 Years On
+date: 2009-05-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0905/S00092/racism-30-years-on.htm
 author: te-pati-maori
+permalink: /archive/2009/05/06/racism-30-years-on/index.html
+layout: layout.njk
 ---
 Racism – 30 Years On
 ====================

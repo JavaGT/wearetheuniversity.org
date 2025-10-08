@@ -1,9 +1,12 @@
 ---
 slug: study-on-link-between-abortion-mental-health
-title: "Study on link between abortion, mental health"
-date: 2008-12-01
-source-url: https://www.scoop.co.nz/stories/GE0812/S00002/study-on-link-between-abortion-mental-health.htm
+title: Study on link between abortion, mental health
+date: 2008-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0812/S00002/study-on-link-between-abortion-mental-health.htm
 author: university-of-otago
+permalink: /archive/2008/12/01/study-on-link-between-abortion-mental-health/index.html
+layout: layout.njk
 ---
 Study on link between abortion, mental health
 =============================================

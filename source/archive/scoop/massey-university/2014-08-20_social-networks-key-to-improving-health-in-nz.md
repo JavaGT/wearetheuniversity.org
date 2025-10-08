@@ -1,9 +1,12 @@
 ---
 slug: social-networks-key-to-improving-health-in-nz
-title: "Social networks key to improving health in NZ"
-date: 2014-08-20
-source-url: https://www.scoop.co.nz/stories/GE1408/S00092/social-networks-key-to-improving-health-in-nz.htm
+title: Social networks key to improving health in NZ
+date: 2014-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00092/social-networks-key-to-improving-health-in-nz.htm
 author: massey-university
+permalink: /archive/2014/08/20/social-networks-key-to-improving-health-in-nz/index.html
+layout: layout.njk
 ---
 Social networks key to improving health in NZ
 =============================================

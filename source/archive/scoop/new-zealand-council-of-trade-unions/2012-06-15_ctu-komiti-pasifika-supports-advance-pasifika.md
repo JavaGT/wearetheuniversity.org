@@ -1,9 +1,12 @@
 ---
 slug: ctu-komiti-pasifika-supports-advance-pasifika
-title: "CTU Komiti Pasifika supports Advance Pasifika"
-date: 2012-06-15
-source-url: https://www.scoop.co.nz/stories/PO1206/S00211/ctu-komiti-pasifika-supports-advance-pasifika.htm
+title: CTU Komiti Pasifika supports Advance Pasifika
+date: 2012-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00211/ctu-komiti-pasifika-supports-advance-pasifika.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/06/15/ctu-komiti-pasifika-supports-advance-pasifika/index.html
+layout: layout.njk
 ---
 CTU Komiti Pasifika supports Advance Pasifika
 =============================================

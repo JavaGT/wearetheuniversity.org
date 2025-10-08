@@ -1,9 +1,12 @@
 ---
 slug: threats-to-funding-students-say-no
-title: "Threats to Funding? Students Say No"
-date: 2010-02-09
-source-url: https://www.scoop.co.nz/stories/ED1002/S00032/threats-to-funding-students-say-no.htm
+title: Threats to Funding? Students Say No
+date: 2010-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1002/S00032/threats-to-funding-students-say-no.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/02/09/threats-to-funding-students-say-no/index.html
+layout: layout.njk
 ---
 Threats to Funding? Students Say No
 ===================================

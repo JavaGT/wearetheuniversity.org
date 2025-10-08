@@ -1,9 +1,13 @@
 ---
 slug: london-olympics-drawing-on-successful-rwc-security
-title: "London Olympics drawing on successful RWC security"
-date: 2012-07-25
-source-url: https://www.scoop.co.nz/stories/CU1207/S00407/london-olympics-drawing-on-successful-rwc-security.htm
+title: London Olympics drawing on successful RWC security
+date: 2012-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1207/S00407/london-olympics-drawing-on-successful-rwc-security.htm
 author: massey-university
+permalink: >-
+  /archive/2012/07/25/london-olympics-drawing-on-successful-rwc-security/index.html
+layout: layout.njk
 ---
 London Olympics drawing on successful RWC security
 ==================================================

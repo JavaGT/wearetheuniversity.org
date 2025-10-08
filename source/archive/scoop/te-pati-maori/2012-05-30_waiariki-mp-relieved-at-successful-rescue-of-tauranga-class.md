@@ -1,9 +1,13 @@
 ---
 slug: waiariki-mp-relieved-at-successful-rescue-of-tauranga-class
-title: "Waiariki MP Relieved at Successful Rescue of Tauranga class"
-date: 2012-05-30
-source-url: https://www.scoop.co.nz/stories/PA1205/S00529/waiariki-mp-relieved-at-successful-rescue-of-tauranga-class.htm
+title: Waiariki MP Relieved at Successful Rescue of Tauranga class
+date: 2012-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00529/waiariki-mp-relieved-at-successful-rescue-of-tauranga-class.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2012/05/30/waiariki-mp-relieved-at-successful-rescue-of-tauranga-class/index.html
+layout: layout.njk
 ---
 Waiariki MP Relieved at Successful Rescue of Tauranga class
 ===========================================================

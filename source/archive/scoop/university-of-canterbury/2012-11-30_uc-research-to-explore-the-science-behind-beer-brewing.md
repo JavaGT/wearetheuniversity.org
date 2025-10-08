@@ -1,9 +1,13 @@
 ---
 slug: uc-research-to-explore-the-science-behind-beer-brewing
-title: "UC research to explore the science behind beer brewing"
-date: 2012-11-30
-source-url: https://www.scoop.co.nz/stories/SC1211/S00093/uc-research-to-explore-the-science-behind-beer-brewing.htm
+title: UC research to explore the science behind beer brewing
+date: 2012-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00093/uc-research-to-explore-the-science-behind-beer-brewing.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/30/uc-research-to-explore-the-science-behind-beer-brewing/index.html
+layout: layout.njk
 ---
 UC research to explore the science behind beer brewing
 ======================================================

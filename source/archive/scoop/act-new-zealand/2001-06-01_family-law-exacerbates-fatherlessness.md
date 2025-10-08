@@ -1,9 +1,12 @@
 ---
 slug: family-law-exacerbates-fatherlessness
-title: "Family Law Exacerbates Fatherlessness"
-date: 2001-06-01
-source-url: https://www.scoop.co.nz/stories/PA0106/S00015/family-law-exacerbates-fatherlessness.htm
+title: Family Law Exacerbates Fatherlessness
+date: 2001-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00015/family-law-exacerbates-fatherlessness.htm
 author: act-new-zealand
+permalink: /archive/2001/06/01/family-law-exacerbates-fatherlessness/index.html
+layout: layout.njk
 ---
 Family Law Exacerbates Fatherlessness
 =====================================

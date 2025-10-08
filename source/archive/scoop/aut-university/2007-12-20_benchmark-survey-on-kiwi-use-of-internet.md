@@ -1,9 +1,12 @@
 ---
 slug: benchmark-survey-on-kiwi-use-of-internet
-title: "Benchmark survey on Kiwi use of internet"
-date: 2007-12-20
-source-url: https://www.scoop.co.nz/stories/ED0712/S00085/benchmark-survey-on-kiwi-use-of-internet.htm
+title: Benchmark survey on Kiwi use of internet
+date: 2007-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0712/S00085/benchmark-survey-on-kiwi-use-of-internet.htm
 author: aut-university
+permalink: /archive/2007/12/20/benchmark-survey-on-kiwi-use-of-internet/index.html
+layout: layout.njk
 ---
 Benchmark survey on Kiwi use of internet
 ========================================

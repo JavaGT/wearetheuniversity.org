@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-new-zealand-super
-title: "Speech: Peters - New Zealand Super"
-date: 2012-08-07
-source-url: https://www.scoop.co.nz/stories/PA1208/S00090/speech-peters-new-zealand-super.htm
+title: 'Speech: Peters - New Zealand Super'
+date: 2012-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00090/speech-peters-new-zealand-super.htm
 author: new-zealand-first-party
+permalink: /archive/2012/08/07/speech-peters-new-zealand-super/index.html
+layout: layout.njk
 ---
 Speech: Peters - New Zealand Super
 ==================================

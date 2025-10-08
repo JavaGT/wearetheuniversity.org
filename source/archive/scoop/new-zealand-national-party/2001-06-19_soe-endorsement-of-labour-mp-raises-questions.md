@@ -1,9 +1,12 @@
 ---
 slug: soe-endorsement-of-labour-mp-raises-questions
-title: "SOE endorsement of Labour MP raises questions"
-date: 2001-06-19
-source-url: https://www.scoop.co.nz/stories/PA0106/S00266/soe-endorsement-of-labour-mp-raises-questions.htm
+title: SOE endorsement of Labour MP raises questions
+date: 2001-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00266/soe-endorsement-of-labour-mp-raises-questions.htm
 author: new-zealand-national-party
+permalink: /archive/2001/06/19/soe-endorsement-of-labour-mp-raises-questions/index.html
+layout: layout.njk
 ---
 SOE endorsement of Labour MP raises questions
 =============================================

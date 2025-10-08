@@ -1,9 +1,13 @@
 ---
 slug: otago-studies-supported-by-health-research-council
-title: "Otago studies supported by Health Research Council"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/GE1605/S00057/otago-studies-supported-by-health-research-council.htm
+title: Otago studies supported by Health Research Council
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1605/S00057/otago-studies-supported-by-health-research-council.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/11/otago-studies-supported-by-health-research-council/index.html
+layout: layout.njk
 ---
 Otago studies supported by Health Research Council
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: inflation-adjustment-catches-robertson-telling-porkies
-title: "Inflation Adjustment Catches Robertson Telling Porkies"
-date: 2023-03-13
-source-url: https://www.scoop.co.nz/stories/PA2303/S00101/inflation-adjustment-catches-robertson-telling-porkies.htm
+title: Inflation Adjustment Catches Robertson Telling Porkies
+date: 2023-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2303/S00101/inflation-adjustment-catches-robertson-telling-porkies.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/03/13/inflation-adjustment-catches-robertson-telling-porkies/index.html
+layout: layout.njk
 ---
 Inflation Adjustment Catches Robertson Telling Porkies
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: john-key-video-rebuilding-christchurch
-title: "John Key Video: Rebuilding Christchurch"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/PA1303/S00478/john-key-video-rebuilding-christchurch.htm
+title: 'John Key Video: Rebuilding Christchurch'
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00478/john-key-video-rebuilding-christchurch.htm
 author: new-zealand-national-party
+permalink: /archive/2013/03/27/john-key-video-rebuilding-christchurch/index.html
+layout: layout.njk
 ---
 John Key Video: Rebuilding Christchurch
 =======================================

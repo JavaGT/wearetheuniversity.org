@@ -1,9 +1,12 @@
 ---
 slug: researcher-on-international-environment-panel
-title: "Researcher on international environment panel"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/ED1212/S00032/researcher-on-international-environment-panel.htm
+title: Researcher on international environment panel
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00032/researcher-on-international-environment-panel.htm
 author: massey-university
+permalink: /archive/2012/12/06/researcher-on-international-environment-panel/index.html
+layout: layout.njk
 ---
 Researcher on international environment panel
 =============================================

@@ -1,9 +1,11 @@
 ---
 slug: nzvcc-newsletter
-title: "NZVCC Newsletter"
-date: 2009-09-16
+title: NZVCC Newsletter
+date: 2009-09-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0909/S00059/nzvcc-newsletter.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/09/16/nzvcc-newsletter/index.html
+layout: layout.njk
 ---
 NZVCC Newsletter
 ================

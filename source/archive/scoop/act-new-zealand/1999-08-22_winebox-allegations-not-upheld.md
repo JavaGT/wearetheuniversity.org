@@ -1,9 +1,12 @@
 ---
 slug: winebox-allegations-not-upheld
-title: "Winebox allegations not upheld"
-date: 1999-08-22
-source-url: https://www.scoop.co.nz/stories/PA9908/S00361/winebox-allegations-not-upheld.htm
+title: Winebox allegations not upheld
+date: 1999-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00361/winebox-allegations-not-upheld.htm
 author: act-new-zealand
+permalink: /archive/1999/08/22/winebox-allegations-not-upheld/index.html
+layout: layout.njk
 ---
 Winebox allegations not upheld
 ==============================

@@ -1,9 +1,11 @@
 ---
 slug: transmission-tomorrow
-title: "Transmission Tomorrow"
-date: 2011-07-17
+title: Transmission Tomorrow
+date: 2011-07-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1107/S00519/transmission-tomorrow.htm
 author: auckland-university
+permalink: /archive/2011/07/17/transmission-tomorrow/index.html
+layout: layout.njk
 ---
 Transmission Tomorrow
 =====================

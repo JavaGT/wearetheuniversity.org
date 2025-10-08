@@ -1,9 +1,12 @@
 ---
 slug: hiv-antenatal-screening-delay
-title: "HIV antenatal screening delay"
-date: 2008-06-30
-source-url: https://www.scoop.co.nz/stories/PA0806/S00489/hiv-antenatal-screening-delay.htm
+title: HIV antenatal screening delay
+date: 2008-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00489/hiv-antenatal-screening-delay.htm
 author: new-zealand-national-party
+permalink: /archive/2008/06/30/hiv-antenatal-screening-delay/index.html
+layout: layout.njk
 ---
 HIV antenatal screening delay
 =============================

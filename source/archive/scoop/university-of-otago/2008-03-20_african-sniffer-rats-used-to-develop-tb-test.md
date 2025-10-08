@@ -1,9 +1,12 @@
 ---
 slug: african-sniffer-rats-used-to-develop-tb-test
-title: "African ‘sniffer’ rats used to develop TB test"
-date: 2008-03-20
-source-url: https://www.scoop.co.nz/stories/GE0803/S00086/african-sniffer-rats-used-to-develop-tb-test.htm
+title: African ‘sniffer’ rats used to develop TB test
+date: 2008-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0803/S00086/african-sniffer-rats-used-to-develop-tb-test.htm
 author: university-of-otago
+permalink: /archive/2008/03/20/african-sniffer-rats-used-to-develop-tb-test/index.html
+layout: layout.njk
 ---
 African ‘sniffer’ rats used to develop TB test
 ==============================================

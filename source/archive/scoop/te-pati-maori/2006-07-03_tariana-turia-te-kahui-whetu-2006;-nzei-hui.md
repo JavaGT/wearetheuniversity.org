@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-te-kahui-whetu-2006;-nzei-hui
-title: "Tariana Turia - Te Kahui Whetu 2006; NZEI Hui"
-date: 2006-07-03
-source-url: https://www.scoop.co.nz/stories/PA0607/S00015/tariana-turia-te-kahui-whetu-2006-nzei-hui.htm
+title: Tariana Turia - Te Kahui Whetu 2006; NZEI Hui
+date: 2006-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00015/tariana-turia-te-kahui-whetu-2006-nzei-hui.htm
 author: te-pati-maori
+permalink: /archive/2006/07/03/tariana-turia-te-kahui-whetu-2006/index.html
+layout: layout.njk
 ---
 Tariana Turia - Te Kahui Whetu 2006; NZEI Hui
 =============================================

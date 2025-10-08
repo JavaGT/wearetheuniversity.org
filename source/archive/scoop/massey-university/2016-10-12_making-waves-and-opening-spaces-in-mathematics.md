@@ -1,9 +1,12 @@
 ---
 slug: making-waves-and-opening-spaces-in-mathematics
-title: "Making waves and opening spaces in mathematics"
-date: 2016-10-12
-source-url: https://www.scoop.co.nz/stories/ED1610/S00029/making-waves-and-opening-spaces-in-mathematics.htm
+title: Making waves and opening spaces in mathematics
+date: 2016-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00029/making-waves-and-opening-spaces-in-mathematics.htm
 author: massey-university
+permalink: /archive/2016/10/12/making-waves-and-opening-spaces-in-mathematics/index.html
+layout: layout.njk
 ---
 Making waves and opening spaces in mathematics
 ==============================================

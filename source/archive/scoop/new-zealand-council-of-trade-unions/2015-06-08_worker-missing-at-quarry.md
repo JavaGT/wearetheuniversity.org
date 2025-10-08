@@ -1,9 +1,11 @@
 ---
 slug: worker-missing-at-quarry
-title: "Worker missing at quarry"
-date: 2015-06-08
+title: Worker missing at quarry
+date: 2015-06-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1506/S00082/worker-missing-at-quarry.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/06/08/worker-missing-at-quarry/index.html
+layout: layout.njk
 ---
 Worker missing at quarry
 ========================

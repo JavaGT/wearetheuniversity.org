@@ -1,9 +1,12 @@
 ---
 slug: what-one-billion-dollars-would-do-for-education
-title: "What One Billion Dollars Would do for Education"
-date: 2001-10-04
-source-url: https://www.scoop.co.nz/stories/PA0110/S00096/what-one-billion-dollars-would-do-for-education.htm
+title: What One Billion Dollars Would do for Education
+date: 2001-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00096/what-one-billion-dollars-would-do-for-education.htm
 author: act-new-zealand
+permalink: /archive/2001/10/04/what-one-billion-dollars-would-do-for-education/index.html
+layout: layout.njk
 ---
 What One Billion Dollars Would do for Education
 ===============================================

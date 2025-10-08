@@ -1,9 +1,12 @@
 ---
 slug: inquiry-into-declining-voter-turnout-needed
-title: "Inquiry into declining voter turnout needed"
-date: 2011-12-02
-source-url: https://www.scoop.co.nz/stories/PA1112/S00013/inquiry-into-declining-voter-turnout-needed.htm
+title: Inquiry into declining voter turnout needed
+date: 2011-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1112/S00013/inquiry-into-declining-voter-turnout-needed.htm
 author: green-party
+permalink: /archive/2011/12/02/inquiry-into-declining-voter-turnout-needed/index.html
+layout: layout.njk
 ---
 Inquiry into declining voter turnout needed
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: short-sighted-graduate-export-scheme
-title: "Short-sighted graduate export scheme"
-date: 2012-05-02
-source-url: https://www.scoop.co.nz/stories/PA1205/S00040/short-sighted-graduate-export-scheme.htm
+title: Short-sighted graduate export scheme
+date: 2012-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00040/short-sighted-graduate-export-scheme.htm
 author: new-zealand-first-party
+permalink: /archive/2012/05/02/short-sighted-graduate-export-scheme/index.html
+layout: layout.njk
 ---
 Short-sighted graduate export scheme
 ====================================

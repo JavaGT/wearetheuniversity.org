@@ -1,9 +1,12 @@
 ---
 slug: leading-savings-labours-2020-vision
-title: "Leading Savings: Labour’s 2020 Vision"
-date: 2010-08-26
-source-url: https://www.scoop.co.nz/stories/PA1008/S00398/leading-savings-labours-2020-vision.htm
+title: 'Leading Savings: Labour’s 2020 Vision'
+date: 2010-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00398/leading-savings-labours-2020-vision.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/08/26/leading-savings-labours-2020-vision/index.html
+layout: layout.njk
 ---
 Leading Savings: Labour’s 2020 Vision
 =====================================

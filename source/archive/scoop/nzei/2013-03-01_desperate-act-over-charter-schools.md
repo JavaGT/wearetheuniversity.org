@@ -1,9 +1,12 @@
 ---
 slug: desperate-act-over-charter-schools
-title: "Desperate ACT over Charter Schools"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/PO1303/S00022/desperate-act-over-charter-schools.htm
+title: Desperate ACT over Charter Schools
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00022/desperate-act-over-charter-schools.htm
 author: nzei
+permalink: /archive/2013/03/01/desperate-act-over-charter-schools/index.html
+layout: layout.njk
 ---
 Desperate ACT over Charter Schools
 ==================================

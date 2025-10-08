@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-moratorium-on-school-reviews
-title: "NZEI Welcomes Moratorium On School  Reviews"
-date: 2004-02-24
-source-url: https://www.scoop.co.nz/stories/ED0402/S00066/nzei-welcomes-moratorium-on-school-reviews.htm
+title: NZEI Welcomes Moratorium On School  Reviews
+date: 2004-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00066/nzei-welcomes-moratorium-on-school-reviews.htm
 author: nzei
+permalink: /archive/2004/02/24/nzei-welcomes-moratorium-on-school-reviews/index.html
+layout: layout.njk
 ---
 NZEI Welcomes Moratorium On School Reviews
 ==========================================

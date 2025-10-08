@@ -1,9 +1,12 @@
 ---
 slug: show-some-loyalty-to-new-zealand-industry
-title: "‘Show some loyalty to New Zealand industry’"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/PA1607/S00373/show-some-loyalty-to-new-zealand-industry.htm
+title: ‘Show some loyalty to New Zealand industry’
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00373/show-some-loyalty-to-new-zealand-industry.htm
 author: new-zealand-first-party
+permalink: /archive/2016/07/27/show-some-loyalty-to-new-zealand-industry/index.html
+layout: layout.njk
 ---
 ‘Show some loyalty to New Zealand industry’
 ===========================================

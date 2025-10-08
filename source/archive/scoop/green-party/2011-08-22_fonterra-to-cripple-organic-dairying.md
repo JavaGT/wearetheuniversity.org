@@ -1,9 +1,12 @@
 ---
 slug: fonterra-to-cripple-organic-dairying
-title: "Fonterra to cripple organic dairying"
-date: 2011-08-22
-source-url: https://www.scoop.co.nz/stories/PA1108/S00456/fonterra-to-cripple-organic-dairying.htm
+title: Fonterra to cripple organic dairying
+date: 2011-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00456/fonterra-to-cripple-organic-dairying.htm
 author: green-party
+permalink: /archive/2011/08/22/fonterra-to-cripple-organic-dairying/index.html
+layout: layout.njk
 ---
 Fonterra to cripple organic dairying
 ====================================

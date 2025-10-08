@@ -1,9 +1,13 @@
 ---
 slug: curriculum-responses-to-the-christchurch-earthquakes
-title: "Curriculum responses to the Christchurch earthquakes"
-date: 2013-03-01
-source-url: https://www.scoop.co.nz/stories/ED1303/S00005/curriculum-responses-to-the-christchurch-earthquakes.htm
+title: Curriculum responses to the Christchurch earthquakes
+date: 2013-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00005/curriculum-responses-to-the-christchurch-earthquakes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/03/01/curriculum-responses-to-the-christchurch-earthquakes/index.html
+layout: layout.njk
 ---
 Curriculum responses to the Christchurch earthquakes
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: double-win-for-massey-at-science-awards
-title: "Double win for Massey at science awards"
-date: 2011-11-11
-source-url: https://www.scoop.co.nz/stories/ED1111/S00087/double-win-for-massey-at-science-awards.htm
+title: Double win for Massey at science awards
+date: 2011-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00087/double-win-for-massey-at-science-awards.htm
 author: massey-university
+permalink: /archive/2011/11/11/double-win-for-massey-at-science-awards/index.html
+layout: layout.njk
 ---
 Double win for Massey at science awards
 =======================================

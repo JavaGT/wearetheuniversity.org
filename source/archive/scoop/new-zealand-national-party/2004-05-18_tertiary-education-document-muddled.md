@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-document-muddled
-title: "Tertiary education document muddled"
-date: 2004-05-18
-source-url: https://www.scoop.co.nz/stories/PA0405/S00381/tertiary-education-document-muddled.htm
+title: Tertiary education document muddled
+date: 2004-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00381/tertiary-education-document-muddled.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/18/tertiary-education-document-muddled/index.html
+layout: layout.njk
 ---
 Tertiary education document muddled
 ===================================

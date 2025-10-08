@@ -1,9 +1,12 @@
 ---
 slug: sport-management-student-success-celebrated
-title: "Sport Management student success celebrated"
-date: 2017-10-06
-source-url: https://www.scoop.co.nz/stories/ED1710/S00021/sport-management-student-success-celebrated.htm
+title: Sport Management student success celebrated
+date: 2017-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00021/sport-management-student-success-celebrated.htm
 author: massey-university
+permalink: /archive/2017/10/06/sport-management-student-success-celebrated/index.html
+layout: layout.njk
 ---
 Sport Management student success celebrated
 ===========================================

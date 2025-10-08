@@ -1,9 +1,12 @@
 ---
 slug: university-welcomes-international-students
-title: "University welcomes International Students"
-date: 2005-07-08
-source-url: https://www.scoop.co.nz/stories/ED0507/S00035/university-welcomes-international-students.htm
+title: University welcomes International Students
+date: 2005-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00035/university-welcomes-international-students.htm
 author: waikato-university
+permalink: /archive/2005/07/08/university-welcomes-international-students/index.html
+layout: layout.njk
 ---
 University welcomes International Students
 ==========================================

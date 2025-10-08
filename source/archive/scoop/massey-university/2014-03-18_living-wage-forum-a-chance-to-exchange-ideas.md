@@ -1,9 +1,12 @@
 ---
 slug: living-wage-forum-a-chance-to-exchange-ideas
-title: "Living wage forum a chance to exchange ideas"
-date: 2014-03-18
-source-url: https://www.scoop.co.nz/stories/PO1403/S00203/living-wage-forum-a-chance-to-exchange-ideas.htm
+title: Living wage forum a chance to exchange ideas
+date: 2014-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00203/living-wage-forum-a-chance-to-exchange-ideas.htm
 author: massey-university
+permalink: /archive/2014/03/18/living-wage-forum-a-chance-to-exchange-ideas/index.html
+layout: layout.njk
 ---
 Living wage forum a chance to exchange ideas
 ============================================

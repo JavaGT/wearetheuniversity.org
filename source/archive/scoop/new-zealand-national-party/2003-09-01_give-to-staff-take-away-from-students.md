@@ -1,9 +1,12 @@
 ---
 slug: give-to-staff-take-away-from-students
-title: "Give to staff, take away from students"
-date: 2003-09-01
-source-url: https://www.scoop.co.nz/stories/PA0309/S00008/give-to-staff-take-away-from-students.htm
+title: Give to staff, take away from students
+date: 2003-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00008/give-to-staff-take-away-from-students.htm
 author: new-zealand-national-party
+permalink: /archive/2003/09/01/give-to-staff-take-away-from-students/index.html
+layout: layout.njk
 ---
 Give to staff, take away from students
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: wayne-mapp-address-to-defence-seminar
-title: "Wayne Mapp Address To Defence Seminar"
-date: 2000-11-27
-source-url: https://www.scoop.co.nz/stories/PA0011/S00467/wayne-mapp-address-to-defence-seminar.htm
+title: Wayne Mapp Address To Defence Seminar
+date: 2000-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00467/wayne-mapp-address-to-defence-seminar.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/27/wayne-mapp-address-to-defence-seminar/index.html
+layout: layout.njk
 ---
 Wayne Mapp Address To Defence Seminar
 =====================================

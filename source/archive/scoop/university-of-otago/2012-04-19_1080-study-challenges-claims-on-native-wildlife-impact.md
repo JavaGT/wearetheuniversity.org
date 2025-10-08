@@ -1,9 +1,13 @@
 ---
 slug: 1080-study-challenges-claims-on-native-wildlife-impact
-title: "1080 study challenges claims on native wildlife impact"
-date: 2012-04-19
-source-url: https://www.scoop.co.nz/stories/SC1204/S00028/1080-study-challenges-claims-on-native-wildlife-impact.htm
+title: 1080 study challenges claims on native wildlife impact
+date: 2012-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1204/S00028/1080-study-challenges-claims-on-native-wildlife-impact.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/04/19/1080-study-challenges-claims-on-native-wildlife-impact/index.html
+layout: layout.njk
 ---
 1080 study challenges claims on native wildlife impact
 ======================================================

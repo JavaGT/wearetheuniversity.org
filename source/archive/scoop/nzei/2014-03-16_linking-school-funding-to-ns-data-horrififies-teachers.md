@@ -1,9 +1,13 @@
 ---
 slug: linking-school-funding-to-ns-data-horrififies-teachers
-title: "Linking school funding to NS data horrififies teachers"
-date: 2014-03-16
-source-url: https://www.scoop.co.nz/stories/ED1403/S00087/linking-school-funding-to-ns-data-horrififies-teachers.htm
+title: Linking school funding to NS data horrififies teachers
+date: 2014-03-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00087/linking-school-funding-to-ns-data-horrififies-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2014/03/16/linking-school-funding-to-ns-data-horrififies-teachers/index.html
+layout: layout.njk
 ---
 Linking school funding to NS data horrififies teachers
 ======================================================

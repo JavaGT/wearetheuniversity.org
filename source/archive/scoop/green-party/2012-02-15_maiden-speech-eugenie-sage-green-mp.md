@@ -1,9 +1,12 @@
 ---
 slug: maiden-speech-eugenie-sage-green-mp
-title: "Maiden Speech Eugenie Sage, Green MP"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PA1202/S00179/maiden-speech-eugenie-sage-green-mp.htm
+title: Maiden Speech Eugenie Sage, Green MP
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00179/maiden-speech-eugenie-sage-green-mp.htm
 author: green-party
+permalink: /archive/2012/02/15/maiden-speech-eugenie-sage-green-mp/index.html
+layout: layout.njk
 ---
 Maiden Speech Eugenie Sage, Green MP
 ====================================

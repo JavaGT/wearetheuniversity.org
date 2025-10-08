@@ -1,9 +1,12 @@
 ---
 slug: university-selects-deputy-vice-chancellor
-title: "University selects Deputy Vice-Chancellor"
-date: 2009-04-27
-source-url: https://www.scoop.co.nz/stories/ED0904/S00066/university-selects-deputy-vice-chancellor.htm
+title: University selects Deputy Vice-Chancellor
+date: 2009-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0904/S00066/university-selects-deputy-vice-chancellor.htm
 author: university-of-otago
+permalink: /archive/2009/04/27/university-selects-deputy-vice-chancellor/index.html
+layout: layout.njk
 ---
 University selects Deputy Vice-Chancellor
 =========================================

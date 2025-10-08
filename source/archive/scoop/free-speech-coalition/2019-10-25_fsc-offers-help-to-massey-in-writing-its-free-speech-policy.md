@@ -1,9 +1,13 @@
 ---
 slug: fsc-offers-help-to-massey-in-writing-its-free-speech-policy
-title: "FSC offers help to Massey in writing its free speech policy"
-date: 2019-10-25
-source-url: https://www.scoop.co.nz/stories/ED1910/S00057/fsc-offers-help-to-massey-in-writing-its-free-speech-policy.htm
+title: FSC offers help to Massey in writing its free speech policy
+date: 2019-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00057/fsc-offers-help-to-massey-in-writing-its-free-speech-policy.htm
 author: free-speech-coalition
+permalink: >-
+  /archive/2019/10/25/fsc-offers-help-to-massey-in-writing-its-free-speech-policy/index.html
+layout: layout.njk
 ---
 FSC offers help to Massey in writing its free speech policy
 ===========================================================

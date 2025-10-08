@@ -1,9 +1,11 @@
 ---
 slug: thomas-lange-appointment
-title: "Thomas Lange appointment"
-date: 2005-02-02
+title: Thomas Lange appointment
+date: 2005-02-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0502/S00010/thomas-lange-appointment.htm
 author: aut-university
+permalink: /archive/2005/02/02/thomas-lange-appointment/index.html
+layout: layout.njk
 ---
 Thomas Lange appointment
 ========================

@@ -1,9 +1,12 @@
 ---
 slug: employers-need-to-hold-off-redundancy-decisions
-title: "Employers need to hold off redundancy decisions"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/BU1103/S00111/employers-need-to-hold-off-redundancy-decisions.htm
+title: Employers need to hold off redundancy decisions
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1103/S00111/employers-need-to-hold-off-redundancy-decisions.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/03/03/employers-need-to-hold-off-redundancy-decisions/index.html
+layout: layout.njk
 ---
 Employers need to hold off redundancy decisions
 ===============================================

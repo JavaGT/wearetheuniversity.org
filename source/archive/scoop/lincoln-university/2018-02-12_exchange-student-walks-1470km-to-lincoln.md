@@ -1,9 +1,12 @@
 ---
 slug: exchange-student-walks-1470km-to-lincoln
-title: "Exchange student walks 1470km to Lincoln"
-date: 2018-02-12
-source-url: https://www.scoop.co.nz/stories/AK1802/S00309/exchange-student-walks-1470km-to-lincoln.htm
+title: Exchange student walks 1470km to Lincoln
+date: 2018-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1802/S00309/exchange-student-walks-1470km-to-lincoln.htm
 author: lincoln-university
+permalink: /archive/2018/02/12/exchange-student-walks-1470km-to-lincoln/index.html
+layout: layout.njk
 ---
 Exchange student walks 1470km to Lincoln
 ========================================

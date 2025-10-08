@@ -1,9 +1,13 @@
 ---
 slug: acclaimed-flautist-miho-wada-planning-major-overseas-tours
-title: "Acclaimed flautist Miho Wada planning major overseas tours"
-date: 2014-05-04
-source-url: https://www.scoop.co.nz/stories/CU1405/S00039/acclaimed-flautist-miho-wada-planning-major-overseas-tours.htm
+title: Acclaimed flautist Miho Wada planning major overseas tours
+date: 2014-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00039/acclaimed-flautist-miho-wada-planning-major-overseas-tours.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/04/acclaimed-flautist-miho-wada-planning-major-overseas-tours/index.html
+layout: layout.njk
 ---
 Acclaimed flautist Miho Wada planning major overseas tours
 ==========================================================

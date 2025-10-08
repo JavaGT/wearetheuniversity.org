@@ -1,9 +1,12 @@
 ---
 slug: murray-mccullys-act-conference-speech
-title: "Murray McCully's ACT Conference Speech"
-date: 2003-08-04
-source-url: https://www.scoop.co.nz/stories/PA0308/S00036/murray-mccullys-act-conference-speech.htm
+title: Murray McCully's ACT Conference Speech
+date: 2003-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00036/murray-mccullys-act-conference-speech.htm
 author: act-new-zealand
+permalink: /archive/2003/08/04/murray-mccullys-act-conference-speech/index.html
+layout: layout.njk
 ---
 Murray McCully's ACT Conference Speech
 ======================================

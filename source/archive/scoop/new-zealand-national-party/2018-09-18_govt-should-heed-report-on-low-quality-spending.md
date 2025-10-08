@@ -1,9 +1,12 @@
 ---
 slug: govt-should-heed-report-on-low-quality-spending
-title: "Govt should heed report on low-quality spending"
-date: 2018-09-18
-source-url: https://www.scoop.co.nz/stories/PA1809/S00221/govt-should-heed-report-on-low-quality-spending.htm
+title: Govt should heed report on low-quality spending
+date: 2018-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1809/S00221/govt-should-heed-report-on-low-quality-spending.htm
 author: new-zealand-national-party
+permalink: /archive/2018/09/18/govt-should-heed-report-on-low-quality-spending/index.html
+layout: layout.njk
 ---
 Govt should heed report on low-quality spending
 ===============================================

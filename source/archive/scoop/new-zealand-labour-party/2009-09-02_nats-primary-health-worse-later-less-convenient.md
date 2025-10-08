@@ -1,9 +1,12 @@
 ---
 slug: nats-primary-health-worse-later-less-convenient
-title: "Nats primary health: worse, later, less convenient"
-date: 2009-09-02
-source-url: https://www.scoop.co.nz/stories/PA0909/S00029/nats-primary-health-worse-later-less-convenient.htm
+title: 'Nats primary health: worse, later, less convenient'
+date: 2009-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00029/nats-primary-health-worse-later-less-convenient.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/02/nats-primary-health-worse-later-less-convenient/index.html
+layout: layout.njk
 ---
 Nats primary health: worse, later, less convenient
 ==================================================

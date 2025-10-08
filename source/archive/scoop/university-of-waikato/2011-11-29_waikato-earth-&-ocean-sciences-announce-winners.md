@@ -1,9 +1,12 @@
 ---
 slug: waikato-earth-&-ocean-sciences-announce-winners
-title: "Waikato Earth & Ocean Sciences announce winners"
-date: 2011-11-29
-source-url: https://www.scoop.co.nz/stories/SC1111/S00059/waikato-earth-ocean-sciences-announce-winners.htm
+title: Waikato Earth & Ocean Sciences announce winners
+date: 2011-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1111/S00059/waikato-earth-ocean-sciences-announce-winners.htm
 author: university-of-waikato
+permalink: /archive/2011/11/29/waikato-earth-/index.html
+layout: layout.njk
 ---
 Waikato Earth & Ocean Sciences announce winners
 ===============================================

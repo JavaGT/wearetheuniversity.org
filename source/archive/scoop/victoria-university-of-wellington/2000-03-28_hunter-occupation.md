@@ -1,9 +1,11 @@
 ---
 slug: hunter-occupation
-title: "Hunter occupation"
-date: 2000-03-28
+title: Hunter occupation
+date: 2000-03-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0003/S00053/hunter-occupation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/03/28/hunter-occupation/index.html
+layout: layout.njk
 ---
 Hunter occupation
 =================

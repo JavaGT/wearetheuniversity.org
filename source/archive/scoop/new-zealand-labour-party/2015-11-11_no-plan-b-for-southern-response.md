@@ -1,9 +1,12 @@
 ---
 slug: no-plan-b-for-southern-response
-title: "No Plan B for Southern Response"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/PA1511/S00184/no-plan-b-for-southern-response.htm
+title: No Plan B for Southern Response
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00184/no-plan-b-for-southern-response.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/11/no-plan-b-for-southern-response/index.html
+layout: layout.njk
 ---
 No Plan B for Southern Response
 ===============================

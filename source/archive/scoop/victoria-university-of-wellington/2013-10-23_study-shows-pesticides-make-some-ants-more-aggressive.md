@@ -1,9 +1,13 @@
 ---
 slug: study-shows-pesticides-make-some-ants-more-aggressive
-title: "Study shows pesticides make some ants more aggressive"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/SC1310/S00064/study-shows-pesticides-make-some-ants-more-aggressive.htm
+title: Study shows pesticides make some ants more aggressive
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00064/study-shows-pesticides-make-some-ants-more-aggressive.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/23/study-shows-pesticides-make-some-ants-more-aggressive/index.html
+layout: layout.njk
 ---
 Study shows pesticides make some ants more aggressive
 =====================================================

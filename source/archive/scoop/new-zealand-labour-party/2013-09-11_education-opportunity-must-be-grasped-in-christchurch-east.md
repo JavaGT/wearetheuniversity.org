@@ -1,9 +1,13 @@
 ---
 slug: education-opportunity-must-be-grasped-in-christchurch-east
-title: "Education opportunity must be grasped in Christchurch East"
-date: 2013-09-11
-source-url: https://www.scoop.co.nz/stories/PA1309/S00214/education-opportunity-must-be-grasped-in-christchurch-east.htm
+title: Education opportunity must be grasped in Christchurch East
+date: 2013-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1309/S00214/education-opportunity-must-be-grasped-in-christchurch-east.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/09/11/education-opportunity-must-be-grasped-in-christchurch-east/index.html
+layout: layout.njk
 ---
 Education opportunity must be grasped in Christchurch East
 ==========================================================

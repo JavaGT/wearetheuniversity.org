@@ -1,8 +1,11 @@
 ---
 slug: is-new-zealand-next-for-tax-on-sugary-drinks
-title: "Is New Zealand next for tax on sugary drinks?"
-date: 2016-03-17
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/is-new-zealand-next-for-tax-on-sugary-drinks-.html
+title: Is New Zealand next for tax on sugary drinks?
+date: 2016-03-17T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/03/is-new-zealand-next-for-tax-on-sugary-drinks-.html
+permalink: /archive/2016/03/17/is-new-zealand-next-for-tax-on-sugary-drinks/index.html
+layout: layout.njk
 ---
 Is New Zealand next for tax on sugary drinks?
 =============================================

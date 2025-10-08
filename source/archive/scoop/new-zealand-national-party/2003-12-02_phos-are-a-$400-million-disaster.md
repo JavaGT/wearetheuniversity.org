@@ -1,9 +1,12 @@
 ---
 slug: phos-are-a-$400-million-disaster
-title: "PHOs are a $400 million disaster"
-date: 2003-12-02
-source-url: https://www.scoop.co.nz/stories/PA0312/S00029/phos-are-a-400-million-disaster.htm
+title: PHOs are a $400 million disaster
+date: 2003-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00029/phos-are-a-400-million-disaster.htm
 author: new-zealand-national-party
+permalink: /archive/2003/12/02/phos-are-a-/index.html
+layout: layout.njk
 ---
 PHOs are a $400 million disaster
 ================================

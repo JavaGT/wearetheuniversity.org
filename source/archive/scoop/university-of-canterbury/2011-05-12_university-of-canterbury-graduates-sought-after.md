@@ -1,9 +1,12 @@
 ---
 slug: university-of-canterbury-graduates-sought-after
-title: "University of Canterbury graduates sought after"
-date: 2011-05-12
-source-url: https://www.scoop.co.nz/stories/ED1105/S00045/university-of-canterbury-graduates-sought-after.htm
+title: University of Canterbury graduates sought after
+date: 2011-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00045/university-of-canterbury-graduates-sought-after.htm
 author: university-of-canterbury
+permalink: /archive/2011/05/12/university-of-canterbury-graduates-sought-after/index.html
+layout: layout.njk
 ---
 University of Canterbury graduates sought after
 ===============================================

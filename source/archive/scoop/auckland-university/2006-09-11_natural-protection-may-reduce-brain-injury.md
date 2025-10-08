@@ -1,9 +1,12 @@
 ---
 slug: natural-protection-may-reduce-brain-injury
-title: "Natural protection may reduce brain injury"
-date: 2006-09-11
-source-url: https://www.scoop.co.nz/stories/GE0609/S00036/natural-protection-may-reduce-brain-injury.htm
+title: Natural protection may reduce brain injury
+date: 2006-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0609/S00036/natural-protection-may-reduce-brain-injury.htm
 author: auckland-university
+permalink: /archive/2006/09/11/natural-protection-may-reduce-brain-injury/index.html
+layout: layout.njk
 ---
 Natural protection may reduce brain injury
 ==========================================

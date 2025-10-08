@@ -1,9 +1,13 @@
 ---
 slug: experts-deliver-free-public-biotechnology-lectures
-title: "Experts Deliver Free Public Biotechnology Lectures"
-date: 2004-01-15
-source-url: https://www.scoop.co.nz/stories/SC0401/S00013/experts-deliver-free-public-biotechnology-lectures.htm
+title: Experts Deliver Free Public Biotechnology Lectures
+date: 2004-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0401/S00013/experts-deliver-free-public-biotechnology-lectures.htm
 author: auckland-university
+permalink: >-
+  /archive/2004/01/15/experts-deliver-free-public-biotechnology-lectures/index.html
+layout: layout.njk
 ---
 Experts Deliver Free Public Biotechnology Lectures
 ==================================================

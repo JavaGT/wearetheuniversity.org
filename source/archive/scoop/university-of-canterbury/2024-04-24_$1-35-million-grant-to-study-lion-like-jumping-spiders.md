@@ -1,9 +1,13 @@
 ---
 slug: $1-35-million-grant-to-study-lion-like-jumping-spiders
-title: "$1.35 Million Grant To Study Lion-like Jumping Spiders"
-date: 2024-04-24
-source-url: https://www.scoop.co.nz/stories/SC2404/S00036/135-million-grant-to-study-lion-like-jumping-spiders.htm
+title: $1.35 Million Grant To Study Lion-like Jumping Spiders
+date: 2024-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2404/S00036/135-million-grant-to-study-lion-like-jumping-spiders.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/04/24/1-35-million-grant-to-study-lion-like-jumping-spiders/index.html
+layout: layout.njk
 ---
 $1.35 Million Grant To Study Lion-like Jumping Spiders
 ======================================================

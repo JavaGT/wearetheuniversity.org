@@ -1,9 +1,13 @@
 ---
 slug: leading-young-adult-fiction-writer-heads-to-victoria
-title: "Leading young adult fiction writer heads to Victoria"
-date: 2011-11-07
-source-url: https://www.scoop.co.nz/stories/ED1111/S00043/leading-young-adult-fiction-writer-heads-to-victoria.htm
+title: Leading young adult fiction writer heads to Victoria
+date: 2011-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00043/leading-young-adult-fiction-writer-heads-to-victoria.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/11/07/leading-young-adult-fiction-writer-heads-to-victoria/index.html
+layout: layout.njk
 ---
 Leading young adult fiction writer heads to Victoria
 ====================================================

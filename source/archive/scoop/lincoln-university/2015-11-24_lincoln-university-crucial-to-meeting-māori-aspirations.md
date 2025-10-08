@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-crucial-to-meeting-māori-aspirations
-title: "Lincoln University crucial to meeting Māori aspirations"
-date: 2015-11-24
-source-url: https://www.scoop.co.nz/stories/ED1511/S00112/lincoln-university-crucial-to-meeting-maori-aspirations.htm
+title: Lincoln University crucial to meeting Māori aspirations
+date: 2015-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00112/lincoln-university-crucial-to-meeting-maori-aspirations.htm
 author: lincoln-university
+permalink: /archive/2015/11/24/lincoln-university-crucial-to-meeting-m/index.html
+layout: layout.njk
 ---
 Lincoln University crucial to meeting Māori aspirations
 =======================================================

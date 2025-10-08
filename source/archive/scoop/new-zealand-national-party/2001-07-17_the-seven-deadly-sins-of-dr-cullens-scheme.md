@@ -1,9 +1,12 @@
 ---
 slug: the-seven-deadly-sins-of-dr-cullens-scheme
-title: "The Seven Deadly Sins Of Dr Cullen's Scheme"
-date: 2001-07-17
-source-url: https://www.scoop.co.nz/stories/PA0107/S00276/the-seven-deadly-sins-of-dr-cullens-scheme.htm
+title: The Seven Deadly Sins Of Dr Cullen's Scheme
+date: 2001-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00276/the-seven-deadly-sins-of-dr-cullens-scheme.htm
 author: new-zealand-national-party
+permalink: /archive/2001/07/17/the-seven-deadly-sins-of-dr-cullens-scheme/index.html
+layout: layout.njk
 ---
 The Seven Deadly Sins Of Dr Cullen's Scheme
 ===========================================

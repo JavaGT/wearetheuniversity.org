@@ -1,9 +1,13 @@
 ---
 slug: enterprise-forum-irish-university-leaders-arrive
-title: "Enterprise forum: Irish university leaders arrive"
-date: 2003-11-03
-source-url: https://www.scoop.co.nz/stories/ED0311/S00002/enterprise-forum-irish-university-leaders-arrive.htm
+title: 'Enterprise forum: Irish university leaders arrive'
+date: 2003-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00002/enterprise-forum-irish-university-leaders-arrive.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/11/03/enterprise-forum-irish-university-leaders-arrive/index.html
+layout: layout.njk
 ---
 Enterprise forum: Irish university leaders arrive
 =================================================

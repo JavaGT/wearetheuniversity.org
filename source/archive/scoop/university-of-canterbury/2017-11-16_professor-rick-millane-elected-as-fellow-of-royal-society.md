@@ -1,9 +1,13 @@
 ---
 slug: professor-rick-millane-elected-as-fellow-of-royal-society
-title: "Professor Rick Millane elected as Fellow of Royal Society"
-date: 2017-11-16
-source-url: https://www.scoop.co.nz/stories/SC1711/S00039/professor-rick-millane-elected-as-fellow-of-royal-society.htm
+title: Professor Rick Millane elected as Fellow of Royal Society
+date: 2017-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1711/S00039/professor-rick-millane-elected-as-fellow-of-royal-society.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/16/professor-rick-millane-elected-as-fellow-of-royal-society/index.html
+layout: layout.njk
 ---
 Professor Rick Millane elected as Fellow of Royal Society
 =========================================================

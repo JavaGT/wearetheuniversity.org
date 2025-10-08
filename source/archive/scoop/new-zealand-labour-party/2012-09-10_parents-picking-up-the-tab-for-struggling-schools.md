@@ -1,9 +1,13 @@
 ---
 slug: parents-picking-up-the-tab-for-struggling-schools
-title: "Parents Picking Up The Tab For Struggling Schools"
-date: 2012-09-10
-source-url: https://www.scoop.co.nz/stories/PA1209/S00113/parents-picking-up-the-tab-for-struggling-schools.htm
+title: Parents Picking Up The Tab For Struggling Schools
+date: 2012-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00113/parents-picking-up-the-tab-for-struggling-schools.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/09/10/parents-picking-up-the-tab-for-struggling-schools/index.html
+layout: layout.njk
 ---
 Parents Picking Up The Tab For Struggling Schools
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: ryalls-waiting-list-claims-refuted
-title: "Ryall’s waiting list claims refuted"
-date: 2013-11-19
-source-url: https://www.scoop.co.nz/stories/PA1311/S00340/ryalls-waiting-list-claims-refuted.htm
+title: Ryall’s waiting list claims refuted
+date: 2013-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00340/ryalls-waiting-list-claims-refuted.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/19/ryalls-waiting-list-claims-refuted/index.html
+layout: layout.njk
 ---
 Ryall’s waiting list claims refuted
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-pitch-to-impress
-title: "Victoria students pitch to impress"
-date: 2014-10-07
-source-url: https://www.scoop.co.nz/stories/ED1410/S00039/victoria-students-pitch-to-impress.htm
+title: Victoria students pitch to impress
+date: 2014-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00039/victoria-students-pitch-to-impress.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/07/victoria-students-pitch-to-impress/index.html
+layout: layout.njk
 ---
 Victoria students pitch to impress
 ==================================

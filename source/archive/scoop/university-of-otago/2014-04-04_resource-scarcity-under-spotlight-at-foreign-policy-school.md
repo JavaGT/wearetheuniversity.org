@@ -1,9 +1,13 @@
 ---
 slug: resource-scarcity-under-spotlight-at-foreign-policy-school
-title: "Resource scarcity under spotlight at Foreign Policy School"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/ED1404/S00026/resource-scarcity-under-spotlight-at-foreign-policy-school.htm
+title: Resource scarcity under spotlight at Foreign Policy School
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00026/resource-scarcity-under-spotlight-at-foreign-policy-school.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/04/04/resource-scarcity-under-spotlight-at-foreign-policy-school/index.html
+layout: layout.njk
 ---
 Resource scarcity under spotlight at Foreign Policy School
 ==========================================================

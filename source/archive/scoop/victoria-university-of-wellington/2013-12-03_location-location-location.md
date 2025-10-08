@@ -1,9 +1,11 @@
 ---
 slug: location-location-location
-title: "Location, location, location"
-date: 2013-12-03
+title: Location, location, location
+date: 2013-12-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK1312/S00103/location-location-location.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/03/location-location-location/index.html
+layout: layout.njk
 ---
 Location, location, location
 ============================

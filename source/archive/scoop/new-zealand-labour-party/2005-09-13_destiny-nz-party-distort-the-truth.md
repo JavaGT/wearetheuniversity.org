@@ -1,9 +1,12 @@
 ---
 slug: destiny-nz-party-distort-the-truth
-title: "Destiny NZ Party Distort The Truth"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PO0509/S00141/destiny-nz-party-distort-the-truth.htm
+title: Destiny NZ Party Distort The Truth
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0509/S00141/destiny-nz-party-distort-the-truth.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/13/destiny-nz-party-distort-the-truth/index.html
+layout: layout.njk
 ---
 Destiny NZ Party Distort The Truth
 ==================================

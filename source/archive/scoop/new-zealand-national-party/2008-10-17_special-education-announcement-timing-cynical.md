@@ -1,9 +1,12 @@
 ---
 slug: special-education-announcement-timing-cynical
-title: "Special Education announcement timing 'cynical'"
-date: 2008-10-17
-source-url: https://www.scoop.co.nz/stories/PA0810/S00404/special-education-announcement-timing-cynical.htm
+title: Special Education announcement timing 'cynical'
+date: 2008-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00404/special-education-announcement-timing-cynical.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/17/special-education-announcement-timing-cynical/index.html
+layout: layout.njk
 ---
 Special Education announcement timing 'cynical'
 ===============================================

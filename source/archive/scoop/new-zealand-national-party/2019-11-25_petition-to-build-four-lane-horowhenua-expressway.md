@@ -1,9 +1,13 @@
 ---
 slug: petition-to-build-four-lane-horowhenua-expressway
-title: "Petition to build four-lane Horowhenua expressway"
-date: 2019-11-25
-source-url: https://www.scoop.co.nz/stories/PA1911/S00196/petition-to-build-four-lane-horowhenua-expressway.htm
+title: Petition to build four-lane Horowhenua expressway
+date: 2019-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00196/petition-to-build-four-lane-horowhenua-expressway.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/11/25/petition-to-build-four-lane-horowhenua-expressway/index.html
+layout: layout.njk
 ---
 Petition to build four-lane Horowhenua expressway
 =================================================

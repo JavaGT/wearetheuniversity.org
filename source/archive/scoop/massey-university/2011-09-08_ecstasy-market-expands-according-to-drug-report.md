@@ -1,9 +1,12 @@
 ---
 slug: ecstasy-market-expands-according-to-drug-report
-title: "Ecstasy market expands according to drug report"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/PO1109/S00107/ecstasy-market-expands-according-to-drug-report.htm
+title: Ecstasy market expands according to drug report
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00107/ecstasy-market-expands-according-to-drug-report.htm
 author: massey-university
+permalink: /archive/2011/09/08/ecstasy-market-expands-according-to-drug-report/index.html
+layout: layout.njk
 ---
 Ecstasy market expands according to drug report
 ===============================================

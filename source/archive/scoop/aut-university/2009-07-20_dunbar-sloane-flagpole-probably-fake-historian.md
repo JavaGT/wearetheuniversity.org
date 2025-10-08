@@ -1,9 +1,12 @@
 ---
 slug: dunbar-sloane-flagpole-probably-fake-historian
-title: "Dunbar Sloane flagpole \"probably fake\" - historian"
-date: 2009-07-20
-source-url: https://www.scoop.co.nz/stories/PO0907/S00192/dunbar-sloane-flagpole-probably-fake-historian.htm
+title: Dunbar Sloane flagpole "probably fake" - historian
+date: 2009-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0907/S00192/dunbar-sloane-flagpole-probably-fake-historian.htm
 author: aut-university
+permalink: /archive/2009/07/20/dunbar-sloane-flagpole-probably-fake-historian/index.html
+layout: layout.njk
 ---
 Dunbar Sloane flagpole “probably fake” - historian
 ==================================================

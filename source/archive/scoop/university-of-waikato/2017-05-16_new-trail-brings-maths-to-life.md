@@ -1,9 +1,12 @@
 ---
 slug: new-trail-brings-maths-to-life
-title: "New trail brings maths to life"
-date: 2017-05-16
-source-url: https://www.scoop.co.nz/stories/ED1705/S00068/new-trail-brings-maths-to-life.htm
+title: New trail brings maths to life
+date: 2017-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00068/new-trail-brings-maths-to-life.htm
 author: university-of-waikato
+permalink: /archive/2017/05/16/new-trail-brings-maths-to-life/index.html
+layout: layout.njk
 ---
 New trail brings maths to life
 ==============================

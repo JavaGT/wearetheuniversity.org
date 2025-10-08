@@ -1,9 +1,12 @@
 ---
 slug: fifa-whistleblower-at-foreign-policy-school
-title: "FIFA Whistleblower at Foreign Policy School"
-date: 2006-06-09
-source-url: https://www.scoop.co.nz/stories/PO0606/S00090/fifa-whistleblower-at-foreign-policy-school.htm
+title: FIFA Whistleblower at Foreign Policy School
+date: 2006-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0606/S00090/fifa-whistleblower-at-foreign-policy-school.htm
 author: university-of-otago
+permalink: /archive/2006/06/09/fifa-whistleblower-at-foreign-policy-school/index.html
+layout: layout.njk
 ---
 FIFA Whistleblower at Foreign Policy School
 ===========================================

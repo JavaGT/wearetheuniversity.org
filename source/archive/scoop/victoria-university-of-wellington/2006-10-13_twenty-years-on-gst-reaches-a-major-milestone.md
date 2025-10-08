@@ -1,9 +1,12 @@
 ---
 slug: twenty-years-on-gst-reaches-a-major-milestone
-title: "Twenty years on – GST reaches a major milestone"
-date: 2006-10-13
-source-url: https://www.scoop.co.nz/stories/PO0610/S00133/twenty-years-on-gst-reaches-a-major-milestone.htm
+title: Twenty years on – GST reaches a major milestone
+date: 2006-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0610/S00133/twenty-years-on-gst-reaches-a-major-milestone.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/13/twenty-years-on-gst-reaches-a-major-milestone/index.html
+layout: layout.njk
 ---
 Twenty years on – GST reaches a major milestone
 ===============================================

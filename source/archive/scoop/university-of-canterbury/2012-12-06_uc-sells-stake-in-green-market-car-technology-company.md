@@ -1,9 +1,13 @@
 ---
 slug: uc-sells-stake-in-green-market-car-technology-company
-title: "UC sells stake in green market car technology company"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/BU1212/S00184/uc-sells-stake-in-green-market-car-technology-company.htm
+title: UC sells stake in green market car technology company
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1212/S00184/uc-sells-stake-in-green-market-car-technology-company.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/06/uc-sells-stake-in-green-market-car-technology-company/index.html
+layout: layout.njk
 ---
 UC sells stake in green market car technology company
 =====================================================

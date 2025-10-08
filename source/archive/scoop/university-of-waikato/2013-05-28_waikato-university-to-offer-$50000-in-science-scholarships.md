@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-to-offer-$50000-in-science-scholarships
-title: "Waikato University to offer $50,000 in science scholarships"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/ED1305/S00183/waikato-university-to-offer-50000-in-science-scholarships.htm
+title: Waikato University to offer $50,000 in science scholarships
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00183/waikato-university-to-offer-50000-in-science-scholarships.htm
 author: university-of-waikato
+permalink: /archive/2013/05/28/waikato-university-to-offer-/index.html
+layout: layout.njk
 ---
 Waikato University to offer $50,000 in science scholarships
 ===========================================================

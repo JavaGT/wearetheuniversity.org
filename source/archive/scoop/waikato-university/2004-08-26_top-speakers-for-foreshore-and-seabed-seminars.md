@@ -1,9 +1,12 @@
 ---
 slug: top-speakers-for-foreshore-and-seabed-seminars
-title: "Top Speakers For Foreshore And Seabed Seminars"
-date: 2004-08-26
-source-url: https://www.scoop.co.nz/stories/PO0408/S00243/top-speakers-for-foreshore-and-seabed-seminars.htm
+title: Top Speakers For Foreshore And Seabed Seminars
+date: 2004-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0408/S00243/top-speakers-for-foreshore-and-seabed-seminars.htm
 author: waikato-university
+permalink: /archive/2004/08/26/top-speakers-for-foreshore-and-seabed-seminars/index.html
+layout: layout.njk
 ---
 Top Speakers For Foreshore And Seabed Seminars
 ==============================================

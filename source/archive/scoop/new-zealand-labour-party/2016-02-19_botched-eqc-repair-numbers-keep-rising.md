@@ -1,9 +1,12 @@
 ---
 slug: botched-eqc-repair-numbers-keep-rising
-title: "Botched EQC repair numbers keep rising"
-date: 2016-02-19
-source-url: https://www.scoop.co.nz/stories/PA1602/S00268/botched-eqc-repair-numbers-keep-rising.htm
+title: Botched EQC repair numbers keep rising
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00268/botched-eqc-repair-numbers-keep-rising.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/19/botched-eqc-repair-numbers-keep-rising/index.html
+layout: layout.njk
 ---
 Botched EQC repair numbers keep rising
 ======================================

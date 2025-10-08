@@ -1,8 +1,11 @@
 ---
 slug: premature-baby-girls-shorter-as-adults-study
-title: "Premature baby girls shorter as adults: study"
-date: 2016-12-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/premature-girls-shorter-as-adults.html
+title: 'Premature baby girls shorter as adults: study'
+date: 2016-12-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/premature-girls-shorter-as-adults.html
+permalink: /archive/2016/12/12/premature-baby-girls-shorter-as-adults-study/index.html
+layout: layout.njk
 ---
 Premature baby girls shorter as adults: study
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: arrival-of-interest-free-student-loans-celebrated
-title: "Arrival of interest-free student loans celebrated"
-date: 2006-03-29
-source-url: https://www.scoop.co.nz/stories/ED0603/S00086/arrival-of-interest-free-student-loans-celebrated.htm
+title: Arrival of interest-free student loans celebrated
+date: 2006-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00086/arrival-of-interest-free-student-loans-celebrated.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2006/03/29/arrival-of-interest-free-student-loans-celebrated/index.html
+layout: layout.njk
 ---
 Arrival of interest-free student loans celebrated
 =================================================

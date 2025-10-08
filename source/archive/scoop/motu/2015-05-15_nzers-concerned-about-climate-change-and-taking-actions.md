@@ -1,9 +1,13 @@
 ---
 slug: nzers-concerned-about-climate-change-and-taking-actions
-title: "NZer's Concerned about Climate Change and Taking Actions"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/SC1505/S00044/nzers-concerned-about-climate-change-and-taking-actions.htm
+title: NZer's Concerned about Climate Change and Taking Actions
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00044/nzers-concerned-about-climate-change-and-taking-actions.htm
 author: motu
+permalink: >-
+  /archive/2015/05/15/nzers-concerned-about-climate-change-and-taking-actions/index.html
+layout: layout.njk
 ---
 NZer's Concerned about Climate Change and Taking Actions
 ========================================================

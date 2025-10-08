@@ -1,9 +1,12 @@
 ---
 slug: olympic-pair-have-a-mind-for-gold
-title: "Olympic pair have a mind for gold"
-date: 2012-06-15
-source-url: https://www.scoop.co.nz/stories/CU1206/S00203/olympic-pair-have-a-mind-for-gold.htm
+title: Olympic pair have a mind for gold
+date: 2012-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00203/olympic-pair-have-a-mind-for-gold.htm
 author: massey-university
+permalink: /archive/2012/06/15/olympic-pair-have-a-mind-for-gold/index.html
+layout: layout.njk
 ---
 Olympic pair have a mind for gold
 =================================

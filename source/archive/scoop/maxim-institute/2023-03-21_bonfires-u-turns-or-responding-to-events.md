@@ -1,9 +1,12 @@
 ---
 slug: bonfires-u-turns-or-responding-to-events
-title: "Bonfires? U-turns? Or Responding To Events?"
-date: 2023-03-21
-source-url: https://www.scoop.co.nz/stories/HL2303/S00041/bonfires-u-turns-or-responding-to-events.htm
+title: Bonfires? U-turns? Or Responding To Events?
+date: 2023-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL2303/S00041/bonfires-u-turns-or-responding-to-events.htm
 author: maxim-institute
+permalink: /archive/2023/03/21/bonfires-u-turns-or-responding-to-events/index.html
+layout: layout.njk
 ---
 Bonfires? U-turns? Or Responding To Events?
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: larrikin-former-pm-unmasked-in-new-biography
-title: "\"Larrikin\" former PM unmasked in new biography"
-date: 2010-11-15
-source-url: https://www.scoop.co.nz/stories/PO1011/S00195/larrikin-former-pm-unmasked-in-new-biography.htm
+title: '"Larrikin" former PM unmasked in new biography'
+date: 2010-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1011/S00195/larrikin-former-pm-unmasked-in-new-biography.htm
 author: university-of-waikato
+permalink: /archive/2010/11/15/larrikin-former-pm-unmasked-in-new-biography/index.html
+layout: layout.njk
 ---
 “Larrikin” former PM unmasked in new biography
 ==============================================

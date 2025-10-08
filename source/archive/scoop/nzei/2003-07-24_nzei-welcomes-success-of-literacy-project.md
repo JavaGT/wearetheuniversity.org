@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-success-of-literacy-project
-title: "NZEI Welcomes Success Of Literacy Project"
-date: 2003-07-24
-source-url: https://www.scoop.co.nz/stories/ED0307/S00063/nzei-welcomes-success-of-literacy-project.htm
+title: NZEI Welcomes Success Of Literacy Project
+date: 2003-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00063/nzei-welcomes-success-of-literacy-project.htm
 author: nzei
+permalink: /archive/2003/07/24/nzei-welcomes-success-of-literacy-project/index.html
+layout: layout.njk
 ---
 NZEI Welcomes Success Of Literacy Project
 =========================================

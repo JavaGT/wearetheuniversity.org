@@ -1,9 +1,12 @@
 ---
 slug: electronic-tag-reader-wins-international-award
-title: "Electronic tag reader wins international award"
-date: 2013-06-13
-source-url: https://www.scoop.co.nz/stories/SC1306/S00039/electronic-tag-reader-wins-international-award.htm
+title: Electronic tag reader wins international award
+date: 2013-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00039/electronic-tag-reader-wins-international-award.htm
 author: massey-university
+permalink: /archive/2013/06/13/electronic-tag-reader-wins-international-award/index.html
+layout: layout.njk
 ---
 Electronic tag reader wins international award
 ==============================================

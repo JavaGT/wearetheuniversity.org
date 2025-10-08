@@ -1,9 +1,13 @@
 ---
 slug: counter-protest-to-support-st-heliers-development
-title: "Counter-Protest to Support St Heliers Development"
-date: 2011-01-21
-source-url: https://www.scoop.co.nz/stories/PO1101/S00061/counter-protest-to-support-st-heliers-development.htm
+title: Counter-Protest to Support St Heliers Development
+date: 2011-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1101/S00061/counter-protest-to-support-st-heliers-development.htm
 author: act-on-campus
+permalink: >-
+  /archive/2011/01/21/counter-protest-to-support-st-heliers-development/index.html
+layout: layout.njk
 ---
 Counter-Protest to Support St Heliers Development
 =================================================

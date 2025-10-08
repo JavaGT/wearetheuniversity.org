@@ -1,9 +1,12 @@
 ---
 slug: new-employee-voice-options-good-move
-title: "New employee voice options \"good move\""
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/ED0603/S00071/new-employee-voice-options-good-move.htm
+title: New employee voice options "good move"
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00071/new-employee-voice-options-good-move.htm
 author: aut-university
+permalink: /archive/2006/03/24/new-employee-voice-options-good-move/index.html
+layout: layout.njk
 ---
 New employee voice options \"good move"
 ======================================

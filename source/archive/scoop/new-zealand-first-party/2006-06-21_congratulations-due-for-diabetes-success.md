@@ -1,9 +1,12 @@
 ---
 slug: congratulations-due-for-diabetes-success
-title: "Congratulations Due For Diabetes Success"
-date: 2006-06-21
-source-url: https://www.scoop.co.nz/stories/PA0606/S00412/congratulations-due-for-diabetes-success.htm
+title: Congratulations Due For Diabetes Success
+date: 2006-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00412/congratulations-due-for-diabetes-success.htm
 author: new-zealand-first-party
+permalink: /archive/2006/06/21/congratulations-due-for-diabetes-success/index.html
+layout: layout.njk
 ---
 Congratulations Due For Diabetes Success
 ========================================

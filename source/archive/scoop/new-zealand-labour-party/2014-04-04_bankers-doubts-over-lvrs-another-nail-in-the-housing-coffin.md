@@ -1,9 +1,13 @@
 ---
 slug: bankers-doubts-over-lvrs-another-nail-in-the-housing-coffin
-title: "Banker’s doubts over LVRs another nail in the housing coffin"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/PA1404/S00085/bankers-doubts-over-lvrs-another-nail-in-the-housing-coffin.htm
+title: Banker’s doubts over LVRs another nail in the housing coffin
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00085/bankers-doubts-over-lvrs-another-nail-in-the-housing-coffin.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/04/04/bankers-doubts-over-lvrs-another-nail-in-the-housing-coffin/index.html
+layout: layout.njk
 ---
 Banker’s doubts over LVRs another nail in the housing coffin
 ============================================================

@@ -1,9 +1,11 @@
 ---
 slug: arafat-visit-reckless
-title: "Arafat Visit Reckless"
-date: 2003-05-27
+title: Arafat Visit Reckless
+date: 2003-05-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00665/arafat-visit-reckless.htm
 author: act-new-zealand
+permalink: /archive/2003/05/27/arafat-visit-reckless/index.html
+layout: layout.njk
 ---
 Arafat Visit Reckless
 =====================

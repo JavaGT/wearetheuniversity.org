@@ -1,9 +1,12 @@
 ---
 slug: student-allowance-move-not-enough
-title: "Student-allowance move not enough"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PO0810/S00201/student-allowance-move-not-enough.htm
+title: Student-allowance move not enough
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00201/student-allowance-move-not-enough.htm
 author: association-of-university-staff
+permalink: /archive/2008/10/14/student-allowance-move-not-enough/index.html
+layout: layout.njk
 ---
 Student-allowance move not enough
 =================================

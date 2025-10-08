@@ -1,9 +1,13 @@
 ---
 slug: minister-should-act-on-patient-waiting-time-crisis
-title: "Minister should act on patient waiting time crisis"
-date: 2001-04-05
-source-url: https://www.scoop.co.nz/stories/PA0104/S00113/minister-should-act-on-patient-waiting-time-crisis.htm
+title: Minister should act on patient waiting time crisis
+date: 2001-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00113/minister-should-act-on-patient-waiting-time-crisis.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/04/05/minister-should-act-on-patient-waiting-time-crisis/index.html
+layout: layout.njk
 ---
 Minister should act on patient waiting time crisis
 ==================================================

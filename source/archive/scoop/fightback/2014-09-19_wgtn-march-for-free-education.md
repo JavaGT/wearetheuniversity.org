@@ -1,9 +1,12 @@
 ---
 slug: wgtn-march-for-free-education
-title: "WGTN: March for free education"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/PO1409/S00444/wgtn-march-for-free-education.htm
+title: 'WGTN: March for free education'
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00444/wgtn-march-for-free-education.htm
 author: fightback
+permalink: /archive/2014/09/19/wgtn-march-for-free-education/index.html
+layout: layout.njk
 ---
 WGTN: March for free education
 ==============================

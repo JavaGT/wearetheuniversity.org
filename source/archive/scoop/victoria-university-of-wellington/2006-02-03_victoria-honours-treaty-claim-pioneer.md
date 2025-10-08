@@ -1,9 +1,12 @@
 ---
 slug: victoria-honours-treaty-claim-pioneer
-title: "Victoria honours Treaty claim pioneer"
-date: 2006-02-03
-source-url: https://www.scoop.co.nz/stories/ED0602/S00007/victoria-honours-treaty-claim-pioneer.htm
+title: Victoria honours Treaty claim pioneer
+date: 2006-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0602/S00007/victoria-honours-treaty-claim-pioneer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/02/03/victoria-honours-treaty-claim-pioneer/index.html
+layout: layout.njk
 ---
 Victoria honours Treaty claim pioneer
 =====================================

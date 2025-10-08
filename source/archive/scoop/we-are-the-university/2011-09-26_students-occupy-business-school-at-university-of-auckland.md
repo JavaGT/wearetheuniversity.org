@@ -1,9 +1,13 @@
 ---
 slug: students-occupy-business-school-at-university-of-auckland
-title: "Students occupy Business School at University of Auckland"
-date: 2011-09-26
-source-url: https://www.scoop.co.nz/stories/ED1109/S00115/students-occupy-business-school-at-university-of-auckland.htm
+title: Students occupy Business School at University of Auckland
+date: 2011-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00115/students-occupy-business-school-at-university-of-auckland.htm
 author: we-are-the-university
+permalink: >-
+  /archive/2011/09/26/students-occupy-business-school-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 Students occupy Business School at University of Auckland
 =========================================================

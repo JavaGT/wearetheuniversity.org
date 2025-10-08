@@ -1,9 +1,11 @@
 ---
 slug: poroporoaki-syd-jackson
-title: "Poroporoaki: Syd Jackson"
-date: 2007-09-04
+title: 'Poroporoaki: Syd Jackson'
+date: 2007-09-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0709/S00028/poroporoaki-syd-jackson.htm
 author: te-pati-maori
+permalink: /archive/2007/09/04/poroporoaki-syd-jackson/index.html
+layout: layout.njk
 ---
 Poroporoaki: Syd Jackson
 ========================

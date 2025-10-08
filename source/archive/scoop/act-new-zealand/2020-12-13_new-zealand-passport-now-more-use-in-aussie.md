@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-passport-now-more-use-in-aussie
-title: "New Zealand Passport Now More Use In Aussie"
-date: 2020-12-13
-source-url: https://www.scoop.co.nz/stories/PO2012/S00116/new-zealand-passport-now-more-use-in-aussie.htm
+title: New Zealand Passport Now More Use In Aussie
+date: 2020-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2012/S00116/new-zealand-passport-now-more-use-in-aussie.htm
 author: act-new-zealand
+permalink: /archive/2020/12/13/new-zealand-passport-now-more-use-in-aussie/index.html
+layout: layout.njk
 ---
 New Zealand Passport Now More Use In Aussie
 ===========================================

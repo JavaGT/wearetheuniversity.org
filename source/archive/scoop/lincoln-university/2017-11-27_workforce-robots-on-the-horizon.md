@@ -1,9 +1,12 @@
 ---
 slug: workforce-robots-on-the-horizon
-title: "Workforce robots on the horizon"
-date: 2017-11-27
-source-url: https://www.scoop.co.nz/stories/SC1711/S00064/workforce-robots-on-the-horizon.htm
+title: Workforce robots on the horizon
+date: 2017-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1711/S00064/workforce-robots-on-the-horizon.htm
 author: lincoln-university
+permalink: /archive/2017/11/27/workforce-robots-on-the-horizon/index.html
+layout: layout.njk
 ---
 Workforce robots on the horizon
 ===============================

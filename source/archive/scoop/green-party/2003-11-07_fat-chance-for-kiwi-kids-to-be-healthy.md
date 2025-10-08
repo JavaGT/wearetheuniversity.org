@@ -1,9 +1,12 @@
 ---
 slug: fat-chance-for-kiwi-kids-to-be-healthy
-title: "Fat chance for kiwi kids to be healthy"
-date: 2003-11-07
-source-url: https://www.scoop.co.nz/stories/PA0311/S00151/fat-chance-for-kiwi-kids-to-be-healthy.htm
+title: Fat chance for kiwi kids to be healthy
+date: 2003-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00151/fat-chance-for-kiwi-kids-to-be-healthy.htm
 author: green-party
+permalink: /archive/2003/11/07/fat-chance-for-kiwi-kids-to-be-healthy/index.html
+layout: layout.njk
 ---
 Fat chance for kiwi kids to be healthy
 ======================================

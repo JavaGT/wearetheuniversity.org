@@ -1,9 +1,13 @@
 ---
 slug: fonterras-false-alarm-shows-danger-of-crying-wolf
-title: "Fonterra’s false alarm shows danger of ‘crying wolf’"
-date: 2013-08-30
-source-url: https://www.scoop.co.nz/stories/PO1308/S00424/fonterras-false-alarm-shows-danger-of-crying-wolf.htm
+title: Fonterra’s false alarm shows danger of ‘crying wolf’
+date: 2013-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1308/S00424/fonterras-false-alarm-shows-danger-of-crying-wolf.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/30/fonterras-false-alarm-shows-danger-of-crying-wolf/index.html
+layout: layout.njk
 ---
 Fonterra’s false alarm shows danger of ‘crying wolf’
 ====================================================

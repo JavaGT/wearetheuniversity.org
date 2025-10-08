@@ -1,9 +1,12 @@
 ---
 slug: university-and-wintec-join-forces
-title: "University and Wintec join forces"
-date: 2009-05-06
-source-url: https://www.scoop.co.nz/stories/ED0905/S00030/university-and-wintec-join-forces.htm
+title: University and Wintec join forces
+date: 2009-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00030/university-and-wintec-join-forces.htm
 author: waikato-university
+permalink: /archive/2009/05/06/university-and-wintec-join-forces/index.html
+layout: layout.njk
 ---
 University and Wintec join forces
 =================================

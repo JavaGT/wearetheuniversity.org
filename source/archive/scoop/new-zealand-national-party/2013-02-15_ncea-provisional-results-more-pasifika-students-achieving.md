@@ -1,9 +1,13 @@
 ---
 slug: ncea-provisional-results-more-pasifika-students-achieving
-title: "NCEA provisional results: more Pasifika  students achieving"
-date: 2013-02-15
-source-url: https://www.scoop.co.nz/stories/ED1302/S00080/ncea-provisional-results-more-pasifika-students-achieving.htm
+title: 'NCEA provisional results: more Pasifika  students achieving'
+date: 2013-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00080/ncea-provisional-results-more-pasifika-students-achieving.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2013/02/15/ncea-provisional-results-more-pasifika-students-achieving/index.html
+layout: layout.njk
 ---
 NCEA provisional results: more Pasifika students achieving
 ==========================================================

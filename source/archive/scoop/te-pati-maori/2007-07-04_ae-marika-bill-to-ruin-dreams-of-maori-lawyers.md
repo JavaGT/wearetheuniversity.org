@@ -1,9 +1,12 @@
 ---
 slug: ae-marika-bill-to-ruin-dreams-of-maori-lawyers
-title: "Ae Marika: Bill to ruin dreams of Maori lawyers"
-date: 2007-07-04
-source-url: https://www.scoop.co.nz/stories/PA0707/S00072/ae-marika-bill-to-ruin-dreams-of-maori-lawyers.htm
+title: 'Ae Marika: Bill to ruin dreams of Maori lawyers'
+date: 2007-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00072/ae-marika-bill-to-ruin-dreams-of-maori-lawyers.htm
 author: te-pati-maori
+permalink: /archive/2007/07/04/ae-marika-bill-to-ruin-dreams-of-maori-lawyers/index.html
+layout: layout.njk
 ---
 Ae Marika: Bill to ruin dreams of Maori lawyers
 ===============================================

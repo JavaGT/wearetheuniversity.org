@@ -1,9 +1,12 @@
 ---
 slug: clarkistan-helen-clarks-third-way
-title: "Clarkistan - Helen Clark's Third Way"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PA0203/S00037/clarkistan-helen-clarks-third-way.htm
+title: Clarkistan - Helen Clark's Third Way
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00037/clarkistan-helen-clarks-third-way.htm
 author: act-new-zealand
+permalink: /archive/2002/03/01/clarkistan-helen-clarks-third-way/index.html
+layout: layout.njk
 ---
 Clarkistan - Helen Clark's Third Way
 ====================================

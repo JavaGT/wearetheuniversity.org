@@ -1,9 +1,13 @@
 ---
 slug: commercial-value-of-university-innovation-recognised
-title: "Commercial value of University innovation recognised"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/ED1101/S00041/commercial-value-of-university-innovation-recognised.htm
+title: Commercial value of University innovation recognised
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1101/S00041/commercial-value-of-university-innovation-recognised.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/01/27/commercial-value-of-university-innovation-recognised/index.html
+layout: layout.njk
 ---
 Commercial value of University innovation recognised
 ====================================================

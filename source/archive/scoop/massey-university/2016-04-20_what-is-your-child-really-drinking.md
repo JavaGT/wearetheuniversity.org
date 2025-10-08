@@ -1,9 +1,12 @@
 ---
 slug: what-is-your-child-really-drinking
-title: "What is your child really drinking?"
-date: 2016-04-20
-source-url: https://www.scoop.co.nz/stories/GE1604/S00076/what-is-your-child-really-drinking.htm
+title: What is your child really drinking?
+date: 2016-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1604/S00076/what-is-your-child-really-drinking.htm
 author: massey-university
+permalink: /archive/2016/04/20/what-is-your-child-really-drinking/index.html
+layout: layout.njk
 ---
 What is your child really drinking?
 ===================================

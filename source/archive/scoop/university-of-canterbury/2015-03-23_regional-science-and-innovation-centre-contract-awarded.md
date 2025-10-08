@@ -1,9 +1,13 @@
 ---
 slug: regional-science-and-innovation-centre-contract-awarded
-title: "Regional Science And Innovation Centre Contract Awarded"
-date: 2015-03-23
-source-url: https://www.scoop.co.nz/stories/AK1503/S00619/regional-science-and-innovation-centre-contract-awarded.htm
+title: Regional Science And Innovation Centre Contract Awarded
+date: 2015-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00619/regional-science-and-innovation-centre-contract-awarded.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/23/regional-science-and-innovation-centre-contract-awarded/index.html
+layout: layout.njk
 ---
 Regional Science And Innovation Centre Contract Awarded
 =======================================================

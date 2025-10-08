@@ -1,9 +1,13 @@
 ---
 slug: professor-honoured-for-contribution-to-mobility-for-blind
-title: "Professor honoured for contribution to mobility for blind"
-date: 2017-07-21
-source-url: https://www.scoop.co.nz/stories/ED1707/S00071/professor-honoured-for-contribution-to-mobility-for-blind.htm
+title: Professor honoured for contribution to mobility for blind
+date: 2017-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1707/S00071/professor-honoured-for-contribution-to-mobility-for-blind.htm
 author: massey-university
+permalink: >-
+  /archive/2017/07/21/professor-honoured-for-contribution-to-mobility-for-blind/index.html
+layout: layout.njk
 ---
 Professor honoured for contribution to mobility for blind
 =========================================================

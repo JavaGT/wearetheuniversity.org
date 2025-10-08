@@ -1,9 +1,12 @@
 ---
 slug: whats-driving-this-governments-tax-policy
-title: "What’s driving this Government’s tax policy?"
-date: 2019-07-18
-source-url: https://www.scoop.co.nz/stories/PA1907/S00148/whats-driving-this-governments-tax-policy.htm
+title: What’s driving this Government’s tax policy?
+date: 2019-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1907/S00148/whats-driving-this-governments-tax-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2019/07/18/whats-driving-this-governments-tax-policy/index.html
+layout: layout.njk
 ---
 What’s driving this Government’s tax policy?
 ============================================

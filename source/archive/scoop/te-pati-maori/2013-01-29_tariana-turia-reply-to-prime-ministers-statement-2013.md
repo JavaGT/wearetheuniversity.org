@@ -1,9 +1,13 @@
 ---
 slug: tariana-turia-reply-to-prime-ministers-statement-2013
-title: "Tariana Turia: Reply to Prime Minister’s Statement 2013"
-date: 2013-01-29
-source-url: https://www.scoop.co.nz/stories/PA1301/S00149/tariana-turia-reply-to-prime-ministers-statement-2013.htm
+title: 'Tariana Turia: Reply to Prime Minister’s Statement 2013'
+date: 2013-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00149/tariana-turia-reply-to-prime-ministers-statement-2013.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2013/01/29/tariana-turia-reply-to-prime-ministers-statement-2013/index.html
+layout: layout.njk
 ---
 Tariana Turia: Reply to Prime Minister’s Statement 2013
 =======================================================

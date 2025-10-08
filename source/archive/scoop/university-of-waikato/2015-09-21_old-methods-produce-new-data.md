@@ -1,9 +1,11 @@
 ---
 slug: old-methods-produce-new-data
-title: "Old methods produce new data"
-date: 2015-09-21
+title: Old methods produce new data
+date: 2015-09-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1509/S00126/old-methods-produce-new-data.htm
 author: university-of-waikato
+permalink: /archive/2015/09/21/old-methods-produce-new-data/index.html
+layout: layout.njk
 ---
 Old methods produce new data
 ============================

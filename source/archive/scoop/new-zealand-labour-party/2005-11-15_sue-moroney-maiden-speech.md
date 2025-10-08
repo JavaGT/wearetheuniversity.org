@@ -1,9 +1,11 @@
 ---
 slug: sue-moroney-maiden-speech
-title: "Sue Moroney Maiden Speech"
-date: 2005-11-15
+title: Sue Moroney Maiden Speech
+date: 2005-11-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0511/S00182/sue-moroney-maiden-speech.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/11/15/sue-moroney-maiden-speech/index.html
+layout: layout.njk
 ---
 Sue Moroney Maiden Speech
 =========================

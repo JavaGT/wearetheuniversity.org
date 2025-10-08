@@ -1,9 +1,12 @@
 ---
 slug: papatuanuku-inspires-exhibition
-title: "Papatuanuku inspires exhibition"
-date: 2007-10-01
-source-url: https://www.scoop.co.nz/stories/ED0710/S00005/papatuanuku-inspires-exhibition.htm
+title: Papatuanuku inspires exhibition
+date: 2007-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00005/papatuanuku-inspires-exhibition.htm
 author: massey-university
+permalink: /archive/2007/10/01/papatuanuku-inspires-exhibition/index.html
+layout: layout.njk
 ---
 Papatuanuku inspires exhibition
 ===============================

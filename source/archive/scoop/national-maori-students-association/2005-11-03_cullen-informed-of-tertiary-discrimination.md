@@ -1,9 +1,12 @@
 ---
 slug: cullen-informed-of-tertiary-discrimination
-title: "Cullen Informed Of Tertiary Discrimination"
-date: 2005-11-03
-source-url: https://www.scoop.co.nz/stories/ED0511/S00019/cullen-informed-of-tertiary-discrimination.htm
+title: Cullen Informed Of Tertiary Discrimination
+date: 2005-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00019/cullen-informed-of-tertiary-discrimination.htm
 author: national-maori-students-association
+permalink: /archive/2005/11/03/cullen-informed-of-tertiary-discrimination/index.html
+layout: layout.njk
 ---
 Cullen Informed Of Tertiary Discrimination
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: corporate-box-spend-up-must-be-investigated
-title: "Corporate box spend-up must be investigated"
-date: 2004-07-29
-source-url: https://www.scoop.co.nz/stories/PA0407/S00512/corporate-box-spend-up-must-be-investigated.htm
+title: Corporate box spend-up must be investigated
+date: 2004-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00512/corporate-box-spend-up-must-be-investigated.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/29/corporate-box-spend-up-must-be-investigated/index.html
+layout: layout.njk
 ---
 Corporate box spend-up must be investigated
 ===========================================

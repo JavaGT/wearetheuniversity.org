@@ -1,9 +1,12 @@
 ---
 slug: living-allowance-for-all-students-possible
-title: "Living allowance for all students possible"
-date: 2005-10-18
-source-url: https://www.scoop.co.nz/stories/ED0510/S00049/living-allowance-for-all-students-possible.htm
+title: Living allowance for all students possible
+date: 2005-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0510/S00049/living-allowance-for-all-students-possible.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/10/18/living-allowance-for-all-students-possible/index.html
+layout: layout.njk
 ---
 Living allowance for all students possible
 ==========================================

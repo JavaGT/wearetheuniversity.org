@@ -1,9 +1,12 @@
 ---
 slug: māori-must-speak-out-on-partial-privatisation
-title: "Māori must speak out on partial privatisation"
-date: 2012-02-15
-source-url: https://www.scoop.co.nz/stories/PO1202/S00145/maori-must-speak-out-on-partial-privatisation.htm
+title: Māori must speak out on partial privatisation
+date: 2012-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1202/S00145/maori-must-speak-out-on-partial-privatisation.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/02/15/m/index.html
+layout: layout.njk
 ---
 Māori must speak out on partial privatisation
 =============================================

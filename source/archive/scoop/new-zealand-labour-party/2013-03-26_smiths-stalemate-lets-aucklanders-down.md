@@ -1,9 +1,12 @@
 ---
 slug: smiths-stalemate-lets-aucklanders-down
-title: "Smith’s stalemate lets Aucklanders down"
-date: 2013-03-26
-source-url: https://www.scoop.co.nz/stories/PA1303/S00439/smiths-stalemate-lets-aucklanders-down.htm
+title: Smith’s stalemate lets Aucklanders down
+date: 2013-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00439/smiths-stalemate-lets-aucklanders-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/26/smiths-stalemate-lets-aucklanders-down/index.html
+layout: layout.njk
 ---
 Smith’s stalemate lets Aucklanders down
 =======================================

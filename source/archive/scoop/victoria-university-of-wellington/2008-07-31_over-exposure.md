@@ -1,9 +1,11 @@
 ---
 slug: over-exposure
-title: "Over Exposure."
-date: 2008-07-31
+title: Over Exposure.
+date: 2008-07-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU0807/S00323/over-exposure.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/07/31/over-exposure/index.html
+layout: layout.njk
 ---
 Over Exposure.
 ==============

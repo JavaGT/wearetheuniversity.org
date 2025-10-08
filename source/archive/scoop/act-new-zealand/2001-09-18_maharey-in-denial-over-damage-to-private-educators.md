@@ -1,9 +1,13 @@
 ---
 slug: maharey-in-denial-over-damage-to-private-educators
-title: "Maharey In Denial Over Damage to Private Educators"
-date: 2001-09-18
-source-url: https://www.scoop.co.nz/stories/PA0109/S00293/maharey-in-denial-over-damage-to-private-educators.htm
+title: Maharey In Denial Over Damage to Private Educators
+date: 2001-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00293/maharey-in-denial-over-damage-to-private-educators.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/09/18/maharey-in-denial-over-damage-to-private-educators/index.html
+layout: layout.njk
 ---
 Maharey In Denial Over Damage to Private Educators
 ==================================================

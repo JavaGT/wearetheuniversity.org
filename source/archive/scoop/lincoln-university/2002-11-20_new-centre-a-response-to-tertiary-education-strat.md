@@ -1,9 +1,13 @@
 ---
 slug: new-centre-a-response-to-tertiary-education-strat
-title: "New centre a response to tertiary education strat"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/ED0211/S00048/new-centre-a-response-to-tertiary-education-strat.htm
+title: New centre a response to tertiary education strat
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00048/new-centre-a-response-to-tertiary-education-strat.htm
 author: lincoln-university
+permalink: >-
+  /archive/2002/11/20/new-centre-a-response-to-tertiary-education-strat/index.html
+layout: layout.njk
 ---
 New centre a response to tertiary education strat
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-graduation-reflects-contribution-to-nz
-title: "Lincoln graduation reflects contribution to NZ"
-date: 2007-04-18
-source-url: https://www.scoop.co.nz/stories/ED0704/S00054/lincoln-graduation-reflects-contribution-to-nz.htm
+title: Lincoln graduation reflects contribution to NZ
+date: 2007-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00054/lincoln-graduation-reflects-contribution-to-nz.htm
 author: lincoln-university
+permalink: /archive/2007/04/18/lincoln-graduation-reflects-contribution-to-nz/index.html
+layout: layout.njk
 ---
 Lincoln graduation reflects contribution to NZ
 ==============================================

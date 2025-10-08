@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-negotiate-on-job-security
-title: "Primary Teachers Negotiate On Job Security"
-date: 2004-03-30
-source-url: https://www.scoop.co.nz/stories/ED0403/S00124/primary-teachers-negotiate-on-job-security.htm
+title: Primary Teachers Negotiate On Job Security
+date: 2004-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00124/primary-teachers-negotiate-on-job-security.htm
 author: nzei
+permalink: /archive/2004/03/30/primary-teachers-negotiate-on-job-security/index.html
+layout: layout.njk
 ---
 Primary Teachers Negotiate On Job Security
 ==========================================

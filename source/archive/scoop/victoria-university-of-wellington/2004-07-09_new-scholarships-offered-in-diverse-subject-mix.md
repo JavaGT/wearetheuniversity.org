@@ -1,9 +1,12 @@
 ---
 slug: new-scholarships-offered-in-diverse-subject-mix
-title: "New scholarships offered in diverse subject mix"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/ED0407/S00033/new-scholarships-offered-in-diverse-subject-mix.htm
+title: New scholarships offered in diverse subject mix
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0407/S00033/new-scholarships-offered-in-diverse-subject-mix.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/07/09/new-scholarships-offered-in-diverse-subject-mix/index.html
+layout: layout.njk
 ---
 New scholarships offered in diverse subject mix
 ===============================================

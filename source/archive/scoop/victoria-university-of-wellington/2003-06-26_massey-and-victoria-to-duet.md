@@ -1,9 +1,11 @@
 ---
 slug: massey-and-victoria-to-duet
-title: "Massey and Victoria to Duet"
-date: 2003-06-26
+title: Massey and Victoria to Duet
+date: 2003-06-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0306/S00058/massey-and-victoria-to-duet.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/26/massey-and-victoria-to-duet/index.html
+layout: layout.njk
 ---
 Massey and Victoria to Duet
 ===========================

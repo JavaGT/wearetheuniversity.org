@@ -1,9 +1,12 @@
 ---
 slug: vanuatu-headless-bodies-to-be-analysed-at-otago
-title: "Vanuatu Headless Bodies To Be Analysed At Otago"
-date: 2004-08-30
-source-url: https://www.scoop.co.nz/stories/ED0408/S00128/vanuatu-headless-bodies-to-be-analysed-at-otago.htm
+title: Vanuatu Headless Bodies To Be Analysed At Otago
+date: 2004-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00128/vanuatu-headless-bodies-to-be-analysed-at-otago.htm
 author: university-of-otago
+permalink: /archive/2004/08/30/vanuatu-headless-bodies-to-be-analysed-at-otago/index.html
+layout: layout.njk
 ---
 Vanuatu Headless Bodies To Be Analysed At Otago
 ===============================================

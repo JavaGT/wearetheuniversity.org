@@ -1,9 +1,12 @@
 ---
 slug: minimum-wage-increase-miserable
-title: "Minimum wage increase miserable"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/PA1302/S00395/minimum-wage-increase-miserable.htm
+title: Minimum wage increase miserable
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00395/minimum-wage-increase-miserable.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/02/26/minimum-wage-increase-miserable/index.html
+layout: layout.njk
 ---
 Minimum wage increase miserable
 ===============================

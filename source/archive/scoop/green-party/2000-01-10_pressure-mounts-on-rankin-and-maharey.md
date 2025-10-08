@@ -1,9 +1,12 @@
 ---
 slug: pressure-mounts-on-rankin-and-maharey
-title: "Pressure Mounts On Rankin And Maharey"
-date: 2000-01-10
-source-url: https://www.scoop.co.nz/stories/PA0001/S00005/pressure-mounts-on-rankin-and-maharey.htm
+title: Pressure Mounts On Rankin And Maharey
+date: 2000-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00005/pressure-mounts-on-rankin-and-maharey.htm
 author: green-party
+permalink: /archive/2000/01/10/pressure-mounts-on-rankin-and-maharey/index.html
+layout: layout.njk
 ---
 Pressure Mounts On Rankin And Maharey
 =====================================

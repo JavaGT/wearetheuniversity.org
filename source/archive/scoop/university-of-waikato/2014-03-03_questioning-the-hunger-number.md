@@ -1,9 +1,12 @@
 ---
 slug: questioning-the-hunger-number
-title: "Questioning the hunger number"
-date: 2014-03-03
-source-url: https://www.scoop.co.nz/stories/PO1403/S00011/questioning-the-hunger-number.htm
+title: Questioning the hunger number
+date: 2014-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00011/questioning-the-hunger-number.htm
 author: university-of-waikato
+permalink: /archive/2014/03/03/questioning-the-hunger-number/index.html
+layout: layout.njk
 ---
 Questioning the hunger number
 =============================

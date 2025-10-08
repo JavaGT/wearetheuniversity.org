@@ -1,9 +1,13 @@
 ---
 slug: world-press-photo-exhibition-opens-in-christchurch
-title: "World Press Photo Exhibition opens in Christchurch"
-date: 2014-07-31
-source-url: https://www.scoop.co.nz/stories/CU1407/S00515/world-press-photo-exhibition-opens-in-christchurch.htm
+title: World Press Photo Exhibition opens in Christchurch
+date: 2014-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00515/world-press-photo-exhibition-opens-in-christchurch.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/31/world-press-photo-exhibition-opens-in-christchurch/index.html
+layout: layout.njk
 ---
 World Press Photo Exhibition opens in Christchurch
 ==================================================

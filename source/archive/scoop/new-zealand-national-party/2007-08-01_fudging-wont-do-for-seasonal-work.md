@@ -1,9 +1,12 @@
 ---
 slug: fudging-wont-do-for-seasonal-work
-title: "Fudging won't do for seasonal work"
-date: 2007-08-01
-source-url: https://www.scoop.co.nz/stories/PA0708/S00025/fudging-wont-do-for-seasonal-work.htm
+title: Fudging won't do for seasonal work
+date: 2007-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00025/fudging-wont-do-for-seasonal-work.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/01/fudging-wont-do-for-seasonal-work/index.html
+layout: layout.njk
 ---
 Fudging won't do for seasonal work
 ==================================

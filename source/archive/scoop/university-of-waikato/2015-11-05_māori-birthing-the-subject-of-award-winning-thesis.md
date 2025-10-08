@@ -1,9 +1,12 @@
 ---
 slug: māori-birthing-the-subject-of-award-winning-thesis
-title: "Māori birthing the subject of award-winning thesis"
-date: 2015-11-05
-source-url: https://www.scoop.co.nz/stories/ED1511/S00025/maori-birthing-the-subject-of-award-winning-thesis.htm
+title: Māori birthing the subject of award-winning thesis
+date: 2015-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1511/S00025/maori-birthing-the-subject-of-award-winning-thesis.htm
 author: university-of-waikato
+permalink: /archive/2015/11/05/m/index.html
+layout: layout.njk
 ---
 Māori birthing the subject of award-winning thesis
 ==================================================

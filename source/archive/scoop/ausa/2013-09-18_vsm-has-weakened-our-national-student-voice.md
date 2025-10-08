@@ -1,9 +1,12 @@
 ---
 slug: vsm-has-weakened-our-national-student-voice
-title: "VSM Has Weakened Our National Student Voice"
-date: 2013-09-18
-source-url: https://www.scoop.co.nz/stories/PO1309/S00190/vsm-has-weakened-our-national-student-voice.htm
+title: VSM Has Weakened Our National Student Voice
+date: 2013-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1309/S00190/vsm-has-weakened-our-national-student-voice.htm
 author: ausa
+permalink: /archive/2013/09/18/vsm-has-weakened-our-national-student-voice/index.html
+layout: layout.njk
 ---
 VSM Has Weakened Our National Student Voice
 ===========================================

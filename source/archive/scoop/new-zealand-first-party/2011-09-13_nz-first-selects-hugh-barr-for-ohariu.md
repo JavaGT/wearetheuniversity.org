@@ -1,9 +1,12 @@
 ---
 slug: nz-first-selects-hugh-barr-for-ohariu
-title: "NZ First Selects Hugh Barr For Ohariu"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PO1109/S00167/nz-first-selects-hugh-barr-for-ohariu.htm
+title: NZ First Selects Hugh Barr For Ohariu
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00167/nz-first-selects-hugh-barr-for-ohariu.htm
 author: new-zealand-first-party
+permalink: /archive/2011/09/13/nz-first-selects-hugh-barr-for-ohariu/index.html
+layout: layout.njk
 ---
 NZ First Selects Hugh Barr For Ohariu
 =====================================

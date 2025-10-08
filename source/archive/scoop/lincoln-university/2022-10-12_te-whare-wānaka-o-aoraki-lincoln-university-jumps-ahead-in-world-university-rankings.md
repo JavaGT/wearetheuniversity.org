@@ -1,9 +1,15 @@
 ---
-slug: te-whare-wānaka-o-aoraki-lincoln-university-jumps-ahead-in-world-university-rankings
-title: "Te Whare Wānaka O Aoraki Lincoln University Jumps Ahead In World University Rankings"
-date: 2022-10-12
-source-url: https://www.scoop.co.nz/stories/ED2210/S00019/te-whare-wanaka-o-aoraki-lincoln-university-jumps-ahead-in-world-university-rankings.htm
+slug: >-
+  te-whare-wānaka-o-aoraki-lincoln-university-jumps-ahead-in-world-university-rankings
+title: >-
+  Te Whare Wānaka O Aoraki Lincoln University Jumps Ahead In World University
+  Rankings
+date: 2022-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2210/S00019/te-whare-wanaka-o-aoraki-lincoln-university-jumps-ahead-in-world-university-rankings.htm
 author: lincoln-university
+permalink: /archive/2022/10/12/te-whare-w/index.html
+layout: layout.njk
 ---
 Te Whare Wānaka O Aoraki Lincoln University Jumps Ahead In World University Rankings
 ====================================================================================

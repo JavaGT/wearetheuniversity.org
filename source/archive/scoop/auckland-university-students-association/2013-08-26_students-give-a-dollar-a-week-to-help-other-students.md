@@ -1,9 +1,13 @@
 ---
 slug: students-give-a-dollar-a-week-to-help-other-students
-title: "Students Give a Dollar a Week to Help Other Students"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/ED1308/S00119/students-give-a-dollar-a-week-to-help-other-students.htm
+title: Students Give a Dollar a Week to Help Other Students
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00119/students-give-a-dollar-a-week-to-help-other-students.htm
 author: auckland-university-students-association
+permalink: >-
+  /archive/2013/08/26/students-give-a-dollar-a-week-to-help-other-students/index.html
+layout: layout.njk
 ---
 Students Give a Dollar a Week to Help Other Students
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: fuel-poverty-issue-missed-in-muliaga-case
-title: "‘Fuel poverty’ issue missed in Muliaga case"
-date: 2012-06-01
-source-url: https://www.scoop.co.nz/stories/PO1206/S00002/fuel-poverty-issue-missed-in-muliaga-case.htm
+title: ‘Fuel poverty’ issue missed in Muliaga case
+date: 2012-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1206/S00002/fuel-poverty-issue-missed-in-muliaga-case.htm
 author: university-of-otago
+permalink: /archive/2012/06/01/fuel-poverty-issue-missed-in-muliaga-case/index.html
+layout: layout.njk
 ---
 ‘Fuel poverty’ issue missed in Muliaga case
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: schools-face-teacher-supply-crisis
-title: "Schools face teacher supply crisis"
-date: 2003-01-14
-source-url: https://www.scoop.co.nz/stories/PA0301/S00073/schools-face-teacher-supply-crisis.htm
+title: Schools face teacher supply crisis
+date: 2003-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0301/S00073/schools-face-teacher-supply-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/14/schools-face-teacher-supply-crisis/index.html
+layout: layout.njk
 ---
 Schools face teacher supply crisis
 ==================================

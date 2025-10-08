@@ -1,9 +1,13 @@
 ---
 slug: labours-water-policy-wrong-solution-to-the-wrong-problem
-title: "Labour’s water policy: wrong solution to the wrong problem"
-date: 2017-08-10
-source-url: https://www.scoop.co.nz/stories/PO1708/S00219/labours-water-policy-wrong-solution-to-the-wrong-problem.htm
+title: 'Labour’s water policy: wrong solution to the wrong problem'
+date: 2017-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00219/labours-water-policy-wrong-solution-to-the-wrong-problem.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/10/labours-water-policy-wrong-solution-to-the-wrong-problem/index.html
+layout: layout.njk
 ---
 Labour’s water policy: wrong solution to the wrong problem
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: govts-treaty-roadshow-failing-says-academic
-title: "Govt's Treaty Roadshow Failing, Says Academic"
-date: 2007-04-26
-source-url: https://www.scoop.co.nz/stories/ED0704/S00087/govts-treaty-roadshow-failing-says-academic.htm
+title: Govt's Treaty Roadshow Failing, Says Academic
+date: 2007-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0704/S00087/govts-treaty-roadshow-failing-says-academic.htm
 author: aut-university
+permalink: /archive/2007/04/26/govts-treaty-roadshow-failing-says-academic/index.html
+layout: layout.njk
 ---
 Govt's Treaty Roadshow Failing, Says Academic
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: university-announces-partnership-with-student-volunteer-army
-title: "University announces partnership with Student Volunteer Army"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/AK1503/S00699/university-announces-partnership-with-student-volunteer-army.htm
+title: University announces partnership with Student Volunteer Army
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00699/university-announces-partnership-with-student-volunteer-army.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/03/25/university-announces-partnership-with-student-volunteer-army/index.html
+layout: layout.njk
 ---
 University announces partnership with Student Volunteer Army
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: kudos-for-antarctic-researcher
-title: "KuDos for Antarctic researcher"
-date: 2014-10-10
-source-url: https://www.scoop.co.nz/stories/ED1410/S00063/kudos-for-antarctic-researcher.htm
+title: KuDos for Antarctic researcher
+date: 2014-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00063/kudos-for-antarctic-researcher.htm
 author: university-of-waikato
+permalink: /archive/2014/10/10/kudos-for-antarctic-researcher/index.html
+layout: layout.njk
 ---
 KuDos for Antarctic researcher
 ==============================

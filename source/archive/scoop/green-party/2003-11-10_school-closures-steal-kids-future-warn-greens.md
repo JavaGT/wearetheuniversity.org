@@ -1,9 +1,12 @@
 ---
 slug: school-closures-steal-kids-future-warn-greens
-title: "School closures steal kids' future warn Greens"
-date: 2003-11-10
-source-url: https://www.scoop.co.nz/stories/PA0311/S00176/school-closures-steal-kids-future-warn-greens.htm
+title: School closures steal kids' future warn Greens
+date: 2003-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00176/school-closures-steal-kids-future-warn-greens.htm
 author: green-party
+permalink: /archive/2003/11/10/school-closures-steal-kids-future-warn-greens/index.html
+layout: layout.njk
 ---
 School closures steal kids' future warn Greens
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: tolleys-incompetence-results-in-bullying-and-intimidation
-title: "Tolley’s incompetence results in bullying and intimidation"
-date: 2011-09-08
-source-url: https://www.scoop.co.nz/stories/PA1109/S00172/tolleys-incompetence-results-in-bullying-and-intimidation.htm
+title: Tolley’s incompetence results in bullying and intimidation
+date: 2011-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00172/tolleys-incompetence-results-in-bullying-and-intimidation.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/08/tolleys-incompetence-results-in-bullying-and-intimidation/index.html
+layout: layout.njk
 ---
 Tolley’s incompetence results in bullying and intimidation
 ==========================================================

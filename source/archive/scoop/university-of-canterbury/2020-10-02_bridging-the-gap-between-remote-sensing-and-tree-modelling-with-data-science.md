@@ -1,9 +1,13 @@
 ---
 slug: bridging-the-gap-between-remote-sensing-and-tree-modelling-with-data-science
-title: "Bridging The Gap Between Remote Sensing And Tree Modelling With Data Science"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/SC2010/S00006/bridging-the-gap-between-remote-sensing-and-tree-modelling-with-data-science.htm
+title: Bridging The Gap Between Remote Sensing And Tree Modelling With Data Science
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2010/S00006/bridging-the-gap-between-remote-sensing-and-tree-modelling-with-data-science.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/10/02/bridging-the-gap-between-remote-sensing-and-tree-modelling-with-data-science/index.html
+layout: layout.njk
 ---
 Bridging The Gap Between Remote Sensing And Tree Modelling With Data Science
 ============================================================================

@@ -1,9 +1,12 @@
 ---
 slug: hone-harawira-the-budget-and-the-treaty
-title: "Hone Harawira - The Budget and the Treaty"
-date: 2007-05-28
-source-url: https://www.scoop.co.nz/stories/PA0705/S00719/hone-harawira-the-budget-and-the-treaty.htm
+title: Hone Harawira - The Budget and the Treaty
+date: 2007-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00719/hone-harawira-the-budget-and-the-treaty.htm
 author: te-pati-maori
+permalink: /archive/2007/05/28/hone-harawira-the-budget-and-the-treaty/index.html
+layout: layout.njk
 ---
 Hone Harawira - The Budget and the Treaty
 =========================================

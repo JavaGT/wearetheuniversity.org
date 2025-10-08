@@ -1,9 +1,12 @@
 ---
 slug: time-to-invest-in-our-tertiary-education-system
-title: "Time to invest in our tertiary education system"
-date: 2014-08-18
-source-url: https://www.scoop.co.nz/stories/PA1408/S00265/time-to-invest-in-our-tertiary-education-system.htm
+title: Time to invest in our tertiary education system
+date: 2014-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00265/time-to-invest-in-our-tertiary-education-system.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/18/time-to-invest-in-our-tertiary-education-system/index.html
+layout: layout.njk
 ---
 Time to invest in our tertiary education system
 ===============================================

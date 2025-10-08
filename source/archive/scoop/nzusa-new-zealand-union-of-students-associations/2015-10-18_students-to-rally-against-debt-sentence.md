@@ -1,9 +1,12 @@
 ---
 slug: students-to-rally-against-debt-sentence
-title: "Students to rally against Debt Sentence"
-date: 2015-10-18
-source-url: https://www.scoop.co.nz/stories/PO1510/S00281/students-to-rally-against-debt-sentence.htm
+title: Students to rally against Debt Sentence
+date: 2015-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1510/S00281/students-to-rally-against-debt-sentence.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/10/18/students-to-rally-against-debt-sentence/index.html
+layout: layout.njk
 ---
 Students to rally against Debt Sentence
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: lets-introduce-a-railtax
-title: "Let's introduce a Railtax"
-date: 2015-04-09
+title: Let's introduce a Railtax
+date: 2015-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1504/S00102/lets-introduce-a-railtax.htm
 author: act-new-zealand
+permalink: /archive/2015/04/09/lets-introduce-a-railtax/index.html
+layout: layout.njk
 ---
 Let's introduce a Railtax
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: pm-makes-first-visit-to-lincoln-university
-title: "PM makes first visit to Lincoln University"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/ED0403/S00096/pm-makes-first-visit-to-lincoln-university.htm
+title: PM makes first visit to Lincoln University
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00096/pm-makes-first-visit-to-lincoln-university.htm
 author: lincoln-university
+permalink: /archive/2004/03/23/pm-makes-first-visit-to-lincoln-university/index.html
+layout: layout.njk
 ---
 PM makes first visit to Lincoln University
 ==========================================

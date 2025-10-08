@@ -1,9 +1,12 @@
 ---
 slug: response-to-new-atheists-focus-of-conference
-title: "Response to \"New Atheists\" focus of conference"
-date: 2011-08-23
-source-url: https://www.scoop.co.nz/stories/ED1108/S00124/response-to-new-atheists-focus-of-conference.htm
+title: Response to "New Atheists" focus of conference
+date: 2011-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00124/response-to-new-atheists-focus-of-conference.htm
 author: university-of-otago
+permalink: /archive/2011/08/23/response-to-new-atheists-focus-of-conference/index.html
+layout: layout.njk
 ---
 Response to “New Atheists” focus of conference
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: restorative-justice-practices-needed-in-classrooms
-title: "Restorative justice practices needed in classrooms"
-date: 2015-02-06
-source-url: https://www.scoop.co.nz/stories/ED1502/S00021/restorative-justice-practices-needed-in-classrooms.htm
+title: Restorative justice practices needed in classrooms
+date: 2015-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00021/restorative-justice-practices-needed-in-classrooms.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/06/restorative-justice-practices-needed-in-classrooms/index.html
+layout: layout.njk
 ---
 Restorative justice practices needed in classrooms
 ==================================================

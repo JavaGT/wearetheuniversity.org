@@ -1,9 +1,13 @@
 ---
 slug: prebble-seeks-answers-on-people-smuggling-threat
-title: "Prebble Seeks Answers On People Smuggling Threat"
-date: 2002-01-17
-source-url: https://www.scoop.co.nz/stories/PA0201/S00079/prebble-seeks-answers-on-people-smuggling-threat.htm
+title: Prebble Seeks Answers On People Smuggling Threat
+date: 2002-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00079/prebble-seeks-answers-on-people-smuggling-threat.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2002/01/17/prebble-seeks-answers-on-people-smuggling-threat/index.html
+layout: layout.njk
 ---
 Prebble Seeks Answers On People Smuggling Threat
 ================================================

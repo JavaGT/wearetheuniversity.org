@@ -1,9 +1,13 @@
 ---
 slug: capital-gains-tax-will-lift-rents-add-to-living-costs
-title: "Capital Gains Tax will lift rents, add to living costs"
-date: 2018-11-21
-source-url: https://www.scoop.co.nz/stories/PA1811/S00223/capital-gains-tax-will-lift-rents-add-to-living-costs.htm
+title: Capital Gains Tax will lift rents, add to living costs
+date: 2018-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00223/capital-gains-tax-will-lift-rents-add-to-living-costs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/11/21/capital-gains-tax-will-lift-rents-add-to-living-costs/index.html
+layout: layout.njk
 ---
 Capital Gains Tax will lift rents, add to living costs
 ======================================================

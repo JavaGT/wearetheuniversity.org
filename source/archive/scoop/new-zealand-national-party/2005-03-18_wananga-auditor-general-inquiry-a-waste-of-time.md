@@ -1,9 +1,12 @@
 ---
 slug: wananga-auditor-general-inquiry-a-waste-of-time
-title: "Wananga: Auditor-General inquiry a waste of time"
-date: 2005-03-18
-source-url: https://www.scoop.co.nz/stories/PA0503/S00401/wananga-auditor-general-inquiry-a-waste-of-time.htm
+title: 'Wananga: Auditor-General inquiry a waste of time'
+date: 2005-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00401/wananga-auditor-general-inquiry-a-waste-of-time.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/18/wananga-auditor-general-inquiry-a-waste-of-time/index.html
+layout: layout.njk
 ---
 Wananga: Auditor-General inquiry a waste of time
 ================================================

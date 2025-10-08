@@ -1,9 +1,12 @@
 ---
 slug: small-business-report-badly-informed-and-unfair
-title: "Small Business Report Badly-Informed and Unfair"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/BU0408/S00314/small-business-report-badly-informed-and-unfair.htm
+title: Small Business Report Badly-Informed and Unfair
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0408/S00314/small-business-report-badly-informed-and-unfair.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/08/25/small-business-report-badly-informed-and-unfair/index.html
+layout: layout.njk
 ---
 Small Business Report Badly-Informed and Unfair
 ===============================================

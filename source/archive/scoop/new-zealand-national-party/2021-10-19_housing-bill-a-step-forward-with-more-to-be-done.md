@@ -1,9 +1,13 @@
 ---
 slug: housing-bill-a-step-forward-with-more-to-be-done
-title: "Housing Bill A Step Forward, With More To Be Done"
-date: 2021-10-19
-source-url: https://www.scoop.co.nz/stories/PA2110/S00172/housing-bill-a-step-forward-with-more-to-be-done.htm
+title: Housing Bill A Step Forward, With More To Be Done
+date: 2021-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00172/housing-bill-a-step-forward-with-more-to-be-done.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/10/19/housing-bill-a-step-forward-with-more-to-be-done/index.html
+layout: layout.njk
 ---
 Housing Bill A Step Forward, With More To Be Done
 =================================================

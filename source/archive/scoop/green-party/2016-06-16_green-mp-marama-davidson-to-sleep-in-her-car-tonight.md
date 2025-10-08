@@ -1,9 +1,13 @@
 ---
 slug: green-mp-marama-davidson-to-sleep-in-her-car-tonight
-title: "Green MP Marama Davidson to sleep in her car tonight"
-date: 2016-06-16
-source-url: https://www.scoop.co.nz/stories/PA1606/S00279/green-mp-marama-davidson-to-sleep-in-her-car-tonight.htm
+title: Green MP Marama Davidson to sleep in her car tonight
+date: 2016-06-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00279/green-mp-marama-davidson-to-sleep-in-her-car-tonight.htm
 author: green-party
+permalink: >-
+  /archive/2016/06/16/green-mp-marama-davidson-to-sleep-in-her-car-tonight/index.html
+layout: layout.njk
 ---
 Green MP Marama Davidson to sleep in her car tonight
 ====================================================

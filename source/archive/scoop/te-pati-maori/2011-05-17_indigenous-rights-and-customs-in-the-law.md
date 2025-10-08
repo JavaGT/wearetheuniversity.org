@@ -1,9 +1,12 @@
 ---
 slug: indigenous-rights-and-customs-in-the-law
-title: "Indigenous rights and customs in the law"
-date: 2011-05-17
-source-url: https://www.scoop.co.nz/stories/SP1105/S00001/indigenous-rights-and-customs-in-the-law.htm
+title: Indigenous rights and customs in the law
+date: 2011-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1105/S00001/indigenous-rights-and-customs-in-the-law.htm
 author: te-pati-maori
+permalink: /archive/2011/05/17/indigenous-rights-and-customs-in-the-law/index.html
+layout: layout.njk
 ---
 Indigenous rights and customs in the law
 ========================================

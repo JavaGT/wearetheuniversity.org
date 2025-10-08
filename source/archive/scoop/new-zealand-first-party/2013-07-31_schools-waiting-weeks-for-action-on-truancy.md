@@ -1,9 +1,12 @@
 ---
 slug: schools-waiting-weeks-for-action-on-truancy
-title: "Schools Waiting Weeks for Action on Truancy"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/PA1307/S00468/schools-waiting-weeks-for-action-on-truancy.htm
+title: Schools Waiting Weeks for Action on Truancy
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00468/schools-waiting-weeks-for-action-on-truancy.htm
 author: new-zealand-first-party
+permalink: /archive/2013/07/31/schools-waiting-weeks-for-action-on-truancy/index.html
+layout: layout.njk
 ---
 Schools Waiting Weeks for Action on Truancy
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: nz-first-announces-party-list
-title: "NZ First Announces Party List"
-date: 2008-10-15
-source-url: https://www.scoop.co.nz/stories/PA0810/S00336/nz-first-announces-party-list.htm
+title: NZ First Announces Party List
+date: 2008-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00336/nz-first-announces-party-list.htm
 author: new-zealand-first-party
+permalink: /archive/2008/10/15/nz-first-announces-party-list/index.html
+layout: layout.njk
 ---
 NZ First Announces Party List
 =============================

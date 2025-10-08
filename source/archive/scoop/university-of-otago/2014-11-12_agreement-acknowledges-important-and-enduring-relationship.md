@@ -1,9 +1,13 @@
 ---
 slug: agreement-acknowledges-important-and-enduring-relationship
-title: "Agreement acknowledges important and enduring relationship"
-date: 2014-11-12
-source-url: https://www.scoop.co.nz/stories/AK1411/S00255/agreement-acknowledges-important-and-enduring-relationship.htm
+title: Agreement acknowledges important and enduring relationship
+date: 2014-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1411/S00255/agreement-acknowledges-important-and-enduring-relationship.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/11/12/agreement-acknowledges-important-and-enduring-relationship/index.html
+layout: layout.njk
 ---
 Agreement acknowledges important and enduring relationship
 ==========================================================

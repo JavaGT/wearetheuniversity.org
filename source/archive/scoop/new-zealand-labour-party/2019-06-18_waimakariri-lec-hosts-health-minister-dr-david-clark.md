@@ -1,9 +1,13 @@
 ---
 slug: waimakariri-lec-hosts-health-minister-dr-david-clark
-title: "Waimakariri LEC hosts Health Minister, Dr David Clark"
-date: 2019-06-18
-source-url: https://www.scoop.co.nz/stories/PO1906/S00216/waimakariri-lec-hosts-health-minister-dr-david-clark.htm
+title: Waimakariri LEC hosts Health Minister, Dr David Clark
+date: 2019-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1906/S00216/waimakariri-lec-hosts-health-minister-dr-david-clark.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2019/06/18/waimakariri-lec-hosts-health-minister-dr-david-clark/index.html
+layout: layout.njk
 ---
 Waimakariri LEC hosts Health Minister, Dr David Clark
 =====================================================

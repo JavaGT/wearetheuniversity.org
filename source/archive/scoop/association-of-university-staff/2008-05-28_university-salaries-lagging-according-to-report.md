@@ -1,9 +1,12 @@
 ---
 slug: university-salaries-lagging-according-to-report
-title: "University salaries lagging according to report"
-date: 2008-05-28
-source-url: https://www.scoop.co.nz/stories/ED0805/S00121/university-salaries-lagging-according-to-report.htm
+title: University salaries lagging according to report
+date: 2008-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00121/university-salaries-lagging-according-to-report.htm
 author: association-of-university-staff
+permalink: /archive/2008/05/28/university-salaries-lagging-according-to-report/index.html
+layout: layout.njk
 ---
 University salaries lagging according to report
 ===============================================

@@ -1,9 +1,16 @@
 ---
-slug: law-scholarship-recipients-tackle-bias-in-public-decision-making-and-how-to-draw-on-tikanga-māori
-title: "Law Scholarship Recipients Tackle Bias In Public Decision-making And How To Draw On Tikanga Māori"
-date: 2022-06-07
-source-url: https://www.scoop.co.nz/stories/ED2206/S00013/law-scholarship-recipients-tackle-bias-in-public-decision-making-and-how-to-draw-on-tikanga-maori.htm
+slug: >-
+  law-scholarship-recipients-tackle-bias-in-public-decision-making-and-how-to-draw-on-tikanga-māori
+title: >-
+  Law Scholarship Recipients Tackle Bias In Public Decision-making And How To
+  Draw On Tikanga Māori
+date: 2022-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2206/S00013/law-scholarship-recipients-tackle-bias-in-public-decision-making-and-how-to-draw-on-tikanga-maori.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/06/07/law-scholarship-recipients-tackle-bias-in-public-decision-making-and-how-to-draw-on-tikanga-m/index.html
+layout: layout.njk
 ---
 Law Scholarship Recipients Tackle Bias In Public Decision-making And How To Draw On Tikanga Māori
 =================================================================================================

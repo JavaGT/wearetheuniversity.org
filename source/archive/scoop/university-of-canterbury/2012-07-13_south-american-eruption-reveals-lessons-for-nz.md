@@ -1,9 +1,12 @@
 ---
 slug: south-american-eruption-reveals-lessons-for-nz
-title: "South American eruption reveals lessons for NZ"
-date: 2012-07-13
-source-url: https://www.scoop.co.nz/stories/SC1207/S00025/south-american-eruption-reveals-lessons-for-nz.htm
+title: South American eruption reveals lessons for NZ
+date: 2012-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1207/S00025/south-american-eruption-reveals-lessons-for-nz.htm
 author: university-of-canterbury
+permalink: /archive/2012/07/13/south-american-eruption-reveals-lessons-for-nz/index.html
+layout: layout.njk
 ---
 South American eruption reveals lessons for NZ
 ==============================================

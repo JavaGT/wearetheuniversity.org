@@ -1,9 +1,13 @@
 ---
 slug: national-to-lift-quality-of-teaching-and-learning
-title: "National to lift quality of teaching and learning"
-date: 2019-11-13
-source-url: https://www.scoop.co.nz/stories/PA1911/S00095/national-to-lift-quality-of-teaching-and-learning.htm
+title: National to lift quality of teaching and learning
+date: 2019-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00095/national-to-lift-quality-of-teaching-and-learning.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/11/13/national-to-lift-quality-of-teaching-and-learning/index.html
+layout: layout.njk
 ---
 National to lift quality of teaching and learning
 =================================================

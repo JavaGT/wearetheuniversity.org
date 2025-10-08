@@ -1,9 +1,11 @@
 ---
 slug: canterbury-artists-go-green!
-title: "Canterbury Artists Go Green!"
-date: 2004-11-25
+title: Canterbury Artists Go Green!
+date: 2004-11-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0411/S00564/canterbury-artists-go-green.htm
 author: green-party
+permalink: /archive/2004/11/25/canterbury-artists-go-green/index.html
+layout: layout.njk
 ---
 Canterbury Artists Go Green!
 ============================

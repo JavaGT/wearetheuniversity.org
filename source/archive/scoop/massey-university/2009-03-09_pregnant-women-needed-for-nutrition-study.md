@@ -1,9 +1,12 @@
 ---
 slug: pregnant-women-needed-for-nutrition-study
-title: "Pregnant women needed for nutrition study"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/GE0903/S00043/pregnant-women-needed-for-nutrition-study.htm
+title: Pregnant women needed for nutrition study
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0903/S00043/pregnant-women-needed-for-nutrition-study.htm
 author: massey-university
+permalink: /archive/2009/03/09/pregnant-women-needed-for-nutrition-study/index.html
+layout: layout.njk
 ---
 Pregnant women needed for nutrition study
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: its-time-government-gave-compass-the-boot
-title: "It’s Time Government Gave Compass the Boot"
-date: 2016-09-08
-source-url: https://www.scoop.co.nz/stories/PA1609/S00134/its-time-government-gave-compass-the-boot.htm
+title: It’s Time Government Gave Compass the Boot
+date: 2016-09-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00134/its-time-government-gave-compass-the-boot.htm
 author: new-zealand-first-party
+permalink: /archive/2016/09/08/its-time-government-gave-compass-the-boot/index.html
+layout: layout.njk
 ---
 It’s Time Government Gave Compass the Boot
 ==========================================

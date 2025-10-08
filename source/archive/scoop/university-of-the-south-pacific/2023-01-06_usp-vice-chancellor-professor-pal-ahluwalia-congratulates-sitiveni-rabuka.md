@@ -1,9 +1,13 @@
 ---
 slug: usp-vice-chancellor-professor-pal-ahluwalia-congratulates-sitiveni-rabuka
-title: "USP Vice-Chancellor Professor Pal Ahluwalia Congratulates Sitiveni Rabuka"
-date: 2023-01-06
-source-url: https://www.scoop.co.nz/stories/WO2301/S00013/usp-vice-chancellor-professor-pal-ahluwalia-congratulates-sitiveni-rabuka.htm
+title: USP Vice-Chancellor Professor Pal Ahluwalia Congratulates Sitiveni Rabuka
+date: 2023-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2301/S00013/usp-vice-chancellor-professor-pal-ahluwalia-congratulates-sitiveni-rabuka.htm
 author: university-of-the-south-pacific
+permalink: >-
+  /archive/2023/01/06/usp-vice-chancellor-professor-pal-ahluwalia-congratulates-sitiveni-rabuka/index.html
+layout: layout.njk
 ---
 USP Vice-Chancellor Professor Pal Ahluwalia Congratulates Sitiveni Rabuka
 =========================================================================

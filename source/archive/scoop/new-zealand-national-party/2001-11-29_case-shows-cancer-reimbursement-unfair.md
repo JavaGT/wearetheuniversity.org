@@ -1,9 +1,12 @@
 ---
 slug: case-shows-cancer-reimbursement-unfair
-title: "Case Shows Cancer Reimbursement Unfair"
-date: 2001-11-29
-source-url: https://www.scoop.co.nz/stories/PA0111/S00498/case-shows-cancer-reimbursement-unfair.htm
+title: Case Shows Cancer Reimbursement Unfair
+date: 2001-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00498/case-shows-cancer-reimbursement-unfair.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/29/case-shows-cancer-reimbursement-unfair/index.html
+layout: layout.njk
 ---
 Case Shows Cancer Reimbursement Unfair
 ======================================

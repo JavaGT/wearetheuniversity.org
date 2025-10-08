@@ -1,9 +1,13 @@
 ---
 slug: aut-launches-online-masters-in-hospitality-managmt
-title: "AUT launches online Masters in hospitality managmt"
-date: 2005-11-25
-source-url: https://www.scoop.co.nz/stories/ED0511/S00085/aut-launches-online-masters-in-hospitality-managmt.htm
+title: AUT launches online Masters in hospitality managmt
+date: 2005-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00085/aut-launches-online-masters-in-hospitality-managmt.htm
 author: aut-university
+permalink: >-
+  /archive/2005/11/25/aut-launches-online-masters-in-hospitality-managmt/index.html
+layout: layout.njk
 ---
 AUT launches online Masters in hospitality managmt
 ==================================================

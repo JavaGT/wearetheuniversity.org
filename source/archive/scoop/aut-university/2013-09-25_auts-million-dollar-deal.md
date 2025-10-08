@@ -1,9 +1,11 @@
 ---
 slug: auts-million-dollar-deal
-title: "AUT’s million dollar deal"
-date: 2013-09-25
+title: AUT’s million dollar deal
+date: 2013-09-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1309/S00931/auts-million-dollar-deal.htm
 author: aut-university
+permalink: /archive/2013/09/25/auts-million-dollar-deal/index.html
+layout: layout.njk
 ---
 AUT’s million dollar deal
 =========================

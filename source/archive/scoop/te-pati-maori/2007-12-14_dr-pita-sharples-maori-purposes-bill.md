@@ -1,9 +1,12 @@
 ---
 slug: dr-pita-sharples-maori-purposes-bill
-title: "Dr Pita Sharples - Maori Purposes Bill"
-date: 2007-12-14
-source-url: https://www.scoop.co.nz/stories/PA0712/S00320/dr-pita-sharples-maori-purposes-bill.htm
+title: Dr Pita Sharples - Maori Purposes Bill
+date: 2007-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00320/dr-pita-sharples-maori-purposes-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/12/14/dr-pita-sharples-maori-purposes-bill/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples - Maori Purposes Bill
 ======================================

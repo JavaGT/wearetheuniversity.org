@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-maori-television-bill-speech
-title: "Winston Peters Maori Television Bill Speech"
-date: 2001-12-07
-source-url: https://www.scoop.co.nz/stories/PA0112/S00114/winston-peters-maori-television-bill-speech.htm
+title: Winston Peters Maori Television Bill Speech
+date: 2001-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00114/winston-peters-maori-television-bill-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2001/12/07/winston-peters-maori-television-bill-speech/index.html
+layout: layout.njk
 ---
 Winston Peters Maori Television Bill Speech
 ===========================================

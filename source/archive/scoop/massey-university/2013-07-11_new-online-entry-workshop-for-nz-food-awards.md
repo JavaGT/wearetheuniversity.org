@@ -1,9 +1,12 @@
 ---
 slug: new-online-entry-workshop-for-nz-food-awards
-title: "New online entry workshop for NZ Food Awards"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/CU1307/S00218/new-online-entry-workshop-for-nz-food-awards.htm
+title: New online entry workshop for NZ Food Awards
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00218/new-online-entry-workshop-for-nz-food-awards.htm
 author: massey-university
+permalink: /archive/2013/07/11/new-online-entry-workshop-for-nz-food-awards/index.html
+layout: layout.njk
 ---
 New online entry workshop for NZ Food Awards
 ============================================

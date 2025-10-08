@@ -1,9 +1,12 @@
 ---
 slug: first-polytech-president-as-president-of-nzusa
-title: "First Polytech President as President of NZUSA"
-date: 2011-12-12
-source-url: https://www.scoop.co.nz/stories/ED1112/S00062/first-polytech-president-as-president-of-nzusa.htm
+title: First Polytech President as President of NZUSA
+date: 2011-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00062/first-polytech-president-as-president-of-nzusa.htm
 author: unitec-student-union
+permalink: /archive/2011/12/12/first-polytech-president-as-president-of-nzusa/index.html
+layout: layout.njk
 ---
 First Polytech President as President of NZUSA
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: spending-pre-election-cutting-post-election
-title: "Spending pre-election, cutting post-election"
-date: 1999-10-18
-source-url: https://www.scoop.co.nz/stories/PA9910/S00379/spending-pre-election-cutting-post-election.htm
+title: Spending pre-election, cutting post-election
+date: 1999-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00379/spending-pre-election-cutting-post-election.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/18/spending-pre-election-cutting-post-election/index.html
+layout: layout.njk
 ---
 Spending pre-election, cutting post-election
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: brownlee-address-to-northern-regional-conference
-title: "Brownlee Address To Northern Regional Conference"
-date: 2004-05-17
-source-url: https://www.scoop.co.nz/stories/PA0405/S00330/brownlee-address-to-northern-regional-conference.htm
+title: Brownlee Address To Northern Regional Conference
+date: 2004-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00330/brownlee-address-to-northern-regional-conference.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/05/17/brownlee-address-to-northern-regional-conference/index.html
+layout: layout.njk
 ---
 Brownlee Address To Northern Regional Conference
 ================================================

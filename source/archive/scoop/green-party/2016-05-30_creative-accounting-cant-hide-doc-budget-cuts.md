@@ -1,9 +1,12 @@
 ---
 slug: creative-accounting-cant-hide-doc-budget-cuts
-title: "Creative accounting can’t hide DOC budget cuts"
-date: 2016-05-30
-source-url: https://www.scoop.co.nz/stories/PA1605/S00625/creative-accounting-cant-hide-doc-budget-cuts.htm
+title: Creative accounting can’t hide DOC budget cuts
+date: 2016-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00625/creative-accounting-cant-hide-doc-budget-cuts.htm
 author: green-party
+permalink: /archive/2016/05/30/creative-accounting-cant-hide-doc-budget-cuts/index.html
+layout: layout.njk
 ---
 Creative accounting can’t hide DOC budget cuts
 ==============================================

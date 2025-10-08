@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcome-behrouz-boochani-to-new-zealand
-title: "Green Party welcome Behrouz Boochani to New Zealand"
-date: 2019-11-15
-source-url: https://www.scoop.co.nz/stories/PA1911/S00125/green-party-welcome-behrouz-boochani-to-new-zealand.htm
+title: Green Party welcome Behrouz Boochani to New Zealand
+date: 2019-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1911/S00125/green-party-welcome-behrouz-boochani-to-new-zealand.htm
 author: green-party
+permalink: >-
+  /archive/2019/11/15/green-party-welcome-behrouz-boochani-to-new-zealand/index.html
+layout: layout.njk
 ---
 Green Party welcome Behrouz Boochani to New Zealand
 ===================================================

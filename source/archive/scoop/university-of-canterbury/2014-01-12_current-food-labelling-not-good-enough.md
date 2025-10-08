@@ -1,9 +1,12 @@
 ---
 slug: current-food-labelling-not-good-enough
-title: "Current food labelling not good enough"
-date: 2014-01-12
-source-url: https://www.scoop.co.nz/stories/GE1401/S00025/current-food-labelling-not-good-enough.htm
+title: Current food labelling not good enough
+date: 2014-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1401/S00025/current-food-labelling-not-good-enough.htm
 author: university-of-canterbury
+permalink: /archive/2014/01/12/current-food-labelling-not-good-enough/index.html
+layout: layout.njk
 ---
 Current food labelling not good enough
 ======================================

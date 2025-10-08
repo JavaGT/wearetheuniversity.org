@@ -1,9 +1,13 @@
 ---
 slug: nz-getting-smashed-in-trans-tasman-mortgage-battle
-title: "NZ Getting Smashed In Trans-tasman Mortgage Battle"
-date: 2023-04-05
-source-url: https://www.scoop.co.nz/stories/PA2304/S00026/nz-getting-smashed-in-trans-tasman-mortgage-battle.htm
+title: NZ Getting Smashed In Trans-tasman Mortgage Battle
+date: 2023-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2304/S00026/nz-getting-smashed-in-trans-tasman-mortgage-battle.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/04/05/nz-getting-smashed-in-trans-tasman-mortgage-battle/index.html
+layout: layout.njk
 ---
 NZ Getting Smashed In Trans-tasman Mortgage Battle
 ==================================================

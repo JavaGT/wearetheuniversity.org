@@ -1,9 +1,12 @@
 ---
 slug: report-shows-need-for-child-poverty-policy
-title: "Report shows need for child poverty policy"
-date: 2011-08-14
-source-url: https://www.scoop.co.nz/stories/PA1108/S00269/report-shows-need-for-child-poverty-policy.htm
+title: Report shows need for child poverty policy
+date: 2011-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00269/report-shows-need-for-child-poverty-policy.htm
 author: green-party
+permalink: /archive/2011/08/14/report-shows-need-for-child-poverty-policy/index.html
+layout: layout.njk
 ---
 Report shows need for child poverty policy
 ==========================================

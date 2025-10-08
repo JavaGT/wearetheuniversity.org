@@ -1,9 +1,13 @@
 ---
 slug: aut-vice-chancellor-receives-prestigious-university-award-for-leadership
-title: "AUT Vice-Chancellor Receives Prestigious University Award For Leadership"
-date: 2022-02-23
-source-url: https://www.scoop.co.nz/stories/ED2202/S00034/aut-vice-chancellor-receives-prestigious-university-award-for-leadership.htm
+title: AUT Vice-Chancellor Receives Prestigious University Award For Leadership
+date: 2022-02-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00034/aut-vice-chancellor-receives-prestigious-university-award-for-leadership.htm
 author: aut-university
+permalink: >-
+  /archive/2022/02/23/aut-vice-chancellor-receives-prestigious-university-award-for-leadership/index.html
+layout: layout.njk
 ---
 AUT Vice-Chancellor Receives Prestigious University Award For Leadership
 ========================================================================

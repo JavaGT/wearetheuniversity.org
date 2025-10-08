@@ -1,9 +1,13 @@
 ---
 slug: brash-speech-a-more-equal-and-innovative-education-system
-title: "Brash Speech: A More Equal and Innovative Education System"
-date: 2011-11-17
-source-url: https://www.scoop.co.nz/stories/PA1111/S00340/brash-speech-a-more-equal-and-innovative-education-system.htm
+title: 'Brash Speech: A More Equal and Innovative Education System'
+date: 2011-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00340/brash-speech-a-more-equal-and-innovative-education-system.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2011/11/17/brash-speech-a-more-equal-and-innovative-education-system/index.html
+layout: layout.njk
 ---
 Brash Speech: A More Equal and Innovative Education System
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: crohns-study-looks-at-genetic-lifestyle-factors
-title: "Crohn's Study Looks at Genetic, Lifestyle Factors"
-date: 2005-10-11
-source-url: https://www.scoop.co.nz/stories/GE0510/S00031/crohns-study-looks-at-genetic-lifestyle-factors.htm
+title: Crohn's Study Looks at Genetic, Lifestyle Factors
+date: 2005-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0510/S00031/crohns-study-looks-at-genetic-lifestyle-factors.htm
 author: auckland-university
+permalink: /archive/2005/10/11/crohns-study-looks-at-genetic-lifestyle-factors/index.html
+layout: layout.njk
 ---
 Crohn's Study Looks at Genetic, Lifestyle Factors
 =================================================

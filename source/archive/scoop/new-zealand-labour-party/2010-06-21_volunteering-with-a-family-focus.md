@@ -1,9 +1,12 @@
 ---
 slug: volunteering-with-a-family-focus
-title: "Volunteering with a family focus"
-date: 2010-06-21
-source-url: https://www.scoop.co.nz/stories/AK1006/S00240/volunteering-with-a-family-focus.htm
+title: Volunteering with a family focus
+date: 2010-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1006/S00240/volunteering-with-a-family-focus.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/21/volunteering-with-a-family-focus/index.html
+layout: layout.njk
 ---
 Volunteering with a family focus
 ================================

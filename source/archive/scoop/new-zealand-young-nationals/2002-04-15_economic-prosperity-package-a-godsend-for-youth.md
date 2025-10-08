@@ -1,9 +1,12 @@
 ---
 slug: economic-prosperity-package-a-godsend-for-youth
-title: "Economic Prosperity Package A Godsend For Youth"
-date: 2002-04-15
-source-url: https://www.scoop.co.nz/stories/PO0204/S00083/economic-prosperity-package-a-godsend-for-youth.htm
+title: Economic Prosperity Package A Godsend For Youth
+date: 2002-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0204/S00083/economic-prosperity-package-a-godsend-for-youth.htm
 author: new-zealand-young-nationals
+permalink: /archive/2002/04/15/economic-prosperity-package-a-godsend-for-youth/index.html
+layout: layout.njk
 ---
 Economic Prosperity Package A Godsend For Youth
 ===============================================

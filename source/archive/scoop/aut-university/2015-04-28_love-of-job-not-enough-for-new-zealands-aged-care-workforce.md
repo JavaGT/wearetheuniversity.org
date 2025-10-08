@@ -1,9 +1,13 @@
 ---
 slug: love-of-job-not-enough-for-new-zealands-aged-care-workforce
-title: "Love of job not enough for New Zealand’s aged care workforce"
-date: 2015-04-28
-source-url: https://www.scoop.co.nz/stories/GE1504/S00116/love-of-job-not-enough-for-new-zealands-aged-care-workforce.htm
+title: Love of job not enough for New Zealand’s aged care workforce
+date: 2015-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1504/S00116/love-of-job-not-enough-for-new-zealands-aged-care-workforce.htm
 author: aut-university
+permalink: >-
+  /archive/2015/04/28/love-of-job-not-enough-for-new-zealands-aged-care-workforce/index.html
+layout: layout.njk
 ---
 Love of job not enough for New Zealand’s aged care workforce
 ============================================================

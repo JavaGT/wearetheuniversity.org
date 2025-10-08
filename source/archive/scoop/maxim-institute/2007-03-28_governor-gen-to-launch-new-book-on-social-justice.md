@@ -1,9 +1,13 @@
 ---
 slug: governor-gen-to-launch-new-book-on-social-justice
-title: "Governor-Gen to Launch New Book on Social Justice"
-date: 2007-03-28
-source-url: https://www.scoop.co.nz/stories/PO0703/S00362/governor-gen-to-launch-new-book-on-social-justice.htm
+title: Governor-Gen to Launch New Book on Social Justice
+date: 2007-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0703/S00362/governor-gen-to-launch-new-book-on-social-justice.htm
 author: maxim-institute
+permalink: >-
+  /archive/2007/03/28/governor-gen-to-launch-new-book-on-social-justice/index.html
+layout: layout.njk
 ---
 Governor-Gen to Launch New Book on Social Justice
 =================================================

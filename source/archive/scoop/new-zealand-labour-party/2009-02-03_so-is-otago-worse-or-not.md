@@ -1,9 +1,11 @@
 ---
 slug: so-is-otago-worse-or-not
-title: "So is Otago worse or not?"
-date: 2009-02-03
+title: So is Otago worse or not?
+date: 2009-02-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0902/S00032/so-is-otago-worse-or-not.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/02/03/so-is-otago-worse-or-not/index.html
+layout: layout.njk
 ---
 So is Otago worse or not?
 =========================

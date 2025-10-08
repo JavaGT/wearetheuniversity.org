@@ -1,9 +1,13 @@
 ---
 slug: symposium-sets-sights-on-equity-through-education
-title: "Symposium sets sights on equity through education"
-date: 2016-01-29
-source-url: https://www.scoop.co.nz/stories/ED1601/S00047/symposium-sets-sights-on-equity-through-education.htm
+title: Symposium sets sights on equity through education
+date: 2016-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1601/S00047/symposium-sets-sights-on-equity-through-education.htm
 author: massey-university
+permalink: >-
+  /archive/2016/01/29/symposium-sets-sights-on-equity-through-education/index.html
+layout: layout.njk
 ---
 Symposium sets sights on equity through education
 =================================================

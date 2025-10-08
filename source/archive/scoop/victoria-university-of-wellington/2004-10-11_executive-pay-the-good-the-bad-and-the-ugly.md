@@ -1,9 +1,12 @@
 ---
 slug: executive-pay-the-good-the-bad-and-the-ugly
-title: "Executive pay: the good, the bad and the ugly"
-date: 2004-10-11
-source-url: https://www.scoop.co.nz/stories/ED0410/S00035/executive-pay-the-good-the-bad-and-the-ugly.htm
+title: 'Executive pay: the good, the bad and the ugly'
+date: 2004-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00035/executive-pay-the-good-the-bad-and-the-ugly.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/10/11/executive-pay-the-good-the-bad-and-the-ugly/index.html
+layout: layout.njk
 ---
 Executive pay: the good, the bad and the ugly
 =============================================

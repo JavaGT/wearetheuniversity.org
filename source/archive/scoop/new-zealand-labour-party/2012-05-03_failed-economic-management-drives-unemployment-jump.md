@@ -1,9 +1,13 @@
 ---
 slug: failed-economic-management-drives-unemployment-jump
-title: "Failed economic management drives unemployment jump"
-date: 2012-05-03
-source-url: https://www.scoop.co.nz/stories/PA1205/S00065/failed-economic-management-drives-unemployment-jump.htm
+title: Failed economic management drives unemployment jump
+date: 2012-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00065/failed-economic-management-drives-unemployment-jump.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/05/03/failed-economic-management-drives-unemployment-jump/index.html
+layout: layout.njk
 ---
 Failed economic management drives unemployment jump
 ===================================================

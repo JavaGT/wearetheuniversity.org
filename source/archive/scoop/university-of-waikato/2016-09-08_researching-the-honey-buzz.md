@@ -1,9 +1,11 @@
 ---
 slug: researching-the-honey-buzz
-title: "Researching the honey buzz"
-date: 2016-09-08
+title: Researching the honey buzz
+date: 2016-09-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1609/S00028/researching-the-honey-buzz.htm
 author: university-of-waikato
+permalink: /archive/2016/09/08/researching-the-honey-buzz/index.html
+layout: layout.njk
 ---
 Researching the honey buzz
 ==========================

@@ -1,9 +1,12 @@
 ---
 slug: khylee-quince-new-zealands-first-māori-dean-of-law
-title: "Khylee Quince New Zealand’s First Māori Dean Of Law"
-date: 2021-09-28
-source-url: https://www.scoop.co.nz/stories/ED2109/S00040/khylee-quince-new-zealands-first-maori-dean-of-law.htm
+title: Khylee Quince New Zealand’s First Māori Dean Of Law
+date: 2021-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2109/S00040/khylee-quince-new-zealands-first-maori-dean-of-law.htm
 author: aut-university
+permalink: /archive/2021/09/28/khylee-quince-new-zealands-first-m/index.html
+layout: layout.njk
 ---
 Khylee Quince New Zealand’s First Māori Dean Of Law
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-night-out-in-town-with-uc-researchers
-title: "A night out in town with UC researchers"
-date: 2007-09-28
-source-url: https://www.scoop.co.nz/stories/ED0709/S00094/a-night-out-in-town-with-uc-researchers.htm
+title: A night out in town with UC researchers
+date: 2007-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0709/S00094/a-night-out-in-town-with-uc-researchers.htm
 author: university-of-canterbury
+permalink: /archive/2007/09/28/a-night-out-in-town-with-uc-researchers/index.html
+layout: layout.njk
 ---
 A night out in town with UC researchers
 =======================================

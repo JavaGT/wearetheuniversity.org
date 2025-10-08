@@ -1,9 +1,12 @@
 ---
 slug: health-officials-selected-police-commissioner
-title: "Health officials selected Police Commissioner"
-date: 2006-05-04
-source-url: https://www.scoop.co.nz/stories/PA0605/S00121/health-officials-selected-police-commissioner.htm
+title: Health officials selected Police Commissioner
+date: 2006-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00121/health-officials-selected-police-commissioner.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/04/health-officials-selected-police-commissioner/index.html
+layout: layout.njk
 ---
 Health officials selected Police Commissioner
 =============================================

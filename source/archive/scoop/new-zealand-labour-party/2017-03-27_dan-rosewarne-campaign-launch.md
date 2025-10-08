@@ -1,9 +1,12 @@
 ---
 slug: dan-rosewarne-campaign-launch
-title: "Dan Rosewarne - Campaign Launch"
-date: 2017-03-27
-source-url: https://www.scoop.co.nz/stories/PO1703/S00335/dan-rosewarne-campaign-launch.htm
+title: Dan Rosewarne - Campaign Launch
+date: 2017-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00335/dan-rosewarne-campaign-launch.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/03/27/dan-rosewarne-campaign-launch/index.html
+layout: layout.njk
 ---
 Dan Rosewarne - Campaign Launch
 ===============================

@@ -1,4 +1,4 @@
----
+permalink: "/record/index.html"
 slug: 'record'
 title: 'Record'
 ---

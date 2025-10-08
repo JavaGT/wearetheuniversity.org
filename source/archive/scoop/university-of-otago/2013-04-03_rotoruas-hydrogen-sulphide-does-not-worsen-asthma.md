@@ -1,9 +1,13 @@
 ---
 slug: rotoruas-hydrogen-sulphide-does-not-worsen-asthma
-title: "Rotorua’s Hydrogen Sulphide Does Not Worsen Asthma"
-date: 2013-04-03
-source-url: https://www.scoop.co.nz/stories/ED1304/S00004/rotoruas-hydrogen-sulphide-does-not-worsen-asthma.htm
+title: Rotorua’s Hydrogen Sulphide Does Not Worsen Asthma
+date: 2013-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00004/rotoruas-hydrogen-sulphide-does-not-worsen-asthma.htm
 author: university-of-otago
+permalink: >-
+  /archive/2013/04/03/rotoruas-hydrogen-sulphide-does-not-worsen-asthma/index.html
+layout: layout.njk
 ---
 Rotorua’s Hydrogen Sulphide Does Not Worsen Asthma
 ==================================================

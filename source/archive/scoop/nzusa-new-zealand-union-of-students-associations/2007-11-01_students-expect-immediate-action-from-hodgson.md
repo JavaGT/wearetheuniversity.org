@@ -1,9 +1,12 @@
 ---
 slug: students-expect-immediate-action-from-hodgson
-title: "Students expect immediate action from Hodgson"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/ED0711/S00002/students-expect-immediate-action-from-hodgson.htm
+title: Students expect immediate action from Hodgson
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00002/students-expect-immediate-action-from-hodgson.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2007/11/01/students-expect-immediate-action-from-hodgson/index.html
+layout: layout.njk
 ---
 Students expect immediate action from Hodgson
 =============================================

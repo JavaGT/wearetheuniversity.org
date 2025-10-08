@@ -1,9 +1,13 @@
 ---
 slug: act-welcomes-nationals-support-for-royal-commission
-title: "ACT welcomes National’s support for Royal Commission"
-date: 2019-03-24
-source-url: https://www.scoop.co.nz/stories/PA1903/S00144/act-welcomes-nationals-support-for-royal-commission.htm
+title: ACT welcomes National’s support for Royal Commission
+date: 2019-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00144/act-welcomes-nationals-support-for-royal-commission.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2019/03/24/act-welcomes-nationals-support-for-royal-commission/index.html
+layout: layout.njk
 ---
 ACT welcomes National’s support for Royal Commission
 ====================================================

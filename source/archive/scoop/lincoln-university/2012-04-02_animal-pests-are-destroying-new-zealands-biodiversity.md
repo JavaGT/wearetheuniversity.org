@@ -1,9 +1,13 @@
 ---
 slug: animal-pests-are-destroying-new-zealands-biodiversity
-title: "Animal pests are destroying New Zealand’s biodiversity"
-date: 2012-04-02
-source-url: https://www.scoop.co.nz/stories/SC1204/S00002/animal-pests-are-destroying-new-zealands-biodiversity.htm
+title: Animal pests are destroying New Zealand’s biodiversity
+date: 2012-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1204/S00002/animal-pests-are-destroying-new-zealands-biodiversity.htm
 author: lincoln-university
+permalink: >-
+  /archive/2012/04/02/animal-pests-are-destroying-new-zealands-biodiversity/index.html
+layout: layout.njk
 ---
 Animal pests are destroying New Zealand’s biodiversity
 ======================================================

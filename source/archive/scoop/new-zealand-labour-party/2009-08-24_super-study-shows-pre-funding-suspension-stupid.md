@@ -1,9 +1,12 @@
 ---
 slug: super-study-shows-pre-funding-suspension-stupid
-title: "Super study shows pre-funding suspension stupid"
-date: 2009-08-24
-source-url: https://www.scoop.co.nz/stories/PA0908/S00339/super-study-shows-pre-funding-suspension-stupid.htm
+title: Super study shows pre-funding suspension stupid
+date: 2009-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0908/S00339/super-study-shows-pre-funding-suspension-stupid.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/08/24/super-study-shows-pre-funding-suspension-stupid/index.html
+layout: layout.njk
 ---
 Super study shows pre-funding suspension stupid
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: follow-salisburys-lead-says-nz-first
-title: "Follow Salisbury’s Lead Says NZ First"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/PA1305/S00457/follow-salisburys-lead-says-nz-first.htm
+title: Follow Salisbury’s Lead Says NZ First
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00457/follow-salisburys-lead-says-nz-first.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/22/follow-salisburys-lead-says-nz-first/index.html
+layout: layout.njk
 ---
 Follow Salisbury’s Lead Says NZ First
 =====================================

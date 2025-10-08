@@ -1,9 +1,12 @@
 ---
 slug: vice-chancellor-must-apologise-to-parents
-title: "Vice Chancellor Must Apologise To Parents"
-date: 2001-07-04
-source-url: https://www.scoop.co.nz/stories/PA0107/S00048/vice-chancellor-must-apologise-to-parents.htm
+title: Vice Chancellor Must Apologise To Parents
+date: 2001-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00048/vice-chancellor-must-apologise-to-parents.htm
 author: act-new-zealand
+permalink: /archive/2001/07/04/vice-chancellor-must-apologise-to-parents/index.html
+layout: layout.njk
 ---
 Vice Chancellor Must Apologise To Parents
 =========================================

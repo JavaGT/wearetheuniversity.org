@@ -1,9 +1,13 @@
 ---
 slug: drop-out-tracking-system-causes-minister-to-recant
-title: "Drop-out Tracking System Causes Minister to Recant"
-date: 2001-10-03
-source-url: https://www.scoop.co.nz/stories/PA0110/S00049/drop-out-tracking-system-causes-minister-to-recant.htm
+title: Drop-out Tracking System Causes Minister to Recant
+date: 2001-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00049/drop-out-tracking-system-causes-minister-to-recant.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/10/03/drop-out-tracking-system-causes-minister-to-recant/index.html
+layout: layout.njk
 ---
 Drop-out Tracking System Causes Minister to Recant
 ==================================================

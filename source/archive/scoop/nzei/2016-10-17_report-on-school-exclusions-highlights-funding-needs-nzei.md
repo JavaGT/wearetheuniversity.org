@@ -1,9 +1,13 @@
 ---
 slug: report-on-school-exclusions-highlights-funding-needs-nzei
-title: "Report on school exclusions highlights funding needs - NZEI"
-date: 2016-10-17
-source-url: https://www.scoop.co.nz/stories/ED1610/S00055/report-on-school-exclusions-highlights-funding-needs-nzei.htm
+title: Report on school exclusions highlights funding needs - NZEI
+date: 2016-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00055/report-on-school-exclusions-highlights-funding-needs-nzei.htm
 author: nzei
+permalink: >-
+  /archive/2016/10/17/report-on-school-exclusions-highlights-funding-needs-nzei/index.html
+layout: layout.njk
 ---
 Report on school exclusions highlights funding needs - NZEI
 ===========================================================

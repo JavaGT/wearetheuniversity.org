@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-focus-on-student-places-in-auckland
-title: "Govt needs to focus on student places in Auckland"
-date: 2019-04-24
-source-url: https://www.scoop.co.nz/stories/PA1904/S00197/govt-needs-to-focus-on-student-places-in-auckland.htm
+title: Govt needs to focus on student places in Auckland
+date: 2019-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00197/govt-needs-to-focus-on-student-places-in-auckland.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/24/govt-needs-to-focus-on-student-places-in-auckland/index.html
+layout: layout.njk
 ---
 Govt needs to focus on student places in Auckland
 =================================================

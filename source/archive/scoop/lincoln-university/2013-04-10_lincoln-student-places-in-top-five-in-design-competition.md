@@ -1,9 +1,13 @@
 ---
 slug: lincoln-student-places-in-top-five-in-design-competition
-title: "Lincoln Student Places In Top Five In Design Competition"
-date: 2013-04-10
-source-url: https://www.scoop.co.nz/stories/ED1304/S00045/lincoln-student-places-in-top-five-in-design-competition.htm
+title: Lincoln Student Places In Top Five In Design Competition
+date: 2013-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00045/lincoln-student-places-in-top-five-in-design-competition.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/04/10/lincoln-student-places-in-top-five-in-design-competition/index.html
+layout: layout.njk
 ---
 Lincoln Student Places In Top Five In Design Competition
 ========================================================

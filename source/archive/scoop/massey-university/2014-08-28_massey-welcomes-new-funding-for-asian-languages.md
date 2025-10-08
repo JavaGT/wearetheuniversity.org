@@ -1,9 +1,12 @@
 ---
 slug: massey-welcomes-new-funding-for-asian-languages
-title: "Massey welcomes new funding for Asian languages"
-date: 2014-08-28
-source-url: https://www.scoop.co.nz/stories/ED1408/S00150/massey-welcomes-new-funding-for-asian-languages.htm
+title: Massey welcomes new funding for Asian languages
+date: 2014-08-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00150/massey-welcomes-new-funding-for-asian-languages.htm
 author: massey-university
+permalink: /archive/2014/08/28/massey-welcomes-new-funding-for-asian-languages/index.html
+layout: layout.njk
 ---
 Massey welcomes new funding for Asian languages
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-educate-vietnamese-info-managers
-title: "Victoria To Educate Vietnamese Info Managers"
-date: 2003-06-10
-source-url: https://www.scoop.co.nz/stories/ED0306/S00010/victoria-to-educate-vietnamese-info-managers.htm
+title: Victoria To Educate Vietnamese Info Managers
+date: 2003-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00010/victoria-to-educate-vietnamese-info-managers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/10/victoria-to-educate-vietnamese-info-managers/index.html
+layout: layout.njk
 ---
 Victoria To Educate Vietnamese Info Managers
 ============================================

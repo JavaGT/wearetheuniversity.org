@@ -1,9 +1,12 @@
 ---
 slug: special-education-field-staff-ratify-pay-deal
-title: "Special Education Field Staff Ratify Pay Deal"
-date: 2003-11-06
-source-url: https://www.scoop.co.nz/stories/ED0311/S00024/special-education-field-staff-ratify-pay-deal.htm
+title: Special Education Field Staff Ratify Pay Deal
+date: 2003-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00024/special-education-field-staff-ratify-pay-deal.htm
 author: nzei
+permalink: /archive/2003/11/06/special-education-field-staff-ratify-pay-deal/index.html
+layout: layout.njk
 ---
 Special Education Field Staff Ratify Pay Deal
 =============================================

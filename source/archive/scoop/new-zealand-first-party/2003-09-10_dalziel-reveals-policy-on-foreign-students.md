@@ -1,9 +1,12 @@
 ---
 slug: dalziel-reveals-policy-on-foreign-students
-title: "Dalziel Reveals Policy On Foreign Students"
-date: 2003-09-10
-source-url: https://www.scoop.co.nz/stories/PA0309/S00216/dalziel-reveals-policy-on-foreign-students.htm
+title: Dalziel Reveals Policy On Foreign Students
+date: 2003-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00216/dalziel-reveals-policy-on-foreign-students.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/10/dalziel-reveals-policy-on-foreign-students/index.html
+layout: layout.njk
 ---
 Dalziel Reveals Policy On Foreign Students
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: skin-reactions-during-radiation-therapy-preventable
-title: "Skin reactions during radiation therapy preventable"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/GE1402/S00049/skin-reactions-during-radiation-therapy-preventable.htm
+title: Skin reactions during radiation therapy preventable
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1402/S00049/skin-reactions-during-radiation-therapy-preventable.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/02/13/skin-reactions-during-radiation-therapy-preventable/index.html
+layout: layout.njk
 ---
 Skin reactions during radiation therapy preventable
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: collins-comments-28-june-2004
-title: "Collins Comments 28 June 2004"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/PA0406/S00443/collins-comments-28-june-2004.htm
+title: Collins Comments 28 June 2004
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00443/collins-comments-28-june-2004.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/28/collins-comments-28-june-2004/index.html
+layout: layout.njk
 ---
 Collins Comments 28 June 2004
 =============================

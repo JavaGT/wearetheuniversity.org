@@ -1,9 +1,12 @@
 ---
 slug: key-notes-dr-bollard-does-it-again
-title: "Key Notes - Dr Bollard does it again"
-date: 2007-07-28
-source-url: https://www.scoop.co.nz/stories/PA0707/S00489/key-notes-dr-bollard-does-it-again.htm
+title: Key Notes - Dr Bollard does it again
+date: 2007-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00489/key-notes-dr-bollard-does-it-again.htm
 author: new-zealand-national-party
+permalink: /archive/2007/07/28/key-notes-dr-bollard-does-it-again/index.html
+layout: layout.njk
 ---
 Key Notes - Dr Bollard does it again
 ====================================

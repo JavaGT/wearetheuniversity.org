@@ -1,9 +1,12 @@
 ---
 slug: french-artist-takes-up-residency
-title: "French artist takes up residency"
-date: 2016-02-20
-source-url: https://www.scoop.co.nz/stories/CU1602/S00415/french-artist-takes-up-residency.htm
+title: French artist takes up residency
+date: 2016-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1602/S00415/french-artist-takes-up-residency.htm
 author: massey-university
+permalink: /archive/2016/02/20/french-artist-takes-up-residency/index.html
+layout: layout.njk
 ---
 French artist takes up residency
 ================================

@@ -1,9 +1,13 @@
 ---
 slug: canterbury-researcher-looking-at-antarctic-glacier-behaviour
-title: "Canterbury researcher looking at Antarctic glacier behaviour"
-date: 2014-11-10
-source-url: https://www.scoop.co.nz/stories/SC1411/S00024/canterbury-researcher-looking-at-antarctic-glacier-behaviour.htm
+title: Canterbury researcher looking at Antarctic glacier behaviour
+date: 2014-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00024/canterbury-researcher-looking-at-antarctic-glacier-behaviour.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/11/10/canterbury-researcher-looking-at-antarctic-glacier-behaviour/index.html
+layout: layout.njk
 ---
 Canterbury researcher looking at Antarctic glacier behaviour
 ============================================================

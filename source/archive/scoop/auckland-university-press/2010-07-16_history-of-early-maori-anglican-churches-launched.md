@@ -1,9 +1,13 @@
 ---
 slug: history-of-early-maori-anglican-churches-launched
-title: "History Of Early Maori Anglican Churches Launched"
-date: 2010-07-16
-source-url: https://www.scoop.co.nz/stories/CU1007/S00231/history-of-early-maori-anglican-churches-launched.htm
+title: History Of Early Maori Anglican Churches Launched
+date: 2010-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1007/S00231/history-of-early-maori-anglican-churches-launched.htm
 author: auckland-university-press
+permalink: >-
+  /archive/2010/07/16/history-of-early-maori-anglican-churches-launched/index.html
+layout: layout.njk
 ---
 History Of Early Maori Anglican Churches Launched
 =================================================

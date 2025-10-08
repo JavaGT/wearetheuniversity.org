@@ -1,9 +1,12 @@
 ---
 slug: workers-overdue-a-pay-catch-up
-title: "Workers overdue a pay catch up"
-date: 2015-02-04
-source-url: https://www.scoop.co.nz/stories/PO1502/S00047/workers-overdue-a-pay-catch-up.htm
+title: Workers overdue a pay catch up
+date: 2015-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00047/workers-overdue-a-pay-catch-up.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2015/02/04/workers-overdue-a-pay-catch-up/index.html
+layout: layout.njk
 ---
 Workers overdue a pay catch up
 ==============================

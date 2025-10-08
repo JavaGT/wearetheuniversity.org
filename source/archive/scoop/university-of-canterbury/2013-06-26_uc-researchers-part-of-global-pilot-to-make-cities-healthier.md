@@ -1,9 +1,13 @@
 ---
 slug: uc-researchers-part-of-global-pilot-to-make-cities-healthier
-title: "UC researchers part of global pilot to make cities healthier"
-date: 2013-06-26
-source-url: https://www.scoop.co.nz/stories/SC1306/S00064/uc-researchers-part-of-global-pilot-to-make-cities-healthier.htm
+title: UC researchers part of global pilot to make cities healthier
+date: 2013-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1306/S00064/uc-researchers-part-of-global-pilot-to-make-cities-healthier.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/06/26/uc-researchers-part-of-global-pilot-to-make-cities-healthier/index.html
+layout: layout.njk
 ---
 UC researchers part of global pilot to make cities healthier
 ============================================================

@@ -1,9 +1,12 @@
 ---
 slug: an-indian-experience-for-university-student
-title: "An Indian experience for University student"
-date: 2010-03-26
-source-url: https://www.scoop.co.nz/stories/ED1003/S00128/an-indian-experience-for-university-student.htm
+title: An Indian experience for University student
+date: 2010-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00128/an-indian-experience-for-university-student.htm
 author: waikato-university
+permalink: /archive/2010/03/26/an-indian-experience-for-university-student/index.html
+layout: layout.njk
 ---
 An Indian experience for University student
 ===========================================

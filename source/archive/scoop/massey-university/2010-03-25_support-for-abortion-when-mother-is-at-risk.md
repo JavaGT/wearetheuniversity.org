@@ -1,9 +1,12 @@
 ---
 slug: support-for-abortion-when-mother-is-at-risk
-title: "Support for Abortion When Mother Is At Risk"
-date: 2010-03-25
-source-url: https://www.scoop.co.nz/stories/PO1003/S00390/support-for-abortion-when-mother-is-at-risk.htm
+title: Support for Abortion When Mother Is At Risk
+date: 2010-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00390/support-for-abortion-when-mother-is-at-risk.htm
 author: massey-university
+permalink: /archive/2010/03/25/support-for-abortion-when-mother-is-at-risk/index.html
+layout: layout.njk
 ---
 Support for Abortion When Mother Is At Risk
 ===========================================

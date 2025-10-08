@@ -1,9 +1,12 @@
 ---
 slug: labour-minister-admits-crisis
-title: "Labour Minister Admits Crisis"
-date: 2022-03-10
-source-url: https://www.scoop.co.nz/stories/PA2203/S00080/labour-minister-admits-crisis.htm
+title: Labour Minister Admits Crisis
+date: 2022-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00080/labour-minister-admits-crisis.htm
 author: act-new-zealand
+permalink: /archive/2022/03/10/labour-minister-admits-crisis/index.html
+layout: layout.njk
 ---
 Labour Minister Admits Crisis
 =============================

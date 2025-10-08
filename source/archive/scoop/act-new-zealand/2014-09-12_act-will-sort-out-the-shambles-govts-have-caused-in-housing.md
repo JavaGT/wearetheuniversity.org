@@ -1,9 +1,13 @@
 ---
 slug: act-will-sort-out-the-shambles-govts-have-caused-in-housing
-title: "ACT will sort out the shambles Govts have caused in housing"
-date: 2014-09-12
-source-url: https://www.scoop.co.nz/stories/PO1409/S00275/act-will-sort-out-the-shambles-govts-have-caused-in-housing.htm
+title: ACT will sort out the shambles Govts have caused in housing
+date: 2014-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00275/act-will-sort-out-the-shambles-govts-have-caused-in-housing.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/09/12/act-will-sort-out-the-shambles-govts-have-caused-in-housing/index.html
+layout: layout.njk
 ---
 ACT will sort out the shambles Govts have caused in housing
 ===========================================================

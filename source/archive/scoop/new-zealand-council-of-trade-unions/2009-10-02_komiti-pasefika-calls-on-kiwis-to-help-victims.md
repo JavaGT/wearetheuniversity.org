@@ -1,9 +1,12 @@
 ---
 slug: komiti-pasefika-calls-on-kiwis-to-help-victims
-title: "Komiti Pasefika calls on Kiwis to help victims"
-date: 2009-10-02
-source-url: https://www.scoop.co.nz/stories/WO0910/S00029/komiti-pasefika-calls-on-kiwis-to-help-victims.htm
+title: Komiti Pasefika calls on Kiwis to help victims
+date: 2009-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO0910/S00029/komiti-pasefika-calls-on-kiwis-to-help-victims.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/10/02/komiti-pasefika-calls-on-kiwis-to-help-victims/index.html
+layout: layout.njk
 ---
 Komiti Pasefika calls on Kiwis to help victims
 ==============================================

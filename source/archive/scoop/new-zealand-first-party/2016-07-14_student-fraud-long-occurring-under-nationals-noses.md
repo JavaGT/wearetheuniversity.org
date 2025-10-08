@@ -1,9 +1,13 @@
 ---
 slug: student-fraud-long-occurring-under-nationals-noses
-title: "Student fraud long occurring under National's noses"
-date: 2016-07-14
-source-url: https://www.scoop.co.nz/stories/PA1607/S00225/student-fraud-long-occurring-under-nationals-noses.htm
+title: Student fraud long occurring under National's noses
+date: 2016-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00225/student-fraud-long-occurring-under-nationals-noses.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/07/14/student-fraud-long-occurring-under-nationals-noses/index.html
+layout: layout.njk
 ---
 Student fraud long occurring under National's noses
 ===================================================

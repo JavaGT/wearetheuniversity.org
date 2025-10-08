@@ -1,9 +1,12 @@
 ---
 slug: stop-navel-gazing-nz-must-become-part-of-asia
-title: "Stop Navel Gazing - NZ Must Become Part of Asia"
-date: 2001-03-12
-source-url: https://www.scoop.co.nz/stories/PO0103/S00041/stop-navel-gazing-nz-must-become-part-of-asia.htm
+title: Stop Navel Gazing - NZ Must Become Part of Asia
+date: 2001-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0103/S00041/stop-navel-gazing-nz-must-become-part-of-asia.htm
 author: act-new-zealand
+permalink: /archive/2001/03/12/stop-navel-gazing-nz-must-become-part-of-asia/index.html
+layout: layout.njk
 ---
 Stop Navel Gazing - NZ Must Become Part of Asia
 ===============================================

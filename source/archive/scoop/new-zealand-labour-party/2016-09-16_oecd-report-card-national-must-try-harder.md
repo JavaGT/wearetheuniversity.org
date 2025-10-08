@@ -1,9 +1,12 @@
 ---
 slug: oecd-report-card-national-must-try-harder
-title: "OECD report card: National must try harder"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/PA1609/S00310/oecd-report-card-national-must-try-harder.htm
+title: 'OECD report card: National must try harder'
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00310/oecd-report-card-national-must-try-harder.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/16/oecd-report-card-national-must-try-harder/index.html
+layout: layout.njk
 ---
 OECD report card: National must try harder
 ==========================================

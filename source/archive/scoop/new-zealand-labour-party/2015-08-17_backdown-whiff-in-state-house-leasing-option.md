@@ -1,9 +1,12 @@
 ---
 slug: backdown-whiff-in-state-house-leasing-option
-title: "Backdown whiff in state house leasing option"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/PA1508/S00264/backdown-whiff-in-state-house-leasing-option.htm
+title: Backdown whiff in state house leasing option
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00264/backdown-whiff-in-state-house-leasing-option.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/17/backdown-whiff-in-state-house-leasing-option/index.html
+layout: layout.njk
 ---
 Backdown whiff in state house leasing option
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: day-of-recognition-without-the-costs-is-the-answer
-title: "Day Of Recognition Without The Costs Is The Answer"
-date: 2022-09-13
-source-url: https://www.scoop.co.nz/stories/PA2209/S00068/day-of-recognition-without-the-costs-is-the-answer.htm
+title: Day Of Recognition Without The Costs Is The Answer
+date: 2022-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2209/S00068/day-of-recognition-without-the-costs-is-the-answer.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/09/13/day-of-recognition-without-the-costs-is-the-answer/index.html
+layout: layout.njk
 ---
 Day Of Recognition Without The Costs Is The Answer
 ==================================================

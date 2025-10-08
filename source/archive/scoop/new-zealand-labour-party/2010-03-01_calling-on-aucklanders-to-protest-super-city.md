@@ -1,9 +1,12 @@
 ---
 slug: calling-on-aucklanders-to-protest-super-city
-title: "Calling On Aucklanders To Protest Super City"
-date: 2010-03-01
-source-url: https://www.scoop.co.nz/stories/PA1003/S00001/calling-on-aucklanders-to-protest-super-city.htm
+title: Calling On Aucklanders To Protest Super City
+date: 2010-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1003/S00001/calling-on-aucklanders-to-protest-super-city.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/03/01/calling-on-aucklanders-to-protest-super-city/index.html
+layout: layout.njk
 ---
 Calling On Aucklanders To Protest Super City
 ============================================

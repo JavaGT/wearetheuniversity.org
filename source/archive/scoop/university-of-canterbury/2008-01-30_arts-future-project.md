@@ -1,9 +1,11 @@
 ---
 slug: arts-future-project
-title: "Arts Future Project"
-date: 2008-01-30
+title: Arts Future Project
+date: 2008-01-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0801/S00045/arts-future-project.htm
 author: university-of-canterbury
+permalink: /archive/2008/01/30/arts-future-project/index.html
+layout: layout.njk
 ---
 Arts Future Project
 ===================

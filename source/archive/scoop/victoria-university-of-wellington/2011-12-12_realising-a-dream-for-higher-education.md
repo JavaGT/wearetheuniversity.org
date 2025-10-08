@@ -1,9 +1,12 @@
 ---
 slug: realising-a-dream-for-higher-education
-title: "Realising a dream for higher education"
-date: 2011-12-12
-source-url: https://www.scoop.co.nz/stories/ED1112/S00059/realising-a-dream-for-higher-education.htm
+title: Realising a dream for higher education
+date: 2011-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00059/realising-a-dream-for-higher-education.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/12/realising-a-dream-for-higher-education/index.html
+layout: layout.njk
 ---
 Realising a dream for higher education
 ======================================

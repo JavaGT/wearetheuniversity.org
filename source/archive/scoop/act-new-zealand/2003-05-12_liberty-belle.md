@@ -1,9 +1,11 @@
 ---
 slug: liberty-belle
-title: "Liberty Belle"
-date: 2003-05-12
+title: Liberty Belle
+date: 2003-05-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0305/S00258/liberty-belle.htm
 author: act-new-zealand
+permalink: /archive/2003/05/12/liberty-belle/index.html
+layout: layout.njk
 ---
 Liberty Belle
 =============

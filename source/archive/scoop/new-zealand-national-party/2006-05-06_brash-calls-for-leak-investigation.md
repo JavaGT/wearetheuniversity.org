@@ -1,9 +1,12 @@
 ---
 slug: brash-calls-for-leak-investigation
-title: "Brash calls for leak investigation"
-date: 2006-05-06
-source-url: https://www.scoop.co.nz/stories/PA0605/S00157/brash-calls-for-leak-investigation.htm
+title: Brash calls for leak investigation
+date: 2006-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00157/brash-calls-for-leak-investigation.htm
 author: new-zealand-national-party
+permalink: /archive/2006/05/06/brash-calls-for-leak-investigation/index.html
+layout: layout.njk
 ---
 Brash calls for leak investigation
 ==================================

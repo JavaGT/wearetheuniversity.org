@@ -1,9 +1,12 @@
 ---
 slug: videogame-loot-boxes-similar-to-gambling
-title: "Videogame loot boxes similar to gambling"
-date: 2018-06-19
-source-url: https://www.scoop.co.nz/stories/SC1806/S00049/videogame-loot-boxes-similar-to-gambling.htm
+title: Videogame loot boxes similar to gambling
+date: 2018-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00049/videogame-loot-boxes-similar-to-gambling.htm
 author: massey-university
+permalink: /archive/2018/06/19/videogame-loot-boxes-similar-to-gambling/index.html
+layout: layout.njk
 ---
 Videogame loot boxes similar to gambling
 ========================================

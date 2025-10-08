@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-welcomes-aussie-students
-title: "Waikato University welcomes Aussie students"
-date: 2015-08-13
-source-url: https://www.scoop.co.nz/stories/ED1508/S00060/waikato-university-welcomes-aussie-students.htm
+title: Waikato University welcomes Aussie students
+date: 2015-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00060/waikato-university-welcomes-aussie-students.htm
 author: waikato-university
+permalink: /archive/2015/08/13/waikato-university-welcomes-aussie-students/index.html
+layout: layout.njk
 ---
 Waikato University welcomes Aussie students
 ===========================================

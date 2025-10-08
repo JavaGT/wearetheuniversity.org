@@ -1,9 +1,12 @@
 ---
 slug: journey-from-light-into-darkness-and-back
-title: "Journey From Light Into Darkness And Back"
-date: 2009-06-10
-source-url: https://www.scoop.co.nz/stories/CU0906/S00107/journey-from-light-into-darkness-and-back.htm
+title: Journey From Light Into Darkness And Back
+date: 2009-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0906/S00107/journey-from-light-into-darkness-and-back.htm
 author: auckland-university-press
+permalink: /archive/2009/06/10/journey-from-light-into-darkness-and-back/index.html
+layout: layout.njk
 ---
 Journey From Light Into Darkness And Back
 =========================================

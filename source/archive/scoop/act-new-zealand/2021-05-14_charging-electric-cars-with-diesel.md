@@ -1,9 +1,12 @@
 ---
 slug: charging-electric-cars-with-diesel
-title: "Charging Electric Cars With Diesel"
-date: 2021-05-14
-source-url: https://www.scoop.co.nz/stories/PO2105/S00133/charging-electric-cars-with-diesel.htm
+title: Charging Electric Cars With Diesel
+date: 2021-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2105/S00133/charging-electric-cars-with-diesel.htm
 author: act-new-zealand
+permalink: /archive/2021/05/14/charging-electric-cars-with-diesel/index.html
+layout: layout.njk
 ---
 Charging Electric Cars With Diesel
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: brash-speech-nz-us-partnership-forum
-title: "Brash Speech: NZ-US Partnership Forum"
-date: 2006-04-23
-source-url: https://www.scoop.co.nz/stories/PA0604/S00347/brash-speech-nz-us-partnership-forum.htm
+title: 'Brash Speech: NZ-US Partnership Forum'
+date: 2006-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00347/brash-speech-nz-us-partnership-forum.htm
 author: new-zealand-national-party
+permalink: /archive/2006/04/23/brash-speech-nz-us-partnership-forum/index.html
+layout: layout.njk
 ---
 Brash Speech: NZ-US Partnership Forum
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: investigating-the-state-of-our-sexual-health
-title: "Investigating the state of our sexual health"
-date: 2016-11-10
-source-url: https://www.scoop.co.nz/stories/GE1611/S00038/investigating-the-state-of-our-sexual-health.htm
+title: Investigating the state of our sexual health
+date: 2016-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1611/S00038/investigating-the-state-of-our-sexual-health.htm
 author: massey-university
+permalink: /archive/2016/11/10/investigating-the-state-of-our-sexual-health/index.html
+layout: layout.njk
 ---
 Investigating the state of our sexual health
 ============================================

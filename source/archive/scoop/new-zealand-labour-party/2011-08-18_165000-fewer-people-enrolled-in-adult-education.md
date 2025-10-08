@@ -1,9 +1,12 @@
 ---
 slug: 165000-fewer-people-enrolled-in-adult-education
-title: "165,000 fewer people enrolled in adult education"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/PA1108/S00362/165000-fewer-people-enrolled-in-adult-education.htm
+title: 165,000 fewer people enrolled in adult education
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00362/165000-fewer-people-enrolled-in-adult-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/18/165000-fewer-people-enrolled-in-adult-education/index.html
+layout: layout.njk
 ---
 165,000 fewer people enrolled in adult education
 ================================================

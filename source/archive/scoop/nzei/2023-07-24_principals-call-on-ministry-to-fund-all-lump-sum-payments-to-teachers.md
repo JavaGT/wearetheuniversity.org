@@ -1,9 +1,13 @@
 ---
 slug: principals-call-on-ministry-to-fund-all-lump-sum-payments-to-teachers
-title: "Principals Call On Ministry To Fund All Lump Sum Payments To Teachers"
-date: 2023-07-24
-source-url: https://www.scoop.co.nz/stories/PO2307/S00154/principals-call-on-ministry-to-fund-all-lump-sum-payments-to-teachers.htm
+title: Principals Call On Ministry To Fund All Lump Sum Payments To Teachers
+date: 2023-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00154/principals-call-on-ministry-to-fund-all-lump-sum-payments-to-teachers.htm
 author: nzei
+permalink: >-
+  /archive/2023/07/24/principals-call-on-ministry-to-fund-all-lump-sum-payments-to-teachers/index.html
+layout: layout.njk
 ---
 Principals Call On Ministry To Fund All Lump Sum Payments To Teachers
 =====================================================================

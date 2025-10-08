@@ -1,9 +1,11 @@
 ---
 slug: hands-on-education-show
-title: "Hands on education show"
-date: 2008-04-09
+title: Hands on education show
+date: 2008-04-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0804/S00022/hands-on-education-show.htm
 author: massey-university
+permalink: /archive/2008/04/09/hands-on-education-show/index.html
+layout: layout.njk
 ---
 Hands on education show
 =======================

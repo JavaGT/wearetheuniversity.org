@@ -1,9 +1,13 @@
 ---
 slug: are-microgrids-the-answer-to-reliable-power-in-kiwi-homes
-title: "Are Microgrids The Answer To Reliable Power In Kiwi Homes?"
-date: 2023-06-06
-source-url: https://www.scoop.co.nz/stories/SC2306/S00004/are-microgrids-the-answer-to-reliable-power-in-kiwi-homes.htm
+title: Are Microgrids The Answer To Reliable Power In Kiwi Homes?
+date: 2023-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2306/S00004/are-microgrids-the-answer-to-reliable-power-in-kiwi-homes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/06/06/are-microgrids-the-answer-to-reliable-power-in-kiwi-homes/index.html
+layout: layout.njk
 ---
 Are Microgrids The Answer To Reliable Power In Kiwi Homes?
 ==========================================================

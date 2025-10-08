@@ -1,9 +1,12 @@
 ---
 slug: student-debt-doubles-under-labour
-title: "Student debt doubles under Labour"
-date: 2003-07-29
-source-url: https://www.scoop.co.nz/stories/ED0307/S00068/student-debt-doubles-under-labour.htm
+title: Student debt doubles under Labour
+date: 2003-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00068/student-debt-doubles-under-labour.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/07/29/student-debt-doubles-under-labour/index.html
+layout: layout.njk
 ---
 Student debt doubles under Labour
 =================================

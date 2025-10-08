@@ -1,9 +1,13 @@
 ---
 slug: uc-uses-earthquake-data-to-improve-earthquake-response
-title: "UC uses earthquake data to improve earthquake response"
-date: 2014-09-25
-source-url: https://www.scoop.co.nz/stories/SC1409/S00103/uc-uses-earthquake-data-to-improve-earthquake-response.htm
+title: UC uses earthquake data to improve earthquake response
+date: 2014-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00103/uc-uses-earthquake-data-to-improve-earthquake-response.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/09/25/uc-uses-earthquake-data-to-improve-earthquake-response/index.html
+layout: layout.njk
 ---
 UC uses earthquake data to improve earthquake response
 ======================================================

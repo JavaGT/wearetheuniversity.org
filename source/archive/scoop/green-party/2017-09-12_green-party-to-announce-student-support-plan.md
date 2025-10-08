@@ -1,9 +1,12 @@
 ---
 slug: green-party-to-announce-student-support-plan
-title: "Green Party to announce student support plan"
-date: 2017-09-12
-source-url: https://www.scoop.co.nz/stories/PA1709/S00127/green-party-to-announce-student-support-plan.htm
+title: Green Party to announce student support plan
+date: 2017-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00127/green-party-to-announce-student-support-plan.htm
 author: green-party
+permalink: /archive/2017/09/12/green-party-to-announce-student-support-plan/index.html
+layout: layout.njk
 ---
 Green Party to announce student support plan
 ============================================

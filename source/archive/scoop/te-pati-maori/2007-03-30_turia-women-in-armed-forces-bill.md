@@ -1,9 +1,12 @@
 ---
 slug: turia-women-in-armed-forces-bill
-title: "Turia: Women in Armed Forces Bill"
-date: 2007-03-30
-source-url: https://www.scoop.co.nz/stories/PA0703/S00643/turia-women-in-armed-forces-bill.htm
+title: 'Turia: Women in Armed Forces Bill'
+date: 2007-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00643/turia-women-in-armed-forces-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/03/30/turia-women-in-armed-forces-bill/index.html
+layout: layout.njk
 ---
 Turia: Women in Armed Forces Bill
 =================================

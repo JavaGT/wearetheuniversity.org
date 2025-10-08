@@ -1,9 +1,12 @@
 ---
 slug: distinguished-economist-honoured-at-vic
-title: "Distinguished economist honoured at Vic"
-date: 2004-02-12
-source-url: https://www.scoop.co.nz/stories/ED0402/S00024/distinguished-economist-honoured-at-vic.htm
+title: Distinguished economist honoured at Vic
+date: 2004-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0402/S00024/distinguished-economist-honoured-at-vic.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/02/12/distinguished-economist-honoured-at-vic/index.html
+layout: layout.njk
 ---
 Distinguished economist honoured at Vic
 =======================================

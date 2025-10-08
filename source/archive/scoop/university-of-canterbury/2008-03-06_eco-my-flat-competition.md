@@ -1,9 +1,11 @@
 ---
 slug: eco-my-flat-competition
-title: "Eco-My-Flat Competition"
-date: 2008-03-06
+title: Eco-My-Flat Competition
+date: 2008-03-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK0803/S00062/eco-my-flat-competition.htm
 author: university-of-canterbury
+permalink: /archive/2008/03/06/eco-my-flat-competition/index.html
+layout: layout.njk
 ---
 Eco-My-Flat Competition
 =======================

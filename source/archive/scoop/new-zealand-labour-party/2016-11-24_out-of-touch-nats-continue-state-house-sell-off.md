@@ -1,9 +1,12 @@
 ---
 slug: out-of-touch-nats-continue-state-house-sell-off
-title: "Out of touch Nats continue state house sell-off"
-date: 2016-11-24
-source-url: https://www.scoop.co.nz/stories/PA1611/S00463/out-of-touch-nats-continue-state-house-sell-off.htm
+title: Out of touch Nats continue state house sell-off
+date: 2016-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00463/out-of-touch-nats-continue-state-house-sell-off.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/11/24/out-of-touch-nats-continue-state-house-sell-off/index.html
+layout: layout.njk
 ---
 Out of touch Nats continue state house sell-off
 ===============================================

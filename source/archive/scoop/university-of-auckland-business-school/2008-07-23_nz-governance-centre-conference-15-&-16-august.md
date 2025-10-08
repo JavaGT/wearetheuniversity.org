@@ -1,9 +1,12 @@
 ---
 slug: nz-governance-centre-conference-15-&-16-august
-title: "NZ Governance Centre conference 15 & 16 August"
-date: 2008-07-23
-source-url: https://www.scoop.co.nz/stories/ED0807/S00075/nz-governance-centre-conference-15-16-august.htm
+title: NZ Governance Centre conference 15 & 16 August
+date: 2008-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00075/nz-governance-centre-conference-15-16-august.htm
 author: university-of-auckland-business-school
+permalink: /archive/2008/07/23/nz-governance-centre-conference-15-/index.html
+layout: layout.njk
 ---
 NZ Governance Centre conference 15 & 16 August
 ==============================================

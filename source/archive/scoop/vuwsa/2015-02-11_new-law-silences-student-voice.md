@@ -1,9 +1,12 @@
 ---
 slug: new-law-silences-student-voice
-title: "New Law Silences Student Voice"
-date: 2015-02-11
-source-url: https://www.scoop.co.nz/stories/PO1502/S00138/new-law-silences-student-voice.htm
+title: New Law Silences Student Voice
+date: 2015-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1502/S00138/new-law-silences-student-voice.htm
 author: vuwsa
+permalink: /archive/2015/02/11/new-law-silences-student-voice/index.html
+layout: layout.njk
 ---
 New Law Silences Student Voice
 ==============================

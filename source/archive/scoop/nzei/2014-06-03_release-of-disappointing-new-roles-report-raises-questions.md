@@ -1,9 +1,13 @@
 ---
 slug: release-of-disappointing-new-roles-report-raises-questions
-title: "Release of disappointing \"new roles\" report raises questions"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/ED1406/S00003/release-of-disappointing-new-roles-report-raises-questions.htm
+title: Release of disappointing "new roles" report raises questions
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00003/release-of-disappointing-new-roles-report-raises-questions.htm
 author: nzei
+permalink: >-
+  /archive/2014/06/03/release-of-disappointing-new-roles-report-raises-questions/index.html
+layout: layout.njk
 ---
 Release of disappointing “new roles” report raises questions
 ============================================================

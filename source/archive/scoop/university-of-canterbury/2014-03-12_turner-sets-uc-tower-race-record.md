@@ -1,9 +1,12 @@
 ---
 slug: turner-sets-uc-tower-race-record
-title: "Turner sets UC Tower Race record"
-date: 2014-03-12
-source-url: https://www.scoop.co.nz/stories/ED1403/S00067/turner-sets-uc-tower-race-record.htm
+title: Turner sets UC Tower Race record
+date: 2014-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00067/turner-sets-uc-tower-race-record.htm
 author: university-of-canterbury
+permalink: /archive/2014/03/12/turner-sets-uc-tower-race-record/index.html
+layout: layout.njk
 ---
 Turner sets UC Tower Race record
 ================================

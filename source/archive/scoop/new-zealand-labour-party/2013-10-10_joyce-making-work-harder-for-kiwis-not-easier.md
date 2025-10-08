@@ -1,9 +1,12 @@
 ---
 slug: joyce-making-work-harder-for-kiwis-not-easier
-title: "Joyce making work harder for Kiwis, not easier"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/PA1310/S00180/joyce-making-work-harder-for-kiwis-not-easier.htm
+title: Joyce making work harder for Kiwis, not easier
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00180/joyce-making-work-harder-for-kiwis-not-easier.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/10/10/joyce-making-work-harder-for-kiwis-not-easier/index.html
+layout: layout.njk
 ---
 Joyce making work harder for Kiwis, not easier
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: keys-refugee-scaremongering-bad-for-nzs-race-relations
-title: "Key’s refugee scaremongering bad for NZ’s race relations"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/PA1107/S00218/keys-refugee-scaremongering-bad-for-nzs-race-relations.htm
+title: Key’s refugee scaremongering bad for NZ’s race relations
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00218/keys-refugee-scaremongering-bad-for-nzs-race-relations.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/13/keys-refugee-scaremongering-bad-for-nzs-race-relations/index.html
+layout: layout.njk
 ---
 Key’s refugee scaremongering bad for NZ’s race relations
 ========================================================

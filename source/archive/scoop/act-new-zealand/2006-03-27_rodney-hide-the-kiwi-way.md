@@ -1,9 +1,11 @@
 ---
 slug: rodney-hide-the-kiwi-way
-title: "Rodney Hide - The Kiwi Way"
-date: 2006-03-27
+title: Rodney Hide - The Kiwi Way
+date: 2006-03-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0603/S00445/rodney-hide-the-kiwi-way.htm
 author: act-new-zealand
+permalink: /archive/2006/03/27/rodney-hide-the-kiwi-way/index.html
+layout: layout.njk
 ---
 Rodney Hide - The Kiwi Way
 ==========================

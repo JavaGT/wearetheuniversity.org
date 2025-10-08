@@ -1,9 +1,12 @@
 ---
 slug: education-about-people-not-profits
-title: "Education about people, not profits"
-date: 2013-11-20
-source-url: https://www.scoop.co.nz/stories/PA1311/S00373/education-about-people-not-profits.htm
+title: Education about people, not profits
+date: 2013-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00373/education-about-people-not-profits.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/20/education-about-people-not-profits/index.html
+layout: layout.njk
 ---
 Education about people, not profits
 ===================================

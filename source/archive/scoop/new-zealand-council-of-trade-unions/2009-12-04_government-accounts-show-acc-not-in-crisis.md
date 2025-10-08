@@ -1,9 +1,12 @@
 ---
 slug: government-accounts-show-acc-not-in-crisis
-title: "Government accounts show ACC not in crisis"
-date: 2009-12-04
-source-url: https://www.scoop.co.nz/stories/PO0912/S00065/government-accounts-show-acc-not-in-crisis.htm
+title: Government accounts show ACC not in crisis
+date: 2009-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0912/S00065/government-accounts-show-acc-not-in-crisis.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/12/04/government-accounts-show-acc-not-in-crisis/index.html
+layout: layout.njk
 ---
 Government accounts show ACC not in crisis
 ==========================================

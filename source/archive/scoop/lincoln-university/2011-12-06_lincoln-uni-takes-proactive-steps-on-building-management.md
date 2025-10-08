@@ -1,9 +1,13 @@
 ---
 slug: lincoln-uni-takes-proactive-steps-on-building-management
-title: "Lincoln Uni takes proactive steps on building management"
-date: 2011-12-06
-source-url: https://www.scoop.co.nz/stories/ED1112/S00029/lincoln-uni-takes-proactive-steps-on-building-management.htm
+title: Lincoln Uni takes proactive steps on building management
+date: 2011-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00029/lincoln-uni-takes-proactive-steps-on-building-management.htm
 author: lincoln-university
+permalink: >-
+  /archive/2011/12/06/lincoln-uni-takes-proactive-steps-on-building-management/index.html
+layout: layout.njk
 ---
 Lincoln Uni takes proactive steps on building management
 ========================================================

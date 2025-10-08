@@ -1,9 +1,13 @@
 ---
 slug: research-tests-shows-stroke-patients-memories-do-improve
-title: "Research tests shows stroke patients’ memories do improve"
-date: 2015-01-25
-source-url: https://www.scoop.co.nz/stories/GE1501/S00076/research-tests-shows-stroke-patients-memories-do-improve.htm
+title: Research tests shows stroke patients’ memories do improve
+date: 2015-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1501/S00076/research-tests-shows-stroke-patients-memories-do-improve.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/25/research-tests-shows-stroke-patients-memories-do-improve/index.html
+layout: layout.njk
 ---
 Research tests shows stroke patients’ memories do improve
 =========================================================

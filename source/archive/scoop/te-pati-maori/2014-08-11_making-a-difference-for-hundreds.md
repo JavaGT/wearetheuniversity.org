@@ -1,9 +1,12 @@
 ---
 slug: making-a-difference-for-hundreds
-title: "Making A Difference For Hundreds"
-date: 2014-08-11
-source-url: https://www.scoop.co.nz/stories/PO1408/S00151/making-a-difference-for-hundreds.htm
+title: Making A Difference For Hundreds
+date: 2014-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00151/making-a-difference-for-hundreds.htm
 author: te-pati-maori
+permalink: /archive/2014/08/11/making-a-difference-for-hundreds/index.html
+layout: layout.njk
 ---
 Making A Difference For Hundreds
 ================================

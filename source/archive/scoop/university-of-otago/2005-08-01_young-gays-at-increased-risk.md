@@ -1,9 +1,11 @@
 ---
 slug: young-gays-at-increased-risk
-title: "Young Gays At Increased Risk"
-date: 2005-08-01
+title: Young Gays At Increased Risk
+date: 2005-08-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/GE0508/S00010/young-gays-at-increased-risk.htm
 author: university-of-otago
+permalink: /archive/2005/08/01/young-gays-at-increased-risk/index.html
+layout: layout.njk
 ---
 Young Gays At Increased Risk
 ============================

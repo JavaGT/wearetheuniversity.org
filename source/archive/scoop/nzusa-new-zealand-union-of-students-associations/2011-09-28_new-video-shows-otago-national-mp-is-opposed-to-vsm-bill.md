@@ -1,9 +1,13 @@
 ---
 slug: new-video-shows-otago-national-mp-is-opposed-to-vsm-bill
-title: "New Video Shows Otago National MP is Opposed to VSM Bill"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/PO1109/S00412/new-video-shows-otago-national-mp-is-opposed-to-vsm-bill.htm
+title: New Video Shows Otago National MP is Opposed to VSM Bill
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1109/S00412/new-video-shows-otago-national-mp-is-opposed-to-vsm-bill.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/09/28/new-video-shows-otago-national-mp-is-opposed-to-vsm-bill/index.html
+layout: layout.njk
 ---
 New Video Shows Otago National MP is Opposed to VSM Bill
 ========================================================

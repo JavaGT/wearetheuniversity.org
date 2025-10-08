@@ -1,9 +1,13 @@
 ---
 slug: in-the-company-of-men-sheddies-enjoy-good-health
-title: "In the company of men – ‘sheddies’ enjoy good health"
-date: 2017-05-01
-source-url: https://www.scoop.co.nz/stories/GE1705/S00010/in-the-company-of-men-sheddies-enjoy-good-health.htm
+title: In the company of men – ‘sheddies’ enjoy good health
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1705/S00010/in-the-company-of-men-sheddies-enjoy-good-health.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/01/in-the-company-of-men-sheddies-enjoy-good-health/index.html
+layout: layout.njk
 ---
 In the company of men – ‘sheddies’ enjoy good health
 ====================================================

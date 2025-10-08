@@ -1,9 +1,11 @@
 ---
 slug: super-12-ratings-whammy
-title: "Super 12 Ratings Whammy"
-date: 2004-03-16
+title: Super 12 Ratings Whammy
+date: 2004-03-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SP0403/S00001/super-12-ratings-whammy.htm
 author: massey-university
+permalink: /archive/2004/03/16/super-12-ratings-whammy/index.html
+layout: layout.njk
 ---
 Super 12 Ratings Whammy
 =======================

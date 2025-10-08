@@ -1,9 +1,12 @@
 ---
 slug: upcoming-public-lectures-at-victoria
-title: "Upcoming Public Lectures at Victoria"
-date: 2014-02-13
-source-url: https://www.scoop.co.nz/stories/AK1402/S00268/upcoming-public-lectures-at-victoria.htm
+title: Upcoming Public Lectures at Victoria
+date: 2014-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1402/S00268/upcoming-public-lectures-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/02/13/upcoming-public-lectures-at-victoria/index.html
+layout: layout.njk
 ---
 Upcoming Public Lectures at Victoria
 ====================================

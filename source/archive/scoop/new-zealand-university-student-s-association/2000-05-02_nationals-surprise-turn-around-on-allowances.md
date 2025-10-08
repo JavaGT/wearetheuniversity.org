@@ -1,9 +1,12 @@
 ---
 slug: nationals-surprise-turn-around-on-allowances
-title: "National’s surprise turn around on Allowances"
-date: 2000-05-02
-source-url: https://www.scoop.co.nz/stories/ED0005/S00004/nationals-surprise-turn-around-on-allowances.htm
+title: National’s surprise turn around on Allowances
+date: 2000-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0005/S00004/nationals-surprise-turn-around-on-allowances.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/05/02/nationals-surprise-turn-around-on-allowances/index.html
+layout: layout.njk
 ---
 National’s surprise turn around on Allowances
 =============================================

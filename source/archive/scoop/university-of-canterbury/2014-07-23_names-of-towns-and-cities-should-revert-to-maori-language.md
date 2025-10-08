@@ -1,9 +1,13 @@
 ---
 slug: names-of-towns-and-cities-should-revert-to-maori-language
-title: "Names of towns and cities should revert to Maori language"
-date: 2014-07-23
-source-url: https://www.scoop.co.nz/stories/CU1407/S00356/names-of-towns-and-cities-should-revert-to-maori-language.htm
+title: Names of towns and cities should revert to Maori language
+date: 2014-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1407/S00356/names-of-towns-and-cities-should-revert-to-maori-language.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/07/23/names-of-towns-and-cities-should-revert-to-maori-language/index.html
+layout: layout.njk
 ---
 Names of towns and cities should revert to Maori language
 =========================================================

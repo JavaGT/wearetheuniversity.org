@@ -1,9 +1,12 @@
 ---
 slug: labours-no-show-at-conference-speaks-volumes
-title: "Labour's no-show at conference speaks volumes"
-date: 2005-11-28
-source-url: https://www.scoop.co.nz/stories/PA0511/S00401/labours-no-show-at-conference-speaks-volumes.htm
+title: Labour's no-show at conference speaks volumes
+date: 2005-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0511/S00401/labours-no-show-at-conference-speaks-volumes.htm
 author: new-zealand-national-party
+permalink: /archive/2005/11/28/labours-no-show-at-conference-speaks-volumes/index.html
+layout: layout.njk
 ---
 Labour's no-show at conference speaks volumes
 =============================================

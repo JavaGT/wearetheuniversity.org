@@ -1,9 +1,13 @@
 ---
 slug: new-cancer-treatment-drug-enabled-by-uc-research
-title: "New cancer treatment drug enabled by UC research"
-date: 2010-12-13
-source-url: https://www.scoop.co.nz/stories/ED1012/S00062/new-cancer-treatment-drug-enabled-by-uc-research.htm
+title: New cancer treatment drug enabled by UC research
+date: 2010-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00062/new-cancer-treatment-drug-enabled-by-uc-research.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2010/12/13/new-cancer-treatment-drug-enabled-by-uc-research/index.html
+layout: layout.njk
 ---
 New cancer treatment drug enabled by UC research
 ================================================

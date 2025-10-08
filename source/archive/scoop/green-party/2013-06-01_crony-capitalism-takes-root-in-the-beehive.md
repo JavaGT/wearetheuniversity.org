@@ -1,9 +1,12 @@
 ---
 slug: crony-capitalism-takes-root-in-the-beehive
-title: "Crony capitalism takes root in the Beehive"
-date: 2013-06-01
-source-url: https://www.scoop.co.nz/stories/PA1306/S00001/crony-capitalism-takes-root-in-the-beehive.htm
+title: Crony capitalism takes root in the Beehive
+date: 2013-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00001/crony-capitalism-takes-root-in-the-beehive.htm
 author: green-party
+permalink: /archive/2013/06/01/crony-capitalism-takes-root-in-the-beehive/index.html
+layout: layout.njk
 ---
 Crony capitalism takes root in the Beehive
 ==========================================

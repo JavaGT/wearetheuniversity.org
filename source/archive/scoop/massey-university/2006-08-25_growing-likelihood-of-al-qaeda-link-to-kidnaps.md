@@ -1,9 +1,12 @@
 ---
 slug: growing-likelihood-of-al-qaeda-link-to-kidnaps
-title: "Growing likelihood of al-Qaeda link to kidnaps"
-date: 2006-08-25
-source-url: https://www.scoop.co.nz/stories/ED0608/S00081/growing-likelihood-of-al-qaeda-link-to-kidnaps.htm
+title: Growing likelihood of al-Qaeda link to kidnaps
+date: 2006-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00081/growing-likelihood-of-al-qaeda-link-to-kidnaps.htm
 author: massey-university
+permalink: /archive/2006/08/25/growing-likelihood-of-al-qaeda-link-to-kidnaps/index.html
+layout: layout.njk
 ---
 Growing likelihood of al-Qaeda link to kidnaps
 ==============================================

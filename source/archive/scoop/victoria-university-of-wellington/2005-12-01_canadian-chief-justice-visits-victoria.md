@@ -1,9 +1,12 @@
 ---
 slug: canadian-chief-justice-visits-victoria
-title: "Canadian Chief Justice visits Victoria"
-date: 2005-12-01
-source-url: https://www.scoop.co.nz/stories/ED0512/S00002/canadian-chief-justice-visits-victoria.htm
+title: Canadian Chief Justice visits Victoria
+date: 2005-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00002/canadian-chief-justice-visits-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/12/01/canadian-chief-justice-visits-victoria/index.html
+layout: layout.njk
 ---
 Canadian Chief Justice visits Victoria
 ======================================

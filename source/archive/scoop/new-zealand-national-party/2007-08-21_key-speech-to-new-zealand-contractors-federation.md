@@ -1,9 +1,13 @@
 ---
 slug: key-speech-to-new-zealand-contractors-federation
-title: "Key: Speech to New Zealand Contractors Federation"
-date: 2007-08-21
-source-url: https://www.scoop.co.nz/stories/PA0708/S00336/key-speech-to-new-zealand-contractors-federation.htm
+title: 'Key: Speech to New Zealand Contractors Federation'
+date: 2007-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00336/key-speech-to-new-zealand-contractors-federation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/08/21/key-speech-to-new-zealand-contractors-federation/index.html
+layout: layout.njk
 ---
 Key: Speech to New Zealand Contractors Federation
 =================================================

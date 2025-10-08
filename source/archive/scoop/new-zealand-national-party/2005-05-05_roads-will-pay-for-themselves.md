@@ -1,9 +1,12 @@
 ---
 slug: roads-will-pay-for-themselves
-title: "Roads will pay for themselves"
-date: 2005-05-05
-source-url: https://www.scoop.co.nz/stories/PA0505/S00114/roads-will-pay-for-themselves.htm
+title: Roads will pay for themselves
+date: 2005-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00114/roads-will-pay-for-themselves.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/05/roads-will-pay-for-themselves/index.html
+layout: layout.njk
 ---
 Roads will pay for themselves
 =============================

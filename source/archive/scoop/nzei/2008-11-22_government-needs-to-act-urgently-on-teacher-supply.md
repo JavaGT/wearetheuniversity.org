@@ -1,9 +1,13 @@
 ---
 slug: government-needs-to-act-urgently-on-teacher-supply
-title: "Government Needs To Act Urgently On Teacher Supply"
-date: 2008-11-22
-source-url: https://www.scoop.co.nz/stories/ED0811/S00061/government-needs-to-act-urgently-on-teacher-supply.htm
+title: Government Needs To Act Urgently On Teacher Supply
+date: 2008-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00061/government-needs-to-act-urgently-on-teacher-supply.htm
 author: nzei
+permalink: >-
+  /archive/2008/11/22/government-needs-to-act-urgently-on-teacher-supply/index.html
+layout: layout.njk
 ---
 Government Needs To Act Urgently On Teacher Supply
 ==================================================

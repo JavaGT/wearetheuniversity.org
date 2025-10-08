@@ -1,9 +1,12 @@
 ---
 slug: whakanuitia-te-whakaoranga-ano-o-te-reo-maori
-title: "Whakanuitia te whakaoranga ano o te reo Maori"
-date: 2008-09-14
-source-url: https://www.scoop.co.nz/stories/PA0809/S00313/whakanuitia-te-whakaoranga-ano-o-te-reo-maori.htm
+title: Whakanuitia te whakaoranga ano o te reo Maori
+date: 2008-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00313/whakanuitia-te-whakaoranga-ano-o-te-reo-maori.htm
 author: te-pati-maori
+permalink: /archive/2008/09/14/whakanuitia-te-whakaoranga-ano-o-te-reo-maori/index.html
+layout: layout.njk
 ---
 Whakanuitia te whakaoranga ano o te reo Maori
 =============================================

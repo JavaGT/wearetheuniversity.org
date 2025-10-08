@@ -1,9 +1,13 @@
 ---
 slug: irrigation-scheme-at-risk-from-resource-management
-title: "Irrigation scheme at risk from Resource Management"
-date: 1999-10-20
-source-url: https://www.scoop.co.nz/stories/PA9910/S00431/irrigation-scheme-at-risk-from-resource-management.htm
+title: Irrigation scheme at risk from Resource Management
+date: 1999-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00431/irrigation-scheme-at-risk-from-resource-management.htm
 author: act-new-zealand
+permalink: >-
+  /archive/1999/10/20/irrigation-scheme-at-risk-from-resource-management/index.html
+layout: layout.njk
 ---
 Irrigation scheme at risk from Resource Management
 ==================================================

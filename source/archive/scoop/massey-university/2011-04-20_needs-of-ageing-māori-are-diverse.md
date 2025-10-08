@@ -1,9 +1,12 @@
 ---
 slug: needs-of-ageing-māori-are-diverse
-title: "Needs of ageing Māori are diverse"
-date: 2011-04-20
-source-url: https://www.scoop.co.nz/stories/GE1104/S00058/needs-of-ageing-maori-are-diverse.htm
+title: Needs of ageing Māori are diverse
+date: 2011-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1104/S00058/needs-of-ageing-maori-are-diverse.htm
 author: massey-university
+permalink: /archive/2011/04/20/needs-of-ageing-m/index.html
+layout: layout.njk
 ---
 Needs of ageing Māori are diverse
 =================================

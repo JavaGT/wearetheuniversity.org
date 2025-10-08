@@ -1,9 +1,13 @@
 ---
 slug: rt-hon-winston-peters-as-promised-we-are-taking-back-our-country
-title: "Rt Hon Winston Peters: As Promised – We Are Taking Back Our Country"
-date: 2024-10-13
-source-url: https://www.scoop.co.nz/stories/PA2410/S00100/rt-hon-winston-peters-as-promised-we-are-taking-back-our-country.htm
+title: 'Rt Hon Winston Peters: As Promised – We Are Taking Back Our Country'
+date: 2024-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2410/S00100/rt-hon-winston-peters-as-promised-we-are-taking-back-our-country.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2024/10/13/rt-hon-winston-peters-as-promised-we-are-taking-back-our-country/index.html
+layout: layout.njk
 ---
 Rt Hon Winston Peters: As Promised – We Are Taking Back Our Country
 ===================================================================

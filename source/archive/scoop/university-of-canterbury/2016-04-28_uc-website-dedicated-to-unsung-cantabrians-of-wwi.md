@@ -1,9 +1,13 @@
 ---
 slug: uc-website-dedicated-to-unsung-cantabrians-of-wwi
-title: "UC website dedicated to unsung Cantabrians of WWI"
-date: 2016-04-28
-source-url: https://www.scoop.co.nz/stories/CU1604/S00347/uc-website-dedicated-to-unsung-cantabrians-of-wwi.htm
+title: UC website dedicated to unsung Cantabrians of WWI
+date: 2016-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1604/S00347/uc-website-dedicated-to-unsung-cantabrians-of-wwi.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/04/28/uc-website-dedicated-to-unsung-cantabrians-of-wwi/index.html
+layout: layout.njk
 ---
 UC website dedicated to unsung Cantabrians of WWI
 =================================================

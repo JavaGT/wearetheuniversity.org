@@ -1,9 +1,13 @@
 ---
 slug: the-science-of-twins-and-the-human-fascination-with-them
-title: "The Science Of Twins And The Human Fascination With Them"
-date: 2024-07-29
-source-url: https://www.scoop.co.nz/stories/CU2407/S00436/the-science-of-twins-and-the-human-fascination-with-them.htm
+title: The Science Of Twins And The Human Fascination With Them
+date: 2024-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2407/S00436/the-science-of-twins-and-the-human-fascination-with-them.htm
 author: independent-media-institute
+permalink: >-
+  /archive/2024/07/29/the-science-of-twins-and-the-human-fascination-with-them/index.html
+layout: layout.njk
 ---
 The Science Of Twins And The Human Fascination With Them
 ========================================================

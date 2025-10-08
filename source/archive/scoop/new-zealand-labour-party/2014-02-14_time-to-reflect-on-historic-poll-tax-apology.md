@@ -1,9 +1,12 @@
 ---
 slug: time-to-reflect-on-historic-poll-tax-apology
-title: "Time to reflect on historic poll tax apology"
-date: 2014-02-14
-source-url: https://www.scoop.co.nz/stories/PA1402/S00176/time-to-reflect-on-historic-poll-tax-apology.htm
+title: Time to reflect on historic poll tax apology
+date: 2014-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00176/time-to-reflect-on-historic-poll-tax-apology.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/14/time-to-reflect-on-historic-poll-tax-apology/index.html
+layout: layout.njk
 ---
 Time to reflect on historic poll tax apology
 ============================================

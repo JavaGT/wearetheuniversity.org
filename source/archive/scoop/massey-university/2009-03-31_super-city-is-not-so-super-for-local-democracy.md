@@ -1,9 +1,12 @@
 ---
 slug: super-city-is-not-so-super-for-local-democracy
-title: "‘Super' city’ is not so super for local democracy"
-date: 2009-03-31
-source-url: https://www.scoop.co.nz/stories/AK0903/S00470/super-city-is-not-so-super-for-local-democracy.htm
+title: ‘Super' city’ is not so super for local democracy
+date: 2009-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0903/S00470/super-city-is-not-so-super-for-local-democracy.htm
 author: massey-university
+permalink: /archive/2009/03/31/super-city-is-not-so-super-for-local-democracy/index.html
+layout: layout.njk
 ---
 ‘Super' city’ is not so super for local democracy
 =================================================

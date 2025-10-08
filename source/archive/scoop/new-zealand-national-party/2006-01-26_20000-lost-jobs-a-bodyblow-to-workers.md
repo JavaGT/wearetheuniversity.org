@@ -1,9 +1,12 @@
 ---
 slug: 20000-lost-jobs-a-bodyblow-to-workers
-title: "20,000 lost jobs a bodyblow to workers"
-date: 2006-01-26
-source-url: https://www.scoop.co.nz/stories/PA0601/S00137/20000-lost-jobs-a-bodyblow-to-workers.htm
+title: 20,000 lost jobs a bodyblow to workers
+date: 2006-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0601/S00137/20000-lost-jobs-a-bodyblow-to-workers.htm
 author: new-zealand-national-party
+permalink: /archive/2006/01/26/20000-lost-jobs-a-bodyblow-to-workers/index.html
+layout: layout.njk
 ---
 20,000 lost jobs a bodyblow to workers
 ======================================

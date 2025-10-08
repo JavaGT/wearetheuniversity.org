@@ -1,9 +1,12 @@
 ---
 slug: hospital-dental-care-in-dire-straits
-title: "Hospital Dental Care In Dire Straits"
-date: 2005-01-25
-source-url: https://www.scoop.co.nz/stories/PA0501/S00207/hospital-dental-care-in-dire-straits.htm
+title: Hospital Dental Care In Dire Straits
+date: 2005-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00207/hospital-dental-care-in-dire-straits.htm
 author: new-zealand-first-party
+permalink: /archive/2005/01/25/hospital-dental-care-in-dire-straits/index.html
+layout: layout.njk
 ---
 Hospital Dental Care In Dire Straits
 ====================================

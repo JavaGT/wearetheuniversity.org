@@ -1,9 +1,12 @@
 ---
 slug: two-to-receive-honorary-doctorates-in-2004
-title: "Two to receive honorary doctorates in 2004"
-date: 2004-01-23
-source-url: https://www.scoop.co.nz/stories/ED0401/S00026/two-to-receive-honorary-doctorates-in-2004.htm
+title: Two to receive honorary doctorates in 2004
+date: 2004-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0401/S00026/two-to-receive-honorary-doctorates-in-2004.htm
 author: university-of-canterbury
+permalink: /archive/2004/01/23/two-to-receive-honorary-doctorates-in-2004/index.html
+layout: layout.njk
 ---
 Two to receive honorary doctorates in 2004
 ==========================================

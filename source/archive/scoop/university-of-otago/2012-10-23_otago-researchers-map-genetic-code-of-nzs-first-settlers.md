@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-map-genetic-code-of-nzs-first-settlers
-title: "Otago Researchers Map Genetic Code of NZ’s First Settlers"
-date: 2012-10-23
-source-url: https://www.scoop.co.nz/stories/SC1210/S00041/otago-researchers-map-genetic-code-of-nzs-first-settlers.htm
+title: Otago Researchers Map Genetic Code of NZ’s First Settlers
+date: 2012-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00041/otago-researchers-map-genetic-code-of-nzs-first-settlers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/23/otago-researchers-map-genetic-code-of-nzs-first-settlers/index.html
+layout: layout.njk
 ---
 Otago Researchers Map Genetic Code of NZ’s First Settlers
 =========================================================

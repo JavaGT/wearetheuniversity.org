@@ -1,9 +1,12 @@
 ---
 slug: labour-ignores-19-year-old-fines-reparation
-title: "Labour ignores 19-year-old fines, reparation"
-date: 2006-11-15
-source-url: https://www.scoop.co.nz/stories/PA0611/S00284/labour-ignores-19-year-old-fines-reparation.htm
+title: Labour ignores 19-year-old fines, reparation
+date: 2006-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00284/labour-ignores-19-year-old-fines-reparation.htm
 author: new-zealand-national-party
+permalink: /archive/2006/11/15/labour-ignores-19-year-old-fines-reparation/index.html
+layout: layout.njk
 ---
 Labour ignores 19-year-old fines, reparation
 ============================================

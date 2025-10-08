@@ -1,9 +1,13 @@
 ---
 slug: uc-business-student-investigating-tax-issues-in-the-u-s
-title: "UC business student investigating tax issues in the U.S"
-date: 2014-12-14
-source-url: https://www.scoop.co.nz/stories/ED1412/S00089/uc-business-student-investigating-tax-issues-in-the-us.htm
+title: UC business student investigating tax issues in the U.S
+date: 2014-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00089/uc-business-student-investigating-tax-issues-in-the-us.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/12/14/uc-business-student-investigating-tax-issues-in-the-u-s/index.html
+layout: layout.njk
 ---
 UC business student investigating tax issues in the U.S
 =======================================================

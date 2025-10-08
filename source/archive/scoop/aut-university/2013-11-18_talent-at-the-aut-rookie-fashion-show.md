@@ -1,9 +1,12 @@
 ---
 slug: talent-at-the-aut-rookie-fashion-show
-title: "Talent at the AUT Rookie Fashion Show"
-date: 2013-11-18
-source-url: https://www.scoop.co.nz/stories/CU1311/S00367/talent-at-the-aut-rookie-fashion-show.htm
+title: Talent at the AUT Rookie Fashion Show
+date: 2013-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00367/talent-at-the-aut-rookie-fashion-show.htm
 author: aut-university
+permalink: /archive/2013/11/18/talent-at-the-aut-rookie-fashion-show/index.html
+layout: layout.njk
 ---
 Talent at the AUT Rookie Fashion Show
 =====================================

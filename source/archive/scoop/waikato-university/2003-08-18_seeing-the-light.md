@@ -1,9 +1,11 @@
 ---
 slug: seeing-the-light
-title: "Seeing the light"
-date: 2003-08-18
+title: Seeing the light
+date: 2003-08-18T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0308/S00066/seeing-the-light.htm
 author: waikato-university
+permalink: /archive/2003/08/18/seeing-the-light/index.html
+layout: layout.njk
 ---
 Seeing the light
 ================

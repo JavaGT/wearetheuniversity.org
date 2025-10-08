@@ -1,9 +1,12 @@
 ---
 slug: no-surprises-in-statistics-nz-data
-title: "No Surprises in Statistics NZ Data"
-date: 2016-06-29
-source-url: https://www.scoop.co.nz/stories/PO1606/S00345/no-surprises-in-statistics-nz-data.htm
+title: No Surprises in Statistics NZ Data
+date: 2016-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00345/no-surprises-in-statistics-nz-data.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2016/06/29/no-surprises-in-statistics-nz-data/index.html
+layout: layout.njk
 ---
 No Surprises in Statistics NZ Data
 ==================================

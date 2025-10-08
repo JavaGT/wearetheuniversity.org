@@ -1,9 +1,12 @@
 ---
 slug: positive-thoughts-potentially-dangerous
-title: "Positive thoughts potentially dangerous"
-date: 2015-07-14
-source-url: https://www.scoop.co.nz/stories/ED1507/S00067/positive-thoughts-potentially-dangerous.htm
+title: Positive thoughts potentially dangerous
+date: 2015-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00067/positive-thoughts-potentially-dangerous.htm
 author: university-of-canterbury
+permalink: /archive/2015/07/14/positive-thoughts-potentially-dangerous/index.html
+layout: layout.njk
 ---
 Positive thoughts potentially dangerous
 =======================================

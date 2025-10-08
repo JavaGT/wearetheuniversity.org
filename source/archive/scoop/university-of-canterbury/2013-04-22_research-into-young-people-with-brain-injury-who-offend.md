@@ -1,9 +1,13 @@
 ---
 slug: research-into-young-people-with-brain-injury-who-offend
-title: "Research Into Young People With Brain Injury Who Offend"
-date: 2013-04-22
-source-url: https://www.scoop.co.nz/stories/ED1304/S00134/research-into-young-people-with-brain-injury-who-offend.htm
+title: Research Into Young People With Brain Injury Who Offend
+date: 2013-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00134/research-into-young-people-with-brain-injury-who-offend.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/22/research-into-young-people-with-brain-injury-who-offend/index.html
+layout: layout.njk
 ---
 Research Into Young People With Brain Injury Who Offend
 =======================================================

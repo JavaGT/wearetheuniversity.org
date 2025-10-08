@@ -1,9 +1,12 @@
 ---
 slug: aut-hosts-viet-nams-prime-minister
-title: "AUT hosts Viet Nam’s Prime Minister"
-date: 2015-03-20
-source-url: https://www.scoop.co.nz/stories/AK1503/S00575/aut-hosts-viet-nams-prime-minister.htm
+title: AUT hosts Viet Nam’s Prime Minister
+date: 2015-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1503/S00575/aut-hosts-viet-nams-prime-minister.htm
 author: aut-university
+permalink: /archive/2015/03/20/aut-hosts-viet-nams-prime-minister/index.html
+layout: layout.njk
 ---
 AUT hosts Viet Nam’s Prime Minister
 ===================================

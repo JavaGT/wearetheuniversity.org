@@ -1,9 +1,12 @@
 ---
 slug: peters-questions-tranz-rail-safety
-title: "Peters Questions Tranz Rail Safety"
-date: 2003-03-06
-source-url: https://www.scoop.co.nz/stories/PA0303/S00098/peters-questions-tranz-rail-safety.htm
+title: Peters Questions Tranz Rail Safety
+date: 2003-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00098/peters-questions-tranz-rail-safety.htm
 author: new-zealand-first-party
+permalink: /archive/2003/03/06/peters-questions-tranz-rail-safety/index.html
+layout: layout.njk
 ---
 Peters Questions Tranz Rail Safety
 ==================================

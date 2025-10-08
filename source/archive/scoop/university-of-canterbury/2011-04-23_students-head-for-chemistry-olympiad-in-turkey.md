@@ -1,9 +1,12 @@
 ---
 slug: students-head-for-chemistry-olympiad-in-turkey
-title: "Students head for Chemistry Olympiad in Turkey"
-date: 2011-04-23
-source-url: https://www.scoop.co.nz/stories/ED1104/S00074/students-head-for-chemistry-olympiad-in-turkey.htm
+title: Students head for Chemistry Olympiad in Turkey
+date: 2011-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00074/students-head-for-chemistry-olympiad-in-turkey.htm
 author: university-of-canterbury
+permalink: /archive/2011/04/23/students-head-for-chemistry-olympiad-in-turkey/index.html
+layout: layout.njk
 ---
 Students head for Chemistry Olympiad in Turkey
 ==============================================

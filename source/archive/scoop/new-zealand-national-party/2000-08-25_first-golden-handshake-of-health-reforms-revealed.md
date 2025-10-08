@@ -1,9 +1,13 @@
 ---
 slug: first-golden-handshake-of-health-reforms-revealed
-title: "First Golden-Handshake Of Health Reforms Revealed"
-date: 2000-08-25
-source-url: https://www.scoop.co.nz/stories/PA0008/S00499/first-golden-handshake-of-health-reforms-revealed.htm
+title: First Golden-Handshake Of Health Reforms Revealed
+date: 2000-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00499/first-golden-handshake-of-health-reforms-revealed.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/08/25/first-golden-handshake-of-health-reforms-revealed/index.html
+layout: layout.njk
 ---
 First Golden-Handshake Of Health Reforms Revealed
 =================================================

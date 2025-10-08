@@ -1,9 +1,12 @@
 ---
 slug: researchers-develop-tool-to-assess-athlete-diet
-title: "Researchers develop tool to assess athlete diet"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/SC1605/S00051/researchers-develop-tool-to-assess-athlete-diet.htm
+title: Researchers develop tool to assess athlete diet
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00051/researchers-develop-tool-to-assess-athlete-diet.htm
 author: massey-university
+permalink: /archive/2016/05/19/researchers-develop-tool-to-assess-athlete-diet/index.html
+layout: layout.njk
 ---
 Researchers develop tool to assess athlete diet
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: local-businessman-nationals-wigram-candidate
-title: "Local businessman National’s Wigram candidate"
-date: 2016-11-21
-source-url: https://www.scoop.co.nz/stories/PO1611/S00283/local-businessman-nationals-wigram-candidate.htm
+title: Local businessman National’s Wigram candidate
+date: 2016-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1611/S00283/local-businessman-nationals-wigram-candidate.htm
 author: new-zealand-national-party
+permalink: /archive/2016/11/21/local-businessman-nationals-wigram-candidate/index.html
+layout: layout.njk
 ---
 Local businessman National’s Wigram candidate
 =============================================

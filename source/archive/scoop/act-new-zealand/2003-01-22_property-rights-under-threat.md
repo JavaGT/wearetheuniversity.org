@@ -1,9 +1,11 @@
 ---
 slug: property-rights-under-threat
-title: "Property Rights Under Threat"
-date: 2003-01-22
+title: Property Rights Under Threat
+date: 2003-01-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00164/property-rights-under-threat.htm
 author: act-new-zealand
+permalink: /archive/2003/01/22/property-rights-under-threat/index.html
+layout: layout.njk
 ---
 Property Rights Under Threat
 ============================

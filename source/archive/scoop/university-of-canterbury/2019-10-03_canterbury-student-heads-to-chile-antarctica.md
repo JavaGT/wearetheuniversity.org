@@ -1,9 +1,12 @@
 ---
 slug: canterbury-student-heads-to-chile-antarctica
-title: "Canterbury student heads to Chile, Antarctica"
-date: 2019-10-03
-source-url: https://www.scoop.co.nz/stories/ED1910/S00009/canterbury-student-heads-to-chile-antarctica.htm
+title: Canterbury student heads to Chile, Antarctica
+date: 2019-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00009/canterbury-student-heads-to-chile-antarctica.htm
 author: university-of-canterbury
+permalink: /archive/2019/10/03/canterbury-student-heads-to-chile-antarctica/index.html
+layout: layout.njk
 ---
 Canterbury student heads to Chile, Antarctica
 =============================================

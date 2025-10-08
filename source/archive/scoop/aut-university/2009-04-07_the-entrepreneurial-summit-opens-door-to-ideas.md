@@ -1,9 +1,12 @@
 ---
 slug: the-entrepreneurial-summit-opens-door-to-ideas
-title: "The Entrepreneurial Summit opens door to ideas"
-date: 2009-04-07
-source-url: https://www.scoop.co.nz/stories/BU0904/S00151/the-entrepreneurial-summit-opens-door-to-ideas.htm
+title: The Entrepreneurial Summit opens door to ideas
+date: 2009-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0904/S00151/the-entrepreneurial-summit-opens-door-to-ideas.htm
 author: aut-university
+permalink: /archive/2009/04/07/the-entrepreneurial-summit-opens-door-to-ideas/index.html
+layout: layout.njk
 ---
 The Entrepreneurial Summit opens door to ideas
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: coping-with-the-uncertainty-of-earthquake-aftershocks
-title: "Coping with the uncertainty of earthquake aftershocks"
-date: 2011-01-21
-source-url: https://www.scoop.co.nz/stories/AK1101/S00428/coping-with-the-uncertainty-of-earthquake-aftershocks.htm
+title: Coping with the uncertainty of earthquake aftershocks
+date: 2011-01-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1101/S00428/coping-with-the-uncertainty-of-earthquake-aftershocks.htm
 author: massey-university
+permalink: >-
+  /archive/2011/01/21/coping-with-the-uncertainty-of-earthquake-aftershocks/index.html
+layout: layout.njk
 ---
 Coping with the uncertainty of earthquake aftershocks
 =====================================================

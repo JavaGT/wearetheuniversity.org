@@ -1,9 +1,12 @@
 ---
 slug: student-loans-policy-easily-affordable
-title: "Student loans policy easily affordable"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00387/student-loans-policy-easily-affordable.htm
+title: Student loans policy easily affordable
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00387/student-loans-policy-easily-affordable.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/09/14/student-loans-policy-easily-affordable/index.html
+layout: layout.njk
 ---
 Student loans policy easily affordable
 ======================================

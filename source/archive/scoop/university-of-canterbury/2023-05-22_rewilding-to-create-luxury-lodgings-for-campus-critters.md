@@ -1,9 +1,13 @@
 ---
 slug: rewilding-to-create-luxury-lodgings-for-campus-critters
-title: "Rewilding To Create Luxury Lodgings For Campus Critters"
-date: 2023-05-22
-source-url: https://www.scoop.co.nz/stories/ED2305/S00030/rewilding-to-create-luxury-lodgings-for-campus-critters.htm
+title: Rewilding To Create Luxury Lodgings For Campus Critters
+date: 2023-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2305/S00030/rewilding-to-create-luxury-lodgings-for-campus-critters.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/22/rewilding-to-create-luxury-lodgings-for-campus-critters/index.html
+layout: layout.njk
 ---
 Rewilding To Create Luxury Lodgings For Campus Critters
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: entries-open-for-new-zealands-richest-short-story-competition
-title: "Entries Open For New Zealand’s Richest Short Story Competition"
-date: 2022-03-30
-source-url: https://www.scoop.co.nz/stories/CU2203/S00212/entries-open-for-new-zealands-richest-short-story-competition.htm
+title: Entries Open For New Zealand’s Richest Short Story Competition
+date: 2022-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2203/S00212/entries-open-for-new-zealands-richest-short-story-competition.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2022/03/30/entries-open-for-new-zealands-richest-short-story-competition/index.html
+layout: layout.njk
 ---
 Entries Open For New Zealand’s Richest Short Story Competition
 ==============================================================

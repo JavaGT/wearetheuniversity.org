@@ -1,9 +1,12 @@
 ---
 slug: minister-punishes-non-union-principals
-title: "Minister punishes non-union principals"
-date: 2003-10-09
-source-url: https://www.scoop.co.nz/stories/PA0310/S00194/minister-punishes-non-union-principals.htm
+title: Minister punishes non-union principals
+date: 2003-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00194/minister-punishes-non-union-principals.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/09/minister-punishes-non-union-principals/index.html
+layout: layout.njk
 ---
 Minister punishes non-union principals
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: nzei-welcomes-te-marautanga-o-aotearoa
-title: "NZEI Welcomes Te Marautanga O Aotearoa"
-date: 2007-11-15
-source-url: https://www.scoop.co.nz/stories/ED0711/S00082/nzei-welcomes-te-marautanga-o-aotearoa.htm
+title: NZEI Welcomes Te Marautanga O Aotearoa
+date: 2007-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00082/nzei-welcomes-te-marautanga-o-aotearoa.htm
 author: nzei
+permalink: /archive/2007/11/15/nzei-welcomes-te-marautanga-o-aotearoa/index.html
+layout: layout.njk
 ---
 NZEI Welcomes Te Marautanga O Aotearoa
 ======================================

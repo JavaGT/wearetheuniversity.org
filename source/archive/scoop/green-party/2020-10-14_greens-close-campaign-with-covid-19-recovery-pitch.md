@@ -1,9 +1,13 @@
 ---
 slug: greens-close-campaign-with-covid-19-recovery-pitch
-title: "Greens Close Campaign With COVID-19 Recovery Pitch"
-date: 2020-10-14
-source-url: https://www.scoop.co.nz/stories/PO2010/S00180/greens-close-campaign-with-covid-19-recovery-pitch.htm
+title: Greens Close Campaign With COVID-19 Recovery Pitch
+date: 2020-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00180/greens-close-campaign-with-covid-19-recovery-pitch.htm
 author: green-party
+permalink: >-
+  /archive/2020/10/14/greens-close-campaign-with-covid-19-recovery-pitch/index.html
+layout: layout.njk
 ---
 Greens Close Campaign With COVID-19 Recovery Pitch
 ==================================================

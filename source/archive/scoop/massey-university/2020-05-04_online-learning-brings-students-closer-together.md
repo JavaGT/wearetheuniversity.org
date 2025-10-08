@@ -1,9 +1,12 @@
 ---
 slug: online-learning-brings-students-closer-together
-title: "Online Learning Brings Students Closer Together"
-date: 2020-05-04
-source-url: https://www.scoop.co.nz/stories/ED2005/S00005/online-learning-brings-students-closer-together.htm
+title: Online Learning Brings Students Closer Together
+date: 2020-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00005/online-learning-brings-students-closer-together.htm
 author: massey-university
+permalink: /archive/2020/05/04/online-learning-brings-students-closer-together/index.html
+layout: layout.njk
 ---
 Online Learning Brings Students Closer Together
 ===============================================

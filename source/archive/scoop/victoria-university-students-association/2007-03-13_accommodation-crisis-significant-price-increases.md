@@ -1,9 +1,13 @@
 ---
 slug: accommodation-crisis-significant-price-increases
-title: "Accommodation Crisis: significant price increases"
-date: 2007-03-13
-source-url: https://www.scoop.co.nz/stories/ED0703/S00032/accommodation-crisis-significant-price-increases.htm
+title: 'Accommodation Crisis: significant price increases'
+date: 2007-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00032/accommodation-crisis-significant-price-increases.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2007/03/13/accommodation-crisis-significant-price-increases/index.html
+layout: layout.njk
 ---
 Accommodation Crisis: significant price increases
 =================================================

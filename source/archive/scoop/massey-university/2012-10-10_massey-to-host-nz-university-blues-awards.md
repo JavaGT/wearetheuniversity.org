@@ -1,9 +1,12 @@
 ---
 slug: massey-to-host-nz-university-blues-awards
-title: "Massey to Host NZ University Blues Awards"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/ED1210/S00070/massey-to-host-nz-university-blues-awards.htm
+title: Massey to Host NZ University Blues Awards
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00070/massey-to-host-nz-university-blues-awards.htm
 author: massey-university
+permalink: /archive/2012/10/10/massey-to-host-nz-university-blues-awards/index.html
+layout: layout.njk
 ---
 Massey to Host NZ University Blues Awards
 =========================================

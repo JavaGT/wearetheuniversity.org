@@ -1,9 +1,12 @@
 ---
 slug: labour-in-denial-over-midwife-shortage
-title: "Labour in denial over midwife shortage"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/PA0804/S00267/labour-in-denial-over-midwife-shortage.htm
+title: Labour in denial over midwife shortage
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00267/labour-in-denial-over-midwife-shortage.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/10/labour-in-denial-over-midwife-shortage/index.html
+layout: layout.njk
 ---
 Labour in denial over midwife shortage
 ======================================

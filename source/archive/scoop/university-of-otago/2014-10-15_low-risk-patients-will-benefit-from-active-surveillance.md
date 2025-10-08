@@ -1,9 +1,13 @@
 ---
 slug: low-risk-patients-will-benefit-from-active-surveillance
-title: "Low-risk patients will benefit from active surveillance"
-date: 2014-10-15
-source-url: https://www.scoop.co.nz/stories/GE1410/S00100/low-risk-patients-will-benefit-from-active-surveillance.htm
+title: Low-risk patients will benefit from active surveillance
+date: 2014-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1410/S00100/low-risk-patients-will-benefit-from-active-surveillance.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/10/15/low-risk-patients-will-benefit-from-active-surveillance/index.html
+layout: layout.njk
 ---
 Low-risk patients will benefit from active surveillance
 =======================================================

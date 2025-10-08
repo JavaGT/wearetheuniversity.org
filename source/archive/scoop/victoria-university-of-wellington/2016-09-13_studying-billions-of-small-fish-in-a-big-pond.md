@@ -1,9 +1,12 @@
 ---
 slug: studying-billions-of-small-fish-in-a-big-pond
-title: "Studying billions of small fish in a big pond"
-date: 2016-09-13
-source-url: https://www.scoop.co.nz/stories/SC1609/S00041/studying-billions-of-small-fish-in-a-big-pond.htm
+title: Studying billions of small fish in a big pond
+date: 2016-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1609/S00041/studying-billions-of-small-fish-in-a-big-pond.htm
 author: victoria-university-of-wellington
+permalink: /archive/2016/09/13/studying-billions-of-small-fish-in-a-big-pond/index.html
+layout: layout.njk
 ---
 Studying billions of small fish in a big pond
 =============================================

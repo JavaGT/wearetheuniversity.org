@@ -1,9 +1,12 @@
 ---
 slug: violence-a-problem-in-the-workplace-study-shows
-title: "Violence a problem in the workplace, study shows"
-date: 2009-02-16
-source-url: https://www.scoop.co.nz/stories/PO0902/S00154/violence-a-problem-in-the-workplace-study-shows.htm
+title: Violence a problem in the workplace, study shows
+date: 2009-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0902/S00154/violence-a-problem-in-the-workplace-study-shows.htm
 author: massey-university
+permalink: /archive/2009/02/16/violence-a-problem-in-the-workplace-study-shows/index.html
+layout: layout.njk
 ---
 Violence a problem in the workplace, study shows
 ================================================

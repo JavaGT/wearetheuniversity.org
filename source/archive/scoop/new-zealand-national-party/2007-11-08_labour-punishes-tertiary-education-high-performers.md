@@ -1,9 +1,13 @@
 ---
 slug: labour-punishes-tertiary-education-high-performers
-title: "Labour punishes tertiary education high performers"
-date: 2007-11-08
-source-url: https://www.scoop.co.nz/stories/PA0711/S00146/labour-punishes-tertiary-education-high-performers.htm
+title: Labour punishes tertiary education high performers
+date: 2007-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00146/labour-punishes-tertiary-education-high-performers.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/11/08/labour-punishes-tertiary-education-high-performers/index.html
+layout: layout.njk
 ---
 Labour punishes tertiary education high performers
 ==================================================

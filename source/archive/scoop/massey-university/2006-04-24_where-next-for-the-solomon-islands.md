@@ -1,9 +1,12 @@
 ---
 slug: where-next-for-the-solomon-islands
-title: "Where next for the Solomon Islands?"
-date: 2006-04-24
-source-url: https://www.scoop.co.nz/stories/PO0604/S00190/where-next-for-the-solomon-islands.htm
+title: Where next for the Solomon Islands?
+date: 2006-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0604/S00190/where-next-for-the-solomon-islands.htm
 author: massey-university
+permalink: /archive/2006/04/24/where-next-for-the-solomon-islands/index.html
+layout: layout.njk
 ---
 Where next for the Solomon Islands?
 ===================================

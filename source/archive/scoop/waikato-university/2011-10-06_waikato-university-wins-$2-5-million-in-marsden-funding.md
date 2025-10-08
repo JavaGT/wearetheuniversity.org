@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-wins-$2-5-million-in-marsden-funding
-title: "Waikato University wins $2.5 million in Marsden funding"
-date: 2011-10-06
-source-url: https://www.scoop.co.nz/stories/ED1110/S00024/waikato-university-wins-25-million-in-marsden-funding.htm
+title: Waikato University wins $2.5 million in Marsden funding
+date: 2011-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00024/waikato-university-wins-25-million-in-marsden-funding.htm
 author: waikato-university
+permalink: /archive/2011/10/06/waikato-university-wins-/index.html
+layout: layout.njk
 ---
 Waikato University wins $2.5 million in Marsden funding
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: universities-a-key-part-of-the-solution
-title: "Universities a key part of the solution"
-date: 2015-05-21
-source-url: https://www.scoop.co.nz/stories/PO1505/S00291/universities-a-key-part-of-the-solution.htm
+title: Universities a key part of the solution
+date: 2015-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1505/S00291/universities-a-key-part-of-the-solution.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2015/05/21/universities-a-key-part-of-the-solution/index.html
+layout: layout.njk
 ---
 Universities a key part of the solution
 =======================================

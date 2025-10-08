@@ -1,9 +1,12 @@
 ---
 slug: english-classes-being-offered-on-uc-campus
-title: "English classes being offered on UC campus"
-date: 2012-10-05
-source-url: https://www.scoop.co.nz/stories/ED1210/S00044/english-classes-being-offered-on-uc-campus.htm
+title: English classes being offered on UC campus
+date: 2012-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00044/english-classes-being-offered-on-uc-campus.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/05/english-classes-being-offered-on-uc-campus/index.html
+layout: layout.njk
 ---
 English classes being offered on UC campus
 ==========================================

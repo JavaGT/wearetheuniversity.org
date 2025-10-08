@@ -1,9 +1,13 @@
 ---
 slug: commentary-on-new-loan-to-value-ratio-restrictions
-title: "Commentary on new loan-to-value ratio restrictions"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/ED1310/S00026/commentary-on-new-loan-to-value-ratio-restrictions.htm
+title: Commentary on new loan-to-value ratio restrictions
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00026/commentary-on-new-loan-to-value-ratio-restrictions.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/10/02/commentary-on-new-loan-to-value-ratio-restrictions/index.html
+layout: layout.njk
 ---
 Commentary on new loan-to-value ratio restrictions
 ==================================================

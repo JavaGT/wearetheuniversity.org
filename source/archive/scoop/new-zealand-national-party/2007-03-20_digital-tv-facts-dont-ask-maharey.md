@@ -1,9 +1,12 @@
 ---
 slug: digital-tv-facts-dont-ask-maharey
-title: "Digital TV Facts - Don't Ask Maharey"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/PA0703/S00392/digital-tv-facts-dont-ask-maharey.htm
+title: Digital TV Facts - Don't Ask Maharey
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00392/digital-tv-facts-dont-ask-maharey.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/20/digital-tv-facts-dont-ask-maharey/index.html
+layout: layout.njk
 ---
 Digital TV Facts - Don't Ask Maharey
 ====================================

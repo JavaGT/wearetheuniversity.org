@@ -1,8 +1,11 @@
 ---
 slug: ausa-to-raise-money-for-christchurch
-title: "AUSA to raise money for Christchurch"
-date: 2011-02-23
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/AUSA-to-raise-money-for-Christchurch.html
+title: AUSA to raise money for Christchurch
+date: 2011-02-23T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/notices/notices-2011/2011/02/23/AUSA-to-raise-money-for-Christchurch.html
+permalink: /archive/2011/02/23/ausa-to-raise-money-for-christchurch/index.html
+layout: layout.njk
 ---
 AUSA to raise money for Christchurch
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: fans-expect-personal-relationship-with-musicians
-title: "Fans expect personal relationship with musicians"
-date: 2014-12-09
-source-url: https://www.scoop.co.nz/stories/CU1412/S00201/fans-expect-personal-relationship-with-musicians.htm
+title: Fans expect personal relationship with musicians
+date: 2014-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1412/S00201/fans-expect-personal-relationship-with-musicians.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/12/09/fans-expect-personal-relationship-with-musicians/index.html
+layout: layout.njk
 ---
 Fans expect personal relationship with musicians
 ================================================

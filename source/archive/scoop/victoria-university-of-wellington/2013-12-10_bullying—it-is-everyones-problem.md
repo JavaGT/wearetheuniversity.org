@@ -1,9 +1,12 @@
 ---
 slug: bullying—it-is-everyones-problem
-title: "Bullying—\"It is everyone’s problem\""
-date: 2013-12-10
-source-url: https://www.scoop.co.nz/stories/CU1312/S00176/bullying-it-is-everyones-problem.htm
+title: Bullying—"It is everyone’s problem"
+date: 2013-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00176/bullying-it-is-everyones-problem.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/10/bullying/index.html
+layout: layout.njk
 ---
 Bullying—“It is everyone’s problem”
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: key-driver-of-economic-growth-neglected
-title: "Key driver of economic growth neglected"
-date: 2006-08-31
-source-url: https://www.scoop.co.nz/stories/PA0608/S00546/key-driver-of-economic-growth-neglected.htm
+title: Key driver of economic growth neglected
+date: 2006-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00546/key-driver-of-economic-growth-neglected.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/31/key-driver-of-economic-growth-neglected/index.html
+layout: layout.njk
 ---
 Key driver of economic growth neglected
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: act-proposes-amendments-to-protect-volunteers
-title: "ACT Proposes Amendments to Protect Volunteers"
-date: 2002-11-04
-source-url: https://www.scoop.co.nz/stories/PA0211/S00053/act-proposes-amendments-to-protect-volunteers.htm
+title: ACT Proposes Amendments to Protect Volunteers
+date: 2002-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00053/act-proposes-amendments-to-protect-volunteers.htm
 author: act-new-zealand
+permalink: /archive/2002/11/04/act-proposes-amendments-to-protect-volunteers/index.html
+layout: layout.njk
 ---
 ACT Proposes Amendments to Protect Volunteers
 =============================================

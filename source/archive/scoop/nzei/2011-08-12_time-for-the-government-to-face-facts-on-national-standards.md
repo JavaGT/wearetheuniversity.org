@@ -1,9 +1,13 @@
 ---
 slug: time-for-the-government-to-face-facts-on-national-standards
-title: "Time for the government to face facts on National Standards"
-date: 2011-08-12
-source-url: https://www.scoop.co.nz/stories/ED1108/S00079/time-for-the-government-to-face-facts-on-national-standards.htm
+title: Time for the government to face facts on National Standards
+date: 2011-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00079/time-for-the-government-to-face-facts-on-national-standards.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/12/time-for-the-government-to-face-facts-on-national-standards/index.html
+layout: layout.njk
 ---
 Time for the government to face facts on National Standards
 ===========================================================

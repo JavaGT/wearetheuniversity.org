@@ -1,9 +1,13 @@
 ---
 slug: survey-shows-stark-reality-of-government-ece-cuts
-title: "Survey Shows Stark Reality of Government ECE Cuts"
-date: 2010-12-01
-source-url: https://www.scoop.co.nz/stories/ED1012/S00005/survey-shows-stark-reality-of-government-ece-cuts.htm
+title: Survey Shows Stark Reality of Government ECE Cuts
+date: 2010-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1012/S00005/survey-shows-stark-reality-of-government-ece-cuts.htm
 author: nzei
+permalink: >-
+  /archive/2010/12/01/survey-shows-stark-reality-of-government-ece-cuts/index.html
+layout: layout.njk
 ---
 Survey Shows Stark Reality of Government ECE Cuts
 =================================================

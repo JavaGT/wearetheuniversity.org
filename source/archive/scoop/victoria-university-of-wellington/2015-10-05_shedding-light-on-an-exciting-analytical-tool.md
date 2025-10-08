@@ -1,9 +1,12 @@
 ---
 slug: shedding-light-on-an-exciting-analytical-tool
-title: "Shedding light on an exciting analytical tool"
-date: 2015-10-05
-source-url: https://www.scoop.co.nz/stories/ED1510/S00021/shedding-light-on-an-exciting-analytical-tool.htm
+title: Shedding light on an exciting analytical tool
+date: 2015-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00021/shedding-light-on-an-exciting-analytical-tool.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/10/05/shedding-light-on-an-exciting-analytical-tool/index.html
+layout: layout.njk
 ---
 Shedding light on an exciting analytical tool
 =============================================

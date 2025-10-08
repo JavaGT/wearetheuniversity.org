@@ -1,9 +1,12 @@
 ---
 slug: dangerous-signals-for-tertiary-education
-title: "Dangerous Signals for Tertiary education"
-date: 2010-02-10
-source-url: https://www.scoop.co.nz/stories/PA1002/S00108/dangerous-signals-for-tertiary-education.htm
+title: Dangerous Signals for Tertiary education
+date: 2010-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00108/dangerous-signals-for-tertiary-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/02/10/dangerous-signals-for-tertiary-education/index.html
+layout: layout.njk
 ---
 Dangerous Signals for Tertiary education
 ========================================

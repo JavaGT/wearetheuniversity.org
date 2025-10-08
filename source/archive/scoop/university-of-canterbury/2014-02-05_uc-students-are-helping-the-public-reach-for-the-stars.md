@@ -1,9 +1,13 @@
 ---
 slug: uc-students-are-helping-the-public-reach-for-the-stars
-title: "UC students are helping the public reach for the stars"
-date: 2014-02-05
-source-url: https://www.scoop.co.nz/stories/ED1402/S00015/uc-students-are-helping-the-public-reach-for-the-stars.htm
+title: UC students are helping the public reach for the stars
+date: 2014-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00015/uc-students-are-helping-the-public-reach-for-the-stars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/05/uc-students-are-helping-the-public-reach-for-the-stars/index.html
+layout: layout.njk
 ---
 UC students are helping the public reach for the stars
 ======================================================

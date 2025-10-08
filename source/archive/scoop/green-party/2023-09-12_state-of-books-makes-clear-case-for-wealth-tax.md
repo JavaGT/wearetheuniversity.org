@@ -1,9 +1,12 @@
 ---
 slug: state-of-books-makes-clear-case-for-wealth-tax
-title: "State Of Books Makes Clear Case For Wealth Tax"
-date: 2023-09-12
-source-url: https://www.scoop.co.nz/stories/PA2309/S00065/state-of-books-makes-clear-case-for-wealth-tax.htm
+title: State Of Books Makes Clear Case For Wealth Tax
+date: 2023-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2309/S00065/state-of-books-makes-clear-case-for-wealth-tax.htm
 author: green-party
+permalink: /archive/2023/09/12/state-of-books-makes-clear-case-for-wealth-tax/index.html
+layout: layout.njk
 ---
 State Of Books Makes Clear Case For Wealth Tax
 ==============================================

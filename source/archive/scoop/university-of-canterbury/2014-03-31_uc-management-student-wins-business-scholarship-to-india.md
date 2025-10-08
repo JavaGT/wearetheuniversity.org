@@ -1,9 +1,13 @@
 ---
 slug: uc-management-student-wins-business-scholarship-to-india
-title: "UC management student wins business scholarship to India"
-date: 2014-03-31
-source-url: https://www.scoop.co.nz/stories/ED1403/S00176/uc-management-student-wins-business-scholarship-to-india.htm
+title: UC management student wins business scholarship to India
+date: 2014-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00176/uc-management-student-wins-business-scholarship-to-india.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/03/31/uc-management-student-wins-business-scholarship-to-india/index.html
+layout: layout.njk
 ---
 UC management student wins business scholarship to India
 ========================================================

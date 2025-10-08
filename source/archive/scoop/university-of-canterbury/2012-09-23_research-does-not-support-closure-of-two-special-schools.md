@@ -1,9 +1,13 @@
 ---
 slug: research-does-not-support-closure-of-two-special-schools
-title: "Research does not support closure of two special schools"
-date: 2012-09-23
-source-url: https://www.scoop.co.nz/stories/ED1209/S00175/research-does-not-support-closure-of-two-special-schools.htm
+title: Research does not support closure of two special schools
+date: 2012-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1209/S00175/research-does-not-support-closure-of-two-special-schools.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/23/research-does-not-support-closure-of-two-special-schools/index.html
+layout: layout.njk
 ---
 Research does not support closure of two special schools
 ========================================================

@@ -1,9 +1,12 @@
 ---
 slug: harawira-waikato-tainui-raupatu-settlement-bill
-title: "Harawira: Waikato Tainui Raupatu Settlement Bill"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/PA0809/S00561/harawira-waikato-tainui-raupatu-settlement-bill.htm
+title: 'Harawira: Waikato Tainui Raupatu Settlement Bill'
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00561/harawira-waikato-tainui-raupatu-settlement-bill.htm
 author: te-pati-maori
+permalink: /archive/2008/09/25/harawira-waikato-tainui-raupatu-settlement-bill/index.html
+layout: layout.njk
 ---
 Harawira: Waikato Tainui Raupatu Settlement Bill
 ================================================

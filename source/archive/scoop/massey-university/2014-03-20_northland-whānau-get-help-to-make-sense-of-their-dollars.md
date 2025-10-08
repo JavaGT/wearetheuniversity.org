@@ -1,9 +1,12 @@
 ---
 slug: northland-whānau-get-help-to-make-sense-of-their-dollars
-title: "Northland whānau get help to make sense of their dollars"
-date: 2014-03-20
-source-url: https://www.scoop.co.nz/stories/ED1403/S00120/northland-whanau-get-help-to-make-sense-of-their-dollars.htm
+title: Northland whānau get help to make sense of their dollars
+date: 2014-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00120/northland-whanau-get-help-to-make-sense-of-their-dollars.htm
 author: massey-university
+permalink: /archive/2014/03/20/northland-wh/index.html
+layout: layout.njk
 ---
 Northland whānau get help to make sense of their dollars
 ========================================================

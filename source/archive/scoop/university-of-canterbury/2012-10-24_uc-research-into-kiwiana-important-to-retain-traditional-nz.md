@@ -1,9 +1,13 @@
 ---
 slug: uc-research-into-kiwiana-important-to-retain-traditional-nz
-title: "UC research into Kiwiana important to retain traditional NZ"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/ED1210/S00133/uc-research-into-kiwiana-important-to-retain-traditional-nz.htm
+title: UC research into Kiwiana important to retain traditional NZ
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00133/uc-research-into-kiwiana-important-to-retain-traditional-nz.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/24/uc-research-into-kiwiana-important-to-retain-traditional-nz/index.html
+layout: layout.njk
 ---
 UC research into Kiwiana important to retain traditional NZ
 ===========================================================

@@ -1,9 +1,13 @@
 ---
 slug: new-appointment-for-the-university-of-otago-in-tairāwhiti
-title: "New appointment for the University of Otago in Tairāwhiti"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/ED1705/S00074/new-appointment-for-the-university-of-otago-in-tairawhiti.htm
+title: New appointment for the University of Otago in Tairāwhiti
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00074/new-appointment-for-the-university-of-otago-in-tairawhiti.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/05/17/new-appointment-for-the-university-of-otago-in-tair/index.html
+layout: layout.njk
 ---
 New appointment for the University of Otago in Tairāwhiti
 =========================================================

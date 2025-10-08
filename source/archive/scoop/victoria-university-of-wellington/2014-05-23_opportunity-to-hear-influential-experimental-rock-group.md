@@ -1,9 +1,13 @@
 ---
 slug: opportunity-to-hear-influential-experimental-rock-group
-title: "Opportunity to hear influential experimental rock group"
-date: 2014-05-23
-source-url: https://www.scoop.co.nz/stories/CU1405/S00352/opportunity-to-hear-influential-experimental-rock-group.htm
+title: Opportunity to hear influential experimental rock group
+date: 2014-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1405/S00352/opportunity-to-hear-influential-experimental-rock-group.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/05/23/opportunity-to-hear-influential-experimental-rock-group/index.html
+layout: layout.njk
 ---
 Opportunity to hear influential experimental rock group
 =======================================================

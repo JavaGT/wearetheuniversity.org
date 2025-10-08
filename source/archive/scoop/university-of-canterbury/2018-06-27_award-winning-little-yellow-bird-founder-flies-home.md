@@ -1,9 +1,13 @@
 ---
 slug: award-winning-little-yellow-bird-founder-flies-home
-title: "Award-winning Little Yellow Bird founder flies home"
-date: 2018-06-27
-source-url: https://www.scoop.co.nz/stories/BU1806/S00644/award-winning-little-yellow-bird-founder-flies-home.htm
+title: Award-winning Little Yellow Bird founder flies home
+date: 2018-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1806/S00644/award-winning-little-yellow-bird-founder-flies-home.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/06/27/award-winning-little-yellow-bird-founder-flies-home/index.html
+layout: layout.njk
 ---
 Award-winning Little Yellow Bird founder flies home
 ===================================================

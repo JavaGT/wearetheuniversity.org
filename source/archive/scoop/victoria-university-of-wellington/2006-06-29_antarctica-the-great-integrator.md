@@ -1,9 +1,12 @@
 ---
 slug: antarctica-the-great-integrator
-title: "Antarctica – the Great Integrator"
-date: 2006-06-29
-source-url: https://www.scoop.co.nz/stories/ED0606/S00077/antarctica-the-great-integrator.htm
+title: Antarctica – the Great Integrator
+date: 2006-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0606/S00077/antarctica-the-great-integrator.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/06/29/antarctica-the-great-integrator/index.html
+layout: layout.njk
 ---
 Antarctica – the Great Integrator
 =================================

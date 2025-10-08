@@ -1,9 +1,12 @@
 ---
 slug: new-rules-will-hurt-more-than-they-will-help
-title: "New rules will hurt more than they will help"
-date: 2016-03-30
-source-url: https://www.scoop.co.nz/stories/PA1603/S00473/new-rules-will-hurt-more-than-they-will-help.htm
+title: New rules will hurt more than they will help
+date: 2016-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00473/new-rules-will-hurt-more-than-they-will-help.htm
 author: act-new-zealand
+permalink: /archive/2016/03/30/new-rules-will-hurt-more-than-they-will-help/index.html
+layout: layout.njk
 ---
 New rules will hurt more than they will help
 ============================================

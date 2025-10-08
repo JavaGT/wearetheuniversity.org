@@ -1,9 +1,11 @@
 ---
 slug: labour-bungles-ncea-backdown
-title: "Labour bungles NCEA backdown"
-date: 2005-03-02
+title: Labour bungles NCEA backdown
+date: 2005-03-02T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0503/S00065/labour-bungles-ncea-backdown.htm
 author: new-zealand-national-party
+permalink: /archive/2005/03/02/labour-bungles-ncea-backdown/index.html
+layout: layout.njk
 ---
 Labour bungles NCEA backdown
 ============================

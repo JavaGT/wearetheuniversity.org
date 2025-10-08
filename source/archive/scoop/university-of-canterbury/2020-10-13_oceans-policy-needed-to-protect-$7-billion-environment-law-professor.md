@@ -1,9 +1,12 @@
 ---
 slug: oceans-policy-needed-to-protect-$7-billion-environment-law-professor
-title: "Oceans Policy Needed To Protect $7 Billion Environment - Law Professor"
-date: 2020-10-13
-source-url: https://www.scoop.co.nz/stories/PO2010/S00165/oceans-policy-needed-to-protect-7-billion-environment-law-professor.htm
+title: Oceans Policy Needed To Protect $7 Billion Environment - Law Professor
+date: 2020-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00165/oceans-policy-needed-to-protect-7-billion-environment-law-professor.htm
 author: university-of-canterbury
+permalink: /archive/2020/10/13/oceans-policy-needed-to-protect-/index.html
+layout: layout.njk
 ---
 Oceans Policy Needed To Protect $7 Billion Environment - Law Professor
 ======================================================================

@@ -1,9 +1,13 @@
 ---
 slug: christchurch-wins-digi-tech-conference-to-shape-future-learning
-title: "Christchurch Wins Digi-tech Conference To Shape Future Learning"
-date: 2022-04-05
-source-url: https://www.scoop.co.nz/stories/ED2204/S00005/christchurch-wins-digi-tech-conference-to-shape-future-learning.htm
+title: Christchurch Wins Digi-tech Conference To Shape Future Learning
+date: 2022-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2204/S00005/christchurch-wins-digi-tech-conference-to-shape-future-learning.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/04/05/christchurch-wins-digi-tech-conference-to-shape-future-learning/index.html
+layout: layout.njk
 ---
 Christchurch Wins Digi-tech Conference To Shape Future Learning
 ===============================================================

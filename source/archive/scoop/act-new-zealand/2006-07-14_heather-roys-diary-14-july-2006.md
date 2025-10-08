@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-14-july-2006
-title: "Heather Roy's Diary 14 July 2006"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/PA0607/S00214/heather-roys-diary-14-july-2006.htm
+title: Heather Roy's Diary 14 July 2006
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00214/heather-roys-diary-14-july-2006.htm
 author: act-new-zealand
+permalink: /archive/2006/07/14/heather-roys-diary-14-july-2006/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary 14 July 2006
 ================================

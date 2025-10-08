@@ -1,9 +1,12 @@
 ---
 slug: sustainability-at-a-crossroads
-title: "Sustainability at a crossroads"
-date: 2009-10-12
-source-url: https://www.scoop.co.nz/stories/ED0910/S00050/sustainability-at-a-crossroads.htm
+title: Sustainability at a crossroads
+date: 2009-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00050/sustainability-at-a-crossroads.htm
 author: university-of-waikato
+permalink: /archive/2009/10/12/sustainability-at-a-crossroads/index.html
+layout: layout.njk
 ---
 Sustainability at a crossroads
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: ais-impact-on-environmental-reporting
-title: "AI's Impact On Environmental Reporting"
-date: 2024-02-21
-source-url: https://www.scoop.co.nz/stories/SC2402/S00034/ais-impact-on-environmental-reporting.htm
+title: AI's Impact On Environmental Reporting
+date: 2024-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2402/S00034/ais-impact-on-environmental-reporting.htm
 author: university-of-auckland-business-school
+permalink: /archive/2024/02/21/ais-impact-on-environmental-reporting/index.html
+layout: layout.njk
 ---
 AI's Impact On Environmental Reporting
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: national-offer-conditional-support-for-dhb-appointment
-title: "National offer conditional support for DHB appointment"
-date: 2019-04-16
-source-url: https://www.scoop.co.nz/stories/PA1904/S00146/national-offer-conditional-support-for-dhb-appointment.htm
+title: National offer conditional support for DHB appointment
+date: 2019-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00146/national-offer-conditional-support-for-dhb-appointment.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/04/16/national-offer-conditional-support-for-dhb-appointment/index.html
+layout: layout.njk
 ---
 National offer conditional support for DHB appointment
 ======================================================

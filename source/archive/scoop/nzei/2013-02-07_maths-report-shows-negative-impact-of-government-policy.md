@@ -1,9 +1,13 @@
 ---
 slug: maths-report-shows-negative-impact-of-government-policy
-title: "Maths Report Shows Negative Impact Of Government Policy"
-date: 2013-02-07
-source-url: https://www.scoop.co.nz/stories/ED1302/S00035/maths-report-shows-negative-impact-of-government-policy.htm
+title: Maths Report Shows Negative Impact Of Government Policy
+date: 2013-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00035/maths-report-shows-negative-impact-of-government-policy.htm
 author: nzei
+permalink: >-
+  /archive/2013/02/07/maths-report-shows-negative-impact-of-government-policy/index.html
+layout: layout.njk
 ---
 Maths Report Shows Negative Impact Of Government Policy
 =======================================================

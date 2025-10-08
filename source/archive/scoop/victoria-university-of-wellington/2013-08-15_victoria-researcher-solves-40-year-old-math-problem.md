@@ -1,9 +1,13 @@
 ---
 slug: victoria-researcher-solves-40-year-old-math-problem
-title: "Victoria researcher solves 40 year-old math problem"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/SC1308/S00034/victoria-researcher-solves-40-year-old-math-problem.htm
+title: Victoria researcher solves 40 year-old math problem
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1308/S00034/victoria-researcher-solves-40-year-old-math-problem.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/08/15/victoria-researcher-solves-40-year-old-math-problem/index.html
+layout: layout.njk
 ---
 Victoria researcher solves 40 year-old math problem
 ===================================================

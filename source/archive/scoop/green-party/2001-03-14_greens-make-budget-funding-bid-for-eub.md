@@ -1,9 +1,12 @@
 ---
 slug: greens-make-budget-funding-bid-for-eub
-title: "Greens Make Budget Funding Bid For EUB"
-date: 2001-03-14
-source-url: https://www.scoop.co.nz/stories/PA0103/S00218/greens-make-budget-funding-bid-for-eub.htm
+title: Greens Make Budget Funding Bid For EUB
+date: 2001-03-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00218/greens-make-budget-funding-bid-for-eub.htm
 author: green-party
+permalink: /archive/2001/03/14/greens-make-budget-funding-bid-for-eub/index.html
+layout: layout.njk
 ---
 Greens Make Budget Funding Bid For EUB
 ======================================

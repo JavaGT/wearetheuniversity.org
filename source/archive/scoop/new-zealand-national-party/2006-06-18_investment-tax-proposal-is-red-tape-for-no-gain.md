@@ -1,9 +1,12 @@
 ---
 slug: investment-tax-proposal-is-red-tape-for-no-gain
-title: "Investment tax proposal is red tape for no gain"
-date: 2006-06-18
-source-url: https://www.scoop.co.nz/stories/PA0606/S00340/investment-tax-proposal-is-red-tape-for-no-gain.htm
+title: Investment tax proposal is red tape for no gain
+date: 2006-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00340/investment-tax-proposal-is-red-tape-for-no-gain.htm
 author: new-zealand-national-party
+permalink: /archive/2006/06/18/investment-tax-proposal-is-red-tape-for-no-gain/index.html
+layout: layout.njk
 ---
 Investment tax proposal is red tape for no gain
 ===============================================

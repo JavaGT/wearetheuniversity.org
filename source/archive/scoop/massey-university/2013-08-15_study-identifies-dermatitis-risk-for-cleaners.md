@@ -1,9 +1,12 @@
 ---
 slug: study-identifies-dermatitis-risk-for-cleaners
-title: "Study identifies dermatitis risk for cleaners"
-date: 2013-08-15
-source-url: https://www.scoop.co.nz/stories/GE1308/S00083/study-identifies-dermatitis-risk-for-cleaners.htm
+title: Study identifies dermatitis risk for cleaners
+date: 2013-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1308/S00083/study-identifies-dermatitis-risk-for-cleaners.htm
 author: massey-university
+permalink: /archive/2013/08/15/study-identifies-dermatitis-risk-for-cleaners/index.html
+layout: layout.njk
 ---
 Study identifies dermatitis risk for cleaners
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: rugby-7s-stars-set-to-shine-at-rotorua-tournament
-title: "Rugby 7’s Stars Set To Shine at Rotorua Tournament"
-date: 2011-12-13
-source-url: https://www.scoop.co.nz/stories/CU1112/S00217/rugby-7s-stars-set-to-shine-at-rotorua-tournament.htm
+title: Rugby 7’s Stars Set To Shine at Rotorua Tournament
+date: 2011-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1112/S00217/rugby-7s-stars-set-to-shine-at-rotorua-tournament.htm
 author: tertiary-institutes-allied-staff-association
+permalink: >-
+  /archive/2011/12/13/rugby-7s-stars-set-to-shine-at-rotorua-tournament/index.html
+layout: layout.njk
 ---
 Rugby 7’s Stars Set To Shine at Rotorua Tournament
 ==================================================

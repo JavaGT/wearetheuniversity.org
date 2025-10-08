@@ -1,9 +1,12 @@
 ---
 slug: prime-minister-and-mayor-thank-uc
-title: "Prime Minister and Mayor thank UC"
-date: 2010-09-16
-source-url: https://www.scoop.co.nz/stories/AK1009/S00530/prime-minister-and-mayor-thank-uc.htm
+title: Prime Minister and Mayor thank UC
+date: 2010-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1009/S00530/prime-minister-and-mayor-thank-uc.htm
 author: university-of-canterbury
+permalink: /archive/2010/09/16/prime-minister-and-mayor-thank-uc/index.html
+layout: layout.njk
 ---
 Prime Minister and Mayor thank UC
 =================================

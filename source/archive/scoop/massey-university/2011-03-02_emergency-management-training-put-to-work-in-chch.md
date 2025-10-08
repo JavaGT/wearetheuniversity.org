@@ -1,9 +1,13 @@
 ---
 slug: emergency-management-training-put-to-work-in-chch
-title: "Emergency management training put to work in Chch"
-date: 2011-03-02
-source-url: https://www.scoop.co.nz/stories/AK1103/S00118/emergency-management-training-put-to-work-in-chch.htm
+title: Emergency management training put to work in Chch
+date: 2011-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1103/S00118/emergency-management-training-put-to-work-in-chch.htm
 author: massey-university
+permalink: >-
+  /archive/2011/03/02/emergency-management-training-put-to-work-in-chch/index.html
+layout: layout.njk
 ---
 Emergency management training put to work in Chch
 =================================================

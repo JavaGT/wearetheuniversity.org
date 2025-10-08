@@ -1,9 +1,12 @@
 ---
 slug: michael-cullen-cant-have-it-both-ways
-title: "Michael Cullen can't have it both ways"
-date: 2005-05-23
-source-url: https://www.scoop.co.nz/stories/PA0505/S00603/michael-cullen-cant-have-it-both-ways.htm
+title: Michael Cullen can't have it both ways
+date: 2005-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00603/michael-cullen-cant-have-it-both-ways.htm
 author: new-zealand-national-party
+permalink: /archive/2005/05/23/michael-cullen-cant-have-it-both-ways/index.html
+layout: layout.njk
 ---
 Michael Cullen can't have it both ways
 ======================================

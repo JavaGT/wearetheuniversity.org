@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-reveal-pax-genes-role-in-cancer
-title: "Otago researchers reveal PAX gene’s role in cancer"
-date: 2011-05-24
-source-url: https://www.scoop.co.nz/stories/SC1105/S00059/otago-researchers-reveal-pax-genes-role-in-cancer.htm
+title: Otago researchers reveal PAX gene’s role in cancer
+date: 2011-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1105/S00059/otago-researchers-reveal-pax-genes-role-in-cancer.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/05/24/otago-researchers-reveal-pax-genes-role-in-cancer/index.html
+layout: layout.njk
 ---
 Otago researchers reveal PAX gene’s role in cancer
 ==================================================

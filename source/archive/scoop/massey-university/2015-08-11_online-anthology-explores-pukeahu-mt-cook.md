@@ -1,9 +1,12 @@
 ---
 slug: online-anthology-explores-pukeahu-mt-cook
-title: "Online anthology explores Pukeahu/Mt Cook"
-date: 2015-08-11
-source-url: https://www.scoop.co.nz/stories/AK1508/S00200/online-anthology-explores-pukeahumt-cook.htm
+title: Online anthology explores Pukeahu/Mt Cook
+date: 2015-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1508/S00200/online-anthology-explores-pukeahumt-cook.htm
 author: massey-university
+permalink: /archive/2015/08/11/online-anthology-explores-pukeahu-mt-cook/index.html
+layout: layout.njk
 ---
 Online anthology explores Pukeahu/Mt Cook
 =========================================

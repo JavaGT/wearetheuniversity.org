@@ -1,9 +1,13 @@
 ---
 slug: public-lecture-to-explore-what-lies-behind-talent
-title: "Public lecture to explore what lies behind talent"
-date: 2010-08-02
-source-url: https://www.scoop.co.nz/stories/CU1008/S00010/public-lecture-to-explore-what-lies-behind-talent.htm
+title: Public lecture to explore what lies behind talent
+date: 2010-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1008/S00010/public-lecture-to-explore-what-lies-behind-talent.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/08/02/public-lecture-to-explore-what-lies-behind-talent/index.html
+layout: layout.njk
 ---
 Public lecture to explore what lies behind talent
 =================================================

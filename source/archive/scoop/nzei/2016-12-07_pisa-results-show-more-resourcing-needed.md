@@ -1,9 +1,12 @@
 ---
 slug: pisa-results-show-more-resourcing-needed
-title: "PISA results show more resourcing needed"
-date: 2016-12-07
-source-url: https://www.scoop.co.nz/stories/ED1612/S00022/pisa-results-show-more-resourcing-needed.htm
+title: PISA results show more resourcing needed
+date: 2016-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00022/pisa-results-show-more-resourcing-needed.htm
 author: nzei
+permalink: /archive/2016/12/07/pisa-results-show-more-resourcing-needed/index.html
+layout: layout.njk
 ---
 PISA results show more resourcing needed
 ========================================

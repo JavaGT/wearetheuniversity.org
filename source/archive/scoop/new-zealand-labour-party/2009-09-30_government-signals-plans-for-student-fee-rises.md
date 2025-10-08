@@ -1,9 +1,12 @@
 ---
 slug: government-signals-plans-for-student-fee-rises
-title: "Government signals plans for student fee rises"
-date: 2009-09-30
-source-url: https://www.scoop.co.nz/stories/PA0909/S00428/government-signals-plans-for-student-fee-rises.htm
+title: Government signals plans for student fee rises
+date: 2009-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00428/government-signals-plans-for-student-fee-rises.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/30/government-signals-plans-for-student-fee-rises/index.html
+layout: layout.njk
 ---
 Government signals plans for student fee rises
 ==============================================

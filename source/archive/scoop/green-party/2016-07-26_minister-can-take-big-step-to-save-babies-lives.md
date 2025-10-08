@@ -1,9 +1,12 @@
 ---
 slug: minister-can-take-big-step-to-save-babies-lives
-title: "Minister can take big step to save babies’ lives"
-date: 2016-07-26
-source-url: https://www.scoop.co.nz/stories/PA1607/S00353/minister-can-take-big-step-to-save-babies-lives.htm
+title: Minister can take big step to save babies’ lives
+date: 2016-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00353/minister-can-take-big-step-to-save-babies-lives.htm
 author: green-party
+permalink: /archive/2016/07/26/minister-can-take-big-step-to-save-babies-lives/index.html
+layout: layout.njk
 ---
 Minister can take big step to save babies’ lives
 ================================================

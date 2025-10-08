@@ -1,9 +1,15 @@
 ---
-slug: radical-languages-writers-behrouz-boochani-&-vana-manasiadis-on-challenging-monolingualism
-title: "Radical Languages: Writers Behrouz Boochani & Vana Manasiadis On Challenging Monolingualism"
-date: 2021-06-03
-source-url: https://www.scoop.co.nz/stories/ED2106/S00002/radical-languages-writers-behrouz-boochani-vana-manasiadis-on-challenging-monolingualism.htm
+slug: >-
+  radical-languages-writers-behrouz-boochani-&-vana-manasiadis-on-challenging-monolingualism
+title: >-
+  Radical Languages: Writers Behrouz Boochani & Vana Manasiadis On Challenging
+  Monolingualism
+date: 2021-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2106/S00002/radical-languages-writers-behrouz-boochani-vana-manasiadis-on-challenging-monolingualism.htm
 author: university-of-canterbury
+permalink: /archive/2021/06/03/radical-languages-writers-behrouz-boochani-/index.html
+layout: layout.njk
 ---
 Radical Languages: Writers Behrouz Boochani & Vana Manasiadis On Challenging Monolingualism
 ===========================================================================================

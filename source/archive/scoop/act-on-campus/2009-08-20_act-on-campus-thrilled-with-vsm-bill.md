@@ -1,9 +1,12 @@
 ---
 slug: act-on-campus-thrilled-with-vsm-bill
-title: "ACT on Campus Thrilled With VSM Bill"
-date: 2009-08-20
-source-url: https://www.scoop.co.nz/stories/PO0908/S00249/act-on-campus-thrilled-with-vsm-bill.htm
+title: ACT on Campus Thrilled With VSM Bill
+date: 2009-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0908/S00249/act-on-campus-thrilled-with-vsm-bill.htm
 author: act-on-campus
+permalink: /archive/2009/08/20/act-on-campus-thrilled-with-vsm-bill/index.html
+layout: layout.njk
 ---
 ACT on Campus Thrilled With VSM Bill
 ====================================

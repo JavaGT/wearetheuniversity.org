@@ -1,9 +1,12 @@
 ---
 slug: boost-in-worlds-biggest-science-project
-title: "Boost In World's Biggest Science Project"
-date: 2007-03-01
-source-url: https://www.scoop.co.nz/stories/SC0703/S00002/boost-in-worlds-biggest-science-project.htm
+title: Boost In World's Biggest Science Project
+date: 2007-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00002/boost-in-worlds-biggest-science-project.htm
 author: aut-university
+permalink: /archive/2007/03/01/boost-in-worlds-biggest-science-project/index.html
+layout: layout.njk
 ---
 Boost In World's Biggest Science Project
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: programme-looks-to-the-bystander-to-reduce-bullying
-title: "Programme looks to the bystander to reduce bullying"
-date: 2015-09-18
-source-url: https://www.scoop.co.nz/stories/ED1509/S00108/programme-looks-to-the-bystander-to-reduce-bullying.htm
+title: Programme looks to the bystander to reduce bullying
+date: 2015-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00108/programme-looks-to-the-bystander-to-reduce-bullying.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/09/18/programme-looks-to-the-bystander-to-reduce-bullying/index.html
+layout: layout.njk
 ---
 Programme looks to the bystander to reduce bullying
 ===================================================

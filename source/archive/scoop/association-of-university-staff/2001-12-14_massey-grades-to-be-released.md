@@ -1,9 +1,11 @@
 ---
 slug: massey-grades-to-be-released
-title: "Massey grades to be released"
-date: 2001-12-14
+title: Massey grades to be released
+date: 2001-12-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0112/S00018/massey-grades-to-be-released.htm
 author: association-of-university-staff
+permalink: /archive/2001/12/14/massey-grades-to-be-released/index.html
+layout: layout.njk
 ---
 Massey grades to be released
 ============================

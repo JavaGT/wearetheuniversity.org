@@ -1,9 +1,12 @@
 ---
 slug: landmark-course-launched-for-special-education
-title: "‘Landmark’ course launched for special education"
-date: 2011-02-16
-source-url: https://www.scoop.co.nz/stories/ED1102/S00045/landmark-course-launched-for-special-education.htm
+title: ‘Landmark’ course launched for special education
+date: 2011-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1102/S00045/landmark-course-launched-for-special-education.htm
 author: massey-university
+permalink: /archive/2011/02/16/landmark-course-launched-for-special-education/index.html
+layout: layout.njk
 ---
 ‘Landmark’ course launched for special education
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: working-hard-to-rebuild-canterbury
-title: "Working hard to rebuild Canterbury"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00026/working-hard-to-rebuild-canterbury.htm
+title: Working hard to rebuild Canterbury
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00026/working-hard-to-rebuild-canterbury.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/02/working-hard-to-rebuild-canterbury/index.html
+layout: layout.njk
 ---
 Working hard to rebuild Canterbury
 ==================================

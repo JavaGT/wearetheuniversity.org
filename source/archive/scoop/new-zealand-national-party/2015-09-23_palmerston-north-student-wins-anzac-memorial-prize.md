@@ -1,9 +1,13 @@
 ---
 slug: palmerston-north-student-wins-anzac-memorial-prize
-title: "Palmerston North Student wins ANZAC memorial prize"
-date: 2015-09-23
-source-url: https://www.scoop.co.nz/stories/PA1509/S00397/palmerston-north-student-wins-anzac-memorial-prize.htm
+title: Palmerston North Student wins ANZAC memorial prize
+date: 2015-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00397/palmerston-north-student-wins-anzac-memorial-prize.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/09/23/palmerston-north-student-wins-anzac-memorial-prize/index.html
+layout: layout.njk
 ---
 Palmerston North Student wins ANZAC memorial prize
 ==================================================

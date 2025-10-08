@@ -1,9 +1,13 @@
 ---
 slug: kiwi-males-take-to-grooming-products-just-not-too-many
-title: "Kiwi males take to grooming products – just not too many"
-date: 2011-09-09
-source-url: https://www.scoop.co.nz/stories/CU1109/S00124/kiwi-males-take-to-grooming-products-just-not-too-many.htm
+title: Kiwi males take to grooming products – just not too many
+date: 2011-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00124/kiwi-males-take-to-grooming-products-just-not-too-many.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/09/09/kiwi-males-take-to-grooming-products-just-not-too-many/index.html
+layout: layout.njk
 ---
 Kiwi males take to grooming products – just not too many
 ========================================================

@@ -1,9 +1,13 @@
 ---
 slug: rugby-scholarship-paths-the-way-for-future-stars
-title: "Rugby Scholarship Paths The Way For Future Stars"
-date: 2012-08-16
-source-url: https://www.scoop.co.nz/stories/ED1208/S00093/rugby-scholarship-paths-the-way-for-future-stars.htm
+title: Rugby Scholarship Paths The Way For Future Stars
+date: 2012-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00093/rugby-scholarship-paths-the-way-for-future-stars.htm
 author: auckland-university
+permalink: >-
+  /archive/2012/08/16/rugby-scholarship-paths-the-way-for-future-stars/index.html
+layout: layout.njk
 ---
 Rugby Scholarship Paths The Way For Future Stars
 ================================================

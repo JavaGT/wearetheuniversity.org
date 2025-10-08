@@ -1,9 +1,12 @@
 ---
 slug: tvnz-must-correct-the-lie-tonight!
-title: "TVNZ must correct the lie – tonight!"
-date: 2017-08-24
-source-url: https://www.scoop.co.nz/stories/PO1708/S00505/tvnz-must-correct-the-lie-tonight.htm
+title: TVNZ must correct the lie – tonight!
+date: 2017-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00505/tvnz-must-correct-the-lie-tonight.htm
 author: te-pati-maori
+permalink: /archive/2017/08/24/tvnz-must-correct-the-lie-tonight/index.html
+layout: layout.njk
 ---
 TVNZ must correct the lie – tonight!
 ====================================

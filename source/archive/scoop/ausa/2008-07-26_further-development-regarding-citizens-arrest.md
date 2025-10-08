@@ -1,9 +1,12 @@
 ---
 slug: further-development-regarding-citizens-arrest
-title: "Further development regarding citizen’s arrest"
-date: 2008-07-26
-source-url: https://www.scoop.co.nz/stories/PO0807/S00327/further-development-regarding-citizens-arrest.htm
+title: Further development regarding citizen’s arrest
+date: 2008-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00327/further-development-regarding-citizens-arrest.htm
 author: ausa
+permalink: /archive/2008/07/26/further-development-regarding-citizens-arrest/index.html
+layout: layout.njk
 ---
 Further development regarding citizen’s arrest
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: lynch-mobs-a-menace-to-free-speech
-title: "Lynch Mobs A Menace To Free Speech"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00105/lynch-mobs-a-menace-to-free-speech.htm
+title: Lynch Mobs A Menace To Free Speech
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00105/lynch-mobs-a-menace-to-free-speech.htm
 author: act-new-zealand
+permalink: /archive/2011/07/06/lynch-mobs-a-menace-to-free-speech/index.html
+layout: layout.njk
 ---
 Lynch Mobs A Menace To Free Speech
 ==================================

@@ -1,9 +1,12 @@
 ---
 slug: sue-bradford-valedictory-speech
-title: "Sue Bradford Valedictory Speech"
-date: 2009-10-29
-source-url: https://www.scoop.co.nz/stories/PA0910/S00437/sue-bradford-valedictory-speech.htm
+title: Sue Bradford Valedictory Speech
+date: 2009-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00437/sue-bradford-valedictory-speech.htm
 author: green-party
+permalink: /archive/2009/10/29/sue-bradford-valedictory-speech/index.html
+layout: layout.njk
 ---
 Sue Bradford Valedictory Speech
 ===============================

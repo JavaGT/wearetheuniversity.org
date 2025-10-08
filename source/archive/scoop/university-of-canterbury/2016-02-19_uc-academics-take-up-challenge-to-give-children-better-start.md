@@ -1,9 +1,13 @@
 ---
 slug: uc-academics-take-up-challenge-to-give-children-better-start
-title: "UC academics take up challenge to give children better start"
-date: 2016-02-19
-source-url: https://www.scoop.co.nz/stories/ED1602/S00064/uc-academics-take-up-challenge-to-give-children-better-start.htm
+title: UC academics take up challenge to give children better start
+date: 2016-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1602/S00064/uc-academics-take-up-challenge-to-give-children-better-start.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/02/19/uc-academics-take-up-challenge-to-give-children-better-start/index.html
+layout: layout.njk
 ---
 UC academics take up challenge to give children better start
 ============================================================

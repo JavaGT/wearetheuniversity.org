@@ -1,9 +1,12 @@
 ---
 slug: racing-clubs-again-hit-eureka-jackpot
-title: "Racing clubs again hit Eureka jackpot"
-date: 2009-04-27
-source-url: https://www.scoop.co.nz/stories/PA0904/S00327/racing-clubs-again-hit-eureka-jackpot.htm
+title: Racing clubs again hit Eureka jackpot
+date: 2009-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00327/racing-clubs-again-hit-eureka-jackpot.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/27/racing-clubs-again-hit-eureka-jackpot/index.html
+layout: layout.njk
 ---
 Racing clubs again hit Eureka jackpot
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: report-exposes-over-reliance-on-overseas-nurses
-title: "Report exposes over-reliance on overseas nurses"
-date: 2004-08-05
-source-url: https://www.scoop.co.nz/stories/PA0408/S00110/report-exposes-over-reliance-on-overseas-nurses.htm
+title: Report exposes over-reliance on overseas nurses
+date: 2004-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00110/report-exposes-over-reliance-on-overseas-nurses.htm
 author: green-party
+permalink: /archive/2004/08/05/report-exposes-over-reliance-on-overseas-nurses/index.html
+layout: layout.njk
 ---
 Report exposes over-reliance on overseas nurses
 ===============================================

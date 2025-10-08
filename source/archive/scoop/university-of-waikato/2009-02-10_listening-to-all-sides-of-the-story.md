@@ -1,9 +1,12 @@
 ---
 slug: listening-to-all-sides-of-the-story
-title: "Listening to all sides of the story"
-date: 2009-02-10
-source-url: https://www.scoop.co.nz/stories/ED0902/S00030/listening-to-all-sides-of-the-story.htm
+title: Listening to all sides of the story
+date: 2009-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00030/listening-to-all-sides-of-the-story.htm
 author: university-of-waikato
+permalink: /archive/2009/02/10/listening-to-all-sides-of-the-story/index.html
+layout: layout.njk
 ---
 Listening to all sides of the story
 ===================================

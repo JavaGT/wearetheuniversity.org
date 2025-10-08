@@ -1,9 +1,13 @@
 ---
 slug: students-to-work-closely-with-community-organisations
-title: "Students to work closely with community organisations"
-date: 2014-04-23
-source-url: https://www.scoop.co.nz/stories/CU1404/S00334/students-to-work-closely-with-community-organisations.htm
+title: Students to work closely with community organisations
+date: 2014-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00334/students-to-work-closely-with-community-organisations.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/23/students-to-work-closely-with-community-organisations/index.html
+layout: layout.njk
 ---
 Students to work closely with community organisations
 =====================================================

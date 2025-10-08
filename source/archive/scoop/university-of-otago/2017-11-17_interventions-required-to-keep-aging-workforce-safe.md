@@ -1,9 +1,13 @@
 ---
 slug: interventions-required-to-keep-aging-workforce-safe
-title: "Interventions required to keep aging workforce safe"
-date: 2017-11-17
-source-url: https://www.scoop.co.nz/stories/BU1711/S00577/interventions-required-to-keep-aging-workforce-safe.htm
+title: Interventions required to keep aging workforce safe
+date: 2017-11-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1711/S00577/interventions-required-to-keep-aging-workforce-safe.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/11/17/interventions-required-to-keep-aging-workforce-safe/index.html
+layout: layout.njk
 ---
 Interventions required to keep aging workforce safe
 ===================================================

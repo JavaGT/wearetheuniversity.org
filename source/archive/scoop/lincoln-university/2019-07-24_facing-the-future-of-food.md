@@ -1,9 +1,11 @@
 ---
 slug: facing-the-future-of-food
-title: "Facing the future of food"
-date: 2019-07-24
+title: Facing the future of food
+date: 2019-07-24T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1907/S00039/facing-the-future-of-food.htm
 author: lincoln-university
+permalink: /archive/2019/07/24/facing-the-future-of-food/index.html
+layout: layout.njk
 ---
 Facing the future of food
 =========================

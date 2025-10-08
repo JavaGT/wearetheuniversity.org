@@ -1,9 +1,12 @@
 ---
 slug: quigley-speech-on-defence-review
-title: "Quigley Speech On Defence Review"
-date: 1999-09-09
-source-url: https://www.scoop.co.nz/stories/PA9909/S00214/quigley-speech-on-defence-review.htm
+title: Quigley Speech On Defence Review
+date: 1999-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00214/quigley-speech-on-defence-review.htm
 author: act-new-zealand
+permalink: /archive/1999/09/09/quigley-speech-on-defence-review/index.html
+layout: layout.njk
 ---
 Quigley Speech On Defence Review
 ================================

@@ -1,8 +1,12 @@
 ---
 slug: more-than-2000-university-of-auckland-students-cap-off-a-record-year
-title: "More than 2000 University of Auckland students cap off a record year"
-date: 2015-09-25
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/more-than-2000-university-of-auckland-students-cap-off-a-record-.html
+title: More than 2000 University of Auckland students cap off a record year
+date: 2015-09-25T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/09/more-than-2000-university-of-auckland-students-cap-off-a-record-.html
+permalink: >-
+  /archive/2015/09/25/more-than-2000-university-of-auckland-students-cap-off-a-record-year/index.html
+layout: layout.njk
 ---
 More than 2000 University of Auckland students cap off a record year
 ====================================================================

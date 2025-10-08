@@ -1,9 +1,12 @@
 ---
 slug: an-alliance-to-encourage-women-in-computing
-title: "An Alliance to Encourage Women in Computing"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/ED0501/S00065/an-alliance-to-encourage-women-in-computing.htm
+title: An Alliance to Encourage Women in Computing
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00065/an-alliance-to-encourage-women-in-computing.htm
 author: waikato-university
+permalink: /archive/2005/01/31/an-alliance-to-encourage-women-in-computing/index.html
+layout: layout.njk
 ---
 An Alliance to Encourage Women in Computing
 ===========================================

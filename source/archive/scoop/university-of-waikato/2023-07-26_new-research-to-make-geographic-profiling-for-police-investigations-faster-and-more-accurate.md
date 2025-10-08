@@ -1,9 +1,16 @@
 ---
-slug: new-research-to-make-geographic-profiling-for-police-investigations-faster-and-more-accurate
-title: "New Research To Make Geographic Profiling For Police Investigations Faster And More Accurate"
-date: 2023-07-26
-source-url: https://www.scoop.co.nz/stories/ED2307/S00035/new-research-to-make-geographic-profiling-for-police-investigations-faster-and-more-accurate.htm
+slug: >-
+  new-research-to-make-geographic-profiling-for-police-investigations-faster-and-more-accurate
+title: >-
+  New Research To Make Geographic Profiling For Police Investigations Faster And
+  More Accurate
+date: 2023-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2307/S00035/new-research-to-make-geographic-profiling-for-police-investigations-faster-and-more-accurate.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/07/26/new-research-to-make-geographic-profiling-for-police-investigations-faster-and-more-accurate/index.html
+layout: layout.njk
 ---
 New Research To Make Geographic Profiling For Police Investigations Faster And More Accurate
 ============================================================================================

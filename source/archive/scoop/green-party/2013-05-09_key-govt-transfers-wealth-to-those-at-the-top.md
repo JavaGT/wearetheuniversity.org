@@ -1,9 +1,12 @@
 ---
 slug: key-govt-transfers-wealth-to-those-at-the-top
-title: "Key Govt transfers wealth to those at the top"
-date: 2013-05-09
-source-url: https://www.scoop.co.nz/stories/PA1305/S00145/key-govt-transfers-wealth-to-those-at-the-top.htm
+title: Key Govt transfers wealth to those at the top
+date: 2013-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00145/key-govt-transfers-wealth-to-those-at-the-top.htm
 author: green-party
+permalink: /archive/2013/05/09/key-govt-transfers-wealth-to-those-at-the-top/index.html
+layout: layout.njk
 ---
 Key Govt transfers wealth to those at the top
 =============================================

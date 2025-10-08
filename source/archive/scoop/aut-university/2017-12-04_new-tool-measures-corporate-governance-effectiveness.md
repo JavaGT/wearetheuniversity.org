@@ -1,9 +1,13 @@
 ---
 slug: new-tool-measures-corporate-governance-effectiveness
-title: "New Tool Measures Corporate Governance Effectiveness"
-date: 2017-12-04
-source-url: https://www.scoop.co.nz/stories/BU1712/S00040/new-tool-measures-corporate-governance-effectiveness.htm
+title: New Tool Measures Corporate Governance Effectiveness
+date: 2017-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1712/S00040/new-tool-measures-corporate-governance-effectiveness.htm
 author: aut-university
+permalink: >-
+  /archive/2017/12/04/new-tool-measures-corporate-governance-effectiveness/index.html
+layout: layout.njk
 ---
 New Tool Measures Corporate Governance Effectiveness
 ====================================================

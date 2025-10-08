@@ -1,9 +1,12 @@
 ---
 slug: pounamu-jade-aikman-named-as-2025-emerging-māori-writer-in-residence
-title: "Pounamu Jade Aikman Named As 2025 Emerging Māori Writer In Residence"
-date: 2024-11-21
-source-url: https://www.scoop.co.nz/stories/ED2411/S00038/pounamu-jade-aikman-named-as-2025-emerging-maori-writer-in-residence.htm
+title: Pounamu Jade Aikman Named As 2025 Emerging Māori Writer In Residence
+date: 2024-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2411/S00038/pounamu-jade-aikman-named-as-2025-emerging-maori-writer-in-residence.htm
 author: victoria-university-of-wellington
+permalink: /archive/2024/11/21/pounamu-jade-aikman-named-as-2025-emerging-m/index.html
+layout: layout.njk
 ---
 Pounamu Jade Aikman Named As 2025 Emerging Māori Writer In Residence
 ====================================================================

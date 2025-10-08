@@ -1,9 +1,12 @@
 ---
 slug: press-statement-rt-hon-winston-peters
-title: "Press Statement: Rt Hon Winston Peters"
-date: 2022-08-01
-source-url: https://www.scoop.co.nz/stories/PO2208/S00006/press-statement-rt-hon-winston-peters.htm
+title: 'Press Statement: Rt Hon Winston Peters'
+date: 2022-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00006/press-statement-rt-hon-winston-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2022/08/01/press-statement-rt-hon-winston-peters/index.html
+layout: layout.njk
 ---
 Press Statement: Rt Hon Winston Peters
 ======================================

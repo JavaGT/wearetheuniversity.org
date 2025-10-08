@@ -1,9 +1,13 @@
 ---
 slug: ece-extension-green-win-nearly-10-years-in-the-making
-title: "ECE Extension Green Win Nearly 10 Years In The Making"
-date: 2023-05-18
-source-url: https://www.scoop.co.nz/stories/PO2305/S00103/ece-extension-green-win-nearly-10-years-in-the-making.htm
+title: ECE Extension Green Win Nearly 10 Years In The Making
+date: 2023-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00103/ece-extension-green-win-nearly-10-years-in-the-making.htm
 author: green-party
+permalink: >-
+  /archive/2023/05/18/ece-extension-green-win-nearly-10-years-in-the-making/index.html
+layout: layout.njk
 ---
 ECE Extension Green Win Nearly 10 Years In The Making
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: collins-leaves-police-to-fend-for-themselves
-title: "Collins leaves police to fend for themselves"
-date: 2009-06-17
-source-url: https://www.scoop.co.nz/stories/PA0906/S00216/collins-leaves-police-to-fend-for-themselves.htm
+title: Collins leaves police to fend for themselves
+date: 2009-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00216/collins-leaves-police-to-fend-for-themselves.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/06/17/collins-leaves-police-to-fend-for-themselves/index.html
+layout: layout.njk
 ---
 Collins leaves police to fend for themselves
 ============================================

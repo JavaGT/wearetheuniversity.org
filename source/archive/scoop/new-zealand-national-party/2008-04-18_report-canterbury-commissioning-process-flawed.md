@@ -1,9 +1,12 @@
 ---
 slug: report-canterbury-commissioning-process-flawed
-title: "Report: Canterbury commissioning process flawed"
-date: 2008-04-18
-source-url: https://www.scoop.co.nz/stories/PA0804/S00479/report-canterbury-commissioning-process-flawed.htm
+title: 'Report: Canterbury commissioning process flawed'
+date: 2008-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00479/report-canterbury-commissioning-process-flawed.htm
 author: new-zealand-national-party
+permalink: /archive/2008/04/18/report-canterbury-commissioning-process-flawed/index.html
+layout: layout.njk
 ---
 Report: Canterbury commissioning process flawed
 ===============================================

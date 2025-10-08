@@ -1,9 +1,13 @@
 ---
 slug: organic-farming-more-important-than-special-needs
-title: "Organic farming more important than special needs?"
-date: 2005-03-17
-source-url: https://www.scoop.co.nz/stories/PA0503/S00359/organic-farming-more-important-than-special-needs.htm
+title: Organic farming more important than special needs?
+date: 2005-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00359/organic-farming-more-important-than-special-needs.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/03/17/organic-farming-more-important-than-special-needs/index.html
+layout: layout.njk
 ---
 Organic farming more important than special needs?
 ==================================================

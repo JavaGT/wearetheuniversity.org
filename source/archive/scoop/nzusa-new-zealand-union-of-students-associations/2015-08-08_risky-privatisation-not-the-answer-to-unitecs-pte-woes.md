@@ -1,9 +1,13 @@
 ---
 slug: risky-privatisation-not-the-answer-to-unitecs-pte-woes
-title: "Risky privatisation not the answer to Unitec’s PTE woes"
-date: 2015-08-08
-source-url: https://www.scoop.co.nz/stories/ED1508/S00027/risky-privatisation-not-the-answer-to-unitecs-pte-woes.htm
+title: Risky privatisation not the answer to Unitec’s PTE woes
+date: 2015-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00027/risky-privatisation-not-the-answer-to-unitecs-pte-woes.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2015/08/08/risky-privatisation-not-the-answer-to-unitecs-pte-woes/index.html
+layout: layout.njk
 ---
 Risky privatisation not the answer to Unitec’s PTE woes
 =======================================================

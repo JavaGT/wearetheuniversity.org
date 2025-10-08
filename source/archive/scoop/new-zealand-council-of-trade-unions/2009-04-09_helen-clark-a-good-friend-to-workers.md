@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-a-good-friend-to-workers
-title: "Helen Clark a Good Friend to Workers"
-date: 2009-04-09
-source-url: https://www.scoop.co.nz/stories/PO0904/S00084/helen-clark-a-good-friend-to-workers.htm
+title: Helen Clark a Good Friend to Workers
+date: 2009-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0904/S00084/helen-clark-a-good-friend-to-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/04/09/helen-clark-a-good-friend-to-workers/index.html
+layout: layout.njk
 ---
 Helen Clark a Good Friend to Workers
 ====================================

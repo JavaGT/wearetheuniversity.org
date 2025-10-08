@@ -1,9 +1,12 @@
 ---
 slug: sir-paul-reeves-re-elected-chancellor-of-aut
-title: "Sir Paul Reeves re-elected Chancellor of AUT"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/ED0603/S00009/sir-paul-reeves-re-elected-chancellor-of-aut.htm
+title: Sir Paul Reeves re-elected Chancellor of AUT
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00009/sir-paul-reeves-re-elected-chancellor-of-aut.htm
 author: aut-university
+permalink: /archive/2006/03/02/sir-paul-reeves-re-elected-chancellor-of-aut/index.html
+layout: layout.njk
 ---
 Sir Paul Reeves re-elected Chancellor of AUT
 ============================================

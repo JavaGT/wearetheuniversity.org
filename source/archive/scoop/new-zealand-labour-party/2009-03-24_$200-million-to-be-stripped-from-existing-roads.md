@@ -1,9 +1,12 @@
 ---
 slug: $200-million-to-be-stripped-from-existing-roads
-title: "$200 million to be stripped from existing roads"
-date: 2009-03-24
-source-url: https://www.scoop.co.nz/stories/PA0903/S00343/200-million-to-be-stripped-from-existing-roads.htm
+title: $200 million to be stripped from existing roads
+date: 2009-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00343/200-million-to-be-stripped-from-existing-roads.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/24/200-million-to-be-stripped-from-existing-roads/index.html
+layout: layout.njk
 ---
 $200 million to be stripped from existing roads
 ===============================================

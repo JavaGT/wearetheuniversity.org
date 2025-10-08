@@ -1,9 +1,12 @@
 ---
 slug: fonterras-commitment-to-clean-up-cynical-spin
-title: "Fonterra's Commitment To Clean Up Cynical Spin"
-date: 2002-05-03
-source-url: https://www.scoop.co.nz/stories/PA0205/S00082/fonterras-commitment-to-clean-up-cynical-spin.htm
+title: Fonterra's Commitment To Clean Up Cynical Spin
+date: 2002-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00082/fonterras-commitment-to-clean-up-cynical-spin.htm
 author: green-party
+permalink: /archive/2002/05/03/fonterras-commitment-to-clean-up-cynical-spin/index.html
+layout: layout.njk
 ---
 Fonterra's Commitment To Clean Up Cynical Spin
 ==============================================

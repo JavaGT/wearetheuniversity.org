@@ -1,9 +1,12 @@
 ---
 slug: student-media-set-to-rip-mad-shit-up
-title: "Student Media Set To \"Rip Mad Shit Up\""
-date: 2002-04-08
-source-url: https://www.scoop.co.nz/stories/ED0204/S00010/student-media-set-to-rip-mad-shit-up.htm
+title: Student Media Set To "Rip Mad Shit Up"
+date: 2002-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0204/S00010/student-media-set-to-rip-mad-shit-up.htm
 author: aotearoa-student-press-association
+permalink: /archive/2002/04/08/student-media-set-to-rip-mad-shit-up/index.html
+layout: layout.njk
 ---
 Student Media Set To “Rip Mad Shit Up”
 ======================================

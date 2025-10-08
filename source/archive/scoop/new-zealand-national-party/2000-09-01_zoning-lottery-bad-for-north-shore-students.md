@@ -1,9 +1,12 @@
 ---
 slug: zoning-lottery-bad-for-north-shore-students
-title: "Zoning Lottery Bad For North Shore Students"
-date: 2000-09-01
-source-url: https://www.scoop.co.nz/stories/PA0009/S00015/zoning-lottery-bad-for-north-shore-students.htm
+title: Zoning Lottery Bad For North Shore Students
+date: 2000-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0009/S00015/zoning-lottery-bad-for-north-shore-students.htm
 author: new-zealand-national-party
+permalink: /archive/2000/09/01/zoning-lottery-bad-for-north-shore-students/index.html
+layout: layout.njk
 ---
 Zoning Lottery Bad For North Shore Students
 ===========================================

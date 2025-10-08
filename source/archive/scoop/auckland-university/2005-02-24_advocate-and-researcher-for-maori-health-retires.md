@@ -1,9 +1,13 @@
 ---
 slug: advocate-and-researcher-for-maori-health-retires
-title: "Advocate and Researcher for Maori Health Retires"
-date: 2005-02-24
-source-url: https://www.scoop.co.nz/stories/ED0502/S00084/advocate-and-researcher-for-maori-health-retires.htm
+title: Advocate and Researcher for Maori Health Retires
+date: 2005-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00084/advocate-and-researcher-for-maori-health-retires.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/02/24/advocate-and-researcher-for-maori-health-retires/index.html
+layout: layout.njk
 ---
 Advocate and Researcher for Maori Health Retires
 ================================================

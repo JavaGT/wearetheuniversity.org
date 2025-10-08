@@ -1,9 +1,12 @@
 ---
 slug: youth-to-benefit-from-labours-tax-free-zone
-title: "Youth to benefit from Labour’s tax free zone"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/PA1101/S00115/youth-to-benefit-from-labours-tax-free-zone.htm
+title: Youth to benefit from Labour’s tax free zone
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00115/youth-to-benefit-from-labours-tax-free-zone.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/27/youth-to-benefit-from-labours-tax-free-zone/index.html
+layout: layout.njk
 ---
 Youth to benefit from Labour’s tax free zone
 ============================================

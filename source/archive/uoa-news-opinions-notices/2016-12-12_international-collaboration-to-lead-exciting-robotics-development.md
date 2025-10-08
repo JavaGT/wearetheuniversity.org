@@ -1,8 +1,12 @@
 ---
 slug: international-collaboration-to-lead-exciting-robotics-development
-title: "International collaboration to lead exciting robotics development"
-date: 2016-12-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/international-collaboration-to-lead-exciting-robotics-developmen.html
+title: International collaboration to lead exciting robotics development
+date: 2016-12-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/international-collaboration-to-lead-exciting-robotics-developmen.html
+permalink: >-
+  /archive/2016/12/12/international-collaboration-to-lead-exciting-robotics-development/index.html
+layout: layout.njk
 ---
 International collaboration to lead exciting robotics development
 =================================================================

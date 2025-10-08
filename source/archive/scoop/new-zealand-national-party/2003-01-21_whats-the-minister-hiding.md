@@ -1,9 +1,11 @@
 ---
 slug: whats-the-minister-hiding
-title: "What’s the Minister hiding?"
-date: 2003-01-21
+title: What’s the Minister hiding?
+date: 2003-01-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0301/S00150/whats-the-minister-hiding.htm
 author: new-zealand-national-party
+permalink: /archive/2003/01/21/whats-the-minister-hiding/index.html
+layout: layout.njk
 ---
 What’s the Minister hiding?
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: students-first-academic-paper-wins-us-award
-title: "Student's first academic paper wins US award"
-date: 2010-03-17
-source-url: https://www.scoop.co.nz/stories/ED1003/S00080/students-first-academic-paper-wins-us-award.htm
+title: Student's first academic paper wins US award
+date: 2010-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00080/students-first-academic-paper-wins-us-award.htm
 author: university-of-waikato
+permalink: /archive/2010/03/17/students-first-academic-paper-wins-us-award/index.html
+layout: layout.njk
 ---
 Student's first academic paper wins US award
 ============================================

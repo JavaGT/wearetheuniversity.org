@@ -1,9 +1,12 @@
 ---
 slug: maori-scholarship-winner-a-success-story
-title: "Maori Scholarship Winner A Success Story"
-date: 2007-12-18
-source-url: https://www.scoop.co.nz/stories/PA0712/S00398/maori-scholarship-winner-a-success-story.htm
+title: Maori Scholarship Winner A Success Story
+date: 2007-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00398/maori-scholarship-winner-a-success-story.htm
 author: new-zealand-first-party
+permalink: /archive/2007/12/18/maori-scholarship-winner-a-success-story/index.html
+layout: layout.njk
 ---
 Maori Scholarship Winner A Success Story
 ========================================

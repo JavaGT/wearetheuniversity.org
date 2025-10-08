@@ -1,9 +1,12 @@
 ---
 slug: immigration-continues-to-climb
-title: "Immigration Continues To Climb"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/PA0309/S00457/immigration-continues-to-climb.htm
+title: Immigration Continues To Climb
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00457/immigration-continues-to-climb.htm
 author: new-zealand-first-party
+permalink: /archive/2003/09/19/immigration-continues-to-climb/index.html
+layout: layout.njk
 ---
 Immigration Continues To Climb
 ==============================

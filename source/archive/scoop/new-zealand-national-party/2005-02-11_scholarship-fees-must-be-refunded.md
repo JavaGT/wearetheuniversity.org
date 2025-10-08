@@ -1,9 +1,12 @@
 ---
 slug: scholarship-fees-must-be-refunded
-title: "Scholarship fees must be refunded"
-date: 2005-02-11
-source-url: https://www.scoop.co.nz/stories/PA0502/S00275/scholarship-fees-must-be-refunded.htm
+title: Scholarship fees must be refunded
+date: 2005-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00275/scholarship-fees-must-be-refunded.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/11/scholarship-fees-must-be-refunded/index.html
+layout: layout.njk
 ---
 Scholarship fees must be refunded
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: top-researchers-forced-overseas-cap-in-hand
-title: "Top researchers forced overseas, cap in hand"
-date: 2014-04-04
-source-url: https://www.scoop.co.nz/stories/PA1404/S00091/top-researchers-forced-overseas-cap-in-hand.htm
+title: Top researchers forced overseas, cap in hand
+date: 2014-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00091/top-researchers-forced-overseas-cap-in-hand.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/04/top-researchers-forced-overseas-cap-in-hand/index.html
+layout: layout.njk
 ---
 Top researchers forced overseas, cap in hand
 ============================================

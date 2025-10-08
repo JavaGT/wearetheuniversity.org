@@ -1,9 +1,11 @@
 ---
 slug: minimum-standards-needed-now
-title: "Minimum standards needed now"
-date: 2015-11-11
+title: Minimum standards needed now
+date: 2015-11-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1511/S00183/minimum-standards-needed-now.htm
 author: green-party
+permalink: /archive/2015/11/11/minimum-standards-needed-now/index.html
+layout: layout.njk
 ---
 Minimum standards needed now
 ============================

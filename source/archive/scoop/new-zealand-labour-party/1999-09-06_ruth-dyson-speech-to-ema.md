@@ -1,9 +1,11 @@
 ---
 slug: ruth-dyson-speech-to-ema
-title: "Ruth Dyson speech to EMA"
-date: 1999-09-06
+title: Ruth Dyson speech to EMA
+date: 1999-09-06T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU9909/S00040/ruth-dyson-speech-to-ema.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/09/06/ruth-dyson-speech-to-ema/index.html
+layout: layout.njk
 ---
 Ruth Dyson speech to EMA
 ========================

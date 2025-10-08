@@ -1,9 +1,12 @@
 ---
 slug: poverty-greets-many-immigrant-children
-title: "Poverty ‘Greets’ Many Immigrant Children"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PA1412/S00049/poverty-greets-many-immigrant-children.htm
+title: Poverty ‘Greets’ Many Immigrant Children
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00049/poverty-greets-many-immigrant-children.htm
 author: new-zealand-first-party
+permalink: /archive/2014/12/02/poverty-greets-many-immigrant-children/index.html
+layout: layout.njk
 ---
 Poverty ‘Greets’ Many Immigrant Children
 ========================================

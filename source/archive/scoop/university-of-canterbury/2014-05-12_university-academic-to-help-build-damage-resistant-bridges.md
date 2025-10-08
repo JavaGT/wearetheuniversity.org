@@ -1,9 +1,13 @@
 ---
 slug: university-academic-to-help-build-damage-resistant-bridges
-title: "University academic to help build damage-resistant bridges"
-date: 2014-05-12
-source-url: https://www.scoop.co.nz/stories/ED1405/S00060/university-academic-to-help-build-damage-resistant-bridges.htm
+title: University academic to help build damage-resistant bridges
+date: 2014-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00060/university-academic-to-help-build-damage-resistant-bridges.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/12/university-academic-to-help-build-damage-resistant-bridges/index.html
+layout: layout.njk
 ---
 University academic to help build damage-resistant bridges
 ==========================================================

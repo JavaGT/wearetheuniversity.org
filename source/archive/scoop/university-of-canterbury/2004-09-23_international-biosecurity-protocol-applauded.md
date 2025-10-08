@@ -1,9 +1,12 @@
 ---
 slug: international-biosecurity-protocol-applauded
-title: "International biosecurity protocol applauded"
-date: 2004-09-23
-source-url: https://www.scoop.co.nz/stories/ED0409/S00110/international-biosecurity-protocol-applauded.htm
+title: International biosecurity protocol applauded
+date: 2004-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0409/S00110/international-biosecurity-protocol-applauded.htm
 author: university-of-canterbury
+permalink: /archive/2004/09/23/international-biosecurity-protocol-applauded/index.html
+layout: layout.njk
 ---
 International biosecurity protocol applauded
 ============================================

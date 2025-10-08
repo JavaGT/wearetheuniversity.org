@@ -1,9 +1,13 @@
 ---
 slug: researcher-wins-prestigious-sport-nutrition-award
-title: "Researcher wins prestigious Sport Nutrition Award"
-date: 2017-06-08
-source-url: https://www.scoop.co.nz/stories/ED1706/S00019/researcher-wins-prestigious-sport-nutrition-award.htm
+title: Researcher wins prestigious Sport Nutrition Award
+date: 2017-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00019/researcher-wins-prestigious-sport-nutrition-award.htm
 author: massey-university
+permalink: >-
+  /archive/2017/06/08/researcher-wins-prestigious-sport-nutrition-award/index.html
+layout: layout.njk
 ---
 Researcher wins prestigious Sport Nutrition Award
 =================================================

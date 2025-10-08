@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-2-august-2007
-title: "News Worthy, 2 August 2007"
-date: 2007-08-03
+title: News Worthy, 2 August 2007
+date: 2007-08-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0708/S00055/news-worthy-2-august-2007.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/03/news-worthy-2-august-2007/index.html
+layout: layout.njk
 ---
 News Worthy, 2 August 2007
 ==========================

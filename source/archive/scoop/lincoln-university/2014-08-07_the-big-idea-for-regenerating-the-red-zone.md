@@ -1,9 +1,12 @@
 ---
 slug: the-big-idea-for-regenerating-the-red-zone
-title: "The Big Idea for Regenerating the Red Zone"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/AK1408/S00121/the-big-idea-for-regenerating-the-red-zone.htm
+title: The Big Idea for Regenerating the Red Zone
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1408/S00121/the-big-idea-for-regenerating-the-red-zone.htm
 author: lincoln-university
+permalink: /archive/2014/08/07/the-big-idea-for-regenerating-the-red-zone/index.html
+layout: layout.njk
 ---
 The Big Idea for Regenerating the Red Zone
 ==========================================

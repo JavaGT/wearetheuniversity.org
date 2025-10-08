@@ -1,9 +1,13 @@
 ---
 slug: looking-at-eggs-differently-makes-them-more-than-just-tasty
-title: "Looking at eggs differently makes them more than just tasty"
-date: 2015-05-15
-source-url: https://www.scoop.co.nz/stories/SC1505/S00045/looking-at-eggs-differently-makes-them-more-than-just-tasty.htm
+title: Looking at eggs differently makes them more than just tasty
+date: 2015-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1505/S00045/looking-at-eggs-differently-makes-them-more-than-just-tasty.htm
 author: aut-university
+permalink: >-
+  /archive/2015/05/15/looking-at-eggs-differently-makes-them-more-than-just-tasty/index.html
+layout: layout.njk
 ---
 Looking at eggs differently makes them more than just tasty
 ===========================================================

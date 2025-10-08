@@ -1,9 +1,12 @@
 ---
 slug: tsunami-tragedy-will-touch-new-zealand
-title: "Tsunami Tragedy Will Touch New Zealand"
-date: 2004-12-27
-source-url: https://www.scoop.co.nz/stories/PA0412/S00591/tsunami-tragedy-will-touch-new-zealand.htm
+title: Tsunami Tragedy Will Touch New Zealand
+date: 2004-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0412/S00591/tsunami-tragedy-will-touch-new-zealand.htm
 author: new-zealand-national-party
+permalink: /archive/2004/12/27/tsunami-tragedy-will-touch-new-zealand/index.html
+layout: layout.njk
 ---
 Tsunami Tragedy Will Touch New Zealand
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: earthquake-levy-must-now-be-considered
-title: "Earthquake levy must now be considered"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/PA1108/S00580/earthquake-levy-must-now-be-considered.htm
+title: Earthquake levy must now be considered
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00580/earthquake-levy-must-now-be-considered.htm
 author: green-party
+permalink: /archive/2011/08/30/earthquake-levy-must-now-be-considered/index.html
+layout: layout.njk
 ---
 Earthquake levy must now be considered
 ======================================

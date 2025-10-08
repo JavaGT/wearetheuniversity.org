@@ -1,9 +1,13 @@
 ---
 slug: healthy-homes-bill-succeeds-where-government-bill-failed
-title: "Healthy Homes Bill Succeeds Where Government Bill Failed"
-date: 2016-05-06
-source-url: https://www.scoop.co.nz/stories/PO1605/S00086/healthy-homes-bill-succeeds-where-government-bill-failed.htm
+title: Healthy Homes Bill Succeeds Where Government Bill Failed
+date: 2016-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1605/S00086/healthy-homes-bill-succeeds-where-government-bill-failed.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2016/05/06/healthy-homes-bill-succeeds-where-government-bill-failed/index.html
+layout: layout.njk
 ---
 Healthy Homes Bill Succeeds Where Government Bill Failed
 ========================================================

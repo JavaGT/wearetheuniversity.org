@@ -1,9 +1,12 @@
 ---
 slug: researchers-share-knowledge-worth-millions
-title: "Researchers Share Knowledge Worth Millions"
-date: 2022-10-13
-source-url: https://www.scoop.co.nz/stories/SC2210/S00037/researchers-share-knowledge-worth-millions.htm
+title: Researchers Share Knowledge Worth Millions
+date: 2022-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2210/S00037/researchers-share-knowledge-worth-millions.htm
 author: university-of-canterbury
+permalink: /archive/2022/10/13/researchers-share-knowledge-worth-millions/index.html
+layout: layout.njk
 ---
 Researchers Share Knowledge Worth Millions
 ==========================================

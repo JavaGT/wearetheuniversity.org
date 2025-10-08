@@ -1,9 +1,12 @@
 ---
 slug: international-team-wins-$2-million-research-grant
-title: "International team wins $2 million research grant"
-date: 2017-05-03
-source-url: https://www.scoop.co.nz/stories/SC1705/S00008/international-team-wins-2-million-research-grant.htm
+title: International team wins $2 million research grant
+date: 2017-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00008/international-team-wins-2-million-research-grant.htm
 author: university-of-canterbury
+permalink: /archive/2017/05/03/international-team-wins-/index.html
+layout: layout.njk
 ---
 International team wins $2 million research grant
 =================================================

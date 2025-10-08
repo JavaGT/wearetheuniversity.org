@@ -1,9 +1,12 @@
 ---
 slug: nationals-ir-policy-irresponsible
-title: "National’s IR policy irresponsible"
-date: 2002-05-31
-source-url: https://www.scoop.co.nz/stories/BU0205/S00306/nationals-ir-policy-irresponsible.htm
+title: National’s IR policy irresponsible
+date: 2002-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0205/S00306/nationals-ir-policy-irresponsible.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/05/31/nationals-ir-policy-irresponsible/index.html
+layout: layout.njk
 ---
 National’s IR policy irresponsible
 ==================================

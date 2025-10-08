@@ -1,9 +1,13 @@
 ---
 slug: university-of-canterbury-student-events-centre-update
-title: "University of Canterbury Student Events Centre Update"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/ED1207/S00102/university-of-canterbury-student-events-centre-update.htm
+title: University of Canterbury Student Events Centre Update
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00102/university-of-canterbury-student-events-centre-update.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/07/26/university-of-canterbury-student-events-centre-update/index.html
+layout: layout.njk
 ---
 University of Canterbury Student Events Centre Update
 =====================================================

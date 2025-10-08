@@ -1,9 +1,12 @@
 ---
 slug: merger-wont-solve-student-union-problems
-title: "Merger Won't Solve Student Union Problems"
-date: 2000-09-06
-source-url: https://www.scoop.co.nz/stories/ED0009/S00008/merger-wont-solve-student-union-problems.htm
+title: Merger Won't Solve Student Union Problems
+date: 2000-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0009/S00008/merger-wont-solve-student-union-problems.htm
 author: prebble-s-rebels
+permalink: /archive/2000/09/06/merger-wont-solve-student-union-problems/index.html
+layout: layout.njk
 ---
 Merger Won't Solve Student Union Problems
 =========================================

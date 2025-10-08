@@ -1,9 +1,12 @@
 ---
 slug: speech-flavell-community-education-conference
-title: "Speech: Flavell - Community Education Conference"
-date: 2009-06-15
-source-url: https://www.scoop.co.nz/stories/PA0906/S00175/speech-flavell-community-education-conference.htm
+title: 'Speech: Flavell - Community Education Conference'
+date: 2009-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0906/S00175/speech-flavell-community-education-conference.htm
 author: te-pati-maori
+permalink: /archive/2009/06/15/speech-flavell-community-education-conference/index.html
+layout: layout.njk
 ---
 Speech: Flavell - Community Education Conference
 ================================================

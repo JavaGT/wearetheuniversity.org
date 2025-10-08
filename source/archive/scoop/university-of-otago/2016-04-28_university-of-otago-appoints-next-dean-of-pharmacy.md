@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-appoints-next-dean-of-pharmacy
-title: "University of Otago appoints next Dean of Pharmacy"
-date: 2016-04-28
-source-url: https://www.scoop.co.nz/stories/ED1604/S00093/university-of-otago-appoints-next-dean-of-pharmacy.htm
+title: University of Otago appoints next Dean of Pharmacy
+date: 2016-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1604/S00093/university-of-otago-appoints-next-dean-of-pharmacy.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/04/28/university-of-otago-appoints-next-dean-of-pharmacy/index.html
+layout: layout.njk
 ---
 University of Otago appoints next Dean of Pharmacy
 ==================================================

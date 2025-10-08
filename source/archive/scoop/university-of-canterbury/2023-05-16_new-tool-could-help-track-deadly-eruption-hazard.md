@@ -1,9 +1,13 @@
 ---
 slug: new-tool-could-help-track-deadly-eruption-hazard
-title: "New Tool Could Help Track Deadly Eruption Hazard"
-date: 2023-05-16
-source-url: https://www.scoop.co.nz/stories/SC2305/S00016/new-tool-could-help-track-deadly-eruption-hazard.htm
+title: New Tool Could Help Track Deadly Eruption Hazard
+date: 2023-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2305/S00016/new-tool-could-help-track-deadly-eruption-hazard.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/05/16/new-tool-could-help-track-deadly-eruption-hazard/index.html
+layout: layout.njk
 ---
 New Tool Could Help Track Deadly Eruption Hazard
 ================================================

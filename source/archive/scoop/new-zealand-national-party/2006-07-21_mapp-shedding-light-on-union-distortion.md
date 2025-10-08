@@ -1,9 +1,12 @@
 ---
 slug: mapp-shedding-light-on-union-distortion
-title: "Mapp: Shedding light on union distortion"
-date: 2006-07-21
-source-url: https://www.scoop.co.nz/stories/PA0607/S00345/mapp-shedding-light-on-union-distortion.htm
+title: 'Mapp: Shedding light on union distortion'
+date: 2006-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00345/mapp-shedding-light-on-union-distortion.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/21/mapp-shedding-light-on-union-distortion/index.html
+layout: layout.njk
 ---
 Mapp: Shedding light on union distortion
 ========================================

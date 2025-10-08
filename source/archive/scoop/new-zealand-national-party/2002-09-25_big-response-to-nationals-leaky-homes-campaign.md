@@ -1,9 +1,12 @@
 ---
 slug: big-response-to-nationals-leaky-homes-campaign
-title: "Big response to National’s leaky homes campaign"
-date: 2002-09-25
-source-url: https://www.scoop.co.nz/stories/PA0209/S00419/big-response-to-nationals-leaky-homes-campaign.htm
+title: Big response to National’s leaky homes campaign
+date: 2002-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00419/big-response-to-nationals-leaky-homes-campaign.htm
 author: new-zealand-national-party
+permalink: /archive/2002/09/25/big-response-to-nationals-leaky-homes-campaign/index.html
+layout: layout.njk
 ---
 Big response to National’s leaky homes campaign
 ===============================================

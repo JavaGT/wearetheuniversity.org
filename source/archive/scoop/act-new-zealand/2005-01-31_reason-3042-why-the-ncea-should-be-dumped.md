@@ -1,9 +1,12 @@
 ---
 slug: reason-3042-why-the-ncea-should-be-dumped
-title: "Reason 3,042 why the NCEA should be dumped"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PA0501/S00293/reason-3042-why-the-ncea-should-be-dumped.htm
+title: Reason 3,042 why the NCEA should be dumped
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00293/reason-3042-why-the-ncea-should-be-dumped.htm
 author: act-new-zealand
+permalink: /archive/2005/01/31/reason-3042-why-the-ncea-should-be-dumped/index.html
+layout: layout.njk
 ---
 Reason 3,042 why the NCEA should be dumped
 ==========================================

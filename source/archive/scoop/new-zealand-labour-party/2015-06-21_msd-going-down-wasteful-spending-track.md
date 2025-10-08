@@ -1,9 +1,12 @@
 ---
 slug: msd-going-down-wasteful-spending-track
-title: "MSD going down wasteful spending track"
-date: 2015-06-21
-source-url: https://www.scoop.co.nz/stories/PA1506/S00369/msd-going-down-wasteful-spending-track.htm
+title: MSD going down wasteful spending track
+date: 2015-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00369/msd-going-down-wasteful-spending-track.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/21/msd-going-down-wasteful-spending-track/index.html
+layout: layout.njk
 ---
 MSD going down wasteful spending track
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: farmers-are-lions-being-led-by-political-donkeys-peters
-title: "Farmers Are Lions Being Led by Political Donkeys - Peters"
-date: 2017-04-07
-source-url: https://www.scoop.co.nz/stories/PA1704/S00098/farmers-are-lions-being-led-by-political-donkeys-peters.htm
+title: Farmers Are Lions Being Led by Political Donkeys - Peters
+date: 2017-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00098/farmers-are-lions-being-led-by-political-donkeys-peters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/04/07/farmers-are-lions-being-led-by-political-donkeys-peters/index.html
+layout: layout.njk
 ---
 Farmers Are Lions Being Led by Political Donkeys - Peters
 =========================================================

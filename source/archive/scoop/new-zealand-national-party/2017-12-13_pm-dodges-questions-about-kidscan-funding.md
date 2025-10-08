@@ -1,9 +1,12 @@
 ---
 slug: pm-dodges-questions-about-kidscan-funding
-title: "PM dodges questions about KidsCan funding"
-date: 2017-12-13
-source-url: https://www.scoop.co.nz/stories/PA1712/S00134/pm-dodges-questions-about-kidscan-funding.htm
+title: PM dodges questions about KidsCan funding
+date: 2017-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1712/S00134/pm-dodges-questions-about-kidscan-funding.htm
 author: new-zealand-national-party
+permalink: /archive/2017/12/13/pm-dodges-questions-about-kidscan-funding/index.html
+layout: layout.njk
 ---
 PM dodges questions about KidsCan funding
 =========================================

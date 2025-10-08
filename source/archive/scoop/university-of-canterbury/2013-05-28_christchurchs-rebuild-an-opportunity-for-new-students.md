@@ -1,9 +1,13 @@
 ---
 slug: christchurchs-rebuild-an-opportunity-for-new-students
-title: "Christchurch’s rebuild an opportunity for new students"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/AK1305/S00616/christchurchs-rebuild-an-opportunity-for-new-students.htm
+title: Christchurch’s rebuild an opportunity for new students
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1305/S00616/christchurchs-rebuild-an-opportunity-for-new-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/05/28/christchurchs-rebuild-an-opportunity-for-new-students/index.html
+layout: layout.njk
 ---
 Christchurch’s rebuild an opportunity for new students
 ======================================================

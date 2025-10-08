@@ -1,9 +1,12 @@
 ---
 slug: kiwis-support-farmers-why-wont-james-shaw
-title: "Kiwis Support Farmers, Why Won’t James Shaw?"
-date: 2022-06-04
-source-url: https://www.scoop.co.nz/stories/PA2206/S00029/kiwis-support-farmers-why-wont-james-shaw.htm
+title: Kiwis Support Farmers, Why Won’t James Shaw?
+date: 2022-06-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2206/S00029/kiwis-support-farmers-why-wont-james-shaw.htm
 author: act-new-zealand
+permalink: /archive/2022/06/04/kiwis-support-farmers-why-wont-james-shaw/index.html
+layout: layout.njk
 ---
 Kiwis Support Farmers, Why Won’t James Shaw?
 ============================================

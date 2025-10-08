@@ -1,9 +1,12 @@
 ---
 slug: labour-not-serious-about-parent-involvement
-title: "Labour not serious about parent involvement"
-date: 2006-09-18
-source-url: https://www.scoop.co.nz/stories/PA0609/S00406/labour-not-serious-about-parent-involvement.htm
+title: Labour not serious about parent involvement
+date: 2006-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00406/labour-not-serious-about-parent-involvement.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/18/labour-not-serious-about-parent-involvement/index.html
+layout: layout.njk
 ---
 Labour not serious about parent involvement
 ===========================================

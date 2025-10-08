@@ -1,9 +1,12 @@
 ---
 slug: students-support-action-for-rental-wof
-title: "Students Support Action for Rental WoF"
-date: 2016-01-06
-source-url: https://www.scoop.co.nz/stories/PO1601/S00017/students-support-action-for-rental-wof.htm
+title: Students Support Action for Rental WoF
+date: 2016-01-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1601/S00017/students-support-action-for-rental-wof.htm
 author: vuwsa
+permalink: /archive/2016/01/06/students-support-action-for-rental-wof/index.html
+layout: layout.njk
 ---
 Students Support Action for Rental WoF
 ======================================

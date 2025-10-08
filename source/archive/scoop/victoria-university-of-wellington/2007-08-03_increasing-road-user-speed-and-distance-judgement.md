@@ -1,9 +1,13 @@
 ---
 slug: increasing-road-user-speed-and-distance-judgement
-title: "Increasing road-user speed and distance judgement"
-date: 2007-08-03
-source-url: https://www.scoop.co.nz/stories/ED0708/S00005/increasing-road-user-speed-and-distance-judgement.htm
+title: Increasing road-user speed and distance judgement
+date: 2007-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00005/increasing-road-user-speed-and-distance-judgement.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2007/08/03/increasing-road-user-speed-and-distance-judgement/index.html
+layout: layout.njk
 ---
 Increasing road-user speed and distance judgement
 =================================================

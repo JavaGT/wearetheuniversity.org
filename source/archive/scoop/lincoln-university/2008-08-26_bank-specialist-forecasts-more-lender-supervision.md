@@ -1,9 +1,13 @@
 ---
 slug: bank-specialist-forecasts-more-lender-supervision
-title: "Bank Specialist Forecasts More Lender Supervision"
-date: 2008-08-26
-source-url: https://www.scoop.co.nz/stories/ED0808/S00079/bank-specialist-forecasts-more-lender-supervision.htm
+title: Bank Specialist Forecasts More Lender Supervision
+date: 2008-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0808/S00079/bank-specialist-forecasts-more-lender-supervision.htm
 author: lincoln-university
+permalink: >-
+  /archive/2008/08/26/bank-specialist-forecasts-more-lender-supervision/index.html
+layout: layout.njk
 ---
 Bank Specialist Forecasts More Lender Supervision
 =================================================

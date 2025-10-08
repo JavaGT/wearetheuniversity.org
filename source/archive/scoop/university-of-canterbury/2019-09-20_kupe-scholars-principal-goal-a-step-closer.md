@@ -1,9 +1,12 @@
 ---
 slug: kupe-scholars-principal-goal-a-step-closer
-title: "Kupe scholar’s principal goal a step closer"
-date: 2019-09-20
-source-url: https://www.scoop.co.nz/stories/ED1909/S00057/kupe-scholars-principal-goal-a-step-closer.htm
+title: Kupe scholar’s principal goal a step closer
+date: 2019-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1909/S00057/kupe-scholars-principal-goal-a-step-closer.htm
 author: university-of-canterbury
+permalink: /archive/2019/09/20/kupe-scholars-principal-goal-a-step-closer/index.html
+layout: layout.njk
 ---
 Kupe scholar’s principal goal a step closer
 ===========================================

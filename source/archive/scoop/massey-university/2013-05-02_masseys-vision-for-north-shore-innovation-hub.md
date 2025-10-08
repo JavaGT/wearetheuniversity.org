@@ -1,9 +1,12 @@
 ---
 slug: masseys-vision-for-north-shore-innovation-hub
-title: "Massey’s vision for North Shore innovation hub"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/ED1305/S00012/masseys-vision-for-north-shore-innovation-hub.htm
+title: Massey’s vision for North Shore innovation hub
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00012/masseys-vision-for-north-shore-innovation-hub.htm
 author: massey-university
+permalink: /archive/2013/05/02/masseys-vision-for-north-shore-innovation-hub/index.html
+layout: layout.njk
 ---
 Massey’s vision for North Shore innovation hub
 ==============================================

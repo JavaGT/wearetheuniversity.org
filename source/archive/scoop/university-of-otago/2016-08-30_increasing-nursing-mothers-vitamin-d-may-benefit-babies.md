@@ -1,9 +1,13 @@
 ---
 slug: increasing-nursing-mothers-vitamin-d-may-benefit-babies
-title: "Increasing nursing mothers’ vitamin D may benefit babies"
-date: 2016-08-30
-source-url: https://www.scoop.co.nz/stories/GE1608/S00142/increasing-nursing-mothers-vitamin-d-may-benefit-babies.htm
+title: Increasing nursing mothers’ vitamin D may benefit babies
+date: 2016-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00142/increasing-nursing-mothers-vitamin-d-may-benefit-babies.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/30/increasing-nursing-mothers-vitamin-d-may-benefit-babies/index.html
+layout: layout.njk
 ---
 Increasing nursing mothers’ vitamin D may benefit babies
 ========================================================

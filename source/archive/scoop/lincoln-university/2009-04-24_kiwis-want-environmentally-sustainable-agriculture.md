@@ -1,9 +1,13 @@
 ---
 slug: kiwis-want-environmentally-sustainable-agriculture
-title: "Kiwis Want Environmentally Sustainable Agriculture"
-date: 2009-04-24
-source-url: https://www.scoop.co.nz/stories/PO0904/S00234/kiwis-want-environmentally-sustainable-agriculture.htm
+title: Kiwis Want Environmentally Sustainable Agriculture
+date: 2009-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0904/S00234/kiwis-want-environmentally-sustainable-agriculture.htm
 author: lincoln-university
+permalink: >-
+  /archive/2009/04/24/kiwis-want-environmentally-sustainable-agriculture/index.html
+layout: layout.njk
 ---
 Kiwis Want Environmentally Sustainable Agriculture
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-pro-vice-chancellor-wins-international-geospatial-award
-title: "UC Pro-Vice-Chancellor wins international geospatial award"
-date: 2017-04-13
-source-url: https://www.scoop.co.nz/stories/SC1704/S00050/uc-pro-vice-chancellor-wins-international-geospatial-award.htm
+title: UC Pro-Vice-Chancellor wins international geospatial award
+date: 2017-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1704/S00050/uc-pro-vice-chancellor-wins-international-geospatial-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/04/13/uc-pro-vice-chancellor-wins-international-geospatial-award/index.html
+layout: layout.njk
 ---
 UC Pro-Vice-Chancellor wins international geospatial award
 ==========================================================

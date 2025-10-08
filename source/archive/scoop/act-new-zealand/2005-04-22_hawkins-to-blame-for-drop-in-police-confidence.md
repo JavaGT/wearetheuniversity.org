@@ -1,9 +1,12 @@
 ---
 slug: hawkins-to-blame-for-drop-in-police-confidence
-title: "Hawkins to blame for drop in police confidence"
-date: 2005-04-22
-source-url: https://www.scoop.co.nz/stories/PA0504/S00485/hawkins-to-blame-for-drop-in-police-confidence.htm
+title: Hawkins to blame for drop in police confidence
+date: 2005-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00485/hawkins-to-blame-for-drop-in-police-confidence.htm
 author: act-new-zealand
+permalink: /archive/2005/04/22/hawkins-to-blame-for-drop-in-police-confidence/index.html
+layout: layout.njk
 ---
 Hawkins to blame for drop in police confidence
 ==============================================

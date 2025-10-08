@@ -1,9 +1,12 @@
 ---
 slug: otago-universitys-economic-impact-tops-$900m
-title: "Otago University’s Economic Impact Tops $900M"
-date: 2004-06-10
-source-url: https://www.scoop.co.nz/stories/ED0406/S00048/otago-universitys-economic-impact-tops-900m.htm
+title: Otago University’s Economic Impact Tops $900M
+date: 2004-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0406/S00048/otago-universitys-economic-impact-tops-900m.htm
 author: university-of-otago
+permalink: /archive/2004/06/10/otago-universitys-economic-impact-tops-/index.html
+layout: layout.njk
 ---
 Otago University’s Economic Impact Tops $900M
 =============================================

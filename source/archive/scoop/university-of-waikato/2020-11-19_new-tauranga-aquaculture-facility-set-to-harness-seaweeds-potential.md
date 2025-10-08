@@ -1,9 +1,13 @@
 ---
 slug: new-tauranga-aquaculture-facility-set-to-harness-seaweeds-potential
-title: "New Tauranga Aquaculture Facility Set To Harness Seaweed’s Potential"
-date: 2020-11-19
-source-url: https://www.scoop.co.nz/stories/SC2011/S00035/new-tauranga-aquaculture-facility-set-to-harness-seaweeds-potential.htm
+title: New Tauranga Aquaculture Facility Set To Harness Seaweed’s Potential
+date: 2020-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2011/S00035/new-tauranga-aquaculture-facility-set-to-harness-seaweeds-potential.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/11/19/new-tauranga-aquaculture-facility-set-to-harness-seaweeds-potential/index.html
+layout: layout.njk
 ---
 New Tauranga Aquaculture Facility Set To Harness Seaweed’s Potential
 ====================================================================

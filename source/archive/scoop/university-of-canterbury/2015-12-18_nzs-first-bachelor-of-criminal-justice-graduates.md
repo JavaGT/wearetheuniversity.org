@@ -1,9 +1,13 @@
 ---
 slug: nzs-first-bachelor-of-criminal-justice-graduates
-title: "NZ’s first Bachelor of Criminal Justice graduates"
-date: 2015-12-18
-source-url: https://www.scoop.co.nz/stories/ED1512/S00085/nzs-first-bachelor-of-criminal-justice-graduates.htm
+title: NZ’s first Bachelor of Criminal Justice graduates
+date: 2015-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00085/nzs-first-bachelor-of-criminal-justice-graduates.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/18/nzs-first-bachelor-of-criminal-justice-graduates/index.html
+layout: layout.njk
 ---
 NZ’s first Bachelor of Criminal Justice graduates
 =================================================

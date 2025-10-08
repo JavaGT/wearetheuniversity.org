@@ -1,9 +1,11 @@
 ---
 slug: ge-free-and-spin-free-day
-title: "GE-Free and spin-free day"
-date: 2002-07-23
+title: GE-Free and spin-free day
+date: 2002-07-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0207/S00638/ge-free-and-spin-free-day.htm
 author: green-party
+permalink: /archive/2002/07/23/ge-free-and-spin-free-day/index.html
+layout: layout.njk
 ---
 GE-Free and spin-free day
 =========================

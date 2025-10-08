@@ -1,9 +1,13 @@
 ---
 slug: smokers-lung-damage-continues-even-after-quitting
-title: "Smokers’ lung damage continues even after quitting"
-date: 2007-06-12
-source-url: https://www.scoop.co.nz/stories/GE0706/S00029/smokers-lung-damage-continues-even-after-quitting.htm
+title: Smokers’ lung damage continues even after quitting
+date: 2007-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0706/S00029/smokers-lung-damage-continues-even-after-quitting.htm
 author: massey-university
+permalink: >-
+  /archive/2007/06/12/smokers-lung-damage-continues-even-after-quitting/index.html
+layout: layout.njk
 ---
 Smokers’ lung damage continues even after quitting
 ==================================================

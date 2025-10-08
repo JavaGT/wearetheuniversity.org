@@ -1,9 +1,12 @@
 ---
 slug: lecture-to-highlight-alan-turings-genius
-title: "Lecture to highlight Alan Turing’s genius"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/ED1502/S00078/lecture-to-highlight-alan-turings-genius.htm
+title: Lecture to highlight Alan Turing’s genius
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00078/lecture-to-highlight-alan-turings-genius.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/02/20/lecture-to-highlight-alan-turings-genius/index.html
+layout: layout.njk
 ---
 Lecture to highlight Alan Turing’s genius
 =========================================

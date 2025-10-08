@@ -1,9 +1,12 @@
 ---
 slug: agribusiness-innovation-and-growth-2013
-title: "Agribusiness Innovation and Growth 2013"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/BU1305/S00942/agribusiness-innovation-and-growth-2013.htm
+title: Agribusiness Innovation and Growth 2013
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1305/S00942/agribusiness-innovation-and-growth-2013.htm
 author: university-of-waikato
+permalink: /archive/2013/05/23/agribusiness-innovation-and-growth-2013/index.html
+layout: layout.njk
 ---
 Agribusiness Innovation and Growth 2013
 =======================================

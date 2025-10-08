@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-22-march-2007
-title: "AUS Tertiary Update, 22 March 2007"
-date: 2007-03-22
-source-url: https://www.scoop.co.nz/stories/ED0703/S00077/aus-tertiary-update-22-march-2007.htm
+title: AUS Tertiary Update, 22 March 2007
+date: 2007-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0703/S00077/aus-tertiary-update-22-march-2007.htm
 author: association-of-university-staff
+permalink: /archive/2007/03/22/aus-tertiary-update-22-march-2007/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update, 22 March 2007
 ==================================

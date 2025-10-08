@@ -1,9 +1,12 @@
 ---
 slug: vuw-corrects-misinformation-re-court-finding
-title: "VUW corrects misinformation re Court finding"
-date: 2000-07-21
-source-url: https://www.scoop.co.nz/stories/ED0007/S00030/vuw-corrects-misinformation-re-court-finding.htm
+title: VUW corrects misinformation re Court finding
+date: 2000-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0007/S00030/vuw-corrects-misinformation-re-court-finding.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/07/21/vuw-corrects-misinformation-re-court-finding/index.html
+layout: layout.njk
 ---
 VUW corrects misinformation re Court finding
 ============================================

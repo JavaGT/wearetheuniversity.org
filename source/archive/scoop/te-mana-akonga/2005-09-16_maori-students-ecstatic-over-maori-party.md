@@ -1,9 +1,12 @@
 ---
 slug: maori-students-ecstatic-over-maori-party
-title: "Maori students ecstatic over Maori Party"
-date: 2005-09-16
-source-url: https://www.scoop.co.nz/stories/ED0509/S00061/maori-students-ecstatic-over-maori-party.htm
+title: Maori students ecstatic over Maori Party
+date: 2005-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00061/maori-students-ecstatic-over-maori-party.htm
 author: te-mana-akonga
+permalink: /archive/2005/09/16/maori-students-ecstatic-over-maori-party/index.html
+layout: layout.njk
 ---
 Maori students ecstatic over Maori Party
 ========================================

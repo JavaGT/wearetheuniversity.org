@@ -1,9 +1,13 @@
 ---
 slug: smoking-during-pregnancy-factor-in-childhood-disorders
-title: "Smoking during pregnancy factor in childhood disorders"
-date: 2011-04-27
-source-url: https://www.scoop.co.nz/stories/SC1104/S00049/smoking-during-pregnancy-factor-in-childhood-disorders.htm
+title: Smoking during pregnancy factor in childhood disorders
+date: 2011-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1104/S00049/smoking-during-pregnancy-factor-in-childhood-disorders.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/04/27/smoking-during-pregnancy-factor-in-childhood-disorders/index.html
+layout: layout.njk
 ---
 Smoking during pregnancy factor in childhood disorders
 ======================================================

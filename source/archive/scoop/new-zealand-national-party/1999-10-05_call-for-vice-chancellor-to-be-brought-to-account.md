@@ -1,9 +1,13 @@
 ---
 slug: call-for-vice-chancellor-to-be-brought-to-account
-title: "Call for Vice Chancellor To Be Brought To Account"
-date: 1999-10-05
-source-url: https://www.scoop.co.nz/stories/ED9910/S00009/call-for-vice-chancellor-to-be-brought-to-account.htm
+title: Call for Vice Chancellor To Be Brought To Account
+date: 1999-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED9910/S00009/call-for-vice-chancellor-to-be-brought-to-account.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/1999/10/05/call-for-vice-chancellor-to-be-brought-to-account/index.html
+layout: layout.njk
 ---
 Call for Vice Chancellor To Be Brought To Account
 =================================================

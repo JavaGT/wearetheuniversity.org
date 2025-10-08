@@ -1,9 +1,11 @@
 ---
 slug: maxim-institute-real-issues
-title: "Maxim Institute: Real Issues"
-date: 2004-08-20
+title: 'Maxim Institute: Real Issues'
+date: 2004-08-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0408/S00185/maxim-institute-real-issues.htm
 author: maxim-institute
+permalink: /archive/2004/08/20/maxim-institute-real-issues/index.html
+layout: layout.njk
 ---
 Maxim Institute: Real Issues
 ============================

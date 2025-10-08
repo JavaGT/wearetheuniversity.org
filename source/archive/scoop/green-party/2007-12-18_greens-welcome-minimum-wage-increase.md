@@ -1,9 +1,12 @@
 ---
 slug: greens-welcome-minimum-wage-increase
-title: "Greens welcome minimum wage increase"
-date: 2007-12-18
-source-url: https://www.scoop.co.nz/stories/PA0712/S00399/greens-welcome-minimum-wage-increase.htm
+title: Greens welcome minimum wage increase
+date: 2007-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00399/greens-welcome-minimum-wage-increase.htm
 author: green-party
+permalink: /archive/2007/12/18/greens-welcome-minimum-wage-increase/index.html
+layout: layout.njk
 ---
 Greens welcome minimum wage increase
 ====================================

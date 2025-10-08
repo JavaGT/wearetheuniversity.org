@@ -1,9 +1,12 @@
 ---
 slug: support-workers-deserve-better-pay
-title: "Support Workers Deserve Better Pay"
-date: 2022-06-22
-source-url: https://www.scoop.co.nz/stories/PO2206/S00181/support-workers-deserve-better-pay.htm
+title: Support Workers Deserve Better Pay
+date: 2022-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2206/S00181/support-workers-deserve-better-pay.htm
 author: green-party
+permalink: /archive/2022/06/22/support-workers-deserve-better-pay/index.html
+layout: layout.njk
 ---
 Support Workers Deserve Better Pay
 ==================================

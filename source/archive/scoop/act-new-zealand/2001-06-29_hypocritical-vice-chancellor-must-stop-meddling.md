@@ -1,9 +1,12 @@
 ---
 slug: hypocritical-vice-chancellor-must-stop-meddling
-title: "Hypocritical Vice Chancellor Must Stop Meddling"
-date: 2001-06-29
-source-url: https://www.scoop.co.nz/stories/PA0106/S00446/hypocritical-vice-chancellor-must-stop-meddling.htm
+title: Hypocritical Vice Chancellor Must Stop Meddling
+date: 2001-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0106/S00446/hypocritical-vice-chancellor-must-stop-meddling.htm
 author: act-new-zealand
+permalink: /archive/2001/06/29/hypocritical-vice-chancellor-must-stop-meddling/index.html
+layout: layout.njk
 ---
 Hypocritical Vice Chancellor Must Stop Meddling
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: nominations-open-for-2016-vuw-blues-awards
-title: "Nominations open for 2016 VUW Blues Awards"
-date: 2016-07-13
-source-url: https://www.scoop.co.nz/stories/CU1607/S00159/nominations-open-for-2016-vuw-blues-awards.htm
+title: Nominations open for 2016 VUW Blues Awards
+date: 2016-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1607/S00159/nominations-open-for-2016-vuw-blues-awards.htm
 author: vuwsa
+permalink: /archive/2016/07/13/nominations-open-for-2016-vuw-blues-awards/index.html
+layout: layout.njk
 ---
 Nominations open for 2016 VUW Blues Awards
 ==========================================

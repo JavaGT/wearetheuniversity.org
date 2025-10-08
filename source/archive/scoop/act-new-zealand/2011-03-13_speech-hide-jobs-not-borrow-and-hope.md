@@ -1,9 +1,12 @@
 ---
 slug: speech-hide-jobs-not-borrow-and-hope
-title: "Speech: Hide - Jobs - Not Borrow and Hope"
-date: 2011-03-13
-source-url: https://www.scoop.co.nz/stories/PA1103/S00191/speech-hide-jobs-not-borrow-and-hope.htm
+title: 'Speech: Hide - Jobs - Not Borrow and Hope'
+date: 2011-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00191/speech-hide-jobs-not-borrow-and-hope.htm
 author: act-new-zealand
+permalink: /archive/2011/03/13/speech-hide-jobs-not-borrow-and-hope/index.html
+layout: layout.njk
 ---
 Speech: Hide - Jobs - Not Borrow and Hope
 =========================================

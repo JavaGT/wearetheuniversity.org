@@ -1,9 +1,12 @@
 ---
 slug: rwc-winner-says-french-tactics-a-risk
-title: "RWC winner says French tactics a risk"
-date: 2011-09-21
-source-url: https://www.scoop.co.nz/stories/SP1109/S00042/rwc-winner-says-french-tactics-a-risk.htm
+title: RWC winner says French tactics a risk
+date: 2011-09-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SP1109/S00042/rwc-winner-says-french-tactics-a-risk.htm
 author: massey-university
+permalink: /archive/2011/09/21/rwc-winner-says-french-tactics-a-risk/index.html
+layout: layout.njk
 ---
 RWC winner says French tactics a risk
 =====================================

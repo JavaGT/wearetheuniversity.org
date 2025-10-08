@@ -1,9 +1,12 @@
 ---
 slug: organic-produce-no-more-nutritious
-title: "Organic Produce No More Nutritious"
-date: 2002-04-30
-source-url: https://www.scoop.co.nz/stories/SC0204/S00017/organic-produce-no-more-nutritious.htm
+title: Organic Produce No More Nutritious
+date: 2002-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0204/S00017/organic-produce-no-more-nutritious.htm
 author: university-of-otago
+permalink: /archive/2002/04/30/organic-produce-no-more-nutritious/index.html
+layout: layout.njk
 ---
 Organic Produce No More Nutritious
 ==================================

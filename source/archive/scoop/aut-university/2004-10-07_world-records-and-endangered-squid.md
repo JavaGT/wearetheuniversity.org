@@ -1,9 +1,12 @@
 ---
 slug: world-records-and-endangered-squid
-title: "World records and endangered squid"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/SC0410/S00017/world-records-and-endangered-squid.htm
+title: World records and endangered squid
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0410/S00017/world-records-and-endangered-squid.htm
 author: aut-university
+permalink: /archive/2004/10/07/world-records-and-endangered-squid/index.html
+layout: layout.njk
 ---
 World records and endangered squid
 ==================================

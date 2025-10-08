@@ -1,9 +1,13 @@
 ---
 slug: akld-airport-putting-profit-before-public-service
-title: "Akld Airport putting profit before public service?"
-date: 2005-09-02
-source-url: https://www.scoop.co.nz/stories/PA0509/S00049/akld-airport-putting-profit-before-public-service.htm
+title: Akld Airport putting profit before public service?
+date: 2005-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00049/akld-airport-putting-profit-before-public-service.htm
 author: green-party
+permalink: >-
+  /archive/2005/09/02/akld-airport-putting-profit-before-public-service/index.html
+layout: layout.njk
 ---
 Akld Airport putting profit before public service?
 ==================================================

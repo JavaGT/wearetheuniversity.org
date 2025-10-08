@@ -1,9 +1,12 @@
 ---
 slug: joyce-out-of-touch-with-students-needs
-title: "Joyce out of touch with students needs"
-date: 2012-05-04
-source-url: https://www.scoop.co.nz/stories/PO1205/S00074/joyce-out-of-touch-with-students-needs.htm
+title: Joyce out of touch with students needs
+date: 2012-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00074/joyce-out-of-touch-with-students-needs.htm
 author: vuwsa
+permalink: /archive/2012/05/04/joyce-out-of-touch-with-students-needs/index.html
+layout: layout.njk
 ---
 Joyce out of touch with students needs
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-set-for-kīngitanga-day
-title: "Waikato University set for Kīngitanga Day"
-date: 2010-03-29
-source-url: https://www.scoop.co.nz/stories/ED1003/S00144/waikato-university-set-for-kingitanga-day.htm
+title: Waikato University set for Kīngitanga Day
+date: 2010-03-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00144/waikato-university-set-for-kingitanga-day.htm
 author: university-of-waikato
+permalink: /archive/2010/03/29/waikato-university-set-for-k/index.html
+layout: layout.njk
 ---
 Waikato University set for Kīngitanga Day
 =========================================

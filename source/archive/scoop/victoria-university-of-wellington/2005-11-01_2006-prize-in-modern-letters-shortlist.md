@@ -1,9 +1,12 @@
 ---
 slug: 2006-prize-in-modern-letters-shortlist
-title: "2006 Prize in Modern Letters shortlist"
-date: 2005-11-01
-source-url: https://www.scoop.co.nz/stories/CU0511/S00008/2006-prize-in-modern-letters-shortlist.htm
+title: 2006 Prize in Modern Letters shortlist
+date: 2005-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0511/S00008/2006-prize-in-modern-letters-shortlist.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/11/01/2006-prize-in-modern-letters-shortlist/index.html
+layout: layout.njk
 ---
 2006 Prize in Modern Letters shortlist
 ======================================

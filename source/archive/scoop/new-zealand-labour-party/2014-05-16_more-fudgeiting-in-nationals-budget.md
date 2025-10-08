@@ -1,9 +1,12 @@
 ---
 slug: more-fudgeiting-in-nationals-budget
-title: "More fudgeiting in National’s Budget"
-date: 2014-05-16
-source-url: https://www.scoop.co.nz/stories/PA1405/S00325/more-fudgeiting-in-nationals-budget.htm
+title: More fudgeiting in National’s Budget
+date: 2014-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1405/S00325/more-fudgeiting-in-nationals-budget.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/05/16/more-fudgeiting-in-nationals-budget/index.html
+layout: layout.njk
 ---
 More fudgeiting in National’s Budget
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: sedition-uncovers-hidden-stores
-title: "Sedition uncovers hidden stores"
-date: 2005-07-14
-source-url: https://www.scoop.co.nz/stories/ED0507/S00050/sedition-uncovers-hidden-stores.htm
+title: Sedition uncovers hidden stores
+date: 2005-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00050/sedition-uncovers-hidden-stores.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/07/14/sedition-uncovers-hidden-stores/index.html
+layout: layout.njk
 ---
 Sedition uncovers hidden stores
 ===============================

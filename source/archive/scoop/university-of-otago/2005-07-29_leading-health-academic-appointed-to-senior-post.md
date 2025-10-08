@@ -1,9 +1,13 @@
 ---
 slug: leading-health-academic-appointed-to-senior-post
-title: "Leading Health Academic Appointed To Senior Post"
-date: 2005-07-29
-source-url: https://www.scoop.co.nz/stories/ED0507/S00129/leading-health-academic-appointed-to-senior-post.htm
+title: Leading Health Academic Appointed To Senior Post
+date: 2005-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00129/leading-health-academic-appointed-to-senior-post.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/07/29/leading-health-academic-appointed-to-senior-post/index.html
+layout: layout.njk
 ---
 Leading Health Academic Appointed To Senior Post
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: otago-uni-students-early-starters-constitution-conversation
-title: "Otago Uni Students Early Starters: Constitution Conversation"
-date: 2013-02-26
-source-url: https://www.scoop.co.nz/stories/ED1302/S00140/otago-uni-students-early-starters-constitution-conversation.htm
+title: 'Otago Uni Students Early Starters: Constitution Conversation'
+date: 2013-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00140/otago-uni-students-early-starters-constitution-conversation.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/02/26/otago-uni-students-early-starters-constitution-conversation/index.html
+layout: layout.njk
 ---
 Otago Uni Students Early Starters: Constitution Conversation
 ============================================================

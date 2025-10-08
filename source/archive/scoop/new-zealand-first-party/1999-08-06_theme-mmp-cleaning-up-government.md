@@ -1,9 +1,12 @@
 ---
 slug: theme-mmp-cleaning-up-government
-title: "Theme: \"MMP - cleaning up Government\""
-date: 1999-08-06
-source-url: https://www.scoop.co.nz/stories/PA9908/S00110/theme-mmp-cleaning-up-government.htm
+title: 'Theme: "MMP - cleaning up Government"'
+date: 1999-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00110/theme-mmp-cleaning-up-government.htm
 author: new-zealand-first-party
+permalink: /archive/1999/08/06/theme-mmp-cleaning-up-government/index.html
+layout: layout.njk
 ---
 Theme: \"MMP - cleaning up Government"
 =====================================

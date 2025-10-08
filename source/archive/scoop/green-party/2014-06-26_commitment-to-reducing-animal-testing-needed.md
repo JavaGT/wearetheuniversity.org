@@ -1,9 +1,12 @@
 ---
 slug: commitment-to-reducing-animal-testing-needed
-title: "Commitment to reducing animal testing needed"
-date: 2014-06-26
-source-url: https://www.scoop.co.nz/stories/PA1406/S00406/commitment-to-reducing-animal-testing-needed.htm
+title: Commitment to reducing animal testing needed
+date: 2014-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00406/commitment-to-reducing-animal-testing-needed.htm
 author: green-party
+permalink: /archive/2014/06/26/commitment-to-reducing-animal-testing-needed/index.html
+layout: layout.njk
 ---
 Commitment to reducing animal testing needed
 ============================================

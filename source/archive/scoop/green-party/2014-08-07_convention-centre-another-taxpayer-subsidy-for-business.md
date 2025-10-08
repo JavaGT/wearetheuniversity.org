@@ -1,9 +1,13 @@
 ---
 slug: convention-centre-another-taxpayer-subsidy-for-business
-title: "Convention Centre: Another taxpayer subsidy for business"
-date: 2014-08-07
-source-url: https://www.scoop.co.nz/stories/PA1408/S00130/convention-centre-another-taxpayer-subsidy-for-business.htm
+title: 'Convention Centre: Another taxpayer subsidy for business'
+date: 2014-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00130/convention-centre-another-taxpayer-subsidy-for-business.htm
 author: green-party
+permalink: >-
+  /archive/2014/08/07/convention-centre-another-taxpayer-subsidy-for-business/index.html
+layout: layout.njk
 ---
 Convention Centre: Another taxpayer subsidy for business
 ========================================================

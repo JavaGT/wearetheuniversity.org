@@ -1,9 +1,12 @@
 ---
 slug: who-will-pay-for-alliance-promises
-title: "Who Will Pay For Alliance Promises?"
-date: 1999-09-11
-source-url: https://www.scoop.co.nz/stories/PA9909/S00260/who-will-pay-for-alliance-promises.htm
+title: Who Will Pay For Alliance Promises?
+date: 1999-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00260/who-will-pay-for-alliance-promises.htm
 author: act-new-zealand
+permalink: /archive/1999/09/11/who-will-pay-for-alliance-promises/index.html
+layout: layout.njk
 ---
 Who Will Pay For Alliance Promises?
 ===================================

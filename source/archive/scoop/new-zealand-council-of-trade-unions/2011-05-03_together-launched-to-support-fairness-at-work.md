@@ -1,9 +1,12 @@
 ---
 slug: together-launched-to-support-fairness-at-work
-title: "‘Together’ launched to support fairness at work"
-date: 2011-05-03
-source-url: https://www.scoop.co.nz/stories/PO1105/S00018/together-launched-to-support-fairness-at-work.htm
+title: ‘Together’ launched to support fairness at work
+date: 2011-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00018/together-launched-to-support-fairness-at-work.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2011/05/03/together-launched-to-support-fairness-at-work/index.html
+layout: layout.njk
 ---
 ‘Together’ launched to support fairness at work
 ===============================================

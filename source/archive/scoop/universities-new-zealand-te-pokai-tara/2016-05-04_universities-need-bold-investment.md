@@ -1,9 +1,12 @@
 ---
 slug: universities-need-bold-investment
-title: "Universities need bold investment"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/ED1605/S00009/universities-need-bold-investment.htm
+title: Universities need bold investment
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00009/universities-need-bold-investment.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/05/04/universities-need-bold-investment/index.html
+layout: layout.njk
 ---
 Universities need bold investment
 =================================

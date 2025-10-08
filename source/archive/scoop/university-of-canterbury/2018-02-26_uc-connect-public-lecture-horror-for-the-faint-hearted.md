@@ -1,9 +1,13 @@
 ---
 slug: uc-connect-public-lecture-horror-for-the-faint-hearted
-title: "UC Connect Public Lecture: Horror for the Faint-Hearted"
-date: 2018-02-26
-source-url: https://www.scoop.co.nz/stories/CU1802/S00353/uc-connect-public-lecture-horror-for-the-faint-hearted.htm
+title: 'UC Connect Public Lecture: Horror for the Faint-Hearted'
+date: 2018-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1802/S00353/uc-connect-public-lecture-horror-for-the-faint-hearted.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/02/26/uc-connect-public-lecture-horror-for-the-faint-hearted/index.html
+layout: layout.njk
 ---
 UC Connect Public Lecture: Horror for the Faint-Hearted
 =======================================================

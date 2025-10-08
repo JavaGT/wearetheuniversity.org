@@ -1,9 +1,12 @@
 ---
 slug: defining-moment-when-war-declared-100-years-ago
-title: "Defining moment when war declared 100 years ago"
-date: 2014-08-03
-source-url: https://www.scoop.co.nz/stories/CU1408/S00014/defining-moment-when-war-declared-100-years-ago.htm
+title: Defining moment when war declared 100 years ago
+date: 2014-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00014/defining-moment-when-war-declared-100-years-ago.htm
 author: massey-university
+permalink: /archive/2014/08/03/defining-moment-when-war-declared-100-years-ago/index.html
+layout: layout.njk
 ---
 Defining moment when war declared 100 years ago
 ===============================================

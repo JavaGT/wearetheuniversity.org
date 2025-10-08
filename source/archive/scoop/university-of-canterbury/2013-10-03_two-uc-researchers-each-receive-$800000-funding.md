@@ -1,9 +1,12 @@
 ---
 slug: two-uc-researchers-each-receive-$800000-funding
-title: "Two UC researchers each receive $800,000 funding"
-date: 2013-10-03
-source-url: https://www.scoop.co.nz/stories/SC1310/S00005/two-uc-researchers-each-receive-800000-funding.htm
+title: Two UC researchers each receive $800,000 funding
+date: 2013-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00005/two-uc-researchers-each-receive-800000-funding.htm
 author: university-of-canterbury
+permalink: /archive/2013/10/03/two-uc-researchers-each-receive-/index.html
+layout: layout.njk
 ---
 Two UC researchers each receive $800,000 funding
 ================================================

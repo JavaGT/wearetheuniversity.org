@@ -1,9 +1,13 @@
 ---
 slug: aut-supports-joyces-call-for-more-qualified-engineers
-title: "AUT supports Joyce’s call for more qualified engineers"
-date: 2012-11-20
-source-url: https://www.scoop.co.nz/stories/ED1211/S00149/aut-supports-joyces-call-for-more-qualified-engineers.htm
+title: AUT supports Joyce’s call for more qualified engineers
+date: 2012-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00149/aut-supports-joyces-call-for-more-qualified-engineers.htm
 author: aut-university
+permalink: >-
+  /archive/2012/11/20/aut-supports-joyces-call-for-more-qualified-engineers/index.html
+layout: layout.njk
 ---
 AUT supports Joyce’s call for more qualified engineers
 ======================================================

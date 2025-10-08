@@ -1,9 +1,13 @@
 ---
 slug: un-nz-failing-on-domestic-violence-and-protecting-children
-title: "UN – NZ failing on domestic violence and protecting children"
-date: 2014-02-01
-source-url: https://www.scoop.co.nz/stories/PA1402/S00002/un-nz-failing-on-domestic-violence-and-protecting-children.htm
+title: UN – NZ failing on domestic violence and protecting children
+date: 2014-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00002/un-nz-failing-on-domestic-violence-and-protecting-children.htm
 author: green-party
+permalink: >-
+  /archive/2014/02/01/un-nz-failing-on-domestic-violence-and-protecting-children/index.html
+layout: layout.njk
 ---
 UN – NZ failing on domestic violence and protecting children
 ============================================================

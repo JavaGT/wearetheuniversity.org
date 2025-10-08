@@ -1,9 +1,11 @@
 ---
 slug: maxim-real-issues-no-121
-title: "Maxim Real Issues: No. 121"
-date: 2004-07-30
+title: 'Maxim Real Issues: No. 121'
+date: 2004-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO0407/S00297/maxim-real-issues-no-121.htm
 author: maxim-institute
+permalink: /archive/2004/07/30/maxim-real-issues-no-121/index.html
+layout: layout.njk
 ---
 Maxim Real Issues: No. 121
 ==========================

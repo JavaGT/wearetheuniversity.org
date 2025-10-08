@@ -1,9 +1,13 @@
 ---
 slug: king-tuheitia-should-be-left-above-maori-party-politics
-title: "King Tuheitia Should Be Left Above Maori Party Politics"
-date: 2017-03-10
-source-url: https://www.scoop.co.nz/stories/PA1703/S00183/king-tuheitia-should-be-left-above-maori-party-politics.htm
+title: King Tuheitia Should Be Left Above Maori Party Politics
+date: 2017-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00183/king-tuheitia-should-be-left-above-maori-party-politics.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/10/king-tuheitia-should-be-left-above-maori-party-politics/index.html
+layout: layout.njk
 ---
 King Tuheitia Should Be Left Above Maori Party Politics
 =======================================================

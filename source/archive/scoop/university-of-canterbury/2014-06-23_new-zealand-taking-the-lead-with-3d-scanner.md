@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-taking-the-lead-with-3d-scanner
-title: "New Zealand taking the lead with 3D scanner"
-date: 2014-06-23
-source-url: https://www.scoop.co.nz/stories/SC1406/S00056/new-zealand-taking-the-lead-with-3d-scanner.htm
+title: New Zealand taking the lead with 3D scanner
+date: 2014-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1406/S00056/new-zealand-taking-the-lead-with-3d-scanner.htm
 author: university-of-canterbury
+permalink: /archive/2014/06/23/new-zealand-taking-the-lead-with-3d-scanner/index.html
+layout: layout.njk
 ---
 New Zealand taking the lead with 3D scanner
 ===========================================

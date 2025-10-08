@@ -1,9 +1,12 @@
 ---
 slug: tea-breaks-gone-by-lunch-time
-title: "Tea breaks gone by lunch time"
-date: 2014-10-22
-source-url: https://www.scoop.co.nz/stories/PA1410/S00130/tea-breaks-gone-by-lunch-time.htm
+title: Tea breaks gone by lunch time
+date: 2014-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1410/S00130/tea-breaks-gone-by-lunch-time.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/22/tea-breaks-gone-by-lunch-time/index.html
+layout: layout.njk
 ---
 Tea breaks gone by lunch time
 =============================

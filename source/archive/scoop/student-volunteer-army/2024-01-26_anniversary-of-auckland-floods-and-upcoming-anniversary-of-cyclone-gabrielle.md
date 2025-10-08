@@ -1,9 +1,13 @@
 ---
 slug: anniversary-of-auckland-floods-and-upcoming-anniversary-of-cyclone-gabrielle
-title: "Anniversary Of Auckland Floods And Upcoming Anniversary Of Cyclone Gabrielle"
-date: 2024-01-26
-source-url: https://www.scoop.co.nz/stories/AK2401/S00385/anniversary-of-auckland-floods-and-upcoming-anniversary-of-cyclone-gabrielle.htm
+title: Anniversary Of Auckland Floods And Upcoming Anniversary Of Cyclone Gabrielle
+date: 2024-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2401/S00385/anniversary-of-auckland-floods-and-upcoming-anniversary-of-cyclone-gabrielle.htm
 author: student-volunteer-army
+permalink: >-
+  /archive/2024/01/26/anniversary-of-auckland-floods-and-upcoming-anniversary-of-cyclone-gabrielle/index.html
+layout: layout.njk
 ---
 Anniversary Of Auckland Floods And Upcoming Anniversary Of Cyclone Gabrielle
 ============================================================================

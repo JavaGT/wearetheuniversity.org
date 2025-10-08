@@ -1,9 +1,13 @@
 ---
 slug: govt-blind-to-soaring-public-transport-use-in-auckland
-title: "Govt blind to soaring public transport use in Auckland"
-date: 2015-04-15
-source-url: https://www.scoop.co.nz/stories/PA1504/S00177/govt-blind-to-soaring-public-transport-use-in-auckland.htm
+title: Govt blind to soaring public transport use in Auckland
+date: 2015-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1504/S00177/govt-blind-to-soaring-public-transport-use-in-auckland.htm
 author: green-party
+permalink: >-
+  /archive/2015/04/15/govt-blind-to-soaring-public-transport-use-in-auckland/index.html
+layout: layout.njk
 ---
 Govt blind to soaring public transport use in Auckland
 ======================================================

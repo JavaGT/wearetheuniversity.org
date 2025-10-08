@@ -1,9 +1,12 @@
 ---
 slug: nz-involvement-in-$3b-science-project-strengthened
-title: "NZ involvement in $3b science project strengthened"
-date: 2011-09-22
-source-url: https://www.scoop.co.nz/stories/ED1109/S00100/nz-involvement-in-3b-science-project-strengthened.htm
+title: NZ involvement in $3b science project strengthened
+date: 2011-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1109/S00100/nz-involvement-in-3b-science-project-strengthened.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/09/22/nz-involvement-in-/index.html
+layout: layout.njk
 ---
 NZ involvement in $3b science project strengthened
 ==================================================

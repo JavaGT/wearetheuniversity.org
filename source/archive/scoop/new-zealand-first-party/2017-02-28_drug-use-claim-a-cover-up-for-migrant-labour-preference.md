@@ -1,9 +1,13 @@
 ---
 slug: drug-use-claim-a-cover-up-for-migrant-labour-preference
-title: "Drug Use Claim a Cover-up for Migrant Labour Preference"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/PA1702/S00403/drug-use-claim-a-cover-up-for-migrant-labour-preference.htm
+title: Drug Use Claim a Cover-up for Migrant Labour Preference
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00403/drug-use-claim-a-cover-up-for-migrant-labour-preference.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/28/drug-use-claim-a-cover-up-for-migrant-labour-preference/index.html
+layout: layout.njk
 ---
 Drug Use Claim a Cover-up for Migrant Labour Preference
 =======================================================

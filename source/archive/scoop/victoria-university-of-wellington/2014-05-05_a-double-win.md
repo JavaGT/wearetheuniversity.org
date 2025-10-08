@@ -1,9 +1,11 @@
 ---
 slug: a-double-win
-title: "A double win"
-date: 2014-05-05
+title: A double win
+date: 2014-05-05T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1405/S00020/a-double-win.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/05/05/a-double-win/index.html
+layout: layout.njk
 ---
 A double win
 ============

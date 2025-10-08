@@ -1,9 +1,12 @@
 ---
 slug: 15000-movers-and-shakers-cant-be-wrong
-title: "15,000 Movers And Shakers Can’t Be Wrong"
-date: 2004-08-09
-source-url: https://www.scoop.co.nz/stories/ED0408/S00029/15000-movers-and-shakers-cant-be-wrong.htm
+title: 15,000 Movers And Shakers Can’t Be Wrong
+date: 2004-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00029/15000-movers-and-shakers-cant-be-wrong.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/08/09/15000-movers-and-shakers-cant-be-wrong/index.html
+layout: layout.njk
 ---
 15,000 Movers And Shakers Can’t Be Wrong
 ========================================

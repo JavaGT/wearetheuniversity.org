@@ -1,9 +1,12 @@
 ---
 slug: income-threshold-adjustment-inconsistent
-title: "Income Threshold Adjustment Inconsistent"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/ED0112/S00024/income-threshold-adjustment-inconsistent.htm
+title: Income Threshold Adjustment Inconsistent
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0112/S00024/income-threshold-adjustment-inconsistent.htm
 author: otago-university-students-association
+permalink: /archive/2001/12/18/income-threshold-adjustment-inconsistent/index.html
+layout: layout.njk
 ---
 Income Threshold Adjustment Inconsistent
 ========================================

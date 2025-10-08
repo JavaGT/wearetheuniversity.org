@@ -1,9 +1,13 @@
 ---
 slug: left-to-their-own-devices-parenting-in-a-digital-world-free-uc-public-talk
-title: "Left To Their Own Devices: Parenting In A Digital World - Free UC Public Talk"
-date: 2021-07-16
-source-url: https://www.scoop.co.nz/stories/CU2107/S00101/left-to-their-own-devices-parenting-in-a-digital-world-free-uc-public-talk.htm
+title: 'Left To Their Own Devices: Parenting In A Digital World - Free UC Public Talk'
+date: 2021-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2107/S00101/left-to-their-own-devices-parenting-in-a-digital-world-free-uc-public-talk.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/07/16/left-to-their-own-devices-parenting-in-a-digital-world-free-uc-public-talk/index.html
+layout: layout.njk
 ---
 Left To Their Own Devices: Parenting In A Digital World - Free UC Public Talk
 =============================================================================

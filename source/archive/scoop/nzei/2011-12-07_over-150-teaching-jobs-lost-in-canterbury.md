@@ -1,9 +1,12 @@
 ---
 slug: over-150-teaching-jobs-lost-in-canterbury
-title: "Over 150 teaching jobs lost in Canterbury"
-date: 2011-12-07
-source-url: https://www.scoop.co.nz/stories/PO1112/S00073/over-150-teaching-jobs-lost-in-canterbury.htm
+title: Over 150 teaching jobs lost in Canterbury
+date: 2011-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1112/S00073/over-150-teaching-jobs-lost-in-canterbury.htm
 author: nzei
+permalink: /archive/2011/12/07/over-150-teaching-jobs-lost-in-canterbury/index.html
+layout: layout.njk
 ---
 Over 150 teaching jobs lost in Canterbury
 =========================================

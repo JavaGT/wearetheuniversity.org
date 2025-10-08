@@ -1,9 +1,12 @@
 ---
 slug: national-giving-up-on-rail-in-auckland
-title: "National giving up on rail in Auckland"
-date: 2016-06-27
-source-url: https://www.scoop.co.nz/stories/PA1606/S00435/national-giving-up-on-rail-in-auckland.htm
+title: National giving up on rail in Auckland
+date: 2016-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00435/national-giving-up-on-rail-in-auckland.htm
 author: green-party
+permalink: /archive/2016/06/27/national-giving-up-on-rail-in-auckland/index.html
+layout: layout.njk
 ---
 National giving up on rail in Auckland
 ======================================

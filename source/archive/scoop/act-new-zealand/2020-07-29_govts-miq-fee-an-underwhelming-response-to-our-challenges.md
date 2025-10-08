@@ -1,9 +1,13 @@
 ---
 slug: govts-miq-fee-an-underwhelming-response-to-our-challenges
-title: "Govt's MIQ Fee An Underwhelming Response To Our Challenges"
-date: 2020-07-29
-source-url: https://www.scoop.co.nz/stories/PA2007/S00294/govts-miq-fee-an-underwhelming-response-to-our-challenges.htm
+title: Govt's MIQ Fee An Underwhelming Response To Our Challenges
+date: 2020-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00294/govts-miq-fee-an-underwhelming-response-to-our-challenges.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/07/29/govts-miq-fee-an-underwhelming-response-to-our-challenges/index.html
+layout: layout.njk
 ---
 Govt's MIQ Fee An Underwhelming Response To Our Challenges
 ==========================================================

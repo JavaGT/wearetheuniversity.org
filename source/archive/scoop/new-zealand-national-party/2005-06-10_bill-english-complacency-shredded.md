@@ -1,9 +1,12 @@
 ---
 slug: bill-english-complacency-shredded
-title: "Bill English - Complacency Shredded"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/PA0506/S00233/bill-english-complacency-shredded.htm
+title: Bill English - Complacency Shredded
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00233/bill-english-complacency-shredded.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/10/bill-english-complacency-shredded/index.html
+layout: layout.njk
 ---
 Bill English - Complacency Shredded
 ===================================

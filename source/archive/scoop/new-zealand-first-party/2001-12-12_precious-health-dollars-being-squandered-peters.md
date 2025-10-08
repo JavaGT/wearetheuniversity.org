@@ -1,9 +1,12 @@
 ---
 slug: precious-health-dollars-being-squandered-peters
-title: "Precious Health Dollars Being Squandered-Peters"
-date: 2001-12-12
-source-url: https://www.scoop.co.nz/stories/PA0112/S00218/precious-health-dollars-being-squandered-peters.htm
+title: Precious Health Dollars Being Squandered-Peters
+date: 2001-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00218/precious-health-dollars-being-squandered-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2001/12/12/precious-health-dollars-being-squandered-peters/index.html
+layout: layout.njk
 ---
 Precious Health Dollars Being Squandered-Peters
 ===============================================

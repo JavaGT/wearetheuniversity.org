@@ -1,9 +1,12 @@
 ---
 slug: early-childhood-centre-boost-for-refugees
-title: "Early childhood centre boost for refugees"
-date: 2005-06-22
-source-url: https://www.scoop.co.nz/stories/ED0506/S00061/early-childhood-centre-boost-for-refugees.htm
+title: Early childhood centre boost for refugees
+date: 2005-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00061/early-childhood-centre-boost-for-refugees.htm
 author: aut-university
+permalink: /archive/2005/06/22/early-childhood-centre-boost-for-refugees/index.html
+layout: layout.njk
 ---
 Early childhood centre boost for refugees
 =========================================

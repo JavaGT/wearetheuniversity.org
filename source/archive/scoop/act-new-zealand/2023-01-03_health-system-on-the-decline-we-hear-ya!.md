@@ -1,9 +1,12 @@
 ---
 slug: health-system-on-the-decline-we-hear-ya!
-title: "Health System On The Decline? We Hear Ya!"
-date: 2023-01-03
-source-url: https://www.scoop.co.nz/stories/PA2301/S00003/health-system-on-the-decline-we-hear-ya.htm
+title: Health System On The Decline? We Hear Ya!
+date: 2023-01-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2301/S00003/health-system-on-the-decline-we-hear-ya.htm
 author: act-new-zealand
+permalink: /archive/2023/01/03/health-system-on-the-decline-we-hear-ya/index.html
+layout: layout.njk
 ---
 Health System On The Decline? We Hear Ya!
 =========================================

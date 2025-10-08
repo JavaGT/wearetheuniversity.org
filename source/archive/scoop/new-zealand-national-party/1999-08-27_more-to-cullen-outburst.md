@@ -1,9 +1,11 @@
 ---
 slug: more-to-cullen-outburst
-title: "More To Cullen Outburst"
-date: 1999-08-27
+title: More To Cullen Outburst
+date: 1999-08-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA9908/S00479/more-to-cullen-outburst.htm
 author: new-zealand-national-party
+permalink: /archive/1999/08/27/more-to-cullen-outburst/index.html
+layout: layout.njk
 ---
 More To Cullen Outburst
 =======================

@@ -1,9 +1,12 @@
 ---
 slug: budget-offers-help-for-today-but-not-for-future
-title: "Budget offers help for today, but not for future"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/PA0405/S00619/budget-offers-help-for-today-but-not-for-future.htm
+title: Budget offers help for today, but not for future
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00619/budget-offers-help-for-today-but-not-for-future.htm
 author: green-party
+permalink: /archive/2004/05/27/budget-offers-help-for-today-but-not-for-future/index.html
+layout: layout.njk
 ---
 Budget offers help for today, but not for future
 ================================================

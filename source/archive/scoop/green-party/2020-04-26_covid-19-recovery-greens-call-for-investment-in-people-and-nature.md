@@ -1,9 +1,13 @@
 ---
 slug: covid-19-recovery-greens-call-for-investment-in-people-and-nature
-title: "COVID-19 Recovery: Greens Call For Investment In People And Nature"
-date: 2020-04-26
-source-url: https://www.scoop.co.nz/stories/PO2004/S00253/covid-19-recovery-greens-call-for-investment-in-people-and-nature.htm
+title: 'COVID-19 Recovery: Greens Call For Investment In People And Nature'
+date: 2020-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00253/covid-19-recovery-greens-call-for-investment-in-people-and-nature.htm
 author: green-party
+permalink: >-
+  /archive/2020/04/26/covid-19-recovery-greens-call-for-investment-in-people-and-nature/index.html
+layout: layout.njk
 ---
 COVID-19 Recovery: Greens Call For Investment In People And Nature
 ==================================================================

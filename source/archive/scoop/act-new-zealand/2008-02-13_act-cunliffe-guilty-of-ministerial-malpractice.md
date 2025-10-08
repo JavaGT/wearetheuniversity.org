@@ -1,9 +1,12 @@
 ---
 slug: act-cunliffe-guilty-of-ministerial-malpractice
-title: "[ACT] Cunliffe Guilty Of Ministerial Malpractice"
-date: 2008-02-13
-source-url: https://www.scoop.co.nz/stories/PA0802/S00187/act-cunliffe-guilty-of-ministerial-malpractice.htm
+title: '[ACT] Cunliffe Guilty Of Ministerial Malpractice'
+date: 2008-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00187/act-cunliffe-guilty-of-ministerial-malpractice.htm
 author: act-new-zealand
+permalink: /archive/2008/02/13/act-cunliffe-guilty-of-ministerial-malpractice/index.html
+layout: layout.njk
 ---
 \[ACT\] Cunliffe Guilty Of Ministerial Malpractice
 ==================================================

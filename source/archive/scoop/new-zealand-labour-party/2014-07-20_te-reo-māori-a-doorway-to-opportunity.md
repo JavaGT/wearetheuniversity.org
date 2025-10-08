@@ -1,9 +1,12 @@
 ---
 slug: te-reo-māori-a-doorway-to-opportunity
-title: "Te Reo Māori a doorway to opportunity"
-date: 2014-07-20
-source-url: https://www.scoop.co.nz/stories/PA1407/S00359/te-reo-maori-a-doorway-to-opportunity.htm
+title: Te Reo Māori a doorway to opportunity
+date: 2014-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00359/te-reo-maori-a-doorway-to-opportunity.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/07/20/te-reo-m/index.html
+layout: layout.njk
 ---
 Te Reo Māori a doorway to opportunity
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: jibber-jabber-cant-hide-the-facts
-title: "Jibber jabber can’t hide the facts"
-date: 2013-08-13
-source-url: https://www.scoop.co.nz/stories/PA1308/S00210/jibber-jabber-cant-hide-the-facts.htm
+title: Jibber jabber can’t hide the facts
+date: 2013-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00210/jibber-jabber-cant-hide-the-facts.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/13/jibber-jabber-cant-hide-the-facts/index.html
+layout: layout.njk
 ---
 Jibber jabber can’t hide the facts
 ==================================

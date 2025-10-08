@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-repeal-of-seditious-offences-bill
-title: "Tariana Turia: Repeal of Seditious offences Bill"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/PA0710/S00454/tariana-turia-repeal-of-seditious-offences-bill.htm
+title: 'Tariana Turia: Repeal of Seditious offences Bill'
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00454/tariana-turia-repeal-of-seditious-offences-bill.htm
 author: te-pati-maori
+permalink: /archive/2007/10/25/tariana-turia-repeal-of-seditious-offences-bill/index.html
+layout: layout.njk
 ---
 Tariana Turia: Repeal of Seditious offences Bill
 ================================================

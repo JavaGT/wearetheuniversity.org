@@ -1,9 +1,13 @@
 ---
 slug: twenty-talented-students-named-as-inaugural-uc-arts-scholars
-title: "Twenty talented students named as inaugural UC Arts Scholars"
-date: 2012-03-21
-source-url: https://www.scoop.co.nz/stories/ED1203/S00098/twenty-talented-students-named-as-inaugural-uc-arts-scholars.htm
+title: Twenty talented students named as inaugural UC Arts Scholars
+date: 2012-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00098/twenty-talented-students-named-as-inaugural-uc-arts-scholars.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/03/21/twenty-talented-students-named-as-inaugural-uc-arts-scholars/index.html
+layout: layout.njk
 ---
 Twenty talented students named as inaugural UC Arts Scholars
 ============================================================

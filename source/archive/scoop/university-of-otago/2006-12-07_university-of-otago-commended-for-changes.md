@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-commended-for-changes
-title: "University of Otago commended for changes"
-date: 2006-12-07
-source-url: https://www.scoop.co.nz/stories/ED0612/S00021/university-of-otago-commended-for-changes.htm
+title: University of Otago commended for changes
+date: 2006-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00021/university-of-otago-commended-for-changes.htm
 author: university-of-otago
+permalink: /archive/2006/12/07/university-of-otago-commended-for-changes/index.html
+layout: layout.njk
 ---
 University of Otago commended for changes
 =========================================

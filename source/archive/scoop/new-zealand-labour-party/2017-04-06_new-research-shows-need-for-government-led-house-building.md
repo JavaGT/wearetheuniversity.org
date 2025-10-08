@@ -1,9 +1,13 @@
 ---
 slug: new-research-shows-need-for-government-led-house-building
-title: "New research shows need for government-led house building"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/PA1704/S00063/new-research-shows-need-for-government-led-house-building.htm
+title: New research shows need for government-led house building
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00063/new-research-shows-need-for-government-led-house-building.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/04/06/new-research-shows-need-for-government-led-house-building/index.html
+layout: layout.njk
 ---
 New research shows need for government-led house building
 =========================================================

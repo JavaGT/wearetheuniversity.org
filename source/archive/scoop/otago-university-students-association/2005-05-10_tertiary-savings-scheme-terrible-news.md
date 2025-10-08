@@ -1,9 +1,12 @@
 ---
 slug: tertiary-savings-scheme-terrible-news
-title: "Tertiary Savings Scheme Terrible News"
-date: 2005-05-10
-source-url: https://www.scoop.co.nz/stories/ED0505/S00039/tertiary-savings-scheme-terrible-news.htm
+title: Tertiary Savings Scheme Terrible News
+date: 2005-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00039/tertiary-savings-scheme-terrible-news.htm
 author: otago-university-students-association
+permalink: /archive/2005/05/10/tertiary-savings-scheme-terrible-news/index.html
+layout: layout.njk
 ---
 Tertiary Savings Scheme Terrible News
 =====================================

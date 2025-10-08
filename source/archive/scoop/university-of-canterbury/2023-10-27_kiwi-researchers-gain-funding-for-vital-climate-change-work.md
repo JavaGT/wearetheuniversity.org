@@ -1,9 +1,13 @@
 ---
 slug: kiwi-researchers-gain-funding-for-vital-climate-change-work
-title: "Kiwi Researchers Gain Funding For Vital Climate Change Work"
-date: 2023-10-27
-source-url: https://www.scoop.co.nz/stories/ED2310/S00034/kiwi-researchers-gain-funding-for-vital-climate-change-work.htm
+title: Kiwi Researchers Gain Funding For Vital Climate Change Work
+date: 2023-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00034/kiwi-researchers-gain-funding-for-vital-climate-change-work.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/10/27/kiwi-researchers-gain-funding-for-vital-climate-change-work/index.html
+layout: layout.njk
 ---
 Kiwi Researchers Gain Funding For Vital Climate Change Work
 ===========================================================

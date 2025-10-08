@@ -1,9 +1,13 @@
 ---
 slug: fellow-plans-study-to-benefit-northland-ecosystems
-title: "Fellow plans study to benefit Northland ecosystems"
-date: 2003-12-11
-source-url: https://www.scoop.co.nz/stories/ED0312/S00048/fellow-plans-study-to-benefit-northland-ecosystems.htm
+title: Fellow plans study to benefit Northland ecosystems
+date: 2003-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0312/S00048/fellow-plans-study-to-benefit-northland-ecosystems.htm
 author: aut-university
+permalink: >-
+  /archive/2003/12/11/fellow-plans-study-to-benefit-northland-ecosystems/index.html
+layout: layout.njk
 ---
 Fellow plans study to benefit Northland ecosystems
 ==================================================

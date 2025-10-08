@@ -1,9 +1,12 @@
 ---
 slug: minister-shows-shes-out-of-touch-on-class-sizes
-title: "Minister Shows She’s Out of Touch on Class Sizes"
-date: 2016-06-28
-source-url: https://www.scoop.co.nz/stories/PA1606/S00464/minister-shows-shes-out-of-touch-on-class-sizes.htm
+title: Minister Shows She’s Out of Touch on Class Sizes
+date: 2016-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00464/minister-shows-shes-out-of-touch-on-class-sizes.htm
 author: new-zealand-first-party
+permalink: /archive/2016/06/28/minister-shows-shes-out-of-touch-on-class-sizes/index.html
+layout: layout.njk
 ---
 Minister Shows She’s Out of Touch on Class Sizes
 ================================================

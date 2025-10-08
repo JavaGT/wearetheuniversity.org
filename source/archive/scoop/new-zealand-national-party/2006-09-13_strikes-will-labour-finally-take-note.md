@@ -1,9 +1,12 @@
 ---
 slug: strikes-will-labour-finally-take-note
-title: "Strikes: Will Labour finally take note?"
-date: 2006-09-13
-source-url: https://www.scoop.co.nz/stories/PA0609/S00289/strikes-will-labour-finally-take-note.htm
+title: 'Strikes: Will Labour finally take note?'
+date: 2006-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00289/strikes-will-labour-finally-take-note.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/13/strikes-will-labour-finally-take-note/index.html
+layout: layout.njk
 ---
 Strikes: Will Labour finally take note?
 =======================================

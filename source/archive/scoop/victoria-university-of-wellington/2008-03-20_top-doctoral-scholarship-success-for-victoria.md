@@ -1,9 +1,12 @@
 ---
 slug: top-doctoral-scholarship-success-for-victoria
-title: "Top Doctoral Scholarship success for Victoria"
-date: 2008-03-20
-source-url: https://www.scoop.co.nz/stories/ED0803/S00055/top-doctoral-scholarship-success-for-victoria.htm
+title: Top Doctoral Scholarship success for Victoria
+date: 2008-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00055/top-doctoral-scholarship-success-for-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/20/top-doctoral-scholarship-success-for-victoria/index.html
+layout: layout.njk
 ---
 Top Doctoral Scholarship success for Victoria
 =============================================

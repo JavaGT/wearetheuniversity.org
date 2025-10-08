@@ -1,9 +1,12 @@
 ---
 slug: kings-big-pharmaceutical-u-turn
-title: "King's Big Pharmaceutical U-Turn"
-date: 2003-09-04
-source-url: https://www.scoop.co.nz/stories/PA0309/S00093/kings-big-pharmaceutical-u-turn.htm
+title: King's Big Pharmaceutical U-Turn
+date: 2003-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0309/S00093/kings-big-pharmaceutical-u-turn.htm
 author: act-new-zealand
+permalink: /archive/2003/09/04/kings-big-pharmaceutical-u-turn/index.html
+layout: layout.njk
 ---
 King's Big Pharmaceutical U-Turn
 ================================

@@ -1,9 +1,11 @@
 ---
 slug: time-to-clamp-down-labour
-title: "Time To Clamp Down, Labour"
-date: 2003-08-14
+title: Time To Clamp Down, Labour
+date: 2003-08-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0308/S00287/time-to-clamp-down-labour.htm
 author: act-new-zealand
+permalink: /archive/2003/08/14/time-to-clamp-down-labour/index.html
+layout: layout.njk
 ---
 Time To Clamp Down, Labour
 ==========================

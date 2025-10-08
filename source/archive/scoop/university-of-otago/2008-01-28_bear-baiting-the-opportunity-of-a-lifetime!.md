@@ -1,9 +1,12 @@
 ---
 slug: bear-baiting-the-opportunity-of-a-lifetime!
-title: "Bear Baiting: The opportunity of a lifetime!"
-date: 2008-01-28
-source-url: https://www.scoop.co.nz/stories/BU0801/S00261/bear-baiting-the-opportunity-of-a-lifetime.htm
+title: 'Bear Baiting: The opportunity of a lifetime!'
+date: 2008-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0801/S00261/bear-baiting-the-opportunity-of-a-lifetime.htm
 author: university-of-otago
+permalink: /archive/2008/01/28/bear-baiting-the-opportunity-of-a-lifetime/index.html
+layout: layout.njk
 ---
 Bear Baiting: The opportunity of a lifetime!
 ============================================

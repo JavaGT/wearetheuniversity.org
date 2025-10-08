@@ -1,9 +1,12 @@
 ---
 slug: hungry-kids-need-food-in-schools
-title: "Hungry kids need food in schools"
-date: 2013-11-12
-source-url: https://www.scoop.co.nz/stories/ED1311/S00089/hungry-kids-need-food-in-schools.htm
+title: Hungry kids need food in schools
+date: 2013-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00089/hungry-kids-need-food-in-schools.htm
 author: nzei
+permalink: /archive/2013/11/12/hungry-kids-need-food-in-schools/index.html
+layout: layout.njk
 ---
 Hungry kids need food in schools
 ================================

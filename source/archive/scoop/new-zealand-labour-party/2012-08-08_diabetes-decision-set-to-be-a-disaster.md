@@ -1,9 +1,12 @@
 ---
 slug: diabetes-decision-set-to-be-a-disaster
-title: "Diabetes Decision Set To Be A Disaster"
-date: 2012-08-08
-source-url: https://www.scoop.co.nz/stories/PA1208/S00113/diabetes-decision-set-to-be-a-disaster.htm
+title: Diabetes Decision Set To Be A Disaster
+date: 2012-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00113/diabetes-decision-set-to-be-a-disaster.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/08/08/diabetes-decision-set-to-be-a-disaster/index.html
+layout: layout.njk
 ---
 Diabetes Decision Set To Be A Disaster
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: agreement-with-indonesia-opens-doors
-title: "Agreement with Indonesia opens doors"
-date: 2014-06-03
-source-url: https://www.scoop.co.nz/stories/ED1406/S00015/agreement-with-indonesia-opens-doors.htm
+title: Agreement with Indonesia opens doors
+date: 2014-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00015/agreement-with-indonesia-opens-doors.htm
 author: university-of-waikato
+permalink: /archive/2014/06/03/agreement-with-indonesia-opens-doors/index.html
+layout: layout.njk
 ---
 Agreement with Indonesia opens doors
 ====================================

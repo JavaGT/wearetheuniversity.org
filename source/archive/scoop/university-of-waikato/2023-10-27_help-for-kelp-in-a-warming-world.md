@@ -1,9 +1,12 @@
 ---
 slug: help-for-kelp-in-a-warming-world
-title: "Help For Kelp In A Warming World"
-date: 2023-10-27
-source-url: https://www.scoop.co.nz/stories/SC2310/S00049/help-for-kelp-in-a-warming-world.htm
+title: Help For Kelp In A Warming World
+date: 2023-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2310/S00049/help-for-kelp-in-a-warming-world.htm
 author: university-of-waikato
+permalink: /archive/2023/10/27/help-for-kelp-in-a-warming-world/index.html
+layout: layout.njk
 ---
 Help For Kelp In A Warming World
 ================================

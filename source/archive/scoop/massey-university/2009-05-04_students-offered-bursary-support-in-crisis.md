@@ -1,9 +1,12 @@
 ---
 slug: students-offered-bursary-support-in-crisis
-title: "Students offered bursary support in crisis"
-date: 2009-05-04
-source-url: https://www.scoop.co.nz/stories/ED0905/S00017/students-offered-bursary-support-in-crisis.htm
+title: Students offered bursary support in crisis
+date: 2009-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00017/students-offered-bursary-support-in-crisis.htm
 author: massey-university
+permalink: /archive/2009/05/04/students-offered-bursary-support-in-crisis/index.html
+layout: layout.njk
 ---
 Students offered bursary support in crisis
 ==========================================

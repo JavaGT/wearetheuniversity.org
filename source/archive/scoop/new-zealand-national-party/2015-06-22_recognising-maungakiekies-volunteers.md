@@ -1,9 +1,12 @@
 ---
 slug: recognising-maungakiekies-volunteers
-title: "Recognising Maungakiekie’s volunteers"
-date: 2015-06-22
-source-url: https://www.scoop.co.nz/stories/PA1506/S00379/recognising-maungakiekies-volunteers.htm
+title: Recognising Maungakiekie’s volunteers
+date: 2015-06-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00379/recognising-maungakiekies-volunteers.htm
 author: new-zealand-national-party
+permalink: /archive/2015/06/22/recognising-maungakiekies-volunteers/index.html
+layout: layout.njk
 ---
 Recognising Maungakiekie’s volunteers
 =====================================

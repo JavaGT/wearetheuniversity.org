@@ -1,9 +1,12 @@
 ---
 slug: university-opens-doors-in-open-christchurch
-title: "University Opens Doors In Open Christchurch"
-date: 2024-04-23
-source-url: https://www.scoop.co.nz/stories/CU2404/S00236/university-opens-doors-in-open-christchurch.htm
+title: University Opens Doors In Open Christchurch
+date: 2024-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2404/S00236/university-opens-doors-in-open-christchurch.htm
 author: university-of-canterbury
+permalink: /archive/2024/04/23/university-opens-doors-in-open-christchurch/index.html
+layout: layout.njk
 ---
 University Opens Doors In Open Christchurch
 ===========================================

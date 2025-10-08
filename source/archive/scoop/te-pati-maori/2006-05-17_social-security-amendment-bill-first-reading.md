@@ -1,9 +1,12 @@
 ---
 slug: social-security-amendment-bill-first-reading
-title: "Social Security Amendment Bill - First Reading"
-date: 2006-05-17
-source-url: https://www.scoop.co.nz/stories/PA0605/S00362/social-security-amendment-bill-first-reading.htm
+title: Social Security Amendment Bill - First Reading
+date: 2006-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00362/social-security-amendment-bill-first-reading.htm
 author: te-pati-maori
+permalink: /archive/2006/05/17/social-security-amendment-bill-first-reading/index.html
+layout: layout.njk
 ---
 Social Security Amendment Bill - First Reading
 ==============================================

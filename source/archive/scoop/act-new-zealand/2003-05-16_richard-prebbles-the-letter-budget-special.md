@@ -1,9 +1,12 @@
 ---
 slug: richard-prebbles-the-letter-budget-special
-title: "Richard Prebble’s The Letter Budget Special"
-date: 2003-05-16
-source-url: https://www.scoop.co.nz/stories/PA0305/S00444/richard-prebbles-the-letter-budget-special.htm
+title: Richard Prebble’s The Letter Budget Special
+date: 2003-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00444/richard-prebbles-the-letter-budget-special.htm
 author: act-new-zealand
+permalink: /archive/2003/05/16/richard-prebbles-the-letter-budget-special/index.html
+layout: layout.njk
 ---
 Richard Prebble’s The Letter Budget Special
 ===========================================

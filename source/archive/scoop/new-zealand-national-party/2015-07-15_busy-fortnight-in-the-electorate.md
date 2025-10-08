@@ -1,9 +1,12 @@
 ---
 slug: busy-fortnight-in-the-electorate
-title: "Busy Fortnight in the Electorate"
-date: 2015-07-15
-source-url: https://www.scoop.co.nz/stories/PA1507/S00252/busy-fortnight-in-the-electorate.htm
+title: Busy Fortnight in the Electorate
+date: 2015-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00252/busy-fortnight-in-the-electorate.htm
 author: new-zealand-national-party
+permalink: /archive/2015/07/15/busy-fortnight-in-the-electorate/index.html
+layout: layout.njk
 ---
 Busy Fortnight in the Electorate
 ================================

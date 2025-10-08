@@ -1,9 +1,12 @@
 ---
 slug: being-maori-does-not-mean-being-second-class
-title: "Being Maori does not mean being Second Class"
-date: 2005-09-13
-source-url: https://www.scoop.co.nz/stories/PA0509/S00350/being-maori-does-not-mean-being-second-class.htm
+title: Being Maori does not mean being Second Class
+date: 2005-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00350/being-maori-does-not-mean-being-second-class.htm
 author: te-pati-maori
+permalink: /archive/2005/09/13/being-maori-does-not-mean-being-second-class/index.html
+layout: layout.njk
 ---
 Being Maori does not mean being Second Class
 ============================================

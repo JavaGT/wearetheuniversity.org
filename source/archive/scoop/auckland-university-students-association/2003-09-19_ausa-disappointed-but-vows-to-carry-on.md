@@ -1,9 +1,12 @@
 ---
 slug: ausa-disappointed-but-vows-to-carry-on
-title: "AUSA disappointed but vows to carry on"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/ED0309/S00083/ausa-disappointed-but-vows-to-carry-on.htm
+title: AUSA disappointed but vows to carry on
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00083/ausa-disappointed-but-vows-to-carry-on.htm
 author: auckland-university-students-association
+permalink: /archive/2003/09/19/ausa-disappointed-but-vows-to-carry-on/index.html
+layout: layout.njk
 ---
 AUSA disappointed but vows to carry on
 ======================================

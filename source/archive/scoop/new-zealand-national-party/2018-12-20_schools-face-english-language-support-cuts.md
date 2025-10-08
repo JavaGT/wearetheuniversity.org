@@ -1,9 +1,12 @@
 ---
 slug: schools-face-english-language-support-cuts
-title: "Schools face English language support cuts"
-date: 2018-12-20
-source-url: https://www.scoop.co.nz/stories/PA1812/S00264/schools-face-english-language-support-cuts.htm
+title: Schools face English language support cuts
+date: 2018-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00264/schools-face-english-language-support-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2018/12/20/schools-face-english-language-support-cuts/index.html
+layout: layout.njk
 ---
 Schools face English language support cuts
 ==========================================

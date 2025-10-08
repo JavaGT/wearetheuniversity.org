@@ -1,9 +1,13 @@
 ---
 slug: failing-to-address-cheap-alcohol-wont-curb-excess
-title: "Failing to address cheap alcohol won't curb excess"
-date: 2010-08-24
-source-url: https://www.scoop.co.nz/stories/PA1008/S00358/failing-to-address-cheap-alcohol-wont-curb-excess.htm
+title: Failing to address cheap alcohol won't curb excess
+date: 2010-08-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00358/failing-to-address-cheap-alcohol-wont-curb-excess.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/08/24/failing-to-address-cheap-alcohol-wont-curb-excess/index.html
+layout: layout.njk
 ---
 Failing to address cheap alcohol won't curb excess
 ==================================================

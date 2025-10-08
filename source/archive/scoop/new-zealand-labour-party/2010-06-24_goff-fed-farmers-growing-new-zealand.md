@@ -1,9 +1,12 @@
 ---
 slug: goff-fed-farmers-growing-new-zealand
-title: "Goff: Fed Farmers -  Growing New Zealand"
-date: 2010-06-24
-source-url: https://www.scoop.co.nz/stories/PA1006/S00406/goff-fed-farmers-growing-new-zealand.htm
+title: 'Goff: Fed Farmers -  Growing New Zealand'
+date: 2010-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1006/S00406/goff-fed-farmers-growing-new-zealand.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/06/24/goff-fed-farmers-growing-new-zealand/index.html
+layout: layout.njk
 ---
 Goff: Fed Farmers - Growing New Zealand
 =======================================

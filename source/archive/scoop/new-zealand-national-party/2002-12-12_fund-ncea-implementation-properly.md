@@ -1,9 +1,12 @@
 ---
 slug: fund-ncea-implementation-properly
-title: "Fund NCEA implementation properly"
-date: 2002-12-12
-source-url: https://www.scoop.co.nz/stories/PA0212/S00306/fund-ncea-implementation-properly.htm
+title: Fund NCEA implementation properly
+date: 2002-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00306/fund-ncea-implementation-properly.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/12/fund-ncea-implementation-properly/index.html
+layout: layout.njk
 ---
 Fund NCEA implementation properly
 =================================

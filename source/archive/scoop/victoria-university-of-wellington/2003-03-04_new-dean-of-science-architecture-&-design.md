@@ -1,9 +1,12 @@
 ---
 slug: new-dean-of-science-architecture-&-design
-title: "New Dean of Science, Architecture & Design"
-date: 2003-03-04
-source-url: https://www.scoop.co.nz/stories/ED0303/S00007/new-dean-of-science-architecture-design.htm
+title: New Dean of Science, Architecture & Design
+date: 2003-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00007/new-dean-of-science-architecture-design.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/03/04/new-dean-of-science-architecture-/index.html
+layout: layout.njk
 ---
 New Dean of Science, Architecture & Design
 ==========================================

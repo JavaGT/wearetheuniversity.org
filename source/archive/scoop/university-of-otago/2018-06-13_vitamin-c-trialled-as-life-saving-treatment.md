@@ -1,9 +1,12 @@
 ---
 slug: vitamin-c-trialled-as-life-saving-treatment
-title: "Vitamin C trialled as life-saving treatment"
-date: 2018-06-13
-source-url: https://www.scoop.co.nz/stories/SC1806/S00030/vitamin-c-trialled-as-life-saving-treatment.htm
+title: Vitamin C trialled as life-saving treatment
+date: 2018-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1806/S00030/vitamin-c-trialled-as-life-saving-treatment.htm
 author: university-of-otago
+permalink: /archive/2018/06/13/vitamin-c-trialled-as-life-saving-treatment/index.html
+layout: layout.njk
 ---
 Vitamin C trialled as life-saving treatment
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: 2004-brings-gains-for-workers
-title: "2004 Brings Gains for Workers"
-date: 2004-12-22
-source-url: https://www.scoop.co.nz/stories/PO0412/S00248/2004-brings-gains-for-workers.htm
+title: 2004 Brings Gains for Workers
+date: 2004-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0412/S00248/2004-brings-gains-for-workers.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2004/12/22/2004-brings-gains-for-workers/index.html
+layout: layout.njk
 ---
 2004 Brings Gains for Workers
 =============================

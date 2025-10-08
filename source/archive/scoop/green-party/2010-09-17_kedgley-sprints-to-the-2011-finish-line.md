@@ -1,9 +1,12 @@
 ---
 slug: kedgley-sprints-to-the-2011-finish-line
-title: "Kedgley sprints to the 2011 finish line"
-date: 2010-09-17
-source-url: https://www.scoop.co.nz/stories/PA1009/S00260/kedgley-sprints-to-the-2011-finish-line.htm
+title: Kedgley sprints to the 2011 finish line
+date: 2010-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00260/kedgley-sprints-to-the-2011-finish-line.htm
 author: green-party
+permalink: /archive/2010/09/17/kedgley-sprints-to-the-2011-finish-line/index.html
+layout: layout.njk
 ---
 Kedgley sprints to the 2011 finish line
 =======================================

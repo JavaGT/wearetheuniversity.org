@@ -1,9 +1,11 @@
 ---
 slug: graduation-a-family-affair
-title: "Graduation a family affair"
-date: 2004-12-15
+title: Graduation a family affair
+date: 2004-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0412/S00053/graduation-a-family-affair.htm
 author: university-of-canterbury
+permalink: /archive/2004/12/15/graduation-a-family-affair/index.html
+layout: layout.njk
 ---
 Graduation a family affair
 ==========================

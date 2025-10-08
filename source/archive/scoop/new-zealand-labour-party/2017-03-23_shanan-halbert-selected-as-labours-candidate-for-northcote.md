@@ -1,9 +1,13 @@
 ---
 slug: shanan-halbert-selected-as-labours-candidate-for-northcote
-title: "Shanan Halbert selected as Labour’s candidate for Northcote"
-date: 2017-03-23
-source-url: https://www.scoop.co.nz/stories/PO1703/S00279/shanan-halbert-selected-as-labours-candidate-for-northcote.htm
+title: Shanan Halbert selected as Labour’s candidate for Northcote
+date: 2017-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1703/S00279/shanan-halbert-selected-as-labours-candidate-for-northcote.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/03/23/shanan-halbert-selected-as-labours-candidate-for-northcote/index.html
+layout: layout.njk
 ---
 Shanan Halbert selected as Labour’s candidate for Northcote
 ===========================================================

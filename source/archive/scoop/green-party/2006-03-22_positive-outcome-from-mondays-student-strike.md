@@ -1,9 +1,12 @@
 ---
 slug: positive-outcome-from-mondays-student-strike
-title: "Positive outcome from Monday's student 'strike'"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/PA0603/S00379/positive-outcome-from-mondays-student-strike.htm
+title: Positive outcome from Monday's student 'strike'
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00379/positive-outcome-from-mondays-student-strike.htm
 author: green-party
+permalink: /archive/2006/03/22/positive-outcome-from-mondays-student-strike/index.html
+layout: layout.njk
 ---
 Positive outcome from Monday's student 'strike'
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: freedom-from-the-desk-victoria-goes-wireless
-title: "Freedom from the desk – Victoria goes wireless"
-date: 2006-04-24
-source-url: https://www.scoop.co.nz/stories/ED0604/S00078/freedom-from-the-desk-victoria-goes-wireless.htm
+title: Freedom from the desk – Victoria goes wireless
+date: 2006-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00078/freedom-from-the-desk-victoria-goes-wireless.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/04/24/freedom-from-the-desk-victoria-goes-wireless/index.html
+layout: layout.njk
 ---
 Freedom from the desk – Victoria goes wireless
 ==============================================

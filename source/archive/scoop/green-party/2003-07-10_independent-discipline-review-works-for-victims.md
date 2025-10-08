@@ -1,9 +1,12 @@
 ---
 slug: independent-discipline-review-works-for-victims
-title: "Independent discipline review works for victims"
-date: 2003-07-10
-source-url: https://www.scoop.co.nz/stories/PA0307/S00198/independent-discipline-review-works-for-victims.htm
+title: Independent discipline review works for victims
+date: 2003-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00198/independent-discipline-review-works-for-victims.htm
 author: green-party
+permalink: /archive/2003/07/10/independent-discipline-review-works-for-victims/index.html
+layout: layout.njk
 ---
 Independent discipline review works for victims
 ===============================================

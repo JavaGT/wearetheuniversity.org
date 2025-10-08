@@ -1,9 +1,12 @@
 ---
 slug: massey-university-electronic-newsletter
-title: "Massey University Electronic Newsletter"
-date: 2003-06-03
-source-url: https://www.scoop.co.nz/stories/ED0306/S00002/massey-university-electronic-newsletter.htm
+title: Massey University Electronic Newsletter
+date: 2003-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00002/massey-university-electronic-newsletter.htm
 author: massey-university
+permalink: /archive/2003/06/03/massey-university-electronic-newsletter/index.html
+layout: layout.njk
 ---
 Massey University Electronic Newsletter
 =======================================

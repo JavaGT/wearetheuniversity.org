@@ -1,9 +1,12 @@
 ---
 slug: sustainability-focus-for-indonesian-expedition
-title: "Sustainability focus for Indonesian expedition"
-date: 2015-03-30
-source-url: https://www.scoop.co.nz/stories/ED1503/S00131/sustainability-focus-for-indonesian-expedition.htm
+title: Sustainability focus for Indonesian expedition
+date: 2015-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00131/sustainability-focus-for-indonesian-expedition.htm
 author: university-of-waikato
+permalink: /archive/2015/03/30/sustainability-focus-for-indonesian-expedition/index.html
+layout: layout.njk
 ---
 Sustainability focus for Indonesian expedition
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: john-key-fails-new-zealand-with-no-fix-for-housing-crisis
-title: "John Key fails New Zealand with no fix for housing crisis"
-date: 2016-05-26
-source-url: https://www.scoop.co.nz/stories/PA1605/S00556/john-key-fails-new-zealand-with-no-fix-for-housing-crisis.htm
+title: John Key fails New Zealand with no fix for housing crisis
+date: 2016-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00556/john-key-fails-new-zealand-with-no-fix-for-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/05/26/john-key-fails-new-zealand-with-no-fix-for-housing-crisis/index.html
+layout: layout.njk
 ---
 John Key fails New Zealand with no fix for housing crisis
 =========================================================

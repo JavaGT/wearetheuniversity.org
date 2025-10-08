@@ -1,9 +1,12 @@
 ---
 slug: theatre-programme-celebrates-40-years
-title: "Theatre Programme celebrates 40 years"
-date: 2010-09-28
-source-url: https://www.scoop.co.nz/stories/CU1009/S00309/theatre-programme-celebrates-40-years.htm
+title: Theatre Programme celebrates 40 years
+date: 2010-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1009/S00309/theatre-programme-celebrates-40-years.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/09/28/theatre-programme-celebrates-40-years/index.html
+layout: layout.njk
 ---
 Theatre Programme celebrates 40 years
 =====================================

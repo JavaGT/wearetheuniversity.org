@@ -1,9 +1,12 @@
 ---
 slug: $10k-scholarship-for-educational-achievement
-title: "$10k scholarship for educational achievement"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/ED1506/S00098/10k-scholarship-for-educational-achievement.htm
+title: $10k scholarship for educational achievement
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00098/10k-scholarship-for-educational-achievement.htm
 author: university-of-waikato
+permalink: /archive/2015/06/19/10k-scholarship-for-educational-achievement/index.html
+layout: layout.njk
 ---
 $10k scholarship for educational achievement
 ============================================

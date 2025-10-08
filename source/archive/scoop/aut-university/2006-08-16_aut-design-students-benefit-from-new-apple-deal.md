@@ -1,9 +1,12 @@
 ---
 slug: aut-design-students-benefit-from-new-apple-deal
-title: "AUT design students benefit from new Apple deal"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/ED0608/S00057/aut-design-students-benefit-from-new-apple-deal.htm
+title: AUT design students benefit from new Apple deal
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00057/aut-design-students-benefit-from-new-apple-deal.htm
 author: aut-university
+permalink: /archive/2006/08/16/aut-design-students-benefit-from-new-apple-deal/index.html
+layout: layout.njk
 ---
 AUT design students benefit from new Apple deal
 ===============================================

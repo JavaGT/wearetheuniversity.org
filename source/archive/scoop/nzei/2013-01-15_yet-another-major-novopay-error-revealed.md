@@ -1,9 +1,12 @@
 ---
 slug: yet-another-major-novopay-error-revealed
-title: "Yet another major Novopay error revealed"
-date: 2013-01-15
-source-url: https://www.scoop.co.nz/stories/ED1301/S00024/yet-another-major-novopay-error-revealed.htm
+title: Yet another major Novopay error revealed
+date: 2013-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00024/yet-another-major-novopay-error-revealed.htm
 author: nzei
+permalink: /archive/2013/01/15/yet-another-major-novopay-error-revealed/index.html
+layout: layout.njk
 ---
 Yet another major Novopay error revealed
 ========================================

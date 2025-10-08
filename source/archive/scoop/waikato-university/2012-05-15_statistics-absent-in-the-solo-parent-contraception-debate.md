@@ -1,9 +1,13 @@
 ---
 slug: statistics-absent-in-the-solo-parent-contraception-debate
-title: "Statistics Absent in the Solo Parent, Contraception Debate"
-date: 2012-05-15
-source-url: https://www.scoop.co.nz/stories/PO1205/S00231/statistics-absent-in-the-solo-parent-contraception-debate.htm
+title: Statistics Absent in the Solo Parent, Contraception Debate
+date: 2012-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00231/statistics-absent-in-the-solo-parent-contraception-debate.htm
 author: waikato-university
+permalink: >-
+  /archive/2012/05/15/statistics-absent-in-the-solo-parent-contraception-debate/index.html
+layout: layout.njk
 ---
 Statistics Absent in the Solo Parent, Contraception Debate
 ==========================================================

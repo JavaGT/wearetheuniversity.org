@@ -1,9 +1,12 @@
 ---
 slug: polytechs-face-huge-funding-cuts
-title: "Polytechs face huge funding cuts"
-date: 2004-06-28
-source-url: https://www.scoop.co.nz/stories/PA0406/S00440/polytechs-face-huge-funding-cuts.htm
+title: Polytechs face huge funding cuts
+date: 2004-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00440/polytechs-face-huge-funding-cuts.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/28/polytechs-face-huge-funding-cuts/index.html
+layout: layout.njk
 ---
 Polytechs face huge funding cuts
 ================================

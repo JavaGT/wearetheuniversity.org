@@ -1,9 +1,13 @@
 ---
 slug: lockdown-impact-on-wellbeing-lingers-one-year-on
-title: "Lockdown Impact On Wellbeing Lingers One Year On"
-date: 2021-03-23
-source-url: https://www.scoop.co.nz/stories/GE2103/S00103/lockdown-impact-on-wellbeing-lingers-one-year-on.htm
+title: Lockdown Impact On Wellbeing Lingers One Year On
+date: 2021-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2103/S00103/lockdown-impact-on-wellbeing-lingers-one-year-on.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/03/23/lockdown-impact-on-wellbeing-lingers-one-year-on/index.html
+layout: layout.njk
 ---
 Lockdown Impact On Wellbeing Lingers One Year On
 ================================================

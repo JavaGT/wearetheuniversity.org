@@ -1,9 +1,11 @@
 ---
 slug: shirley-to-stand-in-tamaki
-title: "Shirley To Stand In Tamaki"
-date: 2003-11-20
+title: Shirley To Stand In Tamaki
+date: 2003-11-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0311/S00413/shirley-to-stand-in-tamaki.htm
 author: act-new-zealand
+permalink: /archive/2003/11/20/shirley-to-stand-in-tamaki/index.html
+layout: layout.njk
 ---
 Shirley To Stand In Tamaki
 ==========================

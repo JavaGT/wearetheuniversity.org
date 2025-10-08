@@ -1,9 +1,12 @@
 ---
 slug: solar-homes-stymied-by-govt-inaction
-title: "Solar homes stymied by Govt inaction"
-date: 2014-12-18
-source-url: https://www.scoop.co.nz/stories/PA1412/S00328/solar-homes-stymied-by-govt-inaction.htm
+title: Solar homes stymied by Govt inaction
+date: 2014-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00328/solar-homes-stymied-by-govt-inaction.htm
 author: green-party
+permalink: /archive/2014/12/18/solar-homes-stymied-by-govt-inaction/index.html
+layout: layout.njk
 ---
 Solar homes stymied by Govt inaction
 ====================================

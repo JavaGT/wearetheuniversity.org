@@ -1,9 +1,12 @@
 ---
 slug: massey-debate-puts-te-reo-māori-on-election-agenda
-title: "Massey Debate Puts Te Reo Māori on Election Agenda"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/PO1708/S00165/massey-debate-puts-te-reo-maori-on-election-agenda.htm
+title: Massey Debate Puts Te Reo Māori on Election Agenda
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00165/massey-debate-puts-te-reo-maori-on-election-agenda.htm
 author: massey-university
+permalink: /archive/2017/08/09/massey-debate-puts-te-reo-m/index.html
+layout: layout.njk
 ---
 Massey Debate Puts Te Reo Māori on Election Agenda
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: what-priority-for-enforcing-law-in-prisons
-title: "What Priority For Enforcing Law In Prisons?"
-date: 2003-04-09
-source-url: https://www.scoop.co.nz/stories/PA0304/S00156/what-priority-for-enforcing-law-in-prisons.htm
+title: What Priority For Enforcing Law In Prisons?
+date: 2003-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0304/S00156/what-priority-for-enforcing-law-in-prisons.htm
 author: act-new-zealand
+permalink: /archive/2003/04/09/what-priority-for-enforcing-law-in-prisons/index.html
+layout: layout.njk
 ---
 What Priority For Enforcing Law In Prisons?
 ===========================================

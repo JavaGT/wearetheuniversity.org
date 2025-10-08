@@ -1,9 +1,13 @@
 ---
 slug: father-and-daughter-graduation-for-seiuli-family
-title: "Father and daughter graduation for Seiuli family"
-date: 2015-03-27
-source-url: https://www.scoop.co.nz/stories/ED1503/S00116/father-and-daughter-graduation-for-seiuli-family.htm
+title: Father and daughter graduation for Seiuli family
+date: 2015-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00116/father-and-daughter-graduation-for-seiuli-family.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/03/27/father-and-daughter-graduation-for-seiuli-family/index.html
+layout: layout.njk
 ---
 Father and daughter graduation for Seiuli family
 ================================================

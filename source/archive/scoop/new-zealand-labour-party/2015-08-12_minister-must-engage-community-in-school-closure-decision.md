@@ -1,9 +1,13 @@
 ---
 slug: minister-must-engage-community-in-school-closure-decision
-title: "Minister must engage community in school closure decision"
-date: 2015-08-12
-source-url: https://www.scoop.co.nz/stories/PA1508/S00172/minister-must-engage-community-in-school-closure-decision.htm
+title: Minister must engage community in school closure decision
+date: 2015-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00172/minister-must-engage-community-in-school-closure-decision.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/08/12/minister-must-engage-community-in-school-closure-decision/index.html
+layout: layout.njk
 ---
 Minister must engage community in school closure decision
 =========================================================

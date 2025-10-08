@@ -1,9 +1,13 @@
 ---
 slug: joyce-cant-get-his-head-around-two-ideas-at-once
-title: "Joyce can’t get his head around two ideas at once"
-date: 2010-12-06
-source-url: https://www.scoop.co.nz/stories/PA1012/S00052/joyce-cant-get-his-head-around-two-ideas-at-once.htm
+title: Joyce can’t get his head around two ideas at once
+date: 2010-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1012/S00052/joyce-cant-get-his-head-around-two-ideas-at-once.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/12/06/joyce-cant-get-his-head-around-two-ideas-at-once/index.html
+layout: layout.njk
 ---
 Joyce can’t get his head around two ideas at once
 =================================================

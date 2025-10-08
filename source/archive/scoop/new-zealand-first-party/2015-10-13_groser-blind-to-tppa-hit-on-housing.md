@@ -1,9 +1,12 @@
 ---
 slug: groser-blind-to-tppa-hit-on-housing
-title: "Groser Blind to TPPA Hit on Housing"
-date: 2015-10-13
-source-url: https://www.scoop.co.nz/stories/PA1510/S00194/groser-blind-to-tppa-hit-on-housing.htm
+title: Groser Blind to TPPA Hit on Housing
+date: 2015-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00194/groser-blind-to-tppa-hit-on-housing.htm
 author: new-zealand-first-party
+permalink: /archive/2015/10/13/groser-blind-to-tppa-hit-on-housing/index.html
+layout: layout.njk
 ---
 Groser Blind to TPPA Hit on Housing
 ===================================

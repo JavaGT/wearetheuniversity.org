@@ -1,9 +1,12 @@
 ---
 slug: defu-shows-increased-debt-and-increased-risk
-title: "DEFU Shows Increased Debt and Increased Risk"
-date: 2001-12-18
-source-url: https://www.scoop.co.nz/stories/PA0112/S00348/defu-shows-increased-debt-and-increased-risk.htm
+title: DEFU Shows Increased Debt and Increased Risk
+date: 2001-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00348/defu-shows-increased-debt-and-increased-risk.htm
 author: act-new-zealand
+permalink: /archive/2001/12/18/defu-shows-increased-debt-and-increased-risk/index.html
+layout: layout.njk
 ---
 DEFU Shows Increased Debt and Increased Risk
 ============================================

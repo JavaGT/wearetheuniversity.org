@@ -1,9 +1,13 @@
 ---
 slug: brash-should-follow-australian-example-on-brethren
-title: "Brash should follow Australian example on Brethren"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/PA0609/S00449/brash-should-follow-australian-example-on-brethren.htm
+title: Brash should follow Australian example on Brethren
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00449/brash-should-follow-australian-example-on-brethren.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2006/09/20/brash-should-follow-australian-example-on-brethren/index.html
+layout: layout.njk
 ---
 Brash should follow Australian example on Brethren
 ==================================================

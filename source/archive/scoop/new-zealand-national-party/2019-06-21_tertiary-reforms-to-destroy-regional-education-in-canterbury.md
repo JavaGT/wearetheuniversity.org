@@ -1,9 +1,13 @@
 ---
 slug: tertiary-reforms-to-destroy-regional-education-in-canterbury
-title: "Tertiary reforms to destroy regional education in Canterbury"
-date: 2019-06-21
-source-url: https://www.scoop.co.nz/stories/PA1906/S00198/tertiary-reforms-to-destroy-regional-education-in-canterbury.htm
+title: Tertiary reforms to destroy regional education in Canterbury
+date: 2019-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1906/S00198/tertiary-reforms-to-destroy-regional-education-in-canterbury.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/06/21/tertiary-reforms-to-destroy-regional-education-in-canterbury/index.html
+layout: layout.njk
 ---
 Tertiary reforms to destroy regional education in Canterbury
 ============================================================

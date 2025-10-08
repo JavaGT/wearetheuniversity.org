@@ -1,9 +1,12 @@
 ---
 slug: lizzie-marvelly-joins-masseys-latest-graduates
-title: "Lizzie Marvelly joins Massey’s latest graduates"
-date: 2015-04-20
-source-url: https://www.scoop.co.nz/stories/ED1504/S00052/lizzie-marvelly-joins-masseys-latest-graduates.htm
+title: Lizzie Marvelly joins Massey’s latest graduates
+date: 2015-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1504/S00052/lizzie-marvelly-joins-masseys-latest-graduates.htm
 author: massey-university
+permalink: /archive/2015/04/20/lizzie-marvelly-joins-masseys-latest-graduates/index.html
+layout: layout.njk
 ---
 Lizzie Marvelly joins Massey’s latest graduates
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-shouldnt-dictate-school-status
-title: "Minister Shouldn't Dictate School Status"
-date: 1999-07-29
-source-url: https://www.scoop.co.nz/stories/PA9907/S00585/minister-shouldnt-dictate-school-status.htm
+title: Minister Shouldn't Dictate School Status
+date: 1999-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00585/minister-shouldnt-dictate-school-status.htm
 author: act-new-zealand
+permalink: /archive/1999/07/29/minister-shouldnt-dictate-school-status/index.html
+layout: layout.njk
 ---
 Minister Shouldn't Dictate School Status
 ========================================

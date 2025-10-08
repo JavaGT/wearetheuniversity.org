@@ -1,9 +1,13 @@
 ---
 slug: new-student-hub-is-a-finalist-in-the-nz-interior-awards
-title: "New student hub is a finalist in the NZ Interior Awards"
-date: 2014-05-14
-source-url: https://www.scoop.co.nz/stories/AK1405/S00254/new-student-hub-is-a-finalist-in-the-nz-interior-awards.htm
+title: New student hub is a finalist in the NZ Interior Awards
+date: 2014-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1405/S00254/new-student-hub-is-a-finalist-in-the-nz-interior-awards.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/05/14/new-student-hub-is-a-finalist-in-the-nz-interior-awards/index.html
+layout: layout.njk
 ---
 New student hub is a finalist in the NZ Interior Awards
 =======================================================

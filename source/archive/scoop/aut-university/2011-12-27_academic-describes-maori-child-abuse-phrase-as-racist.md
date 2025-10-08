@@ -1,9 +1,13 @@
 ---
 slug: academic-describes-maori-child-abuse-phrase-as-racist
-title: "Academic describes \"Maori child abuse\" phrase as \"racist\""
-date: 2011-12-27
-source-url: https://www.scoop.co.nz/stories/PO1112/S00288/academic-describes-maori-child-abuse-phrase-as-racist.htm
+title: Academic describes "Maori child abuse" phrase as "racist"
+date: 2011-12-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1112/S00288/academic-describes-maori-child-abuse-phrase-as-racist.htm
 author: aut-university
+permalink: >-
+  /archive/2011/12/27/academic-describes-maori-child-abuse-phrase-as-racist/index.html
+layout: layout.njk
 ---
 Academic describes “Maori child abuse” phrase as “racist”
 =========================================================

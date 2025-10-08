@@ -1,9 +1,11 @@
 ---
 slug: acts-pledge-to-new-zealand
-title: "ACT's Pledge To New Zealand"
-date: 2008-05-19
+title: ACT's Pledge To New Zealand
+date: 2008-05-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0805/S00321/acts-pledge-to-new-zealand.htm
 author: act-new-zealand
+permalink: /archive/2008/05/19/acts-pledge-to-new-zealand/index.html
+layout: layout.njk
 ---
 ACT's Pledge To New Zealand
 ===========================

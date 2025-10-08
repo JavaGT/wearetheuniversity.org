@@ -1,9 +1,12 @@
 ---
 slug: its-time-to-celebrate-auts-summer-graduates
-title: "It’s time to celebrate AUT’s summer graduates"
-date: 2012-12-11
-source-url: https://www.scoop.co.nz/stories/ED1212/S00069/its-time-to-celebrate-auts-summer-graduates.htm
+title: It’s time to celebrate AUT’s summer graduates
+date: 2012-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00069/its-time-to-celebrate-auts-summer-graduates.htm
 author: aut-university
+permalink: /archive/2012/12/11/its-time-to-celebrate-auts-summer-graduates/index.html
+layout: layout.njk
 ---
 It’s time to celebrate AUT’s summer graduates
 =============================================

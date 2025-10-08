@@ -1,9 +1,13 @@
 ---
 slug: primary-teachers-and-principals-vote-to-reject-offers
-title: "Primary teachers and principals vote to reject offers"
-date: 2018-09-26
-source-url: https://www.scoop.co.nz/stories/PO1809/S00324/primary-teachers-and-principals-vote-to-reject-offers.htm
+title: Primary teachers and principals vote to reject offers
+date: 2018-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1809/S00324/primary-teachers-and-principals-vote-to-reject-offers.htm
 author: nzei
+permalink: >-
+  /archive/2018/09/26/primary-teachers-and-principals-vote-to-reject-offers/index.html
+layout: layout.njk
 ---
 Primary teachers and principals vote to reject offers
 =====================================================

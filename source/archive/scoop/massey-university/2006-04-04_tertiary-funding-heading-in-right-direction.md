@@ -1,9 +1,12 @@
 ---
 slug: tertiary-funding-heading-in-right-direction
-title: "Tertiary funding heading in right direction"
-date: 2006-04-04
-source-url: https://www.scoop.co.nz/stories/ED0604/S00011/tertiary-funding-heading-in-right-direction.htm
+title: Tertiary funding heading in right direction
+date: 2006-04-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0604/S00011/tertiary-funding-heading-in-right-direction.htm
 author: massey-university
+permalink: /archive/2006/04/04/tertiary-funding-heading-in-right-direction/index.html
+layout: layout.njk
 ---
 Tertiary funding heading in right direction
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: time-is-right-for-flexible-working-hours
-title: "Time is right for flexible working hours"
-date: 2007-11-22
-source-url: https://www.scoop.co.nz/stories/PO0711/S00373/time-is-right-for-flexible-working-hours.htm
+title: Time is right for flexible working hours
+date: 2007-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0711/S00373/time-is-right-for-flexible-working-hours.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2007/11/22/time-is-right-for-flexible-working-hours/index.html
+layout: layout.njk
 ---
 Time is right for flexible working hours
 ========================================

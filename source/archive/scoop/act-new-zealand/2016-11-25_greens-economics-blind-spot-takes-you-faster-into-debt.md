@@ -1,9 +1,13 @@
 ---
 slug: greens-economics-blind-spot-takes-you-faster-into-debt
-title: "Greens' economics blind spot takes you faster into debt"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/PA1611/S00499/greens-economics-blind-spot-takes-you-faster-into-debt.htm
+title: Greens' economics blind spot takes you faster into debt
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00499/greens-economics-blind-spot-takes-you-faster-into-debt.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/11/25/greens-economics-blind-spot-takes-you-faster-into-debt/index.html
+layout: layout.njk
 ---
 Greens' economics blind spot takes you faster into debt
 =======================================================

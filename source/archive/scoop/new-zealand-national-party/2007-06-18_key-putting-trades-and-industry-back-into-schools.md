@@ -1,9 +1,13 @@
 ---
 slug: key-putting-trades-and-industry-back-into-schools
-title: "Key: Putting Trades and Industry Back Into Schools"
-date: 2007-06-18
-source-url: https://www.scoop.co.nz/stories/PA0706/S00339/key-putting-trades-and-industry-back-into-schools.htm
+title: 'Key: Putting Trades and Industry Back Into Schools'
+date: 2007-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00339/key-putting-trades-and-industry-back-into-schools.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/06/18/key-putting-trades-and-industry-back-into-schools/index.html
+layout: layout.njk
 ---
 Key: Putting Trades and Industry Back Into Schools
 ==================================================

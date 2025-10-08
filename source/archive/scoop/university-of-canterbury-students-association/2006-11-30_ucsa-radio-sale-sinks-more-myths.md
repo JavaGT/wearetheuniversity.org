@@ -1,9 +1,12 @@
 ---
 slug: ucsa-radio-sale-sinks-more-myths
-title: "UCSA radio sale sinks more myths"
-date: 2006-11-30
-source-url: https://www.scoop.co.nz/stories/AK0611/S00349/ucsa-radio-sale-sinks-more-myths.htm
+title: UCSA radio sale sinks more myths
+date: 2006-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0611/S00349/ucsa-radio-sale-sinks-more-myths.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2006/11/30/ucsa-radio-sale-sinks-more-myths/index.html
+layout: layout.njk
 ---
 UCSA radio sale sinks more myths
 ================================

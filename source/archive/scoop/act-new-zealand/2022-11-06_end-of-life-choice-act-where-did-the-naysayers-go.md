@@ -1,9 +1,13 @@
 ---
 slug: end-of-life-choice-act-where-did-the-naysayers-go
-title: "End Of Life Choice Act, Where Did The Naysayers Go?"
-date: 2022-11-06
-source-url: https://www.scoop.co.nz/stories/PA2211/S00051/end-of-life-choice-act-where-did-the-naysayers-go.htm
+title: End Of Life Choice Act, Where Did The Naysayers Go?
+date: 2022-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2211/S00051/end-of-life-choice-act-where-did-the-naysayers-go.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/11/06/end-of-life-choice-act-where-did-the-naysayers-go/index.html
+layout: layout.njk
 ---
 End Of Life Choice Act, Where Did The Naysayers Go?
 ===================================================

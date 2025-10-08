@@ -1,9 +1,16 @@
 ---
-slug: psyllid-peril-to-potato-prosperity-lincoln-university-research-saves-a-canterbury-crop-crisis
-title: "Psyllid Peril To Potato Prosperity: Lincoln University Research Saves A Canterbury Crop Crisis"
-date: 2024-08-20
-source-url: https://www.scoop.co.nz/stories/SC2408/S00038/psyllid-peril-to-potato-prosperity-lincoln-university-research-saves-a-canterbury-crop-crisis.htm
+slug: >-
+  psyllid-peril-to-potato-prosperity-lincoln-university-research-saves-a-canterbury-crop-crisis
+title: >-
+  Psyllid Peril To Potato Prosperity: Lincoln University Research Saves A
+  Canterbury Crop Crisis
+date: 2024-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2408/S00038/psyllid-peril-to-potato-prosperity-lincoln-university-research-saves-a-canterbury-crop-crisis.htm
 author: lincoln-university
+permalink: >-
+  /archive/2024/08/20/psyllid-peril-to-potato-prosperity-lincoln-university-research-saves-a-canterbury-crop-crisis/index.html
+layout: layout.njk
 ---
 Psyllid Peril To Potato Prosperity: Lincoln University Research Saves A Canterbury Crop Crisis
 ==============================================================================================

@@ -1,9 +1,12 @@
 ---
 slug: 2005-election-debate-9-candidates-9-parties
-title: "2005 Election Debate 9 candidates 9 Parties"
-date: 2005-04-12
-source-url: https://www.scoop.co.nz/stories/PO0504/S00146/2005-election-debate-9-candidates-9-parties.htm
+title: 2005 Election Debate 9 candidates 9 Parties
+date: 2005-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0504/S00146/2005-election-debate-9-candidates-9-parties.htm
 author: lincoln-university-students-association
+permalink: /archive/2005/04/12/2005-election-debate-9-candidates-9-parties/index.html
+layout: layout.njk
 ---
 2005 Election Debate 9 candidates 9 Parties
 ===========================================

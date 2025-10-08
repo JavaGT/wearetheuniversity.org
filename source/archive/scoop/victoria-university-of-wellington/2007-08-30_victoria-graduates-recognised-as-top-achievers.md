@@ -1,9 +1,12 @@
 ---
 slug: victoria-graduates-recognised-as-top-achievers
-title: "Victoria graduates recognised as top achievers"
-date: 2007-08-30
-source-url: https://www.scoop.co.nz/stories/ED0708/S00098/victoria-graduates-recognised-as-top-achievers.htm
+title: Victoria graduates recognised as top achievers
+date: 2007-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00098/victoria-graduates-recognised-as-top-achievers.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/08/30/victoria-graduates-recognised-as-top-achievers/index.html
+layout: layout.njk
 ---
 Victoria graduates recognised as top achievers
 ==============================================

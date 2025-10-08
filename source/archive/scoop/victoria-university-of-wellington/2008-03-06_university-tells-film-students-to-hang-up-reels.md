@@ -1,9 +1,12 @@
 ---
 slug: university-tells-film-students-to-hang-up-reels
-title: "University tells film students to hang up reels"
-date: 2008-03-06
-source-url: https://www.scoop.co.nz/stories/ED0803/S00013/university-tells-film-students-to-hang-up-reels.htm
+title: University tells film students to hang up reels
+date: 2008-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0803/S00013/university-tells-film-students-to-hang-up-reels.htm
 author: victoria-university-of-wellington
+permalink: /archive/2008/03/06/university-tells-film-students-to-hang-up-reels/index.html
+layout: layout.njk
 ---
 University tells film students to hang up reels
 ===============================================

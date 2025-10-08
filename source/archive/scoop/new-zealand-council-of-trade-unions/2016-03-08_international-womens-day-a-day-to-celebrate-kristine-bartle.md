@@ -1,9 +1,13 @@
 ---
 slug: international-womens-day-a-day-to-celebrate-kristine-bartle
-title: "International Women’s Day a day to celebrate Kristine Bartle"
-date: 2016-03-08
-source-url: https://www.scoop.co.nz/stories/PO1603/S00104/international-womens-day-a-day-to-celebrate-kristine-bartle.htm
+title: International Women’s Day a day to celebrate Kristine Bartle
+date: 2016-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1603/S00104/international-womens-day-a-day-to-celebrate-kristine-bartle.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2016/03/08/international-womens-day-a-day-to-celebrate-kristine-bartle/index.html
+layout: layout.njk
 ---
 International Women’s Day a day to celebrate Kristine Bartle
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: disastrous-corrections-department-needs-an-overhaul
-title: "Disastrous Corrections Department needs an overhaul"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/PA1609/S00435/disastrous-corrections-department-needs-an-overhaul.htm
+title: Disastrous Corrections Department needs an overhaul
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00435/disastrous-corrections-department-needs-an-overhaul.htm
 author: green-party
+permalink: >-
+  /archive/2016/09/23/disastrous-corrections-department-needs-an-overhaul/index.html
+layout: layout.njk
 ---
 Disastrous Corrections Department needs an overhaul
 ===================================================

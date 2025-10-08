@@ -1,9 +1,11 @@
 ---
 slug: union-fees-to-rise-23%
-title: "Union fees to rise 23%"
-date: 2000-08-09
+title: Union fees to rise 23%
+date: 2000-08-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0008/S00022/union-fees-to-rise-23.htm
 author: prebble-s-rebels
+permalink: /archive/2000/08/09/union-fees-to-rise-23/index.html
+layout: layout.njk
 ---
 Union fees to rise 23%
 ======================

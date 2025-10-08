@@ -1,9 +1,13 @@
 ---
 slug: chinese-tourists-curious-to-see-the-real-north-korea
-title: "Chinese tourists curious to see the ‘real’ North Korea"
-date: 2015-06-15
-source-url: https://www.scoop.co.nz/stories/ED1506/S00066/chinese-tourists-curious-to-see-the-real-north-korea.htm
+title: Chinese tourists curious to see the ‘real’ North Korea
+date: 2015-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1506/S00066/chinese-tourists-curious-to-see-the-real-north-korea.htm
 author: waikato-university
+permalink: >-
+  /archive/2015/06/15/chinese-tourists-curious-to-see-the-real-north-korea/index.html
+layout: layout.njk
 ---
 Chinese tourists curious to see the ‘real’ North Korea
 ======================================================

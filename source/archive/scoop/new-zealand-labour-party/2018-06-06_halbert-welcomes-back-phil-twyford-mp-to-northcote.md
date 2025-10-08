@@ -1,9 +1,13 @@
 ---
 slug: halbert-welcomes-back-phil-twyford-mp-to-northcote
-title: "Halbert welcomes back Phil Twyford MP to Northcote"
-date: 2018-06-06
-source-url: https://www.scoop.co.nz/stories/PO1806/S00059/halbert-welcomes-back-phil-twyford-mp-to-northcote.htm
+title: Halbert welcomes back Phil Twyford MP to Northcote
+date: 2018-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1806/S00059/halbert-welcomes-back-phil-twyford-mp-to-northcote.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2018/06/06/halbert-welcomes-back-phil-twyford-mp-to-northcote/index.html
+layout: layout.njk
 ---
 Halbert welcomes back Phil Twyford MP to Northcote
 ==================================================

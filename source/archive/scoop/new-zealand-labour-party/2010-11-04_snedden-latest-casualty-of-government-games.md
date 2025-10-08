@@ -1,9 +1,12 @@
 ---
 slug: snedden-latest-casualty-of-government-games
-title: "Snedden latest casualty of Government games"
-date: 2010-11-04
-source-url: https://www.scoop.co.nz/stories/PA1011/S00090/snedden-latest-casualty-of-government-games.htm
+title: Snedden latest casualty of Government games
+date: 2010-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00090/snedden-latest-casualty-of-government-games.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/11/04/snedden-latest-casualty-of-government-games/index.html
+layout: layout.njk
 ---
 Snedden latest casualty of Government games
 ===========================================

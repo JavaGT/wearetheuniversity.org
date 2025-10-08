@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-plans-community-psychology-book
-title: "Waikato Uni Plans Community Psychology Book"
-date: 2004-03-26
-source-url: https://www.scoop.co.nz/stories/ED0403/S00110/waikato-uni-plans-community-psychology-book.htm
+title: Waikato Uni Plans Community Psychology Book
+date: 2004-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00110/waikato-uni-plans-community-psychology-book.htm
 author: waikato-university
+permalink: /archive/2004/03/26/waikato-uni-plans-community-psychology-book/index.html
+layout: layout.njk
 ---
 Waikato Uni Plans Community Psychology Book
 ===========================================

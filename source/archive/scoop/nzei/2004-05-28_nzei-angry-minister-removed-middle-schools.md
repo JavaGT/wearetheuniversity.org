@@ -1,9 +1,12 @@
 ---
 slug: nzei-angry-minister-removed-middle-schools
-title: "NZEI Angry Minister Removed Middle Schools"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/ED0405/S00122/nzei-angry-minister-removed-middle-schools.htm
+title: NZEI Angry Minister Removed Middle Schools
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00122/nzei-angry-minister-removed-middle-schools.htm
 author: nzei
+permalink: /archive/2004/05/28/nzei-angry-minister-removed-middle-schools/index.html
+layout: layout.njk
 ---
 NZEI Angry Minister Removed Middle Schools
 ==========================================

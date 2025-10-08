@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-opposes-further-nz-commitments-to-the-gats!
-title: "VUWSA opposes further NZ commitments to the GATS!"
-date: 2003-03-03
-source-url: https://www.scoop.co.nz/stories/ED0303/S00001/vuwsa-opposes-further-nz-commitments-to-the-gats.htm
+title: VUWSA opposes further NZ commitments to the GATS!
+date: 2003-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0303/S00001/vuwsa-opposes-further-nz-commitments-to-the-gats.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2003/03/03/vuwsa-opposes-further-nz-commitments-to-the-gats/index.html
+layout: layout.njk
 ---
 VUWSA opposes further NZ commitments to the GATS!
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: getting-on-top-of-toxin-production
-title: "Getting on top of toxin production"
-date: 2012-10-31
-source-url: https://www.scoop.co.nz/stories/SC1210/S00062/getting-on-top-of-toxin-production.htm
+title: Getting on top of toxin production
+date: 2012-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1210/S00062/getting-on-top-of-toxin-production.htm
 author: university-of-waikato
+permalink: /archive/2012/10/31/getting-on-top-of-toxin-production/index.html
+layout: layout.njk
 ---
 Getting on top of toxin production
 ==================================

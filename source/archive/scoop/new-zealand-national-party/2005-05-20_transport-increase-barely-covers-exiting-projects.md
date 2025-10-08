@@ -1,9 +1,13 @@
 ---
 slug: transport-increase-barely-covers-exiting-projects
-title: "Transport increase barely covers exiting projects"
-date: 2005-05-20
-source-url: https://www.scoop.co.nz/stories/PA0505/S00541/transport-increase-barely-covers-exiting-projects.htm
+title: Transport increase barely covers exiting projects
+date: 2005-05-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00541/transport-increase-barely-covers-exiting-projects.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2005/05/20/transport-increase-barely-covers-exiting-projects/index.html
+layout: layout.njk
 ---
 Transport increase barely covers exiting projects
 =================================================

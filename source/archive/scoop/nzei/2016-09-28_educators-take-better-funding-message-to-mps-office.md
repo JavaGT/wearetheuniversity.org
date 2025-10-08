@@ -1,9 +1,13 @@
 ---
 slug: educators-take-better-funding-message-to-mps-office
-title: "Educators take better funding message to MP's office"
-date: 2016-09-28
-source-url: https://www.scoop.co.nz/stories/PO1609/S00351/educators-take-better-funding-message-to-mps-office.htm
+title: Educators take better funding message to MP's office
+date: 2016-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00351/educators-take-better-funding-message-to-mps-office.htm
 author: nzei
+permalink: >-
+  /archive/2016/09/28/educators-take-better-funding-message-to-mps-office/index.html
+layout: layout.njk
 ---
 Educators take better funding message to MP's office
 ====================================================

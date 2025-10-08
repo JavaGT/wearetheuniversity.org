@@ -1,9 +1,12 @@
 ---
 slug: hodgson-confused-over-open-entrance-to-unis
-title: "Hodgson confused over open entrance to unis"
-date: 2007-12-04
-source-url: https://www.scoop.co.nz/stories/PA0712/S00037/hodgson-confused-over-open-entrance-to-unis.htm
+title: Hodgson confused over open entrance to unis
+date: 2007-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0712/S00037/hodgson-confused-over-open-entrance-to-unis.htm
 author: new-zealand-national-party
+permalink: /archive/2007/12/04/hodgson-confused-over-open-entrance-to-unis/index.html
+layout: layout.njk
 ---
 Hodgson confused over open entrance to unis
 ===========================================

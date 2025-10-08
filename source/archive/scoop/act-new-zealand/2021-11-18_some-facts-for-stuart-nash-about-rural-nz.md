@@ -1,9 +1,12 @@
 ---
 slug: some-facts-for-stuart-nash-about-rural-nz
-title: "Some Facts For Stuart Nash About Rural NZ"
-date: 2021-11-18
-source-url: https://www.scoop.co.nz/stories/PA2111/S00224/some-facts-for-stuart-nash-about-rural-nz.htm
+title: Some Facts For Stuart Nash About Rural NZ
+date: 2021-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00224/some-facts-for-stuart-nash-about-rural-nz.htm
 author: act-new-zealand
+permalink: /archive/2021/11/18/some-facts-for-stuart-nash-about-rural-nz/index.html
+layout: layout.njk
 ---
 Some Facts For Stuart Nash About Rural NZ
 =========================================

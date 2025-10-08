@@ -1,9 +1,12 @@
 ---
 slug: fluoridation-in-hamilton-waikato-university-q+a-panel
-title: "Fluoridation in Hamilton – Waikato University Q+A Panel"
-date: 2013-10-11
-source-url: https://www.scoop.co.nz/stories/GE1310/S00060/fluoridation-in-hamilton-waikato-university-qa-panel.htm
+title: Fluoridation in Hamilton – Waikato University Q+A Panel
+date: 2013-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00060/fluoridation-in-hamilton-waikato-university-qa-panel.htm
 author: university-of-waikato
+permalink: /archive/2013/10/11/fluoridation-in-hamilton-waikato-university-q/index.html
+layout: layout.njk
 ---
 Fluoridation in Hamilton – Waikato University Q+A Panel
 =======================================================

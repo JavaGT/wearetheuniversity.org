@@ -1,9 +1,13 @@
 ---
 slug: otago-researchers-decode-genetics-to-understand-disease
-title: "Otago researchers decode genetics to understand disease"
-date: 2018-09-12
-source-url: https://www.scoop.co.nz/stories/GE1809/S00037/otago-researchers-decode-genetics-to-understand-disease.htm
+title: Otago researchers decode genetics to understand disease
+date: 2018-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00037/otago-researchers-decode-genetics-to-understand-disease.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/09/12/otago-researchers-decode-genetics-to-understand-disease/index.html
+layout: layout.njk
 ---
 Otago researchers decode genetics to understand disease
 =======================================================

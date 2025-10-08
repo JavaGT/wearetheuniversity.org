@@ -1,9 +1,12 @@
 ---
 slug: success-for-aut-at-prinz-awards
-title: "Success For AUT At Prinz Awards"
-date: 2009-05-22
-source-url: https://www.scoop.co.nz/stories/ED0905/S00094/success-for-aut-at-prinz-awards.htm
+title: Success For AUT At Prinz Awards
+date: 2009-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00094/success-for-aut-at-prinz-awards.htm
 author: aut-university
+permalink: /archive/2009/05/22/success-for-aut-at-prinz-awards/index.html
+layout: layout.njk
 ---
 Success For AUT At Prinz Awards
 ===============================

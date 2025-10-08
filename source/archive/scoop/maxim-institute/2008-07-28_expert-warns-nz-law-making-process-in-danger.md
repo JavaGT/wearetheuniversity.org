@@ -1,9 +1,12 @@
 ---
 slug: expert-warns-nz-law-making-process-in-danger
-title: "Expert Warns NZ Law-Making Process In Danger"
-date: 2008-07-28
-source-url: https://www.scoop.co.nz/stories/PO0807/S00335/expert-warns-nz-law-making-process-in-danger.htm
+title: Expert Warns NZ Law-Making Process In Danger
+date: 2008-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0807/S00335/expert-warns-nz-law-making-process-in-danger.htm
 author: maxim-institute
+permalink: /archive/2008/07/28/expert-warns-nz-law-making-process-in-danger/index.html
+layout: layout.njk
 ---
 Expert Warns NZ Law-Making Process In Danger
 ============================================

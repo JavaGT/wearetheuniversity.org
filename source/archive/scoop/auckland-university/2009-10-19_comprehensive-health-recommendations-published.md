@@ -1,9 +1,12 @@
 ---
 slug: comprehensive-health-recommendations-published
-title: "Comprehensive health recommendations published"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00079/comprehensive-health-recommendations-published.htm
+title: Comprehensive health recommendations published
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00079/comprehensive-health-recommendations-published.htm
 author: auckland-university
+permalink: /archive/2009/10/19/comprehensive-health-recommendations-published/index.html
+layout: layout.njk
 ---
 Comprehensive health recommendations published
 ==============================================

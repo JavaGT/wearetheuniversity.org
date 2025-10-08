@@ -1,9 +1,12 @@
 ---
 slug: claim-of-prejudicial-behaviour-by-the-ceo
-title: "Claim of prejudicial behaviour by the CEO"
-date: 2004-07-09
-source-url: https://www.scoop.co.nz/stories/PO0407/S00083/claim-of-prejudicial-behaviour-by-the-ceo.htm
+title: Claim of prejudicial behaviour by the CEO
+date: 2004-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0407/S00083/claim-of-prejudicial-behaviour-by-the-ceo.htm
 author: te-pati-maori
+permalink: /archive/2004/07/09/claim-of-prejudicial-behaviour-by-the-ceo/index.html
+layout: layout.njk
 ---
 Claim of prejudicial behaviour by the CEO
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: secrets-of-evolution-extracted
-title: "Secrets of evolution extracted"
-date: 2010-11-23
-source-url: https://www.scoop.co.nz/stories/SC1011/S00072/secrets-of-evolution-extracted.htm
+title: Secrets of evolution extracted
+date: 2010-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1011/S00072/secrets-of-evolution-extracted.htm
 author: massey-university
+permalink: /archive/2010/11/23/secrets-of-evolution-extracted/index.html
+layout: layout.njk
 ---
 Secrets of evolution extracted
 ==============================

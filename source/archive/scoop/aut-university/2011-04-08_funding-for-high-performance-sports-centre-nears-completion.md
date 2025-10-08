@@ -1,9 +1,13 @@
 ---
 slug: funding-for-high-performance-sports-centre-nears-completion
-title: "Funding for high performance sports centre nears completion"
-date: 2011-04-08
-source-url: https://www.scoop.co.nz/stories/AK1104/S00223/funding-for-high-performance-sports-centre-nears-completion.htm
+title: Funding for high performance sports centre nears completion
+date: 2011-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1104/S00223/funding-for-high-performance-sports-centre-nears-completion.htm
 author: aut-university
+permalink: >-
+  /archive/2011/04/08/funding-for-high-performance-sports-centre-nears-completion/index.html
+layout: layout.njk
 ---
 Funding for high performance sports centre nears completion
 ===========================================================

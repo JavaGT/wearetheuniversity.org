@@ -1,9 +1,12 @@
 ---
 slug: govt-u-turn-coming-on-international-students
-title: "Govt U-turn coming on international students"
-date: 2017-11-19
-source-url: https://www.scoop.co.nz/stories/PA1711/S00121/govt-u-turn-coming-on-international-students.htm
+title: Govt U-turn coming on international students
+date: 2017-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1711/S00121/govt-u-turn-coming-on-international-students.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/19/govt-u-turn-coming-on-international-students/index.html
+layout: layout.njk
 ---
 Govt U-turn coming on international students
 ============================================

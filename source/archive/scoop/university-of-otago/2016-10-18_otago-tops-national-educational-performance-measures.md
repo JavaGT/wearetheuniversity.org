@@ -1,9 +1,13 @@
 ---
 slug: otago-tops-national-educational-performance-measures
-title: "Otago tops national educational performance measures"
-date: 2016-10-18
-source-url: https://www.scoop.co.nz/stories/ED1610/S00063/otago-tops-national-educational-performance-measures.htm
+title: Otago tops national educational performance measures
+date: 2016-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1610/S00063/otago-tops-national-educational-performance-measures.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/10/18/otago-tops-national-educational-performance-measures/index.html
+layout: layout.njk
 ---
 Otago tops national educational performance measures
 ====================================================

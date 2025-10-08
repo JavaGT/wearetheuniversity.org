@@ -1,9 +1,11 @@
 ---
 slug: nicola-grigg-maiden-speech
-title: "Nicola Grigg – Maiden Speech"
-date: 2021-03-23
+title: Nicola Grigg – Maiden Speech
+date: 2021-03-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2103/S00179/nicola-grigg-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/23/nicola-grigg-maiden-speech/index.html
+layout: layout.njk
 ---
 Nicola Grigg – Maiden Speech
 ============================

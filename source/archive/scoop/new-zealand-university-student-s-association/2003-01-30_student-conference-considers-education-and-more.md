@@ -1,9 +1,12 @@
 ---
 slug: student-conference-considers-education-and-more
-title: "Student conference considers education and more"
-date: 2003-01-30
-source-url: https://www.scoop.co.nz/stories/ED0301/S00028/student-conference-considers-education-and-more.htm
+title: Student conference considers education and more
+date: 2003-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0301/S00028/student-conference-considers-education-and-more.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/01/30/student-conference-considers-education-and-more/index.html
+layout: layout.njk
 ---
 Student conference considers education and more
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: act-rural-tour-kicks-off-today
-title: "ACT Rural Tour kicks-off today"
-date: 2000-04-17
-source-url: https://www.scoop.co.nz/stories/PA0004/S00215/act-rural-tour-kicks-off-today.htm
+title: ACT Rural Tour kicks-off today
+date: 2000-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00215/act-rural-tour-kicks-off-today.htm
 author: act-new-zealand
+permalink: /archive/2000/04/17/act-rural-tour-kicks-off-today/index.html
+layout: layout.njk
 ---
 ACT Rural Tour kicks-off today
 ==============================

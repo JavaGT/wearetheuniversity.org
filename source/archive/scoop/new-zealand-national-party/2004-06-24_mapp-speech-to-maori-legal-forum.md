@@ -1,9 +1,12 @@
 ---
 slug: mapp-speech-to-maori-legal-forum
-title: "Mapp Speech To Maori Legal Forum"
-date: 2004-06-24
-source-url: https://www.scoop.co.nz/stories/PA0406/S00382/mapp-speech-to-maori-legal-forum.htm
+title: Mapp Speech To Maori Legal Forum
+date: 2004-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00382/mapp-speech-to-maori-legal-forum.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/24/mapp-speech-to-maori-legal-forum/index.html
+layout: layout.njk
 ---
 Mapp Speech To Maori Legal Forum
 ================================

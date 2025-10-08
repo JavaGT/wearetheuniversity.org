@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-rowing-skipper-tackles-atlantic
-title: "Waikato University Rowing Skipper Tackles Atlantic"
-date: 2003-09-18
-source-url: https://www.scoop.co.nz/stories/ED0309/S00071/waikato-university-rowing-skipper-tackles-atlantic.htm
+title: Waikato University Rowing Skipper Tackles Atlantic
+date: 2003-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00071/waikato-university-rowing-skipper-tackles-atlantic.htm
 author: waikato-university
+permalink: >-
+  /archive/2003/09/18/waikato-university-rowing-skipper-tackles-atlantic/index.html
+layout: layout.njk
 ---
 Waikato University Rowing Skipper Tackles Atlantic
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: mentor-project-to-retain-new-māori-medium-teachers
-title: "Mentor project to retain new Māori medium teachers"
-date: 2014-07-02
-source-url: https://www.scoop.co.nz/stories/ED1407/S00018/mentor-project-to-retain-new-maori-medium-teachers.htm
+title: Mentor project to retain new Māori medium teachers
+date: 2014-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00018/mentor-project-to-retain-new-maori-medium-teachers.htm
 author: massey-university
+permalink: /archive/2014/07/02/mentor-project-to-retain-new-m/index.html
+layout: layout.njk
 ---
 Mentor project to retain new Māori medium teachers
 ==================================================

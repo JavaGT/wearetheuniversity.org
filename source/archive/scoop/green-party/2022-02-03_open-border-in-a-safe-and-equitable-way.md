@@ -1,9 +1,12 @@
 ---
 slug: open-border-in-a-safe-and-equitable-way
-title: "Open Border In A Safe And Equitable Way"
-date: 2022-02-03
-source-url: https://www.scoop.co.nz/stories/PA2202/S00030/open-border-in-a-safe-and-equitable-way.htm
+title: Open Border In A Safe And Equitable Way
+date: 2022-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00030/open-border-in-a-safe-and-equitable-way.htm
 author: green-party
+permalink: /archive/2022/02/03/open-border-in-a-safe-and-equitable-way/index.html
+layout: layout.njk
 ---
 Open Border In A Safe And Equitable Way
 =======================================

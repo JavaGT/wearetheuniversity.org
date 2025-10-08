@@ -1,9 +1,12 @@
 ---
 slug: ports-of-auckland-not-an-isolated-case
-title: "Ports of Auckland not an isolated case"
-date: 2012-04-05
-source-url: https://www.scoop.co.nz/stories/BU1204/S00210/ports-of-auckland-not-an-isolated-case.htm
+title: Ports of Auckland not an isolated case
+date: 2012-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1204/S00210/ports-of-auckland-not-an-isolated-case.htm
 author: massey-university
+permalink: /archive/2012/04/05/ports-of-auckland-not-an-isolated-case/index.html
+layout: layout.njk
 ---
 Ports of Auckland not an isolated case
 ======================================

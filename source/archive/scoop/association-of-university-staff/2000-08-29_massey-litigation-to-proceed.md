@@ -1,9 +1,11 @@
 ---
 slug: massey-litigation-to-proceed
-title: "Massey litigation to proceed"
-date: 2000-08-29
+title: Massey litigation to proceed
+date: 2000-08-29T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0008/S00053/massey-litigation-to-proceed.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/29/massey-litigation-to-proceed/index.html
+layout: layout.njk
 ---
 Massey litigation to proceed
 ============================

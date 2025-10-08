@@ -1,9 +1,13 @@
 ---
 slug: after-aotea-square-we-must-have-level-1-tomorrow
-title: "After Aotea Square, We Must Have Level 1 Tomorrow."
-date: 2020-06-01
-source-url: https://www.scoop.co.nz/stories/PO2006/S00008/after-aotea-square-we-must-have-level-1-tomorrow.htm
+title: After Aotea Square, We Must Have Level 1 Tomorrow.
+date: 2020-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2006/S00008/after-aotea-square-we-must-have-level-1-tomorrow.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/06/01/after-aotea-square-we-must-have-level-1-tomorrow/index.html
+layout: layout.njk
 ---
 After Aotea Square, We Must Have Level 1 Tomorrow.
 ==================================================

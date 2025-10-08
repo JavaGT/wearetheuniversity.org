@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-special-effects-designer
-title: "Honorary doctorate for special effects designer"
-date: 2011-05-25
-source-url: https://www.scoop.co.nz/stories/ED1105/S00100/honorary-doctorate-for-special-effects-designer.htm
+title: Honorary doctorate for special effects designer
+date: 2011-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1105/S00100/honorary-doctorate-for-special-effects-designer.htm
 author: massey-university
+permalink: /archive/2011/05/25/honorary-doctorate-for-special-effects-designer/index.html
+layout: layout.njk
 ---
 Honorary doctorate for special effects designer
 ===============================================

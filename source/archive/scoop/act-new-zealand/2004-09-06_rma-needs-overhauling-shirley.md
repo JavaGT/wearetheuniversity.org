@@ -1,9 +1,12 @@
 ---
 slug: rma-needs-overhauling-shirley
-title: "RMA Needs Overhauling - Shirley"
-date: 2004-09-06
-source-url: https://www.scoop.co.nz/stories/PA0409/S00097/rma-needs-overhauling-shirley.htm
+title: RMA Needs Overhauling - Shirley
+date: 2004-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00097/rma-needs-overhauling-shirley.htm
 author: act-new-zealand
+permalink: /archive/2004/09/06/rma-needs-overhauling-shirley/index.html
+layout: layout.njk
 ---
 RMA Needs Overhauling - Shirley
 ===============================

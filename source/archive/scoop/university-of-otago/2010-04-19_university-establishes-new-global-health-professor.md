@@ -1,9 +1,13 @@
 ---
 slug: university-establishes-new-global-health-professor
-title: "University Establishes New Global Health Professor"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/ED1004/S00040/university-establishes-new-global-health-professor.htm
+title: University Establishes New Global Health Professor
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00040/university-establishes-new-global-health-professor.htm
 author: university-of-otago
+permalink: >-
+  /archive/2010/04/19/university-establishes-new-global-health-professor/index.html
+layout: layout.njk
 ---
 University Establishes New Global Health Professor
 ==================================================

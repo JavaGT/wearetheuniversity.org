@@ -1,9 +1,13 @@
 ---
 slug: wellington-event-global-health-in-the-era-of-climate-change
-title: "Wellington Event: Global health in the era of climate change"
-date: 2019-11-04
-source-url: https://www.scoop.co.nz/stories/GE1911/S00015/wellington-event-global-health-in-the-era-of-climate-change.htm
+title: 'Wellington Event: Global health in the era of climate change'
+date: 2019-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1911/S00015/wellington-event-global-health-in-the-era-of-climate-change.htm
 author: university-of-otago
+permalink: >-
+  /archive/2019/11/04/wellington-event-global-health-in-the-era-of-climate-change/index.html
+layout: layout.njk
 ---
 Wellington Event: Global health in the era of climate change
 ============================================================

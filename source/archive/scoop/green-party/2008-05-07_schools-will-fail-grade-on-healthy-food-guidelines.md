@@ -1,9 +1,13 @@
 ---
 slug: schools-will-fail-grade-on-healthy-food-guidelines
-title: "Schools will fail grade on healthy food guidelines"
-date: 2008-05-07
-source-url: https://www.scoop.co.nz/stories/PA0805/S00105/schools-will-fail-grade-on-healthy-food-guidelines.htm
+title: Schools will fail grade on healthy food guidelines
+date: 2008-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00105/schools-will-fail-grade-on-healthy-food-guidelines.htm
 author: green-party
+permalink: >-
+  /archive/2008/05/07/schools-will-fail-grade-on-healthy-food-guidelines/index.html
+layout: layout.njk
 ---
 Schools will fail grade on healthy food guidelines
 ==================================================

@@ -1,9 +1,11 @@
 ---
 slug: matt-king-mp-maiden-speech
-title: "Matt King MP: Maiden speech"
-date: 2017-11-14
+title: 'Matt King MP: Maiden speech'
+date: 2017-11-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1711/S00089/matt-king-mp-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2017/11/14/matt-king-mp-maiden-speech/index.html
+layout: layout.njk
 ---
 Matt King MP: Maiden speech
 ===========================

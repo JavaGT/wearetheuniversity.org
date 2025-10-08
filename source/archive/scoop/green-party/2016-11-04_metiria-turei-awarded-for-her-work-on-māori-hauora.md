@@ -1,9 +1,12 @@
 ---
 slug: metiria-turei-awarded-for-her-work-on-māori-hauora
-title: "Metiria Turei awarded for her work on Māori hauora"
-date: 2016-11-04
-source-url: https://www.scoop.co.nz/stories/PA1611/S00099/metiria-turei-awarded-for-her-work-on-maori-hauora.htm
+title: Metiria Turei awarded for her work on Māori hauora
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00099/metiria-turei-awarded-for-her-work-on-maori-hauora.htm
 author: green-party
+permalink: /archive/2016/11/04/metiria-turei-awarded-for-her-work-on-m/index.html
+layout: layout.njk
 ---
 Metiria Turei awarded for her work on Māori hauora
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: staff-students-march-on-parliament
-title: "Staff, students march on Parliament"
-date: 2005-05-16
-source-url: https://www.scoop.co.nz/stories/ED0505/S00059/staff-students-march-on-parliament.htm
+title: Staff, students march on Parliament
+date: 2005-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00059/staff-students-march-on-parliament.htm
 author: association-of-university-staff
+permalink: /archive/2005/05/16/staff-students-march-on-parliament/index.html
+layout: layout.njk
 ---
 Staff, students march on Parliament
 ===================================

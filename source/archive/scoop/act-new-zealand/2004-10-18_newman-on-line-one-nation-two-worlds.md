@@ -1,9 +1,12 @@
 ---
 slug: newman-on-line-one-nation-two-worlds
-title: "Newman On-Line: One Nation – Two Worlds"
-date: 2004-10-18
-source-url: https://www.scoop.co.nz/stories/PA0410/S00293/newman-on-line-one-nation-two-worlds.htm
+title: 'Newman On-Line: One Nation – Two Worlds'
+date: 2004-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00293/newman-on-line-one-nation-two-worlds.htm
 author: act-new-zealand
+permalink: /archive/2004/10/18/newman-on-line-one-nation-two-worlds/index.html
+layout: layout.njk
 ---
 Newman On-Line: One Nation – Two Worlds
 =======================================

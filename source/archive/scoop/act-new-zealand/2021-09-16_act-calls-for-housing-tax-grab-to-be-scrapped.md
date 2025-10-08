@@ -1,9 +1,12 @@
 ---
 slug: act-calls-for-housing-tax-grab-to-be-scrapped
-title: "ACT calls for housing tax grab to be scrapped"
-date: 2021-09-16
-source-url: https://www.scoop.co.nz/stories/PA2109/S00139/act-calls-for-housing-tax-grab-to-be-scrapped.htm
+title: ACT calls for housing tax grab to be scrapped
+date: 2021-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00139/act-calls-for-housing-tax-grab-to-be-scrapped.htm
 author: act-new-zealand
+permalink: /archive/2021/09/16/act-calls-for-housing-tax-grab-to-be-scrapped/index.html
+layout: layout.njk
 ---
 ACT calls for housing tax grab to be scrapped
 =============================================

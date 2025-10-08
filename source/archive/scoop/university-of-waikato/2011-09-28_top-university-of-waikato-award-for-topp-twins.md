@@ -1,9 +1,12 @@
 ---
 slug: top-university-of-waikato-award-for-topp-twins
-title: "Top University of Waikato award for Topp Twins"
-date: 2011-09-28
-source-url: https://www.scoop.co.nz/stories/CU1109/S00407/top-university-of-waikato-award-for-topp-twins.htm
+title: Top University of Waikato award for Topp Twins
+date: 2011-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1109/S00407/top-university-of-waikato-award-for-topp-twins.htm
 author: university-of-waikato
+permalink: /archive/2011/09/28/top-university-of-waikato-award-for-topp-twins/index.html
+layout: layout.njk
 ---
 Top University of Waikato award for Topp Twins
 ==============================================

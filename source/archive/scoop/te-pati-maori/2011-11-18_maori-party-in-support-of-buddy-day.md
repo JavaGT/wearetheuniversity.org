@@ -1,9 +1,12 @@
 ---
 slug: maori-party-in-support-of-buddy-day
-title: "Maori Party in support of Buddy Day"
-date: 2011-11-18
-source-url: https://www.scoop.co.nz/stories/PA1111/S00380/maori-party-in-support-of-buddy-day.htm
+title: Maori Party in support of Buddy Day
+date: 2011-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1111/S00380/maori-party-in-support-of-buddy-day.htm
 author: te-pati-maori
+permalink: /archive/2011/11/18/maori-party-in-support-of-buddy-day/index.html
+layout: layout.njk
 ---
 Maori Party in support of Buddy Day
 ===================================

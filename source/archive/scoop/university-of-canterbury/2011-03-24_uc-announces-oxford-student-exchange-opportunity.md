@@ -1,9 +1,13 @@
 ---
 slug: uc-announces-oxford-student-exchange-opportunity
-title: "UC announces Oxford student exchange opportunity"
-date: 2011-03-24
-source-url: https://www.scoop.co.nz/stories/ED1103/S00099/uc-announces-oxford-student-exchange-opportunity.htm
+title: UC announces Oxford student exchange opportunity
+date: 2011-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00099/uc-announces-oxford-student-exchange-opportunity.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/03/24/uc-announces-oxford-student-exchange-opportunity/index.html
+layout: layout.njk
 ---
 UC announces Oxford student exchange opportunity
 ================================================

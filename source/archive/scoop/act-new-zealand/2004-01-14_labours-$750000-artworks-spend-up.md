@@ -1,9 +1,12 @@
 ---
 slug: labours-$750000-artworks-spend-up
-title: "Labour's $750,000 Artworks Spend-up"
-date: 2004-01-14
-source-url: https://www.scoop.co.nz/stories/PA0401/S00068/labours-750000-artworks-spend-up.htm
+title: Labour's $750,000 Artworks Spend-up
+date: 2004-01-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00068/labours-750000-artworks-spend-up.htm
 author: act-new-zealand
+permalink: /archive/2004/01/14/labours-/index.html
+layout: layout.njk
 ---
 Labour's $750,000 Artworks Spend-up
 ===================================

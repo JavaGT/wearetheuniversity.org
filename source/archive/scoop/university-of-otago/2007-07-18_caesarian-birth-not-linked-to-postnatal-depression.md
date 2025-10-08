@@ -1,9 +1,13 @@
 ---
 slug: caesarian-birth-not-linked-to-postnatal-depression
-title: "Caesarian Birth Not Linked to Postnatal Depression"
-date: 2007-07-18
-source-url: https://www.scoop.co.nz/stories/GE0707/S00064/caesarian-birth-not-linked-to-postnatal-depression.htm
+title: Caesarian Birth Not Linked to Postnatal Depression
+date: 2007-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0707/S00064/caesarian-birth-not-linked-to-postnatal-depression.htm
 author: university-of-otago
+permalink: >-
+  /archive/2007/07/18/caesarian-birth-not-linked-to-postnatal-depression/index.html
+layout: layout.njk
 ---
 Caesarian Birth Not Linked to Postnatal Depression
 ==================================================

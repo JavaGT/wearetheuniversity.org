@@ -1,9 +1,12 @@
 ---
 slug: ece-cuts-make-mockery-of-govts-priorities
-title: "ECE Cuts Make Mockery of Govt's Priorities"
-date: 2010-06-01
-source-url: https://www.scoop.co.nz/stories/ED1006/S00008/ece-cuts-make-mockery-of-govts-priorities.htm
+title: ECE Cuts Make Mockery of Govt's Priorities
+date: 2010-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1006/S00008/ece-cuts-make-mockery-of-govts-priorities.htm
 author: nzei
+permalink: /archive/2010/06/01/ece-cuts-make-mockery-of-govts-priorities/index.html
+layout: layout.njk
 ---
 ECE Cuts Make Mockery of Govt's Priorities
 ==========================================

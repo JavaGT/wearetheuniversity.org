@@ -1,9 +1,13 @@
 ---
 slug: christchurch-workers-more-likely-to-have-jobs-and-earn-more
-title: "Christchurch workers more likely to have jobs and earn more"
-date: 2016-05-19
-source-url: https://www.scoop.co.nz/stories/AK1605/S00553/christchurch-workers-more-likely-to-have-jobs-and-earn-more.htm
+title: Christchurch workers more likely to have jobs and earn more
+date: 2016-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1605/S00553/christchurch-workers-more-likely-to-have-jobs-and-earn-more.htm
 author: motu
+permalink: >-
+  /archive/2016/05/19/christchurch-workers-more-likely-to-have-jobs-and-earn-more/index.html
+layout: layout.njk
 ---
 Christchurch workers more likely to have jobs and earn more
 ===========================================================

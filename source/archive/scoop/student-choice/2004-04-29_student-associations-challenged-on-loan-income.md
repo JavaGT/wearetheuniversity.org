@@ -1,9 +1,12 @@
 ---
 slug: student-associations-challenged-on-loan-income
-title: "Student Associations Challenged On Loan Income"
-date: 2004-04-29
-source-url: https://www.scoop.co.nz/stories/ED0404/S00111/student-associations-challenged-on-loan-income.htm
+title: Student Associations Challenged On Loan Income
+date: 2004-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00111/student-associations-challenged-on-loan-income.htm
 author: student-choice
+permalink: /archive/2004/04/29/student-associations-challenged-on-loan-income/index.html
+layout: layout.njk
 ---
 Student Associations Challenged On Loan Income
 ==============================================

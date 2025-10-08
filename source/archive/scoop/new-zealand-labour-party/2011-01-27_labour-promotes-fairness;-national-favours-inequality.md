@@ -1,9 +1,12 @@
 ---
 slug: labour-promotes-fairness;-national-favours-inequality
-title: "Labour promotes fairness; National favours inequality"
-date: 2011-01-27
-source-url: https://www.scoop.co.nz/stories/PA1101/S00119/labour-promotes-fairness-national-favours-inequality.htm
+title: Labour promotes fairness; National favours inequality
+date: 2011-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1101/S00119/labour-promotes-fairness-national-favours-inequality.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/01/27/labour-promotes-fairness/index.html
+layout: layout.njk
 ---
 Labour promotes fairness; National favours inequality
 =====================================================

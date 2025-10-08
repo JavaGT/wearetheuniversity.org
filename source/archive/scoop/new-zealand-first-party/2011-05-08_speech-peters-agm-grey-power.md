@@ -1,9 +1,11 @@
 ---
 slug: speech-peters-agm-grey-power
-title: "Speech: Peters - AGM Grey Power"
-date: 2011-05-08
+title: 'Speech: Peters - AGM Grey Power'
+date: 2011-05-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1105/S00112/speech-peters-agm-grey-power.htm
 author: new-zealand-first-party
+permalink: /archive/2011/05/08/speech-peters-agm-grey-power/index.html
+layout: layout.njk
 ---
 Speech: Peters - AGM Grey Power
 ===============================

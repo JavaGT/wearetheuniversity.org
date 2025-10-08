@@ -1,8 +1,12 @@
 ---
 slug: going-digital-the-quiet-revolution-in-the-classroom
-title: "Going digital: the quiet revolution in the classroom"
-date: 2016-06-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/going-digital-quiet-revolution-in-the-classroom.html
+title: 'Going digital: the quiet revolution in the classroom'
+date: 2016-06-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/06/going-digital-quiet-revolution-in-the-classroom.html
+permalink: >-
+  /archive/2016/06/08/going-digital-the-quiet-revolution-in-the-classroom/index.html
+layout: layout.njk
 ---
 Going digital: the quiet revolution in the classroom
 ====================================================

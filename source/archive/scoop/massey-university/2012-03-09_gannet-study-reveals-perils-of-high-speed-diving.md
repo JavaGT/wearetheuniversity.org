@@ -1,9 +1,13 @@
 ---
 slug: gannet-study-reveals-perils-of-high-speed-diving
-title: "Gannet Study Reveals Perils Of High-Speed Diving"
-date: 2012-03-09
-source-url: https://www.scoop.co.nz/stories/ED1203/S00038/gannet-study-reveals-perils-of-high-speed-diving.htm
+title: Gannet Study Reveals Perils Of High-Speed Diving
+date: 2012-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00038/gannet-study-reveals-perils-of-high-speed-diving.htm
 author: massey-university
+permalink: >-
+  /archive/2012/03/09/gannet-study-reveals-perils-of-high-speed-diving/index.html
+layout: layout.njk
 ---
 Gannet Study Reveals Perils Of High-Speed Diving
 ================================================

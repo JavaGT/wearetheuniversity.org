@@ -1,9 +1,12 @@
 ---
 slug: te-pāti-māori-declaration-of-political-independence
-title: "Te Pāti Māori: Declaration Of Political Independence"
-date: 2024-05-30
-source-url: https://www.scoop.co.nz/stories/PA2405/S00212/te-pati-maori-declaration-of-political-independence.htm
+title: 'Te Pāti Māori: Declaration Of Political Independence'
+date: 2024-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00212/te-pati-maori-declaration-of-political-independence.htm
 author: te-pati-maori
+permalink: /archive/2024/05/30/te-p/index.html
+layout: layout.njk
 ---
 Te Pāti Māori: Declaration Of Political Independence
 ====================================================

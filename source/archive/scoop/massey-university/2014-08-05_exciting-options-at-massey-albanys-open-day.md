@@ -1,9 +1,12 @@
 ---
 slug: exciting-options-at-massey-albanys-open-day
-title: "Exciting options at Massey Albany’s Open Day"
-date: 2014-08-05
-source-url: https://www.scoop.co.nz/stories/ED1408/S00024/exciting-options-at-massey-albanys-open-day.htm
+title: Exciting options at Massey Albany’s Open Day
+date: 2014-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00024/exciting-options-at-massey-albanys-open-day.htm
 author: massey-university
+permalink: /archive/2014/08/05/exciting-options-at-massey-albanys-open-day/index.html
+layout: layout.njk
 ---
 Exciting options at Massey Albany’s Open Day
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: sexual-violence-prevention-among-hundreds-of-job-cuts-at-acc
-title: "Sexual Violence Prevention Among Hundreds Of Job Cuts At ACC"
-date: 2024-05-09
-source-url: https://www.scoop.co.nz/stories/PA2405/S00068/sexual-violence-prevention-among-hundreds-of-job-cuts-at-acc.htm
+title: Sexual Violence Prevention Among Hundreds Of Job Cuts At ACC
+date: 2024-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00068/sexual-violence-prevention-among-hundreds-of-job-cuts-at-acc.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2024/05/09/sexual-violence-prevention-among-hundreds-of-job-cuts-at-acc/index.html
+layout: layout.njk
 ---
 Sexual Violence Prevention Among Hundreds Of Job Cuts At ACC
 ============================================================

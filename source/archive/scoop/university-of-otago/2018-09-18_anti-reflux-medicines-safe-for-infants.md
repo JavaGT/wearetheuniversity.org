@@ -1,9 +1,12 @@
 ---
 slug: anti-reflux-medicines-safe-for-infants
-title: "Anti-reflux medicines safe for infants"
-date: 2018-09-18
-source-url: https://www.scoop.co.nz/stories/SC1809/S00026/anti-reflux-medicines-safe-for-infants.htm
+title: Anti-reflux medicines safe for infants
+date: 2018-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1809/S00026/anti-reflux-medicines-safe-for-infants.htm
 author: university-of-otago
+permalink: /archive/2018/09/18/anti-reflux-medicines-safe-for-infants/index.html
+layout: layout.njk
 ---
 Anti-reflux medicines safe for infants
 ======================================

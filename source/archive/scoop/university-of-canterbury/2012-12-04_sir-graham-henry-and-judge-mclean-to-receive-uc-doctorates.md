@@ -1,9 +1,13 @@
 ---
 slug: sir-graham-henry-and-judge-mclean-to-receive-uc-doctorates
-title: "Sir Graham Henry and Judge McLean to receive UC  Doctorates"
-date: 2012-12-04
-source-url: https://www.scoop.co.nz/stories/ED1212/S00012/sir-graham-henry-and-judge-mclean-to-receive-uc-doctorates.htm
+title: Sir Graham Henry and Judge McLean to receive UC  Doctorates
+date: 2012-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1212/S00012/sir-graham-henry-and-judge-mclean-to-receive-uc-doctorates.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/04/sir-graham-henry-and-judge-mclean-to-receive-uc-doctorates/index.html
+layout: layout.njk
 ---
 Sir Graham Henry and Judge McLean to receive UC Doctorates
 ==========================================================

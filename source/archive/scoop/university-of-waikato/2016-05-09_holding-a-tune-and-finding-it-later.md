@@ -1,9 +1,12 @@
 ---
 slug: holding-a-tune-and-finding-it-later
-title: "Holding a tune, and finding it later"
-date: 2016-05-09
-source-url: https://www.scoop.co.nz/stories/ED1605/S00024/holding-a-tune-and-finding-it-later.htm
+title: Holding a tune, and finding it later
+date: 2016-05-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00024/holding-a-tune-and-finding-it-later.htm
 author: university-of-waikato
+permalink: /archive/2016/05/09/holding-a-tune-and-finding-it-later/index.html
+layout: layout.njk
 ---
 Holding a tune, and finding it later
 ====================================

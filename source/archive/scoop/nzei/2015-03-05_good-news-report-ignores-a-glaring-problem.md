@@ -1,9 +1,12 @@
 ---
 slug: good-news-report-ignores-a-glaring-problem
-title: "Good news report ignores a glaring problem"
-date: 2015-03-05
-source-url: https://www.scoop.co.nz/stories/ED1503/S00020/good-news-report-ignores-a-glaring-problem.htm
+title: Good news report ignores a glaring problem
+date: 2015-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1503/S00020/good-news-report-ignores-a-glaring-problem.htm
 author: nzei
+permalink: /archive/2015/03/05/good-news-report-ignores-a-glaring-problem/index.html
+layout: layout.njk
 ---
 Good news report ignores a glaring problem
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: research-shows-kauri-dieback-older-than-we-thought
-title: "Research Shows Kauri Dieback Older Than We Thought"
-date: 2017-12-18
-source-url: https://www.scoop.co.nz/stories/SC1712/S00032/research-shows-kauri-dieback-older-than-we-thought.htm
+title: Research Shows Kauri Dieback Older Than We Thought
+date: 2017-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1712/S00032/research-shows-kauri-dieback-older-than-we-thought.htm
 author: lincoln-university
+permalink: >-
+  /archive/2017/12/18/research-shows-kauri-dieback-older-than-we-thought/index.html
+layout: layout.njk
 ---
 Research Shows Kauri Dieback Older Than We Thought
 ==================================================

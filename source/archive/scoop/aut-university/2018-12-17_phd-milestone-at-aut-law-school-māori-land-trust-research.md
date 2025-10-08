@@ -1,9 +1,12 @@
 ---
 slug: phd-milestone-at-aut-law-school-māori-land-trust-research
-title: "PhD Milestone at AUT Law School – Māori land trust research"
-date: 2018-12-17
-source-url: https://www.scoop.co.nz/stories/ED1812/S00041/phd-milestone-at-aut-law-school-maori-land-trust-research.htm
+title: PhD Milestone at AUT Law School – Māori land trust research
+date: 2018-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00041/phd-milestone-at-aut-law-school-maori-land-trust-research.htm
 author: aut-university
+permalink: /archive/2018/12/17/phd-milestone-at-aut-law-school-m/index.html
+layout: layout.njk
 ---
 PhD Milestone at AUT Law School – Māori land trust research
 ===========================================================

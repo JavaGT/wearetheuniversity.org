@@ -1,9 +1,12 @@
 ---
 slug: labours-ideology-threatens-pasifika-potential
-title: "Labour’s ideology threatens Pasifika potential"
-date: 2018-04-12
-source-url: https://www.scoop.co.nz/stories/PA1804/S00143/labours-ideology-threatens-pasifika-potential.htm
+title: Labour’s ideology threatens Pasifika potential
+date: 2018-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1804/S00143/labours-ideology-threatens-pasifika-potential.htm
 author: new-zealand-national-party
+permalink: /archive/2018/04/12/labours-ideology-threatens-pasifika-potential/index.html
+layout: layout.njk
 ---
 Labour’s ideology threatens Pasifika potential
 ==============================================

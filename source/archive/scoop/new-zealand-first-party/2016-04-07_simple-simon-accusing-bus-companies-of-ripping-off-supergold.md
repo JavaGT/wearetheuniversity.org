@@ -1,9 +1,13 @@
 ---
 slug: simple-simon-accusing-bus-companies-of-ripping-off-supergold
-title: "Simple Simon Accusing Bus Companies of Ripping Off Supergold"
-date: 2016-04-07
-source-url: https://www.scoop.co.nz/stories/PA1604/S00102/simple-simon-accusing-bus-companies-of-ripping-off-supergold.htm
+title: Simple Simon Accusing Bus Companies of Ripping Off Supergold
+date: 2016-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00102/simple-simon-accusing-bus-companies-of-ripping-off-supergold.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/04/07/simple-simon-accusing-bus-companies-of-ripping-off-supergold/index.html
+layout: layout.njk
 ---
 Simple Simon Accusing Bus Companies of Ripping Off Supergold
 ============================================================

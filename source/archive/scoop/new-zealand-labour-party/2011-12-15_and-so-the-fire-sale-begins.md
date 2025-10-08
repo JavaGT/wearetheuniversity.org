@@ -1,9 +1,11 @@
 ---
 slug: and-so-the-fire-sale-begins
-title: "And so the fire sale begins"
-date: 2011-12-15
+title: And so the fire sale begins
+date: 2011-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1112/S00106/and-so-the-fire-sale-begins.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/15/and-so-the-fire-sale-begins/index.html
+layout: layout.njk
 ---
 And so the fire sale begins
 ===========================

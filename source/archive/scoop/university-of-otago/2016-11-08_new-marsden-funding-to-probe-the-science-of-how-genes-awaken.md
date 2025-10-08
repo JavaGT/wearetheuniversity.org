@@ -1,9 +1,13 @@
 ---
 slug: new-marsden-funding-to-probe-the-science-of-how-genes-awaken
-title: "New Marsden funding to probe the science of how genes awaken"
-date: 2016-11-08
-source-url: https://www.scoop.co.nz/stories/SC1611/S00010/new-marsden-funding-to-probe-the-science-of-how-genes-awaken.htm
+title: New Marsden funding to probe the science of how genes awaken
+date: 2016-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1611/S00010/new-marsden-funding-to-probe-the-science-of-how-genes-awaken.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/11/08/new-marsden-funding-to-probe-the-science-of-how-genes-awaken/index.html
+layout: layout.njk
 ---
 New Marsden funding to probe the science of how genes awaken
 ============================================================

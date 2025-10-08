@@ -1,9 +1,13 @@
 ---
 slug: ian-ewen-street-address-organics-2000-conference
-title: "Ian Ewen-Street Address Organics 2000 Conference"
-date: 2000-05-22
-source-url: https://www.scoop.co.nz/stories/PA0005/S00463/ian-ewen-street-address-organics-2000-conference.htm
+title: Ian Ewen-Street Address Organics 2000 Conference
+date: 2000-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0005/S00463/ian-ewen-street-address-organics-2000-conference.htm
 author: green-party
+permalink: >-
+  /archive/2000/05/22/ian-ewen-street-address-organics-2000-conference/index.html
+layout: layout.njk
 ---
 Ian Ewen-Street Address Organics 2000 Conference
 ================================================

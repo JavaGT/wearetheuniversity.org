@@ -1,9 +1,12 @@
 ---
 slug: peters-our-promise-to-you-we-deliver
-title: "Peters: Our Promise To You – We Deliver"
-date: 2008-08-11
-source-url: https://www.scoop.co.nz/stories/PA0808/S00172/peters-our-promise-to-you-we-deliver.htm
+title: 'Peters: Our Promise To You – We Deliver'
+date: 2008-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00172/peters-our-promise-to-you-we-deliver.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/11/peters-our-promise-to-you-we-deliver/index.html
+layout: layout.njk
 ---
 Peters: Our Promise To You – We Deliver
 =======================================

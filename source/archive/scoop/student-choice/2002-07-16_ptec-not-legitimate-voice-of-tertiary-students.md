@@ -1,9 +1,12 @@
 ---
 slug: ptec-not-legitimate-voice-of-tertiary-students
-title: "PTEC Not Legitimate Voice Of Tertiary Students"
-date: 2002-07-16
-source-url: https://www.scoop.co.nz/stories/ED0207/S00028/ptec-not-legitimate-voice-of-tertiary-students.htm
+title: PTEC Not Legitimate Voice Of Tertiary Students
+date: 2002-07-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00028/ptec-not-legitimate-voice-of-tertiary-students.htm
 author: student-choice
+permalink: /archive/2002/07/16/ptec-not-legitimate-voice-of-tertiary-students/index.html
+layout: layout.njk
 ---
 PTEC Not Legitimate Voice Of Tertiary Students
 ==============================================

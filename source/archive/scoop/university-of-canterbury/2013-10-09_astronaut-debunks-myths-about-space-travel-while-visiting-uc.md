@@ -1,9 +1,13 @@
 ---
 slug: astronaut-debunks-myths-about-space-travel-while-visiting-uc
-title: "Astronaut debunks myths about space travel while visiting UC"
-date: 2013-10-09
-source-url: https://www.scoop.co.nz/stories/SC1310/S00016/astronaut-debunks-myths-about-space-travel-while-visiting-uc.htm
+title: Astronaut debunks myths about space travel while visiting UC
+date: 2013-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00016/astronaut-debunks-myths-about-space-travel-while-visiting-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/09/astronaut-debunks-myths-about-space-travel-while-visiting-uc/index.html
+layout: layout.njk
 ---
 Astronaut debunks myths about space travel while visiting UC
 ============================================================

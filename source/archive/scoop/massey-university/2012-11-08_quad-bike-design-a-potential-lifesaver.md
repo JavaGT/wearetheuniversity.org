@@ -1,9 +1,12 @@
 ---
 slug: quad-bike-design-a-potential-lifesaver
-title: "Quad bike design a potential lifesaver"
-date: 2012-11-08
-source-url: https://www.scoop.co.nz/stories/ED1211/S00061/quad-bike-design-a-potential-lifesaver.htm
+title: Quad bike design a potential lifesaver
+date: 2012-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00061/quad-bike-design-a-potential-lifesaver.htm
 author: massey-university
+permalink: /archive/2012/11/08/quad-bike-design-a-potential-lifesaver/index.html
+layout: layout.njk
 ---
 Quad bike design a potential lifesaver
 ======================================

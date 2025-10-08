@@ -1,9 +1,12 @@
 ---
 slug: teachers-tangled-in-hipkins-web-of-failure
-title: "Teachers Tangled In Hipkins’ Web Of Failure"
-date: 2022-02-12
-source-url: https://www.scoop.co.nz/stories/PA2202/S00080/teachers-tangled-in-hipkins-web-of-failure.htm
+title: Teachers Tangled In Hipkins’ Web Of Failure
+date: 2022-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00080/teachers-tangled-in-hipkins-web-of-failure.htm
 author: new-zealand-national-party
+permalink: /archive/2022/02/12/teachers-tangled-in-hipkins-web-of-failure/index.html
+layout: layout.njk
 ---
 Teachers Tangled In Hipkins’ Web Of Failure
 ===========================================

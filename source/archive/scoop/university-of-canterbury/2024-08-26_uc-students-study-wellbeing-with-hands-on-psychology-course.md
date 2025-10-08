@@ -1,9 +1,13 @@
 ---
 slug: uc-students-study-wellbeing-with-hands-on-psychology-course
-title: "UC Students Study Wellbeing With Hands-On Psychology Course"
-date: 2024-08-26
-source-url: https://www.scoop.co.nz/stories/ED2408/S00055/uc-students-study-wellbeing-with-hands-on-psychology-course.htm
+title: UC Students Study Wellbeing With Hands-On Psychology Course
+date: 2024-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00055/uc-students-study-wellbeing-with-hands-on-psychology-course.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/26/uc-students-study-wellbeing-with-hands-on-psychology-course/index.html
+layout: layout.njk
 ---
 UC Students Study Wellbeing With Hands-On Psychology Course
 ===========================================================

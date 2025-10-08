@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-looking-at-how-life-began-on-earth
-title: "UC researcher looking at how life began on Earth"
-date: 2013-01-20
-source-url: https://www.scoop.co.nz/stories/ED1301/S00038/uc-researcher-looking-at-how-life-began-on-earth.htm
+title: UC researcher looking at how life began on Earth
+date: 2013-01-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1301/S00038/uc-researcher-looking-at-how-life-began-on-earth.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/01/20/uc-researcher-looking-at-how-life-began-on-earth/index.html
+layout: layout.njk
 ---
 UC researcher looking at how life began on Earth
 ================================================

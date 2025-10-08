@@ -1,9 +1,12 @@
 ---
 slug: allowance-cuts-will-reduce-access-to-education
-title: "Allowance Cuts Will Reduce Access to Education"
-date: 2012-05-01
-source-url: https://www.scoop.co.nz/stories/PA1205/S00012/allowance-cuts-will-reduce-access-to-education.htm
+title: Allowance Cuts Will Reduce Access to Education
+date: 2012-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1205/S00012/allowance-cuts-will-reduce-access-to-education.htm
 author: green-party
+permalink: /archive/2012/05/01/allowance-cuts-will-reduce-access-to-education/index.html
+layout: layout.njk
 ---
 Allowance Cuts Will Reduce Access to Education
 ==============================================

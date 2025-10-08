@@ -1,9 +1,13 @@
 ---
 slug: nz-banning-sunbeds-will-have-little-impact-on-jobs
-title: "NZ banning sunbeds will have little impact on jobs"
-date: 2016-12-02
-source-url: https://www.scoop.co.nz/stories/GE1612/S00005/nz-banning-sunbeds-will-have-little-impact-on-jobs.htm
+title: NZ banning sunbeds will have little impact on jobs
+date: 2016-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1612/S00005/nz-banning-sunbeds-will-have-little-impact-on-jobs.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/12/02/nz-banning-sunbeds-will-have-little-impact-on-jobs/index.html
+layout: layout.njk
 ---
 NZ banning sunbeds will have little impact on jobs
 ==================================================

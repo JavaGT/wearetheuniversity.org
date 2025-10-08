@@ -1,9 +1,12 @@
 ---
 slug: visit-by-richard-epstein-university-of-chicago
-title: "Visit by Richard Epstein, University of Chicago"
-date: 2004-06-03
-source-url: https://www.scoop.co.nz/stories/BU0406/S00064/visit-by-richard-epstein-university-of-chicago.htm
+title: Visit by Richard Epstein, University of Chicago
+date: 2004-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0406/S00064/visit-by-richard-epstein-university-of-chicago.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2004/06/03/visit-by-richard-epstein-university-of-chicago/index.html
+layout: layout.njk
 ---
 Visit by Richard Epstein, University of Chicago
 ===============================================

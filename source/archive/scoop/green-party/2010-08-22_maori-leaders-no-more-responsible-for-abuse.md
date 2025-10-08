@@ -1,9 +1,12 @@
 ---
 slug: maori-leaders-no-more-responsible-for-abuse
-title: "Maori Leaders No More Responsible For Abuse"
-date: 2010-08-22
-source-url: https://www.scoop.co.nz/stories/PA1008/S00323/maori-leaders-no-more-responsible-for-abuse.htm
+title: Maori Leaders No More Responsible For Abuse
+date: 2010-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00323/maori-leaders-no-more-responsible-for-abuse.htm
 author: green-party
+permalink: /archive/2010/08/22/maori-leaders-no-more-responsible-for-abuse/index.html
+layout: layout.njk
 ---
 Maori Leaders No More Responsible For Abuse
 ===========================================

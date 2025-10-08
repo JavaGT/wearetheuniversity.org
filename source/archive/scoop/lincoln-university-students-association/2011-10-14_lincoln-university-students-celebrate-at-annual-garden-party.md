@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-students-celebrate-at-annual-garden-party
-title: "Lincoln University Students Celebrate at Annual Garden Party"
-date: 2011-10-14
-source-url: https://www.scoop.co.nz/stories/ED1110/S00063/lincoln-university-students-celebrate-at-annual-garden-party.htm
+title: Lincoln University Students Celebrate at Annual Garden Party
+date: 2011-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00063/lincoln-university-students-celebrate-at-annual-garden-party.htm
 author: lincoln-university-students-association
+permalink: >-
+  /archive/2011/10/14/lincoln-university-students-celebrate-at-annual-garden-party/index.html
+layout: layout.njk
 ---
 Lincoln University Students Celebrate at Annual Garden Party
 ============================================================

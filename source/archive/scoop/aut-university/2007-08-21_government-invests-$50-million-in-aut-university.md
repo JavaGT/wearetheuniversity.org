@@ -1,9 +1,12 @@
 ---
 slug: government-invests-$50-million-in-aut-university
-title: "Government invests $50 million in AUT University"
-date: 2007-08-21
-source-url: https://www.scoop.co.nz/stories/ED0708/S00056/government-invests-50-million-in-aut-university.htm
+title: Government invests $50 million in AUT University
+date: 2007-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0708/S00056/government-invests-50-million-in-aut-university.htm
 author: aut-university
+permalink: /archive/2007/08/21/government-invests-/index.html
+layout: layout.njk
 ---
 Government invests $50 million in AUT University
 ================================================

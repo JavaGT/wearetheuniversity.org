@@ -1,9 +1,12 @@
 ---
 slug: little-backing-the-kiwi-dream
-title: "Little: Backing The Kiwi Dream"
-date: 2016-02-01
-source-url: https://www.scoop.co.nz/stories/PA1602/S00002/little-backing-the-kiwi-dream.htm
+title: 'Little: Backing The Kiwi Dream'
+date: 2016-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00002/little-backing-the-kiwi-dream.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/02/01/little-backing-the-kiwi-dream/index.html
+layout: layout.njk
 ---
 Little: Backing The Kiwi Dream
 ==============================

@@ -1,9 +1,12 @@
 ---
 slug: pioneering-mâori-author-receive-honorary-doctorate
-title: "Pioneering Mâori Author Receive Honorary Doctorate"
-date: 2003-08-06
-source-url: https://www.scoop.co.nz/stories/ED0308/S00022/pioneering-maori-author-receive-honorary-doctorate.htm
+title: Pioneering Mâori Author Receive Honorary Doctorate
+date: 2003-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00022/pioneering-maori-author-receive-honorary-doctorate.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/08/06/pioneering-m/index.html
+layout: layout.njk
 ---
 Pioneering Mâori Author Receive Honorary Doctorate
 ==================================================

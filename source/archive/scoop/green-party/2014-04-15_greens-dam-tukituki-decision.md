@@ -1,9 +1,11 @@
 ---
 slug: greens-dam-tukituki-decision
-title: "Greens dam Tukituki decision"
-date: 2014-04-15
+title: Greens dam Tukituki decision
+date: 2014-04-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1404/S00264/greens-dam-tukituki-decision.htm
 author: green-party
+permalink: /archive/2014/04/15/greens-dam-tukituki-decision/index.html
+layout: layout.njk
 ---
 Greens dam Tukituki decision
 ============================

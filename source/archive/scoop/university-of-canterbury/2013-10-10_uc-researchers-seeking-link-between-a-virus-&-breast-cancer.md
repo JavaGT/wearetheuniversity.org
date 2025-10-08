@@ -1,9 +1,12 @@
 ---
 slug: uc-researchers-seeking-link-between-a-virus-&-breast-cancer
-title: "UC researchers seeking link between a virus & breast cancer"
-date: 2013-10-10
-source-url: https://www.scoop.co.nz/stories/SC1310/S00017/uc-researchers-seeking-link-between-a-virus-breast-cancer.htm
+title: UC researchers seeking link between a virus & breast cancer
+date: 2013-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00017/uc-researchers-seeking-link-between-a-virus-breast-cancer.htm
 author: university-of-canterbury
+permalink: /archive/2013/10/10/uc-researchers-seeking-link-between-a-virus-/index.html
+layout: layout.njk
 ---
 UC researchers seeking link between a virus & breast cancer
 ===========================================================

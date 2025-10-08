@@ -1,9 +1,12 @@
 ---
 slug: pasifika-unemployment-at-unacceptable-levels
-title: "Pasifika Unemployment at Unacceptable Levels"
-date: 2012-11-13
-source-url: https://www.scoop.co.nz/stories/PA1211/S00215/pasifika-unemployment-at-unacceptable-levels.htm
+title: Pasifika Unemployment at Unacceptable Levels
+date: 2012-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00215/pasifika-unemployment-at-unacceptable-levels.htm
 author: new-zealand-first-party
+permalink: /archive/2012/11/13/pasifika-unemployment-at-unacceptable-levels/index.html
+layout: layout.njk
 ---
 Pasifika Unemployment at Unacceptable Levels
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: underage-abortions-parents-right-to-know
-title: "Underage abortions: parents’ right to know"
-date: 2004-09-13
-source-url: https://www.scoop.co.nz/stories/PA0409/S00237/underage-abortions-parents-right-to-know.htm
+title: 'Underage abortions: parents’ right to know'
+date: 2004-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0409/S00237/underage-abortions-parents-right-to-know.htm
 author: new-zealand-national-party
+permalink: /archive/2004/09/13/underage-abortions-parents-right-to-know/index.html
+layout: layout.njk
 ---
 Underage abortions: parents’ right to know
 ==========================================

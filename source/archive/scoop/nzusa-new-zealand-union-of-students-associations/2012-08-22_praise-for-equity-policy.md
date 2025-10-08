@@ -1,9 +1,11 @@
 ---
 slug: praise-for-equity-policy
-title: "Praise for Equity Policy"
-date: 2012-08-22
+title: Praise for Equity Policy
+date: 2012-08-22T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1208/S00324/praise-for-equity-policy.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/08/22/praise-for-equity-policy/index.html
+layout: layout.njk
 ---
 Praise for Equity Policy
 ========================

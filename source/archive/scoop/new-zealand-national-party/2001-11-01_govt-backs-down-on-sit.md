@@ -1,9 +1,11 @@
 ---
 slug: govt-backs-down-on-sit
-title: "Govt Backs Down On SIT"
-date: 2001-11-01
+title: Govt Backs Down On SIT
+date: 2001-11-01T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0111/S00007/govt-backs-down-on-sit.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/01/govt-backs-down-on-sit/index.html
+layout: layout.njk
 ---
 Govt Backs Down On SIT
 ======================

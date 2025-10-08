@@ -1,9 +1,12 @@
 ---
 slug: software-engineering-brings-success-for-student
-title: "Software engineering brings success for student"
-date: 2009-05-26
-source-url: https://www.scoop.co.nz/stories/ED0905/S00103/software-engineering-brings-success-for-student.htm
+title: Software engineering brings success for student
+date: 2009-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00103/software-engineering-brings-success-for-student.htm
 author: university-of-waikato
+permalink: /archive/2009/05/26/software-engineering-brings-success-for-student/index.html
+layout: layout.njk
 ---
 Software engineering brings success for student
 ===============================================

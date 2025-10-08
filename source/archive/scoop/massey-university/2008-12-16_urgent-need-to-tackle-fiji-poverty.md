@@ -1,9 +1,12 @@
 ---
 slug: urgent-need-to-tackle-fiji-poverty
-title: "Urgent need to tackle Fiji poverty"
-date: 2008-12-16
-source-url: https://www.scoop.co.nz/stories/PO0812/S00210/urgent-need-to-tackle-fiji-poverty.htm
+title: Urgent need to tackle Fiji poverty
+date: 2008-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0812/S00210/urgent-need-to-tackle-fiji-poverty.htm
 author: massey-university
+permalink: /archive/2008/12/16/urgent-need-to-tackle-fiji-poverty/index.html
+layout: layout.njk
 ---
 Urgent need to tackle Fiji poverty
 ==================================

@@ -1,9 +1,11 @@
 ---
 slug: national-enough-teachers-now
-title: "National: Enough teachers now"
-date: 2006-08-23
+title: 'National: Enough teachers now'
+date: 2006-08-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0608/S00403/national-enough-teachers-now.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/23/national-enough-teachers-now/index.html
+layout: layout.njk
 ---
 National: Enough teachers now
 =============================

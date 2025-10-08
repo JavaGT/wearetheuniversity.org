@@ -1,9 +1,13 @@
 ---
 slug: research-finds-ethnic-disparities-in-nz-child-protection
-title: "Research finds ethnic disparities in NZ child protection"
-date: 2019-07-19
-source-url: https://www.scoop.co.nz/stories/PO1907/S00218/research-finds-ethnic-disparities-in-nz-child-protection.htm
+title: Research finds ethnic disparities in NZ child protection
+date: 2019-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1907/S00218/research-finds-ethnic-disparities-in-nz-child-protection.htm
 author: aut-university
+permalink: >-
+  /archive/2019/07/19/research-finds-ethnic-disparities-in-nz-child-protection/index.html
+layout: layout.njk
 ---
 Research finds ethnic disparities in NZ child protection
 ========================================================

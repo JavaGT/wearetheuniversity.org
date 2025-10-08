@@ -1,9 +1,12 @@
 ---
 slug: indonesia-and-christian-muslim-relations
-title: "Indonesia And Christian-Muslim Relations"
-date: 2003-08-15
-source-url: https://www.scoop.co.nz/stories/ED0308/S00053/indonesia-and-christian-muslim-relations.htm
+title: Indonesia And Christian-Muslim Relations
+date: 2003-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00053/indonesia-and-christian-muslim-relations.htm
 author: waikato-university
+permalink: /archive/2003/08/15/indonesia-and-christian-muslim-relations/index.html
+layout: layout.njk
 ---
 Indonesia And Christian-Muslim Relations
 ========================================

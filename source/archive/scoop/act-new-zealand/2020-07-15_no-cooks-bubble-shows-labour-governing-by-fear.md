@@ -1,9 +1,12 @@
 ---
 slug: no-cooks-bubble-shows-labour-governing-by-fear
-title: "No Cooks Bubble Shows Labour Governing By Fear"
-date: 2020-07-15
-source-url: https://www.scoop.co.nz/stories/PA2007/S00127/no-cooks-bubble-shows-labour-governing-by-fear.htm
+title: No Cooks Bubble Shows Labour Governing By Fear
+date: 2020-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2007/S00127/no-cooks-bubble-shows-labour-governing-by-fear.htm
 author: act-new-zealand
+permalink: /archive/2020/07/15/no-cooks-bubble-shows-labour-governing-by-fear/index.html
+layout: layout.njk
 ---
 No Cooks Bubble Shows Labour Governing By Fear
 ==============================================

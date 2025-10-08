@@ -1,9 +1,13 @@
 ---
 slug: aut-first-public-viewing-of-the-shadows-of-shoah-exhibition
-title: "AUT: First public viewing of the Shadows of Shoah Exhibition"
-date: 2013-06-05
-source-url: https://www.scoop.co.nz/stories/CU1306/S00040/aut-first-public-viewing-of-the-shadows-of-shoah-exhibition.htm
+title: 'AUT: First public viewing of the Shadows of Shoah Exhibition'
+date: 2013-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00040/aut-first-public-viewing-of-the-shadows-of-shoah-exhibition.htm
 author: aut-university
+permalink: >-
+  /archive/2013/06/05/aut-first-public-viewing-of-the-shadows-of-shoah-exhibition/index.html
+layout: layout.njk
 ---
 AUT: First public viewing of the Shadows of Shoah Exhibition
 ============================================================

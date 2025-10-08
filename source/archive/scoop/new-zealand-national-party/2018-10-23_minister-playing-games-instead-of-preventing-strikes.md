@@ -1,9 +1,13 @@
 ---
 slug: minister-playing-games-instead-of-preventing-strikes
-title: "Minister playing games instead of preventing strikes"
-date: 2018-10-23
-source-url: https://www.scoop.co.nz/stories/PA1810/S00203/minister-playing-games-instead-of-preventing-strikes.htm
+title: Minister playing games instead of preventing strikes
+date: 2018-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00203/minister-playing-games-instead-of-preventing-strikes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/10/23/minister-playing-games-instead-of-preventing-strikes/index.html
+layout: layout.njk
 ---
 Minister playing games instead of preventing strikes
 ====================================================

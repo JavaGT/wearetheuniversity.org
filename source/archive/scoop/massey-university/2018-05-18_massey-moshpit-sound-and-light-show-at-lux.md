@@ -1,9 +1,12 @@
 ---
 slug: massey-moshpit-sound-and-light-show-at-lux
-title: "Massey MoshPit sound and light show at LUX"
-date: 2018-05-18
-source-url: https://www.scoop.co.nz/stories/AK1805/S00423/massey-moshpit-sound-and-light-show-at-lux.htm
+title: Massey MoshPit sound and light show at LUX
+date: 2018-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1805/S00423/massey-moshpit-sound-and-light-show-at-lux.htm
 author: massey-university
+permalink: /archive/2018/05/18/massey-moshpit-sound-and-light-show-at-lux/index.html
+layout: layout.njk
 ---
 Massey MoshPit sound and light show at LUX
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: med-bim-the-sandwich-wheres-the-meat
-title: "MED BIM the sandwich, where’s the meat?"
-date: 2012-02-02
-source-url: https://www.scoop.co.nz/stories/PA1202/S00021/med-bim-the-sandwich-wheres-the-meat.htm
+title: MED BIM the sandwich, where’s the meat?
+date: 2012-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00021/med-bim-the-sandwich-wheres-the-meat.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/02/med-bim-the-sandwich-wheres-the-meat/index.html
+layout: layout.njk
 ---
 MED BIM the sandwich, where’s the meat?
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: capital-gains-in-the-capital-city
-title: "Capital gains in the capital city"
-date: 2014-07-28
-source-url: https://www.scoop.co.nz/stories/PO1407/S00453/capital-gains-in-the-capital-city.htm
+title: Capital gains in the capital city
+date: 2014-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1407/S00453/capital-gains-in-the-capital-city.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/28/capital-gains-in-the-capital-city/index.html
+layout: layout.njk
 ---
 Capital gains in the capital city
 =================================

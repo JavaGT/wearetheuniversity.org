@@ -1,9 +1,13 @@
 ---
 slug: compensation-calls-after-major-biosecurity-incursion
-title: "Compensation Calls After Major Biosecurity Incursion"
-date: 2016-03-18
-source-url: https://www.scoop.co.nz/stories/PA1603/S00324/compensation-calls-after-major-biosecurity-incursion.htm
+title: Compensation Calls After Major Biosecurity Incursion
+date: 2016-03-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1603/S00324/compensation-calls-after-major-biosecurity-incursion.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/03/18/compensation-calls-after-major-biosecurity-incursion/index.html
+layout: layout.njk
 ---
 Compensation Calls After Major Biosecurity Incursion
 ====================================================

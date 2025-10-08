@@ -1,9 +1,13 @@
 ---
 slug: education-budget-2018-fixing-the-damage-of-the-past
-title: "Education Budget 2018: Fixing the damage of the past"
-date: 2018-05-11
-source-url: https://www.scoop.co.nz/stories/PO1805/S00134/education-budget-2018-fixing-the-damage-of-the-past.htm
+title: 'Education Budget 2018: Fixing the damage of the past'
+date: 2018-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00134/education-budget-2018-fixing-the-damage-of-the-past.htm
 author: nzei
+permalink: >-
+  /archive/2018/05/11/education-budget-2018-fixing-the-damage-of-the-past/index.html
+layout: layout.njk
 ---
 Education Budget 2018: Fixing the damage of the past
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: architecture-competition-a-winner
-title: "Architecture competition a winner"
-date: 2007-06-29
-source-url: https://www.scoop.co.nz/stories/ED0706/S00111/architecture-competition-a-winner.htm
+title: Architecture competition a winner
+date: 2007-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00111/architecture-competition-a-winner.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/06/29/architecture-competition-a-winner/index.html
+layout: layout.njk
 ---
 Architecture competition a winner
 =================================

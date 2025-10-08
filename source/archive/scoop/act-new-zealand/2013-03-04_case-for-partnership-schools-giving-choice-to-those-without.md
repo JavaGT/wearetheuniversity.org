@@ -1,9 +1,13 @@
 ---
 slug: case-for-partnership-schools-giving-choice-to-those-without
-title: "Case for Partnership Schools: Giving Choice to Those Without"
-date: 2013-03-04
-source-url: https://www.scoop.co.nz/stories/PO1303/S00031/case-for-partnership-schools-giving-choice-to-those-without.htm
+title: 'Case for Partnership Schools: Giving Choice to Those Without'
+date: 2013-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1303/S00031/case-for-partnership-schools-giving-choice-to-those-without.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2013/03/04/case-for-partnership-schools-giving-choice-to-those-without/index.html
+layout: layout.njk
 ---
 Case for Partnership Schools: Giving Choice to Those Without
 ============================================================

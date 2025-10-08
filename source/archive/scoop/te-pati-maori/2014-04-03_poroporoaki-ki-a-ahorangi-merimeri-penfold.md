@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-ki-a-ahorangi-merimeri-penfold
-title: "Poroporoaki ki a Ahorangi Merimeri Penfold"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/PA1404/S00062/poroporoaki-ki-a-ahorangi-merimeri-penfold.htm
+title: Poroporoaki ki a Ahorangi Merimeri Penfold
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00062/poroporoaki-ki-a-ahorangi-merimeri-penfold.htm
 author: te-pati-maori
+permalink: /archive/2014/04/03/poroporoaki-ki-a-ahorangi-merimeri-penfold/index.html
+layout: layout.njk
 ---
 Poroporoaki ki a Ahorangi Merimeri Penfold
 ==========================================

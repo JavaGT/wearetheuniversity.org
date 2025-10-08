@@ -1,9 +1,12 @@
 ---
 slug: cultural-competence-unlocks-māori-potential
-title: "Cultural competence unlocks Māori potential"
-date: 2012-07-05
-source-url: https://www.scoop.co.nz/stories/PA1207/S00049/cultural-competence-unlocks-maori-potential.htm
+title: Cultural competence unlocks Māori potential
+date: 2012-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00049/cultural-competence-unlocks-maori-potential.htm
 author: te-pati-maori
+permalink: /archive/2012/07/05/cultural-competence-unlocks-m/index.html
+layout: layout.njk
 ---
 Cultural competence unlocks Māori potential
 ===========================================

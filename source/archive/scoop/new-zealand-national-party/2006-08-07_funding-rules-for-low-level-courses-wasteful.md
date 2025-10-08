@@ -1,9 +1,12 @@
 ---
 slug: funding-rules-for-low-level-courses-wasteful
-title: "Funding rules for low-level courses wasteful"
-date: 2006-08-07
-source-url: https://www.scoop.co.nz/stories/PA0608/S00111/funding-rules-for-low-level-courses-wasteful.htm
+title: Funding rules for low-level courses wasteful
+date: 2006-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00111/funding-rules-for-low-level-courses-wasteful.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/07/funding-rules-for-low-level-courses-wasteful/index.html
+layout: layout.njk
 ---
 Funding rules for low-level courses wasteful
 ============================================

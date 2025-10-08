@@ -1,9 +1,12 @@
 ---
 slug: wotz-language-goin-2-b-in-da-future
-title: "Wotz language goin 2 B in da future?"
-date: 2004-03-10
-source-url: https://www.scoop.co.nz/stories/ED0403/S00040/wotz-language-goin-2-b-in-da-future.htm
+title: Wotz language goin 2 B in da future?
+date: 2004-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00040/wotz-language-goin-2-b-in-da-future.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/10/wotz-language-goin-2-b-in-da-future/index.html
+layout: layout.njk
 ---
 Wotz language goin 2 B in da future?
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: mps-chance-to-do-the-right-thing
-title: "MPs’ chance to do the right thing"
-date: 2013-07-10
-source-url: https://www.scoop.co.nz/stories/PA1307/S00164/mps-chance-to-do-the-right-thing.htm
+title: MPs’ chance to do the right thing
+date: 2013-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00164/mps-chance-to-do-the-right-thing.htm
 author: green-party
+permalink: /archive/2013/07/10/mps-chance-to-do-the-right-thing/index.html
+layout: layout.njk
 ---
 MPs’ chance to do the right thing
 =================================

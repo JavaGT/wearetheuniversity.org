@@ -1,9 +1,12 @@
 ---
 slug: petition-accepted-on-early-reading-instruction
-title: "Petition Accepted On Early Reading Instruction"
-date: 2020-06-15
-source-url: https://www.scoop.co.nz/stories/PA2006/S00128/petition-accepted-on-early-reading-instruction.htm
+title: Petition Accepted On Early Reading Instruction
+date: 2020-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00128/petition-accepted-on-early-reading-instruction.htm
 author: new-zealand-national-party
+permalink: /archive/2020/06/15/petition-accepted-on-early-reading-instruction/index.html
+layout: layout.njk
 ---
 Petition Accepted On Early Reading Instruction
 ==============================================

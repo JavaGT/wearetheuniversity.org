@@ -1,9 +1,12 @@
 ---
 slug: nationals-drill-it-mine-it-sell-it-approach
-title: "National’s ‘drill it, mine it, sell it’ approach"
-date: 2012-01-15
-source-url: https://www.scoop.co.nz/stories/PA1201/S00037/nationals-drill-it-mine-it-sell-it-approach.htm
+title: National’s ‘drill it, mine it, sell it’ approach
+date: 2012-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1201/S00037/nationals-drill-it-mine-it-sell-it-approach.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/01/15/nationals-drill-it-mine-it-sell-it-approach/index.html
+layout: layout.njk
 ---
 National’s ‘drill it, mine it, sell it’ approach
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: mystified-by-ncea-fun-app-helps-track-student-progress
-title: "Mystified by NCEA? Fun app helps track student progress"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/ED1606/S00082/mystified-by-ncea-fun-app-helps-track-student-progress.htm
+title: Mystified by NCEA? Fun app helps track student progress
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00082/mystified-by-ncea-fun-app-helps-track-student-progress.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/23/mystified-by-ncea-fun-app-helps-track-student-progress/index.html
+layout: layout.njk
 ---
 Mystified by NCEA? Fun app helps track student progress
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: tertiary-ed-the-maharey-principle-on-steroids
-title: "Tertiary Ed - the Maharey principle on steroids"
-date: 2001-09-26
-source-url: https://www.scoop.co.nz/stories/PA0109/S00419/tertiary-ed-the-maharey-principle-on-steroids.htm
+title: Tertiary Ed - the Maharey principle on steroids
+date: 2001-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0109/S00419/tertiary-ed-the-maharey-principle-on-steroids.htm
 author: new-zealand-national-party
+permalink: /archive/2001/09/26/tertiary-ed-the-maharey-principle-on-steroids/index.html
+layout: layout.njk
 ---
 Tertiary Ed - the Maharey principle on steroids
 ===============================================

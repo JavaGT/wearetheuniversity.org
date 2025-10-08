@@ -1,9 +1,12 @@
 ---
 slug: animal-welfare-groups-urge-mps-to-vote-for-bill
-title: "Animal welfare groups urge MPs to vote for bill"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/PA1009/S00205/animal-welfare-groups-urge-mps-to-vote-for-bill.htm
+title: Animal welfare groups urge MPs to vote for bill
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1009/S00205/animal-welfare-groups-urge-mps-to-vote-for-bill.htm
 author: green-party
+permalink: /archive/2010/09/14/animal-welfare-groups-urge-mps-to-vote-for-bill/index.html
+layout: layout.njk
 ---
 Animal welfare groups urge MPs to vote for bill
 ===============================================

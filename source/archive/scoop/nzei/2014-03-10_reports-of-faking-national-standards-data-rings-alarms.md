@@ -1,9 +1,13 @@
 ---
 slug: reports-of-faking-national-standards-data-rings-alarms
-title: "Reports of \"faking\" National Standards data rings alarms"
-date: 2014-03-10
-source-url: https://www.scoop.co.nz/stories/PO1403/S00093/reports-of-faking-national-standards-data-rings-alarms.htm
+title: Reports of "faking" National Standards data rings alarms
+date: 2014-03-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1403/S00093/reports-of-faking-national-standards-data-rings-alarms.htm
 author: nzei
+permalink: >-
+  /archive/2014/03/10/reports-of-faking-national-standards-data-rings-alarms/index.html
+layout: layout.njk
 ---
 Reports of “faking” National Standards data rings alarms
 ========================================================

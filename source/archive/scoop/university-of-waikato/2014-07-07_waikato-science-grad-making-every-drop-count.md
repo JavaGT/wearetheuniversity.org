@@ -1,9 +1,12 @@
 ---
 slug: waikato-science-grad-making-every-drop-count
-title: "Waikato science grad making every drop count"
-date: 2014-07-07
-source-url: https://www.scoop.co.nz/stories/AK1407/S00110/waikato-science-grad-making-every-drop-count.htm
+title: Waikato science grad making every drop count
+date: 2014-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1407/S00110/waikato-science-grad-making-every-drop-count.htm
 author: university-of-waikato
+permalink: /archive/2014/07/07/waikato-science-grad-making-every-drop-count/index.html
+layout: layout.njk
 ---
 Waikato science grad making every drop count
 ============================================

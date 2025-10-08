@@ -1,9 +1,12 @@
 ---
 slug: university-offers-first-ever-mandarin-course
-title: "University Offers First-Ever Mandarin Course"
-date: 2012-02-13
-source-url: https://www.scoop.co.nz/stories/WO1202/S00342/university-offers-first-ever-mandarin-course.htm
+title: University Offers First-Ever Mandarin Course
+date: 2012-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1202/S00342/university-offers-first-ever-mandarin-course.htm
 author: university-of-the-south-pacific
+permalink: /archive/2012/02/13/university-offers-first-ever-mandarin-course/index.html
+layout: layout.njk
 ---
 University Offers First-Ever Mandarin Course
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: ch-ch-businesses-had-to-reinvent-themselves-after-the-quakes
-title: "Ch-ch businesses had to reinvent themselves after the quakes"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/BU1208/S00805/ch-ch-businesses-had-to-reinvent-themselves-after-the-quakes.htm
+title: Ch-ch businesses had to reinvent themselves after the quakes
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S00805/ch-ch-businesses-had-to-reinvent-themselves-after-the-quakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/22/ch-ch-businesses-had-to-reinvent-themselves-after-the-quakes/index.html
+layout: layout.njk
 ---
 Ch-ch businesses had to reinvent themselves after the quakes
 ============================================================

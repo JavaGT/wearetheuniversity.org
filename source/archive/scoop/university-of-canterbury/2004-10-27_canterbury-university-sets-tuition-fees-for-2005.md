@@ -1,9 +1,13 @@
 ---
 slug: canterbury-university-sets-tuition-fees-for-2005
-title: "Canterbury University sets tuition fees for 2005"
-date: 2004-10-27
-source-url: https://www.scoop.co.nz/stories/ED0410/S00094/canterbury-university-sets-tuition-fees-for-2005.htm
+title: Canterbury University sets tuition fees for 2005
+date: 2004-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00094/canterbury-university-sets-tuition-fees-for-2005.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/10/27/canterbury-university-sets-tuition-fees-for-2005/index.html
+layout: layout.njk
 ---
 Canterbury University sets tuition fees for 2005
 ================================================

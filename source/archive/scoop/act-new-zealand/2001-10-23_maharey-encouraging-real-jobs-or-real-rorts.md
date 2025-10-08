@@ -1,9 +1,12 @@
 ---
 slug: maharey-encouraging-real-jobs-or-real-rorts
-title: "Maharey: Encouraging Real Jobs? Or Real Rorts?"
-date: 2001-10-23
-source-url: https://www.scoop.co.nz/stories/PA0110/S00401/maharey-encouraging-real-jobs-or-real-rorts.htm
+title: 'Maharey: Encouraging Real Jobs? Or Real Rorts?'
+date: 2001-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0110/S00401/maharey-encouraging-real-jobs-or-real-rorts.htm
 author: act-new-zealand
+permalink: /archive/2001/10/23/maharey-encouraging-real-jobs-or-real-rorts/index.html
+layout: layout.njk
 ---
 Maharey: Encouraging Real Jobs? Or Real Rorts?
 ==============================================

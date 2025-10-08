@@ -1,9 +1,12 @@
 ---
 slug: greens-launch-nation-wide-campus-tour
-title: "Greens launch nation-wide campus tour"
-date: 2000-02-16
-source-url: https://www.scoop.co.nz/stories/PA0002/S00211/greens-launch-nation-wide-campus-tour.htm
+title: Greens launch nation-wide campus tour
+date: 2000-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00211/greens-launch-nation-wide-campus-tour.htm
 author: green-party
+permalink: /archive/2000/02/16/greens-launch-nation-wide-campus-tour/index.html
+layout: layout.njk
 ---
 Greens launch nation-wide campus tour
 =====================================

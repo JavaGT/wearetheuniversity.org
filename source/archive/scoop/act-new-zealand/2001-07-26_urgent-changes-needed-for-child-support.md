@@ -1,9 +1,12 @@
 ---
 slug: urgent-changes-needed-for-child-support
-title: "Urgent Changes Needed For Child Support"
-date: 2001-07-26
-source-url: https://www.scoop.co.nz/stories/PA0107/S00447/urgent-changes-needed-for-child-support.htm
+title: Urgent Changes Needed For Child Support
+date: 2001-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00447/urgent-changes-needed-for-child-support.htm
 author: act-new-zealand
+permalink: /archive/2001/07/26/urgent-changes-needed-for-child-support/index.html
+layout: layout.njk
 ---
 Urgent Changes Needed For Child Support
 =======================================

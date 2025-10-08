@@ -1,9 +1,12 @@
 ---
 slug: violent-crime-gets-worse-under-labour
-title: "Violent crime gets worse under Labour"
-date: 2007-04-02
-source-url: https://www.scoop.co.nz/stories/PA0704/S00023/violent-crime-gets-worse-under-labour.htm
+title: Violent crime gets worse under Labour
+date: 2007-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0704/S00023/violent-crime-gets-worse-under-labour.htm
 author: new-zealand-national-party
+permalink: /archive/2007/04/02/violent-crime-gets-worse-under-labour/index.html
+layout: layout.njk
 ---
 Violent crime gets worse under Labour
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: tariana-turia-speech-to-journalism-students
-title: "Tariana Turia Speech to Journalism Students"
-date: 2008-09-25
-source-url: https://www.scoop.co.nz/stories/PA0809/S00534/tariana-turia-speech-to-journalism-students.htm
+title: Tariana Turia Speech to Journalism Students
+date: 2008-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0809/S00534/tariana-turia-speech-to-journalism-students.htm
 author: te-pati-maori
+permalink: /archive/2008/09/25/tariana-turia-speech-to-journalism-students/index.html
+layout: layout.njk
 ---
 Tariana Turia Speech to Journalism Students
 ===========================================

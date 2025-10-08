@@ -1,9 +1,12 @@
 ---
 slug: green-party-agm-2023-james-shaws-speech
-title: "Green Party AGM 2023: James Shaw’s Speech"
-date: 2023-07-08
-source-url: https://www.scoop.co.nz/stories/PO2307/S00044/green-party-agm-2023-james-shaws-speech.htm
+title: 'Green Party AGM 2023: James Shaw’s Speech'
+date: 2023-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2307/S00044/green-party-agm-2023-james-shaws-speech.htm
 author: green-party
+permalink: /archive/2023/07/08/green-party-agm-2023-james-shaws-speech/index.html
+layout: layout.njk
 ---
 Green Party AGM 2023: James Shaw’s Speech
 =========================================

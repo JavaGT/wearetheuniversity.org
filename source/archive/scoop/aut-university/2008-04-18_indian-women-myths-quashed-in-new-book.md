@@ -1,9 +1,12 @@
 ---
 slug: indian-women-myths-quashed-in-new-book
-title: "Indian women myths quashed in new book"
-date: 2008-04-18
-source-url: https://www.scoop.co.nz/stories/CU0804/S00194/indian-women-myths-quashed-in-new-book.htm
+title: Indian women myths quashed in new book
+date: 2008-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0804/S00194/indian-women-myths-quashed-in-new-book.htm
 author: aut-university
+permalink: /archive/2008/04/18/indian-women-myths-quashed-in-new-book/index.html
+layout: layout.njk
 ---
 Indian women myths quashed in new book
 ======================================

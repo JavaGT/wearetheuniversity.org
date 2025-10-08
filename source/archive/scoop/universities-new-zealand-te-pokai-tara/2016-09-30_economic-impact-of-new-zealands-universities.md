@@ -1,9 +1,12 @@
 ---
 slug: economic-impact-of-new-zealands-universities
-title: "Economic impact of New Zealand’s universities"
-date: 2016-09-30
-source-url: https://www.scoop.co.nz/stories/PO1609/S00388/economic-impact-of-new-zealands-universities.htm
+title: Economic impact of New Zealand’s universities
+date: 2016-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1609/S00388/economic-impact-of-new-zealands-universities.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/09/30/economic-impact-of-new-zealands-universities/index.html
+layout: layout.njk
 ---
 Economic impact of New Zealand’s universities
 =============================================

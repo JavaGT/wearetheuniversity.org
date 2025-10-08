@@ -1,9 +1,12 @@
 ---
 slug: university-guidance-on-new-us-regulations
-date: 2025-01-01
-source: "University of Auckland"
-source-url: "https://research-hub.auckland.ac.nz/research-project-management/identify-explore-and-create-opportunities/international-funding/us-federal-schemes/university-response-to-new-us-regulations"
-title: "University guidance on new U.S. regulations"
+date: 2025-01-01T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://research-hub.auckland.ac.nz/research-project-management/identify-explore-and-create-opportunities/international-funding/us-federal-schemes/university-response-to-new-us-regulations
+title: University guidance on new U.S. regulations
+permalink: /archive/2025/01/01/university-guidance-on-new-us-regulations/index.html
+layout: layout.njk
 ---
 University guidance on new U.S. regulations
 

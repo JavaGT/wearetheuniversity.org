@@ -1,9 +1,12 @@
 ---
 slug: rookies-the-one-to-watch-at-nz-fashion-week
-title: "Rookie’s the one to watch at NZ Fashion Week"
-date: 2004-10-07
-source-url: https://www.scoop.co.nz/stories/ED0410/S00030/rookies-the-one-to-watch-at-nz-fashion-week.htm
+title: Rookie’s the one to watch at NZ Fashion Week
+date: 2004-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00030/rookies-the-one-to-watch-at-nz-fashion-week.htm
 author: aut-university
+permalink: /archive/2004/10/07/rookies-the-one-to-watch-at-nz-fashion-week/index.html
+layout: layout.njk
 ---
 Rookie’s the one to watch at NZ Fashion Week
 ============================================

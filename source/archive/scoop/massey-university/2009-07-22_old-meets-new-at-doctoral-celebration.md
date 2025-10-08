@@ -1,9 +1,12 @@
 ---
 slug: old-meets-new-at-doctoral-celebration
-title: "Old meets new at doctoral celebration"
-date: 2009-07-22
-source-url: https://www.scoop.co.nz/stories/ED0907/S00086/old-meets-new-at-doctoral-celebration.htm
+title: Old meets new at doctoral celebration
+date: 2009-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00086/old-meets-new-at-doctoral-celebration.htm
 author: massey-university
+permalink: /archive/2009/07/22/old-meets-new-at-doctoral-celebration/index.html
+layout: layout.njk
 ---
 Old meets new at doctoral celebration
 =====================================

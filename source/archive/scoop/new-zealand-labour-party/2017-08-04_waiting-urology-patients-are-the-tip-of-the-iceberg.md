@@ -1,9 +1,13 @@
 ---
 slug: waiting-urology-patients-are-the-tip-of-the-iceberg
-title: "Waiting urology patients are the tip of the iceberg"
-date: 2017-08-04
-source-url: https://www.scoop.co.nz/stories/PA1708/S00089/waiting-urology-patients-are-the-tip-of-the-iceberg.htm
+title: Waiting urology patients are the tip of the iceberg
+date: 2017-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00089/waiting-urology-patients-are-the-tip-of-the-iceberg.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2017/08/04/waiting-urology-patients-are-the-tip-of-the-iceberg/index.html
+layout: layout.njk
 ---
 Waiting urology patients are the tip of the iceberg
 ===================================================

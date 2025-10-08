@@ -1,9 +1,12 @@
 ---
 slug: waikato-university-finds-its-mystery-man
-title: "Waikato University Finds Its Mystery Man"
-date: 2010-04-14
-source-url: https://www.scoop.co.nz/stories/ED1004/S00027/waikato-university-finds-its-mystery-man.htm
+title: Waikato University Finds Its Mystery Man
+date: 2010-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00027/waikato-university-finds-its-mystery-man.htm
 author: university-of-waikato
+permalink: /archive/2010/04/14/waikato-university-finds-its-mystery-man/index.html
+layout: layout.njk
 ---
 Waikato University Finds Its Mystery Man
 ========================================

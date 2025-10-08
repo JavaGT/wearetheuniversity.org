@@ -1,9 +1,12 @@
 ---
 slug: gun-control-welcomed-by-greens
-title: "Gun control welcomed by Greens"
-date: 2019-03-21
-source-url: https://www.scoop.co.nz/stories/PA1903/S00136/gun-control-welcomed-by-greens.htm
+title: Gun control welcomed by Greens
+date: 2019-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00136/gun-control-welcomed-by-greens.htm
 author: green-party
+permalink: /archive/2019/03/21/gun-control-welcomed-by-greens/index.html
+layout: layout.njk
 ---
 Gun control welcomed by Greens
 ==============================

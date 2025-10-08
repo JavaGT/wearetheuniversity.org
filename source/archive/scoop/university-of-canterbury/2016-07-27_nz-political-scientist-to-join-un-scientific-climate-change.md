@@ -1,9 +1,13 @@
 ---
 slug: nz-political-scientist-to-join-un-scientific-climate-change
-title: "NZ political scientist to join UN scientific Climate Change"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/SC1607/S00064/nz-political-scientist-to-join-un-scientific-climate-change.htm
+title: NZ political scientist to join UN scientific Climate Change
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1607/S00064/nz-political-scientist-to-join-un-scientific-climate-change.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2016/07/27/nz-political-scientist-to-join-un-scientific-climate-change/index.html
+layout: layout.njk
 ---
 NZ political scientist to join UN scientific Climate Change
 ===========================================================

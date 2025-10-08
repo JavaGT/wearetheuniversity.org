@@ -1,9 +1,13 @@
 ---
 slug: international-students-at-primary-schools-too-valuable-to-shut-out
-title: "International Students At Primary Schools Too Valuable To Shut Out"
-date: 2022-02-22
-source-url: https://www.scoop.co.nz/stories/PA2202/S00155/international-students-at-primary-schools-too-valuable-to-shut-out.htm
+title: International Students At Primary Schools Too Valuable To Shut Out
+date: 2022-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2202/S00155/international-students-at-primary-schools-too-valuable-to-shut-out.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/02/22/international-students-at-primary-schools-too-valuable-to-shut-out/index.html
+layout: layout.njk
 ---
 International Students At Primary Schools Too Valuable To Shut Out
 ==================================================================

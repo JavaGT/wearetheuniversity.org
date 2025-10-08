@@ -1,9 +1,12 @@
 ---
 slug: porirua-pacific-business-trust-office-opening
-title: "Porirua Pacific Business Trust Office Opening"
-date: 2003-02-25
-source-url: https://www.scoop.co.nz/stories/PA0302/S00445/porirua-pacific-business-trust-office-opening.htm
+title: Porirua Pacific Business Trust Office Opening
+date: 2003-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00445/porirua-pacific-business-trust-office-opening.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/02/25/porirua-pacific-business-trust-office-opening/index.html
+layout: layout.njk
 ---
 Porirua Pacific Business Trust Office Opening
 =============================================

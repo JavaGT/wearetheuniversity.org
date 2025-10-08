@@ -1,9 +1,12 @@
 ---
 slug: michael-cullen-not-a-safe-pair-of-hands
-title: "Michael Cullen: Not a Safe Pair of Hands"
-date: 2002-07-23
-source-url: https://www.scoop.co.nz/stories/PA0207/S00603/michael-cullen-not-a-safe-pair-of-hands.htm
+title: 'Michael Cullen: Not a Safe Pair of Hands'
+date: 2002-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0207/S00603/michael-cullen-not-a-safe-pair-of-hands.htm
 author: act-new-zealand
+permalink: /archive/2002/07/23/michael-cullen-not-a-safe-pair-of-hands/index.html
+layout: layout.njk
 ---
 Michael Cullen: Not a Safe Pair of Hands
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: dsir-to-emerge-from-the-ashes
-title: "DSIR to emerge from the ashes?"
-date: 2000-03-31
-source-url: https://www.scoop.co.nz/stories/SC0003/S00026/dsir-to-emerge-from-the-ashes.htm
+title: DSIR to emerge from the ashes?
+date: 2000-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0003/S00026/dsir-to-emerge-from-the-ashes.htm
 author: association-of-university-staff
+permalink: /archive/2000/03/31/dsir-to-emerge-from-the-ashes/index.html
+layout: layout.njk
 ---
 DSIR to emerge from the ashes?
 ==============================

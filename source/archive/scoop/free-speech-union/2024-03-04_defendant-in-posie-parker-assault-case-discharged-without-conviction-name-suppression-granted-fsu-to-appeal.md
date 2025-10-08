@@ -1,9 +1,16 @@
 ---
-slug: defendant-in-posie-parker-assault-case-discharged-without-conviction-name-suppression-granted-fsu-to-appeal
-title: "Defendant In Posie Parker Assault Case Discharged Without Conviction, Name Suppression Granted. FSU To Appeal."
-date: 2024-03-04
-source-url: https://www.scoop.co.nz/stories/AK2403/S00064/defendant-in-posie-parker-assault-case-discharged-without-conviction-name-suppression-granted-fsu-to-appeal.htm
+slug: >-
+  defendant-in-posie-parker-assault-case-discharged-without-conviction-name-suppression-granted-fsu-to-appeal
+title: >-
+  Defendant In Posie Parker Assault Case Discharged Without Conviction, Name
+  Suppression Granted. FSU To Appeal.
+date: 2024-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2403/S00064/defendant-in-posie-parker-assault-case-discharged-without-conviction-name-suppression-granted-fsu-to-appeal.htm
 author: free-speech-union
+permalink: >-
+  /archive/2024/03/04/defendant-in-posie-parker-assault-case-discharged-without-conviction-name-suppression-granted-fsu-to-appeal/index.html
+layout: layout.njk
 ---
 Defendant In Posie Parker Assault Case Discharged Without Conviction, Name Suppression Granted. FSU To Appeal.
 ==============================================================================================================

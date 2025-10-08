@@ -1,9 +1,13 @@
 ---
 slug: better-support-needed-for-education-providers-impacted-by-coronavirus
-title: "Better Support Needed For Education Providers Impacted By Coronavirus"
-date: 2020-03-05
-source-url: https://www.scoop.co.nz/stories/PA2003/S00042/better-support-needed-for-education-providers-impacted-by-coronavirus.htm
+title: Better Support Needed For Education Providers Impacted By Coronavirus
+date: 2020-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2003/S00042/better-support-needed-for-education-providers-impacted-by-coronavirus.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2020/03/05/better-support-needed-for-education-providers-impacted-by-coronavirus/index.html
+layout: layout.njk
 ---
 Better Support Needed For Education Providers Impacted By Coronavirus
 =====================================================================

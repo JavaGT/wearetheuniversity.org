@@ -1,9 +1,13 @@
 ---
 slug: sustainable-supply-chain-expert-joins-university
-title: "Sustainable supply chain expert joins University"
-date: 2007-01-31
-source-url: https://www.scoop.co.nz/stories/BU0701/S00304/sustainable-supply-chain-expert-joins-university.htm
+title: Sustainable supply chain expert joins University
+date: 2007-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0701/S00304/sustainable-supply-chain-expert-joins-university.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2007/01/31/sustainable-supply-chain-expert-joins-university/index.html
+layout: layout.njk
 ---
 Sustainable supply chain expert joins University
 ================================================

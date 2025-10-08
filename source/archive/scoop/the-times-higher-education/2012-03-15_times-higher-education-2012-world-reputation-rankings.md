@@ -1,9 +1,13 @@
 ---
 slug: times-higher-education-2012-world-reputation-rankings
-title: "Times Higher Education 2012 World Reputation Rankings"
-date: 2012-03-15
-source-url: https://www.scoop.co.nz/stories/WO1203/S00251/times-higher-education-2012-world-reputation-rankings.htm
+title: Times Higher Education 2012 World Reputation Rankings
+date: 2012-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1203/S00251/times-higher-education-2012-world-reputation-rankings.htm
 author: the-times-higher-education
+permalink: >-
+  /archive/2012/03/15/times-higher-education-2012-world-reputation-rankings/index.html
+layout: layout.njk
 ---
 Times Higher Education 2012 World Reputation Rankings
 =====================================================

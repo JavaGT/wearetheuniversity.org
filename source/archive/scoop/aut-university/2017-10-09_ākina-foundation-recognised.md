@@ -1,9 +1,11 @@
 ---
 slug: ākina-foundation-recognised
-title: "Ākina Foundation recognised"
-date: 2017-10-09
+title: Ākina Foundation recognised
+date: 2017-10-09T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU1710/S00250/akina-foundation-recognised.htm
 author: aut-university
+permalink: /archive/2017/10/09/kina-foundation-recognised/index.html
+layout: layout.njk
 ---
 Ākina Foundation recognised
 ===========================

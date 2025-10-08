@@ -1,9 +1,12 @@
 ---
 slug: one-health-approach-to-infection
-title: "‘One Health’ approach to infection"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/SC1411/S00030/one-health-approach-to-infection.htm
+title: ‘One Health’ approach to infection
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1411/S00030/one-health-approach-to-infection.htm
 author: university-of-otago
+permalink: /archive/2014/11/11/one-health-approach-to-infection/index.html
+layout: layout.njk
 ---
 ‘One Health’ approach to infection
 ==================================

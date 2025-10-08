@@ -1,9 +1,12 @@
 ---
 slug: turia-debate-into-the-auckland-black-out
-title: "Turia: Debate into the Auckland Black-out"
-date: 2006-06-13
-source-url: https://www.scoop.co.nz/stories/PA0606/S00214/turia-debate-into-the-auckland-black-out.htm
+title: 'Turia: Debate into the Auckland Black-out'
+date: 2006-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0606/S00214/turia-debate-into-the-auckland-black-out.htm
 author: te-pati-maori
+permalink: /archive/2006/06/13/turia-debate-into-the-auckland-black-out/index.html
+layout: layout.njk
 ---
 Turia: Debate into the Auckland Black-out
 =========================================

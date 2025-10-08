@@ -1,9 +1,12 @@
 ---
 slug: gould-issues-health-warning-on-pbrf
-title: "Gould issues 'health warning' on PBRF"
-date: 2004-03-23
-source-url: https://www.scoop.co.nz/stories/ED0403/S00092/gould-issues-health-warning-on-pbrf.htm
+title: Gould issues 'health warning' on PBRF
+date: 2004-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00092/gould-issues-health-warning-on-pbrf.htm
 author: waikato-university
+permalink: /archive/2004/03/23/gould-issues-health-warning-on-pbrf/index.html
+layout: layout.njk
 ---
 Gould issues 'health warning' on PBRF
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: business-school-attracts-pm-and-wallace-artworks
-title: "Business School attracts PM and Wallace artworks"
-date: 2005-11-09
-source-url: https://www.scoop.co.nz/stories/ED0511/S00040/business-school-attracts-pm-and-wallace-artworks.htm
+title: Business School attracts PM and Wallace artworks
+date: 2005-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00040/business-school-attracts-pm-and-wallace-artworks.htm
 author: aut-university
+permalink: >-
+  /archive/2005/11/09/business-school-attracts-pm-and-wallace-artworks/index.html
+layout: layout.njk
 ---
 Business School attracts PM and Wallace artworks
 ================================================

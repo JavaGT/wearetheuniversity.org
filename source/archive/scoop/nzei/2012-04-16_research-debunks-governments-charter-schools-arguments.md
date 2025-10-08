@@ -1,9 +1,13 @@
 ---
 slug: research-debunks-governments-charter-schools-arguments
-title: "Research debunks government’s charter schools arguments"
-date: 2012-04-16
-source-url: https://www.scoop.co.nz/stories/ED1204/S00058/research-debunks-governments-charter-schools-arguments.htm
+title: Research debunks government’s charter schools arguments
+date: 2012-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1204/S00058/research-debunks-governments-charter-schools-arguments.htm
 author: nzei
+permalink: >-
+  /archive/2012/04/16/research-debunks-governments-charter-schools-arguments/index.html
+layout: layout.njk
 ---
 Research debunks government’s charter schools arguments
 =======================================================

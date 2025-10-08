@@ -1,9 +1,12 @@
 ---
 slug: app-may-be-of-interest-to-the-black-caps
-title: "App may be of interest to the Black Caps"
-date: 2015-01-05
-source-url: https://www.scoop.co.nz/stories/CU1501/S00023/app-may-be-of-interest-to-the-black-caps.htm
+title: App may be of interest to the Black Caps
+date: 2015-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1501/S00023/app-may-be-of-interest-to-the-black-caps.htm
 author: university-of-canterbury
+permalink: /archive/2015/01/05/app-may-be-of-interest-to-the-black-caps/index.html
+layout: layout.njk
 ---
 App may be of interest to the Black Caps
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-opening-date-needed-for-transmission-gully
-title: "New Opening Date Needed For Transmission Gully"
-date: 2021-12-22
-source-url: https://www.scoop.co.nz/stories/PA2112/S00174/new-opening-date-needed-for-transmission-gully.htm
+title: New Opening Date Needed For Transmission Gully
+date: 2021-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00174/new-opening-date-needed-for-transmission-gully.htm
 author: new-zealand-national-party
+permalink: /archive/2021/12/22/new-opening-date-needed-for-transmission-gully/index.html
+layout: layout.njk
 ---
 New Opening Date Needed For Transmission Gully
 ==============================================

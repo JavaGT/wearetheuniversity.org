@@ -1,9 +1,12 @@
 ---
 slug: government-failing-to-cut-youth-crime
-title: "Government failing to cut youth crime"
-date: 2004-05-24
-source-url: https://www.scoop.co.nz/stories/PA0405/S00482/government-failing-to-cut-youth-crime.htm
+title: Government failing to cut youth crime
+date: 2004-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00482/government-failing-to-cut-youth-crime.htm
 author: new-zealand-national-party
+permalink: /archive/2004/05/24/government-failing-to-cut-youth-crime/index.html
+layout: layout.njk
 ---
 Government failing to cut youth crime
 =====================================

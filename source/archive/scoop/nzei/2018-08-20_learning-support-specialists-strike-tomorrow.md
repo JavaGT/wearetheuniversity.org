@@ -1,9 +1,12 @@
 ---
 slug: learning-support-specialists-strike-tomorrow
-title: "Learning Support Specialists strike tomorrow"
-date: 2018-08-20
-source-url: https://www.scoop.co.nz/stories/ED1808/S00044/learning-support-specialists-strike-tomorrow.htm
+title: Learning Support Specialists strike tomorrow
+date: 2018-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00044/learning-support-specialists-strike-tomorrow.htm
 author: nzei
+permalink: /archive/2018/08/20/learning-support-specialists-strike-tomorrow/index.html
+layout: layout.njk
 ---
 Learning Support Specialists strike tomorrow
 ============================================

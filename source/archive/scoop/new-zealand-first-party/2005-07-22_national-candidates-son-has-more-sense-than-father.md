@@ -1,9 +1,13 @@
 ---
 slug: national-candidates-son-has-more-sense-than-father
-title: "National Candidates Son Has More Sense Than Father"
-date: 2005-07-22
-source-url: https://www.scoop.co.nz/stories/PA0507/S00487/national-candidates-son-has-more-sense-than-father.htm
+title: National Candidates Son Has More Sense Than Father
+date: 2005-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00487/national-candidates-son-has-more-sense-than-father.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2005/07/22/national-candidates-son-has-more-sense-than-father/index.html
+layout: layout.njk
 ---
 National Candidates Son Has More Sense Than Father
 ==================================================

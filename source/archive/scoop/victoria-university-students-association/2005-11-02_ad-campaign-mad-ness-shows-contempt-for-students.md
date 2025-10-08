@@ -1,9 +1,13 @@
 ---
 slug: ad-campaign-mad-ness-shows-contempt-for-students
-title: "Ad Campaign MAD-ness Shows Contempt for Students"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/ED0511/S00013/ad-campaign-mad-ness-shows-contempt-for-students.htm
+title: Ad Campaign MAD-ness Shows Contempt for Students
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00013/ad-campaign-mad-ness-shows-contempt-for-students.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2005/11/02/ad-campaign-mad-ness-shows-contempt-for-students/index.html
+layout: layout.njk
 ---
 Ad Campaign MAD-ness Shows Contempt for Students
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: pregnant-women-missing-out-on-diabetes-checks
-title: "Pregnant Women Missing Out On Diabetes Checks"
-date: 2020-11-22
-source-url: https://www.scoop.co.nz/stories/GE2011/S00121/pregnant-women-missing-out-on-diabetes-checks.htm
+title: Pregnant Women Missing Out On Diabetes Checks
+date: 2020-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2011/S00121/pregnant-women-missing-out-on-diabetes-checks.htm
 author: university-of-waikato
+permalink: /archive/2020/11/22/pregnant-women-missing-out-on-diabetes-checks/index.html
+layout: layout.njk
 ---
 Pregnant Women Missing Out On Diabetes Checks
 =============================================

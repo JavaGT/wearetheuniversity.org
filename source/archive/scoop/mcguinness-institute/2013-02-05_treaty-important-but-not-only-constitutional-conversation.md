@@ -1,9 +1,13 @@
 ---
 slug: treaty-important-but-not-only-constitutional-conversation
-title: "Treaty important, but not only constitutional conversation"
-date: 2013-02-05
-source-url: https://www.scoop.co.nz/stories/PO1302/S00036/treaty-important-but-not-only-constitutional-conversation.htm
+title: Treaty important, but not only constitutional conversation
+date: 2013-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00036/treaty-important-but-not-only-constitutional-conversation.htm
 author: mcguinness-institute
+permalink: >-
+  /archive/2013/02/05/treaty-important-but-not-only-constitutional-conversation/index.html
+layout: layout.njk
 ---
 Treaty important, but not only constitutional conversation
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-brand-not-being-seen
-title: "New Zealand ‘brand’ not being seen"
-date: 2015-05-26
-source-url: https://www.scoop.co.nz/stories/BU1505/S00803/new-zealand-brand-not-being-seen.htm
+title: New Zealand ‘brand’ not being seen
+date: 2015-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1505/S00803/new-zealand-brand-not-being-seen.htm
 author: lincoln-university
+permalink: /archive/2015/05/26/new-zealand-brand-not-being-seen/index.html
+layout: layout.njk
 ---
 New Zealand ‘brand’ not being seen
 ==================================

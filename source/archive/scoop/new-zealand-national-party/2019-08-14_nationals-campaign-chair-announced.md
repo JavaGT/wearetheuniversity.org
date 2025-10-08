@@ -1,9 +1,12 @@
 ---
 slug: nationals-campaign-chair-announced
-title: "National’s Campaign Chair Announced"
-date: 2019-08-14
-source-url: https://www.scoop.co.nz/stories/PO1908/S00194/nationals-campaign-chair-announced.htm
+title: National’s Campaign Chair Announced
+date: 2019-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1908/S00194/nationals-campaign-chair-announced.htm
 author: new-zealand-national-party
+permalink: /archive/2019/08/14/nationals-campaign-chair-announced/index.html
+layout: layout.njk
 ---
 National’s Campaign Chair Announced
 ===================================

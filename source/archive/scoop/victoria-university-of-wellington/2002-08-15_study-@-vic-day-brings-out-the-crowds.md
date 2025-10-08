@@ -1,9 +1,12 @@
 ---
 slug: study-@-vic-day-brings-out-the-crowds
-title: "Study @ Vic Day brings out the crowds"
-date: 2002-08-15
-source-url: https://www.scoop.co.nz/stories/ED0208/S00017/study-vic-day-brings-out-the-crowds.htm
+title: Study @ Vic Day brings out the crowds
+date: 2002-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0208/S00017/study-vic-day-brings-out-the-crowds.htm
 author: victoria-university-of-wellington
+permalink: /archive/2002/08/15/study-/index.html
+layout: layout.njk
 ---
 Study @ Vic Day brings out the crowds
 =====================================

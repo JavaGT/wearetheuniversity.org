@@ -1,9 +1,13 @@
 ---
 slug: the-legacy-of-lockdown-for-community-healthcare-workers
-title: "The Legacy Of Lockdown For Community Healthcare Workers"
-date: 2022-05-02
-source-url: https://www.scoop.co.nz/stories/BU2205/S00017/the-legacy-of-lockdown-for-community-healthcare-workers.htm
+title: The Legacy Of Lockdown For Community Healthcare Workers
+date: 2022-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2205/S00017/the-legacy-of-lockdown-for-community-healthcare-workers.htm
 author: aut-university
+permalink: >-
+  /archive/2022/05/02/the-legacy-of-lockdown-for-community-healthcare-workers/index.html
+layout: layout.njk
 ---
 The Legacy Of Lockdown For Community Healthcare Workers
 =======================================================

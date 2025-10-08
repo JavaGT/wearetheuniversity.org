@@ -1,9 +1,13 @@
 ---
 slug: auckland-continues-to-break-affordability-records
-title: "Auckland continues to break affordability records"
-date: 2015-07-02
-source-url: https://www.scoop.co.nz/stories/ED1507/S00021/auckland-continues-to-break-affordability-records.htm
+title: Auckland continues to break affordability records
+date: 2015-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00021/auckland-continues-to-break-affordability-records.htm
 author: massey-university
+permalink: >-
+  /archive/2015/07/02/auckland-continues-to-break-affordability-records/index.html
+layout: layout.njk
 ---
 Auckland continues to break affordability records
 =================================================

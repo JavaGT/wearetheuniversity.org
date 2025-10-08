@@ -1,9 +1,13 @@
 ---
 slug: new-study-shows-lack-of-majority-support-for-cannabis-law-change
-title: "New Study Shows Lack Of Majority Support For Cannabis Law Change"
-date: 2020-05-22
-source-url: https://www.scoop.co.nz/stories/PO2005/S00306/new-study-shows-lack-of-majority-support-for-cannabis-law-change.htm
+title: New Study Shows Lack Of Majority Support For Cannabis Law Change
+date: 2020-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00306/new-study-shows-lack-of-majority-support-for-cannabis-law-change.htm
 author: university-of-otago
+permalink: >-
+  /archive/2020/05/22/new-study-shows-lack-of-majority-support-for-cannabis-law-change/index.html
+layout: layout.njk
 ---
 New Study Shows Lack Of Majority Support For Cannabis Law Change
 ================================================================

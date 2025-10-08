@@ -1,9 +1,12 @@
 ---
 slug: psychoactive-substances-bill-second-reading
-title: "Psychoactive Substances Bill - Second Reading"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/PA1306/S00455/psychoactive-substances-bill-second-reading.htm
+title: Psychoactive Substances Bill - Second Reading
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1306/S00455/psychoactive-substances-bill-second-reading.htm
 author: act-new-zealand
+permalink: /archive/2013/06/27/psychoactive-substances-bill-second-reading/index.html
+layout: layout.njk
 ---
 Psychoactive Substances Bill - Second Reading
 =============================================

@@ -1,9 +1,13 @@
 ---
 slug: cervical-cancer-study-looking-for-chinese-recruits
-title: "Cervical Cancer study looking for Chinese recruits"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/GE0611/S00098/cervical-cancer-study-looking-for-chinese-recruits.htm
+title: Cervical Cancer study looking for Chinese recruits
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0611/S00098/cervical-cancer-study-looking-for-chinese-recruits.htm
 author: aut-university
+permalink: >-
+  /archive/2006/11/23/cervical-cancer-study-looking-for-chinese-recruits/index.html
+layout: layout.njk
 ---
 Cervical Cancer study looking for Chinese recruits
 ==================================================

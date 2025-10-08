@@ -1,9 +1,13 @@
 ---
 slug: first-pasifika-researcher-to-win-education-award
-title: "First Pasifika researcher to win education award"
-date: 2017-11-23
-source-url: https://www.scoop.co.nz/stories/ED1711/S00093/first-pasifika-researcher-to-win-education-award.htm
+title: First Pasifika researcher to win education award
+date: 2017-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1711/S00093/first-pasifika-researcher-to-win-education-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/11/23/first-pasifika-researcher-to-win-education-award/index.html
+layout: layout.njk
 ---
 First Pasifika researcher to win education award
 ================================================

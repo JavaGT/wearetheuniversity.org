@@ -1,9 +1,13 @@
 ---
 slug: pulsed-electric-field-technology-gives-new-potential
-title: "Pulsed Electric Field technology gives new potential"
-date: 2018-06-27
-source-url: https://www.scoop.co.nz/stories/BU1806/S00664/pulsed-electric-field-technology-gives-new-potential.htm
+title: Pulsed Electric Field technology gives new potential
+date: 2018-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1806/S00664/pulsed-electric-field-technology-gives-new-potential.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/06/27/pulsed-electric-field-technology-gives-new-potential/index.html
+layout: layout.njk
 ---
 Pulsed Electric Field technology gives new potential
 ====================================================

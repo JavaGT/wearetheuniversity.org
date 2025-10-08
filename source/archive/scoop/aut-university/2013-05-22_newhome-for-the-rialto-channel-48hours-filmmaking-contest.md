@@ -1,9 +1,13 @@
 ---
 slug: newhome-for-the-rialto-channel-48hours-filmmaking-contest
-title: "NewHome for the Rialto Channel 48hours Filmmaking Contest"
-date: 2013-05-22
-source-url: https://www.scoop.co.nz/stories/CU1305/S00366/newhome-for-the-rialto-channel-48hours-filmmaking-contest.htm
+title: NewHome for the Rialto Channel 48hours Filmmaking Contest
+date: 2013-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1305/S00366/newhome-for-the-rialto-channel-48hours-filmmaking-contest.htm
 author: aut-university
+permalink: >-
+  /archive/2013/05/22/newhome-for-the-rialto-channel-48hours-filmmaking-contest/index.html
+layout: layout.njk
 ---
 NewHome for the Rialto Channel 48hours Filmmaking Contest
 =========================================================

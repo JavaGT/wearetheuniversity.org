@@ -1,9 +1,12 @@
 ---
 slug: victoria-honours-distinguished-architect
-title: "Victoria honours distinguished architect"
-date: 2006-10-24
-source-url: https://www.scoop.co.nz/stories/ED0610/S00088/victoria-honours-distinguished-architect.htm
+title: Victoria honours distinguished architect
+date: 2006-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00088/victoria-honours-distinguished-architect.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/10/24/victoria-honours-distinguished-architect/index.html
+layout: layout.njk
 ---
 Victoria honours distinguished architect
 ========================================

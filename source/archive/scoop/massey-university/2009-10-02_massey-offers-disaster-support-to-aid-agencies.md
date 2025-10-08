@@ -1,9 +1,12 @@
 ---
 slug: massey-offers-disaster-support-to-aid-agencies
-title: "Massey offers disaster support to aid agencies"
-date: 2009-10-02
-source-url: https://www.scoop.co.nz/stories/PO0910/S00051/massey-offers-disaster-support-to-aid-agencies.htm
+title: Massey offers disaster support to aid agencies
+date: 2009-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00051/massey-offers-disaster-support-to-aid-agencies.htm
 author: massey-university
+permalink: /archive/2009/10/02/massey-offers-disaster-support-to-aid-agencies/index.html
+layout: layout.njk
 ---
 Massey offers disaster support to aid agencies
 ==============================================

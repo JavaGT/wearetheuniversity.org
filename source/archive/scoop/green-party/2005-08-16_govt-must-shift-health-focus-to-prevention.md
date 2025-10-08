@@ -1,9 +1,12 @@
 ---
 slug: govt-must-shift-health-focus-to-prevention
-title: "Govt must shift health focus to prevention"
-date: 2005-08-16
-source-url: https://www.scoop.co.nz/stories/PA0508/S00403/govt-must-shift-health-focus-to-prevention.htm
+title: Govt must shift health focus to prevention
+date: 2005-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00403/govt-must-shift-health-focus-to-prevention.htm
 author: green-party
+permalink: /archive/2005/08/16/govt-must-shift-health-focus-to-prevention/index.html
+layout: layout.njk
 ---
 Govt must shift health focus to prevention
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: save-tv-coverage-in-the-south
-title: "Save TV Coverage in the South"
-date: 2015-11-02
-source-url: https://www.scoop.co.nz/stories/PA1511/S00015/save-tv-coverage-in-the-south.htm
+title: Save TV Coverage in the South
+date: 2015-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00015/save-tv-coverage-in-the-south.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/02/save-tv-coverage-in-the-south/index.html
+layout: layout.njk
 ---
 Save TV Coverage in the South
 =============================

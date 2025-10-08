@@ -1,9 +1,12 @@
 ---
 slug: greens-leader-opens-major-forestry-conference
-title: "Greens leader opens major forestry conference"
-date: 2006-04-13
-source-url: https://www.scoop.co.nz/stories/PA0604/S00270/greens-leader-opens-major-forestry-conference.htm
+title: Greens leader opens major forestry conference
+date: 2006-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0604/S00270/greens-leader-opens-major-forestry-conference.htm
 author: green-party
+permalink: /archive/2006/04/13/greens-leader-opens-major-forestry-conference/index.html
+layout: layout.njk
 ---
 Greens leader opens major forestry conference
 =============================================

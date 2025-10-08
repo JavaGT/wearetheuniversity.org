@@ -1,9 +1,12 @@
 ---
 slug: prebble-speech-a-golden-moment
-title: "Prebble Speech - A Golden Moment"
-date: 1999-07-05
-source-url: https://www.scoop.co.nz/stories/PA9907/S00062/prebble-speech-a-golden-moment.htm
+title: Prebble Speech - A Golden Moment
+date: 1999-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00062/prebble-speech-a-golden-moment.htm
 author: act-new-zealand
+permalink: /archive/1999/07/05/prebble-speech-a-golden-moment/index.html
+layout: layout.njk
 ---
 Prebble Speech - A Golden Moment
 ================================

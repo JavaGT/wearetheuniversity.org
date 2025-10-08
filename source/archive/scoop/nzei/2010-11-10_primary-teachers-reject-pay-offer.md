@@ -1,9 +1,12 @@
 ---
 slug: primary-teachers-reject-pay-offer
-title: "Primary Teachers Reject Pay Offer"
-date: 2010-11-10
-source-url: https://www.scoop.co.nz/stories/ED1011/S00036/primary-teachers-reject-pay-offer.htm
+title: Primary Teachers Reject Pay Offer
+date: 2010-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1011/S00036/primary-teachers-reject-pay-offer.htm
 author: nzei
+permalink: /archive/2010/11/10/primary-teachers-reject-pay-offer/index.html
+layout: layout.njk
 ---
 Primary Teachers Reject Pay Offer
 =================================

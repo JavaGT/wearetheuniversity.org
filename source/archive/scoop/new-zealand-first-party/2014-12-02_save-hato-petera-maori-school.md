@@ -1,9 +1,12 @@
 ---
 slug: save-hato-petera-maori-school
-title: "Save Hato Petera Maori School"
-date: 2014-12-02
-source-url: https://www.scoop.co.nz/stories/PA1412/S00025/save-hato-petera-maori-school.htm
+title: Save Hato Petera Maori School
+date: 2014-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00025/save-hato-petera-maori-school.htm
 author: new-zealand-first-party
+permalink: /archive/2014/12/02/save-hato-petera-maori-school/index.html
+layout: layout.njk
 ---
 Save Hato Petera Maori School
 =============================

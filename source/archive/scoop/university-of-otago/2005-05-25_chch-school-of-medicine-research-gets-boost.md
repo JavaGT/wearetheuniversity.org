@@ -1,9 +1,12 @@
 ---
 slug: chch-school-of-medicine-research-gets-boost
-title: "ChCH School Of Medicine Research Gets Boost"
-date: 2005-05-25
-source-url: https://www.scoop.co.nz/stories/ED0505/S00111/chch-school-of-medicine-research-gets-boost.htm
+title: ChCH School Of Medicine Research Gets Boost
+date: 2005-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00111/chch-school-of-medicine-research-gets-boost.htm
 author: university-of-otago
+permalink: /archive/2005/05/25/chch-school-of-medicine-research-gets-boost/index.html
+layout: layout.njk
 ---
 ChCH School Of Medicine Research Gets Boost
 ===========================================

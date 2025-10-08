@@ -1,9 +1,12 @@
 ---
 slug: aut-helping-students-build-mental-strength
-title: "AUT helping students build mental strength"
-date: 2017-10-10
-source-url: https://www.scoop.co.nz/stories/ED1710/S00027/aut-helping-students-build-mental-strength.htm
+title: AUT helping students build mental strength
+date: 2017-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1710/S00027/aut-helping-students-build-mental-strength.htm
 author: aut-university
+permalink: /archive/2017/10/10/aut-helping-students-build-mental-strength/index.html
+layout: layout.njk
 ---
 AUT helping students build mental strength
 ==========================================

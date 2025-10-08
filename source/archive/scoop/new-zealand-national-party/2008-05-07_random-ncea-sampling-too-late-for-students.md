@@ -1,9 +1,12 @@
 ---
 slug: random-ncea-sampling-too-late-for-students
-title: "Random NCEA sampling too late for students"
-date: 2008-05-07
-source-url: https://www.scoop.co.nz/stories/PA0805/S00121/random-ncea-sampling-too-late-for-students.htm
+title: Random NCEA sampling too late for students
+date: 2008-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00121/random-ncea-sampling-too-late-for-students.htm
 author: new-zealand-national-party
+permalink: /archive/2008/05/07/random-ncea-sampling-too-late-for-students/index.html
+layout: layout.njk
 ---
 Random NCEA sampling too late for students
 ==========================================

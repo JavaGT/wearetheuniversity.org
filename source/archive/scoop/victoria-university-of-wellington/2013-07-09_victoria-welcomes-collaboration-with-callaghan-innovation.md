@@ -1,9 +1,13 @@
 ---
 slug: victoria-welcomes-collaboration-with-callaghan-innovation
-title: "Victoria welcomes collaboration with Callaghan Innovation"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/ED1307/S00041/victoria-welcomes-collaboration-with-callaghan-innovation.htm
+title: Victoria welcomes collaboration with Callaghan Innovation
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00041/victoria-welcomes-collaboration-with-callaghan-innovation.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/09/victoria-welcomes-collaboration-with-callaghan-innovation/index.html
+layout: layout.njk
 ---
 Victoria welcomes collaboration with Callaghan Innovation
 =========================================================

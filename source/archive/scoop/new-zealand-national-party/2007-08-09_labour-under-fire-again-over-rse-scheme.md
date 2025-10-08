@@ -1,9 +1,12 @@
 ---
 slug: labour-under-fire-again-over-rse-scheme
-title: "Labour under fire again over RSE Scheme"
-date: 2007-08-09
-source-url: https://www.scoop.co.nz/stories/PA0708/S00168/labour-under-fire-again-over-rse-scheme.htm
+title: Labour under fire again over RSE Scheme
+date: 2007-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0708/S00168/labour-under-fire-again-over-rse-scheme.htm
 author: new-zealand-national-party
+permalink: /archive/2007/08/09/labour-under-fire-again-over-rse-scheme/index.html
+layout: layout.njk
 ---
 Labour under fire again over RSE Scheme
 =======================================

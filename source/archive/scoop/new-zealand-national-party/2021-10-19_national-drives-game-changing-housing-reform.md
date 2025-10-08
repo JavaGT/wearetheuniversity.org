@@ -1,9 +1,12 @@
 ---
 slug: national-drives-game-changing-housing-reform
-title: "National Drives Game-changing Housing Reform"
-date: 2021-10-19
-source-url: https://www.scoop.co.nz/stories/PA2110/S00173/national-drives-game-changing-housing-reform.htm
+title: National Drives Game-changing Housing Reform
+date: 2021-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00173/national-drives-game-changing-housing-reform.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/19/national-drives-game-changing-housing-reform/index.html
+layout: layout.njk
 ---
 National Drives Game-changing Housing Reform
 ============================================

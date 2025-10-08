@@ -1,9 +1,13 @@
 ---
 slug: opinion-the-changing-tide-of-the-hiv-aids-epidemic
-title: "Opinion: The changing tide of the HIV/AIDS epidemic"
-date: 2017-11-30
-source-url: https://www.scoop.co.nz/stories/GE1711/S00127/opinion-the-changing-tide-of-the-hivaids-epidemic.htm
+title: 'Opinion: The changing tide of the HIV/AIDS epidemic'
+date: 2017-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1711/S00127/opinion-the-changing-tide-of-the-hivaids-epidemic.htm
 author: massey-university
+permalink: >-
+  /archive/2017/11/30/opinion-the-changing-tide-of-the-hiv-aids-epidemic/index.html
+layout: layout.njk
 ---
 Opinion: The changing tide of the HIV/AIDS epidemic
 ===================================================

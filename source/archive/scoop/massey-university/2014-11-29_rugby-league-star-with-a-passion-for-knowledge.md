@@ -1,9 +1,12 @@
 ---
 slug: rugby-league-star-with-a-passion-for-knowledge
-title: "Rugby league star with a passion for knowledge"
-date: 2014-11-29
-source-url: https://www.scoop.co.nz/stories/CU1411/S00557/rugby-league-star-with-a-passion-for-knowledge.htm
+title: Rugby league star with a passion for knowledge
+date: 2014-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1411/S00557/rugby-league-star-with-a-passion-for-knowledge.htm
 author: massey-university
+permalink: /archive/2014/11/29/rugby-league-star-with-a-passion-for-knowledge/index.html
+layout: layout.njk
 ---
 Rugby league star with a passion for knowledge
 ==============================================

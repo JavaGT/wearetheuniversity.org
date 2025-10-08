@@ -1,9 +1,12 @@
 ---
 slug: speech-to-grey-power-dont-take-it-any-more!
-title: "Speech to Grey Power: Don’t Take It Any More!"
-date: 2013-04-19
-source-url: https://www.scoop.co.nz/stories/PA1304/S00400/speech-to-grey-power-dont-take-it-any-more.htm
+title: 'Speech to Grey Power: Don’t Take It Any More!'
+date: 2013-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1304/S00400/speech-to-grey-power-dont-take-it-any-more.htm
 author: new-zealand-first-party
+permalink: /archive/2013/04/19/speech-to-grey-power-dont-take-it-any-more/index.html
+layout: layout.njk
 ---
 Speech to Grey Power: Don’t Take It Any More!
 =============================================

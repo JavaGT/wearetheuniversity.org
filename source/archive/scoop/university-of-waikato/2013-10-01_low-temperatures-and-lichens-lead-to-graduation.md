@@ -1,9 +1,12 @@
 ---
 slug: low-temperatures-and-lichens-lead-to-graduation
-title: "Low temperatures and lichens lead to graduation"
-date: 2013-10-01
-source-url: https://www.scoop.co.nz/stories/ED1310/S00004/low-temperatures-and-lichens-lead-to-graduation.htm
+title: Low temperatures and lichens lead to graduation
+date: 2013-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00004/low-temperatures-and-lichens-lead-to-graduation.htm
 author: university-of-waikato
+permalink: /archive/2013/10/01/low-temperatures-and-lichens-lead-to-graduation/index.html
+layout: layout.njk
 ---
 Low temperatures and lichens lead to graduation
 ===============================================

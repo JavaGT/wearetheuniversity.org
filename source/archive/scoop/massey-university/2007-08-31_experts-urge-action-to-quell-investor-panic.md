@@ -1,9 +1,12 @@
 ---
 slug: experts-urge-action-to-quell-investor-panic
-title: "Experts urge action to quell investor panic"
-date: 2007-08-31
-source-url: https://www.scoop.co.nz/stories/BU0708/S00671/experts-urge-action-to-quell-investor-panic.htm
+title: Experts urge action to quell investor panic
+date: 2007-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0708/S00671/experts-urge-action-to-quell-investor-panic.htm
 author: massey-university
+permalink: /archive/2007/08/31/experts-urge-action-to-quell-investor-panic/index.html
+layout: layout.njk
 ---
 Experts urge action to quell investor panic
 ===========================================

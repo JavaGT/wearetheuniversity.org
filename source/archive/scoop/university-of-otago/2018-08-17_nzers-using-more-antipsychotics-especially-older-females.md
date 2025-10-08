@@ -1,9 +1,13 @@
 ---
 slug: nzers-using-more-antipsychotics-especially-older-females
-title: "NZers using more antipsychotics, especially older females"
-date: 2018-08-17
-source-url: https://www.scoop.co.nz/stories/GE1808/S00046/nzers-using-more-antipsychotics-especially-older-females.htm
+title: NZers using more antipsychotics, especially older females
+date: 2018-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00046/nzers-using-more-antipsychotics-especially-older-females.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/17/nzers-using-more-antipsychotics-especially-older-females/index.html
+layout: layout.njk
 ---
 NZers using more antipsychotics, especially older females
 =========================================================

@@ -1,9 +1,13 @@
 ---
 slug: long-awaited-operational-funding-fails-to-impress
-title: "Long-awaited operational funding fails to impress"
-date: 2008-05-22
-source-url: https://www.scoop.co.nz/stories/PA0805/S00398/long-awaited-operational-funding-fails-to-impress.htm
+title: Long-awaited operational funding fails to impress
+date: 2008-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0805/S00398/long-awaited-operational-funding-fails-to-impress.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/05/22/long-awaited-operational-funding-fails-to-impress/index.html
+layout: layout.njk
 ---
 Long-awaited operational funding fails to impress
 =================================================

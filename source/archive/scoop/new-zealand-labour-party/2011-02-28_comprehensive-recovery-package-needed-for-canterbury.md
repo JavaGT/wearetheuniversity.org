@@ -1,9 +1,13 @@
 ---
 slug: comprehensive-recovery-package-needed-for-canterbury
-title: "Comprehensive Recovery Package Needed for Canterbury"
-date: 2011-02-28
-source-url: https://www.scoop.co.nz/stories/PA1102/S00420/comprehensive-recovery-package-needed-for-canterbury.htm
+title: Comprehensive Recovery Package Needed for Canterbury
+date: 2011-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00420/comprehensive-recovery-package-needed-for-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/02/28/comprehensive-recovery-package-needed-for-canterbury/index.html
+layout: layout.njk
 ---
 Comprehensive Recovery Package Needed for Canterbury
 ====================================================

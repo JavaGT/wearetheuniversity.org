@@ -1,9 +1,12 @@
 ---
 slug: new-massey-college-to-tackle-health-crisis
-title: "New Massey college to tackle 'health crisis'"
-date: 2012-06-05
-source-url: https://www.scoop.co.nz/stories/ED1206/S00010/new-massey-college-to-tackle-health-crisis.htm
+title: New Massey college to tackle 'health crisis'
+date: 2012-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1206/S00010/new-massey-college-to-tackle-health-crisis.htm
 author: massey-university
+permalink: /archive/2012/06/05/new-massey-college-to-tackle-health-crisis/index.html
+layout: layout.njk
 ---
 New Massey college to tackle 'health crisis'
 ============================================

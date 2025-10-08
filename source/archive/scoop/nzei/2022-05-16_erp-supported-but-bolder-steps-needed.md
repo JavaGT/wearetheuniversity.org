@@ -1,9 +1,12 @@
 ---
 slug: erp-supported-but-bolder-steps-needed
-title: "ERP Supported But Bolder Steps Needed"
-date: 2022-05-16
-source-url: https://www.scoop.co.nz/stories/AK2205/S00331/erp-supported-but-bolder-steps-needed.htm
+title: ERP Supported But Bolder Steps Needed
+date: 2022-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK2205/S00331/erp-supported-but-bolder-steps-needed.htm
 author: nzei
+permalink: /archive/2022/05/16/erp-supported-but-bolder-steps-needed/index.html
+layout: layout.njk
 ---
 ERP Supported But Bolder Steps Needed
 =====================================

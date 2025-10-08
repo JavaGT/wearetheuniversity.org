@@ -1,9 +1,12 @@
 ---
 slug: canterbury-gets-$6-65-million-in-research-funding
-title: "Canterbury gets $6.65 million in research funding"
-date: 2003-09-11
-source-url: https://www.scoop.co.nz/stories/ED0309/S00043/canterbury-gets-665-million-in-research-funding.htm
+title: Canterbury gets $6.65 million in research funding
+date: 2003-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0309/S00043/canterbury-gets-665-million-in-research-funding.htm
 author: university-of-canterbury
+permalink: /archive/2003/09/11/canterbury-gets-/index.html
+layout: layout.njk
 ---
 Canterbury gets $6.65 million in research funding
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: micronutrients-could-reduce-psychological-disorders
-title: "Micronutrients could reduce psychological disorders"
-date: 2012-11-21
-source-url: https://www.scoop.co.nz/stories/SC1211/S00055/micronutrients-could-reduce-psychological-disorders.htm
+title: Micronutrients could reduce psychological disorders
+date: 2012-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1211/S00055/micronutrients-could-reduce-psychological-disorders.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/11/21/micronutrients-could-reduce-psychological-disorders/index.html
+layout: layout.njk
 ---
 Micronutrients could reduce psychological disorders
 ===================================================

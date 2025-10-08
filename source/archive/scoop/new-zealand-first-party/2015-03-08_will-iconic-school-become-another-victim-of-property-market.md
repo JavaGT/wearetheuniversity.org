@@ -1,9 +1,13 @@
 ---
 slug: will-iconic-school-become-another-victim-of-property-market
-title: "Will Iconic School Become Another Victim of Property Market?"
-date: 2015-03-08
-source-url: https://www.scoop.co.nz/stories/PA1503/S00078/will-iconic-school-become-another-victim-of-property-market.htm
+title: Will Iconic School Become Another Victim of Property Market?
+date: 2015-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00078/will-iconic-school-become-another-victim-of-property-market.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/03/08/will-iconic-school-become-another-victim-of-property-market/index.html
+layout: layout.njk
 ---
 Will Iconic School Become Another Victim of Property Market?
 ============================================================

@@ -1,9 +1,13 @@
 ---
 slug: survey-rates-asb-bank-tops-for-nz-website-design
-title: "Survey rates ASB Bank tops for NZ website design"
-date: 2008-01-25
-source-url: https://www.scoop.co.nz/stories/ED0801/S00027/survey-rates-asb-bank-tops-for-nz-website-design.htm
+title: Survey rates ASB Bank tops for NZ website design
+date: 2008-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00027/survey-rates-asb-bank-tops-for-nz-website-design.htm
 author: massey-university
+permalink: >-
+  /archive/2008/01/25/survey-rates-asb-bank-tops-for-nz-website-design/index.html
+layout: layout.njk
 ---
 Survey rates ASB Bank tops for NZ website design
 ================================================

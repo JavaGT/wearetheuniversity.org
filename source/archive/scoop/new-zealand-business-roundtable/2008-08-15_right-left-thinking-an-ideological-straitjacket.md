@@ -1,9 +1,12 @@
 ---
 slug: right-left-thinking-an-ideological-straitjacket
-title: "Right, Left Thinking an Ideological Straitjacket"
-date: 2008-08-15
-source-url: https://www.scoop.co.nz/stories/BU0808/S00232/right-left-thinking-an-ideological-straitjacket.htm
+title: Right, Left Thinking an Ideological Straitjacket
+date: 2008-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0808/S00232/right-left-thinking-an-ideological-straitjacket.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2008/08/15/right-left-thinking-an-ideological-straitjacket/index.html
+layout: layout.njk
 ---
 Right, Left Thinking an Ideological Straitjacket
 ================================================

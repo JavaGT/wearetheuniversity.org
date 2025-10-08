@@ -1,9 +1,13 @@
 ---
 slug: uc-student-assisting-tait-with-emergency-communications
-title: "UC student assisting Tait with emergency communications"
-date: 2012-12-06
-source-url: https://www.scoop.co.nz/stories/AK1212/S00117/uc-student-assisting-tait-with-emergency-communications.htm
+title: UC student assisting Tait with emergency communications
+date: 2012-12-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1212/S00117/uc-student-assisting-tait-with-emergency-communications.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/12/06/uc-student-assisting-tait-with-emergency-communications/index.html
+layout: layout.njk
 ---
 UC student assisting Tait with emergency communications
 =======================================================

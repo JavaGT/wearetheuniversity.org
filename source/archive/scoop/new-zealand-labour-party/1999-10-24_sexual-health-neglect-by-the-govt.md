@@ -1,9 +1,12 @@
 ---
 slug: sexual-health-neglect-by-the-govt
-title: "Sexual health neglect by the Govt."
-date: 1999-10-24
-source-url: https://www.scoop.co.nz/stories/PA9910/S00569/sexual-health-neglect-by-the-govt.htm
+title: Sexual health neglect by the Govt.
+date: 1999-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00569/sexual-health-neglect-by-the-govt.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/24/sexual-health-neglect-by-the-govt/index.html
+layout: layout.njk
 ---
 Sexual health neglect by the Govt.
 ==================================

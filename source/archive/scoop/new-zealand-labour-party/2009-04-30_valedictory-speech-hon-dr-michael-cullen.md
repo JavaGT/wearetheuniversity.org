@@ -1,9 +1,12 @@
 ---
 slug: valedictory-speech-hon-dr-michael-cullen
-title: "Valedictory Speech Hon Dr Michael Cullen"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00379/valedictory-speech-hon-dr-michael-cullen.htm
+title: Valedictory Speech Hon Dr Michael Cullen
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00379/valedictory-speech-hon-dr-michael-cullen.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/30/valedictory-speech-hon-dr-michael-cullen/index.html
+layout: layout.njk
 ---
 Valedictory Speech Hon Dr Michael Cullen
 ========================================

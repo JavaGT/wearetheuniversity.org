@@ -1,9 +1,12 @@
 ---
 slug: uc-vice-chancellor-re-appointed
-title: "UC Vice Chancellor Re-appointed"
-date: 2013-06-27
-source-url: https://www.scoop.co.nz/stories/ED1306/S00154/uc-vice-chancellor-re-appointed.htm
+title: UC Vice Chancellor Re-appointed
+date: 2013-06-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1306/S00154/uc-vice-chancellor-re-appointed.htm
 author: university-of-canterbury
+permalink: /archive/2013/06/27/uc-vice-chancellor-re-appointed/index.html
+layout: layout.njk
 ---
 UC Vice Chancellor Re-appointed
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: migrants-should-speak-english-says-peters
-title: "Migrants Should Speak English Says Peters"
-date: 2003-05-01
-source-url: https://www.scoop.co.nz/stories/PA0305/S00014/migrants-should-speak-english-says-peters.htm
+title: Migrants Should Speak English Says Peters
+date: 2003-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0305/S00014/migrants-should-speak-english-says-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2003/05/01/migrants-should-speak-english-says-peters/index.html
+layout: layout.njk
 ---
 Migrants Should Speak English Says Peters
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-breaks-promise-on-1800-new-cops
-title: "Government breaks promise on 1800 new cops"
-date: 2019-10-16
-source-url: https://www.scoop.co.nz/stories/PA1910/S00126/government-breaks-promise-on-1800-new-cops.htm
+title: Government breaks promise on 1800 new cops
+date: 2019-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00126/government-breaks-promise-on-1800-new-cops.htm
 author: new-zealand-national-party
+permalink: /archive/2019/10/16/government-breaks-promise-on-1800-new-cops/index.html
+layout: layout.njk
 ---
 Government breaks promise on 1800 new cops
 ==========================================

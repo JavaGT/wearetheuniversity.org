@@ -1,9 +1,13 @@
 ---
 slug: radical-new-law-needed-to-ensure-the-smokefree-2025-goal
-title: "Radical new law needed to ensure the Smokefree 2025 goal"
-date: 2016-08-05
-source-url: https://www.scoop.co.nz/stories/GE1608/S00034/radical-new-law-needed-to-ensure-the-smokefree-2025-goal.htm
+title: Radical new law needed to ensure the Smokefree 2025 goal
+date: 2016-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1608/S00034/radical-new-law-needed-to-ensure-the-smokefree-2025-goal.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/05/radical-new-law-needed-to-ensure-the-smokefree-2025-goal/index.html
+layout: layout.njk
 ---
 Radical new law needed to ensure the Smokefree 2025 goal
 ========================================================

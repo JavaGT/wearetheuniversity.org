@@ -1,8 +1,12 @@
 ---
 slug: report-finds-our-aging-population-will-need-increased-levels-of-care
-title: "Report finds our aging population will need increased levels of care"
-date: 2017-04-21
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/aging-population-will-need-increased-care-levels.html
+title: Report finds our aging population will need increased levels of care
+date: 2017-04-21T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/aging-population-will-need-increased-care-levels.html
+permalink: >-
+  /archive/2017/04/21/report-finds-our-aging-population-will-need-increased-levels-of-care/index.html
+layout: layout.njk
 ---
 Report finds our aging population will need increased levels of care
 ====================================================================

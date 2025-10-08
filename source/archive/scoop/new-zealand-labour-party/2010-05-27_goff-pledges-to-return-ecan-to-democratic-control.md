@@ -1,9 +1,13 @@
 ---
 slug: goff-pledges-to-return-ecan-to-democratic-control
-title: "Goff pledges to return ECan to democratic control"
-date: 2010-05-27
-source-url: https://www.scoop.co.nz/stories/PA1005/S00452/goff-pledges-to-return-ecan-to-democratic-control.htm
+title: Goff pledges to return ECan to democratic control
+date: 2010-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1005/S00452/goff-pledges-to-return-ecan-to-democratic-control.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/05/27/goff-pledges-to-return-ecan-to-democratic-control/index.html
+layout: layout.njk
 ---
 Goff pledges to return ECan to democratic control
 =================================================

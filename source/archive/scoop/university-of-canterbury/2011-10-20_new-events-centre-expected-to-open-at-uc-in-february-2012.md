@@ -1,9 +1,13 @@
 ---
 slug: new-events-centre-expected-to-open-at-uc-in-february-2012
-title: "New Events Centre expected to open at UC in February 2012"
-date: 2011-10-20
-source-url: https://www.scoop.co.nz/stories/AK1110/S00531/new-events-centre-expected-to-open-at-uc-in-february-2012.htm
+title: New Events Centre expected to open at UC in February 2012
+date: 2011-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1110/S00531/new-events-centre-expected-to-open-at-uc-in-february-2012.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/10/20/new-events-centre-expected-to-open-at-uc-in-february-2012/index.html
+layout: layout.njk
 ---
 New Events Centre expected to open at UC in February 2012
 =========================================================

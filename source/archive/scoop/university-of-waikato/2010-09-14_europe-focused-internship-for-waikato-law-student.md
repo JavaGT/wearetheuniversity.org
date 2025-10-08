@@ -1,9 +1,13 @@
 ---
 slug: europe-focused-internship-for-waikato-law-student
-title: "Europe-focused internship for Waikato law student"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/ED1009/S00064/europe-focused-internship-for-waikato-law-student.htm
+title: Europe-focused internship for Waikato law student
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00064/europe-focused-internship-for-waikato-law-student.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2010/09/14/europe-focused-internship-for-waikato-law-student/index.html
+layout: layout.njk
 ---
 Europe-focused internship for Waikato law student
 =================================================

@@ -1,9 +1,13 @@
 ---
 slug: labours-soft-line-on-welfare-sees-25000-more-on-benefit
-title: "Labour's soft line on welfare sees 25,000 more on benefit"
-date: 2020-01-23
-source-url: https://www.scoop.co.nz/stories/PA2001/S00074/labours-soft-line-on-welfare-sees-25000-more-on-benefit.htm
+title: Labour's soft line on welfare sees 25,000 more on benefit
+date: 2020-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2001/S00074/labours-soft-line-on-welfare-sees-25000-more-on-benefit.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2020/01/23/labours-soft-line-on-welfare-sees-25000-more-on-benefit/index.html
+layout: layout.njk
 ---
 Labour's soft line on welfare sees 25,000 more on benefit
 =========================================================

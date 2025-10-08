@@ -1,9 +1,12 @@
 ---
 slug: nz-awash-with-immigrant-crime
-title: "NZ Awash with Immigrant Crime"
-date: 2013-12-05
-source-url: https://www.scoop.co.nz/stories/PA1312/S00104/nz-awash-with-immigrant-crime.htm
+title: NZ Awash with Immigrant Crime
+date: 2013-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00104/nz-awash-with-immigrant-crime.htm
 author: new-zealand-first-party
+permalink: /archive/2013/12/05/nz-awash-with-immigrant-crime/index.html
+layout: layout.njk
 ---
 NZ Awash with Immigrant Crime
 =============================

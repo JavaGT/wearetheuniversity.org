@@ -1,9 +1,12 @@
 ---
 slug: worlds-best-doctoral-students-study-at-victoria
-title: "World’s best doctoral students study at Victoria"
-date: 2006-03-24
-source-url: https://www.scoop.co.nz/stories/ED0603/S00069/worlds-best-doctoral-students-study-at-victoria.htm
+title: World’s best doctoral students study at Victoria
+date: 2006-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00069/worlds-best-doctoral-students-study-at-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/03/24/worlds-best-doctoral-students-study-at-victoria/index.html
+layout: layout.njk
 ---
 World’s best doctoral students study at Victoria
 ================================================

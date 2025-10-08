@@ -1,9 +1,13 @@
 ---
 slug: sir-john-graham-is-right-performance-pay-has-merit
-title: "Sir John Graham Is Right – Performance Pay Has Merit"
-date: 2011-06-07
-source-url: https://www.scoop.co.nz/stories/PO1106/S00071/sir-john-graham-is-right-performance-pay-has-merit.htm
+title: Sir John Graham Is Right – Performance Pay Has Merit
+date: 2011-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1106/S00071/sir-john-graham-is-right-performance-pay-has-merit.htm
 author: maxim-institute
+permalink: >-
+  /archive/2011/06/07/sir-john-graham-is-right-performance-pay-has-merit/index.html
+layout: layout.njk
 ---
 Sir John Graham Is Right – Performance Pay Has Merit
 ====================================================

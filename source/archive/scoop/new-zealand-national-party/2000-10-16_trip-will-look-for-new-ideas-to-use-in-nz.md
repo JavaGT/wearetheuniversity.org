@@ -1,9 +1,12 @@
 ---
 slug: trip-will-look-for-new-ideas-to-use-in-nz
-title: "Trip Will Look For New Ideas To Use In NZ"
-date: 2000-10-16
-source-url: https://www.scoop.co.nz/stories/PA0010/S00314/trip-will-look-for-new-ideas-to-use-in-nz.htm
+title: Trip Will Look For New Ideas To Use In NZ
+date: 2000-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00314/trip-will-look-for-new-ideas-to-use-in-nz.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/16/trip-will-look-for-new-ideas-to-use-in-nz/index.html
+layout: layout.njk
 ---
 Trip Will Look For New Ideas To Use In NZ
 =========================================

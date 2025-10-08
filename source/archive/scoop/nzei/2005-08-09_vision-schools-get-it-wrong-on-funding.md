@@ -1,9 +1,12 @@
 ---
 slug: vision-schools-get-it-wrong-on-funding
-title: "Vision Schools Get It Wrong On Funding"
-date: 2005-08-09
-source-url: https://www.scoop.co.nz/stories/ED0508/S00040/vision-schools-get-it-wrong-on-funding.htm
+title: Vision Schools Get It Wrong On Funding
+date: 2005-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00040/vision-schools-get-it-wrong-on-funding.htm
 author: nzei
+permalink: /archive/2005/08/09/vision-schools-get-it-wrong-on-funding/index.html
+layout: layout.njk
 ---
 Vision Schools Get It Wrong On Funding
 ======================================

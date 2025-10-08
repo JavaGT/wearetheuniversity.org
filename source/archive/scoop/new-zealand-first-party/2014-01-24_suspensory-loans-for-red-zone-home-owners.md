@@ -1,9 +1,12 @@
 ---
 slug: suspensory-loans-for-red-zone-home-owners
-title: "Suspensory Loans for Red Zone Home Owners"
-date: 2014-01-24
-source-url: https://www.scoop.co.nz/stories/PA1401/S00129/suspensory-loans-for-red-zone-home-owners.htm
+title: Suspensory Loans for Red Zone Home Owners
+date: 2014-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1401/S00129/suspensory-loans-for-red-zone-home-owners.htm
 author: new-zealand-first-party
+permalink: /archive/2014/01/24/suspensory-loans-for-red-zone-home-owners/index.html
+layout: layout.njk
 ---
 Suspensory Loans for Red Zone Home Owners
 =========================================

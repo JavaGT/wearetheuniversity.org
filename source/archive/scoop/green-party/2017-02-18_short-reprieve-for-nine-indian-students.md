@@ -1,9 +1,12 @@
 ---
 slug: short-reprieve-for-nine-indian-students
-title: "Short reprieve for nine Indian students"
-date: 2017-02-18
-source-url: https://www.scoop.co.nz/stories/PA1702/S00251/short-reprieve-for-nine-indian-students.htm
+title: Short reprieve for nine Indian students
+date: 2017-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00251/short-reprieve-for-nine-indian-students.htm
 author: green-party
+permalink: /archive/2017/02/18/short-reprieve-for-nine-indian-students/index.html
+layout: layout.njk
 ---
 Short reprieve for nine Indian students
 =======================================

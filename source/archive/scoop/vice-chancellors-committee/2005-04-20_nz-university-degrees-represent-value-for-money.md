@@ -1,9 +1,12 @@
 ---
 slug: nz-university-degrees-represent-value-for-money
-title: "NZ University Degrees Represent Value For Money"
-date: 2005-04-20
-source-url: https://www.scoop.co.nz/stories/ED0504/S00075/nz-university-degrees-represent-value-for-money.htm
+title: NZ University Degrees Represent Value For Money
+date: 2005-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00075/nz-university-degrees-represent-value-for-money.htm
 author: vice-chancellors-committee
+permalink: /archive/2005/04/20/nz-university-degrees-represent-value-for-money/index.html
+layout: layout.njk
 ---
 NZ University Degrees Represent Value For Money
 ===============================================

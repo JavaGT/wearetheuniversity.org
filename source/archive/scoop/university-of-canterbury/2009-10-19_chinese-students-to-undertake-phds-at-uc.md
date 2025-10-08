@@ -1,9 +1,12 @@
 ---
 slug: chinese-students-to-undertake-phds-at-uc
-title: "Chinese students to undertake PhDs at UC"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/ED0910/S00082/chinese-students-to-undertake-phds-at-uc.htm
+title: Chinese students to undertake PhDs at UC
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00082/chinese-students-to-undertake-phds-at-uc.htm
 author: university-of-canterbury
+permalink: /archive/2009/10/19/chinese-students-to-undertake-phds-at-uc/index.html
+layout: layout.njk
 ---
 Chinese students to undertake PhDs at UC
 ========================================

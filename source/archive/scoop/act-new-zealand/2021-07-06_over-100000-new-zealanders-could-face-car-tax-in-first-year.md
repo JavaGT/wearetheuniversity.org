@@ -1,9 +1,13 @@
 ---
 slug: over-100000-new-zealanders-could-face-car-tax-in-first-year
-title: "Over 100,000 New Zealanders Could Face Car Tax In First Year"
-date: 2021-07-06
-source-url: https://www.scoop.co.nz/stories/PA2107/S00042/over-100000-new-zealanders-could-face-car-tax-in-first-year.htm
+title: Over 100,000 New Zealanders Could Face Car Tax In First Year
+date: 2021-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2107/S00042/over-100000-new-zealanders-could-face-car-tax-in-first-year.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/07/06/over-100000-new-zealanders-could-face-car-tax-in-first-year/index.html
+layout: layout.njk
 ---
 Over 100,000 New Zealanders Could Face Car Tax In First Year
 ============================================================

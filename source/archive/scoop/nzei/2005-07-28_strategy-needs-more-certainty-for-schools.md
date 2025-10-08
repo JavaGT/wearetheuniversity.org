@@ -1,9 +1,12 @@
 ---
 slug: strategy-needs-more-certainty-for-schools
-title: "Strategy Needs More Certainty For Schools"
-date: 2005-07-28
-source-url: https://www.scoop.co.nz/stories/ED0507/S00126/strategy-needs-more-certainty-for-schools.htm
+title: Strategy Needs More Certainty For Schools
+date: 2005-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00126/strategy-needs-more-certainty-for-schools.htm
 author: nzei
+permalink: /archive/2005/07/28/strategy-needs-more-certainty-for-schools/index.html
+layout: layout.njk
 ---
 Strategy Needs More Certainty For Schools
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: government-transport-plans-unfair-on-most-kiwis
-title: "Government transport plans unfair on most Kiwis"
-date: 2009-03-17
-source-url: https://www.scoop.co.nz/stories/PA0903/S00250/government-transport-plans-unfair-on-most-kiwis.htm
+title: Government transport plans unfair on most Kiwis
+date: 2009-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00250/government-transport-plans-unfair-on-most-kiwis.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/17/government-transport-plans-unfair-on-most-kiwis/index.html
+layout: layout.njk
 ---
 Government transport plans unfair on most Kiwis
 ===============================================

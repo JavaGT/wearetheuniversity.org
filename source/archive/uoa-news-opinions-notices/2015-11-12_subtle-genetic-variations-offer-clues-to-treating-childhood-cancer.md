@@ -1,8 +1,12 @@
 ---
 slug: subtle-genetic-variations-offer-clues-to-treating-childhood-cancer
-title: "Subtle genetic variations offer clues to treating childhood cancer"
-date: 2015-11-12
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/subtle-genetic-variations-offer-clues-to-treating-childhood-canc.html
+title: Subtle genetic variations offer clues to treating childhood cancer
+date: 2015-11-12T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/subtle-genetic-variations-offer-clues-to-treating-childhood-canc.html
+permalink: >-
+  /archive/2015/11/12/subtle-genetic-variations-offer-clues-to-treating-childhood-cancer/index.html
+layout: layout.njk
 ---
 Subtle genetic variations offer clues to treating childhood cancer
 ==================================================================

@@ -1,9 +1,13 @@
 ---
 slug: maternity-review-urgently-needed-to-allay-concerns
-title: "Maternity Review Urgently Needed to Allay Concerns"
-date: 2016-09-29
-source-url: https://www.scoop.co.nz/stories/PA1609/S00496/maternity-review-urgently-needed-to-allay-concerns.htm
+title: Maternity Review Urgently Needed to Allay Concerns
+date: 2016-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00496/maternity-review-urgently-needed-to-allay-concerns.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/09/29/maternity-review-urgently-needed-to-allay-concerns/index.html
+layout: layout.njk
 ---
 Maternity Review Urgently Needed to Allay Concerns
 ==================================================

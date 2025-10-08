@@ -1,9 +1,13 @@
 ---
 slug: no-nz-support-for-war-public-meeting-with-nicky-hager
-title: "No NZ support for war - Public meeting with Nicky Hager"
-date: 2014-11-04
-source-url: https://www.scoop.co.nz/stories/PO1411/S00027/no-nz-support-for-war-public-meeting-with-nicky-hager.htm
+title: No NZ support for war - Public meeting with Nicky Hager
+date: 2014-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1411/S00027/no-nz-support-for-war-public-meeting-with-nicky-hager.htm
 author: peace-action-wellington
+permalink: >-
+  /archive/2014/11/04/no-nz-support-for-war-public-meeting-with-nicky-hager/index.html
+layout: layout.njk
 ---
 No NZ support for war - Public meeting with Nicky Hager
 =======================================================

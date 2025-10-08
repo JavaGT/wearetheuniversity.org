@@ -1,9 +1,13 @@
 ---
 slug: uc-student-accommodation-to-be-included-in-dovedale-plan
-title: "UC student accommodation to be included in Dovedale plan"
-date: 2014-02-03
-source-url: https://www.scoop.co.nz/stories/ED1402/S00011/uc-student-accommodation-to-be-included-in-dovedale-plan.htm
+title: UC student accommodation to be included in Dovedale plan
+date: 2014-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00011/uc-student-accommodation-to-be-included-in-dovedale-plan.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/02/03/uc-student-accommodation-to-be-included-in-dovedale-plan/index.html
+layout: layout.njk
 ---
 UC student accommodation to be included in Dovedale plan
 ========================================================

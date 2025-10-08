@@ -1,9 +1,13 @@
 ---
 slug: aut-announce-memorial-scholarship-for-eric-and-kathy-hertz
-title: "AUT announce memorial scholarship for Eric and Kathy Hertz"
-date: 2014-08-29
-source-url: https://www.scoop.co.nz/stories/ED1408/S00154/aut-announce-memorial-scholarship-for-eric-and-kathy-hertz.htm
+title: AUT announce memorial scholarship for Eric and Kathy Hertz
+date: 2014-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1408/S00154/aut-announce-memorial-scholarship-for-eric-and-kathy-hertz.htm
 author: aut-university
+permalink: >-
+  /archive/2014/08/29/aut-announce-memorial-scholarship-for-eric-and-kathy-hertz/index.html
+layout: layout.njk
 ---
 AUT announce memorial scholarship for Eric and Kathy Hertz
 ==========================================================

@@ -1,9 +1,13 @@
 ---
 slug: national-confirms-paula-bennett-as-upper-harbour-candidate
-title: "National confirms Paula Bennett as Upper Harbour candidate"
-date: 2014-05-22
-source-url: https://www.scoop.co.nz/stories/PO1405/S00364/national-confirms-paula-bennett-as-upper-harbour-candidate.htm
+title: National confirms Paula Bennett as Upper Harbour candidate
+date: 2014-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1405/S00364/national-confirms-paula-bennett-as-upper-harbour-candidate.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2014/05/22/national-confirms-paula-bennett-as-upper-harbour-candidate/index.html
+layout: layout.njk
 ---
 National confirms Paula Bennett as Upper Harbour candidate
 ==========================================================

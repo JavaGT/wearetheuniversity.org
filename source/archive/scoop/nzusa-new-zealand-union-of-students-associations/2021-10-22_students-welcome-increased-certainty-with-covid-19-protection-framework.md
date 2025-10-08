@@ -1,9 +1,13 @@
 ---
 slug: students-welcome-increased-certainty-with-covid-19-protection-framework
-title: "Students Welcome Increased Certainty With Covid-19 Protection Framework"
-date: 2021-10-22
-source-url: https://www.scoop.co.nz/stories/ED2110/S00018/students-welcome-increased-certainty-with-covid-19-protection-framework.htm
+title: Students Welcome Increased Certainty With Covid-19 Protection Framework
+date: 2021-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2110/S00018/students-welcome-increased-certainty-with-covid-19-protection-framework.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2021/10/22/students-welcome-increased-certainty-with-covid-19-protection-framework/index.html
+layout: layout.njk
 ---
 Students Welcome Increased Certainty With Covid-19 Protection Framework
 =======================================================================

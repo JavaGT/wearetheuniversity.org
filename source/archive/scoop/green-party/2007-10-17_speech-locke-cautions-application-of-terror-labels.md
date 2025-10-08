@@ -1,9 +1,13 @@
 ---
 slug: speech-locke-cautions-application-of-terror-labels
-title: "Speech:Locke cautions application of terror labels"
-date: 2007-10-17
-source-url: https://www.scoop.co.nz/stories/PA0710/S00336/speechlocke-cautions-application-of-terror-labels.htm
+title: Speech:Locke cautions application of terror labels
+date: 2007-10-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00336/speechlocke-cautions-application-of-terror-labels.htm
 author: green-party
+permalink: >-
+  /archive/2007/10/17/speech-locke-cautions-application-of-terror-labels/index.html
+layout: layout.njk
 ---
 Speech:Locke cautions application of terror labels
 ==================================================

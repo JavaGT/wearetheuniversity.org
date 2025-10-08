@@ -1,9 +1,13 @@
 ---
 slug: waikato-university-scientist-links-ancient-mural
-title: "Waikato University scientist links ancient mural"
-date: 2014-01-09
-source-url: https://www.scoop.co.nz/stories/CU1401/S00115/waikato-university-scientist-links-ancient-mural.htm
+title: Waikato University scientist links ancient mural
+date: 2014-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1401/S00115/waikato-university-scientist-links-ancient-mural.htm
 author: waikato-university
+permalink: >-
+  /archive/2014/01/09/waikato-university-scientist-links-ancient-mural/index.html
+layout: layout.njk
 ---
 Waikato University scientist links ancient mural
 ================================================

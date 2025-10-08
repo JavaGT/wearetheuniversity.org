@@ -1,9 +1,13 @@
 ---
 slug: govt-must-take-an-honest-look-at-ece-taskforce-submissions
-title: "Govt must take an honest look at ECE Taskforce submissions"
-date: 2011-08-08
-source-url: https://www.scoop.co.nz/stories/ED1108/S00048/govt-must-take-an-honest-look-at-ece-taskforce-submissions.htm
+title: Govt must take an honest look at ECE Taskforce submissions
+date: 2011-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00048/govt-must-take-an-honest-look-at-ece-taskforce-submissions.htm
 author: nzei
+permalink: >-
+  /archive/2011/08/08/govt-must-take-an-honest-look-at-ece-taskforce-submissions/index.html
+layout: layout.njk
 ---
 Govt must take an honest look at ECE Taskforce submissions
 ==========================================================

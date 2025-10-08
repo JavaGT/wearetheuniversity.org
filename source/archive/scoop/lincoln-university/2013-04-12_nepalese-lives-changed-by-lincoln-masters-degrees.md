@@ -1,9 +1,13 @@
 ---
 slug: nepalese-lives-changed-by-lincoln-masters-degrees
-title: "Nepalese lives changed by Lincoln master’s degrees"
-date: 2013-04-12
-source-url: https://www.scoop.co.nz/stories/ED1304/S00088/nepalese-lives-changed-by-lincoln-masters-degrees.htm
+title: Nepalese lives changed by Lincoln master’s degrees
+date: 2013-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00088/nepalese-lives-changed-by-lincoln-masters-degrees.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/04/12/nepalese-lives-changed-by-lincoln-masters-degrees/index.html
+layout: layout.njk
 ---
 Nepalese lives changed by Lincoln master’s degrees
 ==================================================

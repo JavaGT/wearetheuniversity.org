@@ -1,9 +1,12 @@
 ---
 slug: world-teachers-day-5-october-2006
-title: "World Teachers’ Day: 5 October 2006"
-date: 2006-09-20
-source-url: https://www.scoop.co.nz/stories/ED0609/S00080/world-teachers-day-5-october-2006.htm
+title: 'World Teachers’ Day: 5 October 2006'
+date: 2006-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00080/world-teachers-day-5-october-2006.htm
 author: nzei
+permalink: /archive/2006/09/20/world-teachers-day-5-october-2006/index.html
+layout: layout.njk
 ---
 World Teachers’ Day: 5 October 2006
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: lack-of-support-forces-export-ed-u-turn
-title: "Lack of support forces export ed U-turn"
-date: 2004-04-16
-source-url: https://www.scoop.co.nz/stories/PA0404/S00262/lack-of-support-forces-export-ed-u-turn.htm
+title: Lack of support forces export ed U-turn
+date: 2004-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00262/lack-of-support-forces-export-ed-u-turn.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/16/lack-of-support-forces-export-ed-u-turn/index.html
+layout: layout.njk
 ---
 Lack of support forces export ed U-turn
 =======================================

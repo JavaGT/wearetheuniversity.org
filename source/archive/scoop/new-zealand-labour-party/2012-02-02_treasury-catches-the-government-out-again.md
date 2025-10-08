@@ -1,9 +1,12 @@
 ---
 slug: treasury-catches-the-government-out-again
-title: "Treasury catches the Government out again"
-date: 2012-02-02
-source-url: https://www.scoop.co.nz/stories/PA1202/S00022/treasury-catches-the-government-out-again.htm
+title: Treasury catches the Government out again
+date: 2012-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1202/S00022/treasury-catches-the-government-out-again.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/02/02/treasury-catches-the-government-out-again/index.html
+layout: layout.njk
 ---
 Treasury catches the Government out again
 =========================================

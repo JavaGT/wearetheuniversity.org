@@ -1,9 +1,13 @@
 ---
 slug: serious-assaults-in-nz-disturbingly-high-otago-research
-title: "Serious assaults in NZ disturbingly high: Otago research"
-date: 2012-10-12
-source-url: https://www.scoop.co.nz/stories/PO1210/S00181/serious-assaults-in-nz-disturbingly-high-otago-research.htm
+title: 'Serious assaults in NZ disturbingly high: Otago research'
+date: 2012-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1210/S00181/serious-assaults-in-nz-disturbingly-high-otago-research.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/10/12/serious-assaults-in-nz-disturbingly-high-otago-research/index.html
+layout: layout.njk
 ---
 Serious assaults in NZ disturbingly high: Otago research
 ========================================================

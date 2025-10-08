@@ -1,9 +1,12 @@
 ---
 slug: roy-speech-to-the-national-press-club
-title: "Roy: Speech to the National Press Club"
-date: 2008-06-06
-source-url: https://www.scoop.co.nz/stories/PA0806/S00077/roy-speech-to-the-national-press-club.htm
+title: 'Roy: Speech to the National Press Club'
+date: 2008-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0806/S00077/roy-speech-to-the-national-press-club.htm
 author: act-new-zealand
+permalink: /archive/2008/06/06/roy-speech-to-the-national-press-club/index.html
+layout: layout.njk
 ---
 Roy: Speech to the National Press Club
 ======================================

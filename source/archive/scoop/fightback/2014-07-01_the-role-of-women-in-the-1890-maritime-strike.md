@@ -1,9 +1,12 @@
 ---
 slug: the-role-of-women-in-the-1890-maritime-strike
-title: "The Role of Women in the 1890 Maritime Strike"
-date: 2014-07-01
-source-url: https://www.scoop.co.nz/stories/HL1407/S00009/the-role-of-women-in-the-1890-maritime-strike.htm
+title: The Role of Women in the 1890 Maritime Strike
+date: 2014-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL1407/S00009/the-role-of-women-in-the-1890-maritime-strike.htm
 author: fightback
+permalink: /archive/2014/07/01/the-role-of-women-in-the-1890-maritime-strike/index.html
+layout: layout.njk
 ---
 The Role of Women in the 1890 Maritime Strike
 =============================================

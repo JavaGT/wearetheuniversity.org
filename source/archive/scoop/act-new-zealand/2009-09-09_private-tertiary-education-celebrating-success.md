@@ -1,9 +1,12 @@
 ---
 slug: private-tertiary-education-celebrating-success
-title: "Private Tertiary Education - Celebrating Success"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/PA0909/S00110/private-tertiary-education-celebrating-success.htm
+title: Private Tertiary Education - Celebrating Success
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00110/private-tertiary-education-celebrating-success.htm
 author: act-new-zealand
+permalink: /archive/2009/09/09/private-tertiary-education-celebrating-success/index.html
+layout: layout.njk
 ---
 Private Tertiary Education - Celebrating Success
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: bunker-studio-celebrates-silver-jubilee
-title: "\"Bunker\" Studio celebrates silver jubilee"
-date: 2006-08-16
-source-url: https://www.scoop.co.nz/stories/AK0608/S00158/bunker-studio-celebrates-silver-jubilee.htm
+title: '"Bunker" Studio celebrates silver jubilee'
+date: 2006-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0608/S00158/bunker-studio-celebrates-silver-jubilee.htm
 author: university-of-canterbury
+permalink: /archive/2006/08/16/bunker-studio-celebrates-silver-jubilee/index.html
+layout: layout.njk
 ---
 “Bunker” Studio celebrates silver jubilee
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: clearer-expectations-of-home-learning-required
-title: "Clearer expectations of home learning required"
-date: 2021-09-17
-source-url: https://www.scoop.co.nz/stories/PA2109/S00156/clearer-expectations-of-home-learning-required.htm
+title: Clearer expectations of home learning required
+date: 2021-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2109/S00156/clearer-expectations-of-home-learning-required.htm
 author: new-zealand-national-party
+permalink: /archive/2021/09/17/clearer-expectations-of-home-learning-required/index.html
+layout: layout.njk
 ---
 Clearer expectations of home learning required
 ==============================================

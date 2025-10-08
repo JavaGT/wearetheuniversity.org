@@ -1,9 +1,13 @@
 ---
 slug: report-of-the-2016-academic-audit-of-lincoln-university
-title: "Report of the 2016 Academic Audit of Lincoln University"
-date: 2016-12-13
-source-url: https://www.scoop.co.nz/stories/ED1612/S00049/report-of-the-2016-academic-audit-of-lincoln-university.htm
+title: Report of the 2016 Academic Audit of Lincoln University
+date: 2016-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1612/S00049/report-of-the-2016-academic-audit-of-lincoln-university.htm
 author: academic-quality-agency-for-nz-universities
+permalink: >-
+  /archive/2016/12/13/report-of-the-2016-academic-audit-of-lincoln-university/index.html
+layout: layout.njk
 ---
 Report of the 2016 Academic Audit of Lincoln University
 =======================================================

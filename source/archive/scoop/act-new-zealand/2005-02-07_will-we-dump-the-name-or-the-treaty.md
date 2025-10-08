@@ -1,9 +1,12 @@
 ---
 slug: will-we-dump-the-name-or-the-treaty
-title: "Will We Dump the Name or the Treaty?"
-date: 2005-02-07
-source-url: https://www.scoop.co.nz/stories/PA0502/S00127/will-we-dump-the-name-or-the-treaty.htm
+title: Will We Dump the Name or the Treaty?
+date: 2005-02-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00127/will-we-dump-the-name-or-the-treaty.htm
 author: act-new-zealand
+permalink: /archive/2005/02/07/will-we-dump-the-name-or-the-treaty/index.html
+layout: layout.njk
 ---
 Will We Dump the Name or the Treaty?
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: music-and-fun-at-study-at-vic-day-2005
-title: "Music and fun at Study at Vic Day 2005"
-date: 2005-08-09
-source-url: https://www.scoop.co.nz/stories/ED0508/S00036/music-and-fun-at-study-at-vic-day-2005.htm
+title: Music and fun at Study at Vic Day 2005
+date: 2005-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0508/S00036/music-and-fun-at-study-at-vic-day-2005.htm
 author: victoria-university-of-wellington
+permalink: /archive/2005/08/09/music-and-fun-at-study-at-vic-day-2005/index.html
+layout: layout.njk
 ---
 Music and fun at Study at Vic Day 2005
 ======================================

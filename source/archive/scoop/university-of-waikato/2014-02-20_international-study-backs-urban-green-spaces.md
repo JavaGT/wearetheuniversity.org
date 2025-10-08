@@ -1,9 +1,12 @@
 ---
 slug: international-study-backs-urban-green-spaces
-title: "International study backs urban green spaces"
-date: 2014-02-20
-source-url: https://www.scoop.co.nz/stories/SC1402/S00039/international-study-backs-urban-green-spaces.htm
+title: International study backs urban green spaces
+date: 2014-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1402/S00039/international-study-backs-urban-green-spaces.htm
 author: university-of-waikato
+permalink: /archive/2014/02/20/international-study-backs-urban-green-spaces/index.html
+layout: layout.njk
 ---
 International study backs urban green spaces
 ============================================

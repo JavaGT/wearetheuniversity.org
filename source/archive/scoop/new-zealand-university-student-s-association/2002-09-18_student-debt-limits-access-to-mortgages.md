@@ -1,9 +1,12 @@
 ---
 slug: student-debt-limits-access-to-mortgages
-title: "Student Debt limits access to Mortgages"
-date: 2002-09-18
-source-url: https://www.scoop.co.nz/stories/PO0209/S00088/student-debt-limits-access-to-mortgages.htm
+title: Student Debt limits access to Mortgages
+date: 2002-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0209/S00088/student-debt-limits-access-to-mortgages.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2002/09/18/student-debt-limits-access-to-mortgages/index.html
+layout: layout.njk
 ---
 Student Debt limits access to Mortgages
 =======================================

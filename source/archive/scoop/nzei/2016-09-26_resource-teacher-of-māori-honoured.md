@@ -1,9 +1,12 @@
 ---
 slug: resource-teacher-of-māori-honoured
-title: "Resource Teacher of Māori honoured"
-date: 2016-09-26
-source-url: https://www.scoop.co.nz/stories/ED1609/S00125/resource-teacher-of-maori-honoured.htm
+title: Resource Teacher of Māori honoured
+date: 2016-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00125/resource-teacher-of-maori-honoured.htm
 author: nzei
+permalink: /archive/2016/09/26/resource-teacher-of-m/index.html
+layout: layout.njk
 ---
 Resource Teacher of Māori honoured
 ==================================

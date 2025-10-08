@@ -1,9 +1,13 @@
 ---
 slug: major-fundamental-changes-required-to-achieve-health-equity
-title: "Major fundamental changes required to achieve health equity"
-date: 2018-07-09
-source-url: https://www.scoop.co.nz/stories/GE1807/S00034/major-fundamental-changes-required-to-achieve-health-equity.htm
+title: Major fundamental changes required to achieve health equity
+date: 2018-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1807/S00034/major-fundamental-changes-required-to-achieve-health-equity.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/07/09/major-fundamental-changes-required-to-achieve-health-equity/index.html
+layout: layout.njk
 ---
 Major fundamental changes required to achieve health equity
 ===========================================================

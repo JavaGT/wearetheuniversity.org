@@ -1,9 +1,13 @@
 ---
 slug: green-party-welcomes-labours-commitment-to-clean-up-rivers
-title: "Green Party Welcomes Labour’s Commitment to Clean Up Rivers"
-date: 2017-08-09
-source-url: https://www.scoop.co.nz/stories/PO1708/S00176/green-party-welcomes-labours-commitment-to-clean-up-rivers.htm
+title: Green Party Welcomes Labour’s Commitment to Clean Up Rivers
+date: 2017-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00176/green-party-welcomes-labours-commitment-to-clean-up-rivers.htm
 author: green-party
+permalink: >-
+  /archive/2017/08/09/green-party-welcomes-labours-commitment-to-clean-up-rivers/index.html
+layout: layout.njk
 ---
 Green Party Welcomes Labour’s Commitment to Clean Up Rivers
 ===========================================================

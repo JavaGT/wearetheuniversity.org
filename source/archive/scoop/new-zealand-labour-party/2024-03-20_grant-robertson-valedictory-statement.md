@@ -1,9 +1,12 @@
 ---
 slug: grant-robertson-valedictory-statement
-title: "Grant Robertson Valedictory Statement"
-date: 2024-03-20
-source-url: https://www.scoop.co.nz/stories/PA2403/S00101/grant-robertson-valedictory-statement.htm
+title: Grant Robertson Valedictory Statement
+date: 2024-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2403/S00101/grant-robertson-valedictory-statement.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/03/20/grant-robertson-valedictory-statement/index.html
+layout: layout.njk
 ---
 Grant Robertson Valedictory Statement
 =====================================

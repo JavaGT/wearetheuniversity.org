@@ -1,9 +1,12 @@
 ---
 slug: nzei-te-riu-roa-gives-budget-6-out-of-10
-title: "NZEI Te Riu Roa Gives Budget 6 Out Of 10"
-date: 2005-05-19
-source-url: https://www.scoop.co.nz/stories/ED0505/S00089/nzei-te-riu-roa-gives-budget-6-out-of-10.htm
+title: NZEI Te Riu Roa Gives Budget 6 Out Of 10
+date: 2005-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00089/nzei-te-riu-roa-gives-budget-6-out-of-10.htm
 author: nzei
+permalink: /archive/2005/05/19/nzei-te-riu-roa-gives-budget-6-out-of-10/index.html
+layout: layout.njk
 ---
 NZEI Te Riu Roa Gives Budget 6 Out Of 10
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-takes-crown-in-nz-business-case-league-2018
-title: "Waikato takes crown in NZ Business Case League 2018"
-date: 2018-07-24
-source-url: https://www.scoop.co.nz/stories/ED1807/S00055/waikato-takes-crown-in-nz-business-case-league-2018.htm
+title: Waikato takes crown in NZ Business Case League 2018
+date: 2018-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1807/S00055/waikato-takes-crown-in-nz-business-case-league-2018.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2018/07/24/waikato-takes-crown-in-nz-business-case-league-2018/index.html
+layout: layout.njk
 ---
 Waikato takes crown in NZ Business Case League 2018
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: aa-backs-cosgrove-on-styx-bridge-proposed-delay
-title: "AA Backs Cosgrove On Styx  Bridge Proposed Delay"
-date: 2003-06-20
-source-url: https://www.scoop.co.nz/stories/PA0306/S00385/aa-backs-cosgrove-on-styx-bridge-proposed-delay.htm
+title: AA Backs Cosgrove On Styx  Bridge Proposed Delay
+date: 2003-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0306/S00385/aa-backs-cosgrove-on-styx-bridge-proposed-delay.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/06/20/aa-backs-cosgrove-on-styx-bridge-proposed-delay/index.html
+layout: layout.njk
 ---
 AA Backs Cosgrove On Styx Bridge Proposed Delay
 ===============================================

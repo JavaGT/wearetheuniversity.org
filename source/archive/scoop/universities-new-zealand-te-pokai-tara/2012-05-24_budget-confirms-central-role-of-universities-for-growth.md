@@ -1,9 +1,13 @@
 ---
 slug: budget-confirms-central-role-of-universities-for-growth
-title: "Budget Confirms Central Role Of Universities For Growth"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/ED1205/S00119/budget-confirms-central-role-of-universities-for-growth.htm
+title: Budget Confirms Central Role Of Universities For Growth
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00119/budget-confirms-central-role-of-universities-for-growth.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2012/05/24/budget-confirms-central-role-of-universities-for-growth/index.html
+layout: layout.njk
 ---
 Budget Confirms Central Role Of Universities For Growth
 =======================================================

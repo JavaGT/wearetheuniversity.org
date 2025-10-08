@@ -1,9 +1,13 @@
 ---
 slug: social-learning-is-possum-able-world-first-research-suggests
-title: "Social Learning Is Possum-able, World-first Research Suggests"
-date: 2023-01-23
-source-url: https://www.scoop.co.nz/stories/ED2301/S00009/social-learning-is-possum-able-world-first-research-suggests.htm
+title: Social Learning Is Possum-able, World-first Research Suggests
+date: 2023-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2301/S00009/social-learning-is-possum-able-world-first-research-suggests.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/01/23/social-learning-is-possum-able-world-first-research-suggests/index.html
+layout: layout.njk
 ---
 Social Learning Is Possum-able, World-first Research Suggests
 =============================================================

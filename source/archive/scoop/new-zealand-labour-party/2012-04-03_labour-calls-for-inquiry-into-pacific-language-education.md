@@ -1,9 +1,13 @@
 ---
 slug: labour-calls-for-inquiry-into-pacific-language-education
-title: "Labour Calls for Inquiry into Pacific language Education"
-date: 2012-04-03
-source-url: https://www.scoop.co.nz/stories/PA1204/S00033/labour-calls-for-inquiry-into-pacific-language-education.htm
+title: Labour Calls for Inquiry into Pacific language Education
+date: 2012-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1204/S00033/labour-calls-for-inquiry-into-pacific-language-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/04/03/labour-calls-for-inquiry-into-pacific-language-education/index.html
+layout: layout.njk
 ---
 Labour Calls for Inquiry into Pacific language Education
 ========================================================

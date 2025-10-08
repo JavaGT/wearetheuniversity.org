@@ -1,9 +1,12 @@
 ---
 slug: target-school-funding-to-student-needs
-title: "Target School Funding to Student Needs"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/PA1411/S00145/target-school-funding-to-student-needs.htm
+title: Target School Funding to Student Needs
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00145/target-school-funding-to-student-needs.htm
 author: new-zealand-first-party
+permalink: /archive/2014/11/11/target-school-funding-to-student-needs/index.html
+layout: layout.njk
 ---
 Target School Funding to Student Needs
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: survey-reveals-high-levels-of-employment-for-graduates
-title: "Survey reveals high levels of employment for graduates"
-date: 2011-12-12
-source-url: https://www.scoop.co.nz/stories/ED1112/S00057/survey-reveals-high-levels-of-employment-for-graduates.htm
+title: Survey reveals high levels of employment for graduates
+date: 2011-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00057/survey-reveals-high-levels-of-employment-for-graduates.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/12/12/survey-reveals-high-levels-of-employment-for-graduates/index.html
+layout: layout.njk
 ---
 Survey reveals high levels of employment for graduates
 ======================================================

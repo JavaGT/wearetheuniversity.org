@@ -1,9 +1,12 @@
 ---
 slug: eqc-review-must-hear-the-voice-of-canterbury
-title: "EQC review must hear the voice of Canterbury"
-date: 2012-09-18
-source-url: https://www.scoop.co.nz/stories/PA1209/S00272/eqc-review-must-hear-the-voice-of-canterbury.htm
+title: EQC review must hear the voice of Canterbury
+date: 2012-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1209/S00272/eqc-review-must-hear-the-voice-of-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/09/18/eqc-review-must-hear-the-voice-of-canterbury/index.html
+layout: layout.njk
 ---
 EQC review must hear the voice of Canterbury
 ============================================

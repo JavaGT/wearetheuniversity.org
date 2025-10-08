@@ -1,9 +1,12 @@
 ---
 slug: well-miss-our-teachers-say-parents-and-children
-title: "\"We’ll miss our teachers,\" say parents and children"
-date: 2018-08-05
-source-url: https://www.scoop.co.nz/stories/ED1808/S00009/well-miss-our-teachers-say-parents-and-children.htm
+title: '"We’ll miss our teachers," say parents and children'
+date: 2018-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1808/S00009/well-miss-our-teachers-say-parents-and-children.htm
 author: nzei
+permalink: /archive/2018/08/05/well-miss-our-teachers-say-parents-and-children/index.html
+layout: layout.njk
 ---
 “We’ll miss our teachers,” say parents and children
 ===================================================

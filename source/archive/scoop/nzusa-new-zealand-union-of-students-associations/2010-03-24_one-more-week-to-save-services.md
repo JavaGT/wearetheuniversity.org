@@ -1,9 +1,12 @@
 ---
 slug: one-more-week-to-save-services
-title: "One more week to save services"
-date: 2010-03-24
-source-url: https://www.scoop.co.nz/stories/PO1003/S00382/one-more-week-to-save-services.htm
+title: One more week to save services
+date: 2010-03-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1003/S00382/one-more-week-to-save-services.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2010/03/24/one-more-week-to-save-services/index.html
+layout: layout.njk
 ---
 One more week to save services
 ==============================

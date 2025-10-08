@@ -1,9 +1,13 @@
 ---
 slug: quitting-smoking-unlikely-to-cause-long-term-weight-gain
-title: "Quitting smoking unlikely to cause long-term weight gain"
-date: 2014-01-27
-source-url: https://www.scoop.co.nz/stories/GE1401/S00059/quitting-smoking-unlikely-to-cause-long-term-weight-gain.htm
+title: Quitting smoking unlikely to cause long-term weight gain
+date: 2014-01-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1401/S00059/quitting-smoking-unlikely-to-cause-long-term-weight-gain.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/01/27/quitting-smoking-unlikely-to-cause-long-term-weight-gain/index.html
+layout: layout.njk
 ---
 Quitting smoking unlikely to cause long-term weight gain
 ========================================================

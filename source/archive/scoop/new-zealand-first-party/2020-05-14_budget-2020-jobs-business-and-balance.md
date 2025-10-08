@@ -1,9 +1,12 @@
 ---
 slug: budget-2020-jobs-business-and-balance
-title: "Budget 2020: Jobs, Business And Balance"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/PA2005/S00139/budget-2020-jobs-business-and-balance.htm
+title: 'Budget 2020: Jobs, Business And Balance'
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2005/S00139/budget-2020-jobs-business-and-balance.htm
 author: new-zealand-first-party
+permalink: /archive/2020/05/14/budget-2020-jobs-business-and-balance/index.html
+layout: layout.njk
 ---
 Budget 2020: Jobs, Business And Balance
 =======================================

@@ -1,9 +1,11 @@
 ---
 slug: 1-october-campaign-launch
-title: "1 October campaign launch"
-date: 2010-09-27
+title: 1 October campaign launch
+date: 2010-09-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1009/S00389/1-october-campaign-launch.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/09/27/1-october-campaign-launch/index.html
+layout: layout.njk
 ---
 1 October campaign launch
 =========================

@@ -1,9 +1,12 @@
 ---
 slug: parlez-vous-français-celebrating-france-in-dunedin
-title: "Parlez-vous français? Celebrating France in Dunedin"
-date: 2017-09-15
-source-url: https://www.scoop.co.nz/stories/CU1709/S00317/parlez-vous-francais-celebrating-france-in-dunedin.htm
+title: Parlez-vous français? Celebrating France in Dunedin
+date: 2017-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1709/S00317/parlez-vous-francais-celebrating-france-in-dunedin.htm
 author: university-of-otago
+permalink: /archive/2017/09/15/parlez-vous-fran/index.html
+layout: layout.njk
 ---
 Parlez-vous français? Celebrating France in Dunedin
 ===================================================

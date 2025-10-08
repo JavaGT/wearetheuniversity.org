@@ -1,9 +1,12 @@
 ---
 slug: act-announces-list-for-2020-general-election
-title: "ACT Announces List For 2020 General Election"
-date: 2020-06-28
-source-url: https://www.scoop.co.nz/stories/PA2006/S00267/act-announces-list-for-2020-general-election.htm
+title: ACT Announces List For 2020 General Election
+date: 2020-06-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2006/S00267/act-announces-list-for-2020-general-election.htm
 author: act-new-zealand
+permalink: /archive/2020/06/28/act-announces-list-for-2020-general-election/index.html
+layout: layout.njk
 ---
 ACT Announces List For 2020 General Election
 ============================================

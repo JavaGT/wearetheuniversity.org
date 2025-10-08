@@ -1,9 +1,12 @@
 ---
 slug: skilled-new-zealanders-leave-in-record-numbers
-title: "Skilled New Zealanders Leave in Record Numbers"
-date: 2000-11-21
-source-url: https://www.scoop.co.nz/stories/PA0011/S00371/skilled-new-zealanders-leave-in-record-numbers.htm
+title: Skilled New Zealanders Leave in Record Numbers
+date: 2000-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00371/skilled-new-zealanders-leave-in-record-numbers.htm
 author: act-new-zealand
+permalink: /archive/2000/11/21/skilled-new-zealanders-leave-in-record-numbers/index.html
+layout: layout.njk
 ---
 Skilled New Zealanders Leave in Record Numbers
 ==============================================

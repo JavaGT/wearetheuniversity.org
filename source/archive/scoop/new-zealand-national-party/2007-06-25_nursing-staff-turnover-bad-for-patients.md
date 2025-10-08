@@ -1,9 +1,12 @@
 ---
 slug: nursing-staff-turnover-bad-for-patients
-title: "Nursing staff turnover bad for patients"
-date: 2007-06-25
-source-url: https://www.scoop.co.nz/stories/PA0706/S00485/nursing-staff-turnover-bad-for-patients.htm
+title: Nursing staff turnover bad for patients
+date: 2007-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0706/S00485/nursing-staff-turnover-bad-for-patients.htm
 author: new-zealand-national-party
+permalink: /archive/2007/06/25/nursing-staff-turnover-bad-for-patients/index.html
+layout: layout.njk
 ---
 Nursing staff turnover bad for patients
 =======================================

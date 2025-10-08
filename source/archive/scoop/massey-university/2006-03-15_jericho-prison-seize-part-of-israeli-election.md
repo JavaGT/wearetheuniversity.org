@@ -1,9 +1,12 @@
 ---
 slug: jericho-prison-seize-part-of-israeli-election
-title: "Jericho prison seize part of Israeli election"
-date: 2006-03-15
-source-url: https://www.scoop.co.nz/stories/PO0603/S00117/jericho-prison-seize-part-of-israeli-election.htm
+title: Jericho prison seize part of Israeli election
+date: 2006-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0603/S00117/jericho-prison-seize-part-of-israeli-election.htm
 author: massey-university
+permalink: /archive/2006/03/15/jericho-prison-seize-part-of-israeli-election/index.html
+layout: layout.njk
 ---
 Jericho prison seize part of Israeli election
 =============================================

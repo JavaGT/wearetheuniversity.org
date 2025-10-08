@@ -1,9 +1,13 @@
 ---
 slug: labours-plan-for-lifting-childrens-achievement-in-schools
-title: "Labour’s plan for lifting children’s achievement in schools"
-date: 2011-09-14
-source-url: https://www.scoop.co.nz/stories/PA1109/S00278/labours-plan-for-lifting-childrens-achievement-in-schools.htm
+title: Labour’s plan for lifting children’s achievement in schools
+date: 2011-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00278/labours-plan-for-lifting-childrens-achievement-in-schools.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/09/14/labours-plan-for-lifting-childrens-achievement-in-schools/index.html
+layout: layout.njk
 ---
 Labour’s plan for lifting children’s achievement in schools
 ===========================================================

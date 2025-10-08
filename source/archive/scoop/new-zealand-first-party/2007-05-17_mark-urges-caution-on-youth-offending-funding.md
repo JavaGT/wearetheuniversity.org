@@ -1,9 +1,12 @@
 ---
 slug: mark-urges-caution-on-youth-offending-funding
-title: "Mark Urges Caution On Youth Offending Funding"
-date: 2007-05-17
-source-url: https://www.scoop.co.nz/stories/PA0705/S00475/mark-urges-caution-on-youth-offending-funding.htm
+title: Mark Urges Caution On Youth Offending Funding
+date: 2007-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00475/mark-urges-caution-on-youth-offending-funding.htm
 author: new-zealand-first-party
+permalink: /archive/2007/05/17/mark-urges-caution-on-youth-offending-funding/index.html
+layout: layout.njk
 ---
 Mark Urges Caution On Youth Offending Funding
 =============================================

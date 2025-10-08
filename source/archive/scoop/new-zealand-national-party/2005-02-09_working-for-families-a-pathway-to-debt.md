@@ -1,9 +1,12 @@
 ---
 slug: working-for-families-a-pathway-to-debt
-title: "Working For Families A Pathway To Debt"
-date: 2005-02-09
-source-url: https://www.scoop.co.nz/stories/PA0502/S00174/working-for-families-a-pathway-to-debt.htm
+title: Working For Families A Pathway To Debt
+date: 2005-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00174/working-for-families-a-pathway-to-debt.htm
 author: new-zealand-national-party
+permalink: /archive/2005/02/09/working-for-families-a-pathway-to-debt/index.html
+layout: layout.njk
 ---
 Working For Families A Pathway To Debt
 ======================================

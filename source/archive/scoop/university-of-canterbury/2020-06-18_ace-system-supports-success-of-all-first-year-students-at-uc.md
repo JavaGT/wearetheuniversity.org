@@ -1,9 +1,13 @@
 ---
 slug: ace-system-supports-success-of-all-first-year-students-at-uc
-title: "ACE System Supports Success Of All First-year Students At UC"
-date: 2020-06-18
-source-url: https://www.scoop.co.nz/stories/ED2006/S00022/ace-system-supports-success-of-all-first-year-students-at-uc.htm
+title: ACE System Supports Success Of All First-year Students At UC
+date: 2020-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2006/S00022/ace-system-supports-success-of-all-first-year-students-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2020/06/18/ace-system-supports-success-of-all-first-year-students-at-uc/index.html
+layout: layout.njk
 ---
 ACE System Supports Success Of All First-year Students At UC
 ============================================================

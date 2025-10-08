@@ -1,9 +1,13 @@
 ---
 slug: research-shows-drivers-mimic-bad-stop-sign-behavior
-title: "Research shows drivers mimic bad stop sign behavior"
-date: 2018-02-12
-source-url: https://www.scoop.co.nz/stories/SC1802/S00025/research-shows-drivers-mimic-bad-stop-sign-behavior.htm
+title: Research shows drivers mimic bad stop sign behavior
+date: 2018-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1802/S00025/research-shows-drivers-mimic-bad-stop-sign-behavior.htm
 author: massey-university
+permalink: >-
+  /archive/2018/02/12/research-shows-drivers-mimic-bad-stop-sign-behavior/index.html
+layout: layout.njk
 ---
 Research shows drivers mimic bad stop sign behavior
 ===================================================

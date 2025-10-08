@@ -1,9 +1,12 @@
 ---
 slug: advertainment-more-than-sex-and-the-city-cosmos
-title: "Advertainment: more than Sex and the City cosmos"
-date: 2008-05-21
-source-url: https://www.scoop.co.nz/stories/ED0805/S00078/advertainment-more-than-sex-and-the-city-cosmos.htm
+title: 'Advertainment: more than Sex and the City cosmos'
+date: 2008-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00078/advertainment-more-than-sex-and-the-city-cosmos.htm
 author: aut-university
+permalink: /archive/2008/05/21/advertainment-more-than-sex-and-the-city-cosmos/index.html
+layout: layout.njk
 ---
 Advertainment: more than Sex and the City cosmos
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: no-cause-evictions-leave-no-hope-for-renters
-title: "No-cause Evictions Leave No Hope For Renters"
-date: 2024-05-16
-source-url: https://www.scoop.co.nz/stories/PA2405/S00122/no-cause-evictions-leave-no-hope-for-renters.htm
+title: No-cause Evictions Leave No Hope For Renters
+date: 2024-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2405/S00122/no-cause-evictions-leave-no-hope-for-renters.htm
 author: green-party
+permalink: /archive/2024/05/16/no-cause-evictions-leave-no-hope-for-renters/index.html
+layout: layout.njk
 ---
 No-cause Evictions Leave No Hope For Renters
 ============================================

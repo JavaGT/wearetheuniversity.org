@@ -1,9 +1,11 @@
 ---
 slug: wie-can-engineer-a-career
-title: "WiE CAN: Engineer A Career"
-date: 2020-07-28
+title: 'WiE CAN: Engineer A Career'
+date: 2020-07-28T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED2007/S00041/wie-can-engineer-a-career.htm
 author: university-of-canterbury
+permalink: /archive/2020/07/28/wie-can-engineer-a-career/index.html
+layout: layout.njk
 ---
 WiE CAN: Engineer A Career
 ==========================

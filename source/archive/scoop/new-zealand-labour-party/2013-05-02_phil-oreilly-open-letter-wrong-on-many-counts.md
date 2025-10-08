@@ -1,9 +1,12 @@
 ---
 slug: phil-oreilly-open-letter-wrong-on-many-counts
-title: "Phil O’Reilly open letter wrong on many counts"
-date: 2013-05-02
-source-url: https://www.scoop.co.nz/stories/PA1305/S00024/phil-oreilly-open-letter-wrong-on-many-counts.htm
+title: Phil O’Reilly open letter wrong on many counts
+date: 2013-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00024/phil-oreilly-open-letter-wrong-on-many-counts.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/02/phil-oreilly-open-letter-wrong-on-many-counts/index.html
+layout: layout.njk
 ---
 Phil O’Reilly open letter wrong on many counts
 ==============================================

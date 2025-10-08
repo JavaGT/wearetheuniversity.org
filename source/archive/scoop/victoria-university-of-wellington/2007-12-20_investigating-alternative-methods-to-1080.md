@@ -1,9 +1,12 @@
 ---
 slug: investigating-alternative-methods-to-1080
-title: "Investigating Alternative Methods To 1080"
-date: 2007-12-20
-source-url: https://www.scoop.co.nz/stories/SC0712/S00056/investigating-alternative-methods-to-1080.htm
+title: Investigating Alternative Methods To 1080
+date: 2007-12-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0712/S00056/investigating-alternative-methods-to-1080.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/12/20/investigating-alternative-methods-to-1080/index.html
+layout: layout.njk
 ---
 Investigating Alternative Methods To 1080
 =========================================

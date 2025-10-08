@@ -1,9 +1,13 @@
 ---
 slug: greens-announce-4-point-plan-to-stop-runaway-housing-crisis
-title: "Greens Announce 4 Point Plan To Stop Runaway Housing Crisis"
-date: 2021-03-17
-source-url: https://www.scoop.co.nz/stories/PA2103/S00113/greens-announce-4-point-plan-to-stop-runaway-housing-crisis.htm
+title: Greens Announce 4 Point Plan To Stop Runaway Housing Crisis
+date: 2021-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00113/greens-announce-4-point-plan-to-stop-runaway-housing-crisis.htm
 author: green-party
+permalink: >-
+  /archive/2021/03/17/greens-announce-4-point-plan-to-stop-runaway-housing-crisis/index.html
+layout: layout.njk
 ---
 Greens Announce 4 Point Plan To Stop Runaway Housing Crisis
 ===========================================================

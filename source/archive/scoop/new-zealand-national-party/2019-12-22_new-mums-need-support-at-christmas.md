@@ -1,9 +1,12 @@
 ---
 slug: new-mums-need-support-at-christmas
-title: "New mums need support at Christmas"
-date: 2019-12-22
-source-url: https://www.scoop.co.nz/stories/PA1912/S00205/new-mums-need-support-at-christmas.htm
+title: New mums need support at Christmas
+date: 2019-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00205/new-mums-need-support-at-christmas.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/22/new-mums-need-support-at-christmas/index.html
+layout: layout.njk
 ---
 New mums need support at Christmas
 ==================================

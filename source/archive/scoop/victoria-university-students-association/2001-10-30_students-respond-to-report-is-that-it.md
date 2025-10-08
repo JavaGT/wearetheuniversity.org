@@ -1,9 +1,12 @@
 ---
 slug: students-respond-to-report-is-that-it
-title: "Students Respond to Report  \"Is that it?\""
-date: 2001-10-30
-source-url: https://www.scoop.co.nz/stories/ED0110/S00038/students-respond-to-report-is-that-it.htm
+title: Students Respond to Report  "Is that it?"
+date: 2001-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0110/S00038/students-respond-to-report-is-that-it.htm
 author: victoria-university-students-association
+permalink: /archive/2001/10/30/students-respond-to-report-is-that-it/index.html
+layout: layout.njk
 ---
 Students Respond to Report \"Is that it?"
 ========================================

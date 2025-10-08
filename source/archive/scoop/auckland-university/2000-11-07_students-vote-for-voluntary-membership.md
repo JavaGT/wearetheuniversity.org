@@ -1,9 +1,12 @@
 ---
 slug: students-vote-for-voluntary-membership
-title: "Students Vote For Voluntary Membership"
-date: 2000-11-07
-source-url: https://www.scoop.co.nz/stories/ED0011/S00018/students-vote-for-voluntary-membership.htm
+title: Students Vote For Voluntary Membership
+date: 2000-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00018/students-vote-for-voluntary-membership.htm
 author: auckland-university
+permalink: /archive/2000/11/07/students-vote-for-voluntary-membership/index.html
+layout: layout.njk
 ---
 Students Vote For Voluntary Membership
 ======================================

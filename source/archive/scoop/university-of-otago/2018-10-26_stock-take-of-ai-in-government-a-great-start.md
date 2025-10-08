@@ -1,9 +1,12 @@
 ---
 slug: stock-take-of-ai-in-government-a-great-start
-title: "Stock-take of AI in government a great start"
-date: 2018-10-26
-source-url: https://www.scoop.co.nz/stories/PO1810/S00379/stock-take-of-ai-in-government-a-great-start.htm
+title: Stock-take of AI in government a great start
+date: 2018-10-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1810/S00379/stock-take-of-ai-in-government-a-great-start.htm
 author: university-of-otago
+permalink: /archive/2018/10/26/stock-take-of-ai-in-government-a-great-start/index.html
+layout: layout.njk
 ---
 Stock-take of AI in government a great start
 ============================================

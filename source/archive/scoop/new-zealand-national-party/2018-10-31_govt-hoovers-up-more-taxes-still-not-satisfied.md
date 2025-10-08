@@ -1,9 +1,12 @@
 ---
 slug: govt-hoovers-up-more-taxes-still-not-satisfied
-title: "Govt hoovers up more taxes – still not satisfied"
-date: 2018-10-31
-source-url: https://www.scoop.co.nz/stories/PA1810/S00298/govt-hoovers-up-more-taxes-still-not-satisfied.htm
+title: Govt hoovers up more taxes – still not satisfied
+date: 2018-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00298/govt-hoovers-up-more-taxes-still-not-satisfied.htm
 author: new-zealand-national-party
+permalink: /archive/2018/10/31/govt-hoovers-up-more-taxes-still-not-satisfied/index.html
+layout: layout.njk
 ---
 Govt hoovers up more taxes – still not satisfied
 ================================================

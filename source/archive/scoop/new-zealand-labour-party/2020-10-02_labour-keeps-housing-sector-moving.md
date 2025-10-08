@@ -1,9 +1,12 @@
 ---
 slug: labour-keeps-housing-sector-moving
-title: "Labour Keeps Housing Sector Moving"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/PA2010/S00024/labour-keeps-housing-sector-moving.htm
+title: Labour Keeps Housing Sector Moving
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2010/S00024/labour-keeps-housing-sector-moving.htm
 author: new-zealand-labour-party
+permalink: /archive/2020/10/02/labour-keeps-housing-sector-moving/index.html
+layout: layout.njk
 ---
 Labour Keeps Housing Sector Moving
 ==================================

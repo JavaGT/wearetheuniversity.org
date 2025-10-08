@@ -1,9 +1,12 @@
 ---
 slug: public-forum-on-the-canterbury-earthquake
-title: "Public Forum on the Canterbury Earthquake"
-date: 2010-11-05
-source-url: https://www.scoop.co.nz/stories/PA1011/S00108/public-forum-on-the-canterbury-earthquake.htm
+title: Public Forum on the Canterbury Earthquake
+date: 2010-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1011/S00108/public-forum-on-the-canterbury-earthquake.htm
 author: green-party
+permalink: /archive/2010/11/05/public-forum-on-the-canterbury-earthquake/index.html
+layout: layout.njk
 ---
 Public Forum on the Canterbury Earthquake
 =========================================

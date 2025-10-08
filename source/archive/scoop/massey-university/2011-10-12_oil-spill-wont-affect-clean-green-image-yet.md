@@ -1,9 +1,12 @@
 ---
 slug: oil-spill-wont-affect-clean-green-image-yet
-title: "‘Oil spill won’t affect clean green image – yet'"
-date: 2011-10-12
-source-url: https://www.scoop.co.nz/stories/ED1110/S00043/oil-spill-wont-affect-clean-green-image-yet.htm
+title: ‘Oil spill won’t affect clean green image – yet'
+date: 2011-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00043/oil-spill-wont-affect-clean-green-image-yet.htm
 author: massey-university
+permalink: /archive/2011/10/12/oil-spill-wont-affect-clean-green-image-yet/index.html
+layout: layout.njk
 ---
 ‘Oil spill won’t affect clean green image – yet'
 ================================================

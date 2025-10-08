@@ -1,9 +1,12 @@
 ---
 slug: litmus-overcoming-loathing-launch
-title: "Litmus: Overcoming Loathing Launch"
-date: 2007-09-27
-source-url: https://www.scoop.co.nz/stories/CU0709/S00315/litmus-overcoming-loathing-launch.htm
+title: 'Litmus: Overcoming Loathing Launch'
+date: 2007-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0709/S00315/litmus-overcoming-loathing-launch.htm
 author: massey-university
+permalink: /archive/2007/09/27/litmus-overcoming-loathing-launch/index.html
+layout: layout.njk
 ---
 Litmus: Overcoming Loathing Launch
 ==================================

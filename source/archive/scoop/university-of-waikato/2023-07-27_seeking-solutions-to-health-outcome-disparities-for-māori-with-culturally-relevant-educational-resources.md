@@ -1,9 +1,16 @@
 ---
-slug: seeking-solutions-to-health-outcome-disparities-for-māori-with-culturally-relevant-educational-resources
-title: "Seeking Solutions To Health Outcome Disparities For Māori With Culturally Relevant Educational Resources"
-date: 2023-07-27
-source-url: https://www.scoop.co.nz/stories/GE2307/S00066/seeking-solutions-to-health-outcome-disparities-for-maori-with-culturally-relevant-educational-resources.htm
+slug: >-
+  seeking-solutions-to-health-outcome-disparities-for-māori-with-culturally-relevant-educational-resources
+title: >-
+  Seeking Solutions To Health Outcome Disparities For Māori With Culturally
+  Relevant Educational Resources
+date: 2023-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2307/S00066/seeking-solutions-to-health-outcome-disparities-for-maori-with-culturally-relevant-educational-resources.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2023/07/27/seeking-solutions-to-health-outcome-disparities-for-m/index.html
+layout: layout.njk
 ---
 Seeking Solutions To Health Outcome Disparities For Māori With Culturally Relevant Educational Resources
 ========================================================================================================

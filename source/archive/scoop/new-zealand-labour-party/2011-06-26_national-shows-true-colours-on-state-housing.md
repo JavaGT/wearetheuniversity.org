@@ -1,9 +1,12 @@
 ---
 slug: national-shows-true-colours-on-state-housing
-title: "National shows true colours on state housing"
-date: 2011-06-26
-source-url: https://www.scoop.co.nz/stories/PA1106/S00452/national-shows-true-colours-on-state-housing.htm
+title: National shows true colours on state housing
+date: 2011-06-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00452/national-shows-true-colours-on-state-housing.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/06/26/national-shows-true-colours-on-state-housing/index.html
+layout: layout.njk
 ---
 National shows true colours on state housing
 ============================================

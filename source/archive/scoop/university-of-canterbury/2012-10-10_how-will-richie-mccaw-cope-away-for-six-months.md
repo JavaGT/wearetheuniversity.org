@@ -1,9 +1,12 @@
 ---
 slug: how-will-richie-mccaw-cope-away-for-six-months
-title: "How will Richie McCaw cope away for six months ?"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/CU1210/S00184/how-will-richie-mccaw-cope-away-for-six-months.htm
+title: How will Richie McCaw cope away for six months ?
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00184/how-will-richie-mccaw-cope-away-for-six-months.htm
 author: university-of-canterbury
+permalink: /archive/2012/10/10/how-will-richie-mccaw-cope-away-for-six-months/index.html
+layout: layout.njk
 ---
 How will Richie McCaw cope away for six months ?
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: research-to-help-hearing-loss
-title: "Research to help hearing loss"
-date: 2012-02-14
-source-url: https://www.scoop.co.nz/stories/ED1202/S00059/research-to-help-hearing-loss.htm
+title: Research to help hearing loss
+date: 2012-02-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00059/research-to-help-hearing-loss.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/02/14/research-to-help-hearing-loss/index.html
+layout: layout.njk
 ---
 Research to help hearing loss
 =============================

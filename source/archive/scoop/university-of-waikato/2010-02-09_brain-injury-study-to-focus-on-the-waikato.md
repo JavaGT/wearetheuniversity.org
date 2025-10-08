@@ -1,9 +1,12 @@
 ---
 slug: brain-injury-study-to-focus-on-the-waikato
-title: "Brain injury study to focus on the Waikato"
-date: 2010-02-09
-source-url: https://www.scoop.co.nz/stories/GE1002/S00035/brain-injury-study-to-focus-on-the-waikato.htm
+title: Brain injury study to focus on the Waikato
+date: 2010-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1002/S00035/brain-injury-study-to-focus-on-the-waikato.htm
 author: university-of-waikato
+permalink: /archive/2010/02/09/brain-injury-study-to-focus-on-the-waikato/index.html
+layout: layout.njk
 ---
 Brain injury study to focus on the Waikato
 ==========================================

@@ -1,9 +1,13 @@
 ---
 slug: asian-lens-on-diverse-societies-and-how-we-interact
-title: "Asian lens on diverse societies and how we interact"
-date: 2017-08-22
-source-url: https://www.scoop.co.nz/stories/ED1708/S00080/asian-lens-on-diverse-societies-and-how-we-interact.htm
+title: Asian lens on diverse societies and how we interact
+date: 2017-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00080/asian-lens-on-diverse-societies-and-how-we-interact.htm
 author: massey-university
+permalink: >-
+  /archive/2017/08/22/asian-lens-on-diverse-societies-and-how-we-interact/index.html
+layout: layout.njk
 ---
 Asian lens on diverse societies and how we interact
 ===================================================

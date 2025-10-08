@@ -1,9 +1,12 @@
 ---
 slug: inequality-child-poverty-plateau-under-national
-title: "Inequality, child poverty plateau under National"
-date: 2010-08-16
-source-url: https://www.scoop.co.nz/stories/PA1008/S00236/inequality-child-poverty-plateau-under-national.htm
+title: Inequality, child poverty plateau under National
+date: 2010-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00236/inequality-child-poverty-plateau-under-national.htm
 author: green-party
+permalink: /archive/2010/08/16/inequality-child-poverty-plateau-under-national/index.html
+layout: layout.njk
 ---
 Inequality, child poverty plateau under National
 ================================================

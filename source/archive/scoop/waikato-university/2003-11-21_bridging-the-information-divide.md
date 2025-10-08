@@ -1,9 +1,12 @@
 ---
 slug: bridging-the-information-divide
-title: "Bridging the Information Divide"
-date: 2003-11-21
-source-url: https://www.scoop.co.nz/stories/ED0311/S00071/bridging-the-information-divide.htm
+title: Bridging the Information Divide
+date: 2003-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0311/S00071/bridging-the-information-divide.htm
 author: waikato-university
+permalink: /archive/2003/11/21/bridging-the-information-divide/index.html
+layout: layout.njk
 ---
 Bridging the Information Divide
 ===============================

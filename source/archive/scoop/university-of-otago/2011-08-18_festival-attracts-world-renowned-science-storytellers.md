@@ -1,9 +1,13 @@
 ---
 slug: festival-attracts-world-renowned-science-storytellers
-title: "Festival attracts world-renowned science storytellers"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/SC1108/S00057/festival-attracts-world-renowned-science-storytellers.htm
+title: Festival attracts world-renowned science storytellers
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1108/S00057/festival-attracts-world-renowned-science-storytellers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/08/18/festival-attracts-world-renowned-science-storytellers/index.html
+layout: layout.njk
 ---
 Festival attracts world-renowned science storytellers
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-12-no-20
-title: "TEU Tertiary Update Vol 12 No 20"
-date: 2009-07-02
-source-url: https://www.scoop.co.nz/stories/ED0907/S00014/teu-tertiary-update-vol-12-no-20.htm
+title: TEU Tertiary Update Vol 12 No 20
+date: 2009-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00014/teu-tertiary-update-vol-12-no-20.htm
 author: association-of-university-staff
+permalink: /archive/2009/07/02/teu-tertiary-update-vol-12-no-20/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 12 No 20
 ================================

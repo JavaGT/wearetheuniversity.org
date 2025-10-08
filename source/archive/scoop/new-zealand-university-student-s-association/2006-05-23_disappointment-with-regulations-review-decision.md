@@ -1,9 +1,12 @@
 ---
 slug: disappointment-with-regulations-review-decision
-title: "Disappointment with Regulations Review Decision"
-date: 2006-05-23
-source-url: https://www.scoop.co.nz/stories/ED0605/S00086/disappointment-with-regulations-review-decision.htm
+title: Disappointment with Regulations Review Decision
+date: 2006-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00086/disappointment-with-regulations-review-decision.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/05/23/disappointment-with-regulations-review-decision/index.html
+layout: layout.njk
 ---
 Disappointment with Regulations Review Decision
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: more-needed-to-support-families-to-make-ends-meet
-title: "More Needed To Support Families To Make Ends Meet"
-date: 2021-11-06
-source-url: https://www.scoop.co.nz/stories/PA2111/S00076/more-needed-to-support-families-to-make-ends-meet.htm
+title: More Needed To Support Families To Make Ends Meet
+date: 2021-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00076/more-needed-to-support-families-to-make-ends-meet.htm
 author: green-party
+permalink: >-
+  /archive/2021/11/06/more-needed-to-support-families-to-make-ends-meet/index.html
+layout: layout.njk
 ---
 More Needed To Support Families To Make Ends Meet
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: distinguished-academic-joins-victoria
-title: "Distinguished academic joins Victoria"
-date: 2004-08-13
-source-url: https://www.scoop.co.nz/stories/ED0408/S00059/distinguished-academic-joins-victoria.htm
+title: Distinguished academic joins Victoria
+date: 2004-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0408/S00059/distinguished-academic-joins-victoria.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/08/13/distinguished-academic-joins-victoria/index.html
+layout: layout.njk
 ---
 Distinguished academic joins Victoria
 =====================================

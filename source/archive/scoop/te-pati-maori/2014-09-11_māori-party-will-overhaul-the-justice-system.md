@@ -1,9 +1,12 @@
 ---
 slug: māori-party-will-overhaul-the-justice-system
-title: "Māori Party will overhaul the justice system"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/PA1409/S00163/maori-party-will-overhaul-the-justice-system.htm
+title: Māori Party will overhaul the justice system
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00163/maori-party-will-overhaul-the-justice-system.htm
 author: te-pati-maori
+permalink: /archive/2014/09/11/m/index.html
+layout: layout.njk
 ---
 Māori Party will overhaul the justice system
 ============================================

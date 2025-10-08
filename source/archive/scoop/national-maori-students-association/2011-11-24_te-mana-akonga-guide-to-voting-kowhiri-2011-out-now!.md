@@ -1,9 +1,13 @@
 ---
 slug: te-mana-akonga-guide-to-voting-kowhiri-2011-out-now!
-title: "Te Mana Akonga Guide to Voting Kowhiri 2011 OUT NOW!"
-date: 2011-11-24
-source-url: https://www.scoop.co.nz/stories/ED1111/S00174/te-mana-akonga-guide-to-voting-kowhiri-2011-out-now.htm
+title: Te Mana Akonga Guide to Voting Kowhiri 2011 OUT NOW!
+date: 2011-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00174/te-mana-akonga-guide-to-voting-kowhiri-2011-out-now.htm
 author: national-maori-students-association
+permalink: >-
+  /archive/2011/11/24/te-mana-akonga-guide-to-voting-kowhiri-2011-out-now/index.html
+layout: layout.njk
 ---
 Te Mana Akonga Guide to Voting Kowhiri 2011 OUT NOW!
 ====================================================

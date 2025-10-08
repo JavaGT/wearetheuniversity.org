@@ -1,9 +1,12 @@
 ---
 slug: media-coverage-of-2008-nz-election-campaign
-title: "Media Coverage of 2008 NZ Election Campaign"
-date: 2008-11-06
-source-url: https://www.scoop.co.nz/stories/PO0811/S00096/media-coverage-of-2008-nz-election-campaign.htm
+title: Media Coverage of 2008 NZ Election Campaign
+date: 2008-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0811/S00096/media-coverage-of-2008-nz-election-campaign.htm
 author: university-of-canterbury
+permalink: /archive/2008/11/06/media-coverage-of-2008-nz-election-campaign/index.html
+layout: layout.njk
 ---
 Media Coverage of 2008 NZ Election Campaign
 ===========================================

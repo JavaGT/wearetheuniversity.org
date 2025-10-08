@@ -1,9 +1,12 @@
 ---
 slug: waikato-launches-te-koringa-management-course
-title: "Waikato launches Te Koringa management course"
-date: 2006-11-30
-source-url: https://www.scoop.co.nz/stories/ED0611/S00118/waikato-launches-te-koringa-management-course.htm
+title: Waikato launches Te Koringa management course
+date: 2006-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0611/S00118/waikato-launches-te-koringa-management-course.htm
 author: waikato-university
+permalink: /archive/2006/11/30/waikato-launches-te-koringa-management-course/index.html
+layout: layout.njk
 ---
 Waikato launches Te Koringa management course
 =============================================

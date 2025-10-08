@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-time-for-common-sense
-title: "Winston Peters: Time for Common Sense"
-date: 2014-09-13
-source-url: https://www.scoop.co.nz/stories/PA1409/S00195/winston-peters-time-for-common-sense.htm
+title: 'Winston Peters: Time for Common Sense'
+date: 2014-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00195/winston-peters-time-for-common-sense.htm
 author: new-zealand-first-party
+permalink: /archive/2014/09/13/winston-peters-time-for-common-sense/index.html
+layout: layout.njk
 ---
 Winston Peters: Time for Common Sense
 =====================================

@@ -1,9 +1,13 @@
 ---
 slug: lack-of-female-quota-culture-harming-company-performance
-title: "Lack of female quota culture harming company performance"
-date: 2014-04-14
-source-url: https://www.scoop.co.nz/stories/PO1404/S00197/lack-of-female-quota-culture-harming-company-performance.htm
+title: Lack of female quota culture harming company performance
+date: 2014-04-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00197/lack-of-female-quota-culture-harming-company-performance.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2014/04/14/lack-of-female-quota-culture-harming-company-performance/index.html
+layout: layout.njk
 ---
 Lack of female quota culture harming company performance
 ========================================================

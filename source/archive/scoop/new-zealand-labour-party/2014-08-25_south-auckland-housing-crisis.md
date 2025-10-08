@@ -1,9 +1,12 @@
 ---
 slug: south-auckland-housing-crisis
-title: "South Auckland housing crisis"
-date: 2014-08-25
-source-url: https://www.scoop.co.nz/stories/PA1408/S00377/south-auckland-housing-crisis.htm
+title: South Auckland housing crisis
+date: 2014-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00377/south-auckland-housing-crisis.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/08/25/south-auckland-housing-crisis/index.html
+layout: layout.njk
 ---
 South Auckland housing crisis
 =============================

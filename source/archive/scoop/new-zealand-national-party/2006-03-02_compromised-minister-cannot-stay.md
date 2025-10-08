@@ -1,9 +1,12 @@
 ---
 slug: compromised-minister-cannot-stay
-title: "Compromised Minister cannot stay"
-date: 2006-03-02
-source-url: https://www.scoop.co.nz/stories/PA0603/S00045/compromised-minister-cannot-stay.htm
+title: Compromised Minister cannot stay
+date: 2006-03-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00045/compromised-minister-cannot-stay.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/02/compromised-minister-cannot-stay/index.html
+layout: layout.njk
 ---
 Compromised Minister cannot stay
 ================================

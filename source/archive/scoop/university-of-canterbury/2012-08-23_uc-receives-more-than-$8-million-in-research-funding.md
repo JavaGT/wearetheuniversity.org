@@ -1,9 +1,12 @@
 ---
 slug: uc-receives-more-than-$8-million-in-research-funding
-title: "UC receives more than $8 million in research funding"
-date: 2012-08-23
-source-url: https://www.scoop.co.nz/stories/ED1208/S00129/uc-receives-more-than-8-million-in-research-funding.htm
+title: UC receives more than $8 million in research funding
+date: 2012-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00129/uc-receives-more-than-8-million-in-research-funding.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/23/uc-receives-more-than-/index.html
+layout: layout.njk
 ---
 UC receives more than $8 million in research funding
 ====================================================

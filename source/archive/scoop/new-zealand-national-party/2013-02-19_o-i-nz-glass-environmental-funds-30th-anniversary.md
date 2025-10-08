@@ -1,9 +1,13 @@
 ---
 slug: o-i-nz-glass-environmental-funds-30th-anniversary
-title: "O-I NZ Glass Environmental Fund’s 30th Anniversary"
-date: 2013-02-19
-source-url: https://www.scoop.co.nz/stories/PA1302/S00262/o-i-nz-glass-environmental-funds-30th-anniversary.htm
+title: O-I NZ Glass Environmental Fund’s 30th Anniversary
+date: 2013-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00262/o-i-nz-glass-environmental-funds-30th-anniversary.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2013/02/19/o-i-nz-glass-environmental-funds-30th-anniversary/index.html
+layout: layout.njk
 ---
 O-I NZ Glass Environmental Fund’s 30th Anniversary
 ==================================================

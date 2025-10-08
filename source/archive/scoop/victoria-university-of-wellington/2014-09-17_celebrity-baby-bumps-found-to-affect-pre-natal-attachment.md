@@ -1,9 +1,13 @@
 ---
 slug: celebrity-baby-bumps-found-to-affect-pre-natal-attachment
-title: "Celebrity Baby Bumps Found to Affect Pre-Natal Attachment"
-date: 2014-09-17
-source-url: https://www.scoop.co.nz/stories/ED1409/S00107/celebrity-baby-bumps-found-to-affect-pre-natal-attachment.htm
+title: Celebrity Baby Bumps Found to Affect Pre-Natal Attachment
+date: 2014-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00107/celebrity-baby-bumps-found-to-affect-pre-natal-attachment.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/17/celebrity-baby-bumps-found-to-affect-pre-natal-attachment/index.html
+layout: layout.njk
 ---
 Celebrity Baby Bumps Found to Affect Pre-Natal Attachment
 =========================================================

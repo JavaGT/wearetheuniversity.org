@@ -1,9 +1,13 @@
 ---
 slug: labour-national-corporate-welfare-gravy-train-steams-on
-title: "Labour-National Corporate Welfare Gravy Train Steams On"
-date: 2022-12-07
-source-url: https://www.scoop.co.nz/stories/PA2212/S00060/labour-national-corporate-welfare-gravy-train-steams-on.htm
+title: Labour-National Corporate Welfare Gravy Train Steams On
+date: 2022-12-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2212/S00060/labour-national-corporate-welfare-gravy-train-steams-on.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/12/07/labour-national-corporate-welfare-gravy-train-steams-on/index.html
+layout: layout.njk
 ---
 Labour-National Corporate Welfare Gravy Train Steams On
 =======================================================

@@ -1,9 +1,13 @@
 ---
 slug: victoria-researchers-to-uncover-the-secret-life-of-cats
-title: "Victoria researchers to uncover the secret life of cats"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/ED1312/S00055/victoria-researchers-to-uncover-the-secret-life-of-cats.htm
+title: Victoria researchers to uncover the secret life of cats
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1312/S00055/victoria-researchers-to-uncover-the-secret-life-of-cats.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/12/09/victoria-researchers-to-uncover-the-secret-life-of-cats/index.html
+layout: layout.njk
 ---
 Victoria researchers to uncover the secret life of cats
 =======================================================

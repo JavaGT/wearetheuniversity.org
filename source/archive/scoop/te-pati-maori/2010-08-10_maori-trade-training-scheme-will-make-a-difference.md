@@ -1,9 +1,13 @@
 ---
 slug: maori-trade-training-scheme-will-make-a-difference
-title: "Maori Trade Training Scheme Will Make A Difference"
-date: 2010-08-10
-source-url: https://www.scoop.co.nz/stories/PA1008/S00164/maori-trade-training-scheme-will-make-a-difference.htm
+title: Maori Trade Training Scheme Will Make A Difference
+date: 2010-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00164/maori-trade-training-scheme-will-make-a-difference.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/08/10/maori-trade-training-scheme-will-make-a-difference/index.html
+layout: layout.njk
 ---
 Maori Trade Training Scheme Will Make A Difference
 ==================================================

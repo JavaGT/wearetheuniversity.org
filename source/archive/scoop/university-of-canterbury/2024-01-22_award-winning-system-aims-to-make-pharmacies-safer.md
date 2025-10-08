@@ -1,9 +1,13 @@
 ---
 slug: award-winning-system-aims-to-make-pharmacies-safer
-title: "Award-winning System Aims To Make Pharmacies Safer"
-date: 2024-01-22
-source-url: https://www.scoop.co.nz/stories/BU2401/S00137/award-winning-system-aims-to-make-pharmacies-safer.htm
+title: Award-winning System Aims To Make Pharmacies Safer
+date: 2024-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU2401/S00137/award-winning-system-aims-to-make-pharmacies-safer.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/01/22/award-winning-system-aims-to-make-pharmacies-safer/index.html
+layout: layout.njk
 ---
 Award-winning System Aims To Make Pharmacies Safer
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: a-bright-idea-to-protect-local-wildlife-from-cats
-title: "A bright idea to protect local wildlife from cats"
-date: 2015-11-30
-source-url: https://www.scoop.co.nz/stories/AK1511/S00766/a-bright-idea-to-protect-local-wildlife-from-cats.htm
+title: A bright idea to protect local wildlife from cats
+date: 2015-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1511/S00766/a-bright-idea-to-protect-local-wildlife-from-cats.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2015/11/30/a-bright-idea-to-protect-local-wildlife-from-cats/index.html
+layout: layout.njk
 ---
 A bright idea to protect local wildlife from cats
 =================================================

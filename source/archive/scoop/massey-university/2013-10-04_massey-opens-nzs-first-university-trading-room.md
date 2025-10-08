@@ -1,9 +1,12 @@
 ---
 slug: massey-opens-nzs-first-university-trading-room
-title: "Massey opens NZ’s first university trading room"
-date: 2013-10-04
-source-url: https://www.scoop.co.nz/stories/ED1310/S00043/massey-opens-nzs-first-university-trading-room.htm
+title: Massey opens NZ’s first university trading room
+date: 2013-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00043/massey-opens-nzs-first-university-trading-room.htm
 author: massey-university
+permalink: /archive/2013/10/04/massey-opens-nzs-first-university-trading-room/index.html
+layout: layout.njk
 ---
 Massey opens NZ’s first university trading room
 ===============================================

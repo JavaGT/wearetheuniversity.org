@@ -1,9 +1,13 @@
 ---
 slug: government-wahakura-backtrack-a-win-for-families
-title: "Government wahakura backtrack a win for families"
-date: 2016-08-03
-source-url: https://www.scoop.co.nz/stories/PA1608/S00047/government-wahakura-backtrack-a-win-for-families.htm
+title: Government wahakura backtrack a win for families
+date: 2016-08-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1608/S00047/government-wahakura-backtrack-a-win-for-families.htm
 author: green-party
+permalink: >-
+  /archive/2016/08/03/government-wahakura-backtrack-a-win-for-families/index.html
+layout: layout.njk
 ---
 Government wahakura backtrack a win for families
 ================================================

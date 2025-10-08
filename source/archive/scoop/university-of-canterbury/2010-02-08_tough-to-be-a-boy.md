@@ -1,9 +1,11 @@
 ---
 slug: tough-to-be-a-boy
-title: "Tough To Be A Boy"
-date: 2010-02-08
+title: Tough To Be A Boy
+date: 2010-02-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1002/S00030/tough-to-be-a-boy.htm
 author: university-of-canterbury
+permalink: /archive/2010/02/08/tough-to-be-a-boy/index.html
+layout: layout.njk
 ---
 Tough To Be A Boy
 =================

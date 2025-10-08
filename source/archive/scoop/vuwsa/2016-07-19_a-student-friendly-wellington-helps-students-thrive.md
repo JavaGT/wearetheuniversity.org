@@ -1,9 +1,13 @@
 ---
 slug: a-student-friendly-wellington-helps-students-thrive
-title: "A Student Friendly Wellington helps students thrive"
-date: 2016-07-19
-source-url: https://www.scoop.co.nz/stories/PO1607/S00211/a-student-friendly-wellington-helps-students-thrive.htm
+title: A Student Friendly Wellington helps students thrive
+date: 2016-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1607/S00211/a-student-friendly-wellington-helps-students-thrive.htm
 author: vuwsa
+permalink: >-
+  /archive/2016/07/19/a-student-friendly-wellington-helps-students-thrive/index.html
+layout: layout.njk
 ---
 A Student Friendly Wellington helps students thrive
 ===================================================

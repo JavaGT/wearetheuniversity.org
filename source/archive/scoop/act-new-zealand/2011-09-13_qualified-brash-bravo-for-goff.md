@@ -1,9 +1,12 @@
 ---
 slug: qualified-brash-bravo-for-goff
-title: "Qualified Brash Bravo for Goff"
-date: 2011-09-13
-source-url: https://www.scoop.co.nz/stories/PA1109/S00258/qualified-brash-bravo-for-goff.htm
+title: Qualified Brash Bravo for Goff
+date: 2011-09-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1109/S00258/qualified-brash-bravo-for-goff.htm
 author: act-new-zealand
+permalink: /archive/2011/09/13/qualified-brash-bravo-for-goff/index.html
+layout: layout.njk
 ---
 Qualified Brash Bravo for Goff
 ==============================

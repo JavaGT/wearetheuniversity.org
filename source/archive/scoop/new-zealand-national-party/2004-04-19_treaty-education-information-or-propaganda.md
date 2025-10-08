@@ -1,9 +1,12 @@
 ---
 slug: treaty-education-information-or-propaganda
-title: "Treaty education, information or propaganda?"
-date: 2004-04-19
-source-url: https://www.scoop.co.nz/stories/PA0404/S00283/treaty-education-information-or-propaganda.htm
+title: Treaty education, information or propaganda?
+date: 2004-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0404/S00283/treaty-education-information-or-propaganda.htm
 author: new-zealand-national-party
+permalink: /archive/2004/04/19/treaty-education-information-or-propaganda/index.html
+layout: layout.njk
 ---
 Treaty education, information or propaganda?
 ============================================

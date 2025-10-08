@@ -1,9 +1,12 @@
 ---
 slug: democracy-suppressed-in-new-zealand-as-in-iraq
-title: "Democracy suppressed in New Zealand as in Iraq"
-date: 2003-09-19
-source-url: https://www.scoop.co.nz/stories/PO0309/S00130/democracy-suppressed-in-new-zealand-as-in-iraq.htm
+title: Democracy suppressed in New Zealand as in Iraq
+date: 2003-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0309/S00130/democracy-suppressed-in-new-zealand-as-in-iraq.htm
 author: peace-action-wellington
+permalink: /archive/2003/09/19/democracy-suppressed-in-new-zealand-as-in-iraq/index.html
+layout: layout.njk
 ---
 Democracy suppressed in New Zealand as in Iraq
 ==============================================

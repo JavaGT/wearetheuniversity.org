@@ -1,9 +1,12 @@
 ---
 slug: pbrf-results-highlight-lincolns-research-focus
-title: "PBRF results highlight Lincoln’s research focus"
-date: 2019-05-02
-source-url: https://www.scoop.co.nz/stories/ED1905/S00004/pbrf-results-highlight-lincolns-research-focus.htm
+title: PBRF results highlight Lincoln’s research focus
+date: 2019-05-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1905/S00004/pbrf-results-highlight-lincolns-research-focus.htm
 author: lincoln-university
+permalink: /archive/2019/05/02/pbrf-results-highlight-lincolns-research-focus/index.html
+layout: layout.njk
 ---
 PBRF results highlight Lincoln’s research focus
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: top-lincoln-honours-to-ecologist-&-sheep-scientist
-title: "Top Lincoln honours to ecologist & sheep scientist"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/ED0304/S00059/top-lincoln-honours-to-ecologist-sheep-scientist.htm
+title: Top Lincoln honours to ecologist & sheep scientist
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00059/top-lincoln-honours-to-ecologist-sheep-scientist.htm
 author: lincoln-university
+permalink: /archive/2003/04/30/top-lincoln-honours-to-ecologist-/index.html
+layout: layout.njk
 ---
 Top Lincoln honours to ecologist & sheep scientist
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: forum-should-look-at-practical-steps
-title: "Forum should look at practical steps"
-date: 2000-10-24
-source-url: https://www.scoop.co.nz/stories/PA0010/S00433/forum-should-look-at-practical-steps.htm
+title: Forum should look at practical steps
+date: 2000-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00433/forum-should-look-at-practical-steps.htm
 author: new-zealand-national-party
+permalink: /archive/2000/10/24/forum-should-look-at-practical-steps/index.html
+layout: layout.njk
 ---
 Forum should look at practical steps
 ====================================

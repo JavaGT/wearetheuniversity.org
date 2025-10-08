@@ -1,9 +1,13 @@
 ---
 slug: new-book-captures-the-principled-politics-of-tariana-turia
-title: "New book captures the principled politics of Tariana Turia"
-date: 2015-11-23
-source-url: https://www.scoop.co.nz/stories/PA1511/S00426/new-book-captures-the-principled-politics-of-tariana-turia.htm
+title: New book captures the principled politics of Tariana Turia
+date: 2015-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00426/new-book-captures-the-principled-politics-of-tariana-turia.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2015/11/23/new-book-captures-the-principled-politics-of-tariana-turia/index.html
+layout: layout.njk
 ---
 New book captures the principled politics of Tariana Turia
 ==========================================================

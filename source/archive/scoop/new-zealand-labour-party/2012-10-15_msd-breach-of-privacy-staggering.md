@@ -1,9 +1,12 @@
 ---
 slug: msd-breach-of-privacy-staggering
-title: "MSD breach of privacy staggering"
-date: 2012-10-15
-source-url: https://www.scoop.co.nz/stories/PA1210/S00237/msd-breach-of-privacy-staggering.htm
+title: MSD breach of privacy staggering
+date: 2012-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00237/msd-breach-of-privacy-staggering.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/15/msd-breach-of-privacy-staggering/index.html
+layout: layout.njk
 ---
 MSD breach of privacy staggering
 ================================

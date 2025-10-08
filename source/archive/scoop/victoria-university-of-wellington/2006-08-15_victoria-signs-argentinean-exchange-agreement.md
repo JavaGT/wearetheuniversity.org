@@ -1,9 +1,12 @@
 ---
 slug: victoria-signs-argentinean-exchange-agreement
-title: "Victoria signs Argentinean exchange agreement"
-date: 2006-08-15
-source-url: https://www.scoop.co.nz/stories/ED0608/S00053/victoria-signs-argentinean-exchange-agreement.htm
+title: Victoria signs Argentinean exchange agreement
+date: 2006-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0608/S00053/victoria-signs-argentinean-exchange-agreement.htm
 author: victoria-university-of-wellington
+permalink: /archive/2006/08/15/victoria-signs-argentinean-exchange-agreement/index.html
+layout: layout.njk
 ---
 Victoria signs Argentinean exchange agreement
 =============================================

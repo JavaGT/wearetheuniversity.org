@@ -1,9 +1,13 @@
 ---
 slug: those-the-gods-would-destroy-they-make-mad-first
-title: "Those the Gods Would Destroy They Make Mad First"
-date: 2014-12-19
-source-url: https://www.scoop.co.nz/stories/PA1412/S00347/those-the-gods-would-destroy-they-make-mad-first.htm
+title: Those the Gods Would Destroy They Make Mad First
+date: 2014-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1412/S00347/those-the-gods-would-destroy-they-make-mad-first.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/12/19/those-the-gods-would-destroy-they-make-mad-first/index.html
+layout: layout.njk
 ---
 Those the Gods Would Destroy They Make Mad First
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: ge-report-welcomed-by-massey-geneticists
-title: "GE Report Welcomed By Massey Geneticists"
-date: 2001-07-31
-source-url: https://www.scoop.co.nz/stories/SC0107/S00090/ge-report-welcomed-by-massey-geneticists.htm
+title: GE Report Welcomed By Massey Geneticists
+date: 2001-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0107/S00090/ge-report-welcomed-by-massey-geneticists.htm
 author: massey-university
+permalink: /archive/2001/07/31/ge-report-welcomed-by-massey-geneticists/index.html
+layout: layout.njk
 ---
 GE Report Welcomed By Massey Geneticists
 ========================================

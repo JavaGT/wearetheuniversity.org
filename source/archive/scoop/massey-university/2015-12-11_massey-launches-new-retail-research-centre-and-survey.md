@@ -1,9 +1,13 @@
 ---
 slug: massey-launches-new-retail-research-centre-and-survey
-title: "Massey launches new retail research centre and survey"
-date: 2015-12-11
-source-url: https://www.scoop.co.nz/stories/ED1512/S00049/massey-launches-new-retail-research-centre-and-survey.htm
+title: Massey launches new retail research centre and survey
+date: 2015-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00049/massey-launches-new-retail-research-centre-and-survey.htm
 author: massey-university
+permalink: >-
+  /archive/2015/12/11/massey-launches-new-retail-research-centre-and-survey/index.html
+layout: layout.njk
 ---
 Massey launches new retail research centre and survey
 =====================================================

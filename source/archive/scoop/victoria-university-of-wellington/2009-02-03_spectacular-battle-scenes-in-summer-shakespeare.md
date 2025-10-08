@@ -1,9 +1,12 @@
 ---
 slug: spectacular-battle-scenes-in-summer-shakespeare
-title: "Spectacular battle scenes in Summer Shakespeare"
-date: 2009-02-03
-source-url: https://www.scoop.co.nz/stories/CU0902/S00036/spectacular-battle-scenes-in-summer-shakespeare.htm
+title: Spectacular battle scenes in Summer Shakespeare
+date: 2009-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0902/S00036/spectacular-battle-scenes-in-summer-shakespeare.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/02/03/spectacular-battle-scenes-in-summer-shakespeare/index.html
+layout: layout.njk
 ---
 Spectacular battle scenes in Summer Shakespeare
 ===============================================

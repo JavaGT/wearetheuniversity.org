@@ -1,9 +1,12 @@
 ---
 slug: brownlee-simply-cant-say-he-hasnt-had-time
-title: "Brownlee simply can't say he hasn't had time"
-date: 2011-04-18
-source-url: https://www.scoop.co.nz/stories/PA1104/S00372/brownlee-simply-cant-say-he-hasnt-had-time.htm
+title: Brownlee simply can't say he hasn't had time
+date: 2011-04-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1104/S00372/brownlee-simply-cant-say-he-hasnt-had-time.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/04/18/brownlee-simply-cant-say-he-hasnt-had-time/index.html
+layout: layout.njk
 ---
 Brownlee simply can't say he hasn't had time
 ============================================

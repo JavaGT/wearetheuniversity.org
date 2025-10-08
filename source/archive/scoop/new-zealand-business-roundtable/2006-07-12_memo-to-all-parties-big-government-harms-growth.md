@@ -1,9 +1,12 @@
 ---
 slug: memo-to-all-parties-big-government-harms-growth
-title: "Memo to All Parties: Big Government Harms Growth"
-date: 2006-07-12
-source-url: https://www.scoop.co.nz/stories/BU0607/S00171/memo-to-all-parties-big-government-harms-growth.htm
+title: 'Memo to All Parties: Big Government Harms Growth'
+date: 2006-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0607/S00171/memo-to-all-parties-big-government-harms-growth.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/07/12/memo-to-all-parties-big-government-harms-growth/index.html
+layout: layout.njk
 ---
 Memo to All Parties: Big Government Harms Growth
 ================================================

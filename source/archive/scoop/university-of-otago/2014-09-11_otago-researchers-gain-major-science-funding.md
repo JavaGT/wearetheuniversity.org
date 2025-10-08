@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-gain-major-science-funding
-title: "Otago researchers gain major science funding"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/ED1409/S00070/otago-researchers-gain-major-science-funding.htm
+title: Otago researchers gain major science funding
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00070/otago-researchers-gain-major-science-funding.htm
 author: university-of-otago
+permalink: /archive/2014/09/11/otago-researchers-gain-major-science-funding/index.html
+layout: layout.njk
 ---
 Otago researchers gain major science funding
 ============================================

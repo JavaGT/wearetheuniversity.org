@@ -1,9 +1,13 @@
 ---
 slug: auckland-voices-well-represented-on-national-student-body
-title: "Auckland voices well-represented on national student body"
-date: 2012-10-09
-source-url: https://www.scoop.co.nz/stories/ED1210/S00064/auckland-voices-well-represented-on-national-student-body.htm
+title: Auckland voices well-represented on national student body
+date: 2012-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00064/auckland-voices-well-represented-on-national-student-body.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/10/09/auckland-voices-well-represented-on-national-student-body/index.html
+layout: layout.njk
 ---
 Auckland voices well-represented on national student body
 =========================================================

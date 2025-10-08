@@ -1,9 +1,12 @@
 ---
 slug: warning-for-nz-as-the-chinese-hit-the-jackpot
-title: "Warning for NZ as the Chinese Hit the Jackpot"
-date: 2001-07-13
-source-url: https://www.scoop.co.nz/stories/PA0107/S00235/warning-for-nz-as-the-chinese-hit-the-jackpot.htm
+title: Warning for NZ as the Chinese Hit the Jackpot
+date: 2001-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00235/warning-for-nz-as-the-chinese-hit-the-jackpot.htm
 author: act-new-zealand
+permalink: /archive/2001/07/13/warning-for-nz-as-the-chinese-hit-the-jackpot/index.html
+layout: layout.njk
 ---
 Warning for NZ as the Chinese Hit the Jackpot
 =============================================

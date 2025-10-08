@@ -1,9 +1,12 @@
 ---
 slug: focus-on-fracking-in-law-talk
-title: "Focus on fracking in law talk"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/ED1409/S00078/focus-on-fracking-in-law-talk.htm
+title: Focus on fracking in law talk
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00078/focus-on-fracking-in-law-talk.htm
 author: university-of-waikato
+permalink: /archive/2014/09/11/focus-on-fracking-in-law-talk/index.html
+layout: layout.njk
 ---
 Focus on fracking in law talk
 =============================

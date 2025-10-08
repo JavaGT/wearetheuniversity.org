@@ -1,9 +1,13 @@
 ---
 slug: henry-viiis-divorce-lawyers-magna-carta-on-display-at-uc
-title: "Henry VIII’s divorce lawyer’s Magna Carta on display at UC"
-date: 2015-12-01
-source-url: https://www.scoop.co.nz/stories/CU1512/S00007/henry-viiis-divorce-lawyers-magna-carta-on-display-at-uc.htm
+title: Henry VIII’s divorce lawyer’s Magna Carta on display at UC
+date: 2015-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1512/S00007/henry-viiis-divorce-lawyers-magna-carta-on-display-at-uc.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/01/henry-viiis-divorce-lawyers-magna-carta-on-display-at-uc/index.html
+layout: layout.njk
 ---
 Henry VIII’s divorce lawyer’s Magna Carta on display at UC
 ==========================================================

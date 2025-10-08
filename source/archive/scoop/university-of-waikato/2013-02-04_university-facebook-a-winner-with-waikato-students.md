@@ -1,9 +1,13 @@
 ---
 slug: university-facebook-a-winner-with-waikato-students
-title: "University Facebook a winner with Waikato students"
-date: 2013-02-04
-source-url: https://www.scoop.co.nz/stories/ED1302/S00012/university-facebook-a-winner-with-waikato-students.htm
+title: University Facebook a winner with Waikato students
+date: 2013-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1302/S00012/university-facebook-a-winner-with-waikato-students.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/02/04/university-facebook-a-winner-with-waikato-students/index.html
+layout: layout.njk
 ---
 University Facebook a winner with Waikato students
 ==================================================

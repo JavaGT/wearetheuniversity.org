@@ -1,8 +1,12 @@
 ---
 slug: tireless-marine-campaigner-will-be-sorely-missed
-title: "Tireless marine campaigner will be sorely missed"
-date: 2015-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/tireless-marine-campaigner-will-be-sorely-missed.html
+title: Tireless marine campaigner will be sorely missed
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/11/tireless-marine-campaigner-will-be-sorely-missed.html
+permalink: >-
+  /archive/2015/11/03/tireless-marine-campaigner-will-be-sorely-missed/index.html
+layout: layout.njk
 ---
 Tireless marine campaigner will be sorely missed
 ================================================

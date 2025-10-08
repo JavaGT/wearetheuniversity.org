@@ -1,9 +1,12 @@
 ---
 slug: research-medals-awarded-for-2010
-title: "Research Medals awarded for 2010"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/ED1010/S00041/research-medals-awarded-for-2010.htm
+title: Research Medals awarded for 2010
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1010/S00041/research-medals-awarded-for-2010.htm
 author: massey-university
+permalink: /archive/2010/10/13/research-medals-awarded-for-2010/index.html
+layout: layout.njk
 ---
 Research Medals awarded for 2010
 ================================

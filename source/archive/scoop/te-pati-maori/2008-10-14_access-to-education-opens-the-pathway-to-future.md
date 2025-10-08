@@ -1,9 +1,12 @@
 ---
 slug: access-to-education-opens-the-pathway-to-future
-title: "Access to education opens the pathway to future"
-date: 2008-10-14
-source-url: https://www.scoop.co.nz/stories/PA0810/S00312/access-to-education-opens-the-pathway-to-future.htm
+title: Access to education opens the pathway to future
+date: 2008-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00312/access-to-education-opens-the-pathway-to-future.htm
 author: te-pati-maori
+permalink: /archive/2008/10/14/access-to-education-opens-the-pathway-to-future/index.html
+layout: layout.njk
 ---
 Access to education opens the pathway to future
 ===============================================

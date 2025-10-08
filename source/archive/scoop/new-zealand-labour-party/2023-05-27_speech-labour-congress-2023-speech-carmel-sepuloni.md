@@ -1,9 +1,13 @@
 ---
 slug: speech-labour-congress-2023-speech-carmel-sepuloni
-title: "SPEECH: Labour Congress 2023 Speech: Carmel Sepuloni"
-date: 2023-05-27
-source-url: https://www.scoop.co.nz/stories/PO2305/S00196/speech-labour-congress-2023-speech-carmel-sepuloni.htm
+title: 'SPEECH: Labour Congress 2023 Speech: Carmel Sepuloni'
+date: 2023-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2305/S00196/speech-labour-congress-2023-speech-carmel-sepuloni.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2023/05/27/speech-labour-congress-2023-speech-carmel-sepuloni/index.html
+layout: layout.njk
 ---
 SPEECH: Labour Congress 2023 Speech: Carmel Sepuloni
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: national-identifies-stress-hotspots
-title: "National identifies stress 'hotspots'"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PA0603/S00312/national-identifies-stress-hotspots.htm
+title: National identifies stress 'hotspots'
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00312/national-identifies-stress-hotspots.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/20/national-identifies-stress-hotspots/index.html
+layout: layout.njk
 ---
 National identifies stress 'hotspots'
 =====================================

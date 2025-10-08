@@ -1,9 +1,12 @@
 ---
 slug: maxim-institute-real-issues-no-116
-title: "Maxim Institute - real issues - No. 116"
-date: 2004-06-25
-source-url: https://www.scoop.co.nz/stories/PO0406/S00253/maxim-institute-real-issues-no-116.htm
+title: Maxim Institute - real issues - No. 116
+date: 2004-06-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0406/S00253/maxim-institute-real-issues-no-116.htm
 author: maxim-institute
+permalink: /archive/2004/06/25/maxim-institute-real-issues-no-116/index.html
+layout: layout.njk
 ---
 Maxim Institute - real issues - No. 116
 =======================================

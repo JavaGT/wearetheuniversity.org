@@ -1,9 +1,11 @@
 ---
 slug: what-is-western-science
-title: "What Is Western Science?"
-date: 2021-07-26
+title: What Is Western Science?
+date: 2021-07-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA2107/S00191/what-is-western-science.htm
 author: new-zealand-national-party
+permalink: /archive/2021/07/26/what-is-western-science/index.html
+layout: layout.njk
 ---
 What Is Western Science?
 ========================

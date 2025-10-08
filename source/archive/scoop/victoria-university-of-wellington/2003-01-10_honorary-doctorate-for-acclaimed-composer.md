@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-acclaimed-composer
-title: "Honorary doctorate for acclaimed composer"
-date: 2003-01-10
-source-url: https://www.scoop.co.nz/stories/CU0301/S00012/honorary-doctorate-for-acclaimed-composer.htm
+title: Honorary doctorate for acclaimed composer
+date: 2003-01-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0301/S00012/honorary-doctorate-for-acclaimed-composer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/01/10/honorary-doctorate-for-acclaimed-composer/index.html
+layout: layout.njk
 ---
 Honorary doctorate for acclaimed composer
 =========================================

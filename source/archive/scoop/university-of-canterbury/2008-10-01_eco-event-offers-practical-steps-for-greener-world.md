@@ -1,9 +1,13 @@
 ---
 slug: eco-event-offers-practical-steps-for-greener-world
-title: "Eco-event offers practical steps for greener world"
-date: 2008-10-01
-source-url: https://www.scoop.co.nz/stories/AK0810/S00008/eco-event-offers-practical-steps-for-greener-world.htm
+title: Eco-event offers practical steps for greener world
+date: 2008-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK0810/S00008/eco-event-offers-practical-steps-for-greener-world.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2008/10/01/eco-event-offers-practical-steps-for-greener-world/index.html
+layout: layout.njk
 ---
 Eco-event offers practical steps for greener world
 ==================================================

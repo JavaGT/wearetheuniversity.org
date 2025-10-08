@@ -1,9 +1,13 @@
 ---
 slug: university-hosts-international-e-learning-webinar
-title: "University hosts international e-learning webinar"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/ED0603/S00045/university-hosts-international-e-learning-webinar.htm
+title: University hosts international e-learning webinar
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00045/university-hosts-international-e-learning-webinar.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2006/03/20/university-hosts-international-e-learning-webinar/index.html
+layout: layout.njk
 ---
 University hosts international e-learning webinar
 =================================================

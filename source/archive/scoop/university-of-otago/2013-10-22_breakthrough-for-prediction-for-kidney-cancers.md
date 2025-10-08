@@ -1,9 +1,12 @@
 ---
 slug: breakthrough-for-prediction-for-kidney-cancers
-title: "Breakthrough for prediction for kidney cancers"
-date: 2013-10-22
-source-url: https://www.scoop.co.nz/stories/GE1310/S00124/breakthrough-for-prediction-for-kidney-cancers.htm
+title: Breakthrough for prediction for kidney cancers
+date: 2013-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1310/S00124/breakthrough-for-prediction-for-kidney-cancers.htm
 author: university-of-otago
+permalink: /archive/2013/10/22/breakthrough-for-prediction-for-kidney-cancers/index.html
+layout: layout.njk
 ---
 Breakthrough for prediction for kidney cancers
 ==============================================

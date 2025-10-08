@@ -1,9 +1,13 @@
 ---
 slug: major-funding-win-for-environmental-planning-professor
-title: "Major funding win for environmental planning professor"
-date: 2016-06-09
-source-url: https://www.scoop.co.nz/stories/ED1606/S00024/major-funding-win-for-environmental-planning-professor.htm
+title: Major funding win for environmental planning professor
+date: 2016-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1606/S00024/major-funding-win-for-environmental-planning-professor.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/06/09/major-funding-win-for-environmental-planning-professor/index.html
+layout: layout.njk
 ---
 Major funding win for environmental planning professor
 ======================================================

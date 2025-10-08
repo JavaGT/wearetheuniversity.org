@@ -1,9 +1,13 @@
 ---
 slug: march-for-nature-sends-signal-government-cannot-ignore
-title: "March For Nature Sends Signal Government Cannot Ignore"
-date: 2024-06-08
-source-url: https://www.scoop.co.nz/stories/PA2406/S00038/march-for-nature-sends-signal-government-cannot-ignore.htm
+title: March For Nature Sends Signal Government Cannot Ignore
+date: 2024-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00038/march-for-nature-sends-signal-government-cannot-ignore.htm
 author: green-party
+permalink: >-
+  /archive/2024/06/08/march-for-nature-sends-signal-government-cannot-ignore/index.html
+layout: layout.njk
 ---
 March For Nature Sends Signal Government Cannot Ignore
 ======================================================

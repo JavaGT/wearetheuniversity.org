@@ -1,9 +1,12 @@
 ---
 slug: māori-educators-send-powerful-message-on-standards
-title: "Māori Educators Send Powerful Message on Standards"
-date: 2010-07-06
-source-url: https://www.scoop.co.nz/stories/ED1007/S00028/maori-educators-send-powerful-message-on-standards.htm
+title: Māori Educators Send Powerful Message on Standards
+date: 2010-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1007/S00028/maori-educators-send-powerful-message-on-standards.htm
 author: nzei
+permalink: /archive/2010/07/06/m/index.html
+layout: layout.njk
 ---
 Māori Educators Send Powerful Message on Standards
 ==================================================

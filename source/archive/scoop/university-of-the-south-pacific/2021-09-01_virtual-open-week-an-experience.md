@@ -1,9 +1,12 @@
 ---
 slug: virtual-open-week-an-experience
-title: "Virtual Open Week, An Experience"
-date: 2021-09-01
-source-url: https://www.scoop.co.nz/stories/WO2109/S00008/virtual-open-week-an-experience.htm
+title: Virtual Open Week, An Experience
+date: 2021-09-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO2109/S00008/virtual-open-week-an-experience.htm
 author: university-of-the-south-pacific
+permalink: /archive/2021/09/01/virtual-open-week-an-experience/index.html
+layout: layout.njk
 ---
 Virtual Open Week, An Experience
 ================================

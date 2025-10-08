@@ -1,9 +1,12 @@
 ---
 slug: aucklanders-are-less-concerned-with-covid
-title: "Aucklanders Are Less Concerned With Covid"
-date: 2021-11-29
-source-url: https://www.scoop.co.nz/stories/PO2111/S00273/aucklanders-are-less-concerned-with-covid.htm
+title: Aucklanders Are Less Concerned With Covid
+date: 2021-11-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2111/S00273/aucklanders-are-less-concerned-with-covid.htm
 author: aut-university
+permalink: /archive/2021/11/29/aucklanders-are-less-concerned-with-covid/index.html
+layout: layout.njk
 ---
 Aucklanders Are Less Concerned With Covid
 =========================================

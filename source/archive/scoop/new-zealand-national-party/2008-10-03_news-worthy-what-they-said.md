@@ -1,9 +1,11 @@
 ---
 slug: news-worthy-what-they-said
-title: "News Worthy: What They Said"
-date: 2008-10-03
+title: 'News Worthy: What They Said'
+date: 2008-10-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0810/S00074/news-worthy-what-they-said.htm
 author: new-zealand-national-party
+permalink: /archive/2008/10/03/news-worthy-what-they-said/index.html
+layout: layout.njk
 ---
 News Worthy: What They Said
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: robsons-cloudy-cannabis-vision-strikes-again
-title: "Robson's Cloudy Cannabis Vision Strikes Again"
-date: 2004-08-31
-source-url: https://www.scoop.co.nz/stories/PA0408/S00564/robsons-cloudy-cannabis-vision-strikes-again.htm
+title: Robson's Cloudy Cannabis Vision Strikes Again
+date: 2004-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00564/robsons-cloudy-cannabis-vision-strikes-again.htm
 author: green-party
+permalink: /archive/2004/08/31/robsons-cloudy-cannabis-vision-strikes-again/index.html
+layout: layout.njk
 ---
 Robson's Cloudy Cannabis Vision Strikes Again
 =============================================

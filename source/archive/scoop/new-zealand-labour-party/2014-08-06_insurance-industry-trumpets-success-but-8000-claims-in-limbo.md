@@ -1,9 +1,13 @@
 ---
 slug: insurance-industry-trumpets-success-but-8000-claims-in-limbo
-title: "Insurance industry trumpets success but 8000 claims in limbo"
-date: 2014-08-06
-source-url: https://www.scoop.co.nz/stories/PA1408/S00099/insurance-industry-trumpets-success-but-8000-claims-in-limbo.htm
+title: Insurance industry trumpets success but 8000 claims in limbo
+date: 2014-08-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1408/S00099/insurance-industry-trumpets-success-but-8000-claims-in-limbo.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2014/08/06/insurance-industry-trumpets-success-but-8000-claims-in-limbo/index.html
+layout: layout.njk
 ---
 Insurance industry trumpets success but 8000 claims in limbo
 ============================================================

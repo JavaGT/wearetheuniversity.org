@@ -1,9 +1,13 @@
 ---
 slug: the-biggest-load-of-hot-air-since-the-hindenburg!
-title: "The biggest load of hot air since the Hindenburg!"
-date: 2004-03-03
-source-url: https://www.scoop.co.nz/stories/PA0403/S00053/the-biggest-load-of-hot-air-since-the-hindenburg.htm
+title: The biggest load of hot air since the Hindenburg!
+date: 2004-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00053/the-biggest-load-of-hot-air-since-the-hindenburg.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2004/03/03/the-biggest-load-of-hot-air-since-the-hindenburg/index.html
+layout: layout.njk
 ---
 The biggest load of hot air since the Hindenburg!
 =================================================

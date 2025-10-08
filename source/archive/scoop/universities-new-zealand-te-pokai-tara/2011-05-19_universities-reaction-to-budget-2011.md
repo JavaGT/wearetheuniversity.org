@@ -1,9 +1,12 @@
 ---
 slug: universities-reaction-to-budget-2011
-title: "Universities’ Reaction to Budget 2011"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PO1105/S00313/universities-reaction-to-budget-2011.htm
+title: Universities’ Reaction to Budget 2011
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00313/universities-reaction-to-budget-2011.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2011/05/19/universities-reaction-to-budget-2011/index.html
+layout: layout.njk
 ---
 Universities’ Reaction to Budget 2011
 =====================================

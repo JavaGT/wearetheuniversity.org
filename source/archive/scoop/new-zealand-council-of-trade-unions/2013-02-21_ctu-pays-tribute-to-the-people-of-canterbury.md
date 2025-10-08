@@ -1,9 +1,12 @@
 ---
 slug: ctu-pays-tribute-to-the-people-of-canterbury
-title: "CTU pays tribute to the people of Canterbury"
-date: 2013-02-21
-source-url: https://www.scoop.co.nz/stories/PO1302/S00213/ctu-pays-tribute-to-the-people-of-canterbury.htm
+title: CTU pays tribute to the people of Canterbury
+date: 2013-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1302/S00213/ctu-pays-tribute-to-the-people-of-canterbury.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2013/02/21/ctu-pays-tribute-to-the-people-of-canterbury/index.html
+layout: layout.njk
 ---
 CTU pays tribute to the people of Canterbury
 ============================================

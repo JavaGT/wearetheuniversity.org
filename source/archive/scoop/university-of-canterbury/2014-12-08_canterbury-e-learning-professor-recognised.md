@@ -1,9 +1,12 @@
 ---
 slug: canterbury-e-learning-professor-recognised
-title: "Canterbury e-learning professor recognised"
-date: 2014-12-08
-source-url: https://www.scoop.co.nz/stories/ED1412/S00045/canterbury-e-learning-professor-recognised.htm
+title: Canterbury e-learning professor recognised
+date: 2014-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00045/canterbury-e-learning-professor-recognised.htm
 author: university-of-canterbury
+permalink: /archive/2014/12/08/canterbury-e-learning-professor-recognised/index.html
+layout: layout.njk
 ---
 Canterbury e-learning professor recognised
 ==========================================

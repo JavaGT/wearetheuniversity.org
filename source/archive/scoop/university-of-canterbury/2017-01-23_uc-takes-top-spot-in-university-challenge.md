@@ -1,9 +1,12 @@
 ---
 slug: uc-takes-top-spot-in-university-challenge
-title: "UC takes top spot in University Challenge"
-date: 2017-01-23
-source-url: https://www.scoop.co.nz/stories/ED1701/S00028/uc-takes-top-spot-in-university-challenge.htm
+title: UC takes top spot in University Challenge
+date: 2017-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00028/uc-takes-top-spot-in-university-challenge.htm
 author: university-of-canterbury
+permalink: /archive/2017/01/23/uc-takes-top-spot-in-university-challenge/index.html
+layout: layout.njk
 ---
 UC takes top spot in University Challenge
 =========================================

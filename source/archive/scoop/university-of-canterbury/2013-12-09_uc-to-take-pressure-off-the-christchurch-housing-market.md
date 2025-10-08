@@ -1,9 +1,13 @@
 ---
 slug: uc-to-take-pressure-off-the-christchurch-housing-market
-title: "UC to take pressure off the Christchurch housing market"
-date: 2013-12-09
-source-url: https://www.scoop.co.nz/stories/AK1312/S00285/uc-to-take-pressure-off-the-christchurch-housing-market.htm
+title: UC to take pressure off the Christchurch housing market
+date: 2013-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1312/S00285/uc-to-take-pressure-off-the-christchurch-housing-market.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/12/09/uc-to-take-pressure-off-the-christchurch-housing-market/index.html
+layout: layout.njk
 ---
 UC to take pressure off the Christchurch housing market
 =======================================================

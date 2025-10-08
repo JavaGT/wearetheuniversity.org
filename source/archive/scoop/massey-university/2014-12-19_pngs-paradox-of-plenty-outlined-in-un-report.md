@@ -1,9 +1,12 @@
 ---
 slug: pngs-paradox-of-plenty-outlined-in-un-report
-title: "PNG’s ‘paradox of plenty’ outlined in UN report"
-date: 2014-12-19
-source-url: https://www.scoop.co.nz/stories/ED1412/S00125/pngs-paradox-of-plenty-outlined-in-un-report.htm
+title: PNG’s ‘paradox of plenty’ outlined in UN report
+date: 2014-12-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1412/S00125/pngs-paradox-of-plenty-outlined-in-un-report.htm
 author: massey-university
+permalink: /archive/2014/12/19/pngs-paradox-of-plenty-outlined-in-un-report/index.html
+layout: layout.njk
 ---
 PNG’s ‘paradox of plenty’ outlined in UN report
 ===============================================

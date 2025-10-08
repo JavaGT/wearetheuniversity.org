@@ -1,9 +1,12 @@
 ---
 slug: digital-pet-gains-international-acclaim
-title: "Digital ‘pet’ gains international acclaim"
-date: 2010-08-17
-source-url: https://www.scoop.co.nz/stories/SC1008/S00037/digital-pet-gains-international-acclaim.htm
+title: Digital ‘pet’ gains international acclaim
+date: 2010-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1008/S00037/digital-pet-gains-international-acclaim.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/08/17/digital-pet-gains-international-acclaim/index.html
+layout: layout.njk
 ---
 Digital ‘pet’ gains international acclaim
 =========================================

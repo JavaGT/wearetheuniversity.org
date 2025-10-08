@@ -1,9 +1,12 @@
 ---
 slug: budget-needs-to-focus-on-vulnerable-groups
-title: "Budget needs to focus on vulnerable groups"
-date: 2009-05-25
-source-url: https://www.scoop.co.nz/stories/PA0905/S00419/budget-needs-to-focus-on-vulnerable-groups.htm
+title: Budget needs to focus on vulnerable groups
+date: 2009-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0905/S00419/budget-needs-to-focus-on-vulnerable-groups.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/05/25/budget-needs-to-focus-on-vulnerable-groups/index.html
+layout: layout.njk
 ---
 Budget needs to focus on vulnerable groups
 ==========================================

@@ -1,8 +1,11 @@
 ---
 slug: gas-heater-link-to-child-illness
-title: "Gas heater link to child illness"
-date: 2016-12-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/gas-heater-link-to-child-illness.html
+title: Gas heater link to child illness
+date: 2016-12-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/12/gas-heater-link-to-child-illness.html
+permalink: /archive/2016/12/20/gas-heater-link-to-child-illness/index.html
+layout: layout.njk
 ---
 Gas heater link to child illness
 ================================

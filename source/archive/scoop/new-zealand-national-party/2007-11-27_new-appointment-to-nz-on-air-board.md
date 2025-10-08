@@ -1,9 +1,12 @@
 ---
 slug: new-appointment-to-nz-on-air-board
-title: "New appointment to NZ On Air board"
-date: 2007-11-27
-source-url: https://www.scoop.co.nz/stories/PA0711/S00519/new-appointment-to-nz-on-air-board.htm
+title: New appointment to NZ On Air board
+date: 2007-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0711/S00519/new-appointment-to-nz-on-air-board.htm
 author: new-zealand-national-party
+permalink: /archive/2007/11/27/new-appointment-to-nz-on-air-board/index.html
+layout: layout.njk
 ---
 New appointment to NZ On Air board
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-researcher-looking-at-food-consumption-and-wastage
-title: "UC researcher looking at food consumption and wastage"
-date: 2013-09-27
-source-url: https://www.scoop.co.nz/stories/ED1309/S00162/uc-researcher-looking-at-food-consumption-and-wastage.htm
+title: UC researcher looking at food consumption and wastage
+date: 2013-09-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1309/S00162/uc-researcher-looking-at-food-consumption-and-wastage.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/09/27/uc-researcher-looking-at-food-consumption-and-wastage/index.html
+layout: layout.njk
 ---
 UC researcher looking at food consumption and wastage
 =====================================================

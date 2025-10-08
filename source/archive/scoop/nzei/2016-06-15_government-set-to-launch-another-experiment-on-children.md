@@ -1,9 +1,13 @@
 ---
 slug: government-set-to-launch-another-experiment-on-children
-title: "Government set to launch another experiment on children"
-date: 2016-06-15
-source-url: https://www.scoop.co.nz/stories/PO1606/S00161/government-set-to-launch-another-experiment-on-children.htm
+title: Government set to launch another experiment on children
+date: 2016-06-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00161/government-set-to-launch-another-experiment-on-children.htm
 author: nzei
+permalink: >-
+  /archive/2016/06/15/government-set-to-launch-another-experiment-on-children/index.html
+layout: layout.njk
 ---
 Government set to launch another experiment on children
 =======================================================

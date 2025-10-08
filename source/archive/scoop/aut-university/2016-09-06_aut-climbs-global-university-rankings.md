@@ -1,9 +1,12 @@
 ---
 slug: aut-climbs-global-university-rankings
-title: "AUT climbs global university rankings"
-date: 2016-09-06
-source-url: https://www.scoop.co.nz/stories/ED1609/S00027/aut-climbs-global-university-rankings.htm
+title: AUT climbs global university rankings
+date: 2016-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00027/aut-climbs-global-university-rankings.htm
 author: aut-university
+permalink: /archive/2016/09/06/aut-climbs-global-university-rankings/index.html
+layout: layout.njk
 ---
 AUT climbs global university rankings
 =====================================

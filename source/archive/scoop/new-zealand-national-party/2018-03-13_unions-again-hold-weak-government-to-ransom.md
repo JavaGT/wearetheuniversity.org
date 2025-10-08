@@ -1,9 +1,12 @@
 ---
 slug: unions-again-hold-weak-government-to-ransom
-title: "Unions again hold weak Government to ransom"
-date: 2018-03-13
-source-url: https://www.scoop.co.nz/stories/PA1803/S00123/unions-again-hold-weak-government-to-ransom.htm
+title: Unions again hold weak Government to ransom
+date: 2018-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00123/unions-again-hold-weak-government-to-ransom.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/13/unions-again-hold-weak-government-to-ransom/index.html
+layout: layout.njk
 ---
 Unions again hold weak Government to ransom
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: double-take-on-waikato-management-grads
-title: "Double-take on Waikato management grads"
-date: 2010-04-26
-source-url: https://www.scoop.co.nz/stories/ED1004/S00072/double-take-on-waikato-management-grads.htm
+title: Double-take on Waikato management grads
+date: 2010-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00072/double-take-on-waikato-management-grads.htm
 author: university-of-waikato
+permalink: /archive/2010/04/26/double-take-on-waikato-management-grads/index.html
+layout: layout.njk
 ---
 Double-take on Waikato management grads
 =======================================

@@ -1,9 +1,12 @@
 ---
 slug: nationals-latest-short-sighted-housing-scheme
-title: "National’s latest short-sighted housing scheme"
-date: 2016-05-25
-source-url: https://www.scoop.co.nz/stories/PA1605/S00475/nationals-latest-short-sighted-housing-scheme.htm
+title: National’s latest short-sighted housing scheme
+date: 2016-05-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00475/nationals-latest-short-sighted-housing-scheme.htm
 author: green-party
+permalink: /archive/2016/05/25/nationals-latest-short-sighted-housing-scheme/index.html
+layout: layout.njk
 ---
 National’s latest short-sighted housing scheme
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: franks-protect-victims-not-criminals
-title: "Franks - Protect victims, not criminals"
-date: 2005-06-10
-source-url: https://www.scoop.co.nz/stories/PA0506/S00221/franks-protect-victims-not-criminals.htm
+title: Franks - Protect victims, not criminals
+date: 2005-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00221/franks-protect-victims-not-criminals.htm
 author: act-new-zealand
+permalink: /archive/2005/06/10/franks-protect-victims-not-criminals/index.html
+layout: layout.njk
 ---
 Franks - Protect victims, not criminals
 =======================================

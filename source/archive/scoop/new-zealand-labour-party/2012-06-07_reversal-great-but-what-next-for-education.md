@@ -1,9 +1,12 @@
 ---
 slug: reversal-great-but-what-next-for-education
-title: "Reversal great, but what next for education?"
-date: 2012-06-07
-source-url: https://www.scoop.co.nz/stories/PA1206/S00083/reversal-great-but-what-next-for-education.htm
+title: Reversal great, but what next for education?
+date: 2012-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1206/S00083/reversal-great-but-what-next-for-education.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/06/07/reversal-great-but-what-next-for-education/index.html
+layout: layout.njk
 ---
 Reversal great, but what next for education?
 ============================================

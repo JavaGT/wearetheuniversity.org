@@ -1,9 +1,12 @@
 ---
 slug: waiariki-mp-congratulates-cni-negotiators
-title: "Waiariki MP congratulates CNI negotiators"
-date: 2008-04-05
-source-url: https://www.scoop.co.nz/stories/PA0804/S00168/waiariki-mp-congratulates-cni-negotiators.htm
+title: Waiariki MP congratulates CNI negotiators
+date: 2008-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00168/waiariki-mp-congratulates-cni-negotiators.htm
 author: te-pati-maori
+permalink: /archive/2008/04/05/waiariki-mp-congratulates-cni-negotiators/index.html
+layout: layout.njk
 ---
 Waiariki MP congratulates CNI negotiators
 =========================================

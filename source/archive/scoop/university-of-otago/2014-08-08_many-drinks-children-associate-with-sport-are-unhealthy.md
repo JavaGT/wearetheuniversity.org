@@ -1,9 +1,13 @@
 ---
 slug: many-drinks-children-associate-with-sport-are-unhealthy
-title: "Many drinks children associate with sport are unhealthy"
-date: 2014-08-08
-source-url: https://www.scoop.co.nz/stories/GE1408/S00029/many-drinks-children-associate-with-sport-are-unhealthy.htm
+title: Many drinks children associate with sport are unhealthy
+date: 2014-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1408/S00029/many-drinks-children-associate-with-sport-are-unhealthy.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/08/08/many-drinks-children-associate-with-sport-are-unhealthy/index.html
+layout: layout.njk
 ---
 Many drinks children associate with sport are unhealthy
 =======================================================

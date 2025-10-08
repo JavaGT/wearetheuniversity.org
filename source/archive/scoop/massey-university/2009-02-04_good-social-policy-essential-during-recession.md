@@ -1,9 +1,12 @@
 ---
 slug: good-social-policy-essential-during-recession
-title: "Good social policy essential during recession"
-date: 2009-02-04
-source-url: https://www.scoop.co.nz/stories/ED0902/S00012/good-social-policy-essential-during-recession.htm
+title: Good social policy essential during recession
+date: 2009-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0902/S00012/good-social-policy-essential-during-recession.htm
 author: massey-university
+permalink: /archive/2009/02/04/good-social-policy-essential-during-recession/index.html
+layout: layout.njk
 ---
 Good social policy essential during recession
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: poet-of-politics-and-polynesia-at-massey
-title: "Poet of politics and Polynesia at Massey"
-date: 2013-07-31
-source-url: https://www.scoop.co.nz/stories/CU1307/S00531/poet-of-politics-and-polynesia-at-massey.htm
+title: Poet of politics and Polynesia at Massey
+date: 2013-07-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1307/S00531/poet-of-politics-and-polynesia-at-massey.htm
 author: massey-university
+permalink: /archive/2013/07/31/poet-of-politics-and-polynesia-at-massey/index.html
+layout: layout.njk
 ---
 Poet of politics and Polynesia at Massey
 ========================================

@@ -1,9 +1,13 @@
 ---
 slug: shallow-sea-encounters-shortlisted-for-book-awards
-title: "Shallow sea encounters shortlisted for Book Awards"
-date: 2008-07-14
-source-url: https://www.scoop.co.nz/stories/SC0807/S00026/shallow-sea-encounters-shortlisted-for-book-awards.htm
+title: Shallow sea encounters shortlisted for Book Awards
+date: 2008-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0807/S00026/shallow-sea-encounters-shortlisted-for-book-awards.htm
 author: auckland-university
+permalink: >-
+  /archive/2008/07/14/shallow-sea-encounters-shortlisted-for-book-awards/index.html
+layout: layout.njk
 ---
 Shallow sea encounters shortlisted for Book Awards
 ==================================================

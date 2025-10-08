@@ -1,9 +1,13 @@
 ---
 slug: waikatos-walking-warriors-win-top-pr-campaign-award
-title: "Waikato’s walking warriors win top PR campaign award"
-date: 2015-10-16
-source-url: https://www.scoop.co.nz/stories/ED1510/S00088/waikatos-walking-warriors-win-top-pr-campaign-award.htm
+title: Waikato’s walking warriors win top PR campaign award
+date: 2015-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1510/S00088/waikatos-walking-warriors-win-top-pr-campaign-award.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/10/16/waikatos-walking-warriors-win-top-pr-campaign-award/index.html
+layout: layout.njk
 ---
 Waikato’s walking warriors win top PR campaign award
 ====================================================

@@ -1,9 +1,12 @@
 ---
 slug: grant-robertsons-speech-to-2015-nzlp-conference
-title: "Grant Robertson's Speech to 2015 NZLP Conference"
-date: 2015-11-09
-source-url: https://www.scoop.co.nz/stories/PA1511/S00134/grant-robertsons-speech-to-2015-nzlp-conference.htm
+title: Grant Robertson's Speech to 2015 NZLP Conference
+date: 2015-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00134/grant-robertsons-speech-to-2015-nzlp-conference.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/11/09/grant-robertsons-speech-to-2015-nzlp-conference/index.html
+layout: layout.njk
 ---
 Grant Robertson's Speech to 2015 NZLP Conference
 ================================================

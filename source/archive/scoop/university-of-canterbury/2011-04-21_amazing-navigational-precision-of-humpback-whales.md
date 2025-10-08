@@ -1,9 +1,13 @@
 ---
 slug: amazing-navigational-precision-of-humpback-whales
-title: "Amazing navigational precision of humpback whales"
-date: 2011-04-21
-source-url: https://www.scoop.co.nz/stories/SC1104/S00048/amazing-navigational-precision-of-humpback-whales.htm
+title: Amazing navigational precision of humpback whales
+date: 2011-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1104/S00048/amazing-navigational-precision-of-humpback-whales.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2011/04/21/amazing-navigational-precision-of-humpback-whales/index.html
+layout: layout.njk
 ---
 Amazing navigational precision of humpback whales
 =================================================

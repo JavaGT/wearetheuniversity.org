@@ -1,9 +1,12 @@
 ---
 slug: budget-2011-not-so-lucky-for-some
-title: "\"Budget 2011 – Not So Lucky For Some\""
-date: 2011-05-27
-source-url: https://www.scoop.co.nz/stories/PO1105/S00441/budget-2011-not-so-lucky-for-some.htm
+title: '"Budget 2011 – Not So Lucky For Some"'
+date: 2011-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00441/budget-2011-not-so-lucky-for-some.htm
 author: lincoln-university-students-association
+permalink: /archive/2011/05/27/budget-2011-not-so-lucky-for-some/index.html
+layout: layout.njk
 ---
 “Budget 2011 – Not So Lucky For Some”
 =====================================

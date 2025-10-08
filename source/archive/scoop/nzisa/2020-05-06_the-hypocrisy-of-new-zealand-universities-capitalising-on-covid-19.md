@@ -1,9 +1,13 @@
 ---
 slug: the-hypocrisy-of-new-zealand-universities-capitalising-on-covid-19
-title: "The Hypocrisy Of New Zealand Universities Capitalising On COVID-19"
-date: 2020-05-06
-source-url: https://www.scoop.co.nz/stories/ED2005/S00013/the-hypocrisy-of-new-zealand-universities-capitalising-on-covid-19.htm
+title: The Hypocrisy Of New Zealand Universities Capitalising On COVID-19
+date: 2020-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2005/S00013/the-hypocrisy-of-new-zealand-universities-capitalising-on-covid-19.htm
 author: nzisa
+permalink: >-
+  /archive/2020/05/06/the-hypocrisy-of-new-zealand-universities-capitalising-on-covid-19/index.html
+layout: layout.njk
 ---
 The Hypocrisy Of New Zealand Universities Capitalising On COVID-19
 ==================================================================

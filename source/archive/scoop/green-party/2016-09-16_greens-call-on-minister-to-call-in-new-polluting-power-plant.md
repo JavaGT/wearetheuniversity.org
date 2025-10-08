@@ -1,9 +1,13 @@
 ---
 slug: greens-call-on-minister-to-call-in-new-polluting-power-plant
-title: "Greens call on Minister to call in new polluting power plant"
-date: 2016-09-16
-source-url: https://www.scoop.co.nz/stories/PA1609/S00311/greens-call-on-minister-to-call-in-new-polluting-power-plant.htm
+title: Greens call on Minister to call in new polluting power plant
+date: 2016-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00311/greens-call-on-minister-to-call-in-new-polluting-power-plant.htm
 author: green-party
+permalink: >-
+  /archive/2016/09/16/greens-call-on-minister-to-call-in-new-polluting-power-plant/index.html
+layout: layout.njk
 ---
 Greens call on Minister to call in new polluting power plant
 ============================================================

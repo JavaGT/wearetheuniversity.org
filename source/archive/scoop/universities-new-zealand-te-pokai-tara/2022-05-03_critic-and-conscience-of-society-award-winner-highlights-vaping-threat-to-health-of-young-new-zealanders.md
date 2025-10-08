@@ -1,9 +1,16 @@
 ---
-slug: critic-and-conscience-of-society-award-winner-highlights-vaping-threat-to-health-of-young-new-zealanders
-title: "Critic And Conscience Of Society Award Winner Highlights Vaping Threat To Health Of Young New Zealanders"
-date: 2022-05-03
-source-url: https://www.scoop.co.nz/stories/GE2205/S00008/critic-and-conscience-of-society-award-winner-highlights-vaping-threat-to-health-of-young-new-zealanders.htm
+slug: >-
+  critic-and-conscience-of-society-award-winner-highlights-vaping-threat-to-health-of-young-new-zealanders
+title: >-
+  Critic And Conscience Of Society Award Winner Highlights Vaping Threat To
+  Health Of Young New Zealanders
+date: 2022-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2205/S00008/critic-and-conscience-of-society-award-winner-highlights-vaping-threat-to-health-of-young-new-zealanders.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2022/05/03/critic-and-conscience-of-society-award-winner-highlights-vaping-threat-to-health-of-young-new-zealanders/index.html
+layout: layout.njk
 ---
 Critic And Conscience Of Society Award Winner Highlights Vaping Threat To Health Of Young New Zealanders
 ========================================================================================================

@@ -1,9 +1,13 @@
 ---
 slug: joyces-meddling-removes-important-voices-on-uni-councils
-title: "Joyce’s meddling removes important voices on uni councils"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/PA1310/S00062/joyces-meddling-removes-important-voices-on-uni-councils.htm
+title: Joyce’s meddling removes important voices on uni councils
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00062/joyces-meddling-removes-important-voices-on-uni-councils.htm
 author: green-party
+permalink: >-
+  /archive/2013/10/02/joyces-meddling-removes-important-voices-on-uni-councils/index.html
+layout: layout.njk
 ---
 Joyce’s meddling removes important voices on uni councils
 =========================================================

@@ -1,9 +1,12 @@
 ---
 slug: nzusa-to-hold-tertiary-education-election-forum
-title: "NZUSA to hold Tertiary Education Election Forum"
-date: 2011-10-13
-source-url: https://www.scoop.co.nz/stories/ED1110/S00053/nzusa-to-hold-tertiary-education-election-forum.htm
+title: NZUSA to hold Tertiary Education Election Forum
+date: 2011-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00053/nzusa-to-hold-tertiary-education-election-forum.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2011/10/13/nzusa-to-hold-tertiary-education-election-forum/index.html
+layout: layout.njk
 ---
 NZUSA to hold Tertiary Education Election Forum
 ===============================================

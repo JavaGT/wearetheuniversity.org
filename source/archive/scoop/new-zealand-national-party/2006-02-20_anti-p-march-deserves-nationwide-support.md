@@ -1,9 +1,12 @@
 ---
 slug: anti-p-march-deserves-nationwide-support
-title: "Anti-P march deserves nationwide support"
-date: 2006-02-20
-source-url: https://www.scoop.co.nz/stories/PA0602/S00284/anti-p-march-deserves-nationwide-support.htm
+title: Anti-P march deserves nationwide support
+date: 2006-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00284/anti-p-march-deserves-nationwide-support.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/20/anti-p-march-deserves-nationwide-support/index.html
+layout: layout.njk
 ---
 Anti-P march deserves nationwide support
 ========================================

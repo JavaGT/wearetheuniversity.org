@@ -1,9 +1,12 @@
 ---
 slug: speech-peters-bro-cal-government
-title: "Speech: Peters - \"Bro-cal Government\""
-date: 2017-07-24
-source-url: https://www.scoop.co.nz/stories/PA1707/S00343/speech-peters-bro-cal-government.htm
+title: 'Speech: Peters - "Bro-cal Government"'
+date: 2017-07-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00343/speech-peters-bro-cal-government.htm
 author: new-zealand-first-party
+permalink: /archive/2017/07/24/speech-peters-bro-cal-government/index.html
+layout: layout.njk
 ---
 Speech: Peters - “Bro-cal Government”
 =====================================

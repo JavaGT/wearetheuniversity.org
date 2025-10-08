@@ -1,9 +1,13 @@
 ---
 slug: $1-3-million-for-research-to-indigenise-health-system
-title: "$1.3 Million For Research To Indigenise Health System"
-date: 2024-02-13
-source-url: https://www.scoop.co.nz/stories/ED2402/S00010/13-million-for-research-to-indigenise-health-system.htm
+title: $1.3 Million For Research To Indigenise Health System
+date: 2024-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2402/S00010/13-million-for-research-to-indigenise-health-system.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/02/13/1-3-million-for-research-to-indigenise-health-system/index.html
+layout: layout.njk
 ---
 $1.3 Million For Research To Indigenise Health System
 =====================================================

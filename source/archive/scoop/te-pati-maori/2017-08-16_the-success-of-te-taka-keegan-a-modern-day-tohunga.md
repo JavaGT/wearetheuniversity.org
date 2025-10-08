@@ -1,9 +1,13 @@
 ---
 slug: the-success-of-te-taka-keegan-a-modern-day-tohunga
-title: "The Success of Te Taka Keegan – A Modern Day Tohunga"
-date: 2017-08-16
-source-url: https://www.scoop.co.nz/stories/ED1708/S00053/the-success-of-te-taka-keegan-a-modern-day-tohunga.htm
+title: The Success of Te Taka Keegan – A Modern Day Tohunga
+date: 2017-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1708/S00053/the-success-of-te-taka-keegan-a-modern-day-tohunga.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2017/08/16/the-success-of-te-taka-keegan-a-modern-day-tohunga/index.html
+layout: layout.njk
 ---
 The Success of Te Taka Keegan – A Modern Day Tohunga
 ====================================================

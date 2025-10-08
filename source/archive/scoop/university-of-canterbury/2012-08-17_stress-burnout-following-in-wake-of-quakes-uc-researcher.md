@@ -1,9 +1,13 @@
 ---
 slug: stress-burnout-following-in-wake-of-quakes-uc-researcher
-title: "Stress, burnout following in wake of quakes - UC researcher"
-date: 2012-08-17
-source-url: https://www.scoop.co.nz/stories/ED1208/S00094/stress-burnout-following-in-wake-of-quakes-uc-researcher.htm
+title: Stress, burnout following in wake of quakes - UC researcher
+date: 2012-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00094/stress-burnout-following-in-wake-of-quakes-uc-researcher.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/17/stress-burnout-following-in-wake-of-quakes-uc-researcher/index.html
+layout: layout.njk
 ---
 Stress, burnout following in wake of quakes - UC researcher
 ===========================================================

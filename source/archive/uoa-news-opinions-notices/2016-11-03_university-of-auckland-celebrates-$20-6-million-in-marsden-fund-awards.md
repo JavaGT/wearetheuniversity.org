@@ -1,8 +1,11 @@
 ---
 slug: university-of-auckland-celebrates-$20-6-million-in-marsden-fund-awards
-title: "University of Auckland celebrates $20.6 million in Marsden fund awards"
-date: 2016-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-of-auckland-20-point-6-million-dollars-marsden-fund.html
+title: University of Auckland celebrates $20.6 million in Marsden fund awards
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/university-of-auckland-20-point-6-million-dollars-marsden-fund.html
+permalink: /archive/2016/11/03/university-of-auckland-celebrates-/index.html
+layout: layout.njk
 ---
 University of Auckland celebrates $20.6 million in Marsden fund awards
 ======================================================================

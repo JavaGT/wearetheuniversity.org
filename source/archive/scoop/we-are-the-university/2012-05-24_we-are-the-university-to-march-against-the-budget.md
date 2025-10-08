@@ -1,9 +1,13 @@
 ---
 slug: we-are-the-university-to-march-against-the-budget
-title: "We Are the University to March Against the Budget"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/PO1205/S00375/we-are-the-university-to-march-against-the-budget.htm
+title: We Are the University to March Against the Budget
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1205/S00375/we-are-the-university-to-march-against-the-budget.htm
 author: we-are-the-university
+permalink: >-
+  /archive/2012/05/24/we-are-the-university-to-march-against-the-budget/index.html
+layout: layout.njk
 ---
 We Are the University to March Against the Budget
 =================================================

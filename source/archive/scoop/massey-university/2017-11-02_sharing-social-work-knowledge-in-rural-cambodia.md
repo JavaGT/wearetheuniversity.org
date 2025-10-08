@@ -1,9 +1,12 @@
 ---
 slug: sharing-social-work-knowledge-in-rural-cambodia
-title: "Sharing Social Work Knowledge in Rural Cambodia"
-date: 2017-11-02
-source-url: https://www.scoop.co.nz/stories/WO1711/S00028/sharing-social-work-knowledge-in-rural-cambodia.htm
+title: Sharing Social Work Knowledge in Rural Cambodia
+date: 2017-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1711/S00028/sharing-social-work-knowledge-in-rural-cambodia.htm
 author: massey-university
+permalink: /archive/2017/11/02/sharing-social-work-knowledge-in-rural-cambodia/index.html
+layout: layout.njk
 ---
 Sharing Social Work Knowledge in Rural Cambodia
 ===============================================

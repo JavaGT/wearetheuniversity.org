@@ -1,9 +1,12 @@
 ---
 slug: from-passive-to-conditional-welfare
-title: "From Passive to Conditional Welfare"
-date: 2011-08-26
-source-url: https://www.scoop.co.nz/stories/BU1108/S00915/from-passive-to-conditional-welfare.htm
+title: From Passive to Conditional Welfare
+date: 2011-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1108/S00915/from-passive-to-conditional-welfare.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2011/08/26/from-passive-to-conditional-welfare/index.html
+layout: layout.njk
 ---
 From Passive to Conditional Welfare
 ===================================

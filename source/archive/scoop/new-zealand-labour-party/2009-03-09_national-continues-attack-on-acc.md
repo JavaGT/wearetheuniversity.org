@@ -1,9 +1,12 @@
 ---
 slug: national-continues-attack-on-acc
-title: "National continues attack on ACC"
-date: 2009-03-09
-source-url: https://www.scoop.co.nz/stories/PA0903/S00124/national-continues-attack-on-acc.htm
+title: National continues attack on ACC
+date: 2009-03-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00124/national-continues-attack-on-acc.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/03/09/national-continues-attack-on-acc/index.html
+layout: layout.njk
 ---
 National continues attack on ACC
 ================================

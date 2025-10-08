@@ -1,9 +1,12 @@
 ---
 slug: forced-adoption-of-business-number-unfair
-title: "Forced Adoption of Business Number Unfair"
-date: 2016-04-15
-source-url: https://www.scoop.co.nz/stories/PA1604/S00262/forced-adoption-of-business-number-unfair.htm
+title: Forced Adoption of Business Number Unfair
+date: 2016-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00262/forced-adoption-of-business-number-unfair.htm
 author: new-zealand-first-party
+permalink: /archive/2016/04/15/forced-adoption-of-business-number-unfair/index.html
+layout: layout.njk
 ---
 Forced Adoption of Business Number Unfair
 =========================================

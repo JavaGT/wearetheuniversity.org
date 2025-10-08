@@ -1,9 +1,12 @@
 ---
 slug: doors-to-learning-at-albany-campus-open-day
-title: "Doors to learning at Albany campus Open Day"
-date: 2009-09-09
-source-url: https://www.scoop.co.nz/stories/ED0909/S00032/doors-to-learning-at-albany-campus-open-day.htm
+title: Doors to learning at Albany campus Open Day
+date: 2009-09-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00032/doors-to-learning-at-albany-campus-open-day.htm
 author: massey-university
+permalink: /archive/2009/09/09/doors-to-learning-at-albany-campus-open-day/index.html
+layout: layout.njk
 ---
 Doors to learning at Albany campus Open Day
 ===========================================

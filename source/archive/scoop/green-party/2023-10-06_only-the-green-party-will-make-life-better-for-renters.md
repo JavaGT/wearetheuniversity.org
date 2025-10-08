@@ -1,9 +1,13 @@
 ---
 slug: only-the-green-party-will-make-life-better-for-renters
-title: "Only The Green Party Will Make Life Better For Renters"
-date: 2023-10-06
-source-url: https://www.scoop.co.nz/stories/PA2310/S00054/only-the-green-party-will-make-life-better-for-renters.htm
+title: Only The Green Party Will Make Life Better For Renters
+date: 2023-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00054/only-the-green-party-will-make-life-better-for-renters.htm
 author: green-party
+permalink: >-
+  /archive/2023/10/06/only-the-green-party-will-make-life-better-for-renters/index.html
+layout: layout.njk
 ---
 Only The Green Party Will Make Life Better For Renters
 ======================================================

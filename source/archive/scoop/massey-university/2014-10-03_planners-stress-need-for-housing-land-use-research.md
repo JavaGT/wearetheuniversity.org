@@ -1,9 +1,13 @@
 ---
 slug: planners-stress-need-for-housing-land-use-research
-title: "Planners stress need for housing, land-use research"
-date: 2014-10-03
-source-url: https://www.scoop.co.nz/stories/ED1410/S00030/planners-stress-need-for-housing-land-use-research.htm
+title: Planners stress need for housing, land-use research
+date: 2014-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00030/planners-stress-need-for-housing-land-use-research.htm
 author: massey-university
+permalink: >-
+  /archive/2014/10/03/planners-stress-need-for-housing-land-use-research/index.html
+layout: layout.njk
 ---
 Planners stress need for housing, land-use research
 ===================================================

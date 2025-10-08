@@ -1,9 +1,12 @@
 ---
 slug: richard-prebble-the-letter-7-april-2014
-title: "Richard prebble: The Letter 7 April 2014"
-date: 2014-04-07
-source-url: https://www.scoop.co.nz/stories/PO1404/S00100/richard-prebble-the-letter-7-april-2014.htm
+title: 'Richard prebble: The Letter 7 April 2014'
+date: 2014-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1404/S00100/richard-prebble-the-letter-7-april-2014.htm
 author: act-new-zealand
+permalink: /archive/2014/04/07/richard-prebble-the-letter-7-april-2014/index.html
+layout: layout.njk
 ---
 Richard prebble: The Letter 7 April 2014
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: you-cant-avoid-politics-peters
-title: "You Can't Avoid Politics: Peters"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/PA1605/S00051/you-cant-avoid-politics-peters.htm
+title: 'You Can''t Avoid Politics: Peters'
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1605/S00051/you-cant-avoid-politics-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2016/05/04/you-cant-avoid-politics-peters/index.html
+layout: layout.njk
 ---
 You Can't Avoid Politics: Peters
 ================================

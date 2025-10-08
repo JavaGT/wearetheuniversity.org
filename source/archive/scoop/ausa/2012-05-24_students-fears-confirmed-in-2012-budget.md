@@ -1,9 +1,12 @@
 ---
 slug: students-fears-confirmed-in-2012-budget
-title: "Students' fears confirmed in 2012 Budget"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/ED1205/S00114/students-fears-confirmed-in-2012-budget.htm
+title: Students' fears confirmed in 2012 Budget
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00114/students-fears-confirmed-in-2012-budget.htm
 author: ausa
+permalink: /archive/2012/05/24/students-fears-confirmed-in-2012-budget/index.html
+layout: layout.njk
 ---
 Students' fears confirmed in 2012 Budget
 ========================================

@@ -1,9 +1,12 @@
 ---
 slug: act-finds-out-facts-in-truck-ride
-title: "ACT Finds Out Facts In Truck Ride"
-date: 2001-12-10
-source-url: https://www.scoop.co.nz/stories/PA0112/S00160/act-finds-out-facts-in-truck-ride.htm
+title: ACT Finds Out Facts In Truck Ride
+date: 2001-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0112/S00160/act-finds-out-facts-in-truck-ride.htm
 author: act-new-zealand
+permalink: /archive/2001/12/10/act-finds-out-facts-in-truck-ride/index.html
+layout: layout.njk
 ---
 ACT Finds Out Facts In Truck Ride
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: go-pink-and-take-a-stand-against-bullying
-title: "Go Pink And Take A Stand Against Bullying"
-date: 2010-04-27
-source-url: https://www.scoop.co.nz/stories/ED1004/S00081/go-pink-and-take-a-stand-against-bullying.htm
+title: Go Pink And Take A Stand Against Bullying
+date: 2010-04-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00081/go-pink-and-take-a-stand-against-bullying.htm
 author: nzei
+permalink: /archive/2010/04/27/go-pink-and-take-a-stand-against-bullying/index.html
+layout: layout.njk
 ---
 Go Pink And Take A Stand Against Bullying
 =========================================

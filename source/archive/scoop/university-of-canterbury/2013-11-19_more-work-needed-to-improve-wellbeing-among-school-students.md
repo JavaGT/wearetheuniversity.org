@@ -1,9 +1,13 @@
 ---
 slug: more-work-needed-to-improve-wellbeing-among-school-students
-title: "More work needed to improve wellbeing among school students"
-date: 2013-11-19
-source-url: https://www.scoop.co.nz/stories/ED1311/S00126/more-work-needed-to-improve-wellbeing-among-school-students.htm
+title: More work needed to improve wellbeing among school students
+date: 2013-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00126/more-work-needed-to-improve-wellbeing-among-school-students.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/19/more-work-needed-to-improve-wellbeing-among-school-students/index.html
+layout: layout.njk
 ---
 More work needed to improve wellbeing among school students
 ===========================================================

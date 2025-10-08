@@ -1,9 +1,13 @@
 ---
 slug: labour-urges-govt-to-listen-on-special-education
-title: "Labour urges govt to listen on special education"
-date: 2010-02-03
-source-url: https://www.scoop.co.nz/stories/PA1002/S00049/labour-urges-govt-to-listen-on-special-education.htm
+title: Labour urges govt to listen on special education
+date: 2010-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1002/S00049/labour-urges-govt-to-listen-on-special-education.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/02/03/labour-urges-govt-to-listen-on-special-education/index.html
+layout: layout.njk
 ---
 Labour urges govt to listen on special education
 ================================================

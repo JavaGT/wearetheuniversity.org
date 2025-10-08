@@ -1,9 +1,16 @@
 ---
-slug: free-speech-union-welcomes-legislation-to-defend-freedom-of-expression-on-university-campuses
-title: "Free Speech Union Welcomes Legislation To Defend Freedom Of Expression On University Campuses"
-date: 2021-10-21
-source-url: https://www.scoop.co.nz/stories/PO2110/S00196/free-speech-union-welcomes-legislation-to-defend-freedom-of-expression-on-university-campuses.htm
+slug: >-
+  free-speech-union-welcomes-legislation-to-defend-freedom-of-expression-on-university-campuses
+title: >-
+  Free Speech Union Welcomes Legislation To Defend Freedom Of Expression On
+  University Campuses
+date: 2021-10-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2110/S00196/free-speech-union-welcomes-legislation-to-defend-freedom-of-expression-on-university-campuses.htm
 author: free-speech-union
+permalink: >-
+  /archive/2021/10/21/free-speech-union-welcomes-legislation-to-defend-freedom-of-expression-on-university-campuses/index.html
+layout: layout.njk
 ---
 Free Speech Union Welcomes Legislation To Defend Freedom Of Expression On University Campuses
 =============================================================================================

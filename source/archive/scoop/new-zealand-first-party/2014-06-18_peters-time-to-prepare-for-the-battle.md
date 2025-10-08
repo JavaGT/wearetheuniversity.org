@@ -1,9 +1,12 @@
 ---
 slug: peters-time-to-prepare-for-the-battle
-title: "Peters: Time to Prepare for the Battle"
-date: 2014-06-18
-source-url: https://www.scoop.co.nz/stories/PA1406/S00263/peters-time-to-prepare-for-the-battle.htm
+title: 'Peters: Time to Prepare for the Battle'
+date: 2014-06-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00263/peters-time-to-prepare-for-the-battle.htm
 author: new-zealand-first-party
+permalink: /archive/2014/06/18/peters-time-to-prepare-for-the-battle/index.html
+layout: layout.njk
 ---
 Peters: Time to Prepare for the Battle
 ======================================

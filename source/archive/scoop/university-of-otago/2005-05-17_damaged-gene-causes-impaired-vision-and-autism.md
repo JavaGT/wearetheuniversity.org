@@ -1,9 +1,12 @@
 ---
 slug: damaged-gene-causes-impaired-vision-and-autism
-title: "Damaged gene causes impaired vision and autism"
-date: 2005-05-17
-source-url: https://www.scoop.co.nz/stories/SC0505/S00045/damaged-gene-causes-impaired-vision-and-autism.htm
+title: Damaged gene causes impaired vision and autism
+date: 2005-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0505/S00045/damaged-gene-causes-impaired-vision-and-autism.htm
 author: university-of-otago
+permalink: /archive/2005/05/17/damaged-gene-causes-impaired-vision-and-autism/index.html
+layout: layout.njk
 ---
 Damaged gene causes impaired vision and autism
 ==============================================

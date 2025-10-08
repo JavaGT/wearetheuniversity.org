@@ -1,9 +1,13 @@
 ---
 slug: govt-needs-to-send-clear-message-about-migrant-work-abuse
-title: "Govt needs to send clear message about  migrant work abuse"
-date: 2012-10-07
-source-url: https://www.scoop.co.nz/stories/PA1210/S00121/govt-needs-to-send-clear-message-about-migrant-work-abuse.htm
+title: Govt needs to send clear message about  migrant work abuse
+date: 2012-10-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00121/govt-needs-to-send-clear-message-about-migrant-work-abuse.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2012/10/07/govt-needs-to-send-clear-message-about-migrant-work-abuse/index.html
+layout: layout.njk
 ---
 Govt needs to send clear message about migrant work abuse
 =========================================================

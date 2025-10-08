@@ -1,9 +1,13 @@
 ---
 slug: govt-must-grant-visa-waivers-to-all-pacific-countries
-title: "Govt Must Grant Visa Waivers To All Pacific Countries"
-date: 2022-12-08
-source-url: https://www.scoop.co.nz/stories/PO2212/S00070/govt-must-grant-visa-waivers-to-all-pacific-countries.htm
+title: Govt Must Grant Visa Waivers To All Pacific Countries
+date: 2022-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2212/S00070/govt-must-grant-visa-waivers-to-all-pacific-countries.htm
 author: green-party
+permalink: >-
+  /archive/2022/12/08/govt-must-grant-visa-waivers-to-all-pacific-countries/index.html
+layout: layout.njk
 ---
 Govt Must Grant Visa Waivers To All Pacific Countries
 =====================================================

@@ -1,9 +1,12 @@
 ---
 slug: be-fascinated-at-aut-university
-title: "Be Fascinated at AUT University"
-date: 2013-11-13
-source-url: https://www.scoop.co.nz/stories/CU1311/S00284/be-fascinated-at-aut-university.htm
+title: Be Fascinated at AUT University
+date: 2013-11-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00284/be-fascinated-at-aut-university.htm
 author: aut-university
+permalink: /archive/2013/11/13/be-fascinated-at-aut-university/index.html
+layout: layout.njk
 ---
 Be Fascinated at AUT University
 ===============================

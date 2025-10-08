@@ -1,9 +1,12 @@
 ---
 slug: govt-getting-something-right-on-student-funding
-title: "Govt Getting Something Right On Student Funding?"
-date: 2002-05-31
-source-url: https://www.scoop.co.nz/stories/PA0205/S00724/govt-getting-something-right-on-student-funding.htm
+title: Govt Getting Something Right On Student Funding?
+date: 2002-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00724/govt-getting-something-right-on-student-funding.htm
 author: act-new-zealand
+permalink: /archive/2002/05/31/govt-getting-something-right-on-student-funding/index.html
+layout: layout.njk
 ---
 Govt Getting Something Right On Student Funding?
 ================================================

@@ -1,9 +1,12 @@
 ---
 slug: honorary-doctorate-for-aut-luminary
-title: "Honorary doctorate for AUT luminary"
-date: 2006-03-22
-source-url: https://www.scoop.co.nz/stories/ED0603/S00056/honorary-doctorate-for-aut-luminary.htm
+title: Honorary doctorate for AUT luminary
+date: 2006-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0603/S00056/honorary-doctorate-for-aut-luminary.htm
 author: aut-university
+permalink: /archive/2006/03/22/honorary-doctorate-for-aut-luminary/index.html
+layout: layout.njk
 ---
 Honorary doctorate for AUT luminary
 ===================================

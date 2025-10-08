@@ -1,9 +1,12 @@
 ---
 slug: key-issues-at-women-students-conference
-title: "Key issues at women students conference"
-date: 2005-01-25
-source-url: https://www.scoop.co.nz/stories/ED0501/S00048/key-issues-at-women-students-conference.htm
+title: Key issues at women students conference
+date: 2005-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0501/S00048/key-issues-at-women-students-conference.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/01/25/key-issues-at-women-students-conference/index.html
+layout: layout.njk
 ---
 Key issues at women students conference
 =======================================

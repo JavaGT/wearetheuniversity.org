@@ -1,9 +1,12 @@
 ---
 slug: party-pills-petition-goes-nationwide
-title: "Party Pills Petition Goes Nationwide"
-date: 2006-02-16
-source-url: https://www.scoop.co.nz/stories/PA0602/S00207/party-pills-petition-goes-nationwide.htm
+title: Party Pills Petition Goes Nationwide
+date: 2006-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0602/S00207/party-pills-petition-goes-nationwide.htm
 author: new-zealand-national-party
+permalink: /archive/2006/02/16/party-pills-petition-goes-nationwide/index.html
+layout: layout.njk
 ---
 Party Pills Petition Goes Nationwide
 ====================================

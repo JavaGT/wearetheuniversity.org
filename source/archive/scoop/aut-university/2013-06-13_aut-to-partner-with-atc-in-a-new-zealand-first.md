@@ -1,9 +1,12 @@
 ---
 slug: aut-to-partner-with-atc-in-a-new-zealand-first
-title: "AUT to partner with ATC in a New Zealand first"
-date: 2013-06-13
-source-url: https://www.scoop.co.nz/stories/CU1306/S00155/aut-to-partner-with-atc-in-a-new-zealand-first.htm
+title: AUT to partner with ATC in a New Zealand first
+date: 2013-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1306/S00155/aut-to-partner-with-atc-in-a-new-zealand-first.htm
 author: aut-university
+permalink: /archive/2013/06/13/aut-to-partner-with-atc-in-a-new-zealand-first/index.html
+layout: layout.njk
 ---
 AUT to partner with ATC in a New Zealand first
 ==============================================

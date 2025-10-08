@@ -1,9 +1,12 @@
 ---
 slug: special-ed-staff-accept-pay-rises-of-up-to-18%
-title: "Special Ed Staff Accept Pay Rises of Up to 18%"
-date: 2005-11-02
-source-url: https://www.scoop.co.nz/stories/ED0511/S00007/special-ed-staff-accept-pay-rises-of-up-to-18.htm
+title: Special Ed Staff Accept Pay Rises of Up to 18%
+date: 2005-11-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0511/S00007/special-ed-staff-accept-pay-rises-of-up-to-18.htm
 author: nzei
+permalink: /archive/2005/11/02/special-ed-staff-accept-pay-rises-of-up-to-18/index.html
+layout: layout.njk
 ---
 Special Ed Staff Accept Pay Rises of Up to 18%
 ==============================================

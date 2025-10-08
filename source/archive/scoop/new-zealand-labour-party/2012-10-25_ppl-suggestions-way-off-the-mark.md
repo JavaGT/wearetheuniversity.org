@@ -1,9 +1,12 @@
 ---
 slug: ppl-suggestions-way-off-the-mark
-title: "PPL Suggestions Way Off The Mark"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/PA1210/S00445/ppl-suggestions-way-off-the-mark.htm
+title: PPL Suggestions Way Off The Mark
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00445/ppl-suggestions-way-off-the-mark.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/25/ppl-suggestions-way-off-the-mark/index.html
+layout: layout.njk
 ---
 PPL Suggestions Way Off The Mark
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: aucklanders-stuck-in-traffic-due-to-govt-policy
-title: "Aucklanders stuck in traffic due to Govt policy"
-date: 2019-12-09
-source-url: https://www.scoop.co.nz/stories/PA1912/S00071/aucklanders-stuck-in-traffic-due-to-govt-policy.htm
+title: Aucklanders stuck in traffic due to Govt policy
+date: 2019-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1912/S00071/aucklanders-stuck-in-traffic-due-to-govt-policy.htm
 author: new-zealand-national-party
+permalink: /archive/2019/12/09/aucklanders-stuck-in-traffic-due-to-govt-policy/index.html
+layout: layout.njk
 ---
 Aucklanders stuck in traffic due to Govt policy
 ===============================================

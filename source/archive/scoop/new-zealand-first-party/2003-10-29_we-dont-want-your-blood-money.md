@@ -1,9 +1,12 @@
 ---
 slug: we-dont-want-your-blood-money
-title: "We Don’t Want Your Blood Money"
-date: 2003-10-29
-source-url: https://www.scoop.co.nz/stories/PA0310/S00656/we-dont-want-your-blood-money.htm
+title: We Don’t Want Your Blood Money
+date: 2003-10-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00656/we-dont-want-your-blood-money.htm
 author: new-zealand-first-party
+permalink: /archive/2003/10/29/we-dont-want-your-blood-money/index.html
+layout: layout.njk
 ---
 We Don’t Want Your Blood Money
 ==============================

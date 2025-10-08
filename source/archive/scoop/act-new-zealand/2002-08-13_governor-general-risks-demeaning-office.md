@@ -1,9 +1,12 @@
 ---
 slug: governor-general-risks-demeaning-office
-title: "Governor General Risks Demeaning Office"
-date: 2002-08-13
-source-url: https://www.scoop.co.nz/stories/PA0208/S00097/governor-general-risks-demeaning-office.htm
+title: Governor General Risks Demeaning Office
+date: 2002-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00097/governor-general-risks-demeaning-office.htm
 author: act-new-zealand
+permalink: /archive/2002/08/13/governor-general-risks-demeaning-office/index.html
+layout: layout.njk
 ---
 Governor General Risks Demeaning Office
 =======================================

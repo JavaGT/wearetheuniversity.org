@@ -1,9 +1,12 @@
 ---
 slug: brash-attacks-deeply-troubling-ncea-question
-title: "Brash Attacks 'Deeply Troubling' NCEA Question"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PA0501/S00291/brash-attacks-deeply-troubling-ncea-question.htm
+title: Brash Attacks 'Deeply Troubling' NCEA Question
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00291/brash-attacks-deeply-troubling-ncea-question.htm
 author: new-zealand-national-party
+permalink: /archive/2005/01/31/brash-attacks-deeply-troubling-ncea-question/index.html
+layout: layout.njk
 ---
 Brash Attacks 'Deeply Troubling' NCEA Question
 ==============================================

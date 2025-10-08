@@ -1,9 +1,13 @@
 ---
 slug: uc-new-year-resolution-for-greater-connection-with-ōtautahi
-title: "UC New Year resolution for greater connection with Ōtautahi"
-date: 2019-12-17
-source-url: https://www.scoop.co.nz/stories/ED1912/S00041/uc-new-year-resolution-for-greater-connection-with-otautahi.htm
+title: UC New Year resolution for greater connection with Ōtautahi
+date: 2019-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1912/S00041/uc-new-year-resolution-for-greater-connection-with-otautahi.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2019/12/17/uc-new-year-resolution-for-greater-connection-with-/index.html
+layout: layout.njk
 ---
 UC New Year resolution for greater connection with Ōtautahi
 ===========================================================

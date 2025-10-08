@@ -1,9 +1,13 @@
 ---
 slug: public-services-will-be-accountable-to-taxpayers
-title: "Public Services Will Be Accountable To Taxpayers"
-date: 2023-10-06
-source-url: https://www.scoop.co.nz/stories/PA2310/S00052/public-services-will-be-accountable-to-taxpayers.htm
+title: Public Services Will Be Accountable To Taxpayers
+date: 2023-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2310/S00052/public-services-will-be-accountable-to-taxpayers.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/10/06/public-services-will-be-accountable-to-taxpayers/index.html
+layout: layout.njk
 ---
 Public Services Will Be Accountable To Taxpayers
 ================================================

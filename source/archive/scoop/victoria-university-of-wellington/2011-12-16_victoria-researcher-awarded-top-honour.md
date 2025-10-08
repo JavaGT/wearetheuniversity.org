@@ -1,9 +1,12 @@
 ---
 slug: victoria-researcher-awarded-top-honour
-title: "Victoria researcher awarded top honour"
-date: 2011-12-16
-source-url: https://www.scoop.co.nz/stories/SC1112/S00039/victoria-researcher-awarded-top-honour.htm
+title: Victoria researcher awarded top honour
+date: 2011-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1112/S00039/victoria-researcher-awarded-top-honour.htm
 author: victoria-university-of-wellington
+permalink: /archive/2011/12/16/victoria-researcher-awarded-top-honour/index.html
+layout: layout.njk
 ---
 Victoria researcher awarded top honour
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: matariki-exhibition-tuku-iho-open-to-public
-title: "Matariki Exhibition Tuku Iho Open To Public"
-date: 2024-07-03
-source-url: https://www.scoop.co.nz/stories/CU2407/S00044/matariki-exhibition-tuku-iho-open-to-public.htm
+title: Matariki Exhibition Tuku Iho Open To Public
+date: 2024-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2407/S00044/matariki-exhibition-tuku-iho-open-to-public.htm
 author: victoria-university-of-wellington
+permalink: /archive/2024/07/03/matariki-exhibition-tuku-iho-open-to-public/index.html
+layout: layout.njk
 ---
 Matariki Exhibition Tuku Iho Open To Public
 ===========================================

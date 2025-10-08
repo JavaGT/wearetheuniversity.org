@@ -1,9 +1,12 @@
 ---
 slug: clark-tries-to-confuse-public-on-election-rort
-title: "Clark tries to confuse public on election rort"
-date: 2006-09-04
-source-url: https://www.scoop.co.nz/stories/PA0609/S00071/clark-tries-to-confuse-public-on-election-rort.htm
+title: Clark tries to confuse public on election rort
+date: 2006-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0609/S00071/clark-tries-to-confuse-public-on-election-rort.htm
 author: new-zealand-national-party
+permalink: /archive/2006/09/04/clark-tries-to-confuse-public-on-election-rort/index.html
+layout: layout.njk
 ---
 Clark tries to confuse public on election rort
 ==============================================

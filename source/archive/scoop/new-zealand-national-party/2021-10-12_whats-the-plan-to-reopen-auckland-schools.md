@@ -1,9 +1,12 @@
 ---
 slug: whats-the-plan-to-reopen-auckland-schools
-title: "What’s The Plan To Reopen Auckland Schools?"
-date: 2021-10-12
-source-url: https://www.scoop.co.nz/stories/PA2110/S00111/whats-the-plan-to-reopen-auckland-schools.htm
+title: What’s The Plan To Reopen Auckland Schools?
+date: 2021-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00111/whats-the-plan-to-reopen-auckland-schools.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/12/whats-the-plan-to-reopen-auckland-schools/index.html
+layout: layout.njk
 ---
 What’s The Plan To Reopen Auckland Schools?
 ===========================================

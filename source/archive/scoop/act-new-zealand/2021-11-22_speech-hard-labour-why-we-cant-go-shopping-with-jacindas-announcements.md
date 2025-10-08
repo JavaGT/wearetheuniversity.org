@@ -1,9 +1,13 @@
 ---
 slug: speech-hard-labour-why-we-cant-go-shopping-with-jacindas-announcements
-title: "Speech: Hard Labour -why We Can’t Go Shopping With Jacinda’s Announcements"
-date: 2021-11-22
-source-url: https://www.scoop.co.nz/stories/PA2111/S00237/speech-hard-labour-why-we-cant-go-shopping-with-jacindas-announcements.htm
+title: 'Speech: Hard Labour -why We Can’t Go Shopping With Jacinda’s Announcements'
+date: 2021-11-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2111/S00237/speech-hard-labour-why-we-cant-go-shopping-with-jacindas-announcements.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/11/22/speech-hard-labour-why-we-cant-go-shopping-with-jacindas-announcements/index.html
+layout: layout.njk
 ---
 Speech: Hard Labour -why We Can’t Go Shopping With Jacinda’s Announcements
 ==========================================================================

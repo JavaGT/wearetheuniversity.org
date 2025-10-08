@@ -1,9 +1,12 @@
 ---
 slug: msds-computer-system-complex-and-fragile
-title: "MSD's Computer System \"Complex and Fragile\""
-date: 2004-03-17
-source-url: https://www.scoop.co.nz/stories/PA0403/S00374/msds-computer-system-complex-and-fragile.htm
+title: MSD's Computer System "Complex and Fragile"
+date: 2004-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00374/msds-computer-system-complex-and-fragile.htm
 author: new-zealand-first-party
+permalink: /archive/2004/03/17/msds-computer-system-complex-and-fragile/index.html
+layout: layout.njk
 ---
 MSD's Computer System \"Complex and Fragile"
 ===========================================

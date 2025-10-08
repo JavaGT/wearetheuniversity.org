@@ -1,9 +1,12 @@
 ---
 slug: new-insights-gained-into-genetics-of-gout
-title: "New insights gained into genetics of gout"
-date: 2017-05-24
-source-url: https://www.scoop.co.nz/stories/SC1705/S00069/new-insights-gained-into-genetics-of-gout.htm
+title: New insights gained into genetics of gout
+date: 2017-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1705/S00069/new-insights-gained-into-genetics-of-gout.htm
 author: university-of-otago
+permalink: /archive/2017/05/24/new-insights-gained-into-genetics-of-gout/index.html
+layout: layout.njk
 ---
 New insights gained into genetics of gout
 =========================================

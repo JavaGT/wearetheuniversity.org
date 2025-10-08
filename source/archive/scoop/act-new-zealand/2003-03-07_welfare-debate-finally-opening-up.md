@@ -1,9 +1,12 @@
 ---
 slug: welfare-debate-finally-opening-up
-title: "Welfare Debate Finally Opening Up"
-date: 2003-03-07
-source-url: https://www.scoop.co.nz/stories/PA0303/S00132/welfare-debate-finally-opening-up.htm
+title: Welfare Debate Finally Opening Up
+date: 2003-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0303/S00132/welfare-debate-finally-opening-up.htm
 author: act-new-zealand
+permalink: /archive/2003/03/07/welfare-debate-finally-opening-up/index.html
+layout: layout.njk
 ---
 Welfare Debate Finally Opening Up
 =================================

@@ -1,9 +1,12 @@
 ---
 slug: angry-about-the-torture-of-iraqis
-title: "Angry about the torture of Iraqis?"
-date: 2004-05-06
-source-url: https://www.scoop.co.nz/stories/PO0405/S00041/angry-about-the-torture-of-iraqis.htm
+title: Angry about the torture of Iraqis?
+date: 2004-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0405/S00041/angry-about-the-torture-of-iraqis.htm
 author: peace-action-wellington
+permalink: /archive/2004/05/06/angry-about-the-torture-of-iraqis/index.html
+layout: layout.njk
 ---
 Angry about the torture of Iraqis?
 ==================================

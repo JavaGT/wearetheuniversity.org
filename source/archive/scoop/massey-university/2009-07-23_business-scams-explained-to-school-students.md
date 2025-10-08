@@ -1,9 +1,12 @@
 ---
 slug: business-scams-explained-to-school-students
-title: "Business scams explained to school students"
-date: 2009-07-23
-source-url: https://www.scoop.co.nz/stories/BU0907/S00604/business-scams-explained-to-school-students.htm
+title: Business scams explained to school students
+date: 2009-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0907/S00604/business-scams-explained-to-school-students.htm
 author: massey-university
+permalink: /archive/2009/07/23/business-scams-explained-to-school-students/index.html
+layout: layout.njk
 ---
 Business scams explained to school students
 ===========================================

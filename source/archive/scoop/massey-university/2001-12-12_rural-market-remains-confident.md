@@ -1,9 +1,12 @@
 ---
 slug: rural-market-remains-confident
-title: "Rural Market Remains Confident"
-date: 2001-12-12
-source-url: https://www.scoop.co.nz/stories/BU0112/S00075/rural-market-remains-confident.htm
+title: Rural Market Remains Confident
+date: 2001-12-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0112/S00075/rural-market-remains-confident.htm
 author: massey-university
+permalink: /archive/2001/12/12/rural-market-remains-confident/index.html
+layout: layout.njk
 ---
 Rural Market Remains Confident
 ==============================

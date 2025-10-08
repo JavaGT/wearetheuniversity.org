@@ -1,9 +1,13 @@
 ---
 slug: government-inaction-makes-a-mockery-of-rail-safety-week
-title: "Government Inaction Makes a Mockery of Rail Safety Week"
-date: 2012-08-14
-source-url: https://www.scoop.co.nz/stories/PA1208/S00184/government-inaction-makes-a-mockery-of-rail-safety-week.htm
+title: Government Inaction Makes a Mockery of Rail Safety Week
+date: 2012-08-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00184/government-inaction-makes-a-mockery-of-rail-safety-week.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2012/08/14/government-inaction-makes-a-mockery-of-rail-safety-week/index.html
+layout: layout.njk
 ---
 Government Inaction Makes a Mockery of Rail Safety Week
 =======================================================

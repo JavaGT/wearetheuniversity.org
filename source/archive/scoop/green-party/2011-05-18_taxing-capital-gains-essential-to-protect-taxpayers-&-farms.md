@@ -1,9 +1,13 @@
 ---
 slug: taxing-capital-gains-essential-to-protect-taxpayers-&-farms
-title: "Taxing capital gains essential to protect taxpayers & farms"
-date: 2011-05-18
-source-url: https://www.scoop.co.nz/stories/PA1105/S00367/taxing-capital-gains-essential-to-protect-taxpayers-farms.htm
+title: Taxing capital gains essential to protect taxpayers & farms
+date: 2011-05-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00367/taxing-capital-gains-essential-to-protect-taxpayers-farms.htm
 author: green-party
+permalink: >-
+  /archive/2011/05/18/taxing-capital-gains-essential-to-protect-taxpayers-/index.html
+layout: layout.njk
 ---
 Taxing capital gains essential to protect taxpayers & farms
 ===========================================================

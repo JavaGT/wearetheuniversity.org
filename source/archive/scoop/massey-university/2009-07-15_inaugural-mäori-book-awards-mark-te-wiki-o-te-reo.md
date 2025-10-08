@@ -1,9 +1,12 @@
 ---
 slug: inaugural-mäori-book-awards-mark-te-wiki-o-te-reo
-title: "Inaugural Mäori book awards mark Te Wiki o te Reo"
-date: 2009-07-15
-source-url: https://www.scoop.co.nz/stories/CU0907/S00186/inaugural-maori-book-awards-mark-te-wiki-o-te-reo.htm
+title: Inaugural Mäori book awards mark Te Wiki o te Reo
+date: 2009-07-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0907/S00186/inaugural-maori-book-awards-mark-te-wiki-o-te-reo.htm
 author: massey-university
+permalink: /archive/2009/07/15/inaugural-m/index.html
+layout: layout.njk
 ---
 Inaugural Mäori book awards mark Te Wiki o te Reo
 =================================================

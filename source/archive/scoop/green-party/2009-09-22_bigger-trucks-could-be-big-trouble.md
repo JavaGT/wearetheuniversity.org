@@ -1,9 +1,12 @@
 ---
 slug: bigger-trucks-could-be-big-trouble
-title: "Bigger trucks could be big trouble"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/PA0909/S00295/bigger-trucks-could-be-big-trouble.htm
+title: Bigger trucks could be big trouble
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00295/bigger-trucks-could-be-big-trouble.htm
 author: green-party
+permalink: /archive/2009/09/22/bigger-trucks-could-be-big-trouble/index.html
+layout: layout.njk
 ---
 Bigger trucks could be big trouble
 ==================================

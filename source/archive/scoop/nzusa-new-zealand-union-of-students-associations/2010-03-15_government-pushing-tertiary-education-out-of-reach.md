@@ -1,9 +1,13 @@
 ---
 slug: government-pushing-tertiary-education-out-of-reach
-title: "Government pushing tertiary education out of reach"
-date: 2010-03-15
-source-url: https://www.scoop.co.nz/stories/ED1003/S00060/government-pushing-tertiary-education-out-of-reach.htm
+title: Government pushing tertiary education out of reach
+date: 2010-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1003/S00060/government-pushing-tertiary-education-out-of-reach.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2010/03/15/government-pushing-tertiary-education-out-of-reach/index.html
+layout: layout.njk
 ---
 Government pushing tertiary education out of reach
 ==================================================

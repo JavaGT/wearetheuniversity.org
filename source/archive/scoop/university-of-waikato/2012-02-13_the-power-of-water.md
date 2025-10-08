@@ -1,9 +1,11 @@
 ---
 slug: the-power-of-water
-title: "The Power of Water"
-date: 2012-02-13
+title: The Power of Water
+date: 2012-02-13T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1202/S00054/the-power-of-water.htm
 author: university-of-waikato
+permalink: /archive/2012/02/13/the-power-of-water/index.html
+layout: layout.njk
 ---
 The Power of Water
 ==================

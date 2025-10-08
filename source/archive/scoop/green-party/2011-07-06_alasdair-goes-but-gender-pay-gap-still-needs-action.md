@@ -1,9 +1,13 @@
 ---
 slug: alasdair-goes-but-gender-pay-gap-still-needs-action
-title: "Alasdair goes, but gender pay gap still needs action"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00096/alasdair-goes-but-gender-pay-gap-still-needs-action.htm
+title: Alasdair goes, but gender pay gap still needs action
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00096/alasdair-goes-but-gender-pay-gap-still-needs-action.htm
 author: green-party
+permalink: >-
+  /archive/2011/07/06/alasdair-goes-but-gender-pay-gap-still-needs-action/index.html
+layout: layout.njk
 ---
 Alasdair goes, but gender pay gap still needs action
 ====================================================

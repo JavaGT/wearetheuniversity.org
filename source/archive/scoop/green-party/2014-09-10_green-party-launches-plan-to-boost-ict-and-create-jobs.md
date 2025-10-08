@@ -1,9 +1,13 @@
 ---
 slug: green-party-launches-plan-to-boost-ict-and-create-jobs
-title: "Green Party launches plan to boost ICT and create jobs"
-date: 2014-09-10
-source-url: https://www.scoop.co.nz/stories/PA1409/S00154/green-party-launches-plan-to-boost-ict-and-create-jobs.htm
+title: Green Party launches plan to boost ICT and create jobs
+date: 2014-09-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00154/green-party-launches-plan-to-boost-ict-and-create-jobs.htm
 author: green-party
+permalink: >-
+  /archive/2014/09/10/green-party-launches-plan-to-boost-ict-and-create-jobs/index.html
+layout: layout.njk
 ---
 Green Party launches plan to boost ICT and create jobs
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: funding-policy-to-blame-for-corelli-school-liquidation
-title: "Funding policy to blame for Corelli school liquidation"
-date: 2016-04-22
-source-url: https://www.scoop.co.nz/stories/PA1604/S00380/funding-policy-to-blame-for-corelli-school-liquidation.htm
+title: Funding policy to blame for Corelli school liquidation
+date: 2016-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00380/funding-policy-to-blame-for-corelli-school-liquidation.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2016/04/22/funding-policy-to-blame-for-corelli-school-liquidation/index.html
+layout: layout.njk
 ---
 Funding policy to blame for Corelli school liquidation
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: rahui-katene-estimates-debate-2011-vote-education
-title: "Rahui Katene: Estimates Debate 2011 Vote Education"
-date: 2011-08-10
-source-url: https://www.scoop.co.nz/stories/PA1108/S00181/rahui-katene-estimates-debate-2011-vote-education.htm
+title: 'Rahui Katene: Estimates Debate 2011 Vote Education'
+date: 2011-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1108/S00181/rahui-katene-estimates-debate-2011-vote-education.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/08/10/rahui-katene-estimates-debate-2011-vote-education/index.html
+layout: layout.njk
 ---
 Rahui Katene: Estimates Debate 2011 Vote Education
 ==================================================

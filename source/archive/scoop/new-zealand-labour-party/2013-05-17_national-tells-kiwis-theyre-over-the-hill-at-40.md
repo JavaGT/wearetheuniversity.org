@@ -1,9 +1,12 @@
 ---
 slug: national-tells-kiwis-theyre-over-the-hill-at-40
-title: "National tells Kiwis they’re over the hill at 40"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00377/national-tells-kiwis-theyre-over-the-hill-at-40.htm
+title: National tells Kiwis they’re over the hill at 40
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00377/national-tells-kiwis-theyre-over-the-hill-at-40.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/17/national-tells-kiwis-theyre-over-the-hill-at-40/index.html
+layout: layout.njk
 ---
 National tells Kiwis they’re over the hill at 40
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: re-plumbing-canty-plains-will-damage-clean-green
-title: "Re-plumbing Canty Plains will damage clean green"
-date: 2008-02-25
-source-url: https://www.scoop.co.nz/stories/PA0802/S00401/re-plumbing-canty-plains-will-damage-clean-green.htm
+title: Re-plumbing Canty Plains will damage clean green
+date: 2008-02-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0802/S00401/re-plumbing-canty-plains-will-damage-clean-green.htm
 author: green-party
+permalink: >-
+  /archive/2008/02/25/re-plumbing-canty-plains-will-damage-clean-green/index.html
+layout: layout.njk
 ---
 Re-plumbing Canty Plains will damage clean green
 ================================================

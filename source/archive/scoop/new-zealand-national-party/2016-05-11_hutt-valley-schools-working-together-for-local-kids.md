@@ -1,9 +1,13 @@
 ---
 slug: hutt-valley-schools-working-together-for-local-kids
-title: "Hutt Valley schools working together for local kids"
-date: 2016-05-11
-source-url: https://www.scoop.co.nz/stories/ED1605/S00040/hutt-valley-schools-working-together-for-local-kids.htm
+title: Hutt Valley schools working together for local kids
+date: 2016-05-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00040/hutt-valley-schools-working-together-for-local-kids.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2016/05/11/hutt-valley-schools-working-together-for-local-kids/index.html
+layout: layout.njk
 ---
 Hutt Valley schools working together for local kids
 ===================================================

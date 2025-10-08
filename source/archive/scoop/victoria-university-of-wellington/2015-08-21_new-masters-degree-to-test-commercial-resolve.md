@@ -1,9 +1,12 @@
 ---
 slug: new-masters-degree-to-test-commercial-resolve
-title: "New Master’s degree to test commercial resolve"
-date: 2015-08-21
-source-url: https://www.scoop.co.nz/stories/ED1508/S00108/new-masters-degree-to-test-commercial-resolve.htm
+title: New Master’s degree to test commercial resolve
+date: 2015-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1508/S00108/new-masters-degree-to-test-commercial-resolve.htm
 author: victoria-university-of-wellington
+permalink: /archive/2015/08/21/new-masters-degree-to-test-commercial-resolve/index.html
+layout: layout.njk
 ---
 New Master’s degree to test commercial resolve
 ==============================================

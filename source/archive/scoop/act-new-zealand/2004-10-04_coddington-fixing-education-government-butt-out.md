@@ -1,9 +1,12 @@
 ---
 slug: coddington-fixing-education-government-butt-out
-title: "Coddington: Fixing Education - Government Butt Out"
-date: 2004-10-04
-source-url: https://www.scoop.co.nz/stories/PA0410/S00032/coddington-fixing-education-government-butt-out.htm
+title: 'Coddington: Fixing Education - Government Butt Out'
+date: 2004-10-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0410/S00032/coddington-fixing-education-government-butt-out.htm
 author: act-new-zealand
+permalink: /archive/2004/10/04/coddington-fixing-education-government-butt-out/index.html
+layout: layout.njk
 ---
 Coddington: Fixing Education - Government Butt Out
 ==================================================

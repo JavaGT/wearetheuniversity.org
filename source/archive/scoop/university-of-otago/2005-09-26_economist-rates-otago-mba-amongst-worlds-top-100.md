@@ -1,9 +1,13 @@
 ---
 slug: economist-rates-otago-mba-amongst-worlds-top-100
-title: "Economist Rates Otago Mba Amongst World’s Top 100"
-date: 2005-09-26
-source-url: https://www.scoop.co.nz/stories/ED0509/S00085/economist-rates-otago-mba-amongst-worlds-top-100.htm
+title: Economist Rates Otago Mba Amongst World’s Top 100
+date: 2005-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0509/S00085/economist-rates-otago-mba-amongst-worlds-top-100.htm
 author: university-of-otago
+permalink: >-
+  /archive/2005/09/26/economist-rates-otago-mba-amongst-worlds-top-100/index.html
+layout: layout.njk
 ---
 Economist Rates Otago Mba Amongst World’s Top 100
 =================================================

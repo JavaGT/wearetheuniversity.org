@@ -1,9 +1,13 @@
 ---
 slug: minister-deaf-to-mental-health-issues-in-canterbury
-title: "Minister deaf to mental health issues in Canterbury"
-date: 2016-02-11
-source-url: https://www.scoop.co.nz/stories/PA1602/S00146/minister-deaf-to-mental-health-issues-in-canterbury.htm
+title: Minister deaf to mental health issues in Canterbury
+date: 2016-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1602/S00146/minister-deaf-to-mental-health-issues-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2016/02/11/minister-deaf-to-mental-health-issues-in-canterbury/index.html
+layout: layout.njk
 ---
 Minister deaf to mental health issues in Canterbury
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: exploring-the-impact-of-poverty-on-childrens-learning
-title: "Exploring the impact of poverty on children’s learning"
-date: 2013-04-24
-source-url: https://www.scoop.co.nz/stories/ED1304/S00144/exploring-the-impact-of-poverty-on-childrens-learning.htm
+title: Exploring the impact of poverty on children’s learning
+date: 2013-04-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00144/exploring-the-impact-of-poverty-on-childrens-learning.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/04/24/exploring-the-impact-of-poverty-on-childrens-learning/index.html
+layout: layout.njk
 ---
 Exploring the impact of poverty on children’s learning
 ======================================================

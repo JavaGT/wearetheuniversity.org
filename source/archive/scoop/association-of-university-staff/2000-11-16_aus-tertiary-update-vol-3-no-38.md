@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-38
-title: "AUS Tertiary Update  Vol.3 No.38"
-date: 2000-11-16
-source-url: https://www.scoop.co.nz/stories/ED0011/S00025/aus-tertiary-update-vol3-no38.htm
+title: AUS Tertiary Update  Vol.3 No.38
+date: 2000-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0011/S00025/aus-tertiary-update-vol3-no38.htm
 author: association-of-university-staff
+permalink: /archive/2000/11/16/aus-tertiary-update-vol-3-no-38/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.38
 ===============================

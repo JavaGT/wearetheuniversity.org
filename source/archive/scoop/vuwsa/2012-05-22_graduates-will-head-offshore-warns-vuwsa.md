@@ -1,9 +1,12 @@
 ---
 slug: graduates-will-head-offshore-warns-vuwsa
-title: "Graduates Will Head Offshore Warns VUWSA"
-date: 2012-05-22
-source-url: https://www.scoop.co.nz/stories/ED1205/S00089/graduates-will-head-offshore-warns-vuwsa.htm
+title: Graduates Will Head Offshore Warns VUWSA
+date: 2012-05-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1205/S00089/graduates-will-head-offshore-warns-vuwsa.htm
 author: vuwsa
+permalink: /archive/2012/05/22/graduates-will-head-offshore-warns-vuwsa/index.html
+layout: layout.njk
 ---
 Graduates Will Head Offshore Warns VUWSA
 ========================================

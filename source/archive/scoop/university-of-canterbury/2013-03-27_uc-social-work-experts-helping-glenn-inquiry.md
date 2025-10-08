@@ -1,9 +1,12 @@
 ---
 slug: uc-social-work-experts-helping-glenn-inquiry
-title: "UC Social Work Experts Helping Glenn Inquiry"
-date: 2013-03-27
-source-url: https://www.scoop.co.nz/stories/ED1303/S00191/uc-social-work-experts-helping-glenn-inquiry.htm
+title: UC Social Work Experts Helping Glenn Inquiry
+date: 2013-03-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1303/S00191/uc-social-work-experts-helping-glenn-inquiry.htm
 author: university-of-canterbury
+permalink: /archive/2013/03/27/uc-social-work-experts-helping-glenn-inquiry/index.html
+layout: layout.njk
 ---
 UC Social Work Experts Helping Glenn Inquiry
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: no-transformation-in-pillaging-the-taxpayer
-title: "No transformation in pillaging the taxpayer"
-date: 2018-05-17
-source-url: https://www.scoop.co.nz/stories/PA1805/S00260/no-transformation-in-pillaging-the-taxpayer.htm
+title: No transformation in pillaging the taxpayer
+date: 2018-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00260/no-transformation-in-pillaging-the-taxpayer.htm
 author: act-new-zealand
+permalink: /archive/2018/05/17/no-transformation-in-pillaging-the-taxpayer/index.html
+layout: layout.njk
 ---
 No transformation in pillaging the taxpayer
 ===========================================

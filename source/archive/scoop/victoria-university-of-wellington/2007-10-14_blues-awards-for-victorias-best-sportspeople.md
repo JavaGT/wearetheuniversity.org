@@ -1,9 +1,12 @@
 ---
 slug: blues-awards-for-victorias-best-sportspeople
-title: "Blues Awards for Victoria's best sportspeople"
-date: 2007-10-14
-source-url: https://www.scoop.co.nz/stories/CU0710/S00157/blues-awards-for-victorias-best-sportspeople.htm
+title: Blues Awards for Victoria's best sportspeople
+date: 2007-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0710/S00157/blues-awards-for-victorias-best-sportspeople.htm
 author: victoria-university-of-wellington
+permalink: /archive/2007/10/14/blues-awards-for-victorias-best-sportspeople/index.html
+layout: layout.njk
 ---
 Blues Awards for Victoria's best sportspeople
 =============================================

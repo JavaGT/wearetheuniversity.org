@@ -1,9 +1,13 @@
 ---
 slug: psychological-bias-could-play-role-in-civilian-casualties
-title: "Psychological Bias Could Play Role In Civilian Casualties"
-date: 2024-10-31
-source-url: https://www.scoop.co.nz/stories/PO2410/S00165/psychological-bias-could-play-role-in-civilian-casualties.htm
+title: Psychological Bias Could Play Role In Civilian Casualties
+date: 2024-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2410/S00165/psychological-bias-could-play-role-in-civilian-casualties.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/10/31/psychological-bias-could-play-role-in-civilian-casualties/index.html
+layout: layout.njk
 ---
 Psychological Bias Could Play Role In Civilian Casualties
 =========================================================

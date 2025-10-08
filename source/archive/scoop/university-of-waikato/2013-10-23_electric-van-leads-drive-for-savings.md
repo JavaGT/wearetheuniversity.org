@@ -1,9 +1,12 @@
 ---
 slug: electric-van-leads-drive-for-savings
-title: "Electric van leads drive for savings"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/SC1310/S00061/electric-van-leads-drive-for-savings.htm
+title: Electric van leads drive for savings
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1310/S00061/electric-van-leads-drive-for-savings.htm
 author: university-of-waikato
+permalink: /archive/2013/10/23/electric-van-leads-drive-for-savings/index.html
+layout: layout.njk
 ---
 Electric van leads drive for savings
 ====================================

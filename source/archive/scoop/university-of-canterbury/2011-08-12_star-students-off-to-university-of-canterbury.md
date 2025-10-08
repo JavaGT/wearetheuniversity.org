@@ -1,9 +1,12 @@
 ---
 slug: star-students-off-to-university-of-canterbury
-title: "STAR students off to University of Canterbury"
-date: 2011-08-12
-source-url: https://www.scoop.co.nz/stories/ED1108/S00078/star-students-off-to-university-of-canterbury.htm
+title: STAR students off to University of Canterbury
+date: 2011-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00078/star-students-off-to-university-of-canterbury.htm
 author: university-of-canterbury
+permalink: /archive/2011/08/12/star-students-off-to-university-of-canterbury/index.html
+layout: layout.njk
 ---
 STAR students off to University of Canterbury
 =============================================

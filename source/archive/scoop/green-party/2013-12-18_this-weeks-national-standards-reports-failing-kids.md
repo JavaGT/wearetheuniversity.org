@@ -1,9 +1,13 @@
 ---
 slug: this-weeks-national-standards-reports-failing-kids
-title: "This week’s National Standards reports failing kids"
-date: 2013-12-18
-source-url: https://www.scoop.co.nz/stories/PA1312/S00358/this-weeks-national-standards-reports-failing-kids.htm
+title: This week’s National Standards reports failing kids
+date: 2013-12-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1312/S00358/this-weeks-national-standards-reports-failing-kids.htm
 author: green-party
+permalink: >-
+  /archive/2013/12/18/this-weeks-national-standards-reports-failing-kids/index.html
+layout: layout.njk
 ---
 This week’s National Standards reports failing kids
 ===================================================

@@ -1,9 +1,13 @@
 ---
 slug: waikato-mechanical-engineers-compete-in-melbourne
-title: "Waikato mechanical engineers compete in Melbourne"
-date: 2015-01-05
-source-url: https://www.scoop.co.nz/stories/ED1501/S00005/waikato-mechanical-engineers-compete-in-melbourne.htm
+title: Waikato mechanical engineers compete in Melbourne
+date: 2015-01-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00005/waikato-mechanical-engineers-compete-in-melbourne.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/01/05/waikato-mechanical-engineers-compete-in-melbourne/index.html
+layout: layout.njk
 ---
 Waikato mechanical engineers compete in Melbourne
 =================================================

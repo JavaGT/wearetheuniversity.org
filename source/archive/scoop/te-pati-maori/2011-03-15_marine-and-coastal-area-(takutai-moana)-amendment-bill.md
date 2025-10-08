@@ -1,9 +1,12 @@
 ---
 slug: marine-and-coastal-area-(takutai-moana)-amendment-bill
-title: "Marine and Coastal Area (Takutai Moana) Amendment Bill"
-date: 2011-03-15
-source-url: https://www.scoop.co.nz/stories/PA1103/S00230/marine-and-coastal-area-takutai-moana-amendment-bill.htm
+title: Marine and Coastal Area (Takutai Moana) Amendment Bill
+date: 2011-03-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1103/S00230/marine-and-coastal-area-takutai-moana-amendment-bill.htm
 author: te-pati-maori
+permalink: /archive/2011/03/15/marine-and-coastal-area-/index.html
+layout: layout.njk
 ---
 Marine and Coastal Area (Takutai Moana) Amendment Bill
 ======================================================

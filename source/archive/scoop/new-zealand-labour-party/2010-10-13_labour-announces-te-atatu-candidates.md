@@ -1,9 +1,12 @@
 ---
 slug: labour-announces-te-atatu-candidates
-title: "Labour announces Te Atatu candidates"
-date: 2010-10-13
-source-url: https://www.scoop.co.nz/stories/PO1010/S00134/labour-announces-te-atatu-candidates.htm
+title: Labour announces Te Atatu candidates
+date: 2010-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1010/S00134/labour-announces-te-atatu-candidates.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/13/labour-announces-te-atatu-candidates/index.html
+layout: layout.njk
 ---
 Labour announces Te Atatu candidates
 ====================================

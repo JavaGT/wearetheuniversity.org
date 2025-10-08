@@ -1,9 +1,12 @@
 ---
 slug: democracy-still-the-loser-in-canterbury
-title: "Democracy still the loser in Canterbury"
-date: 2015-08-26
-source-url: https://www.scoop.co.nz/stories/PA1508/S00450/democracy-still-the-loser-in-canterbury.htm
+title: Democracy still the loser in Canterbury
+date: 2015-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00450/democracy-still-the-loser-in-canterbury.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/08/26/democracy-still-the-loser-in-canterbury/index.html
+layout: layout.njk
 ---
 Democracy still the loser in Canterbury
 =======================================

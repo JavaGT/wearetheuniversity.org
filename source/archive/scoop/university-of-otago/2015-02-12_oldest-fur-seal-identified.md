@@ -1,9 +1,11 @@
 ---
 slug: oldest-fur-seal-identified
-title: "Oldest fur seal identified"
-date: 2015-02-12
+title: Oldest fur seal identified
+date: 2015-02-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/SC1502/S00021/oldest-fur-seal-identified.htm
 author: university-of-otago
+permalink: /archive/2015/02/12/oldest-fur-seal-identified/index.html
+layout: layout.njk
 ---
 Oldest fur seal identified
 ==========================

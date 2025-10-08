@@ -1,9 +1,12 @@
 ---
 slug: teachers-and-support-staff-dip-into-own-pockets
-title: "Teachers and support staff dip into own pockets"
-date: 2016-05-04
-source-url: https://www.scoop.co.nz/stories/ED1605/S00010/teachers-and-support-staff-dip-into-own-pockets.htm
+title: Teachers and support staff dip into own pockets
+date: 2016-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1605/S00010/teachers-and-support-staff-dip-into-own-pockets.htm
 author: nzei
+permalink: /archive/2016/05/04/teachers-and-support-staff-dip-into-own-pockets/index.html
+layout: layout.njk
 ---
 Teachers and support staff dip into own pockets
 ===============================================

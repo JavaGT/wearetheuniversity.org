@@ -1,8 +1,11 @@
 ---
 slug: four-hercus-fellowships-for-auckland
-title: "Four Hercus Fellowships for Auckland"
-date: 2015-12-08
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/four-of-five-hercus-fellowships-for-auckland.html
+title: Four Hercus Fellowships for Auckland
+date: 2015-12-08T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2015/12/four-of-five-hercus-fellowships-for-auckland.html
+permalink: /archive/2015/12/08/four-hercus-fellowships-for-auckland/index.html
+layout: layout.njk
 ---
 Four Hercus Fellowships for Auckland
 ====================================

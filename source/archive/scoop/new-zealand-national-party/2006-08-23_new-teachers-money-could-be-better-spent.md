@@ -1,9 +1,12 @@
 ---
 slug: new-teachers-money-could-be-better-spent
-title: "New teachers: money could be better spent"
-date: 2006-08-23
-source-url: https://www.scoop.co.nz/stories/PA0608/S00400/new-teachers-money-could-be-better-spent.htm
+title: 'New teachers: money could be better spent'
+date: 2006-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0608/S00400/new-teachers-money-could-be-better-spent.htm
 author: new-zealand-national-party
+permalink: /archive/2006/08/23/new-teachers-money-could-be-better-spent/index.html
+layout: layout.njk
 ---
 New teachers: money could be better spent
 =========================================

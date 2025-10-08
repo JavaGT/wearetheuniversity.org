@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-14-no-46
-title: "TEU Tertiary Update Vol 14 No 46"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/ED1112/S00041/teu-tertiary-update-vol-14-no-46.htm
+title: TEU Tertiary Update Vol 14 No 46
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00041/teu-tertiary-update-vol-14-no-46.htm
 author: association-of-university-staff
+permalink: /archive/2011/12/08/teu-tertiary-update-vol-14-no-46/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 14 No 46
 ================================

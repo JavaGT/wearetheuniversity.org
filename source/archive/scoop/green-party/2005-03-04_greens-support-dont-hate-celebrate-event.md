@@ -1,9 +1,12 @@
 ---
 slug: greens-support-dont-hate-celebrate-event
-title: "Greens support \"Don't Hate, Celebrate\" event"
-date: 2005-03-04
-source-url: https://www.scoop.co.nz/stories/PA0503/S00103/greens-support-dont-hate-celebrate-event.htm
+title: Greens support "Don't Hate, Celebrate" event
+date: 2005-03-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0503/S00103/greens-support-dont-hate-celebrate-event.htm
 author: green-party
+permalink: /archive/2005/03/04/greens-support-dont-hate-celebrate-event/index.html
+layout: layout.njk
 ---
 Greens support "Don't Hate, Celebrate" event
 ============================================

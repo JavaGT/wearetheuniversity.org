@@ -1,9 +1,13 @@
 ---
 slug: sprawl-not-solution-for-auckland-housing-affordability
-title: "Sprawl not solution for Auckland housing affordability"
-date: 2012-10-27
-source-url: https://www.scoop.co.nz/stories/PA1210/S00469/sprawl-not-solution-for-auckland-housing-affordability.htm
+title: Sprawl not solution for Auckland housing affordability
+date: 2012-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00469/sprawl-not-solution-for-auckland-housing-affordability.htm
 author: green-party
+permalink: >-
+  /archive/2012/10/27/sprawl-not-solution-for-auckland-housing-affordability/index.html
+layout: layout.njk
 ---
 Sprawl not solution for Auckland housing affordability
 ======================================================

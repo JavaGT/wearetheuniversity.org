@@ -1,9 +1,12 @@
 ---
 slug: greens-support-more-pressure-over-eub
-title: "Greens Support More Pressure Over EUB"
-date: 2001-03-13
-source-url: https://www.scoop.co.nz/stories/PA0103/S00188/greens-support-more-pressure-over-eub.htm
+title: Greens Support More Pressure Over EUB
+date: 2001-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0103/S00188/greens-support-more-pressure-over-eub.htm
 author: green-party
+permalink: /archive/2001/03/13/greens-support-more-pressure-over-eub/index.html
+layout: layout.njk
 ---
 Greens Support More Pressure Over EUB
 =====================================

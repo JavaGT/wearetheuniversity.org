@@ -1,9 +1,12 @@
 ---
 slug: 1950s-divas-and-old-maids-at-uc-music-concert
-title: "1950s divas and old maids at UC Music concert"
-date: 2019-10-08
-source-url: https://www.scoop.co.nz/stories/CU1910/S00104/1950s-divas-and-old-maids-at-uc-music-concert.htm
+title: 1950s divas and old maids at UC Music concert
+date: 2019-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1910/S00104/1950s-divas-and-old-maids-at-uc-music-concert.htm
 author: university-of-canterbury
+permalink: /archive/2019/10/08/1950s-divas-and-old-maids-at-uc-music-concert/index.html
+layout: layout.njk
 ---
 1950s divas and old maids at UC Music concert
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: sage-failing-to-protect-marine-species
-title: "Sage failing to protect marine species"
-date: 2018-05-03
-source-url: https://www.scoop.co.nz/stories/PA1805/S00045/sage-failing-to-protect-marine-species.htm
+title: Sage failing to protect marine species
+date: 2018-05-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1805/S00045/sage-failing-to-protect-marine-species.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/03/sage-failing-to-protect-marine-species/index.html
+layout: layout.njk
 ---
 Sage failing to protect marine species
 ======================================

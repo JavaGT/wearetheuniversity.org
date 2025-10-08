@@ -1,9 +1,13 @@
 ---
 slug: nationals-budget-a-hurdle-not-a-hand-for-students
-title: "National’s Budget: A  hurdle not a hand for students"
-date: 2011-05-26
-source-url: https://www.scoop.co.nz/stories/PA1105/S00573/nationals-budget-a-hurdle-not-a-hand-for-students.htm
+title: 'National’s Budget: A  hurdle not a hand for students'
+date: 2011-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00573/nationals-budget-a-hurdle-not-a-hand-for-students.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2011/05/26/nationals-budget-a-hurdle-not-a-hand-for-students/index.html
+layout: layout.njk
 ---
 National’s Budget: A hurdle not a hand for students
 ===================================================

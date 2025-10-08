@@ -1,8 +1,12 @@
 ---
 slug: blockchain-rules-regulating-a-game-changing-new-technology
-title: "Blockchain rules: regulating a game-changing new technology"
-date: 2016-11-28
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/blockchain-rules-regulating-game-changing-new-technology.html
+title: 'Blockchain rules: regulating a game-changing new technology'
+date: 2016-11-28T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/blockchain-rules-regulating-game-changing-new-technology.html
+permalink: >-
+  /archive/2016/11/28/blockchain-rules-regulating-a-game-changing-new-technology/index.html
+layout: layout.njk
 ---
 Blockchain rules: regulating a game-changing new technology
 ===========================================================

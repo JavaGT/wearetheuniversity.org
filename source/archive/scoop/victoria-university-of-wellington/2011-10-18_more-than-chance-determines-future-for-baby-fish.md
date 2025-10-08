@@ -1,9 +1,13 @@
 ---
 slug: more-than-chance-determines-future-for-baby-fish
-title: "More than chance determines future for baby fish"
-date: 2011-10-18
-source-url: https://www.scoop.co.nz/stories/SC1110/S00046/more-than-chance-determines-future-for-baby-fish.htm
+title: More than chance determines future for baby fish
+date: 2011-10-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1110/S00046/more-than-chance-determines-future-for-baby-fish.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/10/18/more-than-chance-determines-future-for-baby-fish/index.html
+layout: layout.njk
 ---
 More than chance determines future for baby fish
 ================================================

@@ -1,9 +1,13 @@
 ---
 slug: yanosh-irani-excited-about-modernised-engineering-facilities
-title: "Yanosh Irani excited about modernised engineering facilities"
-date: 2013-11-01
-source-url: https://www.scoop.co.nz/stories/ED1311/S00006/yanosh-irani-excited-about-modernised-engineering-facilities.htm
+title: Yanosh Irani excited about modernised engineering facilities
+date: 2013-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00006/yanosh-irani-excited-about-modernised-engineering-facilities.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/11/01/yanosh-irani-excited-about-modernised-engineering-facilities/index.html
+layout: layout.njk
 ---
 Yanosh Irani excited about modernised engineering facilities
 ============================================================

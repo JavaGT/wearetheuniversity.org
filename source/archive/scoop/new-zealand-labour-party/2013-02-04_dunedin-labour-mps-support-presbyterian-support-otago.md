@@ -1,9 +1,13 @@
 ---
 slug: dunedin-labour-mps-support-presbyterian-support-otago
-title: "Dunedin Labour MPs support Presbyterian Support Otago"
-date: 2013-02-04
-source-url: https://www.scoop.co.nz/stories/PA1302/S00029/dunedin-labour-mps-support-presbyterian-support-otago.htm
+title: Dunedin Labour MPs support Presbyterian Support Otago
+date: 2013-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1302/S00029/dunedin-labour-mps-support-presbyterian-support-otago.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/02/04/dunedin-labour-mps-support-presbyterian-support-otago/index.html
+layout: layout.njk
 ---
 Dunedin Labour MPs support Presbyterian Support Otago
 =====================================================

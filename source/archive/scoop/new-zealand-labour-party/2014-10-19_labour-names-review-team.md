@@ -1,9 +1,11 @@
 ---
 slug: labour-names-review-team
-title: "Labour Names Review Team"
-date: 2014-10-19
+title: Labour Names Review Team
+date: 2014-10-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1410/S00190/labour-names-review-team.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/10/19/labour-names-review-team/index.html
+layout: layout.njk
 ---
 Labour Names Review Team
 ========================

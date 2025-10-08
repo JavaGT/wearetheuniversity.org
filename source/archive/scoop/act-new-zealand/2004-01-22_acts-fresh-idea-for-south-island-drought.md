@@ -1,9 +1,12 @@
 ---
 slug: acts-fresh-idea-for-south-island-drought
-title: "ACT's Fresh Idea For South Island Drought"
-date: 2004-01-22
-source-url: https://www.scoop.co.nz/stories/PA0401/S00158/acts-fresh-idea-for-south-island-drought.htm
+title: ACT's Fresh Idea For South Island Drought
+date: 2004-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00158/acts-fresh-idea-for-south-island-drought.htm
 author: act-new-zealand
+permalink: /archive/2004/01/22/acts-fresh-idea-for-south-island-drought/index.html
+layout: layout.njk
 ---
 ACT's Fresh Idea For South Island Drought
 =========================================

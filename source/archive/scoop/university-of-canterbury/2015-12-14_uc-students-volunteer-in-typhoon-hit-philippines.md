@@ -1,9 +1,13 @@
 ---
 slug: uc-students-volunteer-in-typhoon-hit-philippines
-title: "UC students volunteer in typhoon-hit Philippines"
-date: 2015-12-14
-source-url: https://www.scoop.co.nz/stories/ED1512/S00065/uc-students-volunteer-in-typhoon-hit-philippines.htm
+title: UC students volunteer in typhoon-hit Philippines
+date: 2015-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1512/S00065/uc-students-volunteer-in-typhoon-hit-philippines.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/12/14/uc-students-volunteer-in-typhoon-hit-philippines/index.html
+layout: layout.njk
 ---
 UC students volunteer in typhoon-hit Philippines
 ================================================

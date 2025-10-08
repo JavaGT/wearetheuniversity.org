@@ -1,9 +1,13 @@
 ---
 slug: long-acting-contraception-methods-reduce-repeat-abortions
-title: "Long-acting contraception methods reduce repeat abortions"
-date: 2011-07-25
-source-url: https://www.scoop.co.nz/stories/ED1107/S00104/long-acting-contraception-methods-reduce-repeat-abortions.htm
+title: Long-acting contraception methods reduce repeat abortions
+date: 2011-07-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1107/S00104/long-acting-contraception-methods-reduce-repeat-abortions.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/07/25/long-acting-contraception-methods-reduce-repeat-abortions/index.html
+layout: layout.njk
 ---
 Long-acting contraception methods reduce repeat abortions
 =========================================================

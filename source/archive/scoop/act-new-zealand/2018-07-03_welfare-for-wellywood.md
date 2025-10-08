@@ -1,9 +1,11 @@
 ---
 slug: welfare-for-wellywood
-title: "Welfare for Wellywood"
-date: 2018-07-03
+title: Welfare for Wellywood
+date: 2018-07-03T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1807/S00027/welfare-for-wellywood.htm
 author: act-new-zealand
+permalink: /archive/2018/07/03/welfare-for-wellywood/index.html
+layout: layout.njk
 ---
 Welfare for Wellywood
 =====================

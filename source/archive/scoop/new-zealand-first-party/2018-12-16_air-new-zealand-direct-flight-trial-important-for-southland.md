@@ -1,9 +1,13 @@
 ---
 slug: air-new-zealand-direct-flight-trial-important-for-southland
-title: "Air New Zealand Direct Flight Trial Important for Southland"
-date: 2018-12-16
-source-url: https://www.scoop.co.nz/stories/PA1812/S00196/air-new-zealand-direct-flight-trial-important-for-southland.htm
+title: Air New Zealand Direct Flight Trial Important for Southland
+date: 2018-12-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1812/S00196/air-new-zealand-direct-flight-trial-important-for-southland.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2018/12/16/air-new-zealand-direct-flight-trial-important-for-southland/index.html
+layout: layout.njk
 ---
 Air New Zealand Direct Flight Trial Important for Southland
 ===========================================================

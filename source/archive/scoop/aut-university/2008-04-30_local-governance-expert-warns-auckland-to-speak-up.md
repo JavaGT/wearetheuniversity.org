@@ -1,9 +1,13 @@
 ---
 slug: local-governance-expert-warns-auckland-to-speak-up
-title: "Local governance expert warns Auckland to speak up"
-date: 2008-04-30
-source-url: https://www.scoop.co.nz/stories/ED0804/S00087/local-governance-expert-warns-auckland-to-speak-up.htm
+title: Local governance expert warns Auckland to speak up
+date: 2008-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00087/local-governance-expert-warns-auckland-to-speak-up.htm
 author: aut-university
+permalink: >-
+  /archive/2008/04/30/local-governance-expert-warns-auckland-to-speak-up/index.html
+layout: layout.njk
 ---
 Local governance expert warns Auckland to speak up
 ==================================================

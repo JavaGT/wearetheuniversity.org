@@ -1,9 +1,13 @@
 ---
 slug: aut-appoints-professor-of-marketing-communications
-title: "AUT appoints Professor of Marketing Communications"
-date: 2007-02-22
-source-url: https://www.scoop.co.nz/stories/ED0702/S00082/aut-appoints-professor-of-marketing-communications.htm
+title: AUT appoints Professor of Marketing Communications
+date: 2007-02-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0702/S00082/aut-appoints-professor-of-marketing-communications.htm
 author: aut-university
+permalink: >-
+  /archive/2007/02/22/aut-appoints-professor-of-marketing-communications/index.html
+layout: layout.njk
 ---
 AUT appoints Professor of Marketing Communications
 ==================================================

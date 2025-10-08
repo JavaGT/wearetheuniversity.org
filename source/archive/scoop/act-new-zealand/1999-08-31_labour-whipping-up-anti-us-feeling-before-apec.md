@@ -1,9 +1,12 @@
 ---
 slug: labour-whipping-up-anti-us-feeling-before-apec
-title: "Labour Whipping Up Anti-US Feeling Before APEC"
-date: 1999-08-31
-source-url: https://www.scoop.co.nz/stories/PA9908/S00537/labour-whipping-up-anti-us-feeling-before-apec.htm
+title: Labour Whipping Up Anti-US Feeling Before APEC
+date: 1999-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00537/labour-whipping-up-anti-us-feeling-before-apec.htm
 author: act-new-zealand
+permalink: /archive/1999/08/31/labour-whipping-up-anti-us-feeling-before-apec/index.html
+layout: layout.njk
 ---
 Labour Whipping Up Anti-US Feeling Before APEC
 ==============================================

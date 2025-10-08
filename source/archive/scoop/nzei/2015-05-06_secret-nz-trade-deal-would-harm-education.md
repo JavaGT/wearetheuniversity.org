@@ -1,9 +1,12 @@
 ---
 slug: secret-nz-trade-deal-would-harm-education
-title: "Secret NZ trade deal would harm education"
-date: 2015-05-06
-source-url: https://www.scoop.co.nz/stories/ED1505/S00024/secret-nz-trade-deal-would-harm-education.htm
+title: Secret NZ trade deal would harm education
+date: 2015-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00024/secret-nz-trade-deal-would-harm-education.htm
 author: nzei
+permalink: /archive/2015/05/06/secret-nz-trade-deal-would-harm-education/index.html
+layout: layout.njk
 ---
 Secret NZ trade deal would harm education
 =========================================

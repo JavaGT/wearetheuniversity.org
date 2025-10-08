@@ -1,9 +1,12 @@
 ---
 slug: community-sector-under-huge-strain
-title: "Community sector under huge strain"
-date: 2016-06-23
-source-url: https://www.scoop.co.nz/stories/PA1606/S00395/community-sector-under-huge-strain.htm
+title: Community sector under huge strain
+date: 2016-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00395/community-sector-under-huge-strain.htm
 author: green-party
+permalink: /archive/2016/06/23/community-sector-under-huge-strain/index.html
+layout: layout.njk
 ---
 Community sector under huge strain
 ==================================

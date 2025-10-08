@@ -1,9 +1,13 @@
 ---
 slug: first-terry-healy-memorial-award-recipients-announced
-title: "First Terry Healy Memorial Award Recipients Announced"
-date: 2013-05-21
-source-url: https://www.scoop.co.nz/stories/ED1305/S00139/first-terry-healy-memorial-award-recipients-announced.htm
+title: First Terry Healy Memorial Award Recipients Announced
+date: 2013-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00139/first-terry-healy-memorial-award-recipients-announced.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2013/05/21/first-terry-healy-memorial-award-recipients-announced/index.html
+layout: layout.njk
 ---
 First Terry Healy Memorial Award Recipients Announced
 =====================================================

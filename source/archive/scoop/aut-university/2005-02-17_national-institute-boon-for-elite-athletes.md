@@ -1,9 +1,12 @@
 ---
 slug: national-institute-boon-for-elite-athletes
-title: "National Institute boon for elite athletes"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/ED0502/S00062/national-institute-boon-for-elite-athletes.htm
+title: National Institute boon for elite athletes
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00062/national-institute-boon-for-elite-athletes.htm
 author: aut-university
+permalink: /archive/2005/02/17/national-institute-boon-for-elite-athletes/index.html
+layout: layout.njk
 ---
 National Institute boon for elite athletes
 ==========================================

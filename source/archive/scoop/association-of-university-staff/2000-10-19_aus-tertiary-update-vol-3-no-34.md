@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-vol-3-no-34
-title: "AUS Tertiary Update  Vol.3 No.34"
-date: 2000-10-19
-source-url: https://www.scoop.co.nz/stories/ED0010/S00025/aus-tertiary-update-vol3-no34.htm
+title: AUS Tertiary Update  Vol.3 No.34
+date: 2000-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00025/aus-tertiary-update-vol3-no34.htm
 author: association-of-university-staff
+permalink: /archive/2000/10/19/aus-tertiary-update-vol-3-no-34/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Vol.3 No.34
 ===============================

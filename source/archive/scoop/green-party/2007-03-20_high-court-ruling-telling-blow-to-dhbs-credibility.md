@@ -1,9 +1,13 @@
 ---
 slug: high-court-ruling-telling-blow-to-dhbs-credibility
-title: "High Court ruling telling blow to DHBs credibility"
-date: 2007-03-20
-source-url: https://www.scoop.co.nz/stories/PA0703/S00399/high-court-ruling-telling-blow-to-dhbs-credibility.htm
+title: High Court ruling telling blow to DHBs credibility
+date: 2007-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00399/high-court-ruling-telling-blow-to-dhbs-credibility.htm
 author: green-party
+permalink: >-
+  /archive/2007/03/20/high-court-ruling-telling-blow-to-dhbs-credibility/index.html
+layout: layout.njk
 ---
 High Court ruling telling blow to DHBs credibility
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: bay-benefits-from-tauranga-campus
-title: "Bay benefits from Tauranga campus"
-date: 2014-07-12
-source-url: https://www.scoop.co.nz/stories/ED1407/S00071/bay-benefits-from-tauranga-campus.htm
+title: Bay benefits from Tauranga campus
+date: 2014-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00071/bay-benefits-from-tauranga-campus.htm
 author: waikato-university
+permalink: /archive/2014/07/12/bay-benefits-from-tauranga-campus/index.html
+layout: layout.njk
 ---
 Bay benefits from Tauranga campus
 =================================

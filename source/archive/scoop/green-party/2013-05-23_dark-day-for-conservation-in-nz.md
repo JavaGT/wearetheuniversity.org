@@ -1,9 +1,12 @@
 ---
 slug: dark-day-for-conservation-in-nz
-title: "Dark Day For Conservation In NZ"
-date: 2013-05-23
-source-url: https://www.scoop.co.nz/stories/PA1305/S00478/dark-day-for-conservation-in-nz.htm
+title: Dark Day For Conservation In NZ
+date: 2013-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00478/dark-day-for-conservation-in-nz.htm
 author: green-party
+permalink: /archive/2013/05/23/dark-day-for-conservation-in-nz/index.html
+layout: layout.njk
 ---
 Dark Day For Conservation In NZ
 ===============================

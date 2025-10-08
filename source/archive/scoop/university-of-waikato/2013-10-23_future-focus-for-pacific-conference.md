@@ -1,9 +1,12 @@
 ---
 slug: future-focus-for-pacific-conference
-title: "Future focus for Pacific conference"
-date: 2013-10-23
-source-url: https://www.scoop.co.nz/stories/ED1310/S00146/future-focus-for-pacific-conference.htm
+title: Future focus for Pacific conference
+date: 2013-10-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1310/S00146/future-focus-for-pacific-conference.htm
 author: university-of-waikato
+permalink: /archive/2013/10/23/future-focus-for-pacific-conference/index.html
+layout: layout.njk
 ---
 Future focus for Pacific conference
 ===================================

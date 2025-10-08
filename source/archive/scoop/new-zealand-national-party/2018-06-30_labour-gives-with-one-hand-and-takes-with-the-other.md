@@ -1,9 +1,13 @@
 ---
 slug: labour-gives-with-one-hand-and-takes-with-the-other
-title: "Labour gives with one hand and takes with the other"
-date: 2018-06-30
-source-url: https://www.scoop.co.nz/stories/PA1806/S00331/labour-gives-with-one-hand-and-takes-with-the-other.htm
+title: Labour gives with one hand and takes with the other
+date: 2018-06-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1806/S00331/labour-gives-with-one-hand-and-takes-with-the-other.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2018/06/30/labour-gives-with-one-hand-and-takes-with-the-other/index.html
+layout: layout.njk
 ---
 Labour gives with one hand and takes with the other
 ===================================================

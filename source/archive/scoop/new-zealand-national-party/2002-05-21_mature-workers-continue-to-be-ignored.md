@@ -1,9 +1,12 @@
 ---
 slug: mature-workers-continue-to-be-ignored
-title: "Mature Workers Continue To Be Ignored"
-date: 2002-05-21
-source-url: https://www.scoop.co.nz/stories/PA0205/S00431/mature-workers-continue-to-be-ignored.htm
+title: Mature Workers Continue To Be Ignored
+date: 2002-05-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00431/mature-workers-continue-to-be-ignored.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/21/mature-workers-continue-to-be-ignored/index.html
+layout: layout.njk
 ---
 Mature Workers Continue To Be Ignored
 =====================================

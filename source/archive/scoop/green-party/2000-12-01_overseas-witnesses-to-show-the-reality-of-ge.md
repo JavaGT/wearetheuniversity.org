@@ -1,9 +1,12 @@
 ---
 slug: overseas-witnesses-to-show-the-reality-of-ge
-title: "Overseas Witnesses To Show The Reality Of GE"
-date: 2000-12-01
-source-url: https://www.scoop.co.nz/stories/PA0012/S00008/overseas-witnesses-to-show-the-reality-of-ge.htm
+title: Overseas Witnesses To Show The Reality Of GE
+date: 2000-12-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0012/S00008/overseas-witnesses-to-show-the-reality-of-ge.htm
 author: green-party
+permalink: /archive/2000/12/01/overseas-witnesses-to-show-the-reality-of-ge/index.html
+layout: layout.njk
 ---
 Overseas Witnesses To Show The Reality Of GE
 ============================================

@@ -1,9 +1,13 @@
 ---
 slug: speech-to-the-87th-national-party-conference-fixing-our-economy
-title: "Speech To The 87th National Party Conference: ‘Fixing Our Economy’"
-date: 2023-06-24
-source-url: https://www.scoop.co.nz/stories/PO2306/S00217/speech-to-the-87th-national-party-conference-fixing-our-economy.htm
+title: 'Speech To The 87th National Party Conference: ‘Fixing Our Economy’'
+date: 2023-06-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2306/S00217/speech-to-the-87th-national-party-conference-fixing-our-economy.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2023/06/24/speech-to-the-87th-national-party-conference-fixing-our-economy/index.html
+layout: layout.njk
 ---
 Speech To The 87th National Party Conference: ‘Fixing Our Economy’
 ==================================================================

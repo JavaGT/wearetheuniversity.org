@@ -1,8 +1,12 @@
 ---
 slug: marsden-fund-grants-go-to-business-school-economists
-title: "Marsden Fund grants go to Business School economists"
-date: 2016-11-03
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/marsden-grants-to-business-school-economists.html
+title: Marsden Fund grants go to Business School economists
+date: 2016-11-03T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/11/marsden-grants-to-business-school-economists.html
+permalink: >-
+  /archive/2016/11/03/marsden-fund-grants-go-to-business-school-economists/index.html
+layout: layout.njk
 ---
 Marsden Fund grants go to Business School economists
 ====================================================

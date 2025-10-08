@@ -1,9 +1,12 @@
 ---
 slug: national-fono-for-postgraduate-students
-title: "National Fono for Postgraduate students"
-date: 2008-04-10
-source-url: https://www.scoop.co.nz/stories/ED0804/S00029/national-fono-for-postgraduate-students.htm
+title: National Fono for Postgraduate students
+date: 2008-04-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0804/S00029/national-fono-for-postgraduate-students.htm
 author: aut-university
+permalink: /archive/2008/04/10/national-fono-for-postgraduate-students/index.html
+layout: layout.njk
 ---
 National Fono for Postgraduate students
 =======================================

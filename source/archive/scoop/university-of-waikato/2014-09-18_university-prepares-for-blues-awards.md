@@ -1,9 +1,12 @@
 ---
 slug: university-prepares-for-blues-awards
-title: "University prepares for Blues Awards"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/ED1409/S00113/university-prepares-for-blues-awards.htm
+title: University prepares for Blues Awards
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00113/university-prepares-for-blues-awards.htm
 author: university-of-waikato
+permalink: /archive/2014/09/18/university-prepares-for-blues-awards/index.html
+layout: layout.njk
 ---
 University prepares for Blues Awards
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: time-to-be-transparent-and-call-in-vaccine-favours
-title: "Time To Be Transparent And Call In Vaccine Favours"
-date: 2021-08-29
-source-url: https://www.scoop.co.nz/stories/PA2108/S00240/time-to-be-transparent-and-call-in-vaccine-favours.htm
+title: Time To Be Transparent And Call In Vaccine Favours
+date: 2021-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2108/S00240/time-to-be-transparent-and-call-in-vaccine-favours.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/08/29/time-to-be-transparent-and-call-in-vaccine-favours/index.html
+layout: layout.njk
 ---
 Time To Be Transparent And Call In Vaccine Favours
 ==================================================

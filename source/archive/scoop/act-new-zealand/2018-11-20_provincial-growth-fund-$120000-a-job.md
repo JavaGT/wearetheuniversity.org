@@ -1,9 +1,12 @@
 ---
 slug: provincial-growth-fund-$120000-a-job
-title: "Provincial Growth Fund: $120,000 a job"
-date: 2018-11-20
-source-url: https://www.scoop.co.nz/stories/PA1811/S00203/provincial-growth-fund-120000-a-job.htm
+title: 'Provincial Growth Fund: $120,000 a job'
+date: 2018-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1811/S00203/provincial-growth-fund-120000-a-job.htm
 author: act-new-zealand
+permalink: /archive/2018/11/20/provincial-growth-fund-/index.html
+layout: layout.njk
 ---
 Provincial Growth Fund: $120,000 a job
 ======================================

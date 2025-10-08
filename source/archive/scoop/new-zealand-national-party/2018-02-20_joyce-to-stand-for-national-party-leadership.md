@@ -1,9 +1,12 @@
 ---
 slug: joyce-to-stand-for-national-party-leadership
-title: "Joyce to stand for National Party leadership"
-date: 2018-02-20
-source-url: https://www.scoop.co.nz/stories/PA1802/S00166/joyce-to-stand-for-national-party-leadership.htm
+title: Joyce to stand for National Party leadership
+date: 2018-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1802/S00166/joyce-to-stand-for-national-party-leadership.htm
 author: new-zealand-national-party
+permalink: /archive/2018/02/20/joyce-to-stand-for-national-party-leadership/index.html
+layout: layout.njk
 ---
 Joyce to stand for National Party leadership
 ============================================

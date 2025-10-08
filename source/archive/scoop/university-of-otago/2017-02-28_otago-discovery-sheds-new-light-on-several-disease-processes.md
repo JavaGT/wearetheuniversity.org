@@ -1,9 +1,13 @@
 ---
 slug: otago-discovery-sheds-new-light-on-several-disease-processes
-title: "Otago discovery sheds new light on several disease processes"
-date: 2017-02-28
-source-url: https://www.scoop.co.nz/stories/SC1702/S00092/otago-discovery-sheds-new-light-on-several-disease-processes.htm
+title: Otago discovery sheds new light on several disease processes
+date: 2017-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1702/S00092/otago-discovery-sheds-new-light-on-several-disease-processes.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/02/28/otago-discovery-sheds-new-light-on-several-disease-processes/index.html
+layout: layout.njk
 ---
 Otago discovery sheds new light on several disease processes
 ============================================================

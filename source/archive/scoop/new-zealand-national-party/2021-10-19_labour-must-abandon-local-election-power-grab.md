@@ -1,9 +1,12 @@
 ---
 slug: labour-must-abandon-local-election-power-grab
-title: "Labour Must Abandon Local Election Power Grab"
-date: 2021-10-19
-source-url: https://www.scoop.co.nz/stories/PA2110/S00179/labour-must-abandon-local-election-power-grab.htm
+title: Labour Must Abandon Local Election Power Grab
+date: 2021-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2110/S00179/labour-must-abandon-local-election-power-grab.htm
 author: new-zealand-national-party
+permalink: /archive/2021/10/19/labour-must-abandon-local-election-power-grab/index.html
+layout: layout.njk
 ---
 Labour Must Abandon Local Election Power Grab
 =============================================

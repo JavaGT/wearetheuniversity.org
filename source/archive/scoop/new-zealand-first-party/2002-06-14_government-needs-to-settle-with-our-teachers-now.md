@@ -1,9 +1,13 @@
 ---
 slug: government-needs-to-settle-with-our-teachers-now
-title: "Government Needs To Settle With Our Teachers Now"
-date: 2002-06-14
-source-url: https://www.scoop.co.nz/stories/PA0206/S00224/government-needs-to-settle-with-our-teachers-now.htm
+title: Government Needs To Settle With Our Teachers Now
+date: 2002-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0206/S00224/government-needs-to-settle-with-our-teachers-now.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2002/06/14/government-needs-to-settle-with-our-teachers-now/index.html
+layout: layout.njk
 ---
 Government Needs To Settle With Our Teachers Now
 ================================================

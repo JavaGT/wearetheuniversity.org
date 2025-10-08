@@ -1,9 +1,12 @@
 ---
 slug: labour-adopts-nz-first-tertiary-education-ideas
-title: "Labour Adopts NZ First Tertiary Education Ideas"
-date: 1999-09-29
-source-url: https://www.scoop.co.nz/stories/PA9909/S00627/labour-adopts-nz-first-tertiary-education-ideas.htm
+title: Labour Adopts NZ First Tertiary Education Ideas
+date: 1999-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9909/S00627/labour-adopts-nz-first-tertiary-education-ideas.htm
 author: new-zealand-first-party
+permalink: /archive/1999/09/29/labour-adopts-nz-first-tertiary-education-ideas/index.html
+layout: layout.njk
 ---
 Labour Adopts NZ First Tertiary Education Ideas
 ===============================================

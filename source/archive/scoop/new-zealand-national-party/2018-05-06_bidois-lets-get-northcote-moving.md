@@ -1,9 +1,12 @@
 ---
 slug: bidois-lets-get-northcote-moving
-title: "Bidois: Let’s get Northcote moving"
-date: 2018-05-06
-source-url: https://www.scoop.co.nz/stories/PO1805/S00066/bidois-lets-get-northcote-moving.htm
+title: 'Bidois: Let’s get Northcote moving'
+date: 2018-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1805/S00066/bidois-lets-get-northcote-moving.htm
 author: new-zealand-national-party
+permalink: /archive/2018/05/06/bidois-lets-get-northcote-moving/index.html
+layout: layout.njk
 ---
 Bidois: Let’s get Northcote moving
 ==================================

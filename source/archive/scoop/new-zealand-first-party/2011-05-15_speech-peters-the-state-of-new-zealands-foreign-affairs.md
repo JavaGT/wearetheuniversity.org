@@ -1,9 +1,13 @@
 ---
 slug: speech-peters-the-state-of-new-zealands-foreign-affairs
-title: "Speech: Peters - The State of New Zealand’s Foreign Affairs"
-date: 2011-05-15
-source-url: https://www.scoop.co.nz/stories/PO1105/S00202/speech-peters-the-state-of-new-zealands-foreign-affairs.htm
+title: 'Speech: Peters - The State of New Zealand’s Foreign Affairs'
+date: 2011-05-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1105/S00202/speech-peters-the-state-of-new-zealands-foreign-affairs.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2011/05/15/speech-peters-the-state-of-new-zealands-foreign-affairs/index.html
+layout: layout.njk
 ---
 Speech: Peters - The State of New Zealand’s Foreign Affairs
 ===========================================================

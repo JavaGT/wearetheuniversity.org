@@ -1,9 +1,12 @@
 ---
 slug: government-hiding-our-student-attendance-crisis
-title: "Government Hiding Our Student Attendance Crisis"
-date: 2021-03-19
-source-url: https://www.scoop.co.nz/stories/PA2103/S00143/government-hiding-our-student-attendance-crisis.htm
+title: Government Hiding Our Student Attendance Crisis
+date: 2021-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00143/government-hiding-our-student-attendance-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2021/03/19/government-hiding-our-student-attendance-crisis/index.html
+layout: layout.njk
 ---
 Government Hiding Our Student Attendance Crisis
 ===============================================

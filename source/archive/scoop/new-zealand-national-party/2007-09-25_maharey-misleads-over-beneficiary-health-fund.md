@@ -1,9 +1,12 @@
 ---
 slug: maharey-misleads-over-beneficiary-health-fund
-title: "Maharey misleads over beneficiary health fund"
-date: 2007-09-25
-source-url: https://www.scoop.co.nz/stories/PA0709/S00439/maharey-misleads-over-beneficiary-health-fund.htm
+title: Maharey misleads over beneficiary health fund
+date: 2007-09-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00439/maharey-misleads-over-beneficiary-health-fund.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/25/maharey-misleads-over-beneficiary-health-fund/index.html
+layout: layout.njk
 ---
 Maharey misleads over beneficiary health fund
 =============================================

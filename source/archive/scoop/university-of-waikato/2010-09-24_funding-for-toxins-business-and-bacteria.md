@@ -1,9 +1,12 @@
 ---
 slug: funding-for-toxins-business-and-bacteria
-title: "Funding for toxins, business and bacteria"
-date: 2010-09-24
-source-url: https://www.scoop.co.nz/stories/SC1009/S00032/funding-for-toxins-business-and-bacteria.htm
+title: Funding for toxins, business and bacteria
+date: 2010-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1009/S00032/funding-for-toxins-business-and-bacteria.htm
 author: university-of-waikato
+permalink: /archive/2010/09/24/funding-for-toxins-business-and-bacteria/index.html
+layout: layout.njk
 ---
 Funding for toxins, business and bacteria
 =========================================

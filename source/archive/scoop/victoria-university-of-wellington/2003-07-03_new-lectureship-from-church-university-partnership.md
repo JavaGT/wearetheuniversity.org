@@ -1,9 +1,13 @@
 ---
 slug: new-lectureship-from-church-university-partnership
-title: "New lectureship from Church-University partnership"
-date: 2003-07-03
-source-url: https://www.scoop.co.nz/stories/ED0307/S00009/new-lectureship-from-church-university-partnership.htm
+title: New lectureship from Church-University partnership
+date: 2003-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00009/new-lectureship-from-church-university-partnership.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2003/07/03/new-lectureship-from-church-university-partnership/index.html
+layout: layout.njk
 ---
 New lectureship from Church-University partnership
 ==================================================

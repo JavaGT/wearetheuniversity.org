@@ -1,9 +1,12 @@
 ---
 slug: carbon-calculators-put-to-the-test
-title: "Carbon calculators put to the test"
-date: 2008-12-10
-source-url: https://www.scoop.co.nz/stories/BU0812/S00225/carbon-calculators-put-to-the-test.htm
+title: Carbon calculators put to the test
+date: 2008-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00225/carbon-calculators-put-to-the-test.htm
 author: university-of-waikato
+permalink: /archive/2008/12/10/carbon-calculators-put-to-the-test/index.html
+layout: layout.njk
 ---
 Carbon calculators put to the test
 ==================================

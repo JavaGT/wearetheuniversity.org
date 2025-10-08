@@ -1,9 +1,11 @@
 ---
 slug: cullen-driven-witt-less
-title: "Cullen driven 'WITT'-less"
-date: 2006-12-14
+title: Cullen driven 'WITT'-less
+date: 2006-12-14T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0612/S00300/cullen-driven-witt-less.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/14/cullen-driven-witt-less/index.html
+layout: layout.njk
 ---
 Cullen driven 'WITT'-less
 =========================

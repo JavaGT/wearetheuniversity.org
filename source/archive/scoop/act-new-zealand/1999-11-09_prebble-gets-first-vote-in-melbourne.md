@@ -1,9 +1,12 @@
 ---
 slug: prebble-gets-first-vote-in-melbourne
-title: "Prebble gets first vote in Melbourne"
-date: 1999-11-09
-source-url: https://www.scoop.co.nz/stories/PA9911/S00217/prebble-gets-first-vote-in-melbourne.htm
+title: Prebble gets first vote in Melbourne
+date: 1999-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00217/prebble-gets-first-vote-in-melbourne.htm
 author: act-new-zealand
+permalink: /archive/1999/11/09/prebble-gets-first-vote-in-melbourne/index.html
+layout: layout.njk
 ---
 Prebble gets first vote in Melbourne
 ====================================

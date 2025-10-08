@@ -1,9 +1,13 @@
 ---
 slug: celebrating-waikato-universitys-work-placement-partnerships
-title: "Celebrating Waikato University’s work placement partnerships"
-date: 2011-06-10
-source-url: https://www.scoop.co.nz/stories/BU1106/S00311/celebrating-waikato-universitys-work-placement-partnerships.htm
+title: Celebrating Waikato University’s work placement partnerships
+date: 2011-06-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1106/S00311/celebrating-waikato-universitys-work-placement-partnerships.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/06/10/celebrating-waikato-universitys-work-placement-partnerships/index.html
+layout: layout.njk
 ---
 Celebrating Waikato University’s work placement partnerships
 ============================================================

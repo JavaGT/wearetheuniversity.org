@@ -1,9 +1,12 @@
 ---
 slug: whats-going-wong-21-december-2005
-title: "What's Going Wong -  21 December 2005"
-date: 2005-12-21
-source-url: https://www.scoop.co.nz/stories/PA0512/S00316/whats-going-wong-21-december-2005.htm
+title: What's Going Wong -  21 December 2005
+date: 2005-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0512/S00316/whats-going-wong-21-december-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/21/whats-going-wong-21-december-2005/index.html
+layout: layout.njk
 ---
 What's Going Wong - 21 December 2005
 ====================================

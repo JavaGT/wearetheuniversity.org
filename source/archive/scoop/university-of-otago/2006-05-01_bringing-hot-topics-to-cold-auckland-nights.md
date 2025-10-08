@@ -1,9 +1,12 @@
 ---
 slug: bringing-hot-topics-to-cold-auckland-nights
-title: "Bringing Hot Topics to Cold Auckland Nights"
-date: 2006-05-01
-source-url: https://www.scoop.co.nz/stories/ED0605/S00002/bringing-hot-topics-to-cold-auckland-nights.htm
+title: Bringing Hot Topics to Cold Auckland Nights
+date: 2006-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0605/S00002/bringing-hot-topics-to-cold-auckland-nights.htm
 author: university-of-otago
+permalink: /archive/2006/05/01/bringing-hot-topics-to-cold-auckland-nights/index.html
+layout: layout.njk
 ---
 Bringing Hot Topics to Cold Auckland Nights
 ===========================================

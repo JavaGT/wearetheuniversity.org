@@ -1,9 +1,12 @@
 ---
 slug: south-island-threatened-with-recession
-title: "South Island threatened with recession"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/PA1509/S00251/south-island-threatened-with-recession.htm
+title: South Island threatened with recession
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00251/south-island-threatened-with-recession.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/09/15/south-island-threatened-with-recession/index.html
+layout: layout.njk
 ---
 South Island threatened with recession
 ======================================

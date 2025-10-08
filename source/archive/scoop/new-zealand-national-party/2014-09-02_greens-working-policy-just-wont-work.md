@@ -1,9 +1,12 @@
 ---
 slug: greens-working-policy-just-wont-work
-title: "Greens' working policy just won’t work"
-date: 2014-09-02
-source-url: https://www.scoop.co.nz/stories/PA1409/S00036/greens-working-policy-just-wont-work.htm
+title: Greens' working policy just won’t work
+date: 2014-09-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1409/S00036/greens-working-policy-just-wont-work.htm
 author: new-zealand-national-party
+permalink: /archive/2014/09/02/greens-working-policy-just-wont-work/index.html
+layout: layout.njk
 ---
 Greens' working policy just won’t work
 ======================================

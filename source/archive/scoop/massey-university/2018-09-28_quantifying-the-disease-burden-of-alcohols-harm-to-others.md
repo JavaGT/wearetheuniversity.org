@@ -1,9 +1,13 @@
 ---
 slug: quantifying-the-disease-burden-of-alcohols-harm-to-others
-title: "Quantifying the disease burden of alcohol’s harm to others"
-date: 2018-09-28
-source-url: https://www.scoop.co.nz/stories/GE1809/S00091/quantifying-the-disease-burden-of-alcohols-harm-to-others.htm
+title: Quantifying the disease burden of alcohol’s harm to others
+date: 2018-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1809/S00091/quantifying-the-disease-burden-of-alcohols-harm-to-others.htm
 author: massey-university
+permalink: >-
+  /archive/2018/09/28/quantifying-the-disease-burden-of-alcohols-harm-to-others/index.html
+layout: layout.njk
 ---
 Quantifying the disease burden of alcohol’s harm to others
 ==========================================================

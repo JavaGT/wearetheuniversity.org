@@ -1,9 +1,12 @@
 ---
 slug: use-of-english-in-samoa-under-the-microscope
-title: "Use of English in Samoa under the microscope"
-date: 2014-10-03
-source-url: https://www.scoop.co.nz/stories/ED1410/S00024/use-of-english-in-samoa-under-the-microscope.htm
+title: Use of English in Samoa under the microscope
+date: 2014-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1410/S00024/use-of-english-in-samoa-under-the-microscope.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/10/03/use-of-english-in-samoa-under-the-microscope/index.html
+layout: layout.njk
 ---
 Use of English in Samoa under the microscope
 ============================================

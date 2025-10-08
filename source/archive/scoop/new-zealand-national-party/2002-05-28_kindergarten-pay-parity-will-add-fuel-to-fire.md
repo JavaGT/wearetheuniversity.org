@@ -1,9 +1,12 @@
 ---
 slug: kindergarten-pay-parity-will-add-fuel-to-fire
-title: "Kindergarten Pay Parity Will Add Fuel To Fire"
-date: 2002-05-28
-source-url: https://www.scoop.co.nz/stories/PA0205/S00648/kindergarten-pay-parity-will-add-fuel-to-fire.htm
+title: Kindergarten Pay Parity Will Add Fuel To Fire
+date: 2002-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0205/S00648/kindergarten-pay-parity-will-add-fuel-to-fire.htm
 author: new-zealand-national-party
+permalink: /archive/2002/05/28/kindergarten-pay-parity-will-add-fuel-to-fire/index.html
+layout: layout.njk
 ---
 Kindergarten Pay Parity Will Add Fuel To Fire
 =============================================

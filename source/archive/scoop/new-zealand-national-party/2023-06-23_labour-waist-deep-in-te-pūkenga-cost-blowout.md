@@ -1,9 +1,12 @@
 ---
 slug: labour-waist-deep-in-te-pūkenga-cost-blowout
-title: "Labour Waist Deep In Te Pūkenga Cost Blowout"
-date: 2023-06-23
-source-url: https://www.scoop.co.nz/stories/PA2306/S00153/labour-waist-deep-in-te-pukenga-cost-blowout.htm
+title: Labour Waist Deep In Te Pūkenga Cost Blowout
+date: 2023-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00153/labour-waist-deep-in-te-pukenga-cost-blowout.htm
 author: new-zealand-national-party
+permalink: /archive/2023/06/23/labour-waist-deep-in-te-p/index.html
+layout: layout.njk
 ---
 Labour Waist Deep In Te Pūkenga Cost Blowout
 ============================================

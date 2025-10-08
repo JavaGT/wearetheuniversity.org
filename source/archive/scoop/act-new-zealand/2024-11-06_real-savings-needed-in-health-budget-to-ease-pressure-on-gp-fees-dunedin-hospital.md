@@ -1,9 +1,16 @@
 ---
-slug: real-savings-needed-in-health-budget-to-ease-pressure-on-gp-fees-dunedin-hospital
-title: "Real Savings Needed In Health Budget To Ease Pressure On GP Fees, Dunedin Hospital"
-date: 2024-11-06
-source-url: https://www.scoop.co.nz/stories/PA2411/S00041/real-savings-needed-in-health-budget-to-ease-pressure-on-gp-fees-dunedin-hospital.htm
+slug: >-
+  real-savings-needed-in-health-budget-to-ease-pressure-on-gp-fees-dunedin-hospital
+title: >-
+  Real Savings Needed In Health Budget To Ease Pressure On GP Fees, Dunedin
+  Hospital
+date: 2024-11-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2411/S00041/real-savings-needed-in-health-budget-to-ease-pressure-on-gp-fees-dunedin-hospital.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2024/11/06/real-savings-needed-in-health-budget-to-ease-pressure-on-gp-fees-dunedin-hospital/index.html
+layout: layout.njk
 ---
 Real Savings Needed In Health Budget To Ease Pressure On GP Fees, Dunedin Hospital
 ==================================================================================

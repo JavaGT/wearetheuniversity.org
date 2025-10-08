@@ -1,9 +1,12 @@
 ---
 slug: acc-cutbacks-to-counselling-spark-fight-back
-title: "ACC cutbacks to counselling spark fight back"
-date: 2009-10-19
-source-url: https://www.scoop.co.nz/stories/PA0910/S00247/acc-cutbacks-to-counselling-spark-fight-back.htm
+title: ACC cutbacks to counselling spark fight back
+date: 2009-10-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0910/S00247/acc-cutbacks-to-counselling-spark-fight-back.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/10/19/acc-cutbacks-to-counselling-spark-fight-back/index.html
+layout: layout.njk
 ---
 ACC cutbacks to counselling spark fight back
 ============================================

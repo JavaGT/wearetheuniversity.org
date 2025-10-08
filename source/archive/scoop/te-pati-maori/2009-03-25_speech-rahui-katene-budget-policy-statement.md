@@ -1,9 +1,12 @@
 ---
 slug: speech-rahui-katene-budget-policy-statement
-title: "Speech: Rahui Katene - Budget Policy Statement"
-date: 2009-03-25
-source-url: https://www.scoop.co.nz/stories/PA0903/S00367/speech-rahui-katene-budget-policy-statement.htm
+title: 'Speech: Rahui Katene - Budget Policy Statement'
+date: 2009-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0903/S00367/speech-rahui-katene-budget-policy-statement.htm
 author: te-pati-maori
+permalink: /archive/2009/03/25/speech-rahui-katene-budget-policy-statement/index.html
+layout: layout.njk
 ---
 Speech: Rahui Katene - Budget Policy Statement
 ==============================================

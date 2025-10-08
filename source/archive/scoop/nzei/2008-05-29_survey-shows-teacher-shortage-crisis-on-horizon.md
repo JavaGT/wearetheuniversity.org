@@ -1,9 +1,12 @@
 ---
 slug: survey-shows-teacher-shortage-crisis-on-horizon
-title: "Survey Shows Teacher Shortage Crisis On Horizon"
-date: 2008-05-29
-source-url: https://www.scoop.co.nz/stories/ED0805/S00127/survey-shows-teacher-shortage-crisis-on-horizon.htm
+title: Survey Shows Teacher Shortage Crisis On Horizon
+date: 2008-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00127/survey-shows-teacher-shortage-crisis-on-horizon.htm
 author: nzei
+permalink: /archive/2008/05/29/survey-shows-teacher-shortage-crisis-on-horizon/index.html
+layout: layout.njk
 ---
 Survey Shows Teacher Shortage Crisis On Horizon
 ===============================================

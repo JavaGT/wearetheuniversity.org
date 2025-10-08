@@ -1,9 +1,12 @@
 ---
 slug: climate-policy-in-danger-of-going-up-in-smoke
-title: "Climate Policy In Danger Of Going Up In Smoke"
-date: 2001-05-10
-source-url: https://www.scoop.co.nz/stories/PA0105/S00242/climate-policy-in-danger-of-going-up-in-smoke.htm
+title: Climate Policy In Danger Of Going Up In Smoke
+date: 2001-05-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0105/S00242/climate-policy-in-danger-of-going-up-in-smoke.htm
 author: green-party
+permalink: /archive/2001/05/10/climate-policy-in-danger-of-going-up-in-smoke/index.html
+layout: layout.njk
 ---
 Climate Policy In Danger Of Going Up In Smoke
 =============================================

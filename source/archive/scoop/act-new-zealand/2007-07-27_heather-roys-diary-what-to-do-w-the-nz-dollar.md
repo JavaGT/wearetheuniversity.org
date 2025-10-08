@@ -1,9 +1,12 @@
 ---
 slug: heather-roys-diary-what-to-do-w-the-nz-dollar
-title: "Heather Roy's Diary: What To Do w The NZ Dollar?"
-date: 2007-07-27
-source-url: https://www.scoop.co.nz/stories/PA0707/S00480/heather-roys-diary-what-to-do-w-the-nz-dollar.htm
+title: 'Heather Roy''s Diary: What To Do w The NZ Dollar?'
+date: 2007-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0707/S00480/heather-roys-diary-what-to-do-w-the-nz-dollar.htm
 author: act-new-zealand
+permalink: /archive/2007/07/27/heather-roys-diary-what-to-do-w-the-nz-dollar/index.html
+layout: layout.njk
 ---
 Heather Roy's Diary: What To Do w The NZ Dollar?
 ================================================

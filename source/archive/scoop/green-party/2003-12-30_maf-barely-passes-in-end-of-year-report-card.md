@@ -1,9 +1,12 @@
 ---
 slug: maf-barely-passes-in-end-of-year-report-card
-title: "MAF 'barely passes' in end of year report card"
-date: 2003-12-30
-source-url: https://www.scoop.co.nz/stories/PA0312/S00561/maf-barely-passes-in-end-of-year-report-card.htm
+title: MAF 'barely passes' in end of year report card
+date: 2003-12-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0312/S00561/maf-barely-passes-in-end-of-year-report-card.htm
 author: green-party
+permalink: /archive/2003/12/30/maf-barely-passes-in-end-of-year-report-card/index.html
+layout: layout.njk
 ---
 MAF 'barely passes' in end of year report card
 ==============================================

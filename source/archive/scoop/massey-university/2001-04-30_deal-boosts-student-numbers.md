@@ -1,9 +1,11 @@
 ---
 slug: deal-boosts-student-numbers
-title: "Deal boosts student numbers"
-date: 2001-04-30
+title: Deal boosts student numbers
+date: 2001-04-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0104/S00026/deal-boosts-student-numbers.htm
 author: massey-university
+permalink: /archive/2001/04/30/deal-boosts-student-numbers/index.html
+layout: layout.njk
 ---
 Deal boosts student numbers
 ===========================

@@ -1,9 +1,12 @@
 ---
 slug: children-with-disabilities-deserve-better
-title: "Children with disabilities deserve better"
-date: 2009-12-09
-source-url: https://www.scoop.co.nz/stories/PA0912/S00132/children-with-disabilities-deserve-better.htm
+title: Children with disabilities deserve better
+date: 2009-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0912/S00132/children-with-disabilities-deserve-better.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/12/09/children-with-disabilities-deserve-better/index.html
+layout: layout.njk
 ---
 Children with disabilities deserve better
 =========================================

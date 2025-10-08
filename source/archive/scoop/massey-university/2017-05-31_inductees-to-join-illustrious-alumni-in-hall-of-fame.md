@@ -1,9 +1,13 @@
 ---
 slug: inductees-to-join-illustrious-alumni-in-hall-of-fame
-title: "Inductees to join illustrious alumni in Hall of Fame"
-date: 2017-05-31
-source-url: https://www.scoop.co.nz/stories/CU1705/S00511/inductees-to-join-illustrious-alumni-in-hall-of-fame.htm
+title: Inductees to join illustrious alumni in Hall of Fame
+date: 2017-05-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1705/S00511/inductees-to-join-illustrious-alumni-in-hall-of-fame.htm
 author: massey-university
+permalink: >-
+  /archive/2017/05/31/inductees-to-join-illustrious-alumni-in-hall-of-fame/index.html
+layout: layout.njk
 ---
 Inductees to join illustrious alumni in Hall of Fame
 ====================================================

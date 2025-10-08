@@ -1,9 +1,12 @@
 ---
 slug: government-right-to-signal-need-for-change
-title: "Government right to signal need for change"
-date: 2018-05-08
-source-url: https://www.scoop.co.nz/stories/BU1805/S00239/government-right-to-signal-need-for-change.htm
+title: Government right to signal need for change
+date: 2018-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1805/S00239/government-right-to-signal-need-for-change.htm
 author: lincoln-university
+permalink: /archive/2018/05/08/government-right-to-signal-need-for-change/index.html
+layout: layout.njk
 ---
 Government right to signal need for change
 ==========================================

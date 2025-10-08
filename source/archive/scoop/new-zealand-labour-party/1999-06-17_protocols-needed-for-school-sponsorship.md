@@ -1,9 +1,12 @@
 ---
 slug: protocols-needed-for-school-sponsorship
-title: "Protocols needed for school sponsorship"
-date: 1999-06-17
-source-url: https://www.scoop.co.nz/stories/PA9906/S00102/protocols-needed-for-school-sponsorship.htm
+title: Protocols needed for school sponsorship
+date: 1999-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9906/S00102/protocols-needed-for-school-sponsorship.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/06/17/protocols-needed-for-school-sponsorship/index.html
+layout: layout.njk
 ---
 Protocols needed for school sponsorship
 =======================================

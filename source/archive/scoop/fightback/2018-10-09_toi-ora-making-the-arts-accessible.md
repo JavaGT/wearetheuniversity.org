@@ -1,9 +1,12 @@
 ---
 slug: toi-ora-making-the-arts-accessible
-title: "Toi Ora: Making the arts accessible"
-date: 2018-10-09
-source-url: https://www.scoop.co.nz/stories/CU1810/S00115/toi-ora-making-the-arts-accessible.htm
+title: 'Toi Ora: Making the arts accessible'
+date: 2018-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00115/toi-ora-making-the-arts-accessible.htm
 author: fightback
+permalink: /archive/2018/10/09/toi-ora-making-the-arts-accessible/index.html
+layout: layout.njk
 ---
 Toi Ora: Making the arts accessible
 ===================================

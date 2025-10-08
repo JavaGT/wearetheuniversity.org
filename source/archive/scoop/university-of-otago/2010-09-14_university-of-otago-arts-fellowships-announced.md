@@ -1,9 +1,12 @@
 ---
 slug: university-of-otago-arts-fellowships-announced
-title: "University of Otago Arts Fellowships announced"
-date: 2010-09-14
-source-url: https://www.scoop.co.nz/stories/ED1009/S00068/university-of-otago-arts-fellowships-announced.htm
+title: University of Otago Arts Fellowships announced
+date: 2010-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1009/S00068/university-of-otago-arts-fellowships-announced.htm
 author: university-of-otago
+permalink: /archive/2010/09/14/university-of-otago-arts-fellowships-announced/index.html
+layout: layout.njk
 ---
 University of Otago Arts Fellowships announced
 ==============================================

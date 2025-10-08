@@ -1,9 +1,12 @@
 ---
 slug: get-students-thinking-for-you-this-summer
-title: "Get students thinking for you this summer"
-date: 2014-07-08
-source-url: https://www.scoop.co.nz/stories/ED1407/S00050/get-students-thinking-for-you-this-summer.htm
+title: Get students thinking for you this summer
+date: 2014-07-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1407/S00050/get-students-thinking-for-you-this-summer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2014/07/08/get-students-thinking-for-you-this-summer/index.html
+layout: layout.njk
 ---
 Get students thinking for you this summer
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: uc-shows-business-strength-with-two-teams-in-big-break-final
-title: "UC shows business strength with two teams in Big Break final"
-date: 2012-08-29
-source-url: https://www.scoop.co.nz/stories/BU1208/S01076/uc-shows-business-strength-with-two-teams-in-big-break-final.htm
+title: UC shows business strength with two teams in Big Break final
+date: 2012-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1208/S01076/uc-shows-business-strength-with-two-teams-in-big-break-final.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/29/uc-shows-business-strength-with-two-teams-in-big-break-final/index.html
+layout: layout.njk
 ---
 UC shows business strength with two teams in Big Break final
 ============================================================

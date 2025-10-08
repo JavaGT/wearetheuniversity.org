@@ -1,9 +1,12 @@
 ---
 slug: helen-clark-address-to-contractors-fedtn-4-aug
-title: "Helen Clark address to Contractors' Fedtn - 4 Aug"
-date: 1999-08-04
-source-url: https://www.scoop.co.nz/stories/PA9908/S00056/helen-clark-address-to-contractors-fedtn-4-aug.htm
+title: Helen Clark address to Contractors' Fedtn - 4 Aug
+date: 1999-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00056/helen-clark-address-to-contractors-fedtn-4-aug.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/04/helen-clark-address-to-contractors-fedtn-4-aug/index.html
+layout: layout.njk
 ---
 Helen Clark address to Contractors' Fedtn - 4 Aug
 =================================================

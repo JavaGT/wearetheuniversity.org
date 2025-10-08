@@ -1,9 +1,13 @@
 ---
 slug: study-finds-babies-are-relatively-safe-in-wahakura
-title: "Study finds babies are relatively safe in Wahakura"
-date: 2017-01-09
-source-url: https://www.scoop.co.nz/stories/SC1701/S00009/study-finds-babies-are-relatively-safe-in-wahakura.htm
+title: Study finds babies are relatively safe in Wahakura
+date: 2017-01-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1701/S00009/study-finds-babies-are-relatively-safe-in-wahakura.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/01/09/study-finds-babies-are-relatively-safe-in-wahakura/index.html
+layout: layout.njk
 ---
 Study finds babies are relatively safe in Wahakura
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: north-shore-youth-mp-says-no-to-decriminalisation
-title: "North Shore Youth MP Says No To Decriminalisation"
-date: 2000-08-31
-source-url: https://www.scoop.co.nz/stories/PA0008/S00599/north-shore-youth-mp-says-no-to-decriminalisation.htm
+title: North Shore Youth MP Says No To Decriminalisation
+date: 2000-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0008/S00599/north-shore-youth-mp-says-no-to-decriminalisation.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2000/08/31/north-shore-youth-mp-says-no-to-decriminalisation/index.html
+layout: layout.njk
 ---
 North Shore Youth MP Says No To Decriminalisation
 =================================================

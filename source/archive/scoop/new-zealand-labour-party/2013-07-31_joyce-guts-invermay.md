@@ -1,9 +1,11 @@
 ---
 slug: joyce-guts-invermay
-title: "Joyce guts Invermay"
-date: 2013-07-31
+title: Joyce guts Invermay
+date: 2013-07-31T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1307/S00474/joyce-guts-invermay.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/31/joyce-guts-invermay/index.html
+layout: layout.njk
 ---
 Joyce guts Invermay
 ===================

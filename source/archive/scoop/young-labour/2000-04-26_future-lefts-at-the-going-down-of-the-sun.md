@@ -1,9 +1,12 @@
 ---
 slug: future-lefts-`at-the-going-down-of-the-sun
-title: "Future Lefts - `At the going down of the sun...'"
-date: 2000-04-26
-source-url: https://www.scoop.co.nz/stories/PO0004/S00096/future-lefts-at-the-going-down-of-the-sun.htm
+title: Future Lefts - `At the going down of the sun...'
+date: 2000-04-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0004/S00096/future-lefts-at-the-going-down-of-the-sun.htm
 author: young-labour
+permalink: /archive/2000/04/26/future-lefts-/index.html
+layout: layout.njk
 ---
 Future Lefts - \`At the going down of the sun...'
 =================================================

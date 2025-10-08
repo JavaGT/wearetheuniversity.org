@@ -1,9 +1,12 @@
 ---
 slug: another-overseas-killer-here-why-asks-peters
-title: "Another Overseas Killer Here – Why? Asks Peters"
-date: 2002-10-22
-source-url: https://www.scoop.co.nz/stories/PA0210/S00457/another-overseas-killer-here-why-asks-peters.htm
+title: Another Overseas Killer Here – Why? Asks Peters
+date: 2002-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0210/S00457/another-overseas-killer-here-why-asks-peters.htm
 author: new-zealand-first-party
+permalink: /archive/2002/10/22/another-overseas-killer-here-why-asks-peters/index.html
+layout: layout.njk
 ---
 Another Overseas Killer Here – Why? Asks Peters
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: q+a-espiner-interviews-green-leader-metiria-turei
-title: "Q+A: Espiner interviews Green Leader Metiria Turei"
-date: 2009-10-05
-source-url: https://www.scoop.co.nz/stories/PO0910/S00058/qa-espiner-interviews-green-leader-metiria-turei.htm
+title: 'Q+A: Espiner interviews Green Leader Metiria Turei'
+date: 2009-10-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0910/S00058/qa-espiner-interviews-green-leader-metiria-turei.htm
 author: green-party
+permalink: /archive/2009/10/05/q/index.html
+layout: layout.njk
 ---
 Q+A: Espiner interviews Green Leader Metiria Turei
 ==================================================

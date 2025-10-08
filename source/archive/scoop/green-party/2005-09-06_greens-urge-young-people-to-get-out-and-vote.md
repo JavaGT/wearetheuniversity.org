@@ -1,9 +1,12 @@
 ---
 slug: greens-urge-young-people-to-get-out-and-vote
-title: "Greens urge young people to get out and vote"
-date: 2005-09-06
-source-url: https://www.scoop.co.nz/stories/PA0509/S00157/greens-urge-young-people-to-get-out-and-vote.htm
+title: Greens urge young people to get out and vote
+date: 2005-09-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00157/greens-urge-young-people-to-get-out-and-vote.htm
 author: green-party
+permalink: /archive/2005/09/06/greens-urge-young-people-to-get-out-and-vote/index.html
+layout: layout.njk
 ---
 Greens urge young people to get out and vote
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: housing-nz-to-look-after-people-not-profits
-title: "Housing NZ to look after people, not profits"
-date: 2016-07-10
-source-url: https://www.scoop.co.nz/stories/PA1607/S00161/housing-nz-to-look-after-people-not-profits.htm
+title: Housing NZ to look after people, not profits
+date: 2016-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1607/S00161/housing-nz-to-look-after-people-not-profits.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/07/10/housing-nz-to-look-after-people-not-profits/index.html
+layout: layout.njk
 ---
 Housing NZ to look after people, not profits
 ============================================

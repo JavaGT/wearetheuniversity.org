@@ -1,9 +1,13 @@
 ---
 slug: university-signs-un-commitment-to-sustainable-practices
-title: "University signs UN commitment to sustainable practices"
-date: 2012-07-02
-source-url: https://www.scoop.co.nz/stories/ED1207/S00005/university-signs-un-commitment-to-sustainable-practices.htm
+title: University signs UN commitment to sustainable practices
+date: 2012-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1207/S00005/university-signs-un-commitment-to-sustainable-practices.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2012/07/02/university-signs-un-commitment-to-sustainable-practices/index.html
+layout: layout.njk
 ---
 University signs UN commitment to sustainable practices
 =======================================================

@@ -1,9 +1,12 @@
 ---
 slug: wellington-campus-to-host-mayoral-debate
-title: "Wellington campus to host mayoral debate"
-date: 2013-09-04
-source-url: https://www.scoop.co.nz/stories/AK1309/S00096/wellington-campus-to-host-mayoral-debate.htm
+title: Wellington campus to host mayoral debate
+date: 2013-09-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1309/S00096/wellington-campus-to-host-mayoral-debate.htm
 author: massey-university
+permalink: /archive/2013/09/04/wellington-campus-to-host-mayoral-debate/index.html
+layout: layout.njk
 ---
 Wellington campus to host mayoral debate
 ========================================

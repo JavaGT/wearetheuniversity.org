@@ -1,9 +1,13 @@
 ---
 slug: aut-only-nz-team-competing-in-australian-university-games
-title: "AUT only NZ team competing in Australian University Games"
-date: 2013-07-09
-source-url: https://www.scoop.co.nz/stories/ED1307/S00040/aut-only-nz-team-competing-in-australian-university-games.htm
+title: AUT only NZ team competing in Australian University Games
+date: 2013-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00040/aut-only-nz-team-competing-in-australian-university-games.htm
 author: aut-university
+permalink: >-
+  /archive/2013/07/09/aut-only-nz-team-competing-in-australian-university-games/index.html
+layout: layout.njk
 ---
 AUT only NZ team competing in Australian University Games
 =========================================================

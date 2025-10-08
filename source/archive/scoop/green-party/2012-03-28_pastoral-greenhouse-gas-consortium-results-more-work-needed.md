@@ -1,9 +1,13 @@
 ---
 slug: pastoral-greenhouse-gas-consortium-results-more-work-needed
-title: "Pastoral Greenhouse Gas Consortium results: more work needed"
-date: 2012-03-28
-source-url: https://www.scoop.co.nz/stories/PA1203/S00371/pastoral-greenhouse-gas-consortium-results-more-work-needed.htm
+title: 'Pastoral Greenhouse Gas Consortium results: more work needed'
+date: 2012-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1203/S00371/pastoral-greenhouse-gas-consortium-results-more-work-needed.htm
 author: green-party
+permalink: >-
+  /archive/2012/03/28/pastoral-greenhouse-gas-consortium-results-more-work-needed/index.html
+layout: layout.njk
 ---
 Pastoral Greenhouse Gas Consortium results: more work needed
 ============================================================

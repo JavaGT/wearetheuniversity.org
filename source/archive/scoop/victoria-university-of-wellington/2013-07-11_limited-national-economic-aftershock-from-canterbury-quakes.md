@@ -1,9 +1,13 @@
 ---
 slug: limited-national-economic-aftershock-from-canterbury-quakes
-title: "Limited national economic aftershock from Canterbury quakes"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/BU1307/S00433/limited-national-economic-aftershock-from-canterbury-quakes.htm
+title: Limited national economic aftershock from Canterbury quakes
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1307/S00433/limited-national-economic-aftershock-from-canterbury-quakes.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2013/07/11/limited-national-economic-aftershock-from-canterbury-quakes/index.html
+layout: layout.njk
 ---
 Limited national economic aftershock from Canterbury quakes
 ===========================================================

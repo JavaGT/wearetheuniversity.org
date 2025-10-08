@@ -1,9 +1,12 @@
 ---
 slug: ncea-time-for-maharey-to-get-serious
-title: "NCEA: Time for Maharey to get serious"
-date: 2006-07-17
-source-url: https://www.scoop.co.nz/stories/PA0607/S00242/ncea-time-for-maharey-to-get-serious.htm
+title: 'NCEA: Time for Maharey to get serious'
+date: 2006-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0607/S00242/ncea-time-for-maharey-to-get-serious.htm
 author: new-zealand-national-party
+permalink: /archive/2006/07/17/ncea-time-for-maharey-to-get-serious/index.html
+layout: layout.njk
 ---
 NCEA: Time for Maharey to get serious
 =====================================

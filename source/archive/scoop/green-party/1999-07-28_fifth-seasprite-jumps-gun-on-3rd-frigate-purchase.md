@@ -1,9 +1,13 @@
 ---
 slug: fifth-seasprite-jumps-gun-on-3rd-frigate-purchase
-title: "Fifth Seasprite Jumps Gun On 3rd Frigate Purchase"
-date: 1999-07-28
-source-url: https://www.scoop.co.nz/stories/PA9907/S00532/fifth-seasprite-jumps-gun-on-3rd-frigate-purchase.htm
+title: Fifth Seasprite Jumps Gun On 3rd Frigate Purchase
+date: 1999-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9907/S00532/fifth-seasprite-jumps-gun-on-3rd-frigate-purchase.htm
 author: green-party
+permalink: >-
+  /archive/1999/07/28/fifth-seasprite-jumps-gun-on-3rd-frigate-purchase/index.html
+layout: layout.njk
 ---
 Fifth Seasprite Jumps Gun On 3rd Frigate Purchase
 =================================================

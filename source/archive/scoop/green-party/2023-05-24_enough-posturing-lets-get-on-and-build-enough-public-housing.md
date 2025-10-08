@@ -1,9 +1,13 @@
 ---
 slug: enough-posturing-lets-get-on-and-build-enough-public-housing
-title: "Enough Posturing, Let’s Get On And Build Enough Public Housing"
-date: 2023-05-24
-source-url: https://www.scoop.co.nz/stories/PA2305/S00181/enough-posturing-lets-get-on-and-build-enough-public-housing.htm
+title: Enough Posturing, Let’s Get On And Build Enough Public Housing
+date: 2023-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2305/S00181/enough-posturing-lets-get-on-and-build-enough-public-housing.htm
 author: green-party
+permalink: >-
+  /archive/2023/05/24/enough-posturing-lets-get-on-and-build-enough-public-housing/index.html
+layout: layout.njk
 ---
 Enough Posturing, Let’s Get On And Build Enough Public Housing
 ==============================================================

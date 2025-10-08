@@ -1,9 +1,12 @@
 ---
 slug: poroporoaki-tomairangi-te-kiritokia-paki
-title: "Poroporoaki: Tomairangi te Kiritokia Paki"
-date: 2017-04-06
-source-url: https://www.scoop.co.nz/stories/PA1704/S00060/poroporoaki-tomairangi-te-kiritokia-paki.htm
+title: 'Poroporoaki: Tomairangi te Kiritokia Paki'
+date: 2017-04-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1704/S00060/poroporoaki-tomairangi-te-kiritokia-paki.htm
 author: te-pati-maori
+permalink: /archive/2017/04/06/poroporoaki-tomairangi-te-kiritokia-paki/index.html
+layout: layout.njk
 ---
 Poroporoaki: Tomairangi te Kiritokia Paki
 =========================================

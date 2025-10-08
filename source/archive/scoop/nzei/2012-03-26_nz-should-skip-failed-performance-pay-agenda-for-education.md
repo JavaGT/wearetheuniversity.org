@@ -1,9 +1,13 @@
 ---
 slug: nz-should-skip-failed-performance-pay-agenda-for-education
-title: "NZ should skip failed performance pay agenda for education"
-date: 2012-03-26
-source-url: https://www.scoop.co.nz/stories/ED1203/S00122/nz-should-skip-failed-performance-pay-agenda-for-education.htm
+title: NZ should skip failed performance pay agenda for education
+date: 2012-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1203/S00122/nz-should-skip-failed-performance-pay-agenda-for-education.htm
 author: nzei
+permalink: >-
+  /archive/2012/03/26/nz-should-skip-failed-performance-pay-agenda-for-education/index.html
+layout: layout.njk
 ---
 NZ should skip failed performance pay agenda for education
 ==========================================================

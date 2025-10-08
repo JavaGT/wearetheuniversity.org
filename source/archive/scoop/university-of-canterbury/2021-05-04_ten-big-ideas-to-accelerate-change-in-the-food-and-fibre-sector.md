@@ -1,9 +1,13 @@
 ---
 slug: ten-big-ideas-to-accelerate-change-in-the-food-and-fibre-sector
-title: "Ten Big Ideas To Accelerate Change In The Food And Fibre Sector"
-date: 2021-05-04
-source-url: https://www.scoop.co.nz/stories/ED2105/S00002/ten-big-ideas-to-accelerate-change-in-the-food-and-fibre-sector.htm
+title: Ten Big Ideas To Accelerate Change In The Food And Fibre Sector
+date: 2021-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2105/S00002/ten-big-ideas-to-accelerate-change-in-the-food-and-fibre-sector.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2021/05/04/ten-big-ideas-to-accelerate-change-in-the-food-and-fibre-sector/index.html
+layout: layout.njk
 ---
 Ten Big Ideas To Accelerate Change In The Food And Fibre Sector
 ===============================================================

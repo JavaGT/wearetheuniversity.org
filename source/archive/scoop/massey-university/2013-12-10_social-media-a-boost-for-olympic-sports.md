@@ -1,9 +1,12 @@
 ---
 slug: social-media-a-boost-for-olympic-sports
-title: "Social media a boost for Olympic sports"
-date: 2013-12-10
-source-url: https://www.scoop.co.nz/stories/CU1312/S00185/social-media-a-boost-for-olympic-sports.htm
+title: Social media a boost for Olympic sports
+date: 2013-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1312/S00185/social-media-a-boost-for-olympic-sports.htm
 author: massey-university
+permalink: /archive/2013/12/10/social-media-a-boost-for-olympic-sports/index.html
+layout: layout.njk
 ---
 Social media a boost for Olympic sports
 =======================================

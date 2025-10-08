@@ -1,9 +1,11 @@
 ---
 slug: mallard-must-go
-title: "Mallard Must Go"
-date: 2003-04-11
+title: Mallard Must Go
+date: 2003-04-11T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0304/S00240/mallard-must-go.htm
 author: new-zealand-first-party
+permalink: /archive/2003/04/11/mallard-must-go/index.html
+layout: layout.njk
 ---
 Mallard Must Go
 ===============

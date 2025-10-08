@@ -1,9 +1,12 @@
 ---
 slug: winning-paper-is-food-for-thought
-title: "Winning paper is food for thought"
-date: 2009-06-03
-source-url: https://www.scoop.co.nz/stories/BU0906/S00044/winning-paper-is-food-for-thought.htm
+title: Winning paper is food for thought
+date: 2009-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0906/S00044/winning-paper-is-food-for-thought.htm
 author: massey-university
+permalink: /archive/2009/06/03/winning-paper-is-food-for-thought/index.html
+layout: layout.njk
 ---
 Winning paper is food for thought
 =================================

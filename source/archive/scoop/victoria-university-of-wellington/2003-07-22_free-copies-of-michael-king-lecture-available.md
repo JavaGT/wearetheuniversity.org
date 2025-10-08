@@ -1,9 +1,12 @@
 ---
 slug: free-copies-of-michael-king-lecture-available
-title: "Free Copies Of Michael King Lecture Available"
-date: 2003-07-22
-source-url: https://www.scoop.co.nz/stories/ED0307/S00057/free-copies-of-michael-king-lecture-available.htm
+title: Free Copies Of Michael King Lecture Available
+date: 2003-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0307/S00057/free-copies-of-michael-king-lecture-available.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/07/22/free-copies-of-michael-king-lecture-available/index.html
+layout: layout.njk
 ---
 Free Copies Of Michael King Lecture Available
 =============================================

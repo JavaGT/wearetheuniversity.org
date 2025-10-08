@@ -1,9 +1,12 @@
 ---
 slug: get-out-and-vote-campaign-a-success
-title: "Get Out and Vote campaign a success"
-date: 2014-09-18
-source-url: https://www.scoop.co.nz/stories/PO1409/S00425/get-out-and-vote-campaign-a-success.htm
+title: Get Out and Vote campaign a success
+date: 2014-09-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00425/get-out-and-vote-campaign-a-success.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2014/09/18/get-out-and-vote-campaign-a-success/index.html
+layout: layout.njk
 ---
 Get Out and Vote campaign a success
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: act-mp-admits-inherent-problems-in-vsm
-title: "ACT MP Admits Inherent Problems in VSM"
-date: 2000-10-11
-source-url: https://www.scoop.co.nz/stories/ED0010/S00012/act-mp-admits-inherent-problems-in-vsm.htm
+title: ACT MP Admits Inherent Problems in VSM
+date: 2000-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0010/S00012/act-mp-admits-inherent-problems-in-vsm.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2000/10/11/act-mp-admits-inherent-problems-in-vsm/index.html
+layout: layout.njk
 ---
 ACT MP Admits Inherent Problems in VSM
 ======================================

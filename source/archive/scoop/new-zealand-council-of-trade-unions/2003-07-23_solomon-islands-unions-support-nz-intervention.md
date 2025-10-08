@@ -1,9 +1,12 @@
 ---
 slug: solomon-islands-unions-support-nz-intervention
-title: "Solomon Islands Unions Support  NZ Intervention"
-date: 2003-07-23
-source-url: https://www.scoop.co.nz/stories/PO0307/S00119/solomon-islands-unions-support-nz-intervention.htm
+title: Solomon Islands Unions Support  NZ Intervention
+date: 2003-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0307/S00119/solomon-islands-unions-support-nz-intervention.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2003/07/23/solomon-islands-unions-support-nz-intervention/index.html
+layout: layout.njk
 ---
 Solomon Islands Unions Support NZ Intervention
 ==============================================

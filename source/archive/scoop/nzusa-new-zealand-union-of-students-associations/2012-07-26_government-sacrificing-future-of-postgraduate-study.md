@@ -1,9 +1,13 @@
 ---
 slug: government-sacrificing-future-of-postgraduate-study
-title: "Government sacrificing future of postgraduate study"
-date: 2012-07-26
-source-url: https://www.scoop.co.nz/stories/PO1207/S00343/government-sacrificing-future-of-postgraduate-study.htm
+title: Government sacrificing future of postgraduate study
+date: 2012-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1207/S00343/government-sacrificing-future-of-postgraduate-study.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2012/07/26/government-sacrificing-future-of-postgraduate-study/index.html
+layout: layout.njk
 ---
 Government sacrificing future of postgraduate study
 ===================================================

@@ -1,11 +1,13 @@
 ---
-title: "NZ Association of Scientists Announces New President and Agenda"
+title: NZ Association of Scientists Announces New President and Agenda
 slug: new-nzas-president
-date: 2019-11-20
+date: 2019-11-20T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2019/11/20/new-nzas-president/index.html
+layout: layout.njk
 ---
 
 20-Nov-2019

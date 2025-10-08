@@ -1,9 +1,12 @@
 ---
 slug: government-must-act-on-accident-gridlocks
-title: "Government must act on accident gridlocks"
-date: 2004-07-13
-source-url: https://www.scoop.co.nz/stories/PA0407/S00218/government-must-act-on-accident-gridlocks.htm
+title: Government must act on accident gridlocks
+date: 2004-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0407/S00218/government-must-act-on-accident-gridlocks.htm
 author: new-zealand-national-party
+permalink: /archive/2004/07/13/government-must-act-on-accident-gridlocks/index.html
+layout: layout.njk
 ---
 Government must act on accident gridlocks
 =========================================

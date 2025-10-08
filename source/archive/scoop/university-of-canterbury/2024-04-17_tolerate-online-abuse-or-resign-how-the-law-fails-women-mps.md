@@ -1,9 +1,13 @@
 ---
 slug: tolerate-online-abuse-or-resign-how-the-law-fails-women-mps
-title: "Tolerate Online Abuse Or Resign: How The Law Fails Women MPs"
-date: 2024-04-17
-source-url: https://www.scoop.co.nz/stories/PO2404/S00102/tolerate-online-abuse-or-resign-how-the-law-fails-women-mps.htm
+title: 'Tolerate Online Abuse Or Resign: How The Law Fails Women MPs'
+date: 2024-04-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2404/S00102/tolerate-online-abuse-or-resign-how-the-law-fails-women-mps.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/04/17/tolerate-online-abuse-or-resign-how-the-law-fails-women-mps/index.html
+layout: layout.njk
 ---
 Tolerate Online Abuse Or Resign: How The Law Fails Women MPs
 ============================================================

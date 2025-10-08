@@ -1,9 +1,12 @@
 ---
 slug: helen-clarks-government-head-for-the-bunker
-title: "Helen Clark's government head for the bunker"
-date: 2005-12-22
-source-url: https://www.scoop.co.nz/stories/HL0512/S00232/helen-clarks-government-head-for-the-bunker.htm
+title: Helen Clark's government head for the bunker
+date: 2005-12-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/HL0512/S00232/helen-clarks-government-head-for-the-bunker.htm
 author: new-zealand-national-party
+permalink: /archive/2005/12/22/helen-clarks-government-head-for-the-bunker/index.html
+layout: layout.njk
 ---
 Helen Clark's government head for the bunker
 ============================================

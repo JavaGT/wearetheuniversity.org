@@ -1,9 +1,11 @@
 ---
 slug: dr-shane-reti-maiden-speech
-title: "Dr Shane Reti – maiden speech"
-date: 2014-10-30
+title: Dr Shane Reti – maiden speech
+date: 2014-10-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1410/S00231/dr-shane-reti-maiden-speech.htm
 author: new-zealand-national-party
+permalink: /archive/2014/10/30/dr-shane-reti-maiden-speech/index.html
+layout: layout.njk
 ---
 Dr Shane Reti – maiden speech
 =============================

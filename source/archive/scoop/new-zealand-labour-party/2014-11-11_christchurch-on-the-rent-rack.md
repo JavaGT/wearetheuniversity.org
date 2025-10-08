@@ -1,9 +1,12 @@
 ---
 slug: christchurch-on-the-rent-rack
-title: "Christchurch on the rent rack"
-date: 2014-11-11
-source-url: https://www.scoop.co.nz/stories/PA1411/S00140/christchurch-on-the-rent-rack.htm
+title: Christchurch on the rent rack
+date: 2014-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1411/S00140/christchurch-on-the-rent-rack.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/11/11/christchurch-on-the-rent-rack/index.html
+layout: layout.njk
 ---
 Christchurch on the rent rack
 =============================

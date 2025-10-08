@@ -1,9 +1,13 @@
 ---
 slug: teacher-fellows-symposium-at-victoria-university
-title: "Teacher Fellows Symposium at Victoria University"
-date: 2006-12-11
-source-url: https://www.scoop.co.nz/stories/ED0612/S00027/teacher-fellows-symposium-at-victoria-university.htm
+title: Teacher Fellows Symposium at Victoria University
+date: 2006-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0612/S00027/teacher-fellows-symposium-at-victoria-university.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2006/12/11/teacher-fellows-symposium-at-victoria-university/index.html
+layout: layout.njk
 ---
 Teacher Fellows Symposium at Victoria University
 ================================================

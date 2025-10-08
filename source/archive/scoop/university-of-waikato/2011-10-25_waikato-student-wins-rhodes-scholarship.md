@@ -1,9 +1,12 @@
 ---
 slug: waikato-student-wins-rhodes-scholarship
-title: "Waikato student wins Rhodes Scholarship"
-date: 2011-10-25
-source-url: https://www.scoop.co.nz/stories/ED1110/S00104/waikato-student-wins-rhodes-scholarship.htm
+title: Waikato student wins Rhodes Scholarship
+date: 2011-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1110/S00104/waikato-student-wins-rhodes-scholarship.htm
 author: university-of-waikato
+permalink: /archive/2011/10/25/waikato-student-wins-rhodes-scholarship/index.html
+layout: layout.njk
 ---
 Waikato student wins Rhodes Scholarship
 =======================================

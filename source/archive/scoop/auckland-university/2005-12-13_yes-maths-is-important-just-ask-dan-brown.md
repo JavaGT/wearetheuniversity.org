@@ -1,9 +1,12 @@
 ---
 slug: yes-maths-is-important-just-ask-dan-brown
-title: "Yes maths is important – just ask Dan Brown"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/ED0512/S00056/yes-maths-is-important-just-ask-dan-brown.htm
+title: Yes maths is important – just ask Dan Brown
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00056/yes-maths-is-important-just-ask-dan-brown.htm
 author: auckland-university
+permalink: /archive/2005/12/13/yes-maths-is-important-just-ask-dan-brown/index.html
+layout: layout.njk
 ---
 Yes maths is important – just ask Dan Brown
 ===========================================

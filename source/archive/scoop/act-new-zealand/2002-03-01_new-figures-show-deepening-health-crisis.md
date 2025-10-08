@@ -1,9 +1,12 @@
 ---
 slug: new-figures-show-deepening-health-crisis
-title: "New Figures Show Deepening Health Crisis"
-date: 2002-03-01
-source-url: https://www.scoop.co.nz/stories/PA0203/S00020/new-figures-show-deepening-health-crisis.htm
+title: New Figures Show Deepening Health Crisis
+date: 2002-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0203/S00020/new-figures-show-deepening-health-crisis.htm
 author: act-new-zealand
+permalink: /archive/2002/03/01/new-figures-show-deepening-health-crisis/index.html
+layout: layout.njk
 ---
 New Figures Show Deepening Health Crisis
 ========================================

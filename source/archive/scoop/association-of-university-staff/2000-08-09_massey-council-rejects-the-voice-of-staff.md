@@ -1,9 +1,12 @@
 ---
 slug: massey-council-rejects-the-voice-of-staff
-title: "Massey Council rejects the voice of staff"
-date: 2000-08-09
-source-url: https://www.scoop.co.nz/stories/ED0008/S00021/massey-council-rejects-the-voice-of-staff.htm
+title: Massey Council rejects the voice of staff
+date: 2000-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0008/S00021/massey-council-rejects-the-voice-of-staff.htm
 author: association-of-university-staff
+permalink: /archive/2000/08/09/massey-council-rejects-the-voice-of-staff/index.html
+layout: layout.njk
 ---
 Massey Council rejects the voice of staff
 =========================================

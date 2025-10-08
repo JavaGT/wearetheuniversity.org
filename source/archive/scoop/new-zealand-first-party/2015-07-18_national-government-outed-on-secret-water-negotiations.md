@@ -1,9 +1,13 @@
 ---
 slug: national-government-outed-on-secret-water-negotiations
-title: "National Government Outed on Secret Water Negotiations"
-date: 2015-07-18
-source-url: https://www.scoop.co.nz/stories/PA1507/S00293/national-government-outed-on-secret-water-negotiations.htm
+title: National Government Outed on Secret Water Negotiations
+date: 2015-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00293/national-government-outed-on-secret-water-negotiations.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/07/18/national-government-outed-on-secret-water-negotiations/index.html
+layout: layout.njk
 ---
 National Government Outed on Secret Water Negotiations
 ======================================================

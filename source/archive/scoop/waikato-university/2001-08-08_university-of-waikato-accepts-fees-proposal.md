@@ -1,9 +1,12 @@
 ---
 slug: university-of-waikato-accepts-fees-proposal
-title: "University Of Waikato Accepts Fees Proposal"
-date: 2001-08-08
-source-url: https://www.scoop.co.nz/stories/ED0108/S00034/university-of-waikato-accepts-fees-proposal.htm
+title: University Of Waikato Accepts Fees Proposal
+date: 2001-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0108/S00034/university-of-waikato-accepts-fees-proposal.htm
 author: waikato-university
+permalink: /archive/2001/08/08/university-of-waikato-accepts-fees-proposal/index.html
+layout: layout.njk
 ---
 University Of Waikato Accepts Fees Proposal
 ===========================================

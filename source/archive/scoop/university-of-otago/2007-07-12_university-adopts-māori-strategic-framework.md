@@ -1,9 +1,12 @@
 ---
 slug: university-adopts-māori-strategic-framework
-title: "University adopts Māori Strategic Framework"
-date: 2007-07-12
-source-url: https://www.scoop.co.nz/stories/ED0707/S00045/university-adopts-maori-strategic-framework.htm
+title: University adopts Māori Strategic Framework
+date: 2007-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0707/S00045/university-adopts-maori-strategic-framework.htm
 author: university-of-otago
+permalink: /archive/2007/07/12/university-adopts-m/index.html
+layout: layout.njk
 ---
 University adopts Māori Strategic Framework
 ===========================================

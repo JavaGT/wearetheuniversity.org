@@ -1,9 +1,11 @@
 ---
 slug: walkers-overstep-the-mark
-title: "Walkers overstep the mark"
-date: 2007-04-12
+title: Walkers overstep the mark
+date: 2007-04-12T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0704/S00036/walkers-overstep-the-mark.htm
 author: massey-university
+permalink: /archive/2007/04/12/walkers-overstep-the-mark/index.html
+layout: layout.njk
 ---
 Walkers overstep the mark
 =========================

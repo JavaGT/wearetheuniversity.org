@@ -1,9 +1,13 @@
 ---
 slug: environmental-stewardship-trumps-big-returns-research-shows
-title: "Environmental stewardship trumps big returns, research shows"
-date: 2014-09-16
-source-url: https://www.scoop.co.nz/stories/BU1409/S00546/environmental-stewardship-trumps-big-returns-research-shows.htm
+title: Environmental stewardship trumps big returns, research shows
+date: 2014-09-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1409/S00546/environmental-stewardship-trumps-big-returns-research-shows.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/09/16/environmental-stewardship-trumps-big-returns-research-shows/index.html
+layout: layout.njk
 ---
 Environmental stewardship trumps big returns, research shows
 ============================================================

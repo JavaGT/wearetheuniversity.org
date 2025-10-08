@@ -1,9 +1,12 @@
 ---
 slug: clark-forces-her-music-on-aussies-at-anzac-day
-title: "Clark Forces Her Music On Aussies At ANZAC Day"
-date: 2005-02-17
-source-url: https://www.scoop.co.nz/stories/PA0502/S00398/clark-forces-her-music-on-aussies-at-anzac-day.htm
+title: Clark Forces Her Music On Aussies At ANZAC Day
+date: 2005-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0502/S00398/clark-forces-her-music-on-aussies-at-anzac-day.htm
 author: act-new-zealand
+permalink: /archive/2005/02/17/clark-forces-her-music-on-aussies-at-anzac-day/index.html
+layout: layout.njk
 ---
 Clark Forces Her Music On Aussies At ANZAC Day
 ==============================================

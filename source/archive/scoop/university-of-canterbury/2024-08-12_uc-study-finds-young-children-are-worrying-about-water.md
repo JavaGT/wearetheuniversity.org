@@ -1,9 +1,13 @@
 ---
 slug: uc-study-finds-young-children-are-worrying-about-water
-title: "UC Study Finds Young Children Are Worrying About Water"
-date: 2024-08-12
-source-url: https://www.scoop.co.nz/stories/ED2408/S00023/uc-study-finds-young-children-are-worrying-about-water.htm
+title: UC Study Finds Young Children Are Worrying About Water
+date: 2024-08-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2408/S00023/uc-study-finds-young-children-are-worrying-about-water.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2024/08/12/uc-study-finds-young-children-are-worrying-about-water/index.html
+layout: layout.njk
 ---
 UC Study Finds Young Children Are Worrying About Water
 ======================================================

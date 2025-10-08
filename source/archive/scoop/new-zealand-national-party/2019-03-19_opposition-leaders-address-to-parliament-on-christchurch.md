@@ -1,9 +1,13 @@
 ---
 slug: opposition-leaders-address-to-parliament-on-christchurch
-title: "Opposition Leader’s Address to Parliament on Christchurch"
-date: 2019-03-19
-source-url: https://www.scoop.co.nz/stories/PA1903/S00134/opposition-leaders-address-to-parliament-on-christchurch.htm
+title: Opposition Leader’s Address to Parliament on Christchurch
+date: 2019-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1903/S00134/opposition-leaders-address-to-parliament-on-christchurch.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2019/03/19/opposition-leaders-address-to-parliament-on-christchurch/index.html
+layout: layout.njk
 ---
 Opposition Leader’s Address to Parliament on Christchurch
 =========================================================

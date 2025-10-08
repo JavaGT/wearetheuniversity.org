@@ -1,9 +1,12 @@
 ---
 slug: vup-releases-free-e-book-to-entertain-readers
-title: "VUP Releases Free E-book To Entertain Readers"
-date: 2020-04-08
-source-url: https://www.scoop.co.nz/stories/CU2004/S00042/vup-releases-free-e-book-to-entertain-readers.htm
+title: VUP Releases Free E-book To Entertain Readers
+date: 2020-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU2004/S00042/vup-releases-free-e-book-to-entertain-readers.htm
 author: victoria-university-press
+permalink: /archive/2020/04/08/vup-releases-free-e-book-to-entertain-readers/index.html
+layout: layout.njk
 ---
 VUP Releases Free E-book To Entertain Readers
 =============================================

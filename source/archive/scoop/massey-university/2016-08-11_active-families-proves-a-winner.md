@@ -1,9 +1,12 @@
 ---
 slug: active-families-proves-a-winner
-title: "Active Families proves a winner"
-date: 2016-08-11
-source-url: https://www.scoop.co.nz/stories/AK1608/S00366/active-families-proves-a-winner.htm
+title: Active Families proves a winner
+date: 2016-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1608/S00366/active-families-proves-a-winner.htm
 author: massey-university
+permalink: /archive/2016/08/11/active-families-proves-a-winner/index.html
+layout: layout.njk
 ---
 Active Families proves a winner
 ===============================

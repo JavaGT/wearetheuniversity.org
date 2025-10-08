@@ -1,9 +1,12 @@
 ---
 slug: professor-anthony-tarr-accepts-usps-vc-post
-title: "Professor Anthony Tarr Accepts USP's VC Post"
-date: 2004-12-03
-source-url: https://www.scoop.co.nz/stories/ED0412/S00011/professor-anthony-tarr-accepts-usps-vc-post.htm
+title: Professor Anthony Tarr Accepts USP's VC Post
+date: 2004-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0412/S00011/professor-anthony-tarr-accepts-usps-vc-post.htm
 author: university-of-the-south-pacific
+permalink: /archive/2004/12/03/professor-anthony-tarr-accepts-usps-vc-post/index.html
+layout: layout.njk
 ---
 Professor Anthony Tarr Accepts USP's VC Post
 ============================================

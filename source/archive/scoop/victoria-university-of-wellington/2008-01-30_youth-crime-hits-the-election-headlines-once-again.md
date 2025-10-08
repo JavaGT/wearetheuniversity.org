@@ -1,9 +1,13 @@
 ---
 slug: youth-crime-hits-the-election-headlines-once-again
-title: "Youth crime hits the election headlines once again"
-date: 2008-01-30
-source-url: https://www.scoop.co.nz/stories/ED0801/S00048/youth-crime-hits-the-election-headlines-once-again.htm
+title: Youth crime hits the election headlines once again
+date: 2008-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0801/S00048/youth-crime-hits-the-election-headlines-once-again.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2008/01/30/youth-crime-hits-the-election-headlines-once-again/index.html
+layout: layout.njk
 ---
 Youth crime hits the election headlines once again
 ==================================================

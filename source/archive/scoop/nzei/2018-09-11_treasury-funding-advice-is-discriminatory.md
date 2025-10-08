@@ -1,9 +1,12 @@
 ---
 slug: treasury-funding-advice-is-discriminatory
-title: "Treasury funding advice is discriminatory"
-date: 2018-09-11
-source-url: https://www.scoop.co.nz/stories/ED1809/S00020/treasury-funding-advice-is-discriminatory.htm
+title: Treasury funding advice is discriminatory
+date: 2018-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1809/S00020/treasury-funding-advice-is-discriminatory.htm
 author: nzei
+permalink: /archive/2018/09/11/treasury-funding-advice-is-discriminatory/index.html
+layout: layout.njk
 ---
 Treasury funding advice is discriminatory
 =========================================

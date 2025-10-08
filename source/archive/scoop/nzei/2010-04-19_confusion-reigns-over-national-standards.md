@@ -1,9 +1,12 @@
 ---
 slug: confusion-reigns-over-national-standards
-title: "Confusion Reigns Over National Standards"
-date: 2010-04-19
-source-url: https://www.scoop.co.nz/stories/ED1004/S00044/confusion-reigns-over-national-standards.htm
+title: Confusion Reigns Over National Standards
+date: 2010-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1004/S00044/confusion-reigns-over-national-standards.htm
 author: nzei
+permalink: /archive/2010/04/19/confusion-reigns-over-national-standards/index.html
+layout: layout.njk
 ---
 Confusion Reigns Over National Standards
 ========================================

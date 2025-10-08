@@ -1,8 +1,11 @@
 ---
 slug: finding-mont-ligginss-babies
-title: "Finding Mont Liggins's babies"
-date: 2017-03-14
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/finding-mont-liggins-babies.html
+title: Finding Mont Liggins's babies
+date: 2017-03-14T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/03/finding-mont-liggins-babies.html
+permalink: /archive/2017/03/14/finding-mont-ligginss-babies/index.html
+layout: layout.njk
 ---
 Finding Mont Liggins's babies
 =============================

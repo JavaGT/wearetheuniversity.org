@@ -1,9 +1,11 @@
 ---
 slug: watch-for-bikes-says-mike
-title: "Watch for bikes, says Mike"
-date: 2004-02-25
+title: Watch for bikes, says Mike
+date: 2004-02-25T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0402/S00439/watch-for-bikes-says-mike.htm
 author: green-party
+permalink: /archive/2004/02/25/watch-for-bikes-says-mike/index.html
+layout: layout.njk
 ---
 Watch for bikes, says Mike
 ==========================

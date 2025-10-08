@@ -1,9 +1,12 @@
 ---
-slug: "establishing-faculty-operations"
-date: 2025-05-15
-source: "University of Auckland"
-source-url: https://www.auckland.ac.nz/en/intranet/faculty-group-spaces/arts-education/improvement-transformation/establishing-faculty-operations.html
-title: "Establishing faculty operations"
+slug: establishing-faculty-operations
+date: 2025-05-15T00:00:00.000Z
+source: University of Auckland
+source-url: >-
+  https://www.auckland.ac.nz/en/intranet/faculty-group-spaces/arts-education/improvement-transformation/establishing-faculty-operations.html
+title: Establishing faculty operations
+permalink: /archive/2025/05/15/establishing-faculty-operations/index.html
+layout: layout.njk
 ---
 
 # Establishing faculty operations

@@ -1,9 +1,13 @@
 ---
 slug: business-leaders-trip-to-the-philippines-this-year
-title: "Business leaders’ trip to the Philippines this year"
-date: 2015-01-04
-source-url: https://www.scoop.co.nz/stories/ED1501/S00001/business-leaders-trip-to-the-philippines-this-year.htm
+title: Business leaders’ trip to the Philippines this year
+date: 2015-01-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00001/business-leaders-trip-to-the-philippines-this-year.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/04/business-leaders-trip-to-the-philippines-this-year/index.html
+layout: layout.njk
 ---
 Business leaders’ trip to the Philippines this year
 ===================================================

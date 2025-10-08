@@ -1,9 +1,12 @@
 ---
 slug: no-budget-commitment-to-health-and-safety
-title: "No Budget commitment to health and safety"
-date: 2013-05-17
-source-url: https://www.scoop.co.nz/stories/PA1305/S00370/no-budget-commitment-to-health-and-safety.htm
+title: No Budget commitment to health and safety
+date: 2013-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00370/no-budget-commitment-to-health-and-safety.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/05/17/no-budget-commitment-to-health-and-safety/index.html
+layout: layout.njk
 ---
 No Budget commitment to health and safety
 =========================================

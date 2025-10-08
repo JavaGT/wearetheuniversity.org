@@ -1,9 +1,13 @@
 ---
 slug: youth-ministers-cannabis-talk-unwise-and-untimely
-title: "Youth Minister’s Cannabis Talk Unwise And Untimely"
-date: 2001-01-26
-source-url: https://www.scoop.co.nz/stories/PA0101/S00124/youth-ministers-cannabis-talk-unwise-and-untimely.htm
+title: Youth Minister’s Cannabis Talk Unwise And Untimely
+date: 2001-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00124/youth-ministers-cannabis-talk-unwise-and-untimely.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2001/01/26/youth-ministers-cannabis-talk-unwise-and-untimely/index.html
+layout: layout.njk
 ---
 Youth Minister’s Cannabis Talk Unwise And Untimely
 ==================================================

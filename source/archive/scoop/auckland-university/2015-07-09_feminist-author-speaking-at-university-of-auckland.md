@@ -1,9 +1,13 @@
 ---
 slug: feminist-author-speaking-at-university-of-auckland
-title: "Feminist author speaking at University of Auckland"
-date: 2015-07-09
-source-url: https://www.scoop.co.nz/stories/ED1507/S00057/feminist-author-speaking-at-university-of-auckland.htm
+title: Feminist author speaking at University of Auckland
+date: 2015-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00057/feminist-author-speaking-at-university-of-auckland.htm
 author: auckland-university
+permalink: >-
+  /archive/2015/07/09/feminist-author-speaking-at-university-of-auckland/index.html
+layout: layout.njk
 ---
 Feminist author speaking at University of Auckland
 ==================================================

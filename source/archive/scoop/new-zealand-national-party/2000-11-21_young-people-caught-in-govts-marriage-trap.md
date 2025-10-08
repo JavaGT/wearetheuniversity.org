@@ -1,9 +1,12 @@
 ---
 slug: young-people-caught-in-govts-marriage-trap
-title: "Young people caught in Govt's marriage trap"
-date: 2000-11-21
-source-url: https://www.scoop.co.nz/stories/PA0011/S00370/young-people-caught-in-govts-marriage-trap.htm
+title: Young people caught in Govt's marriage trap
+date: 2000-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0011/S00370/young-people-caught-in-govts-marriage-trap.htm
 author: new-zealand-national-party
+permalink: /archive/2000/11/21/young-people-caught-in-govts-marriage-trap/index.html
+layout: layout.njk
 ---
 Young people caught in Govt's marriage trap
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: health-effect-of-mega-lines-needs-review
-title: "Health effect of mega-lines needs review"
-date: 2005-07-05
-source-url: https://www.scoop.co.nz/stories/PA0507/S00088/health-effect-of-mega-lines-needs-review.htm
+title: Health effect of mega-lines needs review
+date: 2005-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00088/health-effect-of-mega-lines-needs-review.htm
 author: green-party
+permalink: /archive/2005/07/05/health-effect-of-mega-lines-needs-review/index.html
+layout: layout.njk
 ---
 Health effect of mega-lines needs review
 ========================================

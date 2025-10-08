@@ -1,9 +1,13 @@
 ---
 slug: stopping-the-slide-restoring-health-and-education
-title: "Stopping The Slide – Restoring Health And Education"
-date: 2023-08-18
-source-url: https://www.scoop.co.nz/stories/PA2308/S00121/stopping-the-slide-restoring-health-and-education.htm
+title: Stopping The Slide – Restoring Health And Education
+date: 2023-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2308/S00121/stopping-the-slide-restoring-health-and-education.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2023/08/18/stopping-the-slide-restoring-health-and-education/index.html
+layout: layout.njk
 ---
 Stopping The Slide – Restoring Health And Education
 ===================================================

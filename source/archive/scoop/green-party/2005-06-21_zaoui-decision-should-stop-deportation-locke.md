@@ -1,9 +1,12 @@
 ---
 slug: zaoui-decision-should-stop-deportation-locke
-title: "Zaoui decision should stop deportation: Locke"
-date: 2005-06-21
-source-url: https://www.scoop.co.nz/stories/PA0506/S00461/zaoui-decision-should-stop-deportation-locke.htm
+title: 'Zaoui decision should stop deportation: Locke'
+date: 2005-06-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00461/zaoui-decision-should-stop-deportation-locke.htm
 author: green-party
+permalink: /archive/2005/06/21/zaoui-decision-should-stop-deportation-locke/index.html
+layout: layout.njk
 ---
 Zaoui decision should stop deportation: Locke
 =============================================

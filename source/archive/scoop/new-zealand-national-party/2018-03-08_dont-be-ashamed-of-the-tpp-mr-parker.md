@@ -1,9 +1,12 @@
 ---
 slug: dont-be-ashamed-of-the-tpp-mr-parker
-title: "Don’t be ashamed of the TPP Mr Parker"
-date: 2018-03-08
-source-url: https://www.scoop.co.nz/stories/PA1803/S00087/dont-be-ashamed-of-the-tpp-mr-parker.htm
+title: Don’t be ashamed of the TPP Mr Parker
+date: 2018-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00087/dont-be-ashamed-of-the-tpp-mr-parker.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/08/dont-be-ashamed-of-the-tpp-mr-parker/index.html
+layout: layout.njk
 ---
 Don’t be ashamed of the TPP Mr Parker
 =====================================

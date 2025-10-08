@@ -1,9 +1,12 @@
 ---
 slug: lacklustre-budget-for-students
-title: "Lacklustre Budget for Students"
-date: 2008-05-23
-source-url: https://www.scoop.co.nz/stories/ED0805/S00095/lacklustre-budget-for-students.htm
+title: Lacklustre Budget for Students
+date: 2008-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00095/lacklustre-budget-for-students.htm
 author: otago-university-students-association
+permalink: /archive/2008/05/23/lacklustre-budget-for-students/index.html
+layout: layout.njk
 ---
 Lacklustre Budget for Students
 ==============================

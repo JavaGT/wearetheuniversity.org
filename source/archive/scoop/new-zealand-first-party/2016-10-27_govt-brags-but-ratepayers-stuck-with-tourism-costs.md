@@ -1,9 +1,13 @@
 ---
 slug: govt-brags-but-ratepayers-stuck-with-tourism-costs
-title: "Govt Brags But Ratepayers Stuck with Tourism Costs"
-date: 2016-10-27
-source-url: https://www.scoop.co.nz/stories/PA1610/S00420/govt-brags-but-ratepayers-stuck-with-tourism-costs.htm
+title: Govt Brags But Ratepayers Stuck with Tourism Costs
+date: 2016-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1610/S00420/govt-brags-but-ratepayers-stuck-with-tourism-costs.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2016/10/27/govt-brags-but-ratepayers-stuck-with-tourism-costs/index.html
+layout: layout.njk
 ---
 Govt Brags But Ratepayers Stuck with Tourism Costs
 ==================================================

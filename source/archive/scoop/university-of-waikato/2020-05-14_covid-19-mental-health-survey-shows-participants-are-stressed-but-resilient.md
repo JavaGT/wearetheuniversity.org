@@ -1,9 +1,13 @@
 ---
 slug: covid-19-mental-health-survey-shows-participants-are-stressed-but-resilient
-title: "Covid-19 Mental Health Survey Shows Participants Are ‘stressed But Resilient’"
-date: 2020-05-14
-source-url: https://www.scoop.co.nz/stories/GE2005/S00091/covid-19-mental-health-survey-shows-participants-are-stressed-but-resilient.htm
+title: Covid-19 Mental Health Survey Shows Participants Are ‘stressed But Resilient’
+date: 2020-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE2005/S00091/covid-19-mental-health-survey-shows-participants-are-stressed-but-resilient.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2020/05/14/covid-19-mental-health-survey-shows-participants-are-stressed-but-resilient/index.html
+layout: layout.njk
 ---
 Covid-19 Mental Health Survey Shows Participants Are ‘stressed But Resilient’
 =============================================================================

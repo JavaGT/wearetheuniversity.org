@@ -1,9 +1,12 @@
 ---
 slug: ngāi-tahu-treaty-settlement-subject-of-new-uc-study
-title: "Ngāi Tahu Treaty Settlement Subject Of New UC Study"
-date: 2020-10-27
-source-url: https://www.scoop.co.nz/stories/PO2010/S00275/ngai-tahu-treaty-settlement-subject-of-new-uc-study.htm
+title: Ngāi Tahu Treaty Settlement Subject Of New UC Study
+date: 2020-10-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00275/ngai-tahu-treaty-settlement-subject-of-new-uc-study.htm
 author: university-of-canterbury
+permalink: /archive/2020/10/27/ng/index.html
+layout: layout.njk
 ---
 Ngāi Tahu Treaty Settlement Subject Of New UC Study
 ===================================================

@@ -1,9 +1,12 @@
 ---
 slug: otago-researchers-sequence-kuri-dog-genomes
-title: "Otago researchers sequence kuri dog genomes"
-date: 2015-10-08
-source-url: https://www.scoop.co.nz/stories/SC1510/S00020/otago-researchers-sequence-kuri-dog-genomes.htm
+title: Otago researchers sequence kuri dog genomes
+date: 2015-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1510/S00020/otago-researchers-sequence-kuri-dog-genomes.htm
 author: university-of-otago
+permalink: /archive/2015/10/08/otago-researchers-sequence-kuri-dog-genomes/index.html
+layout: layout.njk
 ---
 Otago researchers sequence kuri dog genomes
 ===========================================

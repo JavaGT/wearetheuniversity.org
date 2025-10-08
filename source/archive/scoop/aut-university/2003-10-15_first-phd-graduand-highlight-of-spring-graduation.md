@@ -1,9 +1,13 @@
 ---
 slug: first-phd-graduand-highlight-of-spring-graduation
-title: "First PhD graduand highlight of Spring Graduation"
-date: 2003-10-15
-source-url: https://www.scoop.co.nz/stories/ED0310/S00066/first-phd-graduand-highlight-of-spring-graduation.htm
+title: First PhD graduand highlight of Spring Graduation
+date: 2003-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00066/first-phd-graduand-highlight-of-spring-graduation.htm
 author: aut-university
+permalink: >-
+  /archive/2003/10/15/first-phd-graduand-highlight-of-spring-graduation/index.html
+layout: layout.njk
 ---
 First PhD graduand highlight of Spring Graduation
 =================================================

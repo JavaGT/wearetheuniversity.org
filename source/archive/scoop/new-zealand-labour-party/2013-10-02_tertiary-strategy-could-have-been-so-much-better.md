@@ -1,9 +1,13 @@
 ---
 slug: tertiary-strategy-could-have-been-so-much-better
-title: "Tertiary strategy could have been so much better"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/PA1310/S00061/tertiary-strategy-could-have-been-so-much-better.htm
+title: Tertiary strategy could have been so much better
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00061/tertiary-strategy-could-have-been-so-much-better.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/02/tertiary-strategy-could-have-been-so-much-better/index.html
+layout: layout.njk
 ---
 Tertiary strategy could have been so much better
 ================================================

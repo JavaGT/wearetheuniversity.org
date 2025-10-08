@@ -1,9 +1,12 @@
 ---
 slug: gregory-selected-by-national-in-dunedin-south
-title: "Gregory selected by National in Dunedin South"
-date: 2017-04-20
-source-url: https://www.scoop.co.nz/stories/PO1704/S00221/gregory-selected-by-national-in-dunedin-south.htm
+title: Gregory selected by National in Dunedin South
+date: 2017-04-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1704/S00221/gregory-selected-by-national-in-dunedin-south.htm
 author: new-zealand-national-party
+permalink: /archive/2017/04/20/gregory-selected-by-national-in-dunedin-south/index.html
+layout: layout.njk
 ---
 Gregory selected by National in Dunedin South
 =============================================

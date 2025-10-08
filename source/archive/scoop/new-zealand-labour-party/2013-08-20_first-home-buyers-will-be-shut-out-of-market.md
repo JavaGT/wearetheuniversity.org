@@ -1,9 +1,12 @@
 ---
 slug: first-home-buyers-will-be-shut-out-of-market
-title: "First home buyers will be shut out of market"
-date: 2013-08-20
-source-url: https://www.scoop.co.nz/stories/PA1308/S00330/first-home-buyers-will-be-shut-out-of-market.htm
+title: First home buyers will be shut out of market
+date: 2013-08-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00330/first-home-buyers-will-be-shut-out-of-market.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/20/first-home-buyers-will-be-shut-out-of-market/index.html
+layout: layout.njk
 ---
 First home buyers will be shut out of market
 ============================================

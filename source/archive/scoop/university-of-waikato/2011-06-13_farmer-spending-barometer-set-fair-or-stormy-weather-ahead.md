@@ -1,9 +1,13 @@
 ---
 slug: farmer-spending-barometer-set-fair-or-stormy-weather-ahead
-title: "Farmer spending barometer: set fair or stormy weather ahead?"
-date: 2011-06-13
-source-url: https://www.scoop.co.nz/stories/BU1106/S00351/farmer-spending-barometer-set-fair-or-stormy-weather-ahead.htm
+title: 'Farmer spending barometer: set fair or stormy weather ahead?'
+date: 2011-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1106/S00351/farmer-spending-barometer-set-fair-or-stormy-weather-ahead.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2011/06/13/farmer-spending-barometer-set-fair-or-stormy-weather-ahead/index.html
+layout: layout.njk
 ---
 Farmer spending barometer: set fair or stormy weather ahead?
 ============================================================

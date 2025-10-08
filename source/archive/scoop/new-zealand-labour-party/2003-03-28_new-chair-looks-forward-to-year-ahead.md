@@ -1,9 +1,12 @@
 ---
 slug: new-chair-looks-forward-to-year-ahead
-title: "New Chair Looks Forward to Year Ahead"
-date: 2003-03-28
-source-url: https://www.scoop.co.nz/stories/PO0303/S00232/new-chair-looks-forward-to-year-ahead.htm
+title: New Chair Looks Forward to Year Ahead
+date: 2003-03-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0303/S00232/new-chair-looks-forward-to-year-ahead.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/03/28/new-chair-looks-forward-to-year-ahead/index.html
+layout: layout.njk
 ---
 New Chair Looks Forward to Year Ahead
 =====================================

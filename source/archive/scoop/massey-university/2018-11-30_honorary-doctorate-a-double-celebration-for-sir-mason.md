@@ -1,9 +1,13 @@
 ---
 slug: honorary-doctorate-a-double-celebration-for-sir-mason
-title: "Honorary doctorate a double celebration for Sir Mason"
-date: 2018-11-30
-source-url: https://www.scoop.co.nz/stories/GE1811/S00116/honorary-doctorate-a-double-celebration-for-sir-mason.htm
+title: Honorary doctorate a double celebration for Sir Mason
+date: 2018-11-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1811/S00116/honorary-doctorate-a-double-celebration-for-sir-mason.htm
 author: massey-university
+permalink: >-
+  /archive/2018/11/30/honorary-doctorate-a-double-celebration-for-sir-mason/index.html
+layout: layout.njk
 ---
 Honorary doctorate a double celebration for Sir Mason
 =====================================================

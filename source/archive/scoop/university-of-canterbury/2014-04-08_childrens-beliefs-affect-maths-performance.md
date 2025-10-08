@@ -1,9 +1,12 @@
 ---
 slug: childrens-beliefs-affect-maths-performance
-title: "Children’s beliefs affect maths performance"
-date: 2014-04-08
-source-url: https://www.scoop.co.nz/stories/ED1404/S00035/childrens-beliefs-affect-maths-performance.htm
+title: Children’s beliefs affect maths performance
+date: 2014-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1404/S00035/childrens-beliefs-affect-maths-performance.htm
 author: university-of-canterbury
+permalink: /archive/2014/04/08/childrens-beliefs-affect-maths-performance/index.html
+layout: layout.njk
 ---
 Children’s beliefs affect maths performance
 ===========================================

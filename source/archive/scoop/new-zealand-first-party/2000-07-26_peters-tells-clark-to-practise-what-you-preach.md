@@ -1,9 +1,12 @@
 ---
 slug: peters-tells-clark-to-practise-what-you-preach
-title: "Peters Tells Clark To Practise What You Preach"
-date: 2000-07-26
-source-url: https://www.scoop.co.nz/stories/PA0007/S00423/peters-tells-clark-to-practise-what-you-preach.htm
+title: Peters Tells Clark To Practise What You Preach
+date: 2000-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0007/S00423/peters-tells-clark-to-practise-what-you-preach.htm
 author: new-zealand-first-party
+permalink: /archive/2000/07/26/peters-tells-clark-to-practise-what-you-preach/index.html
+layout: layout.njk
 ---
 Peters Tells Clark To Practise What You Preach
 ==============================================

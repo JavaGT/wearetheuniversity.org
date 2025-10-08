@@ -1,9 +1,11 @@
 ---
 slug: eating-drinking-and-politics
-title: "Eating, Drinking And Politics"
-date: 2010-09-30
+title: Eating, Drinking And Politics
+date: 2010-09-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1009/S00441/eating-drinking-and-politics.htm
 author: act-new-zealand
+permalink: /archive/2010/09/30/eating-drinking-and-politics/index.html
+layout: layout.njk
 ---
 Eating, Drinking And Politics
 =============================

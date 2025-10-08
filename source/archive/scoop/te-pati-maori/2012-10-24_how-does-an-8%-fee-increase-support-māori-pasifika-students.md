@@ -1,9 +1,12 @@
 ---
 slug: how-does-an-8%-fee-increase-support-māori-pasifika-students
-title: "How Does an 8% Fee Increase Support Māori/Pasifika Students"
-date: 2012-10-24
-source-url: https://www.scoop.co.nz/stories/PA1210/S00400/how-does-an-8-fee-increase-support-maoripasifika-students.htm
+title: How Does an 8% Fee Increase Support Māori/Pasifika Students
+date: 2012-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00400/how-does-an-8-fee-increase-support-maoripasifika-students.htm
 author: te-pati-maori
+permalink: /archive/2012/10/24/how-does-an-8/index.html
+layout: layout.njk
 ---
 How Does an 8% Fee Increase Support Māori/Pasifika Students
 ===========================================================

@@ -1,9 +1,12 @@
 ---
 slug: researchers-receive-funding-to-help-kaikōuas-fishery
-title: "Researchers receive funding to help Kaikōua's fishery"
-date: 2015-04-16
-source-url: https://www.scoop.co.nz/stories/SC1504/S00044/researchers-receive-funding-to-help-kaikouas-fishery.htm
+title: Researchers receive funding to help Kaikōua's fishery
+date: 2015-04-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1504/S00044/researchers-receive-funding-to-help-kaikouas-fishery.htm
 author: university-of-canterbury
+permalink: /archive/2015/04/16/researchers-receive-funding-to-help-kaik/index.html
+layout: layout.njk
 ---
 Researchers receive funding to help Kaikōua's fishery
 =====================================================

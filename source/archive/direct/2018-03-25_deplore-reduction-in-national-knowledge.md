@@ -1,11 +1,13 @@
 ---
-title: "Our Decision-makers need Transparent Science Advice"
+title: Our Decision-makers need Transparent Science Advice
 slug: deplore-reduction-in-national-knowledge
-date: 2018-03-25
+date: 2018-03-25T00:00:00.000Z
 source: https://scientists.org.nz/press-releases
 source-name: The New Zealand Association of Scientists
 author: The New Zealand Association of Scientists
 author-slug: the-new-zealand-association-of-scientists
+permalink: /archive/2018/03/25/deplore-reduction-in-national-knowledge/index.html
+layout: layout.njk
 ---
 
 1

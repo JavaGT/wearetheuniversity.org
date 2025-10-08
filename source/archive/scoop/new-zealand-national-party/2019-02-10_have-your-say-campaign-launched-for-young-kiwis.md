@@ -1,9 +1,12 @@
 ---
 slug: have-your-say-campaign-launched-for-young-kiwis
-title: "‘Have Your Say’ campaign launched for young Kiwis"
-date: 2019-02-10
-source-url: https://www.scoop.co.nz/stories/PA1902/S00069/have-your-say-campaign-launched-for-young-kiwis.htm
+title: ‘Have Your Say’ campaign launched for young Kiwis
+date: 2019-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1902/S00069/have-your-say-campaign-launched-for-young-kiwis.htm
 author: new-zealand-national-party
+permalink: /archive/2019/02/10/have-your-say-campaign-launched-for-young-kiwis/index.html
+layout: layout.njk
 ---
 ‘Have Your Say’ campaign launched for young Kiwis
 =================================================

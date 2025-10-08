@@ -1,9 +1,13 @@
 ---
 slug: win-for-hamilton-boys-high-at-waikato-chemistry-challenge
-title: "Win for Hamilton Boys’ High at Waikato chemistry challenge"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/ED1406/S00106/win-for-hamilton-boys-high-at-waikato-chemistry-challenge.htm
+title: Win for Hamilton Boys’ High at Waikato chemistry challenge
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1406/S00106/win-for-hamilton-boys-high-at-waikato-chemistry-challenge.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/06/20/win-for-hamilton-boys-high-at-waikato-chemistry-challenge/index.html
+layout: layout.njk
 ---
 Win for Hamilton Boys’ High at Waikato chemistry challenge
 ==========================================================

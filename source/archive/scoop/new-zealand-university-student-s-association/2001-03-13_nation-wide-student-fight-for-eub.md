@@ -1,9 +1,12 @@
 ---
 slug: nation-wide-student-fight-for-eub
-title: "Nation-Wide Student Fight For EUB"
-date: 2001-03-13
-source-url: https://www.scoop.co.nz/stories/ED0103/S00024/nation-wide-student-fight-for-eub.htm
+title: Nation-Wide Student Fight For EUB
+date: 2001-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00024/nation-wide-student-fight-for-eub.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/13/nation-wide-student-fight-for-eub/index.html
+layout: layout.njk
 ---
 Nation-Wide Student Fight For EUB
 =================================

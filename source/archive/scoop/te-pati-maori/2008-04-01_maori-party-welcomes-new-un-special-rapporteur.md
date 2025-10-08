@@ -1,9 +1,12 @@
 ---
 slug: maori-party-welcomes-new-un-special-rapporteur
-title: "Maori Party welcomes new UN Special Rapporteur"
-date: 2008-04-01
-source-url: https://www.scoop.co.nz/stories/PA0804/S00002/maori-party-welcomes-new-un-special-rapporteur.htm
+title: Maori Party welcomes new UN Special Rapporteur
+date: 2008-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0804/S00002/maori-party-welcomes-new-un-special-rapporteur.htm
 author: te-pati-maori
+permalink: /archive/2008/04/01/maori-party-welcomes-new-un-special-rapporteur/index.html
+layout: layout.njk
 ---
 Maori Party welcomes new UN Special Rapporteur
 ==============================================

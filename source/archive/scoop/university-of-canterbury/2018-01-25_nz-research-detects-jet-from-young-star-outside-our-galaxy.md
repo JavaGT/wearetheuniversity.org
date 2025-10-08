@@ -1,9 +1,13 @@
 ---
 slug: nz-research-detects-jet-from-young-star-outside-our-galaxy
-title: "NZ research detects jet from young star outside our galaxy"
-date: 2018-01-25
-source-url: https://www.scoop.co.nz/stories/SC1801/S00027/nz-research-detects-jet-from-young-star-outside-our-galaxy.htm
+title: NZ research detects jet from young star outside our galaxy
+date: 2018-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00027/nz-research-detects-jet-from-young-star-outside-our-galaxy.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/01/25/nz-research-detects-jet-from-young-star-outside-our-galaxy/index.html
+layout: layout.njk
 ---
 NZ research detects jet from young star outside our galaxy
 ==========================================================

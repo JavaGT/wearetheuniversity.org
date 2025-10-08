@@ -1,9 +1,12 @@
 ---
 slug: petition-to-save-invermay-launched
-title: "Petition to save Invermay launched"
-date: 2014-02-06
-source-url: https://www.scoop.co.nz/stories/PA1402/S00066/petition-to-save-invermay-launched.htm
+title: Petition to save Invermay launched
+date: 2014-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1402/S00066/petition-to-save-invermay-launched.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/02/06/petition-to-save-invermay-launched/index.html
+layout: layout.njk
 ---
 Petition to save Invermay launched
 ==================================

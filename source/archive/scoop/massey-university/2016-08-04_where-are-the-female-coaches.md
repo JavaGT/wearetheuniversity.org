@@ -1,9 +1,11 @@
 ---
 slug: where-are-the-female-coaches
-title: "Where are the female coaches?"
-date: 2016-08-04
+title: Where are the female coaches?
+date: 2016-08-04T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/CU1608/S00081/where-are-the-female-coaches.htm
 author: massey-university
+permalink: /archive/2016/08/04/where-are-the-female-coaches/index.html
+layout: layout.njk
 ---
 Where are the female coaches?
 =============================

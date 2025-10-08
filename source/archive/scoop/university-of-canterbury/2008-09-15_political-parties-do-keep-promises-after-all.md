@@ -1,9 +1,12 @@
 ---
 slug: political-parties-do-keep-promises-after-all
-title: "Political parties do keep promises after all"
-date: 2008-09-15
-source-url: https://www.scoop.co.nz/stories/PO0809/S00207/political-parties-do-keep-promises-after-all.htm
+title: Political parties do keep promises after all
+date: 2008-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00207/political-parties-do-keep-promises-after-all.htm
 author: university-of-canterbury
+permalink: /archive/2008/09/15/political-parties-do-keep-promises-after-all/index.html
+layout: layout.njk
 ---
 Political parties do keep promises after all
 ============================================

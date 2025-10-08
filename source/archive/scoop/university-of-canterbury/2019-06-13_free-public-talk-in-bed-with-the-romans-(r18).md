@@ -1,9 +1,12 @@
 ---
 slug: free-public-talk-in-bed-with-the-romans-(r18)
-title: "Free public talk: In bed with the Romans (R18)"
-date: 2019-06-13
-source-url: https://www.scoop.co.nz/stories/CU1906/S00138/free-public-talk-in-bed-with-the-romans-r18.htm
+title: 'Free public talk: In bed with the Romans (R18)'
+date: 2019-06-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1906/S00138/free-public-talk-in-bed-with-the-romans-r18.htm
 author: university-of-canterbury
+permalink: /archive/2019/06/13/free-public-talk-in-bed-with-the-romans-/index.html
+layout: layout.njk
 ---
 Free public talk: In bed with the Romans (R18)
 ==============================================

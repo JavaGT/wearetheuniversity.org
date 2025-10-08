@@ -1,9 +1,12 @@
 ---
 slug: acts-richard-prebble-budget-2004-speech
-title: "ACT's Richard Prebble - Budget 2004 Speech"
-date: 2004-05-28
-source-url: https://www.scoop.co.nz/stories/PA0405/S00637/acts-richard-prebble-budget-2004-speech.htm
+title: ACT's Richard Prebble - Budget 2004 Speech
+date: 2004-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00637/acts-richard-prebble-budget-2004-speech.htm
 author: act-new-zealand
+permalink: /archive/2004/05/28/acts-richard-prebble-budget-2004-speech/index.html
+layout: layout.njk
 ---
 ACT's Richard Prebble - Budget 2004 Speech
 ==========================================

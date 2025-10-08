@@ -1,9 +1,13 @@
 ---
 slug: youth-more-likely-to-discourage-than-promote-smoking
-title: "Youth more likely to discourage than promote smoking"
-date: 2017-07-28
-source-url: https://www.scoop.co.nz/stories/CU1707/S00375/youth-more-likely-to-discourage-than-promote-smoking.htm
+title: Youth more likely to discourage than promote smoking
+date: 2017-07-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1707/S00375/youth-more-likely-to-discourage-than-promote-smoking.htm
 author: university-of-otago
+permalink: >-
+  /archive/2017/07/28/youth-more-likely-to-discourage-than-promote-smoking/index.html
+layout: layout.njk
 ---
 Youth more likely to discourage than promote smoking
 ====================================================

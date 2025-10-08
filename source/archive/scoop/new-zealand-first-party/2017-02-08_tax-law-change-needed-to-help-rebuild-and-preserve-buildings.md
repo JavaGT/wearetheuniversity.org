@@ -1,9 +1,13 @@
 ---
 slug: tax-law-change-needed-to-help-rebuild-and-preserve-buildings
-title: "Tax Law Change Needed to Help Rebuild And Preserve Buildings"
-date: 2017-02-08
-source-url: https://www.scoop.co.nz/stories/PA1702/S00111/tax-law-change-needed-to-help-rebuild-and-preserve-buildings.htm
+title: Tax Law Change Needed to Help Rebuild And Preserve Buildings
+date: 2017-02-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1702/S00111/tax-law-change-needed-to-help-rebuild-and-preserve-buildings.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/02/08/tax-law-change-needed-to-help-rebuild-and-preserve-buildings/index.html
+layout: layout.njk
 ---
 Tax Law Change Needed to Help Rebuild And Preserve Buildings
 ============================================================

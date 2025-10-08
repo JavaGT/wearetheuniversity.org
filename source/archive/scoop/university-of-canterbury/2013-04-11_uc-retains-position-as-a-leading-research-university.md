@@ -1,9 +1,13 @@
 ---
 slug: uc-retains-position-as-a-leading-research-university
-title: "UC retains position as a leading research university"
-date: 2013-04-11
-source-url: https://www.scoop.co.nz/stories/ED1304/S00064/uc-retains-position-as-a-leading-research-university.htm
+title: UC retains position as a leading research university
+date: 2013-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1304/S00064/uc-retains-position-as-a-leading-research-university.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/04/11/uc-retains-position-as-a-leading-research-university/index.html
+layout: layout.njk
 ---
 UC retains position as a leading research university
 ====================================================

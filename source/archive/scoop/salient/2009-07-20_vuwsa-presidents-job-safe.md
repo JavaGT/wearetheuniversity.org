@@ -1,9 +1,11 @@
 ---
 slug: vuwsa-presidents-job-safe
-title: "VUWSA President’s job safe"
-date: 2009-07-20
+title: VUWSA President’s job safe
+date: 2009-07-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0907/S00081/vuwsa-presidents-job-safe.htm
 author: salient
+permalink: /archive/2009/07/20/vuwsa-presidents-job-safe/index.html
+layout: layout.njk
 ---
 VUWSA President’s job safe
 ==========================

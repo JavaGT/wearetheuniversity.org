@@ -1,9 +1,12 @@
 ---
 slug: designing-using-the-element-of-surprise
-title: "Designing using the element of surprise"
-date: 2012-01-24
-source-url: https://www.scoop.co.nz/stories/ED1201/S00045/designing-using-the-element-of-surprise.htm
+title: Designing using the element of surprise
+date: 2012-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1201/S00045/designing-using-the-element-of-surprise.htm
 author: victoria-university-of-wellington
+permalink: /archive/2012/01/24/designing-using-the-element-of-surprise/index.html
+layout: layout.njk
 ---
 Designing using the element of surprise
 =======================================

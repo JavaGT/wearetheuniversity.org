@@ -1,9 +1,12 @@
 ---
 slug: new-university-librarian-appointed
-title: "New University Librarian appointed"
-date: 2005-06-07
-source-url: https://www.scoop.co.nz/stories/ED0506/S00013/new-university-librarian-appointed.htm
+title: New University Librarian appointed
+date: 2005-06-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00013/new-university-librarian-appointed.htm
 author: university-of-otago
+permalink: /archive/2005/06/07/new-university-librarian-appointed/index.html
+layout: layout.njk
 ---
 New University Librarian appointed
 ==================================

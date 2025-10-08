@@ -1,9 +1,13 @@
 ---
 slug: rugby-league-expert-backs-williams-to-help-kiwis
-title: "Rugby league expert backs Williams to help Kiwis"
-date: 2013-10-14
-source-url: https://www.scoop.co.nz/stories/CU1310/S00243/rugby-league-expert-backs-williams-to-help-kiwis.htm
+title: Rugby league expert backs Williams to help Kiwis
+date: 2013-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1310/S00243/rugby-league-expert-backs-williams-to-help-kiwis.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/10/14/rugby-league-expert-backs-williams-to-help-kiwis/index.html
+layout: layout.njk
 ---
 Rugby league expert backs Williams to help Kiwis
 ================================================

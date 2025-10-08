@@ -1,9 +1,12 @@
 ---
 slug: govt-must-dispense-with-stat-dispensing
-title: "Govt must dispense with stat dispensing"
-date: 2003-07-01
-source-url: https://www.scoop.co.nz/stories/PA0307/S00042/govt-must-dispense-with-stat-dispensing.htm
+title: Govt must dispense with stat dispensing
+date: 2003-07-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00042/govt-must-dispense-with-stat-dispensing.htm
 author: new-zealand-national-party
+permalink: /archive/2003/07/01/govt-must-dispense-with-stat-dispensing/index.html
+layout: layout.njk
 ---
 Govt must dispense with stat dispensing
 =======================================

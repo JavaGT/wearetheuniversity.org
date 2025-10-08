@@ -1,9 +1,12 @@
 ---
 slug: autism-support-should-be-a-priority
-title: "Autism support should be a priority"
-date: 2011-07-19
-source-url: https://www.scoop.co.nz/stories/PA1107/S00337/autism-support-should-be-a-priority.htm
+title: Autism support should be a priority
+date: 2011-07-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00337/autism-support-should-be-a-priority.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/07/19/autism-support-should-be-a-priority/index.html
+layout: layout.njk
 ---
 Autism support should be a priority
 ===================================

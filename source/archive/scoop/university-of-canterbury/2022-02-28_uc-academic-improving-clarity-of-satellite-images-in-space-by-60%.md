@@ -1,9 +1,13 @@
 ---
 slug: uc-academic-improving-clarity-of-satellite-images-in-space-by-60%
-title: "UC Academic Improving Clarity Of Satellite Images In Space By 60%"
-date: 2022-02-28
-source-url: https://www.scoop.co.nz/stories/SC2202/S00053/uc-academic-improving-clarity-of-satellite-images-in-space-by-60.htm
+title: UC Academic Improving Clarity Of Satellite Images In Space By 60%
+date: 2022-02-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2202/S00053/uc-academic-improving-clarity-of-satellite-images-in-space-by-60.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2022/02/28/uc-academic-improving-clarity-of-satellite-images-in-space-by-60/index.html
+layout: layout.njk
 ---
 UC Academic Improving Clarity Of Satellite Images In Space By 60%
 =================================================================

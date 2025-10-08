@@ -1,9 +1,13 @@
 ---
 slug: prime-minister-must-tell-bennett-to-follow-privacy-law
-title: "Prime Minister must tell Bennett to follow privacy law"
-date: 2012-08-15
-source-url: https://www.scoop.co.nz/stories/PA1208/S00206/prime-minister-must-tell-bennett-to-follow-privacy-law.htm
+title: Prime Minister must tell Bennett to follow privacy law
+date: 2012-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00206/prime-minister-must-tell-bennett-to-follow-privacy-law.htm
 author: green-party
+permalink: >-
+  /archive/2012/08/15/prime-minister-must-tell-bennett-to-follow-privacy-law/index.html
+layout: layout.njk
 ---
 Prime Minister must tell Bennett to follow privacy law
 ======================================================

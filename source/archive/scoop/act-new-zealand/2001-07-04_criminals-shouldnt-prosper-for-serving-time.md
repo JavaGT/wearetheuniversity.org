@@ -1,9 +1,12 @@
 ---
 slug: criminals-shouldnt-prosper-for-serving-time
-title: "Criminals Shouldn't Prosper For Serving Time"
-date: 2001-07-04
-source-url: https://www.scoop.co.nz/stories/PA0107/S00064/criminals-shouldnt-prosper-for-serving-time.htm
+title: Criminals Shouldn't Prosper For Serving Time
+date: 2001-07-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0107/S00064/criminals-shouldnt-prosper-for-serving-time.htm
 author: act-new-zealand
+permalink: /archive/2001/07/04/criminals-shouldnt-prosper-for-serving-time/index.html
+layout: layout.njk
 ---
 Criminals Shouldn't Prosper For Serving Time
 ============================================

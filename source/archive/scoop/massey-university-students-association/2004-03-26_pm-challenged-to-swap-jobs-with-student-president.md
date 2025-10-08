@@ -1,9 +1,13 @@
 ---
 slug: pm-challenged-to-swap-jobs-with-student-president
-title: "PM challenged to swap jobs with student president"
-date: 2004-03-26
-source-url: https://www.scoop.co.nz/stories/ED0403/S00109/pm-challenged-to-swap-jobs-with-student-president.htm
+title: PM challenged to swap jobs with student president
+date: 2004-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00109/pm-challenged-to-swap-jobs-with-student-president.htm
 author: massey-university-students-association
+permalink: >-
+  /archive/2004/03/26/pm-challenged-to-swap-jobs-with-student-president/index.html
+layout: layout.njk
 ---
 PM challenged to swap jobs with student president
 =================================================

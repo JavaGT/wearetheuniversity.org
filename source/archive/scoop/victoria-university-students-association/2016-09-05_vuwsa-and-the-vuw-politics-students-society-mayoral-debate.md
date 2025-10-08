@@ -1,9 +1,13 @@
 ---
 slug: vuwsa-and-the-vuw-politics-students-society-mayoral-debate
-title: "VUWSA and the VUW Politics Students' Society Mayoral Debate"
-date: 2016-09-05
-source-url: https://www.scoop.co.nz/stories/AK1609/S00144/vuwsa-and-the-vuw-politics-students-society-mayoral-debate.htm
+title: VUWSA and the VUW Politics Students' Society Mayoral Debate
+date: 2016-09-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1609/S00144/vuwsa-and-the-vuw-politics-students-society-mayoral-debate.htm
 author: victoria-university-students-association
+permalink: >-
+  /archive/2016/09/05/vuwsa-and-the-vuw-politics-students-society-mayoral-debate/index.html
+layout: layout.njk
 ---
 VUWSA and the VUW Politics Students' Society Mayoral Debate
 ===========================================================

@@ -1,9 +1,16 @@
 ---
-slug: green-party-selects-teanau-tuiono-for-the-palmerston-north-electorate;-joe-boon-for-rangitikei
-title: "Green Party Selects Teanau Tuiono For The Palmerston North Electorate; Joe Boon For Rangitikei"
-date: 2020-02-12
-source-url: https://www.scoop.co.nz/stories/PO2002/S00096/green-party-selects-teanau-tuiono-for-the-palmerston-north-electorate-joe-boon-for-rangitikei.htm
+slug: >-
+  green-party-selects-teanau-tuiono-for-the-palmerston-north-electorate;-joe-boon-for-rangitikei
+title: >-
+  Green Party Selects Teanau Tuiono For The Palmerston North Electorate; Joe
+  Boon For Rangitikei
+date: 2020-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2002/S00096/green-party-selects-teanau-tuiono-for-the-palmerston-north-electorate-joe-boon-for-rangitikei.htm
 author: green-party
+permalink: >-
+  /archive/2020/02/12/green-party-selects-teanau-tuiono-for-the-palmerston-north-electorate/index.html
+layout: layout.njk
 ---
 Green Party Selects Teanau Tuiono For The Palmerston North Electorate; Joe Boon For Rangitikei
 ==============================================================================================

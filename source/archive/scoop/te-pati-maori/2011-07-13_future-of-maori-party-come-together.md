@@ -1,9 +1,12 @@
 ---
 slug: future-of-maori-party-come-together
-title: "Future of Maori Party come together"
-date: 2011-07-13
-source-url: https://www.scoop.co.nz/stories/PA1107/S00230/future-of-maori-party-come-together.htm
+title: Future of Maori Party come together
+date: 2011-07-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00230/future-of-maori-party-come-together.htm
 author: te-pati-maori
+permalink: /archive/2011/07/13/future-of-maori-party-come-together/index.html
+layout: layout.njk
 ---
 Future of Maori Party come together
 ===================================

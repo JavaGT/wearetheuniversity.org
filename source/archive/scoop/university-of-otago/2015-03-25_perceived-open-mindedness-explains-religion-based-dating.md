@@ -1,9 +1,13 @@
 ---
 slug: perceived-open-mindedness-explains-religion-based-dating
-title: "Perceived open-mindedness explains religion-based dating"
-date: 2015-03-25
-source-url: https://www.scoop.co.nz/stories/CU1503/S00500/perceived-open-mindedness-explains-religion-based-dating.htm
+title: Perceived open-mindedness explains religion-based dating
+date: 2015-03-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1503/S00500/perceived-open-mindedness-explains-religion-based-dating.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/25/perceived-open-mindedness-explains-religion-based-dating/index.html
+layout: layout.njk
 ---
 Perceived open-mindedness explains religion-based dating
 ========================================================

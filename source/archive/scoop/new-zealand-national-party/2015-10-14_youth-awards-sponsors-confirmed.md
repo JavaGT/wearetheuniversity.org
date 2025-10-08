@@ -1,9 +1,12 @@
 ---
 slug: youth-awards-sponsors-confirmed
-title: "Youth Awards sponsors confirmed"
-date: 2015-10-14
-source-url: https://www.scoop.co.nz/stories/PA1510/S00217/youth-awards-sponsors-confirmed.htm
+title: Youth Awards sponsors confirmed
+date: 2015-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00217/youth-awards-sponsors-confirmed.htm
 author: new-zealand-national-party
+permalink: /archive/2015/10/14/youth-awards-sponsors-confirmed/index.html
+layout: layout.njk
 ---
 Youth Awards sponsors confirmed
 ===============================

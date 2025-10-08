@@ -1,9 +1,13 @@
 ---
 slug: govt-continues-to-throw-money-at-charter-school-experiment
-title: "Govt continues to throw money at charter school experiment"
-date: 2014-09-19
-source-url: https://www.scoop.co.nz/stories/PO1409/S00442/govt-continues-to-throw-money-at-charter-school-experiment.htm
+title: Govt continues to throw money at charter school experiment
+date: 2014-09-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1409/S00442/govt-continues-to-throw-money-at-charter-school-experiment.htm
 author: nzei
+permalink: >-
+  /archive/2014/09/19/govt-continues-to-throw-money-at-charter-school-experiment/index.html
+layout: layout.njk
 ---
 Govt continues to throw money at charter school experiment
 ==========================================================

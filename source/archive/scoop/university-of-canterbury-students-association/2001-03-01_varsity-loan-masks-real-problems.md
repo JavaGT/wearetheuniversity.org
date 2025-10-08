@@ -1,9 +1,12 @@
 ---
 slug: varsity-loan-masks-real-problems
-title: "Varsity Loan Masks Real Problems"
-date: 2001-03-01
-source-url: https://www.scoop.co.nz/stories/ED0103/S00001/varsity-loan-masks-real-problems.htm
+title: Varsity Loan Masks Real Problems
+date: 2001-03-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0103/S00001/varsity-loan-masks-real-problems.htm
 author: university-of-canterbury-students-association
+permalink: /archive/2001/03/01/varsity-loan-masks-real-problems/index.html
+layout: layout.njk
 ---
 Varsity Loan Masks Real Problems
 ================================

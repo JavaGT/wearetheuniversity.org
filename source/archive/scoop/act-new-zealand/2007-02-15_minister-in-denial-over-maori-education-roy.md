@@ -1,9 +1,12 @@
 ---
 slug: minister-in-denial-over-maori-education-roy
-title: "Minister In Denial Over Maori Education - Roy"
-date: 2007-02-15
-source-url: https://www.scoop.co.nz/stories/PA0702/S00290/minister-in-denial-over-maori-education-roy.htm
+title: Minister In Denial Over Maori Education - Roy
+date: 2007-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0702/S00290/minister-in-denial-over-maori-education-roy.htm
 author: act-new-zealand
+permalink: /archive/2007/02/15/minister-in-denial-over-maori-education-roy/index.html
+layout: layout.njk
 ---
 Minister In Denial Over Maori Education - Roy
 =============================================

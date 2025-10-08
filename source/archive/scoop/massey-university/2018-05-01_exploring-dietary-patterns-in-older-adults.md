@@ -1,9 +1,12 @@
 ---
 slug: exploring-dietary-patterns-in-older-adults
-title: "Exploring dietary patterns in older adults"
-date: 2018-05-01
-source-url: https://www.scoop.co.nz/stories/GE1805/S00007/exploring-dietary-patterns-in-older-adults.htm
+title: Exploring dietary patterns in older adults
+date: 2018-05-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1805/S00007/exploring-dietary-patterns-in-older-adults.htm
 author: massey-university
+permalink: /archive/2018/05/01/exploring-dietary-patterns-in-older-adults/index.html
+layout: layout.njk
 ---
 Exploring dietary patterns in older adults
 ==========================================

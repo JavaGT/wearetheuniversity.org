@@ -1,9 +1,13 @@
 ---
 slug: dr-pita-sharples-maori-party-co-leader-budget-speech
-title: "Dr Pita Sharples, Maori Party Co-Leader: Budget Speech"
-date: 2011-05-19
-source-url: https://www.scoop.co.nz/stories/PA1105/S00463/dr-pita-sharples-maori-party-co-leader-budget-speech.htm
+title: 'Dr Pita Sharples, Maori Party Co-Leader: Budget Speech'
+date: 2011-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1105/S00463/dr-pita-sharples-maori-party-co-leader-budget-speech.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/05/19/dr-pita-sharples-maori-party-co-leader-budget-speech/index.html
+layout: layout.njk
 ---
 Dr Pita Sharples, Maori Party Co-Leader: Budget Speech
 ======================================================

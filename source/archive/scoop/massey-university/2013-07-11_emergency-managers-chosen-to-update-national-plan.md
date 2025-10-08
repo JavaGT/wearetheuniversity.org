@@ -1,9 +1,13 @@
 ---
 slug: emergency-managers-chosen-to-update-national-plan
-title: "Emergency managers chosen to update national plan"
-date: 2013-07-11
-source-url: https://www.scoop.co.nz/stories/GE1307/S00058/emergency-managers-chosen-to-update-national-plan.htm
+title: Emergency managers chosen to update national plan
+date: 2013-07-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1307/S00058/emergency-managers-chosen-to-update-national-plan.htm
 author: massey-university
+permalink: >-
+  /archive/2013/07/11/emergency-managers-chosen-to-update-national-plan/index.html
+layout: layout.njk
 ---
 Emergency managers chosen to update national plan
 =================================================

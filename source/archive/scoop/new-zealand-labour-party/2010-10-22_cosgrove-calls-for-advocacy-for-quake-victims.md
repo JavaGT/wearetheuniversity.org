@@ -1,9 +1,12 @@
 ---
 slug: cosgrove-calls-for-advocacy-for-quake-victims
-title: "Cosgrove calls for advocacy for quake victims"
-date: 2010-10-22
-source-url: https://www.scoop.co.nz/stories/PA1010/S00406/cosgrove-calls-for-advocacy-for-quake-victims.htm
+title: Cosgrove calls for advocacy for quake victims
+date: 2010-10-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00406/cosgrove-calls-for-advocacy-for-quake-victims.htm
 author: new-zealand-labour-party
+permalink: /archive/2010/10/22/cosgrove-calls-for-advocacy-for-quake-victims/index.html
+layout: layout.njk
 ---
 Cosgrove calls for advocacy for quake victims
 =============================================

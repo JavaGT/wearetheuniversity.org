@@ -1,9 +1,12 @@
 ---
 slug: www-mccully-co-nz-9-september-2005
-title: "www.mccully.co.nz 9 September 2005"
-date: 2005-09-12
-source-url: https://www.scoop.co.nz/stories/PA0509/S00278/wwwmccullyconz-9-september-2005.htm
+title: www.mccully.co.nz 9 September 2005
+date: 2005-09-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00278/wwwmccullyconz-9-september-2005.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/12/www-mccully-co-nz-9-september-2005/index.html
+layout: layout.njk
 ---
 www.mccully.co.nz 9 September 2005
 ==================================

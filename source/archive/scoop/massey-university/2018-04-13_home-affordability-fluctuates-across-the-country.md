@@ -1,9 +1,13 @@
 ---
 slug: home-affordability-fluctuates-across-the-country
-title: "Home affordability fluctuates across the country"
-date: 2018-04-13
-source-url: https://www.scoop.co.nz/stories/BU1804/S00315/home-affordability-fluctuates-across-the-country.htm
+title: Home affordability fluctuates across the country
+date: 2018-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1804/S00315/home-affordability-fluctuates-across-the-country.htm
 author: massey-university
+permalink: >-
+  /archive/2018/04/13/home-affordability-fluctuates-across-the-country/index.html
+layout: layout.njk
 ---
 Home affordability fluctuates across the country
 ================================================

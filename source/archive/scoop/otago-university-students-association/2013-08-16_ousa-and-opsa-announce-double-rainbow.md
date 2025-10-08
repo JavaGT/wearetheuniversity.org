@@ -1,9 +1,12 @@
 ---
 slug: ousa-and-opsa-announce-double-rainbow
-title: "OUSA and OPSA Announce Double Rainbow"
-date: 2013-08-16
-source-url: https://www.scoop.co.nz/stories/ED1308/S00080/ousa-and-opsa-announce-double-rainbow.htm
+title: OUSA and OPSA Announce Double Rainbow
+date: 2013-08-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00080/ousa-and-opsa-announce-double-rainbow.htm
 author: otago-university-students-association
+permalink: /archive/2013/08/16/ousa-and-opsa-announce-double-rainbow/index.html
+layout: layout.njk
 ---
 OUSA and OPSA Announce Double Rainbow
 =====================================

@@ -1,9 +1,12 @@
 ---
 slug: green-party-scores-massive-own-goal
-title: "Green Party scores massive own goal"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PO1408/S00347/green-party-scores-massive-own-goal.htm
+title: Green Party scores massive own goal
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00347/green-party-scores-massive-own-goal.htm
 author: act-new-zealand
+permalink: /archive/2014/08/21/green-party-scores-massive-own-goal/index.html
+layout: layout.njk
 ---
 Green Party scores massive own goal
 ===================================

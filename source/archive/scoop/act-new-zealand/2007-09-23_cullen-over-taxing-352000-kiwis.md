@@ -1,9 +1,12 @@
 ---
 slug: cullen-over-taxing-352000-kiwis
-title: "Cullen Over-Taxing 352,000 Kiwis"
-date: 2007-09-23
-source-url: https://www.scoop.co.nz/stories/PA0709/S00403/cullen-over-taxing-352000-kiwis.htm
+title: Cullen Over-Taxing 352,000 Kiwis
+date: 2007-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00403/cullen-over-taxing-352000-kiwis.htm
 author: act-new-zealand
+permalink: /archive/2007/09/23/cullen-over-taxing-352000-kiwis/index.html
+layout: layout.njk
 ---
 Cullen Over-Taxing 352,000 Kiwis
 ================================

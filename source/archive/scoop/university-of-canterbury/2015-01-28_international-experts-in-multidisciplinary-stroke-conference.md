@@ -1,9 +1,13 @@
 ---
 slug: international-experts-in-multidisciplinary-stroke-conference
-title: "International experts in multidisciplinary stroke conference"
-date: 2015-01-28
-source-url: https://www.scoop.co.nz/stories/ED1501/S00078/international-experts-in-multidisciplinary-stroke-conference.htm
+title: International experts in multidisciplinary stroke conference
+date: 2015-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1501/S00078/international-experts-in-multidisciplinary-stroke-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/01/28/international-experts-in-multidisciplinary-stroke-conference/index.html
+layout: layout.njk
 ---
 International experts in multidisciplinary stroke conference
 ============================================================

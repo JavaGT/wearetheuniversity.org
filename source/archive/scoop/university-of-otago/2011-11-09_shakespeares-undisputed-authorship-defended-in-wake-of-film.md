@@ -1,9 +1,13 @@
 ---
 slug: shakespeares-undisputed-authorship-defended-in-wake-of-film
-title: "Shakespeare's undisputed authorship defended in wake of film"
-date: 2011-11-09
-source-url: https://www.scoop.co.nz/stories/ED1111/S00059/shakespeares-undisputed-authorship-defended-in-wake-of-film.htm
+title: Shakespeare's undisputed authorship defended in wake of film
+date: 2011-11-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00059/shakespeares-undisputed-authorship-defended-in-wake-of-film.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/09/shakespeares-undisputed-authorship-defended-in-wake-of-film/index.html
+layout: layout.njk
 ---
 Shakespeare's undisputed authorship defended in wake of film
 ============================================================

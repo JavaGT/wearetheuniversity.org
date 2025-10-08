@@ -1,9 +1,12 @@
 ---
 slug: climate-change-is-warming-our-lakes-and-fast
-title: "Climate change is warming our lakes – and fast"
-date: 2015-12-17
-source-url: https://www.scoop.co.nz/stories/SC1512/S00070/climate-change-is-warming-our-lakes-and-fast.htm
+title: Climate change is warming our lakes – and fast
+date: 2015-12-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1512/S00070/climate-change-is-warming-our-lakes-and-fast.htm
 author: university-of-waikato
+permalink: /archive/2015/12/17/climate-change-is-warming-our-lakes-and-fast/index.html
+layout: layout.njk
 ---
 Climate change is warming our lakes – and fast
 ==============================================

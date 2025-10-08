@@ -1,9 +1,12 @@
 ---
 slug: get-off-your-high-horse-mallard
-title: "Get Off Your High Horse, Mallard"
-date: 2003-02-12
-source-url: https://www.scoop.co.nz/stories/PA0302/S00144/get-off-your-high-horse-mallard.htm
+title: Get Off Your High Horse, Mallard
+date: 2003-02-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0302/S00144/get-off-your-high-horse-mallard.htm
 author: act-new-zealand
+permalink: /archive/2003/02/12/get-off-your-high-horse-mallard/index.html
+layout: layout.njk
 ---
 Get Off Your High Horse, Mallard
 ================================

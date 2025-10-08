@@ -1,9 +1,16 @@
 ---
-slug: exceptional-minds-exceptional-futures-2024-woolf-fisher-scholarship-recipients-announced
-title: "Exceptional Minds, Exceptional Futures – 2024 Woolf Fisher Scholarship Recipients Announced"
-date: 2023-10-11
-source-url: https://www.scoop.co.nz/stories/ED2310/S00013/exceptional-minds-exceptional-futures-2024-woolf-fisher-scholarship-recipients-announced.htm
+slug: >-
+  exceptional-minds-exceptional-futures-2024-woolf-fisher-scholarship-recipients-announced
+title: >-
+  Exceptional Minds, Exceptional Futures – 2024 Woolf Fisher Scholarship
+  Recipients Announced
+date: 2023-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2310/S00013/exceptional-minds-exceptional-futures-2024-woolf-fisher-scholarship-recipients-announced.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: >-
+  /archive/2023/10/11/exceptional-minds-exceptional-futures-2024-woolf-fisher-scholarship-recipients-announced/index.html
+layout: layout.njk
 ---
 Exceptional Minds, Exceptional Futures – 2024 Woolf Fisher Scholarship Recipients Announced
 ===========================================================================================

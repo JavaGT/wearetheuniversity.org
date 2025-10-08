@@ -1,9 +1,13 @@
 ---
 slug: legalise-safe-drug-testing-before-summer-festival-season
-title: "Legalise safe drug testing before summer festival season"
-date: 2018-10-14
-source-url: https://www.scoop.co.nz/stories/PA1810/S00118/legalise-safe-drug-testing-before-summer-festival-season.htm
+title: Legalise safe drug testing before summer festival season
+date: 2018-10-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1810/S00118/legalise-safe-drug-testing-before-summer-festival-season.htm
 author: green-party
+permalink: >-
+  /archive/2018/10/14/legalise-safe-drug-testing-before-summer-festival-season/index.html
+layout: layout.njk
 ---
 Legalise safe drug testing before summer festival season
 ========================================================

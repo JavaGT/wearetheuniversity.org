@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-books-excellence-recognised
-title: "New Zealand Book's Excellence Recognised"
-date: 2001-01-30
-source-url: https://www.scoop.co.nz/stories/CU0101/S00028/new-zealand-books-excellence-recognised.htm
+title: New Zealand Book's Excellence Recognised
+date: 2001-01-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0101/S00028/new-zealand-books-excellence-recognised.htm
 author: auckland-university-press
+permalink: /archive/2001/01/30/new-zealand-books-excellence-recognised/index.html
+layout: layout.njk
 ---
 New Zealand Book's Excellence Recognised
 ========================================

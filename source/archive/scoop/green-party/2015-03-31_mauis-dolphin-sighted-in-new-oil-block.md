@@ -1,9 +1,12 @@
 ---
 slug: mauis-dolphin-sighted-in-new-oil-block
-title: "Maui's dolphin sighted in new oil block"
-date: 2015-03-31
-source-url: https://www.scoop.co.nz/stories/PA1503/S00459/mauis-dolphin-sighted-in-new-oil-block.htm
+title: Maui's dolphin sighted in new oil block
+date: 2015-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1503/S00459/mauis-dolphin-sighted-in-new-oil-block.htm
 author: green-party
+permalink: /archive/2015/03/31/mauis-dolphin-sighted-in-new-oil-block/index.html
+layout: layout.njk
 ---
 Maui's dolphin sighted in new oil block
 =======================================

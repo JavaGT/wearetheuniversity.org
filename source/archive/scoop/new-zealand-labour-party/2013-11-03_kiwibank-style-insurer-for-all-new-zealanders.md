@@ -1,9 +1,12 @@
 ---
 slug: kiwibank-style-insurer-for-all-new-zealanders
-title: "KiwiBank-style insurer for all New Zealanders"
-date: 2013-11-03
-source-url: https://www.scoop.co.nz/stories/PA1311/S00022/kiwibank-style-insurer-for-all-new-zealanders.htm
+title: KiwiBank-style insurer for all New Zealanders
+date: 2013-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1311/S00022/kiwibank-style-insurer-for-all-new-zealanders.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/11/03/kiwibank-style-insurer-for-all-new-zealanders/index.html
+layout: layout.njk
 ---
 KiwiBank-style insurer for all New Zealanders
 =============================================

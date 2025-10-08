@@ -1,9 +1,12 @@
 ---
 slug: acts-campaign-to-defeat-acc-nationalisation
-title: "ACT's Campaign To Defeat ACC Nationalisation"
-date: 2000-01-31
-source-url: https://www.scoop.co.nz/stories/PA0001/S00157/acts-campaign-to-defeat-acc-nationalisation.htm
+title: ACT's Campaign To Defeat ACC Nationalisation
+date: 2000-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0001/S00157/acts-campaign-to-defeat-acc-nationalisation.htm
 author: act-new-zealand
+permalink: /archive/2000/01/31/acts-campaign-to-defeat-acc-nationalisation/index.html
+layout: layout.njk
 ---
 ACT's Campaign To Defeat ACC Nationalisation
 ============================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-lecturer-named-supreme-winner
-title: "Massey lecturer named supreme winner"
-date: 2008-07-17
-source-url: https://www.scoop.co.nz/stories/ED0807/S00052/massey-lecturer-named-supreme-winner.htm
+title: Massey lecturer named supreme winner
+date: 2008-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0807/S00052/massey-lecturer-named-supreme-winner.htm
 author: massey-university
+permalink: /archive/2008/07/17/massey-lecturer-named-supreme-winner/index.html
+layout: layout.njk
 ---
 Massey lecturer named supreme winner
 ====================================

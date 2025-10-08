@@ -1,9 +1,12 @@
 ---
 slug: dairy-data-could-answer-carbon-questions
-title: "Dairy data could answer carbon questions"
-date: 2012-05-24
-source-url: https://www.scoop.co.nz/stories/SC1205/S00050/dairy-data-could-answer-carbon-questions.htm
+title: Dairy data could answer carbon questions
+date: 2012-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1205/S00050/dairy-data-could-answer-carbon-questions.htm
 author: university-of-waikato
+permalink: /archive/2012/05/24/dairy-data-could-answer-carbon-questions/index.html
+layout: layout.njk
 ---
 Dairy data could answer carbon questions
 ========================================

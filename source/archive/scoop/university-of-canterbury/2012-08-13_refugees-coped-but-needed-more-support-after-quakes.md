@@ -1,9 +1,13 @@
 ---
 slug: refugees-coped-but-needed-more-support-after-quakes
-title: "Refugees coped but needed more support after quakes"
-date: 2012-08-13
-source-url: https://www.scoop.co.nz/stories/AK1208/S00268/refugees-coped-but-needed-more-support-after-quakes.htm
+title: Refugees coped but needed more support after quakes
+date: 2012-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1208/S00268/refugees-coped-but-needed-more-support-after-quakes.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/08/13/refugees-coped-but-needed-more-support-after-quakes/index.html
+layout: layout.njk
 ---
 Refugees coped but needed more support after quakes
 ===================================================

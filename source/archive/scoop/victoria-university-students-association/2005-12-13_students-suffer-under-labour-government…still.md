@@ -1,9 +1,12 @@
 ---
 slug: students-suffer-under-labour-government…still
-title: "Students suffer under Labour government…still"
-date: 2005-12-13
-source-url: https://www.scoop.co.nz/stories/ED0512/S00061/students-suffer-under-labour-governmentstill.htm
+title: Students suffer under Labour government…still
+date: 2005-12-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0512/S00061/students-suffer-under-labour-governmentstill.htm
 author: victoria-university-students-association
+permalink: /archive/2005/12/13/students-suffer-under-labour-government/index.html
+layout: layout.njk
 ---
 Students suffer under Labour government…still
 =============================================

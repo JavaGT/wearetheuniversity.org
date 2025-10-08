@@ -1,9 +1,12 @@
 ---
 slug: parents-schools-teachers-oppose-bulk-funding
-title: "Parents, schools, teachers oppose bulk funding"
-date: 2016-09-20
-source-url: https://www.scoop.co.nz/stories/PA1609/S00356/parents-schools-teachers-oppose-bulk-funding.htm
+title: Parents, schools, teachers oppose bulk funding
+date: 2016-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1609/S00356/parents-schools-teachers-oppose-bulk-funding.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/09/20/parents-schools-teachers-oppose-bulk-funding/index.html
+layout: layout.njk
 ---
 Parents, schools, teachers oppose bulk funding
 ==============================================

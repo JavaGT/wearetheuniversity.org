@@ -1,9 +1,12 @@
 ---
 slug: lower-taxes-will-ease-student-debt-burden
-title: "Lower Taxes Will Ease Student Debt Burden"
-date: 2002-01-28
-source-url: https://www.scoop.co.nz/stories/PA0201/S00194/lower-taxes-will-ease-student-debt-burden.htm
+title: Lower Taxes Will Ease Student Debt Burden
+date: 2002-01-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00194/lower-taxes-will-ease-student-debt-burden.htm
 author: act-new-zealand
+permalink: /archive/2002/01/28/lower-taxes-will-ease-student-debt-burden/index.html
+layout: layout.njk
 ---
 Lower Taxes Will Ease Student Debt Burden
 =========================================

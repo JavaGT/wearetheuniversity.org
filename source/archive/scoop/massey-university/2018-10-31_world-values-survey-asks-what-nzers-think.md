@@ -1,9 +1,12 @@
 ---
 slug: world-values-survey-asks-what-nzers-think
-title: "World Values Survey asks what NZers think"
-date: 2018-10-31
-source-url: https://www.scoop.co.nz/stories/CU1810/S00391/world-values-survey-asks-what-nzers-think.htm
+title: World Values Survey asks what NZers think
+date: 2018-10-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1810/S00391/world-values-survey-asks-what-nzers-think.htm
 author: massey-university
+permalink: /archive/2018/10/31/world-values-survey-asks-what-nzers-think/index.html
+layout: layout.njk
 ---
 World Values Survey asks what NZers think
 =========================================

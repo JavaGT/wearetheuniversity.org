@@ -1,9 +1,12 @@
 ---
 slug: cataract-treatment-in-the-blink-of-an-eye
-title: "Cataract treatment in the blink of an eye"
-date: 2005-05-04
-source-url: https://www.scoop.co.nz/stories/GE0505/S00024/cataract-treatment-in-the-blink-of-an-eye.htm
+title: Cataract treatment in the blink of an eye
+date: 2005-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0505/S00024/cataract-treatment-in-the-blink-of-an-eye.htm
 author: university-of-canterbury
+permalink: /archive/2005/05/04/cataract-treatment-in-the-blink-of-an-eye/index.html
+layout: layout.njk
 ---
 Cataract treatment in the blink of an eye
 =========================================

@@ -1,9 +1,13 @@
 ---
 slug: budgeting-service-needs-more-funding-now-bradford
-title: "Budgeting service needs more funding now: Bradford"
-date: 2005-07-14
-source-url: https://www.scoop.co.nz/stories/PA0507/S00292/budgeting-service-needs-more-funding-now-bradford.htm
+title: 'Budgeting service needs more funding now: Bradford'
+date: 2005-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00292/budgeting-service-needs-more-funding-now-bradford.htm
 author: green-party
+permalink: >-
+  /archive/2005/07/14/budgeting-service-needs-more-funding-now-bradford/index.html
+layout: layout.njk
 ---
 Budgeting service needs more funding now: Bradford
 ==================================================

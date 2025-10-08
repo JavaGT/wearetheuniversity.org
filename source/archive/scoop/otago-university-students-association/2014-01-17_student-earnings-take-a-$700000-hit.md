@@ -1,9 +1,12 @@
 ---
 slug: student-earnings-take-a-$700000-hit
-title: "Student Earnings Take a $700,000 Hit"
-date: 2014-01-17
-source-url: https://www.scoop.co.nz/stories/AK1401/S00381/student-earnings-take-a-700000-hit.htm
+title: Student Earnings Take a $700,000 Hit
+date: 2014-01-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1401/S00381/student-earnings-take-a-700000-hit.htm
 author: otago-university-students-association
+permalink: /archive/2014/01/17/student-earnings-take-a-/index.html
+layout: layout.njk
 ---
 Student Earnings Take a $700,000 Hit
 ====================================

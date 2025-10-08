@@ -1,9 +1,12 @@
 ---
 slug: pay-employment-equality-review-for-massey
-title: "Pay, Employment Equality Review for Massey"
-date: 2009-11-19
-source-url: https://www.scoop.co.nz/stories/ED0911/S00084/pay-employment-equality-review-for-massey.htm
+title: Pay, Employment Equality Review for Massey
+date: 2009-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0911/S00084/pay-employment-equality-review-for-massey.htm
 author: massey-university
+permalink: /archive/2009/11/19/pay-employment-equality-review-for-massey/index.html
+layout: layout.njk
 ---
 Pay, Employment Equality Review for Massey
 ==========================================

@@ -1,9 +1,11 @@
 ---
 slug: canterbury-comes-to-auckland
-title: "Canterbury comes to Auckland"
-date: 2015-02-17
+title: Canterbury comes to Auckland
+date: 2015-02-17T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1502/S00056/canterbury-comes-to-auckland.htm
 author: university-of-canterbury
+permalink: /archive/2015/02/17/canterbury-comes-to-auckland/index.html
+layout: layout.njk
 ---
 Canterbury comes to Auckland
 ============================

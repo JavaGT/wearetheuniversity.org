@@ -1,9 +1,12 @@
 ---
 slug: university-required-to-bargain
-title: "University required to bargain"
-date: 2005-05-04
-source-url: https://www.scoop.co.nz/stories/ED0505/S00013/university-required-to-bargain.htm
+title: University required to bargain
+date: 2005-05-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0505/S00013/university-required-to-bargain.htm
 author: association-of-university-staff
+permalink: /archive/2005/05/04/university-required-to-bargain/index.html
+layout: layout.njk
 ---
 University required to bargain
 ==============================

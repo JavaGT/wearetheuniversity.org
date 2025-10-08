@@ -1,9 +1,13 @@
 ---
 slug: treasury-business-nz-support-education-investment
-title: "Treasury, Business NZ support education investment"
-date: 2009-03-03
-source-url: https://www.scoop.co.nz/stories/ED0903/S00010/treasury-business-nz-support-education-investment.htm
+title: Treasury, Business NZ support education investment
+date: 2009-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00010/treasury-business-nz-support-education-investment.htm
 author: nzvcc
+permalink: >-
+  /archive/2009/03/03/treasury-business-nz-support-education-investment/index.html
+layout: layout.njk
 ---
 Treasury, Business NZ support education investment
 ==================================================

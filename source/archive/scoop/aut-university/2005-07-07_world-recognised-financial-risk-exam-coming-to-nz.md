@@ -1,9 +1,13 @@
 ---
 slug: world-recognised-financial-risk-exam-coming-to-nz
-title: "World recognised financial risk exam coming to NZ"
-date: 2005-07-07
-source-url: https://www.scoop.co.nz/stories/ED0507/S00032/world-recognised-financial-risk-exam-coming-to-nz.htm
+title: World recognised financial risk exam coming to NZ
+date: 2005-07-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0507/S00032/world-recognised-financial-risk-exam-coming-to-nz.htm
 author: aut-university
+permalink: >-
+  /archive/2005/07/07/world-recognised-financial-risk-exam-coming-to-nz/index.html
+layout: layout.njk
 ---
 World recognised financial risk exam coming to NZ
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: labours-economic-programme-sorely-needed
-title: "Labour's economic programme sorely needed"
-date: 1999-11-10
-source-url: https://www.scoop.co.nz/stories/PA9911/S00251/labours-economic-programme-sorely-needed.htm
+title: Labour's economic programme sorely needed
+date: 1999-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00251/labours-economic-programme-sorely-needed.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/11/10/labours-economic-programme-sorely-needed/index.html
+layout: layout.njk
 ---
 Labour's economic programme sorely needed
 =========================================

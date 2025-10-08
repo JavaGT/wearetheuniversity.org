@@ -1,9 +1,13 @@
 ---
 slug: raihania-wants-te-reo-put-at-the-core-on-the-coast
-title: "Raihania wants te reo put at the core on the coast"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/PA1107/S00082/raihania-wants-te-reo-put-at-the-core-on-the-coast.htm
+title: Raihania wants te reo put at the core on the coast
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1107/S00082/raihania-wants-te-reo-put-at-the-core-on-the-coast.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/07/06/raihania-wants-te-reo-put-at-the-core-on-the-coast/index.html
+layout: layout.njk
 ---
 Raihania wants te reo put at the core on the coast
 ==================================================

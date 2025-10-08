@@ -1,9 +1,13 @@
 ---
 slug: sun-protection-poor-for-nz-secondary-school-students
-title: "Sun protection poor for NZ secondary school students"
-date: 2016-03-31
-source-url: https://www.scoop.co.nz/stories/ED1603/S00095/sun-protection-poor-for-nz-secondary-school-students.htm
+title: Sun protection poor for NZ secondary school students
+date: 2016-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1603/S00095/sun-protection-poor-for-nz-secondary-school-students.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/03/31/sun-protection-poor-for-nz-secondary-school-students/index.html
+layout: layout.njk
 ---
 Sun protection poor for NZ secondary school students
 ====================================================

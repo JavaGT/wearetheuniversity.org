@@ -1,9 +1,13 @@
 ---
 slug: research-to-help-regions-plan-for-tourism-growth
-title: "Research to help regions plan for tourism growth"
-date: 2018-11-07
-source-url: https://www.scoop.co.nz/stories/BU1811/S00195/research-to-help-regions-plan-for-tourism-growth.htm
+title: Research to help regions plan for tourism growth
+date: 2018-11-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1811/S00195/research-to-help-regions-plan-for-tourism-growth.htm
 author: lincoln-university
+permalink: >-
+  /archive/2018/11/07/research-to-help-regions-plan-for-tourism-growth/index.html
+layout: layout.njk
 ---
 Research to help regions plan for tourism growth
 ================================================

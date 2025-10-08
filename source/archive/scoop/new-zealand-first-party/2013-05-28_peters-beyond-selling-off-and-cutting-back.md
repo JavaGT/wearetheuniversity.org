@@ -1,9 +1,12 @@
 ---
 slug: peters-beyond-selling-off-and-cutting-back
-title: "Peters: Beyond Selling Off and Cutting Back"
-date: 2013-05-28
-source-url: https://www.scoop.co.nz/stories/PA1305/S00550/peters-beyond-selling-off-and-cutting-back.htm
+title: 'Peters: Beyond Selling Off and Cutting Back'
+date: 2013-05-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1305/S00550/peters-beyond-selling-off-and-cutting-back.htm
 author: new-zealand-first-party
+permalink: /archive/2013/05/28/peters-beyond-selling-off-and-cutting-back/index.html
+layout: layout.njk
 ---
 Peters: Beyond Selling Off and Cutting Back
 ===========================================

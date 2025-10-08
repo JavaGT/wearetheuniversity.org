@@ -1,9 +1,12 @@
 ---
 slug: local-māori-artist-goes-abroad
-title: "Local Māori artist goes abroad"
-date: 2015-08-17
-source-url: https://www.scoop.co.nz/stories/CU1508/S00234/local-maori-artist-goes-abroad.htm
+title: Local Māori artist goes abroad
+date: 2015-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1508/S00234/local-maori-artist-goes-abroad.htm
 author: university-of-waikato
+permalink: /archive/2015/08/17/local-m/index.html
+layout: layout.njk
 ---
 Local Māori artist goes abroad
 ==============================

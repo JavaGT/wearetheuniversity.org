@@ -1,9 +1,12 @@
 ---
 slug: auts-first-commercial-biotech-product
-title: "AUT's first commercial biotech product"
-date: 2005-02-10
-source-url: https://www.scoop.co.nz/stories/SC0502/S00034/auts-first-commercial-biotech-product.htm
+title: AUT's first commercial biotech product
+date: 2005-02-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00034/auts-first-commercial-biotech-product.htm
 author: aut-university
+permalink: /archive/2005/02/10/auts-first-commercial-biotech-product/index.html
+layout: layout.njk
 ---
 AUT's first commercial biotech product
 ======================================

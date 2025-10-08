@@ -1,9 +1,12 @@
 ---
 slug: mallard-should-have-listened-to-communities
-title: "Mallard should have listened to communities"
-date: 2007-03-08
-source-url: https://www.scoop.co.nz/stories/PA0703/S00147/mallard-should-have-listened-to-communities.htm
+title: Mallard should have listened to communities
+date: 2007-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00147/mallard-should-have-listened-to-communities.htm
 author: new-zealand-national-party
+permalink: /archive/2007/03/08/mallard-should-have-listened-to-communities/index.html
+layout: layout.njk
 ---
 Mallard should have listened to communities
 ===========================================

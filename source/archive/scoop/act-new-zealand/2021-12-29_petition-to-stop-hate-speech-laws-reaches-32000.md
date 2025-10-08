@@ -1,9 +1,12 @@
 ---
 slug: petition-to-stop-hate-speech-laws-reaches-32000
-title: "Petition To Stop Hate Speech Laws Reaches 32,000"
-date: 2021-12-29
-source-url: https://www.scoop.co.nz/stories/PA2112/S00189/petition-to-stop-hate-speech-laws-reaches-32000.htm
+title: Petition To Stop Hate Speech Laws Reaches 32,000
+date: 2021-12-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2112/S00189/petition-to-stop-hate-speech-laws-reaches-32000.htm
 author: act-new-zealand
+permalink: /archive/2021/12/29/petition-to-stop-hate-speech-laws-reaches-32000/index.html
+layout: layout.njk
 ---
 Petition To Stop Hate Speech Laws Reaches 32,000
 ================================================

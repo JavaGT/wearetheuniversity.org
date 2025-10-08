@@ -1,9 +1,13 @@
 ---
 slug: rental-market-continues-to-tighten-new-report-shows
-title: "Rental market continues to tighten, new report shows"
-date: 2018-08-01
-source-url: https://www.scoop.co.nz/stories/BU1808/S00040/rental-market-continues-to-tighten-new-report-shows.htm
+title: Rental market continues to tighten, new report shows
+date: 2018-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1808/S00040/rental-market-continues-to-tighten-new-report-shows.htm
 author: massey-university
+permalink: >-
+  /archive/2018/08/01/rental-market-continues-to-tighten-new-report-shows/index.html
+layout: layout.njk
 ---
 Rental market continues to tighten, new report shows
 ====================================================

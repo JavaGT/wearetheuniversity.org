@@ -1,9 +1,12 @@
 ---
 slug: students-congratulate-labour-led-government
-title: "Students congratulate Labour-led Government"
-date: 2017-10-20
-source-url: https://www.scoop.co.nz/stories/PO1710/S00147/students-congratulate-labour-led-government.htm
+title: Students congratulate Labour-led Government
+date: 2017-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00147/students-congratulate-labour-led-government.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2017/10/20/students-congratulate-labour-led-government/index.html
+layout: layout.njk
 ---
 Students congratulate Labour-led Government
 ===========================================

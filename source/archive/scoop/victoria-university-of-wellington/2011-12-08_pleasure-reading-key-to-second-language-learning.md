@@ -1,9 +1,13 @@
 ---
 slug: pleasure-reading-key-to-second-language-learning
-title: "\"Pleasure reading\" key to second language learning"
-date: 2011-12-08
-source-url: https://www.scoop.co.nz/stories/ED1112/S00042/pleasure-reading-key-to-second-language-learning.htm
+title: '"Pleasure reading" key to second language learning'
+date: 2011-12-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1112/S00042/pleasure-reading-key-to-second-language-learning.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/12/08/pleasure-reading-key-to-second-language-learning/index.html
+layout: layout.njk
 ---
 “Pleasure reading” key to second language learning
 ==================================================

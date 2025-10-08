@@ -1,9 +1,13 @@
 ---
 slug: primary-teachers-and-principals-vote-to-put-kids-first
-title: "Primary teachers and principals vote to put kids first"
-date: 2014-08-21
-source-url: https://www.scoop.co.nz/stories/PO1408/S00362/primary-teachers-and-principals-vote-to-put-kids-first.htm
+title: Primary teachers and principals vote to put kids first
+date: 2014-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1408/S00362/primary-teachers-and-principals-vote-to-put-kids-first.htm
 author: nzei
+permalink: >-
+  /archive/2014/08/21/primary-teachers-and-principals-vote-to-put-kids-first/index.html
+layout: layout.njk
 ---
 Primary teachers and principals vote to put kids first
 ======================================================

@@ -1,9 +1,13 @@
 ---
 slug: students-expect-action-from-new-tertiary-minister
-title: "Students Expect Action from New Tertiary Minister"
-date: 2007-11-01
-source-url: https://www.scoop.co.nz/stories/ED0711/S00006/students-expect-action-from-new-tertiary-minister.htm
+title: Students Expect Action from New Tertiary Minister
+date: 2007-11-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0711/S00006/students-expect-action-from-new-tertiary-minister.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2007/11/01/students-expect-action-from-new-tertiary-minister/index.html
+layout: layout.njk
 ---
 Students Expect Action from New Tertiary Minister
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: massey-vets-make-their-mark-on-hollywood
-title: "Massey vets make their mark on Hollywood"
-date: 2012-08-22
-source-url: https://www.scoop.co.nz/stories/ED1208/S00114/massey-vets-make-their-mark-on-hollywood.htm
+title: Massey vets make their mark on Hollywood
+date: 2012-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1208/S00114/massey-vets-make-their-mark-on-hollywood.htm
 author: massey-university
+permalink: /archive/2012/08/22/massey-vets-make-their-mark-on-hollywood/index.html
+layout: layout.njk
 ---
 Massey vets make their mark on Hollywood
 ========================================

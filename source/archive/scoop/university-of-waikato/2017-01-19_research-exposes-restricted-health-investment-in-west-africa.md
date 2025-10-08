@@ -1,9 +1,13 @@
 ---
 slug: research-exposes-restricted-health-investment-in-west-africa
-title: "Research exposes restricted health investment in West Africa"
-date: 2017-01-19
-source-url: https://www.scoop.co.nz/stories/ED1701/S00024/research-exposes-restricted-health-investment-in-west-africa.htm
+title: Research exposes restricted health investment in West Africa
+date: 2017-01-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1701/S00024/research-exposes-restricted-health-investment-in-west-africa.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2017/01/19/research-exposes-restricted-health-investment-in-west-africa/index.html
+layout: layout.njk
 ---
 Research exposes restricted health investment in West Africa
 ============================================================

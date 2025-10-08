@@ -1,9 +1,12 @@
 ---
 slug: nats-launch-campaign-with-grey-power-over-power
-title: "Nats launch campaign with Grey Power Over Power"
-date: 2004-06-09
-source-url: https://www.scoop.co.nz/stories/PA0406/S00123/nats-launch-campaign-with-grey-power-over-power.htm
+title: Nats launch campaign with Grey Power Over Power
+date: 2004-06-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0406/S00123/nats-launch-campaign-with-grey-power-over-power.htm
 author: new-zealand-national-party
+permalink: /archive/2004/06/09/nats-launch-campaign-with-grey-power-over-power/index.html
+layout: layout.njk
 ---
 Nats launch campaign with Grey Power Over Power
 ===============================================

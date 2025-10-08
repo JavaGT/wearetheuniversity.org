@@ -1,9 +1,13 @@
 ---
 slug: launch-of-the-te-whakamotuhaketanga-hapu-strategy
-title: "Launch of the Te Whakamotuhaketanga Hapu Strategy"
-date: 2010-07-22
-source-url: https://www.scoop.co.nz/stories/PA1007/S00352/launch-of-the-te-whakamotuhaketanga-hapu-strategy.htm
+title: Launch of the Te Whakamotuhaketanga Hapu Strategy
+date: 2010-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1007/S00352/launch-of-the-te-whakamotuhaketanga-hapu-strategy.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2010/07/22/launch-of-the-te-whakamotuhaketanga-hapu-strategy/index.html
+layout: layout.njk
 ---
 Launch of the Te Whakamotuhaketanga Hapu Strategy
 =================================================

@@ -1,9 +1,12 @@
 ---
 slug: minister-punctures-tyre-recycling-scheme
-title: "Minister punctures tyre recycling scheme"
-date: 2015-06-19
-source-url: https://www.scoop.co.nz/stories/PA1506/S00342/minister-punctures-tyre-recycling-scheme.htm
+title: Minister punctures tyre recycling scheme
+date: 2015-06-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1506/S00342/minister-punctures-tyre-recycling-scheme.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/06/19/minister-punctures-tyre-recycling-scheme/index.html
+layout: layout.njk
 ---
 Minister punctures tyre recycling scheme
 ========================================

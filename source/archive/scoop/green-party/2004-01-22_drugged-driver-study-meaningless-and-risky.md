@@ -1,9 +1,12 @@
 ---
 slug: drugged-driver-study-meaningless-and-risky
-title: "'Drugged driver' study meaningless and risky"
-date: 2004-01-22
-source-url: https://www.scoop.co.nz/stories/PA0401/S00164/drugged-driver-study-meaningless-and-risky.htm
+title: '''Drugged driver'' study meaningless and risky'
+date: 2004-01-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0401/S00164/drugged-driver-study-meaningless-and-risky.htm
 author: green-party
+permalink: /archive/2004/01/22/drugged-driver-study-meaningless-and-risky/index.html
+layout: layout.njk
 ---
 'Drugged driver' study meaningless and risky
 ============================================

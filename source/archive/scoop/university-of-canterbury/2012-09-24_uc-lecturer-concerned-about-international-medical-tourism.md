@@ -1,9 +1,13 @@
 ---
 slug: uc-lecturer-concerned-about-international-medical-tourism
-title: "UC lecturer concerned about international medical tourism"
-date: 2012-09-24
-source-url: https://www.scoop.co.nz/stories/GE1209/S00100/uc-lecturer-concerned-about-international-medical-tourism.htm
+title: UC lecturer concerned about international medical tourism
+date: 2012-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1209/S00100/uc-lecturer-concerned-about-international-medical-tourism.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/09/24/uc-lecturer-concerned-about-international-medical-tourism/index.html
+layout: layout.njk
 ---
 UC lecturer concerned about international medical tourism
 =========================================================

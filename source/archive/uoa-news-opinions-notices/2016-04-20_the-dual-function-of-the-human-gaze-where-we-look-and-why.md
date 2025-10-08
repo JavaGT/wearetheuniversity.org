@@ -1,8 +1,12 @@
 ---
 slug: the-dual-function-of-the-human-gaze-where-we-look-and-why
-title: "The dual function of the human gaze: where we look and why"
-date: 2016-04-20
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/the-dual-function-of-the-human-gaze.html
+title: 'The dual function of the human gaze: where we look and why'
+date: 2016-04-20T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/04/the-dual-function-of-the-human-gaze.html
+permalink: >-
+  /archive/2016/04/20/the-dual-function-of-the-human-gaze-where-we-look-and-why/index.html
+layout: layout.njk
 ---
 The dual function of the human gaze: where we look and why
 ==========================================================

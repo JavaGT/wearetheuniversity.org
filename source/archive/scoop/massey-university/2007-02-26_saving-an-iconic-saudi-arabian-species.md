@@ -1,9 +1,12 @@
 ---
 slug: saving-an-iconic-saudi-arabian-species
-title: "Saving an iconic Saudi Arabian species"
-date: 2007-02-26
-source-url: https://www.scoop.co.nz/stories/SC0702/S00055/saving-an-iconic-saudi-arabian-species.htm
+title: Saving an iconic Saudi Arabian species
+date: 2007-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0702/S00055/saving-an-iconic-saudi-arabian-species.htm
 author: massey-university
+permalink: /archive/2007/02/26/saving-an-iconic-saudi-arabian-species/index.html
+layout: layout.njk
 ---
 Saving an iconic Saudi Arabian species
 ======================================

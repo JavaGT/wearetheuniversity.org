@@ -1,9 +1,12 @@
 ---
 slug: australia-wants-our-skills-not-our-bills
-title: "Australia wants our skills not our bills"
-date: 2001-04-05
-source-url: https://www.scoop.co.nz/stories/PA0104/S00080/australia-wants-our-skills-not-our-bills.htm
+title: Australia wants our skills not our bills
+date: 2001-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00080/australia-wants-our-skills-not-our-bills.htm
 author: new-zealand-national-party
+permalink: /archive/2001/04/05/australia-wants-our-skills-not-our-bills/index.html
+layout: layout.njk
 ---
 Australia wants our skills not our bills
 ========================================

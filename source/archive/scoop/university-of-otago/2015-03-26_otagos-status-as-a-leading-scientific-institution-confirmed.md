@@ -1,9 +1,13 @@
 ---
 slug: otagos-status-as-a-leading-scientific-institution-confirmed
-title: "Otago’s status as a leading scientific institution confirmed"
-date: 2015-03-26
-source-url: https://www.scoop.co.nz/stories/SC1503/S00093/otagos-status-as-a-leading-scientific-institution-confirmed.htm
+title: Otago’s status as a leading scientific institution confirmed
+date: 2015-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1503/S00093/otagos-status-as-a-leading-scientific-institution-confirmed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2015/03/26/otagos-status-as-a-leading-scientific-institution-confirmed/index.html
+layout: layout.njk
 ---
 Otago’s status as a leading scientific institution confirmed
 ============================================================

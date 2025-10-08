@@ -1,9 +1,13 @@
 ---
 slug: virtual-reality-app-trial-shown-to-reduce-common-phobias
-title: "Virtual Reality App Trial Shown To Reduce Common Phobias"
-date: 2022-07-14
-source-url: https://www.scoop.co.nz/stories/SC2207/S00021/virtual-reality-app-trial-shown-to-reduce-common-phobias.htm
+title: Virtual Reality App Trial Shown To Reduce Common Phobias
+date: 2022-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2207/S00021/virtual-reality-app-trial-shown-to-reduce-common-phobias.htm
 author: university-of-otago
+permalink: >-
+  /archive/2022/07/14/virtual-reality-app-trial-shown-to-reduce-common-phobias/index.html
+layout: layout.njk
 ---
 Virtual Reality App Trial Shown To Reduce Common Phobias
 ========================================================

@@ -1,9 +1,11 @@
 ---
 slug: its-a-jungle-out-there
-title: "It's A Jungle Out There"
-date: 2004-08-26
+title: It's A Jungle Out There
+date: 2004-08-26T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0408/S00463/its-a-jungle-out-there.htm
 author: act-new-zealand
+permalink: /archive/2004/08/26/its-a-jungle-out-there/index.html
+layout: layout.njk
 ---
 It's A Jungle Out There
 =======================

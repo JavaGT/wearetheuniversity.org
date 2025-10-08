@@ -1,9 +1,12 @@
 ---
 slug: women-students-support-prostitution-reform
-title: "Women Students Support Prostitution Reform"
-date: 2003-04-30
-source-url: https://www.scoop.co.nz/stories/ED0304/S00057/women-students-support-prostitution-reform.htm
+title: Women Students Support Prostitution Reform
+date: 2003-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00057/women-students-support-prostitution-reform.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/04/30/women-students-support-prostitution-reform/index.html
+layout: layout.njk
 ---
 Women Students Support Prostitution Reform
 ==========================================

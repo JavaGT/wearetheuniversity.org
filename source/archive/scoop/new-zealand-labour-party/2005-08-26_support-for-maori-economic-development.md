@@ -1,9 +1,12 @@
 ---
 slug: support-for-maori-economic-development
-title: "Support for Maori economic development"
-date: 2005-08-26
-source-url: https://www.scoop.co.nz/stories/PA0508/S00701/support-for-maori-economic-development.htm
+title: Support for Maori economic development
+date: 2005-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00701/support-for-maori-economic-development.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/26/support-for-maori-economic-development/index.html
+layout: layout.njk
 ---
 Support for Maori economic development
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: job-losses-grim-news-for-thousands-of-coasters
-title: "Job Losses Grim News For Thousands Of Coasters"
-date: 2012-10-25
-source-url: https://www.scoop.co.nz/stories/PA1210/S00444/job-losses-grim-news-for-thousands-of-coasters.htm
+title: Job Losses Grim News For Thousands Of Coasters
+date: 2012-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1210/S00444/job-losses-grim-news-for-thousands-of-coasters.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/10/25/job-losses-grim-news-for-thousands-of-coasters/index.html
+layout: layout.njk
 ---
 Job Losses Grim News For Thousands Of Coasters
 ==============================================

@@ -1,9 +1,13 @@
 ---
 slug: nzctu-sympathy-and-support-for-people-of-canterbury
-title: "NZCTU sympathy and support for people of Canterbury"
-date: 2011-02-24
-source-url: https://www.scoop.co.nz/stories/AK1102/S00975/nzctu-sympathy-and-support-for-people-of-canterbury.htm
+title: NZCTU sympathy and support for people of Canterbury
+date: 2011-02-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00975/nzctu-sympathy-and-support-for-people-of-canterbury.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2011/02/24/nzctu-sympathy-and-support-for-people-of-canterbury/index.html
+layout: layout.njk
 ---
 NZCTU sympathy and support for people of Canterbury
 ===================================================

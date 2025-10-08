@@ -1,9 +1,12 @@
 ---
 slug: uc-seeking-fiscal-stability-despite-challenges
-title: "UC seeking fiscal stability despite challenges"
-date: 2013-08-29
-source-url: https://www.scoop.co.nz/stories/AK1308/S00840/uc-seeking-fiscal-stability-despite-challenges.htm
+title: UC seeking fiscal stability despite challenges
+date: 2013-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1308/S00840/uc-seeking-fiscal-stability-despite-challenges.htm
 author: university-of-canterbury
+permalink: /archive/2013/08/29/uc-seeking-fiscal-stability-despite-challenges/index.html
+layout: layout.njk
 ---
 UC seeking fiscal stability despite challenges
 ==============================================

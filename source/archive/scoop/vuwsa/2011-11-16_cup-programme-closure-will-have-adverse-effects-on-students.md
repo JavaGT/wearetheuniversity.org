@@ -1,9 +1,13 @@
 ---
-slug: cup-programme-closure-will-have-adverse-effects-on-students
-title: "CUP Programme Closure will have adverse effects on students"
-date: 2011-11-16
-source-url: https://www.scoop.co.nz/stories/ED1111/S00106/cup-programme-closure-will-have-adverse-effects-on-students.htm
+slug: cup-programme-closure-will-have-adverse-effects-on-students-2
+title: CUP Programme Closure will have adverse effects on students
+date: 2011-11-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00106/cup-programme-closure-will-have-adverse-effects-on-students.htm
 author: vuwsa
+permalink: >-
+  /archive/2011/11/16/cup-programme-closure-will-have-adverse-effects-on-students-2/index.html
+layout: layout.njk
 ---
 CUP Programme Closure will have adverse effects on students
 ===========================================================

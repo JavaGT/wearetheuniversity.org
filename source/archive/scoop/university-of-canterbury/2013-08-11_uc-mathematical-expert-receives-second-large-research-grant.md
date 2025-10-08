@@ -1,9 +1,13 @@
 ---
 slug: uc-mathematical-expert-receives-second-large-research-grant
-title: "UC mathematical expert receives second large research grant"
-date: 2013-08-11
-source-url: https://www.scoop.co.nz/stories/ED1308/S00047/uc-mathematical-expert-receives-second-large-research-grant.htm
+title: UC mathematical expert receives second large research grant
+date: 2013-08-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1308/S00047/uc-mathematical-expert-receives-second-large-research-grant.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2013/08/11/uc-mathematical-expert-receives-second-large-research-grant/index.html
+layout: layout.njk
 ---
 UC mathematical expert receives second large research grant
 ===========================================================

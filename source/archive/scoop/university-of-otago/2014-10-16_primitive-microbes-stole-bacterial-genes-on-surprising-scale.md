@@ -1,9 +1,13 @@
 ---
 slug: primitive-microbes-stole-bacterial-genes-on-surprising-scale
-title: "Primitive microbes stole bacterial genes on surprising scale"
-date: 2014-10-16
-source-url: https://www.scoop.co.nz/stories/SC1410/S00054/primitive-microbes-stole-bacterial-genes-on-surprising-scale.htm
+title: Primitive microbes stole bacterial genes on surprising scale
+date: 2014-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1410/S00054/primitive-microbes-stole-bacterial-genes-on-surprising-scale.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/10/16/primitive-microbes-stole-bacterial-genes-on-surprising-scale/index.html
+layout: layout.njk
 ---
 Primitive microbes stole bacterial genes on surprising scale
 ============================================================

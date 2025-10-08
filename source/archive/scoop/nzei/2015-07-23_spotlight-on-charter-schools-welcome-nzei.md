@@ -1,9 +1,12 @@
 ---
 slug: spotlight-on-charter-schools-welcome-nzei
-title: "Spotlight on charter schools welcome - NZEI"
-date: 2015-07-23
-source-url: https://www.scoop.co.nz/stories/ED1507/S00107/spotlight-on-charter-schools-welcome-nzei.htm
+title: Spotlight on charter schools welcome - NZEI
+date: 2015-07-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1507/S00107/spotlight-on-charter-schools-welcome-nzei.htm
 author: nzei
+permalink: /archive/2015/07/23/spotlight-on-charter-schools-welcome-nzei/index.html
+layout: layout.njk
 ---
 Spotlight on charter schools welcome - NZEI
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: polytechs-merger-shortchanges-regional-students
-title: "Polytechs Merger Shortchanges Regional Students"
-date: 2015-11-11
-source-url: https://www.scoop.co.nz/stories/PA1511/S00192/polytechs-merger-shortchanges-regional-students.htm
+title: Polytechs Merger Shortchanges Regional Students
+date: 2015-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1511/S00192/polytechs-merger-shortchanges-regional-students.htm
 author: new-zealand-first-party
+permalink: /archive/2015/11/11/polytechs-merger-shortchanges-regional-students/index.html
+layout: layout.njk
 ---
 Polytechs Merger Shortchanges Regional Students
 ===============================================

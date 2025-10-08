@@ -1,9 +1,12 @@
 ---
 slug: the-māori-party-mourns-the-loss-of-dr-apirana-mahuika
-title: "The Māori Party mourns the loss of Dr Apirana Mahuika"
-date: 2015-02-09
-source-url: https://www.scoop.co.nz/stories/PA1502/S00077/the-maori-party-mourns-the-loss-of-dr-apirana-mahuika.htm
+title: The Māori Party mourns the loss of Dr Apirana Mahuika
+date: 2015-02-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00077/the-maori-party-mourns-the-loss-of-dr-apirana-mahuika.htm
 author: te-pati-maori
+permalink: /archive/2015/02/09/the-m/index.html
+layout: layout.njk
 ---
 The Māori Party mourns the loss of Dr Apirana Mahuika
 =====================================================

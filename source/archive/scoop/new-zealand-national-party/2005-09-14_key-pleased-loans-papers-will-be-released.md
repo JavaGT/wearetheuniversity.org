@@ -1,9 +1,12 @@
 ---
 slug: key-pleased-loans-papers-will-be-released
-title: "Key pleased loans papers will be released"
-date: 2005-09-14
-source-url: https://www.scoop.co.nz/stories/PA0509/S00363/key-pleased-loans-papers-will-be-released.htm
+title: Key pleased loans papers will be released
+date: 2005-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0509/S00363/key-pleased-loans-papers-will-be-released.htm
 author: new-zealand-national-party
+permalink: /archive/2005/09/14/key-pleased-loans-papers-will-be-released/index.html
+layout: layout.njk
 ---
 Key pleased loans papers will be released
 =========================================

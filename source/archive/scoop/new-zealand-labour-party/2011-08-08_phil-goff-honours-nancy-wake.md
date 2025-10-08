@@ -1,9 +1,11 @@
 ---
 slug: phil-goff-honours-nancy-wake
-title: "Phil Goff honours Nancy Wake"
-date: 2011-08-08
+title: Phil Goff honours Nancy Wake
+date: 2011-08-08T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1108/S00141/phil-goff-honours-nancy-wake.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/08/08/phil-goff-honours-nancy-wake/index.html
+layout: layout.njk
 ---
 Phil Goff honours Nancy Wake
 ============================

@@ -1,9 +1,13 @@
 ---
 slug: alternative-student-support-review-the-real-story
-title: "Alternative Student Support Review: The Real Story"
-date: 2003-10-30
-source-url: https://www.scoop.co.nz/stories/ED0310/S00117/alternative-student-support-review-the-real-story.htm
+title: 'Alternative Student Support Review: The Real Story'
+date: 2003-10-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0310/S00117/alternative-student-support-review-the-real-story.htm
 author: new-zealand-university-student-s-association
+permalink: >-
+  /archive/2003/10/30/alternative-student-support-review-the-real-story/index.html
+layout: layout.njk
 ---
 Alternative Student Support Review: The Real Story
 ==================================================

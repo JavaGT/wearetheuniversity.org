@@ -1,9 +1,12 @@
 ---
 slug: school-lunch-programme-being-set-up-to-fail
-title: "School Lunch Programme Being Set Up To Fail"
-date: 2024-06-12
-source-url: https://www.scoop.co.nz/stories/PA2406/S00069/school-lunch-programme-being-set-up-to-fail.htm
+title: School Lunch Programme Being Set Up To Fail
+date: 2024-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2406/S00069/school-lunch-programme-being-set-up-to-fail.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/06/12/school-lunch-programme-being-set-up-to-fail/index.html
+layout: layout.njk
 ---
 School Lunch Programme Being Set Up To Fail
 ===========================================
@@ -24,14 +27,7 @@ On 27 March, the Government considered a Cabinet Paper which included advice fro
 “David Seymour was gunning for the scrapping of the programme. He didn’t get his way, so instead he is stripping $107 million out and setting it up to fail.
 
 “The Cabinet Paper from 27 March includes advice from various agencies, including strong opposition to parring back the programme. But they chose to do it anyway.
-
-> Advertisement - scroll to continue reading
-> 
-> @media screen and (max-width: 768px) {.article-left-box {float: none; margin: 20px auto 20px auto; margin-left: calc( (100% - 300px) / 2 );}} @media screen and (max-width: 970px) {#article iframe { max-width: 100%;}} #article iframe { max-width: 100%;}
-> 
-> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493962836337-4'); });
-> 
-> “It’s baffling to understand why the Government went ahead with these changes, given the evidence in front of them and all of their talk about improving attendance. A full tummy can make a difference to a student’s learning and whether they are turning up to school.
+“It’s baffling to understand why the Government went ahead with these changes, given the evidence in front of them and all of their talk about improving attendance. A full tummy can make a difference to a student’s learning and whether they are turning up to school.
 
 “Taking good, healthy food out of the mouths of students in years seven and up, which are some of the most challenging school years, will only see worse outcomes for many young people.
 

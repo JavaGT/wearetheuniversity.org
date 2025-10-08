@@ -1,9 +1,12 @@
 ---
 slug: educations-invisible-army-celebrated
-title: "Education’s \"Invisible Army\" Celebrated"
-date: 2007-06-11
-source-url: https://www.scoop.co.nz/stories/ED0706/S00041/educations-invisible-army-celebrated.htm
+title: Education’s "Invisible Army" Celebrated
+date: 2007-06-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0706/S00041/educations-invisible-army-celebrated.htm
 author: nzei
+permalink: /archive/2007/06/11/educations-invisible-army-celebrated/index.html
+layout: layout.njk
 ---
 Education’s “Invisible Army” Celebrated
 =======================================

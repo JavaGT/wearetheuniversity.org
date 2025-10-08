@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-excellence-in-education
-title: "Gerry In The House: Excellence in education"
-date: 2005-04-15
-source-url: https://www.scoop.co.nz/stories/PA0504/S00362/gerry-in-the-house-excellence-in-education.htm
+title: 'Gerry In The House: Excellence in education'
+date: 2005-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0504/S00362/gerry-in-the-house-excellence-in-education.htm
 author: new-zealand-national-party
+permalink: /archive/2005/04/15/gerry-in-the-house-excellence-in-education/index.html
+layout: layout.njk
 ---
 Gerry In The House: Excellence in education
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: professor-delivers-inaugral-lecture
-title: "Professor Delivers Inaugral lecture"
-date: 2009-03-06
-source-url: https://www.scoop.co.nz/stories/ED0903/S00020/professor-delivers-inaugral-lecture.htm
+title: Professor Delivers Inaugral lecture
+date: 2009-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00020/professor-delivers-inaugral-lecture.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/03/06/professor-delivers-inaugral-lecture/index.html
+layout: layout.njk
 ---
 Professor Delivers Inaugral lecture
 ===================================

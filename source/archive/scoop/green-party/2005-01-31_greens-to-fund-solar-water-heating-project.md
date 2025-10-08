@@ -1,9 +1,12 @@
 ---
 slug: greens-to-fund-solar-water-heating-project
-title: "Greens To Fund Solar Water Heating Project"
-date: 2005-01-31
-source-url: https://www.scoop.co.nz/stories/PA0501/S00301/greens-to-fund-solar-water-heating-project.htm
+title: Greens To Fund Solar Water Heating Project
+date: 2005-01-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0501/S00301/greens-to-fund-solar-water-heating-project.htm
 author: green-party
+permalink: /archive/2005/01/31/greens-to-fund-solar-water-heating-project/index.html
+layout: layout.njk
 ---
 Greens To Fund Solar Water Heating Project
 ==========================================

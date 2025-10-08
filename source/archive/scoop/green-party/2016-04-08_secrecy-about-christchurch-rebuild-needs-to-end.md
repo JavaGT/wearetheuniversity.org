@@ -1,9 +1,12 @@
 ---
 slug: secrecy-about-christchurch-rebuild-needs-to-end
-title: "Secrecy about Christchurch rebuild needs to end"
-date: 2016-04-08
-source-url: https://www.scoop.co.nz/stories/PA1604/S00138/secrecy-about-christchurch-rebuild-needs-to-end.htm
+title: Secrecy about Christchurch rebuild needs to end
+date: 2016-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1604/S00138/secrecy-about-christchurch-rebuild-needs-to-end.htm
 author: green-party
+permalink: /archive/2016/04/08/secrecy-about-christchurch-rebuild-needs-to-end/index.html
+layout: layout.njk
 ---
 Secrecy about Christchurch rebuild needs to end
 ===============================================

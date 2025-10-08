@@ -1,9 +1,12 @@
 ---
 slug: the-government-giveth-and-taketh-away
-title: "The Government Giveth and  Taketh Away"
-date: 2010-08-05
-source-url: https://www.scoop.co.nz/stories/ED1008/S00029/the-government-giveth-and-taketh-away.htm
+title: The Government Giveth and  Taketh Away
+date: 2010-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1008/S00029/the-government-giveth-and-taketh-away.htm
 author: nzei
+permalink: /archive/2010/08/05/the-government-giveth-and-taketh-away/index.html
+layout: layout.njk
 ---
 The Government Giveth and Taketh Away
 =====================================

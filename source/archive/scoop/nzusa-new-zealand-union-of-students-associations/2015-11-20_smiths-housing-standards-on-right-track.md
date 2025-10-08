@@ -1,9 +1,12 @@
 ---
 slug: smiths-housing-standards-on-right-track
-title: "Smith’s housing standards on right track"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/PO1511/S00322/smiths-housing-standards-on-right-track.htm
+title: Smith’s housing standards on right track
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00322/smiths-housing-standards-on-right-track.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2015/11/20/smiths-housing-standards-on-right-track/index.html
+layout: layout.njk
 ---
 Smith’s housing standards on right track
 ========================================

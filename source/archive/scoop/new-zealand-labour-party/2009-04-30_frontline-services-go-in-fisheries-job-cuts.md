@@ -1,9 +1,12 @@
 ---
 slug: frontline-services-go-in-fisheries-job-cuts
-title: "Frontline services go in fisheries job cuts"
-date: 2009-04-30
-source-url: https://www.scoop.co.nz/stories/PA0904/S00386/frontline-services-go-in-fisheries-job-cuts.htm
+title: Frontline services go in fisheries job cuts
+date: 2009-04-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0904/S00386/frontline-services-go-in-fisheries-job-cuts.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/04/30/frontline-services-go-in-fisheries-job-cuts/index.html
+layout: layout.njk
 ---
 Frontline services go in fisheries job cuts
 ===========================================

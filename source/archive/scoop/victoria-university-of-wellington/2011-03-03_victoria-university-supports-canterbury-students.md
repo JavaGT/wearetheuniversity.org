@@ -1,9 +1,13 @@
 ---
 slug: victoria-university-supports-canterbury-students
-title: "Victoria University supports Canterbury students"
-date: 2011-03-03
-source-url: https://www.scoop.co.nz/stories/ED1103/S00028/victoria-university-supports-canterbury-students.htm
+title: Victoria University supports Canterbury students
+date: 2011-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1103/S00028/victoria-university-supports-canterbury-students.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2011/03/03/victoria-university-supports-canterbury-students/index.html
+layout: layout.njk
 ---
 Victoria University supports Canterbury students
 ================================================

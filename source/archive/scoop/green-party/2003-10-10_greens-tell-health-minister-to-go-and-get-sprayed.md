@@ -1,9 +1,13 @@
 ---
 slug: greens-tell-health-minister-to-go-and-get-sprayed
-title: "Greens tell Health Minister to go and get sprayed"
-date: 2003-10-10
-source-url: https://www.scoop.co.nz/stories/PA0310/S00211/greens-tell-health-minister-to-go-and-get-sprayed.htm
+title: Greens tell Health Minister to go and get sprayed
+date: 2003-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00211/greens-tell-health-minister-to-go-and-get-sprayed.htm
 author: green-party
+permalink: >-
+  /archive/2003/10/10/greens-tell-health-minister-to-go-and-get-sprayed/index.html
+layout: layout.njk
 ---
 Greens tell Health Minister to go and get sprayed
 =================================================

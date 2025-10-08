@@ -1,9 +1,13 @@
 ---
 slug: university-behind-key-science-studies-conference
-title: "University behind key science studies conference"
-date: 2004-01-29
-source-url: https://www.scoop.co.nz/stories/SC0401/S00063/university-behind-key-science-studies-conference.htm
+title: University behind key science studies conference
+date: 2004-01-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0401/S00063/university-behind-key-science-studies-conference.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2004/01/29/university-behind-key-science-studies-conference/index.html
+layout: layout.njk
 ---
 University behind key science studies conference
 ================================================

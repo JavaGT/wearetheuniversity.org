@@ -1,9 +1,12 @@
 ---
 slug: greens-expose-naked-ge-sheep-scheme
-title: "Greens expose naked GE sheep scheme"
-date: 1999-11-15
-source-url: https://www.scoop.co.nz/stories/PO9911/S00085/greens-expose-naked-ge-sheep-scheme.htm
+title: Greens expose naked GE sheep scheme
+date: 1999-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9911/S00085/greens-expose-naked-ge-sheep-scheme.htm
 author: green-party
+permalink: /archive/1999/11/15/greens-expose-naked-ge-sheep-scheme/index.html
+layout: layout.njk
 ---
 Greens expose naked GE sheep scheme
 ===================================

@@ -1,9 +1,12 @@
 ---
 slug: auckland-gets-waikato-and-bop-gambling-proceeds
-title: "Auckland gets Waikato and BOP Gambling Proceeds"
-date: 2012-07-09
-source-url: https://www.scoop.co.nz/stories/PA1207/S00098/auckland-gets-waikato-and-bop-gambling-proceeds.htm
+title: Auckland gets Waikato and BOP Gambling Proceeds
+date: 2012-07-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1207/S00098/auckland-gets-waikato-and-bop-gambling-proceeds.htm
 author: green-party
+permalink: /archive/2012/07/09/auckland-gets-waikato-and-bop-gambling-proceeds/index.html
+layout: layout.njk
 ---
 Auckland gets Waikato and BOP Gambling Proceeds
 ===============================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-will-move-to-save-the-kauri
-title: "Labour will move to save the Kauri"
-date: 2014-04-13
-source-url: https://www.scoop.co.nz/stories/PA1404/S00220/labour-will-move-to-save-the-kauri.htm
+title: Labour will move to save the Kauri
+date: 2014-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00220/labour-will-move-to-save-the-kauri.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/13/labour-will-move-to-save-the-kauri/index.html
+layout: layout.njk
 ---
 Labour will move to save the Kauri
 ==================================

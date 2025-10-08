@@ -1,9 +1,13 @@
 ---
 slug: auckland-to-host-international-conference-on-exile
-title: "Auckland to Host International Conference on Exile"
-date: 2003-04-22
-source-url: https://www.scoop.co.nz/stories/ED0304/S00044/auckland-to-host-international-conference-on-exile.htm
+title: Auckland to Host International Conference on Exile
+date: 2003-04-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0304/S00044/auckland-to-host-international-conference-on-exile.htm
 author: auckland-university
+permalink: >-
+  /archive/2003/04/22/auckland-to-host-international-conference-on-exile/index.html
+layout: layout.njk
 ---
 Auckland to Host International Conference on Exile
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: international-recognition-of-student-volunteer-army
-title: "International recognition of Student Volunteer Army"
-date: 2011-04-21
-source-url: https://www.scoop.co.nz/stories/AK1104/S00542/international-recognition-of-student-volunteer-army.htm
+title: International recognition of Student Volunteer Army
+date: 2011-04-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1104/S00542/international-recognition-of-student-volunteer-army.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2011/04/21/international-recognition-of-student-volunteer-army/index.html
+layout: layout.njk
 ---
 International recognition of Student Volunteer Army
 ===================================================

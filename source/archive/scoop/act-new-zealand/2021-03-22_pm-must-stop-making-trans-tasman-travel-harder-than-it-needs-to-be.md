@@ -1,9 +1,13 @@
 ---
 slug: pm-must-stop-making-trans-tasman-travel-harder-than-it-needs-to-be
-title: "PM Must Stop Making Trans-Tasman Travel Harder Than It Needs To Be"
-date: 2021-03-22
-source-url: https://www.scoop.co.nz/stories/PA2103/S00160/pm-must-stop-making-trans-tasman-travel-harder-than-it-needs-to-be.htm
+title: PM Must Stop Making Trans-Tasman Travel Harder Than It Needs To Be
+date: 2021-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2103/S00160/pm-must-stop-making-trans-tasman-travel-harder-than-it-needs-to-be.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/03/22/pm-must-stop-making-trans-tasman-travel-harder-than-it-needs-to-be/index.html
+layout: layout.njk
 ---
 PM Must Stop Making Trans-Tasman Travel Harder Than It Needs To Be
 ==================================================================

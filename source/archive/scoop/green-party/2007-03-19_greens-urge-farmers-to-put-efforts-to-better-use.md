@@ -1,9 +1,13 @@
 ---
 slug: greens-urge-farmers-to-put-efforts-to-better-use
-title: "Greens urge Farmers to put efforts to better use"
-date: 2007-03-19
-source-url: https://www.scoop.co.nz/stories/PA0703/S00372/greens-urge-farmers-to-put-efforts-to-better-use.htm
+title: Greens urge Farmers to put efforts to better use
+date: 2007-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0703/S00372/greens-urge-farmers-to-put-efforts-to-better-use.htm
 author: green-party
+permalink: >-
+  /archive/2007/03/19/greens-urge-farmers-to-put-efforts-to-better-use/index.html
+layout: layout.njk
 ---
 Greens urge Farmers to put efforts to better use
 ================================================

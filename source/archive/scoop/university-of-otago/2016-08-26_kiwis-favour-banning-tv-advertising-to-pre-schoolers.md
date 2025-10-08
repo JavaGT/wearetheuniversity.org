@@ -1,9 +1,13 @@
 ---
 slug: kiwis-favour-banning-tv-advertising-to-pre-schoolers
-title: "Kiwis favour banning TV advertising to pre-schoolers"
-date: 2016-08-26
-source-url: https://www.scoop.co.nz/stories/CU1608/S00277/kiwis-favour-banning-tv-advertising-to-pre-schoolers.htm
+title: Kiwis favour banning TV advertising to pre-schoolers
+date: 2016-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1608/S00277/kiwis-favour-banning-tv-advertising-to-pre-schoolers.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/08/26/kiwis-favour-banning-tv-advertising-to-pre-schoolers/index.html
+layout: layout.njk
 ---
 Kiwis favour banning TV advertising to pre-schoolers
 ====================================================

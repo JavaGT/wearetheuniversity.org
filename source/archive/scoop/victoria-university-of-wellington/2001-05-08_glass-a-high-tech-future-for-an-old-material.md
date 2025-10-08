@@ -1,9 +1,12 @@
 ---
 slug: glass-a-high-tech-future-for-an-old-material
-title: "Glass: a high-tech future for an old material"
-date: 2001-05-08
-source-url: https://www.scoop.co.nz/stories/SC0105/S00021/glass-a-high-tech-future-for-an-old-material.htm
+title: 'Glass: a high-tech future for an old material'
+date: 2001-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0105/S00021/glass-a-high-tech-future-for-an-old-material.htm
 author: victoria-university-of-wellington
+permalink: /archive/2001/05/08/glass-a-high-tech-future-for-an-old-material/index.html
+layout: layout.njk
 ---
 Glass: a high-tech future for an old material
 =============================================

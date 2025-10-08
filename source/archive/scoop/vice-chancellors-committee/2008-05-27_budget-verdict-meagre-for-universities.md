@@ -1,9 +1,12 @@
 ---
 slug: budget-verdict-meagre-for-universities
-title: "Budget verdict – meagre for universities"
-date: 2008-05-27
-source-url: https://www.scoop.co.nz/stories/ED0805/S00117/budget-verdict-meagre-for-universities.htm
+title: Budget verdict – meagre for universities
+date: 2008-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0805/S00117/budget-verdict-meagre-for-universities.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/05/27/budget-verdict-meagre-for-universities/index.html
+layout: layout.njk
 ---
 Budget verdict – meagre for universities
 ========================================

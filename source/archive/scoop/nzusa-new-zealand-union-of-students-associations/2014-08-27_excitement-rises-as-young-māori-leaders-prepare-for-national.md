@@ -1,9 +1,12 @@
 ---
 slug: excitement-rises-as-young-māori-leaders-prepare-for-national
-title: "Excitement rises as young Māori leaders prepare for national"
-date: 2014-08-27
-source-url: https://www.scoop.co.nz/stories/CU1408/S00474/excitement-rises-as-young-maori-leaders-prepare-for-national.htm
+title: Excitement rises as young Māori leaders prepare for national
+date: 2014-08-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00474/excitement-rises-as-young-maori-leaders-prepare-for-national.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2014/08/27/excitement-rises-as-young-m/index.html
+layout: layout.njk
 ---
 Excitement rises as young Māori leaders prepare for national
 ============================================================

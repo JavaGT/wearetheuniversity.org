@@ -1,9 +1,12 @@
 ---
 slug: flavell-student-loan-scheme-bill-first-reading
-title: "Flavell: Student Loan Scheme Bill, First Reading"
-date: 2010-10-15
-source-url: https://www.scoop.co.nz/stories/PA1010/S00266/flavell-student-loan-scheme-bill-first-reading.htm
+title: 'Flavell: Student Loan Scheme Bill, First Reading'
+date: 2010-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1010/S00266/flavell-student-loan-scheme-bill-first-reading.htm
 author: te-pati-maori
+permalink: /archive/2010/10/15/flavell-student-loan-scheme-bill-first-reading/index.html
+layout: layout.njk
 ---
 Flavell: Student Loan Scheme Bill, First Reading
 ================================================

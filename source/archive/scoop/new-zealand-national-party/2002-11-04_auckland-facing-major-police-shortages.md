@@ -1,9 +1,12 @@
 ---
 slug: auckland-facing-major-police-shortages
-title: "Auckland facing major police shortages"
-date: 2002-11-04
-source-url: https://www.scoop.co.nz/stories/PA0211/S00029/auckland-facing-major-police-shortages.htm
+title: Auckland facing major police shortages
+date: 2002-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00029/auckland-facing-major-police-shortages.htm
 author: new-zealand-national-party
+permalink: /archive/2002/11/04/auckland-facing-major-police-shortages/index.html
+layout: layout.njk
 ---
 Auckland facing major police shortages
 ======================================

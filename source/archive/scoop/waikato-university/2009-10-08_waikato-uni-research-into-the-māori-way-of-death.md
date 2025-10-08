@@ -1,9 +1,12 @@
 ---
 slug: waikato-uni-research-into-the-māori-way-of-death
-title: "Waikato Uni research into the Māori way of death"
-date: 2009-10-08
-source-url: https://www.scoop.co.nz/stories/ED0910/S00028/waikato-uni-research-into-the-maori-way-of-death.htm
+title: Waikato Uni research into the Māori way of death
+date: 2009-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0910/S00028/waikato-uni-research-into-the-maori-way-of-death.htm
 author: waikato-university
+permalink: /archive/2009/10/08/waikato-uni-research-into-the-m/index.html
+layout: layout.njk
 ---
 Waikato Uni research into the Māori way of death
 ================================================

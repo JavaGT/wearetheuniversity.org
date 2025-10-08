@@ -1,9 +1,13 @@
 ---
 slug: workers-at-canterbury-yarns-need-redundancy-support
-title: "Workers at Canterbury Yarns need redundancy support"
-date: 2014-04-15
-source-url: https://www.scoop.co.nz/stories/PA1404/S00245/workers-at-canterbury-yarns-need-redundancy-support.htm
+title: Workers at Canterbury Yarns need redundancy support
+date: 2014-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00245/workers-at-canterbury-yarns-need-redundancy-support.htm
 author: green-party
+permalink: >-
+  /archive/2014/04/15/workers-at-canterbury-yarns-need-redundancy-support/index.html
+layout: layout.njk
 ---
 Workers at Canterbury Yarns need redundancy support
 ===================================================

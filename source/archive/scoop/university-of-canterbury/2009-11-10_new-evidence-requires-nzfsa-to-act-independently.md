@@ -1,9 +1,13 @@
 ---
 slug: new-evidence-requires-nzfsa-to-act-independently
-title: "New evidence requires NZFSA to act independently"
-date: 2009-11-10
-source-url: https://www.scoop.co.nz/stories/GE0911/S00030/new-evidence-requires-nzfsa-to-act-independently.htm
+title: New evidence requires NZFSA to act independently
+date: 2009-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0911/S00030/new-evidence-requires-nzfsa-to-act-independently.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2009/11/10/new-evidence-requires-nzfsa-to-act-independently/index.html
+layout: layout.njk
 ---
 New evidence requires NZFSA to act independently
 ================================================

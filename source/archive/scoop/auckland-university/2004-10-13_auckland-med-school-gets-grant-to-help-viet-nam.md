@@ -1,9 +1,12 @@
 ---
 slug: auckland-med-school-gets-grant-to-help-viet-nam
-title: "Auckland Med School gets grant to help Viet Nam"
-date: 2004-10-13
-source-url: https://www.scoop.co.nz/stories/ED0410/S00046/auckland-med-school-gets-grant-to-help-viet-nam.htm
+title: Auckland Med School gets grant to help Viet Nam
+date: 2004-10-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00046/auckland-med-school-gets-grant-to-help-viet-nam.htm
 author: auckland-university
+permalink: /archive/2004/10/13/auckland-med-school-gets-grant-to-help-viet-nam/index.html
+layout: layout.njk
 ---
 Auckland Med School gets grant to help Viet Nam
 ===============================================

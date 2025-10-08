@@ -1,9 +1,11 @@
 ---
 slug: turbine-10-now-online
-title: "Turbine 10 now online"
-date: 2010-12-16
+title: Turbine 10 now online
+date: 2010-12-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED1012/S00070/turbine-10-now-online.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/12/16/turbine-10-now-online/index.html
+layout: layout.njk
 ---
 Turbine 10 now online
 =====================

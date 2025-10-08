@@ -1,11 +1,22 @@
 ---
-title: "Open Letter to Professor Dawn Freshwater from Dr Lawrence Xu-Nan (Green Party List MP)"
+layout: layout.njk
+title: >-
+  Open Letter to Professor Dawn Freshwater from Dr Lawrence Xu-Nan (Green Party
+  List MP)
 slug: open-letter-to-professor-dawn-freshwater-from-dr-lawrence-xu-nan
-date: 2024-11-01
+date: 2024-11-01T00:00:00.000Z
 source: https://www.instagram.com/p/DB0MYdFy33g/
 source-name: Lawrence Xu-Nan (Instagram)
 author: Lawrence Xu-Nan
 author-slug: lawrence-xu-nan
+permalink: >-
+  /blog/2024/11/01/open-letter-to-professor-dawn-freshwater-from-dr-lawrence-xu-nan/index.html
+excerpt: >-
+  Professor Dawn Freshwater, Waipapa Taumata Rau University of Auckland
+  ViceChancellor 1st November 2024 RE: Concerns over the future of Arts,
+  Education and Social Work, and Creative Arts and Industries, and course cuts E
+  te Tumu Whakarae, tēnā koe Professor Dawn Freshwater, I am writing to echo the
+  recent concerns that...
 ---
 
 Professor Dawn Freshwater, Waipapa Taumata Rau | University of Auckland Vice-Chancellor

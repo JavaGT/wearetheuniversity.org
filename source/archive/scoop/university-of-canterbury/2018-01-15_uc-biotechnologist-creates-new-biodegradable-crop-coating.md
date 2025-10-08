@@ -1,9 +1,13 @@
 ---
 slug: uc-biotechnologist-creates-new-biodegradable-crop-coating
-title: "UC biotechnologist creates new biodegradable crop coating"
-date: 2018-01-15
-source-url: https://www.scoop.co.nz/stories/SC1801/S00016/uc-biotechnologist-creates-new-biodegradable-crop-coating.htm
+title: UC biotechnologist creates new biodegradable crop coating
+date: 2018-01-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00016/uc-biotechnologist-creates-new-biodegradable-crop-coating.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2018/01/15/uc-biotechnologist-creates-new-biodegradable-crop-coating/index.html
+layout: layout.njk
 ---
 UC biotechnologist creates new biodegradable crop coating
 =========================================================

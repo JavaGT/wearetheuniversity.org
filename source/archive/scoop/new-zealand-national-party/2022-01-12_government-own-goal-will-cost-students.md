@@ -1,9 +1,12 @@
 ---
 slug: government-own-goal-will-cost-students
-title: "Government Own-goal Will Cost Students"
-date: 2022-01-12
-source-url: https://www.scoop.co.nz/stories/PA2201/S00032/government-own-goal-will-cost-students.htm
+title: Government Own-goal Will Cost Students
+date: 2022-01-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00032/government-own-goal-will-cost-students.htm
 author: new-zealand-national-party
+permalink: /archive/2022/01/12/government-own-goal-will-cost-students/index.html
+layout: layout.njk
 ---
 Government Own-goal Will Cost Students
 ======================================

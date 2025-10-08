@@ -1,9 +1,12 @@
 ---
 slug: tizard-campaign-for-auckland-central-launched
-title: "Tizard campaign for Auckland Central launched"
-date: 2008-10-06
-source-url: https://www.scoop.co.nz/stories/PA0810/S00106/tizard-campaign-for-auckland-central-launched.htm
+title: Tizard campaign for Auckland Central launched
+date: 2008-10-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00106/tizard-campaign-for-auckland-central-launched.htm
 author: new-zealand-labour-party
+permalink: /archive/2008/10/06/tizard-campaign-for-auckland-central-launched/index.html
+layout: layout.njk
 ---
 Tizard campaign for Auckland Central launched
 =============================================

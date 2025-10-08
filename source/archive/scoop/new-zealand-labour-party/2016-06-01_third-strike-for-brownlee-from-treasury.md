@@ -1,9 +1,12 @@
 ---
 slug: third-strike-for-brownlee-from-treasury
-title: "Third strike for Brownlee from Treasury"
-date: 2016-06-01
-source-url: https://www.scoop.co.nz/stories/PA1606/S00020/third-strike-for-brownlee-from-treasury.htm
+title: Third strike for Brownlee from Treasury
+date: 2016-06-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1606/S00020/third-strike-for-brownlee-from-treasury.htm
 author: new-zealand-labour-party
+permalink: /archive/2016/06/01/third-strike-for-brownlee-from-treasury/index.html
+layout: layout.njk
 ---
 Third strike for Brownlee from Treasury
 =======================================

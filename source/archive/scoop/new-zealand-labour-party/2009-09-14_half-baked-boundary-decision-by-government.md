@@ -1,9 +1,12 @@
 ---
 slug: half-baked-boundary-decision-by-government
-title: "Half-baked boundary decision by  Government"
-date: 2009-09-14
-source-url: https://www.scoop.co.nz/stories/PA0909/S00191/half-baked-boundary-decision-by-government.htm
+title: Half-baked boundary decision by  Government
+date: 2009-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0909/S00191/half-baked-boundary-decision-by-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2009/09/14/half-baked-boundary-decision-by-government/index.html
+layout: layout.njk
 ---
 Half-baked boundary decision by Government
 ==========================================

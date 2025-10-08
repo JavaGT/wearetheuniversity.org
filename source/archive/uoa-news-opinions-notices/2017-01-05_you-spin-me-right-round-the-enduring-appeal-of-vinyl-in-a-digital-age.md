@@ -1,8 +1,12 @@
 ---
 slug: you-spin-me-right-round-the-enduring-appeal-of-vinyl-in-a-digital-age
-title: "You spin me right round: the enduring appeal of vinyl in a digital age"
-date: 2017-01-05
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/enduring-appeal-vinyl-in-digital-age.html
+title: 'You spin me right round: the enduring appeal of vinyl in a digital age'
+date: 2017-01-05T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/01/enduring-appeal-vinyl-in-digital-age.html
+permalink: >-
+  /archive/2017/01/05/you-spin-me-right-round-the-enduring-appeal-of-vinyl-in-a-digital-age/index.html
+layout: layout.njk
 ---
 You spin me right round: the enduring appeal of vinyl in a digital age
 ======================================================================

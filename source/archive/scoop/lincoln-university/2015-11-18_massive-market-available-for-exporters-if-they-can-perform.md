@@ -1,9 +1,13 @@
 ---
 slug: massive-market-available-for-exporters-if-they-can-perform
-title: "Massive market available for exporters if they can perform"
-date: 2015-11-18
-source-url: https://www.scoop.co.nz/stories/PO1511/S00269/massive-market-available-for-exporters-if-they-can-perform.htm
+title: Massive market available for exporters if they can perform
+date: 2015-11-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1511/S00269/massive-market-available-for-exporters-if-they-can-perform.htm
 author: lincoln-university
+permalink: >-
+  /archive/2015/11/18/massive-market-available-for-exporters-if-they-can-perform/index.html
+layout: layout.njk
 ---
 Massive market available for exporters if they can perform
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: socio-economic-differences-in-smoking-patterns
-title: "Socio-economic differences in smoking patterns"
-date: 2008-05-30
-source-url: https://www.scoop.co.nz/stories/GE0805/S00152/socio-economic-differences-in-smoking-patterns.htm
+title: Socio-economic differences in smoking patterns
+date: 2008-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0805/S00152/socio-economic-differences-in-smoking-patterns.htm
 author: university-of-otago
+permalink: /archive/2008/05/30/socio-economic-differences-in-smoking-patterns/index.html
+layout: layout.njk
 ---
 Socio-economic differences in smoking patterns
 ==============================================

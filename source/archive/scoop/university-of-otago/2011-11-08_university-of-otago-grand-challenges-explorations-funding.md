@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-grand-challenges-explorations-funding
-title: "University of Otago: Grand Challenges Explorations funding"
-date: 2011-11-08
-source-url: https://www.scoop.co.nz/stories/ED1111/S00051/university-of-otago-grand-challenges-explorations-funding.htm
+title: 'University of Otago: Grand Challenges Explorations funding'
+date: 2011-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00051/university-of-otago-grand-challenges-explorations-funding.htm
 author: university-of-otago
+permalink: >-
+  /archive/2011/11/08/university-of-otago-grand-challenges-explorations-funding/index.html
+layout: layout.njk
 ---
 University of Otago: Grand Challenges Explorations funding
 ==========================================================

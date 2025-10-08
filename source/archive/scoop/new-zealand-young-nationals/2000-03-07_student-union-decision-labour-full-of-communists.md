@@ -1,9 +1,13 @@
 ---
 slug: student-union-decision-labour-full-of-communists
-title: "Student Union Decision - Labour Full Of Communists"
-date: 2000-03-07
-source-url: https://www.scoop.co.nz/stories/PO0003/S00021/student-union-decision-labour-full-of-communists.htm
+title: Student Union Decision - Labour Full Of Communists
+date: 2000-03-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0003/S00021/student-union-decision-labour-full-of-communists.htm
 author: new-zealand-young-nationals
+permalink: >-
+  /archive/2000/03/07/student-union-decision-labour-full-of-communists/index.html
+layout: layout.njk
 ---
 Student Union Decision - Labour Full Of Communists
 ==================================================

@@ -1,9 +1,12 @@
 ---
 slug: broadening-the-horizon-for-biofuels
-title: "Broadening the horizon for biofuels"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00060/broadening-the-horizon-for-biofuels.htm
+title: Broadening the horizon for biofuels
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00060/broadening-the-horizon-for-biofuels.htm
 author: auckland-university
+permalink: /archive/2006/09/14/broadening-the-horizon-for-biofuels/index.html
+layout: layout.njk
 ---
 Broadening the horizon for biofuels
 ===================================

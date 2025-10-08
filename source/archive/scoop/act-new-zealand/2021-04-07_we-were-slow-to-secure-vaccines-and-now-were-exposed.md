@@ -1,9 +1,13 @@
 ---
 slug: we-were-slow-to-secure-vaccines-and-now-were-exposed
-title: "We Were Slow To Secure Vaccines And Now We’re Exposed"
-date: 2021-04-07
-source-url: https://www.scoop.co.nz/stories/PA2104/S00035/we-were-slow-to-secure-vaccines-and-now-were-exposed.htm
+title: We Were Slow To Secure Vaccines And Now We’re Exposed
+date: 2021-04-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00035/we-were-slow-to-secure-vaccines-and-now-were-exposed.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/04/07/we-were-slow-to-secure-vaccines-and-now-were-exposed/index.html
+layout: layout.njk
 ---
 We Were Slow To Secure Vaccines And Now We’re Exposed
 =====================================================

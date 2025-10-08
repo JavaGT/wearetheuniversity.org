@@ -1,9 +1,12 @@
 ---
 slug: first-days-of-the-new-administration
-title: "First Days Of The New Administration"
-date: 2008-12-14
-source-url: https://www.scoop.co.nz/stories/PA0812/S00162/first-days-of-the-new-administration.htm
+title: First Days Of The New Administration
+date: 2008-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0812/S00162/first-days-of-the-new-administration.htm
 author: act-new-zealand
+permalink: /archive/2008/12/14/first-days-of-the-new-administration/index.html
+layout: layout.njk
 ---
 First Days Of The New Administration
 ====================================

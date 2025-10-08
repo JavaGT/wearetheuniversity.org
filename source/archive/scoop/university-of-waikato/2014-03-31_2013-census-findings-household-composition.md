@@ -1,9 +1,12 @@
 ---
 slug: 2013-census-findings-household-composition
-title: "2013 Census findings - Household composition"
-date: 2014-03-31
-source-url: https://www.scoop.co.nz/stories/ED1403/S00181/2013-census-findings-household-composition.htm
+title: 2013 Census findings - Household composition
+date: 2014-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1403/S00181/2013-census-findings-household-composition.htm
 author: university-of-waikato
+permalink: /archive/2014/03/31/2013-census-findings-household-composition/index.html
+layout: layout.njk
 ---
 2013 Census findings - Household composition
 ============================================

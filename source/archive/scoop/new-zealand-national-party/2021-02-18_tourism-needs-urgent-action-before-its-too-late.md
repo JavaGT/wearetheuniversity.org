@@ -1,9 +1,12 @@
 ---
 slug: tourism-needs-urgent-action-before-its-too-late
-title: "Tourism Needs Urgent Action Before It’s Too Late"
-date: 2021-02-18
-source-url: https://www.scoop.co.nz/stories/PA2102/S00104/tourism-needs-urgent-action-before-its-too-late.htm
+title: Tourism Needs Urgent Action Before It’s Too Late
+date: 2021-02-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00104/tourism-needs-urgent-action-before-its-too-late.htm
 author: new-zealand-national-party
+permalink: /archive/2021/02/18/tourism-needs-urgent-action-before-its-too-late/index.html
+layout: layout.njk
 ---
 Tourism Needs Urgent Action Before It’s Too Late
 ================================================

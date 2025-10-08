@@ -1,9 +1,13 @@
 ---
 slug: volkswagen-scandal-game-changer-for-financial-markets
-title: "Volkswagen scandal \"game changer\" for financial markets"
-date: 2016-09-23
-source-url: https://www.scoop.co.nz/stories/BU1609/S00791/volkswagen-scandal-game-changer-for-financial-markets.htm
+title: Volkswagen scandal "game changer" for financial markets
+date: 2016-09-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1609/S00791/volkswagen-scandal-game-changer-for-financial-markets.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/09/23/volkswagen-scandal-game-changer-for-financial-markets/index.html
+layout: layout.njk
 ---
 Volkswagen scandal “game changer” for financial markets
 =======================================================

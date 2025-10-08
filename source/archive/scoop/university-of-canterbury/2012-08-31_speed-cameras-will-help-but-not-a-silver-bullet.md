@@ -1,9 +1,12 @@
 ---
 slug: speed-cameras-will-help-but-not-a-silver-bullet
-title: "Speed cameras will help but not a silver bullet"
-date: 2012-08-31
-source-url: https://www.scoop.co.nz/stories/PO1208/S00517/speed-cameras-will-help-but-not-a-silver-bullet.htm
+title: Speed cameras will help but not a silver bullet
+date: 2012-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1208/S00517/speed-cameras-will-help-but-not-a-silver-bullet.htm
 author: university-of-canterbury
+permalink: /archive/2012/08/31/speed-cameras-will-help-but-not-a-silver-bullet/index.html
+layout: layout.njk
 ---
 Speed cameras will help but not a silver bullet
 ===============================================

@@ -1,9 +1,13 @@
 ---
 slug: what-the-labour-green-agreement-means-for-voters
-title: "What the Labour/Green agreement means for voters"
-date: 2016-06-02
-source-url: https://www.scoop.co.nz/stories/PO1606/S00020/what-the-labourgreen-agreement-means-for-voters.htm
+title: What the Labour/Green agreement means for voters
+date: 2016-06-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1606/S00020/what-the-labourgreen-agreement-means-for-voters.htm
 author: massey-university
+permalink: >-
+  /archive/2016/06/02/what-the-labour-green-agreement-means-for-voters/index.html
+layout: layout.njk
 ---
 What the Labour/Green agreement means for voters
 ================================================

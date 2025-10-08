@@ -1,9 +1,12 @@
 ---
 slug: peters-speech-northland-crisis-of-indifference
-title: "Peters Speech: Northland - Crisis of Indifference"
-date: 1999-11-15
-source-url: https://www.scoop.co.nz/stories/PA9911/S00337/peters-speech-northland-crisis-of-indifference.htm
+title: 'Peters Speech: Northland - Crisis of Indifference'
+date: 1999-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9911/S00337/peters-speech-northland-crisis-of-indifference.htm
 author: new-zealand-first-party
+permalink: /archive/1999/11/15/peters-speech-northland-crisis-of-indifference/index.html
+layout: layout.njk
 ---
 Peters Speech: Northland - Crisis of Indifference
 =================================================

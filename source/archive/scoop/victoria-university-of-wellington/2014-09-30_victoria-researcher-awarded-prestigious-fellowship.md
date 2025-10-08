@@ -1,9 +1,13 @@
 ---
 slug: victoria-researcher-awarded-prestigious-fellowship
-title: "Victoria researcher awarded prestigious fellowship"
-date: 2014-09-30
-source-url: https://www.scoop.co.nz/stories/ED1409/S00176/victoria-researcher-awarded-prestigious-fellowship.htm
+title: Victoria researcher awarded prestigious fellowship
+date: 2014-09-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1409/S00176/victoria-researcher-awarded-prestigious-fellowship.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2014/09/30/victoria-researcher-awarded-prestigious-fellowship/index.html
+layout: layout.njk
 ---
 Victoria researcher awarded prestigious fellowship
 ==================================================

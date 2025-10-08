@@ -1,9 +1,12 @@
 ---
 slug: shining-a-light-on-the-creation-of-bio-plastic
-title: "Shining a light on the creation of bio-plastic"
-date: 2014-11-27
-source-url: https://www.scoop.co.nz/stories/ED1411/S00173/shining-a-light-on-the-creation-of-bio-plastic.htm
+title: Shining a light on the creation of bio-plastic
+date: 2014-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00173/shining-a-light-on-the-creation-of-bio-plastic.htm
 author: university-of-waikato
+permalink: /archive/2014/11/27/shining-a-light-on-the-creation-of-bio-plastic/index.html
+layout: layout.njk
 ---
 Shining a light on the creation of bio-plastic
 ==============================================

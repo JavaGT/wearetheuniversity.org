@@ -1,9 +1,13 @@
 ---
 slug: parents-feel-the-squeeze-from-school-funding-shortfall
-title: "Parents feel the squeeze from school funding shortfall"
-date: 2015-10-09
-source-url: https://www.scoop.co.nz/stories/PA1510/S00129/parents-feel-the-squeeze-from-school-funding-shortfall.htm
+title: Parents feel the squeeze from school funding shortfall
+date: 2015-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1510/S00129/parents-feel-the-squeeze-from-school-funding-shortfall.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/10/09/parents-feel-the-squeeze-from-school-funding-shortfall/index.html
+layout: layout.njk
 ---
 Parents feel the squeeze from school funding shortfall
 ======================================================

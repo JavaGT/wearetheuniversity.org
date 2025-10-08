@@ -1,9 +1,13 @@
 ---
 slug: katene-calls-for-more-maori-in-the-science-sector
-title: "Katene calls for more Maori in the Science Sector"
-date: 2008-09-22
-source-url: https://www.scoop.co.nz/stories/PO0809/S00302/katene-calls-for-more-maori-in-the-science-sector.htm
+title: Katene calls for more Maori in the Science Sector
+date: 2008-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0809/S00302/katene-calls-for-more-maori-in-the-science-sector.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2008/09/22/katene-calls-for-more-maori-in-the-science-sector/index.html
+layout: layout.njk
 ---
 Katene calls for more Maori in the Science Sector
 =================================================

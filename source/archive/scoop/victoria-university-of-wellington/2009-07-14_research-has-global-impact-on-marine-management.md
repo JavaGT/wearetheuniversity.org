@@ -1,9 +1,12 @@
 ---
 slug: research-has-global-impact-on-marine-management
-title: "Research has global impact on marine management"
-date: 2009-07-14
-source-url: https://www.scoop.co.nz/stories/ED0907/S00058/research-has-global-impact-on-marine-management.htm
+title: Research has global impact on marine management
+date: 2009-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0907/S00058/research-has-global-impact-on-marine-management.htm
 author: victoria-university-of-wellington
+permalink: /archive/2009/07/14/research-has-global-impact-on-marine-management/index.html
+layout: layout.njk
 ---
 Research has global impact on marine management
 ===============================================

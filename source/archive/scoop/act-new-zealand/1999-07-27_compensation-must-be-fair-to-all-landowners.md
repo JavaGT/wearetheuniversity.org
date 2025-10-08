@@ -1,9 +1,12 @@
 ---
 slug: compensation-must-be-fair-to-all-landowners
-title: "Compensation Must Be Fair To All Landowners"
-date: 1999-07-27
-source-url: https://www.scoop.co.nz/stories/PO9907/S00067/compensation-must-be-fair-to-all-landowners.htm
+title: Compensation Must Be Fair To All Landowners
+date: 1999-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO9907/S00067/compensation-must-be-fair-to-all-landowners.htm
 author: act-new-zealand
+permalink: /archive/1999/07/27/compensation-must-be-fair-to-all-landowners/index.html
+layout: layout.njk
 ---
 Compensation Must Be Fair To All Landowners
 ===========================================

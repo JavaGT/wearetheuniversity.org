@@ -1,9 +1,12 @@
 ---
 slug: investing-in-education-and-working-for-business
-title: "Investing in Education And Working for Business"
-date: 2016-11-08
-source-url: https://www.scoop.co.nz/stories/PA1611/S00159/investing-in-education-and-working-for-business.htm
+title: Investing in Education And Working for Business
+date: 2016-11-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00159/investing-in-education-and-working-for-business.htm
 author: new-zealand-first-party
+permalink: /archive/2016/11/08/investing-in-education-and-working-for-business/index.html
+layout: layout.njk
 ---
 Investing in Education And Working for Business
 ===============================================

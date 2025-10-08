@@ -1,9 +1,12 @@
 ---
 slug: policy-initiatives-on-tertiray-staffing-welcome
-title: "Policy Initiatives on Tertiray Staffing Welcome"
-date: 2002-07-02
-source-url: https://www.scoop.co.nz/stories/ED0207/S00003/policy-initiatives-on-tertiray-staffing-welcome.htm
+title: Policy Initiatives on Tertiray Staffing Welcome
+date: 2002-07-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0207/S00003/policy-initiatives-on-tertiray-staffing-welcome.htm
 author: association-of-university-staff
+permalink: /archive/2002/07/02/policy-initiatives-on-tertiray-staffing-welcome/index.html
+layout: layout.njk
 ---
 Policy Initiatives on Tertiray Staffing Welcome
 ===============================================

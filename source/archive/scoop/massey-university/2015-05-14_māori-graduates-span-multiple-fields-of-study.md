@@ -1,9 +1,12 @@
 ---
 slug: māori-graduates-span-multiple-fields-of-study
-title: "Māori graduates span multiple fields of study"
-date: 2015-05-14
-source-url: https://www.scoop.co.nz/stories/ED1505/S00070/maori-graduates-span-multiple-fields-of-study.htm
+title: Māori graduates span multiple fields of study
+date: 2015-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1505/S00070/maori-graduates-span-multiple-fields-of-study.htm
 author: massey-university
+permalink: /archive/2015/05/14/m/index.html
+layout: layout.njk
 ---
 Māori graduates span multiple fields of study
 =============================================

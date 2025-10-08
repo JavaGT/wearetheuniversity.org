@@ -1,9 +1,13 @@
 ---
 slug: nz-first-delivers-major-supergold-card-upgrade-for-seniors
-title: "NZ First Delivers Major Supergold Card Upgrade for Seniors"
-date: 2019-10-01
-source-url: https://www.scoop.co.nz/stories/PA1910/S00003/nz-first-delivers-major-supergold-card-upgrade-for-seniors.htm
+title: NZ First Delivers Major Supergold Card Upgrade for Seniors
+date: 2019-10-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1910/S00003/nz-first-delivers-major-supergold-card-upgrade-for-seniors.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2019/10/01/nz-first-delivers-major-supergold-card-upgrade-for-seniors/index.html
+layout: layout.njk
 ---
 NZ First Delivers Major Supergold Card Upgrade for Seniors
 ==========================================================

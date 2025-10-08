@@ -1,9 +1,13 @@
 ---
 slug: three-elam-artists-share-top-watercolourist-prize
-title: "Three Elam artists share top watercolourist prize"
-date: 2011-08-18
-source-url: https://www.scoop.co.nz/stories/AK1108/S00518/three-elam-artists-share-top-watercolourist-prize.htm
+title: Three Elam artists share top watercolourist prize
+date: 2011-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1108/S00518/three-elam-artists-share-top-watercolourist-prize.htm
 author: auckland-university
+permalink: >-
+  /archive/2011/08/18/three-elam-artists-share-top-watercolourist-prize/index.html
+layout: layout.njk
 ---
 Three Elam artists share top watercolourist prize
 =================================================

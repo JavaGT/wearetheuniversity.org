@@ -1,9 +1,13 @@
 ---
 slug: certification-a-milestone-on-lincoln-universitys-journey-to-carbon-zero
-title: "Certification A Milestone On Lincoln University's Journey To Carbon Zero"
-date: 2022-02-03
-source-url: https://www.scoop.co.nz/stories/ED2202/S00006/certification-a-milestone-on-lincoln-universitys-journey-to-carbon-zero.htm
+title: Certification A Milestone On Lincoln University's Journey To Carbon Zero
+date: 2022-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2202/S00006/certification-a-milestone-on-lincoln-universitys-journey-to-carbon-zero.htm
 author: lincoln-university
+permalink: >-
+  /archive/2022/02/03/certification-a-milestone-on-lincoln-universitys-journey-to-carbon-zero/index.html
+layout: layout.njk
 ---
 Certification A Milestone On Lincoln University's Journey To Carbon Zero
 ========================================================================

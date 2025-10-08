@@ -1,9 +1,13 @@
 ---
 slug: unfunded-chemotherapy-drugs-to-be-administered-for-free
-title: "Unfunded Chemotherapy Drugs To Be Administered For Free"
-date: 2021-04-05
-source-url: https://www.scoop.co.nz/stories/PA2104/S00014/unfunded-chemotherapy-drugs-to-be-administered-for-free.htm
+title: Unfunded Chemotherapy Drugs To Be Administered For Free
+date: 2021-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2104/S00014/unfunded-chemotherapy-drugs-to-be-administered-for-free.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/04/05/unfunded-chemotherapy-drugs-to-be-administered-for-free/index.html
+layout: layout.njk
 ---
 Unfunded Chemotherapy Drugs To Be Administered For Free
 =======================================================

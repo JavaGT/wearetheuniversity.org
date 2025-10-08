@@ -1,9 +1,13 @@
 ---
 slug: unelected-ngai-tahu-on-environment-canterbury-is-a-dismantling-of-democracy
-title: "Unelected Ngai Tahu On Environment Canterbury Is A Dismantling Of Democracy"
-date: 2022-08-04
-source-url: https://www.scoop.co.nz/stories/PO2208/S00045/unelected-ngai-tahu-on-environment-canterbury-is-a-dismantling-of-democracy.htm
+title: Unelected Ngai Tahu On Environment Canterbury Is A Dismantling Of Democracy
+date: 2022-08-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2208/S00045/unelected-ngai-tahu-on-environment-canterbury-is-a-dismantling-of-democracy.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2022/08/04/unelected-ngai-tahu-on-environment-canterbury-is-a-dismantling-of-democracy/index.html
+layout: layout.njk
 ---
 Unelected Ngai Tahu On Environment Canterbury Is A Dismantling Of Democracy
 ===========================================================================

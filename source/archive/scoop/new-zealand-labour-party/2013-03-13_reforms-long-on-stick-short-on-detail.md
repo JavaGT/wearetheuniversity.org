@@ -1,9 +1,12 @@
 ---
 slug: reforms-long-on-stick-short-on-detail
-title: "Reforms long on stick, short on detail"
-date: 2013-03-13
-source-url: https://www.scoop.co.nz/stories/PA1303/S00219/reforms-long-on-stick-short-on-detail.htm
+title: Reforms long on stick, short on detail
+date: 2013-03-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00219/reforms-long-on-stick-short-on-detail.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/13/reforms-long-on-stick-short-on-detail/index.html
+layout: layout.njk
 ---
 Reforms long on stick, short on detail
 ======================================

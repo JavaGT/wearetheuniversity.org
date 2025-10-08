@@ -1,9 +1,13 @@
 ---
 slug: searching-for-the-link-between-earthquakes-and-health
-title: "Searching for the link between earthquakes and health"
-date: 2012-06-05
-source-url: https://www.scoop.co.nz/stories/GE1206/S00009/searching-for-the-link-between-earthquakes-and-health.htm
+title: Searching for the link between earthquakes and health
+date: 2012-06-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1206/S00009/searching-for-the-link-between-earthquakes-and-health.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/06/05/searching-for-the-link-between-earthquakes-and-health/index.html
+layout: layout.njk
 ---
 Searching for the link between earthquakes and health
 =====================================================

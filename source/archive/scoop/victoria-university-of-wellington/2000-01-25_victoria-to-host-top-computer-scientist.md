@@ -1,9 +1,12 @@
 ---
 slug: victoria-to-host-top-computer-scientist
-title: "Victoria to host top computer scientist"
-date: 2000-01-25
-source-url: https://www.scoop.co.nz/stories/ED0001/S00014/victoria-to-host-top-computer-scientist.htm
+title: Victoria to host top computer scientist
+date: 2000-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0001/S00014/victoria-to-host-top-computer-scientist.htm
 author: victoria-university-of-wellington
+permalink: /archive/2000/01/25/victoria-to-host-top-computer-scientist/index.html
+layout: layout.njk
 ---
 Victoria to host top computer scientist
 =======================================

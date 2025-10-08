@@ -1,9 +1,12 @@
 ---
 slug: labour-set-on-squeezing-out-ptes
-title: "Labour set on squeezing out PTEs"
-date: 2006-12-05
-source-url: https://www.scoop.co.nz/stories/PA0612/S00049/labour-set-on-squeezing-out-ptes.htm
+title: Labour set on squeezing out PTEs
+date: 2006-12-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0612/S00049/labour-set-on-squeezing-out-ptes.htm
 author: new-zealand-national-party
+permalink: /archive/2006/12/05/labour-set-on-squeezing-out-ptes/index.html
+layout: layout.njk
 ---
 Labour set on squeezing out PTEs
 ================================

@@ -1,9 +1,12 @@
 ---
 slug: early-all-blacks-jerseys-recreated-in-cup-year
-title: "Early All Blacks jerseys recreated in cup year"
-date: 2011-02-03
-source-url: https://www.scoop.co.nz/stories/AK1102/S00137/early-all-blacks-jerseys-recreated-in-cup-year.htm
+title: Early All Blacks jerseys recreated in cup year
+date: 2011-02-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1102/S00137/early-all-blacks-jerseys-recreated-in-cup-year.htm
 author: massey-university
+permalink: /archive/2011/02/03/early-all-blacks-jerseys-recreated-in-cup-year/index.html
+layout: layout.njk
 ---
 Early All Blacks jerseys recreated in cup year
 ==============================================

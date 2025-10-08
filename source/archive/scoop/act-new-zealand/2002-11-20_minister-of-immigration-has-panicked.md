@@ -1,9 +1,12 @@
 ---
 slug: minister-of-immigration-has-panicked
-title: "Minister of Immigration Has Panicked"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/PA0211/S00467/minister-of-immigration-has-panicked.htm
+title: Minister of Immigration Has Panicked
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0211/S00467/minister-of-immigration-has-panicked.htm
 author: act-new-zealand
+permalink: /archive/2002/11/20/minister-of-immigration-has-panicked/index.html
+layout: layout.njk
 ---
 Minister of Immigration Has Panicked
 ====================================

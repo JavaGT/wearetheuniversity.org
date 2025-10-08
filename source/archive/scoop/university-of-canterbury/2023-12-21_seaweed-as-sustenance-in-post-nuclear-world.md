@@ -1,9 +1,12 @@
 ---
 slug: seaweed-as-sustenance-in-post-nuclear-world
-title: "Seaweed As Sustenance In Post-nuclear World"
-date: 2023-12-21
-source-url: https://www.scoop.co.nz/stories/SC2312/S00027/seaweed-as-sustenance-in-post-nuclear-world.htm
+title: Seaweed As Sustenance In Post-nuclear World
+date: 2023-12-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2312/S00027/seaweed-as-sustenance-in-post-nuclear-world.htm
 author: university-of-canterbury
+permalink: /archive/2023/12/21/seaweed-as-sustenance-in-post-nuclear-world/index.html
+layout: layout.njk
 ---
 Seaweed As Sustenance In Post-nuclear World
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-zealand-first-promises-funding-for-hospital
-title: "New Zealand First Promises Funding For Hospital"
-date: 1999-10-11
-source-url: https://www.scoop.co.nz/stories/PA9910/S00183/new-zealand-first-promises-funding-for-hospital.htm
+title: New Zealand First Promises Funding For Hospital
+date: 1999-10-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00183/new-zealand-first-promises-funding-for-hospital.htm
 author: new-zealand-first-party
+permalink: /archive/1999/10/11/new-zealand-first-promises-funding-for-hospital/index.html
+layout: layout.njk
 ---
 New Zealand First Promises Funding For Hospital
 ===============================================

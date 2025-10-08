@@ -1,9 +1,13 @@
 ---
 slug: break-up-supermarket-duopoly-and-guarantee-liveable-incomes
-title: "Break Up Supermarket Duopoly And Guarantee Liveable Incomes"
-date: 2022-03-30
-source-url: https://www.scoop.co.nz/stories/PA2203/S00244/break-up-supermarket-duopoly-and-guarantee-liveable-incomes.htm
+title: Break Up Supermarket Duopoly And Guarantee Liveable Incomes
+date: 2022-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2203/S00244/break-up-supermarket-duopoly-and-guarantee-liveable-incomes.htm
 author: green-party
+permalink: >-
+  /archive/2022/03/30/break-up-supermarket-duopoly-and-guarantee-liveable-incomes/index.html
+layout: layout.njk
 ---
 Break Up Supermarket Duopoly And Guarantee Liveable Incomes
 ===========================================================

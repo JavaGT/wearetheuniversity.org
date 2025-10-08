@@ -1,9 +1,12 @@
 ---
 slug: longstone-pay-out-down-to-hekia
-title: "Longstone pay-out down to Hekia"
-date: 2013-03-05
-source-url: https://www.scoop.co.nz/stories/PA1303/S00060/longstone-pay-out-down-to-hekia.htm
+title: Longstone pay-out down to Hekia
+date: 2013-03-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00060/longstone-pay-out-down-to-hekia.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/05/longstone-pay-out-down-to-hekia/index.html
+layout: layout.njk
 ---
 Longstone pay-out down to Hekia
 ===============================

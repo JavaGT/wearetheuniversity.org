@@ -1,9 +1,12 @@
 ---
 slug: vitamin-c-may-enhance-radiation-therapy
-title: "Vitamin C may enhance radiation therapy"
-date: 2012-02-17
-source-url: https://www.scoop.co.nz/stories/GE1202/S00048/vitamin-c-may-enhance-radiation-therapy.htm
+title: Vitamin C may enhance radiation therapy
+date: 2012-02-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1202/S00048/vitamin-c-may-enhance-radiation-therapy.htm
 author: university-of-otago
+permalink: /archive/2012/02/17/vitamin-c-may-enhance-radiation-therapy/index.html
+layout: layout.njk
 ---
 Vitamin C may enhance radiation therapy
 =======================================

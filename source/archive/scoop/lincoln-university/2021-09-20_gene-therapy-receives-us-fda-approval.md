@@ -1,9 +1,12 @@
 ---
 slug: gene-therapy-receives-us-fda-approval
-title: "Gene therapy receives US FDA approval"
-date: 2021-09-20
-source-url: https://www.scoop.co.nz/stories/SC2109/S00047/gene-therapy-receives-us-fda-approval.htm
+title: Gene therapy receives US FDA approval
+date: 2021-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2109/S00047/gene-therapy-receives-us-fda-approval.htm
 author: lincoln-university
+permalink: /archive/2021/09/20/gene-therapy-receives-us-fda-approval/index.html
+layout: layout.njk
 ---
 Gene therapy receives US FDA approval
 =====================================

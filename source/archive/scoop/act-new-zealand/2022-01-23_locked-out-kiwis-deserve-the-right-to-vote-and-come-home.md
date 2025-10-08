@@ -1,9 +1,13 @@
 ---
 slug: locked-out-kiwis-deserve-the-right-to-vote-and-come-home
-title: "Locked Out Kiwis Deserve The Right To Vote And Come Home"
-date: 2022-01-23
-source-url: https://www.scoop.co.nz/stories/PA2201/S00075/locked-out-kiwis-deserve-the-right-to-vote-and-come-home.htm
+title: Locked Out Kiwis Deserve The Right To Vote And Come Home
+date: 2022-01-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2201/S00075/locked-out-kiwis-deserve-the-right-to-vote-and-come-home.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/01/23/locked-out-kiwis-deserve-the-right-to-vote-and-come-home/index.html
+layout: layout.njk
 ---
 Locked Out Kiwis Deserve The Right To Vote And Come Home
 ========================================================

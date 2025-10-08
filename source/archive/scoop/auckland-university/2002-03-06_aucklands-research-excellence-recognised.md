@@ -1,9 +1,12 @@
 ---
 slug: aucklands-research-excellence-recognised
-title: "Auckland's Research Excellence Recognised"
-date: 2002-03-06
-source-url: https://www.scoop.co.nz/stories/ED0203/S00016/aucklands-research-excellence-recognised.htm
+title: Auckland's Research Excellence Recognised
+date: 2002-03-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00016/aucklands-research-excellence-recognised.htm
 author: auckland-university
+permalink: /archive/2002/03/06/aucklands-research-excellence-recognised/index.html
+layout: layout.njk
 ---
 Auckland's Research Excellence Recognised
 =========================================

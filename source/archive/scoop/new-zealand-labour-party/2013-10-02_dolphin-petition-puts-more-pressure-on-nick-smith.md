@@ -1,9 +1,13 @@
 ---
 slug: dolphin-petition-puts-more-pressure-on-nick-smith
-title: "Dolphin petition puts more pressure on Nick Smith"
-date: 2013-10-02
-source-url: https://www.scoop.co.nz/stories/PA1310/S00060/dolphin-petition-puts-more-pressure-on-nick-smith.htm
+title: Dolphin petition puts more pressure on Nick Smith
+date: 2013-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1310/S00060/dolphin-petition-puts-more-pressure-on-nick-smith.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2013/10/02/dolphin-petition-puts-more-pressure-on-nick-smith/index.html
+layout: layout.njk
 ---
 Dolphin petition puts more pressure on Nick Smith
 =================================================

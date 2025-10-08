@@ -1,9 +1,12 @@
 ---
 slug: length-of-training-debate-masks-the-real-issue
-title: "Length Of Training Debate Masks The Real Issue"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/PA0208/S00193/length-of-training-debate-masks-the-real-issue.htm
+title: Length Of Training Debate Masks The Real Issue
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00193/length-of-training-debate-masks-the-real-issue.htm
 author: new-zealand-first-party
+permalink: /archive/2002/08/22/length-of-training-debate-masks-the-real-issue/index.html
+layout: layout.njk
 ---
 Length Of Training Debate Masks The Real Issue
 ==============================================

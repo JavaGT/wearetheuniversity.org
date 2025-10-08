@@ -1,9 +1,13 @@
 ---
 slug: bishop-welcomes-wellington-international-student-growth
-title: "Bishop welcomes Wellington international student growth"
-date: 2015-12-03
-source-url: https://www.scoop.co.nz/stories/PA1512/S00095/bishop-welcomes-wellington-international-student-growth.htm
+title: Bishop welcomes Wellington international student growth
+date: 2015-12-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1512/S00095/bishop-welcomes-wellington-international-student-growth.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2015/12/03/bishop-welcomes-wellington-international-student-growth/index.html
+layout: layout.njk
 ---
 Bishop welcomes Wellington international student growth
 =======================================================

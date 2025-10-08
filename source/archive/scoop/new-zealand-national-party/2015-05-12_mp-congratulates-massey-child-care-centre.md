@@ -1,9 +1,12 @@
 ---
 slug: mp-congratulates-massey-child-care-centre
-title: "MP congratulates Massey Child Care Centre"
-date: 2015-05-12
-source-url: https://www.scoop.co.nz/stories/PA1505/S00191/mp-congratulates-massey-child-care-centre.htm
+title: MP congratulates Massey Child Care Centre
+date: 2015-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1505/S00191/mp-congratulates-massey-child-care-centre.htm
 author: new-zealand-national-party
+permalink: /archive/2015/05/12/mp-congratulates-massey-child-care-centre/index.html
+layout: layout.njk
 ---
 MP congratulates Massey Child Care Centre
 =========================================

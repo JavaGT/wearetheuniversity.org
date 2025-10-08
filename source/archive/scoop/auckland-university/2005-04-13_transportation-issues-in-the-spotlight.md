@@ -1,9 +1,12 @@
 ---
 slug: transportation-issues-in-the-spotlight
-title: "Transportation issues in the spotlight"
-date: 2005-04-13
-source-url: https://www.scoop.co.nz/stories/ED0504/S00040/transportation-issues-in-the-spotlight.htm
+title: Transportation issues in the spotlight
+date: 2005-04-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0504/S00040/transportation-issues-in-the-spotlight.htm
 author: auckland-university
+permalink: /archive/2005/04/13/transportation-issues-in-the-spotlight/index.html
+layout: layout.njk
 ---
 Transportation issues in the spotlight
 ======================================

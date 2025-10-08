@@ -1,9 +1,12 @@
 ---
 slug: cause-for-concern-for-nz-freshwater-fish
-title: "Cause for concern for NZ freshwater fish"
-date: 2013-11-10
-source-url: https://www.scoop.co.nz/stories/AK1311/S00266/cause-for-concern-for-nz-freshwater-fish.htm
+title: Cause for concern for NZ freshwater fish
+date: 2013-11-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1311/S00266/cause-for-concern-for-nz-freshwater-fish.htm
 author: university-of-canterbury
+permalink: /archive/2013/11/10/cause-for-concern-for-nz-freshwater-fish/index.html
+layout: layout.njk
 ---
 Cause for concern for NZ freshwater fish
 ========================================

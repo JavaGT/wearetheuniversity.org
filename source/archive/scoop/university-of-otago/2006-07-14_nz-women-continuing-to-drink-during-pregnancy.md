@@ -1,9 +1,12 @@
 ---
 slug: nz-women-continuing-to-drink-during-pregnancy
-title: "NZ Women Continuing to Drink During Pregnancy"
-date: 2006-07-14
-source-url: https://www.scoop.co.nz/stories/GE0607/S00055/nz-women-continuing-to-drink-during-pregnancy.htm
+title: NZ Women Continuing to Drink During Pregnancy
+date: 2006-07-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0607/S00055/nz-women-continuing-to-drink-during-pregnancy.htm
 author: university-of-otago
+permalink: /archive/2006/07/14/nz-women-continuing-to-drink-during-pregnancy/index.html
+layout: layout.njk
 ---
 NZ Women Continuing to Drink During Pregnancy
 =============================================

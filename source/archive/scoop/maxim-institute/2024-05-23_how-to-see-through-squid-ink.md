@@ -1,9 +1,11 @@
 ---
 slug: how-to-see-through-squid-ink
-title: "How To See Through Squid Ink"
-date: 2024-05-23
+title: How To See Through Squid Ink
+date: 2024-05-23T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/AK2405/S00802/how-to-see-through-squid-ink.htm
 author: maxim-institute
+permalink: /archive/2024/05/23/how-to-see-through-squid-ink/index.html
+layout: layout.njk
 ---
 How To See Through Squid Ink
 ============================

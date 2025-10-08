@@ -1,9 +1,11 @@
 ---
 slug: we-could-do-much-better
-title: "We could do much better"
-date: 2012-12-21
+title: We could do much better
+date: 2012-12-21T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1212/S00331/we-could-do-much-better.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2012/12/21/we-could-do-much-better/index.html
+layout: layout.njk
 ---
 We could do much better
 =======================

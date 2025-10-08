@@ -1,9 +1,12 @@
 ---
 slug: lawns-site-of-backyard-environmental-salvation
-title: "Lawns – site of backyard environmental salvation?"
-date: 2018-01-16
-source-url: https://www.scoop.co.nz/stories/SC1801/S00018/lawns-site-of-backyard-environmental-salvation.htm
+title: Lawns – site of backyard environmental salvation?
+date: 2018-01-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1801/S00018/lawns-site-of-backyard-environmental-salvation.htm
 author: massey-university
+permalink: /archive/2018/01/16/lawns-site-of-backyard-environmental-salvation/index.html
+layout: layout.njk
 ---
 Lawns – site of backyard environmental salvation?
 =================================================

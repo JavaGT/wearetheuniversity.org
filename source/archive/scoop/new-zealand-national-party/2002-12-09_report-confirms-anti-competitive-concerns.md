@@ -1,9 +1,12 @@
 ---
 slug: report-confirms-anti-competitive-concerns
-title: "Report confirms anti-competitive concerns"
-date: 2002-12-09
-source-url: https://www.scoop.co.nz/stories/PA0212/S00205/report-confirms-anti-competitive-concerns.htm
+title: Report confirms anti-competitive concerns
+date: 2002-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00205/report-confirms-anti-competitive-concerns.htm
 author: new-zealand-national-party
+permalink: /archive/2002/12/09/report-confirms-anti-competitive-concerns/index.html
+layout: layout.njk
 ---
 Report confirms anti-competitive concerns
 =========================================

@@ -1,9 +1,12 @@
 ---
 slug: lincoln-it-day-installs-interest-in-pupils
-title: "Lincoln IT day installs interest in pupils"
-date: 2014-11-28
-source-url: https://www.scoop.co.nz/stories/ED1411/S00184/lincoln-it-day-installs-interest-in-pupils.htm
+title: Lincoln IT day installs interest in pupils
+date: 2014-11-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00184/lincoln-it-day-installs-interest-in-pupils.htm
 author: lincoln-university
+permalink: /archive/2014/11/28/lincoln-it-day-installs-interest-in-pupils/index.html
+layout: layout.njk
 ---
 Lincoln IT day installs interest in pupils
 ==========================================

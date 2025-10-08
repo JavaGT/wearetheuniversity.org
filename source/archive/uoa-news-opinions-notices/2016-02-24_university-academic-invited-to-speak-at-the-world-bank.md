@@ -1,8 +1,12 @@
 ---
 slug: university-academic-invited-to-speak-at-the-world-bank
-title: "University academic invited to speak at the World Bank"
-date: 2016-02-24
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/university-academic-invited-to-speak-at-the-world-bank.html
+title: University academic invited to speak at the World Bank
+date: 2016-02-24T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/university-academic-invited-to-speak-at-the-world-bank.html
+permalink: >-
+  /archive/2016/02/24/university-academic-invited-to-speak-at-the-world-bank/index.html
+layout: layout.njk
 ---
 University academic invited to speak at the World Bank
 ======================================================

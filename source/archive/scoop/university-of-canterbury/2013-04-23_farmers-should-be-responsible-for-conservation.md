@@ -1,9 +1,12 @@
 ---
 slug: farmers-should-be-responsible-for-conservation
-title: "Farmers Should Be Responsible For Conservation"
-date: 2013-04-23
-source-url: https://www.scoop.co.nz/stories/PO1304/S00296/farmers-should-be-responsible-for-conservation.htm
+title: Farmers Should Be Responsible For Conservation
+date: 2013-04-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1304/S00296/farmers-should-be-responsible-for-conservation.htm
 author: university-of-canterbury
+permalink: /archive/2013/04/23/farmers-should-be-responsible-for-conservation/index.html
+layout: layout.njk
 ---
 Farmers Should Be Responsible For Conservation
 ==============================================

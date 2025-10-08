@@ -1,9 +1,12 @@
 ---
 slug: peters-a-conspiracy-of-conspiracies
-title: "Peters: A Conspiracy Of Conspiracies"
-date: 2008-08-21
-source-url: https://www.scoop.co.nz/stories/PA0808/S00324/peters-a-conspiracy-of-conspiracies.htm
+title: 'Peters: A Conspiracy Of Conspiracies'
+date: 2008-08-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0808/S00324/peters-a-conspiracy-of-conspiracies.htm
 author: new-zealand-first-party
+permalink: /archive/2008/08/21/peters-a-conspiracy-of-conspiracies/index.html
+layout: layout.njk
 ---
 Peters: A Conspiracy Of Conspiracies
 ====================================

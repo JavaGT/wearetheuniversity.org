@@ -1,9 +1,12 @@
 ---
 slug: come-on-fletchers!-do-the-right-thing!
-title: "Come On Fletchers! Do The Right Thing!"
-date: 2020-04-02
-source-url: https://www.scoop.co.nz/stories/PO2004/S00022/come-on-fletchers-do-the-right-thing.htm
+title: Come On Fletchers! Do The Right Thing!
+date: 2020-04-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2004/S00022/come-on-fletchers-do-the-right-thing.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2020/04/02/come-on-fletchers/index.html
+layout: layout.njk
 ---
 Come On Fletchers! Do The Right Thing!
 ======================================

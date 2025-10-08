@@ -1,9 +1,13 @@
 ---
 slug: peters-policies-to-support-nz-manufacturers-and-exporters
-title: "Peters: Policies to support NZ Manufacturers and Exporters"
-date: 2014-07-22
-source-url: https://www.scoop.co.nz/stories/PA1407/S00394/peters-policies-to-support-nz-manufacturers-and-exporters.htm
+title: 'Peters: Policies to support NZ Manufacturers and Exporters'
+date: 2014-07-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1407/S00394/peters-policies-to-support-nz-manufacturers-and-exporters.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2014/07/22/peters-policies-to-support-nz-manufacturers-and-exporters/index.html
+layout: layout.njk
 ---
 Peters: Policies to support NZ Manufacturers and Exporters
 ==========================================================

@@ -1,9 +1,12 @@
 ---
 slug: a-nine-point-plan-for-university-action
-title: "A Nine-Point Plan For University Action"
-date: 2008-11-27
-source-url: https://www.scoop.co.nz/stories/ED0811/S00077/a-nine-point-plan-for-university-action.htm
+title: A Nine-Point Plan For University Action
+date: 2008-11-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0811/S00077/a-nine-point-plan-for-university-action.htm
 author: vice-chancellors-committee
+permalink: /archive/2008/11/27/a-nine-point-plan-for-university-action/index.html
+layout: layout.njk
 ---
 A Nine-Point Plan For University Action
 =======================================

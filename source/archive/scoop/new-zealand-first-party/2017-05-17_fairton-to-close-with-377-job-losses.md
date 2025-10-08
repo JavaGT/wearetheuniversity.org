@@ -1,9 +1,12 @@
 ---
 slug: fairton-to-close-with-377-job-losses
-title: "Fairton to Close with 377 Job Losses"
-date: 2017-05-17
-source-url: https://www.scoop.co.nz/stories/PA1705/S00366/fairton-to-close-with-377-job-losses.htm
+title: Fairton to Close with 377 Job Losses
+date: 2017-05-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1705/S00366/fairton-to-close-with-377-job-losses.htm
 author: new-zealand-first-party
+permalink: /archive/2017/05/17/fairton-to-close-with-377-job-losses/index.html
+layout: layout.njk
 ---
 Fairton to Close with 377 Job Losses
 ====================================

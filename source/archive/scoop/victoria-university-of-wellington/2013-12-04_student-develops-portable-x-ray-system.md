@@ -1,9 +1,12 @@
 ---
 slug: student-develops-portable-x-ray-system
-title: "Student develops portable X-ray system"
-date: 2013-12-04
-source-url: https://www.scoop.co.nz/stories/SC1312/S00018/student-develops-portable-x-ray-system.htm
+title: Student develops portable X-ray system
+date: 2013-12-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1312/S00018/student-develops-portable-x-ray-system.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/12/04/student-develops-portable-x-ray-system/index.html
+layout: layout.njk
 ---
 Student develops portable X-ray system
 ======================================

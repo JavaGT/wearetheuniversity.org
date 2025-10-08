@@ -1,9 +1,12 @@
 ---
 slug: injured-athlete-steps-out-for-sports-awards
-title: "Injured athlete steps out for sports awards"
-date: 2007-10-08
-source-url: https://www.scoop.co.nz/stories/ED0710/S00027/injured-athlete-steps-out-for-sports-awards.htm
+title: Injured athlete steps out for sports awards
+date: 2007-10-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0710/S00027/injured-athlete-steps-out-for-sports-awards.htm
 author: massey-university
+permalink: /archive/2007/10/08/injured-athlete-steps-out-for-sports-awards/index.html
+layout: layout.njk
 ---
 Injured athlete steps out for sports awards
 ===========================================

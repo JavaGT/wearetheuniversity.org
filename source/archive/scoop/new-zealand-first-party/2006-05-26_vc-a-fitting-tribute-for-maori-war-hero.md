@@ -1,9 +1,12 @@
 ---
 slug: vc-a-fitting-tribute-for-maori-war-hero
-title: "VC A Fitting Tribute For Maori War Hero"
-date: 2006-05-26
-source-url: https://www.scoop.co.nz/stories/PA0605/S00645/vc-a-fitting-tribute-for-maori-war-hero.htm
+title: VC A Fitting Tribute For Maori War Hero
+date: 2006-05-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0605/S00645/vc-a-fitting-tribute-for-maori-war-hero.htm
 author: new-zealand-first-party
+permalink: /archive/2006/05/26/vc-a-fitting-tribute-for-maori-war-hero/index.html
+layout: layout.njk
 ---
 VC A Fitting Tribute For Maori War Hero
 =======================================

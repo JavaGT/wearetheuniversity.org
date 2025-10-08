@@ -1,9 +1,12 @@
 ---
 slug: exhibition-manipulates-gallery-space
-title: "Exhibition manipulates gallery space"
-date: 2003-05-05
-source-url: https://www.scoop.co.nz/stories/ED0305/S00015/exhibition-manipulates-gallery-space.htm
+title: Exhibition manipulates gallery space
+date: 2003-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0305/S00015/exhibition-manipulates-gallery-space.htm
 author: university-of-canterbury
+permalink: /archive/2003/05/05/exhibition-manipulates-gallery-space/index.html
+layout: layout.njk
 ---
 Exhibition manipulates gallery space
 ====================================

@@ -1,9 +1,12 @@
 ---
 slug: students-appear-in-front-of-select-committee
-title: "Students Appear in Front of Select Committee"
-date: 2006-09-14
-source-url: https://www.scoop.co.nz/stories/ED0609/S00053/students-appear-in-front-of-select-committee.htm
+title: Students Appear in Front of Select Committee
+date: 2006-09-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0609/S00053/students-appear-in-front-of-select-committee.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2006/09/14/students-appear-in-front-of-select-committee/index.html
+layout: layout.njk
 ---
 Students Appear in Front of Select Committee
 ============================================

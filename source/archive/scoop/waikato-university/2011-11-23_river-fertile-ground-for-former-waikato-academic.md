@@ -1,9 +1,13 @@
 ---
 slug: river-fertile-ground-for-former-waikato-academic
-title: "River fertile ground for former Waikato academic"
-date: 2011-11-23
-source-url: https://www.scoop.co.nz/stories/ED1111/S00159/river-fertile-ground-for-former-waikato-academic.htm
+title: River fertile ground for former Waikato academic
+date: 2011-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1111/S00159/river-fertile-ground-for-former-waikato-academic.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/11/23/river-fertile-ground-for-former-waikato-academic/index.html
+layout: layout.njk
 ---
 River fertile ground for former Waikato academic
 ================================================

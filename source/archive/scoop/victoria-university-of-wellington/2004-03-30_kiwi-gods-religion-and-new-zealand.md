@@ -1,9 +1,12 @@
 ---
 slug: kiwi-gods-religion-and-new-zealand
-title: "Kiwi Gods: Religion and New Zealand"
-date: 2004-03-30
-source-url: https://www.scoop.co.nz/stories/ED0403/S00125/kiwi-gods-religion-and-new-zealand.htm
+title: 'Kiwi Gods: Religion and New Zealand'
+date: 2004-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0403/S00125/kiwi-gods-religion-and-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2004/03/30/kiwi-gods-religion-and-new-zealand/index.html
+layout: layout.njk
 ---
 Kiwi Gods: Religion and New Zealand
 ===================================

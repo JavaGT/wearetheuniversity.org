@@ -1,9 +1,12 @@
 ---
 slug: victoria-student-to-follow-great-explorer
-title: "Victoria student to follow great explorer"
-date: 2013-11-21
-source-url: https://www.scoop.co.nz/stories/CU1311/S00440/victoria-student-to-follow-great-explorer.htm
+title: Victoria student to follow great explorer
+date: 2013-11-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1311/S00440/victoria-student-to-follow-great-explorer.htm
 author: victoria-university-of-wellington
+permalink: /archive/2013/11/21/victoria-student-to-follow-great-explorer/index.html
+layout: layout.njk
 ---
 Victoria student to follow great explorer
 =========================================

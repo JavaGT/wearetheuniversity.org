@@ -1,9 +1,13 @@
 ---
 slug: cafe-scientifique-to-focus-on-what-makes-animals-happy
-title: "Cafe Scientifique to focus on what makes animals happy"
-date: 2011-08-30
-source-url: https://www.scoop.co.nz/stories/ED1108/S00156/cafe-scientifique-to-focus-on-what-makes-animals-happy.htm
+title: Cafe Scientifique to focus on what makes animals happy
+date: 2011-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1108/S00156/cafe-scientifique-to-focus-on-what-makes-animals-happy.htm
 author: waikato-university
+permalink: >-
+  /archive/2011/08/30/cafe-scientifique-to-focus-on-what-makes-animals-happy/index.html
+layout: layout.njk
 ---
 Cafe Scientifique to focus on what makes animals happy
 ======================================================

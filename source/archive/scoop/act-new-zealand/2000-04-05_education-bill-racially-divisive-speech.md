@@ -1,9 +1,12 @@
 ---
 slug: education-bill-racially-divisive-speech
-title: "Education Bill Racially Divisive - Speech"
-date: 2000-04-05
-source-url: https://www.scoop.co.nz/stories/PA0004/S00042/education-bill-racially-divisive-speech.htm
+title: Education Bill Racially Divisive - Speech
+date: 2000-04-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0004/S00042/education-bill-racially-divisive-speech.htm
 author: act-new-zealand
+permalink: /archive/2000/04/05/education-bill-racially-divisive-speech/index.html
+layout: layout.njk
 ---
 Education Bill Racially Divisive - Speech
 =========================================

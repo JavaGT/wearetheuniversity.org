@@ -1,9 +1,12 @@
 ---
 slug: get-on-the-bus-and-vote-maori-party
-title: "Get on the Bus and Vote Maori Party"
-date: 2008-10-02
-source-url: https://www.scoop.co.nz/stories/PO0810/S00020/get-on-the-bus-and-vote-maori-party.htm
+title: Get on the Bus and Vote Maori Party
+date: 2008-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0810/S00020/get-on-the-bus-and-vote-maori-party.htm
 author: te-pati-maori
+permalink: /archive/2008/10/02/get-on-the-bus-and-vote-maori-party/index.html
+layout: layout.njk
 ---
 Get on the Bus and Vote Maori Party
 ===================================

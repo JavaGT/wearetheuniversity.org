@@ -1,9 +1,12 @@
 ---
 slug: a-scottish-view-of-new-zealand-poetry
-title: "A Scottish View of New Zealand Poetry"
-date: 2010-03-31
-source-url: https://www.scoop.co.nz/stories/CU1003/S00432/a-scottish-view-of-new-zealand-poetry.htm
+title: A Scottish View of New Zealand Poetry
+date: 2010-03-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1003/S00432/a-scottish-view-of-new-zealand-poetry.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/03/31/a-scottish-view-of-new-zealand-poetry/index.html
+layout: layout.njk
 ---
 A Scottish View of New Zealand Poetry
 =====================================

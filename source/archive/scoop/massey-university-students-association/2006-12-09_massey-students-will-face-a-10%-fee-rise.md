@@ -1,9 +1,12 @@
 ---
 slug: massey-students-will-face-a-10%-fee-rise
-title: "Massey Students Will Face A 10% Fee Rise"
-date: 2006-12-09
-source-url: https://www.scoop.co.nz/stories/PO0612/S00126/massey-students-will-face-a-10-fee-rise.htm
+title: Massey Students Will Face A 10% Fee Rise
+date: 2006-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0612/S00126/massey-students-will-face-a-10-fee-rise.htm
 author: massey-university-students-association
+permalink: /archive/2006/12/09/massey-students-will-face-a-10/index.html
+layout: layout.njk
 ---
 Massey Students Will Face A 10% Fee Rise
 ========================================

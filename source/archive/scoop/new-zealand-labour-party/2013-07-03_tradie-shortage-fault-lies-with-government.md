@@ -1,9 +1,12 @@
 ---
 slug: tradie-shortage-fault-lies-with-government
-title: "Tradie shortage fault lies with Government"
-date: 2013-07-03
-source-url: https://www.scoop.co.nz/stories/PA1307/S00061/tradie-shortage-fault-lies-with-government.htm
+title: Tradie shortage fault lies with Government
+date: 2013-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00061/tradie-shortage-fault-lies-with-government.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/03/tradie-shortage-fault-lies-with-government/index.html
+layout: layout.njk
 ---
 Tradie shortage fault lies with Government
 ==========================================

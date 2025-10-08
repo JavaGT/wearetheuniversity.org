@@ -1,9 +1,12 @@
 ---
 slug: possible-win-win-situation-for-two-industries
-title: "Possible win-win situation for two industries"
-date: 2011-04-12
-source-url: https://www.scoop.co.nz/stories/ED1104/S00042/possible-win-win-situation-for-two-industries.htm
+title: Possible win-win situation for two industries
+date: 2011-04-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1104/S00042/possible-win-win-situation-for-two-industries.htm
 author: lincoln-university
+permalink: /archive/2011/04/12/possible-win-win-situation-for-two-industries/index.html
+layout: layout.njk
 ---
 Possible win-win situation for two industries
 =============================================

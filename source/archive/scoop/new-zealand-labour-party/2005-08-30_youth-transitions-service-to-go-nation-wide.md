@@ -1,9 +1,12 @@
 ---
 slug: youth-transitions-service-to-go-nation-wide
-title: "Youth Transitions Service to go nation-wide"
-date: 2005-08-30
-source-url: https://www.scoop.co.nz/stories/PA0508/S00767/youth-transitions-service-to-go-nation-wide.htm
+title: Youth Transitions Service to go nation-wide
+date: 2005-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00767/youth-transitions-service-to-go-nation-wide.htm
 author: new-zealand-labour-party
+permalink: /archive/2005/08/30/youth-transitions-service-to-go-nation-wide/index.html
+layout: layout.njk
 ---
 Youth Transitions Service to go nation-wide
 ===========================================

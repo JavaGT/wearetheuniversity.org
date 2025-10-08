@@ -1,9 +1,12 @@
 ---
 slug: mbie-funds-uc-researchers-ideas-for-over-$3-million
-title: "MBIE funds UC researchers’ ideas for over $3 million"
-date: 2015-09-22
-source-url: https://www.scoop.co.nz/stories/ED1509/S00131/mbie-funds-uc-researchers-ideas-for-over-3-million.htm
+title: MBIE funds UC researchers’ ideas for over $3 million
+date: 2015-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1509/S00131/mbie-funds-uc-researchers-ideas-for-over-3-million.htm
 author: university-of-canterbury
+permalink: /archive/2015/09/22/mbie-funds-uc-researchers-ideas-for-over-/index.html
+layout: layout.njk
 ---
 MBIE funds UC researchers’ ideas for over $3 million
 ====================================================

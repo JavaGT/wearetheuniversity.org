@@ -1,9 +1,13 @@
 ---
 slug: local-doctoral-student-wins-prized-international-award
-title: "Local Doctoral Student Wins Prized International Award"
-date: 2019-10-10
-source-url: https://www.scoop.co.nz/stories/ED1910/S00021/local-doctoral-student-wins-prized-international-award.htm
+title: Local Doctoral Student Wins Prized International Award
+date: 2019-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1910/S00021/local-doctoral-student-wins-prized-international-award.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2019/10/10/local-doctoral-student-wins-prized-international-award/index.html
+layout: layout.njk
 ---
 Local Doctoral Student Wins Prized International Award
 ======================================================

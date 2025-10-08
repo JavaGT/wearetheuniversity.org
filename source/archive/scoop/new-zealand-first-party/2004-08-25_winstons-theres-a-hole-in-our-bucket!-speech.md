@@ -1,9 +1,12 @@
 ---
 slug: winstons-theres-a-hole-in-our-bucket!-speech
-title: "Winston's \"There’s a Hole in Our Bucket!\" Speech"
-date: 2004-08-25
-source-url: https://www.scoop.co.nz/stories/PA0408/S00414/winstons-theres-a-hole-in-our-bucket-speech.htm
+title: Winston's "There’s a Hole in Our Bucket!" Speech
+date: 2004-08-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0408/S00414/winstons-theres-a-hole-in-our-bucket-speech.htm
 author: new-zealand-first-party
+permalink: /archive/2004/08/25/winstons-theres-a-hole-in-our-bucket/index.html
+layout: layout.njk
 ---
 Winston's “There’s a Hole in Our Bucket!” Speech
 ================================================

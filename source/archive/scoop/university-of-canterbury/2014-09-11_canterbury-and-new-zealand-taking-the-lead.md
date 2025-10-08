@@ -1,9 +1,12 @@
 ---
 slug: canterbury-and-new-zealand-taking-the-lead
-title: "Canterbury and New Zealand taking the lead"
-date: 2014-09-11
-source-url: https://www.scoop.co.nz/stories/SC1409/S00043/canterbury-and-new-zealand-taking-the-lead.htm
+title: Canterbury and New Zealand taking the lead
+date: 2014-09-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1409/S00043/canterbury-and-new-zealand-taking-the-lead.htm
 author: university-of-canterbury
+permalink: /archive/2014/09/11/canterbury-and-new-zealand-taking-the-lead/index.html
+layout: layout.njk
 ---
 Canterbury and New Zealand taking the lead
 ==========================================

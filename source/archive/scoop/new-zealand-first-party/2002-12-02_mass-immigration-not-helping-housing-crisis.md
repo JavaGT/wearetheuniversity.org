@@ -1,9 +1,12 @@
 ---
 slug: mass-immigration-not-helping-housing-crisis
-title: "Mass Immigration Not Helping Housing Crisis"
-date: 2002-12-02
-source-url: https://www.scoop.co.nz/stories/PA0212/S00026/mass-immigration-not-helping-housing-crisis.htm
+title: Mass Immigration Not Helping Housing Crisis
+date: 2002-12-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0212/S00026/mass-immigration-not-helping-housing-crisis.htm
 author: new-zealand-first-party
+permalink: /archive/2002/12/02/mass-immigration-not-helping-housing-crisis/index.html
+layout: layout.njk
 ---
 Mass Immigration Not Helping Housing Crisis
 ===========================================

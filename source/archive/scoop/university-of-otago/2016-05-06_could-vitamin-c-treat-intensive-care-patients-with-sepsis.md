@@ -1,9 +1,13 @@
 ---
 slug: could-vitamin-c-treat-intensive-care-patients-with-sepsis
-title: "Could vitamin C treat intensive care patients with sepsis?"
-date: 2016-05-06
-source-url: https://www.scoop.co.nz/stories/SC1605/S00013/could-vitamin-c-treat-intensive-care-patients-with-sepsis.htm
+title: Could vitamin C treat intensive care patients with sepsis?
+date: 2016-05-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00013/could-vitamin-c-treat-intensive-care-patients-with-sepsis.htm
 author: university-of-otago
+permalink: >-
+  /archive/2016/05/06/could-vitamin-c-treat-intensive-care-patients-with-sepsis/index.html
+layout: layout.njk
 ---
 Could vitamin C treat intensive care patients with sepsis?
 ==========================================================

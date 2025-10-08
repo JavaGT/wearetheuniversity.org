@@ -1,9 +1,12 @@
 ---
 slug: ousa-supports-student-actions
-title: "OUSA Supports Student Actions"
-date: 2002-06-17
-source-url: https://www.scoop.co.nz/stories/ED0206/S00037/ousa-supports-student-actions.htm
+title: OUSA Supports Student Actions
+date: 2002-06-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0206/S00037/ousa-supports-student-actions.htm
 author: otago-university-students-association
+permalink: /archive/2002/06/17/ousa-supports-student-actions/index.html
+layout: layout.njk
 ---
 OUSA Supports Student Actions
 =============================

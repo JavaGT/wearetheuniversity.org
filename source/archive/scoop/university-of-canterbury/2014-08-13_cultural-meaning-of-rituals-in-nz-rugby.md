@@ -1,9 +1,12 @@
 ---
 slug: cultural-meaning-of-rituals-in-nz-rugby
-title: "Cultural meaning of rituals in NZ rugby"
-date: 2014-08-13
-source-url: https://www.scoop.co.nz/stories/CU1408/S00175/cultural-meaning-of-rituals-in-nz-rugby.htm
+title: Cultural meaning of rituals in NZ rugby
+date: 2014-08-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1408/S00175/cultural-meaning-of-rituals-in-nz-rugby.htm
 author: university-of-canterbury
+permalink: /archive/2014/08/13/cultural-meaning-of-rituals-in-nz-rugby/index.html
+layout: layout.njk
 ---
 Cultural meaning of rituals in NZ rugby
 =======================================

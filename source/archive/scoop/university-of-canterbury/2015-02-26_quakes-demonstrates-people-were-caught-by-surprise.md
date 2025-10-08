@@ -1,9 +1,13 @@
 ---
 slug: quakes-demonstrates-people-were-caught-by-surprise
-title: "Quakes demonstrates people were caught by surprise"
-date: 2015-02-26
-source-url: https://www.scoop.co.nz/stories/AK1502/S00641/quakes-demonstrates-people-were-caught-by-surprise.htm
+title: Quakes demonstrates people were caught by surprise
+date: 2015-02-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1502/S00641/quakes-demonstrates-people-were-caught-by-surprise.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/26/quakes-demonstrates-people-were-caught-by-surprise/index.html
+layout: layout.njk
 ---
 Quakes demonstrates people were caught by surprise
 ==================================================

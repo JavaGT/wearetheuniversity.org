@@ -1,9 +1,12 @@
 ---
 slug: the-rise-of-buddhism-in-new-zealand
-title: "The rise of Buddhism in New Zealand"
-date: 2010-01-18
-source-url: https://www.scoop.co.nz/stories/CU1001/S00099/the-rise-of-buddhism-in-new-zealand.htm
+title: The rise of Buddhism in New Zealand
+date: 2010-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1001/S00099/the-rise-of-buddhism-in-new-zealand.htm
 author: victoria-university-of-wellington
+permalink: /archive/2010/01/18/the-rise-of-buddhism-in-new-zealand/index.html
+layout: layout.njk
 ---
 The rise of Buddhism in New Zealand
 ===================================

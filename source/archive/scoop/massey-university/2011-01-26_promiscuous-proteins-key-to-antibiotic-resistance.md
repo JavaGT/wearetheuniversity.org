@@ -1,9 +1,13 @@
 ---
 slug: promiscuous-proteins-key-to-antibiotic-resistance
-title: "Promiscuous proteins key to antibiotic resistance"
-date: 2011-01-26
-source-url: https://www.scoop.co.nz/stories/SC1101/S00052/promiscuous-proteins-key-to-antibiotic-resistance.htm
+title: Promiscuous proteins key to antibiotic resistance
+date: 2011-01-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1101/S00052/promiscuous-proteins-key-to-antibiotic-resistance.htm
 author: massey-university
+permalink: >-
+  /archive/2011/01/26/promiscuous-proteins-key-to-antibiotic-resistance/index.html
+layout: layout.njk
 ---
 Promiscuous proteins key to antibiotic resistance
 =================================================

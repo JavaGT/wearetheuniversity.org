@@ -1,9 +1,11 @@
 ---
 slug: the-mapp-report-16-oct-2009
-title: "The Mapp Report 16 Oct 2009"
-date: 2009-10-16
+title: The Mapp Report 16 Oct 2009
+date: 2009-10-16T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0910/S00230/the-mapp-report-16-oct-2009.htm
 author: new-zealand-national-party
+permalink: /archive/2009/10/16/the-mapp-report-16-oct-2009/index.html
+layout: layout.njk
 ---
 The Mapp Report 16 Oct 2009
 ===========================

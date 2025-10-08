@@ -1,9 +1,13 @@
 ---
 slug: top-marine-ecologist-named-science-communicator-of-the-year
-title: "Top marine ecologist named science communicator of the year"
-date: 2015-11-20
-source-url: https://www.scoop.co.nz/stories/SC1511/S00075/top-marine-ecologist-named-science-communicator-of-the-year.htm
+title: Top marine ecologist named science communicator of the year
+date: 2015-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1511/S00075/top-marine-ecologist-named-science-communicator-of-the-year.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2015/11/20/top-marine-ecologist-named-science-communicator-of-the-year/index.html
+layout: layout.njk
 ---
 Top marine ecologist named science communicator of the year
 ===========================================================

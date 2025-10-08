@@ -1,9 +1,12 @@
 ---
 slug: turia-better-representation-for-maori
-title: "Turia - Better representation for Maori?"
-date: 2005-05-12
-source-url: https://www.scoop.co.nz/stories/PA0505/S00302/turia-better-representation-for-maori.htm
+title: Turia - Better representation for Maori?
+date: 2005-05-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0505/S00302/turia-better-representation-for-maori.htm
 author: te-pati-maori
+permalink: /archive/2005/05/12/turia-better-representation-for-maori/index.html
+layout: layout.njk
 ---
 Turia - Better representation for Maori?
 ========================================

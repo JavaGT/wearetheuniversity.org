@@ -1,9 +1,12 @@
 ---
 slug: universities-awarded-92-5%-of-marsden-research-funding
-title: "Universities awarded 92.5% of Marsden research funding"
-date: 2016-11-04
-source-url: https://www.scoop.co.nz/stories/ED1611/S00031/universities-awarded-925-of-marsden-research-funding.htm
+title: Universities awarded 92.5% of Marsden research funding
+date: 2016-11-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1611/S00031/universities-awarded-925-of-marsden-research-funding.htm
 author: universities-new-zealand-te-pokai-tara
+permalink: /archive/2016/11/04/universities-awarded-92-5/index.html
+layout: layout.njk
 ---
 Universities awarded 92.5% of Marsden research funding
 ======================================================

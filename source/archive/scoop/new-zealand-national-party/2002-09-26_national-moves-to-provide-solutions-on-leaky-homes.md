@@ -1,9 +1,13 @@
 ---
 slug: national-moves-to-provide-solutions-on-leaky-homes
-title: "National moves to provide solutions on leaky homes"
-date: 2002-09-26
-source-url: https://www.scoop.co.nz/stories/PA0209/S00434/national-moves-to-provide-solutions-on-leaky-homes.htm
+title: National moves to provide solutions on leaky homes
+date: 2002-09-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0209/S00434/national-moves-to-provide-solutions-on-leaky-homes.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2002/09/26/national-moves-to-provide-solutions-on-leaky-homes/index.html
+layout: layout.njk
 ---
 National moves to provide solutions on leaky homes
 ==================================================

@@ -1,9 +1,13 @@
 ---
 slug: act-party-is-delighted-with-opening-of-partnership-school
-title: "ACT Party is delighted with opening of partnership school"
-date: 2014-02-16
-source-url: https://www.scoop.co.nz/stories/ED1402/S00058/act-party-is-delighted-with-opening-of-partnership-school.htm
+title: ACT Party is delighted with opening of partnership school
+date: 2014-02-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1402/S00058/act-party-is-delighted-with-opening-of-partnership-school.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2014/02/16/act-party-is-delighted-with-opening-of-partnership-school/index.html
+layout: layout.njk
 ---
 ACT Party is delighted with opening of partnership school
 =========================================================

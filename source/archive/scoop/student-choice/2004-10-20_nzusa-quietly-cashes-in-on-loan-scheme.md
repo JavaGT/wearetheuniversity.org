@@ -1,9 +1,12 @@
 ---
 slug: nzusa-quietly-cashes-in-on-loan-scheme
-title: "NZUSA Quietly Cashes In On Loan Scheme"
-date: 2004-10-20
-source-url: https://www.scoop.co.nz/stories/ED0410/S00077/nzusa-quietly-cashes-in-on-loan-scheme.htm
+title: NZUSA Quietly Cashes In On Loan Scheme
+date: 2004-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0410/S00077/nzusa-quietly-cashes-in-on-loan-scheme.htm
 author: student-choice
+permalink: /archive/2004/10/20/nzusa-quietly-cashes-in-on-loan-scheme/index.html
+layout: layout.njk
 ---
 NZUSA Quietly Cashes In On Loan Scheme
 ======================================

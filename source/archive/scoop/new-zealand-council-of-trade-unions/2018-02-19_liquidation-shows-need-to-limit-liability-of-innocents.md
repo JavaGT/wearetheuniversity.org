@@ -1,9 +1,13 @@
 ---
 slug: liquidation-shows-need-to-limit-liability-of-innocents
-title: "Liquidation shows need to limit liability of innocents"
-date: 2018-02-19
-source-url: https://www.scoop.co.nz/stories/BU1802/S00445/liquidation-shows-need-to-limit-liability-of-innocents.htm
+title: Liquidation shows need to limit liability of innocents
+date: 2018-02-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1802/S00445/liquidation-shows-need-to-limit-liability-of-innocents.htm
 author: new-zealand-council-of-trade-unions
+permalink: >-
+  /archive/2018/02/19/liquidation-shows-need-to-limit-liability-of-innocents/index.html
+layout: layout.njk
 ---
 Liquidation shows need to limit liability of innocents
 ======================================================

@@ -1,9 +1,12 @@
 ---
 slug: labour-desperate-and-irresponsible-with-loans
-title: "Labour ‘desperate and irresponsible’ with loans"
-date: 2005-07-26
-source-url: https://www.scoop.co.nz/stories/PA0507/S00559/labour-desperate-and-irresponsible-with-loans.htm
+title: Labour ‘desperate and irresponsible’ with loans
+date: 2005-07-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0507/S00559/labour-desperate-and-irresponsible-with-loans.htm
 author: new-zealand-national-party
+permalink: /archive/2005/07/26/labour-desperate-and-irresponsible-with-loans/index.html
+layout: layout.njk
 ---
 Labour ‘desperate and irresponsible’ with loans
 ===============================================

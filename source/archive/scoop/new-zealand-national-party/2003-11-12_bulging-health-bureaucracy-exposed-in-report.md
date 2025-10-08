@@ -1,9 +1,12 @@
 ---
 slug: bulging-health-bureaucracy-exposed-in-report
-title: "Bulging health bureaucracy exposed in report"
-date: 2003-11-12
-source-url: https://www.scoop.co.nz/stories/PA0311/S00282/bulging-health-bureaucracy-exposed-in-report.htm
+title: Bulging health bureaucracy exposed in report
+date: 2003-11-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00282/bulging-health-bureaucracy-exposed-in-report.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/12/bulging-health-bureaucracy-exposed-in-report/index.html
+layout: layout.njk
 ---
 Bulging health bureaucracy exposed in report
 ============================================

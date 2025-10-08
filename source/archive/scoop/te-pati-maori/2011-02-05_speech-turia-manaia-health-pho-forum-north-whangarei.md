@@ -1,9 +1,13 @@
 ---
 slug: speech-turia-manaia-health-pho-forum-north-whangarei
-title: "Speech: Turia - Manaia Health PHO Forum North Whangarei"
-date: 2011-02-05
-source-url: https://www.scoop.co.nz/stories/PA1102/S00067/speech-turia-manaia-health-pho-forum-north-whangarei.htm
+title: 'Speech: Turia - Manaia Health PHO Forum North Whangarei'
+date: 2011-02-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1102/S00067/speech-turia-manaia-health-pho-forum-north-whangarei.htm
 author: te-pati-maori
+permalink: >-
+  /archive/2011/02/05/speech-turia-manaia-health-pho-forum-north-whangarei/index.html
+layout: layout.njk
 ---
 Speech: Turia - Manaia Health PHO Forum North Whangarei
 =======================================================

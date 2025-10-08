@@ -1,9 +1,12 @@
 ---
 slug: hipkins-arrogance-will-cost-students
-title: "Hipkins’ arrogance will cost students"
-date: 2018-08-23
-source-url: https://www.scoop.co.nz/stories/PA1808/S00282/hipkins-arrogance-will-cost-students.htm
+title: Hipkins’ arrogance will cost students
+date: 2018-08-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1808/S00282/hipkins-arrogance-will-cost-students.htm
 author: new-zealand-national-party
+permalink: /archive/2018/08/23/hipkins-arrogance-will-cost-students/index.html
+layout: layout.njk
 ---
 Hipkins’ arrogance will cost students
 =====================================

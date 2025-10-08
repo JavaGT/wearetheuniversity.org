@@ -1,9 +1,12 @@
 ---
 slug: journalism-educations-dynamic-changes
-title: "Journalism education’s dynamic changes"
-date: 2018-12-10
-source-url: https://www.scoop.co.nz/stories/ED1812/S00028/journalism-educations-dynamic-changes.htm
+title: Journalism education’s dynamic changes
+date: 2018-12-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1812/S00028/journalism-educations-dynamic-changes.htm
 author: massey-university
+permalink: /archive/2018/12/10/journalism-educations-dynamic-changes/index.html
+layout: layout.njk
 ---
 Journalism education’s dynamic changes
 ======================================

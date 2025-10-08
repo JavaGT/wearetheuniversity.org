@@ -1,9 +1,12 @@
 ---
 slug: teu-tertiary-update-vol-12-no-7
-title: "TEU Tertiary Update Vol 12  No 7"
-date: 2009-03-19
-source-url: https://www.scoop.co.nz/stories/ED0903/S00071/teu-tertiary-update-vol-12-no-7.htm
+title: TEU Tertiary Update Vol 12  No 7
+date: 2009-03-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0903/S00071/teu-tertiary-update-vol-12-no-7.htm
 author: association-of-university-staff
+permalink: /archive/2009/03/19/teu-tertiary-update-vol-12-no-7/index.html
+layout: layout.njk
 ---
 TEU Tertiary Update Vol 12 No 7
 ===============================

@@ -1,9 +1,12 @@
 ---
 slug: pgf-job-numbers-pulled-of-out-of-thin-air
-title: "PGF job numbers pulled of out of thin air"
-date: 2019-04-08
-source-url: https://www.scoop.co.nz/stories/PA1904/S00067/pgf-job-numbers-pulled-of-out-of-thin-air.htm
+title: PGF job numbers pulled of out of thin air
+date: 2019-04-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1904/S00067/pgf-job-numbers-pulled-of-out-of-thin-air.htm
 author: act-new-zealand
+permalink: /archive/2019/04/08/pgf-job-numbers-pulled-of-out-of-thin-air/index.html
+layout: layout.njk
 ---
 PGF job numbers pulled of out of thin air
 =========================================

@@ -1,9 +1,16 @@
 ---
-slug: a-talking-cookbook-wins-business-challenge-a-talking-cookbook-wins-business-challenge-top-pr
-title: "A talking cookbook wins business challenge A talking cookbook wins business challenge top pr"
-date: 2006-10-03
-source-url: https://www.scoop.co.nz/stories/ED0610/S00004/a-talking-cookbook-wins-business-challenge-a-talking-cookbook-wins-business-challenge-top-pr.htm
+slug: >-
+  a-talking-cookbook-wins-business-challenge-a-talking-cookbook-wins-business-challenge-top-pr
+title: >-
+  A talking cookbook wins business challenge A talking cookbook wins business
+  challenge top pr
+date: 2006-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0610/S00004/a-talking-cookbook-wins-business-challenge-a-talking-cookbook-wins-business-challenge-top-pr.htm
 author: aut-university
+permalink: >-
+  /archive/2006/10/03/a-talking-cookbook-wins-business-challenge-a-talking-cookbook-wins-business-challenge-top-pr/index.html
+layout: layout.njk
 ---
 A talking cookbook wins business challenge A talking cookbook wins business challenge top pr
 ============================================================================================

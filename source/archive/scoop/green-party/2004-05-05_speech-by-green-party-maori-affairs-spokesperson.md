@@ -1,9 +1,13 @@
 ---
 slug: speech-by-green-party-maori-affairs-spokesperson
-title: "Speech by Green Party Maori Affairs Spokesperson"
-date: 2004-05-05
-source-url: https://www.scoop.co.nz/stories/PA0405/S00070/speech-by-green-party-maori-affairs-spokesperson.htm
+title: Speech by Green Party Maori Affairs Spokesperson
+date: 2004-05-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0405/S00070/speech-by-green-party-maori-affairs-spokesperson.htm
 author: green-party
+permalink: >-
+  /archive/2004/05/05/speech-by-green-party-maori-affairs-spokesperson/index.html
+layout: layout.njk
 ---
 Speech by Green Party Maori Affairs Spokesperson
 ================================================

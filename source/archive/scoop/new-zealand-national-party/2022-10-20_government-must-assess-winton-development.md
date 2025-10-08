@@ -1,9 +1,12 @@
 ---
 slug: government-must-assess-winton-development
-title: "Government Must Assess Winton Development"
-date: 2022-10-20
-source-url: https://www.scoop.co.nz/stories/PA2210/S00140/government-must-assess-winton-development.htm
+title: Government Must Assess Winton Development
+date: 2022-10-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2210/S00140/government-must-assess-winton-development.htm
 author: new-zealand-national-party
+permalink: /archive/2022/10/20/government-must-assess-winton-development/index.html
+layout: layout.njk
 ---
 Government Must Assess Winton Development
 =========================================

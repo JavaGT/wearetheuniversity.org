@@ -1,9 +1,12 @@
 ---
 slug: future-leaders-need-more-knowledge-and-skills
-title: "Future leaders need more knowledge and skills"
-date: 2008-12-11
-source-url: https://www.scoop.co.nz/stories/BU0812/S00242/future-leaders-need-more-knowledge-and-skills.htm
+title: Future leaders need more knowledge and skills
+date: 2008-12-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0812/S00242/future-leaders-need-more-knowledge-and-skills.htm
 author: university-of-waikato
+permalink: /archive/2008/12/11/future-leaders-need-more-knowledge-and-skills/index.html
+layout: layout.njk
 ---
 Future leaders need more knowledge and skills
 =============================================

@@ -1,9 +1,15 @@
 ---
-slug: act-releases-full-list&bios-for-first-49-candidates-from-small-business-farming-law-&-engineering
-title: "ACT Releases Full List&Bios For First 49 Candidates From Small Business, Farming, Law & Engineering"
-date: 2020-05-24
-source-url: https://www.scoop.co.nz/stories/PO2005/S00321/act-releases-full-listbios-for-first-49-candidates-from-small-business-farming-law-engineering.htm
+slug: >-
+  act-releases-full-list&bios-for-first-49-candidates-from-small-business-farming-law-&-engineering
+title: >-
+  ACT Releases Full List&Bios For First 49 Candidates From Small Business,
+  Farming, Law & Engineering
+date: 2020-05-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2005/S00321/act-releases-full-listbios-for-first-49-candidates-from-small-business-farming-law-engineering.htm
 author: act-new-zealand
+permalink: /archive/2020/05/24/act-releases-full-list/index.html
+layout: layout.njk
 ---
 ACT Releases Full List&Bios For First 49 Candidates From Small Business, Farming, Law & Engineering
 ===================================================================================================

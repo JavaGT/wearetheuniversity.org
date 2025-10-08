@@ -1,9 +1,12 @@
 ---
 slug: tertiary-education-who-knows-best
-title: "Tertiary Education: Who Knows Best?"
-date: 2006-04-28
-source-url: https://www.scoop.co.nz/stories/BU0604/S00443/tertiary-education-who-knows-best.htm
+title: 'Tertiary Education: Who Knows Best?'
+date: 2006-04-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0604/S00443/tertiary-education-who-knows-best.htm
 author: new-zealand-business-roundtable
+permalink: /archive/2006/04/28/tertiary-education-who-knows-best/index.html
+layout: layout.njk
 ---
 Tertiary Education: Who Knows Best?
 ===================================

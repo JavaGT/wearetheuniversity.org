@@ -1,9 +1,13 @@
 ---
 slug: lincoln-university-student-to-mix-with-new-leaders-in-us
-title: "Lincoln University Student to Mix with ‘New Leaders’ In US"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/WO1305/S00380/lincoln-university-student-to-mix-with-new-leaders-in-us.htm
+title: Lincoln University Student to Mix with ‘New Leaders’ In US
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/WO1305/S00380/lincoln-university-student-to-mix-with-new-leaders-in-us.htm
 author: lincoln-university
+permalink: >-
+  /archive/2013/05/16/lincoln-university-student-to-mix-with-new-leaders-in-us/index.html
+layout: layout.njk
 ---
 Lincoln University Student to Mix with ‘New Leaders’ In US
 ==========================================================

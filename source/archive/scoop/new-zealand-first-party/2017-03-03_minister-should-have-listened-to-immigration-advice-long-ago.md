@@ -1,9 +1,13 @@
 ---
 slug: minister-should-have-listened-to-immigration-advice-long-ago
-title: "Minister Should Have Listened to Immigration Advice Long Ago"
-date: 2017-03-03
-source-url: https://www.scoop.co.nz/stories/PA1703/S00040/minister-should-have-listened-to-immigration-advice-long-ago.htm
+title: Minister Should Have Listened to Immigration Advice Long Ago
+date: 2017-03-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1703/S00040/minister-should-have-listened-to-immigration-advice-long-ago.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2017/03/03/minister-should-have-listened-to-immigration-advice-long-ago/index.html
+layout: layout.njk
 ---
 Minister Should Have Listened to Immigration Advice Long Ago
 ============================================================

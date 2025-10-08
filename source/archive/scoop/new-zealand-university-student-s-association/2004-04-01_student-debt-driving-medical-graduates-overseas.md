@@ -1,9 +1,12 @@
 ---
 slug: student-debt-driving-medical-graduates-overseas
-title: "Student debt driving medical graduates overseas"
-date: 2004-04-01
-source-url: https://www.scoop.co.nz/stories/ED0404/S00006/student-debt-driving-medical-graduates-overseas.htm
+title: Student debt driving medical graduates overseas
+date: 2004-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0404/S00006/student-debt-driving-medical-graduates-overseas.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2004/04/01/student-debt-driving-medical-graduates-overseas/index.html
+layout: layout.njk
 ---
 Student debt driving medical graduates overseas
 ===============================================

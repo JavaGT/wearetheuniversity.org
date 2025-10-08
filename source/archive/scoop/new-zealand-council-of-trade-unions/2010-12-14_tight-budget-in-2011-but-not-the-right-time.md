@@ -1,9 +1,12 @@
 ---
 slug: tight-budget-in-2011-but-not-the-right-time
-title: "Tight Budget in 2011, but not the right time"
-date: 2010-12-14
-source-url: https://www.scoop.co.nz/stories/PO1012/S00160/tight-budget-in-2011-but-not-the-right-time.htm
+title: Tight Budget in 2011, but not the right time
+date: 2010-12-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1012/S00160/tight-budget-in-2011-but-not-the-right-time.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2010/12/14/tight-budget-in-2011-but-not-the-right-time/index.html
+layout: layout.njk
 ---
 Tight Budget in 2011, but not the right time
 ============================================

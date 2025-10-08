@@ -1,9 +1,12 @@
 ---
 slug: otago-appoints-professor-of-human-nutrition
-title: "Otago appoints Professor of Human Nutrition"
-date: 2014-05-07
-source-url: https://www.scoop.co.nz/stories/ED1405/S00037/otago-appoints-professor-of-human-nutrition.htm
+title: Otago appoints Professor of Human Nutrition
+date: 2014-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1405/S00037/otago-appoints-professor-of-human-nutrition.htm
 author: university-of-otago
+permalink: /archive/2014/05/07/otago-appoints-professor-of-human-nutrition/index.html
+layout: layout.njk
 ---
 Otago appoints Professor of Human Nutrition
 ===========================================

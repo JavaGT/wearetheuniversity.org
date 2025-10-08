@@ -1,9 +1,12 @@
 ---
 slug: labour-will-lift-cap-for-medical-students
-title: "Labour will lift cap for medical students"
-date: 2014-06-20
-source-url: https://www.scoop.co.nz/stories/PA1406/S00331/labour-will-lift-cap-for-medical-students.htm
+title: Labour will lift cap for medical students
+date: 2014-06-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1406/S00331/labour-will-lift-cap-for-medical-students.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/06/20/labour-will-lift-cap-for-medical-students/index.html
+layout: layout.njk
 ---
 Labour will lift cap for medical students
 =========================================

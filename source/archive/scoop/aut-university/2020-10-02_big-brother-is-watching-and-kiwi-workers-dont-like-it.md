@@ -1,9 +1,13 @@
 ---
 slug: big-brother-is-watching-and-kiwi-workers-dont-like-it
-title: "Big Brother Is Watching And Kiwi Workers Don’t Like It"
-date: 2020-10-02
-source-url: https://www.scoop.co.nz/stories/PO2010/S00021/big-brother-is-watching-and-kiwi-workers-dont-like-it.htm
+title: Big Brother Is Watching And Kiwi Workers Don’t Like It
+date: 2020-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO2010/S00021/big-brother-is-watching-and-kiwi-workers-dont-like-it.htm
 author: aut-university
+permalink: >-
+  /archive/2020/10/02/big-brother-is-watching-and-kiwi-workers-dont-like-it/index.html
+layout: layout.njk
 ---
 Big Brother Is Watching And Kiwi Workers Don’t Like It
 ======================================================

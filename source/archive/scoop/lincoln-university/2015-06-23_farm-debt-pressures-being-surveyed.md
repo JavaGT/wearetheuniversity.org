@@ -1,9 +1,12 @@
 ---
 slug: farm-debt-pressures-being-surveyed
-title: "Farm debt pressures being surveyed"
-date: 2015-06-23
-source-url: https://www.scoop.co.nz/stories/BU1506/S00812/farm-debt-pressures-being-surveyed.htm
+title: Farm debt pressures being surveyed
+date: 2015-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1506/S00812/farm-debt-pressures-being-surveyed.htm
 author: lincoln-university
+permalink: /archive/2015/06/23/farm-debt-pressures-being-surveyed/index.html
+layout: layout.njk
 ---
 Farm debt pressures being surveyed
 ==================================

@@ -1,9 +1,13 @@
 ---
 slug: peters-calls-upon-fonterra-to-suspend-global-dairy-auction
-title: "Peters Calls upon Fonterra to Suspend Global Dairy Auction"
-date: 2015-08-09
-source-url: https://www.scoop.co.nz/stories/PA1508/S00111/peters-calls-upon-fonterra-to-suspend-global-dairy-auction.htm
+title: Peters Calls upon Fonterra to Suspend Global Dairy Auction
+date: 2015-08-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1508/S00111/peters-calls-upon-fonterra-to-suspend-global-dairy-auction.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/08/09/peters-calls-upon-fonterra-to-suspend-global-dairy-auction/index.html
+layout: layout.njk
 ---
 Peters Calls upon Fonterra to Suspend Global Dairy Auction
 ==========================================================

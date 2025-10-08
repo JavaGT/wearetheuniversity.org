@@ -1,9 +1,13 @@
 ---
 slug: no-action-on-skills-no-plan-to-face-the-challeng
-title: "No action on skills – no plan to face the challeng"
-date: 2010-08-26
-source-url: https://www.scoop.co.nz/stories/PA1008/S00412/no-action-on-skills-no-plan-to-face-the-challeng.htm
+title: No action on skills – no plan to face the challeng
+date: 2010-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1008/S00412/no-action-on-skills-no-plan-to-face-the-challeng.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2010/08/26/no-action-on-skills-no-plan-to-face-the-challeng/index.html
+layout: layout.njk
 ---
 No action on skills – no plan to face the challeng
 ==================================================

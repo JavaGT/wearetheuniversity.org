@@ -1,9 +1,12 @@
 ---
 slug: cost-of-fighting-computer-crime-in-nz-revealed
-title: "Cost of fighting computer crime in NZ revealed"
-date: 2006-08-08
-source-url: https://www.scoop.co.nz/stories/BU0608/S00156/cost-of-fighting-computer-crime-in-nz-revealed.htm
+title: Cost of fighting computer crime in NZ revealed
+date: 2006-08-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0608/S00156/cost-of-fighting-computer-crime-in-nz-revealed.htm
 author: university-of-otago
+permalink: /archive/2006/08/08/cost-of-fighting-computer-crime-in-nz-revealed/index.html
+layout: layout.njk
 ---
 Cost of fighting computer crime in NZ revealed
 ==============================================

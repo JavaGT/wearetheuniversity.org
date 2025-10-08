@@ -1,9 +1,12 @@
 ---
 slug: budget-documents-reveal-kiwisaver-deceit
-title: "Budget documents reveal Kiwisaver deceit"
-date: 2015-07-10
-source-url: https://www.scoop.co.nz/stories/PA1507/S00178/budget-documents-reveal-kiwisaver-deceit.htm
+title: Budget documents reveal Kiwisaver deceit
+date: 2015-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1507/S00178/budget-documents-reveal-kiwisaver-deceit.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/07/10/budget-documents-reveal-kiwisaver-deceit/index.html
+layout: layout.njk
 ---
 Budget documents reveal Kiwisaver deceit
 ========================================

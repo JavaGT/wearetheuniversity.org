@@ -1,9 +1,12 @@
 ---
 slug: labours-delaying-costs-a-by-election-every-hour
-title: "Labour's Delaying Costs: A By-Election Every Hour"
-date: 2011-06-03
-source-url: https://www.scoop.co.nz/stories/PA1106/S00061/labours-delaying-costs-a-by-election-every-hour.htm
+title: 'Labour''s Delaying Costs: A By-Election Every Hour'
+date: 2011-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1106/S00061/labours-delaying-costs-a-by-election-every-hour.htm
 author: act-new-zealand
+permalink: /archive/2011/06/03/labours-delaying-costs-a-by-election-every-hour/index.html
+layout: layout.njk
 ---
 Labour's Delaying Costs: A By-Election Every Hour
 =================================================

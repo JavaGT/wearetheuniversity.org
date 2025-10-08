@@ -1,9 +1,13 @@
 ---
 slug: researchers-urge-caution-using-red-zone-for-food-production
-title: "Researchers urge caution using Red Zone for food production"
-date: 2017-10-24
-source-url: https://www.scoop.co.nz/stories/AK1710/S00495/researchers-urge-caution-using-red-zone-for-food-production.htm
+title: Researchers urge caution using Red Zone for food production
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1710/S00495/researchers-urge-caution-using-red-zone-for-food-production.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2017/10/24/researchers-urge-caution-using-red-zone-for-food-production/index.html
+layout: layout.njk
 ---
 Researchers urge caution using Red Zone for food production
 ===========================================================

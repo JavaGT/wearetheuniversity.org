@@ -1,9 +1,13 @@
 ---
 slug: criticism-unfounded-we-must-get-tracing-numbers-up
-title: "Criticism Unfounded – We Must Get Tracing Numbers Up"
-date: 2021-01-13
-source-url: https://www.scoop.co.nz/stories/PA2101/S00023/criticism-unfounded-we-must-get-tracing-numbers-up.htm
+title: Criticism Unfounded – We Must Get Tracing Numbers Up
+date: 2021-01-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00023/criticism-unfounded-we-must-get-tracing-numbers-up.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/01/13/criticism-unfounded-we-must-get-tracing-numbers-up/index.html
+layout: layout.njk
 ---
 Criticism Unfounded – We Must Get Tracing Numbers Up
 ====================================================

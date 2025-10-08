@@ -1,9 +1,12 @@
 ---
 slug: second-year-success-for-rams-academy
-title: "Second year success for Rams Academy"
-date: 2017-05-08
-source-url: https://www.scoop.co.nz/stories/ED1705/S00032/second-year-success-for-rams-academy.htm
+title: Second year success for Rams Academy
+date: 2017-05-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1705/S00032/second-year-success-for-rams-academy.htm
 author: massey-university
+permalink: /archive/2017/05/08/second-year-success-for-rams-academy/index.html
+layout: layout.njk
 ---
 Second year success for Rams Academy
 ====================================

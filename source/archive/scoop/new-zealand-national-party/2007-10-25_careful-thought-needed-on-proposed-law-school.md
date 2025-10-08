@@ -1,9 +1,12 @@
 ---
 slug: careful-thought-needed-on-proposed-law-school
-title: "Careful thought needed on proposed law school"
-date: 2007-10-25
-source-url: https://www.scoop.co.nz/stories/PA0710/S00465/careful-thought-needed-on-proposed-law-school.htm
+title: Careful thought needed on proposed law school
+date: 2007-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0710/S00465/careful-thought-needed-on-proposed-law-school.htm
 author: new-zealand-national-party
+permalink: /archive/2007/10/25/careful-thought-needed-on-proposed-law-school/index.html
+layout: layout.njk
 ---
 Careful thought needed on proposed law school
 =============================================

@@ -1,9 +1,12 @@
 ---
 slug: astronomers-sights-set-on-december-1
-title: "Astronomers’ sights set on December 1"
-date: 2004-11-24
-source-url: https://www.scoop.co.nz/stories/SC0411/S00066/astronomers-sights-set-on-december-1.htm
+title: Astronomers’ sights set on December 1
+date: 2004-11-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0411/S00066/astronomers-sights-set-on-december-1.htm
 author: university-of-canterbury
+permalink: /archive/2004/11/24/astronomers-sights-set-on-december-1/index.html
+layout: layout.njk
 ---
 Astronomers’ sights set on December 1
 =====================================

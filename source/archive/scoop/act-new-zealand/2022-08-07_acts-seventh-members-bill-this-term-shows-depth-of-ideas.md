@@ -1,9 +1,13 @@
 ---
 slug: acts-seventh-members-bill-this-term-shows-depth-of-ideas
-title: "ACT's Seventh Member's Bill This Term Shows Depth Of Ideas"
-date: 2022-08-07
-source-url: https://www.scoop.co.nz/stories/PA2208/S00066/acts-seventh-members-bill-this-term-shows-depth-of-ideas.htm
+title: ACT's Seventh Member's Bill This Term Shows Depth Of Ideas
+date: 2022-08-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2208/S00066/acts-seventh-members-bill-this-term-shows-depth-of-ideas.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2022/08/07/acts-seventh-members-bill-this-term-shows-depth-of-ideas/index.html
+layout: layout.njk
 ---
 ACT's Seventh Member's Bill This Term Shows Depth Of Ideas
 ==========================================================

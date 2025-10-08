@@ -1,9 +1,12 @@
 ---
 slug: beehive-bulletin-24-october-2003
-title: "Beehive Bulletin - 24 October 2003"
-date: 2003-10-24
-source-url: https://www.scoop.co.nz/stories/PA0310/S00602/beehive-bulletin-24-october-2003.htm
+title: Beehive Bulletin - 24 October 2003
+date: 2003-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00602/beehive-bulletin-24-october-2003.htm
 author: new-zealand-labour-party
+permalink: /archive/2003/10/24/beehive-bulletin-24-october-2003/index.html
+layout: layout.njk
 ---
 Beehive Bulletin - 24 October 2003
 ==================================

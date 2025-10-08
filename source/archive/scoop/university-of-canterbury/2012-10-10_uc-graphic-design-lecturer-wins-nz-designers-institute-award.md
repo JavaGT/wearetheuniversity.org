@@ -1,9 +1,13 @@
 ---
 slug: uc-graphic-design-lecturer-wins-nz-designers-institute-award
-title: "UC Graphic Design Lecturer Wins NZ Designers Institute Award"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/CU1210/S00188/uc-graphic-design-lecturer-wins-nz-designers-institute-award.htm
+title: UC Graphic Design Lecturer Wins NZ Designers Institute Award
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1210/S00188/uc-graphic-design-lecturer-wins-nz-designers-institute-award.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2012/10/10/uc-graphic-design-lecturer-wins-nz-designers-institute-award/index.html
+layout: layout.njk
 ---
 UC Graphic Design Lecturer Wins NZ Designers Institute Award
 ============================================================

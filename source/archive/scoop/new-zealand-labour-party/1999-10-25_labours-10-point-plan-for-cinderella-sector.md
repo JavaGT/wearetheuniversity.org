@@ -1,9 +1,12 @@
 ---
 slug: labours-10-point-plan-for-cinderella-sector
-title: "Labour's 10-point plan for \"Cinderella sector\""
-date: 1999-10-25
-source-url: https://www.scoop.co.nz/stories/PA9910/S00576/labours-10-point-plan-for-cinderella-sector.htm
+title: Labour's 10-point plan for "Cinderella sector"
+date: 1999-10-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9910/S00576/labours-10-point-plan-for-cinderella-sector.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/10/25/labours-10-point-plan-for-cinderella-sector/index.html
+layout: layout.njk
 ---
 Labour's 10-point plan for \"Cinderella sector"
 ==============================================

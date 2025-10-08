@@ -1,9 +1,12 @@
 ---
 slug: student-needs-must-come-first-in-college-merger
-title: "Student needs must come first in College merger"
-date: 2005-02-11
-source-url: https://www.scoop.co.nz/stories/ED0502/S00038/student-needs-must-come-first-in-college-merger.htm
+title: Student needs must come first in College merger
+date: 2005-02-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0502/S00038/student-needs-must-come-first-in-college-merger.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2005/02/11/student-needs-must-come-first-in-college-merger/index.html
+layout: layout.njk
 ---
 Student needs must come first in College merger
 ===============================================

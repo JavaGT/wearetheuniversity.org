@@ -1,9 +1,13 @@
 ---
 slug: education-minister-on-official-online-league-tables
-title: "Education Minister on official online league tables"
-date: 2012-02-01
-source-url: https://www.scoop.co.nz/stories/ED1202/S00010/education-minister-on-official-online-league-tables.htm
+title: Education Minister on official online league tables
+date: 2012-02-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1202/S00010/education-minister-on-official-online-league-tables.htm
 author: nzei
+permalink: >-
+  /archive/2012/02/01/education-minister-on-official-online-league-tables/index.html
+layout: layout.njk
 ---
 Education Minister on official online league tables
 ===================================================

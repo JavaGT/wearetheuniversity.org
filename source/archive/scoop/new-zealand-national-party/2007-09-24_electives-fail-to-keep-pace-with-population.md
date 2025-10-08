@@ -1,9 +1,12 @@
 ---
 slug: electives-fail-to-keep-pace-with-population
-title: "Electives fail to keep pace with population"
-date: 2007-09-24
-source-url: https://www.scoop.co.nz/stories/PA0709/S00412/electives-fail-to-keep-pace-with-population.htm
+title: Electives fail to keep pace with population
+date: 2007-09-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0709/S00412/electives-fail-to-keep-pace-with-population.htm
 author: new-zealand-national-party
+permalink: /archive/2007/09/24/electives-fail-to-keep-pace-with-population/index.html
+layout: layout.njk
 ---
 Electives fail to keep pace with population
 ===========================================

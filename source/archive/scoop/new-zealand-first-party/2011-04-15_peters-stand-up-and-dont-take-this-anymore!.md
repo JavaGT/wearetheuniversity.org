@@ -1,9 +1,12 @@
 ---
 slug: peters-stand-up-and-dont-take-this-anymore!
-title: "Peters: \"Stand up and don’t take this anymore!\""
-date: 2011-04-15
-source-url: https://www.scoop.co.nz/stories/PO1104/S00214/peters-stand-up-and-dont-take-this-anymore.htm
+title: 'Peters: "Stand up and don’t take this anymore!"'
+date: 2011-04-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1104/S00214/peters-stand-up-and-dont-take-this-anymore.htm
 author: new-zealand-first-party
+permalink: /archive/2011/04/15/peters-stand-up-and-dont-take-this-anymore/index.html
+layout: layout.njk
 ---
 Peters: “Stand up and don’t take this anymore!”
 ===============================================

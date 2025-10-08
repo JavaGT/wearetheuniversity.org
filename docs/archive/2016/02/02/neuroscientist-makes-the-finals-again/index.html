@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Neuroscientist makes the finals again – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Neuroscientist makes the finals again</h2><h3><span></span></h3><p>Tue Feb 02 2016 13:00:00 GMT+1300 (New Zealand Daylight Time)</p><p><h1>Neuroscientist makes the finals again</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Neuroscientist makes the finals again</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Neuroscientist makes the finals again</h1>
 <p>02 February 2016</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/02/neuroscientist-makes-the-finals-again/_jcr_content/par/textimage/image.img.jpg/1457309202096.jpg" alt="Malvindar at microscope" title="Malvindar at microscope"></p>
 <p>Dr Malvindar Singh-Bains</p>
@@ -17,7 +41,27 @@
 <p>Malvindar is also very committed to bringing her scientific research into the local and global community. She has presented her research in several parts of the world, including Boston, Massachusetts and in Rio de Janeiro at the World Congress of Huntington’s Disease in 2013.</p>
 <p>In May 2013, Malvindar presented her research at the National Huntington’s disease Association Conference as a guest speaker. After consultation with HD families at this conference, Malvindar decided to form the Huntington’s Disease Youth Organisation of New Zealand (HDYO-NZ), a charity dedicated to provide support to the youth of NZ impacted by HD.</p>
 <p>She is the co-chairperson of HDYO-NZ and since 2014, has actively organised fundraising and Huntington disease awareness promotions - from bake sales to running a “Givealittle” page, and hosting a screening of the documentary “The Inheritance” - raising $5000 for a website to support, educate and advocate for young New Zealanders impacted by Huntington’s disease.</p>
-<p>Due to her passion and commitment to the Huntington’s disease community, she was elected in 2015 as one of the new board members of the Huntington’s Disease Association Auckland Committee, evaluating scientific literature relating to Huntington’s disease and representing HDYO-NZ’s voice on the board.  
- </p>
+<p>Due to her passion and commitment to the Huntington’s disease community, she was elected in 2015 as one of the new board members of the Huntington’s Disease Association Auckland Committee, evaluating scientific literature relating to Huntington’s disease and representing HDYO-NZ’s voice on the board.</p>
 <p>For media enquiries email <a href="mailto:s.phillips@auckland.ac.nz">Medical and Health Media Advisor Suzi Phillips.</a></p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

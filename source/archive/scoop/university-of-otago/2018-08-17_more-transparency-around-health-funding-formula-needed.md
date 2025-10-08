@@ -1,9 +1,13 @@
 ---
 slug: more-transparency-around-health-funding-formula-needed
-title: "More transparency around health funding formula needed"
-date: 2018-08-17
-source-url: https://www.scoop.co.nz/stories/GE1808/S00047/more-transparency-around-health-funding-formula-needed.htm
+title: More transparency around health funding formula needed
+date: 2018-08-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1808/S00047/more-transparency-around-health-funding-formula-needed.htm
 author: university-of-otago
+permalink: >-
+  /archive/2018/08/17/more-transparency-around-health-funding-formula-needed/index.html
+layout: layout.njk
 ---
 More transparency around health funding formula needed
 ======================================================

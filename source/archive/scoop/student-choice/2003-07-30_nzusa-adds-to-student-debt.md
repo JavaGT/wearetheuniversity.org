@@ -1,9 +1,11 @@
 ---
 slug: nzusa-adds-to-student-debt
-title: "Nzusa Adds To Student Debt"
-date: 2003-07-30
+title: Nzusa Adds To Student Debt
+date: 2003-07-30T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0307/S00075/nzusa-adds-to-student-debt.htm
 author: student-choice
+permalink: /archive/2003/07/30/nzusa-adds-to-student-debt/index.html
+layout: layout.njk
 ---
 Nzusa Adds To Student Debt
 ==========================

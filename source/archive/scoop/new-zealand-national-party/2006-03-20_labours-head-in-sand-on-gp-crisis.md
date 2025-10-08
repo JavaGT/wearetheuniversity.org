@@ -1,9 +1,12 @@
 ---
 slug: labours-head-in-sand-on-gp-crisis
-title: "Labour's head in sand on GP crisis"
-date: 2006-03-20
-source-url: https://www.scoop.co.nz/stories/PA0603/S00317/labours-head-in-sand-on-gp-crisis.htm
+title: Labour's head in sand on GP crisis
+date: 2006-03-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0603/S00317/labours-head-in-sand-on-gp-crisis.htm
 author: new-zealand-national-party
+permalink: /archive/2006/03/20/labours-head-in-sand-on-gp-crisis/index.html
+layout: layout.njk
 ---
 Labour's head in sand on GP crisis
 ==================================

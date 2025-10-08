@@ -1,9 +1,12 @@
 ---
 slug: uc-engineering-excels-with-$11-8m-mbie-endeavour-funding
-title: "UC Engineering excels with $11.8m MBIE Endeavour Funding"
-date: 2019-09-17
-source-url: https://www.scoop.co.nz/stories/BU1909/S00421/uc-engineering-excels-with-118m-mbie-endeavour-funding.htm
+title: UC Engineering excels with $11.8m MBIE Endeavour Funding
+date: 2019-09-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1909/S00421/uc-engineering-excels-with-118m-mbie-endeavour-funding.htm
 author: university-of-canterbury
+permalink: /archive/2019/09/17/uc-engineering-excels-with-/index.html
+layout: layout.njk
 ---
 UC Engineering excels with $11.8m MBIE Endeavour Funding
 ========================================================

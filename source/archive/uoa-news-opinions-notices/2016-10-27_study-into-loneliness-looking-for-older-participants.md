@@ -1,8 +1,12 @@
 ---
 slug: study-into-loneliness-looking-for-older-participants
-title: "Study into loneliness looking for older participants"
-date: 2016-10-27
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/study-into-loneliness-looking-for-older-participants0.html
+title: Study into loneliness looking for older participants
+date: 2016-10-27T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/10/study-into-loneliness-looking-for-older-participants0.html
+permalink: >-
+  /archive/2016/10/27/study-into-loneliness-looking-for-older-participants/index.html
+layout: layout.njk
 ---
 Study into loneliness looking for older participants
 ====================================================

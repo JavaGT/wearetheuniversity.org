@@ -1,9 +1,12 @@
 ---
 slug: new-medical-school-will-deliver-more-doctors
-title: "New Medical School Will Deliver More Doctors"
-date: 2023-07-05
-source-url: https://www.scoop.co.nz/stories/PA2307/S00015/new-medical-school-will-deliver-more-doctors.htm
+title: New Medical School Will Deliver More Doctors
+date: 2023-07-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2307/S00015/new-medical-school-will-deliver-more-doctors.htm
 author: new-zealand-national-party
+permalink: /archive/2023/07/05/new-medical-school-will-deliver-more-doctors/index.html
+layout: layout.njk
 ---
 New Medical School Will Deliver More Doctors
 ============================================

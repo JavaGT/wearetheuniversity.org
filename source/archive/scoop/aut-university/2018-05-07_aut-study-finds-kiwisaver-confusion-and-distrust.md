@@ -1,9 +1,13 @@
 ---
 slug: aut-study-finds-kiwisaver-confusion-and-distrust
-title: "AUT Study Finds Kiwisaver Confusion And Distrust"
-date: 2018-05-07
-source-url: https://www.scoop.co.nz/stories/BU1805/S00173/aut-study-finds-kiwisaver-confusion-and-distrust.htm
+title: AUT Study Finds Kiwisaver Confusion And Distrust
+date: 2018-05-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1805/S00173/aut-study-finds-kiwisaver-confusion-and-distrust.htm
 author: aut-university
+permalink: >-
+  /archive/2018/05/07/aut-study-finds-kiwisaver-confusion-and-distrust/index.html
+layout: layout.njk
 ---
 AUT Study Finds Kiwisaver Confusion And Distrust
 ================================================

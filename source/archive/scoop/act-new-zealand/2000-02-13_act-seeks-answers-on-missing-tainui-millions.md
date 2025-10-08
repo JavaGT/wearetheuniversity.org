@@ -1,9 +1,12 @@
 ---
 slug: act-seeks-answers-on-missing-tainui-millions
-title: "ACT Seeks Answers On Missing Tainui Millions"
-date: 2000-02-13
-source-url: https://www.scoop.co.nz/stories/PA0002/S00150/act-seeks-answers-on-missing-tainui-millions.htm
+title: ACT Seeks Answers On Missing Tainui Millions
+date: 2000-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0002/S00150/act-seeks-answers-on-missing-tainui-millions.htm
 author: act-new-zealand
+permalink: /archive/2000/02/13/act-seeks-answers-on-missing-tainui-millions/index.html
+layout: layout.njk
 ---
 ACT Seeks Answers On Missing Tainui Millions
 ============================================

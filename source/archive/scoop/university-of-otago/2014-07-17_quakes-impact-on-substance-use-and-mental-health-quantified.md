@@ -1,9 +1,13 @@
 ---
 slug: quakes-impact-on-substance-use-and-mental-health-quantified
-title: "Quakes impact on substance use and mental health quantified"
-date: 2014-07-17
-source-url: https://www.scoop.co.nz/stories/SC1407/S00041/quakes-impact-on-substance-use-and-mental-health-quantified.htm
+title: Quakes impact on substance use and mental health quantified
+date: 2014-07-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1407/S00041/quakes-impact-on-substance-use-and-mental-health-quantified.htm
 author: university-of-otago
+permalink: >-
+  /archive/2014/07/17/quakes-impact-on-substance-use-and-mental-health-quantified/index.html
+layout: layout.njk
 ---
 Quakes impact on substance use and mental health quantified
 ===========================================================

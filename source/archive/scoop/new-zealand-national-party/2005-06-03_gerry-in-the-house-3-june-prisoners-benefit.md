@@ -1,9 +1,12 @@
 ---
 slug: gerry-in-the-house-3-june-prisoners-benefit
-title: "Gerry In The House  3 June - Prisoners Benefit"
-date: 2005-06-03
-source-url: https://www.scoop.co.nz/stories/PA0506/S00095/gerry-in-the-house-3-june-prisoners-benefit.htm
+title: Gerry In The House  3 June - Prisoners Benefit
+date: 2005-06-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0506/S00095/gerry-in-the-house-3-june-prisoners-benefit.htm
 author: new-zealand-national-party
+permalink: /archive/2005/06/03/gerry-in-the-house-3-june-prisoners-benefit/index.html
+layout: layout.njk
 ---
 Gerry In The House 3 June - Prisoners Benefit
 =============================================

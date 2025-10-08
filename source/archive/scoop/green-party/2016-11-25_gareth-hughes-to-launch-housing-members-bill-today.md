@@ -1,9 +1,13 @@
 ---
 slug: gareth-hughes-to-launch-housing-members-bill-today
-title: "Gareth Hughes to launch housing Member’s Bill today"
-date: 2016-11-25
-source-url: https://www.scoop.co.nz/stories/PA1611/S00487/gareth-hughes-to-launch-housing-members-bill-today.htm
+title: Gareth Hughes to launch housing Member’s Bill today
+date: 2016-11-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1611/S00487/gareth-hughes-to-launch-housing-members-bill-today.htm
 author: green-party
+permalink: >-
+  /archive/2016/11/25/gareth-hughes-to-launch-housing-members-bill-today/index.html
+layout: layout.njk
 ---
 Gareth Hughes to launch housing Member’s Bill today
 ===================================================

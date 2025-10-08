@@ -1,9 +1,13 @@
 ---
 slug: contributions-recognised-with-lincoln-university-medal
-title: "Contributions recognised with Lincoln University Medal"
-date: 2014-11-20
-source-url: https://www.scoop.co.nz/stories/ED1411/S00125/contributions-recognised-with-lincoln-university-medal.htm
+title: Contributions recognised with Lincoln University Medal
+date: 2014-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1411/S00125/contributions-recognised-with-lincoln-university-medal.htm
 author: lincoln-university
+permalink: >-
+  /archive/2014/11/20/contributions-recognised-with-lincoln-university-medal/index.html
+layout: layout.njk
 ---
 Contributions recognised with Lincoln University Medal
 ======================================================

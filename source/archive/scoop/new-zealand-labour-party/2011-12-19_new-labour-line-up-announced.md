@@ -1,9 +1,11 @@
 ---
 slug: new-labour-line-up-announced
-title: "New Labour line-up announced"
-date: 2011-12-19
+title: New Labour line-up announced
+date: 2011-12-19T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA1112/S00129/new-labour-line-up-announced.htm
 author: new-zealand-labour-party
+permalink: /archive/2011/12/19/new-labour-line-up-announced/index.html
+layout: layout.njk
 ---
 New Labour line-up announced
 ============================

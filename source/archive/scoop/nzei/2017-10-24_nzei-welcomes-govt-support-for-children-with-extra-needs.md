@@ -1,9 +1,13 @@
 ---
 slug: nzei-welcomes-govt-support-for-children-with-extra-needs
-title: "NZEI welcomes Govt support for children with extra needs"
-date: 2017-10-24
-source-url: https://www.scoop.co.nz/stories/PO1710/S00201/nzei-welcomes-govt-support-for-children-with-extra-needs.htm
+title: NZEI welcomes Govt support for children with extra needs
+date: 2017-10-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1710/S00201/nzei-welcomes-govt-support-for-children-with-extra-needs.htm
 author: nzei
+permalink: >-
+  /archive/2017/10/24/nzei-welcomes-govt-support-for-children-with-extra-needs/index.html
+layout: layout.njk
 ---
 NZEI welcomes Govt support for children with extra needs
 ========================================================

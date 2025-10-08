@@ -1,9 +1,12 @@
 ---
 slug: canterbury-university-staff-cuts-short-sighted
-title: "Canterbury University staff cuts short sighted"
-date: 2012-08-01
-source-url: https://www.scoop.co.nz/stories/PA1208/S00025/canterbury-university-staff-cuts-short-sighted.htm
+title: Canterbury University staff cuts short sighted
+date: 2012-08-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1208/S00025/canterbury-university-staff-cuts-short-sighted.htm
 author: green-party
+permalink: /archive/2012/08/01/canterbury-university-staff-cuts-short-sighted/index.html
+layout: layout.njk
 ---
 Canterbury University staff cuts short sighted
 ==============================================

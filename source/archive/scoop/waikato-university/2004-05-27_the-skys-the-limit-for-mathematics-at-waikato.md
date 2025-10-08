@@ -1,9 +1,12 @@
 ---
 slug: the-skys-the-limit-for-mathematics-at-waikato
-title: "The sky’s the limit for Mathematics at Waikato"
-date: 2004-05-27
-source-url: https://www.scoop.co.nz/stories/ED0405/S00100/the-skys-the-limit-for-mathematics-at-waikato.htm
+title: The sky’s the limit for Mathematics at Waikato
+date: 2004-05-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0405/S00100/the-skys-the-limit-for-mathematics-at-waikato.htm
 author: waikato-university
+permalink: /archive/2004/05/27/the-skys-the-limit-for-mathematics-at-waikato/index.html
+layout: layout.njk
 ---
 The sky’s the limit for Mathematics at Waikato
 ==============================================

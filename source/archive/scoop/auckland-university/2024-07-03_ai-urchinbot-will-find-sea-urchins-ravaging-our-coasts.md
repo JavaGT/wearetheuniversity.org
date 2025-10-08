@@ -1,9 +1,12 @@
 ---
 slug: ai-`urchinbot-will-find-sea-urchins-ravaging-our-coasts
-title: "AI `urchinbot’ Will Find Sea Urchins Ravaging Our Coasts"
-date: 2024-07-03
-source-url: https://www.scoop.co.nz/stories/SC2407/S00006/ai-urchinbot-will-find-sea-urchins-ravaging-our-coasts.htm
+title: AI `urchinbot’ Will Find Sea Urchins Ravaging Our Coasts
+date: 2024-07-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC2407/S00006/ai-urchinbot-will-find-sea-urchins-ravaging-our-coasts.htm
 author: auckland-university
+permalink: /archive/2024/07/03/ai-/index.html
+layout: layout.njk
 ---
 AI \`urchinbot’ Will Find Sea Urchins Ravaging Our Coasts
 =========================================================

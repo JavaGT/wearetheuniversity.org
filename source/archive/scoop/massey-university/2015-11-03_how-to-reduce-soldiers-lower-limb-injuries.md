@@ -1,9 +1,12 @@
 ---
 slug: how-to-reduce-soldiers-lower-limb-injuries
-title: "How to reduce soldiers’ lower limb injuries"
-date: 2015-11-03
-source-url: https://www.scoop.co.nz/stories/GE1511/S00005/how-to-reduce-soldiers-lower-limb-injuries.htm
+title: How to reduce soldiers’ lower limb injuries
+date: 2015-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1511/S00005/how-to-reduce-soldiers-lower-limb-injuries.htm
 author: massey-university
+permalink: /archive/2015/11/03/how-to-reduce-soldiers-lower-limb-injuries/index.html
+layout: layout.njk
 ---
 How to reduce soldiers’ lower limb injuries
 ===========================================

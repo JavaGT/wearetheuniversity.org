@@ -1,9 +1,12 @@
 ---
 slug: vineyard-device-saves-back-wet-feet-and-time
-title: "Vineyard device saves back, wet feet and time"
-date: 2016-05-23
-source-url: https://www.scoop.co.nz/stories/SC1605/S00053/vineyard-device-saves-back-wet-feet-and-time.htm
+title: Vineyard device saves back, wet feet and time
+date: 2016-05-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1605/S00053/vineyard-device-saves-back-wet-feet-and-time.htm
 author: lincoln-university
+permalink: /archive/2016/05/23/vineyard-device-saves-back-wet-feet-and-time/index.html
+layout: layout.njk
 ---
 Vineyard device saves back, wet feet and time
 =============================================

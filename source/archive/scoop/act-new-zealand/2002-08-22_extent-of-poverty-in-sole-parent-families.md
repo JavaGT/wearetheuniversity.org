@@ -1,9 +1,12 @@
 ---
 slug: extent-of-poverty-in-sole-parent-families
-title: "Extent of Poverty in Sole Parent Families"
-date: 2002-08-22
-source-url: https://www.scoop.co.nz/stories/PA0208/S00191/extent-of-poverty-in-sole-parent-families.htm
+title: Extent of Poverty in Sole Parent Families
+date: 2002-08-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0208/S00191/extent-of-poverty-in-sole-parent-families.htm
 author: act-new-zealand
+permalink: /archive/2002/08/22/extent-of-poverty-in-sole-parent-families/index.html
+layout: layout.njk
 ---
 Extent of Poverty in Sole Parent Families
 =========================================

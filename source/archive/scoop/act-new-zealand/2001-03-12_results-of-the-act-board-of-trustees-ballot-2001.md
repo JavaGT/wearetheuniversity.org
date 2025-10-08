@@ -1,9 +1,13 @@
 ---
 slug: results-of-the-act-board-of-trustees-ballot-2001
-title: "Results of the ACT Board of Trustees Ballot 2001"
-date: 2001-03-12
-source-url: https://www.scoop.co.nz/stories/PO0103/S00045/results-of-the-act-board-of-trustees-ballot-2001.htm
+title: Results of the ACT Board of Trustees Ballot 2001
+date: 2001-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0103/S00045/results-of-the-act-board-of-trustees-ballot-2001.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2001/03/12/results-of-the-act-board-of-trustees-ballot-2001/index.html
+layout: layout.njk
 ---
 Results of the ACT Board of Trustees Ballot 2001
 ================================================

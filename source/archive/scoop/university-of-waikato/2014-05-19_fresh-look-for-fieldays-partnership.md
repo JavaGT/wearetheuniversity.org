@@ -1,9 +1,12 @@
 ---
 slug: fresh-look-for-fieldays-partnership
-title: "Fresh look for Fieldays partnership"
-date: 2014-05-19
-source-url: https://www.scoop.co.nz/stories/BU1405/S00630/fresh-look-for-fieldays-partnership.htm
+title: Fresh look for Fieldays partnership
+date: 2014-05-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1405/S00630/fresh-look-for-fieldays-partnership.htm
 author: university-of-waikato
+permalink: /archive/2014/05/19/fresh-look-for-fieldays-partnership/index.html
+layout: layout.njk
 ---
 Fresh look for Fieldays partnership
 ===================================

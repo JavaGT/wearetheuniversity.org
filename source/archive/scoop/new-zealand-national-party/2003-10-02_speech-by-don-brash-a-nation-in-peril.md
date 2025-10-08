@@ -1,9 +1,12 @@
 ---
 slug: speech-by-don-brash-a-nation-in-peril
-title: "Speech by Don Brash - A Nation in Peril"
-date: 2003-10-02
-source-url: https://www.scoop.co.nz/stories/PA0310/S00044/speech-by-don-brash-a-nation-in-peril.htm
+title: Speech by Don Brash - A Nation in Peril
+date: 2003-10-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00044/speech-by-don-brash-a-nation-in-peril.htm
 author: new-zealand-national-party
+permalink: /archive/2003/10/02/speech-by-don-brash-a-nation-in-peril/index.html
+layout: layout.njk
 ---
 Speech by Don Brash - A Nation in Peril
 =======================================

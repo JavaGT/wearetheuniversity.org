@@ -1,9 +1,12 @@
 ---
 slug: a-pitiful-nats-hand-wringing-exercise-clark
-title: "A pitiful Nats hand-wringing exercise - Clark"
-date: 1999-08-18
-source-url: https://www.scoop.co.nz/stories/PA9908/S00305/a-pitiful-nats-hand-wringing-exercise-clark.htm
+title: A pitiful Nats hand-wringing exercise - Clark
+date: 1999-08-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA9908/S00305/a-pitiful-nats-hand-wringing-exercise-clark.htm
 author: new-zealand-labour-party
+permalink: /archive/1999/08/18/a-pitiful-nats-hand-wringing-exercise-clark/index.html
+layout: layout.njk
 ---
 A pitiful Nats hand-wringing exercise - Clark
 =============================================

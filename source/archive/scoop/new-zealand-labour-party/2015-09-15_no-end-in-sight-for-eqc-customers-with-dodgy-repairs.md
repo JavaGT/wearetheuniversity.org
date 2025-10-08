@@ -1,9 +1,13 @@
 ---
 slug: no-end-in-sight-for-eqc-customers-with-dodgy-repairs
-title: "No end in sight for EQC customers with dodgy repairs"
-date: 2015-09-15
-source-url: https://www.scoop.co.nz/stories/PA1509/S00252/no-end-in-sight-for-eqc-customers-with-dodgy-repairs.htm
+title: No end in sight for EQC customers with dodgy repairs
+date: 2015-09-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1509/S00252/no-end-in-sight-for-eqc-customers-with-dodgy-repairs.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2015/09/15/no-end-in-sight-for-eqc-customers-with-dodgy-repairs/index.html
+layout: layout.njk
 ---
 No end in sight for EQC customers with dodgy repairs
 ====================================================

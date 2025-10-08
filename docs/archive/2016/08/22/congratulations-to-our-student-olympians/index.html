@@ -1,4 +1,28 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Congratulations to our student Olympians – WATU</title><link rel="stylesheet" href="/styles.css"></head><body><header><h1 style="font-family: 'Arial Black', Gadget, sans-serif;font-style: italic;font-weight: 900;text-transform: uppercase;">We Are The University    </h1><nav><ul><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li><li><a href="/blog">Blog</a></li><li><a href="/archive">Archive</a></li><li><a href="/authors">Authors</a></li><li><a href="/games">Arcade</a></li><li><a href="/tools">Tools</a></li><li><a href="/reading-groups">Reading Groups</a></li></ul></nav></header><main><h2>Congratulations to our student Olympians</h2><h3><span></span></h3><p>Mon Aug 22 2016 12:00:00 GMT+1200 (New Zealand Standard Time)</p><p><h1>Congratulations to our student Olympians</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Congratulations to our student Olympians</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+  <h1 class="logo"><a href="/" style="color:inherit; text-decoration:none;">We Are The University</a></h1>
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/contact">Contact</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/archive">Archive</a></li>
+        <li><a href="/arcade">Arcade</a></li>
+        <li><a href="/tools">Tools</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h1>Congratulations to our student Olympians</h1>
 <p>22 August 2016</p>
 <p><img src="https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2016/08/congratulations-to-our-student-olympians/_jcr_content/par/textimage/image.img.jpg/1471843733910.jpg" alt="Eliza McCartney" title="Eliza McCartney"></p>
 <p>Eliza McCartney prepares for take-off (World Juniors final in 2014).</p>
@@ -8,4 +32,25 @@
 <p>Also giving an outstanding performance, Commerce student Dylan Schmidt (19) came in seventh in the trampoline, achieving his goal of coming in the top eight at the games and edging closer to his dream to “aim for the podium” at his next Olympics</p>
 <p>In team sports, Theresa Fitzpatrick took time off from her medical studies to compete in the rugby sevens in Rio as a member of the women’s team that won silver at the Olympics and Sione Molia, who is finishing off an applied maths degree, was part of the men’s sevens that came in fifth at the games.</p>
 <p>Black Sticks team members Pippa Hayward (Law/Arts) and Stacey Michelsen (Law/Business) achieved fourth place in women’s hockey and Football Fern vice-captain Katie Duncan (Education and Social Work), was exited at the preliminaries as a member of the national women’s team.</p>
-</p></main><footer style="margin-top: 2rem; background: #0001; padding: 2rem; text-align: center;"><p>We Are The University</p><ul style="list-style-type: none; padding: 0; margin: 0;"><li><a href="/">Home</a></li><li><a href="/about">About</a></li><li><a href="/contact">Contact</a></li></ul></footer></body></html>
+
+    
+  </main>
+  <footer>
+    <footer style="text-align:center; font-size:0.9em; color:var(--gray-5); border-top:1px solid var(--gray-2); margin-top:2em; padding:1em 0 0 0; background:var(--gray-0);">
+  <p><a href="/" style="color:inherit; text-decoration:none; font-weight:bold; letter-spacing:0.05em;">WEARETHEUNIVERSITY</a></p>
+    </footer>
+  </footer>
+</body>
+<script>
+  // Dark mode toggle
+  const btn = document.getElementById('darkModeToggle');
+  btn.addEventListener('click', function() {
+    document.body.classList.toggle('dark-mode');
+    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
+  });
+  // On load, set mode from localStorage
+  if (localStorage.getItem('darkMode') === 'true') {
+    document.body.classList.add('dark-mode');
+  }
+</script>
+</html>

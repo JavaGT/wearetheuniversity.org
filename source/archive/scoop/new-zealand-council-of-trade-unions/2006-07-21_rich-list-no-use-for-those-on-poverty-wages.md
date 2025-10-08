@@ -1,9 +1,12 @@
 ---
 slug: rich-list-no-use-for-those-on-poverty-wages
-title: "Rich List No Use For Those On Poverty Wages"
-date: 2006-07-21
-source-url: https://www.scoop.co.nz/stories/PO0607/S00228/rich-list-no-use-for-those-on-poverty-wages.htm
+title: Rich List No Use For Those On Poverty Wages
+date: 2006-07-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0607/S00228/rich-list-no-use-for-those-on-poverty-wages.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2006/07/21/rich-list-no-use-for-those-on-poverty-wages/index.html
+layout: layout.njk
 ---
 Rich List No Use For Those On Poverty Wages
 ===========================================

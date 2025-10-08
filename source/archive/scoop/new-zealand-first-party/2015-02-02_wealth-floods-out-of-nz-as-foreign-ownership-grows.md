@@ -1,9 +1,13 @@
 ---
 slug: wealth-floods-out-of-nz-as-foreign-ownership-grows
-title: "Wealth Floods Out of NZ as Foreign Ownership Grows"
-date: 2015-02-02
-source-url: https://www.scoop.co.nz/stories/PA1502/S00005/wealth-floods-out-of-nz-as-foreign-ownership-grows.htm
+title: Wealth Floods Out of NZ as Foreign Ownership Grows
+date: 2015-02-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00005/wealth-floods-out-of-nz-as-foreign-ownership-grows.htm
 author: new-zealand-first-party
+permalink: >-
+  /archive/2015/02/02/wealth-floods-out-of-nz-as-foreign-ownership-grows/index.html
+layout: layout.njk
 ---
 Wealth Floods Out of NZ as Foreign Ownership Grows
 ==================================================

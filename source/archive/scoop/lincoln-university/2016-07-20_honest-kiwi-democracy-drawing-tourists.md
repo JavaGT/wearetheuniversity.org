@@ -1,9 +1,12 @@
 ---
 slug: honest-kiwi-democracy-drawing-tourists
-title: "Honest Kiwi democracy drawing tourists"
-date: 2016-07-20
-source-url: https://www.scoop.co.nz/stories/BU1607/S00592/honest-kiwi-democracy-drawing-tourists.htm
+title: Honest Kiwi democracy drawing tourists
+date: 2016-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU1607/S00592/honest-kiwi-democracy-drawing-tourists.htm
 author: lincoln-university
+permalink: /archive/2016/07/20/honest-kiwi-democracy-drawing-tourists/index.html
+layout: layout.njk
 ---
 Honest Kiwi democracy drawing tourists
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: pr-students-help-100s-of-nz-non-profits
-title: "PR students help 100s of NZ non-profits"
-date: 2019-10-15
-source-url: https://www.scoop.co.nz/stories/CU1910/S00183/pr-students-help-100s-of-nz-non-profits.htm
+title: PR students help 100s of NZ non-profits
+date: 2019-10-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1910/S00183/pr-students-help-100s-of-nz-non-profits.htm
 author: aut-university
+permalink: /archive/2019/10/15/pr-students-help-100s-of-nz-non-profits/index.html
+layout: layout.njk
 ---
 PR students help 100s of NZ non-profits
 =======================================

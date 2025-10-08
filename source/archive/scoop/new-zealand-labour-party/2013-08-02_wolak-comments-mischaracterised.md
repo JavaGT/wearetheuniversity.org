@@ -1,9 +1,12 @@
 ---
 slug: wolak-comments-mischaracterised
-title: "Wolak comments mischaracterised"
-date: 2013-08-02
-source-url: https://www.scoop.co.nz/stories/PA1308/S00053/wolak-comments-mischaracterised.htm
+title: Wolak comments mischaracterised
+date: 2013-08-02T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00053/wolak-comments-mischaracterised.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/02/wolak-comments-mischaracterised/index.html
+layout: layout.njk
 ---
 Wolak comments mischaracterised
 ===============================

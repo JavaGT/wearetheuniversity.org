@@ -1,9 +1,12 @@
 ---
 slug: christchurch-researchers-get-hrc-funding
-title: "Christchurch researchers get HRC funding"
-date: 2011-07-20
-source-url: https://www.scoop.co.nz/stories/SC1107/S00047/christchurch-researchers-get-hrc-funding.htm
+title: Christchurch researchers get HRC funding
+date: 2011-07-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC1107/S00047/christchurch-researchers-get-hrc-funding.htm
 author: university-of-otago
+permalink: /archive/2011/07/20/christchurch-researchers-get-hrc-funding/index.html
+layout: layout.njk
 ---
 Christchurch researchers get HRC funding
 ========================================

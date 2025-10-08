@@ -1,9 +1,12 @@
 ---
 slug: raw-deal-for-students-sitting-s-c
-title: "Raw Deal For Students Sitting S.C."
-date: 2001-11-19
-source-url: https://www.scoop.co.nz/stories/PA0111/S00326/raw-deal-for-students-sitting-sc.htm
+title: Raw Deal For Students Sitting S.C.
+date: 2001-11-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0111/S00326/raw-deal-for-students-sitting-sc.htm
 author: new-zealand-national-party
+permalink: /archive/2001/11/19/raw-deal-for-students-sitting-s-c/index.html
+layout: layout.njk
 ---
 Raw Deal For Students Sitting S.C.
 ==================================

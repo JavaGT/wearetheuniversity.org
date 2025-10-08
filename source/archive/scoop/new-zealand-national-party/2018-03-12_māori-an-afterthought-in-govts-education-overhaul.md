@@ -1,9 +1,12 @@
 ---
 slug: māori-an-afterthought-in-govts-education-overhaul
-title: "Māori an afterthought in Govt’s education overhaul"
-date: 2018-03-12
-source-url: https://www.scoop.co.nz/stories/PA1803/S00112/maori-an-afterthought-in-govts-education-overhaul.htm
+title: Māori an afterthought in Govt’s education overhaul
+date: 2018-03-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1803/S00112/maori-an-afterthought-in-govts-education-overhaul.htm
 author: new-zealand-national-party
+permalink: /archive/2018/03/12/m/index.html
+layout: layout.njk
 ---
 Māori an afterthought in Govt’s education overhaul
 ==================================================

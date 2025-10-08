@@ -1,9 +1,12 @@
 ---
 slug: lincoln-university-appoints-new-dean
-title: "Lincoln University appoints new Dean"
-date: 2013-05-16
-source-url: https://www.scoop.co.nz/stories/ED1305/S00100/lincoln-university-appoints-new-dean.htm
+title: Lincoln University appoints new Dean
+date: 2013-05-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1305/S00100/lincoln-university-appoints-new-dean.htm
 author: lincoln-university
+permalink: /archive/2013/05/16/lincoln-university-appoints-new-dean/index.html
+layout: layout.njk
 ---
 Lincoln University appoints new Dean
 ====================================

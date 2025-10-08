@@ -1,9 +1,12 @@
 ---
 slug: chorus-corporate-welfare-despite-high-profits
-title: "Chorus: Corporate welfare despite high profits"
-date: 2013-08-26
-source-url: https://www.scoop.co.nz/stories/PA1308/S00408/chorus-corporate-welfare-despite-high-profits.htm
+title: 'Chorus: Corporate welfare despite high profits'
+date: 2013-08-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1308/S00408/chorus-corporate-welfare-despite-high-profits.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/08/26/chorus-corporate-welfare-despite-high-profits/index.html
+layout: layout.njk
 ---
 Chorus: Corporate welfare despite high profits
 ==============================================

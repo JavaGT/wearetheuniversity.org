@@ -1,9 +1,13 @@
 ---
 slug: university-of-otago-chch-staff-move-back-into-building
-title: "University Of Otago, Chch, Staff Move Back into Building"
-date: 2012-11-23
-source-url: https://www.scoop.co.nz/stories/ED1211/S00170/university-of-otago-chch-staff-move-back-into-building.htm
+title: University Of Otago, Chch, Staff Move Back into Building
+date: 2012-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1211/S00170/university-of-otago-chch-staff-move-back-into-building.htm
 author: university-of-otago
+permalink: >-
+  /archive/2012/11/23/university-of-otago-chch-staff-move-back-into-building/index.html
+layout: layout.njk
 ---
 University Of Otago, Chch, Staff Move Back into Building
 ========================================================

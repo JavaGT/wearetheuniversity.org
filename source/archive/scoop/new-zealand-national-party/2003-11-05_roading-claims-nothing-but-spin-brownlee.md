@@ -1,9 +1,12 @@
 ---
 slug: roading-claims-nothing-but-spin-brownlee
-title: "Roading claims nothing but spin - Brownlee"
-date: 2003-11-05
-source-url: https://www.scoop.co.nz/stories/PA0311/S00067/roading-claims-nothing-but-spin-brownlee.htm
+title: Roading claims nothing but spin - Brownlee
+date: 2003-11-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0311/S00067/roading-claims-nothing-but-spin-brownlee.htm
 author: new-zealand-national-party
+permalink: /archive/2003/11/05/roading-claims-nothing-but-spin-brownlee/index.html
+layout: layout.njk
 ---
 Roading claims nothing but spin - Brownlee
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: state-housing-waiting-lists-go-through-the-roof
-title: "State Housing waiting lists go through the roof"
-date: 2014-04-09
-source-url: https://www.scoop.co.nz/stories/PA1404/S00134/state-housing-waiting-lists-go-through-the-roof.htm
+title: State Housing waiting lists go through the roof
+date: 2014-04-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1404/S00134/state-housing-waiting-lists-go-through-the-roof.htm
 author: new-zealand-labour-party
+permalink: /archive/2014/04/09/state-housing-waiting-lists-go-through-the-roof/index.html
+layout: layout.njk
 ---
 State Housing waiting lists go through the roof
 ===============================================

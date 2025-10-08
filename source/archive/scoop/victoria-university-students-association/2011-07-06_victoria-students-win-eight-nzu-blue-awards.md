@@ -1,9 +1,12 @@
 ---
 slug: victoria-students-win-eight-nzu-blue-awards
-title: "Victoria Students Win Eight NZU Blue Awards"
-date: 2011-07-06
-source-url: https://www.scoop.co.nz/stories/CU1107/S00110/victoria-students-win-eight-nzu-blue-awards.htm
+title: Victoria Students Win Eight NZU Blue Awards
+date: 2011-07-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1107/S00110/victoria-students-win-eight-nzu-blue-awards.htm
 author: victoria-university-students-association
+permalink: /archive/2011/07/06/victoria-students-win-eight-nzu-blue-awards/index.html
+layout: layout.njk
 ---
 Victoria Students Win Eight NZU Blue Awards
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: will-fightback-continue-you-decide!
-title: "Will Fightback Continue? You Decide!"
-date: 2018-03-17
-source-url: https://www.scoop.co.nz/stories/PO1803/S00253/will-fightback-continue-you-decide.htm
+title: Will Fightback Continue? You Decide!
+date: 2018-03-17T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1803/S00253/will-fightback-continue-you-decide.htm
 author: fightback
+permalink: /archive/2018/03/17/will-fightback-continue-you-decide/index.html
+layout: layout.njk
 ---
 Will Fightback Continue? You Decide!
 ====================================

@@ -1,9 +1,13 @@
 ---
 slug: cosgrove-speech-to-opening-of-lignus-timber-xchnge
-title: "Cosgrove Speech To Opening Of Lignus Timber XChnge"
-date: 2000-10-03
-source-url: https://www.scoop.co.nz/stories/PA0010/S00065/cosgrove-speech-to-opening-of-lignus-timber-xchnge.htm
+title: Cosgrove Speech To Opening Of Lignus Timber XChnge
+date: 2000-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0010/S00065/cosgrove-speech-to-opening-of-lignus-timber-xchnge.htm
 author: new-zealand-labour-party
+permalink: >-
+  /archive/2000/10/03/cosgrove-speech-to-opening-of-lignus-timber-xchnge/index.html
+layout: layout.njk
 ---
 Cosgrove Speech To Opening Of Lignus Timber XChnge
 ==================================================

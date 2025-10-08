@@ -1,9 +1,12 @@
 ---
 slug: union-membership-continues-to-grow
-title: "Union Membership Continues To Grow"
-date: 2002-04-29
-source-url: https://www.scoop.co.nz/stories/PO0204/S00197/union-membership-continues-to-grow.htm
+title: Union Membership Continues To Grow
+date: 2002-04-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0204/S00197/union-membership-continues-to-grow.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2002/04/29/union-membership-continues-to-grow/index.html
+layout: layout.njk
 ---
 Union Membership Continues To Grow
 ==================================

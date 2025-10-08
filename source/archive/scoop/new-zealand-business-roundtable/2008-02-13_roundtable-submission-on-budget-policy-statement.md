@@ -1,9 +1,13 @@
 ---
 slug: roundtable-submission-on-budget-policy-statement
-title: "Roundtable Submission On Budget Policy Statement"
-date: 2008-02-13
-source-url: https://www.scoop.co.nz/stories/BU0802/S00194/roundtable-submission-on-budget-policy-statement.htm
+title: Roundtable Submission On Budget Policy Statement
+date: 2008-02-13T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0802/S00194/roundtable-submission-on-budget-policy-statement.htm
 author: new-zealand-business-roundtable
+permalink: >-
+  /archive/2008/02/13/roundtable-submission-on-budget-policy-statement/index.html
+layout: layout.njk
 ---
 Roundtable Submission On Budget Policy Statement
 ================================================

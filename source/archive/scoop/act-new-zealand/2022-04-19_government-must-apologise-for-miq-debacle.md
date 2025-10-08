@@ -1,9 +1,12 @@
 ---
 slug: government-must-apologise-for-miq-debacle
-title: "Government Must Apologise For MIQ Debacle"
-date: 2022-04-19
-source-url: https://www.scoop.co.nz/stories/PA2204/S00135/government-must-apologise-for-miq-debacle.htm
+title: Government Must Apologise For MIQ Debacle
+date: 2022-04-19T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2204/S00135/government-must-apologise-for-miq-debacle.htm
 author: act-new-zealand
+permalink: /archive/2022/04/19/government-must-apologise-for-miq-debacle/index.html
+layout: layout.njk
 ---
 Government Must Apologise For MIQ Debacle
 =========================================

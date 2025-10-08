@@ -1,9 +1,12 @@
 ---
 slug: big-boost-for-premature-baby-research
-title: "Big Boost For Premature Baby Research"
-date: 2002-11-20
-source-url: https://www.scoop.co.nz/stories/ED0211/S00051/big-boost-for-premature-baby-research.htm
+title: Big Boost For Premature Baby Research
+date: 2002-11-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0211/S00051/big-boost-for-premature-baby-research.htm
 author: university-of-otago
+permalink: /archive/2002/11/20/big-boost-for-premature-baby-research/index.html
+layout: layout.njk
 ---
 Big Boost For Premature Baby Research
 =====================================

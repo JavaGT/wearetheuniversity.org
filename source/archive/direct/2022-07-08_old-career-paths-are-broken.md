@@ -1,11 +1,15 @@
 ---
-title: "For many NZ scholars, the old career paths are broken. Our survey shows the reality for this new ‘academic precariat’"
+title: >-
+  For many NZ scholars, the old career paths are broken. Our survey shows the
+  reality for this new ‘academic precariat’
 slug: old-career-paths-are-broken
-date: 2022-07-08
+date: 2022-07-08T00:00:00.000Z
 source: http://www.teaga.co.nz/press-releases/
 source-name: TEAGA
 author: Dr. Leon Salter
 author-slug: leon-salter
+permalink: /archive/2022/07/08/old-career-paths-are-broken/index.html
+layout: layout.njk
 ---
 
 **Dr. Leon Salter**

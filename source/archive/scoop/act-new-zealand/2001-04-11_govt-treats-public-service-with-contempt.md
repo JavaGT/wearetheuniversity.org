@@ -1,9 +1,12 @@
 ---
 slug: govt-treats-public-service-with-contempt
-title: "Govt Treats Public Service With Contempt"
-date: 2001-04-11
-source-url: https://www.scoop.co.nz/stories/PA0104/S00205/govt-treats-public-service-with-contempt.htm
+title: Govt Treats Public Service With Contempt
+date: 2001-04-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0104/S00205/govt-treats-public-service-with-contempt.htm
 author: act-new-zealand
+permalink: /archive/2001/04/11/govt-treats-public-service-with-contempt/index.html
+layout: layout.njk
 ---
 Govt Treats Public Service With Contempt
 ========================================

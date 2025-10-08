@@ -1,9 +1,11 @@
 ---
 slug: lift-the-freeze-on-low-pay
-title: "Lift the freeze on low pay"
-date: 2009-11-27
+title: Lift the freeze on low pay
+date: 2009-11-27T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/BU0911/S00830/lift-the-freeze-on-low-pay.htm
 author: new-zealand-council-of-trade-unions
+permalink: /archive/2009/11/27/lift-the-freeze-on-low-pay/index.html
+layout: layout.njk
 ---
 Lift the freeze on low pay
 ==========================

@@ -1,9 +1,13 @@
 ---
 slug: student-sleep-out-to-raise-funds-for-dunedin-night-shelter
-title: "Student Sleep Out to raise funds for Dunedin Night Shelter"
-date: 2016-07-27
-source-url: https://www.scoop.co.nz/stories/AK1607/S00776/student-sleep-out-to-raise-funds-for-dunedin-night-shelter.htm
+title: Student Sleep Out to raise funds for Dunedin Night Shelter
+date: 2016-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/AK1607/S00776/student-sleep-out-to-raise-funds-for-dunedin-night-shelter.htm
 author: otago-university-students-association
+permalink: >-
+  /archive/2016/07/27/student-sleep-out-to-raise-funds-for-dunedin-night-shelter/index.html
+layout: layout.njk
 ---
 Student Sleep Out to raise funds for Dunedin Night Shelter
 ==========================================================

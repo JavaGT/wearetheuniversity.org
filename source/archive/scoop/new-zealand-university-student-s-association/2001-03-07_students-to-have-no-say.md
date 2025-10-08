@@ -1,9 +1,11 @@
 ---
 slug: students-to-have-no-say
-title: "Students To Have No Say"
-date: 2001-03-07
+title: Students To Have No Say
+date: 2001-03-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0103/S00012/students-to-have-no-say.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2001/03/07/students-to-have-no-say/index.html
+layout: layout.njk
 ---
 Students To Have No Say
 =======================

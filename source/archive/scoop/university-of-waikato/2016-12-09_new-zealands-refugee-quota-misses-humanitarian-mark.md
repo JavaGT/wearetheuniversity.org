@@ -1,9 +1,13 @@
 ---
 slug: new-zealands-refugee-quota-misses-humanitarian-mark
-title: "New Zealand’s refugee quota misses humanitarian mark"
-date: 2016-12-09
-source-url: https://www.scoop.co.nz/stories/PO1612/S00107/new-zealands-refugee-quota-misses-humanitarian-mark.htm
+title: New Zealand’s refugee quota misses humanitarian mark
+date: 2016-12-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1612/S00107/new-zealands-refugee-quota-misses-humanitarian-mark.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2016/12/09/new-zealands-refugee-quota-misses-humanitarian-mark/index.html
+layout: layout.njk
 ---
 New Zealand’s refugee quota misses humanitarian mark
 ====================================================

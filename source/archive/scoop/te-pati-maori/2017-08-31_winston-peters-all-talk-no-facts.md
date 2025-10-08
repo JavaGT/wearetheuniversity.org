@@ -1,9 +1,12 @@
 ---
 slug: winston-peters-all-talk-no-facts
-title: "Winston Peters all talk no facts"
-date: 2017-08-31
-source-url: https://www.scoop.co.nz/stories/PO1708/S00633/winston-peters-all-talk-no-facts.htm
+title: Winston Peters all talk no facts
+date: 2017-08-31T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1708/S00633/winston-peters-all-talk-no-facts.htm
 author: te-pati-maori
+permalink: /archive/2017/08/31/winston-peters-all-talk-no-facts/index.html
+layout: layout.njk
 ---
 Winston Peters all talk no facts
 ================================

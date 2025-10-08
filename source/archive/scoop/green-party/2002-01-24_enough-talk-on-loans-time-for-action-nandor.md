@@ -1,9 +1,12 @@
 ---
 slug: enough-talk-on-loans-time-for-action-nandor
-title: "Enough talk on loans, time for action - Nandor"
-date: 2002-01-24
-source-url: https://www.scoop.co.nz/stories/PA0201/S00154/enough-talk-on-loans-time-for-action-nandor.htm
+title: Enough talk on loans, time for action - Nandor
+date: 2002-01-24T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0201/S00154/enough-talk-on-loans-time-for-action-nandor.htm
 author: green-party
+permalink: /archive/2002/01/24/enough-talk-on-loans-time-for-action-nandor/index.html
+layout: layout.njk
 ---
 Enough talk on loans, time for action - Nandor
 ==============================================

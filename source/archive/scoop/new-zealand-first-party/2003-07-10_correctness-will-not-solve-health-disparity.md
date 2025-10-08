@@ -1,9 +1,12 @@
 ---
 slug: correctness-will-not-solve-health-disparity
-title: "Correctness Will Not Solve Health Disparity"
-date: 2003-07-10
-source-url: https://www.scoop.co.nz/stories/PA0307/S00209/correctness-will-not-solve-health-disparity.htm
+title: Correctness Will Not Solve Health Disparity
+date: 2003-07-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0307/S00209/correctness-will-not-solve-health-disparity.htm
 author: new-zealand-first-party
+permalink: /archive/2003/07/10/correctness-will-not-solve-health-disparity/index.html
+layout: layout.njk
 ---
 Correctness Will Not Solve Health Disparity
 ===========================================

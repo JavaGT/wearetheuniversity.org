@@ -1,9 +1,12 @@
 ---
 slug: labour-stands-in-the-way-of-schools-vision
-title: "Labour stands in the way of schools vision"
-date: 2006-10-12
-source-url: https://www.scoop.co.nz/stories/PA0610/S00197/labour-stands-in-the-way-of-schools-vision.htm
+title: Labour stands in the way of schools vision
+date: 2006-10-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0610/S00197/labour-stands-in-the-way-of-schools-vision.htm
 author: new-zealand-national-party
+permalink: /archive/2006/10/12/labour-stands-in-the-way-of-schools-vision/index.html
+layout: layout.njk
 ---
 Labour stands in the way of schools vision
 ==========================================

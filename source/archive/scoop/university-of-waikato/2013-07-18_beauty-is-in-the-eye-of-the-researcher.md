@@ -1,9 +1,12 @@
 ---
 slug: beauty-is-in-the-eye-of-the-researcher
-title: "Beauty is in the eye of the researcher"
-date: 2013-07-18
-source-url: https://www.scoop.co.nz/stories/ED1307/S00111/beauty-is-in-the-eye-of-the-researcher.htm
+title: Beauty is in the eye of the researcher
+date: 2013-07-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1307/S00111/beauty-is-in-the-eye-of-the-researcher.htm
 author: university-of-waikato
+permalink: /archive/2013/07/18/beauty-is-in-the-eye-of-the-researcher/index.html
+layout: layout.njk
 ---
 Beauty is in the eye of the researcher
 ======================================

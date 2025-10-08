@@ -1,9 +1,12 @@
 ---
 slug: chris-hipkins-auckland-hui-address
-title: "Chris Hipkins’ Auckland Hui Address"
-date: 2024-07-27
-source-url: https://www.scoop.co.nz/stories/PA2407/S00169/chris-hipkins-auckland-hui-address.htm
+title: Chris Hipkins’ Auckland Hui Address
+date: 2024-07-27T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2407/S00169/chris-hipkins-auckland-hui-address.htm
 author: new-zealand-labour-party
+permalink: /archive/2024/07/27/chris-hipkins-auckland-hui-address/index.html
+layout: layout.njk
 ---
 Chris Hipkins’ Auckland Hui Address
 ===================================

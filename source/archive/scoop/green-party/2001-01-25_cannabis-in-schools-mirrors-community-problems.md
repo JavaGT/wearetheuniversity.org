@@ -1,9 +1,12 @@
 ---
 slug: cannabis-in-schools-mirrors-community-problems
-title: "Cannabis In Schools Mirrors Community Problems"
-date: 2001-01-25
-source-url: https://www.scoop.co.nz/stories/PA0101/S00111/cannabis-in-schools-mirrors-community-problems.htm
+title: Cannabis In Schools Mirrors Community Problems
+date: 2001-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0101/S00111/cannabis-in-schools-mirrors-community-problems.htm
 author: green-party
+permalink: /archive/2001/01/25/cannabis-in-schools-mirrors-community-problems/index.html
+layout: layout.njk
 ---
 Cannabis In Schools Mirrors Community Problems
 ==============================================

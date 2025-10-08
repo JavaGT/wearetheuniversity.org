@@ -1,9 +1,12 @@
 ---
 slug: not-your-average-corporate-box!
-title: "Not your average corporate box!"
-date: 2012-06-29
-source-url: https://www.scoop.co.nz/stories/CU1206/S00424/not-your-average-corporate-box.htm
+title: Not your average corporate box!
+date: 2012-06-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1206/S00424/not-your-average-corporate-box.htm
 author: aut-university
+permalink: /archive/2012/06/29/not-your-average-corporate-box/index.html
+layout: layout.njk
 ---
 Not your average corporate box!
 ===============================

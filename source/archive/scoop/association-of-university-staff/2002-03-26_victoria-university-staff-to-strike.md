@@ -1,9 +1,12 @@
 ---
 slug: victoria-university-staff-to-strike
-title: "Victoria University staff to strike"
-date: 2002-03-26
-source-url: https://www.scoop.co.nz/stories/ED0203/S00049/victoria-university-staff-to-strike.htm
+title: Victoria University staff to strike
+date: 2002-03-26T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0203/S00049/victoria-university-staff-to-strike.htm
 author: association-of-university-staff
+permalink: /archive/2002/03/26/victoria-university-staff-to-strike/index.html
+layout: layout.njk
 ---
 Victoria University staff to strike
 ===================================

@@ -1,9 +1,13 @@
 ---
 slug: green-hydrogen-powering-the-future-of-new-zealand
-title: "Green Hydrogen Powering The Future Of New Zealand"
-date: 2023-03-23
-source-url: https://www.scoop.co.nz/stories/ED2303/S00037/green-hydrogen-powering-the-future-of-new-zealand.htm
+title: Green Hydrogen Powering The Future Of New Zealand
+date: 2023-03-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2303/S00037/green-hydrogen-powering-the-future-of-new-zealand.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2023/03/23/green-hydrogen-powering-the-future-of-new-zealand/index.html
+layout: layout.njk
 ---
 Green Hydrogen Powering The Future Of New Zealand
 =================================================

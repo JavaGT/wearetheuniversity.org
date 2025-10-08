@@ -1,9 +1,12 @@
 ---
 slug: nz-families-cant-afford-labours-spending-plans
-title: "NZ families can’t afford Labour’s spending plans"
-date: 2017-08-29
-source-url: https://www.scoop.co.nz/stories/PA1708/S00520/nz-families-cant-afford-labours-spending-plans.htm
+title: NZ families can’t afford Labour’s spending plans
+date: 2017-08-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1708/S00520/nz-families-cant-afford-labours-spending-plans.htm
 author: new-zealand-national-party
+permalink: /archive/2017/08/29/nz-families-cant-afford-labours-spending-plans/index.html
+layout: layout.njk
 ---
 NZ families can’t afford Labour’s spending plans
 ================================================

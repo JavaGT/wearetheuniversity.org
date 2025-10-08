@@ -1,9 +1,12 @@
 ---
 slug: catherine-judd-speech-in-praise-of-individuals
-title: "Catherine Judd Speech In Praise Of Individuals"
-date: 2004-03-08
-source-url: https://www.scoop.co.nz/stories/PA0403/S00146/catherine-judd-speech-in-praise-of-individuals.htm
+title: Catherine Judd Speech In Praise Of Individuals
+date: 2004-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0403/S00146/catherine-judd-speech-in-praise-of-individuals.htm
 author: act-new-zealand
+permalink: /archive/2004/03/08/catherine-judd-speech-in-praise-of-individuals/index.html
+layout: layout.njk
 ---
 Catherine Judd Speech In Praise Of Individuals
 ==============================================

@@ -1,9 +1,12 @@
 ---
 slug: design-students-take-top-honours
-title: "Design students take top honours"
-date: 2003-06-23
-source-url: https://www.scoop.co.nz/stories/ED0306/S00049/design-students-take-top-honours.htm
+title: Design students take top honours
+date: 2003-06-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0306/S00049/design-students-take-top-honours.htm
 author: victoria-university-of-wellington
+permalink: /archive/2003/06/23/design-students-take-top-honours/index.html
+layout: layout.njk
 ---
 Design students take top honours
 ================================

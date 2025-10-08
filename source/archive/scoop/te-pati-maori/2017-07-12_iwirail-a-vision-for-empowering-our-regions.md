@@ -1,9 +1,12 @@
 ---
 slug: iwirail-a-vision-for-empowering-our-regions
-title: "IwiRail: A vision for empowering our regions"
-date: 2017-07-12
-source-url: https://www.scoop.co.nz/stories/PA1707/S00188/iwirail-a-vision-for-empowering-our-regions.htm
+title: 'IwiRail: A vision for empowering our regions'
+date: 2017-07-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00188/iwirail-a-vision-for-empowering-our-regions.htm
 author: te-pati-maori
+permalink: /archive/2017/07/12/iwirail-a-vision-for-empowering-our-regions/index.html
+layout: layout.njk
 ---
 IwiRail: A vision for empowering our regions
 ============================================

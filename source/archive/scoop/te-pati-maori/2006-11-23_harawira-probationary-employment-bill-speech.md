@@ -1,9 +1,12 @@
 ---
 slug: harawira-probationary-employment-bill-speech
-title: "Harawira: Probationary Employment Bill Speech"
-date: 2006-11-23
-source-url: https://www.scoop.co.nz/stories/PA0611/S00436/harawira-probationary-employment-bill-speech.htm
+title: 'Harawira: Probationary Employment Bill Speech'
+date: 2006-11-23T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0611/S00436/harawira-probationary-employment-bill-speech.htm
 author: te-pati-maori
+permalink: /archive/2006/11/23/harawira-probationary-employment-bill-speech/index.html
+layout: layout.njk
 ---
 Harawira: Probationary Employment Bill Speech
 =============================================

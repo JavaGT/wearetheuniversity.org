@@ -1,9 +1,12 @@
 ---
 slug: nationals-economy-scorecard-d-for-drift
-title: "National’s economy scorecard: D for drift"
-date: 2017-09-20
-source-url: https://www.scoop.co.nz/stories/PA1709/S00243/nationals-economy-scorecard-d-for-drift.htm
+title: 'National’s economy scorecard: D for drift'
+date: 2017-09-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1709/S00243/nationals-economy-scorecard-d-for-drift.htm
 author: new-zealand-labour-party
+permalink: /archive/2017/09/20/nationals-economy-scorecard-d-for-drift/index.html
+layout: layout.njk
 ---
 National’s economy scorecard: D for drift
 =========================================

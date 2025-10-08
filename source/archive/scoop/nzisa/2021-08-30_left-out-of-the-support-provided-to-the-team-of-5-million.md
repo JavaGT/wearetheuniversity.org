@@ -1,9 +1,13 @@
 ---
 slug: left-out-of-the-support-provided-to-the-team-of-5-million
-title: "Left out of the support provided to the team of 5 million"
-date: 2021-08-30
-source-url: https://www.scoop.co.nz/stories/ED2108/S00044/left-out-of-the-support-provided-to-the-team-of-5-million.htm
+title: Left out of the support provided to the team of 5 million
+date: 2021-08-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED2108/S00044/left-out-of-the-support-provided-to-the-team-of-5-million.htm
 author: nzisa
+permalink: >-
+  /archive/2021/08/30/left-out-of-the-support-provided-to-the-team-of-5-million/index.html
+layout: layout.njk
 ---
 Left out of the support provided to the team of 5 million
 =========================================================

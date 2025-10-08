@@ -1,9 +1,12 @@
 ---
 slug: college-of-health-joins-rhaanz
-title: "College of Health joins RHAANZ"
-date: 2017-06-06
-source-url: https://www.scoop.co.nz/stories/ED1706/S00010/college-of-health-joins-rhaanz.htm
+title: College of Health joins RHAANZ
+date: 2017-06-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1706/S00010/college-of-health-joins-rhaanz.htm
 author: massey-university
+permalink: /archive/2017/06/06/college-of-health-joins-rhaanz/index.html
+layout: layout.njk
 ---
 College of Health joins RHAANZ
 ==============================

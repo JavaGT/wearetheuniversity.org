@@ -1,9 +1,13 @@
 ---
 slug: greens-income-guarantee-is-needed-more-than-ever
-title: "Greens Income Guarantee Is Needed More Than Ever"
-date: 2023-06-14
-source-url: https://www.scoop.co.nz/stories/PA2306/S00077/greens-income-guarantee-is-needed-more-than-ever.htm
+title: Greens Income Guarantee Is Needed More Than Ever
+date: 2023-06-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2306/S00077/greens-income-guarantee-is-needed-more-than-ever.htm
 author: green-party
+permalink: >-
+  /archive/2023/06/14/greens-income-guarantee-is-needed-more-than-ever/index.html
+layout: layout.njk
 ---
 Greens Income Guarantee Is Needed More Than Ever
 ================================================

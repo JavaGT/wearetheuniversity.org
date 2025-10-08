@@ -1,9 +1,13 @@
 ---
 slug: massey-university-study-on-how-to-talk-teens-with-cancer
-title: "Massey University - Study on how to talk teens with cancer"
-date: 2016-09-07
-source-url: https://www.scoop.co.nz/stories/ED1609/S00044/massey-university-study-on-how-to-talk-teens-with-cancer.htm
+title: Massey University - Study on how to talk teens with cancer
+date: 2016-09-07T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1609/S00044/massey-university-study-on-how-to-talk-teens-with-cancer.htm
 author: massey-university
+permalink: >-
+  /archive/2016/09/07/massey-university-study-on-how-to-talk-teens-with-cancer/index.html
+layout: layout.njk
 ---
 Massey University - Study on how to talk teens with cancer
 ==========================================================

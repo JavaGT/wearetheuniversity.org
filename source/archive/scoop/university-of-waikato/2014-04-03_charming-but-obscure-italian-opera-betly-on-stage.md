@@ -1,9 +1,13 @@
 ---
 slug: charming-but-obscure-italian-opera-betly-on-stage
-title: "Charming but obscure Italian opera ‘Betly’ on stage"
-date: 2014-04-03
-source-url: https://www.scoop.co.nz/stories/CU1404/S00058/charming-but-obscure-italian-opera-betly-on-stage.htm
+title: Charming but obscure Italian opera ‘Betly’ on stage
+date: 2014-04-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU1404/S00058/charming-but-obscure-italian-opera-betly-on-stage.htm
 author: university-of-waikato
+permalink: >-
+  /archive/2014/04/03/charming-but-obscure-italian-opera-betly-on-stage/index.html
+layout: layout.njk
 ---
 Charming but obscure Italian opera ‘Betly’ on stage
 ===================================================

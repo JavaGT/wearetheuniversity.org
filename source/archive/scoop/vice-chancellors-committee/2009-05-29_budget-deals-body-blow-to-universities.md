@@ -1,9 +1,12 @@
 ---
 slug: budget-deals-body-blow-to-universities
-title: "Budget Deals Body Blow To Universities"
-date: 2009-05-29
-source-url: https://www.scoop.co.nz/stories/ED0905/S00122/budget-deals-body-blow-to-universities.htm
+title: Budget Deals Body Blow To Universities
+date: 2009-05-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0905/S00122/budget-deals-body-blow-to-universities.htm
 author: vice-chancellors-committee
+permalink: /archive/2009/05/29/budget-deals-body-blow-to-universities/index.html
+layout: layout.njk
 ---
 Budget Deals Body Blow To Universities
 ======================================

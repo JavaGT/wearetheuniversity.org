@@ -1,9 +1,12 @@
 ---
 slug: there-is-an-extra-day-dr-cullen
-title: "There Is An Extra Day, Dr Cullen"
-date: 2001-02-21
-source-url: https://www.scoop.co.nz/stories/PA0102/S00332/there-is-an-extra-day-dr-cullen.htm
+title: There Is An Extra Day, Dr Cullen
+date: 2001-02-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0102/S00332/there-is-an-extra-day-dr-cullen.htm
 author: act-new-zealand
+permalink: /archive/2001/02/21/there-is-an-extra-day-dr-cullen/index.html
+layout: layout.njk
 ---
 There Is An Extra Day, Dr Cullen
 ================================

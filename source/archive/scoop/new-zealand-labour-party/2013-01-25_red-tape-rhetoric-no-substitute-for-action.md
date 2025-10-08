@@ -1,9 +1,12 @@
 ---
 slug: red-tape-rhetoric-no-substitute-for-action
-title: "Red-tape rhetoric no substitute for action"
-date: 2013-01-25
-source-url: https://www.scoop.co.nz/stories/PA1301/S00113/red-tape-rhetoric-no-substitute-for-action.htm
+title: Red-tape rhetoric no substitute for action
+date: 2013-01-25T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1301/S00113/red-tape-rhetoric-no-substitute-for-action.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/01/25/red-tape-rhetoric-no-substitute-for-action/index.html
+layout: layout.njk
 ---
 Red-tape rhetoric no substitute for action
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: reluctant-partners-nzs-involvement-in-viet-nam
-title: "Reluctant Partners?:  NZ's Involvement in Viet Nam"
-date: 2005-09-28
-source-url: https://www.scoop.co.nz/stories/CU0509/S00221/reluctant-partners-nzs-involvement-in-viet-nam.htm
+title: 'Reluctant Partners?:  NZ''s Involvement in Viet Nam'
+date: 2005-09-28T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/CU0509/S00221/reluctant-partners-nzs-involvement-in-viet-nam.htm
 author: auckland-university-press
+permalink: /archive/2005/09/28/reluctant-partners-nzs-involvement-in-viet-nam/index.html
+layout: layout.njk
 ---
 Reluctant Partners?: NZ's Involvement in Viet Nam
 =================================================

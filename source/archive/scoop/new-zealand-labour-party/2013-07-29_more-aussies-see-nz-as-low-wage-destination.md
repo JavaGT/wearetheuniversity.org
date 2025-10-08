@@ -1,9 +1,12 @@
 ---
 slug: more-aussies-see-nz-as-low-wage-destination
-title: "More Aussies see NZ as low wage destination"
-date: 2013-07-29
-source-url: https://www.scoop.co.nz/stories/PA1307/S00417/more-aussies-see-nz-as-low-wage-destination.htm
+title: More Aussies see NZ as low wage destination
+date: 2013-07-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1307/S00417/more-aussies-see-nz-as-low-wage-destination.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/07/29/more-aussies-see-nz-as-low-wage-destination/index.html
+layout: layout.njk
 ---
 More Aussies see NZ as low wage destination
 ===========================================

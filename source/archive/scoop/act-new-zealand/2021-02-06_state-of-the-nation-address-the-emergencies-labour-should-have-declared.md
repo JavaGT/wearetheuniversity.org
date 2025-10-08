@@ -1,9 +1,13 @@
 ---
 slug: state-of-the-nation-address-the-emergencies-labour-should-have-declared
-title: "State Of The Nation Address: The Emergencies Labour Should Have Declared"
-date: 2021-02-06
-source-url: https://www.scoop.co.nz/stories/PA2102/S00029/state-of-the-nation-address-the-emergencies-labour-should-have-declared.htm
+title: 'State Of The Nation Address: The Emergencies Labour Should Have Declared'
+date: 2021-02-06T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2102/S00029/state-of-the-nation-address-the-emergencies-labour-should-have-declared.htm
 author: act-new-zealand
+permalink: >-
+  /archive/2021/02/06/state-of-the-nation-address-the-emergencies-labour-should-have-declared/index.html
+layout: layout.njk
 ---
 State Of The Nation Address: The Emergencies Labour Should Have Declared
 ========================================================================

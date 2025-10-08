@@ -1,8 +1,11 @@
 ---
 slug: bioengineering-graduate-takes-off
-title: "Bioengineering graduate takes off"
-date: 2017-05-01
-source-url: https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/bioengineering-graduate-takes-off.html
+title: Bioengineering graduate takes off
+date: 2017-05-01T00:00:00.000Z
+source-url: >-
+  https://web.archive.org/web/20171119163737/https://www.auckland.ac.nz/en/about/news-events-and-notices/news/news-2017/04/bioengineering-graduate-takes-off.html
+permalink: /archive/2017/05/01/bioengineering-graduate-takes-off/index.html
+layout: layout.njk
 ---
 Bioengineering graduate takes off
 =================================

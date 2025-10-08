@@ -1,9 +1,13 @@
 ---
 slug: accommodation-preferences-what-a-girl-needs-wants
-title: "Accommodation preferences: What a Girl Needs/Wants?"
-date: 2015-02-20
-source-url: https://www.scoop.co.nz/stories/ED1502/S00075/accommodation-preferences-what-a-girl-needswants.htm
+title: 'Accommodation preferences: What a Girl Needs/Wants?'
+date: 2015-02-20T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1502/S00075/accommodation-preferences-what-a-girl-needswants.htm
 author: university-of-canterbury
+permalink: >-
+  /archive/2015/02/20/accommodation-preferences-what-a-girl-needs-wants/index.html
+layout: layout.njk
 ---
 Accommodation preferences: What a Girl Needs/Wants?
 ===================================================

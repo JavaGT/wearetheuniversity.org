@@ -1,9 +1,12 @@
 ---
 slug: awards-celebrate-student-media-success
-title: "Awards Celebrate Student Media Success"
-date: 2005-09-29
-source-url: https://www.scoop.co.nz/stories/BU0509/S00456/awards-celebrate-student-media-success.htm
+title: Awards Celebrate Student Media Success
+date: 2005-09-29T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/BU0509/S00456/awards-celebrate-student-media-success.htm
 author: aotearoa-student-press-association
+permalink: /archive/2005/09/29/awards-celebrate-student-media-success/index.html
+layout: layout.njk
 ---
 Awards Celebrate Student Media Success
 ======================================

@@ -1,9 +1,13 @@
 ---
 slug: students-join-call-for-public-debate-on-tertiary-education
-title: "Students join call for public debate on tertiary education"
-date: 2013-11-11
-source-url: https://www.scoop.co.nz/stories/ED1311/S00077/students-join-call-for-public-debate-on-tertiary-education.htm
+title: Students join call for public debate on tertiary education
+date: 2013-11-11T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1311/S00077/students-join-call-for-public-debate-on-tertiary-education.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: >-
+  /archive/2013/11/11/students-join-call-for-public-debate-on-tertiary-education/index.html
+layout: layout.njk
 ---
 Students join call for public debate on tertiary education
 ==========================================================

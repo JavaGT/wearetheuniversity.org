@@ -1,9 +1,13 @@
 ---
 slug: nz-should-go-hard-and-early-with-vaccinations-too
-title: "NZ Should Go Hard And Early With Vaccinations Too"
-date: 2021-01-18
-source-url: https://www.scoop.co.nz/stories/PA2101/S00034/nz-should-go-hard-and-early-with-vaccinations-too.htm
+title: NZ Should Go Hard And Early With Vaccinations Too
+date: 2021-01-18T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA2101/S00034/nz-should-go-hard-and-early-with-vaccinations-too.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2021/01/18/nz-should-go-hard-and-early-with-vaccinations-too/index.html
+layout: layout.njk
 ---
 NZ Should Go Hard And Early With Vaccinations Too
 =================================================

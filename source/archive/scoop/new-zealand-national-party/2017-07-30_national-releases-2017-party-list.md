@@ -1,9 +1,12 @@
 ---
 slug: national-releases-2017-party-list
-title: "National releases 2017 Party List"
-date: 2017-07-30
-source-url: https://www.scoop.co.nz/stories/PA1707/S00452/national-releases-2017-party-list.htm
+title: National releases 2017 Party List
+date: 2017-07-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1707/S00452/national-releases-2017-party-list.htm
 author: new-zealand-national-party
+permalink: /archive/2017/07/30/national-releases-2017-party-list/index.html
+layout: layout.njk
 ---
 National releases 2017 Party List
 =================================

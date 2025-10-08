@@ -1,9 +1,13 @@
 ---
 slug: councils-hire-thousands-more-staff-in-five-years
-title: "Councils hire thousands more staff in five years"
-date: 2007-05-14
-source-url: https://www.scoop.co.nz/stories/PA0705/S00318/councils-hire-thousands-more-staff-in-five-years.htm
+title: Councils hire thousands more staff in five years
+date: 2007-05-14T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0705/S00318/councils-hire-thousands-more-staff-in-five-years.htm
 author: new-zealand-national-party
+permalink: >-
+  /archive/2007/05/14/councils-hire-thousands-more-staff-in-five-years/index.html
+layout: layout.njk
 ---
 Councils hire thousands more staff in five years
 ================================================

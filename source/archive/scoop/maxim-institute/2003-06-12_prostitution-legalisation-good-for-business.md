@@ -1,9 +1,12 @@
 ---
 slug: prostitution-legalisation-good-for-business
-title: "Prostitution legalisation good for business"
-date: 2003-06-12
-source-url: https://www.scoop.co.nz/stories/PO0306/S00069/prostitution-legalisation-good-for-business.htm
+title: Prostitution legalisation good for business
+date: 2003-06-12T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO0306/S00069/prostitution-legalisation-good-for-business.htm
 author: maxim-institute
+permalink: /archive/2003/06/12/prostitution-legalisation-good-for-business/index.html
+layout: layout.njk
 ---
 Prostitution legalisation good for business
 ===========================================

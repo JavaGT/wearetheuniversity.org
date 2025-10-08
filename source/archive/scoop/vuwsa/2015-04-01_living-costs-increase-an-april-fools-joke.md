@@ -1,9 +1,12 @@
 ---
 slug: living-costs-increase-an-april-fools-joke
-title: "Living Costs Increase an April Fools’ Joke"
-date: 2015-04-01
-source-url: https://www.scoop.co.nz/stories/PO1504/S00006/living-costs-increase-an-april-fools-joke.htm
+title: Living Costs Increase an April Fools’ Joke
+date: 2015-04-01T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PO1504/S00006/living-costs-increase-an-april-fools-joke.htm
 author: vuwsa
+permalink: /archive/2015/04/01/living-costs-increase-an-april-fools-joke/index.html
+layout: layout.njk
 ---
 Living Costs Increase an April Fools’ Joke
 ==========================================

@@ -1,9 +1,12 @@
 ---
 slug: return-of-first-n-z-liver-bowel-transplant
-title: "Return Of First N.Z. Liver/Bowel Transplant"
-date: 2003-10-03
-source-url: https://www.scoop.co.nz/stories/GE0310/S00006/return-of-first-nz-liverbowel-transplant.htm
+title: Return Of First N.Z. Liver/Bowel Transplant
+date: 2003-10-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE0310/S00006/return-of-first-nz-liverbowel-transplant.htm
 author: university-of-otago
+permalink: /archive/2003/10/03/return-of-first-n-z-liver-bowel-transplant/index.html
+layout: layout.njk
 ---
 Return Of First N.Z. Liver/Bowel Transplant
 ===========================================

@@ -1,9 +1,12 @@
 ---
 slug: new-school-of-rural-health-not-the-solution
-title: "New School of Rural Health not the solution"
-date: 2017-03-21
-source-url: https://www.scoop.co.nz/stories/GE1703/S00058/new-school-of-rural-health-not-the-solution.htm
+title: New School of Rural Health not the solution
+date: 2017-03-21T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/GE1703/S00058/new-school-of-rural-health-not-the-solution.htm
 author: university-of-waikato
+permalink: /archive/2017/03/21/new-school-of-rural-health-not-the-solution/index.html
+layout: layout.njk
 ---
 New School of Rural Health not the solution
 ===========================================

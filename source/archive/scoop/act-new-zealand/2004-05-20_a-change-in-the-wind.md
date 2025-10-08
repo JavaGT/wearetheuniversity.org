@@ -1,9 +1,11 @@
 ---
 slug: a-change-in-the-wind
-title: "A Change In The Wind"
-date: 2004-05-20
+title: A Change In The Wind
+date: 2004-05-20T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PA0405/S00412/a-change-in-the-wind.htm
 author: act-new-zealand
+permalink: /archive/2004/05/20/a-change-in-the-wind/index.html
+layout: layout.njk
 ---
 A Change In The Wind
 ====================

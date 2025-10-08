@@ -1,9 +1,12 @@
 ---
 slug: hungarian-president-lecturing-on-sustainability
-title: "Hungarian President Lecturing On Sustainability"
-date: 2009-09-22
-source-url: https://www.scoop.co.nz/stories/ED0909/S00081/hungarian-president-lecturing-on-sustainability.htm
+title: Hungarian President Lecturing On Sustainability
+date: 2009-09-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0909/S00081/hungarian-president-lecturing-on-sustainability.htm
 author: auckland-university
+permalink: /archive/2009/09/22/hungarian-president-lecturing-on-sustainability/index.html
+layout: layout.njk
 ---
 Hungarian President Lecturing On Sustainability
 ===============================================

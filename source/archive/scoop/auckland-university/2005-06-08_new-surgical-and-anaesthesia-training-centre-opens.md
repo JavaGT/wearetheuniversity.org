@@ -1,9 +1,13 @@
 ---
 slug: new-surgical-and-anaesthesia-training-centre-opens
-title: "New surgical and anaesthesia training centre opens"
-date: 2005-06-08
-source-url: https://www.scoop.co.nz/stories/ED0506/S00015/new-surgical-and-anaesthesia-training-centre-opens.htm
+title: New surgical and anaesthesia training centre opens
+date: 2005-06-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0506/S00015/new-surgical-and-anaesthesia-training-centre-opens.htm
 author: auckland-university
+permalink: >-
+  /archive/2005/06/08/new-surgical-and-anaesthesia-training-centre-opens/index.html
+layout: layout.njk
 ---
 New surgical and anaesthesia training centre opens
 ==================================================

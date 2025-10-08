@@ -1,9 +1,12 @@
 ---
 slug: upton-online-legislating-for-virtue-on-venus
-title: "Upton Online: Legislating for Virtue on Venus"
-date: 2000-03-30
-source-url: https://www.scoop.co.nz/stories/PA0003/S00554/upton-online-legislating-for-virtue-on-venus.htm
+title: 'Upton Online: Legislating for Virtue on Venus'
+date: 2000-03-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0003/S00554/upton-online-legislating-for-virtue-on-venus.htm
 author: new-zealand-national-party
+permalink: /archive/2000/03/30/upton-online-legislating-for-virtue-on-venus/index.html
+layout: layout.njk
 ---
 Upton Online: Legislating for Virtue on Venus
 =============================================

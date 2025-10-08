@@ -1,9 +1,12 @@
 ---
 slug: search-engines-emerge-from-googles-shadow
-title: "Search engines emerge from Google's shadow"
-date: 2007-03-08
-source-url: https://www.scoop.co.nz/stories/SC0703/S00020/search-engines-emerge-from-googles-shadow.htm
+title: Search engines emerge from Google's shadow
+date: 2007-03-08T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0703/S00020/search-engines-emerge-from-googles-shadow.htm
 author: massey-university
+permalink: /archive/2007/03/08/search-engines-emerge-from-googles-shadow/index.html
+layout: layout.njk
 ---
 Search engines emerge from Google's shadow
 ==========================================

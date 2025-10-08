@@ -1,9 +1,12 @@
 ---
 slug: students-to-get-a-taste-of-viticulture
-title: "Students to get a taste of viticulture"
-date: 2005-02-04
-source-url: https://www.scoop.co.nz/stories/SC0502/S00012/students-to-get-a-taste-of-viticulture.htm
+title: Students to get a taste of viticulture
+date: 2005-02-04T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/SC0502/S00012/students-to-get-a-taste-of-viticulture.htm
 author: auckland-university
+permalink: /archive/2005/02/04/students-to-get-a-taste-of-viticulture/index.html
+layout: layout.njk
 ---
 Students to get a taste of viticulture
 ======================================

@@ -1,9 +1,12 @@
 ---
 slug: government-wastes-legal-aid-on-algerian-case
-title: "Government wastes legal aid on Algerian case"
-date: 2003-08-05
-source-url: https://www.scoop.co.nz/stories/PA0308/S00083/government-wastes-legal-aid-on-algerian-case.htm
+title: Government wastes legal aid on Algerian case
+date: 2003-08-05T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0308/S00083/government-wastes-legal-aid-on-algerian-case.htm
 author: new-zealand-national-party
+permalink: /archive/2003/08/05/government-wastes-legal-aid-on-algerian-case/index.html
+layout: layout.njk
 ---
 Government wastes legal aid on Algerian case
 ============================================

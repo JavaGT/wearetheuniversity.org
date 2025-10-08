@@ -1,9 +1,12 @@
 ---
 slug: another-indicator-drops-now-job-ads-down
-title: "Another indicator drops – now job ads down"
-date: 2012-11-15
-source-url: https://www.scoop.co.nz/stories/PA1211/S00258/another-indicator-drops-now-job-ads-down.htm
+title: Another indicator drops – now job ads down
+date: 2012-11-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1211/S00258/another-indicator-drops-now-job-ads-down.htm
 author: new-zealand-labour-party
+permalink: /archive/2012/11/15/another-indicator-drops-now-job-ads-down/index.html
+layout: layout.njk
 ---
 Another indicator drops – now job ads down
 ==========================================

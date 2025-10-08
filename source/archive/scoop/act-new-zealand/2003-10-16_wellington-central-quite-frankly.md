@@ -1,9 +1,12 @@
 ---
 slug: wellington-central-quite-frankly
-title: "Wellington Central, Quite Frankly"
-date: 2003-10-16
-source-url: https://www.scoop.co.nz/stories/PA0310/S00366/wellington-central-quite-frankly.htm
+title: Wellington Central, Quite Frankly
+date: 2003-10-16T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0310/S00366/wellington-central-quite-frankly.htm
 author: act-new-zealand
+permalink: /archive/2003/10/16/wellington-central-quite-frankly/index.html
+layout: layout.njk
 ---
 Wellington Central, Quite Frankly
 =================================

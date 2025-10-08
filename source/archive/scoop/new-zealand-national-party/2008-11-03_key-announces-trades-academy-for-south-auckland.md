@@ -1,9 +1,12 @@
 ---
 slug: key-announces-trades-academy-for-south-auckland
-title: "Key announces Trades Academy for South Auckland"
-date: 2008-11-03
-source-url: https://www.scoop.co.nz/stories/PA0811/S00023/key-announces-trades-academy-for-south-auckland.htm
+title: Key announces Trades Academy for South Auckland
+date: 2008-11-03T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0811/S00023/key-announces-trades-academy-for-south-auckland.htm
 author: new-zealand-national-party
+permalink: /archive/2008/11/03/key-announces-trades-academy-for-south-auckland/index.html
+layout: layout.njk
 ---
 Key announces Trades Academy for South Auckland
 ===============================================

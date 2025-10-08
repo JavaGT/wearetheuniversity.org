@@ -1,9 +1,12 @@
 ---
 slug: peters-is-there-an-enemy-within
-title: "Peters: Is There An Enemy Within?"
-date: 2005-08-10
-source-url: https://www.scoop.co.nz/stories/PA0508/S00271/peters-is-there-an-enemy-within.htm
+title: 'Peters: Is There An Enemy Within?'
+date: 2005-08-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0508/S00271/peters-is-there-an-enemy-within.htm
 author: new-zealand-first-party
+permalink: /archive/2005/08/10/peters-is-there-an-enemy-within/index.html
+layout: layout.njk
 ---
 Peters: Is There An Enemy Within?
 =================================

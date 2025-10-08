@@ -1,9 +1,12 @@
 ---
 slug: time-to-aim-a-spotlight-on-contaminated-land
-title: "Time to aim a spotlight on contaminated land"
-date: 2008-10-09
-source-url: https://www.scoop.co.nz/stories/PA0810/S00211/time-to-aim-a-spotlight-on-contaminated-land.htm
+title: Time to aim a spotlight on contaminated land
+date: 2008-10-09T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA0810/S00211/time-to-aim-a-spotlight-on-contaminated-land.htm
 author: green-party
+permalink: /archive/2008/10/09/time-to-aim-a-spotlight-on-contaminated-land/index.html
+layout: layout.njk
 ---
 Time to aim a spotlight on contaminated land
 ============================================

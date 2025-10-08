@@ -1,9 +1,12 @@
 ---
 slug: aus-tertiary-update-volume-5-no-18
-title: "AUS Tertiary Update Volume 5, No 18"
-date: 2002-05-30
-source-url: https://www.scoop.co.nz/stories/ED0205/S00073/aus-tertiary-update-volume-5-no-18.htm
+title: AUS Tertiary Update Volume 5, No 18
+date: 2002-05-30T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0205/S00073/aus-tertiary-update-volume-5-no-18.htm
 author: association-of-university-staff
+permalink: /archive/2002/05/30/aus-tertiary-update-volume-5-no-18/index.html
+layout: layout.njk
 ---
 AUS Tertiary Update Volume 5, No 18
 ===================================

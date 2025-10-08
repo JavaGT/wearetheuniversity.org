@@ -1,9 +1,11 @@
 ---
 slug: put-a-library-in-your-pocket
-title: "Put a library in your pocket"
-date: 2008-12-15
+title: Put a library in your pocket
+date: 2008-12-15T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/ED0812/S00056/put-a-library-in-your-pocket.htm
 author: university-of-waikato
+permalink: /archive/2008/12/15/put-a-library-in-your-pocket/index.html
+layout: layout.njk
 ---
 Put a library in your pocket
 ============================

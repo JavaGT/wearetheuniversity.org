@@ -1,9 +1,13 @@
 ---
 slug: top-kiwi-writer-to-join-victoria-creative-writing-programme
-title: "Top Kiwi Writer To Join Victoria Creative Writing Programme"
-date: 2012-10-10
-source-url: https://www.scoop.co.nz/stories/ED1210/S00068/top-kiwi-writer-to-join-victoria-creative-writing-programme.htm
+title: Top Kiwi Writer To Join Victoria Creative Writing Programme
+date: 2012-10-10T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED1210/S00068/top-kiwi-writer-to-join-victoria-creative-writing-programme.htm
 author: victoria-university-of-wellington
+permalink: >-
+  /archive/2012/10/10/top-kiwi-writer-to-join-victoria-creative-writing-programme/index.html
+layout: layout.njk
 ---
 Top Kiwi Writer To Join Victoria Creative Writing Programme
 ===========================================================

@@ -1,9 +1,11 @@
 ---
 slug: name-change-for-money-week
-title: "Name change for Money Week?"
-date: 2012-09-07
+title: Name change for Money Week?
+date: 2012-09-07T00:00:00.000Z
 source-url: https://www.scoop.co.nz/stories/PO1209/S00089/name-change-for-money-week.htm
 author: nzusa-new-zealand-union-of-students-associations
+permalink: /archive/2012/09/07/name-change-for-money-week/index.html
+layout: layout.njk
 ---
 Name change for Money Week?
 ===========================

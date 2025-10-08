@@ -1,9 +1,12 @@
 ---
 slug: students-back-southland-in-npc-zero-fees-team
-title: "Students back Southland in NPC – zero fees team"
-date: 2003-08-15
-source-url: https://www.scoop.co.nz/stories/ED0308/S00060/students-back-southland-in-npc-zero-fees-team.htm
+title: Students back Southland in NPC – zero fees team
+date: 2003-08-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/ED0308/S00060/students-back-southland-in-npc-zero-fees-team.htm
 author: new-zealand-university-student-s-association
+permalink: /archive/2003/08/15/students-back-southland-in-npc-zero-fees-team/index.html
+layout: layout.njk
 ---
 Students back Southland in NPC – zero fees team
 ===============================================

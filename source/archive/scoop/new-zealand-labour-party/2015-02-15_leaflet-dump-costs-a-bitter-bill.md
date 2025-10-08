@@ -1,9 +1,12 @@
 ---
 slug: leaflet-dump-costs-a-bitter-bill
-title: "Leaflet dump costs a bitter bill"
-date: 2015-02-15
-source-url: https://www.scoop.co.nz/stories/PA1502/S00152/leaflet-dump-costs-a-bitter-bill.htm
+title: Leaflet dump costs a bitter bill
+date: 2015-02-15T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1502/S00152/leaflet-dump-costs-a-bitter-bill.htm
 author: new-zealand-labour-party
+permalink: /archive/2015/02/15/leaflet-dump-costs-a-bitter-bill/index.html
+layout: layout.njk
 ---
 Leaflet dump costs a bitter bill
 ================================

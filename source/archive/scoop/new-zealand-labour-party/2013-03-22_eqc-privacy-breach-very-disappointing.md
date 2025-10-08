@@ -1,9 +1,12 @@
 ---
 slug: eqc-privacy-breach-very-disappointing
-title: "EQC privacy breach very disappointing"
-date: 2013-03-22
-source-url: https://www.scoop.co.nz/stories/PA1303/S00409/eqc-privacy-breach-very-disappointing.htm
+title: EQC privacy breach very disappointing
+date: 2013-03-22T00:00:00.000Z
+source-url: >-
+  https://www.scoop.co.nz/stories/PA1303/S00409/eqc-privacy-breach-very-disappointing.htm
 author: new-zealand-labour-party
+permalink: /archive/2013/03/22/eqc-privacy-breach-very-disappointing/index.html
+layout: layout.njk
 ---
 EQC privacy breach very disappointing
 =====================================
